@@ -1,0 +1,801 @@
+{{Short description|none}}
+{{Use dmy dates|date=June 2021}}
+{{Infobox election
+| country = Mongolia
+| type = presidential
+| previous_election = 2017 Mongolian presidential election
+| previous_year = 2017
+| next_election = 2027 Mongolian presidential election
+| next_year = ''2027''
+| election_date = 9 June 2021
+| votes_for_election = Majority of the [[Direct election|popular vote]] needed to prevent a [[run-off election|run-off]]
+| image_size = 130x130px
+| image1 = Ukhnaagiin Khurelsukh, 2021 Mongolian presidential candidate.jpg
+| nominee1 = '''[[Ukhnaagiin Khürelsükh]]'''
+| party1 = Mongolian People's Party
+| popular_vote1 = '''823,326'''
+| percentage1 = '''67.76%'''
+| image2 = Dangaasurengiin Enkhbat, 2021 Mongolian presidential candidate.jpg
+| nominee2 = [[Dangaasürengiin Enkhbat]]
+| party2 = Right Person Electorate Coalition
+| popular_vote2 = 246,968
+| percentage2 = 20.33%
+| image3 = Sodnomzunduin Erdene, 2021 Mongolian presidential candidate.jpg
+| nominee3 = [[Sodnomzunduin Erdene]]
+| party3 = Democratic Party (Mongolia)
+| popular_vote3 = 72,832
+| percentage3 = 5.99%
+| title = President
+| before_election = [[Khaltmaagiin Battulga]]
+| before_party = Democratic Party (Mongolia)
+| after_election = [[Ukhnaagiin Khürelsükh]]
+| after_party = Mongolian People's Party
+| map = {{switcher | [[File:2021 Mongolia Presidential Election (Provincial).svg|350px]] | Results by [[Provinces of Mongolia|province]] | [[File:2021 Mongolia Presidential Election (Municipal).svg|350px]] | Results by [[Districts of Mongolia|districts]]}}
+| turnout = 59.29% ({{decrease}} 1.38[[percentage points|pp]])
+}}{{Politics of Mongolia}}
+
+Presidential elections were held in [[Mongolia]] on 9 June 2021.<ref>[https://montsame.mn/en/read/250819 Presidential election scheduled for June 9, 2021] Montsame, 21 January 2021</ref> The result was a victory for former prime minister [[Ukhnaagiin Khürelsükh]] of the [[Mongolian People's Party]] (MPP), who received 72% of the valid vote.<ref>{{Cite web|date=2021-06-10|title=Former PM wins Mongolia's Covid-hit presidential election|url=https://www.france24.com/en/live-news/20210610-former-pm-wins-mongolia-s-covid-hit-presidential-election|access-date=2022-01-10|website=France 24|language=en}}</ref> The elections were considered free and fair by [[Organization for Security and Co-operation in Europe|OSCE]].<ref>{{Cite web|title=Mongolia, Presidential Election, 9 June 2021: Final Report|url=https://www.osce.org/odihr/elections/mongolia/502083|access-date=2022-01-10|website=[[Organization for Security and Co-operation in Europe]]|date=22 October 2021 |language=en}}</ref> However, there was controversy as several opposition candidates were disqualified and former president [[Khaltmaagiin Battulga]] was barred from running for a second term.<ref>{{Cite web|last=Bayarlkhagva|first=Munkhnaran|title=Mongolia edges towards autocracy|url=https://www.aljazeera.com/opinions/2021/7/18/mongolia-edges-towards-autocracy|access-date=2022-01-10|website=Al Jazeera|language=en}}</ref><ref>{{Cite web|title=After Wild Election Season, What's Next for Mongolia?|url=https://thediplomat.com/2021/06/after-wild-election-season-whats-next-for-mongolia/|access-date=2022-01-10|website=The Diplomat|language=en-US}}</ref><ref>{{Cite web|last=Lkhaajav|first=Bolor|title=Mongolia's Ruling Party Just Consolidated Power Even More|url=https://www.worldpoliticsreview.com/articles/29769/mongolia-election-prompts-fears-of-one-party-rule|access-date=2022-01-10|website=World Politics Review|date=30 June 2021 |language=en}}</ref>
+
+==Background==
+
+=== 2020 parliamentary election ===
+In the [[2020 Mongolian parliamentary election|2020 parliamentary election]], the Mongolian People's Party (MPP) won a landslide victory, winning a [[supermajority]] of 62 seats in the [[State Great Khural]]. The main opposition party, the [[Democratic Party (Mongolia)|Democratic Party]] (DP), won 11 seats, while the [[Mongolian People's Revolutionary Party (2010)|Mongolian People's Revolutionary Party]] (MPRP) and the newcomer [[HUN Party|National Labour Party]] each won a single seat.<ref name=":4">{{Cite web |last=Blackwood |first=Maria A. |date=2021-06-21 |title=Mongolia’s Presidential Election |url=https://www.congress.gov/crs_external_products/IN/PDF/IN11692/IN11692.2.pdf |access-date=2026-02-19 |website=[[Congressional Research Service]] |language=en}}</ref> As a result, four political parties with parliamentary seats were eligible to compete in the upcoming 2021 presidential elections.
+
+Despite increasing their seats from 8 to 11, the DP faced a heavy defeat, as all of its incumbent lawmakers except [[Bökhchuluuny Pürevdorj]] lost re-election. Party chairman [[Sodnomzunduin Erdene]] also lost his seat in the 4th [[Bayangol, Ulaanbaatar|Bayangol]] district to the MPP. Following the [[Electoral wipeout|wipeout]], Erdene resigned as party chairman and transferred interim roles to MP-elect Tsevegdorjyn Tuvaan.<ref>{{Cite web |last= |first= |date=2020-06-26 |title=How to lose an election: Erdene gets it all wrong |url=https://www.mongoliaweekly.org/post/how-to-lose-an-election-erdene-gets-it-all-wrong |access-date=2025-09-05 |website=Mongolia Weekly |language=en}}</ref> The party was left weakened by the electoral defeat and internally fractured between various pro and anti-Battulga factions due to the [[2019 Mongolian constitutional crisis|2019 constitutional crisis]].
+
+=== Resignation of Khurelsukh ===
+In late January 2021, MPP Chairman and PM [[Ukhnaagiin Khürelsükh]] resigned during his second term after two days of [[2021 Mongolian protests|protest against government handling]] of the [[COVID-19 pandemic in Mongolia|COVID-19 pandemic]].<ref>{{Cite web |last=Lkhaajav |first=Bolor |title=Mongolia's Prime Minister Offers Shock Resignation Amid Protests |url=https://thediplomat.com/2021/01/mongolias-prime-minister-offers-shock-resignation-amid-protests/ |access-date=2025-09-05 |website=The Diplomat |language=en-US}}</ref> Khurelsukh blamed incumbent president [[Khaltmaagiin Battulga]], member of the Democratic Party for inciting protests. This ultimately ended the close relationship between Khurelsukh and Battulga, and kicked off a showdown between Mongolia's two most powerful men.<ref name=":0">{{Cite web |last= |first= |date=2021-02-01 |title=What to expect from a Khurelsukh-Battulga showdown |url=https://www.mongoliaweekly.org/post/what-to-expect-from-a-khurelsukh-battulga-showdown |access-date=2025-09-05 |website=Mongolia Weekly |language=en}}</ref>
+
+Khurelsukh's shock resignation led to the collapse of [[Cabinet of Ukhnaagiin Khürelsükh|his second cabinet]] and the appointment of MPP MP [[Luvsannamsrain Oyun-Erdene]] as the next prime minister.<ref>{{Cite web |last=Batchimeg |date=2021-01-22 |title=L.OYUN-ERDENE NOMINATED AS PRIME MINISTER-DESIGNATE |url=https://president.mn/en/2021/01/22/l-oyun-erdene-nominated-for-prime-minister/ |access-date=2025-09-05 |website=President of Mongolia |language=en-GB}}</ref> Khurelsukh remained as chairman of the MPP, leaving many political analysts to speculate that his resignation was an excuse for him to leave the office of prime minister and bid for the presidency.<ref name=":0" />
+
+On 16 April 2021, the [[Constitutional Court of Mongolia|Constitutional Court]] officially countered president Battulga's claims that he should be able to run for a second term. Two days later, Battulga issued an emergency decree to disband the MPP "in order to safeguard the sovereignty and democracy of the country" after the MPP passed amendments to the [[Constitution of Mongolia|constitution]].<ref>{{cite news|author=Baljmaa.T|date=April 20, 2021|title=President presents ordinance on disbanding Mongolian People's Party|website=[[Montsame]]|url=https://montsame.mn/en/read/261031}}</ref><ref>{{cite news|author=Battulga Khaltmaa|date=April 19, 2021|title=Монгол Улсын Ерөнхийлөгч Х.Баттулга Монгол ардын намыг тараах тухай захирамж гаргаснаа танилцууллаа|language=Mongolian|via=[[YouTube]]|url=https://www.youtube.com/watch?v=jI4EbFIlSs8}}</ref><ref name=":1">{{Cite web |title=Grappling With Parliament Limiting His Powers, Mongolian President Moves to Dissolve Ruling Party |url=https://thediplomat.com/2021/04/grappling-with-parliament-limiting-his-powers-mongolian-president-moves-to-dissolve-ruling-party/ |access-date=2025-09-09 |website=The Diplomat|language=en-US}}</ref> The constitutional amendments, which took effect in May 2020, stipulated that the Mongolian president could hold office only for a single term of six years,<ref name=":4" /> making Battulga ineligible to re-run in the 2021 presidential election.<ref>{{Cite web|date=2020-01-05|title=Welcome to Battulga's rule in 2020s|url=https://www.mongoliaweekly.org/post/welcome-to-battulga-s-rule-in-2020s|access-date=2020-07-15|website=Mongolia Weekly|language=en}}</ref><ref>{{Cite web|title=Marco Rubio, Patrick Leahy Urge State Department to Do More to Promote Democracy in Mongolia |work=Florida Daily|date=6 May 2021 |url=https://www.floridadaily.com/marco-rubio-patrick-leahy-urge-state-department-to-do-more-to-promote-democracy-in-mongolia/|access-date=2021-06-05|language=en-US}}</ref> The State Great Khural did not accept his decree.<ref name=":1" />
+
+==Electoral system==
+Following the [[Constitution of Mongolia#2019 Constitutional amendments|2019 constitutional amendments]], the [[President of Mongolia|president]] is elected using the [[two-round system]] for a six-year term and may only serve one term. Previously, the term was four years, renewable once.<ref>{{Cite web|date=7 July 2017|title=Mongolia votes in first ever presidential runoff|url=https://www.aljazeera.com/news/2017/7/7/mongolia-votes-in-first-ever-presidential-runoff|access-date=10 June 2021|website=Al Jazeera}}</ref><ref>{{Cite web|last=Volodya|first=Bolormaa|date=9 January 2020|title=The Amendment On Constitution Of Mongolia|url=https://www.mondaq.com/human-rights/879568/the-amendment-on-constitution-of-mongolia|access-date=10 June 2021|website=Mondaq}}</ref> Political parties with representation in the [[State Great Khural]] are allowed to nominate candidates. The elected president must resign from any political party before their inauguration. Presidents can be removed through a two-thirds majority vote by the State Great Khural if found guilty of abusing their powers or violating the presidential oath.
+
+Articles 97.9 and 99.2 of the electoral law determine how votes are counted, with blank ballots taken into account when determining whether a candidate has crossed the 50% threshold. If no candidate receives a majority of all votes cast in the second round (including blank votes), article 8.6.2 of the electoral law requires fresh elections to be held.<ref>{{Cite web|date=7 July 2017|title=STATEMENT OF PRELIMINARY FINDINGS AND CONCLUSIONS|url=https://www.osce.org/files/f/documents/e/e/328381.pdf|access-date=10 June 2021|website=Organization for Security and Co-operation in Europe}}</ref><ref>{{Cite web|title=Electoral Law Mongolia 2016|url=https://aceproject.org/ero-en/regions/asia/MN/mongolia-electoral-law-for-state-great-hural-and/view|access-date=10 June 2021|website=ACE Project}}</ref>
+
+==Candidates==
+Political parties with representation in the State Great Khural were to nominate their candidates for the election in early May.<ref name=":1" />
+
+=== Mongolian People's Party ===
+According to a December 2020 MEC survey, Khurelsukh was the only politician in the MPP who was more popular than president Battulga.<ref>{{Cite web |last= |first= |date=2020-08-29 |title=Khurelsukh considers the top job in Mongolia |url=https://www.mongoliaweekly.org/post/khurelsukh-considers-the-top-job-in-mongolia |access-date=2025-09-09 |website=Mongolia Weekly |language=en}}</ref> Since his resignation as prime minister, it was widely believed by the public that he intended to run for the presidency.<ref>{{Cite journal |last=Altankhuyag |first=Bat-Orgil |date=2021-05-07 |title=The Price of Limiting Power |url=https://verfassungsblog.de/the-price-of-limiting-power/ |journal=Verfassungsblog |doi=10.17176/20210507-182850-0 |issn=2366-7044}}</ref>
+{| class="wikitable" style="font-size:90%;"
+! colspan="1" style="text-align:center; width:150px; font-size:120%; color:black;" |''Potential candidate''
+|- style="text-align:center"
+! scope="col" style="width:10em; font-size:120%; background:{{party color|Mongolian People's Party}}; color:white;" |<small>Ukhnaagiin Khürelsükh</small>
+|- style="text-align:center"
+| style="text-align:center" |{{CSS image crop|Location=center|Image=Shinzo Abe and Mongolian PM Khürelsükh at the PM Office 2018 (1) (cropped).jpg|bSize=120|cWidth=84|cHeight=108|oTop=2|oLeft=15}}
+|- style="text-align:center"
+| [[Chairman of the Mongolian People's Party]]
+{{small|(2017–2021)}}
+|}
+The year 2021 marked the 100th anniversary of the Mongolian People's Party and the [[Mongolian Revolution of 1921|1921 revolution]].<ref>{{Cite web |last=Ankhtuyaa|first=B. |date=2021-03-01 |title=Mongolian People's Party turns 100 - News.MN |url=https://news.mn/en/795400/ |access-date=2025-08-27 |website=News.MN |language=en}}</ref> In April 29, just six days before the nomination deadline, the MPRP agreed to merge back into the MPP after nearly a decade of separation.<ref>{{Cite web |date=29 April 2021 |title=МАН, МАХН нэгдэн нийлэх гэрээнд гарын үсэг зурлаа |trans-title=MPP and MPRP sign agreement to merge |url=https://montsame.mn/mn/read/262239 |url-status=live |archive-url=https://web.archive.org/web/20210429112021/https://montsame.mn/mn/read/262239 |archive-date=29 April 2021 |access-date=5 October 2021 |website=Montsame News Agency |language=mn}}</ref> This strategic merger narrowed the amount of candidates in the 2021 race from 4 to 3. The MPRP had been the third-largest party in Mongolia and in the [[State Great Khural]] since 2012. Former president and MPRP chairman [[Nambaryn Enkhbayar]] backed Khurelsukh for the presidency.<ref>{{Cite web |title=Mongolian People's Party, Mongolian People's Revolutionary Party merge |url=https://montsame.mn/en/read/262327 |access-date=2025-09-05 |website=Montsame News Agency |language=en}}</ref>
+
+=== Democratic Party ===
+Political infightings within the DP reached a boiling point in February when presidential nominee hopeful, [[Oyungerel Tsedevdamba|Tsedevdambyn Oyungerel]] backed Erdene against interim leader Tuvaan's faction loyal to Battulga. Tuvaan and his allies exiled Erdene from the party for 8 years and in return Erdene excused Tuvaan from his interim position in an online post. In the subsequent following days, many veteran DP politicians and MPs sided against Battulga's renomination but not on the side of Erdene.<ref>{{Cite web |last=Ariunzaya|first=B.|date=2021-02-01 |title=Ц.Туваан С.Эрдэнийг "хөөж", С.Эрдэнэ Ц.Тувааныг чөлөөлөв |url=https://tovch.mn/n/162c?utm_source=Mongolia+Weekly&utm_campaign=223c99352e-EMAIL_CAMPAIGN_2019_11_28_11_33_COPY_01&utm_medium=email&utm_term=0_9a59177f81-223c99352e-28259541&ct=t(Y_COPY_01)&mc_cid=223c99352e&mc_eid=4e4dfc7be4 |access-date=2025-09-06 |website=Tovch |language=mn}}</ref>
+
+Campaign for the next party chairman kicked off in March between 9 candidates. Approximately 200,000 Democratic Party members and supporters were eligible to vote online for the next leader.<ref>{{Cite web |date=2021-03-19 |title=Ардчилсан намын даргад нэр дэвшигчдийн цахим уулзалт амжилттай үргэлжилж байна |url=https://ikon.mn/n/25ux |access-date=2025-09-05 |website=Ikon|language=mn}}</ref> Two primaries were held by two sides of the party, which led to the party having two elected party chairman, Mainbayaryn Tulgat ally of Erdene and [[Odongiin Tsogtgerel]] ally of Tuvaan.<ref>{{Cite web |date=2021-03-27 |title=Ардчилсан намын даргын сонгуульд нэр дэвшигчдийн олон нийтийн санал асуулгыг Одонгийн Цогтгэрэл тэргүүлжээ |url=https://www.zindaa.mn/3ndn |access-date=2025-09-05 |website=Zindaa|language=mn}}</ref> The [[Supreme Court of Mongolia]] refused to register neither as the party chairman, stating that "this is an internal party matter that the Supreme Court should not be involved with".<ref>{{Cite web |last= |date=2021-04-28 |title=АН нэгдэж чадалгүй ЕРӨНХИЙЛӨГЧИЙН СОНГУУЛИЙГ өнжих үү! |url=https://www.zindaa.mn/3oz4 |access-date=2025-09-09 |website=Zindaa|language=mn}}</ref> The DP was unable to unify under a single chairman before the June elections and Battulga increasingly distanced himself from the political infighting.
+{| class="wikitable" style="font-size:90%;"
+! colspan="10" style="text-align:center; width:150px; font-size:120%; color:black;" |''Potential candidates from Tulgat-led DP<ref name=":2">{{Cite web |last=Nyam-Ölzii |first=A. |date=2021-04-30 |title=АН-аас Ерөнхийлөгчийн сонгуульд нэр дэвшихийг горилогчид тодорч эхэлсэн бол МАН, ХҮН эцсийн мөчид нэр дэвшигчээ тодруулна |url=https://ikon.mn/opinion/27fd |access-date=2025-09-09 |website=Ikon |language=mn}}</ref>''
+|- style="text-align:center"
+! scope="col" style="width:10em; font-size:120%; background:{{party color|Democratic Party (Mongolia)}}; color:white;" |<small>Sodnomzunduin Erdene</small>
+! scope="col" style="width:10em; font-size:120%; color:#fff;  background:{{party color|Democratic Party (Mongolia)}};"|[[Rinchinnyamyn Amarjargal|<span style="display:none;">E</span> <span style="color:white;"><small>Rinchinnyamyn Amarjargal</small></span>]]
+! scope="col" style="width:10em; font-size:120%; color:#fff;  background:{{party color|Democratic Party (Mongolia)}};"|[[Oyungerel Tsedevdamba|<span style="display:none;">E</span> <span style="color:white;"><small>Tsedevdambyn Oyungerel</small></span>]]
+|- style="text-align:center"
+| style="text-align:center" |{{CSS image crop|Location=center|Image=S.Erdene.jpg|bSize=130|cWidth=84|cHeight=108|oTop=5|oLeft=30}}
+| style="text-align:center" |{{CSS image crop|Location=center|Image=Р.Амаржаргал МҮХАТ, Voice of Business уулзалт.jpg|bSize=275|cWidth=84|cHeight=108|oTop=14|oLeft=85}}
+| style="text-align:center" |{{CSS image crop|Location=center|Image=Oyungerel Tsedevdamba.jpg|bSize=150|cWidth=84|cHeight=108|oTop=0|oLeft=30}}
+|- style="text-align:center"
+|[[Chairman of the Democratic Party (Mongolia)|Chairman]] of the [[Democratic Party (Mongolia)|Democratic Party]]
+{{small|(2017–2020)}}
+|[[Prime Minister of Mongolia]]
+{{small|(1999–2000)}}
+|Member of the [[State Great Khural]]
+{{small|(2012–2016)}}
+|}
+{| class="wikitable" style="font-size:90%;"
+! colspan="10" style="text-align:center; width:150px; font-size:120%; color:black;" |''Potential candidates from Tsogtgerel-led DP''<ref name=":2" />
+|- style="text-align:center"
+! scope="col" style="width:10em; font-size:120%; color:#fff;  background:{{party color|Democratic Party (Mongolia)}};"|[[Norovyn Altankhuyag|<span style="display:none;">E</span> <span style="color:white;"><small>Norovyn Altankhuyag</small></span>]]
+! scope="col" style="width:10em; font-size:120%; color:#fff;  background:{{party color|Democratic Party (Mongolia)}};"|[[Sainkhuugiin Ganbaatar|<span style="display:none;">E</span> <span style="color:white;"><small>Sainkhuugiin Ganbaatar</small></span>]]
+! scope="col" style="width:10em; font-size:120%; background:{{party color|Democratic Party (Mongolia)}}; color:white;" |<small>Khishigdembereliin Temuujin</small>
+|- style="text-align:center"
+| style="text-align:center" |{{CSS image crop|Location=center|Image=Norovyn Altankhuyag Portrait.jpg|bSize=270|cWidth=84|cHeight=108|oTop=120|oLeft=93}}
+| style="text-align:center" |{{CSS image crop|Location=center|Image=Sainkhuugiin Ganbaatar in 2021 (cropped).jpg|bSize=120|cWidth=84|cHeight=108|oTop=5|oLeft=17}}
+| style="text-align:center" |{{CSS image crop|Location=center|Image=|bSize=150|cWidth=84|cHeight=108|oTop=0|oLeft=30}}
+|- style="text-align:center"
+|Member of the [[State Great Khural]]
+{{small|(2020–present)}}
+|Member of the [[State Great Khural]]
+{{small|(2020–present)<br/>(Joined the DP after the MPRP merged)}}
+|[[Ministry of Justice and Internal Affairs (Mongolia)|Minister of Justice and Home Affairs]]
+{{small|(2012–2014)}}
+|}The two factions of the DP nominated Sodnomzunduin Erdene and MP [[Norovyn Altankhuyag]] as their presidential nominees. Altankhuyag was nominated by a 97.6% vote from National Policy Committee, and was backed by all 11 Democratic MPs.<ref>{{Cite web |last=Manlay |first=B. |date=2021-05-02 |title=АН-ын ҮБХ Н.Алтанхуягийг Ерөнхийлөгчийн сонгуульд нэр дэвшүүлэхийг 97.6%-ийн саналаар дэмжлээ |url=https://ikon.mn/n/27gx |access-date=2025-09-09 |website=Ikon |language=mn}}</ref><ref>{{Cite web |last=Nomin |first=G. |date=2021-05-01 |title=О.Цогтгэрэл даргатай АН-аас УИХ-ын гишүүн Н.Алтанхуягийг Ерөнхийлөгчийн сонгуульд нэр дэвшүүлэхээр болжээ |url=https://ikon.mn/n/27gg |access-date=2025-09-09 |website=Ikon |language=mn}}</ref> Erdene was nominated by the Tulgat-led faction on the day before Altankhuyag's nomination, [[Oyungerel Tsedevdamba|Tsedevdambyn Oyungerel]] had been considered a potential candidate<ref>{{Cite web |title=Is Mongolia Ready for a Female President? |url=https://thediplomat.com/2021/01/is-mongolia-ready-for-a-female-president/ |access-date=8 February 2021 |website=The Diplomat|language=en-US}}</ref> but she lost her bid to Erdene.<ref>{{Cite web |last=Nomin |first=G. |date=2021-05-01 |title=М.Тулгат даргатай АН-аас Ерөнхийлөгчийн сонгуульд өрсөлдөх нэр дэвшигчээр С.Эрдэнэ тодорчээ |url=https://ikon.mn/n/27gf |access-date=2025-09-09 |website=Ikon |language=mn}}</ref>
+
+The [[General Election Commission of Mongolia|General Election Commission]] (GEC) did not accept the two candidates until the party fully decided on a single candidate on May 6.<ref>{{Cite web |title=БАРИМТ БИЧГИЙГ НЯГТЛАН ШАЛГАЖ ХҮЛЭЭН АВАХЫГ ҮҮРЭГ БОЛГОВ |url=https://www.gec.gov.mn/blog/3137 |access-date=2025-09-09 |website=General Election Committee |language=mn}}</ref> Altankhuyag's ally MPs and supporters protested the GEC decision to not accept the registration, stating "Erdene fractured our party and is not the representation of our party"<ref>{{Cite web |last=Saran |first=T.|date=2021-05-05 |title=УИХ дахь АН-ын бүлгийн гишүүд суулт зарлажээ |url=https://ikon.mn/n/27l7 |access-date=2025-09-09 |website=Ikon |language=mn}}</ref> and launched hunger strikes and demonstrations in [[Sükhbaatar Square]].<ref>{{Cite web |last=Saran |first=T. |date=2021-05-05 |title=ФОТО: Нэр дэвшигчээ бүртгэхийг шаардаж, өлсгөлөн зарлаж буй АН-ын гишүүд |url=https://ikon.mn/n/27lv |access-date=2025-09-09 |website=Ikon |language=mn}}</ref><ref>{{Cite web |last=Mörön |first=G. |date=2021-05-06 |title=ФОТО: УИХ дахь Ардчилсан намын бүлгийн гишүүд өлсгөлөн зарласан хоёр дахь өдөр |url=https://ikon.mn/n/27n8 |access-date=2025-09-09 |website=Ikon |language=mn}}</ref><ref name=":4" />
+
+It was ultimately decided that Erdene would be nominated for the 2021 election.<ref name=":4" />
+
+=== Registered candidates ===
+The General Election Commission registered three candidates on 5 May 2021.<ref>{{Cite web |author=A. Namuun |date=8 May 2021 |title=Ерөнхийлөгчийн сонгуульд нэр дэвшигчдийн үнэмлэхийг тавдугаар сарын 24-нд олгож, нийтэд мэдээлнэ |url=https://ikon.mn/n/27px |access-date=9 May 2021 |website=Ikon |language=mn}}</ref>
+{| class="wikitable sortable" style="text-align:center"
+! style="width: 115px;" |Names
+! style="width: 145px;" |Born
+! style="width: 145px;" |Last position
+! colspan="3" style="width: 215px;" |Party
+|-
+| data-sort-value="Khurelsukh, Ukhnaa" |{{CSS image crop|Image=Ukhnaagiin Khurelsukh, 2021 Mongolian presidential candidate.jpg|bSize=100|cWidth=90|cHeight=120|oTop=0|oLeft=5|Location=center}}'''[[Ukhnaagiin Khurelsukh]]'''
+|{{dts|1968|06|14|format=dmy}}<br>({{age nts|1968|06|14|2021|6|9}})<br>[[Ulaanbaatar]], [[Mongolian People's Republic|Mongolia]]
+|[[Prime Minister of Mongolia]]<br>(2017–2021)<br>[[Chairman of the Mongolian People's Party|Chairman of the MPP]]<br>(2017–2021)<br>Member of the [[State Great Khural]]<br>(2020–2021)
+|{{party color cell|Mongolian People's Party}}
+|[[File:Logo_of_the_Mongolian_People's_Party.svg|60x60px]]
+|[[Mongolian People's Party]]
+|-
+| data-sort-value="Erdene, Sodnomzundui" |{{CSS image crop|Image=Sodnomzunduin Erdene, 2021 Mongolian presidential candidate.jpg|bSize=120|cWidth=90|cHeight=120|oTop=2|oLeft=18|Location=center}}'''[[Sodnomzunduin Erdene]]'''
+|{{dts|1963|7|28|format=dmy}}<br>({{age nts|1963|7|28|2021|6|9}})<br>[[Ulaanbaatar]], [[Mongolian People's Republic|Mongolia]]
+|[[Chairman of the Democratic Party (Mongolia)|Chairman of the Democratic Party]]<br>(2017–2020)<br>Member of the [[State Great Khural]]<br>(2016–2020)
+|{{party color cell|Democratic Party (Mongolia)}}
+|[[File:Democratic_Party_of_Mongolia_logo.png|60x60px]]
+|[[Democratic Party (Mongolia)|Democratic Party of Mongolia]]
+|-
+| data-sort-value="Enkhbat, Dangaasuren" |{{CSS image crop|Image=Dangaasurengiin Enkhbat, 2021 Mongolian presidential candidate.jpg|bSize=100|cWidth=90|cHeight=120|oTop=4|oLeft=3|Location=center}}'''[[Dangaasürengiin Enkhbat]]'''
+|{{dts|1959|01|19|format=dmy}}<br>({{age nts|1959|01|19|2021|6|9}})<br>[[Ulaanbaatar]], [[Mongolian People's Republic|Mongolia]]
+|Member of the [[State Great Khural]]<br>(2008–2012)
+|{{party color cell|National Labor Party (Mongolia)}}
+|[[File:National Labour Party (Mongolia) logo.jpg|60x60px]]
+|[[Right Person Electorate Coalition]]
+|}
+==Opinion polls==
+Former Prime Minister Ukhnaagiin Khürelsükh led the opinion polls according to an MEC survey in April 2021.<ref>{{Cite web|date=18 March 2021|title=Chart of the Week - Political Ratings|url=https://www.mongoliaweekly.org/post/chart-of-the-week-political-ratings|url-status=live|access-date=9 May 2021|website=Mongolia Weekly|language=en|archive-url=https://web.archive.org/web/20210319002554/https://www.mongoliaweekly.org/post/chart-of-the-week-political-ratings |archive-date=19 March 2021 }}</ref>
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! rowspan="2" style="width:110px;" |Polling firm
+! rowspan="2" style="width:110px;" |Fieldwork date
+! rowspan="2" style="width: 35px;" |Sample
+size
+! class="unsortable" style="width:50px;" |[[Ukhnaagiin Khürelsükh|Khürelsükh]]<br><small>[[Mongolian People's Party|MPP]]</small>
+! class="unsortable" style="width:50px;" |[[Sodnomzunduin Erdene|Erdene]]<br><small>[[Democratic Party (Mongolia)|DP]]</small>
+! class="unsortable" style="width:50px;" |[[Dangaasürengiin Enkhbat|Enkhbat]]<br><small>[[Right Person Electorate Coalition|RPEC]]</small>
+! rowspan="2" class="unsortable" style="width:30px;" |{{abbr|PS|Personal secret}}
+! rowspan="2" class="unsortable" style="width:30px;" |[[Blank ballot]]
+! rowspan="2" class="unsortable" style="width:30px;" |{{abbr|NV|Not voting}}
+! rowspan="2" class="unsortable" style="width:30px;" |{{abbr|Und.|Undecided}}/{{abbr|NA|No answer}}/
+{{abbr|DK|Don't know}}
+|-
+! style="background:{{party color|Mongolian People's Party}};" |
+! style="background:{{party color|Democratic Party (Mongolia)}};" |
+! style="background:{{party color|National Labor Party (Mongolia)}};" |
+|-
+|[https://strategy-academy.mn/ebooks?id=10 Strategy Academy]
+|{{opdrts||12|May|2021|year}}
+|4,000
+| style="background:#F4C6C9;" |'''33.8'''
+|6.7
+|14.8
+|6.2
+|–
+|–
+|38.6
+|-
+|[https://itoim.mn/article/pQBcF/27812 MEC]
+|{{opdrts|17|20|May|2021|year}}
+|2,000
+| style="background:#F4C6C9;" |'''44.0'''
+|3.0
+|10.0
+|–
+|8.0
+|–
+|35.0
+|-
+|[https://strategy-academy.mn/ebooks?id=10 Strategy Academy]
+|{{opdrts||18|May|2021|year}}
+|4,000
+| style="background:#F4C6C9;" |'''38.4'''
+|5.6
+|12.8
+|4.3
+|–
+|–
+|38.8
+|-
+|[https://strategy-academy.mn/ebooks?id=10 Strategy Academy]
+|{{opdrts||30|May|2021|year}}
+|4,000
+| style="background:#F4C6C9;" |'''40.6'''
+|4.1
+|10.3
+|5.9
+|–
+|7.1
+|32.0
+|-
+|[https://www.facebook.com/share/p/1EazXNszt7/ Pro Capital]
+|2 Jun 2021
+|5,000
+| style="background:#F4C6C9;" |'''47.4'''
+|31.1
+|21.5
+|–
+|–
+|–
+|–
+|-
+|[https://strategy-academy.mn/ebooks?id=10 Strategy Academy]
+|{{opdrts||5|June|2021|year}}
+|4,000
+| style="background:#F4C6C9;" |'''34.8'''
+|2.6
+|10.3
+|8.8
+|3.3
+|7.0
+|33.3
+|}
+
+==Results==
+[[File:2021 Mongolian presidential election map - Second place.svg|thumb|300x300px|Second place by administrative divisions:<br>{{colorbox|{{party color|Mongolian People's Party}}}} Khürelsükh {{colorbox|{{party color|National Labor Party (Mongolia)}}}} Enkhbat {{colorbox|{{party color|Democratic Party (Mongolia)}}}} Erdene {{colorbox|{{party color|Independent}}}} [[Blank votes|Blank]]]]
+Polls opened at 07:00 in 2,087 polling stations across the country for the 2 million registered voters, with special measures in place due to the [[COVID-19 pandemic in Mongolia]]. Voting ended at 22:00. Khürelsükh and Erdene voted in [[Ulaanbaatar]], while Enkhbat tested positive for COVID-19 and voted in the hospital.<ref>{{Cite journal|url=http://www.xinhuanet.com/english/asiapacific/2021-06/09/c_139998488.htm|journal=[[Xinhua News Agency]]|title=Mongolian presidential candidates cast votes in presidential election|date=9 June 2021|archive-date=9 June 2021|access-date=10 June 2021|archive-url=https://web.archive.org/web/20210609155150/http://www.xinhuanet.com/english/asiapacific/2021-06/09/c_139998488.htm|url-status=dead}}</ref>
+
+{{Election results
+|cand1=[[Ukhnaagiin Khürelsükh]]|party1=[[Mongolian People's Party]]|votes1=823326
+|cand2=[[Dangaasürengiin Enkhbat]]|party2=[[Right Person Electorate Coalition]]|votes2=246968
+|cand3=[[Sodnomzunduin Erdene]]|party3=[[Democratic Party (Mongolia)|Democratic Party]]|votes3=72832
+|row4=Blank votes|votes4=71937
+|totalvotes=1215063
+|electorate=2049379
+|source=General Election Commission<ref>{{Citation |title=Монгол улсын ерөнхийлөгчийн сонгуулийн дүн |date=2022 |website=[[General Election Commission of Mongolia]] |page=268–291 |trans-title=Mongolian presidential election results |url=https://e-election.mn/storage/uploads/process/file_1737532782860351_172831324709551.pdf |place=Ulaanbaatar |language=Mongolian}}</ref>
+}}
+{{bar box|title=Vote share|titlebar=#ddd|width=600px|barwidth=500px|bars={{Bar gap|}}
+{{bar percent|'''Khürelsükh'''|{{party color|Mongolian People's Party}}|67.76}}
+{{bar percent|Enkhbat|{{party color|National Labor Party (Mongolia)}}|20.33}}
+{{bar percent|Erdene|{{party color|Democratic Party (Mongolia)}}|5.99}}
+{{bar percent|Blank votes|{{party color|Independents}}|5.92}}}}
+[[File:2021 Mongolian presidential election map - Khurelsukh.svg|thumb|300x300px|Results of Khürelsükh by administrative divisions]]
+[[File:2021 Mongolian presidential election map - Enkhbat.svg|thumb|300x300px|Results of Enkhbat by administrative divisions]]
+[[File:2021 Mongolian presidential election map - Erdene.svg|thumb|300x300px|Results of Erdene by administrative divisions]]
+
+=== By area ===
+{| class="wikitable sortable" style=text-align:center
+!rowspan="3"|[[Administrative divisions of Mongolia|Subdivision]]
+! colspan="2"| [[Ukhnaagiin Khürelsükh]]<br /><small>[[Mongolian People's Party|MPP]]</small>
+! colspan="2"| [[Dangaasürengiin Enkhbat]]<br /><small>[[Right Person Electorate Coalition|RPEC]]</small>
+! colspan="2"| [[Sodnomzunduin Erdene]]<br /><small>[[Democratic Party (Mongolia)|DP]]</small>
+|-
+! colspan="2" {{party color cell|Mongolian People's Party}}
+! colspan="2" {{party color cell|HUN Party}}
+! colspan="2" {{party color cell|Democratic Party (Mongolia)}}
+|-
+! width="65px"|Votes
+! width="25px"|%
+! width="65px"|Votes
+! width="25px"|%
+! width="65px"|Votes
+! width="25px"|%
+|-
+| colspan="7" align="center" bgcolor="#E9E9E9" |'''[[Provinces of Mongolia|Aimags]] of Mongolia'''
+|-
+|[[Arkhangai Province|Arkhangai]]
+| style="background:#fec0c6;" |'''23,870'''
+| style="background:#fec0c6;" |'''69.85%'''
+|3,046
+|8.91%
+|6,186
+|18.10%
+|-
+|[[Bayan-Ölgii Province|Bayan-Ölgii]]
+| style="background:#fec0c6;" |'''29,474'''
+| style="background:#fec0c6;" |'''81.53%'''
+|1,616
+|4.47%
+|2,636
+|7.29%
+|-
+|[[Bayankhongor Province|Bayankhongor]]
+| style="background:#fec0c6;" |'''23,522'''
+| style="background:#fec0c6;" |'''74.60%'''
+|2,507
+|7.95%
+|1,898
+|6.02%
+|-
+|[[Bulgan Province|Bulgan]]
+| style="background:#fec0c6;" |'''17,825'''
+| style="background:#fec0c6;" |'''78.34%'''
+|2,290
+|10.06%
+|1,401
+|6.16%
+|-
+|[[Govi-Altai Province|Govi-Altai]]
+| style="background:#fec0c6;" |'''18,336'''
+| style="background:#fec0c6;" |'''84.60%'''
+|1,640
+|7.57%
+|1,099
+|5.07%
+|-
+|[[Govisümber Province|Govisümber]]
+| style="background:#fec0c6;" |'''5,032'''
+| style="background:#fec0c6;" |'''76.87%'''
+|846
+|12.92%
+|414
+|6.32%
+|-
+|[[Dornogovi Province|Dornogovi]]
+| style="background:#fec0c6;" |'''20,434'''
+| style="background:#fec0c6;" |'''74.62%'''
+|4,336
+|15.83%
+|1,476
+|5.39%
+|-
+|[[Dornod Province|Dornod]]
+| style="background:#fec0c6;" |'''21,291'''
+| style="background:#fec0c6;" |'''73.98%'''
+|4,292
+|14.91%
+|1,433
+|4.98%
+|-
+|[[Dundgovi Province|Dundgovi]]
+| style="background:#fec0c6;" |'''12,786'''
+| style="background:#fec0c6;" |'''79.06%'''
+|1,726
+|10.67%
+|856
+|5.29%
+|-
+|[[Zavkhan Province|Zavkhan]]
+| style="background:#fec0c6;" |'''22,058'''
+| style="background:#fec0c6;" |'''76.21%'''
+|3,220
+|11.12%
+|1,915
+|6.62%
+|-
+|[[Övörkhangai Province|Övörkhangai]]
+| style="background:#fec0c6;" |'''32,879'''
+| style="background:#fec0c6;" |'''79.32%'''
+|4,284
+|10.33%
+|1,915
+|4.62%
+|-
+|[[Ömnögovi Province|Ömnögovi]]
+| style="background:#fec0c6;" |'''17,870'''
+| style="background:#fec0c6;" |'''74.16%'''
+|3,170
+|13.16
+|1,625
+|6.74%
+|-
+|[[Sükhbaatar Province|Sükhbaatar]]
+| style="background:#fec0c6;" |'''23,215'''
+| style="background:#fec0c6;" |'''87.28%'''
+|1,356
+|5.10%
+|880
+|3.31%
+|-
+|[[Selenge Province|Selenge]]
+| style="background:#fec0c6;" |'''25,149'''
+| style="background:#fec0c6;" |'''69.93%'''
+|5,901
+|16.41%
+|2,401
+|6.68%
+|-
+|[[Töv Province|Töv]]
+| style="background:#fec0c6;" |'''26,481'''
+| style="background:#fec0c6;" |'''78.38%'''
+|4,073
+|12.05%
+|1,560
+|4.62%
+|-
+|[[Uvs Province|Uvs]]
+| style="background:#fec0c6;" |'''23,642'''
+| style="background:#fec0c6;" |'''77.49%'''
+|2,689
+|8.81%
+|1,063
+|3.48%
+|-
+|[[Khovd Province|Khovd]]
+| style="background:#fec0c6;" |'''24,366'''
+| style="background:#fec0c6;" |'''73.96%'''
+|4,176
+|12.68%
+|3,349
+|10.17%
+|-
+|[[Khövsgöl Province|Khövsgöl]]
+| style="background:#fec0c6;" |'''32,931'''
+| style="background:#fec0c6;" |'''68.11%'''
+|7,937
+|16.42%
+|4,901
+|10.14%
+|-
+|[[Khentii Province|Khentii]]
+| style="background:#fec0c6;" |'''26,356'''
+| style="background:#fec0c6;" |'''82.52%'''
+|2,393
+|7.49%
+|2,361
+|7.39%
+|-
+|[[Darkhan-Uul Province|Darkhan-Uul]]
+| style="background:#fec0c6;" |'''24,714'''
+| style="background:#fec0c6;" |'''67.46%'''
+|7,764
+|21.19%
+|1,628
+|4.44%
+|-
+|[[Orkhon Province|Orkhon]]
+| style="background:#fec0c6;" |'''27,408'''
+| style="background:#fec0c6;" |'''68.94%'''
+|7,962
+|20.03%
+|1,530
+|3.85%
+|-
+| colspan="7" align="center" bgcolor="#E9E9E9" |'''[[Düüreg of Mongolia|Düüregs]] of [[Ulaanbaatar]]'''
+|-
+|[[Khan Uul|Khan-Uul]]
+| style="background:#fec0c6;" |'''55,183'''
+| style="background:#fec0c6;" |'''68.67%'''
+|27,890
+|34.70%
+|4,063
+|5.06%
+|-
+|[[Baganuur]]
+| style="background:#fec0c6;" |'''7,940'''
+| style="background:#fec0c6;" |'''72.43%'''
+|1,920
+|17.52%
+|670
+|6.11%
+|-
+|[[Bagakhangai]]
+| style="background:#fec0c6;" |'''1,492'''
+| style="background:#fec0c6;" |'''84.53%'''
+|155
+|8.78%
+|65
+|3.68%
+|-
+|[[Bayanzürkh]]
+| style="background:#fec0c6;" |'''82,796'''
+| style="background:#fec0c6;" |'''59.32%'''
+|42,414
+|30.39%
+|5,627
+|4.03%
+|-
+|[[Nalaikh]]
+| style="background:#fec0c6;" |'''10,309'''
+| style="background:#fec0c6;" |'''72.51%'''
+|2,570
+|18.08%
+|667
+|4.69%
+|-
+|[[Sükhbaatar (district)|Sükhbaatar]]
+| style="background:#fec0c6;" |'''32,710'''
+| style="background:#fec0c6;" |'''56.74%'''
+|18,090
+|31.38%
+|3,193
+|5.54%
+|-
+|[[Chingeltei]]
+| style="background:#fec0c6;" |'''35,830'''
+| style="background:#fec0c6;" |'''61.69%'''
+|15,680
+|27.00%
+|2,757
+|4.75%
+|-
+|[[Bayangol, Ulan Bator|Bayangol]]
+| style="background:#fec0c6;" |'''48,954'''
+| style="background:#fec0c6;" |'''52.61%'''
+|30,249
+|32.51%
+|8,361
+|8.99%
+|-
+|[[Songino Khairkhan]]
+| style="background:#fec0c6;" |'''79,244'''
+| style="background:#fec0c6;" |'''67.34%'''
+|26,692
+|22.68%
+|4,742
+|4.03%
+|-
+|- style="background:#E9E9E9"; height: 2pt"
+| colspan="7" |
+|-
+|[[Mongolian diaspora|Overseas]]
+|1,175
+|21.10%
+| style="background:#c6a9d7ff;" |'''4,084'''
+| style="background:#c6a9d7ff;" |'''73.35%'''
+|160
+|2.87%
+|-
+|- style="background:#E9E9E9; height: 2pt"
+| colspan="7" |
+|-
+|'''Total'''
+| style="background:#fec0c6;" | '''823,326'''
+| style="background:#fec0c6;" | '''67.76%'''
+|246,968
+|20.33%
+|72,832
+|5.99%
+|}
+
+== Voter turnout ==
+{| class="wikitable sortable" style=text-align:center
+! rowspan="2" |Region
+! colspan="8" |Time
+|-
+!9:00<ref name=":3">{{Cite web |last=Ш |first=Оюунчимэг |date=2021-06-09 |title=14.00 цаг: Улсын хэмжээнд ирц 23.46 хувьтай байна |url=https://news.mn/r/2439395/ |access-date=2026-02-19 |website=News.MN |language=mn}}</ref>
+!10:00<ref name=":3" />
+!11:00<ref name=":3" />
+!|12:00<ref name=":3" />
+!13:00<ref name=":3" />
+!14:00<ref name=":3" />
+!17:00<ref>{{Cite web |last=Х |first=Көгершин |date=2021-06-09 |title=21.00 ЦАГ: Улсын хэмжээнд сонгуулийн ирц 52 хувьд хүрч, ирц хүчин төгөлдөр боллоо |url=https://gogo.mn/r/q0j2m |access-date=2026-02-19 |website=gogo.mn |language=mn}}</ref>
+! align="center" |22:00<ref>{{Cite web |date=2021-06-11 |title=Ерөнхийлөгчийн Сонгууль 2021 |url=https://ikon.mn/president/2021 |access-date=2026-02-19 |website=Ikon |language=mn}}</ref>
+|-
+|[[Arkhangai Province|Arkhangai]]
+|0.93%
+|1.60%
+|8.98%
+|11.35%
+|12.28%
+|13.24%
+|31.03%
+|55.80%
+|-
+|[[Bayan-Ölgii Province|Bayan-Ölgii]]
+|1.30%
+|2.21%
+|5.66%
+|8.86%
+|10.32%
+|11.53%
+|30.75%
+|58.70%
+|-
+|[[Bayankhongor Province|Bayankhongor]]
+|2.10%
+|2.85%
+|13.00%
+|15.45%
+|16.78%
+|18.04%
+|34.51%
+|55.90%
+|-
+|[[Bulgan Province|Bulgan]]
+|1.29%
+|1.83%
+|9.43%
+|12.45%
+|13.45%
+|14.27%
+|32.33%
+|56.10%
+|-
+|[[Govi-Altai Province|Govi-Altai]]
+|2.57%
+|3.35%
+|15.84%
+|19.54%
+|20.98%
+|22.18%
+|41.22%
+|57.80%
+|-
+|[[Govisümber Province|Govisümber]]
+|0.00%
+|0.00%
+|16.30%
+|16.30%
+|16.30%
+|16.30%
+|35.86%
+|61.10%
+|-
+|[[Dornogovi Province|Dornogovi]]
+|3.35%
+|4.38%
+|14.63%
+|18.73%
+|20.47%
+|22.15%
+|39.13%
+|61.00%
+|-
+|[[Dornod Province|Dornod]]
+|2.31%
+|2.49%
+|10.48%
+|14.38%
+|16.42%
+|18.41%
+|32.48%
+|55.70%
+|-
+|[[Dundgovi Province|Dundgovi]]
+|2.51%
+|3.34%
+|15.32%
+|17.64%
+|18.81%
+|20.02%
+|34.63%
+|53.30%
+|-
+|[[Zavkhan Province|Zavkhan]]
+|1.43%
+|1.73%
+|14.20%
+|15.24%
+|16.23%
+|17.17%
+|37.87%
+|61.10%
+|-
+|[[Övörkhangai Province|Övörkhangai]]
+|2.12%
+|2.74%
+|12.60%
+|16.60%
+|17.95%
+|19.15%
+|35.63%
+|55.80%
+|-
+|[[Ömnögovi Province|Ömnögovi]]
+|2.62%
+|3.58%
+|14.30%
+|18.24%
+|19.58%
+|20.72%
+|33.75%
+|52.70%
+|-
+|[[Sükhbaatar Province|Sükhbaatar]]
+|2.74%
+|3.70%
+|15.30%
+|17.77%
+|19.28%
+|20.98%
+|41.76%
+|64.80%
+|-
+|[[Selenge Province|Selenge]]
+|1.05%
+|1.42%
+|9.03%
+|12.12%
+|12.80%
+|13.79%
+|27.26%
+|51.20%
+|-
+|[[Töv Province|Töv]]
+|1.25%
+|1.76%
+|12.75%
+|15.21%
+|15.99%
+|16.72%
+|33.39%
+|54.50%
+|-
+|[[Uvs Province|Uvs]]
+|1.58%
+|2.75%
+|9.72%
+|13.31%
+|15.17%
+|16.97%
+|35.43%
+|58.80%
+|-
+|[[Khovd Province|Khovd]]
+|1.33%
+|1.86%
+|11.32%
+|12.90%
+|14.72%
+|16.32%
+|37.41%
+|60.70%
+|-
+|[[Khövsgöl Province|Khövsgöl]]
+|1.98%
+|2.50%
+|12.49%
+|14.48%
+|15.57%
+|16.73%
+|33.66%
+|55.90%
+|-
+|[[Khentii Province|Khentii]]
+|2.03%
+|3.06%
+|14.64%
+|18.74%
+|20.19%
+|21.43%
+|41.48%
+|63.70%
+|-
+|[[Darkhan-Uul Province|Darkhan-Uul]]
+|6.28%
+|8.36%
+|14.28%
+|18.25%
+|22.02%
+|25.72%
+|36.26%
+|56.00%
+|-
+|[[Orkhon Province|Orkhon]]
+|7.20%
+|10.22%
+|15.57%
+|20.08%
+|24.46%
+|28.46%
+|38.44%
+|58.90%
+|-
+|[[Ulaanbaatar]]
+|6.25%
+|10.07%
+|18.82%
+|19.63%
+|24.09%
+|28.90%
+|40.60%
+|61.69%
+|- bgcolor="#EBECF0" class="sortbottom"
+|'''{{flag|Mongolia}}'''
+|'''–'''
+|'''–'''
+|'''13.45%'''
+|'''–'''
+|'''–'''
+|'''23.46%'''
+|'''37.73%'''
+|'''59.29%'''
+|}
+
+==References==
+{{Reflist}}
+
+== External links ==
+
+* [https://strategy-academy.mn/ebooks?id=10 Strategy Academy — 2021 Presidential Election Research] (Mongolian)
+* [https://www.congress.gov/crs_external_products/IN/PDF/IN11692/IN11692.2.pdf Mongolia’s Presidential Election Insight] by the [[Congressional Research Service]]
+{{Mongolian elections}}
+
+[[Category:2021 in Mongolia|Presidential election]]
+[[Category:2021 elections in Asia|Mongolia]]
+[[Category:June 2021 in Asia|Mongolia]]
+[[Category:Presidential elections in Mongolia]]

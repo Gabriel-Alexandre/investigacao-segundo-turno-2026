@@ -1,0 +1,71 @@
+{{Short description|none}}
+{{Infobox election
+| country = Senegal
+| type = presidential
+| previous_election = 2012 Senegalese presidential election
+| previous_year = 2012
+| election_date = 24 February 2019
+| next_election = 2024 Senegalese presidential election
+| next_year = 2024
+| turnout = 66.27%
+| image_size = 130x130px
+| image1 = Macky Sall, the President of Senegal meets with Shinzō Abe, the Prime Minister of Japan (3x4 crop).jpg
+| candidate1 = '''[[Macky Sall]]'''
+| party1 = Alliance for the Republic (Senegal)
+| popular_vote1 = '''2,555,426'''
+| percentage1 = '''58.26%'''
+| image2 = Idrissa Seck 2006-12-22.JPG
+| candidate2 = [[Idrissa Seck]]
+| party2 = Rewmi
+| popular_vote2 = 899,556
+| percentage2 = 20.51%
+| image3 = Ousmane Sonko 2023.jpg
+| candidate3 = [[Ousmane Sonko]]
+| party3 = PASTEF
+| popular_vote3 = 687,523
+| percentage3 = 15.67%
+| map_image = 2019 Senegalese presidential election - Results by department, shaded by percentage.svg
+| map_caption = Results by department
+| title = President
+| before_election = [[Macky Sall]]
+| before_party = Alliance for the Republic (Senegal)
+| after_election = [[Macky Sall]]
+| after_party = Alliance for the Republic (Senegal)
+}}{{Politics of Senegal}}
+
+Presidential elections were held in [[Senegal]] on 24 February 2019.<ref>[https://www.france24.com/en/20190114-senegal-opposition-leaders-khalifa-sall-karim-wade-barred-presidential-election Opposition leaders Khalifa Sall and Karim Wade barred from Senegal's presidential race] France 24, 14 January 2019</ref> Incumbent president [[Macky Sall]] of the [[Alliance for the Republic (Senegal)|Alliance for the Republic]] was re-elected for a second term with 58% of the vote in the first round.
+
+==Electoral system==
+The [[President of Senegal]] is elected using the [[two-round system]]; a candidate must receive over 50% of the vote to be elected in the first round. If no candidate had crossed the threshold, a second round would have been held between the top two candidates.<ref>[https://www.ifes.org/sites/default/files/elections_in_senegal_faq_2012.pdf Elections in Senegal: The February 26 Presidential Election: Frequently Asked Questions] {{Webarchive|url=https://web.archive.org/web/20171203183009/https://www.ifes.org/sites/default/files/elections_in_senegal_faq_2012.pdf |date=2017-12-03 }} IFES</ref>
+
+Prior to the elections, the electoral law was amended to introduce requirements for candidates to secure signatures from at least 0.8% of the registered electorate, and for at least 2,000 signatures from seven of the 14 regions. Voters were only allowed to give a signature to one candidate.<ref>[https://beninwebtv.com/2018/11/senegal-presidentielle-2019-le-systeme-de-parrainage-des-candidatures-une-nouvelle-donne/ Sénégal – Présidentielle 2019: le système de parrainage des candidatures, une nouvelle donne] {{Webarchive|url=https://web.archive.org/web/20190220122822/https://beninwebtv.com/2018/11/senegal-presidentielle-2019-le-systeme-de-parrainage-des-candidatures-une-nouvelle-donne/ |date=2019-02-20 }} Benin Web TV, 24 November 2018</ref>
+
+==Candidates==
+Although 87 candidates registered intent to collect signatures,<ref>[https://web.archive.org/web/20180908191434/http://www.viberadio.sn/News/Senegal/presidentielle-de-2019-87-!-une-si-longue-liste-de-candidats-00023972 présidentielle de 2019 : 87 ! une si longue liste de candidats] Vibe Radio</ref> only around 20 applied to the Constitutional Council to participate in the election, with the requirement for signatures and the introduction of a 30 million [[West African CFA franc|franc]] bond thought to have put many potential candidates off.<ref>[http://www.rewmi.com/presidentielle-2019-20-candidats-enregistres.html Présidentielle 2019: 20 candidats enregistrés] {{Webarchive|url=https://web.archive.org/web/20190410020430/http://www.rewmi.com/presidentielle-2019-20-candidats-enregistres.html |date=2019-04-10 }} Rewmi</ref> Five candidates were approved to run in the elections; {{ill|Madické Niang|fr}}, {{ill|Issa Sall|fr}}, [[Macky Sall]], [[Idrissa Seck]] and [[Ousmane Sonko]].<ref name=EWN/>
+
+In January 2019, two opposition leaders Khalifa Sall and [[Karim Wade]] were barred from participating due to previous convictions for misuse of public funds.<ref name=EWN>[https://ewn.co.za/2019/01/14/senegal-court-bars-2-opposition-leaders-from-presidential-vote Senegal court bars 2 opposition leaders from presidential vote] Eyewitness News, 14 January 2019</ref>
+
+==Results==
+On 25 February 2019, Prime Minister [[Mahammed Dionne]] said that Sall had been re-elected with "a minimum of 57%" of the vote, enough to avoid a runoff election. He also said Sall had won in 13 of the country's 14 regions.<ref>[https://www.aljazeera.com/news/2019/02/incumbent-macky-sall-wins-senegal-presidential-elections-pm-190225090650178.html Incumbent Macky Sall wins Senegal presidential election: PM] Al Jazeera, 26 February 2019</ref> On 5 March 2019, the Constitutional Council confirmed the election results.
+
+<onlyinclude>{{Election results
+|cand1=[[Macky Sall]]|party1=[[Alliance for the Republic (Senegal)|Alliance for the Republic]]|votes1=2555426
+|cand2=[[Idrissa Seck]]|party2=[[Rewmi]]|votes2=899556
+|cand3=[[Ousmane Sonko]]|party3=[[PASTEF]]|votes3=687523
+|cand4={{ill|Issa Sall|fr}}|party4=[[Party for Unity and Rally]]|votes4=178613
+|cand5={{ill|Madické Niang|fr}}|party5=Independent|votes5=65021
+|invalid=42541
+|electorate=6683043
+|source=[https://conseilconstitutionnel.sn/decision-n-4-e-2019-affaire-n-25-e-19/ Constitutional Council]
+}}</onlyinclude>
+
+==References==
+{{reflist}}
+
+{{Senegalese elections}}
+
+[[Category:2019 elections in Africa|Senegal]]
+[[Category:2019 in Senegal|Presidential]]
+[[Category:February 2019 in Africa|Senegal]]
+[[Category:Presidential elections in Senegal]]
+[[Category:February 2019 elections]]

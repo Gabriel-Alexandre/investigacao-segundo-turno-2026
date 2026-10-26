@@ -1,0 +1,93 @@
+{{Short description|none}}
+{{Use dmy dates|date=March 2019}}
+{{Infobox election
+| country = Lithuania
+| flag_year = 1988
+| type = presidential
+| next_election = 1997–98 Lithuanian presidential election
+| next_year = {{nowrap|1997–98}}
+| election_date = 14 February 1993
+| image1 = Algirdas Mykkolas Brazauskas, Litauens statsminster, under det Nordiskt-Baltiska statsministermotet i Reykjavik 2005-10-24.jpg
+| nominee1 = '''[[Algirdas Brazauskas]]'''
+| party1 = Democratic Labour Party of Lithuania
+| popular_vote1 = '''1,212,075'''
+| percentage1 = '''61.06%'''
+| image2 =
+| nominee2 = [[Stasys Lozoraitis Jr.]]
+| party2 = Independent politician
+| popular_vote2 = 772,922
+| percentage2 = 38.94%
+| title = President
+| before_election = [[Algirdas Brazauskas]] (acting)
+| before_party = Democratic Labour Party of Lithuania
+| after_election = [[Algirdas Brazauskas]]
+| after_party = Democratic Labour Party of Lithuania
+}}{{Politics of Lithuania}}
+
+'''Presidential elections''' were held in [[Lithuania]] on 14 February 1993.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1201 {{ISBN|978-3-8329-5609-7}}</ref> They were the first presidential elections under the new [[Constitution of Lithuania|October 1992 constitution]] and the first direct presidential elections in the country's history.
+
+Acting president [[Algirdas Brazauskas]], the former first secretary of the [[Communist Party of Lithuania]] and leader of the [[Democratic Labour Party of Lithuania]] (LDDP), won over 60% of the vote, enough to win without a runoff. The runner up was [[Stasys Lozoraitis Jr.]], an independent candidate endorsed by the [[Sąjūdis]] movement and other political parties.<ref name=vardys>{{cite book |first=Vytas Stanley |last=Vardys |author2=Judith B. Sedaitis |title=Lithuania: The Rebel Nation |publisher=WestviewPress |year=1997 |series=Westview Series on the Post-Soviet Republics |isbn=0-8133-1839-4 |pages=[https://archive.org/details/lithuaniarebelna00vard/page/199 199–201] |url-access=registration |url=https://archive.org/details/lithuaniarebelna00vard/page/199 }}</ref> These presidential elections had fewest number of candidates up to date.
+
+By-elections to several municipal councils were held on the same day.<ref>{{Cite web |date=November 30, 2018 |title=Puslapis nerastas |url=https://savb.lt/wp-content/uploads/2018/11/30.pdf |access-date=October 6, 2024 |website=savb.lt}}</ref>
+
+==Campaign==
+Under Brazauskas' leadership, the LDDP had won 73 out of 141 seats in the [[Seimas]] in the [[1992 Lithuanian parliamentary election|1992 parliamentary elections]].<ref name=pope>{{cite web |url=http://www2.essex.ac.uk/elect/database/indexElections.asp?country=LITHUANIA&election=lt92 |title=1992 Parliamentary Elections |work=Project on Political Transformation and the Electoral Process in Post-Communist Europe |publisher=[[University of Essex]] |first=Marina |last=Popescu |author2=Martin Hannavy |date=12 December 2002 |accessdate=30 January 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20110614142756/http://www2.essex.ac.uk/elect/database/indexElections.asp?country=LITHUANIA&election=lt92 |archivedate=14 June 2011}}</ref> Brazauskas was subsequently appointed as Speaker, and by virtue of that position, also became acting president. Based on the success of the LDDP in the parliamentary elections, Brazauskas was considered favorite for the presidential elections.<ref name=vardys/>
+
+The [[Social Democratic Party of Lithuania]] proposed poet [[Justinas Marcinkevičius]] as a unity candidate against Brazauskas, but Marcinkevičius refused, stating that he was not a politician.<ref>{{cite web |last1=Bakaitė |first1=Jurga |title="Stasy, mes rinkimų nelaimėsim": kodėl pirmuoju prezidentu Lietuva išrinko komunistą Brazauską? |url=https://www.lrt.lt/naujienos/lietuvoje/2/1388862/stasy-mes-rinkimu-nelaimesim-kodel-pirmuoju-prezidentu-lietuva-isrinko-komunista-brazauska |website=LRT |language=lt |date=18 April 2021}}</ref> [[Vytautas Landsbergis]], leader of the pro-independence [[Sąjūdis]] movement, withdrew his candidacy in support of [[Stasys Lozoraitis Jr.]],<ref name=vardys/> a Lithuanian diplomat, who had spent almost all of his life in Italy and the United States representing the interwar independent Lithuania. Because of the [[Iron Curtain]], his work was virtually unknown in Lithuania. No other candidates came forward as other parties with the exception of the [[Polish minority in Lithuania|Polish minority]] declared their support for Lozoraitis as they had become alarmed by the dominance of Brazauskas and the LDDP.<ref name=lev>{{cite book |title=The Baltic revolution: Estonia, Latvia, Lithuania and the path to independence |first=Anatol |last=Lieven |url=https://books.google.com/books?id=iz3NACNOpCAC&pg=PA271 | page=271 |publisher=Yale University Press |year=1994 |edition=2nd |isbn=978-0-300-06078-2}}</ref><ref name=kasa/>
+
+The campaign was limited to three weeks. Lozoraitis stressed his experience in complex foreign affairs.<ref name=vardys/> Brazauskas, operating in a familiar environment, was better prepared to address domestic affairs and promised to focus on a smooth transition from [[planned economy]] to [[free market]].<ref name=kasa/> During the campaign, opponents depicted Lozoraitis as a foreigner who did not understand the current situation of Lithuania and was largely dependent on the unpopular Sąjūdis.<ref name=vardys/> [[Valdas Adamkus]], who went on to win the [[1997–98 Lithuanian presidential election|1997–98 presidential elections]], assisted Lozoraitis in his campaign.<ref name=lane>{{cite book| url=https://books.google.com/books?id=f-mi9mUdsGkC&pg=PA146 | title=Lithuania: Stepping Westward |first=Thomas |last=Lane |publisher=Routledge |year=2001 |isbn=0-415-26731-5|page=146}}</ref>
+
+==Opinion polls==
+{| class="wikitable" style="text-align:center; font-size:95%; line-height:16px;"
+!rowspan="3"| Pollster
+!rowspan="3"| Fieldwork date
+!rowspan="3"| Sample size
+|-
+! [[Algirdas Brazauskas|Brazauskas]]<br>{{small|[[Democratic Labour Party of Lithuania|LDDP]]}}
+! [[Stasys Lozoraitis Jr.|Lozoraitis Jr.]]<br>{{small|[[Independent politician|Ind.]]}}
+! Others<br>Undecided
+|-
+! style="background:{{party color|Democratic Labour Party of Lithuania}};"|
+! style="background:{{party color|Independent}};"|
+! style="background:{{party color|Miscellaneous}};"|
+|-
+| FSTI
+| 19–20 January 1993
+| −
+| style="background:#f379ff;" | '''57%'''
+| 29%
+| 14%
+|-
+| LTV
+| 6–14 January 1993
+| −
+| style="background:#f379ff;" | '''51%'''
+| 26%
+| 23%
+|}
+
+==Results==
+Brazauskas received a majority of the vote everywhere except [[Kaunas]], and did particularly well in areas inhabited by the Russian and Polish minorities.<ref name=vardys/> This allowed him to win the presidency in a single round; his 61 percent vote share exceeded the 50 percent threshold required to avoid a runoff.
+
+{{Election results
+|cand1=[[Algirdas Brazauskas]]|party1=[[Democratic Labour Party of Lithuania]]|votes1=1212075
+|cand2=[[Stasys Lozoraitis Jr.]]|party2=Independent|votes2=772922
+|invalid=34018
+|electorate=2568016
+|source=Nohlen & Stöver
+}}
+
+==Aftermath==
+The inauguration ceremony took place on 25 February.<ref name=kasa>{{cite book| title=Lietuvos Respublikos Vyriausybės. Jų kaita ir veiklos bruožai 1990–2007 | first=Vanda |last=Kašauskienė |location=Vilnius |publisher=Gairės |year=2007 |pages=200–2003 |isbn=978-9955-759-07-2|language=lt}}</ref> In May 1993, just a few months after the elections, Brazauskas recalled Lozoraitis as ambassador to the United States despite criticism of politicizing the issue.<ref name=ash>{{cite book| url=https://books.google.com/books?id=yFoDJUq4qjQC&pg=PA82 |title=Lithuania: the rebirth of a nation, 1991–1994 |first=Alexandra |last=Ashbourne |page=82 |publisher=Lexington Books |year=1999 |isbn=978-0-7391-0027-1}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.vrk.lt/1993-m.-respublikos-prezidento-rinkimai 1993 Lithuanian presidential elections] VRK {{in lang|lt}}
+
+{{Lithuanian elections}}
+
+[[Category:1993 elections in Europe|Lithuania]]
+[[Category:1993 in Lithuania|Presidential election]]
+[[Category:Presidential elections in Lithuania]]

@@ -1,0 +1,94 @@
+{{Short description|none}}
+{{Infobox election
+| country = Mongolia
+| type = presidential
+| previous_election = 1993 Mongolian presidential election
+| previous_year = 1993
+| next_election = 2001 Mongolian presidential election
+| next_year = 2001
+| election_date = 18 May 1997
+| turnout = 85.06% ({{decrease}} 7.67[[percentage points|pp]])
+| registered = 1,155,228
+| votes_for_election = Majority of the [[Direct election|popular vote]] needed to prevent a [[run-off election|run-off]]
+| image1 = Natsagiin Bagabandi (Cropped).png
+| nominee1 = '''[[Natsagiin Bagabandi]]'''
+| party1 = [[Mongolian People's Party|MPRP]]
+| popular_vote1 = '''597,573'''
+| percentage1 = '''62.53%'''
+| image2 = Punsalmaagiyn Ochirbat 1995.png
+| nominee2 = [[Punsalmaagiin&nbsp;Ochirbat]]
+| party2 = Democratic Union Coalition (1996–2000)
+| popular_vote2 = 292,896
+| percentage2 = 30.65%
+| map_image = 1997 Mongolian presidential election.svg
+| map_caption = Results by province
+| title = President
+| before_election = [[Punsalmaagiin Ochirbat]]
+| before_party = [[Mongolian Social Democratic Party|MSDP]]–[[Mongolian National Democratic Party (1992–1999)|MNDP]]
+| after_election = [[Natsagiin Bagabandi]]
+| after_party = [[Mongolian People's Party|MPRP]]
+| flag_year = 1992
+}}{{Politics of Mongolia}}
+
+Presidential elections were held in [[Mongolia]] on 18 May 1997.<ref name=":0">[[Dieter_Nohlen]], Florian Grotz & Christof Hartmann (2001) ''Elections in Asia: A data handbook, Volume II'', p.490 {{ISBN|0-19-924959-8}}</ref> The result was a victory for [[Natsagiin Bagabandi]] of the [[Mongolian People's Party|Mongolian People's Revolutionary Party]], who received 63% of the vote. [[Incumbent]] president [[Punsalmaagiin Ochirbat]], who ran from the ruling [[Democratic Union Coalition (1996–2000)|Democratic Union Coalition]] (DUC), came in second with 30.65% nationwide,<ref>{{Cite web|title=ELECTION RESULTS (March-June 1997)|url=https://www.journalofdemocracy.org/articles/election-watch-98/|website=Journal of Democracy|access-date=2026-01-30|language=en-US|date=July 1997}}</ref> whilst the [[Third party (politics)|third-party]] candidate [[Jambyn Gombojav]] from the [[Mongolian Traditional United Party]] trailed with only 6.82%.
+
+The 1997 presidential election is Mongolia's first-ever three-way presidential race. Voter turnout was 85%, a 7% drop from the previous election.<ref>Nohlen ''et al''., p.491</ref> The election of Bagabandi was described as a protest vote against the rapid economic reforms of the DUC government.<ref name=":1">{{Cite journal |last=Ginsburg |first=Tom |date=1998 |title=Mongolia in 1997: Deepening Democracy |url=https://www.jstor.org/stable/2645468 |journal=Asian Survey |volume=38 |issue=1 |pages=64–68 |doi=10.2307/2645468 |issn=0004-4687|url-access=subscription }}</ref>
+
+== Background ==
+{{Further|1996 Mongolian parliamentary election}}
+In the [[1996 Mongolian parliamentary election|1996 parliamentary election]], the opposition [[Democratic Union Coalition (1996–2000)|Democratic Union Coalition]] (DUC), comprising the [[Mongolian Social Democratic Party]] and the [[Mongolian National Democratic Party (1992–2000)|Mongolian National Democratic Party]], won 50 of the 76 seats in the [[State Great Khural]].<ref name=":0" /> The [[Mongolian People's Revolutionary Party (old)|Mongolian People's Revolutionary Party]] (MPRP), for the first time in its 75-year-long rule, was out of power, both from the [[President of Mongolia|executive]] and [[State Great Khural|legislative]] bodies.<ref>{{Cite news|title=Communists In Mongolia Are Toppled After 70 Years|url=https://www.nytimes.com/1996/07/03/world/communists-in-mongolia-are-toppled-after-70-years.html|work=The New York Times|date=1996-07-03|access-date=2026-01-30|issn=0362-4331|language=en-US|first=|last=}}</ref>
+
+Many in the public came to view the cause of the MPRP's downfall as stemming from the party's lack of firm policies towards Mongolia's political problems or its foreign relations. DUC candidates, on the other hand, put forward a more specific agenda, vowing to focus on the privatization of state-owned organizations, the establishment of pension plans, the increase in teacher salaries, and a strong emphasis on Western bilateral ties — primarily with the [[United States]], which the coalition called Mongolia's "[[Third neighbor policy|third neighbor]]."<ref>{{Cite web|title=Mongolia: Political and Economic Status|url=https://www.everycrsreport.com/reports/RS21155.html|website=www.everycrsreport.com|access-date=2026-01-30|language=en|date=2006-05-03|last=Dumbaugh|first=Kerry|last2=M. Morrison|first2=Wayne}}</ref>
+
+However, these reforms received mixed reactions upon implementation. Prime Minister [[Mendsaikhany Enkhsaikhan]]'s cabinet oversaw a period of rising unemployment and inflation.<ref name=":1" />
+
+== Candidates ==
+{| class="wikitable sortable" style="text-align:center"
+! style="width: 115px;" |Names
+! style="width: 145px;" |Born
+! style="width: 145px;" |Last position
+! colspan="3" style="width: 215px;" |Party
+|-
+| data-sort-value="Ochirbat, Punsalmaa" |[[File:Punsalmaagiyn Ochirbat 1995.png|130x130px]]
+'''[[Punsalmaagiin Ochirbat]]'''
+|{{dts|1942|01|23|format=dmy}}<br>({{age nts|1942|01|23|1997|5|18}})<br>[[Tüdevtei, Zavkhan|Tüdevtei]], [[Zavkhan Province|Zavkhan]], [[Mongolian People's Republic|Mongolia]]
+|Incumbent [[President of Mongolia|President]] of [[Mongolia]]<br>(1990–1997)
+|{{party color cell|Democratic Party (Mongolia)}}
+|[[File:Logo of the Democratic Union Coalition (1996-2000).png|60x60px]]
+|[[Democratic Union Coalition]]
+|-
+| data-sort-value="Bagabandi, Natsag" |[[File:Natsagiin Bagabandi (Cropped).png|130x130px]]
+'''[[Natsagiin Bagabandi]]'''
+|{{dts|1950|04|22|format=dmy}}<br>({{age nts|1950|04|22|1997|5|18}})<br>[[Yaruu, Zavkhan|Yaruu]], [[Zavkhan Province|Zavkhan]], [[Mongolian People's Republic|Mongolia]]
+|[[Chairman of the Mongolian People's Party|Chairman of the MPRP]]<br>(1997)<br>[[Chairman of the State Great Khural]]<br>(1992–1996)
+|{{party color cell|Mongolian People's Revolutionary Party (old)}}
+|[[File:Logo of the Mongolian People's Party (2000-2010).png|60x60px]]
+|[[Mongolian People's Party|Mongolian People's Revolutionary Party]]
+|-
+| data-sort-value="Gombojav, Jamba" |[[File:Jambyn Gombojav.jpg|130x130px]]
+'''[[Jambyn Gombojav]]'''
+|{{dts|1941|format=dmy}}<br>({{age nts|1941|01|01|1997|5|18}})<br>[[Asgat, Sükhbaatar|Asgat]], [[Sükhbaatar Province|Sükhbaatar]], [[Mongolian People's Republic|Mongolia]]
+|Chairman of the [[People's Great Khural]]<br>(1990–1992)
+|{{party color cell|Mongolian Traditional United Party}}
+|[[File:Mongolian Traditionally United Party emblem.svg|60x60px]]
+|[[Mongolian Traditional United Party]]
+|}
+
+==Results==
+{{Election results
+|cand1=[[Natsagiin Bagabandi]]|party1=[[Mongolian People's Party|Mongolian People's Revolutionary Party]]|votes1=597573
+|cand2=[[Punsalmaagiin Ochirbat]]|party2=[[Democratic Union Coalition (1996–2000)|Democratic Union Coalition]]|votes2=292896|color2={{party color|Mongolian Social Democratic Party}}
+|cand3={{ill|Jambyn Gombojav|mn|Жамбын Гомбожав}}|party3=[[Mongolian Traditional United Party]]|votes3=65201
+|invalid=26970
+|electorate=1155228
+|source=General Election Commission<ref>{{Citation |title=Монгол улсын ерөнхийлөгчийн сонгуулиудын дүнгийн эмхэтгэл |date=2011 |website=[[General Election Commission of Mongolia]] |page=28–50 |trans-title=Compilation of Mongolian presidential election results |url=https://www.gec.gov.mn/uploads/Erunhiilugchiin%20songuuli-1993-2009.pdf |archive-url=https://web.archive.org/web/20240424002713/https://www.gec.gov.mn/uploads/Erunhiilugchiin%20songuuli-1993-2009.pdf |archive-date=24 April 2024 |place=Ulaanbaatar |language=Mongolian}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+{{Mongolian elections}}
+[[Category:May 1997 in Asia]]
+[[Category:1997 elections in Asia|Mongolia]]
+[[Category:1997 in Mongolia|Presidential]]
+[[Category:Presidential elections in Mongolia]]

@@ -1,0 +1,57 @@
+{{Short description|none}}
+{{Infobox election
+| country = Georgia
+| flag_year = 1990
+| type = presidential
+| previous_election = 1995 Georgian presidential election
+| previous_year = 1995
+| next_election = 2004 Georgian presidential election
+| next_year = 2004
+| election_date = 9 April 2000
+| turnout = '''75.86%''' ({{increase}} 7.56 [[percentage point|pp]])
+| image1 = Eduard Shevardnadze, 011005-D-2987S-066 (cropped).jpg
+| nominee1 = '''[[Eduard Shevardnadze]]'''
+| party1 = Independent politician
+| alliance1 = Union of Citizens of Georgia
+| color1 = 231577
+| popular_vote1 = '''1,870,311'''
+| percentage1 = '''82.00%'''
+| image2 = Jumber Patiashvili.png
+| nominee2 = [[Jumber Patiashvili]]
+| party2 = Independent politician
+| popular_vote2 = 390,486
+| percentage2 = 17.12%
+| title = [[President of Georgia|President]]
+| before_election = [[Eduard Shevardnadze]]
+| before_party = Union of Citizens of Georgia
+| after_election = [[Eduard Shevardnadze]]
+| after_party = Union of Citizens of Georgia
+}}{{Politics of Georgia (country)}}
+
+Presidential elections were held in [[Georgia (country)|Georgia]] on 9 April 2000.<ref>[[Dieter Nohlen]], Florian Grotz & Christof Hartmann (2001) ''Elections in Asia: A data handbook, Volume I'', p382 {{ISBN|0-19-924958-X}}</ref> The result was a victory for [[Eduard Shevardnadze]] of the [[Union of Citizens of Georgia]], who received 82% of the vote, with a 76% turnout.<ref>Nohlen ''et al.'', p402</ref>
+
+==Conduct==
+The [[OSCE]] election observation mission concluded that while "fundamental freedoms were generally respected during the election campaign and candidates were able to express their views [...] further progress is necessary for Georgia to fully meet its commitments as a participating State of the OSCE."<ref name="ODIHR Final Report">{{cite web |last1=Office for Democratic Institutions and Human Rights |title=REPUBLIC OF GEORGIA PRESIDENTIAL ELECTION 9 APRIL 2000 FINAL REPORT |url=https://www.osce.org/files/f/documents/1/2/15579.pdf |publisher=OSCE/ODIHR |access-date=17 October 2022}}</ref> The OSCE report also highlighted that only two candidates, Shevardnadze and Patiashvili had "campaigned actively".<ref name="ODIHR Final Report" /> 
+
+==Results==
+{{Election results
+|cand1=[[Eduard Shevardnadze]]|party1=[[Union of Citizens of Georgia]]|votes1=1870311
+|cand2=[[Jumber Patiashvili]]|party2=Independent|votes2=390486
+|cand3={{ill|Kartlos Gharibashvili|ka|ქართლოს ღარიბაშვილი}}|party3=Independent|votes3=7863
+|cand4=Avtandil Jogildze|party4=National State Union of Georgia–Victorious Georgia|votes4=5942
+|cand5=Vazha Zhghenti|party5=Progressive Party of Georgia|votes5=3363
+|cand6=Tengiz Asanidze|party6=Independent|votes6=2793
+|invalid=62418
+|electorate=3088925
+|source=Nohlen ''et al''.
+}}
+
+==References==
+{{reflist}}
+
+{{Georgian elections}}
+
+[[Category:Presidential elections in Georgia (country)]]
+[[Category:2000 in Georgia (country)|Presidential]]
+[[Category:2000 elections in Asia|Georgia]]
+[[Category:2000 elections in Europe|Georgia]]

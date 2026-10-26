@@ -1,0 +1,95 @@
+{{Short description|none}}
+{{Use dmy dates|date=August 2022}}
+{{Infobox election
+| country = Ghana
+| previous_election = 1996 Ghanaian general election
+| previous_year = 1996
+| next_election = 2004 Ghanaian general election
+| next_year = 2004
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 7 December 2000 (first round)<br />{{nowrap|28 December 2000 (second round)}}
+| turnout = 61.74% (first round)<br/>60.37% (second round)
+| image1 = John Kufuor 080915-A-8817J-090.JPG
+| nominee1 = '''[[John Kufuor]]'''
+| running_mate1 = '''[[Aliu Mahama]]'''
+| party1 = New Patriotic Party
+| popular_vote1 = '''3,631,263'''
+| percentage1 = '''56.90%'''
+| image2 = John Atta-Mills election poster (cropped).jpg
+| nominee2 = [[John Atta Mills]]
+| running_mate2 = [[Martin Amidu]]
+| party2 = National Democratic Congress (Ghana)
+| popular_vote2 = 2,750,124
+| percentage2 = 43.10%
+| map_image = 2000 Ghanaian presidential election (percentage by region).svg
+| title = [[President of Ghana|President]]
+| before_election = [[Jerry John Rawlings]]
+| before_party = National Democratic Congress (Ghana)
+| posttitle = [[President-elect of Ghana|President-elect]]
+| after_election = [[John Kufuor]]
+| after_party = New Patriotic Party
+}}}}{{Politics of Ghana}}
+
+General elections were held in [[Ghana]] on 7 December 2000, with a second round of the presidential election on 28 December.<ref name=AED>[http://africanelections.tripod.com/gh.html#2000_Presidential_Election Elections in Ghana] {{Webarchive|url=https://web.archive.org/web/20120530060759/http://africanelections.tripod.com/gh.html#2000_Presidential_Election |date=30 May 2012 }} African Elections Database</ref> 
+
+In the presidential election, [[John Kufuor]] of the [[New Patriotic Party]] (NPP) led the field in the first round of voting, taking 48 percent of the vote. Vice President [[John Atta Mills]] of the [[National Democratic Congress (Ghana)|National Democratic Congress]] (NDC) finished second, with 44 percent. Kufuor defeated Atta-Mills in the second round with 57 percent of the vote. The NPP also won the most seats in the parliamentary elections, ending eight years of NDC dominance. However, with 99 of the 200 seats, it was two seats short of a majority.
+
+The elections marked the first [[peaceful transfer of power]] via the ballot box in the country's history.<ref>{{cite journal |last1=Ayee |first1=J. |title=The 2000 General Elections and Presidential Run-off in Ghana: An Overview |journal=Democratization |date=2002 |volume=9 |issue=2 |pages=148-174 |doi=10.1080/714000251}}</ref><ref>{{Cite journal |last=Gyimah-Boadi |first=Emmanuel |date=2001 |title=A Peaceful Turnover in Ghana |url=https://doi.org/10.1353/jod.2001.0026 |journal=Journal of Democracy |volume=12 |issue=2 |pages=103–117 |doi=10.1353/jod.2001.0026 |issn=1086-3214|url-access=subscription }}</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[John Kufuor]]|vp1=[[Aliu Mahama]]|party1=[[New Patriotic Party]]|votes1=3131739|votes1_2=3631263
+|cand2=[[John Atta Mills]]|vp2=[[Martin Amidu]]|party2=[[National Democratic Congress (Ghana)|National Democratic Congress]]|votes2=2895575|votes2_2=2750124
+|cand3=[[Edward Mahama]]|vp3=Bannerman Baah Ntim|party3=[[People's National Convention (Ghana)|People's National Convention]]|votes3=189659
+|cand4=[[George Hagan (politician)|George Hagan]]|vp4=Alhaji Ibrahim Mahama|party4=[[Convention People's Party]]|votes4=115641
+|cand5=[[Augustus Obuadum Tanoh]]|vp5=Joseph Cletus Korsiba|party5=[[National Reform Party (Ghana)|National Reform Party]]|votes5=78629
+|cand6=[[Dan Lartey]]|vp6=Ewart Ladzagla|party6=[[Great Consolidated Popular Party]]|votes6=67504
+|cand7=[[Charles Wereko-Brobby]]|vp7=Larry Addotey Addo|party7=[[United Ghana Movement]]|votes7=22123
+|invalid=104214
+|invalid2=77616
+|electorate=10698652
+|electorate2=10698652
+|source=[https://web.archive.org/web/20010608051922/https://www.ec.gov.gh/regional-presidential.htm Electoral Commission], [http://africanelections.tripod.com/gh.html#2000_Presidential_Election African Elections Database]
+}}
+
+===Parliament===
+{{Election results
+|image=[[File:Ghanaian Parliament 2000.svg]]
+|party1=[[New Patriotic Party]]|votes1=2937386|seats1=99|sc1=+38
+|party2=[[National Democratic Congress (Ghana)|National Democratic Congress]]|votes2=2691515|seats2=92|sc2=–41
+|party3=[[Convention People's Party]]|votes3=285643|seats3=1|sc3=–4
+|party4=[[People's National Convention (Ghana)|People's National Convention]]|votes4=224657|seats4=3|sc4=+2
+|party5=[[National Reform Party (Ghana)|National Reform Party]]|votes5=147196|seats5=0|sc5=New
+|party6=[[United Ghana Movement]]|votes6=32632|seats6=0|sc6=New
+|party7=[[Every Ghanaian Living Everywhere]]|votes7=730|seats7=0|sc7=0
+|party8=Independents|votes8=210998|seats8=4|sc8=+4
+|row9=Vacant|seats9=1|sc9=–
+|invalid=102549
+|total_sc=0
+|electorate=10698652
+|source=[https://web.archive.org/web/20010608051922/https://www.ec.gov.gh/regional-presidential.htm Electoral Commission], [http://africanelections.tripod.com/gh.html#2000_Parliamentary_Election African Elections Database], [http://www.electionpassport.com/ Election Passport]
+}}
+
+The vacant seat was filled by a by-election on 3 January 2001 and won by the NPP.<ref name=AED/>
+
+==See also==
+*[[List of Ghana Parliament constituencies]]
+*[[List of MPs elected in the 2000 Ghanaian parliamentary election]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://archive.ipu.org/parline-e/reports/arc/2123_00.htm Ghana: Parliamentary Chamber: Parliament: Elections held in 2000] Inter-Parliamentary Union
+
+{{Ghanaian elections}}
+
+[[Category:Presidential elections in Ghana]]
+[[Category:Parliamentary elections in Ghana]]
+[[Category:2000 elections in Africa|Ghana]]
+[[Category:2000 in Ghana|General]]
+[[Category:December 2000 in Africa]]

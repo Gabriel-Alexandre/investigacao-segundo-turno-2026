@@ -1,0 +1,1036 @@
+{{Short description|none}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox election
+| country = Poland
+| type = presidential
+| previous_election = 2010 Polish presidential election
+| previous_year = 2010
+| election_date = 10 May 2015 (first round)<br />{{nowrap|24 May 2015 (second round)}}
+| next_election = 2020 Polish presidential election
+| next_year = 2020
+| turnout = 48.96% (first round) {{decrease}} 5.96[[percentage points|pp]]<br /> 55.34% (second round) {{increase}} 0.04[[percentage points|pp]]
+| image1 = {{CSS image crop|Image = Andrzej Duda portrait with flag.jpg|bSize = 120|cWidth = 115|cHeight = 145|oTop = 0|oLeft = 0}}
+| nominee1 = '''[[Andrzej Duda]]'''
+| party1 = Law and Justice
+| popular_vote1 = '''8,630,627'''
+| percentage1 = '''51.55%'''
+| title = [[President of Poland|President]]
+| image2 = {{CSS image crop|Image =  KPRP 20130131 WG 305 BRONISLAW KOMOROWSKI.jpg|bSize = 140|cWidth = 120|cHeight = 145|oTop = 10|oLeft = 7}}
+| nominee2 = [[Bronisław Komorowski]]
+| party2 = [[Independent politician|Independent]]{{efn|name=fn1}}
+| colour2 = FCA241
+| popular_vote2 = 8,112,311
+| percentage2 = 48.45%
+| map_image = Wybory prezydenckie 2015 (II tura).png
+| map_caption = Results of the second round
+| before_election = [[Bronisław Komorowski]]
+| before_party = Independent politician
+| after_election = [[Andrzej Duda]]
+| after_party = Law and Justice
+}}
+
+Presidential elections were held in [[Poland]] on 10 and 24 May 2015. In the first round of voting [[Law and Justice (Poland)|Law and Justice]] (PiS) candidate, lawyer and [[Member of the European Parliament]], [[Andrzej Duda]] received the highest number of votes with a share of 34.76%, followed by the incumbent president [[Bronisław Komorowski]] (with 33.77%), who ran as an independent with the endorsement of the [[Civic Platform]] (PO),<ref>{{cite news|title=Platforma "murem" za Bronisławem Komorowskim. Premier Kopacz apeluje: Polacy, wybierzcie właściwie|trans-title=Civic Platform fully supports Bronisław Komorowski. Premier Kopacz appeals: Poles, make the right choice|date=2015-02-06|url=http://www.polskieradio.pl/5/3/Artykul/1371624,Platforma-murem-za-Bronislawem-Komorowskim-Premier-Kopacz-apeluje-Polacy-wybierzcie-wlasciwie|newspaper=Polskie Radio|access-date=2015-07-13|archive-date=18 July 2018|archive-url=https://web.archive.org/web/20180718001546/https://www.polskieradio.pl/5/3/Artykul/1371624,Platforma-murem-za-Bronislawem-Komorowskim-Premier-Kopacz-apeluje-Polacy-wybierzcie-wlasciwie|url-status=dead}}</ref> whose membership he had renounced after winning the 2010 elections. Independent candidate [[Paweł Kukiz]] came in third with 20.80% of the votes. As no candidate had received more than 50% of the votes cast, a second round was held on 24 May between the two highest-placed candidates, Duda and Komorowski. This round was won by Duda with 51.5% of the votes, to Komorowski's 48.5%.
+
+==Electoral system==
+The president was elected [[direct election|directly]] by the people to serve for five years, and can be re-elected only once. Pursuant to the provisions of the [[Constitution of Poland|Constitution]], the president had to be elected by an absolute majority of valid votes; if no candidate succeeds in passing this threshold, a [[Two-round system|second round]] of voting is held with the two candidates who received the largest and second largest number of votes respectively.
+
+In order to be registered to contest the elections, candidates had to be a Polish citizen, at least 35 years old on the day of the first round of the election, and have collected at least 100,000 voters' signatures.
+
+According to the article 28, the day of the election had to fall on a Sunday between 100 and 75 days before the end of the term of the incumbent. As the term of [[Bronisław Komorowski]] would officially end on 6 August 2015, the first round had to occur between 27 April and 22 May, so that the possible dates were theoretically either 3, 10, or 17 May, though in practice only the latter two were realistic possibilities as the first fell on [[Constitution Day (Poland)|Constitution Day]], a national holiday.<ref>{{cite web|title=Termin wyborów prezydenckich w 2015 roku|url=http://www.infor.pl/prawo/wybory/wybory-prezydenckie-2015/696338,Termin-wyborow-prezydenckich-w-2015-roku.html}}</ref>
+
+This was the first presidential election carried out following changes in 2011.<ref>{{cite news|title=Sejm RP uchwalił Kodeks wyborczy zawierający propozycje ISP|url=http://www.isp.org.pl/aktualnosci,1,540.html|access-date=26 May 2015|agency=Instytut Spraw Publicznych}}</ref>
+
+==Candidates==
+In total 23 candidates registered with the State Electoral Commission.<ref name=wykaz>{{cite web|title=Wykaz złożonych zawiadomień o utworzeniu komitetu wyborczego w związku z wyborami Prezydenta Rzeczypospolitej Polskiej|url=http://pkw.gov.pl/2015/wykaz-zlozonych-zawiadomien-o-utworzeniu-komitetu-wyborczego-kandydata-na-prezydenta-rzeczypospolitej-polskiej.html|access-date=17 March 2015|archive-url=https://web.archive.org/web/20150316174125/http://pkw.gov.pl/2015/wykaz-zlozonych-zawiadomien-o-utworzeniu-komitetu-wyborczego-kandydata-na-prezydenta-rzeczypospolitej-polskiej.html|archive-date=16 March 2015|url-status=dead|df=dmy-all}}</ref> Only 11 submitted the required 100,000 signatures supporting their candidacy before the 26 March deadline.:<ref name=candidates-pkw>{{cite web|title=Wykaz kandydatów|url=http://prezydent2015.pkw.gov.pl/306_Kandydaci|website=Wybory Prezydenta Rzeczypospolitej Polskiej 2015|publisher=Państwowa Komisja Wyborcza|access-date=27 March 2015|archive-url=https://web.archive.org/web/20150527070713/http://www.prezydent2015.pkw.gov.pl/306_Kandydaci|archive-date=27 May 2015|url-status=dead}}</ref>
+
+<gallery>
+File:Grzegorz Braun (2014).JPG|Film director '''[[Grzegorz Braun]]''' (Independent), age 48
+File:Andrzej Duda (9851867824) (cropped).jpg|Member of European Parliament '''[[Andrzej Duda]]''' ([[Law and Justice (Poland)|Law and Justice]]), age 42
+File:Adam Jarubas Sejm 2015.JPG|''[[Voivodeship (Poland)#Administrative powers|Marszałek]]'' of [[Świętokrzyskie Voivodeship]] '''[[Adam Jarubas]]''' ([[Polish People's Party]]), age 40
+File:KPRP 20130131 WG 305 BRONISLAW KOMOROWSKI.jpg|Incumbent [[President of Poland]] '''[[Bronisław Komorowski]]''' (Independent with [[Civic Platform]] endorsement), age 62
+File:Janusz Korwin-Mikke Sejm 2016.JPG|Member of European Parliament '''[[Janusz Korwin-Mikke]]''' ([[Coalition for the Renewal of the Republic - Freedom and Hope|KORWiN]]), age 72
+File:Marsz Niepodległości 2013 Marian Kowalski.jpg|Columnist '''[[Marian Kowalski (politician)|Marian Kowalski]]''' ([[National Movement (Poland)|National Movement]]), age 50
+File:Paweł Kukiz Sejm 2016 01.JPG|Member of the [[Lower Silesian Regional Assembly]] '''[[Paweł Kukiz]]''' (Independent), age 51
+File:Magdalena Ogórek (2018).jpg|Historian '''[[Magdalena Ogórek]]''' (Independent with [[Democratic Left Alliance (Poland)|Democratic Left Alliance]] endorsement), age 36
+File:Janusz Palikot Sejm czerwiec 2015.JPG|Member of ''[[Sejm]]'' '''[[Janusz Palikot]]''' ([[Your Movement]]), age 50
+File:Paweł Tanajno (cropped).jpg|Entrepreneur '''[[Paweł Tanajno]]''' ([[Direct Democracy (Polish political party)|Direct Democracy]]), age 39
+File:Jacek Wilk Sejm 2016.jpg|Barrister '''[[Jacek Wilk]]''' ([[Congress of the New Right]]), age 40
+</gallery>
+
+===Rejected candidates===
+The registered candidates who failed to submit 100,000 signatures supporting their run for office were:
+* '''[[Artur Głowacki]]''', an entrepreneur<ref name=glowacki-majdanski>{{cite web|title=Wybory prezydenckie 2015: PKW zarejestrowała 23 komitety wyborcze kandydatów na prezydenta. Jakie?|url=http://www.portalsamorzadowy.pl/polityka-i-spoleczenstwo/wybory-prezydenckie-2015-pkw-zarejestrowala-23-komitety-wyborcze-kandydatow-na-prezydenta-jakie,68755.html|publisher=Portal Samorządowy}}</ref>
+* '''[[Anna Grodzka]]''', the first transgender member of the Polish parliament,<ref>[https://www.theguardian.com/world/2011/nov/08/polish-transsexual-gay-mps-parliament Poland's first transsexual and gay MPs take seats in parliament] ''The Guardian'', 8 November 2011</ref> [[The Greens (Poland)|The Greens]] party candidate<ref name=grodzka>{{cite web|title=Anna Grodzka dla WP: tak, będę kandydować na prezydenta|url=http://wiadomosci.wp.pl/kat,1342,title,Anna-Grodzka-dla-WP-tak-bede-kandydowac-na-prezydenta,wid,17220100,wiadomosc.html?ticaid=11442c|website=wp.pl|publisher=[[Wirtualna Polska]]}}</ref>
+* '''[[Zdzisław Jankowski]]''', deputy leader of [[Patriotic Poland]] party, former member of ''Sejm''<ref name=jankowski>{{cite web|title=Kolejne zgłoszenie komitetu kandydata na prezydenta|url=http://wiadomosci.onet.pl/kraj/kolejne-zgloszenie-komitetu-kandydata-na-prezydenta/4qk9nx|website=onet.pl|publisher=Onet|access-date=11 March 2015}}</ref>
+* '''[[Włodzimierz Julian Korab-Karpowicz]]''', leader of Przyszła Polska, philosopher and political thinker, former Deputy Mayor of Gdańsk <ref name=Paula>{{cite web|title=Włodzimierz Korab-Karpowicz KANDYDAT na prezydenta. Kim jest Korab-Karpowicz? |url=https://polityka.se.pl/wiadomosci/wlodzimierz-korab-karpowicz-kandydat-na-prezydenta-kim-jest-korab-karpowicz-aa-xmnV-PCpC-tizw.html|website=polityka.se.pl/|publisher=Super Express|access-date=28 March 2015}}</ref>
+* '''[[Dariusz Łaska]]''', a candidate representing a minor NGO ''Patriotic Community of Solidary Deliberation''.<ref name=laska>{{cite web|title=PKW zarejestrowała kolejne trzy komitety wyborcze|url=http://wiadomosci.wp.pl/kat,1342,title,PKW-zarejestrowala-kolejne-trzy-komitety-wyborcze,wid,17297419,wiadomosc.html?ticaid=1146b6|website=wp.pl|publisher=Wirtualna Polska|access-date=27 February 2015}}</ref>
+*'''[[Stanisław Majdański]]''', former senator, candidate of agrarian conservative ''Ojcowizna'' party.<ref name=glowacki-majdanski />
+*'''[[Balli Marzec]]''', ethnic Kazakh activist and publicist, candidate of NGO ''Kazakh Community''.<ref name=marzec>{{cite web|title=Kazaszka Balli Marzec chce być prezydentem|url=http://www.rp.pl/artykul/1178902.html|work=Rzeczpospolita|access-date=28 February 2015}}</ref>
+* '''[[Kornel Morawiecki]]''', democratic activist in time of [[Polish People's Republic|PRL]], founder and leader of [[Fighting Solidarity]], candidate in [[2010 Polish presidential election|2010 election]].<ref name=morawiecki>{{cite web|title=Kornel Morawiecki - kandydat na prezydenta|url=http://www.radiownet.pl/publikacje/kornel-morawiecki-kandydat-na-prezydenta|website=radiownet.pl|publisher=Radio Wnet|access-date=18 February 2015}}</ref>
+*'''[[Zenon Nowak (activist)|Zenon Nowak]]''', candidate of party ''Brave Dad'' protecting rights of fathers.<ref name=nowak>{{cite web|title=Świnoujścianin Zenon Nowak kandydatem na prezydenta|url=http://www.iswinoujscie.pl/artykuly/35495/|website=iswinoujscie.pl|publisher=iŚwinoujście.pl|access-date=28 February 2015}}</ref>
+* '''[[Wanda Nowicka]]''', current Deputy Marshall of the [[Sejm]], the candidate of the [[social democracy|social-democratic]] party [[Labour Union (Poland)|Labour Union]].<ref name=nowicka>{{cite web|title=Wanda Nowicka też wystartuje w wyborach prezydenckich|url=http://www.polskieradio.pl/78/1227/Artykul/1383495,Wanda-Nowicka-tez-wystartuje-w-wyborach-prezydenckich|website=polskieradio.pl|publisher=Polskie Radio|access-date=22 February 2015|archive-date=21 February 2015|archive-url=https://web.archive.org/web/20150221170328/http://www.polskieradio.pl/78/1227/Artykul/1383495,Wanda-Nowicka-tez-wystartuje-w-wyborach-prezydenckich|url-status=dead}}</ref>
+* '''[[Iwona Piątek]]''', leader of [[Women's Party (Poland)|Women's Party]]<ref name=piatek>{{cite web|title=Kolejne "wzmocnienie" lewej strony. Iwona Piątek z Partii Kobiet kandydatką na prezydenta|url=http://natemat.pl/134309,kolejne-wzmocnienie-lewej-strony-iwona-piatek-z-partii-kobiet-kandydatka-na-prezydenta|website=natemat.pl|access-date=27 February 2015}}</ref>
+* '''[[Adam Słomka]]''', a former member of ''Sejm'' and an anti-communist activist<ref name=slomka>{{cite web|title=Wybory prezydenckie/ PKW zarejestrowała dwa kolejne komitety: Grodzkiej i Słomki|url=http://www.radiopik.pl/3,27415,wybory-prezydenckie-pkw-zarejestrowala-dwa-kolej|website=radiopik.pl|publisher=Polskie Radio PiK|access-date=25 February 2015}}</ref>
+
+Among those who publicly announced their candidacy, but failed to register, were:
+* '''[[Waldemar Deska]]''', a musician, former member of reggae band [[Daab (reggae band)|Daab]], the candidate of the [[Libertarian Party (Poland)|Libertarian Party]],<ref name=deska>{{cite web|title=Waldemar Deska, kandydat na prezydenta: Popierają mnie tysiące pokrzywdzonych przez fiskusa. To kula śniegowa|url=http://natemat.pl/131519,waldemar-deska-kandydat-na-prezydenta-popieraja-mnie-tysiace-pokrzywdzonych-przez-fiskusa-to-kula-sniegowa|website=natemat.pl}}</ref> eventually withdrew his candidacy and expressed his support for [[Janusz Korwin-Mikke]].<ref name=deska-korwin>{{cite web|title=Wybory prezydenckie 2015. Waldemar Deska udzielił poparcia Januszowi Korwin-Mikkemu|url=http://www.polskatimes.pl/artykul/3783323,wybory-prezydenckie-2015-waldemar-deska-udzielil-poparcia-januszowi-korwinmikkemu,id,t.html|website=polskatimes.pl|access-date=17 March 2015}}</ref>
+*'''[[Włodzimierz Zydorczak]]''', businessman and candidate of association ''Obywatelska RP''.<ref name=zydorczak>{{cite web|title=Włodzimierz Zydorczak kandydatem na prezydenta RP|url=http://www.tvn24.pl/poznan,43/wlodzimierz-zydorczak-kandydatem-na-prezydenta-rp,516768.html|website=tvn24.pl|publisher=TVN24|access-date=28 February 2015}}</ref> had his application rejected by the State Electoral Commission<ref name=wykaz />
+
+==Campaign==
+[[File:Andrzej Duda, Prudnik 2015.jpg|thumb|Andrzej Duda during his campaign in [[Prudnik]]]]
+
+===Television debates===
+One debate took place before the first round, on 5 May, chaired by [[Krzysztof Ziemiec]] and aired on [[TVP 1]].<ref>{{cite news|url=http://www.press.pl/newsy/telewizja/pokaz/48706,Krzysztof-Ziemiec-poprowadzi-debate-dziesieciu-kandydatow|language=pl|title=Krzysztof Ziemiec poprowadzi debatę dziesięciu kandydatów|agency=Press|date=5 May 2015|access-date=29 May 2015}}</ref> Ten candidates attended the debate, while President Komorowski declined to appear.<ref>{{cite news|url=http://www.thenews.pl/1/2/Artykul/205825,Candidates-debate-on-TV-prior-to-presidential-elections|agency=Radio Poland|title=Candidates debate on TV prior to presidential elections|date=5 May 2015|access-date=29 May 2015|archive-date=29 May 2015|archive-url=https://web.archive.org/web/20150529115327/http://www.thenews.pl/1/2/Artykul/205825,Candidates-debate-on-TV-prior-to-presidential-elections|url-status=dead}}</ref>
+
+Two debates took place before the second round, the first chaired by [[Dorota Gawryluk]] and by [[Krzysztof Ziemiec]] on 17 May,<ref>{{cite news|url=http://pl.blastingnews.com/polityka/2015/05/starcie-kandydatow-na-prezydenta-w-debacie-wyborczej-00399493.html|archive-url=https://web.archive.org/web/20150529113829/http://pl.blastingnews.com/polityka/2015/05/starcie-kandydatow-na-prezydenta-w-debacie-wyborczej-00399493.html|url-status=dead|archive-date=29 May 2015|language=pl|agency=Blasting News|title=Starcie kandydatów na prezydenta w debacie wyborczej|date=18 May 2015|access-date=29 May 2015}}</ref> and the second on 21 May by [[TVN (Poland)|TVN]], chaired by [[Monika Olejnik]], [[Bogdan Rymanowski]] and [[Justyna Pochanke]]. In both of these, the candidates also had the opportunity to pose questions to the other.<ref>{{cite news|url=https://www.bloomberg.com/news/articles/2015-05-20/polish-debate-pits-presidential-rivals-in-race-too-close-to-call|agency=Bloomberg|title=Polish Ballot Too Close to Call as Presidential Debate Looms|date=20 May 2015|access-date=29 May 2015|last=Skolimowski|first=Piotr}}</ref> Komorowski was generally regarded by the Polish press and political analysts to have won the first of the second-round debates.<ref>{{cite news|url=https://www.bloomberg.com/news/articles/2015-05-17/polish-president-wins-debate-in-bid-to-revamp-election-campaign|agency=Bloomberg|title=Polish President Revives Election Campaign With Debate Win|first=Piotr|last=Skolimowski|date=17 May 2015|access-date=29 May 2015}}</ref> The second debate was considered to be less decisive.<ref>{{cite news|url=http://www.thenews.pl/1/9/Artykul/207642,Duda-and-Komorowski-end-TV-debate|title=Duda and Komorowski participate in TV debate|agency=Radio Poland|date=21 May 2015|access-date=29 May 2015|archive-date=29 May 2015|archive-url=https://web.archive.org/web/20150529111712/http://www.thenews.pl/1/9/Artykul/207642,Duda-and-Komorowski-end-TV-debate|url-status=dead}}</ref><ref>{{cite news|url=https://www.washingtonpost.com/world/europe/polish-president-challenger-face-off-in-last-debate/2015/05/21/9d735a10-ffe4-11e4-8c77-bf274685e1df_story.html|archive-url=https://web.archive.org/web/20150529112621/http://www.washingtonpost.com/world/europe/polish-president-challenger-face-off-in-last-debate/2015/05/21/9d735a10-ffe4-11e4-8c77-bf274685e1df_story.html|url-status=dead|archive-date=29 May 2015|newspaper=The Washington Post|title=Polish president, challenger face off in last debate|date=21 May 2015|access-date=29 May 2015}}</ref><ref>{{cite news|url=https://www.bloomberg.com/news/articles/2015-05-21/polish-challenger-duda-carries-last-debate-before-president-vote|agency=Bloomberg|title=No Knockout in Polish Presidential Debate as Election Nears|first=Piotr|last=Skolimowski|date=21 May 2015|access-date=29 May 2015}}</ref>
+
+===Second round candidate endorsements===
+{| class="wikitable"
+|-
+! colspan="2" | Candidate
+! First round
+! colspan="2" | Endorsement
+|-
+| style="background:{{party color|Independent}};" |
+| [[Paweł Kukiz]]
+| 20.80%
+| style="background-color:#FFFFFF;" |
+| No endorsement<ref>{{cite news |date=2015-05-11 |title=Paweł Kukiz: w II turze nie poprę nikogo |url=https://wiadomosci.wp.pl/pawel-kukiz-w-ii-turze-nie-popre-nikogo-6027689070723713a |access-date=2025-10-11}}</ref>
+|-
+| style="background-color: #1BB100;" |
+| [[Adam Jarubas]]
+| 1.60%
+| style="background-color:#F68F2D;" |
+| [[Bronisław Komorowski]]<ref>{{cite news |date=2015-05-17 |title=Chmielnik. PSL popiera Bronisława Komorowskiego |url=https://radiokielce.pl/801812/post-32665/ |access-date=2025-10-12}}</ref>
+|-
+| style="background:#a52929 ;" |
+| [[Grzegorz Braun]]
+| 0.83%
+| style="background-color:#263778;" | 
+| [[Andrzej Duda]]<ref>{{cite news |date=2015-05-12 |title=Wychodzimy z okopów! |url=https://grzegorzbraun2015.h2.pl/wychodzimy-z-okopow/ |archive-url=https://web.archive.org/web/20150517073341/https://grzegorzbraun2015.h2.pl/wychodzimy-z-okopow/ |access-date=2025-10-12 |archive-date=2015-05-17}}</ref>
+|}
+
+==Opinion polls==
+===Graphical summary===
+[[File:Opinion polling for the 2015 Polish presidential election.svg|thumb|1000px|centre| Graphical summary of the first round opinion polls:{{columns-list|colwidth=10em|
+ {{Legend-line|{{party color|Law and Justice}} solid 5px|[[Andrzej Duda]]}}
+ {{Legend-line|{{party color|Civic Platform}} solid 5px|[[Bronisław Komorowski|B. Komorowski]]}}
+ {{Legend-line|{{party color|Kukiz'15}} solid 5px|[[Paweł Kukiz]]}}
+ {{Legend-line|{{party color|KORWiN}} solid 5px|[[Janusz Korwin-Mikke|J. Korwin-Mikke]]}}
+ {{Legend-line|{{party color|Democratic Left Alliance (Poland)}} solid 5px|[[Magdalena Ogórek]]}}
+ {{Legend-line|{{party color|Polish People's Party}} solid 5px|[[Adam Jarubas]]}}
+ {{Legend-line|{{party color|Palikot's Movement}} solid 5px|[[Janusz Palikot]]}}
+ {{Legend-line|#AAAAAA solid 5px|[[Grzegorz Braun]]}}
+ {{Legend-line|#C11D1E solid 5px|[[Marian Kowalski (politician)|Marian Kowalski]]}}
+ {{Legend-line|#263238 solid 5px|[[Jacek Wilk]]}}
+}}]]
+
+Nearly all opinion polls taken before the first round of the election predicted President Komorowski would receive the largest vote share in the first round, with some polls taken in late 2014 and early 2015 suggesting he was on track for an outright win that would avoid a runoff election.<ref name="stunner">{{cite news|url=http://www.politico.eu/article/komorowski-loses-first-round-of-polish-elections-exit-poll-shows/|work=Politico|title=A Polish stunner|first=Jan|last=Cienski|date=10 May 2015|access-date=28 May 2015}}</ref><ref>{{cite news|url=https://www.bbc.com/news/world-europe-32862772|work=BBC News|title=Poland election: President Komorowski loses to rival Duda|date=25 May 2015|access-date=28 May 2015}}</ref>
+
+Polls were closer in the second round, with most predicting a narrow Duda victory.<ref name="unpredictable">{{cite news|url=http://www.dw.de/komorowski-vs-duda-in-unpredictable-poland-runoff-poll/a-18472870|publisher=Deutsche Welle|title=Komorowski vs. Duda in unpredictable Poland runoff poll|date=24 May 2015|access-date=28 May 2015}}</ref> At least one late poll showed Komorowski pulling ahead, but just slightly.<ref>{{cite news|url=http://uk.reuters.com/article/uk-poland-vote-poll-idUKKBN0O70DM20150522|archive-url=https://web.archive.org/web/20181127001239/https://uk.reuters.com/article/uk-poland-vote-poll-idUKKBN0O70DM20150522|url-status=dead|archive-date=27 November 2018|work=Reuters|title=Poland's President Komorowski narrowly leads in poll ahead of run-off|date=22 May 2015|access-date=28 May 2015}}</ref>
+
+===First round===
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|- style="background:lightgrey;"
+! rowspan="3" style="width:125px;" | Poll source
+! rowspan="3" style="width:115px;" | Date(s)<br />administered
+! rowspan="3" style="width:60px;" | Undecided
+! style="width:60px;" | 
+! style="width:60px;" | 
+! style="width:60px;" | 
+! style="width:60px;" | 
+! style="width:60px;" | 
+! style="width:60px;" | 
+! style="width:60px;" | 
+! style="width:60px;" | 
+! style="width:60px;" | 
+! style="width:60px;" | 
+! style="width:60px;" | 
+! style="width:60px;" | 
+! rowspan="3" style="width:60px;" | Others
+! rowspan="3" style="width:60px;" | Lead
+|-
+| bgcolor="{{party color|Civic Platform}}" |
+| bgcolor="{{party color|Law and Justice}}" |
+| bgcolor="{{party color|Democratic Left Alliance}}" |
+| bgcolor="{{party color|Polish People's Party}}" |
+| bgcolor="{{party color|Palikot's Movement}}" |
+| style="background:#005372;"|
+| style="background:#990033;" |
+| style="background:#00c000;"|
+| style="background:#800000;"|
+| style="background:#000000;"|
+| bgcolor="{{party color|Congress of the New Right}}" |
+| style="background:#ff141e;"|
+|-
+! [[Bronisław Komorowski|Komorowski]]<br/><small>[[Civic Platform|PO]]{{efn|name=fn1}}</small>
+! [[Andrzej Duda|Duda]]<br/><small>[[Law and Justice (Poland)|PiS]]</small>
+! [[Magdalena Ogórek|Ogórek]]<br/><small>[[Independent politician|IN]]</small>
+! [[Adam Jarubas|Jarubas]]<br/><small>[[Polish People's Party|PSL]]</small>
+! [[Janusz Palikot|Palikot]]<br/><small>[[Your Movement|TR]]</small>
+! {{nowrap|[[Janusz Korwin-Mikke|Korwin-Mikke]]}}<br/><small>[[Coalition for the Renewal of the Republic - Freedom and Hope|KORWiN]]</small>
+! [[Grzegorz Braun|Braun]]<br/><small>[[Independent politician|IN]]</small>
+! [[Anna Grodzka|Grodzka]]<br/><small>[[The Greens (Poland)|Greens]]</small>
+! [[Marian Kowalski (politician)|Kowalski]]<br/><small>[[National Movement (Poland)|RN]]</small>
+! [[Paweł Kukiz|Kukiz]]<br/><small>[[Independent politician|IN]]</small>
+! [[Jacek Wilk|Wilk]]<br/><small>[[Congress of the New Right|KNP]]</small>
+! [[Wanda Nowicka|Nowicka]]<br/><small>[[Labour United|UP]]</small>
+|-
+| style="background:lightsteelblue;"| '''EXIT POLLS:'''<br />[http://www.tvp.info/20004330/duda-wygral-pierwsza-ture-komorowski-tuz-za-nim-swietny-wynik-kukiza-sondazowe-wyniki-wyborow IPSOS]
+| 10 May 2015
+| -
+| 32.2%
+| style="background:#809fff;"| '''34.8%'''
+| 2.4%
+| 1.6%
+| 1.5%
+| 4.4%
+| 1.1%
+| -
+| 0.8%
+| 20.3%
+| 0.6%
+| -
+| 0.3%
+| style="background:#073a76;"| {{white|'''2.6%'''}}
+|-
+|colspan="17" style="background:#D0D0D0; color:black" | '''Election day (10 May)'''
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.onet.pl/kraj/ostatni-sondaz-prezydencki-przed-cisza-wyborcza/6fsqj6 IBRiS]
+| 8 May 2015
+| 7.5%
+| style="background:#fbcc99;"| '''39%'''
+| style="background:lightsteelblue;"|31%
+| 3%
+| 2%
+| 1%
+| 3%
+| 1%
+| -
+| 1%
+| 19%
+| 0%
+| -
+| 0%
+| bgcolor="{{party color|Civic Platform}}" | '''8%'''
+|-
+| style="background:lightsteelblue;"| [http://www.tvp.info/19977063/sondaz-dla-wiadomosci-tvp1-15procentowe-poparcie-dla-kukiza-komorowski-dalej-traci-duda-zyskuje TNS Poland]
+| 6–7 May 2015
+| 13%
+| style="background:#fbcc99;"| '''35%'''
+| style="background:lightsteelblue;"|27%
+| 3%
+| 2%
+| 1%
+| 3%
+| 1%
+| -
+| 0%
+| 15%
+| 0%
+| -
+| 0%
+| bgcolor="{{party color|Civic Platform}}" | '''8%'''
+|-
+| style="background:lightsteelblue;"| [http://fakty.tvn24.pl/fakty-ekstra.52/komorowski-po-raz-pierwszy-z-poparciem-ponizej-40-proc-sondaz-dla-faktow-tvn-i-tvn24.540293.html Millward Brown]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 7 May 2015
+| 3%
+| style="background:#fbcc99;"| '''39%'''
+| style="background:lightsteelblue;"| 27%
+| 4%
+| 2%
+| 3%
+| 5%
+| 1%
+| -
+| 0%
+| 13%
+| 0%
+| -
+| 0%
+| bgcolor="{{party color|Civic Platform}}" | '''12%'''
+|-
+| style="background:lightsteelblue;"| [http://www.se.pl/wiadomosci/polityka/nowy-sondaz-super-expressu-kukiz-ma-juz-143-procenta_599605.html IBRiS] {{Webarchive|url=https://web.archive.org/web/20150518071616/http://www.se.pl/wiadomosci/polityka/nowy-sondaz-super-expressu-kukiz-ma-juz-143-procenta_599605.html |date=18 May 2015 }}
+| 6 May 2015
+| 5%
+| style="background:#fbcc99;"| '''39.7%'''
+| style="background:lightsteelblue;"|29%
+| 2.4%
+| 3.2%
+| 1.7%
+| 4.2%
+| 0.8%
+| -
+| 0.7%
+| 14.3%
+| 0%
+| -
+| 0.1%
+| bgcolor="{{party color|Civic Platform}}" | '''10.7%'''
+|-
+| style="background:lightsteelblue;"| [https://web.archive.org/web/20150507182240/http://ewybory.eu/sondaz-prezydencki-pressmix-03-05-2015/ Pressmix]
+| 3 May 2015
+| 5.1%
+| style="background:#fbcc99;"| '''33.3%'''
+| style="background:lightsteelblue;"| '''33.3%'''
+| 3.3%
+| 1.8%
+| 0.9%
+| 6.6%
+| 0.8%
+| -
+| 0.6%
+| 13.7%
+| 0.5%
+| -
+| 0.1%
+| '''Tie''' 
+|-
+| style="background:lightsteelblue;"| [http://fakty.tvn24.pl/fakty-ekstra.52/najnowszy-sondaz-prezydencki-dla-faktow-tvn-i-tvn24-komorowski-zyskuje-duda-tez.533046.html Millward Brown]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 13 April 2015
+| 7%
+| style="background:#fbcc99;"| '''45%'''
+| style="background:lightsteelblue;"|28%
+| 4%
+| 2%
+| 2%
+| 6%
+| -
+| -
+| -
+| 6%
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''17%'''
+|-
+| style="background:lightsteelblue;"| [https://web.archive.org/web/20150413182037/http://wiadomosci.onet.pl/kraj/sondaz-tns-dla-tvp-komorowski-wyraznie-przed-duda-bedzie-druga-tura/597jcd TNS Poland]
+| 7–8 April 2015
+| 13%
+| style="background:#fbcc99;"| '''46%'''
+| style="background:lightsteelblue;"|24%
+| 3%
+| 1%
+| 2%
+| 4%
+| -
+| -
+| -
+| 6%
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''22%'''
+|-
+| style="background:lightsteelblue;"| [http://telewizjarepublika.pl/sondaz-prezydencki-millward-brown-komorowski-42-proc-duda-26-proc.18860.html Millward Brown] {{Webarchive|url=https://web.archive.org/web/20160304031122/http://telewizjarepublika.pl/sondaz-prezydencki-millward-brown-komorowski-42-proc-duda-26-proc.18860.html |date=4 March 2016 }}
+| 30 March 2015
+| 9%
+| style="background:#fbcc99;"| '''42%'''
+| style="background:lightsteelblue;"|26%
+| 7%
+| 2%
+| 3%
+| 6%
+| -
+| -
+| 1%
+| 4%
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''16%'''
+|-
+| style="background:lightsteelblue;"| [https://web.archive.org/web/20150402235002/http://ewybory.eu/sondaz-prezydencki-ibris-30-03-2015/ IBRiS]
+| 27–28 March 2015
+| 11.1%
+| style="background:#fbcc99;"| '''40.7%'''
+| style="background:lightsteelblue;"|26.6%
+| 4.9%
+| 5.1%
+| 2.7%
+| 4.8%
+| 0.4%
+| -
+| 0.4%
+| 3.3%
+| 0%
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''14.1%'''
+|-
+|colspan="17" style="background:#D0D0D0; color:black" | '''100,000 supporting signatures deadline (26 March)'''
+|-
+| style="background:lightsteelblue;"| [http://fakty.interia.pl/raport-wybory-2010/news-wybory-prezydenckie-najnowszy-sondaz-tns-polska.nId.1703696 TNS Poland]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 13–18 March 2015
+| 21%
+| style="background:#fbcc99;"| '''41%'''
+| style="background:lightsteelblue;"|24%
+| 6%
+| 2%
+| 1%
+| 2%
+| -
+| -
+| -
+| 2%
+| -
+| 1%
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''17%'''
+|-
+| style="background:lightsteelblue;"| [http://www.rp.pl/artykul/1186615.html Millward Brown] {{Webarchive|url=https://web.archive.org/web/20150402100033/http://www.rp.pl/artykul/1186615.html |date=2 April 2015 }}
+| 16 March 2015
+| 2%
+| style="background:#fbcc99;"| '''46%'''
+| style="background:lightsteelblue;"|31%
+| 4%
+| 1%
+| 4%
+| 4%
+| -
+| 0%
+| 1%
+| 5%
+| -
+| 1%
+| 1%
+| bgcolor="{{party color|Civic Platform}}" | '''15%'''
+|-
+| style="background:lightsteelblue;"| [http://www.wiadomosci24.pl/artykul/prognoza_wyborcza_ppw_duda_dogania_komorowskiego_326505.html PPW]
+| 9–15 March 2015
+| -
+| style="background:#fbcc99;"| '''48%'''
+| style="background:lightsteelblue;"|30%
+| 4%
+| 2%
+| 6%
+| 4%
+| -
+| 1%
+| 1%
+| 2%
+| 1%
+| 0%
+| 1%
+| bgcolor="{{party color|Civic Platform}}" | '''18%'''
+|-
+| style="background:lightsteelblue;"| [http://fakty.interia.pl/raport-wybory-prezydenckie-2015/sondaze/news-sondaz-dla-rzeczpospolitej-komorowski-46-proc-duda-26-proc.nId.1698683 IBRiS]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 13 March 2015
+| 12%
+| style="background:#fbcc99;"| '''46%'''
+| style="background:lightsteelblue;"|26%
+| 5%
+| 4%
+| 3%
+| 3%
+| -
+| -
+| -
+| 1%
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''20%'''
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.onet.pl/kraj/tns-polska-dla-wiadomosci-komorowski-traci-8-proc-mozliwa-druga-tura/vxcm3j TNS Poland]
+| 10–11 March 2015
+| 12%
+| style="background:#fbcc99;"| '''45%'''
+| style="background:lightsteelblue;"|27%
+| 5%
+| 1%
+| 1%
+| 4%
+| <1%
+| 1%
+| <1%
+| 2%
+| <1%
+| 1%
+| 1%
+| bgcolor="{{party color|Civic Platform}}" | '''18%'''
+|-
+| style="background:lightsteelblue;"| [http://wpolityce.pl/polityka/237392-cbos-obstaje-przy-swoim-nie-bedzie-drugiej-tury-w-wyborach-prezydenckich CBOS]
+| 5–11 March 2015
+| 18%
+| style="background:{{party color|Civic Platform}};"| '''52%'''
+| 19%
+| 3%
+| 1%
+| 2%
+| 1%
+| -
+| <0.5%
+| <0.5%
+| 2%
+| -
+| <0.5%
+| 2%
+| bgcolor="{{party color|Civic Platform}}" | '''33%'''
+|-
+| style="background:lightsteelblue;"| [http://www.wiadomosci24.pl/artykul/prognoza_wyborcza_ppw_komorowski_wygra_ale_bedzie_druga_tura_326015.html PPW]
+| 2–8 March 2015
+| -
+| style="background:#fbcc99;"| '''48%'''
+| style="background:lightsteelblue;"|28%
+| 3%
+| 2%
+| 7%
+| 4%
+| -
+| 1%
+| 1%
+| 4%
+| -
+| 1%
+| 1%
+| bgcolor="{{party color|Civic Platform}}" | '''20%'''
+|-
+| style="background:lightsteelblue;"| [http://www.tvn24.pl/wiadomosci-z-kraju.3/sondaz-dla-tvn24-rosnie-poparcie-dla-andrzeja-dudy.520330.html Millward Brown]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 2 March 2015
+| 2%
+| style="background:#fbcc99;"| '''46%'''
+| style="background:lightsteelblue;"|27%
+| 8%
+| 3%
+| 2%
+| 4%
+| -
+| 1%
+| 1%
+| 4%
+| -
+| 0%
+| 2%
+| bgcolor="{{party color|Civic Platform}}" | '''19%'''
+|-
+| style="background:lightsteelblue;"|[http://www.wiadomosci24.pl/artykul/prognoza_wyborcza_ppw_duda_mocno_zyskuje_palikot_trzeci_325585.html PPW]
+| 23–28 Feb 2015
+| -
+| style="background:#fbcc99;"| '''50%'''
+| style="background:lightsteelblue;"| 28%
+| 4%
+| 3%
+| 5%
+| 3%
+| -
+| 1%
+| 1%
+| 3%
+| -
+| 1%
+| 1%
+| bgcolor="{{party color|Civic Platform}}" | '''22%'''
+|-
+| style="background:lightsteelblue;"| [http://www.tvn24.pl/wiadomosci-z-kraju.3/sondaz-wyborczy-najnowszy-sondaz-prezydencki.520172.html Ipsos]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 25–26 Feb 2015
+| 3.2%
+| style="background:#fbcc99;"| '''49.7%'''
+| style="background:lightsteelblue;"|28%
+| 5.7%
+| 2%
+| 1.4%
+| 3.8%
+| -
+| -
+| 0.7%
+| 3.5%
+| 0.3%
+| -
+| 0.5%
+| bgcolor="{{party color|Civic Platform}}" | '''21.7%'''
+|-
+| style="background:lightsteelblue;"| [http://www.wiadomosci24.pl/artykul/prognoza_wyborcza_ppw_palikot_wciaz_zyskuje_ogorek_piata_324963.html PPW]
+| 16–22 Feb 2015
+| -
+| style="background:{{party color|Civic Platform}};"| '''51%'''
+| 25%
+| 4%
+| 3%
+| 6%
+| 2%
+| -
+| 1%
+| 1%
+| 5%
+| -
+| 1%
+| 1%
+| bgcolor="{{party color|Civic Platform}}" | '''26%'''
+|-
+| style="background:lightsteelblue;"| [http://m.interia.pl/fakty/news.nId.1677169 TNS Poland]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 13–18 Feb 2015
+| 22%
+| style="background:#fbcc99;"| '''47%'''
+| style="background:lightsteelblue;"|17%
+| 6%
+| 4%
+| 1%
+| 1%
+| -
+| 1%
+| -
+| 1%
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''30%'''
+|-
+| style="background:lightsteelblue;"| [http://polska.newsweek.pl/sondaz-newsweeka-komorowski-zwyciezca-w-pierwszej-turze-newsweek-pl.artykuly.357416.1.html Estymator]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 15–17 Feb 2015
+| -
+| style="background:{{party color|Civic Platform}};"| '''51%'''
+| 25%
+| 8%
+| 4%
+| 2%
+| 3%
+| 0%
+| 1%
+| 0%
+| 5%
+| 0%
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''26%'''
+|-
+| style="background:lightsteelblue;"| [http://www.tvn24.pl/wiadomosci-z-kraju.3/wybory-prezydenckie-2015-sondaz-dla-faktow-tvn.515809.html Millward Brown]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 16 Feb 2015
+| 5%
+| style="background:#fbcc99;"| '''47%'''
+| style="background:lightsteelblue;"|24%
+| 7%
+| 2%
+| 6%
+| 3%
+| –
+| 1%
+| 0%
+| 4%
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''23%'''
+|-
+| style="background:lightsteelblue;"| [http://www.gfk.com/pl/news-and-events/press-room/press-releases/strony/preferencje-w-wyborach-prezydenckich-%E2%80%93-luty-2015-.aspx GfK Polonia]
+| 12–16 Feb 2015
+| 14%
+| style="background:{{party color|Civic Platform}};"| '''52%'''
+| 20%
+| 4%
+| 2%
+| 2%
+| 2%
+| –
+| -
+| -
+| 3%
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''32%'''
+|-
+| style="background:lightsteelblue;"| [https://web.archive.org/web/20150214210217/http://wiadomosci.onet.pl/kraj/sondaz-ibris-bedzie-druga-tura-wyborow-prezydenckich/z27ck IBRiS]
+| 12–13 Feb 2015
+| 9%
+| style="background:#fbcc99;"| '''49%'''
+| style="background:lightsteelblue;"|26%
+| 5%
+| 2%
+| 2%
+| 2%
+| –
+| 1%
+| <1%
+| 3%
+| <1%
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''23%'''
+|-
+| style="background:lightsteelblue;"| [http://polska.newsweek.pl/sondaz-prezydencki-ogromne-poparcie-komorowskiego.artykuly.357222.1.html CBOS]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 5–11 Feb 2015
+| 8%
+| style="background:{{party color|Civic Platform}};"| '''63%'''
+| 15%
+| 3%
+| 2%
+| 1%
+| 3%
+| –
+| 1%
+| -
+| -
+| -
+| -
+| 4%
+| bgcolor="{{party color|Civic Platform}}" | '''48%'''
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.gazeta.pl/wiadomosci/1.114871.17368334.Sondaz_TNS_Polska__Komorowski_prezydentem_juz_po_I.html?lokale=local#BoxNewsLink TNS Poland]{{Dead link|date=May 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 4–5 Feb 2015
+| 11%
+| style="background:{{party color|Civic Platform}};"| '''53%'''
+| 19%
+| 5%
+| 2%
+| 2%
+| 2%
+| –
+| 1%
+| 1%
+| -
+| -
+| -
+| 4%{{ref|e|e}} 
+| bgcolor="{{party color|Civic Platform}}" | '''34%'''
+|-
+| style="background:lightsteelblue;"| [http://www.rp.pl/artykul/1176605.html IBRiS] {{Webarchive|url=https://web.archive.org/web/20150822014558/http://www.rp.pl/artykul/1176605.html |date=22 August 2015 }}
+| 3 Feb 2015
+| -
+| style="background:{{party color|Civic Platform}};"| '''55%'''
+| 25%
+| 5%
+| 1%
+| 2%
+| 4%
+| –
+| -
+| -
+| -
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''30%'''
+|-
+| style="background:lightsteelblue;"| [http://www.polskatimes.pl/artykul/3735278.komorowski-daleko-przed-duda-i-ogorek-nowy-sondaz-prezydencki-millward-brown-video.id.t.html Millward Brown]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 25 Jan 2015
+| 4%
+| style="background:{{party color|Civic Platform}};"| '''62%'''
+| 18%
+| 8%
+| 1%{{ref|a|a}}
+| 2%
+| 3%
+| –
+| -
+| 1%
+| -
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''44%'''
+|-
+| style="background:lightsteelblue;"| [http://www.rp.pl/artykul/1167699.1174841-Wybory-prezydenckie--Komorowski-wygrywa-w-pierwszej-turze.html?referer=redpol TNS Poland]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 16–21 Jan 2015
+| 24%
+| style="background:{{party color|Civic Platform}};"| '''52%'''
+| 12%
+| 5%
+| -
+| 2%
+| 3%
+| –
+| -
+| 0%
+| -
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''40%'''
+|-
+| style="background:lightsteelblue;"| [http://tajnikipolityki.pl/nowy-sondaz-komorowski-deklasuje-ale-mozliwa-jest-ii-tura-wyborow/ Ariadna] {{Webarchive|url=https://web.archive.org/web/20200806140710/http://tajnikipolityki.pl/nowy-sondaz-komorowski-deklasuje-ale-mozliwa-jest-ii-tura-wyborow/ |date=6 August 2020 }}
+| 16–20 Jan 2015
+| -
+| style="background:#fbcc99;"| '''48%'''
+| style="background:lightsteelblue;"|17%
+| 7%
+| 2%
+| 7%
+| 7%
+| –
+| -
+| 2%
+| -
+| -
+| -
+| 10%{{ref|d|d}}
+| bgcolor="{{party color|Civic Platform}}" | '''31%'''
+|-
+| style="background:lightsteelblue;"| [http://www.gfk.com/pl/news-and-events/press-room/press-releases/strony/preferencje-w-wyborach-prezydenckich-%E2%80%93-stycze%C5%84-2015.aspx GfK Polonia]
+| 15–18 Jan 2015
+| 20%
+| style="background:{{party color|Civic Platform}};"| '''55%'''
+| 14%
+| 4%
+| -
+| 2%
+| 3%
+| –
+| -
+| -
+| -
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''41%'''
+|-
+| style="background:lightsteelblue;"| [http://www.polskieradio.pl/5/3/Artykul/1352797.Wybory-prezydenckie-Najnowszy-sondaz-Bronislaw-Komorowski-na-prowadzeniu TNS Poland] {{Webarchive|url=https://web.archive.org/web/20160812072710/http://www.polskieradio.pl/5/3/Artykul/1352797.Wybory-prezydenckie-Najnowszy-sondaz-Bronislaw-Komorowski-na-prowadzeniu |date=12 August 2016 }}
+| 12–13 Jan 2015
+| 11%
+| style="background:{{party color|Civic Platform}};"| '''56%'''
+| 19%
+| 6%
+| 1%
+| 2%
+| 4%
+| –
+| -
+| -
+| -
+| -
+| -
+| 1%
+| bgcolor="{{party color|Civic Platform}}" | '''37%'''
+|-
+| style="background:lightsteelblue;"| [http://wyborcza.pl/1.75478.17246121.Sondaz_prezydencki__Komorowski_bezkonkurencyjny__Ogorek.html Millward Brown]
+| 12 Jan 2015
+| 4%
+| style="background:{{party color|Civic Platform}};"| '''65%'''
+| 21%
+| 6%
+| -
+| 1%
+| 3%
+| –
+| -
+| -
+| -
+| -
+| -
+| -
+| bgcolor="{{party color|Civic Platform}}" | '''44%'''
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.onet.pl/najnowszy-sondaz-miazdzaca-przewaga-bronislawa-komorowskiego/ndckl TNS Poland]
+| 10–11 Dec 2014
+| 13%
+| style="background:{{party color|Civic Platform}};"| '''56%'''
+| 17%
+| -
+| -
+| 2%
+| 5%
+| –
+| -
+| -
+| -
+| -
+| -
+| 7%{{ref|b|b}} 
+| bgcolor="{{party color|Civic Platform}}" | '''39%'''
+|-
+| style="background:lightsteelblue;"| [https://web.archive.org/web/20150205205647/http://300polityka.pl/stan-gry/2014/12/14/obraz-dnia-calus-moniki-palikot-w-faktach-czarnecki-mr-2-proc-ibris-dla-dorze-pbk-556-duda-231/ IBRiS]
+| 4 Dec 2014
+| 5%
+| style="background:{{party color|Civic Platform}};"| '''55.6%'''
+| 23.1%
+| -
+| -
+| 1.3%
+| 4.8%
+| 0.7%
+| -
+| -
+| -
+| -
+| -
+| 11.5%{{ref|c|c}} 
+| bgcolor="{{party color|Civic Platform}}" | '''32.5%'''
+|}
+; Notes
+* {{note|a|a}} PSL's candidate's name had not been announced at the time, however the poll asked about support for any potential party's candidate.
+* {{note|b|b}} Including [[Ryszard Kalisz]] at 4%
+* {{note|c|c}} Including [[Wojciech Olejniczak]] at 6.4%, [[Jarosław Kalinowski]] at 1.7%, [[Zbigniew Stonoga]] at 1%, and [[Mirosław Piotrowski]] at 0.4%
+* {{note|d|d}} Including [[Ryszard Kalisz]] at 10%
+* {{note|e|e}} Including [[Ryszard Kalisz]] at 3%
+
+=== Second round ===
+
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|- style="background:lightgrey;"
+! rowspan="3" style="width:125px;" | Poll source
+! rowspan="3" style="width:115px;" | Date(s)<br />administered
+! rowspan="3" style="width:60px;" | Abstention
+! style="width:60px;" | 
+! style="width:60px;" | 
+! rowspan="3" style="width:60px;" | Undecided
+|-
+| bgcolor="{{party color|Civic Platform}}" |
+| bgcolor="{{party color|Law and Justice}}" |
+|-
+! [[Bronisław Komorowski|Komorowski]]<br/><small>[[Civic Platform|PO]]{{efn|name=fn1}}</small>
+! [[Andrzej Duda|Duda]]<br/><small>[[Law and Justice (Poland)|PiS]]</small>
+|-
+| style="background:lightsteelblue;"| [http://fakty.tvn24.pl/fakty-ekstra.52/sondaz-dla-faktow-tvn-i-tvn24-komorowski-i-duda-z-niemal-identycznym-poparciem.544137.html Millward Brown]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 20 May 2015
+| -
+| style="background:#fbcc99;"| '''47%'''
+| 45%
+| 8%
+|-
+| style="background:lightsteelblue;"| [http://polska.newsweek.pl/wybory-prezydenckie-2015-kto-wygra-komorowski-czy-duda.artykuly.363489.1.html#fp=nw Estymator]{{Dead link|date=May 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 18 May 2015
+| -
+| 48%
+| style="background:lightsteelblue;"|'''52%'''
+| -
+|-
+| style="background:lightsteelblue;"| [http://fakty.tvn24.pl/fakty-ekstra.52/sondaz-dla-faktow-tvn-i-tvn24-komorowski-przed-duda-w-drugiej-turze-wyborow.543448.html Millward Brown]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 18 May 2015
+| -
+| style="background:#fbcc99;"| '''47%'''
+| 44%
+| 9%
+|-
+| style="background:lightsteelblue;"| [http://wiadomosci.onet.pl/kraj/nowy-sondaz-ibris-duda-przed-komorowskim/hb4tdb IBRiS]
+| 14 May 2015
+| -
+| 43.2%
+| style="background:lightsteelblue;"|'''48%'''
+| 6.9%
+|-
+| style="background:lightsteelblue;"| [http://fakty.tvn24.pl/fakty-ekstra.52/duda-czy-komorowski-kto-wygra-w-ii-turze-sondaz-millward-brown-dla-faktow-tvn-i-tvn24.542424.html Millward Brown]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 14 May 2015
+| -
+| 40%
+| style="background:lightsteelblue;"|'''44%'''
+| 15%
+|-
+| style="background:lightsteelblue;"| [http://polska.newsweek.pl/sondaz-prezydencki-przed-ii-tura-wyborow-przewaga-dudy-nad-komorowskim-newsweek.artykuly.363194.1.html Estymator]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 13–14 May 2015
+| -
+| 46%
+| style="background:lightsteelblue;"|'''54%'''
+| -
+|-
+|colspan="6" style="background:#D0D0D0; color:black" | '''Election day (10 May)'''
+|-
+| style="background:lightsteelblue;"| [http://fakty.tvn24.pl/fakty-ekstra.52/komorowski-po-raz-pierwszy-z-poparciem-ponizej-40-proc-sondaz-dla-faktow-tvn-i-tvn24.540293.html Millward Brown]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 7 May 2015
+| -
+| style="background:#fbcc99;"| '''54%'''
+| 41%
+| 5%
+|-
+| style="background:lightsteelblue;"| [http://fakty.tvn24.pl/fakty-ekstra.52/najnowszy-sondaz-prezydencki-dla-faktow-tvn-i-tvn24-komorowski-zyskuje-duda-tez.533046.html Millward Brown]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 13 April 2015
+| -
+| style="background:#fbcc99;"| '''55%'''
+| 40%
+| 5%
+|-
+| style="background:lightsteelblue;"| [http://telewizjarepublika.pl/sondaz-prezydencki-millward-brown-komorowski-42-proc-duda-26-proc.18860.html Millward Brown] {{Webarchive|url=https://web.archive.org/web/20160304031122/http://telewizjarepublika.pl/sondaz-prezydencki-millward-brown-komorowski-42-proc-duda-26-proc.18860.html |date=4 March 2016 }}
+| 30 March 2015
+| -
+| style="background:#fbcc99;"| '''52%'''
+| 41%
+| 7%
+|-
+| style="background:lightsteelblue;"| [http://www.rp.pl/artykul/1186615.html Millward Brown] {{Webarchive|url=https://web.archive.org/web/20150402100033/http://www.rp.pl/artykul/1186615.html |date=2 April 2015 }}
+| 16 March 2015
+| 4%
+| style="background:#fbcc99;"| '''53%'''
+| 37%
+| 6%
+|-
+| style="background:lightsteelblue;"| [http://www.wiadomosci24.pl/artykul/prognoza_wyborcza_ppw_komorowski_wygra_ale_bedzie_druga_tura_326015.html PPW]
+| 2–8 March 2015
+| -
+| style="background:#fbcc99;"| '''62%'''
+| 38%
+| -
+|-
+| style="background:lightsteelblue;"| [http://www.tvn24.pl/wiadomosci-z-kraju.3/wybory-prezydenckie-2015-sondaz-dla-faktow-tvn.515809.html Millward Brown]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 16 Feb 2015
+| 10%
+| style="background:#fbcc99;"| '''59%'''
+| 27%
+| 4%
+|-
+| style="background:lightsteelblue;"| [http://cbos.pl/SPISKOM.POL/2015/K_028_15.PDF CBOS]
+| 5–11 Feb 2015
+| 7%
+| style="background:#fbcc99;"| '''65%'''
+| 19%
+| 9%
+|}
+
+==Results==
+Duda took a narrow first-place finish over Komorowski in the first round of the election on 10 May 2015, forcing the incumbent into a runoff. The result was described as a surprise, as the Komorowski camp and many political observers expected him to perform better or perhaps win outright.<ref name="stunner"/><ref name="unpredictable"/><ref>{{cite news|url=https://www.reuters.com/article/us-poland-vote-president-idUSKBN0NU0RX20150510|work=Reuters|title=Polish president suffers shock reverse in first round vote: exit poll|date=10 May 2015|access-date=28 May 2015}}</ref><ref>{{cite news|url=https://www.bloomberg.com/news/articles/2015-05-10/poles-hand-president-komorowski-shock-defeat-in-first-round-vote|agency=Bloomberg|title=Poles Hand President Komorowski Shock Defeat in First-Round|date=10 May 2015|access-date=28 May 2015}}</ref> [[Paweł Kukiz]], who finished third in the first round of voting, declined to endorse either Duda or Komorowski, instead offering to moderate a debate between the two candidates.<ref>{{cite news|url=http://www.thenews.pl/1/9/Artykul/206654,Kukiz-invites-Komorowski-Duda-for-presidential-debate|agency=Radio Poland|title=Kukiz invites Komorowski, Duda, for presidential debate|date=13 May 2015|access-date=28 May 2015}}{{Dead link|date=February 2026 |bot=InternetArchiveBot }}</ref> Komorowski declined to participate, and the debate was never held.<ref>{{cite news|url=http://www.thenews.pl/1/9/Artykul/207500,Kukizled-presidential-debate-cancelled|agency=Radio Poland|title=Kukiz-led presidential debate cancelled|date=21 May 2015|access-date=28 May 2015|archive-date=28 May 2015|archive-url=https://web.archive.org/web/20150528184513/http://www.thenews.pl/1/9/Artykul/207500,Kukizled-presidential-debate-cancelled|url-status=dead}}</ref>
+
+In the second round of the election on 24 May, Duda unseated Komorowski in what was until [[2020 Polish presidential election|2020]] the closest presidential election since Poland became a democracy.<ref name="late">{{cite news|url=http://www.warsawvoice.pl/WVpage/pages/article.php/31819/news|work=The Warsaw Voice|title=Andrzej Duda wins Poland's presidential election – late poll results|date=24 May 2015|access-date=28 May 2015}}</ref><ref>{{cite news|url=http://www.eho.com.hr/news/andrzej-duda-wins-polands-presidential-election/9939.aspx|title=Andrzej Duda wins Poland's presidential election|agency=EHO|date=26 May 2015|access-date=28 May 2015}}</ref> He defeated the incumbent by a margin of approximately three percentage points, according to official results.<ref>{{cite news|url=http://www.aljazeera.com/news/2015/05/duda-wins-polands-presidential-election-150525164751445.html|publisher=Al Jazeera|title=Conservative Duda wins Poland's presidential vote|date=25 May 2015|access-date=28 May 2015}}</ref>
+[[File:Präsidentschaftswahl Polen 2015 Runde 1.svg|thumb|350px|Results of the first round]]
+
+{{Election results
+|cand1=[[Andrzej Duda]]|party1=[[Law and Justice (Poland)|Law and Justice]]|votes1=5179092|votes1_2=8630627
+|cand2=[[Bronisław Komorowski]]|party2=Independent ([[Civic Platform|PO]])|votes2=5031060|votes2_2=8112311
+|cand3=[[Paweł Kukiz]]|party3=Independent|votes3=3099079
+|cand4=[[Janusz Korwin-Mikke]]|party4=[[KORWiN (Poland)|KORWiN]]|votes4=486084
+|cand5=[[Magdalena Ogórek]]|party5=Independent ([[Democratic Left Alliance (Poland)|SLD]])|votes5=353883
+|cand6=[[Adam Jarubas]]|party6=[[Polish People's Party]]|votes6=238761
+|cand7=[[Janusz Palikot]]|party7=[[Your Movement]]|votes7=211242
+|cand8=[[Grzegorz Braun]]|party8=Independent ([[KWWGB „Szczęść Boże!”]])|votes8=124132|color8=#a52929 
+|cand9=[[Marian Kowalski (politician)|Marian Kowalski]]|party9=[[National Movement (Poland)|National Movement]]|votes9=77630
+|cand10=[[Jacek Wilk]]|party10=[[Congress of the New Right]]|votes10=68186
+|cand11=[[Paweł Tanajno]]|party11=[[Direct Democracy (Polish political party)|Direct Democracy]]|votes11=29785|color11=#3DD4C7
+|invalid=124952|invalid2=250231
+|electorate=30688570|electorate2=30709281
+|source=[http://prezydent2015.pkw.gov.pl/pliki/1_Obwieszczenie.pdf PKW], [http://prezydent2015.pkw.gov.pl/pliki/1432571989_obwieszczenie.pdf PKW]
+}}
+{{bar box|title=Vote share|titlebar=#ddd|width=600px|barwidth=500px|bars=
+{{Bar gap|{{center|Second round}}}}
+{{bar percent|'''Duda'''|{{party color|Law and Justice}}|51.55}}
+{{bar percent|Komorowski|{{party color|Civic Platform}}|48.45}}
+{{bar gap|{{center|First round}}}}
+{{bar percent|{{underline|Duda}}|{{party color|Law and Justice}}|34.76}}
+{{bar percent|{{underline|Komorowski}}|{{party color|Civic Platform}}|33.77}}
+{{bar percent|Kukiz|{{party color|Kukiz'15}}|20.80}}
+{{bar percent|Korwin-Mikke|{{party color|KORWiN}}|3.26}}
+{{bar percent|Ogórek|{{party color|Democratic Left Alliance (Poland)}}|2.38}}
+{{bar percent|Jarubas|{{party color|Polish People's Party}}|1.60}}
+{{bar percent|Palikot|{{party color|Your Movement}}|1.42}}
+{{bar percent|Others|#777777|2.01}}
+}}
+
+==Reactions==
+Komorowski said after the release of the exit poll that it was important to respect the result of the vote.<ref name="late"/> He conceded defeat that evening and wished Duda "a successful presidency".<ref name="concedes">{{cite news|url=http://www.avaz.ba/clanak/179467/poland-election-komorowski-concedes-defeat-to-duda|work=Dnevi avaz|title=Poland election: Komorowski concedes defeat to Duda|date=25 May 2015|access-date=28 May 2015}}</ref>
+
+Duda hailed his victory as a vote for change.<ref name="concedes"/> His campaign manager said the election showed that the [[Law and Justice (Poland)|Law and Justice]] bloc could win [[2015 Polish parliamentary election|parliamentary elections]] scheduled for autumn,<ref>{{cite news|url=http://www.dpa-international.com/news/international/polish-right-wing-party-eyes-fall-electionsafter-dudas-victory-a-45370968.html|agency=Deutsche Presse-Agentur|title=Polish right-wing party eyes fall elections after Duda's victory|date=25 May 2015|access-date=28 May 2015|first=Eva|last=Krafczyk|archive-url=https://web.archive.org/web/20150528181453/http://www.dpa-international.com/news/international/polish-right-wing-party-eyes-fall-electionsafter-dudas-victory-a-45370968.html|archive-date=28 May 2015|url-status=dead}}</ref> something that the party achieved.
+
+Many world leaders, including [[United States]] President [[Barack Obama]],<ref>{{cite news|url=http://thenews.pl/1/10/Artykul/208077,White-House-congratulates-Presidentelect-Duda|agency=Radio Poland|title=White House congratulates President-elect Duda|date=26 May 2015|access-date=28 May 2015|archive-date=28 May 2015|archive-url=https://web.archive.org/web/20150528184000/http://thenews.pl/1/10/Artykul/208077,White-House-congratulates-Presidentelect-Duda|url-status=dead}}</ref> [[Germany|German]] Chancellor [[Angela Merkel]],<ref>{{cite news|language=pl|url=http://www.polskieradio.pl/5/3/Artykul/1450023,Kanclerz-Angela-Merkel-prezydent-Niemiec-i-szef-PE-gratuluja-Andrzejowi-Dudzie|title=Kanclerz Angela Merkel, prezydent Niemiec i szef PE gratulują Andrzejowi Dudzie|date=25 May 2015|access-date=28 May 2015|website=PolskieRadio.pl|archive-date=28 May 2015|archive-url=https://web.archive.org/web/20150528211921/http://www.polskieradio.pl/5/3/Artykul/1450023,Kanclerz-Angela-Merkel-prezydent-Niemiec-i-szef-PE-gratuluja-Andrzejowi-Dudzie|url-status=dead}}</ref> and [[Russia]]n President [[Vladimir Putin]],<ref>{{cite news|url=http://www.ndtv.com/world-news/vladimir-putin-wants-constructive-poland-ties-after-duda-presidential-win-765976|publisher=NDTV|title=Vladimir Putin Wants 'Constructive' Poland Ties After Duda Presidential Win|date=25 May 2015|access-date=28 May 2015}}</ref> congratulated Duda on his victory.
+
+==See also==
+* [[2015 Polish parliamentary election]]
+* [[History of Poland (1989–present)]]
+* [[Polish Constitutional Court crisis, 2015]]
+
+==Notes== 
+{{notelist|refs=
+{{efn|name=fn1|The President of Poland traditionally resigns from party membership after taking office. Although Komorowski was officially an independent, his campaign was endorsed and funded by the [[Civic Platform]].}}
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[http://pkw.gov.pl/ Polish Election Committee] {{in lang|pl}}
+
+{{Polish presidential elections}}
+{{Polish Elections}}
+{{Candidates in the Polish presidential election, 2015}}
+
+[[Category:2015 elections in Europe|Poland]]
+[[Category:2015 Polish presidential election| ]]
+[[Category:2015 elections in Poland|President]]
+[[Category:May 2015 in Poland|Parliamentary]]
+[[Category:Presidential elections in Poland]]

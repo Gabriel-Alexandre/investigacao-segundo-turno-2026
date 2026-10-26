@@ -1,0 +1,2703 @@
+{{Short description|none}}
+{{use dmy dates|date=April 2021}}
+{{Infobox election
+| country = Ecuador
+| previous_election = 2017 Ecuadorian general election
+| previous_year = 2017
+| election_date = 7 February 2021<br />11 April 2021 (runoff)
+| next_election = 2023 Ecuadorian general election
+| next_year = 2023
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+
+| title = President
+| before_election = [[Lenín Moreno]] 
+| before_party = Independent
+| after_election = [[Guillermo Lasso]]
+| after_party = Creating Opportunities
+
+|image1 = Guillermo Lasso 9 DICIEMBRE 2021 (3x4 cropped).jpg
+|candidate1 = '''[[Guillermo Lasso]]'''
+|party1 = Creating Opportunities
+|alliance1 = [[Creating Opportunities|CREO]]–[[Christian Social Party (Ecuador)|PSC]]
+| 1blank            = Running mate
+| 2blank            = Votes
+| 3blank            = Percentage
+|1data1 = '''[[Alfredo Borrero]]'''
+|2data1 = '''4,656,426'''
+|3data1 = '''52.36%'''
+
+|image2 = Andrés Arauz (cropped).jpg
+|candidate2 = [[Andrés Arauz]]
+|party2 = Citizen Revolution Movement
+|alliance2 = Union for Hope
+|color2 = {{Party color|Union for Hope}}
+|1data2 = [[Carlos Rabascall]]
+|2data2 = 4,236,515
+|3data2 = 47.64%
+
+| map = {{Switcher
+| [[File:2021 Ecuadorian presidential election, first round.svg|250px]]
+| First round results
+| [[File:2021 Ecuadorian presidential election, second round.svg|250px]]
+| Second round results
+| default=2
+}}
+
+| module = {{Infobox legislative election
+| embed=yes
+| election_name = Parliamentary election
+| seats_for_election = All 137 seats in the [[National Assembly (Ecuador)|National Assembly]]
+| majority_seats = 69
+
+| leader1 = [[Pierina Correa]]
+| party1 = Union for Hope
+| last_election1 = new
+| seats1 = 49
+| percentage1 = 32.21
+
+| leader2 = [[Salvador Quishpe]]
+| party2 = Pachakutik
+| last_election2 = 4
+| seats2 = 27
+| percentage2 = 16.81
+
+| leader3 = [[Wilma Andrade]]
+| party3 = Democratic Left (Ecuador)
+| last_election3 = 4
+| seats3 = 18
+| percentage3 = 11.98
+
+| leader4 = [[Henry Kronfle]]
+| party4 = Christian Social Party (Ecuador)
+| last_election4 = 16
+| seats4 = 18
+| percentage4 = 9.73
+
+| leader5 = {{ill|César Monge|es}}
+| party5 = Creating Opportunities
+| last_election5 = 34
+| seats5 = 12
+| percentage5 = 9.65
+
+| leader6 = {{nowrap|[[Fernando Villavicencio]]}}
+| party6 = [[Coalition Movement|MC]]–[[Socialist Party – Broad Front of Ecuador|PSE]]
+| last_election6 = 0
+| seats6 = 2
+| percentage6 = 3.76
+
+| leader7 = Rocío Juca
+| party7 = United Ecuadorian
+| last_election7 = new
+| seats7 = 2
+| percentage7 = 2.08
+
+| leader8 = Javier Orti
+| party8 = Advance (Ecuador)
+| last_election8 = 0
+| seats8 = 2
+| percentage8 = 1.93
+
+| leader9 = [[Ximena Bohórquez]]
+| party9 = Patriotic Society Party
+| last_election9 = 2
+| seats9 = 1
+| percentage9 = 1.81
+
+| leader10 = Xavier Zavala
+| party10 = {{ill|Democracy Yes|es|Democracia Sí|lt=DSí}}
+| last_election10 = new
+| seats10 =1
+| percentage10 = 1.05
+
+| leader11 = César Rodríguez
+| party11 = {{ill|Ecuadorian Union|es|Unión Ecuatoriana|lt=UE}}
+| last_election11 = 0
+| seats11 =1
+| percentage11 = 0.74
+
+| leader12 = [[Andrés Briones]]
+| party12 = Movimiento Construye
+| last_election12 = new
+| seats12 =1
+| percentage12 = 0.72
+
+| leader13 = –
+| party13 = Local lists
+| party13_link = no
+| color13 = {{Party color|Other parties and independents}}
+| last_election13 = 3
+| seats13 =3
+| percentage13 = – <!-- provincial lists only -->
+
+| title=[[President of the National Assembly of Ecuador|National Assembly President]]
+| before_election=[[César Litardo]]
+| before_party=PAIS Alliance
+| after_election=[[Guadalupe Llori]]
+| after_party=Pachakutik
+
+}}
+
+}}}}{{Politics of Ecuador}}
+
+General elections were held in [[Ecuador]] on 7 February 2021, established by the [[National Electoral Council (Ecuador)|National Electoral Council]] (CNE) as the date for the first round of the presidential election and a vote on mining in [[Cuenca, Ecuador|Cuenca]].<ref name="CNE" /><ref name="mining" /> Incumbent president [[Lenín Moreno]], who had held the office since his victory over [[Guillermo Lasso]] in [[2017 Ecuadorian general election|2017]], did not seek reelection.<ref name="economist2" /> Although delaying the election due to the [[COVID-19 pandemic in Ecuador|COVID-19 pandemic]] was discussed,<ref name="fecha-elecciones" /> the CNE announced on 15 December 2020 that the electoral calendar would not shift and confirmed elections would take place in February 2021.<ref name="cne-aclara" />
+
+In first round results, [[Andrés Arauz]] had a significant but not large enough lead to avoid a runoff with Lasso, who had narrowly beaten third-place finisher [[Yaku Pérez Guartambel|Yaku Pérez]]. Final results were delayed due to a requested{{clarify|date=April 2021}} recount of votes in some provinces.<ref name="yakurevisar" /><ref name="dwperez" /> On 19 February, the CNE confirmed Lasso would be Arauz's rival in the second round. On 11 April,<ref name="2ndRnd" /> Lasso defeated Arauz,<ref name="ap">{{cite web|url=https://apnews.com/article/public-health-rafael-correa-health-south-america-coronavirus-pandemic-fb947b78c70ac225c0982a76d44063f3|title=Ecuador goes with conservative banker in presidential vote|publisher=[[Associated Press]]|date=11 April 2021}}</ref><ref>{{cite news |last1=Leon Cabrera |first1=Jose Maria |title=Conservative Ex-Banker Headed to Victory in Presidential Election in Ecuador |url=https://www.nytimes.com/2021/04/11/world/americas/ecuador-election-indigenous.html |access-date=14 April 2021 |work=The New York Times |date=11 April 2021}}</ref><ref>{{cite news |title=Guillermo Lasso: Conservative ex-banker elected Ecuador president |url=https://www.bbc.com/news/world-latin-america-56713570 |access-date=14 April 2021 |publisher=BBC World News |date=12 April 2021}}</ref> which some news outlets called an [[upset victory]].<ref>{{cite web|url=https://www.theguardian.com/world/2021/apr/12/ecuador-election-result-guillermo-lasso-andres-arauz|title=Ecuador election: former banker Lasso is surprise winner|author=Associated Press and Guardian staff|work=[[The Guardian]]|date=11 April 2021}}</ref><ref>{{cite web|url=https://news.yahoo.com/ecuador-ponders-return-socialism-presidential-050321123.html|title=Lasso wins Ecuador presidency in upset over socialist rival|last1=Valencia|first1=Alexandra|last2=Ellsworth|first2=Brian|publisher=[[Yahoo]]|date=11 April 2021}}</ref> Lasso was inaugurated on 24 May.<ref name="v9fDI" />
+
+==Background==
+The [[2017 Ecuadorian general election|previous Ecuadorian general election]], on 19 February 2017 (alongside a [[2017 Ecuadorian tax haven referendum|referendum on tax havens]])<ref name="erendum" /> saw voters elect a new [[President of Ecuador|president]] and [[National Assembly (Ecuador)|National Assembly]]. Incumbent President [[Rafael Correa]], of the [[PAIS Alliance]], had already served two terms and was ineligible for reelection. In the first round of presidential elections, PAIS Alliance candidate [[Lenín Moreno]] received 39% of the vote. Although he was more than 10% ahead of his nearest rival, [[Guillermo Lasso]] of the [[Creating Opportunities]] party, he was short of the 40% threshold required to avoid a run-off, and a second round was held on 2 April.<ref name="BBC" /> In the second round Moreno was elected president with 51.16% of the vote;<ref name="cne" /><ref name="elcomercio" /> the National Electoral Council announced on 13 April that it would recount all ballots contested by both parties (accounting to about 10% of the total vote),<ref name="guardian" /> after which Moreno  was awarded an additional 1,594 votes and retained his majority.<ref name="usnews" />
+
+Incumbent president [[Lenín Moreno]]'s approval rating dropped drastically from 77% after his election in 2017 to only 7% of approval by end of 2019.<ref name="qISPO" />
+
+[[Francis Fukuyama]] described 2020 as having brought "mostly bad news regarding the state of global democracy" in a 15 December 2020 ''[[The Wall Street Journal]]'' article, specifically citing Ecuador as an example of "severe crises of authority" due to the [[2020 recession|economic recession]] triggered by the [[COVID-19 pandemic in Ecuador|COVID-19 pandemic]].<ref name="papafrank" />
+
+==Electoral system==
+The president is elected using a modified [[two-round system]], with a candidate required to get over 50% of the vote, or get over 40% of the vote and be 10% ahead of their nearest rival to be elected in the first round.<ref name="guide" /> The president is limited to two consecutive four-year terms.<ref name="PDBA" />
+
+Members of the [[National Assembly (Ecuador)|National Assembly]] are elected by three methods. Fifteen are elected by [[closed list]] [[proportional representation]] in a nationwide constituency. Six are elected by overseas voters (two each from Canada/United States, Latin America and Asia/Europe/Oceania). The remaining 116 members are elected from multi-member constituencies by closed list proportional representation, with all seats allocated using the [[Webster/Sainte-Laguë method|Webster method]].<ref name="57lkF" /><ref name="IJBs7" /> Members of the National Assembly are limited to two four-year terms, either consecutive or not. There are gender quotas for the party lists, meaning there is alternation between men and women. There are no quotas for minority representation.<ref name="PDBA" />
+
+Alongside the presidential and legislative elections, a referendum was held in the city of [[Cuenca, Ecuador|Cuenca]], asking voters whether to prohibit mining near five different rivers to protect the ecosystem. The voters were asked to answer yes or no to prohibit mining in each area.<ref name="mining" /><ref name="3SfcQ" />
+
+==Presidential candidates==
+=== Andrés Arauz ===
+[[File:Andrés Arauz Galarza 2021 (cropped).png|thumb|right|200px|[[Andrés Arauz]]]]
+As ex-president [[Rafael Correa]]'s [[Citizen Revolution Movement]] party (a breakaway from the ruling [[PAIS Alliance]]) was unable to register as a party, on 18 August 2020 the political coalition [[Union for Hope|Unión por la Esperanza]] (UNES), comprising the parties {{ill|Centro Democrático|es}} (a [[Guayas Province|Guayas]]-based centrist party led by [[Jimmy Jairala]]) and [[Fuerza Compromiso Social]] (a centre-left party that before 2018 had been opposed to Correa), announced that its presidential candidate would be former Correa minister [[Andrés Arauz]] with Correa as his running mate. Arauz is an economist, previously a banker (until 2015) and Minister of Knowledge and Human Talent from 2015 to 2017, and a "largely unknown" political figure.<ref name="riotimes" /> However, the vice presidential position on the ticket for Correa, president of Ecuador from 2007 to 2017,<ref name="rafe" /> was rejected by Ecuador's National Electoral Council (CNE), as he had been convicted for corruption.<ref name="nytimes" /> [[Carlos Rabascall]] was then selected as Arauz's running mate.<ref name="ySZqg" />
+
+Arauz has promised to scrap the current [[International Monetary Fund|International Monetary Fund (IMF)]] austerity plan approved by the incumbent president, stating it will undermine Ecuadorian families and growth and that it has been overly favorable to creditors. He wants to continue making debts payments to bondholders but says that public spending would take priority. He wants to respect existing mining concessions, but would seek greater community participation and conduct reviews of compliance with environmental and investment plans.<ref name="d0Vd9" /> Arauz has also promised to give one million families a $1,000 payment in the first week of office.<ref name="reuters" /> He has also proposed transforming the current [[extractivist]] model toward a model based on the knowledge economy and biodiversity. When asked about decriminalizing [[abortion]], he has stated that he personally believes it should be allowed in certain circumstances, but that a debate about it should be promoted by society.<ref name="1i1gi" /> Electoral authorities announced on 5 February that Arauz, who then led in the polls, would not be allowed to vote because his main residency is registered in Mexico where he completed his PhD.<ref name="jcnFp" />
+
+=== Guillermo Lasso===
+[[File:Guillermo Lasso by Samurai Juan (cropped).jpg|200px|thumb|right|[[Guillermo Lasso]]]]
+Alianza CREO-PSC, a coalition of the centre-right/conservative [[Creating Opportunities|Movimiento CREO]] and [[Social Christian Party (Ecuador)|Partido Social Cristiano]] parties, advanced businessman and candidate in the previous two elections [[Guillermo Lasso]] as its candidate, with [[Alfredo Borrero Vega]] as vice-presidential candidate.<ref name="lasso1" /><ref name="lasso2" /> Lasso proposes a government plan focused on job creation, promising that through the opening of the market and relaxation of hiring, it will be possible to create 2 million new jobs in the country, promote foreign investment, economic liberalization, greater partnership between the public and private sectors, economic reactivation through the reduction of taxes, implementation of free zones, concession the management of public companies to the private sector, fight against corruption and guarantee a better public health service coordinated by its vice-presidential candidate Alfredo Borrero through the concession of these services to the private sector.<ref>{{cite news |last1=Guayaquil |first1=Redaccion |title=Guillermo Lasso y Jaime Nebot estuvieron juntos durante un evento del bicenterario de Guayaquil |url=https://www.elcomercio.com/actualidad/lasso-nebot-bicentenario-guayaquil.html |access-date=12 April 2021 |publisher=El Comercio |date=9 October 2020 |language=Spanish}}</ref><ref>{{cite news |last1=El Universo |first1=Redaccion |title=La pandemia no frena la precampaña de aspirantes a la Presidencia, que se activan en redes sociales y en recorridos |url=https://www.eluniverso.com/noticias/2020/11/16/nota/8051170/ecuador-candidatos-precampana-electoral-redes-sociales-recorridos/ |access-date=12 April 2021 |publisher=El Universo |date=9 November 2020 |language=Spanish}}</ref> He also adopted proposals from Social Christian leader [[Jaime Nebot]] like the implementation of 40,000 free internet points throughout the country, public telemedicine application and proposed 400,000 poor families in the country receive a free computer, in addition to focusing on public policies on promotion and training in technology and use of networks for study.<ref>{{cite news |last1=El Universo |first1=Redaccion |title=Jaime Nebot presentó propuestas de candidatos para elecciones 2021 |url=https://www.eluniverso.com/noticias/2020/11/05/nota/8038720/propuesta-jaime-nebot-candidatos-asambleistas-elecciones-2021/ |access-date=12 April 2021 |publisher=El Universo |date=5 November 2020 |language=Spanish}}</ref> He wants to reform and reduce taxation and provide credit for the agriculture sector.<ref name="cOmVz" /> He has also said that he will not disavow the agreement with the IMF and respect the debt restructuring agreed to by the previous presidency, but will not raise the VAT tax.<ref name="6bCPq" /> Days before the first round, Lasso proposed increasing the unified basic salary to $500.<ref name=ap/>
+
+Lasso is a staunch opponent of abortion in all cases and believes in support for human life from conception to death.<ref name="abortion" />
+
+=== Yaku Pérez Guartambel ===
+[[File:Yaku Perez Guartambel foto (cropped).jpg|thumb|right|200px|[[Yaku Pérez Guartambel]]]]
+Indigenous activist and former prefect of [[Azuay Province]], [[Yaku Pérez Guartambel]] is the candidate for the [[Pachakutik Plurinational Unity Movement – New Country]] (MUPP).<ref name="yaku" /> Molecular biologist Virna Cedeño Escobar decided to accept the offer to be the party's candidate for vice president after first being reluctant.<ref name="NckQJ" /> Pérez states that he is from "the ecological left that defends the rights of people and nature and understands indigenous communities", and positions himself as giving voters an alternative to the "authoritarian and corrupt left" of former president Correa.<ref name="New Face" /> Pérez has proposed a ban on all mining activity and to limit oil extraction, and has been critical of China's policies around [[extractivism]] and human rights.<ref name="reuters" /><ref name="New Face" /> He has promised to review the agreements with the IMF, and to not pay any "illegitimate debt", refusing to meet with IMF officials when they visited the country in Sep.<ref name="Americas Quarterly 2021 meet" /> In an interview, he has expressed openness to a trade deal with the United States under the right conditions.<ref name="El Universo 2021 Yaku" /><ref name="New Face" /> He has expressed support for allowing abortion in cases of rape or when there are serious risk to the health of the mother or fetus, suggesting a referendum on the issue.<ref name="abortion" /> His economic plan included [[universal basic income]].<ref name="Pitts 2021" /><ref name="Americas Quarterly 2021 meet" />
+
+=== Others ===
+Other presidential candidates included the following:
+*On 22 August, [[Anti-abortion movements|anti-abortion]] activist Martha Cecilia Villafuerte announced her candidacy as vice-president alongside presidential candidate Gerson Almeida, on the Ecuatoriano Unido ticket.<ref name="universo" />
+*[[Pedro José Freile]] was the candidate from the AMIGO Movement party, with vice president Byron Solís Figueroa, who accepted his nomination on 24 August.<ref name="byron" />
+*Isidro Romero announced his run as the [[Advance (Ecuador)|Avanza]] party candidate in Sep.<ref name="romero1" /><ref name="romero2" />
+*On 8 Oct, María Sara Jijón announced her candidacy as vice president, on the Izquierda Democrática ticket, with the independent presidential candidate, businessman and engineer Xavier Hervas Mora.<ref name="jijon" />
+*On 16 Oct, Carlos Sagnay de la Bastida became the candidate for Partido Fuerza Ec.<ref name="bastida" />
+*[[Lucio Gutiérrez Borbúa]], the former president of Ecuador, was the candidate from the [[Partido Sociedad Patriótica 21 de Enero|Sociedad Patriótica]] party.<ref name="gutierrez" />
+*Alianza Honestidad, the coalition of the Partido Socialista Ecuatoriano and Concertación parties, nominated César Montúfar Mancheno, with vice presidential nominee Julio Villacreses Guillém.<ref name="mancheno" />
+*The Unión Ecuatoriana candidate was Giovanny Andrade Salvador, whose running mate was Katherine Mata.<ref name="mata" />
+*Democracia Sí announced Gustavo Larrea Cabrera as its presidential candidate, with Alexandra Peralta Marín as vice-presidential candidate.<ref name="si" />
+*[[SUMA Party|SUMA's]] candidate was Guillermo Celi Santos, with Verónica Sevilla Ledergerber as his running mate.<ref name="SUMA" />
+*Movimiento Construye's candidate was Juan Fernando Velasco Torres, with Ana María Pesántes Salazar as his running mate.<ref name="construye" />
+*Juntos Podemos nominated Paúl Carrasco Carpio, with vice presidential nominee Frank Vargas Anda.<ref name="juntos" />
+*The party of incumbent president Moreno, [[PAIS Alliance|Alianza PAIS]], nominated [[Ximena Peña Pacheco]], with Patricio Barriga Jaramillo as her running mate.<ref name="ximena" />
+
+== Endorsements ==
+
+After the confirmation from the electoral commission that the second round would be between Arauz and Lasso, both the Pachakutik movement and [[Confederation of Indigenous Nationalities of Ecuador|CONAIE]] announced they would promote a null vote in the second round, stating that they did not feel represented by either Lasso or Arauz.<ref>{{cite news |title=Conaie promoverá entre sus bases el voto nulo para la segunda vuelta electoral |url=https://www.eluniverso.com/noticias/politica/conaie-promovera-entre-sus-bases-el-voto-nulo-para-la-segunda-vuelta-electoral-nota/ |access-date=4 April 2021 |work=El Universo |date=15 March 2021 |language=es}}</ref><ref>{{cite news |title=Pachakutik pide a sus simpatizantes votar nulo en los comicios de la segunda vuelta presidencial del 11 de abril |url=https://www.eluniverso.com/noticias/politica/pachakutik-pide-a-sus-simpatizantes-votar-nulo-en-los-comicios-de-la-segunda-vuelta-presidencial-del-11-de-abril-nota/ |access-date=4 April 2021 |work=El Universo |date=23 March 2021 |language=es}}</ref> Meanwhile, Pérez' running mate [[Virna Cedeño]] stated that she would vote for Lasso.<ref name="runoff">{{cite news |title=Diez expresidenciables ya decidieron su voto entre Andrés Arauz, Guillermo Lasso y voto nulo |url=https://www.eluniverso.com/noticias/politica/diez-expresidenciables-ya-decidieron-su-voto-entre-andres-arauz-guillermo-lasso-y-voto-nulo-nota/ |access-date=4 April 2021 |work=El Universo |date=1 April 2021 |language=es}}</ref>
+
+President of CONAIE [[Jaime Vargas Vargas|Jaime Varga]]s later came out in support of Arauz in the second round during an event with Arauz.<ref>{{cite news |title=Andrés Arauz suma el respaldo de Jaime Vargas y de nacionalidades indígenas de la Amazonía |url=https://www.elcomercio.com/actualidad/vargas-apoyo-arauz-indigenas-amazonia.html |access-date=4 April 2021 |work=El Comercio |date=3 April 2021}}</ref>
+
+Fourth-place finisher Hervas announced he would support a vote for Lasso in the second round, stating that he did not want to support "the authoritarian model that ruled us" and that Lasso had incorporated some of his issues into his policy proposals. The party backing his run, [[Democratic Left (Ecuador)|ID]], ruled out supporting either candidate.<ref>{{cite news |title=Xavier Hervas anuncia apoyo a Guillermo Lasso en elecciones presidenciales tras descartar voto nulo y 'modelo autoritario' |url=https://www.eluniverso.com/noticias/politica/xavier-hervas-muestra-apoyo-a-guillermo-lasso-en-elecciones-presidenciales-tras-descartar-voto-nulo-y-modelo-autoritario-nota/ |access-date=4 April 2021 |work=El Universo |date=23 March 2021 |language=es}}</ref>
+
+Arauz also received support from first-round candidates Ximena Peña of the PAIS Alliance and Isidro Romero, but not from [[Advance (Ecuador)|Avanza]] movement itself who were backing Romero's campaign which did not endorse anyone.<ref>{{cite news |last1=Garcia |first1=Andres |title=Alianza Pais se alinea con Andres Arauz y pide considerar su plan de gobierno para la segunda vuelta |url=https://www.elcomercio.com/actualidad/alianza-pais-alinea-andres-arauz.html |access-date=13 April 2021 |publisher=El Comercio (Ecuador) |date=26 March 2021 |language=es}}</ref><ref>{{cite news |last1=Alonso |first1=Ana |title="Quiero lo mejor para el país: en Ecuador apoyo a Arauz y en España al PP o a Vox" |url=https://www.elindependiente.com/internacional/2021/04/10/quiero-lo-mejor-para-el-pais-en-ecuador-apoyo-a-arauz-y-en-espana-al-pp-o-a-vox/ |access-date=13 April 2021 |publisher=El Independiente |date=10 April 2021 |language=Spanish}}</ref>
+
+Lasso received the backing from first-round candidates [[Pedro José Freile|Pedro Freile]] of the Amigo movement, Lucio Gutiérrez of Sociedad Patriótica, César Montúfar of Alianza Honestidad, Gustavo Larrea of Democracia Sí, Guillermo Celi of [[SUMA Party|SUMA]] and Paúl Carrasco of Juntos Podemos.<ref name="runoff" />
+
+==Opinion polls==
+===First round===
+{{PortGraph|name= 2021 Ecuadorian general election opinion polls
+|width=800
+|height=400
+|xAxisTitle=Date
+|yAxisTitle=Percentage
+|legend=Nominee (Party)
+|type=line
+|interpolate=monotone
+|xType=date
+|xAxisMax=1614016000000
+|yAxisMin=0
+|showSymbols=1.5
+|xGrid=1
+|yGrid=1
+|x=2020/9/8,2020/9/14,2020/9/18,2020/9/27,2020/9/28,2020/10/1,2020/10/8,2020/10/17,2020/10/27,2020/11/15,2020/11/17,2020/11/26,2020/12/13,2020/12/20,2020/12/23,2020/12/27,2020/12/29,2020/12/31,2021/1/9,2021/1/10,2021/1/18,2021/1/20,2021/1/21,2021/1/22,2021/1/24,2021/1/25,2021/1/26,2021/1/28
+|y1Title=A. Arauz (UNES)
+|y1=22.0,17.0,23.6,22.3,22.1,21.8,20.5,20.5,22.1,22.8,21.4,21.1,21.2,22.0,22.0,22.0,22.2,22.2,22.8,23.0,24.0,24.3,24.7,25.1,25.8,25.9,25.8,25.7,25.9,26.1
+|y2Title=G. Lasso (CREO-PSC)
+|y2=23.1,19.4,23.2,22.2,21.7,21.6,20.9,21.4,22.2,22.3,21.9,22.0,21.8,21.3,21.0,20.9,20.6,20.6,21.1,21.1,21.9,21.9,21.5,21.2,21.5,21.5,21.5,21.4,21.5,21.4
+|y3Title=Y. Pérez (MUPP)
+|y3=20.5,14.1,11.1,11.3,10.5,11.3,10.6,10.8,10.9,10.7,10.6,11.0,11.1,11.7,11.7,11.6,11.6,11.9,11.8,11.8,11.8,12.0,12.2,12.4,12.4,12.2,12.3,12.3,12.3,12.4,12.3
+|y4Title=C. Montúfar (HONESTIDAD)
+|y4=9.9,7.5,5.9,5.0,5.2,5.0,4.2,3.9,3.9,3.8,3.2,3.2,3.2,3.2,3.1,3.1,3.1,3.1,3.0,2.9,2.7,2.7,2.6,2.5,2.4,2.4,,2.5,,2.4
+|y5Title=I. Romero (AVANZA)
+|y5=6.6,3.6,2.7,2.5,2.9,3.0,2.4,2.2,2.3,2.3,2.1,2.4,2.4,2.3,2.3,2.4,2.4,2.5,2.4,2.4,2.3,2.4,2.4,2.6,2.6,2.6,,2.6,2.6,2.6
+|y6Title=L. Gutiérrez (PSP)
+|y6=,0.7,0.5,,1.0,1.2,1.4,1.4,1.6,1.7,1.7,1.7,1.7,1.6,1.7,,1.7,1.7,1.7,1.7,1.7,1.7,1.9,2.0,2.0,2.0,,2.1,2.0,2.0
+|y7Title=X. Hervas (ID)
+|y7=,0.1,0.3,0.3,0.6,,0.6,0.5,,,0.4,,,,0.6,,,,0.9,0.9,0.9,1.0,1.5,1.5,1.8,1.8,,2.1,2.3,2.4
+|y8Title=X. Peña (PAIS)
+|y8=,0.8,0.5,,0.9,,1.6,1.5,1.4,1.3,1.2,,,1.2,1.4,,1.4,,1.4,1.4,1.4,1.4,1.4,1.4,1.4,1.4,,1.4,,1.4
+|y9Title=G. Larrea (MDS)
+|y9=,0.0,1.4,1.3,1.9,,2.0,1.8,1.9,1.9,1.7,,,1.6,1.6,,,1.6,1.6,1.5,1.4,1.4,1.4,1.4,1.3,1.3,,1.3,,1.2
+|y10Title=J.F. Velasco (MC25)
+|y10=,0.5,0.4,0.6,,0.8,0.9,1.0,1.0,1.0,0.9,,,,1.0,1.1,,1.1,1.1,1.0,,1.0,,1.0,1.0,1.0,,1.1
+|colors=#FF4500,#1B5DA6,#FE2EC8,#00CED1,#0000FF,#006400,#FFA500,#00FF00,#B713C5,#0041B3
+}}
+
+{{mw-datatable}}
+{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
+|- 
+! rowspan="3"| Polling firm
+! rowspan="3"| Fieldwork date
+! rowspan="3"| Sample<br />size
+! class="unsortable" style="width:40px;"| [[Andrés Arauz]]
+! class="unsortable" style="width:40px;" | [[Guillermo Lasso]]
+! class="unsortable" style="width:40px;" | [[Yaku Pérez Guartambel|Yaku Pérez]]
+! class="unsortable" style="width:40px;" | César Montúfar
+! class="unsortable" style="width:40px;" | Isidro Romero
+! class="unsortable" style="width:40px;" | [[Lucio Gutiérrez]]
+! class="unsortable" style="width:40px;" | [[Xavier Hervas]]
+! class="unsortable" style="width:40px;" | [[Ximena Peña]]
+! class="unsortable" style="width:40px;" | [[Gustavo Larrea]]
+! class="unsortable" style="width:40px;" | [[Juan Fernando Velasco]]
+! class="unsortable" style="width:40px;" | [[Guillermo Celi]]
+! class="unsortable" style="width:40px;" | [[Pedro José Freile]]
+! class="unsortable" style="width:40px;" | Gerson Almeida
+! class="unsortable" style="width:40px;" | Carlos Sagnay
+! class="unsortable" style="width:40px;" | Paul Carrasco
+! class="unsortable" style="width:40px;" | Giovanny Andrade
+! rowspan="3" class="unsortable" style="width:40px;" | None/<br />Don't Know
+! rowspan="3" class="unsortable" style="width:40px;" | Others
+! rowspan="3" class="unsortable" style="width:40px;" | Lead
+|-
+! class="unsortable" style="width:40px;" | [[Union for Hope|UNES]]
+! class="unsortable" style="width:40px;" | [[Creating Opportunities|CREO]]-[[Social Christian Party (Ecuador)|PSC]]
+! class="unsortable" style="width:40px;" | [[Pachakutik Plurinational Unity Movement – New Country|MUPP]]
+! class="unsortable" style="width:40px;" | [[National Democratic Coalition (Ecuador)|HONESTIDAD]]
+! class="unsortable" style="width:40px;" | [[Advance (Ecuador)|Avanza]]
+! class="unsortable" style="width:40px;" | [[Partido Sociedad Patriótica|PSP]]
+! class="unsortable" style="width:40px;" | [[Democratic Left (Ecuador)|ID]]
+! class="unsortable" style="width:40px;" | [[PAIS Alliance|PAIS]]
+! class="unsortable" style="width:40px;" | MDS
+! class="unsortable" style="width:40px;" | MC25
+! class="unsortable" style="width:40px;" | [[SUMA Party|SUMA]]
+! class="unsortable" style="width:40px;" | AMIGO
+! class="unsortable" style="width:40px;" | MEU
+! class="unsortable" style="width:40px;" | [[Fuerza Ecuador|FE]]{{efn|until 1 February 2020}}
+! class="unsortable" style="width:40px;" | [[Juntos Podemos|MNJP]]
+! class="unsortable" style="width:40px;" | UE{{efn|until Dec 2020}}
+|-
+! style="background:{{party color|Union for Hope}};" |
+! style="background:{{party color|CREO Movement}};" |
+! style="background:{{party color|Pachakutik Plurinational Unity Movement}};" |
+! style="background:#00CED1;" |
+! style="background:{{party color|Advance}};" |
+! style="background:{{party color|Patriotic Society Party}};" |
+! style="background:{{party color|Democratic Left (Ecuador)}};" |
+! style="background:{{party color|PAIS Alliance}};" |
+! style="background:{{party color|Democracy Yes}};" |
+! style="background:#0041B3;" |
+! style="background:{{party color|SUMA Party}};" | 
+! style="background:#000000;" |  
+! style="background:{{party color|United Ecuadorian Movement}};" |  
+! style="background:{{party color|Ecuador's Force}};" |
+! style="background:#4682B4;" |
+! style="background:{{party color|Ecuadorian Union Movement}};" |
+|-
+|[https://twitter.com/UnCafeConJJ/status/1354967052361097226/photo/1 Market] {{better source needed|date=January 2021}}
+|28 Jan 2021
+|1,520
+|style="background:#FFDACC;"|'''31.53'''
+|21.34
+|11.91
+|0.58
+|2.20
+|1.27
+|3.92
+|1.54
+|0.11
+|0.89
+|1.10
+|0.86
+|0.53
+|0.07
+|0.53
+|0.15
+|22.08
+|–
+| style="background:{{party color|Union for Hope}};color:white;" | 10.19
+|-
+|[http://www.pichinchacomunicaciones.com.ec/andres-arauz-encabeza-preferencia-de-voto-segun-encuesta-del-iesop/ Informe Confidencial]
+|26 Jan 2021
+|1,600
+|style="background:#FFDACC;"| '''22.0'''
+|17.0
+|11.0
+|–
+|1.0
+|1.0
+|4.0
+|–
+|–
+|1.0
+|–
+|–
+|–
+|–
+|–
+|–
+|37.0
+|6
+| style="background:{{party color|Union for Hope}};color:white;" | 5.0
+|-
+|[https://www.eureknow.com/post/intenci%C3%B3n-de-voto-para-presidente-de-la-rep%C3%BAblica-1 Eureknow]
+|26 Jan 2021
+|1,400
+|style="background:#FFDACC;"| '''22.4'''
+|18.6
+|10.2
+|4.2
+|4.6
+|3.0
+|8.1
+|0.8
+|1.1
+|2.4
+|3.5
+|4.5
+|2.2
+|1.1
+|–
+|0.9
+|12.3
+|0.1
+| style="background:{{party color|Union for Hope}};color:white;" | 3.8
+|-
+|[https://web.archive.org/web/20210129042808/https://www.cedatos.com.ec/blog/2021/01/28/habra-segunda-vuelta-segun-cedatos/ CEDATOS]
+|25 Jan 2021
+|10,500
+|style="background:#FFDACC;"| '''21.9'''
+|21.2
+|14.5
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|26.1
+|16.3
+| style="background:{{party color|Union for Hope}};color:white;" | 0.7
+|-
+|[https://www.lahistoria.ec/noticias-destacadas/la-gran-encuesta/ La Historia]
+|24 Jan 2021
+|2,990
+|style="background:#FFDACC;"| '''30.0'''
+|21.9
+|13.4
+|1.7
+|3.4
+|2.1
+|1.6
+|1.3
+|0.5
+|1.0
+|–
+|0.9
+|1.0
+|0.1
+|0.4
+|0.3
+|18.5
+|1.9
+| style="background:{{party color|Union for Hope}};color:white;" | 8.1
+|-
+| rowspan="2" |[https://www.atlasintel.org/poll/ecuador-national-2021-01-22 Atlas Intel]
+| rowspan="2" |22 Jan 2021
+| rowspan="2" |3.202
+|style="background:#FFDACC;"|'''36.0'''
+|25.5
+|9.4
+|0.9
+|2.3
+|2.2
+|4.1
+|1.2
+|0.3
+|1.1
+|–
+|2.0
+|0.8
+|0.4
+|0.4
+|0.2
+|4.8
+|8.4
+| style="background:{{party color|Union for Hope}};color:white;" | 10.5
+|-
+|style="background:#FFDACC;"|'''36.5'''
+|26.7
+|10.8
+|1.5
+|1.5
+|2.4
+|4.5
+|1.5
+|0.2
+|1.1
+|1.5
+|2.0
+|1.0
+|0.3
+|0.4
+|0.1
+|5.2
+|2.8
+| style="background:{{party color|Union for Hope}};color:white;" | 9.8
+|-
+|[https://twitter.com/omarmaluk/status/1352629922993463298 Omar Maluk]
+| data-sort-value="2021-01-21" | 21 Jan 2021
+|17.636 
+|style="background:#FFDACC;"|'''25.1'''
+|13.9
+|9.2
+|1.3
+|3.9
+|2.7
+|0.9
+|1.1
+|1.2
+|0.7
+|1.4
+|0.4
+|0.9
+|0.5
+|0.4
+|0.4
+|28.9
+|7.1
+| style="background:{{party color|Union for Hope}};color:white;" | 11.2
+|-
+|[http://www.pichinchacomunicaciones.com.ec/wp-content/uploads/2021/01/Comunicaliza-Encuesta-Nacional-flash-debate-20-En-2021.pdf Comunicaliza]
+| data-sort-value="2021-01-20" | 20 Jan 2021
+|2,057
+|style="background:#FFDACC;"|'''37.4'''
+|18.5
+|19.2
+|1.4
+|2.4
+|3.8
+|4.5
+|1.3
+|0.3
+|1.1
+|2.7
+|1.3
+|1.3
+|0.5
+|0.0
+|0.2
+|–
+|4.1
+| style="background:{{party color|Union for Hope}};color:white;" | 18.2
+|-
+|[https://web.archive.org/web/20210124185900/https://clima.social/wp-content/uploads/2021/01/Encuesta-NACIONAL_%C3%93mnibus-IV_Ene21_Clima-Social_PUB.pdf Clima Social]
+|18 Jan 2021
+|11,537
+|style="background:#FFDACC;"|'''30.1'''
+|21.5
+|17.2
+|0.9
+|3.0
+|3.3
+|2.3
+|1.8
+|1.2
+|1.1
+|1.3
+|0.5
+|0.7
+|0.8
+|0.3
+|0.3
+|5.2
+|8.5
+| style="background:{{party color|Union for Hope}};color:white;" | 8.6
+|-
+|[http://www.pichinchacomunicaciones.com.ec/wp-content/uploads/2021/01/ELECCIONES-2021_Preferencia_electoral.pdf Market]
+| data-sort-value="2021-01-10" | 10 Jan 2021
+|1,520
+|style="background:#FFDACC;"|'''37.61'''
+|30.88
+|13.85
+|1.08
+|0.62
+|1.10
+|0.89
+|–
+|–
+|–
+|0.33
+|–
+|–
+|–
+|–
+|–
+|12.06
+|1.58
+| style="background:{{party color|Union for Hope}};color:white;" | 6.73
+|-
+|[http://www.pichinchacomunicaciones.com.ec/wp-content/uploads/2021/01/ENCUESTA_ELECCIONES.pdf Pulso Ciudadano]
+| data-sort-value="2021-01-09" | 9 Jan 2021
+|1,500
+|style="background:#FFDACC;"|'''26.73'''
+|20.85
+|11.63
+|1.20
+|1.13
+|1.41
+|1.70
+|0.42
+|0.14
+|0.63
+|0.21
+|0.21
+|0.42
+|0.42
+|0.14
+|0.36
+|32.40
+|–
+| style="background:{{party color|Union for Hope}};color:white;" | 5.8
+|-
+|[https://www.atlasintel.org/poll/ecuador-national-2020-12-30 Atlas Intel]
+| data-sort-value="2021-12-31" | 31 Dec 2020
+|3,175
+|style="background:#FFDACC;"|'''34.4'''
+|26.7
+|8.2
+|1.0
+|0.8
+|0.9
+|3.1
+|1.6
+|0.4
+|0.1
+|0.3
+|0.0
+|0.2
+|0.3
+|0.0
+|0.0
+|10.5
+|11.5
+| style="background:{{party color|Union for Hope}};color:white;" | 7.7
+|-
+|[https://twitter.com/cwgranda1/status/1343891923489222658 ESTRATEGIA Consultores]{{better source needed|date=January 2021}}
+| data-sort-value="2021-12-29" | 29 Dec 2020
+|1,400
+|style="background:#FFDACC;"|'''22.3'''
+|20.2
+|17.4
+|2.7
+|4.3
+|2.1
+|–
+|–
+|2.5
+|1.2
+|–
+|–
+|–
+|–
+|–
+|–
+|18.4
+|8.9
+| style="background:{{party color|Union for Hope}};color:white;" | 2.1
+|-
+|[https://web.archive.org/web/20210123210046/http://www.perfilesdeopinion.com/images/pdf/elecciones2021.pdf Perfiles de Opinión]
+| data-sort-value="2020-12-27" | 27 Dec 2020
+|4,579
+|style="background:#FFDACC;"|'''25.75'''
+|15.22
+|11.84
+|–
+|–
+|1.47
+| –
+|1.72
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|44.00
+| style="background:{{party color|Union for Hope}};color:white;" | 10.53
+|-
+|[https://www.eureknow.com/post/intenci%C3%B3n-de-voto-para-presidente-de-la-rep%C3%BAblica-diciembre-2020 Eureknow]
+| data-sort-value="2020-10-23" | 23 Dec 2020
+|1,400
+|style="background:#FFDACC;"|'''20.8'''
+|20.0
+|9.1
+|4.1
+|4.4
+|–
+|–
+|–
+|–
+|3.2
+|–
+|–
+|–
+|–
+|–
+|–
+|8.2
+|30.2
+| style="background:{{party color|Union for Hope}};color:white;" | 0.8
+|-
+|[https://web.archive.org/web/20201221015724/https://clima.social/wp-content/uploads/2020/12/Encuesta-%C3%93mnibus-III-P%C3%9ABLICA_Dic20_Clima-Social.pdf Clima Social]
+|20 Dec 2020
+|3,500
+|style="background:#FFDACC;"|'''23.3'''
+|13.9
+|12.8
+|1.3
+|2.4
+|2.6
+|1.9
+|3.0
+|1.2
+|1.2
+|0.7
+|0.6
+|1.0
+|1.3
+|0.3
+|0.1
+|13.1
+|19.3
+| style="background:{{party color|Union for Hope}};color:white;" | 9.4
+|-
+|[https://www.celag.org/wp-content/uploads/2020/07/encuesta-celag-ecuador-final-web.pdf CELAG]
+|13 Dec 2020
+|3,000
+|style="background:#FFDACC;"|'''36.5'''
+|13.6
+|21.2
+|–
+|1.4
+|1.0
+|–
+|1.2
+|1.0
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|24.1
+| style="background:{{party color|Union for Hope}};color:white;" | 15.3
+|-
+|[https://kchcomunicacion.com/santiago-nieto-un-22-esta-votando-por-arauz-el-17-por-lasso-y-un-13-a-perez-en-la-simulacion-de-encuestas/ Informe Confidencial]
+|26 Nov 2020
+|1,560
+|style="background:#FFDACC;"|'''22.0'''
+|17.0
+|13.0
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|42.0
+|6.0
+| style="background:{{party color|Union for Hope}};color:white;" | 5.0
+|-
+|[https://twitter.com/ElectorEcuador/status/1324752583597195264/photo/1 MKT Consulting Corp.]{{better source needed|date=January 2021}}
+|17 Nov 2020
+|3,298
+|16.10
+|style="background:#D3E4F8;"|'''23.68'''
+|18.47
+|–
+|5.49
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|16.25
+|20.01
+| style="background:{{party color|CREO Movement}};color:white;" | 5.21
+|-
+|[https://web.archive.org/web/20210501195500/https://clima.social/wp-content/uploads/2020/11/Encuesta-%C3%93mnibus-II_Nov20_Clima-Social_VPub-3.pdf Clima Social]
+|15 Nov 2020
+|2,579
+|style="background:#FFDACC;"|'''23.0'''
+|20.0
+|12.9
+|0.8
+|2.4
+|3.9
+|0.2
+|2.6
+|1.7
+|1.0
+|0.7
+|<1.0
+|0.3
+|0.5
+|–
+|0.6
+|14.7
+|14.7
+| style="background:{{party color|Union for Hope}};color:white;" | 3.0
+|-
+| rowspan="2" |[https://storagecriterios.blob.core.windows.net/archivos/Cedatos%20Octubre%20y%20Noviembre.pdf CEDATOS]
+| rowspan="2" |15 Nov 2020
+|1,670
+|11.1
+|style="background:#D3E4F8;"|'''18.1'''
+|6.2
+|0.4
+|0.5
+|0.3
+|–
+|0.2
+|0.1
+|0.1
+|0.2
+|–
+|0.1
+|–
+|–
+|–
+|11.3
+|51.4
+| style="background:{{party color|CREO Movement}};color:white;" | 7.0
+|-
+|1,800
+|13.0
+|style="background:#D3E4F8;"|'''23.0'''
+|10.7
+|0.9
+|1.3
+|0.9
+|0.1
+|0.4
+|0.3
+|1.5
+|0.8
+|0.1
+|0.4
+|0.1
+|0.6
+|0.2
+|36.6
+|9.1
+| style="background:{{party color|CREO Movement}};color:white;" | 10.0
+|-
+| rowspan="2" |[http://www.pichinchacomunicaciones.com.ec/andres-arauz-tiene-una-intencion-de-voto-de-40-2-con-10-puntos-de-diferencia-de-guillermo-lasso-segun-encuesta/ Omar Maluk]
+| rowspan="2" |27 Oct 2020
+| rowspan="2" |6,435
+|style="background:#FFDACC;"|'''30.8'''
+|23.8
+|8.8
+|2.8
+|2.4
+|2.2
+|–
+|0.8
+|2.2
+|–
+|1.1
+|–
+|0.5
+|–
+|–
+|–
+|–
+|24.6
+| style="background:{{party color|Union for Hope}};color:white;" | 7.0
+|-
+|style="background:#FFDACC;"|'''40.1'''
+|30.9
+|11.5
+|3.6
+|3.1
+|2.8
+|
+|1.0
+|2.9
+|–
+|1.5
+|–
+|0.6
+|–
+|–
+|–
+|–
+|2.0
+| style="background:{{party color|Union for Hope}};color:white;" | 9.2
+|-
+|[https://web.archive.org/web/20210128215901/https://cedatos.com.ec/blog/2020/12/07/cedatos-panorama-politico-y-electoral/ CEDATOS]
+|17 Oct 2020
+|1,800
+|19.7
+|style="background:#D3E4F8;"|'''26.1'''
+|13.1
+|1.0
+|0.7
+|1.4
+|0.3
+|0.5
+|0.5
+|1.3
+|1.0
+|0.1
+|0.1
+|0.1
+|0.1
+|0.1
+|33.9
+|–
+| style="background:{{party color|CREO Movement}};color:white;" | 6.4
+|-
+|[https://storagecriterios.blob.core.windows.net/archivos/Cedatos%20Octubre%20y%20Noviembre.pdf CEDATOS]
+|8 Oct 2020
+|1,670
+|12.2
+|style="background:#D3E4F8;"|'''15.0'''
+|4.7
+|1.3
+|0.1
+|0.8
+|–
+|0.8
+|0.5
+|0.5
+|–
+|–
+|–
+|–
+|0.3
+|–
+|11.3
+|52.5
+| style="background:{{party color|CREO Movement}};color:white;" | 2.8
+|-
+|[https://web.archive.org/web/20210501195502/https://clima.social/wp-content/uploads/2020/10/Encuesta-%C3%93mnibus-I_Oct-Sep20_Clima-Social_-v-Pub-2.pdf Clima Social]
+|8 Oct 2020
+|2,017
+|18.6
+|style="background:#D3E4F8;"|'''21.5'''
+|10.7
+|1.7
+|1.7
+|3.0
+|0.4
+|4.6
+|3.9
+|1.7
+|1.8
+|–
+|–
+|–
+|–
+|–
+|14.1
+|16.3
+| style="background:{{party color|CREO Movement}};color:white;" | 2.9
+|-
+|ESTRATEGIA Consultores{{better source needed|date=January 2021}}
+|1 Oct 2020
+|1,400
+|19.6
+|style="background:#D3E4F8;"|'''20.3'''
+|16.8
+|4.1
+|3.4
+|2.0
+|–
+|–
+|–
+|1.5
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|32.3
+| style="background:{{party color|CREO Movement}};color:white;" | 0.7
+|-
+|Pulso Ciudadano{{better source needed|date=January 2021}}
+|28 Sep 2020
+|1,400
+|style="background:#FFDACC;"|'''21.05'''
+|19.12
+|6.17
+|6.02
+|4.32
+|1.88
+|1.39
+|1.8
+|4.06
+|–
+|0.97
+|1.18
+|1.25
+|–
+|0.34
+|–
+|–
+|30.45
+| style="background:{{party color|Union for Hope}};color:white;" | 1.93
+|-
+|[https://primeraplana.com.ec/lasso-y-arauz-tienen-el-mismo-porcentaje-de-intencion-del-voto-segun-informe-confidencial/ Informe Confidencial]
+|27 Sep 2020
+|1,000
+|16.0
+|style="background:#D3E4F8;"|'''17.0'''
+|12.0
+|1.5
+|2.0
+|–
+|0.5
+|–
+|1.0
+|1.0
+|1.0
+|–
+|–
+|–
+|–
+|–
+|11.0
+|37
+| style="background:{{party color|CREO Movement}};color:white;" | 1.0
+|-
+|MKT Consulting Corp.{{better source needed|date=January 2021}}
+|18 Sep 2020
+|8,400
+|21.0
+|style="background:#D3E4F8;"|'''26.0'''
+|9.0
+|–
+|–
+|–
+|–
+|–
+|4.0
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|40.0
+| style="background:{{party color|CREO Movement}};color:white;" | 5.0
+|-
+|[https://www.atlasintel.org/poll/ecuador-national-2020-09-18 Atlas Intel]
+|18 Sep 2020
+|3,772
+|style="background:#FFDACC;"|'''45.9'''
+|32.0
+|4.3
+|1.1
+|0.9
+|0.3
+|0.4
+|0.2
+|0.3
+|0.2
+|0.9
+|0.2
+|0.2
+|–
+|0.4
+|–
+|6.1
+|6.6
+| style="background:{{party color|Union for Hope}};color:white;" | 13.9
+|-
+|SERVIDATOS{{better source needed|date=January 2021}}
+|14 Sep 2020
+|4,800
+|16.72
+|style="background:#D3E4F8;"|'''18.67'''
+|16.23
+|11.98
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|32.29
+|4.11
+| style="background:{{party color|CREO Movement}};color:white;" | 1.95
+|-
+|[https://twitter.com/ElectorEcuador/status/1310951421219680259/photo/1 CEDATOS]{{better source needed|date=January 2021}}
+|14 Sep 2020
+|2,100
+|12.3
+|style="background:#D3E4F8;"|'''16.3'''
+|5.5
+|0.6
+|0.5
+|0.7
+|0.1
+|0.8
+|0.0
+|0.5
+|0.5
+|–
+|0.3
+|–
+|–
+|–
+|27.8
+|34.1
+| style="background:{{party color|CREO Movement}};color:white;" | 4.0
+|-
+|[https://www.eureknow.com/post/an%C3%A1lisis-de-intenci%C3%B3n-de-voto-para-presidente-de-la-rep%C3%BAblica Eureknow]
+|10 Sep 2020
+|750
+|22.0
+|style="background:#D3E4F8;"|'''23.1'''
+|20.5
+|9.9
+|6.6
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|7.2
+|10.7
+| style="background:{{party color|CREO Movement}};color:white;" | 1.1
+|}
+
+===Second round===
+{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
+|-  <ref name="2ndRnd" />
+! rowspan="3"|  Polling firm
+! rowspan="3"| Fieldwork date
+! rowspan="3"|  Sample<br />size
+! class="unsortable" style="width:40px;"| [[Andrés Arauz]]
+! class="unsortable" style="width:40px;" | [[Guillermo Lasso]]
+! rowspan="3" class="unsortable" style="width:40px;" | None
+! rowspan="3" class="unsortable" style="width:40px;" | Blank/<br />Don't Know
+|-
+! class="unsortable" style="width:40px;" | [[Union for Hope|UNES]]
+! class="unsortable" style="width:40px;" | [[Creating Opportunities|CREO]]-[[Social Christian Party (Ecuador)|PSC]]
+|-
+! style="background:{{party color|Union for Hope}};" |
+! style="background:{{party color|CREO Movement}};" |
+|-
+| rowspan="2" |[https://twitter.com/UnCafeConJJ/status/1377791887491338245 Omar Maluk]
+| rowspan="2" |1 Apr 2021
+| rowspan="2" |12,104
+|style="background:#FFDACC;"|'''53.8'''
+|46.2
+|–
+|–
+|-
+|style="background:#FFDACC;"|'''33.3'''
+|28.7
+|22.2
+|15.9
+|-
+|rowspan="2" |[https://www.atlasintel.org/poll/ecuador-national-2021-04-01/ Atlas Intel]
+|rowspan="2" |1 Apr 2021
+|rowspan="2" |2,191 
+|style="background:#FFDACC;"|'''50.9'''
+|49.1
+|–
+|–
+|-
+|style="background:#FFDACC;"|'''40.8'''
+|39.4
+|colspan="2" |19.8
+|-
+|rowspan="2" |[https://www.eureknow.com/post/intenci%C3%B3n-de-voto-para-presidente-de-la-rep%C3%BAblica-31-de-marzo-2021/ Eureknow]
+|rowspan="2" |31 Mar 2021
+|rowspan="2" |1,400 
+|style="background:#FFDACC;"|'''50.1'''
+|49.9
+|–
+|–
+|-
+|style="background:#FFDACC;"|'''39.6'''
+|37.0
+|11.5
+|11.9
+|-
+|rowspan="2" |[https://web.archive.org/web/20210401104026/https://www.cedatos.com.ec/blog/2021/03/31/intencion-de-voto-de-2da-vuelta-animo-de-los-ecuatorianos-concurrencia-a-la-urnas-decision-e-indecision-del-voto/ CEDATOS]
+|rowspan="2" |31 Mar 2021
+|rowspan="2" |2,782 
+|48.0
+|style="background:#D3E4F8;"|'''52.0'''
+|–
+|–
+|-
+|35.2
+|style="background:#D3E4F8;"|'''38.2'''
+|colspan="2" |23.09
+|-
+|rowspan="2" |[https://www.analitica.com/actualidad-internacional/encuesta-da-leve-ventaja-a-lasso-sobre-arauz-de-cara-al-balotaje-en-ecuador/ Comunicaliza]
+|rowspan="2" |30 Mar 2021
+|rowspan="2" |5,233
+|49.1
+|style="background:#D3E4F8;"|'''50.9'''
+|–
+|–
+|-
+|32.7
+|style="background:#D3E4F8;"|'''33.9'''
+|colspan="2" |16.2
+|-
+|rowspan="2" |[https://elpais.com/internacional/2021-03-30/los-sondeos-electorales-apuntan-a-un-desempate-ajustado-entre-guillermo-lasso-y-andres-arauz-en-ecuador.html Click Report]
+|rowspan="2" |29 Mar 2021
+|rowspan="2" |750
+|48.51
+|style="background:#D3E4F8;"|'''51.49'''
+|–
+|–
+|-
+|37.71
+|style="background:#D3E4F8;"|'''40.03'''
+|14.18
+|8.08
+|-
+|rowspan="2" |Estrategia Consultores
+|rowspan="2" |28 Mar 2021
+|rowspan="2" |1,448
+|style="background:#FFDACC;"|'''51.7'''
+|48.3
+|–
+|–
+|-
+|style="background:#FFDACC;"|'''43.5'''
+|40.7
+|colspan="2" |13.5
+|-
+|[https://twitter.com/UnCafeConJJ/status/1377802357124251648 Pulso Ciudadano]
+|25 Mar 2021
+|1,975
+|style="background:#FFDACC;"|'''39.3'''
+|36.7
+|10.1
+|13.9
+|-
+|[https://confirmado.net/2021/03/27/perfiles-de-opinion-arauz-37-87-lasso-30-19/ Perfiles de Opinión]
+|24 Mar 2021
+|4,056
+|style="background:#FFDACC;"|'''37.87'''
+|30.19
+|25.01
+|6.93
+|-
+| rowspan="2" |[https://confirmado.net/2021/03/24/clima-social-votos-validos-andres-arauz-557-y-guillermo-lasso-443/ Clima Social]
+| rowspan="2" |23 Mar 2021
+| rowspan="2" |3,738
+|style="background:#FFDACC;"|'''55.7'''
+|44.3
+|–
+|–
+|-
+|style="background:#FFDACC;"|'''34.1'''
+|27.1
+|19.8
+|2.4
+|-
+|-
+| rowspan="2" |[http://www.pichinchacomunicaciones.com.ec/arauz-obtendria-el-587-y-lasso-el-413-de-votos-validos-en-segunda-vuelta-segun-encuesta-de-omar-maluk/ Omar Maluk]
+| rowspan="2" |21 Mar 2021
+| rowspan="2" |1,400
+|style="background:#FFDACC;"|'''58.7'''
+|41.3
+|–
+|–
+|-
+|style="background:#FFDACC;"|'''36.9'''
+|26.0
+|21.6
+|3.8
+|-
+|[https://radiolacalle.com/encuesta-quito-guayaquil-victoria-guillermo-lasso/ Click Report]
+|15 Mar 2021
+|750
+|37.11
+|style="background:#D3E4F8;"|'''37.37'''
+|colspan="2" |13.29
+|-
+| rowspan="2" |[https://www.eureknow.com/post/intención-de-voto-para-presidente-de-la-república-segunda-vuelta Eureknow]
+| rowspan="2" |13 Mar 2021
+| rowspan="2" |1,400
+|style="background:#FFDACC;"|'''53.7'''
+|46.3
+|–
+|–
+|-
+|style="background:#FFDACC;"|'''48.0'''
+|41.5
+|10.5
+|–
+|-
+|[https://republicadelbanano.com/2021/03/25/con-el-4315-andres-arauz-lidera-intencion-de-voto-de-cara-a-la-segunda-vuelta-electoral-segun-perfiles-de-opinion/ Perfiles de Opinión]
+|24 Feb 2021
+|4,056
+|style="background:#FFDACC;"|'''43.15'''
+|23.75
+|25.74
+|7.37
+|}
+
+==Results==
+===President===
+Preliminary results indicated that Andrés Arauz had a significant lead, but his vote total did not reach the 40% required to avoid a runoff, where he will face off against the second-place candidate. While early results had Yaku Pérez narrowly ahead of Lasso in second place, he eventually slipped to third place by about twenty thousand votes, prompting him to request a recount. The final results remained pending for a week due to Pérez's requested recount of 100% of the votes in [[Guayas Province]] and 50% of the votes in 16 other provinces, which was also agreed to by Lasso.<ref name="yakurevisar" /><ref name="dwperez" /> Lasso later retracted his support for the recount.<ref name="x4We1" /> Later, fourth-place finisher Xavier Hervas also called for a total recount of the presidential votes.<ref name="qNwA1" />
+
+In a press conference together with indigenous leaders on 17 February, Pérez stated that he would not support Lasso in the near future. Pérez insisted that fraud had been committed, especially in the provinces of Guayas, [[Manabí Province|Manabí]] and [[Los Ríos Province|Los Ríos]]. Pérez also claimed that the electoral authorities had colluded with other political actors. The leader of Pachakutik, Marlon Santi, also warned that if the recount request was not granted, indigenous bases would be mobilized.<ref name="EwiCp" /> On 18 February, a group of indigenous people started Maring from Saraguro towards Quito. The group, including Yaku Pérez, arrived in the capital 23 February, delivering a large number of documents that they claimed indicated irregularities in the National Electoral Council (CNE in [[Spanish language|Spanish]]).<ref name="Mr02o" /><ref name="b31fa" />
+
+On 19 February, the CNE confirmed Lasso as Arauz's opponent in the second round scheduled for 11 April.<ref name="2ndRnd" />
+
+The second round took place on 11 April. Shortly after 21:00 local time and after the polls closed at 17:00, with 97% of the votes counted, Guillermo Lasso was proclaimed the winner of the elections with 52.21% of the votes obtained and winning in 17 of the 24 provinces.<ref>{{Cite journal|date=11 April 2021|title=Guillermo Lasso, presidente electo del Ecuador; Andrés Arauz acepta su derrota y felicita a su contrincante|url=https://www.eluniverso.com/noticias/politica/en-vivo-votacion-de-segunda-vuelta-para-elegir-al-nuevo-presidente-de-ecuador-nota/|journal=[[El Universo]]}}</ref> Arauz acknowledged the defeat and said he would call the winner Lasso the following day to do so personally and show him that "[his] democratic convictions of being able to continue contributing to the development of the country when it is about benefiting the majority of our people and to oppose constructively and responsibly when it seeks to simply attend to privileges."<ref>{{Cite journal|date=11 April 2021|title=Araúz reconoce triunfo de Lasso y 'traspié' electoral en balotaje en Ecuador|url=https://www.lostiempos.com/actualidad/mundo/20210411/arauz-reconoce-triunfo-lasso-traspie-electoral-balotaje-ecuador|journal=[[Los Tiempos]]}}</ref>
+
+{{Election results
+|cand1=[[Andrés Arauz]]|vp1=[[Carlos Rabascall]]|party1=[[Union for Hope]] ([[Democratic Center (Ecuador)|CD]]–[[Social Commitment Force|FCS]])|votes1=3033791|votes1_2= 4236515
+|cand2=[[Guillermo Lasso]]|vp2=[[Alfredo Borrero Vega]]|party2=[[Creating Opportunities|CREO Movement]]–[[Social Christian Party (Ecuador)|Social Christian Party]]|votes2=1830172|votes2_2=4656426
+|cand3=[[Yaku Pérez]]|vp3=Virna Cedeño|party3=[[Pachakutik Plurinational Unity Movement – New Country|Pachakutik]]|votes3=1798057
+|cand4=[[Xavier Hervas]]|vp4=María Sara Jijón|party4=[[Democratic Left (Ecuador)|Democratic Left]]|votes4=1453915
+|cand5=[[Pedro José Freile]]|vp5=Byron Solís|party5=AMIGO Movement|votes5=192763|color5=#000000
+|cand6=Isidro Romero|vp6=Sofía Merino|party6=[[Advance (Ecuador)|Avanza]]|votes6=172714
+|cand7=[[Lucio Gutiérrez]]|vp7=David Norero|party7=[[Patriotic Society Party]]|votes7=164800
+|cand8=Gerson Almeida|vp8=Martha Villafuerte|party8=[[United Ecuadorian]]|votes8=160572
+|cand9=[[Ximena Peña]]|vp9=Patricio Barriga|party9=[[PAIS Alliance]]|votes9=143160
+|cand10=[[Guillermo Celi]]|vp10=Verónica Sevilla|party10=[[SUMA Party]]|votes10=84640
+|cand11=[[Juan Fernando Velasco]]|vp11=Ana María Pesantes|party11=[[Movimiento Construye|Build Movement]]|votes11=76349
+|cand12=César Montúfar|vp12=Julio Villacreses|party12=Honesty Alliance ([[Coalition Movement|MC]]–[[Partido Socialista Ecuatoriano|PSE]])|votes12=57620|color12={{party color|Coalition Movement}}
+|cand13=[[Gustavo Larrea]]|vp13=Alexandra Peralta|party13=Democracy Yes|votes13=36903             
+|cand14=Carlos Sagnay|vp14=Narda Ortiz|party14=[[Fuerza Ecuador]]|votes14=26524
+|cand15=Giovanny Andrade|vp15=Katherine Mata|party15=Ecuadorian Union Movement|votes15=20245
+|cand16=Paúl Carrasco|vp16=Frank Vargas Anda|party16=Together We Can National Movement|votes16=19809|color16=#4682B4
+|invalid=1342840|invalid2=1935445
+|electorate=13099150|electorate2=12843192
+|source=[https://resultados2021.cne.gob.ec/ CNE], [https://elecciones2021.cne.gob.ec/ CNE]
+}}
+
+====First round by province====
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+|-
+! rowspan="3"| Province 
+! width="30px" class="unsortable" | [[Andrés Arauz|Arauz]]
+! width="30px" class="unsortable" | [[Guillermo Lasso|Lasso]]
+! width="30px" class="unsortable" | [[Yaku Pérez Guartambel|Pérez]]
+! width="30px" class="unsortable" | Hervas
+! width="30px" class="unsortable" | [[Pedro José Freile|Freile]]
+! width="30px" class="unsortable" | Romero
+! width="30px" class="unsortable" | [[Lucio Gutiérrez|Gutiérrez]]
+! width="30px" class="unsortable" | Almeida
+! width="30px" class="unsortable" | [[Ximena Peña|Peña]]
+! width="30px" class="unsortable" | Celi
+! width="30px" class="unsortable" | [[Juan Fernando Velasco|Velasco]]
+! width="30px" class="unsortable" | Montúfar
+! width="30px" class="unsortable" | [[Gustavo Larrea|Larrea]]
+! width="30px" class="unsortable" | Sagnay
+! width="30px" class="unsortable" | Andrade
+! width="30px" class="unsortable" | Carrasco
+|-
+! style="background:{{party color|Union for Hope}};" |
+! style="background:{{party color|CREO Movement}};" |
+! style="background:{{party color|Pachakutik Plurinational Unity Movement}};" |
+! style="background:{{party color|Democratic Left (Ecuador)}};" |
+! style="background:#000000;" |
+! style="background:{{party color|Advance}};" |
+! style="background:{{party color|Patriotic Society Party}};" |
+! style="background:{{party color|United Ecuadorian Movement}};" |
+! style="background:{{party color|PAIS Alliance}};" |
+! style="background:{{party color|SUMA Party}};" |
+! style="background:#0041B3;" |
+! style="background:{{party color|Coalition Movement}};" |
+! style="background:{{party color|Democracy Yes}};" |
+! style="background:{{party color|Ecuador's Force}};" |
+! style="background:{{party color|Ecuadorian Union Movement}};" |
+! style="background:#4682B4;" |
+|-
+! data-sort-type="number"| %
+! data-sort-type="number"| %
+! data-sort-type="number"| %
+! data-sort-type="number" | %
+! data-sort-type="number" | %
+! data-sort-type="number" | %
+! data-sort-type="number" | %
+! data-sort-type="number" | %
+! data-sort-type="number" | %
+! data-sort-type="number" | %
+! data-sort-type="number" | %
+! data-sort-type="number"| %
+! data-sort-type="number"| %
+! data-sort-type="number"| %
+! data-sort-type="number" | %
+! data-sort-type="number"| %
+|-
+| align="left"|{{flag|Azuay}}
+|21.01
+|14.14
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''42.14'''
+|15.07
+|2.51
+|0.55
+|0.59
+|0.88
+|1.00
+|0.27
+|0.39
+|0.47
+|0.23
+|0.13
+|0.16
+|0.49
+|-
+| align="left" |{{flagcountry|Bolívar, Ecuador}}
+|14.00
+|13.73
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''47.92'''
+|12.51
+|1.22
+|0.92
+|4.58
+|0.87
+|0.81
+|0.90
+|0.45
+|0.61
+|0.43
+|0.23
+|0.64
+|0.18
+|-
+|align="left"|{{flag|Cañar}}
+|23.23
+|12.02
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''44.05'''
+|13.41
+|1.36
+|0.55
+|1.25
+|0.77
+|0.94
+|0.28
+|0.36
+|0.50
+|0.67
+|0.14
+|0.33
+|0.14
+|-
+|align="left"|{{flag|Carchi}}
+|20.42
+|16.71
+|20.67
+| style="background:{{party color|Democratic Left (Ecuador)}};color:white;" | '''28.22'''
+|6.66
+|0.87
+|1.50
+|0.41
+|1.99
+|0.33
+|0.90
+|0.48
+|0.34
+|0.17
+|0.16
+|0.18
+|-
+|align="left"|{{flag|Chimborazo}}
+|16.90
+|14.95
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''41.55'''
+|15.74
+|2.17
+|0.98
+|2.30
+|1.18
+|1.10
+|0.47
+|0.55
+|0.90
+|0.34
+|0.29
+|0.29
+|0.28
+|-
+|align="left"|{{flag|Cotopaxi}}
+|18.58
+|11.25
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''43.75'''
+|14.98
+|2.70
+|0.78
+|2.55
+|0.82
+|1.17
+|0.69
+|0.73
+|0.73
+|0.51
+|0.21
+|0.28
+|0.28
+|-
+|align="left"|{{flag|El Oro}}
+| style="background:{{party color|Union for Hope}};color:white;"| '''36.83'''
+|17.73
+|14.42
+|20.79
+|0.94
+|2.82
+|0.83
+|1.78
+|1.56
+|0.37
+|0.60
+|0.37
+|0.34
+|0.28
+|0.20
+|0.15
+|-
+|align="left"|{{flag|Esmeraldas}}
+| style="background:{{party color|Union for Hope}};color:white;"| '''44.27'''
+|20.84
+|12.34
+|9.12
+|0.71
+|1.35
+|1.19
+|2.70
+|2.38
+|0.75
+|1.01
+|0.58
+|1.67
+|0.53
+|0.33
+|0.25
+|-
+|align="left"|{{flag|Galápagos}}
+|24.09
+| style="background:{{party color|CREO Movement}};color:white;" | '''33.71'''
+|16.27
+|15.31
+|1.83
+|1.66
+|0.73
+|2.06
+|0.76
+|1.49
+|0.64
+|0.55
+|0.10
+|0.06
+|0.51
+|0.21
+|-
+|align="left"|{{flag|Guayas}}
+| style="background:{{party color|Union for Hope}};color:white;"| '''41.82'''
+|25.27
+|8.73
+|9.94
+|0.97
+|3.08
+|2.00
+|3.19
+|1.69
+|0.70
+|1.04
+|0.42
+|0.37
+|0.38
+|0.22
+|0.18
+|-
+|align="left"|{{flag|Imbabura}}
+| style="background:{{party color|Union for Hope}};color:white;"| '''29.38'''
+|17.16
+|22.39
+|18.54
+|4.87
+|0.94
+|1.26
+|0.63
+|1.53
+|0.39
+|0.98
+|0.87
+|0.37
+|0.26
+|0.22
+|0.20
+|-
+|align="left"|{{flag|Loja}}
+|19.04
+|17.24
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''30.48'''
+|26.33
+|1.25
+|0.69
+|1.33
+|0.80
+|0.74
+|0.38
+|0.35
+|0.55
+|0.24
+|0.21
+|0.18
+|0.19
+|-
+|align="left"|{{flag|Los Ríos}}
+| style="background:{{party color|Union for Hope}};color:white;"| '''46.83'''
+|15.24
+|12.07
+|9.04
+|0.68
+|4.97
+|3.03
+|1.99
+|2.96
+|0.66
+|0.63
+|0.43
+|0.50
+|0.50
+|0.29
+|0.18
+|-
+|align="left"|{{flag|Manabí}}
+| style="background:{{party color|Union for Hope}};color:white;"| '''52.22'''
+|14.74
+|6.05
+|12.57
+|0.70
+|1.88
+|1.12
+|1.24
+|2.44
+|4.41
+|0.94
+|0.40
+|0.45
+|0.37
+|0.25
+|0.23
+|-
+|align="left"|{{flag|Morona Santiago}}
+|16.32
+|9.61
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''52.00'''
+|15.30
+|0.59
+|0.24
+|2.32
+|0.50
+|0.64
+|0.94
+|0.46
+|0.47
+|0.23
+|0.12
+|0.16
+|0.10
+|-
+|align="left"|{{flag|Napo}}
+|13.59
+|17.18
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''43.90'''
+|12.86
+|0.97
+|0.46
+|8.00
+|0.65
+|0.45
+|0.46
+|0.41
+|0.53
+|0.19
+|0.11
+|0.12
+|0.12
+|-
+|align="left"|{{flag|Orellana}}
+|25.83
+|12.04
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''34.02'''
+|15.05
+|1.02
+|2.40
+|5.01
+|1.05
+|1.21
+|0.27
+|0.60
+|0.62
+|0.32
+|0.19
+|0.16
+|0.20
+|-
+|align="left"|{{flag|Pastaza}}
+|14.38
+|17.33
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" |  '''40.68'''
+|17.78
+|1.40
+|0.55
+|3.61
+|0.94
+|0.76
+|0.81
+|0.46
+|0.50
+|0.30
+|0.09
+|0.23
+|0.18
+|-
+|align="left"|{{flag|Pichincha}}
+|22.53
+| style="background:{{party color|CREO Movement}};color:white;" | '''25.86'''
+|16.71
+|23.25
+|4.60
+|0.89
+|1.24
+|0.91
+|0.87
+|0.36
+|0.82
+|1.14
+|0.30
+|0.15
+|0.16
+|0.19
+|-
+|align="left"|{{flag|Santa Elena}}
+| style="background:{{party color|Union for Hope}};color:white;"| '''42.77'''
+|13.96
+|14.86
+|12.36
+|1.11
+|2.37
+|0.75
+|4.82
+|3.10
+|0.62
+|1.48
+|0.43
+|0.45
+|0.42
+|0.29
+|0.24
+|-
+|align="left"|{{flag|Santo Domingo de los Tsáchilas}}
+| style="background:{{party color|Union for Hope}};color:white;"| '''35.93'''
+|17.38
+|16.20
+|17.93
+|1.74
+|1.67
+|1.75
+|1.18
+|2.50
+|0.82
+|1.07
+|0.59
+|0.56
+|0.27
+|0.22
+|0.21
+|-
+| align="left" |{{flag|Sucumbíos}}
+|34.92
+|8.23
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''37.01'''
+|11.76
+|0.88
+|0.74
+|2.95
+|0.56
+|1.05
+|0.39
+|0.52
+|0.37
+|0.17
+|0.14
+|0.17
+|0.15
+|-
+|align="left"|{{flag|Tungurahua}}
+|12.06
+|18.40
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''32.28'''
+|23.53
+|3.99
+|1.03
+|3.03
+|1.53
+|0.86
+|0.71
+|0.92
+|0.72
+|0.26
+|0.23
+|0.21
+|0.24
+|-
+|align="left"|{{flag|Zamora Chinchipe}}
+|16.88
+|12.53
+| style="background:{{party color|Pachakutik Plurinational Unity Movement}};color:white;" | '''40.03'''
+|24.80
+|0.64
+|0.39
+|1.13
+|0.80
+|0.60
+|0.36
+|0.31
+|0.59
+|0.26
+|0.28
+|0.15
+|0.26
+|-
+|align="left"|Europe, Asia & Oceania
+| style="background:{{party color|Union for Hope}};color:white;" |'''47.97'''
+|12.06
+|18.32
+|10.09
+|1.89
+|2.59
+|0.90
+|1.74
+|1.42
+|0.58
+|0.54
+|0.69
+|0.28
+|0.42
+|0.29
+|0.24
+|-
+|align="left"|Latin America & Africa
+| 35.41
+| style="background:{{party color|CREO Movement}};color:white;" | '''36.18'''
+| 10.03
+| 6.33
+| 1.40
+| 2.20
+| 0.79
+| 1.50
+| 1.39
+| 0.71
+| 0.80
+| 1.44
+| 0.97
+| 0.33
+| 0.34
+| 0.18
+|-
+| align="left"|USA & Canada
+| style="background:{{party color|Union for Hope}};color:white;"|'''36.09'''
+|27.23
+|24.05
+|5.93
+|1.06
+|0.96
+|0.65
+|0.71
+|1.03
+|0.69
+|0.31
+|0.51
+|0.32
+|0.20
+|0.09
+|0.16
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Union for Hope}};color:white;"| '''32.72'''
+| 19.74
+| 19.38
+|15.68
+|2.08
+|1.86
+|1.78
+|1.73
+|1.54
+|0.91
+|0.82
+| 0.62
+| 0.40
+|0.29
+|0.22
+|0.21
+|-
+! colspan="17" |
+|-
+! colspan="17" style="text-align:left; font-weight:normal; background:#F9F9F9" | Sources: [https://resultados2021.cne.gob.ec/ CNE] {{Webarchive|url=https://web.archive.org/web/20210225000758/https://resultados2021.cne.gob.ec/ |date=25 February 2021 }} 
+|}
+
+==== Second round by province ====
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+|-
+! rowspan="3"| Province 
+![[Andrés Arauz|Arauz]]
+![[Guillermo Lasso|Lasso]]<ref name="2ndRnd" />
+|-
+! style="background:{{party color|Union for Hope}}" |
+! style="background:{{party color|CREO Movement}}" |
+|-
+! data-sort-type="number"| %
+! data-sort-type="number"| %
+|-
+| align="left" |{{flag|Azuay}}
+| 43.84
+| style="background:{{party color|CREO Movement}};color:white;" | '''56.16'''
+|-
+| align="left" |{{flagcountry|Bolívar, Ecuador}}
+| 30.57
+| style="background:{{party color|CREO Movement}};color:white;" | '''69.43'''
+|-
+| align="left" |{{flag|Cañar}}
+| 48.11
+| style="background:{{party color|CREO Movement}};color:white;" | '''51.89'''
+|-
+| align="left" |{{flag|Carchi}}
+| 36.39
+| style="background:{{party color|CREO Movement}};color:white;" | '''63.61'''
+|-
+| align="left" |{{flag|Chimborazo}}
+| 34.09
+| style="background:{{party color|CREO Movement}};color:white;" | '''65.91'''
+|-
+| align="left" |{{flag|Cotopaxi}}
+| 36.80
+| style="background:{{party color|CREO Movement}};color:white;" | '''63.20'''
+|-
+| align="left" |{{flag|El Oro}}
+| style="background:{{party color|Union for Hope}};color:white;" | '''51.64'''
+| 48.36
+|-
+| align="left" |{{flag|Esmeraldas}}
+| style="background:{{party color|Union for Hope}};color:white;" | '''55.75'''
+| 44.25
+|-
+| align="left" |{{flag|Galápagos}}
+| 34.66
+| style="background:{{party color|CREO Movement}};color:white;" | '''65.34'''
+|-
+| align="left" |{{flag|Guayas}}
+| style="background:{{party color|Union for Hope}};color:white;" | '''53.05'''
+| 46.95
+|-
+| align="left" |{{flag|Imbabura}}
+| 45.57
+| style="background:{{party color|CREO Movement}};color:white;" | '''54.43'''
+|-
+| align="left" |{{flag|Loja}}
+| 32.46
+| style="background:{{party color|CREO Movement}};color:white;" | '''67.54'''
+|-
+| align="left" |{{flag|Los Ríos}}
+| style="background:{{party color|Union for Hope}};color:white;" | '''62.35'''
+| 37.65
+|-
+| align="left" |{{flag|Manabí}}
+| style="background:{{party color|Union for Hope}};color:white;" | '''66.10'''
+| 33.90
+|-
+| align="left" |{{flag|Morona Santiago}}
+| 30.79
+| style="background:{{party color|CREO Movement}};color:white;" | '''69.21'''
+|-
+| align="left" |{{flag|Napo}}
+| 25.01
+| style="background:{{party color|CREO Movement}};color:white;" | '''74.99'''
+|-
+| align="left" |{{flag|Orellana}}
+| 44.50
+| style="background:{{party color|CREO Movement}};color:white;" | '''55.50'''
+|-
+| align="left" |{{flag|Pastaza}}
+| 26.63
+| style="background:{{party color|CREO Movement}};color:white;" | '''73.37'''
+|-
+| align="left" |{{flag|Pichincha}}
+| 35.35
+| style="background:{{party color|CREO Movement}};color:white;" | '''64.65'''
+|-
+| align="left" |{{flag|Santa Elena}}
+| style="background:{{party color|Union for Hope}};color:white;" | '''61.10'''
+| 38.90
+|-
+| align="left" |{{flag|Santo Domingo de los Tsáchilas}}
+| 49.19
+| style="background:{{party color|CREO Movement}};color:white;" | '''50.81'''
+|-
+| align="left" |{{flag|Sucumbíos}}
+| style="background:{{party color|Union for Hope}};color:white;" | '''56.31'''
+| 43.69
+|-
+| align="left" |{{flag|Tungurahua}}
+| 24.59
+| style="background:{{party color|CREO Movement}};color:white;" | '''75.41'''
+|-
+| align="left" |{{flag|Zamora Chinchipe}}
+| 30.73
+| style="background:{{party color|CREO Movement}};color:white;" | '''69.27'''
+|-
+| align="left" |Europe, Asia & Oceania
+| style="background:{{party color|Union for Hope}};color:white;" | '''63.59'''
+| 36.41
+|-
+| align="left" |Latin America, Caribe & Africa
+| 46.65
+| style="background:{{party color|CREO Movement}};color:white;" | '''53.35'''
+|-
+| align="left" |USA & Canada
+| 46.73
+| style="background:{{party color|CREO Movement}};color:white;" | '''53.27'''
+|- style="background:#CDCDCD;"
+| align="left" | '''Total'''
+| 47.64
+| style="background:{{party color|CREO Movement}};color:white;" | '''52.36'''
+|-
+! colspan="3" |
+|-
+! colspan="3" style="text-align:left; font-weight:normal; background:#F9F9F9" | Sources: [https://elecciones2021.cne.gob.ec/ CNE] {{Webarchive|url=https://web.archive.org/web/20210412051541/https://resultados2021.cne.gob.ec/ |date=12 April 2021 }} 
+|}
+
+===National Assembly===
+{{Election results
+|image=[[File:Ecuador Asamblea Nacional 2021.svg]]
+|firstround=National|secondround=Provincial|thirdround=Overseas
+|party1=[[Union for Hope]]|votes1=2584595|seats1=5|votes1_2=2432925|seats1_2=40|votes1_3=43421|seats1_3=4|totseats1=49|sc1=New
+|party2=[[Pachakutik Plurinational Unity Movement – New Country]]|votes2=1348679|seats2=3|votes2_2=1140257|seats2_2=23|votes2_3=14515|seats2_3=1|totseats2=27|sc2=+23
+|party3=[[Democratic Left (Ecuador)|Democratic Left]]|votes3=961513|seats3=2|votes3_2=846745|seats3_2=16|votes3_3=9452|seats3_3=0|totseats3=18|sc3=+14
+|party4=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes4=780541|seats4=2|votes4_2=932622|seats4_2=16|votes4_3=9031|seats4_3=0|totseats4=18|sc4=+3
+|party5=[[Creating Opportunities]]|votes5=774238|seats5=2|votes5_2=736889|seats5_2=9|votes5_3=8884|seats5_3=1|totseats5=12|sc5=–22
+|party6=Honesty Alliance ([[Coalition Movement|MC]]–[[Socialist Party – Broad Front of Ecuador|PSE]])|votes6=301369|seats6=1|votes6_2=155979|seats6_2=1|votes6_3=1949|seats6_3=0|totseats6=2|sc6=New
+|party7=[[PAIS Alliance]]|votes7=222092|seats7=0|votes7_2=181408|seats7_2=0|votes7_3=2423|seats7_3=0|totseats7=0|sc7=–74
+|party8=[[United Ecuadorian]]|votes8=166888|seats8=0|votes8_2=193840|seats8_2=2|votes8_3=1407|seats8_3=0|totseats8=2|sc8=New
+|party9=[[Advance (Ecuador)|Avanza]]|votes9=154529|seats9=0|votes9_2=202149|seats9_2=2|votes9_3=2223|seats9_3=0|totseats9=2|sc9=+2
+|party10=[[Patriotic Society Party]]|votes10=145398|seats10=0|votes10_2=157424|seats10_2=1|totseats10=1|sc10=–1
+|party11=[[Popular Unity (Ecuador)|Popular Unity]]|votes11=139969|seats11=0|votes11_2=163103|seats11_2=0|votes11_3=1512|seats11_3=0|totseats11=0|sc11=0
+|party12=[[SUMA Party]]|votes12=135038|seats12=0|votes12_2=177280|seats12_2=0|votes12_3=1164|seats12_3=0|totseats12=0|sc12=New
+|party13=[[Democracy Yes]]|votes13=84209|seats13=0|votes13_2=155307|seats13_2=1|votes13_3=1267|seats13_3=0|totseats13=1|sc13=New
+|party14=[[Fuerza Ecuador]]|votes14=70854|seats14=0|votes14_2=27645|seats14_2=0|totseats14=0|sc14=–1
+|party15=[[Ecuadorian Union]]|votes15=59080|seats15=0|votes15_2=110920|seats15_2=1|votes15_3=568|seats15_3=0|totseats15=1|sc15=+1
+|party16=[[Movimiento Construye|Build Movement]]|votes16=57711|seats16=0|seats16_2=1|votes16_3=693|seats16_3=0|totseats16=1|sc16=+1
+|party17=Together We Can National Movement|votes17=37438|seats17=0|votes17_2=48585|seats17_2=0|votes17_3=705|seats17_3=0|totseats17=0|sc17=New
+|party18=Social Justice Movement|votes18_2=25970|seats18_2=0|totseats18=0|sc18=New
+|party19=Provincial movements (AP/Minga/AC)|votes19_2=321037|seats19_2=3|totseats19=3|sc19=0
+|invalid=2591041|invalid2=2335229|invalid3=20679
+|total_sc=0
+|electorate=13107364|electorate2=12661372|electorate3=410146
+|source=[https://www.parlamentomercosur.org/innovaportal/file/20024/1/informe-final-de-la-mision-de-observacion-electoral-en-las-elecciones-generales-y-de-segunda-vuelta-de-la-republica-del-ecuador-2021.docx.pdf Mercosur Parliament], [https://app01.cne.gob.ec/Resultados2021 CNE]
+}}
+
+=== Andean Parliament ===
+On 7 February 2021, Ecuadorian voters also elected five members of the [[Andean Parliament]].  Two of the successful candidates were current National Assembly members: Verónica Arias (CD) and [[Cristina Reyes]] (PSC).<ref>{{Cite web|title=Correístas, ID, PSC y Pachaktik con puestos en el Parlamento Andino|url=https://www.primicias.ec/noticias/politica/correistas-id-psc-pachaktik-parlamento-andino/|access-date=2021-04-13|website=Primicias|date=6 March 2021 |language=es-MX}}</ref>{{Election results
+|party1=[[Union for Hope]]|votes1=2588499|seats1=2
+|party2=[[Pachakutik Plurinational Unity Movement – New Country|Pachakutik]]|votes2=1294227|seats2=1
+|party3=[[Democratic Left (Ecuador)|Democratic Left]]|votes3=1001581|seats3=1
+|party4=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes4=962474|seats4=1
+|party6=[[Creating Opportunities|CREO Movement]]|votes6=673995|seats6=0
+|party7=[[PAIS Alliance]]|votes7=238237|seats7=0
+|party8=United Ecuadorian Movement|votes8=172590|seats8=0
+|party9=[[Patriotic Society Party]]|votes9=157956|seats9=0
+|party10=[[Advance (Ecuador)|Avanza]]|votes10=157306|seats10=0
+|party11=[[SUMA Party]]|votes11=148508|seats11=0
+|party12=[[Popular Unity (Ecuador)|Popular Unity]]|votes12=147464|seats12=0
+|party13=Honesty Alliance ([[Coalition Movement|MC]]–[[Partido Socialista Ecuatoriano|PSE]])|votes13=114310|seats13=0
+|party14=Democracy Yes|votes14=99986|seats14=0
+|party15=Ecuadorian Union Movement|votes15=56949|seats15=0
+|party16=Together We Can National Movement|votes16=38800|color16=#4682B4|seats16=0
+|invalid=2648669
+|electorate=13099150
+|source=[https://resultados2021.cne.gob.ec/ CNE]
+}}
+
+===Cuenca mining referendum===
+In the referendum held in Cuenca, preliminary results showed 80.9% of voters voting in favor of prohibiting mining activity in the area.<ref name="QOqIx" />
+
+==Notes==
+{{notelist}}
+
+==References==
+<references>
+<ref name="CNE">{{cite web
+  | title        = Candidatos 2021
+  | url          = https://candidatos2021.cne.gob.ec
+  | publisher    = Consejo Nacional Electoral del Ecuador
+  | access-date  = 7 February 2021
+| archive-date = 6 February 2021
+| archive-url  = https://web.archive.org/web/20210206045021/https://candidatos2021.cne.gob.ec/
+  | url-status   = live
+  }}</ref>
+<ref name="mining">{{cite web
+  | url          = https://www.mining-journal.com/gold-and-silver-news/news/1400793/cuenca-ecuador-anti-mining-vote-in-february-2021
+  | title        = Cuenca, Ecuador anti-mining vote in February 2021
+  | publisher    = Mining Journal
+  | date         = 7 December 2020
+| access-date  = 16 December 2020
+| archive-date = 10 February 2021
+| archive-url  = https://web.archive.org/web/20210210103012/https://www.mining-journal.com/gold-and-silver-news/news/1400793/cuenca-ecuador-anti-mining-vote-in-february-2021
+  | url-status   = live
+  }}</ref>
+<ref name="economist2">{{cite news
+  | url          = https://www.economist.com/the-americas/2020/02/06/ecuadors-trial-of-the-century-opens
+  | title        = Ecuador's trial of the century opens
+  | newspaper    = [[The Economist]]
+  | date         = 6 February 2020
+| access-date  = 16 December 2020
+| archive-date = 21 December 2020
+| archive-url  = https://web.archive.org/web/20201221123021/https://www.economist.com/the-americas/2020/02/06/ecuadors-trial-of-the-century-opens
+  | url-status   = live
+  }}</ref>
+<ref name="fecha-elecciones">{{cite web
+  | url          = https://www.expreso.ec/actualidad/fecha-elecciones-presidenciales-retrasarse-95371.html
+  | title        = La fecha de las elecciones presidenciales podría retrasarse<!--The date of the elections presidential could be retreated-->
+  | publisher    = Expreso
+  | date         = 15 December 2020| access-date  = 16 December 2020
+| archive-date = 15 December 2020
+| archive-url  = https://web.archive.org/web/20201215171033/https://www.expreso.ec/actualidad/fecha-elecciones-presidenciales-retrasarse-95371.html
+  | url-status   = live
+  }}</ref>
+<ref name="cne-aclara">{{cite web
+  | url          = https://www.expreso.ec/actualidad/cne-aclara-cambiara-fecha-votaciones-presidenciales-95400.html
+  | title        = El CNE aclara que no se cambiará la fecha de votaciones presidenciales<!-- The CNE clarified that they not will change the date of presidential elections. -->
+  | publisher    = Expreso
+  | date         = 15 December 2020| access-date  = 16 December 2020
+| archive-date = 15 December 2020
+| archive-url  = https://web.archive.org/web/20201215233037/https://www.expreso.ec/actualidad/cne-aclara-cambiara-fecha-votaciones-presidenciales-95400.html
+  | url-status   = live
+  }}</ref>
+<ref name="yakurevisar">{{cite news
+  | title        = Yaku pide revisar votos en 6 provincias por supuesto "fraude"
+  | website      = La República EC
+  | url          = https://www.larepublica.ec/blog/2021/02/11/yaku-pide-revisar-votos-6-provincias-supuesto-fraude/
+  | access-date  = 11 February 2021
+| date         = 11 February 2021
+| language     = es
+  | archive-date = 11 February 2021
+| archive-url  = https://web.archive.org/web/20210211071110/https://www.larepublica.ec/blog/2021/02/11/yaku-pide-revisar-votos-6-provincias-supuesto-fraude/
+  | url-status   = live
+  }}</ref>
+<ref name="dwperez">{{cite news
+  | title       = Ecuador election: Partial recount to decide who faces Andres Arauz
+  | url         = https://p.dw.com/p/3pIsG
+  | access-date = 17 February 2021
+| work        = DW News
+  | date        = 13 February 2021
+}}</ref>
+<ref name="erendum">{{Cite web |url=http://www.ecuadortimes.net/2016/11/22/referendum-on-tax-havens-will-be-conducted-in-the-elections-of-2017/ |title=Referandum on tax havens will be conducted in the elections of 2017 |access-date=10 December 2020 |archive-date=23 November 2016 |archive-url=https://web.archive.org/web/20161123140432/http://www.ecuadortimes.net/2016/11/22/referendum-on-tax-havens-will-be-conducted-in-the-elections-of-2017/ |url-status=dead }}</ref>
+<ref name="BBC">{{Cite news
+  | url   = https://www.bbc.com/news/world-latin-america-39063683
+  | title = Ecuador will hold run-off poll to choose new president
+  | work = BBC News
+ | date  = 23 February 2017
+}}</ref>
+<ref name="cne">{{Cite web |url=http://cne.gob.ec/es/institucion/sala-de-prensa/noticias/3994-pleno-del-cne-presento-resultados-totales-de-la-segunda-vuelta-electoral |title=Pleno del CNE presento resultados totales de la Segunda Vuelta electoral |access-date=10 December 2020 |archive-date=11 April 2017 |archive-url=https://web.archive.org/web/20170411070520/http://cne.gob.ec/es/institucion/sala-de-prensa/noticias/3994-pleno-del-cne-presento-resultados-totales-de-la-segunda-vuelta-electoral |url-status=dead }}</ref>
+<ref name="elcomercio">{{Cite web
+  | url     = http://www.elcomercio.com/actualidad/recuento-votos-creo-alianzapais-resultados.html
+  | title   = El Pleno del CNE proclamó a Lenín Moreno presidente electo de Ecuador &#124; El Comercio
+  | date    = 19 April 2017
+| archive-url = https://web.archive.org/web/20170419160425/http://www.elcomercio.com/actualidad/recuento-votos-creo-alianzapais-resultados.html
+ | archive-date = 19 April 2017
+ }}</ref>
+<ref name="guardian">{{cite news
+  | url          = https://www.theguardian.com/world/2017/apr/15/ecuador-presidential-election-10-of-votes-to-be-recounted
+  | title        = Ecuador presidential election: 10% of votes to be recounted
+  | agency       = Associated Press
+  | date         = 14 April 2017
+| access-date  = 24 June 2017
+| newspaper          = The Guardian
+  | archive-date = 21 June 2017
+| archive-url  = https://web.archive.org/web/20170621123549/https://www.theguardian.com/world/2017/apr/15/ecuador-presidential-election-10-of-votes-to-be-recounted
+  | url-status   = live
+  }}</ref>
+<ref name="usnews">{{cite web
+  | url          = https://www.usnews.com/news/world/articles/2017-04-19/ecuador-vote-recount-confirms-moreno-as-election-winner
+  | title        = Ecuador Vote Recount Confirms Moreno as Next President
+  | publisher    = U.S. News & World Report
+  | date         = 19 April 2017
+| access-date  = 16 December 2020
+| archive-date = 22 November 2020
+| archive-url  = https://web.archive.org/web/20201122065434/https://www.usnews.com/news/world/articles/2017-04-19/ecuador-vote-recount-confirms-moreno-as-election-winner
+  | url-status   = live
+  }}</ref>
+<ref name="papafrank">{{cite web
+  | last         = Fukuyama
+  | first        = Francis
+  | date         = 15 December 2020
+| title        = Francis Fukuyama on the State of Democracy in 2020 and Beyond
+  | url          = https://www.wsj.com/articles/francis-fukuyama-on-the-state-of-democracy-in-2020-and-beyond-11608051600
+  | access-date  = 16 December 2020
+| work=[[The Wall Street Journal]]
+  | archive-date = 16 December 2020
+| archive-url  = https://web.archive.org/web/20201216043241/https://www.wsj.com/articles/francis-fukuyama-on-the-state-of-democracy-in-2020-and-beyond-11608051600
+  | url-status   = live
+  }}</ref>
+<ref name="guide">{{Cite web
+  | url     = https://www.electionguide.org/elections/id/2265/
+  | title   = IFES Election Guide &#124; Elections: Ecuador Pres 2013
+  | website = www.electionguide.org
+  }}</ref>
+<ref name="PDBA">{{Cite web
+  | url     = https://pdba.georgetown.edu/ElecSys/Ecuador/ecuador.html
+  | title   = Ecuador: Sistemas Electorales / Electoral Systems
+  | website = pdba.georgetown.edu
+  }}</ref>
+<ref name="riotimes">{{cite web
+  | url          = https://riotimesonline.com/brazil-news/mercosur/ecuador-andres-arauz-and-rafael-correa-to-run-in-presidential-elections/
+  | title        = Ecuador: Andrés Arauz and Rafael Correa to Run in 2021 Presidential Elections
+  | last         = Martinez
+  | first        = Juan
+  | publisher    = The Rio Times
+  | date         = 21 August 2020
+| access-date  = 16 December 2020
+| archive-date = 28 February 2021
+| archive-url  = https://web.archive.org/web/20210228200754/https://riotimesonline.com/brazil-news/mercosur/ecuador-andres-arauz-and-rafael-correa-to-run-in-presidential-elections/
+  | url-status   = live
+  }}</ref>
+<ref name="rafe">{{Cite web
+  | last         = España
+  | first        = Sara
+  | date         = 18 August 2020
+  | title        = Rafael Correa confirma su candidatura a la vicepresidencia de Ecuador en 2021
+  | url          = https://elpais.com/internacional/2020-08-18/rafael-correa-confirma-su-candidatura-a-la-vicepresidencia-de-ecuador-en-2021.html
+  | access-date  = 5 December 2020
+  | website      = EL PAÍS
+  | language     = es
+  | archive-date = 9 December 2020
+| archive-url  = https://web.archive.org/web/20201209135959/https://elpais.com/internacional/2020-08-18/rafael-correa-confirma-su-candidatura-a-la-vicepresidencia-de-ecuador-en-2021.html
+  | url-status   = live
+  }}</ref>
+<ref name="nytimes">{{Cite web
+  | date         = 1 September 2020
+  | title        = Ecuador's Former President Convicted on Corruption Charges
+  | url          = https://www.nytimes.com/2020/04/07/world/americas/ecuador-correa-corruption-verdict.html
+  | access-date  = 5 December 2020
+  | website      = The New York Times
+  | archive-date = 27 January 2021
+| archive-url  = https://web.archive.org/web/20210127193134/https://www.nytimes.com/2020/04/07/world/americas/ecuador-correa-corruption-verdict.html
+  | url-status   = live
+  }}</ref>
+<ref name="reuters">{{cite news
+  | last1        = Ellsworth
+  | first1       = Alexandra Valencia, Brian
+  | title        = As election nears, pandemic-weary Ecuadoreans lean toward return to socialism
+  | url          = https://www.reuters.com/article/us-ecuador-politics-idUSKBN29Y0HT
+  | access-date  = 4 February 2021
+| work         = Reuters
+  | date         = 29 January 2021
+| language     = en
+  | archive-date = 5 February 2021
+| archive-url  = https://web.archive.org/web/20210205000229/https://www.reuters.com/article/us-ecuador-politics-idUSKBN29Y0HT
+  | url-status   = live
+  }}</ref>
+<ref name="lasso1">{{cite web
+  | date         = 11 August 2020
+| title        = Alfredo Borrero es el binomio de Guillermo Lasso
+  | url          = https://www.larepublica.ec/blog/2020/08/11/alfredo-borrero-binomio-guillermo-lasso/
+  | access-date  = 16 December 2020
+| publisher    = La Republica
+  | quote        = El director de Salvar Vidas, Alfredo Borrero Vega, ha aceptado la candidatura de la Vicepresidencia de la República, en binomio con Guillermo Lasso, según ha conocido este sitio de fuentes no oficiales pero muy cercanas al movimiento CREO.
+  | archive-date = 1 November 2020
+| archive-url  = https://web.archive.org/web/20201101124907/https://www.larepublica.ec/blog/2020/08/11/alfredo-borrero-binomio-guillermo-lasso/
+  | url-status   = live
+  }}</ref>
+<ref name="lasso2">{{cite web
+  | title       = PSC y Creo sellan acuerdo para apoyar candidatura de Guillermo Lasso
+  | date = 31 August 2020
+ | url         = https://www.primicias.ec/noticias/politica/psc-creo-sellan-acuerdo-apoyar-candidatura-lasso/
+  | access-date = 16 December 2020
+| publisher   = Primicias
+  }}</ref>
+<ref name="abortion">{{cite web
+  | date         = 11 January 2021
+| title        = Los candidatos que rehuyen hablar sobre el aborto en sus campañas
+  | url          = https://www.planv.com.ec/historias/sociedad/candidatos-que-rehuyen-hablar-sobre-el-aborto-sus-campanas
+  | access-date  = 4 February 2021
+| website      = Plan V
+  | language     = es
+  | archive-date = 20 January 2021
+| archive-url  = https://web.archive.org/web/20210120012609/https://www.planv.com.ec/historias/sociedad/candidatos-que-rehuyen-hablar-sobre-el-aborto-sus-campanas
+  | url-status   = live
+  }}</ref>
+<ref name="yaku">{{cite web
+  | date         = 16 November 2020
+| title        = En su plan de gobierno, Yaku Pérez plantea que la salud y la educación sean la base de la reorganización productiva
+  | url          = https://www.eluniverso.com/noticias/2020/11/15/nota/8050081/elecciones-presidenciales-ecuador-2021-yaku-perez-plan-gobierno
+  | access-date  = 16 December 2020
+| publisher    = El Universo
+  | archive-date = 16 November 2020
+| archive-url  = https://web.archive.org/web/20201116112507/https://www.eluniverso.com/noticias/2020/11/15/nota/8050081/elecciones-presidenciales-ecuador-2021-yaku-perez-plan-gobierno
+  | url-status   = live
+  }}</ref>
+<ref name="New Face">{{cite news
+  | last1        = O'Boyle
+  | first1       = Brendan
+  | date         = 1 February 2021
+| title        = Yaku Pérez: The New Face of Ecuador's Left?
+  | work         = Americas Quarterly
+  | url          = https://americasquarterly.org/article/yaku-perez-the-new-face-of-ecuadors-left/
+  | access-date  = 4 February 2021
+| archive-date = 3 February 2021
+| archive-url  = https://web.archive.org/web/20210203160237/https://www.americasquarterly.org/article/yaku-perez-the-new-face-of-ecuadors-left/
+  | url-status   = live
+  }}</ref>
+<ref name="Americas Quarterly 2021 meet">{{cite web
+  | title        = Meet the Candidates: Ecuador
+  | website      = Americas Quarterly
+  | date         = 10 February 2021
+  | url          = https://americasquarterly.org/article/meet-the-candidates-ecuador/
+  | access-date  = 11 February 2021
+  | archive-date = 10 February 2021
+| archive-url  = https://web.archive.org/web/20210210235012/https://americasquarterly.org/article/meet-the-candidates-ecuador/
+  | url-status   = live
+  }}</ref>
+<ref name="El Universo 2021 Yaku">{{cite web
+  | title        = Yaku Pérez: No es descabellado un acuerdo comercial con Estados Unidos
+  | website      = El Universo
+  | date         = 14 January 2021
+  | url          = https://www.eluniverso.com/noticias/2021/01/14/nota/9528838/yaku-perez-no-es-descabellado-acuerdo-comercial-estados-unidos
+  | language     = es
+  | access-date  = 11 February 2021
+  | archive-date = 9 February 2021
+| archive-url  = https://web.archive.org/web/20210209172733/https://www.eluniverso.com/noticias/2021/01/14/nota/9528838/yaku-perez-no-es-descabellado-acuerdo-comercial-estados-unidos
+  | url-status   = live
+  }}</ref>
+<ref name="Pitts 2021">{{cite web
+  | last         = Pitts
+  | first        = Beth
+  | title        = Yaku Pérez: The Indigenous Water Defender Who Might be Ecuador's Next President
+  | website      = Writers Rebel
+  | date         = 4 February 2021
+  | url          = https://writersrebel.com/yaku-perez-the-indigenous-water-defender-who-might-be-ecuadors-next-president/
+  | access-date  = 11 February 2021
+  | archive-date = 12 February 2021
+| archive-url  = https://web.archive.org/web/20210212135043/https://writersrebel.com/yaku-perez-the-indigenous-water-defender-who-might-be-ecuadors-next-president/
+  | url-status   = live
+  }}</ref>
+<ref name="universo">{{cite web
+  | url          = https://www.eluniverso.com/noticias/2020/08/22/nota/7951162/elecciones-presidenciales-2021-martha-cecilia-villafuerte-gerson
+  | title        = Martha Villafuerte será compañera de fórmula del pastor evangélico Gerson Almeida por Ecuatoriano Unido para elecciones del 2021
+  | publisher    = El Universo
+  | date         = 22 August 2020
+| access-date  = 16 December 2020
+| archive-date = 7 February 2021
+| archive-url  = https://web.archive.org/web/20210207105123/https://www.eluniverso.com/noticias/2020/08/22/nota/7951162/elecciones-presidenciales-2021-martha-cecilia-villafuerte-gerson
+  | url-status   = live
+  }}</ref>
+<ref name="byron">{{cite web
+  | url          = https://gk.city/2020/10/07/quien-es-byron-solis/
+  | title        = Byron Solís es candidato a vicepresidente por el movimiento AMIGO
+  | publisher    = GK
+  | date         = 7 October 2020
+| access-date  = 16 December 2020
+| archive-date = 24 October 2020
+| archive-url  = https://web.archive.org/web/20201024001641/https://gk.city/2020/10/07/quien-es-byron-solis/
+  | url-status   = live
+  }}</ref>
+<ref name="romero1">{{Cite web
+  | url          = https://www.expreso.ec/actualidad/isidro-romero-acepta-precandidatura-avanza-89145.html
+  | title        = Isidro Romero acepta su precandidatura por Avanza
+  | website      = www.expreso.ec
+  | access-date  = 17 December 2020
+| archive-date = 7 February 2021
+| archive-url  = https://web.archive.org/web/20210207181026/https://www.expreso.ec/actualidad/isidro-romero-acepta-precandidatura-avanza-89145.html
+  | url-status   = live
+  }}</ref>
+<ref name="romero2">{{Cite web
+  | url          = http://www.elcomercio.com/actualidad/isidro-romero-candidatura-politica-avanza.html
+  | title        = Isidro Romero ofrece 'desinfectar la política' y abrió la puerta para sellar alianzas con Avanza
+  | website      = El Comercio
+  | date = 23 August 2020
+ | access-date  = 17 December 2020
+| archive-date = 7 January 2021
+| archive-url  = https://web.archive.org/web/20210107152928/https://www.elcomercio.com/actualidad/isidro-romero-candidatura-politica-avanza.html
+  | url-status   = live
+  }}</ref>
+<ref name="jijon">{{cite web
+  | url          = https://gk.city/2020/10/08/quien-es-maria-sara-jijon/
+  | title        = María Sara Jijón aspira a ser Vicepresidenta de la República por la Izquierda Democrática
+  | publisher    = GK
+  | date         = 8 October 2020
+| access-date  = 16 December 2020
+| archive-date = 23 October 2020
+| archive-url  = https://web.archive.org/web/20201023234414/https://gk.city/2020/10/08/quien-es-maria-sara-jijon/
+  | url-status   = live
+  }}</ref>
+<ref name="bastida">{{cite web
+  | url          = https://www.eluniverso.com/noticias/2020/10/16/nota/8016307/elecciones-presidenciales-ecuador-2021-sagnay-bastida-fe
+  | title        = FE reemplaza a Miguel Salem y Gustavo Bucaram por Carlos Sagnay y Narda Ortiz en binomio presidencial
+  | publisher    = El Universo
+  | date         = 16 October 2020
+| access-date  = 16 December 2020
+| archive-date = 19 October 2020
+| archive-url  = https://web.archive.org/web/20201019112258/https://www.eluniverso.com/noticias/2020/10/16/nota/8016307/elecciones-presidenciales-ecuador-2021-sagnay-bastida-fe
+  | url-status   = live
+  }}</ref>
+<ref name="gutierrez">{{cite web
+  | url          = https://www.eluniverso.com/noticias/2020/11/17/nota/8051680/elecciones-febrero-2021-lucio-gutierrez-candidato-presidente
+  | title        = Lucio Gutiérrez, tras su propia revancha: regresar a Carondelet
+  | publisher    = El Universo
+  | date         = 17 November 2020
+| access-date  = 16 December 2020
+| archive-date = 17 November 2020
+| archive-url  = https://web.archive.org/web/20201117155539/https://www.eluniverso.com/noticias/2020/11/17/nota/8051680/elecciones-febrero-2021-lucio-gutierrez-candidato-presidente
+  | url-status   = live
+  }}</ref>
+<ref name="mancheno">{{cite web
+  | url          = https://www.elcomercio.com/actualidad/entrevista-cesar-montufar-candidato-presidencia.html
+  | title        = César Montúfar: 'El país tiene que entrar en una lógica política diferente'
+  | last         = Imbaquingo
+  | first        = Jorge R.
+  | publisher    = El Comercio
+  | date         = 16 November 2020
+| access-date  = 27 December 2020
+| archive-date = 4 December 2020
+| archive-url  = https://web.archive.org/web/20201204114642/https://www.elcomercio.com/actualidad/entrevista-cesar-montufar-candidato-presidencia.html
+  | url-status   = live
+  }}</ref>
+<ref name="mata">{{cite web
+  | url          = https://gk.city/2020/10/12/quien-es-katherine-mata/
+  | title        = Katherine Mata es candidata a la vicepresidencia por el movimiento Unión Ecuatoriana
+  | publisher    = GK
+  | date         = 12 October 2020
+| access-date  = 16 December 2020
+| quote        = El 3 de octubre de 2020, inscribió su candidatura a la vicepresidencia de la república ante CNE. Lo hizo junto a Giovanny Andrade -candidato a la presidencia- por el movimiento Unión Ecuatoriana.
+  | archive-date = 24 October 2020
+| archive-url  = https://web.archive.org/web/20201024003825/https://gk.city/2020/10/12/quien-es-katherine-mata/
+  | url-status   = live
+  }}</ref>
+<ref name="si">{{cite web
+  | url          = https://gk.city/2020/10/07/quien-es-alexandra-peralta/
+  | title        = Alexandra Peralta será la candidata a vicepresidenta por el movimiento Democracia Sí
+  | publisher    = GK
+  | date         = 7 October 2020
+| access-date  = 16 December 2020
+| quote        = Alexandra Peralta Marín es la candidata a la vicepresidencia por el movimiento Democracia Sí. Perata fue viceministra de Agricultura, Ganadería, Acuacultura y Pesca durante siete meses en 2018 y 2019. Es economista especializada en proyectos agrícolas y agroindustriales. En las elecciones de 2021 será el binomio de Gustavo Larrea, candidato a la presidencia del movimiento.
+  | archive-date = 21 October 2020
+| archive-url  = https://web.archive.org/web/20201021101610/https://gk.city/2020/10/07/quien-es-alexandra-peralta/
+  | url-status   = live
+  }}</ref>
+<ref name="SUMA">{{cite web
+  | url          = https://gk.city/2020/10/07/veronica-sevilla-elecciones-2021/
+  | title        = Verónica Sevilla, empresaria y ex Miss Ecuador aspira a la Vicepresidencia de la República
+  | publisher    = GK
+  | date         = 7 October 2020
+| access-date  = 16 December 2020
+| archive-date = 24 October 2020
+| archive-url  = https://web.archive.org/web/20201024010919/https://gk.city/2020/10/07/veronica-sevilla-elecciones-2021/
+  | url-status   = live
+  }}</ref>
+<ref name="construye">{{cite web
+  | url          = https://www.elcomercio.com/tendencias/juan-fernando-velasco-renuncia-ministro.html
+  | title        = Juan Fernando Velasco renuncia como ministro para seguir con so campaña presidencial
+  | last         = Flores
+  | first        = Gabriel
+  | publisher    = El Comercio
+  | date         = 28 September 2020
+| access-date  = 16 December 2020
+| archive-date = 1 November 2020
+| archive-url  = https://web.archive.org/web/20201101005811/https://www.elcomercio.com/tendencias/juan-fernando-velasco-renuncia-ministro.html
+  | url-status   = live
+  }}</ref>
+<ref name="juntos">{{cite web
+  | url         = https://gk.city/2020/10/12/quien-es-frank-vargas/
+  | title       = Frank Vargas Anda, candidato a la vicepresidencia por el movimiento Juntos Podemos
+  | publisher   = GK
+  | date        = 12 October 2020
+| access-date = 16 December 2020
+}}</ref>
+<ref name="ximena">{{cite web
+  | url          = https://www.elcomercio.com/actualidad/entrevista-ximena-pena-alianza-pais.html
+  | title        = Candidata Ximena Peña (AP) dice que renegociará con el FMI
+  | publisher    = El Comercio
+  | date         = 22 October 2020
+| access-date  = 16 December 2020
+| archive-date = 25 November 2020
+| archive-url  = https://web.archive.org/web/20201125171401/https://www.elcomercio.com/actualidad/entrevista-ximena-pena-alianza-pais.html
+  | url-status   = live
+  }}</ref>
+<ref name="2ndRnd">{{cite news
+  | title        = Guillermo Lasso es confirmado por el CNE de Ecuador como el rival de Andrés Arauz en la segunda vuelta de las elecciones presidenciales
+  | url          = https://www.latercera.com/mundo/noticia/guillermo-lasso-es-confirmado-por-el-cne-de-ecuador-como-el-rival-de-andres-arauz-en-la-segunda-vuelta-de-las-elecciones-presidenciales/K7QIAE3WFZDJZGZSM52NHEWHC4/
+  | access-date  = 20 February 2021
+| work         = La Tercera
+  | date         = 19 February 2021
+| language     = es
+  | archive-date = 20 February 2021
+| archive-url  = https://web.archive.org/web/20210220000759/https://www.latercera.com/mundo/noticia/guillermo-lasso-es-confirmado-por-el-cne-de-ecuador-como-el-rival-de-andres-arauz-en-la-segunda-vuelta-de-las-elecciones-presidenciales/K7QIAE3WFZDJZGZSM52NHEWHC4/
+  | url-status   = live
+  }}</ref>
+
+<!-- Not in use
+<ref name="IZ8vE">{{Cite web
+  | url         = https://www.eluniverso.com/noticias/2020/08/18/nota/7946818/elecciones-presidenciales-ecuador-2021-registro-electoral-padron
+  | title       = Padrón electoral se cierra con 13 099 150 personas para comicios generales del 2021
+  | language    = es
+  | access-date = 8 February 2021
+}}</ref>
+-->
+
+<ref name="v9fDI">Per [[:es:Elecciones presidenciales de Ecuador de 2021]].</ref>
+<ref name="qISPO">{{Cite web
+  | title        = Encuestadora: la popularidad de Lenín Moreno toca fondo
+  | url          = https://www.expreso.ec/actualidad/encuestadora-popularidad-lenin-moreno-toca-fondo-4748.html
+  | access-date  = 8 February 2021
+  | website      = www.expreso.ec
+  | archive-date = 3 January 2021
+| archive-url  = https://web.archive.org/web/20210103023053/https://www.expreso.ec/actualidad/encuestadora-popularidad-lenin-moreno-toca-fondo-4748.html
+  | url-status   = live
+  }}</ref>
+<ref name="57lkF">{{Cite web
+  | title        = La Asamblea aprobó reformas al Código de la Democracia
+  | url          = http://www.elcomercio.com/actualidad/reformas-elecciones-asamblea-codigo-democracia.html
+  | access-date  = 15 January 2021
+  | website      = El Comercio
+  | date = 22 January 2020
+ | archive-date = 28 January 2021
+| archive-url  = https://web.archive.org/web/20210128084532/https://www.elcomercio.com/actualidad/reformas-elecciones-asamblea-codigo-democracia.html
+  | url-status   = live
+  }}</ref>
+<ref name="IJBs7">{{Cite web
+  | title        = Electores no podrán votar por candidatos de distintas listas
+  | url          = http://www.elcomercio.com/actualidad/cne-electores-vota-candidatos-listas.html
+  | access-date  = 15 January 2021
+  | website      = El Comercio
+  | date = 11 December 2019
+ | archive-date = 9 January 2021
+| archive-url  = https://web.archive.org/web/20210109054952/https://www.elcomercio.com/actualidad/cne-electores-vota-candidatos-listas.html
+  | url-status   = live
+  }}</ref>
+<ref name="3SfcQ">{{cite news
+  | last1        = Angulo
+  | first1       = Sebastián
+  | title        = Mineras ponen sus ojos en la consulta popular de Cuenca
+  | url          = https://www.expreso.ec/actualidad/economia/mineras-ponen-ojos-consulta-popular-cuenca-98007.html
+  | access-date  = 4 February 2021
+| work         = www.expreso.ec
+  | date         = 31 January 2021
+| archive-date = 1 February 2021
+| archive-url  = https://web.archive.org/web/20210201123614/https://www.expreso.ec/actualidad/economia/mineras-ponen-ojos-consulta-popular-cuenca-98007.html
+  | url-status   = live
+  }}</ref>
+<ref name="ySZqg">{{cite news
+ |title=Binomio Andrés Arauz y Carlos Rabascall, oficialmente calificados, anuncia el CNE
+ |url=https://www.diariocorreo.com.ec/49799/portada/binomio-andres-arauz-y-carlos-rabascall-oficialmente-calificados-anuncia-el-cne
+ |access-date=29 January 2021
+|work=Diario Correo {{!}} El Diario de Todos
+ |date=9 December 2020
+|archive-date=22 January 2021
+|archive-url=https://web.archive.org/web/20210122213320/https://www.diariocorreo.com.ec/49799/portada/binomio-andres-arauz-y-carlos-rabascall-oficialmente-calificados-anuncia-el-cne
+ |url-status=live}}</ref>
+<ref name="d0Vd9">{{cite news
+  | last1        = Ellsworth
+  | first1       = Alexandra Valencia, Brian
+  | title        = UPDATE 2-Ecuador president hopeful Arauz would scrap IMF economic program
+  | url          = https://www.reuters.com/article/ecuador-politics-idUSL1N2JV2AY
+  | access-date  = 4 February 2021
+| work         = Reuters
+  | date         = 20 January 2021
+| language     = en
+  | archive-date = 8 February 2021
+| archive-url  = https://web.archive.org/web/20210208043423/https://www.reuters.com/article/ecuador-politics-idUSL1N2JV2AY
+  | url-status   = live
+  }}</ref>
+<ref name="1i1gi">{{cite news
+ |last1=Miguel
+ |first1=Mercedes López San
+ |title=Andrés Arauz: "Buscan impedir que participemos de las elecciones en Ecuador" {{!}} Entrevista al candidato a presidente para los comicios del 7 de febrero
+ |url=https://www.pagina12.com.ar/310186-andres-arauz-buscan-impedir-que-participemos-de-las-eleccion
+ |access-date=4 February 2021
+|work=PAGINA12
+ |date=6 December 2020
+|archive-date=3 February 2021
+|archive-url=https://web.archive.org/web/20210203215224/https://www.pagina12.com.ar/310186-andres-arauz-buscan-impedir-que-participemos-de-las-eleccion
+ |url-status=live
+ }}</ref>
+<ref name="jcnFp">{{cite news
+  | title        = Ecuador's main left-wing candidate cannot vote in Sunday poll
+  | url          = https://www.msn.com/en-us/news/world/ecuadors-main-left-wing-candidate-cannot-vote-in-sunday-poll/ar-BB1dr9VQ?ocid=ob-fb-enus-1541512262291
+  | access-date  = 7 February 2021
+| work         = msn.com
+  | agency       = AFP
+  | date         = 6 February 2021
+| archive-date = 14 February 2021
+| archive-url  = https://web.archive.org/web/20210214100920/https://www.msn.com/en-us/news/world/ecuadors-main-left-wing-candidate-cannot-vote-in-sunday-poll/ar-BB1dr9VQ?ocid=ob-fb-enus-1541512262291
+  | url-status   = live
+  }}</ref>
+<ref name="cOmVz">{{cite web
+  | date         = 19 January 2021
+| title        = Guillermo Lasso: El presidente podrá reducir el IVA por un número de días al año
+  | url          = https://www.eluniverso.com/noticias/2021/01/18/nota/9594124/elecciones-presidenciales-ecuador-2021-guillermo-lasso-creo
+  | access-date  = 4 February 2021
+| website      = El Universo
+  | language     = es
+  | archive-date = 20 January 2021
+| archive-url  = https://web.archive.org/web/20210120114615/https://www.eluniverso.com/noticias/2021/01/18/nota/9594124/elecciones-presidenciales-ecuador-2021-guillermo-lasso-creo
+  | url-status   = live
+  }}</ref>
+<ref name="6bCPq">{{cite news
+  | last1        = Valencia
+  | first1       = Alexandra
+  | date         = 27 January 2021
+| title        = Ecuador's Lasso said he would not disavow IMF deal if elected
+  | work         = Nasdaq
+  | agency       = Reuters
+  | url          = https://www.nasdaq.com/articles/ecuadors-lasso-said-he-would-not-disavow-imf-deal-if-elected-2021-01-27
+  | access-date  = 4 February 2021
+| archive-date = 18 February 2021
+| archive-url  = https://web.archive.org/web/20210218110617/https://www.nasdaq.com/articles/ecuadors-lasso-said-he-would-not-disavow-imf-deal-if-elected-2021-01-27
+  | url-status   = live
+  }}</ref>
+<ref name="NckQJ">{{cite news
+  | date         = 16 December 2020
+| title        = Virna Cedeño: 'He planteado llegar con un rol de la ciencia, de la tecnología, la innovación y educación'
+  | language     = es
+  | work         = El Universo
+  | url          = https://www.eluniverso.com/noticias/2020/12/15/nota/8113282/virna-cedeno-he-planteado-llegar-rol-ciencia-tecnologia
+  | access-date  = 29 January 2021
+| archive-date = 8 February 2021
+| archive-url  = https://web.archive.org/web/20210208145506/https://www.eluniverso.com/noticias/2020/12/15/nota/8113282/virna-cedeno-he-planteado-llegar-rol-ciencia-tecnologia
+  | url-status   = live
+  }}</ref>
+<ref name="x4We1">{{cite news
+  | title        = Lasso se retractó del acuerdo para el recuento de votos y pide que "se promulgue el resultado"
+  | url          = https://www.telam.com.ar/notas/202102/544685-lasso-se-retracta-del-acuerdo-para-el-recuento-de-votos-y-pide-que-se-promulgue-el-resultado.html
+  | access-date  = 19 February 2021
+| work         = Télam
+  | date         = 15 February 2021
+| language     = es
+  | archive-date = 15 February 2021
+| archive-url  = https://web.archive.org/web/20210215204359/https://www.telam.com.ar/notas/202102/544685-lasso-se-retracta-del-acuerdo-para-el-recuento-de-votos-y-pide-que-se-promulgue-el-resultado.html
+  | url-status   = live
+  }}</ref>
+<ref name="qNwA1">{{cite news
+  | title        = [Podcast] Xavier Hervas aboga por recuento total de votos de las elecciones presidenciales en Ecuador
+  | url          = https://www.eluniverso.com/noticias/politica/podcast-xavier-hervas-aboga-por-recuento-total-de-votos-de-las-elecciones-presidenciales-en-ecuador-nota/
+  | access-date  = 19 February 2021
+| work         = El Universo
+  | date         = 18 February 2021
+| language     = es
+  | archive-date = 18 February 2021
+| archive-url  = https://web.archive.org/web/20210218113503/https://www.eluniverso.com/noticias/politica/podcast-xavier-hervas-aboga-por-recuento-total-de-votos-de-las-elecciones-presidenciales-en-ecuador-nota/
+  | url-status   = live
+  }}</ref>
+<ref name="EwiCp">{{cite news
+  | title        = "Ni sueñen que vamos a apoyar a Guillermo Lasso", dijo Yaku Pérez, quien sigue mencionando que le hicieron fraude y que continuarán hasta mostrar la 'verdad'
+  | url          = https://www.eluniverso.com/noticias/politica/ni-suenen-que-vamos-a-apoyar-a-guillermo-lasso-dijo-yaku-perez-quien-sigue-mencionando-que-le-hicieron-fraude-y-que-van-a-seguir-hasta-mostrar-la-verdad-nota/
+  | access-date  = 17 February 2021
+| work         = El Universo
+  | date         = 17 February 2021
+| language     = es
+  | archive-date = 17 February 2021
+| archive-url  = https://web.archive.org/web/20210217170057/https://www.eluniverso.com/noticias/politica/ni-suenen-que-vamos-a-apoyar-a-guillermo-lasso-dijo-yaku-perez-quien-sigue-mencionando-que-le-hicieron-fraude-y-que-van-a-seguir-hasta-mostrar-la-verdad-nota/
+  | url-status   = live
+  }}</ref>
+<ref name="Mr02o">{{cite news
+  | title        = Marcha indígena que se dirige hacia Quito por recuento de votos ya está en Azuay
+  | url          = https://www.eluniverso.com/noticias/politica/marcha-indigena-que-se-dirige-hacia-quito-por-recuento-de-votos-ya-esta-en-cuenca-nota/
+  | access-date  = 19 February 2021
+| work         = El Universo
+  | date         = 18 February 2021
+| language     = es
+  | archive-date = 18 February 2021
+| archive-url  = https://web.archive.org/web/20210218185506/https://www.eluniverso.com/noticias/politica/marcha-indigena-que-se-dirige-hacia-quito-por-recuento-de-votos-ya-esta-en-cuenca-nota/
+  | url-status   = live
+  }}</ref>
+<ref name="b31fa">{{cite news
+  | title        = Pachakutik presenta más de 16.000 actas con posibles inconsistencias
+  | url          = https://www.expreso.ec/actualidad/pachakutik-presenta-16-000-actas-posibles-inconsistencias-99337.html
+  | access-date  = 23 February 2021
+| work         = www.expreso.ec
+  | date         = 23 February 2021
+| archive-date = 23 February 2021
+| archive-url  = https://web.archive.org/web/20210223225316/https://www.expreso.ec/actualidad/pachakutik-presenta-16-000-actas-posibles-inconsistencias-99337.html
+  | url-status   = live
+  }}</ref>
+<ref name="QOqIx">{{cite news
+  | title        = En Cuenca, el 80,9% apoya cese de actividad minera, según el CNE
+  | url          = https://www.primicias.ec/noticias/lo-ultimo/consulta-mineria-cuenca-ecuador-elecciones/
+  | access-date  = 17 February 2021
+| work         = Primicias
+  | date         = 8 February 2021
+| language     = es
+  | archive-date = 11 February 2021
+| archive-url  = https://web.archive.org/web/20210211002122/https://www.primicias.ec/noticias/lo-ultimo/consulta-mineria-cuenca-ecuador-elecciones/
+  | url-status   = live
+  }}</ref>
+</references>
+
+{{Ecuadorian elections}}
+
+[[Category:2021 elections in South America|Ecuador]]
+[[Category:2021 in Ecuador|General election]]
+[[Category:Presidential elections in Ecuador]]
+[[Category:Parliamentary elections in Ecuador]]
+[[Category:February 2021 in Ecuador|General]]

@@ -1,0 +1,64 @@
+{{Short description|Re-election of Jorge Carlos Fonseca}}
+{{Infobox election
+| country = Cape Verde
+| type = presidential
+| previous_election = 2011 Cape Verdean presidential election
+| previous_year = 2011
+| next_election = 2021 Cape Verdean presidential election
+| next_year = 2021
+| election_date = 2 October 2016
+| registered = 361,221
+| turnout = 35.47%
+| image1 = 2019-05-06 Empfang Jorge Carlos Fonseca-1188 (cropped).jpg
+| nominee1 = '''[[Jorge Carlos Fonseca]]'''
+| party1 = Movement for Democracy (Cape Verde)
+| popular_vote1 = '''93,010'''
+| percentage1 = '''74.08%'''
+| image2 = 3x4.svg
+| nominee2 = [[Albertino Graça]]
+| party2 = Independent politician
+| popular_vote2 = 28,256
+| percentage2 = 22.51%
+| title = [[List of heads of state of Cape Verde|President]]
+| before_election = [[Jorge Carlos Fonseca]]
+| before_party = Movement for Democracy (Cape Verde)
+| after_election = [[Jorge Carlos Fonseca]]
+| after_party = Movement for Democracy (Cape Verde)
+| map_image       = Elecciones presidenciales de Cabo Verde, 2016.svg
+| map_caption = Results by constituency
+}}{{Politics of Cape Verde}}
+
+Presidential elections were held in [[Cape Verde]] on 2 October 2016.<ref>[https://www.ndi.org/electionscalendar Global elections calendar] {{Webarchive|url=https://web.archive.org/web/20151022232515/https://www.ndi.org/electionscalendar |date=2015-10-22 }} NDI</ref> Incumbent President [[Jorge Carlos Fonseca]] of the [[Movement for Democracy (Cape Verde)|Movement for Democracy]] (MpD) was re-elected with 74% of the vote.
+
+==Electoral system==
+The [[President of Cape Verde]] is elected using the [[two-round system]].<ref>[http://www.electionguide.org/elections/id/2201/ Cape Verde] IFES</ref><ref>{{Cite web|url=http://www.news24.com/Africa/News/president-fonseca-eyes-second-term-in-cape-verde-vote-20161002|title=President Fonseca eyes second term in Cape Verde vote|access-date=2016-10-02|archive-date=2019-02-07|archive-url=https://web.archive.org/web/20190207121953/https://www.news24.com/Africa/News/president-fonseca-eyes-second-term-in-cape-verde-vote-20161002|url-status=dead}}</ref>
+
+==Candidates==
+[[Jorge Carlos Fonseca]] was looking to secure his second term and was the favourite to win as the main opposition party the [[African Party for the Independence of Cape Verde]] (PAICV) failed to present a candidate after their disappointing loss in the [[2016 Cape Verdean parliamentary election|parliamentary elections]] in March and municipal elections in September. Fonseca, representing the MpD, faced two independent candidates, Joaquim Monteiro and Albertino Graça.<ref>{{Cite web|url=http://www.africanews.com/2016/10/02/polls-open-in-cape-verde-s-presidential-election/|title=Polls open in Cape Verde's presidential election|last=AfricaNews|date=2016-10-02|website=Africanews|access-date=2016-10-02}}</ref>
+
+==Campaign==
+Campaigning was temporarily suspended on 22 September following the death of the country's ex-president [[António Mascarenhas Monteiro]].<ref>{{Cite web|url=http://pulse.ng/world/in-cape-verde-presidential-campaign-suspended-id5500654.html|title=In Cape Verde: Presidential campaign suspended - World - Pulse|last=AFP|first=Pulse News Agency International By|access-date=2016-10-05|archive-date=2016-10-06|archive-url=https://web.archive.org/web/20161006144319/http://pulse.ng/world/in-cape-verde-presidential-campaign-suspended-id5500654.html|url-status=dead}}</ref> Monteiro was the country's first democratically elected president and was also a member of the MpD. All public events and rallies were suspended for 4 days until 26 September.<ref>{{Cite web|url=https://au.news.yahoo.com/world/a/32641064/presidential-campaign-suspended-in-cape-verde/#page1|title=Presidential campaign suspended in Cape Verde|access-date=2016-10-05|archive-url=https://web.archive.org/web/20161006051243/https://au.news.yahoo.com/world/a/32641064/presidential-campaign-suspended-in-cape-verde/#page1#page1|archive-date=2016-10-06|url-status=dead}}</ref>
+
+==Results==
+{{Election results
+|cand1=[[Jorge Carlos Fonseca]]|party1=[[Movement for Democracy (Cape Verde)|Movement for Democracy]]|votes1=93010
+|cand2=Albertino Lopes da Graça|party2=Independent|votes2=28256
+|cand3=Joaquim Jaime Monteiro|party3=Independent|votes3=4278
+|invalid=1088
+|blank=1485
+|electorate=361221
+|source=Boletim Oficial<ref>{{Cite web |date=14 October 2016 |title=Boletim Oficial da República de Cabo Verde, Serie I, No. 59 |url=https://drive.google.com/file/d/1gUX1_ghQymy_u8DYRZkqGtG87bl-7Xm6/view |website=Boletim Oficial da República de Cabo Verde |page=2011–2012}}</ref>
+}}
+
+==Reactions==
+*[[African Union]] – The 29 member AU observer team headed by [[Manuel Serifo Nhamadjo]] cited the election as an exemplary example of a transparent election.<ref>{{Cite web|url=https://au.news.yahoo.com/world/a/32792870/president-fonseca-wins-second-term-in-cape-verde-vote/#page1|title=President Fonseca wins second term in Cape Verde vote|access-date=2016-10-05|archive-url=https://web.archive.org/web/20161004171420/https://au.news.yahoo.com/world/a/32792870/president-fonseca-wins-second-term-in-cape-verde-vote/#page1#page1|archive-date=2016-10-04|url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+{{Cape Verdean elections}}
+
+[[Category:2016 elections in Africa|Cape Verde]]
+[[Category:2016 in Cape Verde|Presidential]]
+[[Category:Presidential elections in Cape Verde]]
+[[Category:October 2016 in Africa|Cape Verde]]

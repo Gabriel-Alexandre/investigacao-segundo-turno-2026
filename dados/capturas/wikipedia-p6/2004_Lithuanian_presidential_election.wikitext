@@ -1,0 +1,66 @@
+{{Short description|none}}
+{{Use dmy dates|date=March 2019}}
+{{Infobox election
+| country = Lithuania
+| flag_year = 1988
+| type = presidential
+| previous_election = 2002–03 Lithuanian presidential election
+| previous_year = {{nowrap|2002–03}}
+| next_election = 2009 Lithuanian presidential election
+| next_year = 2009
+| election_date = 13 June 2004 (first round)<br>27 June 2004 (second round)
+| turnout = 48.40% (first round)<br>52.46% (second round) 
+| image1 = Julius Numavicius with Valdas Adamkus (cropped) 2004.jpg
+| nominee1 = '''[[Valdas Adamkus]]'''
+| party1 = Independent politician
+| popular_vote1 = '''723,891'''
+| percentage1 = '''52.65%'''
+| image2 = Kazimira Prunskienė 2010.jpg
+| nominee2 = [[Kazimira Prunskienė]]
+| party2 = [[Lithuanian Farmers and Greens Union|VNDS]]
+| popular_vote2 = 651,024
+| percentage2 = 47.35%
+| map_image = Results of Lithuanian presidential election, 2004 (second round).png
+| map_caption = Second round results by municipality<br>{{legend0|red}} Prunskienė {{legend0|blue}} Adamkus
+| title = President
+| before_election = [[Artūras Paulauskas]] (acting)
+| before_party = [[New Union (Social Liberals)|New Union]]
+| after_election = [[Valdas Adamkus]]
+| after_party = Independent politician
+}}{{Politics of Lithuania}}
+
+'''Presidential elections''' were held in [[Lithuania]] in June 2004 alongside [[2004 European Parliament election in Lithuania|European elections]]. They were held following the [[impeachment]] of President [[Rolandas Paksas]], who was elected in [[2002–03 Lithuanian presidential election|January 2003]].
+
+==Background==
+Paksas was impeached for allegedly leaking classified material, and granting citizenship to [[Russia]]n businessman Jurij Borisov in exchange for financial support. The [[Constitutional Court of Lithuania]] ruled that Paksas could not seek re-election as president. In accordance with the constitution, the speaker of parliament, [[Artūras Paulauskas]], became acting president pending new elections.
+
+==Candidates==
+The candidates for the presidency were Adamkus, who had been [[President of Lithuania|President]] from 1998 to 2003 and who was running as an independent, Prunskienė of the [[Peasants and New Democratic Party Union]] (VNDS), [[Vilija Blinkevičiūtė]] of the [[New Union (Social Liberals)]] (NS), [[Petras Auštrevičius]] (independent), and [[Česlovas Juršėnas]] of the [[Social Democratic Party of Lithuania|Social Democratic Party]] (LSDP).
+
+Prunskienė was also supported by the [[Order and Justice|Liberal Democratic Party]], while Auštrevičius was supported by the [[Homeland Union]], [[Lithuanian Christian Democrats]], [[Liberal and Centre Union]] and [[Labour Party (Lithuania)|Labour Party]].
+
+==Results==
+In the first round on 13 June former president [[Valdas Adamkus]] led the vote tally over the former [[Prime Minister of Lithuania|Prime Minister]] [[Kazimira Prunskienė]]. Adamkus defeated Prunskienė in the second round on 27 June.
+
+{{Election results
+|cand1=[[Valdas Adamkus]]|party1=Independent|votes1=387837|votes1_2=723891
+|cand2=[[Kazimiera Prunskienė]]|party2=[[Lithuanian Farmers and Greens Union|Peasants and New Democratic Party Union]]|votes2=264681|votes2_2=651024
+|cand3=[[Petras Auštrevičius]]|party3=Independent|votes3=240413
+|cand4=[[Vilija Blinkevičiūtė]]|party4=[[New Union (Social Liberals)]]|votes4=204819
+|cand5=[[Česlovas Juršėnas]]|party5=[[Social Democratic Party of Lithuania|Social Democratic Party]]|votes5=147610
+|invalid=39707|invalid2=20188
+|electorate=2655309|electorate2=2659211
+|source=[http://www.vrk.lt/statiniai/puslapiai/rinkimai/2004/prezidentas/rezultatai/rez_l_19_1.htm Central Election Committee], [http://www.vrk.lt/statiniai/puslapiai/rinkimai/2004/prezidentas/rezultatai/rez_l_19_2.htm Central Election Committee]
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.vrk.lt/statiniai/puslapiai/rinkimai/2004/prezidentas/indexn.html 2004 Lithuanian presidential elections] VRK {{in lang|lt}}
+
+{{Lithuanian elections}}
+
+[[Category:2004 elections in Europe|Lithuania]]
+[[Category:2004 in Lithuania|Presidential]]
+[[Category:Presidential elections in Lithuania]]

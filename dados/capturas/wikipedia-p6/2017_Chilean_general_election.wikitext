@@ -1,0 +1,2026 @@
+{{Short description|none}}
+{{Use dmy dates|date=December 2021}}
+{{Infobox election
+| country            = Chile
+| previous_election  = 2013 Chilean general election
+| previous_year      = 2013
+| next_election      = 2021 Chilean general election
+| next_year          = 2021
+| module             = {{infobox election
+| embed              = yes
+| election_name      = Presidential election
+| type               = presidential
+| election_date      = 19 November 2017 (first round)<br />{{nowrap|17 December 2017 (second round)}}
+| turnout            = 46.72% (first round) {{decrease}} 2.63[[percentage point|pp]]<br>49.02% (second round) {{increase}} 7.04[[percentage point|pp]]
+| opinion_polls      = Opinion polling for the 2017 Chilean general election
+| image1             = File:Sebastian Pinera (2010) 4x3 cropped.jpg
+| candidate1         = '''[[Sebastián Piñera]]'''
+| party1             = [[Independent politician|Independent]]
+| alliance1          = [[Chile Vamos]]
+| colour1            = 065DA8
+| popular_vote1      = '''3,796,918'''
+| percentage1        = '''54.57%'''
+| image2             = Alejandro Guillier (2017) 4x3 cropped image.jpg
+| candidate2         = [[Alejandro Guillier]]
+| party2             = [[Independent politician|Independent]]
+| alliance2          = [[New Majority (Chile)|Force of the Majority]]
+| colour2            = FC4143
+| popular_vote2      = 3,160,628
+| percentage2        = 45.43%
+| map_image          = {{switcher|[[File:Chile 2017 presidential election first round map.svg|275px]]|First round results by commune|[[File:Chile 2017 presidential election runoff map.svg|275px]]|Second Round results by commune|default=2}}
+| title              = President
+| before_election    = [[Michelle Bachelet]]
+| before_party       = Socialist Party of Chile
+| after_election     = [[Sebastián Piñera]]
+| after_party        = [[Independent politician|Independent]]
+| module             = {{Infobox legislative election
+| embed              = yes
+| election_name      = Chamber of Deputies 
+| seats_for_election = All 155 seats in the [[Chamber of Deputies of Chile|Chamber of Deputies]]
+| majority_seats     = 78
+| noleader           = yes
+| party1             = Chile Vamos
+| last_election1     = 49
+| seats1             = 72
+| percentage1        = 38.68
+| party2             = [[New Majority (Chile)|Force of the Majority]]
+| colour2            = #FC4143
+| last_election2     = 44
+| seats2             = 43
+| percentage2        = 24.06
+| party3             = [[Broad Front (Chilean political coalition)|Broad Front]]
+| colour3            = lightgreen
+| last_election3     = 3
+| seats3             = 20
+| percentage3        = 16.49
+| party4             = {{nowrap|Democratic Convergence}}
+| party4_link        = no
+| colour4            = #1E90FF
+| last_election4     = 23
+| seats4             = 14
+| percentage4        = 10.68
+| party5             = All Over Chile
+| colour5            = #c11469
+| last_election5     = 0
+| seats5             = 1
+| percentage5        = 3.92
+| party6             = Green Regionalist
+| colour6            = #008066
+| last_election6     = 1
+| seats6             = 4
+| percentage6        = 1.92
+| party7             = Independents
+| last_election7     = 3
+| seats7             = 1
+| percentage7        = 1.75
+| map                = [[File:2017ChileDeputiesElectionMap.svg|275px]]
+| map_caption        = Results by constituency
+| module             = {{Infobox legislative election
+| embed              = yes
+| election_name      = Senate
+| noleader           = yes
+| seats_for_election = 23 of the 43 seats in the [[Senate of Chile|Senate]]
+| party1             = Chile Vamos
+| last_election1     = 7
+| seats1             = 12
+| percentage1        = 37.71
+| party2             = [[New Majority (Chile)|Force of the Majority]]
+| colour2            = #FC4143
+| last_election2     = 4
+| seats2             = 7
+| percentage2        = 22.82
+| party3             = {{nowrap|Democratic Convergence}}
+| party3_link        = no
+| colour3            = #1E90FF
+| last_election3     = 4
+| seats3             = 3
+| percentage3        = 14.32
+| party4             = [[Broad Front (Chilean political coalition)|Broad Front]]
+| colour4            = lightgreen
+| last_election4     = 0
+| seats4             = 1
+| percentage4        = 11.06
+| map                = [[File:2017ChileSenateElectionMap.svg|275px]]
+| map_caption        = Results by constituency
+}}}}}}}}
+{{Politics of Chile}}
+
+General elections were held in [[Chile]] on 19 November 2017 to elect the president, all 155 members of the [[Chamber of Deputies of Chile|Chamber of Deputies]], 23 of the 43 members of the [[Senate of Chile|Senate]] and 278 members of regional boards. All elected members would serve a four-year term, aside from the senators would serve for eight years.
+
+In the presidential election, former president [[Sebastián Piñera]] received a lower-than-expected 36% of the vote,  nearly 14 points ahead of senator [[Alejandro Guillier]], who was backed by the sitting administration. In the [[runoff election]] on 17 December 2017, Piñera surprised many by defeating Guillier with 54% of the vote, and turnout was two points higher than in the first round.
+
+In the parliamentary elections, the {{lang|es|[[Chile Vamos]]|italic=no}} coalition, which supported Piñera's candidacy, won 46% of the Chamber of Deputies and 44% of the Senate, while the governing [[New Majority (Chile)|New Majority]] alliance, which competed without the Christian Democrats for the first time in 28 years, failed to retain its majority in both chambers, receiving just 28% and 35% in the lower and upper chambers, respectively. The leftist bloc [[Broad Front (Chilean political coalition)|Broad Front]] elected 20 deputies (13%) and gained one senator. The Christian Democratic Party received 9% of the lower chamber and secured 14% of the Senate.
+
+Following an election reform in 2015, the Chamber of Deputies grew in size to 155 members from the previous 120, while the Senate increased its membership from 38 to 43 after this election, and will grow to 50 following the election in 2021.<ref>{{cite web|url=http://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/|title=El sistema electoral pasa su prueba de fuego|date=20 November 2017|publisher=La Tercera}}</ref> Multi-seat constituencies were reestablished, replacing the previous [[Binomial voting|binomial system]] of two seats per district, installed by the outgoing Pinochet dictatorship in 1989.<ref>{{cite web|url=https://www.leychile.cl/Navegar?idNorma=30177/ |title=Ley 18.799 |publisher=Leychile.cl |access-date=2017-12-19}}</ref><ref>{{cite journal |last1=Rahat |first1=Gideon |last2=Sznajder |first2=Mario |title=Electoral engineering in Chile: the electoral system and limited democracy |journal=Electoral Studies |date=December 1998 |volume=17 |issue=4 |pages=429–442 |doi=10.1016/S0261-3794(98)00001-8 }}</ref> Starting with this election, Chile's congress was elected through open list proportional representation under the D'Hondt method. Also for the first time, a 40% gender quota was put in place for candidates of each political party in parliamentary elections.<ref>{{cite web|url=http://www.comunidadmujer.cl/2015/04/hoy-se-promulgo-reforma-al-sistema-electoral-que-incluye-cuotas-de-genero/|title=Hoy se promulgó reforma al Sistema Electoral que incluye cuotas de género – ComunidadMujer|date=27 April 2015|access-date=30 October 2017|archive-date=7 November 2017|archive-url=https://web.archive.org/web/20171107012243/http://www.comunidadmujer.cl/2015/04/hoy-se-promulgo-reforma-al-sistema-electoral-que-incluye-cuotas-de-genero/|url-status=dead}}</ref>
+
+All the newly elected officials began their terms on 11 March 2018.
+
+This was the first non-primary election in which Chilean citizens voted from abroad.<ref>{{cite web|url=https://www.chileatiende.gob.cl/fichas/ver/47157|title=Voto de chilenos en el exterior|work=ChileAtiende|access-date=30 October 2017|archive-date=7 November 2017|archive-url=https://web.archive.org/web/20171107022947/https://www.chileatiende.gob.cl/fichas/ver/47157|url-status=dead}}</ref>
+
+==Presidential primaries==
+{{main|2017 Chilean presidential primaries}}
+
+According to the Constitution, primaries are voluntary but its results are binding.<ref name="constitution">[http://www.leychile.cl/Navegar?idNorma=242302 Political Constitution of the Republic of Chile]. Chile Library of National Congress.</ref> [[Sebastián Piñera]] won the {{lang|es|[[Chile Vamos]]|italic=no}} primary with 58% of the vote while [[Beatriz Sánchez (journalist)|Beatriz Sánchez]] became the [[Broad Front (Chilean political coalition)|Broad Front (Frente Amplio)]] nominee with nearly 68%.<ref name="BAH_prim">{{cite news|title=Piñera cruises to victory in Chile's presidential primaries|url=http://www.buenosairesherald.com/article/226186/pi%C3%B1era-cruises-to-victory-in-chile%E2%80%99s-presidential-primaries|access-date=18 December 2017|work=Buenos Aires Herald|date=7 July 2017}}</ref>
+
+==Presidential candidates==
+These candidates officially registered their candidacies before the national election authority (Servel), either directly, or via a primary election victory. All candidacies were accepted (met legal requirements) by the Servel on September 1, 2017<ref>{{cite web|url=https://www.servel.cl/servel-publicara-manana-las-resoluciones-de-aceptacion-y-rechazo-de-casi-3-mil-candidaturas-para-las-elecciones-2017/|title=Servel publica aceptaciones y rechazos de candidaturas para Elecciones 2017 – Servicio Electoral de Chile|website=www.servel.cl}}</ref> and were officially registered on September 12, 2017, after no legal challenges were raised.<ref>{{cite web|url=https://www.servel.cl/servel-inscribe-en-los-registros-especiales-a-los-candidatos-para-las-elecciones-2017/|title=Servel inscribe en los Registros Especiales a los candidatos para las Elecciones 2017 – Servicio Electoral de Chile|website=www.servel.cl}}</ref>
+{| class="wikitable"
+|-
+! style="width: 15em" | Candidate !! style="width: 20em" | Endorsement
+!Ideology
+|-
+| [[File:Eduardo Artés headshot.jpg|75px|left]]<br/>'''[[Eduardo Artés]]'''<br /><small>[[Patriotic Union (Chile)|Patriotic Union]]</small> ||[[File:UPAUniónPatriótica.png|25px]] [[Patriotic Union (Chile)|Patriotic Union]]
+| {{plainlist|* [[Communism]]
+* [[Marxism–Leninism]]}}
+|-
+| [[File:Marco_Enríquez-Ominami_2018_(4x3).jpg|75px|left]]<br/>'''[[Marco Enríquez-Ominami]]'''<br /><small>[[Progressive Party (Chile)|Progressive Party]]</small> || [[File:Emblema Partido Progresista Chile (2013).svg|50px]] [[Progressive Party (Chile)|Progressive Party]]
+| | {{plainlist|* [[Democratic socialism]]
+* [[Progressivism]]}}
+|-
+| [[File:Carolina Goić Borojević.jpg|75px|left]]<br/>'''[[Carolina Goic]]'''<br /><small>[[Christian Democratic Party (Chile)|Christian Democratic Party]]</small> || [[File:Flag of the Christian Democrat Party of Chile.svg|50px]] [[Christian Democratic Party (Chile)|Christian Democratic Party]]
+| 
+|-
+| [[File:Alejandro Guillier - Población Manuel Bustos, Valparaíso (2017) (cropped).jpg|75px|left]]<br/>'''[[Alejandro Guillier]]'''<br /><small>Independent</small> || [[File:Logo de la Nueva Mayoría.svg|50px]] [[New Majority (Chile)|The Force of the Majority]]:
+* [[File:Mas-Region.png|22px]] [[MAS Region]]
+* [[File:Partido Comunista de Chile.svg|22px]] [[Communist Party of Chile|Communist Party]]
+* [[File:Izquierda Ciudadana.png|22px]] [[Citizen Left]]
+* [[File:Partido por la Democracia emblema.png|22px]] [[Party for Democracy (Chile)|Party for Democracy]]
+* [[File:Partido Radical Socialdemócrata logo.jpg|22px]] [[Social Democrat Radical Party]]
+* [[File:Emblem of the Socialist Party of Chile.svg|22px]] [[Socialist Party of Chile|Socialist Party]]
+Independent electors
+| 
+|-
+| [[File:José_Antonio_Kast_Rist.jpg|75px|left]]<br/>'''[[José Antonio Kast]]'''<br /><small>Independent</small> || Independent electors
+| {{plainlist|* [[Conservatism]]
+* [[Right-wing populism]]}}
+|-
+| [[File:Senador_Navarro.jpg|75px|left]]<br/>'''[[Alejandro Navarro (politician)|Alejandro Navarro]]'''<br /><small>[[País]]</small> || [[File:Pais partido.png|50px]] [[País]]
+| 
+|-
+| [[File:Piñera (2010).jpg|75px|left]]<br/>'''[[Sebastián Piñera]]'''<br /><small>Independent</small> || [[File:Chile Vamos.png|50px]] [[Chile Vamos]]:
+*[[Political Evolution]]
+*[[File:PRI Chile 2015.PNG|25px]] [[Independent Regionalist Party]]
+*[[File:Renovacion Nacional 2014.svg|25px]] [[National Renewal (Chile)|National Renewal]]
+*[[File:UDI 2017.svg|25px]] [[Independent Democratic Union]]
+[[File:Amplitud (corto) 2017.png|25px]] [[Amplitude (political party)|Amplitude]]
+| 
+|-
+| [[File:Beatriz_S%C3%A1nchez_(27784829811)_(cropped).jpg|75px|left]]<br/>'''[[Beatriz Sánchez (journalist)|Beatriz Sánchez]]'''<br /><small>Independent</small> ||[[Broad Front (Chilean political coalition)|Broad Front (Frente Amplio)]]:
+*[[File:Partido Humanista (corto).svg|25px]] [[Humanist Party (Chile)|Humanist Party]]
+*[[File:Logo nuevo Partido Liberal de Chile.png|25px]] [[Liberal Party (Chile, 2007–)|Liberal Party]]
+*[[File:Revolucion Democratica.png|25px]] [[Democratic Revolution]]
+*[[File:Poder Ciudadano.png|25px]] [[Power (political party)|Power]]
+* [[Green Ecologist Party (Chile)|Green Ecologist Party]]
+*[[File:Partido Igualdad.png|25px]] [[Equality Party (Chile)|Equality Party]]
+| 
+|}
+
+===Chile Vamos===
+====Nominee====
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| colspan="27" style="background:#f1f1f1;" |
+[[File:Chile Vamos Piñera.png|65px|center|link=Chile Vamos]]<big>'''2017 Chile Vamos Candidate'''</big>
+|-
+! style=" font-size:135%; background:#065DA8; width:200px;"|{{colored link|white|Sebastián Piñera}} 
+|- style="color:#000; font-size:100%; background:lightblue;"
+| style=" width:200px;"|'''''for President'''''
+|-
+| [[File:Sebastian Pinera (2010) 4x3 cropped.jpg|center|200x200px|border]]
+|-
+| [[President of Chile]]<br /><small>(2010–2014)</small>
+|-
+|
+|-
+| [[File:Logo Piñera Presidente.svg|center|275px]]
+|-
+|<!-- PIÑERA--><ref name="BAH_prim" /><ref name="servelprimary">{{cite web |url=https://www.servel.cl/wp-content/uploads/2017/07/1_1_Primarias_Presidente.pdf |title=<nowiki>Results
+of the Primary elections 2017 for President of the
+Republic</nowiki> |website=www.servel.cl |access-date=31 May 2019 |archive-date=31 May 2019 |archive-url=https://web.archive.org/web/20190531214937/https://www.servel.cl/wp-content/uploads/2017/07/1_1_Primarias_Presidente.pdf |url-status=dead }}</ref>
+|}
+
+====Candidates====
+{{Main|Chile Vamos presidential primary, 2017}}
+The former president was proclaimed as candidate by the [[Independent Regionalist Party]] on 17 December 2016,<ref>{{cite web|url=http://www.t13.cl/noticia/politica/pri-proclama-a-sebastian-pinera-como-su-principal-carta-de-cara-a-las-proximas-presidenciales|title=PRI proclama a Sebastián Piñera como su principal carta de cara a las próximas presidenciales|publisher=T13}}</ref> by the [[Independent Democratic Union]] on 24 March 2017,<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2017/03/24/851147/UDI-proclama-a-Pinera-con-el-llamado-a-superar-el-estancamiento-economico-y-social-que-vive-Chile.html |title=UDI proclama a Piñera con el llamado a superar el "estancamiento económico y social" que vive Chile |publisher=Emol.com |date=24 March 2017 |access-date=27 April 2017}}</ref> and two days later by his former party, [[National Renewal (Chile)|National Renewal]].<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2017/03/25/851241/Sebastian-Pinera-fue-proclamado-por-RN-y-arremetio-contra-gobierno-de-la-Nueva-Mayoria.html |title=Sebastián Piñera fue proclamado por RN y arremetió contra gobierno de Bachelet |publisher=Emol.com |date=25 March 2017 |access-date=27 April 2017}}</ref> On 2 July 2017 Sebastián Piñera won the Chile Vamos primary, thereby officially becoming a presidential candidate. On 8 July 2017, [[Amplitude (political party)|Amplitude]] —a party that is not member of Chile Vamos— proclaimed him as its candidate.<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2017/07/08/866075/Amplitud-proclama-a-Pinera-como-su-candidato-a-La-Moneda-y-marca-diferencias-con-Chile-Vamos.html|title=Amplitud proclama a Piñera como su candidato a La Moneda y marca diferencias con Chile Vamos |work=El Mercurio|date=8 July 2017}}</ref> On 6 August 2017, [[Political Evolution]], which had supported [[Felipe Kast]] during the primaries, officially joined Piñera's campaign team.<ref>{{cite web|url=http://lanacion.cl/2017/08/06/evopoli-se-sumo-al-comando-de-pinera-y-le-entrego-su-programa-de-gobierno/|title=Evópoli se sumó al comando de Piñera y le entregó su programa de gobierno|first=Ricardo |last=Pérez Vallejos|access-date=6 September 2017|archive-date=6 September 2017|archive-url=https://web.archive.org/web/20170906140103/http://lanacion.cl/2017/08/06/evopoli-se-sumo-al-comando-de-pinera-y-le-entrego-su-programa-de-gobierno/|url-status=dead}}</ref>
+
+Sebastián Piñera won the primary with 58% of the vote.<ref name="servelprimary" />
+{| class="wikitable"
+|-<sup>†</sup>
+| colspan="5" style="text-align:center; font-size:120%; color:white; background:#065DA8;"|''Candidates in this section are sorted by reverse date of withdrawal from the primary''
+|-
+! scope="col" style="width:3em; font-size:120%;|[[Manuel José Ossandón]] (Ind-[[National Renewal (Chile)|RN]])
+! scope="col" style="width:3em; font-size:120%;"|[[Felipe Kast]] ([[Political Evolution|Evopoli]])
+! scope="col" style="width:3em; font-size:120%;"|[[Alberto Espina]] ([[National Renewal (Chile)|RN]])
+! scope="col" style="width:3em; font-size:120%;"|[[Francisco Chahuán]] ([[National Renewal (Chile)|RN]])
+! scope="col" style="width:3em; font-size:120%;"|Francisco de la Maza ([[Independent Democratic Union|UDI]])
+|-
+|[[File:Manuel José Ossandón Irarrázabal.jpg|center|120x120px]]
+|[[File:Felipe José Kast Sommerhoff.jpg|center|120x120px]]
+|[[File:Alberto Espina Otero.jpg|center|120x120px]]
+|[[File:Francisco Chahuán Chahuán.jpg|center|120x120px]]
+|[[File:Blank.png|center|120x120px]]
+|- style="text-align:center"
+|[[Senate of Chile|Senator]]<br />from [[Santiago Metropolitan Region]]<br /><small>(2014–''present'')</small>
+|[[Chamber of Deputies of Chile|Deputy]]<br />from [[Santiago (commune)|Central Santiago]]<br /><small>(2014–2018)</small>
+|[[Senate of Chile|Senator]]<br />from [[Araucanía Region|Araucanía]]<br /><small>(2002–2018)</small>
+|[[Senate of Chile|Senator]]<br />from [[Valparaíso Region]]<br /><small>(2010–''present'')</small>
+|[[Las Condes, Chile|Mayor of Las Condes]]<br /><small>(2000–2016)</small>
+|- style="text-align:center"
+|''{{abbr|LN|lost nomination}}: 2 July 2017''<br /><small>'''372,215''' votes</small>
+|''{{abbr|LN|lost nomination}}: 2 July 2017''<br /><small>'''218,489''' votes</small>
+|''{{abbr|W|withdrew}}: 21 March 2017''
+|''{{abbr|W|withdrew}}: 6 March 2017''
+|''{{abbr|W|withdrew}}: 11 September 2016''
+|- style="text-align:center"
+|<ref>{{cite web|url=http://www.adnradio.cl/noticias/nacional/manuel-jose-ossandon-tome-la-decision-de-participar-en-las-primaria-de-chile-vamos/20161105/nota/3294852.aspx|title=Manuel José Ossandón: "Tomé la decisión de participar en las primaria de Chile Vamos"|work=ADN Radio|date=2016-11-06|access-date=31 May 2019|archive-date=31 May 2019|archive-url=https://web.archive.org/web/20190531214938/http://www.adnradio.cl/noticias/nacional/manuel-jose-ossandon-tome-la-decision-de-participar-en-las-primaria-de-chile-vamos/20161105/nota/3294852.aspx|url-status=dead}}</ref><ref name="servelprimary" />
+|<ref>{{cite web |url=http://www.latercera.com/noticia/felipe-kast-asume-desafio-presidencial-representando-evopoli/ |title=Felipe Kast asume desafío presidencial representando a Evópoli |work=La Tercera |date=2016-11-06}}</ref><ref name="servelprimary" />
+|<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2016/09/14/822072/Chahuan-Lo-peor-que-nos-puede-pasar-es-el-sindrome-del-llanero-solitario-en-primera-vuelta.html|title=Chahuán y carrera a La Moneda: "Voy a ser el candidato a la Presidencia de las regiones"|work=Emol.com|date=2016-09-14}}</ref><ref>{{cite web|url=http://www.latercera.com/noticia/francisco-chahuan-baja-candidatura-presidencial-pide-rn-respaldar-pinera/|title=Francisco Chahuán baja candidatura presidencial y pide a RN respaldar a Piñera|work=La Tercera|date=2017-01-06}}</ref>
+|<ref>{{cite web |url=http://www.biobiochile.cl/2013/12/04/alberto-espina-rn-comunica-su-deseo-de-ser-candidato-presidencial-en-2017.shtml |title=Alberto Espina (RN) comunica su deseo de ser candidato presidencial en 2017 |work= Bio Bio Radio |date=2013-12-04}}</ref><ref>{{cite web |url=https://twitter.com/albertoespina/status/844370709954662401 |title=Alberto Espina in Twitter |date=2017-03-21 }}</ref>
+|<ref>{{cite web|url=https://www.cooperativa.cl/noticias/pais/politica/municipales/francisco-de-la-maza-tras-bajar-candidatura-me-gustaria-ser-presidente/2016-07-26/130633.html|title=Francisco de la Maza tras bajar candidatura: Me gustaría ser Presidente de Chile|work=Cooperativa|date=2016-07-26}}</ref><ref>{{cite web|url=http://www.cnnchile.com/noticia/2016/09/11/francisco-de-la-maza-no-tengo-el-animo-ni-la-ambicion-para-ser-candidato-presidencial|title=Francisco de la Maza: "No tengo el ánimo ni la ambición para ser candidato presidencial"|work=CNN Chile|date=2016-09-11}}</ref>
+|}
+
+===The Force of the Majority===
+====Presidential nominee====
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| colspan="27" style="background:#f1f1f1;" |
+[[File:La Fuerza de la Mayoria (corto).png|65px|center|link=New Majority (Chile)]]<big>'''2017 The Force of the Majority Candidate'''</big>
+|-
+! style=" font-size:135%; background:#FC4143; width:200px;"|{{colored link|white|Alejandro Guillier}} 
+|- style="color:#000; font-size:100%; background:#ffd0d7;"
+| style=" width:200px;"|'''''for President'''''
+|-
+| [[File:Alejandro Guillier (2017) 4x3 cropped image.jpg|center|200x200px|border]]
+|-
+| [[Chilean Senate|Senator]] <br /> from [[Antofagasta Region]]<br /><small>(2014–''present'')</small>
+|-
+|
+|-
+| [[File:Logo Alejandro Guillier 2017.png|center|275px]]
+|-
+|<!-- GUILLIER--><ref name="emol">{{cite web|url=http://www.emol.com/noticias/Nacional/2017/08/04/869790/Guillier-inscribe-su-candidatura-ante-el-Servel-tras-reunir-mas-de-60-mil-firmas.html|title=Guillier inscribe su candidatura ante el Servel: "Hemos cumplido con el doble de las firmas requeridas" |work=El Mercurio|date=4 August 2017}}</ref><ref name="servel">{{cite web|url=https://www.servel.cl/servel-recibe-declaracion-de-candidatura-de-alejandro-guillier-para-las-elecciones-2017/|title=Servel recibe declaración de candidatura de Alejandro Guillier para la elección presidencial 2017 – Servicio Electoral de Chile|website=www.servel.cl}}</ref><ref name="elecciones_2017">{{cite web|url=https://www.servel.cl/elecciones-2017-tendran-ocho-candidatos-presidenciales/|title=Elecciones 2017 tendrán ocho candidatos presidenciales – Servicio Electoral de Chile|website=www.servel.cl}}</ref>
+|}
+
+====Candidates====
+{{Main|New Majority presidential primary, 2017}}
+Alejandro Guillier was proclaimed by the [[Social Democrat Radical Party]] as candidate on 7 January 2017.<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2017/01/07/838993/Guillier-es-proclamado-por-el-PR-y-se-convierte-en-el-primer-candidato-oficial-de-un--partido-de-la-NM.html |title=Guillier es proclamado por el PR y se convierte en el primer candidato oficial de un partido de la NM |publisher=Emol.com |access-date=27 April 2017}}</ref> On 9 April 2017 he was chosen by the Socialist Party's Central Committee as its candidate after a secret election in which he beat former president Ricardo Lagos by nearly two-thirds of the vote;<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2017/04/09/853454/Comite-Central-del-Partido-Socialista-elige-a-Guillier-como-su-candidato-presidencial-por-amplia-mayoria.html |title=Comité Central del Partido Socialista elige a Guillier como su candidato presidencial por amplia mayoría |publisher=Emol.com |access-date=27 April 2017}}</ref> he was proclaimed as candidate by that party on 21 April 2017.<ref>{{cite web|url=http://www.biobiochile.cl/noticias/nacional/chile/2017/04/21/partido-socialista-proclama-a-guillier-como-candidato-presidencial.shtml |title=Partido Socialista proclama a Guillier como candidato presidencial |date=21 April 2017 |publisher=Biobiochile.cl |access-date=27 April 2017}}</ref> On 7 May 2017, the [[Communist Party of Chile|Communist Party]] proclaimed him as their candidate.<ref>{{cite web|url=http://www.biobiochile.cl/noticias/nacional/chile/2017/05/07/partido-comunista-proclama-a-alejandro-guillier-como-candidato-presidencial.shtml|title=Partido Comunista proclama a Alejandro Guillier como candidato presidencial|work=BioBioChile |date=7 May 2017}}</ref> On 13 May 2017 the [[Party for Democracy (Chile)|Party for Democracy]] unanimously proclaimed him as their candidate in a show of hands.<ref>{{cite web|url=http://www.biobiochile.cl/noticias/nacional/chile/2017/05/13/ppd-proclama-a-guillier-como-su-candidato-presidencial-en-consejo-nacional.shtml|title=Guillier se convierte en presidenciable del PPD en medio de reticencia del "Laguismo"|work=BioBioChile|date=13 May 2017}}</ref> As the New Majority coalition failed to organize a primary and Guillier decided to stay as an independent, he was forced to collect thousands of signatures in order to compete.<ref>{{cite web|url=https://www.cooperativa.cl/noticias/pais/politica/elecciones/alejandro-guillier-juntara-firmas-para-llegar-a-primera-vuelta-como/2017-04-30/213553.html|title=Alejandro Guillier juntará firmas para llegar a primera vuelta como independiente|work=Compañia Chilena de Comunicaciones}}</ref> On 4 August 2017 he officially registered his candidacy before the Servel, presenting 61,403 signatures, more than the 33 thousand needed to register an independent candidacy.<ref name="emol" /><ref name="servel" /><ref name="elecciones_2017" />
+{| class="wikitable"
+|-<sup>†</sup>
+| colspan="8" style="text-align:center; font-size:120%; color:white; background:#FC4143;"|''Candidates in this section are sorted by reverse date of withdrawal from the failed primaries''
+|-
+! scope="col" style="width:3em; font-size:120%;|''[[Carolina Goic]] ([[Christian Democratic Party (Chile)|PDC]])'' 
+! scope="col" style="width:3em; font-size:120%;"|[[Ricardo Lagos]] ([[Party for Democracy (Chile)|PPD]])
+! scope="col" style="width:3em; font-size:120%;"|[[Fernando Atria]] ([[Socialist Party of Chile|PS]])
+! scope="col" style="width:3em; font-size:120%;"|[[José Miguel Insulza]] ([[Socialist Party of Chile|PS]])
+! scope="col" style="width:3em; font-size:120%;"|[[Francisco Huenchumilla]] ([[Christian Democratic Party (Chile)|PDC]])
+! scope="col" style="width:3em; font-size:120%;"|[[Jorge Tarud]] ([[Party for Democracy (Chile)|PPD]])
+! scope="col" style="width:3em; font-size:120%;"|[[Ignacio Walker]] ([[Christian Democratic Party (Chile)|PDC]])
+! scope="col" style="width:3em; font-size:120%;"|[[Isabel Allende (politician)|Isabel Allende]] ([[Socialist Party of Chile|PS]])
+|-
+|[[File:Carolina Goic 2011 4x3 cropped.jpg|center|120x120px]]
+|[[File:Ricardo Lagos (45777830295) (cropped).jpg|center|120x120px]]
+|[[File:Blank.png|center|120x120px]]
+|[[File:José Miguel Insulza Salinas.jpg|center|120x120px]]
+|[[File:Francisco Huenchumilla - Intendente Región de la Araucanía.jpg|center|120x120px]]
+|[[File:Jorge Tarud Daccarett.jpg|center|120x120px]]
+|[[File:Ignacio Walker Prieto.jpg|center|120x120px]]
+|[[File:María Isabel Allende Bussi.jpg|center|120x120px]]
+|- style="text-align:center"
+|[[Senate of Chile|Senator]]<br />from [[Magallanes Region|Magallanes]]<br /><small>(2014–''present'')</small>
+|[[President of Chile]]<br /><small>(2000–2006)</small>
+|[[University of Chile|University of Chile<br />Law professor]]<br /><small>(2011–''present'')</small>
+|[[Secretary General of the Organization of American States]]<br /><small>(2005–2015)</small>
+|[[Araucanía Region|Intendant of Araucanía]]<br /><small>(2014–2015)</small>
+|[[Chamber of Deputies of Chile|Deputy]]<br />from [[Maule Region|South Maule]]<br /><small>(2002–2018)</small>
+|[[Senate of Chile|Senator]]<br />from [[Valparaíso Region]]<br /><small>(2010–2018)</small>
+|[[Senate of Chile|Senator]]<br />from [[Atacama Region|Atacama]]<br /><small>(2010–''present'')</small>
+|- style="text-align:center"
+|''{{abbr|W|withdrew}}: 29 April 2017''<br /><small>'''Announced to run directly as PDC nominee'''</small>
+|''{{abbr|W|withdrew}}: 10 April 2017''
+|''{{abbr|W|withdrew}}: 1 April 2017''
+|''{{abbr|W|withdrew}}: 1 April 2017''
+|''{{abbr|W|withdrew}}: 5 February 2017''
+|''{{abbr|W|withdrew}}: 14 January 2017''
+|''{{abbr|W|withdrew}}: 3 December 2016''
+|''{{abbr|W|withdrew}}: 28 October 2016''
+|- style="text-align:center"
+|<ref>{{cite news|title=Chile's governing coalition splits ahead of November election|url=https://www.reuters.com/article/us-chile-politics-idUSKBN17W028?il=0|access-date=30 April 2017|work=Reuters|date=29 April 2017}}</ref>
+|<ref>{{cite web|url=http://www.cooperativa.cl/noticias/pais/politica/presidenciales/ppd-proclamo-a-ricardo-lagos-como-su-candidato/2017-01-13/232619.html |title=PPD proclamó a Ricardo Lagos como su candidato |publisher=Cooperativa.cl |access-date=2017-04-27}}</ref><ref>{{cite web|author=10:35 hrs. Lunes 10, Abril 2017 |url=http://www.t13.cl/noticia/politica/ricardo-lagos-depone-candidatura-presidencial |title=Ricardo Lagos renuncia a candidatura presidencial &#124; Tele 13 |publisher=T13.cl |date=2017-04-10 |access-date=2017-04-27}}</ref>
+|<ref name= "Atriainsulza">{{cite web |url=http://www.eldinamo.cl/nacional/2017/04/01/fernando-atria-se-suma-a-insulza-baja-su-candidatura-tras-decision-del-ps-de-no-realizar-consulta/ |title=Fernando Atria se suma a Insulza: baja su candidatura tras decisión del PS de no realizar consulta |work=El Dínamo |date=1 April 2017 |access-date=1 April 2017}}</ref>
+|<ref name= "Atriainsulza" />
+|<ref name="Huenchumilla">{{cite web |url=http://www.theclinic.cl/2016/02/03/pizarro-propone-como-candidato-presidencial-a-huenchumilla/ |title=Pizarro propone como candidato presidencial a Huenchumilla |work=[[The Clinic (newspaper)|The Clinic]] |date=2016-02-03 }}</ref>
+|<ref>{{cite web|url=http://www.biobiochile.cl/noticias/nacional/chile/2016/10/21/jorge-tarud-lanza-video-y-oficializa-candidatura-presidencial-tengo-las-manos-limpias.shtml|title=Diputado Tarud lanza video y oficializa precandidatura presidencial: "Tengo las manos limpias"|work=Bío Bío|date=2016-10-12}}</ref>
+|<ref>{{cite web|url=https://www.cooperativa.cl/noticias/pais/politica/democracia-cristiana/senador-walker-bajo-candidatura-presidencial-no-estan-dadas-las/2016-12-03/110252.html|title=Senador Walker bajó candidatura presidencial: "No están dadas las condiciones"|work=Cooperativa|date=2016-12-03}}</ref>
+|<ref>{{cite web|url=http://www.latercera.com/noticia/isabel-allende-anuncia-desiste-candidatura-presidencial/|title=Isabel Allende desiste de candidatura presidencial, pero no entrega apoyo a Lagos|work=La Tercera|date=2016-10-28}}</ref>
+|}
+
+===Broad Front===
+====Nominee====
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| colspan="27" style="background:#f1f1f1;" |
+[[File:Frente Amplio (Texto).svg|65px|center|link=Broad Front (Chilean political coalition)]]<big>'''2017 Broad Front Candidate'''</big>
+|-
+! style=" font-size:135%; background:#0BB771; width:200px;"|{{colored link|white|Beatriz Sánchez (journalist)|Beatriz Sánchez}} 
+|- style="color:#000; font-size:100%; background:lightgreen;"
+| style=" width:200px;"|'''''for President'''''
+|-
+| [[File:Beatriz Sánchez (2016) 4x3 cropped.jpg|center|200x200px|border]]
+|-
+| TV and Radio <br /> [[Journalist]]
+|-
+|
+|-
+| 
+|-
+|<!-- SÁNCHEZ--><ref name="sanchezcandidatura" >{{cite web|url=http://www.latercera.com/noticia/beatriz-sanchez-oficializa-candidatura-ante-tricel-fuertes-criticas-pinera/|title=Beatriz Sánchez oficializa candidatura ante el Tricel con fuertes críticas a Piñera|date=24 July 2017}}</ref><ref name="servelprimary" />
+|}
+
+====Candidates====
+{{Main|Broad Front (Chile) presidential primary, 2017}}
+The journalist announced on 21 March 2017 during her own radio show that she was quitting her job to think about the possibility of running for president.<ref>{{cite web|author=hrs. Martes 21, Marzo 2017 |url=http://www.t13.cl/noticia/politica/beatriz-sanchez-deja-espacio-radial-analizar-candidatura-presidencial |title=Beatriz Sánchez deja espacio radial para analizar candidatura &#124; Tele 13 |publisher=T13.cl |date=21 March 2017 |access-date=27 April 2017}}</ref> On 31 March 2017 she gained the official support from both [[Democratic Revolution]] and [[Autonomist Movement]].<ref>{{cite web|url=http://radio.uchile.cl/2017/03/31/rd-y-movimiento-autonomista-confirman-a-beatriz-sanchez-como-abanderada-presidencial/ |title=RD y Movimiento Autonomista confirman a Beatriz Sánchez como abanderada presidencial « Diario y Radio Uchile |publisher=Radio.uchile.cl |access-date=27 April 2017}}</ref> She launched her candidacy on 3 April 2017 at a rally near [[Plaza Baquedano]] in [[Santiago]].<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2017/04/03/852503/Beatriz-Sanchez-lanza-oficialmente-su-carrera-presidencial-y-presenta-equipo-de-campana.html |title=Beatriz Sánchez lanza oficialmente su carrera presidencial y presenta equipo de campaña |publisher=Emol.com |access-date=27 April 2017}}</ref> On 16 April 2017 she was proclaimed as candidate by the [[Humanist Party (Chile)|Humanist Party]],<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2017/04/16/854410/P-Humanista-proclama-a-Beatriz-Sanchez-como-su-carta-presidencial-y-candidata-asegura-que-pasara-a-segunda-vuelta.html |title=P. Humanista proclama a Beatriz Sánchez como su carta presidencial y candidata asegura que pasará a segunda vuelta |publisher=Emol.com |date=16 April 2017 |access-date=27 April 2017}}</ref> and on 23 April 2017 the [[Libertarian Left (Chile)|Libertarian Left]] gave her its support.<ref>{{cite web|url=http://www.24horas.cl/politica/izquierda-libertaria-oficializa-a-beatriz-sanchez-como-su-candidata-presidencial-2363106|title=Izquierda Libertaria oficializa a Beatriz Sánchez como su candidata presidencial|work=24Horas.cl|date=23 April 2017}}</ref> On 9 May 2017 she was proclaimed as candidate by the [[Poder]] party,<ref>{{cite web|url=http://www.biobiochile.cl/noticias/nacional/chile/2017/05/09/beatriz-sanchez-suma-el-apoyo-de-poder-ciudadano-y-fa-minimiza-criticas-de-guillier-y-nm.shtml|title=Beatriz Sánchez suma el apoyo de Poder Ciudadano y FA minimiza críticas de Guillier|work=BioBioChile |date=9 May 2017}}</ref> and four days later by the [[Progressive Democratic Movement]].<ref>{{cite web|url=https://www.facebook.com/MDProgresista/posts/1901275033481214|title=Movimiento Democrático Progresista|website=www.facebook.com}}</ref> On 14 May 2017 the [[Autonomous Left]] proclaimed her as their candidate.<ref>{{cite web|url=https://www.cooperativa.cl/noticias/pais/politica/presidenciales/izquierda-autonoma-proclamo-a-beatriz-sanchez-como-su-candidata/2017-05-14/190119.html#vtxt_cuerpo_T0|title=Izquierda Autónoma proclamó a Beatriz Sánchez como su candidata presidencial|work=Compañia Chilena de Comunicaciones}}</ref> On 29 May 2017 the [[Liberal Party of Chile (2013)|Liberal Party]] proclaimed her as their candidate,<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2017/05/29/860527/Partido-Liberal-proclama-a-Beatriz-Sanchez-como-su-abanderada-presidencial.html|title=Partido Liberal proclamó a Beatriz Sánchez como su abanderada presidencial |work=El Mercurio|date=29 May 2017}}</ref> while on 6 June 2017, the [[Green Ecologist Party]] did the same.<ref>{{cite web|url=http://www.ecologistas.cl/2017/06/06/partido-ecologista-verde-apoyara-a-beatriz-sanchez-en-primarias/|title=Partido Ecologista Verde apoyará a Beatriz Sánchez en primarias|access-date=12 July 2017|archive-date=11 August 2017|archive-url=https://web.archive.org/web/20170811144536/http://www.ecologistas.cl/2017/06/06/partido-ecologista-verde-apoyara-a-beatriz-sanchez-en-primarias/|url-status=dead}}</ref> On 2 July 2017 she won the Broad Front primary with nearly 68% of the vote. Her primary win was officially sanctioned by the Election Court (Tricel) on 24 July 2017 during a ceremony in Santiago.<ref name="sanchezcandidatura" /> On 31 July 2017, Sánchez presented her campaign team, which included members of the [[Equality Party (Chile)|Equality Party]], which had supported her primary opponent, [[Alberto Mayol]].<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2017/07/31/869112/Beatriz-Sanchez-presento-a-su-equipo-politico-Estamos-trabajando-muy-unidos-y-organizados.html|title=Beatriz Sánchez presentó a su comité político y confirmó que integrará al equipo de Mayol |work=El Mercurio|date=31 July 2017}}</ref>
+{| class="wikitable"
+|-<sup>†</sup>
+| colspan="5" style="text-align:center; font-size:120%; color:white; background:#0BB771;"|''Candidates in this section are sorted by reverse date of withdrawal from the primary''
+|-
+! scope="col" style="width:3em; font-size:120%;|[[Alberto Mayol]] (Ind.)
+! scope="col" style="width:3em; font-size:120%;"|Luis Mariano Rendón (Ind-Pirate)
+! scope="col" style="width:3em; font-size:120%;"|Claudia Sanhueza ([[Democratic Revolution|RD]])
+! scope="col" style="width:3em; font-size:120%;"|[[Sebastián Depolo]] ([[Democratic Revolution|RD]])
+! scope="col" style="width:3em; font-size:120%;"|Luis Mesina (Ind.)
+|-
+|[[File:Mayol, Alberto -FILSA 20171104 fRF03.jpg|center|120x120px]]
+| 
+|[[File:Blank.png|center|120x120px]]
+|[[File:Blank.png|center|120x120px]]
+|
+|- style="text-align:center"
+|[[University of Santiago, Chile|USACH]] Management<br /> and Public Policies professor<br /><small>(2013–''present'')</small>
+|Chair of the<br />[[Ecological Action Network (Chile)|Ecological Action Network]]
+|[[Diego Portales University|UDP]] <br />[[Economics]] professor
+|Leader of<br />[[Democratic Revolution]]<br /><small>(2015–2016)</small>
+|Chair of <br />[[No+AFP Workers Cordinator]]<br /><small>(2016–''present'')</small>
+|- style="text-align:center"
+|''{{abbr|LN|lost nomination}}: 2 July 2017''<br /><small>'''106,300''' votes</small>
+|''{{abbr|V|vetoed}}: 13 April 2017''
+|''{{abbr|W|withdrew}}: 21 March 2017''
+|''{{abbr|W|withdrew}}: 21 March 2017''
+|''{{abbr|W|withdrew}}: 10 January 2017''
+|- style="text-align:center"
+|<ref>{{cite web |url=http://www.biobiochile.cl/noticias/nacional/chile/2017/03/01/frente-amplio-presenta-su-primer-pre-candidato-presidencial-alberto-mayol.shtml |title=Frente Amplio presenta su primer pre candidato presidencial: Alberto Mayol |work=Bio-Bío |date=2017-03-01}}</ref><ref name="servelprimary" />
+|<ref>{{cite web |url=https://www.cooperativa.cl/noticias/site/artic/20170404/pags/20170404152212.html |title=Los énfasis del programa de Beatriz Sánchez y la preparación de su gira nacional |work=Cooperativa.cl |date=2017-04-04}}</ref><ref>{{cite web |url=http://www.elmostrador.cl/noticias/pais/2017/04/13/comienzan-los-problemas-en-el-frente-amplio-partido-pirata-denuncia-veto-a-candidatura-de-luis-mariano-rendon/ |title=Comienzan los problemas en el Frente Amplio: Partido Pirata denuncia veto a candidatura de Luis Mariano Rendón |work=El Mostrador |date=2017-04-13}}</ref>
+|<ref>{{cite web|url=https://twitter.com/clausanhueza/status/844170981589614592|title=Comparto carta que envié hoy a @RDemocratica|work=twitter.com|date=2017-03-21}}</ref>
+|<ref>{{cite web |url=https://www.pressreader.com/chile/la-tercera/20170303/281681139664286 |title=Alberto Mayol confirma candidatura y se activa carrera presidencial en Frente Amplio |work=La Tercera |date=2017-03-03}}</ref>
+|<ref>{{cite web|url=http://www.latercera.com/noticia/movimientos-ciudadanos-piden-luis-mesina-asumir-candidatura-presidencial/|title=Movimientos ciudadanos piden a Luis Mesina asumir candidatura presidencial|work=La Tercera|date=2017-01-08}}</ref><ref>{{cite web|url=http://www.cnnchile.com/noticia/2017/01/10/luis-mesina-descarto-ser-candidato-presidencial |title=Luis Mesina descartó ser candidato presidencial |work=CNN Chile |date=2017-01-10 }}</ref>
+|}
+
+===Other candidates===
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| style="background:#f1f1f1;" |
+<big>'''Independent Candidate'''</big>
+| style="background:#f1f1f1;" |
+[[File:Emblem of the Christian Democrat Party of Chile.svg|35px|center|link=Christian Democratic Party (Chile)]]<big>'''2017 Christian Democratic Candidate'''</big>
+| style="background:#f1f1f1;" |
+[[File:Emblema Partido Progresista Chile (2013).svg|65px|center|link=Progressive Party (Chile)]]<big>'''2017 Progressive Candidate'''</big>
+| style="background:#f1f1f1;" |
+<big>'''2017 [[Patriotic Union (Chile)|Patriotic Union]] Candidate'''</big>
+| style="background:#f1f1f1;" |
+[[File:Pais partido.png|65px|center|link=País]]<big>'''2017 País Candidate'''</big>
+|-
+! style=" font-size:135%; background:#363636; width:200px;"|{{colored link|white|José Antonio Kast}} 
+! style=" font-size:135%; background:#1E90FF; width:200px;"|{{colored link|white|Carolina Goic}} 
+! style=" font-size:135%; background:#e02385; width:200px;"|{{colored link|white|Marco Enríquez-Ominami}} 
+! style=" font-size:135%; background:#AD3333; width:200px;"|{{colored link|white|Eduardo Artés}} 
+! style=" font-size:135%; background:#B53ED3; width:200px;"|{{colored link|white|Alejandro Navarro (politician)}} 
+|- 
+| style="color:#000; font-size:100%; background:#6e6e6e; width:200px;"|'''''for President'''''
+| style="color:#000; font-size:100%; background:#95E5FF; width:200px;"|'''''for President'''''
+| style="color:#000; font-size:100%; background:#FF95E0; width:200px;"|'''''for President'''''
+| style="color:#000; font-size:100%; background:#DFACAC; width:200px;"|'''''for President'''''
+| style="color:#000; font-size:100%; background:#D895FF; width:200px;"|'''''for President'''''
+|-
+| [[File:José Antonio Kast (2009) 4x3 cropped.jpg|center|200x200px|border]]
+| [[File:Carolina Goic 2011 4x3 cropped.jpg|center|200x200px|border]]
+| [[File:Marco Enríquez-Ominami 2018 (4x3).jpg|center|200x200px|border]]
+| [[File:Eduardo_Artés_2021_-_7_de_octubre_(cropped).jpg|center|200x200px|border]]
+| [[File:Alejandro Navarro 2015 (4x3).jpg|center|200x200px|border]]
+|-
+| [[Chamber of Deputies of Chile|Deputy]] <br /> from [[La Reina, Chile|La Reina]] and [[Peñalolén]]<br /><small>(2002–2018)</small>
+| [[Chilean Senate|Senator]] <br /> from [[Magallanes Region|Magallanes]]<br /><small>(2014–''present'')</small>
+| [[2013 Chilean general election|2013 presidential candidate]]
+| [[Public Education]]<br /> History teacher
+| [[Chilean Senate|Senator]] <br /> from [[Biobío Region|Biobío]]<br /><small>(2014–''present'')</small>
+|-
+|  [[File:JAK Logo 2017.svg|center|150px]]
+|
+|
+|
+|
+|-
+|The current deputy and former UDI party member stated on 8 March 2017 he would not participate in a Chile Vamos primary and would instead collect the necessary signatures needed to become an independent candidate to run directly in the November 2017 election.<ref>{{cite web|url=http://www.cnnchile.com/noticia/2017/03/08/jose-antonio-kast-no-ire-una-primaria-de-chile-vamos-ire-una-primera-vuelta |title=José Antonio Kast" No iré a una primaria de Chile Vamos, iré a una primera vuelta electoral" |language= es |publisher=CNN Chile |access-date=27 April 2017}}</ref> On 18 August 2017 he officially registered his independent candidacy before the Servel, presenting 43,461 signatures.<ref name="servel.cl">{{cite web|url=https://www.servel.cl/servicio-electoral-vive-jornada-de-formalizacion-de-pacto-y-declaraciones-de-candidaturas/|title=Servicio Electoral vive jornada de formalización de pacto y declaraciones de candidaturas – Servicio Electoral de Chile|website=www.servel.cl|access-date=19 August 2017|archive-date=25 November 2021|archive-url=https://web.archive.org/web/20211125000330/https://www.servel.cl/servicio-electoral-vive-jornada-de-formalizacion-de-pacto-y-declaraciones-de-candidaturas/|url-status=dead}}</ref>
+|{{Main|New Majority presidential primary, 2017}}
+The current senator for [[Magallanes y la Antártica Chilena Region|Magallanes]] was proclaimed by the [[Christian Democratic Party (Chile)|Christian Democratic Party]] as candidate on 11 March 2017.<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2017/03/11/848951/Junta-Nacional-de-la-DC-proclama-a-Carolina-Goic-como-su-candidata-presidencial.html |title=Junta Nacional de la DC proclama a Carolina Goic como su candidata presidencial |publisher=Emol.com |access-date=27 April 2017}}</ref> On 29 April 2017, the PDC decided not to participate in a New Majority primary, breaking away from the coalition after 28 years.<ref>{{cite news|title=Chile's governing coalition splits ahead of 29 November election|url=https://www.reuters.com/article/us-chile-politics-idUSKBN17W028?il=0|access-date=30 April 2017|work=Reuters|date=April 2017}}</ref> On 11 May 2017 Goic officially registered her pre-candidacy before the Servel, accompanied by former president [[Eduardo Frei Ruiz-Tagle]].<ref>{{cite web|url=https://www.servel.cl/servel-recibe-primera-declaracion-de-precandidatura-a-eleccion-de-presidente-de-la-republica/|title=Servel recibe primera declaración de precandidatura a Elección de Presidente – Servicio Electoral de Chile|website=www.servel.cl}}</ref> On 19 August 2017 the PDC officially registered her candidacy before the Servel.<ref>{{cite web|url=https://www.servel.cl/partido-democrata-cristiano-efectua-declaracion-de-candidatura-presidencial-de-carolina-goic/|title=Partido Demócrata Cristiano efectúa declaración de candidatura presidencial de Carolina Goic – Servicio Electoral de Chile|website=www.servel.cl}}</ref>
+|The former candidate in the past two presidential elections announced his candidacy on 7 September 2016.<ref>{{cite web|url=http://www.efe.com/efe/america/politica/marco-enriquez-ominami-anuncia-su-tercera-candidatura-a-la-presidencia-de-chile/20000035-3033764 |title=Marco Enríquez Ominami anuncia su tercera candidatura a la Presidencia de Chile &#124; Política &#124; Edición América &#124; Agencia EFE |publisher=Efe.com |date=7 September 2016 |access-date=27 April 2017}}</ref> On 19 May 2017 he officially registered his pre-candidacy before the election authority.<ref>{{cite web|url=https://www.servel.cl/servel-recibe-nueva-declaracion-de-precandidatura-presidencial/|title=Servel recibe nueva declaración de precandidatura presidencial – Servicio Electoral de Chile|website=www.servel.cl}}</ref> On 20 August 2017 his party officially registered his candidacy before the Servel.<ref>{{cite web|url=https://www.servel.cl/elecciones-2017-servel-recibe-formalizacion-de-pacto-y-declaraciones-de-candidaturas/|title=Elecciones 2017: Servel recibe formalización de pacto y declaraciones de candidaturas – Servicio Electoral de Chile|website=www.servel.cl}}</ref>
+|The teacher and president of the [[Patriotic Union (Chile)|Patriotic Union]] was registered before the Servel by his party on 22 July 2017.<ref>{{cite web|url=https://www.servel.cl/servel-recibe-declaracion-de-candidatura-presidencial/|title=Servel recibe declaración de candidatura presidencial – Servicio Electoral de Chile|website=www.servel.cl}}</ref>
+|The current senator for [[Biobío Region|Biobío]] and former [[MAS Region|MAS]] party member announced his intention to run as president on 24 March 2017. He has the support of the newly formed [[País]] party.<ref>{{cite web|url=http://www.latercera.com/noticia/alejandro-navarro-anuncia-candidatura-tome-la-decision-ir-la-presidencial/ |title=Alejandro Navarro anuncia candidatura: "Tomé la decisión de ir a la presidencial" |publisher=La Tercera |date=24 March 2017 |access-date=27 April 2017}}</ref> On 18 August 2017 País officially registered his candidacy before the Servel.<ref name="servel.cl"/>
+|-
+|}
+
+===Unsuccessful candidacies===
+
+*'''[[Carola Canelo]]''' (Ind.): The lawyer and academic announced on 16 November 2016 her intention to run for president.<ref>{{cite web|url=http://www.elmostrador.cl/noticias/pais/2016/11/16/carola-canelo-presenta-su-candidatura-presidencial-las-crisis-son-oportunidades-para-personas-que-tenemos-buena-voluntad-y-valores-humanos/|title=Carola Canelo presenta su candidatura presidencial: "Las crisis son oportunidades para personas que tenemos buena voluntad y valores humanos"|work=El Mostrador}}</ref> On 21 August 2017 —the deadline to register candidacies— the press reported that her official website stated that she had only gathered 6,257 out of the 33,493 signatures needed to register an independent candidacy.<ref>{{Cite web|url=https://www.eldinamo.cl/nacional/2017/08/21/a-carola-canelo-le-faltaron-27-mil-firmas-para-inscribirse-como-candidata-presidencial/|title=A Carola Canelo le faltaron 27 mil firmas para inscribirse como candidata presidencial}}</ref>
+*'''[[Tomás Jocelyn-Holt]]''' (Ind.): The 2013 candidate announced on 7 June 2017, during a television interview, that he was willing to run again as president, representing The Other Chile (''El Otro Chile'') coalition.<ref>{{cite web|url=http://www.24horas.cl/programas/manoamano/tomas-jocelyn-holt-y-su-nueva-aspiracion-presidencial-yo-he-vencido-el-escepticismo-2409184|title=Tomás Jocelyn-Holt y su nueva aspiración presidencial: "Yo he vencido el escepticismo"|work=24Horas.cl|date=7 June 2017}}</ref> However, on 15 August 2017 he said he had failed to gather the required number of signatures to register as an independent candidate though he vowed to run in 2022.<ref>{{cite web|url=http://www.cnnchile.com/noticia/2017/08/15/tomas-jocelyn-holt-no-reunio-las-firmas-para-su-candidatura-pero-anuncia-que-ira|title=Tomás Jocelyn-Holt no reunió las firmas para su candidatura, pero anuncia que irá el 2022|date=15 August 2017}}</ref>
+*'''[[Nicolás Larraín]]''' (Ind.): On 12 December 2016, the television host announced his presidential candidacy.<ref>{{cite web|url=http://www.cooperativa.cl/noticias/entretencion/television/nicolas-larrain-anuncio-su-candidatura-presidencial/2016-12-12/114014.html|title=Nicolás Larraín anunció su candidatura presidencial|work=Compañia Chilena de Comunicaciones}}</ref> On 19 June 2017 he announced he was quitting his candidacy and giving his support to then {{lang|es|[[Chile Vamos]]|italic=no}} primary candidate for [[Evópoli]] [[Felipe Kast]].<ref>{{cite web|url=http://www.latercera.com/noticia/nicolas-larrain-baja-candidatura-se-suma-campana-felipe-kast/|title=Nicolás Larraín baja su candidatura y se suma a campaña de Felipe Kast|date=19 June 2017}}</ref>
+*'''[[Franco Parisi]]''' (Ind.): The former presidential candidate stated on 17 January 2017 he was mulling over the possibility of running again in 2017 after the [[Regional Democracy]] party said it would support him.<ref>{{cite web|url=http://www.emol.com/noticias/Nacional/2017/01/17/840418/Parisi-regresa-a-la-arena-politica-y-evalua-candidatura-La-eleccion-presidencial-esta-extremadamente-liquida.html |title=Parisi regresa a la política y evalúa candidatura: "La elección presidencial está extremadamente líquida" |publisher=Emol.com |date=17 January 2017 |access-date=27 April 2017}}</ref> On 4 August 2017, he put an end to his presidential candidacy, opting instead to compete for a seat in the Senate.<ref>{{cite news|title=Franco Parisi no postulará a la presidencia|url=http://www.cnnchile.com/noticia/2017/08/04/franco-parisi-no-postulara-la-presidencia|access-date=4 August 2017|work=CNN Chile|date=4 August 2017}}</ref>
+*'''[[Luis Riveros]]''' (Ind.): The former rector of the [[University of Chile]] said on 28 October 2016 he was willing to run for president.<ref>{{cite web|url=http://www.cooperativa.cl/noticias/pais/politica/presidenciales/ex-rector-luis-riveros-anuncio-candidatura-presidencial-ciudadana/2016-10-28/161656.html |title=Ex rector Luis Riveros anunció candidatura presidencial "ciudadana" |publisher=Cooperativa.cl |access-date=27 April 2017}}</ref> On 7 April 2017, ''[[La Tercera]]'' daily announced he was stepping out of the race.<ref>{{cite web|url=http://www.latercera.com/noticia/el-bicho-presidencial/|title=El bicho presidencial|date=7 April 2017}}</ref>
+
+==Opinion polling==
+{{main|Opinion polling for the 2017 Chilean general election}}
+
+==Presidential election==
+[[File:23-05-2012 Entrevistas canales de TV Guillier-Piñera.jpg|thumb|The two candidates making it to a second round: Alejandro Guillier (left) and Sebastián Piñera.]]
+
+===Results===
+[[File:2017 Chilean presidential election map by commune.svg|thumb|Presidential election results by commune in the first round (left) and second round (right).]]
+
+{{Election results
+|cand1=[[Sebastián Piñera]]|party1=Independent ([[Chile Vamos]])|votes1=2418540|votes1_2=3796918
+|cand2=[[Alejandro Guillier]]|party2=Independent ([[Nueva Mayoría|The Force of the Majority]])|votes2=1498040|votes2_2=3160628
+|cand3=[[Beatriz Sánchez (journalist)|Beatriz Sánchez]]|party3=Independent ([[Broad Front (Chilean political coalition)|Broad Front]])|votes3=1338037
+|cand4=[[José Antonio Kast]]|party4=Independent|votes4=523375
+|cand5=[[Carolina Goic]]|party5=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes5=387784
+|cand6=[[Marco Enríquez-Ominami]]|party6=[[Progressive Party (Chile)|Progressive Party]]|votes6=376871
+|cand7=[[Eduardo Artés]]|party7=[[Patriotic Union (Chile)|Patriotic Union]]|votes7=33665
+|cand8=[[Alejandro Navarro (politician)|Alejandro Navarro]]|party8=[[País]]|votes8=23968
+|invalid=64504|invalid2=56440
+|blank=38543|blank2=18892
+|electorate=14347288|electorate2=14347288
+|source=First round: [http://www.diariooficial.interior.gob.cl/publicaciones/2017/12/05/41925/01/1314632.pdf Tricel via Diario Oficial]. Second round: [https://www.servel.cl/resultados-definitivos-elecciones-presidencial-parlamentaria-2017/ Tricel via Electoral Service]{{Dead link|date=May 2020 |bot=InternetArchiveBot |fix-attempted=yes }}.
+}}
+
+== Chamber of Deputies election==
+:''Revised provisional results.''
+
+{{Election results
+|image=[[File:Cámara_de_Diputados_de_Chile_elección_2017.svg|270px]][[File:Cámara_de_Diputados_de_Chile_elección_2017_por_pacto.svg|270px]]<br>Distribution by parties (left) and coalitions (right)
+|alliance1=[[Chile Vamos]]|aspan1=5|party1=[[National Renewal (Chile)|National Renewal]]|votes1=1067270|seats1=36
+|party2=[[Independent Democratic Union]]|votes2=957245|seats2=30
+|party3=[[Evópoli]]|votes3=255221|seats3=6
+|party4=[[Independent Regionalist Party]]|votes4=39692|seats4=0
+|atotal5=2319428|aseats5=72
+|alliance6=[[Nueva Mayoría|The Force of the Majority]]|aspan6=5|party6=[[Socialist Party of Chile|Socialist Party]]|votes6=585128|seats6=19
+|party7=[[Party for Democracy (Chile)|Party for Democracy]]|votes7=365988|seats7=8
+|party8=[[Communist Party of Chile|Communist Party]]|votes8=275096|seats8=8
+|party9=[[Radical Party of Chile (2018)|Social Democrat Radical Party]]|votes9=216355|seats9=8
+|atotal10=1442567|aseats10=43
+|alliance11=[[Broad Front (Chilean political coalition)|Broad Front]]|aspan11=7|party11=[[Democratic Revolution]]|votes11=343019|seats11=10
+|party12=[[Humanist Party (Chile)|Humanist Party]]|votes12=253787|seats12=5
+|party13=[[Equality Party (Chile)|Equality Party]]|votes13=129232|seats13=1
+|party14=[[Green Ecologist Party (Chile)|Green Ecologist Party]]|votes14=128629|seats14=1
+|party15=[[Citizen Power (political party)|Citizen Power]]|votes15=87456|seats15=1
+|party16=[[Liberal Party of Chile (2013)|Liberal Party]]|votes16=46605|seats16=2
+|atotal17=988728|aseats17=20
+|alliance18=Democratic Convergence|aspan18=4|party18=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes18=616550|seats18=14|acolor18=dodgerblue
+|party19=[[Citizen Left]]|votes19=14358|seats19=0
+|party20=[[MAS Region]]|votes20=9582|seats20=0
+|atotal21=640490|aseats21=14
+|alliance22=[[All Over Chile]]|aspan22=3|party22=[[Progressive Party (Chile)|Progressive Party]]|votes22=199566|seats22=1|acolor22=#c11469
+|party23=[[País]]|votes23=35469|seats23=0
+|atotal24=235035|aseats24=1
+|alliance25=Green Regionalist Coalition|aspan25=3|party25=[[Social Green Regionalist Federation]]|votes25=94666|seats25=4
+|party26=Patagonian Regional Democracy|votes26=20575|seats26=0
+|atotal27=115241|aseats27=4
+|alliance28=[[Sumemos]]|aspan28=4|party28=[[Amplitude (political party)|Amplitude]]|votes28=61319|seats28=0
+|party29=[[Citizens (Chilean political party)|Citizens]]|votes29=30286|seats29=0
+|party30=[[Everybody (political party)|Everybody]]|votes30=2888|seats30=0
+|atotal31=94493|aseats31=0
+|alliance32=[[Patriotic Union (Chile)|Patriotic Union]]|votes32=51348|seats32=0
+|alliance33=[[Revolutionary Workers Party (Chile)|Revolutionary Workers Party]]|votes33=4663|seats33=0
+|alliance34=Independents|votes34=104717|seats34=1
+|invalid=317742
+|blank=360694
+|source=[https://web.archive.org/web/20161025162111/http://www.servelelecciones.cl/ Servicio Electoral de Chile]
+}}
+
+=== Results by regions ===
+{| class="wikitable" width=100% style="font-size: 95%;"
+! colspan=2 rowspan=2|Pact
+! colspan=3|[[Arica y Parinacota Region|Arica y Parinacota]]
+! colspan=3|[[Tarapacá Region|Tarapacá]]
+! colspan=3|[[Antofagasta Region|Antofagasta]]
+! colspan=3|[[Atacama Region|Atacama]]
+! colspan=3|[[Coquimbo Region|Coquimbo]]
+|-
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+|- align=right
+|bgcolor=#065DA8|
+|align=left|'''[[Chile Vamos|ChV]]'''
+|1
+|15&nbsp;161 || 21,30%
+|bgcolor=lightblue|2
+|bgcolor=lightblue|38&nbsp;789 ||bgcolor=lightblue| 42,99%
+|bgcolor=lightblue|2
+|bgcolor=lightblue|55&nbsp;376 ||bgcolor=lightblue| 34,12%
+|2 
+|28&nbsp;221 || 30,09%
+|bgcolor=lightblue|3
+|bgcolor=lightblue|66&nbsp;050 ||bgcolor=lightblue| 28,44%
+|- align=right
+|bgcolor=#FC4143|
+|align=left|'''[[New Majority (Chile)|LFM]]'''
+|1
+|15&nbsp;957 || 22,42%
+|1
+|27&nbsp;740 || 30,74%
+|1
+|40&nbsp;391 || 24,88%
+|bgcolor=pink|2
+|bgcolor=pink|33&nbsp;922 ||bgcolor=pink| 36,17%
+|2
+|62&nbsp;963 || 27,11%
+|- align=right
+|bgcolor=#00B771|
+|align=left|'''[[Broad Front (Chilean political coalition)|FA]]'''
+|bgcolor=lightgreen|1 
+|bgcolor=lightgreen|27&nbsp;327 ||bgcolor=lightgreen|38,39%
+|0
+|11&nbsp;682 || 12,95%
+|1
+|20&nbsp;630 || 12,71%
+|0
+|10&nbsp;738 || 11,45%
+|0
+|21&nbsp;666 || 9.33%
+|- align=right
+|bgcolor=dodgerblue|
+|align=left| '''[[New Majority (Chile)|CODE]]'''
+|0
+|2&nbsp;416 || 3,39%	
+|0
+|4&nbsp;334 || 4,80%
+|0
+|6&nbsp;369 || 3,92%
+|0
+|4&nbsp;498 || 4,80%
+|1
+|36&nbsp;406 || 15,68%
+|- align=right
+|bgcolor=grey|
+|align=left|'''Others'''
+|0
+|10&nbsp;325||14,60%
+|0
+|7&nbsp;683||8,52%
+|1
+|39&nbsp;553||24,37%
+|1
+|16&nbsp;411||17,49%
+|1
+|45&nbsp;155||19,44%
+|- align=right bgcolor=#DCDCDC
+|colspan=2 align=left|'''Total'''
+|'''3'''
+|'''71&nbsp;186'''||'''100,00%'''
+|'''3'''
+|'''90&nbsp;228'''||'''100,00%'''
+|'''5'''
+|'''162&nbsp;319'''||'''100,00%'''
+|'''5'''
+|'''93&nbsp;790'''||'''100,00%'''
+|'''7'''
+|'''232&nbsp;240'''||'''100,00%'''
+|-
+! colspan=2 rowspan=2|Pact
+! colspan=3|[[Valparaíso Region|Valparaíso]]
+! colspan=3|[[Santiago Metropolitan Region|Santiago MR]]
+! colspan=3|[[O'Higgins Region|O'Higgins]]
+! colspan=3|[[Maule Region|Maule]]
+! colspan=3|[[Biobío (region)|Biobío]]
+|-
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+|- align=right
+|- align=right
+|bgcolor=#065DA8|
+|align=left|'''[[Chile Vamos|ChV]]'''
+|bgcolor=lightblue|7
+|bgcolor=lightblue|243&nbsp;462||bgcolor=lightblue| 37,99%
+|bgcolor=lightblue|22
+|bgcolor=lightblue|1&nbsp;000&nbsp;021||bgcolor=lightblue| 40,47%
+|bgcolor=lightblue|5
+|bgcolor=lightblue|121&nbsp;148||bgcolor=lightblue| 38,13%
+|bgcolor=lightblue|6
+|bgcolor=lightblue|159&nbsp;605||bgcolor=lightblue| 43,74%
+|bgcolor=lightblue|8
+|bgcolor=lightblue|277&nbsp;900||bgcolor=lightblue| 38,54%
+|- align=right
+|bgcolor=#FC4143|
+|align=left|'''[[New Majority (Chile)|LFM]]'''
+|4
+|140&nbsp;074 || 21,86%
+|12
+|552&nbsp;307 || 22,35%
+|2
+|75&nbsp;069 || 23,63%
+|2
+|76&nbsp;966 || 21,09%
+|6
+|194&nbsp;890 || 27,03%
+|- align=right
+|bgcolor=#00B771|
+|align=left|'''[[Broad Front (Chilean political coalition)|FA]]'''
+|3
+|133&nbsp;134 ||20,78%
+|11
+|546&nbsp;554 ||22,12%
+|0
+|23&nbsp;298 ||7,33%
+|1
+|33&nbsp;232 ||9,11%
+|1
+|79&nbsp;358 ||11,01%
+|- align=right
+|bgcolor=dodgerblue|
+|align=left|'''[[New Majority (Chile)|CODE]]'''
+|2
+|68&nbsp;185	 || 10,64%
+|1
+|187&nbsp;705	 || 7,60%	
+|1
+|40&nbsp;769	 || 12,83%
+|2
+|66&nbsp;379	 || 18,19%
+|3
+|114&nbsp;587	 || 15,89%
+|- align=right
+|bgcolor=grey|
+|align=left|'''Others'''
+|0
+|55&nbsp;970||8,73%
+|1
+|184&nbsp;497||7,46%
+|1
+|57&nbsp;450||18,08%
+|0
+|28&nbsp;705||7,87%
+|0
+|54&nbsp;301||7,53%
+|- align=right bgcolor=#DCDCDC
+|colspan=2 align=left|'''Total'''
+|'''16'''
+|'''640&nbsp;825'''||'''100,00%'''
+|'''47'''
+|'''2&nbsp;471&nbsp;084'''||'''100,00%'''
+|'''9'''
+|'''317&nbsp;734'''||'''100,00%'''
+|'''11'''
+|'''364&nbsp;887'''||'''100,00%'''
+|'''18'''
+|'''721&nbsp;036'''||'''100,00%'''
+|-
+! colspan=2 rowspan=2|Pact
+! colspan=3|[[Araucanía Region|Araucanía]]
+! colspan=3|[[Los Ríos Region|Los Ríos]]
+! colspan=3|[[Los Lagos Region|Los Lagos]]
+! colspan=3|[[Aysén Region|Aysén]]
+! colspan=3|[[Magallanes Region|Magallanes]]
+|-
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+!Seats
+!colspan=2|Votes 
+|- align=right
+|bgcolor=#065DA8|
+|align=left|'''[[Chile Vamos|ChV]]'''
+|bgcolor=lightblue|6
+|bgcolor=lightblue|139&nbsp;754||bgcolor=lightblue| 42,03%
+|bgcolor=lightblue|2
+|bgcolor=lightblue|50&nbsp;975||bgcolor=lightblue| 36,58%
+|bgcolor=lightblue|4
+|bgcolor=lightblue|96&nbsp;911||bgcolor=lightblue| 36,19%
+|1
+|9&nbsp;874 || 28,24%
+|1
+|16&nbsp;181 || 28,51%
+|- align=right
+|bgcolor=#FC4143|
+|align=left|'''[[New Majority (Chile)|LFM]]'''
+|2
+|80&nbsp;949 || 24,34%
+|2
+|45&nbsp;246 || 32,47%
+|3
+|73&nbsp;653 || 27,51%
+|bgcolor=pink|1
+|bgcolor=pink|10&nbsp;649||bgcolor=pink| 30,46%
+|1
+|11&nbsp;791 || 20,77%
+|- align=right
+|bgcolor=#00B771|
+|align=left|'''[[Broad Front (Chilean political coalition)|FA]]'''
+|0
+|19&nbsp;821 || 5,96%
+|0
+|17&nbsp;637 || 12,66%
+|1
+|23&nbsp;725 || 8,86%
+|0
+|colspan=2 align=center|''No candidates''
+|bgcolor=lightgreen|1
+|bgcolor=lightgreen|19&nbsp;926||bgcolor=lightgreen| 35,11%
+|- align=right
+|bgcolor=dodgerblue|
+|align=left|'''[[New Majority (Chile)|CODE]]'''
+|1
+|35&nbsp;897 || 10,79%
+|1
+|18&nbsp;077 || 12,97%
+|1
+|36&nbsp;933 || 13,79%
+|1
+|10&nbsp;626 || 30,39%
+|0
+|7&nbsp;309 || 12,88%
+|- align=right
+|bgcolor=grey|
+|align=left|'''Others'''
+|1
+|56&nbsp;126|| 16,88%
+|0
+|7&nbsp;426|| 5,32%
+|0
+|36&nbsp;530|| 13,65%
+|0
+|3&nbsp;812|| 10,91%
+|0
+|1&nbsp;553|| 2,74%
+|- align=right bgcolor=#DCDCDC
+|colspan=2 align=left|'''Total'''
+|'''10'''
+|'''332&nbsp;547'''||'''100,00%'''
+|'''5'''
+|'''139&nbsp;361'''||'''100,00%'''
+|'''9'''
+|'''267&nbsp;752'''||'''100,00%'''
+|'''3'''
+|'''34&nbsp;961'''||'''100,00%'''
+|'''3'''
+|'''56&nbsp;760'''||'''100,00%'''
+|}
+
+==Senate election==
+:''Revised provisional results.''
+
+{{Election results
+|image=[[File:Senado_de_Chile_elección_2017.svg|250px]][[File:Senado_de_Chile_elección_2017_por_pacto.svg|250px]]<br>Distribution by parties (left) and alliances (right)
+|seattype1=Won|seattype2=Not up|seattype3=Total
+|alliance1=[[Chile Vamos]]|aspan1=4|party1=[[National Renewal (Chile)|National Renewal]]|votes1=349622|st1t1=6|st2t1=2|st3t1=8
+|party2=[[Independent Democratic Union]]|votes2=210897|st1t2=4|st2t2=5|st3t2=9
+|party3=[[Evópoli]]|votes3=67801|st1t3=2|st2t3=0|st3t3=2
+|atotal4=628320|ast1t4=12|ast2t4=7|ast3t4=19
+|alliance5=[[Nueva Mayoría|The Force of the Majority]]|aspan5=5|party5=[[Party for Democracy (Chile)|Party for Democracy]]|votes5=200299|st1t5=4|st2t5=3|st3t5=7
+|party6=[[Socialist Party of Chile|Socialist Party]]|votes6=125247|st1t6=3|st2t6=4|st3t6=7
+|party7=[[Radical Party of Chile (2018)|Social Democrat Radical Party]]|votes7=34448|st1t7=0|st2t7=1|st3t7=1
+|party8=[[Communist Party of Chile|Communist Party]]|votes8=20209|st1t8=0|st2t8=0|st3t8=0
+|atotal9=380203|ast1t9=7|ast2t9=8|ast3t9=15
+|alliance10=Democratic Convergence|aspan10=3|party10=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes10=237983|st1t10=3|st2t10=3|st3t10=6|acolor10=dodgerblue
+|party11=[[MAS Region]]|votes11=661|st1t11=0|st2t11=0|st3t11=0
+|atotal12=238644|ast1t12=3|ast2t12=3|ast3t12=6
+|alliance13=[[Broad Front (Chilean political coalition)|Broad Front]]|aspan13=6|party13=[[Humanist Party (Chile)|Humanist Party]]|votes13=62223|st1t13=0|st2t13=0|st3t13=0
+|party14=[[Democratic Revolution]]|votes14=38224|st1t14=1|st2t14=0|st3t14=1
+|party15=[[Liberal Party of Chile (2013)|Liberal Party]]|votes15=28774|st1t15=0|st2t15=0|st3t15=0
+|party16=[[Citizen Power (political party)|Citizen Power]]|votes16=28472|st2t16=0|st3t16=0
+|party17=[[Equality Party (Chile)|Equality Party]]|votes17=26640|st1t17=0|st2t17=0|st3t17=0
+|atotal18=184333|ast1t18=1|ast2t18=0|ast3t18=1
+|alliance19=[[Sumemos]]|aspan19=4|party19=[[Amplitude (political party)|Amplitude]]|votes19=62601|st1t19=0|st2t19=0|st3t19=0
+|party20=[[Citizens (Chilean political party)|Citizens]]|votes20=45636|st1t20=0|st2t20=0|st3t20=0
+|party21=[[Everybody (political party)|Everybody]]|votes21=4748|st1t21=0|st2t21=0|st3t21=0
+|atotal22=112985|ast1t22=0|ast2t22=0|ast3t22=0
+|alliance23=[[All Over Chile]]|aspan23=3|party23=[[Progressive Party (Chile)|Progressive Party]]|votes23=15959|st1t23=0|st2t23=0|st3t23=0|acolor23=#c11469
+|party24=[[País]]|votes24=6970|st1t24=0|st2t24=1|st3t24=1
+|atotal25=22929|ast1t25=0|ast2t25=1|ast3t25=1
+|alliance26=[[Patriotic Union (Chile)|Patriotic Union]]|votes26=7312|st1t26=0|st2t26=0|st3t26=0
+|alliance27=Green Regionalist Coalition|aspan27=3|party27=[[Social Green Regionalist Federation]]|votes27=2397|st1t27=0|st2t27=0|st3t27=0
+|party28=Patagonian Regional Democracy|votes28=519|st1t28=0|st2t28=0|st3t28=0
+|atotal29=2916|ast1t29=0|ast2t29=0|ast3t29=0
+|alliance30=Independents|votes30=88701|st1t30=0|st2t30=1|st3t30=1
+|invalid=70958
+|blank=81964
+|source=[https://web.archive.org/web/20161025162111/http://www.servelelecciones.cl/ Servicio Electoral de Chile]
+}}
+
+===Results by region===
+====Arica and Parinacota====
+{| class=wikitable style="text-align: right;"
+|+ style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em" |Senate Election 2017: Arica and Parinacota<ref>{{Cite web |url=http://pv.servelelecciones.cl/ |title=Elección de Senadores 2017 Votación Candidatos por 1a Circunscripción  |access-date=8 April 2018 |archive-url=https://web.archive.org/web/20180130011743/http://pv.servelelecciones.cl/ |archive-date=30 January 2018 |url-status=dead |df=mdy-all }}</ref>
+|-
+! colspan="2"|Pact
+! Votes
+! %
+! colspan="2" |Party
+! Candidate
+! Votes
+! %
+! Result
+|-
+|rowspan=2 bgcolor=#fc4143|
+|rowspan=2 align=left|[[New Majority (Chile)|The Force of Majority]]
+|rowspan=2|22,680	
+|rowspan=2|31.7
+| {{party name with colour|Socialist Party of Chile}}
+|align=left|[[José Miguel Insulza]] 
+|14,501
+|20.3
+|{{yes|New senator}}
+|-
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|[[Salvador Urrutia]]
+|8,179	
+|11.5
+|
+|-
+|rowspan=3 bgcolor=#065DA8|
+|rowspan=3 align=left|[[Chile Vamos]]
+|rowspan=3|17,843	
+|rowspan=3|25.0	
+| {{party name with colour|Independent Democratic Union}}
+|align=left|[[José Durana]]
+|9,639	
+|13.5
+|{{yes|New&nbsp;senator}}
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|Rodolfo Barbosa
+|7,136
+|10.0
+|
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|Mirtha Arancibia
+|1,068	
+|1.5
+|
+|-
+|bgcolor=silver|
+|align=left colspan=5|Independent
+|align=left|Enrique Lee
+|14,820	
+|20.7
+|
+|-
+|rowspan=3 bgcolor=#00B771|
+|rowspan=3 align=left|[[Broad Front (Chilean political coalition)|Broad Front]]
+|rowspan=3|13,504
+|rowspan=3|18.9	
+| {{party name with colour|Liberal Party of Chile (2013)}}
+|align=left|Verónica Foppiano
+|7,617
+|10.7
+|
+|-
+| {{party name with colour|Citizen Power (political party)}}
+|align=left|Rodrigo Díaz Bogdanic
+|4,192
+|5.9
+|
+|-
+| {{party name with colour|Humanist Party (Chile)}}
+|align=left|Claudio Ojeda
+|1,695	
+|2.4
+|
+|-
+|rowspan=2 bgcolor=#c11469|
+|rowspan=2 align=left|All Over Chile
+|rowspan=2|1,796	
+|rowspan=2|2.5
+| {{party name with colour|Progressive Party (Chile)}}
+|align=left|Pablo Pizarro Bossay (Ind.)
+|960
+|1.3
+|
+|-
+| {{party name with colour|Progressive Party (Chile)}}
+|align=left|Sandra Zapata (Ind.)
+|836
+|1.2
+|
+|-
+|bgcolor=dodgerblue|
+|align=left|[[New Majority (Chile)|Democratic Convergence]]
+|813
+|1.1	
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|Trinidad Parra (Ind.)
+|813
+|1.1
+|
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | Total valid votes 
+| style="text-align:right;" | 71,456
+| style="text-align:right;" | 
+| style="text-align:right;" |
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | [[Voter turnout|Turnout]]
+| style="text-align:right;" | 74,948
+| style="text-align:right;" | 40.4
+| style="text-align:right;" |
+|}
+
+====Tarapacá====
+{| class=wikitable style="text-align: right;"
+|+ style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em" |Senate Election 2017: Tarapacá<ref>{{Cite web |url=http://pv.servelelecciones.cl/ |title=Elección de Senadores 2017 Votación Candidatos por 2a Circunscripción  |access-date=8 April 2018 |archive-url=https://web.archive.org/web/20180130011743/http://pv.servelelecciones.cl/ |archive-date=30 January 2018 |url-status=dead |df=mdy-all }}</ref>
+|-
+! scope="col" colspan="2"|Pact
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" colspan="2" |Party
+! scope="col" |Candidate
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" |Result
+|-
+|rowspan=3 bgcolor=#fc4143|
+|rowspan=3 align=left|[[New Majority (Chile)|The Force of Majority]]
+|rowspan=3|34,970		
+|rowspan=3|37.8
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|[[Jorge Soria]] (Ind.)
+|31,594	
+|34.2
+|{{yes|New senator}}
+|-
+| {{party name with colour|Socialist Party of Chile}}
+|align=left|Franitza Mitrovic (Ind.)
+|1,846	
+|2.0
+|
+|-
+| {{party name with colour|Socialist Party of Chile}}
+|align=left|Astrid Abarca (Ind.)
+|1,530
+|1.6	
+|
+|-
+|rowspan=3 bgcolor=#065DA8|
+|rowspan=3 align=left|[[Chile Vamos]]
+|rowspan=3|26,865	
+|rowspan=3|29.1	
+| {{party name with colour|Independent Democratic Union}}
+|align=left|[[Luz Ebensperger]]
+|21,155	
+|22.9
+|{{yes|New&nbsp;senator}}
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|Juan Carlos Carreño
+|4,244
+|4.6
+|
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|Pamela Boyardi
+|1,466
+|1.6
+|
+|-
+|bgcolor=silver|
+|align=left colspan=5|Independent
+|align=left|[[Fulvio Rossi]]
+|22,406	
+|24.2
+|{{no|Lost re-election}}
+|-
+|rowspan=3 bgcolor=#51297B|
+|rowspan=3 align=left|[[Sumemos]]
+|rowspan=3|4,333
+|rowspan=3|4.7	
+| {{party name with colour|Everybody (political party)}}
+|align=left|Gabriel Gurovich
+|3,440
+|3.7
+|
+|-
+| {{party name with colour|Everybody (political party)}}
+|align=left|Lorena Vergara (Ind.)
+|4,192
+|0.5
+|
+|-
+| {{party name with colour|Everybody (political party)}}
+|align=left|Alejandra Guajardo (Ind.)
+|1,695	
+|0.4
+|
+|-
+|bgcolor=#00B771|
+|align=left|[[Broad Front (Chilean political coalition)|Broad Front]]
+|3,878
+|4.2	
+| {{party name with colour|Citizen Power (political party)}}
+|align=left|Rigoberto Rojas (Ind.)
+|3,878
+|4.2
+|
+|-
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | Total valid votes 
+| style="text-align:right;" | 92,452	
+| style="text-align:right;" | 
+| style="text-align:right;" |
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | [[Voter turnout|Turnout]]
+| style="text-align:right;" | 96,241
+| style="text-align:right;" | 39.6
+| style="text-align:right;" |
+|}
+
+====Atacama====
+{| class=wikitable style="text-align: right;"
+|+ style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em" |Senate Election 2017: Atacama<ref>{{Cite web |url=http://pv.servelelecciones.cl/ |title=Elección de Senadores 2017 Votación Candidatos por 4a Circunscripción  |access-date=April 8, 2018 |archive-url=https://web.archive.org/web/20180130011743/http://pv.servelelecciones.cl/ |archive-date=January 30, 2018 |url-status=dead |df=mdy-all }}</ref>
+|-
+! scope="col" colspan="2" |Pact
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" colspan="2" |Party
+! scope="col" |Candidate
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" |Result
+|-
+|rowspan=2 bgcolor=dodgerblue|
+|rowspan=2 align=left|[[New Majority (Chile)|Democratic Convergence]]
+|rowspan=2|33,244			
+|rowspan=2|34.9
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|[[Yasna Provoste]]
+|32,583
+|34.2
+|{{yes|New senator}}
+|-
+| {{party name with colour|MAS Region}}
+|align=left|Tomás Pastenes (Ind.)
+|661
+|0.7
+|
+|-
+|rowspan=2 bgcolor=#065DA8|
+|rowspan=2 align=left|[[Chile Vamos]]
+|rowspan=2|31,863		
+|rowspan=2|33.5	
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|[[Rafael Prohens]]
+|17,574
+|18.5
+|{{yes|New&nbsp;senator}}
+|-
+| {{party name with colour|Independent Democratic Union}}
+|align=left|[[Felipe Ward]]
+|14,289
+|15.0
+|Lost election. Retiring Deputy
+|-
+|rowspan=3 bgcolor=#fc4143|
+|rowspan=3 align=left|[[New Majority (Chile)|The Force of Majority]]
+|rowspan=3|23,455			
+|rowspan=3|24.6
+| {{party name with colour|Communist Party of Chile}}
+|align=left|[[Lautaro Carmona Soto]]
+|16,714
+|17.6
+|Lost election. Retiring Deputy
+|-
+| {{party name with colour|Social Democratic Radical Party}}
+|align=left|[[Alberto Robles]]
+|5,442	
+|5.7
+|Lost election. Retiring Deputy
+|-
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|Carolina Peralta
+|1,299
+|1.4	
+|
+|-
+|bgcolor=#00B771|
+|align=left|[[Broad Front (Chilean political coalition)|Broad Front]]
+|4,175
+|4.4
+| {{party name with colour|Citizen Power (political party)}}
+|align=left|Gloria Guzmán
+|4,175
+|4.4
+|
+|-
+|rowspan=2 bgcolor=green|
+|rowspan=2 align=left|Green Regionalist Coalition
+|rowspan=2|2,397		
+|rowspan=2|2.5	
+| {{party name with colour|Social Green Regionalist Federation}}
+|align=left|Jorge Vargas Guerra
+|1,457
+|1.5
+|
+|-
+| {{party name with colour|Social Green Regionalist Federation}}
+|align=left|Elizabeth Pérez
+|940
+|1.0
+|
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | Total valid votes 
+| style="text-align:right;" |95,134	
+| style="text-align:right;" | 
+| style="text-align:right;" |
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | [[Voter turnout|Turnout]]
+| style="text-align:right;" | 100,679	
+| style="text-align:right;" | 43.2
+| style="text-align:right;" |
+|}
+
+====Valparaíso Region====
+{| class=wikitable style="text-align: right;"
+|+ style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em" |Senate Election 2017: Valparaíso Region<ref>{{Cite web |url=http://pv.servelelecciones.cl/ |title=Elección de Senadores 2017 Votación Candidatos por 6a Circunscripción  |access-date=April 8, 2018 |archive-url=https://web.archive.org/web/20180130011743/http://pv.servelelecciones.cl/ |archive-date=January 30, 2018 |url-status=dead |df=mdy-all }}</ref>
+|-
+! scope="col" colspan="2" |Pact
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" colspan="2" |Party
+! scope="col" |Candidate
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" |Result
+|-
+|rowspan=6 bgcolor=#065DA8|
+|rowspan=6 align=left|[[Chile Vamos]]
+|rowspan=6|244,733	
+|rowspan=6|36.9	
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|[[Francisco Chahuán]]
+|150,031
+|22.6
+|{{maybe|Incumbent re-elected}}
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|[[Kenneth Pugh Olavarría|Kenneth Pugh]] (Ind.)
+|14,241
+|2.1
+|{{yes|New senator}}
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|Carmen Zamora Bravo
+|4,614
+|0.7
+|
+|-
+| {{party name with colour|Independent Democratic Union}}
+|align=left|[[Andrea Molina]]
+|64,668	
+|9.7
+|Lost election. Retiring Deputy.
+|-
+| {{party name with colour|Independent Democratic Union}}
+|align=left|[[Francisco Bartolucci]]
+|9,513
+|1.4
+|
+|-
+| {{party name with colour|Independent Democratic Union}}
+|align=left|Ximena Ramírez
+|1,666
+|0.2
+|
+|-
+|rowspan=6 bgcolor=#fc4143|
+|rowspan=6 align=left|[[New Majority (Chile)|The Force of Majority]]
+|rowspan=6|182,799			
+|rowspan=6|27.5
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|[[Ricardo Lagos Weber]]
+|74,015
+|11.2
+|{{maybe|Incumbent re-elected}}
+|-
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|[[Marco Antonio Núñez]]
+|19,791	
+|2.3
+|Lost election. Retiring Deputy
+|-
+| {{party name with colour|Socialist Party of Chile}}
+|align=left|[[Isabel Allende (politician)|Isabel Allende Bussi]]
+|59,147
+|8.9	
+|{{maybe|Incumbent elected in new seat}}
+|-
+| {{party name with colour|Socialist Party of Chile}}
+|align=left|Abel Gallardo
+|4,510
+|0.7	
+|
+|-
+| {{party name with colour|Social Democratic Radical Party}}
+|align=left|[[Nelson Ávila (Chilean politician)|Nelson Ávila]]
+|23,220
+|3.5	
+|
+|-
+| {{party name with colour|Social Democratic Radical Party}}
+|align=left|Josefina Bustamante
+|2,116
+|0.3	
+|
+|-
+|rowspan=4 bgcolor=#00B771|
+|align=left rowspan=4|[[Broad Front (Chilean political coalition)|Broad Front]]
+|rowspan=4|96,394
+|rowspan=4|14.5
+| {{party name with colour|Democratic Revolution}}
+|align=left|[[Juan Ignacio Latorre]]
+|30,528
+|4.6
+|{{yes|New senator}}
+|-
+| {{party name with colour|Equality Party (Chile)}}
+|align=left|Mónica Valencia
+|26,640
+|4.0
+|
+|-
+| {{party name with colour|Humanist Party (Chile)}}
+|align=left|Octavio González Ojeda
+|22,999
+|3.5
+|
+|-
+| {{party name with colour|Citizen Power (political party)}}
+|align=left|Francisco Marín (Ind.)
+|16,227
+|2.4
+|
+|-
+|rowspan=3 bgcolor=dodgerblue|
+|rowspan=3 align=left|[[New Majority (Chile)|Democratic Convergence]]
+|rowspan=3|49,380			
+|rowspan=3|7.4
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|[[Ignacio Walker]]
+|30,827
+|4.6
+|{{no|Lost re-election}}
+|-
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|[[Aldo Cornejo]]
+|16,357
+|2.5
+|Lost election. Retiring Deputy.
+|-
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|Oriele Zencovich
+|2,196
+|0.3
+|
+|-
+|rowspan=6 bgcolor=#51297B|
+|rowspan=6 align=left|[[Sumemos]]
+|rowspan=6|42,550
+|rowspan=6|6.4	
+| {{party name with colour|Amplitude (political party)}}
+|align=left|[[Lily Pérez]]
+|35,493
+|5.3
+|{{no|Lost re-election}}
+|-
+| {{party name with colour|Amplitude (political party)}}
+|align=left|Julián Ugarte (Ind.)
+|2,411
+|0.4
+|
+|-
+| {{party name with colour|Amplitude (political party)}}
+|align=left|Pedro Sariego
+|1,505
+|0.2
+|
+|-
+| {{party name with colour|Amplitude (political party)}}
+|align=left|Ana Cuadros Matamala
+|1,247
+|0.2
+|
+|-
+| {{party name with colour|Amplitude (political party)}}
+|align=left|Alberto Nuñez Ponce
+|1,213
+|0.2
+|
+|-
+| {{party name with colour|Amplitude (political party)}}
+|align=left|Oscar Rementería (Ind.)
+|681
+|0.1
+|
+|-
+|bgcolor=silver|
+|align=left colspan=5|Independent
+|align=left|[[Gaspar Rivas]]
+|29,423
+|4.4
+|Lost election. Retiring Deputy.
+|-
+|rowspan=3 bgcolor=#c11469|
+|rowspan=3 align=left|All Over Chile
+|rowspan=3|11,356	
+|rowspan=3|1.7
+| {{party name with colour|Progressive Party (Chile)}}
+|align=left|Francisco Coloane (Ind.)
+|5,070
+|0.8
+|
+|-
+| {{party name with colour|Progressive Party (Chile)}}
+|align=left|Pamela Jiménez Gallardo
+|3,602
+|0.5
+|
+|-
+| {{party name with colour|Progressive Party (Chile)}}
+|align=left|Héctor Pérez Meneses (Ind.)
+|2,674
+|0.4
+|
+|-
+|rowspan=3 bgcolor=#c00|
+|rowspan=3 align=left|[[Patriotic Union (Chile)|Patriotic Union]]
+|rowspan=3|7,312	
+|rowspan=3|1.1
+| {{party name with colour|Patriotic Union (Chile)}}
+|align=left|Luis Aravena Egaña
+|3,571
+|0.5
+|
+|-
+| {{party name with colour|Patriotic Union (Chile)}}
+|align=left|Vlademir Venegas
+|2,298
+|0.4
+|
+|-
+| {{party name with colour|Patriotic Union (Chile)}}
+|align=left|Berta Caro
+|1,443
+|0.2
+|
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | Total valid votes 
+| style="text-align:right;" |663,937	
+| style="text-align:right;" | 
+| style="text-align:right;" |
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | [[Voter turnout|Turnout]]
+| style="text-align:right;" |725,514	
+| style="text-align:right;" |47.2
+| style="text-align:right;" |
+|}
+
+====Maule====
+{| class=wikitable style="text-align: right;"
+|+ style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em" |Senate Election 2017: Maule<ref>{{Cite web |url=http://pv.servelelecciones.cl/ |title=Elección de Senadores 2017 Votación Candidatos por 9a Circunscripción  |access-date=April 8, 2018 |archive-url=https://web.archive.org/web/20180130011743/http://pv.servelelecciones.cl/ |archive-date=January 30, 2018 |url-status=dead |df=mdy-all }}</ref>
+|-
+! scope="col" colspan="2" |Pact
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" colspan="2" |Party
+! scope="col" |Candidate
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" |Result
+|-
+|rowspan=6 bgcolor=#065DA8|
+|rowspan=6 align=left|[[Chile Vamos]]
+|rowspan=6|154,294		
+|rowspan=6|41.7	
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|[[Juan Castro Prieto]] (Ind.)
+|54,433
+|14.7
+|{{yes|New senator}}
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|[[Rodrigo Galilea]]
+|28,268
+|7.6
+|{{yes|New senator}}
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|Macarena Pons (Ind.)
+|3,229
+|0.9
+|
+|-
+| {{party name with colour|Independent Democratic Union}}
+|align=left|[[Juan Antonio Coloma Correa]]
+|58.595
+|15.8
+|{{maybe|Incumbent re-elected}}
+|-
+| {{party name with colour|Independent Democratic Union}}
+|align=left|Yasna Cancino (Ind.)
+|7,760
+|2.1
+|
+|-
+| {{party name with colour|Independent Democratic Union}}
+|align=left|Francisca Concha (Ind.)
+|2,009
+|0.5
+|
+|-
+|rowspan=2 bgcolor=dodgerblue|
+|rowspan=2 align=left|[[New Majority (Chile)|Democratic Convergence]]
+|rowspan=2|68,287			
+|rowspan=2|18.4
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|[[Ximena Rincón]]
+|38,697
+|10.5
+|{{yes|New senator}}
+|-
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|[[Andrés Zaldívar]]
+|29,590
+|7.8
+|{{no|Lost re-election}}
+|-
+|rowspan=6 bgcolor=#fc4143|
+|rowspan=6 align=left|[[New Majority (Chile)|The Force of Majority]]
+|rowspan=6|55,124				
+|rowspan=6|14.9
+| {{party name with colour|Socialist Party of Chile}}
+|align=left|[[Álvaro Elizalde]]
+|30,900
+|8.3
+|{{yes|New senator}}
+|-
+| {{party name with colour|Socialist Party of Chile}}
+|align=left|Viviana Landaeta
+|4,426	
+|1.2
+|
+|-
+| {{party name with colour|Socialist Party of Chile}}
+|align=left|Carlos Villalobos
+|3,264
+|0.9	
+|
+|-
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|[[Jorge Tarud]]
+|14,109
+|3.8	
+|Lost election. Retiring Deputy.
+|-
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|Liliana Caro
+|1,332
+|0.4	
+|
+|-
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|Valeria Jenoveva (Ind.)
+|1,093
+|0.3	
+|
+|-
+|rowspan=5 bgcolor=#51297B|
+|rowspan=5 align=left|[[Sumemos]]
+|rowspan=5|45,636	
+|rowspan=5|12.3	
+| {{party name with colour|Citizens (Chilean political party)}}
+|align=left|[[Andrés Velasco]]
+|38,867	
+|10.5
+|
+|-
+| {{party name with colour|Citizens (Chilean political party)}}
+|align=left|Paula Romero Neira
+|2,164
+|0.6
+|
+|-
+| {{party name with colour|Citizens (Chilean political party)}}
+|align=left|Alberto Martínez Moya (Ind.)
+|1,817	
+|0.5
+|
+|-
+| {{party name with colour|Citizens (Chilean political party)}}
+|align=left|Grace Salazar (Ind.)
+|1,520	
+|0.4
+|
+|-
+| {{party name with colour|Citizens (Chilean political party)}}
+|align=left|Esteban Bravo Moreno (Ind.)
+|1,268	
+|0.3
+|
+|-
+|rowspan=6 bgcolor=#00B771|
+|align=left rowspan=6|[[Broad Front (Chilean political coalition)|Broad Front]]
+|rowspan=6|36,998	
+|rowspan=6|10.0
+| {{party name with colour|Liberal Party of Chile (2013)}}
+|align=left|[[Alfredo Sfeir]] (Ind.)
+|21,157
+|5.7
+|
+|-
+| {{party name with colour|Humanist Party (Chile)}}
+|align=left|Wilfredo Alfsen
+|3,482	
+|0.9
+|
+|-
+| {{party name with colour|Humanist Party (Chile)}}
+|align=left|Jimena Arias
+|3,145
+|0.8
+|
+|-
+| {{party name with colour|Humanist Party (Chile)}}
+|align=left|Marta Guerra Medina
+|2,604
+|0.7
+|
+|-
+| {{party name with colour|Democratic Revolution}}
+|align=left|María Eugenia Lorenzini
+|4,816
+|1.3
+|
+|-
+| {{party name with colour|Democratic Revolution}}
+|align=left|Yuri Sepúlveda (Ind.)
+|1,794
+|0.5
+|
+|-
+|rowspan=3 bgcolor=#c11469|
+|rowspan=3 align=left|All Over Chile
+|rowspan=3|9,787		
+|rowspan=3|2.6
+| {{party name with colour|País}}
+|align=left|María Romero (Ind.)
+|3,503
+|0.9
+|
+|-
+| {{party name with colour|País}}
+|align=left|Gustavo Ruz
+|3,467
+|0.9
+|
+|-
+| {{party name with colour|Progressive Party (Chile)}}
+|align=left|Sandra Alfaro
+|2,817	
+|0.8
+|
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | Total valid votes 
+| style="text-align:right;" |370,126	
+| style="text-align:right;" | 
+| style="text-align:right;" |
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | [[Voter turnout|Turnout]]
+| style="text-align:right;" |410,430		
+| style="text-align:right;" |48.3
+| style="text-align:right;" |
+|}
+
+====Araucanía====
+{| class=wikitable style="text-align: right;"
+|+ style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em" |Senate Election 2017: Araucanía<ref name="historico">[https://historico.servel.cl/servel/app/index.phpr=EleccionesGenerico&id=220&n=3&v2=13443&v3=3215&v4=0&v5=0&v6=0&v7=0&v8=0&v9=0&v10=0]{{Dead link|date=May 2020|bot=InternetArchiveBot|fix-attempted=yes}}</ref>
+|-
+! scope="col" colspan="2" |Pact
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" colspan="2" |Party
+! scope="col" |Candidate
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" |Result
+|-
+|rowspan=6 bgcolor=#065DA8|
+|rowspan=6 align=left|[[Chile Vamos]]
+|rowspan=6|141,125		
+|rowspan=6|41.8	
+| {{party name with colour|Political Evolution}}
+|align=left|[[Felipe Kast]]
+|63,601
+|18.84
+|{{yes|New senator}}
+|-
+| {{party name with colour|Political Evolution}}
+|align=left|[[Carmen Gloria Aravena]]
+|4,200
+|1.24
+|{{yes|New senator}}
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|[[José García Ruminot]]
+|33,456
+|9.91
+|{{maybe|Incumbent re-elected}}
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|[[Germán Becker Alvear]]
+|25,576
+|7.58
+|Lost election. Retiring Deputy.
+|-
+| {{party name with colour|Independent Democratic Union}}
+|align=left|[[Gustavo Hasbún]]
+|11.751
+|3.48
+|Lost election. Retiring Deputy.
+|-
+| {{party name with colour|Independent Democratic Union}}
+|align=left|José Villagrán
+|2,541
+|0.75
+|
+|-
+|rowspan=2 bgcolor=dodgerblue|
+|rowspan=2 align=left|[[New Majority (Chile)|Democratic Convergence]]
+|rowspan=2|76,119			
+|rowspan=2|22.55
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|[[Francisco Huenchumilla]]
+|38,185
+|11.31
+|{{yes|New senator}}
+|-
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|[[Fuad Chahín]]
+|37,934
+|11.24
+|Lost election. Retiring Deputy.
+|-
+|rowspan=5 bgcolor=#fc4143|
+|rowspan=5 align=left|[[New Majority (Chile)|The Force of Majority]]
+|rowspan=5|49,938				
+|rowspan=5|14.79
+| {{party name with colour|Socialist Party of Chile}}
+|align=left|Flor Domínguez
+|2,961
+|0.88
+|
+|-
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|[[Jaime Quintana]]
+|34,285
+|10.16	
+|{{maybe|Incumbent re-elected}}
+|-
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|Alberto Pizarro
+|5,950
+|1.76	
+|
+|-
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|Claudia Palma
+|3,247
+|0.96	
+|
+|-
+| {{party name with colour|Communist Party of Chile}}
+|align=left|Patricia Coñoman
+|3,495
+|1.04	
+|
+|-
+|rowspan=6 bgcolor=#00B771|
+|align=left rowspan=6|[[Broad Front (Chilean political coalition)|Broad Front]]
+|rowspan=6|28,298	
+|rowspan=6|8.38
+| {{party name with colour|Humanist Party (Chile)}}
+|align=left|[[Aucán Huilcamán]] (Ind.)
+|11,787
+|3.49
+|
+|-
+| {{party name with colour|Humanist Party (Chile)}}
+|align=left|[[Diego Ancalao]] (Ind.)
+|6,119	
+|1.81
+|
+|-
+| {{party name with colour|Humanist Party (Chile)}}
+|align=left|Juan Ortiz
+|3.655
+|1,08
+|
+|-
+| {{party name with colour|Humanist Party (Chile)}}
+|align=left|Gabriela Meléndez
+|3,173
+|0.94
+|
+|-
+| {{party name with colour|Humanist Party (Chile)}}
+|align=left|Gloria Mujica
+|2,082
+|0.62
+|
+|-
+| {{party name with colour|Humanist Party (Chile)}}
+|align=left|Lucía Tormen
+|1,482
+|0.44
+|
+|-
+|bgcolor=silver|
+|align=left colspan=5|Independent
+|align=left|[[Rojo Edwards]]
+|22,052
+|6.53
+|Lost election. Retiring Deputy.
+|-
+|rowspan=4 bgcolor=#51297B|
+|rowspan=4 align=left|[[Sumemos]]
+|rowspan=4|20,051	
+|rowspan=4|5.94
+| {{party name with colour|Amplitude (political party)}}
+|align=left|Eduardo Díaz
+|13,390	
+|3.97
+|
+|-
+| {{party name with colour|Amplitude (political party)}}
+|align=left|Ema Vidal
+|3,795
+|1.12
+|
+|-
+| {{party name with colour|Amplitude (political party)}}
+|align=left|Tatiana Rudolph
+|1,717	
+|0.51
+|
+|-
+| {{party name with colour|Amplitude (political party)}}
+|align=left|Juan Ramírez
+|1,149
+|0.34
+|
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | Total valid votes 
+| style="text-align:right;" |337,583	
+| style="text-align:right;" | 
+| style="text-align:right;" |
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | [[Voter turnout|Turnout]]
+| style="text-align:right;" |373,476		
+| style="text-align:right;" |44.04
+| style="text-align:right;" |
+|}
+
+====Aysén====
+{| class=wikitable style="text-align: right;"
+|+ style="background-color:#f2f2f2;margin-bottom:-1px;border:1px solid #aaa;padding:.2em .4em" |Senate Election 2017: Aysén<ref name="historico" />
+|-
+! scope="col" colspan="2" |Pact
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" colspan="2" |Party
+! scope="col" |Candidate
+! scope="col" |Votes
+! scope="col" |%
+! scope="col" |Result
+|-
+|rowspan=3 bgcolor=#065DA8|
+|rowspan=3 align=left|[[Chile Vamos]]
+|rowspan=3|11,606		
+|rowspan=3|32.52	
+| {{party name with colour|Independent Democratic Union}}
+|align=left|[[David Sandoval]]
+|7,320
+|20.51
+|{{yes|New senator}}
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|[[Pilar Cuevas]]
+|4,168
+|11.68
+|
+|-
+| {{party name with colour|National Renewal (Chile)}}
+|align=left|Ana Verdugo 
+|118
+|0.33
+|
+|-
+|rowspan=3 bgcolor=#fc4143|
+|rowspan=3 align=left|[[New Majority (Chile)|The Force of Majority]]
+|rowspan=3|11,253				
+|rowspan=3|31.52
+| {{party name with colour|Socialist Party of Chile}}
+|align=left|[[Camilo Escalona]]
+|2,178
+|6.10
+|
+|-
+| {{party name with colour|Party for Democracy (Chile)}}
+|align=left|[[Ximena Órdenes]] (Ind.)
+|5,405
+|15.14
+|{{yes|New senator}}
+|-
+| {{party name with colour|Social Democratic Radical Party}}
+|align=left|Luperciano Muñoz (Ind.)
+|3,670
+|10.28
+|
+|-
+|rowspan=3 bgcolor=dodgerblue|
+|rowspan=3 align=left|[[New Majority (Chile)|Democratic Convergence]]
+|rowspan=3|10,818			
+|rowspan=3|30.30
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|Paz Foitzich
+|5,743
+|16.09
+|
+|-
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|Eduardo Cruces
+|4,939
+|13.84
+|
+|-
+| {{party name with colour|Christian Democratic Party (Chile)}}
+|align=left|Hernán Vodanovic (Ind.)
+|4,939
+|13.84
+|
+|-
+|rowspan=2 bgcolor=#00B771|
+|rowspan=2 align=left |[[Broad Front (Chilean political coalition)|Broad Front]]
+|rowspan=2|1,087	
+|rowspan=2|3.04
+| {{party name with colour|Democratic Revolution}}
+|align=left|Alejandro Barrientos
+|664
+|1.86
+|
+|-
+| {{party name with colour|Democratic Revolution}}
+|align=left|Jenny Rivera
+|423	
+|1.18
+|
+|-
+|rowspan=2 bgcolor=green|
+|rowspan=2 align=left|Green Regionalist Coalition
+|rowspan=2|518		
+|rowspan=2|1.45
+|bgcolor=#007BA7|
+|align=left|Patagonian Regional Democracy
+|align=left|Carlos Pérez Osorio
+|271	
+|0.76
+|
+|-
+|bgcolor=#007BA7|
+|align=left|Patagonian Regional Democracy
+|align=left|Antonella Muñoz (Ind.)
+|247	
+|0.69
+|
+|-
+|rowspan=2 bgcolor=#51297B|
+|rowspan=2 align=left|[[Sumemos]]
+|rowspan=2|416	
+|rowspan=2|1.16
+| {{party name with colour|Everybody (political party)}}
+|align=left|Raúl Vargas
+|161
+|0.45
+|
+|-
+| {{party name with colour|Everybody (political party)}}
+|align=left|Carlos Chávez (Ind.)
+|255
+|0.71
+|
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | Total valid votes 
+| style="text-align:right;" |35,698	
+| style="text-align:right;" | 
+| style="text-align:right;" |
+|- style="background-color:#F6F6F6" 
+! colspan="7" style="text-align:right;" | [[Voter turnout|Turnout]]
+| style="text-align:right;" |38,030		
+| style="text-align:right;" |40.0
+| style="text-align:right;" |
+|}
+
+==Regional Boards election==
+:''Revised provisional results.''
+
+{{Election results
+|alliance1=[[Chile Vamos|Chile Vamos UDI – PRI – Ind.]]|aspan1=3|party1=[[National Renewal (Chile)|RN – Ind.]]|votes1=1066089|seats1=72
+|party2=[[Evópoli|Evópoli and Ind.]]|votes2=237857|seats2=5
+|atotal3=1303946|aseats3=77
+|alliance4=[[Chile Vamos|Chile Vamos UDI – PRI – Ind.]]|aspan4=3|party4=[[Independent Democratic Union|UDI – Ind.]]|votes4=945290|seats4=52
+|party5=[[Independent Regionalist Party|PRI and Ind.]]|votes5=158980|seats5=4
+|atotal6=1104270|aseats6=56
+|alliance7=United for Decentralization|aspan7=3|party7=[[Christian Democratic Party (Chile)|PDC and Ind.]]|votes7=580582|seats7=44
+|party8=[[Socialist Party of Chile|PS and Ind.]]|votes8=521050|seats8=26
+|atotal9=1101632|aseats9=70
+|alliance10=For a Just and Decentralized Chile|aspan10=6|party10=[[Party for Democracy (Chile)|PPD and Ind.]]|votes10=429719|seats10=26
+|party11=[[Communist Party of Chile|PCCh and Ind.]]|votes11=270241|seats11=11
+|party12=[[Radical Party of Chile (2018)|PRSD and Ind.]]|votes12=164891|seats12=8
+|party13=[[Citizen Left|IC and Ind.]]|votes13=9892|seats13=1
+|party14=[[MAS Region|MAS Region and Ind.]]|votes14=1391|seats14=1
+|atotal15=876134|aseats15=47
+|alliance16=[[Broad Front (Chilean political coalition)|Broad Front]]|aspan16=6|party16=[[Democratic Revolution|Democratic Revolution and Ind.]]|votes16=302812|seats16=10
+|party17=[[Humanist Party (Chile)|Humanists plus Ind.]]|votes17=199282|seats17=6
+|party18=[[Equality Party (Chile)|Equality for the Peoples]]|votes18=153735|seats18=2
+|party19=[[Liberal Party of Chile (2013)|Liberals plus Ind.]]|votes19=19653|seats19=0
+|party20=Independents|votes20=11237|seats20=0
+|atotal21=686719|aseats21=18
+|alliance22=[[Broad Front (Chilean political coalition)|Ecologist and Citizen Front]]|party22=[[Citizen Power (political party)|Power]]/[[Green Ecologist Party (Chile)|Green Ecologist Party]]|votes22=247229|seats22=2
+|alliance23=For All Chile|aspan23=3|party23=[[Progressive Party (Chile)|PRO + Ind.]]|votes23=185618|seats23=2
+|party24=[[País|País + Ind.]]|votes24=25279|seats24=0
+|atotal25=210897|aseats25=2
+|alliance26=Green Regionalist Coalition|aspan26=3|party26=[[Social Green Regionalist Federation|Regionalist Federation and Ind.]]|votes26=64885|seats26=2
+|party27=Regional Democracy and Ind.|votes27=19539|seats27=0
+|atotal28=84424|aseats28=2
+|alliance29=[[Sumemos]]|aspan29=4|party29=[[Amplitude (political party)|Amplitude and Ind.]]|votes29=64873|seats29=2
+|party30=[[Citizens (Chilean political party)|Citizens and Ind.]]|votes30=13743|seats30=0
+|party31=[[Everybody (political party)|Everybody and Ind.]]|votes31=124|seats31=0
+|atotal32=78740|aseats32=2
+|alliance33=Let's Refound Chile|party33=[[Patriotic Union (Chile)|Patriotic Union]]|votes33=57007|seats33=0
+|alliance34=Integration for Development|party34=For Regional Integration|votes34=9259|seats34=1
+|alliance35=[[Revolutionary Workers Party (Chile)|Revolutionary Workers Party]]|votes35=2927|seats35=0
+|alliance36=Independents|votes36=49585|seats36=1
+|invalid=365005
+|blank=493623
+|source=[https://web.archive.org/web/20161025162111/http://www.servelelecciones.cl/ Servicio Electoral de Chile]
+}}
+
+== Electoral pacts and political parties ==
+
+Some Christian Democratic Party members believed the party would fare better running on its own, while the socialists and radicals advanced toward an agreement that did not include it. The party's National Council instructed its leadership to hold talks with parties outside the Nueva Mayoría, including Ciudadanos and the PRO, led respectively by Andrés Velasco and Marco Enríquez-Ominami, as it sought not to run alone in the parliamentary elections.<ref>{{cite web |url=http://www.cnnchile.com/noticia/2017/06/18/diferencias-la-interior-de-la-dc-por-lista-unica-parlamentaria |title=Diferencias la interior de la DC por lista única parlamentaria |access-date=10 September 2026}}</ref><ref>{{cite web |url=http://www.cooperativa.cl/noticias/pais/politica/democracia-cristiana/dc-se-abrio-a-conversar-con-ciudadanos-y-el-pro-por-listas-parlamentarias/2017-07-24/202851.html |title=DC se abrió a conversar con Ciudadanos y el PRO por listas parlamentarias |access-date=10 September 2026}}</ref>
+
+
+==See also==
+
+* [[List of female Chilean presidential candidates]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20121112172833/http://elecciones.gob.cl/ Elections in Chile] (Interior Ministry)
+
+{{Chilean elections}}
+
+[[Category:2017 elections in Chile|General election]]
+[[Category:2017 elections in South America|Chilean general election]]
+[[Category:November 2017 in South America|Chilean general election]]
+[[Category:December 2017 in South America|Chilean general election]]
+[[Category:Parliamentary elections in Chile]]
+[[Category:Presidential elections in Chile]]
+[[Category:Sebastián Piñera]]
+[[Category:November 2017 elections]]
+[[Category:December 2017 elections]]

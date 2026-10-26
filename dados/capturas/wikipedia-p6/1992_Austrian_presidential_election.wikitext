@@ -1,0 +1,130 @@
+{{Short description|none}}
+{{Infobox election
+| country = Austria
+| flag_year = state
+| type = presidential
+| previous_election = 1986 Austrian presidential election
+| previous_year = 1986
+| next_election = 1998 Austrian presidential election
+| next_year = 1998
+| election_date = 26 April 1992 (first round)<br />24 May 1992 (second round)
+| image1 = Thomas Klestil 1 (cropped).jpg
+| nominee1 = '''[[Thomas Klestil]]'''
+| party1 = Independent ([[Austrian People's Party|ÖVP]])
+| color1 = 000000
+| popular_vote1 = '''2,528,006'''
+| percentage1 = '''56.89%'''
+| image2 = Rudolf Streicher 2011 (cropped).jpg
+| nominee2 = [[Rudolf Streicher]]
+| party2 = Social Democratic Party of Austria
+| popular_vote2 = 1,915,380
+| percentage2 = 43.11%
+| map = {{Switcher
+| [[File:1992 Austrian presidential election, round 2.svg|300px]]
+| Second round
+| [[File:1992 Austrian presidential election, round 1.svg|300px]]
+| First round
+}}
+| title = [[President of Austria|President]]
+| before_election = [[Kurt Waldheim]]
+| before_party = Independent ([[Austrian People's Party|ÖVP]])
+| after_election = [[Thomas Klestil]]
+| after_party = Independent ([[Austrian People's Party|ÖVP]])
+}}{{Politics of Austria}}
+[[File:Austrian presidential election results by state (1. round), 1992.png |right|thumb|400px|Results by state
+{{legend|black |[[Thomas Klestil]] }}
+{{legend|red|[[Rudolf Streicher]]  }}
+{{legend|blue|[[Heide Schmidt]]  }}
+{{legend|#4AFF00|[[Robert Jungk]]  }}]]
+
+Presidential elections were held in [[Austria]] on 26 April 1992, with a second round held on 24 May 1992 after no candidate won a majority in the first round. Incumbent president [[Kurt Waldheim]] did not seek reelection as he had not gained acceptance in the international community. The strongest party at that time, the [[Social Democratic Party of Austria|Social Democratic Party]], proposed the current minister of traffic and nationalized industries, [[Rudolf Streicher]], for the office, while the [[Austrian People's Party]] put up career diplomat [[Thomas Klestil]]. Streicher won the first ballot by a small margin, but did not obtain the necessary majority of votes to avoid a second round. However, with the candidates of the smaller parties out in the second ballot, and after a recommendation by [[Jörg Haider]] to vote for Klestil, the latter won the second round by an unexpectedly wide margin.
+
+==Results==
+{{Election results
+|cand1=[[Rudolf Streicher]]|party1=[[Social Democratic Party of Austria]]|votes1=1888599|votes1_2=1915380
+|cand2=[[Thomas Klestil]]|party2=Independent ([[Austrian People's Party|ÖVP]])|votes2=1728234|votes2_2=2528006
+|cand3=[[Heide Schmidt]]|party3=[[Freedom Party of Austria]]|votes3=761390
+|cand4=[[Robert Jungk]]|party4=[[The Greens – The Green Alternative|Green Party]]|votes4=266954
+|invalid=143717|invalid2=149546
+|electorate=5676903|electorate2=5676903
+|source=[https://web.archive.org/web/20160303190431/http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/historisches/BPW_1992.pdf Ministry of Interior]
+}}
+
+===Results by state===
+====First round====
+{| class="wikitable sortable" style=text-align:right
+!State
+![[Rudolf Streicher]] 
+![[Thomas Klestil]]
+![[Heide Schmidt]] 
+![[Robert Jungk]] 
+!Electorate
+!Votes
+!Valid votes 
+!Invalid votes 
+|-
+|align=left|[[Burgenland]]||'''90,054''' ||71,678 ||21,445 ||4,923 ||207,835 ||192,453 ||188,100 ||4,353
+|-
+|align=left|[[Lower Austria]]||386,625 ||'''408,172''' ||119,741 ||36,325 ||1,089,930 ||975,270 ||950,863 ||24,410
+|-
+|align=left|[[Wien]]||'''353,403''' ||239,388 ||109,593 ||64,564 ||1,129,365 ||782,192 ||766,948 ||15,244
+|-
+|align=left|[[Kärnten]]||'''149,860''' ||84,771 ||102,424 ||13,236 ||411,862 ||363,192 ||350,291 ||12,901
+|-
+|align=left|[[Steiermark]]||'''325,276''' ||277,035 ||138,167 ||36,259 ||890,544 ||809,965 ||776,737 ||33,228
+|-
+|align=left|[[Upper Austria]]||'''310,130''' ||292,000 ||117,235 ||43,602 ||952,581 ||781,316 ||762,967 ||18,349
+|-
+|align=left|[[Salzburg (state)|Salzburg]]||92,084 ||'''97,786''' ||49,028 ||20,413 ||338,378 ||266,449 ||259,311 ||7,138
+|-
+|align=left|[[Tyrol (state)|Tirol]]||118,811 ||'''165,314''' ||61,895 ||25,776 ||441,894 ||388,706 ||371,796 ||16,910
+|-
+|align=left|[[Vorarlberg]]||50,855 ||'''80,676''' ||37,794 ||18,549 ||214,514 ||198,681 ||187,874 ||10,807
+|-
+|colspan=9 align=left| Source: [http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/FIREF1994_Display&node=0&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/FIREF1994_Display_C1&top=yes European Election Database] {{Webarchive|url=https://web.archive.org/web/20210624200112/http://eed.nsd.uib.no/webview/index.jsp?study=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfStudy%2FFIREF1994_Display&node=0&mode=cube&v=2&cube=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfCube%2FFIREF1994_Display_C1&top=yes |date=2021-06-24 }} 
+|}
+
+====Second round====
+{| class="wikitable sortable"  style=text-align:right
+!State
+![[Thomas Klestil]]
+![[Rudolf Streicher]] 
+!Electorate
+!Votes
+!Valid votes 
+!Invalid votes 
+|-
+|align=left|[[Burgenland]]||'''97,021'''||94,162||207,835||195,365||191,183||4,182
+|-
+|align=left|[[Lower Austria]]||'''547,575'''||390,786||1,089,930||961,465||938,361||23,104
+|-
+|align=left|[[Wien]]||'''345,561'''||339,297||1,129,365||699,697||684,858||14,839
+|-
+|align=left|[[Kärnten]]||'''181,398'''||157,704||411,862||353,801||339,102||14,699
+|-
+|align=left|[[Steiermark]]||'''419,516'''||334,744||890,544||790,280||754,260||36,020
+|-
+|align=left|[[Upper Austria]]||'''414,159'''||315,767||952,581||749,071||729,926||19,145
+|-
+|align=left|[[Salzburg (state)|Salzburg]]||'''144,453'''||93,779||338,378||244,483||238,232||6,251
+|-
+|align=left|[[Tyrol (state)|Tirol]]||'''234,347'''||117,644||441,894||369,721||351,991||17,730
+|-
+|align=left|[[Vorarlberg]]||'''121,286'''||57,544||214,514||191,898||178,830||13,068
+|-
+|colspan=9 align=left| Source: [http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/FIREF1994_Display&node=0&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/FIREF1994_Display_C1&top=yes European Election Database] {{Webarchive|url=https://web.archive.org/web/20210624200112/http://eed.nsd.uib.no/webview/index.jsp?study=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfStudy%2FFIREF1994_Display&node=0&mode=cube&v=2&cube=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfCube%2FFIREF1994_Display_C1&top=yes |date=2021-06-24 }} 
+|}
+
+==References==
+{{reflist}}
+
+{{Austrian elections}}
+{{Austrian presidential elections}}
+
+[[Category:1992 elections in Europe|Austria]]
+[[Category:1992 elections in Austria|President]]
+[[Category:Presidential elections in Austria]]
+[[Category:April 1992 in Europe|Austria]]
+[[Category:May 1992 in Europe|Austria]]
+
+{{Austria-election-stub}}

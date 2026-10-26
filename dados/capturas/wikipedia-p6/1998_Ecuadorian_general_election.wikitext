@@ -1,0 +1,97 @@
+{{Short description|Presidential and congressional election in Ecuador}}
+{{Infobox election
+| country = Ecuador
+| previous_election = 1996 Ecuadorian general election
+| previous_year = 1996
+| next_election = 2002 Ecuadorian general election
+| next_year = 2002
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date =  31 May 1998 (first round)<br />12 July 1998 (second round)
+| registered = 7,072,496
+| turnout = 64.16% (first round)<br />70.13% (second round)
+
+| image1 = JamilMahuad.jpg
+| nominee1 = '''[[Jamil Mahuad]]'''
+| color1 = 3CB371
+| party1 = [[Christian Democratic Union (Ecuador)|Popular Democracy]]
+| running_mate1 = '''[[Gustavo Noboa]]'''
+| popular_vote1 = '''2,243,000'''
+| percentage1 = '''51.17%'''
+
+| image2 = Álvaro Noboa.jpg
+| nominee2 = [[Álvaro Noboa]]
+| party2 = Ecuadorian Roldosist Party
+| running_mate2 = Alfredo Castillo
+| popular_vote2 = 2,140,481
+| percentage2 = 48.83%
+
+| map_image = | map = {{Switcher|[[File:Votos Presidente por Provincia Ecuador primera vuelta 1998.svg|200px]]|First round results by province|[[File:Votos Presidente por Provincia Ecuador segunda vuelta 1998.svg|200px]]|Second round results by province|default=2}}
+
+| title = [[President of Ecuador|President]]
+| before_election = [[Fabian Alarcon]]
+| before_party = Alfarista Radical Front
+| after_election = [[Jamil Mahuad]]
+| after_party = Democracia Popular
+}}}}{{Politics of Ecuador}}
+
+General elections were held in [[Ecuador]] on 31 May 1998, with a second round of the presidential elections on 12 July.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p380 {{ISBN|978-0-19-928358-3}}</ref> The result was a victory for [[Jamil Mahuad]] of the [[Christian Democratic Union (Ecuador)|Popular Democracy]] (DP) party, who won the run-off with 51.2% of the vote.<ref>Nohlen, p404</ref> The DP alliance also emerged as the largest party in the [[National Congress (Ecuador)|National Congress]], winning 32 of the 120 seats.<ref>Nohlen, p396</ref>
+
+==Background==
+Following the [[1996 Ecuadorian general election|1996 general elections]], President [[Abdalá Bucaram]] was removed from office by Congress nine months later on grounds of mental incapacity. [[Fabian Alarcon]] thereupon took his place as caretaker Head of State.
+
+==Contestants==
+The leading contestants of the six (including two women) vying for the presidency were Jamil Mahuad (DP), the mayor of [[Quito]], and [[Álvaro Noboa]] ([[Ecuadorian Roldosist Party]]), a wealthy businessman. Campaign debates were marked by personal accusations of drug links and threatened lawsuits between the two rivals, alongside statements on substantive policy questions relating primarily to corruption and the country's ailing economy. Problems in this latter sector (high inflation, budget deficit) had been aggravated by the sociological and infrastructural damage caused by the climatic phenomenon known as [[El Niño]] and the worldwide drop in oil prices, Ecuador's main export earner. Mahuad advocated an intense program of private investment to achieve a 5% annual growth rate, privatizations, job creation and housing construction.
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Jamil Mahuad]]|vp1=[[Gustavo Noboa]]|party1=[[Christian Democratic Union (Ecuador)|Popular Democracy]]|votes1=1342114|votes1_2=2243000
+|cand2=[[Álvaro Noboa]]|vp2=Alfredo Castillo|party2=[[Ecuadorian Roldosist Party]]|votes2=1022667|votes2_2=2140481
+|cand3=[[Rodrigo Borja Cevallos]]|vp3=Carlos Baquerizo|party3=[[Democratic Left (Ecuador)|Democratic Left]]|votes3=619581
+|cand4=[[Freddy Ehlers]]|vp4=Jorge Gallardo|party4=[[Pachakutik]]|votes4=566917
+|cand5=[[Rosalía Arteaga]]|vp5=Guido Carranza|party5=Independent Movement for an Authentic Republic|votes5=195000
+|cand6=María Eugenia Lima|vp6=Ricardo Ramírez|party6=[[Democratic People's Movement]]|votes6=97522
+|invalid=694021|invalid2=576594
+|electorate=7072496|electorate2=7072496
+|source=Nohlen
+}}
+
+===National Congress===
+{{Election results
+|image=[[File:Congreso Ecuador 1998.svg]]
+|firstround=|secondround=
+|party1=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes1=839567|votes1_2=5114369|seats1=28|sc1=+1
+|party2=[[Christian Democratic Union (Ecuador)|Popular Democracy]]|votes2=669473|votes2_2=6008940|seats2=35|sc2=+24
+|party3=[[Ecuadorian Roldosist Party]]|votes3=628265|votes3_2=4429114|seats3=22|sc3=+3
+|party4=[[Democratic Left (Ecuador)|Democratic Left]]|votes4=544088|votes4_2=3006737|seats4=17|sc4=+13
+|party5=[[Pachakutik Plurinational Unity Movement – New Country|MUPP]]–[[Socialist Party – Broad Front of Ecuador|PSFA]]|votes5=325365|votes5_2=127891|seats5=8|sc5=–
+|party6=[[Conservative Party (Ecuador)|Conservative Party]]|votes6=184048|seats6=3|sc6=+2
+|party7=[[Democratic People's Movement]]|votes7=151096|votes7_2=980253|seats7=2|sc7=0
+|party8=[[Alfarista Radical Front]]|votes8=54137|votes8_2=559548|seats8=2|sc8=–
+|party9=National Alfarismo Party|votes9=51515|seats9=0|sc9=–
+|party10=[[Concentration of People's Forces]]|votes10=37507|votes10_2=241002|seats10=1|sc10=0
+|party11=[[Ecuadorian Revolutionary Popular Action]]|votes11=28837|votes11_2=180399|seats11=0|sc11=–2
+|party12=Latin American People's Union|votes12=14043|votes12_2=145410|seats12=0|sc12=0
+|party13=Other parties and independents|votes13_2=980253|seats13=3|sc13=–
+|valid2=2525491
+|invalid=1009881|invalid2=953033
+|total_sc=+39
+|electorate=7072496|electorate2=7072496
+|source=Nohlen, [https://web.archive.org/web/20160304190341/http://americo.usal.es/oir/legislatina/ecuador.htm OPLAL]
+}}
+
+==References==
+{{reflist}}
+
+{{Ecuadorian elections}}
+
+[[Category:1998 in Ecuador|General]]
+[[Category:Parliamentary elections in Ecuador]]
+[[Category:Presidential elections in Ecuador]]
+[[Category:1998 elections in South America|Ecuador]]
+[[Category:May 1998 in South America|Ecuador]]
+[[Category:July 1998 in South America|Ecuador]]
+[[Category:Election and referendum articles with incomplete results]]

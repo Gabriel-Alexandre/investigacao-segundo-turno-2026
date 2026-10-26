@@ -1,0 +1,1081 @@
+{{Short description|none}}
+{{Infobox election
+| country = Finland
+| type = presidential
+| previous_election = 2012 Finnish presidential election
+| previous_year = 2012
+| next_election = 2024 Finnish presidential election
+| next_year = 2024
+| election_date = 28 January 2018
+| turnout = 66.76% 
+
+| image1 =  {{CSS image crop|Image = Sauli Niinistö - 171106-D-GY869-041 (37501659204) (cropped).jpg|bSize = 113|cWidth = 113|cHeight = 150|oTop = 0|oLeft = 0}}
+| candidate1 = '''[[Sauli Niinistö]]'''
+| party1 = [[Independent politician|Independent]]
+| popular_vote1 = '''1,875,342'''
+| percentage1 = '''62.64%'''
+
+| image2 = {{CSS image crop|Image =Pekka Haavisto 2017 04.jpg |bSize = 113|cWidth = 113|cHeight = 150|oTop = 0|oLeft = 0}}
+| candidate2 = [[Pekka Haavisto]]
+| party2 = Green League
+| popular_vote2 = 371,254
+| percentage2 = 12.40%
+
+| image4 = {{CSS image crop|Image = Laura Huhtasaari crop.jpg |bSize = 128|cWidth = 113|cHeight = 150|oTop = 0|oLeft = 10}}
+| candidate4 = [[Laura Huhtasaari]]
+| party4 = Finns Party
+| popular_vote4 = 207,337
+| percentage4 = 6.93%
+
+| image5 =  {{CSS image crop|Image = Paavo Väyrynen 2017 03.jpg |bSize = 113|cWidth = 113|cHeight = 150|oTop = 0|oLeft = 0}}
+| candidate5 = [[Paavo Väyrynen]]
+| party5 = Independent politician
+| popular_vote5 = 185,305
+| percentage5 = 6.19%
+
+| map_image = {{switcher|[[file:Finland 2018 presidential election map.svg|200px]]|Results by municipality|[[File:2018 Finnish Presidential Election.svg|200px]]|Results by electoral district|default = 1}}
+| map_caption = '''Niinistö:''' {{legend0|#e6e6ffff|40–45%}} {{legend0|#d0d2ffff|45–50%}} {{legend0|#afb0ffff|50–55%}} {{legend0|#9999ffff|55–60%}} {{legend0|#7777ffff|60–65%}} {{legend0|#5555ffff|65–70%}} {{legend0|#3235e6ff|70–75%}} {{legend0|#00008bff|80–85%}}
+
+| title = President
+| before_election = [[Sauli Niinistö]]
+| before_party = National Coalition Party
+| after_election = [[Sauli Niinistö]]
+| after_party = Independent politician
+}}{{Politics of Finland}}
+
+Presidential elections were held in [[Finland]] on 28 January 2018.<ref>{{cite web |url=http://www.vaalit.fi/fi/index/ajankohtaista/vuosina2013-2030jarjestettavatvaalit.html |title=Vuosina 2016-2030 toimitettavat säännönmukaiset vaalit |website=Ministry of Justice |access-date=17 March 2016 |language=fi |archive-url=https://web.archive.org/web/20160314062444/http://www.vaalit.fi/fi/index/ajankohtaista/vuosina2013-2030jarjestettavatvaalit.html |archive-date=14 March 2016 |url-status = dead|df=dmy-all }}</ref> The incumbent [[Sauli Niinistö]] received 63% of the vote and was re-elected for a second term, avoiding a [[Two-round system|second round]].<ref>{{cite web|url=https://yle.fi/uutiset/3-10045753|title=Sauli Niinistö jatkaa Suomen presidenttinä – kaikki äänet on laskettu|website=Yle Uutiset}}</ref> He received a plurality of the vote in every [[Municipalities of Finland|municipality]] and a majority in all but 13 municipalities.<ref>{{cite web|url=https://yle.fi/uutiset/3-10045729|title=Katso kartalta Niinistön kannatus kunnittain: Luodossa hän keräsi äänistä 84 prosenttia, Tervolassa reilusti alle puolet|website=Yle Uutiset}}</ref>
+
+Niinistö's second term was from 1 February 2018 to 1 March 2024.
+
+==Candidates==
+===Confirmed candidates===
+{| class="wikitable" style="text-align:center;"
+! colspan="3" style="width:20%;"| Candidate name and age,<br />political party
+! Political office(s)
+! Campaign logo
+! style="width:48%;"| Details
+|-
+| '''[[Tuula Haatainen]]''' ({{Age|1960|2|11|2018|1|28}})<br />[[Social Democratic Party of Finland|Social Democrats]]
+| [[Image:Tuula Haatainen 2017 05.jpg|80px|Tuula Haatainen]]
+| style="background-color:{{party color|Social Democratic Party of Finland}};" |
+| '''[[Parliament of Finland|MP]] for [[Helsinki]]'''<br /><small>(1996–2007, since 2015)</small>
+{{Hidden|Other offices|
+* Minister for Education from 2003 to 2005
+* Minister for Social Affairs and Health from 2005 to 2007}}
+| 
+| Haatainen was minister for education in the short-lived [[Jäätteenmäki Cabinet]] and retained her post in the subsequent [[Vanhanen I Cabinet]]. After that she was Minister for Social Affairs and Health from 2005 to 2007.
+|-
+| '''[[Pekka Haavisto]]''' ({{Age|1958|3|23|2018|1|28}})<br />[[Green League|Greens]]
+| [[File:Pekka Haavisto 2017 03.jpg|80px|Pekka Haavisto]]
+| style="background-color:{{party color|Green League}};" |
+| '''Minister for International Development'''<br /><small>(2013–2014)</small><br />'''[[Parliament of Finland|MP]] for [[Helsinki]]'''<br /><small>(1987–1995, since 2007)</small>
+{{Hidden|Other offices|
+* Minister of the Environment and Development from 1995 to 1999
+* Chairman of the Green League from 1993 to 1995}}
+| 
+| Haavisto ran in the [[2012 Finnish presidential election|2012 presidential election]] and reached the second round of voting, but lost to [[Sauli Niinistö]] of the [[National Coalition Party]]. Prior to the campaign he had been an MP since 2007, and had worked for the [[United Nations]] from 1999 to 2005.
+|-
+| '''[[Laura Huhtasaari]]''' ({{Age|1979|3|30|2018|1|28}})<br />[[Finns Party|Finns]]
+| [[File:Laura Huhtasaari crop.jpg|80px|Laura Huhtasaari]]
+| style="background-color:{{party color|Finns Party}};" |
+| '''[[Parliament of Finland|MP]] for [[Satakunta]]'''<br /><small>(since 2015)</small>
+| [[File:Laura Huhtasaari 2018 logo.png|120px|Logo of Laura Huhtasaari]]
+| Huhtasaari was elected to the Parliament in 2015 with 9,259 votes, and was elected vice chair of the Finns Party in [[2017 Finns Party leadership election|June 2017]]. In the Parliament, she also has been member of the Legal Affairs Committee, the Education and Culture Committee and the Finnish Delegation to the Nordic Council.
+|-
+| '''[[Merja Kyllönen]]''' ({{Age|1977|1|25|2018|1|28}})<br />[[Left Alliance (Finland)|Left Alliance]]
+| [[File:MerjaKyllönenPresidentiksi2 cropped.jpg|80px|Merja Kyllönen]]
+| style="background-color:{{party color|Left Alliance (Finland)}};" |
+| '''Minister of Transport'''<br /><small>(2011–2014)</small>
+{{Hidden|Other offices|
+* [[Member of the European Parliament|MEP]] for [[Finland (European Parliament constituency)|Finland]] since 2014
+* [[Parliament of Finland|MP]] for [[Oulu]] from 2007 to 2014}}
+| [[File:Merja2018.png|90px|Logo of Merja Kyllönen]]
+| Kyllönen served as minister of transport in the [[Katainen Cabinet]] from 2011 to 2014. She ran for the [[European Parliament]] in [[2014 European Parliament election in Finland|2014]] and was elected.
+|-
+| '''[[Sauli Niinistö]]''' ({{Age|1948|8|24|2018|1|28}})<br />[[Independent (politician)|Independent]]
+|[[File:Sauli Niinistö - 171106-D-GY869-041 (37501659204) (cropped).jpg|80px|]]
+| style="background-color:{{party color|Independent}};" |
+| '''[[President of Finland|President of the Republic of Finland]]'''<br /><small>(since 2012)</small><br />'''[[Speaker of the Parliament of Finland|Speaker of the Parliament]]'''<br /><small>(2007–2011)</small>
+{{Hidden|Other offices|
+* [[Minister of Finance (Finland)|Minister of Finance]] from 1996 to 2003
+* [[Minister of Justice (Finland)|Minister of Justice]] from 1995 to 1996
+* Chairman of the [[European Democrat Union]] from 1998 to 2002
+* [[Deputy Prime Minister of Finland]] from 1995 to 2001
+* Chairman of the [[National Coalition Party]] from 1994 to 2001
+* Chair of the City Council of Salo from 1989 to 1992
+* Chair of the City Council of Salo from 1989 to 1992
+* [[Parliament of Finland|MP]] for [[Finland Proper (electoral district)|Turku Province South]] from 1987 to 1999
+* [[Parliament of Finland|MP]] for [[Helsinki (electoral district)|Helsinki]] from 1999 to 2003
+* [[Parliament of Finland|MP]] for [[Uusimaa (electoral district)|Uusimaa]] from 2007 to 2011
+* Member of the City Council of Salo from 1977 to 1992
+* Member of the City Board of Salo from 1977 to 1988}}
+| [[File:Sauli Niinistö 2018 logo.svg|100px|Logo of Sauli Niinistö]]
+| The incumbent president of Finland ran as a member of the [[National Coalition Party]] in [[2012 Finnish presidential election|2012]] after narrowly losing in [[2006 Finnish presidential election|2006]]. For 2018 he decided to run as an [[Independent (politician)|Independent]] to "test his support" among the public. He gathered 156,000 signatures and his candidacy was confirmed on 25 September.
+|-
+| '''[[Nils Torvalds]]''' ({{Age|1945|8|7|2018|1|28}})<br />[[Swedish People's Party of Finland|Swedish People's]]
+| [[File:Nils Torvalds MEP, Strasbourg - Diliff.jpg|80px|Nils Torvalds]]
+| style="background-color:{{party color|Swedish People's Party of Finland}};" |
+| '''[[Member of the European Parliament|MEP]] for [[Finland (European Parliament constituency)|Finland]]'''<br /><small>(since 2012)</small>
+| [[File:Nils Torvalds 2018 logo.svg|100px|Logo of Nils Torvalds]]
+| Former member of the [[Communist Party of Finland]], Torvalds worked at the Swedish-speaking department of the [[Finnish Broadcasting Company]] (Yle) from 1982 to 2004. He joined the [[Swedish People's Party of Finland]] in 2006 and was elected its third vice chairman in 2007. He ran for European Parliament in 2009 and wasn't elected, but he acceded to the position in 2012 after [[Carl Haglund]] resigned.
+|-
+| '''[[Matti Vanhanen]]''' ({{Age|1955|11|4|2018|1|28}})<br />[[Centre Party (Finland)|Centre]]
+| [[File:Matti Vanhanen 2017 09.jpg|80px|Matti Vanhanen]]
+| style="background-color:{{party color|Centre Party (Finland)}};" |
+| '''[[Prime Minister of Finland]]'''<br /><small>(2003–2010)</small><br />'''[[Minister of Defence (Finland)|Minister of Defence]]'''<br /><small>(2003)</small>
+| 
+| Former prime minister ran in 2006 and got 18,6% of the vote. He left politics after his tenure as prime minister, but returned in 2015 when he was re-elected as an MP.
+|-
+| '''[[Paavo Väyrynen]]''' ({{Age|1946|9|2|2018|1|28}})<br />[[Independent (politician)|Independent]]
+| [[File:Paavo Väyrynen 2017 01.jpg|80px|Paavo Väyrynen]]
+| style="background-color:{{party color|Independent}};" |
+| '''[[Member of the European Parliament|MEP]] for [[Finland (European Parliament constituency)|Finland]]'''<br /><small>(1995–2007, since 2014)</small><br />'''[[Minister for Foreign Affairs (Finland)|Minister for Foreign Affairs]]''' <br /><small>(1977–1982, 1983–1987, 1991–1993)</small>
+{{Hidden|Other offices|
+* Minister for Foreign Trade and International Development from 2007 to 2011
+* [[Deputy Prime Minister of Finland]] from 1983 to 1987
+* [[Government of Finland|Minister of Labour]] from 1976 to 1977
+* [[Government of Finland|Minister of Education]] from 1975 to 1976
+* [[Parliament of Finland|MP]] for [[Lapland (electoral district)|Lapland]] from 2007 to 2011
+* [[Parliament of Finland|MP]] for [[Uusimaa (electoral district)|Uusimaa]] from 1991 to 1995
+* [[Parliament of Finland|MP]] for [[Lapland (electoral district)|Lapland]] from 1970 to 1991}}
+| [[File:VäyrynenLogo.png|120px|Logo of Paavo Väyrynen]]
+| Veteran politician Väyrynen has run for president as a Centre Party candidate three times; in 1988, 1994, and 2012. He quit the Centre Party in 2016 and founded his own [[Citizens' Party (Finland)|Citizens' Party]].
+|-
+|}
+
+===National Coalition Party===
+
+The incumbent president [[Sauli Niinistö]] was elected as the candidate of the [[National Coalition Party]] in the 2012 election. He was eligible for re-election and his decision for running again was closely followed throughout the latter half of his first term.<ref>{{cite web|url=http://yle.fi/uutiset/presidentti_niinisto_jatkohalut_julki_noin_vuosi_ennen_vaaleja/7836454 |title=Presidentti Niinistö: Jatkohalut julki noin vuosi ennen vaaleja |website=Yle |date=28 February 2015 |access-date=17 March 2016 |language=fi}}</ref> On 29 May 2017, Niinistö announced that he would seek support for his candidacy as an independent candidate outside party politics. To become an official candidate, Niinistö needed 20,000 signatures from his supporters.<ref>{{cite web|url=http://yle.fi/uutiset/3-9637194 |title=Sauli Niinistö hakee jatkokautta presidenttinä – mittauttaa suosionsa yhdistyksen avulla |website=Yle |date=29 May 2017 |access-date=29 May 2017 |language=fi}}</ref> Niinistö eventually gathered 156,000 signatures and his candidacy was confirmed on 25 September.<ref>{{cite web|url=https://www.niinisto.fi/2017/09/25/sauli-niinistolle-156-000-kannattajakorttia/|title=Sauli Niinistölle 156 000 kannattajakorttia|trans-title=Sauli Niinistö gathers 156 000 signatures|date=25 September 2017|access-date=25 September 2017|website=Sauli Niinistö|language=fi|archive-url=https://web.archive.org/web/20170925180847/https://www.niinisto.fi/2017/09/25/sauli-niinistolle-156-000-kannattajakorttia/|archive-date=25 September 2017|url-status = dead|df=dmy-all}}</ref>
+
+Soon after Niinistö's announcement, the leader of the National Coalition Party [[Petteri Orpo]] [[Twitter|tweeted]] that Niinistö had the party's full support.<ref>{{cite web|url=http://yle.fi/uutiset/3-9637391 |title=Petteri Orpo twiittasi heti Niinistön jatkokausi-ilmoituksen jälkeen: "Kokoomus on täysillä mukana" |website=Yle |date=29 May 2017 |access-date=29 May 2017 |language=fi}}</ref>
+
+===Centre Party===
+[[File:Matti Vanhanen 2017 06.jpg|thumb|Former prime minister [[Matti Vanhanen]] was the Centre Party's candidate]]
+
+The [[Centre Party (Finland)|Centre Party]] decided on 30 November 2015 that the party would choose their presidential candidate already in June 2016.<ref name="Suomenmaa">{{cite web|url=http://www.suomenmaa.fi/?app=NeoDirect&com=6/3/92303/f27553d053&t=Keskustalta-yllatysveto-Presidenttiehdokas-jo-kesalla--Sipila-kieltaytyy#4403 |title=Keskustalta yllätysveto: Presidenttiehdokas jo kesällä - Sipilä kieltäytyy |website=Suomenmaa |date=15 March 2016 |access-date=14 April 2016 |language=fi}}</ref> Soon after, former prime minister and Centre Party's presidential candidate in 2006 election, [[Matti Vanhanen]], announced that he would run for candidacy.<ref name="HS173">{{cite web|url=http://www.hs.fi/politiikka/a1458188578788?ref=hs-prio-4-3 |title=Vanhanen lähtee presidenttikisaan ja luopuu keskustan eduskuntaryhmän johdosta |website=Helsingin sanomat |date=17 March 2016 |access-date=17 March 2016 |language=fi}}</ref><ref>[https://sites.google.com/site/vanhanenpresidentiksi/ Matti Vanhanen presidentiksi] (in Finnish). Retrieved 2016-05-21.</ref> Prime Minister [[Juha Sipilä]] declined his interest early on.<ref name="Suomenmaa"/> Other prominent names in speculations for the candidacy were the former prime ministers [[Esko Aho]] and [[Anneli Jäätteenmäki]], and former minister of Economic Affairs [[Olli Rehn]].<ref name="Karjalainen">{{cite web |url=http://www.karjalainen.fi/mielipiteet/mielipiteet/kolumnit/item/41381-eikohan-jo-avata-presidenttipelikin |title=Eiköhän jo avata presidenttipelikin |website=Helsingin sanomat |date=4 January 2014 |access-date=17 March 2016 |language=fi |archive-date=11 November 2014 |archive-url=https://web.archive.org/web/20141111011250/http://www.karjalainen.fi/mielipiteet/mielipiteet/kolumnit/item/41381-eikohan-jo-avata-presidenttipelikin |url-status=dead }}</ref><ref name="Iltalehti">{{cite web|url=https://www.iltalehti.fi/uutiset/a/2016022421164137 |title= Demarien presidenttipeli pyörii: Heinäluoma vai Urpilainen |website=Iltalehti|url-access=registration|date=23 February 2015 |access-date=17 March 2016 |language=fi}}</ref> Rehn declined the possibility stating that it wouldn't be possible to combine his duties as cabinet minister with campaigning.<ref>{{cite web|url=https://www.is.fi/kotimaa/art-2000001171463.html |title= Olli Rehn ei lähde presidenttikisaan |website=Ilta-sanomat |date=3 May 2016 |access-date=3 May 2016 |language=fi}}</ref> Aho did not comment his interest in candidacy, but it was considered unlikely for him to seek presidential nomination, as he was a candidate for the supervisory board of [[Sberbank of Russia|Sberbank]] at the time.<ref>{{cite web|url=https://www.is.fi/kotimaa/art-2000001140270.html |title= Ex-pääministeri Esko Aho ehdolla huippupaikalle venäläispankkiin |website=Ilta-sanomat |date=17 March 2016 |access-date=3 May 2016 |language=fi}}</ref> Jäätteenmäki, an incumbent [[Vice President of the European Parliament|vice president of the European Parliament]], said running for president was "not on her agenda".<ref>{{cite web|url=http://www.is.fi/kotimaa/art-2000001141136.html |title=Anneli Jäätteenmäki Suomen vaikeasta taloustilanteesta: "On aina niin helppo säästää toisten menoista" |website=Ilta-sanomat |date=20 March 2016 |access-date=6 June 2017 |language=fi}}</ref>
+
+As no challengers appeared till the deadline of 11 May, Vanhanen was the sole candidate in June's party congress and was confirmed as the Centre Party's candidate in the presidential election.<ref>{{cite web|url=http://www.hs.fi/kotimaa/a1462936635076 |title=Matti Vanhasesta keskustan presidenttiehdokas – kukaan ei ilmoittautunut haastajaksi |website=Helsingin sanomat |date=11 May 2016 |access-date=11 May 2016 |language=fi}}</ref><ref>{{cite web|url=https://www.iltalehti.fi/uutiset/a/2016061221714870 |title=Matti Vanhasesta yksimielisesti keskustan presidenttiehdokas |website=Iltalehti|url-access=registration|date=12 June 2016 |access-date=12 June 2016 |language=fi}}</ref> Vanhanen said that his candidacy was motivated by the support he felt he had around the country during his last campaign and the will to improve the security situation in the areas surrounding Finland.<ref>[https://www.is.fi/kotimaa/art-2000001140341.html Matti Vanhanen kertoo nyt, miksi hän haluaa Suomen presidentiksi] (in Finnish). ''Ilta Sanomat''. Retrieved 2016-05-21.</ref>
+
+===Finns Party===
+[[File:Laura Huhtasaari crop.jpg|thumb|Finns Party MP [[Laura Huhtasaari]] was nominated as the party's candidate]]
+
+The Finns Party was expected to confirm their candidate in the summer of 2017.<ref>{{cite web |url=http://www.verkkouutiset.fi/kotimaa/sampo%20terho-52121 |title=Hänestäkö PS:n presidenttiehdokas? "En missään nimessä sulje pois" |website=Verkkouutiset |date=24 June 2016 |access-date=24 June 2016 |language=fi }}{{Dead link|date=September 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The leader of the [[Finns Party]] [[Timo Soini]] announced early on in November 2014 that he would not seek candidacy in the 2018 presidential election, after getting 3,43 % and 9,4 % of votes in [[2006 Finnish presidential election|2006]] and [[2012 Finnish presidential election|2012]] presidential elections respectively.<ref>{{cite web|url=http://www.apu.fi/artikkeli/timo-soini-en-lahde-enaa-presidenttiehdokkaaksi |title=Timo Soini: En lähde enää presidenttiehdokkaaksi |website=Apu |date=28 November 2014 |access-date=14 April 2016 |language=fi}}</ref> He reaffirmed his decision in April 2016, encouraging party to move on and inviting new faces to enter party's primaries.<ref>{{cite web|url=https://www.is.fi/kotimaa/art-2000001158360.html |title=Timo Soini ei pyri presidentiksi – "Puolueen on aika siirtyä eteenpäin" |website=Ilta-sanomat |date=14 April 2016 |access-date=14 April 2016 |language=fi}}</ref> As Soini had been a strong face for the Finns Party, his decision sparked much speculation on the party's decision, as party's presidential candidate was expected to also follow Soini as the chairman.<ref name="HS210">{{cite web|url=http://www.hs.fi/politiikka/a1475375399412 |title=Miksi eturivin perussuomalaiset ilmoittavat kilvan harkitsevansa presidenttiehdokkuutta? Kyseessä on taistelu Timo Soinin perinnöstä ja seuraajasta |website=Helsingin sanomat |date=2 October 2016 |access-date=2 October 2016 |language=fi}}</ref>
+
+In March 2017 Soini announced that he would not seek another term as the leader of the party. Soon after, the chairman of the parliamentary group [[Sampo Terho]] announced that he would seek chairmanship and, if elected, also presidential candidacy.<ref>{{cite web|url=http://www.hs.fi/politiikka/art-2000005115728.html |title=Perussuomalaisen puheenjohtajaksi pyrkivä Sampo Terho väläytteli Suomeen EU-kansanäänestystä – "Se voi olla kynnyskysymys" |website=Helsingin sanomat |date=6 March 2017 |access-date= 6 March 2017 |language=fi}}</ref> Member of the European Parliament [[Jussi Halla-aho]], Minister of Defence [[Jussi Niinistö]] and Speaker of the Parliament [[Maria Lohela]] did also express their interest in candidacy, while Minister of Justice and Labor [[Jari Lindström]] declined early on.<ref name="HS210"/><ref>{{cite web|url=https://www.iltalehti.fi/uutiset/a/201612132200040247 |title=Halla-aho valmis harkitsemaan presidenttiehdokkuutta - "en lähde sen kanssa sooloilemaan" |website=Iltalehti|url-access=registration|date=13 December 2016 |access-date=14 December 2016 |language=fi}}</ref> However, only Halla-aho decided to also seek chairmanship in the leadership election.<ref>{{cite news|title=Halla-aho's bid for Finns Party leadership boosts interest in party membership|url=http://yle.fi/uutiset/osasto/news/halla-ahos_bid_for_finns_party_leadership_boosts_interest_in_party_membership/9543180|access-date=17 June 2017|website=Yle|date=2 April 2017}}</ref>
+
+Choosing the presidential candidate for the party was on the agenda for party congress in June 2017. However, after Jussi Halla-aho won the [[2017 Finns Party leadership election|leadership election]], the decision was postponed by Halla-aho's request.<ref>{{cite web |url=https://www.aamulehti.fi/kotimaa/perussuomalaiset-lykkasi-presidenttiehdokkaan-valintaa-varikkaiden-vaiheiden-jalkeen-200200611/ |title=Perussuomalaiset lykkäsi presidenttiehdokkaan valintaa värikkäiden vaiheiden jälkeen |website=Aamulehti |date=11 June 2017 |access-date=17 June 2017 |language=fi |archive-url=https://web.archive.org/web/20170731064111/https://www.aamulehti.fi/kotimaa/perussuomalaiset-lykkasi-presidenttiehdokkaan-valintaa-varikkaiden-vaiheiden-jalkeen-200200611/ |archive-date=31 July 2017 |url-status=dead }}</ref> A few days after the leadership election, twenty Finns Party MPs, including all cabinet ministers, defected to form a new parliamentary group under the name [[New Alternative]].<ref>[https://yle.fi/uutiset/osasto/news/finns_party_splinters_new_group_makes_bid_for_sipila_government/9666946 Finns Party splinters, new group makes bid for Sipilä government] YLE 13.6.2017</ref> After the split, most of the potential presidential candidates had left the party. However, the newly elected vice-chairman [[Laura Huhtasaari]] and MP [[Tom Packalén]] announced that they were thinking about the candidacy.<ref name="Demokraatti">{{cite web|url=https://demokraatti.fi/kaksi-perussuomalaista-harkitsee-presidenttiehdokkuutta/ |title=Kaksi perussuomalaista harkitsee presidenttiehdokkuutta |website=Demokraatti |date=22 June 2017 |access-date=22 June 2017 |language=fi}}</ref><ref>{{cite web|url=https://www.iltalehti.fi/politiikka/a/201707212200277944 |title=PS:n Tom Packalén harkitsee vakavasti presidenttiehdokkuutta: "Poliisikokemukseni myötä tunnen ihmisten erilaiset elämätilanteet" |website=Iltalehti|url-access=registration|date=21 July 2017 |access-date=21 July 2017 |language=fi}}</ref>
+
+On 4 August 2017 Halla-aho announced that the board of the Finns Party had chosen Huhtasaari as the presidential candidate of the party,<ref name="hshuhtasaari">{{cite news|title=Perussuomalaiset aikovat asettaa kansanedustaja Laura Huhtasaaren presidenttiehdokkaaksi|url=http://www.hs.fi/politiikka/art-2000005314879.html|access-date=4 August 2017|work=Helsingin Sanomat}}</ref> and her candidacy was confirmed by the party council on 23 September.
+
+===Blue Reform===
+On 19 June 2017 [[Sampo Terho]] announced that a new party would be formed based on the [[New Alternative]] parliamentary group under the name [[Blue Reform]].<ref>{{Cite web | url=https://yle.fi/uutiset/osasto/news/finns_party_breakaway_group_to_be_named_blue_reform/9678859 | title=Finns Party breakaway group to be named Blue Reform | date=19 June 2017 | access-date=20 June 2017 | website = Yle}}</ref> The vice-chair of the Blue Reform parliamentary group [[Tiina Elovaara]] stated initially that the group was likely to have their own presidential candidate.<ref name="Demokraatti"/> However, as the party was formed after the previous parliamentary election and thus had no elected MPs, it would have required to gather a sufficient number of signatures to set an own candidate.<ref>{{Cite web | url=https://www.iltalehti.fi/politiikka/a/201707162200267837 | title=Uuden vaihtoehdon lähtö presidentinvaaleihin on vielä auki | date=16 July 2017 | access-date=17 July 2017 | work = Iltalehti}}</ref> Thus, ultimately, the party decided not to put forth their own candidate and neither did it formally back any running candidate.<ref>{{Cite web | url=https://www.is.fi/presidentinvaalit2018/art-2000005417834.html | title=Siniset jättää presidentinvaalit väliin – ei asetu minkään ehdokkaan taakse | date=21 October 2017 | access-date=21 October 2017 | work = Ilta-Sanomat}}</ref>
+
+===Green League===
+[[File:Pekka Haavisto 2017 03.jpg|thumb|The 2012 presidential candidate for Green League, [[Pekka Haavisto]], reprised his candidacy]]
+
+The party's 2012 presidential candidate, [[Pekka Haavisto]], announced in February 2017 that he will reprise his candidacy.<ref>{{cite web|url=http://www.hs.fi/politiikka/art-2000005084134.html |title=Vihreiden Pekka Haavisto lähtee presidenttikisaan – "Pitää katsoa eteenpäin seuraavaan sataan vuoteen" |website=Helsingin sanomat |date=11 February 2017 |access-date=11 February 2017 |language=fi}}</ref> The decision came after Haavisto had been approached multiple times by the Green Party.<ref name="HS15">{{cite web|url=http://www.hs.fi/kotimaa/a1461984476887 |title=Vuoden 2018 presidenttipeli vielä auki – he saattavat havitella paikkaa |website=Helsingin sanomat |date=1 May 2016 |access-date=1 May 2016 |language=fi}}</ref> Previously the party leader [[Ville Niinistö]], President Niinistö's nephew, had stated that he would not seek the candidacy.<ref>{{cite web|url=http://yle.fi/uutiset/vihreille_presidenttiehdokas_viela_tana_vuonna/8898541?origin=rss |title=Vihreille presidenttiehdokas vielä tänä vuonna |website=Yle |date=21 May 2016 |access-date=21 May 2016 |language=fi}}</ref> Haavisto was confirmed as the party's candidate on 12 February.<ref>{{cite web|url=http://www.hs.fi/politiikka/art-2000005084944.html |title=Pekka Haavisto kukitettiin vihreiden presidenttiehdokkaaksi - kilpailijoita ei ilmaantunut |work= Helsingin Sanomat |date=12 February 2017 |access-date=13 February 2017}}</ref>
+
+===Left Alliance===
+The Left Alliance chose MEP [[Merja Kyllönen]] as the party's candidate on 18 March 2017, after being the only one interested in running.<ref name="HS1002">{{cite web|url=http://www.hs.fi/politiikka/art-2000005082533.html |title=Europarlamentaarikko Merja Kyllönen suostuu vasemmistoliiton presidenttiehdokkaaksi |website=Helsingin Sanomat|date=10 February 2017 |access-date=10 February 2017 |language=fi}}</ref> Former leader of the party [[Paavo Arhinmäki]] was also interested in running early on, but later decided to concentrate on running for the office of Mayor of Helsinki.<ref name="HS1002"/>
+
+===Social Democratic Party===
+Social Democratic Party organised an informal membership poll in August 2017 for electing the party's presidential candidate, with three candidates entering the race, MPs [[Maarit Feldt-Ranta]], [[Tuula Haatainen]] and [[Sirpa Paatero]].<ref>{{cite web|url=https://yle.fi/uutiset/3-9696287?origin=rss |title=SDP vahvisti jäsenäänestykseen osallistuvat presidenttiehdokkaansa – yllätysnimiä ei tullut |work=Yle |date=29 June 2017 |access-date=29 June 2017 |language=fi}}</ref> The final decision based on the membership poll was made on 2 September 2017, when it was revealed that Haatainen had received the most votes in the poll. Haatainen ultimately gained 48.6% of the votes against Feldt-Ranta's 42.3% and Paatero's 8.6%.<ref>{{cite web|url=http://www.is.fi/kotimaa/art-2000005350892.html |title=Tuula Haatainen Sdp:n presidenttiehdokkaaksi |website=Ilta-Sanomat |date=2 September 2017 |access-date=2 September 2017 |language=fi}}</ref>
+
+Before Feldt-Ranta, Haatainen and Paatero entered the party primary, Social Democratic Party was struggling to find potential candidates, as most of the prominent politicians had declined the candidacy. From early on, there was speculation on two possible candidates, [[Eero Heinäluoma]] and [[Jutta Urpilainen]].<ref name="Iltalehti"/><ref>{{cite web|url=https://www.is.fi/kotimaa/art-2000000592198.html |title=Demarin ex-vetäjä: Heinäluoma tähtää presidentiksi |website=Ilta-Sanomat |date=8 March 2013 |access-date=17 March 2016 |language=fi}}</ref> In June 2016, Heinäluoma announced that he would not seek presidency due to his wife's recent death and ongoing work in the Parliament.<ref>{{cite web|url=http://yle.fi/uutiset/sdpn_eero_heinaluoma_ei_pyri_presidentiksi__ehdottaa_urpilaista/8972191 |title=SDP:n Eero Heinäluoma ei pyri presidentiksi – ehdottaa Urpilaista |website=Yle |date=21 June 2016 |access-date=21 June 2016 |language=fi}}</ref> In February 2017, Urpilainen also announced she would not seek presidency.<ref>{{cite web|url=https://www.is.fi/kotimaa/art-2000005099448.html |title=Demokraatti: Jutta Urpilainen ei lähde Sdp:n presidenttiehdokkaaksi |website=Ilta-Sanomat |date=23 February 2017 |access-date=23 February 2017 |language=fi}}</ref> The leader of the party [[Antti Rinne]], the governor of the Bank of Finland [[Erkki Liikanen]] and MEP [[Liisa Jaakonsaari]] likewise announced that they were not entering the presidential race.<ref>{{cite web|url=https://www.iltalehti.fi/uutiset/a/201604150095818 |title=Antti Rinne ei lähde presidenttiehdokkaaksi |website=Iltalehti|url-access=registration|date=15 April 2016 |access-date=15 April 2016 |language=fi}}</ref><ref>{{cite web|url=https://www.is.fi/kotimaa/art-2000000233632.html |title=Erkki Liikanen haluaa jatkaa Suomen Pankissa |website=Iltalehti |date=7 March 2009 |access-date=21 June 2016 |language=fi}}</ref><ref>{{cite web|url=https://www.iltalehti.fi/uutiset/a/201703042200080570 |title=Liisa Jaakonsaari: "Kiva kun pyydetään, mutta en ole lähdössä presidenttiehdokkaaksi" |website=Iltalehti|url-access=registration|date=4 March 2017 |access-date=4 March 2017 |language=fi}}</ref> There were also talks within SDP on supporting a candidate outside the party, such as archbishop [[Kari Mäkinen]], if no candidate would be found from within.<ref>{{cite web|url=http://www.hs.fi/politiikka/a1473299985184 |title=Sdp:ssä pohditaan kuumeisesti presidenttiehdokasta –  vaihtoehtoina ovat myös Sauli Niinistö ja arkkipiispa Kari Mäkinen |work=Helsingin sanomat |date=8 September 2016 |access-date=8 September 2016 |language=fi}}</ref> Prominent SDP figureheads, such as [[Erkki Tuomioja]] and [[Lasse Lehtinen]], even suggested the possibility of backing the incumbent president Sauli Niinistö.<ref>{{cite web|url=https://yle.fi/uutiset/3-9649779 |title=Erkki Tuomioja: SDP:n vakavasti harkittava, voisiko puolue tukea Sauli Niinistöä |website=Yle |date=5 June 2017 |access-date=20 June 2017 |language=fi}}</ref>
+
+===Swedish People's Party===
+The [[Swedish People's Party of Finland|Swedish People's Party]] decided to choose their candidate in the party congress in June 2017. As no one else entered the party's primary on 11 June, Member of the European Parliament [[Nils Torvalds]] was nominated as the party candidate.<ref>{{cite web|url=https://yle.fi/uutiset/3-9662767|title=RKP:n presidenttiehdokkaaksi valittiin europarlamentaarikko Nils Torvalds|date=13 June 2017|website=Yle|language=fi|access-date=13 June 2017}}</ref> In Spring 2016, then leader of the party, [[Carl Haglund]] stated that he was thinking about candidacy, but renounced his leadership and left politics later that year.<ref>{{cite web|url=http://www.suomenmaa.fi/?app=NeoDirect&com=6/3/115375/2e37ad773c |title=Carl Haglund presidenttiehdokuudestaan Ykkösaamussa: "Lievä ehkä" |website=Suomenmaa |date=21 May 2016 |access-date=21 May 2016 |language=fi}}</ref><ref>{{cite web|url=http://www.ksml.fi/kotimaa/Haglund-j%C3%A4tt%C3%A4%C3%A4-politiikan-%E2%80%93-siirtyy-kiinalaisyritys-Kaidille/788235 |title=Haglund jättää politiikan – siirtyy kiinalaisyritys Kaidille |website=Keskisuomalainen |date=21 June 2016 |access-date=8 September 2016 |language=fi}}</ref>
+
+===Christian Democrats===
+On 19 August 2017, the [[Christian Democrats (Finland)|Christian Democrats]] decided to back the incumbent president Sauli Niinistö. It was previously speculated that the leader of the party and former presidential candidate [[Sari Essayah]] would run again.<ref>{{cite web |url=http://www.satakunnankansa.fi/paakirjoitukset/keskustelu-on-paikallaan/ |title=Keskustelu on paikallaan |website=Satakunnan Kansa |date=24 April 2016 |access-date=2 October 2016 |language=fi |archive-date=11 October 2016 |archive-url=https://web.archive.org/web/20161011100900/http://www.satakunnankansa.fi/paakirjoitukset/keskustelu-on-paikallaan/ |url-status=dead }}</ref> However, after Essayah announced that she would not seek the candidacy, the party convention decided to back Niinistö.<ref>{{cite web|url=https://yle.fi/uutiset/3-9786011 |title=Kristillisdemokraatit tukee presidentinvaaleissa Sauli Niinistöä |website=Yle |date=19 August 2017 |access-date=19 August 2017 |language=fi}}</ref>
+
+===Väyrynen's candidacy===
+Former Center Party politician and three-time presidential candidate [[Paavo Väyrynen]] announced that he would run as an independent candidate if he managed to gather the 20,000 signatures required from his supporters in time.<ref>{{cite web|url=https://yle.fi/uutiset/3-9725168 |title=Paavo Väyrynen neljättä kertaa presidenttiehdokkaana – jos löytyy riittävästi kannatusta |website=Yle |date=15 July 2017 |access-date=15 July 2017 |language=fi}}</ref> By 26 November, he had gathered around 15,000 signatures.<ref>{{cite web|url=https://www.is.fi/presidentinvaalit2018/art-2000005465173.html?ref=rss |title=Paavo Väyrynen on saanut kokoon noin 15 000 kannattajakorttia – vielä runsas kaksi viikkoa aikaa |work=Ilta-Sanomat |date=26 November 2017 |access-date=26 November 2017 |language=fi}}</ref> On 5 December, he announced that he had gathered the needed 20,000 signatures.<ref>{{cite web|url=https://www.hs.fi/politiikka/art-2000005477082.html |title=Keskustan jäsen Paavo Väyrynen sai kasaan presidenttiehdokkuuteen vaadittavat 20 000 kannattajakorttia – Vanhanen: "Hän on kilpailevan puolueen ehdokas"|website=Helsingin Sanomat|date=5 December 2017 |access-date=5 December 2017 |language=fi}}</ref>
+
+==Campaign==
+===Funding===
+The parties budgeted about as much for their campaigns than during the last presidential election in 2012. Ahead of the election, the campaign teams budgeted as follows: Niinistö 1,000,000–1,500,000 euros, Haatainen 550,000 euros, Haavisto and Vanhanen 500,000 euros, Torvalds 400,000 euros, Kyllönen 250,000 euros and Huhtasaari 200,000 euros.<ref>{{cite web|url=https://www.is.fi/taloussanomat/art-2000005425414.html |title=Uutissuomalainen: Haatainen lähtee presidentinvaaleihin isoimmalla budjetilla – Niinistö ei paljasta vielä |work=Taloussanomat |date=27 October 2017 |access-date=27 October 2017 |language=fi}}</ref><ref>{{cite web|url=https://demokraatti.fi/niinisto-pyrkii-jatkokaudelle-merkittavasti-vahemmalla-rahalla/ |title=Niinistö pyrkii jatkokaudelle merkittävästi vähemmällä rahalla |website=Demokraatti |date=28 October 2017 |access-date=28 October 2017 |language=fi}}</ref> Väyrynen didn't leave the notion ahead of the election, but revealed afterwards that his team had collected 162,000 euros for the campaign.<ref>{{cite web|url=https://yle.fi/uutiset/3-10128633 |title=Paavo Väyrynen keräsi vaalirahaa yli 160 000 euroa, listassa ei mainita lahjoittajien nimiä |website=Yle |date=22 March 2018 |access-date=29 March 2018 |language=fi}}</ref>
+
+After the election, Niinistö announced that the 300,000 euros that were reserved for the second round would be donated to the charity.<ref>{{cite web|url=https://yle.fi/uutiset/3-10138193 |title=Sauli Niinistö jätti vaalirahoitusilmoituksensa – lahjoittaa ylijääneet rahat hyväntekeväisyyteen |website=Yle |date=28 March 2018 |access-date=29 March 2018 |language=fi}}</ref>
+
+===Debates===
+The first presidential debate was organised on 30 October 2017 by the Finnish Business and Policy Forum at [[Finlandia Hall]]. All confirmed candidates took part, excluding Kyllönen, who was on a business trip. The event marks the earliest moment that an incumbent president had taken part in debates.<ref>{{cite web|url=https://www.is.fi/kotimaa/art-2000005428944.html |title=Presidenttiehdokkaat ensimmäisessä vaalitentissä |work=Ilta-Sanomat|date=30 October 2017 |access-date=30 October 2017 |language=fi}}</ref> The debates continued at the [[University of Helsinki]] on 13 November, with Vanhanen being absent after being hospitalised for [[heart arrhythmia]].<ref>{{cite web|url=https://yle.fi/uutiset/3-9928626 |title=Matti Vanhanen joutui sairaalaan sydämen rytmihäiriöiden vuoksi – perui osallistumisensa illan vaalitenttiin |website=Yle|date=13 November 2017 |access-date=13 November 2017 |language=fi}}</ref> As Väyrynen became an official candidate only in early December, he was not invited to the first three debates and thus the first debate, that gathered all candidates together, was organised on 13 December 2017.<ref>{{cite web|url=https://www.hs.fi/politiikka/art-2000005489031.html |title=Faktaa, tulkinnanvaraisuuksia ja harhaanjohtamista – HS seurasi illan kiivasta vaalitenttiä, täältä löydät mitä puhuttiin ja mikä piti paikkansa |work=Helsingin Sanoamt|date=13 December 2017 |access-date=13 December 2017 |language=fi}}</ref>
+
+<gallery>
+File:Sauli-niinisto-vaaliteltta2018.jpg|[[Sauli Niinistö]]'s election campaign in Helsinki
+File:Pekka-haavisto-2018.jpg|[[Pekka Haavisto]]'s election campaign in Helsinki
+File:Torvalds-vaalikoju2018.jpg|[[Nils Torvalds]]'s election campaign in Helsinki
+File:Sdp-vaaliteltta2018.jpg|[[Tuula Haatainen]]'s election campaign in Helsinki
+File:Presidentinvaalit 2018 - äänestyslippu.jpg|First round, Vote ticket
+</gallery>
+
+{| class="wikitable collapsible" style="font-size:85%;text-align:center;"
+|-
+!style="background:#B0C4DE;" colspan="12"|2018 Finnish presidential election first-round debates
+|-
+!style="white-space:nowrap;" rowspan="3"|Date
+!rowspan="3"|Organizers
+!rowspan="3"|Moderators
+!scope="col" colspan="8"|{{Colors|black|#90ff90|&nbsp;P&nbsp;}} Present {{Colors|black|#ff9090|&nbsp;N&nbsp;}} Not present
+!rowspan="3"|Sources
+|-
+!scope="col" style="width:60px;"|[[Tuula Haatainen|Haatainen]]
+!scope="col" style="width:60px;"|[[Pekka Haavisto|Haavisto]]
+!scope="col" style="width:60px;"|[[Laura Huhtasaari|Huhtasaari]]
+!scope="col" style="width:60px;"|[[Merja Kyllönen|Kyllönen]]
+!scope="col" style="width:60px;"|[[Sauli Niinistö|Niinistö]]
+!scope="col" style="width:60px;"|[[Nils Torvalds|Torvalds]]
+!scope="col" style="width:60px;"|[[Matti Vanhanen|Vanhanen]]
+!scope="col" style="width:60px;"|[[Paavo Väyrynen|Väyrynen]]
+|-
+!style="background:{{party color|Social Democratic Party of Finland}};"|
+!style="background:{{party color|Green League}};"|
+!style="background:{{party color|Finns Party}};"|
+!style="background:{{party color|Left Alliance (Finland)}};"|
+!style="background:{{party color|Independent}};"|
+!style="background:{{party color|Swedish People's Party of Finland}};"|
+!style="background:{{party color|Centre Party (Finland)}};"|
+!style="background:{{party color|Independent}};"|
+|-
+|style="white-space:nowrap;text-align:left;"|30 October 2017<br />17:30
+|style="white-space:nowrap;text-align:left;"|{{Interlanguage link|Finnish Business and Policy Forum|fi|Elinkeinoelämän valtuuskunta}} (EVA)<br />[[Ilta-Sanomat|ISTV]]
+|style="white-space:nowrap;text-align:left;"|–
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{No|'''N'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{No|'''N'''}}
+|<ref>{{cite web|url=https://www.is.fi/kotimaa/art-2000005428944.html |title=Presidenttiehdokkaat ensimmäisessä vaalitentissä |work=Ilta-Sanomat|date=30 October 2017 |access-date=13 October 2017 |language=fi}}</ref>
+|-
+|style="white-space:nowrap;text-align:left;"|13 November 2017<br />17:00
+|style="white-space:nowrap;text-align:left;"|[[Ilta-Sanomat|ISTV]]<br />Paasikivi Society<br />UKK Society<br />UNA Finland
+|style="white-space:nowrap;text-align:left;"|Timo Haapala
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{No|'''N'''}}
+|{{No|'''N'''}}
+|<ref>{{cite web|url=https://www.is.fi/presidentinvaalit2018/art-2000005445433.html |title=Presidenttiehdokkaat kohtasivat Helsingin yliopistolla tentissä – IS seurasi hetki hetkeltä |work=Ilta-Sanomat|date=13 November 2017 |access-date=13 November 2017 |language=fi}}</ref>
+|-
+|style="white-space:nowrap;text-align:left;"|27 November 2017<br />18:00
+|style="white-space:nowrap;text-align:left;"|Maanpuolustuskurssiyhdistys
+|style="white-space:nowrap;text-align:left;"|Pauli Aalto-Setälä
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{No|'''N'''}}
+|<ref>{{cite web|url=https://yle.fi/uutiset/3-9949959 |title=Presidenttiehdokkaat kohtasivat kolmannessa vaalitentissä – Yle seurasi hetki hetkeltä |website=Yle|date=27 November 2017 |access-date=13 December 2017 |language=fi}}</ref>
+|-
+|style="white-space:nowrap;text-align:left;"|13 December 2017<br />20:00
+|style="white-space:nowrap;text-align:left;"|[[MTV3]]
+|style="white-space:nowrap;text-align:left;"| Jaakko Loikkanen <br /> Juha Kaija
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|<ref>{{cite web|url=https://www.hs.fi/politiikka/art-2000005489031.html |title=Faktaa, tulkinnanvaraisuuksia ja harhaanjohtamista – HS seurasi illan kiivasta vaalitenttiä, täältä löydät mitä puhuttiin ja mikä piti paikkansa |work=Helsingin Sanomat|date=13 December 2017 |access-date=13 December 2017 |language=fi}}</ref>
+|-
+|style="white-space:nowrap;text-align:left;"|14 December 2017<br />21:05
+|style="white-space:nowrap;text-align:left;"|[[Yle]]
+|style="white-space:nowrap;text-align:left;"|Jan Andersson<br />Seija Vaaherkumpu
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|<ref>{{cite web|url=https://yle.fi/uutiset/3-9977681 |title=Väyrynen vaalikeskustelussa: Suomi vietiin perustuslakia rikkoen euroalueeseen |website=Yle|date=14 December 2017 |access-date=14 December 2017 |language=fi}}</ref>
+|-
+|style="white-space:nowrap;text-align:left;"|10 January 2018<br />11:30
+|style="white-space:nowrap;text-align:left;"|[[Kaleva (newspaper)|Kaleva]]<br />[[Yle]]
+|style="white-space:nowrap;text-align:left;"|Hanne Kinnunen <br /> Petri Laukka
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|<ref>{{cite web|url=https://yle.fi/uutiset/3-10013508 |title=Presidenttiehdokkaat vaalitentissä Oulussa |website=Yle|date=10 January 2018 |access-date=10 January 2018 |language=fi}}</ref>
+|-
+|style="white-space:nowrap;text-align:left;"|12 January 2018<br />18:00
+|style="white-space:nowrap;text-align:left;"|[[Aamulehti]]
+|style="white-space:nowrap;text-align:left;"|Sinikka Tuomi<br />Jussi Tuulensuu
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|<ref>{{cite web|url=https://yle.fi/uutiset/3-10016633 |title=Presidentinvaalitentti Tampereella keräsi salit täyteen: Mitä vuoden 1918 tapahtumista voidaan ottaa opiksi? |website=Yle|date=12 January 2018 |access-date=13 January 2018 |language=fi}}</ref>
+|-
+|style="white-space:nowrap;text-align:left;"|21 January 2018<br />20:00
+|style="white-space:nowrap;text-align:left;"|[[MTV3]]
+|style="white-space:nowrap;text-align:left;"|Merja Ylä-Anttila<br />Jussi Kärki
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|<ref>{{cite web |url=https://www.mtv.fi/uutiset/kotimaa/artikkeli/mtv-n-polloraati-ruoti-suuren-presidentinvaalikeskustelun-hei-vaalien-kakkospaikka-on-edelleen-jaossa/6739656#gs.t_Z8mC0 |title=MTV:n pöllöraati ruoti suuren presidentinvaalikeskustelun: Hei, vaalien kakkospaikka on edelleen jaossa! |website=MTV3 |date=22 January 2018 |access-date=23 January 2018 |language=fi |archive-date=22 January 2018 |archive-url=https://web.archive.org/web/20180122235154/https://www.mtv.fi/uutiset/kotimaa/artikkeli/mtv-n-polloraati-ruoti-suuren-presidentinvaalikeskustelun-hei-vaalien-kakkospaikka-on-edelleen-jaossa/6739656#gs.t_Z8mC0 |url-status=dead }}</ref>
+|-
+|style="white-space:nowrap;text-align:left;"|22 January 2018<br />18:00
+|style="white-space:nowrap;text-align:left;"|[[Iltalehti]]
+|style="white-space:nowrap;text-align:left;"|Susanne Päivärinta<br />Juha Ristamäki
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|<ref>{{cite web|url=https://m.iltalehti.fi/tv-ja-leffat/201801192200681693_tw.shtml |archive-url=https://web.archive.org/web/20180123072109/https://m.iltalehti.fi/tv-ja-leffat/201801192200681693_tw.shtml |url-status=dead |archive-date=January 23, 2018 |title=Nyt ei hyssytellä! IL:n presidenttitentti tänään suorana lähetyksenä |work=Iltalehti|date=19 January 2018 |access-date=23 January 2018 |language=fi}}</ref>
+|-
+|style="white-space:nowrap;text-align:left;"|22 January 2018<br />20:00
+|style="white-space:nowrap;text-align:left;"|[[Yle Fem]]
+|style="white-space:nowrap;text-align:left;"|Ingemo Lindroos<br />Ville Hupa
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|<ref>{{cite web|url=https://svenska.yle.fi/artikel/2018/01/22/presidentkandidaterna-debatterar-vapenexport-och-feministisk-utrikespolitik-se |title=Presidentkandidaterna debatterar vapenexport och feministisk utrikespolitik - se Svenska Yles tvåspråkiga valdebatt |website=Yle|date=22 January 2018 |access-date=23 January 2018 |language=sv}}</ref>
+|-
+|style="white-space:nowrap;text-align:left;"|23 January 2018<br />16:00
+|style="white-space:nowrap;text-align:left;"|[[Helsingin Sanomat]]<br />[[Ilta-Sanomat]]
+|style="white-space:nowrap;text-align:left;"|Marko Junkkari<br />Timo Haapala
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|<ref>{{cite web|url=https://www.is.fi/presidentinvaalit2018/art-2000005534702.html |title=Katso IS:n ja HS:n presidentinvaalitentti kokonaisuudessaan |work=Ilta-Sanomat|date=23 January 2018 |access-date=23 January 2018 |language=fi}}</ref>
+|-
+|style="white-space:nowrap;text-align:left;"|25 January 2018<br />21:05
+|style="white-space:nowrap;text-align:left;"|[[Yle]]
+|style="white-space:nowrap;text-align:left;"|Jan Andersson<br />Seija Vaaherkumpu
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|{{Yes|'''P'''}}
+|<ref>{{cite web|url=https://yle.fi/uutiset/3-10038723 |title=Suuri vaalikeskustelu huipentui väittelyyn pakolaistilanteesta, aktiivimallista ja pandoista – Yle seurasi hetki hetkeltä |website=Yle |date=25 January 2018 |access-date=26 January 2018 |language=fi}}</ref>
+|}
+
+===Fears of Russian involvement===
+In October 2017, the Security Committee of the Finnish Ministry of Defence released an assessment on the possibilities of Russian involvement in the presidential election. The assessment addressed nine possible scenarios, ranging from spreading false information through social media to a political assassination. The Security Committee also suggested ten possible objectives for Russian involvement, including obstructing discussion on [[NATO]] and isolating Finland from the [[European Union]].<ref>{{cite web|url=https://www.hs.fi/politiikka/art-2000005426871.html |title=Suomi varautuu Venäjän yrityksiin sotkea presidentinvaaleja – puolueet kutsuttiin turvallisuuskokoukseen |work=Helsingin Sanomat|date=28 October 2017 |access-date=29 October 2017 |language=fi}}</ref>
+
+Long-time minister for foreign affairs [[Erkki Tuomioja]] heavily criticised the assessment and called it "pure fantasy resembling something from the pen of [[Ilkka Remes]]".<ref>{{cite web|url=https://www.is.fi/kotimaa/art-2000005430335.html |title=Tuomioja lyttää turvallisuuskomitean Venäjä-paperin – haukkuu tekijät "pahauskoisiksi hölmöiksi" |work=Ilta-Sanomat|date=31 October 2017 |access-date=31 October 2017 |language=fi}}</ref>
+
+==Opinion polls==
+===Verified candidates===
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|- bgcolor=lightgray
+! rowspan="3" style="width:125px;" | Poll source
+! rowspan="3"| Survey<br/>dates
+! style="width:60px;" | [[File:Sauli Niinistö Senate of Poland 2015 (cropped).JPG|60x90px]]
+! style="width:60px;" | [[File:Pekka Haavisto 2017 03.jpg|60x90px]]
+! style="width:60px;" | [[File:Laura Huhtasaari crop.jpg|60x90px]]
+! style="width:60px;" | [[File:Matti Vanhanen 2017 06.jpg|60x90px]]
+! style="width:60px;" | [[File:Tuula Haatainen 2017 05.jpg|60x90px]]
+! style="width:60px;" | [[File:MerjaKyllönenPresidentiksi2 cropped.jpg|60x90px]]
+! style="width:60px;" | [[File:Nils Torvalds MEP, Strasbourg - Diliff.jpg|60x90px]]
+! style="width:60px;" | [[File:Paavo Väyrynen 2017 01.jpg|60x90px]]
+! style="width:60px;" | 
+! style="width:60px;" | 
+|-
+| bgcolor=#FFFFDD |
+| bgcolor={{party color|Green League}} |
+| bgcolor={{party color|Finns Party}} |
+| bgcolor={{party color|Centre Party (Finland)}} |
+| bgcolor={{party color|Social Democratic Party of Finland}} |
+| bgcolor={{party color|Left Alliance (Finland)}} |
+| bgcolor={{party color|Swedish People's Party of Finland}} |
+| bgcolor=#FFFFDD |
+| bgcolor=lightgray |
+| bgcolor=lightgray |
+|-
+! [[Sauli Niinistö|Niinistö]]<br/><small>Independent</small>
+! [[Pekka Haavisto|Haavisto]]<br/><small>[[Green League|Greens]]</small>
+! [[Laura Huhtasaari|Huhtasaari]]<br/><small>[[Finns Party|Finns]]</small>
+! [[Matti Vanhanen|Vanhanen]]<br/><small>[[Centre Party (Finland)|Centre]]</small>
+! [[Tuula Haatainen|Haatainen]]<br/><small>[[Social Democratic Party of Finland|SDP]]</small>
+! [[Merja Kyllönen|Kyllönen]]<br/><small>[[Left Alliance (Finland)|Left]]</small>
+! [[Nils Torvalds|Torvalds]]<br/><small>[[Swedish People's Party of Finland|SFP]]</small>
+! [[Paavo Väyrynen|Väyrynen]]<br/><small>Independent</small>
+! Others
+! Don't know
+|-
+| [https://www.hs.fi/politiikka/art-2000005538817.html Kantar TNS]
+| 22–24 Jan 2018
+| '''58%'''
+| 13%
+| 5%
+| 4%
+| 5%
+| 5%
+| 3%
+| 7%
+| –
+| –
+|-
+| [https://yle.fi/uutiset/3-10039433 Taloustutkimus]
+| 17–23 Jan 2018
+| '''63%'''
+| 14%
+| 6%
+| 4%
+| 2%
+| 4%
+| 2%
+| 6%
+| –
+| –
+|-
+| [https://www.hs.fi/politiikka/art-2000005530300.html Kantar TNS]
+| 8–17 Jan 2018
+| '''68%'''
+| 11%
+| 4%
+| 3%
+| 2%
+| 3%
+| 1%
+| 8%
+| –
+| –
+|-
+| [https://www.iltalehti.fi/politiikka/a/201801182200679167 Tietoykkönen]
+| 9–16 Jan 2018
+| '''58%'''
+| 14%
+| 6%
+| 5%
+| 4%
+| 4%
+| 2%
+| 7%
+| –
+| –
+|-
+| [https://yle.fi/uutiset/3-10006272 Taloustutkimus]
+| 27 Dec 2017–3 Jan 2018
+| '''72%'''
+| 11%
+| 5%
+| 2%
+| 3%
+| 2%
+| 1%
+| 4%
+| –
+| –
+|-
+| [https://www.hs.fi/politiikka/art-2000005495204.html? Kantar TNS]
+| 4–16 Dec 2017
+| '''70%'''
+| 11%
+| 3%
+| 2%
+| 2%
+| 2%
+| –
+| 3%
+| –
+| 6%
+|-
+| [https://www.iltalehti.fi/politiikka/a/201712072200588364 Tietoykkönen]
+| 23 Nov–3 Dec 2017
+| '''64%'''
+| 12%
+| 3%
+| 3%
+| 2%
+| 3%
+| 1%
+| 2%
+| 1%
+| 8%
+|-
+| [https://yle.fi/uutiset/3-9953949 Taloustutkimus]
+| 20–28 Nov 2017
+| '''80%'''
+| 10%
+| 4%
+| 2%
+| 2%
+| 1%
+| 1%
+| –
+| 1%
+| –
+|-
+| [https://www.hs.fi/politiikka/art-2000005436246.html Kantar TNS]
+| 16–27 Oct 2017
+| '''67%'''
+| 13%
+| 3%
+| 3%
+| 2%
+| 2%
+| 1%
+| –
+| 1%
+| 8%
+|-
+| [https://www.iltalehti.fi/politiikka/a/201710132200459965 Tietoykkönen]
+| 10–11 Oct 2017
+| '''60%'''
+| 10%
+| 4%
+| 2%
+| 3%
+| 3%
+| –
+| 1%
+| 2%
+| 14%
+|-
+| [https://yle.fi/uutiset/3-9878053 Taloustutkimus]
+| 2–10 Oct 2017
+| '''76%'''
+| 14%
+| 3%
+| 2%
+| 1%
+| 2%
+| 1%
+| –
+| 1%
+| –
+|-
+| [http://www.hs.fi/politiikka/art-2000005370145.html Kantar TNS]
+| 4–14 Sep 2017
+| '''68%'''
+| 13%
+| 3%
+| 2%
+| 3%
+| 2%
+| –
+| –
+| –
+| 10%
+|-
+| [https://www.iltalehti.fi/politiikka/a/201708242200347884 Taloustutkimus]
+| 22–23 Aug 2017
+| '''60%'''
+| 12%
+| 4%
+| 3%
+| –
+| 2%
+| 1%
+| 2%
+| 5%
+| 9%
+|-
+| [https://www.iltalehti.fi/politiikka/a/201706012200179189 Tietoykkönen]
+| 30 May–1 Jun 2017
+| '''62%'''
+| 11%
+| –
+| 1%
+| 1%
+| 2%
+| 1%
+| 1%
+| 9%
+| 12%
+|-
+| [http://www.is.fi/kotimaa/art-2000005235595.html Taloustutkimus]
+| Jun 2017
+| '''72%'''
+| 12%
+| –
+| 3%
+| –
+| 2%
+| –
+| –
+| 5%
+| 5%
+|-
+| [http://www.verkkouutiset.fi/kotimaa/3kantar%20presidentti-64011 TNS]
+| Apr 2017
+| '''66%'''
+| 19%
+| –
+| 4%
+| –
+| 3%
+| –
+| –
+| 8%
+| –
+|-
+|}
+
+===Hypothetical polling===
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|- bgcolor=lightgray
+! rowspan="3" style="width:125px;" | Poll source
+! rowspan="3"| Survey<br/>dates
+! style="width:60px;" | [[File:Sauli Niinistö Senate of Poland 2015 (cropped).JPG|60x90px]]
+! style="width:60px;" | [[File:Tuula Haatainen 2017 05.jpg|60x90px]]
+! style="width:60px;" | 
+|-
+| bgcolor=#FFFFDD |
+| bgcolor={{party color|Social Democratic Party of Finland}} |
+| bgcolor=lightgray |
+|-
+! [[Sauli Niinistö|Niinistö]]<br/><small>Independent</small>
+! [[Tuula Haatainen|Haatainen]]<br/><small>[[Social Democratic Party of Finland|SDP]]</small>
+! Don't know
+|-
+| [https://yle.fi/uutiset/3-10039433 Taloustutkimus]
+| 17–23 Jan 2018
+| '''89%'''
+| 11%
+| –
+|-
+| [https://www.hs.fi/politiikka/art-2000005530300.html Kantar TNS]
+| 8–17 Jan 2018
+| '''80%'''
+| 8%
+| 12%
+|-
+| [https://www.iltalehti.fi/politiikka/a/201801182200679167 Tietoykkönen]
+| 9–16 Jan 2018
+| '''85%'''
+| 15%
+| –
+|-
+| [https://yle.fi/uutiset/3-10006272 Taloustutkimus]
+| 27 Dec 2017–3 Jan 2018
+| '''92%'''
+| 8%
+| –
+|-
+| [https://www.iltalehti.fi/politiikka/a/201712072200588364 Tietoykkönen]
+| 23 Nov–3 Dec 2017
+| '''91%'''
+| 9%
+| –
+|-
+| [https://yle.fi/uutiset/3-9878053 Taloustutkimus]
+| 2–10 Oct 2017
+| '''94%'''
+| 6%
+| –
+|-
+| [http://www.hs.fi/politiikka/art-2000005370145.html Kantar TNS]
+| 4–14 Sep 2017
+| '''85%'''
+| 6%
+| 9%
+|}
+
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|- bgcolor=lightgray
+! rowspan="3" style="width:125px;" | Poll source
+! rowspan="3"| Survey<br/>dates
+! style="width:60px;" | [[File:Sauli Niinistö Senate of Poland 2015 (cropped).JPG|60x90px]]
+! style="width:60px;" | [[File:Pekka Haavisto 2017 03.jpg|60x90px]]
+! style="width:60px;" | 
+|-
+| bgcolor=#FFFFDD |
+| bgcolor={{party color|Green League}} |
+| bgcolor=lightgray |
+|-
+! [[Sauli Niinistö|Niinistö]]<br/><small>Independent</small>
+! [[Pekka Haavisto|Haavisto]]<br/><small>[[Green League|Greens]]</small>
+! Don't know
+|-
+| [https://yle.fi/uutiset/3-10039433 Taloustutkimus]
+| 17–23 Jan 2018
+| '''80%'''
+| 20%
+| –
+|-
+| [https://www.hs.fi/politiikka/art-2000005530300.html Kantar TNS]
+| 8–17 Jan 2018
+| '''73%'''
+| 14%
+| 13%
+|-
+| [https://www.iltalehti.fi/politiikka/a/201801182200679167 Tietoykkönen]
+| 9–16 Jan 2018
+| '''75%'''
+| 25%
+| –
+|-
+| [https://yle.fi/uutiset/3-10006272 Taloustutkimus]
+| 27 Dec 2017–3 Jan 2018
+| '''82%'''
+| 18%
+| –
+|-
+| [https://www.iltalehti.fi/politiikka/a/201712072200588364 Tietoykkönen]
+| 23 Nov–3 Dec 2017
+| '''79%'''
+| 21%
+| –
+|-
+| [https://yle.fi/uutiset/3-9953949 Taloustutkimus]
+| 20–28 Nov 2017
+| '''86%'''
+| 14%
+| –
+|-
+| [https://yle.fi/uutiset/3-9878053 Taloustutkimus]
+| 2–10 Oct 2017
+| '''82%'''
+| 18%
+| –
+|-
+| [http://www.hs.fi/politiikka/art-2000005370145.html Kantar TNS]
+| 4–14 Sep 2017
+| '''77%'''
+| 16%
+| 7%
+|-
+| [https://www.iltalehti.fi/politiikka/a/201708242200347884 Taloustutkimus]
+| 22–23 Aug 2017
+| '''70%'''
+| 22%
+| 8%
+|-
+| [http://www.is.fi/kotimaa/art-2000005235595.html Taloustutkimus]
+| May 2017
+| '''76%'''
+| 19%
+| 5%
+|}
+
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|- bgcolor=lightgray
+! rowspan="3" style="width:125px;" | Poll source
+! rowspan="3"| Survey<br/>dates
+! style="width:60px;" | [[File:Sauli Niinistö Senate of Poland 2015 (cropped).JPG|60x90px]]
+! style="width:60px;" | [[File:Laura Huhtasaari crop.jpg|60x90px]]
+! style="width:60px;" | 
+|-
+| bgcolor=#FFFFDD |
+| bgcolor={{party color|Finns Party}} |
+| bgcolor=lightgray |
+|-
+! [[Sauli Niinistö|Niinistö]]<br/><small>Independent</small>
+! [[Laura Huhtasaari|Huhtasaari]]<br/><small>[[Finns Party|Finns]]</small>
+! Don't know
+|-
+| [https://yle.fi/uutiset/3-10039433 Taloustutkimus]
+| 17–23 Jan 2018
+| '''90%'''
+| 10%
+| –
+|-
+| [https://www.hs.fi/politiikka/art-2000005530300.html Kantar TNS]
+| 8–17 Jan 2018
+| '''83%'''
+| 6%
+| 11%
+|-
+| [https://www.iltalehti.fi/politiikka/a/201801182200679167 Tietoykkönen]
+| 9–16 Jan 2018
+| '''90%'''
+| 10%
+| –
+|-
+| [https://yle.fi/uutiset/3-10006272 Taloustutkimus]
+| 27 Dec 2017–3 Jan 2018
+| '''93%'''
+| 7%
+| –
+|-
+| [https://www.iltalehti.fi/politiikka/a/201712072200588364 Tietoykkönen]
+| 23 Nov–3 Dec 2017
+| '''94%'''
+| 6%
+| –
+|-
+| [https://yle.fi/uutiset/3-9953949 Taloustutkimus]
+| 20–28 Nov 2017
+| '''93%'''
+| 7%
+| –
+|-
+| [https://yle.fi/uutiset/3-9878053 Taloustutkimus]
+| 2–10 Oct 2017
+| '''96%'''
+| 4%
+| –
+|-
+| [http://www.hs.fi/politiikka/art-2000005370145.html Kantar TNS]
+| 4–14 Sep 2017
+| '''87%'''
+| 4%
+| 9%
+|-
+| [https://www.iltalehti.fi/politiikka/a/201708242200347884 Taloustutkimus]
+| 22–23 Aug 2017
+| '''87%'''
+| 7%
+| 6%
+|}
+
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|- bgcolor=lightgray
+! rowspan="3" style="width:125px;" | Poll source
+! rowspan="3"| Survey<br/>dates
+! style="width:60px;" | [[File:Sauli Niinistö Senate of Poland 2015 (cropped).JPG|60x90px]]
+! style="width:60px;" | [[File:MerjaKyllönenPresidentiksi2 cropped.jpg|60x90px]]
+! style="width:60px;" | 
+|-
+| bgcolor=#FFFFDD |
+| bgcolor={{party color|Left Alliance (Finland)}} |
+| bgcolor=lightgray |
+|-
+! [[Sauli Niinistö|Niinistö]]<br/><small>Independent</small>
+! [[Merja Kyllönen|Kyllönen]]<br/><small>[[Left Alliance (Finland)|Left]]</small>
+! Don't know
+|-
+| [https://yle.fi/uutiset/3-10039433 Taloustutkimus]
+| 17–23 Jan 2018
+| '''89%'''
+| 11%
+| –
+|-
+| [https://www.iltalehti.fi/politiikka/a/201801182200679167 Tietoykkönen]
+| 9–16 Jan 2018
+| '''87%'''
+| 13%
+| –
+|-
+| [https://yle.fi/uutiset/3-10006272 Taloustutkimus]
+| 27 Dec 2017–3 Jan 2018
+| '''93%'''
+| 7%
+| –
+|-
+| [https://www.iltalehti.fi/politiikka/a/201712072200588364 Tietoykkönen]
+| 23 Nov–3 Dec 2017
+| '''90%'''
+| 10%
+| –
+|-
+| [https://yle.fi/uutiset/3-9953949 Taloustutkimus]
+| 20–28 Nov 2017
+| '''93%'''
+| 7%
+| –
+|-
+| [https://yle.fi/uutiset/3-9878053 Taloustutkimus]
+| 2–10 Oct 2017
+| '''96%'''
+| 4%
+| –
+|}
+
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|- bgcolor=lightgray
+! rowspan="3" style="width:125px;" | Poll source
+! rowspan="3"| Survey<br/>dates
+! style="width:60px;" | [[File:Sauli Niinistö Senate of Poland 2015 (cropped).JPG|60x90px]]
+! style="width:60px;" | [[File:Nils Torvalds MEP, Strasbourg - Diliff.jpg|60x90px]]
+! style="width:60px;" | 
+|-
+| bgcolor=#FFFFDD |
+| bgcolor={{party color|Swedish People's Party of Finland}} |
+| bgcolor=lightgray |
+|-
+! [[Sauli Niinistö|Niinistö]]<br/><small>Independent</small>
+! [[Nils Torvalds|Torvalds]]<br/><small>[[Swedish People's Party of Finland|SFP]]</small>
+! Don't know
+|-
+| [https://yle.fi/uutiset/3-10039433 Taloustutkimus]
+| 17–23 Jan 2018
+| '''95%'''
+| 5%
+| –
+|-
+| [https://www.iltalehti.fi/politiikka/a/201801182200679167 Tietoykkönen]
+| 9–16 Jan 2018
+| '''91%'''
+| 9%
+| –
+|-
+| [https://yle.fi/uutiset/3-10006272 Taloustutkimus]
+| 27 Dec 2017–3 Jan 2018
+| '''97%'''
+| 3%
+| –
+|-
+| [https://www.iltalehti.fi/politiikka/a/201712072200588364 Tietoykkönen]
+| 23 Nov–3 Dec 2017
+| '''94%'''
+| 6%
+| –
+|}
+
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|- bgcolor=lightgray
+! rowspan="3" style="width:125px;" | Poll source
+! rowspan="3"| Survey<br/>dates
+! style="width:60px;" | [[File:Sauli Niinistö Senate of Poland 2015 (cropped).JPG|60x90px]]
+! style="width:60px;" | [[File:Matti Vanhanen 2017 09.jpg|60x90px]]
+! style="width:60px;" | 
+|-
+| bgcolor=#FFFFDD |
+| bgcolor={{party color|Centre Party (Finland)}} |
+| bgcolor=lightgray |
+|-
+! [[Sauli Niinistö|Niinistö]]<br/><small>Independent</small>
+! [[Matti Vanhanen|Vanhanen]]<br/><small>[[Centre Party (Finland)|Centre]]</small>
+! Don't know
+|-
+| [https://yle.fi/uutiset/3-10039433 Taloustutkimus]
+| 17–23 Jan 2018
+| '''91%'''
+| 9%
+| –
+|-
+| [https://www.hs.fi/politiikka/art-2000005530300.html Kantar TNS]
+| 8–17 Jan 2018
+| '''81%'''
+| 6%
+| 12%
+|-
+| [https://www.iltalehti.fi/politiikka/a/201801182200679167 Tietoykkönen]
+| 9–16 Jan 2018
+| '''89%'''
+| 11%
+| –
+|-
+| [https://yle.fi/uutiset/3-10006272 Taloustutkimus]
+| 27 Dec 2017–3 Jan 2018
+| '''95%'''
+| 5%
+| –
+|-
+| [https://www.iltalehti.fi/politiikka/a/201712072200588364 Tietoykkönen]
+| 23 Nov–3 Dec 2017
+| '''93%'''
+| 7%
+| –
+|-
+| [https://yle.fi/uutiset/3-9878053 Taloustutkimus]
+| 2–10 Oct 2017
+| '''96%'''
+| 4%
+| –
+|-
+| [http://www.hs.fi/politiikka/art-2000005370145.html Kantar TNS]
+| 4–14 Sep 2017
+| '''89%'''
+| 3%
+| 7%
+|}
+
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|- bgcolor=lightgray
+! rowspan="3" style="width:125px;" | Poll source
+! rowspan="3"| Survey<br/>dates
+! style="width:60px;" | [[File:Sauli Niinistö Senate of Poland 2015 (cropped).JPG|60x90px]]
+! style="width:60px;" | [[File:Paavo Väyrynen 2017 01.jpg|60x90px]]
+! style="width:60px;" | 
+|-
+| bgcolor=#FFFFDD |
+| bgcolor=#FFFFDD |
+| bgcolor=lightgray |
+|-
+! [[Sauli Niinistö|Niinistö]]<br/><small>Independent</small>
+! [[Paavo Väyrynen|Väyrynen]]<br/><small>Independent</small>
+! Don't know
+|-
+| [https://yle.fi/uutiset/3-10039433 Taloustutkimus]
+| 17–23 Jan 2018
+| '''89%'''
+| 11%
+| –
+|-
+| [https://www.hs.fi/politiikka/art-2000005530300.html Kantar TNS]
+| 8–17 Jan 2018
+| '''77%'''
+| 12%
+| 11%
+|-
+| [https://www.iltalehti.fi/politiikka/a/201801182200679167 Tietoykkönen]
+| 9–16 Jan 2018
+| '''85%'''
+| 15%
+| –
+|-
+| [https://yle.fi/uutiset/3-10006272 Taloustutkimus]
+| 27 Dec 2017–3 Jan 2018
+| '''92%'''
+| 8%
+| –
+|}
+
+==Results==
+[[File:Finnish presidential election, 2018 results by constituency (I round result).png|right|thumb|Map of Finland with the constituencies:]]
+
+{{Election results
+|cand1=[[Sauli Niinistö]]|party1=Independent|votes1=1875342
+|cand2=[[Pekka Haavisto]]|party2=[[Green League]]|votes2=371254
+|cand3=[[Laura Huhtasaari]]|party3=[[Finns Party]]|votes3=207337
+|cand4=[[Paavo Väyrynen]]|party4=Independent|votes4=185305
+|cand5=[[Matti Vanhanen]]|party5=[[Centre Party (Finland)|Centre Party]]|votes5=122383
+|cand6=[[Tuula Haatainen]]|party6=[[Social Democratic Party of Finland|Social Democratic Party]]|votes6=97294
+|cand7=[[Merja Kyllönen]]|party7=[[Left Alliance (Finland)|Left Alliance]]|votes7=89977
+|cand8=[[Nils Torvalds]]|party8=[[Swedish People's Party of Finland|Swedish People's Party]]|votes8=44776
+|invalid=9042
+|electorate=4498004
+|source=[http://tulospalvelu.vaalit.fi/TPV-2018_1/en/ehdtulos_kokomaa.html Ministry of Justice]
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20171121150857/http://vaalit.fi/en/index.html Ministry of Justice – Elections website]
+
+{{Finnish elections}}
+
+[[Category:Presidential elections in Finland]]
+[[Category:2018 elections in Europe|Finland]]
+[[Category:2018 elections in Finland|President]]
+[[Category:January 2018 in Finland|President]]

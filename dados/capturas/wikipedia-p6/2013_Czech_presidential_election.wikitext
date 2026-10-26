@@ -1,0 +1,433 @@
+{{Short description|None}}
+{{Use dmy dates|date=February 2020}}
+{{Infobox election
+| country = Czech Republic
+| type = presidential
+| previous_election = 2008 Czech presidential election
+| previous_year = 2008
+| election_date = {{ubl|class=nowrap|11–12 January 2013 (first round)|25–26 January 2013 (second round)}}
+| next_election = 2018 Czech presidential election
+| next_year = 2018
+| turnout = {{ubl|61.27% (first round)|59.08% (second round)}}
+
+| image1 = {{CSS image crop|Image=Zeman M 1.JPG|bSize=118|cWidth=118|cHeight=150}}
+| candidate1 = '''[[Miloš Zeman]]'''
+| party1 = Party of Civic Rights
+| popular_vote1 = '''2,717,405'''
+| percentage1 = '''54.80%'''
+
+| image2 = {{CSS image crop|Image=Karel Schwarzenberg on June 2, 2011.jpg|bSize=118|cWidth=118|cHeight=150}}
+| candidate2 = {{nowrap|[[Karel Schwarzenberg]]}}
+| party2 = TOP 09
+| popular_vote2 = 2,241,171
+| percentage2 = 45.20%
+
+| map_image = {{switcher|[[File:Czech presidential election 2013 (1st round).svg|300px]]|First round results by district|[[File:Czech presidential election 2013 (2nd round).svg|300px]]|Second round results by district|default=2}}
+
+| title = [[President of the Czech Republic|President]]
+| before_election = [[Václav Klaus]]
+| before_party = Independent politician
+| after_election = [[Miloš Zeman]]
+| after_party = Party of Civic Rights
+}}{{Politics of the Czech Republic}}
+
+Presidential elections were held in the [[Czech Republic]] in January 2013, the country's first direct election for the presidency.<ref name=signs>{{cite news |url= http://praguemonitor.com/2012/08/02/klaus-signs-direct-presidential-election-bill |title= Klaus signs direct presidential election bill |agency= [[ČTK]] |work= [[Prague Daily Monitor]] |date= 2 August 2012 |access-date= 21 September 2012 |url-status= dead |archive-url= https://archive.today/20130201040841/http://praguemonitor.com/2012/08/02/klaus-signs-direct-presidential-election-bill |archive-date= 1 February 2013 |df= dmy-all }}</ref><ref>{{cite web|url=http://www.radio.cz/en/section/curraffrs/first-direct-presidential-election-set-for-january-11-2013|title=First direct presidential election set for January 11, 2013|last=Richter|first=Jan|date=2 October 2012|publisher=[[Czech Radio]]|access-date=27 January 2013}}</ref> No candidate received a majority of the votes in the first round on 11–12 January, so a second round [[runoff election]] was held on 25–26 January. Nine individuals secured enough signatures or support of parliamentarians to become official candidates for the office. [[Miloš Zeman]] of the [[Party of Civic Rights]] (SPOZ) and [[Karel Schwarzenberg]] of [[TOP 09]] qualified for the second round,<ref>{{cite web|url=http://zpravy.idnes.cz/prezidentske-volby-2013-0uh-/domaci.aspx?c=A130112_135527_domaci_jav|title=Zeman a Schwarzenberg se utkají o Hrad, Fischer uznal porážku|date=12 January 2013|work=[[Mladá fronta DNES]]|publisher=iDNES|language=cs|access-date=12 January 2013}}</ref> which was won by Zeman with 54.8% of the vote, compared to Schwarzenberg's 45.2%.<ref>{{cite web|url=http://zpravy.idnes.cz/volba-prezidenta-0ej-/domaci.aspx?c=A130126_130102_domaci_jw|title=Rozhodnuto. Zeman vyhrál, nezmění to už ani velká města|date=26 January 2013|work=Mladá fronta DNES|publisher=iDNES|access-date=26 January 2013}}</ref><ref>{{cite web|url=https://www.bbc.co.uk/news/world-europe-21210495|title=Czech election: Milos Zeman wins presidential poll|date=26 January 2013|publisher=BBC|access-date=27 January 2013}}</ref> Zeman assumed office in March 2013 after being sworn in.
+
+==Background==
+[[File:TomásMasaryk.jpg|left|thumb|The [[Prague Castle]], official residence of the Czech President, behind the statue of [[Tomáš Garrigue Masaryk]], the first [[List of Presidents of Czechoslovakia|President of Czechoslovakia]]]]
+
+After the dissolution of [[Czechoslovakia]] and the adoption of a [[Constitution of the Czech Republic|new constitution]] in 1992, the president was indirectly elected by a joint session of the [[Chamber of Deputies of the Czech Republic|Chamber of Deputies]] and the [[Senate of the Czech Republic]]. The possibility of a directly elected president was controversial because of concerns that it could weaken a government under the [[Prime Minister of the Czech Republic|prime minister]].<ref name=radio>{{cite news |url= http://www.radio.cz/en/section/curraffrs/czech-parliament-passes-direct-presidential-elections |title= Czech Parliament passes direct presidential elections |date= 2 February 2012 |access-date= 18 September 2012 |work= [[Radio Prague]] |first= Christian |last= Falvey}}</ref><ref name=fuhrer>{{cite news |url= http://www.ceskapozice.cz/en/news/politics-policy/will-czechs-elect-worthy-president-or-fuehrer |title= Will Czechs elect a worthy president, or a führer? |work= Czech Position |first= Petr |last= Nováček |date= 14 February 2012 |access-date= 21 September 2012 |url-status= dead |archive-url= https://web.archive.org/web/20120220081306/http://www.ceskapozice.cz/en/news/politics-policy/will-czechs-elect-worthy-president-or-fuehrer |archive-date= 20 February 2012 |df= dmy-all }}</ref> The [[2008 Czech presidential election|2008 presidential election]], which narrowly reelected [[Václav Klaus]] after several attempts, however was criticized for the appearance of political deal-making and allegations of corruption.<ref name=fuhrer/><ref name=eight>{{cite news |url= http://www.radio.cz/en/section/curraffrs/klaus-celebrates-re-election-as-czech-president-after-vote-marked-by-controversy |title= Klaus celebrates re-election as Czech president after vote marked by controversy |work= Radio Prague |date= 18 February 2008 |access-date= 24 September 2012 |first= Ian |last= Willoughby}}</ref><ref name=svejnar/> Prime Minister [[Petr Nečas]] subsequently put the issue of a directly elected president in his three-party [[coalition agreement]] when he formed his government in 2010, in part because of demands by the [[TOP 09]] party, and the [[Public Affairs (political party)|Public Affairs]] and [[Mayors and Independents]] parties.<ref name=fuhrer/> Several outspoken opponents of the change however came from the Prime Minister's own [[Civic Democratic Party (Czech Republic)|Civic Democratic Party]].<ref name=opponents/>
+
+In September 2011, an amendment was submitted to the Chamber of Deputies for a second official reading, during which the [[Communist Party of Bohemia and Moravia|Communist Party]] (KSČM) tried to reject the bill by sending it back into the review process, but the [[Czech Social Democratic Party]] (ČSSD), also part of the opposition, did not support the Communists' motion,<ref name=opponents>{{cite news |url= http://www.ceskapozice.cz/en/news/politics-policy/direct-presidential-elections-sorry-maybe-next-time |title= Direct presidential elections: Sorry, maybe next time |work= Czech Position |date= 26 September 2011 |access-date= 23 September 2012 |first= Petr |last= Nováček |url-status= dead |archive-url= https://web.archive.org/web/20111231191220/http://www.ceskapozice.cz/en/news/politics-policy/direct-presidential-elections-sorry-maybe-next-time |archive-date= 31 December 2011 |df= dmy-all }}</ref> and allowed the bill to go ahead with certain changes, including limits on presidential power and penal immunity.<ref name=january/> On 14 December 2011, the Chamber of Deputies passed the constitutional amendment for direct elections by a vote of 159 out of 192.<ref name=january>{{cite news |url= http://www.radio.cz/en/section/curraffrs/czech-mps-approve-direct-presidential-election |title= Czech MPs approve direct presidential election |work= Radio Prague |date= 14 December 2011 |access-date= 24 September 2012 |first= Jan |last= Richter}}</ref> This was then sent to the Senate, which passed the amendment on 8 February 2012 after five hours of debate<ref name=radio/> by a majority of 49 of 75.<ref name=senate>{{cite news |url= http://www.ceskenoviny.cz/news/zpravy/senate-passes-bill-introducing-direct-election-of-czech-president/752624 |title= Senate passes bill introducing direct election of Czech president |work= ČTK |date= 8 February 2012 |access-date= 24 September 2012}}</ref> The Chief Justice of the [[Constitutional Court of the Czech Republic|Constitutional Court]], [[Pavel Rychetský]], criticized the bill's method in which a [[List of methods of constitutional amendment#Czech Republic|constitutional amendment]] was in effect added, though without changing the original text of the constitution, and while leaving the election open to legal and constitutional challenges.<ref>{{cite news |url= http://www.ceskapozice.cz/en/news/politics-policy/constitutional-court-head-slams-direct-presidential-election-amendment |title= Constitutional Court head slams direct presidential election amendment |work= Czech Policy |first= Tom |last= Jones |date= 13 February 2012 |access-date= 24 September 2012 |url-status= dead |archive-url= https://archive.today/20130210014059/http://www.ceskapozice.cz/en/news/politics-policy/constitutional-court-head-slams-direct-presidential-election-amendment |archive-date= 10 February 2013 |df= dmy-all }}</ref>
+
+In June 2012 an implementation bill for holding the election passed in the Chamber of Deputies, and in July in the Senate.<ref name=signs/> Though constitutional amendments do not require presidential approval, and cannot be vetoed,<ref name=senate/> President Václav Klaus did need to sign or veto the implementation bill; a refusal could have halted the constitutional changes.<ref name=signs/> Klaus opposed the measure, though saying it was a "fatal mistake"<ref name=radio/> as the country was not ready for such a move.<ref>{{cite web |url= http://presidentialactivism.com/2011/03/15/vaclav-klaus-against-direct-presidential-elections-in-czech-republic/ |title= Vaclav Klaus against direct presidential elections in Czech Republic |date= 15 March 2011 |access-date= 18 September 2012 |work= Presidential Activism}}</ref> He however signed the law on 1 August 2012.<ref name=signs/> The law was scheduled to take effect on 1 October 2012,{{Update after|2013|2|1}}<ref name=senate/> after which Senate President [[Milan Štěch]] was due to set a date for the election, following discussions with the Ministry of the Interior.{{update inline|date=February 2013}}<ref name=neurope/>
+
+The two-day first round was on 11–12 January 2013. However, because no one secured an absolute majority, a run-off round was held on 25–26 January 2013.<ref name=neurope>{{cite news |url= http://www.neurope.eu/article/czech-republic-hold-first-direct-presidential-election-january |title= Czech Republic to hold first direct presidential election in January |date= 2 August 2012 |access-date= 18 September 2012 |work= New Europe |archive-url= https://web.archive.org/web/20130205232401/http://www.neurope.eu/article/czech-republic-hold-first-direct-presidential-election-january |archive-date= 5 February 2013 |url-status= dead }}</ref> Candidates were allowed to spend up to [[Kč]]40&nbsp;million in the first round and [[Kč]]10&nbsp;million in the second round. Each candidate had an election committee that manages campaign funding, which should be run through a special account. All anonymous campaigns contributions were banned.<ref name=signs/>
+
+==Candidates==
+In order to be a candidate, an individual needs to gather 50,000 signatures from citizens or the support of twenty [[Chamber of Deputies of the Parliament of the Czech Republic|deputies]] or ten [[Senate of the Parliament of the Czech Republic|senators]]. The candidates were bound to file their applications with the signatures sixty-six days before the election;<ref name=neurope/> following which the Interior Ministry verified a sampling of the signatures.<ref name=signs/>
+
+The [[Civic Democratic Party (Czech Republic)|Civic Democratic Party]] (ODS) held [[2012 Civic Democratic Party presidential primaries|primary elections in July 2012]] to choose their candidate, selecting former president of the Senate [[Přemysl Sobotka]] over MEP [[Evžen Tošenovský]].<ref name=ods>{{cite news |url= http://praguemonitor.com/2012/07/18/civic-democrats-back-sobotka-president |title= Civic Democrats back Sobotka for president |agency= ČTK |work= Prague Daily Monitor |date= 18 July 2012 |access-date= 21 September 2012 |url-status= dead |archive-url= https://archive.today/20130201101425/http://praguemonitor.com/2012/07/18/civic-democrats-back-sobotka-president |archive-date= 1 February 2013 |df= dmy-all }}</ref> [[Party of Civic Rights – Zemanovci|SPOZ]], [[TOP 09]], and [[Czech Sovereignty of Social Democracy|Sovereignty]] have their party leaders running for the post. [[Jan Švejnar]], who [[2008 Czech presidential election|ran for the presidency in 2008]] against Václav Klaus, declined to run in order to support [[Jan Fischer (politician)|Jan Fischer]]'s candidacy.<ref name=svejnar>{{cite news |url= http://praguemonitor.com/2012/09/12/%C5%A1vejnar-says-he-will-not-seek-czech-presidency |title= Švejnar says he will not seek Czech presidency |agency= ČTK |date= 12 September 2012 |work= Prague Daily Monitor |access-date= 18 September 2012 |url-status= dead |archive-url= https://archive.today/20130131225148/http://praguemonitor.com/2012/09/12/%C5%A1vejnar-says-he-will-not-seek-czech-presidency |archive-date= 31 January 2013 |df= dmy-all }}</ref>
+
+===Confirmed candidates===
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="3" style="width:20%;"| Candidate name and age,{{efn|Inauguration day is set as the last possible date for person to become President.}}<br />political party
+! Office(s) held
+! style="width:48%;"| Details
+|-
+|style="background:lavender;"|'''[[Zuzana Roithová]]''' ({{Age|1953|1|30|2013|3|8}})<br />[[Christian and Democratic Union – Czechoslovak People's Party]]
+|[[File:Zuzkaroithova cropped.jpg|75px]]
+| style="background-color:{{party color|Christian and Democratic Union – Czechoslovak People's Party}};" |
+| '''[[Ministry of Health (Czech Republic)|Minister of Health]]''' <br /><small>(1998)</small>
+{{Hidden|Other offices|
+* [[Member of the European Parliament]] from 2006 to 2009
+* [[Senate of the Czech Republic|Senator]] from 1998 to 2004}}
+|Running with number 1 and with support of 75,066 signatures from public.<ref name="Prezidentští kandidáti už mají přidělená čísla: Jedničku má Roithová">{{cite web|title=Prezidentští kandidáti už mají přidělená čísla: Jedničku má Roithová|url=http://www.blesk.cz/clanek/zpravy-volba-prezidenta/187271/prezidentsti-kandidati-uz-maji-pridelena-cisla-jednicku-ma-roithova.html|website=Blesk.cz|date=14 December 2012 |access-date=9 January 2018}}</ref><ref name="recount">{{cite news |url= http://zpravy.idnes.cz/ministerstvo-vnitra-vyradilo-kandidaty-z-prime-volby-prezidenta-p99-/domaci.aspx?c=A121123_114054_domaci_kop |title=Okamurovi škrtli 26 tisíc podpisů, dál nejde ani Bobošíková a Dlouhý|work= iDnes.cz |date= 23 November 2012 |access-date= 24 November 2012}}</ref>
+|-
+|style="background:lavender;"|'''[[Jan Fischer (politician)|Jan Fischer]]''' ({{Age|1951|1|2|2013|3|8}})<br />[[Independent (politician)|Independent]]
+|[[File:Prime Minister of the Czech Republic Jan Fischer.JPG|75px]]
+| style="background-color:{{party color|Independent (politician)}};" |
+| '''[[Prime Minister of the Czech Republic|Prime Minister]]''' <br /><small>(2009–2010)</small>
+{{Hidden|Other offices|
+* President of the [[Czech Statistical Office]] from 2003 to 2010}}
+|align=center|Running with number 2 and with support of 77,387 signatures from public.<ref name="Prezidentští kandidáti už mají přidělená čísla: Jedničku má Roithová"/><ref name="recount"/>
+|-
+|style="background:lavender;"|'''[[Jana Bobošíková]]''' ({{Age|1964|8|29|2013|3|8}})<br />[[Czech Sovereignty of Social Democracy|Sovereignty – Jana Bobošíková Bloc]]
+|[[File:Jana Bobošíková 2012-12-03.jpg|75px]]
+! style="background:{{party color|Czech Sovereignty of Social Democracy}};"|
+| '''[[Member of the European Parliament]]''' <br /><small>(2004–2009)</small>
+|align=center|Running with number 3 and with support of 50,810 signatures from public.<ref name="Prezidentští kandidáti už mají přidělená čísla: Jedničku má Roithová"/><ref name="recount"/>
+|-
+|style="background:lavender;"|'''[[Táňa Fischerová]]''' ({{Age|1947|6|6|2013|3|8}})<br />Key Movement<br />''with [[Green Party (Czech Republic)|Green Party]] support''
+|[[File:Tana Fischerova.jpg|75px]]
+| style="background-color:{{party color|Green Party (Czech Republic)}};" |
+|'''Leader of Key Movement''' <br />{{Small|(2008–2018)}}
+{{Hidden|Other offices|
+* [[Member of Parliament#Czech Republic|Member]] of the [[Chamber of Deputies of the Czech Republic|Chamber of Deputies]] from 2002 to 2006}}
+|align=center|Running with number 4 and with support of 64,961 signatures from public.<ref name="Prezidentští kandidáti už mají přidělená čísla: Jedničku má Roithová"/><ref name="recount"/>
+|-
+|style="background:lavender;"|'''[[Přemysl Sobotka]]''' ({{Age|1944|5|18|2013|3|8}})<br />[[Civic Democratic Party (Czech Republic)|Civic Democratic Party]]
+|[[File:Premysl Sobotka.jpg|75px]]
+| style="background-color:{{party color|Civic Democratic Party (Czech Republic)}};" |
+| '''[[List of presidents of the Senate of the Czech Republic|President of the Senate]]''' <br /><small>(2004–2010)</small>{{Hidden|Other offices|
+* [[Senate of the Czech Republic|Senator]] from 1996 to 2016}}
+|align=center|Running with number 5 and with support of 51 deputies.<ref name="Prezidentští kandidáti už mají přidělená čísla: Jedničku má Roithová"/><ref name="recount"/>
+|-
+|style="background:lavender;"| '''[[Miloš Zeman]]''' ({{Age|1944|9|28|2013|3|8}})<br />[[Party of Civic Rights]]
+|[[File:Miloš Zeman 2012-12-03 cropped.jpg|75px]]
+| style="background-color:{{party color|Party of Civic Rights}};" |
+| '''[[Prime Minister of the Czech Republic|Prime Minister]]''' <br /><small>(1998–2002)</small>
+{{Hidden|Other offices|
+* [[President of the Chamber of Deputies (Czech Republic)|President of the Chamber of Deputies]] from 1996 to 1998
+* Leader of the [[Czech Social Democratic Party|Social Democratic Party]] from 1993 to 2001
+* [[Member of Parliament#Czech Republic|Member]] of the [[Chamber of Deputies of the Czech Republic|Chamber of Deputies]] from 1996 to 2002}}
+|align=center|Running with number 6 and with support of 82,856 signatures from public.<ref name="Prezidentští kandidáti už mají přidělená čísla: Jedničku má Roithová"/><ref name="recount"/>
+|-
+|style="background:lavender;"|'''[[Vladimír Franz]]''' ({{Age|1959|5|25|2013|3|8}})<br />[[Independent (politician)|Independent]]
+|[[File:Prof. JUDr. Vladimír Franz.jpg|75px]]
+| style="background-color:{{party color|Independent (politician)}};" |
+| ''None''
+|align=center|Running with number 7 and with support of 75,709 signatures from public.<ref name="Prezidentští kandidáti už mají přidělená čísla: Jedničku má Roithová"/><ref name="recount"/>
+|-
+|style="background:lavender;"| '''[[Jiří Dienstbier Jr.]]''' ({{Age|1969|5|27|2013|3|8}})<br />[[Czech Social Democratic Party]]
+|[[File:JIRI Dienstbier mladsi cropped.jpeg|75px]]
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+|'''[[Senate of the Czech Republic|Senator]]''' <br /><small>(2011–2020)</small>
+{{Hidden|Other offices|
+* Leader of [[Young Social Democrats (Czech Republic)|Young Social Democrats]] from 2000 to 2002
+* [[Member of Parliament#Czech Republic|Member]] of the [[Chamber of Deputies of the Czech Republic|Chamber of Deputies]] in 2011
+* [[Member of Parliament#Czech Republic|Member]] of the [[Federal Assembly (Czechoslovakia)|Federal Assembly]] from 1990 to 1992}}
+|align=center|Running with number 8 and with support of 27 senators.<ref name="Prezidentští kandidáti už mají přidělená čísla: Jedničku má Roithová"/><ref name="recount"/>
+|-
+|style="background:lavender;"| '''[[Karel Schwarzenberg]]''' ({{Age|1937|12|10|2013|3|8}})<br />[[TOP 09]]
+|[[File:Karel Schwarzenberg on June 2, 2011.jpg|75px]]
+| style="background-color:{{party color|TOP 09}};" |
+| '''[[Minister of Foreign Affairs (Czech Republic)|Minister of Foreign Affairs]]''' <br /><small>(2007–2009; 2010–2013)</small>
+{{Hidden|Other offices|
+* Leader of [[TOP 09]] from 2009 to 2015
+* [[Member of Parliament#Czech Republic|Member]] of the [[Chamber of Deputies of the Czech Republic|Chamber of Deputies]] since 2010
+* [[Senate of the Czech Republic|Senator]] from 2004 to 2010}}
+|align=center|Running with number 9 and with support of 38 deputies.<ref name="Prezidentští kandidáti už mají přidělená čísla: Jedničku má Roithová"/><ref name="recount"/>
+|}
+
+[[Vladimír Franz]] appears insignificant in agency surveys but in November he was the obvious favorite of opinion polls of several different popular news servers and media (Aktuálně.cz,<ref>[http://aktualne.centrum.cz/domaci/grafika/2012/11/06/koho-byste-zvolili-prezidentem-ceske-republiky Koho byste zvolili prezidentem České republiky?], Aktuálně.cz, 6. 11. 2012</ref> Reflex,<ref>Dita Ondrejková: [http://www.reflex.cz/clanek/zpravy/48475/a-prezidentem-z-volby-nanecisto-se-stava-vladimir-franz.html A prezidentem z volby nanečisto se stává... Vladimír Franz!], Reflex.cz, 8. 11. 2012</ref> iDnes.cz<ref>Jan Wirnitzer: [http://zpravy.idnes.cz/ctenari-chteji-za-prezidenta-franze-dbm-/domaci.aspx?c=A121118_125507_domaci_jw Čtenáři vybrali za prezidenta Franze, ve druhém kole získal 56 procent], iDnes.cz, 18. 1. 2012</ref>) as well as of so-called "students' elections"<ref>[http://zpravy.idnes.cz/studenti-cvicne-volili-prezidenta-dt1-/domaci.aspx?c=A121212_122033_domaci_jj Středoškoláci zvolili na Hrad Franze, straničtí kandidáti propadli], iDnes.cz, 12. 12. 2012 jj (Jan Jiřička), hv (Hana Válková)</ref> in all regions and all types of secondary schools.<ref>[http://www.novinky.cz/veda-skoly/287863-proc-zvolili-stredoskolaci-franze-ze-stavajicich-pomeru-jsou-rozcarovani.html Proč zvolili středoškoláci Franze? Ze stávajících poměrů jsou rozčarováni], Novinky.cz, 14. 12. 2012</ref> The current president Klaus expressed fear that his successor would be Franz or Okamura.<ref>Zdeňka Trachtová, Jan Wirnitzer: [http://zpravy.idnes.cz/klaus-o-prime-volbe-prezidenta-dze-/domaci.aspx?c=A121207_115150_domaci_jw Přímá volba se strašně vymstí, řekl Klaus. Obává se Franze či Okamury], iDnes.cz. 7. 12. 2012</ref>
+
+===Disqualified candidates===
+
+The following list includes the candidates who were disqualified after the [[Ministry of Interior of the Czech Republic|Ministry of Interior]] reviewed their petitions assessing that they failed to meet the quorum of minimum of 50,000 popular signatures or twenty MPs in the Chamber of Deputies, or ten MPs in the Senate.
+
+Candidates [[Jana Bobošíková]], [[Vladimír Dlouhý (politician)|Vladimír Dlouhý]], and [[Tomio Okamura]] collected more than 50,000 signatures; however, after checking two samples of each petition and reducing the number of signatures according to the error rate, the number fell below the requirement; accordingly, they were not registered as candidates. Along with the action, the ministry stated that many of Bobošíková's alleged signatories were long dead; while in case of Okamura, the ministry found a large number of fictitious signatories. Both candidates appealed the ministry's decision before the [[Supreme Administrative Court of the Czech Republic|Supreme Administrative Court]], believing that the ministry had used an incorrect method of recount.<ref name="recount" />
+
+On 13 December 2012, the Supreme Administrative Court ruled on the complaints. It ordered that Bobošíková must be registered as a candidate, and rejected the complaints of Dlouhý and Okamura, as even after correcting the error in computation their number of valid signatures still fails to meet the quorum.<ref name="NSS" /> Okamura unsuccessfully challenged the verdict at the [[Constitutional Court of the Czech Republic|Constitutional Court]].<ref name="concourt">{{cite web|url=http://www.concourt.cz/clanek/7599|title=Ústavní soud zamítl stížnost Tomia Okamury k prezidentské volbě|date=4 January 2013|publisher=[[Constitutional Court of the Czech Republic]]|language=cs|access-date=27 January 2013|url-status=dead|archive-url=https://archive.today/20130217030607/http://www.concourt.cz/clanek/7599|archive-date=17 February 2013|df=dmy-all}}</ref>
+
+{| class="wikitable sortable" style="font-size:90%;"
+|-
+!Candidate
+!Signatures lodged<ref name="recount" />
+!Quorum fulfillment after recount<ref name="recount" />
+!Party
+!Affiliation prior to<br /> the [[Velvet Revolution]]
+!Occupation
+!{{Deprecated archive|url=https://archive.today/20130131173615/http://praguemonitor.com/2012/08/28/poll-fischer-zeman-favourites-presidential-election|title=PPM Factum Opinion poll}}<br />27 August 2012
+![https://web.archive.org/web/20120924024303/http://praguemonitor.com/2012/09/18/poll-presidential-election-favourite-fischer-gains-ground PPM Factum Opinion poll]<br />6–16 Sep 2012
+![https://web.archive.org/web/20131214063207/http://www.factum.cz/506_fischer-prekrocil-30-procent PPM Factum Opinion Poll]<br />15 Oct 2012
+|-
+|<span style="display:none">Dlouhý</span>[[File:Vladimír Dlouhý politik cropped2.JPG|75px]]<br />[[Vladimír Dlouhý (politician)|Vladimír Dlouhý]]
+|align=center|59 165
+|align=center|38 687
+|align=center|Independent, formerly [[Civic Democratic Alliance]] and [[Civic Forum]]
+|align=center|[[Communist Party of Czechoslovakia|Communist Party<br /> of Czechoslovakia]]
+|align=center|Economist, former Minister of Industry and Trade
+|align=center|{{sort|00.0|N/A}}
+|align=center|{{sort|04.5|4.5%}}
+|align=center|{{sort|02.8|2.8%}}
+|-
+|<span style="display:none">Okamura</span>[[File:Svět knihy 2011 - Tomio Okamura.jpg|75px]]<br />[[Tomio Okamura]]
+|align=center|61 966
+|align=center|35 751
+|align=center|Independent
+|align=center|None
+|align=center|Entrepreneur, [[Senate of the Czech Republic|Senator]]
+|align=center|{{sort|07.3|7.3%}}
+|align=center|{{sort|06.1|6.1%}}
+|align=center|{{sort|07.9|7.9%}}
+|-
+|<span style="display:none">Samková</span>[[Klára Samková]]
+|align=center|1 076<ref name="NSS" />
+|align=center|–
+|align=center|[[TOP 09]], formerly member of [[Civic Democratic Party (Czech Republic)|Civic Democratic Party]], formerly candidate of the [[Romany Civic Initiative]] within [[Civic Forum]]
+|align=center|–
+|align=center|Attorney, former Member of [[Chamber of Deputies of the Parliament of the Czech Republic|Chamber of Deputies of the Czech Parliament]]
+|align=center|–
+|align=center|–
+|align=center|–
+|-
+|<span style="display:none">Cibulka</span>[[Petr Cibulka]]
+|align=center|319<ref name="NSS" />
+|align=center|–
+|align=center|[[The Right Bloc]]
+|align=center|[[Dissident]]
+|align=center|Civic activist
+|align=center|–
+|align=center|–
+|align=center|–
+|-
+|<span style="display:none">Kesner</span>[[Jiří Kesner]]
+|align=center|54<ref name="NSS">{{cite web|url=http://www.nssoud.cz/Nejvyssi-spravni-soud-rozhodl-o-navrzich-tykajicich-se-registraci-kandidatnich-listin-pro-volbu-prezidenta-republiky/art/913?tre_id=135|title=Nejvyšší správní soud rozhodl o návrzích týkajících se registrací kandidátních listin pro volbu prezidenta republiky|publisher=[[Supreme Administrative Court of the Czech Republic]]|language=cs|access-date=27 January 2013|archive-date=19 December 2012|archive-url=https://web.archive.org/web/20121219043654/http://www.nssoud.cz/Nejvyssi-spravni-soud-rozhodl-o-navrzich-tykajicich-se-registraci-kandidatnich-listin-pro-volbu-prezidenta-republiky/art/913?tre_id=135|url-status=dead}}</ref>
+|align=center|–
+|align=center|Independent
+|align=center|–
+|align=center|engineer
+|align=center|–
+|align=center|–
+|align=center|–
+|-
+|<span style="display:none">Světnička</span>[[Karel Světnička]]
+|align=center|26<ref name="NSS" />
+|align=center|–
+|align=center|Independent
+|align=center|–
+|align=center|state inspector
+|align=center|–
+|align=center|–
+|align=center|–
+|-
+|<span style="display:none">Kašná</span>Anna Kašná
+|align=center|unsuccessfully required parliament support
+|align=center|–
+|align=center|[[The Crown of Bohemia (Monarchist party of Bohemia, Moravia and Silesia)]]
+|align=center|–
+|align=center| jurist, (wheelchair user)
+|align=center|–
+|align=center|–
+|align=center|–
+|-
+|<span style="display:none">Hejmová</span>Iveta Heimová
+|align=center|unsuccessfully required parliament support
+|align=center|–
+|align=center|Independent
+|align=center|–
+|align=center|teacher and artist
+|align=center|–
+|align=center|–
+|align=center|–
+|-
+|<span style="display:none">Hejmová</span>Jindřiška Nazarská
+|align=center|60
+|align=center|–
+|align=center|member of [[Civic Democratic Party (Czech Republic)|Civic Democratic Party]]
+|align=center|–
+|align=center|teacher and artist
+|align=center|–
+|align=center|–
+|align=center|–
+|-
+|<span style="display:none">Hladík</span>Roman Hladík
+|align=center|18
+|align=center|–
+|align=center|Independent
+|align=center|–
+|align=center|self-employed
+|align=center|–
+|align=center|–
+|align=center|–
+|}
+
+===Withdrawn candidate===
+Jan Toman from [[Bechyně]] filed his own candidature on 6 November but he attached no petition.<ref>[http://www.mvcr.cz/soubor/toman-pdf.aspx Výzva k odstranění závad na kandidátní listině – Mgr. et Mgr. Jan Toman], Ministerstvo vnitra ČR, 2012-11-13</ref> He was also the attorney of the candidate Karel Světnička, and Karel Světnička was the attorney of Jan Toman. However, a candidate must not be an attorney of any proposer. Jan Světnička surrendered his own candidature on 22 November and remained the attorney of Karel Světnička.<ref>[http://www.mvcr.cz/soubor/karel-svetnicka-pdf.aspx Rozhodnutí o odmítnutí kandidátní listiny nebo o odmítnutí kandidátní listiny, Mgr. et Bc. Karel Světnička], Ministerstvo vnitra ČR, 2012-11-23</ref>
+
+===Other announced candidates===
+The following list includes some of the people who announced their candidacy but the proposal was not filed finally. Some of them started to collect petition signatures.
+*[[Ladislav Jakl]], [[Party of Free Citizens]], secretary to President [[Václav Klaus]].<ref>{{cite news |url= http://praguemonitor.com/2012/09/24/presidential-candidate-jakl-launches-petition-his-bid |title= Presidential candidate Jakl launches petition for his bid |work= Prague Daily Monitor |agency= ČTK |date= 24 September 2012 |access-date= 24 September 2012 |url-status= dead |archive-url= https://archive.today/20130131174616/http://praguemonitor.com/2012/09/24/presidential-candidate-jakl-launches-petition-his-bid |archive-date= 31 January 2013 |df= dmy-all }}</ref> He won the [[2012 Party of Free Citizens presidential primaries|party's primaries]] but failed to gather enough signatures.
+*[[Rut Kolínská]], President of the Mother Centres Network<ref name=spycatcher/>
+*[[Karel Randák]], former head of the Czech counter-intelligence<ref name=spycatcher>{{cite news |url= http://praguemonitor.com/2012/09/14/former-chief-spycatcher-running-president |title= Former chief spycatcher running for president |agency= ČTK |work= Prague Daily Monitor |date= 14 September 2012 |access-date= 18 September 2012 |url-status= dead |archive-url= https://archive.today/20130131145527/http://praguemonitor.com/2012/09/14/former-chief-spycatcher-running-president |archive-date= 31 January 2013 |df= dmy-all }}</ref>
+*[[Tomáš Vandas]], [[Workers' Party (Czech Republic)|DSSS]]<ref>{{cite web|url=http://www.ceskenoviny.cz/domov/volby/zpravy/o-prezidentsky-urad-se-bude-uchazet-nejmene-devet-kandidatu/861471|title=O prezidentský úřad se bude ucházet nejméně devět kandidátů|date=4 November 2012|publisher=České noviny ([[ČTK]])|language=cs|access-date=27 January 2013}}</ref>
+
+===Other possible candidates===
+[[Jan Švejnar]] a candidate in [[2008 Czech presidential election|2008 presidential election]] was speculated to be one of possible candidates and he himself admitted that he considers running. He quickly one of the frontrunners according to polls that showed him being the 2nd strongest candidate. His support decreased by the time and he fell to 3rd or 4th place. Švejnar eventually said in September 2012 that he won't run.<ref>{{cite web|last1=Šráfeldová|first1=Milena|title=Jan Švejnar ukončil dohady, nebude kandidovat v prezidentských volbách|url=http://www.radio.cz/cz/rubrika/udalosti/jan-svejnar-ukoncil-dohady-nebude-kandidovat-v-prezidentskych-volbach|website=Radio Praha|date=12 September 2012 |access-date=18 July 2016}}</ref>
+
+[[Vladimír Remek]] was offered presidential nomination by [[Communist Party of Bohemia and Moravia]].<ref name="Komunisté oslovili kvůli volbě na Hrad Remka. Straníci navrhli i Filipa">{{cite web|title=Komunisté oslovili kvůli volbě na Hrad Remka. Straníci navrhli i Filipa|url=http://zpravy.idnes.cz/kandidatem-komunistu-na-hrad-muze-byt-kosmonaut-remek-ppz-/domaci.aspx?c=A121015_132527_domaci_kop|website=iDNES.cz|access-date=10 May 2017|date=15 October 2012}}</ref> He rejected his own party's offer.<ref name="Remek odmítl nabídku komunistů kandidovat na prezidenta">{{cite web|title=Remek odmítl nabídku komunistů kandidovat na prezidenta|url=http://zpravy.idnes.cz/vladimir-remek-nebude-kandidovat-na-prezidenta-flt-/domaci.aspx?c=A121025_164319_domaci_zt|website=iDNES.cz|access-date=10 May 2017|date=25 October 2012}}</ref>
+
+==Primaries==
+===Civic Democratic Party (ODS)===
+[[File:Prez-primarky-ODS-2012.png|thumb|right|ODS Primaries results by districts]]
+{{Main|2012 Civic Democratic Party presidential primaries}}
+[[Civic Democratic Party (Czech Republic)|Civic Democratic Party]] held primary elections to decide who will become party's candidate. Primaries were held from end of April 2012 to 28 June 2012. Vice-Chairman of Senate [[Přemysl Sobotka]] faced MEP [[Evžen Tošenovský]]. Sobotka received 61% of votes and won party's nomination. Primaries suffered of low voter turnout.<ref>{{cite web|title=Kandidátem ODS na prezidenta je Přemysl Sobotka|url=https://www.novinky.cz/domaci/271751-kandidatem-ods-na-prezidenta-je-premysl-sobotka.html|website=Novinky.cz|date=28 June 2012 |access-date=25 March 2017|language=cs}}</ref>
+
+===Czech Social Democratic Party (ČSSD)===
+{{Main|2012 Czech Social Democratic Party presidential primaries}}
+[[Czech Social Democratic Party]] held primaries in May 2012.  The primaries were indirect, with only members of the party's Central Executive Committee able to vote. [[Jiří Dienstbier Jr.]] was expected to face [[Jan Švejnar]]. Švejnar withdrawn from primaries before voting took place and Dienstbier received the nomination on 19 May 2012.<ref>{{cite web|title=ČSSD má kandidáta na Hrad: Stal se jím Jiří Dienstbier|url=http://www.blesk.cz/clanek/zpravy-politika/174610/cssd-ma-kandidata-na-hrad-stal-se-jim-jiri-dienstbier.html|website=Blesk.cz|date=19 May 2012 |access-date=25 March 2017}}</ref>
+
+===Party of Free Citizens (Svobodní) ===
+{{Main|2012 Party of Free Citizens presidential primaries}}
+The [[Party of Free Citizens]] held presidential primaries in June 2012. [[Ladislav Jakl]], the secretary of President Václav Klaus, was the only candidate.<ref>{{cite web|title=Svobodní: Naším jediným kandidátem na prezidenta je Jakl|url=http://www.tyden.cz/rubriky/domaci/svobodni-nasim-jedinym-kandidatem-na-prezidenta-je-jakl_236832.html|website=TÝDEN.cz|access-date=25 March 2017|date=7 June 2012}}</ref> Jakl received 88% of votes and won the nomination but the party failed to gather enough signatures and Jakl could not participate in the election.<ref>{{cite web|title=Klausův poradce Jakl dostal podporu pro kandidaturu na Hrad|url=http://zpravy.idnes.cz/jakl-dostal-podporu-svobodnych-pri-kandidature-na-hrad-pgg-/domaci.aspx?c=A120617_181254_domaci_kop|website=iDNES.cz|access-date=25 March 2017|date=17 June 2012}}</ref><ref>{{cite web|title=Jakl podpisy nezískal. Měl jsem se sběru věnovat usilovněji, říká {{!}} Domov|url=http://www.lidovky.cz/jakl-podpisy-neziskal-na-hrad-vsak-miri-fischerova-a-okamura-plz-/zpravy-domov.aspx?c=A121106_102900_ln_domov_kim|website=Lidovky.cz|access-date=25 March 2017|date=6 November 2012}}</ref>
+
+===Public Affairs (VV)===
+[[Public Affairs (political party)|Public Affairs]] also intended to choose its candidate in presidential primaries. [[Jan Švejnar]] was mentioned by Vít Bárta as a possible candidate.<ref>{{cite web|title=ODS má tři jména pro Hrad, přibyl Tošenovský. Rozhodnout mohou primárky|url=http://zpravy.idnes.cz/ods-ma-tri-jmena-pro-hrad-pribyl-tosenovsky-rozhodnout-mohou-primarky-1mq-/domaci.aspx?c=A120221_105512_domaci_kop|website=iDNES.cz|access-date=27 March 2017|date=21 February 2012}}</ref><ref>{{cite web|title=VV vyberou kandidáta na Hrad v primárkách. Bártovi se líbí Švejnar|url=http://zpravy.idnes.cz/vv-vyberou-kandidata-na-hrad-v-primarkach-bartovi-se-libi-svejnar-ph4-/domaci.aspx?c=A111021_133801_domaci_kop|website=iDNES.cz|access-date=27 March 2017|date=21 October 2011}}</ref> Švejnar himself didn't say that he would agree with nomination by the party.<ref>{{cite web|title=ZVĚŘINA: Prezidentský poker {{!}} Názory|url=http://www.lidovky.cz/zverina-prezidentsky-poker-dp9-/nazory.aspx?c=A111023_133323_ln_nazory_sk|website=Lidovky.cz|access-date=27 March 2017|date=23 October 2011}}</ref> Leader of Public Affairs [[Radek John]] said that he would support [[Jan Fischer (politician)|Jan Fischer]].<ref>{{cite web|title=ČSSD vybrala dva kandidáty na Hrad: Dienstbiera a Švejnara|url=http://zpravy.idnes.cz/cssd-vybrala-dva-kandidaty-na-hrad-dienstbiera-a-svejnara-pe3-/domaci.aspx?c=A120218_084445_domaci_kop|website=iDNES.cz|access-date=27 March 2017|date=18 February 2012}}</ref> Primaries never happened and [[Tomio Okamura]] was later speculated to be possible candidate of Public Affairs.<ref>{{cite web|title=Okamura potvrdil, že chce na Hrad. Sbírá podpisy a lobbuje v parlamentu|url=http://zpravy.idnes.cz/tomio-okamura-kandidatura-na-prezidenta-fd3-/domaci.aspx?c=A121002_203735_domaci_brd|website=iDNES.cz|access-date=27 March 2017|date=3 October 2012}}</ref>
+
+==Campaign==
+[[File:Táňa Fischerová - Superdebata prezidentských kandidátů 2.jpg|thumbnail|Presidential debate on [[Czech Television]] (ČT)]]
+{{multiple image
+| align     = right
+| direction = horizontal
+| width     = 150
+| footer    = A sample of a ballot paper of [[Miloš Zeman]] and [[Karel Schwarzenberg]] used for the first round of the presidential election.
+| image1    = CZ-PR2013-6-Zeman.jpg
+| image2    = CZ-PR2013-9-Schwarzenberg.jpg
+}}
+Zeman and Fischer were leading in the polls, but Schwarzenberg's campaign ended on a higher note with a crowd of about 10,000 people at a rally in Prague.<ref>{{cite web|url=http://www.ceskatelevize.cz/ct24/domaci/210326-prezidentska-kampan-vrcholi-dnes-hlavne-kulturne/|title=Prezidentská kampaň vrcholí, dnes hlavně kulturně|date=9 January 2013|publisher=Czech Television|language=cs|access-date=27 January 2013}}</ref> Zeman said of the runoff: "It will be a presidential race between a candidate for the left and a candidate for the right. We'll start from scratch for the second round;" Schwarzenberg said of his campaign that he would make the Czech Republic "a successful country." Vladimír Franz called his campaign "a success."<ref>{{cite web|url=http://zpravy.ihned.cz/politika/c1-59111720-vladimir-franz-vytvorili-jsme-energii-nesmime-se-ponorit-do-tmy|title=Vladimír Franz: Vytvořili jsme energii. Nesmíme se ponořit do tmy|date=12 January 2013|work=[[Hospodářské noviny]]|publisher=iHNED|access-date=27 January 2013}}</ref>
+
+===First round===
+[[Miloš Zeman]] and [[Jan Fischer (politician)|Jan Fischer]] stated they would run if the election is direct.<ref name="Do přímé volby bych určitě šel, přihlásil se Fischer o Hrad">{{cite web|title=Do přímé volby bych určitě šel, přihlásil se Fischer o Hrad|url=http://zpravy.idnes.cz/volba-prezidenta-0ej-/domaci.aspx?c=A110207_165854_krimi_jw|website=iDNES.cz|access-date=31 May 2017|date=7 February 2011}}</ref> [[2008 Czech presidential election|2008 presidential candidate]] [[Jan Švejnar]] was also speculated as a candidate.<ref name="Lidé by na Hrad zvolili Švejnara. Místo Sobotky chtějí mezi kandidáty Zemana">{{cite web|title=Lidé by na Hrad zvolili Švejnara. Místo Sobotky chtějí mezi kandidáty Zemana|url=http://zpravy.idnes.cz/lide-by-na-hrad-zvolili-svejnara-misto-sobotky-chteji-mezi-kandidaty-zemana-1bg-/domaci.aspx?c=A101227_204004_domaci_brm|website=iDNES.cz|access-date=31 May 2017|date=28 December 2010}}</ref> Zeman's [[Party of Civic Rights]] started petition campaign for direct election on 29 June 2011.<ref name="Zemanovci rozjeli petiční akci za přímou volbu prezidenta a starostů">{{cite web|title=Zemanovci rozjeli petiční akci za přímou volbu prezidenta a starostů|url=http://zpravy.idnes.cz/zemanovci-rozjeli-peticni-akci-za-primou-volbu-prezidenta-a-starostu-1kl-/domaci.aspx?c=A110629_115028_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=29 June 2011}}</ref> Petition was signed by more than 100,000 people as of October 2011.<ref name="Zemanovu petici za přímou volbu na Hrad podpořilo přes 100 tisíc lidí">{{cite web|title=Zemanovu petici za přímou volbu na Hrad podpořilo přes 100 tisíc lidí|url=http://zpravy.idnes.cz/zemanovu-petici-za-primou-volbu-na-hrad-podporilo-pres-100-tisic-lidi-1ps-/domaci.aspx?c=A111004_095744_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=4 October 2011}}</ref> Direct election was accepted by parliament on 8 February 2012.<ref>{{cite web|title=Přímá volba prezidenta prošla. Lidé sami vyberou už Klausova nástupce|url=http://zpravy.idnes.cz/prima-volba-prezidenta-prosla-lide-sami-vyberou-uz-klausova-nastupce-1kk-/domaci.aspx?c=A120208_135604_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=8 February 2012}}</ref>
+
+[[Karel Schwarzenberg]] announced his candidature on 22 October 2011.<ref name="Schwarzenberg bude kandidovat na prezidenta">{{cite web|title=Schwarzenberg bude kandidovat na prezidenta|url=https://www.novinky.cz/domaci/248228-schwarzenberg-bude-kandidovat-na-prezidenta.html|website=Novinky.cz|date=22 October 2011 |access-date=31 May 2017|language=cs}}</ref>
+
+Former prime minister of the Czech Republic [[Jan Fischer (politician)|Jan Fischer]] announced his candidature on 7 January 2012.<ref name="Přímé volby prezidenta se zúčastním, prohlásil expremiér Fischer">{{cite web|title=Přímé volby prezidenta se zúčastním, prohlásil expremiér Fischer|url=http://zpravy.idnes.cz/prime-volby-prezidenta-se-zucastnim-prohlasil-expremier-fischer-pyu-/domaci.aspx?c=A120106_195834_domaci_brm|website=iDNES.cz|access-date=31 May 2017|date=7 January 2012}}</ref> [[Jana Bobošíková]] announced her candidature on 9 February 2012. [[Miloš Zeman]] stated that he will officially announce his candidature when he gathers enough signatures.<ref name="Do přímé volby na Hrad přibyl třetí jasný kandidát, Jana Bobošíková">{{cite web|title=Do přímé volby na Hrad přibyl třetí jasný kandidát, Jana Bobošíková|url=http://zpravy.idnes.cz/do-prime-volby-na-hrad-pribyl-treti-jasny-kandidat-jana-bobosikova-1co-/domaci.aspx?c=A120209_112959_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=9 February 2012}}</ref>
+
+Miloš Zeman announced his candidature on 14 February 2012. [[Party of Civic Rights]] started to gather signatures for him.<ref name="Miloš Zeman po deseti letech zkusí znovu dobýt Hrad">{{cite web|title=Miloš Zeman po deseti letech zkusí znovu dobýt Hrad|url=http://zpravy.idnes.cz/milos-zeman-po-deseti-letech-zkusi-znovu-dobyt-hrad-fhe-/domaci.aspx?c=A120214_123858_domaci_jw|website=iDNES.cz|access-date=31 May 2017|date=14 February 2012}}</ref> His presidential bid received support from [[LEV 21]] and some politicians of [[Czech Social Democratic Party]] (ČSSD).<ref>{{cite web|title=Zeman na Hradě by se líbil Paroubkovi, přímluvce má i ve vedení ČSSD|url=http://zpravy.idnes.cz/zeman-na-hrade-by-se-libil-paroubkovi-primluvce-ma-i-ve-vedeni-cssd-p9s-/domaci.aspx?c=A120216_142321_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=16 February 2012}}</ref> ČSSD later decided to stand its own candidate [[Jiří Dienstbier Jr.]]
+
+Jan Fischer became front-runner in early 2012. [[Jan Švejnar]] was considered his main rival. [[Miloš Zeman]] was third strongest candidate according to polls. Švejnar himself was at the time waiting if he receives support of Czech Social Democratic Party<ref>{{cite web|title=Zemana chce na Hradě víc lidí než Schwarzenberga, ukázal průzkum|url=http://zpravy.idnes.cz/novym-prezidentem-by-se-stal-fischer-zeman-je-treti-fxy-/domaci.aspx?c=A120314_173102_domaci_wlk|website=iDNES.cz| date=14 March 2012 |access-date=31 May 2017}}</ref><ref>{{cite web|title=Švejnar napíná ČSSD. Vyčkává, zda ho strana podpoří na Hrad|url=http://zpravy.idnes.cz/svejnar-napina-cssd-vyckava-zda-ho-strana-podpori-na-hrad-pe4-/domaci.aspx?c=A120316_122047_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=16 March 2012}}</ref><ref>{{cite web|title=Zeman ani Okamura by se podle průzkumu na Hrad neprobojovali|url=http://zpravy.idnes.cz/favority-prime-volby-prezidenta-jsou-fischer-a-svejnar-piw-/domaci.aspx?c=A120414_090604_domaci_jj|website=iDNES.cz|access-date=31 May 2017|date=14 April 2012}}</ref>
+
+Miloš Zeman started gathering signatures on 21 March 2012 when he launched his presidential campaign.<ref name="Zeman začal boj o Hrad, lidem dá do schránek leták se svým životopisem">{{cite web|title=Zeman začal boj o Hrad, lidem dá do schránek leták se svým životopisem|url=http://zpravy.idnes.cz/zeman-se-pustil-do-boje-o-hrad-dja-/domaci.aspx?c=A120321_122026_domaci_jj|website=iDNES.cz|access-date=31 May 2017|date=21 March 2012}}</ref> Jan Fischer started his campaign on 2 April 2012.<ref>{{cite web|title=Fischer neoficiálně zahájil prezidentskou kampaň. Zpoza květináče|url=http://zpravy.idnes.cz/fischer-zahajil-prezidentskou-kampan-d83-/domaci.aspx?c=A120402_162823_domaci_jw|website=iDNES.cz|access-date=31 May 2017|date=2 April 2012}}</ref>
+
+Jan Švejnar withdrew from [[2012 Czech Social Democratic Party presidential primaries|ČSSD primaries]] on 2 May 2012 and decided to run as independent.<ref>{{cite web|title=Švejnar nechce na Hrad za ČSSD, ale sám za sebe, přiznal Sobotka|url=http://zpravy.idnes.cz/otazniky-kolem-svejnarovy-kandidatury-na-hrad-za-cssd-pp5-/domaci.aspx?c=A120502_174613_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=2 May 2012}}</ref> Czech Social Democratic Party then nominated [[Jiří Dienstbier Jr.]]
+
+Zeman grew in polls and in May 2012 he caught up with Jan Švejnar in polls. He also received signatures of 10 senators which meant he doesn't need 50,000 signatures.<ref>{{cite web|title=Zeman dohání Švejnara, bojují o druhé místo v prezidentské volbě|url=http://zpravy.idnes.cz/zeman-je-treti-v-pruzkumu-prezidentskych-kandidatu-fyk-/domaci.aspx?c=A120506_170628_domaci_brm|website=iDNES.cz|access-date=31 May 2017|date=6 May 2012}}</ref><ref>{{cite web|title=Šance Zemana na Hrad rostou. Má podpisy senátorů i rostoucí důvěru lidí|url=http://zpravy.idnes.cz/zeman-ma-vetsi-sanci-byt-prezidentem-dv5-/domaci.aspx?c=A120507_124216_domaci_jj|website=iDNES.cz|access-date=31 May 2017|date=7 May 2012}}</ref> Zeman gathered required number of signatures by the end of June 2012.<ref>{{cite web|title=Zeman předběhl soupeře, má 50 tisíc podpisů. Kampaň bude bez Šloufa|url=http://zpravy.idnes.cz/zeman-uz-ma-50-tisic-podpisu-aby-mohl-kandidovat-na-hrad-pf8-/domaci.aspx?c=A120626_095513_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=26 June 2012}}</ref> Polls in June 2012 indicated that Miloš Zeman became Fischer's main rival.<ref>{{cite web|title=Zeman v průzkumu předstihl Švejnara. O Hrad by se utkal s Fischerem|url=http://zpravy.idnes.cz/podle-medianu-ma-zeman-skoro-stejne-sance-jako-svejnar-ppp-/domaci.aspx?c=A120606_174930_domaci_mku|website=iDNES.cz|access-date=31 May 2017|date=6 June 2012}}</ref>
+
+[[Civic Democratic Party (Czech Republic)|Civic Democratic Party]] nominated [[Přemysl Sobotka]] on 28 June 2012 when Sobotka won the [[2012 Civic Democratic Party presidential primaries|party's presidential primaries]]. Sobotka stated that his campaign will cost 8 million Korunas.<ref>{{cite web|title=ODS nasadí do boje o Hrad Přemysla Sobotku, k favoritům volby nepatří|url=http://zpravy.idnes.cz/ods-do-prezidentske-volby-nasadi-premysla-sobotku-fwl-/domaci.aspx?c=A120628_062538_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=28 June 2012}}</ref> Candidate of [[Czech Social Democratic Party]] [[Jiří Dienstbier Jr.]] stated on the other hand that his campaign will cost tens of million Korunas. Dienstbier came third according to one of polls.<ref>{{cite web|title=Dienstbier má průzkum, že poráží Zemana. Utratí desítky milionů|url=http://zpravy.idnes.cz/dienstbier-predstavil-kampan-pro-volbu-prezidenta-f8a-/domaci.aspx?c=A120629_144845_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=29 June 2012}}</ref>
+
+Jan Fischer started to fully pursue his campaign on 9 July. He was supported by businessman Jaromír Soukup.<ref>{{cite web|title=Fischer končí v Londýně, na Hrad mu pomáhá mediální magnát Soukup|url=http://zpravy.idnes.cz/prezidentsky-kandidat-fischer-konci-v-londynske-bance-ppr-/domaci.aspx?c=A120620_113629_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=9 July 2012}}</ref> Fischer was still front-runner at the time while Miloš Zeman was his main competition. Jan Švejnar who was originally considered the main rival of Fischer was losing in polls due to his indecisiveness.<ref>{{cite web|title=Švejnarovi váhání škodí, míní experti. Poslanci řekl, že na Hrad chce|url=http://zpravy.idnes.cz/svejnarovi-muze-vahani-u-volicu-uskodit-fd8-/domaci.aspx?c=A120723_140013_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=23 July 2012}}</ref><ref>{{cite web|title=Fischer versus Zeman, tvrdí průzkum. Švejnarovy šance slábnou|url=http://zpravy.idnes.cz/favority-prezidentske-volby-jsou-fischer-a-zeman-f7u-/domaci.aspx?c=A120725_103017_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=25 July 2012}}</ref>
+
+[[Vladimír Franz]] announced his candidature on 30 July 2012.<ref>{{cite web|title=Potetovaný umělec Franz oznámil na Facebooku zájem o Hrad|url=http://zpravy.idnes.cz/vladimir-franz-kandiduje-na-prezidenta-d9d-/domaci.aspx?c=A120730_220626_domaci_ert|website=iDNES.cz|access-date=31 May 2017|date=30 July 2012}}</ref>
+
+[[Přemysl Sobotka]] started his campaign on 17 August 2012.<ref>{{cite web|title=Sobotka rozjel kampaň: poslance volme přímo a k euru buďme opatrní|url=http://zpravy.idnes.cz/kancelar-premysla-sobotky-dcx-/domaci.aspx?c=A120817_093941_domaci_jw|website=iDNES.cz|access-date=31 May 2017|date=17 August 2012}}</ref> Jan Fischer gathered 50,000 signatures by the end of August 2012.<ref>{{cite web|title=Fischer nasbíral 50 tisíc podpisů a může kandidovat na prezidenta|url=http://zpravy.idnes.cz/fischer-nasbiral-50-tisic-podpisu-pro-kandidaturu-na-hrad-p2h-/domaci.aspx?c=A120827_124127_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=27 August 2012}}</ref>
+
+Švejnar announced on 11 September 2012 that he won't run and endorsed Jan Fischer. [[Tomio Okamura]] started to gather signatures at the time<ref>{{cite web|title=Švejnar vzdal boj o Hrad, fanoušci Okamury naopak začali sbírat podpisy|url=http://zpravy.idnes.cz/svejnar-se-nezucastni-prime-volby-prezidenta-fo3-/domaci.aspx?c=A120911_102244_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=11 September 2012}}</ref> On 14 September 2012, Jan Fischer officially launched his campaign. He defined himself against Zeman and stated that "Czech Republic isn't a burnt land" reminding Zeman's statements from 1990s. He promised that Czechs won't be ashamed of him as a president.<ref>{{cite web|title=Fischer zahájil kampaň. Česko není spálená země, vymezil se proti Zemanovi|url=http://zpravy.idnes.cz/fischer-zahajil-kampan-0b3-/domaci.aspx?c=A120914_125847_domaci_maq|website=iDNES.cz|access-date=31 May 2017|date=14 September 2012}}</ref> Švejnar's withdrawal led to Fischer's growth in polls.<ref name="Švejnarovo odstoupení nahrálo Fischerovi, protestní hlasy sbírá Franz">{{cite web|title=Švejnarovo odstoupení nahrálo Fischerovi, protestní hlasy sbírá Franz|url=http://zpravy.idnes.cz/svejnar-nahral-fischerovi-a-zemanovi-dsu-/domaci.aspx?c=A120917_155115_domaci_jw|website=iDNES.cz|access-date=31 May 2017|date=17 September 2012}}</ref><ref>{{cite web|title=Fischer v prezidentském průzkumu posílil, Okamura je opět třetí|url=http://zpravy.idnes.cz/prezidentska-volba-fischer-okamura-d6z-/domaci.aspx?c=A121015_104331_domaci_jw|website=iDNES.cz|access-date=31 May 2017|date=15 October 2012}}</ref>
+
+[[Green Party (Czech Republic)|Green Party]] supported [[Táňa Fischerová]] for the election. Greens started gathering signatures for her on 27 September 2012.<ref>{{cite web|title=Na Hrad nepatří Fischer, ale Fischerová, řekli zelení. Sbírají podpisy|url=http://zpravy.idnes.cz/zeleni-podporili-jako-kandidatku-na-hrad-tanu-fischerovou-p3h-/domaci.aspx?c=A120927_125045_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=27 September 2012}}</ref> Jana Bobošíková gathered enough signatures on 29 September 2012.<ref>{{cite web|title=Bobošíková má podpisy na boj o Hrad, za útok na Klause chce demise|url=http://zpravy.idnes.cz/bobosikova-ma-50-tisic-podpisu-dj9-/domaci.aspx?c=A120929_083716_domaci_jw|website=iDNES.cz|access-date=31 May 2017|date=29 September 2012}}</ref> [[Vladimír Dlouhý (politician)|Vladimír Dlouhý]] and [[Zuzana Roithová]] announced on 1 October 2012 that they are getting closer to required number of signatures.<ref>{{cite web|title=Blížíme se 50 tisícům podpisů, hlásí zájemci o Hrad Dlouhý a Roithová|url=http://zpravy.idnes.cz/uz-se-blizime-k-50-tisicum-hlasi-tymy-dlouheho-a-roithove-pjs-/domaci.aspx?c=A121001_151905_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=1 October 2012}}</ref>
+
+[[Tomio Okamura]] announced candidature on 3 October 2012. He also started to gather signatures.<ref name="zpravy_2012-10-03">{{cite web|title=Okamura potvrdil, že chce na Hrad. Sbírá podpisy a lobbuje v parlamentu|url=http://zpravy.idnes.cz/tomio-okamura-kandidatura-na-prezidenta-fd3-/domaci.aspx?c=A121002_203735_domaci_brd|website=iDNES.cz|access-date=31 May 2017|date=3 October 2012}}</ref> [[Zuzana Roithová]] gathered enough signatures on the same day.<ref name="zpravy_2012-10-03"/> [[Vladimír Dlouhý (politician)|Vladimír Dlouhý]] announced that he gathered 50,000 signatures on 5 October 2012.<ref>{{cite web|title=Už mám 50 tisíc podpisů, říká Dlouhý. Reformu penzí by odložil|url=http://zpravy.idnes.cz/rozhovor-s-kandidatem-na-hrad-dlouhym-ktery-sehnal-50-tisic-pnn-/domaci.aspx?c=A121005_114350_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=5 October 2012}}</ref>
+
+As of 5 November 2012, [[Miloš Zeman]], [[Vladimír Dlouhý (politician)|Vladimír Dlouhý]], [[Jan Fischer (politician)|Jan Fischer]], [[Jana Bobošíková]], [[Zuzana Roithová]], [[Vladimír Franz]] and [[Tomio Okamura]] reportedly had enough signatures to run. [[Táňa Fischerová]] and [[Pavel Kořán]] were close to the number while [[Klára Samková]] and [[Ladislav Jakl]] was unlikely get enough signatures.<ref>{{cite web|title=Franz překvapil, do boje o Hrad jde s 88 388 podpisy. Uspěl i Okamura|url=http://zpravy.idnes.cz/okamura-ma-50-tisic-podpisu-dcp-/domaci.aspx?c=A121105_111233_domaci_jw|website=iDNES.cz|access-date=31 May 2017|date=5 November 2012}}</ref>
+
+Nominations were closed on 6 November 2012. There were 11 candidates who met required conditions. [[Miloš Zeman]], [[Jan Fischer (politician)|Jan Fischer]], [[Vladimír Franz]], [[Zuzana Roithová]], [[Tomio Okamura]], [[Táňa Fischerová]], [[Vladimír Dlouhý (politician)|Vladimír Dlouhý]] and [[Jana Bobošíková]] gathered over 50,000 signatures while [[Jiří Dienstbier Jr.|Jiří Dienstbier]], [[Přemysl Sobotka]] and [[Karel Schwarzenberg]] received parliamentary nomination.<ref>{{cite web|title=Česko zná všechny kandidáty na prezidenta. Jakl a Švejnar neprošli|url=http://zpravy.idnes.cz/jakl-nebude-kandidat-na-prezidenta-d5f-/domaci.aspx?c=A120131_125323_domaci_jj|website=iDNES.cz|access-date=31 May 2017|date=6 November 2012}}</ref> On 23 November, Bobošíková, Dlouhý and Okamura were disqualified from the election due to invalid signatures.<ref>{{cite web|title=Vyřazení některých kandidátů může odložit přímou volbu prezidenta|url=http://zpravy.idnes.cz/vyrazeni-nekterych-kandidatu-muze-ohrozit-termin-prime-pk2-/domaci.aspx?c=A121122_130808_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=22 November 2012}}</ref><ref>{{cite web|title=Okamurovi škrtli 26 tisíc podpisů, dál nejde ani Bobošíková a Dlouhý|url=http://zpravy.idnes.cz/ministerstvo-vnitra-vyradilo-kandidaty-z-prime-volby-prezidenta-p99-/domaci.aspx?c=A121123_114054_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=23 November 2012}}</ref> Bobošíková was returned to the election after recount on 13 December 2012.<ref>{{cite web|title=Bobošíkovou vrátil soud do boje o Hrad. Okamura a Dlouhý neuspěli|url=http://zpravy.idnes.cz/rozhodnuti-soudu-o-vyrazenych-kandidatech-na-hrad-fss-/domaci.aspx?c=A121213_084356_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=13 December 2012}}</ref>
+
+According to polls in November 2012, a gap between Fischer and Zeman started to shrink.<ref>{{cite web|title=Zeman v boji o Hrad dohání Fischera. Posílili i Franz a Fischerová|url=http://zpravy.idnes.cz/prima-volba-prezidenta-fischer-a-zeman-dhm-/domaci.aspx?c=A121108_124412_domaci_jpl|website=iDNES.cz|access-date=31 May 2017|date=8 November 2012}}</ref> Zeman took lead in January 2013 after debates held prior to voting.<ref>{{cite web|title=Poslední předvolební průzkum ovládl Zeman, volil by ho každý čtvrtý|url=http://zpravy.idnes.cz/posledni-predvolebni-pruzkum-prezidentske-volby-fv7-/domaci.aspx?c=A130106_204849_domaci_hro|website=iDNES.cz|access-date=31 May 2017|date=7 January 2013}}</ref><ref>{{cite web|title=Zeman u sázkových společností předběhl Fischera, poprvé má lepší kurz|url=http://zpravy.idnes.cz/sazkari-zmenili-kurz-na-zemana-je-favoritem-voleb-fvc-/domaci.aspx?c=A130106_121702_domaci_hv|website=iDNES.cz|access-date=31 May 2017|date=6 January 2013}}</ref>
+
+Voting took place on 11 and 12 January 2013. Zeman and [[Karel Schwarzenberg]] qualified for the second round. Jan Fischer was surprisingly eliminated when he received only 16% of votes and came third. Zeman received only 40,000 votes more than Schwarzenberg.<ref>{{cite web|title=Zeman a Schwarzenberg se utkají o Hrad, dělilo je jen 41 tisíc hlasů|url=http://zpravy.idnes.cz/prezidentske-volby-2013-0uh-/domaci.aspx?c=A130112_135527_domaci_jav|website=iDNES.cz|access-date=31 May 2017|date=12 January 2013}}</ref> Chances of both candidates in second round were considered balanced.<ref>{{cite web|title=ANALÝZA: Ve Schwarzenbergovi má teď Zeman těžšího soupeře, než tušil|url=http://zpravy.idnes.cz/jake-maji-pred-druhym-kolem-sance-zeman-a-schwarzenberg-pga-/domaci.aspx?c=A130112_181455_domaci_kop|website=iDNES.cz|access-date=31 May 2017|date=12 January 2013}}</ref><ref>{{cite web|title=KOMENTÁŘ: Schwarzenberg může Zemana porazit, když nepoleví|url=http://zpravy.idnes.cz/komentar-k-prezidentskym-volbam-do5-/domaci.aspx?c=A130112_160609_domaci_klm|website=iDNES.cz|access-date=31 May 2017|date=12 January 2013}}</ref>
+
+===Second round===
+[[File:Prezidentské volby 2013, volební místnost.jpg|thumb|Second round at Štěpánská Elementary, [[Prague]], Czech Republic]]
+The campaign for the second round started with the agreement of both candidates, [[Miloš Zeman]] and [[Karel Schwarzenberg]], not to attack each other and to conduct their campaign in a civil manner.<ref>{{cite web|url=http://www.lidovky.cz/knizata-zdegenerovala-a-dalsi-perly-dbz-/zpravy-domov.aspx?c=A130119_112505_ln_domov_khu|title=Knížata zdegenerovala, kostlivci z privatizace. Kampaň víří ostrá slova|date=20 January 2013|work=[[Lidové noviny]]|publisher=lidovky.cz|language=cs|access-date=22 January 2013}}</ref> However, when, in the second debate in the [[Czech Television]] held on 17 January 2013, Karel Schwarzenberg stated that the [[expulsion of Germans from Czechoslovakia]] after [[World War II]] would be today (in the 21st century) considered a war crime and [[Czechoslovak government-in-exile|the creators]] of the [[Beneš decrees]] (a series of laws dealing inter alia with the status of ethnic Germans and Hungarians in postwar Czechoslovakia in connection with Article 12 of the [[Potsdam Agreement]]) would be probably judged by the [[International Criminal Court|Hague Tribunal]] as war criminals, Zeman responded as following: ''"... he who marks (...) one of the presidents of Czechoslovakia as a war criminal, speaks as a "[[Sudeten Germans|sudeťák]]"'' [Sudeten German] ''and not as the president"''.<ref>{{cite web|url=http://zpravy.ihned.cz/politika/c1-59149540-zeman-a-schwarzenberg-se-stretli-v-druhe-televizni-debate-lehci-ton-stridaly-tvrde-utoky|title=Zeman a Schwarzenberg se střetli v druhé televizní debatě. Lehčí tón střídaly tvrdé útoky|date=18 January 2013|work=[[Hospodářské noviny]]|publisher=iHned.cz|language=cs|access-date=22 January 2013}}</ref> Schwarzenberg has been criticized for the fact that his wife cannot speak Czech and that he spent a part of his life abroad, despite the fact that his family fled from communists when he was a child.<ref>{{cite web|url=http://www.lidovky.cz/klausova-podporila-zemana-nechce-nastupkyni-ktera-mluvi-jen-nemecky-1iw-/zpravy-domov.aspx?c=A130118_211303_ln_domov_mpr|title=Klausová podpořila Zemana. Nechce první dámu, která neumí česky|date=18 January 2013|work=Lidové noviny|publisher=lidovky.cz|language=cs|access-date=22 January 2013}}</ref><ref>{{cite web|url=http://zpravy.idnes.cz/schwarzenberga-neprekvapila-klausova-podpora-zemanovi-pjs-/domaci.aspx?c=A130117_141906_domaci_kop|title=Schwarzenberg: Kamarády Klause a Zemana spojují jejich kostlivci|date=17 January 2013|work=Mladá fronta DNES|publisher=iDNES|language=cs|access-date=22 January 2013}}</ref> It was suggested that members of his family collaborated with [[Nazis]], most notably by the son of [[Václav Klaus|the Czech President]], Václav Klaus Jr. These charges have been dismissed by historians.<ref>{{cite web|url=http://www.lidovky.cz/klaus-junior-nerika-pravdu-otec-schwarzenberga-byl-vlastenec-puu-/zpravy-domov.aspx?c=A130117_140304_ln_domov_vsv|title=Historik: Klaus junior neříká pravdu, otec Schwarzenberga byl vlastenec|date=17 January 2013|work=Lidové noviny|publisher=lidovky.cz|language=cs|access-date=22 January 2013}}</ref> President Václav Klaus, his [[Slovak people|Slovak]] spouse [[Livia Klausová|Livia]] and son Václav expressed their concerns towards Schwarzenberg, pointing to the complete lack of knowledge of the [[Czech language]] of his spouse or to his emigration during the communist era. Schwarzenberg responded that ''"...the last hundred years have demonstrated that an appeal to the lowest instincts has tragic consequences."''<ref>{{cite web|url=http://www.rozhlas.cz/zpravy/politika/_zprava/schwarzenberg-zeman-s-klausem-tvori-jednu-mocenskou-skupinu--1164279|title=Schwarzenberg: Zeman s Klausem tvoří jednu mocenskou skupinu|last=Sehnoutka|first=Petr|date=20 January 2012|publisher=[[Czech Radio]]|language=cs|access-date=22 January 2013}}</ref> Additionally, he countered by claiming that the President Klaus and Zeman created a power group and manipulated his claims. He also called their alleged pact a "fraud on the voters".<ref>{{cite web|url=http://zpravy.idnes.cz/klaus-a-zeman-mocenska-skupina-des-/domaci.aspx?c=A130120_121002_domaci_skr|title= Klaus se Zemanem podvádějí české voliče, zlobí se Schwarzenberg|date=20 January 2013|work=[[Mladá fronta DNES]]|publisher=iDNES|language=cs|access-date=22 January 2013}}</ref> In a leaked text message to a friend, President Klaus wrote that if Karel Schwarzenberg won the election, he would consider emigration.<ref>{{cite web|url=http://www.novinky.cz/domaci/291359-klaus-potvrdil-pravost-sms-o-emigraci.html|title=Klaus potvrdil pravost SMS o emigraci|date=26 January 2013|publisher=novinky.cz|language=cs|access-date=25 January 2013}}</ref>
+[[File:Flag of the President of the Czech Republic.svg|thumb|left|200px|Flag of the president of the Czech Republic with the inscription "[[Truth prevails]]".]]
+The critics of Karel Schwarzenberg mentioned his post in the unpopular [[Petr Nečas's Cabinet|cabinet of Petr Nečas]]. Schwarzenberg, leader of a government coalition party [[TOP 09]], a vice-premier and a foreign minister, was frequently associated with the finance minister and his TOP 09 colleague [[Miroslav Kalousek]], one of the key proponents of the austerity measures and spending cuts in the Czech Republic.<ref>{{cite web|url=http://www.lidovky.cz/zeman-vratil-uder-take-schwarzenberg-hlasoval-pro-nepopularni-reformy-13x-/zpravy-domov.aspx?c=A130112_170149_ln_domov_spa|title=Zeman začal novou kampaň ostře: Schwarzenberg hlasoval pro vyšší DPH|date=12 January 2013|work=Lidové noviny|publisher=lidovky.cz|language=cs|access-date=22 January 2013}}</ref> In the first round, he received the majority of support by voters in [[Bohemia]]n regions and in some of the biggest Czech cities, such as [[Prague]], [[Brno]], and [[Plzeň]].
+
+Miloš Zeman, a former successful politician and [[Czech Social Democratic Party|Social Democratic]] prime minister, announced his comeback and the intention to run in the election in February 2012.<ref>{{cite web|url=http://aktualne.centrum.cz/domaci/politika/clanek.phtml?id=733055|title=Miloš Zeman: Sežeňte podpisy a pokusím se znovu o Hrad|date=14 February 2012|publisher=aktuálně.cz|language=cs|access-date=22 January 2013}}</ref> He narrowly won the first round, supported mainly by voters from industrial regions such as [[North Bohemia]] and [[Czech Silesia|Silesia]], and smaller towns and villages. He has been criticized for the opaque funding of his campaign; the media pointed to his special relationships with controversial business subjects and lobbyists, such as [[Miroslav Šlouf]] and the Russian oil company [[LUKoil]].<ref>{{cite web|url=http://zpravy.idnes.cz/zeman-a-jeho-vazby-na-sponzory-deq-/domaci.aspx?c=A120920_212842_domaci_brd|title= Kdo platí Zemanovu kampaň? Šloufovi kamarádi z byznysu|date=21 September 2012|work=[[Mladá fronta DNES]]|publisher=iDNES|access-date=22 January 2013}}</ref> Some of the issues associated with his previous political activities also reappeared in public. During the pre-election debates, Zeman had to face questions about connections between his former chief advisor Šlouf and the alleged mafia kingpin [[František Mrázek]] or about a discrediting campaign against his former colleague, Minister [[Petra Buzková]].
+
+On 22 January, the newspaper ''[[Mladá fronta DNES]]'' reported that the "massive negative campaign" of Miloš Zeman and his team won him popularity in the [[online media]], while Schwarzenberg's supporters have a majority on social sites, such as [[Facebook]].<ref>{{cite web|url=http://zpravy.idnes.cz/prezidenstke-volby-a-pruzkum-online-medii-a-socialnich-siti-plz-/domaci.aspx?c=A130121_171910_domaci_ert|title=Média ovládl Zeman s negativní kampaní, Facebook zase Schwarzenberg|date=22 January 2013|work=Mladá fronta DNES|publisher=iDNES|language=cs|access-date=22 January 2013}}</ref>
+
+During the election, the tensions and rivalries in the Czech society and media culminated to an unusual degree.<ref>{{cite web|url=http://www.lidovky.cz/novy-prezident-zeman-budu-prezidentem-dolnich-deseti-milionu-p6q-/zpravy-domov.aspx?c=A130126_162509_ln_domov_khu|title=Nový prezident Zeman: Budu prezidentem dolních deseti milionů|date=26 January 2013|work=Lidové noviny|publisher=lidovky.cz|access-date=27 January 2013}}</ref> Some of the commentators and politologists pointed to growing polarization of the society, which was also noted by some of the foreign media, such as ''[[The New York Times]]''.<ref>{{cite news|url=https://www.nytimes.com/2013/01/27/world/europe/former-prime-minister-is-elected-president-of-czech-republic.html|title=Former Prime Minister Is Elected President of Czech Republic|last=Bilefsky|first=Dan|date=26 January 2013|work=The New York Times|access-date=27 January 2013}}</ref>
+
+On 26 January, Miloš Zeman won the second round of the election. In his first post-election speech, he thanked his supporters and promised to be the president of all people. He also criticized the media that openly supported only one of the candidates.<ref>{{cite web|url=http://aktualne.centrum.cz/prezidentske-volby/clanek.phtml?id=769687|title=Zeman barvy nemění: Zapřel Šloufa a vynadal novinářům|last=Kudláčková|first=Lucie |date=26 January 2013|publisher=aktuálně.cz|language=cs|access-date=27 January 2013}}</ref> ''"Truth and love have finally prevailed over lies and hatred"'', stated the outgoing President Klaus, ironically paraphrasing the renowned Czech statesman (and political opponent) [[Václav Havel]].<ref>{{cite web|url=http://www.radio.cz/en/news|title=Outgoing president Klaus: truth and love prevailed in Miloš Zeman's election (News 27-01-2013)|last=Richter|first=Jan |date=27 January 2013|publisher=[[Czech Radio]]|access-date=27 January 2013}}</ref>
+
+The Austrian press ascribed Zeman's victory to a "dirty [[Anti-German sentiment|anti-German]] campaign."<ref>{{cite web|url=http://www.ceskenoviny.cz/news/zpravy/czechs-wasting-chance-to-change-policy-german-handelsblatt/894237|title=Czechs wasting chance to change policy – German Handelsblatt|date=27 January 2013|publisher=České noviny (ČTK)|access-date=30 January 2013}}</ref>
+
+[[Median (agency)|Median]] a Czech agency made a survey to find out what was the reason of the result. According to the survey Zeman was able to gain votes of left-wing supporters of other candidates namely [[Jan Fischer (politician)|Jan Fischer]] and [[Jiří Dienstbier Jr.]] Schwarzenberg on the other hand a little exhausted his electoral base in the first round and lost some supporters during a debate about [[Beneš decrees]] and his membership in [[Petr Nečas' Cabinet]]. According to the survey Zeman was an acceptable candidate for 46% of voters and Schwarzenberg for 35%. 71% of asked expected that the next president will influence the government and will support patriotism.<ref name=duvod>{{cite news|last1=Hyblerová|first1=Lucie|title=gentura uvedla důvod, proč Zeman vyhrál volby|url=http://zpravy.tiscali.cz/agentura-uvedla-duvod-proc-zeman-vyhral-volby-208351|access-date=12 August 2014|agency=Zpravy.tiscali.cz}}</ref>
+
+===Campaign Finance===
+{| class=wikitable style=text-align:right
+! Candidate
+! Raised
+! Money spent
+! Services cost
+! Debt
+! Total spent
+! Source
+|-
+|align=left|Karel Schwarzenberg || 36,449,000 CZK || 36,335,000 CZK || 11,778,000 CZK || 0 CZK || 48,113,000 CZK || <ref name="Závěrečná zpráva prezidentské volební kampaně předána Senátu  - Karel Schwarzenberg">{{cite web|title=Závěrečná zpráva prezidentské volební kampaně předána Senátu - Karel Schwarzenberg|url=http://www.volimkarla.cz/zaverecna-zprava-prezidentske-volebni-kampane-predana-senatu/|website=Karel Schwarzenberg|access-date=4 September 2017|language=cs|date=27 March 2013|archive-url=https://web.archive.org/web/20170904204434/http://www.volimkarla.cz/zaverecna-zprava-prezidentske-volebni-kampane-predana-senatu/|archive-date=4 September 2017|url-status=dead}}</ref>
+|-
+|align=left|Miloš Zeman || 25.500.000 CZK || 25.500.000 CZK || 11,700,000 CZK || 3,500,000 CZK || 37,200,000 CZK || <ref name="Zemanova prezidentská kampaň vyšla na 37 miliónů">{{cite web|title=Zemanova prezidentská kampaň vyšla na 37 miliónů|url=https://www.novinky.cz/domaci/297631-zemanova-prezidentska-kampan-vysla-na-37-milionu.html|website=Novinky.cz|access-date=4 September 2017|language=cs}}</ref>
+|-
+|align=left|Jan Fischer ||  ||  ||  || 8,180,000 CZK || 33,200,000 CZK || <ref>{{cite news|title=Vyúčtování kampaně už předložili všichni. Uhrazeno nemá Zeman a Fischer|url=http://www.denik.cz/z_domova/vyuctovani-kampane-predlozilo-vsech-devet-prezidentskych-adeptu-20130329.html|website=Deník.cz|access-date=19 May 2016|date=29 March 2013 |language=cs}}</ref><ref name="Kampaň stála uchazeče o Hrad skoro 90 milionů">{{cite web|title=Kampaň stála uchazeče o Hrad skoro 90 milionů|url=http://www.tyden.cz/rubriky/domaci/boj-o-hrad/kampan-stala-uchazece-o-hrad-skoro-90-milionu_257731.html|website=TÝDEN.cz|access-date=4 September 2017|date=10 January 2013 |language=cs}}</ref><ref name="Fischer nesplnil slib, za kampaň stále dluží 5 milionů">{{cite web|title=Fischer nesplnil slib, za kampaň stále dluží 5 milionů|url=https://zpravy.aktualne.cz/domaci/fischer-nesplnil-slib-za-kampan-stale-dluzi-5-milionu/r~i:article:778531/|website=Aktuálně.cz|access-date=4 September 2017|language=cs|date=2 May 2013}}</ref>
+|-
+|align=left|Jiří Dienstbier || 16,300,000 CZK || 15,400,000 CZK || 1,500,000 CZK || 0 CZK || 16,900,000 CZK || <ref name="Dienstbier uzavřel prezidentský účet: ČSSD vrátil 1,5 milionu">{{cite web|title=Dienstbier uzavřel prezidentský účet: ČSSD vrátil 1,5 milionu|url=http://www.parlamentnilisty.cz/arena/monitor/Dienstbier-uzavrel-prezidentsky-ucet-CSSD-vratil-1-5-milionu-267214|website=Parlamentní Listy|access-date=4 September 2017|language=cs}}</ref>
+|-
+|align=left|Přemysl Sobotka || 15,032,000 CZK ||  ||  || 0 CZK || 14,900,000 CZK || <ref name="Sobotka utratil za kampaň necelých 15 miliónů, na charitu zbyla tisícovka">{{cite web|title=Sobotka utratil za kampaň necelých 15 miliónů, na charitu zbyla tisícovka|url=https://www.novinky.cz/domaci/297204-sobotka-utratil-za-kampan-necelych-15-milionu-na-charitu-zbyla-tisicovka.html|website=Novinky.cz|date=26 March 2013 |access-date=4 September 2017|language=cs}}</ref>
+|-
+|align=left|Zuzana Roithová ||  ||  ||  ||  || 670,000 CZK || <ref name="Prezidentská kampaň: Přichází den zúčtování">{{cite web |title=Prezidentská kampaň: Přichází den zúčtování|url=http://www.ceskatelevize.cz/ct24/domaci/1109102-prezidentska-kampan-prichazi-den-zuctovani|website=ČT24|access-date=4 September 2017|language=cs}}</ref>
+|-
+|align=left|Vladimír Franz ||  ||  ||  || 0 CZK || 480,000 CZK || <ref name="Prezidentská kampaň: Přichází den zúčtování"/>
+|-
+|align=left|Jan Bobošíková || 156,000 CZK ||  ||  || 0 CZK || 152,000 CZK || <ref name="Suverenita: Kampaň Jany Bobošíkové stála jen 150 000">{{cite web|title=Suverenita: Kampaň Jany Bobošíkové stála jen 150 000|url=http://www.parlamentnilisty.cz/arena/politici-volicum/Suverenita-Kampan-Jany-Bobosikove-stala-jen-150-000-267330|website=Parlamentní Listy|access-date=4 September 2017|language=cs}}</ref>
+|-
+|align=left|Táňa Fischerová ||  ||  ||  ||  || 130,000 CZK || <ref name="Prezidentská kampaň: Přichází den zúčtování"/>
+|}
+
+==Debates==
+{{main|2013 Czech presidential election debates}}
+
+==Opinion polling==
+{{main|Opinion polling for the 2013 Czech presidential election}}
+
+==Results==
+
+There were 14,904 polling stations in the Czech Republic, and 102 abroad.<ref>{{cite web|url=http://www.ceskatelevize.cz/ct24/domaci/212400-prezidentsti-kandidati-odvolili-schwarzenberg-neplatne/|title=Prezidentští kandidáti odvolili, Schwarzenberg neplatně|date=25 January 2013|publisher=[[Czech Television]]|language=cs|access-date=25 January 2013}}</ref>
+
+During the second round, in the presence of journalists, Karel Schwarzenberg registered an invalid vote by forgetting to insert his paper into the required stamped envelope.<ref>{{cite web|last=Danda|first=Oldřich|title=Schwarzenberg hodil do urny lístek bez obálky, jeho hlas neplatí|url=http://www.novinky.cz/domaci/291338-schwarzenberg-hodil-do-urny-listek-bez-obalky-jeho-hlas-neplati.html|work=Novinky.cz|date=25 January 2013 |access-date=25 January 2013}}</ref>
+
+{{Election results
+|cand1=[[Miloš Zeman]]|party1=[[Party of Civic Rights|Party of Civic Rights – Zemanovci]]|votes1=1245848|votes1_2=2717405
+|cand2=[[Karel Schwarzenberg]]|party2=[[TOP 09]]|votes2=1204195|votes2_2=2241171
+|cand3=[[Jan Fischer (politician)|Jan Fischer]]|party3=[[Independent politician|Independent]]|votes3=841437
+|cand4=[[Jiří Dienstbier Jr.]]|party4=[[Czech Social Democratic Party]]|votes4=829297
+|cand5=[[Vladimír Franz]]|party5=[[Independent politician|Independent]]|votes5=351916
+|cand6=[[Zuzana Roithová]]|party6=[[KDU-ČSL]]|votes6=255045
+|cand7=[[Táňa Fischerová]]|party7=Key Movement|votes7=166211|color7=#c5d700
+|cand8=[[Přemysl Sobotka]]|party8=[[Civic Democratic Party (Czech Republic)|Civic Democratic Party]]|votes8=126846
+|cand9=[[Jana Bobošíková]]|party9=[[Czech Sovereignty of Social Democracy|Sovereignty]]|votes9=123171
+|invalid=24195|invalid2=24905
+|electorate=8435522|electorate2=8434648
+|source=[http://www.volby.cz/pls/prez2013/pe2?xjazyk=CZ Volby.cz]
+}}
+
+==See also==
+*[[President Wanted]] - a documentary about the election
+*[[2012 Civic Democratic Party presidential primaries]]
+*[[2012 Czech Social Democratic Party presidential primaries]]
+*[[Endorsements in the 2013 Czech presidential election]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+{{Miloš Zeman}}
+{{Candidates in the Czech presidential election, 2013}}
+{{czech elections}}
+{{Czech presidential elections}}
+
+[[Category:2013 Czech presidential election| ]]
+[[Category:2013 elections in the Czech Republic|Presidential election]]
+[[Category:January 2013 in Europe|Czech presidential election]]
+[[Category:Presidential elections in the Czech Republic]]

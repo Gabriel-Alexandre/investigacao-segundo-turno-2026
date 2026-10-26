@@ -1,0 +1,103 @@
+{{Short description|none}}
+{{Infobox election
+| country = Sierra Leone
+| previous_election = 1996 Sierra Leonean general election
+| previous_year = 1996
+| next_election = 2007 Sierra Leonean general election
+| next_year = 2007
+| election_date = 14 May 2002 
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+
+| image1 = Ahmad_Tejan_Kabbah_2002.jpg
+| nominee1 = '''[[Ahmed Tejan Kabbah]]'''
+| party1 = Sierra Leone People's Party
+| popular_vote1 = '''1,336,423'''
+| percentage1 = '''70.06%'''
+
+| image2 = Ernest Bai Koroma February 2015.jpg
+| nominee2 = [[Ernest Bai Koroma]]
+| party2 = All People's Congress
+| popular_vote2 = 426,405
+| percentage2 = 22.35%
+
+| title = [[President of Sierra Leone|President]]
+| before_election=[[Ahmad Tejan Kabbah]] 
+| before_party=Sierra Leone People's Party
+| after_election=[[Ahmed Tejan Kabbah]] 
+| after_party=Sierra Leone People's Party
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| seats_for_election = 112 of 124 seats in Parliament
+
+| party1 = Sierra Leone People's Party | leader1 = [[Ahmed Tejan Kabbah]]  | percentage1 = 67.67| seats1 = 83 | last_election1 = 27
+| party2 = All People's Congress | leader2 = [[Ernest Bai Koroma]] | percentage2 = 21.41 | seats2 = 27 | last_election2 = 5
+| party3 = [[Peace and Liberation Party|PLP]] | leader3 = [[Johnny Paul Koroma]] | percentage3 = 3.65 | seats3 = 2| last_election3 = new
+
+| map = 2002 Sierra Leonean parliamentary election - Results by constituency.svg
+| map_caption = Results by constituency
+
+}}}}}}{{Politics of Sierra Leone}}
+
+General elections were held in [[Sierra Leone]] on 14 May 2002 to elect a president and parliament. Incumbent President [[Ahmed Tejan Kabbah]] of the [[Sierra Leone People's Party]] (SLPP) was re-elected with more than 70% of the votes in the first round, meaning that a second round of voting was not required. In the parliamentary elections, the SLPP received almost 70% of the vote, winning 83 of the 112 seats. The [[All People's Congress]] became the main opposition party, replacing the [[United National People's Party]].
+
+The [[United Nations Mission in Sierra Leone]] was authorised, under [[United Nations Security Council Resolution 1389|Security Council Resolution 1389]] (2002), to assist in the electoral process.
+
+==Campaign==
+A total of 1,351 candidates contested the parliamentary elections, representing ten parties.<ref>[https://aceproject.org/ero-en/regions/africa/SL/sierra-leone-final-report-presidential-and-2/at_download/file Sierra Leone Presidential And Parliamentary Elections 14 May 2002: European Union Election Obervation &#91;sic&#93; Mission Final Report] European Union</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Ahmad Tejan Kabbah]]|party1=[[Sierra Leone People's Party]]|votes1=1336423
+|cand2=[[Ernest Bai Koroma]]|party2=[[All People's Congress]]|votes2=426405
+|cand3=[[Johnny Paul Koroma]]|party3=[[Peace and Liberation Party]]|votes3=57233
+|cand4=[[Alimamy Pallo Bangura]]|party4=[[Revolutionary United Front]]|votes4=33074
+|cand5=[[John Karefa-Smart]]|party5=[[United National People's Party]]|votes5=19847
+|cand6=Raymond Kamara|party6=Grand Alliance Party|votes6=11181
+|cand7=[[Zainab Bangura]]|party7=Movement for Progress|votes7=10406
+|cand8=Raymond Bamidele Thompson|party8=Citizens United for Peace and Progress|votes8=9028
+|cand9=[[Andrew Turay]]|party9=[[Young People's Party (Sierra Leone)|Young People's Party]]|votes9=3859
+|invalid=
+|electorate=2309338
+|source=[https://www.jstor.org/stable/pdf/3876118.pdf Kandeh]
+}}
+
+===Parliament===
+{{Election results
+|party1=[[Sierra Leone People's Party]]|votes1=1293401|seats1=83|sc1=+56
+|party2=[[All People's Congress]]|votes2=409313|seats2=27|sc2=+22
+|party3=[[Peace and Liberation Party]]|votes3=69765|seats3=2|sc3=New
+|party4=[[Revolutionary United Front]]|votes4=41997|seats4=0|sc4=New
+|party5=Grand Alliance Party|votes5=25436|seats5=0|sc5=New
+|party6=[[United National People's Party]]|votes6=24907|seats6=0|sc6=–17
+|party7=[[People's Democratic Party (Sierra Leone)|People's Democratic Party]]|votes7=19941|seats7=0|sc7=–12
+|party8=Movement for Progress|votes8=15036|seats8=0|sc8=New
+|party9=[[National Democratic Alliance (Sierra Leone)|National Democratic Alliance]]|votes9=6467|seats9=0|sc9=0
+|party10=[[Young People's Party (Sierra Leone)|Young People's Party]]|votes10=5083|seats10=0|sc10=New
+|row11=Paramount Chiefs|seats11=12|sc11=0
+|invalid=
+|total_sc=+44
+|electorate=2309338
+|source=[https://www.jstor.org/stable/pdf/3876118.pdf Kandeh]
+}}
+
+==References==
+{{reflist}}
+
+{{Sierra Leonean elections}}
+
+[[Category:2002 elections in Africa|Sierra Leone]]
+[[Category:Elections in Sierra Leone]]
+[[Category:2002 in Sierra Leone|Election]]
+[[Category:Presidential elections in Sierra Leone]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:May 2002 in Africa|Sierra]]
+
+{{SierraLeone-stub}}
+{{Africa-election-stub}}

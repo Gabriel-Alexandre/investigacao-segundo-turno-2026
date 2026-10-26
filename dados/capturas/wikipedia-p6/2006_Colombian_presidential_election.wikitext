@@ -1,0 +1,862 @@
+{{short description|none}}
+{{Use dmy dates|date=October 2021}}
+{{Infobox election
+| country = Colombia
+| type = presidential
+| party_colour = yes
+| previous_election = 2002 Colombian presidential election
+| previous_year = 2002
+| next_election = 2010 Colombian presidential election
+| next_year = 2010
+| election_date = 28 May 2006
+| turnout = 45.05% ({{decrease}} 1.42pp)
+| image_size = 130x130px
+| image1 = Álvaro Uribe (cropped).jpg
+| nominee1 = '''[[Álvaro Uribe]]'''
+| party1 = Colombia First
+| running_mate1 = '''[[Francisco Santos Calderón]]'''
+| popular_vote1 = '''7,397,835'''
+| percentage1 = '''62.35%'''
+| image2 = Carlos Gaviria Diaz (cropped).jpg
+| nominee2 = [[Carlos Gaviria Díaz]]
+| party2 = Alternative Democratic Pole
+| running_mate2 = [[Patricia Lara Salive]]
+| popular_vote2 = 2,613,157
+| percentage2 = 22.03%
+| image3 = Horacio Serpa campaigning in 2006.png
+| nominee3 = [[Horacio Serpa]]
+| party3 = Colombian Liberal Party
+| running_mate3 = José Gregorio Hernández Galindo
+| popular_vote3 = 1,404,235	
+| percentage3 = 11.84%
+| map_image = 2006 Colombian Presidential Election Results.svg
+| map_caption = Results by municipality
+| title = President
+| before_election = [[Álvaro Uribe]]
+| before_party = Colombia First
+| after_election = [[Álvaro Uribe]]
+| after_party = Colombia First
+}}{{Politics of Colombia}}
+
+Presidential elections were held in [[Colombia]] on 28 May 2006. [[Álvaro Uribe]] was re-elected as [[President of Colombia|President]] for another four-year term, starting on 7 August 2006. Uribe obtained 62.35% of the vote, surpassing the 50% needed to avoid a runoff against the second-placed candidate.
+
+Following a constitutional amendment enacted by the government, this was the first occasion in over 100 years that a Colombian president was eligible for immediate re-election.
+
+== Background ==
+{{See also|Elections in Colombia}}
+
+=== Presidential Elections ===
+Traditionally, Colombian politics have been dominated by two major political parties: the [[Colombian Conservative Party]] and the [[Colombian Liberal Party]].  However, 2002 presidential candidate [[Álvaro Uribe]] broke with precedent by splintering from the Liberal Party and campaigning as an independent under the unrecognized party, [[Colombia First]].  Due in part to declining public support for dialogue with [[FARC]] following president [[Andrés Pastrana Arango]]'s [[1999–2002 FARC–Government peace process|failed ceasefire agreement]], Uribe gained an edge over his liberal opponent, [[Horacio Serpa]].<ref>{{Cite journal|last=Carbó|first=Eduardo Posada|date=2006-10-31|title=Colombia Hews to the Path of Change|url=https://muse.jhu.edu/article/205434|journal=Journal of Democracy|volume=17|issue=4|pages=80–94|doi=10.1353/jod.2006.0067|s2cid=201755839|issn=1086-3214|url-access=subscription}}</ref>
+
+Colombia is a [[presidential republic]] wherein a president is elected by [[Majority rule|absolute majority vote]] in one or two rounds.<ref>{{Cite web|url=https://www.cia.gov/the-world-factbook/countries/colombia/|archive-url=https://web.archive.org/web/20210111023539/https://www.cia.gov/the-world-factbook/countries/colombia|url-status=dead|archive-date=11 January 2021|title=The World Factbook — Central Intelligence Agency|website=www.cia.gov|language=en|access-date=2017-04-02}}</ref>  Although the [[government of Colombia]] is [[Separation of powers|separated]] into [[Legislative Branch of Colombia|legislative]], [[Judiciary of Colombia|judicial]], and [[Executive Branch of Colombia|executive]] branches, the [[President of Colombia]] serves as both the nation's [[head of state]] and [[head of government]] (as per the American model).  Before 2005 and after a congressional vote in 2015, the president is prohibited from seeking reelection; however, a constitutional reform backed by incumbent president Álvaro Uribe suspended the term limit, allowing him to run for reelection in 2006.<ref>{{Cite news|url=http://www.buenosairesherald.com/article/190883/colombia-limits-presidents-to-single-term|title=Colombia limits presidents to single term|access-date=2017-04-02}}</ref>
+
+=== Paramilitary Violence and Government Collusion ===
+{{See also|Colombian parapolitics scandal}}
+
+Uribe's 2002 inauguration coincided with a fatal missile attack by FARC on the [[Casa de Nariño]] and surrounding [[Bogotá]], leaving 13 dead.<ref>{{Cite news|url=http://www.cbsnews.com/news/14-dead-at-colombian-inauguration/|title=14 Dead At Colombian Inauguration|access-date=2017-04-08|language=en}}</ref>  The president used the [[Terrorism|attack]] as pretext to enact a [[state of emergency]], expanding the power of the [[military]] and establishing "special combat zones" around the country.  Aside from colluding with [[Right-wing paramilitarism in Colombia|right-wing paramilitary]] groups and receiving military assistance [[Plan Colombia|from the United States]], Uribe restricted the freedom of the foreign press; in 2004, the [[Committee to Protect Journalists]] ranked Colombia as the second most dangerous country for the media in the world (after Algeria).<ref>{{Cite web|url=https://freedomhouse.org/report/freedom-world/2004/colombia|title=Colombia {{!}} Country report {{!}} Freedom in the World {{!}} 2004|website=freedomhouse.org|language=en|access-date=2017-04-08|archive-date=9 April 2017|archive-url=https://web.archive.org/web/20170409111317/https://freedomhouse.org/report/freedom-world/2004/colombia|url-status=dead}}</ref>
+
+Starting in 2003, Uribe began extending offers of amnesty to members of the paramilitary coalition [[United Self-Defense Forces of Colombia|UAC]] in an effort to demobilize the group.  His offer of short-term prison sentences for [[human rights]] [[War crime|violators]] earned rebukes from both the [[Office of the United Nations High Commissioner for Human Rights]] and [[Inter-American Commission on Human Rights]].<ref>{{Cite web|url=https://www.amnesty.org/en/documents/amr23/033/2006/en/|title=Colombia Fear and Intimidation: The dangers of human rights work|date=September 6, 2006|website=www.amnesty.org|language=en|access-date=2017-04-08}}</ref>  This effort for demobilization have been widely considered a failure.  Despite the dissolution of the UAC, the emergence of new right wing paramilitary groups, known collectively as [[The Black Eagles]], has resulted in the continuation of atrocities against [[civilian]]s and human rights workers (including [[torture]], [[rape]], [[extortion]], and [[murder]]) in what has been described as a recycling of paramilitarism.<ref>{{Cite news|url=https://www.hrw.org/report/2010/02/03/paramilitaries-heirs/new-face-violence-colombia|title=Paramilitaries' Heirs|date=2010-02-03|work=Human Rights Watch|access-date=2017-04-08|language=en}}</ref>
+
+Cooperation between the Government of Colombia, the [[CIA transnational human rights actions|United States]], and anti leftist paramilitaries had been occurring since 1962, primarily to combat FARC and the [[National Liberation Army (Colombia)|National Liberation Army]] (see [[Plan LAZO]], [[Alianza Americana Anticomunista]], [[Peasant Self-Defenders of Córdoba and Urabá]], [[Los Pepes]], and [[CONVIVIR]]).<ref>{{Cite web|url=https://www.hrw.org/reports/1996/killer2.htm|title=Colombia's Killer Networks: The Military - Paramilitary Partnership and the United States|website=www.hrw.org|access-date=2017-04-08}}</ref>  In many cases, these connections directly linked government officials to extreme paramilitary violence; in the 1997 [[Mapiripán Massacre]] dozens of civilians were mutilated by UAC paramilitaries with the cooperation of the [[National Army of Colombia]] through [[Omission (law)|omission]] (specifically under the orders of U.S. trained Colonel Lino Sánchez).<ref>{{Cite book|url=https://books.google.com/books?id=KW6xwyWnWnsC&q=Lino+S%C3%A1nchez+mapiripan&pg=PA252|title=More Terrible Than Death: Drugs, Violence, and America's War in Colombia|last=Kirk|first=Robin|date=2009-03-25|publisher=PublicAffairs|isbn=9780786740598|language=en}}</ref><ref>{{Cite web|url=https://nsarchive.wordpress.com/2012/07/13/document-friday-the-mapiripan-massacre-cover-up/|title=Document Friday: The Mapiripán Massacre "Cover-up"|last=Evans|first=Michael|date=2012-07-13|website=UNREDACTED|access-date=2017-04-08}}</ref>  The military was also implicated in participating in and assisting paramilitaries in the 2001 Alto Naya massacre and the 2003 Betoyes Massacre, in the latter instance disguising themselves as members of the UAC.<ref>{{Cite web|url=https://www.hrw.org/reports/2001/colombia/2.3.htm|title=THE "SIXTH DIVISION": Military-paramilitary Ties and U.S. Policy in Colombia (Human Rights Watch Report, October 2001)|website=www.hrw.org|access-date=2017-04-08}}</ref><ref>{{Cite web|url=http://www.ericfichtl.org/index.php/texts/article/massacre_at_betoyes|title=ericfichtl.org|website=www.ericfichtl.org|access-date=2017-04-08|archive-date=9 April 2017|archive-url=https://web.archive.org/web/20170409111332/http://www.ericfichtl.org/index.php/texts/article/massacre_at_betoyes|url-status=dead}}</ref>
+
+==== Colombia Parapolitics Scandal ====
+On November 9, 2006, the [[Supreme Court of Justice of Colombia]] ordered the arrest of three congressmen accused of collaborating with the UAC, with dozens more to follow (including many of Uribe's allies and his cousin [[Mario Uribe Escobar]]).<ref name=":13"/>  To date, 37 lawmakers and 5 governors have been arrested in connection to the [[Colombian parapolitics scandal]] (dubbed "parauribismo" by [[Jorge Enrique Robledo]] of the [[Alternative Democratic Pole]] in reference to the connection between parapolismo and supporters of Uribe).<ref>{{Cite web|url=http://www.eltiempo.com/archivo/documento/CMS-3455840|title='Parapolítica' generó enfrentamiento entre congresistas y ministros|last=Tiempo|first=Casa Editorial El|website=El Tiempo|date=27 February 2007 |language=es-CO|access-date=2017-04-08}}</ref>
+
+==== Plan Colombia ====
+{{Main|Plan Colombia}}
+The original Plan Colombia was proposed by president [[Andrés Pastrana Arango]] in 1999 as a "[[Marshall Plan]] for Colombia", suggesting increased developmental investment by developed countries to offer peasants an alternative means of income to coca planting.  Rather than fumigation or increased military aid, Pastrana proposed the manual eradication of crops as more effective.<ref>{{Cite book|title=La Palabra Bajo Fuego|last=Pastrana Arango|first=Andres|publisher=Planeta|year=2006|isbn=9584213199}}</ref>  U.S. president [[Bill Clinton]] offered to financially support the plan, the result of which was the plan's total revision by the United States.  The final version of the plan was written entirely in English (not to be translated into Spanish until months after it had taken effect).
+
+=== Corruption and Freedom ===
+In 2006, [[Freedom House]] upgraded Colombia's political rights and civil liberties ratings from 4 to 3, due to improving [[citizen security]], increasing [[freedom of the press]], and declining perceptions of [[Political corruption|government corruption]].  Despite this, the rise of press lawsuits as an alternative form of intimidation has been cited as a threat to free journalism in the country.<ref name=":7">{{Cite web|url=https://freedomhouse.org/report/freedom-world/2006/colombia|title=Colombia {{!}} Country report {{!}} Freedom in the World {{!}} 2006|website=freedomhouse.org|language=en|access-date=2017-04-02|archive-date=30 March 2017|archive-url=https://web.archive.org/web/20170330180252/https://freedomhouse.org/report/freedom-world/2006/colombia|url-status=dead}}</ref>
+
+== Candidates ==
+
+=== Álvaro Uribe Vélez (Incumbent) ===
+[[Álvaro Uribe]] was notable for his hardline stance against leftist insurgent groups, initially advocating against any concessions and negotiations with groups such as FARC, and for greater military action, and economic and infrastructure development. His actions successfully weakened and fought back the leftist rebel groups, decreasing their territory and scope of control as well as removing their ability to govern great areas of land and even some urban areas. He controversially had negotiated agreements and passed laws granting amnesty to demobilized paramilitary groups, and was referred to by some opponents as "authoritarian." However, his ability to improve the security and economic situation of the country made him overall popular.
+
+==== Political Career and Allegations ====
+Having earned a law degree from [[University of Antioquia|Universidad de Antioquia]] and a postgraduate degree in Management and Administration from Harvard university, Uribe became a civil servant by the age of 24. He was appointed Secretary General of the Labor Ministry by 1977–8. Afterwards Uribe lead the Civil Aviation Ministry from 1980 to 1982, and was elected to be the mayor and later a city council member of Medellin from 1982 to 1986. He was elected Senator from 1986 to 1990, under which he won the Star Senator, Senator with the Best Programs and Best Senator awards.
+
+From 1995 to 1997 Uribe was elected governor of [[Antioquia Department|Antioquia]]. During his tenure, he developed a method of civil participation called the Community State. His actions led to around a third of government jobs and official vehicle use to be cut, the funding allocated instead to educating 103,000 new students. Uribe's decisions lead to 939&nbsp;km of new roads to be paved, as well as existing highways to be repaired. Kidnappings dropped 60% under his tenure. From 1998 to 1999, Uribe was an associate professor at Oxford University.<ref>{{Cite web|url=http://www.whartonbogota09.com/bio-uribe.html|title=Biography of Álvaro Uribe Vélez|website=www.whartonbogota09.com|language=en|access-date=2017-03-30}}</ref> Up until this point, Uribe ran and served as elected officials under the [[Colombian Liberal Party|Liberal Party]].<ref name=":0">{{Cite news|url=http://lasillavacia.com/quienesquien/perfilquien/alvaro-uribe-velez|title=Álvaro Uribe Vélez|work=La Silla Vacía|access-date=2017-03-30|language=es}}</ref>
+
+The books ''The Lord of Shadows'' by Newsweek journalist, Joseph Contreras, and ''The Horsemen of Cocaine'', by Fernando Garavito and Fabio Castillo, accuse Uribe of having granted known drug traffickers licences to fly when working in the Civil Aviation Ministry. The United States State Department in a 1991 report referred to Uribe as "Pablo Escobar's close friend" as well as linked Uribe's father, Alberto Uribe to drug trafficking groups and paramilitaries. Alberto, Álvero's father was a known friend of Pablo Escobar and mafia boss Fabio Ochoa. In 1983, Alberto was assassinated by [[FARC]] rebels at his estate, after which Alvaro sold off the property and dedicated himself to politics.<ref name=":1">{{Cite web|url=http://www.biografiasyvidas.com/biografia/u/uribe_alvaro.htm|title=Biografia de Álvaro Uribe|website=www.biografiasyvidas.com|language=es|access-date=2017-03-30}}</ref> However, [[Mary Beth Long]], Deputy Assistant Secretary of Defense for Counternarcotics, in a 2004 opinion letter to the New York Times claimed that allegations of links between Alvaro and the Medellin drug cartel or Pablo Escobar from 1991 were never substantiated.<ref name=":6">{{Cite news|url=https://www.nytimes.com/2004/08/10/opinion/l-colombian-s-drug-efforts-579823.html|title=Colombian's Drug Efforts|last=Long|first=Mary Beth|date=2004-08-10|work=The New York Times|access-date=2017-03-30|issn=0362-4331}}</ref>
+
+As governor of Antioquia, Uribe held known contacts with the paramilitary group the [[United Self-Defense Forces of Colombia]] (AUC), the goal of which was fighting leftist insurgents. His Community State plan involved arming and involving civilians in efforts against rebel groups, a strategy largely credited with drastically reducing kidnapping rates. At the same time, the national program [[CONVIVIR]], which Uribe supported and enacted in his state, gained controversy for creating anti-insurgency defense forces from known past paramilitaries who had committed atrocities against civilians.<ref name=":1" /> Several groups under [[CONVIVIR]] would become illegal paramilitary "self-defense" forces.<ref name=":0" />
+[[File:George Bush and Alvaro Uribe Velez.jpg|thumb|Uribe campaigned in support for a free trade agreement with the United States as well as for working with the United States to defeat insurgents and paramilitary groups and stop the production of cocaine. Opponents criticized too much reliance on the United States.  This photo was taken two years after the election.]]
+
+==== First Term As President ====
+Uribe was elected the presidency on the first round in 2002, the first presidential candidate in Colombia's history to do so. Uribe campaigned on a platform of providing no concessions to insurgents and heavier use of military force. He ran as an independent, separating himself from the Liberal Party due to their support for peace negotiations with FARC.<ref name=":0" /><ref name=":1" /><ref name=":2">{{Cite web|url=https://freedomhouse.org/report/freedom-world/2006/colombia|title=Colombia {{!}} Country report {{!}} Freedom in the World {{!}} 2006|website=freedomhouse.org|language=en|access-date=2017-03-30|archive-date=30 March 2017|archive-url=https://web.archive.org/web/20170330180252/https://freedomhouse.org/report/freedom-world/2006/colombia|url-status=dead}}</ref> This was a turn away from his predecessor's (Andres Pastrana) strategy, which had negotiated a peace deal that had allowed for a demilitarized zone the leftist FARC rebels had used for hiding hostages, drug trafficking and planning military campaigns in the rest of the country.<ref name=":2" />
+
+Immediately upon becoming president Uribe decreed a state of emergency, allowing him to restrict the foreign press and issued special decrees, as well as granting the military license to restrict civilian movement and conduct searches without warrant in 27 districts called "special combat zones." The Constitutional Court would judge these actions to be unconstitutional the next year.<ref name=":2" /> Also upon inauguration, Uribe and the AUC (the right wing paramilitary group) declared an indefinite truce conditioned on 10,000 troops being demobilized and 1,500 members weapons being handed over.<ref name=":1" />
+
+In 2003, Uribe granted amnesty to paramilitaries that laid down their weapons, meaning those guilty of atrocities would be allowed lessened jail times or payment of reparations instead of imprisonment, provoking 850 members of a right wing paramilitary group responsible for bloody massacres lay down their arms. A public referendum voted against Uribe's plan to freeze government spending to pay for the anti-guerrilla, anti-corruption, and government efficiency efforts, but the referendum held to allow this votes against his attempts.<ref name=":2" />
+
+In 2004, Uribe announced a $7 billion—dollar initiative called "Phase II" aimed at fighting crime, insurgents and paramilitary groups as well as strengthening institutions, invigorating the economy, and building infrastructure. Retreating from his hardline stance against right-wing paramilitaries by attempting, Uribe attempted to integrate the AUC into the political system, even after revelations of paramilitary infiltration into the government surface. At this point, 3000 paramilitary troops are demobilized, but the United States, opposition leaders, and Human Rights groups, such as Amnesty International, criticize Uribe's bargaining strategy and amnesty.<ref name=":2" /> Critics also condemn the growing deficit due to the intensified military actions as well as the power of the paramilitary groups in the country. In December, the House of Representatives passed a constitutional reform allowing for presidents to be reelected.<ref name=":1" />
+
+Running up to the election, due to increased human rights efforts, the military received the highest approval ratings in the country. By this point, [[National Liberation Army (Colombia)|the National Liberation Army (ELN)]], a leftist insurgent group, was almost entirely defeated,<ref name=":0" /> the FARC was weakened and limited to smaller territory outside of urban areas. The economy was growing<ref name=":1" /><ref name=":2" /> and drug crop cultivation was dropping.<ref name=":2" /> However, the [[Justice and Peace Law of Colombia|Justice and Peace Law]], aimed at demobilization and peace, sparked great controversy. Opponents criticized that the law did not require past militants confess and cooperate with authorities, authorities were not given enough time to investigate crimes, and that paramilitary groups would not be fully dismantled.<ref name=":2" /> Furthermore, the "Democratic Security" strategy had involved the military engaging in controversial strategies, such as mass-capturing individuals in territories run by militias.<ref name=":0" /> Nonetheless, Uribe finished his first term with around 70% approval rating.<ref name=":0" />
+
+==== Positions ====
+Uribe supported the [[United States–Colombia Free Trade Agreement|Free Trade Agreement]] (FTA) with the United States, and wanted to create more such agreements with the European Union and Central America as well as attract more direct investment from the rest of the world. He supported further expanding state control to increase national security, trust in the police, and prosecution of crimes. He wished to subsidize and allocate land to those displaced by conflict. Despite not supporting gay marriage, he supported their right to social security benefits and inheritance.<ref name=":5">{{Cite web|url=http://www.europarl.europa.eu/intcoop/election_observation/missions/2004-2009/20060528_columbia.pdf|title=DELEGATION TO OBSERVE THE ELECTIONS IN COLOMBIA ON 28 MAY 2006|last=Martín|first=Fernández|date=May 2006|website=European Parliament Website}}</ref>
+
+Uribe was a lifelong member of the Liberal Party—even participating in the Liberal Youth and the Liberal militants before his political career began—until 2002 election when he split from the party due to its support of peace talks with the FARC. In this election, Uribe had the support of the [[Colombian Conservative Party|Conservative Party]] (which had supported him and not run its own candidate in 2002 as well). The parties [[Radical Change]], Team Wings Colombia, [[Citizens' Convergence|Citizen Convergence]], [[Democratic Colombia Party|Democratic Colombia]] and [[Living Colombia Movement|Colombia Viva]] also supported Uribe.<ref name=":0" />
+
+=== Carlos Gaviria Díaz ===
+[[File:CarlosGaviria.jpg|thumb|Carlos Gaviria]]
+
+==== Political Career and Philosophy ====
+[[Carlos Gaviria Díaz]] was a Harvard educated lawyer and professor of 30 years from University of Antioquia, where he earned his doctorate, a senator from 2002 to 2006 and the first president of the [[Constitutional Court of Colombia|Constitutional Court]].
+
+Gaviria started his career in 1961 as a judge and professor, focusing on human rights. In 1980, he was the vice-president of the Regional Committee for the Defense of Human Rights in Antioquia. In 1989, Gaviria returned from a two-year exile in Argentina caused by the assassination of human rights advocates on his committee. He served a magistrate of the Constitutional Court in 1993, becoming president of the court in 1996, where he distinguished himself for his focus on human rights.  His judicial decisions helped to decriminalize individuals possessing drugs up to a single dosage. When his term ended in 2001, he joined the [[Social and Political Front]] (a group of parties including the Communist Party, Trade Unionists and the Patriotic Union), of which he was elected as the sole senator by proportional representation rules. As a senator he opposed Uribe's attempts to allow for re-election. Eventually he helped create the [[Alternative Democratic Pole]], which successfully joined many of the leftist and liberal parties under one group.<ref>{{Cite news|url=http://lasillavacia.com/quienesquien/perfilquien/carlos-gaviria-diaz|title=Carlos Gaviria Díaz|work=La Silla Vacía|access-date=2017-04-02|language=es}}</ref>
+
+Gaviria's political philosophy centered on the autonomy, dignity, and individual freedoms of citizens, so long as one's choiced did not interfere with others’. A consequence of this philosophy was the belief that poverty and lack of public debate prevented individuals from truly being able to govern their lives and prevented Colombia from being a true democracy.<ref>{{Cite news|url=http://lasillavacia.com/historia/carlos-gaviria-simbolo-de-la-corte-que-hoy-esta-en-peligro-49846|title=Carlos Gaviria: símbolo de la Corte que hoy está en peligro|work=La Silla Vacía|access-date=2017-04-02|language=es}}</ref>
+
+==== Campaigning and Positions ====
+As senator and throughout the campaign, Gaviria promoted redistribution policies that lead to more material equality, and fairer treatment of marginalized groups such as LGBT, indigenous, female, and Afro-Colombians. He advocated for peace initiatives that worked through strengthening employment, cultural development, and education as well as through negotiated peace talks with rebel groups. In congress he fought president Uribe on tax reform, re-election, and policies seen as redistributive to the rich.<ref>{{Cite web|url=http://www.colombia.com/noticias/autonoticias/2006/DetalleNoticia26773.asp|title=Elecciones 2006|website=www.colombia.com|access-date=2017-04-02}}</ref>
+
+Several controversies arose between Gaviria and Uribe during the campaign. First is the release of a report that Gaviria had the largest pension of any government official. Many facts underlying in this claim were proven to be incorrect, mainly that Gaviria did not receive a pension being an acting senator, that the program alleged to give him this pension was also not the pension program he would be under as a former magistrate and that the peso amount his pension would be does not align with the claim from the report. Gaviria and the Alternative Democratic Pole accused Uribe of releasing false and purposefully malicious information to attack him, calling the allegations "actions of a dirty war" by Uribe's campaign.<ref>{{Cite web|url=http://www.polodemocratico.net/Deplorable-actitud-de-la-campana|title=Deplorable actitud de la campaña de Álvaro Uribe contra Carlos Gaviria {{!}} Comunicados {{!}} Polo Democrático Alternativo|date=2009-06-25|access-date=2017-04-02|url-status=bot: unknown|archive-url=https://web.archive.org/web/20090625110346/http://www.polodemocratico.net/Deplorable-actitud-de-la-campana|archive-date=2009-06-25}}</ref> Later, Uribe called Gaviria a "communist in disguise"<ref name=":3">{{Cite web|url=http://carlosgaviria2006.org/cgd/node/427|title=Mensaje de diferentes intelectuales de EE. UU. condenando la falta de garantías en las elecciones presidenciales de Colombia {{!}} ..::: Carlos Gaviria Presidente :::...|date=2010-01-07|access-date=2017-04-02|url-status=bot: unknown|archive-url=https://web.archive.org/web/20100107183818/http://carlosgaviria2006.org/cgd/node/427|archive-date=2010-01-07}}</ref>  who will hand Colombia to the FARC, leading Gaviria to denounce these words and strategy of campaigning. Gaviria unapologetically called himself a pure liberal and claimed he will not change his positions of negotiating peace with the FARC as well as decriminalizing abortion, gay marriage, and possession of a personal dose of drugs.<ref>{{Cite web|url=http://www.polodemocratico.net/No-voy-a-cambiar-mis-posiciones|title="No voy a cambiar mis posiciones frente a la dosis mínima, el aborto y la unión de homosexuales" {{!}} Comunicados {{!}} Polo Democrático Alternativo|date=2008-02-27|access-date=2017-04-02|url-status=bot: unknown|archive-url=https://web.archive.org/web/20080227155015/http://www.polodemocratico.net/No-voy-a-cambiar-mis-posiciones|archive-date=2008-02-27}}</ref> Amid these controversies, American academics, journalists and foreign policy experts, including [[Noam Chomsky]] signed a letter to president Uribe asking him to denounce the AUC's assassination threats to Gaviria as well as apologize for calling Gaviria a communist in disguise, claiming that the Colombian government was failing to provide necessary guarantees (such as safety) to candidates.<ref name=":3" />
+
+He campaigned on the jointed issues in the slogan "Construyamos democracia, no más desigualdad" (''"Let's build democracy, no more inequality"'') His emphasis on peace meant not only an end to the civil conflicts but further than that the development of an economy, culture, and societal structure that fully allowed for lasting peace and democracy. Not supporting the FTA because he claimed it benefits United States interests over Colombia (for example by allowing US subsidies of agricultural products) and hurt the Colombian education and health sectors of the economy, Gaviria instead focused his economic ideas on developing national industry by supporting Small and Medium Sized Enterprises (SMEs), cooperatives and community groups, and developing the internal market.<ref name=":5" />
+
+=== Horacio Serpa Uribe ===
+==== Political career ====
+[[Horacio Serpa|Horacio Serpa Uribe]] was elected to the House in 1974 as a Liberal, having been in many judicial and local political positions since 1966. As a congressman, he co-founded the Autonomous Liberal Left Front (FILA) and became the top party authority in the [[Magdalena Medio Antioquia|Magdalena Medio]] region. As a representative he served as the president of the Commission of Accusations.<ref name=":4">{{Cite news|url=http://lasillavacia.com/quienesquien/perfilquien/horacio-serpa-uribe|title=Horacio Serpa Uribe|work=La Silla Vacía|access-date=2017-04-02|language=es}}</ref>
+
+Elected to Senate in 1986 also under the Liberal Party. From 1988 to 1996, he was appointed to positions Procurator and Minister of Government under president [[Virgilio Barco Vargas|Virgilio Barco]], co-president of the National Constituent Assembly, peace negotiator in eventually failed talks with the EPL, and co-president of the National Constituent Assembly under president [[César Gaviria]], as well as Minister of Government under president [[Ernesto Samper]]. In this last position, he transformed the Ministry of Government into the Ministry of the Interior. He had served on both Barco and Samper's campaigns. Sometimes between these positions he would be elected and serve as senator. In the "[[Proceso 8000|Process 8,000]]" scandal in which it was revealed Samper's allies paid money to the [[Cali Cartel]] to support his election, Serpa was one of Samper's staunchest defender, claiming the president had no knowledge of the incidents. He convinced the senate not to indict Samper, and was not indicted for any crimes himself.<ref name=":4" />
+
+In 1998, he ran for president and won the Liberal Party's nomination. Despite a movement of academics and journalists against him, he won the first round, though lost the second to conservative [[Andrés Pastrana Arango|Andres Pastrana]], a candidate many in the liberal party supported to distance themselves from the previous scandal. In 2002, he ran for president again and despite leading in the polls, he lost when Uribe won in the first round. Uribe named him ambassador to the [[Organization of American States|OAS]], which he served as from 2002 to 2004. In 2005, he became the Vice President of the Socialist International. In 2005, he attempted to unify the Liberal Party against allowing re-election by supporting Cesar Gaviria as director of the party, and he once again was nominated by the party as the Liberal presidential candidate.<ref name=":4" />
+
+==== Positions ====
+Serpa did not support the FTA, as well as made clear his support of minority rights. He committed to creating a humanitarian agreement with rebels to reunite families and communities, as well as did not support Uribe's extradition of rebels and paramilitary officers in the middle negotiating with the government. He claimed that the figures stating the number of reintegrated paramilitary officers are exaggerated and promised if the economic conditions continue to improve he would double the minimum wage by the end of his term.<ref name=":5" />
+[[File:Antanas Mockus-small.png|thumb|Antanas Mockus Sivickas]]
+
+=== Antanas Mockus Sivickas ===
+Having earned a degree in Mathematics and Philosophy and been Lector of the [[National University of Colombia|National University]], [[Antanas Mockus|Antanas Mockus Sivickas]] became mayor of Bogotá, for two nonconsecutive terms. Mockus is notable for privatizing the Telecommunications Company of Bogotá, prohibiting the use of gunpowder, and repeatedly working to change the culture through symbolic acts.<ref>{{Cite news|url=http://lasillavacia.com/quienesquien/perfilquien/antanas-mockus|title=Antanas Mockus|work=La Silla Vacía|access-date=2017-04-02|language=es}}</ref> As mayor, he gained much notoriety and publicity for the symbolic acts he took to change society and behavior, such as making a commercial of him taking a shower and turning off the water when using soap during a drought. In two months water usage dropped 14%, and eventually dropped 40%. He created a voluntary tax at a rate 10% higher, which 63 thousand people willingly paid. To peacefully address the unpopularity of the city's chaotic streets, he walked the streets in a costume and a cape as the hero "Supercitizen", handed citizens thumbs-up and thumbs-down cards for them to display in response to the behavior of those around them, and trained originally 20 but eventually 420 mimes to follow and mock pedestrians who did not follow traffic rules.<ref>{{Cite news|url=http://news.harvard.edu/gazette/story/2004/03/academic-turns-city-into-a-social-experiment/|title=Academic turns city into a social experiment|last=Caballero|first=Mary Cristina|date=2004-03-11|work=Harvard Gazette|access-date=2017-04-02|language=en-US}}</ref>
+
+Mockus emphasizes respect for human rights, development of democracy and most of all the protection and respect for the constitution as what should unite Colombians the most. He argued that taxes could distribute wealth more fairly, that the state should be present in all territories and help ensure compliance and respect for the law as well as be able to function in providing necessary services. He argued income taxes should increase to pay for an increase in funding for education and culture.<ref name=":6" />
+
+=== Other Candidates ===
+Enrique Parejo González advocated for reducing corruption, arguing that it was the root of many of Colombia's other issues, as well as poverty. He advocated for peace dialogues as well as tough sentences, and no impunity for those responsible for atrocities.<ref name=":6" />
+
+Álvaro Leyva Durán is a former congressman, senator and Minister of Mines and Energy. He campaigned on ending the war with the FARC through a negotiated peace settlement.<ref>{{Cite web|url=http://www.colombia.com/especiales/elecciones_2006/Presidencia/01_alvaro_hv.asp|title=Elecciones 2006|website=www.colombia.com|access-date=2017-04-02}}</ref>
+
+Carlos Arturo Rincón Barreto received the fewest votes, less than one fifth of a percent.{{citation needed|date=October 2021}}
+
+== Issues ==
+Major subjects debated during the election included the extradition and demilitarization of private military groups, drugs and crime, corruption, refugees, the economy, and the reelection itself. As the incumbent president, Uribe was a dissident liberal with an independent, anti-guerrilla, anti-crime, pro-U.S. platform that appealed to Conservatives and a significant number of traditionally liberal voters. This split the Liberal party<ref name=":8">{{Cite web|url=https://news.bbc.co.uk/2/hi/americas/5013854.stm|title=BBC NEWS {{!}} Americas {{!}} Q & A: Colombia election|website=news.bbc.co.uk|date=25 May 2006 |access-date=2017-04-08}}</ref> and, according to [[Freedom House]], led to a shift in party politics away from the typical Conservative-Liberal dichotomy as Congress re-aligned respectively as essentially pro- and anti-Uribe forces.<ref name=":9">{{Cite web|url=https://freedomhouse.org/report/freedom-press/2006/colombia|title=Colombia Country Report Freedom of the Press 2006|website=Freedom House|access-date=April 7, 2017|archive-date=8 April 2017|archive-url=https://web.archive.org/web/20170408171616/https://freedomhouse.org/report/freedom-press/2006/colombia|url-status=dead}}</ref> Critics of Uribe claimed he neglected social policies.<ref name=":10">{{Cite web|url=https://news.bbc.co.uk/2/hi/americas/5024428.stm|title=BBC NEWS {{!}} Americas {{!}} Colombia's Uribe wins second term|website=news.bbc.co.uk|date=29 May 2006 |access-date=2017-04-08}}</ref> Despite criticism, polls predicted Uribe's reelection.<ref>{{Cite news|url=https://www.nytimes.com/2006/05/28/world/americas/28colombia.html|title=Colombian Leader, Seeking Re-election, Warns of Catastrophe|last=Forero|first=Juan|date=2006-05-28|work=The New York Times|access-date=2017-04-08|issn=0362-4331}}</ref>
+
+Former President (and head of the Liberal party) [[César Gaviria|Cesar Gaviria's]] daughter Liliana Gaviria was murdered on 27 April 2005, leading to an increase of security forces in Bogota and throughout the country. [[FARC]] guerrillas did not aim to disrupt the elections and instead called on Colombians to vote against Uribe. All candidates prioritized lowering unemployment rates (around 13% at the time). In his first term, Uribe proposed a free trade agreement with the United States, which other candidates strongly opposed.<ref name=":8" /> The [[Library of Congress]] credits Uribe's export-oriented growth strategy, efforts to reduce public debt, and strict budgets for economic growth.<ref name=":11">{{Cite web|url=http://library.cqpress.com/phw/phw2015_Colombia.|title=Political Handbook of the World Online Edition|website=library.cqpress.com|access-date=2017-04-08}}{{Dead link|date=May 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Colombia continued to be a dangerous country for journalists, especially those who reported on corruption or drug trafficking.<ref name=":7" /> In October, the [[Inter American Press Association|Inter-American Press Association (IAPA)]] reported that press-lawsuits were used as a form of intimidation more often in 2005. The prosecutors range from public servants and private parties to government ministers and retired military officers. Press organizations attributed the decline in homicide rates during 2005 to an increase in journalists practicing self-censorship.<ref name=":9" /> Colombia has an internally displaced population of 3.6 million (mostly marginalized poor, indigenous and Afro-Colombian), their homes taken over by paramilitary troops.<ref name=":9" /> Paramilitary groups, often linked to the police, are also guilty of murdering street children and drug addicts under the guise of "[[social cleansing]]."<ref name=":7" /> Colombia is similarly dangerous for trade union activists, also the target of labor-repressive practices by paramilitary groups.<ref>{{Cite journal|last=Richani|first=Nazih|date=2007-01-01|title=Caudillos and the Crisis of the Colombian State: Fragmented Sovereignty, the War System and the Privatisation of Counterinsurgency in Colombia|jstor=4017705|journal=Third World Quarterly|volume=28|issue=2|pages=403–417|doi=10.1080/01436590601153937|s2cid=153576077}}</ref>
+
+=== Re-election Campaign ===
+Owing to judicial reform and improvements in citizen security (increasing domestic military presence, declining homicide and kidnapping rates)<ref name=":10" />  as well as the economy (declining unemployment, lower public deficit),<ref>{{Cite web|url=http://www.theodora.com/wfb2006/colombia/colombia_economy.html|title=Colombia Economy 2006 - Flags, Maps, Economy, Geography, Climate, Natural Resources, Current Issues, International Agreements, Population, Social Statistics|website=www.theodora.com|language=en|access-date=2017-04-08}}</ref> President Alvaro Uribe Velez retained his popularity before and during the 2006 election. Prior to the election, Uribe campaigned for [[Constitutional Court of Colombia|Colombia's Constitutional Court]] to overturn the single-term limit and allow him to run for reelection. The campaign for reelection was marked by scandal when in October, 2005 members of the Constitutional Court publicly accused each other of accepting bribes to vote in Uribe's favor.<ref name=":7" /> Despite efforts from opposition claiming that eight years in office would allow the president to gain too much power, the Court declared it "as reasonable within the Constitution the legislative act allowing the re-election of the president of the republic."<ref>{{Cite web|url=https://news.bbc.co.uk/1/hi/world/americas/4359064.stm|title=BBC NEWS {{!}} Americas {{!}} Colombia re-election ban lifted|website=news.bbc.co.uk|date=20 October 2005 |access-date=2017-04-08}}</ref> The Court upheld its verdict in November.<ref name=":9" />
+
+Another election law implemented this year established a 2% electoral threshold requirement in legislative elections for a political party (indigenous and Afro-Colombian groups are exempt) to maintain its legal status, as well as only allowing parties to offer only one list of candidates per office.<ref name=":11" />
+
+=== Paramilitary Demobilization ===
+A major subject of debated during the election was the issue of paramilitary demobilization. The government had been successfully demilitarizing troops associated with the AUC, and in 2005 adopted a "[[Justice and Peace Law of Colombia|Justice and Peace Law]]." Human rights groups pressured the government that year, cautioning that the process of demilitarization would come to an end if promises about extradition and other issues were not upheld. The [[Justice and Peace Law of Colombia|Justice and Peace Law]] grants light sentences of eight years to former paramilitary who agree to compensate victims, reveal all past crimes, and aid the government to dismantle paramilitary political and trafficking networks.<ref name=":11" />
+
+Opponents of the Justice and Peace Law maintained that the law encouraged impunity by allowing a maximum sentence of only 8 years. Amnesty International claimed that the process of demilitarization "opens the way for their recycling & as security guards, civilian police and informants."<ref name=":7" /> The law only allowed 60 days for the individual to be investigated by Colombia's already overtaxed legal system. Opponents say that they are not required to collaborate with the government or tell the full truth to get the light sentence, proponents countered with the fact that the law does not apply to drug-related offenders.
+
+26,000 paramilitary troops working for the AUC were demobilized under the Uribe administration by 2006. Preliminary peace meetings were successfully negotiated with the ELN, but none with the [[FARC]], who wanted to swap prisoners for hostages, regularly extort payments from businesses, and are involved with drug trafficking.<ref name=":8" /> The [[FARC]] and the government continued the guerrilla warfare in 2006, the FARC targeting civilians and local-level politicians.<ref name=":11" />
+
+==Results==
+[[File:Elección presidencial de Colombia 2006.svg|thumb|Uribe Favorable results by department]]
+
+Uribe was elected to his second term of the presidency with 62.35% of the vote, this time backed in addition to the [[Colombia First]] party by the new [[Partido de la U]], [[Colombian Conservative Party|Partido Conservador]], [[Radical Change|Cambio Radical]], [[Alas Equipo Colombia]], [[Citizens' Convergence|Convergencia Ciudadana]], [[Democratic Colombia Party|Colombia Democrática]], and [[Living Colombia Movement|Colombia Viva]].<ref>{{Cite news|url=http://lasillavacia.com/quienesquien/perfilquien/alvaro-uribe-velez|title=Álvaro Uribe Vélez|work=La Silla Vacía|access-date=2017-04-08|language=es}}</ref> He won the majority of the vote in 32 out of 34 departments, including 6 wins with more than 70% of the regional vote ([[Antioquia State|Antioquia]], [[Casanare Department|Casanare]], [[Cundinamarca Department|Cundinamarca]], [[Huila Department|Huila]], [[Meta Department|Meta]], and [[Risaralda Department|Risaralda]]). Carlos Gaviria Díaz came second, with 22.03% of the total vote, and won regionally in 2 out of 34 departments ([[Nariño Department|Nariño]] and [[La Guajira Department|La Guajira]]). [[Horacio Serpa]] came in third place, with 11.84% of the total vote, and no regional wins.<ref name=":12">{{Cite web|url=https://www.electoralgeography.com/new/en/countries/c/colombia/colombia-presidential-election-2006.html|title=Colombia. Presidential Election 2006 {{!}} Electoral Geography 2.0|website=www.electoralgeography.com|date=16 September 2006 |access-date=2017-04-08}}</ref>
+
+{{Election results
+|cand1=[[Álvaro Uribe]]|vp1=[[Francisco Santos Calderón|Francisco Santos]]|party1=[[Colombia First]]|votes1=7397835
+|cand2=[[Carlos Gaviria Díaz]]|vp2=Patricia Lara Salive|party2=[[Alternative Democratic Pole]]|votes2=2613157
+|cand3=[[Horacio Serpa]]|vp3=[[Iván Marulanda]]|party3=[[Colombian Liberal Party]]|votes3=1404235
+|cand4=[[Antanas Mockus]]|vp4=María Isabel Patiño|party4=[[Independent Social Alliance Movement]]|votes4=146583
+|cand5=[[Enrique Parejo González]]|vp5=Felipe Cárdenas|party5=[[National Democratic Reconstruction]]|votes5=42652
+|cand6=[[Álvaro Leyva]]|vp6=Luis Yarzagaray|party6=[[National Movement for Reconciliation]]|votes6=18263
+|cand7=Carlos Arturo Rincón Barreto|vp7=Guillermo Cardona|party7=[[Colombian Community and Communal Political Movement]]|votes7=15388
+|row8=Blank votes|votes8=226297
+|invalid=177327|invalidonly=y
+|electorate=26731700
+|source=[https://elecciones.registraduria.gov.co/respre2006/resultados/html/resultados.html RNEC]
+}}
+
+=== By department ===
+
+<div style="overflow:auto;">
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+! rowspan="3" |[[Departments of Colombia|Department]]
+! colspan="2" width="110" |[[Álvaro Uribe|Uribe]]
+! colspan="2" width="110" |[[Carlos Gaviria Díaz|Gaviria]]
+! colspan="2" width="110" |[[Horacio Serpa|Serpa]]
+! colspan="2" width="110" |[[Antanas Mockus|Mockus]]
+! colspan="2" width="110" |[[Enrique Parejo González|Pajero]]
+! colspan="2" width="110" |Leyva
+! colspan="2" width="110" |Rincón
+! colspan="2" width="110" |Blank votes
+|-
+! colspan="2" style="background:#800080;" |
+! colspan="2" style="background:#FEF71F;" |
+! colspan="2" style="background:#FF3333;" |
+! colspan="2" style="background:#1FA12E;" |
+! colspan="2" style="background:#6AAC90;" |
+! colspan="2" style="background:#264F9E;" |
+! colspan="2" style="background:#F5EC49;" |
+! colspan="2" style="background:#809080;" |
+|-
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+|-
+| style="text-align:left;"|[[Amazonas (Colombian department)|Amazonas]]
+| style="background:#CC99CC;"|'''4,967'''
+| style="background:#CC99CC;"|'''41.75%'''
+| 3,859
+| 32.44%
+| 2,651
+| 22.28%
+| 92
+| 0.77%
+| 110
+| 0.92%
+| 53
+| 0.45%
+| 32
+| 0.27%
+| 133
+| 1.11%
+|-
+| style="text-align:left;"|[[Antioquia Department|Antioquia]]
+| style="background:#CC99CC;"|'''1,108,085'''
+| style="background:#CC99CC;"|'''71.10%'''
+| 279,775
+| 17.95%
+| 109,187
+| 7.01%
+| 12,624
+| 0.81%
+| 4,891
+| 0.31%
+| 2,534
+| 0.16%
+| 1,965
+| 0.13%
+| 39,330
+| 2.52%
+|-
+| style="text-align:left;"|[[Arauca Department|Arauca]]
+| style="background:#CC99CC;"|'''30,878'''
+| style="background:#CC99CC;"|'''66.42%'''
+| 12,023
+| 25.86%
+| 2,168
+| 4.66%
+| 210
+| 0.45%
+| 173
+| 0.37%
+| 78
+| 0.17%
+| 55
+| 0.12%
+| 907
+| 1.95%
+|-
+| style="text-align:left;"|[[Atlántico Department|Atlántico]]
+| style="background:#CC99CC;"|'''185,786'''
+| style="background:#CC99CC;"|'''42.14%'''
+| 169,034
+| 38.34%
+| 77,056
+| 17.48%
+| 2,691
+| 0.61%
+| 1,465
+| 0.33%
+| 440
+| 0.10%
+| 234
+| 0.05%
+| 4,201
+| 0.95%
+|-
+| style="text-align:left;"|[[Bogotá]]
+| style="background:#CC99CC;"|'''1,396,155'''
+| style="background:#CC99CC;"|'''64.02%'''
+| 502,341
+| 23.03%
+| 165,687
+| 7.60%
+| 65,645
+| 3.01%
+| 3,709
+| 0.17%
+| 1,666
+| 0.08%
+| 3,337
+| 0.15%
+| 42,284
+| 1.94%
+|-
+| style="text-align:left;"|[[Bolívar Department|Bolívar]]
+| style="background:#CC99CC;"|'''219,298'''
+| style="background:#CC99CC;"|'''59.45%'''
+| 93,637
+| 25.38%
+| 47,209
+| 12.80%
+| 1,703
+| 0.46%
+| 2,031
+| 0.55%
+| 819
+| 0.22%
+| 445
+| 0.12%
+| 3,763
+| 1.02%
+|-
+| style="text-align:left;"|[[Boyacá Department|Boyacá]]
+| style="background:#CC99CC;"|'''269,265'''
+| style="background:#CC99CC;"|'''63.18%'''
+| 81,458
+| 19.11%
+| 58,811
+| 13.80%
+| 3,874
+| 0.91%
+| 2,148
+| 0.50%
+| 1,114
+| 0.26%
+| 1,630
+| 0.38%
+| 7,859
+| 1.84%
+|-
+| style="text-align:left;"|[[Caldas Department|Caldas]]
+| style="background:#CC99CC;"|'''249,981'''
+| style="background:#CC99CC;"|'''70.40%'''
+| 60,125
+| 16.93%
+| 29,513
+| 8.31%
+| 4,281
+| 1.21%
+| 1,261
+| 0.36%
+| 545
+| 0.15%
+| 498
+| 0.14%
+| 8,878
+| 2.50%
+|-
+| style="text-align:left;"|[[Caquetá Department|Caquetá]]
+| style="background:#CC99CC;"|'''43,270'''
+| style="background:#CC99CC;"|'''62.92%'''
+| 19,422
+| 28.24%
+| 3,386
+| 4.92%
+| 358
+| 0.52%
+| 269
+| 0.39%
+| 183
+| 0.27%
+| 140
+| 0.20%
+| 1,737
+| 2.53%
+|-
+| style="text-align:left;"|[[Casanare Department|Casanare]]
+| style="background:#CC99CC;"|'''78,463'''
+| style="background:#CC99CC;"|'''81.73%'''
+| 8,954
+| 9.33%
+| 5,367
+| 5.59%
+| 485
+| 0.51%
+| 553
+| 0.58%
+| 244
+| 0.25%
+| 218
+| 0.23%
+| 1,716
+| 1.79%
+|-
+| style="text-align:left;"|[[Cauca Department|Cauca]]
+| style="background:#CC99CC;"|'''121,129'''
+| style="background:#CC99CC;"|'''40.42%'''
+| 108,698
+| 36.27%
+| 57,032
+| 19.03%
+| 3,439
+| 1.15%
+| 1,479
+| 0.49%
+| 755
+| 0.25%
+| 420
+| 0.14%
+| 6,756
+| 2.25%
+|-
+| style="text-align:left;"|[[Cesar Department|Cesar]]
+| style="background:#CC99CC;"|'''184,575'''
+| style="background:#CC99CC;"|'''66.84%'''
+| 41,181
+| 18.53%
+| 27,850
+| 12.53%
+| 518
+| 0.23%
+| 992
+| 0.45%
+| 335
+| 0.15%
+| 198
+| 0.09%
+| 2,633
+| 1.18%
+|-
+| style="text-align:left;"|[[Chocó Department|Chocó]]
+| style="background:#CC99CC;"|'''35,524'''
+| style="background:#CC99CC;"|'''49.79%'''
+| 9,255
+| 12.97%
+| 23,340
+| 32.71%
+| 183
+| 0.26%
+| 860
+| 1.21%
+| 540
+| 0.76%
+| 160
+| 0.22%
+| 1,491
+| 2.09%
+|-
+| style="text-align:left;"|Consulates/Abroad
+| style="background:#CC99CC;"|'''101,459'''
+| style="background:#CC99CC;"|'''84.17%'''
+| 12,204
+| 10.12%
+| 2,866
+| 2.38%
+| 2,887
+| 2.40%
+| 150
+| 0.12%
+| 51
+| 0.04%
+| 76
+| 0.06%
+| 847
+| 0.70
+|-
+| style="text-align:left;"|[[Córdoba Department|Córdoba]]
+| style="background:#CC99CC;"|'''221,661'''
+| style="background:#CC99CC;"|'''58.48%'''
+| 47,965
+| 12.65%
+| 101,105
+| 26.68%
+| 691
+| 0.18%
+| 3,127
+| 0.83%
+| 1,002
+| 0.26%
+| 561
+| 0.15%
+| 2,913
+| 0.77%
+|-
+| style="text-align:left;"|[[Cundinamarca department|Cundinamarca]]
+| style="background:#CC99CC;"|'''517,292'''
+| style="background:#CC99CC;"|'''71.01%'''
+| 131,100
+| 18.00%
+| 55,790
+| 7.66%
+| 6,561
+| 0.90%
+| 2,402
+| 0.33%
+| 1,075
+| 0.15%
+| 872
+| 0.12%
+| 13,353
+| 1.83%
+|-
+| style="text-align:left;"|[[Guainía Department|Guainía]]
+| style="background:#CC99CC;"|'''2,370'''
+| style="background:#CC99CC;"|'''53.89%'''
+| 1,358
+| 30.88%
+| 493
+| 11.21%
+| 41
+| 0.93%
+| 24
+| 0.55%
+| 12
+| 0.27%
+| 4
+| 0.09%
+| 96
+| 2.18%
+|-
+| style="text-align:left;"|[[Guaviare Department|Guaviare]]
+| style="background:#CC99CC;"|'''8,437'''
+| style="background:#CC99CC;"|'''62.77%'''
+| 2,802
+| 20.85%
+| 1,371
+| 10.20%
+| 97
+| 0.72%
+| 106
+| 0.79%
+| 38
+| 0.28%
+| 37
+| 0.28%
+| 554
+| 4.12%
+|-
+| style="text-align:left;"|[[Huila Department|Huila]]
+| style="background:#CC99CC;"|'''197,746'''
+| style="background:#CC99CC;"|'''71.07%'''
+| 52,337
+| 18.81%
+| 19,931
+| 7.16%
+| 1,709
+| 0.60%
+| 954
+| 0.34%
+| 399
+| 0.14%
+| 279
+| 0.10%
+| 4,875
+| 1.75%
+|-
+| style="text-align:left;"|[[La Guajira Department|La Guajira]]
+| 42,610
+| 39.89
+| style="background:#FFFCA5;"|'''46,427'''
+| style="background:#FFFCA5;"|'''43.46%'''
+| 15,870
+| 14.86%
+| 220
+| 0.21%
+| 478
+| 0.45%
+| 217
+| 0.20%
+| 76
+| 0.07%
+| 927
+| 0.87%
+|-
+| style="text-align:left;"|[[Magdalena Department|Magdalena]]
+| style="background:#CC99CC;"|'''138,537'''
+| style="background:#CC99CC;"|'''56.35%'''
+| 60,815
+| 24.74%
+| 40,739
+| 16.57%
+| 939
+| 0.38%
+| 1,629
+| 0.66%
+| 453
+| 0.18%
+| 231
+| 0.09%
+| 2,633
+| 1.02%
+|-
+| style="text-align:left;"|[[Meta Department|Meta]]
+| style="background:#CC99CC;"|'''156,581'''
+| style="background:#CC99CC;"|'''71.60%'''
+| 42,923
+| 19.63%
+| 12,206
+| 5.58%
+| 2,105
+| 0.96%
+| 621
+| 0.28%
+| 293
+| 0.13%
+| 394
+| 0.18%
+| 3,575
+| 1.63%
+|-
+| style="text-align:left;"|[[Nariño Department|Nariño]]
+| 145,643
+| 40.89%
+| style="background:#FFFCA5;"|'''154,413'''
+| style="background:#FFFCA5;"|'''43.36%'''
+| 44,285
+| 12.43%
+| 1,828
+| 0.51%
+| 1,504
+| 0.42%
+| 668
+| 0.19%
+| 580
+| 0.16%
+| 7,222
+| 2.03%
+|-
+| style="text-align:left;"|[[Norte de Santander Department|Norte de Santander]]
+| style="background:#CC99CC;"|'''239,334'''
+| style="background:#CC99CC;"|'''67.37%'''
+| 67,193
+| 18.91%
+| 36,221
+| 10.20%
+| 2,679
+| 0.75%
+| 1,372
+| 0.39%
+| 590
+| 0.17%
+| 440
+| 0.12%
+| 7,417
+| 2.09%
+|-
+| style="text-align:left;"|[[Putumayo Department|Putumayo]]
+| style="background:#CC99CC;"|'''22,883'''
+| style="background:#CC99CC;"|'''43.31%'''
+| 21,099
+| 38.26%
+| 8,309
+| 15.07%
+| 219
+| 0.40%
+| 200
+| 0.36%
+| 129
+| 0.23%
+| 86
+| 0.16%
+| 1,223
+| 2.22%
+|-
+| style="text-align:left;"|[[Quindío Department|Quindío]]
+| style="background:#CC99CC;"|'''132,896'''
+| style="background:#CC99CC;"|'''69.31%'''
+| 35,128
+| 18.32%
+| 15,802
+| 8.24%
+| 2,237
+| 1.17%
+| 462
+| 0.24%
+| 196
+| 0.10%
+| 177
+| 0.09%
+| 4,853
+| 2.53%
+|-
+| style="text-align:left;"|[[Risaralda Department|Risaralda]]
+| style="background:#CC99CC;"|'''210,738'''
+| style="background:#CC99CC;"|'''72.62%'''
+| 47,663
+| 16.42%
+| 20,418
+| 7.04%
+| 2,998
+| 1.03%
+| 1,134
+| 0.39%
+| 342
+| 0.12%
+| 356
+| 0.12%
+| 6,547
+| 2.26%
+|-
+| style="text-align:left;"|[[Archipelago of San Andrés, Providencia and Santa Catalina|San Andrés and Providencia]]
+| style="background:#CC99CC;"|'''6,375'''
+| style="background:#CC99CC;"|'''54.01%'''
+| 1,523
+| 12.90%
+| 3,603
+| 30.52%
+| 63
+| 0.53%
+| 47
+| 0.40%
+| 17
+| 0.14%
+| 10
+| 0.08%
+| 166
+| 1.41%
+|-
+| style="text-align:left;"|[[Santander Department|Santander]] 
+| style="background:#CC99CC;"|'''337,039'''
+| style="background:#CC99CC;"|'''50.96%'''
+| 101,924
+| 15.41%
+| 198,605
+| 30.03%
+| 7,825
+| 1.18%
+| 2,373
+| 0.36%
+| 958
+| 0.14%
+| 520
+| 0.08%
+| 12,097
+| 1.83%
+|-
+| style="text-align:left;"|[[Sucre Department|Sucre]]
+| style="background:#CC99CC;"|'''114,009'''
+| style="background:#CC99CC;"|'''51.73%'''
+| 44,219
+| 20.07%
+| 55,826
+| 25.79%
+| 632
+| 0.29%
+| 2,018
+| 0.92%
+| 666
+| 0.30%
+| 227
+| 0.10%
+| 1,779
+| 0.81%
+|-
+| style="text-align:left;"|[[Tolima Department|Tolima]]
+| style="background:#CC99CC;"|'''252,895'''
+| style="background:#CC99CC;"|'''65.08%'''
+| 74,940
+| 19.29%
+| 46,933
+| 12.08%
+| 2,981
+| 0.77%
+| 1,523
+| 0.39%
+| 663
+| 0.17%
+| 358
+| 0.09%
+| 8,280
+| 2.13%
+|-
+| style="text-align:left;"|[[Valle del Cauca Department|Valle del Cauca]]
+| style="background:#CC99CC;"|'''649,995'''
+| style="background:#CC99CC;"|'''60.15%'''
+| 275,247
+| 25.47%
+| 112,106
+| 10.37%
+| 13,668
+| 1.27%
+| 2,505
+| 0.23%
+| 1,141
+| 0.11%
+| 755
+| 0.07%
+| 25,194
+| 2.33%
+|-
+| style="text-align:left;"|[[Vaupés Department|Vaupés]]
+| style="background:#CC99CC;"|'''2,240'''
+| style="background:#CC99CC;"|'''58.50%'''
+| 720
+| 18.80%
+| 720
+| 18.80%
+| 38
+| 0.99%
+| 43
+| 1.12%
+| 24
+| 0.63%
+| 9
+| 0.24%
+| 35
+| 0.91%
+|-
+| style="text-align:left;"|[[Vichada Department|Vichada]]
+| style="background:#CC99CC;"|'''4,719'''
+| style="background:#CC99CC;"|'''65.83%'''
+| 1,395
+| 19.46%
+| 788
+| 10.99%
+| 42
+| 0.59%
+| 39
+| 0.54%
+| 23
+| 0.32%
+| 8
+| 0.11%
+| 155
+| 2.16%
+|- class="sortbottom"
+| colspan="23" style="text-align:left;" | Source: RNEC
+|}
+</div>
+
+==Aftermath==
+The continuation of Uribe's [[Democratic security|Democratic Security]] policy led to further movement against the [[National Liberation Army (Colombia)|ELN]] and the [[FARC]], including new anti-terrorist and anti-drug trafficking laws, increasing the power of the police. In 2008, Uribe was able to negotiate the release of [[Íngrid Betancourt|Ingrid Betancourt]], a high-profile politician who was held as one of many hostages by the FARC. Strongly backed and supported financially by the US, the policy continued to combat Colombia's leftist [[Paramilitary|Paramilitary groups]]. The project and its success led to Uribe receiving the [[Presidential Medal of Freedom|US Presidential Medal of Freedom]] in 2009 for his efforts in this regard.<ref name=":14">{{Cite news|url=https://www.britannica.com/biography/Alvaro-Uribe-Velez|title=Alvaro Uribe Velez {{!}} president of Colombia|work=Encyclopedia Britannica|access-date=2017-04-09|language=en}}</ref>
+
+===Parapolitical scandal===
+Events shortly after the 2006 elections marked the beginning of a years-long process of addressing apparent paramilitary connections in government. In November 2006, a document was discovered connecting various members of Uribe's coalition ("uribistas") and the paramilitary group [[United Self-Defense Forces of Colombia|AUC]], involving negotiations for votes and support. This document, the [[Ralito Agreement]], was signed in a 2001 meeting by representatives of Paramilitary groups, and by 18 current and future politicians, who promised in it to "work toward a new Colombia"<ref name=":7" /> and thus secure power for the Paramilitaries.<ref>{{Cite news|url=http://colombiareports.com/colombia-captures-ex-senator-for-paramilitary-ties/|title=Colombia captures ex-senator for paramilitary ties|date=2012-06-26|work=Colombia News {{!}} Colombia Reports|access-date=2017-04-08|language=en-US}}</ref> The resulting [[Colombian parapolitics scandal|Colombian Parapolitics Scandal]] led to the investigation and arrest of many members of congress, including the former senator and cousin to the president (at the time) [[Mario Uribe Escobar|Mario Uribe]].<ref name=":13">{{Cite news|url=https://www.theguardian.com/world/2008/apr/23/colombia|title=Colombia's 'parapolitics' scandal casts shadow over president|last=Brodzinsky|first=Sibylla|date=2008-04-23|work=The Guardian|access-date=2017-04-08|language=en-GB|issn=0261-3077}}</ref> With this, despite demobilizing more than 30,000 paramilitary troops and eliciting a peace agreement with some of Colombia's various paramilitary groups through his first term as president,  Uribe came under suspicion because of his cousin's ties to these events. He insisted, however, that he was not tied to these groups.<ref name=":13" />
+
+===Corruption scandals===
+Following the 2006 election, Congresswoman Yidis Medina revealed that she had taken bribes in exchange for her vote in favor of the 2004 measure to extend term limits. This event prompted the arrest of Medina, as well as the investigation of other lawmakers, such as [[Sabas Pretelt de la Vega|Sabas Pretelt De La Vega]], and [[Diego Palacio Betancourt]]. It is commonly referred to as the Yidispolitics scandal.<ref>{{Cite news|url=http://colombiareports.com/former-ministers-in-court-for-the-yidispolitics-bribery-scandal/|title=Former ministers to be tried for Uribe re-election bribery scandal|date=2012-03-06|work=Colombia News {{!}} Colombia Reports|access-date=2017-04-09|language=en-US}}</ref>
+
+===Changes to term limits===
+In 2015, 10 years after the limit on the number of terms served by a president was increased from one to two, congress voted to decrease it back to one. The first vote took place during Uribe's first presidential term (involving the bribing of Congresswoman [[Yidis Medina]]), allowing him to be the first of Colombia's presidents in more than 100 years to run for re-election. His successor (and former defense minister), [[Juan Manuel Santos]], was also able to run and be elected for a second term in 2014, However Santos (in his second term at the time) backed the change, to go into effect once he leaves office. Ex-president Uribe, now a Senator with the Democratic Center party, objected to the reinstatement of the limit, but was outvoted.<ref>{{Cite news|url=http://www.buenosairesherald.com/article/190883/colombia-limits-presidents-to-single-term)|title=Colombia limits presidents to single term|access-date=2017-04-08}}</ref>
+
+===Uribe's career===
+Uribe continued to actively participate in politics on a local level after maxing out his time spent as president. He acted as a mentor of sorts to his successor at the presidency, Juan Manuel Santos. However, this bond was broken upon Santos' assumption of the presidency, and the discovery of various political disagreements. Uribe continued to run for offices such as governorships and mayoral positions, representing various conservative political parties in his endeavors. He was unsuccessful in winning these, however. He eventually began an anti-Santos movement, which he called the Democratic Center Party.<ref name=":0" /> Finally, as a representative of the Democratic Center Party, he was able to win a position as a Senator in 2014.<ref name=":14" />
+
+==References==
+{{Reflist}}
+
+{{Colombian elections}}
+
+[[Category:Presidential elections in Colombia]]
+[[Category:2006 elections in South America|Colombia]]
+[[Category:2006 in Colombia]]
+[[Category:May 2006 in South America]]
+[[Category:May 2006 elections]]

@@ -1,0 +1,132 @@
+{{Short description|none}}
+{{Infobox election
+| country = Republic of Macedonia
+| flag_year = 1992
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_date = 16 October 1994
+| election_name = Presidential election
+| next_year = [[1999 Macedonian presidential election|1999]]
+| turnout = 76.65% 
+
+| candidate1 = '''[[Kiro Gligorov]]''' | image1 = Киро Глигоров 03 (28-01-1993) 2.jpg | party1 = [[For a European Future|Alliance for Macedonia]]
+| color1 = 033A73 | popular_vote1 = '''715,087''' | percentage1 = '''78.39%'''
+| candidate2 = {{ill|Ljubiša Georgievski|mk|Љубиша Георгиевски|v=ib}} | image2 = 3x4.svg | party2 = VMRO-DPMNE	| popular_vote2= 197,109 | percentage2= 21.61%
+
+| title = [[President of North Macedonia|President]]
+| before_election = [[Kiro Gligorov]]|
+| before_party = Independent
+| after_election = [[Kiro Gligorov]]
+| after_party = Independent
+
+| module = {{Infobox legislative election
+| embed = yes
+| previous_election = [[1990 Macedonian parliamentary election|1990]]
+| next_election = [[1998 Macedonian parliamentary election|1998]]
+| election_date = 16 October 1994 (first round)<br>30 October 1994 (second round)
+| election_name = Assembly election
+| nopercentage = yes
+
+| party1 = [[For a European Future|Alliance for Macedonia]]{{efn|Consisting of the [[Social Democratic Union of Macedonia]] (58 seats), the [[Liberal Party of Macedonia]] (29) and the [[Socialist Party of Macedonia]] (8)}} 
+| leader1 = [[Branko Crvenkovski]] | color1 = #033A73 | seats1 = 95 | last_election1 = 31
+| party2 = Party for Democratic Prosperity | leader2 = [[Abduladi Vejseli]] | seats2 = 10 | last_election2 = 17
+| party3 = People's Democratic Party (Macedonia) | leader3 = [[Iljaz Halimi]] | seats3 = 4 | last_election3 = 1
+| party4 = Democratic Party of Macedonia | leader4 =  | seats4 = 1
+|last_election4 = 0 
+| party5 = Social Democratic Party of Macedonia | leader5 =  | seats5 = 1 | last_election5 = 0
+| party6 = Party for the Full Emancipation of the Roma of Macedonia | leader6 = {{ill|Faik Abdi|mk|Фаик Абди|v=ib}} | seats6 = 1 | last_election6 = 1
+| party7 = [[Democratic Party of Turks|DPTM]]–[[Party of Democratic Action–Islamic Path|SDA-IP]] | leader7 = [[Erdogan Saraç]] | seats7 = 1 | last_election7 = 0
+| party8 = Independents | leader8 = – | seats8 = 7 | last_election8 = 3
+| map = Парламентарни избори 1994.png
+| map_caption = Results by constituency
+| title = [[Prime Minister of North Macedonia|Prime Minister]]
+| before_election = [[Branko Crvenkovski]]|
+| before_party = Social Democratic Union of Macedonia
+| after_election = [[Branko Crvenkovski]]
+| after_party = Social Democratic Union of Macedonia
+}}}}
+}}{{Politics of Macedonia}}
+
+General elections were held in [[Republic of Macedonia|Macedonia]] on 16 October 1994 to elect a [[President of the Republic of Macedonia|President]] and [[Assembly of the Republic of Macedonia|Assembly]], with a second round of Assembly elections on 30 October.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p. 1278 {{ISBN|978-3-8329-5609-7}}</ref> The presidential election was won by [[Kiro Gligorov]] of the Alliance for Macedonia (a coalition of the [[Social Democratic Union of Macedonia|Social Democratic Union]], [[Liberal Party of Macedonia|Liberal Party]] and the [[Socialist Party of Macedonia|Socialist Party]]), whilst the parties forming Alliance for Macedonia also won the Assembly elections with 95 of the 120 seats. However, the second round of the Assembly elections were boycotted by [[Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity|VMRO-DPMNE]] and the [[Democratic Party (Macedonia)|Democratic Party]], as they claimed there had been irregularities in the first round.<ref>Nohlen & Stöver, p. 1284</ref><ref>{{Cite journal |date=1995 |title=Election Watch |url=https://muse.jhu.edu/pub/1/article/697476 |journal=Journal of Democracy |volume=6 |issue=1 |issn=1086-3214}}</ref>
+
+==Electoral system==
+The 120 members of the Assembly were elected in 120 single-member constituencies. If no candidate received over 50% in the first round, a second round was held and contested by every candidate who received over 7% of the vote in the first round.<ref name=NS2/> In the second round a majority was not required, and the candidate who received the most votes won the seat.<ref name=NS2>Nohlen & Stöver, p. 1274</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Kiro Gligorov]]|party1=[[For a European Future|Alliance for Macedonia]]|votes1=715087|color1=#033A73
+|cand2={{ill|Ljubiša Georgievski|mk|Љубиша Георгиевски}}|party2=[[VMRO-DPMNE]]|votes2=197109
+|invalid=130810
+|electorate=1360729
+|source=[https://web.archive.org/web/20160303235251/http://www.sec.mk/arhiva/1994_Pretsedatelski/izbori_pretsedatelski_1994.pdf State Electoral Commission]
+}}
+
+===Assembly===
+Of the 88 seats won by joint lists of the Social Democratic Union, Liberal Party and Socialist Party, the Social Democratic Union won 57, the Liberal Party 24 and the Socialist Party seven.<ref>[https://aceproject.org/ero-en/regions/europe/MK/macedonia-parliamentary-elections-observation/view IRI Election Observation Mission: Macedonia: October 30, 1994] IRI</ref>
+
+{{Election results
+|image=[[File:Macedonia Assembly 1994.svg]]
+|party1=[[For a European Future|Alliance for Macedonia]] ([[Social Democratic Union of Macedonia|SDSM]]–[[Liberal Party of Macedonia|LPM]]–[[Socialist Party of Macedonia|SPM]])|seats1=87|votes1=291695|votes1_2=329700|color1=#033A73
+|party2=[[VMRO-DPMNE]]|seats2=0|votes2=141494|votes2_2=32838
+|party3=[[Democratic Party (Macedonia)|Democratic Party]]|seats3=0|votes3=108872|votes3_2=30928
+|party4=[[Party for Democratic Prosperity]]|seats4=10|votes4=87103|votes4_2=93407
+|party5=[[People's Democratic Party (Macedonia)|People's Democratic Party]]|seats5=4|votes5=29361|votes5_2=25007
+|party6=[[Democratic Party of Macedonia]]|seats6=1|votes6=20243|votes6_2=3991
+|party7=[[Liberal Party of Macedonia|Liberal Party]]|seats7=5|votes7=15068|votes7_2=21362
+|party8=[[Workers Party (Republic of Macedonia)|Workers Party]]|seats8=0|votes8=15416|votes8_2=
+|party9=[[Democratic Party of Turks]]|seats9=0|votes9=14423|votes9_2=6434
+|party10=[[Social Democratic Party of Macedonia|Social Democratic Party]]|seats10=1|votes10=12055|votes10_2=2254
+|party11=[[Movement for All-Macedonian Action]]|seats11=0|votes11=11479|votes11_2=2013
+|party12={{ill|VMRO-DP|mk|Внатрешна македонска револуционерна организација - Демократска партија}}|seats12=0|votes12=9742|votes12_2=458
+|party13=League of Communists of Macedonia|seats13=0|votes13=7610|votes13_2=
+|party14=VMRO-MNDS|seats14=0|votes14=7167|votes14_2=1191
+|party15=[[Party of Democratic Action–Islamic Path]]|seats15=0|votes15=6912|votes15_2=2155
+|party16=[[Socialist Party of Macedonia|Socialist Party]]|seats16=1|votes16=6612|votes16_2=5632
+|party17=[[Party for the Full Emancipation of the Roma of Macedonia|Party for the Full Emancipation of the Roma]]|seats17=1|votes17=6530|votes17_2=4447
+|party18=Workers Party of Macedonia|seats18=0|votes18=5435|votes18_2=
+|party19=[[Democratic Party of Serbs in Macedonia|Democratic Party of Serbs]]|seats19=0|votes19=5290|votes19_2=4003
+|party20=[[Communist Party of Macedonia (1992)|Communist Party of Macedonia]]|seats20=0|votes20=5161|votes20_2=
+|party21=VMRO-Fatherland|seats21=0|votes21=5133|votes21_2=
+|party22=[[Democratic Union (North Macedonia)|Democratic Union]]–Party of Peasants|seats22=0|votes22=5089|votes22_2=681
+|party23=[[Social Democratic Union of Macedonia|Social Democratic Union]]|seats23=1|votes23=4182|votes23_2=4635
+|party24=Christian Democratic Party|seats24=0|votes24=4019|votes24_2=
+|party25=[[Social Democratic Union of Macedonia|SDSM]]–[[Liberal Party of Macedonia|LPM]]|seats25=1|votes25=3945|votes25_2=5674
+|party26=[[Democratic Party of Turks|DPTM]]–[[Party of Democratic Action–Islamic Path|SDA-IP]]|seats26=1|votes26=3467|votes26_2=4681
+|party27=Agricultural Workers Party|votes27=3362|seats27=0
+|party28=[[Social Democratic Union of Macedonia|SDSM]]–[[Socialist Party of Macedonia|SP]]|votes28=2538|seats28=0|votes28_2=2872
+|party29=Party of the Unemployed|votes29=2191|seats29=0
+|party30=Civic Liberal Party|votes30=2019|seats30=0
+|party31=[[Party of Yugoslavs in Macedonia|Party of Yugoslavs]]|votes31=1570|seats31=0
+|party32=Republican Party|votes32=1272|seats32=0
+|party33=VMRO - Obedineta|votes33=943|seats33=0
+|party34=Democratic Union of Educators and Citizens|votes34=822|seats34=0
+|party35=Party of Social Truth|votes35=724|seats35=0
+|party36=Macedonian National Party|votes36=715|seats36=0
+|party37=Democratic Progressive Party|votes37=676|seats37=0
+|party38=New Communist Movement|votes38=633|seats38=0
+|party39=VMRO-Gotse Delchev|votes39=480|seats39=0
+|party40=Democratic Party of Yugoslavs|votes40=422|seats40=0
+|party41=[[Democratic Party (Macedonia)|DP]]–New Social Democratic Party|votes41=386|seats41=0
+|party42=Republican Party–VMRO-Gotse Delchev|votes42=205|seats42=0
+|party43=Multinational People's Party|votes43=151|seats43=0
+|party45=Independents|seats45=7|votes45=136511|votes45_2=95418
+|invalid=54330|invalid2=26580
+|electorate=1487367|electorate2=1293330
+|source=Nohlen & Stöver, [https://src-h.slav.hokudai.ac.jp/election_europe/mk/r_102.html Slavic Studies Centre]
+}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Macedonian elections}}
+
+[[Category:Elections in North Macedonia]]
+[[Category:1994 elections in Europe|Macedonia]]
+[[Category:1994 in the Republic of Macedonia|General]]
+[[Category:Presidential elections in North Macedonia]]
+[[Category:October 1994 in Europe|Macedonia]]

@@ -1,0 +1,101 @@
+{{Short description|none}}
+
+{{Infobox election
+| country = Austria
+| flag_year = state
+| type = presidential
+| previous_election = 1998 Austrian presidential election
+| previous_year = 1998
+| next_election = 2010 Austrian presidential election
+| next_year = 2010
+| election_date = 25 April 2004
+| turnout = 71.60%
+| image1 = Heinz Fischer (cropped) 1.jpg
+| nominee1 = '''[[Heinz Fischer]]'''
+| party1 = Social Democratic Party of Austria
+| popular_vote1 = '''2,166,690'''
+| percentage1 = '''52.39%'''
+| image2 = Benita Ferrero-Waldner (cropped).jpg
+| nominee2 = {{nowrap|[[Benita Ferrero-Waldner]]}}
+| party2 = Austrian People's Party
+| popular_vote2 = 1,969,326
+| percentage2 = 47.61%
+| map_image = 2004 Austrian presidential election.svg
+| title = [[President of Austria|President]]
+| posttitle = [[President of Austria|President]]-Elect
+| before_election = [[Thomas Klestil]]
+| before_party = Austrian People's Party
+| after_election = [[Heinz Fischer]]
+| after_party = Social Democratic Party of Austria
+}}{{Politics of Austria}}
+
+Presidential elections were held in [[Austria]] on 25 April 2004. While the post of [[President of Austria]] is a largely ceremonial one, presidential elections are conducted on a party basis and are seen as a test of the relative standing of [[List of political parties in Austria|the major parties]].
+
+The victorious candidate was [[Heinz Fischer]] of the opposition [[Social Democratic Party of Austria]] (SPÖ). He defeated [[Benita Ferrero-Waldner]], foreign minister in the ruling conservative coalition led by the [[Austrian People's Party]] (ÖVP).
+
+== Campaign ==
+The campaign started in January 2004 with the announcements of Ferrero-Waldner and Fischer that they would run. Several other candidates also announced their intention to run, but they were not supported by a major party, their campaigns went virtually unnoticed by the media, and they failed to get the required 6,000 signatures supporting their candidacy.
+
+A notable exception was Franz Fiedler, head of the National Audit Office. In late February he announced that he was considering a candidacy, and that he had the support of important but unnamed politicians. Conventional wisdom held that he had no chance of getting a majority, but that his candidacy would force a run-off between Ferrero-Waldner and Fischer. But since his financial supporters were unwilling to reveal their names, he decided not to run.
+
+In advance of the campaign the ÖVP and the SPÖ agreed on a "Fairness Pact," with compliance to be supervised by a panel of three people, headed by [[Ludwig Adamovich Jr.|Ludwig Adamovich]], former head of the Constitutional Court.
+
+The first complaint before the panel was brought by the SPÖ, who claimed that the ÖVP had stolen one of their slogans. The panel decided that this was not fair according to community standards, but not specifically forbidden by the Fairness Pact. Both parties hailed this decision as a victory for their own side.
+
+Later, both sides complained that the other side had given out presents of tangible value (mainly chocolates) at rallies; the panel refused to consider these claims. Other complaints (commercials during the agreed-upon Easter break, tearing down and defacing posters) were withdrawn.
+
+== Platforms ==
+Fischer's campaign praised their candidate's experience as President of the Parliament, his expertise in constitutional law, and his proven ability to  negotiate compromises. Ferrero's campaign suggested that as a dedicated socialist Fischer might not always show the neutrality required from a Federal President.
+
+Ferrero's campaign pointed to her international connections, her language abilities (English, French, Italian, Spanish), and her performance as foreign minister during the period of the [[European Union]] sanctions against Austria.  Fischer's campaign claimed that she had made many mistakes as a foreign minister, and expressed the fear that a conservative president would not be an appropriate counterweight to a conservative government.
+
+In the beginning of the campaign, polls suggested a 15% lead for Fischer: during the campaign Ferrero narrowed the margin, but polls never showed a decisive lead for her.
+
+== Results ==
+In the [[2002 Austrian legislative election|2002 parliamentary elections]] the conservative parties (the ÖVP and the [[Freedom Party of Austria]], FPÖ) received 52 percent of the votes, compared to 46 percent for the SPÖ and the [[Austrian Green Party|Greens]]. In this election, however, many conservative voters stayed at home, and this (together with Fischer's high personal popularity) was the reason for the lower number of votes for Ferrero. The turnout of slightly above 70% of registered voters was considered low by Austrian standards.
+
+{{Election results
+|cand1=[[Heinz Fischer]]|party1=[[Social Democratic Party of Austria]]|votes1=2166690
+|cand2=[[Benita Ferrero-Waldner]]|party2=[[Austrian People's Party]]|votes2=1969326
+|invalid=182423
+|electorate=6030982
+|source=[https://www.bmi.gv.at/412/Bundespraesidentenwahlen/Bundespraesidentenwahl_2004/files/bpwahl04_ErgE.pdf Ministry of Interior]
+}}
+
+=== By state ===
+{|class="wikitable sortable" style=text-align:right
+!align=left|State
+!align=left|[[Heinz Fischer|Fischer]]
+!align=left|[[Benita Ferrero-Waldner|Ferrero-Waldner]]
+!align=left|Electorate
+!align=left|Votes
+!align=left|Valid votes
+!align=left|Invalid votes
+|-
+|align=left|[[Burgenland]]||'''101,605'''||83,731||219,495||192,524||185,336||7,188
+|-
+|align=left|[[Lower Austria]]||'''468,504'''||459,143||1,182,362||972,769||927,647||45,122
+|-
+|align=left|[[Vienna]]||'''453,420'''||238,586||1,121,111||712,968||692,006||20,962
+|-
+|align=left|[[Carinthia]]||130,122||'''145,659'''||431,803||287,103||275,781||11,322
+|-
+|align=left|[[Steiermark]]||'''312,328'''||297,978||935,735||637,115||610,306||26,809
+|-
+|align=left|[[Upper Austria]]||'''372,759'''||337,394||1,030,703||742,714||710,153||32,561
+|-
+|align=left|[[Salzburg (state)|Salzburg]]||106,108||'''129,375'''||370,684||244,779||235,483||9,296
+|-
+|align=left|[[Tyrol (state)|Tirol]]||140,874||'''185,822'''||493,957||344,592||326,696||17,896
+|-
+|align=left|[[Vorarlberg]]||56,705||'''66,445'''||245,132||133,688||123,150||10,538
+|-
+|align=left colspan=9|Source: [http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/FIREF1994_Display&node=0&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/FIREF1994_Display_C1&top=yes European Election Database] {{Webarchive|url=https://web.archive.org/web/20210624200112/http://eed.nsd.uib.no/webview/index.jsp?study=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfStudy%2FFIREF1994_Display&node=0&mode=cube&v=2&cube=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfCube%2FFIREF1994_Display_C1&top=yes |date=2021-06-24 }}
+|}
+
+{{Austrian elections}}
+{{Austrian presidential elections}}
+
+[[Category:Presidential elections in Austria]]
+[[Category:2004 elections in Austria|President]]
+[[Category:April 2004 in Europe|Austria]]

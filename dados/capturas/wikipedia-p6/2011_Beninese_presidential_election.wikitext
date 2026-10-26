@@ -1,0 +1,71 @@
+{{Short description|Re-election of Yayi Boni}} <!-- "none" is preferred when the title alone is adequate; see [[WP:SDNONE]] -->
+{{Infobox election
+| country = Benin
+| type = presidential
+| previous_election = 2006 Beninese presidential election
+| previous_year = 2006
+| next_election = 2016 Beninese presidential election
+| next_year = 2016
+| election_date = 13 March 2011
+| registered = 3,668,558
+| turnout = 84.82%
+
+| image1 = Yayi Boni.jpg
+| nominee1 = '''[[Yayi Boni]]'''
+| party1 = Independent politician
+| popular_vote1 = '''1,579,550'''
+| percentage1 = '''53.14%'''
+
+| image2 = {{CSS image crop|Image = Adrien Houngbédji, President of the Beninese National Assembly, March 2019.jpg|bSize =300|cWidth=125|cHeight=150|oTop=0|oLeft=90}}
+| nominee2 = [[Adrien Houngbédji]]
+| party2 = Democratic Renewal Party (Benin)
+| popular_vote2 = 1,059,396
+| percentage2 = 35.64%
+| map = [[File:2011 Benin Presidential election.svg|250px]]
+| map_caption = Results by department<br> {{col-start}} {{col-2}} '''Boni'''{{legend|#c6c6c6|50-60%}} {{legend|#a9a9a9|60-70%}} {{legend|#8d8d8d|70-80%}} {{legend|#737373|80-90%}} {{col-2}}'''Houngbédji''' {{legend|#ffe169|50-60%}} {{legend|#edc531|70-80%}} {{col-end}}
+
+| title = [[President of Benin|President]]
+| before_election = [[Yayi Boni]]
+| before_party = Independent politician
+| after_election = [[Yayi Boni]]
+| after_party = Independent politician
+}}{{Politics of Benin}}
+
+Presidential elections were held in [[Benin]] on 13 March 2011 after being postponed twice from 27 February and 6 March 2011.<ref>{{Cite news|date=2011-03-05|title=Benin delays presidential election for second time|language=en-GB|work=BBC News|url=https://www.bbc.com/news/world-africa-12654718|access-date=2023-01-05}}</ref> Incumbent President [[Yayi Boni]] ran for re-election against thirteen other candidates, including former [[National Assembly of Benin|National Assembly]] head and political veteran [[Adrien Houngbédji]] and [[Abdoulaye Bio-Tchané]], president of the [[West African Development Bank]].<ref>[http://www.nation.co.ke/News/africa/-/1066/1105602/-/12hp419/-/ Benin postpones presidential vote to March 6] The Nation, 11 February 2011</ref> He won 53.18% of the vote, enough to win a second term without a run-off. It is the first time since the restoration of democracy in Benin that a candidate has won the presidency in a single round. A [[Two-round system|second round run-off]] would have been held on 27 March 2011 if it had been necessary.<ref>{{Deprecated archive|url=https://archive.today/20130124202914/http://www.google.com/hostednews/afp/article/ALeqM5hnjPTXROutdXTscwaJ3aldKuFGSw?docId=CNG.b805aff6c27f0198bb74cd3263c88566.4b1|title=Benin votes for president in twice-delayed election}} AFP, 12 March 2011</ref>
+
+==Candidates==
+===Adrien Houngbédji===
+[[Adrien Houngbédji]], leader of the [[Democratic Renewal Party (Benin)|Democratic Renewal Party]] and runner-up to Boni in 2006, pledged to increase employment in the country's agriculture sector by investing 14 billion [[CFA francs]] ($28 million) in buying tractors and other heavy equipment for Beninese farmers. He also pledged to create an agricultural bank and lower the national income tax.<ref>{{Cite news|date=2011-01-13|title=Benin Opposition Candidate Pledges to Focus Policy on Farming|language=en|work=Bloomberg.com|url=https://www.bloomberg.com/news/articles/2011-01-13/benin-opposition-candidate-pledges-to-focus-policy-on-farming|access-date=2023-01-05}}</ref>
+
+==Results==
+{{Election results
+|cand1=[[Yayi Boni]]|party1=Independent|votes1=1579550
+|cand2=[[Adrien Houngbédji]]|party2=[[Democratic Renewal Party (Benin)|Democratic Renewal Party]]|votes2=1059396
+|cand3=[[Abdoulaye Bio-Tchané]]|party3=Independent|votes3=182484
+|cand4=Salifou Issa|party4=[[Union for Relief]]|votes4=37219
+|cand5=Christian Enock Lagnidé|party5=Independent|votes5=19221
+|cand6=François Janvier Yahouédéhou|party6=[[Patriotic Revival Party]]|votes6=16591
+|cand7=Jean-Yves Sinzogan|party7=Independent|votes7=13561
+|cand8=[[Marie-Elise Gbèdo]]|party8=Independent|votes8=12017
+|cand9=Victor Prudent Topanou|party9=Party for Republican Union|votes9=11516
+|cand10=Késsilé Tchala Saré|party10=Independent|votes10=9469
+|cand11=Cyr Kouagou M'po|party11=Independent|votes11=9285
+|cand12=[[Antoine Dayori]]|party12=[[Hope Force]]|votes12=8426
+|cand13=Salomon Joseph Ahissou Biokou|party13=Independent|votes13=7893
+|cand14=[[Joachim Dahissiho]]|party14=Independent|votes14=5817
+|invalid=139388
+|electorate=3668558
+|source=[http://africanelections.tripod.com/bj.html African Elections Database]
+}}
+
+==Protests==
+A series of protests and rioting hit the nation after growing opposition amid street protests against the results and popular protests eventually persuaded throughout the country. Countrywide opposition protests were held amid shootings and strikes in [[Cotonou]] and other cities. 1 was killed in the clashes and protests eventually dwindled.
+
+==References==
+{{reflist}}
+
+{{Beninese elections}}
+
+[[Category:Presidential elections in Benin]]
+[[Category:2011 elections in Africa|Benin]]
+[[Category:2011 in Benin|Presidential]]

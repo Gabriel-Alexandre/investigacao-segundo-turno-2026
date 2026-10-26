@@ -1,0 +1,1108 @@
+{{Short description|none}}
+{{More footnotes needed|date=February 2012}}
+{{Use dmy dates|date=March 2022}}
+{{Infobox election
+| country = Chile
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| turnout = 87.67% (first round) {{decrease}} 2.28[[percentage point|pp]]<br>87.12% (second round) {{decrease}} 3.51[[percentage point|pp]]
+
+| type = presidential
+| previous_election = 1999–2000 Chilean presidential election
+| previous_year = {{nowrap|1999–2000}}
+| next_election = 2009–10 Chilean general election
+| next_year = {{nowrap|2009–10}}
+| election_date = 11 December 2005 (first round)<br />{{nowrap|15 January 2006 (second round)}}
+
+| image1 = Bachelet CESFAM Clotario Blest Maipu 2007.jpg
+| candidate1 = '''[[Michelle Bachelet]]'''
+| party1 = Socialist Party of Chile
+| alliance1 = Concertación
+| color1 = FFA500
+| popular_vote1 = '''3,723,019'''
+| percentage1 = '''53.50%'''
+
+| image2 = Sebastián Piñera Echenique.jpg
+| candidate2 = [[Sebastián Piñera]]
+| party2 = National Renewal (Chile)
+| alliance2 = Alliance (Chile)
+| color2 = 4682B4
+| popular_vote2 = 3,236,394 	
+| percentage2 = 46.50%
+
+|map_image = {{switcher|[[File:Chile 2005 presidential election first round.svg|275px]]|First round results by commune|[[File:Chile 2006 presidential election runoff.svg|275px]]|Second round results by commune|default=2}}
+
+| title =President
+| before_election =[[Ricardo Lagos]]
+| before_party = Party for Democracy (Chile)
+| after_election =[[Michelle Bachelet]]
+| after_party = Socialist Party of Chile
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| previous_election  = [[2001 Chilean parliamentary election|2001]]
+| next_election = [[2009–10 Chilean general election|2009]]
+| seats_for_election = All 120 seats in the [[Chamber of Deputies of Chile|Chamber of Deputies]]
+| majority_seats = 61
+| election_date = 11 December 2005
+| noleader = yes
+
+| party1 = Concertación
+| seats1 = 65
+| percentage1 = 51.76
+| last_election1 = 62
+
+| party2 = [[Alliance (Chile)|Alliance]]
+| seats2 = 54
+| percentage2 = 38.72
+| last_election2 = 57
+
+| party3 = [[Independent Regionalist Force|FRI]]
+| seats3 = 1
+| percentage3 = 1.17
+| last_election3 = 0
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Senate
+| previous_election  = [[2001 Chilean parliamentary election|2001]]
+| next_election = [[2009–10 Chilean general election|2009]]
+| seats_for_election = 20 of 38 seats in the [[Senate of Chile|Senate]]
+| election_date = 11 December 2005
+| noleader = yes
+
+| party1 = Concertación
+| seats1 = 20
+| percentage1 = 51.32
+| last_election1 = 20
+
+| party5 = [[Alliance (Chile)|Alliance]]
+| color5 = #4682B4
+| seats5 = 17
+| percentage5 = 37.25
+| last_election5 = 17
+}}}}}}
+}}{{Politics of Chile}}
+
+General elections were held in [[Chile]] on Sunday, 11 December 2005 to elect the president and members of the [[National Congress of Chile|National Congress]]. None of the four presidential candidates received an absolute majority, leading to a runoff election between the top two candidates — [[Michelle Bachelet]] from the [[Coalition of Parties for Democracy]] and [[Sebastián Piñera]] from [[National Renewal (Chile)|National Renewal]] — on Sunday, 15 January 2006. Bachelet was victorious with 53.49% of the vote. She succeeded [[President of Chile|President]] [[Ricardo Lagos]] on 11 March 2006, for a period of four years, after [[National Congress of Chile|Congress]] reformed the [[Chilean Constitution of 1980|Constitution]] in September 2005 and reduced the term from six years.
+
+==Electoral system==
+The president was elected using the [[two-round system]]. All of the 120 seats in the [[Chamber of Deputies of Chile|Chamber of Deputies]] were contested, while 20 out of 38 seats in the [[Senate of Chile|Senate]] were up for election (even-numbered [[Regions of Chile|regions]] and the [[Santiago Metropolitan Region|metropolitan]] region). Deputies serve for a period of four years, while senators serve for a period of eight years. Reelection is permitted.
+
+A unique binomial system was used for election of Chamber of Deputies. These system rewards coalition slates. Each coalition could run two candidates for each electoral district's two Chamber seats. Typically, the two largest coalitions in a district divided the seats, one each, among themselves. Only if the leading coalition ticket out-polls the second-place coalition by a margin of more than two-to-one did the winning coalition gain both seats. with seats allocated using the simple quotient.<ref>{{Cite journal |last=Pastor |first=Daniel |date=2004 |title=Origins of the Chilean Binominal Election System |url=https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-090X2004000100002 |journal=Revista de ciencia política (Santiago) |volume=24 |issue=1 |doi=10.4067/S0718-090X2004000100002 |issn=0718-090X|doi-access=free }}</ref>
+
+==Presidential candidates==
+===Michelle Bachelet (Socialist Party of Chile)===
+Bachelet, who led in every major poll, served as Health Minister before President Lagos named her as Chile's first female Defense Minister in 2002. She was supported by the [[Coalition of Parties for Democracy]], which has governed Chile since 1990. The coalition groups four parties: the [[Christian Democratic Party of Chile|Christian Democratic Party]] (PDC), the [[Party for Democracy (Chile)|Party for Democracy]] (PPD), the [[Socialist Party of Chile|Socialist Party]] (PS), and the [[Social Democrat Radical Party]] (PRSD).<!--
+
+[[File:Debatehualpen.jpg|thumb|left|Michelle Bachelet (L) and Soledad Alvear (R) hold their first national primary debate in [[Concepción, Chile|Greater Concepción]], [[Bío-Bío Region]], on 27 April 2005]] // Commenting out image with no source/bad FairUse claim-->
+
+Up until May 2005 two candidates vied for the coalition's nomination: [[Soledad Alvear]] (PDC) and [[Michelle Bachelet]] (PS). A primary was scheduled to be held on 31 July 2005, to choose the nominee. Political polls in Chile indicated that either candidate would trounce the right-wing Alliance nominee [[Joaquín Lavín]] in a two-person race. The political atmosphere changed, however, when another ''Alianza'' candidate came to the scene: businessman [[Sebastián Piñera]] from the center-right [[National Renewal (Chile)|National Renewal]]. This led, among other reasons, to the withdrawal of [[Soledad Alvear]] from the ''Concertación'' nomination on 24 May 2005.
+
+===Tomás Hirsch (Humanist Party)===
+Hirsch, a Humanist, ran as his party's nominee for president for 1999 obtaining 0.5%. On this election he ran with the support of the political pact [[Juntos Podemos Más]] (''Together We Can Do More''), which is made up mainly of the legally constituted [[Communist Party of Chile|Communist]] and [[Humanist Party of Chile|Humanist]] parties plus other political groups and social organizations. In previous elections the candidates presented independently by the pact's parties were consistently in third place, behind the two major coalitions, and holding poll numbers in the single-digit level.
+
+To elect a single candidate a national public survey was held on 28 May 2005. On 5 June 2005, an assembly elected Humanist [[Tomás Hirsch]] as their final candidate. Other pre-candidates included: [[Julián Alcayaga]] ([[Committee for the Defense of Copper]]) and [[Nicolás García (politician)|Nicolás García]] ([[Block for Socialism]]). Two candidates withdrew before the survey and gave their support to Hirsch: [[Tomás Moulian]] (Communist) and [[Manuel Jacques]] ([[Christian Left Party (Chile)|Christian Left]]). One candidate withdrew before the assembly: [[Jorge Pavez]] ([[Social Force]]).
+
+===Joaquín Lavín (Independent Democratic Union)===
+Lavín ran as the Alliance's nominee for president in 1999, losing in a tight 2000 runoff to Lagos. Considered for a long time prior to the 2005 election as the Alliance's unique candidate, as the contest drew nearer, however, his public persona began to lose credibility, perhaps due to a mediocre mayorship of the Santiago municipality the previous years,{{citation needed|date=November 2017}} and his candidacy began to lose steam, to the point that it was called into question. RN, the Alliance's other party, decided to compete with Lavín with a candidate of their own (Piñera), breaking up the Alliance's unity in the election.
+
+===Sebastián Piñera (National Renewal)===
+Piñera was proclaimed a candidate by the National Renewal party on 14 May 2005. His nomination caused discomfort within the [[Independent Democratic Union]] (UDI—its fellow coalition party member), as both parties were supposed to support Lavín as the single coalition candidate. A primary proposed by UDI to elect a single candidate representing the Alliance was rejected by RN. Piñera's nomination was welcomed by the public and won quick support in opinion polls.
+
+===Rejected candidacy===
+The independent [[Mapuche]] candidate [[Aucán Huilcamán]] registered his nomination on 12 September, but it was rejected three days later by the Electoral Commission (''Servicio Electoral'') due to his failure to obtain the minimum number of signatures required by law for an independent candidacy. Huilcamán appealed using the argument that in the past parliamentary election there was a law created specifically to help the candidates of the Christian Democracy Party re-register their candidacies. After the support given to Huilcamán by other candidates, the government sent a bill to Congress, with immediate discussion, to extend the time of registration; a bill that would have also helped 17 other candidacies that were rejected by the Electoral Service. Nonetheless the bill was rejected by a lack of [[quorum]], denying Huilcamán a possible place in the ballot.
+
+==Parliamentary election==
+The Chamber of Deputies prior to this election was composed of 62 CPD deputies (23 [[Christian Democratic Party of Chile|Christian Democrats]], 20 [[Party for Democracy (Chile)|PPD]], ten [[Socialist Party of Chile|Socialists]], six [[Radical Social Democratic Party|PRSD]] and three independents), 57 APC deputies (31 [[Independent Democratic Union|UDI]], 18 [[National Renewal (Chile)|RN]] and eight independents) and one independent (off-pact).
+
+The Senate prior to this election was composed of 38 directly elected senators and nine non-elected senators (institutional senators, or senators for life). Among the elected, 20 seats are held by the CPD (eleven Christian Democrats, five Socialists, three PPD and one PRSD) and 18 by the APC (six independents, six UDI and six RN). A constitutional reform in 2005 eliminated non-elected senators starting on 11 March 2006, the day the newly elected senators were sworn in.
+
+Of the Senate seats being contested, eleven were held by the CPD (ten Christian Democrats and one Socialist) and nine by the APC (four independents, three UDI and two RN).
+
+==Campaign==
+===Debates===
+There were two scheduled debates between the presidential candidates during the first round, both including all four candidates. A third televised debate was dismissed by the respective campaign teams. However, during the second debate, Tomás Hirsch said he was open to a third debate.
+
+The first debate, titled ''Foro Presidencial: Chile 2005'', organized by the Latin American station [[CNN en Español]] and the local [[Canal 13 (Chile)|Canal 13]], took place on 19 October, at 10 p.m., at Espacio Riesco in [[Santiago, Chile|Santiago]]. It ran for one hour, giving each candidate ten minutes to answer seven questions, giving priority to national issues. There was no studio audience. It was hosted by Glenda Umaña (CNN en Español) and Constanza Santa María (Canal 13).
+<!-- Unsourced image removed: [[File:Chilean presidential election 2005 second debate.jpg|thumb|left|Candidates during the second televised debate]] -->
+
+The second debate took place on 16 November at 10 p.m., at the CasaPiedra venue in Santiago. It was organized by Anatel (National Television Association), and was broadcast by [[Canal 13 (Chile)|Canal 13]], [[TVN (Chile)|TVN]], [[Megavisión]] and [[Chilevisión]], with TVN in charge of production. Running for one hour and 40 minutes, a question was asked to each candidate by a panel of four journalists. The four candidates were seated behind desks on stage, instead of standing at podiums as they had done in the first debate.
+
+Prior to the second round, Bachelet and Piñera held a televised debate on 4 January 2006, which was organized by Anatel and broadcast by the four main over-the-air television channels. A Time Research poll showed that Bachelet was the winner of the debate with 49%, against 41% for Piñera. On the other hand, another poll, by [[El Mercurio]]-Opina, showed that Piñera won the debate with 43.3% of the preferences against 42.9% for Bachelet.
+
+Piñera offered Bachelet to hold a second debate before the election, to discuss regional issues, but this was rejected by Bachelet's campaign team. Bachelet also turned down a radio debate with Piñera.
+
+==Opinion polls==
+[[File:Chilean presidential election 2005 June 2005 opinion polls.png|thumb|250px|June/July 2005 opinion poll results]]
+[[File:Chilean presidential election 2005 October November 2005 opinion polls.png|thumb|250px|October/November 2005 opinion poll results]]
+[[File:Chilean runoff presidential election 2006 January opinion polls.png|thumb|250px|December 2005/January 2006 opinion poll results]]
+
+Opinion polls released after Sebastián Piñera's entrance and Soledad Alvear's withdrawal showed Michelle Bachelet leading the right-wing candidates (Piñera and Joaquín Lavín) by a wide margin, but below the 50% plus 1 vote needed to win the election, a situation that would lead to a runoff in which, according to the same polls, she would comfortably defeat any of the two right-wing candidates. Some analysts commented that in some of these polls Bachelet would indeed have obtained an absolute majority in the first round, if blanks were discarded and undecided votes were evenly distributed among candidates. However, later opinion polls released nearer the election showed a decline of Bachelet in favor of Piñera and Tomás Hirsch, showing more clearly that the election would be decided in a runoff.
+
+The first opinion poll released after the first round, published by [[El Mercurio]]-Opina on 18 December, had Bachelet with 42.8%, Piñera with 37.5% and 19.7% undecided. Later opinion polls showed similar results, except for one poll showing Piñera above Bachelet by 1%. The polls released showed on average that Bachelet maintained an advantage over Piñera above 5%, but with a large number of voters (18%) still undecided or that would not declare a preference. If this last percentage was removed from the vote, then Bachelet, the polls showed, would have won the presidency by a margin above 7%, which was accurate with the final results of the election.
+
+==Results==
+===President===
+[[File:Strength of Bachelets vote by region in 2006 runoff.png|thumb|450px|right|Strength of Bachelet's vote by [[Regions of Chile|administrative region]]. A deeper magenta indicates a higher percentage of the vote obtained by Bachelet in that region.]]
+
+The first government announcement regarding election results came at 6:30&nbsp;p.m. local time (21:30 GMT), and included information from around 12% of polling stations counted. Subsequent preliminary results were announced during the day by the Interior Ministry undersecretary and published on a special Internet site. These results indicated that the election was to be decided in a runoff on 15 January 2006, in which Michelle Bachelet would face Sebastián Piñera. Official and final results, validated by the Electoral Tribunal (Tricel), were published on the ''Diario Oficial'' ([[official gazette]]) on 27 December 2005, and made the runoff election official.
+
+On election day, at 9:30&nbsp;p.m. local time, before the third preliminary results were announced, Joaquín Lavín conceded a second-place defeat in the election and said he would support Sebastián Piñera in the runoff election. Later in the day, JPM candidate Tomás Hirsch said he would nullify his vote in the upcoming runoff; an opinion which was objected by the pact's Communist wing, which said they would support Bachelet if five proposals delivered to her were accepted and incorporated into the candidate's government program; these proposals dealt with changing the electoral system and granting workers more rights.
+
+The runoff election between Michelle Bachelet and Sebastián Piñera took place on 15 January 2006.
+
+Final results were announced on 30 January 2006, by the Electoral Tribunal. They indicated that Michelle Bachelet won the presidency with 53.49% of the votes classified as valid, 51.98% of the total votes cast, and 45.28% support of registered voters.
+
+Sebastián Piñera conceded defeat immediately following a government announcement made on election day that included results from 97.52% of ballot boxes counted.
+
+{{Election results
+|cand1=[[Michelle Bachelet]]
+|cand2=[[Sebastián Piñera]]
+|cand3=[[Joaquín Lavín]]
+|cand4=[[Tomás Hirsch]]
+|party1=[[Concertación]] ([[Socialist Party of Chile|PS]])
+|party2=[[National Renewal (Chile)|National Renewal]]
+|party3=[[Independent Democratic Union]]
+|party4=[[Juntos Podemos Más]] ([[Humanist Party (Chile)|PH]])
+|votes1=3190691
+|votes2=1763694
+|votes3=1612608
+|votes4=375048
+|invalid=265237
+|electorate=8220897
+|votes1_2=3723019
+|votes2_2=3236394
+|invalid2=202932
+|electorate2=8220897
+|source=[https://historico.servel.cl/SitioHistorico/index2005_pres.htm/ SERVEL (first round)] [https://historico.servel.cl/SitioHistorico/index2005_p2v.htm/ SERVEL (second round)]
+}}
+
+===Senate===
+{{Election results
+|image=[[File:Chile Senado 2005.svg]]
+|seattype1=Won|seattype2=Not up|seattype3=Total|seattype4=+/–
+|alliance1=[[Concertación]]|aspan1=6|party1=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes1=1418089|st1t1=5|st2t1=2|st3t1=7
+|party2=[[Socialist Party of Chile|Socialist Party]]|votes2=576045|st1t2=4|st2t2=4|st3t2=8
+|party3=[[Party for Democracy (Chile)|Party for Democracy]]|votes3=512296|st1t3=1|st2t3=2|st3t3=3
+|party4=[[Radical Party of Chile (2018)|Social Democratic Radical Party]]|votes4=114515|st1t4=1|st2t4=1|st3t4=2
+|party5=Independents|votes5=38053|st1t5=0|st2t5=0|st3t5=0
+|atotal6=2658998|ast1t6=11|ast2t6=9|ast3t6=20
+|alliance7=[[Alliance (Chile)|Alliance]]|aspan7=4|party7=[[Independent Democratic Union]]|votes7=1028925|st1t7=5|st2t7=4|st3t7=9
+|party8=[[National Renewal (Chile)|National Renewal]]|votes8=515185|st1t8=3|st2t8=5|st3t8=8
+|party9=Independents|votes9=233180|st1t9=0|st2t9=0|st3t9=0
+|atotal10=1777290|ast1t10=8|ast2t10=9|ast3t10=17
+|alliance11=[[Juntos Podemos Más]]|aspan11=4|party11=[[Communist Party of Chile|Communist Party]]|votes11=104687|st1t11=0|st2t11=0|st3t11=0
+|party12=[[Humanist Party (Chile)|Humanist Party]]|votes12=69927|st1t12=0|st2t12=0|st3t12=0
+|party13=Independents|votes13=111460|st1t13=0|st2t13=0|st3t13=0
+|atotal14=286074|ast1t14=0|ast2t14=0|ast3t14=0
+|alliance15=[[Independent Regionalist Force]]|aspan15=3|party15=[[National Alliance of Independents]]|votes15=13076|st1t15=0|st2t15=0|st3t15=0
+|party16=Independents|votes16=17268|st1t16=0|st2t16=0|st3t16=0
+|atotal17=60688|ast1t17=0|ast2t17=0|ast3t17=0
+|alliance18=Independents|votes18=18275|st1t18=1|st2t18=0|st3t18=1
+|invalid=411243
+|electorate=5863704
+|source=[http://electionresources.org/cl/senators.php?election=2005&region= Election Resources], [http://psephos.adam-carr.net/countries/c/chile/chilesenate2005.txt Psephos]
+}}
+
+===Chamber of Deputies===
+{{Election results
+|image=[[File:Chile_Camara de Diputados (colores actualizados)_2005.svg]]
+|alliance1=[[Concertación]]|aspan1=6|party1=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes1=1370501|seats1=20|sc1=–3
+|party2=[[Party for Democracy (Chile)|Party for Democracy]]|votes2=1017956|seats2=21|sc2=+1
+|party3=[[Socialist Party of Chile]]|votes3=663561|seats3=15|sc3=+5
+|party4=[[Radical Party of Chile (2018)|Social Democratic Radical Party]]|votes4=233564|seats4=7|sc4=+1
+|party5=Independents|votes5=131625|seats5=2|sc5=–1
+|atotal6=3417207|aseats6=65|sc6=''+3''
+|alliance7=[[Alliance (Chile)|Alliance]]|aspan7=4|party7=[[Independent Democratic Union]]|votes7=1475901|seats7=33|sc7=+2
+|party8=[[National Renewal (Chile)|National Renewal]]|votes8=932422|seats8=19|sc8=+1
+|party9=Independents|votes9=148063|seats9=2|sc9=–6
+|atotal10=2556386|aseats10=54|sc10=''–3''
+|alliance11=[[Juntos Podemos Más]]|aspan11=4|party11=[[Communist Party of Chile]]|votes11=339547|seats11=0|sc11=0
+|party12=[[Humanist Party (Chile)|Humanist Party]]|votes12=102842|seats12=0|sc12=0
+|party13=Independents|votes13=46229|seats13=0|sc13=
+|atotal14=488618|aseats14=0|sc14=''New''
+|alliance15=[[Independent Regionalist Force]]|aspan15=4|party15=[[Regionalist Action Party of Chile]]|votes15=26698|seats15=1|sc15=New
+|party16=[[National Alliance of Independents]]|votes16=20191|seats16=0|sc16=New
+|party17=Independents|votes17=30324|seats17=0|sc17=
+|atotal18=77213|aseats18=1|sc18=''New''
+|alliance19=Independents|votes19=62387|seats19=0|sc19=–1
+|total_sc=0
+|invalid=605540
+|electorate=8220897
+|source=[https://historico.servel.cl/SitioHistorico/index2005_dipu.htm SERVEL]
+}}
+
+===Elected members===
+Elected candidates appear in bold. (R) indicates candidates running for re-election. Strikethrough names indicate candidacies rejected by the Electoral Service (Servel).
+
+====Chamber of Deputies====
+{| class="wikitable" style="text-align:center"
+|- bgcolor="#ececec"
+! [[Electoral division of Chile|Dist.]]
+! [[Concertación]]
+! [[Alliance (Chile)|Alliance]]
+! [[Juntos Podemos Más]]
+! [[Independent Regionalist Force]]
+! Independents
+|-
+| rowspan=2 | 1
+| Rolando Caviedes ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | Ximena Valcarce ([[National Renewal (Chile)|RN]])
+| Juan Riveros ([[Communist Party of Chile|PC]])
+| Bernardo Olivos ([[Regionalist Action Party of Chile|PAR]])
+| rowspan=2 | Nino Baltolú
+|-
+! style="background: #9cf" | {{small|(R)}} Iván Paredes ([[Socialist Party of Chile|PS]])
+| {{small|(R)}} Rosa González ([[Independent Democratic Union|UDI]])
+| Ricardo Pacheco ([[Humanist Party (Chile)|PH]])
+| Wanda Clemente (Ind.)
+|-
+| rowspan=2 | 2
+| Raúl Bagioli ([[Christian Democratic Party of Chile|PDC]])
+| Espártago Ferrari ([[National Renewal (Chile)|RN]])
+| Pedro Cisterna ([[Communist Party of Chile|PC]])
+! style="background: #9cf" | Marta Isasi ([[Regionalist Action Party of Chile|PAR]])
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Fulvio Rossi ([[Socialist Party of Chile|PS]])
+| Julio Lagos ([[Independent Democratic Union|UDI]])
+| Sara Chávez (Ind.)
+| <s>Eduardo Alberto Prieto ([[Regionalist Action Party of Chile|PAR]])</s>
+|-
+| rowspan=2 | 3
+| {{small|(R)}} Waldo Mora ([[Christian Democratic Party of Chile|PDC]])
+| Raúl Salinas ([[National Renewal (Chile)|RN]])
+| Daniel Ramírez ([[Communist Party of Chile|PC]])
+| Jorge Godoy (Ind.)
+| rowspan=2 | <s>Esteban Velásquez</s>
+|-
+! style="background: #9cf" | Marcos Espinosa ([[Radical Social Democratic Party|PRSD]])
+! style="background: #9cf" | Felipe Ward ([[Independent Democratic Union|UDI]])
+| Francisco Avendaño ([[Humanist Party (Chile)|PH]])
+| Miguel Urrelo (Ind.)
+|-
+| rowspan=2 | 4
+! style="background: #9cf" | {{small|(R)}} Pedro Araya ([[Christian Democratic Party of Chile|PDC]])
+| Daniel Guevara (Ind.)
+| Luis Sagredo ([[Communist Party of Chile|PC]])
+| Raúl Zepeda (Ind.)
+| rowspan=2 | ''none''
+|-
+| Hernán Rivera (Ind.)
+! style="background: #9cf" | {{small|(R)}} Manuel Rojas ([[Independent Democratic Union|UDI]])
+| Pedro Luque ([[Humanist Party (Chile)|PH]])
+| Rosa Pérez (Ind.)
+|-
+| rowspan=2 | 5
+| Erick Villegas ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | René Aedo ([[National Renewal (Chile)|RN]])
+| Gastón Quezada ([[Communist Party of Chile|PC]])
+| rowspan=2 | Jorge Cuello ([[Regionalist Action Party of Chile|PAR]])
+| rowspan=2 | <s>Carlos Vilches</s>
+|-
+! style="background: #9cf" | {{small|(R)}} Antonio Leal ([[Party for Democracy (Chile)|PPD]])
+| Alberto Calvo ([[Independent Democratic Union|UDI]])
+| Carlos Toro ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 6
+! style="background: #9cf" | {{small|(R)}} Jaime Mulet ([[Christian Democratic Party of Chile|PDC]])
+| Berta Torres ([[National Renewal (Chile)|RN]])
+| Isabel Irribarren ([[Communist Party of Chile|PC]])
+| rowspan=2 | Cristián Tapia (Ind.)
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Alberto Robles ([[Radical Social Democratic Party|PRSD]])
+| José Luis Uriarte ([[Independent Democratic Union|UDI]])
+| Lorena Ortega ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 7
+| Ricardo Cifuentes ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | {{small|(R)}} Mario Bertolino ([[National Renewal (Chile)|RN]])
+| Eric Campos ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Marcelo Díaz ([[Socialist Party of Chile|PS]])
+| Francisco Eguiguren ([[Independent Democratic Union|UDI]])
+| Luis Vega ([[Communist Party of Chile|PC]])
+|-
+| rowspan=2 | 8
+! style="background: #9cf" | {{small|(R)}} Patricio Walker ([[Christian Democratic Party of Chile|PDC]])
+| Alberto Gallardo ([[National Renewal (Chile)|RN]])
+| Miguel Solís ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Francisco Encina ([[Socialist Party of Chile|PS]])
+| Fernando Cordero ([[Independent Democratic Union|UDI]])
+| Mario González ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 9
+! style="background: #9cf" | Renán Fuentealba ([[Christian Democratic Party of Chile|PDC]])
+| Fernando Goncalves ([[National Renewal (Chile)|RN]])
+| Julio Ugas ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | <s>Agapito Santander</s>
+|-
+! style="background: #9cf" | {{small|(R)}} [[Adriana Muñoz (politician)|Adriana Muñoz]] ([[Party for Democracy (Chile)|PPD]])
+| {{small|(R)}} Darío Molina ([[Independent Democratic Union|UDI]])
+| Rubén Ruiz ([[Communist Party of Chile|PC]])
+|-
+| rowspan=2 | 10
+| {{small|(R)}} María Eugenia Mella ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | {{small|(R)}} Alfonso Vargas ([[National Renewal (Chile)|RN]])
+| Daniel Jadué ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Marco Enríquez-Ominami ([[Socialist Party of Chile|PS]])
+| Alfonso Ríos ([[Independent Democratic Union|UDI]])
+| Jaime Romero ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 11
+| {{small|(R)}} Patricio Cornejo ([[Christian Democratic Party of Chile|PDC]])
+| Gaspar Rivas ([[National Renewal (Chile)|RN]])
+| Mario Méndez ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Marco Núñez ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Marcelo Forni ([[Independent Democratic Union|UDI]])
+| Carlos Muñoz ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 12
+| Humberto de la Maza ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | Amelia Herrera ([[National Renewal (Chile)|RN]])
+| Danilo Ahumada ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Juan Bustos ([[Socialist Party of Chile|PS]])
+| Osvaldo Urrutia ([[Independent Democratic Union|UDI]])
+| Martín Ristempart ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 13
+| Álex Avsolomovich ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | Joaquín Godoy ([[National Renewal (Chile)|RN]])
+| Óscar Aroca ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Laura Soto ([[Party for Democracy (Chile)|PPD]])
+| Luis Parot ([[Independent Democratic Union|UDI]])
+| Rafael Henríquez ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 14
+| Raúl Allard ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | Francisco Chahuán ([[National Renewal (Chile)|RN]])
+| Felipe Zavala ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Rodrigo González ([[Party for Democracy (Chile)|PPD]])
+| {{small|(R)}} Gonzalo Ibáñez ([[Independent Democratic Union|UDI]])
+| Luis Aravena (Ind.)
+|-
+| rowspan=2 | 15
+| Osvaldo Badenier ([[Christian Democratic Party of Chile|PDC]])
+| {{small|(R)}} Carlos Hidalgo (Ind.)
+| Maximiliano Miranda ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | Sergio Velasco
+|-
+! style="background: #9cf" | {{small|(R)}} Samuel Venegas ([[Radical Social Democratic Party|PRSD]])
+! style="background: #9cf" | Edmundo Eluchans ([[Independent Democratic Union|UDI]])
+| Aníbal Reyna (Ind.)
+|-
+| rowspan=2 | 16
+! style="background: #9cf" | Gabriel Silber ([[Christian Democratic Party of Chile|PDC]])
+| Peter Retamales ([[National Renewal (Chile)|RN]])
+| [[Carmen Hertz]] ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+| Fanny Pollarolo ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} Patricio Melero ([[Independent Democratic Union|UDI]])
+| Osvaldo Toro ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 17
+| Sergio Espejo ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | Karla Rubilar ([[National Renewal (Chile)|RN]])
+| Jorge Insunza ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} María Antonieta Saa ([[Party for Democracy (Chile)|PPD]])
+| Álvaro Cruzat ([[Independent Democratic Union|UDI]])
+| Juan López ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 18
+! style="background: #9cf" | {{small|(R)}} Carlos Olivares ([[Christian Democratic Party of Chile|PDC]])
+| Pedro Pablo Díaz ([[National Renewal (Chile)|RN]])
+| Óscar Hernández ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Guido Girardi Briere ([[Party for Democracy (Chile)|PPD]])
+| Miguel Schweitzer ([[Independent Democratic Union|UDI]])
+| José Antonio Salinas ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 19
+| Mauricio Castro ([[Christian Democratic Party of Chile|PDC]])
+| Pablo Rochet ([[National Renewal (Chile)|RN]])
+| Germán Llanca (Ind.)
+| rowspan=2 | ''none''
+| rowspan=2 | <s>Alejandro Reyes</s>
+|-
+! style="background: #9cf" | {{small|(R)}} Patricio Hales ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | Claudia Nogueira ([[Independent Democratic Union|UDI]])
+| Nicolás García (Ind.)
+|-
+| rowspan=2 | 20
+| Luis Pareto ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | Roberto Sepúlveda ([[National Renewal (Chile)|RN]])
+| Juan Andrés Lagos ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Álvaro Escobar ([[Party for Democracy (Chile)|PPD]])
+| {{small|(R)}} Mario Varela ([[Independent Democratic Union|UDI]])
+| Valdemar Sanhueza (Ind.)
+|-
+| rowspan=2 | 21
+! style="background: #9cf" | {{small|(R)}} Jorge Burgos ([[Christian Democratic Party of Chile|PDC]])
+| Juan Guillermo Vivado ([[National Renewal (Chile)|RN]])
+| Jaime Gajardo ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+| Patricia Silva ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} Marcela Cubillos ([[Independent Democratic Union|UDI]])
+| Juan Carlos Gálvez ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 22
+| Ricardo Hormazábal ([[Christian Democratic Party of Chile|PDC]])
+| Carmen Ibáñez ([[National Renewal (Chile)|RN]])
+| Claudia Pascual ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Carolina Tohá ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Alberto Cardemil (Ind.)
+| Claudia Manríquez ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 23
+| Clemente Pérez ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | Cristián Monckeberg ([[National Renewal (Chile)|RN]])
+| Antonieta Vera ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+| Leopoldo Sánchez ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Julio Dittborn ([[Independent Democratic Union|UDI]])
+| Carlos Padilla ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 24
+| Marigen Hornkohl ([[Christian Democratic Party of Chile|PDC]])
+| Francisco López ([[National Renewal (Chile)|RN]])
+| Francisco Villa ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Enrique Accorsi ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} María Angélica Cristi ([[Independent Democratic Union|UDI]])
+| Susana Córdova ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 25
+| Marcelo Ortiz ([[Christian Democratic Party of Chile|PDC]])
+| Raquel Argandoña ([[National Renewal (Chile)|RN]])
+| Amaro Labra ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | <s>José Pedro Weinstein</s>
+|-
+! style="background: #9cf" | {{small|(R)}} [[Ximena Vidal]] ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Felipe Salaberry ([[Independent Democratic Union|UDI]])
+| Juan Enrique Prieto ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 26
+! style="background: #9cf" | Gonzalo Duarte ([[Christian Democratic Party of Chile|PDC]])
+| Miguel Navarro ([[National Renewal (Chile)|RN]])
+| Julio Oliva ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | <s>Pedro Ávalos</s>
+|-
+! style="background: #9cf" | {{small|(R)}} Carlos Montes ([[Socialist Party of Chile|PS]])
+| Gustavo Alessandri ([[Independent Democratic Union|UDI]])
+| Raúl Florcita Alarcón ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 27
+| {{small|(R)}} Eliana Caraball ([[Christian Democratic Party of Chile|PDC]])
+| Carlos Contreras ([[National Renewal (Chile)|RN]])
+| Ercides Martínez ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Tucapel Jiménez (Ind.)
+! style="background: #9cf" | {{small|(R)}} Iván Moreira ([[Independent Democratic Union|UDI]])
+| Mónica Quilodrán (Ind.)
+|-
+| rowspan=2 | 28
+| {{small|(R)}} Rodolfo Seguel ([[Christian Democratic Party of Chile|PDC]])
+| Julio Ibarra ([[National Renewal (Chile)|RN]])
+| Eduardo Contreras ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Jorge Insunza ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Darío Paya ([[Independent Democratic Union|UDI]])
+| Claudina Núñez ([[Communist Party of Chile|PC]])
+|-
+| rowspan=2 | 29
+| Teresa Montrone ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | {{small|(R)}} Maximiano Errázuriz ([[National Renewal (Chile)|RN]])
+| Manuel Hernández ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} [[Isabel Allende (politician)|Isabel Allende]] ([[Socialist Party of Chile|PS]])
+| Pablo Desbordes ([[Independent Democratic Union|UDI]])
+| Patricio Bell ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 30
+| {{small|(R)}} Edgardo Riveros ([[Christian Democratic Party of Chile|PDC]])
+| Rosa Oyarce ([[National Renewal (Chile)|RN]])
+| Sergio Castro ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Ramón Farías ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} [[José Antonio Kast]] ([[Independent Democratic Union|UDI]])
+| Tania Figueroa ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 31
+| Francisco Puga ([[Christian Democratic Party of Chile|PDC]])
+| Alberto Haddad ([[National Renewal (Chile)|RN]])
+| Marcela Mallea ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Denise Pascal ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} Gonzalo Uriarte ([[Independent Democratic Union|UDI]])
+| Luis Leoncio Álvarez ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 32
+| Juan Ramón Godoy (Ind.)
+| Luis Díaz ([[National Renewal (Chile)|RN]])
+| Pedro Aravena ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Esteban Valenzuela ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Alejandro García-Huidobro ([[Independent Democratic Union|UDI]])
+| Guido Oyarzún ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 33
+| Carlos Dupré ([[Christian Democratic Party of Chile|PDC]])
+| Félix Ortiz (Ind.)
+| Carlos Poblete ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Alejandro Sule ([[Radical Social Democratic Party|PRSD]])
+! style="background: #9cf" | {{small|(R)}} Eugenio Bauer ([[Independent Democratic Union|UDI]])
+| Sergio Mella ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 34
+! style="background: #9cf" | {{small|(R)}} Alejandra Sepúlveda ([[Christian Democratic Party of Chile|PDC]])
+| Rodrigo Montt (Ind.)
+| José Figueroa ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+| Alba Gallardo ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} Juan Masferrer ([[Independent Democratic Union|UDI]])
+| José Tejo ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 35
+! style="background: #9cf" | Juan Carlos Latorre ([[Christian Democratic Party of Chile|PDC]])
+| César Molfino (Ind.)
+| Patricio Martínez ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+| Rubén Andino ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} Ramón Barros ([[Independent Democratic Union|UDI]])
+| Mauro Pantoja ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 36
+! style="background: #9cf" | Roberto León ([[Christian Democratic Party of Chile|PDC]])
+| Matías Carrozzi ([[National Renewal (Chile)|RN]])
+| Wladimir Pulgar ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | <s>Moisés Lucero</s>
+|-
+| Raúl Bravo ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} Sergio Correa ([[Independent Democratic Union|UDI]])
+| María Eliana Astaburuaga ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 37
+| Christian Suárez ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | Germán Verdugo ([[National Renewal (Chile)|RN]])
+| Edgardo Cáceres ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Sergio Aguiló ([[Socialist Party of Chile|PS]])
+| {{small|(R)}} Pablo Prieto ([[Independent Democratic Union|UDI]])
+| Óscar Vega (Ind.)
+|-
+| rowspan=2 | 38
+! style="background: #9cf" | {{small|(R)}} Pablo Lorenzini ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | {{small|(R)}} Pedro Pablo Álvarez-Salamanca ([[National Renewal (Chile)|RN]])
+| José Oróstica ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+| Roberto Celedón (Ind.)
+| Eduardo Prieto ([[Independent Democratic Union|UDI]])
+| <s>Marcelo Mardones (Ind.)</s>
+|-
+| rowspan=2 | 39
+| Yenny Molina (Ind.)
+! style="background: #9cf" | {{small|(R)}} Osvaldo Palma ([[National Renewal (Chile)|RN]])
+| Mario Ibarra ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Jorge Tarud ([[Party for Democracy (Chile)|PPD]])
+| Christian Chadwick ([[Independent Democratic Union|UDI]])
+| Roberto Gutiérrez ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 40
+| Ulises Urzúa (Ind.)
+| Juan Carlos Muñoz ([[National Renewal (Chile)|RN]])
+| Edgar Cifuentes ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Guillermo Ceroni ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Ignacio Urrutia ([[Independent Democratic Union|UDI]])
+| Juan Carlos Márquez (Ind.)
+|-
+| rowspan=2 | 41
+| Claudio Huepe ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | {{small|(R)}} Rosauro Martínez ([[National Renewal (Chile)|RN]])
+| Cristián Muñoz ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Carlos Abel Jarpa ([[Radical Social Democratic Party|PRSD]])
+| Alejandro Arrau ([[Independent Democratic Union|UDI]])
+| Claudio Ávila (Ind.)
+|-
+| rowspan=2 | 42
+! style="background: #9cf" | Jorge Sabag ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | {{small|(R)}} Nicolás Monckeberg ([[National Renewal (Chile)|RN]])
+| Luis Soto ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | <s>José Roberto Santos</s>
+|-
+| {{small|(R)}} Felipe Letelier ([[Party for Democracy (Chile)|PPD]])
+| René Barba ([[Independent Democratic Union|UDI]])
+| Camilo Cabezas ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 43
+| [[Sergio Micco]] ([[Christian Democratic Party of Chile|PDC]])
+| Frank Sauerbaum ([[National Renewal (Chile)|RN]])
+| Alejandro Sepúlveda ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| Patricio Pinto
+|-
+! style="background: #9cf" | Raúl Súnico ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} Jorge Ulloa ([[Independent Democratic Union|UDI]])
+| Patricia Beltrán ([[Humanist Party (Chile)|PH]])
+| Elicia Herrera
+|-
+| rowspan=2 | 44
+! style="background: #9cf" | {{small|(R)}} José Miguel Ortiz ([[Christian Democratic Party of Chile|PDC]])
+| Francisca Van Rysselberghe (Ind.)
+| Freddy Cabrera ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | Félix González
+|-
+| Maria Angélica Fuentes ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Andrés Egaña ([[Independent Democratic Union|UDI]])
+| Loreto Muñoz ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 45
+| Germán Acuña ([[Christian Democratic Party of Chile|PDC]])
+| Bernardo Ulloa (Ind.)
+| Iván Quintana ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Clemira Pacheco ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | Sergio Bobadilla ([[Independent Democratic Union|UDI]])
+| Isaías Gutiérrez (Ind.)
+|-
+| rowspan=2 | 46
+| Edmundo Salas ([[Christian Democratic Party of Chile|PDC]])
+| Ana Eugenia García Aillón ([[National Renewal (Chile)|RN]])
+| Guillermo Teillier ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Manuel Monsalve ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} Iván Norambuena ([[Independent Democratic Union|UDI]])
+| Jorge Venegas (Ind.)
+|-
+| rowspan=2 | 47
+| Marcelo Urrutia ([[Christian Democratic Party of Chile|PDC]])
+| Gonzalo Arellano ([[National Renewal (Chile)|RN]])
+| Julio Aránguiz ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} José Pérez ([[Radical Social Democratic Party|PRSD]])
+! style="background: #9cf" | Juan Lobos ([[Independent Democratic Union|UDI]])
+| <s>Jorge Monje ([[Humanist Party (Chile)|PH]])</s>
+|-
+| rowspan=2 | 48
+! style="background: #9cf" | Mario Venegas ([[Christian Democratic Party of Chile|PDC]])
+| {{small|(R)}} Francisco Bayo ([[National Renewal (Chile)|RN]])
+| Domingo Marileo ([[Communist Party of Chile|PC]])
+| rowspan=2 | Romnel Edgardo Aravena ([[National Alliance of Independents|ANI]])
+| rowspan=2 | Sofía Painiqueo
+|-
+| Ricardo Navarrete ([[Radical Social Democratic Party|PRSD]])
+! style="background: #9cf" | Gonzalo Arenas ([[Independent Democratic Union|UDI]])
+| Juan Varela (Ind.)
+|-
+| rowspan=2 | 49
+| Víctor Gárate ([[Christian Democratic Party of Chile|PDC]])
+| Cristián Barra ([[National Renewal (Chile)|RN]])
+| Mauricio Teillier ([[Communist Party of Chile|PC]])
+| Julio Villablanca ([[National Alliance of Independents|ANI]])
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Jaime Quintana ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | Enrique Estay ([[Independent Democratic Union|UDI]])
+| Mario Poo (Ind.)
+| Eduardo Díaz (Ind.)
+|-
+| rowspan=2 | 50
+! style="background: #9cf" | {{small|(R)}} Eduardo Saffirio ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | {{small|(R)}} Germán Becker ([[National Renewal (Chile)|RN]])
+| Javier Chávez ([[Communist Party of Chile|PC]])
+| rowspan=2 | Guillermo Allende ([[National Alliance of Independents|ANI]])
+| Sergio Castillo
+|-
+| Carlos González ([[Radical Social Democratic Party|PRSD]])
+| Gonzalo Navarrete ([[Independent Democratic Union|UDI]])
+| Carlos Carter ([[Humanist Party (Chile)|PH]])
+| <s>Luis Seguel</s>
+|-
+| rowspan=2 | 51
+! style="background: #9cf" | {{small|(R)}} Eduardo Díaz (Ind.)
+| Hernán Viguera ([[National Renewal (Chile)|RN]])
+| Antonieta Faúndez ([[Communist Party of Chile|PC]])
+| rowspan=2 | Laura Soto Ibacache ([[National Alliance of Independents|ANI]])
+| rowspan=2 | <s>Fernando Troncoso</s>
+|-
+! style="background: #9cf" | {{small|(R)}} Eugenio Tuma ([[Party for Democracy (Chile)|PPD]])
+| René Fernández ([[Independent Democratic Union|UDI]])
+| <s>Jorge Zambrano ([[Humanist Party (Chile)|PH]])</s>
+|-
+| rowspan=2 | 52
+| Mario Acuña ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | {{small|(R)}} René Manuel García ([[National Renewal (Chile)|RN]])
+| Francisco Painevilo ([[Communist Party of Chile|PC]])
+| rowspan=2 | Miguel Ángel Arteaga ([[National Alliance of Independents|ANI]])
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Fernando Meza ([[Radical Social Democratic Party|PRSD]])
+| Alejandro Martini ([[Independent Democratic Union|UDI]])
+| Pablo González ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 53
+| {{small|(R)}} Exequiel Silva ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | {{small|(R)}} Roberto Delmastro (Ind.)
+| Marcia Klein ([[Communist Party of Chile|PC]])
+| rowspan=2 | Fredi Kirshbom ([[National Alliance of Independents|ANI]])
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Alfonso de Urresti ([[Socialist Party of Chile|PS]])
+| Sebastián Donoso ([[Independent Democratic Union|UDI]])
+| Beatriz Hermosilla (Ind.)
+|-
+| rowspan=2 | 54
+| Ricardo Halabí ([[Christian Democratic Party of Chile|PDC]])
+| Ewald Wittke ([[National Renewal (Chile)|RN]])
+| rowspan=2 | Pedro Ruiz ([[Communist Party of Chile|PC]])
+| Félix Montiel ([[National Alliance of Independents|ANI]])
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Enrique Jaramillo ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Gastón Von Muhlenbrock ([[Independent Democratic Union|UDI]])
+| <s>Guillermo Holtheuer (Ind.)</s>
+|-
+| rowspan=2 | 55
+! style="background: #9cf" | {{small|(R)}} Sergio Ojeda ([[Christian Democratic Party of Chile|PDC]])
+| Beatriz Díaz (Ind.)
+| Patricio Miranda ([[Communist Party of Chile|PC]])
+| rowspan=2 | Jaime Moreira (Ind.)
+| rowspan=2 | ''none''
+|-
+| Fernando Soto ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} Javier Hernández ([[Independent Democratic Union|UDI]])
+| Claudio Soto (Ind.)
+|-
+| rowspan=2 | 56
+| Carlos Tudela ([[Christian Democratic Party of Chile|PDC]])
+| Harry Jurgensen ([[National Renewal (Chile)|RN]])
+| Andrea Oyarzún ([[Communist Party of Chile|PC]])
+| rowspan=2 | Jorge Blaessinger (Ind.)
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | {{small|(R)}} Fidel Espinoza ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} Carlos Recondo ([[Independent Democratic Union|UDI]])
+| Antonio Caileo (Ind.)
+|-
+| rowspan=2 | 57
+! style="background: #9cf" | Patricio Vallespín ([[Christian Democratic Party of Chile|PDC]])
+| Eduardo Becker ([[National Renewal (Chile)|RN]])
+| rowspan=2 | Renato Alvarado ([[Communist Party of Chile|PC]])
+| rowspan=2 | Pablo Muñoz (Ind.)
+| rowspan=2 | ''none''
+|-
+| Sergio Galilea ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | Marisol Turres ([[Independent Democratic Union|UDI]])
+|-
+| rowspan=2 | 58
+! style="background: #9cf" | {{small|(R)}} Gabriel Ascencio ([[Christian Democratic Party of Chile|PDC]])
+| Alejandro Santana ([[National Renewal (Chile)|RN]])
+| Mario Contreras ([[Communist Party of Chile|PC]])
+| rowspan=2 | <s>Minor Braniff (Ind.)</s>
+| rowspan=2 | ''none''
+|-
+| Juan José Cárcamo ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Claudio Alvarado ([[Independent Democratic Union|UDI]])
+| Luis Veloso (Ind.)
+|-
+| rowspan=2 | 59
+| Eduardo Santelices ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | {{small|(R)}} Pablo Galilea ([[National Renewal (Chile)|RN]])
+| Yasna Jara ([[Communist Party of Chile|PC]])
+| rowspan=2 | Mercedes Mayorga (Ind.)
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | René Alinco ([[Party for Democracy (Chile)|PPD]])
+| Max Larraín ([[Independent Democratic Union|UDI]])
+| Walter Ramírez (Ind.)
+|-
+| rowspan=2 | 60
+! style="background: #9cf" | Carolina Goic ([[Christian Democratic Party of Chile|PDC]])
+| René Bobadilla (Ind.)
+| Jeannette Antonin ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | Miodrag Marinovic
+|-
+| Lidia Amarales ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Rodrigo Álvarez ([[Independent Democratic Union|UDI]])
+| Jaime Agurto (Ind.)
+|}
+{{small|Source: Tricel/Servel.}}
+
+====Senate====
+{| class="wikitable" style="text-align: center"
+|- bgcolor="#ececec"
+! [[Electoral division of Chile|Cons.]]
+! [[Concertación]]
+! [[Alliance (Chile)|Alliance]]
+! [[Juntos Podemos Más]]
+! [[Independent Regionalist Force]]
+! Independents
+|-
+| rowspan=2 | 2nd
+| {{small|(R)}} Carmen Frei ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | {{small|(R)}} Carlos Cantero ([[National Renewal (Chile)|RN]])
+| Salvador Barrientos ([[Communist Party of Chile|PC]])
+| Luis Thompson (Ind.)
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | [[José Antonio Gómez Urrutia|José Antonio Gómez]] ([[Radical Social Democratic Party|PRSD]])
+| Cristián Leay ([[Independent Democratic Union|UDI]])
+| José Gabriel Feres ([[Humanist Party (Chile)|PH]])
+| Humberto Zuleta (Ind.)
+|-
+| rowspan=2 | 4th
+! style="background: #9cf" | {{small|(R)}} [[Jorge Pizarro]] ([[Christian Democratic Party of Chile|PDC]])
+| Arturo Longton ([[National Renewal (Chile)|RN]])
+| Luis Aguilera ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+| [[Jorge Arrate]] ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} [[Evelyn Matthei]] ([[Independent Democratic Union|UDI]])
+| Joaquín Arduengo ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 7th
+| {{small|(R)}} [[Andrés Zaldívar]] ([[Christian Democratic Party of Chile|PDC]])
+| Roberto Fantuzzi (Ind.)
+| Gonzalo Rovira (Ind.)
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | [[Guido Girardi]] ([[Party for Democracy (Chile)|PPD]])
+! style="background: #9cf" | {{small|(R)}} Jovino Novoa ([[Independent Democratic Union|UDI]])
+| [[Eduardo Artés]] (Ind.)
+|-
+| rowspan=2 | 8th
+! style="background: #9cf" | [[Soledad Alvear]] ([[Christian Democratic Party of Chile|PDC]])
+| Lily Pérez ([[National Renewal (Chile)|RN]])
+| Manuel Riesco ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+| Gonzalo Martner ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | [[Pablo Longueira]] ([[Independent Democratic Union|UDI]])
+| Efrén Osorio ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 9th
+| Aníbal Pérez ([[Party for Democracy (Chile)|PPD]])
+| Ramón Achurra (Ind.)
+| Carmen Moncada (Ind.)
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | Juan Pablo Letelier ([[Socialist Party of Chile|PS]])
+! style="background: #9cf" | {{small|(R)}} [[Andrés Chadwick]] ([[Independent Democratic Union|UDI]])
+| Marilén Cabrera ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 12th
+! style="background: #9cf" | {{small|(R)}} Hosain Sabag ([[Christian Democratic Party of Chile|PDC]])
+| Alberto Gyhra (Ind.)
+| Hugo Corvalán (Ind.)
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | [[Alejandro Navarro (politician)|Alejandro Navarro]] ([[Socialist Party of Chile|PS]])
+| Carlos Bombal ([[Independent Democratic Union|UDI]])
+| Wilfredo Alfsen ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 13th
+! style="background: #9cf" | {{small|(R)}} Mariano Ruiz-Esquide ([[Christian Democratic Party of Chile|PDC]])
+| {{small|(R)}} Mario Ríos ([[National Renewal (Chile)|RN]])
+| Marta Morales ([[Communist Party of Chile|PC]])
+| rowspan=2 | ''none''
+| rowspan=2 | ''none''
+|-
+| Eleodoro Torres (Ind.)
+! style="background: #9cf" | Víctor Pérez ([[Independent Democratic Union|UDI]])
+| Gloria Mujica ([[Humanist Party (Chile)|PH]])
+|-
+| rowspan=2 | 16th
+! style="background: #9cf" | [[Eduardo Frei Ruiz-Tagle|Eduardo Frei]] ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" rowspan=2 | [[Andrés Allamand]] ([[National Renewal (Chile)|RN]])
+| Guillermo Tripailaf ([[Communist Party of Chile|PC]])
+| Raúl Silva ([[National Alliance of Independents|ANI]])
+| rowspan=2 | ''none''
+|-
+| Marcos Saldías ([[Radical Social Democratic Party|PRSD]])
+| Hugo Gerter (Ind.)
+| Carlos Boero ([[National Alliance of Independents|ANI]])
+|-
+| rowspan=2 | 17th
+| {{small|(R)}} Sergio Páez ([[Christian Democratic Party of Chile|PDC]])
+! style="background: #9cf" | Carlos Kuschel ([[National Renewal (Chile)|RN]])
+| Irma Alvarado ([[Communist Party of Chile|PC]])
+| José Luis Cáceres (Ind.)
+| rowspan=2 | ''none''
+|-
+! style="background: #9cf" | [[Camilo Escalona]] ([[Socialist Party of Chile|PS]])
+| Joaquín Brahm ([[Independent Democratic Union|UDI]])
+| Tomás Bize (Ind.)
+| Mario Osses (Ind.)
+|-
+| rowspan=2 | 19th
+| Zarko Luksic ([[Christian Democratic Party of Chile|PDC]])
+| Eduardo Catalán (Ind.)
+| José Foppiano (Ind.)
+| rowspan=2 | ''none''
+! style="background: #9cf" | Carlos Bianchi
+|-
+! style="background: #9cf" | Pedro Muñoz ([[Socialist Party of Chile|PS]])
+| {{small|(R)}} Sergio Fernández ([[Independent Democratic Union|UDI]])
+| Fernando Ortiz ([[Humanist Party (Chile)|PH]])
+| <s>Manuel Barrera</s>
+|}
+{{small|Source: Tricel/Servel.}}
+
+==Election timeline==
+* 5 January 2005: Former president [[Eduardo Frei Ruiz-Tagle|Eduardo Frei]] declines a possible presidential candidacy.
+* 14 January 2005: Soledad Alvear defeats senator Adolfo Zaldívar in an internal primary, and is proclaimed presidential pre-candidate by the PDC.
+* 24 April 2005: Michelle Bachelet is proclaimed presidential candidate by PRSD.
+* 27 April 2005: Alvear and Bachelet hold a televised primary debate in Hualpén.
+* 14 May 2005: Sebastián Piñera is proclaimed presidential candidate by National Renewal.
+* 24 May 2005: Alvear declines her presidential pre-candidacy.
+* 5 June 2005: Tomás Hirsch is proclaimed presidential candidate of pact Juntos Podemos Más.
+* 19 June 2005: Joaquín Lavín is proclaimed presidential candidate by the Independent Democratic Union.
+* 30 July 2005: Bachelet is proclaimed presidential candidate by PDC.
+* 21 August 2005: Bachelet is proclaimed presidential candidate by PS and PPD.
+* 7 September 2005: RN candidate Sebastián Piñera officially registers his candidacy for president.
+* 8 September 2005: CPD candidate Michelle Bachelet officially registers her candidacy for president, as does UDI candidate Joaquín Lavín.
+* 11 September 2005: Deadline for voters to register.
+* 12 September 2005: Deadline for candidates to register and official start of campaigning. During the day, independent candidate Aucán Huilcamán officially registers his candidacy for president, as does JPM candidate Tomás Hirsch.
+* 15 September 2005: The Electoral Service (Servel) rejects the candidacy of Mapuche leader Aucán Huilcamán.
+* 19 October 2005: The first televised debate among all candidates takes place.
+* 11 November 2005: The free televised campaign time begins with candidate receiving five minutes each; street ads are allowed.
+* 16 November 2005: The second televised debate among all candidates takes place.
+* 6 December 2005: Bachelet cancels her final campaign rally after five of her supporters are killed in a bus crash.
+* 9 December 2005: Official campaigning ends at midnight; electoral publicity is no longer allowed.
+* 11 December 2005: Election day. Voting begins at 7 AM local time (10:00 [[Greenwich Mean Time|GMT]]).
+* 26 December 2005: The Electoral Tribunal (Tricel) publishes the final and official results of the first round election.
+* 27 December 2005: First round results are published on the Official Gazette.
+* 1 January 2006: Electoral campaigning for the runoff election begins. Each candidate receives two and a half minutes of free television airtime.
+* 4 January 2006: The only televised debate between the two runoff candidates takes place.
+* 12 January 2006: Official campaigning ends.
+* 15 January 2006: Runoff election takes place. Socialist candidate Michelle Bachelet is elected president.
+* 30 January 2006: The Tricel publishes the final and official results of the runoff election.
+* 30 January 2006: President-elect Michelle Bachelet announces the members of her cabinet.
+* 11 March 2006: [[President-elect]] Bachelet is sworn in by the National Congress in [[Valparaíso]].
+
+==See also==
+{{wikinews|Chile elects first woman President}}
+{{commons}}
+*[[Politics of Chile]]
+*[[List of political parties in Chile]]
+*[[List of female Chilean presidential candidates]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{in lang|es}} [http://www.tribunalcalificador.cl/ Official results from the Election Qualifier Tribunal]
+*{{in lang|es}} [https://web.archive.org/web/20121112172833/http://elecciones.gob.cl/ Preliminary results from the Ministry of Interior]
+*{{in lang|es}} [http://www.servel.cl/ Electoral Service (Servel)]
+*{{in lang|es}} [https://web.archive.org/web/20140208015013/http://michellebachelet.cl/ Bachelet for President] official website
+*{{in lang|es}} [http://www.tomashirsch.cl/ Hirsch for President] official website
+*{{in lang|es}} [https://web.archive.org/web/20050730013201/http://www.joaquinlavin.cl/ Lavín for President] official website
+*{{in lang|es}} [https://web.archive.org/web/20050801005719/http://www.sebastianpresidente.cl/ Piñera for President] official website
+*{{in lang|es}} [https://web.archive.org/web/20060104022106/http://www.bolsaelectoral.cl/ Electoral Stock Market] ([[University of Chile]]/[[University of Chicago]])
+*{{usurped|1=[https://web.archive.org/web/20051217234214/http://www.angus-reid.com/tracker/index.cfm?fuseaction=viewItem&itemID=7826 Angus Reid Consultants - Election Tracker]}}
+*[http://www.asiantribune.com/show_article.php?id=2921 Intelligence brief: Chile] {{Webarchive|url=https://web.archive.org/web/20230408141700/http://www.asiantribune.com/show_article.php?id=2921 |date=8 April 2023 }} by Dr. Michael A. Weinstein, Asian Tribune, 21 December 2005
+
+{{Chilean elections}}
+
+{{DEFAULTSORT:2005-06 Chilean general election}}
+[[Category:Presidential elections in Chile]]
+[[Category:Parliamentary elections in Chile]]
+[[Category:2005 elections in South America|Chile]]
+[[Category:2006 elections in South America|Chile]]
+[[Category:2005 elections in Chile|General]]
+[[Category:2006 elections in Chile|General]]
+[[Category:December 2005 in South America|Chile]]
+[[Category:January 2006 in South America|Chile]]

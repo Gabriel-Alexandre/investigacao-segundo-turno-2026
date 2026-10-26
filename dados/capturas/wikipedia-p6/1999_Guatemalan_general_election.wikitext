@@ -1,0 +1,100 @@
+{{Short description|none}}
+{{Infobox election
+| country = Guatemala
+| previous_election = 1995 Guatemalan general election
+| previous_year = {{nowrap|1995–96}}
+| next_election = 2003 Guatemalan general election
+| next_year = 2003
+| module = {{Infobox election
+| embed = yes
+| election_date = 7 November 1999 (first round) <br/>{{nowrap|26 December 1999 (second round)}}
+| election_name = Presidential election
+| type = presidential
+| turnout = 53.76% (first round) {{increase}} 6.96[[percentage point|pp]]<br />40.37% (second round) {{decrease}} 3.49[[percentage point|pp]]
+
+| image1 = Foto oficial de Alfonso Portillo (cropped).jpg
+| nominee1 = '''[[Alfonso Portillo]]'''
+| popular_vote1 = '''1,184,932'''
+| percentage1 = '''68.32%'''
+| party1 = [[Guatemalan Republican Front|FRG]]
+| running_mate1 ='''[[Juan Francisco Reyes]]'''
+
+| image2 = Cumbre Iberoamericana 2007 - Foto oficial (cropped).jpg
+| nominee2 = [[Óscar Berger]]
+| popular_vote2 = 549,408
+| percentage2 = 31.68%
+| party2 = National Advancement Party
+| color2 = FFFF00
+| running_mate2 =[[Arabella Castro Quiñónez|Arabella Castro]]
+
+| map_image = File:Elecciones generales segunda vuelta Guatemala 1999.png
+
+| title = President
+| before_election = [[Álvaro Arzú]]
+| before_party = National Advancement Party
+| posttitle = President-elect
+| after_election =[[Alfonso Portillo]]
+| after_party = [[Guatemalan Republican Front|FRG]]
+}}
+}}{{Politics of Guatemala}}
+
+General elections were held in [[Guatemala]] on 7 November 1999, with a second round of the presidential elections on 26 December.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p323 {{ISBN|978-0-19-928357-6}}</ref> [[Alfonso Portillo]] won the presidential elections, whilst his [[Guatemalan Republican Front]] also won a majority of Congressional seats.<ref>{{Cite journal |date=2000 |title=Election Watch |url=https://muse.jhu.edu/pub/1/article/168956 |journal=Journal of Democracy |volume=11 |issue=1 |pages=206–211 |issn=1086-3214}}</ref> Voter turnout was 53.8% on 7 November and 40.4% on 26 December.<ref>Nohlen, p324</ref>
+
+Media owner [[Remigio Ángel González]] gave more than $2.6 million and free airtime to [[Alfonso Portillo]]'s campaign,<ref name=Rockwell>Rockwell, Rick and Janus, Noreene (2001), "Stifling Dissent: the fallout from a Mexican media invasion of Central America, ''Journalism Studies'', 2: 4, 497 — 512</ref> which led to some political analysts to claim that the free adverts helped Portillo win the election.<ref name=Weissert/> After becoming president, Portillo appointed Gonzalez's brother-in-law [[Luis Rabbé]] to the post of Minister of Communications, Infrastructure and Housing, a post which included responsibility for overseeing the broadcast media.<ref name=Weissert>[https://archive.seattletimes.com/archive/20020609/theghost09/domination-of-latin-airwaves-has-ghost-scaring-his-critics Domination of Latin airwaves has 'Ghost' scaring his critics] [[Associated Press]], 9 June 2002</ref>  The presidential election also established a pattern for the next 16 years in which the runner-up of the previous contest then went on to win.
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Alfonso Portillo]]|party1=[[Guatemalan Republican Front]]|votes1=1045820|votes1_2=1184932
+|cand2=[[Óscar Berger]]|party2=[[National Advancement Party]]|votes2=664417|votes2_2=549408
+|cand3=[[Álvaro Colom]]|party3=[[Guatemalan National Revolutionary Unity|URNG]]–[[Authentic Integral Development|DIA]]|votes3=270891
+|cand4=Acisclo Valladares Molína|party4=[[Progressive Liberating Party]]|votes4=67924
+|cand5=Juan Francisco Bianchi Castillo|party5=Democratic Renewal Action Party|votes5=45470
+|cand6=Ana Catalina Soberanis Reyes|party6=[[Democratic Front New Guatemala]]|votes6=28108
+|cand7=José Enrique Asturias Rudeke|party7=[[The Green Organisation|LOV]]–[[Democratic Union (Guatemala)|UD]]||votes7=25236
+|cand8=Danilo Julián Roca Barillas|party8=[[National Centre Union]]|votes8=22939
+|cand9=Carlos Humberto Pérez Rodríguez|party9=[[National Liberation Movement (Guatemala)|National Liberation Movement]]|votes9=13080
+|cand10=Emilio Eva Saldívar|party10=Democratic Alliance|votes10=4929
+|cand11=Flor de María Alvarado Suárez de Solís|party11=National Reconciling Alliance|votes11=2698
+|invalid=205700|invalid2=65588
+|electorate=4458744|electorate2=4458744
+|source=Nohlen
+}}
+
+===Congress===
+{{Election results
+|firstround=National|secondround=District
+|party1=[[Guatemalan Republican Front]]|votes1=891429|seats1=11|votes1_2=879839|seats1_2=52|totseats1=63
+|party2=[[National Advancement Party]]|votes2=570108|seats2=7|votes2_2=589550|seats2_2=30|totseats2=37
+|party3=[[New Nation Alliance]] ([[Guatemalan National Revolutionary Unity|URNG]]–[[Authentic Integral Development|DIA]])|votes3=233870|seats3=2|votes3_2=231970|seats3_2=7|totseats3=9
+|party4=[[Guatemalan Christian Democracy]]|votes4=86839|seats4=1|votes4_2=68609|seats4_2=1|totseats4=2
+|party5=[[Progressive Liberating Party]]|votes5=84197|seats5=1|votes5_2=91484|seats5_2=0|totseats5=1
+|party6=Democratic Renewal Action Party|votes6=63824|seats6=0|votes6_2=76994|seats6_2=0|totseats6=0
+|party7=Democratic Front New Guatemala|votes7=60821|seats7=0|votes7_2=53544|seats7_2=0|totseats7=0
+|party8=[[The Green Organisation|LOV]]–[[Democratic Union (Guatemala)|UD]]|votes8=48184|seats8=0|votes8_2=48398|seats8_2=1|totseats8=1
+|party9=[[National Centre Union]]|votes9=42921|seats9=0|votes9_2=40069|seats9_2=0|totseats9=0
+|party10=[[National Liberation Movement (Guatemala)|National Liberation Movement]]|votes10=22857|seats10=0|votes10_2=21656|seats10_2=0|totseats10=0
+|party11=Democratic Action|votes11=8644|seats11=0|votes11_2=6074|seats11_2=0|totseats11=0
+|party12=National Reconciliation Alliance|votes12=4178|seats12=0|votes12_2=1868|seats12_2=0|totseats12=0
+|party13=[[National Centre Union|UCN]]–[[Guatemalan Christian Democracy|DCG]]|votes13_2=6480|seats13_2=0|totseats13=0
+|party14=[[Guatemalan Christian Democracy|DCG]]–FDNG|votes14_2=5792|seats14_2=0|totseats14=0
+|party15=National Union|votes15_2=3222|seats15_2=0|totseats15=0
+|party16=[[National Liberation Movement (Guatemala)|MLN]]–[[Guatemalan Christian Democracy|DCG]]|votes16_2=1829|seats16_2=0|totseats16=0
+|invalid=279011|invalid2=268249
+|electorate=4458744|electorate2=4458744
+|source=Nohlen, [https://core.ac.uk/download/pdf/149230161.pdf Lehoucq]
+}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*Villagrán Kramer, Francisco. Biografía política de Guatemala: años de guerra y años de paz. FLACSO-Guatemala, 2004.
+*Political handbook of the world 1999. New York, 2000.
+
+{{Guatemalan elections}}
+
+[[Category:Parliamentary elections in Guatemala]]
+[[Category:1999 elections in Central America|Guatemala]]
+[[Category:1999 in Guatemala|General]]
+[[Category:Presidential elections in Guatemala]]

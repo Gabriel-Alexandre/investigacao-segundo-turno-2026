@@ -1,0 +1,241 @@
+{{Short description|none}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election
+| country = Timor-Leste
+| election_date = 19 March 2022 (first round)<br />19 April 2022 (second round)
+| next_year = 2027
+| next_election = 2027 East Timorese presidential election
+| previous_year = 2017
+| previous_election = 2017 East Timorese presidential election
+| type = presidential
+
+| candidate1 = '''[[José Ramos-Horta]]'''
+| image1 = Portrait of Jose Ramos-Horta (cropped).jpg
+| party1 = National Congress for Timorese Reconstruction
+| popular_vote1 = '''398,028'''
+| percentage1 = '''62.10%'''
+
+| candidate2 = [[Francisco Guterres]]
+| image2 = President of Timor Leste Francisco Guterres (cropped) 3x4.jpg
+| party2 = Fretilin
+| popular_vote2 = 242,939
+| percentage2 = 37.90%
+
+| map_image = {{switcher| [[File:2022_East_Timorese_presidential_election_(first_round)_-_Results_by_municipality.svg|275px]]|First round results by municipality|
+[[File:2022_East_Timorese_presidential_election_(second_round)_-_Results_by_municipality.svg|275px]]|Second round results by municipality|default=2}}
+| map_size = 
+| map_caption = 
+| map2_image = 
+| map2_caption = 
+| map2 =
+
+| title = [[President of Timor-Leste|President]]
+| before_election = [[Francisco Guterres]]
+| before_party = Fretilin
+| after_election = [[José Ramos-Horta]]
+| after_party = National Congress for Timorese Reconstruction
+}}{{Politics of Timor-Leste}}
+
+Presidential elections were held in [[Timor-Leste]] on 19 March 2022.<ref name=":0">{{Cite web|date=2022-01-23|title=East Timor Nobel laureate Ramos-Horta to run for president again|url=https://www.france24.com/en/live-news/20220123-east-timor-nobel-laureate-ramos-horta-to-run-for-president-again|access-date=2022-01-23|website=France 24|language=en|archive-date=30 January 2022|archive-url=https://web.archive.org/web/20220130000757/https://www.france24.com/en/live-news/20220123-east-timor-nobel-laureate-ramos-horta-to-run-for-president-again|url-status=live}}</ref> Incumbent [[Francisco Guterres]] sought election to a second term.<ref>{{Cite web|last=Barrett|first=Chris|date=2021-12-19|title='Thousands pleading with me to run': Jose Ramos-Horta eyes return as East Timor president|url=https://www.smh.com.au/world/asia/thousands-pleading-with-me-to-run-jose-ramos-horta-eyes-return-as-east-timor-president-20211216-p59i6o.html|access-date=2022-01-11|website=The Sydney Morning Herald|language=en|archive-date=13 January 2022|archive-url=https://web.archive.org/web/20220113093141/https://www.smh.com.au/world/asia/thousands-pleading-with-me-to-run-jose-ramos-horta-eyes-return-as-east-timor-president-20211216-p59i6o.html|url-status=live}}</ref> As none of the presidential nominees received at least 50% of the cast votes, a [[Two-round system|runoff]] was held on 19 April 2022, between the top two candidates, [[José Ramos-Horta]] and Guterres.<ref name="reur1">{{Cite news |date=2022-03-20 |title=Ramos-Horta, Guterres early frontrunners in East Timor election |language=en |work=Reuters |url=https://www.reuters.com/world/asia-pacific/ramos-horta-guterres-early-frontrunners-east-timor-election-2022-03-20/ |access-date=2022-03-21 |archive-date=21 March 2022 |archive-url=https://web.archive.org/web/20220321004041/https://www.reuters.com/world/asia-pacific/ramos-horta-guterres-early-frontrunners-east-timor-election-2022-03-20/ |url-status=live }}</ref> Ramos-Horta won the runoff with 62.1% of the total votes cast.<ref>{{Cite news |date=2022-04-20 |title=Timor-Leste presidential election: José Ramos-Horta wins in landslide |language=en |work=The Guardian |url=https://www.theguardian.com/world/2022/apr/21/timor-leste-presidential-election-jose-ramos-horta-wins-in-landslide |access-date=2022-04-20 |archive-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074707/https://www.theguardian.com/world/2022/apr/21/timor-leste-presidential-election-jose-ramos-horta-wins-in-landslide |url-status=live}}</ref>
+
+The election marked the first time that someone had been re-elected to the East Timorese presidency (albeit to a non-consecutive term), as well as the second time that an incumbent president had been defeated – after the [[2012 East Timorese presidential election|2012]] election, when Ramos-Horta was eliminated in the first round.<ref>{{Cite web | url=https://www.aljazeera.com/news/2012/3/18/east-timor-president-out-of-poll-race | title=East Timor president out of poll race }}</ref> As a result of constitutional provisions which limit presidents to two five-year terms in a lifetime, Ramos-Horta will be ineligible to run in any future presidential election.<ref>[http://timor-leste.gov.tl/wp-content/uploads/2010/03/Constitution_RDTL_ENG.pdf "Constitution of the Democratic Republic of Timor-Leste", Section 75.3: "The President of the Republic's term of office may be renewed only once."]</ref>
+
+==Electoral system==
+The [[President of Timor-Leste]] is elected using the [[two-round system]].<ref>[http://www.electionguide.org/elections/id/2231/ Democratic Republic of Timor-Leste] {{Webarchive|url=https://web.archive.org/web/20171020135906/http://www.electionguide.org/elections/id/2231/ |date=20 October 2017 }} IFES</ref> Formally, presidential candidates run as independents. However, they commonly receive the backing of political parties. In this election, Ramos-Horta was backed by the [[National Congress for Timorese Reconstruction]] (CNRT), and Guterres by [[Fretilin]].<ref name="lowy 2022-01-24">{{cite web |last1=Leach |first1=Michael |title=Timor-Leste: comebacks and contests ahead of presidential elections |url=https://www.lowyinstitute.org/the-interpreter/timor-leste-comebacks-and-contests-ahead-presidential-elections |website=The Interpreter |publisher=Lowy Institute |access-date=3 January 2025 |language=en |date=24 January 2022 |archive-date=23 March 2022 |archive-url=https://web.archive.org/web/20220323032438/https://www.lowyinstitute.org/the-interpreter/timor-leste-comebacks-and-contests-ahead-presidential-elections |url-status=live}}</ref> With no single candidate in the first round getting over 50% of the vote, a second round was held a month after the first with the top two candidates.<ref name="reur1"/>
+
+==Campaign==
+The campaign was described as "largely peaceful and competitive" by EU electoral observer Ruiz Devesa.<ref name="AFPTG">{{cite news |title=Timor-Leste presidential election: José Ramos-Horta wins in landslide |url=https://www.theguardian.com/world/2022/apr/21/timor-leste-presidential-election-jose-ramos-horta-wins-in-landslide |access-date=21 April 2022 |work=the Guardian |agency=Agence France-Presse |date=20 April 2022 |language=en |archive-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074707/https://www.theguardian.com/world/2022/apr/21/timor-leste-presidential-election-jose-ramos-horta-wins-in-landslide |url-status=live }}</ref> Younger voters, with less strong regional convictions and party affiliations, were considered a pivotal voter bloc during the election, being seen as contributing to the third-place finish of KHUNTO candidate [[Armanda Berta dos Santos]].<ref name="llchen">{{cite news |last1=Chen |first1=Li-Li |title=Observations From the First Round of Timor-Leste's Presidential Election |url=https://thediplomat.com/2022/03/observations-from-the-first-round-of-timor-lestes-presidential-election/ |access-date=21 April 2022 |work=The Diplomat |date=23 March 2022 |archive-date=13 April 2022 |archive-url=https://web.archive.org/web/20220413070733/https://thediplomat.com/2022/03/observations-from-the-first-round-of-timor-lestes-presidential-election/ |url-status=live }}</ref>
+
+Incumbent President Francisco Guterres was backed by [[Mari Alkatiri]]. Ramos-Horta's campaign was supported by [[Xanana Gusmão]], who was dubbed the "Kingmaker of Timor Leste".<ref name="AFPTG" /><ref name="aj21apr" /> The campaign between Guterres and Ramos-Horta was seen by some analysts in the [[Lowy Institute]] as a conflict between Alkatiri and Gusmao, who backed opposing candidates.<ref name="novak">{{cite news |last1=Novak |first1=Parker |title=The not-so-hidden contest behind Timor-Leste's presidential election |url=https://www.lowyinstitute.org/the-interpreter/not-so-hidden-contest-behind-timor-leste-s-presidential-election |access-date=21 April 2022 |work=Lowy Institute |date=18 April 2022 |language=en |archive-date=17 April 2022 |archive-url=https://web.archive.org/web/20220417222417/https://www.lowyinstitute.org/the-interpreter/not-so-hidden-contest-behind-timor-leste-s-presidential-election |url-status=live }}</ref> Guterres' previous administration was considered by outside sources to be in political deadlock since 2017.<ref name="llchen" /> Guterres was perceived to be running a competitive campaign despite his first round result, where he placed second.<ref name="novak" /> However, former Fretilin member and fourth place candidate [[Lere Anan Timur]] refused to back Guterres or Ramos-Horta.<ref name="novak" /> Fretilin ran a campaign stating that Ramos-Horta was unfit to be president, blaming him for [[2006 East Timorese crisis|the political violence and crisis]] that happened during his prime ministership in 2006.<ref name="aptd28">{{cite news |title=Timor-Leste Set for Presidential Runoff Election Next Month |url=https://thediplomat.com/2022/03/timor-leste-set-for-presidential-runoff-election-next-month/ |access-date=21 April 2022 |work=The Diplomat |agency=Associated Press |date=28 March 2022 |archive-date=4 April 2022 |archive-url=https://web.archive.org/web/20220404141815/https://thediplomat.com/2022/03/timor-leste-set-for-presidential-runoff-election-next-month/ |url-status=live }}</ref>
+[[File:2022 Wahlkampf José Ramos-Horta 1.png|thumb|Supporters of Ramos-Horta at a rally]]
+Former President José Ramos-Horta came out of retirement as he stated that incumbent president Francisco “Lu-Olo” Guterres had violated the constitution.<ref name="AFPTG" /> Guterres had previously refused to swear in several ministers from Ramos-Horta's party on the grounds that they were currently undergoing legal investigations over corruption.<ref name="aj20apr">{{cite news |title=Ramos-Horta takes commanding lead in East Timor presidential vote |url=https://www.aljazeera.com/news/2022/4/20/east-timor-ramos-horta-takes-strong-lead-in-presidential-vote |access-date=21 April 2022 |work=Al Jazeera |date=20 April 2022 |language=en |archive-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074709/https://www.aljazeera.com/news/2022/4/20/east-timor-ramos-horta-takes-strong-lead-in-presidential-vote |url-status=live }}</ref> Ramos-Horta stated that in the event of winning the presidential election, he would potentially dissolve parliament and call for new elections.<ref name="AFPTG" /><ref name="aj20apr" /> His support from CNRT had been secured on the basis that, amongst other things, he "... , if elected, must restore constitutional order and exercise constitutional powers and dissolve parliament and call early elections."<ref name="lowy 2022-01-24"/><ref name="rtp 2022-01-23">{{cite news |author1=<!--not stated--> |title=CNRT quer que Ramos-Horta dissolva parlamento timorense se for eleito PR |trans-title=CNRT wants Ramos-Horta to dissolve Timorese parliament if elected president |url=https://www.rtp.pt/noticias/mundo/cnrt-quer-que-ramos-horta-dissolva-parlamento-timorense-se-for-eleito-pr_n1378900 |access-date=3 January 2025 |work=[[Rádio e Televisão de Portugal|RTP Notícias]] |agency=[[Lusa News Agency|Lusa]] |date=23 January 2022 |language=pt}}</ref><ref name="top 2022-06-28">{{cite news |last1=Oki |first1=Raimundos |title=Kalbuadi: CNRT will not force PR Horta to dissolve parliament |url=https://www.oekusipost.com/en/politics/1424-kalbuadi-cnrt-will-not-force-pr-horta-to-dissolve-parliament |access-date=3 January 2025 |work=The Oekusi Post |date=28 June 2022 |language=en-gb}}</ref> Ramos-Horta ran on a platform of poverty reduction, increasing healthcare services for mothers and children, as well as increasing job creation.<ref name="aj21apr" /> He also stated that he wanted to try and improve communication across the governing political parties for the purposes of increasing stability.<ref name="aj21apr">{{cite news |title=Ramos-Horta declares victory in East Timor presidential election |url=https://www.aljazeera.com/news/2022/4/21/ramos-horta-declares-victory-in-east-timor-presidential-election |access-date=21 April 2022 |work=Al Jazeera |date=21 April 2022 |language=en |archive-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074710/https://www.aljazeera.com/news/2022/4/21/ramos-horta-declares-victory-in-east-timor-presidential-election |url-status=live }}</ref> In addition, Ramos-Horta stated his intention on working with the government to address supply chain issues from the ongoing [[COVID-19 pandemic in Timor-Leste|COVID-19 pandemic]] and [[Russian invasion of Ukraine]].<ref name="reu21ap">{{cite news |title=Ramos-Horta declares victory in East Timor presidential election |url=https://www.reuters.com/world/asia-pacific/ramos-horta-declares-victory-east-timor-presidential-election-2022-04-21/ |access-date=21 April 2022 |work=Reuters |date=21 April 2022 |language=en |archive-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074711/https://www.reuters.com/world/asia-pacific/ramos-horta-declares-victory-east-timor-presidential-election-2022-04-21/ |url-status=live }}</ref>
+
+==Conduct==
+Andrew Jacobs, the representative of the [[European Union]] in Timor-Leste, said an EU delegation from Brussels would be involved in the process of observation for the 2022 election.<ref>{{Cite web|last=Sousa|first=Camilio de|title=The EU's delegation will Observe TL Presidential election process in march, 2022|url=http://www.tatoli.tl/en/2021/09/18/the-eus-delegation-will-observe-tl-presidential-election-process-in-march-2022/|access-date=2022-01-11|language=en-US|archive-date=11 January 2022|archive-url=https://web.archive.org/web/20220111172742/http://www.tatoli.tl/en/2021/09/18/the-eus-delegation-will-observe-tl-presidential-election-process-in-march-2022/|url-status=live}}</ref>
+
+The representative of the [[United States]] embassy in Dili, Charge d’Affaires Tom Daley, said the U.S. would send observers to oversee the election process. He added that the United States "has supported Timor-Leste in developing democracy since Timor-Leste's independence" and that the U.S. had plans to send observers to ensure the transparency of the election and the freedom of voters to be able "to choose the candidates for the president without intimidation from any party".<ref>{{Cite web|last=Sousa|first=Camilio de|title=The U.S. will send observers to assist the 2022 presidential election|url=http://www.tatoli.tl/en/2021/11/05/the-u-s-will-send-observers-to-assist-the-2022-presidential-election/|access-date=2022-01-11|language=en-US|archive-date=11 January 2022|archive-url=https://web.archive.org/web/20220111172738/http://www.tatoli.tl/en/2021/11/05/the-u-s-will-send-observers-to-assist-the-2022-presidential-election/|url-status=live}}</ref>
+
+==Candidates==
+[[File:2022 Ballot Timor-Leste.jpg|thumb|200x200px|First round ballot for the election.]][[File:2022 Ballot Timor-Leste-2.jpg|thumb|150x150px|Second round ballot for the election.]]
+{| class="wikitable sortable" style=text-align:center
+! colspan="2" |Name
+!Party
+!Primary
+!Declaration
+!Notes
+|-
+|bgcolor=#DCDCDC|1.
+|[[Isabel da Costa Ferreira]]
+|[[Independent politician|Independent]]
+|–
+|
+|<ref name=":1">{{Cite web |last=Dile Payong |first=Stefanus |date=2022-03-02 |title=Kampanye Pilpres Timor Leste Dimulai Hari Ini, 16 Capres Siap Bertanding |url=https://belu.inews.id/read/48911/kampanye-pilpres-timor-leste-dimulai-hari-ini-16-capres-siap-bertanding |access-date=2022-03-04 |website=belu.inews.id/ |language=id |archive-date=4 March 2022 |archive-url=https://web.archive.org/web/20220304083901/https://belu.inews.id/read/48911/kampanye-pilpres-timor-leste-dimulai-hari-ini-16-capres-siap-bertanding |url-status=live }}</ref>
+|-
+|bgcolor=#DCDCDC|2.
+|Hermes da Rosa Correia Barros
+|Independent
+|–
+|
+|<ref name=":1" />
+|-
+|bgcolor=#DCDCDC|3.
+|[[Ángela Freitas]]
+|Independent
+|–
+|
+|<ref name=":1" />
+|-
+|bgcolor=#DCDCDC|4.
+|[[Rogerio Lobato]]
+|Independent
+|–
+|
+|<ref name=":1" />
+|-
+| style="background:{{Color box|#DE5D83|border=darkgray}};" |5.
+|Anacleto Bento Ferreira
+|[[Democratic Republic of Timor-Leste Party|PDRT]]
+|–
+|
+|<ref name=":1" />
+|-
+| style="background:{{Color box|#FF0000|border=darkgray}};" |6.
+|[[Francisco Guterres]]
+|[[Fretilin]]
+|–
+|January 2022
+|<ref name=":0"/><ref name=":1" />
+|-
+|bgcolor=#DCDCDC|7.
+|[[Milena Pires]]
+|Independent
+|–
+|
+|<ref name=":1" />
+|-
+|bgcolor=#DCDCDC|8.
+|[[Lere Anan Timur]]
+|Independent
+|–
+|
+|<ref name=":1" />
+|-
+| style="background:{{Color box|#006A4E|border=darkgray}};" |9.
+|[[Armanda Berta dos Santos]]
+|[[Kmanek Haburas Unidade Nasional Timor Oan|KHUNTO]]
+|–
+|
+|<ref name=":1" />
+|-
+|bgcolor=#DCDCDC|10.
+|Antero Benedito Silva
+|Independent
+|–
+|
+|<ref name=":1" />
+|-
+|bgcolor=#DCDCDC|11.
+|Constâncio da Conceção Pinto
+|Independent
+|–
+|
+|<ref name=":1" />
+|-
+|bgcolor=#DCDCDC|12.
+|Virgílio da Silva Guterres
+|Independent
+|–
+|
+|<ref name=":1" />
+|-
+| style="background:{{Color box|#FFD700|border=darkgray}};" |13.
+|Martinho Germano da Silva Gusmão
+|PUDD
+|–
+|January 2022
+|<ref name=":0"/><ref name=":1" />
+|-
+| style="background:{{Color box|#07B4FF|border=darkgray}};" |14.
+|[[José Ramos-Horta]]
+|[[National Congress for Timorese Reconstruction|CNRT]]
+|–
+|January 2022
+|<ref name=":0"/><ref name=":1" />
+|-
+|bgcolor=#DCDCDC|15.
+|Felizberto Araújo Duarte
+|Independent
+|–
+|
+|<ref name=":1" />
+|-
+| style="background:{{Color box|#004080|border=darkgray}};" |16.
+|[[Mariano Sabino Lopes]]
+|[[Democratic Party (Timor-Leste)|PD]]
+|–
+|
+|<ref name=":1" />
+|}
+
+==Results==
+The second round of the elections was held on 19 April between [[José Ramos-Horta]], a former [[President of Timor-Leste|president]], and the incumbent [[Francisco Guterres]]. In the runoff Ramos-Horta prevailed with 62% of the vote.<ref>{{Cite news |date=April 20, 2022 |title=Ramos-Horta wins Timor-Leste presidential election |pages=1 |work=The Star |url=https://www.thestar.com.my/aseanplus/aseanplus-news/2022/04/20/ramos-horta-wins-timor-leste-presidential-election |access-date=April 20, 2022 |archive-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074713/https://www.thestar.com.my/aseanplus/aseanplus-news/2022/04/20/ramos-horta-wins-timor-leste-presidential-election |url-status=live }}</ref>
+
+{{Election results
+|cand1=[[José Ramos-Horta]]|party1=[[National Congress for Timorese Reconstruction]]|votes1=303477|votes1_2=<!--397145-->398028
+|cand2=[[Francisco Guterres]]|party2=[[Fretilin]]|votes2=144282|votes2_2=<!--242440-->242939
+|cand3=[[Armanda Berta dos Santos]]|party3=[[Kmanek Haburas Unidade Nasional Timor Oan]]|votes3=56690
+|cand4=[[Lere Anan Timur]]|party4=Independent|votes4=49314
+|cand5=[[Mariano Sabino Lopes]]|party5=[[Democratic Party (Timor-Leste)|Democratic Party]]|votes5=47334
+|cand6=Anacleto Bento Ferreira|party6=[[Democratic Republic of Timor-Leste Party]]|votes6=13205
+|cand7=Martinho Germano da Silva Gusmão|party7={{ill|United Party for Development and Democracy|de|Partidu Unidade Dezenvolvimentu Demokratiku}}|votes7=8598
+|cand8=Hermes da Rosa Correia Barros|party8=Independent|votes8=8030
+|cand9=[[Milena Pires]]|party9=Independent|votes9=5430
+|cand10=[[Isabel da Costa Ferreira]]|party10=Independent|votes10=4219
+|cand11=Felizberto Araújo Duarte|party11=Independent|votes11=2709
+|cand12=Constâncio da Conceção Pinto|party12=Independent|votes12=2520
+|cand13=[[Rogerio Lobato]]|party13=Independent|votes13=2058
+|cand14=Virgílio da Silva Guterres|party14=Independent|votes14=1720
+|cand15=Antero Benedito Silva|party15=Independent|votes15=1562
+|cand16=[[Ángela Freitas]]|party16=Independent|votes16=711
+|invalid=12247
+|invalid2=5422
+|electorate=859613
+|electorate2=859925
+|source=National Election Commission<ref>{{cite web |url=https://www.cne.tl/apuramento/public.php# |title=Apuramento Eleisaun Presidente Repúblika 2022 (1st round) |archive-url=https://web.archive.org/web/20220415013039/https://www.cne.tl/apuramento/public.php |archive-date=15 April 2022 |url-status=live}}</ref><ref>{{cite web |url=https://www.cne.tl/apuramento2022r2/public.php |title=Apuramento Eleisaun Presidente Repúblika 2022 (2nd round) |archive-url=https://web.archive.org/web/20220606192437/https://www.cne.tl/apuramento2022r2/public.php |archive-date=6 June 2022 |url-status=live}}</ref>
+}}
+
+==Aftermath==
+Nobel laureate and former president [[José Ramos-Horta]] won in a landslide victory over incumbent president [[Francisco Guterres]] in the second round. Speaking to supporters in a rally, Ramos-Horta proclaimed: "I have received this mandate from our people, from the nation in an overwhelming demonstration of our people's commitment to democracy."<ref name="lambk">{{cite news |last1=Lamb |first1=Kate |title=Ramos-Horta wins East Timor election |url=https://www.murrayvalleystandard.com.au/story/7707381/ramos-horta-wins-east-timor-election/?cs=13095 |access-date=21 April 2022 |work=The Murray Valley Standard |date=21 April 2022 |language=en-AU |archive-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074714/https://www.murrayvalleystandard.com.au/story/7707381/ramos-horta-wins-east-timor-election/?cs=13095 |url-status=live }}</ref> He added he had not spoken to Guterres personally after the win but had received an invitation from Guterres' office to discuss a handover of power following the election.<ref name="reu21ap"/><ref name="lambk"/>
+
+[[United States Department of State]] congratulated Ramos-Horta on his election as Timor-Leste’s next president and looked forward to strengthen the partnership between the United States and Timor-Leste. In a statement, they praised the election, stating; "We commend Timorese authorities, including the Technical Secretariat for Electoral Administration and the National Elections Commission, for administering a free, fair, and transparent election and the hundreds of thousands of Timorese voters who cast their ballots peacefully. Timor-Leste’s election serves as an inspiration for democracy in Southeast Asia, the Indo-Pacific region, and the world. This achievement represents another milestone in Timor-Leste’s tremendous work to build and strengthen its robust, vibrant democracy over its nearly 20-year history as an independent nation."<ref>{{Cite web |title=Timor-Leste Presidential Election |url=https://www.state.gov/timor-leste-presidential-election/ |access-date=2022-04-22 |website=United States Department of State |language=en}}</ref> Ramos-Horta's victory also prompted the President of Portugal [[Marcelo Rebelo de Sousa]] to give him "the warmest congratulations on the election as president of the Republic of Timor-Leste".<ref name="AFPTG" />
+
+Following the election, CNRT changed its strategy on whether it required Ramos-Horta to dissolve parliament and call early elections. Gusmão decided, partly to counter the international community's perception that Timor-Leste was politically unstable, and partly because of the limited time available before the next scheduled parliamentary elections, not to enforce CNRT's earlier insistence on such a course of action. The change in strategy was announced to reporters by the CNRT secretary general, [[Francisco Kalbuadi Lay]], at a party meeting held in June 2022.<ref name="top 2022-06-28"/>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}}
+* {{cite web |last1=Bhole |first1=Aneeta |title=Meet the women in Timor-Leste's presidential election |url=https://www.sbs.com.au/news/article/meet-the-women-in-timor-lestes-presidential-election/3smd7wnqa |website=[[SBS World News|SBS News]] |access-date=9 May 2022 |language=en |date=18 March 2022}}
+* {{cite web |last1=Cardoso |first1=Joao da Cruz |title=Timor-Leste's presidential election: Watching for generational change |url=https://www.lowyinstitute.org/the-interpreter/timor-leste-s-presidential-election-watching-generational-change |website=The Interpreter |publisher=[[Lowy Institute]] |access-date=2 May 2022 |language=en |date=17 March 2022 }}
+* {{cite web |last1=Cardoso |first1=Joao da Cruz |title=Timor-Leste: The new president needs to tune in |url=https://www.lowyinstitute.org/the-interpreter/timor-leste-new-president-needs-tune?fbclid=IwAR2qkrI5AAS4vxksUBG52_1o5Zd6LJFX1WGvXuiwqot3V0cOIIZd97tOyVE |website=The Interpreter |publisher=Lowy Institute |access-date=2 May 2022 |language=en |date=27 April 2022 |author-mask1=11}}
+* {{cite web |last1=Chen |first1=Li-Li |title=Does Timor-Leste's Upcoming Election Herald a More Inclusive and Progressive Democracy? |url=https://thediplomat.com/2022/03/does-timor-lestes-upcoming-election-herald-a-more-inclusive-and-progressive-democracy/ |website=[[The Diplomat (magazine)|The Diplomat]] |access-date=17 March 2022 |date=11 March 2022 |archive-date=17 March 2022 |archive-url=https://web.archive.org/web/20220317012018/https://thediplomat.com/2022/03/does-timor-lestes-upcoming-election-herald-a-more-inclusive-and-progressive-democracy/ |url-status=live }}
+* {{cite web |last1=Chen |first1=Li-Li |title=Observations From the First Round of Timor-Leste’s Presidential Election |url=https://thediplomat.com/2022/03/observations-from-the-first-round-of-timor-lestes-presidential-election/ |website=The Diplomat |author-mask1=5 |access-date=8 March 2023 |date=23 March 2022 |archive-date=23 March 2022 |archive-url=https://web.archive.org/web/20220323074845/https://thediplomat.com/2022/03/observations-from-the-first-round-of-timor-lestes-presidential-election/ |url-status=live }}
+* {{cite web |last1=Leach |first1=Michael |title=Timor's presidential poll |url=https://asialink.unimelb.edu.au/insights/timors-presidential-poll |website=Asialink |publisher=[[University of Melbourne]] |access-date=17 March 2022 |date=14 March 2022 |archive-date=15 March 2022 |archive-url=https://web.archive.org/web/20220315051330/https://asialink.unimelb.edu.au/insights/timors-presidential-poll |url-status=live }}
+* {{cite web |last1=Leach |first1=Michael |title=Old rivalries and party splits: The presidential runoff in Timor-Leste |url=https://asialink.unimelb.edu.au/insights/old-rivalries-and-party-splits-the-presidential-runoff-in-timor-leste |website=Asialink |publisher=University of Melbourne |access-date=13 April 2022 |date=13 April 2022 |author-mask1=7 |archive-date=13 April 2022 |archive-url=https://web.archive.org/web/20220413000937/https://asialink.unimelb.edu.au/insights/old-rivalries-and-party-splits-the-presidential-runoff-in-timor-leste |url-status=live }}
+* {{cite web |last1=Leach |first1=Michael |title=The Return of Ramos-Horta |url=https://asialink.unimelb.edu.au/insights/the-return-of-ramos-horta |website=Asialink |publisher=University of Melbourne |access-date=21 April 2022 |date=21 April 2022 |author-mask1=7 |archive-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074715/https://asialink.unimelb.edu.au/insights/the-return-of-ramos-horta |url-status=live }}
+* {{cite web |last1=Mok |last2=Niner |first2=Sara |last3=Palmer |first3=Lisa |title=More inclusive analysis needed of presidential elections in Timor-Leste |url=https://electionwatch.unimelb.edu.au/articles/more-inclusive-analysis-needed-of-presidential-elections-in-timor-leste |website=Election Watch |publisher=University of Melbourne |access-date=17 March 2022 |language=en |date=4 March 2022 |archive-date=14 March 2022 |archive-url=https://web.archive.org/web/20220314023611/https://electionwatch.unimelb.edu.au/articles/more-inclusive-analysis-needed-of-presidential-elections-in-timor-leste |url-status=live }}
+* {{cite web |last1=Novak |first1=Parker |title=Key questions as Timor‑Leste's presidential contest goes to a run-off |url=https://www.lowyinstitute.org/the-interpreter/key-questions-timor-leste-s-presidential-contest-goes-run |website=The Interpreter |publisher=Lowy Institute |access-date=15 April 2022 |language=en |date=23 March 2022 |archive-date=15 April 2022 |archive-url=https://web.archive.org/web/20220415014936/https://www.lowyinstitute.org/the-interpreter/key-questions-timor-leste-s-presidential-contest-goes-run |url-status=live }}
+* {{cite web |last1=Rose |first1=Michael |title=Timor-Leste politics: the old guard, the new president and the casuarina tree (ai kakeu) |url=https://devpolicy.org/timor-leste-politics-old-guard-new-president-and-casuarina-tree-20220509/ |website=Devpolicy Blog from the Development Policy Centre |access-date=9 May 2022 |date=9 May 2022}}
+* {{cite news |last1=Tomae |first1=Marcelino |title=The secret factor behind the victory of the CNRT party in the two elections in Timor-Leste |url=https://www.oekusipost.com/en/editorial/1632-the-secret-factor-behind-the-victory-of-the-cnrt-party-in-the-two-elections-in-timor-leste |access-date=2023-08-06 |work=The Oekusi Post |date=2023-06-04 |language=en-gb}}
+{{refend}}
+
+{{East Timorese elections}}
+
+[[Category:2022 elections in Asia|Timor-Leste]]
+[[Category:2022 in Timor-Leste|Presidential election]]
+[[Category:March 2022 in Asia|Timor-Leste]]
+[[Category:April 2022 in Asia|Timor-Leste]]
+[[Category:Presidential elections in Timor-Leste]]
+[[Category:March 2022 elections]]
+[[Category:April 2022 elections]]

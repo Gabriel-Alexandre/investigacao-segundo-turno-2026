@@ -1,0 +1,73 @@
+{{Short description|Election of Jorge Carlos Fonseca}}
+{{Infobox election
+| country = Cape Verde
+| type = presidential
+| previous_election = 2006 Cape Verdean presidential election
+| previous_year = 2006
+| next_election = 2016 Cape Verdean presidential election
+| next_year = 2016
+| election_date = 7 August 2011 (first round)<br/>21 August 2011 (second round)
+| registered = 304,621
+| opinion_polls = 
+| turnout = 53.50% (first round)<br/>59.87% (second round)
+
+| image1 = Jorge Carlos Fonseca 2014-08-05.jpg
+| nominee1 = '''[[Jorge Carlos Fonseca]]'''
+| party1 = Movement for Democracy (Cape Verde)
+| popular_vote1 = '''97,735'''
+| percentage1 = '''54.26%'''
+
+| image2 = 3x4.svg
+| nominee2 = [[Manuel Inocêncio Sousa]]
+| party2 = African Party for the Independence of Cape Verde
+| popular_vote2 = 82,379
+| percentage2 = 45.74%
+
+| map = {{Switcher
+| [[File:Elecciones presidenciales de Cabo Verde, 2011 (primera vuelta).svg|300px]]
+| First round results by constituency
+| [[File:Elecciones presidenciales de Cabo Verde, 2011 (segunda vuelta).svg|300px]]
+| Second round results by constituency|default=2}}
+
+| title = [[List of heads of state of Cape Verde|President]]
+| before_election = [[Pedro Pires]]
+| before_party = African Party for the Independence of Cape Verde
+| after_election = [[Jorge Carlos Fonseca]]
+| after_party = [[Movement for Democracy (Cape Verde)|Movement for Democracy]]
+}}
+{{Politics of Cape Verde}}
+Presidential elections were held in [[Cape Verde]] on 7 August 2011, with a second round run-off on 21 August.<ref name=AED>[http://africanelections.tripod.com/cv.html Elections in Cape Verde] {{Webarchive|url=https://web.archive.org/web/20110717190543/http://africanelections.tripod.com/cv.html |date=2011-07-17 }} African Elections Database</ref> The result was a victory for [[Jorge Carlos Fonseca]] of the [[Movement for Democracy (Cape Verde)|Movement for Democracy]], who received 54% of the vote in the second round.<ref name=AED/>
+
+==Campaign==
+Four candidates contested the elections:<ref>[http://derstandard.at/1311802834238/Neuer-Praesident-wird-gewaehlt New president to be elected] Der Standard, 5 August 2011 {{in lang|de}}</ref>
+*[[Manuel Inocêncio Sousa]], a former Foreign Minister and the candidate of the ruling [[African Party for the Independence of Cape Verde]] (PAICV).
+*[[Aristides Lima]], President of the [[National Assembly of Cape Verde|National Assembly]]. A member of the PAICV, he ran without its support. Received support of the [[Democratic and Independent Cape Verdean Union]] and the [[Labour and Solidarity Party]].
+*[[Jorge Carlos Fonseca]], another former Foreign Minister, and the candidate of the opposition [[Movement for Democracy (Cape Verde)|Movement for Democracy]].
+*Joaquim Monteiro, an independent.
+
+==Results==
+{{Election results
+|cand1=[[Jorge Carlos Fonseca]]|party1=[[Movement for Democracy (Cape Verde)|Movement for Democracy]]|votes1=60887|votes1_2=97735
+|cand2=[[Manuel Inocêncio Sousa]]|party2=[[African Party for the Independence of Cape Verde]]|votes2=52612|votes2_2=82379
+|cand3=[[Aristides Lima]]|party3=[[Democratic and Independent Cape Verdean Union]]–[[Labour and Solidarity Party]]|votes3=44648
+|cand4=Joaquim Jaime Monteiro|party4=Independent|votes4=2958
+|invalid=845
+|invalid2=767
+|blank=996
+|blank2=1482
+|electorate=304621
+|electorate2=304621
+|source=Boletim Oficial<ref>{{Cite web |date=29 August 2011 |title=Boletim Oficial da República de Cabo Verde, Serie I, No. 29 |url=https://drive.google.com/file/d/1sfRqaR5k4SYVwqO3Q8IjVbqWqNiaMHsc/view |website=Boletim Oficial da República de Cabo Verde |page=1046–1047}}</ref><ref>{{Cite web |date=4 September 2011 |title=Boletim Oficial da República de Cabo Verde, Serie I, No. 29 |url=https://drive.google.com/file/d/1pVF2IDjuY0c72G6QBHjelw5hdgIzxSe5/view |website=Boletim Oficial da República de Cabo Verde |page=2–3}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+{{Cape Verdean elections}}
+
+[[Category:Presidential elections in Cape Verde]]
+[[Category:2011 elections in Africa|Cape Verde]]
+[[Category:2011 in Cape Verde|Presidential]]
+
+{{CapeVerde-stub}}
+{{Africa-election-stub}}

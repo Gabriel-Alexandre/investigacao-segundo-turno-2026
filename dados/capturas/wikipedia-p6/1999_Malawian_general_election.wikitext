@@ -1,0 +1,125 @@
+{{Short description|none}}
+{{Infobox election
+| country = Malawi
+| flag_year = 1999
+| previous_election = 1994 Malawian general election
+| previous_year = 1994
+| election_date = 15 June 1999
+| next_election = 2004 Malawian general election
+| next_year = 2004
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| registered = 5,071,822
+| turnout = 93.59% ({{increase}} 12.93 [[Percentage point|pp]])
+
+| image1 = Visit of Bakili Muluzi, President of Malawi, to the EC - 2002 (cropped).jpg
+| nominee1 = '''[[Bakili Muluzi]]'''
+| party1 = United Democratic Front (Malawi)
+| popular_vote1 = '''2,442,685'''
+| running_mate1 = '''[[Justin Malewezi]]'''
+| percentage1 = '''52.34%'''
+
+| image2 = Gwanda Chakuamba (cropped).jpg
+| nominee2 = {{nowrap|[[Gwanda Chakuamba]]}}
+| party2 = [[Malawi Congress Party|MCP]]–[[Alliance for Democracy (Malawi)|AFORD]]
+| running_mate2 = [[Chakufwa Chihana]]
+| popular_vote2 = 2,109,790
+| percentage2 = 45.21%
+
+| title = [[President of Malawi|President]]
+| before_election = [[Bakili Muluzi]]
+| before_party = United Democratic Front (Malawi)
+| after_election = [[Bakili Muluzi]]
+| after_party = United Democratic Front (Malawi)
+
+| map_image = 1999 Malawian presidential election - Results by region and district.svg
+| map_caption = Results by [[Regions of Malawi|region]] (left) and [[Districts of Malawi|district]] (right)
+
+| module = {{Infobox legislative election
+| election_name = Legislative election
+| embed = yes
+| seats_for_election = All 193 seats in the [[National Assembly (Malawi)|National Assembly]]
+| majority_seats = 97
+| turnout = 92.93% ({{increase}} 13.33 [[Percentage point|pp]])
+
+| party1 = United Democratic Front (Malawi)
+| leader1 = [[Bakili Muluzi]]
+| last_election1 = 85
+| seats1 = 93
+| percentage1 = 47.30
+
+| party2 = Malawi Congress Party
+| leader2 = {{nowrap|[[Gwanda Chakuamba]]}}
+| last_election2 = 56
+| seats2 = 66
+| percentage2 = 33.80
+
+| party3 = Alliance for Democracy (Malawi)
+| leader3 = [[Chakufwa Chihana]]
+| last_election3 = 36
+| seats3 = 29
+| percentage3 = 10.56
+
+| party4 = Independents
+| leader4 = –
+| last_election4 = 0
+| seats4 = 4
+| percentage4 = 7.12
+
+| map = 1999 Malawian parliamentary election - Results by constituency.svg
+| map_caption = Results by constituency
+}}}}}}{{Politics of Malawi}}
+
+General elections were held in [[Malawi]] on 15 June 1999 to elect the [[President of Malawi|President]] and [[National Assembly of Malawi|National Assembly]]. They were originally scheduled for 25 May,<ref>[http://www.eisa.org.za/wep/mal1999bg2.htm Malawi: 1999 Elections (1998-1999)] EISA</ref> but were postponed twice as a result of requests by the opposition to extend the voter registration period.<ref name=IPU/> Both votes were won by the ruling [[United Democratic Front (Malawi)|United Democratic Front]], who took 93 of the 192 seats in the National Assembly, and whose candidate, [[Bakili Muluzi]], won the presidential election with an absolute majority.
+
+In total, eleven parties contested the elections, with 670 candidates.<ref name=IPU>[http://www.ipu.org/parline-e/reports/arc/2195_99.htm Malawi: Parliamentary Chamber: National Assembly: Elections held in 1999] Inter-Parliamentary Union</ref> Voter turnout was 94%.<ref>[http://www.eisa.org.za/wep/mal1999results2.htm Malawi: 1999 Presidential election results] EISA</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Bakili Muluzi]]|party1=[[United Democratic Front (Malawi)|United Democratic Front]]|votes1=2442685
+|cand2=[[Gwanda Chakuamba]]|party2=[[Malawi Congress Party]]–[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes2=2109790
+|cand3=[[Kamlepo Kalua]]|party3=[[Malawi Democratic Party]]|votes3=67856
+|cand4=Daniel Kanfosi Nkhumbwe|party4=[[Congress for National Unity]]|votes4=24349
+|cand5=[[Bingu wa Mutharika]]|party5=United Party|votes5=22064
+|invalid=80021
+|electorate=5071822
+|source=<ref name="results">{{Cite web |title=1999 General Elections |url=https://mec.org.mw/wp-content/uploads/2018/11/PPE-RESULTS-1999.pdf |website=Malawi Electoral Commission |format=PDF}}</ref>
+}}
+
+===National Assembly===
+Elections were not held in the Mchinji West constituency on polling day due to the death of a candidate.<ref>[http://africanelections.tripod.com/mw.html#1999_National_Assembly_Election Elections in Malawi] {{Webarchive|url=https://web.archive.org/web/20141007065747/http://africanelections.tripod.com/mw.html#1999_National_Assembly_Election |date=2014-10-07 }} African Elections Database</ref>
+
+{{Election results
+|party1=[[United Democratic Front (Malawi)|United Democratic Front]]|votes1=2124999|seats1=93|sc1=+8
+|party2=[[Malawi Congress Party]]|votes2=1518548|seats2=66|sc2=+10
+|party3=[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes3=474215|seats3=29|sc3=–7
+|party4=United Party|votes4=26257|seats4=0|sc4=New
+|party5=[[Malawi Democratic Party]]|votes5=11384|seats5=0|sc5=0
+|party6=Social Democratic Party|votes6=7297|seats6=0|sc6=New
+|party7=Malawi Democratic Union|votes7=3269|seats7=0|sc7=0
+|party8=[[Congress for National Unity]]|votes8=3023|seats8=0|sc8=New
+|party9=Sapitwa National Democratic Party|votes9=1372|seats9=0|sc9=New
+|party10=National Patriotic Front|votes10=1149|seats10=0|sc10=New
+|party11=Mass Movement for the Young Generation|votes11=708|seats11=0|sc11=New
+|party12=Independents|votes12=319936|seats12=4|sc12=+4
+|row13=Vacant|seats13=1|sc13=–
+|valid=4491006
+|invalid=192944
+|total_sc=+16
+|electorate=5040240
+|source=<ref name="results"/>
+}}
+
+==References==
+{{reflist}}
+
+{{Malawian elections}}
+
+[[Category:Presidential elections in Malawi]]
+[[Category:Parliamentary elections in Malawi]]
+[[Category:1999 elections in Africa|Malawi]]
+[[Category:1999 in Malawi]]
+[[Category:June 1999 in Africa|Malawi]]

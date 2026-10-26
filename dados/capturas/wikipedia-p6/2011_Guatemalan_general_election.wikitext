@@ -1,0 +1,132 @@
+{{Short description|none}}
+{{Expand Spanish|topic=gov|date=August 2025}}
+{{Infobox election
+| country = Guatemala
+| previous_election = 2007 Guatemalan general election
+| previous_year = 2007
+| next_election = 2015 Guatemalan general election
+| next_year = 2015
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 11 September 2011 (first round)<br />{{nowrap|6 November 2011 (second round)}}
+| turnout = 68.86% (first round) {{increase}} 8.50[[percentage point|pp]]<br />60.64% (second round) {{increase}} 12.44[[percentage point|pp]]
+
+| image1 = Foto oficial de Presidente Otto Molina Perez (cropped).jpg
+| nominee1 = '''[[Otto Pérez Molina]]'''
+| running_mate1= '''[[Roxana Baldetti]]'''
+| party1 = Patriotic Party (Guatemala)
+| popular_vote1 = '''2,300,979'''
+| percentage1 = '''53.74%'''
+
+| image2 = Manuel Baldizón 2015 (cropped).jpg
+| nominee2 = [[Manuel Baldizón]]
+| popular_vote2 = 1,981,003
+| percentage2 = 46.26%
+| party2 = Renewed Democratic Liberty
+| running_mate2= [[Raquel Blandón]]
+
+| map_image = Elecciones Presidenciales Guatemala 2011.svg
+| title = President
+| before_election = [[Álvaro Colom]]
+| before_party = National Unity of Hope
+| posttitle = President-elect
+| after_election = [[Otto Pérez Molina]]
+| after_party = Patriotic Party (Guatemala)
+}}}}{{Politics of Guatemala}}
+
+General elections were held in [[Guatemala]] on 11 September 2011 in order to elect the [[President of Guatemala|president]], [[Vice President of Guatemala|vice president]], members of [[Congress of Guatemala|Congress]], members of the [[Central American Parliament]] and mayors and councillors for all [[Municipalities of Guatemala|municipalities]]. The [[Patriotic Party (Guatemala)|Patriotic Party]] emerged as the largest party in Congress, winning 56 of the 158 seats.
+
+As no candidate received more than 50% of the vote, a second round of the presidential election was held on 6 November with [[Otto Pérez Molina]] of the PP facing [[Manuel Baldizón]] of [[Renewed Democratic Liberty]]. Pérez was elected with 53.7% of the vote.
+
+==Campaign==
+[[Guatemalan National Revolutionary Unity]] and other leftist groups ran under the Broad Front of the Left banner, nominating [[Rigoberta Menchú]] as their presidential candidate.
+
+Guatemala's high crime rate was a major issue in the campaign as it sits near the Mexican border that is a conduit for drug trafficking.
+
+Baldizon campaigned on the premise of having Guatemala's football team to the World Cup. He also promised to tackle poverty and crime, as well as assure workers an extra month's salary every year. He also said he would reinstate the death penalty and televise executions.
+
+==Opinion polls==
+Polls showed Pérez Molina with a lead over other possible candidates.<ref>{{cite web|url=http://english.aljazeera.net/news/americas/2011/09/2011911123350301233.html|title=Guatemala votes for new president|website=English.Aljazeera.net|access-date=24 November 2017}}</ref>
+
+A poll for the second round showed Pérez Molina with 49.4% to Baldizón's 39.2%; 11% were undecided.<ref>{{cite web|url=https://centralamericanpolitics.blogspot.com/2011/10/2nd-round-poll-numbers.html|title=2nd Round Poll Numbers - Update|website=centralamericanpolitics.Blogspot.com|access-date=24 November 2017}}</ref> A second poll gave Pérez Molina 39.7% to Baldizón's 32.2%, with 28% undecided.<ref>{{cite web|url=https://centralamericanpolitics.blogspot.com/2011/10/2nd-poll-has-perez-molina-in-lead.html|title=2nd Poll has Perez Molina in Lead|website=centralamericanpolitics.Blogspot.com|access-date=24 November 2017}}</ref> A third poll gave Pérez Molina the lead with 45.7% to Baldizón's 37.2% and 17.1% undecided.<ref>{{cite web|url=https://centralamericanpolitics.blogspot.com/2011/10/three-for-three.html|title=Three for Three|website=centralamericanpolitics.Blogspot.com|access-date=24 November 2017}}</ref> A final poll had Pérez Molina ahead with 54.6%, Baldizón at 38.7% and undecided at 5.7%.<ref>{{cite web|url=https://centralamericanpolitics.blogspot.com/2011/11/weekend-elections.html|title=Weekend Elections|website=centralamericanpolitics.Blogspot.com|access-date=24 November 2017}}</ref>
+
+Former Foreign Minister [[Edgar Gutierrez]] said that "the polling methods are inadequate. They've failed to capture how between 25 and 30 per cent of the people intend to vote."
+
+==Conduct==
+Amongst the observers for the election were Oscar Almengor, who led a team [[University of San Carlos]].<ref name="result"/>
+
+According to Article 186(c) of the Constitution, the relatives of the president cannot participate in the presidential election when the relative holds the presidency. [[Sandra Torres (politician)|Sandra Torres]], former wife of the current president, got divorced to run for the presidency. There were several requests to have a warrant to forbid Sandra Torres from participating in the election. On 9 August 2011, the Constitutional Court upheld a sentence of the Supreme Court preventing Torres from running.{{Citation needed|date=November 2011}}
+
+==Results==
+===President===
+On 6 November, Molina declared victory in the election saying that: "For all the Guatemalans who have put their trust in me, I thank you very much. To those Guatemalans who did not vote for Otto Perez, I make a call to unite and to work together in the next four years, leaving aside party colours." Turnout for the runoff was half that of the first round in some regions.<ref name="result">{{cite web|url=http://english.aljazeera.net/news/americas/2011/11/2011117131144103.html|title=Ex-general wins Guatemala presidential vote|website=English.Aljazeera.net|access-date=24 November 2017}}</ref>
+
+{{Election results
+|cand1=[[Otto Pérez Molina]]|vp1=[[Roxana Baldetti]]|party1=[[Patriotic Party (Guatemala)|Patriotic Party]]|votes1=1604472|votes1_2=2300998
+|cand2=[[Manuel Baldizón]]|vp2=[[Raquel Blandón]]|party2=[[Renewed Democratic Liberty]]|votes2=1016340|votes2_2=1981048
+|cand3=[[Eduardo Suger]]|vp3=Laura Reyes|party3=[[Commitment, Renewal and Order]]|votes3=737452
+|cand4=Mario Estrada|vp4=Mauricio Urruela|party4=[[National Change Union]]|votes4=387001
+|cand5=[[Harold Caballeros]]|vp5=Efraín Medina|party5=[[Vision with Values]]–[[Encuentro por Guatemala]]|votes5=277365
+|cand6=[[Rigoberta Menchú]]|vp6=Aníbal García|party6=Broad Front of the Left ([[Winaq]]–[[Guatemalan National Revolutionary Unity|URNG–MAIZ]]–[[New Nation Alternative|ANN]])|votes6=145080
+|cand7=Juan Gutiérrez|vp7=Carlos Zúñiga|party7=[[National Advancement Party]]|votes7=122800
+|cand8=[[Patricia Escobar]]|vp8=Álvaro Rodas|party8=[[Unionist Party (Guatemala)|Unionist Party]]|votes8=97498
+|cand9=[[Alejandro Giammattei]]|vp9=Oscar Zamora|party9=[[Social Action Centre]]|votes9=46875
+|cand10=[[Adela de Torrebiarte]]|vp10=José de León|party10=National Development Action|votes10=19049
+|invalid=601251|invalid2=169440
+|electorate=7340841|electorate2=7340841
+|source=[http://tse.org.gt/memoria-electoral-2011.pdf TSE]
+}}
+
+===Congress===
+Of 158 congressmen to be elected, 126 congressmen sought re-election but only 56 were re-elected and 102 new congressmen were elected for the first time since democratic election took root in Guatemala. About 65% of MPs were first time representatives, which was the first time this occurred since the [[1995 Guatemalan general election|1995 election]].{{Citation needed|date=November 2011}}
+
+{{Election results
+|image=[[File:Congreso de Guatemala posterior a las elecciones 2011.svg|300px]]
+|firstround=National|secondround=District
+|party1=[[Patriotic Party (Guatemala)|Patriotic Party]]|votes1=1165221|seats1=9|votes1_2=1176899|seats1_2=48|totseats1=57|sc1=+27
+|party2=[[National Unity of Hope|UNE]]–[[Grand National Alliance (Guatemala)|GANA]]|votes2=985610|seats2=8|votes2_2=801839|seats2_2=31|totseats2=39|sc2=–
+|party3=[[National Change Union]]|votes3=418175|seats3=3|votes3_2=399440|seats3_2=11|totseats3=14|sc3=+10
+|party4=[[Renewed Democratic Liberty]]|votes4=387378|seats4=3|votes4_2=416880|seats4_2=11|totseats4=14|sc4=New
+|party5=[[Commitment, Renewal and Order]]|votes5=382730|seats5=3|votes5_2=409050|seats5_2=9|totseats5=12|sc5=New
+|party6=[[Vision with Values]]–[[Encuentro por Guatemala]]|votes6=345709|seats6=2|votes6_2=244654|seats6_2=4|totseats6=6|sc6=+2
+|party7=Broad Front of the Left ([[Winaq]]–[[Guatemalan National Revolutionary Unity|URNG-MAIZ]]–[[New Nation Alternative|ANN]])|votes7=143238|seats7=1|votes7_2=50307|seats7_2=0|totseats7=1|sc7=–
+|party8=[[National Advancement Party]]|votes8=136247|seats8=1|votes8_2=148240|seats8_2=1|totseats8=2|sc8=–2
+|party9=[[Guatemalan Republican Front]]|votes9=120105|seats9=1|votes9_2=112604|seats9_2=0|totseats9=1|sc9=–14
+|party10=[[Unionist Party (Guatemala)|Unionist Party]]|votes10=118309|seats10=0|votes10_2=138879|seats10_2=1|totseats10=1|sc10=–7
+|party11=[[Victory (political party)|Victory]]|votes11=71588|seats11=0|votes11_2=76026|seats11_2=1|totseats11=1|sc11=New
+|party12=[[Social Action Centre]]|votes12=48517|seats12=0|votes12_2=56623|seats12_2=0|totseats12=0|sc12=–5
+|party13=National Development Action|votes13=39160|seats13=0|votes13_2=43339|seats13_2=0|totseats13=0|sc13=New
+|party14=[[National Convergence Front]]|votes14=23470|seats14=0|votes14_2=11576|seats14_2=0|totseats14=0|sc14=New
+|party15=[[National Unity of Hope]]|votes15_2=201556|seats15_2=9|totseats15=9|sc15=–
+|party16=[[Guatemalan National Revolutionary Unity]]|votes16_2=38458|seats16_2=1|totseats16=1|sc16=–
+|party17=[[Grand National Alliance (Guatemala)|Grand National Alliance]]|votes17_2=37750|seats17_2=0|totseats17=0|sc17=–
+|party18=[[Guatemalan National Revolutionary Unity|URNG-MAIZ]]|votes18_2=23631|seats18_2=0|totseats18=0|sc18=–
+|party19=[[Vision with Values]]|votes19_2=13210|seats19_2=0|totseats19=0|sc19=–
+|party20=[[Winaq]]–[[New Nation Alternative|ANN]]|votes20_2=7524|seats20_2=0|totseats20=0|sc20=–
+|party21=[[Guatemalan National Revolutionary Unity|URNG-MAIZ]]–[[New Nation Alternative|ANN]]|votes21_2=6493|seats21_2=0|totseats21=0|sc21=–
+|party22=[[Winaq]]|votes22_2=4324|seats22_2=0|totseats22=0|sc22=–
+|party23=[[Mi Pais (political party)|Mi Pais]]|votes23_2=2043|seats23_2=0|totseats23=0|sc23=New
+|invalid=334635|invalid2=326896
+|blank=344277|blank2=309549
+|total_sc=0
+|electorate=7340841|electorate2=7340841
+|source=[http://tse.org.gt/memoria-electoral-2011.pdf TSE], [http://www.electionpassport.com/files/GT/GT.xlsx Election Passport]
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.tse.org.gt/ Tribunal Supremo Electoral] {{in lang|es}}
+*[https://web.archive.org/web/20110923184142/http://www.elecciones2011.tse.org.gt/ Elecciones Generales 2011] {{in lang|es}}
+*[https://web.archive.org/web/20110923165103/http://resultados2011.tse.org.gt/ Resultados Elecciones Generales y al Parlamento Centroamericano 2011] {{in lang|es}}
+
+{{Guatemalan elections}}
+
+[[Category:Parliamentary elections in Guatemala]]
+[[Category:2011 elections in Central America|Guatemala]]
+[[Category:2011 in Guatemala|General]]
+[[Category:Presidential elections in Guatemala]]
+[[Category:Election and referendum articles with incomplete results]]

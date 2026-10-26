@@ -1,0 +1,3044 @@
+{{Short description|Election of François Hollande}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox election
+| country = France
+| type = presidential
+| previous_election = 2007 French presidential election
+| previous_year = 2007
+| next_election = 2017 French presidential election
+| next_year = 2017
+| election_date = 22 April 2012 (first round)<br />6 May 2012 (second round)
+| image1 = [[File:François Hollande - Janvier 2012 (cropped) for ITN.jpg|x180px]]
+| nominee1 = '''[[François Hollande]]'''
+| party1 = Socialist Party (France)
+| popular_vote1 = '''18,000,668'''
+| percentage1 = '''51.64%'''
+| image2 = [[File:Ex-presidente Nicolas Sarkozy no Palácio do Planalto 2012 (1) (cropped).jpg|x180px]]
+| nominee2 = [[Nicolas Sarkozy]]
+| party2 = Union for a Popular Movement
+| popular_vote2 = 16,860,685
+| percentage2 = 48.36%
+| map_image = {{Switcher
+| [[File:Élection présidentielle française de 2012 T1 carte départements & régions.svg|300px]]
+| First round results by department and region
+| [[File:Élection présidentielle française de 2012 T2 carte départements & régions.svg|300px]]
+| Second round results by department and region
+| default = 2
+}}
+| title = [[President of France|President]]
+| before_election = [[Nicolas Sarkozy]]
+| before_party = Union for a Popular Movement
+| after_election = [[François Hollande]]
+| after_party = Socialist Party (France)
+| turnout = 79.48% (first round) {{decrease}}4.29 [[Percentage point|pp]]<br/>80.35% (second round) {{decrease}}3.62 [[Percentage point|pp]]
+| image_size = 200x200px
+}}
+
+[[Presidential elections in France|Presidential elections]] were held in [[France]] on 22 April 2012 (or 21 April in some overseas departments and territories), with a second round [[Two-round system|run-off]] held on 6 May (or 5 May for those same territories) to elect the [[President of France]] (who is also ''ex officio'' one of the [[Co-Princes of Andorra|two joint heads of state]] of Andorra, a sovereign state). The incumbent [[Nicolas Sarkozy]] was running for a second five-year term for which he was eligible for under the [[Constitution of France]].
+
+The first round ended with the selection of [[François Hollande]] and Nicolas Sarkozy as second round participants, as neither of them received a majority of votes cast in the first round. Hollande won the runoff with 51.64% of the vote to Sarkozy's 48.36%. Hollande was the former partner of [[Ségolène Royal]], whom Sarkozy defeated five years earlier in [[2007 French presidential election|2007]].<ref>Ministère de l'Interieur: [http://elections.interieur.gouv.fr/PR2012/FE.html Élection Présidentielle 2012, Résultats 2nd tour]</ref> It was the second time in French history and the first time since the [[1981 French presidential election|1981 election]] that a President seeking reelection was denied a second term, and the only time the incumbent seeking reelection did not obtain the most votes in the first round.
+
+The presidential elections were followed by [[2012 French legislative election|legislative elections]] in June. This is the last French presidential election in which the winning candidate won by a single-digit margin.
+
+==Electoral system==
+In [[overseas departments and territories of France]] located west of [[metropolitan France]] ([[Saint Pierre and Miquelon]], [[Collectivity of Saint Martin|Saint Martin]], [[Saint Barthélemy]], [[Guadeloupe]], [[Martinique]], [[French Guiana]], and [[French Polynesia]]), voting takes place a day early, so that citizens in those territories and departments do not find themselves voting after the initial announcement of results. This is also the case for French residents in foreign countries west of metropolitan France. Some of these communities are remote; [[French Guiana#Demographics|Amerindians in French Guiana]], who are French citizens, "sometimes live more than three hours away by canoe from their ballot box", particularly in the large remote [[communes of France|commune]] of [[Maripasoula]]. The electoral campaign papers sent to these voters, however, reportedly indicated 22 April as the day of the election, instead of 21 April.<ref>{{cite web|url=http://www.liberation.fr/politiques/2012/04/22/guyane-en-taxi-pirogue-vers-les-buraux-de-vote_813411 |title=Guyane: en taxi-pirogue vers les bureaux de vote |work=Libération |date=22 April 2012 |access-date=6 May 2012}}</ref>
+
+==Candidates==
+In order to qualify for the first round of voting, a candidate had to collect the signatures of at least five hundred elected representatives among a total of more than 47,000; these could be mayors, general councillors, regional councillors, deputies, senators, members of the European Parliament elected in France.<ref name=nytmdlb500>{{cite news|last=de la Baume|first=Maia|title=In a Political Ritual, Candidates Tour France in a Race for 500 Signatures|url=https://www.nytimes.com/2012/01/31/world/europe/in-political-rite-french-hopefuls-seek-500-backers.html|access-date=3 February 2012|newspaper=The New York Times|date=30 January 2012}}</ref> The number of signatures per candidate is not released, but five hundred signatories for each candidate are chosen randomly and their names are published.<ref>{{Cite web|url=http://www.huffingtonpost.fr/2012/03/31/presidentielle-2012-les-noms-de-500-parrains-de-chaque-candidat/|title=Présidentielle 2012: les noms de 500 parrains de chaque candidat publiés au Journal officiel|website=Le Huffington Post|access-date=1 March 2017|archive-url=https://web.archive.org/web/20170301092845/http://www.huffingtonpost.fr/2012/03/31/presidentielle-2012-les-noms-de-500-parrains-de-chaque-candidat/|archive-date=1 March 2017|url-status=dead}}</ref> Ten candidates qualified in 2012:<ref name=conseil_constitutionnel>[http://www.conseil-constitutionnel.fr/conseil-constitutionnel/root/bank/download/cc2012listecandidats.pdf Décision du 19 mars 2012 arrêtant la liste des candidats à l’élection présidentielle] {{Webarchive|url=https://web.archive.org/web/20120417021012/http://www.conseil-constitutionnel.fr/conseil-constitutionnel/root/bank/download/cc2012listecandidats.pdf |date=17 April 2012 }} – ''[[Constitutional Council of France|Conseil Constitutionnel]]''</ref>
+
+===Primaries===
+====Socialist Party====
+{{Main|French Socialist Party presidential primary, 2011}}
+The 2011 French Socialist Party presidential primary was the first [[open primary]] (''primaires citoyennes''), jointly held by the [[French Socialist Party]] and [[Radical Party of the Left]]<ref>{{cite web |url=http://www.parti-socialiste.fr/articles/second-tour-des-primaires-citoyennes-les-resultats |title=Second tour des Primaires citoyennes, les résultats |language=fr |publisher=Parti-socialiste.fr |access-date=22 April 2012 |url-status=dead |archive-url=https://web.archive.org/web/20111221041628/http://www.parti-socialiste.fr/articles/second-tour-des-primaires-citoyennes-les-resultats |archive-date=21 December 2011  }}</ref><ref>{{Citation |first=Angelique |last=Chrisafis |title=French Socialist party election overshadowed by love triangle |newspaper=The Guardian |date=13 September 2011 |url=https://www.theguardian.com/world/2011/sep/13/french-socialist-party-love-triangle |location=London}}</ref><ref>{{Citation |first=Jonathan |last=Derbyshire |title=French socialist primary |newspaper=New Statesman |date=9 October 2011 |url=http://www.newstatesman.com/blogs/the-staggers/2011/10/french-baylet-riders-round}}</ref> for selecting their candidate for the 2012 presidential election. Voters had to donate at least one Euro and sign a pledge to the values of the Left to be eligible.<ref>{{Citation |title=Q&A: French Socialist presidential primaries |work=BBC News |date=16 October 2011 |url=https://www.bbc.co.uk/news/world-europe-15201158}}</ref><ref>{{Citation |title=One million voters turn out for French Socialist presidential primary |publisher=France 24 |date=9 October 2011 |url=http://www.france24.com/en/20111009-ps-socialist-party-france-primaries-presidential-election}}</ref> The filing deadline for primary nomination papers was fixed on 13 July 2011 and six candidates competed in the first round of the vote. On election day, 9 October 2011, no candidate won at least 50% of the vote therefore the two candidates with the most votes contested a [[runoff primary|runoff election]] on 16 October 2011: [[François Hollande]] won the primary, defeating [[Martine Aubry]].<ref name="Diffley">{{cite news|last=Diffley|first=Angela|title=Hollande or Aubry will take on Sarkozy in presidentials|publisher=Radio France Internationale|date=10 October 2011|url=http://www.english.rfi.fr/france/20111010-hollande-or-aubry-will-take-sarkozy-presidential-elections|access-date=10 October 2011}}</ref> The idea for holding an open primary to choose the Socialist Party candidate was originally suggested in 2008 by the left-leaning think tank [[Terra Nova (think tank)|Terra Nova]].<ref>{{Cite web |url=http://www.tnova.fr/essai/pour-une-primaire-la-fran-aise |title = Pour une primaire à la Française {{!}} Terra Nova  |access-date=15 November 2013 |archive-url=https://web.archive.org/web/20150122103828/http://www.tnova.fr/essai/pour-une-primaire-la-fran-aise |archive-date=22 January 2015 |url-status=dead  }}</ref>
+
+====Europe Écologie–The Greens====
+[[File:2010 11 13 EVA EELV Lyon net (32).jpg|thumb|right|The candidates of the Ecology primary sitting together]]
+[[Europe Écologie–The Greens]] (EELV) held a primary to choose its candidate. The vote was open to all members of the party and of the [[Independent Ecological Movement]]. There were four candidates. The first round was held on 29 June 2011. [[Eva Joly]], a member of EELV and a former [[examining magistrate]], obtained 49.75% of the vote, ahead of independent candidate and environmental campaigner [[Nicolas Hulot]] (40.22%). The other two candidates, [[Henri Stoll]] and [[Stéphane Lhomme]], obtained 5.02% and 4.44% respectively. The second round was held on 12 July, with Eva Joly obtaining 13,223 votes (58.16%) to Hulot's 9,399.<ref>[http://www.lemonde.fr/politique/article/2011/07/12/primaire-ecologiste-eva-joly-l-emporte-par-58-des-voix_1548022_823448.html "Primaire écologiste : Eva Joly l'emporte par 58 % des voix"], ''[[Le Monde]]'', 12 July 2011</ref>
+
+===Confirmed candidates===
+<gallery perrow="5">
+File:Francois_Hollande_2015.jpeg|[[Socialist Party (France)|Socialist Party]]: [[President of the General Council]] of [[Corrèze]], former First Secretary of the Socialist Party and [[National Assembly of France|MP]] [[François Hollande]]
+File:Nicolas Sarkozy in 2010.jpg|[[Union for a Popular Movement]]: On 15 February 2012, [[President of France|President]] Nicolas Sarkozy announced he was running for a second five-year term.<ref>{{cite news | url=http://articles.cnn.com/2012-02-15/world/world_europe_france-sarkozy-election_1_twitter-account-marine-le-pen-french-people?_s=PM:EUROPE | work=CNN | title=How will shootings affect French election? | date=22 March 2012 | access-date=18 February 2012 | archive-url=https://web.archive.org/web/20120523184649/http://articles.cnn.com/2012-02-15/world/world_europe_france-sarkozy-election_1_twitter-account-marine-le-pen-french-people?_s=PM:EUROPE | archive-date=23 May 2012 | url-status=dead | df=dmy-all }}</ref>
+File:Marine Le Pen 2011 (cropped).jpg|[[National Front (France)|National Front]]: Party president and [[Member of the European Parliament|MEP]] [[Marine Le Pen]] was selected on 16 May 2011.<ref>{{Cite web |url=http://chuiko.com/world/4622-marine-le-pen-put-forward-a-candidate-for-president-of-france.html |title = chuiko.com  |access-date=22 January 2012 |archive-date=9 March 2012 |archive-url=https://web.archive.org/web/20120309180704/http://chuiko.com/world/4622-marine-le-pen-put-forward-a-candidate-for-president-of-france.html |url-status=dead }}</ref><ref>[http://www.presidentielle2012.net/candidat/marine-le-pen] {{Dead link|date=April 2019|bot=InternetArchiveBot|fix-attempted=yes}}</ref><ref>{{cite web|url=http://tf1.lci.fr/infos/france/politique/0,,3611102,00-marine-pen-envisage-presenter-2012-.html |title=marine Lepen envisage presenter en 2012 |publisher=TF1 News |access-date=29 September 2011 |url-status=dead |archive-url=https://web.archive.org/web/20080307231600/http://tf1.lci.fr/infos/france/politique/0,,3611102,00-marine-pen-envisage-presenter-2012-.html |archive-date=7 March 2008 }}</ref>
+File:Jean-Luc Melenchon Front de Gauche 2009-03-08.jpg|[[Left Front (France)|Left Front]]: [[Member of the European Parliament|MEP]], former [[Senate of France|senator]] and co-president of the [[Left Party (France)|Left Party]] [[Jean-Luc Mélenchon]]<ref name="humanite.fr">S.C., {{Deprecated archive|url=https://archive.today/20110609105651/http://www.humanite.fr/2009-09-10_Idees-Tribune-libre-Histoire_Alain-Bocquet-L-idee-communiste-a-besoin-d|title=« L’idée communiste a besoin d’un parti »}}, ''[[L'Humanité]]'', 10 September 2009.</ref>
+File:Francois bayrou close.jpg|[[Democratic Movement (France)|Democratic Movement]]: [[François Bayrou]], president of [[MoDem]] and [[National Assembly of France|MP]], confirmed his candidacy on 22 August 2011.<ref>{{Cite web |url=http://www.francetv.fr/2012/francois-bayrou-a-officialise-sa-candidature-2639 |title = François Bayrou a officialisé sa candidature {{!}} Election Présidentielle 2012 - France Télévisions  |access-date=18 November 2011 |archive-date=14 April 2012 |archive-url=https://web.archive.org/web/20120414150338/http://www.francetv.fr/2012/francois-bayrou-a-officialise-sa-candidature-2639 |url-status=dead }}</ref>
+File:Eva Joly - Grenoble 2012 (cropped).jpg|[[Europe Écologie–The Greens]]: [[Member of the European Parliament|MEP]] and former [[magistrate]] [[Eva Joly]]<ref>{{cite web|url=http://www.alertnet.org/thenews/newsdesk/LDE65A1CJ.htm |title=News |publisher=AlertNet |access-date=29 September 2011}}</ref>
+File:Portrait 3 - Flickr - dupontaignan (cropped).jpg|[[Arise the Republic]]: Mayor of [[Yerres]] and [[National Assembly of France|MP]] [[Nicolas Dupont-Aignan]]<ref>[http://www.lefigaro.fr/flash-actu/2010/11/21/97001-20101121FILWWW00141-dupont-aignan-candidat-en-2012.php "Nicolas Dupont-Aignan, candidate in 2012"]- ''[[Le Figaro]]'' (21 November 2010)</ref>
+File:Philippe Poutou 2011.jpg|[[New Anticapitalist Party]]: [[Philippe Poutou]]<ref>{{Cite web |url=http://www.npa2009.org/content/npa-philippe-poutou-un-ouvrier-pugnace-pour-succ%C3%A9der-%C3%A0-besancenot |title=NPA : Philippe Poutou, un ouvrier pugnace pour succéder à Besancenot |access-date=25 June 2011 |archive-date=29 March 2020 |archive-url=https://web.archive.org/web/20200329065005/https://npa2009.org/actualite/npa-philippe-poutou-un-ouvrier-pugnace-pour-succeder-besancenot |url-status=dead }}</ref>
+File:Nathalie Arthaud.png|[[Workers' Struggle]]: [[Nathalie Arthaud]]
+</gallery>
+
+==Campaign==
+The official campaign began on 20 March, but in the wake of the [[2012 Midi-Pyrénées shootings|shooting at the Ozar Hatorah day school]] in [[Toulouse]] the two leading candidates, Hollande and Sarkozy, suspended their campaigns.<ref>{{cite web|url=http://www.lemonde.fr/election-presidentielle-2012/article/2012/03/19/fusillade-de-toulouse-la-classe-politique-exprime-son-emotion_1671861_1471069.html|archive-url=https://archive.today/20120319171823/http://www.lemonde.fr/election-presidentielle-2012/article/2012/03/19/fusillade-de-toulouse-la-classe-politique-exprime-son-emotion_1671861_1471069.html|url-status=dead|archive-date=19 March 2012|title=Fusillade de Toulouse : pour le PS, "la campagne est suspendue"|work=Le Monde  |date=19 March 2012|language=fr}}</ref> Although Jean-Luc Mélenchon argued that to continue with the campaign was "an act of moral, emotional and intellectual resistance."<ref>{{cite web|url=http://www.ladepeche.fr/article/2012/03/20/1310690-toulouse-montauban-poursuivre-la-campagne-un-acte-de-resistance-pour-melenchon.html|title=Poursuivre la campagne, "un acte de résistance" pour Mélenchon|language=fr}}</ref> In some parts of the media, Sarkozy and Le Pen were also criticised for misusing the [[2012 Midi-Pyrénées shootings|Midi-Pyrénées shootings]] as campaign fodder against "radical Islam."<ref>{{cite web|url=http://www.aljazeera.com/news/europe/2012/04/20124535636544797.html |title=Greek unrest over pensioner suicide |publisher=Al Jazeera English |access-date=6 May 2012}}</ref>
+
+The following is a brief overview of the campaign adapted from information in ''[[Le Monde]]''.<ref>[http://www.lemonde.fr/election-presidentielle-2012/article/2012/04/21/retour-sur-la-campagne-la-selection-du-service-politique-du-monde_1686811_1471069.html "Retour sur la campagne : la sélection du service politique du "Monde""], ''Le Monde'', 21 April 2012</ref>
+
+=== François Hollande ===
+{{main page|2012 François Hollande presidential campaign}}
+[[File:Hollande 089 (cropped).JPG|thumb|left|Hollande campaigning]]
+[[François Hollande]], the candidate of the [[Socialist Party (France)|Socialist Party]] and the [[Radical Party of the Left]], topped the opinion polls throughout the campaign. He emphasised his promise to be a "normal" president, in contrast to Nicolas Sarkozy's sometimes controversial presidential style. He aimed to resorb France's national debt by 2017, notably by cancelling tax cuts for the wealthy and tax exemptions introduced by President Sarkozy. Income tax would be raised to 75% for incomes beyond one million euros; the retirement age would be brought back to 60 (with a full pension) for persons who have worked 42 years; 60 000 jobs cut by Nicolas Sarkozy in public education would be recreated. Homosexual couples would have the right to marry and adopt. Residents without European Union passports would be given the right to vote in local elections after five years of legal residency. On housing, he has promised to regulate rises in rent; to use punitive measures to compel towns and cities to apply the 2000 [[Law on Solidarity and Urban Renewal]], which mandates the providing of social housing; and to provide public lands for the building of social housing. Hollande won the election, finishing first on the first balloting of ten candidates in April with 28.63% of the vote, and again finishing first on the runoff ballot between himself and Sarkozy with 51.64% against Sarkozy's 48.36%.<ref name="auto">{{Cite web|url=http://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__PR2012|title=Résultats de l'élection présidentielle 2012|first=Ministère de|last=l'Intérieur|website=Interieur.gouv.fr|access-date=11 November 2021}}</ref>
+
+=== Nicolas Sarkozy ===
+Nicolas Sarkozy, the incumbent president and candidate of the [[Union for a Popular Movement]], was aiming for a second and last term in office. He was consistently second in opinion polls throughout the campaign, behind François Hollande. His reforms during his first term included a reform of universities, and of the retirement age; a reform enabling citizens to query the [[constitutionality]] of laws; and a reduction in the number of public sector employees. He argued that his reforms had helped steer France through a period of economic crisis.
+
+[[File:Meeting Sarkozy, place de la Concorde, 15 avril 2012 (3).jpg|thumb|right|Sarkozy rally at [[Place de la Concorde]]]]
+Sarkozy's campaign pledges for his potential second term are described by ''Le Monde'' as "anchored on the right". He has promised to reduce legal immigration by 50%; threatened to withdraw France from the [[Schengen Area]] unless it were revised to enable stricter border controls; promised to compel beneficiaries of the [[Revenu de solidarité active]] to accept certain jobs, in exchange for support in finding them; and opposed Hollande's proposals in favour of gay marriage and voting rights for foreign residents in local elections. He has also promised more frequent referendums, for citizens to be consulted on major issues.
+
+Sarkozy admitted during the campaign that he did not visit [[Fukushima, Fukushima|Fukushima]] while in Japan after [[2011 Tōhoku earthquake and tsunami|the previous year's earthquake and tsunami]], despite having previously said he had done so.<ref>{{cite news|url=https://www.bbc.co.uk/news/world-europe-17700791|title=France's Nicolas Sarkozy admits Fukushima nuclear gaffe|work=BBC News |publisher=BBC|date=13 April 2012|access-date=13 April 2012}}</ref>
+
+=== Marine Le Pen ===
+{{main page|2012 Marine Le Pen presidential campaign}}
+[[File:Meeting 1er mai 2012 Front National, Paris (15) (cropped).jpg|thumb|right|Le Pen campaigning]]
+[[Marine Le Pen]] is the candidate of the [[National Front (France)|National Front]], succeeding her father [[Jean-Marie Le Pen]], who was a candidate in five presidential elections. Aiming to reach the second round, as her father had done in 2002, she also attempted to provide a different image of the party, avoiding the controversial statements previously made by her father. She has advocated "national preference" for French citizens (over foreign residents) for access to jobs and social services, and a form of protectionism, as well as withdrawing from the euro and the European Union. She has advocated reducing legal immigration by 95%, abolishing the right to [[family reunification]], and reinstating the death penalty, abolished in 1981 by then president [[François Mitterrand]]. She held the third place in opinion polls for much of the campaign, occasionally rising into first and second place in 2011 or dipping to fourth behind Jean-Luc Mélenchon, but remained consistently behind Hollande and Sarkozy by 2012. She finished the 2012 balloting with 17.90% of the vote tally, placing her third in the final results.<ref name="auto"/>
+
+=== Jean-Luc Mélenchon ===
+[[File:Front de Gauche - Fête de l'Humanité 2012 - 002 (cropped).jpg|thumb|right|Mélenchon campaigning]]
+
+[[Jean-Luc Mélenchon]] is the candidate of the [[Left Front (France)|Left Front]], which includes in particular the [[French Communist Party]] and the [[Left Party (France)|Left Party]]. (He is a member of the latter.) He has been described as the surprise or revelation of the campaign, with his level of support in opinion polls rising from 5% in October 2011 to around 15% (and sometimes up to 17%) by the end of the campaign. He finished in the first round of balloting with 11.10% of the national electorate, placing him fourth in the field of 10 candidates.<ref name="auto"/> He inaugurated the practice of giant open-air meetings, which the two leading candidates then adopted in turn. A former French teacher, he was noted for his eloquent style and oratory, but also for his argumentative relationship with journalists, and occasional insults; he notably described Marine Le Pen as "half-demented". He proposed raising the minimum wage to €1,700; setting a maximum wage differential of 1 to 20 in all businesses, so that employers wishing to increase their own salaries would also have to increase those of their employees; setting social and environmental norms which businesses would have to respect in order to receive public subsidies; supporting [[social enterprise]]s through [[government procurement]]; taxing imports which do not meet certain social and environmental norms; and reestablishing 60 as the legal retirement age with a full pension. There would be an "ecological planification" towards a [[green economy|green, sustainable economy]], backed by a "green rule" (''règle verte'') to be inscribed in the Constitution. On tax, he has proposed a progressive taxation, with higher taxes on the wealthy and a 100% tax rate beyond an income of €360,000 (thereby creating a [[maximum wage]]); expatriate French nationals established in a country with a lower tax rate than in France would pay the difference in tax in France. Businesses creating jobs, paying higher wages and/or providing training would receive tax cuts. Healthcare costs would be fully reimbursed by the state, and the [[right to die]] would be recognised. The right to abortion would be secured through inclusion in the Constitution. Homosexual couples would have the right to marry and adopt. Naturalisation of foreign residents would be facilitated, and foreign residents would have the right to vote in local elections. A [[Constitutional convention (political meeting)|constitutional convention]] would be assembled, with an aim in particular to increase the prerogatives of Parliament and diminish the powers of the President; all elections would be based on [[proportional representation]], with gender parity.
+
+=== François Bayrou ===
+[[File:Francois Bayrou-IMG 4432 (cropped).JPG|thumb|left|Bayrou campaigning]]
+[[François Bayrou]] was the candidate of the [[Democratic Movement (France)|Democratic Movement]], which he founded in 2007. He is one of only two candidates to stand in both the 2007 and 2012 elections (the other being Nicolas Sarkozy); he obtained 18.57% of the vote in 2007, finishing third. In the 2012 election he received 9.13% of the vote in the first round of balloting, finishing fifth.<ref name="auto"/> He stands for an independent [[centrism|centre]] in politics, which he has sought to distinguish clearly both from the left and the right. Describing France as being "in a critical state", he has focused on reducing the country's national debt, through a public spending freeze, cuts to [[tax exemption]]s, and a raise in taxes ([[Value added tax]] and taxes on the wealthy). On education, he has proposed that half the time in primary school should be dedicated to the mastering of reading and writing.
+{{clear}}
+
+=== Eva Joly ===
+{{main page|2012 Eva Joly presidential campaign}}
+[[File:Eva Joly (6916945837) (cropped).jpg|thumb|right|Joly campaigning]]
+[[Eva Joly]] was the candidate of [[Europe Écologie–The Greens]]. Before entering politics for this election, she was a known public figure, as the [[examining magistrate]] in criminal corruption cases involving powerful companies or individuals – notably the [[Elf Aquitaine]] oil company, the [[Crédit Lyonnais]] bank or businessman and politician [[Bernard Tapie]]. (See: [[Elf affair]] [[:fr:Affaire Elf|(fr)]].) She is also the first foreign-born person to stand for the French presidency; born in Norway, she is a naturalized French citizen. She focused her campaign not only on the environment but also on social issues, describing herself as the representative of the "reasonable" or "realistic" left, and on denouncing discrimination against ethnic and religious minorities. Homosexual couples would be given the right to marry and adopt, and foreign residents would have the right to vote in all elections. She suggested that the "[[green economy|ecological transformation of the economy]]" would create 600 000 jobs over the next five years. An agreement signed between her party and the Socialist Party contained a clause on the closing of nuclear reactors; in the final stages of the campaign, when François Hollande announced it would not be upheld, she expressed the hope she could still convince him. She also drew attention by accusing Nicolas Sarkozy of having obtained illicit funding for his previous campaign; critics accused her of ignoring the [[presumption of innocence]], and Sarkozy himself replied that he "despised" her accusations. Known for her bright red glasses, which she symbolically switched for bright green ones, she was described by the press as struggling with her campaign, barely reaching 3% in opinion polls.
+{{clear}}
+
+=== Nicolas Dupont-Aignan ===
+[[File:Discours à l'institut de la justice (cropped).jpg|thumb|left|Dupont-Aignan campaigning]]
+[[Nicolas Dupont-Aignan]], described as an "anti-euro [[souverainism|souverainist]]", is the candidate of [[Arise the Republic]], a party he founded in 2008. He has advocated leaving the euro on grounds of economic well-being, and the [[European Union]] "in its current form", which he describes as "already dead" and leading to "economic ruin and social regression". He has called for an "intelligent protectionism", with tariffs on imports that result from "human slavery"; and tax cuts for businesses that reinvest their profits in France. He has described himself as a [[Gaullism|Gaullist]].
+{{clear}}
+
+=== Philippe Poutou ===
+[[File:Philippe Poutou 12 janvier (cropped).jpg|thumb|right|Poutou campaigning]]
+[[Philippe Poutou]], a worker at a [[Ford Motor Company|Ford]] factory in [[Blanquefort, Gironde|Blanquefort]], is the candidate of the [[New Anticapitalist Party]], succeeding [[Olivier Besancenot]]. For much of the campaign, he remained little known to the general public; he was described as lacking Besancenot's popularity, charisma and ease with words. Freely admitting that he did not particularly want to be a candidate, and that he did not aim to be elected (particularly as one of his policies was to abolish the function of president, in favour of a fully parliamentary system), he saw his profile and popularity increase somewhat in the late stages of the campaign, when all candidates obtained equal airtime in the media. In particular, his unconventional behaviour drew attention during the television programme ''Des paroles et des actes'' [[:fr:Des paroles et des actes|(fr)]], along with his unusual campaign clips – such as one based on the film ''[[The Artist (film)|The Artist]]''.<ref>[http://www.lemonde.fr/election-presidentielle-2012/article/2012/04/12/et-philippe-poutou-creva-soudain-l-ecran_1684105_1471069.html "Et Philippe Poutou creva soudain l'écran..."], ''Le Monde'', 12 April 2012</ref><ref>[http://www.ladepeche.fr/article/2012/04/20/1335356-philippe-poutou-est-the-anticapitaliste.html "Philippe Poutou est... "The Anticapitaliste""], ''La Dépêche'', 20 April 2012</ref> Like Nathalie Arthaud, his message was that improvements in workers' rights would come through workers' struggles and demands rather than through the ballot box.
+
+=== Nathalie Arthaud ===
+[[File:Arthaud-Laguiller.jpg|thumb|left|Arthaud campaigning]]
+[[Nathalie Arthaud]], a teacher of economics and management in a secondary school, is the candidate of [[Workers' Struggle]]. She succeeds famous [[perennial candidate]] [[Arlette Laguiller]], who represented the party in six consecutive presidential elections, from [[1974 French presidential election|1974]] to 2007. A [[Trotskyism|Trotskyist]], she has described herself as the "only communist candidate" in the election. She has stated that she does not aim to be elected, describing elections as "inessential", and considering that workers will obtain new rights only through their struggles rather than through the ballot box.
+{{clear}}
+
+=== Jacques Cheminade ===
+[[Jacques Cheminade]] is the candidate of his Solidarity and Progress movement, the French branch of the [[LaRouche movement]]. Described as a "conspiracy theorist" by the press, he drew some attention with his proposals for an expanded [[space programme]], and stagnated slightly above 0% in the opinion polls.
+
+===Second round===
+[[File:François_Hollande_at_a_meeting_during_2012_political_campaign_-_20120429.jpg|thumb|François Hollande at a meeting during 2012 political campaign.]]
+
+Since the first round there had been a drive to woo far-right voters<ref>{{cite news|last=Parussini |first=Gabriele |url=https://www.wsj.com/articles/SB10001424052702303459004577363560927314748 |url-access=subscription |title=French Candidates Woo Far-Right Voters |work=Wall Street Journal |access-date=26 April 2012 |date=25 April 2012}}</ref> with Sarkozy making immigration a major issue of his campaign and Hollande focusing on the euro-zone crisis and the state of the economy.<ref>[https://www.nytimes.com/2012/04/24/world/europe/french-far-right-challenges-both-europe-and-sarkozy.html French Far Right a Challenge for Europe and Sarkozy] 23 April 2012</ref> Sarkozy's move to the right in embracing National Front themes such as stricter immigration has drawn criticism from prominent figures from his own party such as former Prime Ministers [[Dominique de Villepin]], [[Jean-Pierre Raffarin]], [[Alain Juppé]] and Senators [[Chantal Jouanno]] and [[Jean-René Lecerf]].<ref>{{cite news|title= Unease grows in Sarkozy party over rightward lurch|url=https://www.reuters.com/article/us-france-election-strategy-idUSBRE83S06520120429|publisher=Reuters|date=29 April 2012}}</ref> There was more criticism of the German-led austerity measures by Hollande,<ref>{{cite news|last=Donahue |first=Patrick |url=https://www.bloomberg.com/news/2012-04-29/europe-seeks-to-restore-calm-after-spain-downgrade-growth-spat.html |title=Europe's Anti-Austerity Calls Mount as Elections Near |publisher=Bloomberg |access-date=6 May 2012 |date=30 April 2012}}</ref> while he also responded to Sarkozy's words at a rally in Toulouse saying that "without borders there is no nation, there is no Republic, there is no civilisation. We are not superior to others but we are different." In turn Hollande told a bigger rally in Paris that "I want victory, but not at any price, not at the price of caricature and lies. I want to win over the men and women who are angry, a hundred times yes, but compromise myself? A thousand times no."<ref>{{cite web|url=http://www.aljazeera.com/news/europe/2012/04/2012429232227584902.html |title=French presidential hopefuls in final battle |publisher=Al Jazeera English |access-date=6 May 2012}}</ref> Sarkozy reiterated threats to withdraw from the [[Schengen Agreement]] if there was no tightening of border controls. He also said that there would be a presumption of self-defense when police are involved in the killing of suspects and criticised the EU's lack of mention of Europe's Christian roots in its constitution. Many of the issues were similar to that of the National Front, from which Sarkozy's UMP gained votes between the [[2002 French presidential election|2002]] and [[2007 French presidential election|2007]] election. He further spoke "to those French who stay home, don't complain when Francois Hollande is elected and regularizes all illegal immigrants and lets foreigners vote."<ref>{{cite news|last=Viscusi |first=Gregory |url=https://www.bloomberg.com/news/2012-04-29/sarkozy-win-rests-with-anti-europe-voters-in-towns-like-le-hamel.html |title=Sarkozy Win Rests With Anti-Europe Voters in Towns Like Le Hamel |publisher=Bloomberg |date=29 April 2012 |access-date=6 May 2012}}</ref>
+
+Le Pen stated she would submit a [[blank ballot]] in the run-off, calling on her supporters to make their own choices.<ref>{{cite news|author=Gavin Hewitt |url=https://www.bbc.co.uk/news/world-europe-17906203 |title=France election: Le Pen 'to cast blank vote' in run-off |publisher=BBC|date=1 May 2012 |access-date=6 May 2012}}</ref> Bayrou announced on 3 May that he would vote for Hollande.<ref>{{cite web|url=http://www.english.rfi.fr/france/20120504-centrist-bayrou-gives-support-hollande-ahead-sundays-presidential-run |title=Surprise backing for Hollande from centrist Bayrou in presidential run-off with Sarkozy – France – RFI |date=4 May 2012 |access-date=6 May 2012}}</ref> German Chancellor [[Angela Merkel]] also said she saw nothing "normal" in Hollande, despite his attempts to portray himself as such; instead she supported Sarkozy's campaign.<ref>{{cite web|author=Andrew Simmons |url=http://blogs.aljazeera.com/europe/2012/05/03/france-debate-verbal-fusion-and-political-divide |title=France debate: verbal fusion and political divide &#124; Al Jazeera Blogs |publisher=Blogs.aljazeera.com |date=28 April 2012 |access-date=6 May 2012}}</ref> Campaigning officially ended on 4 May.<ref>{{cite web|author=Cajsa Wikstrom |url=http://www.aljazeera.com/news/europe/2012/05/20125504418904945.html |title=French election campaigning closes – Europe |publisher=Al Jazeera English |date=4 October 2011 |access-date=6 May 2012}}</ref>
+
+In the last [[government bond]] sale before the election, the previously rising yields fell slightly, while the amount sold was marginally lower than expected.<ref>{{cite news|last=Deen |first=Mark |url=https://www.bloomberg.com/news/2012-05-03/french-borrowing-costs-drop-at-last-bond-sale-before-vote.html |title=French Borrowing Costs Drop at Last Bond Sale Before Vote |publisher=Bloomberg |date=30 April 2012 |access-date=6 May 2012}}</ref>
+
+;International effect
+The campaign has led to a "certain degree of gridlock in EU's corridors of power". It's unclear who will be the head of the [[Euro Group]], who will join the Executive Board of the [[European Central Bank]] (ECB) and who will lead the [[European Stability Mechanism]] (ESM).<ref>{{cite web|url=http://en.europeonline-magazine.eu/gridlock-in-eus-corridors_207463.html|title=Gridlock in EU's corridors|work=Europe Online Magazine |date=4 May 2012}}</ref>
+
+===Endorsements===
+In the days before the election, editorials in the main newspapers expressed opinions about the two candidates. ''[[Le Monde]]'' did not explicitly support one or the other, but wrote that Hollande "has confirmed, between the two rounds, his consistency, albeit without addressing the vagueness of some of his own proposals", while Sarkozy "has demonstrated his inconsistency, first running after the National Front, crossing the red line which had been set at the turn of the 1980s, and respected since then in the ranks of the republican right, before moving back towards the centre to avoid a breakdown with his own side".<ref>[http://www.lemonde.fr/idees/article/2012/05/04/vivre-ensemble_1695879_3232.html "Editorial : "Vivre ensemble""], ''Le Monde'', 4 May 2012</ref> ''[[Libération]]'' supported Hollande:<ref>[http://www.liberation.fr/politiques/2012/05/04/votez_816553 "Votez"], ''Libération'', 4 May 2012</ref>
+{{blockquote|On the right, Nicolas Sarkozy has kept up a strategy of tension, leading his side into a transgression of its founding values. Whatever the outcome of the vote, the political landscape will remain, as a consequence, marked by a lasting and dangerous change. On the left, François Hollande has demonstrated that another vision of politics, another way of conceiving the State, another European politics are not only possible but within sight. And that, to finish, justice must be the cardinal virtue of societies such as ours, marked by a deep crisis and anger.}}
+''[[Le Figaro]]'' published an editorial in support of Sarkozy.<ref>[http://www.lefigaro.fr/mon-figaro/2012/05/04/10001-20120504ARTFIG00748-le-destin-de-la-france.php "Le destin de la France"], [[Etienne Mougeotte]], ''Le Figaro'', 4 May 2012</ref>
+
+Of the candidates who went out in the first round, Bayrou, Joly and Cheminade all explicitly declared their support for Hollande in the second round, while Mélenchon and Poutou implicitly endorsed a vote for Hollande by urging their supporters to vote against Sarkozy. Dupont-Aignan backed Sarkozy, while Le Pen and Arthaud declined to support either candidate.
+
+===Debates===
+There was one televised debate between Hollande and Sarkozy, although Sarkozy said he would prefer three,<ref>{{cite web |url=http://www.ntn24.com/news/news/hollande-rejects-sarkozy-chall-12749 |title=Hollande rejects Sarkozy challenge to hold three TV debates |publisher=NTN24.com |date=22 April 2012 |access-date=26 April 2012 |archive-url=https://web.archive.org/web/20120430053618/http://www.ntn24.com/news/news/hollande-rejects-sarkozy-chall-12749 |archive-date=30 April 2012 |url-status=dead  }}</ref> an idea Hollande rejected. This took place on 2 May.<ref>{{cite web|url=http://www.france24.com/en/20120423-sarkozy-hollande-presidential-election-tv-debate?ns_campaign=editorial&ns_source=RSS_public&ns_mchannel=RSS&ns_fee=0&ns_linkname=20120423_sarkozy_hollande_presidential_election_tv_debate |title=Sarkozy looks to TV debates to snatch election victory |date=23 April 2012 |publisher=[[France 24]] |access-date=26 April 2012}}</ref> Hollande accused Sarkozy of dividing the French and failing to lower unemployment. Hollande promised to be a president for social justice, economic recovery and national unity. Sarkozy was said to have told Hollande that his lack of experience in national government made him unfit for the task of leading the world's fifth-largest economy in a crisis.<ref>{{cite web |url=http://en.europeonline-magazine.eu/men-in-black-with-black-ties_207218.html |title=Sarkozy fails to land knockout punch in testy TV duel |publisher=[[Europe Online Magazine]] |access-date=3 May 2012 |archive-date=21 May 2013 |archive-url=https://web.archive.org/web/20130521181224/http://en.europeonline-magazine.eu/men-in-black-with-black-ties_207218.html |url-status=dead }}</ref>
+
+==Opinion polls==
+{{Main|Opinion polling for the 2012 French presidential election}}
+;First round
+[[File:Opinion polling for the French presidential election, 2012.png]]
+;Second round
+[[File:Opinion polling for the French presidential election, 2012 Hollande–Sarkozy.png]]
+
+[[French law]] sets a [[Blackout (broadcasting)|blackout]] of the release of [[exit poll]]s until the last polling station is closed at 20:00, with fines of up to €75,000. However, the result was leaked on ''Twitter'', circumventing the law with code names: "[[Flan (pie)|Flan]]by" for Hollande, "le [[wikt:nain|nain]]" (midget) for Sarkozy, Titanic for Marine Le Pen, or [[tomato|Tomate]] for Mélenchon, as well as other humorous names and metaphors were also used such as Amsterdam (for Hollande), Budapest (for Sarkozy, who has Hungarian heritage), Berlin (for Le Pen, due to the Nazi past of Germany) and Moscow (for Mélenchon, due to the Communist past of Russia). The [[hashtag]] #RadioLondres was used as it recalls the coded messages from [[World War II]] sent by ''[[Radio Londres]]''.<ref>{{cite web|url=http://leplus.nouvelobs.com/contribution/537611-presidentielle-radio-londres-quand-twitter-detourne-la-loi-electorale-avec-humour.html |work=Nouvelobs |title="Radio Londres": quand Twitter détourne la loi électorale avec humour |publisher=Leplus.nouvelobs.com |access-date=22 April 2012}}</ref> EU-based media outlets not subject to the French blackout law reported early exit poll results before closure of the polls, in both rounds of the election.<ref>{{cite web|url=http://www.repubblica.it/esteri/2012/05/06/news/francia_risultati-34565294/|title=Francia, François Hollande è il nuovo presidente|date=6 May 2012|work=la Repubblica |language=it|trans-title=France, François Hollande is the new president}} (Content and title since updated).</ref><ref>{{cite web|url=http://www.lesoir.be/dossiers_speciaux/special2/2012-05-06/francois-hollande-elu-president-de-la-republique-913937.php|title=François Hollande élu Président de la République|publisher=[[Le Soir]]|location=Belgium|language=fr|date=6 May 2012|trans-title=François Hollande elected President of the Republic|access-date=6 May 2012|archive-date=6 May 2012|archive-url=https://web.archive.org/web/20120506181937/http://www.lesoir.be/dossiers_speciaux/special2/2012-05-06/francois-hollande-elu-president-de-la-republique-913937.php|url-status=dead}}</ref><ref>{{cite news |url=https://www.irishtimes.com/newspaper/finance/2012/0426/1224315193035.html |title=Ban on French election exit polls ignored as digital media knows no frontiers – The Irish Times – Thu, Apr 26, 2012 |newspaper=The Irish Times |date=26 April 2012 |access-date=16 April 2020 |archive-date=3 May 2012 |archive-url=https://web.archive.org/web/20120503154804/http://www.irishtimes.com/newspaper/finance/2012/0426/1224315193035.html |url-status=dead }}</ref> Olivier Cimelière reported that some people saw a risk of manipulating future elections.<ref>{{cite web|url=http://leplus.nouvelobs.com/contribution/537774-twitter-et-radio-londres-tricherie-electorale-ou-vrai-defi-democratique.html |work=Nouvelobs |title=Cheating or true democratical challenge? |publisher=Leplus.nouvelobs.com |access-date=22 April 2012}}</ref>
+
+==Results==
+[[File:2012 French presidential election - First round - Majority vote (Metropolitan France, communes).svg|right|225px|thumb|Results by [[Communes of France|commune]] for the 1st round of French presidential elections, 2012.<br />{{Col-begin}}
+{{Col-2}}
+{{legend|#ff8080|Hollande|border=0}}
+{{legend|#0066cc|Sarkozy|border=0}}
+{{legend|#404040|Le Pen|border=0}}
+{{legend|#dd0000|Mélenchon|border=0}}
+
+{{Col-2}}
+{{legend|#ff9900|Bayrou|border=0}}
+{{Legend|#00c000|Joly|border=0}}
+{{legend|#8040C0|Dupont-Aignan|border=0}}
+{{legend|#b9b9b9|''Tie''|border=0}}
+{{Col-end}}]]
+
+François Hollande received 51.64% of the votes, while Nicolas Sarkozy secured 48.36% of the votes in the second round.<ref>{{cite web|url=http://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__PR2012/(path)/PR2012/FE.html|title=Résultats de l'élection présidentielle 2012 |publisher=Elections.interieur.gouv.fr |access-date=7 May 2012}}</ref> Sarkozy became the first one-term president since [[Valéry Giscard d'Estaing]] lost to [[François Mitterrand]] in [[1981 French presidential election|1981]].
+
+{{Election results
+|cand1=[[François Hollande]]|party1=[[Socialist Party (France)|Socialist Party]]|votes1=10272705|votes1_2=18000668
+|cand2=[[Nicolas Sarkozy]]<br/>(incumbent)|party2=[[Union for a Popular Movement]]|votes2=9753629|votes2_2=16860685
+|cand3=[[Marine Le Pen]]|party3=[[National Rally|National Front]]|votes3=6421426
+|cand4=[[Jean-Luc Mélenchon]]|party4=[[Left Front (France)|Left Front]]|votes4=3984822
+|cand5=[[François Bayrou]]|party5=[[Democratic Movement (France)|Democratic Movement]]|votes5=3275122
+|cand6=[[Eva Joly]]|party6=[[Europe Ecology – The Greens]]|votes6=828345
+|cand7=[[Nicolas Dupont-Aignan]]|party7=[[Debout la France|Republic Arise]]|votes7=643907
+|cand8=[[Philippe Poutou]]|party8=[[New Anticapitalist Party]]|votes8=411160
+|cand9=[[Nathalie Arthaud]]|party9=[[Lutte Ouvrière|Workers' Struggle]]|votes9=202548
+|cand10=[[Jacques Cheminade]]|party10=[[Solidarity and Progress]]|votes10=89545
+|invalid=701190|invalid2=2154956
+|electorate=46028542|electorate2=46066307
+|source=Constitutional Council ([http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2012-152-pdr/decision-n-2012-152-pdr-du-25-avril-2012.108521.html First round] {{dot}} [http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2012-154-pdr/decision-n-2012-154-pdr-du-10-mai-2012.108531.html Second round])
+}}
+
+===First round===
+====Tables====
+{| class="wikitable sortable collapsible collapsed tpl-blanktable" style="text-align:left; font-size:95%; line-height:20px;"
+|+ class="nowrap" | Results by [[Department of France|department]]
+|-
+! width="200" rowspan="3"| [[Departments of France|Department]]
+! width="110" colspan="2"| [[François Hollande]]
+! width="110" colspan="2"| [[Nicolas Sarkozy]]
+! width="110" colspan="2"| [[Marine Le Pen]]
+! width="110" colspan="2"| [[Jean-Luc Mélenchon]]
+! width="110" colspan="2"| [[François Bayrou]]
+! width="110" colspan="2"| [[Eva Joly]]
+! width="110" colspan="2"| [[Nicolas Dupont-Aignan]]
+! width="110" colspan="2"| [[Philippe Poutou]]
+! width="110" colspan="2"| [[Nathalie Arthaud]]
+! width="110" colspan="2"| [[Jacques Cheminade]]
+|-
+! colspan="2" style="background:{{party color|Socialist Party (France)}};"|
+! colspan="2" style="background:{{party color|Union for a Popular Movement}};"|
+! colspan="2" style="background:{{party color|National Front (France)}};"|
+! colspan="2" style="background:{{party color|Left Front (France)}};"|
+! colspan="2" style="background:{{party color|Democratic Movement (France)}};"|
+! colspan="2" style="background:{{party color|Europe Ecology – The Greens}};"|
+! colspan="2" style="background:{{party color|Debout la République}};"|
+! colspan="2" style="background:{{party color|New Anticapitalist Party}};"|
+! colspan="2" style="background:{{party color|Workers' Struggle}};"|
+! colspan="2" style="background:{{party color|Solidarity and Progress}};"|
+|-
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+!Votes
+! %
+|-
+|[[Ain]]||73,096
+| 22.7|| style="background:#B5DAFF;"| 97,722
+| style="background:#B5DAFF;"| 30.4||66,540
+| 20.7||30,898
+| 9.6||32,650
+| 10.2||7,268
+| 2.3||7,208
+| 2.2||3,323
+| 1.0||1,794
+| 0.6||860
+|0.3
+|-
+|[[Aisne]]|| style="background:#FFB5C8;"| 80,751
+| style="background:#FFB5C8;"| 27.1||72,090
+| 24.2||78,452
+| 26.3||30,360
+| 10.2||19,895
+| 6.7||3,455
+| 1.2||5,853
+| 2.0||3,860
+| 1.3||2,490
+| 0.8||738
+|0.2
+|-
+|[[Allier]]|| style="background:#FFB5C8;"| 61,131
+| style="background:#FFB5C8;"| 29.7||49,477
+| 24.0||37,736
+| 18.3||27,969
+| 13.6||17,814
+| 8.6||3,232
+| 1.6||4,068
+| 2.0||2,584
+| 1.3||1,482
+| 0.7||457
+|0.2
+|-
+|[[Alpes-de-Haute-Provence]]||24,551
+| 24.4|| style="background:#B5DAFF;"| 25,668
+| style="background:#B5DAFF;"| 25.5||20,875
+| 20.7||15,269
+| 15.1||7,483
+| 7.4||2,933
+| 2.9||1,845
+| 1.8||1,394
+| 1.4||487
+| 0.5||283
+|0.3
+|-
+|[[Hautes-Alpes]]||21,248
+| 24.5|| style="background:#B5DAFF;"| 22,655
+| style="background:#B5DAFF;"| 26.1||15,359
+| 17.7||12,175
+| 14.0||8,559
+| 9.9||3,147
+| 3.6||1,782
+| 2.1||1,152
+| 1.3||488
+| 0.6||212
+|0.2
+|-
+|[[Alpes-Maritimes]]||111,990
+| 19.2|| style="background:#B5DAFF;"| 216,738
+| style="background:#B5DAFF;"| 37.2||136,982
+| 23.5||49,493
+| 8.5||38,980
+| 6.7||12,556
+| 2.2||9,241
+| 1.6||4,048
+| 0.7||1,576
+| 0.3||1,238
+|0.2
+|-
+|[[Ardèche]]|| style="background:#FFB5C8;"| 52,156
+| style="background:#FFB5C8;"| 26.0||47,687
+| 23.8||40,216
+| 20.0||28,247
+| 14.1||18,373
+| 9.2||5,621
+| 2.8||3,890
+| 1.9||2,750
+| 1.4||1,257
+| 0.6||521
+|0.3
+|-
+|[[Ardennes (department)|Ardennes]]|| style="background:#FFB5C8;"| 44,441
+| style="background:#FFB5C8;"| 28.9||37,524
+| 24.4||37,628
+| 24.5||14,260
+| 9.3||11,551
+| 7.5||1,868
+| 1.2||2,787
+| 1.8||1,981
+| 1.3||1,185
+| 0.8||366
+|0.2
+|-
+|[[Ariège (department)|Ariège]]|| style="background:#FFB5C8;"| 33,003
+| style="background:#FFB5C8;"| 34.4||17,979
+| 18.7||16,125
+| 16.8||16,197
+| 16.9||6,411
+| 6.7||2,742
+| 2.9||1,446
+| 1.5||1,396
+| 1.5||528
+| 0.5||221
+|0.2
+|-
+|[[Aube]]||36,967
+| 22.8|| style="background:#B5DAFF;"| 49,196
+| style="background:#B5DAFF;"| 30.3||40,740
+| 25.1||12,860
+| 7.9||13,575
+| 8.4||2,294
+| 1.4||3,524
+| 2.2||1,632
+| 1.0||990
+| 0.6||407
+|0.3
+|-
+|[[Aude]]|| style="background:#FFB5C8;"| 65,783
+| style="background:#FFB5C8;"| 30.4||46,801
+| 21.6||50,234
+| 23.2||28,456
+| 13.2||13,076
+| 6.0||4,516
+| 2.1||3,184
+| 1.5||2,724
+| 1.3||1,116
+| 0.5||458
+|0.2
+|-
+|[[Aveyron]]|| style="background:#FFB5C8;"| 53,493
+| style="background:#FFB5C8;"| 29.4||46,351
+| 25.5||25,619
+| 14.1||22,282
+| 12.3||22,809
+| 12.6||4,243
+| 2.3||3,095
+| 1.7||2,417
+| 1.3||969
+| 0.5||435
+|0.2
+|-
+|[[Bouches-du-Rhône]]||255,052
+| 24.5|| style="background:#B5DAFF;"| 286,175
+| style="background:#B5DAFF;"| 27.5||243,348
+| 23.4||139,719
+| 13.4||66,082
+| 6.4||21,977
+| 2.1||14,087
+| 1.4||8,293
+| 0.8||3,641
+| 0.3||2,249
+|0.2
+|-
+|[[Calvados (department)|Calvados]]|| style="background:#FFB5C8;"| 117,773
+| style="background:#FFB5C8;"| 29.3||109,745
+| 27.3||65,126
+| 16.2||42,396
+| 10.6||40,562
+| 10.1||8,569
+| 2.1||8,227
+| 2.0||5,385
+| 1.3||2,641
+| 0.7||1,008
+|0.3
+|-
+|[[Cantal]]|| style="background:#FFB5C8;"| 30,353
+| style="background:#FFB5C8;"| 30.8||28,151
+| 28.6||14,877
+| 15.1||8,836
+| 9.0||10,980
+| 11.2||1,534
+| 1.6||1,630
+| 1.7||1,218
+| 1.2||587
+| 0.6||240
+|0.2
+|-
+|[[Charente]]|| style="background:#FFB5C8;"| 68,691
+| style="background:#FFB5C8;"| 32.8||48,291
+| 23.1||37,121
+| 17.7||23,707
+| 11.3||18,461
+| 8.8||3,843
+| 1.8||4,278
+| 2.0||3,084
+| 1.5||1,460
+| 0.7||523
+|0.2
+|-
+|[[Charente-Maritime]]|| style="background:#FFB5C8;"| 107,821
+| style="background:#FFB5C8;"| 28.5||106,431
+| 28.1||66,076
+| 17.4||39,313
+| 10.4||34,381
+| 9.1||8,378
+| 2.2||7,900
+| 2.1||5,392
+| 1.4||2,161
+| 0.6||888
+|0.2
+|-
+|[[Cher (department)|Cher]]|| style="background:#FFB5C8;"| 48,608
+| style="background:#FFB5C8;"| 26.8||45,331
+| 25.0||35,825
+| 19.7||25,079
+| 13.8||16,048
+| 8.8||2,861
+| 1.6||3,825
+| 2.1||2,218
+| 1.2||1,387
+| 0.8||433
+|0.2
+|-
+|[[Corrèze]]|| style="background:#FFB5C8;"| 67,070
+| style="background:#FFB5C8;"| 43.0||33,706
+| 21.6||20,784
+| 13.3||16,462
+| 10.5||10,824
+| 6.9||2,155
+| 1.4||2,577
+| 1.7||1,581
+| 1.0||659
+| 0.4||277
+|0.2
+|-
+|[[Corse-du-Sud]]||16,540
+| 22.3|| style="background:#B5DAFF;"| 23,623
+| style="background:#B5DAFF;"| 31.8||19,081
+| 25.7||7,191
+| 9.7||4,069
+| 5.5||1,658
+| 2.2||797
+| 1.1||873
+| 1.2||220
+| 0.3||163
+|0.2
+|-
+|[[Haute-Corse]]||22,489
+| 26.0|| style="background:#B5DAFF;"| 26,869
+| style="background:#B5DAFF;"| 31.1||20,128
+| 23.3||8,643
+| 10.0||3,981
+| 4.6||2,020
+| 2.3||930
+| 1.1||1,001
+| 1.2||282
+| 0.3||174
+|0.2
+|-
+|[[Côte-d'Or]]||80,321
+| 27.8|| style="background:#B5DAFF;"| 82,588
+| style="background:#B5DAFF;"| 28.6||54,472
+| 18.8||27,496
+| 9.5||27,086
+| 9.4||6,073
+| 2.1||5,640
+| 2.0||3,070
+| 1.1||1,631
+| 0.6||694
+|0.2
+|-
+|[[Côtes-d'Armor]]|| style="background:#FFB5C8;"| 125,333
+| style="background:#FFB5C8;"| 33.0||90,555
+| 23.9||51,552
+| 13.6||46,303
+| 12.2||40,240
+| 10.6||10,545
+| 2.8||6,494
+| 1.7||5,054
+| 1.3||2,552
+| 0.7||909
+|0.2
+|-
+|[[Creuse]]|| style="background:#FFB5C8;"| 26,447
+| style="background:#FFB5C8;"| 34.0||17,280
+| 22.2||12,651
+| 16.3||10,117
+| 13.0||6,476
+| 8.3||1,369
+| 1.8||1,502
+| 1.9||1,156
+| 1.5||557
+| 0.7||195
+|0.3
+|-
+|[[Dordogne]]|| style="background:#FFB5C8;"| 83,050
+| style="background:#FFB5C8;"| 32.1||59,347
+| 22.9||44,035
+| 17.0||35,489
+| 13.7||20,898
+| 8.1||5,525
+| 2.1||4,847
+| 1.9||3,533
+| 1.4||1,480
+| 0.6||610
+|0.2
+|-
+|[[Doubs]]||76,592
+| 26.3|| style="background:#B5DAFF;"| 83,036
+| style="background:#B5DAFF;"| 28.5||55,921
+| 19.2||31,936
+| 11.0||25,639
+| 8.8||6,847
+| 2.3||5,364
+| 1.8||3,445
+| 1.2||1,882
+| 0.6||750
+|0.3
+|-
+|[[Drôme]]||72,207
+| 25.0|| style="background:#B5DAFF;"| 75,291
+| style="background:#B5DAFF;"| 26.1||60,424
+| 21.0||34,877
+| 12.1||25,610
+| 8.9||8,263
+| 2.9||5,578
+| 1.9||3,187
+| 1.1||2,057
+| 0.7||759
+|0.3
+|-
+|[[Eure]]||82,464
+| 24.7|| style="background:#B5DAFF;"| 92,910
+| style="background:#B5DAFF;"| 27.8||76,104
+| 22.8||34,572
+| 10.3||28,144
+| 8.4||5,544
+| 1.7||7,074
+| 2.1||4,584
+| 1.4||2,189
+| 0.7||890
+|0.3
+|-
+|[[Eure-et-Loir]]||60,882
+| 25.7|| style="background:#B5DAFF;"| 69,591
+| style="background:#B5DAFF;"| 29.4||49,067
+| 20.7||21,230
+| 9.0||21,842
+| 9.2||3,788
+| 1.6||5,307
+| 2.2||2,899
+| 1.2||1,587
+| 0.7||622
+|0.3
+|-
+|[[Finistère]]|| style="background:#FFB5C8;"| 188,720
+| style="background:#FFB5C8;"| 33.7||136,994
+| 24.5||67,101
+| 12.0||64,505
+| 11.5||63,121
+| 11.3||16,536
+| 3.0||9,944
+| 1.8||8,273
+| 1.5||3,347
+| 0.6||1,531
+|0.3
+|-
+|[[Gard]]||100,778
+| 24.1|| 103,927
+| 24.9|| style="background:#C1C9FF;"| 106,646
+| style="background:#C1C9FF;"| 25.5||55,731
+| 13.3||28,893
+| 6.9||8,855
+| 2.1||6,087
+| 1.5||4,215
+| 1.0||1,946
+| 0.5||948
+|0.2
+|-
+|[[Haute-Garonne]]|| style="background:#FFB5C8;"| 227,695
+| style="background:#FFB5C8;"| 32.8||158,407
+| 22.8||106,161
+| 15.3||92,798
+| 13.4||64,648
+| 9.3||21,069
+| 3.0||10,601
+| 1.5||7,672
+| 1.1||2,839
+| 0.4||1,703
+|0.2
+|-
+|[[Gers]]|| style="background:#FFB5C8;"| 38,446
+| style="background:#FFB5C8;"| 31.9||29,133
+| 24.1||19,190
+| 15.9||14,558
+| 12.1||12,003
+| 9.9||2,715
+| 2.3||2,191
+| 1.8||1,486
+| 1.2||646
+| 0.5||298
+|0.2
+|-
+|[[Gironde]]|| style="background:#FFB5C8;"| 260,043
+| style="background:#FFB5C8;"| 31.8||203,396
+| 24.8||127,811
+| 15.6||96,165
+| 11.7||79,277
+| 9.7||19,940
+| 2.4||13,082
+| 1.6||13,626
+| 1.7||3,671
+| 0.4||1,895
+|0.2
+|-
+|[[Hérault]]|| style="background:#FFB5C8;"| 160,931
+| style="background:#FFB5C8;"| 26.7||152,614
+| 25.3||134,343
+| 22.3||80,036
+| 13.3||41,351
+| 6.9||15,223
+| 2.5||8,462
+| 1.4||6,221
+| 1.0||2,397
+| 0.4||1,366
+|0.2
+|-
+|[[Ille-et-Vilaine]]|| style="background:#FFB5C8;"| 183,935
+| style="background:#FFB5C8;"| 31.8||150,685
+| 26.0||71,727
+| 12.4||59,901
+| 10.3||71,491
+| 12.3||18,367
+| 3.2||10,601
+| 1.8||7,066
+| 1.2||3,876
+| 0.7||1,377
+|0.2
+|-
+|[[Indre]]|| style="background:#FFB5C8;"| 41,505
+| style="background:#FFB5C8;"| 29.9||33,564
+| 24.2||27,164
+| 19.5||15,645
+| 11.3||12,473
+| 9.0||2,015
+| 1.5||3,014
+| 2.2||1,985
+| 1.4||1,190
+| 0.9||393
+|0.3
+|-
+|[[Indre-et-Loire]]||94,210
+| 28.1|| style="background:#B5DAFF;"| 94,680
+| style="background:#B5DAFF;"| 28.2||53,586
+| 16.0||36,657
+| 10.9||34,420
+| 10.3||7,488
+| 2.2||6,738
+| 2.0||4,303
+| 1.3||2,272
+| 0.7||901
+|0.3
+|-
+|[[Isère]]|| style="background:#FFB5C8;"| 185,538
+| style="background:#FFB5C8;"| 27.8||166,290
+| 25.0||126,377
+| 19.0||82,657
+| 12.4||60,608
+| 9.1||20,189
+| 3.0||12,658
+| 1.9||6,846
+| 1.0||3,450
+| 0.5||1,726
+|0.3
+|-
+|[[Jura (department)|Jura]]||37,910
+| 24.6|| style="background:#B5DAFF;"| 39,808
+| style="background:#B5DAFF;"| 25.8||31,458
+| 20.4||19,338
+| 12.5||14,819
+| 9.6||3,691
+| 2.4||3,532
+| 2.3||2,028
+| 1.3||1,084
+| 0.7||425
+|0.3
+|-
+|[[Landes (department)|Landes]]|| style="background:#FFB5C8;"| 79,861
+| style="background:#FFB5C8;"| 32.8||59,887
+| 24.6||34,381
+| 14.1||30,508
+| 12.5||25,437
+| 10.4||4,466
+| 1.8||4,008
+| 1.6||3,605
+| 1.5||1,161
+| 0.5||516
+|0.2
+|-
+|[[Loir-et-Cher]]||49,347
+| 25.0|| style="background:#B5DAFF;"| 55,944
+| style="background:#B5DAFF;"| 28.4||41,190
+| 20.9||19,437
+| 9.9||19,256
+| 9.8||3,418
+| 1.7||4,213
+| 2.1||2,594
+| 1.3||1,384
+| 0.7||518
+|0.3
+|-
+|[[Loire (department)|Loire]]|| style="background:#FFB5C8;"| 109,122
+| style="background:#FFB5C8;"| 26.5||103,410
+| 25.1||88,877
+| 21.5||46,104
+| 11.2||40,209
+| 9.7||8,090
+| 2.0||8,705
+| 2.1||4,464
+| 1.1||2,503
+| 0.6||939
+|0.2
+|-
+|[[Haute-Loire]]|| style="background:#FFB5C8;"| 38,253
+| style="background:#FFB5C8;"| 26.4||35,438
+| 24.4||29,600
+| 20.4||16,214
+| 11.2||16,212
+| 11.2||3,041
+| 2.1||3,021
+| 2.1||1,931
+| 1.3||1,067
+| 0.7||322
+|0.2
+|-
+|[[Loire-Atlantique]]|| style="background:#FFB5C8;"| 245,708
+| style="background:#FFB5C8;"| 31.8||201,671
+| 26.1||94,249
+| 12.2||90,140
+| 11.7||87,453
+| 11.3||24,410
+| 3.2||14,238
+| 1.8||9,635
+| 1.2||4,458
+| 0.6||1,760
+|0.2
+|-
+|[[Loiret]]||90,617
+| 25.5|| style="background:#B5DAFF;"| 104,350
+| style="background:#B5DAFF;"| 29.3||73,264
+| 20.6||33,923
+| 9.5||33,133
+| 9.3||6,744
+| 1.9||7,512
+| 2.1||3,610
+| 1.0||2,007
+| 0.6||885
+|0.2
+|-
+|[[Lot (department)|Lot]]|| style="background:#FFB5C8;"| 39,369
+| style="background:#FFB5C8;"| 34.5||24,447
+| 21.4||15,376
+| 13.5||16,400
+| 14.4||10,648
+| 9.3||3,046
+| 2.7||2,212
+| 1.9||1,650
+| 1.4||623
+| 0.5||299
+|0.3
+|-
+|[[Lot-et-Garonne]]|| style="background:#FFB5C8;"| 52,893
+| style="background:#FFB5C8;"| 26.9||49,768
+| 25.3||42,080
+| 21.4||22,966
+| 11.7||17,394
+| 8.9||3,775
+| 1.9||3,522
+| 1.8||2,699
+| 1.4||974
+| 0.5||461
+|0.2
+|-
+|[[Lozère]]||12,579
+| 25.2|| style="background:#B5DAFF;"| 13,885
+| style="background:#B5DAFF;"| 27.8||8,650
+| 17.3||6,208
+| 12.4||5,505
+| 11.0||1,307
+| 2.6||843
+| 1.7||647
+| 1.3||263
+| 0.5||119
+|0.2
+|-
+|[[Maine-et-Loire]]||123,534
+| 27.1|| style="background:#B5DAFF;"| 136,420
+| style="background:#B5DAFF;"| 29.9||63,252
+| 13.9||42,601
+| 9.3||58,196
+| 12.8||10,737
+| 2.4||10,087
+| 2.2||6,338
+| 1.4||3,426
+| 0.8||1,182
+|0.3
+|-
+|[[Manche]]||82,773
+| 27.0|| style="background:#B5DAFF;"| 88,234
+| style="background:#B5DAFF;"| 28.8||50,927
+| 16.6||30,167
+| 9.9||34,272
+| 11.2||5,601
+| 1.8||6,936
+| 2.3||4,131
+| 1.3||2,206
+| 0.7||882
+|0.3
+|-
+|[[Marne (department)|Marne]]||71,432
+| 24.1|| style="background:#B5DAFF;"| 88,707
+| style="background:#B5DAFF;"| 29.9||66,640
+| 22.4||25,292
+| 8.5||28,210
+| 9.5||4,482
+| 1.5||6,029
+| 2.0||3,534
+| 1.2||1,949
+| 0.7||712
+|0.2
+|-
+|[[Haute-Marne]]||25,970
+| 23.7|| style="background:#B5DAFF;"| 30,604
+| style="background:#B5DAFF;"| 28.0||27,624
+| 25.3||9,720
+| 8.9||8,712
+| 8.0||1,506
+| 1.4||2,637
+| 2.4||1,455
+| 1.3||860
+| 0.8||265
+|0.2
+|-
+|[[Mayenne]]||47,146
+| 25.9|| style="background:#B5DAFF;"| 55,945
+| style="background:#B5DAFF;"| 30.7||26,930
+| 14.8||15,136
+| 8.3||25,118
+| 13.8||3,864
+| 2.1||3,897
+| 2.1||2,392
+| 1.3||1,415
+| 0.8||428
+|0.2
+|-
+|[[Meurthe-et-Moselle]]|| style="background:#FFB5C8;"| |108,870
+| style="background:#FFB5C8;"| 27.9||94,415
+| 24.2||82,538
+| 21.2||47,042
+| 12.1||33,871
+| 8.7||7,058
+| 1.8||7,447
+| 1.9||4,988
+| 1.3||2,582
+| 0.7||1,092
+|0.3
+|-
+|[[Meuse (department)|Meuse]]||26,313
+| 23.4|| style="background:#B5DAFF;"| 29,863
+| style="background:#B5DAFF;"| 26.6||29,038
+| 25.8||9,951
+| 8.8||10,375
+| 9.2||1,794
+| 1.6||2,299
+| 2.0||1,688
+| 1.5||789
+| 0.7||344
+|0.3
+|-
+|[[Morbihan]]|| style="background:#FFB5C8;"| 130,453
+| style="background:#FFB5C8;"| 28.3||129,838
+| 28.2||71,715
+| 15.6||47,220
+| 10.2||50,050
+| 10.9||12,948
+| 2.8||8,548
+| 1.9||6,300
+| 1.4||2,818
+| 0.6||1,268
+|0.3
+|-
+|[[Moselle (department)|Moselle]]||140,323
+| 24.5|| style="background:#B5DAFF;"| 148,328
+| style="background:#B5DAFF;"| 25.9||141,477
+| 24.7||54,455
+| 9.5||53,160
+| 9.3||9,875
+| 1.7||10,658
+| 1.9||7,924
+| 1.4||4,350
+| 0.8||1,522
+|0.3
+|-
+|[[Nièvre]]|| style="background:#FFB5C8;"| 42,631
+| style="background:#FFB5C8;"| 32.6||29,400
+| 22.5||25,565
+| 19.6||15,601
+| 11.9||9,746
+| 7.5||2,143
+| 1.6||2,563
+| 2.0||1,675
+| 1.3||934
+| 0.7||338
+|0.3
+|-
+|[[Nord (French department)|Nord]]|| style="background:#FFB5C8;"| 383,471
+| style="background:#FFB5C8;"| 28.0||338,714
+| 24.7||300,362
+| 21.9||173,037
+| 12.6||102,511
+| 7.5||23,976
+| 1.7||21,160
+| 1.5||15,138
+| 1.1||9,545
+| 0.7||3,185
+|0.2
+|-
+|[[Oise]]||108,574
+| 24.9|| style="background:#B5DAFF;"| 115,926
+| style="background:#B5DAFF;"| 26.6||109,339
+| 25.1||44,057
+| 10.1||33,160
+| 7.6||6,598
+| 1.5||8,505
+| 2.0||5,338
+| 1.2||3,391
+| 0.8||1,081
+|0.2
+|-
+|[[Orne]]||42,159
+| 24.3|| style="background:#B5DAFF;"| 51,498
+| style="background:#B5DAFF;"| 29.6||34,757
+| 20.0||15,501
+| 8.9||18,326
+| 10.5||3,109
+| 1.8||4,173
+| 2.4||2,515
+| 1.4||1,294
+| 0.7||422
+|0.2
+|-
+|[[Pas-de-Calais]]|| style="background:#FFB5C8;"| 249,971
+| style="background:#FFB5C8;"| 29.4||185,632
+| 21.9||216,753
+| 25.5||97,974
+| 11.5||54,354
+| 6.4||10,315
+| 1.2||14,122
+| 1.7||10,948
+| 1.3||7,246
+| 0.9||1,824
+|0.2
+|-
+|[[Puy-de-Dôme]]|| style="background:#FFB5C8;"| 122,244
+| style="background:#FFB5C8;"| 33.1||79,124
+| 21.4||57,555
+| 15.6||51,691
+| 14.0||36,771
+| 10.0||7,549
+| 2.0||6,555
+| 1.8||4,595
+| 1.2||2,372
+| 0.6||988
+|0.3
+|-
+|[[Pyrénées-Atlantiques]]|| style="background:#FFB5C8;"| 117,823
+| style="background:#FFB5C8;"| 29.9||92,967
+| 23.6||47,844
+| 12.2||46,749
+| 11.9||61,681
+| 15.7||11,345
+| 2.9||5,728
+| 1.5||6,812
+| 1.7||1,826
+| 0.5||882
+|0.2
+|-
+|[[Hautes-Pyrénées]]|| style="background:#FFB5C8;"| 47,983
+| style="background:#FFB5C8;"| 33.2||29,512
+| 20.4||21,580
+| 14.9||21,934
+| 15.2||15,265
+| 10.5||3,007
+| 2.1||2,376
+| 1.6||1,967
+| 1.4||780
+| 0.5||300
+|0.2
+|-
+|[[Pyrénées-Orientales]]|| style="background:#FFB5C8;"| 68,593
+| style="background:#FFB5C8;"| 26.0||66,870
+| 25.3||64,007
+| 24.2||33,739
+| 12.8||16,608
+| 6.3||5,564
+| 2.1||3,652
+| 1.4||3,265
+| 1.2||1,305
+| 0.5||591
+|0.2
+|-
+|[[Bas-Rhin]]||114,702
+| 19.6|| style="background:#B5DAFF;"| 196,968
+| style="background:#B5DAFF;"| 33.6||124,264
+| 21.2||42,302
+| 7.2||69,940
+| 11.9||16,188
+| 2.8||10,141
+| 1.7||5,993
+| 1.0||3,779
+| 0.6||1,655
+|0.3
+|-
+|[[Haut-Rhin]]||76,580
+| 18.9|| style="background:#B5DAFF;"| 129,349
+| style="background:#B5DAFF;"| 31.9||94,988
+| 23.4||30,076
+| 7.4||46,176
+| 11.4||10,980
+| 2.7||8,508
+| 2.1||4,824
+| 1.2||2,608
+| 0.6||1,322
+|0.3
+|-
+|[[Rhône (department)|Rhône]]||237,779
+| 26.9|| style="background:#B5DAFF;"| 271,922
+| style="background:#B5DAFF;"| 30.8||133,322
+| 15.1||94,876
+| 10.7||91,042
+| 10.3||25,611
+| 2.9||15,203
+| 1.7||7,412
+| 0.8||4,220
+| 0.5||2,264
+|0.3
+|-
+|[[Haute-Saône]]|| style="background:#FFB5C8;"| 38,661
+| style="background:#FFB5C8;"| 26.4||36,967
+| 25.2||36,807
+| 25.1||14,125
+| 9.6||11,147
+| 7.6||2,315
+| 1.6||2,982
+| 2.0||1,999
+| 1.4||1,126
+| 0.8||407
+|0.3
+|-
+|[[Saône-et-Loire]]|| style="background:#FFB5C8;"| 93,198
+| style="background:#FFB5C8;"| 28.7||84,499
+| 26.0||65,054
+| 20.0||34,548
+| 10.6||28,683
+| 8.8||5,435
+| 1.7||6,588
+| 2.0||3,971
+| 1.2||2,048
+| 0.6||802
+|0.2
+|-
+|[[Sarthe]]|| style="background:#FFB5C8;"| 91,722
+| style="background:#FFB5C8;"| 28.1||86,174
+| 26.4||62,516
+| 19.2||35,143
+| 10.8||29,802
+| 9.1||6,153
+| 1.9||7,012
+| 2.2||4,379
+| 1.3||2,452
+| 0.8||749
+|0.2
+|-
+|[[Savoie]]||57,469
+| 23.6|| style="background:#B5DAFF;"| 69,544
+| style="background:#B5DAFF;"| 28.6||45,993
+| 18.9||27,875
+| 11.5||24,034
+| 9.9||8,313
+| 3.4||5,120
+| 2.1||2,890
+| 1.2||1,213
+| 0.5||664
+|0.3
+|-
+|[[Haute-Savoie]]||82,482
+| 20.5|| style="background:#B5DAFF;"| 136,946
+| style="background:#B5DAFF;"| 34.1||66,583
+| 16.6||37,117
+| 9.2||47,547
+| 11.8||14,446
+| 3.6||9,345
+| 2.3||4,514
+| 1.1||1,793
+| 0.4||1,242
+|0.3
+|-
+|[[Paris]]|| style="background:#FFB5C8;"| 345,635
+| style="background:#FFB5C8;"| 34.8||319,482
+| 32.2||61,503
+| 6.2||110,101
+| 11.1||92,664
+| 9.3||41,495
+| 4.2||9,959
+| 1.0||6,644
+| 0.7||2,719
+| 0.3||2,272
+|0.2
+|-
+|[[Seine-Maritime]]|| style="background:#FFB5C8;"| 204,448
+| style="background:#FFB5C8;"| 29.4||174,024
+| 25.0||131,416
+| 18.9||91,759
+| 13.2||54,446
+| 7.8||11,356
+| 1.6||12,445
+| 1.8||8,918
+| 1.3||4,918
+| 0.7||1,671
+|0.2
+|-
+|[[Seine-et-Marne]]|| style="background:#FFB5C8;"| 178,537
+| style="background:#FFB5C8;"| 27.6||176,116
+| 27.3||126,889
+| 19.6||71,097
+| 11.0||55,187
+| 8.5||12,684
+| 2.0||14,055
+| 2.2||6,584
+| 1.0||2,995
+| 0.5||1,654
+|0.3
+|-
+|[[Yvelines]]||196,485
+| 27.3|| style="background:#B5DAFF;"| 246,328
+| style="background:#B5DAFF;"| 34.2||89,491
+| 12.4||65,520
+| 9.1||80,848
+| 11.2||17,974
+| 2.5||12,434
+| 1.7||5,720
+| 0.8||2,505
+| 0.3||2,008
+|0.3
+|-
+|[[Deux-Sèvres]]|| style="background:#FFB5C8;"| 73,911
+| style="background:#FFB5C8;"| 33.3||55,462
+| 25.0||30,077
+| 13.6||22,709
+| 10.2||24,395
+| 11.0||4,480
+| 2.0||4,952
+| 2.2||3,550
+| 1.6||1,612
+| 0.7||567
+|0.3
+|-
+|[[Somme (department)|Somme]]|| style="background:#FFB5C8;"| 93,379
+| style="background:#FFB5C8;"| 28.4||78,680
+| 23.9||78,250
+| 23.8||36,213
+| 11.0||24,066
+| 7.3||4,031
+| 1.2||6,653
+| 2.0||4,222
+| 1.3||2,917
+| 0.9||726
+|0.2
+|-
+|[[Tarn (department)|Tarn]]|| style="background:#FFB5C8;"| 72,647
+| style="background:#FFB5C8;"| 30.7||55,099
+| 23.3||44,806
+| 18.9||28,800
+| 12.2||21,724
+| 9.2||5,064
+| 2.1||3,850
+| 1.6||2,962
+| 1.3||1,212
+| 0.5||550
+|0.2
+|-
+|[[Tarn-et-Garonne]]|| style="background:#FFB5C8;"| 40,297
+| style="background:#FFB5C8;"| 27.6||36,666
+| 25.1||32,228
+| 22.1||16,313
+| 11.2||12,075
+| 8.3||2,867
+| 2.0||2,564
+| 1.8||1,769
+| 1.2||698
+| 0.5||367
+|0.3
+|-
+|[[Var (department)|Var]]||118,023
+| 19.6|| style="background:#B5DAFF;"| 209,233
+| style="background:#B5DAFF;"| 34.8||149,187
+| 24.8||54,553
+| 9.1||40,004
+| 6.7||11,334
+| 1.9||9,809
+| 1.6||5,239
+| 0.9||2,094
+| 0.3||1,254
+|0.2
+|-
+|[[Vaucluse]]||69,878
+| 22.3|| style="background:#B5DAFF;"| 85,898
+| style="background:#B5DAFF;"| 27.5||84,585
+| 27.0||34,879
+| 11.1||21,070
+| 6.7||7,062
+| 2.3||4,679
+| 1.5||2,981
+| 1.0||1,207
+| 0.4||650
+|0.2
+|-
+|[[Vendée]]||101,079
+| 24.8|| style="background:#B5DAFF;"| 133,985
+| style="background:#B5DAFF;"| 32.9||61,859
+| 15.2||34,471
+| 8.5||49,402
+| 12.1||7,652
+| 1.9||9,486
+| 2.3||5,893
+| 1.4||2,584
+| 0.6||973
+|0.2
+|-
+|[[Vienne (department)|Vienne]]|| style="background:#FFB5C8;"| 78,591
+| style="background:#FFB5C8;"| 32.0||60,188
+| 24.5||40,321
+| 16.4||27,037
+| 11.0||23,565
+| 9.6||5,335
+| 2.2||5,038
+| 2.1||3,321
+| 1.4||1,741
+| 0.7||553
+|0.2
+|-
+|[[Haute-Vienne]]|| style="background:#FFB5C8;"| 78,249
+| style="background:#FFB5C8;"| 35.9||43,225
+| 19.8||35,821
+| 16.4||31,304
+| 14.4||17,189
+| 7.9||3,925
+| 1.8||3,634
+| 1.7||2,641
+| 1.2||1,435
+| 0.7||516
+|0.2
+|-
+|[[Vosges (department)|Vosges]]||56,495
+| 24.7|| style="background:#B5DAFF;"| 57,964
+| style="background:#B5DAFF;"| 25.3||55,339
+| 24.2||22,162
+| 9.7||21,516
+| 9.4||4,026
+| 1.8||5,450
+| 2.4||3,573
+| 1.6||1,716
+| 0.7||661
+|0.3
+|-
+|[[Yonne]]||46,667
+| 24.0|| style="background:#B5DAFF;"| 53,719
+| style="background:#B5DAFF;"| 27.6||46,057
+| 23.7||19,540
+| 10.0||16,472
+| 8.5||3,426
+| 1.8||4,310
+| 2.2||2,477
+| 1.3||1,324
+| 0.7||484
+|0.2
+|-
+|[[Territoire de Belfort]]|| style="background:#FFB5C8;"| 19,484
+| style="background:#FFB5C8;"| 26.0||17,891
+| 23.9||17,786
+| 23.7||8,547
+| 11.4||6,630
+| 8.8||1,516
+| 2.0||1,343
+| 1.8||988
+| 1.3||523
+| 0.7||215
+|0.3
+|-
+|[[Essonne]]|| style="background:#FFB5C8;"| 181,506
+| style="background:#FFB5C8;"| 30.4||152,079
+| 25.5||90,760
+| 15.2||73,240
+| 12.3||55,738
+| 9.3||14,027
+| 2.3||20,392
+| 3.4||5,591
+| 0.9||2,462
+| 0.4||1,456
+|0.2
+|-
+|[[Hauts-de-Seine]]||221,233
+| 30.2|| style="background:#B5DAFF;"| 256,570
+| style="background:#B5DAFF;"| 35.0||62,447
+| 8.5||75,911
+| 10.3||78,397
+| 10.7||20,086
+| 2.7||9,851
+| 1.3||5,031
+| 0.7||2,187
+| 0.3||1,939
+|0.3
+|-
+|[[Seine-Saint-Denis]]|| style="background:#FFB5C8;"| 206,537
+| style="background:#FFB5C8;"| 38.7||104,010
+| 19.5||72,335
+| 13.5||90,710
+| 17.0||32,661
+| 6.1||11,781
+| 2.2||6,978
+| 1.3||4,936
+| 0.9||2,708
+| 0.5||1,259
+|0.2
+|-
+|[[Val-de-Marne]]|| style="background:#FFB5C8;"| 192,781
+| style="background:#FFB5C8;"| 32.9||155,552
+| 26.6||69,399
+| 11.9||81,950
+| 14.0||51,892
+| 8.9||15,392
+| 2.6||9,735
+| 1.7||4,946
+| 0.8||2,217
+| 0.4||1,498
+|0.3
+|-
+|[[Val-d'Oise]]|| style="background:#FFB5C8;"| 172,658
+| style="background:#FFB5C8;"| 32.4||139,863
+| 26.3||83,102
+| 15.6||63,679
+| 12.0||44,683
+| 8.4||10,907
+| 2.0||9,049
+| 1.7||5,109
+| 1.0||2,340
+| 0.4||1,325
+|0.2
+|- class="sortbottom"
+| colspan="20"|
+|-
+|[[French Guiana]]|| style="background:#FFB5C8;"| 15,943
+| style="background:#FFB5C8;"| 42.6||10,174
+| 27.2||3,920
+| 10.5||2,952
+| 7.9||2,329
+| 6.2||843
+| 2.3||416
+| 1.1||479
+| 1.3||208
+| 0.6||148
+|0.4
+|-
+|[[French Polynesia]]||29,130
+| 32.4|| style="background:#B5DAFF;"| 40,611
+| style="background:#B5DAFF;"| 45.2||5,151
+| 5.7||2,492
+| 2.8||5,139
+| 5.7||3,392
+| 3.8||2,484
+| 2.8||532
+| 0.6||510
+| 0.6||378
+|0.4
+|-
+|[[Guadeloupe]]|| style="background:#FFB5C8;"| 82,735
+| style="background:#FFB5C8;"| 57.0||33,973
+| 23.4||7,486
+| 5.2||7,806
+| 5.4||6,861
+| 4.7||2,134
+| 1.5||1,237
+| 0.9||1,151
+| 0.8||1,335
+| 0.9||441
+|0.3
+|-
+|[[Martinique]]|| style="background:#FFB5C8;"| 76,034
+| style="background:#FFB5C8;"| 52.0||38,443
+| 26.3||6,960
+| 4.8||8,600
+| 5.9||8,681
+| 5.9||2,275
+| 1.6||1,563
+| 1.1||1,712
+| 1.2||1,442
+| 1.0||560
+|0.4
+|-
+|[[Mayotte]]||13,152
+| 36.6|| style="background:#B5DAFF;"| 17,536
+| style="background:#B5DAFF;"| 48.7||996
+| 2.8||944
+| 2.6||1,505
+| 4.2||789
+| 2.2||395
+| 1.1||299
+| 0.8||192
+| 0.5||175
+|0.5
+|-
+|[[New Caledonia]]||22,235
+| 24.9|| style="background:#B5DAFF;"| 44,302
+| style="background:#B5DAFF;"| 49.6||10,409
+| 11.7||2,927
+| 3.3||4,579
+| 5.1||2,336
+| 2.6||833
+| 0.9||874
+| 1.0||485
+| 0.5||279
+|0.3
+|-
+|[[Réunion]]|| style="background:#FFB5C8;"| 194,009
+| style="background:#FFB5C8;"| 53.3||65,377
+| 18.0||37,549
+| 10.3||24,503
+| 6.7||24,853
+| 6.8||7,737
+| 2.1||3,631
+| 1.0||3,170
+| 0.9||2,190
+| 0.6||1,066
+|0.3
+|-
+|[[Saint Martin (island)|Saint Martin]]/[[Saint Barthélemy]]||2,151
+| 26.8|| style="background:#B5DAFF;"| 3,504
+| style="background:#B5DAFF;"| 43.6||975
+| 12.1||473
+| 5.9||473
+| 5.9||208
+| 2.6||92
+| 1.1||85
+| 1.1||44
+| 0.5||28
+|0.3
+|-
+|[[Saint Pierre and Miquelon]]|| style="background:#FFB5C8;"| 888
+| style="background:#FFB5C8;"| 33.8||488
+| 18.5||416
+| 15.8||399
+| 15.2||194
+| 7.4||43
+| 1.6||64
+| 2.4||103
+| 3.9||23
+| 0.9||13
+|0.5
+|-
+|[[Wallis and Futuna]]|| style="background:#FFB5C8;"| 3,093
+| style="background:#FFB5C8;"| 48.3||2,414
+| 37.7||152
+| 2.4||76
+| 1.2||410
+| 6.4||100
+| 1.6||43
+| 0.7||42
+| 0.7||48
+| 0.7||29
+|0.5
+|- class="sortbottom"
+| colspan="21" |
+|- style="font-weight:bold; background:#E4E4E4;"
+| align="left"| Total
+|  style="background:#FFB5C8;"| 10,272,705||style="background:#FFB5C8;"|28.63
+| 9,753,629||27.18
+| 6,421,426||17.90
+| 3,984,822||11.10
+| 3,275,122||9.13
+| 828,345||2.31
+| 643,907||1.79
+| 411,160||1.15
+| 202,548||0.56
+| 89,545||0.25
+|- class="sortbottom"
+| colspan="21" style="text-align:left;" | Source: [http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/FIREF1994_Display&node=0&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/FIREF1994_Display_C1&top=yes European Election Database] {{Webarchive|url=https://web.archive.org/web/20210624200112/http://eed.nsd.uib.no/webview/index.jsp?study=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfStudy%2FFIREF1994_Display&node=0&mode=cube&v=2&cube=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfCube%2FFIREF1994_Display_C1&top=yes |date=24 June 2021 }}
+|}
+
+{| class="wikitable sortable collapsible collapsed tpl-blanktable" style="text-align:left; font-size:95%; line-height:20px;"
+|+ class="nowrap" | Results by [[Region of France|region]]
+|-
+! width="200" rowspan="3"| [[Regions of France|Region]]
+! width="110" colspan="2"| [[François Hollande|François<br/>Hollande]]
+! width="110" colspan="2"| [[Nicolas Sarkozy|Nicolas<br/>Sarkozy]]
+! width="110" colspan="2"| [[Marine Le Pen|Marine<br/>Le Pen]]
+! width="110" colspan="2"| [[Jean-Luc Mélenchon|Jean-Luc<br/>Mélenchon]]
+! width="110" colspan="2"| [[François Bayrou|François<br/>Bayrou]]
+! width="110" colspan="2"| [[Eva Joly|Eva<br/>Joly]]
+! width="110" colspan="2"| [[Nicolas Dupont-Aignan|Nicolas<br/>Dupont-Aignan]]
+! width="110" colspan="2"| [[Philippe Poutou|Philippe<br/>Poutou]]
+! width="110" colspan="2"| [[Nathalie Arthaud|Nathalie<br/>Arthaud]]
+! width="110" colspan="2"| [[Jacques Cheminade|Jacques<br/>Cheminade]]
+|-
+! colspan="2" style="background:{{party color|Socialist Party (France)}};"|
+! colspan="2" style="background:{{party color|Union for a Popular Movement}};"|
+! colspan="2" style="background:{{party color|National Front (France)}};"|
+! colspan="2" style="background:{{party color|Left Front (France)}};"|
+! colspan="2" style="background:{{party color|Democratic Movement (France)}};"|
+! colspan="2" style="background:{{party color|Europe Écologie–The Greens}};"|
+! colspan="2" style="background:{{party color|Arise the Republic}};"|
+! colspan="2" style="background:{{party color|New Anticapitalist Party}};"|
+! colspan="2" style="background:{{party color|Workers' Struggle}};"|
+! colspan="2" style="background:{{party color|Solidarity and Progress}};"|
+|-
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+|-
+| align="left"| [[Alsace]]
+| 191,282
+| 19.30
+| style="background:#B5DAFF;"| 326,317
+| style="background:#B5DAFF;"| 32.92
+| 219,252
+| 22.12
+| 72,378
+| 7.30
+| 116,116
+| 11.71
+| 27,168
+| 2.74
+| 18,649
+| 1.88
+| 10,817
+| 1.09
+| 6,387
+| 0.64
+| 2,977
+| 0.30
+|-
+| align="left"| [[Aquitaine]]
+| style="background:#FFB5C8;"| 593,670
+| style="background:#FFB5C8;"| 31.05
+| 465,365
+| 24.34
+| 296,151
+| 15.49
+| 231,877
+| 12.13
+| 204,687
+| 10.71
+| 45,051
+| 2.36
+| 31,187
+| 1.63
+| 30,275
+| 1.58
+| 9,112
+| 0.48
+| 4,364
+| 0.23
+|-
+| align="left"| [[Auvergne]]
+| style="background:#FFB5C8;"| 251,981
+| style="background:#FFB5C8;"| 30.77
+| 192,190
+| 23.47
+| 139,768
+| 17.07
+| 104,710
+| 12.79
+| 81,777
+| 9.99
+| 15,356
+| 1.88
+| 15,274
+| 1.87
+| 10,328
+| 1.26
+| 5,508
+| 0.67
+| 2,007
+| 0.25
+|-
+| align="left"| [[Brittany (administrative region)|Brittany]]
+| style="background:#FFB5C8;"| 628,441
+| style="background:#FFB5C8;"| 31.74
+| 508,072
+| 25.66
+| 262,095
+| 13.24
+| 217,929
+| 11.36
+| 224,902
+| 11.01
+| 58,396
+| 2.95
+| 35,587
+| 1.80
+| 26,693
+| 1.35
+| 12,593
+| 0.64
+| 5,085
+| 0.26
+|-
+| align="left"| [[Burgundy]]
+| style="background:#FFB5C8;"| 262,817
+| style="background:#FFB5C8;"| 27.99
+| 250,206
+| 26.65
+| 191,148
+| 20.36
+| 97,185
+| 10.35
+| 81,987
+| 8.73
+| 17,077
+| 1.82
+| 19,101
+| 2.03
+| 11,193
+| 1.19
+| 5,937
+| 0.63
+| 2,318
+| 0.25
+|-
+| align="left"| [[Centre (France)|Centre]]
+| 385,169
+| 26.64
+| style="background:#B5DAFF;"| 403,460
+| style="background:#B5DAFF;"| 27.90
+| 280,096
+| 19.37
+| 151,971
+| 10.51
+| 137,172
+| 9.49
+| 26,314
+| 1.82
+| 30,609
+| 2.12
+| 17,609
+| 1.22
+| 9,827
+| 0.68
+| 3,752
+| 0.26
+|-
+| align="left"| [[Champagne-Ardenne]]
+| 178,810
+| 24.76
+| style="background:#B5DAFF;"| 206,031
+| style="background:#B5DAFF;"| 28.53
+| 172,632
+| 23.91
+| 62,132
+| 8.60
+| 62,048
+| 8.59
+| 10,150
+| 1.41
+| 14,977
+| 2.07
+| 8,602
+| 1.19
+| 4,984
+| 0.69
+| 1,750
+| 0.24
+|-
+| align="left"| [[Corsica]]
+| 39,029
+| 24.28
+| style="background:#B5DAFF;"| 50,492
+| style="background:#B5DAFF;"| 31.41
+| 39,209
+| 24.39
+| 15,834
+| 9.85
+| 8,050
+| 5.01
+| 3,678
+| 2.29
+| 1,727
+| 1.07
+| 1,874
+| 1.17
+| 502
+| 0.31
+| 337
+| 0.21
+|-
+| align="left"| [[Franche-Comté]]
+| 172,647
+| 25.89
+| style="background:#B5DAFF;"| 177,702
+| style="background:#B5DAFF;"| 26.64
+| 141,972
+| 21.29
+| 73,946
+| 11.09
+| 58,235
+| 8.73
+| 14,369
+| 2.15
+| 13,221
+| 1.98
+| 8,460
+| 1.27
+| 4,615
+| 0.69
+| 1,797
+| 0.27
+|-
+| align="left"| [[Île de France]]
+| style="background:#FFB5C8;"| 1,695,372
+| style="background:#FFB5C8;"| 31.75
+| 1,550,000
+| 29.02
+| 655,926
+| 12.28
+| 632,208
+| 11.84
+| 492,070
+| 9.21
+| 144,346
+| 2.70
+| 92,453
+| 1.73
+| 44,561
+| 0.83
+| 20,133
+| 0.38
+| 13,411
+| 0.25
+|-
+| align="left"| [[Languedoc-Roussillon]]
+| style="background:#FFB5C8;"| 408,664
+| style="background:#FFB5C8;"| 26.34
+| 384,097
+| 24.76
+| 363,880
+| 23.45
+| 204,170
+| 13.16
+| 105,433
+| 6.80
+| 35,465
+| 2.29
+| 22,228
+| 1.43
+| 17,072
+| 1.10
+| 7,027
+| 0.45
+| 3,482
+| 0.22
+|-
+| align="left"| [[Limousin]]
+| style="background:#FFB5C8;"| 171,766
+| style="background:#FFB5C8;"| 38.02
+| 94,211
+| 20.85
+| 69,256
+| 15.33
+| 57,883
+| 12.81
+| 34,489
+| 7.63
+| 7,449
+| 1.65
+| 7,713
+| 1.71
+| 5,378
+| 1.19
+| 2,651
+| 0.59
+| 988
+| 0.22
+|-
+| align="left"| [[Lorraine]]
+| style="background:#FFB5C8;"| 332,001
+| style="background:#FFB5C8;"| 25.47
+| 330,570
+| 25.36
+| 308,392
+| 23.66
+| 133,610
+| 10.25
+| 118,922
+| 9.12
+| 22,753
+| 1.75
+| 25,854
+| 1.98
+| 18,173
+| 1.39
+| 9,437
+| 0.72
+| 3,619
+| 0.28
+|-
+| align="left"| [[Lower Normandy]]
+| 242,705
+| 27.54
+| style="background:#B5DAFF;"| 249,477
+| style="background:#B5DAFF;"| 28.31
+| 150,810
+| 17.11
+| 88,064
+| 9.99
+| 93,160
+| 10.57
+| 17,279
+| 1.96
+| 19,336
+| 2.19
+| 12,031
+| 1.37
+| 6,141
+| 0.70
+| 2,312
+| 0.26
+|-
+| align="left"| [[Midi-Pyrénées]]
+| style="background:#FFB5C8;"| 552,933
+| style="background:#FFB5C8;"| 31.90
+| 397,594
+| 22.94
+| 281,085
+| 16.22
+| 229,282
+| 13.23
+| 165,583
+| 9.55
+| 44,753
+| 2.58
+| 28,335
+| 1.63
+| 21,319
+| 1.23
+| 8,295
+| 0.48
+| 4,173
+| 0.24
+|-
+| align="left"| [[Nord-Pas-de-Calais]]
+| style="background:#FFB5C8;"| 633,442
+| style="background:#FFB5C8;"| 28.53
+| 524,346
+| 23.62
+| 517,115
+| 23.29
+| 271,011
+| 12.21
+| 156,865
+| 7.07
+| 34,291
+| 1.54
+| 35,282
+| 1.59
+| 26,086
+| 1.17
+| 16,791
+| 0.76
+| 5,009
+| 0.23
+|-
+| align="left"| [[Pays de la Loire]]
+| 609,189
+| 28.40
+| style="background:#B5DAFF;"| 614,195
+| style="background:#B5DAFF;"| 28.63
+| 308,806
+| 14.39
+| 217,491
+| 10.14
+| 249,971
+| 11.65
+| 52,816
+| 2.46
+| 44,720
+| 2.08
+| 28,637
+| 1.33
+| 14,335
+| 0.67
+| 5,092
+| 0.24
+|-
+| align="left"| [[Picardy]]
+| style="background:#FFB5C8;"| 282,704
+| style="background:#FFB5C8;"| 26.59
+| 266,696
+| 25.09
+| 266,041
+| 25.03
+| 110,630
+| 10.41
+| 77,121
+| 7.25
+| 14,084
+| 1.32
+| 21,011
+| 1.98
+| 13,420
+| 1.26
+| 8,798
+| 0.83
+| 2,545
+| 0.24
+|-
+| align="left"| [[Poitou-Charentes]]
+| style="background:#FFB5C8;"| 329,014
+| style="background:#FFB5C8;"| 31.17
+| 270,372
+| 25.61
+| 173,595
+| 16.45
+| 112,766
+| 10.68
+| 100,802
+| 9.55
+| 22,036
+| 2.09
+| 22,168
+| 2.10
+| 15,347
+| 1.45
+| 6,974
+| 0.66
+| 2,531
+| 0.24
+|-
+| align="left"| [[Provence-Alpes-Côte d'Azur]]
+| 600,742
+| 22.05
+| style="background:#B5DAFF;"| 846,367
+| style="background:#B5DAFF;"| 31.06
+| 650,336
+| 23.87
+| 306,088
+| 11.23
+| 182,178
+| 6.69
+| 59,009
+| 2.17
+| 41,443
+| 1.52
+| 23,107
+| 0.85
+| 9,493
+| 0.35
+| 5,886
+| 0.22
+|-
+| align="left"| [[Rhône-Alpes]]
+| 869,849
+| 25.45
+| style="background:#B5DAFF;"| 968,812
+| style="background:#B5DAFF;"| 28.35
+| 628,332
+| 18.38
+| 382,651
+| 11.20
+| 340,073
+| 9.95
+| 97,801
+| 2.86
+| 67,707
+| 1.98
+| 35,386
+| 1.04
+| 18,287
+| 0.53
+| 8,975
+| 0.26
+|-
+| align="left"| [[Upper Normandy]]
+| style="background:#FFB5C8;"| 286,912
+| style="background:#FFB5C8;"| 27.86
+| 266,934
+| 25.92
+| 207,520
+| 20.15
+| 126,331
+| 12.27
+| 82,590
+| 8.02
+| 16,900
+| 1.64
+| 19,519
+| 1.90
+| 13,502
+| 1.31
+| 7,107
+| 0.69
+| 2,561
+| 0.25
+|-
+| colspan="21"|
+|-
+| align="left"| [[French Guiana]]
+| style="background:#FFB5C8;"| 15,943
+| style="background:#FFB5C8;"| 42.61
+| 10,174
+| 27.20
+| 3,920
+| 10.48
+| 2,952
+| 7.89
+| 2,329
+| 6.23
+| 843
+| 2.25
+| 416
+| 1.11
+| 479
+| 1.28
+| 208
+| 0.56
+| 148
+| 0.40
+|-
+| align="left"| [[French Polynesia]]
+| 29,130
+| 32.43
+| style="background:#B5DAFF;"| 40,611
+| style="background:#B5DAFF;"| 45.21
+| 5,151
+| 5.73
+| 2,492
+| 2.77
+| 5,139
+| 5.72
+| 3,392
+| 3.78
+| 2,484
+| 2.77
+| 532
+| 0.59
+| 510
+| 0.57
+| 378
+| 0.42
+|-
+| align="left"| [[Guadeloupe]]
+| style="background:#FFB5C8;"| 82,735
+| style="background:#FFB5C8;"| 57.00
+| 33,973
+| 23.40
+| 7,486
+| 5.16
+| 7,806
+| 5.38
+| 6,861
+| 4.73
+| 2,134
+| 1.47
+| 1,237
+| 0.85
+| 1,151
+| 0.79
+| 1,335
+| 0.92
+| 441
+| 0.30
+|-
+| align="left"| [[Martinique]]
+| style="background:#FFB5C8;"| 76,034
+| style="background:#FFB5C8;"| 51.98
+| 38,443
+| 26.28
+| 6,960
+| 4.76
+| 8,600
+| 5.88
+| 8,681
+| 5.93
+| 2,275
+| 1.56
+| 1,563
+| 1.07
+| 1,712
+| 1.17
+| 1,442
+| 0.99
+| 560
+| 0.38
+|-
+| align="left"| [[Mayotte]]
+| 13,152
+| 36.55
+| style="background:#B5DAFF;"| 17,536
+| style="background:#B5DAFF;"| 48.73
+| 996
+| 2.77
+| 944
+| 2.62
+| 1,505
+| 4.18
+| 789
+| 2.19
+| 395
+| 1.10
+| 299
+| 0.83
+| 192
+| 0.53
+| 175
+| 0.49
+|-
+| align="left"| [[New Caledonia]]
+| 22,235
+| 24.91
+| style="background:#B5DAFF;"| 44,302
+| style="background:#B5DAFF;"| 49.63
+| 10,409
+| 11.66
+| 2,927
+| 3.28
+| 4,579
+| 5.13
+| 2,336
+| 2.62
+| 833
+| 0.93
+| 874
+| 0.98
+| 485
+| 0.54
+| 279
+| 0.31
+|-
+| align="left"| [[Réunion]]
+| style="background:#FFB5C8;"| 194,009
+| style="background:#FFB5C8;"| 53.29
+| 65,377
+| 17.96
+| 37,549
+| 10.31
+| 24,503
+| 6.73
+| 24,853
+| 6.83
+| 7,737
+| 2.13
+| 3,631
+| 1.00
+| 3,170
+| 0.87
+| 2,190
+| 0.60
+| 1,066
+| 0.29
+|-
+| align="left"| [[Saint Barthélemy]] and [[Collectivity of Saint Martin|Saint Martin]]
+| 2,151
+| 26.78
+| style="background:#B5DAFF;"| 3,504
+| style="background:#B5DAFF;"| 43.62
+| 975
+| 12.14
+| 473
+| 5.89
+| 473
+| 5.89
+| 208
+| 2.59
+| 92
+| 1.15
+| 85
+| 1.06
+| 44
+| 0.55
+| 28
+| 0.35
+|-
+| align="left"| [[Saint Pierre and Miquelon]]
+| style="background:#FFB5C8;"| 888
+| style="background:#FFB5C8;"| 33.75
+| 488
+| 18.55
+| 416
+| 15.81
+| 399
+| 15.17
+| 194
+| 7.37
+| 43
+| 1.63
+| 64
+| 2.43
+| 103
+| 3.91
+| 23
+| 0.87
+| 13
+| 0.49
+|-
+| align="left"| [[Wallis and Futuna]]
+| style="background:#FFB5C8;"| 3,093
+| style="background:#FFB5C8;"| 48.28
+| 2,414
+| 37.68
+| 152
+| 2.37
+| 76
+| 1.19
+| 410
+| 6.40
+| 100
+| 1.56
+| 43
+| 0.67
+| 42
+| 0.66
+| 48
+| 0.75
+| 29
+| 0.45
+|-
+| colspan="21"|
+|- style="font-weight:bold; background:#E4E4E4;"
+| align="left"| Total
+| style="background:#FFB5C8;"| 10,272,705
+| style="background:#FFB5C8;"| 28.63
+| 9,753,629
+| 27.18
+| 6,421,426
+| 17.90
+| 3,984,822
+| 11.10
+| 3,275,122
+| 9.13
+| 828,345
+| 2.31
+| 643,907
+| 1.79
+| 411,160
+| 1.15
+| 202,548
+| 0.56
+| 89,545
+| 0.25
+|-
+| colspan="21" style="text-align:left;"| Source: [http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/FIREF1994_Display&node=0&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/FIREF1994_Display_C1&top=yes European Election Database] {{Webarchive|url=https://web.archive.org/web/20210624200112/http://eed.nsd.uib.no/webview/index.jsp?study=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfStudy%2FFIREF1994_Display&node=0&mode=cube&v=2&cube=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfCube%2FFIREF1994_Display_C1&top=yes |date=24 June 2021 }}
+|}
+
+===Second round===
+[[File:2007-2012_French_Presidential_Swing.svg|thumb|right|Second Round 2007–2012 Swing by Departement 
+{{collapsible list
+| title = {{legend|#FFF0F0|Swing}}
+|{{legend|#0000FF|+21% Sarkozy}}
+|{{legend|#FFD5D5|+2-4% Hollande}}
+|{{legend|#FFAAAA|+4-6% Hollande}}
+|{{legend|#FF5555|+6-8% Hollande}}
+|{{legend|#FF2A2A|+8-10% Hollande}}
+|{{legend|#D40000|+10-12% Hollande}}
+|{{legend|#800000|+12-14% Hollande}}
+|{{legend|#550000|+>14% Hollande}}
+}}
+]]
+====Tables====
+{| class="wikitable sortable collapsible collapsed tpl-blanktable" style="text-align:left; font-size:95%; line-height:20px;"
+|+ class="nowrap" | Results by [[Department of France|department]]
+|-
+! width="200" rowspan="3"| [[Departments of France|Department]]
+! width="110" colspan="2"| [[François Hollande]]
+! width="110" colspan="2"| [[Nicolas Sarkozy]]
+|-
+! colspan="2" style="background:{{party color|Socialist Party (France)}};"|
+! colspan="2" style="background:{{party color|Union for a Popular Movement}};"|
+|-
+! Votes
+! %
+! Votes
+! %
+|-
+|[[Ain]]||131,365
+|42.78%|| style="background:#B5DAFF;"| 175,706
+| style="background:#B5DAFF;"| 57.22%
+|-
+|[[Aisne]]||style="background:#FFB5C8;"| 147,260
+|style="background:#FFB5C8;"| 52.40%||133,760
+|47.60%
+|-
+|[[Allier]]||style="background:#FFB5C8;"| 111,615
+|style="background:#FFB5C8;"| 56.89%||84,593
+|43.11%
+|-
+|[[Alpes-de-Haute-Provence]]||style="background:#FFB5C8;"| 49,498
+|style="background:#FFB5C8;"| 51.06%||47,444
+|48.94%
+|-
+|[[Hautes-Alpes]]||style="background:#FFB5C8;"| 42,624
+|style="background:#FFB5C8;"| 50.91%||41,098
+|49.09%
+|-
+|[[Alpes-Maritimes]]||203,708
+|35.77%|| style="background:#B5DAFF;"| 365,813
+| style="background:#B5DAFF;"| 64.23%
+|-
+|[[Ardèche]]||style="background:#FFB5C8;"| 101,526
+|style="background:#FFB5C8;"| 53.45%||88,429
+|46.55%
+|-
+|[[Ardennes (department)|Ardennes]]||style="background:#FFB5C8;"| 75,630
+|style="background:#FFB5C8;"| 51.89%||70,119
+|48.11%
+|-
+|[[Ariège (department)|Ariège]]||style="background:#FFB5C8;"| 59,466
+|style="background:#FFB5C8;"| 64.69%||32,452
+|35.31%
+|-
+|[[Aube]]||65,548
+|42.63%|| style="background:#B5DAFF;"| 88,210
+| style="background:#B5DAFF;"| 57.37%
+|-
+|[[Aude]]||style="background:#FFB5C8;"| 115,398
+|style="background:#FFB5C8;"| 56.24%||89,793
+|43.76%
+|-
+|[[Aveyron]]||style="background:#FFB5C8;"| 95,297
+|style="background:#FFB5C8;"| 54.42%||79,802
+|45.58%
+|-
+|[[Bouches-du-Rhône]]||474,704
+|47.17%|| style="background:#B5DAFF;"| 531,652
+| style="background:#B5DAFF;"| 52.83%
+|-
+|[[Calvados (department)|Calvados]]||style="background:#FFB5C8;"| 205,525
+|style="background:#FFB5C8;"| 53.11%||181,423
+|46.89%
+|-
+|[[Cantal]]||style="background:#FFB5C8;"| 49,543
+|style="background:#FFB5C8;"| 51.80%||46,097
+|48.20%
+|-
+|[[Charente]]||style="background:#FFB5C8;"| 118,100
+|style="background:#FFB5C8;"| 58.83%||82,648
+|41.17%
+|-
+|[[Charente-Maritime]]||style="background:#FFB5C8;"| 188,387
+|style="background:#FFB5C8;"| 51.57%||176,944
+|48.43%
+|-
+|[[Cher (department)|Cher]]||style="background:#FFB5C8;"| 92,857
+|style="background:#FFB5C8;"| 54.04%||78,959
+|45.96%
+|-
+|[[Corrèze]]||style="background:#FFB5C8;"| 98,764
+|style="background:#FFB5C8;"| 64.86%||53,502
+|35.14%
+|-
+|[[Corse-du-Sud]]||30,791
+|42.40%|| style="background:#B5DAFF;"| 41,834
+| style="background:#B5DAFF;"| 57.60%
+|-
+|[[Haute-Corse]]||39,357
+|45.59%|| style="background:#B5DAFF;"| 46,965
+| style="background:#B5DAFF;"| 54.41%
+|-
+|[[Côte-d'Or]]||134,929
+|48.45%|| style="background:#B5DAFF;"| 143,559
+| style="background:#B5DAFF;"| 51.55%
+|-
+|[[Côtes-d'Armor]]||style="background:#FFB5C8;"| 217,604
+|style="background:#FFB5C8;"| 59.19%||150,035
+|40.81%
+|-
+|[[Creuse]]||style="background:#FFB5C8;"| 45,870
+|style="background:#FFB5C8;"| 61.02%||29,306
+|38.98%
+|-
+|[[Dordogne]]||style="background:#FFB5C8;"| 148,011
+|style="background:#FFB5C8;"| 59.14%||102,280
+|40.86%
+|-
+|[[Doubs]]||134,568
+|48.09%|| style="background:#B5DAFF;"| 145,269
+| style="background:#B5DAFF;"| 51.91%
+|-
+|[[Drôme]]||134,959
+|49.18%|| style="background:#B5DAFF;"| 139,436
+| style="background:#B5DAFF;"| 50.82%
+|-
+|[[Eure]]||151,327
+|47.55%|| style="background:#B5DAFF;"| 166,949
+| style="background:#B5DAFF;"| 52.45%
+|-
+|[[Eure-et-Loir]]||105,676
+|46.53%|| style="background:#B5DAFF;"| 121,452
+| style="background:#B5DAFF;"| 53.47%
+|-
+|[[Finistère]]||style="background:#FFB5C8;"| 319,304
+|style="background:#FFB5C8;"| 58.87%||223,115
+|41.13%
+|-
+|[[Gard]]||193,487
+|48.80%|| style="background:#B5DAFF;"| 202,995
+| style="background:#B5DAFF;"| 51.20%
+|-
+|[[Haute-Garonne]]||style="background:#FFB5C8;"| 388,811
+|style="background:#FFB5C8;"| 58.78%||272,683
+|41.22%
+|-
+|[[Gers]]||style="background:#FFB5C8;"| 65,605
+|style="background:#FFB5C8;"| 56.64%||50,221
+|43.36%
+|-
+|[[Gironde]]||style="background:#FFB5C8;"| 448,634
+|style="background:#FFB5C8;"| 56.61%||343,866
+|43.39%
+|-
+|[[Hérault]]||style="background:#FFB5C8;"| 296,422
+|style="background:#FFB5C8;"| 51.31%||281,240
+|48.69%
+|-
+|[[Ille-et-Vilaine]]||style="background:#FFB5C8;"| 309,763
+|style="background:#FFB5C8;"| 55.71%||246,303
+|44.29%
+|-
+|[[Indre]]||style="background:#FFB5C8;"| 73,616
+|style="background:#FFB5C8;"| 55.66%||58,643
+|44.34%
+|-
+|[[Indre-et-Loire]]||style="background:#FFB5C8;"| 165,293
+|style="background:#FFB5C8;"| 51.23%||157,374
+|48.77%
+|-
+|[[Isère]]||style="background:#FFB5C8;"| 331,448
+|style="background:#FFB5C8;"| 52.12%||304,429
+|47.88%
+|-
+|[[Jura (department)|Jura]]||72,321
+|49.42%|| style="background:#B5DAFF;"| 74,004
+| style="background:#B5DAFF;"| 50.58%
+|-
+|[[Landes (department)|Landes]]||style="background:#FFB5C8;"| 134,872
+|style="background:#FFB5C8;"| 56.99%||101,792
+|43.01%
+|-
+|[[Loir-et-Cher]]||89,182
+|47.57%|| style="background:#B5DAFF;"| 98,275
+| style="background:#B5DAFF;"| 52.43%
+|-
+|[[Loire (department)|Loire]]||style="background:#FFB5C8;"| 196,522
+|style="background:#FFB5C8;"| 50.50%||192,621
+|49.50%
+|-
+|[[Haute-Loire]]||style="background:#FFB5C8;"| 70,488
+|style="background:#FFB5C8;"| 51.38%||66,703
+|48.62%
+|-
+|[[Loire-Atlantique]]||style="background:#FFB5C8;"| 419,484
+|style="background:#FFB5C8;"| 56.35%||324,893
+|43.65%
+|-
+|[[Loiret]]||156,289
+|45.97%|| style="background:#B5DAFF;"| 183,671
+| style="background:#B5DAFF;"| 54.03%
+|-
+|[[Lot (department)|Lot]]||style="background:#FFB5C8;"| 67,981
+|style="background:#FFB5C8;"| 61.89%||41,862
+|38.11%
+|-
+|[[Lot-et-Garonne]]||style="background:#FFB5C8;"| 96,766
+|style="background:#FFB5C8;"| 51.35%||91,663
+|48.65%
+|-
+|[[Lozère]]||23,991
+|49.95%|| style="background:#B5DAFF;"| 24,036
+| style="background:#B5DAFF;"| 50.05%
+|-
+|[[Maine-et-Loire]]||213,611
+|48.85%|| style="background:#B5DAFF;"| 223,644
+| style="background:#B5DAFF;"| 51.15%
+|-
+|[[Manche]]||147,005
+|49.90%|| style="background:#B5DAFF;"| 147,590
+| style="background:#B5DAFF;"| 50.10%
+|-
+|[[Marne (department)|Marne]]||126,155
+|44.69%|| style="background:#B5DAFF;"| 156,159
+| style="background:#B5DAFF;"| 55.31%
+|-
+|[[Haute-Marne]]||46,965
+|45.57%|| style="background:#B5DAFF;"| 56,085
+| style="background:#B5DAFF;"| 54.43%
+|-
+|[[Mayenne]]||81,922
+|46.93%|| style="background:#B5DAFF;"| 92,647
+| style="background:#B5DAFF;"| 53.07%
+|-
+|[[Meurthe-et-Moselle]]||style="background:#FFB5C8;"| 196,628
+|style="background:#FFB5C8;"| 53.06%||173,929
+|46.94%
+|-
+|[[Meuse (department)|Meuse]]||48,860
+|46.20%|| style="background:#B5DAFF;"| 56,898
+| style="background:#B5DAFF;"| 53.80%
+|-
+|[[Morbihan]]||style="background:#FFB5C8;"| 229,248
+|style="background:#FFB5C8;"| 51.73%||213,893
+|48.27%
+|-
+|[[Moselle (department)|Moselle]]||253,371
+|46.52%|| style="background:#B5DAFF;"| 291,278
+| style="background:#B5DAFF;"| 53.48%
+|-
+|[[Nièvre]]||style="background:#FFB5C8;"| 73,424
+|style="background:#FFB5C8;"| 58.81%||51,421
+|41.19%
+|-
+|[[Nord (French department)|Nord]]||style="background:#FFB5C8;"| 692,273
+|style="background:#FFB5C8;"| 52.88%||616,882
+|47.12%
+|-
+|[[Oise]]||195,701
+|47.34%|| style="background:#B5DAFF;"| 217,732
+| style="background:#B5DAFF;"| 52.66%
+|-
+|[[Orne]]||77,579
+|47.11%|| style="background:#B5DAFF;"| 87,087
+| style="background:#B5DAFF;"| 52.89%
+|-
+|[[Pas-de-Calais]]||style="background:#FFB5C8;"| 450,103
+|style="background:#FFB5C8;"| 56.18%||351,015
+|43.82%
+|-
+|[[Puy-de-Dôme]]||style="background:#FFB5C8;"| 212,750
+|style="background:#FFB5C8;"| 60.46%||139,145
+|39.54%
+|-
+|[[Pyrénées-Atlantiques]]||style="background:#FFB5C8;"| 218,964
+|style="background:#FFB5C8;"| 57.12%||164,374
+|42.88%
+|-
+|[[Hautes-Pyrénées]]||style="background:#FFB5C8;"| 86,803
+|style="background:#FFB5C8;"| 62.47%||52,154
+|37.53%
+|-
+|[[Pyrénées-Orientales]]||style="background:#FFB5C8;"| 127,625
+|style="background:#FFB5C8;"| 50.59%||124,668
+|49.41%
+|-
+|[[Bas-Rhin]]||206,891
+|36.56%|| style="background:#B5DAFF;"| 359,011
+| style="background:#B5DAFF;"| 63.44%
+|-
+|[[Haut-Rhin]]||142,724
+|36.67%|| style="background:#B5DAFF;"| 246,527
+| style="background:#B5DAFF;"| 63.33%
+|-
+|[[Rhône (department)|Rhône]]||408,899
+|47.98%|| style="background:#B5DAFF;"| 443,370
+| style="background:#B5DAFF;"| 52.02%
+|-
+|[[Haute-Saône]]||68,653
+|49.64%|| style="background:#B5DAFF;"| 69,658
+| style="background:#B5DAFF;"| 50.36%
+|-
+|[[Saône-et-Loire]]||style="background:#FFB5C8;"| 160,751
+|style="background:#FFB5C8;"| 51.86%||149,243
+|48.14%
+|-
+|[[Sarthe]]||style="background:#FFB5C8;"| 162,975
+|style="background:#FFB5C8;"| 52.67%||146,454
+|47.33%
+|-
+|[[Savoie]]||108,691
+|47.07%|| style="background:#B5DAFF;"| 122,228
+| style="background:#B5DAFF;"| 52.93%
+|-
+|[[Haute-Savoie]]||154,622
+|39.90%|| style="background:#B5DAFF;"| 232,928
+| style="background:#B5DAFF;"| 60.10%
+|-
+|[[Paris]]||style="background:#FFB5C8;"| 560,461
+|style="background:#FFB5C8;"| 55.60%||447,500
+|44.40%
+|-
+|[[Seine-Maritime]]||style="background:#FFB5C8;"| 366,616
+|style="background:#FFB5C8;"| 54.94%||300,657
+|45.06%
+|-
+|[[Seine-et-Marne]]||315,566
+|49.25%|| style="background:#B5DAFF;"| 325,147
+| style="background:#B5DAFF;"| 50.75%
+|-
+|[[Yvelines]]||333,057
+|45.70%|| style="background:#B5DAFF;"| 395,697
+| style="background:#B5DAFF;"| 54.30%
+|-
+|[[Deux-Sèvres]]||style="background:#FFB5C8;"| 122,858
+|style="background:#FFB5C8;"| 57.31%||91,527
+|42.69%
+|-
+|[[Somme (department)|Somme]]||style="background:#FFB5C8;"| 170,529
+|style="background:#FFB5C8;"| 54.41%||142,894
+|45.59%
+|-
+|[[Tarn (department)|Tarn]]||style="background:#FFB5C8;"| 125,132
+|style="background:#FFB5C8;"| 55.55%||100,109
+|44.45%
+|-
+|[[Tarn-et-Garonne]]||style="background:#FFB5C8;"| 71,186
+|style="background:#FFB5C8;"| 51.25%||67,705
+|48.75%
+|-
+|[[Var (department)|Var]]||217,383
+|37.36%|| style="background:#B5DAFF;"| 364,467
+| style="background:#B5DAFF;"| 62.64%
+|-
+|[[Vaucluse]]||130,278
+|43.57%|| style="background:#B5DAFF;"| 168,753
+| style="background:#B5DAFF;"| 56.43%
+|-
+|[[Vendée]]||173,717
+|44.41%|| style="background:#B5DAFF;"| 217,449
+| style="background:#B5DAFF;"| 55.59%
+|-
+|[[Vienne (department)|Vienne]]||style="background:#FFB5C8;"| 134,875
+|style="background:#FFB5C8;"| 57.15%||101,138
+|42.85%
+|-
+|[[Haute-Vienne]]||style="background:#FFB5C8;"| 133,467
+|style="background:#FFB5C8;"| 63.99%||75,095
+|36.01%
+|-
+|[[Vosges (department)|Vosges]]||105,371
+|49.06%|| style="background:#B5DAFF;"| 109,404
+| style="background:#B5DAFF;"| 50.94%
+|-
+|[[Yonne]]||86,610
+|46.88%|| style="background:#B5DAFF;"| 98,122
+| style="background:#B5DAFF;"| 53.12%
+|-
+|[[Territoire de Belfort]]||style="background:#FFB5C8;"| 35,865
+|style="background:#FFB5C8;"| 50.52%||35,121
+|49.48%
+|-
+|[[Essonne]]||style="background:#FFB5C8;"| 317,663
+|style="background:#FFB5C8;"| 53.43%||276,859
+|46.57%
+|-
+|[[Hauts-de-Seine]]||369,128
+|49.48%|| style="background:#B5DAFF;"| 376,816
+| style="background:#B5DAFF;"| 50.52%
+|-
+|[[Seine-Saint-Denis]]||style="background:#FFB5C8;"| 353,260
+|style="background:#FFB5C8;"| 65.32%||187,562
+|34.68%
+|-
+|[[Val-de-Marne]]||style="background:#FFB5C8;"| 333,347
+|style="background:#FFB5C8;"| 56.48%||256,900
+|43.52%
+|-
+|[[Val-d'Oise]]||style="background:#FFB5C8;"| 289,520
+|style="background:#FFB5C8;"| 53.91%||247,541
+|46.09%
+|-
+| colspan="5" |
+|-
+|[[French Guiana]]||style="background:#FFB5C8;"| 25,880
+|style="background:#FFB5C8;"| 62.05%||15,830
+|37.95%
+|-
+|[[French Polynesia]]||50,097
+|46.74%|| style="background:#B5DAFF;"| 57,080
+| style="background:#B5DAFF;"| 53.26%
+|-
+|[[Guadeloupe]]||style="background:#FFB5C8;"| 123,821
+|style="background:#FFB5C8;"| 71.94%||48,292
+|28.06%
+|-
+|[[Martinique]]||style="background:#FFB5C8;"| 114,527
+|style="background:#FFB5C8;"| 68.43%||52,829
+|31.57%
+|-
+|[[Mayotte]]||18,948
+|49.06%|| style="background:#B5DAFF;"| 19,677
+| style="background:#B5DAFF;"| 50.94%
+|-
+|[[New Caledonia]]||36,239
+|36.97%|| style="background:#B5DAFF;"| 61,772
+| style="background:#B5DAFF;"| 63.03%
+|-
+|[[Réunion]]||style="background:#FFB5C8;"| 286,109
+|style="background:#FFB5C8;"| 71.49%||114,120
+|28.51%
+|-
+|Saint Martin/Saint Barthélemy||3,851
+|40.57%|| style="background:#B5DAFF;"| 5,641
+| style="background:#B5DAFF;"| 59.43%
+|-
+|[[Saint Pierre and Miquelon]]||style="background:#FFB5C8;"| 2,080
+|style="background:#FFB5C8;"| 65.31%||1,105
+|34.69%
+|-
+| style="text-align:left;" | [[Wallis and Futuna]]
+|style="background:#FFB5C8;"| 3,795
+|style="background:#FFB5C8;"| 56.06%
+|2,974
+|43.94%
+|-
+| colspan="5" |
+|- style="font-weight:bold; background:#E4E4E4;"
+|Total
+|style="background:#FFB5C8;"| 18,000,668
+|style="background:#FFB5C8;"| 51.64%
+| 16,860,685
+| 48.36%
+|-
+| colspan="5" |
+|-
+| colspan="5" |Source: [http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/FIREF1994_Display&node=0&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/FIREF1994_Display_C1&top=yes European Election Database] {{Webarchive|url=https://web.archive.org/web/20210624200112/http://eed.nsd.uib.no/webview/index.jsp?study=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfStudy%2FFIREF1994_Display&node=0&mode=cube&v=2&cube=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfCube%2FFIREF1994_Display_C1&top=yes |date=24 June 2021 }}
+|}
+
+{| class="wikitable sortable collapsible collapsed tpl-blanktable" style="text-align:left; font-size:95%; line-height:20px;"
+|+ class="nowrap" | Results by [[Regions of France|region]]
+|-
+! width="200" rowspan="3"| [[Regions of France|Region]]
+! width="110" colspan="2"| [[François Hollande]]
+! width="110" colspan="2"| [[Nicolas Sarkozy]]
+|-
+! colspan="2" style="background:{{party color|Socialist Party (France)}};"|
+! colspan="2" style="background:{{party color|Union for a Popular Movement}};"|
+|-
+! Votes
+! %
+! Votes
+! %
+|-
+|[[Alsace]]
+|349,615
+|36.60%
+| style="background:#B5DAFF;"| 605,538
+| style="background:#B5DAFF;"| 63.40%
+|-
+|[[Aquitaine]]
+|style="background:#FFB5C8;"| 1,047,247
+|style="background:#FFB5C8;"| 56.57%
+|803,975
+|43.43%
+|-
+|[[Auvergne]]
+|style="background:#FFB5C8;"| 444,396
+|style="background:#FFB5C8;"| 56.91%
+|336,538
+|43.09%
+|-
+|[[Brittany (administrative region)|Brittany]]
+|style="background:#FFB5C8;"| 1,075,919
+|style="background:#FFB5C8;"| 56.35%
+|833,346
+|43.65%
+|-
+|[[Burgundy]]
+|style="background:#FFB5C8;"| 455,714
+|style="background:#FFB5C8;"| 50.74%
+|442,345
+|49.26%
+|-
+|[[Centre (France)|Centre]]
+|682,913
+|49.44%
+| style="background:#B5DAFF;"| 698,374
+| style="background:#B5DAFF;"| 50.56%
+|-
+|[[Champagne-Ardenne]]
+|314,298
+|45.89%
+| style="background:#B5DAFF;"| 370,573
+| style="background:#B5DAFF;"| 54.11%
+|-
+|[[Corsica]]
+|70,148
+|44.13%
+| style="background:#B5DAFF;"| 88,799
+| style="background:#B5DAFF;"| 55.87%
+|-
+|[[Franche-Comté]]
+|311,407
+|49.01%
+| style="background:#B5DAFF;"| 324,052
+| style="background:#B5DAFF;"| 50.99%
+|-
+|[[Île de France]]
+|style="background:#FFB5C8;"| 2,872,002
+|style="background:#FFB5C8;"| 53.32%
+|2,514,022
+|46.68%
+|-
+|[[Languedoc-Roussillon]]
+|style="background:#FFB5C8;"| 756,923
+|style="background:#FFB5C8;"| 51.16%
+|722,732
+|48.84%
+|-
+|[[Limousin]]
+|style="background:#FFB5C8;"| 278,101
+|style="background:#FFB5C8;"| 63.78%
+|157,903
+|36.22%
+|-
+|[[Lorraine]]
+|604,230
+|48.90%
+| style="background:#B5DAFF;"| 631,509
+| style="background:#B5DAFF;"| 51.10%
+|-
+|[[Lower Normandy]]
+|style="background:#FFB5C8;"| 430,109
+|style="background:#FFB5C8;"| 50.83%
+|416,100
+|49.17%
+|-
+|[[Midi-Pyrénées]]
+|style="background:#FFB5C8;"| 960,281
+|style="background:#FFB5C8;"| 57.94%
+|696,988
+|42.06%
+|-
+|[[Nord-Pas-de-Calais]]
+|style="background:#FFB5C8;"| 1,142,376
+|style="background:#FFB5C8;"| 54.13%
+|967,897
+|45.87%
+|-
+|[[Pays de la Loire]]
+|style="background:#FFB5C8;"| 1,051,709
+|style="background:#FFB5C8;"| 51.13%
+|1,005,087
+|48.87%
+|-
+|[[Picardy]]
+|style="background:#FFB5C8;"|513,490
+|style="background:#FFB5C8;"| 50.95%
+|494,386
+|49.05%
+|-
+|[[Poitou-Charentes]]
+|style="background:#FFB5C8;"| 564,220
+|style="background:#FFB5C8;"| 55.51%
+|452,257
+|44.49%
+|-
+|[[Provence-Alpes-Côte d'Azur]]
+|1,118,195
+|42.40%
+| style="background:#B5DAFF;"| 1,519,227
+| style="background:#B5DAFF;"| 57.60%
+|-
+|[[Rhône-Alpes]]
+|1,568,032
+|47.99%
+|style="background:#B5DAFF;"| 1,699,147
+|style="background:#B5DAFF;"| 52.01%
+|-
+|[[Upper Normandy]]
+|style="background:#FFB5C8;"| 517,943
+|style="background:#FFB5C8;"| 52.55%
+|467,606
+|47.45%
+|-
+| colspan="5" |
+|-
+|[[French Guiana]]||style="background:#FFB5C8;"| 25,880
+|style="background:#FFB5C8;"| 62.05%||15,830
+|37.95%
+|-
+|[[French Polynesia]]||50,097
+|46.74%|| style="background:#B5DAFF;"| 57,080
+| style="background:#B5DAFF;"| 53.26%
+|-
+|[[Guadeloupe]]||style="background:#FFB5C8;"| 123,821
+|style="background:#FFB5C8;"| 71.94%||48,292
+|28.06%
+|-
+|[[Martinique]]||style="background:#FFB5C8;"| 114,527
+|style="background:#FFB5C8;"| 68.43%||52,829
+|31.57%
+|-
+|[[Mayotte]]||18,948
+|49.06%|| style="background:#B5DAFF;"| 19,677
+| style="background:#B5DAFF;"| 50.94%
+|-
+|[[New Caledonia]]||36,239
+|36.97%|| style="background:#B5DAFF;"| 61,772
+| style="background:#B5DAFF;"| 63.03%
+|-
+|[[Réunion]]||style="background:#FFB5C8;"| 286,109
+|style="background:#FFB5C8;"| 71.49%||114,120
+|28.51%
+|-
+|Saint Martin/Saint Barthélemy||3,851
+|40.57%|| style="background:#B5DAFF;"| 5,641
+| style="background:#B5DAFF;"| 59.43%
+|-
+|[[Saint Pierre and Miquelon]]||style="background:#FFB5C8;"| 2,080
+|style="background:#FFB5C8;"| 65.31%||1,105
+|34.69%
+|-
+| style="text-align:left;" | [[Wallis and Futuna]]
+|style="background:#FFB5C8;"| 3,795
+|style="background:#FFB5C8;"| 56.06%
+|2,974
+|43.94%
+|-
+|French overseas voters
+|206,053
+|46.94%
+| style="background:#B5DAFF;"| 232,964
+| style="background:#B5DAFF;"| 53.06%
+|-
+| colspan="5" |
+|- style="font-weight:bold; background:#E4E4E4;"
+|Total
+|style="background:#FFB5C8;"| 18,000,668
+|style="background:#FFB5C8;"| 51.64%
+|16,860,685
+|48.36%
+|-
+| colspan="5" style="text-align:left;" | Source: [http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/FIREF1994_Display&node=0&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/FIREF1994_Display_C1&top=yes European Election Database] {{Webarchive|url=https://web.archive.org/web/20210624200112/http://eed.nsd.uib.no/webview/index.jsp?study=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfStudy%2FFIREF1994_Display&node=0&mode=cube&v=2&cube=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfCube%2FFIREF1994_Display_C1&top=yes |date=24 June 2021 }}
+|}
+<gallery>
+File:Election presidentielle France 2012-1er tour-étranger.svg|Candidates who came out on top in each country in the first round of 2012 French presidential election. {{legend|#FF00FF|François Hollande}}{{legend|#000080|Marine Le Pen}}{{legend|#0000FF|Nicolas Sarkozy}}
+File:Election presidentielle France 2012-2e tour-étranger.svg|Candidate who came out on top abroad. {{legend|#FF00FF|François Hollande}}{{legend|#0000FF|Nicolas Sarkozy}}{{legend|#FF7F2A|Tie}}
+</gallery>
+
+==Reactions==
+Sarkozy called for UMP to "stay together. We must win the battle of the legislatives" and said that "in this new era, I will remain one of you, but my place will no longer be the same. My engagement with the life of my country will now be different, but time will never strain the bonds between us." Hollande then spoke at a victory rally in [[Tulle, France|Tulle]] where he said:
+
+{{cquote|To those who haven't voted for me, let them know that I hear them, and that I will be president to all. There is one France, united in the same destiny. We will never be apart, how beautiful life is tonight!}}
+
+He then travelled to Paris, where supporters of the Socialist Party gathered outside the headquarters.<ref name="aljazresult">{{cite web|url=http://www.aljazeera.com/news/europe/2012/05/201256172746159731.html |title=Hollande wins French presidency – Europe |publisher=Al Jazeera English |date=4 October 2011 |access-date=6 May 2012}}</ref> He also said that "Europe is watching us. Austerity isn't inevitable. My mission now is to give European construction a growth dimension."<ref>{{cite news|last=Fouquet |first=Helene |url=https://www.bloomberg.com/news/2012-05-06/hollande-defeats-sarkozy-in-shift-of-power-to-french-socialists.html |title=Hollande Vows to Fight Austerity After Beating Sarkozy |publisher=Bloomberg |date= 7 May 2012|access-date=7 May 2012}}</ref>
+
+===International reactions===
+*{{Flagu|Andorra}} – In electing the President of France, French citizens had also elected one of the [[Co-Princes of Andorra|two heads of state]] of Andorra. Prime Minister [[Antoni Martí]] congratulated François Hollande, expressing his confidence both in the continuation of the "excellent" [[Andorra–France relations|relationship between Andorra and France]], and in Hollande's awareness of the importance of his role as Co-Prince of Andorra. [[Jaume Bartumeu]], of Andorra's [[Social Democratic Party (Andorra)|Social Democratic Party]] (in opposition), described Hollande's victory as "the beginning of the resurgence of [[social democracy]] in Europe".<ref>[http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=19913 "Copríncep Hollande"] {{Webarchive|url=https://web.archive.org/web/20130920083559/http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=19913 |date=20 September 2013 }}, ''Diari Andorra'', 7 May 2012</ref><ref>[http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=19922 "Martí felicita Hollande per la victòria i ofereix la seva col·laboració per continuar estrenyent els lligams"] {{Webarchive|url=https://web.archive.org/web/20140911112600/http://www.diariandorra.ad/index.php?option=com_k2&view=item&id=19922 |date=11 September 2014 }}, ''Diari Andorra'', 7 May 2012</ref>
+*{{Flagu|Belgium}} – Prime Minister [[Elio Di Rupo]] welcomed the election of his "friend", adding: "François Hollande's proposals on economic growth [...] will have a positive impact for all Europeans and on European authorities".<ref name="Libé mai">[http://www.liberation.fr/politiques/2012/05/07/le-monde-politique-felicite-hollande_816921 "Dans le monde, des félicitations plus ou moins chaleureuses"], ''Libération'', 8 May 2012</ref>
+*{{Flagu|Denmark}} – Prime Minister [[Helle Thorning-Schmidt]] congratulated Hollande for his win.<ref name=ABC />
+*{{Flagu|Germany}} – [[Chancellor of Germany|Chancellor]] [[Angela Merkel]] sent her congratulations to Hollande and said that she and [[Minister for Foreign Affairs (Germany)|Foreign Minister]] [[Guido Westerwelle]] "agreed to discuss the kind of growth pact that Hollande has championed."<ref name=ABC>[https://abcnews.go.com/Business/wireStory/nations-hollandes-french-victory-16297413#.T6iLCb-xr-Y abcnews.go.com] {{Dead link|date=September 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+*{{Flagu|Italy}} – Prime Minister [[Mario Monti]] congratulated François Hollande, saying he looked forward to a "close collaboration" within the European framework, the aim of which would be "an ever-more efficient union with economic growth as its objective". He added that the results of the French and [[May 2012 Greek legislative election|Greek elections]] required thinking about European policies, adding that in his view public spending should be concentrated on "productive investments" and avoid increasing debts.<ref name="Libé mai" />
+*{{Flagu|Spain}} – Prime Minister [[Mariano Rajoy]] expressed congratulations, saying he looked forward to "fruitful [[Franco-Spanish relations|bilateral]] and Europeans relations" with the new president.<ref name="Libé mai" />
+*{{Flagu|United Kingdom}} – Prime Minister [[David Cameron]] congratulated François Hollande and said he looked forward to the two countries maintaining their "[[France–United Kingdom relations|very close relationship]]". Opposition Leader [[Ed Miliband]] applauded Hollande's "determination to help create a Europe focused on growth and job creation, in a responsible and sustainable manner. [...] We are in great need of this new direction as Europe seeks to escape from austerity. I'm impatient to work with him in the months and years to come".<ref name="Libé mai" />
+*{{Flagu|United States}} – [[President of the United States|President]] [[Barack Obama]] congratulated Hollande for his victory and invited him to the [[White House]].<ref name=ABC />
+
+==See also==
+*[[President of France]]
+*[[Politics of France]]
+* [[French presidential elections under the Fifth Republic]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* Baujard, Antoinette, et al. "Who's favored by evaluative voting? An experiment conducted during the 2012 French presidential election." ''Electoral Studies'' 34 (2014): 131–145. [https://hal.archives-ouvertes.fr/docs/00/80/30/24/PDF/cahier_2013-05.pdf Online]
+* Beaudonnet, Laurie, and Pavlos Vasilopoulos. "Green parties in hard times: The case of EELV in the 2012 French presidential election." ''Party Politics'' 20.2 (2014): 275–285. 
+* Bélanger, Éric, et al. "Patrimony and French presidential vote choice: Evidence from the 2012 election." ''French Politics'' 12.1 (2014): 59–68. [https://www.academia.edu/download/39355680/Belanger_et_al_2014.pdf Online]{{dead link|date=January 2025|bot=medic}}{{cbignore|bot=medic}} [https://www.researchgate.net/profile/Pavlos_Vasilopoulos/publication/236943610_Green_Paries_in_Hard_Times_The_Case_of_the_EELV_in_the_2012_French_Presidential_Election/links/00b49523192fb04c51000000/Green-Paries-in-Hard-Times-The-Case-of-the-EELV-in-the-2012-French-Presidential-Election.pdf Online]
+* Choi, Yun Son, and William L. Benoit. "A functional analysis of the 2007 and 2012 French Presidential debates." ''Journal of Intercultural Communication Research'' 42.3 (2013): 215–227. 
+* Clift, Ben. "Le changement? French socialism, the 2012 presidential election and the politics of economic credibility amidst the eurozone crisis." ''Parliamentary affairs'' 66.1 (2013): 106–123. [https://academic.oup.com/pa/article-pdf/66/1/106/9951032/gss066.pdf Online]
+* Evans, J. and G. Ivaldi, eds. ''The 2012 French Presidential Elections: The Inevitable Alternation''  (2013) [https://www.amazon.com/2012-French-Presidential-Elections-Alternation/dp/1137011637/ excerpt]
+* Nadeau, Richard, and Michael S. Lewis-Beck. "French election theory: Why Sarkozy lost." ''Parliamentary Affairs'' 66.1 (2013): 52–68.
+* Perrineau, Pascal, ed. ''The 2012 French Election: How the Electorate Decided'' (2016) [https://www.amazon.com/2012-French-Election-Electorate-Transition/dp/1349949566/ excerpt]
+* Theviot, Anaïs. "Towards a standardization of campaign strategies dictated by the Obama ‘model’? The case of ‘American-style’ canvassing during the 2012 French presidential election campaign." ''French Politics'' 14.2 (2016): 158–177. [https://www.academia.edu/download/61550845/French_Politics_THEVIOT_2016.pdf Online]{{dead link|date=January 2025|bot=medic}}{{cbignore|bot=medic}}
+* Vassallo, Francesca. "The EU discourse in the 2012 French presidential election." ''French Politics, Culture & Society'' 30.3 (2012): 79–95.
+
+==External links==
+{{Portal|France|Andorra|Politics}}
+* [https://web.archive.org/web/20120423194115/http://www.conseil-constitutionnel.fr/conseil-constitutionnel/english/french-presidential-election-2012/french-presidential-election-2012.104965.html The Constitutional council's duties relating to the presidential election]
+* [http://www.sondages-en-france.fr/sondages/Elections/Pr%C3%A9sidentielles%202012 Opinion poll tracker with data]
+* [http://www.nsd.uib.no/european_election_database/country/france/ NSD: European Election Database – France] {{Webarchive|url=https://web.archive.org/web/20170224133032/http://www.nsd.uib.no/european_election_database/country/france/ |date=24 February 2017 }} publishes regional level election data; allows for comparisons of election results, 1990–2012
+* [https://www.humanite.fr/node/494551 A clickable map] showing elections results by region, department, and commune on the website of [[L'Humanité]]
+
+{{French elections}}
+{{Candidates in the 2012 French presidential election}}
+
+[[Category:2012 French presidential election| ]]
+[[Category:2012 elections in Europe|France]]
+[[Category:Presidential elections in France]]
+[[Category:2012 in French politics]]

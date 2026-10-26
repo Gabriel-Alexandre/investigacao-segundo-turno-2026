@@ -1,0 +1,68 @@
+{
+ "versoes_comparadas_depois_de_1pct": 342,
+ "diferenca_media_absoluta_pontos": 0.069,
+ "diferenca_maxima_absoluta_pontos": 4.46,
+ "secoes_por_hora_de_recebimento": {
+  "17:00 a 19:01": {
+   "secoes": 1903,
+   "lula_pct": 55.17,
+   "regioes_pct": {
+    "Exterior": 40.8,
+    "Norte": 26.4,
+    "Sul": 16.3,
+    "Centro-Oeste": 7.6,
+    "Nordeste": 6.5,
+    "Sudeste": 2.4
+   }
+  },
+  "19:01 a 19:44": {
+   "secoes": 67576,
+   "lula_pct": 49.8,
+   "regioes_pct": {
+    "Nordeste": 24.7,
+    "Norte": 24.0,
+    "Sul": 23.5,
+    "Centro-Oeste": 15.4,
+    "Sudeste": 12.5,
+    "Exterior": 0.0
+   }
+  },
+  "19:44 a 20:24": {
+   "secoes": 167322,
+   "lula_pct": 50.04,
+   "regioes_pct": {
+    "Sudeste": 29.1,
+    "Nordeste": 28.7,
+    "Sul": 21.5,
+    "Norte": 10.6,
+    "Centro-Oeste": 10.2,
+    "Exterior": 0.0
+   }
+  },
+  "20:24 a 21:10": {
+   "secoes": 257870,
+   "lula_pct": 53.3,
+   "regioes_pct": {
+    "Sudeste": 55.6,
+    "Nordeste": 29.1,
+    "Sul": 7.6,
+    "Centro-Oeste": 4.0,
+    "Norte": 3.6,
+    "Exterior": 0.2
+   }
+  },
+  "21:10 a 12:00": {
+   "secoes": 4507,
+   "lula_pct": 56.7,
+   "regioes_pct": {
+    "Sudeste": 63.4,
+    "Nordeste": 24.0,
+    "Norte": 3.9,
+    "Sul": 3.6,
+    "Centro-Oeste": 3.6,
+    "Exterior": 1.3
+   }
+  }
+ },
+ "nota": "a versão oficial é gerada depois que o boletim é totalizado; a reconstrução usa a hora de recebimento do boletim"
+}

@@ -6,7 +6,9 @@ A investigação segue **dois caminhos com o mesmo rigor**: a **defesa** (o resu
 
 | Onde | O quê |
 |---|---|
+| [`RESUMO_SIMPLES.md`](RESUMO_SIMPLES.md) · [`RELATORIO.md`](RELATORIO.md) | o resultado, em linguagem simples e completo |
 | [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) | as perguntas, os testes, os limiares e a régua, escritos antes |
+| [`docs/OUTROS_PAISES.md`](docs/OUTROS_PAISES.md) | casos de apuração contestada no mundo |
 | [`dados/noite/`](dados/noite/) | as 2.554 versões do arquivo oficial de Presidente gravadas durante a apuração (17h20 de 25/10 a 06h56 de 26/10), com sha256 |
 | `dados/brutos/` (fora do git) | boletim, registro digital do voto e log da urna de cada seção, baixados do TSE por `python -m investigacao.coleta` |
 | `investigacao/` | os leitores (boletim, log) e o coletor |

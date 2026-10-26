@@ -1,0 +1,72 @@
+{{short description|none}}
+{{Infobox election
+| country = Croatia
+| type = presidential
+| previous_election = 1990 Croatian presidential election
+| previous_year = 1990
+| next_election = 1997 Croatian presidential election
+| next_year = 1997
+| election_date = 2 August 1992
+| turnout = 74.90%
+| image1 = FranjoTudman.JPG
+| nominee1 = '''[[Franjo Tuđman]]'''
+| party1 = Croatian Democratic Union
+| popular_vote1 = '''1,519,100'''
+| percentage1 = '''57.83%'''
+| image2 = Pd croatian drazen budisa 9Feb02 932.jpg
+| nominee2 = [[Dražen Budiša]]
+| party2 = Croatian Social Liberal Party
+| popular_vote2 = 585,535
+| percentage2 = 22.29%
+| image4 = Savka Dabcevic Kucar.jpg
+| nominee4 = [[Savka Dabčević-Kučar]]
+| party4 = Croatian People's Party (1990)
+| popular_vote4 = 161,242
+| percentage4 = 6.14%
+| image5 = Dobroslav Paraga.png
+| nominee5 = [[Dobroslav Paraga]]
+| party5 = Croatian Party of Rights
+| popular_vote5 = 144,695
+| percentage5 = 5.51%
+| title = President
+| before_election = [[Franjo Tuđman]]
+| before_party= Croatian Democratic Union
+| after_election = [[Franjo Tuđman]]
+| after_party= Croatian Democratic Union
+}}
+
+Presidential elections were held in [[Croatia]] for the first time on 2 August 1992 alongside [[1992 Croatian parliamentary election|simultaneous parliamentary elections]].<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p410 {{ISBN|978-3-8329-5609-7}}</ref> The result was a victory for incumbent [[Franjo Tuđman]] of the [[Croatian Democratic Union]] (HDZ), who received 58% of the vote, becoming the first popularly elected [[president of Croatia]]. Voter turnout was 75%.<ref>Nohlen & Stöver, p419</ref>
+
+The 1,519,000 votes received by Tuđman remains the highest number of votes received by any presidential candidate to date. Having previously been selected as president by [[Croatian Parliament|Parliament]], he was sworn in for his first constitutional five-year term as president on 12 August 1992 at [[St. Mark's Square, Zagreb|Saint Mark's square]] in [[Zagreb]].
+
+==Conduct==
+The elections were criticised by international observers, who noted several problems, including issues with opposition access to state media, the timing of the election and the impartiality of officials.<ref name=IRI>[https://web.archive.org/web/20160304114839/http://www.iri.org/sites/default/files/Croatia%27s%201992%20Presidential%20and%20Upper%20Parliament%20Chamber%20Elections.pdf Elections in the Republic of Croatia: 2 August 1992] International Republican Institute</ref> The timing was deemed to be favourable to the HDZ government, who had delayed approving electoral laws in violation of the country's new constitution.<ref name=IRI/> The period of time between the announcement of the elections and the election date itself was considered "unusually short", making it difficult for opposition parties and election officials to prepare.<ref name=IRI/> The elections were also scheduled for a holiday, when a significant number of people would be away from their home towns and unable to vote.<ref name=IRI/>
+
+==Results==
+{{Election results
+|cand1=[[Franjo Tuđman]]|party1=[[Croatian Democratic Union]]|votes1=1519100
+|cand2=[[Dražen Budiša]]|party2=[[Croatian Social Liberal Party]]|votes2=585535
+|cand3=[[Savka Dabčević-Kučar]]|party3=[[Croatian People's Party (1990)|Croatian People's Party]]|votes3=161242
+|cand4=[[Dobroslav Paraga]]|party4=[[Croatian Party of Rights]]|votes4=144695
+|cand5=[[Silvije Degen]]|party5=[[Socialist Party of Croatia]]|votes5=108979
+|cand6=[[Marko Veselica]]|party6={{ill|Croatian Democratic Party|hr|Hrvatska demokratska stranka}}|votes6=45593
+|cand7=[[Ivan Cesar (politician)|Ivan Cesar]]|party7={{ill|Croatian Christian Democratic Party|hr|Hrvatska kršćanska demokratska stranka}}|votes7=43134
+|cand8=[[Antun Vujić]]|party8={{ill|Social Democrats of Croatia|hr|Socijaldemokratska stranka Hrvatske}}|votes8=18783
+|invalid=50703
+|electorate=3575032
+|source=Nohlen & Stöver
+}}
+
+==References==
+{{Reflist}}
+
+{{Croatian elections}}
+{{Franjo Tuđman}}
+
+[[Category:1992 Croatian presidential election| ]]
+[[Category:1992 elections in Europe|Croatia]]
+[[Category:1992 in Croatia|Presidential]]
+[[Category:August 1992 in Europe|Croatia]]
+[[Category:Presidential elections in Croatia]]
+[[Category:Modern history of Croatia]]
+[[Category:Franjo Tuđman]]

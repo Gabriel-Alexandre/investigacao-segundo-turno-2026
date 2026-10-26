@@ -1,0 +1,105 @@
+{{Short description|none}}
+{{Infobox election
+| country = Panama
+| previous_election = 1999 Panamanian general election
+| previous_year = 1999
+| next_election = 2009 Panamanian general election
+| next_year = 2009
+| election_date = {{Start date|2004|5|2|df=y}}
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| turnout = 76.88% ({{increase}} 0.71[[percentage point|pp]])
+
+| image1 = Panama.MartinTorrijos.01.jpg
+| nominee1 = '''[[Martín Torrijos]]'''
+| party1 = Democratic Revolutionary Party
+| popular_vote1 = '''711,164'''
+| percentage1 = '''47.44%'''
+
+| image2 = Guillermo Endara 1993.jpg
+| nominee2 = [[Guillermo Endara]]
+| party2 = Solidarity Party (Panama)
+| popular_vote2 = 462,824
+| percentage2 = 30.87%
+
+| image4 =
+| nominee4 = [[José Miguel Alemán]]
+| party4 = [[Panameñista Party|Arnulfista]]
+| popular_vote4 = 245,568
+| percentage4 = 16.38%
+
+| image5 = Ricardo Martinelli.PNG
+| nominee5 = [[Ricardo Martinelli]]
+| party5 = Democratic Change (Panama)
+| popular_vote5 = 79,491
+| percentage5 = 5.30%
+
+| title = [[President of Panama|President]]
+| before_election = [[Mireya Moscoso]]
+| before_party = Panameñista Party
+| after_election = [[Martin Torrijos]]
+| after_party = Democratic Revolutionary Party
+}}}}{{Politics of Panama}}
+
+General elections were held in [[Panama]] on Sunday, 2 May 2004, electing both a new [[List of Presidents of Panama|President of the Republic]] and a new [[Legislative Assembly of Panama|Legislative Assembly]].
+
+==Results==
+===President===
+For the second consecutive election, Martín Torrijos, son of former military ruler [[Omar Torrijos]], was named the candidate of the [[Democratic Revolutionary Party]] (PRD); in 1999, he had lost to [[Mireya Moscoso]]. Torrijos ran on a platform of strengthening democracy and negotiating a free trade agreement with the US, and was supported by popular musician and politician [[Rubén Blades]];<ref name=E /> Torrijos later made Blades the nation's tourism minister.<ref>{{cite web |url=http://www.highbeam.com/doc/1P2-192683.html |archive-url=https://web.archive.org/web/20160312141157/https://www.highbeam.com/doc/1P2-192683.html |url-status=usurped |archive-date=March 12, 2016 |title=Nicky Hilton Weds One Hilton ... |date=August 16, 2004 |work=The Washington Post|via=[[HighBeam Research]] |url-access=subscription |access-date=September 18, 2012}}</ref> Torrijos' primary rival was [[Guillermo Endara]], who had served as president from 1990 to 1994. Endara ran as the candidate of the [[Solidarity Party (Panama)|Solidarity Party]], on a platform of reducing crime and government corruption.<ref name=AP>{{cite web |url=http://www.highbeam.com/doc/1P1-94049662.html |title=Guillermo Endara, former president of Panama, fights against corruption, crime |author=Mark Stevenson |date=May 2, 2004 |work=Associated Press |archive-date=September 23, 2014 |archive-url=https://web.archive.org/web/20140923091102/http://www.highbeam.com/doc/1P1-94049662.html |via=HighBeam Research |url-access=subscription |url-status=usurped |access-date=August 31, 2012}}</ref> Endara and the other candidates also ran a series of negative ads highlighting the PRD's connections with former military ruler [[Manuel Noriega]].<ref name=WP52>{{cite web |url=http://www.highbeam.com/doc/1P2-168124.html |archive-url=https://web.archive.org/web/20160414115843/https://www.highbeam.com/doc/1P2-168124.html |url-status=usurped |archive-date=April 14, 2016 |title=General's Son Leads in Panama; Running as a Pro-Capitalist Nationalist, Torrijos Emerges as Favorite in Polls |author=Mary Jordan |date=May 2, 2004 |work=The Washington Post |via=HighBeam Research |url-access=subscription |access-date=September 18, 2012}}</ref> Endara finished second in the race, receiving 31% of the vote to Torrijos' 47%.<ref name=E>{{cite web |url=http://www.highbeam.com/doc/1G1-116378324.html |archive-url=https://web.archive.org/web/20140928140916/http://www.highbeam.com/doc/1G1-116378324.html |url-status=usurped |archive-date=September 28, 2014 |title=Not his father's son? Panama's new president |date=May 8, 2004 |work=The Economist |via=HighBeam Research |url-access=subscription |location=US |access-date=August 31, 2012}}</ref>
+
+Torrijos assumed office on 1 September 2004. Voters also elected his two vice-presidents, who run on party tickets in conjunction with the presidential candidates.
+
+{{Election results
+|cand1=[[Martín Torrijos]]|alliance1=New Fatherland|aspan1=3|party1=[[Democratic Revolutionary Party]]|votes1=649157
+|party2=[[People's Party (Panama)|People's Party]]|votes2=62007
+|atotal3=711164
+|cand4=[[Guillermo Endara]]|alliance4=[[Solidarity Party (Panama)|Solidarity Party]]|votes4=462824
+|cand5=[[José Miguel Alemán]]|alliance5=Vision of the Country|aspan5=4|party5=[[Panameñista Party|Arnulfista Party]]|votes5=162830
+|party6=[[Nationalist Republican Liberal Movement]]|votes6=60106
+|party7=[[National Liberal Party (Panama)|National Liberal Party]]|votes7=22632
+|atotal8=245568
+|cand9=[[Ricardo Martinelli]]|alliance9=[[Democratic Change (Panama)|Democratic Change]]|votes9=79491
+|invalid=38295
+|electorate=1999553
+|source=Nohlen<ref>Elections in the Americas : a data handbook / ed. by Dieter Nohlen, Vol. 1. [Oxford] [u.a.]: Oxford Univ. Press, 2005. Pp.535.</ref>
+}}
+
+===Legislative Assembly===
+In addition to its president and vice presidents, Panama elected a new [[Legislative Assembly of Panama|Legislative Assembly]] (78 members), 20 deputies to represent the country at the [[Central American Parliament]], and a string of mayors and other municipal officers.
+
+{{Election results
+|image=[[File:Panamanian Legislative Assembly 2004.svg]]
+|alliance1=New Fatherland|aspan1=3|party1=[[Democratic Revolutionary Party]]|votes1=549948|seats1=41
+|party2=[[People's Party (Panama)|People's Party]]|votes2=86727|seats2=1
+|atotal3=636675|aseats3=42
+|alliance4=Vision of the Country|aspan4=4|party4=[[Panameñista Party|Arnulfista Party]]|votes4=279560|seats4=17
+|party5=[[Nationalist Republican Liberal Movement]]|votes5=125547|seats5=4
+|party6=[[National Liberal Party (Panama)|National Liberal Party]]|votes6=76191|seats6=3
+|atotal7=481298|aseats7=24
+|alliance8=[[Solidarity Party (Panama)|Solidarity Party]]|votes8=227604|seats8=9
+|alliance9=[[Democratic Change (Panama)|Democratic Change]]|votes9=107511|seats9=3
+|invalid=71888
+|electorate=1999553
+|source=Nohlen<ref>Elections in the Americas : a data handbook / ed. by Dieter Nohlen, Vol. 1. [Oxford] [u.a.] : Oxford Univ. Press, 2005. Pp.528.</ref>
+}}
+
+The [[Panama City]] mayor race was won also by the PRD.  Mayor [[Juan Carlos Navarro (politician)|Juan Carlos Navarro]] was re-elected.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.tribunal-electoral.gob.pa/elecciones/elecciones-2004/resultados.html Official Results] (Panamanian Electoral Tribunal)
+* [https://news.bbc.co.uk/2/hi/americas/3677499.stm Panama elects  ex-dictator's son] ([[BBC]])
+* [https://www.theguardian.com/worldlatest/story/0,1280,-4035836,00.html First election since Canal handover] ([[The Guardian]])
+
+{{Panamanian elections}}
+
+[[Category:2004 elections in Central America|Panama]]
+[[Category:2004 in Panama|General election]]
+[[Category:Elections in Panama]]
+[[Category:Presidential elections in Panama]]
+[[Category:May 2004 in North America|Panama]]

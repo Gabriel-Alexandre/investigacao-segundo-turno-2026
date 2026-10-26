@@ -1,0 +1,612 @@
+{{Short description|none}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox election
+| country = Bulgaria
+| type = presidential
+| previous_election = 2011 Bulgarian presidential election
+| previous_year = 2011
+| next_election = 2021 Bulgarian general election
+| next_year = 2021
+| election_date = 6 November 2016 (first round)<br>{{nowrap|13 November 2016 (second round)}}
+| turnout = 56.28% (first round)<br>50.44% (second round)
+
+| image1 = {{CSS image crop|Image = Rumen Radev official portrait (cropped).jpg   |bSize = 120|cWidth = 110|cHeight = 150|oTop = 0|oLeft = 0}}
+| nominee1 = '''[[Rumen Radev]]'''
+| color1 = {{party color|Bulgarian Socialist Party}}
+| party1 = Independent
+| running_mate1 = '''[[Iliana Iotova]]'''
+| popular_vote1 = '''2,063,032'''
+| percentage1 = '''59.37%'''
+
+| image2 = {{CSS image crop|Image = Tsetska Tsacheva - 2017 (cropped).jpg    |bSize = 120|cWidth = 110|cHeight = 150|oTop = 0|oLeft = 0}}
+| nominee2 = [[Tsetska Tsacheva]]
+| party2 = GERB
+| running_mate2 = [[Plamen Manushev]]
+| popular_vote2 = 1,256,485
+| percentage2 = 36.16%
+
+| map_image = 2016 Bulgaria presidential election 2nd round results.svg
+| map_caption = Results by province<br>'''Radev:''' {{legend0|#cd1f25|50-60%}} {{legend0|#ad0006|60-70%}} {{legend0|#830004|70-80%}}
+| title = President
+| before_election = [[Rosen Plevneliev]]
+| before_party = GERB
+| after_election = [[Rumen Radev]]
+| after_party = Independent politician
+}}
+
+Presidential elections were held in [[Bulgaria]] on 6 November 2016,<ref>[https://www.ndi.org/electionscalendar Global elections calendar] {{Webarchive|url=https://web.archive.org/web/20151022232515/https://www.ndi.org/electionscalendar |date=22 October 2015 }} NDI</ref> alongside [[2016 Bulgarian referendum|a referendum]] on changes to the electoral system and political party funding. The second round was held on 13 November 2016, resulting in the victory of [[Rumen Radev]].
+
+==Electoral system==
+The [[President of Bulgaria|president]] was elected using the [[two-round system]].<ref>[http://www.electionguide.org/elections/id/2207/ Bulgaria] IFES</ref> For the first time voters were allowed to vote for [[none of the above]].<ref>[http://sofiaglobe.com/2016/10/09/bulgarias-2016-presidential-elections-voters-to-have-i-dont-support-anyone-option/ Bulgaria’s 2016 presidential elections: Voters to have ‘I don’t support anyone’ option] Sofia Glove, 9 October 2016</ref>
+
+==Candidates==
+Incumbent president [[Rosen Plevneliev]] announced in May 2016 that he would not be running for re-election.<ref>{{cite web|title=Bulgarian President Rosen Plevneliev Won't Seek Second Term in 2016 Elections|url=http://www.novinite.com/articles/174558/Bulgarian+President+Rosen+Plevneliev+Won%E2%80%99t+Seek+Second+Term+in+2016+Elections|website=Novinite.com|agency=Sofia News Agency|access-date=27 May 2016}}</ref>
+
+===Official candidates===
+{| class=wikitable style=text-align:left
+!Presidential candidate 
+!Born
+!Vice presidential running-mate 
+!Party 
+!Notes
+|-
+|| [[file:Reuven_Rivlin_March_2018_(8750)_(cropped).jpg|150x150px]]<br /> [[Major General|Maj.Gen.]]'''[[Rumen Radev]]'''|| |{{dts|format=dmy|1963|6|18}}<br /> (age {{age nts|1963|6|18|2016|11|6}})<br />Town [[Dimitrovgrad, Bulgaria|Dimitrovgrad]], Region [[Haskovo]], [[Bulgaria]]|| [[Iliana Iotova]] || [[Independent politician|Independent]] supported by [[Bulgarian Socialist Party]]|| General Radev, the former commander of the [[Bulgarian Air Force]],<ref>{{cite web|url=https://www.youtube.com/watch?v=sWGjdtKv2kk|title=The President of the Republic of Bulgaria Gen. Rumen Radev MiG 29 Fulcrum MEMORABLE Flight Display|date=8 November 2014|via=YouTube}}</ref> is supported by the [[Bulgarian Socialist Party]] and was originally endorsed by the [[Alternative for Bulgarian Revival]], but on 23 August 2016 the [[Bulgarian Socialist Party]] denied plans for a common coalition for the presidential elections.<ref>{{cite web|url=http://www.dnevnik.bg/bulgaria/2016/08/17/2812215_rumen_radev_-_generalut_kogoto_levicata_izbra_da_vodi/|title=Румен Радев – генералът, когото левицата избра да води битката ѝ}}</ref> Iotova is an MP in the [[European Parliament]].
+|-
+|| [[file:Tsetska-Tsacheva.jpg|150x150px]]<br /> '''[[Tsetska Tsacheva]]'''|| |{{dts|format=dmy|1958|5|24}}<br /> (age {{age nts|1958|5|24|2016|11|6}})<br />Village [[Dragana, Bulgaria|Dragana]], Municipality [[Ugarchin]], Region [[Lovech]], [[Bulgaria]]||[[Plamen Manushev]] || [[GERB]] || Tsacheva is the incumbent [[Chairperson of the National Assembly of Bulgaria|Chairwoman of the National Assembly of Bulgaria]].<ref>{{cite web | url=https://www.dnevnik.bg/bulgaria/2016/10/02/2836326_borisov_obiavi_oficialno_cecka_cacheva_za/ | title=Борисов обяви официално Цецка Цачева за кандидат-президент на ГЕРБ: Нацията има нужда и от майка (допълнена) | date=2 October 2016 | publisher=Dnevnik | language=bg | access-date=25 April 2020 }}</ref> Manushev is MP.
+|-
+|| [[file:Krasimir Karakachanov 2017-12-18.jpg|150x150px]]<br /> '''[[Krasimir Karakachanov]]'''|| |{{dts|format=dmy|1965|3|29}}<br /> (age {{age nts|1965|3|29|2016|11|6}})<br />[[Rousse, Bulgaria]]||[[Yavor Notev]] || [[United Patriots]] || Karachanov is co-chairman of the Patriotic Front and a Deputy Chairman of the [[National Assembly (Bulgaria)|National Assembly]].<ref>{{cite web | url=https://dnes.dir.bg/politika/krasimir-karakachanov-javor-notev-prezidentski-izbori-2016-23484956 | title=Каракачанов и Нотев - "патриотичната двойка" за "Дондуков" 2 | date=29 July 2016 | publisher=dir.bg | language=bg | access-date=25 April 2020}}</ref> Notev is the Deputy Chair of the [[Attack (political party)|Attack]] party and a Deputy Chairman of the [[National Assembly (Bulgaria)|National Assembly]].
+|-
+|| [[file:%D0%A2%D1%80%D0%B0%D0%B9%D1%87%D0%BE_%D0%A2%D1%80%D0%B0%D0%B9%D0%BA%D0%BE%D0%B2_-_%D0%A1%D0%BD%D0%B8%D0%BC%D0%BA%D0%B0.jpg|150x150px]]<br /> '''[[Traycho Traykov]]'''|| |{{dts|format=dmy|1970|4|19}}<br /> (age {{age nts|1970|4|19|2016|11|6}})<br />[[Sofia, Bulgaria]]||[[Sabi Sabev]] || [[Reformist Bloc]] || Traykov is the former Minister of Economy, Energy and Tourism and is currently a municipal councilor in [[Sofia]].<ref>[http://bnt.bg/en_news/traicho-traikov-is-the-reformist-bloc-s-presidential-candidate Traicho Traikov is the Reformist Bloc's presidential candidate] {{Webarchive|url=https://web.archive.org/web/20160913084818/http://bnt.bg/en_news/traicho-traikov-is-the-reformist-bloc-s-presidential-candidate |date=13 September 2016 }} BNT, 1 September 2016</ref> Sabev is a general in the Bulgarian army.
+|-
+|| [[file:Kalfin,_Ivailo-9709.jpg|150x150px]]<br /> '''[[Ivaylo Kalfin]]'''|| |{{dts|format=dmy|1964|5|30}}<br /> (age {{age nts|1964|5|30|2016|11|6}})<br />[[Sofia, Bulgaria]]||[[Lyubomir Halachev]] || [[Alternative for Bulgarian Revival|Kalfin President Coalition]] || Kalfin is a Former Minister of Foreign Affairs and Former Minister of Labour and Social Policy, as well as the BSP presidential candidate in the [[2011 Bulgarian presidential election|2011 election]].<ref>{{cite web|url=https://www.24chasa.bg/novini/article/5763703|title=Първо в "24 часа": Калфин ще е кандидатът на АБВ за президент}}</ref>
+|-
+| [[Tatyana Doncheva]] || |{{dts|format=dmy|1960|1|28}}<br /> (age {{age nts|1960|1|28|2016|11|6}})<br />[[Tryavna]], [[Bulgaria]]||[[Mincho Spasov]] || Movement 21<br/>[[National Movement for Stability and Progress]] || Doncheva is a jurist and a former [[Member of Parliament|MP]];<ref>{{cite web|url=http://www.dnevnik.bg/bulgaria/2016/09/08/2823567_tatiana_doncheva_i_mincho_spasov_vlizat_zaedno_v/|title=Татяна Дончева и Минчо Спасов влизат заедно в кандидатпрезидентската битка (допълнена)}}</ref> Spasov is a jurist and former MP.
+|-
+|| [[file:Plamen_Oresharski.jpg|150x150px]]<br /> '''[[Plamen Oresharski]]'''|| |{{dts|format=dmy|1960|2|21}}<br /> (age {{age nts|1960|2|21|2016|11|6}})<br />[[Dupnitsa]], [[Bulgaria]]||[[Danail Papazov]] || Independent supported by [[Movement for Rights and Freedoms]]|| Oresharski is a former [[Prime Minister of Bulgaria]];<ref>{{cite web|url=http://dnes.dir.bg/temite/news/plamen-oresharski-prezidentski-izbori-2016-24009683?tag_id=141173|title=Пламен Орешарски се кандидатира за президент|access-date=26 September 2016|archive-url=https://web.archive.org/web/20160927105651/http://dnes.dir.bg/temite/news/plamen-oresharski-prezidentski-izbori-2016-24009683?tag_id=141173|archive-date=27 September 2016|url-status=dead}}</ref> Papazov is a former minister of Transport.
+|-
+| [[George Ganchev]] |||{{dts|format=dmy|1939|8|29}}<br /> (age {{age nts|1939|8|29|2016|11|6}})<br />[[Plovdiv, Bulgaria]]|| [[Kolyo Paramov]] || Christian Social Union || Ganchev is a former [[Member of Parliament|MP]] and three-time presidential candidate.<ref>{{cite web|url=https://news.bg/politics/zhorzh-ganchev-i-kolyo-paramov-ubedeni-che-shte-spechelyat-prezidentskite-izbori.html|title=Жорж Ганчев и Кольо Парамов убедени, че ще спечелят президентските избори|date=31 May 2016}}</ref> Paramov is an economist and former MP.
+|-
+| [[Velizar Enchev]] || |{{dts|format=dmy|1953|1|7}}<br /> (age {{age nts|1953|1|7|2016|11|6}})<br />[[Galabovo]], [[Bulgaria]]||[[Bilyana Grancharova]] || Movement for Radical Change Bulgarian Spring || Enchev is an [[independent politician|independent]] MP;<ref>{{cite web|url=http://dnes.dir.bg/news/prezident-velizar-enchev-prezidentski-izbori-2016-23822892|title=И Велизар Енчев влиза в битката за държавен глава|date=8 September 2016}}</ref> Grancharova is a [[jurist]].
+|-
+|| <br /> '''[[Veselin Mareshki]]'''|| |{{dts|format=dmy|1967|3|26}}<br /> (age {{age nts|1967|3|26|2016|11|6}})<br />[[Varna, Bulgaria]]||Petar Petrov || Independent || Mareshki is a businessman.<ref>{{cite web|url=http://varna.topnovini.bg/node/727374|title=Марешки все пак ще се кандидатира за президент}}</ref>
+|-
+| Dimitar Marinov || |{{dts|format=dmy|1955|8|15}}<br /> (age {{age nts|1955|8|15|2016|11|6}})<br />[[Karaisen]], [[Bulgaria]]||[[Radoslav Petrov]] (aka Rado Shisharkata) || Bulgarian National Unification || Marinov (known as ''Mityo The Pistol'') is a popular entertainer and reality show star, having appeared in ''[[VIP Brother 1]]'', a spinoff of the ''[[Big Brother (Bulgaria)|Big Brother]]'' franchise;<ref>{{cite web|url=http://www.dnesbg.com/goreshti-novini/mityo-pishtova-i-rado-shisharkata-shturmuvat-prezidentstvoto.html|title=Митьо Пищова и Радо Шишарката щурмуват президентството|date=12 September 2016}}</ref> Petrov (known as ''Rado the Fircone'') is a pop-folk singer.
+|-
+| [[Vladimir Kuzov]] || |{{dts|format=dmy|1966|6|16}}<br /> (age {{age nts|1966|6|16|2016|11|6}})<br />[[Sofia, Bulgaria]]|| [[Borislav Noev]] || Independent || Kuzov and Noev are former MPs from the union around the [[Attack (political party)|Attack]] party;<ref>{{cite web|url=http://www.dnevnik.bg/bulgaria/2016/08/11/2809824_predozirane_i_vladimir_kuzov_poiska_da_e_prezident/|title=Предозиране: И Владимир Кузов поиска да е президент}}</ref><br />Their registration in the elections was denied due to insufficient number of signatures gathered.<ref name=regDenied>{{Cite web | title = Светослав Витков и Владимир Кузов отпадат от изборите, не са събрали подписи | trans-title = Svetoslav Vitkov and Vladimir Kuzov drop out of the elections, they have not gathered signatures | work = dnevnik.bg | date = 5 October 2016 | access-date = 5 October 2016 | url = http://www.dnevnik.bg/bulgaria/2016/10/05/2838913_svetoslav_vitkov_i_vladimir_kuzov_otpadat_ot_izborite/ | language = bg }}</ref>
+|-
+| [[file:Alexandar_Tomov_cskabg.jpg|150x150px]]<br /> '''[[Aleksandar Tomov (politician)|Aleksandar Tomov]]'''|| |{{dts|format=dmy|1954|4|27}}<br /> (age {{age nts|1954|4|27|2016|11|6}})<br />[[Sofia, Bulgaria]]|| [[Radoslav Radoslavov]] || Bulgarian Socialdemocratic-Euroleft|| Tomov is a businessman.
+|-
+| [[Gospodin Tonev]] || |{{dts|format=dmy|1955|11|29}}<br /> (age {{age nts|1955|11|29|2016|11|6}})<br />[[Dimitrovgrad, Bulgaria|Dimitrovgrad]], [[Bulgaria]]|| [[Andrey Andreev (politician)|Andrey Andreev]] || Bulgarian Democratic Community || 
+|-
+| [[Kamen Popov]] ||  [[Bulgaria]]||[[Georgi Nedelchev]] || Independent || Popov is a businessman, sportsman.
+Popov struck the leader of [[Attack (political party)|Attack]] party [[Volen Siderov]].<ref>{{cite web|url=http://www.bgonair.bg/sutreshen-blok/2016-09-01/kamen-popov-rokerat-kandidat-prezident|title=Камен Попов – рокерът кандидат-президент – bgonair.bg}}</ref>
+|-
+| [[Svetoslav Vitkov]] ||  |{{dts|format=dmy|1971|1|26}}<br /> (age {{age nts|1971|1|26|2016|11|6}})<br />[[Sofia]], [[Bulgaria]]|| [[Ivan Velkov]] || Independent supported by [[People's Voice (Political Party)|People's Voice]]<br/>[[The Greens (Bulgaria)|The Greens]]|| Vitkov is a musician, and a municipal councilor in [[Sofia]];<ref>{{cite web|url=https://news.bg/politics/svetlyo-vitkov-i-zelenite-otivat-zaedno-na-prezidentskiya-vot.html|title=Светльо Витков и "Зелените" отиват заедно на президентския вот|last=news.bg|date=14 September 2016}}</ref> Velkov is a Deputy Chairman of the municipal councilor in [[Sofia]].<br />Their registration in the elections was denied due to insufficient number of signatures gathered.<ref name=regDenied/>
+|-
+| [[Kemil Ramadan]] || [[Bulgaria]]||[[Momchil Dobrev]] || Balkanic Democratic League || 
+|-
+| [[Nikolay Banev]] || |{{dts|format=dmy|1959|8|16}}<br /> (age {{age nts|1959|8|16|2016|11|6}})<br />[[Lyubimets]], [[Bulgaria]]|| [[Sali Ibrayim]] || Independent || Banev is a businessman;<ref>{{cite web|url=http://news.bnt.bg/bg/a/kaleydoskop-na-kandidatite-za-prezident-na-republika-blgariya|title=Кои са кандидатпрезидентските двойки|first=Стоил|last=Рошкев|access-date=8 October 2016|archive-date=16 November 2016|archive-url=https://web.archive.org/web/20161116104813/http://news.bnt.bg/bg/a/kaleydoskop-na-kandidatite-za-prezident-na-republika-blgariya|url-status=dead}}</ref> Ibrayim is a former mayor of [[Momchilgrad]].
+|-
+| [[Biser Milanov]] || [[Bulgaria]]||[[Krasimir Nastev]] || Independent || Milanov is a recidivist;<ref>{{cite web|url=http://www.blitz.bg/news/article/448202|title=Бисер Миланов се включва в президентската надпревара – БЛИЦ – Новини от България и света}}</ref> Nastev is a businessman.
+|-
+| [[Diana Dimitrova]] || [[Bulgaria]]|| [[Gabriel Gerasimov]] || Independent || 
+|-
+| [[Yordanka Koleva]] || [[Bulgaria]]|| [[Veselin Hristov]] || Independent ||
+|-
+| [[Plamen Paskov]] || [[Bulgaria]]|| [[Svetozar Saev]] || Independent || 
+|-
+| [[Rumen Galabinov]] || [[Bulgaria]]|| [[Veska Voleva]] || Independent ||
+|}
+
+===Declined===
+{|class="wikitable" style=text-align:left
+! Candidate 
+! Born
+! Party 
+! Notes
+|-
+|| [[file:Rosen_Plevneliev_2016.jpg|150x150px]]<br /> [[President (government title)|President]] '''[[Rosen Plevneliev]]'''|| |{{dts|format=dmy|1964|5|14}}<br /> (age {{age nts|1964|5|14|2016|11|6}})<br />Town [[Gotse Delchev (town)|Gotse Delchev]], Region [[Blagoevgrad]], [[Bulgaria]]|| [[Independent politician|Independent]]||<ref>{{cite web|title=Bulgarian President Rosen Plevneliev Won't Seek Second Term in 2016 Elections|url=http://www.novinite.com/articles/174558/Bulgarian+President+Rosen+Plevneliev+Won%E2%80%99t+Seek+Second+Term+in+2016+Elections|website=Novinite.com|agency=Sofia News Agency|access-date=27 May 2016}}</ref>
+|-
+|| [[file:Boyko Borissov 2017-11-03.jpg|150x150px]]<br /> Prime Minister '''[[Boyko Borisov]]'''|| |{{dts|format=dmy|1959|6|13}}<br /> (age {{age nts|1959|6|13|2016|11|6}})<br />Town [[Bankya]], Region [[Sofia]], [[Bulgaria]]|| [[GERB]]|| Endorsed [[Tsetska Tsacheva]]<ref>[http://www.novinite.com/articles/176086/Bulgaria's+PM+to+Run+for+President+in+5+Years Bulgaria's PM to Run for President in 5 Years] Novinite, 1 September 2016</ref>
+|-
+|}
+
+==Opinion polls==
+===First round===
+{{legend|#FFFF00|Qualifying for the second round|outline=silver}}
+{|class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+!rowspan=2 width=180px|Pollster
+!rowspan=2 width=80px|Date
+!width=50px|[[Rumen Radev|Radev]]
+!width=50px|[[Tsetska Tsacheva|Tsacheva]]
+!width=50px|[[Krasimir Karakachanov|Karakachanov]]
+!width=50px|[[Veselin Mareshki|Mareshki]]
+!width=50px|[[Plamen Oresharski|Oresharski]]
+!width=50px|[[Traycho Traykov|Traykov]]
+!width=50px|[[Ivaylo Kalfin|Kalfin]]
+!width=50px|Others
+|-
+! style="color:inherit;background:{{party color|Independent (politician)}};"|
+! style="color:inherit;background:{{party color|GERB}};"|
+! style="color:inherit;background:{{party color|Patriotic Front (Bulgaria)}};"|
+! style="color:inherit;background:{{party color|Independent (politician)}};"|
+! style="color:inherit;background:{{party color|Independent (politician)}};"|
+! style="color:inherit;background:{{party color|Reformist Bloc}};"|
+! style="color:inherit;background:{{party color|Alternative for Bulgarian Revival}};"|
+! style="color:inherit;background:;"|
+|-
+|Market Links{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|4 October 2016 
+|bgcolor=#FFFF00 |14.9
+|bgcolor=#FFFF00 |19.8
+|7.9
+|–
+|1.1
+|4.5
+|5.4
+|46.4
+|-
+|Mediana{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|8 October 2016 
+|bgcolor=#FFFF00 |18
+|bgcolor=#FFFF00  |25.4
+|9.9
+|3.2
+|1.3
+|4.2
+|6.1
+|31.9
+|-
+|Gallup International{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|12 October 2016 
+|bgcolor=#FFFF00 |15.1
+|bgcolor=#FFFF00 |19.2
+|7.2
+|4.7
+|1.3
+|5.2
+|4.9
+|42.4
+|-
+|Alpha Research{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|13 October 2016 
+|bgcolor=#FFFF00 |21.4
+|bgcolor=#FFFF00 |29.3
+|8.7
+|3.3
+|0.5
+|5.0
+|6.8
+|25
+|-
+|TSAM{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|22 October 2016 
+|bgcolor=#FFFF00 |22
+|bgcolor=#FFFF00 |32
+|9.1
+|5.3
+|2.8
+|5.6
+|6.3
+|16.9
+|-
+|IMP{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|22 October 2016 
+|bgcolor=#FFFF00 |21.1
+|bgcolor=#FFFF00 |26.6
+|9.7
+|–
+|1.8
+|4.9
+|8.6
+|27.3
+|-
+|Gallup International{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|25 October 2016 
+|bgcolor=#FFFF00 |16.3
+|bgcolor=#FFFF00 |20.2
+|8.1
+|5
+|3.8
+|5.2
+|5.3
+|36.1
+|-
+|Market Links{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|30 October 2016 
+|bgcolor=#FFFF00 |18.1
+|bgcolor=#FFFF00 |19.4
+|8.5
+|4.3
+|2.2
+|3.8
+|3.5
+|40.2
+|-
+|Online Solutions{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|3 November 2016 
+|bgcolor=#FFFF00 |18
+|bgcolor=#FFFF00 |19
+|16
+|–
+|–
+|–
+|15
+|32
+|-
+|Barometre Bulgaria{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|3 November 2016 
+|14.4
+|bgcolor=#FFFF00 |19.3
+|bgcolor=#FFFF00 <!-- Каракачанов-->|19.1
+|4.4
+|4.8
+|4.6
+|4.2
+|29.2
+|}
+
+===Second round===
+{|class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+!rowspan=2 width=180px|Pollster
+!rowspan=2 width=80px|Date
+!width=50px|[[Rumen Radev|Radev]]
+!width=50px|[[Tsetska Tsacheva|Tsacheva]]
+!width=50px|Others
+|-
+! style="color:inherit;background:{{party color|Independent (politician)}};"|
+! style="color:inherit;background:{{party color|GERB}};"|
+! style="color:inherit;background:;"|
+|-
+|Gallup International{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|12 October 2016 
+|bgcolor=#FFFF00 |29.6
+||26.4
+|44
+|-
+|Alpha Research{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|13 October 2016 
+||31.3
+|bgcolor=#FFFF00 |32.6
+|36.1
+|-
+|Sova Harris{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|15 October 2016 
+||37.8
+|bgcolor=#FFFF00 |38.7
+|23.5
+|-
+|TSAM{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|22 October 2016 
+||41
+|bgcolor=#FFFF00 |43
+|16
+|-
+|Gallup International{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|25 October 2016 
+|bgcolor=#FFFF00 |32.1
+||31.3
+|36.6
+|-
+|Market Links{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|30 October 2016 
+|bgcolor=#FFFF00 |30.7
+||25
+|44.3
+|-
+|Mediana{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|31 October 2016 
+|bgcolor=#FFFF00 |37.2
+||36.2
+|26.6
+|-
+|}
+
+{|class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+!rowspan=2 width=180px|Pollster
+!rowspan=2 width=80px|Date
+!width=50px|[[Rumen Radev|Radev]]
+!width=50px|[[Krasimir Karakachanov|Karakachanov]]
+!width=50px|Others
+|-
+! style="color:inherit;background:{{party color|Independent (politician)}};"|
+! style="color:inherit;background:{{party color|Patriotic Front (Bulgaria)}};"|
+! style="color:inherit;background:;"|
+|-
+|Market Links{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|30 October 2016 
+|bgcolor=#FFFF00 |27.2
+|<!-- Каракачанов --> |26.1
+|46.7
+|-
+|}
+
+{|class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+!rowspan=2 width=180px|Pollster
+!rowspan=2 width=80px|Date
+!width=50px|[[Tsetska Tsacheva|Tsacheva]]
+!width=50px|[[Krasimir Karakachanov|Karakachanov]]
+!width=50px|Others
+|-
+! style="color:inherit;background:{{party color|GERB}};"|
+! style="color:inherit;background:{{party color|Patriotic Front (Bulgaria)}};"|
+! style="color:inherit;background:;"|
+|-
+|Alpha Research{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }} 
+|13 October 2016 
+|bgcolor=#FFFF00 |31.3
+|<!-- Каракачанов --> |25.1
+|43.4
+|}
+
+==Results==
+<onlyinclude>{{Election results
+|cand1=[[Rumen Radev]]|vp1=[[Iliana Iotova]]|party1=Independent ([[Bulgarian Socialist Party]])|votes1=973754|votes1_2=2063032
+|cand2=[[Tsetska Tsacheva]]|vp2=[[Plamen Manushev]]|party2=[[GERB]]|votes2=840635|votes2_2=1256485
+|cand3=[[Krasimir Karakachanov]]|vp3=[[Yavor Notev]]|party3=[[United Patriots]]|votes3=573016
+|cand4=[[Veselin Mareshki]]|vp4=Petar Petrov|party4=Independent|votes4=427660
+|cand5=[[Plamen Oresharski]]|vp5=[[Danail Papazov]]|party5=Independent|votes5=253726
+|cand6=[[Traycho Traykov]]|vp6=Sabi Sabev|party6=[[Reformist Bloc]]|votes6=224734
+|cand7=[[Ivailo Kalfin]]|vp7=[[Lyubomir Halachev]]|party7=[[Alternative for Bulgarian Revival]]|votes7=125531
+|cand8=[[Tatyana Doncheva]]|vp8=Mincho Spasov|party8=[[Movement 21]]–[[National Movement for Stability and Progress|NDSV]]|votes8=69372
+|cand9=[[George Ganchev]]|vp9=Kolyo Paramov|party9=Christian Social Union|votes9=27928
+|cand10=[[Velizar Enchev]]|vp10=Bilyana Grancharova|party10=Movement for Radical Change Bulgarian Spring|votes10=18213
+|cand11=Dimitar Marinov|vp11=Radoslav Petrov|party11=[[Bulgarian National Unification]]|votes11=14974
+|cand12=Rumen Galabinov|vp12=Veska Voleva|party12=Independent|votes12=10286
+|cand13=Plamen Paskov|vp13=Svetozar Saev|party13=Independent|votes13=10103
+|cand14=[[Aleksandar Tomov (politician)|Aleksandar Tomov]]|vp14=Radoslav Radoslavov|party14=Bulgarian Social Democracy–[[Bulgarian Euro-Left|EuroLeft]]|votes14=9513
+|cand15=[[Gospodin Tonev]]|vp15=[[Andrey Andreev (politician)|Andrey Andreev]]|party15=Bulgarian Democratic Community|votes15=6855
+|cand16=Kemil Ramadan|vp16=Momchil Dobrev|party16=Balkanic Democratic League|votes16=6089
+|cand17=Kamen Popov|vp17=Georgi Nedelchev|party17=Independent|votes17=5212
+|cand18=Diana Dimitrova|vp18=Gabriel Gerasimov|party18=Independent|votes18=4362
+|cand19=[[Nikolay Banev]]|vp19=Sali Ibrayim|party19=Independent|votes19=4196
+|cand20=Yordanka Koleva|vp20=Veselin Hristov|party20=Independent|votes20=4182
+|cand21=Biser Milanov|vp21=Krasimir Nastev|party21=Independent|votes21=3215
+|row22=None of the above
+|votes22=214094
+|votes22_2=155411
+|invalid=119925
+|invalid2=66036
+|electorate=7014723
+|electorate2=7020119
+|source=[http://results.cik.bg/pvrnr2016/tur1/president/index.html Electoral Commission of Bulgaria]
+}}</onlyinclude>
+
+===Voter demographics===
+Gallup exit polling suggested the following demographic breakdown.
+
+{| class=wikitable
+|-
+! colspan="10" | Voter Demographics<ref name="gallup-international.bg">{{Cite web |date=2016-11-07 |title=Демографски профили на вота |url=https://www.gallup-international.bg/35376/presidential-elections-and-national-referendum-2016-demographic-structure-for-bulgaria/ |access-date=2022-08-09 |website=Галъп интернешънъл |language=bg-BG}}</ref>
+|-
+! style="width:150px;" rowspan="2" | Social group
+! style="width:60px;" class="unsortable" | % [[Rumen Radev|Radev]]
+! style="width:60px;" class="unsortable" | % [[Tsetska Tsacheva|Tsacheva]]
+! style="width:60px;" class="unsortable" | % [[Krasimir Karakachanov|Karakachanov]]
+! style="width:60px;" class="unsortable" | % [[Veselin Mareshki|Mareshki]]
+! style="width:60px;" class="unsortable" | % [[Plamen Oresharski|Oresharski]]
+! style="width:60px;" class="unsortable" | % [[Traycho Traykov|Traykov]]
+! style="width:60px;" class="unsortable" | % [[Ivaylo Kalfin|Kalfin]]
+! style="width:60px;" rowspan="2" class="unsortable" | % Others
+! style="width:60px;" rowspan="2" class="unsortable" | % Lead
+|-
+! class="unsortable" style="color:inherit;background:{{party color|Bulgarian Socialist Party}};  width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|GERB}};       width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|United Patriots}};  width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|Volya Movement}};  width:60px;" |
+! class="unsortable" style="color:inherit;background:#800080;  width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|Reformist Bloc}};  width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|Alternative for Bulgarian Revival}};  width:60px;" |
+|-
+| Exit Poll Result
+| style="text-align:right; background:#F78F8F;" | '''26'''
+| style="text-align:right;" | 22
+| style="text-align:right;" | 15
+| style="text-align:right;" | 11
+| style="text-align:right;" | 6
+| style="text-align:right;" | 7
+| style="text-align:right;" | 4
+| style="text-align:right;" | 9
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};" | '''4'''
+|-
+| Final Result
+| style="text-align:right; background:#F78F8F;" | '''25.4'''
+| style="text-align:right;" | 22.0
+| style="text-align:right;" | 15.0
+| style="text-align:right;" | 11.2
+| style="text-align:right;" | 6.6
+| style="text-align:right;" | 5.9
+| style="text-align:right;" | 3.3
+| style="text-align:right;" | 10.5
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};" | '''3.4'''
+|-
+! colspan=10 | Gender
+|-
+| Men
+| style="text-align:right; background:#F78F8F;" | '''26'''
+| style="text-align:right;" | 21
+| style="text-align:right;" | 16
+| style="text-align:right;" | 12
+| style="text-align:right;" | 6
+| style="text-align:right;" | 6
+| style="text-align:right;" | 4
+| style="text-align:right;" | 9
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};" | '''5'''
+|-
+| Women
+| style="text-align:right; background:#F78F8F;" | '''27'''
+| style="text-align:right;" | 23
+| style="text-align:right;" | 14
+| style="text-align:right;" | 9
+| style="text-align:right;" | 6
+| style="text-align:right;" | 7
+| style="text-align:right;" | 4
+| style="text-align:right;" | 10
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};" | '''4'''
+|-
+! colspan=10 | Age
+|-
+| 18–30
+| style="text-align:right;" | 19
+| style="text-align:right; background:#CCE6FF;" | '''20'''
+| style="text-align:right;" | 11
+| style="text-align:right;" | 15
+| style="text-align:right;" | 7
+| style="text-align:right;" | 10
+| style="text-align:right;" | 3
+| style="text-align:right;" | 15
+| style="text-align:right; background:{{party color|GERB}}; color:white;" | '''1'''
+|-
+| 30-60
+| style="text-align:right; background:#F78F8F;" | '''23'''
+| style="text-align:right; background:#CCE6FF;" | '''23'''
+| style="text-align:right;" | 15
+| style="text-align:right;" | 11
+| style="text-align:right;" | 6
+| style="text-align:right;" | 8
+| style="text-align:right;" | 4
+| style="text-align:right;" | 10
+| style="text-align:right; background:tie; color:black;" | '''0'''
+|-
+|-
+| 60+
+| style="text-align:right; background:#F78F8F;" | '''39'''
+| style="text-align:right;" | 21
+| style="text-align:right;" | 17
+| style="text-align:right;" | 6
+| style="text-align:right;" | 6
+| style="text-align:right;" | 4
+| style="text-align:right;" | 5
+| style="text-align:right;" | 2
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};"| '''18'''
+|-
+! colspan=10 | Highest Level of Education
+|-
+| Lower Education
+| style="text-align:right; background:#F78F8F;" | '''29'''
+| style="text-align:right;" | 24
+| style="text-align:right;" | 8
+| style="text-align:right;" | 10
+| style="text-align:right;" | 15
+| style="text-align:right;" | 1
+| style="text-align:right;" | 4
+| style="text-align:right;" | 9
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};"| '''5'''
+|-
+| Secondary Education
+| style="text-align:right; background:#F78F8F;" | '''24'''
+| style="text-align:right;" | 23
+| style="text-align:right;" | 16
+| style="text-align:right;" | 12
+| style="text-align:right;" | 6
+| style="text-align:right;" | 4
+| style="text-align:right;" | 3
+| style="text-align:right;" | 10
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};"| '''1'''
+|-
+| Higher Education
+| style="text-align:right; background:#F78F8F;" | '''28'''
+| style="text-align:right;" | 20
+| style="text-align:right;" | 15
+| style="text-align:right;" | 9
+| style="text-align:right;" | 2
+| style="text-align:right;" | 12
+| style="text-align:right;" | 4
+| style="text-align:right;" | 10
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};"| '''8'''
+|-
+! colspan=10 | Ethnic Group
+|-
+| Bulgarian - 88%
+| style="text-align:right; background:#F78F8F;" | '''28'''
+| style="text-align:right;" | 22
+| style="text-align:right;" | 17
+| style="text-align:right;" | 11
+| style="text-align:right;" | 1
+| style="text-align:right;" | 8
+| style="text-align:right;" | 5
+| style="text-align:right;" | 8
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};"| '''6'''
+|-
+| Turkish - 9%
+| style="text-align:right;" | 7
+| style="text-align:right;" | 19
+| style="text-align:right;" | 1
+| style="text-align:right;" | 13
+| style="text-align:right; background:#FC81FC" | '''44'''
+| style="text-align:right;" | 1
+| style="text-align:right;" | 2
+| style="text-align:right;" | 13
+| style="text-align:right; background:#800080; color:white;" | '''25'''
+|-
+| Roma - 3%
+| style="text-align:right;" | 27
+| style="text-align:right; background:#CCE6FF;" | '''36'''
+| style="text-align:right;" | 7
+| style="text-align:right;" | 9
+| style="text-align:right;" | 8
+| style="text-align:right;" | 2
+| style="text-align:right;" | 4
+| style="text-align:right;" | 7
+| style="text-align:right; background:{{party color|GERB}}; color:white;" | '''9'''
+|-
+! colspan=10 | Location
+|-
+| Towns and Villages
+| style="text-align:right; background:#F78F8F;" | '''25'''
+| style="text-align:right; background:#CCE6FF;" | '''25'''
+| style="text-align:right;" | 11
+| style="text-align:right;" | 9
+| style="text-align:right;" | 18
+| style="text-align:right;" | 2
+| style="text-align:right;" | 3
+| style="text-align:right;" | 7
+| style="text-align:right; background:tie; color:black;" | '''0'''
+|-
+| Smaller Cities
+| style="text-align:right; background:#F78F8F;" | '''29'''
+| style="text-align:right;" | 24
+| style="text-align:right;" | 18
+| style="text-align:right;" | 12
+| style="text-align:right;" | 3
+| style="text-align:right;" | 5
+| style="text-align:right;" | 3
+| style="text-align:right;" | 6
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};"| '''5'''
+|-
+| Larger Cities
+| style="text-align:right; background:#F78F8F;" | '''27'''
+| style="text-align:right;" | 21
+| style="text-align:right;" | 16
+| style="text-align:right;" | 12
+| style="text-align:right;" | 1
+| style="text-align:right;" | 7
+| style="text-align:right;" | 4
+| style="text-align:right;" | 12
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};" | '''6'''
+|-
+| Sofia
+| style="text-align:right; background:#F78F8F;" | '''24'''
+| style="text-align:right;" | 20
+| style="text-align:right;" | 16
+| style="text-align:right;" | 6
+| style="text-align:right;" | 1
+| style="text-align:right;" | 16
+| style="text-align:right;" | 5
+| style="text-align:right;" | 12
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};" | '''4'''
+|-
+|}
+
+==Aftermath==
+Following the results of the second round, Prime Minister and GERB leader [[Boiko Borisov]] tendered his resignation.<ref>[https://web.archive.org/web/20161114234645/http://in.reuters.com/article/bulgaria-election-government-idINL8N1DF29T Bulgarian PM Borisov tenders his government resignation] Reuters, 14 November 2016</ref> Two days later, on 16 November, the National Assembly voted 218–0 to accept it, resulting in [[2017 Bulgarian parliamentary election|early parliamentary elections]].<ref>{{cite web|title=Bulgarian MPs Accept PM Borisov's Resignation|url=http://www.novinite.com/articles/177462/Bulgarian+MPs+Accept+PM+Borisov%27s+%3Cb%3EResignation%3C/b%3E|website=Novinite|access-date=17 November 2016|date=16 November 2016|archive-date=15 June 2022|archive-url=https://web.archive.org/web/20220615104746/https://www.novinite.com/articles/177462/Bulgarian+MPs+Accept+PM+Borisov%27s+%3Cb%3EResignation%3C/b%3E|url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+{{Bulgarian elections}}
+
+[[Category:2016 elections in Europe|Bulgaria]]
+[[Category:2016 elections in Bulgaria|Presidential]]
+[[Category:November 2016 in Bulgaria|Presidential]]
+[[Category:Presidential elections in Bulgaria]]

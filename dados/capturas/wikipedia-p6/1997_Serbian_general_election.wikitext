@@ -1,0 +1,540 @@
+{{Short description|none}}
+{{Infobox election
+| country = Serbia
+| flag_year = 1991
+| module = {{Infobox election
+| embed = yes
+| previous_year = [[1992 Serbian general election|1992]]
+| next_year = {{nowrap|[[1997 Serbian presidential election|Dec 1997]]}}
+| election_name = Presidential election
+| type = presidential
+| election_date = {{nowrap|21 September 1997 (first round)}}<br />5 October 1997 (second round)
+| image_size = 130x130px
+| turnout = 48.95% ({{decrease}} 15.20 [[percentage point|pp]])
+
+| candidate1 = '''[[Vojislav Šešelj]]'''
+| party1 = Serbian Radical Party
+| popular_vote1 = '''1,733,859'''
+| percentage1 = '''50.62%'''
+| image1 = Stevan Kragujevic, Vojislav Šešelj, Skupstina Srbije, devedestih.jpg
+
+| candidate2 = [[Zoran Lilić]]
+| image2 = 3x4.svg
+| party2 = Socialist Party of Serbia
+| popular_vote2 = 1,691,354
+| percentage2 = 49.38%
+
+| title = President
+| before_election = [[Dragan Tomić (Serbian politician, born 1935)|Dragan Tomić]] (acting)
+| before_party = Socialist Party of Serbia
+| after_election = Election results annulled<br />[[Dragan Tomić (Serbian politician, born 1935)|Dragan Tomić]] (acting)
+| after_party = Socialist Party of Serbia
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| previous_election = [[1993 Serbian parliamentary election|1993]]
+| next_election = [[2000 Serbian parliamentary election|2000]]
+| election_date = 21 September 1997
+| turnout = {{center|57.37% ({{decrease}} 3.93 pp)}}
+
+| party1 = {{nowrap|[[Left Coalition (Serbia)|SPS–JUL–ND]]}}
+| colour1 = {{party color|Socialist Party of Serbia}}
+| leader1 = [[Slobodan Milošević|Slobodan&nbsp;Milošević]]
+| last_election1 = 128
+| seats1 = 110
+| percentage1 = 35.70
+
+| party2 = Serbian Radical Party
+| leader2 = [[Vojislav Šešelj]]
+| last_election2 = 39
+| seats2 = 82
+| percentage2 = 29.26
+
+| party3 = Serbian Renewal Movement
+| leader3 = [[Vuk Drašković]]
+| last_election3 = 37
+| seats3 = 45
+| percentage3 = 19.99
+
+| party4 = Vojvodina Coalition
+| leader4 = [[Sándor Páll]]
+| last_election4 = 5
+| seats4 = 4
+| percentage4 = 2.83
+
+| party5 = Democratic Alternative (Serbia)
+| leader5 = [[Nebojša Čović]]
+| last_election5 = New
+| seats5 = 1
+| percentage5 = 1.53
+
+| party6 = Alliance of Vojvodina Hungarians
+| leader6 = [[József Kasza]]
+| last_election6 = New
+| seats6 = 4
+| percentage6 = 1.28
+
+| party7 = List for Sandžak
+| leader7 = [[Sulejman Ugljanin]]
+| last_election7 = New
+| seats7 = 3
+| percentage7 = 1.25
+
+| party8 = [[Democratic Coalition Preševo-Bujanovac|DKPB]]
+| leader8 = Ramadan Ameti
+| colour8 = red
+| last_election8 = New
+| seats8 = 1
+| percentage8 = 0.36
+
+| map = Serbian parliamentary election (1997) by majority of popular vote in each district.svg
+| map_caption = Results of the presidential election by district
+
+| title = [[Prime Minister of Serbia|Prime Minister]]
+| before_election = [[Mirko Marjanović]]
+| before_party = Socialist Party of Serbia
+| after_election = [[Mirko Marjanović]]
+| after_party = Socialist Party of Serbia
+}}}}
+}}
+
+General elections were held in the [[Serbia and Montenegro|Yugoslav]] province of [[Republic of Serbia (1992–2006)|Serbia]] on 21 September 1997, to elect the [[President of Serbia|president]] and members of the [[National Assembly (Serbia)|National Assembly]]. With no presidential candidate receiving over 50% of the vote in the first round, a second round was held on 5 October.<ref name=BI>[http://www.balkaninsight.com/en/article/serbian-presidential-elections-since-1990 Serbian Presidential Elections Since 1990] Balkan Insight, 1 April 2012</ref> Running on a platform of [[Serbian nationalism|nationalism]] and [[neoliberalism|neoliberal economic reforms]], [[Vojislav Šešelj]] of the [[Serbian Radical Party]] received the most votes in the runoff. However, [[voter turnout]] was only 49%, below the required 50%.<ref name=BI/><ref>{{Cite book |last=Rosenstone |first=Steven J. |url=https://www.jstor.org/stable/j.ctt1xp3vfx |title=Forecasting Presidential Elections |date=1983 |publisher=Yale University Press |isbn=978-0-300-02691-7 |pages=1-8}}</ref><ref>{{Cite web |title=CNN.com - World - Election Watch |url=http://edition.cnn.com/WORLD/election.watch/europe/serbia.prez.html |archive-url=https://web.archive.org/web/20010506181654/http://edition.cnn.com/WORLD/election.watch/europe/serbia.prez.html |url-status=dead |archive-date=May 6, 2001 |access-date=2024-03-15 |website=CNN}}</ref> As a result, the elections were annulled, and [[1997 Serbian presidential election|fresh elections]] were scheduled for December.<ref name=BI/><ref>{{Cite web |date=22 January 1998 |title=REPUBLIC OF SERBIA: RERUN OF THE PRESIDENTIAL ELECTION DECEMBER 7 AND DECEMBER 21, 1997 |url=https://www.osce.org/files/f/documents/a/4/15133.pdf |website=osce.org |publisher=[[Organization for Security and Co-operation in Europe|OSCE]]}}</ref>
+
+In the National Assembly elections, the [[Socialist Party of Serbia]]–[[Yugoslav Left]]–[[Liberals of Serbia|New Democracy]] coalition emerged as the largest in the Assembly, winning 110 of the 250 seats.<ref>Janusz Bugajski (2002) ''Political Parties of Eastern Europe: A Guide to Politics in the Post-Communist Era'', pp434</ref>
+
+The elections were [[Election boycott|boycotted]] by several major opposition parties, including the [[Democratic Party (Serbia)|Democratic Party]], the [[New Democratic Party of Serbia|Democratic Party of Serbia]] and the [[Civic Alliance of Serbia]], which claimed that the elections would not be held under fair conditions.<ref name=BI/><ref>{{Cite news |date=2024-01-08 |title=MILOSEVIC'S PARTY CLAIMS VICTORY IN SERBIAN VOTE |url=https://www.washingtonpost.com/archive/politics/1997/09/22/milosevics-party-claims-victory-in-serbian-vote/7f5f3ffa-1f41-4676-8d25-ba439e492b56/ |access-date=2024-03-15 |work=Washington Post |language=en-US |issn=0190-8286}}</ref> Most [[Kosovo Albanians]] also boycotted the elections, who made up around 17% of the population, due to increasing ethnic tensions in [[Kosovo]].<ref>{{Cite web |title=CNN - Many boycott Serbia ballot - Sept. 21, 1997 |url=http://www.cnn.com/WORLD/9709/21/serbia.election.update/ |access-date=2024-03-15 |website=www.cnn.com}}</ref>
+
+== Electoral lists ==
+Following electoral lists are electoral lists that received seats in the National Assembly after the 1997 election:<ref>{{Cite web |title=Arhiva - Izbori za narodne poslanike - 1997. |url=http://arhiva.rik.parlament.gov.rs/latinica/arhiva-izbori-za-narodne-poslanike-1997.php |access-date=2022-10-08 |website=arhiva.rik.parlament.gov.rs}}</ref>
+
+{| class="wikitable"
+! {{No.}}
+! colspan="2" | Ballot name
+! Representative
+! Main ideology
+! Political position
+|-
+| {{center|1}}
+| style="background:{{party color|Socialist Party of Serbia}}" |
+| {{ubl|[[Left Coalition (Serbia)|Socialist Party of Serbia, Yugoslav Left, New Democracy]] – Slobodan Milošević|{{small|[[Socialist Party of Serbia|SPS]], [[Yugoslav Left|JUL]], [[Liberals of Serbia|ND]]}}}}
+| [[Slobodan Milošević]]
+| [[Socialism]]
+| [[Left-wing]]
+|-
+| {{center|2}}
+| style="background:{{party color|Serbian Radical Party}}" |
+| {{ubl|Serbian Radical Party – dr Vojislav Šešelj|{{small|[[Serbian Radical Party|SRS]]}}}}
+| [[Vojislav Šešelj]]
+| [[Ultranationalism]]
+| [[Far-right]]
+|-
+| {{center|3}}
+| style="background:{{party color|Serbian Renewal Movement}}" |
+| {{ubl|Serbian Renewal Movement – Vuk Drašković|{{small|[[Serbian Renewal Movement|SPO]]}}}}
+| [[Vuk Drašković]]
+| [[Conservatism]]
+| [[Centre-right]]
+|-
+| {{center|4}}
+| style="background:{{party color|League of Social Democrats of Vojvodina}}" |
+| {{ubl|[[Vojvodina Coalition|Coalition "Vojvodina"]] – [[Mile Isakov|Miodrag Mile Isakov]] – Nenad Čanak|{{small|[[League of Social Democrats of Vojvodina|LSV]], [[People's Peasant Party|NSS]], [[Reformists of Vojvodina|RDSV]]}}}}
+| [[Nenad Čanak]]
+| [[Vojvodina autonomism]]
+| [[Centre-left]]
+|-
+| {{center|5}}
+| style="background:{{party color|Alliance of Vojvodina Hungarians}}" |
+| {{ubl|Alliance of Vojvodina Hungarians|{{small|[[Alliance of Vojvodina Hungarians|VMSZ/SVM]]}}}}
+| [[József Kasza]]
+| [[Minority politics]]
+| [[Centre-left]]
+|-
+| {{center|6}}
+| style="background:{{party color|Party of Democratic Action of Sandžak}}" |
+| {{ubl|"[[List for Sandžak]] dr Sulejman Ugljanin"|{{small|[[Party of Democratic Action of Sandžak|SDAS]], [[Bosniak Democratic Party of Sandžak|BDSS]]}}}}
+| [[Sulejman Ugljanin]]
+| [[Minority politics]]
+| [[Right-wing]]
+|-
+| {{center|7}}
+| style="background:{{party color|Democratic Alternative (Serbia)}}" |
+| {{ubl|Democratic Alternative (DA) – Peasant Party of Serbia (SSS) – Pensioners Party of Serbia (PPS) – Nebojša Čović|{{small|[[Democratic Alternative (Serbia)|DA]], [[Peasants Party of Serbia|SSS]], {{abbr|PPS|Pensioners Party of Serbi}}}}}}
+| [[Nebojša Čović]]
+| [[Social democracy]]
+| [[Centre-left]]
+|-
+| {{center|8}}
+| style="background:red" |
+| {{ubl|Democratic Coalition Preševo–Bujanovac|{{small|{{abbr|DKPB|Democratic Coalition Preševo–Bujanovac}}}}}}
+| Ramadan Ameti
+| [[Minority politics]]
+| [[Centrism|Centre]]
+|}
+
+== Results ==
+=== Presidential ===
+{{Election results
+
+|cand1=[[Zoran Lilić]]
+|party1=[[Left Coalition (Serbia)|Left Coalition]] ([[Socialist Party of Serbia|SPS]]–[[Yugoslav Left|JUL]]–[[Liberals of Serbia|ND]])
+|votes1=1474924
+|votes1_2=1691354
+
+|cand2=[[Vojislav Šešelj]]
+|party2=[[Serbian Radical Party]]
+|votes2=1126940
+|votes2_2 = 1733859
+
+|cand3=[[Vuk Drašković]]
+|party3=[[Serbian Renewal Movement]]
+|votes3=852808
+
+|cand4=[[Mile Isakov]]
+|party4=[[Vojvodina Coalition]]
+|votes4=111166
+
+|cand5=[[Vuk Obradović]]
+|party5=[[Social Democracy (Serbia)|Social Democracy]]
+|votes5=100523
+
+|cand6=[[Nebojša Čović]]
+|party6=[[Democratic Alternative (Serbia)|Democratic Alternative]]–[[Peasants Party of Serbia|SSS]]
+|votes6=93133
+
+|cand7=[[Sulejman Ugljanin]]
+|party7=[[List for Sandžak]] ([[Party of Democratic Action of Sandžak|SDA S]])
+|votes7=68446
+
+|cand8=[[Milisav Banković]]
+|party8=[[Workers' Party of Yugoslavia]]
+|votes8=49158
+
+|cand9=[[Milan Paroški]]
+|party9=[[People's Party (Serbia, 1990)|People's Party]]
+|votes9=27100
+
+|cand10=Miodrag Vidojković
+|party10=Independent
+|votes10=14105
+
+|cand11=[[Predrag Vuletić]]
+|party11=[[Liberal Democratic Party (Serbia, 1989)|Liberal Democratic Party]]
+|votes11=11463
+
+|cand12=Dragan Đorđević
+|party12=Party of Citizens of Serbia
+|votes12=10684
+
+|cand13=Milan Mladenović
+|party13=Revival Coalition
+|votes13=10112
+
+|cand14=Đorđe Drljačić
+|party14=Independent
+|votes14=9430
+
+|cand15=Branko Čičić
+|party15=[[Natural Law Party]]
+|votes15=7097
+
+|cand16=Gvozden Sakić
+|party16=Independent
+|votes16=3293
+
+|cand17=Radomir Tukmanović
+|party17=Progressive Party
+|votes17=2647
+
+|invalid=155860
+|invalid2=104223
+|electorate=7187936
+| electorate2=7210557
+|source=[http://arhiva.rik.parlament.gov.rs/doc/arhiva/predsednik/1997%20I/3.%20-%201997%20(I)%20izvestaj%20o%20ukupnim%20rezultatima%20pr.pdf RIK]
+}}
+
+=== Parliamentary ===
+{{Election results
+
+| party1 = [[Left Coalition (Serbia)|Left Coalition]] ([[Socialist Party of Serbia|SPS]]–[[Yugoslav Left|JUL]]–[[Liberals of Serbia|ND]])
+| votes1 = 1418036
+| seats1 = 110
+| sc1    = –18
+
+| party2 = [[Serbian Radical Party]]
+| votes2 = 1162216
+| seats2 = 82
+| sc2    = +43
+
+| party3 = [[Serbian Renewal Movement]]
+| votes3 = 793988
+| seats3 = 45
+| sc3    = +8
+
+| party4 = [[Vojvodina Coalition]] ([[League of Social Democrats of Vojvodina|LSV]]–[[People's Peasant Party|NSS]]–[[Reformists of Vojvodina|RV]])
+| votes4 = 112589
+| seats4 = 4
+| sc4    = +3
+
+| party5 = [[Social Democracy (Serbia)|Social Democracy]]
+| votes5 = 105068
+| seats5 = 0
+| sc5    = New
+
+| party6 = [[Democratic Alternative (Serbia)|Democratic Alternative]]–[[Peasants Party of Serbia|Peasants Party]]–[[Pensioners' Party of Serbia|Pensioners' Party]]
+| votes6 = 60855
+| seats6 = 1
+| sc6    = +1
+
+| party7 = [[Alliance of Vojvodina Hungarians]]
+| votes7 = 50960
+| seats7 = 4
+| sc7    = New
+
+| party8 = [[List for Sandžak]]
+| votes8 = 49486
+| seats8 = 3
+| sc8    = New
+
+| party9 = [[Democratic Party of Vojvodina Hungarians]]
+| votes9 = 16986
+| seats9 = 0
+| sc9    = New
+
+| party10 = [[Democratic Fellowship of Vojvodina Hungarians]]
+| votes10 = 16812
+| seats10 = 0
+| sc10    = –5
+
+| party11 = [[New Communist Party of Yugoslavia]]
+| votes11 = 16222
+| seats11 = 0
+| sc11    = 0
+
+| party12 = [[Serbian Radical Party – Nikola Pašić|Radical Party "Nikola Pasic"]]
+| votes12 = 15986
+| seats12 = 0
+| sc12    = New
+
+| party13 = [[People's Party (Serbia, 1990)|People's Party]]
+| votes13 = 15232
+| seats13 = 0
+| sc13    = 0
+
+| party14 = [[Democratic Coalition Preševo-Bujanovac]]
+| votes14 = 14179
+| seats14 = 1
+| sc14    = New
+| color14 = red
+
+| party15 = [[Natural Law Party]]
+| votes15 = 8957
+| seats15 = 0
+| sc15    = New
+
+| party16 = [[League of Communists of Yugoslavia in Serbia]]
+| votes16 = 5760
+| seats16 = 0
+| sc16    = New
+
+| party17 = [[Party of Serbian Unity]]
+| votes17 = 5590 
+| seats17 = 0
+| sc17    = 0
+
+| party18 = [[Democratic Alliance of Croats in Vojvodina]]
+| votes18 = 5375
+| seats18 = 0
+| sc18    = 0
+
+| party19 = Vojvodina's Party
+| votes19 = 4790 
+| seats19 = 0
+| sc19    = New
+
+| party20 = Party of Serbian Citizens
+| votes20 = 4508
+| seats20 = 0
+| sc20    = New
+
+| party21 = Rebirth Coalition – Foreign Currency Savers Party
+| votes21 = 3727
+| seats21 = 0
+| sc21    = New
+
+| party22 = [[Civic Movement for Subotica – Doves of Subotica|Alliance of Citizens of Subotica]]
+| votes22 = 3647
+| seats22 = 0
+| sc22    = New
+
+| party23 = Sandžak Coalition
+| votes23 = 3606
+| seats23 = 0
+| sc23    = New
+
+| party24 = Serbian Resistance Movement – Democratic Movement
+| votes24 = 3299
+| seats24 = 0
+| sc24    = New
+
+| party25 = Pensioners Democratic Party of Serbia
+| votes25 = 2956
+| seats25 = 0
+| sc25    = New
+
+| party26 = Christian Democratic Movement of Vojvodina Hungarians
+| votes26 = 2702
+| seats26 = 0
+| sc26    = New
+
+| party27 = Rebirth Coalition
+| votes27 = 2652
+| seats27 = 0
+| sc27    = New
+
+| party28 = Serbian Peasants' Party
+| votes28 = 2197
+| seats28 = 0
+| sc28    = 0
+
+| party29 = Civic Movement of Vojvodina Hungarians
+| votes29 = 2181 
+| seats29 = 0
+| sc29    = New
+
+| party30 = Workers' Party of Yugoslavia
+| votes30 = 2141
+| seats30 = 0
+| sc30    = New
+
+| party31 = New Radical Party – Party of the People
+| votes31 = 2116
+| seats31 = 0
+| sc31    = New
+
+| party32 = Foreign Currency Savers Party
+| color32 = #770000
+| votes32 = 1895
+| seats32 = 0
+| sc32    = 0
+
+| party33 = Movement for the Protection of Human Rights
+| votes33 = 1849
+| seats33 = 0
+| sc33    = 0
+
+| party34 = Christian Democratic Union
+| votes34 = 1772
+| seats34 = 0
+| sc34    = New
+
+| party35 = Serbian Peasants' Party – People's Party
+| votes35 = 1489	
+| seats35 = 0
+| sc35    = 0
+
+| party36 = Alliance of Independent Citizens "For Zemun"
+| votes36 = 1243
+| seats36 = 0
+| sc36    = New
+
+| party37 = Independent Radical Party
+| votes37 = 1225
+| seats37 = 0
+| sc37    = New
+
+| party38 = Vojvodina Green Party
+| votes38 = 1125
+| seats38 = 0
+| sc38    = New
+
+| party39 = League of Communists of Yugoslavia
+| votes39 = 1026	
+| seats39 = 0
+| sc39    = New
+
+| party40 = Solidarity
+| votes40 = 891
+| seats40 = 0
+| sc40    = New
+
+| party41 = Green Party
+| votes41 = 772	
+| seats41 = 0
+| sc41    = 0
+
+| party42 = Communist Party of Yugoslavia
+| votes42 = 749
+| seats42 = 0
+| sc42    = 0
+
+| party43 = Sandžak Workers Social Democratic Party
+| votes43 = 674	
+| seats43 = 0
+| sc43    = New
+
+| party44 = [[Liberal Democratic Party (Serbia, 1989)|Liberal Democratic Party]]
+| votes44 = 503 
+| seats44 = 0
+| sc44    = New
+
+| party45 = "Serbian Citizens" – Serbian Citizens Party
+| votes45 = 477
+| seats45 = 0
+| sc45    = New
+
+| party46 = United Opposition of Šumadija
+| votes46 = 440
+| seats46 = 0
+| sc46    = 0
+
+| party47 = Rebirth Coalition–Foreign Currency Savers Party–Radical Party
+| votes47 = 355
+| seats47 = 0
+| sc47    = 0
+
+| party48 = Yugoslav Working Class "Josip Broz Tito"
+| votes48 = 351
+| seats48 = 0
+| sc48    = 0
+
+| party49 = Rebirth Coalition–Monarchist Party of Serbia
+| votes49 = 296
+| seats49 = 0
+| sc49    = 0
+
+| party50 = CP of Yugoslavia – Perspective Movement – WP of Yugoslavia
+| votes50 = 283
+| seats50 = 0
+| sc50    = 0
+
+| party51 = Universalist Movement
+| votes51 = 124
+| seats51 = 0
+| sc51    = New
+
+| party52 = Independents
+| votes52 = 40110
+| seats52 = 0
+| sc52    = 0
+
+| total_sc = 0
+| invalid = 164307
+| electorate = 7210386
+| source = [http://arhiva.rik.parlament.gov.rs/doc/arhiva/poslanici/1997/2.%201997%20izvestaj%20o%20ukupnim%20rezultatima%20np.pdf Republican Electoral Commission]
+|image=[[File:Skupstina 1997.svg]]}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[https://www.b92.net/info/izbori2012/izborni_vremeplov.php?yyyy=2012&mm=03&dd=12&nav_id=590018 The Fourth Republican Election (1997)], [[B92]]
+
+{{Serbian elections}}
+
+[[Category:1990s elections in Serbia]]
+[[Category:Parliamentary elections in Serbia]]
+[[Category:Elections in Serbia and Montenegro]]
+[[Category:1997 in Serbia|General]]
+[[Category:Presidential elections in Serbia|1997 09]]
+[[Category:September 1997 in Europe|Serbia]]
+[[Category:October 1997 in Europe|Serbia]]

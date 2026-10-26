@@ -1,0 +1,439 @@
+{{Short description|none}}
+{{Use dmy dates|date=July 2023}}
+{{Infobox election
+| country = Costa Rica
+| flag_year = state
+| previous_election = 1986 Costa Rican general election
+| previous_year = 1986
+| election_date = {{Start date|1990|02|04|df=y}}
+| next_election = 1994 Costa Rican general election
+| next_year = 1994
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| registered = 1,692,050
+| turnout = 81.81% ({{decrease}} 0.01[[percentage point|pp]])
+
+| image1 = Felipe González en rueda de prensa con el presidente de Costa Rica. Pool Moncloa. 27 de enero de 1993 (cropped).png
+| nominee1 = '''[[Rafael Ángel Calderón Fournier|Rafael Ángel Calderón]]'''
+| running_mate1 = '''[[Germán Serrano Pinto|Germán Serrano]]''' <br /> '''[[Arnoldo López Echandi|Arnoldo López]]'''
+| party1 = Social Christian Unity Party
+| popular_vote1 = '''694,589'''
+| percentage1 = '''51.49%'''
+
+| image2 = 3x4.svg
+| nominee2 = {{ill|Carlos Manuel Castillo Morales|es|lt=Carlos Manuel Castillo}}
+| running_mate2 = [[Eugenio Rodríguez Vega|Eugenio Rodríguez]] <br /> Meta Figueres
+| party2 = National Liberation Party (Costa Rica)
+| popular_vote2 = 636,701
+| percentage2 = 47.20%
+
+| map_image = Elección Presidencial de Costa Rica (1990) (Distritos Administrativos).svg
+| map_caption = Results by district<br>'''Calderón''': {{legend0|#3E56BF|40–50%}} {{legend0|#354AA4|50–60%}} {{legend0|#2C3D89|60–70%}} {{legend0|#23316D|70–80%}}<br>'''Castillo''': {{legend0|#509577|40–50%}} {{legend0|#457F66|50–60%}} {{legend0|#396A55|60–70%}} {{legend0|#2E5544|70–80%}} {{legend0|#224033|80–90%}}<br>'''Tie''': 
+{{legend0|#AA6EBB|40–50%}}
+
+| title = [[President of Costa Rica|President]]
+| before_election = [[Oscar Arias]]
+| before_party = National Liberation Party (Costa Rica)
+| after_election = [[Rafael Ángel Calderón Fournier]]
+| after_party = Social Christian Unity Party
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+
+| seats_for_election = All 57 seats in the [[Legislative Assembly of Costa Rica|Legislative Assembly]]
+| majority_seats = 29
+| turnout = 81.79% ({{decrease}} 0.02[[percentage point|pp]])
+
+| party1 = Social Christian Unity Party
+| leader1 = [[Rafael Ángel Calderón Fournier|Rafael Ángel Calderón]]
+| percentage1 = 46.21
+| seats1 = 29
+| last_election1 = 25
+
+| party2 = National Liberation Party (Costa Rica)
+| leader2 = {{ill|Carlos Manuel Castillo Morales|es|lt=Carlos Manuel Castillo}}
+| percentage2 = 41.88
+| seats2 = 25
+| last_election2 = 29
+
+| party3 = United People (Costa Rica)
+| leader3 = {{ill|Víctor Daniel Camacho Monge|es|lt=Víctor Daniel Camacho}}
+| percentage3 = 3.31
+| seats3 = 1
+| last_election3 = 1
+
+| party4 = General Union Party
+| leader4 = Carlos Alberto Fernández
+| percentage4 = 2.42
+| seats4 = 1
+| last_election4 = 0
+
+| party5 = Cartago Agrarian Union Party
+| leader5 = {{ill|Juan Guillermo Brenes|es|Cachimbal}}
+| percentage5 = 1.06
+| seats5 = 1
+| last_election5 = 1
+
+| map                = Elecciones legislativas de Costa Rica de 1990 - Diputados por Provincia.svg
+| map_caption        = Results by province
+}}}}}}{{Politics of Costa Rica}}
+
+General elections were held in [[Costa Rica]] on 4 February 1990.<ref name=DN>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p155 {{ISBN|978-0-19-928357-6}}</ref> [[Rafael Ángel Calderón Fournier]] of the [[Social Christian Unity Party]] (PUSC) won the presidential election, whilst his party also won the parliamentary election. Voter turnout was 81.8%.<ref>Nohlen, p157</ref>
+
+Unlike previous elections, Calderon's nomination was not undisputed. Despite expressing that he would not run again for President after the results of the previous race, he was eventually convinced by his followers. Yet, young former minister and business man [[Miguel Ángel Rodríguez Echeverría]] from the [[Liberalism|liberal faction]] inside PUSC choose to face Calderón at the primaries.<ref>{{cite web|url=https://www.scribd.com/document/388096202/Desarrollo-de-las-ideas-filosoficas-en-Costa-Rica|url-status=live|access-date=2019-09-16|last=Láscaris|first=Constantino|title=El desarrollo de las Ideas Filosóficas en Costa Rica|date=1965|archive-url=https://web.archive.org/web/20200830142629/https://www.scribd.com/document/388096202/Desarrollo-de-las-ideas-filosoficas-en-Costa-Rica |archive-date=2020-08-30 }}</ref><ref>{{cite news|title=Rodríguez: balance final|url=http://wvw.nacion.com/ln_ee/2002/abril/28/pais1.html|agency=La Nacion}}</ref> Former deputy José Hine from PUSC's left wing also run with testimonial results.
+
+Despite the fact that Rodríguez clearly had no chance against Calderón, his candidacy was considered a smart move, as he would start to be in the spotlight and helping his way in future nominations.<ref>{{cite journal|last1=Picado Leon|first1=Hugo|title=Proceso de selección de candid atos a presidente y diputados en el PLN y el PUSC (1990-2006)|journal=OPAL|url=http://americo.usal.es/oir/Opal/disc/OPAL_CostaRica_Picado.pdf}}</ref> As expected, Calderón won the primary election with 75% of the votes. On the other sidewalk former vice president Carlos Manuel Castillo won over young minister [[Rolando Araya Monge]] (nephew of ex-president [[Luis Alberto Monge]]) in the [[National Liberation Party (Costa Rica)|PLN]]'s primaries after a very hostile and traumatic campaign, in which Castillo even accused Araya of links with [[narcotraffic]], something that weakened the PLN.<ref>{{cite journal|last1=Fernández|first1=Oscar|title=Costa Rica. La reafirmación del bipartidismo|journal=Revista Nueva Sociedad|volume=131|pages= 4–10}}</ref> Minor parties proliferated in this election, with up to 12 different parties taking part, of which only left-wing coalition [[United People (Costa Rica)|United People]] having some relevance with sociologist Victor Daniel Camacho as nominee earning 3% of the votes.
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Rafael Ángel Calderón Fournier]]|party1=[[Social Christian Unity Party]]|votes1=694589
+|cand2={{ill|Carlos Manuel Castillo Morales|es}}|party2=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes2=636701
+|cand3={{ill|Víctor Daniel Camacho Monge|es}}|party3=[[United People (Costa Rica)|United People]]|votes3=9217
+|cand4=Fernando Ramírez Muñoz|party4={{ill|Christian National Alliance Party|es|Alianza Nacional Cristiana}}|votes4=4209
+|cand5=[[Isaac Felipe Azofeifa]]|party5=[[Democratic Force (Costa Rica)|Party of Progress]]|votes5=2547
+|cand6=Edwin Badilla Agüero|party6=[[Militant Workers Revolutionary Party]]|votes6=1005|color6=darkred
+|cand7=Rodrigo Alberto Cordero|party7={{ill|Independent Party (Costa Rica)|es|Partido Independiente (Costa Rica)|lt=Independent Party}}|votes7=746
+|invalid=29919
+|blank=5393
+|electorate=1692050
+|source=[http://www.electionresources.org/cr/president.php?election=1990&province= Election Resources]
+}}
+
+====By province====
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| [[Provinces of Costa Rica|Province]]
+!width=60px| [[Rafael Ángel Calderón Fournier|Calderón]] %
+!width=60px| Castillo %
+!width=60px| Camacho %
+!width=60px| Ramírez %
+!width=60px| [[Isaac Felipe Azofeifa|Azofeifa]]%
+!width=60px| Badilla %
+!width=60px| Cordero %
+|-
+!style="background:{{party color|Social Christian Unity Party}}"|
+!style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+!style="background:{{party color|United People (Costa Rica)}}"|
+!style="background:saddlebrown"|
+!style="background:{{party color|Democratic Force (Costa Rica)}}"|
+!style="background:darkred"|
+!style="background:{{party color|Independent Party (Costa Rica)}}"|
+|-
+| align="left"| {{flag|San José}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 49.39
+| style="background:#66B27B; color:white;"| 49.25
+| 0.75
+| 0.28
+| 0.22
+| 0.06
+| 0.05
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 51.41
+| style="background:#66B27B; color:white;"| 47.59
+| 0.43
+| 0.32
+| 0.15
+| 0.06
+| 0.05
+|-
+| align="left"| {{flag|Cartago}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 50.37
+| style="background:#66B27B; color:white;"| 48.57
+| 0.53
+| 0.20
+| 0.19
+| 0.08
+| 0.06
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 50.76
+| style="background:#66B27B; color:white;"| 47.79
+| 0.73
+| 0.36
+| 0.25
+| 0.05
+| 0.05
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 52.72
+| style="background:#66B27B; color:white;"| 46.39
+| 0.44
+| 0.24
+| 0.09
+| 0.07
+| 0.05
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 56.21
+| style="background:#66B27B; color:white;"| 42.24
+| 0.82
+| 0.40
+| 0.15
+| 0.11
+| 0.07
+|-
+| align="left"| {{flag|Limón}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 60.82
+| style="background:#66B27B; color:white;"| 37.07
+| 1.06
+| 0.58
+| 0.16
+| 0.21
+| 0.11
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 51.51
+| 47.20
+| 0.66
+| 0.31
+| 0.19
+| 0.07
+| 0.06
+|}
+
+===Legislative Assembly===
+{{Election results
+|image=[[File:Costa Rica_Legislative Assembly_Parliament_1990.svg]]
+|party1=[[Social Christian Unity Party]]|votes1=617478|seats1=29|sc1=+4
+|party2=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes2=559632|seats2=25|sc2=–4
+|party3=[[United People (Costa Rica)|United People]]|votes3=44161|seats3=1|sc3=0
+|party4={{ill|General Union Party|es|Partido Unión Generaleña}}|votes4=32307|seats4=1|sc4=+1
+|party5={{ill|Christian National Alliance Party|es|Alianza Nacional Cristiana}}|votes5=22149|seats5=0|sc5=0
+|party6=[[Cartago Agrarian Union Party]]|votes6=14190|seats6=1|sc6=0
+|party7=[[National Independent Party (Costa Rica)|National Independent Party]]|votes7=10635|seats7=0|sc7=New
+|party8=[[Democratic Force (Costa Rica)|Party of Progress]]|votes8=7733|seats8=0|sc8=New
+|party9=Alajuelense Solidarity Party|votes9=7330|seats9=0|sc9=0
+|party10={{ill|Independent Party (Costa Rica)|es|Partido Independiente (Costa Rica)|lt=Independent Party}}|votes10=5564|seats10=0|sc10=0
+|party11=[[Authentic Limonense Party]]|votes11=4901|seats11=0|sc11=0
+|party12=[[Agrarian Labour Action Party]]|votes12=4756|seats12=0|sc12=New
+|party13={{ill|National Agrarian Party (Costa Rica)|es|Partido Agrario Nacional|lt=National Agrarian Party}}|votes13=4594|seats13=0|sc13=New
+|party14=[[Militant Workers Revolutionary Party]]|votes14=742|seats14=0|sc14=New|color14=darkred
+|invalid=32723
+|blank=15061
+|total_sc=0
+|electorate=1692050
+|source=[http://www.electionresources.org/cr/deputies.php?election=1990&province= Election Resources]
+}}
+
+====By province====
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+|-
+! rowspan="3"| [[Provinces of Costa Rica|Province]]
+! colspan="2" width="30px"| [[Social Christian Unity Party|PUSC]]
+! colspan="2" width="30px"| [[National Liberation Party (Costa Rica)|PLN]]
+! colspan="2" width="30px"| [[United People (Costa Rica)|PU]]
+! colspan="2" width="30px"| PUGEN
+! colspan="2" width="30px"| ANC
+! colspan="2" width="30px"| PNI
+! colspan="2" width="30px"| [[Democratic Force (Costa Rica)|PdP]]
+! colspan="2" width="30px"| Others
+|-
+! colspan="2" style="background:{{party color|Social Christian Unity Party}}"|
+! colspan="2" style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+! colspan="2" style="background:#e31717"|
+! colspan="2" style="background:{{party color|General Union Party}}"|
+! colspan="2" style="background:saddlebrown"|
+! colspan="2" style="background:{{party color|National Independent Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Democratic Force (Costa Rica)}}"|
+! colspan="2" style="background:grey"|
+|-
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+|-
+| align="left"| {{flag|San José}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 44.41
+|'''10'''
+| style="background:#66B27B; color:white;"| 43.08
+|'''9'''
+| 4.50
+|'''1'''
+| 3.77
+|'''1'''
+| 1.86
+|'''0'''
+| 0.91
+|'''0'''
+| 0.70
+|'''0'''
+| 0.84
+|'''0'''
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 46.90
+|'''5'''
+| style="background:#66B27B; color:white;"| 43.47
+|'''5'''
+| 1.43
+|'''0'''
+| 0.55
+|'''0'''
+| 1.41
+|'''0'''
+| 0.46
+|'''0'''
+| 0.39
+|'''0'''
+| 5.39
+|'''0'''
+|-
+| align="left"| {{flag|Cartago}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 43.22
+|'''3'''
+| style="background:#66B27B; color:white;"| 40.71
+|'''2'''
+| 2.71
+|'''0'''
+| 1.58
+|'''0'''
+| 0.95
+|'''0'''
+| 0.85
+|'''0'''
+| 0.54
+|'''0'''
+| 9.44
+|'''1'''
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 46.87
+|'''3'''
+| style="background:#66B27B; color:white;"| 42.91
+|'''2'''
+| 4.38
+|'''0'''
+| 1.84
+|'''0'''
+| 1.75
+|'''0'''
+| 0.80
+|'''0'''
+| 1.16
+|'''0'''
+| 0.29
+|'''0'''
+|-
+| align="left"| {{flag|Guanacaste}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 50.52
+|'''3'''
+| style="background:#66B27B; color:white;"| 46.12
+|'''2'''
+| 1.00
+|'''0'''
+| 0.57
+|'''0'''
+| 0.97
+|'''0'''
+| 0.61
+|'''0'''
+| 0.10
+|'''0'''
+| 0.11
+|'''0'''
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 49.87
+|'''3'''
+| style="background:#66B27B; color:white;"| 38.30
+|'''3'''
+| 2.96
+|'''0'''
+| 4.60
+|'''0'''
+| 2.30
+|'''0'''
+| 1.24
+|'''0'''
+| 0.33
+|'''0'''
+| 0.39
+|'''0'''
+|-
+| align="left"| {{flag|Limón}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 50.14
+|'''2'''
+| style="background:#66B27B; color:white;"| 29.44
+|'''2'''
+| 4.11
+|'''0'''
+| 0.62
+|'''0'''
+| 2.18
+|'''0'''
+| 0.51
+|'''0'''
+| 0.53
+|'''0'''
+| 12.47
+|'''0'''
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 46.21
+|'''29'''
+| 41.88
+|'''25'''
+| 3.31
+|'''1'''
+| 2.42
+|'''1'''
+| 1.66
+|'''0'''
+| 0.80
+|'''0'''
+| 0.58
+|'''0'''
+| 3.14
+|'''1'''
+|}
+
+===Local governments===
+{{Election results
+|seattype1=Alderpeople|seattype2=+/–|seattype3=Municipal<br>syndics|seattype4=+/–
+|party1=[[Social Christian Unity Party]]|votes1=623021|st1t1=274|st2t1=+42|st3t1=265|st4t1=+151
+|party2=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes2=569974|st1t2=232|st2t2=–28|st3t2=161|st4t2=–145
+|party3=[[United People (Costa Rica)|United People]]|votes3=44765|st1t3=6|st2t3=+3|st3t3=0|st4t3=0
+|party4={{ill|General Union Party|es|Partido Unión Generaleña}}|votes4=28243|st1t4=4|st2t4=+2|st3t4=0|st4t4=0
+|party5={{ill|Christian National Alliance Party|es|Alianza Nacional Cristiana}}|votes5=17411|st1t5=2|st2t5=+2|st3t5=0|st4t5=0
+|party6=[[National Independent Party (Costa Rica)|National Independent Party]]|votes6=12836|st1t6=0|st2t6=0|st3t6=0|st4t6=0
+|party7=[[Democratic Force (Costa Rica)|Party of Progress]]|votes7=7815|st1t7=0|st2t7=New|st3t7=0|st4t7=New
+|party8=[[Agrarian Labour Action Party]]|votes8=5444|st1t8=3|st2t8=New|st3t8=0|st4t8=New
+|party9=Alajuelense Solidarity Party|votes9=5298|st1t9=0|st2t9=–1|st3t9=0|st4t9=0
+|party10={{ill|National Agrarian Party (Costa Rica)|es|Partido Agrario Nacional|lt=National Agrarian Party}}|votes10=5017|st1t10=2|st2t10=New|st3t10=0|st4t10=New
+|party11={{ill|Independent Party (Costa Rica)|es|Partido Independiente (Costa Rica)|lt=Independent Party}}|votes11=4492|st1t11=1|st2t11=+1|st3t11=0|st4t11=0
+|party12=[[Authentic Limonense Party]]|votes12=3744|st1t12=1|st2t12=0|st3t12=0|st4t12=0
+|party13=[[National Union Party (Costa Rica)|National Union Party]]|votes13=2221|st1t13=0|st2t13=New|st3t13=0|st4t13=New
+|party14=New Alajuelita Party|votes14=2012|st1t14=1|st2t14=0|st3t14=0|st4t14=0
+|party15=Humanist Party|votes15=1929|st1t15=0|st2t15=New|st3t15=0|st4t15=New|color15=orange
+|total_st2t=+22|total_st4t=+6
+|invalid=49520
+|electorate=1691689
+|source=TSE<ref>{{cite web |url=http://atlaselectoral.tse.go.cr/regiduria/1990/area |title=Elecciones Regidurías 1990 |language=Spanish |website=tse.go.cr |publisher=Tribunal Supremo de Elecciones |access-date= 21 May 2020}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+{{Costa Rican elections}}
+
+[[Category:1990 elections in Central America|Costa]]
+[[Category:1990 in Costa Rica|General]]
+[[Category:Parliamentary elections in Costa Rica]]
+[[Category:Presidential elections in Costa Rica]]

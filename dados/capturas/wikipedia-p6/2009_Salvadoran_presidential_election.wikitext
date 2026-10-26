@@ -1,0 +1,127 @@
+{{short description|2009 elections in El Salvador}}
+{{Use dmy dates|date=December 2021}}
+{{Infobox election
+| country = El Salvador
+| type = Presidential
+| previous_election = 2004 Salvadoran presidential election
+| previous_year = 2004
+| next_election = 2014 Salvadoran presidential election
+| next_year = 2014
+| election_date = 15 March 2009
+| registered = 4,226,479
+| turnout = 62.92% ({{decrease}}4.42[[percentage point|pp]])
+| image1 = Mauricio Funes (Brasilia, May 2008).jpg
+| nominee1 = '''[[Mauricio Funes]]'''
+| running_mate1 = [[Salvador Sánchez Cerén]]
+| party1 = Farabundo Martí National Liberation Front
+| electoral_vote1 = 
+| states_carried1 = 
+| popular_vote1 = '''1,354,000''' 	
+| percentage1 = '''51.32%'''
+| image2 = Rodrigo Avila Aviles.jpg
+| nominee2 = [[Rodrigo Ávila]]
+| running_mate2 = [[Arturo Zablah]]
+| party2 = Nationalist Republican Alliance
+| electoral_vote2 = 
+| states_carried2 = 
+| popular_vote2 = 1,284,588 	
+| percentage2 = 48.68%
+| map_image = Elecciones presidenciales de El Salvador de 2009 - Resultado por Departamento.svg
+| map_caption = Results by department
+| title = President
+| before_election = [[Antonio Saca]]
+| before_party = Nationalist Republican Alliance
+| after_election = [[Mauricio Funes]]
+| after_party = Farabundo Martí National Liberation Front
+}}
+
+Presidential elections were held in [[El Salvador]] on 15 March 2009. The main candidates were [[Rodrigo Ávila]] ([[Nationalist Republican Alliance|ARENA]]) and [[Mauricio Funes]] ([[FMLN]]). Funes won the election with 51.3% of the vote and became the first leftist president of El Salvador.<ref>{{Cite web|url=http://edition.cnn.com/2009/WORLD/americas/06/01/salvador.inauguration/index.html|title=El Salvador's first leftist president inaugurated|first=Arthur|last=Brice|website=CNN|language=en|access-date=2017-12-10}}</ref>
+
+==Candidates==
+The [[Farabundo Martí National Liberation Front]] nominated [[Mauricio Funes]] as its presidential candidate and [[Salvador Sánchez Cerén]] as his running mate. The [[Nationalist Republican Alliance]] nominated [[Rodrigo Ávila]] and [[Arturo Zablah]].
+
+The [[Christian Democratic Party (El Salvador)|Christian Democratic Party]] (PDC) had nominated Carlos Rivas Zamora and Merlin Peña, but withdrew the nominations on 2 February 2009 after it became apparent that they would have little chance of winning the election. The PDC did not immediately voice support for one of the other candidates.<ref>{{cite news|title=Christian Dems Quit Salvador Election Race|url=http://www.plenglish.com/article.asp?ID={61FD8272-885A-4BBB-A4D8-C0EA32EB4D65})&|language=EN|work=Prensa Latina|date=3 February 2009|access-date=11 March 2009}}{{dead link|date=May 2018|bot=InternetArchiveBot|fix-attempted=yes}}</ref>
+
+The [[National Coalition Party (El Salvador)|National Coalition Party]], which had nominated Luis Tomás Chévez, also withdrew its candidate a few days later.
+
+==Opinion polls==
+A poll from mid September 2008 gave Funes 29.2% and Ávila 26.1%, while Tomás Chévez (PCN) got 1.9%. However, a poll from late September gave Funes 47.4% to 23.8% for Ávila. This latter poll showing Funes with a large lead is more consistent with polling from previous months.<ref>{{cite web|url=http://www.angus-reid.com/polls/view/leftist_funes_loses_steam_in_el_salvador/|title=Leftist Funes Loses Steam in El Salvador|access-date=11 March 2009|date=13 September 2008|work=Angus Reid Global Monitor|url-status=usurped|archiveurl=https://web.archive.org/web/20090309125710/http://www.angus-reid.com/polls/view/leftist_funes_loses_steam_in_el_salvador |archivedate=9 March 2009}}</ref><ref>{{cite web|url=http://www.angus-reid.com/polls/view/leftist_funes_leads/|title=Leftist Funes Leads Ávila in El Salvado|access-date=11 March 2009|date=29 September 2008|work=Angus Reid Global Monitor|url-status=usurped|archiveurl=https://archive.today/20120721105856/http://www.angus-reid.com/polls/view/leftist_funes_leads/|archivedate=21 July 2012 }}</ref>
+
+Later polls from 2008 showed a tightening race between Funes and Ávila, with Funes retaining the lead.<ref>{{cite web|url=http://www.angus-reid.com/polls/view/32340/close_presidential_race_continues_in_el_salvador|title=Close Presidential Race Continues in El Salvador|access-date=11 March 2009|date=1 December 2008|work=Angus Reid Global Monitor|url-status=usurped|archiveurl=https://web.archive.org/web/20090226034056/http://angus-reid.com/polls/view/32340/close_presidential_race_continues_in_el_salvador|archivedate=26 February 2009}}</ref>
+
+== Electoral system ==
+
+=== Political parties ===
+
+The following political parties were eligible to run candidates in the 2009 presidential election.<ref>{{cite web|url=https://www.tse.gob.sv/documentos/memoria-de-elecciones/memoria-elecciones-2009.pdf|date=June 2009|access-date=24 April 2026|work=[[Supreme Electoral Court (El Salvador)|Supreme Electoral Court]]|language=es|title=Memorial Especial – Elecciones 2009|trans-title=Special Memory – 2009 Elections|archive-url=https://web.archive.org/web/20180502065437/https://www.tse.gob.sv/documentos/memoria-de-elecciones/memoria-elecciones-2009.pdf|archive-date=2 May 2018|url-status=dead}}</ref>{{Rp|10}}
+
+{| class="wikitable"
+|-
+! colspan="3" | Party
+! Leader
+! Participated?
+|-
+| style="background-color:{{Party color|Christian Democratic Party (El Salvador)}}" | 
+| align="center" | '''PDC'''
+| [[Christian Democratic Party (El Salvador)|Christian Democratic Party]]<br />{{small|{{lang|es|Partido Demócrata Cristiano}}}}
+| [[Rodolfo Parker]]
+| {{No2|No{{efn-lg|name="No2"|Withdrawn candidate}}}}
+|-
+| style="background-color:{{Party color|Democratic Change (El Salvador)}}" | 
+| align="center" | '''CD'''
+| [[Democratic Change (El Salvador)|Democratic Change]]<br />{{small|{{lang|es|Cambio Democrático}}}}
+| [[Héctor Dada Hirezi]]
+| {{No}}
+|-
+| style="background-color:{{Party color|Farabundo Martí National Liberation Front}}" | 
+| align="center" | '''FMLN'''
+| [[Farabundo Martí National Liberation Front]]<br />{{small|{{lang|es|Frente Farabundo Martí para la Liberación Nacional}}}}
+| [[Medardo González]]
+| {{Yes}}
+|-
+| style="background-color:{{Party color|National Coalition Party (El Salvador)}}" | 
+| align="center" | '''PCN'''
+| [[National Coalition Party (El Salvador)|National Conciliation Party]]<br />{{small|{{lang|es|Partido de Conciliación Nacional}}}}
+| [[Ciro Cruz Zepeda]]
+| {{No2|No{{efn-lg|name="No2"}}}}
+|-
+| style="background-color:{{Party color|Nationalist Republican Alliance}}" | 
+| align="center" | '''ARENA'''
+| [[Nationalist Republican Alliance]]<br />{{small|{{lang|es|Alianza Republicana Nacionalista}}}}
+| [[Rodrigo Ávila]]
+| {{Yes}}
+|-
+| style="background-color:{{Party color|Revolutionary Democratic Front (2006)}}" | 
+| align="center" | '''FDR'''
+| [[Revolutionary Democratic Front (2006)|Revolutionary Democratic Front]]<br />{{small|{{lang|es|Frente Democrático Revolucionario}}}}
+| 
+| {{No}}
+|}
+: Notes:
+{{notelist-lg}}
+
+==Results==
+Funes won the election with 51.3% of the vote, while Avila received 48.7%, marking the first time ARENA had lost a presidential election in 20 years.<ref>{{cite news|url=https://news.bbc.co.uk/2/hi/americas/7944899.stm|title=Left-winger wins El Salvador poll|date=2009-03-16|work=BBC|access-date=2009-03-17}}</ref> Of the election, Funes said, "This is the happiest night of my life, and I want it to be the night of El Salvador's greatest hope. I want to thank all the people who voted for me and chose that path of hope and change."<ref name="WP">{{cite news|url=https://www.washingtonpost.com/wp-dyn/content/article/2009/03/16/AR2009031600038.html|title=Leftist Declares Victory In El Salvador Election|last=Booth|first=William|date=2009-03-16|work=Washington Post|access-date=2009-03-17}}</ref> Ávila conceded defeat, saying that he and his party "will be a constructive opposition."<ref name="WP"/> An observation team from the [[Organization of American States]] said that the elections were held without any major incidents, although there were claims of Hondurans voting at a voting center in [[Torola]], [[Morazán Department|Morazán]].<ref>{{cite news|url=http://news.xinhuanet.com/english/2009-03/16/content_11017491.htm|archive-url=https://web.archive.org/web/20090318093128/http://news.xinhuanet.com/english/2009-03/16/content_11017491.htm|url-status=dead|archive-date=18 March 2009|title=OAS recognizes El Salvador's election orderly held|date=2009-03-16|work=Xinhua|access-date=2009-03-17}}</ref>
+
+Several governments said that they looked forward to working with the new government, including [[Taiwan]] and the [[United States]].<ref>{{cite news|url=http://www.monstersandcritics.com/news/asiapacific/news/article_1465047.php/Taiwan_to_strengthen_ties_with_El_Salvadors_next_president_|access-date=2009-03-17|title=Taiwan to strengthen ties with El Salvador's next president|date=2009-03-16|work=M&C|url-status=dead|archiveurl=https://web.archive.org/web/20090319181843/http://www.monstersandcritics.com/news/asiapacific/news/article_1465047.php/Taiwan_to_strengthen_ties_with_El_Salvadors_next_president_|archivedate=2009-03-19}}</ref><ref>{{cite news|url=https://www.google.com/hostednews/afp/article/ALeqM5jqH60lqIx63fXwtnwkeoWRZNMjdQ|archive-url=https://archive.today/20120731191747/http://www.google.com/hostednews/afp/article/ALeqM5jqH60lqIx63fXwtnwkeoWRZNMjdQ|url-status=dead|archive-date=31 July 2012|title=US congratulates leftist winner in El Salvador|date=2009-03-16|work=AFP|access-date=2009-03-17}}</ref>
+
+{{Election results
+|cand1=[[Mauricio Funes]]|vp1=[[Salvador Sánchez Cerén]]|party1=[[Farabundo Martí National Liberation Front]]|votes1=1354000
+|cand2=[[Rodrigo Ávila]]|vp2=[[Arturo Zablah]]|party2=[[Nationalist Republican Alliance]]|votes2=1284588
+|invalid=20550
+|electorate=4226479
+|source=[https://www.tse.gob.sv/documentos/memoria-de-elecciones/memoria-elecciones-2009.pdf TSE]
+}}
+
+==References==
+{{reflist}}
+{{Wikinews|El Salvador elects leftist president Funes}}
+
+{{Portal bar|El Salvador|Politics}}
+{{Salvadoran elections}}
+{{Authority control}}
+
+[[Category:2009 elections in Central America|El Salvador]]
+[[Category:Presidential elections in El Salvador]]
+[[Category:2009 in El Salvador|Presidential election]]
+[[Category:March 2009 in North America|El Salvador]]

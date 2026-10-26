@@ -1,0 +1,162 @@
+{{Short description|none}}
+{{Use dmy dates|date=June 2022}}
+{{Infobox election
+| country = Panama
+| previous_election = 2009 Panamanian general election
+| previous_year = 2009
+| next_election = 2019 Panamanian general election
+| next_year = 2019
+| election_date = {{Start date|2014|5|4|df=y}}
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| image_size = 130x130px
+| turnout = 76.76% ({{increase}} 2.75[[percentage point|pp]])
+
+| image1 = Juan Carlos Varela (2014) 3x4 Cropped.jpg
+| nominee1 = '''[[Juan&nbsp;Carlos&nbsp;Varela]]'''
+| running_mate1 = '''[[Isabel Saint Malo]]'''
+| party1 = Panameñista Party
+| popular_vote1 = '''724,762'''
+| percentage1 = '''39.09%'''
+
+| image2 = Jose Domingo Arias (2013) 4x3 Cropped.jpg
+| nominee2 = [[José&nbsp;Domingo&nbsp;Arias]]
+| running_mate2 = [[Marta Linares de Martinelli]]
+| party2 = Democratic Change (Panama)
+| popular_vote2 = 581,828
+| percentage2 = 31.38%
+
+| image3 = Juan Carlos Navarro (2013) 3x4 Cropped.png
+| nominee3 = [[Juan Carlos Navarro (politician)|Juan&nbsp;Carlos&nbsp;Navarro]]
+| running_mate3 = Gerardo Solís
+| party3 = Democratic Revolutionary Party
+| popular_vote3 = 521,842
+| percentage3 = 28.14%
+
+| map_image = Elecciones_Panamá_Resultados_2014.png
+| map_caption = Results by province
+
+| title = [[President of Panama|President]]
+| before_election = [[Ricardo Martinelli]]
+| before_party = Democratic Change (Panama)
+| after_election = [[Juan Carlos Varela]]
+| after_party = Panameñista Party
+}}}}{{Politics of Panama}}
+
+General elections were held in [[Panama]] on 4 May 2014.<ref>[https://www.electionguide.org/countries/id/167/ Panama] IFES</ref> Due to [[Constitution of Panama|constitutional term limits]], [[Incumbent]] [[President of Panama|President]] [[Ricardo Martinelli]] was ineligible for a second consecutive term. [[Vice President of Panama|Incumbent Vice President]] [[Juan Carlos Varela]] of the [[Panameñista Party|Partido Panameñista]] won the election with 39% of the votes.<ref>{{cite news|title=Vice President Juan Carlos Varela wins Panama's presidential race, topping field of 7|url=https://www.usnews.com/news/world/articles/2014/05/04/panamanians-vote-in-tight-presidential-election|newspaper=U.S. News|date=4 May 2014}}</ref>
+
+==Electoral system==
+Of the 71 members of the [[National Assembly (Panama)|National Assembly]], 26 were elected in single-member constituencies and 45 by proportional representation in multi-member constituencies. Each [[Districts of Panama|district]] with more than 40,000 inhabitants forms a constituency. Constituencies elect one MP for every 30,000 residents and an additional representative for every fraction over 10,000.<ref name=IPU>[http://www.ipu.org/parline-e/reports/2245_B.htm Electoral system] IPU</ref>
+
+In single-member constituencies MPs are elected using the [[first-past-the-post voting|first-past-the-post system]]. In multi-member constituencies MPs are elected using party list [[proportional representation]] according to a double quotient; the first allocation of seats uses a simple quotient, further seats are allotted using the quotient divided by two, with any remaining seats are awarded to the parties with the greatest remainder.<ref name=IPU/>
+
+==Presidential candidates==
+Seven candidates contested the election:<ref>[https://www.electionguide.org/elections/id/2319/ Panama] IFES</ref>
+*[[José Domingo Arias]] – [[Democratic Change (Panama)|Cambio Democrático]] (CD), a former minister in Martinelli's government
+*[[Juan Carlos Navarro (politician)|Juan Carlos Navarro]] - [[Democratic Revolutionary Party]] (PRD), former mayor of [[Panama City]]
+*[[Juan Carlos Varela]] - [[Panameñista Party]], incumbent Vice President
+*[[Genaro López]] - [[Broad Front for Democracy]] (FAD), former General Secretary of the [[SUNTRACS]] union
+*Juan Jované - Independent, former head of the Social Security administration, and a [[left-wing]] economist
+*Esteban Rodríguez - Independent
+*Gerardo Barroso - Independent
+
+==Opinion polls==
+{| class="wikitable sortable" style=text-align:center
+|- style="background:lightgrey;"
+!Poll source
+!Date
+!José Domingo Arias<br />([[Democratic Change (Panama)|CD]])
+!Juan Carlos Navarro<br />([[Democratic Revolutionary Party|PRD]])
+!Juan Carlos Varela<br />([[Panameñista Party|Panameñista]])
+|-
+| align="left" |Dichter & Neira<ref name=":0">{{Cite web|url = https://www.as-coa.org/blogs/poll-update-panamas-ruling-party-candidate-ahead-possible-close-race|title = Poll Update: Panama's Ruling-Party Candidate ahead in Possible Close Race|date = 28 March 2014|last = Zissis|first = Carin|website = Americas Society / Council of the Americas}}</ref>
+| March 2014
+| '''39%'''
+| 32%
+| 26%
+|-
+| align="left" |Ipsos<ref name=":0" />
+| March 2014
+| '''33%'''
+| 31%
+| 26%
+|-
+| align="left" |Dichter & Neira<ref name=":1">{{Cite web|url = http://www.tvn-2.com/Decision2014/Paginas/encuesta_tvn.aspx|title = Intención de Voto Presidencial - Encuesta TVN y Dichter & Neira|date = 23 April 2014|website = TVN Noticias Panamá|url-status = dead|archiveurl = https://web.archive.org/web/20140503165906/http://www.tvn-2.com/Decision2014/Paginas/encuesta_tvn.aspx|archivedate = 3 May 2014}}</ref>
+| 23 April 2014
+| '''35%'''
+| 30%
+| 32%
+|-
+| align="left" |Ipsos<ref name=":2">{{Cite web|url = http://www.telemetro.com/panamaopina/panama_opina-23_abril-2014_14_691270867.html#.U2TT74F5MXs|title = Panamá Opina - Telemetro Reporta|date = 23 April 2014|website = Telemetro Reporta|access-date = 3 May 2014|archive-date = 28 April 2014|archive-url = https://web.archive.org/web/20140428024751/http://www.telemetro.com/panamaopina/panama_opina-23_abril-2014_14_691270867.html#.U2TT74F5MXs|url-status = dead}}</ref>
+| 23 April 2014
+| 33.9%
+| '''34.2%'''
+| 29.1%
+|}
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Juan Carlos Varela]]|alliance1=The People First|aspan1=3|party1=[[Panameñista Party]]|votes1=563584|acolor1={{party color|Panameñista Party}}
+|party2=[[People's Party (Panama)|People's Party]]|votes2=161178
+|atotal3=724762
+|cand4=[[José Domingo Arias]]|alliance4=United for Change|aspan4=3|party4=[[Democratic Change (Panama)|Democratic Change]]|votes4=483309|acolor4={{party color|Democratic Change (Panama)}}
+|party5=[[Nationalist Republican Liberal Movement]]|votes5=98519
+|atotal6=581828
+|cand7=[[Juan Carlos Navarro (politician)|Juan Carlos Navarro]]|alliance7=[[Democratic Revolutionary Party]]|votes7=521842
+|cand8=[[Genaro López]]|alliance8=[[Broad Front for Democracy]]|votes8=11127
+|cand9=Juan Jované|alliance9=Independent|votes9=10805
+|cand10=Esteban Rodríguez|alliance10=Independent|votes10=2240
+|cand11=Gerardo Barroso|alliance11=Independent|votes11=1598
+|invalid=32106
+|electorate=2457401
+|source=[https://www.tribunal-electoral.gob.pa/wp-content/uploads/2017/07/Cuadro_01_-_Presidente.pdf Election Tribunal], [https://www.tribunal-electoral.gob.pa/wp-content/uploads/2017/07/Cuadro_02_-_Presidente.pdf Electoral Tribunal]
+}}
+
+===National Assembly===
+{{Election results
+|image=[[File:Panamanian Assembly 2014.svg]]
+|party1=[[Democratic Change (Panama)|Democratic Change]]|votes1=573603|seats1=30|sc1=+16
+|party2=[[Democratic Revolutionary Party]]|votes2=535747|seats2=25|sc2=–1
+|party3=[[Panameñista Party]]|votes3=343880|seats3=12|sc3=–10
+|party4=[[Nationalist Republican Liberal Movement]]|votes4=121815|seats4=2|sc4=0
+|party5=[[People's Party (Panama)|People's Party]]|votes5=56629|seats5=1|sc5=0
+|party6=[[Broad Front for Democracy]]|votes6=17224|seats6=0|sc6=New
+|party7=Independents|votes7=52184|seats7=1|sc7=–1
+|invalid=146718
+|total_sc=0
+|electorate=2457401
+|source=[http://www.tribunal-electoral.gob.pa/html/fileadmin/user_upload/Elecciones/elecciones-2014/Cuadro_07_-_Diputado_Curules.pdf Election Tribunal]
+}}
+
+Although Democratic Change won 30 seats and MOLIRENA two, rival candidates in 10 of the circuits won by CD and 1 of those won by MOLIRENA said there were irregularities throughout the elections that favored the winning parties. As such, the '''Electoral Tribunal of Panama''' annulled the results in those circuits and new special elections were to be held every Sunday from 16 November 2014 to determine which candidate would win those 11 seats.
+
+{| class=wikitable
+|+Special election results
+|-
+! Election Date !! Circuit !! Candidate !! Party
+|-
+| 16 November 2014 || 7-1 || Carlos "Tito" Afú || Democratic Change (CD)
+|-
+| 23 November 2014 || 2-4 || Noriel Salerno || Democratic Change (CD)
+|-
+| 30 November 2014 || 7-2 || Mariela Vega || Democratic Change (CD)
+|-
+| 14 December 2014 || 4-1 || Miguel Fanovich || Nationalist Republican Liberal Movement (MOLIRENA)
+|-
+| 14 December 2014 || 4-1 || Florentino Ábrego || Panameñista Party
+|}
+
+==References==
+{{reflist}}
+
+{{Panamanian elections}}
+
+[[Category:2014 elections in Central America|Panama]]
+[[Category:Elections in Panama]]
+[[Category:2014 in Panama]]
+[[Category:Presidential elections in Panama]]
+[[Category:May 2014 in North America]]

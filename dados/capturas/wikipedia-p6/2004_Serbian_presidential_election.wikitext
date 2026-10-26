@@ -1,0 +1,93 @@
+{{Short description|none}}
+{{Infobox election
+| country = Serbia
+| flag_year = 1991
+| type = presidential
+| previous_election = 2003 Serbian presidential election
+| previous_year = 2003
+| next_election = 2008 Serbian presidential election
+| next_year = 2008
+| election_date = 13 June 2004 (first round)<br />27 June 2004 (second round)
+| turnout = 48.35 ({{increase}} 9.56 [[percentage point|pp]])
+| image1 = Boris Tadic.jpg
+| candidate1 = '''[[Boris Tadić]]'''
+| party1 = Democratic Party (Serbia)
+| popular_vote1 = '''1,681,528'''
+| percentage1 = '''53.97%'''
+| image2 = Tomislav Nikolić 2 (cropped).jpg
+| candidate2 = [[Tomislav Nikolić]]
+| party2 = Serbian Radical Party
+| popular_vote2 = 1,434,068
+| percentage2 = 46.03%
+| map = [[File:2004 Serbian Presidential Election.svg|250px]]
+| map_caption = Results by district<br>'''Tadić''': {{legend0|#ffe15c|50–60%}} {{legend0|#ffda33|60–70%}} {{legend0|#ffd20a|70–80%}}<br>'''Nikolić''' {{legend0|#6ab6dc|50–60%}} {{legend0|#49a6d4|60–70%}}
+| title = President
+| before_election = [[Predrag Marković]] (acting)
+| before_party = G17 Plus
+| after_election = [[Boris Tadić]]
+| after_party = Democratic Party (Serbia)
+}}{{Politics of Serbia}}
+
+Presidential elections were held in the [[Republic of Serbia (1990–2006)|Republic of Serbia]] on Sunday, 13 June 2004. As no candidate received a majority of the vote, a second round was held on Sunday, 27 June. [[Boris Tadić]], the pro-western [[Democratic Party (Serbia)|Democratic Party]]'s candidate, was the eventual victor with 54% of the vote.
+
+==Candidates==
+*'''[[Boris Tadić]]''', [[Democratic Party (Serbia)|Democratic Party]] (advanced to second round)
+*[[Tomislav Nikolić]], [[Serbian Radical Party]] (advanced to second round)
+
+----
+
+*[[Dragan Maršićanin]], [[Democratic Party of Serbia]]
+*[[Bogoljub Karić]], [[Strength of Serbia Movement]]
+*[[Ivica Dačić]], [[Socialist Party of Serbia]]
+*[[Princess Elizabeth of Yugoslavia]]
+*[[Vladan Batić]], [[Democratic Christian Party of Serbia]]
+*[[Borislav Pelević]], [[Party of Serbian Unity]]
+*[[Branislav Ivković]], [[Socialist People's Party (Serbia)|Socialist People's Party]]
+*[[Zoran Milinković (politician)|Zoran Milinković]], [[Patriots of Serbian Diaspora]]
+*[[Marijan Rističević]], [[People's Peasant Party]]
+*[[Ljiljana Aranđelović]], [[United Serbia]]
+*Dragan Đorđević, [[Party of Serbian Citizens]]
+*[[Milovan Drecun]], [[Serbian Revival]]
+*[[Mirko Jović]], [[People's Radical Party]]
+
+The surprise of this election was the success shown by one of the wealthiest businessmen in Serbia, Bogoljub Karić. The Government's candidate, Dragan Maršićanin, finished in 4th place, which opened the question of new parliamentary elections in Serbia.
+
+In the second round, the democratic candidate Boris Tadić gained the support of every government party as well as of Bogoljub Karić.
+
+==Results==
+{{Election results
+|cand1=[[Tomislav Nikolić]]|party1=[[Serbian Radical Party]]|votes1=954339|votes1_2=1434068
+|cand2=[[Boris Tadić]]|party2=[[Democratic Party (Serbia)|Democratic Party]]|votes2=853584|votes2_2=1681528
+|cand3=[[Bogoljub Karić]]|party3=Citizens' Group<ref>Karić was the leader of the [[Strength of Serbia Movement]].</ref>|votes3=568691
+|cand4=[[Dragan Maršićanin]]|party4=[[Democratic Party of Serbia|DSS]]–[[G17 Plus]]–[[Serbian Renewal Movement|SPO]]–[[New Serbia (political party)|NS]]|votes4=414971
+|cand5=[[Ivica Dačić]]|party5=[[Socialist Party of Serbia]]|votes5=125952
+|cand6=[[Princess Elizabeth of Yugoslavia|Jelisaveta Karađorđević]]|party6=Citizens' Group: ''Initiative for a More Beautiful Serbia''|votes6=62737
+|cand7=[[Milovan Drecun]]|party7=Serbian Revival|votes7=16907|color7=#436B95
+|cand8=[[Vladan Batić]]|party8=[[Christian Democratic Party of Serbia|Christian Democratic Party]]|votes8=16795
+|cand9=[[Borislav Pelević]]|party9=[[Party of Serbian Unity]]|votes9=14317
+|cand10=[[Branislav Ivković]]|party10=[[Socialist People's Party (Serbia)|Socialist People's Party]]|votes10=13980
+|cand11=[[Ljiljana Aranđelović]]|party11=[[United Serbia]]|votes11=11796
+|cand12=[[Marijan Rističević]]|party12=[[People's Peasant Party]]|votes12=10198
+|cand13=Dragan Đorđević|party13=Party of Serbian Citizens|votes13=5785|color13=royalblue
+|cand14=[[Mirko Jović]]|party14=[[People's Radical Party (1990)|People's Radical Party]], Serbia and Diaspora, European Blok|votes14=5546|color14={{party color|People's Radical Party}}
+|cand15=[[Zoran Milinković (politician)|Zoran Milinković]]|party15=Patriotic Party of Diaspora|votes15=5442|color15=#002366
+|invalid=38047|invalid2=42975
+|electorate=6532263|electorate2=6532940
+|source=[http://arhiva.rik.parlament.gov.rs/doc/arhiva/predsednik/2004/izbori%20predsednik%202004.pdf RIK]
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20101221213801/http://www.rik.parlament.gov.rs/index_e.htm Serbian Electoral Commission]
+*{{usurped|1=[https://web.archive.org/web/20050408210255/http://www.cesid.org/english/ Centre for Free Elections and Democracy]}}
+
+{{Serbian elections}}
+
+[[Category:Presidential elections in Serbia]]
+[[Category:2004 elections in Europe|Serbia]]
+[[Category:Elections in Serbia and Montenegro]]
+[[Category:June 2004 in Europe|Serbia]]
+[[Category:2000s elections in Serbia]]
+[[Category:2004 in Serbia]]

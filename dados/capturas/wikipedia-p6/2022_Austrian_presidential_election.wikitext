@@ -1,0 +1,644 @@
+{{short description|none}}
+{{Infobox election
+| country = Austria
+| type = presidential
+| flag_year = state
+| previous_election = 2016 Austrian presidential election
+| previous_year = 2016
+| next_year = 2028
+| next_election = 2028 Austrian presidential election
+| election_date = 9 October 2022
+| turnout = 65.19% ({{decrease}}3.31pp)
+| image_size = 130x130px
+
+| image1 = Alexander Van der Bellen (13-07-2021) (cropped) (cropped).jpg
+| color1 = 88B626
+| candidate1 = '''[[Alexander Van der Bellen]]'''
+| party1 = [[Independent politician|Independent]] ([[The Greens - The Green Alternative|Greens]])
+| popular_vote1 = '''2,299,590'''
+| percentage1 = '''56.69%'''
+
+| image2 = Walter Rosenkranz (cropped).jpg
+| candidate2 = [[Walter Rosenkranz]]
+| party2 = Freedom Party of Austria
+| popular_vote2 = 717,097
+| percentage2 = 17.68%
+
+| image3 = Marco Pogo in Graz.3 (cropped) (cropped).jpg
+| candidate3 = [[Dominik Wlazny]]
+| party3 = The Beer Party (Austria)
+| popular_vote3 = 337,010
+| percentage3 = 8.31%
+
+| image4 = 3x4.svg
+| candidate4 = [[Tassilo Wallentin]]
+| party4 = Independent politician
+| popular_vote4 = 327,214
+| percentage4 = 8.07%
+
+| image5 = Geraldgrosz (cropped).jpg
+| candidate5 = [[Gerald Grosz]]
+| party5 = Independent politician
+| popular_vote5 = 225,942
+| percentage5 = 5.57%
+
+| map_image = 2022_Austrian_presidential_election.svg
+| map_size =
+| map_caption =
+
+| title = [[President of Austria|President]]
+| before_election = [[Alexander Van der Bellen]]
+| before_party = The Greens – The Green Alternative
+| after_election = [[Alexander Van der Bellen]]
+| after_party = The Greens – The Green Alternative
+}}{{Politics of Austria}}
+
+Presidential elections were held in [[Austria]] on 9 October 2022.<ref>{{Cite web |date=2022-06-26 |title=9. Oktober: Termin für Hofburg-Wahl steht |url=https://orf.at/stories/3273108/ |access-date=2022-06-30 |website=news.ORF.at |language=de |archive-date=2022-06-27 |archive-url=https://web.archive.org/web/20220627082554/https://orf.at/stories/3273108/ |url-status=live }}</ref> Incumbent [[Alexander Van der Bellen]] from the [[The Greens – The Green Alternative|Greens]] was eligible for one more term and ran for re-election.<ref>{{Cite web|title=The Federal President|url=https://www.austria.org/the-federal-president|access-date=2021-08-29|website=Austrian Embassy Washington|language=en-US|archive-date=2021-08-14|archive-url=https://web.archive.org/web/20210814141124/https://www.austria.org/the-federal-president|url-status=live}}</ref> About 6.36 million voting-age citizens were eligible to vote.
+
+Final results showed that Van der Bellen was re-elected in the first round with 57% of the vote. Van der Bellen won in all of the 116 administrative districts of Austria. [[Carinthia]] was the only state in which he finished below 50% of the vote. [[Freedom Party of Austria]] (FPÖ) candidate [[Walter Rosenkranz]] placed second with 18% of the votes, far short of what his party colleague [[Norbert Hofer]] received in 2016. Three other right-wing candidates ([[Tassilo Wallentin]], [[Gerald Grosz]] and Michael Brunner) tapped into the FPÖ voter pool and kept Rosenkranz below 20%. In third place – the best independent candidate without the backing of a parliamentary party – was artist, entrepreneur and medical doctor [[Dominik Wlazny]] ("Marco Pogo") from the [[The Beer Party (Austria)|Beer Party]] with 8% of the votes. In Vienna, Wlazny finished second behind Van der Bellen and ahead of Rosenkranz.<ref>{{cite web|url=https://www.dw.com/en/austria-elections-van-der-bellen-set-to-win-presidential-race/a-63382240|title=Austria elections: Van der Bellen set to win presidential race|date=9 October 2022|website=[[Deutsche Welle]]|access-date=10 October 2022|archive-date=10 October 2022|archive-url=https://web.archive.org/web/20221010001939/https://www.dw.com/en/austria-elections-van-der-bellen-set-to-win-presidential-race/a-63382240|url-status=live}}</ref><ref>{{cite web|url=https://orf.at/stories/3288917/|title=Re-elected Van der Bellen: "Grateful for avoiding the runoff"|date=9 October 2022|language=de|website=[[ORF (broadcaster)|ORF]]|access-date=10 October 2022|archive-date=10 October 2022|archive-url=https://web.archive.org/web/20221010000533/https://orf.at/stories/3288917/|url-status=live}}</ref> 
+
+Had no candidate received a majority of valid votes cast, a runoff would have been held on 6 November.<ref>{{Cite web |last=Kabelka |first=Laura |date=2022-06-28 |title=Austrian presidential candidate pool offers establishment alternatives |url=https://www.euractiv.com/section/politics/short_news/austrian-presidential-candidate-pool-offers-establishment-alternatives/ |access-date=2022-06-30 |website=www.euractiv.com |language=en-GB |archive-date=2022-06-29 |archive-url=https://web.archive.org/web/20220629170447/https://www.euractiv.com/section/politics/short_news/austrian-presidential-candidate-pool-offers-establishment-alternatives/ |url-status=live }}</ref>
+
+==Electoral system==
+The [[President of Austria]] is directly elected for a six-year term by the [[two-round system]]; if no candidate receives more than 50% of valid votes cast in the first round, then a second ballot occurs in which only those two candidates who received the greatest number of votes in the first round may stand.<ref name="BMI"/> The [[Constitution of Austria|constitution]] grants the president the power to appoint the [[Chancellor of Austria|Chancellor]] and, by extension, federal cabinet ministers, Supreme Court justices, military officers, and most major bureaucrats. The president may dissolve the [[National Council (Austria)|National Council]]. In practice, however, the president acts as a [[figurehead]].
+
+Austrian citizens who have reached the age of 16 by the end of the day of the election and who are not excluded from voting by a judicial conviction are entitled to vote. For the right to stand for election, the completion of the 35th year is required. As a prerequisite for running as a candidate for Federal President, at least 6.000 declarations of support (= valid signatures of eligible voters) must be submitted to the federal electoral authority set up at the Ministry of the Interior together with the formal candidate declaration. At the same time, a candidate fee of €3.600 must be paid. Potential candidates were able to start collecting and submitting signatures on 9 August 2022 ("Stichtag"). The last deadline for submission was the 37th day before the election day (2 September 2022) at 17:00. The Federal Election Commission at the Interior Ministry announced the official list of qualified candidates on 7 September 2022, after verification of the submitted signatures and other required documents.
+
+== Date ==
+Up until 2016, presidential elections were held during spring – but because the [[2016 Austrian presidential election|2016 election]] runoff had to be repeated in December by Constitutional Court order, the date of the next election in 2022 was pushed back by about half a year as well. The exact date for the new election will be set by a joint parliamentary commission during spring/summer 2022 and the election must be held roughly three months after that date was set because of calendar reasons/deadlines.<ref name="BMI">{{cite web|url=https://www.bmi.gv.at/412/Bundespraesidentenwahlen/|title=Federal presidential election, overview|access-date=3 December 2021|language=de|website=[[Ministry of the Interior (Austria)|Federal Ministry of the Interior]]|archive-date=3 December 2021|archive-url=https://web.archive.org/web/20211203094824/https://www.bmi.gv.at/412/Bundespraesidentenwahlen/|url-status=live}}</ref> There is no definitive date as to when the election can take place in 2022, the only requirement is that the President-elect has to be sworn in by 26 January 2023. However, it has never happened that Austrian elections were scheduled for Christmas or New Year (or during summer school holidays between early July and mid-September), which means that – according to media consensus – it will definitely happen in 2022, most likely during the fall. On 26 June 2022, the Austrian government announced that 9 October 2022 was selected as election day, with a runoff on 6 November 2022 if needed.
+
+== Candidates ==
+[[File:Ballot paper - Austrian presidential election 2022 first ballot.png|thumb|right|200px|Ballot paper for the first round of voting]]
+===Candidates on the ballot===
+*{{ill|Michael Brunner (politician)|lt=Michael Brunner|de|Michael Brunner (Politiker, 1960)}} – lawyer, [[MFG Austria – People Freedom Fundamental Rights|MFG]] party leader
+*[[Gerald Grosz]] – TV commentator, businessman, author and former chairman of the [[Alliance for the Future of Austria|BZÖ]] (2013–2015)<ref>{{cite web|url=https://orf.at/stories/3272204/|title=Hofburg-Wahl: Grosz kandidiert|date=21 June 2022|language=de|website=orf.at|access-date=21 June 2022|archive-date=21 June 2022|archive-url=https://web.archive.org/web/20220621100737/https://orf.at/stories/3272204/|url-status=live}}</ref>
+*[[Walter Rosenkranz]] – [[Ombudsman]] of the National Council, former [[FPÖ]] member of the National Council, former FPÖ group leader in the National Council, former leader of the [[Lower Austria]] FPÖ<ref>{{cite web|url=https://orf.at/stories/3275830/|title=BP-Wahl: Kickl schlug angeblich Walter Rosenkranz vor|date=12 July 2022|language=de|website=orf.at|access-date=12 July 2022|archive-date=12 July 2022|archive-url=https://web.archive.org/web/20220712170324/https://orf.at/stories/3275830/|url-status=live}}</ref>
+*{{ill|Heinrich Staudinger|de}} – business owner, shoe manufacturer
+*[[Alexander Van der Bellen]] – President of Austria (2017–present), former party leader of [[The Greens – The Green Alternative|The Greens]] (1997–2008)
+*[[Tassilo Wallentin]] – lawyer, columnist and author<ref>{{cite web|url=https://www.oe24.at/oesterreich/politik/fpoe-will-krone-kolumnist-wallentin-als-hofburg-kandidat/521342104|title=FPÖ will Krone-Kolumnist Wallentin als Hofburg-Kandidat|date=8 June 2022|language=de|website=oe24.at|access-date=8 June 2022|archive-date=8 June 2022|archive-url=https://web.archive.org/web/20220608154723/https://www.oe24.at/oesterreich/politik/fpoe-will-krone-kolumnist-wallentin-als-hofburg-kandidat/521342104|url-status=live}}</ref>
+*[[Dominik Wlazny]] (alias Marco Pogo) – medical doctor and frontman of {{ill|Turbobier|de}}, leader of the [[The Beer Party (Austria)|Beer Party]] (2014–present)<ref>{{cite web|url=https://wien.orf.at/stories/3127050/|title=Marco Pogo will Bundespräsident werden|date=23 October 2021|language=de|website=[[ORF (broadcaster)|ORF]]|access-date=23 October 2021|archive-date=23 October 2021|archive-url=https://web.archive.org/web/20211023175847/https://wien.orf.at/stories/3127050/|url-status=live}}</ref>
+<gallery mode="packed" heights="130">
+File:Geraldgrosz.jpg|{{center|[[Gerald Grosz]]}}
+File:Walter Rosenkranz.jpg|{{center|[[Walter Rosenkranz]]}}
+File:BürgerrechtstattBankenrechtWien04 (cropped).jpg|{{center|{{ill|Heinrich Staudinger|de}}}}
+File:Alexander Van der Bellen (13-07-2021) (cropped).jpg|{{center|[[Alexander Van der Bellen]]}}
+File:Marco Pogo in Graz.2.jpg|{{center|[[Dominik Wlazny]] (Marco Pogo)}}
+</gallery>
+
+===Earlier candidate speculation===
+President of the National Council [[Wolfgang Sobotka]] of the ÖVP has ruled out running.<ref>{{cite web |date=9 February 2020 |title=Federal President: Sobotka does not want to run for office |url=https://orf.at/stories/3153687/ |website=[[ORF (broadcaster)|ORF]] |language=de |access-date=3 December 2021 |archive-date=3 December 2021 |archive-url=https://web.archive.org/web/20211203094827/https://orf.at/stories/3153687/ |url-status=live }}</ref>
+
+The SPÖ was previously undecided about whether they should run a candidate.<ref>{{cite web |date=30 November 2020 |title=Federal President: Too early to make a decision, say SPÖ state associations |url=https://orf.at/stories/3191821/ |website=[[ORF (broadcaster)|ORF]] |language=de |access-date=3 December 2021 |archive-date=3 December 2021 |archive-url=https://web.archive.org/web/20211203094824/https://orf.at/stories/3191821/ |url-status=live }}</ref> In November 2020, federal chairwoman [[Pamela Rendi-Wagner]] stressed that a decision had not been made, but noted that the SPÖ has never challenged an incumbent president. She also ruled out running herself.<ref>{{cite web |date=13 December 2020 |title="Not in the life plan" Rendi-Wagner rules out Hofburg candidacy |url=https://www.kleinezeitung.at/politik/innenpolitik/5910944/ |website=[[Kleine Zeitung]] |language=de |access-date=3 December 2021 |archive-date=3 December 2021 |archive-url=https://web.archive.org/web/20211203094829/https://www.kleinezeitung.at/politik/innenpolitik/5910944/ |url-status=live }}</ref> Second President of the National Council [[Doris Bures]] and Mayor of Vienna [[Michael Ludwig]] both stated that the party should support Van der Bellen if he chooses to run for a second term.<ref>{{cite web |date=28 November 2020 |title=Hofburg 2022: SPÖ is considering supporting Van der Bellen |url=https://kurier.at/politik/inland/hofburg-2022-spoe-ueberlegt-van-der-bellen-zu-unterstuetzen/401112618 |website=[[Kurier]] |language=de |access-date=3 December 2021 |archive-date=3 December 2021 |archive-url=https://web.archive.org/web/20211203094822/https://kurier.at/politik/inland/hofburg-2022-spoe-ueberlegt-van-der-bellen-zu-unterstuetzen/401112618 |url-status=live }}</ref><ref>{{cite web |date=27 March 2021 |title=Hofburg candidacy Ludwig: SPÖ should support Van der Bellen |url=https://www.kleinezeitung.at/politik/innenpolitik/5957920/ |website=[[Kleine Zeitung]] |language=de |access-date=3 December 2021 |archive-date=3 December 2021 |archive-url=https://web.archive.org/web/20211203094822/https://www.kleinezeitung.at/politik/innenpolitik/5957920/ |url-status=live }}</ref> Tyrolean branch leader Georg Dornauer suggested that Bures herself should stand for election, even if Van der Bellen runs again.<ref>{{cite web |date=28 December 2020 |title=Dornauer for Bures as the SPÖ's Hofburg candidate |url=https://www.oe24.at/oesterreich/politik/dornauer-fuer-bures-als-hofburg-kandidatin-der-spoe/459151736 |website=[[Österreich (newspaper)|Österreich]] |language=de |access-date=3 December 2021 |archive-date=3 December 2021 |archive-url=https://web.archive.org/web/20211203100324/https://www.oe24.at/oesterreich/politik/dornauer-fuer-bures-als-hofburg-kandidatin-der-spoe/459151736 |url-status=live }}</ref>
+
+[[Norbert Hofer]] of the [[Freedom Party of Austria]] (FPÖ), who was runner-up to Van der Bellen in 2016, has made conflicting statements about his intention to seek the presidency for a second time. In 2018, he stated that he plans to run in 2022.<ref>{{cite web |date=14 October 2018 |title=Hofer wants to run for president again in 2022 |url=https://www.derstandard.at/story/2000089321974/hofer-will-2022-noch-einmal-bundespraesident-werden |website=[[Der Standard]] |language=de |access-date=3 December 2021 |archive-date=3 December 2021 |archive-url=https://web.archive.org/web/20211203094822/https://www.derstandard.at/story/2000089321974/hofer-will-2022-noch-einmal-bundespraesident-werden |url-status=live }}</ref> In 2020, he stated that he would not run if Van der Bellen sought re-election, but that he would if [[Rudolf Anschober]] was the Greens nominee.<ref>{{cite web |date=17 August 2020 |title=Hofer in the "summer talk": FPÖ will not challenge the Vienna election |url=https://orf.at/stories/3177814/ |website=[[ORF (broadcaster)|ORF]] |language=de |access-date=3 December 2021 |archive-date=3 December 2021 |archive-url=https://web.archive.org/web/20211203094825/https://orf.at/stories/3177814/ |url-status=live }}</ref> Anschober himself subsequently ruled out running.<ref>{{cite web |date=21 August 2020 |title=Anschober does not want to become president and names four factors for corona traffic lights |url=https://www.derstandard.at/story/2000119518080/anschober-will-nicht-bundespraesident-werden-und-nennt-vier-faktoren-fuer |website=[[Der Standard]] |language=de |access-date=3 December 2021 |archive-date=3 December 2021 |archive-url=https://web.archive.org/web/20211203094823/https://www.derstandard.at/story/2000119518080/anschober-will-nicht-bundespraesident-werden-und-nennt-vier-faktoren-fuer |url-status=live }}</ref> In February 2021, Hofer said it was "not unlikely" that he would run, and that he would make the decision a year in advance of the election.<ref>{{cite web |date=2 February 2021 |title=Hofer: "Not unlikely that I will compete" |url=https://www.krone.at/2332482 |website=[[Kronen Zeitung]] |language=de |access-date=3 December 2021 |archive-date=3 December 2021 |archive-url=https://web.archive.org/web/20211203094823/https://www.krone.at/2332482 |url-status=live }}</ref> After Hofer's resignation as party leader in June, he stated he was unsure whether he would run for president. His successor [[Herbert Kickl]] voiced his confidence that Hofer would still run, however.<ref>{{cite web |date=9 June 2021 |title="I will stay 3rd President of the National Council" |url=https://www.puls24.at/news/politik/kickl-im-puls-24-interview-identitaere-seien-unterstuetzenswertes-projekt/236299 |website=Puls24.at |language=de |access-date=3 December 2021 |archive-date=3 December 2021 |archive-url=https://web.archive.org/web/20211203100330/https://www.puls24.at/news/politik/kickl-im-puls-24-interview-identitaere-seien-unterstuetzenswertes-projekt/236299 |url-status=live }}</ref> On 13 May 2022, Hofer declared that he would not run for president in the election.<ref>{{cite web |date=13 May 2022 |title="Hofer will heuer nicht bei Hofburg-Wahl antreten" |url=https://orf.at/stories/3265619/ |website=orf.at |language=de |access-date=13 May 2022 |archive-date=13 May 2022 |archive-url=https://web.archive.org/web/20220513202806/https://orf.at/stories/3265619/ |url-status=live }}</ref>
+
+==Campaign==
+===Early campaign===
+[[File:Wien - Hofburg, Leopoldinischer Trakt.JPG|thumb|right|200px|The official residence of the Austrian President since 1946: The ''Leopoldine Wing'' of the [[Hofburg#Leopoldine Wing|Hofburg]] in Vienna.]]
+On 22 May 2022, President [[Alexander Van der Bellen]] announced his candidacy for re-election.<ref>{{cite web |date=22 May 2022 |title=Van der Bellen kandidiert erneut |url=https://orf.at/stories/3267238/ |website=orf.at |language=de |access-date=22 May 2022 |archive-date=22 May 2022 |archive-url=https://web.archive.org/web/20220522141939/https://orf.at/stories/3267238/ |url-status=live }}</ref> Opinion polls indicate high approval ratings for President Van der Bellen. A May 2022 survey showed that 63% of voters are satisfied or very satisfied with Van der Bellen's presidency.<ref>{{cite web |date=22 May 2022 |title=Wiederkandidatur: Van der Bellen startet mit 63 Prozent in den Wahlkampf |url=https://kurier.at/politik/inland/wiederkandidatur-van-der-bellen-startet-mit-63-prozent-in-den-wahlkampf/402016524 |website=kurier.at |language=de |access-date=22 May 2022 |archive-date=22 May 2022 |archive-url=https://web.archive.org/web/20220522143924/https://kurier.at/politik/inland/wiederkandidatur-van-der-bellen-startet-mit-63-prozent-in-den-wahlkampf/402016524 |url-status=live }}</ref> Another poll at the end of May had his approval rating at 59%, with 34% disapproving.<ref>{{cite web |date=30 May 2022 |title=Den Blauen ist Van der Bellen nicht grün genug |url=https://www.heute.at/s/den-blauen-ist-van-der-bellen-nicht-gruen-genug-100209477 |website=heute.at |language=de |access-date=11 June 2022 |archive-date=30 May 2022 |archive-url=https://web.archive.org/web/20220530043707/https://www.heute.at/s/den-blauen-ist-van-der-bellen-nicht-gruen-genug-100209477 |url-status=live }}</ref>
+
+The two major parties, the [[Austrian People's Party]] (ÖVP) and the [[Social Democratic Party of Austria]] (SPÖ), traditionally refrain from challenging a popular incumbent president if they choose to seek re-election. Following President Van der Bellen's announcement to run for re-election on 22 May 2022, the SPÖ announced that they will not run a candidate against him, instead they will actively endorse and support his campaign for re-election.<ref>{{cite web |date=22 May 2022 |title=Bundespräsident Van der Bellen tritt bei Wahl im Herbst erneut an |url=https://www.tt.com/artikel/30820993/spoe-will-bundespraesident-van-der-bellen-bei-wiederkandidatur-unterstuetzen |website=tt.com |language=de |access-date=22 May 2022 |archive-date=22 May 2022 |archive-url=https://web.archive.org/web/20220522132448/https://www.tt.com/artikel/30820993/spoe-will-bundespraesident-van-der-bellen-bei-wiederkandidatur-unterstuetzen |url-status=live }}</ref> 
+
+On 23 May 2022, the governing party ÖVP announced that they will not run a candidate on their own but did not endorse the candidacy of Van der Bellen for re-election, instead wishing him "all the best". The Governor of Tyrol, Günther Platter, endorsed Van der Bellen.<ref>{{cite web |date=23 May 2022 |title=Nehammer: "Es wird keinen ÖVP-Kandidaten geben" |url=https://www.krone.at/2715521 |website=krone.at |language=de |access-date=23 May 2022 |archive-date=23 May 2022 |archive-url=https://web.archive.org/web/20220523171659/https://www.krone.at/2715521 |url-status=live }}</ref>
+
+[[NEOS – The New Austria and Liberal Forum]] also announced on 22 May 2022 that they are endorsing and supporting Van der Bellen in his re-election effort.<ref>{{cite web |date=22 May 2022 |title=Van der Bellens zweite Kandidatur fix: So reagieren die Parteien |url=https://www.puls24.at/news/politik/van-der-bellens-zweite-kandidatur-fix-so-reagieren-die-parteien/265451 |website=puls24.at |language=de |access-date=22 May 2022 |archive-date=22 May 2022 |archive-url=https://web.archive.org/web/20220522153118/https://www.puls24.at/news/politik/van-der-bellens-zweite-kandidatur-fix-so-reagieren-die-parteien/265451 |url-status=live }}</ref> 
+
+[[The Greens – The Green Alternative]], of which Van der Bellen was a long-time leader, also endorsed Van der Bellen after his announcement to run for re-election.<ref>{{cite web |date=22 May 2022 |title=Breite Unterstützung für Van der Bellen |url=https://orf.at/stories/3267307/ |website=orf.at |language=de |access-date=23 May 2022 |archive-date=23 May 2022 |archive-url=https://web.archive.org/web/20220523062411/https://orf.at/stories/3267307/ |url-status=live }}</ref> While both the SPÖ and NEOS did not support Van der Bellen financially, the Green Party did so with at least €500,000 in campaign money.
+
+The opposition [[Freedom Party of Austria]] announced at an early stage that they will definitely run a candidate against Van der Bellen, while the new party [[MFG Austria – People Freedom Fundamental Rights]] said they are thinking about a candidacy against him. In June 2022, MFG party leader Michael Brunner announced his candidacy for president.
+
+=== Intensive campaign period ===
+[[File:P5650041 (52372790197).jpg|thumb|right|200px|President Alexander Van der Bellen at the United Nations in New York City on 20 September 2022, together with Austrian Chancellor Karl Nehammer and Austrian Foreign Minister Alexander Schallenberg]]
+After the announcement of the seven official candidates on 7 September, the intensive campaign period started. President Alexander Van der Bellen (Green Party) decided not to participate in any TV debates with his challengers, citing that the "integrity of the office should not be harmed" and "his predecessors as President who ran for re-election also did not participate in TV debates". Some of Van der Bellen's opponents, such as Walter Rosenkranz (FPÖ) and Gerald Grosz (Independent, ex-FPÖ, ex-BZÖ) attacked him for his refusal to debate them and called him a "coward". 
+
+President Van der Bellen instead focused on a billboard and Social Media campaign with slogans such as "The safe choice during stormy times." or "We are stronger together." or "You don't gamble with Austria." The President also used meetings with international leaders and visits to international organizations such as the United Nations in New York City to increase his profile ahead of the election and to appear statesmanlike.
+
+Walter Rosenkranz also ran several billboard and Social Media campaigns with slogans like "Let's take back our freedoms." or "Uncompromisingly for Austria." or "Serving in the interest of the people, not the elites and powerful." The FPÖ also repeatedly mocked President Van der Bellen as "Van der [[Biden]]".
+
+[[File:Marco Pogo in Graz.jpg|thumb|right|200px|Dominik Wlazny (alias Marco Pogo) campaigning in Graz on 23 September 2022]]
+Dominik Wlazny (alias Marco Pogo) from the Beer Party launched a Social Media parody ad, mocking the campaign team of Alexander Van der Bellen, insinuating that the Van der Bellen camp is "afraid of Wlazny and his proposals." Later, Wlazny launched several billboards in which he prioritizes the fight against child poverty, violence against women, better pay for women, a rise in pensions, more renewable energy, better animal rights protection and a mandatory skills test for new cabinet members.
+
+Gerald Grosz portrayed himself as a [[Donald Trump]]-style presidential candidate, wearing a red [[Make America Great Again|MAGA]] hat ("Make Austria Grosz Again"), with his last name Grosz resembling the German word "groß" for "great". Grosz attacked Van der Bellen and the Austrian ÖVP-Green government repeatedly for various failures on the [[Russian invasion of Ukraine]], the rising inflation and electricity prices etc. His main priority if elected President would be to dismiss the current Austrian government immediately, install a new cabinet of his own thinking, who would then call new parliamentary elections. His main campaign slogan is "Vote for Gerald Grosz and you get rid of Van der Bellen and the current government."
+
+Like Rosenkranz and Grosz, Tassilo Wallentin and Michael Brunner also hail from the [[Radical right (Europe)|radical right]]. In his editorials for the ''[[Kronen Zeitung]]'' before becoming an official candidate, Wallentin repeatedly wrote that immigration in general and requests for asylum must be limited to zero, especially from Muslim-majority countries and warned that Muslims will be close to a majority in Austria in 20 years.
+
+Brunner repeatedly warned of vaccination damages from COVID-19 vaccines and attacked the government on their policies during the pandemic. With the COVID-19 pandemic decreasing as a major topic during the campaign for president, Brunner followed the other candidates in focusing on rising inflation, electricity and gas prices. He said he favours the elimination of EU sanctions against Russia ("They are not working and harm the Austrian population.") and the full implementation of [[Declaration of Neutrality|Neutrality in Austria]] again, which in his opinion is currently not the case. He would also immediately dismiss the current Austrian government if elected president.
+
+Heinrich Staudinger calls for poverty reduction, pacifism and the decrease in military spending and the focus of the military on disaster aid rather than engaging in conflicts. He strongly opposes increasing military spending to 2-3% of GDP like candidates Grosz and Rosenkranz. He strongly advocates help for immigrants and asylum seekers (his shoe manufacturing company employs numerous immigrants) and supports regional production methods with natural products and in line with the environment. He strongly supports measures to protect the environment and climate. He was vaccination-sceptic during the Covid pandemic. As President, he would make his first official state trip to the [[Democratic Republic of Congo]].
+
+==Opinion polls==
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="3"| Polling firm
+! rowspan="3"| Fieldwork date
+! rowspan="3"| Sample<br>size
+! class="unsortable" | [[File:Alexander Van der Bellen (13-07-2021) (cropped).jpg|50x100px]]
+! class="unsortable" | [[File:Walter_Rosenkranz.jpg|50x100px]]
+! class="unsortable" | [[File:Turbobier (12) (cropped).jpg|50x100px]]
+! class="unsortable" | 
+! class="unsortable" | [[File:Geraldgrosz.jpg|50x100px]]
+! class="unsortable" |
+! class="unsortable" | [[File:BürgerrechtstattBankenrechtWien04 (cropped).jpg|50x100px]]
+! rowspan="3" class="unsortable" style="width:50px;"| Lead
+|-
+! class="unsortable" style="width:50px;"| [[Alexander Van der Bellen|Van der Bellen]]<br>{{small|[[The Greens – The Green Alternative|Greens]]}}
+! class="unsortable" style="width:50px;"| [[Walter Rosenkranz|Rosenkranz]]<br>{{small|[[Freedom Party of Austria|FPÖ]]}}
+! class="unsortable" style="width:50px;"| [[Marco Pogo|Wlazny]]<br>{{small|[[The Beer Party (Austria)|BIER]]}}
+! class="unsortable" style="width:50px;"| [[Tassilo Wallentin|Wallentin]]<br>{{small|[[Independent politician|Indep.]]}}
+! class="unsortable" style="width:50px;"| [[Gerald Grosz|Grosz]]<br>{{small|[[Independent politician|Indep.]]}}
+! class="unsortable" style="width:50px;"| [[Michael Brunner (politician)|Brunner]]<br>{{small|[[MFG Austria – People Freedom Fundamental Rights|MFG]]}}
+! class="unsortable" style="width:50px;"| [[Heinrich Staudinger|Staudinger]]<br>{{small|[[Independent politician|Indep.]]}}
+|-
+! style="background:{{party color|The Greens – The Green Alternative}};"|
+! style="background:{{party color|Freedom Party of Austria}};"|
+! style="background:{{party color|The Beer Party (Austria)}};"|
+! style="background:{{party color|Independent}};"|
+! style="background:{{party color|Independent}};"|
+! style="background:{{party color|MFG – Austria People – Freedom – Fundamental Rights}};"|
+! style="background:{{party color|Independent}};"|
+|-
+|[https://exxpress.at/umfrage-thriller-vor-hofburg-wahl-van-der-bellen-muss-bis-zur-letzten-minute-zittern/ INSA / eXXpress]
+|4–6 Oct 2022
+|1000
+|{{Party shading/Grüne}}|'''48.5'''
+|style="background:#e2f6fe;"|14.5
+|12.5
+|9
+|9
+|3
+|3.5
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|34
+|-
+|[https://kurier.at/politik/inland/hofburg-fuer-alexander-van-der-bellen-wird-es-nicht-arschknapp/402166605 OGM / Kurier]
+|23–28 Sep 2022
+|1702
+|{{Party shading/Grüne}}|'''58'''
+|16
+|8
+|9
+|5
+|3
+|1
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|42
+|-
+|[https://www.youtube.com/watch?v=Os6khHMszWk Market-Lazarsfeld / ÖSTERREICH]
+|26–27 Sep 2022
+|1000
+|{{Party shading/Grüne}}|'''56'''
+|16
+|9
+|8
+|6
+|3
+|2
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|40
+|-
+|[https://www.youtube.com/watch?v=tlCJHQ8gaoA Market-Lazarsfeld / ÖSTERREICH]
+|19–20 Sep 2022
+|1000
+|{{Party shading/Grüne}}|'''51'''
+|16
+|12
+|9
+|7
+|4
+|1
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|35
+|-
+|[https://www.profil.at/oesterreich/umfrage-zur-bundespraesidentenwahl-2022-van-der-bellens-vorsprung-geht-zurueck/402149514 Unique Research / Profil / Heute]
+|7–15 Sep 2022
+|1600
+|{{Party shading/Grüne}}|'''59'''
+|13
+|7
+|8
+|9
+|2
+|2
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|46
+|-
+|[https://www.oe24.at/oesterreich/politik/hofburgwahl/van-der-bellen-legt-zu-harter-fight-um-platz-2/530312467 Market-Lazarsfeld / ÖSTERREICH]
+|12–13 Sep 2022
+|1000
+|{{Party shading/Grüne}}|'''51'''
+|14
+|13
+|9
+|7
+|5
+|1
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|37
+|-
+|[https://www.oe24.at/oesterreich/politik/hofburgwahl/umfrage-van-der-bellen-erstmals-unter-50-prozent/529668174 Market-Lazarsfeld / ÖSTERREICH]
+|5–6 Sep 2022
+|1000
+|{{Party shading/Grüne}}|'''45'''
+|style="background:#e2f6fe;"|18
+|14
+|10
+|6
+|4
+|3
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|27
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Polling released before the announcement of official candidates on 7 September 2022|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="3"| Polling firm
+! rowspan="3"| Fieldwork date
+! rowspan="3"| Sample<br>size
+! class="unsortable" | [[File:Alexander Van der Bellen (13-07-2021) (cropped).jpg|50x100px]]
+! class="unsortable" | [[File:Walter_Rosenkranz.jpg|50x100px]]
+! class="unsortable" | [[File:Geraldgrosz.jpg|50x100px]]
+! class="unsortable" | [[File:Turbobier (12) (cropped).jpg|50x100px]]
+! class="unsortable" | 
+! class="unsortable" | 
+! rowspan="3" class="unsortable" style="width:50px;"| Others
+! rowspan="3" class="unsortable" style="width:50px;"| Lead
+|-
+! class="unsortable" style="width:50px;"| [[Alexander Van der Bellen|Van der Bellen]]<br>{{small|[[The Greens – The Green Alternative|Greens]]}}
+! class="unsortable" style="width:50px;"| [[Walter Rosenkranz|Rosenkranz]]<br>{{small|[[Freedom Party of Austria|FPÖ]]}}
+! class="unsortable" style="width:50px;"| [[Gerald Grosz|Grosz]]<br>{{small|[[Independent politician|Indep.]]}}
+! class="unsortable" style="width:50px;"| [[Marco Pogo|Wlazny]]<br>{{small|[[The Beer Party (Austria)|BIER]]}}
+! class="unsortable" style="width:50px;"| [[Michael Brunner (politician)|Brunner]]<br>{{small|[[MFG Austria – People Freedom Fundamental Rights|MFG]]}}
+! class="unsortable" style="width:50px;"| [[Tassilo Wallentin|Wallentin]]<br>{{small|[[Independent politician|Indep.]]}}
+|-
+! style="background:{{party color|The Greens – The Green Alternative}};"|
+! style="background:{{party color|Freedom Party of Austria}};"|
+! style="background:{{party color|Independent}};"|
+! style="background:{{party color|The Beer Party (Austria)}};"|
+! style="background:{{party color|MFG – Austria People – Freedom – Fundamental Rights}};"|
+! style="background:{{party color|Independent}};"|
+|-
+|[https://www.oe24.at/oesterreich/politik/hofburgwahl/umfrage-van-der-bellen-schlittert-in-eine-stichwahl/529039410 Market-Lazarsfeld / ÖSTERREICH]
+|29–30 Aug 2022
+|1000
+|{{Party shading/Grüne}}|'''50'''
+|style="background:#e2f6fe;"|18
+|7
+|10
+|4
+|11
+|–
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|32
+|-
+|[https://www.oe24.at/oesterreich/politik/hofburgwahl/van-der-bellen-muss-zittern-nur-noch-53-prozent/528388147 Market-Lazarsfeld / ÖSTERREICH]
+|22–23 Aug 2022
+|1000
+|{{Party shading/Grüne}}|'''53'''
+|14
+|8
+|10
+|4
+|11
+|–
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|39
+|-
+|[https://www.profil.at/oesterreich/bp-wahl-van-der-bellen-laut-umfrage-bei-66-prozent/402116613 Unique Research / Profil / ATV]
+|10–18 Aug 2022
+|1615
+|{{Party shading/Grüne}}|'''66'''
+|13
+|6
+|5
+|3
+|6
+|1
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|53
+|-
+|[https://www.oe24.at/oesterreich/politik/umfragen/wallentin-sorgt-fuer-rosenkranz-absturz/527775686 Market-Lazarsfeld / ÖSTERREICH]
+|16–17 Aug 2022
+|1000
+|{{Party shading/Grüne}}|'''58'''
+|11
+|7
+|9
+|6
+|9
+|–
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|47
+|-
+|[https://web.archive.org/web/20220812021553/https://www.oe24.at/oesterreich/politik/bp-wahl/van-der-bellen-legt-zu-absturz-fuer-rosenkranz/526502914 Market-Lazarsfeld / ÖSTERREICH]
+|1–2 Aug 2022
+|1000
+|{{Party shading/Grüne}}|'''59'''
+|18
+|10
+|9
+|4
+|–
+|–
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|41
+|-
+|[https://www.youtube.com/watch?v=LMjS6PttiKg Market-Lazarsfeld / ÖSTERREICH]
+|25–27 Jul 2022
+|1000
+|{{Party shading/Grüne}}|'''58'''
+|22
+|7
+|10
+|3
+|–
+|–
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|36
+|-
+|[https://www.oe24.at/oesterreich/politik/politik-beben-nach-umfrage-sensation/525408836 Market-Lazarsfeld / ÖSTERREICH]
+|18–20 Jul 2022
+|1000
+|{{Party shading/Grüne}}|'''54'''
+|24
+|9
+|10
+|3
+|–
+|–
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|30
+|-
+|[https://www.ogm.at/2022/07/15/erste-umfrage-zur-bundespraesidentenwahl/ OGM / Kurier]
+|12–14 Jul 2022
+|812
+|{{Party shading/Grüne}}|'''63'''
+|21
+|6
+|5
+|5
+|–
+|–
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|42
+|}
+{{hidden end}}
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="3"| Polling firm
+! rowspan="3"| Fieldwork date
+! rowspan="3"| Sample<br>size
+! class="unsortable" | [[File:Alexander Van der Bellen (13-07-2021) (cropped).jpg|50x100px]]
+! class="unsortable" | [[File:Norbert Hofer - FPÖ-Neujahrstreffen 2019.JPG|50x100px]]
+! class="unsortable" | [[File:Noimage.png|50x100px]]
+! class="unsortable" | [[File:Herbert Kickl - Pressekonferenz am 1. Sep. 2020.JPG|50x100px]]
+! class="unsortable" |
+! class="unsortable" | [[File:Geraldgrosz.jpg|50x100px]]
+! class="unsortable" | [[File:Turbobier (12) (cropped).jpg|50x100px]]
+! class="unsortable" | 
+! rowspan="3" class="unsortable" style="width:50px;"| Others/<br>None/<br>Undecided
+! rowspan="3" class="unsortable" style="width:50px;"| Lead
+|-
+! class="unsortable" style="width:50px;"| [[Alexander Van der Bellen|Van der Bellen]]<br>{{small|[[The Greens – The Green Alternative|Greens]]}}
+! class="unsortable" style="width:50px;"| [[Norbert Hofer|Hofer]]<br>{{small|[[Freedom Party of Austria|FPÖ]]}}
+! class="unsortable" style="width:50px;"| [[Susanne Fürst|Fürst]]<br>{{small|[[Freedom Party of Austria|FPÖ]]}}
+! class="unsortable" style="width:50px;"| [[Herbert Kickl|Kickl]]<br>{{small|[[Freedom Party of Austria|FPÖ]]}}
+! class="unsortable" style="width:50px;"| [[Tassilo Wallentin|Wallentin]]<br>{{small|[[Independent politician|Indep.]]/[[Freedom Party of Austria|FPÖ]]}}
+! class="unsortable" style="width:50px;"| [[Gerald Grosz|Grosz]]<br>{{small|[[Independent politician|Indep.]]}}
+! class="unsortable" style="width:50px;"| [[Marco Pogo|Wlazny]]<br>{{small|[[The Beer Party (Austria)|BIER]]}}
+! class="unsortable" style="width:50px;"| [[Michael Brunner (politician)|Brunner]]<br>{{small|[[MFG Austria – People Freedom Fundamental Rights|MFG]]}}
+|-
+! style="background:{{party color|The Greens – The Green Alternative}};"|
+! style="background:{{party color|Freedom Party of Austria}};"|
+! style="background:{{party color|Freedom Party of Austria}};"|
+! style="background:{{party color|Freedom Party of Austria}};"|
+! style="background:{{party color|Independent}};"|
+! style="background:{{party color|Independent}};"|
+! style="background:{{party color|The Beer Party (Austria)}};"|
+! style="background:{{party color|MFG – Austria People – Freedom – Fundamental Rights}};"|
+|-
+|rowspan="2" |[https://www.oe24.at/video/fellnerlive/fellner-live-die-umfragen-der-woche/523814236 Market-Lazarsfeld / ÖSTERREICH]
+|rowspan="2" |4–6 Jul 2022
+|rowspan="2" |1000
+|{{Party shading/Grüne}}|'''40'''
+|–
+|–
+|–
+|10
+|9
+|7
+|2
+|29
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|30
+|-
+|{{Party shading/Grüne}}|'''41'''
+|–
+|8
+|–
+|–
+|10
+|6
+|2
+|30
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|31
+|-
+|[https://www.oe24.at/video/fellnerlive/fellner-live-die-umfragen-der-woche/523253262 Market-Lazarsfeld / ÖSTERREICH]
+|27–28 Jun 2022
+|1000
+|{{Party shading/Grüne}}|'''42'''
+|–
+|–
+|–
+|8
+|8
+|6
+|4
+|29
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|34
+|-
+|rowspan="2" |[https://www.oe24.at/video/fellnerlive/fellner-live-die-umfragen-der-woche/521965763 Market-Lazarsfeld / ÖSTERREICH]
+|rowspan="2" |13–14 Jun 2022
+|rowspan="2" |1000
+|{{Party shading/Grüne}}|'''43'''
+|–
+|–
+|–
+|9
+|10
+|6
+|–
+|33
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|33
+|-
+|{{Party shading/Grüne}}|'''45'''
+|–
+|8
+|–
+|–
+|8
+|8
+|–
+|32
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|37
+|-
+|[https://www.oe24.at/video/fellnerlive/fellner-live-die-umfrage-der-woche/521480291 Market-Lazarsfeld / ÖSTERREICH]
+|7–8 Jun 2022
+|1000
+|{{Party shading/Grüne}}|'''42'''
+|–
+|9
+|–
+|–
+|7
+|8
+|–
+|34
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|33
+|-
+|[https://www.profil.at/oesterreich/umfrage-ein-drittel-koennte-bundespraesidenten-wahl-schwaenzen/402022563 Unique Research / Profil]
+|23–25 May 2022
+|500
+|{{Party shading/Grüne}}|'''46'''
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|23 (+31 Undecided)
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|23
+|-
+|[https://www.derstandard.at/story/2000136057103/verlaesslichkeit-wird-als-van-der-bellens-grosse-staerke-gesehen Market / Der Standard]
+|23–25 May 2022
+|1000
+|{{Party shading/Grüne}}|'''56'''
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|27 (+17 Undecided)
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|29
+|-
+|[https://www.politik-live.at/parteien/neue-umfrage-van-der-bellen-haengt-seine-gegner-ab/520336766 Market-Lazarsfeld / ÖSTERREICH]
+|23–24 May 2022
+|1000
+|{{Party shading/Grüne}}|'''45'''
+|–
+|–
+|9
+|–
+|7
+|6
+|–
+|4 (+29 Undecided)
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|36
+|-
+|[https://www.oe24.at/oesterreich/politik/van-der-bellen-tritt-erneut-bei-bundespraesidenten-wahl-an/519811647 Market-Lazarsfeld / ÖSTERREICH]
+|16–19 May 2022
+|2000
+|{{Party shading/Grüne}}|'''42'''
+|–
+|–
+|9
+|–
+|9
+|4
+|–
+|7 (+29 Undecided)
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|33
+|-
+|rowspan="2"|[https://www.puls24.at/news/politik/umfrage-mehrheit-will-wieder-van-der-bellen/263863 IFDD / Puls 24]
+|rowspan="2"|30 Apr–4 May 2022
+|rowspan="2"|1000
+|{{Party shading/Grüne}}|'''64'''
+|–
+|11
+|–
+|–
+|12.5
+|12.5
+|–
+|–
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|51.5
+|-
+|{{Party shading/Grüne}}|'''67'''
+|–
+|–
+|–
+|–
+|19
+|14
+|–
+|–
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|45
+|-
+|[https://www.derstandard.at/story/2000132411109/63-prozent-wuenschen-sich-wiederkandidatur-van-der-bellens Market / Der Standard]
+|data-sort-value="2021-12-28" | 23–28 Dec 2021
+|800
+|{{Party shading/Grüne}}|'''51'''
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|33 (+16 Undecided)
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|18
+|-
+|[https://www.ots.at/presseaussendung/OTS_20201206_OTS0011/atv-frage-der-woche-a-gmahde-wiesn-fuer-den-bundespraesidenten-2022 Hajek / ATV]
+|data-sort-value="2020-12-06" | 6 Dec 2020
+|814
+|{{Party shading/Grüne}}|'''50'''
+|17
+|–
+|–
+|–
+|–
+|–
+|–
+|33
+|style="background:{{party color|The Greens – The Green Alternative}}; color:#FFFFFF"|33
+|}
+{{hidden end}}
+
+== Number of eligible voters ==
+According to the Ministry of the Interior, 6,363,336 citizens are entitled to vote – 61,113 of them residing abroad.<ref>Bundeswahlbehörde: [https://www.bmi.gv.at/412/Bundespraesidentenwahlen/Bundespraesidentenwahl_2022/start.aspx#wahlberechtigte Endgültige Zahl der Wahlberechtigten (in German)] {{Webarchive|url=https://web.archive.org/web/20220720143852/https://www.bmi.gv.at/412/Bundespraesidentenwahlen/Bundespraesidentenwahl_2022/start.aspx#wahlberechtigte |date=2022-07-20 }}.</ref> Compared to the first ballot in 2016, the number of those entitled to vote has fallen slightly (6,382,507 – 42,830 of whom reside abroad). After the end of the objection period and the correction process, the final number of eligible voters was published on 7 October.
+
+== Number of absentee ballots issued ==
+After the official candidates were announced on 7 September, the official ballot papers were printed. The requested absentee ballots were sent out by the municipalities from 13 September. The last possible date for the written application for an absentee ballot being 5 October, while the last possible date for a personal application and collection at voters' main place of residence was 7 October.
+
+The number of absentee ballots issued was announced on the evening of 7 October, with 958,136 absentee ballots issued – 60,264 of them to eligible voters living abroad. Accordingly, 15.1% of those entitled to vote applied for an absentee ballot.<ref>Bundeswahlbehörde: [https://www.bmi.gv.at/412/Bundespraesidentenwahlen/Bundespraesidentenwahl_2022/start.aspx#briefwahl Zahl der ausgestellten Wahlkarten (in German)] {{Webarchive|url=https://web.archive.org/web/20220720143852/https://www.bmi.gv.at/412/Bundespraesidentenwahlen/Bundespraesidentenwahl_2022/start.aspx#briefwahl |date=2022-07-20 }}.</ref> In comparison, a total of 641,975 absentee ballots were issued before the first ballot in 2016 – 39,079 of them to eligible voters living abroad. Compared to this year, 10.1% of those entitled to vote applied for an absentee ballot ahead of the first ballot in 2016.
+
+Absentee ballots have to be received by the district election commissions on election day, no later than poll closing time (17:00), to be counted. The Austrian Post offered a one-time special emptying of all public mailboxes in Austria on Saturday at 09:00 so that the absentee ballots could be delivered on time by Sunday. Absentee ballots will be counted on 10 October.
+
+==Results==
+[[File:Bundespräsidentenwahl Österreich 2022 Gemeinden.svg|thumb|right|400px|Winners by city/town/municipality. Green: Van der Bellen, Blue: Rosenkranz]]
+{{Election results
+|cand1=[[Alexander Van der Bellen]]|colour1={{party color|The Greens (Austria)}}|party1=[[Independent politician|Independent]] ([[The Greens – The Green Alternative|The Greens]])|votes1=2299590
+|cand2=[[Walter Rosenkranz]]|party2=[[Freedom Party of Austria]]|votes2=717097
+|cand3=[[Dominik Wlazny]]|party3=[[The Beer Party (Austria)|The Beer Party]]|votes3=337010
+|cand4=[[Tassilo Wallentin]]|party4=Independent|votes4=327214
+|cand5=[[Gerald Grosz]]|party5=Independent|votes5=225942
+|cand6={{ill|Michael Brunner (politician)|lt=Michael Brunner|de|Michael Brunner (Politiker, 1960)}}|party6=[[MFG Austria – People Freedom Fundamental Rights|MFG Austria]]|votes6=85465
+|cand7={{ill|Heinrich Staudinger|de}}|party7=Independent|votes7=64411
+|invalid=91353
+|electorate=6363336
+|source=Ministry of the Interior<ref>{{cite web |url=https://bundeswahlen.gv.at/2022/ |title=BUNDESPRÄSIDENTENWAHL 2022 |trans-title=FEDERAL PRESIDENTIAL ELECTION 2022 |language=de |archive-url=https://web.archive.org/web/20221019142448/https://bundeswahlen.gv.at/2022/ |archive-date=19 October 2022 |url-status=live}}</ref>
+}}
+
+The results were certified and made official by the Interior Ministry on 17 October 2022.
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.bmi.gv.at/412/Bundespraesidentenwahlen/Bundespraesidentenwahl_2022/start.aspx Official information website for the 2022 Presidential Election] - [[Ministry of the Interior (Austria)|Ministry of the Interior]]
+
+; Candidate websites
+* [https://www.mfg-oe.at/bundespraesident-kandidat-dr-michael-brunner/ Official campaign website of Michael Brunner]
+* [https://www.geraldgrosz.at/ Official campaign website of Gerald Grosz]
+* [https://www.walter-rosenkranz.at/ Official campaign website of Walter Rosenkranz]
+* [https://www.heini-praesident.at/ Official campaign website of Heinrich Staudinger]
+* [https://www.vanderbellen.at/ Official campaign website of Alexander Van der Bellen]
+* [https://www.tassilo-wallentin.at/ Official campaign website of Tassilo Wallentin]
+* [https://www.bierpartei.eu/mei-praesident/ Official campaign website of Dominik Wlazny]
+
+{{Austrian elections}}
+{{Austrian presidential elections}}
+
+[[Category:Presidential elections in Austria]]
+[[Category:2022 elections in Austria|Presidential]]
+[[Category:2022 elections in Europe|Austria]]
+[[Category:October 2022 in Europe|Austria]]
+[[Category:October 2022 elections]]

@@ -1,0 +1,105 @@
+{{short description|none}}
+{{Use dmy dates|date=July 2022}}
+{{Infobox election
+| country = Guatemala
+| previous_election = 1999 Guatemalan general election
+| previous_year = 1999
+| next_election = 2007 Guatemalan general election
+| next_year = 2007
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 9 November 2003 (first round)<br>{{nowrap|28 December 2003 (second round)}}
+| turnout = 57.89% (first round) {{increase}} 4.13[[percentage point|pp]]<br />46.78% (second round) {{increase}} 6.41[[percentage point|pp]]
+
+| image1 = Presidente Óscar Berger (cropped).jpg
+| nominee1 = '''[[Óscar Berger]]'''
+| popular_vote1 = '''1,235,303'''
+| percentage1 = '''54.1%'''
+| party1 = Grand National Alliance (Guatemala)
+| running_mate1 ='''[[Eduardo Stein]]'''
+
+| image2 = Alvaro Colom Caballeros with Obamas (cropped).jpg
+| nominee2 = [[Álvaro Colom]]
+| popular_vote2 = 1,046,868
+| percentage2 = 45.9%
+| party2 = National Unity of Hope
+| running_mate2 =Fernando Andrade
+
+| map_image = File:Resultados elecciones 2003.png
+| title = President
+| before_election = [[Alfonso Portillo]]
+| before_party = [[Guatemalan Republican Front|FRG]]
+| posttitle = President-elect
+| after_election = [[Óscar Berger]]
+| after_party = Grand National Alliance (Guatemala)
+}}
+}}{{Politics of Guatemala}}
+
+General elections were held in [[Guatemala]] on 9 November 2003, with a second round of the presidential election held on 28 December.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p323 {{ISBN|978-0-19-928357-6}}</ref> [[Óscar Berger]] won the presidential election, representing the [[Grand National Alliance (Guatemala)|Grand National Alliance]], a coalition of  alliance of the [[Patriotic Party (Guatemala)|Patriotic Party]], the [[Reform Movement (Guatemala)|Reform Movement]] and the [[National Solidarity Party (Guatemala)|National Solidarity Party]]. The Alliance were also victorious in the Congressional elections, winning 47 of the 158 seats. Voter turnout was 57.9% in the Congressional elections, 58.9% in the first round of the presidential elections and 46.8% in the second.<ref>Nohlen, p324</ref>
+
+==Presidential election==
+The ruling [[Republican Front of Guatemala]] (FRG) nominated former military ruler [[Efraín Ríos Montt]] to succeed outgoing president [[Alfonso Antonio Portillo Cabrera|Alfonso Portillo Cabrera]]. A constitutional ban on former coup leaders (Ríos Montt during 1982–83) led to strong conflict inside the country, including the besiegement of Guatemala for a day: 24 July 2003, known as ''[[jueves negro]]''  ("Black Thursday"). In the first round of voting, Ríos Montt came third behind the centrist mayor of [[Guatemala City]], [[Óscar Berger]], and the more left-wing candidate [[Álvaro Colom]].
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Óscar Berger]]|party1=[[Grand National Alliance (Guatemala)|Grand National Alliance]]|votes1=921233|votes1_2=1235303
+|cand2=[[Álvaro Colom]]|party2=[[National Unity of Hope]]|votes2=707578|votes2_2=1046868
+|cand3=[[Efraín Ríos Montt]]|party3=[[Guatemalan Republican Front]]|votes3=518328
+|cand4=Leonel Eliseo López Rodas|party4=[[National Advancement Party]]|votes4=224127
+|cand5=[[Fritz García Gallont]]|party5=[[Unionist Party (Guatemala)|Unionist Party]]|votes5=80943
+|cand6=[[Rodrigo Asturias]]|party6=[[Guatemalan National Revolutionary Unity]]|votes6=69297
+|cand7=[[Eduardo Suger]]|party7=[[Authentic Integral Development]]|votes7=59774
+|cand8=[[Jacobo Árbenz Vilanova]]|party8=[[Guatemalan Christian Democracy]]|votes8=42186
+|cand9=José Angel Lee|party9=[[Social Participative Democracy]]|votes9=37505
+|cand10={{ill|Francisco Arredondo Mendoza|es}}|party10=National Union|votes10=11979
+|cand11=[[Manuel Conde Orellana]]|party11=Social and Political Movement National Change|votes11=10829|color11=#FF8000
+|invalid=253390|invalid2=91298
+|electorate=5073282|electorate2=5073282
+|source=Nohlen
+}}
+
+===Congress===
+{{Election results
+|image=[[File:Svgfiles 2018-07-20-21-37-46-498154-665931501810609121.svg]]
+|firstround=National|secondround=District
+|party1=[[Grand National Alliance (Guatemala)|Grand National Alliance]]|votes1=620121|seats1=8|votes1_2=513529|seats1_2=32|totseats1=40
+|party2=[[Guatemalan Republican Front]]|votes2=502470|seats2=7|votes2_2=522670|seats2_2=36|totseats2=43
+|party3=[[National Unity of Hope]]|votes3=457308|seats3=6|votes3_2=424447|seats3_2=26|totseats3=32
+|party4=[[National Advancement Party]]|votes4=278393|seats4=4|votes4_2=297178|seats4_2=12|totseats4=16
+|party5=[[Unionist Party (Guatemala)|Unionist Party]]|votes5=157893|seats5=2|votes5_2=163637|seats5_2=5|totseats5=7
+|party6=[[New Nation Alternative]]|votes6=123853|seats6=1|votes6_2=142679|seats6_2=5|totseats6=6
+|party7=[[Guatemalan National Revolutionary Unity]]|votes7=107276|seats7=1|votes7_2=104889|seats7_2=1|totseats7=2
+|party8=[[Guatemalan Christian Democracy]]|votes8=82324|seats8=1|votes8_2=85918|seats8_2=0|totseats8=1
+|party9=[[Authentic Integral Development]]|votes9=75295|seats9=1|votes9_2=67456|seats9_2=0|totseats9=1
+|party10=[[Democratic Union (Guatemala)|Democratic Union]]|votes10=55793|seats10=0|votes10_2=58277|seats10_2=2|totseats10=2
+|party11=[[Social Participative Democracy]]|votes11=28425|seats11=0|votes11_2=30026|seats11_2=0|totseats11=0
+|party12=[[Front for Democracy|Transparency]]|votes12=27740|seats12=0|votes12_2=24359|seats12_2=0|totseats12=0
+|party13=Social and Political Movement National Change|votes13=18005|seats13=0|votes13_2=18384|seats13_2=0|totseats13=0|color13=#FF8000
+|party14=National Union|votes14=17478|seats14=0|votes14_2=14432|seats14_2=0|totseats14=0
+|party15=[[Patriotic Party (Guatemala)|Patriotic Party]]–[[Podemos (Guatemala)|Reform Movement]]|votes15_2=65369|seats15_2=5|totseats15=5
+|party16=[[Podemos (Guatemala)|Reform Movement]]–[[National Solidarity Party (Guatemala)|National Solidarity Party]]|votes16_2=16127|seats16_2=1|totseats16=1
+|party17=[[Podemos (Guatemala)|Reformist Movement]]|votes17_2=12923|seats17_2=0|totseats17=0
+|party18=[[Authentic Integral Development|DIA]]–[[Valor (political party)|PLP]]|votes18_2=11498|seats18_2=0|totseats18=0
+|party19=[[Patriotic Party (Guatemala)|Patriotic Party]]–[[National Solidarity Party (Guatemala)|National Solidarity Party]]|votes19_2=8997|seats19_2=2|totseats19=2
+|party20=[[Patriotic Party (Guatemala)|Patriotic Party]]|votes20_2=5681|seats20_2=0|totseats20=0
+|party21=[[Valor (political party)|Progressive Liberating Party]]|votes21_2=2868|seats21_2=0|totseats21=0
+|party22=[[National Solidarity Party (Guatemala)|National Solidarity Party]]|votes22_2=1438|seats22_2=0|totseats22=0
+|party23=UN–[[Authentic Integral Development|DIA]]–[[New Nation Alliance|ANN]]|votes23_2=1336|seats23_2=0|totseats23=0
+|invalid=384562|invalid2=342513
+|total_sc=0
+|electorate=5073282|electorate2=5073282
+|source=[http://www.electionpassport.com/files/GT/GT.xlsx Election Passport],  [https://portalanterior.ine.mx/archivos2/portal/DECEYEC/eventos/fil-guadalajara/2016/docs/2-Sistemas-partidos-T1.pdf Friedenberg]
+}}
+
+==References==
+{{Reflist}}
+
+{{Guatemalan elections}}
+
+[[Category:Parliamentary elections in Guatemala]]
+[[Category:2003 elections in Central America|Guatemala]]
+[[Category:2003 in Guatemala|General]]
+[[Category:Presidential elections in Guatemala]]

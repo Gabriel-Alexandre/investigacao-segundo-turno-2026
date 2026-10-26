@@ -1,0 +1,189 @@
+{{Short description|none}}
+{{Infobox election
+| country = Malawi
+| previous_election = 1999 Malawian general election 
+| previous_year = 1999 
+| previous_mps = 
+| election_date = {{Start date|2004|05|20|df=yes}} 
+| next_election = 2009 Malawian general election
+| next_year = 2009
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| registered = 5,752,028
+| turnout = 59.35% ({{decrease}} 34.24 [[Percentage point|pp]])
+
+| image1 = Bingu_wa_Mutharika_in_2009.jpg
+| nominee1 = '''[[Bingu wa Mutharika]]'''
+| party1 = United Democratic Front (Malawi)
+| popular_vote1 = '''1,195,586'''
+| percentage1 = '''35.97%'''
+
+| image2 = John_Tembo.jpg
+| nominee2 = [[John Tembo]]
+| party2 = Malawi Congress Party
+| popular_vote2 = 937,965
+| percentage2 = 28.22%
+
+| image4 = Gwanda Chakuamba (cropped).jpg
+| colour4 = 789456
+| nominee4 = [[Gwanda Chakuamba]]
+| party4 = [[Mgwirizano Coalition|MC]]
+| popular_vote4 = 836,118
+| percentage4 = 25.16%
+
+| image5 = Brown Mpinganjira 2013 (cropped).jpg
+| nominee5 = [[Brown Mpinganjira]]
+| party5 = [[National Democratic Alliance (Malawi)|NDA]]
+| popular_vote5 = 286,320
+| percentage5 = 8.61%
+
+| map_image = 2004 Malawian presidential election - Results by region and district.svg
+| map_caption = Results by [[Regions of Malawi|region]] (left) and [[Districts of Malawi|district]] (right)
+
+| title = [[President of Malawi|President]]
+| before_election = [[Bakili Muluzi]]
+| before_party = United Democratic Front (Malawi)
+| after_election = [[Bingu wa Mutharika]]
+| after_party = United Democratic Front (Malawi)
+
+| module = {{Infobox legislative election
+| election_name = Legislative election
+| embed = yes
+| seats_for_election = All 193 seats in the [[National Assembly (Malawi)|National Assembly]]
+| majority_seats = 97
+| turnout = 59.41% ({{decrease}} 33.52 [[Percentage point|pp]])
+
+| party1 = United Democratic Front (Malawi)
+| leader1 = [[Bakili Muluzi]]
+| last_election1 = 93
+| seats1 = 50
+| percentage1 = 25.34
+
+| party2 = Malawi Congress Party
+| leader2 = [[John Tembo]]
+| last_election2 = 66
+| seats2 = 57
+| percentage2 = 24.85
+
+| party3 = 	National Democratic Alliance (Malawi)
+| leader3 = [[Brown Mpinganjira]]
+| last_election3 = New
+| seats3 = 8
+| percentage3 = 8.12
+
+| party4 = [[Republican Party (Malawi)|RP]]
+| leader4 = 
+| last_election4 = New
+| seats4 = 15
+| percentage4 = 7.31
+
+| party5 = Alliance for Democracy (Malawi)
+| leader5 = 
+| last_election5 = 29
+| seats5 = 6
+| percentage5 = 3.61
+
+| party6 =	People's Progressive Movement (Malawi)
+| leader6 = 
+| last_election6 = New
+| seats6 = 7
+| percentage6 = 3.12
+
+| party7 = [[Movement for Genuine Democratic Change|MGODE]]
+| leader7 = 
+| last_election7 = New
+| seats7 = 3
+| percentage7 = 1.68
+
+| party8 = People's Transformation Party
+| leader8 = 
+| last_election8 = New
+| seats8 = 1
+| percentage8 = 0.67
+
+| party9 = [[Congress for National Unity|CONU]]
+| leader9 = 
+| last_election9 = 0
+| seats9 = 1
+| percentage9 = 0.23
+
+| party10 = Independents
+| leader10 = –
+| last_election10 = 4
+| seats10 = 39
+| percentage10 = 24.23
+
+| map = 
+| map_caption = Results by constituency
+}}}}}}
+{{Politics of Malawi}}
+
+[[General election|General elections]] were held in [[Malawi]] on 20 May 2004 to elect a [[President of Malawi|President]] and members of the [[National Assembly of Malawi|National Assembly]]. The election had originally been scheduled for 18 May but was postponed for two days in response to opposition complaints of irregularities in the voter roll.<ref>[http://www.irinnews.org/report.asp?ReportID=41152&SelectRegion=Southern_Africa&SelectCountry=MALAWI Special report on general elections] IRIN, 19 May 2004</ref> By 22 May no results had been announced, leading to protests from the opposition and threats of disorder. On 25 May the [[Malawi Electoral Commission]] finally announced the results of the election. [[Bingu wa Mutharika]], the candidate of the ruling [[United Democratic Front (Malawi)|United Democratic Front]], was declared the winner of the presidential poll, whilst the [[Malawi Congress Party]] won most seats in the National Assembly vote. [[Voter turnout]] was around 62%.<ref>[http://www.eisa.org.za/WEP/mal2004results.htm Malawi: 2004 Presidential election results] {{Webarchive|url=https://web.archive.org/web/20100511032802/http://www.eisa.org.za/WEP/mal2004results.htm |date=2010-05-11 }} EISA</ref>
+
+==Campaign==
+===President===
+There were five candidates for the presidential election:
+*[[Gwanda Chakuamba]], aged 69, was the candidate of a seven-party opposition coalition, the [[Mgwirizano Coalition]] or Unity Coalition. Chakuamba has a colourful past, having been a senior minister and militia commander under former President-for-life [[Hastings Banda]]. In 1980 he fell out with Banda, whose assassination he was accused of plotting. He spent 12 years in prison and emerged a popular hero, then succeeded Banda as leader of his party, the [[Malawi Congress Party]]. 
+*[[Justin Malewezi]], Vice-President of Malawi under Bakili Muluzi, stood as the candidate of the [[People's Progressive Movement (Malawi)|People's Progressive Movement]], having been passed over by the ruling party.
+*[[Brown Mpinganjira]], aged 55, was the candidate of the [[National Democratic Alliance (Malawi)|National Democratic Alliance]], a breakaway group from the ruling party.
+*[[John Tembo]], aged 72, was the candidate of the Malawi Congress Party.
+*[[Bingu wa Mutharika]], a 70-year-old economist and veteran politician, was the candidate of the ruling [[United Democratic Front (Malawi)|United Democratic Front]], although he had previously run for president under the United Party banner. He was supported by the outgoing president, [[Bakili Muluzi]].
+
+===National Assembly===
+A total of 1,268 candidates ran in the election of which 373 were independents and the rest representing fifteen parties.<ref>[http://www.cmi.no/publications/file/2541-the-institutional-context-of-the-2004-general.pdf The Institutional Context of the 2004 General Elections in Malawi] CMI</ref>
+
+Seven parties contested the elections as the [[Mgwirizano Coalition]]; the [[Republican Party (Malawi)|Republican Party]], the [[People's Progressive Movement (Malawi)|People's Progressive Movement]], the [[Movement for Genuine Democratic Change]], the [[People's Transformation Party]], the [[Malawi Forum for Unity and Development]], the [[National Unity Party (Malawi)|National Unity Party]] and the [[Malawi Democratic Party]].
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Bingu wa Mutharika]]|vp1=[[Cassim Chilumpha]]|party1=[[United Democratic Front (Malawi)|United Democratic Front]]|votes1=1195586
+|cand2=[[John Tembo]]|vp2=Peter Chiwona|party2=[[Malawi Congress Party]]|votes2=937965
+|cand3=[[Gwanda Chakuamba]]|vp3=Aleke Banda|party3=[[Mgwirizano Coalition]]|votes3=836118|color3=#789456
+|cand4=[[Brown Mpinganjira]]|vp4=Mary Clara Makungwa|party4=[[National Democratic Alliance (Malawi)|National Democratic Alliance]]|votes4=286320
+|cand5=[[Justin Malewezi]]|vp5=Jimmy Hastings Koreia-Mpatsa|party5=[[People's Progressive Movement (Malawi)|People's Progressive Movement]]|votes5=67812
+|invalid=89764
+|electorate=5752028
+|source=<ref>{{Cite web |title=Presidential Polling Results for 2004 Elections |url=http://mec.org.mw/res/PRESIDENTIAL%20SUMMARY%20RESULTS%20FOR%202004%20ELECTIONS%20.pdf |archive-url=https://web.archive.org/web/20160811162805/http://mec.org.mw/res/PRESIDENTIAL%20SUMMARY%20RESULTS%20FOR%202004%20ELECTIONS%20.pdf |archive-date=11 August 2016 |website=Malawi Electoral Commission |format=PDF}}</ref>
+}}
+
+===National Assembly===
+Polling in six constituencies was delayed due to printing errors on the ballot papers.<ref name=IPU>[http://www.ipu.org/parline-e/reports/arc/2195_04.htm Elections held in 2004] IPU</ref>
+
+{{Election results
+|party1=[[United Democratic Front (Malawi)|United Democratic Front]]|votes1=801200|seats1=50|sc1=–43
+|party2=[[Malawi Congress Party]]|votes2=785671|seats2=57|sc2=–9
+|party3=[[National Democratic Alliance (Malawi)|National Democratic Alliance]]|votes3=256713|seats3=8|sc3=New
+|party4=[[Republican Party (Malawi)|Republican Party]]|votes4=231002|seats4=15|sc4=New
+|party5=[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes5=114017|seats5=6|sc5=–23
+|party6=[[People's Progressive Movement (Malawi)|People's Progressive Movement]]|votes6=98548|seats6=7|sc6=New
+|party7=[[Movement for Genuine Democratic Change]]|votes7=53127|seats7=3|sc7=New
+|party8=[[People's Transformation Party]]|votes8=21153|seats8=1|sc8=New
+|party9=[[Malawi Forum for Unity and Development]]|votes9=11655|seats9=0|sc9=New
+|party10=New Congress for Democracy|votes10=9545|seats10=0|sc10=New
+|party11=[[Congress for National Unity]]|votes11=7410|seats11=1|sc11=+1
+|party12=[[Malawi Democratic Party]]|votes12=2494|seats12=0|sc12=0
+|party13=[[National Unity Party (Malawi)|National Unity Party]]|votes13=2336|seats13=0|sc13=New
+|party14=Pamodzi Freedom Party|votes14=363|seats14=0|sc14=New
+|party15=National Solidarity Movement|votes15=216|seats15=0|sc15=New
+|party16=Independents|votes16=766137|seats16=39|sc16=+35
+|row17=Vacant|seats17=6|sc17=–
+|total_sc=0
+|invalid=167376
+|electorate=5603225
+|source=<ref>{{Cite web |title=Summary Results for 2004 Parliamentary General Elections |url=https://mec.org.mw/wp-content/uploads/2018/11/PARLIAMENTARY-SUMMARY-RESULTS-FOR-2004-ELECTIONS.pdf |website=Malawi Electoral Commission |format=PDF}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+{{Malawian elections}}
+
+[[Category:Presidential elections in Malawi]]
+[[Category:Parliamentary elections in Malawi]]
+[[Category:2004 elections in Africa|Malawi]]
+[[Category:2004 in Malawi|General]]
+[[Category:May 2004 in Africa|Malawi]]

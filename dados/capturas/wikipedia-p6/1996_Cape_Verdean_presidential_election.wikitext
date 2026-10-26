@@ -1,0 +1,50 @@
+{{Short description|Re-election of António M. Monteiro}}
+{{Infobox election
+| election_name = 1996 Cape Verdean presidential election
+| country = Cape Verde
+| type = presidential
+| ongoing = no
+| previous_election = 1991 Cape Verdean presidential election
+| previous_year = 1991
+| next_election = 2001 Cape Verdean presidential election
+| next_year = 2001
+| election_date = 18 February 1996
+| registered = 207,146
+| opinion_polls = 
+| turnout = 43.79%
+| image1 = Antonio Mascarenhas Monteiro 2012.png
+| nominee1 = '''{{nowrap|[[António Mascarenhas Monteiro]]}}'''
+| party1 = Movement for Democracy (Cape Verde)
+| popular_vote1 = '''81,281'''
+| percentage1 = '''92.06%'''
+| title = [[List of heads of state of Cape Verde|President]]
+| before_election = [[António Mascarenhas Monteiro|António Monteiro]]
+| before_party = [[Movement for Democracy (Cape Verde)|MpD]]
+| after_election = [[António Mascarenhas Monteiro|António Monteiro]]
+| after_party = [[Movement for Democracy (Cape Verde)|MpD]]
+| map_image       = Elecciones presidenciales de Cabo Verde, 1996.svg
+| map_caption = Results by municipality
+}}{{Politics of Cape Verde}}
+
+Presidential elections were held in [[Cape Verde]] on 18 February 1996. Only one candidate, incumbent [[António Mascarenhas Monteiro]] of the [[Movement for Democracy (Cape Verde)|Movement for Democracy]], contested the election. He was re-elected with around 92.1% of the vote.<ref>[[Dieter Nohlen]], Michael Krennerich & Bernhard Thibaut (1999) ''Elections in Africa: A data handbook'', p201 {{ISBN|0-19-829645-2}}</ref>
+
+==Results==
+{{Election results
+|cand1=[[António Mascarenhas Monteiro]]|party1=[[Movement for Democracy (Cape Verde)|Movement for Democracy]]|votes1=81281
+|row2=Against|votes2=7012
+|invalid=1213
+|blank=671
+|electorate=207146
+|source=Boletim Oficial<ref>{{Cite web |date=15 March 1996 |title=Boletim Oficial da República de Cabo Verde, Serie II, No. 11 |url=https://drive.google.com/file/d/1_HXX0dJkB_Fbce84zdPwcIH5JrhKD6ro/view |website=Boletim Oficial da República de Cabo Verde |page=9}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+{{Cape Verdean elections}}
+
+[[Category:1996 elections in Africa|Cape Verde]]
+[[Category:Presidential elections in Cape Verde]]
+[[Category:1996 in Cape Verde|Presidential]]
+[[Category:Single-candidate elections]]
+[[Category:February 1996 in Africa|Cape Verde]]

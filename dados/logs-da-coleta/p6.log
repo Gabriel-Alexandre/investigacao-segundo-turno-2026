@@ -1,0 +1,76 @@
+{
+ "paises": 41,
+ "segundos_turnos": 180,
+ "viradas": 61,
+ "taxa": 0.3389,
+ "frente_ate_3_e_lider_abaixo_50": {
+  "n": 37,
+  "viradas": 17
+ },
+ "frente_ate_2": {
+  "n": 29,
+  "viradas": 13
+ },
+ "logistica_p_virada_frente_1_87": 0.5204
+}
+2015 Argentine general election: Daniel Scioli (37.08%, frente 2.93) -> Mauricio Macri
+2023 Argentine general election: Sergio Massa (36.78%, frente 6.79) -> Javier Milei
+2021 Chilean general election: José Antonio Kast (27.91%, frente 2.09) -> Gabriel Boric
+2025 Chilean general election: Jeannette Jara (26.85%, frente 2.92) -> José Antonio Kast
+1998 Colombian presidential election: Horacio Serpa (34.78%, frente 0.41) -> Andrés Pastrana Arango
+2014 Colombian presidential election: Óscar Iván Zuluaga (29.28%, frente 3.56) -> Juan Manuel Santos
+2018 Costa Rican general election: Fabricio Alvarado Muñoz (24.99%, frente 3.36) -> [[Carlos Alvarado
+2022 Costa Rican general election: José María Figueres Olsen (27.28%, frente 10.51) -> Rodrigo Chaves Robles
+1996 Dominican Republic presidential election: José Francisco Peña Gómez (45.94%, frente 7.0) -> Leonel Fernández
+1996 Ecuadorian general election: Jaime Nebot (27.17%, frente 0.89) -> Abdalá Bucaram
+2006 Ecuadorian general election: Álvaro Noboa (26.83%, frente 3.99) -> Rafael Correa
+2021 Ecuadorian general election: Andrés Arauz (32.72%, frente 12.98) -> Guillermo Lasso
+2023 Ecuadorian general election: Luisa González (33.61%, frente 10.14) -> Daniel Noboa
+1990–91 Guatemalan general election: Jorge Carpio Nicolle (25.72%, frente 1.58) -> Jorge Serrano Elías
+2019 Guatemalan general election: Sandra Torres (25.42%, frente 11.53) -> Alejandro Giammattei
+1990 Peruvian general election: Mario Vargas Llosa (32.57%, frente 3.48) -> Alberto Fujimori
+2006 Peruvian general election: Ollanta Humala (30.62%, frente 6.29) -> Alan García
+2016 Peruvian general election: Keiko Fujimori (39.86%, frente 18.82) -> Pedro Pablo Kuczynski
+1999 Uruguayan general election: Tabaré Vázquez (40.11%, frente 7.33) -> Jorge Batlle
+2019 Uruguayan general election: [[Daniel Martínez (politician) (40.49%, frente 10.79) -> Luis Alberto Lacalle Pou
+1992 Austrian presidential election: Rudolf Streicher (40.66%, frente 3.45) -> Thomas Klestil
+2016 Austrian presidential election: Norbert Hofer (35.05%, frente 13.71) -> Alexander Van der Bellen
+2014–15 Croatian presidential election: Ivo Josipović (39.09%, frente 1.27) -> Kolinda Grabar-Kitarović
+1993 Cypriot presidential election: George Vassiliou (44.15%, frente 7.41) -> Glafcos Clerides
+1998 Cypriot presidential election: Georgios Iacovou (40.61%, frente 0.54) -> Glafcos Clerides
+2008 Cypriot presidential election: Ioannis Kasoulidis (33.51%, frente 0.22) -> Dimitris Christofias
+1995 French presidential election: Lionel Jospin (23.3%, frente 2.46) -> Jacques Chirac
+1997–98 Lithuanian presidential election: Artūras Paulauskas (45.28%, frente 17.38) -> Valdas Adamkus
+2002–03 Lithuanian presidential election: Valdas Adamkus (35.53%, frente 15.87) -> Rolandas Paksas
+2019 Lithuanian presidential election: Ingrida Šimonytė (31.53%, frente 0.38) -> Gitanas Nausėda
+1997 Montenegrin presidential election: Momir Bulatović (48.16%, frente 0.74) -> Milo Đukanović
+2023 Montenegrin presidential election: Milo Đukanović (35.37%, frente 6.45) -> Jakov Milatović
+1999 Macedonian presidential election: Tito Petkovski (33.05%, frente 11.98) -> Boris Trajkovski
+2005 Polish presidential election: Donald Tusk (36.33%, frente 3.22) -> Lech Kaczyński
+2025 Polish presidential election: Rafał Trzaskowski (31.36%, frente 1.82) -> Karol Nawrocki
+1996 Romanian general election: Ion Iliescu (32.25%, frente 4.04) -> Emil Constantinescu
+2004 Romanian general election: Adrian Năstase (40.94%, frente 7.02) -> Traian Băsescu
+2014 Romanian presidential election: Victor Ponta (40.44%, frente 10.06) -> Klaus Iohannis
+2025 Romanian presidential election: George Simion (40.96%, frente 19.97) -> Nicușor Dan
+1997 Serbian general election: Zoran Lilić (37.12%, frente 8.76) -> Vojislav Šešelj
+2004 Serbian presidential election: Tomislav Nikolić (30.97%, frente 3.27) -> Boris Tadić
+2008 Serbian presidential election: Tomislav Nikolić (40.76%, frente 4.68) -> Boris Tadić
+2012 Serbian presidential election: Boris Tadić (26.5%, frente 0.27) -> Tomislav Nikolić
+2004 Slovak presidential election: Vladimír Mečiar (32.74%, frente 10.46) -> Ivan Gašparovič
+2014 Slovak presidential election: Robert Fico (28.01%, frente 4.0) -> Andrej Kiska
+2024 Slovak presidential election: Ivan Korčok (42.52%, frente 5.49) -> Peter Pellegrini
+2007 Slovenian presidential election: Lojze Peterle (28.73%, frente 4.26) -> Danilo Türk
+1994 Ukrainian presidential election: Leonid Kravchuk (38.36%, frente 6.55) -> Leonid Kuchma
+2004 Ukrainian presidential election: Viktor Yushchenko (41.13%, frente 0.66) -> Viktor Yanukovych
+1996 Moldovan presidential election: Mircea Snegur (38.75%, frente 11.09) -> Petru Lucinschi
+2008 Ghanaian general election: Nana Akufo-Addo (49.13%, frente 1.21) -> John Atta Mills
+2000 Senegalese presidential election: Abdou Diouf (41.3%, frente 10.29) -> Abdoulaye Wade
+2012 Senegalese presidential election: Abdoulaye Wade (34.81%, frente 8.24) -> Macky Sall
+1996 Beninese presidential election: Nicéphore Soglo (35.69%, frente 1.75) -> Mathieu Kérékou
+2016 Beninese presidential election: Lionel Zinsou (28.43%, frente 3.7) -> Patrice Talon
+2007 East Timorese presidential election: Francisco Guterres (27.89%, frente 6.08) -> José Ramos-Horta
+2012 East Timorese presidential election: Francisco Guterres (28.76%, frente 3.05) -> Taur Matan Ruak
+2010–11 Haitian general election: Mirlande Manigat (31.37%, frente 8.88) -> Michel Martelly
+2013 Malagasy general election: Jean Louis Robinson (21.1%, frente 5.17) -> Hery Rajaonarimampianina
+2005 Guinea-Bissau presidential election: Malam Bacai Sanhá (35.45%, frente 6.58) -> João Bernardo Vieira
+2019 Guinea-Bissau presidential election: Domingos Simões Pereira (40.13%, frente 12.49) -> Umaro Sissoco Embaló

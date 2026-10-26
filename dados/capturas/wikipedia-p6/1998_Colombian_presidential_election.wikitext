@@ -1,0 +1,72 @@
+{{short description|none}}
+{{Infobox election
+| country = Colombia
+| type = presidential
+| previous_election = 1994 Colombian presidential election
+| previous_year = 1994
+| next_election = 2002 Colombian presidential election
+| next_year = 2002
+| election_date = 31 May 1998 (first round)<br />21 June 1998 (second round)
+| turnout = 51.55% (first round) {{increase}} 17.60pp<br/>58.76% (second round) {{increase}} 15.44pp
+| image1 = Andres Pastrana Arango (2001).jpg
+| nominee1 = '''[[Andrés Pastrana Arango]]'''
+| party1 = Colombian Conservative Party
+| running_mate1 = '''[[Gustavo Bell]]'''
+| popular_vote1 = '''6,114,752'''
+| percentage1 = '''50.34%'''
+| image2 = Horacio_Serpa_campaigning_in_2006.png
+| nominee2 = [[Horacio Serpa]]
+| party2 = Colombian Liberal Party
+| running_mate2 = [[María Emma Mejía Vélez]]
+| popular_vote2 = 5,658,518
+| percentage2 = 46.58%
+| map_image = {{Switcher
+|[[File:1998 Colombian Presidential Election First Round Results.svg|270px]]
+|First round results by municipality
+|[[File:1998 Colombian Presidential Election Second Round Results.svg|270px]]
+|Second round results by municipality
+|default=2
+}}
+| title = President
+| before_election = [[Ernesto Samper]]
+| before_party = Colombian Liberal Party
+| after_election = [[Andrés Pastrana Arango]]
+| after_party = Colombian Conservative Party
+}}{{Politics of Colombia}}
+
+Presidential elections were held in [[Colombia]] on 31 May 1998, with a second round on 21 June.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p306 {{ISBN|978-0-19-928358-3}}</ref> Although [[Horacio Serpa]] of the [[Colombian Liberal Party|Liberal Party]] received the most votes in the first round, the result was a victory for [[Andrés Pastrana Arango]] of the [[Great Alliance for Change]], who received 50.3% of the vote in the run-off.
+
+== Results ==
+{{Election results
+|cand1=[[Horacio Serpa]]|vp1=[[María Emma Mejía Vélez|María Emma Mejía]]|party1=[[Colombian Liberal Party]]|votes1=3696334|votes1_2=5658518
+|cand2=[[Andrés Pastrana Arango]]|vp2=[[Gustavo Bell]]|party2=[[Great Alliance for Change]]|votes2=3653048|votes2_2=6114752|color2={{party color|Colombian Conservative Party}}
+|cand3=[[Noemí Sanín]]|vp3=[[Antanas Mockus]]|party3=[[Yes Colombia]]|votes3=2845750
+|cand4=[[Harold Bedoya Pizarro]]|vp4=Jorge García Hurtado|party4=Force Colombia|votes4=193037
+|cand5=Beatriz Cuellar|vp5=Irmo Howard Robinson|party5=[[Christian Union Movement]]|votes5=30832
+|cand6=Germán Rojas Niño|vp6=Manuel Medina|party6=[[19th of April Movement]]|votes6=16072
+|cand7=Jorge Hernán Betancur|vp7=Ángel Humberto Rojas|party7=Metapolitical Unitary Movement|votes7=13892
+|cand8=Jesús Antonio Lozano|vp8=Hilda María Espinosa|party8=[[National Movement of Black Communities]]|votes8=11834
+|cand9=Jorge Pulecio|vp9=Gustavo Navia|party9=[[People's Participation Movement]]|votes9=11500
+|cand10=Guillermo Alemán|vp10=Marilyn Gómez|party10=Ecological Orientation Movement|votes10=9885
+|cand11=Efraín Díaz Valderrama|vp11=Álvaro Pinto|party11=Citizens in Training Movement|votes11=9255
+|cand12=Guillermo Nanneti|vp12=Nelson Fredy Osorio|party12=[[Progressive National Movement]]–Coalition for Peace|votes12=8862
+|cand13=Francisco Córdoba Zartha|vp13=José Elver Muñoz|party13=Seventh Ballot Movement|votes13=5891
+|row14=Blank votes|votes14=122431|votes14_2=373659
+|invalid=122842|invalid2=108794|invalidonly=y
+|electorate=20856150|electorate2=20857801
+|source=Nohlen
+}}
+
+==References==
+{{reflist}}
+
+{{Colombian elections}}
+
+[[Category:Presidential elections in Colombia]]
+[[Category:1998 elections in South America|Colombia]]
+[[Category:1998 in Colombia]]
+[[Category:May 1998 in South America]]
+[[Category:June 1998 in South America]]
+
+
+{{Colombia-election-stub}}

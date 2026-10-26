@@ -1,0 +1,840 @@
+{{Short description|none}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox election
+| election_name = 2024–25 Croatian presidential election
+| country = Croatia
+| flag_year = 2020
+| type = presidential
+| previous_election = 2019–20 Croatian presidential election
+| previous_year = {{nowrap|2019–20}}
+| next_election = 
+| next_year = ''Next''
+| election_date = 29 December 2024 (first round)<br />{{nowrap|12 January 2025 (second round)}}
+| turnout = 46.01% (first round) {{decrease}} 5.17[[percentage points|pp]]<br />{{nowrap|44.17% (second round) {{decrease}} 10.82pp}}
+
+| image1 = Zoran Milanović at Palazzo del Quirinale 2021 (11) (cropped).jpg
+| colour1 = {{party color|Social Democratic Party of Croatia}}
+| nominee1 = '''[[Zoran Milanović]]'''
+| party1 = [[Independent politician|Independent]]{{efn|name=ZM}}{{efn|name=fn1}}
+| popular_vote1 = '''1,122,859'''
+| percentage1 = '''74.68%'''
+ 
+| image2 = Primorac - Elias Zerhouni (cropped) (cropped).jpg
+| colour2 = 005BAA
+| nominee2 = [[Dragan Primorac]]
+| party2 = [[Independent politician|Independent]]{{efn|name=DP}}
+| popular_vote2 = 380,752
+| percentage2 = 25.32%
+
+| map_image = {{Switcher 
+| [[File:2024–25 Croatian presidential election map.svg|300px]]
+| First round results by county
+| [[File:2024–25 Croatian presidential election map second round.svg|300px]]
+| Second round results by county
+| default = 2}}
+
+| title = President
+| before_election = [[Zoran Milanović]]
+| before_party = [[Independent politician|Independent]]{{efn|name=fn1|Milanović was elected in the [[2019–20 Croatian presidential election|2019–20 election]] as the candidate of the [[Social Democratic Party of Croatia|SDP]]. However, under Article 96 of the [[Constitution of Croatia]], sitting presidents are prohibited from holding party memberships for the duration of their term. As a result, he stood as an independent candidate, with informal SDP affiliation.}}
+| after_election = [[Zoran Milanović]]
+| after_party = [[Independent politician|Independent]]{{efn|name=fn1}}
+}}
+
+Presidential elections were held in [[Croatia]] on 29 December 2024, with a second round held on 12 January 2025 after no candidate received a majority of the vote in the first round. Incumbent president [[Zoran Milanović]] was eligible for a second term,<ref>{{Cite web |title=Croatia |url=https://www.fao.org/faolex/results/details/es/c/LEX-FAOC129771/ |access-date=2023-10-07 |website=FAO}}</ref> and was re-elected with a record 75% of the vote.
+
+== Background ==
+Voters in Croatia had also voted for the [[Croatian Parliament]] in [[2024 Croatian parliamentary election|April]] and [[European Parliament]] in [[2024 European Parliament election in Croatia|June]].<ref>{{Cite web |date=1 January 2024 |title=Superizborna godina za Hrvate: Birače očekuju europski, parlamentarni i predsjednički izbori |trans-title=Super election year for Croats: European, parliamentary and presidential elections await voters |url=https://www.vecernji.hr/vijesti/superizborna-godina-za-hrvate-birace-ocekuju-europski-parlamentarni-i-predsjednicki-izbori-1735584 |access-date=16 March 2024 |website=Večernji list |language=hr}}</ref>
+
+The first round was planned for December 2024 but on 15 March 2024 incumbent president [[Zoran Milanović]] announced he would run as a candidate of the [[Social Democratic Party of Croatia]] (SDP) for the position of [[Prime Minister of Croatia|prime minister]].<ref>{{Cite web |date=15 March 2024 |title=Milanović ide na izbore sa SDP-om: Bit će kandidat za premijera |trans-title=Milanović is going to the elections with SDP: He will be a candidate for prime minister |url=https://dnevnik.hr/vijesti/hrvatska/zoran-milanovic-otkrio-da-ide-na-izbore-i-s-kim---838148.html |access-date=16 March 2024 |website=Dnevnik.hr |language=hr}}</ref> During this press conference, he also revealed he would tend his resignation as the [[President of Croatia|president]] only in case of a [[2024 Croatian parliamentary election|parliamentary election]] victory on 17 April 2024.<ref>{{Cite web |date=15 March 2024 |title=Oglasio se Milanović nakon šokantne objave: Otkrio kada će odstupiti s mjesta predsjednika |trans-title=Milanović spoke after the shocking announcement: Revealed when he will step down as president |url=https://dnevnik.hr/vijesti/hrvatska/zoran-milanovic-otkrio-kada-ce-odstupiti-s-mjesta-predsjednika---838159.html |access-date=15 March 2024 |website=Dnevnik.hr |language=hr}}</ref> Had Milanović become prime minister, the constitution required that a preliminary presidential election taking place no later than 16 June 2024. However, the SDP-led [[Rivers of Justice]] coalition won only 42 seats in the election and the HDZ won a vote of confidence after securing the backing of minority representatives and several MPs from the [[Homeland Movement (Croatia)|Homeland Movement]], with Milanović continuing as president.
+
+On 20 November 2024, Prime Minister [[Andrej Plenković]] announced that the presidential election would be held on 29 December, which was approved by the [[Croatian Parliament]] on 21 November.<ref>{{Cite web |date=20 November 2024 |title=Croatia to hold a presidential election on Dec. 29 |url=https://apnews.com/article/croatia-presidential-election-december-fd7e767130deff4b9e4f8a379f0db2ea |access-date=20 November 2024 |website=Associated Press |language=en}}</ref>
+
+The leadup to the election was marred by several controversies, including the November arrest and subsequent dismissal of Minister of Health [[Vili Beroš]] on various corruption-related charges.<ref name="beros">{{Cite web |last= |first= |date=15 November 2024 |title=The investigation against Beroš and seven others was initiated by the EPPO |url=https://n1info.hr/english/news/the-investigation-against-beros-and-seven-others-was-initiated-by-the-eppo/ |access-date=15 November 2024 |website=[[N1 (Croatia)|N1]] |language=hr}}</ref><ref>{{Cite web |date=15 November 2024 |title=A Croatian corruption investigation snares the health minister and several others |url=https://apnews.com/article/croatia-arrest-corruption-minister-health-procurement-hospitals-d9f35a6aebc9a2462bf8e102f51aa4f7 |access-date=15 November 2024 |website=Associated Press |language=en}}</ref> This caused a standoff between Croatian law enforcement agency [[USKOK]] and the [[European Public Prosecutor's Office]], one of whose investigations was blown by the arrest. [[DORH|Attorney General of Croatia]] [[Ivan Turudić]] ruled that USKOK would continue the investigation using the evidence collected by EPPO. Milanović criticised this decision.<ref name="beros" /><ref>{{Cite web |title=HDZ-ov dečko Turudić: Istrage EPPO-a o Berošu više nema. Sve moraju prijaviti USKOK-u |url=https://www.index.hr/vijesti/clanak/hdzov-decko-turudic-istrage-eppoa-o-berosu-vise-nema-sve-moraju-prijaviti-uskoku/2616902.aspx |access-date=2024-11-20 |website=Index.hr |language=hr}}</ref> Another controversy happened around the same time when Milanović vetoed the government's proposal to involve Croatia in a NATO operation training Ukrainian soldiers. The parliament did not attempt to overrule his veto.<ref>{{cite web |last1=Devčić |first1=Matej |title=Hoće li Sabor ikada glasati o famoznoj misiji NSATU? Sve je više indicija da HDZ tu temu želi zaboraviti |url=https://www.telegram.hr/politika-kriminal/hoce-li-sabor-ikada-glasati-o-famoznoj-misiji-nsatu-sve-je-vise-indicija-da-hdz-tu-temu-zeli-zaboraviti/ |website=[[Telegram.hr]] |access-date=16 January 2025 |language=hr |date=12 December 2024}}</ref><ref>{{cite web |last1=Devčić |first1=Matej |title=Milanović: 'Znamo tko su nam saveznici, to je zapadni svijet. Ali nisu nam gospodari' |url=https://www.telegram.hr/politika-kriminal/milanovic-znamo-tko-su-nam-saveznici-to-je-zapadni-svijet-ali-nisu-nam-gospodari/ |website=Telegram.hr |access-date=16 January 2025 |language=hr |date=22 November 2024}}</ref>
+
+== Electoral system ==
+The [[president of Croatia]] is directly elected by secret ballot to a term of five years using the [[two-round system]], with presidents limited to two full terms in office. The [[Constitution of Croatia|constitution]] requires that a presidential election be held no sooner than 60 days and no later than 30 days before the expiration of the incumbent president's term. An absolute majority (50% + 1 vote) of all votes cast (including invalid, blank and uncast ballots) is required to win in the first round. If no candidate receives a majority of the vote, a second-round is to be held fourteen days later, with the two candidates with the highest number of votes in the first round taking part. The candidate who receives the highest number of votes in the second round (a majority of valid votes cast) is declared the winner. If one of the candidates who has qualified for the second round were to withdraw their candidacy or die, the candidate with the next highest number of votes in the first round takes their place in the second round.<ref name="Propisi">[http://www.sabor.hr/ustav-republike-hrvatske Važniji propisi] {{Webarchive|url=https://web.archive.org/web/20161213070728/http://www.sabor.hr/ustav-republike-hrvatske|date=2016-12-13}} Croatian Parliament {{in lang|hr}}</ref>
+
+In order for a potential candidate to be allowed to contest the elections and have their name placed on the ballot, they must gather at least 10,000 signatures from eligible voters, with every signatory being permitted to give their signature to only one potential candidate. The timeframe for collecting the said number of signatures is set at twelve days, and after the expiry of this period potential candidates must submit them to the State Electoral Commission for verification.<ref>{{cite web |date=20 November 2014 |title=Bliže se predsjednički izbori! Ovo su datumi koje morate znati. |trans-title=The presidential election is getting near! These are the dates you have to know. |url=https://dnevnik.hr/vijesti/hrvatska/ovo-su-svi-datumi-koje-morate-znati-za-nadolazece-predsjednicke-izbore---361563.html |access-date=22 December 2018 |publisher=[[Dnevnik.hr]] |language=hr}}</ref>
+
+==Candidates==
+On 11 December, the State Electoral Commission published a list of eight candidates.<ref>{{cite web |title=Lista kandidata za predsjednika Republike Hrvatske 2024. |url=https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_predsjednika_Republike_Hrvatske/Kandidatura/Predsjednik%202024.%20rje%C5%A1enja%20i%20zbirna%20lista.pdf |website=izbori.hr |access-date=12 December 2024}}</ref>
+{| class="wikitable"
+|-
+! colspan=3 | Candidate
+! Party affiliation
+! Political remarks
+! Proof of nomination
+|-
+|width=5px style="color:inherit;background:{{party color|The Bridge (Croatia)}} |
+|[[File:Miro Bulj.jpg|80px]]
+|[[Miro Bulj]]
+|[[The Bridge (Croatia)|Most]]
+|Incumbent [[Sabor|MP]] for [[Electoral district IX (Croatian Parliament)|electoral district IX]] (since 2015) and mayor of [[Sinj]]. Co-endorsed also by [[Croatian Sovereignists]] (HS).<ref name=Suverenisti>{{cite web |title=IZJASNILI SE Hrvatski suverenisti podržavaju čak troje predsjedničkih kandidata. Evo o kome je riječ |url=https://www.nacional.hr/neodlucni-hrvatski-suverenisti-podrzavaju-cak-tri-predsjednicka-kandidata-evo-koje/ |website=nacional.hr |publisher=[[Nacional (weekly)|Nacional]] |access-date=25 November 2024 |language=hr |date=29 Oct 2024}}</ref> He ran  on a national conservative and anti-immigration platform. His bid was announced on 8 October 2024.<ref>{{cite web |title=Bulj: Kandidiram se za predsjednika. Niti sam igrač američki, niti sam igrač ruski |url=https://www.index.hr/vijesti/clanak/bulj-kandidirat-cu-se-za-predsjednika-drzave/2604959.aspx |website=index.hr |access-date=8 October 2024}}</ref> 
+|Submitted undisclosed number of signatures on 6 December.<ref>{{cite web |title=Miro Bulj predao potpise |url=https://n1info.hr/vijesti/miro-bulj-predao-potpise/ |website=n1info.hr |date=6 December 2024 |access-date=6 December 2024}}</ref>
+|-
+|width=5px style="color:inherit;background:{{party color|Croatian Party of Rights}} |
+| 
+|[[Tomislav Jonjić]]
+|[[Independent politician|Independent]]
+| Lawyer, jurist, and publicist.<ref>{{cite web |title=Poznati osvjetnik želi postati predsjednik, cilja na birače HDZa: "Popularniji sam od Primorca, možemo se kladiti |url=//www.telegram.hr/politika-kriminal/poznati-odvjetnik-zeli-postati-predsjednik-cilja-na-birace-hdz-a-popularniji-sam-od-primorca-mozemo-se-kladiti/ |website=telegram.hr |access-date=7 July 2024}}</ref> Although formally independent, he is a member of the [[Croatian Party of Rights]] (HSP). Co-endorsed also by [[Croatian Sovereignists]] (HS).<ref name=Suverenisti/> His bid was announced on 23 May 2024.<ref>{{cite web |title=Tomislav Jonjić, kandidat za predsjednika: Moj program je poštenje, rad, obitelj i Domovina |url=https://www.maxportal.hr/vijesti/tomislav-jonjic-kandidat-za-predsjednika-moj-program-je-postenje-rad-obitelj-i-domovina/ |website=maxportal.hr |date=7 July 2024 |access-date=13 September 2024}}</ref>
+|Submitted undisclosed number of signatures on 10 December.<ref>{{cite web |title=Jonjić: Objavljujemo borbu protiv totalitarnog, jugoslavenskog duha |url=https://vijesti.hrt.hr/hrvatska/jonjic-1-11903556 |website=vijesti.hrt.hr |access-date=11 December 2024}}</ref>
+|-
+|width=5px style="color:inherit;background:{{party color|We can! (Croatia)}}|
+|[[File:Ivana Kekin - portrait (cropped).jpg|80px]]
+|[[Ivana Kekin]]
+|[[We can! (Croatia)|Možemo!]]
+|Incumbent [[Sabor|MP]] for [[Electoral district I (Croatian Parliament)|electoral district I]]. She ran on a green left and progressive platform. Her bid was announced on 10 September 2024.<ref>{{cite web |title=Ivana Kekin o svojoj kandidaturi na predsjedničkim izborima: 'Dat ću sve od sebe' |url=https://www.tportal.hr/vijesti/clanak/ivana-kekin-o-svojoj-kandidaturi-na-predsjednickim-izborima-dat-cu-sve-od-sebe-20240910 |website=tportal.hr |access-date=12 September 2024}}</ref>
+|Submitted some 18,000 signatures on 10 December.<ref>{{cite web |title=Ivana Kekin predala potpise DIP-u: 'Skupili smo 18.000 potpisa!' |url=https://net.hr/danas/vijesti/predsjednicka-kandidatkinja-ivana-kekin-predala-potpise-dip-u-7ddfda9a-b6e4-11ef-8f5f-36bdb4de2687 |website=net.hr |access-date=10 December 2024}}</ref>
+|-
+|width=5px style="color:inherit;background:{{party color|Home and National Rally}} |
+| 
+|[[Branka Lozo]]
+|[[Home and National Rally|DOMiNO]]
+|Professor at the [[University of Zagreb]]. Co-endorsed  by [[Croatian Sovereignists]] (HS). She ran on a right-wing and nationalist platform. Her bid was announced on 28 September.<ref>{{cite web |title=Radić predsjednik DOMiNO-a, Branka Lozo bit će kandidatkinja za predsjednicu države |url=https://www.novilist.hr/novosti/hrvatska/radic-predsjednik-domino-a-branka-lozo-bit-ce-kandidatkinja-za-predsjednicu-drzave/ |website=novilist.hr |date=28 September 2024 |access-date=1 October 2024}}</ref>
+|Submitted undisclosed number of signatures on 10 December.<ref>{{cite web |title=Lozo predala potpise. Radić: Ona ima veću obitelj i više djece nego drugi kandidati |url=https://www.index.hr/vijesti/clanak/lozo-predala-potpise-za-kandidaturu-imam-ih-daleko-vise-od-propisanog/2623029.aspx |website=index.hr |access-date=10 December 2024}}</ref>
+|-
+|width=5px style="color:inherit;background:{{party color|Social Democratic Party of Croatia}} |
+|[[File:Zoran Milanović at Palazzo del Quirinale 2021 (11) (cropped).jpg|80px]]
+|[[Zoran Milanović]]
+|[[Independent politician|Independent]]
+|Incumbent [[President of Croatia]] since 2020. Milanović stood for re-election to a second and final term. Although formally independent, he was nominated by the biggest opposition party, the [[Social Democratic Party of Croatia|Social Democratic Party]] (SDP)<ref name="net.hr">{{cite web |title=Grbin potvrdio da će Milanović biti SDP-ov kandidat za predsjednika |url=https://net.hr/danas/vijesti/glavni-odbor-sdp-a-potvrdio-zorana-milanovica-za-predsjednickog-kandidata-87e4bd6c-3629-11ef-993a-be914d0f96fe |website=Net.hr |access-date=30 June 2024 |language=hr-HR |date=29 June 2024}}</ref> and by 9 other centre-left and liberal parties ([[Independent Platform of the North|NPS]],<ref name="Uzinić">{{Cite web |last=Uzinić |first=Silvana |date=1 July 2024 |title=Tko će podržati Milanovića i zašto u Saboru prijedlozi bivše 'mostovke' ekspresno dolaze na dnevni red? |trans-title=Who will support Milanović and why are the proposals of the former "mostovka" on the agenda in Parliament? |url=https://slobodnadalmacija.hr/vijesti/politika/tko-ce-podrzati-milanovica-i-zasto-u-saboru-prijedlozi-bivse-mostovke-ekspresno-dolaze-na-dnevni-red-1400689 |access-date=5 July 2024 |website=Slobodna Dalmacija |language=hr}}</ref> [[Centre (Croatian political party)|Centre]],<ref>{{cite web |title=Centar će na predsjedničkim izborima podržati Milanovića |trans-title=Centre will endorse Milanović in the presidential elections |url=https://vijesti.hrt.hr/hrvatska/centar-ce-na-predsjednickim-izborima-podrzati-milanovica-11821246 |website=vijesti.hrt.hr |publisher=[[Croatian Radiotelevision|HRT]] |access-date=3 November 2024 |language=hr |date=22 Oct 2024}}</ref> [[Croatian Peasant Party|HSS]],<ref name="Jutarnji">{{Cite web |date=2024-07-02 |title=Jutarnji list – HSS podržao kandidaturu Milanovića u za još jedan mandat na Pantovčaku |url=https://www.jutarnji.hr/vijesti/hrvatska/hss-podrzao-kandidaturu-milanovica-u-za-jos-jedan-mandat-na-pantovcaku-15477544 |website=www.jutarnji.hr |language=hr-hr |access-date=2024-07-02}}</ref> [[Dalija Orešković and People with a First and Last Name|DO i SIP]], [[People's Party – Reformists|NS-R]],<ref name="index.hr">{{cite web |title=Čačićevi Reformisti dali podršku Milanoviću na izborima za predsjednika |url=https://www.index.hr/vijesti/clanak/cacicevi-reformisti-dali-podrsku-milanovicu-na-izborima-za-predsjednika/2578288.aspx |website=[[Index.hr]] |access-date=30 June 2024 |language=hr}}</ref> [[Civic Liberal Alliance|GLAS]], Pensioners' interests ''SU'',<ref name="ReferenceA">{{Cite web |title=Stranka umirovljenika podržala Milanovića, on obećao da će "glasno govoriti" |url=https://www.index.hr/vijesti/clanak/stranka-umirovljenika-podrzala-milanovica-on-obecao-da-ce-glasno-govoriti/2587724.aspx |access-date=2024-09-16 |website=www.index.hr |language=hr}}</ref> and ''BUZ'',<ref name="Podržat ćemo">{{Cite web |date=2024-09-17 |title=BUZ – Podržat ćemo Zorana Milanovića na izborima|url=https://www.buz.hr/vijesti/opcenito/buz-podrzat-cemo-zorana-milanovica-na-izborima|access-date=2024-10-31}}</ref> and regionalist ''MDS'').<ref name=candidates>{{cite web |title=ZAPRIMLJENE KANDIDATURE |url=https://www.izbori.hr/pre2024/kandid/1/ |website=izbori.hr |publisher=State Electoral Commission |access-date=7 December 2024 |language=hr}}</ref><ref>{{Cite web|url=https://dnevnik.hr/vijesti/hrvatska/predsjednik-zoran-milanovic-odgovorio-na-pitanje-planira-li-se-kandidirati-za-novi-mandat---808607.html|title=VIDEO Zorana Milanovića novinari pitali planira li po novi mandat, pogledajte što im je odgovorio|website=Dnevnik.hr|access-date=8 December 2023}}</ref> Former [[Prime Minister of Croatia]] (2011–2016) and the president of SDP (2007–2016). His bid was announced on 26 June 2024.<ref>{{cite web |title=Milanović upravo objavio: "Idem na izbore, ovo su moji aduti" |url=https://dnevnik.hr/vijesti/hrvatska/zoran-milanovic-kandidat-na-predsjednickim-izborima---855808.html |website=dnevnik.hr |publisher=[[Nova TV (Croatia)|Nova TV]] |access-date=26 June 2024 |language=hr |date=26 Jun 2024}}</ref>
+|Submitted 45,833 signatures on 3 December.<ref>{{cite web |title=DIP potvrdio: Milanović skupio dovoljno potpisa! |url=https://n1info.hr/vijesti/dip-potvrdio-milanovic-skupio-dovoljno-potpisa/ |website=n1info.hr |date=3 December 2024 |access-date=5 December 2024}}</ref><ref>{{cite web |title=Milanović otkrio da je prikupio 45.833 potpisa: "Zahvaljujem svima" |url=https://www.novilist.hr/novosti/hrvatska/milanovic-otkrio-da-je-prikupio-45-833-potpisa-zahvaljujem-svima/ |website=novilist.hr |date=3 December 2024 |access-date=5 December 2024}}</ref>
+|-
+|width=5px style="color:inherit;background:{{party color|Croatian Democratic Union}} |
+|[[File:Primorac - Elias Zerhouni (cropped) (cropped).jpg|80px]]
+|[[Dragan Primorac]]
+|[[Independent politician|Independent]]
+|Although formally independent, he was nominated by the ruling [[Croatian Democratic Union]] (HDZ) and is supported by 6 other centrist to right-wing parties ([[Homeland Movement (Croatia)|Homeland Movement]],<ref name ="Penava otkrio">{{Cite web |date=16 September 2024 |title=Penava otkrio koga će DP podržati na predsjedničkim izborima |trans-title=Penava revealed who DP will support in the presidential elections|url=https://www.index.hr/vijesti/clanak/penava-dp-ce-podrzati-primorca/2598765.aspx |access-date=16 September 2024 |website=[[Index.hr]] |language=hr}}</ref> [[Croatian Party of Pensioners|HSU]],<ref name="Špiljak">{{Cite web |last=Špiljak |first=Lucija |date=1 August 2024 |title=HSU podržao kandidaturu Dragana Primorca: 'Postao je meta napada i omalovažavanja' |trans-title=HSU supported Dragan Primorc's candidacy: 'He became the target of attacks and disparagement' |url=https://www.tportal.hr/vijesti/clanak/hsu-podrzao-kandidaturu-dragana-primorca-postao-je-meta-napada-i-omalovazavanja-20240801 |access-date=1 August 2024 |website=tportal |language=hr}}</ref> [[Croatian Demochristian Party|HDS]],<ref name="ReferenceB">{{Cite web |date=1 August 2024 |title=Zekanović podržao Primorca: On je čovjek koji može pobijediti Milanovića |trans-title=Zekanović supported Primorac: He is the man who can defeat Milanović |url=https://vijesti.hrt.hr/hrvatska/zekanovic-11687897 |access-date=1 August 2024 |website=HRT |language=hr}}</ref> [[Croatian Social Liberal Party|HSLS]], [[Croatian People's Party – Liberal Democrats|HNS]],<ref>{{cite web |title=Primorac dvorani prepunoj HDZ-ovaca: "Zaustavit ću korupciju". Zvuči vam poznato? |url=https://www.index.hr/vijesti/clanak/primorac-dvorani-prepunoj-hdzovaca-zaustavit-cu-korupciju-zvuci-vam-poznato/2617557.aspx |publisher=[[Index.hr]] |access-date=25 November 2024 |language=hr |date=21 Nov 2024}}</ref> and ''Nezavisni'').<ref name=candidates/> Former [[Ministry of Science and Education (Croatia)|Minister of Science, Education and Sports]] (2003–2009)<ref>{{Cite web |date=31 July 2024 |title=VIDEO Dragan Primorac objavio kandidaturu za predsjednika, objavio i snimku, a već se pohvalio i web-stranicom |trans-title=VIDEO Dragan Primorac announced his candidacy for the presidency, published a video, and already boasted about his website |url=https://www.vecernji.hr/vijesti/video-dragan-primorac-objavio-kandidaturu-za-predsjednika-objavio-i-snimku-a-vec-se-pohvalio-i-web-stranicom-1789102 |access-date=1 August 2024 |website=Večernji list |language=hr}}</ref> and a presidential candidate in the [[2009–10 Croatian presidential election|2009 election]]. His bid was announced on 30 July 2024.<ref>{{cite web |title=Primorac objavio kandidaturu za predsjednika RH, HDZ mu dao potporu |url=https://vijesti.hrt.hr/hrvatska/dragan-primorac-objavio-kandidaturu-za-predsjednicke-izbore-11686143 |website=vijesti.hrt.hr |access-date=13 September 2024}}</ref>
+|Submitted 109,505 signatures on 4 December.<ref>{{cite web |title=Dragan Primorac predao potpise u DIP: "Milanović već demonstrira da je prošli predsjednik" |url=https://n1info.hr/vijesti/dragan-primorac-predao-potpise/ |website=n1info.hr |date=4 December 2024 |access-date=5 December 2024}}</ref>
+|-
+|width=5px style="color:inherit;background:{{party color|Independent}} |
+|[[File:Marija Selak Raspudić (cropped).jpg|80px]] 
+|[[Marija Selak Raspudić]]
+|[[Independent politician|Independent]]
+|Incumbent [[Sabor|MP]] for [[Electoral district I (Croatian Parliament)|electoral district I]], elected on [[The Bridge (Croatia)|Most]] electoral list in [[2024 Croatian parliamentary election|April 2024]].<ref>{{Cite web |last=Špoljar |first=Marko |date=10 June 2024 |title=Nino Raspudić otkrio nam je planove: "Marija ide na Milanovića! Most? Samo se sjetite što je Božo rekao..." |trans-title=Nino Raspudić revealed the plans to us: "Marija is going to Milanović! The Bridge? Just remember what Božo said..." |url=https://www.jutarnji.hr/vijesti/hrvatska/nino-raspudic-otkrio-nam-je-planove-marija-ide-na-milanovica-most-samo-se-sjetite-sto-je-bozo-rekao-15470099 |access-date=10 June 2024 |website=Jutarnji list |language=hr}}</ref> She ran on a conservative platform.<ref>{{cite web|url=https://www.freiheit.org/western-balkans/controversial-president-winning-streak|title=A Controversial President on a Winning Streak|website=Friedrich Naumann Foundation|date=20 December 2024}}</ref> Her bid was announced on 22 July 2024.<ref>{{Cite web |last=Toma |first=Ivanka |date=22 July 2024 |title=Selak Raspudić ekskluzivno za Jutarnji: 'Kandidirat ću se za predsjednicu i pobijediti Milanovića' |trans-title=Selak Raspudić exclusively for Jutarnji: 'I will run for president and defeat Milanović' |url=https://www.jutarnji.hr/vijesti/hrvatska/selak-raspudic-ekskluzivno-za-jutarnji-kandidirat-cu-se-za-predsjednicu-i-pobijediti-milanovica-15484548 |access-date=23 July 2024 |website=Jutarnji list |language=hr}}</ref>
+|Submitted undisclosed number of signatures on 9 December.<ref>{{cite web |title=Selak Raspudić prešutjela koliko je potpisa predala: 'Dovoljno, nitko se ne bi usudio ići s 10.000' |url=https://net.hr/danas/vijesti/predsjednicka-kandidatkinja-marija-selak-raspudic-predala-potpise-biraca-7d0c3abc-b619-11ef-81da-829ff0affdfc |website=net.hr |date=9 December 2024 |access-date=9 December 2024}}</ref><ref>{{cite web |title=Selak Raspudić predala potpise: Cilj je omogućiti Hrvatskoj da prodiše j|url=https://n1info.hr/vijesti/selak-raspudic-predala-potpise/ |website=n1info.hr |date=9 December 2024 |access-date=9 December 2024}}</ref>
+|-
+|width=5px style="color:inherit;background:{{party color|Independent}} |
+| 
+|[[Niko Tokić Kartelo]]
+|[[Independent politician|Independent]]
+|Businessman.<ref>{{cite web |title="Narodni predsjednik" – Hrvatska na prvom i pravom mjestu |url=https://predsjednikprijatelj.hr/ |website=predsjednikprijatelj.hr |access-date=12 September 2024 |archive-url=https://web.archive.org/web/20250107181659/https://predsjednikprijatelj.hr/ |archive-date=7 January 2025 |url-status=dead}}</ref> His bid was announced on 2 August 2024.<ref>{{cite web |last1=Asipi |first1=Emirat |title=Poznati zagrebački poduzetnik ulazi u utrku za Pantovčak: 'Sad je vrijeme služiti našoj zemlji...' |url=https://www.24sata.hr/news/poznati-zagrebacki-poduzetnik-ulazi-u-utrku-za-pantovcak-sad-je-vrijeme-sluziti-nasoj-zemlji-997271 |website=24sata.hr |date=2 August 2024 |access-date=13 September 2024}}</ref>
+|Submitted some 11,800 signatures on 9 December.<ref>{{cite web |title=Tokić Kartelo predao potpise: Punim hrvatski proračun dok ga drugi prazne |url=https://n1info.hr/vijesti/tokic-kartelo-predao-potpise-punim-hrvatski-proracun-dok-ga-drugi-prazne/ |website=n1info.hr |date=9 December 2024 |access-date=9 December 2024}}</ref>
+|-
+|}
+
+=== Failed candidacies ===
+These individuals failed to submit the required number of endorsement signatures.
+* {{ill|Dražen Keleminec|hr}} ([[Autochthonous Croatian Party of Rights|A-HSP]]), Incumbent president of [[Autochthonous Croatian Party of Rights]] (A-HSP) since 2005. His bid was announced on 21 September 2024.<ref>{{cite web |title=Dražen Keleminec najavio kandidaturu za predsjednika Republike |url=https://www.tportal.hr/vijesti/clanak/drazen-keleminec-najavio-kandidaturu-za-predsjednika-republike-20240919 |website=tportal.hr |access-date=28 September 2024}}</ref> Submitted 10,932 on 10 December.<ref>{{cite web |title=Keleminec predao potpise za kandidaturu: DIP me nije puštao zbog prvog bijelog polja |url=https://n1info.hr/vijesti/keleminec-predao-potpise-za-kandidaturu/ |website=n1info.hr |date=10 December 2024 |access-date=10 December 2024}}</ref> On 11 December, his bid was rejected by the State Electoral Commission because he failed to submit the required number of endorsement signatures. Only 7,712 signatures were verified as authentic.<ref>{{cite web |title=Rješenje kojim se odbija prijedlog kandidata Dražena Keleminca za predsjednika Republike Hrvatske |url=https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_predsjednika_Republike_Hrvatske/Rjesenja_o_prigovorima/Rje%C5%A1enje%20-%20Dra%C5%BEen%20Keleminec.pdf |website=izbori.hr |access-date=12 December 2024}}</ref>
+* Slobodan Midžić ([[Independent politician|independent]]), a potential [[perennial candidate]] who submitted just one signature of endorsement on 9 December.<ref name=candidates/><ref>{{cite web |title=Bliži se rok za predaju potpisa za predsjedničku kampanju |url=https://n1info.hr/video/n1-info/blizi-se-rok-za-predaju-potpisa-za-predsjednicku-kampanju/ |website=n1info.hr |date=9 December 2024 |access-date=10 December 2024}}</ref> On 11 December, his bid was rejected by the State Electoral Commission because he failed to submit the required number of endorsement signatures.<ref>{{cite web |title=Rješenje kojim se odbija prijedlog kandidata Slobodana Midžića za predsjednika Republike Hrvatske |url=https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_predsjednika_Republike_Hrvatske/Rjesenja_o_prigovorima/Rje%C5%A1enje%20-%20Slobodan%20Mid%C5%BEi%C4%87.pdf |website=izbori.hr |access-date=12 December 2024}}</ref> He had previously unsuccessfully attempted to become a candidate in [[2009–10 Croatian presidential election|2009]], [[2014–15 Croatian presidential election|2014]], and [[2019–20 Croatian presidential election|2019]] elections.
+*Pavle Perović (independent). His bid was announced on 13 November 2024.<ref>{{cite web |title=Raspored zaprimanja prijedloga kandidata |url=https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_predsjednika_Republike_Hrvatske/Raspored%20zaprimanja%20prijedloga%20kandidata/najava_2.12.2024.(2).pdf |website=Državno izborno povjerenstvo Republike Hrvatske}}</ref><ref>{{cite web |title=Ovaj Zadranin želi u utrku za predsjednika države, no treba vašu pomoć |url=https://023.hr/2024/11/ovaj-zadranin-zeli-u-utrku-za-predsjednika-drzave-no-treba-vasu-pomoc/ |website=023.hr |language=hr |date=14 November 2024}}</ref>
+*Dražen Pilić (independent), president of Cultural-Sports Veterans' Association. His bid was announced on 20 October 2024.<ref>{{cite web |title=Raspored zaprimanja prijedloga kandidata |url=https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_predsjednika_Republike_Hrvatske/Raspored%20zaprimanja%20prijedloga%20kandidata/Raspored_zaprimanja_prijedloga_kandidata.pdf |website=Državno izborno povjerenstvo Republike Hrvatske}}</ref><ref>{{cite web |title=Dražen Pilić Vaš Predsjednik RH |url=https://www.facebook.com/braniteljska.televizija/posts/pfbid02cmuxmvT7mY5b3EAcu65CQ9GGKDbW4RzeGEMF4k7eKzUHiuVhreTmnm4xGWyM96F7l |website=Dražen Pilić (Facebook)}}</ref>
+*[[Karolina Vidović Krišto]] ({{ill|Odlučnost i pravednost|hr|lt=OiP}}), Journalist and former [[Sabor|MP]] for [[Electoral district IX (Croatian Parliament)|electoral district IX]] (2020–2024). Her bid was announced on 26 November 2024.<ref>{{cite web |title=UVEST ĆE REDA Karolina Vidović Krišto u utrci za Pantovčak: 'Zbog korupcije su nam plaće na dnu' |url=https://www.nacional.hr/uvest-ce-reda-karolina-vidovic-kristo-u-utrci-za-pantovcak-zbog-korupcije-su-nam-place-na-dnu/ |website=nacional.hr |publisher=[[Nacional (weekly)|Nacional]] |access-date=26 November 2024 |language=hr |date=26 November 2024}}</ref> Submitted some 11,000 signatures on 10 December.<ref>{{cite web |title=Karolina Vidović Krišto predala potpise pa najavila mogući izlazak iz utrke |url=https://vijesti.hrt.hr/hrvatska/karolina-vidovic-kristo-predala-potpise-pa-najavila-moguci-izlazak-iz-utrke-11903838 |website=vijesti.hrt.hr |access-date=11 December 2024}}</ref> On 11 December, her bid was rejected by the State Electoral Commission because she failed to submit the required number of endorsement signatures. Only 8,084 signatures were verified as authentic.<ref>{{cite web |title=Rješenje kojim se odbija prijedlog kandidatkinje Karoline Vidović Krišto za predsjednicu Republike Hrvatske |url=https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_predsjednika_Republike_Hrvatske/Rjesenja_o_prigovorima/Rje%C5%A1enje%20-%20Karolina%20Vidovi%C4%87%20Kri%C5%A1to.pdf |website=izbori.hr |access-date=12 December 2024}}</ref>
+
+=== Withdrawn bids ===
+*Anton Filić (independent), former journalist of ''[[Večernji list]]'' and former president of the Union of Croatian Journalists. His bid was announced on 11 November 2024.<ref>{{cite web |title=Bivši novinar Večernjeg lista Anton Filić najavio kandidaturu za predsjednika |url=https://www.jutarnji.hr/vijesti/hrvatska/bivsi-novinar-vecernjeg-lista-anton-filic-najavio-kandidaturu-za-predsjednika-15521473 |website=jutarnji.hr |publisher=[[Jutarnji list]] |access-date=26 November 2024 |language=hr |date=11 Nov 2024}}</ref> He withdrew on 8 December.<ref>{{cite web |title=Novinar Filić odustao od utrke za predsjednika, žalio se na HRT |url=https://www.index.hr/vijesti/clanak/novinar-filic-odustao-od-utrke-za-predsjednika/2622462.aspx |website=www.index.hr |language=hr |date=8 December 2024}}</ref>
+*Ava Karabatić (independent), model and television personality. Her bid was announced on 23 November 2024.<ref>{{Cite web |date=2024-11-23 |title=Službeno je: Ava Karabatić opet se kandidira za predsjednicu! |url=https://www.24sata.hr/show/sluzbeno-je-ava-karabatic-opet-se-kandidira-za-predsjednicu-1017452 |access-date=2024-11-25 |website=www.24sata.hr |language=hr}}</ref> She withdrew on 5 December.<ref>{{cite web |title=Od slogana do potpisa: Tko se bori, a tko odustaje od utrke za Pantovčak? (from 2:20 in the video) |url=https://www.youtube.com/watch?v=KEhQYi5U5DQ |website=RTL Danas (via YouTube) |date=8 December 2024}}</ref>
+*[[Mislav Kolakušić]] ([[Law and Justice (Croatia)|PiP]]), former [[Member of the European Parliament|MEP]] (2019–2024), presidential candidate in the [[2019–20 Croatian presidential election|2019 election]]. His bid was announced on 23 April 2024.<ref>{{Cite web |date=23 April 2024 |title=Mislav Kolakušić kandidirat će se na predsjedničkim izborima: "Rekao je da više nema što raditi s Domovinskim pokretom" |trans-title=Mislav Kolakušić will run in the presidential elections: "He said that he has nothing to do with the Homeland Movement anymore" |url=https://dnevnik.hr/vijesti/hrvatska/mislav-kolakusic-kandidirat-ce-se-na-predsjednickim-izborima-rekao-je-da-vise-nema-sto-raditi-s-domovinskim-pokretom---844611.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |access-date=23 April 2024 |website=Dnevnik.hr |language=hr}}</ref> He withdrew on 10 December.<ref>{{cite web |title=Kolakušić nije skupio dovoljno potpisa |url=https://www.index.hr/vijesti/clanak/kolakusic-nije-skupio-dovoljno-potpisa/2623218.aspx |website=index.hr |access-date=11 December 2024}}</ref>
+*Aurora Weiss (independent), journalist. Her bid was announced on 11 September 2024.<ref>{{cite web |last1=Sučec |first1=Nikola |title=Aurora Weiss želi biti predsjednica Hrvatske: 'Kobila se utrkuje s kornjačama' |url=https://www.tportal.hr/vijesti/clanak/aurora-weiss-zeli-biti-predsjednica-hrvatske-kobila-se-utrkuje-s-kornjacama-foto-20240911 |website=tportal.hr |access-date=12 September 2024}}</ref> She withdrew on 10 December.<ref>{{cite web |title=Aurora Weiss odustala od predsjedničke kandidature. Nije skupila potpise |url=https://www.index.hr/vijesti/clanak/aurora-weiss-odustala-od-predsjednicke-kandidature/2623166.aspx?index_ref=naslovnica_vijesti_ostalo_d_0 |website=index.hr |access-date=11 December 2024}}</ref>
+
+==Campaign==
+[[File:Milanovićev predizborni plakat (cropped).jpg|thumb|Milanović's campaign poster with a message: "Normally – the Croatian soldier will not wage wars of others'."]]
+The incumbent, Zoran Milanović, ran on an anti-corruption campaign, opposing social inequality and growing inflation, which he attributed to policies of the HDZ government. He said that his key values are "the rule of law, right to equality, personal freedoms and rights of minorities". On foreign policy, Milanović said he would "keep Croatia outside global conflicts," and that the country must "retain the right to independent decisions about its national interests". Milanović said he would not slow former Yugoslav countries' accession to the EU.<ref name="milanović net.hr">{{cite web |last1=Rebac |first1=Iva |title=Istodobno mu se dive i kritiziraju ga: Zoran Milanović, političar koji nikoga ne ostavlja ravnodušnim |url=https://www.net.hr/danas/vijesti/tko-je-zoran-milanovic-i-sto-nudi-u-svom-izbornom-programu-fcd85d56-b0a7-11ef-9db7-829ff0affdfc |website=Net.hr |access-date=16 January 2025 |language=hr-HR |date=9 December 2024}}</ref>
+
+Dragan Primorac ran on a campaign of co-operation with the HDZ government.<ref name="hdz">{{cite web |title=Pismo naciji Dragana Primorca |url=https://hdz.hr/article/4842/pismo-naciji-dragana-primorca |publisher=Croatian Democratic Union (HDZ) |access-date=16 January 2025 |language=hr |date=10 January 2025 |quote=... poštovati Ustav i predano raditi na vraćanju nacionalnog jedinstva, umjesto podjela koje razaraju naše društvo}}</ref> He said he would "return civility ... particularly to political and public spheres of life" and that "the military is always above politics", and he offered "unconditional adherence" to "Western values" and the NATO alliance. Primorac's campaign was conservative on regional issues. He promised to "offer special attention to the rights" of [[Croats in Bosnia and Herzegovina]],<ref name="primorac hrt">{{cite web |title=Primorac objavio kandidaturu za predsjednika RH, HDZ mu dao potporu |url=https://vijesti.hrt.hr/hrvatska/dragan-primorac-objavio-kandidaturu-za-predsjednicke-izbore-11686143 |publisher=[[Croatian Radiotelevision]] |access-date=16 January 2025 |language=hr |date=31 July 2024}}</ref> and prevent [[Serbia]] from [[accession of Serbia to the European Union|joining the EU]] unless it provided Croatia with access to archives containing information about mass graves from the [[Croatian War of Independence]] (1991&ndash;1995).<ref name="primorac 24sata">{{cite web |agency=[[HINA]] |title=Primorac: 'Zakočit ću ulazak Srbije u EU ako ne otvori arhive' |url=https://www.24sata.hr/news/primorac-zakocit-cu-ulazak-srbije-u-eu-ako-ne-otvori-arhive-1021697 |website=[[24 sata (Croatia)|24 sata]] |access-date=16 January 2025 |location=Zagreb |language=hr |date=14 December 2024}}</ref>
+
+Neither Primorac nor Milanović led an active campaign.<ref name="macan net.hr">{{cite web |title=Krešimir Macan komentirao strategiju za predsjedničke izbore Zorana Milanovića |url=https://www.net.hr/danas/rtl-direkt/kresimir-macan-komentirao-strategiju-za-predsjednicke-izbore-zorana-milanovica-795b3110-adc8-11ef-8019-b282ec61614a |website=Net.hr |access-date=16 January 2025 |language=hr |date=28 November 2024}}</ref> Milanović attended only a single debate, on 23 December, during the first round of the elections,<ref name="debate 1">{{cite web |last1=Matijević |first1=Božena |title=Debata godine: Milanović dolazi samo na sučeljavanje na HTV-u |url=https://vecernji.hr/vijesti/debata-godine-milanovic-dolazi-samo-na-suceljavanje-na-htv-u-1824271 |website=[[Večernji list]] |access-date=16 January 2025 |language=hr |date=18 December 2024}}</ref> but his ratings remained high due to the popularity of his presidency. According to political analysts, both Milanović and Primorac expected to enter the second round regardless of their campaigns.<ref name="macan net.hr"/>
+
+Marija Selak Raspudić campaigned on a platform that included economic problems, population decline and corruption. Ivana Kekin campaigned against Dragan Primorac and the HDZ, accusing them of corruption in the healthcare sector.<ref>{{cite web |title=Croatia's outspoken president is seeking reelection. He faces several contenders in Sunday's vote |url=https://apnews.com/article/croatia-president-election-milanovic-73147e652adbbfb3a9bdb3de89316122 |website=Associated Press |date=27 December 2024 |access-date=27 December 2024}}</ref>{{Better source needed|date=January 2025}} On 7 December a group of Croatian veterans from [[Imotski]] held a peaceful protest at the [[Vinjani Donji]]–[[Gorica, Grude|Gorica]] border crossing against what they claimed was a "media blockade of candidate Tomislav Jonjić".<ref>{{cite web|url=https://www.dalmacijadanas.hr/blokadom-na-blokadu-imotskim-braniteljima-prekipjelo-izisli-na-granicu-ljuti-ih-tretman-prema-jednom-predsjednickom-kandidatu-spremni-smo-na-totalnu-blokadu|title= BLOKADOM NA BLOKADU Imotskim braniteljima prekipjelo, izišli na granicu, ljuti ih tretman prema jednom predsjedničkom kandidatu: "Spremni smo na totalnu blokadu"|website=dalmacijadanas.hr|publisher=Dalmacija Danas|language=hr|date=7 December 2024}}</ref>
+
+In the first round Primorac trailed Milanović by 30 percentage points. In the only debate of the second round debate, on 7 January, both candidates turned to insults.<ref name="debate 2">{{cite web |title=Evo kada i gdje će biti jedina predsjednička debata drugog kruga, odazvali se i Primorac i Milanović |url=https://n1info.hr/vijesti/odazvali-se-milanovic-i-primorac-poznato-kada-i-gdje-ce-biti-jedina-predsjednicka-debata-drugog-kruga/ |website=N1 |access-date=16 January 2025 |language=hr |date=2 January 2025}}</ref><ref name="urdu point">{{cite web |title=Croatia To Vote After Insult-filled Presidential Race |url=https://www.urdupoint.com/en/world/croatia-to-vote-after-insult-filled-president-1900045.html |agency=[[Agence France-Presse]] |work=[[UrduPoint]] |access-date=16 January 2025 |location=Pakistan |language=en |date=27 December 2024}}</ref> Milanović accused Primorac of being "totally illiterate", while Primorac called Milanović a "pro-Russian puppet" who "divided" Croatia.<ref>{{cite web |title=Croatia's populist president tipped for re-election |url=https://www.france24.com/en/live-news/20250110-croatia-s-populist-president-tipped-for-re-election |website=France 24 |access-date=10 January 2025}}</ref> On the same day, the ''[[Jutarnji list]]'' newspaper prematurely ended an online election poll after receiving 25,000 votes tipping the scale to Primorac in a short timespan from US-based internet addresses.<ref>{{cite web |last1=Raknić |first1=Damjan |title=Objavili smo anketu u kojoj smo vas pitali za koga ćete glasati. Onda nam je stiglo više od 25.000 glasova iz – SAD-a! |url=https://www.jutarnji.hr/vijesti/hrvatska/objavili-smo-anketu-u-kojoj-smo-vas-pitali-za-koga-cete-glasati-onda-nam-je-stiglo-vise-od-25-000-glasova-iz-sad-a-15540432 |website=[[Jutarnji list]] |access-date=16 January 2025 |language=hr |date=7 January 2025}}</ref> In the wake of the debate, the Centre for Information Resilience, a UK-based organisation, published a report alleging that "pro-Russian, anti-EU, and anti-NATO bot networks"<ref>{{cite web | url=https://www.info-res.org/cir/articles/disinformation-campaign-uncovered-by-researchers-ahead-of-croatian-presidential-run-off/ | title=Disinformation campaign uncovered by researchers ahead of Croatian presidential run-off }}</ref> promoting Milanović on several social media networks were attempting to influence elections. However, the ''[[Večernji list]]'' national newspaper managed to contact the owner of one of the [[Facebook]] accounts singled out in the report. The account turned out to belong to a real person, a Facebook activist from [[Dugo Selo]] near [[Zagreb]].<ref name="vecernji uk">{{cite web |last1=Prerad |first1=Danijel |title=Javila nam se Zagrepčanka koju su Britanci optužili da je ruski bot: U šoku je |url=https://www.vecernji.hr/vijesti/javila-nam-se-zagrepbcanka-koju-su-britanci-optuzili-da-je-ruski-bot-u-soku-je-1829237 |website=[[Večernji list]] |access-date=16 January 2025 |location=Zagreb |language=hr |date=9 January 2025}}</ref> Social media networks [[Twitter|X]] and [[TikTok]] both denied the allegations; TikTok reported removing a different bot network promoting Primorac.<ref>{{cite web |last1=Menđušić |first1=Silvana |title=Najniža točka kampanje za 2. krug na lokaciji masovne grobnice |url=https://www.telegram.hr/politika-kriminal/milanovic-kampanju-jedva-da-je-i-vodio-a-hdz-za-primorca-upregnuo-bas-sve-najniza-tocka-zabiljezena-je-kod-vukovara-na-lokaciji-moguce-masovne-grobnice/ |website=Telegram.hr |access-date=16 January 2025 |language=hr |date=10 January 2025}}</ref>
+
+==Opinion polls==
+===First round===
+[[File:2024-25 Croatian Presidential Election Polling (First Round).png|center|frameless|1000x1000px]]
+{| class="wikitable" style="text-align:center; font-size:80%"
+|-
+! rowspan="2" |Date
+! rowspan="2" |Polling Firm
+![[Zoran Milanović|Milanović]]
+![[Dragan Primorac|Primorac]]
+![[Davor Ivo Stier|Stier]]
+![[Marija Selak Raspudić|Selak Raspudić]]
+![[Ivana Kekin|Kekin]]
+![[Mislav Kolakušić|Kolakušić]]
+![[Tomislav Jonjić|Jonjić]]
+!Weiss
+![[Niko Tokić Kartelo|Tokić Kartelo]]
+![[:hr:Dražen Keleminec|Keleminec]]
+![[Branka Lozo|Lozo]]
+![[Miro Bulj|Bulj]]
+![[Božo Petrov|Petrov]]
+![[Ivan Penava|Penava]]
+
+! rowspan="2" style="width:40px;" |Undecided / none
+! rowspan="2" style="width:20px;" |Lead
+|-
+! style="background:{{party color|Social Democratic Party of Croatia}}; width:45px;" |
+! style="background:{{party color|Croatian Democratic Union}}; width:45px;" |
+! style="background:{{party color|Croatian Democratic Union}}; width:45px;" |
+! style="background:{{party color|Independent (politician)}}; width:45px;" |
+! style="background:{{party color|We can! (Croatia)}}; width:45px;" |
+! style="background:{{party color|Law and Justice (Croatia)}}; width:45px;" |
+! style="background:{{party color|Croatian Party of Rights}}; width:45px;" |
+! style="background:{{party color|Independent}}; width:45px;" |
+! style="background:{{party color|Independent}}; width:45px;" |
+! style="background:{{party color|Autochthonous Croatian Party of Rights}}; width:45px;" |
+! style="background:{{party color|Home and National Rally}}; width:45px;" |
+! style="background:{{party color|The Bridge (Croatia)}}; width:45px;" |
+! style="background:{{party color|The Bridge (Croatia)}}; width:45px;" |
+! style="background:{{party color|Homeland Movement (Croatia)}}; width:45px;" |
+|- style="background:#ffd;"
+|'''''29 Dec 2024'''''
+|''Results''
+| style="background:#F9C8CA" |'''''49.09'''''
+|'''''19.35'''''
+| '''''–'''''
+|'''''9.25'''''
+|'''''8.89'''''
+| '''''–'''''
+|'''''5.09'''''
+| '''''–'''''
+|'''''0.88'''''
+|'''''–'''''
+|'''''2.41'''''
+|'''''3.82'''''
+| '''''–'''''
+| '''''–'''''
+| '''''1.16'''''{{efn|invalid/blank votes}}
+| style="background:#DF1A22; color:white;" |'''''29.74'''''
+|-
+|27 Dec 2024
+|[https://dnevnik.hr/vijesti/hrvatska/dnevnik-nove-tv-donosi-najrelevantnije-istrazivanje-o-predsjednickim-kandidatima-uoci-izborne-sutnje---887932.html IPSOS]
+| style="background:#F9C8CA" |'''37.2'''
+|20.4
+| –
+|10.6
+|10.2
+| –
+|3.1
+| –
+|0.5
+| –
+|3.5
+|4.4
+| –
+| –
+|10.1
+| style="background:#DF1A22; color:white;" |'''16.8'''
+|-
+|26 Dec 2024
+|[https://net.hr/danas/rtl-danas/milanovic-suvereno-grabi-ka-drugom-mandatu-primorac-u-naletu-ali-razlika-je-ogromna-571e66d2-c3b0-11ef-8ed3-829ff0affdfc Promocija Plus]
+| style="background:#F9C8CA" |'''39.3'''
+|24.3
+| –
+|10.0
+|8.1
+| –
+|2.0
+| –
+|0.6
+| –
+|2.2
+|3.8
+| –
+| –
+|9.8
+| style="background:#DF1A22; color:white;" |'''15.0'''
+|-
+|16 Dec 2024
+|[https://www.vecernji.hr/vijesti/tanta-milanovicu-sve-na-mlin-a-nije-se-ni-oznojio-1823733 2X1 komunikacije]
+| style="background:#F9C8CA" |'''35.5'''
+|26.9
+| –
+|12.3
+|6.9
+| –
+|2.2
+| –
+|0.3
+| –
+|2.5
+|3.4
+| –
+| –
+|9.8
+| style="background:#DF1A22; color:white;" |'''8.6'''
+|-
+|6 Dec 2024
+|{{nowrap|[https://net.hr/danas/rtl-danas/kome-biste-dali-glas-milanovic-osvaja-najvise-ali-nedovoljno-za-pobjedu-u-prvom-krugu-81fd290a-b3fd-11ef-9188-b282ec61614a Promocija plus]}}
+| style="background:#F9C8CA" |'''37.4'''
+|20.8
+| –
+|10.4
+|9.2
+|1.6
+|0.9
+|0.6
+|0.2
+|0.1
+|1.3
+|3.7
+| –
+| –
+|12
+| style="background:#DF1A22; color:white;" |'''16.6'''
+|-
+|2 Dec 2024
+|[https://www.vecernji.hr/vijesti/draganu-primorcu-popularnost-porasla-za-tri-a-mariji-selak-raspudic-za-jedan-posto-1820443#google_vignette 2X1 komunikacije]
+| style="background:#F9C8CA" |'''35.7'''
+|26.5
+| –
+|11.3
+|6.3
+| –
+|2.1
+| –
+| –
+| –
+|2.4
+|3.5
+| –
+| –
+|10.5
+| style="background:#DF1A22; color:white;" |'''9.2'''
+|-
+|{{nowrap|25 Nov 2024}}
+|[https://dnevnik.hr/vijesti/hrvatska/crobarometar-za-studeni-2024---882046.html IPSOS]
+| style="background:#F9C8CA" |'''35.1'''
+|24.5
+| –
+|8.0
+|6.8
+| –
+| –
+| –
+| –
+| –
+| –
+|3.9
+| –
+| –
+|13.4
+| style="background:#DF1A22; color:white;" |'''10.6'''
+|-
+|{{nowrap|21 Nov 2024}}
+|[https://vijesti.hrt.hr/hrvatska/hrejting-10-11871696 Promocija plus]
+| style="background:#F9C8CA" |'''36.8'''
+|22.0
+| –
+|9.0
+|7.5
+|1.5
+|1.6
+|0.2
+|0.4
+|0.3
+|2.1
+|4.3
+| –
+| –
+|14.1
+| style="background:#DF1A22; color:white;" |'''14.8'''
+|-
+|{{nowrap|9 Nov 2024}}
+|[https://net.hr/danas/rtl-danas/istrazivanje-kako-bi-predsjednicki-kandidati-prosli-da-su-izbori-danas-5b428eaa-9eb7-11ef-bc97-5ae5e378fd98 Promocija plus]
+| style="background:#F9C8CA" |'''38.3'''
+|21.3
+| –
+|10.0
+|7.6
+|1.1
+|0.9
+|1.3
+|0.6
+|0.6
+| –
+|3.8
+| –
+| –
+|14.4
+| style="background:#DF1A22; color:white;" |'''17.0'''
+|-
+|{{nowrap|3 Nov 2024}}
+|[https://www.vecernji.hr/vijesti/milanovicu-potpora-pala-za-gotovo-sedam-posto-no-i-dalje-uvjerljivo-vodi-1812898 2X1 komunikacije]
+| style="background:#F9C8CA" |'''35.8'''
+|23.2
+| –
+|10.3
+|7.2
+|1.9
+|2.8
+| –
+| –
+| –
+|3.0
+|2.9
+| –
+| –
+| –
+| style="background:#DF1A22; color:white;" |'''13.5'''
+|-
+|{{nowrap|25 Oct 2024}}
+|[https://dnevnik.hr/vijesti/hrvatska/u-dnevniku-nove-tv-objavljeni-su-rezultati-crobarometra-za-mjesec-listopad---876375.html IPSOS]
+| style="background:#F9C8CA" |'''37.0'''
+|25.8
+| –
+|7.8
+|5.8
+|3.3
+| –
+| –
+| –
+| –
+| –
+|3.0
+| –
+| –
+|14.4
+| style="background:#DF1A22; color:white;" |'''11.2'''
+|-
+|{{nowrap|21 Oct 2024}}
+|[https://vijesti.hrt.hr/hrvatska/hrejting-9-11819655 Promocija plus]
+| style="background:#F9C8CA" |'''36.5'''
+|23.9
+| –
+|9.4
+|7.1
+|1.6
+|1.4
+|0.4
+| –
+|0.4
+|3.1
+|2.9
+| –
+| –
+|12.1
+| style="background:#DF1A22; color:white;" |'''12.6'''
+|-
+|{{nowrap|30 Sep 2024}}
+|[https://www.maxportal.hr/vijesti/milanovic-u-velikoj-prednosti-prvi-put-u-anketi-se-pojavio-tomislav-jonjic/ 2X1 komunikacije]
+| style="background:#F9C8CA" |'''42.5'''
+|25.4
+| –
+|12.1
+|6.8
+| –
+|3.5
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|8.9
+| style="background:#DF1A22; color:white;" |'''17.1'''
+|-
+|{{nowrap|7 Sep 2024}}
+|[https://net.hr/danas/rtl-danas/milanovic-vodi-utrku-primorac-uzletio-s-podrskom-hdz-a-selak-raspudic-polako-raste-1e9d62b6-6d40-11ef-8e53-167f33b93dae Promocija plus]
+| style="background:#F9C8CA" |'''36.3'''
+|21.2
+| –
+|8.2
+|4.8
+|1.2
+|1.3
+| –
+| –
+| –
+| –
+| –
+|4.6
+|4.3
+|15.5
+| style="background:#DF1A22; color:white;" |'''15.1'''
+|-
+|{{nowrap|4 Aug 2024}}
+|[https://dnevnik.hr/vijesti/hrvatska/ekskluzivno-istrazivanje-o-predstojecim-predsjednickim-izborima-dnevnika-nove-tv---862197.html IPSOS]
+| style="background:#F9C8CA" |'''32.0'''
+|28.0
+| –
+|20.0
+|9.0
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|13.0
+| style="background:#DF1A22; color:white;" |'''4.0'''
+|-
+|{{nowrap|6 Jul 2024}}
+|[https://net.hr/danas/rtl-danas/ekskluzivno-istrazivanje-kako-stoji-zoran-milanovic-uoci-predsjednickih-izbora-d04b493c-3baf-11ef-8ab7-72780b90502a Promocija plus]
+| style="background:#F9C8CA" |'''35.9'''
+|7.7
+|15.4
+|7.3
+|5.9
+|2.4
+| –
+| –
+| –
+| –
+| –
+| –
+|4.0
+|5.7
+|12.0
+| style="background:#DF1A22; color:white;" |'''20.5'''
+|}
+
+===Second round===
+[[File:2024-25 Croatian Presidential Election Polling (Second Round).png|center|frameless|1000x1000px]]
+
+====Milanović vs Primorac====
+{|  class="wikitable" style="text-align:center; font-size:80%"
+|- style="height:42px;"
+! style="width:100px;" rowspan="2"| Date
+! style="width:165px;" rowspan="2"| Polling Firm
+![[Zoran Milanović|Milanović]]
+![[Dragan Primorac|Primorac]]
+! style="width:40px;" rowspan="2"|Undecided / none
+! style="width:20px;" rowspan="2"|Lead
+|-
+! style="background:{{party color|Social Democratic Party of Croatia}}; width:45px;"|
+! style="background:{{party color|Croatian Democratic Union}}; width:45px;"|
+|- style="background:#ffd;"
+|'''''12 Jan 2025'''''
+|''Results''
+|style="background:#F9C8CA"|'''''74.68'''''
+|'''''25.32'''''
+|'''''3.67'''''
+| style="background:#DF1A22; color:white;" |'''''49.36'''''
+
+|-
+|{{nowrap|9 Jan 2025}}
+|[https://net.hr/danas/rtl-danas/ekskluzivna-anketa-uoci-predsjednickih-izbora-zoran-milanovic-osvaja-62-5-posto-20bdbed6-ceae-11ef-8db7-b282ec61614a Promocija plus]
+|style="background:#F9C8CA" |'''62.5'''
+|27.8
+|9.7
+|style="background:#DF1A22; color:white;"|'''34.7'''
+|-
+|{{nowrap|27 Dec 2024}}
+|[https://dnevnik.hr/vijesti/hrvatska/dnevnik-nove-tv-donosi-najrelevantnije-istrazivanje-o-predsjednickim-kandidatima-uoci-izborne-sutnje---887932.html IPSOS]
+|style="background:#F9C8CA" |'''57.7'''
+|29.5
+|7.8
+|style="background:#DF1A22; color:white;"|'''28.2'''
+|-
+|{{nowrap|26 Dec 2024}}
+|[https://net.hr/danas/rtl-danas/milanovic-suvereno-grabi-ka-drugom-mandatu-primorac-u-naletu-ali-razlika-je-ogromna-571e66d2-c3b0-11ef-8ed3-829ff0affdfc Promocija plus]
+|style="background:#F9C8CA" |'''54.4'''
+|34.1
+|6.9
+|style="background:#DF1A22; color:white;"|'''20.3'''
+|-
+|{{nowrap|6 Dec 2024}}
+|[https://net.hr/danas/rtl-danas/kome-biste-dali-glas-milanovic-osvaja-najvise-ali-nedovoljno-za-pobjedu-u-prvom-krugu-81fd290a-b3fd-11ef-9188-b282ec61614a Promocija plus]
+|style="background:#F9C8CA"|'''54.9'''
+|28.9
+|16.2
+|style="background:#DF1A22; color:white;" |'''26.0'''
+|-
+|{{nowrap|25 Nov 2024}}
+|[https://dnevnik.hr/vijesti/hrvatska/crobarometar-za-studeni-2024---882046.html IPSOS]
+|style="background:#F9C8CA"|'''53.5'''
+|30.3
+|10.0
+|style="background:#DF1A22; color:white;" |'''23.2'''
+|-
+|{{nowrap|21 Nov 2024}}
+|[https://vijesti.hrt.hr/hrvatska/hrejting-10-11871696 Promocija plus]
+|style="background:#F9C8CA"|'''52.0'''
+|33.1
+|7.7
+|style="background:#DF1A22; color:white;" |'''18.9'''
+|-
+|{{nowrap|9 Nov 2024}}
+|[https://net.hr/danas/rtl-danas/istrazivanje-kako-bi-predsjednicki-kandidati-prosli-da-su-izbori-danas-5b428eaa-9eb7-11ef-bc97-5ae5e378fd98 Promocija plus]
+|style="background:#F9C8CA"|'''53.9'''
+|30.2
+|8.0
+|style="background:#DF1A22; color:white;" |'''23.7'''
+|-
+|{{nowrap|25 Oct 2024}}
+|[https://glas-slavonije.hr/novosti/hrvatska/2024/10/26/objavljeni-rezultati-nove-ankete-za-predsjednicke-izbore-651545/ IPSOS PULS]
+|style="background:#F9C8CA"|'''51.0'''
+|35.6
+|8.8
+|style="background:#DF1A22; color:white;" |'''15.4'''
+|-
+|{{nowrap|21 Sep 2024}}
+|[https://vijesti.hrt.hr/hrvatska/hrejting-9-11819655 Promocija plus]
+|style="background:#F9C8CA"|'''52.6'''
+|33.9
+|7.4
+|style="background:#DF1A22; color:white;" |'''18.7'''
+|-
+|{{nowrap|7 Sep 2024}}
+|[https://net.hr/danas/rtl-danas/milanovic-vodi-utrku-primorac-uzletio-s-podrskom-hdz-a-selak-raspudic-polako-raste-1e9d62b6-6d40-11ef-8e53-167f33b93dae Promocija plus]
+|style="background:#F9C8CA"|'''48.3'''
+|34.0
+|10.3
+|style="background:#DF1A22; color:white;" |'''14.3'''
+|-
+|{{nowrap|4 Aug 2024}}
+|[https://dnevnik.hr/vijesti/hrvatska/ekskluzivno-istrazivanje-o-predstojecim-predsjednickim-izborima-dnevnika-nove-tv---862197.html IPSOS]
+|style="background:#F9C8CA"|'''49.0'''
+|40.0
+|11.0
+|style="background:#DF1A22; color:white;" |'''9.0'''
+|}
+
+====Milanović vs Stier====
+{|  class="wikitable" style="text-align:center; font-size:80%"
+|- style="height:42px;"
+! style="width:100px;" rowspan="2"| Date
+! style="width:165px;" rowspan="2"| Polling Firm
+![[Zoran Milanović|Milanović]]
+![[Davor Ivo Stier|Stier]]
+! style="width:40px;" rowspan="2"|Undecided / none
+! style="width:20px;" rowspan="2"|Lead
+|-
+! style="background:{{party color|Social Democratic Party of Croatia}}; width:45px;"|
+! style="background:{{party color|Croatian Democratic Union}}; width:45px;"|
+|-
+|{{nowrap|6 Jul 2024}}
+|[https://net.hr/danas/rtl-danas/ekskluzivno-istrazivanje-kako-stoji-zoran-milanovic-uoci-predsjednickih-izbora-d04b493c-3baf-11ef-8ab7-72780b90502a Promocija plus]
+|style="background:#F9C8CA"|'''54.2'''
+|31.6
+|8.6
+|style="background:#DF1A22; color:white;" |22.6
+|}
+
+====Milanović vs Selak Raspudić====
+{|  class="wikitable" style="text-align:center; font-size:80%"
+|- style="height:42px;"
+! style="width:100px;" rowspan="2"| Date
+! style="width:165px;" rowspan="2"| Polling Firm
+![[Zoran Milanović|Milanović]]
+![[Marija Selak Raspudić|Selak Raspudić]]
+! style="width:40px;" rowspan="2"|Undecided / none
+! style="width:20px;" rowspan="2"|Lead
+|-
+! style="background:{{party color|Social Democratic Party of Croatia}}; width:45px;"|
+! style="background:{{party color|Independent politician}}; width:45px;"|
+|-
+|{{nowrap|26 Dec 2024}}
+|[https://net.hr/danas/rtl-danas/milanovic-suvereno-grabi-ka-drugom-mandatu-primorac-u-naletu-ali-razlika-je-ogromna-571e66d2-c3b0-11ef-8ed3-829ff0affdfc Promocija plus]
+|style="background:#F9C8CA"|'''48.7'''
+|35.1
+|10.4
+|style="background:#DF1A22; color:white;"|13.6
+|-
+|{{nowrap|25 Nov 2024}}
+|[https://dnevnik.hr/vijesti/hrvatska/crobarometar-za-studeni-2024---882046.html IPSOS PULS]
+|style="background:#F9C8CA"|'''47.7'''
+|31.9
+|13.4
+|style="background:#DF1A22; color:white;" |15.8
+|-
+|{{nowrap|25 Oct 2024}}
+|[https://dnevnik.hr/galerija/vijesti/hrvatska/u-dnevniku-nove-tv-objavljeni-su-rezultati-crobarometra-za-mjesec-listopad---876375.html/62937052 IPSOS PULS]
+|style="background:#F9C8CA"|'''50.0'''
+|28.5
+|11.0
+|style="background:#DF1A22; color:white;" |21.5
+|}
+
+====Selak Raspudić vs Primorac====
+{|  class="wikitable" style="text-align:center; font-size:80%"
+|- style="height:42px;"
+! style="width:100px;" rowspan="2"| Date
+! style="width:165px;" rowspan="2"| Polling Firm
+![[Marija Selak Raspudić|Selak Raspudić]]
+![[Dragan Primorac|Primorac]]
+! style="width:40px;" rowspan="2"|Undecided / none
+! style="width:20px;" rowspan="2"|Lead
+|-
+! style="background:{{party color|Independent politician}}; width:45px;"|
+! style="background:{{party color|Croatian Democratic Union}}; width:45px;"|
+|-
+|{{nowrap|25 Nov 2024}}
+|[https://dnevnik.hr/vijesti/hrvatska/crobarometar-za-studeni-2024---882046.html IPSOS PULS]
+|style="background:#C0C0C0"|'''45.7'''
+|29.6
+|14.0
+|style="background:#C0C0C0; color:black;" |16.1
+|-
+|{{nowrap|25 Oct 2024}}
+|[https://dnevnik.hr/galerija/vijesti/hrvatska/u-dnevniku-nove-tv-objavljeni-su-rezultati-crobarometra-za-mjesec-listopad---876375.html/62937052 IPSOS PULS]
+|style="background:#C0C0C0"|'''38.1'''
+|35.3
+|15.3
+|style="background:#C0C0C0; color:black;" |2.8
+|}
+
+== Results ==
+Incumbent president [[Zoran Milanović]] won a second term in office with 75% of the vote, the highest for a presidential candidate in Croatia, not counting president [[Franjo Tuđman]]'s first round victories in [[1992 Croatian presidential election|1992]] and [[1997 Croatian presidential election|1997]].<ref>{{Cite web |date=13 January 2025 |title=Croatia populist president re-elected in landslide |url=https://www.france24.com/en/live-news/20250112-croatia-s-populist-president-appears-set-for-re-election |access-date=13 January 2025 |website=[[France 24]]|language=en}}</ref>
+
+According to political analysts, HDZ likely expected Primorac to win 30&ndash;40% of the second-round vote after only winning 19% in the first round;<ref>{{cite web |title=Komunikolozi se slažu: Primorac jučer nije napravio dovoljno. HDZ se priprema za poraz, očekuju pobjedu Milanovića od 60 do 70 posto |url=https://www.telegram.hr/politika-kriminal/komunikolozi-se-slazu-primorac-jucer-nije-napravio-dovoljno-hdz-se-priprema-za-poraz-ocekuju-pobjedu-milanovica-od-60-do-70-posto/ |website=Telegram.hr |access-date=16 January 2025 |language=hr |date=8 January 2025}}</ref> however, Milanović likely attracted a number of HDZ voters.<ref>{{cite web |last1=Redžić |first1=Dea |title=Puhovski: Milanović je nezakoniti politički sin Franje Tuđmana, Plenković je izgubio dodir s realnošću |url=https://www.vecernji.hr/vijesti/puhovski-milanovic-je-nezakoniti-politicki-sin-franje-tudmana-plenkovic-izgubio-dodir-s-realnoscu-1830057 |website=Večernji list |access-date=16 January 2025 |language=hr |date=13 January 2025}}</ref> The results of the second round were taken as a sign of a small loyal voter base for the HDZ, since the large point difference in the first round likely demotivated voters. Some blamed Primorac's low vote count on a poor choice of candidate by the HDZ or the choice to initially campaign as an independent candidate before the formal HDZ endorsement.<ref name="bagic">{{cite web |last1=Balija |first1=Petra |last2=Tokić |first2=Tea |title=Analitičari: Primorčev govor je skandalozan. Nije skupio niti malo dostojanstva da čestita pobjedniku |url=https://www.vecernji.hr/vijesti/uskoro-uzivo-pratite-drugi-krug-izbora-uz-vecernji-tv-analiticari-ce-komentirati-odlazimo-i-u-stozere-1829756 |website=Večernji list |access-date=16 January 2025 |language=hr |date=12 January 2025}}</ref> Primorac and Prime Minister [[Andrej Plenković]] caused a minor controversy by not congratulating Milanović in their election night speeches;<ref name="bagic"/><ref>{{cite web |title=Dragan Primorac tvrdi da je čestitao Zoranu Milanoviću: 'On je građanin Hrvatske' |url=https://www.vecernji.hr/vijesti/dragan-primorac-tvrdi-da-je-cestitao-zoranu-milanovicu-on-je-gradanin-hrvatske-1830091 |website=Večernji list |access-date=16 January 2025 |language=hr |date=13 January 2025}}</ref> though former president [[Kolinda Grabar-Kitarović]]<ref name="kgk">{{cite web |title=Kolindu ne interesira stav bivše stranke: potvrdila da dolazi na Milanovićevu inauguraciju |url=https://slobodnadalmacija.hr/vijesti/hrvatska/kolindu-ne-interesira-stav-bivse-stranke-potvrdila-da-dolazi-na-milanovicevu-inauguraciju-1446925 |website=[[Slobodna Dalmacija]] |access-date=16 January 2025 |location=Split |language=hr |date=14 January 2025}}</ref> and [[Archbishop of Zagreb]] [[Dražen Kutleša]] both congratulated him afterward.<ref name="kutlesa">{{cite web |title=Nadbiskup Kutleša čestitao Milanoviću, nahvalio ga: 'Vaš put je obilježen istaknutim i odgovornim služenjem' |url=https://www.vecernji.hr/vijesti/nadbiskup-kutlesa-cestitao-milanovicu-nahvalio-ga-vas-put-je-obiljezen-istaknutim-i-odgovornim-sluzenjem-1830335 |website=Večernji list |access-date=16 January 2025 |location=Zagreb |language=hr |date=14 January 2025}}</ref>
+
+{{Election results
+|cand1=[[Zoran Milanović]]|party1=Independent ([[Social Democratic Party of Croatia|Social Democratic Party]]){{efn|name=ZM|Endorsed by the [[Social Democratic Party of Croatia|SDP]],<ref name="net.hr" /> [[Croatian Peasant Party|HSS]],<ref name="Jutarnji" /> [[People's Party – Reformists|NS-R]],<ref name="index.hr" /> [[Independent Platform of the North|NPS]],<ref name="Uzinić" /> SU,<ref name="ReferenceA" />
+BUZ,<ref name="Podržat ćemo" /> [[Centre (Croatian political party)|Centre]], [[Istrian Democratic Assembly|IDS]], [[Dalija Orešković and People with a First and Last Name|DO i SIP]], [[Civic Liberal Alliance|Glas]] and MDS}}|votes1=797938|votes1_2=1122859
+|cand2=[[Dragan Primorac]]|party2=Independent ([[Croatian Democratic Union]]){{efn|name=DP|Endorsed by the [[Croatian Democratic Union|HDZ]],<ref name="vijesti.hrt.hr">{{cite web |title=Primorac objavio kandidaturu za predsjednika RH, HDZ mu dao potporu|url=https://vijesti.hrt.hr/hrvatska/dragan-primorac-objavio-kandidaturu-za-predsjednicke-izbore-11686143 |website=[[vijesti.hrt.hr]] |access-date=7 September 2024 |language=hr}}</ref> [[Croatian Party of Pensioners|HSU]],<ref name="Špiljak" /> [[Croatian Demochristian Party|HDS]],<ref name="ReferenceB" /> [[Homeland Movement (Croatia)|DP]],<ref name="Penava otkrio"/> [[Croatian Social Liberal Party|HSLS]] and [[Croatian People's Party – Liberal Democrats|HNS]]}}|votes2=314663|votes2_2=380752
+|cand3=[[Marija Selak Raspudić]] |party3=Independent |votes3=150435
+|cand4=[[Ivana Kekin]]|party4=[[We can! (Croatia)|We can!]]|votes4=144533
+|cand5=[[Tomislav Jonjić]]|party5=Independent ([[Croatian Party of Rights]])|votes5=82787
+|cand6=[[Miro Bulj]]|party6=[[The Bridge (Croatia)|The Bridge]]|votes6=62127
+|cand7=[[Branka Lozo]]|party7=[[Home and National Rally]]|votes7=39321
+|cand8=[[Niko Tokić Kartelo]]|party8=Independent|votes8=14409 
+|invalid=18786 |invalid2=57209
+|electorate=3531622 |electorate2=3533441
+|source=[https://www.izbori.hr/pre2024/rezultati/1/ izbori.hr], [https://www.izbori.hr/pre2024/rezultati/2/ izbori.hr]
+}}
+
+The State Election Commission announced that the total cost of holding the elections was 14.285 million euros.<ref>{{cite web|url=https://www.izbori.hr/site/UserDocsImages/2025/Kona%C4%8Dno_izvje%C5%A1%C4%87e_o_utro%C5%A1ku_sredstava_za_provedbu_izbora_za_predsjednika.pdf|title=Konačno izvješće o utrošku sredstava za provedbu Izbora za Predsjednika Republike Hrvatske|trans-title=Final report on the expenditure of funds for the implementation of the Election for the President of the Republic of Croatia|language=hr|page=4|publisher=State Election Commission of the Republic of Croatia (DIP)|date=31 March 2025}}</ref>
+
+== Results by county - Second round ==
+Second Round
+{| class="wikitable sortable"
+!Rank
+!County / Administrative unit
+!Zoran Milanović (%)
+!Dragan Primorac (%)
+|-
+|1
+|Istria County
+|90.23
+|9.77
+|-
+|2
+|Međimurje County
+|87.17
+|12.83
+|-
+|3
+|Varaždin County
+|83.50
+|16.50
+|-
+|4
+|Krapina-Zagorje County
+|81.78
+|18.22
+|-
+|5
+|Primorje-Gorski Kotar County
+|82.26
+|17.74
+|-
+|6
+|City of Zagreb
+|79.50
+|20.50
+|-
+|7
+|Koprivnica-Križevci County
+|79.27
+|20.73
+|-
+|8
+|Zagreb County
+|78.18
+|21.82
+|-
+|9
+|Bjelovar-Bilogora County
+|74.37
+|25.63
+|-
+|10
+|Osijek-Baranja County
+|70.10
+|29.90
+|-
+|11
+|Vukovar-Srijem County
+|65.28
+|34.72
+|-
+|12
+|Brod-Posavina County
+|64.92
+|35.08
+|-
+|13
+|Požega-Slavonia County
+|65.65
+|34.35
+|-
+|14
+|Virovitica-Podravina County
+|66.99
+|33.01
+|-
+|15
+|Sisak-Moslavina County
+|69.66
+|30.34
+|-
+|16
+|Karlovac County
+|69.57
+|30.43
+|-
+|17
+|Zadar County
+|66.76
+|33.24
+|-
+|18
+|Šibenik-Knin County
+|66.52
+|33.48
+|-
+|19
+|Split-Dalmatia County
+|66.91
+|33.09
+|-
+|20
+|Dubrovnik-Neretva County
+|65.10
+|34.90
+|-
+|21
+|Lika-Senj County
+|58.10
+|41.90
+|}
+Source: https://www.izbori.hr/arhiva-izbora/#/app/predsjednik-2024<ref>{{Cite web |title=Arhiva izbora Republike Hrvatske |url=https://www.izbori.hr/arhiva-izbora/#/app/predsjednik-2024 |access-date=2026-10-22 |website=www.izbori.hr}}</ref>
+
+==See also==
+*[[2024 elections in the European Union]]
+*[[2024 European Parliament election in Croatia]]
+*[[2024 Croatian parliamentary election]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Croatian elections}}
+
+{{DEFAULTSORT:2024-25 Croatian presidential election}}
+[[Category:2024 elections in Croatia|Presidential]]
+[[Category:2025 elections in Croatia|Presidential]]
+[[Category:December 2024 in Croatia|Presidential election]]
+[[Category:January 2025 in Croatia|Presidential election]]
+[[Category:Presidential elections in Croatia]]
+[[Category:December 2024 elections]]
+[[Category:January 2025 elections]]

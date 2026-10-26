@@ -1,0 +1,380 @@
+{{Short description|none}}
+{{Expand Spanish|topic=gov|date=March 2016}}
+{{Use dmy dates|date=May 2020}}
+{{Infobox election
+| country = Peru
+| flag_year = state
+| module = {{Infobox election
+| embed = yes
+| election_date = 10 April 2016 (first round)<br />5 June 2016 (second round)
+| turnout = 81.80% (first round) {{decrease}} 0.91pp<br/> 80.09% (second round) {{decrease}} 2.45pp
+| previous_election = 2011 Peruvian general election
+| previous_year = 2011
+| next_election = 2021 Peruvian general election
+| next_year = 2021
+| type = presidential
+| election_name = Presidential election
+| opinion_polls = Opinion polling for the 2016 Peruvian general election
+| image1 = Pedro Pablo Kuczynski 2016 (cropped).jpg
+| nominee1 = '''[[Pedro Pablo Kuczynski]]'''
+| popular_vote1 = '''8,596,937'''
+| percentage1 = '''50.12%'''
+| party1 = Peruvians for Change
+| running_mate1 = '''[[Martín Vizcarra]]''' <br/> '''[[Mercedes Aráoz]]'''
+| image2 = Keiko Fujimori em julho de 2017 (3x4 crop).png
+| nominee2 = [[Keiko Fujimori]]
+| party2 = Popular Force
+| popular_vote2 = 8,555,880
+| percentage2 = 49.88% 
+| running_mate2 = [[José Chlimper]]<br/>{{ill|Vladimiro Huaroc|es|v=ib}}{{efn| name = EXCLUDEDFROMCAMPAIGN}}
+| title = President
+| before_election = [[Ollanta Humala]]
+| before_party = Peru Wins
+| after_election = [[Pedro Pablo Kuczynski]]
+| after_party = Peruvians for Change
+| map = {{Switcher
+ |
+[[File:Peru general election, 2016 (first round).svg|165px]]
+ | First round results by [[Regions of Peru|department]] (left) and [[Provinces of Peru|province]] (right)
+ |
+[[File:2016 Peruvian presidential election - 2nd round.svg|325px]]
+ | Second round results by [[Regions of Peru|department]] (left) and [[Provinces of Peru|province]] (right)
+| default = 2
+}}
+| module = {{Infobox legislative election
+| embed = yes
+| election_date = 10 April 2016
+| election_name = Congressional election
+| previous_election = [[2011 Peruvian general election|2011]]
+| next_election = [[2020 Peruvian parliamentary election|2020]]
+| seats_for_election = All 130 seats in the [[Congress of Peru]]
+| majority_seats = 66
+| leader1 = [[Keiko Fujimori]]
+| party1 = Popular Force
+| percentage1 = 36.34
+| last_election1 = 37 <!--Seats won by Force 2011 in previous election-->
+| seats1 = 73
+| leader2 = [[Pedro Pablo Kuczynski]]
+| party2 = Peruvians for Change
+| color2 = 
+| last_election2 = New
+| seats2 = 18
+| percentage2 = 16.46
+| leader3 = [[Marco Arana]]
+| party3 = Broad Front (Peru)
+| percentage3 = 13.94
+| last_election3 = New
+| seats3 = 20
+| leader4 = [[César Acuña]]
+| party4 = [[Alliance for the Progress of Peru|APP]]
+| color4 = #1155cc
+| last_election4 = 2 <!--Seats won by constituent parties (Alliance for Progress (Peru)) in previous election-->
+| seats4 = 9
+| percentage4 = 9.23
+| party5 = Popular Alliance (Peru)
+| leader5 = [[Alan García]]
+| last_election5 = 4 <!--Seats won by constituent parties (American Popular Revolutionary Alliance) in previous election-->
+| seats5 = 5
+| percentage5 = 8.31
+| leader6 = [[Mesías Guevara]]
+| party6 = Popular Action (Peru)
+| last_election6 = 5 <!--Contested part of the Possible Peru alliance in previous election-->
+| seats6 = 5
+| percentage6 = 7.20
+| map = Elecciones parlamentarias de Perú de 2016 - Resultados.svg
+| map_caption = Results by department
+}}}}}}{{Politics of Peru}}
+
+General elections were held in [[Peru]] on 10 April 2016 to determine the [[President of Peru|president]], vice-presidents, composition of the [[Congress of the Republic of Peru]] and the Peruvian representatives of the [[Andean Parliament]].
+
+In the race for the presidency, incumbent President [[Ollanta Humala]] was ineligible for re-election due to constitutional term limits. [[Popular Force]] candidate [[Keiko Fujimori]], daughter of former President [[Alberto Fujimori]], was the leading candidate in the first round with almost 40 per cent of the vote, but fell short of the 50 per cent majority required to avoid a second round. [[Peruvians for Change]] candidate [[Pedro Pablo Kuczynski]] narrowly beat [[Broad Front (Peru)|Broad Front]] candidate [[Verónika Mendoza]] to finish in second and earn a place in the second round. The run-off was held on 5 June 2016. With support from those opposing Fujimori, Kuczynski won by a narrow margin of less than half a percentage point, making this the first presidential election since [[2000 Peruvian general election|2000]] in which the previous election's runner-up candidate failed to secure election. He was sworn in as President on 28 July.
+
+In the Congressional elections, Popular Force won in a landslide, receiving more than a third of the vote and winning an absolute majority of 73 out of 130 seats. [[Broad Front (Peru)|Broad Front]] with 20 seats and [[Peruvians for Change]] with 18 seats emerged as the main opposition blocs.
+
+==Background==
+On 13 November 2015, incumbent President [[Ollanta Humala]] called for a general election to be held on 10 April 2016. He said that he would respect the [[Constitution of Peru|constitutional]] term limit restrictions and would not run again.<ref>{{cite news|title=Ollanta Humala convoca a elecciones generales para el 2016|url=http://elcomercio.pe/politica/elecciones/ollanta-humala-convoca-elecciones-generales-2016-noticia-1855996|work=[[El Comercio (Peru)|El Comercio]]|date=13 November 2015|language=es}}</ref>
+
+==Electoral system==
+The [[President of Peru|President]] was elected using the [[two-round system]]. The 130 members of the [[Congress of the Republic of Peru|Congress of the Republic]] were elected in 25 multi-member constituencies using [[open list]] [[proportional representation]].<ref>[http://www.electionguide.org/countries/id/170/ Peru] IFES</ref>
+
+==Presidential nominees==
+===Campaign highlights===
+The presidential tickets were to be filed with the [[National Office of Electoral Processes]] (ONPE) by 10 January 2016. Congressional lists were to be filed with the ONPE by 10 February 2016.
+
+In March 2016, presidential candidates [[Julio Guzmán]] from [[All for Peru]] and [[César Acuña Peralta]] from [[Alliance for Progress (Peru)|Alliance for Progress]] were barred from the elections; Guzmán due to a violation of party rules in the party's internal election and Acuña Peralta due to monetary giveaways during a campaign rally, a violation of an electoral law enacted by Congress in November 2015.<ref name=dq/>
+
+[[Keiko Fujimori]] was a highly polarizing figure during the election. The daughter of the controversial former president [[Alberto Fujimori]], who was serving time in prison at the time, she was popular among the poor and loyalists who credit her father with the defeat of [[Shining Path]]. This popularity allowed her to win in the first round of the presidential elections. She was viewed unfavorably by a number of people who oppose Fujimori for human rights abuses and corrupt practices, and who feared that her victory would mark a return of [[Fujimorism]]. Mendoza, who placed third and could not stand in the runoff election, gave her full endorsement to Kuczynski, in order to prevent Fujimori's victory.<ref>{{cite web |url= https://www.theguardian.com/world/2016/jun/07/kuczynski-set-for-victory-in-peru-election-but-will-he-able-to-govern|title= Kuczynski ahead in Peru election, but will he be able to govern?|author= Dan Collyns|date= 7 June 2016|work= The Guardian|access-date=22 May 2016}}</ref>
+
+=== Main presidential nominees ===
+{| class="wikitable" style="font-size:90%; text-align:center;"
+| colspan="5" style="background:#f1f1f1; width:850px;" |{{large|'''Presidential tickets'''}}
+|-
+| '''[[Popular Action (Peru)|Popular Action]]'''
+| '''[[Popular Force]]'''
+| '''[[Popular Alliance (Peru)|Popular Alliance]]'''
+| '''[[Peruvians for Change]]'''
+| '''[[Broad Front (Peru)|Broad Front]]'''
+|-
+| [[File:Acción_Popular.png|center|80x80px]]
+| [[File:Fuerza popular.svg|center|80x80px]]
+| [[File:Logo_Alianza_Popular_2016.jpg|center|80x80px]]
+| [[File:Peruanos Por el Kambio.png|center|80x80px]]
+| [[File:Logo-frente-amplio-Peru-alt.svg|center|80x80px]]
+|-
+!style="width:160px; font-size:120%; background:{{party color|Popular Action (Peru)}};"| [[Alfredo Barnechea|{{color|white|Alfredo Barnechea}}]]
+! style="width:160px; font-size:120%; background:#FF8000;"| [[Keiko Fujimori|{{color|white|Keiko Fujimori}}]]
+! style="width:160px; font-size:120%; background:{{party color|American Popular Revolutionary Alliance}};"| [[Alan García|{{color|white|Alan García}}]]
+! style="width:160px; font-size:120%; background:#E2007A;"| [[Pedro Pablo Kuczynski|{{color|white|Pedro Pablo Kuczynski}}]]
+! style="width:160px; font-size:120%; background:#49b848;"| [[Verónika Mendoza|{{color|white|Verónika Mendoza}}]] 
+|-
+| [[File:Barnechea.jpg|center|210x210px]]
+| [[File:Keiko Fujimori 2 (cropped).jpg|center|210x210px]]
+| [[File:Alan García 2008.jpg|center|210x210px]]
+| [[File:Pedro Pablo Kuczynski Godard.jpg|center|210x210px]]
+| [[File:Verónika Mendoza Frisch.jpg|center|210x210px]]
+|-
+| [[Congress of the Republic of Peru|Member of Congress]]<br/><small>(1985–1990)</small>
+| [[Congress of the Republic of Peru|Member of Congress]]<br/><small>(2006–2011)</small>
+| [[President of Peru]]<br/><small>(1985–1990 / 2006–2011)</small>
+| [[Prime Minister of Peru|President of the Council of Ministers]]<br/><small>(2005–2006)</small>
+| [[Congress of the Republic of Peru|Member of Congress]]<br/><small>(2011–2016)</small>
+|-
+| colspan="5" style="background:#f1f1f1; width:850px;" |'''Running mates'''
+|-
+| 1st: [[Víctor Andrés García Belaúnde|Víctor A. García Belaúnde]]<br/>2nd: [[Edmundo del Águila]]
+| 1st: [[José Chlimper]]<br/>2nd: [[Vladimiro Huaroc]]
+| 1st: [[Lourdes Flores]]<br/>2nd: [[David Salazar (politician)|David Salazar]]
+| 1st: [[Martín Vizcarra]]<br/>2nd: [[Mercedes Aráoz]]
+| 1st: [[Marco Arana]]<br/>2nd: [[Alan Fairlie]]
+|-
+|}
+
+* '''[[Alfredo Barnechea]]''' is [[Popular Action (Peru)|Popular Action]]'s nominee. A renowned journalist in the 1980s, his first stint in politics occurred in 1983, as he ran for [[mayor of Lima]] with the [[American Popular Revolutionary Alliance|APRA]], losing to [[Alfonso Barrantes]]. Elected to the lower house [[Congress of the Republic of Peru|Peruvian Congress]] in [[1985 Peruvian general election|1985]], he quit the party and remained in opposition to [[Alan García]]. Participating in the 1990 [[Democratic Front (Peru)|Democratic Front]] campaign, he subsequently attained a master's degree in public administration from [[Harvard Kennedy School]]. A member of [[Popular Action (Peru)|Popular Action]] since 2013, ideologically he considers himself a [[Social democracy|social democrat]].
+* '''[[Keiko Fujimori]]''', is the nominee and leader of the conservative [[Popular Force]]. She is the daughter of former President [[Alberto Fujimori]], who serves in prison for a series of crimes and human rights violations during his presidency. A graduate of [[Columbia Business School]], she served in the [[Congress of the Republic of Peru|Peruvian Congress]] from 2006 to 2011, and made it to the run-off with [[Ollanta Humala]] in the [[2011 Peruvian general election|2011 election]], losing by a small margin. Her nomination remained a highly polarizing one throughout the election.
+* '''[[Alan García]]''', is the leader of the [[Social democracy|social democrat]] [[American Popular Revolutionary Alliance|APRA]] and [[Popular Alliance (Peru)|Popular Alliance]]'s nominee. One of the two former presidents running in the election, this was his fourth and final run before his suicide in 2019. His first presidency from 1985 to 1990 is considered by historians a failure due to the country's period of instability caused by terrorism and a severe economic crisis, in contrast to his second presidency, which is regarded a success based on the steady economy experienced and poverty reduction, although marred by corruption accusations. In this election, he ran under an electoral coalition with the [[Christian People's Party (Peru)|Christian People's Party]] and [[Go Peru]], with former presidential nominee [[Lourdes Flores]] as his first running mate. Academically, he holds a law degree from the [[National University of San Marcos]], and a master's in sociology at the [[University of Paris 1 Pantheon-Sorbonne]].
+* '''[[Pedro Pablo Kuczynski]]''', is the nominee and leader of the [[Liberal conservatism|liberal conservative]] [[Peruvians for Change]]. A prominent economist from the [[University of Oxford]] and [[Princeton University]], this was his second presidential run following his third place in [[2011 Peruvian general election|2011]]. He served in [[Alejandro Toledo]]'s presidency as [[Prime Minister of Peru|Prime Minister]] and [[Ministry of Economy and Finance (Peru)|Minister of Economy and Finance]], in addition to serving as [[Ministry of Energy and Mines (Peru)|Minister of Energy and Mines]] in the second presidency of [[Fernando Belaúnde]].
+* '''[[Verónika Mendoza]]''', is [[Broad Front (Peru)|Broad Front]]'s nominee, a [[Socialism|socialist]] coalition. A psychology major from the [[Paris Diderot University]], she served in the [[Congress of the Republic of Peru|Peruvian Congress]] from 2011 to 2016, representing the constituency of [[Cuzco]], elected under the [[Peru Wins]] coalition of ex-president [[Ollanta Humala]], but later left it. Throughout the campaign, she received much criticism for her [[left-wing]] policies, and for previous refusing to call [[Venezuela]] "a dictatorship" under [[Hugo Chávez]] and [[Nicolás Maduro]].<ref>{{Cite web|last1=Taj|first1=Mitra|last2=30 September 2016|title=AQ Top 5 Politicians Under 40: Verónika Mendoza|url=https://americasquarterly.org/fulltextarticle/aq-top-5-politicians-under-40-veronika-mendoza/|access-date=2020-11-26|website=[[Americas Quarterly]]|language=en-US}}</ref>
+
+=== Minor presidential nominees ===
+{| class="wikitable" style="font-size:90%; text-align:center;"
+| colspan="4" style="background:#f1f1f1; width:850px;" |{{large|'''Presidential tickets'''}}
+|-
+| '''[[Possible Peru]]'''
+| '''[[Order (Peru)|Order]]'''
+| '''[[Direct Democracy (Peru)|Direct Democracy]]'''
+| '''[[Hope Front (Peru)|Hope Front]]'''
+|-
+|-
+| [[File:Logo del partido Perú Posible.png|center|80x80px]]
+| [[File:Partido Político Orden.png|center|80x80px]]
+| [[File:Democracia Directa house-only logo.svg|80x80px]]
+| [[File:Frente Esperanza.png|80x80px]]
+
+|-
+!style="width:160px; font-size:120%; background:{{party color|Possible Peru Electoral Alliance}}"| [[Alejandro Toledo|{{color|white|Alejandro Toledo}}]]
+! style="width:160px; font-size:120%; background:#ADD8E6;"| [[Antero Flores Aráoz|{{color|white|Antero Flores Aráoz}}]]
+! style="width:160px; font-size:120%; background:#FFFF01;"| [[Gregorio Santos|{{color|white|Gregorio Santos}}]]
+! style="width:160px; font-size:120%; background:#8C004B;"| [[Fernando Olivera (politician)|{{color|white|Fernando Olivera}}]]
+|-
+| [[File:Alejandro Toledo - Jerusalem 2011.jpg|center|150x150px]]
+| [[File:Ántero Flores-Aráoz Esparza.jpg|150x150px]]
+| [[File:Gregorio Santos.jpg|center|150x150px]]
+| [[File:Fernando Olivera 2025.png|center|150x150px]]
+|-
+| [[President of Peru]]<br/><small>(2001-2006)</small>
+| [[Ministry of Defense (Peru)|Minister of Defense]]<br/><small>(2007–2009)</small>
+| [[List of regional governors of Cajamarca|Governor of Cajamarca]]<br/><small>(2011-2014)</small>
+| [[Ministry of Justice and Human Rights (Peru)|Minister of Justice]]<br/><small>(2001-2002)</small>
+|-
+|}
+
+* [[Alejandro Toledo]], former [[President of Peru]] (2001–2006) – [[Possible Peru]]
+* [[Gregorio Santos]], former [[List of regional governors of Cajamarca|Governor of Cajamarca]] (2011–2014) – [[Direct Democracy (Peru)|Direct Democracy]]
+* [[Antero Flores Aráoz]], former [[Ministry of Defense (Peru)|Minister of Defense]] (2007–2009) – [[Order (Peru)|Order]]
+* [[Miguel Hilario]] – [[Peru Progressing]]
+* [[Fernando Olivera (politician)|Fernando Olivera]], former [[Ministry of Justice and Human Rights (Peru)|Minister of Justice]] (2001–2002) – [[Hope Front (Peru)|Hope Front]]
+
+===Withdrawn nominees===
+{| class="wikitable"
+|+
+|- style="background:#ddd;"
+!| Party
+! colspan=3 | Ticket
+! colspan=2 | Withdrawal
+|- style="background:#eee;"
+! Name
+! for President
+! for First Vice President
+! for Second Vice President
+! Date
+! Motive
+|-
+|[[Always Together (Peru)|Always Together]] <br />''Siempre Unidos''
+|Felipe Castillo
+|Guillermo Ruiz
+|[[Isaac Humala]]
+| rowspan="2" |10 February 2016
+|Internal party disputes.<ref>{{cite web|url=https://larepublica.pe/politica/740339-felipe-castillo-renuncia-candidatura-presidencial/|title=Felipe Castillo renuncia a candidatura presidencial|date=10 February 2016|first=Plataforma|last=La República|website=larepublica.pe|access-date=19 February 2021}}</ref>
+|-
+|[[Peru Secure Homeland]] <br />''Perú Patria Segura''
+|[[Renzo Reggiardo]]
+|Carlos Vicente Marca
+|Miluska Carrasco
+|Nominee claimed lack of credibility in the electoral process.<ref>{{cite web|url=https://elcomercio.pe/politica/elecciones/renzo-reggiardo-renuncio-candidatura-presidencia-392616-noticia/|title=Renzo Reggiardo renunció a su candidatura a la presidencia|date=19 February 2016|first=Redacción|last=El Comercio|website=elcomercio.pe|access-date=19 February 2021}}</ref>
+|-
+|[[Peruvian Nationalist Party]] <br />''Partido Nacionalista Peruano''
+|[[Daniel Urresti]]
+|[[Susana Villarán]]
+|Maciste Díaz
+|11 March 2016
+|Party filed for withdrawal in order to preserve party registration.<ref>{{cite web|url=https://elcomercio.pe/politica/elecciones/partido-nacionalista-retira-candidatura-daniel-urresti-noticia-1885693/|title=Partido Nacionalista retiró la candidatura de Daniel Urresti|date=11 March 2016|first=Redacción|last=El Comercio|website=elcomercio.pe|access-date=19 February 2021}}</ref>
+|-
+|[[Free Peru|Libertarian Perú]] <br />''Perú Libertario''
+|[[Vladimir Cerrón]]
+|[[Jorge Paredes Terry]]
+|Jesús Zárate
+|24 March 2016
+|In protest of the [[National Jury of Elections]] for not disqualifying [[Keiko Fujimori]].<ref>{{cite web |url=http://elcomercio.pe/politica/elecciones/vladimir-cerron-se-retiro-contienda-electoral-noticia-1889086 |title=Vladimir Cerrón abandonó las Elecciones Generales del 2016 |work=El Comercio |language=es |date=24 March 2016 |access-date=24 March 2016}}</ref>
+|-
+|[[Peruvian Humanist Party]] <br />''Partido Humanista Peruano''
+|[[Yehude Simon]]
+|Rosa Mavila
+|Yorka Gamarra
+|28 March 2016
+|Party filed for withdrawal in order to preserve party registration.<ref>{{cite web |url=http://larepublica.pe/politica/751998-yehude-simon-anuncia-retiro-de-su-candidatura-presidencial|title=Yehude Simon anuncia retiro de su candidatura presidencial |work=La República |language=es |date=28 March 2016 |access-date=28 March 2016}}</ref>
+|-
+|[[Peru Nation]] <br />''Perú Nación''
+|Francisco Diez Canseco
+|[[Claudio Zolla]]
+|Margarita Gamboa
+| rowspan="2" |29 March 2016
+|Party filed for withdrawal in order to preserve party registration.<ref>{{cite web |url=http://elcomercio.pe/politica/elecciones/francisco-diez-canseco-renuncio-su-candidatura-presidencial-noticia-1890062 |title=Francisco Diez-Canseco renunció a su candidatura presidencial |work=El Comercio|language=es |date=29 March 2016 |access-date=29 March 2016}}</ref>
+|-
+|[[National Solidarity (Peru)|National Solidarity]] <br />''Solidaridad Nacional''
+|[[Hernando Guerra García]]
+|[[José Luna]]
+|Gustavo Rondón
+|Party filed for withdrawal in order to preserve party registration.<ref>{{cite web |url=http://elcomercio.pe/politica/elecciones/solidaridad-nacional-retira-candidatura-nano-guerra-garcia-noticia-1890132 |title=Solidaridad Nacional retira candidatura de Nano Guerra García |work=El Comercio|language=es |date=29 March 2016 |access-date=29 March 2016}}</ref>
+|}
+
+===Disqualified nominees===
+{| class="wikitable"
+|+
+|- style="background:#ddd;"
+!| Party
+! colspan=3 | Ticket
+! colspan=2 | Disqualification
+|- style="background:#eee;"
+! Name
+! for President
+! for First Vice President
+! for Second Vice President
+! Date
+! Motive
+|-
+|[[Alliance for the Progress of Peru]]<br/>''Alianza para el Progreso del Perú''
+|[[César Acuña]]
+|[[Anel Townsend]]
+|[[Humberto Lay]]
+|9 March 2016
+|Disqualified for attempted vote buying in campaign trail.<ref name=dq/>
+|-
+|[[All for Peru]]<br/>''Todos por el Perú''
+|[[Julio Guzmán]]
+|Juana Umasi
+|[[Carolina Lizárraga]]
+|9 March 2016
+|Disqualified for irregularities in nomination process.<ref name=dq>{{cite web|url=https://www.bbc.com/news/world-latin-america-35768068|title=Peru presidential candidates Guzman and Acuna banned from election|publisher=BBC|date=9 March 2016|access-date=2016-03-09}}</ref>
+|}
+*
+
+==Opinion polls==
+{{main|Opinion polling for the 2016 Peruvian general election}}
+
+== Results ==
+=== President ===
+[[File:Mapa Distrital Elecciones Perú 2016 1V.svg|325px|thumb|First round results by [[Regions of Peru|department]] (small left) and [[Districts of Peru|municipality]] (big right)]]<br/>[[File:Mapa Distrital Elecciones Perú 2016 2V.svg|325px|thumb|Second round results by [[Regions of Peru|department]] (small left) and [[Districts of Peru|municipality]] (big right)]]<br/>
+The first round was held on 10 April. Exit polls indicated that Keiko Fujimori placed first in the first round of voting with approximately 40% of the vote, with Pedro Pablo Kuczynski and Veronika Mendoza each receiving approximately 20%.<ref>{{Cite web|url=https://www.web.onpe.gob.pe/modElecciones/elecciones/elecciones2016/PRPCP2016/Resumen-GeneralPresidencial.html#posicion|title=ONPE - Oficina Nacional de Procesos Electorales|website=www.web.onpe.gob.pe|language=es|access-date=2018-11-23}}</ref><ref>{{Cite news|url=https://www.bbc.com/news/world-latin-america-36011844|title=Peru election: Keiko Fujimori wins first round, say exit polls – BBC News|work=BBC News|date=11 April 2016|language=en-GB|access-date=2016-04-11}}</ref>
+
+The second round was held on 5 June. Exit polls indicated that Pedro Pablo Kuczynski held a slight lead over Keiko Fujimori. As counting continued, the gap narrowed significantly. Preliminary results gave Kuczynski a 0.25 per cent advantage over Fujimori, with less than 50,000 votes between them. Approximately 50,000 votes were challenged during the count.<ref>{{cite news|title=Peru election: Kuczynski wins, but Fujimori has yet to concede|url=https://www.bbc.co.uk/news/world-latin-america-36495737|access-date=11 June 2016|work=[[BBC News]]}}</ref> Fujimori conceded the election to Kuczynski on 10 June.<ref>{{cite news|title=Peru elections: Keiko Fujimori concedes to Kuczynski|url=https://www.bbc.co.uk/news/world-latin-america-36505027|access-date=11 June 2016|work=[[BBC News]]}}</ref>
+
+{{Election results
+|cand1=[[Keiko Fujimori]]|party1=[[Popular Force]]|votes1=6115073|votes1_2=8555880
+|cand2=[[Pedro Pablo Kuczynski]]|party2=[[Peruvians for Change]]|votes2=3228661|votes2_2=8596937
+|cand3=[[Verónika Mendoza]]|party3=[[Broad Front (Peru)|Broad Front]]|votes3=2874940
+|cand4=[[Alfredo Barnechea]]|party4=[[Popular Action (Peru)|Popular Action]]|votes4=1069360
+|cand5=[[Alan García]]|party5=[[Popular Alliance (Peru)|Popular Alliance]]|votes5=894278
+|cand6=[[Gregorio Santos]]|party6=[[Direct Democracy (Peru)|Direct Democracy]]|votes6=613173
+|cand7=[[Fernando Olivera (politician)|Fernando Olivera]]|party7=[[Hope Front (Peru)|Hope Front]]|votes7=203103
+|cand8=[[Alejandro Toledo]]|party8=[[Possible Peru]]|votes8=200012
+|cand9=Miguel Hilario|party9=[[Peru Progressing]]|votes9=75870|color9=darkred
+|cand10=[[Antero Flores Aráoz]]|party10=[[Order (Peru)|Order]]|votes10=65673|color10=#ADD8E6
+|invalid=3393987|invalid2=1190079
+|votes12_2=18342896
+|electorate=22901954|electorate2=22901954
+|source=[https://www.web.onpe.gob.pe/modElecciones/elecciones/elecciones2016/PRPCP2016/Resultados-Ubigeo-Presidencial.html#posicion ONPE], [https://www.web.onpe.gob.pe/modElecciones/elecciones/elecciones2016/PRP2V2016/Resultados-Ubigeo-Presidencial.html#posicion ONPE]
+}}
+
+===Congress===
+[[Popular Force]] won in a landslide, taking more than a third of the vote and an absolute majority of 73 out of 130 seats. Behind them in opposition, [[Peruvians for Change]] with 18 seats and [[Broad Front (Peru)|Broad Front]] with 20 seats. Other parties which gained representation in Congress include [[Alliance for the Progress of Peru]] (9 seats), [[Popular Alliance (Peru)|Popular Alliance]] (5 seats) and [[Popular Action (Peru)|Popular Action]] (5 seats).<ref name="IFES Election Guide">{{cite web|url=http://www.electionguide.org/elections/id/2679/|title=ELECTION FOR CONGRESO DE LA REPÚBLICA 2016|access-date=1 June 2016}}</ref>
+
+{{Election results
+|image=[[File:Congreso Peru elecciones 2016.svg]]
+|party1=[[Popular Force]]|votes1=4431077|seats1=73|sc1=
+|party2=[[Peruvians for Change]]|votes2=2007710|seats2=18|sc2=
+|party3=[[Broad Front (Peru)|Broad Front]]|votes3=1700052|seats3=20|sc3=
+|party4=[[Alliance for the Progress of Peru]]|votes4=1125682|seats4=9|sc4=|color4=#1E5BA8
+|party5=[[Popular Alliance (Peru)|Popular Alliance]]|votes5=1013735|seats5=5|sc5=
+|party6=[[Popular Action (Peru)|Popular Action]]|votes6=877734|seats6=5|sc6=
+|party7=[[Direct Democracy (Peru)|Direct Democracy]]|votes7=528301|seats7=0|sc7=
+|party8=[[Possible Peru]]|votes8=286980|seats8=0|sc8=
+|party9=[[Hope Front (Peru)|Hope Front]]|votes9=139634|seats9=0|sc9=
+|party10=[[Order (Peru)|Order]]|votes10=68474|seats10=0|sc10=|color10=#ADD8E6
+|party11=[[Peru Progressing]]|votes11=14663|seats11=0|sc11=|color11=darkred
+|invalid=6557222
+|total_sc=0
+|electorate=22901954
+|source=[https://portal.jne.gob.pe/portal_documentos/files/0555507c-f982-4f51-b0ca-34e0fa17fc73.pdf JNE]
+}}
+
+=== Andean Parliament ===
+Only the three main parties obtained representation in the Andean Parliament, with Popular Force obtaining 3 seats (plus six substitutes) each, and Broad Front and Peruvians for Change obtaining only one seat (and two substitutes). Popular Force got the most votes, with 38.1% of the valid ballots. Former congressman [[Rolando Sousa]] of Popular Force obtained the most individual votes, with 407,811.{{Election results
+|party1=[[Popular Force]]|votes1=3842651|seats1=3
+|party2=[[Broad Front (Peru)|Broad Front]]|votes2=1559027|seats2=1
+|party3=[[Peruvians for Change]]|votes3=1505118|seats3=1
+|party4=[[Popular Alliance (Peru)|Popular Alliance]]|votes4=821492|seats4=0
+|party5=[[Popular Action (Peru)|Popular Action]]|votes5=807585|seats5=0
+|party6=[[Alliance for the Progress of Peru]]|votes6=763792|seats6=0|color6=#1E5BA8
+|party7=[[Direct Democracy (Peru)|Direct Democracy]]|votes7=506108|seats7=0
+|party8=[[Possible Peru]]|votes8=220790|seats8=0
+|party9=[[Order (Peru)|Order]]|votes9=59318|seats9=0|color9=#ADD8E6
+|invalid=8666467
+|total_sc=
+|electorate=22901954
+|source=[https://portal.jne.gob.pe/portal_documentos/files/0555507c-f982-4f51-b0ca-34e0fa17fc73.pdf JNE]
+}}
+
+==Notes==
+{{notelist
+| refs =
+
+{{efn
+| name = EXCLUDEDFROMCAMPAIGN
+| Excluded from campaign
+}}
+
+}}
+
+==References==
+{{Portal|Peru|Politics}}
+{{reflist}}
+
+{{Peruvian political crisis}}
+{{Peruvian elections}}
+
+[[Category:Parliamentary elections in Peru]]
+[[Category:2016 elections in South America|Peru]]
+[[Category:2016 in Peru|General]]
+[[Category:Presidential elections in Peru]]
+[[Category:April 2016 in South America|Peru]]
+[[Category:June 2016 in South America|Peru]]

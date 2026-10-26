@@ -1,0 +1,45 @@
+{{Short description|none}}
+{{Infobox election
+| country = Moldova
+| flag_year = 1990
+| election_date = 8 December 1991
+| next_year = 1996
+| next_election = 1996 Moldovan presidential election
+| type = presidential
+| turnout = 83.96%
+| nominee1 = '''[[Mircea Snegur]]'''
+| image1 = Mircea Snegur 1996 (cropped).jpg
+| party1 = Independent politician
+| popular_vote1 = '''1,952,142'''
+| percentage1 = '''98.22%'''
+| title = President
+| before_election = [[Mircea Snegur]]
+| before_party = Independent politician
+| after_election = [[Mircea Snegur]]
+| after_party = Independent politician
+}}{{Politics of Moldova}}
+
+Presidential elections were held in [[Moldova]] on 8 December 1991.<ref name="NS">[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1330 {{ISBN|978-3-8329-5609-7}}</ref> Due to a boycott by the [[Popular Front of Moldova]], incumbent [[Mircea Snegur]] was the only candidate to contest the elections and was elected unopposed.<ref>Nohlen & Stöver, p1343</ref>
+
+==Background==
+The elections were held amid high ethnic tensions, with separatists in [[Gagauzia]] and [[Transnistria]] declaring they would not participate in the elections.
+
+==Results==
+{{Election results
+|cand1=[[Mircea Snegur]]|party1=Independent|votes1=1952142
+|row2=Against|votes2=35451
+|invalid=791
+|electorate=2368287
+|source=Nohlen & Stöver
+}}
+
+==References==
+{{reflist}}
+
+{{Moldovan presidential elections}}
+{{Moldovan elections}}
+
+[[Category:1991 elections in Moldova|President]]
+[[Category:1991 elections in Europe|Moldova]]
+[[Category:Presidential elections in Moldova]]
+[[Category:Single-candidate elections]]

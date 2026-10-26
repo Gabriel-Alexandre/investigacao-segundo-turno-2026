@@ -1,0 +1,132 @@
+{{Short description|General election held in Montenegro, FR Yugoslavia}}
+{{Infobox election
+| election_name     = 1992–93 Montenegrin general election
+| country           = Republic of Montenegro
+| flag_year         = 1993
+| flag_image        = 
+| type              = presidential
+| ongoing           = no
+| opinion_polls     = 
+| module = {{Infobox election
+| embed = yes
+| election_name= Presidential election
+| previous_election = 1990 Montenegrin general election
+| previous_year     = 1990
+| election_date     = 20 December 1992 (first round)<br>10 January 1993 (second round)
+| next_election     = 1997 Montenegrin presidential election
+| next_year         = 1997
+| turnout           = 68.95% (first round)<br />59.11% (second round)
+
+| image1            = Momir Bulatović (cropped).jpg
+| candidate1        = '''[[Momir Bulatović]]'''
+| party1            = Democratic Party of Socialists of Montenegro
+| alliance1         = 
+| popular_vote1     = '''158,722'''
+| percentage1       = '''63.29%'''
+
+| image2            = Branko Kostić.jpg
+| candidate2        = [[Branko Kostić]]
+| party2            = Independent politician
+| popular_vote2     = 92,045
+| percentage2       = 36.71%
+
+| title             = President
+| before_election   = [[Momir Bulatović]]
+| before_party      = Democratic Party of Socialists of Montenegro
+| after_election    = [[Momir Bulatović]]
+| after_party       = Democratic Party of Socialists of Montenegro
+| module = {{Infobox legislative election
+| embed = yes
+| election_name      = Parliamentary election
+| ongoing            = no
+| previous_election = [[1990 Montenegrin general election|1990]]
+| election_date     = 20 December 1992
+| next_election     = [[1996 Montenegrin parliamentary election|1996]]
+
+| party1 = Democratic Party of Socialists of Montenegro | leader1 = [[Momir Bulatović]] | last_election1 = 83 | seats1 = 46| percentage1 = 43.78
+| party2 = People's Party (Montenegro, 1990) | leader2 = [[Novak Kilibarda]] | last_election2 = 13 | seats2 = 14  | percentage2 = 13.08
+| party3 = Liberal Alliance of Montenegro | leader3 = [[Slavko Perović]]| last_election3 = new| seats3 = 13  | percentage3 = 12.40
+| party4 = [[Party of Serb Radicals|SRS]] | leader4 = Duško Sekulić| last_election4 = new| seats4 = 8  | percentage4 = 7.76
+| party5 = [[Social Democratic Party of Montenegro|SDPR]] | leader5 = Miodrag Marović| last_election5 = new| seats5 = 4  | percentage5 = 4.53
+
+| title              = [[Prime Minister of Montenegro|Prime Minister]]
+| before_election    = [[Milo Đukanović]]
+| before_party       = Democratic Party of Socialists of Montenegro
+| after_election     = [[Milo Đukanović]]
+| after_party        = Democratic Party of Socialists of Montenegro
+}}}}}}
+
+General elections were held in [[Republic of Montenegro (1992-2006)|Montenegro]], at the time a constituent republic of [[Serbia and Montenegro|Yugoslavia]], on 20 December 1992. A second round of the presidential election was held on 10 January 1993. The elections were seen as a [[1992 Montenegrin independence referendum|referendum on independence]] for Montenegro, and were won by then [[Serbian-Montenegrin unionism|Serbian-Montenegrin unionist]] centre-left [[Democratic Party of Socialists of Montenegro]] (DPS) who also favoured greater [[autonomy]] within [[Federal Republic of Yugoslavia|federation with Serbia]]. The presidential elections were won by the DPS leader [[Momir Bulatović]], who received 63% of the vote in the second round.<ref>[http://www.electoralgeography.com/en/countries/m/montenegro/1992-presidential-election-montenegro.html Montenegro. Presidential Election 1992] Electoral Geography</ref> The result of the parliamentary elections was a victory for the Democratic Party of Socialists which succeed ruling [[League of Communists of Montenegro|League of Communists]]. DPS won 46 of the 85 seats.
+
+==Background==
+{{See also|1992 Montenegrin independence referendum}}
+The [[breakup of Yugoslavia]] drew new boundaries in the Montenegrin political scene. The [[League of Communists of Montenegro]] formally changed their identity, renaming themselves the [[Democratic Party of Socialists of Montenegro|Democratic Party of Socialists]]. After the president of DPS, [[Momir Bulatović]], initially showed support for [[Peter Carington, 6th Baron Carrington|Carrington]]'s 1991 peace plan, he was summoned to [[Belgrade]] by [[Borisav Jović]] and [[Slobodan Milošević]], who persuaded him to reverse his commitment to Carrington.{{sfn|Morrison|2009|p=99-101}} As a result, Bulatović no longer pursued Montenegrin independence under the Carrington model and agreed to holding an independence referendum in 1992. Although there was a boycott among those who wanted independence, Montenegrin voters chose to remain within Yugoslavia. Even so, Bulatović's brief support for the Carrington plan deeply shook Milošević's confidence in him as a political ally. Milošević ultimately supported [[Branko Kostić]], also from DPS, ahead of the presidential election in 1993.<ref name="CGIJ">{{cite news|url=https://www.vijesti.me/vijesti/politika/predsjednicki-izbori-u-crnoj-gori-1992-93-godine-prve-pukotine-u-vlasti-i-biranje-manjeg-zla|author=Novak Adžić|newspaper=[[Vijesti]]|title=Predsjednički izbori u Crnoj Gori 1992/93. godine: Prve pukotine u vlasti i biranje "manjeg zla"|language=Serbian|date=4 May 2019}}</ref>
+
+==Results==
+===National Assembly===
+{{Election results
+|party1=[[Democratic Party of Socialists of Montenegro]]|votes1=125578|seats1=46|sc1=–37
+|party2=[[People's Party (Montenegro, 1990)|People's Party]]|votes2=37532|seats2=14|sc2=+1
+|party3=[[Liberal Alliance of Montenegro]]|votes3=35564|seats3=13|sc3=New
+|party4=[[Party of Serb Radicals|Serbian Radical Party in Montenegro]]|votes4=22265|seats4=8|sc4=New
+|party5=[[Social Democratic Party of Montenegro|Social Democratic Party of Reformists]]|votes5=12994|seats5=4|sc5=New
+|party6=[[Democratic League in Montenegro]]|votes6=11388|seats6=0|sc6=–5
+|party8=[[Socialist Party of Montenegro]]|votes8=8412|seats8=0|sc8=New
+|party9=Democratic Opposition{{efn|The Democratic Party, the People's Democratic Party, the Democratic Alliance of Independent Entrepreneurs and the Serbian Democratic Party}}|votes9=7828|seats9=0|sc9=–
+|party10=[[League of Communists – Movement for Yugoslavia]]|votes10=6236|seats10=0|sc10=New
+|party11=Association of Fighters '91–'92|votes11=4198|seats11=0|sc11=New
+|party12=[[Serbian National Renewal|Serbian National Renewal for Montenegro and Herzegovina]]|votes12=3894|seats12=0|sc12=New
+|party13=Demo-Christian (Orthodox) Party|votes13=2478|seats13=0|sc13=0
+|party14=Ecological Movement of Montenegro|votes14=2020|seats14=0|sc14=New
+|party15=Communist Party of Yugoslavia in Montenegro|votes15=1930|seats15=0|sc15=0
+|party16=Social Democratic Party of Montenegro|votes16=1211|seats16=0|sc16=New
+|party17=[[New Communist Party of Yugoslavia|New Communist Movement of Yugoslavia]]|votes17=1089|seats17=0|sc17=New
+|party18=Serbian Fatherland Movement|votes18=960|seats18=0|sc18=New<!--Error in SERC source-->
+|party19=Democratic Left–Humanism and Technical Progress|votes19=703|seats19=0|sc19=New
+|party20=[[Montenegrin Federalist Party|Montenegrin Federalist Movement – Cetinje]]|votes20=559|seats20=0|sc20=0
+|invalid=
+|total_sc=–40
+|electorate=429047
+|source=[https://src-h.slav.hokudai.ac.jp/election_europe/me/r_102.html Slavic-Eurasian Research Centre], [http://www.cesid.rs/images/IZBORI%20U%20SRJ%20OD%201990_%20DO%201998.pdf Goati]
+}}
+{{notelist}}
+
+===President===
+{{Election results
+|cand1=[[Momir Bulatović]]|party1=[[Democratic Party of Socialists of Montenegro]]|votes1=123183|votes1_2=158722
+|cand2=[[Branko Kostić]]|party2=Independent|votes2=68296|votes2_2=92045
+|cand3=[[Slavko Perović]]|party3=[[Liberal Alliance of Montenegro]]|votes3=52736
+|cand4=[[Novak Kilibarda]]|party4=[[People's Party (Montenegro, 1990)|People's Party]]|votes4=25979
+|cand5=[[Dragan Hajduković]]|party5=Independent|votes5=10270
+|cand6=Slobodan Vujošević|party6=Democratic Party|votes6=2770
+|cand7=Veselin Kaluđerović|party7=Independent|votes7=1606
+|cand8=Predrag Popović|party8=Demo-Christian (Orthodox) Party|votes8=1419
+|cand9=Živojin Kiro Radović|party9=[[Serbian National Renewal|Serbian National Renewal for Montenegro and Herzegovina]]|votes9=1399
+|invalid=8150|invalid2=2863
+|electorate=429047|electorate2=429047
+|source=[http://src-h.slav.hokudai.ac.jp/election_europe/me/r_502.html Slavic-Eurasian Research Centre]
+}}
+
+==Aftermath==
+Shortly after the elections, the Social Democratic Party of Reformists (SDPR) merged with the [[Ljubiša Stanković|Socialist Party of Montenegro]] to form the [[Social Democratic Party of Montenegro|Social Democratic Party]] (SDP). The four SDPR MPs formed the newly-formed SDP parliamentary group.
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{Refbegin}}
+*{{cite book |last=Morrison |first=Kenneth |title=Nationalism, Identity and Statehood in Post-Yugoslav Montenegro|publisher=I.B. Tauris & Co Ltd |location=London |year=2009 |isbn=978-1-84511-710-8}}
+{{Refend}}
+
+{{Montenegrin elections}}
+
+{{DEFAULTSORT:1992-1993 Montenegrin general election}}
+[[Category:Parliamentary elections in Montenegro]]
+[[Category:1992 elections in Europe|Montenegro]]
+[[Category:1992 in Montenegro|General]]
+[[Category:Elections in Serbia and Montenegro]]
+[[Category:Presidential elections in Montenegro]]
+[[Category:December 1992 in Europe|Montenegro]]
+[[Category:January 1993 in Europe|Montenegro]]
+[[Category:1993 in Montenegro|General]]
+[[Category:1993 elections in Europe|Montenegro]]

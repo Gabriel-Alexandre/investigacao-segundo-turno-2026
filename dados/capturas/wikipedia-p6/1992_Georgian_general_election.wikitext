@@ -1,0 +1,262 @@
+{{Short description|none}}
+{{Infobox election
+| country = Georgia
+| flag_year = 1990
+| election_date = 11 October 1992
+| module = {{Infobox election
+| embed = yes
+| election_name = Head of State election
+| previous_election = 1991 Georgian presidential election
+| previous_year = 1991
+| next_election = 1995 Georgian presidential election
+| next_year = 1995
+| type = presidential
+| turnout = 74.17% ({{decrease}} 8.42[[percentage point|pp]])
+
+| image1 = Eduard Shevardnadze in 1987.jpg
+| nominee1 = {{nowrap|'''[[Eduard Shevardnadze]]'''}}
+| party1 = Independent politician
+| popular_vote1 = '''2,472,345'''
+| percentage1 = '''97.92%'''
+
+| title = Head of State
+| before_election = [[State Council (Georgia)|State Council]] as interim government
+| after_election = [[Eduard Shevardnadze]]
+| before_party = 
+| after_party = Independent politician
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| previous_election = [[1990 Georgian Supreme Soviet election|1990]]
+| next_election = [[1995 Georgian parliamentary election|1995]]
+| seats_for_election = All 225 seats in [[Parliament of Georgia|Parliament]]
+| majority_seats = 113
+| turnout = 67.72% ({{decrease}} 1.87[[percentage point|pp]])
+| first_election = yes
+
+| leader1 = [[:ka:ვახტანგ გოგუაძე|Vakhtang Goguadze]]
+| party1 = Peace Bloc
+| color1 = #0000FE
+| percentage1 = 22.96
+| seats1 = 35
+
+| leader2 = [[Nodar Natadze]]
+| party2 = [[People's Front (Georgia)|11 October Bloc]]
+| percentage2 = 12.06
+| seats2 = 19
+
+| leader3 = [[Giorgi Chanturia]]
+| party3 = National Democratic Party (Georgia)
+| percentage3 = 9.21
+| seats3 = 14
+
+| leader4 = [[:ka:მარკ რივკინი|Mark Rivkin]]
+| party4 = [[Unity Bloc (Georgia)|Unity Bloc]]
+| color4 = #BE9F25
+| percentage4 = 8.30
+| seats4 = 15
+
+| leader5 = {{nowrap|[[:ka:ქართლოს ღარიბაშვილი|Kartlos Gharibashvili]]}}
+| party5 = [[Democratic Party (Georgia)|Democratic]]
+| percentage5 = 7.04
+| seats5 = 10
+
+| leader6 = [[Akaki Asatiani]]
+| party6 = Union of Georgian Traditionalists
+| percentage6 = 5.56
+| seats6 = 6
+
+| leader7 = [[Giorgi Baramidze]]
+| party7 = Greens Party of Georgia
+| percentage7 = 4.91
+| seats7 = 11
+
+| leader8 = [[:ka:თედო პაატაშვილი|Tedo Paatashvili]]
+| party8 = Charta 91
+| color8 = #606060
+| percentage8 = 4.83
+| seats8 = 10
+
+| leader9 = 
+| party9 = [[Ilia Chavchavadze Society|Chavchavadze&nbsp;Society]]
+| percentage9 = 3.01
+| seats9 = 7
+
+| leader10 = [[:ka:ვაჟა ადამია|Vazha Adamia]]
+| party10 = [[Merab Kostava Society|Kostava Society]]
+| color10 = {{party color|Merab Kostava Society}}
+| percentage10 = 2.84
+| seats10 = 10
+
+| leader11 = [[:ka:ირაკლი წერეთელი (პოლიტიკოსი)|Irakli Tsereteli]]
+| party11 = National Independence Party of Georgia
+| percentage11 = 2.70 
+| seats11 = 4
+
+| leader12 = [[:ka:შალვა ბერიანიძე|Shalva Berianidze]]
+| party12 = [[Socialist Party of Georgian Workers|SPGW]]
+| color12 = #CC0000
+| percentage12 = 2.36
+| seats12 = 4
+
+| leader13 = [[Chabua Amirejibi]]
+| party13 = [[Union of National Concord and Revival of Georgia|UNCRG]]
+| color13 = #580404
+| percentage13 = 2.16
+| seats13 = 5
+
+|party14 = [[Social Democrat Party of Georgia|SDPG]] | leader14 = | percentage14 = 1.04 |seats14 = 2
+|party15 = [[Party of Nations Friendship and Justice|PNFJ]] | leader15 = | percentage15 = 1.02 |seats15 = 2
+|party16 = [[Union of Social Justice of Georgia|USJG]] | leader16 = | percentage16 = 0.96 |seats16 = 2
+|party17 = [[Union of God's Children of Georgia|UGCG]] | leader17 = | percentage17 = 0.86 |seats17 = 2
+|party18 = [[Union of Georgian Highlanders|UGH]] | leader18 = | percentage18 = 0.86 |seats18 = 1
+|party19 = [[Political Union of Citizens–All-Georgian Farmers Union|PUC–AGFU]] | leader19 = | percentage19 = 0.85 |seats19 = 2
+|party20 = [[Constitutional Democratic Party of Georgia|CDPG]] | leader20 = | percentage20 = 0.83 |seats20 = 1
+|party21 = [[Georgian Political Union of National Integrity and Highlanders Bloc|B–GPUNIH]] | leader21 = | percentage21 = 0.70 |seats21 = 1
+|party22 = [[Society for the Revival of the Fatherland|SRF]] | leader22 = | percentage22 = 0.69 |seats22 = 1
+|party23 = [[Radical Monarchist Union of Georgia|RMUG]] | leader23 = | percentage23 = 0.69 |seats23 = 1
+|party24 = [[Party of State–National Integrity of Georgia|PSNIG]] | leader24 = | percentage24 = 0.47 |seats24 = 1
+
+| leader25 = –
+| party25 = [[Independent politician|Independents]]
+| seats25 = 60
+| color25 = {{party color|Independent politician}}
+| percentage25 = –
+
+| title = [[Prime Minister of Georgia|Prime Minister]]
+| before_election = [[Tengiz Sigua]]
+| before_image = 
+| after_election = [[Tengiz Sigua]]
+| after_image = 
+| before_party = Independent politician
+| after_party = Independent politician
+}}
+}}
+}}
+{{Politics of Georgia (country)}}
+
+General elections were held in [[Georgia (country)|Georgia]] on 11 October 1992, in which voters elected both the [[Parliament of Georgia|Parliament]] and the Chairman of Parliament,<ref>[[Dieter Nohlen]], Florian Grotz & Christof Hartmann (2001) ''Elections in Asia: A data handbook, Volume I'', p382 {{ISBN|0-19-924958-X}}</ref> who also acted as Head of State as the President, [[Zviad Gamsakhurdia]], was in exile after being ousted in a coup in January. Independent candidate [[Eduard Shevardnadze]] was the only candidate in the election for Head of State, whilst the Peace Bloc won the most seats in Parliament. Voter turnout was 74.2%.
+
+The election took place during the [[War in Abkhazia (1992–1993)|War in Abkhazia]]. It coincided with the heightened tensions following the [[Battle of Gagra (October 1992)|capture of Gagra]] by the Abkhaz separatists and their [[Confederation of Mountain Peoples of the Caucasus|North Caucasian Muslim allies]], which resulted in a massacre of the local Georgian population. [[Gagra Municipality|Gagra]] and [[Gudauta Municipality|Gudauta districts]] had been occupied by the Abkhaz separatists and did not vote, although the elections did take place in the rest of Abkhazia's districts, which were controlled by the government of Georgia: [[Sukhumi Municipality|Sukhumi]], [[Ochamchire Municipality|Ochamchire]], and [[Gulripshi District|Gulripshi]] districts. Another separatist region, [[South Ossetia]], also did not participate in the election.<ref>{{Cite news|url=https://www.tampabay.com/archive/1992/10/11/georgians-vote-in-shadow-of-war/|title=Georgians vote in shadow of war|newspaper=[[Tampa Bay Times]]|date=11 October 1992|access-date=4 February 2024}}</ref>{{sfn|Iremadze|2020|p=75}}<ref>{{Cite news|url=https://www.independent.co.uk/news/world/europe/georgia-rebels-accused-of-mass-killings-1556090.html|title=Georgia rebels accused of mass killings|newspaper=The Independent|date=8 October 1992|access-date=4 February 2024}}</ref>
+
+It was the first election since the [[1991–1992 Georgian coup d'état]]. Violently deposed first President of Georgia [[Zviad Gamsakhurdia]] and his allies described the elections as unconstitutional and boycotted it. The elections failed to be held in some districts of [[Mingrelia]] which were [[Georgian civil war of 1991–1993|controlled]] by the Gamsakhurdia loyalists.
+
+==Background==
+The conflict between the government and the opposition in 1991 escalated into the military confrontation in Georgia and the [[1991–1992 Georgian coup d'état]], which resulted in first President of Georgia [[Zviad Gamsakhurdia]] being ousted from the power by the rebel units of the [[National Guard of Georgia]] and a group of paramilitary organizations. By January 1992, Gamsakhurdia was isolated in the [[Georgian Parliament Building (Tbilisi)|parliament building]] and on 6 January, he was forced to flee Georgia. The power was assumed by the opposition [[Military Council (Georgia)|Military Council]], which was composed of Gamsakhurdia's former PM [[Tengiz Sigua]], the commander of the National Guard [[Tengiz Kitovani]] and the leader of the paramilitary group [[Mkhedrioni]] [[Jaba Ioseliani]]. The Military Council invited former Georgian SSR leader and Soviet foreign minister [[Eduard Shevardnadze]] from [[Moscow]] to lead the country, and in March 1992 handed over its power to the [[State Council of the Republic of Georgia|State Council]], which was composed of almost all political parties opposed to Gamsakhurdia. Shevardnadze became the chair of this council.{{sfn|Iremadze|2020|p=64}}
+
+The situation in the country, however, failed to be stabilized and developed into the [[Georgian civil war of 1991–1993|civil war]]. With the [[South Ossetia war (1991–1992)|South Ossetia war]] ongoing, the tense political situation in another volatile region, [[Abkhazia]], also escalated to the [[War in Abkhazia (1992–1993)|war]] in August 1992. In both cases, the separatists were assisted by the Russian (former Soviet) military units stationed in these regions. Although Georgia declared its independence in April 1991, the country still failed to become a member of the [[United Nations]] or any other international community.{{sfn|Iremadze|2020|p=64}}
+
+In this situation, the members of the State Council launched the preparations for the [[Elections in Georgia (country)|elections]] in an attempt to justify their power through the [[democratic legitimacy]] before the domestic and international actors. Moreover, the council's restoration of Georgia's [[Constitution of Georgia (country)|pre-Soviet 1921 constitution]] provided for the legislature to exercise the powers of the main branch of the government.{{sfn|Iremadze|2020|p=64}}
+
+==Electoral system==
+Following the [[1991–1992 Georgian coup d'état]], the [[Provisional government|provisional]] [[State Council (Georgia)|State Council]], which exercised only weak authority, initially passed the electoral law adopting the [[single transferable vote]] with no [[electoral threshold]] in March 1992, hoping for a parliament with a broad representation to leave only supporters of former president, which refused to participate in the election, as a street opposition. However, as the State Council consolidated its power, it modified the electoral system on 1 August, thus making 150 seats to be elected through a regional [[Party-list proportional representation|party lists]], while the 84 seats would be elected through the [[Single-member district|single-mandate constituencies]].{{sfn|Wheatley|2005|pp=69, 73}} The majoritarian candidate required a majority of the votes to be elected through his constituency, while the other 150 seats were distributed among 10 [[multi-member district]]s, ranging from 5 to 24 seats for each district. The threshold was at least 2% for each district and the voters were entitled to select three parties with the desired sequence.{{sfn|Iremadze|2020|p=65}}
+
+In addition to the parliament, the voters also elected the [[Chairperson of the Parliament of Georgia|Chairman of the Parliament]] according to the election law. The chairman was also granted the title of the Head of State.{{sfn|Iremadze|2020|p=65}}
+
+==Participants==
+36 electoral subjects were registered for the election, including 4 blocs. Each subject received no less than 100 000 [[Soviet ruble|maneti]] from the state to finance the electoral campaign.{{sfn|Iremadze|2020|p=67}}
+
+There were several blocs which supported [[Eduard Shevardnadze]], a former Georgian SSR leader who was now in charge of the country again after being invited by the Military Council in March 1992. The most notable was the [[Peace Bloc]], which mainly consisted of [[Intelligentsia|famous intellectuals]] and former Soviet [[nomenklatura]]. Several parties were in this bloc: the Democratic Union, the [[Democratic Union for Revival|Union for Revival]], the Agrarian Union, the Georgian League for Economic and Social Progress, the Justice Party, the [[Svaneti]]-based Lemi organization and the Monarchist-Conservative Party. The former Soviet functionaries were represented by the Democratic Union, whose chairman, [[Avtandil Margiani]], was the last chairman of the [[Communist Party of Georgia (Soviet Union)|Georgian Communist Party]], before it was outlawed by Gamsakhurdia in 1991, a decision retained by the Military Council. Shevardnadze initially decided to join the Peace Bloc, but renegaded after other pro-Shevardnadze blocs complained that this would give the Peace Bloc an undue advantage. Instead, on 31 August 1992 Shevardnadze announced his candidacy to the chairmanship of the parliament, becoming the sole candidate for this position.{{sfn|Wheatley|2005|pp=74-75}}
+
+Another major pro-Shevardnadze bloc was the [[Unity Bloc (Georgia)|Unity Bloc]], which united the Liberal-Democratic National Party and the Party of Peace and Freedom. It consisted of figures from [[Liberalism|liberal]] [[intelligentsia]] and cultural sphere.{{sfn|Wheatley|2005|p=74}}
+
+Other blocs also took part in the election. For example, the 11 October bloc, which united the [[Republican Party of Georgia|Republican Party]], DAS-i, [[People's Front (Georgia)|People's Front]] and Christian Democratic Union. They consisted mostly of the young members of intelligentsia. The parties making up the bloc were in opposition to both the Communist Party and later the Gamsakhurdia government.{{sfn|Wheatley|2005|p=74}}
+
+Many parties stood individually, like [[Giorgi Chanturia|Gia Chaturia]]'s [[National Democratic Party (Georgia)|National Democratic Party]], Irakli Tsereteli's [[National Independence Party of Georgia|National Independence Party]], [[Zurab Zhvania]]'s [[Greens Party of Georgia|Green Party]], [[Ilia Chavchavadze Society]] and the [[Democratic Party (Georgia)|Democratic Party]]. The Socialist Workers' Party was composed of the former Communist Party members who retained the hard-line communist ideology.{{sfn|Wheatley|2005|p=74}} There were some parties which broke away from Gamsakhurdia's [[Round Table—Free Georgia]] coalition: [[Akaki Asatiani]]'s [[Union of Georgian Traditionalists]], [[Tedo Paatashvili]]'s [[Charter 91]], and the [[Merab Kostava Society]]. However, the groups supporting Gamsakhurdia by large boycotted the election.{{sfn|Wheatley|2005|p=74}}
+
+==Conduct==
+The international observers mostly described the conduct of the election as free and fair. However, the elections failed to be held in all districts, and consequently the elections were suspended and postponed in nine single-mandate consequences: [[Java Municipality|Java]], [[Tskhinvali District|Tskhinvali]], [[Zugdidi Municipality|Zugdidi]], [[Tsalenjikha Municipality|Tsalenjikha]], [[Chkhorotsqu Municipality|Chkhorotsku]], [[Gagra District|Gagra]], [[Gali Municipality|Gali]], [[Gudauta District|Gudauta]], and [[Tkvarcheli District|Tkvarcheli]]. These districts were either controlled by the separatist regime of [[South Ossetia]], [[Abkhazians|Abkhaz rebels]] or [[Zviadists|Gamsakhurdia loyalists]].{{sfn|Wheatley|2005|p=75}}{{sfn|Iremadze|2020|p=75}}
+
+==Results==
+===Head of State===
+{{Election results
+|cand1=[[Eduard Shevardnadze]]|party1=Independent|votes1=2472345
+|row2=Against|votes2=52453
+|invalid=50399
+|electorate=3471866
+|source=Nohlen ''et al''.
+}}
+
+===Parliament===
+{{Election results
+|image=[[File:Parliament of Georgia 1992.svg]]
+|firstround=National|secondround=Constituency
+|party1=[[Peace Bloc]]|votes1=528328|seats1=29|votes1_2=|seats1_2=6|totseats1=35|color1=#0000FE
+|party2=[[People's Front (Georgia)|11 October Bloc]]|votes2=277496|seats2=18|votes2_2=|seats2_2=1|totseats2=19
+|party3=[[National Democratic Party (Georgia)|National Democratic Party]]|votes3=211938|seats3=12|votes3_2=|seats3_2=2|totseats3=14
+|party4=[[Unity Bloc (Georgia)|Unity Bloc]]|votes4=190844|seats4=14|votes4_2=|seats4_2=1|totseats4=15|color4=#BE9F25
+|party5=[[Democratic Party (Georgia)|Democratic Party]]|votes5=162014|seats5=10|votes5_2=|seats5_2=0|totseats5=10
+|party6=[[Union of Georgian Traditionalists]]|votes6=127923|seats6=7|votes6_2=|seats6_2=1|totseats6=8
+|party7=[[Green Party of Georgia|Green Party]]|votes7=113028|seats7=11|votes7_2=|seats7_2=0|totseats7=11|color7=#008000
+|party8=[[Charta 91]]|votes8=111148|seats8=9|votes8_2=|seats8_2=1|totseats8=10|color8=#606060
+|party9=[[Ilia Chavchavadze Society]]|votes9=69306|seats9=7|votes9_2=|seats9_2=0|totseats9=7
+|party10=[[Merab Kostava Society]]|votes10=65381|seats10=5|votes10_2=|seats10_2=2|totseats10=7|color10=#751133
+|party11=[[National Independence Party of Georgia]]|votes11=62198|seats11=4|votes11_2=|seats11_2=0|totseats11=4
+|party12=[[Socialist Party of Georgian Workers]]|votes12=54364|seats12=4|votes12_2=|seats12_2=0|totseats12=4|color12=#CC0000
+|party13=[[Union of National Concord and Revival of Georgia]]|votes13=49595|seats13=4|votes13_2=|seats13_2=1|totseats13=5|color13=#580404
+|party14=[[Social Democrat Party of Georgia]]|votes14=23819|seats14=2|votes14_2=|seats14_2=0|totseats14=2
+|party15=[[Party of Nations Friendship and Justice]]|votes15=23489|seats15=2|votes15_2=|seats15_2=0|totseats15=2
+|party16=[[Union of Social Justice of Georgia]]|votes16=22160|seats16=2|votes16_2=|seats16_2=0|totseats16=2
+|party17=[[Union of God's Children of Georgia]]|votes17=19732|seats17=2|votes17_2=|seats17_2=0|totseats17=2
+|party18=[[Union of Georgian Highlanders]]|votes18=19675|seats18=1|votes18_2=|seats18_2=0|totseats18=1
+|party19=[[Political Union of Citizens–All-Georgian Farmers Union]]|votes19=19565|seats19=2|votes19_2=|seats19_2=0|totseats19=2
+|party20=[[Constitutional Democratic Party of Georgia]]|votes20=19156|seats20=1|votes20_2=|seats20_2=0|totseats20=1
+|party21=[[Georgian Political Union of National Integrity and Highlanders Bloc]]|votes21=16088|seats21=1|votes21_2=|seats21_2=0|totseats21=1
+|party22=[[Society for the Revival of the Fatherland]]|votes22=15847|seats22=1|votes22_2=|seats22_2=0|totseats22=1
+|party23=[[Radical Monarchist Union of Georgia]]|votes23=15814|seats23=1|votes23_2=|seats23_2=0|totseats23=1
+|party24=[[Party of State–National Integrity of Georgia]]|votes24=10846|seats24=1|votes24_2=|seats24_2=0|totseats24=1
+|party25=Georgian National Front–Radical Union|votes25=9895|seats25=0|votes25_2=|seats25_2=0|totseats25=0
+|party26=Georgian National Party of the Demographic Society|votes26=9495|seats26=0|votes26_2=|seats26_2=0|totseats26=0
+|party27=PPWP–WP–HL|votes27=8976|seats27=0|votes27_2=|seats27_2=0|totseats27=0
+|party28=Popular Party of Georgia|votes28=8535|seats28=0|votes28_2=|seats28_2=0|totseats28=0
+|party29=All-Georgian Selim Khimshiashvili Society|votes29=6721|seats29=0|votes29_2=|seats29_2=0|totseats29=0
+|party30=Union for Law–Governed State|votes30=6490|seats30=0|votes30_2=|seats30_2=0|totseats30=0
+|party31=National Congress Society of Saint Ilia the Righteous|votes31=6428|seats31=0|votes31_2=|seats31_2=0|totseats31=0
+|party32=National-Radical Party of Georgia|votes32=5816|seats32=0|votes32_2=|seats32_2=0|totseats32=0
+|party33=National-Legal Party of Georgia|votes33=3838|seats33=0|votes33_2=|seats33_2=0|totseats33=0
+|party34=Christian-Liberal Party of Georgia|votes34=1683|seats34=0|votes34_2=|seats34_2=0|totseats34=0
+|party35=Political Union of Citizens–United Georgia Movement|votes35=1545|seats35=0|votes35_2=|seats35_2=0|totseats35=0
+|party36=Georgian Consirators Union|votes36=1483|seats36=0|votes36_2=|seats36_2=0|totseats36=0
+|party37=Independents|votes37_2=|seats37_2=60|totseats37=60
+|invalid=50399|invalid2=
+|electorate=3471866
+|source=Nohlen ''et al''.{{efn|The results are inconsistent, with the number of votes cast for each party totalling 2,300,659, while the number of valid votes was 2,524,798.<ref>Nohlen ''et al''., p396</ref>}}
+}}
+{{notelist}}
+
+==Aftermath==
+At least 24 blocs or parties gained the seats in the parliament. In total, this meant that 47 parties had representation in the parliament. Thus, the parliament was extremely [[Multi-party system|multi-party]], however, most parties had actually no social base and remained the narrow cliques united around some individuals. The Peace Bloc, the 11 October Bloc, the National Democratic Party and the Unity Bloc emerged as the leading parties.{{sfn|Wheatley|2005|p=75}}
+
+The former Communist Party functionaries re-emerged in the political arena through the Peace and Unity blocs, also, many local officials, managers of large industrial complexes and [[Kolkhoz|collective farms]] were elected to the parliament through single-mandate districts. Tengiz Sigua, Tengiz Kitovani and Jaba Ioseliani were also elected to the parliament as independents.{{sfn|Wheatley|2005|p=75}}
+
+The parliament was understood to be provisional and was elected to serve only for three years before drafting a new constitution for the country.{{sfn|Wheatley|2005|p=74}}
+
+On 6 November 1992, the new parliament passed the Law on State Power, which made Eduard Shevardnadze the Head of State. Thus, he became the head of the legislature and the executive at the same time. He was granted the right to appoint the [[Cabinet (government)|Cabinet of Ministers]], which he did so by appointing Tengiz Sigua as the [[Prime Minister of Georgia|Prime Minister]] after the parliamentary approval. Shevardnadze presented the "balanced cabinet" consisting of former Communist Party officials as well as non-Communists from the national liberation movement. This included Irakli Batiashvili, a delegate to the [[Georgian National Congress|National Congress]] and [[Roman Gotsiridze]], a member of the People's Front. The cabinet also included the paramilitary leaders, such as Tengiz Kitovani as the [[Minister of Defence of Georgia|Defence Minister]] and Mkhedrioni member Temur Khachishvili as the [[Minister of Internal Affairs of Georgia|Interior Minister]].{{sfn|Wheatley|2005|p=76}}
+
+Both cabinet and the parliament proved largely ineffective, because no party or coalition managed to secure majority in the parliament. In addition to the parliament being too fragmentated, the Peace and Unity blocs also broke apart soon after the election. This was coupled with the lack of professionalism, apathy and absenteeism.{{sfn|Wheatley|2005|p=77}} The divided cabinet, too, was marred by the conflicts over economic policy between "economic reformists" and their opponents. In August 1993, the cabinet resigned after the parliament rejected its draft budget twice. The deputies rejected Shevardnadze's next choice, Zurab Kervalishvili, after which they approved his next nomination, [[Otar Patsatsia]], on 20 August.{{sfn|Wheatley|2005|p=76}} The second cabinet was also a "balanced" one, but the main "reformist" Roman Gotsiridze was replaced by [[Irine Sarishvili-Chanturia|Irina Sarishvili]] of the National Democratic Party as the [[Deputy Prime Minister of Georgia|Deputy Prime Minister]]. Shevardnadze also replaced Khachishvili by his loyalist [[Shota Kviraia]], a former KGB General, which has been described as a setback for the paramilitaries.{{sfn|Wheatley|2005|p=78}}
+
+Initially, only few parliamentary deputies were outspoken in their opposition to Shevardnadze, but this changed soon and the parliament divided into three groups: the first group being radically opposed to Shevardnadze, mainly accusing him of being subservient to Russia (National Independence Party, the Merab Kostava Society, the Union of Georgian Traditionalists and the Monarchist-Conservative Party), the second group being moderately opposed (Republican Party, the Popular Front, Charter 91 and the Illia Chavchavadze Society), and the third group being supportive of the Head of State. This last group was the largest and it included the Democratic Union, the Green Party, the National Democratic Party and two new factions: Liberals and Neutrals. The National Democratic Party was anti-Russian, while the former Communists were either pragmatic or pro-Russian. In March 1993, the NDP, the Greens and the Liberals united in an interfactional coalition making up 42 deputies.{{sfn|Wheatley|2005|p=78}} The parliament was especially divided during the vote on Shevardnadze's decision to join the [[Commonwealth of Independent States]] on 1 March 1994, with the most pro-Shevardnadze groups voting in favor, but the NDP going against it and its members resigning from their position in cabinet.{{sfn|Wheatley|2005|p=85}} Despite the divisions inside the legislature preventing the working majority, Shevardnadze was still often able to gain its support to enact emergency measures.{{sfn|Wheatley|2005|p=78}} Most notably, Shevardnadze managed to convince the Parliament to grant him the [[emergency powers]] and temporarily suspend its activities on 14 September 1993, during the escalation of the [[Georgian civil war of 1991–1993|Georgian Civil War]] and the [[War in Abkhazia (1992–1993)|War in Abkhazia]].{{sfn|Wheatley|2005|p=83}} The state of emergency was finally abolished on 24 February 1994, after the parliament refused its further extension request by Shevardnadze.{{sfn|Wheatley|2005|p=83}}
+
+Although initially Shevardnadze preferred to balance different competing forces, by the end of 1993 he made a decision to establish his own political party, the [[Union of Citizens of Georgia]]. Various small groups and associations joined the party, with it being driven by liberal intelligentsia and the [[Second economy of the Soviet Union|shadow economic elite]]. In Parliament, it received 40 seats almost immediately after its creation through the Greens and Liberals that agreed to join its ranks.{{sfn|Wheatley|2005|pp=85-86}} Shevardnadze greatly strengthened his positions by appointing his loyalists to the cabinet while parliament was inactive due to the state of emergency, and the Union of Citizens soon emerged as the strongest party in the country, with it having 71 deputies among its ranks by March 1994. Still, there were even more pro-Shevardnadze deputies in the parliament who were members of other blocs and parties.{{sfn|Wheatley|2005|p=89}} In June 1994, the Republican Party, the People's Front and the Charter 91 united into a new party called the United Republican Party, which with is 22 deputies emerged as the second largest group in the parliament after the UCG.{{sfn|Wheatley|2005|p=91}}
+
+During the initial phase of his tenure, Shevardnadze's power was limited by that of the paramilitaries, which functioned as independent entities as Georgia collapsed into the [[failed state]]. However, by early 1995, after the end of the all major wars, Shevardnadze found the opportunity to launch a crackdown on weakened paramilitaries. The Mkhedrioni paramilitary was initially ordered to disarm, the demand which Ioseliani refused to follow. Although he later agreed to disarm as a "goodwill gesture", by this time Mkhedrioni had formed an alliance with the Security Ministry and its head [[Igor Giorgadze]], with Khachishvili serving as his deputy minister. Mkhedrioni was accused of executing a series of assassinations, including that of NDP leader Gia Chantura and Shevardnadze loyalist and founder of the Shevardnadze Foundation Soliko Khabeishvili, and, lastly, the failed assassination attempt of Eduard Shevardnadze himself on 29 August 1995. This led to the imprisonment of Mkhedrioni leaders, including Jaba Ioseliani, and termination of its activities. Meanwhile, Tengiz Kitovani, being removed from his position of the Defence Minister and eventually sidelined, was arrested on 13 January 1995.{{sfn|Wheatley|2005|p=87}}
+
+The sidelining of paramilitaries, more loyalist cabinet and the establishment of UCG allowed Shevardnadze to consolide his power. He managed to reanimate old Soviet networks on which he relied during his tenure as the Georgian SSR leader from 1972 to 1985, and, most notably, the Soviet Georgian Interior Ministry, which Shevardnadze headed from 1965 to 1972. Coupled with the lack of deep social roots and institutional foundations, this resulted in the opposition parties being effectively sidelined. Thus, out of eight major opposition forces in the parliament from 1992 to 1995, only two survived as visible forces in the politics by 2001.{{sfn|Wheatley|2005|p=92}} However, Shevardnadze also incorporated new faces in his network, notably the Green Party, and also local power brokers and even criminals.{{sfn|Wheatley|2005|p=93}}
+
+Lastly, the Parliament elected in 1992 performed the function of writing the new Constitution of Georgia. The process was launched on 25 March 1995, when the State Constitutional Commission was established by the parliament. However, Shevardnadze rejected the initial compromise agreed in November 1994, and then he commissioned the Justice Minister Tedo Ninidze to write a new constitutional draft, which embraced a strongly [[Presidential system|presidential model]] similar to the [[Constitution of Russia|Russian one]]. There was to be a two-chamber parliament and the Cabinet of Ministers was to be responsible only to the President. Shevardnadze tried to co-opt opposition parties to accept this model by offering them ministerial portfolios or threatening to approve the constitution by the referendum, and in May 1995 the constitution passed through the parliamentary vote. However, it failed to receive the supermajority in July 1995, and the Deputy Prime Minister Bakur Gulia negotiated a compromise more resembling the US model. Ultimately, the draft that was approved envisioned no Cabinet of Ministers but only individual ministers, who were responsible before the President, but President was also responsible before the Parliament. Upon the insistence of the opposition United Republic Party and the Union of Georgian Traditionalists, the presidential right to dissolve the parliament was removed. The position of the [[State Minister (Georgia)|State Minister]] was also established, which would be a ministerial coordinator. The draft was passed on 24 August 1995, with 159 deputies supporting it. The National Democratic Party, the Illia Chavchavadze Society and the Merab Kostava Society voted against the constitution, but the United Republican Party voted in favor reluctantly.{{sfn|Wheatley|2005|p=94}}
+
+==References==
+{{reflist}}
+
+==Sources==
+*{{cite book|last=Iremadze|first=Irakli|title=Electoral history of Georgia: 1990-2018|date=2020|publisher=[[Election Administration of Georgia|Central Electoral Commission of Georgia]]|location=Tbilisi, Georgia |url=https://history.cec.gov.ge/PDF/ElectoralHistoryOfGeorgia.pdf|access-date=25 January 2024}}
+*{{cite book |last= Wheatley|first=Jonathan|url= https://books.google.com/books?id=dGqLAAAAMAAJ|title= Georgia from National Awakening to Rose Revolution |date=2005 |publisher=[[Ashgate Publishing]]|isbn= 9780754645030}}
+
+{{Georgian elections}}
+
+[[Category:1992 in Georgia (country)|General]]
+[[Category:Presidential elections in Georgia (country)]]
+[[Category:Parliamentary elections in Georgia (country)]]
+[[Category:1992 elections in Europe|Georgia]]
+[[Category:Single-candidate elections]]
+[[Category:Election and referendum articles with incomplete results]]

@@ -1,0 +1,2534 @@
+{{Short description|none}}
+{{Infobox election
+| country = Poland
+| type = presidential
+| previous_election = 1990 Polish presidential election
+| previous_year = 1990
+| next_election = 2000 Polish presidential election
+| next_year = 2000
+| election_date = 5 November 1995 (first round)<br />{{nowrap|19 November 1995 (second round)}}
+| turnout = 64.70% (first round) {{increase}}4.07[[percentage points|pp]]<br /> 68.23% (second round) {{increase}}14.83[[percentage points|pp]]
+| image1 = {{CSS image crop|Location=center|Image = Aleksander Kwaśniewski in Strasbourg, 1998.jpg|bSize = 285|cWidth = 120|cHeight = 147|oTop = 6|oLeft = 81}}
+| nominee1 = '''[[Aleksander Kwaśniewski]]'''
+| party1 = Social Democracy of the Republic of Poland
+| popular_vote1 = '''9,704,439'''
+| percentage1 = '''51.72%'''
+| image2 = {{CSS image crop|Location=center|Image = Walesa.png|bSize = 159|cWidth = 120|cHeight = 147|oTop = 0|oLeft = 24}}
+| nominee2 = [[Lech Wałęsa]]
+| party2 = [[Independent politician|Independent]]{{efn|The President of Poland traditionally resigns from party membership after taking office. Although Wałęsa was officially an independent, his campaign was endorsed and funded by the [[Nonpartisan Bloc for Support of Reforms]] and {{ill|National Democratic Party (Poland, 1991)|pl|Stronnictwo Narodowo-Demokratyczne (III Rzeczpospolita)|lt=National Democratic Party}}.}}
+| popular_vote2 = 9,058,176
+| percentage2 = 48.28%
+| map_image = {{Switcher
+|[[File:1995 Polish presidential election by Voivodeship.svg|300px]]
+|First round results by voivodeship
+|[[File:1995 Polish presidential election by Voivodeship r2.svg|300px]]
+|Second round results by voivodeship
+|default=2
+}}
+| title = [[President of Poland|President]]
+| before_election = [[Lech Wałęsa]]
+| before_party = Independent (politician)
+| after_election = [[Aleksander Kwaśniewski]]
+| after_party = Social Democracy of the Republic of Poland
+}}
+{{Politics of Poland}}
+
+Presidential elections were held in [[Poland]] on 5 November 1995, with a second round on 19 November.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1491 {{ISBN|978-3-8329-5609-7}}</ref> The leader of [[Social Democracy of the Republic of Poland|Social Democracy]], [[Aleksander Kwaśniewski]], and incumbent president [[Lech Wałęsa]] advanced to the second round. Kwaśniewski won the election with 52% of the vote in the [[Two-round system|run-off]] against 48% for Wałęsa.
+
+==Background==
+===Wałęsa's inauguration===
+[[Lech Wałęsa]] was [[1990 Polish presidential election|elected]] and sworn in as [[President of Poland|President]] in December 1990, succeeding [[Wojciech Jaruzelski]] and leading to the ultimate end of [[Polish People's Republic|communist rule in Poland]]. Soon after his inauguration, Wałęsa's presently primary rival [[Prime Minister of Poland|Prime Minister]] [[Tadeusz Mazowiecki]] resigned and was followed by [[Jan Krzysztof Bielecki]], a [[Liberalism in Poland|liberal]] and economist relatively loyal to Wałęsa. Regardless of the cabinet changes, Bielecki's time as prime minister would largely follow the course set by his predecessor.<ref name=Dudek/>
+
+===1991 parliamentary election===
+The [[1991 Polish parliamentary election]] saw the [[Democratic Union (Poland)|Democratic Union]] (UD) become the largest party, later supplanted by the [[Democratic Left Alliance (Poland)|Democratic Left Alliance]] (SLD) after [[Aleksander Hall]]'s [[Conservative Party (Poland)|Conservatives]] split off from UD. After the downfall of [[Jan Olszewski]]'s cabinet, and [[Hanna Suchocka]]'s cabinet which succeeded it, new elections were called.
+
+===1993 parliamentary election===
+The [[1993 Polish parliamentary election]] saw SLD become the largest party, winning a plurality with 171 seats — 37.2% of the 460-seat [[Sejm]] — while receiving only 20.4% of the vote. SLD governed in a coalition with the [[Polish People's Party]].
+
+===Approval rating of Wałęsa===
+{{main|Opinion polling on the Lech Wałęsa presidency}}
+[[File:Approval ratings of Lech Wałęsa (moving average).svg|thumb|1000px|center|Graphical summary of approval polls]]
+
+Wałęsa maintained an overwhelmingly negative approval rating throughout the second half of his term, with his approval becoming positive only during a period of increased polarization before the second turn of the 1995 presidential election.<ref>{{citation |date=1995-11-27 |title=Zaufanie do instytucji publicznych w czasie wyborów prezydenckich |url=https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1398 |publisher=[[CBOS]] |quote=Jak się wydaje, sytuacja polityczna przed wyborami, tzn. utrzymująca się popularność Aleksandra Kwaśniewskiego uzyskującego w rankingach nieodmiennie pierwsze miejsce oraz postępujący wzrost notowań Lecha Wałęsy, którego część elektoratu coraz silniej postrzegała jako jedynego polityka będącego w stanie realnie przeciwstawić się postkomunistycznemu kandydatowi, spowodowała spektakularny wzrost akceptacji działań obecnego prezydenta. W ciągu dwóch miesięcy liczba ocen pozytywnych, wskazujących na to, że jego działalność dobrze służy społeczeństwu, wzrosła z 23% do 51%. Po raz pierwszy od czterech lat poziom aprobaty działań prezydenta jest wyraźnie wyższy niż dezaprobaty. Jest to wynik porównywalny z tymi, jakie Lech Wałęsa uzyskiwał w początkowym okresie swojej prezydentury w 1991 roku. Oczywiście najsilniej popierają Lecha Wałęsę badani o prawicowych poglądach politycznych oraz osoby głęboko religijne. Ponieważ jest to jego tradycyjny elektorat, to wzrost poparcia, choć duży, nie jest tak uderzający. W stosunku do okresu sprzed dwóch miesięcy największy przyrost aprobaty działań obecnego prezydenta odnotowaliśmy wśród pracowników fizyczno-umysłowych (o 59 punktów procentowych) i umysłowych niższego szczebla (o 42 punkty), pracowników sfery budżetowej (o 37 punktów), osób najmniej zarabiających (o 33 punkty), a ponadto wśród mieszkańców największych aglomeracji (o 33 punkty) oraz w regionach środkowym (o 37 punktów) i północnym (o 32 punkty). Poparcie dla jego działań wzrosło najsilniej wśród osób z wykształceniem zasadniczym zawodowym oraz średnim (odpowiednio o 31 i 30 punktów). Można podejrzewać, że właśnie te środowiska najbardziej ulgowo traktowały błędy czy wady Wałęsy i najłatwiej im było przejść nad nimi do porządku dziennego, jednocześnie zaś najmniej odpowiadał im prezydent wywodzący się z SLD. |access-date=2025-08-23}}</ref>
+
+==Candidate selection==
+===Registered candidates===
+{| class="wikitable sortable" style="text-align:center;"
+! style="width: 115px;" | Name
+! style="width: 145px;" | Born
+! style="width: 425px;", class="unsortable" | Last position/job
+! style="width: 215px;" colspan="2" | Party
+! style="width: 215px;" colspan="2" | Endorsed by
+|-
+| data-sort-value="Kwaśniewski, Aleksander" | {{CSS image crop|Location=center|Image = Aleksander Kwaśniewski in Strasbourg, 1998.jpg|bSize = 214|cWidth = 90|cHeight = 120|oTop = 5|oLeft = 61}}'''[[Aleksander Kwaśniewski]]'''
+| {{dts|1954|11|15|format=dmy}} (40)<br>[[Białogard]], [[Koszalin Voivodeship (1975–1998)|Koszalin Voivodeship]]
+| Member of the [[Sejm]] (1989–1995)<br />Chairman of [[Social Democracy of the Republic of Poland|Social Democracy]] (1990–1995)
+| {{party color cell|Social Democracy of the Republic of Poland}}
+| style="text-align:left;" | [[Social Democracy of the Republic of Poland|Social Democracy]]
+| {{party color cell|Democratic Left Alliance (Poland)}}
+| style="text-align:left;" | [[Democratic Left Alliance (Poland)|Democratic Left Alliance]]{{blist|Social Democracy|[[All-Poland Alliance of Trade Unions]]<ref>{{cite news |title=OPZZ popiera Kwaśniewskiego |url=https://archiwum.rp.pl/artykul/54954-OPZZ-popiera-Kwasniewskiego.html |access-date=2025-04-22}}</ref>|[[Working People's Movement]]}}
+|-
+| data-sort-value="Wałęsa, Lech" rowspan="10" | {{CSS image crop|Location=center|Image = Walesa.png|bSize = 120|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 18}}'''[[Lech Wałęsa]]'''
+| rowspan="10" | {{dts|1943|09|29|format=dmy}} (52)<br>[[Popowo, Gmina Tłuchowo|Popowo]], [[General Government]]
+| rowspan="10" | [[President of Poland]] (1990–1995)
+| rowspan="10" {{party color cell|Independent politician}}
+| style="text-align:left;" rowspan="10" | [[Independent politician|Independent]]
+| {{party color cell|Nonpartisan Bloc for Support of Reforms}}
+| style="text-align:left;" | [[Nonpartisan Bloc for Support of Reforms]]
+|-
+| {{party color cell|Confederation of Independent Poland}}
+| style="text-align:left;" | [[Confederation of Independent Poland]]
+|-
+| {{party color cell|Party of Christian Democrats}}
+| style="text-align:left;" | [[Party of Christian Democrats]]
+|-
+| {{party color cell|Republicans Party}}
+| style="text-align:left;" | {{ill|Republicans Party|pl|Partia Republikanie|lt=Republicans Party}}
+|-
+| {{party color cell|Peasants' Agreement}}
+| style="text-align:left;" | [[Peasants' Agreement|Polish People's Party – Peasants' Agreement]]
+|-
+| {{party color cell|Movement for the Republic}}
+| style="text-align:left;" | [[Movement for the Republic – Patriotic Camp]]
+|-
+| {{party color cell|Solidarity Citizens' Committee}}
+| style="text-align:left;" | [[Solidarity (Polish trade union)|Solidarity]]<ref name=bd/>
+|-
+| {{party color cell|Party of Polish Democracy}}
+| style="text-align:left;" | [[Party of Polish Democracy]]
+|-
+| {{party color cell|National-Democratic Party}}
+| style="text-align:left;" | {{ill|National-Democratic Party (Poland, 1991–2001)|pl|Stronnictwo Narodowo-Demokratyczne (III Rzeczpospolita)|lt=National-Democratic Party}}<ref name=Dudek/>
+|-
+| {{party color cell|Christian National Union}}
+| style="text-align:left;" | [[Christian National Union]]<ref name=bd/>
+|-
+| data-sort-value="Kuroń, Jacek" | {{CSS image crop|Location=center|Image = Tablica Jacek Kuroń skwer Jacka Kuronia w Warszawie (cropped).jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 6}}'''[[Jacek Kuroń]]'''
+| {{dts|1934|03|03|format=dmy}} (61)<br>[[Lwów]], [[Lwów Voivodeship]]
+| [[Ministry of Family, Labour and Social Policy|Minister of Labour and Social Policy]] (1989–1991, 1992–1993)<br />Member of the [[Sejm]] (1989–1993)
+| {{party color cell|Freedom Union (Poland)}}
+| style="text-align:left;" colspan="3" | [[Freedom Union (Poland)|Freedom Union]]
+|-
+| data-sort-value="Olszewski, Jan" rowspan="4" | {{CSS image crop|Location=center|Image = Jan Olszewski 1993.png|bSize = 155|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 30}}'''[[Jan Olszewski]]'''
+| rowspan="4" | {{dts|1930|08|20|format=dmy}} (65)<br>[[Warsaw]], [[Warsaw Voivodeship (1919–1939)|Warsaw Voivodeship]]
+| rowspan="4" | [[Prime Minister of Poland|Prime Minister]] (1991–1992)<br />Member of the [[Sejm]] (1991–1993)
+| rowspan="4" {{party color cell|Movement for the Republic}}
+| style="text-align:left;" rowspan="4" | [[Movement for the Republic]]
+| {{party color cell|Polish Popular-Christian Forum "Patrimony"}}
+| style="text-align:left;" | [[Polish Popular-Christian Forum "Patrimony"|Polish Party "Patrimony"]]
+|-
+| {{party color cell|Centre Agreement}}
+| style="text-align:left;" | [[Centre Agreement]]
+|-
+| {{party color cell|Polish Action}}
+| style="text-align:left;" | [[Polish Action|Christian-National Movement Polish Action]]
+|-
+| {{party color cell|Third Republic Movement}}
+| style="text-align:left;" | [[Third Republic Movement]]
+|-
+| data-sort-value="Pawlak, Waldemar" | {{CSS image crop|Location=center|Image = Waldemar Pawlak, Egon Klepsch 1994.jpg|bSize = 300|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 50}}'''[[Waldemar Pawlak]]'''
+| {{dts|1959|09|05|format=dmy}} (36)<br>[[Model, Masovian Voivodeship|Model]], [[Płock Voivodeship (1975–1998)|Płock Voivodeship]]
+| [[Prime Minister of Poland|Prime Minister]] (1993–1995)<br />Member of the [[Sejm]] (1989–2015)
+| {{party color cell|Polish People's Party}}
+| style="text-align:left;" colspan="3" | [[Polish People's Party]]
+|-
+| data-sort-value="Zieliński, Tadeusz" rowspan="4" | {{CSS image crop|Location=center|Image = Tadeusz Zieliński (prawnik).JPG|bSize = 233|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 67}}'''[[Tadeusz Zieliński (1926–2003)|Tadeusz Zieliński]]'''
+| rowspan="4" | {{dts|1926|06|19|format=dmy}} (69)<br>[[Kraków]], [[Kraków Voivodeship (1919–1939)|Kraków Voivodeship]]
+| rowspan="4" |[[Polish Ombudsman|Ombudsman]] in Poland (1992–1996)
+| rowspan="4" {{party color cell|Independent politician}}
+| style="text-align:left;" rowspan="4" | [[Independent politician|Independent]]
+| {{party color cell|Labour Union (Poland)}}
+| style="text-align:left;" | [[Labour Union (Poland)|Labour Union]]
+|-
+| {{party color cell|National Party of Retirees and Pensioners}}
+| style="text-align:left;" | [[National Party of Retirees and Pensioners]]
+|-
+| {{party color cell|Polish Socialist Party}}
+| style="text-align:left;" | [[Polish Socialist Party]]
+|-
+| {{party color cell|Polish Socialist Party}}
+| style="text-align:left;" | [[Polish Socialist Party – Freedom, Equality, Independence (Third Republic)|Polish Socialist Party – WRN]]
+|-
+| data-sort-value="Gronkiewicz-Waltz, Hanna" rowspan="6" | {{CSS image crop|Location=center|Image = Gronkiewicz 1 (cropped).jpg|bSize = 125|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 12}}'''[[Hanna Gronkiewicz-Waltz]]'''
+| rowspan="6" | {{dts|1952|11|04|format=dmy}} (43)<br>[[Warsaw]], [[Warsaw Voivodeship (1975–1998)|Warsaw Voivodeship]]
+| rowspan="6" | President of the [[National Bank of Poland|National Bank]] (1992–2001)
+| rowspan="6" {{party color cell|Independent politician}}
+| style="text-align:left;" rowspan="6" | [[Independent politician|Independent]]
+| {{party color cell|Labour Party (Poland)}}
+| style="text-align:left;" | [[Labour Party (Poland)|Christian-Democratic Labour Party]]
+|-
+| {{party color cell|Conservative Party}}
+| style="text-align:left;" | [[Conservative Coalition (Poland)|Conservative Coalition]]
+|-
+| {{party color cell|Conservative Party (Poland)}}
+| style="text-align:left;" | [[Conservative Party (Poland)|Conservative Party]]
+|-
+| {{party color cell|Christian-Peasant Party}}
+| style="text-align:left;" | [[Christian-Peasant Party]]
+|-
+| {{party color cell|Christian National Union}}
+| style="text-align:left;" | [[Christian National Union]]<ref name=bd/>
+|-
+| {{party color cell|Polish Union}}
+| style="text-align:left;" | [[Polish Union]]
+|-
+| data-sort-value="Korwin-Mikke, Janusz" | {{CSS image crop|Location=center|Image = Kampania reklamowa przed wyborami do Senatu i Sejmu - Poznań - 004294n (cropped).jpg|bSize = 253|cWidth = 90|cHeight = 120|oTop = 13|oLeft = 67}}'''[[Janusz Korwin-Mikke]]'''
+| {{dts|1942|10|27|format=dmy}} (53)<br>[[Warsaw]], [[Warsaw Voivodeship (1919–1939)|Warsaw Voivodeship]]
+| Member of the [[Sejm]] (1991–1993)
+| {{party color cell|Real Politics Union}}
+| style="text-align:left;" colspan="3" | [[Real Politics Union]]
+|-
+| data-sort-value="Lepper, Andrzej" | {{CSS image crop|Location=center|Image = Andrzej Lepper in his office 2002 (2).jpg|bSize = 280|cWidth = 90|cHeight = 120|oTop = 20|oLeft = 110}}'''[[Andrzej Lepper]]'''
+| {{dts|1954|06|13|format=dmy}} (41)<br>[[Stowięcino]], [[Słupsk Voivodeship]]
+| Agriculturist
+| {{party color cell|Self-Defence of the Republic of Poland}}
+| style="text-align:left;" colspan="3" | [[Self-Defence of the Republic of Poland|Self-Defence Covenant]]
+|-
+| data-sort-value="Pietrzak, Jan" | {{CSS image crop|Location=center|Image = Jan Pietrzak.jpg|bSize = 127|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 16}}'''[[Jan Pietrzak]]'''
+| {{dts|1937|04|26|format=dmy}} (58)<br>[[Warsaw]], [[Warsaw Voivodeship (1919–1939)|Warsaw Voivodeship]]
+| Satirist
+| {{party color cell|Independent politician}}
+| style="text-align:left;" colspan="3" | [[Independent politician|Independent]]
+|-
+| data-sort-value="Koźluk, Tadeusz" |  {{CSS image crop|Location=center|Image = 3x4.svg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 0}}'''[[Tadeusz Koźluk]]'''
+| {{dts|1930|08|16|format=dmy}} (65)<br>[[Konstantynów, Lublin Voivodeship|Konstantynów]], [[Lublin Voivodeship (1919–1939)|Lublin Voivodeship]]
+| Lawyer
+| {{party color cell|Independent politician}}
+| style="text-align:left;" colspan="3" | [[Independent politician|Independent]]
+|-
+| data-sort-value="Piotrowicz, Kazimierz" | {{CSS image crop|Location=center|Image = 3x4.svg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 0}}'''[[Kazimierz Piotrowicz]]'''
+| {{dts|1954|04|23|format=dmy}} (41)
+| Entrepreneur
+| {{party color cell|Independent politician}}
+| style="text-align:left;" colspan="3" | [[Independent politician|Independent]]
+|-
+| data-sort-value="Leszek, Bubel" | {{CSS image crop|Location=center|Image = Leszek Bubel i Janusz Rewiński.jpg|bSize = 367|cWidth = 90|cHeight = 120|oTop = 27|oLeft = 230}}'''[[Leszek Bubel]]'''
+| {{dts|1957|01|19|format=dmy}} (38)<br>[[Węgrów]], [[Siedlce Voivodeship]]
+| Member of the [[Sejm]] {{small|(1991-1993)}}
+| {{party color cell|Independent politician}}
+| style="text-align:left;" colspan="3" | [[Independent politician|Forum for Fighting Lawlessness]]
+|-
+|}
+
+===Social Democracy of the Republic of Poland===
+{| class="wikitable" style="font-size:90%;"
+! colspan="11" style="text-align:center; width:150px; font-size:120%; color:black;" |''Potential candidates''
+|- style="text-align:center"
+! scope="col" style="width:10em; font-size:120%; background:#E2001A; color:white;" |<small>Aleksander Kwaśniewski</small>
+! scope="col" style="width:10em; font-size:120%; background:#E2001A; color:white;" |<small>Józef Oleksy</small>
+|- style="text-align:center"
+|style="text-align:center"|{{CSS image crop|Image = Kwaśniewski 1998.jpg|bSize = 432|cWidth = 84|cHeight = 108|oTop = 19|oLeft = 155|Location=center}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Józef Oleksy 2004.jpg|bSize = 100|cWidth = 84|cHeight = 108|oTop = 7|oLeft = 7}}
+|- style="text-align:center"
+| {{resize|88%|Chairman of [[Social Democracy of the Republic of Poland|Social Democracy]]}}<br />{{small|(1990-1995)}}
+| [[Prime Minister of Poland]]<br />{{small|(1995-1996)}}
+|}
+
+During SdRP's Congress on 13 May, Kwaśniewski secured his party's endorsement for president with 296 out of 300 votes. Some delegates believed [[Józef Oleksy]] should become the candidate instead.<ref name=Dudek/><ref name=Woliński>{{cite book |last=Woliński |first=Przemysław |title=Transformacja Sojuszu Lewicy Demokratycznej – od koalicji wyborczej do partii politycznej |url=https://repozytorium.ukw.edu.pl/handle/item/4121}}</ref> A poll conducted in December 1994 suggested 71% of potential SLD voters supported Kwaśniewski as the party's candidate, 7% supported [[Włodzimierz Cimoszewicz]] and 16% supported Oleksy.<ref name=CBOS1>{{cite web |url=https://www.cbos.pl/SPISKOM.POL/1994/K_197_94.PDF |title=WYBORY PREZYDENCKIE - PREFERENCJE W GRUDNIU '94}}</ref>
+
+===Nonpartisan Bloc for Support of Reforms===
+Lech Wałęsa was endorsed by the Bloc.<ref name=Dudek/> A sizable part of anti-Wałęsa, reformist activists in the Bloc, like [[Andrzej Olechowski]] or [[Zbigniew Religa]] split off before the election, the latter forming the {{ill|Partia Republikanie|pl|Republicans Party}}, which supported {{ill|Marek Markiewicz|pl}} after Religa dissented with his party's intention to run himself as its candidate. Markiewicz dropped out and endorsed Wałęsa before the first round of the election.<ref name=Dudek/><ref name=PiK>{{cite book |last=Paszkiewicz |first=Krystyna |date=2004 |title=Partie i koalicje polityczne III Rzeczypospolitej |location=Wrocław |publisher=Wydawnictwo Uniwersytetu Wrocławskiego |isbn=83-229-2493-3}}</ref> Besides his own party, Wałęsa received the endorsement of other parties: a section of the ZChN endorsed him on 18 September, later joined by the rest of the party (though it didn't revoke its endorsement of their original candidate, [[Hanna Gronkiewicz-Waltz]]) on 29 October.<ref name=bd>{{cite web |last=Dziemidok |first=Bożena |date=1997 |title=Prawica w wyborach prezydenckich '95. Proces wyłaniania kandydatów |language=pl |trans-title=The Right in the 1995 Presidential Election. The Process of Nominating Candidates |url=https://bazhum.muzhp.pl/media/texts/annales-universitatis-mariae-curie-skodowska-sectio-k-politologia/1997-tom-4/annales_universitatis_mariae_curie_sklodowska_sectio_k_politologia-r1997-t4-s121-138.pdf |access-date=2025-04-21}}</ref>
+
+===Freedom Union===
+{| class="wikitable" style="font-size:90%;"
+! colspan="11" style="text-align:center; width:150px; font-size:120%; color:black;" |''Potential candidates''
+|- style="text-align:center"
+! scope="col" style="width:10em; font-size:120%; background:#2666AE; color:white;" |<small>Jacek Kuroń</small>
+! scope="col" style="width:10em; font-size:120%; background:#2666AE; color:white;" |<small>Janusz Onyszkiewicz</small>
+! scope="col" style="width:10em; font-size:120%; background:#2666AE; color:white;" |<small>Hanna Suchocka</small>
+|- style="text-align:center"
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Tablica Jacek Kuroń skwer Jacka Kuronia w Warszawie (cropped).jpg|bSize = 90|cWidth = 84|cHeight = 108|oTop = 6|oLeft = 5}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Janusz Onyszkiewicz.jpg|bSize = 100|cWidth = 84|cHeight = 108|oTop = 3|oLeft = 5}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Hanna Suchocka, Prime Minister of Poland 1992-1993.jpg|bSize = 100|cWidth = 84|cHeight = 108|oTop = 3|oLeft = 5}}
+|- style="text-align:center"
+| [[Ministry of Family, Labour and Social Policy|Minister of Labour and Social Policy]]<br />{{small|(1992-1993)}}
+| [[Ministry of National Defence (Poland)|Minister of National Defence]]<br />{{small|(1992-1993)}}
+| [[Prime Minister of Poland]]<br />{{small|(1992-1993)}}
+|}
+
+During the 2nd Congress of the Freedom Union, three candidates decided to enter the party's candidate selection process: [[Jacek Kuroń]], [[Janusz Onyszkiewicz]] and Hanna Suchocka. Suchocka, despite being the highest-ranking of the former three candidates, came last in the first round. The second round of voting saw Kuroń defeat Onyszkiewicz by a slight margin of 11 votes, and the former Minister of Labour became the party's official candidate for president.<ref name=Dudek/> A poll conducted in December 1994 suggested 53% of potential UW voters supported Kuroń as the party's candidate, 15% supported [[Leszek Balcerowicz]] and 25% supported Suchocka.<ref name=CBOS1/>
+
+===Movement for the Republic and Centre Agreement===
+{| class="wikitable" style="font-size:90%;"
+! colspan="11" style="text-align:center; width:150px; font-size:120%; color:black;" |''Potential candidates (Centre Agreement)''
+|- style="text-align:center"
+! scope="col" style="width:10em; font-size:120%; background:#DD1D1A; color:white;" |<small>Lech Kaczyński</small>
+! scope="col" style="width:10em; font-size:120%; background:#D47034; color:white;" |<small>Jan Olszewski</small>
+! scope="col" style="width:10em; font-size:120%; background:{{party color|Independent candidate}}; color:black;" |<small>Adam Strzembosz</small>
+|- style="text-align:center"
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Lech Kaczyński, 1991.png|bSize = 120|cWidth = 84|cHeight = 108|oTop = 21|oLeft = 16}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Jan Olszewski 1993.png|bSize = 140|cWidth = 84|cHeight = 108|oTop = 0|oLeft = 26}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Adam Strzembosz.JPG|bSize = 155|cWidth = 84|cHeight = 108|oTop = 1|oLeft = 23}}
+|- style="text-align:center"
+| President of the [[Supreme Audit Office (Poland)|Supreme Audit Office]]<br />{{small|(1992-1995)}}
+| [[Prime Minister of Poland]]<br />{{small|(1991-1992)}}
+| Chairman of the [[Supreme Court of Poland]]<br />{{small|(1990-1998)}}
+|}
+
+With variously successful attempts of uniting the extraparliamentary right, several possible candidates were presented to lead it in the presidential election, most prominently of those affiliated with the Centre Agreement or its splinters, Lech Kaczyński, Jan Olszewski or [[Adam Strzembosz]]. On 27 March, Strzembosz declared his intentions to run for president, gaining the support of conventionally right-wing parties around him - the Centre Agreement, Christian-Peasant Party and [[Conservative Coalition (Poland)|Conservative Coalition]], as well as the more centrist Conservative Party of Aleksander Hall.<ref name=Kaczynski>{{cite book |last1=Cenckiewicz |last2=Chmielecki |last3=Kowalski |last4=Piekarska |first1=Sławomir |first2=Adam |first3=Janusz |first4=Anna |date=2013 |title=Lech Kaczyński. Biografia polityczna 1949-2005 |trans-title=Lech Kaczyński. Political biography 1949-2005 |url=https://sklep.zysk.com.pl/lech-kaczynski-biografia-polityczna-1949-2005.html |location=Poznań |language=Polish |publisher=Wydawnictwo Zysk i S-ka |isbn=978-83-7785-230-9}}</ref> Strzembosz, alongside other activists of the right including Jan Olszewski, attempted to legitimise his candidacy at the Convent of St. Catherine. After its collapse in July, Jan Olszewski started an individual presidential campaign under his party, the [[Movement for the Republic]],<ref name=Dudek/> who the PC considered supporting instead of Strzembosz due to dissatisfaction with him sidelining the party's staffers and platform, especially its [[Law and order (politics)|tough on crime]] positions. However, on 4 September the party chose to proclaim Lech Kaczyński as their nominee instead. After failure to gain much support, Strzembosz abandoned his candidacy on 16 September, endorsing [[Hanna Gronkiewicz-Waltz]], one of the pretendents at the Convent of St. Catherine. Both Kaczyński and Olszewski also attempted to court the endorsement of the [[Solidarity (Polish trade union)|Solidarity]] trade union from Wałęsa, but failed, as the union endorsed the incumbent president on 18 October. Similarly to many other of the right's candidates, Kaczyński dropped out of the race on 30 October due to his poor performance and endorsed Olszewski.<ref name=Kaczynski/><ref name=ppm>{{cite book |last=Kaczyński |first=Jarosław |date=2016 |title=Porozumienie przeciw monowładzy. Z dziejów PC |trans-title=Agreement against monoauthority. From the history of PC |url=https://sklep.zysk.com.pl/manufacturer/kaczynski-jaroslaw/porozumienie-przeciw-monowladzy-z-dziejow-pc-opr-miekka.html |location=Warsaw |language=Polish |publisher={{ill|Zysk i S-ka|pl}} |isbn=978-83-7785-961-2}}</ref> A poll conducted in December 1994 suggested 13% of potential voters for the extraparliamentary right supported Olszewski as the party's candidate, 11% supported Kaczyński and 6% supported Strzembosz. Another 9% supported [[right-libertarianism|right-libertarian]] [[Janusz Korwin-Mikke]] ([[Real Politics Union|UPR]]) and 8% supported [[Alicja Grześkowiak]] (PC).<ref name=CBOS1/>
+
+===Polish People's Party===
+{| class="wikitable" style="font-size:90%;"
+! colspan="11" style="text-align:center; width:150px; font-size:120%; color:black;" |''Potential candidates''
+|- style="text-align:center"
+! scope="col" style="width:10em; font-size:120%; background:#1BB100; color:white;" |<small>Waldemar Pawlak</small>
+! scope="col" style="width:10em; font-size:120%; background:#1BB100; color:white;" |<small>Józef Zych</small>
+|- style="text-align:center"
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Waldemar Pawlak, Egon Klepsch 1994.jpg|bSize = 270|cWidth = 84|cHeight = 108|oTop = 0|oLeft = 42}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Zych, Gil-Robles, 1997.jpg|bSize = 440|cWidth = 84|cHeight = 108|oTop = 42|oLeft = 95}}
+|- style="text-align:center"
+| [[Prime Minister of Poland|Prime Minister]]<br />{{small|(1993-1995)}}
+| [[Marshal of the Sejm]]<br />{{small|(1995-1997)}}
+|}
+
+Pawlak was selected as the party's candidate. He was challenged most prominently by [[Józef Zych]] at the party's convention, however, Zych resigned from seeking the candidacy.<ref>{{cite news |title=PSL zwleka ze zgłoszeniem kandydata |url=https://archiwum.rp.pl/artykul/55596-PSL-zwleka-ze-zgloszeniem-kandydata.html |access-date=2025-03-24}}</ref><ref>{{cite news |title=Waldemar Pawlak kandydatem PSL na prezydenta  |url=https://www.newsweek.pl/polska/waldemar-pawlak-kandydatem-psl-na-prezydenta-w-wyborach-2010/gm4hktp |access-date=2025-03-24}}</ref><ref name=Dudek/> A poll conducted in December 1994 suggested 68% of potential PSL voters supported Pawlak as the party's candidate, 1% supported [[Janusz Piechociński]] and 9% supported Zych.<ref name=CBOS1/>
+
+===Convent of St. Catherine===
+{| class="wikitable" style="font-size:90%;"
+! colspan="11" style="text-align:center; width:150px; font-size:120%; color:black;" |''Potential candidates''
+|- style="text-align:center"
+! scope="col" style="width:10em; font-size:120%; background:{{party color|Independent candidate}}; color:black;" |{{resize|82%|Hanna Gronkiewicz-Waltz}}
+! scope="col" style="width:10em; font-size:120%; background:#333300; color:white;" |<small>Leszek Moczulski</small>
+! scope="col" style="width:10em; font-size:120%; background:#D47034; color:white;" |<small>Jan Olszewski</small>
+! scope="col" style="width:10em; font-size:120%; background:{{party color|Independent candidate}}; color:black;" |<small>Adam Strzembosz</small>
+! scope="col" style="width:10em; font-size:120%; background:#7DAD0B; color:white;" |<small>Henryk Bąk</small>
+! scope="col" style="width:10em; font-size:120%; background:#F72227; color:white;" |<small>Wojciech Ziembiński</small>
+! scope="col" style="width:10em; font-size:120%; background:{{party color|Independent candidate}}; color:black;" |<small>Roman Ciesielski</small>
+! scope="col" style="width:10em; font-size:120%; background:#D62C2C; color:white;" |<small>Jan Parys</small>
+|- style="text-align:center"
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Gronkiewicz 1 (cropped).jpg|bSize = 114|cWidth = 84|cHeight = 108|oTop = 0|oLeft = 10}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Leszek Moczulski 1978 1980 (cropped).jpg|bSize = 126|cWidth = 84|cHeight = 108|oTop = 0|oLeft = 8}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Jan Olszewski 1993.png|bSize = 140|cWidth = 84|cHeight = 108|oTop = 0|oLeft = 26}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Adam Strzembosz.JPG|bSize = 155|cWidth = 84|cHeight = 108|oTop = 1|oLeft = 23}}
+|style="text-align:center"|[[File:3x4.svg|border|108x108px]]
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Wojciech Ziembiński.jpg|bSize = 100|cWidth = 84|cHeight = 108|oTop = 5|oLeft = 7}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Roman Ciesielski (profesor).jpg|bSize = 100|cWidth = 84|cHeight = 108|oTop = 5|oLeft = 7}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Jan Parys.JPG|bSize = 155|cWidth = 84|cHeight = 108|oTop = 0|oLeft = 39}}
+|- style="text-align:center"
+| President of the [[National Bank of Poland]]<br />{{small|(1992-2001)}}
+| Member of the [[Sejm]]<br />{{small|(1993-1997)}}
+| [[Prime Minister of Poland]]<br />{{small|(1991-1992)}}
+| Chairman of the [[Supreme Court of Poland]]<br />{{small|(1990-1998)}}
+| [[Deputy Marshal of the Sejm]]<br />{{small|(1991-1993)}}
+| [[anti-communism|Anti-communist]] oppositionist
+| Member of the [[Polish Senate|Senat]]<br />{{small|(1989-1991)}}
+| [[Ministry of National Defence (Poland)|Minister of National Defence]]<br />{{small|(1991-1992)}}
+|}
+
+In November 1994, the Convent of St. Catherine was organised by {{ill|Józef Maj|pl|Józef Maj}}, coordinating several extraparliamentary center to right-wing parties, like the [[Labour Party (Poland)|Christian-Democratic Labour Party]] (ChDSP), [[Confederation of Independent Poland]], [[Party of Christian Democrats]] (PChD), [[Peasants' Agreement]], {{ill|Polish People's Party (Mikołaczykowskie faction)|pl|Polskie Stronnictwo Ludowe (Mikołajczykowskie)}}, [[Movement for the Republic]], [[Third Republic Movement]], [[Party of Polish Democracy]], {{ill|National-Democratic Party (Poland, 1991–2001)|pl|Stronnictwo Narodowo-Demokratyczne (III Rzeczpospolita)|lt=National-Democratic Party}}, [[Christian National Union]], [[Polish Union]] (ZP), [[Solidarity (Polish trade union)|Solidarity]] or [[Rural Solidarity]]. The Convent's purpose was to serve as a discussion forum for the marginal extraparliamentary parties trying to coalesce into a political force able to cross the 5% threshold and enter the Sejm after the last election's wipeout result for the fragmented parties.<ref name=PiK/> In the Summer of 1995, the Convent agreed to hold meetings to select a joint presidential candidate for that year's election. Out of the many candidates that expressed interest in becoming the candidate, the quickest to withdraw was [[Jan Parys]], soon after {{ill|Roman Ciesielski|pl|Roman Cieleski (profesor)}}, {{ill|Wojciech Ziembinski|pl|Wojciech Ziembiński}}, {{ill|Henryk Bąk (politician)|pl|Henryk Bąk (polityk)|lt=Henryk Bąk}} and [[Adam Strzembosz]] stopped being contenders. The remaining candidates, [[Hanna Gronkiewicz-Waltz]], [[Leszek Moczulski]] and [[Jan Olszewski]], ultimately entered a dispute over the results a ballot held to elect the Convent's candidate, as on the 19th of July, Gronkiewicz-Waltz's, followed by Olszewski's supporters both claimed victory for their candidates. Due to the inability of the Convent to decide on a candidate, it was ultimately disbanded and all three of the remaining candidates ran their own presidential campaigns, though Moczulski ultimately withdrew and endorsed Wałęsa.<ref name=PiK/><ref name=Dudek/> Gronkiewicz-Waltz later tried to court the endorsements of right-wing candidates like Olszewski and Lech Kaczyński.<ref name=ppm/> A group of ZChN activists, including {{ill|Jan Łopuszański (politician)|pl|Jan Łopuszański (poseł)|lt=Jan Łopuszański}} and {{ill|Henryk Goryszewski|pl|Henryk Goryszewski}}, titled "Inicjatywa 44", broke away from the Gronkiewicz-Waltz campaign to support Wałęsa instead, being accepted into his campaign staff on 18 September. On 29 October, the rest of ZChN, beyond the Inicjatywa 44 group, endorsed Lech Wałęsa without withdrawing their support for Gronkiewicz-Waltz.<ref name=bd/> Ultimately, she remained with only the concrete endorsements of the SLCh, ZP, [[Conservative Party (Poland)|PK]], [[Conservative Coalition (Poland)|KK]] and ChDSP.
+
+===Withdrawn candidates===
+
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| style="background:#f1f1f1;"|
+<big>'''[[Centre Agreement]]'''</big>
+| style="background:#f1f1f1;"|
+<big>'''[[:pl:Partia Republikanie|Republicans Party]]'''</big>
+| style="background:#f1f1f1;"|
+{{resize|90%|'''[[Confederation of Independent Poland]]'''}}
+| style="background:#f1f1f1;"|
+<big>'''[[Independent politician|Independent]]'''</big>
+|-
+! style="width:3em; font-size:135%; background:#DD1D1A ; width:200px;"| [[Lech Kaczyński|{{color|white|Lech Kaczyński}}]]
+! style="width:3em; font-size:135%; background:#504E6B ; width:200px;"| [[:pl:Marek Markiewicz|{{color|white|Marek Markiewicz}}]]
+! style="width:3em; font-size:135%; background:#333300 ; width:200px;"| [[Leszek Moczulski|{{color|white|Leszek Moczulski}}]]
+! style="width:3em; font-size:135%; background:DCDCDC ; width:200px;"| [[:pl:Bogdan Pawłowski (przedsiębiorca)|{{color|black|Bogdan Pawłowski}}]]
+|-
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Lech Kaczyński, 1991.png|bSize = 200|cWidth = 140|cHeight = 180|oTop = 35|oLeft = 27}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Marek Markiewicz.JPG|bSize = 330|cWidth = 140|cHeight = 180|oTop = 5|oLeft = 95}}
+|style="text-align:center"|{{CSS image crop|Location=center|Image = Leszek Moczulski 1978 1980 (cropped).jpg|bSize = 210|cWidth = 140|cHeight = 180|oTop = 0|oLeft = 13}}
+|style="text-align:center"|[[File:3x4.svg|border|180x180px]]
+|-
+| {{resize|95%|President of the [[Supreme Audit Office (Poland)|Supreme Audit Office]]}}<br />{{small|(1992-1995)}}
+| Chairman of [[National Broadcasting Council|KRRiT]]<br />{{small|(1993-1994)}}
+| Member of the [[Sejm]]<br />{{small|(1993-1997)}}
+| Entrepreneur
+|-
+| Endorsed [[Jan Olszewski]]
+| Endorsed [[Lech Wałęsa]]
+| Endorsed [[Lech Wałęsa]]
+| Endorsed [[Lech Wałęsa]]
+|}
+
+===Rejected candidates===
+The following candidates registered to run, but failed to cross the threshold of 100,000 signatures required to run in the election:
+* [[Bolesław Tejkowski]] (Chairman of the {{ill|Polish National Community|pl|Polska Wspólnota Narodowa}})
+
+==Campaign==
+The two favorites throughout the course of the campaign were the leader of the post-communist [[Democratic Left Alliance (Poland)|SLD]] [[Aleksander Kwaśniewski]] and incumbent president [[Lech Wałęsa]]. Kwaśniewski ran a campaign of change and blamed the economic problems in Poland on the post-Solidarity right. His campaign slogan was "Let's choose the future" (''Wybierzmy przyszłość''). Political opponents challenged his candidacy, and produced evidence to show that he had lied about his education in registration documents and public presentations. There was also some mystery over his graduation from university.  A law court confirmed that Kwaśniewski had lied about his record, but did not penalize him for it, judging the information irrelevant to the election result. Meanwhile, Wałęsa was a very unpopular president and some opinion polls even showed that he might not make it into the second round. He was challenged by other post-Solidarity politicians of all sides of the political spectrum ranging from liberal former Minister of Labour and Social Policy [[Jacek Kuroń]] to conservative former [[Prime Minister of Poland|Prime Minister]] [[Jan Olszewski]]. Rather than focusing on his presidency, he focused on his personal image as an everyday man turned international hero that was created for him while he was chairman of [[Solidarity (Polish trade union)|Solidarity.]] His campaign slogan was "There are many candidates but there is only one Lech Wałęsa" (''Kandydatów jest wielu – Lech Wałęsa tylko jeden'').<ref name=Dudek>{{cite book |last=Dudek |first=Antoni |date=2023 |title=Historia polityczna Polski 1989–2023 |trans-title=Polish political history 1989-2023 |url=https://scholar.com.pl/pl/glowna/8768-historia-polityczna-polski-19892023.html |location=Warsaw |language=Polish |publisher=Wydawnictwo Naukowe Scholar |isbn=978-83-67450-66-9}}</ref>
+
+==Opinion polls==
+===Graphical summary===
+[[File:Opinion polling for the 1995 Polish presidential election.svg|thumb|1000px|centre| Graphical summary of the first round opinion polls:{{columns-list|colwidth=10em|
+ {{Legend-line|{{party color|Social Democracy of the Republic of Poland}} solid 5px|[[Aleksander Kwaśniewski|A. Kwaśniewski]]}}
+ {{Legend-line|{{party color|Independent}} solid 5px|[[Lech Wałęsa]]}}
+ {{Legend-line|{{party color|Freedom Union (Poland)}} solid 5px|[[Jacek Kuroń]]}}
+ {{Legend-line|#D47034 solid 5px|[[Jan Olszewski]]}}
+ {{Legend-line|{{party color|Polish People's Party}} solid 5px|[[Waldemar Pawlak]]}}
+ {{Legend-line|{{party color|Labour Union (Poland)}} solid 5px|[[Tadeusz Zieliński (politician)|Tadeusz Zieliński]]}}
+ {{Legend-line|#295989 solid 5px|{{small|[[Hanna Gronkiewicz-Waltz|H. Gronkiewicz-Waltz]]}}}}
+ {{Legend-line|{{party color|Real Politics Union}} solid 5px|[[Janusz Korwin-Mikke|J. Korwin-Mikke]]}}
+ {{Legend-line|{{party color|Self-Defence of the Republic of Poland}} solid 5px|[[Andrzej Lepper]]}}
+ {{Legend-line|#C4C4C4 solid 5px|[[Jan Pietrzak]]}}
+ {{Legend-line|{{party color|Confederation of Independent Poland}} solid 5px|<s>[[Leszek Moczulski]]</s>}}
+ {{Legend-line|#76BBE2 solid 5px|<s>[[Andrzej Olechowski|A. Olechowski]]</s>}}
+ {{Legend-line|#FF8C8C solid 5px|<s>[[Adam Strzembosz]]</s>}}
+}}]]
+
+===First round===
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" |Polling firm/Link
+! rowspan="2" |Fieldwork<br />date
+! rowspan="2" |Sample<br />size
+! [[Aleksander Kwaśniewski|Kwaśniewski]]<br />{{small|[[Social Democracy of the Republic of Poland|SdRP]]}}
+! [[Lech Wałęsa|Wałęsa]]<br />{{small|[[Independent politician|IN]]}}
+! [[Jacek Kuroń|Kuroń]]<br />{{small|[[Freedom Union (Poland)|UW]]}}
+! [[Jan Olszewski|Olszewski]]<br />{{small|[[Movement for the Republic|RdR]]}}
+! [[Waldemar Pawlak|Pawlak]]<br />{{small|[[Polish People's Party|PSL]]}}
+! [[Tadeusz Zieliński (politician)|Zieliński]]<br />{{small|[[Labour Union (Poland)|UP]]}}
+! [[Hanna Gronkiewicz-Waltz|Gronkiewicz-Waltz]]<br />{{small|[[Independent politician|IN]]}}
+! [[Janusz Korwin-Mikke|Korwin-Mikke]]<br />{{small|[[Real Politics Union|UPR]]}}
+! [[Andrzej Lepper|Lepper]]<br />{{small|[[Self-Defence of the Republic of Poland|S]]}}
+! [[Jan Pietrzak|Pietrzak]]<br />{{small|[[Independent politician|IN]]}}
+! rowspan="2" |Others
+! rowspan="2" |Undecideds
+! rowspan="2" |Lead
+|-
+| style="background:#E2001A;" |
+| style="background:#A9A9A9;" |
+| style="background:#2666AE;" |
+| style="background:#D47034;" |
+| style="background:#1BB100;" |
+| style="background:#ED1C24;" |
+| style="background:#295989;" |
+| style="background:#151A3A;" |
+| style="background:#FFCD1A;" |
+| style="background:#A9A9A9;" |
+|- style="background:#EFEFEF; font-weight:bold;"
+| 1995 presidential election
+| Election results
+| 17,872,350
+| style="background:#FF324C; color:white;" | '''35.11'''
+| style="background:#DBDBDB; color:black;" | 33.11
+| 9.22
+| 6.86
+| 4.31
+| 3.53
+| 2.76
+| 2.4
+| 1.32
+| 1.12
+| 0.26
+|
+| style="background:#E2001A; color:white;" | 2.00
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1387 CBOS]
+| 26-29 Oct 1995
+| 1,281
+| style="background:#FF324C; color:white;" | '''32'''
+| style="background:#DBDBDB; color:black;" | 26
+| 8
+| 4
+| 3
+| 5
+| 3
+| 2
+| 3
+| 
+| 2{{efn|Moczulski – 1}}
+| 12
+| style="background:#E2001A; color:white;" | 6
+|-
+| [https://classic.wyborcza.pl/archiwumGW/198527/Sondaze-zgodne--II-tura-pewna- Demoskop]
+| 23-26 Oct 1995
+| 995
+| style="background:#FF324C; color:white;" | '''26'''
+| style="background:#DBDBDB; color:black;" | 24
+| 8
+| 4
+| 3
+| 6
+| 5
+| 
+| 2
+| 
+| 
+| 
+| style="background:#E2001A; color:white;" | '''2'''
+|-
+| Wprost<ref name=Pienkos>{{cite book |last=Pienkos |first=Donald |date=1997-11-04 |title=THE 1995 POLISH PRESIDENTIAL ELECTION: A STEP TOWARD NORMALCY |url=https://www.jstor.org/stable/25779020 |page=407 / 13}}</ref> 
+| 24 Oct 1995
+| 
+| style="background:#FF324C; color:white;" | '''34'''
+| style="background:#DBDBDB; color:black;" | 24
+| 11
+| 4
+| 6
+| 7
+| 7
+| 
+| 
+| 
+| 
+| 
+| style="background:#E2001A; color:white;" | '''10'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1384 CBOS]
+| 20-23 Oct 1995
+| 1,311
+| style="background:#FF324C; color:white;" | '''27'''
+| style="background:#DBDBDB; color:black;" | 23
+| 8
+| 5
+| 4
+| 5
+| 5
+| 2
+| 1
+| 3
+| 4{{efn|L. Kaczyński – 1, Markiewicz – 1, Moczulski – 1, Refuse to answer – 1}}
+| 12
+| style="background:#E2001A; color:white;" | '''4'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1381 CBOS]
+| 13-17 Oct 1995
+| 1,167
+| style="background:#FF324C; color:white;" | '''27'''
+| style="background:#DBDBDB; color:black;" | 22
+| 7
+| 3
+| 4
+| 6
+| 8
+| 2
+| 1
+| 3
+| 1{{efn|Moczulski – 1}}
+| 15
+| style="background:#E2001A; color:white;" | 5
+|-
+| style="background-color:#F2F2F2"|{{ill|Września Primary|pl|Prawybory we Wrześni}}<ref>{{cite web |last=Adamczyk |first=Anita |title=Instytucja prawyborów w Polsce. Prawybory prezydenckie (1995–2005) |url=https://pressto.amu.edu.pl/index.php/pp/article/view/14940 |access-date=2025-04-21}}</ref> 
+| 15 Oct 1995
+|
+| style="background:#FF324C; color:white;" | '''48.8'''
+| style="background:#DBDBDB; color:black;" | 12.7
+| 9.5
+| 3.9
+| 2.0
+| 6.7
+| 4.3
+| 3.6
+| 2.3
+| 2.3
+| 3.9{{efn|Pawłowski – 1.2, Moczulski – 0.7, Kaczyński – 0.4, Koźluk – 0.3, Bubel – 0.1, – 0.1}}
+|
+| style="background:#E2001A; color:white;" | '''36.1'''
+|-
+| [https://classic.wyborcza.pl/archiwumGW/194436/Walka-o-II-ture Demoskop]
+| 8-12 Oct 1995
+| 996
+| style="background:#FF324C; color:white;" | '''28'''
+| 15
+| 15
+| 
+| 
+| 
+| style="background:#5B8BBB; color:white;" | 17
+| 
+| 
+| 
+| 
+| 
+| style="background:#E2001A; color:white;" | '''11'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=4448 CBOS]
+| 6-9 Oct 1995
+| 1,126
+| style="background:#FF324C; color:white;" | '''27'''
+| style="background:#DBDBDB; color:black;" | 17
+| 6
+| 6
+| 5
+| 10
+| 12
+| 2
+| 0
+| 2
+| 2{{efn|Moczulski – 2}}
+| 10
+| style="background:#E2001A; color:white;" | '''10'''
+|-
+| [https://classic.wyborcza.pl/archiwumGW/194326/Sondaz-OBOP OBOP]
+| 18 Sep 1995
+| 
+| style="background:#FF324C; color:white;" | '''26'''
+| style="background:#DBDBDB; color:black;" | 12
+| 8
+| 3
+| 4
+| 11
+| style="background:#5B8BBB; color:white;" | 12
+| 
+| 
+| 
+| 4{{efn|Strzembosz – 2, Tymiński – 2}}
+| 
+| style="background:#E2001A; color:white;" | '''14'''
+|-
+| style="background-color:#F2F2F2"|"[[Trybuna Śląska]]" Primary<ref>{{cite news |title=Trybuna Śląska, 19 września 1995 |url=https://sbc.org.pl/Content/73513/PDF/73513.pdf |page=8 |access-date=2025-04-21}}</ref>
+| 14 Sep 1995
+| 7,144
+| style="background:#FF324C; color:white;" | '''35.4'''
+| style="background:#DBDBDB; color:black;" | 15.2
+| 6.8
+| 3.5
+| 0.7
+| 10.3
+| 14.6
+| 3
+|
+|
+| 10.5{{efn|Moczulski – 3.6, Tymiński – 2.3, Strzembosz – 1.1, "Others" – 2, Invalid – 1.97}}
+|
+| style="background:#E2001A; color:white;" | '''20.2'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=4447 CBOS]
+| 8-11 Sep 1995
+| 968
+| style="background:#FF324C; color:white;" | '''25'''
+| style="background:#DBDBDB; color:black;" | 16
+| 9
+| 3
+| 5
+| 8
+| style="background:#5B8BBB; color:white;" | 16
+| 1
+| 
+| 
+| 7{{efn|Strzembosz – 2, Tymiński – 2, L. Kaczyński – 1}}
+| 10
+| style="background:#E2001A; color:white;" | '''9'''
+|-
+| colspan="16" style="background-color:#E9E9E9"|Election called by [[Sejm]] [[Marshal of the Sejm|Marshal]] [[Józef Zych]] (9 September 1995)<ref>{{cite web |url=https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951030509 |title=Dz.U. 1995 nr 103 poz. 509}}</ref>
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1362 CBOS]
+| 1-4 Sep 1995
+| 1,150
+| style="background:#FF324C; color:white;" | '''21'''
+| 12
+| 8
+| 3
+| 5
+| 11
+| style="background:#5B8BBB; color:white;" | 15
+| 
+| 
+| 1
+| 13{{efn|Olechowski – 5, Moczulski – 2, Strzembosz – 2, Zych – 2}}
+| 12
+| style="background:#E2001A; color:white;" | '''6'''
+|-
+| [https://public.kantarpolska.com/archiwumraportow/1995/08/30/preferencje-wyborcze-polakow-w-koncu-sierpnia-1995-r/ OBOP]
+| 28-29 Aug 1995
+| 1,012
+| style="background:#FF324C; color:white;" | '''19'''
+| 7
+| 9
+| 3
+| 3
+| 7
+| style="background:#5B8BBB; color:white;" | 14
+| 
+| 
+| 
+| 10{{efn|Strzembosz – 2, Zych – 2}}
+| 28
+| style="background:#E2001A; color:white;" | '''5'''
+|-
+| Wprost<ref name=Pienkos/>
+| 27 Aug 1995
+| 
+| style="background:#FF324C; color:white;" | '''23'''
+| style="background:#DBDBDB; color:black;" | 14
+| 10
+| 2
+| 3
+| 11
+| 12
+| 
+| 
+| 
+| 
+| 
+| style="background:#E2001A; color:white;" | '''9'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1352 CBOS]
+| 3-8 Aug 1995
+| 1,081
+| style="background:#FF324C; color:white;" | '''24'''
+| style="background:#DBDBDB; color:black;" | 13
+| 9
+| 3
+| 3
+| 9
+| 12
+| 
+| 
+| 2
+| 15{{efn|Olechowski – 4, Zych – 4, Moczulski – 3, Strzembosz – 3}}
+| 10
+| style="background:#E2001A; color:white;" | '''11'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=4445 CBOS]
+| 7-12 Jul 1995
+| 1,115
+| style="background:#FF324C; color:white;" | '''23'''
+| style="background:#DBDBDB; color:black;" | 14
+| 10
+| 2
+| 3
+| 11
+| 12
+| 
+| 
+| 2
+| 15{{efn|Olechowski – 5, Zych – 4, Strzembosz – 3, Moczulski – 2}}
+| 7
+| style="background:#E2001A; color:white;" | '''9'''
+|-
+| [https://classic.wyborcza.pl/archiwumGW/189507/Prezydent-do-dziecka Demoskop]
+| 7-11 Jul 1995
+| 991
+| style="background:#FF324C; color:white;" | '''32'''
+| 16
+| style="background:#5898E0; color:white;" | 18
+| 
+| 
+| 11
+| 10
+| 
+| 
+| 
+| 
+| 
+| style="background:#E2001A; color:white;" | '''14'''
+|-
+| [https://public.kantarpolska.com/archiwumraportow/1995/07/11/opinia-publiczna-o-wyborach-prezydenckich-lipiec-1995-jakie-cechy-trzeba-miec-aby-byc-dobrym-prezydentem/ OBOP]
+| 8-11 Jul 1995
+| 980
+| style="background:#FF324C; color:white;" | '''23'''
+| 9
+| 10
+| 2
+| 4
+| 9
+| style="background:#5B8BBB; color:white;" | 12
+| 
+| 
+| 1.5
+| 14.5{{efn|Zych – 4, Strzembosz – 3, Religa – 2, Moczulski – 1.5, Tymiński – 1.5}}
+| 15
+| style="background:#E2001A; color:white;" | '''11'''
+|-
+| Wprost<ref name=Pienkos/>
+| 9 Jul 1995
+| 
+| style="background:#FF324C; color:white;" | '''26'''
+| 11
+| style="background:#5898E0; color:white;" | 12
+| <1
+| 4
+| 11
+| style="background:#5B8BBB; color:white;" | 12
+| 
+| 
+| 
+| 
+| 
+| style="background:#E2001A; color:white;" | '''14'''
+|-
+| [https://public.kantarpolska.com/archiwumraportow/1995/07/03/preferencje-wyborcze-polakow-na-przelomie-czerwca-i-lipca-1995/ OBOP]
+| 24 Jun-3 Jul 1995
+| 1,499
+| style="background:#FF324C; color:white;" | '''24'''
+| style="background:#DBDBDB; color:black;" | 11
+| 9
+| 2
+| 4
+| 9
+| 9
+| 
+| 
+| 
+| 21{{efn|Olechowski – 4, Zych – 4, Moczulski – 3, Religa – 3, Strzembosz – 3}}
+| 11
+| style="background:#E2001A; color:white;" | '''13'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1338 CBOS]
+| 23-27 Jun 1995
+| 1,173
+| style="background:#FF324C; color:white;" | '''24'''
+| style="background:#DBDBDB; color:black;" | 13
+| 11
+| 2
+| 4
+| 9
+| 12
+| 1
+| 
+| 
+| 15{{efn|Olechowski – 6, Strzembosz – 4, Zych – 3, Moczulski – 1}}
+| 9
+| style="background:#E2001A; color:white;" | '''11'''
+|-
+| [https://public.kantarpolska.com/archiwumraportow/1995/06/13/preferencje-polakow-pol-roku-przed-wyborami-prezydenckimi-czerwiec-1995/ OBOP]
+| 10-13 Jun 1995
+| 1,100
+| style="background:#FF324C; color:white;" | '''23'''
+| style="background:#DBDBDB; color:black;" | 11
+| style="background:#5898E0; color:white;" | 11
+| 2
+| 3
+| 9
+| 6
+| 2
+| 
+| 
+| 23{{efn|Olechowski – 6, Religa – 4, Strzembosz – 4, Moczulski – 3, Zych – 3}}
+| 10
+| style="background:#E2001A; color:white;" | '''12'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=4444 CBOS]
+| 8-12 Jun 1995
+| 1,172
+| style="background:#FF324C; color:white;" | '''25'''
+| style="background:#DBDBDB; color:black;" | 12
+| 10
+| 3
+| 3
+| 11
+| 11
+| 2
+| 
+| 
+| 17{{efn|Zych – 6, Strzembosz – 5, Religa – 3, Moczulski – 2}}
+| 6
+| style="background:#E2001A; color:white;" | '''13'''
+|-
+| Wprost<ref name=Pienkos/>
+| 11 Jun 1995
+| 
+| style="background:#FF324C; color:white;" | '''20'''
+| 8
+| style="background:#5898E0; color:white;" | 15
+| 3
+| 3
+| style="background:#FF4E56; color:white;" | 15
+| <1
+| 
+| 
+| 
+| 
+| 36
+| style="background:#E2001A; color:white;" | '''5'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1322 CBOS]
+| 26–29 May 1995
+| 1,198
+| style="background:#FF324C; color:white;" | '''26'''
+| style="background:#DBDBDB; color:black;" | 12
+| 11
+| 2
+| 4
+| style="background:#FF4E56; color:white;" | 12
+| 4
+| 1
+| 
+| 
+| 23{{efn|Strzembosz – 7, Zych – 5, Moczulski – 3, Religa – 3}}
+| 6
+| style="background:#E2001A; color:white;" | '''14'''
+|-
+| [https://public.kantarpolska.com/archiwumraportow/1995/06/13/preferencje-polakow-pol-roku-przed-wyborami-prezydenckimi-czerwiec-1995/ OBOP]
+| 13–16 May 1995
+| 1,029
+| style="background:#FF324C; color:white;" | '''24'''
+| 8
+| style="background:#5898E0; color:white;" | 12
+| 2
+| 3
+| 9
+| 
+| 2
+| 
+| 
+| 26{{efn|Strzembosz – 8, Olechowski – 6, Religa – 4, Moczulski – 3, Zych – 2}}
+| 14
+| style="background:#E2001A; color:white;" | '''12'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1309 CBOS]
+| 5–10 May 1995
+| 1,203
+| style="background:#FF324C; color:white;" | '''20'''
+| 8
+| style="background:#5898E0; color:white;" | 15
+| 2.5
+| 3
+| style="background:#FF4E56; color:white;" | 15
+| 
+| 1
+| 
+| 
+| 29.5{{efn|Olechowski – 8, Strzembosz – 8, Oleksy – 7, Krzaklewski – 2, Zych – 2, Gawronik – 0.5}}
+| 6
+| style="background:#E2001A; color:white;" | '''5'''
+|-
+| [https://public.kantarpolska.com/archiwumraportow/1995/06/13/preferencje-polakow-pol-roku-przed-wyborami-prezydenckimi-czerwiec-1995/ OBOP]
+| 22-23 Apr 1995
+| 1,069
+| style="background:#FF324C; color:white;" | '''18'''
+| 7
+| style="background:#5898E0; color:white;" | 14
+| 1
+| 4
+| 10
+| 
+| 2
+| 
+| 
+| 22{{efn|Olechowski – 7, Strzembosz – 7, Moczulski – 1, Zych – 2}}
+| 22
+| style="background:#E2001A; color:white;" | '''4'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1299 CBOS]
+| 7-11 Apr 1995
+| 1,177
+| style="background:#FF324C; color:white;" | '''24'''
+| 11
+| style="background:#5898E0; color:white;" | 15
+| 1
+| 5
+| 8
+| 
+| 1
+| 
+| 3
+| 24{{efn|Olechowski – 8, Strzembosz – 8, Oleksy – 6, Zych – 2}}
+| 8
+| style="background:#E2001A; color:white;" | '''9'''
+|-
+| [https://www.academia.edu/11997651/Wybrane_metody_badawcze_w_ocenie_pracy_szk%C3%B3%C5%82_Poradnik_wizytatora Pentor]
+| 8-11 Apr 1995
+| 1,004
+| style="background:#FF324C; color:white;" | 23
+| 7
+| style="background:#5898E0; color:white;" | '''25'''
+| 
+| 5
+| 9
+| 
+| 3
+| 
+| 
+| 20{{efn|Olechowski – 10, Strzembosz – 7, Krzaklewski – 3}}
+| 
+| style="background:#2666AE; color:white;" | '''2'''
+|-
+| [https://public.kantarpolska.com/archiwumraportow/1995/03/07/kto-wygra-wybory-prezydenckie-kwiecien-1995/ OBOP]
+| 1-4 Apr 1995
+| 1,123
+| style="background:#FF324C; color:white;" | '''16'''
+| 7
+| style="background:#5898E0; color:white;" | 14
+| 
+| 3
+| 6
+| 
+| 1
+| 
+| 
+| 35{{efn|Strzembosz – 8, Olechowski – 4, Oleksy – 4}}
+| 19
+| style="background:#E2001A; color:white;" | '''2'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1293 CBOS]
+| 30 Mar-3 Apr 1995
+| 1,145
+| style="background:#FF324C; color:white;" | '''18'''
+| 7
+| style="background:#5898E0; color:white;" | 14
+| 2
+| 3
+| 11
+| 
+| 2
+| 
+| 3
+| 31{{efn|Strzembosz – 11, Oleksy – 9, Olechowski – 6, Zych – 3, Grześkowiak – 2}}
+| 8
+| style="background:#E2001A; color:white;" | '''4'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1281 CBOS]
+| 4-6 Mar 1995
+| 1,208
+| style="background:#FF324C; color:white;" | '''19'''
+| 13
+| 10
+| 1
+| 3
+| style="background:#FF4E56; color:white;" | 16
+| 
+| 
+| 
+| 
+| 28{{efn|Olechowski – 8, Oleksy – 4, Strzembosz – 4, Suchocka – 4, Cimoszewicz – 3, Moczulski – 3, Onyszkiewicz – 1, Zych – 1}}
+| 9
+| style="background:#E2001A; color:white;" | '''3'''
+|-
+| rowspan="2" | [https://public.kantarpolska.com/archiwumraportow/1995/03/07/przed-wyborami-prezydenckimi-marzec-1995/ OBOP]
+| rowspan="2" | 3-7 Mar 1995
+| rowspan="2" | 1,086
+| style="background:#FF324C; color:white;" | '''16'''
+| 7
+| 9
+| 
+| 3
+| style="background:#FF4E56; color:white;" | 10
+| 
+| 
+| 
+| 
+| 36{{efn|Olechowski – 7, Oleksy – 4}}
+| 16
+| style="background:#E2001A; color:white;" | '''6'''
+|-
+| style="background:#FF324C; color:white;" | '''33'''
+| 15
+| style="background:#5898E0; color:white;" | 28
+| 
+| 9
+| 
+| 
+| 
+| 
+| 
+| 15{{efn|Strzembosz – 11, Tymiński – 4}}
+| 
+| style="background:#E2001A; color:white;" | '''5'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1266 CBOS]
+| 3-6 Feb 1995
+| 1,223
+| style="background:#FF324C; color:white;" | '''16'''
+| 8
+| style="background:#5898E0; color:white;" | 14
+| 2
+| 6
+| 13
+| 
+| 
+| 
+| 
+| 27{{efn|Olechowski – 8, Oleksy – 6, Cimoszewicz – 3, Moczulski – 3, Strzembosz – 3, Suchocka – 2, Onyszkiewicz – 1, Zych – 1}}
+| 14
+| style="background:#E2001A; color:white;" | '''2'''
+|-
+| [https://public.kantarpolska.com/archiwumraportow/1995/02/07/wybory-prezydenckie-1995-najlepsi-kandydaci-w-lutym-1995/ OBOP]
+| 3-6 Feb 1995
+| 1,123
+| style="background:#FF324C; color:white;" | '''20'''
+| 10
+| style="background:#5898E0; color:white;" | 16
+| 
+| 5
+| 13
+| 
+| 
+| 
+| 
+| 31{{efn|Olechowski – 9, Religa – 5, Oleksy – 4, Moczulski – 3, Strzembosz – 3, Suchocka – 3, Tymiński – 3, Zych – 1}}
+| 5
+| style="background:#E2001A; color:white;" | '''4'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1248 CBOS]
+| 6-9 Jan 1995
+| 1,230
+| style="background:#FF324C; color:white;" | '''14'''
+| style="background:#DBDBDB; color:black;" | 11
+| 10
+| 1
+| 6
+| 7
+| 
+| 
+| 
+| 
+| 26{{efn|Olechowski – 7, Oleksy – 5, Balcerowicz – 4, Strzembosz – 3, Suchocka – 3, Cimoszewicz – 2, Moczulski – 2}}
+| 21
+| style="background:#E2001A; color:white;" | '''3'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1234 CBOS]
+| 2-6 Dec 1994
+| 1,164
+| style="background:#FF324C; color:white;" | '''17'''
+| style="background:#DBDBDB; color:black;" | 13
+| 11
+| 1
+| 8
+| 9
+| 
+| 
+| 
+| 
+| 32{{efn|Olechowski – 9, Brzeziński – 5, Suchocka – 5, Balcerowicz – 4, Cimoszewicz – 3, Bugaj – 2, Moczulski – 2, Oleksy – 2}}
+| 
+| style="background:#E2001A; color:white;" | '''4'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1218 CBOS]
+| 3-7 Nov 1994
+| 1,237
+| style="background:#FF324C; color:white;" | '''17'''
+| 10
+| 6
+| 
+| 10
+| 10
+| 
+| 
+| 
+| 
+| 41{{efn|Olechowski – 11, Brzeziński – 6, Moczulski – 5, Oleksy – 4, Suchocka – 4, Balcerowicz – 3, Cimoszewicz – 3, Mazowiecki – 2, Strzembosz – 2, Grześkowiak – 1}}
+| 
+| style="background:#E2001A; color:white;" | '''6'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1203 CBOS]
+| 6-10 Oct 1994
+| 1,184
+| style="background:#FF324C; color:white;" | '''16'''
+| 10
+| 6
+| 
+| style="background:#B5E5AC; color:black;" | 11
+| 9
+| 
+| 
+| 
+| 
+| 42{{efn|Olechowski – 10, Religa – 7, Balcerowicz – 4, Moczulski – 4, Suchocka – 4, Cimoszewicz – 3, Mazowiecki – 3, Oleksy – 3, Strzembosz – 3, Romaszewski – 1}}
+| 
+| style="background:#E2001A; color:white;" | '''5'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1185 CBOS]
+| 2-5 Sep 1994
+| 1,219
+| style="background:#FF324C; color:white;" | '''19'''
+| 9
+| 3
+| 
+| style="background:#B5E5AC; color:black;" | 12
+| 7
+| 
+| 
+| 
+| 
+| 40{{efn|Olechowski – 9, Moczulski – 5, Religa – 5, Cimoszewicz – 4, Skubiszewski – 4, Balcerowicz – 3, Oleksy – 3, Suchocka – 3, Mazowiecki – 2, Strzembosz – 2}}
+| 
+| style="background:#E2001A; color:white;" | '''7'''
+|-
+| [https://public.kantarpolska.com/archiwumraportow/1994/07/01/na-kogo-glosowaliby-polacy-w-wyborach-prezydenckich-lipiec-1994/ OBOP]
+| 15-19 Jul 1994
+| 966
+| style="background:#FF324C; color:white;" | '''28'''
+| 8
+| 5
+| 2
+| style="background:#B5E5AC; color:black;" | 12
+| 7
+| 
+| 
+| 
+| 
+| 32{{efn|Religa – 12, Balcerowicz – 6, Mazowiecki – 5, Moczulski – 4, Krzaklewski – 3, Strzembosz – 2}}
+| 6
+| style="background:#E2001A; color:white;" | '''16'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1147 CBOS]
+| 17-20 Jun 1994
+| 1,197
+| style="background:#FF324C; color:white;" | '''19'''
+| 8
+| 4
+| 
+| style="background:#B5E5AC; color:black;" | 12
+| 6
+| 
+| 
+| 
+| 
+| 32{{efn|Religa – 6, Olechowski – 5, Balcerowicz – 4, Moczulski – 4, Skubiszewski – 4, Cimoszewicz – 3, Suchocka – 3, Strzembosz – 2, Oleksy – 1}}
+| 16
+| style="background:#E2001A; color:white;" | '''7'''
+|-
+| [https://public.kantarpolska.com/archiwumraportow/1994/06/19/preferencje-polityczne-polakow-bioracych-udzial-w-wyborach-samorzadowych-19-czerwca-1994/ OBOP exit poll]
+| 19 Jun 1994
+| 4,035
+| style="background:#FF324C; color:white;" | '''22'''
+| 11
+| 
+| 3
+| style="background:#B5E5AC; color:black;" | 13
+| 7
+| 
+| 
+| 
+| 
+| 29{{efn|Balcerowicz – 7, Religa – 7, Mazowiecki – 4, Moczulski – 4, Krzaklewski – 2, Strzembosz – 2}}
+| 15
+| style="background:#E2001A; color:white;" | '''9'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1129 CBOS]
+| 19–23 May 1994
+| 1,209
+| style="background:#FF324C; color:white;" | '''16'''
+| 6
+| 4
+| 
+| style="background:#B5E5AC; color:black;" | 9
+| 
+| 
+| 
+| 
+| 
+| 41{{efn|Olechowski – 7, Religa – 6, Skubiszewski – 6, Balcerowicz – 4, Strzembosz – 4, Cimoszewicz – 3, Moczulski – 3, Oleksy – 3, Bugaj – 2, Suchocka – 2, J. Kaczyński – 1}}
+| 25
+| style="background:#E2001A; color:white;" | '''7'''
+|-
+| rowspan="2" | [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1103 CBOS]
+| 25-28 Mar 1994
+| 1,230
+| style="background:#FF324C; color:white;" | '''17'''
+| 5
+| 2
+| 
+| style="background:#B5E5AC; color:black;" | 10
+| 
+| 
+| 
+| 
+| 
+| 58{{efn|Religa – 8, Brzeziński – 6, Olechowski – 6, Skubiszewski – 6, Balcerowicz – 5, Cimoszewicz – 5, Moczulski – 5, Suchocka – 5, Oleksy – 3, Bugaj – 2}}
+| 10
+| style="background:#E2001A; color:white;" | '''7'''
+|-
+| 27-31 Jan 1994
+| 1,172
+| style="background:#FF324C; color:white;" | '''17'''
+| 9
+| 3
+| 
+| style="background:#B5E5AC; color:black;" | 11
+| 
+| 
+| 
+| 
+| 
+| 44{{efn|Skubiszewski – 11, Olechowski – 7, Suchocka – 7, Religa – 6, Moczulski – 4, Cimoszewicz – 3, Oleksy – 3, Bugaj – 1, Chrzanowski – 1}}
+| 15
+| style="background:#E2001A; color:white;" | '''6'''
+|}
+
+===Second round===
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:14px;"
+|-
+! rowspan="2" style="width:200px;" | Polling firm/Link
+! rowspan="2" data-sort-type="date" | Fieldwork<br />date
+! rowspan="2" style="width:20px;" | Sample<br/>size
+! [[Aleksander Kwaśniewski|Kwaśniewski]]<br/>{{small|[[Social Democracy of the Republic of Poland|SdRP]]}}
+! [[Lech Wałęsa|Wałęsa]]<br/>{{small|[[Independent politician|IN]]}}
+! rowspan="2" | Don't know
+! rowspan="2" | Abstain
+! rowspan="2" | Lead
+|-
+| style="background:{{party color|Democratic Left Alliance (Poland)}};" |
+| style="background:{{party color|Independent}};" |
+|- style="background:#EFEFEF; font-weight:bold;"
+| 1995 presidential election
+| {{small|Election result}}
+| 18,762,615
+| style="background:#FF324C; color:white;" | 51.72
+| 48.28
+| 
+|
+| style="background:{{party color|Democratic Left Alliance (Poland)}}; color:white;" | 3.44
+|-
+| [https://classic.wyborcza.pl/archiwumGW/199739/Walesa-przed-Kwasniewskim Demoskop]
+| 9-12 Nov 1995
+| 999
+| 47
+| style="background:#E5E5E5; color:black;" | '''53'''
+| 
+| 
+| style="background:{{party color|Independent}}; color:black;" | '''6'''
+|-
+| [https://classic.wyborcza.pl/archiwumGW/198839/Walesa-gora- RUN]
+| 2 Nov 1995
+| 989
+| 44
+| style="background:#E5E5E5; color:black;" | '''51'''
+| 
+| 
+| style="background:{{party color|Independent}}; color:black;" | '''7'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1392 CBOS]
+| 9-12 Nov 1995
+| 1,253
+| 42
+| style="background:#E5E5E5; color:black;" | '''46'''
+| 10
+| 1
+| style="background:{{party color|Independent}}; color:black;" | '''4'''
+|-
+| [https://classic.wyborcza.pl/archiwumGW/198839/Walesa-gora- CBOS]
+| 29 Oct 1995
+| 1,281
+| 46
+| style="background:#E5E5E5; color:black;" | '''48'''
+| 
+| 
+| style="background:{{party color|Independent}}; color:black;" | '''2'''
+|-
+| [https://classic.wyborcza.pl/archiwumGW/198839/Walesa-gora- OBOP]
+| 24 Oct 1995
+| 1,145
+| style="background:#FF324C; color:white;" | '''46'''
+| 44
+| 
+| 
+| style="background:{{party color|Democratic Left Alliance (Poland)}}; color:white;" | '''2'''
+|-
+| [https://www.cbos.pl/PL/publikacje/raporty_tekst.php?id=1185 CBOS]
+| 2-5 Sep 1994
+| 1,219
+| style="background:#FF324C; color:white;" | '''42'''
+| 20
+| 
+|
+| style="background:{{party color|Democratic Left Alliance (Poland)}}; color:white;" | '''22'''
+|}
+
+==Results==
+[[File:Wybory prezydenckie w Polsce w 1995 w powiatach.png|thumb|300px|Winners of the second round by powiats (1999 borders)]]
+
+Kwaśniewski won with 52% of the vote in the [[Two-round system|run-off]]. 65% of voters voted in the first round and 68% in the second round.
+
+{{Election results
+|cand1=[[Aleksander Kwaśniewski]]|party1=[[Democratic Left Alliance (Poland)|Democratic Left Alliance]] ([[Social Democracy of the Republic of Poland|SdRP]])|votes1=6275670|votes1_2=9704439
+|cand2=[[Lech Wałęsa]]|party2=Independent|votes2=5917328|votes2_2=9058176
+|cand3=[[Jacek Kuroń]]|party3=[[Freedom Union (Poland)|Freedom Union]]|votes3=1646946
+|cand4=[[Jan Olszewski]]|party4=[[Movement for the Republic]]|votes4=1225453|color4=#D47034
+|cand5=[[Waldemar Pawlak]]|party5=[[Polish People's Party]]|votes5=770419
+|cand6=[[Tadeusz Zieliński (politician)|Tadeusz Zieliński]]|party6=[[Labour Union (Poland)|Labor Union]]|votes6=631432
+|cand7=[[Hanna Gronkiewicz-Waltz]]|party7=Independent|votes7=492628
+|cand8=[[Janusz Korwin-Mikke]]|party8=[[Real Politics Union]]|votes8=428969
+|cand9=[[Andrzej Lepper]]|party9=[[Self-Defence of the Republic of Poland]]|votes9=235797
+|cand10=[[Jan Pietrzak]]|party10=Independent|votes10=201033
+|cand11=[[Tadeusz Koźluk]]|party11=Independent|votes11=27259
+|cand12={{ill|Kazimierz Piotrowicz|pl}}|party12=Independent|votes12=12591
+|cand13={{ill|Leszek Bubel|pl}}|party13=Independent|votes13=6825
+|invalid=330868|invalid2=383881
+|electorate=28136332|electorate2=28062409
+|source=Nohlen & Stöver
+}}
+{{bar box|title=Vote share|titlebar=#ddd|width=600px|barwidth=500px|bars=
+{{Bar gap|{{center|Second round}}}}
+{{bar percent|'''Kwaśniewski''' |{{party color|Social Democracy of the Republic of Poland}}|51.72}}
+{{bar percent|Wałęsa|{{party color|Nonpartisan Bloc for Support of Reforms}}|48.28}}
+{{bar gap|{{center|First round}}}}
+{{bar percent|{{underline|Kwaśniewski}}|{{party color|Social Democracy of the Republic of Poland}}|35.11}}
+{{bar percent|{{underline|Wałęsa}}|{{party color|Nonpartisan Bloc for Support of Reforms}}|33.11}}
+{{bar percent|Kuroń|{{party color|Freedom Union (Poland)}}|9.22}}
+{{bar percent|Olszewski|{{party color|Movement for the Republic}}|6.86}}
+{{bar percent|Pawlak|{{party color|Polish People's Party}}|4.31}}
+{{bar percent|Zieliński|{{party color|Labour Union (Poland)}}|3.53}}
+{{bar percent|{{nowr|Gronkiewicz-Waltz}}|{{party color|Independent (politician)|Ind.}}|2.76}}
+{{bar percent|Korwin-Mikke|{{party color|Real Politics Union}}|2.40}}
+{{bar percent|Lepper|{{party color|Self-Defence of the Republic of Poland}}|1.32}}
+{{bar percent|Pietrzak|{{party color|Independent (politician)|Ind.}}|1.12}}
+{{bar percent|Others|#777777|0.26}}
+}}
+=== Electorate demographics ===
+<div class="overflowbugx" style="overflow-x:auto;">
+{| class="wikitable" style="text-align:center; font-size:95%"
+|+OBOP exit polls for the first<ref>{{Cite web |title=Raport z badania exit poll przeprowadzonego w dniu I tury wyborów prezydenckich 1995. Cz.1-2. |url=https://public.kantarpolska.com/archiwumraportow/1995/11/12/raport-z-badania-exit-poll-przeprowadzonego-w-dniu-i-tury-wyborow-prezydenckich-1995-cz-1-2 |date={{date|1995-11-12|DMY}} |language=pl}}</ref> and second<ref>{{Cite web |title=Raport z badania exit poll przeprowadzonego w dniu II tury wyborów prezydenckich 1995 |url=https://public.kantarpolska.com/archiwumraportow/1995/11/19/raport-z-badania-exit-poll-przeprowadzonego-w-dniu-ii-tury-wyborow-prezydenckich-1995 |date={{date|1995-11-19|DMY}} |language=pl}}</ref> rounds
+! rowspan="3" | Demographic
+! colspan="2" | Second round
+! rowspan="5" |
+! colspan="13" | First round
+|-
+! style="width:60px;" | [[Aleksander Kwaśniewski|Kwaśniewski]]<br>{{small|[[Social Democracy of the Republic of Poland|SdRP]]}}
+! style="width:60px;" | [[Lech Wałęsa|Wałęsa]]<br>{{small|[[Independent politician|Ind.]]}}
+! style="width:60px;" | [[Aleksander Kwaśniewski|Kwaśniewski]]<br>{{small|[[Social Democracy of the Republic of Poland|SdRP]]}}
+! style="width:60px;" | [[Lech Wałęsa|Wałesa]]<br>{{small|[[Independent politician|Ind.]]}}
+! style="width:60px;" | [[Jacek Kuroń|Kuroń]]<br>{{small|[[Freedom Union (Poland)|UW]]}}
+! style="width:60px;" | [[Jan Olszewski|Olszewski]]<br>{{small|[[Movement for the Republic|RdR]]}}
+! style="width:60px;" | [[Waldemar Pawlak|Pawlak]]<br>{{small|[[Polish People's Party|PSL]]}}
+! style="width:60px;" | [[Tadeusz Zieliński (politician)|Zieliński]]<br>{{small|[[Labour Union (Poland)|UP]]}}
+! style="width:60px;" | [[Hanna Gronkiewicz-Waltz|Gronkiewicz-Waltz]]<br>{{small|[[Independent politician|Ind.]]}}
+! style="width:60px;" | [[Janusz Korwin-Mikke|Korwin-Mikke]]<br>{{small|[[Real Politics Union|UPR]]}}
+! style="width:60px;" | [[Andrzej Lepper|Lepper]]<br>{{small|[[Self-Defence of the Republic of Poland|SRP]]}}
+! style="width:60px;" | [[Jan Pietrzak|Pietrzak]]<br>{{small|[[Independent politician|Ind.]]}}
+! style="width:60px;" | [[Tadeusz Koźluk|Koźluk]]<br>{{small|[[Independent politician|Ind.]]}}
+! style="width:60px;" | [[Kazimierz Piotrowicz|Piotrowicz]]<br>{{small|[[Independent politician|Ind.]]}}
+! style="width:60px;" | [[Leszek Bubel|Bubel]]<br>{{small|[[Independent politician|Ind.]]}}
+|-
+! style="background:{{party color|Social Democracy of the Republic of Poland}}" |
+! style="background:{{party color|Independent}}" |
+! style="background:{{party color|Social Democracy of the Republic of Poland}}" |
+! style="background:{{party color|Independent}}" |
+! style="background:{{party color|Freedom Union (Poland)}}" |
+! style="background:{{party color|Movement for the Republic}}" |
+! style="background:{{party color|Polish People's Party}}" |
+! style="background:{{party color|Labour Union (Poland)}}" |
+! style="background:{{party color|Independent}}" |
+! style="background:{{party color|Real Politics Union}}" |
+! style="background:{{party color|Self-Defence of the Republic of Poland}}" |
+! style="background:{{party color|Independent}}" |
+! style="background:{{party color|Independent}}" |
+! style="background:{{party color|Independent}}" |
+! style="background:{{party color|Independent}}" |
+|-
+! Total vote
+| {{party shading/Democratic Left Alliance (Poland)}} | 51.72
+| 48.28 
+| {{party shading/Democratic Left Alliance (Poland)}} | '''35.11'''
+| {{party shading/Independent}} | 33.11
+| 9.22
+| 6.82
+| 4.31
+| 3.53
+| 2.76
+| 2.40
+| 1.32
+| 1.12
+| 0.15
+| 0.07
+| 0.04
+|-
+! Exit poll results
+| {{party shading/Democratic Left Alliance (Poland)}} | 51.3
+| 48.7
+| {{party shading/Democratic Left Alliance (Poland)}} | '''33.7'''
+| {{party shading/Independent}} | 33.1
+| 10.0
+| 7.0
+| 3.7
+| 3.7
+| 3.0
+| 2.8
+| 1.0
+| 1.0
+| 0.1
+| 0.1
+| 0.1
+|-
+! colspan="18" data-sort-value="101" | Sex
+|-
+! align="left" | Men
+| {{party shading/Democratic Left Alliance (Poland)}} | 51.9
+| 48.1
+! rowspan="2" |
+| {{party shading/Democratic Left Alliance (Poland)}} | '''34.2'''
+| {{party shading/Independent}} | 32.0
+| 9.6
+| 7.7
+| 4.2
+| 3.3
+| 2.2
+| 3.5
+| 1.1
+| 1.1
+| 0.1
+| 0.1
+| 0.1
+|-
+! align="left" | Women
+| {{party shading/Democratic Left Alliance (Poland)}} | 50.6
+| 49.4
+| {{party shading/Democratic Left Alliance (Poland)}} | 33.2
+| {{party shading/Independent}} | '''34.3'''
+| 10.4
+| 6.3
+| 3.3
+| 4.1
+| 3.9
+| 2.0
+| 0.9
+| 0.9
+| 0.1
+| 0.1
+| 0.1
+|-
+! colspan="18" data-sort-value="102" | Age
+|-
+! align="left" | 18–29 years
+| {{party shading/Democratic Left Alliance (Poland)}} | 54.0
+| 46.0
+! rowspan="5" |
+| {{party shading/Democratic Left Alliance (Poland)}} | '''32.6'''
+| {{party shading/Independent}} | 28.9
+| 12.7
+| 6.0
+| 3.2
+| 3.3
+| 4.6
+| 5.6
+| 1.1
+| 1.2
+| 0.1
+| 0.1
+| 0.1
+|-
+! align="left" | 30–39 years
+| {{party shading/Democratic Left Alliance (Poland)}} | 51.0
+| 49.0
+| {{party shading/Democratic Left Alliance (Poland)}} | '''32.8'''
+| {{party shading/Independent}} | 31.6
+| 10.6
+| 7.5
+| 4.0
+| 3.6
+| 3.1
+| 3.3
+| 1.2
+| 1.5
+| 0.1
+| 0.0
+| 0.0
+|-
+! align="left" | 40–49 years
+| {{party shading/Democratic Left Alliance (Poland)}} | 54.2
+| 45.8
+| {{party shading/Democratic Left Alliance (Poland)}} | '''37.5'''
+| {{party shading/Independent}} | 30.5
+| 9.7
+| 7.6
+| 3.5
+| 3.9
+| 2.4
+| 2.1
+| 1.0
+| 1.2
+| 0.1
+| 0.0
+| 0.0
+|-
+! align="left" | 50–59 years
+| 49.2
+| {{party shading/Independent}} | 50.8
+| {{party shading/Democratic Left Alliance (Poland)}} | 34.2
+| {{party shading/Independent}} | '''37.2'''
+| 8.2
+| 7.4
+| 3.3
+| 4.0
+| 2.2
+| 0.8
+| 1.0
+| 0.5
+| 0.2
+| 0.1
+| 0.1
+|-
+! align="left" | 60+ years
+| 42.5
+| {{party shading/Independent}} | 57.5
+| {{party shading/Democratic Left Alliance (Poland)}} | 30.5
+| {{party shading/Independent}} | '''42.3'''
+| 7.1
+| 6.7
+| 4.9
+| 3.6
+| 1.9
+| 0.3
+| 0.8
+| 0.3
+| 0.1
+| 0.1
+| 0.1
+|-
+! colspan="18" data-sort-value="103" | Education
+|-
+! align="left" | [[Primary education|Elementary]]
+| 48.3
+| {{party shading/Independent}} | 51.7
+! rowspan="4" |
+| {{party shading/Democratic Left Alliance (Poland)}} | 30.9
+| {{party shading/Independent}} | '''39.8'''
+| 6.8
+| 5.8
+| 8.5
+| 2.3
+| 1.8
+| 0.9
+| 1.9
+| 0.6
+| 0.1
+| 0.1
+| 0.1
+|-
+! [[Vocational education|Vocational]]
+| {{party shading/Democratic Left Alliance (Poland)}} | 52.9
+| 47.1
+| {{party shading/Democratic Left Alliance (Poland)}} | 34.9
+| {{party shading/Independent}} | '''36.4'''
+| 7.0
+| 7.1
+| 4.4
+| 2.3
+| 2.4
+| 2.0
+| 1.6
+| 1.4
+| 0.1
+| 0.1
+| 0.1
+|-
+! [[Secondary education|Secondary]]
+| {{party shading/Democratic Left Alliance (Poland)}} | 52.3
+| 47.7
+| {{party shading/Democratic Left Alliance (Poland)}} | '''35.9'''
+| {{party shading/Independent}} | 31.3
+| 9.6
+| 7.5
+| 2.7
+| 4.2
+| 3.4
+| 3.1
+| 0.7
+| 1.2
+| 0.2
+| 0.1
+| 0.0
+|-
+! [[Bachelor's degree|Higher]]
+| 48.6
+| {{party shading/Independent}} | 51.4
+| {{party shading/Democratic Left Alliance (Poland)}} | '''30.2'''
+| {{party shading/Independent}} | 24.9
+| 18.9
+| 7.2
+| 1.3
+| 5.9
+| 4.7
+| 5.7
+| 0.2
+| 0.7
+| 0.1
+| 0.0
+| 0.0
+|-
+! colspan="18" data-sort-value="104" | Agglomeration
+|-
+! align="left" | [[Rural area|Rural]]
+| {{party shading/Democratic Left Alliance (Poland)}} | 52.3
+| 47.7
+! rowspan="3" |
+| {{party shading/Democratic Left Alliance (Poland)}} | '''33.4'''
+| {{party shading/Independent}} | '''33.4'''
+| 6.3
+| 7.2
+| 9.6
+| 2.4
+| 2.6
+| 1.4
+| 2.1
+| 0.9
+| 0.1
+| 0.1
+| 0.1
+|-
+! align="left" | 10,000 – 100,000 pop. 
+| {{party shading/Democratic Left Alliance (Poland)}} | 53.9
+| 46.1
+| {{party shading/Democratic Left Alliance (Poland)}} | '''36.7'''
+| {{party shading/Independent}} | 31.8
+| 10.9
+| 7.0
+| 1.2
+| 4.1
+| 3.1
+| 3.0
+| 0.7
+| 1.1
+| 0.1
+| 0.1
+| 0.1
+|-
+! align="left" | >100,000 pop.
+| 47.8
+| {{party shading/Independent}} | 52.2
+| {{party shading/Democratic Left Alliance (Poland)}} | 31.4
+| {{party shading/Independent}} | '''33.4'''
+| 13.3
+| 7.0
+| 0.5
+| 4.6
+| 3.4
+| 4.4
+| 0.4
+| 1.2
+| 0.2
+| 0.1
+| 0.0
+|-
+! colspan="18" data-sort-value="105" | Occupation
+|-
+! align="left" | Entrepreneur
+| 42.3
+| {{party shading/Independent}} | 57.7
+! rowspan="11" |
+| {{party shading/Democratic Left Alliance (Poland)}} | 27.9
+| {{party shading/Independent}} | '''38.8'''
+| 9.5
+| 7.0
+| 1.5
+| 3.2
+| 2.9
+| 6.5
+| 0.6
+| 1.6
+| 0.2
+| 0.1
+| 0.1
+|-
+! align="left" | Manager
+| {{party shading/Democratic Left Alliance (Poland)}} | 55.9
+| 44.1
+| {{party shading/Democratic Left Alliance (Poland)}} | '''38.7'''
+| {{party shading/Independent}} | 26.6
+| 12.3
+| 7.2
+| 1.9
+| 5.4
+| 3.3
+| 3.1
+| 0.3
+| 0.8
+| 0.0
+| 0.1
+| 0.1
+|-
+! align="left" | Specialist/Freelancer
+| 44.2
+| {{party shading/Independent}} | 55.8
+| {{party shading/Democratic Left Alliance (Poland)}} | 27.3
+| {{party shading/Independent}} | '''28.2'''
+| 19.6
+| 7.6
+| 1.2
+| 5.3
+| 4.5
+| 4.8
+| 0.3
+| 0.9
+| 0.1
+| 0.0
+| 0.0
+|-
+! align="left" | Office employees
+| {{party shading/Democratic Left Alliance (Poland)}} | 55.1
+| 44.9
+| {{party shading/Democratic Left Alliance (Poland)}} | '''37.4'''
+| {{party shading/Independent}} | 28.7
+| 10.9
+| 8.0
+| 1.8
+| 5.2
+| 3.6
+| 2.3
+| 0.5
+| 1.3
+| 0.1
+| 0.0
+| 0.0
+|-
+! align="left" | Service employees
+| {{party shading/Democratic Left Alliance (Poland)}} | 51.1
+| 48.9
+| {{party shading/Democratic Left Alliance (Poland)}} | '''35.2'''
+| {{party shading/Independent}} | 34.9
+| 9.8
+| 5.8
+| 1.7
+| 3.3
+| 3.0
+| 3.3
+| 1.1
+| 1.6
+| 0.1
+| 0.0
+| 0.0
+|-
+! align="left" | Housewife
+| 46.0
+| {{party shading/Independent}} | 54.0
+| {{party shading/Democratic Left Alliance (Poland)}} | 32.4
+| {{party shading/Independent}} | '''38.0'''
+| 7.4
+| 5.4
+| 5.7
+| 2.0
+| 3.7
+| 2.1
+| 1.6
+| 1.0
+| 0.2
+| 0.0
+| 0.3
+|-
+! align="left" | Farmer
+| {{party shading/Democratic Left Alliance (Poland)}} | 55.7
+| 44.3
+| {{party shading/Democratic Left Alliance (Poland)}} | 30.0
+| {{party shading/Independent}} | '''31.0'''
+| 3.0
+| 6.8
+| 21.3
+| 1.0
+| 1.5
+| 0.5
+| 3.8
+| 0.7
+| 0.0
+| 0.0
+| 0.1
+|-
+! align="left" | Workers
+| {{party shading/Democratic Left Alliance (Poland)}} | 53.5
+| 46.5
+| {{party shading/Democratic Left Alliance (Poland)}} | '''35.5'''
+| {{party shading/Independent}} | 35.3
+| 7.1
+| 8.5
+| 2.9
+| 2.8
+| 2.4
+| 2.0
+| 1.4
+| 1.4
+| 0.1
+| 0.1
+| 0.1
+|-
+! align="left" | Student
+| {{party shading/Democratic Left Alliance (Poland)}} | 50.2
+| 49.8
+| {{party shading/Democratic Left Alliance (Poland)}} | '''29.2'''
+| {{party shading/Independent}} | 26.0
+| 17.5
+| 6.0
+| 1.5
+| 4.6
+| 5.5
+| 7.9
+| 0.6
+| 0.7
+| 0.2
+| 0.1
+| 0.0
+|-
+! align="left" | Unemployed
+| {{party shading/Democratic Left Alliance (Poland)}} | 60.2
+| 39.8
+| {{party shading/Democratic Left Alliance (Poland)}} | '''38.1'''
+| {{party shading/Independent}} | 27.8
+| 10.7
+| 6.4
+| 4.3
+| 2.6
+| 3.8
+| 2.4
+| 1.6
+| 1.7
+| 0.0
+| 0.2
+| 0.1
+|-
+! align="left" | Retired
+| 47.0
+| {{party shading/Independent}} | 53.0
+| {{party shading/Democratic Left Alliance (Poland)}} | 33.7
+| {{party shading/Independent}} | '''39.7'''
+| 7.5
+| 6.4
+| 4.0
+| 4.0
+| 2.2
+| 0.6
+| 1.0
+| 0.6
+| 0.2
+| 0.1
+| 0.1
+|-
+! colspan="18" data-sort-value="104" | Region
+|-
+! align="left" | North-eastern{{efn|[[Suwałki Voivodeship|Suwałki]], [[Olsztyn Voivodeship|Olsztyn]] and [[Elbląg Voivodeship|Elbląg]] Voivodeships}}
+| {{party shading/Democratic Left Alliance (Poland)}} | 64.7
+| 35.3
+! rowspan="10" |
+| {{party shading/Democratic Left Alliance (Poland)}} | '''42.3'''
+| {{party shading/Independent}} | 23.8
+| 12.0
+| 4.7
+| 2.8
+| 4.1
+| 2.7
+| 3.6
+| 1.6
+| 1.2
+| 0.3
+| 0.1
+| 0.1
+|-
+! align="left" | Pomeranian{{efn|[[Gdańsk Voivodeship (1975–1998)|Gdańsk]], [[Bydgoszcz Voivodeship|Bydgoszcz]] and [[Toruń Voivodeship|Toruń]] Voivodeships}}
+| 49.1
+| {{party shading/Independent}} | 50.9
+| {{party shading/Democratic Left Alliance (Poland)}} | 33.4
+| {{party shading/Independent}} | '''36.0'''
+| 9.0
+| 6.0
+| 1.9
+| 3.6
+| 3.9
+| 3.6
+| 0.8
+| 0.9
+| 0.1
+| 0.1
+| 0.1
+|-
+! align="left" | North-western{{efn|[[Słupsk Voivodeship|Słupsk]], [[Koszalin Voivodeship (1975–1998)|Koszalin]], [[Szczecin Voivodeship (1975–1998)|Szczecin]] and [[Gorzów Voivodeship|Gorzów]] Voivodeships}}
+| {{party shading/Democratic Left Alliance (Poland)}} | 65.7
+| 34.3
+| {{party shading/Democratic Left Alliance (Poland)}} | '''47.2'''
+| {{party shading/Independent}} | 21.8
+| 11.2
+| 4.9
+| 1.3
+| 4.5
+| 2.8
+| 3.1
+| 1.4
+| 0.9
+| 0.1
+| 0.0
+| 0.1
+|-
+! align="left" | Lesser Silesian{{efn|[[Zielona Góra Voivodeship (1975–1998)|Zielona Góra]], [[Legnica Voivodeship|Legnica]], [[Jelenia Góra Voivodeship|Jelenia Góra]], [[Wałbrzych Voivodeship|Wałbrzych]] and [[Wrocław Voivodeship (1975–1998)|Wrocław]] Voivodeships}}
+| {{party shading/Democratic Left Alliance (Poland)}} | 60.3
+| 39.7
+| {{party shading/Democratic Left Alliance (Poland)}} | '''41.8'''
+| {{party shading/Independent}} | 27.7
+| 12.1
+| 4.2
+| 1.6
+| 4.8
+| 2.5
+| 2.3
+| 1.0
+| 1.0
+| 0.2
+| 0.1
+| 0.0
+|-
+! align="left" | Greater Polish{{efn|[[Piła Voivodeship|Piła]], [[Poznań Voivodeship#1975 to 1998|Poznań]], [[Leszno Voivodeship|Leszno]] and [[Kalisz Voivodeship (1975–1998)|Kalisz]]  Voivodeships}}
+| {{party shading/Democratic Left Alliance (Poland)}} | 58.1
+| 41.9
+| {{party shading/Democratic Left Alliance (Poland)}} | '''37.8'''
+| {{party shading/Independent}} | 29.9
+| 12.7
+| 3.6
+| 3.7
+| 3.5
+| 2.8
+| 2.8
+| 1.5
+| 0.8
+| 0.2
+| 0.0
+| 0.1
+|-
+! align="left" | Silesian{{efn|[[Katowice Voivodeship|Katowice]] and [[Opole Voivodeship#Opole Voivodeship (1975–1999)|Opole]] Voivodeships}}
+| 46.7
+| {{party shading/Independent}} | 53.3
+| {{party shading/Democratic Left Alliance (Poland)}} | 31.2
+| {{party shading/Independent}} | '''38.5'''
+| 10.3
+| 5.6
+| 1.0
+| 4.1
+| 4.2
+| 2.1
+| 0.6
+| 1.4
+| 0.1
+| 0.0
+| 0.0
+|-
+! align="left" | Lesser Polish{{efn|[[Bielsko Voivodeship|Bielsko]], [[Kraków Voivodeship (1975–1998)|Kraków]], [[Nowy Sącz Voivodeship|Nowy Sącz]], [[Tarnów Voivodeship|Tarnów]], [[Rzeszów Voivodeship|Rzeszów]], [[Przemyśl Voivodeship|Przemyśl]] and [[Krosno Voivodeship|Krosno]] Voivodeships}}
+| 32.7
+| {{party shading/Independent}} | 67.3
+| {{party shading/Democratic Left Alliance (Poland)}} | 20.8
+| {{party shading/Independent}} | '''46.5'''
+| 8.0
+| 9.3
+| 3.8
+| 3.3
+| 3.6
+| 2.4
+| 0.8
+| 0.7
+| 0.0
+| 0.0
+| 0.1
+|-
+! align="left" | Eastern{{efn|[[Łomża Voivodeship|Łomża]], [[Białystok Voivodeship (1975–1998)|Białystok]], [[Siedlce Voivodeship|Siedlce]], [[Biała Podlaska Voivodeship|Biała Podlaska]], [[Lublin Voivodeship#Lublin Voivodeship 1975–1998|Lublin]], [[Chełm Voivodeship|Chełm]], [[Tarnobrzeg Voivodeship|Tarnobrzeg]] and [[Zamość Voivodeship|Zamość]] Voivodeships}}
+| {{party shading/Democratic Left Alliance (Poland)}} | 50.8
+| 49.2
+| {{party shading/Democratic Left Alliance (Poland)}} | 29.8
+| {{party shading/Independent}} | '''33.5'''
+| 5.9
+| 10.5
+| 9.9
+| 2.2
+| 2.4
+| 1.9
+| 1.6
+| 1.3
+| 0.1
+| 0.0
+| 0.1
+|-
+! align="left" | Mazovian-Kujavian{{efn|[[Ostrołęka Voivodeship|Ostrołęka]], [[Ciechanów Voivodeship|Ciechanów]], [[Płock Voivodeship (1975–1998)|Płock]], [[Włocławek Voivodeship|Włocławek]], [[Konin Voivodeship|Konin]], [[Skierniewice Voivodeship|Skierniewice]] and [[Warsaw Voivodeship (1975–1998)|Warsaw]] Voivodeships}}
+| 48.3
+| {{party shading/Independent}} | 51.7
+| {{party shading/Democratic Left Alliance (Poland)}} | '''31.5'''
+| {{party shading/Independent}} | 31.2
+| 11.6
+| 9.0
+| 3.8
+| 3.6
+| 3.0
+| 3.6
+| 0.8
+| 0.9
+| 0.1
+| 0.1
+| 0.0
+|-
+! align="left" | Central{{efn|[[Łódź Voivodeship (1975–1998)|Łódź]], [[Sieradz Voivodeship|Sieradz]], [[Piotrków Voivodeship|Piotrków]], [[Radom Voivodeship|Radom]], [[Kielce Voivodeship#1975-1998|Kielce]] and [[Częstochowa Voivodeship|Częstochowa]] Voivodeships}}
+| {{party shading/Democratic Left Alliance (Poland)}} | 57.9
+| 42.1
+| {{party shading/Democratic Left Alliance (Poland)}} | '''37.5'''
+| {{party shading/Independent}} | 28.7
+| 9.9
+| 7.3
+| 5.0
+| 3.7
+| 2.1
+| 3.0
+| 0.8
+| 1.2
+| 0.1
+| 0.1
+| 0.0
+|-
+! colspan="18" data-sort-value="106" | First round presidential vote in 1990
+|-
+! align="left" | [[Roman Bartoszcze|Bartoszcze]]
+| {{party shading/Democratic Left Alliance (Poland)}} | 77.8
+| 22.2
+! rowspan="7" |
+| {{party shading/Democratic Left Alliance (Poland)}} | 30.1
+| 11.0
+| 3.4
+| 6.9
+| style="background:#7ADB67" | '''36.5'''
+| 3.9
+| 2.0
+| 0.6
+| 3.3
+| 1.4
+| 0.0
+| 0.0
+| 0.4
+|-
+! align="left" | [[Włodzimierz Cimoszewicz|Cimoszewicz]]
+| {{party shading/Democratic Left Alliance (Poland)}} | 97.2
+| 2.8
+| {{party shading/Democratic Left Alliance (Poland)}} | '''86.2'''
+| 1.7
+| 3.3
+| 1.5
+| 1.7
+| 2.8
+| 0.7
+| 0.8
+| 0.7
+| 0.3
+| 0.1
+| 0.0
+| 0.1
+|-
+! align="left" | [[Tadeusz Mazowiecki|Mazowiecki]]
+| {{party shading/Democratic Left Alliance (Poland)}} | 86.5
+| 13.5
+| {{party shading/Democratic Left Alliance (Poland)}} | '''33.9'''
+| 9.9
+| style="background:#7CA6D3" | 32.4
+| 5.1
+| 1.3
+| 6.7
+| 5.3
+| 4.2
+| 0.2
+| 0.6
+| 0.2
+| 0.1
+| 0.0
+|-
+! align="left" | [[Leszek Moczulski|Moczulski]]
+| 44.4
+| {{party shading/Independent}} | 55.6
+| 19.5
+| {{party shading/Independent}} | '''22.3'''
+| 9.8
+| style="background:#EFB18D" | 22.1
+| 3.0
+| 5.3
+| 2.7
+| 7.1
+| 2.7
+| 3.0
+| 0.7
+| 0.1
+| 0.2
+|-
+! align="left" | [[Stanisław Tymiński|Tymiński]]
+| {{party shading/Democratic Left Alliance (Poland)}} | 90.4
+| 9.6
+| {{party shading/Democratic Left Alliance (Poland)}} | '''65.7'''
+| 5.7
+| 6.3
+| 5.1
+| 4.7
+| 3.0
+| 2.2
+| 2.4
+| 2.6
+| 1.7
+| 0.1
+| 0.0
+| 0.2
+|-
+! align="left" | [[Lech Wałęsa|Wałęsa]]
+| 26.7
+| {{party shading/Independent}} | 73.3
+| 17.5
+| {{party shading/Independent}} | '''53.4'''
+| 6.8
+| 8.5
+| 3.4
+| 3.0
+| 2.8
+| 2.5
+| 0.7
+| 1.0
+| 0.1
+| 0.1
+| 0.0
+|-
+! align="left" | Didn't vote
+| {{party shading/Democratic Left Alliance (Poland)}} | 64.2
+| 35.8
+| {{party shading/Democratic Left Alliance (Poland)}} | '''41.8'''
+| {{party shading/Independent}} | 20.7
+| 12.6
+| 5.9
+| 3.0
+| 4.2
+| 3.9
+| 5.0
+| 1.1
+| 1.4
+| 0.1
+| 0.1
+| 0.0
+|-
+! colspan="18" data-sort-value="106" | Sejm vote in 1993
+|-
+! align="left" | [[Nonpartisan Bloc for Support of Reforms|BBWR]]
+| 12.0
+| {{party shading/Independent}} | 88.0
+! rowspan="16" |
+| 8.8
+| {{party shading/Independent}} | '''70.9'''
+| 5.5
+| 4.7
+| 0.4
+| 2.8
+| 3.5
+| 2.2
+| 0.5
+| 0.3
+| 0.1
+| 0.1
+| 0.0
+|-
+! align="left" | [[Catholic Electoral Committee "Fatherland"|KKW "Ojczyzna"]]
+| 8.6
+| {{party shading/Independent}} | 91.4
+| 6.3
+| {{party shading/Independent}} | '''67.5'''
+| 2.7
+| 10.1
+| 2.4
+| 1.1
+| 6.8
+| 1.5
+| 0.6
+| 0.5
+| 0.1
+| 0.0
+| 0.1
+|-
+! align="left" | [[Coalition for the Republic|KdR]]
+| – 
+| – 
+| 11.0
+| 25.3
+| 1.4
+| style="background:#EFB18D" | '''55.8'''
+| 0.0
+| 0.6
+| 2.4
+| 1.8
+| 0.0
+| 1.2
+| 0.6
+| 0.0
+| 0.0
+|-
+! align="left" | [[Confederation of Independent Poland|KPN]]
+| 24.9
+| {{party shading/Independent}} | 75.1
+| 12.7
+| {{party shading/Independent}} | '''42.0'''
+| 7.9
+| style="background:#EFB18D" | 19.7
+| 1.0
+| 4.1
+| 3.1
+| 4.9
+| 1.0
+| 2.3
+| 0.4
+| 0.1
+| 0.2
+|-
+! align="left" | [[Liberal Democratic Congress|KLD]]
+| – 
+| – 
+| 16.0
+| {{party shading/Independent}} | '''37.0'''
+| style="background:#7CA6D3" | 23.9
+| 5.2
+| 0.1
+| 3.6
+| 6.5
+| 6.9
+| 0.0
+| 0.6
+| 0.0
+| 0.0
+| 0.2
+|-
+! align="left" | [[Party X|X]]
+| – 
+| – 
+| {{party shading/Democratic Left Alliance (Poland)}} | '''60.8'''
+| 7.4
+| 5.8
+| 6.8
+| 2.9
+| 2.6
+| 3.0
+| 3.0
+| 3.1
+| 3.8
+| 0.2
+| 0.0
+| 0.2
+|-
+! align="left" | [[Polish People's Party|PSL]]
+| {{party shading/Democratic Left Alliance (Poland)}} | 68.7
+| 31.3
+| {{party shading/Democratic Left Alliance (Poland)}} | '''36.7'''
+| 18.0
+| 4.3
+| 6.5
+| style="background:#7ADB67" | 23.4
+| 4.5
+| 2.5
+| 0.8
+| 2.4
+| 0.5
+| 0.2
+| 0.0
+| 0.0
+|-
+! align="left" | [[Peasants' Agreement|PSL-PL]]
+| – 
+| – 
+| {{party shading/Democratic Left Alliance (Poland)}} | '''37.8'''
+| 16.5
+| 4.6
+| 7.9
+| style="background:#7ADB67" | 23.0
+| 3.3
+| 2.3
+| 1.0
+| 2.5
+| 0.7
+| 0.1
+| 0.1
+| 0.0
+|-
+! align="left" | [[Centre Agreement|PC]]
+| 18.5
+| {{party shading/Independent}} | 81.5
+| 10.2
+| {{party shading/Independent}} | '''40.0'''
+| 5.4
+| style="background:#EFB18D" | 30.9
+| 0.6
+| 3.1
+| 4.8
+| 3.1
+| 0.0
+| 1.2
+| 0.2
+| 0.1
+| 0.2
+|-
+! align="left" | [[Self-Defence of the Republic of Poland|Samoobrona]]
+| – 
+| – 
+| {{party shading/Democratic Left Alliance (Poland)}} | 21.9
+| {{party shading/Independent}} | '''27.4'''
+| 7.5
+| 7.8
+| 5.1
+| 3.8
+| 1.1
+| 1.1
+| 18.9
+| 3.8
+| 0.5
+| 0.0
+| 1.1
+|-
+! align="left" | [[Democratic Left Alliance (Poland)|SLD]]
+| {{party shading/Democratic Left Alliance (Poland)}} | 98.1
+| 1.9
+| {{party shading/Democratic Left Alliance (Poland)}} | '''89.5'''
+| 1.5
+| 3.0
+| 1.0
+| 0.6
+| 2.2
+| 0.3
+| 0.8
+| 0.4
+| 0.4
+| 0.1
+| 0.0
+| 0.0
+|-
+! align="left" | [[Solidarity (Polish trade union)|Solidarność]]
+| 18.1
+| {{party shading/Independent}} | 81.9
+| 12.7
+| {{party shading/Independent}} | '''61.9'''
+| 6.3
+| 8.9
+| 1.8
+| 2.5
+| 2.6
+| 1.2
+| 0.8
+| 1.0
+| 0.1
+| 0.1
+| 0.0
+|-
+! align="left" | [[Democratic Union (Poland)|UD]]
+| 31.5
+| {{party shading/Independent}} | 68.5
+| 12.7
+| {{party shading/Independent}} | 28.7
+| style="background:#7CA6D3" | '''39.1'''
+| 4.3
+| 0.2
+| 5.4
+| 5.7
+| 2.9
+| 0.2
+| 0.6
+| 0.2
+| 0.0
+| 0.0
+|-
+! align="left" | [[Real Politics Union|UPR]]
+| – 
+| – 
+| 8.7
+| 17.8
+| 6.8
+| 5.7
+| 1.3
+| 3.0
+| 2.9
+| style="background:#8A94CE" | 52.3
+| 0.3
+| 0.9
+| 0.1
+| 0.1
+| 0.0
+|-
+! align="left" | [[Labour Union (Poland)|UP]]
+| {{party shading/Democratic Left Alliance (Poland)}} | 59.5
+| 40.5
+| {{party shading/Democratic Left Alliance (Poland)}} | '''28.7'''
+| 19.8
+| style="background:#7CA6D3" | 19.9
+| 8.5
+| 0.7
+| 14.3
+| 3.0
+| 2.3
+| 0.5
+| 1.5
+| 0.3
+| 0.2
+| 0.1
+|-
+! align="left" | Didn't vote
+| – 
+| – 
+| {{party shading/Democratic Left Alliance (Poland)}} | '''36.8'''
+| {{party shading/Independent}} | 26.8
+| 11.6
+| 6.4
+| 2.7
+| 3.9
+| 4.1
+| 4.3
+| 1.4
+| 1.5
+| 0.1
+| 0.1
+| 0.1
+|-
+| colspan="18" style="background:#FFFFFF" |
+|-
+! colspan="18" data-sort-value="109" | Transfer of electorates from the first round of the election
+|-
+! rowspan="2" style="text-align:right" | Electorates transferred from candidates<br>in column to candidate in row
+! colspan="3" style="width:60px;" | Didn't vote
+! style="width:60px;" | [[Aleksander Kwaśniewski|Kwaśniewski]]<br>{{small|[[Social Democracy of the Republic of Poland|SdRP]]}}
+! style="width:60px;" | [[Lech Wałęsa|Wałesa]]<br>{{small|[[Independent politician|Ind.]]}}
+! style="width:60px;" | [[Jacek Kuroń|Kuroń]]<br>{{small|[[Freedom Union (Poland)|UW]]}}
+! style="width:60px;" | [[Jan Olszewski|Olszewski]]<br>{{small|[[Movement for the Republic|RdR]]}}
+! style="width:60px;" | [[Waldemar Pawlak|Pawlak]]<br>{{small|[[Polish People's Party|PSL]]}}
+! style="width:60px;" | [[Tadeusz Zieliński (politician)|Zieliński]]<br>{{small|[[Labour Union (Poland)|UP]]}}
+! style="width:60px;" | [[Hanna Gronkiewicz-Waltz|Gronkiewicz-Waltz]]<br>{{small|[[Independent politician|Ind.]]}}
+! style="width:60px;" | [[Janusz Korwin-Mikke|Korwin-Mikke]]<br>{{small|[[Real Politics Union|UPR]]}}
+! style="width:60px;" | [[Andrzej Lepper|Lepper]]<br>{{small|[[Self-Defence of the Republic of Poland|SRP]]}}
+! style="width:60px;" | [[Jan Pietrzak|Pietrzak]]<br>{{small|[[Independent politician|Ind.]]}}
+! style="width:60px;" | [[Tadeusz Koźluk|Koźluk]]<br>{{small|[[Independent politician|Ind.]]}}
+! style="width:60px;" | [[Kazimierz Piotrowicz|Piotrowicz]]<br>{{small|[[Independent politician|Ind.]]}}
+! style="width:60px;" | [[Leszek Bubel|Bubel]]<br>{{small|[[Independent politician|Ind.]]}}
+|-
+! colspan="3" style="background:{{party color|Independent}}" |
+! style="background:{{party color|Social Democracy of the Republic of Poland}}" |
+! style="background:{{party color|Independent}}" |
+! style="background:{{party color|Freedom Union (Poland)}}" |
+! style="background:{{party color|Movement for the Republic}}" |
+! style="background:{{party color|Polish People's Party}}" |
+! style="background:{{party color|Labour Union (Poland)}}" |
+! style="background:{{party color|Independent}}" |
+! style="background:{{party color|Real Politics Union}}" |
+! style="background:{{party color|Self-Defence of the Republic of Poland}}" |
+! style="background:{{party color|Independent}}" |
+! style="background:{{party color|Independent}}" |
+! style="background:{{party color|Independent}}" |
+! style="background:{{party color|Independent}}" |
+|-
+! style="text-align:right" | Aleksander Kwaśniewski
+| colspan="3" {{party shading/Democratic Left Alliance (Poland)}} | 59.5
+| {{party shading/Democratic Left Alliance (Poland)}} | 98.6
+| 3.1
+| 43.2
+| 25.9
+| {{party shading/Democratic Left Alliance (Poland)}} | 67.1
+| {{party shading/Democratic Left Alliance (Poland)}} | 67.4
+| 28.0
+| 37.6
+| {{party shading/Democratic Left Alliance (Poland)}} | 70.4
+| 49.6
+| –
+| –
+| –
+|-
+! style="text-align:right" | Lech Wałęsa
+| colspan="3" | 40.5
+| 1.4
+| {{party shading/Independent}} | 96.9
+| {{party shading/Independent}} | 56.8
+| {{party shading/Independent}} | 74.1
+| 32.9
+| 32.6
+| {{party shading/Independent}} | 72.0
+| {{party shading/Independent}} | 62.4
+| 29.6
+| {{party shading/Independent}} | 50.4
+| –
+| –
+| –
+|}
+</div>
+
+==Aftermath==
+Lech Wałęsa contested the election results, but they were reaffirmed by the Supreme Court.<ref name=Dudek/>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+*''Obwieszczenie PKW z dn. 7 XI 1995 r.'', [[Dziennik Ustaw]] Nr 126, poz. 604;
+*''Obwieszczenie PKW z dn. 7 XI 1995 r.'', Dz.U. Nr 131, poz. 636
+
+{{Polish presidential elections}}
+{{Polish elections}}
+
+[[Category:1995 Polish presidential election| ]]
+[[Category:Presidential elections in Poland]]
+[[Category:1995 elections in Europe|Poland]]
+[[Category:History of Poland (1989–present)]]
+[[Category:1995 elections in Poland|President]]
+[[Category:November 1995 in Europe|Poland]]

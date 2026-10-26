@@ -1,0 +1,848 @@
+{{short description|none}}
+{{Infobox election
+| country = Croatia
+| type = presidential
+| previous_election = 2009–10 Croatian presidential election
+| previous_year = {{nowrap|2009–10}}
+| next_election = 2019–20 Croatian presidential election
+| next_year = {{nowrap|2019–20}}
+| election_date = 28 December 2014 (first round)<br />{{nowrap|11 January 2015 (second round)}}
+| turnout = 47.10% (first round), 59.03% (second round)
+
+| image1 = Official portrait of Kolinda Grabar-Kitarovic (cropped).jpg
+| nominee1 = '''[[Kolinda Grabar-Kitarović]]'''
+| party1 = Croatian Democratic Union
+| popular_vote1 = '''1,114,945'''
+| percentage1 = '''50.74%'''
+
+| image2 = President of Croatia (14288695048).jpg
+| nominee2 = [[Ivo Josipović]]
+| party2 = Independent ([[Social Democratic Party of Croatia|SDP]])
+| color2 = ED1C24
+| popular_vote2 = 1,082,436
+| percentage2 = 49.26%
+
+| map_image = Predsjednički izbori u Hrvatskoj 2015, postotak glasova.svg
+| map_caption = Second round results by municipality
+
+| title = President
+| before_election = [[Ivo Josipović]]
+| before_party = Independent politician
+| after_election = '''[[Kolinda Grabar-Kitarović]]'''
+| after_party = Croatian Democratic Union
+}}{{Politics of Croatia}}
+
+Presidential elections were held in [[Croatia]] on 28 December 2014 and 11 January 2015, the sixth such elections since independence in 1991. Only four candidates contested the elections, the lowest number since [[1997 Croatian presidential election|1997]]. Incumbent president [[Ivo Josipović]], who had been elected as the candidate of the [[Social Democratic Party of Croatia|Social Democratic Party]] in [[2009–2010 Croatian presidential election|2009–2010]], was eligible to seek reelection for a second and final five-year term and ran as an independent. As no candidate received 50% of the vote in the first round in December 2014, a run-off took place in January 2015 between the two candidates with the most votes, Josipović and [[Kolinda Grabar-Kitarović]].<ref name="izborijl">{{cite news|url=http://www.jutarnji.hr/ceka-se-potvrda-iz-vlade-predsjednicki-izbori-odrzat-ce-se-28--prosinca/1237590/|title=ODLUČENO JE Predsjednički izbori održat će se 28. prosinca|date=19 November 2014|work=[[Jutarnji list]]|language=hr|access-date=19 November 2014|archive-date=21 November 2014|archive-url=https://web.archive.org/web/20141121192629/http://www.jutarnji.hr/ceka-se-potvrda-iz-vlade-predsjednicki-izbori-odrzat-ce-se-28--prosinca/1237590|url-status=dead}}</ref> Grabar-Kitarović went on to win the elections by a slim margin of 32,509 votes or 1.48%, making her Croatia's first female president.<ref>{{cite news|url=https://www.bbc.com/news/world-europe-30765822|title=Grabar-Kitarovic elected Croatia's first woman president|date=11 January 2015}}</ref>
+
+The elections were the second to have a woman in the run-off, the first having been the [[2005 Croatian presidential election|2005 elections]], and also featured the youngest candidate to run in a presidential contest, [[Ivan Vilibor Sinčić]], aged 24. The election of Grabar-Kitarović was the first victory for the [[Croatian Democratic Union]] (HDZ) in a presidential election since the death of [[Franjo Tuđman]] in December 1999, making her the first right-wing President of Croatia in 15 years. The defeat of Josipović marked the first time that an incumbent Croatian President had failed to win reelection for a second five-year term, with both his predecessors [[Franjo Tuđman]] and [[Stjepan Mesić]] serving two terms. The number of votes (1,114,900) received by Grabar-Kitarović in the second round was the lowest number of votes received by an elected Croatian President until that point in time (later being surpassed by the number of votes for [[Zoran Milanović]] in the [[2019-20 Croatian presidential election|2019-20 election]]). Grabar-Kitarović was sworn in as the fourth President of Croatia on 15 February 2015, becoming the youngest person to take office as President of the Republic of Croatia, aged 46 years and 295 days.
+
+==Background and rules==
+In mid-October 2014 the SDP-led government proposed adopting a new electoral law by February 2015. SDP's parliamentary speaker Josip Leko stated that the party's position in consultation with the [[Venice Commission]] was that the electoral law should not be changed within a year prior to an election.<ref>{{cite news|url=http://hr.n1info.com/a5427/Vijesti/Izmjene-izbornog-zakona-do-veljace.html|title=Izmjene izbornog zakona do veljače?|date=21 October 2014|work=N1|language=hr|access-date=3 January 2015|archive-date=3 January 2015|archive-url=https://web.archive.org/web/20150103235827/http://hr.n1info.com/a5427/Vijesti/Izmjene-izbornog-zakona-do-veljace.html|url-status=dead}}</ref> However, the new ''Law on the Election of the President of the Republic of Croatia'' was subsequently voted in by the SDP-led parliamentary majority on 24 October.<ref>{{cite news|url=http://www.jutarnji.hr/sdp-izmijenio-zakon-o-izboru-predsjednika-rh--ljutiti-hdz-ovci-napustili-sabor/1230571/|title=SDP izmijenio Zakon o izboru predsjednika, ljutiti HDZ-ovci napustili Sabor|date=24 October 2014|work=[[Jutarnji list]]|language=hr|access-date=3 January 2015|archive-date=4 January 2015|archive-url=https://web.archive.org/web/20150104000553/http://www.jutarnji.hr/sdp-izmijenio-zakon-o-izboru-predsjednika-rh--ljutiti-hdz-ovci-napustili-sabor/1230571/|url-status=dead}}</ref> The opposition Croatian Democratic Union (HDZ) walked out on the vote criticizing the timing, while most of the parliament's minority representatives voted against the law due to a lack of consultation of parliamentary groups.<ref name="Glas Istre">{{cite news|url=http://www.glasistre.hr/vijesti/hrvatska/sabor-izmijenio-zakon-o-izboru-predsjednika-rh-478031|title=Sabor izmijenio Zakon o izboru predsjednika RH|date=24 October 2014|work=[[Glas Istre]]|language=hr|access-date=4 January 2015}}</ref> The SDP's [[Peđa Grbin]], head of the parliament's constitutional committee jeered the opposition: "I understand why my colleagues from HDZ are opposed, since they won't have to wait until midnight to find that they've also lost these elections" - ostensibly in reference to a part of the law which shortened the electoral silence from midnight on election day to the closing of the polls.<ref name="Glas Istre"/>
+
+One of the more significant changes to the law involved limiting voting abroad to consular offices. This had the effect of greatly reducing the number of polling stations in neighbouring [[Bosnia and Herzegovina]]: from 124 in the 2009-10 presidential elections to 15 in the current election.<ref>{{cite news|url=http://www.dnevnik.ba/novosti/bih/hns-tra%C5%BEi-vi%C5%A1e-bira%C4%8Dkih-mjesta-u-bih-za-hrvatske-predsjedni%C4%8Dke-izbore|title=HNS traži više biračkih mjesta u BiH za hrvatske predsjedničke izbore|date=28 November 2014|work=Dnevnik.ba|language=hr|access-date=3 January 2015|url-status=dead|archive-url=https://web.archive.org/web/20150104003257/http://www.dnevnik.ba/novosti/bih/hns-tra%C5%BEi-vi%C5%A1e-bira%C4%8Dkih-mjesta-u-bih-za-hrvatske-predsjedni%C4%8Dke-izbore|archive-date=4 January 2015}}</ref> The [[Croatian People's Assembly]], a grouping of Croat parties in Bosnia and Herzegovina, protested at the reduction. Overall the number of polling stations abroad was reduced from 250 to 90.
+
+On 20 November Croatian prime minister Zoran Milanović called presidential elections to take place on 28 December.<ref>{{cite news|url=http://www.izbori.hr/izbori/ws.nsf/C17D82D38F7B097DC1257D970058DBA1/$FILE/Odluka_Vlade_RH_o_raspisivanju_izbora_za_predsjednika_RH_28.12.2014..pdf|title=Odluka Vlade Republike Hrvatske o raspisivanju izbora za predsjednika Republike Hrvatske|date=20 November 2014|work= Državno izborno povjerenstvo|access-date=4 January 2015}}</ref>
+
+Opinions polls in late 2014 showed the Croatian public with high disapproval ratings of the country's direction and the government: 82% and 79% respectively.<ref>{{cite news|url=http://dnevnik.hr/vijesti/hrvatska/dnevnik-novatv-crobarometar-prosinac-2014-hdz-i-sdp-rasli-orah-pao---365410.html|title=Ekskluzivno u Dnevniku Nove TV: HDZ uvjerljivo prvi|date=18 December 2014|work= dnevnik.hr|access-date=5 January 2015}}</ref>
+
+==Campaign before the official start==
+Kolinda Grabar-Kitarović was first discussed as the Croatian Democratic Union's candidate in May 2014 after the party emerged with the most votes and seats nationally in the [[2014 European Parliament election in Croatia|European Parliament elections]].<ref>{{cite news|url=http://dalje.com/en-croatia/karamarko--grabar-kitarovic-hdzs-most-likely-presidential-candidate/510183|title=Karamarko: Grabar Kitarovic HDZ's most likely presidential candidate|date=27 May 2014|work=Dalje.com|access-date=4 January 2015|archive-url=https://web.archive.org/web/20150104090017/http://dalje.com/en-croatia/karamarko--grabar-kitarovic-hdzs-most-likely-presidential-candidate/510183|archive-date=4 January 2015|url-status=dead|df=dmy-all}}</ref> Her candidature was confirmed by party leader [[Tomislav Karamarko]] on 12 June.<ref>{{cite news|url=http://dalje.com/en-croatia/kolinda-grabar-kitarovic-is-hdzs-presidential-candidate/511823|title=Kolinda Grabar Kitarovic is HDZ's presidential candidate|date=12 June 2014|work=Dalje.com|access-date=4 January 2015|archive-url=https://web.archive.org/web/20150104090019/http://dalje.com/en-croatia/kolinda-grabar-kitarovic-is-hdzs-presidential-candidate/511823|archive-date=4 January 2015|url-status=dead|df=dmy-all}}</ref>
+
+In October Josipović had to deal with the fallout from an article written by his chief analyst Dejan Jović claiming that the 1991 Croatian independence referendum was "quite illiberal and was not held in free and honest circumstances".<ref>{{cite news|url=http://www.24sata.hr/politika/josipovic-razrijesio-savjetnika-radi-stava-o-referendumu-1991-387002|title=Josipović razriješio savjetnika zbog stava o referendumu '91.|date=2 October 2014|work= 24sata.hr|access-date=4 January 2015}}</ref> Josipović subsequently dismissed Jović.
+
+==Candidates==
+Candidates seeking nomination first had to submit a minimum of 10,000 citizens' signatures to the State Electoral Commission (''Državno izborno povjerenstvo'' or DIP) in order for their candidacy to be formally accepted. The signatures had to be collected in a period of twelve days, from 25 November to 6 December. The deadline for submissions was midnight, 6 December, with most candidates submitting a much larger number of signatures as a show of support. Following the submissions, DIP had two days to check the validity of signatures and announced a final list of candidates by midnight on 8 December. On 9 December the campaign officially started, and lasted for 18 days until 26 December, celebrated in Croatia as [[Saint Stephen's Day]].
+
+The first to submit his signatures was Milan Kujundžić who handed them in on 5 December. Incumbent president Ivo Josipović submitted his 203,875 signatures along with prime minister Zoran Milanović and other members of his cabinet on the day of the deadline.<ref>{{cite news|url=http://www.24sata.hr/politika/predaja-kandidatura-apic-je-odustao-a-grubisic-razmislja-397079|title=I Milanović pomogao dostaviti Josipovićevih 203.000 potpisa|date=6 December 2014|work= 24sata.hr|language=hr|access-date=4 January 2015}}</ref> Kolinda Grabar-Kitarović and Ivan Sinčić both also submitted the required signatures later that day.
+
+{| class="wikitable"
+! colspan=2 | Candidate
+! Party affiliation
+! Political remarks
+! Proof of nomination
+! Website
+|-
+| [[File:Josipovic 4.4.2012 (cropped).jpg|100px]]
+| [[Ivo Josipović]]
+| Nominally [[Independent (politician)|Independent]], supported by the [[Social Democratic Party of Croatia]]
+| Incumbent, stands for re-election after completing his first term. Although formally independent, he was nominated by the [[Social Democratic Party of Croatia]] (SDP) and ran on a centre-left platform.<ref name="jlivo">{{cite news|url=http://www.jutarnji.hr/foto--pocela-sjednica-glavnog-odbora-sdp-a-clanovi-ce-podrzati-kandidaturu-ive-josipovica-za-predsjednika/1218005/|title=SDP-ovci potvrdili Josipovića za kandidata|date=6 September 2014|work=Jutarnji list|language=hr|access-date=9 November 2014|archive-date=9 November 2014|archive-url=https://web.archive.org/web/20141109041315/http://www.jutarnji.hr/foto--pocela-sjednica-glavnog-odbora-sdp-a-clanovi-ce-podrzati-kandidaturu-ive-josipovica-za-predsjednika/1218005/|url-status=dead}}</ref> Also supported by other members of the ruling centre-left [[Kukuriku coalition]]: the [[Croatian People's Party – Liberal Democrats]] (HNS-LD),<ref name="24sataivo">{{cite news|url=http://www.24sata.hr/politika/josipovic-se-zahvalio-hns-u-hrvatska-treba-nove-temelje-390562|title=Josipović se zahvalio HNS-u: 'Hrvatska treba nove temelje'|date=25 October 2014|work=24sata|language=hr|access-date=9 November 2014}}</ref> [[Istrian Democratic Assembly]] (IDS),<ref name="ivoids">{{cite news|url=http://predsjednicki-izbori.hr/vijesti/ids-podrzava-josipovica/|title=IDS podržava Josipovića|date=23 September 2014|publisher=Predsjednicki-Izbori.hr|language=hr|access-date=9 November 2014|url-status=dead|archive-url=https://web.archive.org/web/20141205122948/http://predsjednicki-izbori.hr/vijesti/ids-podrzava-josipovica/|archive-date=5 December 2014}}</ref> and the [[Croatian Party of Pensioners]] (HSU).<ref name="hsuivo">{{cite web|url=http://hsu.hr/index.php/arhiva-vijesti/item/132-hsu-odlucio-podrzati-ivu-josipovica|title=HSU odlučio podržati Ivu Josipovića|date=1 October 2014|publisher=Croatian Party of Pensioners|language=hr|access-date=9 November 2014|archive-url=https://web.archive.org/web/20141109033007/http://hsu.hr/index.php/arhiva-vijesti/item/132-hsu-odlucio-podrzati-ivu-josipovica|archive-date=9 November 2014|url-status=dead}}</ref> Also supported by [[Croatian Labourists – Labour Party|Croatian Labourists]] (HL)<ref name="laburistiivo">{{cite news|url=http://www.tportal.hr/vijesti/hrvatska/355276/Laburisti-podrzali-Josipovica-u-borbi-za-novi-mandat.html|title=Laburisti podržali Josipovića u borbi za novi mandat|date=19 October 2014|publisher=T-Portal|language=hr|access-date=9 November 2014}}</ref> and [[Croatian Sustainable Development]] (ORaH).<ref>{{cite web |url=http://www.jutarnji.hr/orah--podrzao-josipovica-holly---njegov-program-promovira-zeleni-nacin-razmisljanja-/1236608/ |title=ORaH PODRŽAO JOSIPOVIĆA Holly: 'Njegov program promovira zeleni način razmišljanja' - Jutarnji.hr |website=www.jutarnji.hr |url-status=dead |archive-url=https://web.archive.org/web/20141117221341/http://www.jutarnji.hr/orah--podrzao-josipovica-holly---njegov-program-promovira-zeleni-nacin-razmisljanja-/1236608 |archive-date=2014-11-17}} </ref>
+| Submitted some 203,000 signatures on 6 December.<ref>{{cite web | url = http://www.tportal.hr/vijesti/predsjednicki-izbori-2014/361563/Josipovic-predao-203-875-potpisa.html| title = Josipović predao 203.875 potpisa, i Milanović mu nosio kutije| language = hr | date = 6 December 2014}}</ref>
+| [https://web.archive.org/web/20141209100716/http://josipovic.hr/ josipovic.hr]
+|-
+| [[File:Kolinda Grabar-Kitarović 2006.jpg|100px]]
+| [[Kolinda Grabar-Kitarović]]
+| [[Croatian Democratic Union]]
+| Candidate of the biggest opposition party, the centre-right [[Croatian Democratic Union]] (HDZ), and supported by other members of the centre-right opposition coalition: the [[Croatian Peasant Party]] (HSS),<ref>{{cite web|url=http://www.hss.hr/component/content/article/29-sporedne/1314-glavni-odbor-hss-a-donio-odluku-da-je-predsjednika-kandidatkinja-kolinda-grabar-kitarovi-i-hss-ova-kandidatkinja|title=Glavni odbor HSS-a donio Odluku da je predsjednička kandidatkinja Kolinda Grabar Kitarović i HSS-ova kandidatkinja|author=kristina|url-status=dead|archive-url=https://web.archive.org/web/20141213111132/http://www.hss.hr/component/content/article/29-sporedne/1314-glavni-odbor-hss-a-donio-odluku-da-je-predsjednika-kandidatkinja-kolinda-grabar-kitarovi-i-hss-ova-kandidatkinja|archive-date=2014-12-13}}</ref> [[Croatian Social Liberal Party]] (HSLS), [[Croatian Party of Rights dr. Ante Starčević]], [[Democratic Party of Zagorje]], [[Croatian Growth]], and [[Bloc Pensioners Together]].. Former foreign minister in the [[Cabinet of Ivo Sanader I]] (2003–08), ran on a centre-right platform. candidacy officially confirmed on 12 June 2014.<ref name="slobodnakolinda">{{cite news|url=http://www.slobodnadalmacija.hr/Hrvatska/tabid/66/articleType/ArticleView/articleId/248044/Default.aspx|title=Kolinda Grabar-Kitarović potvrđena kao kandidatkinja HDZ-a na predsjedničkim izborima|last=Patković|first=Nikola|date=6 June 2014|work=Slobodna Dalmacija|language=hr|access-date=9 November 2014}}</ref>
+| Submitted some 330,000 signatures on 6 December.<ref>{{cite web | url = http://www.jutarnji.hr/-prikupili-smo-vise-nego-ijedan-kandidat-u-povijesti-/1248974/ | title = Prikupili smo više nego ijedan kandidat u povijesti | language = hr | date = December 6, 2014 | access-date = December 6, 2014 | archive-date = December 8, 2014 | archive-url = https://web.archive.org/web/20141208210121/http://www.jutarnji.hr/-prikupili-smo-vise-nego-ijedan-kandidat-u-povijesti-/1248974/ | url-status = dead }}</ref>
+| [https://web.archive.org/web/20141209203848/http://kolinda.hr/ kolinda.hr]
+|-
+| [[File:Milan Kujundžić portrait.jpg|100px]]
+| [[Milan Kujundžić]]
+| [[Croatian Dawn]]
+| Founder and president of the right-wing populist [[Croatian Dawn]] (HZ) non-parliamentary party, formed in July 2013 as a splinter party of HDZ, following Kujundžić's defeat in internal party elections. Candidate of the [[Alliance for Croatia]] coalition of right-wing and nationalist parties. Ran on a right-wing populist platform. Candidacy officially confirmed on 18 October 2014.<ref name="indexmilan">{{cite news|url=http://www.index.hr/vijesti/clanak/kujundzic-kandidat-za-predsjednika-zelim-vratiti-nadu-hrvatskom-covjeku/778323.aspx|title=Kujundžić kandidat za predsjednika|date=18 October 2014|work=[[Index.hr]]|language=hr|access-date=9 November 2014}}</ref>
+| Submitted some 50,000 signatures on 5 December.<ref>{{cite web | url = http://www.24sata.hr/politika/milan-kujundzic-je-pet-do-12-predao-kandidaturu-za-izbore-396982 | title = Milan Kujundžić je pet do 12 predao kandidaturu za izbore | language = hr | date = December 5, 2014}}</ref>
+| [https://web.archive.org/web/20150209163730/http://www.milankujundzic.hr/ milankujundzic.hr]
+|-
+| [[File:Sinčić.jpg|100px]] 
+| [[Ivan Vilibor Sinčić]]
+| [[Human Blockade]]<ref>{{cite web|url=http://www.vecernji.hr/hrvatska/tko-je-ivan-vilibor-sincic-donosimo-biografiju-outsiderskog-kandidata-977961|title=Tko je Ivan Vilibor Sinčić? Donosimo biografiju 'autsajderskog' kandidata|work=Večernji.hr}}</ref>
+| Student nominated by an activist organization called Živi Zid (''Human Blockade'') which fights forced home evictions by organising [[human shield]]s, and which was registered as a political party in July 2011. Ran on a [[eurosceptic]], anti-[[NATO]] populist platform.
+| Submitted some 15,000 signatures on 6 December.<ref>{{cite web|url=http://www.hrt.hr/predsjednicki-izbori/ivan-vilibor-sincic-predao-kandidaturu-za-predsjednicke-izbore|title=HRT: Sinčić predao kandidaturu: 'Borba za povrat otetog'|date=6 December 2014|work=Hrvatska radiotelevizija|access-date=6 December 2014|archive-date=9 December 2014|archive-url=https://web.archive.org/web/20141209001810/http://www.hrt.hr/predsjednicki-izbori/ivan-vilibor-sincic-predao-kandidaturu-za-predsjednicke-izbore|url-status=dead}}</ref>
+| [https://web.archive.org/web/20141209041245/http://www.s-p.hr/ s-p.hr]
+|}
+
+===Withdrawn candidate bids===
+* [[Anto Đapić]] withdrew on 5 December, endorsing Kolinda Grabar-Kitarović.<ref>{{cite news|url=http://www.jutarnji.hr/anto-dapic-odustao-od-kandidature--procijenio-sam-da-nema-sanse--podrsku-dajem-kolindi-/1247993/|title=ANTO ĐAPIĆ DAJE PODRŠKU KOLINDI 'Odustajem od kandidature, to bi samo zbunilo desničare'|date=5 December 2014|work=[[Jutarnji list]]|language=hr|access-date=6 December 2014|archive-date=8 December 2014|archive-url=https://web.archive.org/web/20141208210107/http://www.jutarnji.hr/anto-dapic-odustao-od-kandidature--procijenio-sam-da-nema-sanse--podrsku-dajem-kolindi-/1247993/|url-status=dead}}</ref>
+* [[Ivan Grubišić]] withdrew on 6 December, endorsing Ivan Rude.<ref>{{Cite web|url=http://www.index.hr/vijesti/clanak/i-don-ivan-grubisic-odustao-od-predsjednicke-kandidature-ne-zelim-sudjelovati-u-ovakvoj-kampanji/788452.aspx|title = I don Ivan Grubišić odustao od predsjedničke kandidature: "Ne želim sudjelovati u ovakvoj kampanji"}}</ref>
+* Ivan Rude, lawyer who handled pre-bankruptcy settlements at several large companies and candidate of the non-parliamentary Voice of Reason party, he ran on left-wing populist and worker's rights platform. Withdrew on 6 December after failing to collect 10,000 signatures required to formally submit his bid.<ref name="rudeout">{{cite news|url=http://www.vecernji.hr/hrvatska/kandidat-ivan-rude-ipak-nije-uspio-prikupiti-10000-potpisa-977688|title=Kandidat Ivan Rude ipak nije uspio prikupiti 10.000 potpisa|date=6 December 2014|work=Večernji list|language=hr|access-date=6 December 2014}}</ref>
+
+===Failed candidacies===
+* Ivan Bavčević submitted 7,600 signatures to the electoral commission on December 6 and was rejected.<ref>{{Cite web|url=http://www.tportal.hr/vijesti/predsjednicki-izbori-2014/361793/Bavcevic-objasnio-kako-je-dosao-do-7-600-potpisa.html|title = Bavčević objasnio kako je došao do 7.600 potpisa}}</ref>
+* Ratko Dobrović submitted no signatures to the electoral commission claiming that they are "blank signatures".
+* Slobodan Midžić not submitted signatures on the prescribed form. Instead he offered a CD on which, as he claims, is about 500 thousand signatures. He is from [[Velika Kladuša]] ([[Bosnia and Herzegovina|BiH]]).<ref>{{cite web|url=http://www.index.hr/vijesti/clanak/ovo-su-predsjednicki-kandidati-koji-su-ostali-u-utrci-za-pantovcak/788482.aspx|title=Ovo su predsjednički kandidati koji su ostali u utrci za Pantovčak}}</ref> Midžić had also failed to nominate himself for [[2009–10 Croatian presidential election|2009 presidential election]].
+* Ivica Dukić submitted only 800 signatures because "in Split and Zagreb it is raining and people are suspicious".{{citation needed|date=March 2019}}
+* Vesna Balenović,<ref>{{Cite web|url=http://www.womeninadria.com/zvizdacica-vesna-balenovic-na-celu-drzave/|title = "Zviždačica" Vesna Balenović kao predsjednica RH|date = 10 August 2014}}</ref> supported [[Milan Kujundžić]]
+* Tomislav Šutalo,<ref>{{Cite web|url=http://www.valpovstina.info/index.php/vijesti/1424-predstavio-se-tomislav-sutalo-kandidat-za-predsjednika-republike|title = Predstavio se Tomislav Šutalo, kandidat za predsjednika Republike}}</ref> businessman from Valpovo
+* Ivan Valek,<ref>{{Cite web|url=http://www.24sata.hr/politika/svi-zele-na-pantovcak-u-utrci-mormon-zvizdacica-aktivist-395460|title=Svi žele na Pantovčak: U utrci mormon, zviždačica, aktivist}}</ref> architect and member of The Church of Jesus Christ of Latter-day Saints
+* Iva Anzulović,<ref>{{Cite web|url=http://savjest.com/glas_savjesti/glas.php?glas=141&iva-anzulovic-se-kandidirala-za-predsjednicu-rh|title = Iva Anzulović se kandidirala za predsjednicu RH, glas savjesti - dnevni komentar, autor: Iva Anzulović}}</ref> reporter. She said that "she is apolitical and always a reporter"
+* Tomislav Opačak,<ref>{{Cite web|url=http://www.sbplus.hr/kolumne/manjinas/tomislav_opacak_zeli_biti_predsjednik_svih_hrvata.aspx|title = Sbplus.hr, Slavonski Brod : Kolumne : Manjinaš : Tomislav Opačak želi biti predsjednik svih Hrvata}}</ref> businessman from Slavonski Brod. At the time, he was due to serve a prison sentence for a traffic violation. He said that "there never was a great president who did not serve prison time", mentioning [[Josip Broz Tito]] and [[Franjo Tuđman]].<ref>{{cite web|url=https://slobodnadalmacija.hr/novosti/hrvatska/clanak/id/254770/idem-u-zatvor-i-bit-cu-veliki-predsjednik--taj-su-put-prosli-tito-i-tuman|title='Idem u zatvor i bit ću veliki predsjednik - taj su put prošli Tito i Tuđman'|date=26 November 2014|work=[[Slobodna Dalmacija]]|language=hr|access-date=20 March 2019}}</ref>
+
+==Campaign==
+During the course of the first-round campaign the head of the president's War Veterans Council Vlado Marić gave his resignation in protest of Josipović. His resignation cited a lack of an "appropriate reaction to multiple attempts to show either <nowiki>[Josipović]</nowiki> or his close associates, personally or through the War Veterans Council, of the difficulty and seriousness of the problems affecting Croatian veterans".<ref>{{cite web| url = http://dnevnik.hr/vijesti/hrvatska/vlado-maric-dao-ostavku-na-mjesto-predsjednika-josipoviceva-savjeta-za-ratne-veterane---366035.html| title = Vlado Marić dao ostavku na mjesto predsjednika Josipovićeva Savjeta za ratne veterane | date = 23 December 2014 | work = Dnevnik.hr | language = hr}}</ref>
+
+Incumbent president Ivo Josipović addressed his supporters on the night of the first round of elections. During his speech he stated "Too much blood has been spilled for Croatia and too many defenders died that we would give Croatia up to those who don't deserve it" in reference to the opposition challenger Grabar-Kitarović.<ref>{{cite web| url = http://www.vecernji.hr/predsjednicki-izbori2014/sokirali-ih-rezultati-u-josipovicevom-stozeru-zavladao-muk-981496| title = Josipović: Previše je krvi proliveno da bi Hrvatsku predali onima koji je ne zaslužuju | date = December 28, 2014 | work = [[Večernji list]] | language = hr}}</ref> The Croatian Democratic Union criticized the president's rhetoric as "dirty and aggressive" and stressed that while Josipović "speaks of blood", their candidate offers "peace, unity and optimism".<ref>{{cite web | url = http://www.jutarnji.hr/paljba-iz-hdz-a--josipovic-govori-o-krvi--a-kolinda-nudi-mir--zajednistvo-i-optimizam-/1266915/ | title = PALJBA IZ HDZ-a 'Josipović govori o krvi, a Kolinda nudi mir, zajedništvo i optimizam' | date = January 2, 2015 | work = [[Jutarnji list]] | language = hr | access-date = January 3, 2015 | archive-date = January 4, 2015 | archive-url = https://web.archive.org/web/20150104015510/http://www.jutarnji.hr/paljba-iz-hdz-a--josipovic-govori-o-krvi--a-kolinda-nudi-mir--zajednistvo-i-optimizam-/1266915/ | url-status = dead }}</ref>
+
+After the first round, third place candidate Ivan Sinčić was asked which of the two candidates he would support in the second round to which he replied that he could not support either due to moral reasons. Sinčić's Živi zid told his supporters to spoil their ballots in the second round by entering Sinčić's name on the ballot.<ref>{{cite web| url = http://www.vecernji.hr/predsjednicki-izbori2014/pozivamo-vas-da-na-vas-glasacki-listic-dopisete-broj-3-i-zaokruzite-ivana-sincica-981589| title = Preporučili svojim biračima za 2. krug: Dopišite broj 3 i zaokružite ime Ivana Sinčića! | date = December 29, 2014 | work = [[Večernji list]] | language = hr}}</ref> Vice-president of the SDP government [[Milanka Opačić]] called Sinčić a "colourful lie" in an interview from the Josipović campaign headquarters on the night of the first-round elections.<ref>{{cite web| url = http://www.vecernji.hr/predsjednicki-izbori2014/milanka-opacic-gospodin-sincic-je-jedna-sarena-laza-981505| title = Iz Sinčićeva stožera uzvratili Opačić: Vaša politika je politika propasti Hrvatske! | date = 28 December 2014 | work = [[Večernji list]] | language = hr}}</ref> In response Sinčić's campaign manager Dušan Cvetanović called SDP and the government "a colourful lie which ever fewer people have faith in". SDP vice-president and director of operations for Josipović's campaign [[Željka Antunović]] also said that "Sinčić acted like an anarchist and didn't offer solutions".<ref>{{cite web| url = http://www.tportal.hr/vijesti/predsjednicki-izbori-2014/364077/Kod-Josipovica-zavladao-muk-nadaju-se-Sincicevim-glasovima.html| title = Autogol Milanke Opačić: Sinčić je jedna šarena laža | date = 28 December 2014 | work = tportal.hr | language = hr}}</ref> Nevertheless, the following day Josipović reached out to Sinčić's voters: "I hope that those voters who were for Sinčić recognize that this is a field where we're playing together".<ref>{{cite web| url = http://www.vecernji.hr/hrvatska/josipovic-sincic-i-ja-zajedno-igramo-na-istom-terenu-981688| title = Josipović: Sinčić i ja zajedno igramo na istom terenu | date = 29 December 2014 | work = [[Večernji list]] | language = hr}}</ref> Sinčić continued his work with Živi zid after the first round. He was arrested during an attempt to prevent an eviction in Zagreb on 8 January.<ref>{{cite web | url = http://dalje.com/en-croatia/would-be-president-sincic-arrested-during-eviction/532889 | title = Would-be president Sincic arrested during eviction | date = 8 January 2015 | work = Dalje.com | access-date = 9 January 2015 | archive-url = https://web.archive.org/web/20150110013326/http://dalje.com/en-croatia/would-be-president-sincic-arrested-during-eviction/532889 | archive-date = 10 January 2015 | url-status = dead | df = dmy-all }}</ref>
+
+Fourth placed candidate Milan Kujundžić implicitly endorsed Grabar-Kitarović during his concession speech on the first-round election night stating that "Croatia will get a new president".<ref>{{cite web| url =http://www.tportal.hr/vijesti/predsjednicki-izbori-2014/364090/Kujundzic-Sjeme-nove-Hrvatske-je-baceno.html| title = Kujundžić: Sjeme nove Hrvatske je bačeno | date = 28 December 2014 | work = tportal.hr | language = hr}}</ref> The Croatian Party of Rights which had backed Kujundžić subsequently endorsed Grabar-Kitarović.
+
+Grabar-Kitarović entered the second round as only the second woman to do so after [[Jadranka Kosor]] in 2005, and attempting to be the first to win the presidency. In prime minister Milanović's new-year interview with [[RTL Televizija|RTL]] he referred to her as a "prima ballerina" in the previous HDZ government when she served as minister.<ref>{{cite web| url =http://www.rtl.hr/vijesti/novosti/1466120/tko-je-koliko-letio-vladinim-zrakoplovom/| title = Tko je koliko letio Vladinim zrakoplovom? | date = 4 January 2015 | work = RTL | language = hr}}</ref> In the interview Milanović also referred to Croatian Catholic bishops as "the most backward in Europe" and referred to Orthodox Christmas as the only non-working day in the coming weeks, despite Ephipany being celebrated as a national non-working holiday on 6 January and Orthodox Christmas being an optional non-working holiday reserved for those Orthodox observing it.<ref>{{cite web| url =http://www.rtl.hr/vijesti/novosti/1464998/milanovic-glogoski-me-je-molio-da-ne-otkrijem-da-je-bio-kod-mene/| title = Milanović: Glogoški me je molio da ne otkrijem da je bio kod mene | date = 3 January 2015 | work = RTL | language = hr}}</ref>
+
+Josipović continued with some events in his presidential role during the campaign. On 6 January he was to attend the Serbian National Council's Christmas party. Traditionally, the event is attended by the president although Josipović had last been in 2012 after a falling-out with the head of the council [[Milorad Pupovac]].<ref>{{cite web| url =http://www.index.hr/vijesti/clanak/sve-za-glasove-nakon-tri-godine-josipovic-ide-na-pupovcev-domjenak/793439.aspx| title = Sve za glasove: Nakon tri godine Josipović ide na Pupovčev domjenak | date = 5 January 2015 | work = Index.hr | language = hr}}</ref><ref>{{cite web| url =http://www.vecernji.hr/hrvatska/karamarko-nece-pupovcu-u-goste-982489| title = Karamarko neće Pupovcu u goste | date = 5 January 2015 | work = Večernji list | language = hr}}</ref>
+
+===Campaign spending===
+{| class="wikitable sortable" style="font:bold"
+! colspan=2 | Candidate (Party)
+! Amount spent
+- until December 28 <ref>{{cite web|url=http://www.tportal.hr/vijesti/predsjednicki-izbori-2014/364321/Josipovic-svaki-glas-platio-24-puta-vise-nego-Sincic.html | title=Josipović svaki glas platio 24 puta više nego Sinčić | publisher=tportal.hr | date= 31 December 2014| access-date=5 January 2015}}</ref>
+! Votes
+! Average spent per vote
+|-
+| style="background: red" | &nbsp;
+| Ivo Josipović (SDP supported)
+| 5,400,000
+| 687,558
+| 7.8
+|-
+| style="background: blue" | &nbsp;
+| Kolinda Grabar-Kitarović (HDZ)
+| 2,500,000
+| 665,309
+| 3.8
+|-
+| style="background: lightblue" | &nbsp;
+| Milan Kujundžić (SZH)
+| 390,806
+| 112,581
+| 3.5
+|-
+| style="background-color:{{party color|Human Blockade}}" | &nbsp;
+| Ivan Sinčić (Živi zid)
+| 92,627
+| 293,562
+| 0.32
+|}
+
+===Debates - Second round===
+Grabar-Kitarović and Josipović were scheduled to have three head-to-head debates before the second round:<ref>{{cite web| url =http://www.tportal.hr/vijesti/predsjednicki-izbori-2014/364264/HRT-jos-ne-zna-tko-ce-biti-njihov-Bobic-i-Bago.html| title = HRT još ne zna tko će biti njihov Bobić i Bago | date = 30 December 2014 | work = tportal.hr | language = hr}}</ref> 
+*[[RTL Televizija]] - Sunday January 4. The debate was watched by over 805,000 people.<ref>{{cite web | url = http://www.rtl.hr/vijesti/novosti/predsjednicki-izbori/1467188/rtl-duel-pratilo-vise-od-800000-gledatelja/l | title = RTL Duel pratilo više od 800.000 gledatelja | date = 5 January 2015 | work = RTL | language = hr }}{{Dead link|date=April 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> 
+*[[Nova TV (Croatia)|Nova TV]] - Thursday January 8
+*[[Croatian Radiotelevision]] - Friday January 9
+
+==Opinion polls==
+
+===First round===
+{| class="wikitable" style="text-align:center;font-size:85%;"
+|-
+! rowspan=2 | '''Date(s) Conducted'''
+! rowspan=2 | '''Polling Organisation/Client'''
+! [[Ivo Josipović]]
+! [[Kolinda Grabar-Kitarović]]
+! [[Milan Kujundžić]]
+! [[Ivan Sinčić]]
+! Others
+! Undecided / none
+|-
+| style="background: {{party color|Social Democratic Party of Croatia|SDP}}" |
+| style="background: {{party color|Croatian Democratic Union}}" |
+| style="background: {{party color|Alliance for Croatia}}"|
+| style="background: {{party color|Human Blockade}}" |
+| style="background: none" |
+| style="background: none" |
+|-
+|28 Dec || Exit polls || style="background: #F9C8CA" |'''38.8%''' || 38.1% || 5.7% ||15.9% || || 
+|-
+|22 Dec || [http://direktno.hr/direkt/kolinda-osvaja-4258-glasova-josipovic-zaostaje-za-vise-od-dva-posto-5091/ 2x1 komunikacije]{{Dead link|date=September 2022 |bot=InternetArchiveBot |fix-attempted=yes }} || 40.48% || style="background:#B3E0FF"|'''42.48%''' || 12.90% || 4.04% || || 
+|-
+|19 Dec || [http://dnevnik.hr/vijesti/hrvatska/predsjednicki-izbori-2014-2015-ekskluzivno-istrazivanje-dnevnika-nove-tv-predsjednicki-izbori---365581.html Ipsos plus for Novatv] || style="background: #F9C8CA" |'''46.5%''' || 34.9% || 7.2% || 9.2% || || 
+|-
+|18 Dec || [http://www.rtl.hr/vijesti/novosti/1447600/rtl-anketa-josipovic-i-kolinda-u-drugi-krug-sincic-veliko-iznenadjenje/ Promocija Plus for RTL] || style="background: #F9C8CA" |'''42.1%''' || 30.5% || 9.3% ||7.5% || || 10.6%
+|-
+|4 Dec || [http://www.rtl.hr/vijesti/novosti/1430160/rtl-anketa-josipovicu-pada-podrska-kolindi-i-kujundzicu-raste/ Promocija plus for RTL] || style="background: #F9C8CA" |'''42.3%''' || 28.3% || 11.2% || || 9.5% || 8.7%
+|-
+|6 Sep || [https://web.archive.org/web/20150101163643/http://vijesti.hrt.hr/josipovic-u-vodstvu-grabar-kitarovic-zaostaje Promocija plus] || style="background: #F9C8CA" |'''48.9%''' || 32.5% || 6.8% || || ||
+|-
+|4 Sep || [http://www.politikaplus.com/novost/109369/ekskluzivno-josipovic-455-grabar-kitarovic-309-aktualni-predsjednik-i-dalje-favorit Ipsos puls] || style="background: #F9C8CA"|'''45.5%''' || 30.9% || 2.1% || || 9.4% || 12.1%
+|-
+|4 Aug || [https://web.archive.org/web/20141223011117/http://vijesti.hrt.hr/cro-demoskop-pala-popularnost-josipovica-i-grabar-kitarovic Promocija plus] || style="background: #F9C8CA" |'''48.4%'''|| 33.6% || 4.8% || || 3.2% || 10.0%
+|-
+|1–3 Jul || [https://web.archive.org/web/20141223004938/http://vijesti.hrt.hr/josipovicu-popularnost-pada-a-grabar-kitarovic-raste Promocija plus] || style="background: #F9C8CA" |'''49.2%''' || 35.2% || 4.3% || || 1.8% || 9.4%
+|-
+|June || [https://web.archive.org/web/20141223004938/http://vijesti.hrt.hr/josipovicu-popularnost-pada-a-grabar-kitarovic-raste Promocija plus] || style="background: #F9C8CA" |'''50.1%''' || 29.2% || 6.2% || || 4.8% || 9.6%
+|-
+|June || [http://dnevnik.hr/vijesti/hrvatska/donosimo-prve-reakcije-hdz-a-i-sdp-a-na-nase-istrazivanje-o-kolindi-grabar-kitarovic-i-ivi-josipovicu---340478.html Ipsos puls] || style="background: #F9C8CA" |'''50.3%''' || 37.3% || || || || 12.4%
+|-
+|May || [https://web.archive.org/web/20141223004938/http://vijesti.hrt.hr/josipovicu-popularnost-pada-a-grabar-kitarovic-raste Promocija plus] || style="background: #F9C8CA" |'''52.5%''' || 27.0% || 6.1% || || 5.9% || 8.6%
+|-
+|April || [https://web.archive.org/web/20141223004938/http://vijesti.hrt.hr/josipovicu-popularnost-pada-a-grabar-kitarovic-raste Promocija plus] || style="background: #F9C8CA" |'''51.6%''' || 27.2% || 4.5% || || 8.6% || 8.2%
+|-
+|March || [https://web.archive.org/web/20141223004938/http://vijesti.hrt.hr/josipovicu-popularnost-pada-a-grabar-kitarovic-raste Promocija plus] || style="background: #F9C8CA" |'''52.2%''' || 28.4% || || || 8.8% ||10.7%
+|-
+|February || [https://web.archive.org/web/20141223004938/http://vijesti.hrt.hr/josipovicu-popularnost-pada-a-grabar-kitarovic-raste Promocija plus] || style="background: #F9C8CA" |'''54.0%''' || 24.0% || || || 10.3% || 11.7%
+|-
+|January || [https://web.archive.org/web/20141223004938/http://vijesti.hrt.hr/josipovicu-popularnost-pada-a-grabar-kitarovic-raste Promocija plus] || style="background: #F9C8CA" |'''51.7%''' || 17.4% || || || 19.9% || 11.0%
+|}
+
+===Second round===
+{| class="wikitable" style="text-align:center;font-size:85%;"
+|-
+! rowspan=2 | '''Date(s) Conducted'''
+! rowspan=2 | '''Polling Organisation/Client'''
+! [[Ivo Josipović]]
+! [[Kolinda Grabar-Kitarović]]
+! Undecided
+|-
+| style="background: {{party color|Social Democratic Party of Croatia|SDP}}" |
+| style="background: {{party color|Croatian Democratic Union}}" |
+| style="background: none" |
+|-
+|11 Jan || Exit polls || 48.6% || style="background:#B3E0FF"|'''51.4%''' || 0% 
+|-
+|7 Jan || [https://www.vecernji.hr/vijesti/agencija-2x1-komunikacije-vrlo-blizu-konacnim-izbornim-rezultatima-983705 2x1 komunikacije] || 47.7% || style="background:#B3E0FF"|'''52.3%''' || 0%
+|-
+|18 Dec || [http://www.rtl.hr/vijesti/novosti/1447600/rtl-anketa-josipovic-i-kolinda-u-drugi-krug-sincic-veliko-iznenadjenje/ Promocija Plus for RTL] || style="background: #F9C8CA"|'''52.0%''' || 41.3% || 6.7% 
+|-
+|4 Dec || [http://www.rtl.hr/vijesti/novosti/1430160/rtl-anketa-josipovicu-pada-podrska-kolindi-i-kujundzicu-raste/ Promocija plus for RTL] || style="background: #F9C8CA"|'''50.9%''' || 41.4% || 7.7%
+|}
+
+==Conduct==
+*Candidate's observers - first round:<ref>{{cite web| url = http://www.tportal.hr/vijesti/predsjednicki-izbori-2014/363836/Izbore-ce-nadgledati-22-tisuce-promatraca.html| title = Izbore će nadgledati 22 tisuće promatrača | date = 24 December 2014 | work = tportal.hr | language = hr}}</ref> 
+**Kolinda Grabar-Kitarović - 9,700
+**Ivo Josipović - 8,728
+**Milan Kujundžić - 1,875
+**Ivan Sinčić - 362
+*Political parties' observers - first round:
+**Sustainable Development of Croatia (endorsing Josipović) - 191
+**Croatian Peasant Party (endorsing Grabar-Kitarović) - 52
+**Croatian People's Party (endorsing Josipović) - 17
+*Non-governmental observers - first round:
+**In the Name of the Family - 682
+**Observer (Promatrač) organization - 53
+**Student Catholic Centre Palma - 39
+**[[GONG (organization)|GONG]] - 15
+**Croatian Responsible Society - 5
+*Non-governmental observers - second round:<ref>{{cite web| url = http://dnevnik.hr/vijesti/hrvatska/predsjednicki-izbori-2014-2015-vise-promatraca-iz-nevladinih-udruga---367438.html| title = Na izborima više promatrača iz nevladinih udruga | date = 5 January 2015 | work = dnevnik.hr | language = hr}}</ref>
+**In the Name of the Family - 845
+**Observer (Promatrač) organization - 53
+**[[GONG (organization)|GONG]] - 15
+**Croatian Responsible Society - 5
+
+==Results==
+[[File:Croatia 2014 map results.PNG|right|thumb|Results of the first round in all of Croatia's counties: the candidate with the plurality of votes in each administrative division.{{legend|#C3C3C3|Josipović}} {{legend|#005AAB|Grabar-Kitarović}}]]
+<onlyinclude>{{Election results
+|cand1=[[Ivo Josipović]]|party1=Independent ([[Social Democratic Party of Croatia|SDP]])|votes1=687678|votes1_2=1082436
+|cand2=[[Kolinda Grabar-Kitarović]]|party2=[[Croatian Democratic Union]]|votes2=665379|votes2_2=1114945
+|cand3=[[Ivan Vilibor Sinčić]]|party3=[[Human Shield (political party)|Human Shield]]|votes3=293570
+|cand4=[[Milan Kujundžić]]|party4=[[Alliance for Croatia]]|votes4=112585
+|invalid=27791|invalid2=60728
+|votes6_2=2258887
+|electorate=3794293|electorate2=3825242
+|source=[https://www.izbori.hr/arhiva-izbora/index.html#/app/predsjednik-2014 Izbori Hrvatska]
+}}</onlyinclude>
+
+===First round results by county===
+{| class="wikitable sortable" style=text-align:right
+!rowspan=2|County
+!rowspan=2|Electorate
+!rowspan=2|Total<br />votes
+!rowspan=2|Turnout
+!colspan=2|Josipović
+!colspan=2|Grabar-Kitarović
+!colspan=2|Sinčić
+!colspan=2|Kujundžić
+|-
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+|-
+| align=left|[[Bjelovar-Bilogora County|Bjelovar-Bilogora]]
+| 101,494
+| 45,071
+| 44.41%
+| style="background:#F9C8CA;"|17,602
+| style="background:#F9C8CA;"|39.05%
+| 16,652
+| 36.94%
+| 7,906
+| 17.54%
+| 2,371
+| 5.26%
+|-
+| align=left|[[Brod-Posavina County|Brod-Posavina]]
+| 140,575
+| 66,164
+| 47.07%
+| 21,194
+| 32.03%
+| style="background:#B3E0FF"|29,811
+| style="background:#B3E0FF"|45.05%
+| 10,609
+| 16.03%
+| 3,478
+| 5.26%
+|-
+| align=left|[[Dubrovnik-Neretva County|Dubrovnik-Neretva]]
+| 108,910
+| 53,412
+| 49.04%
+| 18,263
+| 34.19%
+| style="background:#B3E0FF"|22,205
+| style="background:#B3E0FF"|41.57%
+| 8,026
+| 15.02%
+| 3,994
+| 7.38%
+|-
+| align=left|[[Istria County|Istria]]
+| 188,659
+| 85,335
+| 45.23%
+| style="background:#F9C8CA;"|52,966
+| style="background:#F9C8CA;"|62.05%
+| 12,148
+| 14.23%
+| 17,144
+| 20.08%
+| 1,869
+| 2.19%
+|-
+| align=left|[[Karlovac County|Karlovac]]
+| 115,725
+| 56,420
+| 48.75%
+| 19,140
+| 33.92%
+| style="background:#B3E0FF"|24,142
+| style="background:#B3E0FF"|42.78%
+| 10,025
+| 17.77%
+| 2,445
+| 4.33%
+|-
+| align=left|[[Koprivnica-Križevci County|Koprivnica-Križevci]]
+| 95,289
+| 43,822
+| 45.99%
+| style="background:#F9C8CA;"|18,287
+| style="background:#F9C8CA;"|41.72%
+| 15,193
+| 34.66%
+| 7,689
+| 17.54%
+| 2,123
+| 4.84%
+|-
+| align=left|[[Krapina-Zagorje County|Krapina-Zagorje]]
+| 109,617
+| 45,720
+| 41.71%
+| style="background:#F9C8CA;"|18,220
+| style="background:#F9C8CA;"|39.85%
+| 16,306
+| 35.66%
+| 8,555
+| 18.71%
+| 2,011
+| 4.40%
+|-
+| align=left|[[Lika-Senj County|Lika-Senj]]
+| 46,741
+| 21,701
+| 46.43%
+| 5,678
+| 26.16%
+| style="background:#B3E0FF"|12,171
+| style="background:#B3E0FF"|56.06%
+| 2,202
+| 10.14%
+| 1,394
+| 6.42%
+|-
+| align=left|[[Međimurje County|Međimurje]]
+| 96,394
+| 46,612
+| 48.36%
+| style="background:#F9C8CA;"|27,630
+| style="background:#F9C8CA;"|59.27%
+| 9,627
+| 20.65%
+| 7,458
+| 16.00%
+| 1,413
+| 3.03%
+|-
+| align=left|[[Osijek-Baranja County|Osijek-Baranja]]
+| 261,730
+| 118,379
+| 45.23%
+| 40,380
+| 34.09%
+| style="background:#B3E0FF"|47,279
+| style="background:#B3E0FF"|39.91%
+| 22,451
+| 18.95%
+| 6,754
+| 5.70%
+|-
+| align=left|[[Požega-Slavonia County|Požega-Slavonia]]
+| 67,852
+| 35,880
+| 52.88%
+| 12,555
+| 34.99%
+| style="background:#B3E0FF"|15,342
+| style="background:#B3E0FF"|42.75%
+| 5,298
+| 14.76%
+| 2,181
+| 6.08%
+|-
+| align=left|[[Primorje-Gorski Kotar County|Primorje-Gorski Kotar]]
+| 268,824
+| 119,107
+| 44.31%
+| style="background:#F9C8CA;"|58,280
+| style="background:#F9C8CA;"|48.91%
+| 34,882
+| 29.27%
+| 20,676
+| 17.35%
+| 3,490
+| 2.93%
+|-
+| align=left|[[Sisak-Moslavina County|Sisak-Moslavina]]
+| 152,358
+| 64,487
+| 42.33%
+| 23,002
+| 35.66%
+| style="background:#B3E0FF"|26,201	
+| style="background:#B3E0FF"|40.62%
+| 10,533	
+| 16.33%
+| 3,972
+| 6.16%
+|-
+| align=left|[[Split-Dalmatia County|Split-Dalmatia]]
+| 408,023
+| 204,869
+| 50.21%
+| 61,441
+| 29.96%
+| style="background:#B3E0FF"|80,732
+| style="background:#B3E0FF"|39.37%
+| 31,194
+| 15.21%
+| 27,980
+| 13.65%
+|-
+| align=left|[[Šibenik-Knin County|Šibenik-Knin]]
+| 104,976
+| 48,340
+| 46.05%
+| 15,165
+| 35.46%
+| style="background:#B3E0FF"|21,763
+| style="background:#B3E0FF"|45.00%
+| 6,913
+| 14.30%
+| 3,736
+| 7.73%
+|-
+| align=left|[[Varaždin County|Varaždin]]
+| 146,489
+| 70,790
+| 48.32%
+| style="background:#F9C8CA;"|35,589	
+| style="background:#F9C8CA;"|50.26%
+| 19,286
+| 27.24%
+| 12,682
+| 17.91%
+| 2,282
+| 3.22%
+|-
+| align=left|[[Virovitica-Podravina County|Virovitica-Podravina]]
+| 72,864
+| 34,841
+| 47.82%
+| 12,577
+| 36.09%
+| style="background:#B3E0FF"|15,002
+| style="background:#B3E0FF"|43.04%
+| 5,101
+| 14.64%
+| 1,685
+| 4.83%
+|-
+| align=left|[[Vukovar-Syrmia County|Vukovar-Syrmia]]
+| 158,872
+| 70,673
+| 44.48%
+| 21,705
+| 30.70%
+| style="background:#B3E0FF"|35,013	
+| style="background:#B3E0FF"|49.52%
+| 10,120
+| 14.31%
+| 2,837
+| 4.01%
+|-
+| align=left|[[Zadar County|Zadar]]
+| 165,454
+| 71,178
+| 43.02%
+| 23,630
+| 33.18%
+| style="background:#B3E0FF"|30,766
+| style="background:#B3E0FF"|43.20%
+| 10,831
+| 15.21%
+| 4,722
+| 6.63%
+|-
+| align=left|[[Zagreb County]]
+| 272,633
+| 128,111
+| 46.99%
+| 47,104
+| 36.75%
+| style="background:#B3E0FF"|47,287
+| style="background:#B3E0FF"|36.90%
+| 23,714
+| 18.50%
+| 7,917
+| 6.18%
+|-
+| align=left|[[Zagreb|City of Zagreb]]
+| 690,208
+| 335,490
+| 48.61%
+| style="background:#F9C8CA;"|134,915
+| style="background:#F9C8CA;"|40.17%
+| 117,673
+| 35.04%
+| 53,821
+| 16.03%
+| 22,332
+| 6.65%
+|-
+| align=left|[[Croatian diaspora|Voting abroad]]
+| –
+| 20,601
+| –
+| 2,355
+| 11.43%
+| style="background:#B3E0FF"|15,898
+| style="background:#B3E0FF"|77.15%
+| 1,649
+| 8.00%
+| 622
+| 3.02%
+|-class="sortbottom"
+| align=left|'''TOTAL'''
+| 3,794,293
+| 1,787,928
+| 47.12%
+| style="background:#F9C8CA;"|'''687,678'''
+| style="background:#F9C8CA;"|'''38.46%'''
+| '''665,379'''
+| '''37.22%'''
+| 293,570
+| 16.42%
+| 112,585
+| 6.30%
+|-class="sortbottom"
+| colspan=12 align=left|Source: State Electoral Commission<ref name="SEC-results">{{cite web|url=https://www.izbori.hr/arhiva-izbora/#/app/predsjednik-2014|title=IZBORI ZA PREDSJEDNIKA REPUBLIKE HRVATSKE (28.12.2014.)|work=izbori.hr|language=hr|access-date=20 March 2019}}</ref>
+|-
+|}
+
+===Second round results by county===
+[[File:Predsjednički izbori u Hrvatskoj 2015.png|thumb|Results of the election based on the majority of votes in each [[Municipalities of Croatia|municipality of Croatia]]<br />
+{{Legend2|{{party color|Croatian Democratic Union}}|[[Kolinda Grabar-Kitarović]]}}<br />
+{{Legend2|{{party color|Social Democratic Party of Croatia}}|[[Ivo Josipović]]}}<br />
+{{legend2|#eeece9|Tie}}]]
+[[File:Predsjednički izbori u Hrvatskoj 2015, postotak glasova.svg|thumb|Results by municipality, shaded according to winning candidate's percentage of the vote.<br />
+{{legend2|#093f91|Grabar-Kitarović—>90%}}<br />{{legend2|#1d5bb8|Grabar-Kitarović—80–90%}}<br />{{legend2|#1f6de0|Grabar-Kitarović—70–80%}}<br />{{legend2|#74a2e8|Grabar-Kitarović—60–70%}}<br />{{legend2|#b6cdf0|Grabar-Kitarović—50–60%}}<br />{{legend2|#eeece9|Tie}}<br />{{legend2|#f0b6b6|Josipović—50–60%}}<br />{{legend2|#e87474|Josipović—60–70%}}<br />{{legend2|#e01f1f|Josipović—70–80%}}<br />{{legend2|#b81d1d|Josipović—80–90%}}<br />{{legend2|#910909|Josipović—>90%}}]]
+{| class="wikitable sortable" style=text-align:right
+!rowspan=2|County
+!rowspan=2|Electorate
+!rowspan=2|Total<br />votes
+!rowspan=2|Turnout
+!colspan=2|Grabar-Kitarović
+!colspan=2|Josipović
+|-
+!Votes
+!%
+!Votes
+!%
+|-
+| align=left|[[Bjelovar-Bilogora County|Bjelovar-Bilogora]]
+| 101,897
+| 58,988
+| 57.89%
+| style="background:#B3E0FF"|'''28,846'''
+| style="background:#B3E0FF"|'''50.11%'''
+| 28,722
+| 49.89%
+|-
+| align=left|[[Brod-Posavina County|Brod-Posavina]]
+| 141,045
+| 77,573
+| 55.00%
+| style="background:#B3E0FF"|'''44,928'''
+| style="background:#B3E0FF"|'''59.59%'''
+| 30,470
+| 40.41%
+|-
+| align=left|[[Dubrovnik-Neretva County|Dubrovnik-Neretva]]
+| 109,308
+| 65,029
+| 59.49%
+| style="background:#B3E0FF"|'''36,641'''
+| style="background:#B3E0FF"|'''57.97%'''
+| 26,566
+| 42.03%
+|-
+| align=left|[[Istria County|Istria]]
+| 189,129
+| 105,618	
+| 55.84%
+| 21,152
+| 20.53%
+| style="background:#F9C8CA;"|'''81,888'''
+| style="background:#F9C8CA;"|'''79.47%'''
+|-
+| align=left|[[Karlovac County|Karlovac]]
+| 116,112
+| 69,849
+|60.16%
+| style="background:#B3E0FF"|'''38,072'''
+| style="background:#B3E0FF"|'''55.92%'''
+| 30,017
+| 44.08%
+|-
+| align=left|[[Koprivnica-Križevci County|Koprivnica-Križevci]]
+| 95,720	
+| 56,262
+| 58.78%
+| 25,579
+| 46.57%
+| style="background:#F9C8CA;"|'''29,344'''	
+| style="background:#F9C8CA;"|'''53.43%'''
+|-
+| align=left|[[Krapina-Zagorje County|Krapina-Zagorje]]
+| 110,082
+| 65,029
+| 59.07%
+| 29,758
+| 47.05%
+| style="background:#F9C8CA;"|'''33,492'''
+| style="background:#F9C8CA;"|'''52.95%'''
+|-
+| align=left|[[Lika-Senj County|Lika-Senj]]
+| 46,979
+| 27,695
+| 58.95%
+| style="background:#B3E0FF"|'''18,230'''
+| style="background:#B3E0FF"|'''67.11%'''
+| 8,933
+| 32.89%
+|-
+| align=left|[[Međimurje County|Međimurje]]
+| 96,666
+| 57,884	
+| 59.88%
+| 15,581
+| 27.40%
+| style="background:#F9C8CA;"|'''41,283'''
+| style="background:#F9C8CA;"|'''72.60%'''
+|-
+| align=left|[[Osijek-Baranja County|Osijek-Baranja]]
+| 262,467
+| 149,631
+| 57.01%
+| style="background:#B3E0FF"|'''77,823'''
+| style="background:#B3E0FF"|'''53.50%'''
+| 67,638
+| 46.50%
+|-
+| align=left|[[Požega-Slavonia County|Požega-Slavonia]]
+| 68,143
+| 41,435
+| 60.81%
+| style="background:#B3E0FF"|'''22,780'''
+| style="background:#B3E0FF"|'''56.37%'''
+| 17,631
+| 43.63%
+|-
+| align=left|[[Primorje-Gorski Kotar County|Primorje-Gorski Kotar]]
+| 269,622	
+| 150,206
+| 55.71%
+| 56,153
+| 38.33%
+| style="background:#F9C8CA;"|'''90,361'''
+| style="background:#F9C8CA;"|'''61.67%'''
+|-
+| align=left|[[Sisak-Moslavina County|Sisak-Moslavina]]
+| 152,890
+| 84,233	
+| 55.09%
+| style="background:#B3E0FF"|'''44,079'''	
+| style="background:#B3E0FF"|'''53.72%'''
+| 37,967	
+| 46.28%
+|-
+| align=left|[[Split-Dalmatia County|Split-Dalmatia]]
+| 410,038
+| 248,000
+| 60.48%
+| style="background:#B3E0FF"|'''149,531'''
+| style="background:#B3E0FF"|'''62.12%'''
+| 91,174
+| 37.88%
+|-
+| align=left|[[Šibenik-Knin County|Šibenik-Knin]]
+| 105,511
+| 58,894
+| 55.82%
+| style="background:#B3E0FF"|'''33,876'''
+| style="background:#B3E0FF"|'''59.07%'''
+| 23,475	
+| 40.93%
+|-
+| align=left|[[Varaždin County|Varaždin]]
+| 147,026
+| 90,116
+| 61.29%
+| 31,440
+| 35.77%
+| style="background:#F9C8CA;"|'''56,443'''
+| style="background:#F9C8CA;"|'''64.23%'''
+|-
+| align=left|[[Virovitica-Podravina County|Virovitica-Podravina]]
+| 73,188
+| 44,771
+| 61.17%
+| style="background:#B3E0FF"|'''23,339'''
+| style="background:#B3E0FF"|'''53.50%'''
+| 20,287	
+| 46.50%
+|-
+| align=left|[[Vukovar-Syrmia County|Vukovar-Syrmia]]
+| 159,514
+| 88,558
+| 55.52%
+| style="background:#B3E0FF"|'''51,443'''	
+| style="background:#B3E0FF"|'''59.49%'''
+| 35,024	
+| 40.51%
+|-
+| align=left|[[Zadar County|Zadar]]
+| 166,194	
+| 87,358
+| 52.56%
+| style="background:#B3E0FF"|'''49,733'''
+| style="background:#B3E0FF"|'''58.54%'''
+| 35,226	
+| 41.46%
+|-
+| align=left|[[Zagreb County]]
+| 273,728	
+| 163,479
+| 59.72%
+| style="background:#B3E0FF"|'''81,651'''
+| style="background:#B3E0FF"|'''51.49%'''
+| 76,914
+| 48.51%
+|-
+| align=left|[[Zagreb|City of Zagreb]]
+| 692,780
+| 430,308
+| 62.11%
+| 200,573
+| 48.11%
+| style="background:#F9C8CA;"|'''216,290'''
+| style="background:#F9C8CA;"|'''51.89%'''
+|-
+| align=left|[[Croatian diaspora|Voting abroad]]
+| –
+| 37,193
+| –
+| style="background:#B3E0FF"|'''33,737'''
+| style="background:#B3E0FF"|'''91.11%'''
+| 3,291
+| 8.89%
+|-class="sortbottom"
+| align=left|'''TOTAL'''
+| 3,825,242
+| 2,258,109
+| 59.03%
+| style="background:#B3E0FF"|'''1,114,945'''
+| style="background:#B3E0FF"|'''50.74%'''
+| 1,082,436	
+| 49.26%
+|-class="sortbottom"
+| colspan=12 align=left|Source: State Electoral Commission<ref name="SEC-results"/>
+|}
+
+==Analysis==
+Incumbent president Ivo Josipović and opposition candidate Kolinda Grabar-Kitarović received the greatest number of votes in the first round. The result was notable for being much closer than expected in pre-election polls, with respective vote shares of 38.46% and 37.22%.<ref>{{cite web | url = http://www.jutarnji.hr/gdje-se-istopila-razlika--ankete-nisu-pogrijesile--rezultat-prvog-kruga-su-odlucila-tv-suceljavanja-/1264338/ | title = GDJE SE ISTOPILA RAZLIKA? 'Ankete nisu pogriješile, rezultat su odlučila TV sučeljavanja' | date = December 29, 2014 | work = [[Jutarnji list]] | language = hr | access-date = January 2, 2015 | archive-date = January 3, 2015 | archive-url = https://web.archive.org/web/20150103221002/http://www.jutarnji.hr/gdje-se-istopila-razlika--ankete-nisu-pogrijesile--rezultat-prvog-kruga-su-odlucila-tv-suceljavanja-/1264338/ | url-status = dead }}</ref> Political analyst [[Žarko Puhovski]] criticized the polls for having an inadequate sample and being overly reliant on telephone polling.<ref>{{cite web| url = http://www.vecernji.hr/predsjednicki-izbori2014/zasto-lazu-puhovski-ankete-se-rade-neozbiljno-i-zato-su-grijesile-981716| title = Zašto 'lažu'? Puhovski: Ankete se rade neozbiljno i zato su griješile | date = December 30, 2014 | work = [[Večernji list]] | language = hr}}</ref>
+
+The new electoral law put into place by the [[Cabinet of Zoran Milanović|Milanović government]] had the effect of greatly reducing the number of polling stations in neighbouring Bosnia and Herzegovina for Croatian citizens residing there. This translated to a greatly reduced turnout there: from 50,859 in the first round of the 2009 presidential elections to 7,372 in 2014.<ref>{{cite web | url = http://www.izbori.hr/2009Predsjednik/rezultati/r_00_9901.html | title = POTPUNI SLUŽBENI REZULTATI IZBORA ZA PREDSJEDNIKA REPUBLIKE HRVATSKE | date = December 28, 2009 | work = Državno izborno povjerenstvo | language = hr | access-date = January 3, 2015 | archive-date = January 4, 2015 | archive-url = https://web.archive.org/web/20150104004202/http://www.izbori.hr/2009Predsjednik/rezultati/r_00_9901.html | url-status = dead }}</ref><ref>{{cite web | url = http://www.izbori.hr/106pre/rezult/1/rezultati.html?zup=22&gio=9901 | title = Privremeni službeni rezultati izbora za predsjednika Republike Hrvatske | date = December 30, 2014 | work = Državno izborno povjerenstvo | language = hr | access-date = January 3, 2015 | archive-date = January 4, 2015 | archive-url = https://web.archive.org/web/20150104004712/http://www.izbori.hr/106pre/rezult/1/rezultati.html?zup=22&gio=9901 | url-status = dead }}</ref> The Croatian Democratic Union agreed with its [[Croatian Democratic Union of Bosnia and Herzegovina|sister party in Bosnia and Herzegovina]] on organizing free buses for voters to polling stations for the second round.<ref>{{cite web| url = http://www.vecernji.hr/predsjednicki-izbori2014/hdz-organizira-besplatni-prijevoz-autobusima-na-biralista-u-bih-982750| title = HDZ organizira besplatni prijevoz autobusima na birališta u BiH | date = 6 January 2015 | work = [[Večernji list]] | language = hr}}</ref> Kolinda Grabar-Kitarović had received an overwhelming majority there in the first round. Josipović's campaign complained to the State Electoral Commission that offering free rides to polling stations constituted a donation which would violate electoral rules.<ref>{{cite web| url =http://www.novilist.hr/Vijesti/Hrvatska/Josipovicev-stozer-zatrazio-od-DIP-a-da-ispita-dopustenost-prijevoza-biraca-do-biralista-u-BiH| title = Josipovićev stožer zatražio od DIP-a da ispita dopuštenost prijevoza birača do birališta u BiH | date = 7 January 2015 | work = Novi List | language = hr}}</ref> However, votes of the diaspora still wouldn't change the outcome.<ref>{{cite news|last=Pavković |first=Jozo |title=Dijaspora prvi put na strani pobjednika, ali nije presudila rezultat izbora |url=http://www.vecernji.hr/predsjednicki-izbori2014/dijaspora-prvi-put-na-strani-pobjednika-ali-nije-presudila-rezultat-izbora-983633 |newspaper=Večernji list |date=12 January 2015 |access-date=12 January 2015 |language=hr}}</ref>
+
+Around 60% of voters between ages 18 and 29 voted for Grabar-Kitarović, while Josipović was favoured by voters older than 60.<ref>{{cite news |last=Belak-Krile |first=Anita |title=NOVA GENERACIJA KONZERVATIVACA Oni ne pamte ni rat, ni SFRJ, slušaju narodnjake i izabrali su Kolindu |url=http://www.jutarnji.hr/oni-ne-pamte-ni-rat--ni-jugoslaviju--slusaju-narodnjake-i-aklamacijom-su-izabrali-kolindu/1274238/ |newspaper=Jutarnji list |date=14 January 2015 |access-date=15 January 2015 |language=hr |archive-date=15 January 2015 |archive-url=https://web.archive.org/web/20150115060525/http://www.jutarnji.hr/oni-ne-pamte-ni-rat--ni-jugoslaviju--slusaju-narodnjake-i-aklamacijom-su-izabrali-kolindu/1274238/ |url-status=dead }}</ref>
+
+==References==
+{{Reflist}}
+
+{{Croatian elections}}
+
+{{DEFAULTSORT:2014-15 Croatian presidential election}}
+[[Category:Presidential elections in Croatia]]
+[[Category:2014 elections in Europe|Croatia]]
+[[Category:2014 in Croatia|President]]
+[[Category:2014 elections in Croatia|President]]
+[[Category:2015 elections in Europe|Croatia]]
+[[Category:2015 in Croatia|President]]
+[[Category:2015 elections in Croatia|President]]
+[[Category:Modern history of Croatia]]
+[[Category:December 2014 in Europe|Croatia]]
+[[Category:January 2015 in Europe|Croatia]]

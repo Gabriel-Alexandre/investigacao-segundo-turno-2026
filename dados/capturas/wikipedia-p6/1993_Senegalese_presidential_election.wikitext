@@ -1,0 +1,62 @@
+{{Short description|none}}
+{{Infobox election
+| country = Senegal
+| type = presidential
+| election_date = 21 February 1993
+| previous_election = 1988 Senegalese general election
+| previous_year = 1988
+| next_election = 2000 Senegalese presidential election
+| next_year = 2000
+| turnout = 51.46% ({{decrease}} 7.31[[Percentage point|pp]])
+
+| image1 = Abdou Diouf 2008-08-27.jpg
+| candidate1 = '''[[Abdou Diouf]]'''
+| party1 = Socialist Party of Senegal
+| popular_vote1 = '''757,311'''
+| percentage1 = '''58.40%'''
+
+| image2 = Abdoulaye Wade 2011.jpg
+| candidate2 = [[Abdoulaye Wade]]
+| party2 = Senegalese Democratic Party
+| popular_vote2 = 415,295
+| percentage2 = 32.03%
+
+| title = [[President of Senegal|President]]
+| before_election = [[Abdou Diouf]]
+| before_party = Socialist Party of Senegal
+| after_election = [[Abdou Diouf]]
+| after_party = Socialist Party of Senegal
+}}{{Politics of Senegal}}
+
+Presidential elections were held in [[Senegal]] on 21 February 1993. Incumbent president [[Abdou Diouf]] of the [[Socialist Party of Senegal|Socialist Party]] defeated seven other candidates, receiving 58% of the vote. Voter turnout was 51%.<ref name=AED>[http://africanelections.tripod.com/sn.html Elections in Senegal] {{Webarchive|url=https://web.archive.org/web/20180831074737/http://africanelections.tripod.com/sn.html |date=2018-08-31 }} African Elections Database</ref>
+
+==Results==
+{{Election results
+|cand1=[[Abdou Diouf]]|party1=[[Socialist Party of Senegal|Socialist Party]]|votes1=757311
+|cand2=[[Abdoulaye Wade]]|party2=[[Senegalese Democratic Party]]|votes2=415295
+|cand3=[[Landing Savané]]|party3=[[And-Jëf/African Party for Democracy and Socialism]]|votes3=37787
+|cand4=[[Abdoulaye Bathily]]|party4=[[Democratic League/Movement for the Labour Party]]|votes4=31279
+|cand5=[[Iba Der Thiam]]|party5=[[Convention of Democrats and Patriots]]|votes5=20840
+|cand6=[[Madior Diouf]]|party6=[[National Democratic Rally (Senegal)|National Democratic Rally]]|votes6=12635
+|cand7=Mamadou Lô|party7=Independent|votes7=11058
+|cand8={{ill|Babacar Niang (politician)|fr|Babacar Niang|lt=Babacar Niang}}|party8={{ill|Party for the Liberation of the People|fr|Parti pour la libération du peuple}}|votes8=10450
+|invalid=15499
+|electorate=2549699
+|source=[https://dge.sn/wp-content/uploads/2024/09/Election-Presidentielle-1993-1.pdf Direction Générale des Élections]
+}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite journal |last=Villalón |first=Leonardo A. |year=1994 |title=Democratizing a (Quasi) Democracy: The Senegalese Elections of 1993 |journal=[[African Affairs]] |volume=93 |issue=371 |pages=163–193 |doi=10.1093/oxfordjournals.afraf.a098706 |jstor=723839 }}
+
+{{Senegalese elections}}
+
+[[Category:1993 elections in Africa|Senegal]]
+[[Category:Presidential elections in Senegal]]
+[[Category:1993 in Senegal|Presidential]]
+[[Category:February 1993 in Africa|Senegal]]
+
+{{Senegal-stub}}
+{{Africa-election-stub}}

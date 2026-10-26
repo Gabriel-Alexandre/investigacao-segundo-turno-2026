@@ -1,0 +1,58 @@
+{{Short description|none}}
+{{Infobox election
+| country = Moldova
+| flag_year = 1990
+| type = presidential
+| previous_election = 1991 Moldovan presidential election
+| previous_year = 1991
+| next_election = 2001 Moldovan presidential election
+| next_year = 2001
+| election_date = 17 November 1996 (first round) <br />1 December 1996 (second round)
+| image1 = Petru Lucinschi 2000.jpg
+| nominee1 = '''[[Petru Lucinschi]]'''
+| party1 = Independent politician
+| popular_vote1 = '''919,831'''
+| percentage1 = '''54.02%'''
+| image2 = Mircea Snegur 1996 (cropped).jpg
+| nominee2 = [[Mircea Snegur]]
+| party2 = Party of Rebirth and Conciliation of Moldova
+| popular_vote2 = 782,933
+| percentage2 = 45.98%
+| title = President
+| before_election = [[Mircea Snegur]]
+| before_party = [[Party of Rebirth and Conciliation of Moldova|PCRM]]
+| after_election = [[Petru Lucinschi]]
+| after_party = Independent politician
+| map_image = File:1996 Moldovan Presidential Election.svg
+}}
+
+Presidential elections were held in [[Moldova]] on 17 November 1996, with a second round on 1 December.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1330 {{ISBN|978-3-8329-5609-7}}</ref> Whilst incumbent President [[Mircea Snegur]] received the most votes in the first round, he was defeated in the second by [[Petru Lucinschi]].<ref>Nohlen & Stöver, p1343</ref> It was the first contested presidential election in Moldovan history, the first Moldovan presidential election in which an incumbent lost re-election, and the last direct presidential election until [[2016 Moldovan presidential election|2016]].
+
+==Results==
+{{Election results
+|cand1=[[Mircea Snegur]]|party1=[[Party of Rebirth and Conciliation of Moldova|Party of Rebirth and Conciliation]]|votes1=603652|votes1_2=782933
+|cand2=[[Petru Lucinschi]]|party2=Independent|votes2=430836|votes2_2=919831
+|cand3=[[Vladimir Voronin]]|party3=[[Party of Communists of the Republic of Moldova|Party of Communists]]|votes3=159393
+|cand4=[[Andrei Sangheli]]|party4=[[Agrarian Party of Moldova|Democratic Agrarian Party]]|votes4=147555
+|cand5=[[Valeriu Matei]]|party5=[[Party of Democratic Forces]]|votes5=138605
+|cand6={{ill|Marina Livițchi|ro}}|party6=Independent|votes6=33115
+|cand7=[[Anatol Plugaru]]|party7=Independent|votes7=28159
+|cand8=[[Iuliana Gorea-Costin]]|party8=Independent|votes8=9926
+|cand9=[[Veronica Abramciuc]]|party9=Independent|votes9=6619
+|invalid=76801|invalid2=45375
+|electorate=2399156|electorate2=2441074
+|source=Nohlen & Stöver
+}}
+
+==References==
+{{reflist}}
+
+{{Moldovan presidential elections}}
+{{Moldovan elections}}
+
+[[Category:1996 elections in Europe|Moldova]]
+[[Category:1996 elections in Moldova|Presidential]]
+[[Category:Presidential elections in Moldova]]
+
+
+{{Moldova-election-stub}}

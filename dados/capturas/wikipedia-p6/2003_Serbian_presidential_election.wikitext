@@ -1,0 +1,61 @@
+{{Short description|none}}
+{{EngvarB|date=December 2023}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox election
+| country = Serbia
+| flag_year = 1991
+| type = presidential
+| previous_election = December 2002 Serbian presidential election
+| previous_year = December&nbsp;2002
+| next_election = 2004 Serbian presidential election
+| next_year = 2004
+| election_date = 16 November 2003
+| turnout = 38.79% ({{decrease}} 6.37 [[percentage point|pp]])
+
+| image1 = Tomislav Nikolić 2 (cropped).jpg
+| candidate1 = '''[[Tomislav Nikolić]]'''
+| party1 = Serbian Radical Party
+| popular_vote1 = '''1,166,896'''
+| percentage1 = '''47.87%'''
+
+| image2 = Dragoljub Mićunović profile photo.jpg
+| candidate2 = [[Dragoljub Mićunović]]
+| party2 = Democratic Centre (Serbia)
+| alliance2 = Democratic Opposition of Serbia
+| popular_vote2 = 893,906
+| percentage2 = 36.67%
+
+| title = President
+| before_election = [[Nataša Mićić]] (acting)
+| before_party = [[Civic Alliance of Serbia|GSS]]
+| after_election = Election results annulled<br />[[Nataša Mićić]] (acting)
+| after_party = [[Civic Alliance of Serbia|GSS]]
+}}
+
+Presidential elections were held in [[Republic of Serbia (1990–2006)|Serbia]] on 16 November 2003,<ref>{{cite web|url=https://www.electionguide.org/elections/id/1908/|title=Republic of Serbia: Election for Serbian Presidency|website=IFES Election Guide}}</ref> a month before the [[2003 Serbian parliamentary election|December 2003 parliamentary election]].<ref>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1715 {{ISBN|978-3-8329-5609-7}}</ref> Although [[Tomislav Nikolić]] of the [[Serbian Radical Party]] received the most votes, the elections were invalidated as voter turnout was just 39%, less than the 50% threshold required by electoral law. As a result, [[2004 Serbian presidential election|fresh elections]] were held in June 2004.
+
+Two days after the election, the [[Democratic Opposition of Serbia]] coalition was dissolved.<ref>{{Cite web |date=18 November 2003 |title=DOS prestao da postoji - 2003-11-18 |url=https://www.glasamerike.net/a/a-34-a-2003-11-18-13-1-87061457/762195.html |access-date=30 December 2023 |website=Glas Amerike |language=sr}}</ref>
+
+== Results ==
+{{Election results
+|cand1=[[Tomislav Nikolić]]|party1=[[Serbian Radical Party]]|votes1=1166896
+|cand2=[[Dragoljub Mićunović]]|party2=[[Democratic Opposition of Serbia]]|votes2=893906
+|cand3=[[Velimir Ilić]]|party3=[[New Serbia (political party)|New Serbia]]|votes3=229229
+|cand4=[[Marijan Rističević]]|party4=[[People's Peasant Party]]|votes4=72105
+|cand5=[[Dragan Tomić (Serbian politician, born 1958)|Dragan Tomić]]|party5=[[Socialist People's Party (Serbia)|Socialist People's Party]]|votes5=54703
+|cand6=Radoslav Avlijaš|party6=[[Democratic Fatherland Party]]|votes6=20782|color6=#002366
+|invalid=86268
+|electorate=6506505
+|source=[http://psephos.adam-carr.net/countries/s/serbia/serbia2003.txt Psephos]
+}}
+
+== References ==
+{{Reflist}}
+
+{{Serbian elections}}
+[[Category:Presidential elections in Serbia]]
+[[Category:2003 elections in Europe|Serbia]]
+[[Category:2000s elections in Serbia]]
+[[Category:2003 in Serbia]]
+[[Category:Elections in Serbia and Montenegro]]
+[[Category:November 2003 in Europe|Serbia]]

@@ -1,0 +1,1392 @@
+{{Short description|none}}
+{{Use dmy dates|date=May 2017}}
+{{Infobox election
+| country = Uruguay
+| previous_election = 2014 Uruguayan presidential election
+| previous_year = 2014
+| next_election = 2024 Uruguayan general election
+| next_year = 2024
+| election_date = 27 October 2019 <br>24 November 2019 (runoff)
+| registered = 2,669,980
+| turnout = 90.13% (first round) {{decrease}} 0.38[[percentage point|pp]]<br />90.12% (second round) {{increase}} 1.54[[percentage point|pp]]
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+
+| image1 = Lacalle Pou 2019.jpg
+| nominee1 = '''[[Luis Alberto Lacalle Pou|Luis Lacalle Pou]]'''
+| party1 = [[National Party (Uruguay)|National]]
+| alliance1 = [[Coalición Republicana|Multicolor Coalition]]
+| running_mate1 = '''[[Beatriz Argimón]]'''
+| popular_vote1 ='''1,189,313'''
+| percentage1 = '''50.79%'''
+
+| image2 = Daniel_Martínez_(cropped).jpg
+| nominee2 = [[Daniel Martínez (politician)|Daniel Martínez]]
+| party2 = [[Socialist Party of Uruguay|Socialist]]
+| color2 = {{party color|Broad Front (Uruguay)}}
+| alliance2 = Broad Front (Uruguay)
+| running_mate2 =[[:w:es:Graciela Villar|Graciela Villar]]
+| popular_vote2 = 1,152,271
+| percentage2 = 49.21%
+
+| map_image = Map of 2019 Uruguayan presidential election.svg
+| map_caption = Results by department
+| title = President
+| before_election = [[Tabaré Vázquez]]
+| before_party = Broad Front (Uruguay)
+| after_election = [[Luis Alberto Lacalle Pou|Luis Lacalle Pou]]
+| after_party = [[National Party (Uruguay)|National]]
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| seats_for_election = All 99 seats in the Chamber of Representatives<br/>All 30 seats in the Senate
+
+| heading1 = Chamber of Representatives
+| party1 = Broad Front (Uruguay) | leader1 = [[Daniel Martínez (politician)|Daniel Martínez]] | percentage1 = 40.49 | seats1 = 42 | last_election1 = 50
+| party2 = [[National Party (Uruguay)|National]] | leader2 = [[Luis Alberto Lacalle Pou|Luis Lacalle Pou]] | percentage2 = 29.70 | seats2 = 30 | last_election2 = 32
+| party3 = [[Colorado Party (Uruguay)|Colorado]] | leader3 = [[Ernesto Talvi]] | percentage3 = 12.80 | seats3 = 13 | last_election3 = 13
+| party4 = Open Cabildo (Uruguay) | leader4 = {{nowrap|[[Guido Manini Ríos]]}} | percentage4 = 11.46 | seats4 = 11 | last_election4 = new | color4 = #FBC22B
+| party5 = Partido Ecologista Radical Intransigente | leader5 = [[César Vega (agronomist)|César Vega]] | percentage5 = 1.43 | seats5 = 1 | last_election5 = 0
+| party6 = Partido de la Gente | leader6 = [[Edgardo Novick]] | percentage6 = 1.12 | seats6 = 1 | last_election6 = new | color6 = #92D050
+| party7 = [[Independent Party (Uruguay)|Independent]] | leader7 = [[Pablo Mieres]] | percentage7 = 1.01 | seats7 = 1 | last_election7 = 3
+
+| heading8 = Senate
+| party8 = Broad Front (Uruguay) | leader8 = [[Daniel Martínez (politician)|Daniel Martínez]] | percentage8 = 40.49 | seats8 = 13 | last_election8 = 15
+| party9 = [[National Party (Uruguay)|National]] | leader9 = [[Luis Alberto Lacalle Pou|Luis Lacalle Pou]] | percentage9 = 29.70 | seats9 = 10 | last_election9 = 10
+| party10 = [[Colorado Party (Uruguay)|Colorado]] | leader10 = [[Ernesto Talvi]] | percentage10 = 12.80 | seats10 = 4 | last_election10 = 4
+| party11 = Open Cabildo (Uruguay) | leader11 = [[Guido Manini Ríos]] | percentage11 = 11.46 | seats11 = 3 | last_election11 = new |  color11 = #FBC22B
+
+}}}}}}
+{{Politics of Uruguay}}
+
+General elections were held in [[Uruguay]] on Sunday, 27 October 2019 to elect the [[President of Uruguay|President]] and [[General Assembly of Uruguay|General Assembly]]. As no presidential candidate received a majority in the first round of voting, a [[runoff election]] took place on 24 November.
+
+In the [[2014 Uruguayan general election|2014 elections]], the left-wing [[Broad Front (Uruguay)|Broad Front]] had won a third consecutive election with absolute majorities in both houses of the General Assembly. The Broad Front's term in office еarned support through the creation of a large welfare system, but at the same time was undermined by an increasing budget deficit, along with rising unemployment and a spike in violence. The election campaign focused primarily around the issue of crime, with each party proposing different solutions. A [[2019 Uruguayan constitutional referendum|constitutional referendum]] on amendments proposed by opposition senator [[Jorge Larrañaga]] was held alongside the elections. The amendments proposed the introduction of a National Guard and tougher security measures.<ref name=":0" /><ref>{{Cite news |url=https://www.bbc.com/news/world-latin-america-50138945 |title=Crime top concern in Uruguay's general election |date=27 October 2019 |access-date=2 November 2019 |language=en-GB}}</ref><ref>{{Cite news |url=https://www.bbc.com/news/world-latin-america-50207881 |title=Uruguay's presidential poll to go to second round |date=2019-10-28 |access-date=2019-11-02 |language=en-GB}}</ref>
+
+As incumbent president [[Tabaré Vázquez]] was unable to seek re-election due to constitutional term limits, the Broad Front nominated former Montevideo mayor [[Daniel Martínez (politician)|Daniel Martínez]] as its presidential candidate. The [[National Party (Uruguay)|National Party]] nominated its 2014 candidate [[Luis Lacalle Pou]], the [[Colorado Party (Uruguay)|Colorado Party]] nominated the economist [[Ernesto Talvi]], and the new [[Open Cabildo (Uruguay)|Open Cabildo]] party nominated former commander-in-chief of the Uruguayan Army, [[Guido Manini Ríos]].
+
+Heading into the elections, most opinion polls predicted a run-off between Martínez and Lacalle Pou, along with the loss of the Broad Front's congressional majority and the growth of Open Cabildo. In the first round of voting, the Broad Front saw its worst results since the [[1999 Uruguayan general election|1999 elections]], but Martínez still received the most votes in the 11-candidate field and qualified for the runoff along with Lacalle Pou, who subsequently received support from most of the eliminated opposition parties.<ref>{{Cite web |url=https://www.elpais.com.uy/informacion/politica/lea-borrador-acuerdo-coalicion-partidos-oposicion.html |title=Lea aquí el borrador del acuerdo de la coalición de los partidos de la oposición |website=Diario EL PAIS Uruguay |language=es |access-date=2019-11-01}}</ref> In the runoff, Lacalle Pou defeated Martínez by just over 37,000 votes in a tight race, with the final result only declared after the counting of [[absentee ballots]]. Martinez conceded defeat four days after the election, saying that the outstanding absentee ballots would not be enough to overcome Lacalle Pou's lead in preliminary results.<ref name=BBC>{{cite news |url=https://www.bbc.com/news/world-latin-america-50587029 |title=Uruguay election: Lacalle wins presidency as rival concedes |work=[[BBC News]] |date=28 November 2019|access-date=12 October 2020}}</ref>
+
+The elections marked the first loss for the Broad Front in a presidential election since 1999, with Lacalle Pou becoming the first National Party president since his father, [[Luis Alberto Lacalle|Luis Alberto Lacalle de Herrera]], who held office from 1990 to 1995.
+
+==Background==
+The [[2014 Uruguayan general election|2014 elections]] had resulted in a third consecutive victory for the [[Broad Front (Uruguay)|Broad Front]]. Former president [[Tabaré Vázquez]] was returned to office for a second non-consecutive term, having previously served as president from 2004 to 2009. The Broad Front also won an absolute majority in the General Assembly. Vázquez was ineligible to run again due to constitutional term limits. As a result, the governing Broad Front had to nominate a new candidate.
+
+The economy had seen continued growth since 2003, allowing the government to invest heavily in social programs, pensions and health care. However, improved poverty and inequality ratios came at the cost of a budget deficit that reached 4.8 percent of GDP by the end of August 2019. According to political analysts, the Broad Front was predicted to lose its congressional majority, which combined with an increase in the number of parties expected to win seats in Congress, would make coalition negotiations difficult.<ref name=":0">{{cite web|url=https://www.batimes.com.ar/news/latin-america/uruguays-left-wing-party-faces-its-toughest-election-in-15-years.phtml|title=Uruguays left-wing party faces its toughest election in 15 years|date=25 October 2019|publisher=Buenos Aires Times|url-status=dead|archive-url=https://web.archive.org/web/20191230000413/https://www.batimes.com.ar/news/latin-america/uruguays-left-wing-party-faces-its-toughest-election-in-15-years.phtml|archive-date=30 December 2019}}</ref>
+
+==Electoral system==
+The elections were held using the [[double simultaneous vote]] method, whereby voters cast a single vote for the party of their choice for all three of the Presidency, the Senate and the Chamber of Representatives.
+
+The [[President of Uruguay]] was elected using the [[two-round system]], with a run-off held when no candidate received 50% of the vote in the first round. The 30 members of the [[Senate of Uruguay|Senate]] were elected by proportional representation in a single nationwide constituency. The vice president, elected on the same ballot as the president, becomes president of the Senate, with their vote being the casting one when Senate votes are tied.<ref>[http://www.ipu.org/parline-e/reports/2342_B.htm Electoral system] IPU</ref> The 99 members of the [[Chamber of Representatives of Uruguay|Chamber of Representatives]] were elected by [[closed list]] proportional representation in 19 multi-member constituencies based on the [[Departments of Uruguay|departments]]. Seats were allocated using the [[highest averages method]].<ref>[http://www.ipu.org/parline-e/reports/2341_B.htm Electoral system] IPU</ref>
+
+==Presidential candidates==
+[[2019 Uruguayan presidential primaries|Presidential primaries]] were held on 30 June to select the candidates:<ref>[http://www.corteelectoral.gub.uy/gxpsites/page.aspx Comunicado de prensa de la Corte Electoral - 27 de julio de 2018] {{Webarchive|url=https://web.archive.org/web/20180807134012/http://www.corteelectoral.gub.uy/gxpsites/page.aspx |date=7 August 2018 }} Electoral Court</ref>
+{| class=wikitable
+! colspan="2" rowspan="2" |Party
+! colspan="2" rowspan="2" |Candidate
+! rowspan="2" |Ideology
+! colspan="2" |Previous result
+|-
+!Votes (%)
+!Seats
+|-
+|style="background:{{party color|Broad Front (Uruguay)}}"|
+|[[Broad Front (Uruguay)|Broad Front]]
+|[[File:Daniel Martínez (cropped).jpg|frameless|75x75px]]
+|[[Daniel Martínez (politician)|Daniel Martínez]]
+|[[Social democracy]]<br>[[Democratic socialism]]
+|47.81%
+|{{Composition bar|50|99|hex={{party color|Broad Front (Uruguay)}}}}{{Composition bar|15|30|hex={{party color|Broad Front (Uruguay)}}}}
+|-
+|style="background:{{party color|National Party (Uruguay)}}"|
+|[[National Party (Uruguay)|National Party]]
+|[[File:Lacalle Pou 2019.jpg|frameless|75x75px]]
+|[[Luis Alberto Lacalle Pou|Luis Lacalle Pou]]
+|[[Conservatism]]<br>[[Christian democracy]]
+|30.88%
+|{{Composition bar|32|99|hex={{party color|National Party (Uruguay)}}}}{{Composition bar|10|30|hex={{party color|National Party (Uruguay)}}}}
+|-
+|style="background:{{party color|Colorado Party (Uruguay)}}"|
+|[[Colorado Party (Uruguay)|Colorado Party]]
+|[[File:Ernestotalvi (cropped).jpg|frameless|81x81px]]
+|[[Ernesto Talvi]]
+|[[Liberalism]]
+|12.89%
+|{{Composition bar|13|99|hex={{party color|Colorado Party (Uruguay)}}}}{{Composition bar|4|30|hex={{party color|Colorado Party (Uruguay)}}}}
+|-
+|style="background:{{party color|Independent Party (Uruguay)}}"|
+|[[Independent Party (Uruguay)|Independent Party]]
+|[[File:Pablomieres.jpg|frameless|83x83px]]
+|[[Pablo Mieres]]
+|[[Christian humanism]]<br>[[Christian democracy]]
+|3.09%
+|{{Composition bar|3|99|hex={{party color|Independent Party (Uruguay)}}}}{{Composition bar|1|30|hex={{party color|Independent Party (Uruguay)}}}}
+|-
+|style="background:{{party color|Popular Unity (Uruguay)}}"|
+|[[Popular Unity (Uruguay)|Popular Unity]]
+|[[File:Gonzalo Abella.jpg|frameless|70x70px]]
+|[[:w:es:Gonzalo Abella|Gonzalo Abella]]
+|[[Marxism]]
+|1.13%
+|{{Composition bar|1|99}}{{Composition bar|0|30}}
+|-
+|style="background:{{party color|Partido Ecologista Radical Intransigente}}"|
+|[[Partido Ecologista Radical Intransigente]]
+|[[File:César Vega.jpg|frameless|70x70px]]
+|[[César Vega (agronomist)|César Vega]]
+|[[Green liberalism]]
+|0.75%
+|{{Composition bar|0|99}}{{Composition bar|0|30}}
+|-
+|style="background:{{party color|Workers' Party (Uruguay)}}"|
+|[[Workers' Party (Uruguay)|Workers' Party]]
+|[[File:Noimage.png|84x84px]]
+|Rafael Fernández
+|[[Trotskyism]]
+|0.14%
+|{{Composition bar|0|99}}{{Composition bar|0|30}}
+|-
+|style="background:#92D050"|
+|[[Party of the Folk]]
+|[[File:Edgardo Novick.jpg|frameless|55x55px]]
+|[[Edgardo Novick]]
+|[[Conservative liberalism]]<br>[[Neoliberalism]]
+| colspan="2" rowspan="4" style="text-align:center"| ''Did not contest''
+|-
+|style="background:#318C38"|
+|[[Green Animalist Party]]
+|[[File:Gustavo Salle.png|frameless|55x55px]]
+|[[Gustavo Salle]]
+|[[Green politics]]
+|-
+|style="background:#EE720E"|
+|[[Digital Party]]
+|[[File:Noimage.png|84x84px]]
+|Daniel Goldman
+|[[E-democracy]]
+|-
+|style="background:#FBC22B"|
+|[[Open Cabildo (Uruguay)|Open Cabildo]]
+|
+|[[Guido Manini Ríos]]
+|[[Right-wing populism]]<br>[[National conservatism]]
+|}
+
+== Campaign slogans ==
+{| class="wikitable" style="font-size:97%; text-align:left;"
+! colspan="2" |Candidate
+!Party
+!Original slogan
+!English translation
+!Ref
+|-
+|style="background:{{party color|Broad Front (Uruguay)}}"|
+|Daniel Martínez
+|Broad Front
+|''No perder lo Bueno, hacerlo mejor''
+|"Don't lose what is good, improve it"
+|<ref>{{Cite web|url=https://revistaforum.com.br/global/eleicoes-presidenciais-para-onde-vai-o-uruguai/|title=Eleições presidenciais: Para onde vai o Uruguai?|date=2019-10-27|website=Revista Fórum|language=pt-BR|access-date=2019-11-28}}</ref>
+|-
+|style="background:{{party color|National Party (Uruguay)}}"|
+|Luis Lacalle Pou
+|National Party
+|''Lo que nos une''
+|"What unites us"
+|<ref>{{Cite news|url=https://www.bbc.com/mundo/noticias-america-latina-50593831|title=Daniel Martínez reconoce la victoria de Luis Lacalle en las elecciones presidenciales de Uruguay|work=BBC|date=2019-11-28|access-date=2019-11-28|language=en-GB}}</ref>
+|-
+|style="background:{{party color|Colorado Party (Uruguay)}}"|
+|Ernesto Talvi
+|Colorado Party
+|''Un pequeño país modelo''
+|"A small model country"
+|<ref>{{Cite web|url=https://www.elpais.com.uy/informacion/politica/munoz-apunto-slogan-talvi-queremos-modelo-grande.html|title=Muñoz apuntó contra slogan de Talvi: "Nosotros queremos un modelo bien grande"|website=Diario EL PAIS Uruguay|language=es|access-date=2019-11-28}}</ref>
+|-
+|style="background:#92D050"|
+|Edgardo Novick
+|Party of the Folk
+| ''Tolerancia Cero''
+|"Zero Tolerance"
+|<ref>{{Cite web|url=https://www.elpais.com.uy/informacion/politica/intencion-voto-cabildo-abierto-posiciona-cuarta-fuerza-politica.html|title=Con 6% de intención de voto, Cabildo Abierto se posiciona como la cuarta fuerza política|website=Diario EL PAIS Uruguay|language=es|access-date=2019-11-28}}</ref>
+|}
+
+== Opinion polls==
+{{mw-datatable}}
+{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px;"
+!rowspan=2| Polling firm
+!rowspan=2| Fieldwork date
+! style="width:50px;" class="unsortable"| [[Broad Front (Uruguay)|FA]]
+! style="width:50px;" class="unsortable"| [[National Party (Uruguay)|PN]]
+! style="width:50px;" class="unsortable"| [[Colorado Party (Uruguay)|PC]]
+! style="width:50px;" class="unsortable"| [[Open Cabildo (Uruguay)|CA]]
+! style="width:50px;" class="unsortable"| [[Partido de la Gente|PG]]
+! style="width:50px;" class="unsortable"| [[Partido Independiente|PI]]
+! rowspan="2" style="width:70px;"| Others
+! rowspan="2" style="width:70px;"| Blank/{{abbr|Abs.|Abstention}}
+! rowspan="2" style="width:70px;"| Undecided
+! rowspan="2" style="width:30px;"| Lead
+|-
+! data-sort-type="number" style="background:{{party color|Broad Front (Uruguay)}}"|
+! data-sort-type="number" style="background:{{party color|National Party (Uruguay)}}"|
+! data-sort-type="number" style="background:{{party color|Colorado Party (Uruguay)}}"|
+! data-sort-type="number" style="background:#FBC22B"|
+! data-sort-type="number" style="background:#92D050"|
+! data-sort-type="number" style="background:{{party color|Independent Party (Uruguay)}}"|
+|-
+| Opción Consultores<ref>{{Cite web|url=http://www.opcion.com.uy/opinion-publica/intencion-de-voto-octubre-2019/|title=Intención de Voto Octubre 2019|language=es}}</ref>
+| October 2019
+| style="background:#C0DDF8;"| '''33%'''
+| 25%
+| 10%
+| 12%
+| {{N/A}}
+| 1%
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 8%
+|-
+| Radar<ref>{{Cite web|url=http://www.gruporadar.com.uy/01/02-10-2019-difundido-en-vtv-noticias-crece-manini-a-un-12-caen-martinez-lacalle-y-talvi-en-ese-orden/|title=Crece Manini a un 12%, caen Martínez, Lacalle y Talvi en ese orden|language=es|access-date=4 October 2019|archive-date=6 October 2019|archive-url=https://web.archive.org/web/20191006033302/http://www.gruporadar.com.uy/01/02-10-2019-difundido-en-vtv-noticias-crece-manini-a-un-12-caen-martinez-lacalle-y-talvi-en-ese-orden/|url-status=dead}}</ref>
+| October 2019
+| style="background:#C0DDF8;"| '''39%'''
+| 21%
+| 16%
+| 12%
+| 0.8%
+| 1.1%
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 8%
+|-
+| Opción Consultores<ref>{{Cite web|url=https://www.montevideo.com.uy/Noticias/Encuesta-de-Opcion-crecieron-levemente-el-FA-y-el-PN-descendio-el-PC-uc728993|title=Encuesta de Opción: crecieron levemente el FA y el PN, descendió el PC|language=es}}</ref>
+| September 2019
+| style="background:#C0DDF8;"| '''29%'''
+| 24%
+| 15%
+| 12%
+| 2%
+| 2%
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 8%
+|-
+| Factum<ref>{{cite web|url=http://www.opcion.com.uy/opinion-publica/escenarios-de-balotaje/|title=Escenarios de Balotaje}}</ref>
+| August 2019
+| style="background:#C0DDF8;"| '''37%'''
+| 26%
+| 19%
+| 9%
+| 2%
+| 2%
+| 18%
+| {{N/A}}
+| {{N/A}}
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 7%
+|-
+| Cifra<ref>{{cite web|url=https://sso.elpais.com.uy/cas/login?showAs=paywall&service=https://www.elpais.com.uy/cas-check|title=Inicio de sesión en El País|website=sso.elpais.com.uy|access-date=18 March 2019}}</ref>
+| February 2019
+| style="background:#C0DDF8;"| '''34%'''
+| 27%
+| 14%
+| 3%
+| 2%
+| -
+| 2%
+| 18%
+| -
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 7%
+|-
+| Factum<ref>{{cite web|url=http://www.2019.com.uy/factum-fa-38-pn-30-pc-16-pgente-5-pi-4up-2/|title=Factum: FA 38%; PN 30%; PC 16%; PGente 5%, PI 4%, UP 2%|date=26 February 2019|website=2019.com.uy|access-date=18 March 2019|archive-date=27 February 2019|archive-url=https://web.archive.org/web/20190227060210/http://www.2019.com.uy/factum-fa-38-pn-30-pc-16-pgente-5-pi-4up-2/|url-status=dead}}</ref>
+| February 2019
+| style="background:#C0DDF8;"| '''38%'''
+| 30%
+| 16%
+| 5%
+| 4%
+| 2%
+| {{N/A}}
+| 5%
+| {{N/A}}
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 8%
+|-
+| Radar<ref>{{cite web|url=https://www.vtv.com.uy/noticias/encuesta-de-grupo-radar-crecio-la-intencion-de-voto-del-frente-amplio/|title=Encuesta de Grupo Radar: Creció la intención de voto del Frente Amplio - VTV Noticias|date=12 February 2019|website=vtv.com.uy|access-date=18 March 2019}}</ref>
+| January/February 2019
+| style="background:#C0DDF8;"| '''37%'''
+| 28%
+| 13%
+| 3%
+| 2%
+| 1%
+| 2%
+| 7%
+| 7%
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 9%
+|-
+| Radar<ref>{{cite web|url=http://www.elpais.com.uy/informacion/politica/radar-fa-intencion-voto-cinco-puntos-partido-nacional.html|title=Para Radar, el FA está primero en intención de voto y a seis puntos del Partido Nacional|website=Diario EL PAIS Uruguay|access-date=18 March 2019}}</ref>
+| December 2018
+| style="background:#C0DDF8;"| '''33%'''
+| 27%
+| 12%
+| 4%
+| 3%
+| 1%
+| {{N/A}}
+| 9%
+| 9%
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 6%
+|-
+| Opción Consultores<ref>{{cite web|url=https://www.subrayado.com.uy/partido-nacional-supera-al-frente-amplio-segun-la-ultima-encuesta-opcion-consultores-n521887|title=Partido Nacional supera al Frente Amplio, según la última encuesta de Opción Consultores|website=subrayado.com.uy|access-date=18 March 2019}}</ref>
+| December 2018
+| 26%
+| style="background:#D4EDFF;"| '''27%'''
+| 12%
+| 5%
+| 5%
+| 2%. 
+| {{N/A}}
+| 11%
+| 12%
+| style="background-color:{{party color|National Party (Uruguay)}};"| 1%
+|-
+| Equipos<ref>{{cite web|url=http://www.elpais.com.uy/informacion/politica/encuesta-fa-cierra-abajo-blancos.html|title=Encuesta: FA cierra 2018 abajo de los blancos|website=Diario EL PAIS Uruguay|access-date=18 March 2019}}</ref> 
+| December 2018 
+| 30% 
+| style="background:#D4EDFF;"| '''34%''' 
+| 11% 
+| 1% 
+| 2% 
+| 1% 
+| 1%
+| 7%
+| 13%
+| class="unsortable" style="background-color:{{party color|National Party (Uruguay)}};"| 4%
+|-
+| Factum<ref>{{cite web|url=https://www.elobservador.com.uy/nota/colorados-duplican-su-intencion-de-voto-en-ultimo-semestre-tras-retorno-de-sanguinetti--2018112718521|title=Colorados duplican su intención de voto en último semestre tras retorno de Sanguinetti|website=El Observador|access-date=18 March 2019}}</ref> 
+| November 2018 
+| style="background:#C0DDF8;"| '''34%'''
+| 30% 
+| 16% 
+| 7% 
+| 6% 
+| 2% 
+| {{N/A}}
+| 5% 
+| {{N/A}}
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 4%
+|-
+| Radar<ref>{{cite web|url=http://www.gruporadar.com.uy/01/?p=2343|title=14-11-2018 – (difundido en VTV Noticias) Vuelve a crecer el FA, y Martínez supera a Lacalle por 9 puntos. Crece fuertemente el PC « Grupo Radar|website=gruporadar.com.uy|access-date=18 March 2019|archive-date=20 March 2019|archive-url=https://web.archive.org/web/20190320201850/http://www.gruporadar.com.uy/01/?p=2343|url-status=dead}}</ref> 
+| November 2018 
+| style="background:#C0DDF8;"| '''32%'''
+| 26% 
+| 13% 
+| 4% 
+| 3% 
+| {{N/A}}
+| 2%
+| 10%
+| 10%
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 6%
+|-
+| Cifra<ref>{{cite web|url=http://www.cifra.com.uy/index.php/2018/10/09/intencion-de-voto-si-las-elecciones-fueran-hoy-5/|title=INTENCIÓN DE VOTO "SI LAS ELECCIONES FUERAN HOY" - Cifra|website=cifra.com.uy|access-date=18 March 2019|archive-date=29 March 2019|archive-url=https://web.archive.org/web/20190329090109/http://www.cifra.com.uy/index.php/2018/10/09/intencion-de-voto-si-las-elecciones-fueran-hoy-5/|url-status=dead}}</ref> 
+| October 2018 
+| style="background:#C0DDF8;"| '''36%'''
+| 31% 
+| 9% 
+| 5% 
+| 6% 
+| 3% 
+| {{N/A}}
+| 10% 
+| {{N/A}}
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 5%
+|-
+| Factum<ref>{{Cite web | url=http://factum.uy/analisis/2018/ana180910.php |title=Los movimientos políticos que impactan en la intención de voto. Encuesta Nacional Factum del tercer trimestre de 2018 |language=es |website=Factum|url-status=dead|archive-url=https://web.archive.org/web/20180913002506/http://factum.uy/analisis/2018/ana180910.php|archive-date=2018-09-13}}</ref>
+| August 2018 
+| style="background:#C0DDF8;"| '''34%'''
+| 30% 
+| 12% 
+| 7% 
+| 6% 
+| 2% 
+| {{N/A}}
+| 9% 
+| {{N/A}}
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 4%
+|-
+| Radar<ref>{{cite web|url=http://www.gruporadar.com.uy/01/?p=2258|title=23-08-2018 – (difundido en VTV Noticias) Empate entre FA y PN, pero Martínez supera a Lacalle por 5 puntos. Crece la Oposición en su conjunto « Grupo Radar|website=gruporadar.com.uy|access-date=18 March 2019|archive-date=5 March 2019|archive-url=https://web.archive.org/web/20190305221559/http://www.gruporadar.com.uy/01/?p=2258|url-status=dead}}</ref>
+| August 2018 
+| '''30%'''
+| '''30%'''
+| 8% 
+| 6% 
+| 2% 
+| 3%  
+| {{N/A}}
+| 11% 
+| 10% 
+| style="background:grey; color:White;"| {{Dash}}
+|-
+| Cifra<ref>{{cite web|url=http://www.2019.com.uy/cifra-lideran-los-indecisos-nsnc-blanco-35-fa-27-pn-26-pc-pi-4-3-pgente/|title=CIFRA: Lideran los Indecisos NS/NC y en blanco con 35%; FA 27%; PN 26%; PC y PI 4%; y 3% PGente|date=8 August 2018|website=2019.com.uy|access-date=18 March 2019|archive-date=24 October 2019|archive-url=https://web.archive.org/web/20191024043607/http://www.2019.com.uy/cifra-lideran-los-indecisos-nsnc-blanco-35-fa-27-pn-26-pc-pi-4-3-pgente/|url-status=dead}}</ref> 
+| August 2018 
+| style="background:#C0DDF8;"| '''27%'''
+| 26% 
+| 4% 
+| 3% 
+| 4% 
+| 1% 
+| {{N/A}} 
+| colspan="2" | 35%
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 1%
+|-
+| Opción Consultores<ref>{{cite web|url=https://www.elobservador.com.uy/nota/elecciones-el-partido-nacional-es-el-que-tiene-mayor-aprobacion-segun-encuesta-de-opcion-2018712800|title=Elecciones: el Partido Nacional es el que tiene mayor aprobación, según encuesta de Opción|website=El Observador|access-date=18 March 2019}}</ref> 
+| July 2018 
+| 28% 
+| style="background:#D4EDFF;"| '''31%'''
+| 9% 
+| 8% 
+| 4% 
+| 2% 
+| {{N/A}} 
+| 8% 
+| 10%
+| style="background:{{party color|National Party (Uruguay)}};"| 3%
+|-
+| Radar<ref>{{cite web|url=http://www.gruporadar.com.uy/01/?p=2146|title=08-02-2018 – (difundido en VTV Noticias) El FA supera al PN por 5 puntos en intención de voto por partido. « Grupo Radar|website=gruporadar.com.uy|access-date=18 March 2019|archive-date=27 August 2018|archive-url=https://web.archive.org/web/20180827175253/http://www.gruporadar.com.uy/01/?p=2146|url-status=dead}}</ref> 
+| February 2018 
+| style="background:#C0DDF8;"| '''33%'''
+| 28% 
+| 7% 
+| 2% 
+| 2% 
+| {{N/A}} 
+| 3% 
+| 11% 
+| 13%
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 5%
+|-
+| Factum<ref>{{Cite web | url=http://factum.uy/encuestas/2017/enc170427.php | title=Intención de voto por partido. Primer trimestre 2017 |language=es|website=Factum|url-status=dead|archive-url=https://web.archive.org/web/20170507092449/http://factum.uy/encuestas/2017/enc170427.php#|archive-date=2017-05-07}}</ref> 
+| April 2017
+| style="background:#C0DDF8;"| '''31%'''
+| 30% 
+| 6% 
+| 9% 
+| 4% 
+| 2% 
+| {{N/A}} 
+| 18% 
+| {{N/A}}
+| style="background:{{party color|Broad Front (Uruguay)}};color: White;"| 1%
+|}
+
+==Results==
+On 25 November, preliminary results in the [[runoff election]] showed Lacalle Pou narrowly ahead by 28,666 votes over Martínez, which delayed the announcement of a winner as 35,229 [[absentee ballot|absentee vote]] needed to be counted.<ref>{{cite web|url=https://www.lanacion.com.ar/el-mundo/elecciones-uruguay-100-mesas-escrutadas-como-termino-nid2309462|work=La Nación|title=Elecciones en Uruguay: con el 100% de las mesas escrutadas, ¿cómo terminó la votación?|date=2019-11-25|access-date=2019-11-25|language=es|archive-url=https://web.archive.org/web/20191128093309/https://www.lanacion.com.ar/el-mundo/elecciones-uruguay-100-mesas-escrutadas-como-termino-nid2309462|archive-date=28 November 2019|url-status=dead}}</ref><ref name=BBC/> However, on 28 November, while these ballots were still being counted, Martínez conceded the race after concluding that they would not reverse Lacalle Pou's preliminary lead.<ref name=BBC/> On 30 November, final votes counts confirmed Lacalle Pou as the winner over Martínez.<ref>{{cite news|title=Lacalle won with 48.8% and Martínez obtained 47.3% in the 2019 ballot: look at the results|date=30 November 2019|newspaper=El Pais|url=https://www.elpais.com.uy/informacion/politica/elecciones-resultado-balotaje-analisis-todos-datos-escrutinio.html|access-date=1 December 2019}}</ref>
+
+[[File:Map of 2019 Uruguayan legislative election.svg|thumb|Map of the legislative results]]
+<onlyinclude>{{Election results
+|image=[[File:Uruguay Chambre des représentants 2019.svg|300px]][[File:Uruguay Sénat 2019.svg|300px]]
+|dsv=y|candtitle=Presidential candidate|seattype1=Chamber|seattype2=+/–|seattype3=Senate|seattype4=+/–
+|party1=[[Broad Front (Uruguay)|Broad Front]]|cand1=[[Daniel Martínez (politician)|Daniel Martínez]]|votes1=949376|votes1_2=1152271|st1t1=42|st2t1=–8|st3t1=13|st4t1=–2
+|party2=[[National Party (Uruguay)|National Party]]|cand2=[[Luis Alberto Lacalle Pou]]|votes2=696452|votes2_2=1189313|st1t2=30|st2t2=–2|st3t2=10|st4t2=0
+|party3=[[Colorado Party (Uruguay)|Colorado Party]]|cand3=[[Ernesto Talvi]]|votes3=300177|st1t3=13|st2t3=0|st3t3=4|st4t3=0
+|party4=[[Open Cabildo (Uruguay)|Open Cabildo]]|cand4=[[Guido Manini Ríos]]|votes4=268736|st1t4=11|st2t4=New|st3t4=3|st4t4=New
+|party5=[[Partido Ecologista Radical Intransigente]]|cand5=[[César Vega (agronomist)|César Vega]]|votes5=33461|st1t5=1|st2t5=+1|st3t5=0|st4t5=0
+|party6=[[Partido de la Gente]]|cand6=[[Edgardo Novick]]|votes6=26313|st1t6=1|st2t6=+1|st3t6=0|st4t6=0
+|party7=[[Independent Party (Uruguay)|Independent Party]]|cand7=[[Pablo Mieres]]|votes7=23580|st1t7=1|st2t7=–2|st3t7=0|st4t7=–1
+|party8=[[Popular Unity (Uruguay)|Popular Unity]]|cand8={{ill|Gonzalo Abella|es}}|votes8=19728|st1t8=0|st2t8=–1|st3t8=0|st4t8=0
+|party9=[[Green Animalist Party]]|cand9=[[Gustavo Salle]]|votes9=19392|st1t9=0|st2t9=New|st3t9=0|st4t9=New
+|party10=[[Digital Party]]|cand10=Daniel Goldman|votes10=6363|st1t10=0|st2t10=New|st3t10=0|st4t10=New
+|party11=[[Workers' Party (Uruguay)|Workers' Party]]|cand11={{ill|Rafael Fernández Rodríguez|es}}|votes11=1387|st1t11=0|st2t11=0|st3t11=0|st4t11=0
+|invalid=44802
+|blank=43597
+|invalid2=53588
+|blank2=38024
+|total_st2t=0|total_st4t=0
+|electorate=2699978|electorate2=2699980
+|source=[https://eleccionesnacionales.corteelectoral.gub.uy/ResumenResultados.htm Corte Electoral] (first round); [https://segundaeleccion2019.corteelectoral.gub.uy/ResumenResultados.htm Corte Electoral] (second round)
+}}</onlyinclude>
+
+===By department===
+{| class="wikitable sortable collapsible collapsed tpl-blanktable" style="text-align:left; font-size:95%; line-height:20px;"
+|+ class="nowrap" | First round & parliamentary election
+|-
+! rowspan="3"| Constituency
+! colspan="3" width="30px" class="unsortable" | Broad Front
+! colspan="3" width="30px" class="unsortable" | National Party
+! colspan="3" width="30px" class="unsortable" | Colorado Party
+! colspan="3" width="30px" class="unsortable" | Open Cabildo
+! colspan="3" width="30px" class="unsortable" | PERI
+! colspan="3" width="30px" class="unsortable" | Party of the Folk
+! colspan="3" |Independent Party
+! colspan="2" rowspan="2" |Others{{Efn|Parties which gained no parliamentary representation: [[Popular Unity (Uruguay)|Popular Unity]], [[Green Animalist Party]], [[Digital Party]], [[Workers' Party (Uruguay)|Workers' Party]].}}
+! colspan="2" rowspan="2" |Valid votes
+! colspan="2" rowspan="2" |Invalid votes
+|-
+! colspan="3" style="background:{{party color|Broad Front (Uruguay)}}" |
+! colspan="3" style="background:{{party color|National Party (Uruguay)}}" |
+! colspan="3" style="background:{{party color|Colorado Party (Uruguay)}}" |
+! colspan="3" style="background:#FBC22B" |
+! colspan="3" style="background:{{party color|Partido Ecologista Radical Intransigente}}" |
+! colspan="3" style="background:#92D050" |
+! colspan="3" style="background:{{party color|Independent Party (Uruguay)}}" |
+|-
+! data-sort-type="number"| Votes
+! data-sort-type="number"|  %
+!D
+! data-sort-type="number"| Votes
+! data-sort-type="number"|  %
+!D
+! data-sort-type="number"| Votes
+! data-sort-type="number"|  %
+!D
+! data-sort-type="number"| Votes
+! data-sort-type="number"|  %
+!D
+! data-sort-type="number"| Votes
+! %
+! data-sort-type="number"| D
+! data-sort-type="number"| Votes
+! %
+! data-sort-type="number"| D
+!Votes
+!%
+!D
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+|-
+| align="left"| Artigas
+| 15,046
+| 26.6
+|1
+| style="background:#D4EDFF;"| '''24,224'''
+| style="background:#D4EDFF;"| '''42.9'''
+|1
+| 4,813
+| 8.5
+|0
+| 10,084
+| 17.8
+|0
+| 185
+|0.3
+|0
+| 139
+|0.2
+| 0
+|151
+|0.3
+|0
+|358
+|0.6
+|55,000
+|97.4
+|1,496
+|2.6
+|-
+| align="left"| Canelones
+| style="background:#C0DDF8;"| '''158,221'''
+| style="background:#C0DDF8;"| '''42.8'''
+|7
+| 101,417
+| 27.4
+|4
+| 35,177
+| 9.5
+|2
+| 35,202
+| 9.5
+|2
+| 6,409
+|1.7
+|0
+| 5,347
+|1.4
+| 0
+|3,601
+|1.0
+|0
+|7,557
+|2.0
+|352,931
+|95.5
+|16,639
+|4.5
+|-
+| align="left"| Cerro Largo
+| 19,895
+| 29.5
+|1
+| style="background:#D4EDFF;"| '''26,215'''
+| style="background:#D4EDFF;"| '''38.9'''
+|1
+| 5,257
+| 7.8
+|0
+| 12,232
+| 18.1
+|1
+| 317
+|0.5
+|0
+| 401
+|0.6
+| 0
+|259
+|0.4
+|0
+|647
+|1.0
+|65,223
+|96.7
+|2,227
+|3.3
+|-
+|align="left"|Colonia
+| style="background:#C0DDF8;"| '''34,068'''
+| style="background:#C0DDF8;"| '''34.9'''
+|1
+|32,691
+|33.5
+|1
+|15,750
+|16.2
+|1
+|7,099
+|7.3
+|0
+|958
+|1.0
+|0
+|1,104
+|1.1
+|0
+|879
+|0.9
+|0
+|1,098
+|1.1
+|93,647
+|96.1
+|3,835
+|3.9
+|-
+|align="left"|Durazno
+|13,087
+|28.0
+|1
+| style="background:#D4EDFF;"| '''16,577'''
+| style="background:#D4EDFF;"| '''35.5'''
+|1
+|5,852
+|12.5
+|0
+|8,135
+|17.4
+|0
+|275
+|0.6
+|0
+|258
+|0.6
+|0
+|325
+|0.7
+|0
+|703
+|1.5
+|45,212
+|96.9
+|1,460
+|3.1
+|-
+|align="left"|Flores
+|5,308
+|25.4
+|1
+| style="background:#D4EDFF;"| '''7,357'''
+| style="background:#D4EDFF;"| '''35.3'''
+|1
+|4,055
+|19.4
+|0
+|2,874
+|13.8
+|0
+|134
+|0.6
+|0
+|204
+|1.0
+|0
+|116
+|0.6
+|0
+|187
+|0.9
+|20,235
+|97.0
+|635
+|3.0
+|-
+|align="left"|Florida
+|17,267
+|32.1
+|1
+| style="background:#D4EDFF;"| '''18,809'''
+| style="background:#D4EDFF;"| '''35.0'''
+|1
+|7,919
+|14.7
+|0
+|5,611
+|10.4
+|0
+|359
+|0.7
+|0
+|454
+|0.8
+|0
+|405
+|0.8
+|0
+|930
+|1.7
+|51,754
+|96.3
+|2,012
+|3.7
+|-
+|align="left"|Lavalleja
+|11,856
+|24.7
+|1
+| style="background:#D4EDFF;"| '''17,608'''
+| style="background:#D4EDFF;"| '''36.7'''
+|1
+|8,198
+|17.1
+|0
+|7,024
+|14.6
+|0
+|491
+|1.0
+|0
+|325
+|0.7
+|0
+|377
+|0.8
+|0
+|478
+|1.0
+|46,357
+|96.6
+|1,636
+|3.4
+|-
+|align="left"|Maldonado
+|37,496
+|29.1
+|1
+| style="background:#D4EDFF;"| '''47,339'''
+| style="background:#D4EDFF;"| '''36.7'''
+|2
+|15,281
+|11.9
+|1
+|15,751
+|12.2
+|1
+|2,782
+|2.2
+|0
+|1,229
+|1.0
+|0
+|1,437
+|1.1
+|0
+|2,648
+|2.1
+|123,963
+|96.2
+|4,863
+|3.8
+|-
+|align="left"|Montevideo
+| style="background:#C0DDF8;"| '''438,839'''
+| style="background:#C0DDF8;"| '''47.4'''
+|19
+|214,675
+|23.2
+|9
+|98,559
+|10.6
+|5
+|76,410
+|8.3
+|4
+|15,978
+|1.7
+|1
+|11,715
+|1.3
+|1
+|12,415
+|1.3
+|1
+|24,768
+|2.7
+|893,359
+|96.5
+|32,342
+|3.5
+|-
+|align="left"|Paysandú
+| style="background:#C0DDF8;"| '''32,698'''
+| style="background:#C0DDF8;"| '''37.8'''
+|1
+|28,971
+|33.5
+|1
+|11,378
+|13.1
+|1
+|6,919
+|8.0
+|0
+|1,154
+|1.3
+|0
+|701
+|0.8
+|0
+|509
+|0.6
+|0
+|1,309
+|1.5
+|83,639
+|96.6
+|2,926
+|3.4
+|-
+|align="left"|Rio Negro
+| style="background:#C0DDF8;"| '''14,263'''
+| style="background:#C0DDF8;"| '''34.0'''
+|1
+|13,546
+|32.3
+|1
+|6,816
+|16.2
+|0
+|4,604
+|11.0
+|0
+|325
+|0.8
+|0
+|224
+|0.5
+|0
+|286
+|0.7
+|0
+|439
+|1.0
+|40,503
+|96.6
+|1,446
+|3.4
+|-
+|align="left"|Rivera
+|15,274
+|19.2
+|0
+|20,419
+|25.7
+|1
+| style="background:#FFCCCC;"| '''21,256'''
+| style="background:#FFCCCC;"| '''26.7'''
+|1
+|18,948
+|23.8
+|1
+|181
+|0.2
+|0
+|231
+|0.3
+|0
+|261
+|0.3
+|0
+|717
+|0.9
+|77,287
+|97.2
+|2,230
+|2.8
+|-
+|align="left"|Rocha
+| style="background:#C0DDF8;"| '''18,903'''
+| style="background:#C0DDF8;"| '''32.8'''
+|1
+|17,317
+|30.1
+|1
+|5,788
+|10.1
+|0
+|10,553
+|18.3
+|0
+|919
+|1.6
+|0
+|348
+|0.6
+|0
+|310
+|0.5
+|0
+|1,055
+|1.8
+|55,193
+|95.8
+|2,395
+|4.2
+|-
+|align="left"|Salto
+| style="background:#C0DDF8;"| '''33,720'''
+| style="background:#C0DDF8;"| '''35.6'''
+|1
+|21,681
+|22.9
+|0
+|22,001
+|23.3
+|1
+|11,474
+|12.1
+|1
+|506
+|0.5
+|0
+|1,080
+|1.1
+|0
+|561
+|0.6
+|0
+|747
+|0.8
+|91,770
+|97.0
+|2,829
+|3.0
+|-
+|align="left"|San Jose
+| style="background:#C0DDF8;"| '''29,257'''
+| style="background:#C0DDF8;"| '''37.3'''
+|1
+|26,360
+|33.6
+|1
+|8,140
+|10.4
+|0
+|8,022
+|10.2
+|0
+|897
+|1.1
+|0
+|792
+|1.0
+|0
+|748
+|1.0
+|0
+|1,135
+|1.4
+|75,351
+|95.9
+|3,187
+|4.1
+|-
+|align="left"|Soriano
+| style="background:#C0DDF8;"| '''23,386'''
+| style="background:#C0DDF8;"| '''34.7'''
+|1
+|20,951
+|31.1
+|1
+|10,454
+|15.5
+|1
+|7,620
+|11.3
+|0
+|877
+|1.3
+|0
+|476
+|0.7
+|0
+|310
+|0.5
+|0
+|809
+|1.2
+|64,883
+|96.4
+|2,450
+|3.6
+|-
+|align="left"|Tacuarembó
+|20,239
+|27.7
+|1
+| style="background:#D4EDFF;"| '''25,221'''
+| style="background:#D4EDFF;"| '''34.6'''
+|1
+|10,198
+|14.0
+|0
+|12,252
+|16.8
+|1
+|516
+|0.7
+|0
+|969
+|1.3
+|0
+|487
+|0.7
+|0
+|772
+|1.1
+|70,654
+|96.8
+|2,300
+|3.2
+|-
+|align="left"|Treinta y Tres
+|10,553
+|26.7
+|1
+| style="background:#D4EDFF;"| '''15,074'''
+| style="background:#D4EDFF;"| '''38.2'''
+|1
+|3,285
+|8.3
+|0
+|7,922
+|20.1
+|0
+|198
+|0.5
+|0
+|316
+|0.8
+|0
+|143
+|0.4
+|0
+|513
+|1.3
+|38,004
+|96.2
+|1,491
+|3.8
+|- style="background:#CDCDCD;"
+| align="left" | '''Total'''
+| style="background:#C0DDF8;"| '''949,376'''
+| style="background:#C0DDF8;"| '''39.01'''
+|'''42'''
+| '''696,452'''
+|'''28.62'''
+|'''30'''
+|'''300,177'''
+|'''12.34'''
+|'''13'''
+|'''268,736'''
+|'''11.04'''
+|'''11'''
+|'''33,461'''
+|'''1.38'''
+|'''1'''
+|'''26,313'''
+|'''1.08'''
+|'''1'''
+|'''23,580'''
+|'''0.97'''
+|'''1'''
+|'''46,870'''
+|'''1.93'''
+|'''2,344,965'''
+|'''96.37'''
+|'''88,399'''
+|'''3.63'''
+|-
+! colspan="28" |
+|-
+! colspan="28" style="text-align:left; font-weight:normal; background:#F9F9F9" | Sources: [https://eleccionesnacionales.corteelectoral.gub.uy/ResumenResultados.htm Corte Electoral]
+|}
+
+{| class="wikitable sortable collapsible collapsed tpl-blanktable" style="text-align:left; font-size:95%; line-height:20px;"
+|+ class="nowrap" | Second round
+! rowspan="3" | Constituency
+! colspan="2" width="30px" class="unsortable" | Broad Front
+! colspan="2" width="30px" class="unsortable" | National Party
+! colspan="2" rowspan="2" |Valid votes
+! colspan="2" rowspan="2" |Invalid votes
+|-
+! colspan="2" style="background:{{party color|Broad Front (Uruguay)}}" |
+! colspan="2" style="background:{{party color|National Party (Uruguay)}}" |
+|-
+! data-sort-type="number" | Votes
+! %
+! data-sort-type="number" | Votes
+! %
+!Votes
+! %
+!Votes
+! %
+|-
+| align="left" | Artigas
+| 19,800
+|35.2
+| style="background:#D4EDFF;"| '''34,958'''
+| style="background:#D4EDFF;"| '''62.2'''
+|54,758
+|97.48
+|1,418
+|2.5
+|-
+| align="left" | Canelones
+| style="background:#C0DDF8;"| '''189,577'''
+| style="background:#C0DDF8;"| '''51.3'''
+| 165,350
+|44.7
+|354,927
+|96.01
+|14,757
+|4.0
+|-
+| align="left" | Cerro Largo
+| 26,466
+|39.4
+| style="background:#D4EDFF;"| '''38,620'''
+| style="background:#D4EDFF;"| '''57.4'''
+|65,086
+|96.80
+|2,151
+|3.2
+|-
+| align="left" |Colonia
+|41,946
+|43.1
+| style="background:#D4EDFF;"| '''52,111'''
+| style="background:#D4EDFF;"| '''53.5'''
+|94,057
+|96.58
+|3,332
+|3.4
+|-
+| align="left" |Durazno
+|17,905
+|38.5
+| style="background:#D4EDFF;"| '''26,948'''
+| style="background:#D4EDFF;"| '''57.9'''
+|44,853
+|96.36
+|1,696
+|3.6
+|-
+| align="left" |Flores
+|6,990
+|33.6
+| style="background:#D4EDFF;"| '''13,102'''
+| style="background:#D4EDFF;"| '''62.9'''
+|20,092
+|96.49
+|731
+|3.5
+|-
+| align="left" |Florida
+|22,419
+|41.7
+| style="background:#D4EDFF;"| '''29,257'''
+| style="background:#D4EDFF;"| '''54.4'''
+|51,676
+|96.07
+|2,115
+|3.9
+|-
+| align="left" |Lavalleja
+|15,934
+|33.3
+| style="background:#D4EDFF;"| '''30,249'''
+| style="background:#D4EDFF;"| '''63.1'''
+|46,183
+|96.39
+|1,731
+|3.6
+|-
+| align="left" |Maldonado
+|48,768
+|37.9
+| style="background:#D4EDFF;"| '''74,193'''
+| style="background:#D4EDFF;"| '''57.6'''
+|122,961
+|95.51
+|5,780
+|4.5
+|-
+| align="left" |Montevideo
+| style="background:#C0DDF8;"| '''507,346'''
+| style="background:#C0DDF8;"| '''54.7'''
+|383,991
+|41.4
+|891,337
+|96.09
+|36,288
+|3.9
+|-
+| align="left" |Paysandú
+|40,114
+|46.3
+| style="background:#D4EDFF;"| '''43,404'''
+| style="background:#D4EDFF;"| '''50.1'''
+|83,518
+|96.44
+|3,087
+|3.6
+|-
+| align="left" |Rio Negro
+|17,485
+|41.8
+| style="background:#D4EDFF;"| '''22,953'''
+| style="background:#D4EDFF;"| '''54.9'''
+|40,438
+|96.74
+|1,362
+|3.3
+|-
+| align="left" |Rivera
+|24,029
+|30.3
+| style="background:#D4EDFF;"| '''52,842'''
+| style="background:#D4EDFF;"| '''66.7'''
+|76,871
+|97.08
+|2,311
+|2.9
+|-
+| align="left" |Rocha
+|24,129
+|41.9
+| style="background:#D4EDFF;"| '''30,736'''
+| style="background:#D4EDFF;"| '''53.4'''
+|54,865
+|95.35
+|2,676
+|4.7
+|-
+| align="left" |Salto
+|43,398
+|46.0
+| style="background:#D4EDFF;"| '''48,240'''
+| style="background:#D4EDFF;"| '''51.1'''
+|91,638
+|97.10
+|2,739
+|2.9
+|-
+| align="left" |San Jose
+|35,178
+|44.9
+| style="background:#D4EDFF;"| '''40,247'''
+| style="background:#D4EDFF;"| '''51.3'''
+|75,425
+|96.20
+|2,979
+|3.8
+|-
+| align="left" |Soriano
+|30,453
+|45.3
+| style="background:#D4EDFF;"| '''34,318'''
+| style="background:#D4EDFF;"| '''51.0'''
+|64,771
+|96.31
+|2,485
+|3.7
+|-
+| align="left" |Tacuarembó
+|26,179
+|36.0
+| style="background:#D4EDFF;"| '''44,092'''
+| style="background:#D4EDFF;"| '''60.6'''
+|70,271
+|96.64
+|2,440
+|3.4
+|-
+| align="left" |Treinta y Tres
+|14,155
+|35.9
+| style="background:#D4EDFF;"| '''23,702'''
+| style="background:#D4EDFF;"| '''60.2'''
+|37,857
+|96.14
+|1,519
+|3.9
+|- style="background:#CDCDCD;"
+| align="left" | '''Total'''
+| '''1,152,271'''
+|'''47.4'''
+| style="background:#D4EDFF;"| '''1,189,313'''
+| style="background:#D4EDFF;"| '''48.9'''
+|'''2,341,584'''
+|'''96.24'''
+|'''91,612'''
+|'''3.77'''
+|-
+! colspan="9" |
+|-
+! colspan="9" style="text-align:left; font-weight:normal; background:#F9F9F9" | Source: [https://segundaeleccion2019.corteelectoral.gub.uy/ResumenResultados.htm Corte Electoral] 
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+* [https://web.archive.org/web/20191028082517/https://eleccionesnacionales.corteelectoral.gub.uy/ResumenResultados.htm Official results] {{in lang|es}}
+
+{{Uruguayan elections}}
+
+[[Category:Parliamentary elections in Uruguay]]
+[[Category:Presidential elections in Uruguay]]
+[[Category:2019 elections in Uruguay|General election]]
+[[Category:November 2019 in South America|Uruguay]]
+[[Category:October 2019 in South America|Uruguay]]
+<!-- as follows, notable politicians who were relevant for this election -->
+[[Category:Luis Alberto Lacalle Pou]]

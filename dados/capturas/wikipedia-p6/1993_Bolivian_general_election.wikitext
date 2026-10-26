@@ -1,0 +1,214 @@
+{{Short description|none}}
+{{Infobox election
+| country = Bolivia
+| flag_year = state
+| previous_election = 1989 Bolivian general election
+| previous_year = 1989
+| next_election = 1997 Bolivian general election
+| next_year = 1997
+| registered = 2,399,197
+| turnout = 72.16% ({{decrease}} 1.48[[Percentage point|pp]])
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| image_size = 130x130px
+| election_date = 6 June 1993 (popular vote){{-}}6 August 1993 (Congress vote)
+
+| image1 = Gonzálo Sánchez de Lozada-Agencia BrasilAntonio Cruz.jpg
+| nominee1 = '''[[Gonzalo Sánchez de Lozada]]'''
+| party1 = Revolutionary Nationalist Movement
+| alliance1 = [[Revolutionary Nationalist Movement|MNR]]-[[Revolutionary Liberation Movement Tupaq Katari|MRTKL]]
+| running_mate1 = '''[[Víctor Hugo Cárdenas]]'''
+| electoral_vote1 = '''97'''
+| popular_vote1 = '''585,837'''
+| percentage1 = '''35.55%'''
+
+| image2 = Hugo Banzer - 2 (cropped).jpg
+| nominee2 = [[Hugo Banzer]]
+| party2 = Nationalist Democratic Action
+| alliance2 = [[Patriotic Accord]]{{efn|Coalition consisting of [[Nationalist Democratic Action|ADN]], [[Revolutionary Left Front (Bolivia)|MIR]], [[Christian Democratic Party (Bolivia)|PDC]], and [[Communist Party of Bolivia (Marxist–Leninist)|PCB (ML)]]}}
+| colour2 = 9B2335
+| running_mate2 = [[Óscar Zamora Medinaceli]]
+| popular_vote2 = 346,865
+| percentage2 = 21.05%
+
+| image3 = Carlos Palenque - CROPPED.jpg
+| nominee3 = [[Carlos Palenque]]
+| party3 = Conscience of Fatherland
+| running_mate3 = [[Ivo Kuljis]]
+| popular_vote3 = 235,427
+| percentage3 = 14.29%
+
+| image4 =
+| nominee4 = {{ill|Max Fernández|es}}
+| party4 = Solidarity Civic Unity
+| running_mate4 = Edgar Talavera Soliza
+| popular_vote4 = 226,816
+| percentage4 = 13.77%
+
+| image5 =
+| nominee5 = Antonio Araníbar Quiroga
+| party5 = Free Bolivia Movement
+| running_mate5 = Miguel Urioste Fernández
+| popular_vote5 = 88,260
+| percentage5 = 5.36%
+
+| map = {{Switcher
+| [[File:Mapa Electoral de Bolivia por Departamentos 1993.png|260px]]
+| Results by department
+| [[File:Mapa Electoral - Bolivia - Elecciones 1993 -Por Provincias.png|260px]]
+| Results by province}}
+
+| title = [[President of Bolivia|President]]
+| before_election = [[Jaime Paz Zamora]]
+| before_party = [[Revolutionary Left Movement (Bolivia)|MIR]]
+| after_election = [[Gonzalo Sanchez de Lozada]]
+| after_party = [[Revolutionary Nationalist Movement|MNR]]
+}}}}{{Politics of Bolivia}}
+
+General elections were held in [[Bolivia]] on 6 June 1993.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p133 {{ISBN|978-0-19-928358-3}}</ref> As no candidate for the presidency received over 50% of the vote, the [[Plurinational Legislative Assembly|National Congress]] was required to elect a president on 4 August. [[Gonzalo Sánchez de Lozada]] of the MNR-MRTKL alliance was subsequently elected unopposed.
+
+==Campaign==
+Prior to the elections, the [[Revolutionary Left Movement (Bolivia)|Revolutionary Left Movement]] (MIR) of incumbent [[Jaime Paz Zamora]] and the [[Nationalist Democratic Action]] (ADN) of ex-president [[Hugo Banzer]] formed the [[Patriotic Accord]] (AP) alliance. Hugo Banzer, in his fifth bid for the presidency, was presented as the Patriotic Accord's candidate in the election.
+
+Banzer's primary opponent was the returning [[Revolutionary Nationalist Movement]] (MNR) candidate Gonzalo Sánchez de Lozada. The MNR's alliance with the [[Revolutionary Liberation Movement Tupaq Katari]] (MRTKL) saw [[Víctor Hugo Cárdenas]], an indigenous [[Aymara people|Aymara]], chosen as Sánchez de Lozada's running mate in an attempt to appeal to Bolivia's [[Indigenous peoples in Bolivia|indigenous population]].
+
+The AP was faced with the negative image of corruption faced by Paz Zamora's government and the defensive campaign of Hugo Banzer. Two factors which made the MNR the clear front runner to win the election.<ref>{{harvnb|Gisbert|2003|p=174}}</ref>
+
+The campaign also saw the emergence of the "neo-populist" {{ill|Max Fernández|es}} and [[Carlos Palenque]] candidates who drew the support of sector of the population discontented with the mainstream political parties. Palenque of [[Conscience of Fatherland]] (CONDEPA), in his second run, campaigned on a platform of returning to the ideals of the 1952 National Revolution.  [[Solidarity Civic Unity]] (UCS), in the party's first presidential run, presented Max Fernández.<ref>{{harvnb|Gisbert|2003|p=176}}</ref>
+
+Prior to the elections the [[Nationalist Democratic Action]] and [[Revolutionary Left Movement (Bolivia)|Revolutionary Left Movement]] parties formed the [[Patriotic Accord]] alliance, whilst eight left-wing parties continued the [[United Left (Bolivia)|United Left]] coalition.<ref>[http://www.ipu.org/parline-e/reports/arc/2037_93.htm Elections held in 1993] IPU</ref>
+
+A total of 14 candidates were presented for the presidential election.
+
+==Results==
+Gonzalo Sánchez de Lozada won the popular vote by 35.56% to Hugo Banzer's 21.05%. The CONDEPA and UCS candidates won a similar number of votes with a 0.52% difference between Max Fernández and Carlos Palenque. The remaining 10 candidates won 15.34% of the vote between them.
+
+{{Election results
+|image=[[File:Cámara de Diputados de Bolivia elecciones 1993.svg|300x300px]][[File:Senado de Bolivia elecciones 1993.svg|300x300px]]
+|dsv=y|candtitle=Presidential candidate|seattype1=Chamber|seattype2=+/–|seattype3=Senate|seattype4=+/–
+|party1=[[Revolutionary Nationalist Movement|MNR]]–[[Revolutionary Liberation Movement Tupaq Katari|MRTKL]]|cand1=[[Gonzalo Sánchez de Lozada]]|votes1=585837|st1t1=52|st2t1=+12|st3t1=17|st4t1=+8
+|party2=[[Patriotic Accord]]|cand2=[[Hugo Banzer]]|votes2=346865|st1t2=35|st2t2=–36|st3t2=8|st4t2=–8
+|party3=[[Conscience of Fatherland]]|cand3=[[Carlos Palenque]]|votes3=235427|st1t3=13|st2t3=+4|st3t3=1|st4t3=–1
+|party4=[[Solidarity Civic Unity]]|cand4={{ill|Max Fernández|es}}|votes4=226816|st1t4=20|st2t4=New|st3t4=1|st4t4=New
+|party5=[[Free Bolivia Movement]]|cand5=Antonio Araníbar Quiroga|votes5=88260|st1t5=7|st2t5=New|st3t5=0|st4t5=New
+|party6=[[Bolivian Renewal Alliance]]|cand6=Casiano Ancalle Choque|votes6=30867|st1t6=1|st2t6=New|st3t6=0|st4t6=New|color6=#008000
+|party7=[[Alternative to Democratic Socialism]]|cand7=Jerjes Justiniano Talavera|votes7=30286|st1t7=1|st2t7=New|st3t7=0|st4t7=New|color7=#EE82EE
+|party8={{ill|Revolutionary Vanguard of 9 April|es|Vanguardia Revolucionaria 9 de Abril}}|cand8={{ill|Carlos Serrate|es}}|votes8=21100|st1t8=0|st2t8=New|st3t8=0|st4t8=New|color8=#9C0EE3
+|party9=[[Bolivian Socialist Falange]]|cand9=José Mario Serrate Paz|votes9=20947|st1t9=0|st2t9=0|st3t9=0|st4t9=0
+|party10=[[Pachakuti Axis]]|cand10={{ill|Félix Cárdenas Aguilar|es}}|votes10=18176|st1t10=1|st2t10=New|st3t10=0|st4t10=New|color10=#8B0000
+|party11=[[United Left (Bolivia)|United Left]]|cand11=Ramiro Velasco Romero|votes11=16137|st1t11=0|st2t11=–10|st3t11=0|st4t11=0
+|party12=National Katarista Movement|cand12=[[Fernando Untoja Choque]]|votes12=12627|st1t12=0|st2t12=New|st3t12=0|st4t12=New|color12=#800080
+|party13=National Organisation of Independents|cand13=Oscar Bonifáz|votes13=8096|st1t13=0|st2t13=New|st3t13=0|st4t13=New|color13=#FFFFFF
+|party14=Democratic Federalist Movement|cand14=Carlos Valverde|votes14=6269|st1t14=0|st2t14=New|st3t14=0|st4t14=New|color14=#000000
+|invalid=83599
+|total_st1t=130|total_st2t=0|total_st3t=27|total_st4t=0
+|electorate=2399197
+|source=
+}}
+
+=== By department ===
+{| class="wikitable sortable" style="text-align:right"
+!Department
+![[Patriotic Accord|PA]]
+![[Revolutionary Nationalist Movement–Alliance|MNR]]-[[Revolutionary Liberation Movement Tupaq Katari|MRTKL]]
+![[Civic Solidarity Union|UCS]]
+![[Conscience of Fatherland|CONDEPA]]
+!Others
+|-
+|align=left|[[Beni Department|Beni]]
+|36.93%
+|41.40%
+|11.52%
+|1.25%
+|8.89%
+|-
+|align=left|[[Chuquisaca Department|Chuquisaca]]
+|26.23%
+|31.95%
+|12.67%
+|2.52%
+|26.62%
+|-
+|align=left|[[Cochabamba Department|Cochabamba]]
+|21.05%
+|40.45%
+|18.75%
+|3.73%
+|16.02%
+|-
+|align=left|[[La Paz Department (Bolivia)|La Paz]]
+|13.85%
+|31.33%
+|10.52%
+|30.58%
+|13.72%
+|-
+|align=left|[[Oruro Department|Oruro]]
+|18.24%
+|33.27%
+|20.31%
+|11.71%
+|16.47%
+|-
+|align=left|[[Pando Department|Pando]]
+|50.72%
+|33.09%
+|6.96%
+|0.43%
+|8.80%
+|-
+|align=left|[[Potosí Department|Potosi]]
+|22.58%
+|30.65%
+|19.48%
+|6.29%
+|21.00%
+|-
+|align=left|[[Santa Cruz Department (Bolivia)|Santa Cruz]]
+|26.98%
+|40.52%
+|13.01%
+|4.35%
+|15.15%
+|-
+|align=left|[[Tarija Department|Tarija]]
+|30.29%
+|42.34%
+|13.79%
+|1.76%
+|11.82%
+|-class=sortbottom
+| align=left colspan="6" |Source: [http://www.electiondataarchive.org Constituency-Level Election Archive]
+|}
+
+===Congressional ballot===
+On 6 August 1993, the National Congress convened to elect the president. Gonzalo Sánchez de Lozada was the only candidate voted on, and was supported by his MNR-MRTKL alliance as well as the UCS and [[Free Bolivia Movement|MBL]]. All others parties abstained from voting.<ref name=":0">{{cite book |last=Morales|first=Walter Q |title=A brief history of Bolivia |location=New York |publisher=Facts On File|date=2003|page=205}}</ref> Gonzalo Sánchez de Lozada was elected president while Víctor Hugo Cárdenas became Bolivia's first indigenous [[Vice President of Bolivia|vice president]].
+
+{{Election results
+|cand1=[[Gonzalo Sánchez de Lozada]]|party1=[[Revolutionary Nationalist Movement]]|votes1=97
+|totalvotes=97
+|electorate=157
+|source=Morales<ref name=":0" />
+}}
+
+== See also ==
+*[[Bolivian National Congress, 1993–1997]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*{{Cite book|last=Gisbert|first=Carlos D. Mesa|url=https://books.google.com/books?id=81F7AAAAMAAJ|title=Presidentes de Bolivia: entre urnas y fusiles : el poder ejecutivo, los ministros de estado|date=2003|publisher=Editorial Gisbert|language=es}}
+
+{{Bolivian elections}}
+
+[[Category:1993 in Bolivia]]
+[[Category:Parliamentary elections in Bolivia]]
+[[Category:1993 elections in South America|Bolivia]]
+[[Category:Presidential elections in Bolivia]]

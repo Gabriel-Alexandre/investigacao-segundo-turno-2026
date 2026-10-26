@@ -1,0 +1,76 @@
+{
+ "acusacao": {
+  "X1_reserva_so_com_outros_candidatos": {
+   "objecao": "a volta de quem faltou e a queda do nulo podem esconder troca; conte só os votos dos outros candidatos",
+   "excesso_lula": 2585677,
+   "excesso_flavio": 120033,
+   "excesso_lula_contra_margem_pct": 58.36,
+   "leitura": "é o máximo de votos do Lula que exigiria eleitor novo, ex-nulo ou troca direta, seção a seção"
+  },
+  "X2_votos_depois_das_17h_todos_do_lula": {
+   "objecao": "a prorrogação favoreceu um lado",
+   "votos_depois_17h_onde_o_lula_venceu": 20127,
+   "contra_margem_pct": 0.45
+  },
+  "X3_unanimidades_como_se_fossem_falsas": {
+   "objecao": "seções com mais de 95% para o Lula podem ser manipuladas",
+   "secoes": 1686,
+   "vantagem_do_lula_nelas": 299018,
+   "contra_margem_pct": 6.75,
+   "ja_eram_acima_de_90_no_1t": 1666
+  },
+  "X4_o_1pct_de_secoes_mais_acima_do_previsto": {
+   "objecao": "a fraude pode estar espalhada no 1% de seções que mais passaram do previsto pelo 1º turno",
+   "secoes": 4991,
+   "residuo_medio_pontos": 6.67,
+   "votos_a_mais_do_lula_se_voltassem_ao_previsto": 70225,
+   "contra_margem_pct": 1.59
+  }
+ },
+ "defesa": {
+  "Y1_residuo_por_regiao": {
+   "objecao": "um modelo único para o país marca como anomalia o que é diferença regional",
+   "residuo_medio_por_regiao": {
+    "Centro-Oeste": -0.592,
+    "Exterior": -0.998,
+    "Nordeste": 0.026,
+    "Norte": -0.11,
+    "Sudeste": 0.38,
+    "Sul": -0.726
+   }
+  },
+  "Y2_unanimidades_em_2022": {
+   "objecao": "seção com mais de 95% para o Lula é comum no Nordeste e em aldeias, não só em 2026",
+   "lula_acima_95_em_2022": 2369,
+   "bolsonaro_acima_95_em_2022": 21
+  },
+  "Y3_modelo_de_transferencia_em_2022": {
+   "objecao": "inferência ecológica pode inventar transferências",
+   "ciro_modelo": {
+    "para_lula_pct": 40.3,
+    "para_o_outro_pct": 42.4,
+    "branco_nulo_pct": 17.3
+   },
+   "tebet_modelo": {
+    "para_lula_pct": 37.8,
+    "para_o_outro_pct": 44.2,
+    "branco_nulo_pct": 18.0
+   },
+   "datafolha_5_7_out_2022": {
+    "ciro": {
+     "lula": 31,
+     "bolsonaro": 42,
+     "branco_nulo": 22,
+     "indecisos": 5
+    },
+    "tebet": {
+     "lula": 31,
+     "bolsonaro": 29,
+     "branco_nulo": 28,
+     "indecisos": 12
+    }
+   },
+   "mesmo_lado_que_o_datafolha": true
+  }
+ }
+}

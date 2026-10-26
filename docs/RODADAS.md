@@ -52,7 +52,7 @@ Base: as **499.248 seções** do 2º turno, cada uma com hora de recebimento, bo
 
 | Teste | O que o dado mostra | Limiar do pré-registro | Resultado |
 |---|---|---|---|
-| Reconciliação | soma dos boletins: Lula 64.255.787, Flávio 59.825.688; oficial: 64.256.232 e 59.826.041. Faltam 445 e 353 votos: 29 seções do exterior sem boletim publicado (e 41 não instaladas) | — | bate, com a diferença nomeada |
+| Reconciliação | soma dos boletins: Lula 64.255.787, Flávio 59.825.688; oficial: 64.256.232 e 59.826.041. Faltam 445 e 353 votos: 29 seções do exterior sem boletim publicado (e 41 não instaladas) | não se aplica | bate, com a diferença nomeada |
 | **A4** RDV contra boletim | votos do Lula e do Flávio **iguais em 499.177 de 499.177 seções**. Em 586 seções o nulo do boletim é maior que o nulo do RDV pelo número exato de votos de um tipo que o RDV registra à parte (tipo 6), que **só aparece nos 6 estados com governador no 2º turno** (AC, AM, DF, ES, RN, TO) e que o boletim soma como nulo | qualquer seção com diferença | **sinal encontrado pela letra da regra (586 seções), explicado:** a diferença é de classificação de nulo, nenhum voto de candidato difere |
 | **A5** log contra boletim | 1.435 seções (0,29%) com menos votos no log que no boletim; nenhuma com mais. **1.432 delas tiveram urna trocada no dia** (o log é o da substituta) | acima de 0,5% | não encontrado |
 | **A6** votos depois das 17h | **34.810 votos** depois das 17h de Brasília (0,03% dos votos) em 30.086 seções; **13 depois das 19h**. Teto: mesmo que todos fossem do Lula, seriam **0,79% da margem**. Salvador: 1.768; Feira de Santana: 147; Lauro de Freitas: 79. Por vencedor da seção: 0,08 por seção onde o Lula venceu, 0,06 onde o Flávio venceu. As 34 seções com mais de 30% dos votos do log depois das 17h são **todas de urna trocada** (o log da substituta só tem os últimos votos; contra o comparecimento do boletim, nenhuma passa de 30%) | mais de 10% da margem, ou seções com mais de 30% dos votos depois das 17h | **sinal encontrado pela letra da regra (34 seções), explicado pela troca de urna**; a margem não é tocada |
@@ -60,3 +60,15 @@ Base: as **499.248 seções** do 2º turno, cada uma com hora de recebimento, bo
 | **A8** pausa e cauda (parte 1) | 345 boletins recebidos durante a pausa: Lula 49,5%. Os últimos 2% (depois das 21h08): Lula **54,1%** contra 51,8% no geral, sobretudo RJ e SP. O último boletim chegou às 09h28 de 26/10 | comparação com o 1º turno das mesmas seções | **pendente** (rodada 3) |
 | **A9** urna trocada (parte 1) | 2.000 seções; Lula 52,3% contra 51,8% no geral | comparação com o 1º turno | **pendente** (rodada 3) |
 | **A10** unanimidades (parte 1) | seções com mais de 95% dos válidos: **1.686 do Lula e 39 do Flávio**; zero votos: Flávio em 88 seções, Lula em 3. As do Lula estão no MA (492), BA (249), AM (230), PI (149), PA (118); comparecimento médio 82,1% (geral 80,9%). Somam 318 mil votos válidos e 299 mil de vantagem do Lula (6,7% da margem) | mais de 2 vezes de um lado que do outro, ou acima do 1º turno e de 2022 | **sinal encontrado (43 vezes mais do lado do Lula)**; a comparação com as mesmas seções no 1º turno e em 2022 decide o veredito (rodada 3) |
+
+## Rodada 3 · 26/10/2026 (1º contra 2º turno, defesa completa, probabilidade completa, fechamento)
+
+Tudo o que foi pedido, em [`RELATORIO.md`](../RELATORIO.md) (gerado por script) e [`RESUMO_SIMPLES.md`](../RESUMO_SIMPLES.md):
+
+- **1º turno por seção:** 499.206 seções; SP, TO e exterior pelo BU na Web do TSE depois de o servidor de resultados responder 429 (emenda 1), conferido contra 73.000 seções de SP já baixadas: iguais em todas.
+- **Régua de 2022:** os dois turnos de 2022 por seção, iguais ao total do TSE nas duas bases.
+- **Acusação A1 a A11 completos**, com o veredito de cada um na régua de cinco níveis e o teto do pior caso.
+- **Defesa D1 a D6 completos:** a conta, a transferência de votos com validação em 2022, a abstenção, as 219 cidades que viraram (e as 4 do outro lado), a noite refeita pelos boletins e as pesquisas da última semana.
+- **Probabilidade P1 a P7 completa**, com 180 segundos turnos de 41 países (P6) e as 19 pesquisas da última semana (P3).
+- **Outros países:** [`OUTROS_PAISES.md`](OUTROS_PAISES.md).
+- **Validação independente:** todas as checagens passaram. **Revisão adversarial:** [`REVISAO_ADVERSARIAL.md`](REVISAO_ADVERSARIAL.md). **Leitura da IA:** [`LEITURA_DA_IA.md`](LEITURA_DA_IA.md). **Gráficos:** `resultados/figuras/video/` (9).

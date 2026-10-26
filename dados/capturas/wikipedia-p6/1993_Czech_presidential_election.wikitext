@@ -1,0 +1,140 @@
+{{Short description|none}}
+{{Infobox election
+| country = Czech Republic
+| type = presidential
+| election_date = 26 January 1993
+|previous_election = 1992 Czechoslovak presidential election
+| previous_year = 1992 (Czechoslovakia)
+| next_election = 1998 Czech presidential election
+| next_year = 1998
+
+| image1 = Vaclav Havel.jpg
+| nominee1 = '''[[Václav Havel]]'''
+| party1 = Independent politician
+| electoral_vote1 = '''109'''
+| percentage1 = '''54.5%'''
+
+| image2 = Marie Stiborová.jpg
+| nominee2 = [[Marie Stiborová]]
+| party2 = Communist Party of Bohemia and Moravia
+| electoral_vote2 = 49
+| percentage2 = 24.5%
+
+| image3 = Miroslav Sládek.jpg
+| nominee3 = [[Miroslav Sládek]]
+| party3 = Rally for the Republic – Republican Party of Czechoslovakia
+| electoral_vote3 = 14
+| percentage3 = 7.0%
+
+| title = [[President of the Czech Republic|President]]
+| after_election = [[Václav Havel]]
+| after_party = Independent politician
+}}{{Politics of the Czech Republic}}
+
+Indirect presidential elections were held in the [[Czech Republic]] on 26 January 1993 to elect the first president of the newly independent country. The president was elected by the members of the Czech Republic Parliament, with Václav Havel emerging as the winner.<ref>{{cite web|title=Prezidentská volba tajná ci verejná|url=http://www.vlada.cz/cz/media-centrum/aktualne/prezidentska-volba-tajna-ci-verejna-31175/|website=Vlada.cz|accessdate=4 August 2016}}</ref><ref>{{cite web|title=Naši prezidenti|url=http://www.halonoviny.cz/articles/view/968841|website=Haló noviny|accessdate=4 August 2016|archive-date=28 August 2017|archive-url=https://web.archive.org/web/20170828015845/http://www.halonoviny.cz/articles/view/968841|url-status=dead}}</ref> The election was complicated only by attacks of Republicans against Havel and by [[bomb threat]] to the Parliament.<ref>{{cite web|title=Největší skandály prezidentských voleb|url=http://www.ahaonline.cz/clanek/musite-vedet/21424/nejvetsi-skandaly-prezidentskych-voleb.html|website=Ahaonline.cz|accessdate=13 March 2017}}</ref>
+
+==Candidates==
+*[[Václav Havel]] – former president of Czechoslovakia and a candidate of governing coalition ([[Civic Democratic Party (Czech Republic)|ODS]], [[Christian and Democratic Union – Czechoslovak People's Party|KDU–ČSL]] and [[Civic Democratic Alliance|ODA]]).
+*[[Marie Stiborová]] – leader of the Left Bloc (coalition of parties [[Communist Party of Bohemia and Moravia|KSČM]] and [[Party of the Democratic Left (Czech Republic)|SDL]]). 
+*[[Miroslav Sládek]] – leader of [[Rally for the Republic – Republican Party of Czechoslovakia|SPR–RSČ]].
+
+==Opinion polls==
+{| class=wikitable style=text-align:center
+! Date !! Agency !! [[Václav Havel]] !! [[Miroslav Sládek]] !! Someone else !! Undecided !! None
+|-
+| November 1992 || IVVM || 25.7 || 1.6 ||  style="background:#D1D1D1"|'''38.4''' || 25.8 || 8.5
+|-
+|align=left colspan=7|Source: Nesstar
+|}
+
+==Parties in parliament==
+{| class=wikitable style=text-align:left
+!colspan=2|Party
+!Chamber of Deputies
+!Endorsed candidate
+|-
+| bgcolor="{{party color|Civic Democratic Party (Czech Republic)}}" |
+| [[Civic Democratic Party (Czech Republic)|Civic Democratic Party]] (ODS)
+| {{Composition bar|66|200|hex={{party color|Civic Democratic Party (Czech Republic)}}}}
+| [[Václav Havel]]
+|-
+| bgcolor="{{party color|Communist Party of Bohemia and Moravia}}" |
+| [[Communist Party of Bohemia and Moravia]] (KSČM)
+| {{Composition bar|33|200|hex={{party color|Communist Party of Bohemia and Moravia}}}}
+| [[Marie Stiborová]]
+|-
+| bgcolor="{{party color|ČSSD}}" |
+| [[Czech Social Democratic Party]] (ČSSD)
+| {{Composition bar|16|200|hex={{party color|ČSSD}}}}
+|
+|-
+| bgcolor="{{party color|Christian and Democratic Union - Czechoslovak People's Party}}" |
+| [[Christian and Democratic Union – Czechoslovak People's Party]] (KDU–ČSL)
+| {{Composition bar|15|200|hex={{party color|Christian and Democratic Union – Czechoslovak People's Party}}}}
+| [[Václav Havel]]
+|-
+| style="background:#292829;"| 
+| [[Rally for the Republic – Republican Party of Czechoslovakia]] (SPR–RSČ)
+| {{Composition bar|14|200|hex=#292829}}
+| [[Miroslav Sládek]]
+|-
+| style="background:#0000FF;"| 
+| [[Civic Democratic Alliance]] (ODA)
+| {{Composition bar|14|200|hex=#0000FF}}
+| [[Václav Havel]]
+|-
+| style="background:#FFFF33;"| 
+| [[Movement for Autonomous Democracy–Party for Moravia and Silesia]] (HSD–SMS)
+| {{Composition bar|14|200|hex=#FFFF33}}
+| 
+|-
+| style="background:#00008B;"| 
+| [[Christian Democratic Party (Czech Republic)|Christian Democratic Party]] (KDS)
+| {{Composition bar|10|200|hex=#00008B}}
+| [[Václav Havel]]
+|-
+| style="background:#00B233;"| 
+| Agrarian Party (ZS)
+| {{Composition bar|8|200|hex=#00B233}}
+|
+|-
+| style="background:#bf0202;"| 
+| [[Czech National Social Party|Czechoslovak Socialist Party]] (ČSS)
+| {{Composition bar|5|200|hex=#bf0202}}
+|
+|-
+| bgcolor="{{party color|Green Party (Czech Republic)}}" |
+| [[Green Party (Czech Republic)|Green Party]] (SZ)
+| {{Composition bar|3|200|hex={{party color|Green Party (Czech Republic)}}}}
+|
+|-
+|  style="background:#ED1B34;"| 
+| [[Party of the Democratic Left (Czech Republic)|Party of the Democratic Left]] (SDL)
+| {{Composition bar|2|200|hex=#ED1B34}}
+| [[Marie Stiborová]]
+|-
+|}
+
+==Results==
+All 200 Members of Parliament voted. Six of them submitted invalid ballots while 22 submitted empty ballots. Havel received 109 votes and thus won the election in the first round. Communist candidate Stiborová received only 49 votes and Republican candidate Sládek only 14 votes. This is the only presidential election in which the president was voted and elected only by Chamber of Deputies.<ref>{{cite web|title=1992 a 1993 - Volba prezidenta 2008 (Ceský rozhlas)|url=http://www.rozhlas.cz/prezident08/prezidentskevolby/_zprava/427281|website=Rozhlas.cz|accessdate=4 August 2016|archive-date=15 January 2013|archive-url=https://web.archive.org/web/20130115085627/http://www.rozhlas.cz/prezident08/prezidentskevolby/_zprava/427281|url-status=dead}}</ref> Havel received 109 votes. It was expected that Havel will receive much more votes because governing coalition had 105 votes and part of opposition promised support to Havel. It is very likely that he didn't receive some votes from Civic Democrats and Christian Democrats (from KDS). Havel was inaugurated on 2 February 1993 and became the first president of the Czech Republic.<ref name="OLBA PREZIDENTA REPUBLIKY V ČESKÉ REPUBLICE">{{cite book|last1=Lutišan|first1=Vojtěch|title=VOLBA PREZIDENTA REPUBLIKY V ČESKÉ REPUBLICE|publisher=Masaryk University|location=Brno|pages=21–22}}</ref>
+
+{{Election results
+|cand1=[[Václav Havel]]|votes1=109
+|cand2=[[Marie Stiborová]]|votes2=49
+|cand3=[[Miroslav Sládek]]|votes3=14
+|blank=22
+|invalid=6
+}}
+
+==References==
+{{reflist}}
+
+{{Candidates in the Czech presidential election, 1993}}
+{{Czech presidential elections}}
+
+[[Category:1993 Czech presidential election| ]]
+[[Category:1993 elections in the Czech Republic|Presidential election]]
+[[Category:1993 in the Czech Republic|Presidential election]]
+[[Category:Indirect presidential elections|Czech presidential election, 1993]]
+[[Category:Presidential elections in the Czech Republic]]
+[[Category:January 1993 in Europe|Czech presidential election]]

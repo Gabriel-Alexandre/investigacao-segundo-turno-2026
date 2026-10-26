@@ -1,0 +1,59 @@
+{{Short description|none}}
+{{Use dmy dates|date=June 2023}}
+{{Infobox election
+| election_name = 2002 Slovenian presidential election
+| country = Slovenia
+| type = presidential
+| ongoing = no
+| previous_election = 1997 Slovenian presidential election
+| previous_year = 1997
+| next_election = 2007 Slovenian presidential election
+| next_year = 2007
+| election_date = {{nowrap|10 November 2002 (first round)}}<br />{{nowrap|1 December 2002 (second round)}}
+| image1            = [[File:Janez Drnovšek (2002-06-24) (cropped).jpg|150x150px]]
+| nominee1          = '''[[Janez Drnovšek]]'''
+| party1            = Liberal Democracy of Slovenia 
+| popular_vote1     = '''586,263'''
+| percentage1       = '''56.58%'''
+| image2            = [[File:Barbara Brezigar.jpg|150x150px]]
+| nominee2          = [[Barbara Brezigar]]
+| party2            = Independent politician
+| popular_vote2     = 449,995
+| percentage2       = 43.42%
+| title             = [[President of Slovenia|President]]
+| before_election   = [[Milan Kučan]]
+| before_party      = Independent politician
+| after_election    = [[Janez Drnovšek]]
+| after_party       = Liberal Democracy of Slovenia 
+}}{{Politics of Slovenia}}
+Presidential elections were held in [[Slovenia]] in 2002. The first round was held on 10 November, with a run-off held on 1 December after no candidate passed the 50% threshold in the first round. The result was a victory for [[Janez Drnovšek]], who won 56.6% of the vote in the second round. Voter turnout was 72.04% in the first round and 65.24% in the second.<ref>[http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/SIPR19921_Display&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/SIPR19921_Display_C1&top=yes Dataset: Slovenia: Presidential Election 2002 – round 2] {{Webarchive|url=https://web.archive.org/web/20190306015605/http://eed.nsd.uib.no/webview/index.jsp?study=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfStudy%2FSIPR19921_Display&mode=cube&v=2&cube=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfCube%2FSIPR19921_Display_C1&top=yes |date=6 March 2019 }} European Elections Database</ref>
+
+==Results==
+{{Election results
+|cand1=[[Janez Drnovšek]]|party1=[[Liberal Democracy of Slovenia]]|votes1=508114|votes1_2=586263
+|cand2=[[Barbara Brezigar]]|party2=Independent|votes2=352520|votes2_2=449995
+|cand3=[[Zmago Jelinčič Plemeniti]]|party3=[[Slovenian National Party]]|votes3=97178
+|cand4=France Arhar|party4=Independent|votes4=86836
+|cand5=[[France Bučar]]|party5=Independent|votes5=37069
+|cand6=[[Lev Kreft]]|party6=[[Social Democrats (Slovenia)|United List of Social Democrats]]|votes6=25715
+|cand7=Anton Bebler|party7=[[Democratic Party of Pensioners of Slovenia]]|votes7=21165
+|cand8=Gorazd Drevenšek|party8=[[New Slovenia]]|votes8=9791
+|cand9=Jure Jurček Cekuta|party9=Independent|votes9=6184
+|invalid=15209|invalid2=14275
+|electorate=1609985|electorate2=1610234
+|source=[https://web.archive.org/web/20110815124035/http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/SIPR19921_Display&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/SIPR19921_Display_C1&top=yes European Elections Database]
+}}
+
+==References==
+{{Reflist}}
+
+{{Slovenian elections}}
+
+[[Category:Presidential elections in Slovenia]]
+[[Category:2002 elections in Europe|Slovenia]]
+[[Category:2002 in Slovenia|Presidential election]]
+[[Category:November 2002 in Europe]]
+[[Category:December 2002 in Europe]]
+
+
+{{Slovenia-election-stub}}

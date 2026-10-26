@@ -1,0 +1,681 @@
+{{Short description|none}}
+{{Use dmy dates|date=October 2023}}
+{{Infobox election
+| country = Costa Rica
+| flag_year = state
+| type = presidential
+| previous_election = 2002 Costa Rican general election
+| previous_year = 2002
+| next_election = 2010 Costa Rican general election
+| next_year = 2010
+| election_date = 5 February 2006
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| image_size = 130x130px
+| registered = 2,550,613
+| turnout = 65.21% ({{decrease}} 3.63[[percentage point|pp]])
+
+| image1 = Óscar Arias.jpg
+| nominee1 = '''[[Óscar Arias]]'''
+| running_mate1 = '''[[Laura Chinchilla]]''' <br /> '''[[Kevin Casas Zamora|Kevin Casas]]'''
+| party1 = National Liberation Party (Costa Rica)
+| percentage1 = '''40.92%'''
+| popular_vote1 = '''664,551'''
+
+| image2 = Ottón Solís Fallas, PAC - Costa Rica (cropped).JPG
+| nominee2 = [[Ottón Solís]]
+| running_mate2 = [[Epsy Campbell Barr|Epsy Campbell]] <br /> Marita González
+| party2 = Citizens' Action Party (Costa Rica)
+| percentage2 = 39.80%
+| popular_vote2 = 646,382
+
+| image3 = Otto Guevara (cropped 2).jpg
+| nominee3 = [[Otto Guevara]]
+| running_mate3 = Rogelio Pardo <br /> Ana Alfaro
+| party3 = Libertarian Movement (Costa Rica)
+| percentage3 = 8.76%
+| popular_vote3 = 137,710
+
+| map_image = Elección Presidencial de Costa Rica (2006) (Distritos Administrativos).svg
+| map_caption = Results by district<br>'''Arias''': 
+{{legend0|#72B397|20–30%}} {{legend0|#5DA888|30–40%}} {{legend0|#509577|40–50%}} {{legend0|#457F66|50–60%}} {{legend0|#396A55|60–70%}} {{legend0|#2E5544|70-80%}} {{legend0|#224033|80-90%}}<br>'''Solís''': {{legend0|#EDE900|30-40%}} {{legend0|#CFCC00|40–50%}} {{legend0|#B1AF00|50-60%}} {{legend0|#949100|60–70%}}<br>'''Toledo''': {{legend0|#596DC9|30–40%}} 
+
+| title = [[President of Costa Rica|President]]
+| before_election = [[Abel Pacheco]]
+| before_party = Social Christian Unity Party
+| after_election = [[Óscar Arias]]
+| after_party = National Liberation Party (Costa Rica)
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+
+| seats_for_election = All 57 seats in the [[Legislative Assembly of Costa Rica|Legislative Assembly]]
+| majority_seats = 29
+| turnout = 65.20% ({{decrease}} 3.64[[percentage point|pp]])
+
+| party1 = National Liberation Party (Costa Rica)
+| leader1 = [[Óscar Arias|Óscar Arias Sánchez]]
+| percentage1 = 36.54
+| seats1 = 25
+| last_election1 = 17
+
+| party2 = Citizens' Action Party (Costa Rica)
+| leader2 = [[Ottón Solís|Ottón Solís Fallas]]
+| percentage2 = 25.34
+| seats2 = 14
+| last_election2 = 14
+
+| party3 = Libertarian Movement (Costa Rica)
+| leader3 = [[Otto Guevara|Otto Guevara Guth]]
+| percentage3 = 9.17
+| seats3 = 6
+| last_election3 = 6
+
+| party4 = Social Christian Unity Party
+| leader4 = [[Ricardo Toledo Carranza]]
+| percentage4 = 7.82
+| seats4 = 5
+| last_election4 = 19
+
+| color5 = #00554E
+| party5 = National Union Party (Costa Rica)
+| leader5 = {{ill|José Manuel Echandi Meza|es}}
+| percentage5 = 2.50
+| seats5 = 1
+| last_election5 = New
+
+| party6 = National Restoration Party (Costa Rica)
+| leader6= [[Carlos Avendaño Calvo]]
+| percentage6 = 2.04
+| seats6 = 1
+| last_election6 = New
+
+| party7 = Accessibility without Exclusion Party
+| leader7 = [[Óscar López (Costa Rican politician)|Óscar López Arias]]
+| percentage7 = 1.59
+| seats7 = 1
+| last_election7 = New
+
+| party8 = Broad Front (Costa Rica)
+| leader8 = [[José Merino del Río]]
+| percentage8 = 1.10
+| seats8 = 1
+| last_election8 = New
+
+| map                = Elecciones legislativas de Costa Rica de 2006 - Diputados por Provincia.svg
+| map_caption        = Results by province
+}}}}
+}}{{Politics of Costa Rica}}[[Image:OscarArias.jpg|right|150px|thumb|Óscar Arias]]
+
+General elections were held in [[Costa Rica]] on 5 February 2006. In the presidential election, [[Óscar Arias]] of the [[National Liberation Party (Costa Rica)|National Liberation Party]], a former president and [[Nobel Peace Prize]] laureate, won over [[Ottón Solís]] of the [[Citizens' Action Party (Costa Rica)|Citizens' Action Party]] and twelve other minor-party candidates. 
+
+Although Arias had been expected to win comfortably, the race proved much closer than anticipated. Preliminary results, with 88.45% of ballots counted, showed Arias leading with 40.51% of the vote, compared to 40.29% for Solís, a margin of only 3,250 votes. Owing to the narrow difference, the [[Supreme Electoral Court of Costa Rica|Supreme Electoral Court]] ordered a manual recount of all ballots and postponed the official declaration of the winner until the process was completed. The recount, concluded approximately two weeks later, confirmed Arias's victory.
+
+In the parliamentary election, the National Liberation Party emerged as the largest party in the [[Legislative Assembly of Costa Rica|Legislative Assembly]] for the first time since [[1994 Costa Rican general election|1994]]. It won the highest number of seats, although it fell four seats short of an outright majority.
+
+==Presidential election==
+===Candidates===
+There were fourteen candidates running for the presidency in the 2006 elections. However, only a few rose in the polls above the error margin.
+
+====Óscar Arias====
+Óscar Arias, the candidate of the [[National Liberation Party (Costa Rica)|National Liberation Party]] (PLN), was widely regarded as the frontrunner throughout the campaign. Arias had previously served as President of Costa Rica from 1986 to 1990. 
+
+Internationally, he was best known for his role in promoting the [[Esquipulas Peace Agreement]], which contributed to the resolution of armed conflicts in Central America during the 1980s, particularly in Nicaragua, El Salvador, and Guatemala. In recognition of these efforts, he was awarded the [[Nobel Peace Prize]] in 1987. He later established the Arias Foundation for Peace and Human Progress, an organization dedicated to peacebuilding, demilitarization, conflict resolution, and the promotion of human rights Through this group Arias helped to settle conflicts throughout Latin America, participating in the process to demilitarize Haiti and Panama.<ref>{{cite news 
+| first = Jim | last = Wright 
+| title = Costa Rica's Oscar Arias: Blessed are the peacemakers 
+| publisher = Fort Worth Star-Telegram 
+| date = 10 February 1998
+
+}}</ref>
+
+Arias made the fight against poverty and corruption the headlining issues of his campaign. During public appearances he promised to provide scholarships to poor families so their children could stay in school and not have to work (a promise he fulfilled on his first day in office), and spoke about the urgency of signing the [[Central American Free Trade Agreement]] in order to create high-paying jobs for Costa Rica's youth.<ref>{{cite web
+| title = No habrá segunda vuelta
+| author = Sylvia Alvarado Marenco and Pablo Guerén Catepillán
+| url = http://www.aldia.co.cr/especiales/elecciones2006/arias.html
+| publisher = Al Día
+| accessdate = December 20, 2005
+
+}} {{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+With the pre-election opinion polls favoring Óscar Arias, he did not foresee such stiff competition from his closest rival Ottón Solís. At first count, there was a difference of only 0.4% (Óscar Arias = 40.6% vs Ottón Solís = 40.2%), or about 3,200 votes. Large numbers of voters supporting candidates other than Óscar Arias and Ottón Solís chose to cast their ballot for Ottón Solís at the last minute, with the objective of keeping Óscar Arias from winning the elections.
+
+Election laws in Costa Rica dictate, among other things, that a candidate requires 40% of the votes to avoid a second round of voting for election of the President. Further, in case of a tie with candidates having the same number of votes, the elder of the two wins the seat.
+
+====Ottón Solís====
+[[Ottón Solís|Solís]] was the candidate of the [[Citizens' Action Party (Costa Rica)|Citizens' Action Party]] (PAC). Solís is a co-founder of the party and was its candidate in the 2002 presidential elections. In that election he ran against Rolando Araya of the [[National Liberation Party (Costa Rica)|National Liberation Party]] (PLN) and Abel Pacheco of the [[Social Christian Unity Party]] (PUSC). On 3 February 2002 the first round was held, in which Solís lost. He was running in an effort to break up the two-party system in Costa Rica.<ref>{{
+
+cite encyclopedia
+| encyclopedia= Current Biography International Yearbook
+| edition = 2002 | year = 2002
+| article = Pacheco de la Espriella, Abel
+
+}}</ref>
+
+Solís is a critic of the [[Dominican Republic-Central America Free Trade Agreement|Central American Free Trade Agreement]] (CAFTA). He has called for the renegotiations of CAFTA to add protection for vulnerable farmers and industrial companies. He has said that in its current form, "CAFTA will increase poverty in Central America because it will displace farmers and industrial workers and will increase the cost of health care."<ref>{{
+
+cite news 
+| first = Martin | last = Vaughan
+| title = Arias Says Region Might Lose Benefits Without CAFTA
+| publisher = CongressDaily AM 
+| pages = 15–16
+| date = June 9, 2005
+
+}}</ref> He also said that "I never imagined CAFTA was going to be so one sided," and "The law of the jungle benefits the big beast. We are a very small beast."<ref>{{
+
+cite news 
+| author = James C. McKinley Jr.
+| title = U.S. Trade Pact Divides the Central Americans, With Farmers and Others Fearful
+| work = New York Times
+| date = August 21, 2005
+
+}}</ref> Solís sees several possible detrimental aspects that could come from CAFTA. First he claims that it will cause the breakup of the public telecommunications and electricity monopolies which will have to be privatized. Additionally he thinks that the lowered trade barriers will cause a flood of cheap food products from the [[United States]] to come in and this will hurt the internal market for small-scale farmers.<ref>{{
+
+cite news 
+| first = Jim | last = Abrams 
+| title = Administration moves to ease objections to trade agreement
+| publisher = Associated Press 
+| date = June 10, 2005
+
+}}</ref>
+
+====Otto Guevara====
+[[Otto Guevara|Otto Guevara Guth]] was the co-founder, along with Rigoberto Stewart and Raúl Costales Domínguez, of the [[Movimiento Libertario]], a [[Libertarianism|libertarian]] party. He was elected to the [[Legislative Assembly of Costa Rica|legislature]] in 1998. Guevara originally ran as a libertarian politician who claimed to believe in cutting of government programs, which he saw as excessive. Some of these programs included government subsidies for food, US$10,000 subsidies for housing, and free textbooks paid for by the state. He also rejected government funding for the party's political campaigns.<ref>{{
+cite web
+ |author=Julian Sanchez 
+ |date=August 12, 2003 
+ |url=http://www.reason.com/interviews/guevara.shtml 
+ |title=The Other Guevara 
+ |publisher=Reason Online 
+ |accessdate=December 20, 2005 
+ |archiveurl=https://web.archive.org/web/20051211053433/http://www.reason.com/interviews/guevara.shtml 
+ |archivedate=December 11, 2005 
+ |url-status=dead 
+}}</ref>
+
+For the 2006 election, a faction of the Movimiento Libertario led by Guevara took control of the party and backed down on many of the party's initial positions. They decided to accept government funding, which was previously stated by him as immoral, and on several interviews he has claimed that public education needs to be strengthened by more funding, that the country needs to build more jails, and several other issues that will actually increase government spending.
+
+On the foreign policy front, Guevara is in favor of advancing civil liberties abroad. He is a critic of the Castro government in Cuba, accusing politicians in Latin America of being accomplices to the lack of political liberty by not speaking out against the country's government. Guevara has linked the lack of political liberties in Cuba to what he sees as an overextension of the state in Costa Rica. Specifically he sees that eliminating regulations which, according to him, affect the development of the economy, as being a part of his program to protect political liberty. Specifically he sees regulations on agroindustry as being a considerable problem.<ref>{{
+
+cite news
+| first = Pablo | last = Alfonso 
+| title = Líder Costarricense pide luchar contra la dictadura castrista
+| publisher = El Nuevo Herald 
+| page=5A 
+| date=July 24, 2005
+
+}}</ref>
+
+He hadn't clear if his position on these issues changed along with the others. Given that his position on Cuba was likely the result of influence by Raúl Costales, an exiled Cuban who was one of the party founders and a long-time party secretary, and that he separated himself from the party after they voted to accept money from the government, it's likely Guevara's foreign policy has changed.
+
+====Ricardo Toledo====
+[[Ricardo Toledo Carranza]] was the presidential candidate of the governing [[Social Christian Unity Party]] (PUSC). A longtime member of the party, he had held several leadership positions within the organization, including president of its youth wing, coordinator for the party's southern regional districts, and head of party organization and management. He also served as a senior official and vice minister in the Ministry of Labour and Social Security in 1982.
+
+Toledo was regarded as a close political ally of outgoing President [[Abel Pacheco]]. Prior to his presidential candidacy, he served as a deputy in the [[Legislative Assembly of Costa Rica|Legislative Assembly]] during the 2002–2006 term. His candidacy took place amid declining public support for the PUSC, which had been affected by a series of political scandals involving prominent party figures in the years preceding the election.<ref>{{cite web
+ |url=http://www.asamblea.go.cr/diputado/toledo.htm 
+ |title=Ricardo Jaime Toledo Carranza 
+ |publisher=Asamblea Legislativa República de Costa Rica 
+ |accessdate=December 21, 2005 
+ |archiveurl=https://web.archive.org/web/20060306101537/http://www.asamblea.go.cr/diputado/toledo.htm 
+ |archivedate=March 6, 2006 
+ |url-status=dead 
+}}</ref>
+
+====Antonio Álvarez====
+[[Antonio Álvarez Desanti|Antonio Álvarez]] was the candidate for the party that he heads, the [[Union for Change Party]] (UPC).
+
+He is running on a platform of political change. In an interview with newspaper ''Al Día'' Álvarez said that one thing that he believes negatively affects the country is unregulated immigration of [[Nicaraguans]]. He recommends stricter penalties for employers of immigrants who might be exploiting the Nicaraguans for cheap labor, and for increased use of documentation for immigrants.
+
+On the economic front, Álvarez is interested in helping to build infrastructure because he believes it is essential to the continued economic development of Costa Rica. He is in favor of using the grant of public work and the emergency road network plan to build up the highways. He believes that a major problem with the health system is that it is inadequately funded and that violators are not penalized. Specifically he points to businesses who are not paying in order to have enough money to fund changes to the medical system. He is not in favor of legalizing [[same-sex marriage]] but is in favor of extending the benefits of marriage over to a [[civil union]]. In order to fight corruption in the municipalities and to ensure that money reaches the level that it is supposed to, Álvarez recommends more oversight in the hiring process so that the most qualified and honest people are in the positions where money distribution is involved. He is in favor of programs which encourage entrepreneurship, especially among the younger generation. Also for college students, he is not in favor of eliminating exams for the baccalaureate, but rather wants to expand education through increased infrastructure, new programs including secondary schools, and diversifying education through the regions.<ref>{{
+
+cite web 
+| date=30 November 2005 
+| url=http://www.upc.or.cr/entrevistas/Chat_Al_Dia.pdf 
+| title=Transcripción del Chat de Al Día: Antonio Álvarez Desanti, candidato presidencial de UPC 
+| publisher=Al Día 
+| accessdate=December 21, 2005
+
+| archiveurl=https://web.archive.org/web/20060218060021/http://www.upc.or.cr/entrevistas/Chat_Al_Dia.pdf 
+| archivedate=18 February 2006 
+}}</ref>
+
+==Campaign==
+Polemic over the [[Central American Free Trade Agreement]] was influential in the campaign as many candidates and parties took positions in support or reject of the treaty and Costa Rican society was split over the issue.<ref>{{cite book|last1=Shaw|first1=Lauren|title=Song and Social Change in Latin America|date=4 April 2013|isbn=9780739179499|url=https://books.google.com/books?id=Nog7p8Qy-n8C&q=costa+rican+society+polemic+cafta&pg=PA68}}</ref><ref name="Trejos">{{cite news|last1=Trejos|first1=Eugenia|title=The opposition to CAFTA in Costa Rica: Institutionalisation of a social movement|url=http://www.bilaterals.org/?the-opposition-to-cafta-in-costa&lang=en|accessdate=13 March 2016|publisher=Bilaterals.org|date=August 2007}}</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Óscar Arias]]|party1=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes1=664551
+|cand2=[[Ottón Solís]]|party2=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes2=646382
+|cand3=[[Otto Guevara]]|party3=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes3=137710
+|cand4=[[Ricardo Toledo Carranza]]|party4=[[Social Christian Unity Party]]|votes4=57655
+|cand5=[[Antonio Álvarez Desanti]]|party5=[[Union for Change Party]]|votes5=39557
+|cand6={{ill|José Manuel Echandi Meza|es}}|party6=[[National Union Party (Costa Rica)|National Union Party]]|votes6=26593|color6=#00554E
+|cand7={{ill|Juan José Vargas Fallas|es}}|party7=[[Homeland First Party]]|votes7=17594|color7=SlateBlue
+|cand8=Bolívar Serrano|party8=[[Costa Rican Renewal Party]]|votes8=15539
+|cand9={{ill|Walter Muñoz Céspedes|es}}|party9=[[National Integration Party (Costa Rica)|National Integration Party]]|votes9=5136
+|cand10={{ill|José Miguel Villalobos Umaña|es}}|party10=Democratic Nationalist Alliance|votes10=3670|color10=#00166E
+|cand11={{ill|Vladimir de la Cruz|es|Vladimir de la Cruz de Lemos}}|party11=[[Democratic Force (Costa Rica)|Democratic Force]]|votes11=3020
+|cand12={{ill|Álvaro Montero Mejía|es}}|party12=[[National Rescue Party]]|votes12=2430
+|cand13={{ill|Humberto Vargas Carbonell|es}}|party13={{ill|United Left (Costa Rica)|es|Izquierda Unida (Costa Rica)|lt=United Left}}|votes13=2291|color13=#AD0430
+|cand14=José Arce|party14=Patriotic Union|votes14=1864|color14=#0065BD
+|invalid=30422
+|blank=8834
+|electorate=2550613
+|source=[http://www.electionresources.org/cr/president.php?election=2006&province= Election Resources]
+}}
+
+====By province====
+{| class="wikitable sortable" style="text-align:right; font-size:95%;"
+!rowspan=2|[[Provinces of Costa Rica|Province]]
+!width=60px|[[National Liberation Party (Costa Rica)|PLN]] %
+!width=60px|[[Citizens' Action Party (Costa Rica)|PAC]] %
+!width=60px|[[Libertarian Movement (Costa Rica)|ML]] %
+!width=60px|[[Social Christian Unity Party|PUSC]] %
+!width=60px|[[Union for Change Party|UpC]] %
+!width=60px|[[National Union Party (Costa Rica)|PUN]] %
+!width=60px|[[Homeland First Party|PPP]] %
+!width=60px|Other %
+|-
+!style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+!style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+!style="background:{{party color|Libertarian Movement (Costa Rica)}}"|
+!style="background:{{party color|Social Christian Unity Party}}"|
+!style="background:{{party color|Union for Change Party}}"|
+!style="background:#00554E"|
+!style="background:slateblue"|
+!style="background:#7a7a7a"|
+|-
+| align="left"| {{flag|San José}}
+| 38.9
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 42.4
+| 8.3
+| 2.8
+| 2.7
+| 1.9
+| 1.1
+| 1.9
+|-
+| align="left"| {{flag|Alajuela}}
+| 40.5
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 43.8
+| 6.6
+| 2.7
+| 2.2
+| 1.3
+| 1.0
+| 1.8
+|-
+| align="left"| {{flag|Cartago}}
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 40.8
+| 38.2
+| 10.3
+| 3.3
+| 2.8
+| 1.8
+| 1.3
+| 1.4
+|-
+| align="left"| {{flag|Heredia}}
+| 39.2
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 43.7
+| 7.7
+| 2.8
+| 2.4
+| 1.5
+| 0.9
+| 1.8
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|47.2
+| 30.1
+| 9.6
+| 6.5
+| 1.8
+| 1.0
+| 1.1
+| 2.7
+|-
+| align="left"| {{flag|Limón}}
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|40.4
+| 29.6
+| 13.5
+| 6.5
+| 2.7
+| 1.9
+| 1.2
+| 4.3
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|49.9
+| 31.3
+| 6.5
+| 5.9
+| 1.6
+| 1.1
+| 0.8
+| 2.8
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 40.9
+| 39.8
+| 8.5
+| 3.6
+| 2.4
+| 1.6
+| 1.1
+| 2.1
+|}
+
+===Legislative Assembly===
+While [[National Liberation Party (Costa Rica)|PLN]] managed to return as the main political force in the Assembly, [[Citizens' Action Party (Costa Rica)|PAC]] became for the first time the second largest political group in the Parliament.<ref name="Lehring">{{cite news|last1=Lehring|first1=Gary|title=Costa Rican legislative elections show growing voter dissatisfaction with traditional choices|url=http://www.ticotimes.net/2014/02/15/costa-rican-legislative-elections-show-growing-voter-dissatisfaction-with-traditional-choices|accessdate=13 March 2016|agency=The Tico Times|date=15 February 2014}}</ref> The [[Social Christian Unity Party|PUSC]] on the other hand, dogged by corruption scandals,<ref name="Landsford">{{cite book|last1=Landsford|first1=Tom|title=Political Handbook of the World 2014|date=20 March 2014|isbn=9781483386263|url=https://books.google.com/books?id=iC_VBQAAQBAJ&q=costa+rica%27s+end+of+two+party+system&pg=PA333|accessdate=13 March 2016}}</ref><ref name="Landsford 2">{{cite book|last1=Landsford|first1=Tom|title=Political Handbook of the World 2012|date=2 April 2012|isbn=9781608719952|url=https://books.google.com/books?id=d33MfEFXvW8C&q=costa+rica%27s+end+of+two+party+system&pg=PA332|accessdate=13 March 2016}}</ref> suffered a humiliating defeat, passing from being the first parliamentary party with 19 deputies to the fourth place one with only 5. The [[Libertarian Movement (Costa Rica)|Libertarian Movement]] kept its 6 seats<ref name="Lehring"/> while the newly resurrected [[National Union Party (Costa Rica)|National Union Party]] led by former Costa Rican [[Ombudsman]] José Manuel Echandi won one seat for Echandi himself (who later would resign from the party, leaving it seatless).
+
+Three then regional political parties won one seat each; the [[socialist]] [[Broad Front (Costa Rica)|Broad Front]], [[Disability rights movement|disability rights]] party [[Accessibility without Exclusion Party]] and [[Christian politics|Christian party]] [[National Restoration Party (Costa Rica)|National Restoration]]. Broad Front's seat went for [[Spain|Spanish]] émigré [[José Merino del Río|José Merino]] and was the return of the [[Left-wing politics|left]] in the Parliament after one period without representation.<ref name="Trejos"/> The recently founded party [[Union for Change Party|Unión for Change]] made by PLN's dissident [[Antonio Álvarez Desanti]] did not win any seats.<ref>{{cite web 
+| date=30 November 2005 
+| url=http://www.upc.or.cr/entrevistas/Chat_Al_Dia.pdf 
+| title=Transcripción del Chat de Al Día: Antonio Álvarez Desanti, candidato presidencial de UPC 
+| publisher=Al Día 
+| accessdate=December 21, 2005
+| archiveurl=https://web.archive.org/web/20060218060021/http://www.upc.or.cr/entrevistas/Chat_Al_Dia.pdf 
+| archivedate=18 February 2006 
+}}</ref>
+
+{{Election results
+|image=[[File:Costa Rica Legislative Assembly 2006.svg]]
+|party1=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes1=589731|seats1=25|sc1=+8
+|party2=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes2=409030|seats2=17|sc2=+3
+|party3=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes3=147934|seats3=6|sc3=0
+|party4=[[Social Christian Unity Party]]|votes4=126284|seats4=5|sc4=–14
+|party5=[[Costa Rican Renewal Party]]|votes5=55798|seats5=0|sc5=–1
+|party6=[[National Union Party (Costa Rica)|National Union Party]]|votes6=40280|seats6=1|sc6=New|color6=#00554E
+|party7=[[Union for Change Party]]|votes7=37994|seats7=0|sc7=New
+|party8=[[National Restoration Party (Costa Rica)|National Restoration Party]]|votes8=32909|seats8=1|sc8=New
+|party9=[[Accessibility without Exclusion Party]]|votes9=25690|seats9=1|sc9=New
+|party10=[[Homeland First Party]]|votes10=26438|seats10=0|sc10=New|color10=SlateBlue
+|party11=[[Broad Front (Costa Rica)|Broad Front]]|votes11=17751|seats11=1|sc11=New
+|party12=Democratic Nationalist Alliance|votes12=14537|seats12=0|sc12=New|color12=#00166E
+|party13=[[Democratic Force (Costa Rica)|Democratic Force]]|votes13=13675|seats13=0|sc13=0
+|party14=[[National Integration Party (Costa Rica)|National Integration Party]]|votes14=12945|seats14=0|sc14=0
+|party15=[[Agrarian Labour Action Party]]|votes15=11713|seats15=0|sc15=0
+|party16=[[Cartago Agrarian Union Party]]|votes16=9395|seats16=0|sc16=0
+|party17=Patriotic Union|votes17=8612|seats17=0|sc17=New|color17=#0065BD
+|party18=[[Alajuelense Democratic Action]]|votes18=7867|seats18=0|sc18=New
+|party19={{ill|United Left (Costa Rica)|es|Izquierda Unida (Costa Rica)|lt=United Left}}|votes19=5744|seats19=0|sc19=New|color19=#AD0430
+|party20=[[Independent Guanacaste Party]]|votes20=5010|seats20=0|sc20=New
+|party21=Authentic Heredian Party|votes21=3556|seats21=0|sc21=New|color21=#8F1414
+|party22=Provincial Integration Party|votes22=2835|seats22=0|sc22=New|color22=yellow
+|party23=New Feminist League Party|votes23=2357|seats23=0|sc23=New|color23=#008000
+|party24=[[Cartago Green Party|Green Ecologist Party]]|votes24=1885|seats24=0|sc24=New
+|party25=Workers' and Farmers' Movement|votes25=1507|seats25=0|sc25=New|color25=#556B2F
+|party26=Cartago Agrarian Force Party|votes26=1482|seats26=0|sc26=0
+|party27=Cartago Turrialban Authentic Party|votes27=1002|seats27=0|sc27=New|color27=#CF5C23
+|invalid=34286
+|blank=14652
+|total_sc=0
+|electorate=2550613
+|source=[http://www.electionresources.org/cr/deputies.php?election=2006&province= Election Resources]
+}}
+
+====By constituency====
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+|-
+! rowspan="3"| Constituency
+! colspan="2" width="30px"| [[National Liberation Party (Costa Rica)|PLN]]
+! colspan="2" width="30px"| [[Citizens' Action Party (Costa Rica)|PAC]]
+! colspan="2" width="30px"| [[Libertarian Movement (Costa Rica)|ML]]
+! colspan="2" width="30px"| [[Social Christian Unity Party|PUSC]]
+! colspan="2" width="30px"| [[Costa Rican Renewal Party|PRC]]
+! colspan="2" width="30px"| [[National Union Party (Costa Rica)|PUN]]
+! colspan="2" width="30px"| [[Union for Change Party|UpC]]
+! colspan="2" width="30px"| [[Homeland First Party|PPP]]
+! colspan="2" width="30px"| [[Democratic Force (Costa Rica)|FD]]
+! colspan="2" width="30px"| [[National Integration Party (Costa Rica)|PIN]]
+! colspan="2" width="30px"| Other
+|-
+! colspan="2" style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Libertarian Movement (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Social Christian Unity Party}}"|
+! colspan="2" style="background:{{party color|Costa Rican Renovation Party}}"|
+! colspan="2" style="background:#00554E"|
+! colspan="2" style="background:{{party color|Union for Change Party}}"|
+! colspan="2" style="background:slateblue"|
+! colspan="2" style="background:{{party color|Democratic Force (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|National Integration Party (Costa Rica)}}"|
+! colspan="2" style="background:#7a7a7a"|
+|-
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+|-
+| align="left"| [[San José (Legislative Assembly constituency)|San José]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 33.6
+|'''7'''
+| style="background:#FFEB7F; color:black;"| 26.1
+|'''5'''
+| 9.2
+|'''2'''
+| 6.2
+|'''2'''
+| 2.1
+|'''0'''
+| 2.8
+|'''1'''
+| 2.2
+|'''0'''
+| 2.1
+|'''0'''
+| 0.8
+|'''0'''
+| 1.1
+|'''0'''
+| 13.8
+|'''3'''
+|-
+| align="left"| [[Alajuela (Legislative Assembly constituency)|Alajuela]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 37.3
+|'''5'''
+| style="background:#FFEB7F; color:black;"| 27.7
+|'''4'''
+| 7.8
+|'''1'''
+| 6.9
+|'''1'''
+| 4.2
+|'''0'''
+| 2.5
+|'''0'''
+| 2.4
+|'''0'''
+| 1.3
+|'''0'''
+| 0.7
+|'''0'''
+| 0.5
+|'''0'''
+| 8.7
+|'''0'''
+|-
+| align="left"| [[Cartago (Legislative Assembly constituency)|Cartago]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 35.2
+|'''3'''
+| style="background:#FFEB7F; color:black;"| 27.7
+|'''3'''
+| 10.4
+|'''1'''
+| 7.1
+|'''0'''
+| 2.0
+|'''0'''
+| 1.9
+|'''0'''
+| 2.8
+|'''0'''
+| 1.4
+|'''0'''
+| 0.7
+|'''0'''
+| 1.1
+|'''0'''
+| 9.8
+|'''0'''
+|-
+| align="left"| [[Heredia (Legislative Assembly constituency)|Heredia]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 36.4
+|'''3'''
+| style="background:#FFEB7F; color:black;"| 30.6
+|'''2'''
+| 9.0
+|'''0'''
+| 8.3
+|'''0'''
+| 4.2
+|'''0'''
+| 1.9
+|'''0'''
+| 2.2
+|'''0'''
+| 1.6
+|'''0'''
+| 0.7
+|'''0'''
+| 0.8
+|'''0'''
+| 4.3
+|'''0'''
+|-
+| align="left"| [[Puntarenas (Legislative Assembly constituency)|Puntarenas]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 44.7
+|'''2'''
+| style="background:#FFEB7F; color:black;"| 18.6
+|'''1'''
+| 10.0
+|'''1'''
+| 12.8
+|'''1'''
+| 5.4
+|'''0'''
+| 1.3
+|'''0'''
+| 2.2
+|'''0'''
+| 1.6
+|'''0'''
+| 1.6
+|'''0'''
+| 0.3
+|'''0'''
+| 2.0
+|'''0'''
+|-
+| align="left"| [[Limón (Legislative Assembly constituency)|Limón]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 37.0
+|'''2'''
+| style="background:#FFEB7F; color:black;"| 17.4
+|'''1'''
+| 11.7
+|'''1'''
+| 12.3
+|'''1'''
+| 7.2
+|'''0'''
+| 3.8
+|'''0'''
+| 3.1
+|'''0'''
+| 1.4
+|'''0'''
+| 1.6
+|'''0'''
+| 0.8
+|'''0'''
+| 3.7
+|'''0'''
+|-
+| align="left"| [[Guanacaste (Legislative Assembly constituency)|Guanacaste]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 44.6
+|'''3'''
+| style="background:#FFEB7F; color:black;"| 16.6
+|'''1'''
+| 7.2
+|'''0'''
+| 10.9
+|'''0'''
+| 4.9
+|'''0'''
+| 3.1
+|'''0'''
+| 1.8
+|'''0'''
+| 0.8
+|'''0'''
+| 0.7
+|'''0'''
+| 0.4
+|'''0'''
+| 8.9
+|'''0'''
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 36.5
+|'''25'''
+| 25.3
+|'''17'''
+| 9.2
+|'''6'''
+| 8.2
+|'''5'''
+| 3.5
+|'''0'''
+| 2.5
+|'''1'''
+| 2.4
+|'''0'''
+| 1.6
+|'''0'''
+| 0.8
+|'''0'''
+| 0.8
+|'''0'''
+| 9.5
+|'''3'''
+|}
+
+==See also==
+*[[2006 Costa Rican municipal elections]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20051231093512/http://www.clrk.org/blog/2005/09/17/debate-presidencial-parte-i/ Videos of the Debate] {{in lang|es}}
+*[http://www.oscararias.com/ Arias for President] {{in lang|es}}
+*[https://web.archive.org/web/20050927214609/http://www.pac.or.cr/ PAC Official Website] {{in lang|es}}
+
+{{Costa Rican elections}}
+
+[[Category:2006 elections in Central America|Costa]]
+[[Category:2006 in Costa Rica|General]]
+[[Category:Parliamentary elections in Costa Rica]]
+[[Category:Presidential elections in Costa Rica]]

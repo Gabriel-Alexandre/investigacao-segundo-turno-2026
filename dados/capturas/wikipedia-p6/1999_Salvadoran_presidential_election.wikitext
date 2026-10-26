@@ -1,0 +1,62 @@
+{{short description|1999 elections in El Salvador}}
+{{use dmy dates|date=January 2022}}
+{{Infobox election
+| election_name = 1999 Salvadoran presidential election
+| country = El Salvador
+| type = Presidential
+| ongoing = no
+| registered = 3,171,224
+| turnout = 38.57% ({{decrease}}13.70[[percentage point|pp]])
+| previous_election = 1994 Salvadoran general election
+| previous_year = 1994
+| next_election = 2004 Salvadoran presidential election
+| next_year = 2004
+| election_date = 7 March 1999
+| image1 = 2012exPresidenteFFlores.jpg
+| nominee1 = '''[[Francisco Flores Pérez|Francisco Flores]]'''
+| running_mate1 = [[Carlos Quintanilla Schmidt]]
+| party1 = Nationalist Republican Alliance
+| popular_vote1 = '''614,268'''
+| percentage1 = '''51.96%'''
+| image2 = {{eppt||FMLN|color={{party color|Farabundo Martí National Liberation Front}}}}
+| nominee2 = [[Facundo Guardado]]
+| running_mate2 = [[María Marta Valladares]]
+| party2 = Farabundo Martí National Liberation Front
+| popular_vote2 = 343,472
+| percentage2 = 29.05%
+| map_image = Elecciones presidenciales de El Salvador de 1999 - Resultado por Departamento.svg
+| map_caption = Results by department
+| title = President
+| before_election = [[Armando Calderón Sol]]
+| before_party = Nationalist Republican Alliance
+| after_election = [[Francisco Flores Pérez]]
+| after_party = Nationalist Republican Alliance
+}}
+
+Presidential elections were held in [[El Salvador]] on 7 March 1999. The result was a victory for [[Francisco Flores (politician)|Francisco Flores]] of the [[Nationalist Republican Alliance]], who won in the first round with 51.96% of the vote.<ref name="Memoria Especial de Labores Elección 1999">{{cite web|url=https://www.tse.gob.sv/laip_tse/documentos/estadisticos/1999/consolidado_nacional_presid_1999.pdf|title=Memoria Especial de Labores Elección 1999|agency=Tribunal Supremo Electoral|date=2022-02-14|access-date=2022-03-10}}</ref>
+
+==Results==
+{{Election results
+|cand1=[[Francisco Flores Pérez]]|vp1=[[Carlos Quintanilla Schmidt]]|party1=[[Nationalist Republican Alliance]]|votes1=614268
+|cand2=[[Facundo Guardado]]|vp2=María Marta Valladares|party2=[[Farabundo Martí National Liberation Front|FMLN]]–USC|votes2=343472
+|cand3=[[Rubén Zamora]]|vp3=Roberto Meza|party3=[[United Democratic Centre (El Salvador)|United Democratic Centre]]|votes3=88640
+|cand4=[[Rodolfo Parker]]|vp4=Donald Ricardo Calderón Lam|party4=[[Christian Democratic Party (El Salvador)|Christian Democratic Party]]|votes4=67207
+|cand5=Hernán Contreras|vp5=Julio Eduardo Moreno Niños|party5=[[National Coalition Party (El Salvador)|National Conciliation Party]]|votes5=45140
+|cand6=Salvador Nestor García|vp6=Mauricio Meyer|party6=Democratic Republican League|votes6=19269
+|cand7=Francisco Ayala de Paz|vp7=Humberto Merlos Hernández|party7=Party of the United People and the New Deal|votes7=4252
+|invalid=40967
+|electorate=3171224
+|source=[https://www.tse.gob.sv/documentos/memoria-de-elecciones/memoria-elecciones-1999.pdf TSE]
+}}
+
+==References==
+{{reflist}}
+
+{{Portal bar|El Salvador|Politics}}
+{{Salvadoran elections}}
+{{Authority control}}
+
+[[Category:1999 elections in Central America|El Salvador]]
+[[Category:Presidential elections in El Salvador]]
+[[Category:1999 in El Salvador]]
+[[Category:March 1999 in North America]]

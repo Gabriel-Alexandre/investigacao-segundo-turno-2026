@@ -1,0 +1,605 @@
+{{Short description|none}}
+{{Infobox election
+| country = Uruguay
+| previous_election = 1999 Uruguayan general election
+| previous_year = 1999
+| next_election = 2009 Uruguayan general election
+| next_year = 2009
+| election_date = 31 October 2004
+| registered = 2,488,004
+| turnout = 89.62% ({{decrease}} 2.17[[percentage point|pp]])
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| image_size = 130x130px
+
+| image1 = Tabaré26022007.jpg
+| nominee1 = '''[[Tabaré Vázquez]]'''
+| party1 = Socialist Party of Uruguay
+| alliance1 = Broad Front (Uruguay)
+| color1 = {{party color|Broad Front (Uruguay)}}
+| running_mate1 = '''[[Rodolfo Nin]]'''
+| popular_vote1 = '''1,124,761'''
+| percentage1 = '''51.68%'''
+
+| image2 = Jorge Larrañaga4.jpg
+| nominee2 = {{nowrap|[[Jorge Larrañaga]]}}
+| party2 = [[National Party (Uruguay)|National]]
+| running_mate2 = [[Sergio Abreu (politician)|Sergio Abreu]]
+| popular_vote2 = 764,739
+| percentage2 = 35.13%
+
+| image3 = Stirling.jpg
+| party3 = [[Colorado Party (Uruguay)|Colorado]]
+| nominee3 = {{nowrap|[[Guillermo Stirling]]}}
+| popular_vote3 = 231,036
+| percentage3 = 10.61%
+| running_mate3 = [[Tabaré Viera]]
+
+| title = President
+| before_election = [[Jorge Batlle]]
+| before_party = [[Colorado Party (Uruguay)|Colorado]]
+| after_election = [[Tabaré Vázquez]]
+| after_party = Broad Front (Uruguay)
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+
+| heading1 = Chamber
+| party1 = Broad Front (Uruguay) | leader1 = [[Tabaré Vázquez]] | percentage1 = 51.68 | seats1 = 52 | last_election1 = 40
+| party2 = [[National Party (Uruguay)|National]] | leader2 = [[Jorge Larrañaga]] | percentage2 = 35.13 | seats2 = 36 | last_election2 = 22
+| party3 = [[Colorado Party (Uruguay)|Colorado]] | leader3 = [[Guillermo Stirling]] | percentage3 = 10.61 | seats3 = 10 | last_election3 = 33
+| party4 = [[Independent Party (Uruguay)|Independent]] | leader4 = [[Pablo Mieres]] | percentage4 = 1.88 | seats4 = 1 | last_election4 = new
+
+| heading6 = Senate
+| party6 = Broad Front (Uruguay) | leader6 = [[Tabaré Vázquez]] | percentage6 = 51.68 | seats6 = 16 | last_election6 = 12
+| party7 = [[National Party (Uruguay)|National]] | leader7 = [[Jorge Larrañaga]] | percentage7 = 35.13 | seats7 = 11 | last_election7 = 7
+| party8 = [[Colorado Party (Uruguay)|Colorado]] | leader8 = [[Guillermo Stirling]] | percentage8 = 10.61 | seats8 = 3 | last_election8 = 10
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Maps
+
+| map_image = {{Switcher
+|[[File:Resultados de las elecciones presidenciales de Uruguay de 2004 por departamento.svg|300px]]
+|Presidential results by department
+|[[File:2004 General Assembly of Uruguay Election.svg|350px]]
+|Parliamentary results by constituency
+}}
+
+}}}}}}}}{{Politics of Uruguay}}
+
+General elections were held in [[Uruguay]] on 31 October 2004, alongside a [[2004 Uruguayan constitutional referendum|constitutional referendum]].<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p494 {{ISBN|978-0-19-928358-3}}</ref><ref name="corte2004">{{cite web |url=http://www.corteelectoral.gub.uy/gxportal/gxpfiles/elecciones/Elecciones%20Nacionales%202004.htm |title=2004 Uruguayan election results |publisher=Corte Electoral |accessdate=6 February 2014 |language=es |archive-url=https://web.archive.org/web/20160620113741/http://www.corteelectoral.gub.uy/gxportal/gxpfiles/elecciones/Elecciones%20Nacionales%202004.htm |archive-date=20 June 2016 |url-status=dead }}</ref> The result was a victory for the [[Broad Front (Uruguay)|Broad Front]], marking the first time a party other than the [[Colorado Party (Uruguay)|Colorado Party]] or [[National Party (Uruguay)|National Party]] had held power since the two parties were formed in the 1830s.
+
+Broad Front leader [[Tabaré Vázquez]] was elected president on his third attempt after his party won just over 50% of the vote, enough for him to win the presidency in a single round. To date, this is the only time that a presidential election has been decided without a runoff since the [[two-round system]] was introduced in 1999. The Broad Front also won majorities in the [[Chamber of Deputies of Uruguay|Chamber of Deputies]] and the [[Senate of Uruguay|Senate]].
+
+==Presidential candidates==
+The [[2004 Uruguayan presidential primaries|Uruguayan presidential primaries]] were held on 27 June 2004, to choose single candidates for every party.
+
+{| class="wikitable"
+! colspan="2" rowspan="2" |Party
+! colspan="2" rowspan="2" |Candidate
+! rowspan="2" |Ideology
+! colspan="2" |Previous result
+|-
+!Votes (%)
+!Seats
+|-
+| bgcolor="{{party color|Broad Front (Uruguay)}}" width="1" |
+|[[Broad Front (Uruguay)|Broad Front–Progressive Encounter–New Majority]]
+|[[File:Tabaré26022007.jpg|alt=|frameless|77x77px]]
+|[[Tabaré Vázquez]]
+|[[Democratic socialism]]
+[[Social democracy]]
+|44.67%
+|{{Composition bar|44|99|hex={{party color|Broad Front (Uruguay)}}}}{{Composition bar|13|30|hex={{party color|Broad Front (Uruguay)}}}}
+|-
+| bgcolor="{{party color|National Party (Uruguay)}}" width="1" |
+|[[National Party (Uruguay)|National Party]]
+|[[File:Jorge Larrañaga4.jpg|alt=|frameless|77x77px]]
+|[[Jorge Larrañaga]]
+|[[Conservatism]]
+[[Christian democracy]]
+|22.31%
+|{{Composition bar|22|99|hex={{party color|National Party (Uruguay)}}}}{{Composition bar|7|30|hex={{party color|National Party (Uruguay)}}}}
+|-
+| bgcolor="{{party color|Colorado Party (Uruguay)}}" width="1" |
+|[[Colorado Party (Uruguay)|Colorado Party]]
+|[[File:Stirling.jpg|alt=|frameless|77x77px]]
+|[[Guillermo Stirling]]
+|[[Liberalism]]
+|32.78%
+|{{Composition bar|33|99|hex={{party color|Colorado Party (Uruguay)}}}}{{Composition bar|10|30|hex={{party color|Colorado Party (Uruguay)}}}}
+|-
+| bgcolor="{{party color|Independent Party (Uruguay)}}" width="1" |
+|[[Independent Party (Uruguay)|Independent Party]]
+|[[File:Pablomieres.jpg|frameless|77x77px]]
+|[[Pablo Mieres]]
+|[[Social democracy]]
+[[Christian democracy]]
+| colspan="2" |''New party''
+|}
+
+==Results==
+{{Election results
+|image=[[File:Cámara de Diputados Uruguay 2005.svg|300px]][[File:Senado Uruguay 2005.svg|300px]]
+|dsv=y|candtitle=Presidential candidate|seattype1=Chamber|seattype2=+/–|seattype3=Senate|seattype4=+/–
+|party1=[[Broad Front (Uruguay)|Broad Front]]–Progressive Encounter|cand1=[[Tabaré Vázquez]]|votes1=1124761|st1t1=52|st2t1=+12|st3t1=16|st4t1=+4
+|party2=[[National Party (Uruguay)|National Party]]|cand2=[[Jorge Larrañaga]]|votes2=764739|st1t2=36|st2t2=+14|st3t2=11|st4t2=+4
+|party3=[[Colorado Party (Uruguay)|Colorado Party]]|cand3=[[Guillermo Stirling]]|votes3=231036|st1t3=10|st2t3=–23|st3t3=3|st4t3=–7
+|party4=[[Independent Party (Uruguay)|Independent Party]]|cand4=[[Pablo Mieres]]|votes4=41011|st1t4=1|st2t4=New|st3t4=0|st4t4=New
+|party5=Intransigent Party|cand5=Victor Lissidini|votes5=8572|st1t5=0|st2t5=New|st3t5=0|st4t5=New
+|party6=[[Civic Union (Uruguay)|Civic Union]]|cand6=Aldo Lamorte|votes6=4859|st1t6=0|st2t6=New|st3t6=0|st4t6=0
+|party7=[[Liberal Party (Uruguay)|Liberal Party]]|cand7=Julio Vera|votes7=1548|st1t7=0|st2t7=New|st3t7=0|st4t7=New
+|party8=[[Workers' Party (Uruguay)|Workers' Party]]|cand8=Rafael Fernández|votes8=513|st1t8=0|st2t8=New|st3t8=0|st4t8=New
+|invalid=52572
+|total_st2t=0|total_st4t=0
+|electorate=2487816
+|source=[https://web.archive.org/web/20160620113741/http://www.corteelectoral.gub.uy/gxportal/gxpfiles/elecciones/Elecciones%20Nacionales%202004.htm Corte Electoral]
+}}
+
+===By department===
+{| class="wikitable sortable collapsible collapsed tpl-blanktable" style="text-align:left; font-size:95%; line-height:20px;"
+|+ class="nowrap" | Results
+! rowspan="3" | Constituency
+! colspan="3" width="30px" class="unsortable" | Broad Front
+! colspan="3" width="30px" class="unsortable" | National Party
+! colspan="3" width="30px" class="unsortable" | Colorado Party
+! colspan="3" |Independent Party
+! colspan="2" rowspan="2" |Others{{efn|Parties which gained no parliamentary representation: Intransigent Party, [[Civic Union (Uruguay)|Civic Union]], [[Liberal Party (Uruguay)|Liberal Party]], [[Workers' Party (Uruguay)|Workers' Party]].}}
+! colspan="2" rowspan="2" |Valid votes
+! colspan="2" rowspan="2" |Invalid votes
+|-
+! colspan="3" style="background:{{party color|Broad Front (Uruguay)}}" |
+! colspan="3" style="background:{{party color|National Party (Uruguay)}}" |
+! colspan="3" style="background:{{party color|Colorado Party (Uruguay)}}" |
+! colspan="3" style="background:{{party color|Independent Party (Uruguay)}}" |
+|-
+! data-sort-type="number" | Votes
+! data-sort-type="number" | %
+!D
+! data-sort-type="number" | Votes
+! data-sort-type="number" | %
+!D
+! data-sort-type="number" | Votes
+! data-sort-type="number" | %
+!D
+!Votes
+!%
+!D
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+|-
+| align="left" | Artigas
+|16,220
+|32.1
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |24,517
+| style="background:{{party color|National Party (Uruguay)}}" |48.5
+|1
+|8,563
+|16.9
+|0
+|153
+|0.3
+|0
+|49
+|0.10
+|49,502
+|97.8
+|1,090
+|2.2
+|-
+| align="left" | Canelones
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |161,879
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |53.2
+|7
+|98,844
+|32.5
+|5
+|28,044
+|9.2
+|2
+|5,176
+|1.7
+|0
+|2,451
+|0.81
+|296,394
+|97.4
+|8,036
+|2.6
+|-
+| align="left" | Cerro Largo
+|23,111
+|38.0
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |29,129
+| style="background:{{party color|National Party (Uruguay)}}" |47.9
+|1
+|6,700
+|11.0
+|0
+|291
+|0.5
+|0
+|9
+|0.01
+|59,240
+|97.5
+|1,509
+|2.5
+|-
+| align="left" |Colonia
+|36,677
+|41.4
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |37,302
+| style="background:{{party color|National Party (Uruguay)}}" |42.1
+|1
+|10,136
+|11.4
+|1
+|1,527
+|1.7
+|0
+|641
+|0.72
+|86,283
+|97.4
+|2,298
+|2.6
+|-
+| align="left" |Durazno
+|13,524
+|33.1
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |19,456
+| style="background:{{party color|National Party (Uruguay)}}" |47.7
+|1
+|6,117
+|15.0
+|0
+|466
+|1.1
+|0
+|317
+|0.78
+|39,880
+|97.7
+|950
+|2.3
+|-
+| align="left" |Flores
+|6,049
+|31.7
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |9,567
+| style="background:{{party color|National Party (Uruguay)}}" |50.2
+|1
+|2,796
+|14.7
+|0
+|183
+|1.0
+|0
+|36
+|0.19
+|18,631
+|97.8
+|427
+|2.2
+|-
+| align="left" |Florida
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |21,042
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |41.3
+|1
+|20,495
+|40.2
+|1
+|7,413
+|14.5
+|0
+|678
+|1.3
+|0
+|261
+|0.51
+|49,889
+|97.8
+|1,115
+|2.2
+|-
+| align="left" |Lavalleja
+|14,612
+|31.7
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |22,122
+| style="background:{{party color|National Party (Uruguay)}}" |48.1
+|1
+|7,189
+|15.6
+|0
+|761
+|1.7
+|0
+|111
+|0.24
+|44,795
+|97.3
+|1,243
+|2.7
+|-
+| align="left" |Maldonado
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |46,945
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |47.8
+|2
+|36,218
+|36.9
+|2
+|9,278
+|9.4
+|0
+|2,620
+|2.7
+|0
+|553
+|0.56
+|95,614
+|97.4
+|2,568
+|2.6
+|-
+| align="left" |Montevideo
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |565,974
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |61.3
+|27
+|226,552
+|24.6
+|11
+|76,099
+|8.2
+|3
+|24,933
+|2.7
+|1
+|9,545
+|1.03
+|903,103
+|97.9
+|19,672
+|2.1
+|-
+| align="left" |Paysandú
+|35,053
+|45.3
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |35,357
+| style="background:{{party color|National Party (Uruguay)}}" |45.7
+|1
+|4,720
+|6.1
+|0
+|472
+|0.6
+|0
+|45
+|0.06
+|75,647
+|97.7
+|1,805
+|2.3
+|-
+| align="left" |Rio Negro
+|14,240
+|39.7
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |15,558
+| style="background:{{party color|National Party (Uruguay)}}" |43.4
+|1
+|4,926
+|13.7
+|0
+|235
+|0.7
+|0
+|106
+|0.30
+|35,065
+|97.8
+|780
+|2.2
+|-
+| align="left" |Rivera
+|21,300
+|30.0
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |32,006
+| style="background:{{party color|National Party (Uruguay)}}" |45.1
+|1
+|15,419
+|21.7
+|1
+|347
+|0.5
+|0
+|199
+|0.28
+|69,271
+|97.7
+|1,663
+|2.3
+|-
+| align="left" |Rocha
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |22,879
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |43.8
+|1
+|20,196
+|38.7
+|1
+|6,534
+|12.5
+|0
+|553
+|1.1
+|0
+|240
+|0.46
+|50,402
+|96.6
+|1,775
+|3.4
+|-
+| align="left" |Salto
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |35,359
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |43.4
+|1
+|31,823
+|39.1
+|1
+|11,610
+|14.3
+|1
+|479
+|0.6
+|0
+|214
+|0.26
+|79,485
+|97.6
+|1,927
+|2.4
+|-
+| align="left" |San Jose
+|29,277
+|42.8
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |29,663
+| style="background:{{party color|National Party (Uruguay)}}" |43.4
+|1
+|6,683
+|9.8
+|1
+|799
+|1.2
+|0
+|319
+|0.47
+|66,741
+|97.6
+|1,671
+|2.4
+|-
+| align="left" |Soriano
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |26,332
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |43.1
+|1
+|25,617
+|41.9
+|1
+|7,015
+|11.5
+|0
+|574
+|0.9
+|0
+|58
+|0.09
+|59,596
+|97.5
+|1,546
+|2.5
+|-
+| align="left" |Tacuarembó
+|21,241
+|32.6
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |33,931
+| style="background:{{party color|National Party (Uruguay)}}" |52.0
+|1
+|7,887
+|12.1
+|1
+|373
+|0.6
+|0
+|289
+|0.44
+|63,721
+|97.7
+|1,470
+|2.3
+|-
+| align="left" |Treinta y Tres
+|13,047
+|37.5
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |16,386
+| style="background:{{party color|National Party (Uruguay)}}" |47.1
+|1
+|3,907
+|11.2
+|0
+|391
+|1.1
+|0
+|49
+|0.14
+|33,780
+|97.0
+|1,027
+|3.0
+|- style="background:#CDCDCD;"
+| align="left" | '''Total'''
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |'''1,124,761'''
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |'''50.45'''
+|'''52'''
+| '''764,739'''
+|'''34.30'''
+|'''36'''
+|'''231,036'''
+|'''10.36'''
+|'''10'''
+|'''41,011'''
+|'''1.84'''
+|'''1'''
+|'''15,492'''
+|'''0.69'''
+|'''2,177,039'''
+|'''97.64'''
+|'''52,572'''
+|'''2.36'''
+|-
+! colspan="19" |
+|-
+! colspan="19" style="text-align:left; font-weight:normal; background:#F9F9F9" | Source: [https://www.corteelectoral.gub.uy/estadisticas/estadisticas/estadisticas Corte Electoral]
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20131227094207/http://www.fcs.edu.uy/subcategoria.php?SubCatId=184&CatId=105 Politics Data Bank at the Social Sciences School&nbsp;– Universidad de la República (Uruguay)]
+
+{{Uruguayan elections}}
+
+[[Category:2004 elections in South America|Uruguay]]
+[[Category:Parliamentary elections in Uruguay]]
+[[Category:Presidential elections in Uruguay]]
+[[Category:2004 in Uruguay|General election]]
+[[Category:October 2004 in South America|Uruguay]]
+<!-- as follows, notable politicians who were relevant for this election -->
+[[Category:Tabaré Vázquez]]
+[[Category:Long stubs with short prose]]
+
+
+{{Uruguay-election-stub}}

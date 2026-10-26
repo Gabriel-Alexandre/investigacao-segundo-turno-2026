@@ -1,0 +1,83 @@
+{{short description|none}}
+{{Use dmy dates|date=September 2022}}
+{{Infobox election
+| country = Colombia
+| type = presidential
+| previous_election = 1990 Colombian presidential election
+| previous_year = 1990
+| next_election = 1998 Colombian presidential election
+| next_year = 1998
+| election_date = 29 May 1994 (first round)<br />19 June 1994 (second round)
+| turnout = 33.95% (first round) {{decrease}} 9.55pp<br/> 43.32% (second round)
+| image1 = Ernesto Samper.jpg
+| nominee1 = '''[[Ernesto Samper]]'''
+| party1 = Colombian Liberal Party
+| running_mate1 = '''[[Humberto De la Calle]]'''
+| popular_vote1 = '''3,733,366'''
+| percentage1 = '''50.57%'''
+| image2 = Andres Pastrana Arango (2001).jpg
+| nominee2 = {{nowrap|[[Andrés Pastrana Arango]]}}
+| party2 = Colombian Conservative Party
+| running_mate2 = [[Luis Fernando Ramírez]]
+| popular_vote2 = 3,576,781
+| percentage2 = 48.45%
+| map_image = {{Switcher
+|[[File:1994 Colombian Presidential Election First Round Results.svg|270px]]
+|First round results by municipality
+|[[File:1994 Colombian Presidential Election Second Round Results.svg|270px]]
+|Second round results by municipality
+|default=2
+}}
+| title = President
+| before_election = [[César Gaviria]]
+| before_party = Colombian Liberal Party
+| after_election = [[Ernesto Samper]]
+| after_party = Colombian Liberal Party
+}}{{Politics of Colombia}}
+
+Presidential elections were held in [[Colombia]] on 29 May 1994, with a second round on 19 June.<ref>{{cite book |first=Dieter |last=Nohlen |authorlink=Dieter Nohlen |date=2005 |title=Elections in the Americas: A data handbook, Volume II |page=306 |isbn=978-0-19928-358-3}}</ref> The result was a victory for [[Ernesto Samper]] of the [[Colombian Liberal Party]], who received 51% of the vote in the runoff.
+
+Samper's victory was tainted by the [[Proceso 8000]] scandal, involving accusations that the Liberal Party had sought funding from the [[Cali Cartel]] during his campaign and afterward. This resulted in an investigation, which found several of Samper's close associates within the party guilty, although Samper himself was absolved of any wrongdoing.<ref>{{cite news |title=El proceso 8.000, a 21 años del escándalo mayor |url=http://www.elespectador.com/especiales/el-proceso-8000-20-anos-del-escandalo-mayor-articulo-556513 |newspaper=[[El Espectador]] |date=23 April 2015 |accessdate=8 November 2016}}</ref> However, the scandal badly damaged his and his party's reputation during his presidency and resulted in a coalition of opposition politicians forming to oppose him. This resulted in the defeat of the Liberal Party in the following [[1998 Colombian presidential election|1998 presidential election]]. As of the [[2022 Colombian presidential election|2022 presidential election]], Samper was Colombia's last Liberal Party president.
+
+==Results==
+{{Election results
+|cand1=[[Ernesto Samper]]|vp1=[[Humberto de La Calle]]|party1=[[Colombian Liberal Party]]|votes1=2623210|votes1_2=3733336
+|cand2=[[Andrés Pastrana]]|vp2=[[Luis Fernando Ramírez]]|party2=[[Colombian Conservative Party]]|votes2=2604771|votes2_2=3576781
+|cand3=[[Antonio Navarro Wolff]]|vp3=Jesús Piñacué|party3=Colombian Compromise ([[19th of April Movement|AD/M-19]]–[[Independent Social Alliance|ASI]])|votes3=219241
+|cand4=[[Regina 11|Regina Betancur]]|vp4=&nbsp;|party4=[[Metapolitical Unitary Movement]]|votes4=64131
+|cand5=Miguel Alfredo Maza Márquez|vp5=&nbsp;|party5=Civic People's Convergence|votes5=55190
+|cand6=Alberto Mendoza Morales|vp6=&nbsp;|party6=National Convergence–[[Patriotic Union (Colombia)|Patriotic Union]]–[[Colombian Communist Party|PCC]]|votes6=34437
+|cand7=Enrique Parejo González|vp7=&nbsp;|party7=Democratic Alternative|votes7=29246
+|cand8=Guillermo Alemán|vp8=&nbsp;|party8=Ecological Orientation Movement|votes8=22923
+|cand9=[[Gloria Gaitán]]|vp9=&nbsp;|party9=Jorge Eliecer Gaitán Movement|votes9=17397
+|cand10=José Antonio Cortes Huertas|vp10=&nbsp;|party10=[[Civic and Christian Commitment for the Community]]|votes10=11704
+|cand11=Miguel Zamora Ávila|vp11=&nbsp;|party11=Let's Protest|votes11=9059
+|cand12=José Galat|vp12=&nbsp;|party12=Moral Front|votes12=9055
+|cand13=Doris de Castro|vp13=&nbsp;|party13=Independent Christian Movement|votes13=6020
+|cand14=Luis Rodríguez Orjuela|vp14=&nbsp;|party14=[[Progressive National Movement]]|votes14=5711
+|cand15=Oscar Rojas Masso|vp15=&nbsp;|party15=We are Free|votes15=4368
+|cand16=José Guillermo Barnosa Millan|vp16=&nbsp;|party16=Organisation for National Peace|votes16=3797
+|cand17=Mario Diazgranados Llinas|vp17=&nbsp;|party17=Christian CGT|votes17=3319
+|cand18=Efraín Torres Plazas|vp18=&nbsp;|party18=Believe – No to the War|votes18=2637
+|row19=Blank votes|votes19=65116|votes19_2=72536
+|invalid=29999|invalid2=45089|invalidonly=y
+|electorate=17146597|electorate2=17146597
+|source=Nohlen, CMPR<ref>{{cite web|url=http://centromemoria.gov.co/wp-content/uploads/2020/05/Libro-UP-Imagenes-de-un-Suen%CC%83o.pdf|page=121|title=Uniób Patriótica: Imágenes de un sueño|website=Centro de Memoria, Paz y Reconciliación |archive-url=https://web.archive.org/web/20211214151524/http://centromemoria.gov.co/wp-content/uploads/2020/05/Libro-UP-Imagenes-de-un-Suen%CC%83o.pdf |archive-date=14 December 2021 }}</ref>
+}}
+
+==Proceso 8000==
+{{Excerpt|Proceso 8000}}
+
+==References==
+{{reflist}}
+
+{{Colombian elections}}
+
+[[Category:1994 in Colombia|Presidential]]
+[[Category:Presidential elections in Colombia]]
+[[Category:1994 elections in South America|Colombia]]
+[[Category:May 1994 in South America|Colombia]]
+[[Category:June 1994 in South America|Colombia]]
+
+
+{{Colombia-election-stub}}

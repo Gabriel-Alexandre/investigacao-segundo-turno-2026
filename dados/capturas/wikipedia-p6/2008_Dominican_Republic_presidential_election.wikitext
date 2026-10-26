@@ -1,0 +1,78 @@
+{{Short description|Election in the Dominican Republic}}
+{{Infobox election
+| election_name     = 2008 Dominican Republic presidential election
+| country           = Dominican Republic
+| type              = presidential
+| previous_election = 2004 Dominican Republic presidential election
+| previous_year     = 2004
+| election_date     = {{Start date|2008|05|16|df=y}}
+| next_election     = 2012 Dominican Republic presidential election
+| next_year         = 2012
+| turnout           = 71.36% ({{decrease}} 1.48[[Percentage point|pp]])
+
+| image1            = Leonel Fernandez Reyna.jpg
+| nominee1          = '''[[Leonel Fernández]]'''
+| party1            = Dominican Liberation Party
+| running_mate1     = 
+| popular_vote1     = '''2,199,734'''
+| percentage1       = '''53.83%'''
+
+| image2            = Miguel Vargas minister.jpg
+| nominee2          = [[Miguel Vargas (politician)|Miguel Vargas]]
+| party2            = Dominican Revolutionary Party
+| popular_vote2     = 1,654,066
+| percentage2       = 40.48%
+
+| map_image         = File:Map Electoral Dominican Republic (2008).svg
+| map_caption       = Results by province
+| title             = President
+| before_election   = [[Leonel Fernández]]
+| before_party      = Dominican Liberation Party
+| after_election    = [[Leonel Fernández]]
+| after_party       = Dominican Liberation Party
+}}{{Politics of the Dominican Republic}}
+
+Presidential elections were held in the [[Dominican Republic]] on 16 May 2008. The result was a victory for incumbent President [[Leonel Fernández]] of the [[Dominican Liberation Party]].<ref>[http://www.iht.com/articles/ap/2008/05/17/news/Dominican-Election.php Dominican Republic president declares re-election victory with 54 percent of vote] Associated Press, 17 May 2008</ref>
+
+==Opinion polls==
+{| class=wikitable style=text-align:center
+!Pollster
+!Date
+!Sample
+![[Leonel Fernández|Fernández]]
+![[Miguel Vargas (politician)|Vargas]]
+![[Amable Aristy|Aristy]]
+![[Eduardo Estrella|Estrella]]
+|-
+|{{usurped|1=[https://web.archive.org/web/20080705143015/http://www.angus-reid.com/polls/view/30699/fernndez_is_frontrunner_in_dominican_ballot Noxa-Cies]}}||21–26 April 2008||1,600||54%||36%||9%||1%
+|-
+|{{usurped|1=[https://web.archive.org/web/20080705143015/http://www.angus-reid.com/polls/view/30699/fernndez_is_frontrunner_in_dominican_ballot Noxa-Cies]}}||March 2008|| ||54%||30%||8%||1%
+|-
+|{{usurped|1=[https://web.archive.org/web/20080705143015/http://www.angus-reid.com/polls/view/30699/fernndez_is_frontrunner_in_dominican_ballot Noxa-Cies]}}||February 2008|| ||45%||31%||13%||2%
+|-
+|{{usurped|1=[https://web.archive.org/web/20071215080014/http://www.angus-reid.com/polls/view/29073/fernndez_could_win_again_in_dominican_republic Noxa-Cies]}}||20–25 October 2007||1,600||42%||30%||17%||–
+|}
+
+==Results==
+{{Election results
+|cand1=[[Leonel Fernández]]|party1=[[Dominican Liberation Party]]|votes1=2199734
+|cand2=[[Miguel Vargas (politician)|Miguel Vargas]]|party2=[[Dominican Revolutionary Party]]|votes2=1654066
+|cand3=[[Amable Aristy]]|party3=[[Social Christian Reformist Party]]|votes3=187645
+|cand4=[[Eduardo Estrella]]|party4=[[Revolutionary Social Democratic Party]]|votes4=19309
+|cand5=[[Guillermo Moreno García]]|party5=[[Broad Front (Dominican Republic)|Movement for Independence, Unity and Change]]|votes5=18136
+|cand6=Pedro de Jesús Candelier|party6=Popular Alliance Party|votes6=6118
+|cand7=Trajano Santana|party7=[[Independent Revolutionary Party]]|votes7=1533
+|invalid=27103
+|electorate=5764387
+|source=[http://www.electionguide.org/elections/id/2074/ IFES]
+}}
+
+==References==
+{{reflist}}
+
+{{Dominican Republic elections}}
+
+[[Category:2008 elections in the Caribbean|Dominican]]
+[[Category:2008 in the Dominican Republic|Presidential election]]
+[[Category:Presidential elections in the Dominican Republic]]
+[[Category:May 2008 in North America]]

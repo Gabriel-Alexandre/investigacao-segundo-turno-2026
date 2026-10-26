@@ -1,0 +1,98 @@
+{{Short description|none}}
+{{Infobox election
+| country = Ecuador
+| previous_election = 1988 Ecuadorian general election
+| previous_year = 1988
+| next_election = 1996 Ecuadorian general election
+| next_year = 1996
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 17 May 1992 (first round)<br />5 July 1992 (second round)
+| registered = 5,710,363
+| turnout = 71.62% (first round)<br />73.10% (second round)
+
+| image1 = Sixto Durán Ballén 2011 (3x4 crop).jpg
+| nominee1 = '''{{nowrap|[[Sixto Durán Ballén]]}}'''
+| party1 = Republican Union Party (Ecuador)
+| running_mate1 = '''[[Alberto Dahik]]'''
+| popular_vote1 = '''2,146,762'''
+| percentage1 = '''57.32%'''
+
+| image2 = REUNIÓN DE OPOSICIÓN (18746735053).jpg
+| nominee2 = [[Jaime Nebot]]
+| party2 = Social Christian Party (Ecuador)
+| running_mate2 = Galo Vela Álvarez
+| popular_vote2 = 1,598,707
+| percentage2 = 42.68%
+
+| map_image = | map = {{Switcher|[[File:Votos Presidente por Provincia Ecuador primera vuelta 1992.svg|200px]]|First round results by province|[[File:Votos Presidente por Provincia Ecuador segunda vuelta 1992.svg|200px]]|Second round results by province|default=2}}
+
+| title = [[President of Ecuador|President]]
+| before_election = [[Rodrigo Borja Cevallos]]
+| before_party = Democratic Left (Ecuador)
+| after_election = [[Sixto Durán Ballén]]
+| after_party = Union Republican Party
+}}}}
+
+General elections were held in [[Ecuador]] on 17 May 1992, with a second round of the presidential elections on 5 July.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p379 {{ISBN|978-0-19-928358-3}}</ref> The presidential elections resulted in a victory for [[Sixto Durán Ballén]] of the Republican Union Party–[[Conservative Party (Ecuador)|Conservative Party]] alliance, who received 57.3% of the vote in the run-off.<ref>Nohlen, p403</ref> The [[Social Christian Party (Ecuador)|Social Christian Party]] emerged as the largest party in the House of Representatives, winning 21 of the 77 seats.<ref>Nohlen, p396</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Sixto Durán Ballén]]|vp1=[[Alberto Dahik]]|party1=[[Republican Union Party (Ecuador)|PUR]]–[[Conservative Party (Ecuador)|PCE]]|votes1=1089154|votes1_2=2146762
+|cand2=[[Jaime Nebot]]|vp2=Galo Vela|party2=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes2=855225|votes2_2=1598707
+|cand3=[[Abdalá Bucaram]]|vp3=Marco Proaño|party3=[[Ecuadorian Roldosist Party]]|votes3=750611
+|cand4=[[Raúl Baca Carbo]]|vp4=Jorge Gallardo|party4=[[Democratic Left (Ecuador)|Democratic Left]]|votes4=288640
+|cand5=[[Frank Vargas Pazzos]]|vp5=Alfredo Larrea|party5=[[Ecuadorian Revolutionary Popular Action]]|votes5=107804
+|cand6=[[León Roldós]]|vp6=Alejandro Carrión|party6=[[Socialist Party – Broad Front of Ecuador|Socialist Party]]|votes6=88255
+|cand7=Fausto Moreno|vp7=Carlos Carrillo|party7=[[Democratic People's Movement]]|votes7=66507
+|cand8=Vladimiro Álvarez|vp8=Reinaldo Yanchapaxi|party8=[[Christian Democratic Union (Ecuador)|Popular Democracy]]|votes8=64611
+|cand9=[[Averroes Bucaram]]|vp9=Patricio del Pozo|party9=[[Concentration of People's Forces]]|votes9=45768
+|cand10=Bolívar Chiriboga|vp10=Zoila Laad|party10=[[Ecuadorian Radical Liberal Party]]|votes10=32816
+|cand11=Gustavo Iturralde|vp11=Édison Fonseca|party11=[[Socialist Party – Broad Front of Ecuador|Broad Front of the Left]]|votes11=15760
+|cand12=Bolívar González|vp12=Wilson Drouet|party12=Assad Bucaram Party|votes12=11050
+|invalid=673542|invalid2=428628
+|electorate=5710363|electorate2=5710363
+|source=Nohlen
+}}
+
+===National Congress===
+{{Election results
+|image=[[File:Congreso Ecuador 1992.svg]]
+|firstround=Nationwide|secondround=District
+|party1=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes1=753452|votes1_2=742165|seats1_2=|seats1=21|sc1=+13
+|party2=[[Republican Union Party (Ecuador)|Republican Union Party]]|votes2=575801|votes2_2=472751|seats2_2=|seats2=12|sc2=New
+|party3=[[Ecuadorian Roldosist Party]]|votes3=486498|votes3_2=513248|seats3_2=|seats3=13|sc3=+5
+|party4=[[Democratic Left (Ecuador)|Democratic Left]]|votes4=313415|votes4_2=289816|seats4_2=|seats4=7|sc4=–24
+|party5=[[Conservative Party (Ecuador)|Conservative Party]]|votes5=193654|votes5_2=271096|seats5_2=|seats5=6|sc5=+5
+|party6=[[Democratic People's Movement]]|votes6=191870|votes6_2=152797|seats6_2=|seats6=4|sc6=+2
+|party7=[[Christian Democratic Union (Ecuador)|Popular Democracy]]|votes7=171073|votes7_2=231163|seats7_2=|seats7=5|sc7=–3
+|party8=[[Socialist Party – Broad Front of Ecuador|Socialist Party]]|votes8=130558|votes8_2=134779|seats8_2=|seats8=3|sc8=–1
+|party9=[[Concentration of People's Forces]]|votes9=120607|votes9_2=78630|seats9_2=|seats9=1|sc9=–4
+|party10=[[Alfarista Radical Front]]|votes10=109419|votes10_2=114849|seats10_2=|seats10=1|sc10=–1
+|party11=[[Ecuadorian Revolutionary Popular Action]]|votes11=48833|votes11_2=46673|seats11_2=|seats11=1|sc11=+1
+|party12=[[Ecuadorian Radical Liberal Party]]|votes12=45982|votes12_2=60773|seats12_2=|seats12=2|sc12=+1
+|party13=[[People's Democratic Union (Ecuador)|UDP]]–[[Socialist Party – Broad Front of Ecuador|FADI]]|votes13=30541|votes13_2=30675|seats13_2=|seats13=0|sc13=–2
+|party14=[[National Liberation (Ecuador)|National Liberation]]|votes14=28888|votes14_2=31645|seats14_2=|seats14=1|sc14=New
+|party15=People, Change, Democracy|votes15=20773|votes15_2=14630|seats15_2=|seats15=0|sc15=0
+|party16=Assad Bucaram Party|votes16_2=14508|seats16_2=|seats16=0|sc16=New
+|party17=People's Party|votes17_2=2594|seats17_2=|seats17=0|sc17=0
+|invalid=835752|invalid2=853545
+|total_sc=+5
+|electorate=5710363|electorate2=5710363
+|source=Nohlen, [https://repositories.lib.utexas.edu/bitstream/handle/2152/17577/libro_8.pdf?sequence=2&isAllowed=y TRAMA], [http://americo.usal.es/oir/legislatina/ecuador.htm OPLAL]
+}}
+
+==References==
+{{Reflist}}
+
+{{Ecuadorian elections}}
+
+[[Category:1992 in Ecuador|General]]
+[[Category:Presidential elections in Ecuador]]
+[[Category:Parliamentary elections in Ecuador]]
+[[Category:1992 elections in South America|Ecuador]]
+[[Category:Election and referendum articles with incomplete results]]

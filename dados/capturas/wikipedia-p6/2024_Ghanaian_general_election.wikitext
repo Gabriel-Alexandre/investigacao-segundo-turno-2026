@@ -1,0 +1,3397 @@
+{{Short description|Ghanaian General Elections}}
+{{Use dmy dates|date=December 2024}}
+{{Infobox election
+| country = Ghana
+| previous_election = 2020 Ghanaian general election
+| previous_year = 2020
+| next_election = 
+| next_year = ''2028''
+| election_date = 7 December 2024
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| turnout = 63.97%
+
+| image1 = John Dramani Mahama 2014 (cropped).jpg
+| nominee1 = '''[[John Mahama]]'''
+| running_mate1 = '''[[Jane Naana Opoku-Agyemang]]'''
+| party1 = National Democratic Congress (Ghana)
+| popular_vote1 = '''6,328,397'''
+| percentage1 = '''56.55%'''
+
+| image2 = Mahamudu Bawumia.jpg
+| nominee2 = {{nowrap|[[Mahamudu Bawumia]]}}
+| running_mate2 = [[Matthew Opoku Prempeh]]
+| party2 = New Patriotic Party
+| popular_vote2 = 4,657,304
+| percentage2 = 41.61%
+
+| title = [[President of Ghana|President]]
+| before_election = [[Nana Akufo-Addo]]
+| before_party = New Patriotic Party
+| after_election = [[John Mahama]]
+| after_party = National Democratic Congress (Ghana)
+
+| map_image = 2024 Ghanaian presidential election results by region.svg
+| map_caption = Results by region
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| seats_for_election = All 276 seats in the [[Parliament of Ghana]]
+| turnout = 64.16%
+| majority_seats = 139
+
+| leader1 = [[John Mahama]]
+| party1 = National Democratic Congress (Ghana)
+| last_election1 = 137
+| percentage1 = 52.95
+| seats1 = 184
+
+| leader2 = {{nowrap|[[Mahamudu Bawumia]]}}
+| party2 = New Patriotic Party
+| last_election2 = 137
+| percentage2 = 44.48
+| seats2 = 88
+
+| party3 = Independents
+| leader3 = –
+| percentage3 = 2.28
+| last_election3 = 1
+| seats3 = 4
+
+| title = [[Speaker of the Parliament of Ghana|Speaker]]
+| before_election = [[Alban Bagbin]]
+| before_party = National Democratic Congress (Ghana)
+| after_election = [[Alban Bagbin]]
+| after_party = National Democratic Congress (Ghana)
+| map_image = 
+| map_caption = 
+}}}}}}{{Politics of Ghana}}
+
+General elections were held in [[Ghana]] on 7 December 2024<ref>{{Cite web |date=6 December 2024 |title=Polls close in Ghana's general election overshadowed by worst economic crisis in a generation |url=https://lasvegassun.com/news/2024/dec/07/polls-close-in-ghanas-general-election-overshadowe/ |website=Las Vegas Sun}}</ref><ref>{{cite news |website=Yahoo News |date=7 December 2024 |title=One shot dead on election day in Ghana |url=https://www.yahoo.com/news/president-awaits-ghana-election-day-025947915.html?fr=yhssrp_catchall |access-date=December 7, 2024 |archive-url=https://web.archive.org/web/20241226112839/https://www.yahoo.com/news/president-awaits-ghana-election-day-025947915.html?fr=yhssrp_catchall |archive-date=26 December 2024 |url-status=dead}}</ref> to elect the [[president of Ghana|president]] and all 276 members of [[Parliament of Ghana|Parliament]].<ref name=":0">{{Cite web |date=2024-02-19 |title=EC sticks with December 7 voting day for 2024 election |url=https://www.myjoyonline.com/december-7-election-date-will-be-changed-but-not-this-year-ec/ |access-date=2024-04-24 |website=Joy Online|first=Kenneth Awotwe |last=Darko |language=en-US}}</ref><ref>{{Cite web |date=2024-03-04 |title=Electoral Commission releases electoral calendar, continuous voter registration set for May 7, 2024 |url=https://yen.com.gh/ghana/252874-electoral-commission-releases-electoral-calendar-voter-registration-set-7-2024/|first=Delali |last=Adogla-Bessa |access-date=2024-04-24 |website=Yen.com.gh |language=en}}</ref> The incumbent President [[Nana Akufo-Addo]], having completed his constitutional term limits, was ineligible for re-election.
+
+Former President [[John Mahama]], the [[National Democratic Congress (Ghana)|National Democratic Congress]] (NDC) candidate, won a majority of the votes, securing victory without the need for a runoff. [[Mahamudu Bawumia]], the ruling New Patriotic Party (NPP) candidate, conceded defeat the morning after the election. [[Jane Naana Opoku-Agyemang]], Mahama’s running mate, made history as the first woman elected Vice President of Ghana.<ref>{{Cite web |date=2024-12-08 |title=#GhanaPolls2024: Bawumia concedes defeat to Mahama |url=https://citinewsroom.com/2024/12/bawumia-concedes-defeat-congratulates-mahama/ |access-date=2024-12-18 |language=en-US}}</ref><ref>{{Cite news |last1=Adombila |first1=Maxwell Akalaare |last2=Akorlie |first2=Christian |date=8 December 2024 |title=Ghana's former President Mahama wins election |url=https://www.reuters.com/world/africa/ghanas-former-president-mahama-wins-election-2024-12-08/ |access-date=8 December 2024 |work=[[Reuters]]}}</ref><ref name=":1">{{Cite news |date=8 December 2024 |title=Mahama wins 2024 elections as Bawumia concedes defeat in 2024 elections |url=https://www.ghanaweb.com/GhanaHomePage/politics/BREAKING-Bawumia-concedes-defeat-in-2024-Presidential-Election-congratulates-Mahama-1963240 |access-date=8 December 2024 |work=[[GhanaWeb]]}}</ref><ref name="bbc-dec10"/>
+
+In the parliamentary elections, the NDC won a [[landslide victory]], winning 184 out of 276 seats, while the NPP secured 88 seats, with independent candidates winning four seats. The number of women elected to parliament was 40, the same as in the [[2020 Ghanaian general election|previous election (2020)]], which means that the percentage of women members of parliament in Ghana remains at 15%, a level lower than the average in the sub-region West Africa (18%), the continental African average (27%) and the global world average (also 27%).<ref>{{Cite web |title=Ghana's democracy stress tested – three milestones passed - The Nordic Africa Institute |url=https://nai.uu.se/stories-and-events/news/2025-02-06-ghanas-democracy-stress-tested---three-milestones-passed.html |access-date=2025-02-07 |website=nai.uu.se |language=en}}</ref><ref>{{Cite web |title=2024 Ghana Elections – Parliamentary Results |work=3News |url=https://3news.com/elections/parliamentary/ |access-date=2024-12-18 |language=en-US}}</ref>
+
+==Electoral system==
+The [[President of Ghana]] is elected using the [[two-round system]] while [[Member of parliament|members]] of [[Parliament of Ghana|Parliament]] are elected in single-member constituencies using [[first-past-the-post voting]]. Both are elected to four-year terms.<ref>{{Cite web|title=Ghana: Vote Counting using Majoritatrian and First-Past-the-Post —|url=https://aceproject.org/ace-en/topics/vc/annex/vcy/vcy_gh|access-date=7 December 2020|website=ACE Project}}</ref><ref>{{Cite news |url=https://www.modernghana.com/news/984519/africa-watch-2020-is-election-season-across-afric.html |title=Africa Watch: 2020 Is Election Season Across Africa|first= Franck |last=Kuwonu |date=13 February 2020 |work=Modern Ghana}}</ref>
+
+Eligible voters must be Ghanaian citizens at least 18 years old, except for those declared insane who are disenfranchised. Parliamentary candidates must be Ghanaian citizens who are at least 21 years old and either residents of a constituency or have lived there for at least five of the ten years prior to the election.<ref>[http://www.ipu.org/parline-e/reports/2123_B.htm Ghana Parliament | Electoral system]. Inter-Parliamentary Union (IPU).</ref>
+
+==Primary elections==
+===New Patriotic Party===
+The ruling [[New Patriotic Party]] opened its nomination period on 26 May 2023, and closed nominations on 24 June 2023. Candidates were selected at the National Congress held on 4 November 2023.<ref name="ghanaweb1">{{cite news |title=2024 polls: Know all the key dates for upcoming NPP primaries |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/2024-polls-Know-all-the-key-dates-for-upcoming-NPP-primaries-1743263 |access-date=12 May 2023 |work=GhanaWeb |date=4 April 2023 |language=en}}</ref> More than five candidates filed to run in the primaries when the party called for a Special Congress on 26 August. Incumbent President Akufo-Addo admonished that members of [[Cabinet of Nana Akufo-Addo|his cabinet]] who sought to run for president should step down from their posts to focus on their campaigns, prompting a number of resignations.<ref name="citi2">{{cite news |title=Resign if you want to contest NPP presidential primaries – Group |url=https://citinewsroom.com/2023/01/resign-if-you-want-to-contest-npp-presidential-primaries-group/ |access-date=12 May 2023 |work=Citi Newsroom |date=11 January 2023}}</ref><ref name="afrep_2023">{{cite news |last1=Nyabor |first1=Jonas |title=Ghana: Succession race kicks off after Trade Minister quits |url=https://www.theafricareport.com/273568/ghana-succession-race-kicks-off-after-trade-minister-quits/ |access-date=12 May 2023 |work=[[The Africa Report]] |date=10 January 2023}}</ref>
+
+====Presidential candidates====
+'''Nominee''' 
+*'''[[Mahamudu Bawumia]]''', incumbent [[Vice President of Ghana]]<ref name="npp-candidates"/><ref name="bawumiarun">{{cite news |last1=Dontoh |first1=Ekow |title=Ghana's Bawumia Will Run for President Next Year, Graphic Says |url=https://www.bloomberg.com/news/articles/2023-05-04/ghana-s-bawumia-will-run-for-president-next-year-graphic-says#xj4y7vzkg |access-date=12 May 2023 |work=[[Bloomberg News|Bloomberg]] |date=4 May 2023 |language=en}}</ref>
+'''Eliminated in primary'''
+*[[Francis Addai-Nimoh]], former Member of Parliament for [[Mampong (Ghana parliament constituency)|Mampong]]
+*[[Owusu Afriyie Akoto]], immediate former [[Ministry of Food and Agriculture (Ghana)|Minister for Food and Agriculture]]<ref>{{cite news |title=Farmers will vote for me to become NPP's 2024 flagbearer – Afriyie Akoto |url=https://citinewsroom.com/2023/05/farmers-will-vote-for-me-to-become-npps-2024-flagbearer-afriyie-akoto/ |work=Citi Newsroom |date=10 May 2023}}</ref>
+*[[Kennedy Agyapong]], Member of Parliament for [[Assin Central (Ghana parliament constituency)|Assin Central]]<ref name="npp-candidates">{{cite news |title=Who leads NPP for 2024 presidential election? |url=https://citinewsroom.com/2023/02/who-leads-npp-for-2024-presidential-election/ |access-date=12 May 2023 |work=Citi Newsroom |date=2 February 2023 |language=en}}</ref>
+*[[Kwabena Agyapong]], former Presidential Press Secretary and General Secretary of the New Patriotic Party<ref name="npp-candidates"/>
+*[[Boakye Agyarko]], immediate former [[Ministry of Energy and Petroleum (Ghana)|Minister for Energy and Petroleum]]<ref name="npp-candidates"/>
+*[[Joe Ghartey]], former [[Attorney General of Ghana|Attorney General]] and [[Ministry of Railway Development (Ghana)|Minister for Railways Development]]<ref name="npp-candidates"/>
+*[[Kofi Konadu Apraku]], former Minister for Regional Cooperation
+*[[Alan Kyeremanten]], immediate former [[Ministry of Trade and Industry (Ghana)|Minister for Trade and Industry]]<ref name="npp-candidates"/>
+*Kwadwo Poku, businessman<ref name="Graphic4">{{cite news |title=Kwadwo Poku: Unsuccessful NPP flagbearer aspirant content with three votes |url=https://www.graphic.com.gh/news/politics/kwadwo-poku-unsuccessful-npp-flagbearer-aspirant-content-with-three-votes.html |location=Accra, Ghana|access-date=28 November 2023  |date=29 August 2023|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]}}</ref>
+
+====Results====
+To reduce the number of candidates, the NPP held a Special [[Superdelegate|Super Delegates]] Congress on 26 August 2023, which would select the top five candidates who would then go on to contest in the final primaries in November. Vice President [[Mahamudu Bawumia]] placed first, with 68% of the votes. To the surprise of many observers, "maverick" MP [[Kennedy Agyapong]], running a campaign largely critical of the Akufo-Addo administration, placed second, edging out NPP veteran [[Alan John Kyerematen|Alan John Kyeremanten]], who first ran for President in [[2008 Ghanaian general election|2008]]. [[Owusu Afriyie Akoto]] placed fourth, while [[Francis Addai-Nimoh]] and [[Boakye Agyarko]] tied for fifth place, necessitating a run-off, which Addai-Nimoh won, rounding out the five final candidates for the primaries.<ref>{{cite news |title=NPP Super Delegates Conference: Regional break down of the results |url=https://citinewsroom.com/2023/08/npp-super-delegates-conference-results-from-voting-centres/ |access-date=28 November 2023 |work=Citinewsroom - Comprehensive News in Ghana |date=26 August 2023}}</ref> However, Kyeremanten announced that he would withdraw from the primaries (later leaving the NPP entirely and launching his own third-party campaign), leaving four candidates.<ref name="graphic3">{{cite news |last1=Frimpong |first1=Enoch Darfah |title=Alan Kyerematen quits NPP again, decides to contest 2024 as independent candidate |url=https://www.graphic.com.gh/news/politics/it-is-now-official-alan-kyerematen-is-going-into-2024-as-independent-presidential-candidate.html |location=Accra, Ghana|access-date=28 November 2023  |date=24 September 2023|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]}}</ref>
+
+{{Election results
+|cand1=[[Mahamudu Bawumia]]|votes1=629
+|cand2=[[Kennedy Agyapong]]|votes2=132
+|cand3=[[Alan Kyeremanten]]|votes3=95
+|cand4=[[Owusu Afriyie Akoto]]|votes4=36
+|cand5=[[Francis Addai-Nimoh]]|votes5=9
+|cand6=[[Boakye Agyarko]]|votes6=9
+|cand7=[[Kwabena Agyapong]]|votes7=6
+|cand8=[[Kwadwo Poku (business executive)|Kwadwo Poku]]|votes8=4
+|cand9=[[Kofi Konadu Apraku]]|votes9=0
+}}
+
+{{Switcher
+| [[File:2023 New Patriotic Party Special Super Delegates Congress.svg|300px]]
+| Special Super Delegates Congress results by region
+| [[File:2023 Ghana New Patriotic Party presidential primary.svg|300px]]
+| Primary results by region
+| default=2
+| align=right
+}}
+
+The NPP held its primaries on 4 November 2023. Bawumia again won by a wide margin, confirming him as the NPP's nominee for the 2024 elections, although Kennedy Agyapong's performance was also impressive as he secured a stronger second-place finish compared to his showing at the Super Delegates' Congress.<ref>{{cite news |title=Bawumia wins NPP presidential primary with 61.43% of total valid votes cast |url=https://www.graphic.com.gh/news/politics/bawumia-wins-npp-presidential-primary-with-61-43-of-total-valid-votes-cast.html |location=Accra, Ghana|access-date=28 November 2023  |date=4 November 2023|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]}}</ref>
+
+{{Election results
+|cand1=[[Mahamudu Bawumia]]|votes1=118210
+|cand2=[[Kennedy Agyapong]]|votes2=71991
+|cand3=[[Owusu Afriyie Akoto]]|votes3=1459
+|cand4=[[Francis Addai-Nimoh]]|votes4=781
+}}
+
+====Parliamentary candidates====
+{{main|List of candidates in the 2024 Ghanaian parliamentary election#New Patriotic Party}}
+
+===National Democratic Congress===
+The opposition [[National Democratic Congress (Ghana)|National Democratic Congress]] opened its nomination period on 22 February 2023 and closed nominations on 22 March 2023. Candidates were required to pay a GH₵500,000 filing fee and a GH₵30,000 nomination fee, women and persons living with disabilities were eligible for a 50% discount. The NDC selected its candidate on 13 May 2023.<ref name="gna1">{{cite news |title=NDC opens nominations for presidential and parliamentary elections today |url=https://gna.org.gh/2023/02/ndc-opens-nominations-for-presidential-and-parliamentary-elections-today/ |access-date=12 May 2023 |work=Ghana News Agency |date=22 February 2023}}</ref>
+
+====Presidential candidates====
+'''Nominee'''
+*'''[[John Mahama]]''', former [[President of Ghana]] (2012–2017)<ref name="ghanaweb3"/>
+'''Eliminated in primary'''
+*[[Kojo Bonsu]], former mayor of [[Kumasi]]<ref name="ghanaweb3">{{cite news |title=Know the four NDC faces seeking to kick out NPP in 2024 |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Know-the-four-NDC-faces-seeking-to-kick-out-NPP-in-2024-1721588 |access-date=12 May 2023 |work=GhanaWeb |date=26 February 2023 |language=en}}</ref>
+*[[Kwabena Duffuor]], former governor of the [[Bank of Ghana]] and [[Ministry of Finance and Economic Planning (Ghana)|Minister for Finance and Economic Planning]]<ref name="ghanaweb3"/>
+*Ernest Kobeah, businessman<ref name="ghanaweb3"/>
+
+====Results====
+The NDC primary was held on 13 May 2023. Kobeah dropped out on 29 March and Duffuor dropped out the day before the election, claiming irregularities in the organization of the polls, leaving two candidates.<ref name="citi3">{{cite news |title=Ernest Kobeah pulls out of NDC flagbearership race |url=https://citinewsroom.com/2023/03/ernest-kobeah-pulls-out-of-ndc-flagbearership-race/ |access-date=14 May 2023 |work=Citinewsroom |date=29 March 2023}}</ref><ref name="graphic1">{{cite news |title=Duffuor on why he pulled out of NDC presidential primary [VIDEO] |url=https://www.graphic.com.gh/news/politics/duffuor-on-why-he-quit-ndc-presidential-primary.html |location=Accra, Ghana|access-date=14 May 2023  |date=12 May 2023 |language=en-gb|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]}}</ref> Former President Mahama won nomination in an overwhelming landslide, winning nearly 99% of the vote, setting the stage for the fourth consecutive election in which he would be the NDC's flag-bearer.<ref name="ghanaweb4">{{cite news |title=John Mahama elected NDC flagbearer with 98.8% of valid votes |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/John-Mahama-elected-NDC-flagbearer-with-98-8-of-valid-votes-EC-1766588 |access-date=14 May 2023 |work=GhanaWeb |date=14 May 2023 |language=en}}</ref> Bonsu called Mahama to concede and offer his support.<ref name="peacefm2">{{cite news |title=NDC Primaries: 'I've Called And Congratulated Mahama for The Landslide Victory' - Kojo Bonsu Concedes Defeat |url=https://peacefmonline.com/pages/politics/politics/202305/487483.php |access-date=14 May 2023 |work=Peace FM Online |date=13 May 2023}}</ref>
+
+{{Election results
+|cand1=[[John Mahama]]|votes1=297603
+|cand2=[[Kojo Bonsu]]|votes2=3181
+|cand3=<!--[[Kwabena Duffuor]]-->|votes3=<!--0-->
+}}
+
+In June 2024, the NDC accused the electoral commission of colluding with the ruling NPP to rig the elections via an illegal voter transfer scheme, which the NDC claimed was orchestrated by Yohane Amarh Ashitey, the NPP Parliamentary Candidate and the Tema Metropolitan Chief Executive.<ref>{{Cite web |last=Mensah |first=Kent |date=6 June 2024 |title=Opposition NDC accuses Ghana's electoral commission of collusion with NPP to rig elections |url=https://www.theafricareport.com/350963/opposition-ndc-accuses-ghanas-electoral-commission-of-collusion-with-npp-to-rig-elections/ |access-date=14 June 2024 |website=The Africa Report}}</ref>
+
+====Parliamentary candidates====
+{{main|List of candidates in the 2024 Ghanaian parliamentary election#National Democratic Congress}}
+
+===Other parties===
+==== Movement For Change ====
+On 25 September 2023, [[Alan John Kyerematen|Alan John Kyeremanten]] formed the Movement For Change party to aspire for the 2024 Ghanaian general election as an independent presidential candidate for the presidential race after resigning from [[New Patriotic Party]] (NPP). Therefore he will be a presidential candidate for the 2024 Ghanaian general election.<ref>{{Cite journal |date=2017 |title=Managing director of Celesio UK resigns with immediate effect |journal=The Pharmaceutical Journal |doi=10.1211/pj.2017.20203863 |issn=2053-6186}}</ref><ref>{{cite book |last=Devine |first=Thomas W. |chapter=I Shall Run as an Independent Candidate for President: Launching Gideon's Army |date=2013-05-27 |title=Henry Wallace's 1948 Presidential Campaign and the Future of Postwar Liberalism |pages=35–70 |publisher=University of North Carolina Press|doi=10.5149/northcarolina/9781469602035.003.0002 |isbn=978-1-4696-0203-5 }}</ref>
+
+==== The New Force ====
+On 7 January 2024, real estate developer [[Nana Kwame Bediako]] announced that he would run as the candidate for the New Force movement. This followed weeks of speculation during which the New Force teased its fielding of a "masked" candidate, who was widely expected to be Cheddar. The announcement, which was due to take place at [[Black Star Square]], was postponed after the presidential administration pulled the permit for the rally, citing "an unforeseen state event".<ref name="semafor1">{{cite news |last1=Ankrah |first1=Nana Oye |title=Ghana's mystery presidential candidate pulls off his mask |url=https://www.semafor.com/article/01/09/2024/ghanas-mystery-presidential-candidate-removes-his-mask-gives-government-jitters |access-date=9 January 2024 |work=[[Semafor (website)|Semafor]] |date=9 January 2024 |language=en}}</ref><ref>{{Cite web |date=2023-07-28 |title=Home - Nana Kwame Bediako |url=https://nkb.com.gh/ |access-date=2024-11-19 |language=en-US}}</ref>
+
+===Ghana Freedom Party===
+[[Akua Donkor]]'s Ghana Freedom Party, having been disqualified in the [[2012 Ghanaian general election]] and [[2016 Ghanaian general election]] and contesting in the [[2020 Ghanaian general election]] submitted their form on 12 September to officially contest in the 2024 election. However, on 28 September, it was announced that the party's founder and flag bearer had passed on,<ref>{{Cite web |date=2024-10-29 |title=Ghana Freedom Party Leader Akua Donkor dead |url=https://citinewsroom.com/2024/10/ghana-freedom-party-leader-akua-donkor-dead/ |access-date=2024-11-07 |language=en-US}}</ref><ref>{{Cite web |last=Offei |first=Duncan Ampofo |date=2024-10-29 |title=Ghana Freedom Party's Akua Donkor Reported Dead |work=The Accra Times |url=https://theaccratimes.com/ghana-freedom-partys-akua-donkor-reported-dead/ |access-date=2024-11-07 |language=en-US}}</ref> leaving a controversial void as to the way forward with the [[Electoral Commission of Ghana]] halting ballot printing.<ref>{{Cite web |date=2024-10-29 |title=EC halts printing of presidential ballot papers following Akua Donkor's death |url=https://www.myjoyonline.com/ec-halts-printing-of-presidential-ballot-papers-following-akua-donkors-death/ |access-date=2024-11-07 |website=Joy Online |language=en-US}}</ref><ref>{{Cite web |date=2024-10-30 |title=EC halts printing of presidential ballot papers following GFP presidential candidate's death |url=https://www.gbcghanaonline.com/news/politics/ec-gfp/2024/ |access-date=2024-11-19 |language=en-US}}</ref>
+
+On 4 November, the party's leadership announced the nomination of Kwabena Agyeman Appiah Kubi popularly known as ''Roman Fada'' as its new presidential candidate.<ref>{{Cite web |date=2024-11-05 |title=Election 2024: Ghana Freedom Party nominates Roman Fada as new Presidential Candidate |url=https://3news.com/news/election-2024-ghana-freedom-party-nominates-roman-fada-as-new-presidential-candidate/#google_vignette |access-date=2024-11-07 |language=en-US}}</ref><ref>{{Cite web |date=2024-11-05 |title=Election 2024: Roman Fada selected as flagbearer for Ghana Freedom Party |url=https://www.myjoyonline.com/election-2024-roman-fada-selected-as-flagbearer-for-ghana-freedom-party/#google_vignette |access-date=2024-11-07 |website=Joy Online |language=en-US}}</ref> The party will not contest in the election due to the disqualification of Philip Appiah Kubi who was nominated as replacement for [[Akua Donkor]] after her death.<ref>{{Cite web|url=https://citinewsroom.com/2024/11/positions-on-presidential-ballot-will-be-maintained-ec/|title=Positions on presidential ballot will be maintained |date=12 November 2024}}</ref><ref>{{Cite web|url=https://www.myjoyonline.com/ec-disqualifies-gfps-replacement-flagbearer-over-alleged-document-irregularities/|title=EC disqualifies GFP's replacement flagbearer over alleged document irregularities |date=12 November 2024|website=Joy Online}}</ref><ref>{{Cite web |date=2024-11-13 |title=EC Disqualifies Roman Fada |url=https://dailyguidenetwork.com/ec-disqualifies-roman-fada/ |access-date=2024-11-19 |website=DailyGuide Network |language=en}}</ref>
+
+== Opinion polls ==
+{| class="wikitable sortable mw-datatable" style="text-align:center;font-size:90%;line-height:14px"
+! rowspan="2" |Polling firm
+! rowspan="2" |Fieldwork Date
+! style="width:50px;" |Mahama
+! style="width:50px;" |Bawumia
+! style="width:50px;" |Kyerematen
+! style="width:50px;" |Lord
+! style="width:50px;" |Bediako
+! rowspan="2" style="width:50px;" |Others
+! rowspan="2" |Margin of error
+! rowspan="2" |Sample size
+! rowspan="2" style="width:20px;" |Lead
+|- class="sorttop"
+! style="background:{{party colour|National Democratic Congress (Ghana)}};" |
+! style="background:{{party colour|New Patriotic Party}};" |
+! style="background:#FFB603;" |
+! style="background:#000000;" |
+|-
+|Economist Intelligence Unit<ref>{{Cite web |title=John Mahama to lead main opposition into Ghana's 2024 polls |url=https://country.eiu.com/article.aspx?articleid=1023260085&Country=Ghana&topic=Politics&subtopic=Forecast&subsubtopic=Election+watch |access-date=2024-12-28 |website=country.eiu.com}}</ref>
+|15 May 2023
+|Win
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|Office of the President<ref>{{Cite web |date=2024-09-17 |title=2024 elections set to end in a run-off, presidency survey predicts - MyJoyOnline |url=https://www.myjoyonline.com/2024-elections-set-to-end-in-a-run-off-presidency-survey-predicts/ |access-date=2024-12-28 |website=www.myjoyonline.com |language=en-US}}</ref>
+|17 September 2024
+|46.3%
+|46.3%
+|
+|
+|
+|
+|±1.55%
+|25,000
+|
+|-
+|Global InfoAnalytics<ref>{{Cite news |last1=Salia |first1=Albert K. |last2=Duodu |first2=Samuel |date=9 April 2024 |title=2024 Presidential election...InfoAnalytics poll has Mahama ahead of Dr Bawumi |url=https://www.graphic.com.gh/news/politics/ghana-news-2024-presidential-election-infoanalytics-poll-has-mahama-ahead-of-dr-bawumia.html |location=Accra, Ghana|access-date=23 June 2024 |newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]}}</ref>
+|20 - 28 September 2024
+| style="background:#8BCFAF;" |'''51.1%'''
+|30.8%
+|4.1%
+|6.5%
+|6.2%
+|1.3%
+|±2.49%
+|8,206
+| style="background: {{party colour|National Democratic Congress (Ghana)}};" |'''13.8%'''
+|-
+|SBM Intelligence<ref>{{Cite web |date=2024-09-19 |title=Ghana's 2024 elections: A preview |url=https://www.sbmintel.com/2024/09/ghanas-2024-elections-a-preview/ |access-date=2024-12-28 |website=Your Window Into West Africa}}</ref>
+|September 2024
+|11 regions
+|5 regions
+|
+|
+|
+|
+|±2.45%
+|1,700
+|
+|-
+|Afroopinion<ref>{{Cite web |date=2024-12-06 |title=Ghana Presidential Elections survey – Afroopinion |url=https://afroopinion.com/?p=67 |access-date=2024-12-06 |language=en-US}}</ref>
+|September - November 2024
+|48.5%
+|39.4%
+|
+|
+|12.1
+|0
+|8%
+|500
+|
+|-
+|Fitch Solutions<ref>{{Cite web |date=2024-11-18 |title=Opposition NDC Poised For Victory In Ghana's December 2024 Election |url=https://www.fitchsolutions.com/bmi/political-risk/opposition-ndc-poised-victory-ghanas-december-2024-election-18-11-2024 |access-date=2024-12-28 |website=Fitch Solutions |language=en}}</ref>
+|18 November 2024
+|Win
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|Smart Sarpong<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=YM2rawnd6Ys |title=Professor Smart Sarpong predicts possible runoff in 2024 presidential elections - Premtobre Kasee |date=2024-11-22 |last=Adom TV |access-date=2024-12-28 |via=YouTube}}</ref>
+|21 November 2024
+|45.8%
+|49.1%
+|
+|
+|
+|
+|
+|
+|
+|}
+
+==Filing of nomination papers==
+Thirty-nine candidates from 12 political parties and 27 independent candidates indicated their intention to contest the 2024 presidential election. They collected nomination forms from the Electoral Commission.<ref>{{cite web |title=Here are the 39 aspirants who have picked up presidential nomination forms - Official |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Here-are-the-39-aspirants-who-have-picked-up-presidential-nomination-forms-Official-1949307 |website=GhanaWeb |access-date=12 September 2024 |date=5 September 2024}}</ref><ref>{{Cite news |author1=Michael Quaye |author2=Samuel Duodu |title=As 39 pick presidential forms on the road to Election 2024, is it an issue of misrule or competition? |url=https://www.graphic.com.gh/news/politics/ghana-news-road-to-election-2024-issue-of-misrule-or-competition-as-39-pick-presidential-forms.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=12 September 2024 |date=9 September 2024}}</ref> The filing of nomination papers started on 9 September 2024.<ref>{{cite web |author1=Joseph Odotei |title=2024 election: Exclusive photos as 8 presidential aspirants file nomination forms - Adomonline.com |url=https://www.adomonline.com/2024-election-exclusive-photos-as-8-presidential-aspirants-file-nomination-forms/ |website=Adom Online |access-date=12 September 2024 |date=9 September 2024}}</ref> At the close of nominations on 13 September 2024, 24 of the candidates had successfully filed their nomination papers with the Commission.<ref name="cnr">{{cite web |author1=Hamdiad Mohammed |title=Election 2024: Meet the 24 Presidential candidates |url=https://citinewsroom.com/2024/09/2024-polls-meet-the-24-presidential-candidates-who-have-filed-nomination-forms/ |website=citinewsroom.com |access-date=16 September 2024 |date=16 September 2024}}</ref> Twelve candidates submitted forms as representatives of political parties and the other 12 were independent candidates. Two candidates submitted their forms after the 13 September deadline. The Electoral Commission received the forms but is yet to announce the fate of the two candidates.<ref name="graphic24">{{Cite news |author1=Daniel Kenu |author2=Joshua Bediako Koomson |title=Presidential quest begins: 24 Vie for highest office |url=https://www.graphic.com.gh/news/general-news/ghana-news-presidential-quest-begins-24-vie-for-highest-office.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=16 September 2024 |date=16 September 2024}}</ref><ref name="gbc24">{{cite web |title=Presidential quest begins: 24 Vie for highest office |url=https://www.gbcghanaonline.com/news/politics/presidential-quest/2024/ |website=gbcghanaonline |publisher=Ghana Broadcasting Corporation |access-date=16 September 2024 |date=16 September 2024}}</ref>
+
+{| class="wikitable"
+! colspan=5|Initial list of Presidential candidates
+|-
+!Number
+!Party
+!Presidential candidate
+!Date / Form submitted
+!Notes
+|-
+|1
+| [[All People's Congress (Ghana)|All People's Congress]]
+| [[Hassan Ayariga]]
+| 9 September 2024<ref name="8filepapers">{{cite web |title=Watch scenes from EC as NDC, NPP, others file their nomination for 2024 presidential election |url=https://www.ghanaweb.com/GhanaHomePage/politics/Watch-scenes-from-EC-as-NDC-NPP-others-file-their-nomination-for-2024-presidential-election-1950063 |website=GhanaWeb |access-date=16 September 2024 |date=10 September 2024}}</ref>
+| Contested 2020 election<ref name="2020result">{{cite web |title=EC revises disparities in presidential election results |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/EC-revises-disparities-in-presidential-election-results-1130120 |website=GhanaWeb|access-date=16 September 2024 |date=10 December 2020}}</ref>
+|-
+|2
+| [[Convention People's Party]]
+| [[Nana Akosua Frimpomaa|Nana Frimpomaa Sarpong Kumankumah]]
+| 12 September 2024<ref name="3ladies">{{cite web |title=2024 Elections: Akua Donkor and two others file nomination |url=https://www.ghanaweb.com/GhanaHomePage/politics/2024-Elections-Akua-Donkor-and-two-others-file-nomination-1950465 |website=GhanaWeb|access-date=16 September 2024 |date=12 September 2024}}</ref>
+|
+|-
+|3
+| [[Great Consolidated Popular Party]]
+| [[Dan Lartey|Daniel Augustus Lartey]]
+| 
+| Submitted<ref name="cnr"/>
+|-
+|4
+| [[Ghana Freedom Party]]
+| [[Akua Donkor]]
+| 12 September 2024<ref name="3ladies"/>
+| Contested 2020 election<ref name="2020result"/>
+|-
+|5
+| [[Ghana Union Movement]]
+| [[Christian Kwabena Andrews]]
+| 9 September 2024<ref name="8filepapers"/>
+| Contested 2020 election<ref name="2020result"/>
+|-
+|6
+| [[Liberal Party of Ghana]] 
+| [[Kofi Akpaloo|Percival Kofi Akpaloo]]
+| 9 September 2024<ref>{{cite web |title=Watch how Kofi Akpaloo was cheered on after he filed his presidential nomination forms |url=https://www.ghanaweb.com/GhanaHomePage/politics/Watch-how-Kofi-Akpaloo-was-cheered-on-after-he-filed-his-presidential-nomination-forms-1949798 |website=GhanaWeb|access-date=16 September 2024 |date=9 September 2024}}</ref><ref name="8filepapers"/>
+| Contested 2020 election<ref name="2020result"/>
+|-
+|7
+| [[National Democratic Congress (Ghana)|National Democratic Congress]]
+| [[John Mahama]]
+| 9 September 2024<ref name="8filepapers"/>
+| President of Ghana (2012 - 2016)
+Contested 2020 election<ref name="2020result"/>
+|-
+|8
+| [[National Democratic Party (Ghana)|National Democratic Party]]
+| Mohammed Frimpong
+| 
+| Submitted<ref name="cnr"/>
+|-
+|9
+| [[New Patriotic Party]]
+| [[Mahamudu Bawumia]]
+| 9 September 2024<ref name="8filepapers"/>
+| Vice President of Ghana (2016 - 2024)
+Vice Presidential candidate in 2020<ref name="2020result"/>
+|-
+|10
+| [[People's National Convention (Ghana)|People's National Convention]]
+| {{ref|1|a|}}[[Bernard Mornah]]
+| 
+| Submitted<ref name="cnr"/>
+|-
+|11
+| [[Progressive Alliance for Ghana]]
+| {{ref|1|a|}}John Enyonam Kwakwu Kpikpi
+| 
+| Submitted<ref name="cnr"/>
+|-
+|12
+| [[Progressive People's Party (Ghana)|Progressive People's Party]]
+| {{ref|1|a|}}Kofi Asamoah Siaw<ref name="cnr"/>
+|
+| Forms were submitted late<ref>{{cite web |title=We won't accept your forms – EC to PPP after failing to meet deadline |url=https://www.ghanaweb.com/GhanaHomePage/politics/We-won-t-accept-your-forms-EC-to-PPP-after-failing-to-meet-deadline-1950685 |website=GhanaWeb|access-date=16 September 2024 |date=14 September 2024}}</ref>
+Vice Presidential candidate in 2020<ref>{{Cite news |author1=Desmond Kofi Tawiah |title=PPP endorses Asamoah-Siaw as running mate |url=https://www.graphic.com.gh/news/politics/ppp-endorses-asamoah-siaw-as-running-mate.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=16 September 2024 |date=19 October 2020}}</ref>
+|-
+|13
+| rowspan=28 | Independent
+| Muhammad Abdullah
+| 
+| Not submitted
+|-
+|14
+| {{ref|1|a|}}Desmond Abrefa
+| 
+| Submitted<ref name="cnr"/>
+|-
+|15
+| {{ref|1|a|}}Nana Stephens Adjepong
+| 
+| Submitted<ref name="cnr"/>
+|-
+|16
+| Seth Ntim Agyarko
+| 
+| Not submitted
+|-
+|17
+| T. K. Amenya
+| 
+| Not submitted
+|- 
+|18
+| Wilberforce Andrews
+| 
+| Not submitted
+|-
+|19
+| {{ref|1|a|}}[[Samuel Sarpong Ankrah|Sam Sarpong Ankrah]]
+| 
+| Submitted<ref name="cnr"/>
+|-
+|20
+| {{ref|1|a|}}Samuel Apea-Danquah
+| 9 September 2024<ref name="8filepapers"/>
+| 
+|-
+|21
+| Kenneth Kwame Asamoah
+| 
+| Not submitted
+|-
+|22
+| Tom Asiseh
+| 
+| Not submitted
+|-
+|23
+| Stephen Atubiga
+| 
+| Not submitted
+|-
+|24
+| Agnes Ayisha
+| 
+| Forgot to fill forms<ref>{{cite web |title=Meet Dr. Agnes Ayisha, the presidential candidate who 'forgot' to fill her nomination forms |url=https://www.ghanaweb.com/GhanaHomePage/politics/Meet-Dr-Agnes-Ayisha-the-presidential-candidate-who-forgot-to-fill-her-nomination-forms-1950779 |website=GhanaWeb|access-date=16 September 2024 |date=15 September 2024}}</ref>
+|- 
+|25
+| [[Nana Kwame Bediako]]
+| 9 September 2024<ref>{{cite web |title='Incoming President!' - The chants that heralded Cheddar's filing of presidential forms at EC HQ |url=https://www.ghanaweb.com/GhanaHomePage/politics/Incoming-President-The-chants-that-heralded-Cheddar-s-filing-of-presidential-forms-at-EC-HQ-1949801 |website=GhanaWeb|access-date=16 September 2024 |date=9 September 2024}}</ref><ref name="8filepapers"/>
+|
+|-
+|26
+| {{ref|1|a|}}Nii Amu Darko
+|
+| Submitted<ref name="cnr"/>
+|-
+|27
+| Nana Ohene Aggrey Bentsil Djan
+| 
+| Not submitted
+|-
+|28
+| Tawiah N. Hemans
+| 
+| Not submitted
+|- 
+|29
+| [[Kofi Koranteng]]
+| 
+| Submitted<ref name="cnr"/>
+|- 
+|30
+| [[Alan John Kyerematen]]
+| 11 September 2024<ref>{{cite web |title=Alan Kyerematen to file his nomination on September 11 |url=https://www.ghanaweb.com/GhanaHomePage/politics/Alan-Kyerematen-to-file-his-nomination-on-September-11-1950099 |website=GhanaWeb|access-date=12 September 2024 |date=11 September 2024}}</ref>
+| 
+|-
+|31
+| {{ref|1|a|}}[[Janet Nabla|Janet Asana Nabla]]
+| 12 September 2024<ref name="3ladies"/>
+| 
+|-
+|32
+| Isaac Wiafe Ofori
+| 
+| Not submitted
+|-
+|33
+| {{ref|1|a|}}James Kwasi Oppong
+| 
+| Submitted<ref name="cnr"/>
+|-
+|34
+| {{ref|1|a|}}Paul Perkoh
+| 
+| Submitted<ref name="cnr"/>
+|-
+|35
+| Robert Roy Reindorf
+| 
+| Not submitted
+|-
+|36
+| Richard Sumah
+| 
+| Not submitted
+|-
+|37
+| George Twum-Barima-Adu
+| 9 September 2024<ref name="8filepapers"/>
+| 
+|-
+|38
+| Samuel Worlanyo
+| 
+| Not submitted
+|-
+|39
+| [[Jacob Osei Yeboah]]
+| 
+| Not submitted
+|-
+|}
+<small>{{Note|1|a|}} – Disqualified by the Electoral Commission of Ghana</small>
+
+==Final list of presidential candidates==
+On 20 September 2024, the Electoral Commission released the final list of candidates who would be on the ballot for the presidential election. Thirteen of the 24 applicants made the final list while 11 were disqualified.<ref>{{cite web |title=Outcome of the filing of nominations for the 2024 presidential election |url=https://ec.gov.gh/outcome-of-the-filing-of-nominations-for-the-2024-presidential-election/ |website=Electoral Commission |access-date=23 September 2024 |archive-url=https://web.archive.org/web/20240923194634/https://ec.gov.gh/outcome-of-the-filing-of-nominations-for-the-2024-presidential-election/ |archive-date=23 September 2024 |date=20 September 2024 |url-status=live}}</ref> The disqualifications were based on the candidates not having fulfilled all the requirements or discrepancies noticed on their forms.<ref>{{Cite news |author1=Enoch Darfah Frimpong |author2=Dickson Worlanyo Dotse |title=Why EC disqualified PNC's Bernard Mornah, Janet Nabla and 9 others |url=https://www.graphic.com.gh/news/politics/why-ec-disqualified-pncs-bernard-mornah-janet-nabla-and-9-others.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=21 September 2024 |date=20 September 2024}}</ref> Nine of the 12 candidates of political parties and four of the 12 independent candidates made the final list. Candidates of the People's National Convention (PNC), Progressive Alliance for Ghana (PAG) and the [[Progressive People's Party (Ghana)|Progressive People's Party]] (PPP) were not listed.<ref>{{Cite news |author1=Enoch Darfah Frimpong |title=EC clears 13 presidential candidates for Election 2024, PNC's Bernard Mornah and 10 others disqualified |url=https://www.graphic.com.gh/news/politics/ec-clears-13-presidential-candidates-for-election-2024.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=21 September 2024 |date=20 September 2024}}</ref> The order of candidates on the ballot paper was determined by a ballot conducted by the Electoral Commission on 20 September 2024.<ref>{{Cite news |author1=Enoch Darfah Frimpong |title=Bawumia is number 1, Mahama number 8 on ballot paper for 2024 presidential election |url=https://www.graphic.com.gh/news/politics/presidential-election-2024-balloting.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=21 September 2024 |date=20 September 2024}}</ref><ref>{{cite web |title=Alan Kyerematen reacts to being last on 2024 presidential ballot paper |url=https://www.ghanaweb.com/GhanaHomePage/politics/Alan-Kyerematen-reacts-to-being-last-on-2024-presidential-ballot-paper-1951761 |website=GhanaWeb|access-date=21 September 2024 |date=21 September 2024}}</ref>
+
+On 28 October 2024, Akua Donkor, the presidential candidate for the Ghana Freedom Party, died after a sudden illness.<ref>{{Cite news |author1=Enoch Darfah Frimpong |title=CONFIRMED: GFP's presidential candidate Akua Donkor passes on |url=https://www.graphic.com.gh/news/politics/gfps-presidential-candidate-akua-donkor-passes-on.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|date=29 October 2024 |access-date=29 October 2024}}</ref><ref>{{cite web |author1=Ernest K. Arhinful |title=Akua Donkor, Presidential Candidate of Ghana Freedom Party dies at age 83 |url=https://www.myjoyonline.com/akua-donkor-presidential-candidate-of-ghana-freedom-party-dies-at-age-72/ |website=Joy Online |access-date=29 October 2024 |date=29 October 2024}}</ref> The GFP was given ten days to nominate a replacement for Akua Donkor. They submitted forms for Philip Appiah-Kubi who was her running mate. The Electoral Commission found that the forms submitted had irregularities and as the GFP could not correct them promptly, they were disqualified from presenting a candidate for the Presidential election. The Commission however went ahead with printing the ballot papers citing inadequate time and to reduce costs if they had to start all over again.<ref>{{cite web |title=Why Akua Donkor's image will remain on the presidential ballot on December 7 - EC clarifies |url=https://www.ghanaweb.com/GhanaHomePage/politics/Why-Akua-Donkor-s-image-will-remain-on-the-presidential-ballot-on-December-7-EC-clarifies-1959682 |website=GhanaWeb|access-date=12 November 2024 |date=12 November 2024}}</ref><ref>{{cite web |title=2024 Election: EC resumes printing of presidential ballot papers |url=https://www.ghanaweb.com/GhanaHomePage/politics/2024-Election-EC-resumes-printing-of-presidential-ballot-papers-1959675 |website=GhanaWeb|access-date=12 November 2024 |date=12 November 2024}}</ref>
+
+{| class="wikitable sortable"
+!colspan=5|Final list of Presidential candidates
+|-
+!Number
+!Party
+!Abbreviation
+!Presidential Candidate
+!Running Mate
+|-
+| 1
+| [[New Patriotic Party]]
+| NPP
+| [[Mahamudu Bawumia]]
+| [[Matthew Opoku Prempeh]]
+|-
+| 2
+| [[Great Consolidated Popular Party]]
+| GCPP
+| Daniel Augustus Lartey
+| 
+|-
+| 3
+| [[Ghana Freedom Party]]
+| GFP
+| [[Akua Donkor]] ''(died on October 28th)''
+| Kwabena Agyeman Appiah Kubi<ref>{{cite web |title=Akua Donkor chooses Roman Fada as her running mate |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Akua-Donkor-chooses-Roman-Fada-as-her-running-mate-1950627 |website=GhanaWeb|access-date=21 September 2024 |date=13 September 2024}}</ref>
+|-
+| 4
+| [[Ghana Union Movement]]
+| GUM
+| [[Christian Kwabena Andrews]]
+| Evelyn Serwaa Bonsu<ref>{{cite web |title=Election 2024: GUM leader picks business woman and gender activist as running mate |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Election-2024-GUM-leader-picks-business-woman-and-gender-activist-as-running-mate-1946300 |website=GhanaWeb|access-date=21 September 2024 |date=18 August 2024}}</ref>
+|-
+| 5
+| [[Liberal Party of Ghana]]
+| LPG
+| [[Kofi Akpaloo]]
+| Elizabeth Sam<ref>{{Cite news |author1=Alberto Mario Noretti |title=Elizabeth Sam unveiled as Kofi Akpaloo of LPG's vice presidential candidate |url=https://www.graphic.com.gh/news/politics/elizabeth-sam-unveiled-as-lpg-kofi-akpaloos-vice-presidential-candidate.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=22 September 2024 |date=22 September 2024}}</ref>
+|-
+| 6
+| [[National Democratic Party (Ghana)|National Democratic Party]]
+| NDP
+| [[Mohammed Frimpong]]
+| Christiana Collingwood Williams<ref>{{Cite web |last=Blewu |first=Stanley Nii |date=2024-09-10 |title=Fresh drama in Konadu Rawlings' NDP as 2 flagbearers clash at acclamation ceremony |url=https://3news.com/news/politics/fresh-drama-in-konadu-rawlings-ndp-as-2-flagbearers-clash-at-acclamation-ceremony/ |access-date=2025-01-09 |language=en-US}}</ref>
+|-
+| 7
+| [[Convention People's Party]]
+| CPP
+| [[Nana Akosua Frimpomaa|Nana Frimpomaa Sarpong Kumankumah]]
+| Wayoe Ghanamannti
+|-
+| 8
+| [[National Democratic Congress (Ghana)|National Democratic Congress]]
+| NDC
+| [[John Mahama|John Dramani Mahama]]
+| [[Jane Naana Opoku-Agyemang]]
+|-
+| 9
+| [[All People's Congress (Ghana)|All People's Congress]]
+| APC
+| [[Hassan Ayariga|Hassan Abdulai Ayariga]]
+| Samuel Mensah<ref>{{Cite news |author1=Daniel Kenu |title=Hassan Ayariga picks Rev Samuel Mensah as APC's running mate for Election 2024 |url=https://www.graphic.com.gh/news/politics/hassan-ayariga-picks-rev-samuel-mensah-as-apc-running-mate.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=21 September 2024 |date=4 September 2024}}</ref>
+|-
+| 10
+| [[Independent politician|Independent]]
+| 
+| [[Kofi Koranteng]]
+| Emmanuel Semordzi<ref>{{Cite web |date=2024-11-01 |title=Election 2024: Kofi Koranteng Launches 'Mega 3-Some' Manifesto, Unveils Running Mate - News Alert Ghana |url=https://newsalertgh.com/2024/11/01/election-2024-kofi-koranteng-launches-mega-3-some-manifesto-unveils-running-mate/ |access-date=2025-01-09 |language=en-GB}}</ref>
+|-
+| 11
+| [[Independent politician|Independent]]
+| 
+| George Twum-Barima-Adu
+| Nyaaba-Aweeba Azongo<ref>{{cite web |author1=Daniel Adu Darko |title=2024 Election: Twum-Barimah-Adu and Azongo Promise Development Consensus and Prosperity for All Ghanaians |url=https://gna.org.gh/2024/10/2024-election-twum-barimah-adu-and-azongo-promise-development-consensus-and-prosperity-for-all-ghanaians/ |website=Ghana News Agency |access-date=29 October 2024 |date=28 October 2024}}</ref><ref>{{cite web |author1=Michael Agyapong |title=Independent Presidential Candidate Twum-Barima names running mate |url=https://www.ghanaweb.com/blogs/dailynewsghana/Independent-Presidential-Candidate-Twum-Barima-names-running-mate-839 |website=GhanaWeb|access-date=29 October 2024 |date=22 October 2024}}</ref>
+|-
+| 12
+| [[Independent politician|Independent]]
+| 
+| [[Nana Kwame Bediako]]
+| Maryam Esaka Kriesie<ref>{{Cite news |author1=Gertrude Ankrah |title=Dr. Maryam Esaka Kriesie is Nana Kwame Bediako's vice presidential candidate |url=https://www.graphic.com.gh/news/politics/dr-maryam-esaka-kriesie-is-nana-kwame-bediakos-vice-presidential-candidate.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=10 October 2024 |date=5 October 2024}}</ref>
+|-
+| 13
+| [[Independent politician|Independent]]
+| 
+| [[Alan John Kyerematen|Alan John Kwadwo Kyerematen]]
+| Kwame Owusu Danso<ref>{{cite web |author1=Franklin ASARE-DONKOH |title=Alan Kyeremanten picks Pan African TV's host of Good Morning Africa, Kwame Owusu Danso as his Running Mate |url=https://www.gbcghanaonline.com/news/politics/alan-kyeremanten-picks/2024/ |website=GBC Ghana Online |publisher=Ghana Broadcasting Corporation |access-date=21 September 2024 |date=11 September 2024}}</ref>
+|-
+| colspan=5|''Source:[https://www.graphic.com.gh/news/politics/presidential-election-2024-balloting.html Graphic Online]'' NB: Listed in same order as on the ballot papers
+|}
+
+* Ballot paper position and numbers for the presidential elections will remain unchanged despite the death of Akua Donkor and subsequent disqualification of Philip Appiah Kubi.<ref>{{Cite web |date=2024-11-12 |title=2024 Elections: EC to maintain presidential ballot despite disqualification of GFP candidate |url=https://3news.com/news/2024-elections-ec-to-maintain-presidential-ballot-despite-disqualification-of-gfp-candidate/ |access-date=2024-11-12 |language=en-US}}</ref>
+
+== Election observers ==
+* [[Commonwealth of Nations|Commonwealth]] election observers<ref name=":0" />
+* [[ECOWAS]]<ref>{{Cite web |date=2024-11-23 |title=ECOWAS deploys observers for Dec. 7 election |url=https://www.myjoyonline.com/ecowas-deploys-observers-for-dec-7-election/ |access-date=2024-11-26 |website=Joy Online |language=en-US}}</ref>
+* [[African Union]]<ref>{{Cite web |date=December 5, 2024 |title=AU Election Observation Team Expresses Confidence in Ghana's Elections |url=https://www.mint.gov.gh/au-election-observation-team-expresses-confidence-in-ghanas-elections/ |access-date=2025-01-09 |website=Republic of Ghana: Ministry of the Interior |language=en-GB}}</ref>
+* [[Coalition of Domestic Election Observers|Coalition of Domestic Election Observers (CODEO)]]<ref>{{Cite web |last=MSKT |date=2024-12-09 |title=Ghana: CODEO reports 63.9% voter turnout in 2024 election |url=https://wadr.org/ghana-codeo-reports-63-9-voter-turnout-in-2024-election/ |access-date=2025-01-09 |website=WADR |language=en-US}}</ref>
+
+==Results==
+Turnout was relatively low at 60.9% (approximately 18.8 million votes),<ref name="3news-results1">{{cite news |last1=Effah |first1=Evans |title=Full details of 2024 election results announced by Jean Mensa |url=https://3news.com/news/full-details-of-2024-election-results-announced-by-jean-mensa/ |access-date=12 December 2024 |work=3 News Ghana |date=10 December 2024}}</ref> a sharp drop from the 79% turnout in [[2020 Ghanaian general election|the 2020 election]].<ref name="bloomberg-turnout">{{cite news |last1=Dontoh |first1=Ekow |title=Ghana Election Turnout Shows Extent of Voter Apathy to Politics |url=https://www.bloomberg.com/news/articles/2024-12-08/ghana-elections-voter-turnout-likely-plunged-to-61 |access-date=13 December 2024 |work=Bloomberg |date=7 December 2024}}</ref> The National Democratic Congress saw a significant victory, winning both the office of President and a majority of parliamentary seats,<ref name=3newsdetail>{{cite news |title=2024 Election Results |url=https://3news.com/elections/ |access-date=13 December 2024 |work=3 News |date=2024}}</ref> ending eight years of power for the NPP.<ref name="Guardian-results">{{cite news |agency=Agence France-Presse |date=8 December 2024 |title=Ghana's former president John Dramani Mahama wins election |url=https://www.theguardian.com/world/2024/dec/08/ghana-former-president-john-dramani-mahama-wins-election |access-date=13 December 2024 |work=The Guardian}}</ref>
+
+In nine constituencies, political party supporters showed up en masse to collation centers and caused damage to election materials, delaying presidential and parliamentary results from those locations. Margins in the presidential race were large enough for an official winner to be declared prior to reporting from these constituencies.<ref name="3news-results1"/>
+
+===President===
+Former president [[John Mahama]] (NDC) won with 57% of the vote. [[Mahamudu Bawumia]] conceded defeat on 8 December, congratulating Mahama on his victory.<ref name=":1" /> The results were officially certified on 9 December.<ref>{{Cite web |date=2024-12-09 |title=Ghana opposition leader Mahama officially wins election |url=https://www.france24.com/en/live-news/20241209-ghana-opposition-leader-mahama-officially-wins-election |access-date=2024-12-10 |website=France 24 |language=en-US}}</ref>
+
+[[Jane Naana Opoku-Agyemang]], became the nation's first female vice president when she was sworn in with Mahama on 7 January 2025.<ref name="bbc-dec10">{{cite web |last1=Nunoo |first1=Favour |last2=Nesta Kupemba |first2=Danai |last3=Booty |first3=Natasha |title=Victorious John Mahama promises new beginning for Ghana |url=https://www.bbc.com/news/articles/cqjzv9k8zjjo |publisher=[[BBC]] |access-date=13 December 2024 |date=10 December 2024}}</ref>
+
+{{Election results
+|cand1=[[John Mahama]]|vp1=[[Jane Naana Opoku-Agyemang]]|party1=[[National Democratic Congress (Ghana)|National Democratic Congress]]|votes1=6328397
+|cand2=[[Mahamudu Bawumia]]|vp2=[[Matthew Opoku Prempeh]]|party2=[[New Patriotic Party]]|votes2=4657304
+|cand3=[[Nana Kwame Bediako]]|vp3=Maryam Esaka Kriesie|party3=Independent (The New Force)|votes3=84478
+|cand4=[[Alan John Kyerematen]]|vp4=Kwame Owusu Danso|party4=Independent ([[Movement for Change (Ghana)|Movement for Change]])|votes4=31202
+|cand5=[[Nana Akosua Frimpomaa]]|vp5=Wayoe Ghanamannti|party5=[[Convention People's Party]]|votes5=23397
+|cand6=[[Hassan Ayariga]]|vp6=Samuel Mensah|party6=[[All People's Congress (Ghana)|All People's Congress]]|votes6=17461
+|cand7=[[Dan Lartey Jr.]]|vp7={{Clarify|reason=Missing information about the vice presidential candidate|date=December 2024}}|party7=[[Great Consolidated Popular Party]]|votes7=16673
+|cand8=[[Christian Kwabena Andrews]]|vp8=Evelyn Serwaa Bonsu|party8=[[Ghana Union Movement]]|votes8=16461
+|cand9=[[Kofi Akpaloo]]|vp9=Elizabeth Sam|party9=[[Liberal Party of Ghana]]|votes9=5219
+|cand10=[[Mohammed Frimpong]]|vp10=Christiana Collingwood Williams|party10=[[National Democratic Party (Ghana)|National Democratic Party]]|votes10=4413
+|cand11=[[Kofi Koranteng]]|vp11=Emmanuel Semordzi|party11=Independent|votes11=3320
+|cand12=[[George Twum-Barima-Adu]]|vp12=Nyaaba-Aweeba Azongo|party12=Independent|votes12=3097
+|cand13=''[[Akua Donkor]] (deceased)''|vp13=''Kwabena Agyeman Appiah Kubi''|party13=''[[Ghana Freedom Party]]''|votes13=0
+|invalid=239109
+|electorate=18774195
+|source=[[Electoral Commission of Ghana]]<ref name="official-results-24">{{cite web |title=Presidential Summary Results |url=https://ec.gov.gh/2024-election-results/ |website=Electoral Commission of Ghana }}</ref>
+}}
+
+====By region====
+{|class=wikitable style=text-align:right
+! Region
+! [[John Dramani Mahama|Mahama]]<br /><small>NDC</small>
+![[Mahamudu Bawumia|Bawumia]]<br /><small>NPP</small>
+![[Nana Kwame Bediako|Bediako]]<br/><small>IND</small>
+![[Alan John Kyerematen|Kyerematen]]<br/><small>IND</small>
+![[Nana Akosua Frimpomaa|Frimpomaa]]<br/><small>CPP</small>
+![[Hassan Ayariga|Ayariga]]<br /><small>APC</small>
+![[Dan Lartey Jr.|Lartey]]<br /><small>GCPP</small>
+![[Christian Kwabena Andrews|Andrews]]<br /><small>GUM</small>
+![[Kofi Akpaloo|Akpaloo]]<br /><small>LPG</small>
+![[Mohammed Frimpong|Frimpong]]<br /><small>NDP</small>
+![[Kofi Koranteng|Koranteng]]<br /><small>IND</small>
+![[George Twum-Barima-Adu|T.-B.-Adu]]<br /><small>IND</small>
+! Rejected
+|-
+! [[Ahafo Region|Ahafo]]
+| 130,106 || 113,851 || 1,731 || 441 || 349 || 367 || 357 || 221 || 70 || 56 || 39 || 27 || 4,900
+|-
+! [[Ashanti Region|Ashanti]]
+| 697,076 || 1,366,800 || 23,432 || 8,763 || 2,651 || 2,077 || 1,608 || 2,317 || 524 || 278 || 252 || 330 || 29,865
+|-
+! [[Bono Region|Bono]]
+| 235,681 || 192,773 || 5,549 || 832 || 880 || 776 || 636 || 719 || 174 || 271 || 96 || 99 || 10,471
+|-
+! [[Bono East Region|Bono East]]
+| 216,691 || 124,811 || 1,374 || 665 || 889 || 708 || 730 || 614 || 179 || 131 || 138 || 110 || 10,965
+|-
+! [[Central Region (Ghana)|Central]]
+| 562,620 || 382,749 || 9,090 || 2,417 || 2,118 || 1,318 || 1,457 || 2,305 || 489 || 286 || 367 || 335 || 26,926
+|-
+! [[Eastern Region (Ghana)|Eastern]]
+| 453,234 || 493,234 || 6,910 || 1851 || 1544 || 1118 || 1244 || 1507 || 344 || 365 || 315 || 219 || 21,477
+|-
+! [[Greater Accra Region|Greater Accra]]
+| 1,260,832 || 681,535 || 19,630 || 6,289 || 2,975 || 2,102 || 758 || 1,773 || 401 || 223 || 290 || 271 || 22,707
+|-
+! [[Northern Region (Ghana)|Northern]]
+| 529,456 || 370,928 || 1,305 || 2,624 || 2,154 || 2,125 || 2,825 || 991 || 719 || 444 || 604 || 547 || 23,424
+|-
+! [[North East Region, Ghana|North East]]
+| 111,051 || 134,800 || 203 || 569 || 396 || 354 || 1,026 || 245 || 266 || 155 || 132 || 154 || 9,036
+|-
+! [[Oti Region|Oti]]
+| 182,470 || 86,489 || 455 || 620 || 970 || 499 || 532 || 380 || 282 || 111 || 87 || 75 || 8,526
+|-
+! [[Savannah Region|Savannah]]
+| 134,563 || 56,774 || 256 || 882 || 621 || 511 || 569 || 341 || 163 || 219 || 105 || 105 || 6,972
+|-
+! [[Upper East Region|Upper East]]
+| 361,597 || 106,700 || 743 || 1,110 || 1,436 || 2,202 || 1,856 || 547 || 486 || 387 || 247 || 215 || 16,999
+|-
+! [[Upper West Region|Upper West]]
+| 242,852 || 89,906 || 613 || 919 || 1,605 || 801 || 1,251 || 556 || 293 || 239 || 294 || 219 || 9,467
+|-
+! [[Volta Region|Volta]]
+| 584,234 || 56,699 || 1,542 || 1,136 || 1,586 || 929 || 366 || 372 || 370 || 929 || 93 || 98 || 9,777
+|-
+! [[Western Region (Ghana)|Western]]
+| 423,245 || 275,231 || 9,922 || 1,643 || 2,281 || 995 || 912 || 2,946 || 324 || 199 || 168 || 201 || 17,654
+|-
+! [[Western North Region|Western North]]
+| 202,689 || 124,024 || 1,723 || 441 || 942 || 579 || 546 || 627 || 135 || 120 || 93 || 92 || 9,943
+|-
+! Total !! 6,328,397 !! 4,657,304 !! 84,478 !! 31,202 !! 23,397 !! 17,461 !! 16,673 !! 16,461 !! 5,219 !! 4,413 !! 3,320 !! 3,097 !! 239,109
+|}
+[[File:2024 parliamentary results mapped.png|thumb]]
+
+===Parliament===
+A total of 801 people contested for the 276 seats in parliament.<ref name="totalcandidates">{{cite web |last1=Otchere |first1=Gertrude Owireduwaah |title=Election 2024: Check out full list of 801 parliamentary candidates - Adomonline.com |url=https://www.adomonline.com/election-2024-check-out-full-list-of-801-parliamentary-candidates/ |access-date=11 February 2025 |date=7 December 2024}}</ref> Preliminary results show that the National Democratic Congress won a two-thirds majority of the nation's 276 parliamentary seats.<ref name="aa-9dec">{{cite news |last1=Fiifi Forson |first1=Enoch |title=Voters return Ghana's ex-President Mahama to office after 8 years out of power |url=https://www.aa.com.tr/en/africa/voters-return-ghanas-ex-president-mahama-to-office-after-8-years-out-of-power/3419583 |access-date=13 December 2024 |work=Anadolu Agency |date=9 December 2024}}</ref> Parliamentary control before the election was with the New Patriotic Party, with 137 seats held by each of the two largest parties and one independent caucusing with the NPP.<ref>{{Cite web|url=https://www.myjoyonline.com/npp-asks-speaker-bagbin-to-remain-impartial-as-it-maintains-majority/|title=NPP asks Speaker Bagbin to remain impartial as it maintains majority|date=21 January 2021|website=Joy Online|language=en|access-date=21 January 2021}}</ref> On 13 December, the Deputy Chairperson of the Electoral Commission announced that the results of 12 constituencies needed re-collation but only three had been completed and these were results for Suhum, Akwatia and Fanteakwa North. The results for Ablekuma North, Dome-Kwabenya, Okaikwei Central, Tema Central, all in the Greater Accra region were yet to be collated. In the Ashanti Region, results were still pending for Ahafo Ano North, Ahafo Ano South West, Obuasi East. In the Bono East Region results were still pending for Techiman South. Nsawam-Adoagyiri, a ninth constituency in the Eastern Region is also pending.<ref>{{cite web |title=EC declares parliamentary results for Dome, Okaikwei Central, Ablekuma North, Tema Central illegal |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/EC-declares-parliamentary-results-for-Dome-Okaikwei-Central-Ablekuma-North-Tema-Central-illegal-1964020 |website=GhanaWeb|access-date=15 December 2024 |date=14 December 2024}}</ref>
+
+{{Election results
+|image=[[File:Ghana Parliament 2024.svg]]
+|party1=[[National Democratic Congress (Ghana)|National Democratic Congress]]|votes1=6258144|seats1=184
+|party2=[[New Patriotic Party]]|votes2=5257506|seats2=88
+|party3=[[People's National Convention (Ghana)|People's National Convention]]|votes3=8501|seats3=0
+|party4=[[Liberal Party of Ghana]]|votes4=6903|seats4=0
+|party5=[[Progressive People's Party (Ghana)|Progressive People's Party]]|votes5=5890|seats5=0
+|party6=[[Convention People's Party]]|votes6=4375|seats6=0
+|party7=[[National Democratic Party (Ghana)|National Democratic Party]]|votes7=2316|seats7=0
+|party8=[[Ghana Union Movement]]|votes8=2054|seats8=0
+|party9=[[Progressive Alliance for Ghana]]|votes9=1957|seats9=0
+|party10=[[All People's Congress (Ghana)|All People's Congress]]|votes10=1946|seats10=0
+|party11=[[Ghana Freedom Party]]|votes11=643|seats11=0
+|party12=[[Great Consolidated Popular Party]]|votes12=157|seats12=0
+|party13=Independents|votes13=269465|seats13=4
+|invalid=125585
+|electorate=18618684
+|source=<ref>{{Cite web |title=2024 Ghana Parliamentary Election Results |url=https://elections.3news.com/results/2024/parliamentary |website=3News}}</ref>
+}}
+
+====By constituencies====
+The result for [[Ablekuma North]] in the Greater Accra Region is still pending as the collation of the results could not be completed before the inauguration of the 9th Parliament.<ref name="provisionalregionalresult">{{Cite news |author1=Enoch Darfah Frimpong |title=NPP 88 seats; NDC 183 seats; 4 Independent MPs in 9th Parliament, Ablekuma North outstanding |url=https://www.graphic.com.gh/news/politics/npp-88-seats-ndc-183-seats-4-independent-mps-in-9th-parliament-ablekuma-north-outstanding.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=8 January 2025 |language=en-gb |date=5 January 2025}}</ref> The result for the Ablekuma North constituency in the Greater Accra Region was eventually determined following a [[2025 Ablekuma North parliamentary election rerun]] held on 11 July 2025, after the Electoral Commission was unable to complete collation before the inauguration of the 9th Parliament. [[Ewurabena Aubynn]] of the National Democratic Congress (NDC) won the seat, marking the first time the NDC had secured the constituency since the beginning of the Fourth Republic.<ref>{{Cite web |title=NDC’s Ewurabena Aubynn wins Ablekuma North seat in crucial rerun - MyJoyOnline |url=https://www.myjoyonline.com/ndcs-ewurabena-aubynn-wins-ablekuma-north-seat-in-crucial-rerun/ |access-date=2025-07-12 |website=www.myjoyonline.com |language=en-US}}</ref>
+{| class="wikitable mw-collapsible mw-collapsed" style=text-align:right
+|+class=nowrap|2024 general election results by constituency
+|-
+! Region !! Constituency !! Candidate !! colspan=2|Party !! Votes
+|-
+| align=left rowspan=25|Ahafo<ref name=EC1>{{cite web |title=Constituency Results - Ahafo Region |url=https://ec.gov.gh/ahafo-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=3|Asunafo North || align=left|Mohammed Haruna || {{full party name with color|National Democratic Congress (Ghana)}} || 34,082
+|-
+| align=left|Evans Opoku Bobie || {{full party name with color|New Patriotic Party}} || 25,101
+|-
+| align=left colspan=3|''Rejected'' || 465
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Asunafo South || align=left|Opoku Eric || {{full party name with color|National Democratic Congress (Ghana)}} || 25,244
+|-
+| align=left|Frank Aduse Poku || {{full party name with color|New Patriotic Party}} || 18,736
+|-
+| align=left colspan=3|''Rejected'' || 298
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Asutifi North || align=left|Ebenezer Kwaku Addo || {{full party name with color|National Democratic Congress (Ghana)}} || 18,584
+|-
+| align=left|Patrick Banor || {{full party name with color|New Patriotic Party}} || 14,207
+|-
+| align=left colspan=3|''Rejected'' || 224
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Asutifi South || align=left|Collins Dauda || {{full party name with color|National Democratic Congress (Ghana)}} || 20,020
+|-
+| align=left|Yaw Owusu-Brempong || {{full party name with color|New Patriotic Party}} || 16,092
+|-
+| align=left|Andrews Kofi Ahiamata || {{full party name with color|National Democratic Party (Ghana)}} || 87
+|-
+| align=left colspan=3|''Rejected'' || 267
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Tano North || align=left|Gideon Boako || {{full party name with color|New Patriotic Party}} || 21,127
+|-
+| align=left|Pius Opoku Sampson || {{full party name with color|National Democratic Congress (Ghana)}} || 1,707
+|-
+| align=left colspan=3|''Rejected'' || 267
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Tano South || align=left|Charles Asiedu || {{full party name with color|National Democratic Congress (Ghana)}} || 20,056
+|-
+| align=left|Benjamin Yeboah Sekyere || {{full party name with color|New Patriotic Party}} || 19,061
+|-
+| align=left|Kofi Nti Christopher || {{party name with color|Independent}} || 375
+|-
+| align=left colspan=3|''Rejected'' || 316
+|-
+! colspan=6|
+|-
+| align=left rowspan=227|Ashanti<ref name=EC2>{{cite web |title=Constituency Results - Ashanti Region |url=https://ec.gov.gh/ashanti-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=4|Adansi Asokwa || align=left|Godwin Animli Dorgbadzi-Dorani || {{full party name with color|National Democratic Congress (Ghana)}} || 14,229
+|-
+| align=left|Kobina Tahir Hammond || {{full party name with color|New Patriotic Party}} || 13,275
+|-
+| align=left|Mensah Abraham Justice || {{full party name with color|Convention People's Party}} || 346
+|-
+| align=left colspan=3|''Rejected'' || 457
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Afigya Kwabre North || align=left|Collins Adomako-Mensah || {{full party name with color|New Patriotic Party}} || 16,689
+|-
+| align=left|Emmanuel Jackson Agumah || {{full party name with color|National Democratic Congress (Ghana)}} || 13,383
+|-
+| align=left colspan=3|''Rejected'' || 343
+|-
+! colspan=6|
+|-
+| align=left rowspan=6|Afigya Kwabre South || align=left|Damata Ama Appianimaa Salam || {{full party name with color|New Patriotic Party}} || 50,981
+|-
+| align=left|Nuzagl Vivien Nyuzagla || {{full party name with color|National Democratic Congress (Ghana)}} || 16,051
+|-
+| align=left|Idahosah Bright Benson || {{party name with color|Independent}} || 2,777
+|-
+| align=left|Abdul Wahab Diyal Wilhak || {{party name with color|Independent}} || 317
+|-
+| align=left|Ofori Daniel || {{party name with color|Independent}} || 239
+|-
+| align=left colspan=3|''Rejected'' || 496
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Afigya Sekyere East || align=left|Mavis Nkansah-Boadu || {{full party name with color|New Patriotic Party}} || 33,319
+|-
+| align=left|Twumasi Evans Amoh || {{full party name with color|National Democratic Congress (Ghana)}} || 14,782
+|-
+| align=left colspan=3|''Rejected'' || 402
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ahafo Ano North || align=left|Eric Nana Agyemang-Prempeh || {{full party name with color|New Patriotic Party}} || 20,353
+|-
+| align=left|Kwasi Adusei || {{full party name with color|National Democratic Congress (Ghana)}} || 20,232
+|-
+| align=left colspan=3|''Rejected'' || 390
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ahafo Ano South East || align=left|Yakubu Mohammed || {{full party name with color|National Democratic Congress (Ghana)}} || 15,609
+|-
+| align=left|Frederick Acheampong || {{full party name with color|New Patriotic Party}} || 14,152
+|-
+| align=left colspan=3|''Rejected'' || 231
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ahafo Ano South West || align=left|Osei Mensah Dapaah Elvis || {{full party name with color|New Patriotic Party}} || 16,058
+|-
+| align=left|Sedik Abubakar || {{full party name with color|National Democratic Congress (Ghana)}} || 15,372
+|-
+| align=left colspan=3|''Rejected'' || 0
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Akrofruom || align=left|Joseph Azumah || {{full party name with color|National Democratic Congress (Ghana)}} || 10,103
+|-
+| align=left|Alex Blankson || {{full party name with color|New Patriotic Party}} || 8,589
+|-
+| align=left colspan=3|''Rejected'' || 161
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Asante Akim Central || align=left|Kwame Anyimadu-Antwi || {{full party name with color|New Patriotic Party}} || 16,628
+|-
+| align=left|Ebenezer Ekow Aidoo || {{full party name with color|National Democratic Congress (Ghana)}} || 10,739
+|-
+| align=left|Richard Adu Darko || {{party name with color|Independent}} || 9,334
+|-
+| align=left|Isaac Dzameshie || {{full party name with color|Ghana Freedom Party}} || 256
+|-
+| align=left colspan=3|''Rejected'' || 346
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Asante Akim North || align=left|Ohene Kwame Frimpong || {{party name with color|Independent}} || 26,926
+|-
+| align=left|Andy Kwame Appiah-Kubi || {{full party name with color|New Patriotic Party}} || 8,933
+|-
+| align=left|Kofi Asamoah || {{full party name with color|National Democratic Congress (Ghana)}} || 2,469
+|-
+| align=left colspan=3|''Rejected'' || 513
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Asante Akim South || align=left|Kwaku Asante-Boateng || {{full party name with color|New Patriotic Party}} || 27,396
+|-
+| align=left|Maame Sarfoah Appiah || {{full party name with color|National Democratic Congress (Ghana)}} || 23,244
+|-
+| align=left colspan=3|''Rejected'' || 552
+|-
+! colspan=6|
+|-
+| align=left rowspan=6|Asawase || align=left|Muntaka Mohammed-Mubarak || {{full party name with color|National Democratic Congress (Ghana)}} || 41,667
+|-
+| align=left|Manaf Ibrahim || {{full party name with color|New Patriotic Party}} || 31,049
+|-
+| align=left|Issah Baba Kompo || {{full party name with color|Progressive People's Party (Ghana)}} || 107
+|-
+| align=left|Alhassan Rafik || {{party name with color|Independent}} || 101
+|-
+| align=left|Naomi Nsor || {{full party name with color|Liberal Party of Ghana}} || 77
+|-
+| align=left colspan=3|''Rejected'' || 340
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Asokwa || align=left|Patricia Appiagyei || {{full party name with color|New Patriotic Party}} || 41,619
+|-
+| align=left|Amoh Kamel || {{full party name with color|National Democratic Congress (Ghana)}} || 16,205
+|-
+| align=left colspan=3|''Rejected'' || 544
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Atwima Kwanwoma || align=left|Kofi Amankwa-Manu || {{full party name with color|New Patriotic Party}} || 57,338
+|-
+| align=left|Grace Agyemang Asamoah || {{full party name with color|National Democratic Congress (Ghana)}} || 18,692
+|-
+| align=left|Obiba James Annan || {{full party name with color|People's National Convention (Ghana)}} || 395
+|-
+| align=left colspan=3|''Rejected'' || 635
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Atwima Mponua || align=left|Seth Osei-Akoto || {{full party name with color|New Patriotic Party}} || 29,616
+|-
+| align=left|Stephen Yeboah || {{full party name with color|National Democratic Congress (Ghana)}} || 28,617
+|-
+| align=left colspan=3|''Rejected'' || 461
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Atwima Nwabiagya North || align=left|Frank Yeboah || {{full party name with color|New Patriotic Party}} || 36,924
+|-
+| align=left|Mba Zechariah Alenbilla || {{full party name with color|National Democratic Congress (Ghana)}} || 14,502
+|-
+| align=left|Emmanual Osei Gyamfi || {{party name with color|Independent}} || 2,831
+|-
+| align=left|Kandiire Joachim || {{party name with color|Independent}} || 415
+|-
+| align=left colspan=3|''Rejected'' || 386
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Atwima Nwabiagya South || align=left|Shirley Kyei || {{full party name with color|New Patriotic Party}} || 45,352
+|-
+| align=left|Wisdom Osel Boamah || {{full party name with color|National Democratic Congress (Ghana)}} || 17,068
+|-
+| align=left colspan=3|''Rejected'' || 420
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Bantama || align=left|Francis Asenso-Boakye || {{full party name with color|New Patriotic Party}} || 47,275
+|-
+| align=left|Simeon Addai Dapaah || {{full party name with color|National Democratic Congress (Ghana)}} || 8,023
+|-
+| align=left colspan=3|''Rejected'' || 248
+|-
+! colspan=6|
+|-
+| align=left rowspan=6|Bekwai || align=left|Ralph Poku-Adusei || {{full party name with color|New Patriotic Party}} || 31,060
+|-
+| align=left|Kwasi Amofa-Agyemang || {{party name with color|Independent}} || 16,875
+|-
+| align=left|Prempeh Junior Samuel || {{full party name with color|National Democratic Congress (Ghana)}} || 5,321
+|-
+| align=left|Yahaya Nasiru || {{full party name with color|People's National Convention (Ghana)}} || 234
+|-
+| align=left|Lovista Owusu || {{full party name with color|Liberal Party of Ghana}} || 209
+|-
+| align=left colspan=3|''Rejected'' || 460
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Bosome Freho || align=left|Nana Asafo-Adjei Ayeh || {{full party name with color|New Patriotic Party}} || 18,208
+|-
+| align=left|Charles Appiah-Kubi || {{full party name with color|National Democratic Congress (Ghana)}} || 7,602
+|-
+| align=left colspan=3|''Rejected'' || 219
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Bosomtwe || align=left|Yaw Osei Adutwum || {{full party name with color|New Patriotic Party}} || 46,797
+|-
+| align=left|Abdullah Hamidu || {{full party name with color|National Democratic Congress (Ghana)}} || 12,842
+|-
+| align=left|Adusei-Akwaboah Samuel || {{full party name with color|Liberal Party of Ghana}} || 200
+|-
+| align=left|Eric Osei Boateng || {{full party name with color|Convention People's Party}} || 152
+|-
+| align=left colspan=3|''Rejected'' || 393
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Efiduase/Asokore || align=left|Nana Ayew Afriye || {{full party name with color|New Patriotic Party}} || 23,322
+|-
+| align=left|Raymond Opoku Agyeman || {{full party name with color|National Democratic Congress (Ghana)}} || 7,903
+|-
+| align=left colspan=3|''Rejected'' || 371
+|-
+! colspan=6|
+|-
+| align=left rowspan=7|Ejisu || align=left|Kwabena Boateng || {{full party name with color|New Patriotic Party}} || 53,626
+|-
+| align=left|Jerryne Asante || {{full party name with color|National Democratic Congress (Ghana)}} || 18,041
+|-
+| align=left|Okai Kwanin || {{party name with color|Independent}} || 771
+|-
+| align=left|Fredua Agyemang Joseph || {{party name with color|Independent}} || 442
+|-
+| align=left|George Gyapah || {{party name with color|Independent}} || 261
+|-
+| align=left|Osei Esther || {{full party name with color|Convention People's Party}} || 258
+|-
+| align=left colspan=3|''Rejected'' || 491
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ejura Sekyedumase || align=left|Muhammad Bawah Braimah || {{full party name with color|National Democratic Congress (Ghana)}} || 27,776
+|-
+| align=left|Gifty Ndoma || {{full party name with color|New Patriotic Party}} || 24,751
+|-
+| align=left colspan=3|''Rejected'' || 565
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Fomena || align=left|Andrew Asiamah Amoako || {{full party name with color|New Patriotic Party}} || 14,543
+|-
+| align=left|Ogbeh Charles Kofi || {{full party name with color|National Democratic Congress (Ghana)}} || 6,925
+|-
+| align=left colspan=3|''Rejected'' || 225
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Juaben || align=left|Francis Kwabena Berepong Owusu-Akyaw || {{full party name with color|New Patriotic Party}} || 21,168
+|-
+| align=left|Eunice Ohenewaa Ansu || {{full party name with color|National Democratic Congress (Ghana)}} || 8,421
+|-
+| align=left colspan=3|''Rejected'' || 230
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Kumawu || align=left|Ernest Yaw Anim || {{full party name with color|New Patriotic Party}} || 21,422
+|-
+| align=left|Kwasi Amankwaa || {{full party name with color|National Democratic Congress (Ghana)}} || 6,732
+|-
+| align=left colspan=3|''Rejected'' || 160
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Kwabre East || align=left|Onyina-Acheampong Akwasi Gyamfi || {{full party name with color|New Patriotic Party}} || 68,106
+|-
+| align=left|Joseph Amankwah || {{full party name with color|National Democratic Congress (Ghana)}} || 27,630
+|-
+| align=left|Lord Foster Adom Nyamekye || {{party name with color|Independent}} || 264
+|-
+| align=left|Bencha George || {{full party name with color|Ghana Freedom Party}} || 177
+|-
+| align=left colspan=3|''Rejected'' || 574
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Kwadaso || align=left|Kingsley Nyarko || {{full party name with color|New Patriotic Party}} || 45,858
+|-
+| align=left|Eric Asibey || {{full party name with color|National Democratic Congress (Ghana)}} || 11,221
+|-
+| align=left|Adongo Akwasi David || {{full party name with color|People's National Convention (Ghana)}} || 497
+|-
+| align=left colspan=3|''Rejected'' || 431
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Mampong || align=left|Kwaku Ampratwum-Sarpong || {{full party name with color|New Patriotic Party}} || 27,721
+|-
+| align=left|Yakubu Issifu || {{full party name with color|National Democratic Congress (Ghana)}} || 15,486
+|-
+| align=left|Sarkodie Peter Abum || {{party name with color|Independent}} || 3,006
+|-
+| align=left colspan=3|''Rejected'' || 482
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Manhyia North || align=left|Akwasi Konadu || {{full party name with color|New Patriotic Party}} || 29,675
+|-
+| align=left|Hamza Swallah || {{full party name with color|National Democratic Congress (Ghana)}} || 16,151
+|-
+| align=left colspan=3|''Rejected'' || 252
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Manhyia South || align=left|Nana Agyei Baffour Awuah || {{full party name with color|New Patriotic Party}} || 21,978
+|-
+| align=left|Rita Amonu Gyamfua Antwi || {{full party name with color|National Democratic Congress (Ghana)}} || 6,555
+|-
+| align=left|Marfo Kwaku || {{full party name with color|Liberal Party of Ghana}} || 298
+|-
+| align=left colspan=3|''Rejected'' || 194
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Manso Edubia || align=left|Yaw Frimpong Addo || {{full party name with color|New Patriotic Party}} || 19,530
+|-
+| align=left|Benjamin Marfo || {{full party name with color|National Democratic Congress (Ghana)}} || 13,438
+|-
+| align=left|Selina Adom || {{full party name with color|People's National Convention (Ghana)}} || 689
+|-
+| align=left colspan=3|''Rejected'' || 618
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Manso Nkwanta || align=left|Tweneboa Kodua Fokuo || {{full party name with color|New Patriotic Party}} || 26,684
+|-
+| align=left|Samuel Adjei || {{full party name with color|National Democratic Congress (Ghana)}} || 9,706
+|-
+| align=left colspan=3|''Rejected'' || 316
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|New Edubiase || align=left|Abdul Salam Adams || {{full party name with color|National Democratic Congress (Ghana)}} || 18,717
+|-
+| align=left|George Boahen Oduro || {{full party name with color|New Patriotic Party}} || 17,612
+|-
+| align=left colspan=3|''Rejected'' || 320
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Nhyiaeso || align=left|Stephen Amoah || {{full party name with color|New Patriotic Party}} || 35,502
+|-
+| align=left|Faustina Bayor Dery || {{full party name with color|National Democratic Congress (Ghana)}} || 14,071
+|-
+| align=left|Joan Abunyewah || {{full party name with color|Liberal Party of Ghana}} || 584
+|-
+| align=left colspan=3|''Rejected'' || 396
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Nsuta/Kwamang/Beposo || align=left|Adelaide Ntim || {{full party name with color|New Patriotic Party}} || 16,179
+|-
+| align=left|Ofori Attah Aboagye || {{full party name with color|National Democratic Congress (Ghana)}} || 9,388
+|-
+| align=left|Kwankye Aaron Prosper || {{party name with color|Independent}} || 3,384
+|-
+| align=left colspan=3|''Rejected'' || 333
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Obuasi East || align=left|Patrick Boakye-Yiadom || {{full party name with color|New Patriotic Party}} || 18,558
+|-
+| align=left|Samuel Aboagye || {{full party name with color|National Democratic Congress (Ghana)}} || 18,539
+|-
+| align=left|Adjei Owusu Afriyie || {{party name with color|Independent}} || 424
+|-
+| align=left colspan=3|''Rejected'' || 245
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Obuasi West || align=left|Kwaku Agyeman Kwarteng || {{full party name with color|New Patriotic Party}} || 18,586
+|-
+| align=left|Appiah Kannin Faustilove || {{full party name with color|National Democratic Congress (Ghana)}} || 15,244
+|-
+| align=left|Annin Kofi Appianin || {{party name with color|Independent}} || 7,031
+|-
+| align=left colspan=3|''Rejected'' || 268
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Odotobri || align=left|Anthony Mmieh || {{full party name with color|New Patriotic Party}} || 25,398
+|-
+| align=left|Emmanuel Obeng Agyemang || {{full party name with color|National Democratic Congress (Ghana)}} || 7,973
+|-
+| align=left|Isaac Kofi Gyamfi || {{party name with color|Independent}} || 279
+|-
+| align=left colspan=3|''Rejected'' || 433
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Offinso North || align=left|Fred Kyei Asamoah || {{full party name with color|New Patriotic Party}} || 20,251
+|-
+| align=left|Ceasar Acheampong Ofosu || {{full party name with color|National Democratic Congress (Ghana)}} || 18,699
+|-
+| align=left|Abdul Nasir Deen || {{full party name with color|People's National Convention (Ghana)}} || 105
+|-
+| align=left colspan=3|''Rejected'' || 411
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Offinso South || align=left|Isaac Yaw Opoku || {{full party name with color|New Patriotic Party}} || 28,603
+|-
+| align=left|Asare Bediako Vincent || {{full party name with color|National Democratic Congress (Ghana)}} || 24,940
+|-
+| align=left colspan=3|''Rejected'' || 531
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Oforikrom || align=left|Michael Kwasi Aidoo || {{full party name with color|New Patriotic Party}} || 47,709
+|-
+| align=left|Anwel Sadat Ahmed || {{full party name with color|National Democratic Congress (Ghana)}} || 24,483
+|-
+| align=left|Benjamin Afrane Amankwa || {{party name with color|Independent}} || 404
+|-
+| align=left colspan=3|''Rejected'' || 356
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Old Tafo || align=left|Vincent Ekwow Assafuah || {{full party name with color|New Patriotic Party}} || 34,097
+|-
+| align=left|Sahmudeen Mohammed Kamil || {{full party name with color|National Democratic Congress (Ghana)}} || 15,707
+|-
+| align=left|Daniel Kusi Aseidu || {{party name with color|Independent}} || 221
+|-
+| align=left|Obiri Yeboah Frank || {{full party name with color|Ghana Freedom Party}} || 118
+|-
+| align=left colspan=3|''Rejected'' || 294
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Sekyere Afram Plains || align=left|Nasira Afrah Gyekye || {{full party name with color|National Democratic Congress (Ghana)}} || 11,524
+|-
+| align=left|George Akom || {{full party name with color|New Patriotic Party}} || 4,725
+|-
+| align=left colspan=3|''Rejected'' || 168
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Suame || align=left|John Darko || {{full party name with color|New Patriotic Party}} || 51,491
+|-
+| align=left|Frank Owusu Ansah || {{full party name with color|National Democratic Congress (Ghana)}} || 14,948
+|-
+| align=left|Mohammed Mubarak || {{full party name with color|All People's Congress (Ghana)}} || 435
+|-
+| align=left colspan=3|''Rejected'' || 348
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Subin || align=left|Kofi Obiri Yeboah || {{full party name with color|New Patriotic Party}} || 31,983
+|-
+| align=left|Akwasi Agyekum Nana Denkyi || {{full party name with color|National Democratic Congress (Ghana)}} || 12,684
+|-
+| align=left|Joseph Boakye – Danquah || {{party name with color|Independent}} || 2,336
+|-
+| align=left|Benedicta Kusi Afram || {{full party name with color|Liberal Party of Ghana}} || 174
+|-
+| align=left colspan=3|''Rejected'' || 292
+|-
+! colspan=6|
+|-
+| align=left rowspan=62|Bono<ref name=EC3>{{cite web |title=Constituency Results - Bono Region |url=https://ec.gov.gh/bono-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=6|Banda || align=left|Ibrahim Ahmed || {{full party name with color|National Democratic Congress (Ghana)}} || 9,150
+|-
+| align=left|Joe Danquah || {{full party name with color|New Patriotic Party}} || 8,010
+|-
+| align=left|Isaac K, Annorhene || {{party name with color|Independent}} || 41
+|-
+| align=left|Paul Nyankamago || {{full party name with color|Great Consolidated Popular Party}} || 32
+|-
+| align=left|Yeboah Abbrey || {{full party name with color|National Democratic Party (Ghana)}} || 29
+|-
+| align=left colspan=3|''Rejected'' || 176
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Berekum East || align=left|Ampaabeng Kyeremeh Simon || {{full party name with color|National Democratic Congress (Ghana)}} || 23,476
+|-
+| align=left|Nelson Kyeremeh || {{full party name with color|New Patriotic Party}} || 14,356
+|-
+| align=left|Adarkwa Blessing Emmanuel Kwame || {{full party name with color|Progressive Alliance for Ghana}} || 162
+|-
+| align=left|Baifi Abigail || {{full party name with color|People's National Convention (Ghana)}} || 96
+|-
+| align=left colspan=3|''Rejected'' || 266
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Berekum West || align=left|Dickson Kyere-Duah || {{full party name with color|National Democratic Congress (Ghana)}} || 13,869
+|-
+| align=left|Kwaku Agyenim-Boateng || {{full party name with color|New Patriotic Party}} || 8,651
+|-
+| align=left colspan=3|''Rejected'' || 192
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Dormaa Central || align=left|John Kwame Adu Jack || {{full party name with color|National Democratic Congress (Ghana)}} || 23,035
+|-
+| align=left|Kwaku Agyeman-Manu || {{full party name with color|New Patriotic Party}} || 17,450
+|-
+| align=left|Jochee Uroy Edem || {{full party name with color|Great Consolidated Popular Party}} || 125
+|-
+| align=left|Eric Kwaku Yeboah || {{full party name with color|National Democratic Party (Ghana)}} || 97
+|-
+| align=left colspan=3|''Rejected'' || 410
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Dormaa East || align=left|Owusuah Rachel Amma || {{full party name with color|National Democratic Congress (Ghana)}} || 12,310
+|-
+| align=left|Paul Apereku Twum-Barimah || {{full party name with color|New Patriotic Party}} || 12,050
+|-
+| align=left|Emmanuel Twih Gyabaah || {{party name with color|Independent}} || 126
+|-
+| align=left colspan=3|''Rejected'' || 314
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Dormaa West || align=left|Vincent Oppong Asamoah || {{full party name with color|National Democratic Congress (Ghana)}} || 11,299
+|-
+| align=left|Ali Maiga Halidu || {{full party name with color|New Patriotic Party}} || 9,101
+|-
+| align=left|Umar Yusif || {{party name with color|Independent}} || 130
+|-
+| align=left colspan=3|''Rejected'' || 262
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Jaman North || align=left|Ahenkwah Frederick Yaw || {{full party name with color|National Democratic Congress (Ghana)}} || 21,134
+|-
+| align=left|Enock Nyarko || {{full party name with color|New Patriotic Party}} || 15,316
+|-
+| align=left|Martin Kwame Antwi || {{party name with color|Independent}} || 181
+|-
+| align=left colspan=3|''Rejected'' || 391
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Jaman South || align=left|Kwadwo Damoah || {{full party name with color|New Patriotic Party}} || 21,637
+|-
+| align=left|Okofo-Dateh Williams || {{full party name with color|National Democratic Congress (Ghana)}} || 20,176
+|-
+| align=left|Bediako Joyce Asare || {{full party name with color|National Democratic Party (Ghana)}} || 116
+|-
+| align=left colspan=3|''Rejected'' || 458
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Sunyani East || align=left|Seid Mubarak || {{full party name with color|National Democratic Congress (Ghana)}} || 34,453
+|-
+| align=left|Kwasi Ameyaw-Cheremeh || {{full party name with color|New Patriotic Party}} || 22,306
+|-
+| align=left|Ransford Antwi || {{party name with color|Independent}} || 8,294
+|-
+| align=left|Alannyina Sampana Sampson || {{full party name with color|People's National Convention (Ghana)}} || 222
+|-
+| align=left colspan=3|''Rejected'' || 482
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Sunyani West || align=left|Millicent Yeboah Amankwah || {{full party name with color|National Democratic Congress (Ghana)}} || 26,828
+|-
+| align=left|Ignatius Baffour Awuah || {{full party name with color|New Patriotic Party}} || 19,715
+|-
+| align=left colspan=3|''Rejected'' || 502
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Tain || align=left|Adama Sulemana || {{full party name with color|National Democratic Congress (Ghana)}} || 21,478
+|-
+| align=left|Ababio Alexandeer || {{full party name with color|New Patriotic Party}} || 20,726
+|-
+| align=left|Sah Job Kwabena || {{full party name with color|National Democratic Party (Ghana)}} || 235
+|-
+| align=left colspan=3|''Rejected'' || 641
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Wenchi || align=left|Haruna Seidu || {{full party name with color|National Democratic Congress (Ghana)}} || 26,549
+|-
+| align=left|Kojo Frempong || {{full party name with color|New Patriotic Party}} || 20,941
+|-
+| align=left|David Kusi || {{party name with color|Independent}} || 191
+|-
+| align=left colspan=3|''Rejected'' || 564
+|-
+! colspan=6|
+|-
+| align=left rowspan=53|Bono East<ref name=EC4>{{cite web |title=Constituency Results - Bono East Region |url=https://ec.gov.gh/bono-east-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=4|Atebubu/Amantin || align=left|Sanja Nanja || {{full party name with color|National Democratic Congress (Ghana)}} || 25,758
+|-
+| align=left|Baduon Dimmie Issah Abu || {{full party name with color|New Patriotic Party}} || 18,977
+|-
+| align=left|Hennaa Kwaku Abraham || {{full party name with color|Progressive People's Party (Ghana)}} || 299
+|-
+| align=left colspan=3|''Rejected'' || 748
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Kintampo North || align=left|Joseph Kwame Kumah || {{full party name with color|National Democratic Congress (Ghana)}} || 29,606
+|-
+| align=left|Isaac Baffoe Ameyaw || {{full party name with color|New Patriotic Party}} || 16,794
+|-
+| align=left|Buare Kojo || {{party name with color|Independent}} || 565
+|-
+| align=left colspan=3|''Rejected'' || 773
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Kintampo South || align=left|Felicia Adjei || {{full party name with color|National Democratic Congress (Ghana)}} || 20,867
+|-
+| align=left|Alexander Gyan || {{full party name with color|New Patriotic Party}} || 15,186
+|-
+| align=left colspan=3|''Rejected'' || 479
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Nkoranza North || align=left|Mensah Kwasi Joseph || {{full party name with color|National Democratic Congress (Ghana)}} || 10,453
+|-
+| align=left|Jacqueline Boatemaa Bonsu || {{full party name with color|New Patriotic Party}} || 9,784
+|-
+| align=left|Charles Owusu || {{party name with color|Independent}} || 5,486
+|-
+| align=left|Boahene Clement || {{full party name with color|Liberal Party of Ghana}} || 92
+|-
+| align=left colspan=3|''Rejected'' || 463
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Nkoranza South || align=left|Emmanuel Kwadwo Agyekum || {{full party name with color|National Democratic Congress (Ghana)}} || 28,469
+|-
+| align=left|Harriet Kyeremanteng Oppong || {{full party name with color|New Patriotic Party}} || 20,912
+|-
+| align=left|Sabastine Gaata || {{full party name with color|Liberal Party of Ghana}} || 112
+|-
+| align=left|Florence Ampour || {{full party name with color|People's National Convention (Ghana)}} || 73
+|-
+| align=left colspan=3|''Rejected'' || 418
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Pru East || align=left|Emmanuel Kwaku Boam || {{full party name with color|National Democratic Congress (Ghana)}} || 20,287
+|-
+| align=left|Apetorgbor Yussif Appeh || {{full party name with color|New Patriotic Party}} || 8,737
+|-
+| align=left|Felix Nimako || {{party name with color|Independent}} || 2,504
+|-
+| align=left colspan=3|''Rejected'' || 561
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Pru West || align=left|Emmanuel Kofi Ntekuni || {{full party name with color|National Democratic Congress (Ghana)}} || 15,711
+|-
+| align=left|Stephen Pambiin Jalulah || {{full party name with color|New Patriotic Party}} || 13,876
+|-
+| align=left colspan=3|''Rejected'' || 418
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Sene East || align=left|Napare Dominic || {{full party name with color|National Democratic Congress (Ghana)}} || 11,630
+|-
+| align=left|Wudonyim Kofi Ibrahim || {{full party name with color|New Patriotic Party}} || 6,954
+|-
+| align=left colspan=3|''Rejected'' || 477
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Sene West || align=left|Kwame Twumasi Ampofo || {{full party name with color|National Democratic Congress (Ghana)}} || 13,824
+|-
+| align=left|Joseph Kumah Mackay || {{full party name with color|New Patriotic Party}} || 13,362
+|-
+| align=left colspan=3|''Rejected'' || 385
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Techiman North || align=left|Elizabeth Ofosu- Adjare || {{full party name with color|National Democratic Congress (Ghana)}} || 22,513
+|-
+| align=left|Martin Oti Gyarko || {{full party name with color|New Patriotic Party}} || 19,214
+|-
+| align=left|Frank Asare || {{party name with color|Independent}} || 361
+|-
+| align=left colspan=3|''Rejected'' || 426
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Techiman South || align=left|Martin Kwaku Adjei-Mensah Korsah || {{full party name with color|New Patriotic Party}} || 46,663
+|-
+| align=left|Christophper Beyere Baasongti || {{full party name with color|National Democratic Congress (Ghana)}} || 43,529
+|-
+| align=left|Donkor Moses || {{full party name with color|Progressive People's Party (Ghana)}} || 140
+|-
+| align=left|Boyoung Iddris || {{party name with color|Independent}} || 76
+|-
+| align=left colspan=3|''Rejected'' || 844
+|-
+! colspan=6|
+|-
+| align=left rowspan=108|Central<ref name=EC5>{{cite web |title=Constituency Results - Central Region |url=https://ec.gov.gh/central-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=4|Abura Asebu Kwamankese || align=left|Felix Kwakye Ofosu || {{full party name with color|National Democratic Congress (Ghana)}} || 30,607
+|-
+| align=left|Eric Kobina Nyanteh || {{full party name with color|New Patriotic Party}} || 19,598
+|-
+| align=left|John Annsmann-Ansah-Psalms || {{full party name with color|Ghana Union Movement}} || 293
+|-
+| align=left colspan=3|''Rejected'' || 604
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Agona East || align=left|Sawyerr Queenstar Pokuah || {{full party name with color|National Democratic Congress (Ghana)}} || 22,225
+|-
+| align=left|Asamoah Hannah || {{full party name with color|New Patriotic Party}} || 17,256
+|-
+| align=left|Essien Eric || {{full party name with color|Liberal Party of Ghana}} || 334
+|-
+| align=left colspan=3|''Rejected'' || 546
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Agona West || align=left|Dangbey Ernestina Ofori || {{full party name with color|National Democratic Congress (Ghana)}} || 26,080
+|-
+| align=left|Arthur Christopher || {{full party name with color|New Patriotic Party}} || 20,693
+|-
+| align=left|Morrison Cynthia Mamle || {{party name with color|Independent}} || 7,160
+|-
+| align=left colspan=3|''Rejected'' || 660
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ajumako Enyan Esiam || align=left|Forson Cassiel Ato Baah || {{full party name with color|National Democratic Congress (Ghana)}} || 40,478
+|-
+| align=left|Etuaful Rashid Kwesi || {{full party name with color|New Patriotic Party}} || 18,251
+|-
+| align=left colspan=3|''Rejected'' || 480
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Asikuma Odoben Brakwa || align=left|Ghansah Alhassan Kobina || {{full party name with color|National Democratic Congress (Ghana)}} || 25,244
+|-
+| align=left|Winifred Abaidoo-Ayin || {{full party name with color|New Patriotic Party}} || 22,498
+|-
+| align=left|Precious Mawulorm Amevor || {{full party name with color|Ghana Union Movement}} || 263
+|-
+| align=left colspan=3|''Rejected'' || 577
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Assin Central || align=left|Migyimah Shaibu Nurein || {{full party name with color|National Democratic Congress (Ghana)}} || 16,343
+|-
+| align=left|Anewu Godfred || {{full party name with color|New Patriotic Party}} || 15,926
+|-
+| align=left colspan=3|''Rejected'' || 275
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Assin North || align=left|Quayson James Gyakye || {{full party name with color|National Democratic Congress (Ghana)}} || 18,023
+|-
+| align=left|Opoku Charles || {{full party name with color|New Patriotic Party}} || 13,599
+|-
+| align=left colspan=3|''Rejected'' || 360
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Assin South || align=left|Fordjour John Ntim || {{full party name with color|New Patriotic Party}} || 14,899
+|-
+| align=left|Baidoo Stephen Kofi || {{full party name with color|National Democratic Congress (Ghana)}} || 13,354
+|-
+| align=left|Damtse Joseph Kofi || {{party name with color|Independent}} || 10,332
+|-
+| align=left colspan=3|''Rejected'' || 557
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Awutu Senya East || align=left|Phillis Naa Koryoo Okunor || {{full party name with color|National Democratic Congress (Ghana)}} || 50,886
+|-
+| align=left|Koomson Mavis Hawa || {{full party name with color|New Patriotic Party}} || 45,638
+|-
+| align=left colspan=3|''Rejected'' || 635
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Awutu Senya West || align=left|Tetteh-Agbotui Gizella || {{full party name with color|National Democratic Congress (Ghana)}} || 33,995
+|-
+| align=left|Arhin Eugene Kofi Bentum || {{full party name with color|New Patriotic Party}} || 26,937
+|-
+| align=left colspan=3|''Rejected'' || 453
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Cape Coast North || align=left|Nyarku Kwamena Minta || {{full party name with color|National Democratic Congress (Ghana)}} || 23,521
+|-
+| align=left|Ewusi Horace Ekow || {{full party name with color|New Patriotic Party}} || 17,045
+|-
+| align=left|Andoh Thomas || {{full party name with color|Progressive People's Party (Ghana)}} || 292
+|-
+| align=left colspan=3|''Rejected'' || 271
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Cape Coast South || align=left|Ricketts-Hagan George Kweku || {{full party name with color|National Democratic Congress (Ghana)}} || 21,277
+|-
+| align=left|Arthur Ernest || {{full party name with color|New Patriotic Party}} || 14,163
+|-
+| align=left|Mensah Emmanuel Andoh Perry || {{party name with color|Independent}} || 1,735
+|-
+| align=left|Manu Isaac || {{party name with color|Independent}} || 223
+|-
+| align=left colspan=3|''Rejected'' || 301
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Effutu || align=left|Alexander Afenyo-Markin || {{full party name with color|New Patriotic Party}} || 39,512
+|-
+| align=left|Annan James Kofi || {{full party name with color|National Democratic Congress (Ghana)}} || 19,383
+|-
+| align=left|Buabeng Louisa || {{party name with color|Independent}} || 81
+|-
+| align=left colspan=3|''Rejected'' || 609
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ekumfi || align=left|Kwainoe Ekow Othniel || {{full party name with color|National Democratic Congress (Ghana)}} || 18,413
+|-
+| align=left|Stelfa Nana Adu Okumkom Donkor || {{full party name with color|New Patriotic Party}} || 11,014
+|-
+| align=left colspan=3|''Rejected'' || 398
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Gomoa Central || align=left|Obeng Kwame Asare || {{party name with color|Independent}} || 14,277
+|-
+| align=left|Eyiah Naana || {{full party name with color|New Patriotic Party}} || 11,637
+|-
+| align=left|Yawson Muhammed Naeem-Deen || {{full party name with color|National Democratic Congress (Ghana)}} || 10,112
+|-
+| align=left colspan=3|''Rejected'' || 700
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Gomoa East || align=left|Paitoo Desmond De-Graft || {{full party name with color|National Democratic Congress (Ghana)}} || 33,806
+|-
+| align=left|Asemanyi Kojo || {{full party name with color|New Patriotic Party}} || 25,421
+|-
+| align=left|Issah Mohammed || {{full party name with color|All People's Congress (Ghana)}} || 326
+|-
+| align=left colspan=3|''Rejected'' || 638
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Gomoa West || align=left|Richard Gyan-Mensah || {{full party name with color|National Democratic Congress (Ghana)}} || 30,884
+|-
+| align=left|Bismark Baisie Nkum || {{full party name with color|New Patriotic Party}} || 19,211
+|-
+| align=left colspan=3|''Rejected'' || 590
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Hemang Lower Denkyira || align=left|Lawrence Agyinsam || {{full party name with color|New Patriotic Party}} || 17,228
+|-
+| align=left|Agyapong-Mensah Seth || {{full party name with color|National Democratic Congress (Ghana)}} || 9,527
+|-
+| align=left|Benjamin Bimpong Donkor || {{party name with color|Independent}} || 377
+|-
+| align=left|Sampson Kwame Owonna || {{full party name with color|Convention People's Party}} || 113
+|-
+| align=left colspan=3|''Rejected'' || 400
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Komenda Edina Eguafo Abrem || align=left|Samuel Atta Mills || {{full party name with color|National Democratic Congress (Ghana)}} || 30,220
+|-
+| align=left|Dennis Percyval Quaicoe || {{full party name with color|New Patriotic Party}} || 17,675
+|-
+| align=left|Emmanuel Kofi Duku || {{full party name with color|Progressive People's Party (Ghana)}} || 740
+|-
+| align=left colspan=3|''Rejected'' || 964
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Mfantseman || align=left|Arhin Ebenezer Prince || {{full party name with color|National Democratic Congress (Ghana)}} || 36,989
+|-
+| align=left|Ophelia Mensah || {{full party name with color|New Patriotic Party}} || 24,099
+|-
+| align=left colspan=3|''Rejected'' || 647
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Twifo Atti Morkwa || align=left|Vondee T, D, David || {{full party name with color|National Democratic Congress (Ghana)}} || 19,706
+|-
+| align=left|Dwamena Obeng Ebenezer || {{full party name with color|New Patriotic Party}} || 15,352
+|-
+| align=left|Donkoh Adowa || {{full party name with color|Ghana Union Movement}} || 243
+|-
+| align=left colspan=3|''Rejected'' || 460
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Upper Denkyira East || align=left|Ankomah Emelia || {{full party name with color|National Democratic Congress (Ghana)}} || 24,426
+|-
+| align=left|Festus Awuah Kwofie || {{full party name with color|New Patriotic Party}} || 19,039
+|-
+| align=left|Offin Amaniampong Owusu || {{full party name with color|People's National Convention (Ghana)}} || 96
+|-
+| align=left colspan=3|''Rejected'' || 334
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Upper Denkyira West || align=left|Rudolf Amoako-Gyampah || {{full party name with color|New Patriotic Party}} || 16,947
+|-
+| align=left|Darko Daniel Ohene || {{full party name with color|National Democratic Congress (Ghana)}} || 13,858
+|-
+| align=left|Emmanuel Gadjo || {{full party name with color|Ghana Union Movement}} || 208
+|-
+| align=left colspan=3|''Rejected'' || 377
+|-
+! colspan=6|
+|-
+| align=left rowspan=152|Eastern<ref name=EC6>{{cite web |title=Constituency Results - Eastern Region |url=https://ec.gov.gh/eastern-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=3|Abetifi || align=left|Bryan Acheampong || {{full party name with color|New Patriotic Party}} || 22,287
+|-
+| align=left|Addo Isaac Amoafo || {{full party name with color|National Democratic Congress (Ghana)}} || 8,338
+|-
+| align=left colspan=3|''Rejected'' || 231
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Abirem || align=left|Charles Asuako Owiredu || {{full party name with color|New Patriotic Party}} || 18,088
+|-
+| align=left|Nurudeen Fuseini || {{full party name with color|National Democratic Congress (Ghana)}} || 12,003
+|-
+| align=left colspan=3|''Rejected'' || 333
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Abuakwa North || align=left|Addo-Frempong Nana Ampaw Kwame || {{full party name with color|New Patriotic Party}} || 15,241
+|-
+| align=left|Charles Yeboah Darko || {{full party name with color|National Democratic Congress (Ghana)}} || 14,508
+|-
+| align=left colspan=3|''Rejected'' || 162
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Abuakwa South || align=left|Kingsley Agyemang || {{full party name with color|New Patriotic Party}} || 27,011
+|-
+| align=left|Nana Adu Sarpong Addo-Aikins || {{full party name with color|National Democratic Congress (Ghana)}} || 7,454
+|-
+| align=left colspan=3|''Rejected'' || 277
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Achiase || align=left|Kofi Ahenkorah Marfo || {{full party name with color|New Patriotic Party}} || 12,076
+|-
+| align=left|Samuel Owusu Brako || {{full party name with color|National Democratic Congress (Ghana)}} || 10,156
+|-
+| align=left colspan=3|''Rejected'' || 256
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Afram Plains South || align=left|Joseph Appiah Boateng || {{full party name with color|National Democratic Congress (Ghana)}} || 11,876
+|-
+| align=left|Jacob Zineyele || {{full party name with color|New Patriotic Party}} || 7,578
+|-
+| align=left|Grace Nudonu Abra Adiepena || {{party name with color|Independent}} || 3,701
+|-
+| align=left|Iddrisu Seidu Ibn-Swalah || {{full party name with color|Progressive Alliance for Ghana}} || 108
+|-
+| align=left colspan=3|''Rejected'' || 444
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Akim Oda || align=left|Alexander Akwasi Acquah || {{full party name with color|New Patriotic Party}} || 19,341
+|-
+| align=left|Jones Asante || {{full party name with color|National Democratic Congress (Ghana)}} || 7,455
+|-
+| align=left colspan=3|''Rejected'' || 177
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Akim Swedru || align=left|Osei Kennedy Nyarko || {{full party name with color|New Patriotic Party}} || 9,443
+|-
+| align=left|Taaju Abdu Rahim || {{full party name with color|National Democratic Congress (Ghana)}} || 4,788
+|-
+| align=left colspan=3|''Rejected'' || 213
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Akropong || align=left|Samuel Awuku || {{full party name with color|New Patriotic Party}} || 28,365
+|-
+| align=left|John Evans Kumordzi || {{full party name with color|National Democratic Congress (Ghana)}} || 14,217
+|-
+| align=left colspan=3|''Rejected'' || 237
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Akuapem South || align=left|Lawrencia Dziwornu || {{full party name with color|National Democratic Congress (Ghana)}} || 15,438
+|-
+| align=left|Eric Yeboah Apeadu || {{full party name with color|New Patriotic Party}} || 15,304
+|-
+| align=left colspan=3|''Rejected'' || 287
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Akwatia || align=left|Ernest Kumi || {{full party name with color|New Patriotic Party}} || 19,269
+|-
+| align=left|Henry Yiadom Boakye || {{full party name with color|National Democratic Congress (Ghana)}} || 17,206
+|-
+| align=left colspan=3|''Rejected'' || 294
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Asene/Akroso/Manso || align=left|George Kwame Aboagye || {{full party name with color|New Patriotic Party}} || 15,792
+|-
+| align=left|Eric Ahinakwa || {{full party name with color|National Democratic Congress (Ghana)}} || 13,078
+|-
+| align=left colspan=3|''Rejected'' || 346
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Asuogyaman || align=left|Thomas Ampem Nyarko || {{full party name with color|National Democratic Congress (Ghana)}} || 26,085
+|-
+| align=left|Pius Enam Hadzide || {{full party name with color|New Patriotic Party}} || 21,290
+|-
+| align=left colspan=3|''Rejected'' || 348
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Atiwa East || align=left|Abena Osei-Asare || {{full party name with color|New Patriotic Party}} || 17,501
+|-
+| align=left|Kenneth Agyare || {{full party name with color|National Democratic Congress (Ghana)}} || 5,334
+|-
+| align=left|Nana Adjei Kyerema || {{party name with color|Independent}} || 3,286
+|-
+| align=left colspan=3|''Rejected'' || 243
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Atiwa West || align=left|Laurette Korkor Asante || {{full party name with color|New Patriotic Party}} || 16,395
+|-
+| align=left|Ofosuapea Dennis Owusu-Appiah || {{full party name with color|National Democratic Congress (Ghana)}} || 8,061
+|-
+| align=left colspan=3|''Rejected'' || 178
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Ayensuano || align=left|Ida Adjoa Asiedu || {{full party name with color|New Patriotic Party}} || 18,229
+|-
+| align=left|Addi Safori Teddy || {{full party name with color|National Democratic Congress (Ghana)}} || 17,182
+|-
+| align=left|Abrokwa Aboagye Sintim || {{party name with color|Independent}} || 722
+|-
+| align=left|Learned Obiri Ebenezer Yirenkyi || {{party name with color|Independent}} || 140
+|-
+| align=left colspan=3|''Rejected'' || 538
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Fanteakwa North || align=left|Kwame Appiah Kodua || {{full party name with color|New Patriotic Party}} || 11,751
+|-
+| align=left|Apaw-Wiredu Haroun || {{full party name with color|National Democratic Congress (Ghana)}} || 11,297
+|-
+| align=left colspan=3|''Rejected'' || 234
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Fanteakwa South || align=left|Duke William Allen Kwame Amoako-Atta Ofori-Atta || {{full party name with color|New Patriotic Party}} || 12,017
+|-
+| align=left|Kingsley Owusu Newman || {{full party name with color|National Democratic Congress (Ghana)}} || 6,805
+|-
+| align=left colspan=3|''Rejected'' || 146
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Kade || align=left|Agyare Alexander || {{full party name with color|New Patriotic Party}} || 20,225
+|-
+| align=left|Emmanuel Kofi Nti || {{full party name with color|National Democratic Congress (Ghana)}} || 16,638
+|-
+| align=left|Ohemeng-Tinyase Kwabena || {{party name with color|Independent}} || 4,714
+|-
+| align=left colspan=3|''Rejected'' || 512
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Kwahu Afram Plains North || align=left|Worlase Kpeli || {{party name with color|Independent}} || 11,452
+|-
+| align=left|Betty Nana Efua Krosbi Mensah || {{full party name with color|National Democratic Congress (Ghana)}} || 10,993
+|-
+| align=left|Asaimah K, Anim || {{full party name with color|New Patriotic Party}} || 1,992
+|-
+| align=left|Agbakpe Hillary || {{full party name with color|National Democratic Party (Ghana)}} || 70
+|-
+| align=left colspan=3|''Rejected'' || 418
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Lower Manya Krobo || align=left|Ebenezer Okletey Terlabi || {{full party name with color|National Democratic Congress (Ghana)}} || 29,048
+|-
+| align=left|Simon Kweku Tetteh || {{full party name with color|New Patriotic Party}} || 15,653
+|-
+| align=left colspan=3|''Rejected'' || 473
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Lower West Akim || align=left|Owen Kwame Frimpong || {{full party name with color|National Democratic Congress (Ghana)}} || 23,138
+|-
+| align=left|Charles Acheampong || {{full party name with color|New Patriotic Party}} || 21,573
+|-
+| align=left|Gifty Klenam || {{party name with color|Independent}} || 152
+|-
+| align=left colspan=3|''Rejected'' || 440
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Mpraeso || align=left|Davis Ansah Opoku || {{full party name with color|New Patriotic Party}} || 17,930
+|-
+| align=left|Muhayadeen Adam Kaleem || {{full party name with color|National Democratic Congress (Ghana)}} || 9,885
+|-
+| align=left|Osei Michael || {{full party name with color|Convention People's Party}} || 364
+|-
+| align=left|Ofosu-Asante Augustina || {{full party name with color|Ghana Union Movement}} || 213
+|-
+| align=left colspan=3|''Rejected'' || 342
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|New Juaben North || align=left|Nana Osei-Adjei || {{full party name with color|New Patriotic Party}} || 17,390
+|-
+| align=left|Samuel Adongo || {{full party name with color|National Democratic Congress (Ghana)}} || 10,600
+|-
+| align=left|Emmanuel Ofosu Yeboah || {{party name with color|Independent}} || 235
+|-
+| align=left colspan=3|''Rejected'' || 198
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|New Juaben South || align=left|Michael Okyere Baafi || {{full party name with color|New Patriotic Party}} || 32,134
+|-
+| align=left|Offei Martin Otu || {{full party name with color|National Democratic Congress (Ghana)}} || 23,735
+|-
+| align=left|Appiah Evans || {{party name with color|Independent}} || 1,306
+|-
+| align=left colspan=3|''Rejected'' || 342
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Nkawkaw || align=left|Joseph Frempong || {{full party name with color|New Patriotic Party}} || 27,714
+|-
+| align=left|Frederick Somuah Obeng || {{full party name with color|National Democratic Congress (Ghana)}} || 20,697
+|-
+| align=left|Lawoey Benjimain Kwame Ansah || {{party name with color|Independent}} || 290
+|-
+| align=left colspan=3|''Rejected'' || 390
+|-
+! colspan=6|
+|-
+| align=left rowspan=6|Nsawam-Adoagyiri || align=left|Annoh-Dompreh Frank || {{full party name with color|New Patriotic Party}} || 29,640
+|-
+| align=left|Fummey Philibert Amenorpe || {{full party name with color|National Democratic Congress (Ghana)}} || 29,433
+|-
+| align=left|Parick Tetteh || {{full party name with color|Ghana Freedom Party}} || 92
+|-
+| align=left|Mustapha Rasheed || {{party name with color|Independent}} || 80
+|-
+| align=left|Golo Kojo || {{party name with color|Independent}} || 61
+|-
+| align=left colspan=3|''Rejected'' || 473
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ofoase/Ayirebi || align=left|Kojo Oppong Nkrumah || {{full party name with color|New Patriotic Party}} || 18,601
+|-
+| align=left|Alfred Osei-Poku || {{full party name with color|National Democratic Congress (Ghana)}} || 13,415
+|-
+| align=left colspan=3|''Rejected'' || 459
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Okere || align=left|Daniel Nana Addo-Kenneth || {{full party name with color|New Patriotic Party}} || 12,794
+|-
+| align=left|Prince Henry Anim – Owiredu || {{full party name with color|National Democratic Congress (Ghana)}} || 8,803
+|-
+| align=left|Joseph Kwadwo Afari – Yeboah || {{full party name with color|Convention People's Party}} || 324
+|-
+| align=left colspan=3|''Rejected'' || 208
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Suhum || align=left|Frank Aseidu Bekoe || {{full party name with color|New Patriotic Party}} || 16,855
+|-
+| align=left|Prince Addo || {{full party name with color|National Democratic Congress (Ghana)}} || 15,259
+|-
+| align=left|Kwadjo Asante || {{party name with color|Independent}} || 14,860
+|-
+| align=left|Emmanuel Dede Wiafe || {{party name with color|Independent}} || 159
+|-
+| align=left colspan=3|''Rejected'' || 671
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Upper Manya Krobo || align=left|Bismark Tetteh Nyarko || {{full party name with color|National Democratic Congress (Ghana)}} || 14,889
+|-
+| align=left|Joseph Tetteh || {{full party name with color|New Patriotic Party}} || 12,443
+|-
+| align=left colspan=3|''Rejected'' || 290
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Upper West Akim || align=left|Drah Emmanuel || {{full party name with color|National Democratic Congress (Ghana)}} || 22,759
+|-
+| align=left|Frederick Obeng Adom || {{full party name with color|New Patriotic Party}} || 15,711
+|-
+| align=left colspan=3|''Rejected'' || 370
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Yilo Krobo || align=left|Albert Tetteh Nyakotey || {{full party name with color|National Democratic Congress (Ghana)}} || 25,625
+|-
+| align=left|Richard Twum Barimah Koranteng || {{full party name with color|New Patriotic Party}} || 19,122
+|-
+| align=left|Aseni Ebenzer Tetteh || {{full party name with color|Convention People's Party}} || 412
+|-
+| align=left colspan=3|''Rejected'' || 486
+|-
+! colspan=6|
+|-
+| align=left rowspan=175|Greater Accra<ref name=EC7>{{cite web |title=Constituency Results - Greater Accra Region |url=https://ec.gov.gh/greater-accra-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=3|Ablekuma Central || align=left|Abdul-Latif Dan || {{full party name with color|National Democratic Congress (Ghana)}} || 45,066
+|-
+| align=left|Jefferson Kwamina Sackey || {{full party name with color|New Patriotic Party}} || 32,735
+|-
+| align=left colspan=3|''Rejected'' || 423
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ablekuma North || align=left|[[Ewurabena Aubynn]]|| {{full party name with color|National Democratic Congress (Ghana)}} || 34,090
+|-
+| align=left|Nana Akua Owusu Afriyieh || {{full party name with color|New Patriotic Party}} || 33,881
+|-
+| align=left colspan=3|''Rejected'' || 411
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Ablekuma South || align=left|Alfred Okoe Vanderpuije || {{full party name with color|National Democratic Congress (Ghana)}} || 35,512
+|-
+| align=left|Samuel Sarbah Lartey || {{full party name with color|New Patriotic Party}} || 12,744
+|-
+| align=left|Joseph Commey || {{full party name with color|Liberal Party of Ghana}} || 585
+|-
+| align=left|James Lankwei Lamptey || {{party name with color|Independent}} || 413
+|-
+| align=left colspan=3|''Rejected'' || 337
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ablekuma West || align=left|Kweku Addo || {{full party name with color|National Democratic Congress (Ghana)}} || 31,847
+|-
+| align=left|Ursula Gifty Owusu – Ekuful || {{full party name with color|New Patriotic Party}} || 26,728
+|-
+| align=left colspan=3|''Rejected'' || 355
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ada || align=left|Comfort Doyoe Cudjoe || {{full party name with color|National Democratic Congress (Ghana)}} || 22,019
+|-
+| align=left|Suzette Naa Norley Dornukie Norteye || {{full party name with color|New Patriotic Party}} || 8,119
+|-
+| align=left colspan=3|''Rejected'' || 287
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Adentan || align=left|Mohammed Adamu Ramadan || {{full party name with color|National Democratic Congress (Ghana)}} || 56,303
+|-
+| align=left|Akosua Asaa Manu || {{full party name with color|New Patriotic Party}} || 35,143
+|-
+| align=left|Razak Al-Hassan || {{full party name with color|Convention People's Party}} || 235
+|-
+| align=left|Hagar Asiedu || {{party name with color|Independent}} || 232
+|-
+| align=left colspan=3|''Rejected'' || 378
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Amasaman || align=left|Sedem Kwaku Afenyo || {{full party name with color|National Democratic Congress (Ghana)}} || 53,759
+|-
+| align=left|Yahya Kassim Atta || {{full party name with color|New Patriotic Party}} || 39,525
+|-
+| align=left|Samuel Kwame Denoo || {{party name with color|Independent}} || 1,000
+|-
+| align=left|Jerry-Johnson Nii Armah Ashitey || {{party name with color|Independent}} || 246
+|-
+| align=left colspan=3|''Rejected'' || 555
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Anyaa-Sowutuom || align=left|Emmanuel Tobbin || {{full party name with color|New Patriotic Party}} || 42,790
+|-
+| align=left|Allotey Emmanuel Adotey || {{full party name with color|National Democratic Congress (Ghana)}} || 37,984
+|-
+| align=left colspan=3|''Rejected'' || 491
+|-
+! colspan=6|
+|-
+| align=left rowspan=6|Ashaiman || align=left|Ernest Henry Norgbey || {{full party name with color|National Democratic Congress (Ghana)}} || 65,083
+|-
+| align=left|Justice King Essiel || {{full party name with color|New Patriotic Party}} || 25,927
+|-
+| align=left|Kudah Gadafi Adam || {{party name with color|Independent}} || 2,261
+|-
+| align=left|Mantey Emmanuel Felix || {{full party name with color|Progressive People's Party (Ghana)}} || 451
+|-
+| align=left|Heymann Emmanuel Kofi-Yesu || {{full party name with color|Liberal Party of Ghana}} || 295
+|-
+| align=left colspan=3|''Rejected'' || 690
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Ayawaso Central || align=left|Abdul Rauf Tongym Tubazu || {{full party name with color|National Democratic Congress (Ghana)}} || 29,755
+|-
+| align=left|Henry Quartey || {{full party name with color|New Patriotic Party}} || 23,345
+|-
+| align=left|Charles Kwame Adams || {{full party name with color|National Democratic Party (Ghana)}} || 163
+|-
+| align=left colspan=3|''Rejected'' || 287
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ayawaso East || align=left|Mahama Naser Toure || {{full party name with color|National Democratic Congress (Ghana)}} || 22,139
+|-
+| align=left|Zak Rahman || {{full party name with color|New Patriotic Party}} || 9,110
+|-
+| align=left colspan=3|''Rejected'' || 378
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ayawaso North || align=left|Yussif Issaka Jajah || {{full party name with color|National Democratic Congress (Ghana)}} || 25,473
+|-
+| align=left|Sannie Ibrahim || {{full party name with color|New Patriotic Party}} || 11,278
+|-
+| align=left colspan=3|''Rejected'' || 235
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Ayawaso West Wuogon || align=left|John Setor Dumelo || {{full party name with color|National Democratic Congress (Ghana)}} || 40,561
+|-
+| align=left|Lydia Seyram Alhassan || {{full party name with color|New Patriotic Party}} || 27,377
+|-
+| align=left|Abdul Rauf Abugri Mumuni || {{party name with color|Independent}} || 189
+|-
+| align=left colspan=3|''Rejected'' || 257
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Bortianor-Ngleshie-Amanfro || align=left|Okle Felix Akwetey || {{full party name with color|National Democratic Congress (Ghana)}} || 37,473
+|-
+| align=left|Sylvester M, Tetteh || {{full party name with color|New Patriotic Party}} || 27,888
+|-
+| align=left|Frank Mensah || {{party name with color|Independent}} || 347
+|-
+| align=left colspan=3|''Rejected'' || 510
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Dadekotopon || align=left|Rita Naa Odoley Sowah || {{full party name with color|National Democratic Congress (Ghana)}} || 46,728
+|-
+| align=left|Joseph Kwashie Addo || {{full party name with color|New Patriotic Party}} || 23,217
+|-
+| align=left|Vincent Sowah Odotei || {{party name with color|Independent}} || 2,621
+|-
+| align=left|Abbey David Anertey || {{party name with color|Independent}} || 290
+|-
+| align=left colspan=3|''Rejected'' || 413
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Dome/Kwabenya || align=left|Akurugu Faustina Elikplim || {{full party name with color|National Democratic Congress (Ghana)}} || 50,967
+|-
+| align=left|Michael Aaron Yaw Nii Nortey Oquaye || {{full party name with color|New Patriotic Party}} || 50,669
+|-
+| align=left|Remy Paa Kow Edmundson || {{full party name with color|Progressive People's Party (Ghana)}} || 302
+|-
+| align=left|Dora Nyarko || {{full party name with color|People's National Convention (Ghana)}} || 220
+|-
+| align=left colspan=3|''Rejected'' || 624
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Domeabra-Obom || align=left|Isaac Awuku Yibor || {{full party name with color|National Democratic Congress (Ghana)}} || 22,790
+|-
+| align=left|Mohammed Abdul-Wahab || {{full party name with color|New Patriotic Party}} || 10,445
+|-
+| align=left colspan=3|''Rejected'' || 369
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Korle Klottey || align=left|Zanetor Agyeman-Rawlings || {{full party name with color|National Democratic Congress (Ghana)}} || 39,997
+|-
+| align=left|Valentino Nii Noi Nortey || {{full party name with color|New Patriotic Party}} || 23,716
+|-
+| align=left colspan=3|''Rejected'' || 330
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Kpone-Katamanso || align=left|Joseph Akuerteh Tettey || {{full party name with color|National Democratic Congress (Ghana)}} || 49,655
+|-
+| align=left|William Ofosu Asante || {{full party name with color|New Patriotic Party}} || 25,308
+|-
+| align=left|Agbane Samson || {{full party name with color|Progressive People's Party (Ghana)}} || 658
+|-
+| align=left|Edward Amonkwaah Anang || {{party name with color|Independent}} || 174
+|-
+| align=left colspan=3|''Rejected'' || 414
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Krowor || align=left|Agnes Naa Momo Lartey || {{full party name with color|National Democratic Congress (Ghana)}} || 39,198
+|-
+| align=left|Emmanuel Laryea Odai || {{full party name with color|New Patriotic Party}} || 23,116
+|-
+| align=left|Duke Afotey Mensah || {{party name with color|Independent}} || 125
+|-
+| align=left|Azumah Courage Kwame Mensah || {{full party name with color|National Democratic Party (Ghana)}} || 97
+|-
+| align=left colspan=3|''Rejected'' || 320
+|-
+! colspan=6|
+|-
+| align=left rowspan=6|Ledzokuku || align=left|Ayiku Benjamin Narteh || {{full party name with color|National Democratic Congress (Ghana)}} || 53,375
+|-
+| align=left|Bernard Okoe Boye || {{full party name with color|New Patriotic Party}} || 42,670
+|-
+| align=left|Tagoe Seth Nii Amartey || {{full party name with color|Convention People's Party}} || 329
+|-
+| align=left|Tekpor Elliot Prosper Kwame || {{party name with color|Independent}} || 106
+|-
+| align=left|Lucky Mensah || {{full party name with color|National Democratic Party (Ghana)}} || 97
+|-
+| align=left colspan=3|''Rejected'' || 520
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Madina || align=left|Francis- Xavier Kojo Sosu || {{full party name with color|National Democratic Congress (Ghana)}} || 56,008
+|-
+| align=left|Lamptey Robert || {{full party name with color|New Patriotic Party}} || 29,777
+|-
+| align=left|Awal Mohammed || {{party name with color|Independent}} || 727
+|-
+| align=left colspan=3|''Rejected'' || 368
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Ningo-Prampram || align=left|Samuel Nartey George || {{full party name with color|National Democratic Congress (Ghana)}} || 44,934
+|-
+| align=left|Michael Tetteh-Eku || {{full party name with color|New Patriotic Party}} || 12,182
+|-
+| align=left|Evans Tetteh Nii Nartey || {{party name with color|Independent}} || 1,404
+|-
+| align=left|Frederick Forzie || {{party name with color|Independent}} || 275
+|-
+| align=left colspan=3|''Rejected'' || 513
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Odododiodio || align=left|Alfred Nii Kotey Ashie || {{full party name with color|National Democratic Congress (Ghana)}} || 38,473
+|-
+| align=left|Sowah Abdul Mannaf || {{full party name with color|New Patriotic Party}} || 24,877
+|-
+| align=left|Alfred Anettey Abbey || {{full party name with color|Progressive People's Party (Ghana)}} || 193
+|-
+| align=left|Richard Dzatei Abbey || {{full party name with color|Convention People's Party}} || 175
+|-
+| align=left colspan=3|''Rejected'' || 468
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Okaikwei Central || align=left|Patrick Yaw Boamah || {{full party name with color|New Patriotic Party}} || 21,099
+|-
+| align=left|Abdulai Abu Baba Abubakar Sadiq || {{full party name with color|National Democratic Congress (Ghana)}} || 19,368
+|-
+| align=left colspan=3|''Rejected'' || 198
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Okaikwei North || align=left|Theresa Lardi Awuni || {{full party name with color|National Democratic Congress (Ghana)}} || 28,363
+|-
+| align=left|Nana Ama Dokua Asiamah-Adjei || {{full party name with color|New Patriotic Party}} || 20,627
+|-
+| align=left|Abdul Hamidu Ibrahim Futa || {{full party name with color|Convention People's Party}} || 470
+|-
+| align=left colspan=3|''Rejected'' || 258
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Okaikwei South || align=left|Ernest Adomako || {{full party name with color|National Democratic Congress (Ghana)}} || 32,691
+|-
+| align=left|Dakoa Newman || {{full party name with color|New Patriotic Party}} || 24,263
+|-
+| align=left colspan=3|''Rejected'' || 301
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Sege || align=left|Daniel Keshi Bessey || {{full party name with color|National Democratic Congress (Ghana)}} || 18,718
+|-
+| align=left|Dodzie Numekevor || {{full party name with color|New Patriotic Party}} || 7,313
+|-
+| align=left|Lasi Eunice || {{party name with color|Independent}} || 5,827
+|-
+| align=left colspan=3|''Rejected'' || 475
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Shai-Osudoku || align=left|Linda Obenewaa Akweley Ocloo || {{full party name with color|National Democratic Congress (Ghana)}} || 28,944
+|-
+| align=left|Benjamin Nargeh || {{full party name with color|New Patriotic Party}} || 11,950
+|-
+| align=left|Gifty Hawa Hammond || {{party name with color|Independent}} || 1,285
+|-
+| align=left|Minimadey Isaac Gabriel Angmortey || {{full party name with color|Progressive People's Party (Ghana)}} || 189
+|-
+| align=left colspan=3|''Rejected'' || 430
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Tema Central || align=left|Charles Forson || {{full party name with color|New Patriotic Party}} || 18,870
+|-
+| align=left|Ebi Bright || {{full party name with color|National Democratic Congress (Ghana)}} || 18,812
+|-
+| align=left|Frederick Aniagyei || {{party name with color|Independent}} || 209
+|-
+| align=left colspan=3|''Rejected'' || 144
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Tema East || align=left|Odamtten Isaac Ashai || {{full party name with color|National Democratic Congress (Ghana)}} || 37,231
+|-
+| align=left|Yohane Amarh Ashitey || {{full party name with color|New Patriotic Party}} || 23,081
+|-
+| align=left colspan=3|''Rejected'' || 384
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Tema West || align=left|James Enu || {{full party name with color|National Democratic Congress (Ghana)}} || 49,225
+|-
+| align=left|Denis Amfo Sefah || {{full party name with color|New Patriotic Party}} || 27,618
+|-
+| align=left colspan=3|''Rejected'' || 448
+|-
+! colspan=6|
+|-
+| align=left rowspan=7|Trobu || align=left|Gloria Owusu || {{full party name with color|New Patriotic Party}} || 43,789
+|-
+| align=left|John Kofi Halm || {{full party name with color|National Democratic Congress (Ghana)}} || 35,147
+|-
+| align=left|Sarfo Hammond Adu || {{full party name with color|Convention People's Party}} || 310
+|-
+| align=left|Oliver Gyepi-Garbrah || {{full party name with color|Liberal Party of Ghana}} || 254
+|-
+| align=left|Nana Agyenim Boateng || {{party name with color|Independent}} || 206
+|-
+| align=left|Francis Ansah Tawiah || {{full party name with color|All People's Congress (Ghana)}} || 200
+|-
+| align=left colspan=3|''Rejected'' || 408
+|-
+! colspan=6|
+|-
+| align=left rowspan=6|Weija-Gbawe || align=left|Jerry Ahmed Shaib || {{full party name with color|New Patriotic Party}} || 32,608
+|-
+| align=left|Felix Odartey Lamptey || {{full party name with color|National Democratic Congress (Ghana)}} || 30,460
+|-
+| align=left|Ofori Eric Kwaku || {{full party name with color|Liberal Party of Ghana}} || 142
+|-
+| align=left|Saviour Gbedze || {{full party name with color|Convention People's Party}} || 95
+|-
+| align=left|Obeng Fynn George || {{full party name with color|All People's Congress (Ghana)}} || 75
+|-
+| align=left colspan=3|''Rejected'' || 319
+|-
+! colspan=6|
+|-
+| align=left rowspan=25|North East<ref name=EC8>{{cite web |title=Constituency Results - North East Region |url=https://ec.gov.gh/north-east-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=3|Bunkpurugu || align=left|Bandim Abed-Nego Azumah || {{full party name with color|National Democratic Congress (Ghana)}} || 18,639
+|-
+| align=left|Solomon Namliit Boar || {{full party name with color|New Patriotic Party}} || 17,554
+|-
+| align=left colspan=3|''Rejected'' || 582
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Chereponi || align=left|Seidu Alhassan Alajor || {{full party name with color|National Democratic Congress (Ghana)}} || 16,972
+|-
+| align=left|Tahidu Abdul-Razak || {{full party name with color|New Patriotic Party}} || 16,801
+|-
+| align=left|Eugene Tamado Koffikan Bashiru || {{full party name with color|People's National Convention (Ghana)}} || 114
+|-
+| align=left colspan=3|''Rejected'' || 447
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Nalerigu/Gambaga || align=left|Mumuni Muhammed || {{full party name with color|New Patriotic Party}} || 34,173
+|-
+| align=left|Issifu Seidu || {{full party name with color|National Democratic Congress (Ghana)}} || 29,980
+|-
+| align=left|Seidu Tia Karim || {{full party name with color|People's National Convention (Ghana)}} || 318
+|-
+| align=left colspan=3|''Rejected'' || 1,065
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Walewale || align=left|Mahama Tiah Abdul-Kabiru || {{full party name with color|New Patriotic Party}} || 36,700
+|-
+| align=left|Abubakari Abdallah || {{full party name with color|National Democratic Congress (Ghana)}} || 31,401
+|-
+| align=left colspan=3|''Rejected'' || 892
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Yagaba/Kubori || align=left|Mustapha Ussif || {{full party name with color|New Patriotic Party}} || 18,917
+|-
+| align=left|Musah Sibiri Amidu || {{full party name with color|National Democratic Congress (Ghana)}} || 11,385
+|-
+| align=left colspan=3|''Rejected'' || 497
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Yunyoo || align=left|Alhassan Sulemana || {{full party name with color|National Democratic Congress (Ghana)}} || 12,014
+|-
+| align=left|Liwaal Oscar || {{full party name with color|New Patriotic Party}} || 9,416
+|-
+| align=left colspan=3|''Rejected'' || 380
+|-
+! colspan=6|
+|-
+| align=left rowspan=84|Northern || align=left rowspan=5|Bimbilla || align=left|Nitiwul Bingab Aduna Dominic || {{full party name with color|New Patriotic Party}} || 34,553
+|-
+| align=left|Joseph Kwabena Manboah-Rockson || {{full party name with color|National Democratic Congress (Ghana)}} || 29,240
+|-
+| align=left|Attah Suale || {{full party name with color|Progressive People's Party (Ghana)}} || 2,387
+|-
+| align=left|Kamil Bamanpong || {{party name with color|Independent}} || 750
+|-
+| align=left colspan=3|''Rejected'' || 1,885
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Gushegu || align=left|Alhassan Tampuli Sulemana || {{full party name with color|New Patriotic Party}} || 30,490
+|-
+| align=left|Mohammed Yussif Malimali || {{full party name with color|National Democratic Congress (Ghana)}} || 29,225
+|-
+| align=left colspan=3|''Rejected'' || 1,055
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Karaga || align=left|Mohammed Amin Adam || {{full party name with color|New Patriotic Party}} || 27,315
+|-
+| align=left|Alhassan Sualihu Dandaawa || {{full party name with color|National Democratic Congress (Ghana)}} || 21,993
+|-
+| align=left colspan=3|''Rejected'' || 1,131
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Kpandai || align=left|Matthew Nyindam || {{full party name with color|New Patriotic Party}} || 27,947
+|-
+| align=left|Daniel Nsala Wakpal || {{full party name with color|National Democratic Congress (Ghana)}} || 24,213
+|-
+| align=left|Donkor Eric Nipani || {{full party name with color|All People's Congress (Ghana)}} || 104
+|-
+| align=left colspan=3|''Rejected'' || 714
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Kumbungu || align=left|Hamza Adam || {{full party name with color|National Democratic Congress (Ghana)}} || 27,242
+|-
+| align=left|Abdul-Salam Hamza Fataw || {{full party name with color|New Patriotic Party}} || 19,198
+|-
+| align=left colspan=3|''Rejected'' || 481
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Mion || align=left|Misbahu Mahama Adams || {{full party name with color|National Democratic Congress (Ghana)}} || 20,273
+|-
+| align=left|Musah Abdul-Aziz Ayaba || {{full party name with color|New Patriotic Party}} || 18,066
+|-
+| align=left colspan=3|''Rejected'' || 738
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Nanton || align=left|Mohammed Sherif Abdul-Khaliq || {{full party name with color|National Democratic Congress (Ghana)}} || 17,077
+|-
+| align=left|Mohammed Hardi Tufeiru || {{full party name with color|New Patriotic Party}} || 14,506
+|-
+| align=left colspan=3|''Rejected'' || 250
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Saboba || align=left|Bukari Nikpe Joseph || {{full party name with color|National Democratic Congress (Ghana)}} || 14,178
+|-
+| align=left|Emmanuel Mawanye Kotin || {{party name with color|Independent}} || 9,290
+|-
+| align=left|Bintin Charles Binipom || {{full party name with color|New Patriotic Party}} || 9,170
+|-
+| align=left|Yajabun Janwol Samson || {{party name with color|Independent}} || 71
+|-
+| align=left colspan=3|''Rejected'' || 895
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Sagnarigu || align=left|Atta Issah || {{full party name with color|National Democratic Congress (Ghana)}} || 44,530
+|-
+| align=left|Felicia Tettey || {{full party name with color|New Patriotic Party}} || 15,338
+|-
+| align=left colspan=3|''Rejected'' || 474
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Savelugu || align=left|Abdul Aziz Fatahiya || {{full party name with color|New Patriotic Party}} || 27,450
+|-
+| align=left|Abdulai Jacob Iddriss || {{full party name with color|National Democratic Congress (Ghana)}} || 24,877
+|-
+| align=left|Haruna Zakaria || {{full party name with color|People's National Convention (Ghana)}} || 136
+|-
+| align=left colspan=3|''Rejected'' || 559
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Tamale Central || align=left|Ibrahim Murtala Muhammed || {{full party name with color|National Democratic Congress (Ghana)}} || 52,263
+|-
+| align=left|Sulemana Salifu || {{full party name with color|New Patriotic Party}} || 16,647
+|-
+| align=left colspan=3|''Rejected'' || 806
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Tamale North || align=left|Alhassan Sayibu Suhuyini || {{full party name with color|National Democratic Congress (Ghana)}} || 28,521
+|-
+| align=left|Abdul-Rahaman Alidu || {{full party name with color|New Patriotic Party}} || 12,317
+|-
+| align=left|Hudu Fauziya || {{party name with color|Independent}} || 315
+|-
+| align=left colspan=3|''Rejected'' || 239
+|-
+! colspan=6|
+|-
+| align=left rowspan=6|Tamale South || align=left|Iddrisu Haruna || {{full party name with color|National Democratic Congress (Ghana)}} || 67,018
+|-
+| align=left|Fuseini Musah || {{full party name with color|New Patriotic Party}} || 20,974
+|-
+| align=left|Haashimiyu Yahaya || {{party name with color|Independent}} || 456
+|-
+| align=left|Kassim Abdul Jalilu || {{full party name with color|Convention People's Party}} || 431
+|-
+| align=left|Sualisu Imoro Nabila || {{full party name with color|People's National Convention (Ghana)}} || 402
+|-
+| align=left colspan=3|''Rejected'' || 852
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Tatale-Sanguli || align=left|Ntebe Ayo William || {{full party name with color|National Democratic Congress (Ghana)}} || 16,459
+|-
+| align=left|Mbomba Thomas || {{full party name with color|New Patriotic Party}} || 15,590
+|-
+| align=left colspan=3|''Rejected'' || 616
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Tolon || align=left|Iddrisu Habib || {{full party name with color|New Patriotic Party}} || 30,893
+|-
+| align=left|Osman Tahidu Damba || {{full party name with color|National Democratic Congress (Ghana)}} || 24,772
+|-
+| align=left colspan=3|''Rejected'' || 582
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Wulensi || align=left|Nandaya Yaw Stanley || {{party name with color|Independent}} || 17,432
+|-
+| align=left|Haruna Abdulai || {{full party name with color|New Patriotic Party}} || 14,137
+|-
+| align=left|Dawuni Abukari || {{full party name with color|National Democratic Congress (Ghana)}} || 11,498
+|-
+| align=left colspan=3|''Rejected'' || 846
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Yendi || align=left|Abdul-Fatawu Alhassan || {{full party name with color|National Democratic Congress (Ghana)}} || 30,770
+|-
+| align=left|Umar Farouk Aliu Mahama || {{full party name with color|New Patriotic Party}} || 30,441
+|-
+| align=left|Hussein Abdul-Karim || {{party name with color|Independent}} || 4,325
+|-
+| align=left colspan=3|''Rejected'' || 932
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Zabzugu || align=left|Alhassan Umar || {{full party name with color|National Democratic Congress (Ghana)}} || 15,508
+|-
+| align=left|Fawaz Aliu || {{full party name with color|New Patriotic Party}} || 15,175
+|-
+| align=left|Obori Bunakpabine Solomon || {{party name with color|Independent}} || 5,135
+|-
+| align=left colspan=3|''Rejected'' || 849
+|-
+! colspan=6|
+|-
+| align=left rowspan=43|Oti<ref name=EC9>{{cite web |title=Constituency Results - Oti Region |url=https://ec.gov.gh/oti-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=4|Akan || align=left|Gomado Yao || {{full party name with color|National Democratic Congress (Ghana)}} || 18,228
+|-
+| align=left|Tassah Mustapha Tassah || {{full party name with color|New Patriotic Party}} || 11,772
+|-
+| align=left|Aforla Yawa Mary || {{full party name with color|Liberal Party of Ghana}} || 175
+|-
+| align=left colspan=3|''Rejected'' || 376
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Biakoye || align=left|Jean-Marie Formadi || {{full party name with color|National Democratic Congress (Ghana)}} || 17,760
+|-
+| align=left|Frank Yirenkyi || {{full party name with color|New Patriotic Party}} || 9,696
+|-
+| align=left|Paul Kwasi Demends || {{full party name with color|Liberal Party of Ghana}} || 97
+|-
+| align=left colspan=3|''Rejected'' || 295
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Buem || align=left|Adams Iddie Kofi || {{full party name with color|National Democratic Congress (Ghana)}} || 17,510
+|-
+| align=left|Richard Kwadwo Adjei || {{full party name with color|New Patriotic Party}} || 4,852
+|-
+| align=left colspan=3|''Rejected'' || 209
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Guan || align=left|Agbenyo Fred Kwesi || {{full party name with color|National Democratic Congress (Ghana)}} || 9,963
+|-
+| align=left|Michael Osibo || {{full party name with color|New Patriotic Party}} || 2,998
+|-
+| align=left|Sekor Sussie || {{full party name with color|National Democratic Party (Ghana)}} || 82
+|-
+| align=left colspan=3|''Rejected'' || 121
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Krachi East || align=left|Nelson Kofi Djabab || {{full party name with color|National Democratic Congress (Ghana)}} || 23,530
+|-
+| align=left|Michael Yaw Gyato || {{full party name with color|New Patriotic Party}} || 15,345
+|-
+| align=left colspan=3|''Rejected'' || 425
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Krachi Nchumuru || align=left|Solomon Kuyon || {{full party name with color|National Democratic Congress (Ghana)}} || 16,028
+|-
+| align=left|James Mamudu || {{full party name with color|New Patriotic Party}} || 11,959
+|-
+| align=left|Ntana Richmond Uwumborbin || {{full party name with color|Liberal Party of Ghana}} || 236
+|-
+| align=left colspan=3|''Rejected'' || 520
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Krachi West || align=left|Helen Adjoa Ntoso || {{full party name with color|National Democratic Congress (Ghana)}} || 13,169
+|-
+| align=left|Justice Mensah Amankwa || {{full party name with color|New Patriotic Party}} || 10,934
+|-
+| align=left|Charles Bisi Gyamgbuja || {{full party name with color|Liberal Party of Ghana}} || 146
+|-
+| align=left colspan=3|''Rejected'' || 254
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Nkwanta North || align=left|John Kwabena Bless Oti || {{full party name with color|National Democratic Congress (Ghana)}} || 25,197
+|-
+| align=left|Benjamin Munyum Nador || {{full party name with color|New Patriotic Party}} || 22,679
+|-
+| align=left|Gabriel Kwabena Donkor || {{full party name with color|Liberal Party of Ghana}} || 114
+|-
+| align=left|Oduro Aikens Kofi Yeboah || {{party name with color|Independent}} || 65
+|-
+| align=left colspan=3|''Rejected'' || 765
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Nkwanta South || align=left|Geoffrey Kini || {{full party name with color|National Democratic Congress (Ghana)}} || 26,543
+|-
+| align=left|Sherifa Selina Sekyere-Tijani || {{full party name with color|New Patriotic Party}} || 18,385
+|-
+| align=left|Nakpatun Obayety Noah || {{full party name with color|Liberal Party of Ghana}} || 204
+|-
+| align=left colspan=3|''Rejected'' || 643
+|-
+! colspan=6|
+|-
+| align=left rowspan=31|Savannah<ref name=EC10>{{cite web |title=Constituency Results - Savannah Region |url=https://ec.gov.gh/savannah-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=3|Bole-Bamboi || align=left|Yusif Sulemana || {{full party name with color|National Democratic Congress (Ghana)}} || 26,599
+|-
+| align=left|Raphael Kumah Abolasom || {{full party name with color|New Patriotic Party}} || 7,426
+|-
+| align=left colspan=3|''Rejected'' || 521
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Daboya/Mankarigu || align=left|Shaibu Mahama || {{full party name with color|National Democratic Congress (Ghana)}} || 12,739
+|-
+| align=left|Samuel Yeyu Tika || {{full party name with color|New Patriotic Party}} || 12,596
+|-
+| align=left colspan=3|''Rejected'' || 628
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Damongo || align=left|Jinapor Samuel Abdulai || {{full party name with color|New Patriotic Party}} || 16,222
+|-
+| align=left|Adam Mutawakilu || {{full party name with color|National Democratic Congress (Ghana)}} || 14,425
+|-
+| align=left|Saaka Baba Moses || {{party name with color|Independent}} || 66
+|-
+| align=left colspan=3|''Rejected'' || 356
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Salaga North || align=left|Alhassan Mumuni || {{full party name with color|National Democratic Congress (Ghana)}} || 10,825
+|-
+| align=left|Alhassan Abdallah Iddi || {{full party name with color|New Patriotic Party}} || 8,472
+|-
+| align=left colspan=3|''Rejected'' || 290
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Salaga South || align=left|Zuwera Mohammed Ibrahimah || {{full party name with color|National Democratic Congress (Ghana)}} || 21,454
+|-
+| align=left|Salifu Adam Braimah || {{full party name with color|New Patriotic Party}} || 20,164
+|-
+| align=left|Abraham Mbido Bagyim || {{party name with color|Independent}} || 987
+|-
+| align=left|Geoffrey Ayidzoe Razak || {{party name with color|Independent}} || 258
+|-
+| align=left colspan=3|''Rejected'' || 665
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Sawla-Tuna-Kalba || align=left|Chiwitey Andrew Dari || {{full party name with color|National Democratic Congress (Ghana)}} || 21,418
+|-
+| align=left|Sankara Kuubeneem Ankaara || {{full party name with color|New Patriotic Party}} || 7,340
+|-
+| align=left colspan=3|''Rejected'' || 739
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Yapei/Kusawgu || align=left|John Abdulai Jinapor || {{full party name with color|National Democratic Congress (Ghana)}} || 32,086
+|-
+| align=left|Amadu Zakria || {{full party name with color|New Patriotic Party}} || 14,012
+|-
+| align=left|Awudu Adam || {{full party name with color|Ghana Union Movement}} || 720
+|-
+| align=left colspan=3|''Rejected'' || 1,087
+|-
+! colspan=6|
+|-
+| align=left rowspan=68|Upper East<ref name=EC11>{{cite web |title=Constituency Results - Upper East Region |url=https://ec.gov.gh/upper-east-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=4|Bawku Central || align=left|Mahama Ayariga || {{full party name with color|National Democratic Congress (Ghana)}} || 25,350
+|-
+| align=left|Agobiri Paul Alale || {{full party name with color|New Patriotic Party}} || 3,855
+|-
+| align=left|Anaba Emmanuel || {{full party name with color|All People's Congress (Ghana)}} || 308
+|-
+| align=left colspan=3|''Rejected'' || 6,277
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Binduri || align=left|Mahmoud Issifu || {{full party name with color|National Democratic Congress (Ghana)}} || 21,943
+|-
+| align=left|Abanga Abdulai || {{full party name with color|New Patriotic Party}} || 7,811
+|-
+| align=left|Amadu Alale || {{full party name with color|All People's Congress (Ghana)}} || 160
+|-
+| align=left colspan=3|''Rejected'' || 341
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Bolgatanga Central || align=left|Adongo Isaac || {{full party name with color|National Democratic Congress (Ghana)}} || 35,101
+|-
+| align=left|Elvis Atia Awonekai || {{full party name with color|New Patriotic Party}} || 15,470
+|-
+| align=left|Akunlibe Peter A, || {{full party name with color|People's National Convention (Ghana)}} || 404
+|-
+| align=left colspan=3|''Rejected'' || 525
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Bolgatanga East || align=left|Dominic Akuritinga Ayine || {{full party name with color|National Democratic Congress (Ghana)}} || 12,002
+|-
+| align=left|Mathew Silas Amoah || {{full party name with color|New Patriotic Party}} || 7,415
+|-
+| align=left|Atiah Edwin || {{full party name with color|Progressive Alliance for Ghana}} || 61
+|-
+| align=left colspan=3|''Rejected'' || 182
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Bongo || align=left|Charles Bawaduah || {{full party name with color|National Democratic Congress (Ghana)}} || 30,114
+|-
+| align=left|Diana Aduko Aburiya || {{full party name with color|New Patriotic Party}} || 9,528
+|-
+| align=left colspan=3|''Rejected'' || 617
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Builsa North || align=left|Agalga James || {{full party name with color|National Democratic Congress (Ghana)}} || 13,344
+|-
+| align=left|Alonsi Thomas Kofi || {{full party name with color|New Patriotic Party}} || 10,157
+|-
+| align=left|Asuok Joseph Ransford || {{full party name with color|People's National Convention (Ghana)}} || 146
+|-
+| align=left colspan=3|''Rejected'' || 360
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Builsa South || align=left|Clement Abas Apaak || {{full party name with color|National Democratic Congress (Ghana)}} || 8,974
+|-
+| align=left|Daniel Kwame Gariba || {{full party name with color|New Patriotic Party}} || 5,061
+|-
+| align=left|Seidu Christopher Akanzeboka || {{full party name with color|People's National Convention (Ghana)}} || 1,639
+|-
+| align=left colspan=3|''Rejected'' || 284
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Chiana-Paga || align=left|Nikyema Billa Alamzy || {{full party name with color|National Democratic Congress (Ghana)}} || 22,548
+|-
+| align=left|Robert Apechira Aloo || {{full party name with color|New Patriotic Party}} || 12,884
+|-
+| align=left colspan=3|''Rejected'' || 558
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Garu || align=left|Anabah Thomas Winsum || {{full party name with color|National Democratic Congress (Ghana)}} || 17,832
+|-
+| align=left|Azumah Georgina Lardi || {{full party name with color|New Patriotic Party}} || 7,936
+|-
+| align=left colspan=3|''Rejected'' || 338
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Nabdam || align=left|Mark Kurt Nawaane || {{full party name with color|National Democratic Congress (Ghana)}} || 11,192
+|-
+| align=left|Ndanbon Charles Taleog || {{full party name with color|New Patriotic Party}} || 6,680
+|-
+| align=left colspan=3|''Rejected'' || 278
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Navrongo Central || align=left|Simon Akibange Aworigo || {{full party name with color|National Democratic Congress (Ghana)}} || 26,190
+|-
+| align=left|Abdallah Otito Werseh Achuliwor || {{full party name with color|New Patriotic Party}} || 12,203
+|-
+| align=left colspan=3|''Rejected'' || 495
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Pusiga || align=left|Laadi Ayii Ayamba || {{full party name with color|National Democratic Congress (Ghana)}} || 19,557
+|-
+| align=left|Abdul-Wahab Hanan || {{full party name with color|New Patriotic Party}} || 15,798
+|-
+| align=left|Anaba Simon Paul || {{full party name with color|All People's Congress (Ghana)}} || 338
+|-
+| align=left colspan=3|''Rejected'' || 954
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Talensi || align=left|Daniel Dung Mahama || {{full party name with color|National Democratic Congress (Ghana)}} || 22,575
+|-
+| align=left|Alibo Robert Ayinenaba || {{full party name with color|New Patriotic Party}} || 8,787
+|-
+| align=left|Michael Wombeogo || {{full party name with color|People's National Convention (Ghana)}} || 1,497
+|-
+| align=left colspan=3|''Rejected'' || 404
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Tempane || align=left|Lydia Lamisi Akanvariba || {{full party name with color|National Democratic Congress (Ghana)}} || 19,378
+|-
+| align=left|Joseph Dindiok Kpemka || {{full party name with color|New Patriotic Party}} || 13,351
+|-
+| align=left colspan=3|''Rejected'' || 623
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Zebilla || align=left|Ebenezer Alumire Ndebilla || {{full party name with color|National Democratic Congress (Ghana)}} || 33,657
+|-
+| align=left|John Kingsley Krugu || {{full party name with color|New Patriotic Party}} || 12,879
+|-
+| align=left|Patience Akparipoka Ndebugre || {{party name with color|Independent}} || 1,413
+|-
+| align=left colspan=3|''Rejected'' || 563
+|-
+! colspan=6|
+|-
+| align=left rowspan=50|Upper West<ref name=EC12>{{cite web |title=Constituency Results - Upper West Region |url=https://ec.gov.gh/upper-west-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=3|Daffiama/Bussie/Issa || align=left|Sebastian Ngmenenso Sandaare || {{full party name with color|National Democratic Congress (Ghana)}} || 10,448
+|-
+| align=left|Nadi Imoro Sanda || {{full party name with color|New Patriotic Party}} || 7,392
+|-
+| align=left colspan=3|''Rejected'' || 230
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Jirapa || align=left|Cletus Seidu Dapilah || {{full party name with color|National Democratic Congress (Ghana)}} || 23,563
+|-
+| align=left|Aisha Salifu || {{full party name with color|New Patriotic Party}} || 6,665
+|-
+| align=left colspan=3|''Rejected'' || 574
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Lambussie || align=left|Titus Kofi Beyuo || {{full party name with color|National Democratic Congress (Ghana)}} || 13,551
+|-
+| align=left|Bright Bakye Yelviel Baligi || {{full party name with color|New Patriotic Party}} || 6,079
+|-
+| align=left|Mohammed Imuran || {{full party name with color|Liberal Party of Ghana}} || 138
+|-
+| align=left colspan=3|''Rejected'' || 307
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Lawra || align=left|Bede Anwataazumo Ziedeng || {{full party name with color|National Democratic Congress (Ghana)}} || 12,116
+|-
+| align=left|Jacob Domekakpier Dery || {{full party name with color|New Patriotic Party}} || 7,351
+|-
+| align=left|Dabuo Baanaah Joseph || {{party name with color|Independent}} || 1,131
+|-
+| align=left colspan=3|''Rejected'' || 397
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Nadowli/Kaleo || align=left|Sumah Anthony Mwinkaara || {{full party name with color|National Democratic Congress (Ghana)}} || 24,478
+|-
+| align=left|Kambotuu Francis Xavier || {{full party name with color|New Patriotic Party}} || 5,834
+|-
+| align=left colspan=3|''Rejected'' || 313
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Nandom || align=left|Richard Kuuire || {{full party name with color|National Democratic Congress (Ghana)}} || 13,743
+|-
+| align=left|Ambrose Dery || {{full party name with color|New Patriotic Party}} || 10,706
+|-
+| align=left|Nyine-Kakone Delle Stella Saabedaar || {{full party name with color|Ghana Union Movement}} || 114
+|-
+| align=left colspan=3|''Rejected'' || 342
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Sissala East || align=left|Mohammed Issah Bataglia || {{full party name with color|National Democratic Congress (Ghana)}} || 21,621
+|-
+| align=left|Issahaku Amidu Chinnia || {{full party name with color|New Patriotic Party}} || 10,789
+|-
+| align=left colspan=3|''Rejected'' || 476
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Sissala West || align=left|Mohammed Adams Sukparu || {{full party name with color|National Democratic Congress (Ghana)}} || 17,436
+|-
+| align=left|Salifu Naliwie Baluwie || {{full party name with color|New Patriotic Party}} || 12,937
+|-
+| align=left|Yussif Shaibu || {{full party name with color|People's National Convention (Ghana)}} || 202
+|-
+| align=left colspan=3|''Rejected'' || 364
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Wa Central || align=left|Abdul-Rashid Hassan Pelpuo || {{full party name with color|National Democratic Congress (Ghana)}} || 38,579
+|-
+| align=left|Humu Awudu || {{full party name with color|New Patriotic Party}} || 30,724
+|-
+| align=left|Yakubu Zakaria || {{full party name with color|People's National Convention (Ghana)}} || 249
+|-
+| align=left|Rasheed Saeed || {{party name with color|Independent}} || 132
+|-
+| align=left colspan=3|''Rejected'' || 678
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Wa East || align=left|Godfred Seidu Jasaw || {{full party name with color|National Democratic Congress (Ghana)}} || 20,402
+|-
+| align=left|Ewurah Suleman Kandia Mahama || {{full party name with color|New Patriotic Party}} || 11,816
+|-
+| align=left colspan=3|''Rejected'' || 453
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Wa West || align=left|Peter Lanchene Toobu || {{full party name with color|National Democratic Congress (Ghana)}} || 25,498
+|-
+| align=left|Saatiri James Kpir-Faatey || {{full party name with color|New Patriotic Party}} || 10,162
+|-
+| align=left|Bayong Francis Mwina || {{full party name with color|People's National Convention (Ghana)}} || 728
+|-
+| align=left colspan=3|''Rejected'' || 624
+|-
+! colspan=6|
+|-
+| align=left rowspan=92|Volta<ref name=EC13>{{cite web |title=Constituency Results - Volta Region |url=https://ec.gov.gh/volta-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=4|Adaklu || align=left|Agbodza Kwame Governs || {{full party name with color|National Democratic Congress (Ghana)}} || 13,636
+|-
+| align=left|Bright Kwame Nyatsikor || {{full party name with color|New Patriotic Party}} || 1,583
+|-
+| align=left|Morti John Shadrack || {{full party name with color|National Democratic Party (Ghana)}} || 112
+|-
+| align=left colspan=3|''Rejected'' || 126
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Afadjato South || align=left|Frank Afriyie || {{full party name with color|National Democratic Congress (Ghana)}} || 20,618
+|-
+| align=left|Etornam James Flolu || {{full party name with color|New Patriotic Party}} || 3,459
+|-
+| align=left|Tegbey Tracy Semanu || {{full party name with color|Liberal Party of Ghana}} || 869
+|-
+| align=left colspan=3|''Rejected'' || 137
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Agotime-Ziope || align=left|Agbeve Charles Akwasi || {{full party name with color|National Democratic Congress (Ghana)}} || 16,500
+|-
+| align=left|Agbobli Kentle Seth || {{full party name with color|New Patriotic Party}} || 2,608
+|-
+| align=left|John Tepe || {{full party name with color|National Democratic Party (Ghana)}} || 237
+|-
+| align=left colspan=3|''Rejected'' || 277
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Akatsi North || align=left|Peter Kwasi Nortsu-Kotoe || {{full party name with color|National Democratic Congress (Ghana)}} || 10,837
+|-
+| align=left|Simon Peter Kofi Ofosu || {{full party name with color|New Patriotic Party}} || 3,250
+|-
+| align=left colspan=3|''Rejected'' || 187
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Akatsi South || align=left|Bernard Ahiafor || {{full party name with color|National Democratic Congress (Ghana)}} || 30,268
+|-
+| align=left|Egos Mawuli Ocloo || {{full party name with color|New Patriotic Party}} || 3,399
+|-
+| align=left|Dzameshie Donald Brown || {{full party name with color|Progressive Alliance for Ghana}} || 461
+|-
+| align=left colspan=3|''Rejected'' || 393
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Anlo || align=left|Richard Kwami Sefe || {{full party name with color|National Democratic Congress (Ghana)}} || 36,419
+|-
+| align=left|Seth Kwashie Yormewu || {{full party name with color|New Patriotic Party}} || 4,131
+|-
+| align=left colspan=3|''Rejected'' || 348
+|-
+! colspan=6|
+|-
+| align=left rowspan=6|Central Tongu || align=left|Alexander Roosevelt Hottordze || {{full party name with color|National Democratic Congress (Ghana)}} || 25,437
+|-
+| align=left|Dzramado Selorm Dramani || {{party name with color|Independent}} || 5,344
+|-
+| align=left|Godwin Ayikpa || {{full party name with color|New Patriotic Party}} || 3,825
+|-
+| align=left|Akafua-Hotor Courage || {{full party name with color|National Democratic Party (Ghana)}} || 266
+|-
+| align=left|Avudoahor Lawrencia Esenam || {{full party name with color|Liberal Party of Ghana}} || 64
+|-
+| align=left colspan=3|''Rejected'' || 369
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Ho Central || align=left|Richmond Edem Kofi Kpotosu || {{full party name with color|National Democratic Congress (Ghana)}} || 61,138
+|-
+| align=left|Divine Richard Komla Bosson || {{full party name with color|New Patriotic Party}} || 5,530
+|-
+| align=left|Mawulorm Kwame Klutse || {{party name with color|Independent}} || 1,980
+|-
+| align=left|Nelson Kofi Vide || {{full party name with color|National Democratic Party (Ghana)}} || 93
+|-
+| align=left colspan=3|''Rejected'' || 0
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Ho West || align=left|Emmanuel Kwasi Bedzrah || {{full party name with color|National Democratic Congress (Ghana)}} || 28,110
+|-
+| align=left|Eric Nick Yao Gonyuie || {{full party name with color|New Patriotic Party}} || 5,043
+|-
+| align=left|Kukah Julius Jonathan || {{full party name with color|National Democratic Party (Ghana)}} || 352
+|-
+| align=left colspan=3|''Rejected'' || 270
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Hohoe || align=left|Thomas Worlanyo Tsekpo || {{full party name with color|National Democratic Congress (Ghana)}} || 31,163
+|-
+| align=left|John-Peter Amewu || {{full party name with color|New Patriotic Party}} || 14,971
+|-
+| align=left|Esther Amevor || {{full party name with color|National Democratic Party (Ghana)}} || 55
+|-
+| align=left|Stephen Dzidefo Adzraku || {{full party name with color|People's National Convention (Ghana)}} || 39
+|-
+| align=left colspan=3|''Rejected'' || 314
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Keta || align=left|Kwame Dzudzorli Gakpey || {{full party name with color|National Democratic Congress (Ghana)}} || 29,471
+|-
+| align=left|Courage Hope Goldberg-Grimm Lekettey || {{full party name with color|New Patriotic Party}} || 2,850
+|-
+| align=left|Yayra Kwashie Kwawu || {{full party name with color|Liberal Party of Ghana}} || 1,030
+|-
+| align=left|Dugah Stanley Courage || {{party name with color|Independent}} || 123
+|-
+| align=left colspan=3|''Rejected'' || 221
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Ketu North || align=left|Eric Edem Agbana || {{full party name with color|National Democratic Congress (Ghana)}} || 41,002
+|-
+| align=left|Amegbletor Enoch Kwabla || {{full party name with color|New Patriotic Party}} || 5,902
+|-
+| align=left|Hadzah Shelta Ziodofe Kwesi || {{full party name with color|National Democratic Party (Ghana)}} || 128
+|-
+| align=left|Pascaline Kassah || {{full party name with color|Liberal Party of Ghana}} || 93
+|-
+| align=left colspan=3|''Rejected'' || 392
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Ketu South || align=left|Abla Dzifa Gomashie || {{full party name with color|National Democratic Congress (Ghana)}} || 78,902
+|-
+| align=left|Samuel Wisdom Doe Haligah || {{full party name with color|New Patriotic Party}} || 6,033
+|-
+| align=left colspan=3|''Rejected'' || 871
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Kpando || align=left|Sebastian Fred Deh || {{full party name with color|National Democratic Congress (Ghana)}} || 18,326
+|-
+| align=left|Kodzosika Samuel || {{party name with color|Independent}} || 4,914
+|-
+| align=left|Oklu Antoinette Abena || {{full party name with color|New Patriotic Party}} || 1,672
+|-
+| align=left colspan=3|''Rejected'' || 120
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|North Dayi || align=left|Joycelyn Tetteh || {{full party name with color|National Democratic Congress (Ghana)}} || 12,778
+|-
+| align=left|Edmund Attah Kudjoh || {{full party name with color|New Patriotic Party}} || 4,723
+|-
+| align=left|Gloria Yayra Agbenorto || {{full party name with color|Liberal Party of Ghana}} || 134
+|-
+| align=left colspan=3|''Rejected'' || 80
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|North Tongu || align=left|Samuel Okudzeto Ablakwa || {{full party name with color|National Democratic Congress (Ghana)}} || 41,073
+|-
+| align=left|John Saviour Yaw Eleblu || {{full party name with color|New Patriotic Party}} || 3,035
+|-
+| align=left colspan=3|''Rejected'' || 275
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|South Dayi || align=left|Rockson-Nelson Etse Kwami Dafeamekpor || {{full party name with color|National Democratic Congress (Ghana)}} || 16,031
+|-
+| align=left|Godwin Kwame Dadzawa || {{full party name with color|New Patriotic Party}} || 3,853
+|-
+| align=left|Safo Rose || {{full party name with color|Liberal Party of Ghana}} || 94
+|-
+| align=left|Awalime David || {{party name with color|Independent}} || 51
+|-
+| align=left colspan=3|''Rejected'' || 139
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|South Tongu || align=left|Maxwell Kwame Lukutor || {{full party name with color|National Democratic Congress (Ghana)}} || 42,881
+|-
+| align=left|Lady Elizabeth Segbenu Agah || {{full party name with color|New Patriotic Party}} || 2,620
+|-
+| align=left|Olivia Sosu Quarshie || {{full party name with color|Progressive Alliance for Ghana}} || 1,165
+|-
+| align=left colspan=3|''Rejected'' || 261
+|-
+! colspan=6|
+|-
+| align=left rowspan=77|Western<ref name=EC14>{{cite web |title=Constituency Results - Western Region |url=https://ec.gov.gh/western-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=3|Ahanta West || align=left|Mavis Kuukua Bissue || {{full party name with color|National Democratic Congress (Ghana)}} || 28,227
+|-
+| align=left|Francis Eric Pobee || {{full party name with color|New Patriotic Party}} || 19,663
+|-
+| align=left colspan=3|''Rejected'' || 550
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Amenfi Central || align=left|Joana Gyan Cudjoe || {{full party name with color|National Democratic Congress (Ghana)}} || 26,345
+|-
+| align=left|Albert Wiredu Arkoh || {{full party name with color|New Patriotic Party}} || 12,096
+|-
+| align=left|Peter Yaw Kwakye-Ackah || {{party name with color|Independent}} || 693
+|-
+| align=left|Karl Mark Arhin || {{party name with color|Independent}} || 56
+|-
+| align=left colspan=3|''Rejected'' || 656
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Amenfi East || align=left|Nicholas Amankwah || {{full party name with color|National Democratic Congress (Ghana)}} || 32,210
+|-
+| align=left|Ernest Frimpong || {{full party name with color|New Patriotic Party}} || 23,702
+|-
+| align=left colspan=3|''Rejected'' || 629
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Amenfi West || align=left|Eric Afful || {{full party name with color|National Democratic Congress (Ghana)}} || 26,659
+|-
+| align=left|Ignatius Kwasi Afrifa || {{full party name with color|New Patriotic Party}} || 17,953
+|-
+| align=left colspan=3|''Rejected'' || 571
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Effia || align=left|Isaac Boamah-Nyarko || {{full party name with color|New Patriotic Party}} || 15,870
+|-
+| align=left|Abdul-Majeed Iddrisu Nassam || {{full party name with color|National Democratic Congress (Ghana)}} || 13,892
+|-
+| align=left colspan=3|''Rejected'' || 158
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Ellembele || align=left|Emmanuel Armah-Kofi Buah || {{full party name with color|National Democratic Congress (Ghana)}} || 32,281
+|-
+| align=left|Kwasi Bonzoh || {{full party name with color|New Patriotic Party}} || 18,608
+|-
+| align=left|Asmah John Nkum || {{full party name with color|Progressive People's Party (Ghana)}} || 132
+|-
+| align=left colspan=3|''Rejected'' || 462
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Essikado-Ketan || align=left|Grace Ayensu-Danquah || {{full party name with color|National Democratic Congress (Ghana)}} || 26,166
+|-
+| align=left|Charles Cromwell Nanabanyin Onuawonto Bissue || {{full party name with color|New Patriotic Party}} || 17,754
+|-
+| align=left colspan=3|''Rejected'' || 337
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Evalue Ajomoro Gwira || align=left|Nokoe Kofi Arko || {{full party name with color|National Democratic Congress (Ghana)}} || 16,419
+|-
+| align=left|Catherine Abelema Afeku || {{full party name with color|New Patriotic Party}} || 14,050
+|-
+| align=left|Elisha Joshua Kabenlah || {{party name with color|Independent}} || 240
+|-
+| align=left colspan=3|''Rejected'' || 429
+|-
+! colspan=6|
+|-
+| align=left rowspan=5|Jomoro || align=left|Dorcas Toffey || {{full party name with color|National Democratic Congress (Ghana)}} || 25,349
+|-
+| align=left|Paul Essien || {{full party name with color|New Patriotic Party}} || 14,195
+|-
+| align=left|Nkrumah Samia Yaba Christina || {{party name with color|Independent}} || 8,065
+|-
+| align=left|Nana Blay Mienzah || {{full party name with color|Convention People's Party}} || 269
+|-
+| align=left colspan=3|''Rejected'' || 719
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Kwesimintsim || align=left|Buckman Philip Fiifi || {{full party name with color|National Democratic Congress (Ghana)}} || 15,927
+|-
+| align=left|Prince Hamidu Armah || {{full party name with color|New Patriotic Party}} || 13,317
+|-
+| align=left|Joseph Mensah || {{party name with color|Independent}} || 1,835
+|-
+| align=left colspan=3|''Rejected'' || 219
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Mpohor || align=left|Bentil Godfred Henry || {{full party name with color|National Democratic Congress (Ghana)}} || 11,680
+|-
+| align=left|John Kobina Abbam Aboah Sanie || {{full party name with color|New Patriotic Party}} || 8,299
+|-
+| align=left|Theresa Kwaw || {{full party name with color|Liberal Party of Ghana}} || 92
+|-
+| align=left colspan=3|''Rejected'' || 198
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Prestea Huni-Valley || align=left|Robert Wisdom Cudjoe || {{full party name with color|National Democratic Congress (Ghana)}} || 46,792
+|-
+| align=left|Barbara Oteng-Gyasi || {{full party name with color|New Patriotic Party}} || 30,395
+|-
+| align=left|Hammond Eric Oduro || {{party name with color|Independent}} || 1,131
+|-
+| align=left colspan=3|''Rejected'' || 778
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Sekondi || align=left|Blay Nyameke Armah || {{full party name with color|National Democratic Congress (Ghana)}} || 14,558
+|-
+| align=left|Andrew Kofi Egyapa Mercer || {{full party name with color|New Patriotic Party}} || 11,084
+|-
+| align=left colspan=3|''Rejected'' || 176
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Shama || align=left|Emelia Arthur || {{full party name with color|National Democratic Congress (Ghana)}} || 23,043
+|-
+| align=left|Isaac Kwamina Afful || {{full party name with color|New Patriotic Party}} || 17,082
+|-
+| align=left colspan=3|''Rejected'' || 429
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Takoradi || align=left|Kwabena Okyere Darko-Mensah || {{full party name with color|New Patriotic Party}} || 16,413
+|-
+| align=left|Faidoo Frederick Faustinus || {{full party name with color|National Democratic Congress (Ghana)}} || 1,517
+|-
+| align=left colspan=3|''Rejected'' || 290
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Tarkwa Nsuaem || align=left|Issa Salifu Taylor || {{full party name with color|National Democratic Congress (Ghana)}} || 35,820
+|-
+| align=left|George Mireku Duker || {{full party name with color|New Patriotic Party}} || 27,474
+|-
+| align=left|Joy Joycelyn Andoh || {{party name with color|Independent}} || 12,795
+|-
+| align=left colspan=3|''Rejected'' || 609
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Wassa East || align=left|Isaac Adjei Mensah || {{full party name with color|National Democratic Congress (Ghana)}} || 20,172
+|-
+| align=left|Mona Gertrude Effah || {{full party name with color|New Patriotic Party}} || 13,223
+|-
+| align=left colspan=3|''Rejected'' || 448
+|-
+! colspan=6|
+|-
+| align=left rowspan=38|Western North<ref name=EC15>{{cite web |title=Constituency Results - Western North Region |url=https://ec.gov.gh/western-north-region/ |website=[[Electoral Commission of Ghana]] }}</ref> || align=left rowspan=3|Aowin || align=left|Oscar Ofori Larbi || {{full party name with color|National Democratic Congress (Ghana)}} || 21,889
+|-
+| align=left|Abanga Yakubu Fusani || {{full party name with color|New Patriotic Party}} || 21,786
+|-
+| align=left colspan=3|''Rejected'' || 663
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Bia East || align=left|Richard Acheampong || {{full party name with color|National Democratic Congress (Ghana)}} || 12,948
+|-
+| align=left|Nicholas Kupog Yayin || {{full party name with color|New Patriotic Party}} || 8,351
+|-
+| align=left colspan=3|''Rejected'' || 551
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Bia West || align=left|Tanko Mustapha Amadu || {{full party name with color|National Democratic Congress (Ghana)}} || 27,387
+|-
+| align=left|Bernard Gyebi Blay || {{full party name with color|New Patriotic Party}} || 11,815
+|-
+| align=left colspan=3|''Rejected'' || 495
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Bibiani-Anhwiaso-Bekwai || align=left|Bright Asamoah Brefo || {{full party name with color|National Democratic Congress (Ghana)}} || 33,732
+|-
+| align=left|Alfred Obeng-Boateng || {{full party name with color|New Patriotic Party}} || 31,749
+|-
+| align=left colspan=3|''Rejected'' || 531
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Bodi || align=left|Ahi Sampson || {{full party name with color|National Democratic Congress (Ghana)}} || 13,086
+|-
+| align=left|Andoh Nicholas || {{full party name with color|New Patriotic Party}} || 9,230
+|-
+| align=left colspan=3|''Rejected'' || 245
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Juaboso || align=left|Kwabena Mintah Akandoh || {{full party name with color|National Democratic Congress (Ghana)}} || 20,724
+|-
+| align=left|Alexander Ampaabeng || {{full party name with color|New Patriotic Party}} || 18,672
+|-
+| align=left|Oppong Ernestina || {{full party name with color|Convention People's Party}} || 92
+|-
+| align=left colspan=3|''Rejected'' || 511
+|-
+! colspan=6|
+|-
+| align=left rowspan=3|Sefwi Akontombra || align=left|Pious Kwame Nkuah || {{full party name with color|National Democratic Congress (Ghana)}} || 16,693
+|-
+| align=left|Djornobuah Alex Tetteh || {{full party name with color|New Patriotic Party}} || 13,486
+|-
+| align=left colspan=3|''Rejected'' || 237
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Sefwi Wiawso || align=left|Afful Kofi Benteh || {{full party name with color|National Democratic Congress (Ghana)}} || 33,656
+|-
+| align=left|Festus Bumakama Agyapong || {{full party name with color|New Patriotic Party}} || 24,926
+|-
+| align=left|Ababio Veronica || {{party name with color|Independent}} || 164
+|-
+| align=left colspan=3|''Rejected'' || 565
+|-
+! colspan=6|
+|-
+| align=left rowspan=4|Suaman || align=left|Addy Frederick || {{full party name with color|New Patriotic Party}} || 9,027
+|-
+| align=left|Joseph Betino || {{full party name with color|National Democratic Congress (Ghana)}} || 8,214
+|-
+| align=left|John Asare || {{full party name with color|Liberal Party of Ghana}} || 61
+|-
+| align=left colspan=3|''Rejected'' || 193
+|}
+
+==References==
+{{reflist}}
+
+{{Ghanaian elections}}
+
+[[Category:Presidential elections in Ghana]]
+[[Category:Parliamentary elections in Ghana]]
+[[Category:2024 elections in Africa|Ghanaian general election]]
+[[Category:2024 in Ghana|General election]]
+[[Category:December 2024 in Africa|Ghanaian general election]]
+[[Category:December 2024 elections]]

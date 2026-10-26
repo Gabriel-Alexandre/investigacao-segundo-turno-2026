@@ -1,0 +1,269 @@
+{{Short description|none}}
+{{EngvarB|date=December 2023}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox election
+| country = Serbia
+| flag_year = 1991
+| election_date = 20 December 1992
+
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_name = Presidential election
+| previous_election = 1990 Serbian general election
+| previous_year = 1990
+| next_election = 1997 Serbian general election
+| next_year = 1997
+| image_size = 130x130px
+| turnout = 64.15% ({{decrease}} 7.25 [[percentage point|pp]])
+
+| image1 = Slobodan Milošević 1995b.jpg
+| candidate1 = '''[[Slobodan Milošević]]'''
+| party1 = Socialist Party of Serbia
+| popular_vote1 = '''2,515,047'''
+| percentage1 = '''57.46%'''
+
+| candidate2 = [[Milan Panić]]
+| image2 = Milan Panić (cropped 2).JPG
+| party2 = Independent politician 
+| popular_vote2 = 1,516,693
+| percentage2 = 34.65%
+
+| title = President
+| before_election = [[Slobodan Milošević]]
+| before_party = [[Socialist Party of Serbia|SPS]]
+| after_election = [[Slobodan Milošević]]
+| after_party = Socialist Party of Serbia
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| previous_election = [[1990 Serbian general election|1990]]
+| next_election = [[1993 Serbian parliamentary election|1993]]
+| turnout = {{center|69.58% ({{decrease}} 1.81 pp)}}
+
+| party1 = Socialist Party of Serbia
+| leader1 = [[Slobodan Milošević]]
+| last_election1 = 194
+| seats1 = 101
+| percentage1 = 30.62
+
+| party2 = Serbian Radical Party
+| leader2 = [[Vojislav Šešelj]]
+| last_election2 = New
+| seats2 = 73
+| percentage2 = 24.04
+
+| party3 = Democratic Movement of Serbia
+| leader3 = [[Vuk Drašković]]
+| last_election3 = 19
+| seats3 = 50
+| percentage3 = 17.98
+
+| party4 = Democratic Party (Serbia)
+| leader4 = [[Dragoljub Mićunović|Dragoljub&nbsp;Mićunović]]
+| last_election4 = 7
+| seats4 = 6
+| percentage4 = 4.42
+
+| party5 = Democratic Fellowship of Vojvodina Hungarians
+| leader5 = [[András Ágoston]]
+| last_election5 = 8
+| seats5 = 9
+| percentage5 = 3.17
+
+| party7 = [[Reformists of Vojvodina|RDSV]]
+| leader7 = Dragoslav Petrović
+| last_election7 = 2
+| seats7 = 2
+| percentage7 = 1.52
+
+| party8 = {{nowrap|[[Party of Serbian Unity|GG–Arkan]]}}
+| colour8 = {{party color|Party of Serbian Unity}}
+| leader8 = [[Željko Ražnatović]]
+| last_election8 = New
+| seats8 = 5
+| percentage8 = 0.37
+
+| party9 = Democratic Reform Party of Muslims
+| leader9 = Azar Zulji
+| last_election9 = 1
+| seats9 = 1
+| percentage9 = 0.13
+
+| map = Presidential election of Serbia 1992.png
+| map_caption = Results of the presidential election by municipality
+
+| title = [[Prime Minister of Serbia|Prime Minister]]
+| before_election = [[Radoman Božović]]
+| before_party = Socialist Party of Serbia
+| after_election = [[Nikola Šainović]]
+| after_party = Socialist Party of Serbia
+}}}}}}
+
+General elections were held in [[Republic of Serbia (1990–2006)|Serbia]] on 20 December 1992. The vote was held only two years after the [[1990 Serbian general election|previous election]] and as a result of [[1992 Serbian early elections referendum|a referendum]] which approved holding early elections.<ref>[http://www.sudd.ch/event.php?lang=en&id=rs041992 Serbien (Jugoslawien), 11. Oktober 1992 : Vorzeitige Neuwahlen des Parlaments] Direct Democracy</ref>
+
+The elections were won by [[Slobodan Milošević]] and his [[Socialist Party of Serbia]] (SPS), which won 101 of the 250 seats in the [[National Assembly of Serbia|National Assembly]]. The SPS formed a government with [[Vojislav Šešelj]]'s [[Serbian Radical Party]]. The presidential election was marked by a total domination of state-run media by Milošević with accusations of [[voter fraud]] and tampering. [[Milan Panić]] refused to accept the result, and stated that he believed he was the true election winner.
+
+== Background ==
+[[Slobodan Milošević]] was a candidate of the [[Socialist Party of Serbia]] and was solely endorsed by the [[Serbian Radical Party]]. 	
+
+[[Milan Panić]] was an independent candidate endorsed by the [[Democratic Movement of Serbia]] and the [[Democratic Party (Serbia)|Democratic Party]]. The elections were [[Election boycott|boycotted]] by political parties of ethnic [[Kosovo Albanians]], who made up around 17% of the population.<ref name=CeSID1>{{Cite book|url=http://www.cesid.rs/pdfovi/OKO%20IZBORA%201.pdf |title=Oko izbora 1 |publisher=CeSID |year=1997 }}</ref>
+
+== Electoral lists ==
+Following electoral lists are electoral lists that received seats in the National Assembly after the 1992 election:<ref>{{Cite web |title=Arhiva - Izbori za narodne poslanike - 1992. |url=http://arhiva.rik.parlament.gov.rs/latinica/arhiva-izbori-za-narodne-poslanike-1992.php |access-date=8 October 2022 |website=arhiva.rik.parlament.gov.rs}}</ref>
+
+{| class="wikitable"
+|-
+! {{No.}}
+! colspan="2" | Ballot name
+! Representative
+! Main ideology
+! Political position
+|-
+| {{center|1}}
+| style="background:{{party color|Socialist Party of Serbia}}" |
+| {{ubl|Socialist Party of Serbia – Slobodan Milošević|{{small|[[Socialist Party of Serbia|SPS]]}}}}
+| [[Slobodan Milošević]]
+| [[Populism]]
+| [[Left-wing]]
+|-
+| {{center|2}}
+| style="background:{{party color|Serbian Radical Party}}" |
+| {{ubl|Serbian Radical Party – dr Vojislav Šešelj|{{small|[[Serbian Radical Party|SRS]]}}}}
+| [[Vojislav Šešelj]]
+| [[Ultranationalism]]
+| [[Far-right]]
+|-
+| {{center|3}}
+| style="background:#1A4A96" |
+| {{ubl|[[Democratic Movement of Serbia|DEPOS – Democratic Movement of Serbia]]|{{small|[[Serbian Renewal Movement|SPO]], [[Democratic Party of Serbia|DSS]], [[Liberals of Serbia|ND]], [[Serbian Liberal Party|SLS]]}}}}
+| [[Vojislav Koštunica]]
+| Anti-Milošević
+| [[Centre-right]]
+|-
+| {{center|4}}
+| style="background:{{party color|Democratic Fellowship of Vojvodina Hungarians}}" |
+| {{ubl|Democratic Fellowship of Vojvodina Hungarians – András Ágoston|{{small|[[Democratic Fellowship of Vojvodina Hungarians|VMDK/DZVM]]}}}}
+| [[András Ágoston]]
+| [[Minority politics]]
+| [[Centrism|Centre]]
+|-
+| {{center|5}}
+| style="background:{{party color|Democratic Party (Serbia)}}" |
+| {{ubl|Democratic Party – Zoran Đinđić|{{small|[[Democratic Party (Serbia)|DS]]}}}}
+| [[Zoran Đinđić]]
+| [[Liberalism]]
+| [[Centre-right]]
+|-
+| {{center|6}}
+| style="background:{{party color|Party of Serbian Unity}}" |
+| {{ubl|Civic Group – Željko Ražnatović Arkan|{{small|{{abbr|GG ŽRA|Civic Group – Željko Ražnatović Arkan}}}}}}
+| [[Željko Ražnatović Arkan]]
+| [[Ultranationalism]]
+| [[Far-right]]
+|-
+| {{center|7}}
+| style="background:{{party color|Peasants Party of Serbia}}" |
+| {{ubl|Peasants Party of Serbia – Milomir Babić|{{small|[[Peasants Party of Serbia|SSS]]}}}}
+| Milomir Babić
+| [[Agrarianism]]
+| [[Centrism|Centre]]
+|-
+| {{center|8}}
+| style="background:{{party color|Reformists of Vojvodina}}" |
+| {{ubl|Democratic Party and Reformist Democratic Party of Vojvodina Coalition – Dragoljub Mićunović|{{small|[[Reformists of Vojvodina|RDSV]], [[Democratic Party (Serbia)|DS]]}}}}
+| [[Dragoljub Mićunović]]
+| [[Vojvodina Autonomist Movement|Vojvodina autonomism]]
+| [[Centre-left]]
+|-
+| {{center|9}}
+| style="background:{{party color|Democratic Reform Party of Muslims}}" |
+| {{ubl|Democratic Reform Party of Muslims – Džezair Murati|{{small|[[Democratic Party of Bosniaks|DRSM]]}}}}
+| Džezair Murati
+| [[Minority politics]]
+| [[Left-wing]]
+|}
+
+== Results ==
+=== Presidential ===
+{{Election results
+|cand1=[[Slobodan Milošević]]|party1=[[Socialist Party of Serbia]]|votes1=2515047
+|cand2=[[Milan Panić]]|party2=Independent|votes2=1516693
+|cand3=[[Milan Paroški]]|party3=[[People's Party (Serbia, 1990)|People's Party]]|votes3=147693
+|cand4=[[Dragan Vasiljković]]|party4=Independent|votes4=87847
+|cand5=[[Jezdimir Vasiljević]]|party5=Independent |votes5=61729	
+|cand6=Miroslav Milanović|party6=Independent|votes6=28010
+|cand7=Blažo Perović|party7=Democratic Fatherland Coalition|color7=#14469E|votes7=20326
+|invalid=80326
+|electorate=6949150
+|source=
+}}
+
+=== Parliamentary ===
+{{Election results
+|image=[[File:Skupstina 1992.svg]]
+|party1=[[Socialist Party of Serbia]]|votes1=1359086|seats1=101|sc1=–93
+|party2=[[Serbian Radical Party]]|votes2=1066765|seats2=73|sc2=New
+|party3=[[Democratic Movement of Serbia]]|votes3=797831|seats3=50|sc3=+31
+|party4=[[Democratic Party (Serbia)|Democratic Party]]|votes4=196347|seats4=6|sc4=–1
+|party5=[[Democratic Fellowship of Vojvodina Hungarians]]|votes5=140825|seats5=9|sc5=+1
+|party6=Serbian Opposition: [[People's Party (Serbia, 1990)|NS]], [[Serbian Royalist Bloc|SRB]]|votes6=130139|seats6=0|sc6=–2
+|party7=[[Peasants Party of Serbia]]|votes7=128240|seats7=3|sc7=+1
+|party8=[[Serbian National Renewal]]|votes8=84568|seats8=0|sc8=0
+|party9=[[Reformists of Vojvodina|Reformist Democratic Party of Vojvodina]]–[[Democratic Party (Serbia)|Democratic Party]]|votes9=71865|seats9=2|sc9=0
+|party10=[[Social Democratic Party (Serbia, 1992)|Social Democratic Party]]|votes10=47404|seats10=0|sc10=0|color10=#EB0007
+|party11=[[League of Social Democrats of Vojvodina|LSV]]–[[People's Peasant Party|NSS]]–RS–RK–[[Civic Alliance of Serbia|GSS]]|votes11=36780|seats11=0|sc11=–1
+|party12=[[League of Communists – Movement for Yugoslavia]]|votes12=32346|seats12=0|sc12=New
+|party13=[[Democratic Alliance of Croats in Vojvodina]]|votes13=17622|seats13=0|sc13=–1
+|party14=Movement for the Protection of Human Rights|votes14=17495|seats14=0|sc14=0|color14=#03749C
+|party15=[[Željko Ražnatović Arkan]] Citizen's Group|votes15=17352|seats15=5|sc15=New|color15=#505053
+|party16=[[Civic Alliance of Serbia]]|votes16=17276|seats16=0|sc16=New
+|party17=[[Party for Democratic Action]]|votes17=17172|seats17=0|sc17=–1
+|party18=Citizens of Nisava-Moravia and Timok|votes18=16172|seats18=0|sc18=New
+|party19=Democratic Party of Albanians|votes19=10242|seats19=0|sc19=New
+|party20=[[Serb Democratic Party (Serbia, 1990–2003)|Serb Democratic Party]]|votes20=9771|seats20=0|sc20=–1
+|party21=Progressive Party|votes21=9569|seats21=0|sc21=New
+|party22=Workers' Party of Serbia|votes22=8578|seats22=0|sc22=New
+|party23=Democratic Fatherland Coalition|votes23=8291|seats23=0|sc23=New
+|party24=[[Democratic Reform Party of Muslims]]|votes24=6336|seats24=1|sc24=0
+|party25=[[New Communist Party of Yugoslavia|New Communist Movement of Yugoslavia]]|votes25=5042|seats25=0|sc25=0
+|party26=Social Democratic Party of Roma|votes26=3214|seats26=0|sc26=0
+|party27=Yugoslav Democratic Party of Goodwill|votes27=3037|seats27=0|sc27=New
+|party28=New Green Party|votes28=3016|seats28=0|sc28=New
+|party29=Movement of Vlachs and Romanians of Yugoslavia|votes29=2827|seats29=0|sc29=New
+|party30=Democratic Political Party of Roma|votes30=2673|seats30=0|sc30=0
+|party31=Party of Businessmen and Private Initiatives|votes31=2643|seats31=0|sc31=New
+|party32=Green Party|votes32=2494|seats32=0|sc32=0
+|party33=Great Rock'n'Roll Party|votes33=2295|seats33=0|sc33=New
+|party34=[[Federal Party of Yugoslavs]] – [[Bunjevac-Šokac Party (Serbia, 1991)|Bunjevac-Šokac Party]]|votes34=2051|seats34=0|sc34=New
+|party35=Serbian Patriotic Union|votes35=1764|seats35=0|sc35=New
+|party36=Democratic Union of the Centre|votes36=1721|seats36=0|sc36=New
+|party37=Socialist People's Party of Yugoslavia – [[New Communist Party of Yugoslavia|NKPJ]]|votes37=1711|seats37=0|sc37=New
+|party38=Economically Radical Party|votes38=1558|seats38=0|sc38=New
+|party39=Radical Bloc in the Communists of Yugoslavia|votes39=1516|seats39=0|sc39=New
+|party40=Party for Peace and Prosperity|votes40=1363|seats40=0|sc40=New
+|party41=Yugoslav Democratic Party|votes41=1251|seats41=0|sc41=New
+|party42=Belgrade Party Best|votes42=1198|seats42=0|sc42=New
+|party43=Republican Party|votes43=1037|seats43=0|sc43=0
+|party44=Socialist People's Party|votes44=1008|seats44=0|sc44=New
+|party45=KPJ–PJP–[[New Communist Party of Yugoslavia|NKPJ]]–SDPJ–SRJ|votes45=781|seats45=0|sc45=New
+|party46=[[Liberal Party (Serbia, 1989)|Liberal Party]]|votes46=632|seats46=0|sc46=0
+|party47=Party Association of Families of Serbia–SPAS|votes47=593|seats47=0|sc47=New
+|party48=Natural Law Party|votes48=523|seats48=0|sc48=New
+|party49=Independents|votes49=143884|seats49=0|sc49=–8
+|total_sc=0
+|invalid=275861
+|electorate=6774995
+|source=[http://arhiva.rik.parlament.gov.rs/doc/arhiva/poslanici/1992/1992%20izvestaj%20o%20ukupnim%20rezultatima%20np.pdf RIK]
+}}
+
+== References ==
+{{reflist}}
+
+{{Serbian elections}}
+[[Category:Parliamentary elections in Serbia]]
+[[Category:1992 elections in Europe|Serbia]]
+[[Category:Presidential elections in Serbia]]
+[[Category:December 1992 in Europe|Serbia]]
+[[Category:1990s elections in Serbia]]
+[[Category:1992 in Serbia]]

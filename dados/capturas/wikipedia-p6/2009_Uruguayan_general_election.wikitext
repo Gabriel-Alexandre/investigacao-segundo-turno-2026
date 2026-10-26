@@ -1,0 +1,836 @@
+{{Short description|none}}
+{{Infobox election
+| country = Uruguay
+| previous_election = 2004 Uruguayan general election
+| previous_year = 2004
+| next_election = 2014 Uruguayan general election
+| next_year = 2014
+| election_date = 25 October 2009<br />29 November 2009 (runoff)
+| registered = 2,563,397
+| turnout = 89.91% (first round) {{increase}} 0.29[[percentage point|pp]]<br />89.18% (second round)
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+
+| image1 = mujica.jpg
+| nominee1 = '''[[José Mujica]]'''
+| color1 = {{party color|Broad Front (Uruguay)}}
+| party1 = Movement of Popular Participation
+| alliance1 = Broad Front (Uruguay)
+| running_mate1 = '''[[Danilo Astori]]'''
+| popular_vote1 = '''1,197,638'''
+| percentage1 = '''54.63%'''
+
+| image2 = Luis Alberto Lacalle de Herrera (cropped).jpg
+| nominee2 = [[Luis Alberto Lacalle]]
+| party2 = [[National Party (Uruguay)|National]]
+| running_mate2 = [[Jorge Larrañaga]]
+| popular_vote2 = 994,510
+| percentage2 = 45.37%
+
+| title = President
+| before_election = [[Tabaré Vázquez]]
+| before_party = Broad Front (Uruguay)
+| after_election = José Mujica
+| after_party = Broad Front (Uruguay)
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+
+| heading1 = Chamber
+| party1 = Broad Front (Uruguay) | leader1 = [[José Mujica]] | percentage1 = 49.34 | seats1 = 50 | last_election1 = 52
+| party2 = [[National Party (Uruguay)|National]] | leader2 = [[Luis Alberto Lacalle]] | percentage2 = 29.90 | seats2 = 30 | last_election2 = 36
+| party3 = [[Colorado Party (Uruguay)|Colorado]] | leader3 = [[Pedro Bordaberry]] | percentage3 = 17.51 | seats3 = 17 | last_election3 = 10
+| party4 = [[Independent Party (Uruguay)|Independent]] | leader4 = [[Pablo Mieres]] | percentage4 = 2.56 | seats4 = 2 | last_election4 = 1
+
+| heading6 = Senate
+| party6 = Broad Front (Uruguay) | leader6 = [[José Mujica]] | percentage6 = 49.34 | seats6 = 16 | last_election6 = 16
+| party7 = [[National Party (Uruguay)|National]] | leader7 = [[Luis Alberto Lacalle]] | percentage7 = 29.90 | seats7 = 9 | last_election7 = 11
+| party8 = [[Colorado Party (Uruguay)|Colorado]] | leader8 = [[Pedro Bordaberry]] | percentage8 = 17.51 | seats8 = 5 | last_election8 = 3
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Maps
+
+| map_image = {{Switcher
+|[[File:Resultados de las elecciones presidenciales de Uruguay de 2009 por departamento (1ª vuelta).svg|300px]]
+|Presidential election first round results
+|[[File:Resultados de las elecciones presidenciales de Uruguay de 2009 por departamento (2ª vuelta).svg|300px]]
+|Presidential election second round results
+|[[File:2009 General Assembly of Uruguay Election.svg|300px]]
+|Parliamentary election results by constituency
+|default=2
+}}
+
+}}}}}}}}
+
+General elections were held in [[Uruguay]] on 25 October 2009 alongside a [[2009 Uruguayan referendum|two-part referendum]]. As no candidate for president received more than 50% of the vote, a second round was held on 29 November between the top two candidates, [[José Mujica]] of the ruling [[Broad Front (Uruguay)|Broad Front]] (who received 48% of the vote) and former president [[Luis Alberto Lacalle]] of the [[National Party (Uruguay)|National Party]] (29%). Mujica won the run-off with 55% of the vote.
+
+In the parliamentary elections, the Broad Front retained its majorities in both chambers, winning 16 of the 30 seats in the [[Senate of Uruguay|senators]] and 50 of the 99 seats in the Chamber of Deputies. The National Party finished second with 9 senators and 30 deputies, the [[Colorado Party (Uruguay)|Colorado Party]] third with 5 Senators and 17 Deputies, and the [[Independent Party (Uruguay)|Independent Party]] fourth with 2 deputies.<ref>{{cite web|url=http://en.mercopress.com/2009/10/27/uruguayan-ruling-coalition-retains-majority-in-next-parliament |title=Uruguayan ruling coalition retains majority in next Parliament — MercoPress |publisher=En.mercopress.com |date=2009-10-27 |access-date=2012-11-08}}</ref>
+
+==Presidential candidates==
+[[2009 Uruguayan presidential primaries|Presidential primaries]] were held on 28 June to select the candidates.
+
+{| class="wikitable"
+! colspan="2" rowspan="2" |Party
+! colspan="2" rowspan="2" |Candidate
+! rowspan="2" |Ideology
+! colspan="2" |Previous result
+|-
+!Votes (%)
+!Seats
+|-
+| width="1" bgcolor="{{party color|Broad Front (Uruguay)}}" |
+|[[Broad Front (Uruguay)|Broad Front]]
+|[[File:Pepemujica2.jpg|frameless|83x83px]]
+|[[José Mujica]]
+|[[Democratic socialism]]
+[[Social democracy]]
+|50.45%
+|{{Composition bar|52|99|hex={{party color|Broad Front (Uruguay)}}}}{{Composition bar|16|30|hex={{party color|Broad Front (Uruguay)}}}}
+|-
+| width="1" bgcolor="{{party color|National Party (Uruguay)}}" |
+|[[National Party (Uruguay)|National Party]]
+|[[File:Luis Alberto Lacalle de Herrera (cropped).jpg|frameless|66x66px]]
+|[[Luis Alberto Lacalle]]
+|[[Conservatism]]
+[[Christian democracy]]
+|34.30%
+|{{Composition bar|36|99|hex={{party color|National Party (Uruguay)}}}}{{Composition bar|11|30|hex={{party color|National Party (Uruguay)}}}}
+|-
+| width="1" bgcolor="{{party color|Colorado Party (Uruguay)}}" |
+|[[Colorado Party (Uruguay)|Colorado Party]]
+|[[File:Pedrobordaberry.jpg|frameless|71x71px]]
+|[[Pedro Bordaberry]]
+|[[Liberalism]]
+|10.36%
+|{{Composition bar|10|99|hex={{party color|Colorado Party (Uruguay)}}}}{{Composition bar|3|30|hex={{party color|Colorado Party (Uruguay)}}}}
+|-
+| width="1" bgcolor="{{party color|Independent Party (Uruguay)}}" |
+|[[Independent Party (Uruguay)|Independent Party]]
+|[[File:Pablomieres.jpg|frameless|83x83px]]
+|[[Pablo Mieres]]
+|[[Christian humanism]]
+[[Christian democracy]]
+|1.84%
+|{{Composition bar|1|99|hex={{party color|Independent Party (Uruguay)}}}}{{Composition bar|0|30|hex={{party color|Independent Party (Uruguay)}}}}
+|-
+| width="1" bgcolor=#026b29 |
+|[[Popular Assembly]]
+|[[File:Portrait placeholder.svg|84x84px]]
+|Raúl Rodríguez
+|[[Marxism]]
+| colspan="2" |{{small|Did not contest}}
+|}
+
+==Results==
+Analysts indicated that Mujica won largely because of the popularity of the Broad Front and incumbent President [[Tabaré Vázquez]]'s pro-business policies that had strengthened the country's economy.<ref name=CSM>{{cite news|url=https://www.csmonitor.com/2009/1130/p06s04-woam.html|title=In Uruguay, former guerrilla wins by moving away from Chávez|last=Farrell |first=Jeff|date=30 November 2009 |work=[[The Christian Science Monitor]]|access-date=1 December 2009}}</ref> After taking office in 2005, Vazquez cut the unemployment rate from 12.3 to 7.3 percent, encouraged trade and foreign investment, increased wages and social spending, and boosted the central bank reserves and the country's [[credit rating]].<ref>{{cite news|url=https://www.bloomberg.com/apps/news?pid=20601086&sid=atnamSlgGI9A|title=Former Uruguay Rebel Mujica Wins Presidency on Runoff |last=Orihuela|first=Rodrigo |date=November 30, 2009|publisher=[[Bloomberg Television|Bloomberg]]|access-date=1 December 2009}}</ref>
+
+The Broad Front retained a majority in [[General Assembly of Uruguay|parliament]] with 15 senators (plus [[Danilo Astori]], later elected vice-president and thus president of the General Assembly) out of a total of 30 and 50 deputies out of a total of 99. The National Party came in second with 9 senators and 30 deputies. Both parties lost votes and legislative seats in comparison with 2004. The historically dominant Colorado made gains and increased its representation to 5 senators and 17 deputies. Finally, the Independent Party did not achieve its main goal of winning a seat in the Senate, but obtained 2 seats in the lower chamber.
+
+[[Pedro Bordaberry]] led the Colorado Party to a notable electoral recovery, practically doubling its votes cast in 2004. The Independent Party, with candidates Pablo Mieres and Iván Posada, gained an additional seat in the Chamber of Deputies. Popular Assembly, a small, new extreme left party, did not win much support.
+
+{{Election results
+|image=[[File:Uruguay Chamber of Deputies 2009.svg|300px]][[File:Uruguay Senate 2009.svg|300px]]
+|dsv=y|candtitle=Presidential candidate|seattype1=Chamber|seattype2=+/–|seattype3=Senate|seattype4=+/–
+|party1=[[Broad Front (Uruguay)|Broad Front]]|cand1=[[José Mujica]]|votes1=1105262|votes1_2=1197638|st1t1=50|st2t1=–2|st3t1=16|st4t1=0
+|party2=[[National Party (Uruguay)|National Party]]|cand2=[[Luis Alberto Lacalle]]|votes2=669942|votes2_2=994510|st1t2=30|st2t2=–6|st3t2=9|st4t2=–2
+|party3=[[Colorado Party (Uruguay)|Colorado Party]]|cand3=[[Pedro Bordaberry]]|votes3=392307|st1t3=17|st2t3=+7|st3t3=5|st4t3=+2
+|party4=[[Independent Party (Uruguay)|Independent Party]]|cand4=[[Pablo Mieres]]|votes4=57360|st1t4=2|st2t4=+1|st3t4=0|st4t4=0
+|party5=[[Popular Assembly]]|cand5=Raúl Rodríguez|votes5=15428|st1t5=0|st2t5=New|st3t5=0|st4t5=New
+|invalid=64387|invalid2=93810
+|total_st2t=0|total_st4t=0
+|electorate=2563250|electorate2=2563250
+|source=[http://www.corteelectoral.gub.uy/ Corte Electoral]
+}}
+
+===By department===
+{| class="wikitable sortable collapsible collapsed tpl-blanktable" style="text-align:left; font-size:95%; line-height:20px;"
+|+ class="nowrap" | First round
+|-
+! rowspan="3" | Constituency
+! colspan="3" width="30px" class="unsortable" | Broad Front
+! colspan="3" width="30px" class="unsortable" | National Party
+! colspan="3" width="30px" class="unsortable" | Colorado Party
+! colspan="3" |Independent Party
+! colspan="2" rowspan="2" |Others{{efn|Parties which gained no parliamentary representation: [[Popular Assembly]].}}
+! colspan="2" rowspan="2" |Valid votes
+! colspan="2" rowspan="2" |Invalid votes
+|-
+! colspan="3" style="background:{{party color|Broad Front (Uruguay)}}" |
+! colspan="3" style="background:{{party color|National Party (Uruguay)}}" |
+! colspan="3" style="background:{{party color|Colorado Party (Uruguay)}}" |
+! colspan="3" style="background:{{party color|Independent Party (Uruguay)}}" |
+|-
+! data-sort-type="number" | Votes
+! data-sort-type="number" | %
+!D
+! data-sort-type="number" | Votes
+! data-sort-type="number" | %
+!D
+! data-sort-type="number" | Votes
+! data-sort-type="number" | %
+!D
+!Votes
+!%
+!D
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+|-
+| align="left" | Artigas
+|19,362
+|36.9
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |21,464
+| style="background:{{party color|National Party (Uruguay)}}" |40.9
+|1
+|9,801
+|18.7
+|0
+|422
+|0.80
+|0
+|113
+|0.22
+|51,162
+|97.6
+|1,266
+|2.4
+|-
+| align="left" | Canelones
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |166,185
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |51.0
+|8
+|91,412
+|28.1
+|4
+|46,580
+|14.3
+|2
+|7,888
+|2.42
+|0
+|2,374
+|0.73
+|314,439
+|96.6
+|11,131
+|3.4
+|-
+| align="left" | Cerro Largo
+|24,968
+|40.1
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |26,508
+| style="background:{{party color|National Party (Uruguay)}}" |42.6
+|1
+|8,489
+|13.6
+|0
+|609
+|0.98
+|0
+|162
+|0.26
+|60,736
+|97.6
+|1,490
+|2.4
+|-
+| align="left" |Colonia
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |35,369
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |38.4
+|1
+|32,720
+|35.5
+|1
+|19,221
+|20.9
+|1
+|2,134
+|2.32
+|1
+|216
+|0.23
+|89,660
+|97.4
+|2,418
+|2.6
+|-
+| align="left" |Durazno
+|14,870
+|34.7
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |17,819
+| style="background:{{party color|National Party (Uruguay)}}" |41.6
+|1
+|8,019
+|18.7
+|0
+|876
+|2.05
+|0
+|121
+|0.28
+|41,705
+|97.4
+|1,131
+|2.6
+|-
+| align="left" |Flores
+|6,146
+|30.9
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |8,815
+| style="background:{{party color|National Party (Uruguay)}}" |44.3
+|1
+|4,162
+|20.9
+|0
+|243
+|1.22
+|0
+|73
+|0.37
+|19,439
+|97.8
+|439
+|2.2
+|-
+| align="left" |Florida
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |19,750
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |38.4
+|1
+|18,604
+|36.2
+|1
+|10,459
+|20.3
+|0
+|1,147
+|2.23
+|0
+|227
+|0.44
+|50,187
+|97.6
+|1,225
+|2.4
+|-
+| align="left" |Lavalleja
+|14,411
+|30.8
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |19,522
+| style="background:{{party color|National Party (Uruguay)}}" |41.7
+|1
+|10,488
+|22.4
+|0
+|1,040
+|2.22
+|0
+|128
+|0.27
+|45,589
+|97.3
+|1,275
+|2.7
+|-
+| align="left" |Maldonado
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |44,580
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |40.9
+|2
+|34,409
+|31.6
+|1
+|23,231
+|21.3
+|1
+|3,145
+|2.88
+|0
+|318
+|0.29
+|105,683
+|96.9
+|3,353
+|3.1
+|-
+| align="left" |Montevideo
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |522,205
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |56.2
+|24
+|202,210
+|21.8
+|9
+|138,987
+|15.0
+|7
+|31,238
+|3.36
+|1
+|9,687
+|1.04
+|904,327
+|97.3
+|24,997
+|2.7
+|-
+| align="left" |Paysandú
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |37,056
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |45.6
+|1
+|28,451
+|35.0
+|1
+|11,677
+|14.4
+|1
+|1,456
+|1.79
+|0
+|286
+|0.35
+|78,926
+|97.2
+|2,299
+|2.8
+|-
+| align="left" |Rio Negro
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |15,480
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |40.5
+|1
+|11,604
+|30.4
+|1
+|9,447
+|24.7
+|0
+|612
+|1.60
+|0
+|96
+|0.25
+|37,239
+|97.5
+|942
+|2.5
+|-
+| align="left" |Rivera
+|24,974
+|33.9
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |25,976
+| style="background:{{party color|National Party (Uruguay)}}" |35.2
+|1
+|20,002
+|27.1
+|1
+|724
+|0.98
+|0
+|144
+|0.20
+|71,820
+|97.5
+|1,873
+|2.5
+|-
+| align="left" |Rocha
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |22,123
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |41.4
+|1
+|18,067
+|33.8
+|1
+|10,305
+|19.3
+|0
+|879
+|1.64
+|0
+|281
+|0.53
+|51,655
+|96.6
+|1,819
+|3.4
+|-
+| align="left" |Salto
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |39,982
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |46.3
+|1
+|23,344
+|27.0
+|1
+|19,445
+|22.5
+|2
+|1,243
+|1.44
+|0
+|216
+|0.25
+|84,230
+|97.5
+|2,202
+|2.5
+|-
+| align="left" |San Jose
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |30,783
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |42.8
+|1
+|25,305
+|35.2
+|1
+|11,860
+|16.5
+|1
+|1,378
+|1.92
+|0
+|439
+|0.61
+|69,765
+|97.0
+|2,189
+|3.0
+|-
+| align="left" |Soriano
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |27,595
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |43.7
+|1
+|19,098
+|30.3
+|1
+|13,530
+|21.4
+|0
+|893
+|1.41
+|0
+|260
+|0.41
+|61,376
+|97.2
+|1,741
+|2.8
+|-
+| align="left" |Tacuarembó
+|25,312
+|37.2
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |28,605
+| style="background:{{party color|National Party (Uruguay)}}" |42.1
+|1
+|11,251
+|16.6
+|1
+|964
+|1.42
+|0
+|175
+|0.26
+|66,307
+|97.6
+|1,659
+|2.4
+|-
+| align="left" |Treinta y Tres
+|14,111
+|38.1
+|1
+| style="background:{{party color|National Party (Uruguay)}}" |16,009
+| style="background:{{party color|National Party (Uruguay)}}" |43.3
+|1
+|5,353
+|14.5
+|0
+|469
+|1.27
+|0
+|112
+|0.30
+|36,054
+|97.5
+|938
+|2.5
+|- style="background:#CDCDCD;"
+| align="left" | '''Total'''
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |'''1,105,262'''
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |'''47.96'''
+|'''50'''
+| '''669,942'''
+|'''29.07'''
+|'''30'''
+|'''392,307'''
+|'''17.02'''
+|'''17'''
+|'''57,360'''
+|'''2.49'''
+|'''2'''
+|'''15,428'''
+|'''0.67'''
+|'''2,240,299'''
+|'''97.21'''
+|'''64,387'''
+|'''2.79'''
+|-
+! colspan="19" |
+|-
+! colspan="19" style="text-align:left; font-weight:normal; background:#F9F9F9" | Source: [https://www.corteelectoral.gub.uy/estadisticas/estadisticas/estadisticas Corte Electoral]
+|}
+
+{| class="wikitable sortable collapsible collapsed tpl-blanktable" style="text-align:left; font-size:95%; line-height:20px;"
+|+ class="nowrap" | Second round
+! rowspan="3" | Constituency
+! colspan="2" |Broad Front
+! colspan="2" |National Party
+! colspan="2" rowspan="2" |Valid votes
+! colspan="2" rowspan="2" |Invalid votes
+|-
+! colspan="2" style="background:{{party color|Broad Front (Uruguay)}}" |
+! colspan="2" style="background:{{party color|National Party (Uruguay)}}" |
+|-
+!Votes
+! data-sort-type="number" | %
+!Votes
+! data-sort-type="number" | %
+!Votes
+! %
+!
+!
+|-
+| align="left" | Artigas
+|21,823
+|42.5
+|style="background:{{party color|National Party (Uruguay)}}" |28,133
+|style="background:{{party color|National Party (Uruguay)}}" |54.8
+|49,956
+|97.3
+|1,411
+|2.7
+|-
+| align="left" | Canelones
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |180,138
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |55.7
+|130,099
+|40.2
+|310,237
+|95.9
+|13,288
+|4.1
+|-
+| align="left" | Cerro Largo
+|28,190
+|45.9
+| style="background:{{party color|National Party (Uruguay)}}" |31,147
+| style="background:{{party color|National Party (Uruguay)}}" |50.7
+|59,337
+|96.6
+|2,092
+|3.4
+|-
+| align="left" |Colonia
+|39,763
+|43.5
+| style="background:{{party color|National Party (Uruguay)}}" |47,993
+| style="background:{{party color|National Party (Uruguay)}}" |52.5
+|87,756
+|96.1
+|3,595
+|3.9
+|-
+| align="left" |Durazno
+|17,160
+|40.6
+| style="background:{{party color|National Party (Uruguay)}}" |23,581
+| style="background:{{party color|National Party (Uruguay)}}" |55.7
+|40,741
+|96.3
+|1,558
+|3.7
+|-
+| align="left" |Flores
+|7,477
+|38.1
+| style="background:{{party color|National Party (Uruguay)}}" |11,253
+| style="background:{{party color|National Party (Uruguay)}}" |57.3
+|18,730
+|95.4
+|893
+|4.6
+|-
+| align="left" |Florida
+|22,196
+|43.5
+| style="background:{{party color|National Party (Uruguay)}}" |26,612
+| style="background:{{party color|National Party (Uruguay)}}" |52.2
+|48,808
+|95.7
+|2,209
+|4.3
+|-
+| align="left" |Lavalleja
+|16,664
+|35.8
+| style="background:{{party color|National Party (Uruguay)}}" |27,928
+| style="background:{{party color|National Party (Uruguay)}}" |60.0
+|44,592
+|95.8
+|1,945
+|4.2
+|-
+| align="left" |Maldonado
+|50,314
+|46.4
+| style="background:{{party color|National Party (Uruguay)}}" |53,110
+| style="background:{{party color|National Party (Uruguay)}}" |48.9
+|103,424
+|95.3
+|5,103
+|4.7
+|-
+| align="left" |Montevideo
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |552,578
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |59.8
+|332,232
+|35.9
+|884,810
+|95.7
+|39,451
+|4.3
+|-
+| align="left" |Paysandú
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |39,123
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |48.9
+|37,865
+|47.3
+|76,988
+|96.2
+|3,018
+|3.8
+|-
+| align="left" |Rio Negro
+|17,263
+|45.8
+| style="background:{{party color|National Party (Uruguay)}}" |18,899
+| style="background:{{party color|National Party (Uruguay)}}" |50.2
+|36,162
+|96.0
+|1,522
+|4.0
+|-
+| align="left" |Rivera
+|29,677
+|41.0
+| style="background:{{party color|National Party (Uruguay)}}" |39,930
+| style="background:{{party color|National Party (Uruguay)}}" |55.2
+|69,607
+|96.2
+|2,764
+|3.8
+|-
+| align="left" |Rocha
+|24,107
+|45.5
+| style="background:{{party color|National Party (Uruguay)}}" |26,252
+| style="background:{{party color|National Party (Uruguay)}}" |49.5
+|50,359
+|95.0
+|2,640
+|5.0
+|-
+| align="left" |Salto
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |44,375
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |52.0
+|37,944
+|44.5
+|82,319
+|96.5
+|2,985
+|3.5
+|-
+| align="left" |San Jose
+|33,644
+|47.1
+|style="background:{{party color|National Party (Uruguay)}}" |34,866
+|style="background:{{party color|National Party (Uruguay)}}" |48.8
+|68,510
+|95.9
+|2,953
+|4.1
+|-
+| align="left" |Soriano
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |30,521
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |48.9
+|29,164
+|46.7
+|59,685
+|95.5
+|2,784
+|4.5
+|-
+| align="left" |Tacuarembó
+|27,191
+|40.5
+| style="background:{{party color|National Party (Uruguay)}}" |37,627
+| style="background:{{party color|National Party (Uruguay)}}" |56.1
+|64,818
+|96.6
+|2,298
+|3.4
+|-
+| align="left" |Treinta y Tres
+|15,434
+|42.2
+| style="background:{{party color|National Party (Uruguay)}}" |19,875
+| style="background:{{party color|National Party (Uruguay)}}" |54.3
+|35,309
+|96.4
+|1,301
+|3.6
+|- style="background:#CDCDCD;"
+| align="left" | '''Total'''
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |'''1,197,638'''
+| style="background:{{party color|Broad Front (Uruguay)}}; color:white;" |'''52.39'''
+|'''994,510'''
+|'''43.51'''
+|'''2,192,148'''
+|'''95.9'''
+|'''93,810'''
+|'''4.10'''
+|-
+! colspan="9" |
+|-
+! colspan="9" style="text-align:left; font-weight:normal; background:#F9F9F9" | Source: [https://www.corteelectoral.gub.uy/estadisticas/estadisticas/estadisticas Corte Electoral]
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+
+{{Uruguayan elections}}
+
+[[Category:2009 elections in South America|Uruguay]]
+[[Category:2009 in Uruguay|General election]]
+[[Category:Parliamentary elections in Uruguay]]
+[[Category:Presidential elections in Uruguay]]
+[[Category:October 2009 in South America|Uruguay]]
+[[Category:November 2009 in South America|Uruguay]]
+<!-- as follows, notable politicians who were relevant for this election -->
+[[Category:José Mujica]]
+[[Category:Luis Alberto Lacalle]]

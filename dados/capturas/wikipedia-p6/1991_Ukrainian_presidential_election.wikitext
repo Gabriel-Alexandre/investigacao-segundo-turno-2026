@@ -1,0 +1,453 @@
+{{Short description|First  Ukrainian presidential election}}
+{{Use British English|date=June 2026}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox election
+| country = Ukraine
+| flag_year = 1991
+| type = presidential
+| next_election = 1994 Ukrainian presidential election
+| next_year = 1994
+| election_date = 1 December 1991
+| turnout = 84.18%
+
+| image1 = НДУ 1 Кравчук Леонід Макарович.jpg
+| nominee1 = '''[[Leonid Kravchuk]]'''
+| party1 = Independent politician
+| popular_vote1 = '''19,643,481'''
+| percentage1 = '''61.59%'''
+
+| image2 = НДУ 2 Чорновіл Вячеслав Максимович.jpg
+| nominee2 = [[Viacheslav Chornovil]]
+| party2 = People's Movement of Ukraine
+| popular_vote2 = 7,420,727
+| percentage2 = 23.27%
+
+| map_image = 1991 Ukrainian presidential election.svg
+| map_caption = Results by oblast
+| title = President
+| before_election = [[Leonid Kravchuk]] (acting)
+| before_party = Independent politician
+| after_election = [[Leonid Kravchuk]]
+| after_party = Independent politician
+}}
+[[Ukrainian presidential elections|Presidential elections]] were held in [[Ukraine]] on 1 December 1991. [[Leonid Kravchuk]], the [[chairman of the Verkhovna Rada]] and ''de facto'' incumbent head of state, won with 61.6% of the vote, defeating five candidates from the pro-independence [[National Democracy (Ukraine)|national democratic]] opposition [[Democratic Bloc (Ukraine)|Democratic Bloc]]. Kravchuk, a [[national communism|national communist]], linked his campaign to the concurrent [[1991 Ukrainian independence referendum|independence referendum]], which was supported by 90% of voters.
+
+Communist hardliners, previously dominant in Ukraine's politics, were weakened after [[Mikhail Gorbachev]]'s rise to power and the [[Chornobyl disaster]]. From 1989 to 1991, the pro-independence [[People's Movement of Ukraine]] (abbreviated ''Rukh'') emerged, consolidating Ukraine's [[Soviet dissidents]] behind a united political force. The [[Communist Party of Ukraine (Soviet Union)|Communist Party of Ukraine]], meanwhile, was divided between national communists (led by Kravchuk) and hardliners. Independence was the main issue during the election, and all candidates supported Ukraine's independence from the [[Soviet Union]] following the [[1991 Soviet coup attempt|1991 coup attempt]].
+
+During the election, the opposition was divided, as supporters of ex-political prisoner [[Levko Lukianenko]] rejected dissident leader [[Viacheslav Chornovil]] as ''Rukh''{{'}}s candidate. Kravchuk, the sole leftist candidate, utilised state media to his advantage, and was accused by the opposition of receiving disproportionate press coverage. He was further bolstered by his effective incumbency and an informal coalition of ''nomenklatura'' elites, collective farm bosses and ethnic minorities. Kravchuk's main opponent, Chornovil, campaigned on privatisation and a federal system of government. The election was largely [[free and fair election|free and fair]], and Kravchuk won in all regions of the country besides the western [[Galicia (Eastern Europe)|Galicia]].
+
+== Background ==
+{{main|1989–1991 Ukrainian revolution|dissolution of the Soviet Union}}
+The [[Communist Party of Ukraine (Soviet Union)|Communist Party]]'s rule over Ukraine, dominated by hardline leader [[Volodymyr Shcherbytsky]], began to weaken following [[Mikhail Gorbachev]]'s rise to power in 1985 and the [[Chornobyl disaster]] a year later. Such factors strengthened Ukraine's [[Soviet dissidents]],{{efn|Due to their support for [[Ukrainian nationalism]], [[human rights]] and democracy, the ideology of Ukrainian dissidents is primarily referred to as [[National Democracy (Ukraine)|National Democracy]], and its supporters as national democrats.{{sfn|D'Anieri|Kravchuk|Kuzio|1999|p=20}}}} and by 1988 the [[Ukrainian Helsinki Union]] ({{langx|uk|Українська Гельсінська спілка|translit=Ukrainska Helsinksa spilka|engvar=gb}}, abbreviated UHS) had come into existence as an informal political party uniting a variety of dissident groups. The formation of the UHS was opposed by Shcherbytsky, who accused members of the party of engaging in [[anti-Soviet agitation]]. From 1989, protest movements increasingly gained strength, primarily focusing on environmentalism and preservation of the [[Ukrainian language]] and culture against [[Russification]]. The [[People's Movement of Ukraine]] ({{langx|uk|Народний Рух України|translit=Narodnyi Rukh Ukrainy|engvar=gb|link=no}}, commonly known simply as ''Rukh'') was formed in February of that year by a group of intellectuals, and successfully consolidated the dissident movement behind a singular organisation. Student protests on [[Kyiv]]'s October Revolution Square (now [[Maidan Nezalezhnosti]]), later known as the [[Revolution on Granite]], further encouraged opposition to the Communist Party and support for Ukraine's independence.{{sfn|Marples|2019|pp=322–324}}
+
+Shcherbytsky retired from office in autumn 1989 and was replaced by [[Vladimir Ivashko]], who left office six months later to become an adviser to Gorbachev.{{sfn|Marples|2019|p=322}} As a result, the positions of [[First Secretary of the Communist Party of Ukraine|First Secretary]] and [[Chairman of the Verkhovna Rada|Chairman of the Supreme Soviet]] were split between conservative hardliner [[Stanislav Hurenko]] and [[Leonid Kravchuk]], a [[national communism|national communist]]. Shcherbytsky's fall from power resulted in the dissidents increasingly embracing Ukrainian independence, which, as a result of Gorbachev's policies of ''[[glasnost]]'' and increased powers for the [[republics of the Soviet Union|republics]], was eventually embraced by the national communists in 1991. The August [[1991 Soviet coup attempt]] and its failure resulted in an effective collapse of support for retaining the Soviet Union among even conservative communists, who increasingly saw independence as an inevitability and supporting it as necessary to retain political power.{{sfn|D'Anieri|Kravchuk|Kuzio|1999|pp=23–25}}
+
+The [[Supreme Soviet of the Ukrainian Soviet Socialist Republic]] passed a resolution in June 1991 establishing the office of [[President of Ukraine]]. On 5 July a law was passed providing for elections to the office on 1 December. While the campaign formally began on 5 July with the establishment of regulations around campaign advertisements, it effectively did not start until September 1991, after the adoption of the [[Declaration of Independence of Ukraine]] following the failure of the coup attempt.{{sfn|Zolotariova|2021}}
+
+== Campaign ==
+{| class="wikitable" style="margin-left:auto; margin-right:auto;"
+|+ Polls during the campaign<br/>(as compiled by Potichnyj 1991){{sfn|Potichnyj|1991|p=136}}
+|-
+! width="90" | Date
+! Kravchuk
+! Chornovil
+! Lukianenko
+! Hrynyov
+! Yukhnovskyi
+|-
+| September 1991 || |32.7 || 8.1 || 2.6 || {{N/a}} || 6.8
+|-
+| October 1991 || |38.3 || 14.5 || 3.9 || 3.2 || 4.2
+|-
+| 1 December 1991 (results) || |61.6 || 23.3 || 4.5 || 4.2 || 1.7
+|}
+{{clear}}
+The primary issue during the election was Ukrainian independence. All candidates adopted pro-independence programmes in a reflection of popular support for ''Rukh'' and its two affiliates, the [[Democratic Party of Ukraine]] and the [[Ukrainian Republican Party]]. In an interview, Chornovil noted Kravchuk's embrace of ''Rukh'' policies, saying that the difference between their programmes was "Nothing[,] except that my programme is thirty years old, and Kravchuk's three weeks old".{{sfn|Kuzio|2000|p=63}} Besides independence, the other issues debated by the candidates were whether [[federalism]] should be adopted, as well as the pace of market reforms. Most candidates favoured the adoption of a federal system consisting of multiple 'lands' ({{langx|uk|землі|translit=zemli|engvar=gb|link=no}}); Kravchuk, on the contrary, favoured maintenance of a centralised state with 12 self-governing economic regions.{{sfn|Commission on Security and Cooperation in Europe|1992|p=4}} Political scientist [[Peter Potichnyj]] argues that the election was "for all candidates a single issue campaign" focused on affirming the referendum, benefiting Kravchuk.{{sfn|Potichnyj|1991|p=135}}
+
+Two of the candidates contesting the election ([[Viacheslav Chornovil]] and [[Levko Lukianenko]]) had been political prisoners,{{sfn|Commission on Security and Cooperation in Europe|1992|p=3}} and all five besides Kravchuk were associated with the national-democratic [[Democratic Bloc (Ukraine)|Democratic Bloc]] faction. In contrast to Kravchuk, none of the opposition candidates possessed name recognition or Kravchuk's organisation; Political scientist [[Taras Kuzio]] notes that each candidate sought to act as a representative of the Democratic Bloc, but that the uncoordinated decision by all five candidates to launch their own campaigns was "collectively disastrous".{{sfn|Kuzio|2000|p=195}}
+
+In contrast to Kravchuk, who consolidated the left behind his candidacy, the opposition was marked by infighting over the selection of a candidate. Chornovil emerged as Kravchuk's main opponent,{{sfn|D'Anieri|Kravchuk|Kuzio|1999|p=27}} and was endorsed by the ''Rukh''.{{sfn|Potichnyj|1991|p=127}} The Grand Council of ''Rukh'' initially, upon the agreement of Chornovil and Lukianenko, held a vote in September to determine who the organisation's candidate would be in the election, with all other candidates dropping out. Three candidates participated in the election: Chornovil, Lukianenko and academic [[Ihor Yukhnovskyi]]. After Chornovil was voted as ''Rukh''{{'}}s candidate, head of the ''Rukh'' secretariat [[Mykhailo Horyn]] (a supporter of Lukianenko) rejected the decision of the Grand Council.{{sfn|Ponamarchuk|2016}} The Grand Council issued a directive permitting local branches to endorse any opposition candidate on 1 September; as a result, the organisation was thrown into further chaos.{{sfn|Kuzio|2000|p=195}} Both Chornovil and Lukianenko received support from the [[Crimean Tatars|Crimean Tatar]] community, with leader [[Mustafa Dzhemilev]] saying that "''Rukh'' supports the Tatars and we do not want border changes".{{sfn|Potichnyj|1991|p=127}}
+
+=== Kravchuk ===
+[[File:President George H. W. Bush and President Leonid Kravchuk of the Ukraine sign Agreements in an East Room Ceremony.jpg|thumb|alt=Leonid Kravchuk and George H. W. Bush signing documents at a table. They are flanked by the flags of Ukraine and the United States.|[[Leonid Kravchuk]] (left) and US president [[George H. W. Bush]], 1992. Kravchuk's frequent meetings with foreign leaders led voters to view him as a symbol of stability.]]
+Chairman of the Verkhovna Rada{{sfn|Commission on Security and Cooperation in Europe|1992|p=3}} [[Leonid Kravchuk]] was the sole left-wing candidate in the election.{{sfn|Kuzio|2000|p=195}}{{sfn|Wilson|2022|p=169}} He was supported by the [[Socialist Party of Ukraine]] (the legal successor to the Communist Party), as well as the [[Donetsk Oblast]] branch of ''Rukh''. Minister of Agriculture [[Oleksandr Tkachenko (politician, born 1939)|Oleksandr Tkachenko]], initially the seventh candidate on the ballot, dropped out and endorsed Kravchuk's campaign.{{sfn|Kuzio|2000|p=195}}
+
+Kravchuk's campaign lacked a singular policy programme, instead issuing multiple, often differing statements. He most frequently focused on a slogan of five 'D's: state, democracy, prosperity, spirituality and trust.{{efn|{{langx|uk|Держава, демократія, достаток, духовність, довіра|translit=Derzhava, demokratiia, dostatok, dukhovnist, dovira|engvar=gb|link=no}}.}} These points represented the supremacy of human rights in the state, a "socially-oriented economy", continuing Ukrainian cultural development and improving [[public trust]].{{sfn|Zolotariova|2021}} Kravchuk's campaign was broadly conservative.{{sfn|Andrusechko|2010|p=29}}
+
+Kravchuk received support from state media, including television and radio services and newspapers.{{sfn|Karatnycky|2024|p=9}} [[Les Tanyuk]], a member of Chornovil's campaign staff, alleged that 62% of all television and radio airtime went to Kravchuk and Tkachenko. Paper was also supplied to pro-government newspapers to benefit Kravchuk's campaign; the independent ''[[Evening Kyiv]]'', by contrast, was printed in a large double-page [[broadsheet]] size. Kravchuk's usage of mass media appealed most to the less-educated; he was additionally supported by [[kolkhoz]] chairmen, who maintained political control over rural Ukraine, the ''[[nomenklatura]]'', state-backed trade unions and non-ethnic Ukrainians.{{sfn|Kuzio|2000|pp=196–198}}
+
+Kravchuk's campaign was benefited by his ''de facto'' incumbency (demonstrated by his frequent meetings with international leaders) and name recognition, which enabled voters to see him as symbolic of stability in the otherwise-chaotic environment of the Soviet Union's dissolution. He did not significantly engage in the election or discuss other issues besides Ukrainian independence, instead committing most of his energy to the referendum.{{sfn|Potichnyj|1991|pp=135–136}} According to Kuzio, Kravchuk's campaign for the presidency sought to make itself "indistinguishable" from the independence referendum and coopt the national democrats' messaging in order to stifle the opposition campaigns.{{sfn|Kuzio|2000|pp=194–195}}
+
+=== Chornovil ===
+[[File:Chornovil5.JPG|thumb|left|alt=A crowd of people wearing suits and traditional Ukrainian clothing waves Ukrainian flags at a demonstration|[[Viacheslav Chornovil]] at a rally for the [[People's Movement of Ukraine]] in [[Kryvyi Rih]], 1990. Chornovil travelled throughout southern and eastern Ukraine both to support his presidential campaign and the [[1991 Ukrainian independence referendum|independence referendum]].]]
+Former political prisoner, chairman of the [[Lviv Oblast Council]] and People's Deputy{{sfn|Commission on Security and Cooperation in Europe|1992|p=3}} [[Viacheslav Chornovil]] was Kravchuk's primary opponent in the election. He was formally supported by ''Rukh'' and used the organisation's resources both to support his candidacy and the referendum, travelling throughout Ukraine to advocate for an independent and democratic Ukraine.{{sfn|Commission on Security and Cooperation in Europe|1992|p=5}} Chornovil's campaign was boosted in western [[Galicia (Eastern Europe)|Galicia]] (particularly [[Lviv Oblast]]) by a [[favourite son]] effect due to his chairmanship of the Lviv Oblast Council.{{sfn|Potichnyj|1991|p=134}} He further polled as defeating Kravchuk in [[Rivne Oblast|Rivne]], [[Volyn Oblast|Volyn]] and [[Khmelnytskyi Oblast|Khmelnytskyi]] oblasts. In the final results, however, Chornovil was defeated by Kravchuk in all three regions.{{sfn|Potichnyj|1991|p=136}}
+
+Chornovil's campaign largely focused on securing independence and undertaking major socioeconomic reforms, including [[privatisation]] of state assets. Chornovil described his programme as largely identical to that of Kravchuk, saying that while he had formulated his political views over the past thirty years, Kravchuk had only recently begun to embrace the same attitudes. Other positions included environmental protections, strengthening the power of trade unions, establishment of [[national personal autonomy]] for ethnic minorities and Ukrainian membership in both post-Soviet and European international organisations (including a hypothesised pan-European mutual defence pact).{{sfn|Zolotariova|2021}} He advocated for the federalisation of Ukraine into ten lands corresponding to Galicia and the historic [[governorate (Russia)|governorate]]s of the [[Ukrainian People's Republic]], with Crimea being either an independent state or an autonomous region.{{sfn|Riabinin|2021|p=90}}
+
+In contrast to Kravchuk's statesmanlike demeanour, Chornovil's behaviour was recognised by the US [[Commission on Security and Cooperation in Europe]] as "emotional and sometimes impulsive", something that had enabled his success as a dissident leader but appeared to some voters as unpresidential.{{sfn|Commission on Security and Cooperation in Europe|1992|p=4}} Chornovil's statements, such as those promising economic stability within half a year of his election, were dismissed by Kravchuk's campaign as impossible, and his foreign policy views drew the ire of voters who favoured maintaining close ties with Russia.{{sfn|Marples|2019|pp=334–335}} Speaking to former [[Radio Free Europe]] director George Urban, Chornovil argued that he could have won with an additional six months of campaigning. Prior to the election, Chornovil expressed hope for a second round of voting in which he would be able to defeat Kravchuk.{{sfn|Urban|1992|p=40}}
+
+=== Lukianenko ===
+[[File:Л.Лук’яненко та В.Кобзар на зустрічі з українцями, 8 вер 1991.jpg|thumb|alt=An image of two men at a rally. On the left, a man speaks into a speaker. The second man stands next to him, holding flowers.|[[Levko Lukianenko]] (right) at a campaign rally in [[Pyriatyn]], 8 September]]
+In contrast to other opposition candidates, People's Deputy and ex-political prisoner{{sfn|Commission on Security and Cooperation in Europe|1992|p=3}} [[Levko Lukianenko]] ran a populist campaign. He was supported by the [[Ukrainian Republican Party]], being one of only two candidates (alongside Hrynyov) fielded by a party. Some ''Rukh''-supporting members of the ''nomenklatura'', such as [[Ivan Drach]], and the secretariat of ''Rukh'' (headed by URP member [[Mykhailo Horyn]]) supported Lukianenko's candidacy.{{sfn|Kuzio|2000|p=195}} Lukianenko's programme argued that Ukraine could become a "developed European state" within five years through strengthening environmental protections, improving human rights through increased integration with international organisations and increased funding for education.{{sfn|Zolotariova|2021}}
+
+{{ill|Mykola Kulchynskyi|uk|Кульчинський Микола Георгійович}}, a dissident and People's Deputy who supported Chornovil, accused Lukianenko of refusing to drop out in order to benefit Kravchuk.{{sfn|Kulchynskyi|2023}} Lukianenko was known among the intelligentsia and in urban areas but otherwise lacked name recognition, and his campaign was hampered by organisational difficulties.{{sfn|Potichnyj|1991|p=137}} Much like Chornovil (but to a greater extent), Lukianenko's campaign was also hampered by his known anti-Russian views, with voters feeling that Russian opposition to Ukrainian independence would lead to the annexation of Crimea and eastern Ukraine.{{sfn|Marples|2019|pp=335–336}} Lukianenko was endorsed by [[Prosvita]] and the Union of Ukrainian Students.{{sfn|Kuzio|2000|p=195}}
+
+=== Other candidates ===
+{{Multiple image
+| width             = 100
+| image1            = НДУ 1 Гриньов Володимир Борисович.jpg
+| caption1          = [[Volodymyr Hrynyov]]
+| image2            = НДУ 1 Юхновський Ігор Рафаїлович.jpg
+| caption2          = [[Ihor Yukhnovskyi]]
+| image3            = НДУ 1 Табурянський Леопольд Іванович.jpg
+| caption3          = [[Leopold Taburyanskyi]]
+}}
+Three other candidates contested the election: People's Deputy and academic [[Ihor Yukhnovskyi]], People's Deputy [[Volodymyr Hrynyov]] and businessman [[Leopold Taburyanskyi]]. All three were supporters of the democratic opposition.{{sfn|Birch|2000|p=77}} The [[Party of Democratic Revival of Ukraine]] had two candidates (Yukhnovskyi and Hrynyov), being the only other party besides the Republican Party to nominate a candidate.{{sfn|Kuzio|2000|p=195}}
+
+Yukhnovskyi had been leader of the Democratic Bloc in the Supreme Soviet, and was most popular in western Ukraine and in other centres of the intelligentsia (namely Kyiv and [[Odesa]]).{{sfn|Potichnyj|1991|p=137}} Political scientist [[Sarah Birch]] describes Yukhnovskyi as a liberal centrist, but notes that he was the more relatively inclined to national democracy of the PDRU's candidates.{{sfn|Birch|2000|p=77}} Yukhnovskyi's campaign was marked by unconventional advertising, including extensive usage of poetry in campaign adverts. During the campaign, Yukhnovskyi faced attacks from other candidates regarding his age; in response, he compared himself to US presidents [[Dwight D. Eisenhower]] and [[George H. W. Bush]] and French president [[François Mitterrand]]. He received endorsements from a variety of businessmen and public figures, including [[Pivdenmash]] director [[Leonid Kuchma]], [[Donetsk Metallurgical Plant]] director {{ill|Volodymyr Sliedniev|uk|Слєднєв Володимир Петрович}} and [[Petro Talanchuk]], rector of [[Kyiv Polytechnic Institute]].{{sfn|Zolotariova|2021}}
+
+Hrynyov was the only non-Ukrainian in the election. He had been a cofounder of the PDRU,{{sfn|Birch|2000|p=77}} During the election, he received support from some [[1990s Donbas miners' strikes|miners' strike committees]] in the Donbas, as well as the Russian [[Constitutional Democratic Party – Party of Popular Freedom]] and branches of the PDRU from eastern Ukraine.{{sfn|Kuzio|2000|p=195}} Hrynyov's campaign primarily argued for maintained ties with other post-Soviet states in order to improve economic performance, additionally campaigning on his status as the youngest candidate in the race.{{sfn|Zolotariova|2021}}
+
+Taburyanskyi was a member of the small [[People's Party of Ukraine (1991)|People's Party]], which largely emerged from the [[Ukrainian cooperative movement|cooperative movement]].{{sfn|Birch|2000|p=77}} He obtained ballot access through his position as head of the Olimp cooperative.{{sfn|Kuzio|2000|p=195}} Taburyanskyi was not included in election polls, and failed to accumulate support outside of his native [[Dnipropetrovsk Oblast]].{{sfn|Potichnyj|1991|pp=135–136}}
+
+Three other candidates (all from the opposition) also launched their candidacies, but failed to obtain the signatures required for ballot access: [[Yurii Shukhevych]] for the far-right [[Ukrainian National Assembly – Ukrainian People's Self-Defence|Ukrainian National Assembly]] (then known as the Inter-Party Assembly); [[Yuriy Shcherbak]] of the [[Party of Greens of Ukraine|Party of Greens]] and [[Volodymyr Pylypchuk]] of the [[Democratic Party of Ukraine|Democratic Party]].{{sfn|Kuzio|2000|p=195}}
+
+== Election ==
+Kravchuk had been expected to win in advance of the vote; Chornovil said on election day that "I will have won these elections no matter what happens, even if I don't become the president. The pre-election campaign gave me the opportunity to travel all over Ukraine, to meet the people, and to politicise the East".{{sfn|Potichnyj|1991|p=135}} At the time, the election was largely overshadowed by the concurrent [[1991 Ukrainian independence referendum|independence referendum]], in which 90.3% of voters confirmed Ukrainian independence.{{sfn|Andrusechko|2010|p=29}}
+
+Kravchuk decisively won the election in the first round with 61.59% of votes in favour. He won across all regions of Ukraine except in the Galician [[Ivano-Frankivsk Oblast|Ivano-Frankivsk]], [[Lviv Oblast|Lviv]] and [[Ternopil Oblast|Ternopil]] oblasts, where Chornovil won a majority of all votes. The closest results for Kravchuk were in [[Chernivtsi Oblast]], and in central, southern and eastern Ukraine results averaged 60–80% in favour of Kravchuk.{{sfn|Potichnyj|1991|pp=134–135}} Kravchuk voters closely followed general demographics of national communists, including residence in [[central Ukraine]], membership in the Communist Party and inclination towards the Russian language. Those from urban areas, Ukrainian speakers, and those from western and (to a lesser extent) eastern Ukraine were less likely to vote for Kravchuk.{{sfn|Birch|2000|pp=78–79}}
+
+Chornovil placed second at 23.27%.{{sfn|Lalpychak|1991}} Outside of Galicia and Chernivtsi Oblast, the best results for Chornovil came from [[Zakarpattia Oblast|Zakarpattia]], [[Kyiv Oblast|Kyiv]], [[Rivne Oblast|Rivne]], [[Cherkasy Oblast|Cherkasy]] and [[Volyn Oblast|Volyn]] oblasts, along with the city of Kyiv. His worst results, conversely, came from Crimea, [[Donetsk Oblast]] and [[Luhansk Oblast]].{{sfn|Potichnyj|1991|p=135}} The demographics of Chornovil's supporters were generally the inverse of those of Kravchuk's; Ukrainian speakers and non-members of the CPU were more likely to support Chornovil, as were residents of urban areas and western Ukrainians.{{sfn|Birch|2000|p=79}}
+
+The election was monitored by over 100 international observers, including five Canadian members of parliament, seven [[Member of the European Parliament|members of the European Parliament]] and [[Gert Weisskirchen]], a deputy of the German [[Bundestag]].{{sfn|Lalpychak|1991}} Unlike the [[1990 Ukrainian Supreme Soviet election|1990 Supreme Soviet election]], which had been neither free nor fair, the 1991 election was conducted in a professional manner, with relatively few election irregularities. The most frequent violations observed by the CSCE were voters being accompanied by other individuals in booths or voting for others by presenting the non-present individual's internal passport. In both cases, these irregularities usually involved voters' spouses. Other incidents occurred in small villages, where voters were not required to present identity documents before voting. A more serious incident occurred in [[Lviv]], where a vote counter marked two ballots as being cast for Chornovil rather than being invalid. Organised electoral violations primarily targeted ''Rukh''; Members of the Russian far-right group ''[[Pamyat]]'' were present in [[Kharkiv]] to prevent the distribution of electoral material from Chornovil's campaign and encourage a boycott of the election. Supporters of Chornovil were also attacked in Kharkiv, and ''Rukh'' reported that its observers were not permitted to monitor the election or attacked in southern and eastern Ukraine.{{sfn|Commission on Security and Cooperation in Europe|1992|p=7}}
+
+== Impact ==
+Kravchuk was inaugurated as president of Ukraine four days after his election. Bolstered by the results of the presidential election and the referendum, he travelled to [[Białowieża Forest]] to conduct [[Belovezha Accords|negotiations]] with leaders of Russia and Belarus [[Boris Yeltsin]] and [[Stanislav Shushkevich]], rejecting Russian attempts to maintain control of Ukraine in the format of the [[Commonwealth of Independent States]]. Kravchuk's presidency was marked by nation-building and continued liberalisation, as well as the continued dominance of former communists, a lack of economic reforms and Western financial aid, and [[hyperinflation]].{{sfn|Karatnycky|2024|pp=9–15}}
+
+Following Chornovil's defeat, ''Rukh'' was marked by a split between those who saw the organisation's role as providing support to Kravchuk's presidential agenda from the right (such as [[Ivan Drach]] and [[Mykhailo Horyn]]) and supporters of Chornovil, who envisioned ''Rukh'' surviving as an opposition movement with Chornovil as its leader.{{sfn|Potichnyj|1991|p=138}} The organisation averted a split at its {{ill|Third Congress of the People's Movement of Ukraine|lt=Third Congress|uk|III З'їзд Народного Руху України}} in February 1992 by electing Chornovil, Drach and Horyn as co-chairs in an effort to negotiate a compromise; however, by the time of the {{ill|Fourth Congress of the People's Movement of Ukraine|lt=Fourth Congress|uk|IV З'їзд Народного Руху України}} in December of the same year, Chornovil's faction succeeded, transforming ''Rukh'' into a centre-right political party.{{sfn|Kulchytskyi|2020}}
+
+Kravchuk's victory in the presidential election, coupled with the [[dissolution of the Soviet Union]], marked a significant change in politics. As Lukianenko noted after the election, in contrast to the period before the coup attempt, when Ukraine was part of the Soviet Union and lacked an independent state, "after 24 August we must raise ourselves to the same level [as the state], cooperate with it, defend it against external enemies and fifth columns". The threat of renewed aggression from Russia led many national democrats to cooperate with former communists out of a shared belief (as noted by dissident [[Yuriy Badzyo]]) that the intelligentsia lacked the capacity to govern on its own. In what Wilson terms a "grand bargain", the national democrats were forced into an informal coalition with the business and former party elites of the ''nomenklatura'', accepting important ministries and working together to keep the left out of power in return for a position as lesser partners under a [[corporatocracy]].{{sfn|Wilson|2022|pp=173–176}} Political analyst [[Mykola Riabchuk]] likewise describes post-1991 Ukraine as a "hybrid state", with particular focus on the continued institutional dominance of former communists and the survival of Soviet cultural identities alongside their post-Soviet equivalents.{{sfn|Riabchuk|2015|p=143}}
+
+== Results ==
+{{Election results
+|cand1=[[Leonid Kravchuk]]|party1=[[Independent politician|Independent]]|votes1=19643481
+|cand2=[[Viacheslav Chornovil]]|party2=[[People's Movement of Ukraine]]|votes2=7420727
+|cand3=[[Levko Lukianenko]]|party3=[[Ukrainian Republican Party]]|votes3=1432556
+|cand4=[[Volodymyr Hrynyov]]|party4=[[Party of Democratic Revival of Ukraine]]|votes4=1329758
+|cand5=[[Ihor Yukhnovskyi]]|party5=Party of Democratic Revival of Ukraine|votes5=554719
+|cand6=[[Leopold Taburyanskyi]]|party6=[[People's Party of Ukraine (1991)|People's Party of Ukraine]]|votes6=182713|color6=#F8D612
+|row7= Against all and invalid votes|votes7=1327788
+|totalvotes = 31891742
+|electorate=37885555
+|source=Nohlen & Stöver{{sfn|Nohlen|Stöver|2010|p=1993}}
+}}
+
+{{Bar box
+| title = Results by candidate
+| bars = {{Bar percent|Kravchuk|{{Party colour|Independent politician}}|61.6}}
+{{Bar percent|Chornovil|{{Party colour|People's Movement of Ukraine}}|23.3}}
+{{Bar percent|Lukianenko|{{Party colour|Ukrainian Republican Party}}|4.5}}
+{{Bar percent|Hrynyov|{{Party colour|Party of Democratic Revival of Ukraine}}|4.2}}
+{{Bar percent|Yukhnovskyi|{{Party colour|Party of Democratic Revival of Ukraine}}|1.7}}
+{{Bar percent|Taburyanskyi|{{party colour|People's Party of Ukraine (1991)}}|0.6}}
+}}
+
+{| class="wikitable sortable" style="text-align:right"
+|+ Election results by [[administrative divisions of Ukraine|region]], percentages{{sfn|Kuzio|2000|p=200}}
+|-
+! |
+! align="center" | Leonid Kravchuk
+! align="center" | Viacheslav Chornovil
+! align="center" | Levko Lukianenko
+! align="center" | Volodymyr Hrynyov
+! align="center" | Ihor Yukhnovskyi
+! align="center" | Leopold Taburyanskyi
+|-
+! align="center" | Region
+! style="text-align:center;" data-sort-type="number" | Votes (%)
+! style="text-align:center;" data-sort-type="number" | Votes (%)
+! style="text-align:center;" data-sort-type="number" | Votes (%)
+! style="text-align:center;" data-sort-type="number" | Votes (%)
+! style="text-align:center;" data-sort-type="number" | Votes (%)
+! style="text-align:center;" data-sort-type="number" | Votes (%)
+|-{{party shading/Independent}}
+| style="text-align:center;" | [[Crimean Autonomous Soviet Socialist Republic (1991-1992)|Crimea]]
+| style="text-align:right" | 56.7 <!-- Kravchuk -->
+| style="text-align:right" | 5.0 <!-- Chornovil -->
+| style="text-align:right" | 1.9 <!-- Lukianenko -->
+| style="text-align:right" | 9.4 <!-- Hrynyov -->
+| style="text-align:right" | 0.9 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.9 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+| style="text-align:center;" | [[Vinnytsia Oblast|Vinnytsia]]
+| style="text-align:right" | 72.3 <!-- Kravchuk -->
+| style="text-align:right" | 18.3 <!-- Chornovil -->
+| style="text-align:right" | 3.3 <!-- Lukianenko -->
+| style="text-align:right" | 1.4 <!-- Hrynyov -->
+| style="text-align:right" | 1.6 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.4 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+| style="text-align:center;" | [[Volyn Oblast|Volyn]]
+| style="text-align:right" | 52.9 <!-- Kravchuk -->
+| style="text-align:right" | 31.4 <!-- Chornovil -->
+| style="text-align:right" | 8.9 <!-- Lukianenko -->
+| style="text-align:right" | 0.8 <!-- Hrynyov -->
+| style="text-align:right" | 3.3 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.3 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+| style="text-align:center;" | [[Dnipropetrovsk Oblast|Dnipropetrovsk]]
+| style="text-align:right" | 69.7 <!-- Kravchuk -->
+| style="text-align:right" | 18.2 <!-- Chornovil -->
+| style="text-align:right" | 2.5 <!-- Lukianenko -->
+| style="text-align:right" | 3.2 <!-- Hrynyov -->
+| style="text-align:right" | 1.9 <!-- Yukhnovskyi -->
+| style="text-align:right" | 1.9 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Donetsk Oblast|Donetsk]]
+| style="text-align:right" | 71.5 <!-- Kravchuk -->
+| style="text-align:right" | 9.7 <!-- Chornovil -->
+| style="text-align:right" | 3.1 <!-- Lukianenko -->
+| style="text-align:right" | 11.0 <!-- Hrynyov -->
+| style="text-align:right" | 0.9 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.7 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Zhytomyr Oblast|Zhytomyr]]
+| style="text-align:right" | 77.6 <!-- Kravchuk -->
+| style="text-align:right" | 13.4 <!-- Chornovil -->
+| style="text-align:right" | 3.3 <!-- Lukianenko -->
+| style="text-align:right" | 1.1 <!-- Hrynyov -->
+| style="text-align:right" | 1.1 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.4 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Zakarpattia Oblast|Zakarpattia]]
+| style="text-align:right" | 58.0 <!-- Kravchuk -->
+| style="text-align:right" | 27.6 <!-- Chornovil -->
+| style="text-align:right" | 5.0 <!-- Lukianenko -->
+| style="text-align:right" | 1.3 <!-- Hrynyov -->
+| style="text-align:right" | 2.8 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.4 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Zaporizhzhia Oblast|Zaporizhzhia]]
+| style="text-align:right" | 74.7 <!-- Kravchuk -->
+| style="text-align:right" | 13.0 <!-- Chornovil -->
+| style="text-align:right" | 3.1 <!-- Lukianenko -->
+| style="text-align:right" | 3.9 <!-- Hrynyov -->
+| style="text-align:right" | 1.3 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.7 <!-- Taburyanskyi -->
+|-style="background:#5EC0ED"
+|  style="text-align:center;" | [[Ivano-Frankivsk Oblast|Ivano-Frankivsk]]
+| style="text-align:right" | 13.7 <!-- Kravchuk -->
+| style="text-align:right" | 67.1 <!-- Chornovil -->
+| style="text-align:right" | 11.6 <!-- Lukianenko -->
+| style="text-align:right" | 0.6 <!-- Hrynyov -->
+| style="text-align:right" | 3.3 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.1 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Kyiv Oblast|Kyiv]]
+| style="text-align:right" | 66.0 <!-- Kravchuk -->
+| style="text-align:right" | 21.2 <!-- Chornovil -->
+| style="text-align:right" | 5.6 <!-- Lukianenko -->
+| style="text-align:right" | 1.7 <!-- Hrynyov -->
+| style="text-align:right" | 1.5 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.5 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Kirovohrad Oblast|Kirovohrad]]
+| style="text-align:right" | 74.8 <!-- Kravchuk -->
+| style="text-align:right" | 13.6 <!-- Chornovil -->
+| style="text-align:right" | 3.5 <!-- Lukianenko -->
+| style="text-align:right" | 1.7 <!-- Hrynyov -->
+| style="text-align:right" | 1.1 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.6 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Luhansk Oblast|Luhansk]]
+| style="text-align:right" | 76.2 <!-- Kravchuk -->
+| style="text-align:right" | 9.9 <!-- Chornovil -->
+| style="text-align:right" | 2.0 <!-- Lukianenko -->
+| style="text-align:right" | 6.8 <!-- Hrynyov -->
+| style="text-align:right" | 0.7 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.5 <!-- Taburyanskyi -->
+|-style="background:#5EC0ED"
+|  style="text-align:center;" | [[Lviv Oblast|Lviv]]
+| style="text-align:right" | 11.6 <!-- Kravchuk -->
+| style="text-align:right" | 75.9 <!-- Chornovil -->
+| style="text-align:right" | 4.7 <!-- Lukianenko -->
+| style="text-align:right" | 0.8 <!-- Hrynyov -->
+| style="text-align:right" | 4.4 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.2 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Mykolaiv Oblast|Mykolaiv]]
+| style="text-align:right" | 72.3 <!-- Kravchuk -->
+| style="text-align:right" | 15.1 <!-- Chornovil -->
+| style="text-align:right" | 2.3 <!-- Lukianenko -->
+| style="text-align:right" | 5.6 <!-- Hrynyov -->
+| style="text-align:right" | 0.7 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.4 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Odesa Oblast|Odesa]]
+| style="text-align:right" | 70.7 <!-- Kravchuk -->
+| style="text-align:right" | 12.8 <!-- Chornovil -->
+| style="text-align:right" | 2.8 <!-- Lukianenko -->
+| style="text-align:right" | 8.4 <!-- Hrynyov -->
+| style="text-align:right" | 1.1 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.5 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Poltava Oblast|Poltava]]
+| style="text-align:right" | 75.1 <!-- Kravchuk -->
+| style="text-align:right" | 13.6 <!-- Chornovil -->
+| style="text-align:right" | 4.2 <!-- Lukianenko -->
+| style="text-align:right" | 2.5 <!-- Hrynyov -->
+| style="text-align:right" | 1.3 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.6 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Rivne Oblast|Rivne]]
+| style="text-align:right" | 53.1 <!-- Kravchuk -->
+| style="text-align:right" | 25.6 <!-- Chornovil -->
+| style="text-align:right" | 13.4 <!-- Lukianenko -->
+| style="text-align:right" | 0.8 <!-- Hrynyov -->
+| style="text-align:right" | 3.6 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.4 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Sumy Oblast|Sumy]]
+| style="text-align:right" | 72.4 <!-- Kravchuk -->
+| style="text-align:right" | 14.7 <!-- Chornovil -->
+| style="text-align:right" | 3.9 <!-- Lukianenko -->
+| style="text-align:right" | 2.5 <!-- Hrynyov -->
+| style="text-align:right" | 1.8 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.5 <!-- Taburyanskyi -->
+|-style="background:#5EC0ED"
+|  style="text-align:center;" | [[Ternopil Oblast|Ternopil]]
+| style="text-align:right" | 16.8 <!-- Kravchuk -->
+| style="text-align:right" | 57.5 <!-- Chornovil -->
+| style="text-align:right" | 19.6 <!-- Lukianenko -->
+| style="text-align:right" | 0.4 <!-- Hrynyov -->
+| style="text-align:right" | 3.2 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.2 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Kharkiv Oblast|Kharkiv]]
+| style="text-align:right" | 60.9 <!-- Kravchuk -->
+| style="text-align:right" | 19.7 <!-- Chornovil -->
+| style="text-align:right" | 2.1 <!-- Lukianenko -->
+| style="text-align:right" | 11.0 <!-- Hrynyov -->
+| style="text-align:right" | 1.0 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.4 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Kherson Oblast|Kherson]]
+| style="text-align:right" | 70.2 <!-- Kravchuk -->
+| style="text-align:right" | 18.1 <!-- Chornovil -->
+| style="text-align:right" | 2.2 <!-- Lukianenko -->
+| style="text-align:right" | 3.3 <!-- Hrynyov -->
+| style="text-align:right" | 1.0 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.5 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Khmelnytskyi Oblast|Khmelnytskyi]]
+| style="text-align:right" | 75.5 <!-- Kravchuk -->
+| style="text-align:right" | 15.4 <!-- Chornovil -->
+| style="text-align:right" | 3.3 <!-- Lukianenko -->
+| style="text-align:right" | 1.2 <!-- Hrynyov -->
+| style="text-align:right" | 1.7 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.4 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Cherkasy Oblast|Cherkasy]]
+| style="text-align:right" | 67.1 <!-- Kravchuk -->
+| style="text-align:right" | 25.0 <!-- Chornovil -->
+| style="text-align:right" | 2.0 <!-- Lukianenko -->
+| style="text-align:right" | 1.4 <!-- Hrynyov -->
+| style="text-align:right" | 3.5 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.5 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Chernivtsi Oblast|Chernivtsi]]
+| style="text-align:right" | 43.6 <!-- Kravchuk -->
+| style="text-align:right" | 42.7 <!-- Chornovil -->
+| style="text-align:right" | 4.4 <!-- Lukianenko -->
+| style="text-align:right" | 1.4 <!-- Hrynyov -->
+| style="text-align:right" | 2.0 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.4 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Chernihiv Oblast|Chernihiv]]
+| style="text-align:right" | 74.2 <!-- Kravchuk -->
+| style="text-align:right" | 12.3 <!-- Chornovil -->
+| style="text-align:right" | 6.7 <!-- Lukianenko -->
+| style="text-align:right" | 1.5 <!-- Hrynyov -->
+| style="text-align:right" | 0.9 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.4 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Kyiv|Kyiv city]]
+| style="text-align:right" | 56.1 <!-- Kravchuk -->
+| style="text-align:right" | 26.7 <!-- Chornovil -->
+| style="text-align:right" | 6.4 <!-- Lukianenko -->
+| style="text-align:right" | 3.5 <!-- Hrynyov -->
+| style="text-align:right" | 3.5 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.5 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+|  style="text-align:center;" | [[Sevastopol]]
+| style="text-align:right" | 54.7 <!-- Kravchuk -->
+| style="text-align:right" | 10.9 <!-- Chornovil -->
+| style="text-align:right" | 1.8 <!-- Lukianenko -->
+| style="text-align:right" | 8.4 <!-- Hrynyov -->
+| style="text-align:right" | 0.9 <!-- Yukhnovskyi -->
+| style="text-align:right" | 0.8 <!-- Taburyanskyi -->
+|-{{party shading/Independent}}
+| style="text-align:center;" | [[Black Sea Fleet]]
+| style="text-align:right" | 74.4 <!-- Kravchuk -->
+| style="text-align:right" | 23.0 <!-- Chornovil -->
+| style="text-align:right" | 4.0 <!-- Lukianenko -->
+| style="text-align:right" | 6.0 <!-- Hrnyov -->
+| style="text-align:right" | 1.1 <!-- Yukhnovskyi -->
+| style="text-align:right" | 1.5 <!-- Taburyanskyi -->
+|-
+! TOTALS:
+! 61.6
+! 23.3
+! 4.5
+! 4.2
+! 1.7
+! 0.6
+|}
+
+== Notes ==
+{{noteslist}}
+
+== References ==
+{{reflist}}
+
+== Bibliography ==
+=== Books ===
+{{refbegin}}
+* {{Cite book |last1=D'Anieri |first1=Paul |author-link1=Paul D'Anieri  |title=Politics And Society In Ukraine |last2=Kravchuk |first2=Robert |author-link2=Robert Kravchuk |last3=Kuzio |first3=Taras |author-link3=Taras Kuzio |publisher=[[Westview Press]], [[Taylor and Francis]] |year=1999 |isbn=978-0-8133-3538-4 |location=New York and Abingdon, Oxon |lccn=99-30503}}
+* {{Cite book |last=Kuzio |first=Taras |title=Ukraine: Perestroika to Independence |publisher=[[Palgrave Macmillan]] |year=2000 |isbn=0-333-73983-3 |edition=2nd |location=Basingstoke and London |pages=273 |lccn=98007135}}
+* {{Cite book |last=Wilson |first=Andrew |author-link=Andrew Wilson (historian) |title=The Ukrainians: The Story of How a People Became a Nation |publisher=[[Yale University Press]] |year=2022 |isbn=978-0-300-27249-9 |edition=New |location=New Haven and London |pages=434 |lccn=2022943778}}
+* {{Cite book |last=Karatnycky |first=Adrian |title=Battleground Ukraine: From Independence to the War with Russia |publisher=[[Yale University Press]] |year=2024 |doi=10.12987/9780300277425 |isbn=978-0-300-26946-8 |jstor=jj.14962455 |location=New Haven and London |pages=346 |lccn=2023949848}}
+* {{Cite book |last=Riabinin |first=Yevhen |script-title=uk:Чорноволівські читання: Матеріали VII Всеукраїнської наукової конференції |date=27 March 2021 |publisher=Beskydy |editor-last=Derevinskyi |editor-first=Vasyl |location=Kyiv |pages=89–92 |language=uk |trans-title=Chornovil Readings: materials of the 7th all-Ukrainian scientific conference |chapter=Ідеї В.Чорновола стосовно державно-територіального устрою України |trans-chapter=V. Chornovil's ideas regarding the state and territorial structure of Ukraine}}
+* {{Cite book |last=Birch |first=Sarah |author-link=Sarah Birch |title=Elections and Democratization in Ukraine |publisher=Palgrave Macmillan |year=2000 |isbn=978-0-333-97731-6 |location=Basingstoke and London |pages=212 |doi=10.1057/9780333977316 |lccn=00024439}}
+* {{Cite book |last=Nohlen |first=Dieter |author-link=Dieter Nohlen |url=https://www.scienceopen.com/book?vid=da5d96c6-2042-4964-bfdc-a618d6f800e5 |title=Elections in Europe: A Data Handbook |last2=Stöver |first2=Philip |publisher=[[Nomos Publishing]] |year=2010 |isbn=978-3-8329-5609-7 |pages=2070 |doi=10.5771/9783845223414}}
+{{refend}}
+
+=== Journal articles ===
+{{refbegin}}
+* {{Cite journal |last=Marples |first=David R. |author-link=David R. Marples |date=September 2019 |title=Ukraine's drive to independence in 1991 |journal=[[Canadian Slavonic Papers]] |volume=61 |issue=3 |pages=321–345 |doi=10.1080/00085006.2019.1636629 |jstor=26774609}}
+* {{Cite journal |last=Riabchuk |first=Mykola |author-link=Mykola Riabchuk |date=22 April 2015 |title='Two Ukraines' Reconsidered: The End of Ukrainian Ambivalence? |journal=[[Studies in Ethnicity and Nationalism]] |volume=15 |issue=1 |pages=138–156 |doi=10.1111/sena.12120 |issn=1473-8481 |eissn=1754-9469}}
+* {{Cite journal |last=Potichnyj |first=Peter J. |author-link=Peter Potichnyj |date=June 1991 |title=The Referendum and Presidential Elections in Ukraine |journal=[[Canadian Slavonic Papers]] |publisher=[[Taylor & Francis]] |volume=33 |issue=2 |pages=123–138 |doi=10.1080/00085006.1991.11091956 |jstor=40869291}}
+* {{Cite journal |last=Andrusechko |first=Petro |date=2010 |script-title=uk:Президентські вибори по-українськи |trans-title=Presidential elections the Ukrainian way |url=https://ukrzurnal.eu/ukr.archive.html/842/ |url-status=live |journal=Ukrayinskyj žurnal |language=uk |volume=1 |issue=2010 |pages=29–31 |issn=1802-5862 |archive-url=https://web.archive.org/web/20240722144351/http://ukrzurnal.eu/ukr.archive.html/842/ |archive-date=22 July 2024 |access-date=6 June 2026}}
+* {{Cite journal |last=Urban |first=George |author-link=George Urban |date=Spring 1992 |title=The Awakening |journal=[[The National Interest]] |volume=27 |issue=Spring 1992 |pages=39–47 |issn=0884-9382 |eissn=1938-1573 |jstor=42896806}}
+{{refend}}
+
+=== Other sources ===
+{{refbegin}}
+* {{Cite web |last=Zolotariova |first=Yana |date=30 March 2021 |script-title=uk:Історія виборів: перші вибори Президента України |trans-title=History of elections: Ukraine's first presidential elections |url=https://oporaua.org/vybory/istoriia-viboriv-pershi-vibori-prezidenta-ukrayini-22947 |url-status=live |archive-url=https://web.archive.org/web/20260421015239/https://oporaua.org/vybory/istoriia-viboriv-pershi-vibori-prezidenta-u |archive-date=21 April 2026 |access-date=26 May 2026 |website=Opora |language=uk}}
+* {{Cite web |date=1992 |title=The December 1, 1991 Referendum/Presidential Election in Ukraine |url=https://www.csce.gov/wp-content/uploads/2016/06/120191UkraineReferendum.pdf |url-status=live |archive-url=https://web.archive.org/web/20260107210325/https://www.csce.gov/wp-content/uploads/2016/06/120191UkraineReferendum.pdf |archive-date=7 January 2026 |access-date=6 June 2026 |website=[[Commission on Security and Cooperation in Europe]] |pages=16 |ref={{sfnref|Commission on Security and Cooperation in Europe|1992}} }}
+* {{Cite web |last=Ponamarchuk |first=Dmytro |date=31 August 2016 |title= |script-title=uk:Як проукраїнські сили програли президентські вибори в 1991 році |trans-title=How pro-Ukrainian forces lost the presidential elections in 1991 |url=https://glavcom.ua/columns/d_ponomarchuk/yak-proukrajinski-sili-prograli-prezidentski-vibori-v-1991-roci-370028.html |url-status=live |archive-url=https://web.archive.org/web/20220330084451/https://glavcom.ua/columns/d_ponomarchuk/yak-proukrajinski-sili-prograli-prezidentski-vibori-v-1991-roci-370028.html |archive-date=30 March 2022 |access-date=6 June 2026 |website=Glavcom |language=uk}}
+* {{Cite news |last=Kulchynskyi |first=Mykola |date=25 August 2023 |script-title=uk:Агітаційна кампанія В'ячеслава Чорновола на Полтавщині 1991 року |trans-title=Viacheslav Chornovil's campaign in Poltavshchyna, 1991 |url=https://www.istpravda.com.ua/articles/2023/08/25/163059/ |url-status=live |archive-url=https://web.archive.org/web/20260505043359/https://www.istpravda.com.ua/articles/2023/08/25/163059/ |archive-date=5 May 2026 |access-date=6 June 2026 |work=[[Ukrainska Pravda|Istorychna Pravda]] |language=uk}}
+* {{Cite news |last=Lalpychak |first=Chrystyna |date=8 December 1991 |title=INDEPENDENCE: Over 90% vote yes in referendum; Kravchuk elected president of Ukraine |url=http://www.ukrweekly.com/old/archive/1991/499101.shtml |url-status=dead |archive-url=https://web.archive.org/web/20171019083729/http://www.ukrweekly.com/old/archive/1991/499101.shtml |archive-date=19 October 2017 |work=[[The Ukrainian Weekly]] |volume=LIX |issue=49 |issn=0273-9348}}
+* {{Cite web |last=Kulchytskyi |first=S. V. |date=2020 |editor-last=Dziuba |editor-first=I. M. |editor-link=Ivan Dziuba |editor2-last=Zhukovskyi |editor2-first=A. I. |editor3-last=Zhelezniak |editor3-first=M. H. |script-title=uk:Народний рух України |trans-title=People's Movement of Ukraine |url=https://esu.com.ua/article-71180 |access-date=9 June 2026 |website=[[Encyclopedia of Modern Ukraine]] |volume=22 |publisher=[[National Academy of Sciences of Ukraine]], [[Shevchenko Scientific Society]] |language=uk |publication-place=Kyiv |isbn=978-966-02-2074-4 |archive-date=29 May 2024 |archive-url=https://web.archive.org/web/20240529152039/https://esu.com.ua/article-71180 |url-status=live}}
+{{refend}}
+
+{{Ukrainian elections}}
+{{1991 presidential election candidates, Ukraine}}
+
+[[Category:1989–1991 Ukrainian revolution]]
+[[Category:1991 elections in Ukraine|Presidential election]]
+[[Category:Presidential elections in Ukraine]]
+[[Category:1991 elections in the Soviet Union|Ukraine]]
+[[Category:December 1991 in Europe|Ukraine]]
+[[Category:Leonid Kravchuk]]
+[[Category:Election and referendum articles with incomplete results]]

@@ -1,0 +1,648 @@
+{{Short description|none}}
+{{Use dmy dates|date=December 2025}}
+{{Infobox election
+| country = Chile
+| previous_election = 2021 Chilean general election
+| previous_year = 2021
+| next_election = 2029 Chilean general election
+| next_year = ''2029''
+| module = {{infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| registered = 15,779,102
+| turnout = 85.42% (first round) {{increase}} 38.09[[percentage point|pp]]<br>85.14% (second round) {{increase}} 29.50pp
+| election_date = 16 November 2025 (first round)<br />{{nowrap|14 December 2025 (second round)}}
+| opinion_polls = Opinion polling for the 2025 Chilean presidential election
+| image1 = José Antonio Kast en 2025 (cropped2).jpg
+| candidate1 = '''{{nowrap|[[José Antonio Kast]]}}'''
+| party1 = Republican Party of Chile
+| colour1 = {{Party color|Change for Chile}}
+| alliance1 = [[Change for Chile]]
+| popular_vote1 = '''7,263,236'''
+| percentage1 = '''58.17%'''
+| image2 = Jeannette Jara portrait.jpg
+| candidate2 = [[Jeannette Jara]]
+| party2 = Communist Party of Chile
+| colour2 = {{Party color|Unidad por Chile}}
+| alliance2 = [[Unidad por Chile|Unity for Chile]]
+| popular_vote2 = 5,222,558
+| percentage2 = 41.83%
+| map = {{switcher |[[File:2025 Chilean presidential election by commune percentage (1st round).svg|275px]] |First round results by commune|[[File:2025 Chilean presidential election by commune percentage (2nd round).svg|275px]] |Second round results by commune|default=2}}
+| title = [[President of Chile|President]]
+| before_election = [[Gabriel Boric]]
+| before_party = [[Frente Amplio (Chilean political party)|FA]]–[[Unidad por Chile|UpCh]]
+| after_election = [[José Antonio Kast]]
+| after_party = [[Republican Party of Chile|PRCh]]–[[Change for Chile|CpCh]]
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| seats_for_election = All 155 seats in the [[Chamber of Deputies of Chile|Chamber of Deputies]]
+| majority_seats = 78
+| noleader = yes
+| election_date = 16 November 2025
+| party1 = Unidad por Chile
+| last_election1 = 74
+| seats1 = 61
+| percentage1 = 30.61
+| party3 = [[Chile Grande y Unido|ChGU]]
+| last_election3 = 53
+| seats3 = 34
+| percentage3 = 21.05
+| party2 = Change for Chile
+| last_election2 = 15
+| seats2 = 42
+| percentage2 = 23.02
+| party4 = Party of the People (Chile)
+| last_election4 = 6
+| seats4 = 14
+| percentage4 = 11.99
+| party5 = [[Greens, Regionalists and Humanists|VRH]]
+| last_election5 = 4
+| seats5 = 3
+| percentage5 = 6.91
+| party9 = Independents
+| last_election9 = 1
+| seats9 = 1
+| percentage9 = 0.69
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Senate
+| seats_for_election = 23 of the 50 seats in the [[Senate of Chile|Senate]]
+| majority_seats = 26
+| noleader = yes
+| election_date = 16 November 2025
+| party1 = Unidad por Chile
+| last_election1 = 19
+| seats1 = 20
+| percentage1 = 32.20
+| party11 = [[Chile Grande y Unido|ChGU]]
+| last_election11 = 24
+| seats11 = 17
+| percentage11 = 24.27
+| party12 = Change for Chile
+| last_election12 = 3
+| seats12 = 8
+| percentage12 = 25.40
+|party13 = [[Greens, Regionalists and Humanists|VRH]]
+|last_election13 = 2
+|seats13 = 3
+|percentage13 = 3.98
+}}}}
+}}
+}}
+
+General elections were held in [[Chile]] on 16 November 2025.<ref>{{Cite web |date=24 October 2025 |title=Preparations for elections in Chile move forward |url=https://www.plenglish.com/news/2025/10/24/preparations-for-elections-in-chile-move-forward/ |access-date=28 October 2025 |website=Prensa Latina |language=en-US}}</ref><ref>{{Cite web |title=¿Qué se vota en las Elecciones 2025? - Gob.cl |url=https://www.gob.cl/noticias/que-se-vota-elecciones-2025/ |access-date=28 October 2025 |website=Gobierno de Chile |language=es}}</ref> Voters went to the polls to elect the [[List of presidents of Chile|38th]] [[president of Chile]], renew all 155 seats in the [[Chamber of Deputies of Chile|Chamber of Deputies]], and fill 23 of the 50 seats in the [[Senate of Chile|Senate]]. [[Republican Party of Chile|Republican Party]] candidate [[José Antonio Kast]] defeated [[Communist Party of Chile|Communist Party]] member [[Jeannette Jara]] in a runoff election on 14 December.
+
+In the first round, Jara, a member of the [[Communist Party of Chile]],<ref>{{Cite web |last1=Malinowski |first1=Matthew |last2=Garip |first2=Patricia |date=2025-11-05 |title=Lifelong Communist Goes Mainstream in Bid for Chile's Top Job |url=https://www.bloomberg.com/news/articles/2025-11-05/the-communist-aiming-for-chile-s-presidency-wants-a-rebrand |archive-url=https://archive.today/20251105192347/https://www.bloomberg.com/news/articles/2025-11-05/the-communist-aiming-for-chile-s-presidency-wants-a-rebrand |archive-date=2025-11-05 |website=Bloomberg |quote=Chile's leading presidential candidate Jeannette Jara is a communist. Not that kind of communist, she wants you to know. [...] "Maybe that doesn't sound communist, and I don't dress that way either. But I want everyone in Chile to have the same opportunity. And that's what it means to be a communist in Chile", Jara said.}}</ref><ref>{{Cite web |last1=McGowan |first1=Charis |last2=Boddenberg |first2=Sophia |date=2025-11-14 |title=Who is Jeannette Jara, the communist leading Chile's presidential election? |url=https://www.aljazeera.com/news/longform/2025/11/14/who-is-jeannette-jara-the-communist-leading-chiles-presidential-election |access-date=2025-12-17 |website=Al Jazeera |language=en |quote=Her presidential bid is historic. But can Jara, a communist nominated to represent the governing coalition, overcome the conservative opposition?}}</ref><ref name="LAR-20251117">{{Cite web |last=Brettkelly |first=Louis |date=17 November 2025 |title=Far-right and communist candidates reach presidential runoff in Chile |url=https://latinamericareports.com/far-right-and-communist-candidates-to-make-for-polarized-run-off-election-in-chile/12907/ |access-date=17 December 2025 |website=Latin America Reports |language=en |quote=A communist government minister and a far-right former lawmaker have progressed into a polarizing presidential runoff in Chile after winning the most votes in first round elections on Sunday.}}</ref> won a [[plurality (voting)|plurality]] of the vote.<ref name="nbcnews">{{cite news |title=Chile presidential race headed to runoff between communist and hard-right candidates |url=https://www.nbcnews.com/world/chile/chile-votes-presidential-poll-pitting-communist-far-right-rcna244186 |access-date=16 December 2025 |work=[[NBC News]] |date=16 November 2025}}</ref><ref>{{Cite news |date=16 November 2025 |title=Trump-Style Candidate Heads to runoff in Chile's Election |url=https://www.nytimes.com/2025/11/16/world/americas/chile-presidential-election-on-sunday.html |access-date=17 November 2025 |work=The New York Times}}</ref> Kast, who has been described as [[conservative]] or [[Far-right politics|hard-right]], placed second.<ref name="nbcnews" /><ref>{{Cite web |date=17 November 2025 |title=Communist and far-right candidates head to Chile presidential runoff |url=https://www.bbc.com/news/articles/c0jd0v8dvpwo |access-date=20 November 2025 |website=BBC |language=en-GB |quote=Kast has pledged to build ditches along Chile's northern border with Peru and Bolivia, as well as mass deportations of undocumented migrants and people who entered the country illegally. He has also promised new maximum-security prisons, like those built in El Salvador.}}</ref> Combined, right-leaning candidates received approximately 70 percent of the first-round presidential vote.<ref>{{Cite web |last=Nugent |first=Ciara |date=26 November 2025 |title=Far right poised to win Chile's presidency |url=https://www.ft.com/content/4d9abd84-b792-4b60-a59a-390192a8c8c5 |access-date=16 November 2025 |website=Financial Times}}</ref> [[Johannes Kaiser (Chilean politician)|Johannes Kaiser]] and [[Evelyn Matthei]], both candidates on the right,<ref name="LAR-20251117" /> endorsed Kast for the runoff, while [[Franco Parisi]] declined to make an endorsement, calling on his voters to decide themselves who to vote for.<ref name="bbc1" /> In the runoff, Kast defeated Jara in a [[landslide victory]] with 58% of the vote, the second-highest percentage of the vote since Chile's transition to democracy. Kast received 7.2 million votes, which was the highest ever vote total in Chile's history. He won in all sixteen [[Regions of Chile|regions of the country]].<ref name="tercera1" />
+
+In the parliamentary election, [[Unidad por Chile]], a coalition of the ruling leftist and center-left parties, emerged as the largest bloc of the Chamber of Deputies, while in the Senate the left-wing and right-wing blocs reached a tie with 25 senators each.<ref name="infodep">{{cite news |last1=Palazzo |first1=Mauricio |title=Así quedó el Congreso chileno tras las elecciones parlamentarias |url=https://www.infobae.com/america/america-latina/2025/11/17/asi-quedo-el-congreso-chileno-tras-las-elecciones-parlamentarias/ |access-date=16 December 2025 |work=Infobae |date=17 November 2025}}</ref><ref name="uchile" />
+
+This was the first general election since the reintroduction of [[compulsory voting]] in 2022.<ref>{{Cite web |last=Palacios |first=Cristóbal |date=19 December 2022 |title=Se repone voto obligatorio: Congreso aprueba reforma que dejará atrás el sufragio voluntario a 10 años de su implementación |url=https://www.latercera.com/politica/noticia/se-repone-voto-obligatorio-congreso-aprueba-reforma-que-dejara-atras-el-sufragio-voluntario-a-10-anos-de-su-implementacion/BG47J7ZH6ZGQTODHYCYVAJ5I6E/ |access-date=16 November 2025 |website=La Tercera |language=es}}</ref>
+
+== Background ==
+{{main|2021 Chilean general election}}
+The [[2021 Chilean general election|2021 presidential election]] saw left-wing candidate [[Gabriel Boric]], a former student protest leader during the [[2011–2013 Chilean student protests|2011–2013 student protests]], defeat conservative rival [[José Antonio Kast]] in a runoff. Boric's victory was attributed to widespread youth mobilization, dissatisfaction with the center-right administration of [[Sebastián Piñera]], and economic strains following the [[COVID-19 pandemic in Chile|COVID-19 pandemic]].<ref>{{Cite news |last1=Bonnefoy |first1=Pascale |last2=Londoño |first2=Ernesto |date=19 December 2021 |title=Gabriel Boric, a Former Student Activist, Is Elected Chile's Youngest President |url=https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html |access-date=17 July 2023 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> His platform emphasized social equity, feminist reforms, and a "dignified life" for marginalized groups, pledging to dismantle Chile's "patriarchal inheritance".<ref>{{Cite web |date=20 December 2021 |title=Leftist millennial vows to remake Chile after historic win |url=https://www.cnbc.com/2021/12/20/boric-leftist-millennial-vows-to-remake-chile-after-historic-win.html |access-date=17 July 2023 |website=CNBC |language=en}}</ref><ref>{{Cite news |last1=Cambero |first1=Fabian |last2=Esposito |first2=Anthony |last3=Miranda |first3=Natalia A. Ramos |date=20 December 2021 |title=Chile's Boric pledges an orderly economy, swift naming of Cabinet |url=https://www.reuters.com/world/americas/chiles-left-cheers-boric-win-ripples-through-latin-america-2021-12-20/ |access-date=17 July 2023 |work=Reuters |language=en}}</ref>
+
+By mid-2023, Boric's approval ratings had plummeted to 28%, with 66% disapproving of his administration, according to polls.<ref>{{Cite news |date=27 June 2023 |title=Chile's President Boric Takes Another Blow to Popularity as Graft Accusations Hit Key Allies |url=https://www.bloomberg.com/news/articles/2023-06-27/chile-s-boric-sees-approval-fall-after-graft-accusations-against-coalition-party |access-date=17 July 2023 |work=Bloomberg.com |language=en}}</ref> Analysts cited economic stagnation, legislative gridlock, and public safety concerns as primary factors. The right-wing [[Republican Party (Chile)|Republican Party]], led by Kast, capitalized on this discontent, securing a dominant victory in the [[2023 Chilean Constitutional Council election|May 2023 Constitutional Council elections]], resulting in the failed [[2023 Chilean constitutional referendum]]. Kast declared the results a mandate for "a major change in government", positioning himself as a frontrunner for 2025.<ref>{{Cite web |title=Chile's far right re-emerges after presidential defeat |url=https://www.batimes.com.ar/news/latin-america/chiles-far-right-re-emerges-after-presidential-defeat.phtml |access-date=17 July 2023 |website=Buenos Aires Times |date=11 May 2023 }}</ref> Meanwhile, [[Evelyn Matthei]] of the [[Independent Democratic Union]] (UDI) also gained traction in opinion polls.<ref>{{Cite web |last=de la Fuente |first=Antonieta |date=9 May 2023 |title=Explaining the rise of the far-right Republican Party in Chile |url=https://english.elpais.com/international/2023-05-09/explaining-the-rise-of-the-far-right-republican-party-in-chile.html |access-date=17 July 2023 |website=EL PAÍS English |language=en-us}}</ref>
+
+== Electoral system ==
+This was the first presidential and congressional election since a constitutional amendment was passed and promulgated on 27 December 2022, restoring [[compulsory voting]] for all elections and plebiscites for the first time since 2012, except in primary elections.<ref>{{Cite web |title=Ley 21524 Firma electrónica MODIFICA LA CARTA FUNDAMENTAL PARA RESTABLECER EL VOTO OBLIGATORIO EN LAS ELECCIONES POPULARES |url=https://www.bcn.cl/leychile/navegar?idNorma=1187324&idVersion=2023-01-04 |access-date=4 August 2025 |website=[[Library of the National Congress of Chile]]}}</ref> Eligible citizens who did not vote faced a fine of approximately 33,000 [[Chilean peso|pesos]] (around US$35).<ref>{{Cite web |title=What To Know About the Results of Chile's 2024 Municipal and Regional Elections |url=https://www.as-coa.org/articles/what-know-about-results-chiles-2024-municipal-and-regional-elections |access-date=4 August 2025 |website=Americas Society/[[Council of the Americas]] |date=29 October 2024 }}</ref>
+
+=== President ===
+The President is elected using the [[two-round system]]; if no candidate receives over 50% of the vote to win outright in the first round, a second round will be held.<ref name="spo">{{cite web |title=Chili : Système électoral |url=https://www.sciencespo.fr/opalc/node/920.html |website=[[Sciences Po]] |access-date=15 December 2025}}</ref>
+
+=== National Congress ===
+* Chamber of Deputies: The 155 members are elected from 28 multi-member constituencies (3–8 seats each) using [[open-list proportional representation]] with the [[d'Hondt method]].<ref>{{cite news |last1=Dote |first1=Sebastián |title=Elecciones parlamentarias de Chile 2025: cómo se eligen a los diputados, a los senadores y todo lo que hay que saber |url=https://elpais.com/chile/2025-11-14/elecciones-parlamentarias-de-chile-2025-como-se-eligen-a-los-diputados-a-los-senadores-y-todo-lo-que-hay-que-saber.html |access-date=16 December 2025 |work=El País |date=15 November 2025}}</ref>
+* Senate: The 50 senators serve staggered eight-year terms. Half the chamber (25 seats) is renewed each general election, elected from 16 regional constituencies (2–5 seats each) under similar proportional rules.<ref>{{Cite web |title=Political structure |url=http://country.eiu.com/article.aspx?articleid=322002015&Country=Chile&topic=Summary&subtopic=Poli_5 |access-date=17 July 2023 |website=country.eiu.com}}</ref>
+
+== Presidential candidates ==
+===Registered===
+{{Main|2025 Chilean presidential primaries}}
+
+Seven of the following eight candidates were registered with the [[Electoral Service]] (Servel)<ref name="Martínez-2025b" /> and were accepted on 29 August 2025.<ref>{{Cite web |date=1 September 2025 |title=Servel acepta candidaturas de Daniel Jadue y Miguel Ángel Calisto |url=https://www.pauta.cl/actualidad/2025/09/01/servel-aprueba-candidatura-de-daniel-jadue-y-de-miguel-angel-calisto-ambos-enfrentan-procesos-judiciales.html |access-date=2 September 2025 |website=Radio Pauta |language=es}}</ref><ref>{{Cite web |date=29 August 2025 |title=Resolución O Nº 0406. Acepta declaraciones de candidaturas a Presidente de la República para elección de 16 de noviembre de 2025. |url=https://www.servel.cl/wp-content/uploads/2025/09/RO_0406.pdf |access-date=2 September 2025 |website=[[Electoral Service]]}}</ref> Jeannette Jara, as a primary winner, was automatically registered as a candidate on 14 July 2025.<ref name="Publimicro-2025">{{Cite web |date=15 July 2025 |title=Tricel proclama oficialmente a Jeannette Jara, tras su amplio triunfo como candidata presidencial por el Pacto Unidad por Chile |url=https://publimicro.cl/tricel-proclama-oficialmente-a-jeannette-jara-tras-su-amplio-triunfo-como-candidata-presidencial-por-el-pacto-unidad-por-chile/ |access-date=2 September 2025 |website=Publimicro |language=es}}</ref>
+====Advanced to runoff ====
+{| class="wikitable"
+|+
+! width=120 | Candidate
+! width=140 | Endorsement
+! width=140 | Ideology
+!Ref.
+!Remarks
+|-
+|[[File:Jeannette Jara, 2022 (cropped).png|157x157px]]<br />'''[[Jeannette Jara]]'''<br /><small>[[Communist Party of Chile|PCCh]]</small>
+|{{symbol|Unidad_por_Chile.png}} [[Unidad por Chile|Unity for Chile]]:
+* {{symbol|Partido Comunista de Chile.svg}} [[Communist Party of Chile|PCCh]]
+* {{symbol|Frente Amplio Nuevo.png}} [[Frente Amplio (Chilean political party)|FA]]
+* {{symbol|Emblem of the Christian Democrat Party of Chile.svg}}&nbsp;[[Christian Democratic Party (Chile)|PDC]]
+* {{symbol|LogoPLChile2017.png}} [[Liberal Party of Chile (2013)|PL]]
+* {{symbol|Partido por la Democracia emblema.svg}} [[Party for Democracy (Chile)|PPD]]
+* {{symbol|Emblema Partido Radical Chile.svg}} [[Radical Party of Chile (2018)|PR]]
+* {{symbol|Emblem of the Socialist Party of Chile.svg}} [[Socialist Party of Chile|PS]]
+{{symbol|Verdes Regionalistas y Humanistas Logo.png}} [[Greens, Regionalists and Humanists|VRH]]:
+* [[Social Green Regionalist Federation|FREVS]]
+* {{symbol|Logo_de_Acción_Humanista_Chile.png}}&nbsp;[[Humanist Action]]
+{{symbol|Izquierda Ecologista Popular.png}} [[Popular Ecologist, Animalist, and Humanist Left|IEPAH]]:
+* {{symbol|Partido Igualdad.png}}&nbsp;[[Equality Party (Chile)|Equality Party]]
+{{symbol|Logo Partido Popular Chile.png}}&nbsp;[[People's Party (Chile)|People's Party]]
+|[[Progressivism]]<br>[[Democratic socialism]]<br />[[Communism]]
+|<ref name="Villegas-2025">{{Cite news |last=Villegas |first=Alexander |date=30 June 2025 |title=Chile picks Jeannette Jara to face off against right-wing presidential field |url=https://www.reuters.com/world/americas/chile-picks-jeannette-jara-face-off-against-right-wing-presidential-field-2025-06-29/ |access-date=30 June 2025 |work=Reuters |language=en}}</ref>
+<ref name="Emol-2025a">{{Cite web |date=26 July 2025 |title=Histórica decisión: Democracia Cristiana respalda a Jeannette Jara de cara a las presidenciales |url=https://www.emol.com/noticias/Nacional/2025/07/26/1173251/junta-nacional-dc-informa-definicion.html |access-date=27 July 2025 |website=Emol |language=es}}</ref>
+<ref name="Halabi-2025">{{Cite web |last=Halabi |first=María José |date=3 August 2025 |title=Partido Popular respalda a la candidatura presidencial de Jeannette Jara tras Consejo Nacional |url=https://www.latercera.com/politica/noticia/partido-popular-respalda-a-la-candidatura-presidencial-de-jeannette-jara-tras-consejo-nacional/ |access-date=11 August 2025 |website=La Tercera |language=es}}</ref>
+<ref name="El Siglo-2025">{{Cite web |date=4 August 2025 |title=Partido Igualdad y Partido Popular dieron su apoyo a Jeannette Jara |url=https://elsiglo.cl/partido-igualdad-y-partido-popular-dieron-su-apoyo-a-jeannette-jara/ |access-date=11 August 2025 |website=El Siglo |language=es}}</ref>
+<ref name="El Ciudadano-2025">{{Cite web |date=8 August 2025 |title=Partido Solidaridad para Chile declara su apoyo a la candidatura de Jeannette Jara |url=https://www.elciudadano.com/chile/partido-solidaridad-para-chile-declara-su-apoyo-a-la-candidatura-de-jeannette-jara/08/07/ |access-date=11 August 2025 |website=El Ciudadano |language=es}}</ref>
+|Jeannette Jara, former minister, won the Unity for Chile center-left coalition's presidential primary with 60% of the vote in nationwide elections held on 29 June 2025.<ref name="Villegas-2025" /> Her candidacy was automatically registered with Servel when the [[Election Certification Tribunal]] declared her the winner on 14 July 2025.<ref name="Publimicro-2025" /> The Christian Democrats (DC), who were not part of the primary coalition, decided on 26 July to join the alliance, run on a unified parliamentary list, and support Jara's presidential bid.<ref name="Emol-2025a" /> In addition to the DC, several non-official left-wing parties declared their support for Jara. However, two parties that participated in the primary—Social Green Regionalist Federation (FRVS) and Humanist Action (AH)—withdrew from the coalition on 16 August to register an independent parliamentary list named Verdes, Regionalistas y Humanistas, led by former [[Valparaíso]] mayor [[Jorge Sharp]]. While reiterating their support for Jara's presidential candidacy, FRVS and AH leaders stated that the move was intended to highlight their regionalist, environmental, and humanist agendas and to compete on equal terms in the legislative elections.<ref>{{Cite web |last=Halabi |first=María José |date=16 August 2025 |title="Verdes, Regionalistas y Humanistas": FRVS y AH incriben lista con Sharp como candidato |url=https://www.latercera.com/politica/noticia/verdes-regionalistas-y-humanistas-frvs-y-ah-incriben-lista-con-sharp-como-candidato/ |access-date=22 August 2025 |website=La Tercera |language=es}}</ref>
+|-
+|[[File:José Antonio Kast en diciembre de 2024.jpg|157x157px]]<br />'''[[José Antonio Kast]]'''<br /><small>[[Republican Party (Chile, 2019)|PRCh]]</small>
+|{{symbol|Cambio por Chile.jpg}} [[Change for Chile]]:
+* {{symbol|Partido_Republicano_(Chile,_2019).svg}} [[Republican Party (Chile, 2019)|PRCh]]
+* {{symbol|logopartidosocialcristiano.png}} [[Christian Social Party (Chile)|PSC]]
+|[[Right-wing populism]]<br />[[National conservatism]]<br />
+|<ref name="radio.uchile.cl">{{Cite web |title=Partido Republicano proclamó a Kast como candidato a la Presidencia 2025 « Diario y Radio Universidad Chile |url=https://radio.uchile.cl/2025/01/09/partido-republicano-proclamo-a-kast-como-candidato-a-la-presidencia-2025/ |archive-url=https://web.archive.org/web/20250118222142/https://radio.uchile.cl/2025/01/09/partido-republicano-proclamo-a-kast-como-candidato-a-la-presidencia-2025/ |archive-date=18 January 2025 |access-date=22 July 2025 |website=radio.uchile.cl |language=es-ES}}</ref>
+<ref name="T13-2025">{{Cite web |date=19 July 2025 |title=Partido Social Cristiano oficializó a Kast como su candidato presidencial: El republicano respondió a Jara por cuestionamientos de campaña sucia |url=https://www.t13.cl/noticia/elecciones-2025/partido-social-cristiano-oficializo-kast-como-su-candidato-presidencial-republi-19-7-2025 |access-date=22 July 2025 |website=T13 |language=es}}</ref>
+|José Antonio Kast, former deputy and founder of the Republican Party, was proclaimed as the party's presidential candidate on 9 January 2025, running directly in the November election without participating in any opposition primaries.<ref name="radio.uchile.cl" /> He received additional backing from the Christian Social Party on 19 July 2025.<ref name="T13-2025" /> Kast officially registered his candidacy with Servel on 18 August 2025, marking his third bid for the presidency. During his registration, he criticized what he described as a campaign of lies and defamation against him, emphasized the need for economic growth to improve pensions, and highlighted his proposals for public security, social order, and the welfare of animals.<ref>{{Cite web |last=Bravo |first=Nibaldo Pérez |date=18 August 2025 |title=Con críticas al gobierno y la prensa Kast inscribe candidatura ante el Servel: "No les tenemos miedo" |url=https://www.publimetro.cl/noticias/2025/08/18/con-criticas-al-gobierno-y-la-prensa-kast-inscribe-candidatura-ante-el-servel-no-les-tenemos-miedo/ |access-date=19 August 2025 |website=Publimetro Chile |language=es}}</ref>
+|-
+|}
+
+====Eliminated in first round====
+{| class="wikitable"
+|+
+! width=120 | Candidate
+! width=140 | Endorsement
+! width=140 | Ideology
+!Ref.
+!Remarks
+|-
+|[[File:Eduardo Artés 2021 - 7 de octubre (cropped).jpg|125x125px]]<br />'''[[Eduardo Artés]]'''<br><small>Independent</small>
+|{{symbol|PC(AP).png}} [[Chilean Communist Party (Proletarian Action)|PC (AP)]]<br />Independent electors
+|[[Marxism–Leninism]]<br>[[Socialist patriotism]]<br>[[Anti-Zionism]]<br>[[BRICS|Multipolarity]]<br>[[Left-wing nationalism]]
+|<ref name="CNN-20241217">{{Cite web |last=Pinto |first=Juan |date=17 December 2024 |title=Eduardo Artés confirma su candidatura presidencial para 2026: "Vamos por un tercer intento y tenemos posibilidades" |url=https://www.cnnchile.com/pais/eduardo-artes-confirma-candidatura-presidencial-2026-tenemos-posibilidades_20241217/ |access-date=19 August 2025 |website=CNN Chile |language=es}}</ref>
+|Eduardo Artés, presidential candidate for the Communist Party (Proletarian Action), confirmed in December 2024 that he would make a third bid for the presidency, stating that his campaign seeks to reform Chile and end what he calls the country's "political duopoly".<ref name="CNN-20241217" /> Because his party is not legally registered nationwide, he was required to gather over 35,000 signatures to qualify as an independent. Shortly before the registration deadline in August 2025, his campaign announced it had met this requirement,<ref>{{Cite web |title=Al filo del plazo, Eduardo Artés logró las firmas para ser nuevamente candidato presidencial |url=https://cooperativa.cl/noticias/pais/politica/presidenciales/al-filo-del-plazo-eduardo-artes-logro-las-firmas-para-ser-nuevamente/2025-08-17/221649.html |access-date=19 August 2025 |website=Cooperativa.cl |language=Spanish}}</ref> and he officially registered with Servel on 19 August 2025.<ref>{{Cite web |last=Martínez |first=Roberto |date=19 August 2025 |title=Con duras críticas a Jara: Eduardo Artés inscribe su candidatura presidencial |url=https://www.latercera.com/politica/noticia/con-duras-criticas-a-jara-eduardo-artes-inscribe-su-candidatura-presidencial/ |access-date=19 August 2025 |website=La Tercera |language=es}}</ref>
+|-
+|[[File:Marco Enriquez-Ominami 2025 (cropped).jpg|125x125px]]<br />'''[[Marco Enríquez-Ominami]]'''<br /><small>Independent</small>
+|{{symbol|Izquierda Ecologista Popular.png}} [[Popular Ecologist, Animalist, and Humanist Left|IEPAH]]:
+* {{symbol|PH-CHILE.png}}&nbsp;[[Humanist Party (Chile)|Humanist Party]]
+Independent electors
+|[[Democratic socialism]]<br>[[Progressivism]]
+|<ref name="Arellano-2025">{{Cite web |last=Arellano |first=Jorge |date=18 August 2025 |title=Marco Enríquez-Ominami inscribe su quinta candidatura presidencial ante el Servel con dardos contra Jara y Kast |url=https://www.latercera.com/politica/noticia/marco-enriquez-ominami-inscribe-su-quinta-candidatura-presidencial-ante-el-servel-con-dardos-contra-jara-y-kast/ |access-date=19 August 2025 |website=La Tercera |language=es}}</ref>
+|Marco Enríquez-Ominami, former deputy, confirmed on 3 August 2025 that he had collected 36,200 signatures—exceeding the 35,361 required<ref>{{Cite web |last=Castillo |first=Alejandro |date=28 March 2025 |title=¿Qué son los patrocinios para las candidaturas de las Elecciones 2025? |url=https://www.servel.cl/2025/03/28/que-son-los-patrocinios-para-las-candidaturas-de-las-elecciones-2025/ |access-date=16 August 2025 |website=Servicio Electoral de Chile |language=es-CL}}</ref>—to run for president for a fifth time.<ref>{{Cite web |last=Halabi |first=María José |date=3 August 2025 |title="Estaremos en la papeleta": Marco Enríquez-Ominami confirma que recolectó firmas para avanzar en su quinta candidatura presidencial |url=https://www.latercera.com/politica/noticia/estaremos-en-la-papeleta-marco-enriquez-ominami-confirma-que-recolecto-firmas-para-avanzar-en-su-quinta-candidatura-presidencial/ |access-date=4 August 2025 |website=La Tercera |language=es}}</ref> In February, he had said he would consider another campaign, calling himself "a political animal" still "in the fight."<ref>{{Cite web |last=Carrillo |first=Constanza |date=21 February 2024 |title=MEO no descarta una quinta candidatura presidencial: "Soy un animal político y estoy en la lucha" |url=https://www.biobiochile.cl/noticias/nacional/chile/2024/02/21/meo-no-descarta-una-quinta-candidatura-presidencial-soy-un-animal-politico-y-estoy-en-la-lucha.shtml |access-date=26 January 2025 |website=BioBioChile |language=es}}</ref> He officially registered his candidacy with Servel on 18 August 2025 with over 37,000 independent sponsorships, declaring that he personally financed his nationwide tour and online campaign to gather the signatures.<ref name="Arellano-2025" />
+|-
+|[[File:Johannes Kaiser (BCN) (cropped).jpg|125x125px]]<br />'''[[Johannes Kaiser (Chilean politician)|Johannes Kaiser]]'''<br /><small>[[National Libertarian Party|PNL]]</small>
+|{{symbol|Cambio por Chile.jpg}} [[Change for Chile]]:
+* {{symbol|Partido Nacional Libertario.svg}} [[National Libertarian Party|PNL]]
+|[[Social conservatism]]<br>[[Paleolibertarianism]]<br>[[Pinochetism]]
+|<ref name="Álvarez-2025">{{Cite web |last=Álvarez |first=Cristóbal |date=12 July 2025 |title=Con polémica estrofa del Himno Nacional: Partido Nacional Libertario proclama a Johannes Kaiser como candidato presidencial |url=https://www.adnradio.cl/2025/07/12/con-polemica-estrofa-del-himno-nacional-partido-nacional-libertario-proclama-a-johannes-kaiser-como-candidato-presidencial/ |access-date=13 July 2025 |website=ADN Radio |language=es}}</ref>
+<ref name="Emol-2025b">{{Cite web |date=14 August 2025 |title=Kaiser inscribe su candidatura presidencial y asegura tener "una base sólida para empezar la campaña" |url=https://www.emol.com/noticias/Nacional/2025/08/14/1174998/kaiser-inscribe-candidatura-presidencial.html |access-date=16 August 2025 |website=Emol |language=Spanish}}</ref>
+|Johannes Kaiser, deputy, was proclaimed as the presidential candidate for the National Libertarian Party (PNL) on 12 July 2025 during a ceremony at Espacio Riesco attended by around three thousand people, which included a controversial rendition of the [[National Anthem of Chile|Chilean National Anthem]]'s third stanza.<ref name="Álvarez-2025" /> Kaiser officially registered his candidacy with Servel on 14 August 2025, presenting his government program and emphasizing that he has a "solid base to start the campaign" despite pressure to withdraw and unfavorable polling results.<ref name="Emol-2025b" />
+|-
+|[[File:Evelyn Matthei, alcaldesa de Providencia (cropped).png|136x136px]]<br />'''[[Evelyn Matthei]]'''<br /><small>[[Independent Democratic Union|UDI]]</small>
+|
+{{symbol|Chile Grande y Unido.png}} [[Chile Grande y Unido]]:
+* {{symbol|Chile Vamos.png}} [[Chile Vamos]]:
+** {{symbol|UDI_2017_(recorte).svg}} [[Independent Democratic Union|UDI]]
+** {{symbol|Logo_del_Partido_político_Renovación_Nacional_(RN),_Chile.svg}} [[National Renewal (Chile)|RN]]
+** [[Evópoli]]
+* {{symbol|Logo Demócratas Chile.png}}&nbsp;[[Democrats (Chile)|Democrats]]
+{{symbol|Logo of the Amarillos por Chile.png}} [[Amarillos por Chile|AxCh]]
+|[[Liberal conservatism]]<br />[[Economic liberalism]]<br />[[Conservative liberalism]]
+|<ref name="Bustamante-2025">{{Cite web |last=Bustamante |first=Daniela |date=12 January 2025 |title=Renovación Nacional proclama a Evelyn Matthei como candidata presidencial - Madero |url=https://madero.cl/rn-proclama-a-matthei-como-candidata-presidencial/ |access-date=19 January 2025 |website=madero.cl |language=es}}</ref>
+<ref name="Cooperativa.cl">{{Cite web |title=UDI proclama a Evelyn Matthei como su carta rumbo a La Moneda |url=https://cooperativa.cl/noticias/pais/politica/presidenciales/udi-proclama-a-evelyn-matthei-como-su-carta-rumbo-a-la-moneda/2025-01-18/132221.html |access-date=24 March 2025 |website=Cooperativa.cl |language=Spanish}}</ref>
+<ref name="Emol-2025d">{{Cite web |date=22 March 2025 |title=Casi de forma unánime: Consejo General de Evópoli elige a Evelyn Matthei como su candidata presidencial |url=https://www.emol.com/noticias/Nacional/2025/03/22/1161261/evopoli-matthei-candidata-presidencial.html |access-date=24 March 2025 |website=Emol |language=Spanish}}</ref>
+<ref name="Cooperativa.cl-2">{{Cite web |title=Amarillos apoyará la candidatura presidencial de Evelyn Matthei |url=https://cooperativa.cl/noticias/pais/politica/presidenciales/amarillos-apoyara-la-candidatura-presidencial-de-evelyn-matthei/2025-06-06/000307.html |access-date=6 June 2025 |website=Cooperativa.cl |language=Spanish}}</ref>
+<ref name="González-2025b">{{Cite web |last=González |first=Alberto |date=2 June 2025 |title=Matthei inscribe precandidatura presidencial en medio de críticas de Republicanos |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/06/02/matthei-inscribe-precandidatura-presidencial-en-medio-de-criticas-de-republicanos.shtml |access-date=6 June 2025 |website=BioBioChile |language=es}}</ref>
+<ref>{{Cite web |date=21 August 2025 |title=Matthei cierra polémica por dichos de Sutil: "He señalado toda mi vida que tenemos que cuidar la democracia" |url=https://www.emol.com/noticias/Nacional/2025/08/21/1175683/matthei-por-dichos-sutil.html |access-date=23 August 2025 |website=Emol |language=Spanish}}</ref>
+|Evelyn Matthei, former senator and minister, was endorsed as a presidential candidate by National Renewal on 11 January 2025,<ref name="Bustamante-2025" /> the UDI on 18 January,<ref name="Cooperativa.cl" /> and Evópoli on 22 March,<ref name="Emol-2025d" /> making her the nominee of the entire Chile Vamos coalition. Amarillos por Chile declared its support on 6 June.<ref name="Cooperativa.cl-2" /> Matthei formally registered her candidacy with Servel on 16 August 2025, at which time Chile Vamos and [[Democrats (Chile)|Democrats]] presented their joint parliamentary pact, Great and United Chile.<ref>{{Cite web |last=Díaz |first=Joaquín |date=16 August 2025 |title=Evelyn Matthei inscribe candidatura presidencial en el Servel y presenta pacto parlamentario "Chile Grande y Unido" |url=https://www.latercera.com/politica/noticia/evelyn-matthei-inscribe-candidatura-presidencial-en-el-servel-y-presenta-pacto-parlamentario-chile-grande-y-unido/ |access-date=17 August 2025 |website=La Tercera |language=es}}</ref> Before her official registration, Matthei held the status of pre-candidate—a term in Chile for those who announce their intention to run for office ahead of the formal registration period. This designation permits limited campaigning under Servel supervision, including the ability to receive donations and incur electoral expenses within regulated limits.<ref name="González-2025b" /><ref>{{Cite web |title=DFL 3 FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY N°19.884, ORGÁNICA CONSTITUCIONAL SOBRE TRANSPARENCIA, LÍMITE Y CONTROL DEL GASTO ELECTORAL |url=https://www.bcn.cl/leychile/navegar?idNorma=1107658 |access-date=6 June 2025 |work=Biblioteca del Congreso Nacional |language=es}}</ref>
+|-
+|[[File:Thellusson-Mayne Nicholls cropped.jpg|114x114px]]<br />'''[[Harold Mayne-Nicholls]]'''<br /><small>Independent</small>
+|Independent electors
+|
+|<ref name="Martínez-2025a">{{Cite web |last=Martínez |first=Roberto |date=18 August 2025 |title=Con jerga deportiva y dando a conocer a integrantes de su equipo: Harold Mayne-Nicholls inscribe su candidatura presidencial ante el Servel |url=https://www.latercera.com/politica/noticia/harold-mayne-nicholls-inscribe-su-candidatura-presidencial-ante-el-servel/ |access-date=19 August 2025 |website=La Tercera |language=es}}</ref>
+|Harold Mayne-Nicholls, journalist and former president of the [[Asociación Nacional de Fútbol Profesional|ANFP]], confirmed on 16 August 2025 that he had collected the 35,361 signatures required to run for president.<ref>{{Cite web |author=Rodrigo Gómez |date=16 August 2025 |title=Harold Mayne-Nicholls logra reunir firmas para competir en elecciones presidenciales |url=https://www.latercera.com/politica/noticia/harold-mayne-nicholls-logra-reunir-firmas-para-competir-en-elecciones-presidenciales/ |access-date=16 August 2025 |website=La Tercera |language=es}}</ref> He officially registered his independent candidacy with Servel on 18 August 2025, presenting members of his team and emphasizing his campaign's focus on security, education, health, and housing.<ref name="Martínez-2025a" /> Mayne-Nicholls has framed his candidacy around dialogue, moderation, and his experience managing major projects such as the [[2023 Pan American Games|Santiago 2023 Pan American Games]].<ref>{{Cite web |date=1 April 2025 |title=Harold Mayne-Nicholls inicia búsqueda de firmas y presenta sus primeros apoyos para presidencial |url=https://www.elmostrador.cl/noticias/pais/2025/04/01/harold-mayne-nicholls-inicia-busqueda-de-firmas-y-presenta-sus-primeros-apoyos-para-presidencial/ |access-date=13 April 2025 |website=El Mostrador |language=es}}</ref>
+|-
+|[[File:Franco Parisi Fernández (2013) 4x3 cropped.jpg|125x125px]]<br />'''[[Franco Parisi]]'''<br /><small>[[Party of the People (Chile)|PDG]]</small>
+|{{symbol|Logo Partido de la Gente (cropped).jpg}} [[Party of the People (Chile)|PDG]]
+|[[Populism]]<br>[[E-democracy]]
+|<ref name="Gonzalez-2025">{{Cite web |last=Gonzalez |first=Camila Muñoz |date=6 May 2025 |title=PDG oficializa candidatura presidencial de Franco Parisi: irá directamente a primera vuelta |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/05/06/pdg-oficializa-candidatura-presidencial-de-franco-parisi-ira-directamente-a-primera-vuelta.shtml |access-date=7 May 2025 |website=BioBioChile |language=es}}</ref>
+|Franco Parisi, presidential candidate for the Party of the People (PDG), was officially proclaimed by his party on 6 May 2025 at the [[Former National Congress of Chile building|Santiago Congress]] headquarters, marking the start of his third presidential bid. He criticized both left- and right-wing parties for prioritizing their own interests over the middle class and expressed his goal of reaching a second-round runoff while winning parliamentary seats for his party.<ref name="Gonzalez-2025" /> Parisi officially registered his candidacy with Servel on 18 August 2025, asserting that "the polls are lying" and highlighting the influence of his parliamentary candidates, including deputy [[Pamela Jiles (politician)|Pamela Jiles]].<ref>{{Cite web |date=18 August 2025 |title=Parisi inscribe candidatura: Acusa que "encuestas mienten" y realza figura de Pamela Jiles |url=https://www.emol.com/noticias/Nacional/2025/08/18/1175282/franco-parisi-inscribe-candidatura-presidencial.html |access-date=18 August 2025 |website=Emol |language=Spanish}}</ref>
+|}
+
+=== Withdrawn ===
+* [[Félix González Gatica|Félix González]] ([[Green Ecologist Party (Chile)|Green Ecologist Party]]), deputy for District 20 in the [[Biobío Region]], announced his presidential bid on 6 January 2025, saying, "we have decided to collect the signatures to register an ecologist candidacy, because environmental issues are absent from the public agenda." He emphasized urgent social and climate security, adding, "we have the obligation to raise pensions... and face fires, floods, and droughts."<ref>{{Cite web |author=Martín Contreras |date=6 January 2025 |title=Diputado Félix González anuncia su candidatura presidencial por el Partido Ecologista Verde |url=https://www.latercera.com/politica/noticia/diputado-felix-gonzalez-anuncia-su-candidatura-presidencial-por-el-partido-ecologista-verde/AVNHFDKYDRH33NHB5IVRBU35Z4/ |access-date=30 April 2025 |website=La Tercera |language=es}}</ref> González ultimately did not register and did not appear on the November 2025 ballot.<ref name="Martínez-2025b">{{Cite web |last=Martínez |first=Roberto |date=19 August 2025 |title=Los ocho aspirantes a La Moneda que inscribieron sus candidaturas en el Servel |url=https://www.latercera.com/politica/noticia/los-ocho-aspirantes-a-la-moneda-que-inscribieron-sus-candidaturas-en-el-servel/ |access-date=19 August 2025 |website=La Tercera |language=es}}</ref>
+* [[Vlado Mirosevic]] ([[Liberal Party of Chile (2013)|Liberal Party]], PL), deputy for District 1 in the [[Arica y Parinacota Region|Arica and Parinacota Region]], was proclaimed his party's presidential candidate on 12 October 2024 and planned to run in the center-left primaries. But with the Liberal Party lacking national status, it needed 35,361 signatures to validate his candidacy; by 31 March, it had only 9,851 members. Mirosevic withdrew on 16 April 2025 and endorsed Carolina Tohá.<ref name="González-2025a">{{Cite web |last=González |first=Antonio |date=16 April 2025 |title=Vlado Mirosevic abandona carrera presidencial y respaldará a Carolina Tohá |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/04/16/vlado-mirosevic-abandona-carrera-presidencial-y-respaldara-a-carolina-toha.shtml |access-date=17 April 2025 |website=BioBioChile |language=es}}</ref> He denied the signature shortfall was the reason, arguing that multiple candidates from the PS, PPD, and PL risked handing victory to the Communist Party, and called Tohá the most competitive option.<ref>{{Cite web |title=Diputado Mirosevic: "Carolina Tohá hoy es la candidata más competitiva para ganarle a las derechas" |url=https://tele13radio.cl/show/entrevista-de-conexion-tele13/episode/diputado-mirosevic-carolina-toha-hoy-es-la-candidata-mas-competitiva-para-ganarle-a-las-derechas- |date=18 April 2025 |access-date=20 April 2025 |website=Tele13 Radio}}</ref>
+* [[Francesca Muñoz]] ([[Christian Social Party (Chile)|Christian Social Party]], PSC), deputy for District 20 in the Biobío Region, was proclaimed her party's presidential candidate on 29 April 2025, following the resignation of Senator [[Rojo Edwards]] and amid a new alliance with the Republican and National Libertarian parties.<ref>{{Cite web |date=29 April 2025 |title=Surge candidatura presidencial evangélica en la derecha: PSC proclama a diputada Francesca Muñoz |url=https://www.elmostrador.cl/noticias/pais/2025/04/29/surge-candidatura-presidencial-evangelica-en-la-derecha-psc-proclama-a-diputada-francesca-munoz/ |access-date=30 April 2025 |website=El Mostrador |language=es}}</ref> But on 30 June, she ended her bid and endorsed [[José Antonio Kast]], calling the moment one that "demands brave, generous, and responsible decisions," and urging her supporters to back his candidacy.<ref>{{Cite news |date=30 June 2025 |title=Francesca Muñoz (PSC) baja su candidatura presidencial para entregar apoyo a José Antonio Kast |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/06/30/por-amor-a-chile-francesca-munoz-anuncia-respaldo-del-partido-social-cristiano-a-jose-antonio-kast.shtml |access-date=30 June 2025 |work=[[Radio Bío-Bío]]}}</ref>
+* [[Ximena Rincón]] ([[Democrats (Chile)|Demócratas)]], senator for the [[Maule Region]], was proclaimed as the party's presidential candidate on 15 March 2025.<ref name="Emol-2025c">{{Cite web |date=15 March 2025 |title=Demócratas proclama a Ximena Rincón como su candidata presidencial y explorará posibilidad de primarias |url=https://www.emol.com/noticias/Nacional/2025/03/15/1160516/democratas-ximena-rincon-candidata.html |access-date=16 March 2025 |website=Emol |language=Spanish}}</ref> The party indicated it would explore the possibility of joining a primary with other political forces, emphasizing a centrist path "far from the extremes" and aiming for broader parliamentary representation. Rincón framed her prospective campaign around dialogue and moderation, asserting that Chile could "once again be admired and respected around the world."<ref name="Emol-2025c" /> However, she ultimately did not register her candidacy with Servel and therefore did not appear on the ballot for the November 2025 election.<ref name="Martínez-2025b" />
+* Marcelo Trivelli (independent, ex-DC), former intendant of the [[Santiago Metropolitan Region]], ended his presidential bid on 31 July 2025 after failing to gather the 36,000 signatures required to run as an independent. He acknowledged the lack of both citizen support and backing from the Christian Democratic Party, which instead endorsed Jeannette Jara. Trivelli criticized the DC for "abandoning its historic convictions" and stated he would continue working on initiatives promoting social cohesion.<ref>{{Cite web |last=Quiroz |first=Nelson |date=31 July 2025 |title=Se baja candidato presidencial: no alcanzó a reunir las firmas necesarias para postular |url=https://www.adnradio.cl/2025/07/31/se-baja-candidato-presidencial-no-alcanzo-a-reunir-las-firmas-necesarias-para-postular/ |access-date=1 August 2025 |website=ADN Radio |language=es}}</ref>
+* [[Alberto Undurraga]] ([[Christian Democratic Party (Chile)|Christian Democratic Party]], DC), deputy for District 8 and party president, formally withdrew his presidential candidacy on 10 May 2025 during a National Council meeting, following mounting internal criticism and isolation from broader center-left alliances.<ref name="Fuentes-2025">{{Cite web |last=Fuentes |first=Cristóbal |date=10 May 2025 |title=Alberto Undurraga depone candidatura presidencial en medio de junta nacional de la DC |url=https://www.latercera.com/politica/noticia/alberto-undurraga-depone-candidatura-presidencial-en-medio-de-junta-nacional-de-la-dc/ |access-date=11 May 2025 |website=La Tercera |language=es}}</ref> Though previously proclaimed by the party to run in primaries, the DC's Supreme Tribunal annulled the mandate after no pact was reached and the primary deadline passed.<ref>{{Cite web |date=3 May 2025 |title=Tribunal Supremo de la DC declara cesada la candidatura presidencial de Alberto Undurraga |url=https://www.emol.com/noticias/Nacional/2025/05/03/1165294/candidatura-dc-alberto-undurraga-presidencial.html |access-date=4 May 2025 |website=Emol |language=Spanish}}</ref> Amid growing dissent and key figures like [[Ignacio Walker]] and [[Genaro Arriagada]] endorsing Carolina Tohá, Undurraga acknowledged that internal conditions were not conducive to a viable candidacy. He cited the need to avoid damaging the party and pledged to focus on parliamentary negotiations and promoting the DC's programmatic agenda.<ref name="Fuentes-2025" />
+* [[Paulina Vodanovic]] ([[Socialist Party of Chile|Socialist Party]], PS), senator for the Maule Region and PS president, withdrew her presidential candidacy on 28 April 2025, just two weeks after being unanimously proclaimed by the party's central committee.<ref>{{Cite web |last=Silva |first=Constanza Carrillo |date=28 April 2025 |title=Paulina Vodanovic (PS) baja su candidatura presidencial previo a inscripción de primarias |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/04/28/paulina-vodanovic-ps-habria-bajado-su-candidatura-presidencial-previo-a-inscripcion-de-primarias.shtml |access-date=29 April 2025 |website=BioBioChile |language=es}}</ref> She cited the lack of support from other parties and the need to back a unified candidacy within the center-left, which consolidated around Carolina Tohá. Vodanovic stated that continuing her campaign would have required political conditions that did not materialize and emphasized the importance of unity against the right.<ref>{{Cite web |last=Fuentes |first=Samuel |date=28 April 2025 |title=Paulina Vodanovic (PS) atribuye baja de su candidatura a falta de apoyo en otros partidos |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/04/28/paulina-vodanovic-ps-atribuye-baja-de-su-candidatura-a-falta-de-apoyo-en-otros-partidos.shtml |access-date=29 April 2025 |website=BioBioChile |language=es}}</ref>
+
+=== Declined ===
+* [[Michelle Bachelet]] ([[Socialist Party of Chile|Socialist Party]]), former [[president of Chile]] (2006–2010, 2014–2018), announced on 5 March 2025 that she would not run for a third term, stating that "good politics demands renewal." Her decision ended months of speculation within the ruling coalition. In a statement from her foundation Horizonte Ciudadano, she said others in her sector were "valuable and capable", and pledged to support whoever is ultimately chosen to represent the center-left in the November election.<ref>{{Cite web |title=Bachelet se baja de la carrera presidencial: "La buena política exige renovación" |url=https://cooperativa.cl/noticias/pais/politica/presidenciales/bachelet-se-baja-de-la-carrera-presidencial-la-buena-politica-exige/2025-03-05/121558.html |access-date=4 April 2025 |website=Cooperativa.cl |language=es}}</ref>
+* [[Rodolfo Carter]] (UDI–Chile Vamos), former [[Alcalde|mayor]] of [[La Florida, Chile|La Florida]]<ref>{{Cite web |date=10 March 2025 |title=Rodolfo Carter (Ind.): "Si Chile Vamos no hace primarias, no veo espacio para estar en esa coalición como candidato a parlamentario" |url=https://www.emol.com/noticias/Nacional/2025/03/09/1159847/rodolfo-carter-elecciones-chile-vamos.html |access-date=7 June 2025 |website=Emol |language=Spanish}}</ref><ref>{{Cite web |last=Silva |first=Daniela |date=11 June 2025 |title=Rodolfo Carter anuncia que se suma al equipo de José Antonio Kast |url=https://www.latercera.com/politica/noticia/rodolfo-carter-anuncia-que-se-suma-al-equipo-de-jose-antonio-kast/ |access-date=11 June 2025 |website=La Tercera |language=es}}</ref>
+* [[Rojo Edwards]] ([[Christian Social Party (Chile)|Christian Social Party]], PSC), senator for [[Santiago Metropolitan Region|Santiago]], was briefly considered a potential presidential candidate by the PSC. In an initial internal vote, he was selected without unanimous support from the party's parliamentary members. However, at a second meeting, Edwards rejected the political guidelines set by the PSC for its presidential nominee. On 23 April 2025, the party's national leadership revoked his candidacy, citing the need for a candidate aligned with its political project.<ref>{{Cite web |last=Silva |first=Constanza Carrillo |date=24 April 2025 |title=Partido Social Cristiano (PSC) descarta llevar al senador Rojo Edwards como candidato presidencial |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/04/24/partido-social-cristiano-psc-descarta-llevar-al-senador-rojo-edwards-como-candidato-presidencial.shtml |access-date=25 April 2025 |website=BioBioChile |language=es}}</ref> On 28 April 2025, he resigned from the party.<ref>{{Cite web |last=Friz |first=Génesis |date=28 April 2025 |title=Rojo Edwards renuncia al Partido Social Cristiano tras ser descartado como candidato presidencial |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/04/28/rojo-edwards-renuncia-al-partido-social-cristiano-tras-ser-descartado-como-candidato-presidencial.shtml |access-date=29 April 2025 |website=BioBioChile |language=es}}</ref>
+* [[Daniel Jadue]] ([[Communist Party of Chile|Communist Party]]), former mayor of [[Recoleta, Chile|Recoleta]], declined to pursue a presidential bid after his party proclaimed Labor Minister Jeannette Jara as its candidate on 5 April 2025. Jadue, under [[house arrest]] in connection with the "People's Pharmacies" case, had previously expressed interest in returning to the race. Communist Party president [[Lautaro Carmona]] announced that Jadue would instead run for deputy in the 9th district, replacing [[Karol Cariola]], who is seeking a Senate seat in Valparaíso.<ref>{{Cite web |last=González |first=Alberto |date=5 April 2025 |title=PC anuncia candidatura a diputado de Daniel Jadue tras ratificar carrera presidencial de ministra Jara |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/04/05/pc-anuncia-candidatura-a-diputado-de-daniel-jadue-tras-ratificar-carrera-presidencial-de-ministra-jara.shtml |access-date=6 April 2025 |website=BioBioChile |language=es}}</ref> However, that deputy candidacy did not materialize either because the [[Election Certification Tribunal]] (Tricel) excluded Jadue from the electoral register and barred him from appearing on the ballot, effectively preventing him from running for deputy.<ref>{{Cite web |date=2025-10-16 |title=Portazo definitivo: Tricel rechaza solicitud de Jadue y no podrá ser candidato a diputado |url=https://www.emol.com/noticias/Nacional/2025/10/16/1180646/tricel-jadue-no-candidato.html |access-date=2025-12-18 |website=Emol |language=Spanish}}</ref>
+* [[Rodrigo Mundaca]] (ind.), Governor of the [[Valparaíso Region]] (2021-)<ref>{{Cite web |date=12 April 2025 |title=Mundaca se abre a posible candidatura presidencial: "Vamos esperar el resultado de la primaria" |url=https://www.emol.com/noticias/Nacional/2025/04/12/1163349/mundaca-candidatura-presidencial-primarias.html |access-date=12 April 2025 |website=Emol |language=Spanish}}</ref>
+* [[Claudio Orrego]] (independent, ex-[[Christian Democratic Party (Chile)|DC]]), re-elected [[governor of the Santiago Metropolitan Region]] on 24 November 2024, declined to pursue a presidential candidacy despite speculation following his electoral victory. In a press conference after meeting President Gabriel Boric at [[La Moneda Palace|La Moneda]], Orrego ruled out a presidential run, stating, "My only plan is to be governor for the next four years," and said, "We'll have to look for other leaderships."<ref>{{Cite web |last=Thomson |first=Javier |date=25 November 2024 |title=Orrego descartó candidatura presidencial tras triunfo en la RM: "Mi plan es ser gobernador los cuatro años" |url=https://www.t13.cl/noticia/politica/elecciones-2024/orrego-descarto-candidatura-presidencial-tras-triunfo-rm-mi-plan-ser-gobernador-25-11 |access-date=26 January 2025 |website=T13 |language=es}}</ref>
+* [[Gaspar Rivas]], member of the [[Chamber of Deputies of Chile]]<ref>{{Cite web |last=Ortiz |first=Florencia |date=15 November 2023 |title="Le voy a ganar a Franco Parisi": Gaspar Rivas anuncia precandidatura presidencial por el PDG |url=https://www.biobiochile.cl/noticias/nacional/chile/2023/11/15/le-voy-a-ganar-a-franco-parisi-gaspar-rivas-anuncia-precandidatura-presidencial-por-el-pdg.shtml |access-date=26 January 2025 |website=BioBioChile |language=es}}</ref>
+* [[Beatriz Sánchez (journalist)|Beatriz Sánchez]] (independent, pro-[[Frente Amplio (Chilean political party)|Frente Amplio]]), journalist and former presidential candidate<ref>{{Cite web |title=Beatriz Sánchez renunció como embajadora de Chile en México |url=https://cooperativa.cl/noticias/pais/gobierno/beatriz-sanchez-renuncio-como-embajadora-de-chile-en-mexico/2025-04-10/131104.html |access-date=12 April 2025 |website=Cooperativa.cl |language=Spanish}}</ref>
+* [[Camila Vallejo]] ([[Communist Party of Chile]]–[[Chile Digno]]), [[Ministry General Secretariat of Government (Chile)|Minister General Secretariat of Government]]<ref>{{Cite web |title=Camila Vallejo descartó candidatura presidencial y aseguró que su "deber" está con el gobierno del presidente Boric |url=https://www.cnnchile.com/pais/camila-vallejo-descarto-candidatura-presidencial_20240305/ |access-date=26 January 2025 |website=CNN Chile |language=en}}</ref>
+* [[Tomás Vodanovic]] ([[Frente Amplio (Chilean political party)|Frente Amplio]]), Mayor of [[Maipú, Chile|Maipú]].<ref>{{Cite web |last=Meza |first=Cristián |date=22 January 2025 |title=Tomás Vodanovic nuevamente cerró la puerta a ser el candidato presidencial del Frente Amplio |url=https://www.eldinamo.cl/politica/2025/01/22/tomas-vodanovic-nuevamente-cerro-la-puerta-a-ser-el-candidato-presidencial-del-frente-amplio/ |access-date=26 January 2025 |website=El Dínamo |language=es}}</ref>
+
+=== Speculated ===
+* [[Ignacio Briones]] ([[Evópoli]]), former [[Ministry of Finance (Chile)|Minister of Finance]] (2018–2021)<ref name="Somos Activa">{{Cite web |title=Pulso Ciudadano Marzo |url=https://chile.activasite.com/estudios/pulso-ciudadano-marzo/ |access-date=17 July 2023 |website=Somos Activa}}</ref><ref name="researchchile">{{Cite web |title=Estudios |url=https://researchchile.cl/estudios/ |access-date=1 November 2023 |work=researchchile |language=es-CL}}</ref>
+* [[Eduardo Frei Ruiz-Tagle]] ([[Christian Democratic Party (Chile)|Christian Democratic Party]]), former [[President of Chile]] (1994–2000)<ref>{{Cite web |date=9 January 2025 |title=Militantes DC piden a Eduardo Frei Ruiz-Tagle ser candidato presidencial |url=https://www.nuevopoder.cl/militantes-dc-piden-a-eduardo-frei-ruiz-tagle-ser-candidato-presidencial/ |access-date=26 January 2025 |work=Nuevo Poder |language=es-ES}}</ref>
+* [[José Antonio Gómez Urrutia|José Antonio Gómez]] ([[Radical Party of Chile|Radical Party]]), Minister of Defence (2014–2018)<ref>{{Cite web |last=Palacios |first=Jorge |date=16 December 2024 |title=La discusión presidencial llegó al oficialismo: tres partidos posicionan candidatos y el PS y el Frente Amplio comienzan la búsqueda de nombres |url=https://www.theclinic.cl/2024/12/16/oficialismo-inicia-danza-de-nombres-de-candidatos-presidenciales/ |access-date=26 January 2025 |website=The Clinic |language=es}}</ref>
+
+==Parliamentary candidates==
+On 1 September 2025, all candidates for the Chamber of Deputies and the Senate were announced; 1,091 candidates for the Chamber of Deputies and 130 for the Senate:<ref name="parlcan" >{{cite news |last1=Dote |first1=Sebastián |title=Quiénes son los candidatos a diputados y senadores para las elecciones parlamentarias de Chile 2025 |url=https://elpais.com/chile/2025-11-13/quienes-son-los-candidatos-a-diputados-y-senadores-para-las-elecciones-parlamentarias-de-chile-2025.html |access-date=16 December 2025 |date=13 November 2025}}</ref>
+*[[Change for Chile]]: Coalition of right-wing parties formed by the Republican Party, the Social Christian Party (PSC), and the National Libertarian Party (PNL).<ref name="parlcan" />
+*[[Unidad por Chile]]: Coalition of the ruling center-left and left-wing parties: Frente Amplio (FA); the Communist Party (PC); the Socialist Party (PS); the Party for Democracy (PPD); the Radical Party (PR); the Liberal Party (PL); and the Christian Democrats (DC), the latter of which is not part of Boric's government.<ref name="parlcan" />
+*[[Chile Grande y Unido]]: right-wing coalition of the traditional right-wing Chilean parties composed of National Renewal (RN); the Independent Democratic Union (UDI); Political Evolution (Evópoli), and Democrats.<ref name="parlcan" />
+*[[Greens, Regionalists and Humanists]]: coalition formed by the Regionalist Green Social Federation (FRVS) and Humanist Action (AH).<ref name="parlcan" />
+*[[Popular Ecologist, Animalist, and Humanist Left]]: coalition formed by the Humanist Party (PH) and the Equality Party (PI).<ref name="parlcan" />
+
+==Campaign==
+===First round===
+The campaign for the general election officially began on 17 September 2025 and with eight presidential candidates, the main contest was between Jeannette Jara and José Antonio Kast.<ref>{{cite news |title=Comenzó la campaña electoral en Chile: ocho candidatos y una polarizada disputa entre Jara y Kast |url=https://www.infobae.com/america/mundo/2025/09/17/comenzo-la-campana-electoral-en-chile-ocho-candidatos-y-una-polarizada-disputa-entre-jara-y-kast/ |access-date=16 December 2025 |work=Infobae |date=17 September 2025}}</ref>
+
+A polarising election, the campaign's main concerns were rising gang violence and migration from [[Venezuela]], rather than traditional economic or social issues.<ref>{{cite web | title='Make Chile Great Again': Insecurity marks the Chilean elections | date=15 November 2025 | url=https://www.euronews.com/2025/11/15/make-chile-great-again-security-and-migration-dominate-the-most-tense-election-in-decades }}</ref><ref>{{cite web | title=Chile votes for next president in contest dominated by crime and migration fears | work=The Guardian | date=16 November 2025 | url=https://www.theguardian.com/world/2025/nov/16/chile-election-president-crime-migration-fears }}</ref> 
+
+Among Kast's campaign pledges were cuts to public spending and the creation of a police force against illegal migration inspired by the [[United States Immigration and Customs Enforcement]].<ref>{{cite web |title=Hard-right candidate Jose Antonio Kast wins Chile presidential election |url=https://www.france24.com/en/live-news/20251214-hard-right-candidate-jose-antonio-kast-wins-chile-presidential-election |website=France 24 |access-date=15 December 2025 |date=15 December 2025}}</ref> Analysts also expected the results could pave way for more market friendly initiatives as Kast was favored to win.<ref>{{Cite web |title=Chile peso firms, stocks rally after right-wing tilt in Sunday elections |url=https://www.reuters.com/world/americas/chile-vote-sets-stage-cautious-market-rally-strong-far-right-showing-2025-11-17/ |website=Reuters}}</ref>
+
+In general terms, right-wing and far-right parties proposed fiscal austerity measures, promotion of private investment, reduction of the state and tough security policies such as militarization, mass deportations and police defense.<ref name="pais">{{cite news |title=Compare las propuestas de los candidatos a la presidencia de Chile |url=https://elpais.com/chile/2025-11-16/compare-las-propuestas-de-los-candidatos-a-la-presidencia-de-chile.html |access-date=16 December 2025 |work=[[El País]] |date=16 November 2025}}</ref> Jara, for her part, advocated for greater state intervention, expansion of social benefits such as basic income, regulation of prices for essential services, strengthening gun control, and temporary biometric registration for immigrants.<ref name="pais" />
+
+===Second round===
+The campaign for the second round began on 17 November.<ref name="euronews2">{{cite news |title=Inicia la campaña en Chile de cara a la segunda vuelta |url=https://www.dw.com/es/inicia-la-campa%C3%B1a-en-chile-de-cara-a-balotaje-con-kast-de-favorito/a-74784964 |access-date=16 December 2025 |work=Euronews |date=18 November 2025}}</ref> Jeannette Jara started it with an event involving women in the [[La Pintana]] neighborhood of Santiago while José Antonio Kast started his campaign in the city of [[Temuco]].<ref name="euronews2" />
+
+Insecurity was once again the key issue of the campaign, with Jara declaring that she would strengthen the police force, lift banking secrecy in order to track down money linked to drug trafficking, and reclaim neighborhoods from criminal gangs.<ref name="euronews2" /> For his part, Kast, speaking from Temuco, the capital of a region militarized since 2022 due to violence from criminal gangs, promised to deport migrants and erect a "border shield".<ref name="euronews2" />
+
+The main televised debate between the two candidates took place on the evening of 9 December and was organized by the National Television Association (Anatel), which, according to Anatel, was watched by over seven million people.<ref>{{cite web |title=Debate Anatel alcanzó a más de 7 millones de personas, consolidándose como uno de los eventos más masivos y vistos del año |url=https://anatel.cl/debate-anatel-alcanzo-a-mas-de-7-millones-de-personas-consolidandose-como-uno-de-los-eventos-mas-masivos-y-vistos-del-ano/?utm_source=chatgpt.com |website=Anatel |access-date=16 December 2025 |date=10 December 2025}}</ref><ref>{{cite news |title=Debate Anatel: Jara y Kast se enfrentan en el último cara a cara antes de las elecciones |url=https://cooperativa.cl/noticias/pais/politica/presidenciales/debate-anatel-jara-y-kast-se-enfrentan-en-el-ultimo-cara-a-cara-antes/2025-12-09/084722.html?utm_source=chatgpt.com |access-date=16 December 2025 |work=[[Radio Cooperativa]] |date=9 December 2025}}</ref>
+
+Throughout his campaign, Kast used [[bulletproof glass]] at his rallies, a fact that was criticized by Jara.<ref>{{cite news |last1=Gómez S. |first1=Rodrigo |title=Kast defiende uso de vidrio blindado ante críticas de Jara y descarta cambio de estrategia en debate Anatel |url=https://www.latercera.com/politica/noticia/kast-defiende-uso-de-vidrio-blindado-ante-criticas-de-jara-y-descarta-cambio-de-estrategia-en-debate-anatel/ |access-date=16 December 2025 |work=La Tercera |date=10 December 2025}}</ref>
+
+==Endorsements==
+
+{| class="wikitable nowrap sortable"
+|+Endorsements from first-round candidates
+! colspan="2" | First-round candidate
+! First round
+! colspan="2" | Endorsement
+|-
+| style="background-color: {{party color|Party of the People (Chile)}};" |
+| [[Franco Parisi]]
+| 19.71%
+| colspan="2" ; |No endorsement<ref>{{cite news |title= Chile's power broker says he won't endorse communist or far-right rival for president|url=https://apnews.com/article/chile-franco-parisi-kingmaker-boric-kast-jara-00a293e41cdd5c34ae4956e42459c99e|work=AP News |access-date=22 November 2025 |date=21 November 2025}}</ref>
+|-
+| style="background-color: {{party color|National Libertarian Party}};" |
+| [[Johannes Kaiser (Chilean politician)|Johannes Kaiser]]
+| 13.94%
+| style="background-color: {{party color|Republican Party of Chile}};" |
+| [[José Antonio Kast]]<ref>{{cite web|url=https://www.conexaopolitica.com.br/politica/johannes-kaiser-da-direita-libertaria-anuncia-adesao-a-kast-no-2o-turno-do-chile/|title= Johannes Kaiser, da direita libertária, anuncia adesão a Kast no 2º turno do Chile |date=16 November 2025|work=Conexão Política|language=es}}</ref>
+|-
+| style="background-color: {{party color|Chile Grande y Unido}};" |
+| [[Evelyn Matthei]]
+| 12.46%
+| style="background-color: {{party color|Republican Party of Chile}};" |
+| [[José Antonio Kast]]<ref>{{Cite news|url=https://www.theguardian.com/world/2025/nov/17/far-right-candidate-jose-antonio-kast-favourite-to-become-chiles-next-president-after-first-round-vote|title=Far-right candidate José Antonio Kast favourite to become Chile's next president after first round vote|work=The Guardian|date=17 November 2025}}</ref>
+|-
+| style="background-color: {{party color|Independent}};" |
+| [[Harold Mayne-Nicholls]]
+| 1.26%
+| colspan=2 |No endorsement
+|-
+| style="background-color: {{party color|Independent}};" |
+| [[Marco Enríquez-Ominami]]
+| 1.20%
+| colspan=2 |No endorsement
+|-
+| style="background-color: {{party color|Chilean Communist Party (Proletarian Action)}};" |
+| [[Eduardo Artés]]
+| 0.66%
+| colspan=2 |No endorsement
+|}
+
+{| class="wikitable nowrap sortable"
+|+Endorsements from political parties and movements
+! colspan="2" | {{abbr|All.|Alliance}}
+! colspan="2" | Party
+! Ideology
+! colspan="2" | Endorsement
+|-
+| style="background-color: {{party color|Change for Chile}};" |
+| [[Change for Chile|CpCh]]
+| style="background-color: {{party color|National Libertarian Party}};" |
+| [[National Libertarian Party]]
+| [[Right-libertarianism]]
+| style="background-color: {{party color|Republican Party of Chile}};" |
+| [[José Antonio Kast]]<ref>{{cite news |title=PNL reitera apoyo a Kast y acusa intentos de «silenciamiento»|url=https://www.nuevopoder.cl/pnl-reitera-apoyo-a-kast-y-acusa-intentos-de-silenciamiento/|work=Nuevo Poder |access-date=21 November 2025 |date=21 November 2025|lang=es}}</ref>
+|-
+| rowspan="4" style="background-color: {{party color|Chile Grande y Unido}};" |
+| rowspan="4" | [[Chile Grande y Unido|ChGyU]]
+| style="background-color: {{party color|Independent Democratic Union}};" |
+| [[Independent Democratic Union]]
+| [[Conservatism]]
+| style="background-color: {{party color|Republican Party of Chile}};" |
+| [[José Antonio Kast]]<ref>{{cite news |title= UDI reafirma compromiso con campaña de Kast y califica de "exageradas" las críticas a Chile Vamos |url= https://www.biobiochile.cl/noticias/nacional/chile/2025/11/17/udi-reafirma-compromiso-con-campana-de-kast-y-califica-de-exageradas-las-criticas-a-chile-vamos.shtml |work=Radio Bío-Bío |access-date=19 November 2025 |date=17 November 2025|lang=es}}</ref>
+|-
+| style="background-color: {{party color|National Renewal (Chile)}};" |
+| [[National Renewal (Chile)|National Renewal]]
+| [[Liberal conservatism]]
+| style="background-color: {{party color|Republican Party of Chile}};" |
+| [[José Antonio Kast]]<ref>{{cite news |title= "Tenemos el deber": RN anuncia respaldo a la candidatura de José Antonio Kast |url= https://www.elmostrador.cl/noticias/pais/2025/11/19/tenemos-el-deber-rn-anuncia-respaldo-a-la-candidatura-de-jose-antonio-kast/ |work=El Mostrador |access-date=19 November 2025 |date=19 November 2025|lang=es}}</ref>
+|-
+| style="background-color: {{party color|Evópoli}};" |
+| [[Evópoli]] 
+| [[Classical liberalism]]
+| style="background-color: {{party color|Republican Party of Chile}};" |
+| [[José Antonio Kast]]<ref>{{cite web|url=https://www.facebook.com/evopoli/posts/pfbid0T8JqQZhHw6wVGP6pdQbaPwEMQyb8MWncDcUk1PU6r73FRFfmHMtibTc1JjmRwKqQl|title=Los equipos de los partidos de oposición se reunieron esta mañana para coordinar el trabajo de cara a la segunda vuelta del 14 de diciembre.|date=26 November 2025|via=[[Facebook]]|author=Evópoli|language=es}}</ref>
+|-
+| style="background-color: {{party color|Democrats (Chile)}};" |
+| [[Democrats (Chile)|Democrats]] (dissolving)
+| [[Christian democracy]]
+| style="background-color: {{party color|Republican Party of Chile}};" |
+| [[José Antonio Kast]]<ref>{{cite web|url=https://www.biobiochile.cl/noticias/nacional/chile/2025/12/01/democratas-se-reunen-con-kast-para-dar-su-respaldo-a-su-candidatura-presidencial.shtml|title= Demócratas oficializa apoyo a Kast: Rincón llama a no "repetir errores del pasado" |date=1 December 2025|work=Radio Bío-Bío |access-date=1 December 2025|language=es}}</ref>
+|-
+| rowspan=3 colspan="2" ; {{n/a}}
+| style="background-color: #FF0000;" |
+| {{ill|Liberty Party (Chile)|lt=Liberty Party|es|Movimiento Libertad (Chile)}} (in formation)
+| [[Right-libertarianism]]
+| style="background-color: {{party color|Republican Party of Chile}};" |
+| [[José Antonio Kast]]<ref>{{Cite Instagram |user=rojoedwards |postid=DRIuGaUEd2g |title=Comunicado de Prensa Domingo 16 noviembre 2025 |date=16 November 2025|lang=es}}</ref>
+|-
+| style="background-color: {{party color|Party of the People (Chile)}};" |
+| [[Party of the People (Chile)|Party of the People]]
+| [[Populism]]
+| colspan="2" ; |No endorsement<ref>{{cite news |title=¿Cómo votará el electorado del PDG? Parisi asegura que el 75% anulará|url=https://radio.uchile.cl/2025/11/22/como-votara-el-electorado-del-pdg-parisi-asegura-que-el-75-anulara/|work=Radio Universidad de Chile |access-date=23 November 2025 |date=22 November 2025|lang=es}}</ref>
+|-
+| style="background-color: {{party color|Amarillos por Chile}};" |
+| [[Amarillos por Chile]] (dissolving)
+| [[Centrism]]
+| style="background-color: {{party color|Republican Party of Chile}};" |
+| [[José Antonio Kast]]<ref>{{cite news |title=Demócratas y Amarillos se alinea con José Antonio Kast y formaliza apoyo para la segunda vuelta|url=https://www.noticiaslosrios.cl/2025/12/01/democratas-y-amarillos-se-alinea-con-jose-antonio-kast-y-formaliza-apoyo-para-la-segunda-vuelta/|work=Noticias Los Ríos |access-date=3 December 2025 |date=1 December 2025|lang=es}}</ref>
+|}
+
+{{Endorsements box
+|title=José Antonio Kast
+|colwidth=
+|list=
+;Former officials
+* [[Eduardo Frei Ruiz-Tagle]], former [[President of Chile]]<ref>{{cite web|title = Apoyo de Frei a Kast desata quiebre con la DC y un duro control de daños en el comando de Jara|url = https://www.elmostrador.cl/noticias/pais/2025/11/30/apoyo-de-frei-a-kast-desata-quiebre-con-la-dc-y-un-duro-control-de-danos-en-el-comando-de-jara-2/|website = [[El Mostrador(Chile)|El Mostrador]]|date = 30 November 2025|access-date = 15 December 2025}}</ref>
+* [[Jaime Campos]], former Minister of Agriculture and Justice ''([[Radical Party of Chile (2018)|Radical]])''<ref>{{cite news |title=Ministro de Bachelet, Jaime Campos, da su apoyo a José A. Kast en el balotaje|url=https://www.nuevopoder.cl/ministro-de-bachelet-jaime-campos-da-su-apoyo-a-jose-a-kast-en-el-balotaje/|work=Nuevo Poder|access-date=20 November 2025 |date=21 November 2025}}</ref>
+* [[Carlos Maldonado Curti]], former Minister of Justice ''([[Democrats (Chile)|Democrats]])''<ref>{{cite news |title= Carlos Maldonado de cara a segunda vuelta: "En 2021 anulé, esta vez votaré por Kast"|url= https://www.24horas.cl/programas/manana-informativa/carlos-maldonado-voto-kast |work=24horas.cl |access-date=18 November 2025 |date=18 November 2025}}</ref>
+* [[Sebastián Sichel]], former Minister of Social Development and presidential candidate in 2021<ref>{{cite news |title= Sichel dice que se acabó Chile Vamos y anuncia voto a Kast: "Haré lo que pueda para que no gane Jara" |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/11/17/sichel-dice-que-se-acabo-chile-vamos-y-anuncia-voto-a-kast-hare-lo-que-pueda-para-que-no-gane-jara.shtml|work=Radio Bío-Bío |access-date=17 November 2025 |date=21 November 2025}}</ref>
+* [[Jaime Ravinet]], former Minister of Defence.<ref name="Emol-20251126">{{Cite web |date=26 November 2025 |title=Ex autoridades del Partido Radical se suman a apoyos a Kast para el balotaje |url=https://www.emol.com/noticias/Nacional/2025/11/26/1184254/apoyokast-figuras-partido-radical.html |access-date=7 December 2025 |website=Emol |language=Spanish}}</ref>
+* [[Ricardo Navarrete]], former ambassador of Chile in Colombia.<ref name="Emol-20251126" />
+* [[Sergio Jiménez Moraga]], former Minister of Mining.<ref name="Emol-20251126" />
+* [[Ricardo Yáñez]], former general director of [[Carabineros de Chile|Chilean Carabineros]]<ref>{{Cite web |title=Exgeneral Yáñez y apoyo a Kast: "Siempre ha defendido a Carabineros y es lo que la institución necesita" |url=https://www.24horas.cl/programas/via-publica/exgeneral-yanez-y-apoyo-a-kast-siempre-ha-defendido-a-carabineros- |access-date=8 December 2025 |website=24 Horas |language=es-CL}}</ref>
+
+; Local officials
+* [[Helmuth Martínez]], mayor of [[Carahue]]<ref>{{Cite web |date=30 November 2025 |title=Alcalde independiente de izquierda se suma a la campaña de Kast |url=https://araucaniadiario.cl/contenido/31290/alcalde-independiente-de-izquierda-se-suma-a-la-campana-de-kast-en-la-araucania |access-date=7 December 2025 |website=Araucanía Diario |language=es}}</ref>
+; Governors
+* Diego Paco Mamani, governor of Arica.<ref name="EMI-20251120">{{Cite web |date=20 November 2025 |title=Gobernadores regionales encabezados por Álvarez-Salamanca entregan su apoyo a José Antonio Kast en segunda vuelta presidencial |url=https://elmauleinforma.cl/gobernadores-regionales-encabezados-por-alvarez-salamanca-entregan-su-apoyo-a-jose-antonio-kast-en-segunda-vuelta-presidencial/ |access-date=7 December 2025 |website=El Maule Informa |language=es-CL}}</ref>
+* Cristóbal Juliá, governor of Coquimbo.<ref name="EMI-20251120" />
+* Sergio Giacaman, governor of Biobío.<ref name="EMI-20251120" />
+* [[Pedro Álvarez-Salamanca (politician, born 1976)|Pedro Álvarez-Salamanca Ramírez]], governor of Maule.<ref name="EMI-20251120" />
+* [[Alejandro Santana Tirachini]], governor of Los Lagos.<ref name="EMI-20251120" />
+* Marcelo Santana Vargas, governor of Aysén.<ref name="EMI-20251120" />
+
+;Individuals
+* [[Javier Olivares]], journalist and elected Member of the Chamber of Deputies of Chile.<ref>{{Cite web |date=3 December 2025 |title=Diputado electo del PDG desliza su apoyo a Kast y critica a gobierno de Boric: "98 días para que dejemos de sufrir" |url=https://www.emol.com/noticias/Nacional/2025/12/03/1184928/olivares-pdg-apoyo-kast.html |access-date=7 December 2025 |website=Emol |language=Spanish}}</ref>
+* [[Cecilia Morel]], former first lady of Chile (2010–2014; 2018–2022)<ref>{{Cite web |last=Yáñez |first=Nelly |date=18 November 2025 |title=Las razones del respaldo de los Piñera Morel a José Antonio Kast |url=https://www.latercera.com/politica/noticia/las-razones-del-respaldo-de-los-pinera-morel-a-jose-antonio-kast/ |access-date=7 December 2025 |website=La Tercera |language=es}}</ref>
+* [[Marcelo Ríos]], tennis player<ref>{{Cite web |title=Marcelo Ríos arremetió tras respuesta de Jeannette Jara |url=https://cooperativa.cl/noticias/deportes/tenis/marcelo-rios/marcelo-rios-arremetio-tras-respuesta-de-jeannette-jara/2025-12-07/160117.html |access-date=8 December 2025 |website=Cooperativa.cl |language=es}}</ref>
+
+;International politicians
+* [[Javier Milei]], [[president of Argentina]] (2023–present)<ref>{{cite news |title= Milei llamó al chileno Kast y confirma su apoyo para el ballotage |url= https://www.lapoliticaonline.com/internacionales/milei-llamo-al-chileno-kast-y-confirma-su-apoyo-para-el-balotagge-1645/ |work=LPO |access-date=19 November 2025 |date=18 November 2025}}</ref>
+* [[Santiago Abascal]], Member of the Spanish [[Congress of Deputies]] and president of [[Vox (political party)|VOX]]<ref>{{Cite web |date=17 November 2025 |title=Abascal felicita al chileno José Antonio Kast tras pasar a la segunda vuelta: "Anticipa un Chile seguro y libre" |url=https://www.infobae.com/america/agencias/2025/11/17/abascal-felicita-al-chileno-jose-antonio-kast-tras-pasar-a-la-segunda-vuelta-anticipa-un-chile-seguro-y-libre/ |access-date=7 December 2025 |website=infobae |language=es-ES}}</ref>
+
+;Organizations
+* [[New York Young Republican Club]]<ref>{{cite web|url=https://nyyrc.com/endorsements/nyyrc-endorses-jose-antonio-kast-for-president-in-the-2025-chilean-general-election/|title=NYYRC Endorses José Antonio Kast for President in the 2025 Chilean General Election|date=19 November 2025|access-date=21 November 2025}}</ref>
+}}
+{{Endorsements box
+|title=Jeannette Jara
+|colwidth=
+|list=
+;Former officials
+* [[Michelle Bachelet]], former [[United Nations High Commissioner for Human Rights]] and former [[President of Chile]]<ref>{{cite web|title = Michelle Bachelet offers explicit support to Jeannette Jara just days before runoff |url = https://www.elciudadano.com/en/key-breakfast-michelle-bachelet-offers-explicit-support-to-jeannette-jara-just-days-before-runoff /11/28/|website = [[El Ciudadano (Chile)|El Ciudadano]]|date = 28 November 2025|access-date = 30 November 2025}}</ref>
+* [[Mario Marcel]], former Minister of Finance<ref>{{Cite web |last=Zamarin |first=Felipe |date=22 November 2025 |title=Jara suma respaldo de exministro Marcel: entregará "soporte técnico" a su equipo económico |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/11/22/jeannette-jara-suma-al-exministro-mario-marcel-a-su-equipo-economico.shtml |access-date=8 December 2025 |website=BioBioChile - La Red de Prensa Más Grande de Chile |language=es}}</ref>
+;National officials
+* [[Gonzalo Winter]], Member of the Chamber of Deputies<ref>{{Cite web |last=L |first=Carolina Mardones |date=18 November 2025 |title=Siguen los refuerzos para segunda vuelta: Jeannette Jara ficha a Gonzalo Winter para liderar equipo de voluntarios |url=https://www.theclinic.cl/2025/11/18/siguen-los-refuerzos-para-segunda-vuelta-jeannette-jara-ficha-a-gonzalo-winter-para-liderar-equipo-de-voluntarios/ |access-date=8 December 2025 |website=The Clinic |language=es}}</ref>
+;Local officials
+* [[Macarena Ripamonti]], mayor of [[Viña del Mar]]<ref>{{Cite web |title=Macarena Ripamonti celebra resultado de Jara: "Sin miedo, vamos por esa segunda vuelta" |url=https://www.soychile.cl/Valparaiso/Politica/2025/11/16/929322/ripamonti-jara-segunda-vuelta-celebra.html}}</ref>
+* [[Tomás Vodanovic]], mayor of [[Maipú, Chile|Maipú]]<ref>{{Cite web |last=Delgado |first=Felipe |date=16 November 2025 |title=Vodanovic manifiesta confianza en Jara: "Lo único que nos queda a nosotros es apoyar su liderazgo" |url=https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2025/11/16/vodanovic-manifiesta-confianza-en-jara-lo-unico-que-nos-queda-a-nosotros-es-apoyar-su-liderazgo.shtml |access-date=8 December 2025 |website=BioBioChile - La Red de Prensa Más Grande de Chile |language=es}}</ref>
+* [[Jorge Sharp]], former mayor of [[Valparaíso]]<ref>{{Cite web |title=Tras no ser electo diputado: Sharp agradeció el apoyo de sus votantes y aprovechó de respaldar a Jeannette Jara |url=https://www.soychile.cl/valparaiso/politica/2025/11/18/929571/jorge-sharp-elecciones-diputado.html}}</ref>
+* [[Fuad Chahín]], former Regional Counseller of the Government for the Araucanía Region<ref>{{cite web|title =Fuad Chahin asegura que votará por Jara: "Ella es fruto de lo que fue la Concertación, de la meritocracia"|url = https://www.t13.cl/noticia/elecciones-2025/politica/fuad-chahin-asegura-votara-por-jara-ella-fruto-lo-fue-concertacion-meritocracia-4-12|website = [[Teletrece]]|date = 4 December 2025|access-date = 4 December 2025}}</ref>
+
+;Governors
+* [[René Saffirio]], governor of La Araucanía<ref>{{Cite web |date=2 December 2025 |title=Gobernador regional René Saffirio le entrega su total respaldo a Jeannette Jara |url=https://araucaniadiario.cl/contenido/31306/gobernador-regional-rene-saffirio-le-entrega-su-total-respaldo-a-jeannette-jara |access-date=7 December 2025 |website=Araucanía Diario |language=es}}</ref>
+
+;Individuals
+* Antonino Parisi, brother of the former presidential candidate, [[Franco Parisi]]<ref>{{Cite web |last=Baeza |first=Angélica |date=20 November 2025 |title=Antonino Parisi decide su voto en segunda vuelta y critica a uno de los candidatos: "Tiene un currículum en blanco" |url=https://www.publimetro.cl/noticias/2025/11/20/antonino-parisi-decide-su-voto-en-segunda-vuelta-y-critica-a-uno-de-los-candidatos-tiene-un-curriculum-en-blanco/ |access-date=7 December 2025 |website=Publimetro Chile |language=es}}</ref>
+* [[Luisa Durán]], former first lady of Chile (2000–2006)<ref>{{Cite web |last=Gamboa |first=Patricia Schüller |date=28 November 2025 |title=Jeannette Jara se reúne con Luisa Durán, esposa del expresidente Lagos |url=https://www.lanacion.cl/jeannette-jara-se-reune-con-luisa-duran-esposa-del-expresidente-lagos/ |access-date=7 December 2025 |website=La Nación |language=es-CL}}</ref>
+* [[Diamela Eltit]], Chilean writer<ref name=teletreceartistas>{{Cite web |date=3 December 2025 |title=Este es listado de las 236 figuras de la cultura y las artes que firmaron carta en apoyo a Jeannette Jara |url=https://www.t13.cl/noticia/elecciones-2025/espectaculos/las-236-figuras-cultura-las-artes-firmaron-carta-apoyo-jeannette-jara-3-12-2025 |access-date=7 December 2025 |website=Teletrece |language=es}}</ref>
+* [[Elicura Chihuailaf]], Chilean poet<ref name=teletreceartistas/>
+* [[Elvira Hernandez]], Chilean poet and literary critic<ref name=teletreceartistas/>
+* [[José Bengoa]], Chilean historian<ref name=teletreceartistas/>
+* [[Manuel Silva Acevedo]], Chilean poet<ref name=teletreceartistas/>
+* [[Patricio Guzmán]], Chilean documentary film director<ref name=teletreceartistas/>
+* [[Raúl Zurita]], Chilean writer<ref name=teletreceartistas/>
+* [[Rosabetty Muñoz]], Chilean poet<ref name=teletreceartistas/>
+* [[Alia Trabuco Zerán]], Chilean writer<ref name=teletreceartistas/>
+* [[Alejandra Costamagna]], Chilean writer and journalist<ref name=teletreceartistas/>
+* [[Miguel Littin]], Chilean film director<ref name=teletreceartistas/>
+* [[Alejandro Zambra]], Chilean poet<ref name=teletreceartistas/>
+* [[Alfredo Castro (actor)|Alfredo Castro]], Chilean actor<ref name=teletreceartistas/>
+* [[Amparo Noguera]], Chilean actress<ref name=teletreceartistas/>
+* [[Ana María del Río]], Chilean poet<ref name=teletreceartistas/>
+* [[Carmen Castillo (filmmaker)|Carmen Castillo]], French-Chilean filmmaker<ref name=teletreceartistas/>
+* [[Álvaro Henríquez]], Chilean singer-songwriter, vocalist of [[Los Tres]]<ref>{{Cite web |title=El animado encuentro entre Álvaro Henríquez y Jeannette Jara en la Yein Fonda |url=https://www.latercera.com/culto/noticia/el-animado-encuentro-entre-alvaro-henriquez-y-jeannette-jara-en-la-yein-fonda/ |access-date=15 December 2025 |website=CNN Chile |date=18 September 2025 |language=en}}</ref>
+* [[Daniel Rojas Pachas]], Chilean novelist<ref name=teletreceartistas/>
+* [[Daniela Ramírez]], Chilean actress<ref name=teletreceartistas/>
+* [[Francisco Reyes Morandé]], Chilean actor<ref name=teletreceartistas/>
+* [[Mon Laferte]], Chilean singer<ref>{{Cite web |title=Mon Laferte respalda candidatura de Jeannette Jara a una semana del balotaje |url=https://www.cnnchile.com/pais/mon-laferte-apoyo-jeannette-jara-segunda-vuelta_20251207/ |access-date=8 December 2025 |website=CNN Chile |language=en}}</ref>
+
+;Labor unions
+* {{ill|National Association of Public Employees|es|Agrupación Nacional de Empleados Fiscales}}<ref>{{cite web|url=https://publicservices.international/resources/news/psi-affiliate-in-chile-defines-support-for-jeannette-jara-in-presidential-election-?id=16285|title= PSI union in Chile Endorses Jeannette Jara for Presidential runoff |date=24 November 2025|access-date=28 November 2025|work=[[Public Services International]]|author=Nayareth Quevedo Millán }}</ref>
+}}
+<references group="lower-alpha"/>
+
+==Opinion polls==
+{{Main|Opinion polling for the 2025 Chilean presidential election}}
+
+{{wide image|Encuestas elección presidencial de Chile 2025, primera vuelta (2022-2025).svg|1000px|Opinion polls for the first round of the 2025 Chilean presidential election. Each point represents a poll. Each line is a local regression that represents one of the officially registered candidates.}}
+
+{{wide image|Encuestas elección presidencial de Chile 2025, segunda vuelta (2022-2025).svg|1000px|Opinion polls for the second round of the 2025 Chilean presidential election. Each point represents a poll. Each line is a local regression that represents the two candidates.}}
+
+==Results==
+===President===
+Jara emerged as the leading candidate in the first round with 27% of the vote, followed closely by José Antonio Kast with 24%.<ref name="euronews">{{cite news |last1=Iniguez de Onzono |first1=Javier |title=Presidenciales de Chile: Jara vence por la mínima al ultraderechista Kast en primera vuelta |url=https://es.euronews.com/2025/11/17/jara-vence-por-la-minima-a-kast-en-primera-vuelta |access-date=15 December 2025 |work=[[Euronews]] |date=17 November 2025}}</ref> However, no candidate obtained the required majority to win the presidency outright. As a result, the election proceeded to a runoff between Jeannette Jara and José Antonio Kast on 14 December 2025.<ref>{{Cite web |title=Chile's hard-right holds the upper hand as presidential election goes to a tense runoff |url=https://apnews.com/article/chile-elections-jose-antonio-kast-jara-gabriel-boric-trump-e09ac673bfa15364251a5d324b97dc41 |last=Debre |first=Isabel |date=17 November 2025 |access-date=17 November 2025 |website=[[AP News]]}}</ref> Third place went to Franco Parisi, who obtained 20% of the vote, a surprising result given he had been polling at under 10%.<ref name="bbc1">{{cite news |last1=Caro |first1=Isabel |title=Franco Parisi, el candidato antisistema que sorprendió al ser tercero en las elecciones de Chile y cuyos votos serán clave para el balotaje entre Kast y Jara |url=https://www.bbc.com/mundo/articles/cz7px5v5720o |access-date=15 December 2025 |work=[[BBC Mundo]] |date=17 November 2025 |language=es}}</ref> Kaiser received 14% of the vote, and fifth place went to Evelyn Matthei, who received 12% of the vote, a significant defeat as she was expected to come third and had led the polls for several months at one point in the campaign.<ref name="euronews" /><ref>{{cite news |last1=Artaza |first1=Francisco |title=300 días para perder una elección: La historia íntima de la derrota de Matthei |url=https://www.latercera.com/politica/noticia/300-dias-para-perder-una-eleccion-la-historia-intima-de-la-derrota-de-matthei/ |access-date=15 December 2025 |work=[[La Tercera]] |date=23 November 2025}}</ref> The other candidates received less than 5% of the votes.<ref name="bbc1" />
+
+In his third attempt to become president of Chile, Kast won the second round with 58% of the vote, marking the most significant shift to the right since the end of the [[Military dictatorship of Chile|Pinochet dictatorship]].<ref>{{cite news |last1=Wells |first1=Ione |title=Chile elects far-right José Antonio Kast as next president |url=https://www.bbc.com/news/articles/c0kde07lvvro |access-date=15 December 2025 |work=BBC News |date=15 December 2025}}</ref> He received the second-highest percentage of the vote since Chile's transition to democracy. Kast received 7.2 million votes, the highest ever vote total in Chile's history. He won all [[Regions of Chile|regions]] of the country, with Jara only winning the overseas vote.<ref name="tercera1">{{Cite web |title=José Antonio Kast supera a Gabriel Boric y se convierte en el Presidente electo con más votos en la historia de Chile |url=https://www.latercera.com/politica/noticia/jose-antonio-kast-es-el-presidente-electo-con-mas-votos-de-la-historia-de-chile/ |website=Latercera}}</ref><ref>{{cite news |title=Jara gana en la votación en el extranjero, pero reduce el porcentaje de apoyo a Boric en la elección contra Kast el 2021 |url=https://www.latercera.com/nacional/noticia/jara-gana-en-la-votacion-en-el-extranjero-pero-reduce-el-porcentaje-de-apoyo-obtenido-por-boric-en-la-eleccion-contra-kast-el-2021/ |access-date=15 December 2025 |work=La Tercera |date=14 December 2025}}</ref>
+
+{{Election results
+
+<!--Candidates are in first round results order-->
+
+|cand1 = [[Jeannette Jara]]
+|party1 = [[Communist Party of Chile|Communist Party]] ([[Unidad por Chile|UpCh]])
+|votes1 = 3483490
+|votes1_2 = 5222558
+
+|cand2 = [[José Antonio Kast]]
+|party2 = [[Republican Party of Chile|Republican Party]] ([[Change for Chile|CpCh]])
+|votes2 = 3104458
+|votes2_2 = 7263236
+
+|cand3 = [[Franco Parisi]]
+|party3 = [[Party of the People (Chile)|Party of the People]]
+|votes3 = 2557737
+
+|cand4 = [[Johannes Kaiser (Chilean politician)|Johannes Kaiser]]
+|party4 = [[National Libertarian Party]] ([[Change for Chile|CpCh]])
+|votes4 = 1808434
+
+|cand5 = [[Evelyn Matthei]]
+|party5 = [[Independent Democratic Union]] ([[Chile Grande y Unido|ChGU]])
+|votes5 = 1617720
+
+|cand6 = [[Harold Mayne-Nicholls]]
+|party6 = Independent
+|votes6 = 163105
+
+|cand7 = [[Marco Enríquez-Ominami]]
+|party7 = Independent
+|votes7 = 154698
+
+|cand8 = [[Eduardo Artés]]
+|party8 = Independent ([[Chilean Communist Party (Proletarian Action)|PC-AP]])
+|votes8 = 85392
+
+|invalid = 361403
+|invalid2 = 783816
+|blank = 141989
+|blank2 = 165344
+
+|electorate = 15779102
+|electorate2 = 15779102
+|source = [[Election Certification Tribunal|Tricel]] ([https://tribunalcalificador.cl/resultados-oficiales-presidentes-primera-vuelta-2025/ first round]; [https://tribunalcalificador.cl/tribunal-calificador-de-elecciones-proclamo-al-senor-jose-antonio-kast-rist-como-presidente-electo-de-la-republica-de-chile/ second round])
+}}
+
+===Chamber of Deputies===
+In the Chamber of Deputies, ''Unidad por Chile'' emerged as the largest bloc with 61 seats, followed by ''Cambio por Chile'' with 42 seats. Smaller coalitions and parties, including ''Chile Grande y Unido'' and the Party of the People, also secured representation.<ref name="infodep" />
+
+{{Election results
+|image=[[File:Diputados Chile 2025 (por partido).svg|250px]] [[File:Diputados Chile 2025 (por coalición).svg|250px]]
+|alliance1=[[Unidad por Chile]]|aspan1=8
+|party1=[[Frente Amplio (Chilean political party)|Frente Amplio]]|votes1=807731|seats1=17|sc1=–6
+|party2=[[Socialist Party of Chile|Socialist Party]]|votes2=586348|seats2=11|sc2=–2
+|party3=[[Communist Party of Chile|Communist Party]]|votes3=538793|seats3=11|sc3=–1
+|party4=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes4=454544|seats4=8|sc4=0
+|party5=[[Party for Democracy (Chile)|Party for Democracy]]|votes5=430524|seats5=9|sc5=+2
+|party6=[[Liberal Party (Chile, 2013)|Liberal Party]]|votes6=237343|seats6=3|sc6=–
+|party7=[[Radical Party of Chile (2018)|Radical Party]]|votes7=225361|seats7=2|sc7=–2
+|atotal8=3280644|aseats8=61|sc8=–10
+|alliance9=[[Change for Chile]]|aspan9=4|party9=[[Republican Party of Chile|Republican Party]]|votes9=1424832|seats9=31|sc9=+17
+|party10=[[National Libertarian Party]]|votes10=679500|seats10=8|sc10=New
+|party11=[[Christian Social Party (Chile)|Christian Social Party]]|votes11=362888|seats11=3|sc11=+2
+|atotal12=2467220|aseats12=42|sc12=+27
+|alliance13=[[Chile Grande y Unido]]|aspan13=5|party13=[[Independent Democratic Union]]|votes13=895233|seats13=18|sc13=–5
+|party14=[[National Renewal (Chile)|National Renewal]]|votes14=868240|seats14=13|sc14=–12
+|party15=[[Evópoli]]|votes15=280261|seats15=2|sc15=–2
+|party16=[[Democrats (Chile)|Democrats]]|votes16=212930|seats16=1|sc16=New
+|atotal17=2256664|aseats17=34|sc17=–16
+|alliance18=[[Party of the People (Chile)|Party of the People]]|votes18=1285464|seats18=14|sc18=+8
+|alliance19=[[Greens, Regionalists and Humanists|Greens, Regionalists<br>and Humanists]]|aspan19=3|party19=[[Social Green Regionalist Federation]]|votes19=458537|seats19=2|sc19=0
+|party20=[[Humanist Action]]|votes20=282468|seats20=1|sc20=New
+|atotal21=741005|aseats21=3|sc21=+1
+|alliance22=[[Popular Ecologist, Animalist, and Humanist Left|Popular Ecologist Left]]|aspan22=3|party22=[[Humanist Party (Chile)|Humanist Party]]|votes22=199680|seats22=0|sc22=–3
+|party23=[[Equality Party (Chile)|Equality Party]]|votes23=79871|seats23=0|sc23=0
+|atotal24=279551|aseats24=0|sc24=–3
+|alliance25=[[Green Ecologist Party (Chile)|Green Ecologist Party]]|votes25=88431|seats25=0|sc25=–2
+|alliance26=[[Amarillos por Chile]]|votes26=87744|seats26=0|sc26=New
+|alliance27=[[Popular Green Alliance Party]]|votes27=69410|seats27=0|sc27=New
+|alliance28=[[Revolutionary Workers Party (Chile)|Revolutionary Workers Party]]|votes28=65058|seats28=0|sc28=0
+|alliance29=[[People's Party (Chile)|People's Party]]|votes29=23365|seats29=0|sc29=New
+|alliance30=Independents|votes30=73475|seats30=1|sc30=–1
+|total_sc=0
+|invalid=1723163
+|blank=961988
+|electorate=15618167
+|source=[https://app.powerbi.com/view?r=eyJrIjoiYWYxYTBhOWUtODk5Ni00Y2M4LWFiNGQtZjRiNDUxZGVhOGU1IiwidCI6IjI0ODMxZWJlLWQyNmQtNGQzMC05ZmE4LWVmM2MwMjQzYjMyZSIsImMiOjR9 Servel]
+}}
+
+=== Senate ===
+In the Senate, 23 seats were renewed. The election maintained the overall ideological balance seen in 2021, with right-leaning and left-leaning parties each controlling 25 seats when counting independents. The main changes were internal to each bloc: Unidad por Chile unified the former center-left and left coalitions without altering their combined seat total, while the right experienced a shift in influence as the Republican Party expanded and the Independent Democratic Union declined.<ref name="uchile">{{cite news |title=Derecha empató con oficialismo en Senado y rozó la mayoría simple en la Cámara |url=https://radio.uchile.cl/2025/11/17/derecha-empato-con-oficialismo-en-senado-y-rozo-la-mayoria-simple-en-la-camara/ |access-date=16 December 2025 |work={{ill|Radio Universidad de Chile|es}} |date=17 November 2025}}</ref><ref>{{cite news |title=La coalición de izquierda Unidad por Chile, la más votada en las elecciones legislativas chilenas |url=https://www.europapress.es/internacional/noticia-coalicion-izquierda-unidad-chile-mas-votada-elecciones-legislativas-chilenas-20251117080829.html |access-date=16 December 2025 |work=[[Europapress]] |date=17 November 2025}}</ref>
+
+{{Election results
+|image=[[File:Senadores Chile 2025 (por partido).svg|250px]] [[File:Senadores Chile 2025 (por coalición).svg|250px]]
+|seattype1=Won|seattype2=Not up|seattype3=Total
+|alliance1=[[Unidad por Chile]]|aspan1=8|party1=[[Communist Party of Chile|Communist Party]]|votes1=258229|st1t1=1|st2t1=2|st3t1=3
+|party2=[[Socialist Party of Chile|Socialist Party]]|votes2=222833|st1t2=3|st2t2=4|st3t2=7
+|party3=[[Frente Amplio (Chilean political party)|Frente Amplio]]|votes3=155053|st1t3=2|st2t3=0|st3t3=2
+|party4=[[Party for Democracy (Chile)|Party for Democracy]]|votes4=147244|st1t4=2|st2t4=2|st3t4=4
+|party5=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes5=93550|st1t5=2|st2t5=1|st3t5=3
+|party6=[[Liberal Party (Chile, 2013)|Liberal Party]]|votes6=75036|st1t6=1|st2t6=0|st3t6=1
+|party7=[[Radical Party of Chile (2018)|Radical Party]]|votes7=45485|st1t7=0|st2t7=0|st3t7=0
+|atotal8=997530|ast1t8=11|ast2t8=9|ast3t8=20
+|alliance9=[[Change for Chile]]|aspan9=4|party9=[[Republican Party of Chile|Republican Party]]|votes9=534981|st1t9=5|st2t9=0|st3t9=5
+|party10=[[National Libertarian Party]]|votes10=171602|st1t10=1|st2t10=0|st3t10=1
+|party11=[[Christian Social Party (Chile)|Christian Social Party]]|votes11=80426|st1t11=0|st2t11=2|st3t11=2
+|atotal12=787009|ast1t12=6|ast2t12=2|ast3t12=8
+|alliance13=[[Chile Grande y Unido]]|aspan13=5|party13=[[National Renewal (Chile)|National Renewal]]|votes13=431539|st1t13=4|st2t13=4|st3t13=8
+|party14=[[Independent Democratic Union]]|votes14=231239|st1t14=0|st2t14=5|st3t14=5
+|party15=[[Democrats (Chile)|Democrats]]|votes15=77986|st1t15=1|st2t15=1|st3t15=2
+|party16=[[Evópoli|Political Evolution]]|votes16=11253|st1t16=0|st2t16=2|st3t16=2
+|atotal17=752017|ast1t17=5|ast2t17=12|ast3t17=17
+|alliance18=[[Party of the People (Chile)|Party of the People]]|votes18=325676|st1t18=0|st2t18=0|st3t18=0
+|alliance19=[[Greens, Regionalists and Humanists|Greens, Regionalists<br>and Humanists]]|aspan19=3|party19=[[Social Green Regionalist Federation]]|votes19=80295|st1t19=1|st2t19=2|st3t19=3
+|party20=[[Humanist Action]]|votes20=42923|st1t20=0|st2t20=0|st3t20=0
+|atotal21=123218|ast1t21=1|ast2t21=2|ast3t21=3
+|alliance22=[[Green Ecologist Party (Chile)|Green Ecologist Party]]|votes22=21326|st1t22=0|st2t22=0|st3t22=0
+|alliance23=[[Popular Ecologist, Animalist, and Humanist Left|Popular Ecologist Left]]|aspan23=3|party23=[[Humanist Party (Chile)|Humanist Party]]|votes23=9753|st1t23=0|st2t23=0|st3t23=0
+|party24=[[Equality Party (Chile)|Equality Party]]|votes24=4795|st1t24=0|st2t24=0|st3t24=0
+|atotal25=14548|ast1t25=0|ast2t25=0|ast3t25=0
+|alliance26=[[Popular Green Alliance Party]]|votes26=9738|st1t26=0|st2t26=0|st3t26=0
+|alliance27=[[People's Party (Chile)|People's Party]]|votes27=2093|st1t27=0|st2t27=0|st3t27=0
+|alliance28=Independents|votes28=65019|st1t28=0|st2t28=2|st3t28=2
+|invalid=403900
+|blank=244629
+|electorate=4378940
+|source=[https://app.powerbi.com/view?r=eyJrIjoiODg2MWU4Y2UtY2IzMS00M2FkLWJmNDItYWIwMjgwYTg3NThkIiwidCI6IjI0ODMxZWJlLWQyNmQtNGQzMC05ZmE4LWVmM2MwMjQzYjMyZSIsImMiOjR9 Servel]
+}}
+
+== Reactions and aftermath ==
+===First round===
+Matthei was the first to make a statement after the results were announced, accepting defeat and pledging her support for Kast in the second round.<ref>{{cite news |last1=Silva |first1=M. |title=Matthei reconoce derrota y entrega apoyo a Kast de cara a la segunda vuelta: "Son otros los llamados a avanzar" |url=https://www.emol.com/noticias/Nacional/2025/11/16/1183368/evelyn-matthei-respaldo-kast-balotaje.html |access-date=15 December 2025 |work=[[Emol]] |date=16 November 2025}}</ref><ref name="debate">{{cite news |last1=Paéz |first1=Víctor |title=La comunista Jeannette Jara gana la primera vuelta en Chile y se medirá con Kast el 14 de diciembre |url=https://www.eldebate.com/internacional/20251117/partido-comunista-chile-gana-primera-vuelta-elecciones-presidenciales_355706.html |access-date=15 December 2025 |work=[[ElDebate.com|El Debate]] |date=17 November 2025}}</ref> Kaiser also called for people to vote for Kast in the second round.<ref name="debate" /> President Boric congratulated the winners and called for "a debate with high standards."<ref name="debate" />
+
+===Second round===
+In keeping with tradition, outgoing President [[Gabriel Boric]] congratulated President-elect Kast on his victory during a televised phone call.<ref>{{Cite news |last=Rogero |first=Tiago |date=2025-12-14 |title=Ultra-conservative José Antonio Kast elected Chile's next president |url=https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president |access-date=2025-12-15 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> Kast thanked him for his congratulations and expressed his desire for a "very orderly and respectful" transition, also hoping to hear Boric's views on the country once he assumed the presidency on 11 March 2026.<ref>{{cite news |title=El presidente Boric felicitó a Kast por su "triunfo claro" |url=https://www.dw.com/es/el-presidente-boric-felicit%C3%B3-a-kast-por-su-triunfo-claro/a-75154682 |access-date=15 December 2025 |work=[[Deustche Welle]] |date=14 December 2025}}</ref> 
+
+In his first speech as president-elect, Kast stated that "it wasn't one person who won here, Chile won," and when some members of the audience booed Jara's name, he demanded respect and silence, adding that "she took on a very difficult challenge and gave it her all in her own style until the end, and that, at least for me, is something I value."<ref>{{cite news |title="No ganó una persona, aquí ganó Chile": El primer discurso de Kast como presidente electo |url=https://www.chilevision.cl/noticias/nacional/el-primer-discurso-jose-antonio-kast-presidente-electo-elecciones-2025 |access-date=15 December 2025 |work=[[Chilevisión]] |date=14 December 2025}}</ref>
+
+Jara personally congratulated Kast after his victory.<ref name="infobae">{{cite news |title=Jeannette Jara felicitó a José Antonio Kast por su contundente triunfo electoral en Chile: "El pueblo habló fuerte y claro" |url=https://www.infobae.com/america/america-latina/2025/12/14/jeannette-jara-felicito-a-jose-antonio-kast-por-su-contundente-triunfo-electoral-en-chile-el-pueblo-hablo-fuerte-y-claro/ |access-date=15 December 2025 |work=Infobae |date=15 December 2025}}</ref> In her following public statement, Jara acknowledged defeat and expressed her support for the president-elect "in everything that is good for Chile."<ref name="infobae" /> Kast received a visit from Jara that night at campaign headquarters.<ref>{{cite news |last1=Valenzuela Quiroz |first1=Jeremy |title=José Antonio Kast recibió en su comando a Jeannette Jara tras su victoria en las urnas |url=https://www.latribuna.cl/politica/2025/12/14/jose-antonio-kast-recibio-en-su-comando-a-jeannette-jara-tras-su-victoria-en-las-urnas.html |access-date=16 December 2025 |work={{ill|La Tribuna (Chile)|es}} |date=14 December 2025}}</ref><ref>{{cite news |last1=Rubio |first1=Paz |title=Jeannette Jara se reúne con José Antonio Kast en comando del presidente electo |url=https://www.latercera.com/politica/noticia/jeannette-jara-se-reune-con-jose-antonio-kast-en-comando-del-presidente-electo/ |access-date=16 December 2025 |work=La Tercera |date=15 December 2025}}</ref> 
+
+[[File:Gabriel Boric Font, recibe en el Palacio de La Moneda al presidente electo, José Antonio Kast (11).jpg|thumb|right|President Boric with president-elect José Antonio Kast in Palacio de la Moneda, 15 December 2025]]
+
+Kast was congratulated by several international leaders, including Argentine President [[Javier Milei]], Paraguayan President [[Santiago Peña]], Ecuadorian President [[Daniel Noboa]], Bolivian President [[Rodrigo Paz]], Costa Rican President [[Rodrigo Chaves]], Brazilian President [[Luiz Inácio Lula da Silva|Lula da Silva]], Mexican President [[Claudia Sheinbaum]] as well as U.S. Secretary of State [[Marco Rubio]], former Colombian President [[Iván Duque]] and former Ecuadorian President [[Guillermo Lasso]].<ref>{{cite news |title=Líderes internacionales felicitaron a José Antonio Kast por su contundente victoria en las elecciones de Chile |url=https://www.infobae.com/america/america-latina/2025/12/15/lideres-internacionales-felicitaron-a-jose-antonio-kast-por-su-contundente-victoria-en-las-elecciones-de-chile/ |access-date=15 December 2025 |work=[[Infobae]] |date=15 December 2025}}</ref><ref>{{Cite web |title=Gobiernos del continente felicitan a José Antonio Kast – DW – 15/12/2025 |url=https://www.dw.com/es/gobiernos-del-continente-felicitan-a-jos%C3%A9-antonio-kast/a-75155310 |access-date=2025-12-16 |website=dw.com |language=es}}</ref> He was also congratuled by Spanish politician and leader of the [[Vox (political party)|Vox]] party [[Santiago Abascal]], Spanish Prime Minister [[Pedro Sánchez]] and by [[Alberto Núñez Feijóo]].<ref>{{cite news |title=Abascal, Feijóo y Sánchez felicitan a Kast por su victoria: «Los chilenos han elegido libertad» |url=https://www.abc.es/espana/abascal-feijoo-sanchez-felicitan-kast-victoria-chilenos-20251215092733-nt.html |access-date=15 December 2025 |work=[[ABC (newspaper)|ABC]] |date=15 December 2025}}</ref>
+
+Colombian President [[Gustavo Petro]] criticized Kast's election harshly, stating "Fascism is advancing. I will never shake hands with a Nazi, nor with the son of a Nazi;{{efn|A reference to Kast's father, [[Michael Kast]], who was a member of the [[Nazi Party]].}} they are death incarnate. It's sad that [[Augusto Pinochet|Pinochet]] had to impose himself by force, but it's even sadder now that people are choosing their own Pinochet."<ref>{{Cite web |last=Sanhueza |first=Diego Stacey, Ana María |date=2025-12-15 |title=Petro repudia con dureza la elección de Kast en Chile: "Jamás le daré la mano a un nazi" |url=https://elpais.com/america-colombia/2025-12-15/petro-repudia-con-dureza-la-eleccion-de-kast-en-chile-jamas-le-dare-la-mano-a-un-nazi.html |access-date=2025-12-16 |website=El País América Colombia |language=es-CO}}</ref> Boric's outgoing government responded to Petro's statements, rejecting them and deciding to file a formal protest.<ref>{{Cite web |first=Mario Alejandro |last=Rodríguez |date=2025-12-15 |title=Gobierno chileno reaccionó a duros mensajes de Gustavo Petro en los que trató a José Antonio Kast de 'nazi': enviará nota de protesta |url=https://www.infobae.com/colombia/2025/12/15/gobierno-chileno-reacciono-a-duros-mensajes-de-gustavo-petro-en-los-que-trato-a-jose-antonio-kast-de-nazi-enviara-nota-de-protesta/ |access-date=2025-12-16 |website=infobae |language=es-ES}}</ref>
+
+The Mapuche Political Platform issued a statement stating that the electoral results "not only signify an electoral defeat for the country's progressive and indigenous forces but also a cultural defeat".<ref>[https://www.elciudadano.com/en/mapuche-political-platform-calls-for-defense-of-indigenous-law-lafkenche-law-and-ilo-convention-169-following-jose-kasts-victory/12/15/ Mapuche Political Platform Calls for Defense of Indigenous Law, Lafkenche Law, and ILO Convention 169 Following José Kast's Victory]</ref>
+
+The following day, on 15 December, President Boric and Kast held a meeting at the [[Palacio de la Moneda]] to prepare for the transfer of power.<ref>{{cite news |title=Boric y Kast se reúnen tras triunfo del ultraderechista |url=https://www.dw.com/es/boric-y-kast-se-re%C3%BAnen-tras-contundente-triunfo-del-ultraderechista/a-75171492 |access-date=16 December 2025 |work=Euronews |date=15 December 2025}}</ref>
+
+===Parliamentary election===
+After failing to reach the minimum legal threshold of votes, at least 13 political parties were expected to dissolve, including the longstanding [[Radical Party of Chile|Radical Party]].<ref>{{cite news |last1=Castro |first1=Maolis |title=Los resultados de la elección parlamentaria dejan a 13 partidos fuera del ecosistema político chileno |url=https://elpais.com/chile/2025-11-20/los-resultados-de-la-eleccion-parlamentaria-dejan-a-13-partidos-fuera-del-ecosistema-politico-chileno.html |access-date=16 December 2025 |work=El País |date=20 November 2025}}</ref> The order to do so was given by the [[:es:Servel|Servel]] on 12 February 2026.<ref>{{Cite web |last=León |first=Arturo |date=2026-02-12 |title=Servel ordena la disolución de 13 partidos políticos tras elecciones de diputados 2025 |url=https://www.latercera.com/politica/noticia/servel-ordena-la-disolucion-de-13-partidos-politicos-tras-elecciones-de-diputados-2025/ |access-date=2026-10-01 |website=La Tercera |language=es}}</ref>
+
+== Notes ==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+{{Chilean elections}}
+
+[[Category:2025 elections in Chile|General election]]
+[[Category:2025 elections in South America|Chilean general election]]
+[[Category:November 2025 in Chile|General election]]
+[[Category:December 2025 in Chile|General election]]
+[[Category:Parliamentary elections in Chile]]
+[[Category:Presidential elections in Chile]]

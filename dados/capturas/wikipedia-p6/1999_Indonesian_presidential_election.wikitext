@@ -1,0 +1,116 @@
+{{Short description|none}}
+{{Infobox election
+| country = Indonesia
+| type = presidential
+| election_date = 20–21 October 1999
+
+| module = {{Infobox election|embed=yes
+| election_name = Presidential election
+| type = presidential
+| previous_election = 1997 Indonesian legislative election#Presidential election
+| previous_year = 1998
+| election_date  = 20 October 1999
+| next_election = 2004 Indonesian presidential election
+| next_year = 2004
+| votes_for_election = 700 members of the [[People's Consultative Assembly]]
+| needed_votes = 351 electoral
+| turnout = 98.71% ({{increase}} 5.64[[percentage point|pp]])
+
+| image1 = {{CSS image crop|Image= Gusdur.jpg|bSize = 120|cWidth = 120|cHeight = 150|oTop = 0|oLeft = 0
+}}
+| nominee1 = '''[[Abdurrahman Wahid]]'''
+| party1 = National Awakening Party
+| alliance1_name = no
+| alliance1 = [[:id:Poros Tengah|Central Axis]]{{efn|Including PKB, the [[National Mandate Party]], the [[United Development Party]] the [[Prosperous Justice Party|Justice Party]] and the [[Crescent Star Party (Indonesia)|Crescent Star Party]]}}
+| electoral_vote1 = '''373'''
+| percentage1 = '''54.37%'''
+
+| image2 = {{CSS image crop|Image= Vice President Megawati Sukarnoputri - Indonesia.jpg|bSize = 123|cWidth = 120|cHeight = 150|oTop = 0|oLeft = 0
+}}
+| nominee2 = [[Megawati Sukarnoputri]]
+| party2 = Indonesian Democratic Party of Struggle
+| electoral_vote2 = 313
+| percentage2 = 45.63%
+
+| map = [[File:1999 Indonesian presidential election results.svg|300px]]
+| map_caption = Votes of the People's Consultative Assembly
+{{legend|#02754C|Abdurrahman Wahid: 373 votes}} {{legend|#DB2016|Megawati Sukarnoputri: 313 votes}}
+{{legend|#000000|Invalid votes: 5}} {{legend|#DDDDDD|Abstentions: 9}}
+
+| title = [[President of Indonesia|President]]
+| before_election = [[B. J. Habibie]]
+| before_party = Golkar
+| after_election = [[Abdurrahman Wahid]]
+| after_party = National Awakening Party
+
+| module = {{Infobox election|embed=yes
+| election_name = Vice-presidential election
+| type = presidential
+| previous_election = 1997 Indonesian legislative election#Presidential election
+| previous_year = 1998
+| election_date = 21 October 1999
+| next_election = Impeachment of Abdurrahman Wahid#Aftermath
+| next_year = 2001
+| votes_for_election = 700 members of the [[People's Consultative Assembly]]
+| needed_votes = 351 electoral
+| turnout = 97.86% ({{decrease}} 2.14[[percentage point|pp]])
+
+| image1 = {{CSS image crop|Image= Vice President Megawati Sukarnoputri - Indonesia.jpg|bSize = 123|cWidth = 120|cHeight = 150|oTop = 0|oLeft = 0
+}}
+| nominee1 = '''[[Megawati Sukarnoputri]]'''
+| party1 = Indonesian Democratic Party of Struggle
+| electoral_vote1 = '''396'''
+| percentage1 = '''58.24%'''
+
+| image2 = {{CSS image crop|Image=Hamzah Haz, Buku Kenangan Anggota Dewan Perwakilan Rakyat Republik Indonesia 1999-2004, p38.jpg|bSize = 120|cWidth = 120|cHeight = 150|oTop = 0|oLeft = 0}}
+| nominee2 = [[Hamzah Haz]]
+| party2 = United Development Party
+| electoral_vote2 = 284
+| percentage2 = 41.76%
+
+| map = [[File:1999 Indonesian vice-presidential election results.svg|300px]]
+| map_caption = Votes of the People's Consultative Assembly
+{{legend|#DB2016|Megawati Sukarnoputri: 396 votes}} {{legend|#00A100|Hamzah Haz: 284 votes}}
+{{legend|#000000|Invalid votes: 5}} {{legend|#DDDDDD|Abstentions: 15}}
+
+| title = [[Vice President of Indonesia|Vice President]]
+| before_election = ''Vacant''
+| after_election = [[Megawati Sukarnoputri]]
+| after_party = Indonesian Democratic Party of Struggle
+}}}}}}{{Politics of Indonesia}}
+
+From 20 to 21 October 1999, the [[People's Consultative Assembly]] (MPR), the [[legislature|legislative branch]] of [[Indonesia]], met to elect both the [[President of Indonesia|president]] and [[Vice President of Indonesia|vice president]] of the country for the 1999–2004 term. The incumbent president, [[B. J. Habibie]], had ascended after the resignation of longtime president [[Suharto]] in 1998, but declined to stand for a full term after his accountability speech was voted down. On 20 October, [[Abdurrahman Wahid]], chairman of the [[Nahdlatul Ulama]], was elected president and [[Inauguration of Abdurrahman Wahid|inaugurated]] on the same day. Wahid's opponent, [[Megawati Sukarnoputri]] was subsequently elected vice president the next day.<ref>{{cite news |title=Pemilihan Presiden dari Masa ke Masa |url=https://news.detik.com/berita/d-2723006/pemilihan-presiden-dari-masa-ke-masa |access-date=26 October 2021 |agency=Detik News |publisher=news.Detik.com |date=Oct 19, 2014 |archive-date=26 October 2021 |archive-url=https://web.archive.org/web/20211026100446/https://news.detik.com/berita/d-2723006/pemilihan-presiden-dari-masa-ke-masa |url-status=dead }}</ref> The elections represented the first relatively democratic and [[peaceful transfer of power]] in the [[history of Indonesia]].<ref>{{cite book | author = National Democratic Institute | author-link = National Democratic Institute | date = 28 November 1999 | title = The 1999 Presidential Election and Post-Election Developments in Indonesia: a Post Election Assessment Report | url = https://www.ndi.org/node/21592 | publisher = [[National Democratic Institute]] | page = 4 | archive-date = 7 December 2024 | access-date = 15 December 2022 | archive-url = https://web.archive.org/web/20241207095812/https://www.ndi.org/node/21592 | url-status = dead }}</ref> It was also the first presidential election decided by counting of votes.
+
+==Background==
+In October, the [[People's Consultative Assembly]] made up of the [[People's Representative Council]] and 200 nominated members from the military and selected civilians, a total of 700, met to elect the [[President of Indonesia|president]] and [[Vice President of Indonesia|vice president]].
+
+There were initially four candidates for the presidency; [[Abdurrahman Wahid]], [[B. J. Habibie]], [[Megawati Sukarnoputri]], and [[Yusril Ihza Mahendra]]. However, Habibie refused the nomination from [[Golkar]] after his accountability speech was rejected by the [[People's Consultative Assembly|MPR]] the day before election, while Yusril withdrew his candidacy on election day.<ref>{{cite book |author1=Djadja Suparman |title=Jejak kudeta, 1997-2005 catatan harian Letnan Jenderal (Purn) TNI Djadja Suparman |date=2013 |publisher=Yayasan Pustaka Obor Indonesia |isbn=9789794618370 |page=208 |url=https://books.google.com/books?id=lxQaDAAAQBAJ&dq=Yusril+Ihza+mundur+dari+kandidat+presiden+1999&pg=PA208 |access-date=26 October 2021}}</ref> 
+
+==Election day==
+On 20 October, PKB chairman [[Abdurrahman Wahid]] was elected, beating [[Megawati Sukarnoputri]] by 373 votes to 313, although her party ([[Indonesian Democratic Party of Struggle|PDI-P]]) won the most votes in the legislative election and had one-third of the parliamentary seats. This triggered riots among Megawati's supporters. The following day, Megawati was nominated by Gus Dur's party ([[National Awakening Party|PKB]]) as vice president and got elected, beating [[Hamzah Haz]] from the [[United Development Party|PPP]] by 396 votes to 284. This ended the street protests.<ref name="Friend4612">Friend, Theodore (2003) ''Indonesian Destinies'', The Belknap Press of Harvard University Press, pp. 461–462 {{ISBN|978-0-6740113-7-3}}</ref><ref name="RICKLEFS539">{{cite book  | last = Ricklefs | first = M.C  | title = A History of Modern Indonesia Since c. 1200 | publisher = Palgrave Macmillan  | edition = Fourth  | date = 2008  | pages = 539  | isbn = 978-0-230-54685-1}}</ref>
+
+This was the first and only democratically indirect presidential election in Indonesia and the first presidential election that did not feature a candidate from the ruling party ([[Golkar]]).
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Abdurrahman Wahid]]|party1=[[National Awakening Party]]|votes1=373
+|cand2=[[Megawati Sukarnoputri]]|party2=[[Indonesian Democratic Party of Struggle]]|votes2=313
+|invalid=5|electorate=700
+}}
+
+===Vice president===
+{{Election results
+|cand1=[[Megawati Sukarnoputri]]|party1=[[Indonesian Democratic Party of Struggle]]|votes1=396
+|cand2=[[Hamzah Haz]]|party2=[[United Development Party]]|votes2=284
+|invalid=5|electorate=700
+}}
+
+== Notes ==
+{{notelist}}
+==References==
+{{reflist}}
+{{Indonesian elections}}
+[[Category:Presidential elections in Indonesia]]
+[[Category:1999 elections in Asia|Indonesia]]
+[[Category:1999 in Indonesia|Legislative]]

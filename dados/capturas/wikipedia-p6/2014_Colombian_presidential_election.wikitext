@@ -1,0 +1,1442 @@
+{{Short description|none}}
+{{Use dmy dates|date=January 2022}}
+{{Infobox election
+| country = Colombia
+| type = presidential
+| previous_election = 2010 Colombian presidential election
+| previous_year = 2010
+| next_election = 2018 Colombian presidential election
+| next_year = 2018
+| election_date = 25 May 2014 (first round)<br />15 June 2014 (second round)
+| turnout = 40.10% (first round) {{decrease}} 9.20pp<br/> 47.97% (second round) {{increase}} 3.62pp
+| image1 = Juan Manuel Santos 2015.jpg
+| nominee1 = {{nowrap|'''[[Juan Manuel Santos]]'''}}
+| party1 = Social Party of National Unity
+| alliance1 = {{ill|National Unity (Colombia)|es|Unidad Nacional (Colombia)|lt=National Unity}}
+| running_mate1 = '''[[Germán Vargas Lleras]]'''
+| popular_vote1 = '''7,839,342'''
+| percentage1 = '''50.99%'''
+| image2 = Oscar Ivan Zuluaga.jpg
+| nominee2 = [[Óscar Iván Zuluaga]]
+| party2 = Democratic Center (Colombia)
+| alliance2 = –
+| alliance2_name = no
+| running_mate2 = [[Carlos Holmes Trujillo]]
+| popular_vote2 = 6,917,001
+| percentage2 = 44.99%
+| map_image = {{Switcher
+|[[File:2014 Colombian Presidential Election First Round Results.svg|270px]]
+|First round results by municipality
+|[[File:2014 Colombian Presidential Election Second Round Results.svg|270px]]
+|Second round results by municipality
+|default=2
+}}
+| title = President
+| before_election = [[Juan Manuel Santos]]
+| before_party = Social Party of National Unity
+| after_election = [[Juan Manuel Santos]]
+| after_party = Social Party of National Unity
+}}{{Politics of Colombia}}
+
+Presidential elections were held in [[Colombia]] on 25 May 2014.<ref>{{cite web |title=Resolución No. 10368: Por la cual se establece el calendario Electoral para las elecciones de Presidente y Vicepresidente de la República (primera vuelta) para el período Constitucional 2014–2018 |url=http://www.registraduria.gov.co/IMG/pdf/res_10368.pdf |publisher=Registraduría Nacional del Estado Civil |date=10 October 2013 |access-date=1 March 2014 |archive-url=https://web.archive.org/web/20131208161853/http://www.registraduria.gov.co/IMG/pdf/res_10368.pdf |archive-date=8 December 2013 |url-status=dead |language=es}}</ref> Since no candidate received 50% of the vote in the first round, a run-off between the two candidates with the most votes took place three weeks later on 15 June 2014.<ref>{{cite news |title=Farc prevén continuar diálogos de paz durante proceso electoral |newspaper=[[El Tiempo (Colombia)|El Tiempo]] |location=Bogotá, Colombia |url=http://www.eltiempo.com/politica/farc-dice-que-continuara-dialogos-de-paz-durante-elecciones_13582076-4 |date=2 March 2014 |access-date=3 March 2014|language=es}}</ref> According to the official figures released by the National Registry office (Registraduría Nacional), as of 22 May 2014 (the cut-off date to register) 32,975,158 Colombians were registered and entitled to vote in the 2014 presidential election, including 545,976 Colombians resident abroad.<ref>{{cite web |title=Comunicado de Prensa No. 0337 de 2014: Registraduría tiene lista toda la logística para que los colombianos elijan este domingo 25 de mayo al Presidente y Vicepresidente de la República |publisher=Registraduría Nacional de Estado Civil |url=http://wsr.registraduria.gov.co/Registraduria-tiene-lista-toda-la,13670.html |date=22 May 2014 |access-date=14 June 2014 |language=es |archive-url=https://web.archive.org/web/20140714152452/http://wsr.registraduria.gov.co/Registraduria-tiene-lista-toda-la,13670.html |archive-date=14 July 2014 |url-status=dead }}</ref><ref>{{cite news |title=Elecciones del domingo costarán cerca de $220 mil millones |newspaper=El Tiempo |location=Bogotá, Colombia |url=http://www.eltiempo.com/politica/gobierno/elecciones-del-domingo-costaran-cerca-de-220-mil-millones/14016255 |date=21 May 2014 |access-date=14 June 2014 |language=es |archive-date=14 July 2014 |archive-url=https://web.archive.org/web/20140714200552/http://www.eltiempo.com/politica/gobierno/elecciones-del-domingo-costaran-cerca-de-220-mil-millones/14016255 |url-status=dead }}</ref> Incumbent president [[Juan Manuel Santos]] was allowed to run for a second consecutive term.<ref>{{in lang|es}} [http://www.eltiempo.com/politica/ARTICULO-WEB-NEW_NOTA_INTERIOR-12592130.html 'La U' pide que Juan Manuel Santos se lance a la reelección]</ref> In the first round, Santos and [[Óscar Iván Zuluaga]] of the [[Democratic Center (Colombia)|Democratic Center]] (Centro Democrático) were the two highest-polling candidates and were the contestants in the 15 June run-off.<ref>{{cite news |title=Official results: Colombia President Santos to face Oscar Ivan Zuluaga in election runoff |newspaper=The Washington Post |url=https://www.washingtonpost.com/world/the_americas/official-results-colombia-president-santos-to-face-oscar-ivan-zuluaga-in-election-runoff/2014/05/25/1cff2304-e457-11e3-a70e-ea1863229397_story.html |archive-url=https://web.archive.org/web/20140526170023/http://www.washingtonpost.com/world/the_americas/official-results-colombia-president-santos-to-face-oscar-ivan-zuluaga-in-election-runoff/2014/05/25/1cff2304-e457-11e3-a70e-ea1863229397_story.html |url-status=dead |archive-date=26 May 2014 |date=25 May 2014 |access-date=25 May 2014}}</ref><ref>{{cite web |title=Colombia election: Santos to face Zuluaga in run-off |work=[[BBC News]] |url=https://www.bbc.co.uk/news/world-latin-america-27567604 |date=26 May 2014 |access-date=14 June 2014}}</ref> In the second round, Santos was re-elected president, gaining 51% of the vote compared with 45% for Zuluaga.<ref>{{cite web |title=Colombia vote: Santos re-elected as president |work=BBC News |url=https://www.bbc.co.uk/news/world-latin-america-27862555 |date=16 June 2014 |access-date=16 June 2014}}</ref>
+
+==Candidates==
+By law the incumbent president Juan Manuel Santos had to declare before 25 November 2013 (six months before the election date) whether he would stand again for president. There had been speculation that he would not seek re-election: he had come under strong criticism during his first term for not continuing with the strong anti-terrorist measures of his predecessor [[Álvaro Uribe]] and for opening peace talks with the [[FARC]] guerrilla group, which drew fierce criticism from the still-popular Uribe and a large section of the public, resulting in low popularity ratings. Although his governing National Unity coalition still supported Santos in his re-election bid, there was speculation that other people would stand in his place, such as the [[Radical Change]] leader and experienced minister [[Germán Vargas Lleras]], [[Vice President of Colombia|Vice President]] [[Angelino Garzón]], and the retired head of the police force, General Oscar Naranjo. However, on 20 November Santos publicly declared his intention to stand for election again, citing a successful conclusion to the peace talks as one of the main factors for seeking a second term in office.<ref name="BBC20131121">{{cite news |title=Colombia Santos seeks vice-president for re-election bid |work=BBC News |url=https://www.bbc.com/news/world-latin-america-25045099 |date=21 November 2013 |access-date=1 March 2014}}</ref><ref>{{cite news |title=Santos dice que va por la reelección porque quiere concretar la paz |newspaper=El Tiempo |location=Bogotá, Colombia |url=http://www.eltiempo.com/archivo/documento/CMS-13208582 |date=20 November 2013 |access-date=1 March 2014|language=es}}</ref><ref>{{cite news |title=Santos es candidato a la Presidencia |newspaper=El Espectador |location=Bogotá, Colombia |url=http://www.elespectador.com/noticias/politica/santos-candidato-presidencia-articulo-459535 |date=20 November 2013 |access-date=1 March 2014|language=es}}</ref> His candidacy was supported unopposed by all three parties of the governing National Unity coalition: his own [[Social Party of National Unity]], commonly known as "Party of the U"; the [[Colombian Liberal Party]]; and Radical Change. The following day Garzón said he would not seek reelection as Vice President in 2014.<ref name="BBC20131121" /><ref>{{cite news |title=Angelino Garzón ratifica que no será fórmula vicepresidencial de Santos |newspaper=El Espectador |location=Bogotá, Colombia |url=http://www.elespectador.com/noticias/politica/angelino-garzon-ratifica-no-sera-formula-vicepresidenci-articulo-459622 |date=21 November 2013 |access-date=1 March 2014|language=es}}</ref> On 24 February 2014 Santos confirmed that Vargas Lleras would be his running mate for the 2014 election.<ref>{{cite news |title=Vargas Lleras es la fórmula vicepresidencial de Santos |periodical=[[Semana]] |location=Bogotá, Colombia |url=http://www.semana.com/nacion/articulo/vargas-lleras-es-la-formula-vicepresidencial-de-santos/378472-3 |date=24 February 2014 |access-date=1 March 2014|language=es}}</ref><ref>{{cite news |title=Santos confirma a Vargas Lleras como su fórmula vicepresidencial |newspaper=El Espectador |location=Bogotá, Colombia |url=http://www.elespectador.com/noticias/politica/santos-confirma-vargas-lleras-su-formula-vicepresidenci-articulo-476886 |date=24 February 2014 |access-date=1 March 2014|language=es}}</ref>
+
+Unhappy with Santos' more conciliatory approach to the FARC, Álvaro Uribe had left the Party of the U to form the [[Democratic Center (Colombia)|Democratic Center]] movement in January 2013 along with his former vicepresident [[Francisco Santos Calderón|Francisco Santos]] (cousin of president Juan Manuel Santos) and other close allies from the Party of the U. The Democratic Center's convention on 25–26 October 2013 chose economist and ex-minister [[Óscar Iván Zuluaga]] as its candidate for the presidential elections, ahead of Francisco Santos and Carlos Holmes Trujillo.<ref>{{cite web |first=Peter |last=Murphy |title=Colombia ex-leader Uribe's movement names candidate for president |publisher=Reuters |url=https://www.reuters.com/article/us-colombia-elections-idUSBRE99Q00V20131027 |date=27 October 2013 |access-date=1 March 2014}}</ref><ref>{{cite web |first=Arturo |last=Wallace |title=Colombia: el uribismo define a su candidato para las presidenciales |publisher=BBC Mundo |url=https://www.bbc.co.uk/mundo/noticias/2013/10/131026_colombia_zuluaga_candidato_uribista_jgc.shtml |date=27 October 2013 |access-date=1 March 2014|language=es}}</ref> On 28 February 2014 Trujillo was named as Zuluaga's vicepresidencial running mate.<ref>{{cite news |title=Carlos Holmes Trujillo, fórmula vicepresidencial de Óscar Iván Zuluaga |newspaper=El Tiempo |location=Bogotá, Colombia |url=http://www.eltiempo.com/elecciones-2014/presidencia/carlos-holmes-trujillo-frmula-vicepresidencial-de-scar-ivn-zuluaga/13572256 |date=28 February 2014 |access-date=1 March 2014|language=es}}</ref><ref>{{cite news |title=Carlos Holmes Trujillo, fórmula vicepresidencial de Óscar Iván Zuluaga |newspaper=El Espectador |location=Bogotá, Colombia |url=http://www.elespectador.com/noticias/politica/carlos-holmes-trujillo-formula-vicepresidencial-de-osca-articulo-477799 |date=28 February 2014 |access-date=1 March 2014|language=es}}</ref>
+
+The [[Colombian Conservative Party]] overwhelmingly chose [[Marta Lucía Ramírez]] to be its presidential candidate at its convention on 26 January 2014. Ramírez polled 1047 votes from the delegates, comfortably ahead of the other contenders [[Pablo Victoria]] with 138 votes and [[Álvaro Leyva]] with 84 votes. The convention was a fraught affair, with heated debate between some delegates arguing that the party should support the National Unity coalition and reelection of President Santos, and others who were in favour of the party fielding their own candidate.<ref>{{cite news |title=Marta Lucía Ramírez, candidata del partido Conservador |periodical=Semana |location=Bogotá, Colombia |url=http://www.semana.com/nacion/elecciones-2014/articulo/marta-lucia-ramirez-candidata-del-partido-conservador/372166-3 |date=26 January 2014 |access-date=1 March 2014|language=es}}</ref><ref>{{cite news |title=Martha Lucía Ramírez, candidata presidencial del Partido Conservador |newspaper=El Espectador |location=Bogotá, Colombia |url=http://www.elespectador.com/noticias/politica/martha-lucia-ramirez-candidata-presidencial-del-partido-articulo-470975 |date=26 January 2014 |access-date=1 March 2014|language=es}}</ref> Ramírez was a defence minister in Álvaro Uribe's government, but left the Party of the U after Santos' election and rejoined the Conservative Party where she had begun her political career, becoming one of Santos' most vocal critics.
+
+The main socialist opposition party, the [[Alternative Democratic Pole]] (PDA), had been split by infighting in the four years since the previous election. Its 2010 election candidate [[Gustavo Petro]] had acrimoniously left the party along with his followers after accusing the PDA's [[Samuel Moreno]], then [[Mayor of Bogota]], of corruption,<ref>{{cite news |title='Samuel Moreno está gobernando con clientelismo': Petro |newspaper=El Espectador |location=Bogotá, Colombia |url=http://www.elespectador.com/noticias/bogota/articulo119186-samuel-moreno-esta-gobernando-clientelismo-petro |date=18 February 2009 |access-date=1 March 2014|language=es}}</ref> a charge of which Moreno was later found guilty, and removed from his position and jailed. Petro formed the Progressives Movement ''(Movimiento Progresistas)'' in 2011 and successfully ran for Mayor of Bogota himself. Another faction of the PDA left to form the Patriotic March ''(Marcha Patriótica)'' movement. The PDA was, however, the first party to confirm its candidate for the 2014 election, choosing its president and former caretaker Mayor of Bogotá Clara López Obregón at its third national congress on 9 November 2012.<ref>{{cite news |title=Clara López es la candidata a la Presidencia por el Polo Democrático |newspaper=El Tiempo |location=Bogotá, Colombia |url=http://www.eltiempo.com/archivo/documento/CMS-12368988 |date=9 November 2012 |access-date=1 March 2014|language=es}}</ref><ref>{{cite news |title=Clara López, candidata del Polo para presidenciales de 2014 |newspaper=El Espectador |location=Bogotá, Colombia |url=http://www.elespectador.com/noticias/politica/clara-lopez-candidata-del-polo-presidenciales-de-2014-articulo-386158 |date=9 November 2012 |access-date=1 March 2014|language=es}}</ref>
+
+The [[Green Party (Colombia)|Green Party]] had also suffered serious divisions since its surprise second place in the 2010 election. The defeated 2010 presidential candidate [[Antanas Mockus]] had resigned from the Green Party in June 2011, opposed to the decision to accept Álvaro Uribe's support for the party's Bogotá mayoral candidate [[Enrique Peñalosa]].<ref>{{cite news |title=Mockus deja a los verdes; Peñalosa lamenta perder su apoyo |periodical=Semana |location=Bogotá, Colombia |url=http://www.semana.com/politica/articulo/mockus-deja-verdes-penalosa-lamenta-perder-su-apoyo/241109-3 |date=9 June 2011 |access-date=1 March 2014|language=es}}</ref><ref>{{cite news |title=Mockus se fue y el Partido Verde se abre a alianzas |newspaper=El Tiempo |location=Bogotá, Colombia |url=http://www.eltiempo.com/archivo/documento/CMS-9582615 |date=10 June 2011 |access-date=1 March 2014|language=es}}</ref> On 25 September 2013, after a year of negotiations, the Fourth National Congress of the Green Party confirmed a union with the Progressives Movement of Bogotá mayor Gustavo Petro, with the new name Green Alliance.<ref>{{cite news |title=El nombre Alianza Verde divide a progresistas y a 'verdes' |newspaper=El Tiempo |location=Bogotá, Colombia |url=http://www.eltiempo.com/archivo/documento/CMS-13083682 |date=26 September 2013 |access-date=1 March 2014|language=es}}</ref><ref>{{cite news |title=Partido Verde y Progresistas sellarían alianza este miércoles |newspaper=El Espectador |location=Bogotá, Colombia |url=http://www.elespectador.com/noticias/politica/partido-verde-y-progresistas-sellarian-alianza-miercole-articulo-448680 |date=25 September 2013 |access-date=1 March 2014|language=es}}</ref> This new political alliance decided that its candidate for the 2014 elections would be chosen by a national vote on 9 March 2014, the same day as the parliamentary elections. On 21 November 2013 the Green Alliance confirmed that there were six pre-candidates for the position: former Bogotá mayor Enrique Peñalosa, senators John Sudarsky and Camilo Romero, ex-presidential candidate and former FARC hostage [[Ingrid Betancourt]], the Progressives Movement spokesman Antonio Navarro, and indigenous leader Feliciano Valencia.<ref>{{cite news |title=Ingrid Betancourt será precandidata de la Alianza Verde |newspaper=El Tiempo |location=Bogotá, Colombia |url=http://www.eltiempo.com/archivo/documento/CMS-13212366 |date=21 November 2013 |access-date=1 March 2014|language=es}}</ref><ref>{{cite news |title=Alianza Verde inscribió a Ingrid Betancourt como precandidata presidencial |newspaper=El Espectador |location=Bogotá, Colombia |url=http://www.elespectador.com/noticias/politica/alianza-verde-inscribio-ingrid-betancurt-precandidata-p-articulo-459752 |date=21 November 2013 |access-date=1 March 2014|language=es}}</ref> Betancourt, Navarro and Valencia failed to reach the party's "10% recognition amongst Colombians" requirement to stand as a candidate, leaving Peñalosa, Sudarsky and Romero as the three remaining potential candidates.<ref>{{cite news |title='Verdes' irán a consulta para escoger candidato presidencial |newspaper=El Tiempo |location=Bogotá, Colombia |url=http://www.eltiempo.com/archivo/documento/CMS-13428101 |date=30 January 2014 |access-date=1 March 2014|language=es}}</ref> In the election on 9 March 2014 Enrique Peñalosa was elected as the Green Alliance's presidential candidate with 48% of the vote, comfortably ahead of Romero (17%) and Sudarsky (8%).<ref>{{cite news |title=Enrique Peñalosa, candidato de la Alianza Verde a la Presidencia |newspaper=El Tiempo |location=Bogotá, Colombia |url=http://www.eltiempo.com/elecciones-2014/presidencia/enrique-pealosa-candidato-de-la-alianza-verde-a-la-presidencia/13625975 |date=10 March 2014 |access-date=18 March 2014|language=es}}</ref> On 18 March 2014 Peñalosa announced that his running mate would be Isabel Segovía, a former deputy minister of education in the Uribe government.<ref>{{cite news |title=Isabel Segovia será fórmula vicepresidencial de Peñalosa |periodical=Semana |location=Bogotá, Colombia |url=http://www.semana.com/nacion/articulo/isabel-segovia-seria-la-formula-vicepresidencial-de-penalosa/380762-3 |date=18 March 2014 |access-date=18 March 2014|language=es}}</ref>
+
+The far-left [[Patriotic Union (Colombia)|Patriotic Union]] party chose its former president [[Aída Avella]] to be its presidential candidate at its fifth national congress on 16 November 2013. Avella had just returned from 17 years in exile in Switzerland after fleeing Colombia in 1996 following an attempt on her life.<ref>{{cite news |title=Aída Abella candidata presidencial de Unión Patriótica |newspaper=El Espectador |location=Bogotá, Colombia |url=http://www.elespectador.com/noticias/politica/aida-abella-candidata-presidencial-de-union-patriotica-articulo-458748 |date=16 November 2013 |access-date=1 March 2014|language=es}}</ref> However, the poor showing of the Patriotic Union in the parliamentary elections (where they failed to win a seat in either house of Congress) led to Avella abandoning her presidential campaign and instead agreeing to unite the Patriotic Front with the Alternative Democratic Pole as a single left-wing opposition alliance, with Avella becoming López's running mate for the presidential election.<ref>{{cite news |title=Clara y Aída, la fórmula de la izquierda |periodical=Semana |location=Bogotá, Colombia |url=http://www.semana.com/nacion/elecciones-2014/articulo/aida-avella-sera-la-formula-vicepresidencial-de-clara-lopez/380376-3 |date=13 March 2014 |access-date=18 March 2014|language=es}}</ref>
+
+=== Summary of candidates ===
+The following candidates appeared on the ballot for the first round in the following order:<ref>{{cite web |title=PARTICIPACIÓN ELECTORAL DE BOYACÁ EN ELECCIONES LOCALES, REGIONALES Y NACIONALES 1998-2014 |url=https://www.registraduria.gov.co/IMG/pdf/Analisis-participacion-electoral-ciudadana-Boyaca-desde-1998-2014-YMFR.pdf |website=registraduria.gov.co |access-date=21 August 2022 |pages=125 |language=es}}</ref>
+
+{| class="vertical-align-top wikitable"
+|-
+! scope=colgroup colspan=2 | Party
+! scope=colgroup colspan=2 | Presidential nominee
+! scope=colgroup colspan=2 | Vice-Presidential nominee 
+! scope=col | Coalition 
+|-
+| bgcolor={{party colour|Alternative Democratic Pole}}|
+| style="max-width:95px; text-align:center" | [[File:PDA Logo.svg|75px]] <br/> '''[[Alternative Democratic Pole]]'''
+| [[File:Clara López Obregón (28010041192) (cropped).jpg|100px]]
+| [[Clara López]]
+| [[File:Aida Avella.jpg|100px]]
+| [[Aída Avella]]
+| style="max-width:95px; text-align:center" |[[File:PDA Logo.svg|35px]] [[File:Logo Unión Patriótica Colombia.png|35px]] <br/> '''PDA–[[Patriotic Union (Colombia)|UP]]'''
+|-
+| bgcolor={{party colour|Colombian Conservative Party}}|
+| style="max-width:95px; text-align:center" |[[File:Bandera del Partido Conservador Colombiano.svg|75px]] <br/> '''[[Colombian Conservative Party]]'''
+| [[File:Marta Lucia Ramirez.png|100px]]
+| [[Marta Lucía Ramírez]]
+| [[File:Portrait placeholder.svg|95px]]
+| Camilo Gómez
+| {{n/a}}
+|-
+| bgcolor={{party colour|Social Party of National Unity}}|
+| style="max-width:95px; text-align:center" |[[File:Logo Partido U Colombia.png|75px]] <br/> '''[[Union Party for the People|Social Party of National Unity]]'''
+| [[File:Juan Manuel Santos 2015.jpg|100px]]
+| [[Juan Manuel Santos]]
+| [[File:GERMANVARGAS.JPG|100px]]
+| [[Germán Vargas Lleras]]
+| style="max-width:95px; text-align:center" | [[File:Logo unidad full.png|75px]] <br/> '''[[:es:Unidad Nacional (Colombia)|National Unity]]'''
+|-
+| bgcolor={{party colour|Green Party (Colombia)}}|
+| style="max-width:95px; text-align:center" |[[File:Alianza Verde (Colombia).svg|75px]] <br/> '''[[Green Alliance (Colombia)|Green Party]]'''
+| [[File:Enrique Peñalosa no Fronteiras do Pensamento Porto Alegre (7417396154).jpg|100px]]
+| [[Enrique Peñalosa]]
+| [[File:Isabel Segovia Ospina - Vicprezidena Kandidato.jpg|100px]]
+| Isabel Segovia
+| style="max-width:95px; text-align:center" |'''Green Alliance'''
+|-
+| bgcolor={{party colour|Democratic Center (Colombia)}}|
+| style="max-width:95px; text-align:center" |[[File:CENTRO DEMOCRÁTICO.svg|75px]] <br/> '''[[Democratic Center (Colombia)|Democratic Center]]'''
+| [[File:Oscar Ivan Zuluaga.jpg|100px]]
+| [[Óscar Iván Zuluaga]]
+| [[File:Holmes Trujillo.png|100px]]
+| [[Carlos Holmes Trujillo]]
+| {{n/a}}
+|}
+
+==Opinion polls==
+
+===First round===
+The following table shows the results of opinion polls conducted from November 2013, when most of the presidential candidates had been confirmed, up to 15 May 2014. The table does not include the votes in the earliest polls for potential candidates who subsequently did not stand for election. The two highest scoring candidates in each poll (who would hypothetically go through to the second round of voting) are highlighted, except for the Centro Nacional de Consultoría poll of 17 January–7 February 2014, where Santos' score of 51% would have been enough to win in the first round.
+
+A notable feature of the early polls was the high percentage of people intending to cast a blank vote (''voto en blanco''), usually between 20% and 30%. This reflected the widespread dissatisfaction among the Colombian public with all the candidates and the political system in general. After the parliamentary elections and the election of Peñalosa as candidate for the Green Alliance, both of which occurred on 9 March 2014, the polls showed a sharp drop in the percentage of people intending to cast a blank vote.
+
+{| class=wikitable style=text-align:center;
+|-
+! rowspan=3| Date(s) conducted
+! rowspan=3| Polling organisation/client
+! rowspan=3, width=50| Sample size
+! colspan=6| Candidate
+! rowspan=3, width=50| Blank vote
+! rowspan=3, width=50| Don't know/No response
+! rowspan=3, width=50| Margin of error
+|-
+! width=50| [[Juan Manuel Santos|J.M. Santos]]
+! width=50| [[Óscar Iván Zuluaga|O.I. Zuluaga]]
+! width=50| [[Enrique Peñalosa|E. Peñalosa]]
+! width=50| [[Clara López Obregón|C. López]]
+! width=50| [[Marta Lucía Ramírez|M.L. Ramírez]]
+! width=50| [[Aída Avella|A. Avella]]
+|-
+! style="background:#FF8C00; width:50px;"|
+! style="background:#87CEEB; width:50px;"|
+! style="background:#008000; width:50px;"|
+! style="background:#FFD700; width:50px;"|
+! style="background:#0000FF; width:50px;"|
+! style="background:#8B0000; width:50px;"|
+|-
+| 1–6 November 2013
+| [http://www.eluniversal.com.co/politica/encuesta-presidencial-de-invamer-lea-aqui-los-resultados-141699 Invamer–Gallup Colombia/Caracol Televisión, Blu Radio & major newspapers]
+| 713
+| style="background:#ffe8cc;" | '''28.0%'''
+| style="background:#d2e8ff;" | 14.6%
+| 8.7%
+| 9.3%
+| 5.7%
+| –
+| 31.9%
+| 1.9%
+| 3.7%
+|-
+| 21–25 November 2013
+| [http://www.eltiempo.com/politica/ARTICULO-WEB-NEW_NOTA_INTERIOR-13226736.html Datexco/El Tiempo & W Radio]
+| 1200
+| style="background:#ffe8cc;" | '''36.1%'''
+| style="background:#d2e8ff;" | 11.9%
+| 6.2%
+| 6.3%
+| 1.5%
+| 0.9%
+| 20.3%
+| 11.0%
+| 2.83%
+|-
+| 22 November 2013
+| [http://www.cmi.com.co/?n=218091 Centro Nacional de Consultoría/CM&]
+| 970
+| style="background:#ffe8cc;" | '''41%'''
+| style="background:#d2e8ff;" | 13%
+| 10%
+| 5%
+| 4%
+| –
+| 10%
+| 17%
+| 3.0%
+|-
+| 22–23 November 2013
+| [http://www.semana.com/nacion/articulo/santos-ganaria-en-segunda-vuelta-la-reeleccion/366102-3 Ipsos–Napoleón Franco/RCN, La FM & Revista Semana]
+| 1225
+| style="background:#ffe8cc;" | '''26%'''
+| style="background:#d2e8ff;" | 12%
+| 4%
+| 6%
+| 2%
+| 1%
+| 21%
+| 25%
+| 2.8%
+|-
+| 22–27 November 2013
+| [http://www.caracol.com.co/noticias/actualidad/el-25--de-los-colombianos-votaria-por-santos-cifras--conceptos/20131204/nota/2031027.aspx Cifras y Conceptos/Caracol Radio & Red Más Noticias]
+| 2500
+| style="background:#ffe8cc;" | '''26%'''
+| style="background:#d2e8ff;" | 13%
+| 5%
+| 8%
+| –
+| 1%
+| 35%
+| –
+| 2.9%
+|-
+| 2–9 December 2013
+| [http://www.eluniversal.com.co/politica/encuesta-presidencial-santos-sube-pero-no-ganaria-en-primera-vuelta-145304 Invamer–Gallup Colombia/Caracol Televisión, Blu Radio & major newspapers]
+| 756
+| style="background:#ffe8cc;" | '''36.0%'''
+| style="background:#d2e8ff;" | 14.2%
+| 5.1%
+| 6.2%
+| 5.8%
+| 0.9%
+| 26.4%
+| 3.7%
+| 3.6%
+|-
+| 3–6 December 2013
+| [http://www.eltiempo.com/archivo/documento/CMS-13272123 Datexco/El Tiempo & W Radio]
+| 1000
+| style="background:#ffe8cc;" | '''28%'''
+| style="background:#d2e8ff;" | 10%
+| 9%
+| 8%
+| 3%
+| 1%
+| unknown
+| unknown
+| 3.1%
+|-
+| 16–20 January 2014
+| [http://www.semana.com/nacion/elecciones-2014/articulo/santos-ganaria-elecciones-segun-cifras-conceptos/371795-3 Cifras y Conceptos/Caracol Radio & Red Más Noticias]
+| 2500
+| style="background:#ffe8cc;" | '''26%'''
+| 8%
+| style="background:#cce5cc;" |9%
+| 7%
+| –
+| 1%
+| 30%
+| 19%
+| 2.9%
+|-
+| 17 January–7 February 2014
+| [http://www.eltiempo.com/elecciones-2014/presidencia/dos-encuestas-dan-como-ganador-presidencial-a-santos/13487380 Centro Nacional de Consultoría/CM&]
+| 2378
+| style="background:#ffe8cc;" | '''51%'''
+| 9%
+| 12%
+| 7%
+| 8%
+| 3%
+| 10%
+| unknown
+| 2%
+|-
+| 28–29 January 2014
+| [http://www.semana.com/nacion/articulo/encuestas-presidenciales-continuan-con-su-tendencia-nadie-despega/375790-3 Ipsos–Napoleón Franco/RCN, La FM & Revista Semana]
+| 1008
+| style="background:#ffe8cc;" | '''25%'''
+| style="background:#d2e8ff;" |8%
+| 6%
+| 6%
+| 4%
+| 1%
+| 27%
+| 23%
+| 3.1%
+|-
+| 29–31 January 2014
+| [http://www.eltiempo.com/politica/ARTICULO-WEB-NEW_NOTA_INTERIOR-13449558.html Datexco/El Tiempo & W Radio]
+| 1200
+| style="background:#ffe8cc;" | '''24.4%'''
+| 7.6%
+| 7.1%
+| 6.0%
+| style="background:#ccccff;" |7.7%
+| 0.7%
+| 30.5%
+| 14.1%
+| 2.83%
+|-
+| 5–9 February 2014
+| [http://www.elpais.com.co/elpais/elecciones/noticias/santos-ganaria-presidencia-segunda-vuelta-segun-encuesta-gallup Invamer–Gallup Colombia/Caracol Televisión, Blu Radio & major newspapers]
+| 678
+| style="background:#ffe8cc;" | '''34.7%'''
+| style="background:#d2e8ff;" | 10.8%
+| 8.6%
+| 4.5%
+| 8.5%
+| 1.6%
+| 28.1%
+| 3.2%
+| 3.8%
+|-
+| 10–15 February 2014
+| [http://www.cifrasyconceptos.com/images/descargas/polimetrica/Febrero2014.pdf Cifras y Conceptos/Caracol Radio & Red Más Noticias]{{dead link|date=August 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+| 2500
+| style="background:#ffe8cc;" | '''26%'''
+| style="background:#d2e8ff;" | 7%
+| 6%
+| 5%
+| 4%
+| 1%
+| 30%
+| 20%
+| 2.9%
+|-
+| 20–24 February 2014
+| [http://www.caracol.com.co/noticias/adjuntos/encuesta-polimetrica-de-febrero-elaborada-por-cifras-y-conceptos-para-caracol-radio-y-la-red--noticias/20140227/nota/2102351.aspx Cifras y Conceptos/Caracol Radio & Red Más Noticias] {{Webarchive|url=https://web.archive.org/web/20140302190110/http://www.caracol.com.co/noticias/adjuntos/encuesta-polimetrica-de-febrero-elaborada-por-cifras-y-conceptos-para-caracol-radio-y-la-red--noticias/20140227/nota/2102351.aspx |date=2 March 2014 }}
+| 2500
+| style="background:#ffe8cc;" | '''31%'''
+| 8%
+| style="background:#cce5cc;" | 9%
+| 7%
+| 4%
+| 1%
+| 27%
+| 12%
+| 2.9%
+|-
+| 21–24 February 2014
+| [http://www.semana.com/nacion/elecciones-2014/articulo/juan-manuel-santos-lidera-intencion-de-voto-en-las-presidenciales/378893-3 Ipsos–Napoleón Franco/RCN, La FM & Revista Semana]
+| 1201
+| style="background:#ffe8cc;" | '''28%'''
+| style="background:#d2e8ff;" | 8%
+| 5%
+| 4%
+| 3%
+| 2%
+| 24%
+| –
+| 2.8%
+|-
+| 25–28 February 2014
+| [http://www.eltiempo.com/elecciones-2014/presidencia/voto-en-blanco-an-domina-en-las-presidenciales/13580058 Datexco/El Tiempo y W Radio]
+| 1200
+| style="background:#ffe8cc;" | '''24.2%'''
+| 6.3%
+| style="background:#cce5cc;" | 6.3%
+| 4.9%
+| 4.1%
+| 3.6%
+| 41.5%
+| 8.6%
+| 2.83%
+|-
+| 13–14 March 2014
+| [http://www.eltiempo.com/Multimedia/infografia/encuestapresidencial/ Datexco/El Tiempo y W Radio]
+| 1000
+| style="background:#ffe8cc;" | '''25.5%'''
+| 14.6%
+| style="background:#cce5cc;" | 17.1%
+| 10.7%
+| 7.7%
+| n/a
+| 16.9%
+| 7.5%
+| 3.1%
+|-
+| 15–17 March 2014
+| [http://www.eltiempo.com/elecciones-2014/presidencia/encuesta-sobre-elecciones-a-la-presidencia-2014/13675457 Centro Nacional de Consultoría/CM&]
+| 1113
+| style="background:#ffe8cc;" | '''30%'''
+| 10%
+| style="background:#cce5cc;" | 16%
+| 10%
+| 9%
+| n/a
+| 8%
+| 17%
+| 3.0%
+|-
+| 13–17 March 2014
+| [https://web.archive.org/web/20140321042235/http://apps.caracoltv.com/f/LA_GRAN_ENCUESTA_DE_LOS_MEDIOS_ELECCIONES_2014_4.pdf Invamer–Gallup Colombia/Caracol Televisión, Blu Radio & major newspapers]
+| 1200
+| style="background:#ffe8cc;" | '''32.5%'''
+| style="background:#d2e8ff;" | 15.6%
+| 11.3%
+| 8.6%
+| 9.3%
+| n/a
+| 19.6%
+| 2.7%
+| 3.0%
+|-
+| 14–16 March 2014
+| [http://www.semana.com/nacion/elecciones-2014/articulo/indignados-indecisos-son-mayoria-en-la-gran-encuesta/381096-3 Ipsos–Napoleón Franco/RCN, La FM & Revista Semana]
+| 1233
+| style="background:#ffe8cc;" | '''24%'''
+| style="background:#d2e8ff;" | 9%
+| 8%
+| 9%
+| 4%
+| n/a
+| 19%
+| 27%
+| 2.8%
+|-
+| 19–22 March 2014
+| [http://www.semana.com/nacion/articulo/penalosa-le-ganaria-santos-la-presidencia/381619-3 Centro Nacional de Consultoría/CM&]
+| 1500
+| style="background:#ffe8cc;" | '''27%'''
+| 13%
+| style="background:#cce5cc;" | 18%
+| 10%
+| 7%
+| n/a
+| 8%
+| 17%
+| 2.5%
+|-
+| 21–25 March 2014
+| [http://www.caracol.com.co/noticias/actualidad/santos-seguiria-gobernando-aunque-en-el-pais-no-gusta-la-reeleccion/20140331/nota/2153890.aspx Cifras y Conceptos/Caracol Radio & Red Más Noticias]
+| 2500
+| style="background:#ffe8cc;" | '''23%'''
+| 11%
+| style="background:#cce5cc;" | 13%
+| 9%
+| 5%
+| n/a
+| 26%
+| 13%
+| 2.9%
+|-
+| 21–23 April 2014
+| [http://www.semana.com/nacion/articulo/gran-encuesta-se-aprietan-las-elecciones-presidenciales/384896-3 Ipsos–Napoleón Franco/RCN, La FM & Revista Semana]
+| 1208
+| style="background:#ffe8cc;" | '''23%'''
+| style="background:#d2e8ff;" | 15%
+| 11%
+| 6%
+| 6%
+| n/a
+| 14%
+| 22%
+| 2.8%
+|-
+| 21–24 April 2014
+| [http://www.eltiempo.com/elecciones-2014/presidencia/juan-manuel-santos-ganara-en-segunda-vuelta/13888615 Datexco/El Tiempo y W Radio]
+| 1974
+| style="background:#ffe8cc;" | '''28.3%'''
+| style="background:#d2e8ff;" | 16.0%
+| 15.7%
+| 9.6%
+| 7.2%
+| n/a
+| 17.3%
+| 5.8%
+| 2.8%
+|-
+| 23–27 April 2014
+| [http://www.elpais.com.co/elpais/colombia/graficos/grafico-santos-y-zuluaga-pasarian-segunda-vuelta-segun-encuesta-gallup Invamer–Gallup Colombia/Caracol Televisión, Blu Radio & major newspapers]
+| 1200
+| style="background:#ffe8cc;" | '''32.0%'''
+| style="background:#d2e8ff;" | 20.5%
+| 10.1%
+| 7.1%
+| 11.2%
+| n/a
+| 15.9%
+| 3.2%
+| 3.0%
+|-
+| 26–28 April 2014
+| [http://www.caracol.com.co/noticias/actualidad/santos-y-zuluaga-irian-a-segunda-vuelta-segun-encuesta-polimetrica/20140506/nota/2210195.aspx Cifras y Conceptos/Caracol Radio & Red Más Noticias]
+| 2500
+| style="background:#ffe8cc;" | '''27%'''
+| style="background:#d2e8ff;" | 19%
+| 10%
+| 10%
+| 8%
+| n/a
+| 17%
+| 8%
+| 2.9%
+|-
+| 6–10 May 2014
+| [http://www.elespectador.com/noticias/politica/encuesta-de-centro-nacional-de-consultoria-pone-ganar-o-articulo-491988 Centro Nacional de Consultoría/CM&]
+| 1500
+| style="background:#ffe8cc;" | 22%
+| style="background:#d2e8ff;" | '''24%'''
+| 13%
+| 9%
+| 9%
+| n/a
+| 9%
+| 14%
+| 2.5%
+|-
+| 9–12 May 2014
+| [https://web.archive.org/web/20140517185627/http://www.caracol.com.co/noticias/actualidad/empate-tecnico-entre-santos-y-zuluaga-en-primera-y-segunda-vuelta/20140515/nota/2224974.aspx Cifras y Conceptos/Caracol Radio & Red Más Noticias]
+| 2762
+| style="background:#ffe8cc;" | '''27.7%'''
+| style="background:#d2e8ff;" | 23.9%
+| 9.7%
+| 10.0%
+| 8.7%
+| n/a
+| 11.5%
+| 8.5%
+| 2.9%
+|-
+| 10–13 May 2014
+| [http://www.eltiempo.com/politica/partidos-politicos/encuesta-datexco-elecciones-presidenciales-en-colombia/13995289 Datexco/El Tiempo y W Radio]
+| 2392
+| style="background:#ffe8cc;" | '''27.7%'''
+| style="background:#d2e8ff;" | 25.6%
+| 9.7%
+| 9.7%
+| 9.4%
+| n/a
+| 15.0%
+| 2.9%
+| 2.8%
+|-
+| 10–13 May 2014
+| [http://www.elpais.com.co/elpais/elecciones/noticias/santos-y-zuluaga-quedarian-empatados-primera-vuelta-segun-encuesta-gallup Invamer–Gallup Colombia/Caracol Televisión, Blu Radio & major newspapers]
+| 1184
+| style="background:#ffe8cc;" | 29%
+| style="background:#d2e8ff;" | '''29.3%'''
+| 10.6%
+| 10.9%
+| 14.4%
+| n/a
+| 5.8%
+| unknown
+| 3.0%
+|-
+| 13–15 May 2014
+| [http://www.semana.com/nacion/elecciones-2014/articulo/elecciones-presidenciales-final-de-infarto/388625-3 Ipsos–Napoleón Franco/RCN, La FM & Revista Semana]
+| 1799
+| style="background:#ffe8cc;" | 28.5%
+| style="background:#d2e8ff;" | '''29.5%'''
+| 9.4%
+| 10.1%
+| 9.7%
+| n/a
+| 12.8%
+| unknown
+| 3.4%
+|}
+
+===Second round===
+{| class=wikitable style=text-align:center;
+|-
+! rowspan=3 |Date(s) conducted
+! rowspan=3 |Polling organisation/client
+! rowspan=3, width=50 |Sample size
+! colspan=2 |Candidate
+! rowspan=3, width=70| Blank vote
+! rowspan=3, width=70| Don't know/No response
+! rowspan=3, width=70| Margin of error
+|-
+! width=90| [[Juan Manuel Santos]]
+! width=90| [[Óscar Iván Zuluaga]]
+|-
+! style="background:#FF8C00; width:50px;"|
+! style="background:#1E90FF; width:50px;"|
+|-
+| 26–27 May 2014
+| [http://www.eltiempo.com/politica/partidos-politicos/elecciones-2014-encuesta-sobre-intencion-de-voto/14058121 Centro Nacional de Consultoría/CM&]
+| 1996
+| 45%
+| style="background:#d2e8ff;" | '''47%'''
+| 8%
+| n/a
+| 2.2%
+|-
+| 26–27 May 2014
+| [http://www.caracol.com.co/noticias/actualidad/empate-tecnico-entre-santos-y-zuluaga-segun-encuesta-polimetrica/20140529/nota/2248246.aspx Cifras y Conceptos/Caracol Radio & Red Más Noticias]
+| 1672
+| style="background:#ffe8cc;" | '''38%'''
+| 37%
+| 15%
+| 10%
+| 2.9%
+|-
+| May 31–June 3, 2014
+| [http://www.elpais.com.co/elpais/elecciones/noticias/encuesta-revela-empate-tecnico-entre-santos-y-zuluaga-cara-segunda-vuelta-elecci Invamer–Gallup Colombia/Caracol Televisión, Blu Radio & major newspapers]
+| 1200
+| 47.7%
+| style="background:#d2e8ff;" | '''48.5%'''
+| 3.7%
+| n/a
+| 3.0%
+|-
+| 31 May–3 June 2014
+| [http://www.caracol.com.co/noticias/actualidad/santos-tiene--434-de-intencion-de-voto-zuluaga-tiene-385/20140606/nota/2260989.aspx Cifras y Conceptos/Caracol Radio & Red Más Noticias]
+| 3215
+| style="background:#ffe8cc;" | '''43.4%'''
+| 38.5%
+| 11.7%
+| 6.3%
+| 2.9%
+|-
+| 31 May–4 June 2014
+| [http://www.eltiempo.com/politica/partidos-politicos/encuesta-segunda-vuelta-presidencial-en-colombia-2014/14080825 Datexco/El Tiempo & W Radio]
+| 1200
+| style="background:#ffe8cc;" | '''41.9%'''
+| 37.7%
+| 13.8%
+| 5.8%
+| 2.83%
+|-
+| June 2–4, 2014
+| [http://www.semana.com/nacion/elecciones-2014/articulo/zuluaga-49-santos-41-en-elecciones-2014/390598-3 Ipsos–Napoleón Franco/RCN, La FM & Revista Semana]
+| 1784
+| 41%
+| style="background:#d2e8ff;" | '''49%'''
+| 10%
+| n/a
+| 2.3%
+|}
+
+== Results ==
+{{Election results
+|cand1=[[Juan Manuel Santos]]|vp1=[[Germán Vargas Lleras]]|party1=[[Union Party for the People|Social Party of National Unity]]|votes1=3310794|votes1_2=7839342
+|cand2=[[Óscar Iván Zuluaga]]|vp2=[[Carlos Holmes Trujillo]]|party2=[[Democratic Center (Colombia)|Democratic Center]]|votes2=3769005|votes2_2=6917001
+|cand3=[[Marta Lucía Ramírez]]|vp3=Camilo Gómez|party3=[[Colombian Conservative Party]]|votes3=1997980
+|cand4=[[Clara López]]|vp4=[[Aída Avella]]|party4=[[Alternative Democratic Pole]]|votes4=1958518
+|cand5=[[Enrique Peñalosa]]|vp5=Isabel Segovia|party5=[[Green Alliance (Colombia)|Green Party]]|votes5=1064758
+|row6=Blank votes|votes6=770543|votes6_2=618759
+|invalid=350756|invalid2=443112|invalidonly=y
+|electorate=32975158|electorate2=32975158
+|source=[https://elecciones.registraduria.gov.co:81/elecciones2014/presidente/1v/99PR1/DPR9999999_L1.htm  Registraduría Nacional del Estado Civil], [https://elecciones.registraduria.gov.co:81/elecciones2014/presidente/2v/99PR2/DPR9999999_L1.htm Registraduría Nacional del Estado Civil]
+}}
+
+===By department===
+
+====First round====
+
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+! rowspan="3" |[[Departments of Colombia|Department]]
+! colspan="2" width="110" |[[Óscar Iván Zuluaga|Zuluaga]]
+! colspan="2" width="110" |[[Juan Manuel Santos|Santos]]
+! colspan="2" width="110" |[[Marta Lucía Ramírez|Ramírez]]
+! colspan="2" width="110" |[[Clara López Obregón|Obregón]]
+! colspan="2" width="110" |[[Enrique Peñalosa|Peñalosa]]
+! colspan="2" width="110" |Blank votes
+|-
+! colspan="2" style="background:#1E90FF;" |
+! colspan="2" style="background:#FF8C00;" |
+! colspan="2" style="background:#1935D0;" |
+! colspan="2" style="background:#FEF71F;" |
+! colspan="2" style="background:#07d400;" |
+! colspan="2" style="background:#809080;" |
+|-
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+|-
+| style="text-align:left;"|[[Amazonas (Colombian department)|Amazonas]]
+| 4,460
+| 32.24%
+| style="background:#ffd199;"|'''4,841'''
+| style="background:#ffd199;"|'''35.00%'''
+| 1,443
+| 10.43%
+| 1,811
+| 13.09%
+| 826
+| 5.97%
+| 450
+| 3.25%
+|-
+| style="text-align:left;"|[[Antioquia Department|Antioquia]]
+| style="background:#a5d3ff;"|'''665,160'''
+| style="background:#a5d3ff;"|'''39.65%'''
+| 286,742
+| 16.23%
+| 334,312
+| 18.92%
+| 248,628
+| 14.07%
+| 98,144
+| 5.55%
+| 133,404
+| 7.55%
+|-
+| style="text-align:left;"|[[Arauca Department|Arauca]]
+| style="background:#a5d3ff;"|'''25,425'''
+| style="background:#a5d3ff;"|'''44.67%'''
+| 14,741
+| 25.90%
+| 1,407
+| 8.62%
+| 6,651
+| 11.68%
+| 2,441
+| 4.28%
+| 2,742
+| 4.81%
+|-
+| style="text-align:left;"|[[Atlántico Department|Atlántico]]
+| 77,446
+| 19.06%
+| style="background:#ffd199;"|'''195,529'''
+| style="background:#ffd199;"|'''48.13%'''
+| 33,181
+| 8.16%
+| 56,869
+| 14.00%
+| 24,319
+| 5.98%
+| 18,861
+| 4.64%
+|-
+| style="text-align:left;"|[[Bogotá]]
+| style="background:#a5d3ff;"|'''524,459'''
+| style="background:#a5d3ff;"|'''22.10%'''
+| 444,007
+| 18.09%
+| 366,394
+| 14.93%
+| 500,603
+| 20.40%
+| 392,460
+| 15.99%
+| 207,525
+| 8.45%
+|-
+| style="text-align:left;"|[[Bolívar Department|Bolívar]]
+| 122,506
+| 32.68%
+| style="background:#ffd199;"|'''144,166'''
+| style="background:#ffd199;"|'''38.45%'''
+| 25,411
+| 6.77%
+| 47,664
+| 12.71%
+| 19,802
+| 5.28%
+| 15,313
+| 4.08%
+|-
+| style="text-align:left;"|[[Boyacá Department|Boyacá]]
+| style="background:#a5d3ff;"|'''121,291'''
+| style="background:#a5d3ff;"|'''30.09%'''
+| 64,463
+| 15.99%
+| 83,319
+| 20.67%
+| 84,835
+| 21.04%
+| 31,904
+| 7.91%
+| 17,240
+| 4.27%
+|-
+| style="text-align:left;"|[[Caldas Department|Caldas]]
+| style="background:#a5d3ff;"|'''141,059'''
+| style="background:#a5d3ff;"|'''40.52%'''
+| 62,785
+| 18.03%
+| 54,295
+| 15.59%
+| 44,861
+| 12.88%
+| 24,755
+| 7.11%
+| 20,310
+| 5.83%
+|-
+| style="text-align:left;"|[[Caquetá Department|Caquetá]]
+| style="background:#a5d3ff;"|'''47,063'''
+| style="background:#a5d3ff;"|'''51.69%'''
+| 15,216
+| 16.71%
+| 8,143
+| 8.94%
+| 10,896
+| 11.96%
+| 5,080
+| 5.58%
+| 4,641
+| 5.09%
+|-
+| style="text-align:left;"|[[Casanare Department|Casanare]]
+| style="background:#a5d3ff;"|'''70,058'''
+| style="background:#a5d3ff;"|'''57.67%'''
+| 10,831
+| 8.91%
+| 12,432
+| 10.23%
+| 12,313
+| 10.13%
+| 10,299
+| 8.47%
+| 5,527
+| 4.55%
+|-
+| style="text-align:left;"|[[Cauca Department|Cauca]]
+| 54,375
+| 16.30%
+| style="background:#ffd199;"|'''150,434'''
+| style="background:#ffd199;"|'''45.12%'''
+| 42,497
+| 12.74%
+| 49,328
+| 14.79%
+| 19,341
+| 5.80%
+| 17,412
+| 5.22%
+|-
+| style="text-align:left;"|[[Cesar Department|Cesar]]
+| 71,291
+| 29.60%
+| style="background:#ffd199;"|'''103,020'''
+| style="background:#ffd199;"|'''42.77%'''
+| 18,852
+| 7.82%
+| 28,858
+| 11.98%
+| 10,226
+| 4.24%
+| 8,587
+| 3.56%
+|-
+| style="text-align:left;"|[[Chocó Department|Chocó]]
+| 16,686
+| 20.50%
+| style="background:#ffd199;"|'''42,747'''
+| style="background:#ffd199;"|'''52.53%'''
+| 8,683
+| 10.67%
+| 5,784
+| 7.10%
+| 3,383
+| 4.15%
+| 4,091
+| 5.02%
+|-
+| style="text-align:left;"|Consulates/Abroad
+| style="background:#a5d3ff;"|'''41,370'''
+| style="background:#a5d3ff;"|'''41.24%'''
+| 25,121
+| 25.04%
+| 5,350
+| 5.33%
+| 10,010
+| 9.97%
+| 14,015
+| 13.97%
+| 4,444
+| 4.43%
+|-
+| style="text-align:left;"|[[Córdoba Department|Córdoba]]
+| 114,960
+| 28.11%
+| style="background:#ffd199;"|'''205,061'''
+| style="background:#ffd199;"|'''50.15%'''
+| 35,407
+| 8.66%
+| 27,751
+| 6.78%
+| 11,448
+| 2.80%
+| 14,224
+| 3.47%
+|-
+| style="text-align:left;"|[[Cundinamarca department|Cundinamarca]]
+| style="background:#a5d3ff;"|'''255,598'''
+| style="background:#a5d3ff;"|'''31.62%'''
+| 144,346
+| 17.86%
+| 186,690
+| 23.10%
+| 116,562
+| 14.42%
+| 56,156
+| 6.94%
+| 48,757
+| 6.03%
+|-
+| style="text-align:left;"|[[Guainía Department|Guainía]]
+| 1,911
+| 30.19%
+| style="background:#ffd199;"|'''2,828'''
+| style="background:#ffd199;"|'''44.69%'''
+| 635
+| 10.03%
+| 475
+| 7.50%
+| 306
+| 4.83%
+| 173
+| 2.73%
+|-
+| style="text-align:left;"|[[Guaviare Department|Guaviare]]
+| 6,631
+| 37.11%
+| style="background:#ffd199;"|'''6,689'''
+| style="background:#ffd199;"|'''37.44%'''
+| 1,889
+| 10.57%
+| 963
+| 5.39%
+| 771
+| 4.31%
+| 921
+| 5.15%
+|-
+| style="text-align:left;"|[[Huila Department|Huila]]
+| style="background:#a5d3ff;"|'''140,904'''
+| style="background:#a5d3ff;"|'''46.46%'''
+| 34,471
+| 11.36%
+| 44,028
+| 14.51%
+| 52,848
+| 17.42%
+| 19,514
+| 6.43%
+| 11,495
+| 3.79%
+|-
+| style="text-align:left;"|[[La Guajira Department|La Guajira]]
+| 28,509
+| 23.97%
+| style="background:#ffd199;"|'''57,275'''
+| style="background:#ffd199;"|'''48.16%'''
+| 9,821
+| 8.25%
+| 13,081
+| 11.00%
+| 6,393
+| 5.37%
+| 3,825
+| 3.21%
+|-
+| style="text-align:left;"|[[Magdalena Department|Magdalena]]
+| 69,965
+| 26.15%
+| style="background:#ffd199;"|'''135,830'''
+| style="background:#ffd199;"|'''50.76%'''
+| 19,042
+| 7.11%
+| 25,767
+| 9.63%
+| 8,852
+| 3.30%
+| 8,088
+| 3.02%
+|-
+| style="text-align:left;"|[[Meta Department|Meta]]
+| style="background:#a5d3ff;"|'''126,996'''
+| style="background:#a5d3ff;"|'''43.17%'''
+| 48,102
+| 16.35%
+| 50,807
+| 17.27%
+| 37,864
+| 12.87%
+| 17,340
+| 5.89%
+| 13,019
+| 4.42%
+|-
+| style="text-align:left;"|[[Nariño Department|Nariño]]
+| 74,942
+| 19.25%
+| style="background:#ffd199;"|'''166,906'''
+| style="background:#ffd199;"|'''42.88%'''
+| 43,009
+| 11.05%
+| 66,815
+| 17.16%
+| 21,898
+| 5.62%
+| 15,593
+| 4.00%
+|-
+| style="text-align:left;"|[[Norte de Santander Department|Norte de Santander]]
+| style="background:#a5d3ff;"|'''118,134'''
+| style="background:#a5d3ff;"|'''31.04%'''
+| 105,470
+| 27.71%
+| 75,550
+| 19.85%
+| 36,771
+| 9.66%
+| 25,227
+| 6.62%
+| 19,395
+| 5.09%
+|-
+| style="text-align:left;"|[[Putumayo Department|Putumayo]]
+| 10,870
+| 16.98%
+| style="background:#ffd199;"|'''24,846'''
+| style="background:#ffd199;"|'''38.79%'''
+| 12,002
+| 18.74%
+| 10,537
+| 16.46%
+| 3,166
+| 4.94%
+| 2,601
+| 4.06%
+|-
+| style="text-align:left;"|[[Quindío Department|Quindío]]
+| style="background:#a5d3ff;"|'''56,497'''
+| style="background:#a5d3ff;"|'''29.04%'''
+| 46,539
+| 23.92%
+| 31,548
+| 16.21%
+| 24,953
+| 12.82%
+| 21,549
+| 11.07%
+| 13,427
+| 6.90%
+|-
+| style="text-align:left;"|[[Risaralda Department|Risaralda]]
+| style="background:#a5d3ff;"|'''98,280'''
+| style="background:#a5d3ff;"|'''30.10%'''
+| 63,636
+| 19.49%
+| 70,539
+| 21.60%
+| 42,928
+| 13.15%
+| 30,438
+| 9.33%
+| 20,580
+| 6.30%
+|-
+| style="text-align:left;"|[[Archipelago of San Andrés, Providencia and Santa Catalina|San Andrés and Providencia]]
+| 2,620
+| 30.58%
+| style="background:#ffd199;"|'''3,264'''
+| style="background:#ffd199;"|'''38.10%'''
+| 579
+| 6.75%
+| 701
+| 8.18%
+| 804
+| 9.38%
+| 598
+| 6.98%
+|-
+| style="text-align:left;"|[[Santander Department|Santander]] 
+| style="background:#a5d3ff;"|'''186,420'''
+| style="background:#a5d3ff;"|'''27.69%'''
+| 176,416
+| 26.20%
+| 121,389
+| 18.03%
+| 107,158
+| 15.91%
+| 44,251
+| 6.57%
+| 37,567
+| 5.58%
+|-
+| style="text-align:left;"|[[Sucre Department|Sucre]]
+| 82,374
+| 34.10%
+| style="background:#ffd199;"|'''113,088'''
+| style="background:#ffd199;"|'''46.81%'''
+| 11,526
+| 4.77%
+| 20,588
+| 8.52%
+| 5,771
+| 2.38%
+| 8,209
+| 3.39%
+|-
+| style="text-align:left;"|[[Tolima Department|Tolima]]
+| style="background:#a5d3ff;"|'''169,798'''
+| style="background:#a5d3ff;"|'''40.86%'''
+| 88,177
+| 21.22%
+| 58,769
+| 14.14%
+| 49.122
+| 11.82%
+| 27,625
+| 6.64%
+| 22,041
+| 5.30%
+|-
+| style="text-align:left;"|[[Valle del Cauca Department|Valle del Cauca]]
+| 216,620
+| 18.92%
+| style="background:#ffd199;"|'''315,698'''
+| style="background:#ffd199;"|'''27.57%'''
+| 224,405
+| 19.60%
+| 213,557
+| 18.65%
+| 105,509
+| 9.21%
+| 69,040
+| 6.03%
+|-
+| style="text-align:left;"|[[Vaupés Department|Vaupés]]
+| 833
+| 15.93%
+| style="background:#ffd199;"|'''3,267'''
+| style="background:#ffd199;"|'''62.50%'''
+| 311
+| 5.94%
+| 390
+| 7.46%
+| 312
+| 5.96%
+| 114
+| 2.18%
+|-
+| style="text-align:left;"|[[Vichada Department|Vichada]]
+| style="background:#a5d3ff;"|'''5,494'''
+| style="background:#a5d3ff;"|'''46.42%'''
+| 4,232
+| 35.76%
+| 815
+| 6.88%
+| 576
+| 4.86%
+| 388
+| 3.27%
+| 329
+| 2.78%
+|-
+| align=left colspan="13"|Source: Registraduría Nacional del Estado Civil
+|}
+
+====Second round====
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+|-
+! rowspan="3" |[[Departments of Colombia|Department]]
+! colspan="2" style="width:110px;"|[[Juan Manuel Santos|Santos]]
+! colspan="2" style="width:110px;"|[[Óscar Iván Zuluaga|Zuluaga]]
+! colspan="2" style="width:110px;"|Blank votes
+|-
+! colspan="2" style="background:#FF8C00"|
+! colspan="2" style="background:#1E90FF"|
+! colspan="2" style="background:#809080"|
+|-
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+|-
+| style="text-align:left;"|[[Amazonas (Colombian department)|Amazonas]]
+| 6,967
+| 43.83%
+| style="background:#a5d3ff;"|'''8,500'''
+| style="background:#a5d3ff;"|'''53.48%'''
+| 426
+| 2.68%
+|-
+| style="text-align:left;"|[[Antioquia Department|Antioquia]]
+| 704,585
+| 35.79%
+| style="background:#a5d3ff;"|'''1,139,007'''
+| style="background:#a5d3ff;"|'''57.86%'''
+| 124,919
+| 6.34%
+|-
+| style="text-align:left;"|[[Arauca Department|Arauca]]
+| style="background:#ffd199;"|'''37,305'''
+| style="background:#ffd199;"|'''49.06%'''
+| 36,434
+| 47.92%
+| 2,290
+| 3.01%
+|-
+| style="text-align:left;"|[[Atlántico Department|Atlántico]]
+| style="background:#ffd199;"|'''542,942'''
+| style="background:#ffd199;"|'''78.22%'''
+| 139,389
+| 20.08%
+| 11,727
+| 1.68%
+|-
+| style="text-align:left;"|[[Bogotá]]
+| style="background:#ffd199;"|'''1,341,963'''
+| style="background:#ffd199;"|'''52.54%'''
+| 1,076,816
+| 42.16%
+| 135,053
+| 5.28%
+|-
+| style="text-align:left;"|[[Bolívar Department|Bolívar]]
+| style="background:#ffd199;"|'''310,048'''
+| style="background:#ffd199;"|'''58.00%'''
+| 212,655
+| 39.78%
+| 11,789
+| 2.20%
+|-
+| style="text-align:left;"|[[Boyacá Department|Boyacá]]
+| 187,369
+| 39.82%
+| style="background:#a5d3ff;"|'''264,670'''
+| style="background:#a5d3ff;"|'''56.25%'''
+| 18,454
+| 3.92%
+|-
+| style="text-align:left;"|[[Caldas Department|Caldas]]
+| 131,239
+| 33.62%
+| style="background:#a5d3ff;"|'''239,148'''
+| style="background:#a5d3ff;"|'''61.28%'''
+| 19,860
+| 5.08%
+|-
+| style="text-align:left;"|[[Caquetá Department|Caquetá]]
+| 34,619
+| 32.44%
+| style="background:#a5d3ff;"|'''67,769'''
+| style="background:#a5d3ff;"|'''63.51%'''
+| 4,317
+| 4.04%
+|-
+| style="text-align:left;"|[[Casanare Department|Casanare]]
+| 25,162
+| 18.38%
+| style="background:#a5d3ff;"|'''106,440'''
+| style="background:#a5d3ff;"|'''77.75%'''
+| 5,287
+| 3.86%
+|-
+| style="text-align:left;"|[[Cauca Department|Cauca]]
+| style="background:#ffd199;"|'''312,472'''
+| style="background:#ffd199;"|'''72.21%'''
+| 108,013
+| 24.96%
+| 12,221
+| 2.82%
+|-
+| style="text-align:left;"|[[Cesar Department|Cesar]]
+| style="background:#ffd199;"|'''201,362'''
+| style="background:#ffd199;"|'''60.68%'''
+| 123,546
+| 37.23%
+| 6,926
+| 2.08%
+|-
+| style="text-align:left;"|[[Chocó Department|Chocó]]
+| style="background:#ffd199;"|'''61,852'''
+| style="background:#ffd199;"|'''63.54%'''
+| 32,889
+| 33.79%
+| 2,588
+| 2.65%
+|-
+| style="text-align:left;"|Consulates/Abroad
+| 43,870
+| 39.66%
+| style="background:#a5d3ff;"|'''63,887'''
+| style="background:#a5d3ff;"|'''57.75%'''
+| 2,851
+| 2.57%
+|-
+| style="text-align:left;"|[[Córdoba Department|Córdoba]]
+| style="background:#ffd199;"|'''376,652'''
+| style="background:#ffd199;"|'''63.65%'''
+| 206,393
+| 34.88%
+| 8,637
+| 1.45%
+|-
+| style="text-align:left;"|[[Cundinamarca department|Cundinamarca]]
+| 370,791
+| 41.38%
+| style="background:#a5d3ff;"|'''486,063'''
+| style="background:#a5d3ff;"|'''54.25%'''
+| 39,076
+| 4.36%
+|-
+| style="text-align:left;"|[[Guainía Department|Guainía]]
+| style="background:#ffd199;"|'''4,274'''
+| style="background:#ffd199;"|'''54.71%'''
+| 3,336
+| 42.70%
+| 201
+| 2.57%
+|-
+| style="text-align:left;"|[[Guaviare Department|Guaviare]]
+| 10,055
+| 46.35%
+| style="background:#a5d3ff;"|'''10,832'''
+| style="background:#a5d3ff;"|'''49.94%'''
+| 802
+| 3.69%
+|-
+| style="text-align:left;"|[[Huila Department|Huila]]
+| 95,987
+| 25.88%
+| style="background:#a5d3ff;"|'''262,807'''
+| style="background:#a5d3ff;"|'''70.88%'''
+| 11,976
+| 3.23%
+|-
+| style="text-align:left;"|[[La Guajira Department|La Guajira]]
+| style="background:#ffd199;"|'''120,033'''
+| style="background:#ffd199;"|'''71.15%'''
+| 45,848
+| 27.17%
+| 2,806
+| 1.66%
+|-
+| style="text-align:left;"|[[Magdalena Department|Magdalena]]
+| style="background:#ffd199;"|'''259,428'''
+| style="background:#ffd199;"|'''67.75%'''
+| 117,246
+| 30.62%
+| 6,198
+| 1.61%
+|-
+| style="text-align:left;"|[[Meta Department|Meta]]
+| 105,748
+| 32.67%
+| style="background:#a5d3ff;"|'''206,061'''
+| style="background:#a5d3ff;"|'''63.67%'''
+| 11,794
+| 3.64%
+|-
+| style="text-align:left;"|[[Nariño Department|Nariño]]
+| style="background:#ffd199;"|'''345,485'''
+| style="background:#ffd199;"|'''66.08%'''
+| 163,932
+| 31.35%
+| 13,396
+| 2.56%
+|-
+| style="text-align:left;"|[[Norte de Santander Department|Norte de Santander]]
+| style="background:#ffd199;"|'''239,539'''
+| style="background:#ffd199;"|'''50.35%'''
+| 219,934
+| 46.23%
+| 16,195
+| 3.40%
+|-
+| style="text-align:left;"|[[Putumayo Department|Putumayo]]
+| style="background:#ffd199;"|'''58,561'''
+| style="background:#ffd199;"|'''66.87%'''
+| 26,193
+| 29.91%
+| 2,813
+| 3.21%
+|-
+| style="text-align:left;"|[[Quindío Department|Quindío]]
+| 99,822
+| 44.81%
+| style="background:#a5d3ff;"|'''111,470'''
+| style="background:#a5d3ff;"|'''50.04%'''
+| 11,433
+| 5.13%
+|-
+| style="text-align:left;"|[[Risaralda Department|Risaralda]]
+| 149,814
+| 41.07%
+| style="background:#a5d3ff;"|'''193,169'''
+| style="background:#a5d3ff;"|'''52.96%'''
+| 21,730
+| 5.95%
+|-
+| style="text-align:left;"|[[Archipelago of San Andrés, Providencia and Santa Catalina|San Andrés and Providencia]]
+| style="background:#ffd199;"|'''5,773'''
+| style="background:#ffd199;"|'''53.16%'''
+| 4,714
+| 43.41%
+| 372
+| 3.42%
+|-
+| style="text-align:left;"|[[Santander Department|Santander]] 
+| style="background:#ffd199;"|'''429,356'''
+| style="background:#ffd199;"|'''53.15%'''
+| 348,328
+| 43.12%
+| 30,026
+| 3.71%
+|-
+| style="text-align:left;"|[[Sucre Department|Sucre]]
+| style="background:#ffd199;"|'''199,424'''
+| style="background:#ffd199;"|'''60.08%'''
+| 127,028
+| 38.27%
+| 5,428
+| 1.63%
+|-
+| style="text-align:left;"|[[Tolima Department|Tolima]]
+| 184,496
+| 36.98%
+| style="background:#a5d3ff;"|'''296,610'''
+| style="background:#a5d3ff;"|'''59.45%'''
+| 17,780
+| 3.56%
+|-
+| style="text-align:left;"|[[Valle del Cauca Department|Valle del Cauca]]
+| style="background:#ffd199;"|'''831,748'''
+| style="background:#ffd199;"|'''61.61%'''
+| 459,146
+| 34.01%
+| 58,960
+| 4.36%
+|-
+| style="text-align:left;"|[[Vaupés Department|Vaupés]]
+| style="background:#ffd199;"|'''4,149'''
+| style="background:#ffd199;"|'''70.42%'''
+| 1,649
+| 27.99%
+| 93
+| 1.57%
+|-
+| style="text-align:left;"|[[Vichada Department|Vichada]]
+| 6,452
+| 46.53%
+| style="background:#a5d3ff;"|'''7,079'''
+| style="background:#a5d3ff;"|'''51.05%'''
+| 335
+| 2.41%
+|-
+| align=left colspan="13"|Source: Registraduría Nacional del Estado Civil
+|}
+
+==References==
+{{Reflist}}
+
+{{Colombian elections}}
+
+[[Category:Presidential elections in Colombia]]
+[[Category:2014 elections in South America|Colombia]]
+[[Category:2014 in Colombia]]
+[[Category:May 2014 in South America]]
+[[Category:June 2014 in South America]]

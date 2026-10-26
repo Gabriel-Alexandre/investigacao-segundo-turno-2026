@@ -1,0 +1,79 @@
+{{Short description|none}}
+{{Infobox election
+| election_name      = 1993 Slovak Presidential election
+| country            = Slovakia
+| type               = presidential
+| ongoing            = no
+| party_color        = no
+| previous_election = 1992 Czechoslovak presidential election 
+| previous_year = 1992 (Czechoslovakia)
+| next_election      = 1998 Slovak presidential election
+| next_year          = 1998
+| seats_for_election = 150
+| needed_votes       = 90 
+| election_date      = 26 January to 15 February 1993
+| image1             = [[File:Michal Kováč.jpg|150px]]
+| nominee1           = '''[[Michal Kováč]]'''
+| color1             = #185CB4
+| party1             = People's Party – Movement for a Democratic Slovakia
+| electoral_vote1    = '''106'''
+| percentage1        = '''73%'''
+| title              = [[President of Slovakia|President]]
+| before_election    = 
+| after_election     = [[Michal Kováč]]
+}}
+The '''1993 Slovak presidential elections''' were held between 26 January and 15 February 1993. Michal Kováč was elected as the first [[president of Slovakia]] and became the only Slovak president elected by Parliament.<ref>{{cite news|author=<!-- no byline -->|title=Prehľad výsledkov prezidentských volieb od roku 1993|date=26 February 2014|url=http://www.teraz.sk/slovensko/prehlad-vysledky-prezidentske-volby/75255-clanok.html|website=[[Teraz.sk]]|accessdate=10 August 2016|language=sk|archive-date=27 August 2016|archive-url=https://web.archive.org/web/20160827051857/http://www.teraz.sk/slovensko/prehlad-vysledky-prezidentske-volby/75255-clanok.html|url-status=live}}</ref><ref>{{cite news|first=Vladimír|last=Jancura|title=Prvý prezident mohol byť len Kováč|url=http://spravy.pravda.sk/domace/clanok/259024-prvy-prezident-mohol-byt-len-kovac/|website=[[Pravda (Slovakia)|Pravda]]|accessdate=10 August 2016|language=sk-SK|date=15 February 2013|archive-date=29 August 2016|archive-url=https://web.archive.org/web/20160829063131/http://spravy.pravda.sk/domace/clanok/259024-prvy-prezident-mohol-byt-len-kovac/|url-status=live}}</ref> A candidate needed to receive 90 votes to be elected.
+
+==Results==
+===First Ballot===
+{| class=wikitable style=text-align:right
+!rowspan=2|Candidate
+!rowspan=2|Party
+!colspan=2|First round<br>(26 January)
+!colspan=2|Second round<br>(27 January)
+|-
+!Votes
+!%
+!Votes
+!%
+|-
+|align=left|[[Roman Kováč]]||align=left|[[People's Party – Movement for a Democratic Slovakia]]||69||48.25||78||52
+|-
+|align=left|[[Milan Ftáčnik]]||align=left|[[Party of the Democratic Left (Slovakia)|Party of the Democratic Left]]||30||20.97||31||28.44
+|-
+|align=left|[[Anton Neuwirth]]||align=left|[[Christian Democratic Movement]]||27||18.88||colspan=2 rowspan=2|
+|-
+|align=left|[[Jozef Prokeš]]||align=left|[[Slovak National Party]]||17||11.88
+|-
+|align=left colspan=2|'''Total'''||'''143'''||'''100'''||'''109'''||'''100'''
+|}
+
+===Second Ballot===
+{| class=wikitable style=text-align:right
+!colspan=4|15 February
+|-
+!Candidate
+!Party
+!Votes
+!%
+|-
+|align=left|[[Michal Kováč]]||[[People's Party – Movement for a Democratic Slovakia]]||106||73.1
+|-
+|align=left colspan=2|Against || 19 || 13.1
+|-
+|align=left colspan=2|Blank ballots || 20 || 13.8
+|-
+|align=left colspan=2|'''Total'''||'''106'''||'''100'''
+|}
+
+==References==
+{{reflist}}
+
+{{Slovak presidential elections}}
+
+[[Category:Presidential elections in Slovakia|1993]]
+[[Category:1993 elections in Europe|Slovakia]]
+[[Category:1993 in Slovakia]]
+[[Category:Indirect presidential elections|Slovak presidential election, 1993]]
+[[Category:January 1993 in Europe]]
+[[Category:February 1993 in Europe]]

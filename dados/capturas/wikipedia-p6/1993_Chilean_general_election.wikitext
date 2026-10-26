@@ -1,0 +1,264 @@
+{{Short description|none}}
+{{Infobox election
+| country = Chile
+| election_date = 11 December 1993
+
+| module = {{infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| previous_election = 1989 Chilean general election
+| previous_year = 1989
+| next_election = 1999–2000 Chilean presidential election
+| next_year = {{nowrap|1999–2000}}
+| turnout = 91.23% ({{decrease}} 3.49[[percentage point|pp]])
+
+| image1 = Eduardo Frei Ruiz Tagle 1993.jpg
+| candidate1 = '''{{nowrap|[[Eduardo Frei Ruiz-Tagle]]}}'''
+| party1 = Christian Democratic Party (Chile)
+| alliance1 = Concertación
+| color1 = FFA500
+| popular_vote1 = '''4,044,898'''
+| percentage1 = '''57.98%'''
+
+| image2 = Arturo Alessandri Besa.jpg
+| candidate2 = [[Arturo Alessandri Besa]]
+| party2 = Independent politician
+| alliance2 = [[Alliance (Chile)|UPC]]
+| colour2 = 4682B4
+| popular_vote2 = 1,703,408
+| percentage2 = 24.42%
+
+| image4 = José Piñera Echenique (4x3 cropped).jpg
+| candidate4 = [[José Piñera]]
+| party4 = Independent politician
+| popular_vote4 = 430,950	
+| percentage4 = 6.18%
+
+| image5 = Manfred Max Neef (362355950).jpg
+| candidate5 = [[Manfred Max-Neef]]
+| party5 = [[Green Ecologist Party (Chile)|ECO]]
+| alliance5 = [[Green Ecologist Party (Chile)|Ecologist Movement]]
+| popular_vote5 = 387,102
+| percentage5 = 5.55%
+
+| map_image = 1993 Chilean presidential election by commune percentage.svg
+| map_caption = Results by commune
+
+| title = President
+| before_election = [[Patricio Aylwin]]
+| before_party = Christian Democratic Party (Chile)
+| after_election = [[Eduardo Frei Ruiz-Tagle]]
+| after_party = Christian Democratic Party (Chile)
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| previous_election = [[1989 Chilean general election|1989]]
+| next_election = [[1997 Chilean parliamentary election|1997]]
+| seats_for_election = All 120 seats in the [[Chamber of Deputies of Chile|Chamber of Deputies]]
+| majority_seats = 61
+| turnout = 91.34% ({{decrease}} 3.39pp)
+| noleader = yes
+
+| heading1 = Chamber of Deputies
+| party1 = Concertación
+| seats1 = 70
+| percentage1 = 55.40
+| last_election1 = 70
+
+| party2 = [[Alliance (Chile)|UPC]]
+| color2 = #4682B4
+| seats2 = 50
+| percentage2 = 36.68
+| last_election2 = 48
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Senate
+| previous_election = [[1989 Chilean general election|1989]]
+| next_election = [[1997 Chilean parliamentary election|1997]]
+| seats_for_election = 18 of 46 seats in the [[Senate of Chile|Senate]]
+| turnout = 90.29% ({{decrease}} 4.44pp)
+| noleader = yes
+
+| party1 = Concertación
+| seats1 = 21
+| percentage1 = 55.48
+| last_election1 = 22
+
+| party4 = [[Alliance (Chile)|UPC]]
+| color4 = #4682B4
+| seats4 = 17
+| percentage4 = 37.32
+| last_election4 = 16
+}}}}}}}}{{Politics of Chile}}
+
+General elections were held in [[Chile]] on 11 December 1993 to elect the [[President of Chile|President]], members of the [[Chamber of Deputies of Chile|Chamber of Deputies]] and elected members of the [[Senate of Chile|Senate]].<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p262 {{ISBN|978-0-19-928358-3}}</ref> [[Eduardo Frei Ruiz-Tagle]] of the [[Concert of Parties for Democracy|Concertación]] alliance was elected president, and the alliance also won a majority of seats in the [[Chamber of Deputies of Chile|Chamber of Deputies]] and maintained its majority in the [[Senate of Chile|Senate]]. As of {{CURRENTYEAR}}, this is the most recent presidential election that did not result in a runoff.
+
+==Presidential candidates==
+=== Concertación de Partidos por la Democracia ===
+The Concertación, which had governed with [[Patricio Aylwin]] since 1990, needed to choose a successor who would run as their presidential candidate in the 1993 elections. To determine their candidate, the parties decided to hold primary elections, marking a historic milestone as it was the first time in Chile that a political coalition used this mechanism to select its sole candidate. Participation in these primaries required prior registration of voters, and there was no law or support from the [[Election Certification Tribunal]] (Tricel) or the [[Electoral Service]] (Servel) to regulate them.
+
+The [[Christian Democratic Party (Chile)|Christian Democratic Party]] (PDC) chose Eduardo Frei Ruiz-Tagle, the son of former President [[Eduardo Frei Montalva]], as their candidate. Frei Ruiz-Tagle had previously run as a pre-candidate for the Concertación in the [[1989 Chilean general election|1989 presidential election]], but was unsuccessful. He then focused on strengthening his position within the PDC and achieved this by winning a senatorial election in the Santiago Oriente constituency in 1989 and becoming the party's president in 1990.
+
+The other pre-candidate was [[Ricardo Lagos|Ricardo Lagos Escobar]], a prominent leader of the [[Party for Democracy (Chile)|Party for Democracy]] (PPD), who also had the support of the [[Socialist Party of Chile|Socialist Party]] (PS) due to his participation in the "No" campaign in the [[1988 Chilean national plebiscite|1988 plebiscite]]. Lagos had run as a senatorial candidate for the Santiago Poniente constituency in 1989, but despite finishing second, he lost due to the workings of the [[Elections in Chile|binomial electoral system]]. In 1990, he became Minister of Education in the Aylwin government, a position he held until 1992 when he left to begin his presidential campaign.
+
+An unsuccessful attempt was made to nominate Senator [[Anselmo Sule]] of the [[Radical Party of Chile|Radical Party]] (PR) and [[Cristián Reitze]], president of the [[Humanist Green Alliance]] party, as candidates. Reitze later left the Concertación after realizing that there was a move to exclude him from the primary.
+
+On May 23, 1993, the primaries were held, and Frei won by 64% of the vote, officially becoming the candidate on May 30. The PS and PPD respected the outcome and supported the chosen candidate.
+
+=== Unión por el Progreso de Chile ===
+In 1992, the largest right-wing party at the time, [[National Renewal (Chile)|Renovación Nacional]] (RN), had two presidential pre-candidates: Senator for Santiago Oriente [[Sebastián Piñera]] and Deputy for [[Las Condes]], [[Vitacura]], and [[Lo Barnechea]] [[Evelyn Matthei]]. However, the aftermath of the ''[[Piñeragate]]'' political scandal that same year put an end to their aspirations, prompting RN to search for a new candidate. Manuel Feliú was ultimately selected as the replacement.<ref>{{cite web|access-date=20 July 2013|date=December 2001|title=Confesión de Evelyn Matthei de su participación en caso 'Grabación de Sebastián Piñera' o Piñeragate|url=https://www.apocatastasis.com/sebastian-pinera-la-confesion.php|work=Apocatastasis}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+The [[Independent Democratic Union]] (UDI) initially nominated [[Jovino Novoa]], its president, as its pre-candidate. However, there was a third candidate who gained support from various right-wing parties, particularly the UDI. This candidate was [[Arturo Alessandri Besa]], an independent senator for [[Antofagasta]] who had family ties to two former presidents: [[Jorge Alessandri]] and [[Arturo Alessandri|Arturo Alessandri Palma]].
+
+A convention was held on August 8, 1993, at the [[Centro Cultural Gabriela Mistral|Diego Portales Building]] to choose the coalition's candidate. The parties had been in conflict for several months over the mechanism for selecting the sole candidate, even considering primaries and who would run in them.
+
+[[José Piñera|José Piñera Echenique]], the former Labor Minister in the government led by [[Augusto Pinochet]] and brother of Senator Piñera, withdrew from the convention because he believed that the bloc's candidate should be elected through primaries. Additionally, [[Francisco Javier Errázuriz Talavera|Francisco Javier Errázuriz]] was considered as a potential candidate, supported by his party, the Union of Center-Center (UCC), the [[National Party (Chile, 1966)|National Party]] (PN), and the [[Party of the South (Chile)|Party of the South]] (SUR). However, negotiations over parliamentary seats led him to abandon his decision.<ref>{{cite news|date=25 July 1993|page=C3|periodical=El Mercurio|title=Errazuriz anuncia candidatura presidencial}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+A total of 1,847 delegates from the coalition participated in the convention, including 547 from RN, 449 from UDI, 391 from the UCC, 46 from SUR, and 44 from the PN. The result of the first vote was as follows, in the order of the vote:<ref name="mercurio3">{{cite web|access-date=23 July 2013|date=23 July 2013|title=La convención del 93 en que se eligió a Arturo Alessandri B.|url=http://diario.elmercurio.com/2013/07/23/nacional/politica/noticias/DEC92ADD-12C7-40B6-9388-64882CDB53DE.htm?id={DEC92ADD-12C7-40B6-9388-64882CDB53DE}|work=[[El Mercurio]]}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+{{Election results
+|sctitle=Result
+|cand1=[[Arturo Alessandri Besa]]|party1=Independent|votes1=885|sc1=Nominee|rcolor1=#DDEEFF
+|cand2={{ill|Manuel Feliú|es}}|party2=[[National Renewal (Chile)|National Renewal]]|votes2=607
+|cand3=[[Jovino Novoa]]|party3=[[Independent Democratic Union]]|votes3=75
+}}
+
+As per the agreed terms, a second vote had to be held if no candidate obtained more than two-thirds of the total votes. However, after the results of the first vote were announced, Feliú withdrew his candidacy in favor of Alessandri.<ref name="mercurio2">{{cite web|access-date=23 July 2013|date=23 July 2013|title=La convención del 93 en que se eligió a Arturo Alessandri B.|url=http://diario.elmercurio.com/2013/07/23/nacional/politica/noticias/DEC92ADD-12C7-40B6-9388-64882CDB53DE.htm?id={DEC92ADD-12C7-40B6-9388-64882CDB53DE}|work=[[El Mercurio]]}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+Despite efforts, Alessandri's presidential campaign failed to attract voters. With the realization that winning the presidential election was highly unlikely, the right-wing parties shifted their focus towards the parliamentary elections, diverting their economic resources to prevent the Concertación from gaining the required number of parliamentarians needed to block their intended constitutional reforms.
+
+=== Cristián Reitze Campos (AHV) ===
+After the Humanist Green Alliance (AHV) withdrew from the Concertación, they launched the candidacy of [[Cristián Reitze]], who based his campaign on the humanist principles of [[Mario Rodríguez Cobos|Silo]], as well as the parliamentary work of the former AHV representative for [[La Reina]] and [[Peñalolén]], [[Laura Rodríguez (Chilean politician)|Laura Rodríguez]].
+
+=== Movimiento de Izquierda Democrática Allendista ===
+The Movimiento de Izquierda Democrática Allendista (MIDA), which was primarily led by the [[Communist Party of Chile|Communist Party]], organized an assembly attended by around 2,000 people to nominate their candidate from a list of five names: Eduardo Gutiérrez, Manuel Cabieses, Communist leader [[Gladys Marín]], Deputy Mario Palestro (who withdrew before the vote during the assembly), and priest [[Eugenio Pizarro]].<ref>{{cite news|date=17 January 1993|periodical=La Tercera|title=Los cinco naipes del MIDA}}<!-- auto-translated by Module:CS1 translator --></ref> The results of the vote were as follows:
+
+{{Election results
+|sctitle=Result
+|cand1=[[Gladys Marín Millie]]|votes1=1117|sc1=Nominee|rcolor1=#DDEEFF
+|cand2=[[Eugenio Pizarro Poblete]]|votes2=1002
+|cand3=Manuel Cabieses|votes3=397
+|cand4=Eduardo Gutiérrez|votes4=104
+}}
+
+Marín emerged as the initial winner, but due to the close vote, a second round of deliberation was held, resulting in the selection of Pizarro as the MIDA candidate. His candidacy was officially registered with the Servel through the collection of signatures, as required for any independent candidacy under Law 18,700.<ref>{{cite news|date=14 August 1993|page=A 23|periodical=El Mercurio|title=Inscritos 7 candidatos}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+Pizarro's campaign was known for its aggressive and tough tone, representing the left wing that identified with the policies of the [[Salvador Allende]]-led [[Popular Unity (Chile)|Popular Unity]] government.
+
+=== Manfred Max-Neef (independent) ===
+[[Manfred Max-Neef]], an independent ecologist and economist, was also a candidate for the election with support from various social organizations, [[Mapuche]] communities, and sectors of the [[Citizen Left|Christian Left]], [[Popular Unitary Action Movement|MAPU]], and the Workers' Party.<ref name="96c661402">{{cite news|date=14 August 1993|page=A 23|periodical=El Mercurio|title=Inscritos siete candidatos}}<!-- auto-translated by Module:CS1 translator --></ref> His campaign aimed to give voice to issues that were absent from public opinion, strengthen civil society, and create a scaled economy as an alternative to the alleged prevailing [[neoliberalism]]. He also positioned himself as completely horizontal on the political spectrum, which allowed him to attract votes from the Concertación, the right, the MIDA, and the AHV.
+
+=== José Piñera (independent) ===
+José Piñera launched his candidacy in January, but when he realized that Unión por el Progreso de Chile closed its doors to him, he continued on his own path. He began as a representative of people who did not identify with the political class, but later represented sectors identified with Pinochet and the dictatorship. As a result, he received support from collaborators of that dictatorship, such as [[Mónica Madariaga]] and [[Sergio Melnick]], among others. He managed to take a considerable number of votes away from Alessandri's candidacy.
+
+=== Failed candidacies ===
+Juan Antonio Torres Araya, a representative of the Retirees' Party, was considered as a potential candidate but his candidacy did not succeed because the Electoral Service (Servel) rejected over half of the signatures submitted to register his candidacy.<ref name="96c661402" /> He eventually threw his support behind Alessandri.
+
+The independent candidacy of Gonzalo Townsend Pinochet, the nephew of Augusto Pinochet, was successfully registered. Despite having run as a candidate for the Union of Center Center in the [[San Joaquín]] commune's municipal elections the previous year,<ref>{{cite web|access-date=23 March 2023|title=Elecciones municipales 1992|url=https://historico.servel.cl/SitioHistorico/index1992_muni.htm|work=Servicio Electoral}}<!-- auto-translated by Module:CS1 translator --></ref> Townsend aimed to represent the Acción Pinochetista Unitaria, a defender of the dictatorship's work, in the general election. However, after two weeks, Servel invalidated the candidacy as the candidacy had been sponsored by "more than 5% of people affiliated with political parties".<ref>{{cite web|access-date=23 March 2023|date=25 August 1993|title=Resolución 1416; acepta y rechaza declaraciones de candidaturas a Presidente de la República que señala|url=https://www.bcn.cl/leychile/navegar?idNorma=36919}}<!-- auto-translated by Module:CS1 translator --></ref>
+
+After his candidacy was rejected by the electoral agency, Gonzalo Townsend made a request that was ultimately denied. He accused the process of being a ploy to prevent his participation as a candidate and finally called for casting a null vote in the presidential elections.
+
+==Results==
+===President===
+
+{{Election results
+|cand1=[[Eduardo Frei Ruiz-Tagle]]
+|cand2=[[Arturo Alessandri Besa]]
+|cand3=[[José Piñera]]
+|cand4=[[Manfred Max Neef]]
+|cand5=[[Eugenio Pizarro]]
+|cand6=[[Cristián Reitze]]
+|party1=[[Concertación]] ([[Christian Democratic Party (Chile)|PDC]])
+|party2=[[Alliance (Chile)|Union for the Progress of Chile]] (Ind.)
+|party3=Independent
+|party4=[[Ecologist Party (Chile)|Ecologist Movement]] (ECO)
+|party5=[[Communist Party of Chile|Leftist Democratic Alternative]] (Ind.)
+|party6=[[Humanist Green Alliance]] (AHV)
+|votes1=4040497
+|votes2=1701324
+|votes3=430950
+|votes4=387102
+|votes5=327402
+|votes6=81675
+|invalid=407741
+|electorate=8085493
+|source=[https://historico.servel.cl/SitioHistorico/index1993_pres.htm SERVEL]
+}}
+
+===Senate===
+{{Election results
+|image=[[File:Chile Senado 1993.svg]]
+|seattype1=Won|seattype2=Not up|seattype3=Total|seattype4=+/–
+|alliance1=[[Concertación]]|aspan1=6|party1=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes1=378987|st1t1=4|st2t1=9|st3t1=13|st4t1=0
+|party2=[[Socialist Party of Chile]]|votes2=238405|st1t2=3|st2t2=2|st3t2=5|st4t2=+5
+|party3=[[Party for Democracy (Chile)|Party for Democracy]]|votes3=275727|st1t3=2|st2t3=0|st3t3=2|st4t3=–2
+|party4=[[Radical Party of Chile]]|votes4=119459|st1t4=0|st2t4=1|st3t4=1|st4t4=–1
+|party5=Independents|votes5=27253|st1t5=0|st2t5=0|st3t5=0|st4t5=–3
+|atotal6=1039831|ast1t6=9|ast2t6=12|ast3t6=21|ast4t6=–1
+|alliance7=[[Alliance (Chile)|Union for the Progress of Chile]]|aspan7=6|party7=[[National Renewal (Chile)|National Renewal]]|votes7=279580|st1t7=5|st2t7=6|st3t7=11|st4t7=+6
+|party8=[[Independent Democratic Union]]|votes8=190283|st1t8=2|st2t8=1|st3t8=3|st4t8=+1
+|party9=[[Party of the South (Chile)|Party of the South]]|votes9=52509|st1t9=0|st2t9=0|st3t9=0|st4t9=0
+|party10=[[Union of the Centrist Center]]|votes10=46455|st1t10=1|st2t10=0|st3t10=1|st4t10=+1
+|party11=Independents|votes11=130587|st1t11=1|st2t11=1|st3t11=2|st4t11=–7
+|atotal12=699414|ast1t12=9|ast2t12=8|ast3t12=17|ast4t12=+1
+|alliance13=[[Communist Party of Chile|Leftist Democratic Alternative]]|aspan13=4|party13=[[Communist Party of Chile]]|votes13=65073|st1t13=0|st2t13=0|st3t13=0|st4t13=New
+|party14=[[Popular Unitary Action Movement]]|votes14=3030|st1t14=0|st2t14=0|st3t14=0|st4t14=New
+|party15=Independents|votes15=13278|st1t15=0|st2t15=0|st3t15=0|st4t15=0
+|atotal16=81381|ast1t16=0|ast2t16=0|ast3t16=0|ast4t16=0
+|alliance17=[[Humanist Green Alliance|The New Left]]|aspan17=3|party17=[[Humanist Green Alliance]]|votes17=8528|st1t17=0|st2t17=0|st3t17=0|st4t17=0
+|party18=Independents|votes18=3740|st1t18=0|st2t18=0|st3t18=0|st4t18=0
+|atotal19=12268|ast1t19=0|ast2t19=0|ast3t19=0|ast4t19=0
+|alliance20=Independents|votes20=41233|st1t20=0|st2t20=0|st3t20=0|st4t20=0
+|row21=Appointed senators|st1t21=0|st2t21=8|st3t21=8|st4t21=–1
+|total_st4t=–1
+|invalid=171554
+|electorate=2265560
+|source=[https://historico.servel.cl/SitioHistorico/index1993_sena.htm SERVEL], Nohlen
+}}
+
+===Chamber of Deputies===
+{{Election results
+|image=[[File:Chile Camara de Diputados (colores actualizados) 1993.svg]]
+|alliance1=[[Concertación]]|aspan1=7|party1=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes1=1827373|seats1=37|sc1=–1
+|party2=[[Socialist Party of Chile]]|votes2=803719|seats2=15|sc2=New
+|party3=[[Party for Democracy (Chile)|Party for Democracy]]|votes3=798206|seats3=15|sc3=–1
+|party4=[[Radical Party of Chile]]|votes4=200837|seats4=2|sc4=–3
+|party5=[[Chilean Social Democracy Party]]|votes5=53377|seats5=0|sc5=New
+|party6=Independents|votes6=49764|seats6=1|sc6=–8
+|atotal7=3733276|aseats7=70|sc7=0
+|alliance8=[[Alliance (Chile)|Union for the Progress of Chile]]|aspan8=7|party8=[[National Renewal (Chile)|National Renewal]]|votes8=1098852|seats8=29|sc8=0
+|party9=[[Independent Democratic Union]]|votes9=816104|seats9=15|sc9=+4
+|party10=[[Union of the Centrist Center]]|votes10=216639|seats10=2|sc10=New
+|party11=[[Party of the South (Chile)|Party of the South]]|votes11=13422|seats11=0|sc11=0
+|party12=[[National Party (Chile, 1966)|National Party]]|votes12=2688|seats12=0|sc12=0
+|party13=Independents|votes13=324084|seats13=4|sc13=–4
+|atotal14=2471789|aseats14=50|sc14=+2
+|alliance15=[[Communist Party of Chile|Leftist Democratic Alternative]]|aspan15=4|party15=[[Communist Party of Chile]]|votes15=336034|seats15=0|sc15=New
+|party16=[[Popular Unitary Action Movement]]|votes16=6644|seats16=0|sc16=New
+|party17=Independents|votes17=87817|seats17=0|sc17=–
+|atotal18=430495|aseats18=0|sc18=0
+|alliance19=[[Humanist Green Alliance|The New Left]]|aspan19=4|party19=[[Humanist Green Alliance]]|votes19=67733|seats19=0|sc19=–1
+|party20=[[Green Ecologist Party (Chile)|Ecologist Movement]]|votes20=2215|seats20=0|sc20=New
+|party21=Independents|votes21=26247|seats21=0|sc21=–
+|atotal22=96195|aseats22=0|sc22=–1
+|alliance23=Independents|votes23=7104|seats23=0|sc23=–1
+|total_sc=0
+|invalid=646157
+|electorate=8085493
+|source=[https://historico.servel.cl/SitioHistorico/index1993_dipu.htm SERVEL]
+}}
+
+==References==
+{{reflist}}
+
+{{Chilean elections}}
+
+[[Category:Parliamentary elections in Chile]]
+[[Category:1993 elections in South America|Chile]]
+[[Category:1993 elections in Chile|General]]
+[[Category:Presidential elections in Chile]]
+[[Category:December 1993 in South America|Chile]]
+[[Category:Presidency of Patricio Aylwin]]

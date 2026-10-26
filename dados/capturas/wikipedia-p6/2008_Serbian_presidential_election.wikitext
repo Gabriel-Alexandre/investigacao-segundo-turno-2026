@@ -1,0 +1,211 @@
+{{Short description|none}} <!-- This short description is INTENTIONALLY "none" - please see WP:SDNONE before you consider changing it! -->
+{{Infobox election
+| country = Serbia
+| flag_year = 2004
+| type = presidential
+| previous_election = 2004 Serbian presidential election
+| previous_year = 2004
+| next_election = 2012 Serbian presidential election
+| next_year = 2012
+| election_date = January 20, 2008 (first round) <br /> February 3, 2008 (second round)
+| turnout = 68.12% ({{increase}} 19.77 [[percentage point|pp]])
+
+| image1 = Boris Tadic, President of Serbia.jpg
+| candidate1 = '''[[Boris Tadić]]'''
+| party1 = Democratic Party (Serbia)
+| popular_vote1 = '''2,304,467'''
+| percentage1 = '''50.31%'''
+| image2 = Tomislav Nikolić 2 (cropped).jpg
+| candidate2 = [[Tomislav Nikolić]]
+| party2 = Serbian Radical Party
+| popular_vote2 = 2,197,155
+| percentage2 = 47.97%
+| map_image = {{Switcher
+| [[File:2008 Serbian presidential election by municipality (First round).svg|300px]]<br />
+{{Legend|#00F|[[w:Tomislav Nikolić|Tomislav Nikolić]]}}
+{{Legend|#FBD503|[[w:Boris Tadić|Boris Tadić]]}}
+{{Legend|#142342|[[w:Velimir Ilić|Velimir Ilić]]}}
+{{Legend|#A60C19|[[w:Milutin Mrkonjić|Milutin Mrkonjić]]}}
+{{Legend|#00732B|[[w:István Pásztor (politician)|István Pásztor]]}}
+{{Legend|#ffffff|Election not held}}
+| First round results by municipality
+| [[File:2008 Serbian presidential election by municipality (Second round).svg|300px]]<br />{{Legend|#FBD503|[[w:Boris Tadić|Boris Tadić]]}}
+{{Legend|#242970|[[w:Tomislav Nikolić|Tomislav Nikolić]]}}
+{{Legend|#ffffff|Election not held}}
+| Second round results by municipality
+| default = 2
+}}
+| map_size = 257px
+| map_caption = 
+| title = President
+| before_election = [[Boris Tadić]]
+| before_party = Democratic Party (Serbia)
+| after_election = [[Boris Tadić]]
+| after_party = Democratic Party (Serbia)
+}}{{Politics of Serbia}}
+
+Presidential elections were held in [[Serbia]] on January 20 and February 3, 2008. Incumbent President [[Boris Tadić]] was re-elected as [[President of Serbia|president]] in the second round with 51% of the vote, defeating challenger [[Tomislav Nikolić]].<ref>[http://news.bbc.co.uk/2/hi/europe/7225455.stm BBC: Serbia election victory for Tadic], Sunday, 3 February 2008.</ref>
+
+The elections for president were the first since Serbia became independent, when the [[State Union of Serbia and Montenegro]] was dissolved by the [[2006 Montenegrin independence referendum|secession of Montenegro]] in 2006. The first round of elections was held on January 20, 2008, when none of the candidates secured an absolute majority of the votes cast. Thus a run-off election took place on February 3, 2008, between [[Tomislav Nikolić]] of the [[Serbian Radical Party]] (SRS) and [[Boris Tadić]] of the [[Democratic Party (Serbia)|Democratic Party]] (DS) (the incumbent president) who finished first and second respectively in the first round.<ref>{{cite news|url=http://www.iht.com/articles/ap/2007/12/12/europe/EU-POL-Serbia-Elections.php|title=Serbian key presidential elections set for Jan. 20|publisher=International Herald Tribune|date=2007-12-12|access-date=2007-12-12}}</ref> 6,708,697 registered voters were able to vote, which was around 50,000 more since the parliamentary election held in the beginning of 2007, on 8,481 electoral posts across Serbia and 65 in 36 foreign countries.<ref>{{cite web|url=http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=01&dd=15&nav_id=46939 |title=News - Politics - RIK changes voter tally |publisher=B92 |date=2008-01-15 |access-date=2009-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20110606223601/http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=01&dd=15&nav_id=46939 |archive-date=2011-06-06 }}</ref> Of that figure, 37,053 are abroad, 9,187 in military service and 8,201 in prison. Persons residing in [[Montenegro]] with Serbian citizenship were also allowed to vote in seven Montenegrin towns: [[Podgorica]], [[Berane]], [[Herceg Novi]], [[Budva]], [[Tivat]], [[Sutomore]] and [[Andrijevica]].<ref>{{cite news|url=http://www.vijesti.cg.yu/vijesti_old/naslovna.php?akcija=vijest&id=259069|title=Birališta u sedam gradova|publisher=[[Vijesti]]|date=2008-01-20|access-date=2008-01-20}}{{dead link|date=April 2010}}</ref>
+
+A re-vote of the second round was held in [[Dobro Polje]] due to some irregularities on 12 February 2008.<ref>{{cite web |url=http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=02&dd=12&nav_id=47650 |title=News - Politics - Repeat voting in Dobro Polje begins |publisher=B92 |date=2008-02-12 |access-date=2009-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20080213095131/http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=02&dd=12&nav_id=47650 |archive-date=2008-02-13 }}</ref> Tadić was sworn in for his second term on 15 February 2008.<ref>{{cite web|url=http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=02&dd=15&nav_id=47731 |title=News - Politics - Tadić: Frozen conflict, diplomatic ties in place |publisher=B92 |date=2008-02-15 |access-date=2009-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20110606230059/http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=02&dd=15&nav_id=47731 |archive-date=2011-06-06 }}</ref>
+
+== Background ==
+The previous session of the [[National Assembly of the Republic of Serbia]] adopted a [[Constitutional Law]] on 10 November 2006 that proclaimed the [[Constitution of Serbia|new Constitution]]. As per it, parliamentary [[Speaker (politics)|Speaker]] [[Oliver Dulić]] was to schedule the election by 31 December 2007 or 60 days after the new laws regarding the president of the republic, presidential elections, defense, the military, foreign affairs and the security services are passed.<ref>[http://www.novosti.rs/code/navigate.php?Id=1&status=jedna&vest=96098&datum=2006-09-30 Pecat na ustav] Vecernje novosti</ref> Five of the six necessary laws on presidential elections were passed by the parliamentary majority on 11 December 2007.
+
+On 12 December 2007 Dulić had scheduled the first round of election for January 20 and second round for February 3, 2008. The Electoral Commission of the Republic of Serbia declared that candidates were due to apply on December 30, 2007, the latest, submitting 10,000 signatures.
+
+The [[Organization for Security and Co-operation in Europe]] (OSCE) and [[Commonwealth of Independent States]] were the nationwide neutral observer of the election, including several British and American observers.
+
+Two parties representing the Albanians from [[Preševo Valley]], the Democratic Union of the Valley and the [[Party of Democratic Action (Serbia)|Party of Democratic Action]] called for Albanians from outside Kosovo to participate in the election.<ref>[http://www.b92.net/eng/news/politics-article.php?yyyy=2007&mm=12&dd=25&nav_id=46459Valley Albanians likely won't boycott vote] {{webarchive |url=https://web.archive.org/web/20110606222952/http://www.b92.net/eng/news/politics-article.php?yyyy=2007&mm=12&dd=25&nav_id=46459Valley |date=June 6, 2011 }} B92</ref>
+
+== Candidates ==
+=== First round ===
+{| class="wikitable"
+|-
+!colspan=2|Candidates
+|-
+|<br />'''Tomislav Nikolić''' of ''[[Serbian Radical Party|SRS]]''
+|''[[Serbian Radical Party]]'', has nominated '''[[Tomislav Nikolić]]''' (Томислав Николић)<br />Supported by: Vlach Party, Vlachs of Democratic Serbia, Democratic Community of Serbian Vlachs<ref name="b92.net">{{cite web|url=http://www.b92.net/info/vesti/index.php?yyyy=2008&mm=01&dd=11&nav_category=418&nav_id=280000 |title=Vesti - Nikolić predviđa drugi krug - Internet, Radio i TV stanica; najnovije vesti iz Srbije |publisher=B92 |access-date=2009-06-13}}</ref> and Movement "I live for the Frontier"<br />Slogan: '''With All Heart''' (Свим срцем)
+|-
+|'''Jugoslav Dobričanin''' of ''[[Reformist Party (Serbia)|RS]]''
+|''[[Reformist Party (Serbia)|Reformist Party]]'', has nominated '''[[Jugoslav Dobričanin]]''' (Југослав Добричанин).<br />Slogan: '''Power of the south''' (Снага југа)
+|-
+|<br />'''Boris Tadić''' of ''[[Democratic Party (Serbia)|DS]]''
+|''[[Democratic Party (Serbia)|Democratic Party]]'' has nominated '''[[Boris Tadić]]''' (Борис Тадић), current [[President of Serbia]].<br />Supported by: [[G17 Plus]], [[League of Social Democrats of Vojvodina]], [[Sanjak Democratic Party]], [[Civic Initiative of Gora]], [[Roma Union of Serbia]], [[Reformists of Vojvodina]], [[Serbian List for Kosovo and Metohija]].<br />Slogan: '''For a Strong and Stable Serbia''' (За јаку и стабилну Србију)
+|-
+|<br />'''Velimir Ilić''' of ''[[New Serbia (political party)|NS]]''
+|<br />''[[New Serbia (political party)|New Serbia]]'', has nominated '''[[Velimir Ilić|Velimir "Velja" Ilić]]''' (Велимир "Веља" Илић).<br />Supported by: [[Democratic Party of Serbia]], [[United Serbia]], [[Serbian Renewal Movement]] and [[List for Sandžak]]. <br />Slogan: '''Serbia rules!''' (Србија је закон!); '''Choose Serbia!''' (Изабери Србију!)
+|-
+|<br />'''István Pásztor''' of ''[[Hungarian Coalition]]''
+|<br />''[[Hungarian Coalition]]'' (''Magyar Koalíció - Mađarska koalicija'') ([[Alliance of Vojvodina Hungarians]], [[Democratic Fellowship of Vojvodina Hungarians]], [[Democratic Party of Vojvodina Hungarians]] and [[Hungarian Civic Alliance (Serbia)|Hungarian Civic Alliance]]), has nominated '''[[István Pásztor (politician)|István Pásztor]]'''. Pásztor is supported by the Montenegrin Society of Serbia "The Crusader". He has announced his support for [[Boris Tadić]] in the second round. <br />Slogan: '''Za Srbiju u kojoj je svima nama dobro! - Olyan Szerbiáért, ahol nekünk is jó!'''
+|-
+|'''Marijan Rističević''' of ''[[People's Peasant Party|NSS]]''
+|''Coalition [[People's Peasant Party]] - [[United Peasant Party]]'', has nominated '''[[Marijan Rističević]]''' (Маријан Ристичевић).
+|-
+|<br />'''Čedomir Jovanović''' of ''[[Liberal Democratic Party (Serbia 2005)|LDP]]''
+|''[[Liberal Democratic Party (Serbia 2005)|Liberal Democratic Party]]'', has nominated '''[[Čedomir Jovanović|Čedomir "Čeda" Jovanović]]''' (Чедомир "Чеда" Јовановић). <br />Supported by:  [[Social Democratic Union (Serbia)|Social Democratic Union]], [[Christian Democratic Party of Serbia]], [[Croatian Bunjevac-Šokac Party]] and Vojvodina Party. <br />Slogan: '''Life rules!''' (''Живот је закон!'')
+|-
+|<br />'''Milutin Mrkonjić''' of ''[[Socialist Party of Serbia|SPS]]''
+|<br />[[Socialist Party of Serbia]], has nominated '''[[Milutin Mrkonjić]]''' (Милутин Мркоњић).<br />Supported by: [[Party of United Pensioners of Serbia]]. <br />Slogan: '''Achievements speak for themselves''' (Дела говоре);'''Our Comrade!''' (Наш друг!)
+|-
+|'''Milanka Karić''' of ''[[Strength of Serbia Movement|PSS]]''
+|<br />[[Strength of Serbia Movement]] - Bogoljub Karić, has nominated '''[[Milanka Karić|Milanka Mara Karić]]''' (Миланка Мара Карић) after failed attempt to nominate her husband and party leader [[Bogoljub Karić]], who is under arrest warrant. <br />Slogan: '''Family is the strength of Serbia''' (Породица је снага Србије.)
+|}
+
+=== Second round ===
+{| class="wikitable"
+|-
+!colspan=2|Candidates
+|-
+|<br />'''Tomislav Nikolić''' of ''[[Serbian Radical Party|SRS]]''
+|''[[Serbian Radical Party]]'' has nominated '''[[Tomislav Nikolić]]''' (Томислав Николић)<br />Supported by: Vlach Party, Vlachs of Democratic Serbia, Democratic Community of Serbian Vlachs,<ref name="b92.net"/> [[Yugoslav Left]], [[Democratic Community of Serbia]], [[People's Peasant Party]], [[United Peasant Party]], [[New Communist Party of Yugoslavia]], National Movement Serbia, Serbian Party of Socialists, [[Nacionalni stroj]], Serbian National Council of [[North Kosovo]], Movement "I live for the Frontier"<br />Slogan: '''With All Heart''' (Свим срцем)
+|-
+|<br />'''Boris Tadić''' of ''[[Democratic Party (Serbia)|DS]]''
+|{{Main|Boris Tadić reelection campaign, 2008}}<br />''[[Democratic Party (Serbia)|Democratic Party]]'' has nominated '''[[Boris Tadić]]''' (Борис Тадић), current [[President of Serbia]].<br />Supported by: [[G17 Plus]], [[League of Social Democrats of Vojvodina]], [[Alliance of Vojvodina Hungarians]], [[Democratic Fellowship of Vojvodina Hungarians]], [[Democratic Party of Vojvodina Hungarians]], [[Hungarian Civic Alliance (Serbia)|Hungarian Civic Alliance]], [[Sanjak Democratic Party]], [[List for Sanjak]], [[Civic Initiative of Gora]], [[Roma Union of Serbia]], [[Democratic League of Croats in Vojvodina]], [[Reformists of Vojvodina]], [[Democratic Union of Croats]], [[Democratic Movement of Serbian Romanians]], [[Serbian List for Kosovo and Metohija]], European Movement of Serbia, [[Serbian Renewal Movement]], Vojvodina Party, [[Independent Democratic Serbian Party]], [[Alliance of Independent Social Democrats]], Democratic Party of Bulgarians, Union of Socialists of Vojvodina, [[Social Democratic Party (Serbia)|Social Democratic Party]], [[Democratic Party of Serbs]] Green party Eko, National Movement of [[Sandžak]], Association of Free and Independent Trade Unions, Federation of Nongovernmental Organizations of Serbia, Coalition "[[Kragujevac|Together for Kragujevac]]", Serbian National Council of [[Kosovo and Metohija]] and National Councils of [[Slovaks in Vojvodina|Slovak]], [[Roma people in Serbia|Roma]], Macedonian, [[Romanians in Serbia|Romanian]] and [[Pannonian Rusyns|Rusyn]] national minorities. <br />Slogan: '''Let's conquer Europe together!''' (Да освојимо Европу заједно!)
+|}
+
+== Campaign and issues ==
+After it was determined that the two-candidate runoff would consist of Tadić and Nikolić, the period after the first round voting converged on [[Accession of Serbia to the European Union|Serbia's accession to the European Union]], the status of [[Kosovo]] in Serbia's constitution, and various social issues.
+
+On January 30, 2008, Tadić and Nikolić participated in a televised debate conducted by [[Radio Television of Serbia|RTS]].<ref name="Mondeb">{{cite web|url=http://mondo.rs/a87251/Info/Specijali/Izbori-2008/TV-duel-Tadic-i-Nikolic-obecali-bolji-zivot.html|title=Mondo: ''TV duel: Tadić i Nikolić obećali bolji život''|language=sr|date=January 30, 2008|access-date=July 5, 2017}}</ref> Tadić emphasized Serbia's accession process to the European Union, whereas Nikolić stated that Serbia needed to cooperate with both the EU and [[Russia]].<ref name="Mondeb"/> Tadić and Nikolić exchanged accusations on each of their own stances regarding the European Union. Tadić criticized Nikolić's [[Serbian Radical Party]] for its [[euroskepticism|eurosceptic]] history, after which Nikolić said that "Serbia will never be a Russian governorate, but also never a European colony."<ref name="Mondeb"/> They both shared similar concerns for corruption, poverty, and both candidates told the audience that Kosovo is an integral part of Serbia.<ref name="Mondeb"/> However, Nikolić stated in the debate that Kosovo "will declare independence as soon as the presidential election is finished."<ref name="Mondeb"/> Just over a month later, [[2008 Kosovo declaration of independence|Kosovo unilaterally declared independence from Serbia]].
+
+== Forecasting ==
+{| class="wikitable"
+|- style="background:#e9e9e9;"
+!width=10%|Polling Firm
+!width=12%|Date
+!width=5%|Source
+|'''Tadić'''
+|'''Nikolić'''
+|'''Jovanović'''
+|'''Ilić'''
+|'''Mrkonjić'''
+|'''Second round'''
+|-
+||CeSID||June 2007||<ref>{{Cite web |url=http://www.cesid.org/articles/download/files/saopstenje%20za%20javnost.doc?id=52 |title=Archived copy |access-date=2007-09-15 |archive-url=https://web.archive.org/web/20110605082215/http://www.cesid.org/articles/download/files/saopstenje%20za%20javnost.doc?id=52 |archive-date=2011-06-05 |url-status=usurped }}</ref>||'''14'''||10|| || || ||
+|-
+||CeSID||early 2007||<ref>{{cite web|url=http://www.b92.net/eng/news/politics-article.php?yyyy=2007&mm=10&dd=03&nav_category=93&nav_id=44258 |title=News - Politics - Poll: Serbians put Kosovo before EU |publisher=B92 |date=2007-10-03 |access-date=2009-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20110606214614/http://www.b92.net/eng/news/politics-article.php?yyyy=2007&mm=10&dd=03&nav_category=93&nav_id=44258 |archive-date=2011-06-06 }}</ref>||'''12'''||9||3|| || ||
+|-
+||Strategic Marketing||October 2007||<ref>{{cite web|url=http://www.blic.co.rs/politika.php?id=17100 |archive-url=https://archive.today/20120731163254/http://www.blic.co.rs/politika.php?id=17100 |url-status=dead |archive-date=2012-07-31 |title=Blic Online &#124; Politika &#124; Polovina birača protiv odlaganja predsedničkih izbora |publisher=Blic.co.rs |date=2007-10-23 |access-date=2009-06-13 }}</ref>||'''24'''||18|| ||4|| ||
+|-
+||Strategic Marketing||late 2007|| ||'''38'''||23||3|| || || '''Tadić 52''' Nikolić 48
+|-
+||Angus Reid||November 7, 2007||<ref>{{cite web |url=http://www.angus-reid.com/polls/view/28892/serbians_would_grant_second_term_to_tadic |title=Serbians Would Grant Second Term to Tadic: Angus Reid Global Monitor |publisher=Angus-reid.com |date=2007-11-07 |access-date=2009-06-13 |url-status=usurped |archive-url=https://web.archive.org/web/20080405211754/http://www.angus-reid.com/polls/view/28892/serbians_would_grant_second_term_to_tadic |archive-date=2008-04-05 }}</ref>||'''35'''||31||2|| || ||'''Tadić 56''' Nikolić 44
+|-
+||Factor Plus||12 December 2007|| ||'''36.5'''||31.8||8.5||6|| ||
+|-
+||CeSID||10 January 2008||<ref>{{cite web|url=http://www.blic.co.rs/politika.php?id=26181 |archive-url=https://archive.today/20120721022854/http://www.blic.co.rs/politika.php?id=26181 |url-status=dead |archive-date=2012-07-21 |title=Blic Online &#124; Politika &#124; Tadić pobeđuje u drugom krugu |publisher=Blic.co.rs |access-date=2009-06-13 }}</ref>||19||'''21'''||3||4||4||'''Tadić 33''' Nikolić 27
+|-
+||Glasaj za||12 January 2008||<ref>{{cite web|url=http://www.glasajza.org/public.asp |title=Poznati o kandidatima|access-date=January 12, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080108083426/http://www.glasajza.org/public.asp |archive-date=January 8, 2008 }}</ref>||22.4||'''29.5'''||17.8||3.6||16.9||
+|-
+||CeSID||24–28 January 2008||<ref>{{cite web|url=http://www.angus-reid.com/polls/view/29757/no_favourite_emerges_in_serbias_run_off |archive-url=https://archive.today/20120720044315/http://www.angus-reid.com/polls/view/29757/no_favourite_emerges_in_serbias_run_off |url-status=usurped |archive-date=2012-07-20 |title=No Favourite Emerges in Serbia's Run-Off: Angus Reid Global Monitor |publisher=Angus-reid.com |access-date=2009-06-13 }}</ref>||||||||||||'''Tadić 51.1%''', Nikolić 48.9%
+|-
+||CeSID||30 January 2008||<ref>{{cite web |url=http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=01&dd=30&nav_id=47342 |title=News - Politics - Latest polls give Tadić slight lead |publisher=B92 |date=2008-01-30 |access-date=2009-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20080207145610/http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=01&dd=30&nav_id=47342 |archive-date=2008-02-07 }}</ref>||||||||||||'''Tadić 2.10-2.35''' million voters Nikolić 2.00-2.25&nbsp;million voters
+|}
+
+== Results ==
+{{Election results<!-- percentages should be changed taking into account the invalid votes, 48.81 -> 47.97 for Nikolić and 51.19 -> 50.31 for Tadić as in inforbox, see source p. 19 -->
+|cand1=[[Tomislav Nikolić]]|party1=[[Serbian Radical Party]]|votes1=1646172|votes1_2=2197155
+|cand2=[[Boris Tadić]]|party2=[[Democratic Party (Serbia)|Democratic Party]]|votes2=1457030|votes2_2=2304467
+|cand3=[[Velimir Ilić]]|party3=[[New Serbia (political party)|New Serbia]]–[[Democratic Party of Serbia|DSS]]–[[Serbian Renewal Movement|SPO]]|votes3=305828
+|cand4=[[Milutin Mrkonjić]]|party4=[[Socialist Party of Serbia]]|votes4=245889
+|cand5=[[Čedomir Jovanović]]|party5=[[Liberal Democratic Party (Serbia)|Liberal Democratic Party]]|votes5=219689
+|cand6=[[István Pásztor (politician)|István Pásztor]]|party6=[[Hungarian Coalition]]|votes6=93039
+|cand7=[[Milanka Karić]]|party7=[[Strength of Serbia Movement]]|votes7=40332
+|cand8=[[Marijan Rističević]]|party8=[[People's Peasant Party]]|votes8=18500
+|cand9=[[Jugoslav Dobričanin]]|party9=[[Reformist Party (Serbia)|Reformist Party]]|votes9=11894
+|invalid=78462|invalid2=78806
+|electorate=6708697|electorate2=6723762
+|source=[http://www.cesid.rs/pdfovi/OKO%20IZBORA%2016.pdf CESID]
+}}
+
+== Gallery ==
+<gallery>
+File:2008 Serbian presidential election by district first round.png|First round results by district
+File:2008 Serbian presidential election by district second round.png|Second round results by district
+File:2008 Serbian presidential election by municipality first round.gif|Leading candidate by municipality (first round)
+File:2008 Serbian presidential election by municipality second round.png|Leading candidate by municipality (second round)
+File:SerbianPres2008-World.png|Results by country (second round)
+</gallery>
+
+== International reactions ==
+[[Image:Boris Tadic victory speech 2007-02-03.jpg|thumb|Boris Tadić gives a speech after his victory was announced.]]
+* {{AUT}} - [[Heinz Fischer]], President of Austria, congratulated Tadić and stated "I am absolutely convinced that your reelection will strengthen pro-European course of Serbia".<ref name=EU2>{{cite web|url=http://www.boristadic.org/index.php?stranica=kom_clanak&naredba=lista&id=&br_stranice=2&sortiranje=&&nadredjena=20&id_kategorija=24#opsirnije__308 |title=Evropski i svetski zvaničnici pozdravili pobedu Tadića |publisher=Boristadic.org |access-date=2009-06-13}}</ref> [[Alfred Gusenbauer]], Chancellor of Austria, said that "reelection of Boris Tadić is a clear signal that the people of Serbia see their future in the EU".<ref name=EU>[http://www.b92.net/info/vesti/index.php?yyyy=2008&mm=02&dd=04&nav_category=418&nav_id=283431 Evropska unija čestita Tadiću] B92</ref> Austrian Foreign Minister [[Ursula Plassnik]] praised the re-election of Tadić as a decision to keep moving towards the EU, "The people of Serbia have given a European vote of confidence".<ref>{{cite web |author=James Wray and Ulf Stabe |url=http://news.monstersandcritics.com/europe/news/article_1389817.php/Tadic_re-election_unanimously_hailed_by_Europe__Roundup_ |title=Tadic re-election unanimously hailed by Europe |publisher=News.monstersandcritics.com |date=2008-02-04 |access-date=2009-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20080405192145/http://news.monstersandcritics.com/europe/news/article_1389817.php/Tadic_re-election_unanimously_hailed_by_Europe__Roundup_ |archive-date=2008-04-05 }}</ref>
+* {{BIH}} - [[Republika Srpska]] Prime Minister [[Milorad Dodik]] congratulated Tadić by saying that "The victory of Boris Tadić is of great importance for the RS and Serbia. This victory means continuation of cooperation between the two".<ref>{{cite web |url=http://www.b92.net/eng/news/region-article.php?yyyy=2008&mm=02&dd=04&nav_id=47454 |title=Dodik hails Tadić triumph |publisher=B92.net |date=2008-02-04 |access-date=2009-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20080405205009/http://www.b92.net/eng/news/region-article.php?yyyy=2008&mm=02&dd=04&nav_id=47454 |archive-date=2008-04-05 }}</ref> [[Nebojša Radmanović]], Serb member of the tripartite presidency of Bosnia and Herzegovina, and Rajko Kuzmanović, President of Republika Srpska, have congratulated Boris Tadić and stated that he will enjoy the full support of Republika Srpska in his activity. [[Igor Radojičić]], Chairman of the National Assembly of Republika Srpska, stated that "people of Serbia have chosen a European course by their determination for future where Serbia will be a country of developed democratic ideas and a key factor of the regional stability". [[Željko Komšić]], President of Bosnia and Herzegovina, expressed his wish that "the victory of Boris Tadić will lead to better relations between Serbia and Bosnia and Herzegovina".<ref name=Region>{{cite web |url=http://www.boristadic.org/index.php?stranica=kom_clanak&naredba=lista&id=&br_stranice=3&sortiranje=&&nadredjena=20&id_kategorija=24#opsirnije__306 |title=Čestitke Tadiću i od državnika iz regiona |publisher=Boristadic.org |access-date=2009-06-13 |archive-url=https://web.archive.org/web/20080209154126/http://www.boristadic.org/index.php?stranica=kom_clanak&naredba=lista&id=&br_stranice=3&sortiranje=&&nadredjena=20&id_kategorija=24#opsirnije__306 |archive-date=2008-02-09 |url-status=dead }}</ref>
+* {{BUL}} - [[Sergey Stanishev]], Prime Minister of Bulgaria, said that "the victory of Boris Tadić over ultra-nationalist opponent is an important signal of the continued, predictable path of Serbia toward its European future."<ref name=EU/>
+* {{CRO}} - President [[Stjepan Mesić]] congratulated Tadić and stated that "he hopes that two Presidents will work together in bridging problems from the past and will work towards deeper cooperation between two countries in the future".<ref>{{cite web|url=http://www.predsjednik.hr/default.asp?ru=1&gl=200802040000008&sid=&jezik=1 |title=Predsjednik Mesić uputio čestitku Borisu Tadiću |publisher=Predsjednik.hr |access-date=2009-06-13 |archive-url = https://web.archive.org/web/20080209195145/http://www.predsjednik.hr/default.asp?ru=1&gl=200802040000008&sid=&jezik=1 |archive-date = 2008-02-09}}</ref>
+* {{CZE}} - [[Mirek Topolánek]], Prime Minister of Czech Republic, said that "reelection of President Tadić will directly bring to the stability of the south European region".<ref name=EU2/> [[Karel Schwarzenberg]], Minister of Foreign Affairs of the Czech Republic, said "President Tadić guarantees further democratic direction of the Serbian nation, which demonstrated its intention to set out on a European course" which makes him glad as "Serbian people have always supported Czech people in tough times".<ref name=EU/>
+* {{DNK}} - [[Per Stig Møller]], Foreign Minister of Denmark, stated that "the Serb voters are to be congratulated for this election result, which is good news for Serbia's European prospects, but also likely good news for the EU and all of Europe".<ref name=EU/>
+* {{EU}} - [[Presidency of the Council of the European Union]] issued a statement saying that "the EU wishes to deepen its relationship with Serbia and to accelerate its progress towards the EU, including candidate status". [[Javier Solana]], Secretary-General of the EU, said that "Europe is very satisfied with results which show that Serbia has chosen the path of European integration". [[José Manuel Barroso]], President of the European Commission, congratulated Tadić on victory and stated that "it is a victory for democracy in Serbia and for the European Values we share. Serbia has shown capability to take the responsibility of modern and democratic society. European Union wishes to speed up the process of Serbian EU integration together with President Tadić".<ref name=EU/> [[Hans-Gert Pöttering]], President of the European Parliament, stated that "Serbian voters have shown they consider themselves a part of the European family.<ref name=EU2/>
+* {{FIN}} - [[Ilkka Kanerva]], Minister for Foreign Affairs of Finland, congratulated citizens of Serbia on election results and expressed his wish for Serbia to stay strongly on the same direction.<ref>[http://www.rts.rs/jedna_vest.asp?IDNews=213616 Kanerva i Jeremić za ostanak misije OEBS na Kosovu] {{webarchive|url=https://archive.today/20120909154219/http://www.rts.rs/jedna_vest.asp?IDNews=213616 |date=2012-09-09 }}</ref>
+* {{flag|France|1974}} - [[Bernard Kouchner]], Minister of Foreign Affairs of France, sent the "warmest congratulations" to Boris Tadić and hailed the "will of Serbia to progress on a European course".<ref name=EU/>
+* {{GER}} - [[Horst Köhler]], President of Germany, wrote a letter to Tadić stating "Your election success is an important signal for reform orientation of Serbia's development. I am glad that the majority of Serbian people share the European vision of Boris Tadić".<ref name=EU2/> Thomas Steg, Spokesman of the [[Cabinet of Germany]], welcomed reelection of Tadić as good news for the whole Europe. He stated that election results were received with joy and that "Serbian people have underlined that they see Serbian future in Europe".<ref name=EU/> [[Frank-Walter Steinmeier]], Foreign Minister, said he was "extraordinarily pleased" with Tadić's win.<ref name=Etimes>{{cite web|author=The Earthtimes |url=http://www.earthtimes.org/articles/show/182628,leadall-tadic-re-election-unanimously-hailed-by-europe.html |title=Tadic re-election unanimously hailed by Europe |publisher=Earthtimes.org |date=2008-02-04 |access-date=2009-06-13}}</ref>
+* {{GRE}} - [[Karolos Papoulias]], President of Greece, congratulated Boris Tadić on reelection and said that "traditional and honest friendship between Serbia and Greece are the base for future strong cooperation".<ref name=EU2/> [[Kostas Karamanlis]], Prime Minister of Greece, congratulated Tadić and stated that "the future of Serbia and all countries in the region is in the EU".<ref name=EU/>
+* {{HUN}} - [[Kinga Göncz]], Hungarian Minister of Foreign Affairs, said that "Hungary welcomes reelection of the moderate candidate Boris Tadić" and "Hungarian national minority in Serbia will benefit from his presidency"<ref name=EU/>
+* {{ITA}} - [[Massimo D'Alema]], Italian Minister of Foreign Affairs and Deputy Prime Minister of Italy, said that "Boris Tadić will continue to successfully lead Serbia on the path of development and he will give inducement to internal reforms while leading Serbia into the European Union".<ref name=EU/> [[Giorgio Napolitano]], President of Italy and [[Romano Prodi]], Prime Minister of Italy have also congratulated Boris Tadić on reelection.<ref name=EU2/>
+* {{flag|Macedonia}} - President [[Branko Crvenkovski]] stated in his congratulations that "the victory of Boris Tadić is the victory of European ideas and the choice that will lead to prosperity and the stability of the whole region". Antonio Milošoski, Minister of Foreign Affairs, said that victory of Tadić will strengthen cooperation between Serbia and Macedonia and speed up the process of Euroatlantic integration.<ref name=Region/>
+* {{MNE}} - [[Filip Vujanović]], President of Montenegro, stated in his letter that "guarantee of Serbia's European path and friendship with neighboring and regional states. A continuation of such state policy, that you promoted in the previous mandate, provides you with a reliable partner and friend in Montenegro, for the good of the citizens and our states, which cherish close ties".<ref>{{cite web|url=http://www.b92.net/info/vesti/index.php?yyyy=2008&mm=02&dd=04&nav_category=418&nav_id=283440 |title=Čestitke Tadiću iz regiona |publisher=B92.net |access-date=2009-06-13}}</ref> [[Željko Šturanović]], Prime Minister of Montenegro, and [[Milo Đukanović]] have stated that "the victory of Tadić is a victory of democratic values".<ref name=Region/>
+* {{NED}} - [[Maxime Verhagen]], Minister of Foreign Affairs, congratulated Boris Tadić and reminded that "it is up to Serbia to take necessary steps on path of EU accession".<ref name=EU2/>
+* {{NOR}} - [[Jens Stoltenberg]], Norwegian Prime Minister, said the result "demonstrates that Serbs have chosen cooperation rather than isolation, which bodes well for Serbia's further development".<ref>{{cite web|author=The Earthtimes |url=http://www.earthtimes.org/articles/show/182500,nordic-politicians-welcome-tadics-re-election.html |title=Nordic politicians welcome Tadic's re-election |publisher=Earthtimes.org |date=2008-02-04 |access-date=2009-06-13}}</ref>
+* {{ROM}} - [[Traian Băsescu]], President of Romania, said that "Serbian voters have shown strong determination for Europe by reelecting Tadić and that Romania will give all support to Serbia".<ref name=EU2/> Romanian Ministry of Foreign Affairs has welcomed the election results stating that they reflect the wish of Serbian voters for the continuation of EU integrations.<ref name=EU/>
+* {{RUS}} - [[Vladimir Putin]], President of Russia, congratulated Tadić in a letter stating "Dear President, I wish you future success in your activity and peace and prosperity to the Serbian people".<ref>{{cite web|url=http://www.boristadic.org/index.php?stranica=kom_clanak&naredba=prikaz&id_kategorija=24&id=310&nadredjena=20#opsirnije__310 |title=Čestitka predsednika RF Vladimira Putina |publisher=Boristadic.org |access-date=2009-06-13}}</ref> Konstantin Kosachyov, head of Russia's Foreign Affairs Committee, "Tadić is an absolutely predictable, promising and constructive partner".<ref name=Etimes/> [[Sergey Mironov]], Speaker of the Federation Council, said he was sorry that Tomislav Nikolić lost.<ref>{{cite web |url=http://mtsmondo.com/izbori08/text.php?vest=85926 |title=Mironov žali zbog poraza Nikolića |publisher=Mtsmondo.com |access-date=2009-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20080616090736/http://www.mtsmondo.com/izbori08/text.php?vest=85926 |archive-date=2008-06-16 }}</ref>
+* {{SVK}} - [[Ivan Gašparovič]], President of Slovakia, sent a telegram of congratulations "Your victory in the presidential elections is confirmation of the will and desire of the people in your country to continue the process of far-reaching democratic changes".<ref>[http://www.sktoday.com/content/1177_gasparovic-congratulates-tadic-re-election-president-serbia Gasparovic Congratulates Tadic on Re-election] {{webarchive |url=https://web.archive.org/web/20080209113800/http://www.sktoday.com/content/1177_gasparovic-congratulates-tadic-re-election-president-serbia |date=February 9, 2008 }}</ref> [[Ján Kubiš]], Minister of Foreign Affairs of Slovakia, stated that "the reelection of Boris Tadić verifies the high level of responsibility of the Serbian people for the European future of the whole country".<ref name=EU/> [[Robert Fico]], Prime Minister of Slovakia, expressed "support for the European future of Serbia".<ref name=EU2/>
+* {{SLO}} - "Serbia has an open road to a European future", said [[Dimitrij Rupel]]. Slovenian Prime Minister and President-in-Office of the European Council [[Janez Janša]] also congratulated Tadić stating that "the result could be interpreted as a reflection of the desire and determination of Serbia’s democratic forces to accelerate towards their aim of EU membership".<ref>{{cite web |url=http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=02&dd=04&nav_id=47453 |title=Slovenia congratulates Tadić on victory |publisher=B92.net |date=2008-02-04 |access-date=2009-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20080405202710/http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=02&dd=04&nav_id=47453 |archive-date=2008-04-05 }}</ref> [[Danilo Türk]], President of Slovenia, congratulated Tadić and expressed his wish that "the friendly relations between the two countries will continue to strengthen, and that cooperation between Ljubljana and Belgrade, based on mutual respect, will benefit both."<ref name=EU/>
+* {{SWE}} - [[Carl Bildt]], Swedish Minister for Foreign Affairs, said that "the result of the election is good for Serbia and the whole region. Efforts to bring Serbia into a deadlock have failed".<ref name=EU/>
+* {{GBR}} - Prime Minister [[Gordon Brown]] stated that "the British Government shares political devotion of President Tadić for the common cause of the European Serbia".<ref>{{Cite web |url=http://www.ds.org.rs/sr/index.php |title=Britanski premijer čestitao predsedniku Tadiću |access-date=2012-07-28 |archive-url=https://archive.today/20120728214657/http://www.ds.org.rs/sr/index.php |archive-date=2012-07-28 |url-status=dead }}</ref> [[David Miliband]], Secretary of State for Foreign and Commonwealth Affairs, welcomed election results and said that "President Boris Tadić is committed to European future of Serbia"<ref name=EU2/>
+* {{USA}} - [[Sean McCormack]], State Department Spokesman, congratulated Tadić and his Serbian Democratic Party on the victory and called the nearly 70 percent turnout for Sunday's voting remarkable. "We look forward to continuing our efforts to build a productive relationship with Serbia on matters of common interest. President Tadić promised voters a European future for Serbia," he said. "We will work with President Tadic and Serbia to see that promise fulfilled and Serbia firmly on a path toward European integration."<ref>{{cite web |last=Gollust |first=David |url=http://www.voanews.com/english/2008-02-04-voa45.cfm |title=US Congratulates Serbia's Tadic on Re-Election Victory |publisher=Voice of America |access-date=2009-06-13 |url-status=dead |archive-url=https://web.archive.org/web/20080309053630/http://www.voanews.com/english/2008-02-04-voa45.cfm |archive-date=2008-03-09 }}</ref>
+
+==References==
+{{Reflist}}
+
+{{Serbian elections}}
+
+[[Category:Presidential elections in Serbia]]
+[[Category:2008 elections in Europe|Serbia]]
+[[Category:January 2008 in Europe|Serbia]]
+[[Category:February 2008 in Europe|Serbia]]
+[[Category:2000s elections in Serbia]]
+[[Category:2008 in Serbia]]
+[[Category:January 2008 elections]]
+[[Category:February 2008 elections]]

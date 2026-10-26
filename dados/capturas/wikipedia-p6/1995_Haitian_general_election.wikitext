@@ -1,0 +1,132 @@
+{{Short description|none}}
+{{Infobox election
+| country = Haiti
+| election_date = 17 December 1995
+| module = {{Infobox election
+| election_name = Presidential election
+| embed = yes
+| type = presidential
+| turnout = 27.80%
+| previous_election  = 1990–91 Haitian general election
+| previous_year      = 1990
+| next_election      = 2000 Haitian presidential election
+| next_year          = 2000 
+
+| image1 = Rene Preval.jpg
+| nominee1 = [[René Préval]]
+| party1 = Fanmi Lavalas
+| popular_vote1 = '''818,014'''
+| percentage1 =
+
+| image2 = 3x4.svg
+| nominee2 = [[Léon Jeune]]
+| party2 = Independent politician
+| popular_vote2 = 23,188
+| percentage2 =
+
+| title = President
+| before_election = [[Jean Bertrand-Aristide]]
+| before_party = National Front for Change and Democracy
+| after_election = [[René Préval]]
+| after_party = Fanmi Lavalas
+| module = {{Infobox legislative election
+| election_name = Chamber of Deputies election
+| embed = yes
+| turnout = 31.09%
+| nopercentage = yes
+
+| party1 = Fanmi Lavalas | leader1 = [[René Préval]] | seats1 = 67 | last_election1 = New
+| party2 = [[National Front for Change and Democracy|FNCD]] |leader2 =  |percentage2 =  |seats2 = 2 |last_election2 = 27
+| party3 = [[Faction of the National Reconstruction Movement|GMRN]] |leader3 =  |percentage3 =  |seats3 = 1 |last_election3 = new
+| party4 = [[National Congress of Democratic Forces|KONAKOM]] |leader4 =  |percentage4 =  |seats4 = 1 |last_election4 = new
+| party5 = [[National Progressive Revolutionary Party|PANPRA]] |leader5 =  |percentage5 =  |seats5 = 1 |last_election5 = new
+| party6 = [[Power Association of Popular Organisations|PROP]] |leader6 =  |percentage6 =  |seats6 = 1 |last_election6 = new
+| party7 = [[Christian Democratic Rally|RDCH]] |leader7 =  |percentage7 =  |seats7 = 1 |last_election7 = new
+| party8 = [[National Cobite Movement|MKN]] |leader8 =  |percentage8 =  |seats8 = 1 |last_election8 = 5
+| party10 = Independents |leader10 = – |percentage10 =  |seats10 = 5 |last_election10 = 5
+
+| module = {{Infobox legislative election
+| election_name = Senate election
+| embed = yes
+| turnout = 31.09%
+| nopercentage = yes
+
+| party1 = Fanmi Lavalas | leader1 = [[René Préval]] | seats1 = 17 | last_election1 = New
+|party2 = [[National Front for Change and Democracy|FNCD]] |leader2 =  |percentage2 =  |seats2 = 1 |last_election2 = 13
+|party3 = [[National Congress of Democratic Forces|KONAKOM]] |leader3 =  |percentage3 =  |seats3 = 1 |last_election3 = new
+|party4 = [[Christian Democratic Rally|RDCH]] |leader4 =  |percentage4 =  |seats4 = 1 |last_election4 = new
+|party5 = Independents |leader5 = – |percentage5 =  |seats5 = 7 |last_election5 = 1
+
+}}}}}}}}{{Politics of Haiti}}
+
+General elections were held in Haiti in 1995 for the [[President of Haiti|presidency]] and for seats in the [[Chamber of Deputies (Haiti)|Chamber of Deputies]] and the [[Senate (Haiti)|Senate]]. The presidential election, held on 17 December, resulted in a victory for [[René Préval]] of [[Fanmi Lavalas]].<ref>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p392 {{ISBN|978-0-19-928357-6}}</ref> The parliamentary elections, held on 25 June, 13 August and 17 September, were also won by Lavalas. Voter turnout was just 31.09% for the parliamentary elections and 27.8% for the presidential elections.<ref>[http://www.ipu.org/parline-e/reports/arc/2137_95.htm Haiti: Elections held in 1995] Inter-Parliamentary Union</ref><ref>Nohlen, p392</ref><ref>{{Cite journal |date=1996 |title=Election Watch |url=https://muse.jhu.edu/pub/1/article/697485 |journal=Journal of Democracy |volume=7 |issue=2 |issn=1086-3214}}</ref>
+
+Préval was inaugurated as president of Haiti on 7 February 1996, which was the first peaceful transition of power from one elected Haitian president to another.<ref>{{Cite book |last=Metz |first=Helen Chapin |title=Dominican Republic and Haiti: Country Studies |publisher=Federal Research Division, Library of Congress |location=Washington, D.C. |year=2001 |url=https://www.loc.gov/item/2001023524/ |page=309 }}</ref><ref>{{Cite web |first1=Sasha |last1=Filippova |first2=Kristina |last2=Fried |first3=Brian |last3=Concannon |title=From coup to chaos: 20 years after the US ousted Haiti's president |work=[[Quincy Institute for Responsible Statecraft]] |date=1 March 2024 |access-date=14 November 2025 |url=https://responsiblestatecraft.org/us-haiti-coup/ }}</ref>
+
+==Background==
+The 25 June 1995 parliamentary elections were the first to be held in Haiti since the return of President [[Jean-Bertrand Aristide]] during [[Operation Uphold Democracy]] in 1994. In the parliamentary elections, around 11,000 candidates ran for 700 seats, including in the [[National Assembly (Haiti)|National Assembly]] and local and municipal councils.<ref>{{Cite web |title=Haiti elections |date=23 May 1994 |access-date=3 January 2026 |work=UPI |url=https://www.upi.com/Archives/1995/05/23/Haiti-elections/5265801201600/ }}</ref> In total, 2,200 political offices were contested during the general election, and 3.4 million of the four million eligible voters in Haiti were registered.<ref>{{Cite web |last=Bazinet |first=Kenneth R. |title=U.S. sending observer to Haiti elections |date=23 June 1995 |access-date=3 January 2026 |work=UPI |url=https://www.upi.com/Archives/1995/06/23/US-sending-observer-to-Haiti-elections/7015803880000/ }}</ref> There were relatively few violent incidents during the campaign compared to past elections in Haiti, leading to free and fair elections, according to the [[Organization of American States|OAS]] observer mission.<ref>{{Cite web |title=Officials split on Haiti vote conditions |date=24 June 1995 |access-date=3 January 2026 |work=UPI |url=https://www.upi.com/Archives/1995/06/24/Officials-split-on-Haiti-vote-conditions/8883803966400/ }}</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[René Préval]]|party1=[[Fanmi Lavalas]]|ivotes1=818014
+|cand2=Léon Jeune|party2=Independent|ivotes2=23188
+|cand3={{ill|Victor Benoit|fr}}|party3=[[National Congress of Democratic Forces]]|ivotes3=21513
+|cand4=Rene Julien|party4=|ivotes4=12960
+|cand5=[[Jean Jacques Clark Parent]]|party5=Haitian Democratic Party|ivotes5=12842
+|cand6=Edy Volel|party6=[[Christian Democratic Rally]]|votes6=
+|cand7=Richard Vladimir Jeanty|party7=Paradise Party|votes7=
+|cand8=Francis Jean|party8=Revolutionary Military Force|votes8=
+|cand9=Jean Arnold Dumas|party9=National Party of Workers' Defence|votes9=
+|cand10=[[Julio Larosiliere]]|party10=|votes10=
+|cand11=Dieuveuil Joseph|party11=Haitian Social Democratic Party|votes11=
+|cand12=Gerard Dalvius|party12=Alternative Party for the Development of Haiti|votes12=
+|cand13=Rockefeller Guerre|party13=Union of Democratic Patriots|votes13=
+|cand14=[[Firmin Jean-Louis]]|party14=|votes14=
+|totalvotes=994599
+|electorate=3578155
+|source=Nohlen
+}}
+
+===Chamber of Deputies===
+{{Election results
+|party1=[[Fanmi Lavalas]]|votes1=|seats1=67|sc1=New
+|party2=[[National Front for Change and Democracy]]|votes2=|seats2=2|sc2=–25
+|party3=[[Faction of the National Reconstruction Movement]]|votes3=|seats3=1|sc3=New
+|party4=[[National Congress of Democratic Forces]]|votes4=|seats4=1|sc4=New
+|party5=[[National Progressive Revolutionary Party]]|votes5=|seats5=1|sc5=New
+|party6=[[Power Association of Popular Organisations]]|votes6=|seats6=1|sc6=New
+|party7=[[Christian Democratic Rally]]|votes7=|seats7=1|sc7=New
+|party8=[[National Cobite Movement]]|votes8=|seats8=1|sc8=–4
+|party9=Other parties|votes9=|seats9=3|sc9=–
+|party10=Independents|votes10=|seats10=5|sc10=0
+|total_sc=+2
+|totalvotes=1140523
+|electorate=3668049
+|source=Nohlen, [http://archive.ipu.org/parline-e/reports/arc/2137_95.htm IPU]
+}}
+
+===Senate===
+{{Election results
+|party1=[[Fanmi Lavalas]]|votes1=|seats1=17|sc1=New
+|party2=[[National Front for Change and Democracy]]|votes2=|seats2=1|sc2=–12
+|party3=[[National Congress of Democratic Forces]]|votes3=|seats3=1|sc3=New
+|party4=[[Christian Democratic Rally]]|votes4=|seats4=1|sc4=New
+|party5=Independents|votes5=|seats5=7|sc5=+6
+|totalvotes=1140523
+|electorate=3668049
+|total_sc=0
+|source=Nohlen, [http://archive.ipu.org/parline-e/reports/arc/2138_95.htm IPU]
+}}
+
+==References==
+{{Reflist}}
+
+{{Haitian elections}}
+
+[[Category:Elections in Haiti]]
+[[Category:1995 in Haiti|General]]
+[[Category:1995 elections in the Caribbean|Haiti]]
+[[Category:Presidential elections in Haiti]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:December 1995 in North America|Haiti]]

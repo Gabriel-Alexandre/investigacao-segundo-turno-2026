@@ -1,0 +1,68 @@
+{{short description|none}}
+{{Infobox election
+| country = São Tomé and Príncipe
+| type = presidential
+| ongoing = no
+| election_date = 30 June 1996 (first round)<br />21 July 1996 (second round)
+| previous_election = 1991 São Toméan presidential election
+| previous_year = 1991
+| next_election = 2001 São Toméan presidential election
+| next_year = 2001
+
+| registered        = 50,526 (first round)<br />49,606 (second round)
+| opinion_polls     = 
+| turnout           = 76.87% (first round)<br />76.87% (second round)
+
+| image1 = Miguel_Trovoada_in_1995.jpg
+| candidate1 = [[Miguel Trovoada]]
+| party1 = Independent Democratic Action
+| popular_vote1 = '''19,887'''
+| percentage1 = '''52.74%'''
+
+| image2 = Manuel Pinto da Costa 1986.jpg
+| candidate2 = {{nowrap|[[Manuel Pinto da Costa]]}}
+| party2 = Movement for the Liberation of São Tomé and Príncipe – Social Democratic Party
+| popular_vote2 = 17,820
+| percentage2 = 47.26%
+
+| map_image = {{switcher |[[File:1996 São Tomé and Príncipe presidential election - Results by district (Second round).svg|275px]] |First round results by district|[[File:1996 São Tomé and Príncipe presidential election - Results by district (First round).svg|275px]] |Second round results by district|default=2}} 
+
+| title = [[President of São Tomé and Príncipe|President]]
+| before_election = [[Miguel Trovoada]]
+| before_party = Independent Democratic Action
+| after_election = [[Miguel Trovoada]]
+| after_party = Independent Democratic Action
+}}
+
+{{Politics of São Tomé and Príncipe}}
+
+Presidential elections were held in [[São Tomé and Príncipe]] on 30 June 1996. The election was contested by four candidates; incumbent President [[Miguel Trovoada]], former President [[Manuel Pinto da Costa]], [[Alda Bandeira]], a former Foreign Minister, and former Prime Minister [[Carlos da Graça]]. No candidate won a majority of votes in the first round, in which voter turnout in the first round was 77.3%,<ref>[http://africanelections.tripod.com/st.html Elections in São Tomé and Príncipe] African Elections Database</ref> resulting in a second round being held on 21 July between the two leading candidates - Trovoada and da Costa. Trovoada won the election with 52.7% of the vote, based on a 78.7% turnout.<ref>[[Dieter Nohlen]], Michael Krennerich & Bernhard Thibaut (1999) ''Elections in Africa: A data handbook'', p748 {{ISBN|0-19-829645-2}}</ref>
+
+==Results==
+{{Election results
+|cand1=[[Miguel Trovoada]]|party1=[[Independent Democratic Action]]|votes1=15344|votes1_2=19887
+|cand2=[[Manuel Pinto da Costa]]|party2=[[Movement for the Liberation of São Tomé and Príncipe/Social Democratic Party|MLSTP/PSD]]|votes2=13627|votes2_2=17820
+|cand3=[[Alda Bandeira]]|party3=[[Democratic Convergence Party (São Tomé and Príncipe)|Democratic Convergence Party]]|votes3=5970
+|cand4=[[Carlos da Graça]]|party4=Independent|votes4=1973
+|cand5=Armindo Tomba|party5=Independent|votes5=163
+|invalid=1764
+|invalid2=1317
+|electorate=50526
+|electorate2=49606
+|source=Nohlen ''et al.''
+}}
+
+==Aftermath==
+Despite being declared generally free and fair by international and domestic observers, da Costa, who had initially acknowledged Trovoada's victory, contested the results of the election, claiming that irregularities had occurred in the registration process. The National Electoral Commission acknowledged that there were minor discrepancies in the registration process and in voter rolls but determined that these were insufficient to call the results into question.
+
+In early August the Supreme Court declared that it was unable to adjudicate on the appeal made by da Costa, and recommended that the government seek international legal arbitration. However, on 20 August da Costa withdrew his challenge and Trovoada was confirmed as president.
+
+==References==
+{{reflist}}
+
+{{São Tomé and Príncipe elections}}
+
+[[Category:Presidential elections in São Tomé and Príncipe]]
+[[Category:1996 elections in Africa|Sao Tome]]
+[[Category:1996 in São Tomé and Príncipe|Presidential election]]
+[[Category:June 1996 in Africa|São Toméan presidential election]]

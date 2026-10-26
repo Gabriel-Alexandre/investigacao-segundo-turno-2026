@@ -1,0 +1,2736 @@
+{{Short description|Election of Volodymyr Zelenskyy}}
+{{pp-semi-indef|small=yes}}
+{{Use dmy dates|date=April 2019}}
+{{Infobox election
+| country = Ukraine
+| type = presidential
+| opinion_polls = Opinion polling for the 2019 Ukrainian presidential election
+| previous_election = 2014 Ukrainian presidential election
+| previous_year = 2014
+| next_election = Next Ukrainian presidential election
+| next_year = ''Next''
+| election_date = 31 March 2019 (first round)<br>21 April 2019 (second round)
+| turnout = 62.88% (first round) {{increase}} 3.00[[percentage point|pp]]<br>61.42% (second round)
+| image1 = Volodymyr_Zelensky_Official_portrait_(cropped).jpg
+| nominee1 = '''[[Volodymyr Zelenskyy]]'''
+| party1 = Servant of the People
+| popular_vote1 = '''13,541,528'''
+| percentage1 = '''74.96%'''
+| image2 = Official portrait of Petro Poroshenko.jpg
+| nominee2 = [[Petro Poroshenko]]
+| color2 = B1161E
+| party2 = Independent
+| alliance2 = [[European Solidarity|BPP]]
+| popular_vote2 = 4,522,450
+| percentage2 = 25.04%
+| map = {{Switcher
+| [[File:2019 Ukrainian presidential election, round 1.svg|300px]]
+| First round results by top-level division
+| [[File:2019 Ukrainian presidential election, round 2.svg|300px]]
+| Second round results by top-level division
+| [[File:2019 Ukrainian presidential election, round 2 by polling station.svg|300px]]
+| Second round results by polling station
+| default = 2
+}}
+| title = President
+| before_election = [[Petro Poroshenko]]
+| after_election = [[Volodymyr Zelenskyy]]
+| before_party = [[European Solidarity|BPP]]
+| after_party = Servant of the People
+}}
+
+Presidential elections were held in [[Ukraine]] on 31 March 2019. As none of the 39 candidates on the [[ballot]] received an [[absolute majority]] of the initial vote, a runoff was held on 21 April between the top two vote-getters: [[Volodymyr Zelenskyy]], a television personality, and [[Petro Poroshenko]], the incumbent president. The [[Central Election Commission (Ukraine)|Central Election Commission]] (CEC) announced that Zelenskyy won the second round with 73.22% of the total vote<ref name="cec2ndround">{{cite web |title=Protocol of the Central Election Commission: on the results of the repeat voting in the elections of the President of Ukraine |url=https://www.cvk.gov.ua/wp-content/uploads/2019/11/vpu_2019_protokol_cvk_30042019.pdf |website=The Central Election Commission of Ukraine |access-date=14 October 2024 |archive-date=1 November 2024 |archive-url=https://web.archive.org/web/20241101030825/https://cvk.gov.ua/wp-content/uploads/2019/11/vpu_2019_protokol_cvk_30042019.pdf |url-status=live }}</ref> (or 74.96% of the valid vote). The elections were recognized as free and fair by the [[Organization for Security and Co-operation in Europe]].<ref>{{Cite news |title=Statement of Preliminary Findings and Conclusions |publisher=[[Organization for Security and Co-operation in Europe]] |department=[[Office for Democratic Institutions and Human Rights]] |publication-place=[[Kyiv]] |url=https://www.osce.org/files/f/documents/d/8/415733.pdf |access-date=28 December 2022 |archive-date=21 January 2023 |archive-url=https://web.archive.org/web/20230121195420/https://www.osce.org/files/f/documents/d/8/415733.pdf |url-status=live }}</ref>
+
+Poroshenko became the third incumbent Ukrainian president to directly lose reelection, after [[Viktor Yushchenko]] in [[2010 Ukrainian presidential election|2010]] and [[Leonid Kravchuk]] in [[1994 Ukrainian presidential election|1994]] (only [[Leonid Kuchma]] has ever won reelection, in [[1999 Ukrainian presidential election|1999]]). Zelenskyy was sworn in as the sixth [[President of Ukraine]] in May 2019.
+
+==Background==
+According to Ukrainian law, the election of the [[President of Ukraine]] must take place on the last Sunday of March of the fifth year of the term of the incumbent president<ref name="pravda7198122per"/> which in this cycle fell on 31 March 2019.<ref name="pravda7198122per"/> The [[Verkhovna Rada|Ukrainian parliament]] had to approve the date of the presidential election no later than 100 days before the election day<ref name="pravda7198122per"/> which it did on 26 November 2018.<ref name="10353522ukraine">{{Cite web |date=26 November 2018 |title=Ukraine's parliament sets presidential vote date for March 31 |url=https://www.unian.info/politics/10353522-ukraine-s-parliament-sets-presidential-vote-date-for-march-31.html |access-date=27 March 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427233635/https://www.unian.info/politics/10353522-ukraine-s-parliament-sets-presidential-vote-date-for-march-31.html |url-status=live }}<br>{{Cite web |date=26 November 2018 |title=Ukraine Declares Martial Law in Regions Bordering Russia and Unrecognized Transnistria |url=https://en.hromadske.ua/posts/ukraine-declares-martial-law |access-date=27 March 2019 |publisher=[[Hromadske.TV]] |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427233625/https://en.hromadske.ua/posts/ukraine-declares-martial-law |url-status=live }}</ref><ref>{{Cite news |title=Ukraine Formally Sets Date For Presidential Election |url=https://www.rferl.org/a/ukrainian-presidential-election-set-for-march-31-2019/29625670.html |access-date=28 November 2018 |newspaper=Radio Free Europe/Radio Liberty |date=28 November 2018 |language=en |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427233701/https://www.rferl.org/a/ukrainian-presidential-election-set-for-march-31-2019/29625670.html |url-status=live }}</ref>
+
+==Candidates==
+According to Ukrainian law, a presidential candidate must be a [[Ukrainian nationality law|citizen of Ukraine]] who is at least 35 years old, can speak the (state) [[Ukrainian language]] and has lived in Ukraine for the last ten years prior to election day.<ref name="pravda7198122per">{{Cite web |trans-title=The CEC unveiled a calendar plan for the presidential election |script-title=uk:ЦВК оприлюднила календарний план президентських виборів |url=https://www.pravda.com.ua/news/2018/12/21/7201976/ |access-date=2023-07-06 |website=[[Ukrainska Pravda]] |language=uk |archive-date=20 March 2022 |archive-url=https://archive.today/20220320124815/https://www.pravda.com.ua/news/2018/12/21/7201976/ |url-status=live }}<br />{{Cite web |trans-title=Elections of the President of Ukraine 2019: figures, dates and candidates |script-title=uk:Президентські вибори 2019: цифри, дати і кандидати |url=https://www.pravda.com.ua/articles/2019/01/3/7198122/ |access-date=2023-07-06 |website=[[Ukrainska Pravda]] |language=uk |archive-date=20 March 2022 |archive-url=https://archive.today/20220320124819/https://www.pravda.com.ua/articles/2019/01/3/7198122/ |url-status=live }}</ref> Candidates were nominated by a political party, or by self-nomination.<ref name="pravda7198122per"/> Candidates also had to submit a declaration of income for the year preceding the election year.<ref name="pravda7198122per"/> This document was then scrutinized by the [[National Agency for Prevention of Corruption]], which subsequently published the results of the audit.<ref name="pravda7198122per"/> Nominations could be submitted from 31 December 2018 to 4 February 2019.<ref name="pravda7198122per"/> The end of the registration period was 9 February 2019.<ref name="pravda7198122per"/> After a potential candidate provided the required documentation to the CEC, this body had five days to register the candidate or to refuse to do so.<ref name="Bogomolets7203864">{{Cite web |title=Bogomolets officially went to the presidency |script-title=uk:Богомолець офіційно подалася в президенти |url=https://www.pravda.com.ua/news/2019/01/16/7203921/ |access-date=2023-07-06 |website=[[Ukrainska Pravda]] |language=uk |archive-date=16 January 2019 |archive-url=https://web.archive.org/web/20190116133559/https://www.pravda.com.ua/news/2019/01/16/7203921/ |url-status=live }}</ref>
+
+Candidates were required to pay a nomination deposit of [[Ukrainian hryvnia|₴]]2.5 million (approx. [[United States dollar|US$]]90,000); only the two candidates that progressed to the second round of voting would get this deposit back (the other deposits would be transferred to the state treasury).<ref name="pravda7198122per"/>
+
+By the end of the registration period on 9 February 2019,<ref name="pravda7198122per"/> the CEC had registered 44 candidates for the elections.<ref name="263684registers">{{Cite web |title=CEC registers 44 candidates in Ukraine's presidential election |url=https://www.ukrinform.net/rubric-polytics/2636844-cec-registers-44-candidates-in-ukraines-presidential-election.html |access-date=8 February 2019 |website=[[Ukrinform]] |date=8 February 2019 |language=en |archive-date=9 February 2019 |archive-url=https://web.archive.org/web/20190209180057/https://www.ukrinform.net/rubric-polytics/2636844-cec-registers-44-candidates-in-ukraines-presidential-election.html |url-status=live }}</ref><ref>{{Cite web |title=Кандидати на пост Президента України |url=http://www.cvk.gov.ua/pls/vp2019/wp003?PT001F01=719 |url-status=dead |archive-url=https://web.archive.org/web/20190207015553/http://www.cvk.gov.ua/pls/vp2019/wp003?PT001F01=719 |archive-date=7 February 2019 |access-date=6 February 2019 |website=cvk.gov.ua}}</ref> This meant that the largest number of candidates participated in the elections.<ref>{{Cite web |script-title=ru:На выборах президента Украины окончательно будет 39 кандидатов |url=https://interfax.com.ua/news/political/571124.html |access-date=16 March 2019 |website=Интерфакс-Украина |date=8 March 2019 |language=ru |archive-date=8 March 2019 |archive-url=https://web.archive.org/web/20190308032548/https://interfax.com.ua/news/political/571124.html |url-status=live }}</ref> In total, 92 people submitted documents to the CEC to participate in the elections.<ref name="263684registers"/> Five candidates withdrew.<ref name="7208089Sav1">{{Cite web |title=Sadovyi withdraws from presidential race in favor of Hrytsenko |url=https://www.unian.info/politics/10465293-sadovyi-withdraws-from-presidential-race-in-favor-of-hrytsenko.html |access-date=1 March 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |date=March 2019 |language=en |archive-date=1 March 2019 |archive-url=https://web.archive.org/web/20190301184845/https://www.unian.info/politics/10465293-sadovyi-withdraws-from-presidential-race-in-favor-of-hrytsenko.html |url-status=live }}</ref><ref name="7208089Gnap"/><ref>{{Cite web |title=Кандидат в президенты Украины Кривонос заявил, что снимает свою кандидатуру в пользу Порошенко |date=6 March 2019 |url=https://interfax.com.ua/news/election2019/570784.html |access-date=6 March 2019 |archive-date=7 March 2019 |archive-url=https://web.archive.org/web/20190307004250/https://interfax.com.ua/news/election2019/570784.html |url-status=live }}</ref> The CEC refused to register 47 people, most for their failure to pay the deposit.<ref name="7206166UPCEC">{{in lang|uk}} [https://www.pravda.com.ua/news/2019/02/8/7206166/ The CEC refused to register nearly fifty presidential candidates] {{Webarchive|url=https://web.archive.org/web/20190208201834/https://www.pravda.com.ua/news/2019/02/8/7206166/ |date=8 February 2019 }}, [[Ukrainska Pravda]] (8 February 2019)</ref>
+
+Candidates could withdraw their candidacy, but not later than 23 days before the election.<ref name="pravda7198122per"/> On 8 March, the CEC approved the final list of candidates.<ref name="7208642candidate"/> There were a total of 39 candidates for the first round of the election.<ref>{{Cite news |date=27 March 2019 |title=The country that could elect a comedian as president |work=BBC News |url=https://www.bbc.com/news/world-europe-47654242 |access-date=31 March 2019 |archive-date=27 March 2019 |archive-url=https://web.archive.org/web/20190327163040/https://www.bbc.com/news/world-europe-47654242 |url-status=live }}</ref><ref name="571176thirtynine">[https://en.interfax.com.ua/news/general/571176.html Thirty-nine candidates to run for president in Ukraine - CEC] {{Webarchive|url=https://web.archive.org/web/20190331081746/https://en.interfax.com.ua/news/general/571176.html |date=31 March 2019 }}, [[Interfax-Ukraine]] (8 March 2019)</ref>
+
+===Registered candidates===
+<!--Candidates are ranked chronological based on the day when her/his candidacy was officially registered by the Central Election Commission-->
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!Name
+!colspan="2" | Party
+!colspan="2" | Nomination
+!Position(s)
+!Registration
+!Notes
+|-
+| data-sort-value="Shevchenko, Ihor" | {{CSS image crop|Image = Шевченко Ігор Анатолійович (cropped).jpg|bSize = 120|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 13|Location=center}}'''[[Ihor Shevchenko]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|[[Ministry of Ecology and Natural Resources (Ukraine)|Minister of Ecology and Natural Resources]] (2014–2015)
+|4 January 2019<ref name="7202991frc">{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/4/7202991/ The CEC registered the first presidential candidate] {{Webarchive|url=https://web.archive.org/web/20190104175543/https://www.pravda.com.ua/news/2019/01/4/7202991/ |date=4 January 2019 }} by [[Ukrainska Pravda]] (3 January 2019)</ref>
+|Shevchenko had declared his intention for candidacy on 13 November 2018, but also stated he would not participate in the elections if a new candidate appears who "better meets the requirements."<ref>[https://en.interfax.com.ua/news/general/544761.html Ex-Minister of Ecology Shevchenko intends to participate in presidential elections] {{Webarchive|url=https://web.archive.org/web/20181113174835/https://en.interfax.com.ua/news/general/544761.html |date=13 November 2018 }}, [[Interfax-Ukraine]] (13 November 2018)</ref> He submitted documents to the [[Central Election Commission (Ukraine)|CEC]] for registration as a presidential candidate on 31 December 2018 (which was also the first day of the electoral campaign).<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2018/12/31/7202711/ The CEC has registered the first presidential candidate] {{Webarchive|url=https://web.archive.org/web/20181231172315/https://www.pravda.com.ua/news/2018/12/31/7202711/ |date=31 December 2018 }}, [[Ukrainska Pravda]] (28 May 2018)</ref>
+|-
+| data-sort-value="Kaplin, Serhiy" | {{CSS image crop|Image = Каплін Сергій Миколайович (cropped).jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 8|Location=center}}'''[[Serhiy Kaplin]]'''
+| {{party color cell|Independent}}
+|Independent
+| style="background:#E42A2B;" |
+|{{ill|Social Democratic Party (Ukraine)|lt=Social Democratic Party|uk|Соціал-демократична партія (Україна)}}
+|[[People's Deputy of Ukraine]] (2012–2019)<br>Leader of the [[Social Democratic Party (Ukraine)|Social Democratic Party]] (2015–2018)
+|8 January 2019<ref name="UkrPravda7203244">{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/8/7203244/ The CEC has registered 4 more presidential candidates] {{Webarchive|url=https://web.archive.org/web/20190108193420/https://www.pravda.com.ua/news/2019/01/8/7203244/ |date=8 January 2019 }} by [[Ukrainska Pravda]] (8 January 2019)</ref>
+|In October 2017, Kaplin had already stated his intention to take part of the election as the leader of the [[Socialist Party of Ukraine]].<ref>[http://en.interfax.com.ua/news/general/452247.html Kaplin elected Socialist Party leader, to run for president] {{Webarchive|url=https://web.archive.org/web/20180208064144/http://en.interfax.com.ua/news/general/452247.html |date=8 February 2018 }}, [[Interfax-Ukraine]] (2 October 2017)</ref> But the legal chairman of this party was [[Illia Kyva]].<ref name="UP7197183SPb">{{in lang|uk}} [https://www.pravda.com.ua/news/2018/11/3/7197183/ The Socialists held a congress and sent Kivu to the presidency] {{Webarchive|url=https://web.archive.org/web/20181104003819/https://www.pravda.com.ua/news/2018/11/3/7197183/ |date=4 November 2018 }} by [[Ukrainska Pravda]] (3 November 2018)</ref> He filed documents to the CEC for registration as a presidential candidate on 3 January 2019.<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/3/7202893/ The MP from the BPP began registering as a presidential candidate] {{Webarchive|url=https://web.archive.org/web/20190104021435/https://www.pravda.com.ua/news/2019/01/3/7202893/ |date=4 January 2019 }} by [[Ukrainska Pravda]] (3 January 2019)</ref>
+|-
+| data-sort-value="Skotsyk, Vitaliy" | {{CSS image crop|Image = Skotsyk Vitaliy.jpg|bSize = 175|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 55|Location=center}}'''[[Vitaliy Skotsyk]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|Leader of the [[Agrarian Party of Ukraine]] (2014–2018)
+|8 January 2019<ref name="UkrPravda7203244"/>
+|Skotysyk filed documents with the CEC 3 January 2019 for registration as the [[Agrarian Party of Ukraine]]'s presidential candidate.<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/3/7202928/ The head of the Agrarian Party also met with the presidency] {{Webarchive|url=https://web.archive.org/web/20190104175507/https://www.pravda.com.ua/news/2019/01/3/7202928/ |date=4 January 2019 }} by [[Ukrainska Pravda]] (3 January 2019)</ref> But the next day the Agrarian Party stated he had been expelled from the party the previous September for "actions that harm the authority and discredit the governing body of the party and the party as a whole".<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/4/7203007/ The Agrarian Party denies that Skotsik went to the presidency as a leader of their political forces] {{Webarchive|url=https://web.archive.org/web/20190104213032/https://www.pravda.com.ua/news/2019/01/4/7203007/ |date=4 January 2019 }} by [[Ukrainska Pravda]] (4 January 2019)</ref>
+|-
+| data-sort-value="Nalyvaichenko, Valentyn" | {{CSS image crop|Image = НДУ 7 Наливайченко Валентин Олександрович.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 0|Location=center}}'''[[Valentyn Nalyvaichenko]]'''
+| style="background:#960018;" |
+|{{ill|Spravedlyvist|uk|Громадсько-політичний рух Валентина Наливайченка «Справедливість»}}
+| style="background:#960018;" |
+|{{ill|Spravedlyvist|uk|Громадсько-політичний рух Валентина Наливайченка «Справедливість»}}
+|Head of the [[Security Service of Ukraine]] (2006–2010, 2014–2015)<br>People's Deputy of Ukraine (2012–2014)<br>Leader of [[Spravedlyvist (political party)|Spravedlyvist]] (2016–2019)
+|8 January 2019<ref name="UkrPravda7203244"/>
+|Nominated by his party on 3 January 2019.<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/3/7202904/ Nalyvaichenko goes to the presidency] {{Webarchive|url=https://web.archive.org/web/20190103200232/https://www.pravda.com.ua/news/2019/01/3/7202904/ |date=3 January 2019 }} by [[Ukrainska Pravda]] (3 January 2019)</ref>
+|-
+| data-sort-value="Kuprii, Vitalii" | {{CSS image crop|Image = Купрій Віталій Миколайович.jpg|bSize = 200|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 50|Location=center}}'''{{interlanguage link|Vitalii Kuprii|uk|Купрій Віталій Миколайович}}'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|People's Deputy of Ukraine (2014–2019)
+|15 January 2019<ref name="Hrytsenko7203864">{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/15/7203864/ The CEC registered Hrytsenko, Murayev and Kupriy as presidential candidates] {{Webarchive|url=https://web.archive.org/web/20190115234341/https://www.pravda.com.ua/news/2019/01/15/7203864/ |date=15 January 2019 }}, [[Ukrainska Pravda]] (15 January 2019)</ref>
+|
+|-
+| data-sort-value="Hrytsenko, Anatoliy" | {{CSS image crop|Image = Anatoliy Hrytsenko 2012.jpg|bSize = 175|cWidth = 90|cHeight = 120|oTop = 5|oLeft = 40|Location=center}}'''[[Anatoliy Hrytsenko]]'''
+| {{party color cell|Civil Position}}
+|[[Civil Position]]
+| {{party color cell|Civil Position}}
+|[[Civil Position]]
+|[[Ministry of Defence (Ukraine)|Minister of Defence]] (2005–2007)<br>Leader of [[Civil Position]] (2008–2019)
+|15 January 2019<ref name="Hrytsenko7203864"/>
+|[[Civil Position]] nominated Hrytsenko as a candidate on 11 January.<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/11/7203507/ Hrytsenko formally nominated a presidential candidate] {{Webarchive|url=https://web.archive.org/web/20190111160407/https://www.pravda.com.ua/news/2019/01/11/7203507/ |date=11 January 2019 }}, [[Ukrainska Pravda]] (11 January 2019)</ref> His candidacy is supported by the [[European Party of Ukraine]], [[Mykola Tomenko|Native Land]], {{ill|Фірсов Єгор Павлович|lt=Alternative|uk}} and {{ill|Чумак Віктор Васильович|lt=Wave|uk}}.<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/11/7203511/ The presidential candidate, Gritsenko, promised to cut off his hands] {{Webarchive|url=https://web.archive.org/web/20190111162125/https://www.pravda.com.ua/news/2019/01/11/7203511/ |date=11 January 2019 }}, [[Ukrainska Pravda]] (11 January 2019)</ref> [[Andriy Sadovyi]] and [[Dmytro Gnap]] withdrew their candidacies in a bid to support Hrytsenko. On 5 March, Hrytsenko said he was in talks with five other candidates (Smeshko, Koshulynskyi, Dobrodomov, Bezsmertnyi and Kryvenko) on joining forces in the election.<ref>{{Cite web |script-title=ru:Гриценко заявил о переговорах об объединении еще с пятью кандидатами в президенты |url=https://www.unian.net/elections/10468455-gricenko-zayavil-o-peregovorah-ob-obedinenii-eshche-s-pyatyu-kandidatami-v-prezidenty.html |access-date=5 March 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |date=5 March 2019 |language=ru |archive-date=5 March 2019 |archive-url=https://web.archive.org/web/20190305095419/https://www.unian.net/elections/10468455-gricenko-zayavil-o-peregovorah-ob-obedinenii-eshche-s-pyatyu-kandidatami-v-prezidenty.html |url-status=live }}</ref>
+|-
+| data-sort-value="Balashov, Hennadiy" | {{CSS image crop|Image = Gennadiy Balashov.jpg|bSize = 120|cWidth = 90|cHeight = 120|oTop = 3|oLeft = 12|Location=center}}'''[[Hennadiy Balashov]]'''
+| {{party color cell|5.10}}
+|[[5.10]]
+| {{party color cell|5.10}}
+|[[5.10]]
+|People's Deputy of Ukraine (1998–2002)
+|18 January 2019<ref name="fhuuygggo7203864">{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/18/7204197/ The CEC has registered 2 more presidential candidates] {{Webarchive|url=https://web.archive.org/web/20190119120858/https://www.pravda.com.ua/news/2019/01/18/7204197/ |date=19 January 2019 }}, [[Ukrainska Pravda]] (18 January 2019)</ref>
+|On 21 May 2018, Balashov released a video on his official website titled "Will Balashov Run for President?" in which he asks the audience if they're "capable of raising money" for his campaign, yet doesn't say whether he will participate in the election.<ref>{{Cite web |last=Балашов |first=Геннадий |script-title=ru:Пойдёт ли Балашов в Президенты? |url=https://balashov.com.ua/news/poydet-li-balashov-v-prezidenty.html |access-date=8 August 2018 |website=Геннадий Балашов |language=ru |archive-date=12 June 2018 |archive-url=https://web.archive.org/web/20180612140715/https://balashov.com.ua/news/poydet-li-balashov-v-prezidenty.html |url-status=dead }}</ref> On 19 September 2018 he clearly announced his intention to run on behalf of his party [[5.10]].<ref>{{Cite web |last=Балашов |first=Геннадий |script-title=ru:Геннадий Балашов примет участие в выборах Президента-2019 |url=https://balashov.com.ua/news/gennadiy-balashov-primet-uchastie-v-vyborah-prezidenta-2019.html |access-date=14 October 2018 |website=Геннадий Балашов |language=ru |archive-date=14 October 2018 |archive-url=https://web.archive.org/web/20181014203952/https://balashov.com.ua/news/gennadiy-balashov-primet-uchastie-v-vyborah-prezidenta-2019.html |url-status=dead }}</ref>
+|-
+| data-sort-value="Bohomolets, Olha" | {{CSS image crop|Image = Olga Bogomolets (cropped).jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 0|Location=center}}'''[[Olha Bohomolets]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|People's Deputy of Ukraine (2014–2019)
+|18 January 2019<ref name="fhuuygggo7203864"/>
+|Candidate in the [[2014 Ukrainian presidential election]].
+|-
+| data-sort-value="Shevchenko, Oleksandr" | {{CSS image crop|Image = Олександр Шевченко (cropped).jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 3|Location=center}}'''[[Oleksandr Shevchenko (politician, born 1971)|Oleksandr Shevchenko]]'''
+| {{party color cell|UKROP}}
+|[[UKROP]]
+| {{party color cell|UKROP}}
+|[[UKROP]]
+|People's Deputy of Ukraine (2014–2019)
+|21 January 2019<ref>{{Cite web |title=Постанова №82 від 21.01.2019 |url=http://www.cvk.gov.ua/pls/acts/ShowCard?id=44425&what=0 |url-status=dead |archive-url=https://web.archive.org/web/20190122094614/http://www.cvk.gov.ua/pls/acts/ShowCard?id=44425&what=0 |archive-date=22 January 2019 |access-date=22 January 2019 |website=cvk.gov.ua}}</ref>
+|
+|-
+| data-sort-value="Nasirov, Roman" | {{CSS image crop|Image = Roman Nasirov.jpg|bSize = 120|cWidth = 90|cHeight = 120|oTop = 5|oLeft = 13|Location=center}}'''[[Roman Nasirov]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|Head of the [[State Fiscal Service (Ukraine)|State Fiscal Service]] (2015–2017)<ref name="rferl.org">{{Cite web |title=Meet Ukraine's Presidential Candidates |url=https://www.rferl.org/a/meet-ukraines-presidential-candidates-2019/29756553.html |website=Radio Free Europe / Radio Liberty}}</ref><br>People's Deputy of Ukraine (2014–2015)
+|22 January 2019<ref>{{Cite web |title=Öåíòðàëüíà âèáîð÷à êîì³ñ³ÿ - ²ÀÑ "Âèáîðè Ïðåçèäåíòà Óêðà¿íè" |url=http://www.cvk.gov.ua/pls/vp2019/WP001 |url-status=dead |archive-url=https://web.archive.org/web/20190316230653/http://www.cvk.gov.ua/pls/vp2019/WP001 |archive-date=16 March 2019 |access-date=22 January 2019 |website=cvk.gov.ua}}</ref>
+|
+|-
+| data-sort-value="Boyko, Yuriy" | {{CSS image crop|Image = Boiko Yurii Wiki Vadim Chuprina.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 3|oLeft = 5|Location=center}}'''[[Yuriy Boyko]]'''
+| {{party color cell|Opposition Bloc}}
+|[[Opposition Bloc]]
+| {{party color cell|Independent}}
+|Self-nominated{{efn|De facto nominated by the [[Opposition Platform — For Life]].<ref name="pravda.com.ua/news/2018/11/17/7198528" />}}
+|Deputy Prime Minister of Ukraine (2012–2014)<br>People's Deputy of Ukraine (2007–2010, 2014–present)<br>[[Ministry of Energy (Ukraine)|Minister of Fuel and Energy]] (2006–2007, 2012–2014)<ref name="pravda.com.ua/news/2018/11/17/7198528">{{in lang|uk}} [https://www.pravda.com.ua/news/2018/11/17/7198528/ The association of Boyko-Rabinovich was determined with the presidential candidate] {{Webarchive|url=https://web.archive.org/web/20201123163433/https://www.pravda.com.ua/news/2018/11/17/7198528/ |date=23 November 2020 }}, [[Ukrainska Pravda]] (17 November 2018)</ref>
+|22 January 2019<ref>{{Cite web |script-title=ru:Юрий Бойко стал 13-м кандидатом в президенты Украины |url=https://interfax.com.ua/news/election2019/560551.html |access-date=22 January 2019 |website=Интерфакс-Украина |date=22 January 2019 |language=ru |archive-date=24 January 2019 |archive-url=https://web.archive.org/web/20190124000948/https://interfax.com.ua/news/election2019/560551.html |url-status=live }}</ref>
+|Candidate for the [[Opposition Platform — For Life]] alliance.<ref name="pravda.com.ua/news/2018/11/17/7198528"/> His nomination was announced on 17 November. Because Opposition Platform – For life was not yet registered as a party in January 2019 it could not nominate him as a presidential candidate.<ref name="pravda7204079">{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/17/7204079/ Boyko began registering as a presidential candidate] {{Webarchive|url=https://web.archive.org/web/20190117200150/https://www.pravda.com.ua/news/2019/01/17/7204079/ |date=17 January 2019 }}, [[Ukrainska Pravda]] (17 November 2018)</ref>
+|-
+| data-sort-value="Tymoshenko, Yulia" | {{CSS image crop|Image = НДУ 9 Тимошенко Юлія Володимирівна.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 3|oLeft = 5|Location=center}}'''[[Yulia Tymoshenko]]'''
+| {{party color cell|Batkivshchyna}}
+|[[Batkivshchyna]]
+| {{party color cell|Batkivshchyna}}
+|[[Batkivshchyna]]
+|[[People's Deputy of Ukraine]] (1997–2000, 2002–2005, 2006–2007, 2014–present)<br>[[Prime Minister of Ukraine]] ([[Yulia Tymoshenko#First term as prime minister (February – September 2005)|2005]]; [[Yulia Tymoshenko#Second term as prime minister 2007–2010, and 2008 political crisis|2007–2010]])<br>Leader of the [[Batkivshchyna]] (1999–present)
+|25 January 2019<ref>{{Cite web |title=Про реєстрацію кандидата на пост Президента України Тимошенко Юлії Володимирівни на чергових виборах Президента України 31 березня 2019 року |url=https://zakon.rada.gov.ua/go/v0106359-19 |access-date=2026-03-27 |website=Офіційний вебпортал парламенту України |language=uk}}</ref>
+|In October 2017, Tymoshenko announced that she intended to participate.<ref>{{Cite news |title=Tymoshenko says to run for Ukraine president |language=en |url=https://www.unian.info/politics/2188611-tymoshenko-says-to-run-for-ukraine-president.html |access-date=8 August 2018 |archive-date=20 June 2018 |archive-url=https://web.archive.org/web/20180620180806/https://www.unian.info/politics/2188611-tymoshenko-says-to-run-for-ukraine-president.html |url-status=live }}</ref> On 20 June 2018 she officially declared that she would take part in the election.<ref>[https://en.interfax.com.ua/news/general/513305.html Tymoshenko says she will run for president in 2019] {{Webarchive|url=https://web.archive.org/web/20180620171534/https://en.interfax.com.ua/news/general/513305.html |date=20 June 2018 }}, [[Interfax-Ukraine]] (20 June 2018)</ref> On 16 March fellow candidate [[Serhiy Taruta]] pledged his campaign team would support Tymoshenko, however, his name was not taken off the ballot.<ref name="Taruta573095"/> She was endorsed by the [[Peasant Party of Ukraine]].<ref>{{Cite web |date=20 March 2019 |script-title=uk:Єдина дбає про село, – Селянська партія підтримала Юлію Тимошенко |url=https://24tv.ua/yedina_dbaye_pro_selo__selyanska_partiya_pidtrimala_yuliyu_timoshenko_n1129634 |website=24tv.ua |language=uk |access-date=20 March 2019 |archive-date=31 March 2019 |archive-url=https://web.archive.org/web/20190331155645/https://24tv.ua/yedina_dbaye_pro_selo__selyanska_partiya_pidtrimala_yuliyu_timoshenko_n1129634 |url-status=live }}</ref>
+|-
+| data-sort-value="Liashko, Oleh" | {{CSS image crop|Image = Зустріч Зеленського з керівництвом ВРУ, 20 (cropped).jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 3|oLeft = 5|Location=center}}'''[[Oleh Liashko]]'''
+| {{party color cell|Radical Party of Oleh Liashko}}
+|[[Radical Party of Oleh Liashko]]
+| {{party color cell|Radical Party of Oleh Liashko}}
+|[[Radical Party of Oleh Liashko]]
+|People's Deputy of Ukraine (2006–2019)<ref name="nee">Vasylyev, Yegor (21 November 2017). [http://neweasterneurope.eu/2017/11/21/one-half-years-election-ukraine-dreaming-belarus/ One and a half years before the election: Is Ukraine dreaming of Belarus?] {{Webarchive|url=https://web.archive.org/web/20180305202534/http://neweasterneurope.eu/2017/11/21/one-half-years-election-ukraine-dreaming-belarus/ |date=5 March 2018 }}. New Eastern Europe. Retrieved 4 March 2018.</ref><ref>{{Cite web |script-title=uk:Суд закрив справу Ляшка. Він хоче перемогти на президентських виборах |url=https://www.pravda.com.ua/news/2017/07/21/7150162 |access-date=8 August 2018 |website=[[Ukrainska Pravda]] |language=uk |archive-date=26 June 2018 |archive-url=https://web.archive.org/web/20180626164112/https://www.pravda.com.ua/news/2017/07/21/7150162/ |url-status=live }}</ref><br>Leader of the [[Radical Party of Oleh Liashko]] (2011–present)
+|25 January 2019<ref>{{Cite web |title=Про реєстрацію кандидата на пост Президента України Ляшка Олега Валерійовича на чергових виборах Президента України 31 березня 2019 року |url=https://zakon.rada.gov.ua/laws/show/v0099359-19 |access-date=2026-03-27 |website=Офіційний вебпортал парламенту України |language=uk}}</ref>
+|
+|-
+| data-sort-value="Vilkul, Oleksandr" | {{CSS image crop|Image = НДУ 8 Вілкул Олександр Юрійович.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 3|Location=center}}'''[[Oleksandr Vilkul]]'''
+| {{party color cell|Opposition Bloc (2019)}}
+|[[Opposition Bloc (2019)|Opposition Bloc – Party for Development and Peace]]
+| {{party color cell|Opposition Bloc (2019)}}
+|[[Opposition Bloc (2019)|Opposition Bloc – Party for Development and Peace]]
+|People's Deputy of Ukraine (2006–2010, 2014–2019)<br>Deputy Prime Minister of Ukraine (2012–2014)<br>Governor of the [[Dnipropetrovsk Oblast]] (2010–2012)
+|25 January 2019<ref>{{Cite web |title= Про реєстрацію кандидата на пост Президента України Вілкула Олександра Юрійовича на чергових виборах Президента України 31 березня 2019 року |url=https://zakon.rada.gov.ua/laws/show/v0104359-19 |access-date=2026-03-27 |website=Офіційний вебпортал парламенту України |language=uk}}</ref>
+|Nominated by Opposition Bloc – Party for Development and Peace (the recently renamed Industrial Party of Ukraine) on 20 January 2019.<ref>{{in lang|uk}} [https://ua.korrespondent.net/ukraine/4055712-vybory-prezydenta-kivu-vilkula-ta-hnapa-vysunuly Presidential elections: Kivu, Vilkul and Hnapa have been nominated] {{Webarchive|url=https://web.archive.org/web/20190123010831/https://ua.korrespondent.net/ukraine/4055712-vybory-prezydenta-kivu-vilkula-ta-hnapa-vysunuly |date=23 January 2019 }}, [[Korrespondent.net]] (20 January 2019)<br/>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/22/7204524/ Kiva and Vilkul surrendered to the Central Election Commission] {{Webarchive|url=https://web.archive.org/web/20190123071303/https://www.pravda.com.ua/news/2019/01/22/7204524/ |date=23 January 2019 }}, [[Ukrainska Pravda]] (22 January 2019)</ref> Vilkul had been already nominated by his party [[Opposition Bloc (2019)|Opposition Bloc]] on 17 December 2018.<ref>[https://www.kyivpost.com/ukraine-politics/oleksandr-vilkul-to-be-nominated-as-candidate-for-president.html Oleksandr Vilkul to be nominated as candidate for president], [[Kyiv Post]] (1817 December 2018)</ref> But a Ukrainian court ruled three days before (in response to a lawsuit filed by People's Deputy of Ukraine for OB [[Serhiy Larin]]) that OB's congress at which Vikul was to be nominated could not "reorganize the party by any means".<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2018/12/14/7201276/ Split "Opoploko": the court imposed restrictions on the party before the congress] {{Webarchive|url=https://web.archive.org/web/20181214175910/https://www.pravda.com.ua/news/2018/12/14/7201276/ |date=14 December 2018 }}, [[Ukrainska Pravda]] (14 December 2018)</ref> On 18 December 2018, the website of OB stated that therefore all the decisions made at the congress were invalid.<ref>{{Cite web |title=В партии "Оппозиционный блок" заявили, что Вилкул не сможет выдвинуться от нее в президенты |url=https://gordonua.com/news/politics/v-partii-oppozitsionnyj-blok-zajavili-chto-vilkul-ne-smozhet-vydvinutsja-ot-nee-v-prezidenty-590957.html |access-date=20 December 2018 |website=gordonua.com |date=18 December 2018 |archive-date=21 December 2018 |archive-url=https://web.archive.org/web/20181221041316/https://gordonua.com/news/politics/v-partii-oppozitsionnyj-blok-zajavili-chto-vilkul-ne-smozhet-vydvinutsja-ot-nee-v-prezidenty-590957.html |url-status=live }}</ref>
+|-
+| data-sort-value="Kornatskiy, Arkadiy" | {{CSS image crop|Image = Kornatskyi Arkadii Vadim Chuprina.jpg|bSize = 120|cWidth = 90|cHeight = 120|oTop = 8|oLeft = 15|Location=center}}'''[[Arkadiy Kornatskiy]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|People's Deputy of Ukraine (2014–2019)
+|25 January 2019<ref>{{Cite web |title=  Про реєстрацію кандидата на пост Президента України Корнацького Аркадія Олексійовича на чергових виборах Президента України 31 березня 2019 року |url=https://zakon.rada.gov.ua/laws/show/v0101359-19 |access-date=2026-03-27 |website=Офіційний вебпортал парламенту України |language=uk}}</ref>
+|
+|-
+| data-sort-value="Moroz, Oleksandr" | {{CSS image crop|Image = НДУ 5 Мороз Олександр Олександрович.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 3|Location=center}}'''[[Oleksandr Moroz]]'''
+| style="background:#E21675;" |
+|[[Socialist Party of Oleksandr Moroz]]
+| style="background:#E21675;" |
+|[[Socialist Party of Oleksandr Moroz]]
+|[[Chairman of the Verkhovna Rada]] (1994–1998, 2006–2007)<br>Leader of the [[Socialist Party of Ukraine]] (1991–2011)<br>Leader of the [[Socialist Party of Oleksandr Moroz]] (2016–present)<br>People's Deputy of Ukraine (1990–2007)
+|25 January 2019<ref>{{Cite web |title=  Про реєстрацію кандидата на пост Президента України Мороза Олександра Олександровича на чергових виборах Президента України 31 березня 2019 року |url=https://zakon.rada.gov.ua/laws/show/v0110359-19 |access-date=2026-03-27 |website=Офіційний вебпортал парламенту України |language=uk}}</ref>
+|Declared his candidacy on 11 December 2018.<ref>{{Cite web |date=12 December 2018 |title=Moroz says he will run again for Ukraine's president |url=https://www.kyivpost.com/ukraine-politics/moroz-says-he-will-run-again-for-ukraines-president.html |access-date=10 January 2019 |website=Kyiv Post}}</ref>
+|-
+| data-sort-value="Kyva, Illia" | {{CSS image crop|Image = Илья Кива (cropped).jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 3|Location=center}}'''[[Illia Kyva]]'''
+| {{party color cell|Socialist Party of Ukraine}}
+|[[Socialist Party of Ukraine]]
+| {{party color cell|Socialist Party of Ukraine}}
+|[[Socialist Party of Ukraine]]
+|Leader of the [[Socialist Party of Ukraine]] (2017–2019)
+|25 January 2019<ref>{{Cite web |title=   Про реєстрацію кандидата на пост Президента України Киви Іллі Володимировича на чергових виборах Президента України 31 березня 2019 року |url=https://zakon.rada.gov.ua/laws/show/v0126359-19 |access-date=2026-03-27 |website=Офіційний вебпортал парламенту України |language=uk}}</ref>
+|Kyva was nominated by his party on 3 November 2018.<ref>[https://en.interfax.com.ua/news/general/542756.html Socialists put forward Kiva for presidential elections] {{Webarchive|url=https://web.archive.org/web/20181105141638/https://en.interfax.com.ua/news/general/542756.html |date=5 November 2018 }}, [[Interfax-Ukraine]] (5 November 2018)</ref><ref name="UP7197183SPb"/>
+|-
+| data-sort-value="Koshulynskyi, Ruslan" | {{CSS image crop|Image = 2014-08-26. «Сичь» отправляется на войну 015.JPG|bSize = 200|cWidth = 90|cHeight = 120|oTop = 3|oLeft = 77|Location=center}}'''[[Ruslan Koshulynskyi]]'''
+| {{party color cell|Svoboda (political party)}}
+|[[Svoboda (political party)|Svoboda]]
+| {{party color cell|Svoboda (political party)}}
+|[[Svoboda (political party)|Svoboda]]
+|Deputy Chairman of the [[Verkhovna Rada of Ukraine]] (2012–2014)<br>People's Deputy of Ukraine (2012–2014)
+|28 January 2019<ref>{{Cite web |title=Про реєстрацію кандидата на пост Президента України Кошулинського Руслана Володимировичана чергових виборах Президента України 31 березня 2019 року |url=http://www.cvk.gov.ua/pls/acts/ShowCard?id=44483 |url-status=dead |archive-url=https://web.archive.org/web/20190207020133/http://www.cvk.gov.ua/pls/acts/ShowCard?id=44483 |archive-date=7 February 2019 |access-date=31 March 2019}}</ref>
+|On 14 October 2018, [[Oleh Tyahnybok]], chairman of the party All-Ukrainian Union [[Freedom (political party)|Svoboda]], announced he would not be running for president and that the party had instead decided to nominate Koshulynskyi as the candidate of nationalist political forces.<ref name="Ukrainska Pravda">{{Cite news |script-title=uk:"Свобода" висуне в президенти не Тягнибока |language=uk |work=[[Ukrainska Pravda]] |url=https://www.pravda.com.ua/news/2018/10/14/7195134 |access-date=15 October 2018 |archive-date=14 October 2018 |archive-url=https://web.archive.org/web/20181014165146/https://www.pravda.com.ua/news/2018/10/14/7195134/ |url-status=live }}</ref> On 19 November 2018, fellow [[Ukrainian nationalism|Ukrainian nationalist]] political organizations [[Organization of Ukrainian Nationalists]], [[Congress of Ukrainian Nationalists]], [[Right Sector]] and [[C14 (Ukrainian group)|C14]] endorsed Koshulynskyi's candidacy.<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2018/11/19/7198643/ The nationalists have been identified with a presidential candidate] {{Webarchive|url=https://web.archive.org/web/20181119151957/https://www.pravda.com.ua/news/2018/11/19/7198643/ |date=19 November 2018 }}, [[Ukrainska Pravda]] (19 November 2018)</ref>
+|-
+| data-sort-value="Danylyuk, Oleksandr" | {{CSS image crop|Image = Данилюк Олександр Володимирович.jpg|bSize = 200|cWidth = 90|cHeight = 120|oTop = 3|oLeft = 57|Location=center}}'''[[Oleksandr Danylyuk (lawyer)|Oleksandr V. Danylyuk]]'''
+| style="background:#02A7EE;" |
+|[[Spilna Sprava]]
+| {{party color cell|Independent}}
+|Self-nominated
+|Advisor of the [[List of ministers of defense (Ukraine)|Minister of Defense]] (2014)<ref name="rferl.org"/>
+|28 January 2019<ref>{{Cite web |title=Про реєстрацію кандидата на пост Президента України Данилюка Олександра Володимировича на чергових виборах Президента України 31 березня 2019 року |url=http://www.cvk.gov.ua/pls/acts/ShowCard?id=44484 |url-status=dead |archive-url=https://web.archive.org/web/20190207020211/http://www.cvk.gov.ua/pls/acts/ShowCard?id=44484 |archive-date=7 February 2019 |access-date=31 March 2019}}</ref>
+|
+|-
+| data-sort-value="Taruta, Serhiy" | {{CSS image crop|Image = Wikipedia in Mariupol, 27-28 February 2015 - 0084 (cropped).jpg|bSize = 90|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 0|Location=center}}'''[[Serhiy Taruta]]'''
+| {{party color cell|Osnova (political party)}}
+|[[Osnova (political party)|Osnova]]
+| {{party color cell|Osnova (political party)}}
+|[[Osnova (political party)|Osnova]]
+|People's Deputy of Ukraine (2014–present)<br>[[Governor of Donetsk Oblast]] (2014)<br>Leader of [[Osnova (political party)|Osnova]] (2017–2019)
+|29 January 2019<ref>{{Cite web |script-title=ru:Тарута стал 23-м кандидатом в президенты Украины |date=29 January 2019 |url=https://interfax.com.ua/news/political/562247.html |access-date=29 January 2019 |publisher=Интерфакс-Украина |language=ru |archive-date=29 January 2019 |archive-url=https://web.archive.org/web/20190129215647/https://interfax.com.ua/news/political/562247.html |url-status=live }}</ref>
+|Taruta was nominated by Osnova on 22 September 2018.<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2018/09/22/7192904/ Taruta's party sent him to the presidency] {{Webarchive|url=https://web.archive.org/web/20180922192144/https://www.pravda.com.ua/news/2018/09/22/7192904/ |date=22 September 2018 }}, [[Ukrainska Pravda]] (22 September 2018)</ref><ref>{{Cite web |script-title=ru:Тарута предлагает компромисс и идет в президенты |url=https://apostrophe.ua/article/politics/political-parties/2018-09-22/taruta-predlagaet-kompromiss-i-idet-v-prezidentyi/20821 |access-date=10 January 2019 |website=Апостроф |language=ru |archive-date=31 March 2019 |archive-url=https://web.archive.org/web/20190331130105/https://apostrophe.ua/article/politics/political-parties/2018-09-22/taruta-predlagaet-kompromiss-i-idet-v-prezidentyi/20821 |url-status=live }}</ref> He withdrew from the running on 16 March to support Yulia Tymoshenko, however, his name will feature on the ballot.<ref name="Taruta573095">{{Cite web |title=Taruta announces support for Tymoshenko at presidential elections |url=https://en.interfax.com.ua/news/general/573095.html |access-date=16 March 2019 |website=[[Interfax-Ukraine]] |date=16 March 2019 |archive-date=19 March 2019 |archive-url=https://web.archive.org/web/20190319125926/https://en.interfax.com.ua/news/general/573095.html |url-status=live }}</ref>
+|-
+| data-sort-value="Zelenskyy, Volodymyr" | {{CSS image crop|Image = Volodymyr Zelensky Official portrait (cropped).jpg|bSize = 110|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 7|Location=center}}'''[[Volodymyr Zelenskyy]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Servant of the People}}
+|[[Servant of the People]]
+|Showman, screenwriter, actor, and art-director of [[Kvartal 95 Studio|Kvartal 95]]
+|30 January 2019<ref name=":1">{{Cite web |title=CEC registers Zelensky, Smeshko, Bohoslovka, thus raising number of presidential contenders in Ukraine to 26 |url=https://en.interfax.com.ua/news/general/562530.html |access-date=30 January 2019 |website=Interfax-Ukraine |date=30 January 2019 |language=en |archive-date=31 January 2019 |archive-url=https://web.archive.org/web/20190131040103/https://en.interfax.com.ua/news/general/562530.html |url-status=live }}</ref>
+|Announced his candidacy during his comedy show on 31 December 2018.<ref name="zelenskyyrfe">{{cite news |title=Actor Volodymyr Zelenskiy Says He'll Run For Ukrainian Presidency |url=https://www.rferl.org/a/actor-volodymyr-zelenskiy-announces-candidacy-in-ukraine-s-presidential-election/29686423.html |access-date=14 October 2024 |work=Radio Free Europe/Radio Liberty |publisher=RFE/RL |date=2 January 2019 |language=en |archive-date=19 August 2024 |archive-url=https://web.archive.org/web/20240819223524/https://www.rferl.org/a/actor-volodymyr-zelenskiy-announces-candidacy-in-ukraine-s-presidential-election/29686423.html |url-status=live }}</ref>
+|-
+| data-sort-value="Smeshko, Ihor" | {{CSS image crop|Image = RS121-February-11-2019-e1561976279496 03.jpg|bSize = 275|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 90|Location=center}}'''[[Ihor Smeshko]]'''
+| {{party color cell|Strength and Honor}}
+|[[Strength and Honor]]
+| {{party color cell|Independent}}
+|Self-nominated
+|Head of the [[Security Service of Ukraine]] (2003–2005)<br>Advisor to the [[President of Ukraine]] (2014–2019)
+|30 January 2019<ref name=":1"/><ref name=":2">{{Cite web |script-title=ru:ЦИК зарегистрировал еще двух кандидатов на пост президента |url=https://www.rbc.ua/rus/news/tsik-zaregistriroval-eshche-dvuh-kandidatov-1548860900.html |access-date=30 January 2019 |website=РБК-Украина |language=ru |archive-date=31 January 2019 |archive-url=https://web.archive.org/web/20190131040358/https://www.rbc.ua/rus/news/tsik-zaregistriroval-eshche-dvuh-kandidatov-1548860900.html |url-status=live }}</ref>
+|Announced his intention to run on 13 January 2019.
+|-
+| data-sort-value="Bohoslovska, Inna" | {{CSS image crop|Image = Inna Bohoslovska 9.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 0|oLeft = 0|Location=center}}'''[[Inna Bohoslovska]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|People's Deputy of Ukraine (1998–2002, 2007–2014)<ref>{{Citation |title=Богословская идёт в Президенты Украины. 112 канал. 28 июня 2017 г. |date=28 June 2017 |url=https://www.youtube.com/watch?v=PwkiD4ezSFw |access-date=8 August 2018 |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427233630/https://www.youtube.com/watch?v=PwkiD4ezSFw |url-status=live }}</ref><br>Leader of the [[Aktsent|Viche]] (2001–2007)
+|30 January 2019<ref name=":1"/><ref name=":2"/>
+|
+|-
+| data-sort-value="Haber, Mykola" | {{CSS image crop|Image = НДУ 3 Габер Микола Олександрович.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 5|oLeft = 10|Location=center}}'''[[Mykola Haber]]'''
+| style="background:#291366;" |
+|[[Patriotic Party of Ukraine]]
+| {{party color cell|Independent}}
+|Self-nominated
+|People's Deputy of Ukraine (1998–2002)<ref name=":0">{{Cite web |script-title=ru:Соловьев и Габер подали в ЦИК документы для регистрации кандидатами в президенты |url=https://interfax.com.ua/news/political/561873.html |access-date=30 January 2019 |website=Интерфакс-Украина |date=28 January 2019 |language=ru |archive-date=30 January 2019 |archive-url=https://web.archive.org/web/20190130053332/https://interfax.com.ua/news/political/561873.html |url-status=live }}</ref><br>Leader of the [[Patriotic Party of Ukraine]] (1998–present)
+|1 February 2019<ref name=":3">{{Cite web |script-title=ru:Кандидатов на пост президента Украины стало 28 |url=https://interfax.com.ua/news/political/563152.html |access-date=1 February 2019 |website=Интерфакс-Украина |date=February 2019 |language=ru |archive-date=1 February 2019 |archive-url=https://web.archive.org/web/20190201213737/https://interfax.com.ua/news/political/563152.html |url-status=live }}</ref>
+|
+|-
+| data-sort-value="Derevyanko, Yuriy" | {{CSS image crop|Image = Derevyanko, Yuriy (cropped).jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 3|Location=center}}'''[[Yuriy Derevyanko]]'''
+| {{party color cell|Liberty (political party)}}
+|[[Liberty (political party)|Volia]]
+| {{party color cell|Liberty (political party)}}
+|[[Liberty (political party)|Volia]]
+|People's Deputy of Ukraine (2012–2019)<ref>{{Cite web |script-title=uk:Соратник Саакашвілі заявив про свої президентські амбіції |url=https://zik.ua/news/2018/07/04/soratnyk_saakashvili_zayavyv_pro_svoi_prezydentski_ambitsii_1358995 |url-status=dead |archive-url=https://web.archive.org/web/20180825133757/https://zik.ua/news/2018/07/04/soratnyk_saakashvili_zayavyv_pro_svoi_prezydentski_ambitsii_1358995 |archive-date=25 August 2018 |access-date=8 August 2018 |website=zik.ua |language=uk}}</ref>
+|1 February 2019<ref name=":3"/>
+|Nominated by the party Volia on 27 January.<ref>{{Cite web |script-title=ru:Партия "Воля" выдвинула нардепа Деревянко в президенты |url=https://interfax.com.ua/news/political/561694.html |access-date=30 January 2019 |website=Интерфакс-Украина |date=27 January 2019 |language=ru |archive-date=28 January 2019 |archive-url=https://web.archive.org/web/20190128082710/https://interfax.com.ua/news/political/561694.html |url-status=live }}</ref>
+|-
+| data-sort-value="Bezsmertnyi, Roman" | {{CSS image crop|Image = Роман Петрович Безсмертний портрет.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 3|Location=center}}'''[[Roman Bezsmertnyi]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|[[List of ambassadors of Ukraine to Belarus|Ambassador of Ukraine to Belarus]] (2010–2011)<br>Deputy Prime Minister of Ukraine (2005–2006)<br>People's Deputy of Ukraine (1998–2005, 2006–2007)
+|4 February 2019<ref>{{Cite web |title=CEC registers 30 presidential candidates |url=https://www.ukrinform.net/amp/rubric-polytics/2633573-cec-registers-30-presidential-candidates.html |access-date=4 February 2019 |website=ukrinform.net |language=en |archive-date=7 February 2019 |archive-url=https://web.archive.org/web/20190207015743/https://www.ukrinform.net/amp/rubric-polytics/2633573-cec-registers-30-presidential-candidates.html |url-status=live }}</ref>
+|Declared his candidacy on 31 May 2018.<ref>{{Cite web |date=31 May 2018 |title=Bezsmertnyy says to run for president |url=https://en.lb.ua/news/2018/05/31/6100_bezsmertnyy_says_run_president.html |website=en.lb.ua |access-date=3 October 2018 |archive-date=3 October 2018 |archive-url=https://web.archive.org/web/20181003221053/https://en.lb.ua/news/2018/05/31/6100_bezsmertnyy_says_run_president.html |url-status=live }}</ref>
+|-
+| data-sort-value="Bondar, Viktor" | {{CSS image crop|Image = НДУ 8 Бондар Віктор Васильович.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 3|Location=center}}'''[[Viktor Bondar]]'''
+| {{party color cell|Revival (Ukraine)}}
+|[[Revival (Ukraine)|Revival]]
+| {{party color cell|Revival (Ukraine)}}
+|[[Revival (Ukraine)|Revival]]
+|People's Deputy of Ukraine (2014–present)<br>Leader of the [[Revival (Ukraine)|Revival]] (2015–2019)
+|4 February 2019<ref name=":4">{{Cite web |title=CEC registers 30 presidential candidates |url=https://www.ukrinform.net/amp/rubric-polytics/2633573-cec-registers-30-presidential-candidates.html |access-date=4 February 2019 |website=Ukrinform |language=en |archive-date=7 February 2019 |archive-url=https://web.archive.org/web/20190207015743/https://www.ukrinform.net/amp/rubric-polytics/2633573-cec-registers-30-presidential-candidates.html |url-status=live }}</ref>
+|Filed documents to the CEC on 31 January.<ref>{{Cite web |script-title=ru:Виктор Бондарь подал документы в ЦИК для регистрации кандидатом в президенты |url=https://www.unian.net/elections/10428870-viktor-bondar-podal-dokumenty-v-cik-dlya-registracii-kandidatom-v-prezidenty.html |access-date=1 February 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |date=31 January 2019 |language=ru |archive-date=1 February 2019 |archive-url=https://web.archive.org/web/20190201013215/https://www.unian.net/elections/10428870-viktor-bondar-podal-dokumenty-v-cik-dlya-registracii-kandidatom-v-prezidenty.html |url-status=live }}</ref>
+|-
+| data-sort-value="Kryvenko, Viktor" | {{CSS image crop|Image = НДУ 8 Кривенко Віктор Миколайович.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 3|Location=center}}'''[[Viktor Kryvenko]]'''
+| {{party color cell|People's Movement of Ukraine}}
+|[[People's Movement of Ukraine]]
+| {{party color cell|People's Movement of Ukraine}}
+|[[People's Movement of Ukraine]]
+|People's Deputy of Ukraine (2014–2019)<br>Leader of the [[People's Movement of Ukraine]] (2017–2021)
+|5 February 2019<ref name=":5">{{Cite web |script-title=ru:ЦИК зарегистрировала "руховца" Кривенко, первого замкомандующего Сил спецопераций ВСУ Кривоноса и еще двух самовыдвиженцев |url=https://interfax.com.ua/news/election2019/563992.html |access-date=5 February 2019 |website=Интерфакс-Украина |date=5 February 2019 |language=ru |archive-date=6 February 2019 |archive-url=https://web.archive.org/web/20190206141553/https://interfax.com.ua/news/election2019/563992.html |url-status=live }}</ref>
+|Kryvenko was chosen as the People's Movement of Ukraine candidate on 10 January 2019.<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/10/7203402/ The People's Movement of Ukraine party nominated its presidential candidate] {{Webarchive|url=https://web.archive.org/web/20190110091856/https://www.pravda.com.ua/news/2019/01/10/7203402/ |date=10 January 2019 }}, [[Ukrainska Pravda]] (10 January 2019)</ref><ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/13/7203659/ Smeshko told where he would take money for the election and called his main competitors] {{Webarchive|url=https://web.archive.org/web/20190113212020/https://www.pravda.com.ua/news/2019/01/13/7203659/ |date=13 January 2019 }}, [[Ukrainska Pravda]] (13 January 2019)</ref>
+|-
+|'''[[Ruslan Rihovanov]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|Acting Head of [[Sevastopol Sea Fishing Port]]
+|5 February 2019<ref name=":5"/>
+|
+|-
+|'''[[Serhiy Nosenko]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|Investment consultant
+|5 February 2019<ref name=":5"/>
+|
+|-
+|'''[[Vasyl Zhuravlev]]'''
+| style="background:#085492;" |
+|[[Stability (Ukraine)|Stability]]
+| style="background:#085492;" |
+|[[Stability (Ukraine)|Stability]]
+|Leader of the [[Stability (Ukraine)|Stability]] (2016–present)
+|6 February 2019<ref name=":6">{{Cite web |script-title=ru:Кандидатов в президенты уже 37 - зарегистрированы Юрий Тимошенко, Новак и Журавлев |url=https://interfax.com.ua/news/election2019/564242.html |access-date=7 February 2019 |website=Интерфакс-Украина |date=6 February 2019 |language=ru |archive-date=7 February 2019 |archive-url=https://web.archive.org/web/20190207015703/https://interfax.com.ua/news/election2019/564242.html |url-status=live }}</ref>
+|
+|-
+| data-sort-value="Novak, Andriy" | {{CSS image crop|Image = Andriy Novak.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 0|Location=center}}'''[[Andriy Novak (economist)|Andriy Novak]]'''
+| style="background:#0000FF;" |
+|[[Patriot (Ukraine)|Patriot]]
+| style="background:#0000FF;" |
+|[[Patriot (Ukraine)|Patriot]]
+|Chairman of the Committee of Economists of Ukraine (2010–present)<br>Leader of the [[Ukrainian Party]] (2012–2013)<ref>{{Cite web |title=Andriy Novak - UNIAN |url=https://www.unian.info/author/561-andrey-novak |access-date=29 January 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |archive-date=29 January 2019 |archive-url=https://web.archive.org/web/20190129181346/https://www.unian.info/author/561-andrey-novak |url-status=live }}</ref>
+|6 February 2019<ref name=":6"/>
+|Nominated by the Patriot party on 24 January 2019.<ref>{{Cite news |title=Patriot party nominates its candidate for presidency in Ukraine |url=https://en.interfax.com.ua/news/general/561583.html |access-date=29 January 2019 |website=Interfax-Ukraine |language=en |archive-date=29 January 2019 |archive-url=https://web.archive.org/web/20190129181607/https://en.interfax.com.ua/news/general/561583.html |url-status=live }}</ref>
+|-
+| data-sort-value="Tymoshenko, Yurii" | {{CSS image crop|Image = Tymoshenko Yuriy.jpg|bSize = 120|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 13|Location=center}}'''[[Yurii Tymoshenko]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|People's Deputy of Ukraine (2014–2019)
+|6 February 2019<ref name=":6"/>
+|[[Yulia Tymoshenko]] called for Yurii Tymoshenko's registration to be annulled because they share the same surname and initials, which could confuse voters.<ref>{{Cite web |date=8 February 2019 |title=44 candidates are running for president of Ukraine: two are called Y.V. Tymoshenko |url=https://www.euronews.com/2019/02/08/44-candidates-are-running-for-president-of-ukraine-two-are-called-y-v-tymoshenko |access-date=1 March 2019 |website=euronews.com |archive-date=2 March 2019 |archive-url=https://web.archive.org/web/20190302024638/https://www.euronews.com/2019/02/08/44-candidates-are-running-for-president-of-ukraine-two-are-called-y-v-tymoshenko |url-status=live }}</ref><ref>{{Cite news |date=24 February 2019 |title=Tymoshenko v Tymoshenko: Funny business at the polls |language=en-GB |url=https://www.bbc.com/news/world-asia-india-47333307 |access-date=7 March 2019 |archive-date=8 March 2019 |archive-url=https://web.archive.org/web/20190308002906/https://www.bbc.com/news/world-asia-india-47333307 |url-status=live }}</ref> On 6 March, two individuals were arrested for attempting to bribe Yurii Tymoshenko to withdraw from the elections.<ref>{{Cite web |script-title=ru:Кандидату в президенты Юрию Тимошенко предлагали 5 миллионов гривень за отказ баллотироваться - Луценко (фото) |url=https://www.unian.net/elections/10471131-kandidatu-v-prezidenty-yuriyu-timoshenko-predlagali-5-millionov-griven-za-otkaz-ballotirovatsya-lucenko-foto.html |access-date=7 March 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |date=6 March 2019 |language=ru |archive-date=7 March 2019 |archive-url=https://web.archive.org/web/20190307001337/https://www.unian.net/elections/10471131-kandidatu-v-prezidenty-yuriyu-timoshenko-predlagali-5-millionov-griven-za-otkaz-ballotirovatsya-lucenko-foto.html |url-status=live }}</ref>
+|-
+| data-sort-value="Poroshenko, Petro" | {{CSS image crop|Image = Official portrait of Petro Poroshenko.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 0|Location=center}}'''[[Petro Poroshenko]]'''
+| {{party color cell|Petro Poroshenko Bloc "Solidarity"}}
+|Independent{{efn|The [[President of Ukraine]] is expected to be independent, and suspend all political activities during his term, and thus officially, Poroshenko was unaffiliated and self-nominated candidate, however, de facto he remained the BPP member, and was formally nominated by the party during its forum on 29 January 2019.}} 
+| {{party color cell|Independent}}
+|Self-nominated
+|[[President of Ukraine]] (2014–2019)<ref>[http://en.interfax.com.ua/news/general/479749.html Poroshenko to decide on balloting for second presidential term, depending on success of next 6 months] {{Webarchive|url=https://web.archive.org/web/20180202071834/http://en.interfax.com.ua/news/general/479749.html |date=2 February 2018 }}, [[Interfax-Ukraine]] (25 January 2018)</ref><br>[[Ministry of Economy (Ukraine)|Minister of Economic Development and Trade]] (2012)<br>[[Minister of Foreign Affairs (Ukraine)|Minister of Foreign Affairs]] (2009–2010)<br>Secretary of the [[National Security and Defense Council of Ukraine]] (2005)<br>People's Deputy of Ukraine (1998–2014, 2019–present)
+|7 February 2019<ref>{{Cite web |script-title=ru:ЦИК зарегистрировала Порошенко кандидатом в президенты |url=https://www.unian.net/elections/10437822-cik-zaregistrirovala-poroshenko-kandidatom-v-prezidenty.html |access-date=7 February 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |date=7 February 2019 |language=ru |archive-date=9 February 2019 |archive-url=https://web.archive.org/web/20190209124613/https://www.unian.net/elections/10437822-cik-zaregistrirovala-poroshenko-kandidatom-v-prezidenty.html |url-status=live }}</ref>
+|In July 2018, the deputy head of Poroshenko's parliamentary bloc announced that an election campaign team had been formed for Poroshenko, and that it was very likely that he would participate in the elections.<ref>{{Cite web |script-title=ru:Порошенко собирается баллотироваться в президенты в 2019 году — Березенко |url=https://delo.ua/econonomyandpoliticsinukraine/poroshenko-sobiraetsja-ballotirovatsja-v-prezidenty-v-2019-godu-344996 |access-date=28 November 2018 |website=delo.ua |date=31 July 2018 |language=ru |archive-date=29 November 2018 |archive-url=https://web.archive.org/web/20181129013004/https://delo.ua/econonomyandpoliticsinukraine/poroshenko-sobiraetsja-ballotirovatsja-v-prezidenty-v-2019-godu-344996/ |url-status=live }}</ref> Poroshenko announced his participation in the elections on 29 January 2019.<ref>{{Cite web |title=Poroshenko will run for president in 2019 |url=https://www.unian.info/politics/10426005-poroshenko-will-run-for-president-in-2019.html |access-date=29 January 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |date=29 January 2019 |language=en |archive-date=29 January 2019 |archive-url=https://web.archive.org/web/20190129170131/https://www.unian.info/politics/10426005-poroshenko-will-run-for-president-in-2019.html |url-status=live }}</ref> Serhiy Krivonos withdrew his candidacy in support of Poroshenko.<ref name=":9"/>
+|-
+| data-sort-value="Karmazin, Yurii" | {{CSS image crop|Image = НДУ 6 Кармазін Юрій Анатолійович.jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 0|Location=center}}'''[[Yurii Karmazin]]'''
+| {{party color cell|Motherland Defenders Party}}
+|[[Motherland Defenders Party]]
+| {{party color cell|Independent}}
+|Self-nominated
+|People's Deputy of Ukraine (1994–2006, 2007–2012)
+|7 February 2019<ref name=":7">{{Cite web |script-title=ru:ЦИК зарегистрировала Порошенко, а также Кармазина, Литвиненко и Ващенко кандидатами в президенты |url=https://interfax.com.ua/news/election2019/564466.html |access-date=7 February 2019 |website=Интерфакс-Украина |date=7 February 2019 |language=ru |archive-date=7 February 2019 |archive-url=https://web.archive.org/web/20190207174407/https://interfax.com.ua/news/election2019/564466.html |url-status=live }}</ref>
+|
+|-
+|'''[[Yulia Lytvynenko]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|Journalist<br>TV presenter
+|7 February 2019<ref name=":7"/>
+|
+|-
+|'''[[Oleksandr Vashchenko]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|Economist
+|7 February 2019<ref name=":7"/>
+|
+|-
+| data-sort-value="Petrov, Volodymyr" | {{CSS image crop|Image = Volodymyr Petrov portret (cropped).jpg|bSize = 100|cWidth = 90|cHeight = 120|oTop = 2|oLeft = 0|Location=center}}'''[[Volodymyr Petrov]]'''
+| {{party color cell|Independent}}
+|[[Independent politician|Independent]]
+| {{party color cell|Independent}}
+|Self-nominated
+|Political analyst<br>YouTuber<ref>{{Cite web |title=В президенты идет политтехнолог Владимир Петров: "называть конченных конченными" &#124; НОВОСТИ СОБЫТИЯ ЛЮДИ |url=http://news24ua.com/v-prezidenty-idet-polittehnolog-vladimir-petrov-nazyvat-konchennyh-konchennymi |website=news24ua.com |access-date=10 December 2018 |archive-date=11 December 2018 |archive-url=https://web.archive.org/web/20181211010109/http://news24ua.com/v-prezidenty-idet-polittehnolog-vladimir-petrov-nazyvat-konchennyh-konchennymi |url-status=dead }}</ref><ref>{{Cite web |title=ЛЮМПЕН ШОУ |url=https://nlotv.com/ru/video/lyumpen-shou |website=Телеканал НЛО TV. Заряжает! |access-date=10 December 2018 |archive-date=11 December 2018 |archive-url=https://web.archive.org/web/20181211010148/https://nlotv.com/ru/video/lyumpen-shou |url-status=usurped }}</ref>
+|7 February 2019<ref>{{Cite web |script-title=ru:ЦИК зарегистрировала 42-го кандидата в президенты Украины - самовыдвиженца Петрова |url=https://interfax.com.ua/news/election2019/564542.html |access-date=8 February 2019 |website=Интерфакс-Украина |date=7 February 2019 |language=ru |archive-date=7 February 2019 |archive-url=https://web.archive.org/web/20190207214928/https://interfax.com.ua/news/election2019/564542.html |url-status=live }}</ref>
+|Candidate in the [[2012 Ukrainian parliamentary election]]. At the time of registration, Petrov was under house arrest and being investigated for alleged harassment of a female student.<ref>{{Cite news |script-title=uk:Фігурант справи про секс-скандал став 42-им кандидатом у президенти |language=uk |work=[[Ukrainska Pravda]] |url=https://www.pravda.com.ua/news/2019/02/7/7206051 |access-date=8 February 2019 |archive-date=9 February 2019 |archive-url=https://web.archive.org/web/20190209123740/https://www.pravda.com.ua/news/2019/02/7/7206051/ |url-status=live }}</ref>
+|-
+|'''[[Oleksandr Solovyev]]'''
+| {{party color cell|Reasonable Force (political party)}}
+|[[Reasonable Force (political party)|Reasonable Force]]
+| {{party color cell|Reasonable Force (political party)}}
+|[[Reasonable Force (political party)|Reasonable Force]]
+|Leader of the [[Reasonable Force (political party)|Reasonable Force]] (2016–present)
+|8 February 2019<ref name=":8"/>
+|The CEC initially refused to register him on 2 February because a point in his election manifesto was interpreted as "encroaching on Ukraine's territorial integrity."<ref>{{Cite web |script-title=ru:В "Разумной силе" назвали отказ в регистрации Соловьева на пост президента провокацией |url=https://apostrophe.ua/news/politics/elections/2019-02-02/v-razumnoy-sile-nazvali-otkaz-v-registratsii-soloveva-na-post-prezidenta-provokatsiey/153294 |access-date=4 February 2019 |website=Апостроф |language=ru |archive-date=4 February 2019 |archive-url=https://web.archive.org/web/20190204014300/https://apostrophe.ua/news/politics/elections/2019-02-02/v-razumnoy-sile-nazvali-otkaz-v-registratsii-soloveva-na-post-prezidenta-provokatsiey/153294 |url-status=live }}</ref> After making corrections to his manifesto, he resubmitted documents and was registered.
+|}
+
+=== Candidates who withdrew ===
+*[[Andriy Sadovyi]]: Mayor of [[Lviv]]; his party [[Self Reliance (political party)|Self Reliance]] announced on 3 October 2018 that Sadovyi was its candidate in the election.<ref>[https://en.lb.ua/news/2018/10/03/6604_lviv_mayor_run_president.html Lviv mayor to run for president] {{Webarchive|url=https://web.archive.org/web/20181003221051/https://en.lb.ua/news/2018/10/03/6604_lviv_mayor_run_president.html |date=3 October 2018 }}, [[LB.ua]] (3 October 2018)</ref> The CEC registered Sadovyi as a candidate on 8 January.<ref name="UkrPravda7203244"/> In February Sadovyi talked about withdrawing his candidacy in favour of supporting [[Anatoliy Hrytsenko]] as a united candidate from "democratic, anti-corruption forces".<ref name="7208089Sav2">{{Cite web |script-title=ru:Садовый о возможной поддержке Гриценко: мы как никогда близки, чтобы дать Украине шанс на перезагрузку, но всему свое время |url=https://interfax.com.ua/news/election2019/569487.html |access-date=1 March 2019 |website=Интерфакс-Украина |date=March 2019 |language=ru |archive-date=1 March 2019 |archive-url=https://web.archive.org/web/20190301130509/https://interfax.com.ua/news/election2019/569487.html |url-status=live }}</ref> He made the decision to withdraw on 1 March and declared his support for Hrytsenko.<ref name="7208089Sav1"/>
+*[[Dmytro Gnap]]: Journalist;<ref>[https://www.unian.info/m/society/10165508-ukraine-s-investigative-journalist-gnap-quits-job-to-run-for-president-parliament.html Ukraine's investigative journalist Gnap quits job, to run for president], [[Ukrainian Independent Information Agency|UNIAN]] (26 June 2018)</ref> Gnap was nominated by the party [[Power of the People]] on 20 January,<ref>{{Cite web |script-title=ru:Партия "Сила людей" выдвинула своего кандидата в президенты |url=https://www.rbc.ua/rus/news/partiya-sila-lyudey-vydvinula-svoego-kandidata-1547996516.html |access-date=30 January 2019 |website=РБК-Украина |language=ru |archive-date=21 January 2019 |archive-url=https://web.archive.org/web/20190121064834/https://www.rbc.ua/rus/news/partiya-sila-lyudey-vydvinula-svoego-kandidata-1547996516.html |url-status=live }}</ref> and became a registered candidate on 8 February.<ref name=":8">{{Cite web |script-title=ru:Гнап и Соловьев стали последними кандидатами в президенты Украины |url=https://interfax.com.ua/news/political/564826.html |access-date=8 February 2019 |website=Интерфакс-Украина |date=8 February 2019 |language=ru |archive-date=8 February 2019 |archive-url=https://web.archive.org/web/20190208184828/https://interfax.com.ua/news/political/564826.html |url-status=live }}</ref> He withdrew from the election on 2 March, also in favor of Anatoliy Hrytsenko.<ref name="7208089Gnap">{{in lang|uk}} [https://www.pravda.com.ua/news/2019/03/1/7208089/ Gnap also withdraws from the elections in favor of Hritsenko] {{Webarchive|url=https://web.archive.org/web/20190329161832/https://www.pravda.com.ua/news/2019/03/1/7208089/ |date=29 March 2019 }}, [[Ukrainska Pravda]] (1 March 2019)</ref><ref>{{Cite web |script-title=ru:Партия "Сила людей" решила отозвать своего кандидата в президенты Украины |url=https://interfax.com.ua/news/election2019/569857.html |access-date=2 March 2019 |website=Интерфакс-Украина |date=2 March 2019 |language=ru |archive-date=2 March 2019 |archive-url=https://web.archive.org/web/20190302220649/https://interfax.com.ua/news/election2019/569857.html |url-status=live }}</ref>
+*Serhiy Krivonos: veteran of the [[War in Donbas]];<ref name="rferl.org"/> Krivonos was nominated by the party Soldiers of the [[Anti-Terrorist Operation Zone (Ukraine)|Anti-Terrorist Operation]] and subsequently registered by the CEC on 5 February.<ref name=":5"/> On 6 March he announced that he was withdrawing from the elections to support incumbent president Petro Poroshenko.<ref name=":9">{{Cite web |script-title=ru:Кандидат в президенты Украины Кривонос заявил, что снимает свою кандидатуру в пользу Порошенко |url=https://interfax.com.ua/news/election2019/570784.html |access-date=7 March 2019 |website=Интерфакс-Украина |date=6 March 2019 |language=ru |archive-date=7 March 2019 |archive-url=https://web.archive.org/web/20190307004250/https://interfax.com.ua/news/election2019/570784.html |url-status=live }}</ref>
+*[[Yevheniy Murayev]]: People's Deputy of Ukraine; on 10 January 2019, Murayev's party [[Nashi (political party)|Nashi]] nominated him for president.<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/10/7203454/ Murayev will run for president] {{Webarchive|url=https://web.archive.org/web/20190110192457/https://www.pravda.com.ua/news/2019/01/10/7203454/ |date=10 January 2019 }}, [[Ukrainska Pravda]] (10 January 2019)</ref> The CEC registered his candidacy on 15 January.<ref name="Hrytsenko7203864"/> On 7 March he pulled out of the election in favor of [[Oleksandr Vilkul]].<ref name="7208637Muraev"/> He also announced that Vilkul's [[Opposition Bloc - Party for Development and Peace|Opposition Bloc]] and Nashi would soon merge.<ref name="7208637Muraev">{{in lang|uk}} [https://www.pravda.com.ua/news/2019/03/7/7208637/ Muraev emerged from the elections in favor of Vilkul] {{Webarchive|url=https://web.archive.org/web/20190307204154/https://www.pravda.com.ua/news/2019/03/7/7208637/ |date=7 March 2019 }}, [[Ukrainska Pravda]] (7 March 2019)</ref>
+*[[Dmytro Dobrodomov]]: People's Deputy of Ukraine and leader of the {{interlanguage link|People's Control Party|uk|Громадський рух «Народний контроль»}} was a registered candidate since 25 January.{{citation needed|date=February 2020}} He withdrew from the election on 7 March in favor of Anatoliy Hrytsenko.<ref name="7208642candidate">{{in lang|uk}} [https://www.pravda.com.ua/news/2019/03/7/7208642/ Another candidate appeared in favor of Gritsenko] {{Webarchive|url=https://web.archive.org/web/20190307204515/https://www.pravda.com.ua/news/2019/03/7/7208642/ |date=7 March 2019 }}, [[Ukrainska Pravda]] (7 March 2019)</ref>
+
+===Registration denied===
+The CEC rejected 47 applications (mostly for failure to pay the deposit of ₴2.5 million) of potential candidates,<ref name="7206166UPCEC"/> including:
+
+*[[Petro Symonenko]]: Leader of the [[Communist Party of Ukraine]]. His nomination was announced at the party's congress on 1 December 2018.<ref>{{Cite news |work=Голос UA |title=Симоненко идет в Президенты: одобрена предвыборная программа кандидата |url=https://golos.ua/i/651091 |access-date=2 December 2018 |archive-date=2 December 2018 |archive-url=https://web.archive.org/web/20181202142426/https://golos.ua/i/651091 |url-status=live }}</ref> Legally the Communist Party of Ukraine is not banned, but the [[Ministry of Justice (Ukraine)|Ministry of Justice]] is allowed to prohibit it from participating in elections.{{citation needed|date=February 2020}} The CEC refused to register him as a candidate on 2 February because the statute, name, and symbolism of the Communist Party of Ukraine did not comply with [[Decommunization in Ukraine|2015 decommunization laws]].<ref name="7206166UPCEC"/>
+*[[Nadiya Savchenko]]: People's Deputy of Ukraine and Hero of Ukraine.<ref>[https://www.kyivpost.com/ukraine-politics/savchenko-intends-run-president-ukraine.html Savchenko intends to run for president of Ukraine] {{Webarchive|url=https://web.archive.org/web/20170817035742/https://www.kyivpost.com/ukraine-politics/savchenko-intends-run-president-ukraine.html |date=17 August 2017 }}, [[Kyiv Post]] (27 July 2017)</ref> Savchenko was nominated by her party on 26 January 2019.<ref>{{Cite web |title=Надежду Савченко выдвинули кандидатом в президенты от ее партии |url=https://www.rbc.ru/rbcfreenews/5c4c476e9a7947125843f19d |access-date=26 January 2019 |website=РБК |date=26 January 2019 |archive-date=27 January 2019 |archive-url=https://web.archive.org/web/20190127020831/https://www.rbc.ru/rbcfreenews/5c4c476e9a7947125843f19d |url-status=live }}</ref> Her bid to become a candidate was rejected by the CEC on 7 February because she failed to pay the deposit and her party didn't stamp the document regarding her nomination.<ref>{{Cite web |title=ЦИК отказала Н.Савченко и В.Олейнику в регистрации кандидатами на выборах президента |date=7 February 2019 |url=https://interfax.com.ua/news/election2019/564552.html |access-date=7 February 2019 |archive-date=7 February 2019 |archive-url=https://web.archive.org/web/20190207220633/https://interfax.com.ua/news/election2019/564552.html |url-status=live }}</ref>
+
+=== Potential candidates who declined to run ===
+*[[Andriy Biletsky]]: People's Deputy of Ukraine and leader of political party [[National Corps]]; nominated by his party on 20 November 2018.<ref>[https://www.unian.info/m/politics/10345083-no-unity-among-ukraine-nationalists-ahead-of-elections.html No unity among Ukraine nationalists ahead of elections], [[Ukrainian Independent Information Agency|UNIAN]] (20 November 2018)</ref> Biletsky later said that he had no intention of participating in the "farce" of a presidential election.<ref>{{Cite web |title=Biletsky has no intention to participate in presidential elections, will lead National Corps to parliament |date=26 January 2019 |url=https://en.interfax.com.ua/news/general/561552.html |access-date=27 January 2019 |archive-date=26 January 2019 |archive-url=https://web.archive.org/web/20190126232641/https://en.interfax.com.ua/news/general/561552.html |url-status=live }}</ref>
+*[[Vadim Rabinovich]]: People's Deputy of Ukraine and businessman.<ref name="nee"/> On 15 November 2018 Rabinovich announced he would not take part in the presidential election; but that he would top his party's [[Opposition Platform — For Life|For Life]] list in the following [[2019 Ukrainian parliamentary election]]s.<ref>[https://en.interfax.com.ua/news/general/545290.html For Life Party's leader Rabinovich not to run for president of Ukraine] {{Webarchive|url=https://web.archive.org/web/20181115195259/https://en.interfax.com.ua/news/general/545290.html |date=15 November 2018 }}, [[Interfax-Ukraine]] (15 November 2018)</ref>
+*[[Oleh Tyahnybok]]: Chairman of the party All-Ukrainian Union [[Freedom (political party)|Svoboda]]. On 14 October 2018, he announced that he would not be running for president and that the party had instead decided to nominate Koshulynskyi as the candidate of Ukraine's nationalist political forces.<ref name="Ukrainska Pravda"/>
+*[[Michel Tereshchenko]]: Tereshchenko stepped down as mayor of [[Hlukhiv]] on 1 October 2018 to become a candidate.<ref>[https://en.lb.ua/news/2018/10/01/6595_hlukhiv_mayor_steps_down_run.html Hlukhiv mayor steps down to run for president] {{Webarchive|url=https://web.archive.org/web/20181003220902/https://en.lb.ua/news/2018/10/01/6595_hlukhiv_mayor_steps_down_run.html |date=3 October 2018 }}, [[LB.ua]] (1 October 2018)</ref> Yet, during the November–30 December-day [[martial law in Ukraine]] he resumed his position as mayor and on 3 January 2019 declared his support for candidate [[Andriy Sadovyi]] during a congress of Sadovyi's party [[Self Reliance (political party)|Self Reliance]].<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/01/3/7202907/ Tereshchenko supported Sadovyi's candidacy for the presidency] {{Webarchive|url=https://web.archive.org/web/20190103210630/https://www.pravda.com.ua/news/2019/01/3/7202907/ |date=3 January 2019 }} by [[Ukrainska Pravda]] (3 January 2019)</ref>
+*[[Svyatoslav Vakarchuk]], lead vocalist of the rock band [[Okean Elzy]]. At the end of January 2019, Vakarchuk released a video in which he announced that he would not be running for president.<ref>{{Cite web |title=Ukrainian rock star Vakarchuk not to run for president in 2019 (Video) |url=https://www.unian.info/politics/10423830-ukrainian-rock-star-vakarchuk-not-to-run-for-president-in-2019-video.html |access-date=29 January 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |date=28 January 2019 |language=en |archive-date=29 January 2019 |archive-url=https://web.archive.org/web/20190129064101/https://www.unian.info/politics/10423830-ukrainian-rock-star-vakarchuk-not-to-run-for-president-in-2019-video.html |url-status=live }}</ref> Vakarchuk has said he does not back any of the candidates.<ref>{{Cite web |date=29 April 2019 |title=Musician Vakarchuk says he doesn't plan to back any Ukrainian presidential candidate |url=https://en.interfax.com.ua/news/general/562024.html |access-date=24 March 2019 |website=Interfax-Ukraine |archive-date=24 March 2019 |archive-url=https://web.archive.org/web/20190324193706/https://en.interfax.com.ua/news/general/562024.html |url-status=live }}</ref><ref>{{Cite web |date=22 March 2019 |title=Гриценко вважає, що Вакарчук має публічно висловити свою позицію на цих виборах |url=https://ua.interfax.com.ua/news/election2019/574720.html |access-date=24 March 2019 |website=Interfax Ukraine |archive-date=23 March 2019 |archive-url=https://web.archive.org/web/20190323134309/https://ua.interfax.com.ua/news/election2019/574720.html |url-status=live }}</ref> According to an early March 2019 poll by [[sociological group "RATING"]] 64% of the electorate would have liked to see Vakarchuk among the presidential candidates.<ref>{{in lang|uk}} [https://www.pravda.com.ua/news/2019/03/11/7208853/ 20% of Ukrainians would like Vakarchuk to go to the presidency] {{Webarchive|url=https://web.archive.org/web/20190327160208/https://www.pravda.com.ua/news/2019/03/11/7208853/ |date=27 March 2019 }}, [[Ukrainska Pravda]] (11 March 2019)</ref> On 27 March 2019, Vakarchuk posted a video on his Facebook page calling on Ukrainians to think seriously about voting, and not to vote "for a laugh"; this was met with a response by the campaign team of presidential candidate Volodymyr Zelenskyy, who Vakarchuk's comments appeared to be directed towards.<ref>{{Cite web |script-title=ru:Шутки закончились: у Зеленского ответили на призыв Вакарчука «голосовать не по приколу» |url=https://www.unian.net/elections/10495023-shutki-zakonchilis-u-zelenskogo-otvetili-na-prizyv-vakarchuka-golosovat-ne-po-prikolu.html |access-date=27 March 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |date=27 March 2019 |language=ru |archive-date=27 March 2019 |archive-url=https://web.archive.org/web/20190327190137/https://www.unian.net/elections/10495023-shutki-zakonchilis-u-zelenskogo-otvetili-na-prizyv-vakarchuka-golosovat-ne-po-prikolu.html |url-status=live }}</ref>
+*[[Mykhailo Dobkin]]: People's Deputy of Ukraine, former [[Kharkiv]] mayor and [[Governor of Kharkiv Oblast]].<ref>{{Cite news |date=20 December 2017 |script-title=ru:Добкин идет в президенты |language=ru |work=РИА Новости Украина |url=https://rian.com.ua/politics/20171220/1030633098/dobkin-idet-v-prezidenty.html |access-date=8 August 2018 |archive-date=10 July 2018 |archive-url=https://web.archive.org/web/20180710194810/https://rian.com.ua/politics/20171220/1030633098/dobkin-idet-v-prezidenty.html |url-status=live }}</ref><ref>{{Cite web |author=НАШ.МАКСІ-ТВ |title=Добкин: Наш парламент- это сборище по интересам, которое завело Украину в тупик. |url=https://www.youtube.com/watch?v=MhDvma4bwKE |access-date=30 January 2019 |website=YouTube |language=ru |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427233619/https://www.youtube.com/watch?v=MhDvma4bwKE&feature=youtu.be |url-status=live }}</ref>
+
+==Campaign==
+Analysis of candidates by the Ukrainian [[Non-governmental organization|NGO]] [[Civil movement "Chesno"|"Chesno"]] found that Poroshenko had the largest campaign fund ([[Ukrainian hryvnia|₴]]415 million, about $15.4 million), followed by [[Yulia Tymoshenko]] with ₴320 million, Zelenskyy with ₴102.8 million, and [[Serhiy Taruta]] with ₴98.4 million.<ref name="575624UPef2019"/> By comparison, in the [[2010 Ukrainian presidential election]], then winner [[Viktor Yanukovych]] spent over $40 million and runner-up Tymoshenko spent $36 million.<ref name="575624UPef2019">[https://en.interfax.com.ua/news/general/575624.html Poroshenko, Tymoshenko, Zelensky and Taruta have largest election funds - CHESNO movement] {{Webarchive|url=https://web.archive.org/web/20190326185938/https://en.interfax.com.ua/news/general/575624.html |date=26 March 2019 }}, [[Interfax-Ukraine]] (26 March 2019).</ref>
+
+During the 2019 Ukrainian presidential election, various Ukrainian television channels supported a candidate for President of Ukraine.<ref name="2019UkrainePresidentElectionTV">{{Cite news |last=Sorokin |first=Oleksiy |date=29 March 2019 |title=Oligarchs' TV channels give away owners' presidential choices |work=[[Kyiv Post]] |url=https://www.kyivpost.com/ukraine-politics/oligarchs-tv-channels-give-away-owners-presidential-choices.html |url-status=live |access-date=21 December 2019 |archive-url=https://archive.today/20191222010740/https://www.kyivpost.com/ukraine-politics/oligarchs-tv-channels-give-away-owners-presidential-choices.html |archive-date=22 December 2019}}</ref>
+
+Five groups supported Poroshenko:
+* [[Petro Poroshenko]]'s [[5 Kanal (Ukraine)|Channel 5]] and [[Pryamiy kanal|Pryamiy]] supported Poroshenko and were very critical of [[Volodymyr Zelenskyy]] and [[Yulia Tymoshenko]].
+* [[Dmytro Firtash]]'s very powerful [[Inter (TV channel)|Inter]] supported [[Yuriy Boyko]] and Poroshenko.
+* [[Rinat Akhmetov]]'s [[Ukraine (TV channel)|TRK Ukraina]], which is owned by Akhmetov's [[SCM Holdings|System Capital Management Holdings]], supported Poroshenko, [[Oleh Liashko]], and [[Oleksandr Vilkul]]. Akhmetov's [[Opposition Bloc]] nominated Vilkul.
+* Pro-Russia [[Viktor Medvedchuk]]'s [[112 Ukraine|Channel 112]] and [[:uk:NewsOne|NewsOne]] supported Poroshenko, Liashko, and Boyko. Medvedchuk's [[Opposition Platform — For Life]] nominated Boyko. The godfather of Medvedchuk's daughter is [[Vladimir Putin]].
+* [[Petro Dyminskyi]]'s [[:uk:ZIK (телеканал)|ZIK]] supported Poroshenko's allies allowing them to explain their story while they were under investigation.
+
+Three TV groups were very critical of Poroshenko:
+* [[Ihor Kolomoisky]]'s [[1+1 (TV channel)|1+1]] media group supported [[Volodymyr Zelenskyy]]. Zelenskyy worked for Kolomoisky's channel. According to an analysis by Ukrainian [[NGO]] {{ill|Detektor Media|uk|Детектор медіа}} by September 2020 1+1 was not supporting (if not hostile to) Zelenskyy and his [[Servant of the People party]].<ref name="pravda.com.u7267718"/> Detektor Media claimed it was instead promoting [[For the Future (political party)|For the Future]].<ref name="pravda.com.u7267718">{{in lang|uk}} [https://www.pravda.com.ua/news/2020/09/25/7267718/ Zelensky's team does not have completely loyal media and systematic PR - monitoring], [[Ukrainska Pravda]] (25 September 2020)</ref>
+* [[Andriy Sadovyi]]'s [[:uk:24 (телеканал)|Channel 24]], supported [[Anatoliy Hrytsenko]] and opposed Poroshenko.
+* Pro-Russia [[Yevheniy Murayev]]'s [[:uk:НАШ|Nash TV]] supported pro-Russia Vilkul and was against Poroshenko but neutral to Tymoshenko and Liashko.
+
+Under the state-owned [[UA:PBC|National Public Broadcasting Company]], [[UA:First|UA:Pershyi]] was critical of Poroshenko.
+
+[[Victor Pinchuk]]'s [[ICTV (Ukraine)|ICTV]], [[Novyi Kanal]] and [[STB (TV channel)|STB]] were neutral.
+
+=== Debates ===
+
+==== "not DEBATES" ====
+As a part election coverage, private Ukrainian TV channel [[ZIK]] decided to create a series of debates from 19 February until 28 March  day every week. The channel broadcast a total of 7 episodes with 29 out of 30 invited candidates.
+
+==== "Espreso: Debates" ====
+As a part election coverage, private Ukrainian TV channel [[Espreso TV]] decided to create a series of debates from 1 March until election day every week. The channel broadcast a total of 5 episodes with 11 out of 12 invited candidates.
+
+==== "The Countdown" ====
+[[Suspilne|UA:PBC]] organized a series of debates as a part of political talk show "The Countdown", where they invited 18 top rated candidates according to various polls. According to the format, each episode intended to have 3 candidates and a panel of experts, journalist and fact checkers to oppose the candidates. There total 6 episode, with only 11 out of 18 candidates attending the debates.
+
+==== Debate at [[Olimpiyskiy National Sports Complex|Olimpiyskyi Stadium]] ====
+On 31 March, after the announcement of the results of the exit polls of the first round of the presidential elections of Ukraine, Poroshenko invited Zelenskyy to a public open debate. On 3 April Zelenskyy put forward a proposal for an exclusive public debate at the stadium, on which Poroshenko agreed. Poroshenko proposed to hold a debate at the stadium on Sunday, 14 April in order to hold a debate on 19 April on UA:PBC. Zelenskyy refused and Poroshenko held a press conference in front of voters and journalists alone. At 19:00 on 19 April, as previously agreed, the debate between Poroshenko and Zelenskyy began at [[Olimpiyskiy National Sports Complex|Olimpiyskyi Stadium]].
+
+The debate on 19 April was moderated by [[Andriy Kulykov]], a full time broadcaster for [[Hromadske Radio]], and [[Olena Frolyak]], the longtime presenter of the nightly news program ''Facts'' on [[ICTV (Ukraine)|ICTV]].<ref>{{Cite web |date=2019-04-19 |title=The Final Showdown: Zelenskiy and Poroshenko Meet in Presidential Debate |url=https://hromadske.ua/en/posts/the-final-showdown-zelenskiy-and-poroshenko-meet-in-presidential-debate-live-updates |access-date=2025-06-16 |website=hromadske |language=en}}</ref><ref>{{Cite web |date=2019-04-19 |title=Дебати на "Олімпійському" на сцені Зеленського вестиме Олена Фроляк |url=https://www.ukrinform.ua/rubric-elections/2684532-debati-na-olimpijskomu-na-sceni-zelenskogo-vestime-olena-frolak.html |access-date=2025-06-16 |website=www.ukrinform.ua |language=uk}}</ref> Kulykov had formerly been a presenter of his own show on ICTV, [[The Freedom of Speech (ICTV)|''The Freedom of Speech'']], but had left the station in 2016 to work full time in radio. Frolyak coincidentally celebrated her birthday on 19 April and had to cancel vacation plans the night before when she was selected to moderate the debate. After the broadcast of the debate ended, Zelenskyy walked up to the microphone and said to the crowd: "The broadcast is over. Well? It's her birthday today! Congratulate her!" Zelenskyy then led the entire stadium to sing a [[Mnohaya lita|Ukrainian version of happy birthday]] to Olena Frolyak.<ref>{{Cite web |date=2021-12-01 |title="Сделал меня, как девочку": ведущая Елена Фроляк вспомнила, как вела дебаты Владимира Зеленского и рассказала о депутате с самым тяжелым характером |url=https://grosi.znaj.ua/ru/409907-veducha-olena-frolyak-prigadala-yak-vela-debati-volodimira-zelenskogo-i-rozpovila-pro-deputata-z-nayvazhchim-harakterom-zrobiv-mene-yak-divchinku |access-date=2025-06-16 |website=znaj.ua |language=ru}}</ref><ref>{{Cite AV media |url=https://www.youtube.com/watch?v=h4-vA9SkF2k |title=20 лет в эфире с Еленой Фроляк {{!}} Документальный фильм {{!}} Факты ICTV |date=2020-09-17 |last=Факти ICTV |access-date=2025-06-16 |via=YouTube}}</ref>
+
+==== National debate ====
+The same day, 19 April, UA:PBC also held a final official debate commissioned by the [[Central Election Commission (Ukraine)|Central Electoral Commission]] in the UA:PBC studio. Zelenskyy refused to attend the debate, leaving Poroshenko alone in the studio. 
+{| class="wikitable" style="font-size:85%; line-height:15px; text-align:center;"
+! colspan="37" |2019 Ukrainian presidential election debates
+|-
+! rowspan="3" |Date
+! rowspan="3" |Organisers
+! colspan="34" |{{Colors|black|#9EFF9E|&nbsp;P&nbsp;}} Present &nbsp; {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} Invitee&nbsp;{{Colors|black|#FFE3E3|&nbsp;N&nbsp;}} Non-invitee&nbsp;
+! rowspan="3" |Refs
+|- style="font-size:small;"
+! {{vert header|[[Ihor Shevchenko]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Serhiy Kaplin]]<br><small>SDP</small>}}
+! {{vert header|[[Vitaliy Skotsyk]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Andriy Sadovyi]]<br><small>[[Self Reliance (political party)|Samopomich]]</small>}}
+! {{vert header|[[Valentyn Nalyvaichenko]]<br><small>{{ill|Spravedlyvist|uk|Громадсько-політичний рух Валентина Наливайченка «Справедливість»}}</small>}}
+! {{vert header|[[Anatoliy Hrytsenko]]<br><small>[[Civil Position|HP]]</small>}}
+! {{vert header|Vitalii Kuprii<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Yevhen Murayev]]<br><small>[[Nashi (political party)|Nashi]]</small>}}
+! {{vert header|[[Olha Bohomolets]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Hennadiy Balashov]]<br><small>[[5.10]]</small>}}
+! {{vert header|[[Roman Nasirov]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Yuriy Boyko]]<br><small>[[Independent politician|Independent]]</small>}}{{efn|De jure independent, however on 17 November 2018, [[Opposition Platform – For Life]] nominated Boiko for the presidency, but because OPZZh was not yet registered as a party in January 2019 it could not officially nominate him as its candidate.}}
+! {{vert header|[[Yulia Tymoshenko]]<br><small>[[Batkivshchyna]]</small>}}
+! {{vert header|[[Oleh Liashko]]<br><small>[[Radical Party of Oleh Liashko|RPOL]]</small>}}
+! {{vert header|[[Oleksandr Vilkul]]<br><small>[[Opposition Bloc (2019)|OBPPD]]</small>}}
+! {{vert header|[[Oleksandr Moroz]]<br><small>SPOM</small>}}
+! {{vert header|[[Arkadiy Kornatskiy]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Ruslan Koshulynskyi]]<br><small>[[Svoboda (political party)|Svoboda]]</small>}}
+! {{vert header|[[Oleksandr Danylyuk (lawyer)|Oleksandr Danylyuk]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Serhiy Taruta|Serhii Taruta]]<br><small>[[Osnova (political party)|Osnova]]</small>}}
+! {{vert header|[[Volodymyr Zelenskyy]]<br><small>[[Servant of the People|SN]]</small>}}
+! {{vert header|[[Inna Bohoslovska]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Ihor Smeshko]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Yuriy Derevyanko]]<br><small>[[Liberty (political party)|Volia]]</small>}}
+! {{vert header|[[Roman Bezsmertnyi]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Viktor Bondar]]<br><small>[[Revival (Ukraine)|Vidrodzhennia]]</small>}}
+! {{vert header|[[Viktor Kryvenko]]<br><small>[[People's Movement of Ukraine|NRU]]</small>}}
+! {{vert header|Serhii Nosenko<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|Andrii Novak<br><small>Patriot</small>}}
+! {{vert header|[[Yurii Karmazin]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Yulia Lytvynenko]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|Volodymyr Petrov<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Petro Poroshenko]]<br><small>[[Independent politician|Independent]]</small>}}
+! {{vert header|[[Dmytro Hnap]]<br><small>[[Power of the People|SL]]</small>}}
+|-
+! style="background:{{party color|Independent politician}}" |
+! style="background:#E8442E" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:{{party color|Self Reliance (political party)}}" |
+! style="background:#BA3525" |
+! style="background:{{party color|Civil Position}}" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:{{party color|Nashi (political party)}}" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:{{party color|5.10}}" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:{{party color|Opposition Platform — For Life}}" |
+! style="background:{{party color|Batkivshchyna}}" |
+! style="background:{{party color|Radical Party of Oleh Liashko}}" |
+! style="background:{{party color|Opposition Bloc (2019)}}" |
+! style="background:#ED4B71" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:{{party color|Svoboda (political party)}}" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:#ED4857" |
+! style="background:{{party color|Servant of the People}}" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:#fce600" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:{{party color|Revival (Ukraine)}}" |
+! style="background:{{party color|People's Movement of Ukraine}}" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:#3961AF" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:{{party color|Independent politician}}" |
+! style="background:#631D3F" |
+! style="background:{{party color|Power of the People}}" |
+|-
+|19 February
+|[[ZIK]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=19 February 2019 |title=не ДЕБАТИ - Безсмертний - Насіров - Кривенко - Мураев |language=uk |work=ZIK |url=https://www.facebook.com/watch/live/?ref=watch_permalink&v=397594157485004}}</ref>
+|-
+|26 February
+|[[ZIK]]
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+|<ref>{{cite news |date=26 February 2019 |title=не ДЕБАТИ - Інна Богословська, Дмитро Гнап, Ігор Смешко, Ігор Шевченко |language=uk |work=ZIK |url=https://www.facebook.com/watch/live/?ref=watch_permalink&v=2028727993915728}}</ref>
+|-
+|1 March
+|[[Espreso TV]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}{{efn|Initially agreed to take part, but after Sadovyi announced his candidacy withdrawal, decided to not take part in the debate.}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=1 March 2019 |title=Еспресо: Дебати Андрій Садовий |language=uk |work=Еспресо ТВ |url=https://www.youtube.com/watch?v=pRgN2Rf5v3A |access-date=8 October 2023 |archive-date=1 January 2024 |archive-url=https://web.archive.org/web/20240101070223/https://www.youtube.com/watch?v=pRgN2Rf5v3A |url-status=live }}</ref>
+|-
+|5 March
+|[[ZIK]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=5 March 2019 |title=не ДЕБАТИ - Купрій - Балашов - Новак - Литвиненко |language=uk |work=ZIK |url=https://www.facebook.com/watch/live/?ref=watch_permalink&v=780614112331347}}</ref>
+|-
+|8 March
+|[[Espreso TV]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=8 March 2019 |title=Еспресо: Дебати Юрій Дерев'янко та Валентин Наливайченко |language=uk |work=Еспресо ТВ |url=https://www.youtube.com/watch?v=ZR5ITsUBt1o |access-date=8 October 2023 |archive-date=6 January 2024 |archive-url=https://web.archive.org/web/20240106130506/https://www.youtube.com/watch?v=ZR5ITsUBt1o |url-status=live }}</ref>
+|-
+|12 March
+|[[ZIK]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=12 March 2019 |title=не ДЕБАТИ - Ольга Богомолець, Віктор Бондар, Юрій Дерев'янко, Аркадий Корнацкий |language=uk |work=ZIK |url=https://www.facebook.com/watch/live/?ref=watch_permalink&v=2219760808238005}}</ref>
+|-
+|15 March
+|[[Espreso TV]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=15 March 2019 |title=Еспресо: Дебати Інна Богословська та Віталій Купрій |language=uk |work=Еспресо ТВ |url=https://www.youtube.com/watch?v=e-m_w_N-jOk}}</ref>
+|-
+|{{nowrap|18 March}}
+|[[Suspilne|UA:PBC]]
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}{{efn|Initially agreed to take part in the debate, but 3 hours prior to the debate he refused to do so.}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref name="UA:Перший">{{cite news |date=18 March 2019 |title=(English) Зворотний відлік. Випуск 1. Сергій Каплін, Інна Богословська, Олександр Мороз |language=en |work=UA:Перший |url=https://www.youtube.com/live/ASILUJVbry4?si=fqgRUiCxDYjUMgdv |access-date=29 September 2023 |archive-date=8 October 2023 |archive-url=https://web.archive.org/web/20231008185523/https://www.youtube.com/live/ASILUJVbry4?si=fqgRUiCxDYjUMgdv |url-status=live }}</ref>
+|-
+|19 March
+|[[ZIK]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=19 March 2019 |title=не ДЕБАТИ - Юрій Кармазін - Олександр Данилюк - Олександр Мороз - Віталій Скоцик |language=uk |work=ZIK |url=https://www.facebook.com/watch/live/?ref=watch_permalink&v=437966003619369}}</ref>
+|-
+|{{nowrap|20 March}}
+|[[Suspilne|UA:PBC]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=20 March 2019 |title=(English) Зворотний відлік. Випуск 2. Роман Безсмертний, Геннадій Балашов, Валентин Наливайченко |language=en |work=UA:Перший |url=https://www.youtube.com/live/OUokoINK6pc?si=YiVyyoMOogjyYMCK |access-date=29 September 2023 |archive-date=8 October 2023 |archive-url=https://web.archive.org/web/20231008185523/https://www.youtube.com/live/OUokoINK6pc?si=YiVyyoMOogjyYMCK |url-status=live }}</ref>
+|-
+|22 March
+|[[Espreso TV]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=22 March 2019 |title=Еспресо: Дебати Геннадій Балашов, Роман Безсмертний та Олександр Данилюк |language=uk |work=Еспресо ТВ |url=https://www.youtube.com/watch?v=AwZTiSxGGIw |access-date=8 October 2023 |archive-date=23 January 2024 |archive-url=https://web.archive.org/web/20240123153606/https://www.youtube.com/watch?v=AwZTiSxGGIw |url-status=live }}</ref>
+|-
+|{{nowrap|22 March}}
+|[[Suspilne|UA:PBC]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}{{efn|Initially invited, however, on 16 March 2019 he withdrew his candidacy in favour of Yulia Tymoshenko, proceeding to not take part in the debate.}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=22 March 2019 |title=(English) Зворотний відлік. Випуск 3. Руслан Кошулинський, Ольга Богомолець |language=en |work=UA:Перший |url=https://www.youtube.com/live/xE3gZDI0-CQ?si=7rIRCBLmXWwbmxo8}}</ref>
+|-
+|{{nowrap|25 March}}
+|[[Suspilne|UA:PBC]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}{{efn|Was invited, but refused to take part.}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=25 March 2019 |title=(English) Зворотний відлік. Випуск 4. Олександр Вілкул, Ігор Смешко, Аркадій Корнацький |language=en |work=UA:Перший |url=https://www.youtube.com/live/hR48qld7ceM?si=015-2d7Lsf9Muf6r}}</ref>
+|-
+|26 March
+|[[ZIK]]
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}{{efn|Initially agreed to take part in the debate, but in the end, he didn't.}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=26 March 2019 |title=не ДЕБАТИ - Руслан Кошулинський, Сергій Носенко, Володимир Петров |language=uk |work=ZIK |url=https://www.facebook.com/watch/live/?ref=watch_permalink&v=297992537771372}}</ref>
+|-
+|{{nowrap|27 March}}
+|[[Suspilne|UA:PBC]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}{{efn|Was invited, but refused to take part due to the biased editorial policy of the public broadcaster and the fact of censorship.<ref name="stv.detector.media">{{cite web | url=https://stv.detector.media/inshe/read/4715/2019-03-28-boyko-ta-lyashko-poyasnyly-chomu-ne-pryyshly-na-zvorotnyy-vidlik/ | title=Бойко та Ляшко пояснили, чому не прийшли на "Зворотний відлік" | date=28 March 2019 | access-date=29 September 2023 | archive-date=8 October 2023 | archive-url=https://web.archive.org/web/20231008185524/https://stv.detector.media/inshe/read/4715/2019-03-28-boyko-ta-lyashko-poyasnyly-chomu-ne-pryyshly-na-zvorotnyy-vidlik/ | url-status=live }}</ref>}}
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}{{efn|Was invited, but refused to take part due to the fact that UA:Pershyi debates won't be watched by anyone, due to the unpopularity of the channel.<ref name="stv.detector.media"/>}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=29 March 2019 |title=(English) Зворотний відлік. Випуск 6. Петро Порошенко, Юлія Тимошенко, Володимир Зеленський |language=en |work=UA:Перший |url=https://www.youtube.com/live/5d62cXk3UcQ?si=7eCeJVbpb0FmvYfK |access-date=29 September 2023 |archive-date=8 October 2023 |archive-url=https://web.archive.org/web/20231008185524/https://www.youtube.com/live/5d62cXk3UcQ?si=7eCeJVbpb0FmvYfK |url-status=live }}</ref>
+|-
+|28 March
+|[[ZIK]]
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=28 March 2019 |title=не ДЕБАТИ - Роман Безсмертний, Инна Богословская, Віталій Купрій, Юрій Дерев'янко, Сергій Каплін, Геннадий Балашов |language=uk |work=ZIK |url=https://www.facebook.com/watch/live/?ref=watch_permalink&v=278533119736110}}</ref>
+|-
+|29 March
+|[[Espreso TV]]
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=29 March 2019 |title=Еспресо: Дебати Руслан Кошулинський, Віктор Кривенко та Ігор Шевченко |language=uk |work=Еспресо ТВ |url=https://www.youtube.com/watch?v=3GxL6Zojm30 |access-date=8 October 2023 |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104232131/https://www.youtube.com/watch?v=3GxL6Zojm30 |url-status=live }}</ref>
+|-
+|{{nowrap|29 March}}
+|[[Suspilne|UA:PBC]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}{{efn|Attended, but left the debate a few minutes later, explaining that she came only to debate Zelensky and Poroshenko, declining to answer the questions of experts in the studio.}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}{{efn|Was invited, but refused to take part due to meeting with electors. However, journalist Nataliia Sokolenko pointed out that Zelensky had a concert with his [[Kvartal 95 Studio|Kvartal 95]] in [[Brovary]] the same day.}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}{{efn|Was invited, but refused to take part without any explanation.}}
+| {{D-N|'''N'''}}
+|<ref name="UA:Перший"/>
+|-
+|{{nowrap|19 April}}{{efn|Non-official debate organized by UA:PBC on [[Olimpiyskiy National Sports Complex]].}}
+|[[Suspilne|UA:PBC]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=19 April 2019 |title=Зворотний відлік. Зустріч кандидатів на НСК "Олімпійський" - English |language=en |work=UA:Перший |url=https://www.youtube.com/live/ANFgdjGs7Y8?si=PwjjpPl8i25LVNQy |access-date=29 September 2023 |archive-date=8 October 2023 |archive-url=https://web.archive.org/web/20231008185526/https://www.youtube.com/live/ANFgdjGs7Y8?si=PwjjpPl8i25LVNQy |url-status=live }}</ref>
+|-
+|{{nowrap|19 April}}{{efn|Official debate organized by UA:PBC and commissioned by the [[Central Election Commission (Ukraine)|TsVK]].}}
+|[[Suspilne|UA:PBC]]
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-I|'''I'''}}{{efn|Was invited, but refused to take part.}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-N|'''N'''}}
+| {{D-P|'''P'''}}
+| {{D-N|'''N'''}}
+|<ref>{{cite news |date=19 April 2019 |title=Національні дебати - English |language=en |work=UA:Перший |url=https://www.youtube.com/live/yjrME0RrJMs?si=FUxVyZ7AuxYf8zTy |access-date=29 September 2023 |archive-date=8 October 2023 |archive-url=https://web.archive.org/web/20231008185524/https://www.youtube.com/live/yjrME0RrJMs?si=FUxVyZ7AuxYf8zTy |url-status=live }}</ref>
+|}
+
+==Endorsements==
+
+{| class="wikitable nowrap"
+|+ Endorsements from first-round candidates
+! colspan="2" | First-round candidate
+! First round
+! colspan="2" | Endorsement
+! {{Refh}}
+|-
+| {{Party color cell|Batkivshchyna}}
+| [[Yulia Tymoshenko]]
+| 13.56%
+| colspan="2"; | No endorsement
+| <ref name=":12">{{Cite web |title=Ставки зроблено. Кого непрохідні кандидати підтримують у другому турі |url=https://www.chesno.org/post/4029/ |access-date=2026-04-02 |website=www.chesno.org |language=uk}}</ref>
+|-
+| {{Party color cell|Opposition Platform — For Life}}
+| [[Yuriy Boyko]]
+| 11.82%
+| colspan="2"; | No endorsement
+|
+|-
+| {{Party color cell|Civil Position}}
+| [[Anatoliy Hrytsenko]]
+| 7.00%
+| style="background-color: #AEEBB7;" |
+| Against [[Petro Poroshenko|Poroshenko]]
+| <ref>{{Cite web |date=2019-03-31 |title=Гриценко: У другому турі за жодних умов не підтримаю Порошенка |url=https://tsn.ua/ukrayina/gricenko-u-drugomu-turi-za-zhodnih-umov-ne-pidtrimayu-poroshenka-1321260.html |access-date=2026-04-02 |website=ТСН.ua |language=uk}}</ref>
+|-
+| {{Party color cell|Independent}}
+| [[Ihor Smeshko]]
+| 6.11%
+| style="background-color: #AEEBB7;" |
+| Against [[Petro Poroshenko|Poroshenko]]
+| <ref>{{Cite web |date=2019-04-03 |title=Смешко: Порошенка в другому турі не підтримаю, Зеленського знаю лише як актора |url=https://hromadske.ua/posts/smeshko-poroshenka-v-drugomu-turi-ne-pidtrimuvatimu-zelenskogo-znayu-lishe-yak-aktora |access-date=2026-04-02 |website=hromadske |language=uk}}</ref>
+|-
+| {{Party color cell|Radical Party of Oleh Liashko}}
+| [[Oleh Liashko]]
+| 5.55%
+| colspan="2"; | No endorsement
+| <ref>{{Cite web |date=2019-04-09 |title=Ляшко, який набрав 5%, в другому турі нікого не підтримує |url=https://www.pravda.com.ua/news/2019/04/09/7211709/ |access-date=2026-04-02 |website=[[Ukrainska Pravda]] |language=uk}}</ref>
+|-
+| {{Party color cell|Opposition Bloc (2019)}}
+| [[Oleksandr Vilkul]]
+| 4.20%
+| style="background-color: #AEEBB7;" |
+| Against [[Petro Poroshenko|Poroshenko]]
+|<ref>{{Cite web |title=Вілкул: Порошенко має піти |url=https://gordonua.com/ukr/news/politics/vilkul-poroshenko-povinen-piti-854958.html |access-date=2026-04-02 |website=Гордон {{!}} Gordon |date=April 2019 |language=uk}}</ref>
+|-
+| {{Party color cell|Svoboda (political party)}}
+| [[Ruslan Koshulynskyi]]
+| 1.65%
+| colspan="2"; | No endorsement
+| 
+|-
+| {{Party color cell|Independent}}
+| [[Yurii Tymoshenko|Yuriy Tymoshenko]]
+| 0.63%
+| colspan="2"; | No endorsement
+| 
+|-
+| {{Party color cell|UKROP}}
+| [[Oleksandr Shevchenko (politician, born 1971)|Oleksandr Shevchenko]]
+| 0.58%
+| {{Party color cell|Servant of the People}}
+| [[Volodymyr Zelenskyy]]
+| <ref>{{Cite web |title=Кандидат Олександр Шевченко підтримав Зеленського |url=https://www.chesno.org/post/1045/ |access-date=2026-04-02 |website=www.chesno.org |language=uk}}</ref>
+|-
+| style="background-color: #A81C07;" |
+| [[Valentyn Nalyvaichenko]]
+| 0.23%
+| style="background-color: #AEEBB7;" |
+| Against [[Petro Poroshenko|Poroshenko]]
+| <ref>{{cite news |date=17 April 2019 |title=Іронія долі! |language=uk |work=Валентин Наливайченко |url=https://www.facebook.com/share/p/1CaqPqtSsx/}}</ref>
+|-
+| {{Party color cell|Independent}}
+| [[Olha Bohomolets]]
+| 0.18%
+| colspan="2"; | No endorsement
+| 
+|-
+| {{Party color cell|5.10}}
+| [[Hennadiy Balashov]]
+| 0.18%
+| colspan="2"; | No endorsement
+| <ref>{{cite news |date=17 April 2019 |title=Партия 5.10 не будет голосовать ни за Зеленского, ни за Порошенко, они оба не достойны быть Президентом Украины. |language=ru |work=Геннадий Балашов |url=https://www.facebook.com/share/p/1Hp8vM8FV4/}}</ref>
+|-
+| {{Party color cell|Independent}}
+| [[Roman Bezsmertnyi]]
+| 0.15%
+| colspan="2"; | No endorsement
+| <ref>{{cite news |date=16 April 2019 |title=Серед них немає кандидата, за якого я готовий буду голосувати 21 квітня. |language=uk |work=Роман Безсмертний |url=https://www.facebook.com/share/p/1AmjaRkvYC/}}</ref>
+|-
+| {{Party color cell|Revival (Ukraine)}}
+| [[Viktor Bondar]]
+| 0.12%
+| {{Party color cell|Servant of the People}}
+| [[Volodymyr Zelenskyy]]
+| <ref>{{cite news |date=2 April 2019 |title=Дорогі мої друзі! |language=uk |work=Віктор Бондар - Виктор Бондарь - Viktor Bondar |url=https://www.facebook.com/share/p/1Cas9UDpav/}}</ref>
+|-
+| {{Party color cell|Independent}}
+| [[Yulia Lytvynenko]]
+| 0.11%
+| colspan="2"; | No endorsement
+| <ref name=":12" />
+|-
+| {{Party color cell|Liberty (political party)}}
+| [[Yuriy Derevyanko]]
+| 0.10%
+| colspan="2"; | No endorsement
+| 
+|-
+| {{Party color cell|Osnova (political party)}}
+| [[Serhiy Taruta]]
+| 0.10%
+| style="background-color: #AEEBB7;" |
+| Against [[Petro Poroshenko|Poroshenko]]{{efn|However, Taruta also added that he will vote for Zelenskyy, but refused to publicly endorse him.}}
+| <ref>{{Cite web |title=Тарута закликав голосувати проти "абсолютного зла" Порошенка |url=https://www.pravda.com.ua/news/2019/04/03/7211146/ |access-date=2026-04-03 |website=Українська правда |language=uk}}</ref>
+|-
+| {{Party color cell|Independent}}
+| [[Ihor Shevchenko]]
+| 0.10%
+| {{Party color cell|Servant of the People}}
+| [[Volodymyr Zelenskyy]]
+| <ref>{{cite news |date=20 April 2019 |title=Шановні друзі, Зе наш майбутній президент! |language=uk |work=Ihor Shevchenko |url=https://www.facebook.com/share/p/18UKLRc8cR/}}</ref>
+|-
+| {{Party color cell|Independent}}
+| [[Inna Bohoslovska]]
+| 0.10%
+| {{Party color cell|Servant of the People}}
+| [[Volodymyr Zelenskyy]]
+| <ref>{{cite news |date=19 April 2019 |title=ВСЕ НА ВИБОРИ! ПРОТИ ПОРОШЕНКА! ЗА Зеленський !! |language=uk |work=Iнна Богословська |url=https://www.facebook.com/share/p/1833LnAQM3/}}</ref>
+|-
+| {{Party color cell|Independent}}
+| [[Yurii Karmazin]]
+| 0.09%
+| colspan="2"; | No endorsement
+|
+|-
+| {{Party color cell|Independent}}
+| [[Volodymyr Petrov]]
+| 0.08%
+| colspan="2"; | No endorsement
+|
+|-
+| {{Party color cell|Independent}}
+| [[Vitaliy Skotsyk]]
+| 0.08%
+| {{Party color cell|Servant of the People}}
+| [[Volodymyr Zelenskyy]]
+| <ref>{{Cite web |date=2019-03-29 |title= Кандидат у президенти Віталій Скоцик заявив про підтримку Зеленського у другому турі |url=https://tsn.ua/politika/kandidat-u-prezidenti-viktor-skocik-zayaviv-pro-pidtrimku-zelenskogo-u-drugomu-turi-1319889.html |website=ТСН.ua |language=uk}}</ref>
+|-
+| style="background-color: #ED2939;" |
+| [[Serhiy Kaplin]]
+| 0.08%
+| colspan="2"; | Against both
+| <ref name=":12" />
+|-
+| style="background-color: #E21675;" |
+| [[Oleksandr Moroz]]
+| 0.07%
+| colspan="2"; | No endorsement
+| 
+|-
+| {{Party color cell|People's Movement of Ukraine}}
+| [[Viktor Kryvenko]]
+| 0.05%
+| {{Party color cell|Petro Poroshenko Bloc "Solidarity"}}
+| [[Petro Poroshenko]]{{efn|Kryvenko personally did not endorse anyone, instead saying that he awaits for the party congress decision.<ref name=":12" />}}
+| <ref>{{Cite web |title=Народний рух України підтримав Петра Порошенка |url=https://portal.lviv.ua/news/2019/04/13/narodnyj-ruh-ukrayiny-pidtrymav-petra-poroshenka |access-date=2026-04-03 |website=portal.lviv.ua |language=uk}}</ref>
+|-
+| style="background-color: #085492;" |
+| {{ill|Vasyl Zhuravlyov|uk|Журавльов Василь Миколайович (політик)}}
+| 0.05%
+| colspan="2"; | No endorsement
+| 
+|-
+| {{Party color cell|Socialist Party of Ukraine}}
+| [[Illia Kyva]]
+| 0.03%
+| style="background-color: #AEEBB7;" |
+| Against [[Petro Poroshenko|Poroshenko]]
+| <ref name=":12" />
+|-
+| style="background-color: #0000FF;" |
+| {{ill|Andriy Novak (politician)|uk|Новак Андрій Яремович|lt=Andriy Novak}}
+| 0.03%
+| colspan="2"; | No endorsement
+| <ref name=":12" />
+|-
+| {{Party color cell|Independent}}
+| {{ill|Oleksandr Vashchenko|uk|Ващенко Олександр Михайлович}}
+| 0.03%
+| colspan="2"; | No endorsement
+|
+|-
+| {{Party color cell|Independent}}
+| {{ill|Mykola Haber|uk|Габер Микола Олександрович}}
+| 0.03%
+| {{Party color cell|Servant of the People}}
+| [[Volodymyr Zelenskyy]]
+| <ref name=":12" />
+|-
+| {{Party color cell|Reasonable Force (political party)}}
+| {{ill|Oleksandr Solovyev|uk|Соловйов Олександр Миколайович}}
+| 0.03%
+| colspan="2"; | No endorsement
+|
+|-
+| {{Party color cell|Independent}}
+| {{ill|Ruslan Rygovanov|uk|Ригованов Руслан Олександрович}}
+| 0.03%
+| colspan="2"; | No endorsement
+|
+|-
+| {{Party color cell|Independent}}
+| [[Oleksandr Danylyuk (lawyer)|Oleksandr Danylyuk]]
+| 0.02%
+| {{Party color cell|Petro Poroshenko Bloc "Solidarity"}}
+| [[Petro Poroshenko]]
+| <ref name=":12" />
+|-
+| {{Party color cell|Independent}}
+| {{ill|Vitalii Kuprii|uk|Купрій Віталій Миколайович}}
+| 0.02%
+| {{Party color cell|Servant of the People}}
+| [[Volodymyr Zelenskyy]]
+| <ref>{{cite news |date=1 April 2019 |title=Вважаю за необхідне підтримати Володимира Зеленського щоб завершити заплановане - арештувати Порошенка і його банду, конфіскувати награбоване у народу майно! |language=uk |work=Віталій Купрій |url=https://www.facebook.com/kupriyofficial/photos/a.828167324016976/1228567850643586/?type=3&theater}}</ref>
+|-
+| {{Party color cell|Independent}}
+| [[Arkadiy Kornatskiy]]
+| 0.02%
+| {{Party color cell|Servant of the People}}
+| [[Volodymyr Zelenskyy]]
+| <ref name=":12" />
+|-
+| {{Party color cell|Independent}}
+| {{ill|Serhiy Nosenko|uk|Носенко Сергій Михайлович}}
+| 0.02%
+| colspan="2"; | No endorsement
+|
+|-
+| {{Party color cell|Independent}}
+| [[Roman Nasirov]]
+| 0.01%
+| colspan="2"; | No endorsement
+|
+|}
+
+{| class="wikitable nowrap"
+|+ Endorsements from withdrawn candidates
+! colspan="2" | First-round candidate
+! colspan="2" | First round
+! colspan="2" | Endorsement
+! {{Refh}}
+|-
+| {{Party color cell|Self Reliance (political party)}}
+| [[Andrii Sadovyi]]
+| {{Party color cell|Civil Position}}
+| [[Anatoliy Hrytsenko]]
+| colspan="2"; | "For whoever does not steal"
+| <ref>{{Cite web |title=Садовий розказав, за кого голосуватиме в другому турі |url=https://konkurent.ua/publication/38212/sadoviy-rozkazav-za-kogo-golosuvatime-v-drugomu-turi/ |access-date=2026-04-03 |website=konkurent.ua |language=uk}}</ref>
+|-
+| style="background-color: #174457;" |
+| {{ill|Serhiy Kryvonos|uk|Кривонос Сергій Григорович}}
+| {{Party color cell|Petro Poroshenko Bloc "Solidarity"}}
+| [[Petro Poroshenko]]
+| {{Party color cell|Petro Poroshenko Bloc "Solidarity"}}
+| [[Petro Poroshenko]]
+|
+|-
+| {{Party color cell|Power of the People}}
+| [[Dmytro Gnap]]
+| {{Party color cell|Civil Position}}
+| [[Anatoliy Hrytsenko]]
+| style="background-color: #AEEBB7;" |
+| Against [[Petro Poroshenko|Poroshenko]]
+| <ref name=":12" />
+|-
+| style="background-color: #800020;" |
+| [[Dmytro Dobrodomov]]
+| {{Party color cell|Civil Position}}
+| [[Anatoliy Hrytsenko]]
+| style="background-color: #AEEBB7;" |
+| Against [[Petro Poroshenko|Poroshenko]]
+| <ref>{{cite news |date=10 April 2019 |title=Тобто, якщо я не хочу голосувати за чинного корупційного президента, то я є носієм сепаративних поглядів?! |language=uk |work=Dmytro Dobrodomov |url=https://www.facebook.com/share/v/1KFquzztEU/}}</ref>
+|-
+| {{Party color cell|Nashi (political party)}}
+| [[Yevhen Murayev]]
+| {{Party color cell|Opposition Bloc (2019)}}
+| [[Oleksandr Vilkul]]
+| style="background-color: #AEEBB7;" |
+| Against [[Petro Poroshenko|Poroshenko]]
+| <ref>{{cite news |date=6 April 2019 |title=За кого голосовать во втором туре? |language=ru |work=Евгений Мураев |url=https://www.facebook.com/share/p/1B2mh6Ccg5/}}</ref>
+|}
+
+==Opinion polls==
+{{main|Opinion polling for the 2019 Ukrainian presidential election}}
+
+===First round===
+[[File:Opinion polling for the 2019 Ukrainian presidential election (first round).svg|centre|frameless|1000x1000px|LOESS curve for the 2019 Ukrainian presidential election, first round.]]{{Clear}}
+
+===Second round===
+[[File:Ukraine Presidential Election Second Round Poroshenko-Zelenski.png|centre|frameless|1000x1000px|Graph the 2019 Ukrainian presidential election, second round.]]{{Clear}}
+
+==Conduct==
+Although 34,544,993 people were eligible to vote in the elections,<ref name="election2019566439">{{Cite web |script-title=ru:Стало известно, сколько граждан смогут проголосовать на президентских выборах в Украине |url=https://interfax.com.ua/news/election2019/566439.html |access-date=15 February 2019 |website=Интерфакс-Украина |date=15 February 2019 |language=ru |archive-date=15 February 2019 |archive-url=https://web.archive.org/web/20190215181442/https://interfax.com.ua/news/election2019/566439.html |url-status=live }}</ref> the [[Annexation of Crimea by the Russian Federation|March 2014 annexation]] of [[Crimea]] by [[Russia]] and the occupation of parts of [[Donetsk Oblast]] and [[Luhansk Oblast]] [[War in Donbas (2014–2022)|by separatists]] [[Timeline of the war in Donbass (April–June 2014)|since April 2014]] meant roughly 12% of eligible voters were unable to participate in the elections.<ref name="8325418791020GUsp">{{Cite journal |last=D'Anieri |first=Paul |author-link=Paul D'Anieri |date=9 August 2016 |title=Gerrymandering Ukraine? Electoral Consequences of Occupation |url=https://escholarship.org/uc/item/9h59d83k |journal=East European Politics and Societies and Cultures |publisher=[[SAGE Publishing|Sage Journals]] |volume=33 |pages=89–108 |doi=10.1177/0888325418791020 |s2cid=150052105 |doi-access=free |access-date=7 December 2019 |archive-date=21 April 2023 |archive-url=https://web.archive.org/web/20230421083449/https://escholarship.org/uc/item/9h59d83k |url-status=live }}</ref><ref name="pravda7198122per"/> The CEC also closed all five foreign polling stations in Ukrainian embassies and consulates within Russia ahead of the vote.<ref>{{Cite web |title=CEC liquidates all five polling stations in Russia |url=https://en.interfax.com.ua/news/general/556629.html |access-date=29 January 2019 |website=Interfax-Ukraine |date=January 2019 |language=en |archive-date=29 January 2019 |archive-url=https://web.archive.org/web/20190129181604/https://en.interfax.com.ua/news/general/556629.html |url-status=live }}</ref>
+
+A total of 2,344 international observers from 17 countries and 19 organizations were officially registered to monitor the elections.<ref>{{Cite web |title=CEC: Registration of foreign observers for Ukraine's presidential elections over |url=https://www.unian.info/politics/10492341-cec-registration-of-foreign-observers-for-ukraine-s-presidential-elections-over.html |access-date=26 March 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |date=25 March 2019 |language=en |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427233537/https://www.unian.info/politics/10492341-cec-registration-of-foreign-observers-for-ukraine-s-presidential-elections-over.html |url-status=live }}</ref><ref>{{Cite web |title=На виборах президента України буде 2344 міжнародних спостерігачі, їх реєстрацію завершено |url=https://ua.interfax.com.ua/news/election2019/575370.html |access-date=26 March 2019 |website=[[Interfax-Ukraine]] |date=26 March 2019 |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427233617/https://ua.interfax.com.ua/news/election2019/575370.html |url-status=live }}</ref> A record number of 139 non-governmental Ukrainian organizations were registered as observers.<ref name="7209572election">{{Cite web |script-title=uk:ЦВК: На виборах президента буде безпрецедентна кількість спостерігачів |trans-title=CEC: Presidential election will have an unprecedented number of observers |url=https://www.pravda.com.ua/news/2019/03/19/7209556/ |access-date=2023-07-06 |website=[[Ukrainska Pravda]] |language=uk |archive-date=31 March 2019 |archive-url=https://web.archive.org/web/20190331120510/https://www.pravda.com.ua/news/2019/03/19/7209556/ |url-status=live }}</ref>
+
+==Results==
+{{AI-generated section|date=September 2026|reason=utm_source}}
+[[File:Результати Виборів Президента України 2019 за округами (перший тур).svg|thumb|300px|Results of the first round by electoral district: {{refbegin}}{{Farbindex|00c45e|[[Volodymyr Zelenskyy]]}}<br/>{{Farbindex|8b054a|[[Petro Poroshenko]]}}<br/>{{Farbindex|002aa0|[[Yulia Tymoshenko]]}}<br/>{{Farbindex|08e|[[Yuriy Boyko]]}}<br/>{{Farbindex|C0C0C0|Election was not held due to the [[War in Donbas]] or [[Annexation of Crimea by the Russian Federation|annexation by Russia]]}}{{refend}}]]
+[[File:Результати Виборів Президента України 2019 за округами (другий тур).svg|thumb|300px|Results of the second round by electoral district: {{refbegin}}{{Farbindex|00c45e|[[Volodymyr Zelenskyy]]}}<br/>{{Farbindex|8b054a|[[Petro Poroshenko]]}}<br/>{{Farbindex|C0C0C0|Election was not held due to the [[War in Donbas]] or [[Annexation of Crimea by the Russian Federation|annexation by Russia]]}}{{refend}}]]
+
+About 18.9 million people voted in the first round of elections on 31 March, a turnout of 63%.<ref>{{Cite news |title=Final Ukraine Results Give Zelenskiy 30 Percent Of Presidential Vote |url=https://www.rferl.org/a/final-results-from-ukraine-presidential-election-give-zelenskiy-30-percent-of-vote/29860319.html |access-date=21 April 2019 |newspaper=Radio Free Europe/Radio Liberty |date=4 April 2019 |language=en |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427233546/https://www.rferl.org/a/final-results-from-ukraine-presidential-election-give-zelenskiy-30-percent-of-vote/29860319.html |url-status=live }}</ref> [[Volodymyr Zelenskyy]] of [[Servant of the People]] and incumbent president [[Petro Poroshenko]] advanced to the second round on 21 April.<ref>{{Cite web |last1=Hodge |first1=Nathan |last2=Rappard |first2=Anna-Maja |last3=Guy |first3=Jack |date=1 April 2019 |title=Comedian Volodymyr Zelensky takes big lead in Ukraine elections |url=https://edition.cnn.com/2019/04/01/europe/ukraine-election-first-round-intl/index.html |access-date=21 April 2019 |website=CNN |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427233539/https://edition.cnn.com/2019/04/01/europe/ukraine-election-first-round-intl/index.html |url-status=live }}</ref><ref>{{Cite web |last1=Fox |first1=Kara |last2=Said-Moorhouse |first2=Lauren |date=21 April 2019 |title=Ukrainians head to the polls for presidential elections |url=https://edition.cnn.com/2019/04/21/europe/ukraine-elections-intl/index.html |access-date=21 April 2019 |website=CNN |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427233555/https://edition.cnn.com/2019/04/21/europe/ukraine-elections-intl/index.html |url-status=live }}</ref>
+
+Exit polls following the second round predicted that Zelenskyy would win with more than 70% of the vote.<ref name=":10">{{Cite news |date=21 April 2019 |title=Comedian wins Ukrainian presidency |language=en-GB |work=BBC News |url=https://www.bbc.com/news/world-europe-48007487 |access-date=21 April 2019 |archive-date=21 April 2019 |archive-url=https://web.archive.org/web/20190421173305/https://www.bbc.com/news/world-europe-48007487 |url-status=live }}</ref> With only 3% of the votes counted, the CEC confirmed similar preliminary results.<ref name=":11">{{Cite web |title=Zelenskiy Claims Victory, Poroshenko Concedes After Ukraine Presidential Vote |url=https://www.rferl.org/a/poroshenko-concedes-after-exit-polling-shows-zelenskiy-taking-ukraine-presidency/29894814.html |access-date=21 April 2019 |website=RadioFreeEurope/RadioLiberty |language=en |archive-date=29 April 2019 |archive-url=https://web.archive.org/web/20190429013944/https://www.rferl.org/a/poroshenko-concedes-after-exit-polling-shows-zelenskiy-taking-ukraine-presidency/29894814.html |url-status=live }}</ref> Poroshenko conceded the election in a speech soon after polls closed and exit poll data was released.<ref name=":11"/><ref>{{Cite news |last=Troianovski |first=Anton |author-link=Anton Troianovski |date=21 April 2019 |title=Comedian Volodymyr Zelensky unseats incumbent in Ukraine's presidential election, exit poll shows |newspaper=[[The Washington Post]] |url=https://www.washingtonpost.com/world/as-ukraine-votes-in-presidential-runoff-a-comedian-looks-to-unseat-the-incumbent/2019/04/21/b7d69a38-603f-11e9-bf24-db4b9fb62aa2_story.html |access-date=21 April 2019 |archive-date=21 April 2019 |archive-url=https://web.archive.org/web/20190421100829/https://www.washingtonpost.com/world/as-ukraine-votes-in-presidential-runoff-a-comedian-looks-to-unseat-the-incumbent/2019/04/21/b7d69a38-603f-11e9-bf24-db4b9fb62aa2_story.html |url-status=live }}</ref> He wrote on Twitter that "We succeeded to ensure free, fair, democratic and competitive elections... I will accept the will of Ukrainian people."<ref>{{Cite web |date=21 April 2019 |title=LIVE UPDATES: 36% of ballots counted; Zelenskiy heads to landslide victory as Poroshenko concedes |url=https://www.kyivpost.com/ukraine-politics/ukrainians-decide-who-will-be-their-next-president.html |access-date=21 April 2019 |website=KyivPost |archive-date=27 April 2019 |archive-url=https://web.archive.org/web/20190427233626/https://www.kyivpost.com/ukraine-politics/ukrainians-decide-who-will-be-their-next-president.html |url-status=live }}</ref>
+
+The below table shows each candidate's share of the valid vote, calculated excluding invalid votes using the results provided by the Central Election Commission:
+
+<onlyinclude>{{Election results
+|cand1=[[Volodymyr Zelenskyy]]|party1=[[Servant of the People]]|votes1=5714034|votes1_2=13541528
+|cand2=[[Petro Poroshenko]]|party2=Independent ([[European Solidarity|BPP]])|votes2=3014609|votes2_2=4522450|color2=#B1161E
+|cand3=[[Yulia Tymoshenko]]|party3=[[Batkivshchyna]]|votes3=2532452
+|cand4=[[Yuriy Boyko]]|party4=Independent ([[Opposition Platform — For Life]])|votes4=2206216
+|cand5=[[Anatoliy Hrytsenko]]|party5=[[Civil Position]]|votes5=1306450
+|cand6=[[Ihor Smeshko]]|party6=Independent|votes6=1141332
+|cand7=[[Oleh Liashko]]|party7=[[Radical Party of Oleh Liashko]]|votes7=1036003
+|cand8=[[Oleksandr Vilkul]]|party8=[[Opposition Bloc (2019)|Opposition Bloc — Party for Peace and Development]]|votes8=784274
+|cand9=[[Ruslan Koshulynskyi]]|party9=[[Svoboda (political party)|Svoboda]]|votes9=307244
+|cand10=[[Yurii Tymoshenko|Yuriy Tymoshenko]]|party10=Independent|votes10=117693
+|cand11=[[Oleksandr Shevchenko (politician, born 1971)|Oleksandr Shevchenko]]|party11=[[UKROP]]|votes11=109078
+|cand12=[[Valentyn Nalyvaichenko]]|party12={{ill|Spravedlyvist|uk|Громадсько-політичний рух Валентина Наливайченка «Справедливість»}}|votes12=43239|color12=#A81C07
+|cand13=[[Olha Bohomolets]]|party13=Independent|votes13=33966
+|cand14=[[Hennadiy Balashov]]|party14=[[5.10]]|votes14=32872
+|cand15=[[Roman Bezsmertnyi]]|party15=Independent|votes15=27182
+|cand16=[[Viktor Bondar]]|party16=[[Revival (Ukraine)|Revival]]|votes16=22564
+|cand17=[[Yulia Lytvynenko]]|party17=Independent|votes17=20014
+|cand18=[[Yuriy Derevyanko]]|party18=[[Liberty (political party)|Liberty]]|votes18=19542
+|cand19=[[Serhiy Taruta]]|party19=[[Osnova (political party)|Osnova]]|votes19=18918
+|cand20=[[Ihor Shevchenko]]|party20=Independent|votes20=18667
+|cand21=[[Inna Bohoslovska]]|party21=Independent|votes21=18482
+|cand22=[[Yurii Karmazin]]|party22=Independent|votes22=15965
+|cand23=[[Volodymyr Petrov]]|party23=Independent|votes23=15587
+|cand24=[[Vitaliy Skotsyk]]|party24=Independent|votes24=15118
+|cand25=[[Serhiy Kaplin]]|party25={{ill|Social Democratic Party (Ukraine)|uk|Соціал-демократична партія (Україна)|lt=Social Democratic Party}}|votes25=14532|color25=#ED2939
+|cand26=[[Oleksandr Moroz]]|party26=Socialist Party of Oleksandr Moroz|votes26=13139|color26=#E21675
+|cand27=[[Viktor Kryvenko]]|party27=[[People's Movement of Ukraine]]|votes27=9243
+|cand28={{ill|Vasyl Zhuravlyov|uk|Журавльов Василь Миколайович (політик)}}|party28=Stability|votes28=8453|color28=#085492
+|cand29=[[Illia Kyva]]|party29=[[Socialist Party of Ukraine]]|votes29=5869
+|cand30={{ill|Andriy Novak (politician)|uk|Новак Андрій Яремович|lt=Andriy Novak}}|party30=Patriot|votes30=5587|color30=#0000FF
+|cand31={{ill|Oleksandr Vashchenko|uk|Ващенко Олександр Михайлович}}|party31=Independent|votes31=5503
+|cand32={{ill|Mykola Haber|uk|Габер Микола Олександрович}}|party32=Independent|votes32=5433
+|cand33={{ill|Oleksandr Solovyev|uk|Соловйов Олександр Миколайович}}|party33=[[Reasonable Force (political party)|Reasonable Force]]|votes33=5331
+|cand34={{ill|Ruslan Rygovanov|uk|Ригованов Руслан Олександрович}}|party34=Independent|votes34=5230
+|cand35=[[Oleksandr Danylyuk (lawyer)|Oleksandr Danylyuk]]|party35=Independent|votes35=4648
+|cand36={{ill|Vitalii Kuprii|uk|Купрій Віталій Миколайович}}|party36=Independent|votes36=4508
+|cand37=[[Arkadiy Kornatskiy]]|party37=Independent|votes37=4494
+|cand38={{ill|Serhiy Nosenko|uk|Носенко Сергій Михайлович}}|party38=Independent|votes38=3114
+|cand39=[[Roman Nasirov]]|party39=Independent|votes39=2579
+|invalid=224600|invalid2=427841
+|electorate=30047302|electorate2=30105004
+|source=Central Election Commission ([https://www.cvk.gov.ua/wp-content/uploads/2019/11/vpu_2019_protokol_cvk_31032019.pdf First round], [https://www.cvk.gov.ua/wp-content/uploads/2019/11/vpu_2019_protokol_cvk_30042019.pdf second round])
+}}</onlyinclude>
+
+=== First round results by region ===
+The first round produced no outright winner, but [[Volodymyr Zelenskyy]] emerged with a substantial lead, receiving 30.24% of the vote, almost twice the 15.95% received by incumbent president [[Petro Poroshenko]]. The remainder of the vote was highly fragmented, with [[Yulia Tymoshenko]] and [[Yuriy Boyko]] receiving 13.40% and 11.67% respectively, while no other candidate exceeded 7%. Contemporary analysis described Zelenskyy's performance as reflecting both dissatisfaction with the established political elite and an ability to attract support across Ukraine's traditional regional and linguistic divisions.<ref>{{cite web | title=Will Ukraine's Fractured Electorate Create Another Power Turnover? | url=https://www.ponarseurasia.org/will-ukraine-s-fractured-electorate-create-another-power-turnover/ }}</ref><ref name="WaPo new era">https://www.washingtonpost.com/politics/2019/05/01/is-this-new-era-ukrainian-politics/</ref>
+
+Regional differences nevertheless remained. Boyko won the [[Territorial control during the Russo-Ukrainian war|Ukrainian-controlled parts of Donetsk and Luhansk oblasts]], while Poroshenko placed first in [[Lviv Oblast|Lviv]] and [[Ternopil Oblast|Ternopil]][[Oblasts of Ukraine|oblasts]] as well as among [[Foreign electoral district of Ukraine|overseas voters]]. Tymoshenko narrowly won [[Ivano-Frankivsk Oblast]]. Zelenskyy won all of the remaining 19 oblasts and the city of Kyiv, recording his strongest result in his home region of [[Dnipropetrovsk Oblast]], where he received over 45% of the vote. 
+
+Analysts noted that Zelenskyy's broad geographical support distinguished the election from earlier Ukrainian contests characterised by a stronger east–west electoral divide.<ref name="WaPo new era" /> 
+
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+|- style="height:42px; text-align:center; background-color:#E9E9E9;"
+! rowspan="3" style="width:120px;" |[[Oblasts of Ukraine|Oblast]]
+! colspan="2" data-sort-type="number" style="width:40px;" |[[Volodymyr Zelensky|Zelensky]]<br>{{small|[[Servant of the People]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" |[[Petro Poroshenko|Poroshenko]]<br>{{small| Independent ([[Petro Poroshenko Bloc]])}}
+! colspan="2" data-sort-type="number" style="width:40px;" |[[Yulia Tymoshenko|Tymoshenko]]<br>{{small|[[Batkivshchyna]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" |[[Yuriy Boyko|Boyko]]<br>{{small|[[Opposition Platform — For Life]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" |[[Anatoliy Hrytsenko|Hrytsenko]]<br>{{small|[[Civil Position]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" |[[Ihor Smeshko|Smeshko]] <br>{{small| Independent ([[Strength and Honor]])}}
+! colspan="2" data-sort-type="number" style="width:40px;" |[[Oleh Liashko|Liashko]]<br>{{small|[[Radical Party of Oleh Liashko|Radical Party]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" |[[Oleksandr Vilkul|Vilkul]]<br>{{small|[[Opposition Bloc]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" |[[Ruslan Koshulynskyi|Koshulynskyi]]<br>{{small|[[Svoboda (Ukraine)|Svoboda]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" |Others
+! colspan="1" data-sort-type="number" style="width:40px;" |Turnout<br>
+|-
+! colspan="2" style="background:{{party color|Servant of the People}};" |
+! colspan="2" style="background:{{party color|Petro Poroshenko Bloc}};" |
+! colspan="2" style="background:{{party color|Batkivshchyna}};" |
+! colspan="2" style="background:{{party color|Opposition Platform — For Life}};" |
+! colspan="2" style="background:{{party color|Civil Position}};" |
+! colspan="2" style="background:{{party color|Strength and Honour}};" |
+! colspan="2" style="background:{{party color|Radical Party of Oleh Liashko}};" |
+! colspan="2" style="background:{{party color|Opposition Bloc}};" |
+! colspan="2" style="background:{{party color|Svoboda (political party)}};" |
+! colspan="2" |
+! colspan="1" |
+|-
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!%
+|-
+| align="left" |[[Cherkasy Oblast|Cherkasy]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+184,984
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+30.06
+|75,091
+|12.20
+|102,822
+|16.71
+|33,881
+|5.50
+|57,907
+|9.41
+|66,164
+|10.75
+|49,802
+|8.09
+|9,282
+|1.50
+|7,718
+|1.25
+|20,645
+|3.36
+|63.17
+|-
+| align="left" |[[Chernihiv Oblast|Chernihiv]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+139,309
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+26.28
+|67,701
+|12.77
+|103,039
+|19.43
+|38,868
+|7.33
+|31,256
+|5.89
+|44,802
+|8.45
+|66,440
+|12.53
+|13,138
+|2.47
+|4,021
+|0.75
+|15,933
+|3.01
+|65.37
+|-
+| align="left" |[[Chernivtsi Oblast|Chernivtsi]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+119,821
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+31.07
+|54,326
+|14.09
+|75,841
+|19.67
+|34,674
+|8.99
+|19,906
+|5.16
+|20,213
+|5.24
+|29,075
+|7.54
+|4,383
+|1.13
+|5,066
+|1.31
+|16,240
+|4.21
+|56.10
+|-
+| align="left" |[[Dnipropetrovsk Oblast|Dnipropetrovsk]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+746,950
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+45.34
+|137,177
+|8.32
+|140,442
+|8.52
+|203,749
+|12.36
+|54,364
+|3.29
+|78,789
+|4.78
+|46,408
+|2.81
+|180,106
+|10.93
+|8,214
+|0.49
+|30,199
+|1.83
+|66.00
+|-
+| align="left" |[[Donetsk Oblast|''Donetsk'']]
+|''209,943''
+|''24.74''
+|''107,284''
+|''12.64''
+|''30,705''
+|''3.61''
+|style="font-weight:bold; background:{{party color|Opposition Platform — For Life}}" |
+''312,907''
+|style="font-weight:bold; background:{{party color|Opposition Platform — For Life}}" |
+''36.87''
+|''11,471''
+|''1.35''
+|''20,987''
+|''2.47''
+|''22,502''
+|''2.65''
+|''101,767''
+|''11.99''
+|''2,666''
+|''0.31''
+|''16,253''
+|''1.92''
+|''59.47''
+|-
+| align="left" |[[Ivano-Frankivsk Oblast|Ivano-Frankivsk]]
+|104,595
+|16.07
+|138,656
+|21.30
+|style="font-weight:bold; background:{{party color|Batkivshchyna}}" |
+146,510
+|style="font-weight:bold; background:{{party color|Batkivshchyna}}" |
+22.51
+|6,716
+|1.03
+|98,708
+|15.16
+|25,166
+|3.86
+|26,336
+|4.04
+|2,073
+|0.31
+|44,651
+|6.86
+|57,895
+|8.89
+|61.96
+|-
+| align="left" |[[Kharkiv Oblast|Kharkiv]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+482,470
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+36.41
+|112,937
+|8.52
+|97,490
+|7.35
+|352,196
+|26.58
+|41,451
+|3.12
+|49,215
+|3.71
+|42,367
+|3.19
+|99,060
+|7.47
+|4,896
+|0.36
+|42,765
+|3.23
+|64.53
+|-
+| align="left" |[[Kherson Oblast|Kherson]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+176,442
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+37.58
+|54,049
+|11.51
+|48,526
+|10.33
+|73,870
+|15.73
+|18,476
+|3.93
+|23,693
+|5.04
+|28,284
+|6.02
+|24,838
+|5.29
+|2,565
+|0.54
+|18,648
+|3.97
+|57.65
+|-
+| align="left" |[[Khmelnytskyi Oblast|Khmelnytskyi]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+161,958
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+24.89
+|108,243
+|16.63
+|114,453
+|17.59
+|33,005
+|5.07
+|55,910
+|8.59
+|49,832
+|7.65
+|64,041
+|9.84
+|7,031
+|1.08
+|19,448
+|2.98
+|36,681
+|5.64
+|65.11
+|-
+| align="left" |[[Kyiv|Kyiv (city)]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+396,247
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+27.09
+|374,389
+|25.59
+|188,501
+|12.88
+|91,725
+|6.27
+|133,359
+|9.11
+|140,854
+|9.62
+|20,725
+|1.41
+|32,260
+|2.20
+|21,413
+|1.46
+|63,217
+|4.32
+|68.05
+|-
+| align="left" |[[Kyiv Oblast]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+303,535
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+30.86
+|182,594
+|18.56
+|165,877
+|16.86
+|51,148
+|5.20
+|70,995
+|7.22
+|86,584
+|8.80
+|48,419
+|4.92
+|12,984
+|1.32
+|16,210
+|1.64
+|33,889
+|3.45
+|66.50
+|-
+| align="left" |[[Kirovohrad Oblast|Kirovohrad]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+156,606
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+34.52
+|53,492
+|11.79
+|84,077
+|18.53
+|39,680
+|8.74
+|19,709
+|4.34
+|28,523
+|6.28
+|37,062
+|8.17
+|9,162
+|2.02
+|4,877
+|1.07
+|20,356
+|4.49
+|61.96
+|-
+| align="left" |[[Luhansk Oblast|''Luhansk'']]
+|''75,863''
+|''25.05''
+|''19,953''
+|''6.58''
+|''14,830''
+|''4.89''
+|style="font-weight:bold; background:{{party color|Opposition Platform — For Life}}" |
+''133,126''
+|style="font-weight:bold; background:{{party color|Opposition Platform — For Life}}" |
+''43.96''
+|''4,646''
+|''1.53''
+|''6,036''
+|''1.99''
+|''9,610''
+|''3.17''
+|''27,752''
+|''9.16''
+|''1,005''
+|''0.33''
+|''6,238''
+|''2.06''
+|''56.78''
+|-
+| align="left" |[[Lviv Oblast|Lviv]]
+|158,482
+|11.96
+|style="font-weight:bold; background:{{party color|Petro Poroshenko Bloc}}" |
+468,019
+|style="font-weight:bold; background:{{party color|Petro Poroshenko Bloc}}" |
+35.32
+|196,817
+|14.85
+|17,867
+|1.34
+|252,034
+|19.02
+|62,059
+|4.68
+|45,748
+|3.45
+|4,328
+|0.32
+|61,745
+|4.66
+|43,966
+|3.32
+|68.91
+|-
+| align="left" |[[Mykolaiv Oblast|Mykolaiv]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+214,184
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+40.74
+|50,946
+|9.69
+|46,510
+|8.84
+|91,105
+|17.33
+|16,636
+|3.16
+|21,309
+|4.05
+|30,113
+|5.72
+|31,240
+|5.94
+|2,550
+|0.48
+|21,091
+|4.01
+|60.20
+|-
+| align="left" |[[Odesa Oblast|Odesa]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+423,720
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+41.26
+|93,296
+|9.08
+|82,364
+|8.02
+|225,140
+|21.92
+|29,539
+|2.87
+|30,891
+|3.00
+|36,025
+|3.50
+|62,633
+|6.09
+|3,282
+|0.31
+|39,978
+|3.89
+|58.40
+|-
+| align="left" |[[Poltava Oblast|Poltava]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+262,164
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+35.62
+|78,080
+|10.61
+|116,725
+|15.86
+|69,821
+|9.48
+|38,832
+|5.27
+|56,398
+|7.66
+|55,552
+|7.54
+|15,447
+|2.09
+|7,835
+|1.06
+|27,069
+|3.68
+|65.79
+|-
+| align="left" |[[Rivne Oblast|Rivne]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+132,586
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+24.01
+|123,256
+|22.32
+|88,254
+|15.98
+|24,367
+|4.41
+|42,543
+|7.70
+|31,634
+|5.73
+|54,586
+|9.88
+|5,370
+|0.97
+|15,470
+|2.80
+|27,303
+|4.95
+|64.97
+|-
+| align="left" |[[Sumy Oblast|Sumy]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+182,039
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+32.66
+|59,447
+|10.66
+|91,501
+|16.42
+|62,408
+|11.19
+|30,249
+|5.42
+|45,801
+|8.21
+|45,470
+|8.15
+|12,799
+|2.29
+|3,630
+|0.65
+|17,914
+|3.21
+|64.45
+|-
+| align="left" |[[Ternopil Oblast|Ternopil]]
+|78,783
+|14.67
+|style="font-weight:bold; background:{{party color|Petro Poroshenko Bloc}}" |
+130,775
+|style="font-weight:bold; background:{{party color|Petro Poroshenko Bloc}}" |
+24.36
+|101,315
+|18.87
+|8,353
+|1.55
+|91,707
+|17.08
+|27,594
+|5.14
+|39,820
+|7.41
+|2,027
+|0.37
+|29,328
+|5.46
+|20,858
+|3.89
+|66.11
+|-
+| align="left" |[[Vinnytsia Oblast|Vinnytsia]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+187,343
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+23.42
+|178,915
+|22.37
+|140,882
+|17.61
+|38,717
+|4.84
+|49,831
+|6.23
+|71,869
+|8.98
+|65,373
+|8.17
+|18,158
+|2.27
+|9,033
+|1.12
+|30,311
+|3.79
+|65.07
+|-
+| align="left" |[[Volyn Oblast|Volyn]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+112,536
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+21.63
+|98,747
+|18.98
+|103,221
+|19.84
+|18,920
+|3.63
+|46,915
+|9.01
+|36,043
+|6.92
+|51,547
+|9.90
+|5,730
+|1.10
+|14,851
+|2.85
+|26,182
+|5.03
+|68.40
+|-
+| align="left" |[[Zakarpattia Oblast|Zakarpattia]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+170,023
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+38.35
+|50,609
+|11.41
+|69,630
+|15.70
+|33,182
+|7.48
+|22,750
+|5.13
+|21,047
+|4.74
+|27,806
+|6.27
+|8,969
+|2.02
+|4,344
+|0.97
+|34,969
+|7.89
+|47.00
+|-
+| align="left" |[[Zaporizhzhia Oblast|Zaporizhzhia]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+346,884
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+39.75
+|76,510
+|8.76
+|71,978
+|8.24
+|164,034
+|18.79
+|25,966
+|2.97
+|40,020
+|4.58
+|32,573
+|3.73
+|82,101
+|9.40
+|3,390
+|0.38
+|29,070
+|3.33
+|64.37
+|-
+| align="left" |[[Zhytomyr Oblast|Zhytomyr]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+172,249
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+27.83
+|98,693
+|15.94
+|107,825
+|17.42
+|44,604
+|7.20
+|35,430
+|5.72
+|52,164
+|8.42
+|60,133
+|9.71
+|10,645
+|1.72
+|6,461
+|1.04
+|30,631
+|4.95
+|64.58
+|-
+| align="left" |[[Foreign electoral district of Ukraine|Overseas]]
+|14,318
+|26.01
+|style="font-weight:bold; background:{{party color|Petro Poroshenko Bloc}}" |
+21,424
+|style="font-weight:bold; background:{{party color|Petro Poroshenko Bloc}}" |
+38.93
+|2,317
+|4.21
+|2,153
+|3.91
+|5,860
+|10.64
+|3,645
+|6.62
+|186
+|0.33
+|991
+|1.80
+|2,575
+|4.67
+|1,562
+|2.84
+|12.62
+|-
+| align="left" |'''Ukraine'''
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+5,714,034
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+30.24
+|3,014,609
+|15.95
+|2,532,452
+|13.40
+|2,206,216
+|11.67
+|1,306,450
+|6.91
+|1,141,332
+|6.04
+|1,036,003
+|5.48
+|784,274
+|4.15
+|307,244
+|1.62
+|628,279
+|3.33
+|62.80
+|-
+|- class="sortbottom"
+| colspan="22" align="center" |Source: Central Electoral Commission<ref>{{Cite web|url=https://www.cvk.gov.ua/pls/vp2019/wp300pt001f01=719.html}}</ref>
+|}
+{{Clear}}
+
+=== Second round results by region ===
+
+The second round resulted in a landslide victory for [[Volodymyr Zelenskyy]], who received 73.22% of the vote against 24.45% for incumbent [[President of Ukraine|president]] [[Petro Poroshenko]]. 
+
+Zelenskyy won every oblast except [[Lviv Oblast|Lviv]], while Poroshenko also won among overseas voters. Zelenskyy recorded his strongest result in Luhansk Oblast, with 89.44%, and received more than 85% in [[Dnipropetrovsk Oblast|Dnipropetrovsk]], [[Donetsk Oblast|Donetsk]], [[Odesa Oblast|Odesa]], [[Kharkiv Oblast|Kharkiv]] and [[Zaporizhzhia Oblast|Zaporizhzhia]] [[Oblasts of Ukraine|oblasts]]. By contrast, Poroshenko retained considerably stronger support in [[western Ukraine]], winning 62.79% in Lviv Oblast and receiving over 40% in [[Ternopil Oblast|Ternopil]] and [[Ivano-Frankivsk Oblast|Ivano-Frankivsk]] oblasts.
+
+Although Zelenskyy's support was nationwide, his largest majorities were generally concentrated in the predominantly Russian-speaking east and south. Analysts linked this partly to his more inclusive approach to linguistic and cultural questions and his positioning as an alternative to the established political elite.<ref>{{cite web | title=What Does Volodymyr Zelenskyy's Victory Say About Ukraine? &#124; Chatham House – International Affairs Think Tank | date=22 June 2026 | url=https://www.chathamhouse.org/2019/05/what-does-volodymyr-zelenskyys-victory-say-about-ukraine }}</ref>
+ 
+Poroshenko's stronger performance in western Ukraine was associated with greater support there for his emphasis on the Ukrainian language, the military, closer Western integration and the establishment of an independent Ukrainian Orthodox Church — themes encapsulated in his campaign slogan “Army, Language, Faith”.<ref>{{cite web | title=How Petro Poroshenko Became Ukraine's Top Patriot | date=12 March 2019 | url=https://carnegieendowment.org/europe/posts/2019/03/how-petro-poroshenko-became-ukraines-top-patriot?utm_source=chatgpt.com }}</ref><ref>{{cite web | title=Making Sense of Ukraine's Complicated, Highly Competitive Presidential Campaign | date=28 March 2019 | url=https://carnegieendowment.org/posts/2019/03/making-sense-of-ukraines-complicated-highly-competitive-presidential-campaign }}</ref>
+
+Nevertheless, Zelenskyy's victory across almost the entire country was seen as a significant weakening of the east–west electoral divide that had characterised previous Ukrainian presidential elections.<ref>{{cite web | title=What Does Zelenskiy's Victory Say About Ukraine? | date=23 April 2019 | url=https://carnegieendowment.org/europe/strategic-europe/2019/04/what-does-zelenskiys-victory-say-about-ukraine }}</ref>
+
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+|- style="height:42px; text-align:center; background-color:#E9E9E9;"
+! rowspan="3" style="width:120px;" |[[Oblasts of Ukraine|Oblast]]
+! colspan="2" data-sort-type="number" style="width:40px;" |[[Volodymyr Zelensky|Zelensky]]<br>{{small|[[Servant of the People]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" |[[Petro Poroshenko|Poroshenko]]<br>{{small|[[Petro Poroshenko Bloc|Independent (Petro Poroshenko Bloc)]]}}
+! colspan="1" data-sort-type="number" style="width:40px;" |Turnout<br>
+|-
+! colspan="2" style="background:{{party color|Servant of the People}};" |
+! colspan="2" style="background:{{party color|Petro Poroshenko Bloc}};" |
+! colspan="1" |
+|-
+!Votes
+!%
+!Votes
+!%
+!%
+|-
+
+| align="left" |[[Cherkasy Oblast|Cherkasy]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+459,021
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+77.43
+|119,343
+|20.13
+|60.94
+|-
+| align="left" |[[Chernihiv Oblast|Chernihiv]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+394,756
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+77.80
+|101,451
+|19.99
+|62.61
+|-
+| align="left" |[[Chernivtsi Oblast|Chernivtsi]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+282,223
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+75.87
+|80,509
+|21.64
+|54.09
+|-
+| align="left" |[[Dnipropetrovsk Oblast|Dnipropetrovsk]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+1,434,652
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+87.25
+|177,816
+|10.81
+|65.90
+|-
+| align="left" |[[Donetsk Oblast|''Donetsk'']]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+''710,474''
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+''86.94''
+|''86,550''
+|''10.59''
+|''57.23''
+|-
+| align="left" |[[Ivano-Frankivsk Oblast|Ivano-Frankivsk]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+343,833
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+54.58
+|267,488
+|42.46
+|59.96
+|-
+| align="left" |[[Kharkiv Oblast|Kharkiv]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+1,154,617
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+86.88
+|148,505
+|11.17
+|64.66
+|-
+| align="left" |[[Kherson Oblast|Kherson]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+388,327
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+83.02
+|70,431
+|15.05
+|57.42
+|-
+| align="left" |[[Khmelnytskyi Oblast|Khmelnytskyi]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+443,308
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+70.80
+|168,025
+|26.83
+|62.67
+|-
+| align="left" |[[Kyiv|Kyiv (city)]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+856,310
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+60.17
+|525,831
+|36.95
+|65.86
+|-
+| align="left" |[[Kyiv Oblast]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+668,245
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+70.02
+|264,163
+|27.68
+|64.23
+|-
+| align="left" |[[Kirovohrad Oblast|Kirovohrad]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+355,512
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+80.47
+|77,370
+|17.51
+|60.54
+|-
+| align="left" |[[Luhansk Oblast|''Luhansk'']]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+''267,710''
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+''89.44''
+|''25,252''
+|''8.43''
+|''56.35''
+|-
+| align="left" |[[Lviv Oblast|Lviv]]
+|448,186
+|34.49
+|style="font-weight:bold; background:{{party color|Petro Poroshenko Bloc}}" |
+815,966
+| style="font-weight:bold; background: {{party color|Petro Poroshenko Bloc}}" |
+62.79
+|67.35
+|-
+| align="left" |[[Mykolaiv Oblast|Mykolaiv]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+452,556
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+85.52
+|66,283
+|12.52
+|60.66
+|-
+| align="left" |[[Odesa Oblast|Odesa]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+907,033
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+87.21
+|110,297
+|10.60
+|58.95
+|-
+| align="left" |[[Poltava Oblast|Poltava]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+595,540
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+82.15
+|113,243
+|15.62
+|64.91
+|-
+| align="left" |[[Rivne Oblast|Rivne]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+309,675
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+60.06
+|193,301
+|37.49
+|60.70
+|-
+| align="left" |[[Sumy Oblast|Sumy]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+446,812
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+82.12
+|86,397
+|15.87
+|62.85
+|-
+| align="left" |[[Ternopil Oblast|Ternopil]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+262,024
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+50.43
+|242,333
+|46.64
+|64.06
+|-
+| align="left" |[[Vinnytsia Oblast|Vinnytsia]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+484,827
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+62.97
+|267,469
+|34.74
+|62.52
+|-
+| align="left" |[[Volyn Oblast|Volyn]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+310,445
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+63.42
+|166,266
+|33.97
+|64.26
+|-
+| align="left" |[[Zakarpattia Oblast|Zakarpattia]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+353,760
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+80.67
+|73,223
+|16.69
+|46.39
+|-
+| align="left" |[[Zaporizhzhia Oblast|Zaporizhzhia]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+754,798
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+86.55
+|100,419
+|11.51
+|64.26
+|-
+| align="left" |[[Zhytomyr Oblast|Zhytomyr]]
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+430,688
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+73.62
+|141,770
+|24.23
+|61.16
+|-
+| align="left" |[[Foreign electoral district of Ukraine|Overseas]]
+|26,196
+|43.78
+|style="font-weight:bold; background:{{party color|Petro Poroshenko Bloc}}" |
+32,749
+| style="font-weight:bold; background: {{party color|Petro Poroshenko Bloc}}" |
+54.73
+|13.33
+|-
+| align="left" |'''Ukraine'''
+|style="font-weight:bold; background:{{party color|Servant of the People}}" |
+13,541,528
+| style="font-weight:bold; background: {{party color|Servant of the People}}" |
+73.22
+|4,522,450
+|24.45
+|61.37
+|-
+|- class="sortbottom"
+| colspan="6" align="center" |Source: Central Electoral Commission<ref>{{Cite web|url= https://www.cvk.gov.ua/pls/vp2019/wp300pt001f01=720.html}}</ref>
+|}
+{{Clear}}
+
+Italicised oblasts were only partially under Ukrainian government control; elections were held only in [[War in Donbas|government-controlled areas]]. No voting took place in [[Autonomous Republic of Crimea|Crimea]] or [[Sevastopol]] following their [[2014 Russian annexation of Crimea|annexation]] by [[Russia]].<ref>https://odihr.osce.org/sites/default/files/f/documents/8/3/439631_0.pdf?utm_source=chatgpt.com</ref>
+
+==Reactions==
+Poroshenko tweeted that "a new inexperienced Ukrainian president... could be quickly returned to Russia's orbit of influence."<ref name="BBC_22_April_2019">{{Cite news |date=22 April 2019 |title=Ukraine election: Comedian Zelensky wins presidency by landslide |publisher=BBC |url=https://www.bbc.co.uk/news/world-europe-48007487 |access-date=22 April 2019 |archive-date=22 April 2019 |archive-url=https://web.archive.org/web/20190422000229/https://www.bbc.co.uk/news/world-europe-48007487 |url-status=live }}</ref> Some of Zelenskyy's critics<ref>{{Cite web |title=Kolomoyskyi's return to Zelensky's Ukraine |url=https://www.unian.info/politics/10520724-kolomoisky-going-to-return-to-ukraine-after-zelensky-wins-presidential-election.html |access-date=21 April 2019 |website=RT News |date=18 April 2019 |archive-date=18 April 2019 |archive-url=https://web.archive.org/web/20190418145412/https://www.unian.info/politics/10520724-kolomoisky-going-to-return-to-ukraine-after-zelensky-wins-presidential-election.html |url-status=live }}</ref> expressed concerns over his close ties with billionaire oligarch [[Ihor Kolomoyskyi]], doubting whether Zelenskyy would be able to stand up against the country's influential oligarchs and the Russian President [[Vladimir Putin]].<ref name=BBC_22_April_2019/>
+
+Several European Union nations offered their congratulations and hopes of continued partnerships in the future. [[British Foreign Secretary]] [[Jeremy Hunt]] said that Zelenskyy "will now truly be the Servant of the People." Similar sentiments were expressed by [[Andrzej Duda]], [[President of Poland]], [[Donald Tusk]], the President of the [[European Council]], and [[NATO Secretary General]] [[Jens Stoltenberg]]. Russia's deputy foreign minister, [[Grigory Karasin]], stated that "The new leadership now must understand and realise the hopes of its electors" in both domestic and foreign policy.<ref name=BBC_22_April_2019/>
+<!--Americas -->
+Canada's [[Prime Minister of Canada|Prime Minister]] [[Justin Trudeau]] congratulated Zelenskyy and thanked the Canadians among the observers overseeing the elections.<ref>{{Cite web |title=Canada greets Ukraine's President-elect |url=https://www.unian.info/politics/10525485-canada-greets-ukraine-s-president-elect.html |access-date=22 April 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |date=22 April 2019 |language=en| url-status=live| archive-url=https://web.archive.org/web/20190422123457/https://www.unian.info/politics/10525485-canada-greets-ukraine-s-president-elect.html| archive-date=22 April 2019}}</ref> The [[President of the United States]], [[Donald Trump]], called the president-elect to congratulate him and "the Ukrainian people for a peaceful [and] democratic election."<ref>{{Cite web |date=22 April 2019 |title=Trump calls Zelensky to congratulate on electoral victory |url=https://www.unian.info/politics/10525464-trump-calls-zelensky-to-congratulate-on-electoral-victory.html |access-date=22 April 2019 |website=[[Ukrainian Independent Information Agency|UNIAN]] |language=en |archive-date=22 April 2019 |archive-url=https://web.archive.org/web/20190422021133/https://www.unian.info/politics/10525464-trump-calls-zelensky-to-congratulate-on-electoral-victory.html |url-status=live }}</ref>
+
+A joint letter of congratulations was issued by both Tusk and [[Jean Claude Juncker]], the President of the [[European Commission]]. The European Union (EU) leaders stated that they hoped Zelenskyy's victory would speed up the implementation of the remaining parts of the [[Ukraine–European Union Association Agreement|EU-Ukraine Association Agreement]], including the [[Deep and Comprehensive Free Trade Area]].<ref>{{Cite web |title=Joint letter of President Tusk and President Juncker to Volodymyr Zelensky, President-elect of Ukraine |url=https://www.consilium.europa.eu/en/press/press-releases/2019/04/22/joint-letter-of-president-tusk-and-president-juncker-to-volodymyr-zelensky-president-elect-of-ukraine/ |access-date=22 April 2019 |archive-date=22 April 2019 |archive-url=https://web.archive.org/web/20190422201656/https://www.consilium.europa.eu/en/press/press-releases/2019/04/22/joint-letter-of-president-tusk-and-president-juncker-to-volodymyr-zelensky-president-elect-of-ukraine/ |url-status=live }}</ref>
+
+==See also==
+* [[2019 Ukrainian parliamentary election]]
+* [[Inauguration of Volodymyr Zelenskyy]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Commons category-inline}}
+*[http://www.cvk.gov.ua/ Central Election Commission]
+
+{{2019 presidential election candidates, Ukraine}}
+{{Ukrainian elections}}
+{{Volodymyr Zelenskyy}}
+{{Authority control}}
+
+[[Category:2019 elections in Europe|Ukraine]]
+[[Category:2019 elections in Ukraine|Presidential]]
+[[Category:Presidential elections in Ukraine]]
+[[Category:March 2019 in Ukraine|Presidential]]
+[[Category:April 2019 in Ukraine|Presidential]]
+[[Category:Volodymyr Zelenskyy]]
+[[Category:Petro Poroshenko]]
+[[Category:Yulia Tymoshenko]]

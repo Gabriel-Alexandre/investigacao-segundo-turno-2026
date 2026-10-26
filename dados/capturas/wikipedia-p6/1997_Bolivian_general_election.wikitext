@@ -1,0 +1,220 @@
+{{Short description|none}}
+{{Infobox election
+| country = Bolivia
+| flag_year = state
+| previous_election = 1993 Bolivian general election
+| previous_year = 1993
+| next_election = 2002 Bolivian general election
+| next_year = 2002
+| registered = 3,252,501
+| turnout = 71.36% ({{decrease}} 0.80pp)
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_name = Presidential election
+| image_size = 130x130px
+| election_date = 1 June 1997 (popular vote){{Clear}}6 August 1997 (Congress vote)
+
+| image1 = Hugo Banzer 1997.png
+| nominee1 = '''[[Hugo Banzer]]'''
+| party1 = [[Nationalist Democratic Action|ADN]]–[[Christian Democratic Party (Bolivia)|PDC]]–[[New Republican Force|NFR]]
+| running_mate1 = '''[[Jorge Quiroga]]'''
+| electoral_vote1 = '''118'''
+| popular_vote1 = '''484,705'''
+| percentage1 = '''22.26%'''
+| colour1 = 9B2335
+
+| image2 =
+| nominee2 = [[Juan Carlos Durán]]
+| party2 = Revolutionary Nationalist Movement
+| running_mate2 = [[Percy&nbsp;Fernández]]
+| electoral_vote2 = 50
+| popular_vote2 = 396,235
+| percentage2 = 18.20%
+
+| image3 = Remedios Loza.jpg
+| nominee3 = [[Remedios Loza]]
+| party3 = [[Conscience of Fatherland|CONDEPA]]
+| running_mate3 = {{nowrap|Gonzalo Ruiz Paz}}
+| popular_vote3 = 373,528
+| percentage3 = 17.16%
+
+| image4 = Jaime Paz Zamora. Eguino, Antonio. 1989, Carlos D. Mesa collection, La Paz (Cropped II).png
+| nominee4 = [[Jaime Paz Zamora]]
+| party4 = [[Revolutionary Left Movement (Bolivia)|MIR]]–[[Revolutionary Left Front (Bolivia)|FRI]]
+| running_mate4 = {{nowrap|[[Samuel Doria Medina]]}}
+| popular_vote4 = 365,005
+| percentage4 = 16.77%
+
+| image5 =
+| nominee5 = [[Ivo Kuljis]]
+| party5 = Solidarity Civic Unity
+| running_mate5 = Juan Chahín
+| popular_vote5 = 350,728
+| percentage5 = 16.11%
+
+| map = {{Switcher
+| [[File:Mapa Electoral de Bolivia por Departamentos 1997.png|260px]]
+| Results by department
+| [[File:Mapa Electoral - Bolivia - Elecciones 1997 -Por Provincias.png|260px]]
+| Results by province}}
+
+| title = [[President of Bolivia|President]]
+| before_election = [[Gonzalo Sánchez de Lozada]]
+| before_party = Revolutionary Nationalist Movement
+| after_election = [[Hugo Banzer]]
+| after_party = Nationalist Democratic Action
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| noleader = yes
+| nopercentage = yes
+| seats_for_election = All 130 seats in the [[Chamber of Deputies (Bolivia)|Chamber of Deputies]]
+| election_date = 1 June 1997
+
+| party1 = [[Nationalist Democratic Action|ADN]]–[[Christian Democratic Party (Bolivia)|PDC]]–[[New Republican Force|NFR]]
+| last_election1 = 35
+| seats1 = 32
+| party7 = Revolutionary Nationalist Movement 
+| last_election7 = 52
+| seats7 = 26
+| party8 = [[Revolutionary Left Movement (Bolivia)|MIR]]–[[Revolutionary Left Front (Bolivia)|FRI]]
+| last_election8 = 0
+| seats8 = 23
+| party9 = Solidarity Civic Unity 
+| last_election9 = 20
+| seats9 = 21
+| party10 = Conscience of Fatherland 
+| last_election10 = 13
+| seats10 = 19
+| party11 = Free Bolivia Movement 
+| last_election11 = 7
+| seats11 = 5
+| party12 = United Left (Bolivia) 
+| last_election12 = 0
+| seats12 = 4
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Senators
+| noleader = yes
+| nopercentage = yes
+| seats_for_election = All 36 seats in the [[Chamber of Senators (Bolivia)|Chamber of Senators]]
+| election_date = 1 June 1997
+
+| party1 = [[Nationalist Democratic Action|ADN]]–[[Christian Democratic Party (Bolivia)|PDC]]–[[New Republican Force|NFR]]
+| last_election1 = 8
+| seats1 = 11
+| party2 = [[Revolutionary Left Movement (Bolivia)|MIR]]–[[Revolutionary Left Front (Bolivia)|FRI]]
+| last_election2 = 0
+| seats2 = 7
+| party3 = Revolutionary Nationalist Movement 
+| last_election3 = 17
+| seats3 = 4
+| party4 = Conscience of Fatherland
+| last_election4 = 1
+| seats4 = 3
+| party5 = Solidarity Civic Unity 
+| last_election5 = 7
+| seats5 = 2
+
+}}}}}}
+}}
+{{Politics of Bolivia}}
+
+General elections were held in [[Bolivia]] on 1 June 1997.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p133 {{ISBN|978-0-19-928358-3}}</ref> As no candidate for [[President of Bolivia|the presidency]] received over 50% of the vote, the [[Plurinational Legislative Assembly|National Congress]] was required to elect a president on 4 August. [[Hugo Banzer]] of [[Nationalist Democratic Action]] (ADN) was subsequently elected. Whilst the ADN emerged as the largest party in Congress, it failed to win a majority of seats, and formed a coalition government with the [[Revolutionary Left Movement (Bolivia)|Revolutionary Left Movement]], [[Conscience of Fatherland]] and the [[Solidarity Civic Unity]].<ref name=IPU>[http://www.ipu.org/parline-e/reports/arc/2037_97.htm Elections held in 1997] IPU</ref>
+
+==Electoral system==
+{{Main|Elections in Bolivia}}
+
+A number of electoral reforms were introduced in 1994. The [[double simultaneous vote]] (DSV) system, under which voters cast a single vote for president, Chamber of Deputies and Chamber of Senators, was modified to introduce a [[mixed-member proportional representation]] for the Chamber of Deputies. Voters still had a DSV vote that determined the presidency, members of the Chamber of Senators and the seat distribution of the Chamber of Deputies, but had an additional vote to determine the winners of 68 single-member constituencies for the Chamber. The other 62 seats in the Chamber became [[leveling seat]]s to ensure that the proportion of seats held by each party was equivalent to the percentage of its vote share in the DSV vote, and were elected by [[closed list]] proportional representation in nine multi-member constituencies. A further reform in 1997, shortly before the elections, introduced a 3% [[electoral threshold]] and determined that seat allocation for the proportional Chamber seats would be carried out by the [[d'Hondt method]]. The 27 seats in the Chamber of Senators were elected in nine three-member constituencies using the DSV vote; the party with the most votes was awarded two seats and the runner-up one.<ref>Nohlen, pp128, 131</ref>
+
+As a result of modifications to the [[Constitution of Bolivia|constitution]] in 1994 and 1995, the [[voting age]] was reduced to eighteen, while presidential and congressional terms were increased from four to five years.<ref>{{Cite web|title=Bolivia: Ley de Reforma y Complementacion al Régimen Electoral, 19 de marzo de 1997|url=https://www.lexivox.org/norms/BO-L-1779.html|access-date=2020-11-30|website=Lexivox}}</ref>
+
+==Campaign==
+Incumbent president [[Gonzalo Sánchez de Lozada]] chose [[René Blattmann]], minister of justice and human rights, as the MNR's presidential candidate. Blattmann's reformations to the judicial system had gained him great popularity among the population with him holding a 34% electoral preference to Hugo Banzer's 14% upon the announcement of his candidacy in December 1996. However, René Blattmann surprisingly renounced his candidacy at the end of January 1997. [[Juan Carlos Durán]] became the new MNR candidate but the damage to the party's electoral campaign was irreversible.<ref name=":0">{{harvnb|Mesa Gisbert|2003|pp=177}}</ref>
+
+Hugo Banzer, who had run in the past five elections, had stated in 1993 that he would not present himself again as a candidate. Nevertheless, Banzer announced his 1997 candidacy anyway. Former president [[Jaime Paz Zamora]] of the MIR also announced his intention to seek a second term.<ref name=":0" />
+
+The "neo-populist" Max Fernández of the UCS and [[Carlos Palenque]] of CONDEPA had seen their parties' best performances in 1993. However, the premature death of both leaders (Fernández in a plane crash in 1995, Palenque of a heart attack in March 1997, less than three months before the election) hurt their parties' chances of winning. [[Jhonny Fernández]], Max Fernández's son, was not yet of legal age to run, leading the UCS to present as their candidate [[Ivo Kuljis]], who incidentally had been Carlos Palenque's CONDEPA running mate in 1993. CONDEPA, in turn, presented [[Remedios Loza]], making her the first female presidential candidate in Bolivia history. The fact that Loza was [[Aymara people|Aymara]] won her some support among Bolivia's marginalized [[Indigenous peoples in Bolivia|indigenous population]].<ref>{{harvnb|Mesa Gisbert|2003|pp=178}}</ref>
+
+Economic and social issues dominated the campaign, with all major parties promising to continue the [[free market]] policies implemented by outgoing President Gonzalo Sánchez de Lozada. Whilst Juan Carlos Durán emphasised the free market reforms, Hugo Banzer promised to improve the lives of the indigenous population.<ref name=IPU/>
+
+==Results==
+===President===
+Ultimately, the divided electoral field and the woes of the MNR resulted in Hugo Banzer claiming a narrow plurality vote victory of 22.26%, the lowest margin of victory for any presidential candidate in Bolivian history.
+
+As no candidate reached the required 50% majority, the National Congress convened to elect the president. Members of both chambers voted on the president. Banzer was supported by his ADN-[[New Republican Force|NFR]]-[[Christian Democratic Party (Bolivia)|PDC]] political alliance as well as by the MIR, CONDEPA, and UCS. Juan Carlos Durán would only receive the support of the MNR. The four [[United Left (Bolivia)|IU]] and five [[Free Bolivia Movement|MBL]] deputies abstained.
+
+{{Election results
+|firstround=Popular vote|secondround=Congressional vote
+|cand1=[[Hugo Banzer]]|vp1=[[Jorge Quiroga]]|party1=[[Nationalist Democratic Action|ADN]]–[[Christian Democratic Party (Bolivia)|PDC]]–[[New Republican Force|NFR]]|votes1=484705|votes1_2=118|colour1 = #9B2335
+|party2=[[Revolutionary Nationalist Movement]]|cand2=[[Juan Carlos Durán]]|vp2=[[Percy Fernández]]|votes2=396235|votes2_2=30
+|party3=[[Conscience of Fatherland]]|cand3=[[Remedios Loza]]|vp3=Gonzalo Ruiz Paz|votes3=373528
+|party4=[[Revolutionary Left Movement (Bolivia)|Revolutionary Left Movement]]|cand4=[[Jaime Paz Zamora]]|vp4=[[Samuel Doria Medina]]|votes4=365005
+|party5=[[Solidarity Civic Unity]]|cand5=[[Ivo Kuljis|Ivo Kuljis Fuchner]]|vp5=Juan Chahín|votes5=350728
+|party6=[[United Left (Bolivia)|United Left]]|cand6=Alejo Véliz|vp6=Marcos Domic Ruiz|votes6=80806
+|party7=[[Free Bolivia Movement]]|cand7=Miguel Urioste Fernández|vp7=[[Marcial Fabricano]]|votes7=67244
+|party8=Bolivian Socialist Vanguard|cand8=Jerjes Justiniano Talavera|vp8=Sonia Montaño Ferrufino|votes8=30212|color8=#EE82EE
+|party9=Patriotic Convergence Axis|cand9=Ramiro Barrenechea|vp9=Juan de la Cruz Villca Choque|votes9=18327|color9=#8B0000
+|party10=Bolivian Democratic Party|cand10=[[Eudoro Galindo]]|vp10=Ángel Cardona Ayoroa|votes10=10381|color10=#008000
+|invalid=143946|invalid2=0
+|electorate=3252501|electorate2=157
+|source=Nohlen
+}}
+
+===Chamber of Deputies===
+{{Election results
+|image=[[File:Cámara de Diputados de Bolivia elecciones 1997.svg]]
+|firstround=List|secondround=Constituency
+|party1=[[Nationalist Democratic Action|ADN]]–[[Christian Democratic Party (Bolivia)|PDC]]–[[New Republican Force|NFR]]|votes1=484705|seats1=14|votes1_2=457470|seats1_2=18|totseats1=32|sc1=–|colour1 = #9B2335
+|party2=[[Revolutionary Nationalist Movement]]|votes2=396235|seats2=14|votes2_2=368777|seats2_2=12|totseats2=26|sc2=–26
+|party3=[[Conscience of Fatherland]]|votes3=373528|seats3=7|votes3_2=289828|seats3_2=12|totseats3=19|sc3=+6
+|party4=[[Revolutionary Left Movement (Bolivia)|Revolutionary Left Movement]]|votes4=365005|seats4=11|votes4_2=358004|seats4_2=12|totseats4=23|sc4=–
+|party5=[[Solidarity Civic Unity]]|votes5=350728|seats5=16|votes5_2=290472|seats5_2=5|totseats5=21|sc5=+1
+|party6=[[United Left (Bolivia)|United Left]]|votes6=80806|seats6=0|votes6_2=81001|seats6_2=4|totseats6=4|sc6=+4
+|party7=[[Free Bolivia Movement]]|votes7=67244|seats7=0|votes7_2=130095|seats7_2=5|totseats7=5|sc7=–2
+|party8=Bolivian Socialist Vanguard|votes8=30212|seats8=0|votes8_2=34034|seats8_2=0|totseats8=0|sc8=New|color8=#EE82EE
+|party9=Patriotic Convergence Axis|votes9=18327|seats9=0|votes9_2=32493|seats9_2=0|totseats9=0|sc9=New|color9=#8B0000
+|party10=Bolivian Democratic Party|votes10=10381|seats10=0|votes10_2=22079|seats10_2=0|totseats10=0|sc10=New|color10=#008000
+|invalid=67203|invalid2=52452
+|blank=76743|blank2=199496
+|electorate=3252501|electorate2=3252501
+|total_sc=0
+|source=Nohlen, [https://www.oep.org.bo/wp-content/uploads/2016/12/boletin_estadistico_7.pdf OEP], [https://www.electionpassport.com/files/BO/BO.xlsx Election Passport], [https://www.researchgate.net/profile/Salvador-Romero-Ballivian/publication/280739702_Las_elecciones_uninominales_de_1997_a_2002/links/55c4cd5108aeb9756741e9b7/Las-elecciones-uninominales-de-1997-a-2002.pdf FUNDEMOS]
+}}
+
+===Chamber of Senators===
+{{Election results
+|image=[[File:Senado de Bolivia elecciones 1997.svg]]
+|party1=[[Nationalist Democratic Action|ADN]]–[[Christian Democratic Party (Bolivia)|PDC]]–[[New Republican Force|NFR]]|votes1=484705|seats1=11|sc1=–|colour1 = #9B2335
+|party2=[[Revolutionary Nationalist Movement]]|votes2=396235|seats2=4|sc2=–13
+|party3=[[Conscience of Fatherland]]|votes3=373528|seats3=3|sc3=+2
+|party4=[[Revolutionary Left Movement (Bolivia)|Revolutionary Left Movement]]|votes4=365005|seats4=7|sc4=–
+|party5=[[Solidarity Civic Unity]]|votes5=350728|seats5=2|sc5=+1
+|party6=[[United Left (Bolivia)|United Left]]|votes6=80806|seats6=0|sc6=0
+|party7=[[Free Bolivia Movement]]|votes7=67244|seats7=0|sc7=0
+|party8=Bolivian Socialist Vanguard|votes8=30212|seats8=0|sc8=New|color8=#EE82EE
+|party9=Patriotic Convergence Axis|votes9=18327|seats9=0|sc9=New|color9=#8B0000
+|party10=Bolivian Democratic Party|votes10=10381|seats10=0|sc10=New|color10=#008000
+|invalid=143946
+|electorate=3252501
+|total_sc=0
+|source=Nohlen
+}}
+
+==See also==
+*[[Bolivian National Congress, 1997–2002]]
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*{{Cite book|last=Mesa Gisbert|first=Carlos D.|authorlink=Carlos Mesa|url=https://books.google.com/books?id=81F7AAAAMAAJ|title=Presidentes de Bolivia: entre urnas y fusiles : el poder ejecutivo, los ministros de estado|date=2003|publisher=Editorial Gisbert|language=es}}
+
+{{Bolivian elections}}
+
+[[Category:1997 in Bolivia|General]]
+[[Category:Parliamentary elections in Bolivia]]
+[[Category:1997 elections in South America|Bolivia]]
+[[Category:Presidential elections in Bolivia]]

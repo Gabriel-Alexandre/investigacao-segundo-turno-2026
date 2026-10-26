@@ -1,0 +1,805 @@
+{{Short description|none}}
+{{Use dmy dates|date=January 2020}}
+{{Infobox election
+| country = Slovakia
+| type = presidential
+| previous_election = 2014 Slovak presidential election
+| previous_year = 2014
+| election_date = 16 March 2019 (first round)<br />{{nowrap|30 March 2019 (second round)}}
+| turnout = 48.74% (first round) {{increase}} 5.35[[percentage points|pp]]<br />41.80% (second round) {{decrease}} 8.67[[percentage points|pp]]
+| next_election = 2024 Slovak presidential election
+| next_year = 2024
+
+| image1 = ZuzanaCaputovaPokracujeVKampani-Orez-IMG 0394-SF.jpg
+| nominee1 = '''[[Zuzana Čaputová]]'''
+| party1 = Progressive Slovakia
+| popular_vote1 = '''1,056,582'''
+| percentage1 = '''58.41%'''
+
+| image2 = Hearings Maroš Šefčovič (Slovakia) - Vice president-designate - interinstitutional relations and foresight. (48821461522) (cropped bis).jpg
+| nominee2 = [[Maroš Šefčovič]]
+| party2 = [[Independent politician|Independent]]{{efn|name=Šefčovič|Although Šefčovič was officially an independent, his campaign was endorsed and funded by [[Direction – Social Democracy|Smer]].}}
+| popular_vote2 = 752,403
+| percentage2 = 41.59%
+| colour2 = {{Party color|Direction – Social Democracy}}
+
+| map_image = {{Switcher
+|[[File:2019 Slovak presidential election - First Round Vote Strength.svg|300px]]
+|First round results by district
+|[[File:2019 Slovak presidential election - Second Round Vote Strength.svg|300px]]
+|Second round results by district
+|default=2
+}}
+
+| title = President
+| before_election = [[Andrej Kiska]]
+| before_party = Independent politician
+| posttitle = Elected President
+| after_election = [[Zuzana Čaputová]]
+| after_party = Progressive Slovakia
+}}{{Politics of Slovakia}}
+
+Presidential elections were held in [[Slovakia]] in March 2019. Incumbent President [[Andrej Kiska]] did not run for a second term.
+
+Fifteen candidates contested the first round on 16 March, of which two later formally withdrew their bids before voting took place, but their names still had to remain on the ballot papers. [[Zuzana Čaputová]] of the [[Progressive Slovakia]] party finished ahead of the other candidates, receiving 40.6% of the votes, but failed to achieve the necessary threshold of 50%+1 vote from all registered voters to avoid a run-off. [[Maroš Šefčovič]], the vice president of the [[European Commission]] for the Energy Union, who was running as an independent supported by the [[Direction – Social Democracy]] (SMER–SD) party, came in as the runner-up with 18.7% of the vote and earned a place in the run-off as well.
+
+In the second round on 30 March, Čaputová was elected with 58.4% of the vote to Šefčovič's 41.6%. She became the first woman to be elected to the presidency and became Slovakia's youngest-ever president upon her inauguration which took place on 15 June 2019.
+
+==Background==
+[[Andrej Kiska]] was elected president in [[2014 Slovak presidential election|March 2014]]. He won the run-off with a large majority against then-prime minister [[Robert Fico]].
+
+Polls indicated that he was Slovakia's most trusted politician and that he would have likely been the frontrunner in the election, had he chosen to present himself as a candidate.<ref name=":0" /> He had originally planned to announce whether he would run for a second term in September 2018.<ref name="Prezident Kiska: Nikdy som netúžil po moci, vždy som chcel pomáhať ľuďom">{{cite web|last1=a.s.|first1=Petit Press|title=Prezident Kiska: Nikdy som netúžil po moci, vždy som chcel pomáhať ľuďom|url=https://domov.sme.sk/c/20577608/kiska-svoju-pripadnu-kandidaturu-oznami-v-buducom-roku.html|website=domov.sme.sk|access-date=5 May 2018|language=sk}}</ref> but moved it on 15 May 2018.<ref name="Kiska má zítra oznámit, zda bude znovu kandidovat. Fico na něj hned zaútočil">{{cite web|title=Kiska má zítra oznámit, zda bude znovu kandidovat. Fico na něj hned zaútočil|url=https://www.novinky.cz/zahranicni/evropa/471979-kiska-ma-zitra-oznamit-zda-bude-znovu-kandidovat-fico-na-nej-hned-zautocil.html|website=Novinky.cz|access-date=14 May 2018|language=cs-CZ}}</ref> [[Freedom and Solidarity]] had announced it would support Kiska's candidacy.<ref name="SaS má prezidentského kandidáta za Andreja Kisku">{{cite web|title=SaS má prezidentského kandidáta za Andreja Kisku|url=https://www.aktuality.sk/clanok/565127/sas-ma-prezidentskeho-kandidata-za-andreja-kisku/|website=aktuality.sk|access-date=5 May 2018|language=sk}}</ref> However, Kiska announced on 15 May 2018 that he would not run for re-election, arguing that this move might end "the era of political confrontation" his country faced and citing a desire to spend more time with his family.<ref name="Kiska nebude kandidovať na prezidenta">{{cite web|title=Kiska nebude kandidovať na prezidenta|url=https://domov.sme.sk/c/20826159/andrej-kiska-prezidentske-volby-2019-oznamenie.html|website=domov.sme.sk|access-date=15 May 2018|language=sk}}</ref> Kiska is notably pro-European.<ref name=":0">{{Cite news|url=https://www.bloomberg.com/news/articles/2018-05-15/eu-to-lose-key-ally-in-slovakia-as-president-won-t-seek-new-term|title=EU to Lose Key Ally in Slovakia as President Won't Seek New Term|date=15 May 2018|work=Bloomberg.com|access-date=15 May 2018}}</ref>
+
+Kiska's decision had been rumoured since February 2018 and political parties had already started to look for candidates.<ref name="Kiska už zřejmě nebude kandidovat, před službou vlasti dá přednost rodině">{{cite web|title=Kiska už zřejmě nebude kandidovat, před službou vlasti dá přednost rodině|url=https://zpravy.idnes.cz/andrej-kiska-prezident-slovensko-kandidatura-rodina-pcq-/zahranicni.aspx?c=A180222_112603_zahranicni_ane|website=iDNES.cz|access-date=5 May 2018|date=26 February 2018}}</ref><ref name="Prezident Kiska nebude kandidovať, počuť z opozície aj koalície">{{cite web|title=Prezident Kiska nebude kandidovať, počuť z opozície aj koalície|url=https://www.aktuality.sk/clanok/563843/prezident-kiska-nebude-kandidovat-pocut-z-opozicie-aj-koalicie/|website=aktuality.sk|access-date=5 May 2018|language=sk}}</ref>
+* The socially and economically liberal party [[Freedom and Solidarity]] was speculated to nominate [[Robert Mistrík]]. He later withdrew.<ref name=":1">{{Cite news|url=https://kafkadesk.org/2019/01/20/eu-commissioner-maros-sefcovic-announces-bid-for-slovak-presidency/|title=EU Commissioner Maroš Šefčovič announces bid for Slovak presidency|date=20 January 2019|access-date=31 March 2019|publisher=Kafkadesk}}</ref>
+* Veronika Remišová of the Christian-Democrat [[Ordinary People and Independent Personalities]] polled at 7.9% of the vote.<ref name=sme.sk-men>{{Cite news|title=Men who have not announced their candidacy top presidential poll|url=https://spectator.sme.sk/c/20928122/men-who-have-not-announced-their-candidacy-top-presidential-poll.html|publisher=The Spectator|website=spectator.sme.sk|date=2 October 2018|access-date=31 March 2019}}</ref>
+* Andrej Danko of the [[Slovak National Party]] polled at 13%.<ref name=sme.sk-men />
+* The anti-immigration party [[We Are Family (Slovakia)|We Are Family]] had its candidate selected in May 2018.<ref name="Blížia sa prezidentské voľby: Opozícia čoskoro predstaví kandidátov, v SNS hovoria o žene">{{cite web|title=Blížia sa prezidentské voľby: Opozícia čoskoro predstaví kandidátov, v SNS hovoria o žene|url=http://www.topky.sk/cl/100535/1709505/Blizia-sa-prezidentske-volby--Opozicia-coskoro-predstavi-kandidatov--v-SNS-hovoria-o-zene|website=Topky.sk|access-date=14 May 2018}}</ref>
+* The governing coalition's biggest party [[Smer-SD]], as of May 2018 still lacked a candidate.<ref>{{cite web|title=Most-Híd postaví do prezidentských volieb vlastného kandidáta: Bude ním Béla Bugár?|url=https://www.cas.sk/clanok/661584/most-hid-postavi-do-prezidentskych-volieb-vlastneho-kandidata-bude-nim-bela-bugar/|website=novycas.sk|access-date=24 February 2018|language=sk-SK}}</ref> In January 2019, it was announced that the party candidate would be [[Maroš Šefčovič]].<ref name=":1" />
+* The far-right [[Kotleba – People's Party Our Slovakia|Kotleba-ĽSNS]] nominated its leader [[Marian Kotleba]] on 31 May 2018.<ref>{{cite web|title=Kotleba ohlásil kandidatúru na prezidenta|url=https://spravy.pravda.sk/domace/clanok/471659-kotleba-ohlasil-kandidaturu-na-prezidenta/|website=pravda.sk|access-date=31 May 2018|language=sk-SK}}</ref>
+* The centre-right Hungarian minority party [[Most-Híd]] nominated its leader [[Béla Bugár]] on 9 June 2018.<ref>{{cite web|title=Zo šoféra sa vypracoval na prezidentského kandidáta|url=https://domov.sme.sk/c/20845649/zo-sofera-sa-vypracoval-na-prezidentskeho-kandidata-bugar-aj-tentoraz-moze-konat-pragmaticky.html|website=sme.sk|access-date=9 June 2018|language=sk-SK}}</ref>
+
+==Electoral system==
+The [[President of Slovakia|president of the Slovak Republic]] has been elected for a five-year term, and by popular vote since [[1999 Slovak presidential election|the elections in 1999]].<ref>{{Cite web|url=https://spectator.sme.sk/c/20031316/ngos-ask-paska-not-to-advance-date-of-election.html|title=NGOs ask Paška not to advance date of election|last=Vilikovská|first=Zuzana|date=12 December 2008|website=The Slovak Spectator|language=en|access-date=1 April 2019}}</ref><ref>{{Cite web|url=https://www.osce.org/odihr/elections/slovakia/33455?download=true|title=The Slovak Republic Presidential Election, 3 April 2004: OSCE/ODIHR Election Assessment Report|date=9 June 2004|publisher=Organization for Security and Co-operation in Europe, Office for Democratic Institutions and Human Rights|location=Warsaw|page=2|access-date=1 April 2019}}</ref> Its role is limited, but not just ceremonial. The president has the power to nominate the [[Prime Minister of Slovakia|prime minister]], to veto bills (unless confirmed by a two-thirds majority), and to nominate judges on the highest tiers of the judicial branch.<ref>{{Cite book|url=https://books.google.com/books?id=aOggDAAAQBAJ&pg=PA214|title=The Struggle for Constitutionalism in Poland|last=Brzezinski|first=M.|date=29 October 1997|publisher=Springer|isbn=9780230508620|pages=214–16|language=en}}</ref>
+
+The president is elected through a [[two-round system|two-round method]]; if no candidate reaches 50%+1 votes in the first round, the top two candidates of the first round take part in a second round.<ref>{{Cite web|url=https://europeelects.eu/2019/03/11/slovakian-presidential-election/|title=Slovakian Presidential Election: Is there an upset on the cards?|first=Tomas|last=Bálint|date=11 March 2019}}</ref>
+
+For a candidacy to be valid, the [[Constitution of Slovakia]] requires the collection of 15,000 signatures of Slovak citizens, or the support of 15 of the 150 MPs in the [[National Council (Slovakia)|legislature]]. The candidate must be an eligible voter over 40 years old, must resign from any other conflicting public office, and is limited to two terms in office.<ref>{{Cite web|url=https://www.osce.org/odihr/elections/slovakia/409644?download=true|title=Slovak Republic Presidential Election, 16 March 2019: ODIHR Needs Assessment Mission Report: 3-5 December 2018|date=22 January 2019|publisher=Organization for Security and Co-operation in Europe, Office for Democratic Institutions and Human Rights|location=Warsaw|page=5|access-date=1 April 2019}}</ref>
+
+==Candidates==
+Candidates who claimed 15,000 citizen signatures or have 15 MP signatures by midnight of 31 January 2019 were as follows:
+{| class="wikitable sortable numbered firstright"
+! colspan="2" |Name
+!Party<ref name="Signatures submitted">{{Cite news|url=https://spravy.pravda.sk/prezidentske-volby-2019/clanok/500542-zoznam-kandidatov-na-prezidenta-sa-uzavrel/|title=Zoznam kandidátov na prezidenta sa uzavrel|last=Filová|first=Katarína|date=1 February 2019|work=pravda.sk|access-date=10 February 2019|publisher=Perex|location=Bratislava|issn=1336-197X}}</ref>
+!Age<ref name="minv-kandidati">{{Cite web|url=https://www.minv.sk/swift_data/source/verejna_sprava/volby_a_referendum/130_prezident/p19_2info/WP19_Kandidati.htm|title=KANDIDÁTI NA PREZIDENTA SLOVENSKEJ REPUBLIKY, 16 March 2019|publisher=Ministry of Interior of the Slovak Republic}}</ref><ref>Per convention, candidates' ages are calculated based on the date of publication of the official list of candidates by the National Council of the Slovak Republic on 1 February 2019.</ref>
+!Date of candidacy announcement
+!Date of candidacy confirmation
+|-
+| data-sort-value="Bugár, Béla" |[[File:Béla_Bugár.jpg|100x100px]]
+|[[Béla Bugár]]
+|[[Most–Híd]]
+| align="center" |60
+| data-sort-value="2018-06-09" |9 June 2018<ref>{{Cite news|url=https://dennikn.sk/1146579/bugar-je-28-rokov-poslancom-teraz-chce-byt-prezidentom-ktory-spoji-polarizovanu-spolocnost/|title=Bugár je 28 rokov poslancom, teraz chce byť prezidentom, ktorý spojí polarizovanú spoločnosť|last=Gehrerová|first=Ria|date=9 June 2018|work=dennikn.sk|access-date=21 September 2018|publisher=N Press|location=Bratislava|issn=1339-844X}}</ref>
+| style="background: #ddffdd" data-sort-value="2018-09-06" |6 September 2018<ref>{{Cite news|url=https://dennikn.sk/minuta/1224582/|title=Predseda Mosta-Híd Béla Bugár už nazbieral 30-tisíc podpisov na svoju prezidentskú kandidatúru|date=6 September 2018|work=dennikn.sk|access-date=21 September 2018|publisher=N Press|location=Bratislava|issn=1339-844X}}</ref>
+|-
+| data-sort-value="Čaputová, Zuzana" |[[File:ZuzanaCaputovaPokracujeVKampani-Orez-IMG_0394-SF.jpg|100x100px]]
+|[[Zuzana Čaputová]]
+|[[Progressive Slovakia|PS]]
+| align="center" |45
+| data-sort-value="2018-05-29" |29 May 2018<ref>{{Cite news|url=https://domov.sme.sk/c/20836946/caputova-ohlasila-kandidaturu-prezidentske-volby.html|title=Právnička Čaputová ohlásila prezidentskú kandidatúru|author=SITA|date=29 May 2018|work=sme.sk|access-date=21 September 2018|publisher=Petit Press|location=Bratislava|issn=1335-4418}}</ref>
+| style="background: #ddffdd" data-sort-value="2019-01-24" |24 January 2019<ref>{{Cite news|url=http://www.netky.sk/clanok/reportaz-zuzana-caputova-odovzdala-potrebny-pocet-podpisov-pre-svoju-kandidaturu-na-prezidentku-mistrika-vyzvala-do-diskusie|title=Reportáž: Zuzana Čaputová odovzdala potrebný počet podpisov pre svoju kandidatúru na prezidentku.Mistríka vyzvala do diskusie|date=24 January 2019|work=netky.sk|access-date=30 January 2019}}</ref>
+|-
+| data-sort-value="Daňo, Martin" |[[File:Martin_Daňo_portrait.jpg|100x100px]]
+|Martin Daňo
+|Independent
+| align="center" |42
+| data-sort-value="2018-02-16" |16 February 2018<ref>{{Cite news|url=https://slovensko.hnonline.sk/1695538-dano-chce-kandidovat-na-prezidenta-s-kamerou-planuje-chodit-za-poslancami-kvoli-podpisom|title=Daňo chce kandidovať na prezidenta, s kamerou plánuje chodiť za poslancami kvôli podpisom|date=16 February 2018|work=hnonline.sk|access-date=21 September 2018|publisher=MAFRA Slovakia|location=Bratislava|issn=1336-1996}}</ref>
+| style="background: #ddffdd" data-sort-value="2019-01-24" |24 January 2019<ref>{{Cite news|url=https://spravy.pravda.sk/prezidentske-volby-2019/clanok/499622-dano-kandiduje-na-prezidenta-podporil-ho-aj-blaha/|title=Daňo kandiduje na prezidenta, šesť podpisov má od 'kollárovcov'|author=SITA|date=24 January 2019|work=pravda.sk|access-date=25 January 2019|publisher=Perex|location=Bratislava|issn=1336-197X}}</ref>
+|-
+| data-sort-value="Harabin, Štefan" |[[File:Štefan_Harabin.jpg|100x100px]]
+|[[Štefan Harabin]]
+|Independent<ref>{{Cite news|url=https://www.postoj.sk/kratke-spravy-redakcie/2397|title=Krátke správy redakcie|last=Daniška|first=Jaroslav|date=13 March 2019|work=Denník Postoj|access-date=31 March 2019|publisher=Postoj Media|location=Bratislava|issn=1336-720X|archive-date=30 March 2019|archive-url=https://web.archive.org/web/20190330193224/https://www.postoj.sk/kratke-spravy-redakcie/2397|url-status=dead}}</ref>
+| align="center" |61
+| data-sort-value="2018-04-18" |18 April 2018<ref>{{Cite news|url=https://dennikn.sk/1099181/harabin-potvrdil-ze-bude-kandidovat-na-prezidenta/|title=Harabin potvrdil, že chce kandidovať na prezidenta|last=Prušová|first=Veronika|date=18 April 2018|work=dennikn.sk|access-date=21 September 2018|publisher=N Press|location=Bratislava|issn=1339-844X}}</ref>
+| style="background: #ddffdd" data-sort-value="2018-11-15" |15 November 2018<ref>{{Cite news|url=https://www.aktuality.sk/clanok/641899/iniciativa-za-harabinovu-prezidentsku-kandidaturu-vyzbierala-dostatok-podpisov/|title=Iniciatíva za Harabinovu prezidentskú kandidatúru vyzbierala dostatok podpisov|date=15 November 2018|work=Aktuality.sk|access-date=9 January 2019|publisher=Ringier Axel Springer Slovakia|location=Bratislava}}</ref>
+|-
+| data-sort-value="Chmelár, Eduard" |[[File:Eduard_Chmelár_2009.jpg|100x100px]]
+|[[Eduard Chmelár]]
+|Independent
+| align="center" |47
+| data-sort-value="2018-04-23" |23 April 2018<ref>{{Cite news|url=https://spravy.pravda.sk/domace/clanok/467124-dalsi-kontroverzny-kandidat-na-prezidenta-podpisy-zacal-zbierat-eduard-chmelar/|title=Ďalší kontroverzný kandidát na prezidenta? Podpisy začal zbierať Eduard Chmelár|author=TASR|date=23 April 2018|work=pravda.sk|access-date=21 September 2018|publisher=Perex|location=Bratislava|issn=1336-197X}}</ref>
+| style="background: #ddffdd" data-sort-value="2019-01-28" |28 January 2019<ref>{{Cite news|url=https://www.ta3.com/clanok/1146863/aj-chmelar-odovzdal-podpisy-chce-byt-prezidentom-beznych-ludi.html|title=Aj Chmelár odovzdal podpisy, chce byť prezidentom bežných ľudí|author=TASR|date=28 January 2019|work=TA3|access-date=28 January 2019|location=Bratislava}}</ref>
+|-
+| data-sort-value="Kotleba, Marian" |[[File:Marian_Kotleba_(cropped).jpg|100x100px]]
+|[[Marian Kotleba]]
+|[[Kotleba – People's Party Our Slovakia|Kotleba-ĽSNS]]
+| align="center" |41
+| data-sort-value="2018-05-31" |31 May 2018<ref>{{Cite news|url=https://www.aktuality.sk/clanok/594445/marian-kotleba-ohlasil-kandidaturu-na-prezidenta/|title=Marian Kotleba ohlásil kandidatúru na prezidenta|date=31 May 2018|work=Aktuality.sk|access-date=21 September 2018|publisher=Ringier Axel Springer Slovakia|location=Bratislava}}</ref>
+| style="background: #ddffdd" data-sort-value="2019-01-30" |30 January 2019<ref>{{Cite news|url=https://domov.sme.sk/c/22041457/prezidentske-volby-kotleba-kandidat-podpisy-lsns.html|title=Kotleba odovzdal podpisy, zabojuje o post prezidenta|author=SITA|date=30 January 2019|work=sme.sk|access-date=31 January 2019|publisher=Petit Press|location=Bratislava|issn=1335-4418}}</ref>
+|-
+| data-sort-value="Krajniak, Milan" |[[File:MilanKrajniakWikifoto.jpg|100x100px]]
+|[[Milan Krajniak]]
+|[[We Are Family (Slovakia)|We Are Family]]
+| align="center" |46
+| data-sort-value="2018-05-31" |31 May 2018<ref>{{Cite news|url=https://domov.sme.sk/c/20838856/kandidatom-hnutia-sme-rodina-na-prezidenta-je-milan-krajniak.html|title=Do prezidentského súboja sa zapojí aj Krajniak zo Sme rodina|author=TASR|date=31 May 2018|work=sme.sk|access-date=21 September 2018|publisher=Petit Press|location=Bratislava|issn=1335-4418}}</ref>
+| style="background: #ddffdd" data-sort-value="2018-08-11" |11 August 2018<ref>{{Cite news|url=https://www.etrend.sk/ekonomika/prvym-oficialnym-kandidatom-na-prezidenta-je-milan-krajniak.html|title=Prvým oficiálnym kandidátom na prezidenta je Milan Krajniak|author=ČTK|date=11 August 2018|work=etrend.sk|access-date=21 September 2018|publisher=TREND Holding|author2=SITA|location=Bratislava|issn=1336-2674}}</ref>
+|-
+| data-sort-value="Mikloško, František" |[[File:František_Mikloško.jpg|100x100px]]
+|[[František Mikloško]]
+|Independent<ref>{{Cite news|url=https://domov.sme.sk/c/20878714/miklosko-pojde-do-prezidentskych-volieb-s-podporou-oks.html|title=Mikloško pôjde do prezidentských volieb s podporou OKS|author=TASR|date=26 July 2018|work=sme.sk|access-date=21 September 2018|publisher=Petit Press|location=Bratislava|issn=1335-4418}}</ref><ref name="postoj-kdh-miklosko">{{Cite news|agency=TASR|title=KDH v prvom kole prezidentských volieb podporí Františka Mikloška|work=Denník Postoj|url=https://www.postoj.sk/40661/kdh-v-prvom-kole-prezidentskych-volieb-podpori-frantiska-mikloska|issn=1336-720X|publisher=Postoy|location=Bratislava|date=16 February 2019 | access-date = 17 February 2019}}</ref>
+| align="center" |71
+| data-sort-value="2018-06-06" |6 June 2018<ref>{{Cite news|url=https://dennikn.sk/1143819/do-prezidentskych-volieb-ide-frantisek-miklosko-kandidovat-bude-tretikrat/|title=Do prezidentských volieb ide František Mikloško, kandidovať bude tretíkrát|last=Kern|first=Miro|date=6 June 2018|work=dennikn.sk|access-date=21 September 2018|publisher=N Press|location=Bratislava|issn=1339-844X}}</ref>
+| style="background: #ddffdd" data-sort-value="2019-01-25" |25 January 2019<ref>{{Cite news|url=https://domov.sme.sk/c/22037680/miklosko-odovzdal-podpisy-pre-prezidentsku-kandidaturu.html|title=Mikloško odovzdal podpisy pre prezidentskú kandidatúru|author=TASR|date=25 January 2019|work=sme.sk|access-date=25 January 2019|publisher=Petit Press|location=Bratislava|issn=1335-4418}}</ref>
+|-
+| data-sort-value="Šefčovič, Maroš" |[[File:Maroš_Šefčovič_MSC_2017_(cropped).jpg|100x100px]]
+|[[Maroš Šefčovič]]
+|Independent
+| align="center" |52
+| data-sort-value="2019-01-18" |18 January 2019<ref name="sme-sefcovic-prijal">{{Cite news|url=https://domov.sme.sk/c/22031916/prezidentske-volby-2019-maros-sefcovic-bude-kandidovat.html|title=Šefčovič prijal ponuku Smeru, ohlásil kandidatúru na prezidenta|last=Krbatová|first=Lucia|date=18 January 2019|work=sme.sk|access-date=18 January 2019|publisher=Petit Press|location=Bratislava|issn=1335-4418}}</ref>
+| style="background: #ddffdd" data-sort-value="2019-01-31" |31 January 2019<ref>{{Cite news|url=https://dennikn.sk/minuta/1367215/|title=Kandidát Smeru Maroš Šefčovič odovzdal podpisy poslancov|date=31 January 2019|work=dennikn.sk|access-date=31 January 2019|publisher=N Press|location=Bratislava|issn=1339-844X}}</ref>
+|-
+| data-sort-value="Švec, Róber" |[[File:Slovakia_politic_personality_icon.svg|100x100px]]
+|[[Róbert Švec]]
+|Independent
+| align="center" |42
+| data-sort-value="2018-05-27" |27 May 2018<ref>{{Cite news|url=https://www.etrend.sk/ekonomika/na-post-prezidenta-chce-kandidovat-aj-robert-svec.html|title=Na post prezidenta chce kandidovať aj Róbert Švec|author=TASR|date=27 May 2018|work=etrend.sk|access-date=9 February 2019|publisher=TREND Holding|location=Bratislava|issn=1336-2674}}</ref>
+| style="background: #ddffdd" data-sort-value="2018-08-13" |25 November 2018<ref>{{Cite news|url=https://domov.sme.sk/c/20969937/svec-vyzbieral-podpisy-pod-peticiu-na-prezidentsku-kandidaturu.html|title=Švec vyzbieral podpisy pod petíciu na prezidentskú kandidatúru|author=SITA|date=25 November 2018|work=sme.sk|access-date=9 February 2019|publisher=Petit Press|location=Bratislava|issn=1335-4418}}</ref>
+|-
+| data-sort-value="Tauchmannová, Bohumila" |[[File:Bohumila_Tauchmannová_portrait.jpg|100x100px]]
+|[[Bohumila Tauchmannová]]
+|Independent
+| align="center" |60
+| data-sort-value="2018-03-01" |1 March 2018<ref>{{Cite news|url=https://www.webnoviny.sk/obcianska-aktivistka-bohumila-tauchmannova-zaborska-ohlasila-svoju-kandidaturu-na-prezidentku/|title=Občianska aktivistka Bohumila Tauchmannová Záborská ohlásila svoju kandidatúru na prezidentku|date=19 June 2018|work=WebNoviny.sk|access-date=21 September 2018|publisher=iSITA|location=Bratislava}}</ref>
+| style="background: #ddffdd" data-sort-value="2018-09-19" |19 September 2018<ref>{{Cite news|url=https://domov.sme.sk/c/20917612/tauchmannova-zaborska-vyzbierala-podpisy-na-prezidentsku-kandidaturu.html|title=Tauchmannová vyzbierala podpisy na prezidentskú kandidatúru|author=TASR|date=19 September 2018|work=sme.sk|access-date=21 September 2018|publisher=Petit Press|location=Bratislava|issn=1335-4418}}</ref>
+|-
+| data-sort-value="Zábojník, Juraj" |[[File:Slovakia_politic_personality_icon.svg|100x100px]]
+|[[Juraj Zábojník]]
+|Independent
+| align="center" |56
+| data-sort-value="2018-02-19" |19 February 2018<ref>{{Cite news|url=http://www.tvnoviny.sk/domace/1907509_prezidentom-sa-chce-stat-aj-bezpecnostny-analytik-juraj-zabojnik|title=Prezidentom sa chce stať aj bezpečnostný analytik Juraj Zábojník|author=TASR|date=19 February 2018|work=tvnoviny.sk|access-date=21 September 2018|publisher=MARKÍZA – SLOVAKIA|location=Bratislava}}</ref>
+| style="background: #ddffdd" data-sort-value="2018-08-13" |13 August 2018<ref>{{Cite news|url=https://www.webnoviny.sk/juraj-zabojnik-vyzbieral-vyse-15-tisic-podpisov-potrebnych-pre-kandidaturu-na-prezidenta/|title=Juraj Zábojník vyzbieral vyše 15-tisíc podpisov, potrebných pre kandidatúru na prezidenta|date=13 August 2018|work=WebNoviny.sk|access-date=21 September 2018|publisher=iSITA|location=Bratislava}}</ref>
+|-
+| data-sort-value="Zuzula, Ivan" |[[File:Ivan_Zuzula.png|100x100px]]
+|[[Ivan Zuzula]]
+|[[Slovak Conservative Party|SKS]]
+| align="center" |64
+| data-sort-value="2019-01-31" |31 January 2019<ref name="zuzula">{{Cite news|url=https://domov.sme.sk/c/22042472/na-prezidenta-kandiduje-aj-ivan-zuzula-podporuju-ho-konzervativci.html|title=Na prezidenta kandiduje aj Ivan Zuzula, podporujú ho konzervatívci|author=SITA|date=31 January 2019|work=sme.sk|access-date=3 February 2019|publisher=Petit Press|location=Bratislava|issn=1335-4418}}</ref>
+| style="background: #ddffdd" data-sort-value="2018-08-13" |31 January 2019<ref name="zuzula" />
+|}
+
+===Declined to run===
+* [[Andrej Kiska]], 4th President<ref>{{cite web|title=Kiska už nebude kandidovať za prezidenta, z politiky však neodíde|url=https://dennikn.sk/1123493/kiska-uz-nebude-kandidovat-za-prezidenta-z-politiky-vsak-neodide/?ref=tit1|website=dennikn.sk|access-date=15 May 2018|language=sk}}</ref>
+* [[Robert Fico]], Former Prime Minister<ref name="ta3.com">{{cite web|title=Prezidentské voľby v Smere nie sú témou, tvrdí premiér Pellegrini|url=https://www.ta3.com/clanok/1126039/prezidentske-volby-v-smere-nie-su-temou-tvrdi-premier-pellegrini.html|website=ta3.sk|access-date=16 April 2018|language=sk}}</ref>
+* [[Peter Pellegrini]], Then-Prime Minister<ref name="ta3.com"/>
+* [[Miroslav Lajčák]], Minister of Foreign Affairs<ref name="ta3.com"/>
+* [[Iveta Radičová]], Former Prime Minister<ref name="aktuality.sk">{{cite web|title=Kto, ak nie Kiska? V prieskume o budúcom prezidentovi uspela Radičová|url=https://www.aktuality.sk/clanok/587354/kto-ak-nie-kiska-v-prieskume-o-buducom-prezidentovi-uspela-radicova/|website=aktuality.sk|access-date=7 May 2018|language=sk}}</ref>
+* [[Andrej Danko]], Speaker of the National Council of Slovak Republic<ref name="aktuality.sk"/>
+* [[Boris Kollár]], Member of Parliament and leader of We Are Family<ref name="Boris Kollár: Za prezidenta nepôjdem">{{cite web|title=Boris Kollár: Za prezidenta nepôjdem|url=https://www.aktuality.sk/clanok/425776/boris-kollar-snazia-sa-ma-zdiskreditovat/|website=aktuality.sk|access-date=10 May 2017|language=sk|archive-date=28 March 2017|archive-url=https://web.archive.org/web/20170328150609/https://www.aktuality.sk/clanok/425776/boris-kollar-snazia-sa-ma-zdiskreditovat/|url-status=dead}}</ref>
+* [[Imrich Béreš]], Former Member of Parliament<ref>{{cite web|title=Imrich Béreš naznačil, že nebude kandidovať za prezidenta|url=https://www.aktuality.sk/clanok/582021/imrich-beres-naznacil-ze-nebude-kandidovat-za-prezidenta/|website=aktuality.sk|access-date=17 April 2018|language=sk}}</ref>
+* [[Marek Maďarič]], Former Minister of Culture<ref>{{cite web|title=Marek Maďarič definitívne nebude kandidovať na prezidenta.|url=https://dennikn.sk/minuta/1125381/?ref=mpmbok|website=dennikn.sk|access-date=16 May 2018|language=sk}}</ref>
+
+===Withdrawn===
+*[[Oskar Fegyveres]], a witness in the kidnapping of [[Michal Kováč#President (1993–98)|Michal Kováč Jr.]], decided to endorse František Mikloško<ref>{{cite web|title=Ďalší prezidentský kandidát. Podpisy začína zbierať aj Oskar Fegyveres|url=https://slovensko.hnonline.sk/1754963-dalsi-prezidentsky-kandidat-podpisy-zacina-zbierat-aj-oskar-fegyveres|website=hnonline.sk|access-date=31 May 2018|language=sk-SK}}</ref>
+*[[Gabriela Drobová]], CEO & founder of [[FashionTV]]<!-- Czech&Slovak-->, former presenter and producer on [[Markíza]]<ref>{{cite web|title=O prezidentského kandidáta menej. Gabriela Drobová sa vzdala|url=https://slovensko.hnonline.sk/1883163-o-prezidentskeho-kandidata-menej-gabriela-drobova-sa-vzdala|website=hnonline.sk|access-date=31 January 2018|language=sk-SK}}</ref>
+*[[József Menyhárt]], leader of the [[Party of the Hungarian Community]], decided to endorse Robert Mistrík<ref>{{cite web|title=Kandidátom SMK v prezidentských voľbách bude predseda strany József Menyhárt|url=https://dennikn.sk/minuta/1245938/?ref=mpm|website=dennikn.sk|access-date=29 September 2018|language=sk-SK}}</ref>
+*[[Robert Mistrík]], researcher, entrepreneur and co-founder of [[Freedom and Solidarity|SaS]], decided to endorse Zuzana Čaputová<ref>{{cite web|title=Vedec Robert Mistrík ohlásil kandidatúru na prezidenta|url=https://dennikn.sk/minuta/1123978/?ref=mpm|website=dennikn.sk|access-date=15 May 2018|language=sk}}</ref>
+
+==Campaign==
+During the campaign, Šefčovič (a [[Roman Catholic]])<ref>{{Cite web|url=https://www.euractiv.com/section/politics/news/liberal-caputova-beats-sefcovic-in-slovakias-presidential-poll/|title=Liberal Caputova beats Sefcovic in Slovakia’s presidential poll|last=Gabrižová|first=Zuzana|date=18 March 2019|website=Euractiv.com|publisher=Euractiv Network|language=en-GB|access-date=1 April 2019}}</ref> spoke against any changes in [[LGBT rights in Slovakia|LGBT rights]] status in Slovakia, strongly opposing both [[Civil union|civil partnerships]] or [[LGBT adoption|same-sex adoptions]]. He criticised his opponent Čaputová (who is in favour of both) as a candidate who is forcing a "new ultraliberal agenda" on Slovakia, comparing the second round of elections to a referendum on such an agenda, which he considers to be "in exact contradiction to traditional Christian values".<ref>{{Cite web|url=https://dennikn.sk/1413204/sefcovic-vystartoval-po-caputovej-od-prvej-minuty-jej-liberalna-agenda-sa-nezhoduje-s-krestanskymi-hodnotami/|title=Šefčovič útočil na Čaputovú od prvej minúty: Jej liberálna agenda sa nezhoduje s kresťanskými hodnotami|publisher=N Press s.r.o.|website=dennikn.sk|language=sk|access-date=18 March 2019}}</ref><ref>{{Cite web|url=https://www.ft.com/content/c572379e-48af-11e9-8b7f-d49067e0f50d|title=EU centrist faces swing to right to secure Slovak poll victory|website=Financial Times|language=en|access-date=18 March 2019}}</ref> He also stated that "we can not support any further steps towards civil unions or same-sex adoptions because these would go precisely against our traditional Christian values", calling this stance as his "very natural position" due to his Christianity.<ref>{{Cite web|url=https://www.rtvs.sk/televizia/archiv/14236/182173|title=Voľby prezidenta SR 2019 - diskusia s dvoma kandidátmi|publisher=Radio and Television of Slovakia|website=rtvs.sk|language=sk|access-date=18 March 2019}}</ref><ref>{{Cite web|url=https://tv.pravda.sk/relacie/ide-o-pravdu/epizoda/1003-caputova-a-sefcovic-by-slovensko-mafianskym-statom-nikdy-nenazvali|title=Čaputová a Šefčovič by Slovensko mafiánskym štátom nikdy nenazvali|publisher=P E R E X, a. s.|website=tv.pravda.sk|language=sk|access-date=18 March 2019}}</ref> According to his opinion, discussions about "such experiments bring great unrest to society".<ref name="auto">{{Cite web|url=https://domov.sme.sk/c/22078370/prezidentske-volby-maros-sefcovic-retorika-kampan.html|title=Je problém, že mladí cítia skôr národne ako európsky, vravel Šefčovič|publisher=Petit Press, a.s|website=domov.sme.sk|language=sk|access-date=18 March 2019}}</ref>
+
+Šefčovič has also criticised his opponent Čaputová for her opinions on the [[European migrant crisis]] and related policies. He asserted the importance of a speedy deportation policy, so that "people who do not have any business here are sent to their home countries as quickly as possible".<ref>{{Cite web|url=https://plus7dni.pluska.sk/domov/ficov-nezavislak-sefcovic-smerakoch-aj-definicii-slovenskeho-zlodeja|title=Ficov nezávislák: Šefčovič o Smerákoch aj o definícii slovenského zlodeja|publisher=News and Media Holding, a.s.|website=plus7dni.pluska.sk|language=sk|access-date=18 March 2019}}</ref> Furthermore, he argued out that "it has to be Slovaks who decide who comes to our country".<ref name="auto"/>
+
+[[Štefan Harabin]] ran on a platform of "traditional Slovak culture based on Christianity and family, formed by a man–father and woman–mother" and rejecting "[[Anti-gender movement|gender ideology]]".<ref>{{Cite web |url=https://www.extraplus.sk/clanok/za-slovensko-tradicie-pravny-stat |title=Za Slovensko, tradície a právny štát |work=Extra Plus |date=28 January 2019}}</ref>
+
+During the campaign Harabin accused Muslim migrants of "killing and raping European women in Germany and France" and claimed his opponents wanted to destroy Slovak culture. He also condemned [[NATO]], [[European Union]] institutions as well as homosexuals.<ref>{{Cite news |author=Marc Santora |title=In Slovakia, Unlikely Presidential Candidate Signals a Backlash Against Populism |newspaper=The New York Times |date=15 March 2019 |url=https://www.nytimes.com/2019/03/15/world/europe/slovakia-election.html}}</ref> According to [[Globsec]], Harabin was the most favoured candidate by "pro-Kremlin disinformation channels" on [[Facebook]], receiving 174 positive and no negative posts.<ref>{{Cite web |url=https://www.globsec.org/publications/slovak-presidential-election-followed-through-facebook-disinformation-channels/ |author=Miroslava Sawiris |title=Slovak Presidential Election Followed Through Facebook Disinformation Channels |work=Globsec |date=13 March 2019}}</ref>
+
+==Opinion polls==
+===First round===
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:80%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+! [[Iveta Radičová]]
+! [[Andrej Danko]]
+! [[Veronika Remišová]]
+! [[Igor Matovič]]
+! [[Béla Bugár]]
+! [[Marian Kotleba]]
+! [[Štefan Harabin]]
+! [[Milan Krajniak]]
+! [[Maroš Šefčovič]]
+! [[Peter Pellegrini]]
+! [[Eduard Chmelár]]
+! [[Robert Mistrík]]
+! [[František Mikloško]]
+! [[Zuzana Čaputová]]
+! Martin Daňo
+! [[Marian Čaučík]]
+! Other/<br />Abstain
+|-
+!style="background:#0033cc; width:40px;"|
+!style="background:{{party color|Slovak National Party}}; width:40px;"|
+!style="background:#BED62F; width:40px;"|
+!style="background:#BED62F; width:40px;"|
+!style="background:{{party color|Most–Híd}}; width:40px;"|
+!style="background:{{party color|Kotleba – People's Party Our Slovakia}}; width:40px;"|
+!style="background:{{party color|Independent politician}}; width:40px;"|
+!style="background:{{party color|We Are Family (Slovakia)}}; width:40px;"|
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent politician}}; width:40px;"|
+!style="background:{{party color|Independent politician}}; width:40px;"|
+!style="background:{{party color|Independent politician}}; width:40px;"|
+!style="background:{{party color|Progressive Slovakia}}; width:40px;"|
+!style="background:{{party color|Independent politician}}; width:40px;"|
+!style="background:{{party color|Independent politician}}; width:40px;"|
+!style="width:165px;"|
+|-
+| style="font-size:85%; background:#D5D5D5"|'''16 Mar 2019'''
+|style="background:#D5D5D5"| '''First round election'''
+|style="background:#D5D5D5"| N/A
+|style="background:#D5D5D5"| N/A
+|style="background:#D5D5D5"| N/A
+|style="background:#D5D5D5"| N/A
+|style="background:#D5D5D5"| '''3.1%'''
+|style="background:#D5D5D5"| '''10.4%'''
+|style="background:#D5D5D5"| '''14.3%'''
+|style="background:#D5D5D5"| '''2.8%'''
+|style="background:#F0B2BA"| '''18.6%'''
+|style="background:#D5D5D5"| N/A
+|style="background:#D5D5D5"| '''2.7%'''
+|style="background:#D5D5D5"| N/A
+|style="background:#D5D5D5"| '''5.7%'''
+|style="background:#98E4FF"| '''40.6%'''
+|style="background:#D5D5D5"| '''0.5%'''
+|style="background:#D5D5D5"| N/A
+|style="background:#D5D5D5"|
+|-
+| style="font-size:85%;"|26 Feb - 1 March 2019
+| Phoenix Research<ref name="Výsledky nového predvolebného výskumu: Šefčovič by vyhral len s malým náskokom">{{cite web|title=Výsledky nového predvolebného výskumu: Šefčovič by vyhral len s malým náskokom|url=https://www.topky.sk/cl/1002081/1776113/Vysledky-noveho-predvolebneho-vyskumu--Sefcovic-by-vyhral-len-s-malym-naskokom|website=Topky.sk|access-date=3 March 2019|language=en|date=1 March 2019}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 9.1%
+| 7.8%
+| 15.2%
+| 7.1%
+| style="background:#F0B2BA" |'''19.8%'''
+| {{N/A}}
+| 5.1%
+| {{N/A}}
+| 6.7%
+| style="background:#98E4FF" |'''18.5%'''
+| 2.5%
+| {{N/A}}
+| 8.2%
+|-
+| style="font-size:85%;"|27–28 Feb 2019
+| AKO<ref name="Posledný prieskum pred voľbami: Čaputová vyletela nad 50 percent">{{Cite web|title=Posledný prieskum pred voľbami: Čaputová vyletela nad 50 percent|url=https://www.aktuality.sk/clanok/671595/posledny-prieskum-pred-volbami-caputova-vyletela-nad-50-percent/|website=Aktuality|date=1 March 2019|language=sk |access-date=1 March 2019}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 4.1%
+| 5.6%
+| 11.4%
+| 2.4%
+| style="background:#F0B2BA" |'''16.7%'''
+| {{N/A}}
+| 1.5%
+| {{N/A}}
+| 3.1%
+| style="background:#98E4FF" |'''52.9%'''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+|-
+| style="font-size:85%;"|26-28 Feb 2019
+| Focus<ref name="Exkluzívny prieskum pre TV Markíza: Čaputová má dvojnásobne vyššiu podporu ako Šefčovič">{{Cite web|title=Exkluzívny prieskum pre TV Markíza: Čaputová má dvojnásobne vyššiu podporu ako Šefčovič|url=http://www.tvnoviny.sk/clanok/1956817_exkluzivny-prieskum-pre-tv-markiza-caputova-ma-dvojnasobne-vyssiu-podporu-ako-sefcovic|website=Markiza|date=28 February 2019|language=sk|access-date=28 February 2019}}{{Dead link|date=July 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 3.2%
+| 8.2%
+| 12.0%
+| 2.4%
+| style="background:#F0B2BA" |'''22.1%'''
+| {{N/A}}
+| 2.5%
+| {{N/A}}
+| 3.5%
+| style="background:#98E4FF" |'''44.8%'''
+| 0.9%
+| {{N/A}}
+| {{N/A}}
+|-
+| style="font-size:85%;"|27 February 2019
+| Restartup<ref name="Prvý prieskum bez Mistríka zachytil silnú vlnu Čaputovej">{{Cite web|title=Prvý prieskum bez Mistríka zachytil silnú vlnu Čaputovej|url=http://restartup.sk/prieskumy/prvy-prieskum-bez-mistrika-zachytil-silnu-vlnu-caputovej/|website=Restartup.sk|date=28 February 2019|language=sk|access-date=28 February 2019|archive-date=28 February 2019|archive-url=https://web.archive.org/web/20190228192427/http://restartup.sk/prieskumy/prvy-prieskum-bez-mistrika-zachytil-silnu-vlnu-caputovej/|url-status=dead}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 7.6%
+| 9.1%
+| 9.8%
+| 5.2%
+| style="background:#F0B2BA" |'''13.5%'''
+| {{N/A}}
+| 3.2%
+| {{N/A}}
+| 5.2%
+| style="background:#98E4FF" |'''37.9%'''
+| 2.7%
+| {{N/A}}
+| {{N/A}}
+|-
+| style="font-size:85%;"|22-25 Feb 2019
+| AKO<ref name="Výsledky prieskumu preferencií pre voľby prezidenta SR, o volebnej účasti, o istote volebného rozhodnutia pre jednotlivých kandidátov">{{Cite web|title=Výsledky prieskumu preferencií pre voľby prezidenta SR, o volebnej účasti, o istote volebného rozhodnutia pre jednotlivých kandidátov|url=https://ako.sk/wp-content/uploads/2019/02/pre_TA3_ag.AKO_prezidentske_preferencie.pdf|website=AKO|date=27 February 2019|language=sk |access-date=27 February 2019}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 5.9%
+| 4.5%
+| 11.7%
+| 6.1%
+| style="background:#F0B2BA" |'''17.1%'''
+| {{N/A}}
+| 2.2%
+| 16.8%
+| 3.9%
+| style="background:#98E4FF" |'''27.5%'''
+| 2.6%
+| {{N/A}}
+| {{N/A}}
+|-
+| style="font-size:85%;"|21-26 Feb 2019
+| FOCUS<ref name="Prečo sa Mistrík vzdal? S Čaputovou prehráva v pomere 26 ku 13 percentám (prieskum Focusu)">{{Cite web|title=Prečo sa Mistrík vzdal? S Čaputovou prehráva v pomere 26 ku 13 percentám (prieskum Focusu)|url=https://dennikn.sk/1394577/preco-sa-mistrik-vzdal-s-caputovou-prehrava-v-pomere-26-ku-13-percentam-prieskum-focusu/?ref=mpm|website=Denník N|date=27 February 2019|language=sk |access-date=27 February 2019}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 5.8%
+| 8.5%
+| 13.0%
+| 4.3%
+| style="background:#F0B2BA" |'''20.4%'''
+| {{N/A}}
+| 2.0%
+| 13.1%
+| 4.3%
+| style="background:#98E4FF" |'''26.3%'''
+| 0.7%
+| {{N/A}}
+| {{N/A}}
+|-
+| style="font-size:85%;"|11-23 Feb 2019
+| Median<ref name="Exkluzívny prieskum pre RTVS: Zuzana Čaputová vedie so ziskom 23,5 percenta pred Marošom Šefčovičom s viac ako 20 percentami">{{Cite web|title=Exkluzívny prieskum pre RTVS: Zuzana Čaputová vedie so ziskom 23,5 percenta pred Marošom Šefčovičom s viac ako 20 percentami|url=https://dennikn.sk/minuta/1393905/|website=Denník N|date=26 February 2019|language=sk |access-date=26 February 2019}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 6.5%
+| 7.5%
+| 10.5%
+| 5.5%
+| style="background:#F0B2BA" |'''20.5%'''
+| {{N/A}}
+| 3.0%
+| 15.0%
+| 5.0%
+| style="background:#98E4FF" |'''23.5%'''
+| 1.0%
+| {{N/A}}
+| {{N/A}}
+|-
+| style="font-size:85%;"|13–19 Feb 2019
+| MVK<ref name="EXKLUZÍVNY PRIESKUM: Mistríkove hlasy nepripadnú len Čaputovej. Časť pôjde aj Smeru">{{cite web|title=EXKLUZÍVNY PRIESKUM: Mistríkove hlasy nepripadnú len Čaputovej. Časť pôjde aj Smeru|url=https://glob.zoznam.sk/exkluzivny-prieskum-mistrikove-hlasy-nepripadnu-len-caputovej-cast-pojde-aj-smeru/|website=Glob.sk|access-date=27 February 2019|language=sk-SK|date=27 February 2019}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 7.6%
+| 7.0%
+| 8.7%
+| 3.5%
+| style="background:#F0B2BA" |'''32.8%'''
+| {{N/A}}
+| 2.2%
+| {{N/A}}
+| 8.9%
+| style="background:#98E4FF" |'''27.6%'''
+| 0.5%
+| {{N/A}}
+| 1.1%
+|-
+| style="font-size:85%;"|13–19 Feb 2019
+| MVK<ref name="Prieskum potvrdil náskok Šefčoviča, Čaputová mierne pred Mistríkom">{{cite web|title=Prieskum potvrdil náskok Šefčoviča, Čaputová mierne pred Mistríkom|url=https://spravy.pravda.sk/prezidentske-volby-2019/clanok/503420-prieskum-potvrdil-naskok-sefcovica-caputova-mierne-pred-mistrikom/|website=Pravda.sk|access-date=25 February 2019|language=sk|date=25 February 2019}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 6.3%
+| 6.5%
+| 8.3%
+| 3.1%
+| style="background:#F0B2BA" |'''30.3%'''
+| {{N/A}}
+| 1.7%
+| 14.2%
+| 7.3%
+| style="background:#98E4FF" |'''19.4%'''
+| 0.3%
+| {{N/A}}
+| 2.5%
+|-
+| style="font-size:85%;"|12–15 Feb 2019
+| AKO<ref name="Nový prezidentský prieskum: Na druhé kolo so Šefčovičom má šance Mistrík aj Čaputová">{{cite web|title=Nový prezidentský prieskum: Na druhé kolo so Šefčovičom má šance Mistrík aj Čaputová|url=https://www.topky.sk/cl/1002023/1773313/Novy-prezidentsky-prieskum--Na-druhe-kolo-so-Sefcovicom-ma-sance-Mistrik-aj-Caputova|website=Topky.sk|access-date=17 February 2019|date=17 February 2019}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 6.5%
+| 8.2%
+| 12.1%
+| 5.6%
+| style="background:#F0B2BA" |'''19.7%'''
+| {{N/A}}
+| 3.5%
+| style="background:#C0C0C0" |'''18.2%'''
+| 2.9%
+| 17.4%
+| 2.3%
+| {{N/A}}
+| 1.5%
+|-
+| style="font-size:85%;"|7–12 Feb 2019
+| Focus<ref>{{Cite web|url=http://www.focus-research.sk/files/n242_Preferencie%20prezidentskych%20kandidatov_febru%C3%A1r_2019.pdf|title=Prieskum prezidentských preferencií - február 2019|access-date=13 February 2019|archive-date=13 February 2019|archive-url=https://web.archive.org/web/20190213131820/http://www.focus-research.sk/files/n242_Preferencie%20prezidentskych%20kandidatov_febru%C3%A1r_2019.pdf|url-status=dead}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 7.4%
+| 8.9%
+| 13.6%
+| 6.3%
+| style="background:#F0B2BA" |'''20.1%'''
+| {{N/A}}
+| 3.5%
+| style="background:#C0C0C0" |'''17.1%'''
+| 4.5%
+| 14.4%
+| 1.0%
+| {{N/A}}
+| 3.1%
+|-
+| style="font-size:85%;"|8–12 Feb 2019
+| AKO<ref>{{Cite web|url=https://ako.sk/wp-content/uploads/2019/02/prezident012019ako.pdf|title=Prieskum prezidentských preferencií - február 2019}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 7.4%
+| 6.9%
+| 12.8%
+| 7.8%
+| style="background:#F0B2BA" |'''18.2%'''
+| {{N/A}}
+| 5.0%
+| style="background:#C0C0C0" |'''15.8%'''
+| 5.5%
+| 14.7%
+| 1.7%
+| {{N/A}}
+| 3.2%
+|-
+| style="font-size:85%;"|28 January 2019
+| Restartup<ref>{{Cite web|url=https://dennikn.sk/1364610/bleskovy-prezidentsky-prieskum-bez-danka-mistrik-vedie-harabin-superi-so-sefcovicom/|title=Bleskový prezidentský prieskum bez Danka: Mistrík vedie, Harabin súperí so Šefčovičom|first=Dušan|last=Mikušovič|date=29 January 2019|website=Denník N}}</ref>
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 7.8%
+| 9.5%
+| style="background:#C0C0C0" |'''12.6%'''
+| 6.1%
+| 12.5%
+| {{N/A}}
+| 3.6%
+| style="background:#C0C0C0" |'''16.3%'''
+| 6.5%
+| 10.2%
+| 3.5%
+| {{N/A}}
+| {{N/A}}
+|-
+| style="font-size:85%;"|16–23 Jan 2019
+| Focus<ref>[http://www.focus-research.sk/files/n241_Preferencie%20prezidentskych%20kandidatov_januar_2019.pdf Preferencie prezidentskych kandidatov]</ref>
+| {{N/A}}
+| 7.8%
+| {{N/A}}
+| {{N/A}}
+| 10.1%
+| 8.2%
+| 11.7%
+| 7.0%
+| style="background:#F0B2BA" |'''16.5%'''
+| {{N/A}}
+| 2.3%
+| style="background:#C0C0C0" |'''16.5%'''
+| 6.7%
+| 9.0%
+| 0.1%
+| {{N/A}}
+| 4.1%
+|-
+| style="font-size:85%;"|10–15 Jan 2019
+| AKO<ref name="Šokujúci prezidentský prieskum. Ak by sa Mistrík vzdal, do druhého kola by postúpila Čaputová so Šefčovičom">{{cite web|title=Šokujúci prezidentský prieskum. Ak by sa Mistrík vzdal, do druhého kola by postúpila Čaputová so Šefčovičom|url=https://glob.zoznam.sk/sokujuci-prezidentsky-prieskum-ak-by-sa-mistrik-vzdal-do-druheho-kola-by-postupila-caputova-so-sefcovicom/|website=Glob.sk|access-date=2 February 2019|language=sk-SK|date=21 January 2019}}</ref>
+| {{N/A}}
+| 7.5%
+| {{N/A}}
+| {{N/A}}
+| 11.0%
+| 7.3%
+| 13.0%
+| 10.1%
+| style="background:#F0B2BA" |'''19.4%'''
+| {{N/A}}
+| 4.3%
+| {{N/A}}
+| {{N/A}}
+| style="background:#98E4FF" | '''18.5%'''
+| 1.2%
+| {{N/A}}
+| {{N/A}}
+|-
+| style="font-size:85%;"|Aug–Sep 2018
+| AKO<ref name="Prezidentský prieskum AKO: Lídrom je Mistrík, bez ohláseného kandidáta Smeru sa dostal vysoko aj Chmelár">{{cite web|last1=Mikušovič|first1=Dušan|title=Prezidentský prieskum AKO: Lídrom je Mistrík, bez ohláseného kandidáta Smeru sa dostal vysoko aj Chmelár|url=https://dennikn.sk/1227747/prezidentsky-prieskum-ako-lidrom-je-mistrik-bez-ohlaseneho-kandidata-smeru-sa-dostal-vysoko-aj-chmelar/|website=dennikn.sk|access-date=11 September 2018|language=sk-SK}}</ref>
+| {{N/A}}
+| 9.7%
+| {{N/A}}
+| 4.6%
+| 8.6%
+| 4.7%
+| 8.8%
+| 4.4%
+| {{N/A}}
+| style="background:#F0B2BA" |'''11.9%'''
+| 10.8%
+| style="background:#C0C0C0" |'''12.1%'''
+| 7.1%
+| 6.9%
+| 2.7%
+| 1.9%
+| 5.8%
+|-
+| style="font-size:85%;"|24–30 Apr 2018
+| Focus<ref name="Prieskum Focusu: Ak by Kiska nekandidoval, najväčšiu šancu má Radičová. Tá prezidentkou byť nechce">{{cite web|last1=Kern|first1=Miro|title=Prieskum Focusu: Ak by Kiska nekandidoval, najväčšiu šancu má Radičová. Tá prezidentkou byť nechce|url=https://dennikn.sk/1115650/prieskum-focusu-ak-by-kiska-nekandidoval-najvacsiu-sancu-ma-radicova-ta-prezidentkou-byt-nechce/|website=dennikn.sk|access-date=14 May 2018|language=sk-SK}}</ref>
+| style="background:#b2c1f0" |'''13.9%'''
+| style="background:#bdc4d7" | '''12.1%'''
+| 7.8%
+| {{N/A}}
+| 5.3%
+| 5.0%
+| 4.6%
+| {{N/A}}
+| 2.8%
+| {{N/A}}
+| 1.4%
+| 1.0%
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 0.5%
+| 45.9%
+|-
+|}
+
+===Second round===
+
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:85%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+
+! [[Maroš Šefčovič]]
+! [[Zuzana Čaputová]]
+|-
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Progressive Slovakia}}; width:40px;"|
+|-
+| style="font-size:85%; background:#D5D5D5"|'''30 Mar 2019'''
+|style="background:#D5D5D5"| '''Second round election'''
+|style="background:#D5D5D5"| '''41.59%'''
+| style="background:#98E4FF" |'''58.41%'''
+|-
+| 28–29 March 2019
+|Focus<ref name="Prieskum Focus: Čaputová by vyhrala s vyše 10-percentným náskokom">{{cite web|last1=a.s|first1=Petit Press|title=Prieskum Focus: Čaputová by vyhrala s vyše 10-percentným náskokom|url=https://domov.sme.sk/c/22087916/prieskum-focus-caputova-by-vyhrala-s-vyse-10-percentnym-naskokom.html|website=domov.sme.sk|access-date=30 March 2019|language=sk}}</ref>
+| 44.8%
+| style="background:#98E4FF" |'''55.2%'''
+|-
+| 17–19 March 2019
+|Median<ref name="Median poll 2nd round">{{cite web|title=Prieskum Medianu pre RTVS: Čaputová má 60,5 percenta, Šefčovič 39,5|url=https://dennikn.sk/1417522/prieskum-medianu-pre-rtvs-caputova-by-vysoko-porazila-sefcovica-v-pomere-605395/?ref=tit|website=DennikN|access-date=21 March 2019}}</ref>
+| 39.5%
+| style="background:#98E4FF" |'''60.5%'''
+|-
+| 16 March 2019
+|Focus<ref name="Markiza exit poll">{{cite web|title=Exkluzívny prieskum pre TV Markíza: V druhom kole by mal dominovať jeden kandidát|url=http://www.tvnoviny.sk/prezidentske-volby-2019/1958849_exkluzivny-prieskum-pre-tv-markiza-v-druhom-kole-by-mal-dominovat-jeden-kandidat|website=Markiza|access-date=17 March 2019}}</ref>
+| 35.6%
+| style="background:#98E4FF" |'''64.4%'''
+|-
+|26–28 February 2019
+|Focus<ref name="2.kolo prezidentských volieb február2019">{{cite web|title=2.kolo prezidentských volieb február 2019|url=http://www.focus-research.sk/files/n248_2.kolo%20prezidentsk%C3%BDch%20volieb_febru%C3%A1r_2019.pdf|website=Focus|access-date=3 March 2019|archive-date=6 March 2019|archive-url=https://web.archive.org/web/20190306043920/http://www.focus-research.sk/files/n248_2.kolo%20prezidentsk%C3%BDch%20volieb_febru%C3%A1r_2019.pdf|url-status=dead}}</ref>
+| 36.0%
+| style="background:#98E4FF" |'''64.0%'''
+|-
+|27 February 2019
+| Restartup<ref name="Prvý prieskum bez Mistríka zachytil silnú vlnu Čaputovej"/>
+| 35.5%
+|style="background:#98E4FF" |'''64.5%'''
+|-
+| 12–15 February 2019
+| AKO<ref name="Nový prezidentský prieskum: Na druhé kolo so Šefčovičom má šance Mistrík aj Čaputová"/>
+| 45.1%
+|style="background:#98E4FF" |'''54.9%'''
+|-
+|7–12 February 2019
+|Focus<ref name="Aj Focus potvrdil rast Čaputovej, Matovič chce jej odstúpenie">{{cite web|last1=a.s|first1=Petit Press|title=Aj Focus potvrdil rast Čaputovej, Matovič chce jej odstúpenie|url=https://domov.sme.sk/c/22052314/prezidentske-volby-2019-prieskum-preferencii.html|website=domov.sme.sk|access-date=13 February 2019|language=sk}}</ref>
+| style="background:#F0B2BA" |'''51.9%'''
+| 48.1%
+|-
+| 16–23 January 2019
+| Focus<ref name="Exkluzívny prieskum: Prvé reálne čísla, ktoré ukazujú, kto sa môže stať novým prezidentom"/>
+| style="background:#F0B2BA" |'''58.0%'''
+| 42.0%
+|}
+
+{{hidden begin|titlestyle=background:#cff|title=Hypothetical polling|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+'''Čaputová vs Harabin'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:85%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+
+! [[Zuzana Čaputová]]
+! [[Štefan Harabin]]
+|-
+!style="background:{{party color|Progressive Slovakia}}; width:40px;"|
+!style="background:{{party color|Independent politician}}; width:40px;"|
+|-
+|26–28 February 2019
+|Focus<ref name="2.kolo prezidentských volieb február2019"/>
+| style="background:#98E4FF" |'''72.4%'''
+| 27.6%
+|-
+|27 February 2019
+| Restartup<ref name="Prvý prieskum bez Mistríka zachytil silnú vlnu Čaputovej"/>
+| style="background:#98E4FF" |'''71.1%'''
+| 28.9%
+|}
+
+'''Šefčovič vs Harabin'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:85%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+
+! [[Maroš Šefčovič]]
+! [[Štefan Harabin]]
+|-
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent politician}}; width:40px;"|
+|-
+|27 February 2019
+| Restartup<ref name="Prvý prieskum bez Mistríka zachytil silnú vlnu Čaputovej"/>
+| style="background:#F0B2BA" |'''61.6%'''
+| 38.4%
+|-
+| 16–23 January 2019
+| Focus<ref name="Exkluzívny prieskum: Prvé reálne čísla, ktoré ukazujú, kto sa môže stať novým prezidentom">{{cite web|title=Exkluzívny prieskum: Prvé reálne čísla, ktoré ukazujú, kto sa môže stať novým prezidentom|url=http://www.tvnoviny.sk/domace/1952297_exkluzivny-prieskum-prve-realne-cisla-ktore-ukazuju-kto-sa-moze-stat-novym-prezidentom|website=tvnoviny.sk|access-date=3 February 2019|language=sk|archive-date=27 January 2019|archive-url=https://web.archive.org/web/20190127205846/http://www.tvnoviny.sk/domace/1952297_exkluzivny-prieskum-prve-realne-cisla-ktore-ukazuju-kto-sa-moze-stat-novym-prezidentom|url-status=dead}}</ref>
+| style="background:#F0B2BA" |'''65.4%'''
+| 34.6%
+|}
+
+'''Šefcovič vs Mistrík'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:85%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+
+! [[Maroš Šefčovič]]
+! [[Robert Mistrík]]
+|-
+!style="background:{{party color|Direction – Social Democracy}}; width:40px;"|
+!style="background:{{party color|Independent politician}}; width:40px;"|
+|-
+| 12–15 February 2019
+| AKO<ref name="Nový prezidentský prieskum: Na druhé kolo so Šefčovičom má šance Mistrík aj Čaputová"/>
+| 44.7%
+|style="background:#C0C0C0" |'''55.3%'''
+|-
+|7–12 February 2019
+|Focus<ref name="Aj Focus potvrdil rast Čaputovej, Matovič chce jej odstúpenie"/>
+| 49.2%
+|style="background:#C0C0C0" |'''50.8%'''
+|-
+| 16–23 January 2019
+| Focus<ref name="Exkluzívny prieskum: Prvé reálne čísla, ktoré ukazujú, kto sa môže stať novým prezidentom"/>
+| style="background:#F0B2BA" |'''50.1%'''
+| 49.9%
+|}
+
+'''Mistrík vs Harabin'''
+{| class="wikitable" style="text-align:center;"
+|- style="font-size:85%;"
+!style="width:150px;" rowspan="2"|Date
+!style="width:165px;" rowspan="2"|Agency
+
+! [[Robert Mistrík]]
+! [[Štefan Harabin]]
+|-
+!style="background:{{party color|Independent politician}}; width:40px;"|
+!style="background:{{party color|Independent politician}}; width:40px;"|
+|-
+| 16–23 January 2019
+| Focus<ref name="Exkluzívny prieskum: Prvé reálne čísla, ktoré ukazujú, kto sa môže stať novým prezidentom"/>
+| style="background:#C0C0C0" |'''63.8%'''
+| 36.2%
+|}
+{{hidden end}}
+
+====Kiska's Second term====
+This lists polls that asked people if they want [[Andrej Kiska]] as president for Second term.
+{| class="wikitable" style=text-align:center;font-size:85%;line-height:14px;"
+|-
+!  style="width:120px;" rowspan="2"|Date !!  style="width:90px;" rowspan="2"|Agency !! For !! Against
+|-
+! style="background:#088A29; width:40px;"| 
+! style="background:#E90000; width:40px;"| 
+|-
+| 24–30 April 2018 || Focus<ref name="Prieskum Focusu pre Denník N: Kisku za prezidenta nechce takmer 43 percent populácie, rovnaký počet ľudí ho chce">{{cite web|last1=Kern|first1=Miro|title=Prieskum Focusu pre Denník N: Kisku za prezidenta nechce takmer 43 percent populácie, rovnaký počet ľudí ho chce|url=https://dennikn.sk/1113185/prieskum-focusu-pre-dennik-n-kisku-za-prezidenta-nechce-takmer-43-percent-populacie-rovnaky-pocet-ludi-ho-chce/|website=Denník N|access-date=14 May 2018|language=sk-SK}}</ref> || style="background:#CEF6D8"| '''42.7''' || 42.6
+|}
+
+==Results==
+[[File:Slovensko prezidentské voľby 2019 1. kolo.png|thumb|The results of the first round of 2019 presidential elections in Slovakia in the level of municipalities. Municipalities are coloured in the colour of winning candidate (with most votes in each municipality), in cases with split wins, all winning candidates' colours are given|340x340px]]
+[[File:Slovensko prezidentské voľby 2019 2. kolo obce.png|thumb|The results of second round of Presidential election in Slovakia in 2019 in the municipality level. The municipalities are coloured in the colour of winning candidate (red: Maroš Šefčovič, blue: Zuzana Čaputová, green: tie, gray: no election held (military district).)|340x340px]]
+[[Zuzana Čaputová]] of the [[Progressive Slovakia]] party finished far ahead of the other candidates, receiving 41% of the vote, but failed to achieve the necessary threshold of 50%+1 vote from all registered voters to avoid a run-off. [[Maroš Šefčovič]], the vice president of the [[European Commission]] for the Energy Union, who was running as an independent supported by the governing Smer-SD,<ref>[https://www.nytimes.com/aponline/2019/03/30/world/europe/ap-eu-slovakia-presidential-election.html?rref=collection%2Fsectioncollection%2Faponline-world Liberal Upstart Caputova Elected 1st Slovak Female President] ''The New York Times'', 30 March 2019</ref> was the runner-up with 19% of the vote and earned the other place in the run-off. Voter turnout in the first round was 49%, the highest first round turnout since direct voting for the presidency was introduced in 1999.<ref>{{Cite news|title=Solovakia Initial Presidential Election Overview|url=http://cecgr.com/wp-content/uploads/2019/03/SLOVAKIA-PRESIDENTIAL-UPDATE-18.03.2019.pdf|publisher=CEC Government Relations|author=Terenzani, Michaela|date=18 March 2019|access-date=31 March 2019}}</ref>
+
+In the second round, Čaputová won election to the presidency, receiving 58% of the vote to Šefčovič's 42%. She became the first woman to be elected to the position and became Slovakia's youngest-ever president upon her inauguration on 15 June 2019.<ref>[http://tass.com/world/1051345 Zuzana Caputova elected the President of Slovakia] TASS, 31 March 2019</ref> The second round turnout of just 42% was the lowest for any round of a presidential election in Slovakia.<ref name=sme.sk>{{Cite news|title=Čaputová won on a record low turnout|url=https://spectator.sme.sk/c/22088166/presidential-election-turnout-low-results-caputova.html|publisher=The Spectator|website=spectator.sme.sk|author=Terenzani, Michaela|date=31 March 2019|access-date=31 March 2019}}</ref> The number of votes with which Čaputová was elected to office is also the lowest for any directly elected Slovak president to date.<ref name=sme.sk />
+
+{{Election results
+|cand1=[[Zuzana Čaputová]]|party1=[[Progressive Slovakia]]|votes1=870415|votes1_2=1056582
+|cand2=[[Maroš Šefčovič]]|party2=Independent ([[Direction – Social Democracy]]){{efn|name=Šefčovič}}|votes2=400379|votes2_2=752403
+|cand3=[[Štefan Harabin]]|party3=Independent|votes3=307823
+|cand4=[[Marian Kotleba]]|party4=[[People's Party Our Slovakia|Kotleba – People's Party Our Slovakia]]|votes4=222935
+|cand5=[[František Mikloško]]|party5=Independent|votes5=122916
+|cand6=[[Béla Bugár]]|party6=[[Most–Híd]]|votes6=66667
+|cand7=[[Milan Krajniak]]|party7=[[We Are Family (Slovakia)|We Are Family]]|votes7=59464
+|cand8=[[Eduard Chmelár]]|party8=Independent|votes8=58965
+|cand9=Martin Daňo|party9=Independent|votes9=11146
+|cand10=Róbert Švec|party10=Independent|votes10=6567
+|cand11=Juraj Zábojník|party11=Independent|votes11=6219
+|cand12=Ivan Zuzula|party12=[[Slovak Conservative Party]]|votes12=3807
+|cand13=Bohumila Tauchmannová|party13=Independent|votes13=3535
+|cand14=[[Robert Mistrík]]{{efn|name=fn1|Candidate withdrew, but was still on the ballot.}}|party14=Independent|votes14=3318
+|cand15=József Menyhárt{{efn|name=fn1}}|party15=[[Party of the Hungarian Community]]|votes15=1208
+|invalid=13495|invalid2=38432
+|votes17_2=1847417
+|electorate=4429033|electorate2=4419883
+|source=Statistics.sk [https://web.archive.org/web/20190320091215/http://www.volbysr.sk/en/data01.html (first round)], [https://web.archive.org/web/20190331093526/http://www.volbysr.sk/en/data03.html (second round)]
+}}
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Slovak elections}}
+{{Slovak presidential elections}}
+
+[[Category:2019 elections in Europe|Slovakia]]
+[[Category:2019 elections in Slovakia|Presidential]]
+[[Category:March 2019 in Slovakia|Presidential]]
+[[Category:Presidential elections in Slovakia]]
+[[Category:Zuzana Čaputová]]

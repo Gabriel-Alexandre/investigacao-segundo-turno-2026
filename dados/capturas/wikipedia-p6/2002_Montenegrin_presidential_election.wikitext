@@ -1,0 +1,70 @@
+{{Short description|none}}
+{{Infobox election
+| country = Montenegro
+| flag_year = 1993 
+| type = Presidential
+| registered = 456,981	
+| turnout = 45.87% (election invalid)
+| previous_election = 1997 Montenegrin presidential election
+| previous_year = 1997
+| election_date = 22 December 2002
+| next_election = February 2003 Montenegrin presidential election
+| next_year = {{nowrap|Feb 2003}}
+| image1 = Filip Vujanović.jpg
+| nominee1 = '''[[Filip Vujanović]]'''
+| party1 = [[Democratic Party of Socialists of Montenegro|DPS]]
+| color1 = f39c12
+| popular_vote1 = '''175,328'''
+| percentage1 = '''85.73%'''
+| image2 = 3x4.svg
+| nominee2 = [[Dragan Hajduković]]
+| party2 = Independent politician
+| popular_vote2 = 12,319
+| percentage2 = 6.02%
+| before_election = [[Filip Vujanović]] (acting)
+| before_party = Democratic Party of Socialists of Montenegro
+| after_election = [[Filip Vujanović]] (acting)
+| after_party = Democratic Party of Socialists of Montenegro
+| title = President
+| posttitle = Elected President
+}}
+Presidential elections were held in the [[Republic of Montenegro (1992–2006)|Republic of Montenegro]] on 22 December 2002.<ref name=AC>[http://psephos.adam-carr.net/countries/m/montenegro/montenegropres.txt Republic of Montenegro Presidential Election of 2002-2003] Adam Carr</ref>
+
+==Background==
+The elections were boycotted by the opposition [[Socialist People's Party of Montenegro|Socialist People's Party]], who accused the ruling [[Democratic Party of Socialists of Montenegro|Democratic Party of Socialists]] of pressurising civil servants to vote for Vujanović.<ref name=BBC/> The elections were also overshadowed by the arrest of Deputy State Attorney Zoran Piperović for connections with human trafficking and forced prostitution.<ref name=BBC>[https://news.bbc.co.uk/2/hi/europe/2598415.stm Montenegro vote ruled invalid] BBC News, 23 December 2003</ref>
+
+==Results==
+Although Dragan Hajduković was a member of the [[Greens of Montenegro]], he ran as an independent.
+
+{{Election results
+|cand1=[[Filip Vujanović]]|party1=[[Democratic Party of Socialists of Montenegro|Democratic Party of Socialists]]|votes1=175328
+|cand2=[[Dragan Hajduković]]|party2=Independent|votes2=12319
+|cand3=Aleksandar Vasiljević|party3=[[Serbian Radical Party]]|votes3=6448
+|cand4=Milo Radulović|party4=Natural Law Party|votes4=3115
+|cand5=Obrad Marković|party5=Yugoslav Communists|votes5=1747
+|cand6=Jovan Pejović|party6=Independent|votes6=1704
+|cand7=Milan Šparović|party7=Independent|votes7=1229
+|cand8=Ilija Darmanović|party8=[[Party of Serb Radicals|Serbian Radical Party of Montenegro]]|votes8=971
+|cand9=Milivoje Bakić|party9=Independent|votes9=717
+|cand10=Đorđije Milić|party10=Independent|votes10=489
+|cand11=Mihailo Marković|party11=Independent|votes11=437
+|invalid=5094
+|electorate=456981
+|source=[http://www.electionguide.org/results.php?ID=1080 IFES]
+}}
+
+==Aftermath==
+Although [[Filip Vujanović]] won the election with 86% of the vote, turnout was less than the required 50%, so the election was declared invalid.<ref name=AC/> [[February 2003 Montenegrin presidential election|Fresh elections]] were held in February 2003, which were also invalidated, and then again in [[May 2003 Montenegrin presidential election|May]] when the turnout rule was abolished.
+
+==References==
+{{reflist}} 
+
+{{Montenegrin elections}}
+
+[[Category:Presidential elections in Montenegro]]
+[[Category:2002 elections in Europe|Montenegro]]
+[[Category:2002 in Montenegro|Presidential]]
+[[Category:Elections in Serbia and Montenegro]]
+[[Category:December 2002 in Europe|Montenegro]]
+
+{{Montenegro-election-stub}}

@@ -1,0 +1,1774 @@
+{{Short description|none}}
+{{Use dmy dates|date=February 2023}}
+{{Infobox election
+| country = Ecuador
+| previous_election = 2013 Ecuadorian general election
+| previous_year = 2013
+| election_date = 19 February 2017 (first round)<br />2 April 2017 (second round)
+| next_election = 2021 Ecuadorian general election
+| next_year = 2021
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| registered = 12,816,698
+| turnout = 81.65% (first round)<br />82.98% (second round)
+
+| image1 = Lenin Moreno, president of Ecuador.jpg
+| nominee1 = '''[[Lenín Moreno]]'''
+| party1 = PAIS Alliance
+| alliance1 = '''[[United Front (Ecuador)|United Front]]'''
+| running_mate1 = '''[[Jorge Glas]]'''
+| popular_vote1 = '''5,062,018'''
+| percentage1 = '''51.16%'''
+
+| image2 = Guillermo Lasso by Samurai Juan (cropped).jpg
+| nominee2 = [[Guillermo Lasso]]
+| party2 = Creating Opportunities
+| running_mate2 = [[Andrés Páez]]
+| popular_vote2 = 4,833,389
+| percentage2 = 48.84%
+| alliance2 = {{ill|Alliance for Change (Ecuador)|es|Alianza por el Cambio (Ecuador)|lt=Alliance for Change}}
+
+| map = {{Switcher|[[File:Votos Presidente por Provincia Ecuador primera vuelta 2017.svg|200px]]|First round results by province|[[File:Votos Presidente por Provincia Ecuador segunda vuelta 2017.svg|200px]]|Second round results by province|default=2}}
+| map_size = 
+| map_caption ={{legend|{{party color|PAIS Alliance}}|Lenín Moreno}}{{legend|{{party color|CREO Movement}}|Guillermo Lasso}}
+
+| title = [[President of Ecuador|President]]
+| before_election = [[Rafael Correa]]
+| before_party = [[PAIS Alliance]]
+| after_election =[[Lenin Moreno]]
+| after_party =[[PAIS Alliance]]
+
+| module = {{Infobox legislative election
+| embed=yes
+| election_name = Parliamentary election
+| seats_for_election = All 137 seats in the [[National Assembly (Ecuador)|National Assembly]]
+| majority_seats = 69
+
+| leader1 = [[Pierina Correa]]
+| party1 = PAIS Alliance
+| last_election1 = 110
+| seats1 = 74
+| percentage1 = 39.07
+
+| leader2 = [[Salvador Quishpe]]
+| party2 = Creating Opportunities
+| last_election2 = 10
+| seats2 = 34
+| percentage2 = 20.06	
+
+| leader3 = [[Wilma Andrade]]
+| party3 = Christian Social Party (Ecuador)
+| last_election3 = 8
+| seats3 = 15
+| percentage3 = 15.90
+
+| leader4 = [[Henry Kronfle]]
+| party4 = Democratic Left (Ecuador)
+| last_election4 = new
+| seats4 = 4
+| percentage4 = 3.77
+
+| leader5 = {{ill|César Monge|es}}
+| party5 = Pachakutik Plurinational Unity Movement
+| last_election5 = 5
+| seats5 = 4
+| percentage5 = 2.67
+
+| leader6 = {{nowrap|[[Fernando Villavicencio]]}}
+| party6 = 	Patriotic Society Party
+| last_election6 = 5
+| seats6 = 2
+| percentage6 = 2.94	
+
+| leader7 = Rocío Juca
+| party7 = Fuerza Ecuador
+| last_election7 = 1
+| seats7 = 2
+| percentage7 = 4.75	
+
+| leader8 = Javier Orti
+| party8 = Advance (Ecuador)
+| last_election8 = 5
+| seats8 = 0
+| percentage8 = 2.15
+
+| leader9 = –
+| party9 = Local lists
+| party9_link = no
+| color9 = {{Party color|Other parties and independents}}
+| last_election9 = 3
+| seats9 =3
+| percentage13 = – <!-- provincial lists only -->
+
+| title=[[President of the National Assembly of Ecuador|National Assembly President]]
+| before_election=[[Gabriela Rivadeneira]]
+| before_party=PAIS Alliance
+| after_election=[[José Serrano (Ecuadorian politician)|José Serrano]]
+| after_party=PAIS Alliance
+
+}}
+}}
+}}
+
+General elections were held in Ecuador on 19 February 2017 alongside a [[2017 Ecuadorian tax haven referendum|referendum on tax havens]].<ref>[http://www.ecuadortimes.net/2016/11/22/referendum-on-tax-havens-will-be-conducted-in-the-elections-of-2017/ Referendum on tax havens will be conducted in the elections of 2017] {{Webarchive|url=https://web.archive.org/web/20161224032035/http://www.ecuadortimes.net/2016/11/22/referendum-on-tax-havens-will-be-conducted-in-the-elections-of-2017/ |date=2016-12-24 }} Ecuador Times, 22 November 2016</ref> Voters elected a new [[President of Ecuador|President]] and [[National Assembly (Ecuador)|National Assembly]]. Incumbent President [[Rafael Correa]] of the [[PAIS Alliance]] was not eligible for re-election, having served three terms. In the first round of the presidential elections, PAIS Alliance candidate [[Lenín Moreno]] received 39% of the vote. Although he was more than 10% ahead of his nearest rival, [[Guillermo Lasso]] of the [[Creating Opportunities]] party, Moreno was just short of the 40% threshold required to avoid a run-off. As a result, a second round was held on 2 April.<ref name=BBC>[https://www.bbc.co.uk/news/world-latin-america-39063683 Ecuador will hold run-off poll to choose new president] BBC News, 23 February 2017</ref> In the second round Moreno was elected president with 51.16% of the vote.<ref>[http://cne.gob.ec/es/institucion/sala-de-prensa/noticias/3994-pleno-del-cne-presento-resultados-totales-de-la-segunda-vuelta-electoral CNE plenary presented total results of the second round of elections] {{Webarchive|url=https://web.archive.org/web/20170411070520/http://cne.gob.ec/es/institucion/sala-de-prensa/noticias/3994-pleno-del-cne-presento-resultados-totales-de-la-segunda-vuelta-electoral |date=2017-04-11 }} CNE, 10 April 2017</ref><ref>[https://web.archive.org/web/20170419160425/http://www.elcomercio.com/actualidad/recuento-votos-creo-alianzapais-resultados.html El Pleno del CNE proclamó a Lenín Moreno presidente electo de Ecuador] El Comercio, 18 April 2017</ref>
+
+==Background==
+Following nearly a decade of political volatility in Ecuador that was characterized by impeachments, economic crises, and public unrest,<ref name="constitutionnet.org">{{cite web|url=http://www.constitutionnet.org/country/constitutional-history-ecuador|title=Constitutional history of Ecuador|access-date=24 June 2017}}</ref> Rafael Correa, the nation's previous president, began his ascendance to power. During his 2006 campaign Correa established the PAIS Alliance, a coalition of leftist organizations that is the same party of current president Lenin Moreno. Lenin Moreno previously served as Correa's vice president.<ref>{{cite web|url=http://www.americaeconomia.com/politica-sociedad/politica/conozca-la-historia-de-alianza-pais-de-un-binomio-al-control-del-poder-en|title=Conozca la historia de Alianza PAIS, de un binomio al control del poder en Ecuador|date=10 September 2012|access-date=24 June 2017|archive-date=17 November 2015|archive-url=https://web.archive.org/web/20151117015802/http://www.americaeconomia.com/politica-sociedad/politica/conozca-la-historia-de-alianza-pais-de-un-binomio-al-control-del-poder-en|url-status=dead}}</ref><ref>{{cite web|url=http://www.electionguide.org/elections/id/2997/|title=IFES Election Guide - Elections: Ecuador President Second Round|website=www.electionguide.org|access-date=24 June 2017}}</ref>
+
+Throughout his campaign and during his presidency Correa mobilized populist rhetoric to gain support, framing himself in opposition to the former political elite and current economic elite: Correa used the terms “neoliberal night” (“noche neoliberal”) and “[[particracy]]” (“partidocracia”) to refer to those groups, respectively, and characterized his own movement as a “[[The Citizens' Revolution|citizen's revolution]]” (''La revolucion ciudadana'').<ref>{{cite web|url=http://www.globalsecurity.org/military/world/ecuador/president-correa.htm|title=Rafael Correa|first=John|last=Pike|website=www.globalsecurity.org|access-date=24 June 2017}}</ref><ref name="economist.com">{{cite news|url=https://www.economist.com/news/americas/21717119-under-rafael-correa-living-standards-rose-he-governed-heavy-hand-and-leaves-lot|title=What to expect from Ecuador's elections|newspaper=The Economist|date=18 February 2017|access-date=24 June 2017}}</ref> Correa's success was part of a larger wave of leftist movements in Latin American that began around the turn of century, frequently referred to as the “[[pink tide]].” Other countries that elected left-leaning presidents in the early 2000s include Argentina ([[Néstor Kirchner]]), Venezuela ([[Hugo Chávez]]), and Brazil ([[Luiz Inácio Lula da Silva]]), among others.<ref name="economist.com"/><ref>{{cite news|url=http://news.bbc.co.uk/2/hi/americas/4311957.stm|title=BBC NEWS - Americas - South America's leftward sweep|website=news.bbc.co.uk|date=2 March 2005|access-date=24 June 2017}}</ref>
+
+One of the most significant events that took place during Correa's time in office was the ratification of a new constitution in 2008.<ref name="constitutionnet.org"/> Correa advocated for the new constitution and his supporters welcomed it, citing a focus on civil rights and social programs for the impoverished.<ref>{{cite news|url=https://www.theguardian.com/environment/2008/sep/24/equador.conservation|title=A new law of nature|first=Clare|last=Kendall|date=23 September 2008|access-date=24 June 2017|newspaper=The Guardian}}</ref><ref>{{cite news|url=https://www.theguardian.com/global/2008/sep/29/ecuador|title=Ecuador referendum endorses new socialist constitution|first1=Haroon|last1=Siddique|last2=agencies|date=29 September 2008|access-date=24 June 2017|newspaper=The Guardian}}</ref> However, the constitution was also met with much opposition, as its detractors feared that the document would give too much economic authority to the executive and initially believed its elimination of term limits would benefit Correa himself, although a provision on the amendment assured the law would not be put into action until after his presidency had ended.<ref name="economist.com"/>
+
+[[Guillermo Lasso]], a former banker, initially ran for president in 2013, but lost to Correa by more than 30% of the vote in the first round.<ref>[http://resultados2013.cne.gob.ec/Results.html?RaceID=1&UnitID=1&IsPS=0&LangID=0 Archived copy] {{Webarchive|url=https://web.archive.org/web/20170317085552/http://resultados2013.cne.gob.ec/Results.html?RaceID=1&UnitID=1&IsPS=0&LangID=0 |date=2017-03-17 }})</ref> In both his first and second bids for president, Lasso was aligned with the Creating Opportunities Party (''Creando Oportunidades''), a conservative-leaning party that formed in 2012 and focused on celebrating the market, eliminating taxes, as well as advocating for an independent judiciary and free speech.<ref>{{cite web|url=http://www.as-coa.org/articles/explainer-ecuadors-2017-presidential-elections|title=Explainer: Ecuador's 2017 Presidential Elections - AS/COA|website=AS/COA|date=8 February 2017 |access-date=24 June 2017}}</ref><ref>{{cite web|url=http://www.dw.com/en/ecuador-former-banker-lasso-heads-opinion-poll-for-run-off-presidential-vote/a-37722998|title=Ecuador former banker Lasso heads opinion poll for run-off presidential vote - News - DW - 26.02.2017|website=DW.COM|access-date=24 June 2017}}</ref>
+
+With Correa ineligible for re-election, his supporters formed an organisation ''Rafael Contigo Siempre'' (''Always with you Rafael'') to campaign for a constitutional amendment to allow him to run again. With signatures from 8% of the electorate required to hold a referendum (929,062), a total of 1.2 million were collected.<ref>[http://panampost.com/ysol-delgado/2016/08/17/ecuadorians-collect-1-2-million-signatures-for-correas-reelection/ Ecuadorians Collect 1.2 Million Signatures for Correa's Reelection] {{Webarchive|url=https://web.archive.org/web/20161224031323/http://panampost.com/ysol-delgado/2016/08/17/ecuadorians-collect-1-2-million-signatures-for-correas-reelection/ |date=2016-12-24 }} Panama Post, 17 August 2016</ref> However, Correa stated that he was planning on retiring from politics and would not run again.<ref>[https://panampost.com/ysol-delgado/2016/08/21/ecuador-president-correa-reelection-thanks-but-no/ Ecuador's Rafael Correa to Supporters: Thanks but I Won't Run for Reelection] {{Webarchive|url=https://web.archive.org/web/20161224031035/https://panampost.com/ysol-delgado/2016/08/21/ecuador-president-correa-reelection-thanks-but-no/ |date=2016-12-24 }} Panama Post, 21 August 2016</ref>  Instead, on 2 October 2016 the [[PAIS Alliance]] nominated [[Lenín Moreno]], Correa's vice president from 2007 to 2013, as its candidate, with incumbent vice president [[Jorge Glas]] as his running mate.<ref>{{cite news|url=https://www.wsj.com/articles/ecuadors-ruling-party-chooses-lenin-moreno-as-presidential-candidate-1475532010|title=Ecuador's Ruling Party Chooses Lenin Moreno as Presidential Candidate|last=Dube|first=Ryan|publisher=[[The Wall Street Journal]]|date=3 October 2016}}</ref> Moreno was challenged by Guillermo Lasso, a former banker.<ref name=AJ1/>
+
+==Campaign==
+A central issue in the presidential election was corruption; scandals in the [[Petroecuador]] state oil company and Odebrecht cases led to demands that candidates develop substantive plans to deal with corruption. Moreno proposed an anti-corruption law, while Lasso proposed a Truth Commission, which would be created with assistance from the [[United Nations]].<ref>[http://www.ecuadortimes.net/2017/03/21/corruption-returns-to-the-debate/ Corruption returns to the debate] {{Webarchive|url=https://web.archive.org/web/20170409112916/http://www.ecuadortimes.net/2017/03/21/corruption-returns-to-the-debate/ |date=2017-04-09 }} Ecuador Times, 21 March 2017</ref>
+
+The two main candidates had very different visions for the country; Moreno's policy ideas were fairly similar to Correa's, while Lasso said he wanted to attack corruption and lower taxes.<ref name=AJ1>[http://www.aljazeera.com/news/2017/02/ecuador-votes-crucial-general-elections-170219141200171.html Ecuador votes in crucial general elections] Al Jazeera, 19 February 2017</ref>
+
+Lasso said before the elections that he would not allow [[Julian Assange]] to continue living in the Ecuadorian embassy in London.<ref>[https://www.npr.org/sections/thetwo-way/2017/04/03/522435876/ecuador-election-ends-in-close-result-and-accusations-of-cheating Ecuador's Election Ends In Close Result, And Accusations Of Cheating] NPR, 3 April 2017</ref>
+
+==Electoral system==
+The President was elected using a modified [[two-round system]], with a candidate required to get over 50% of the vote, or get over 40% of the vote and be 10% ahead of their nearest rival to be elected in the first round.<ref>[http://www.electionguide.org/elections/id/2265/ Ecuador] {{Webarchive|url=https://web.archive.org/web/20161224031538/http://www.electionguide.org/elections/id/2265/ |date=2016-12-24 }} IFES</ref> The President is limited to two consecutive four-year terms.<ref name=PDBA>[http://pdba.georgetown.edu/ElecSys/Ecuador/ecuador.html Ecuador] Political Database of the Americas</ref>
+
+The 137 members of the National Assembly were elected by three methods : 15 were elected from a nationwide constituency, 116 were elected in 31 districts (21 corresponding to the 21 smallest provinces and 10 within the 3 largest provinces, range 2-6 seats per district), and six elected from three two-member constituencies representing Ecuadorians living overseas. Elections are by [[open list]] [[proportional representation]] (every voter can vote for as many candidates as there are seats to be awarded), with the 15 national seats allocated using the [[Webster/Sainte-Laguë method|Webster method]] and the rest using the [[d'Hondt method]].<ref>[http://cne.gob.ec/images/d/2017/Transparencia_/Código_de_la_Democracia.pdf Articles 150.2 and 164] Electoral law of Ecuador</ref> Voting was [[Compulsory voting|compulsory]] except for voters aged 16–18 or over 65 and people classed as illiterate.<ref name=IPU>[http://www.ipu.org/parline-e/reports/2095_B.htm Electoral system] IPU</ref> Members of the National Assembly are limited to two four-year terms, either consecutive or not. There are gender quotas for the party lists, meaning there is alternation between men and women. There are no quotas for minority representation.<ref name=PDBA/>
+
+Parties have to receive at least 5% of the vote in national elections in order to maintain their legal registration.<ref>[http://www.nationsencyclopedia.com/Americas/Ecuador-POLITICAL-PARTIES.html Ecuador - Political parties] Nations Encyclopedia</ref>
+
+==Opinion polls==
+===Second round===
+{{hidden begin|titlestyle=background:lightgrey|title=2017|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!rowspan="2"|Date
+!rowspan="2"|Institute
+![[Lenín Moreno|Lenín<br />Moreno]]
+![[Guillermo Lasso|Guillermo<br />Lasso]]
+|-
+!style="background-color:{{party color|PAIS Alliance}};"|
+!style="background-color:{{party color|Creating Opportunities}};"|
+|-
+|22/03/17
+|[http://www.eureknow.com/public-affairs Eureknow]
+| style="background:lightgreen" |'''44.3%'''
+|41.3%
+|-
+|22/03/17
+|[http://www.eltelegrafo.com.ec/noticias/politiko-2017/49/ultima-encuesta-de-diagnostico-moreno-48-73-lasso-37-07 DIAGNOSTICO]
+| style="background:lightgreen" |'''48.73%'''
+|37.07%
+|-
+|21/03/17
+|[https://www.elcomercio.com/actualidad/encuestas-perfilesdeopinion-resultados-leninmoreno-guillermolasso.html Perfiles de Opinión]
+| style="background:lightgreen" |'''49.37%'''
+|36.35%
+|-
+|21/03/17
+|[https://web.archive.org/web/20170326150441/http://www.cedatos.com.ec/detalles_noticia.php?Id=319 CEDATOS]
+| style="background:lightgreen" |'''52.4%'''
+|47.6%
+|-
+|21/03/17
+|[http://lahora.com.ec/index.php/noticias/show/1102041298/-1/Market_dice_que_Lenin_Moreno_ganar%C3%ADa_segunda_vuelta.html#.WNGlqaK21dg Market]
+| style="background:lightgreen" |'''52.1%'''
+|47.9%
+|-
+|19/03/17
+|[http://www.elcomercio.com/actualidad/ecuador-encuestadoras-resultados-electorales-sondeos.html CMS]
+| style="background:lightgreen" |'''36,76%'''
+|35,86%
+|-
+|16/03/17
+|[http://www.eltelegrafo.com.ec/noticias/politiko-2017/49/lenin-moreno-aventaja-por-13-89-puntos-a-guillermo-lasso-segun-encuestadora DIAGNOSTICO]
+| style="background:lightgreen" |'''50.61%'''
+|36.72%
+|-
+|15/03/17
+|[https://web.archive.org/web/20170602215400/http://www.cedatos.com.ec/detalles_noticia.php?Id=317 CEDATOS]
+|49.2%
+| style="background:lightskyblue" |'''50.8%'''
+|-
+|14/03/17
+|[http://www.elcomercio.com/actualidad/encuesta-market-diferencia-moreno-lasso.html Market]
+| style="background:lightgreen" |'''53.2%'''
+|46.8%
+|-
+|14/03/17
+|[http://www.eluniverso.com/noticias/2017/03/15/nota/6090118/encuesta-da-victoria-moreno Perfiles de Opinión]
+| style="background:lightgreen" |'''51.02%'''
+|35.53%
+|-
+|12/03/17
+|[https://web.archive.org/web/20170323021935/http://www.pichinchauniversal.com.ec/index.php/home/noticias-exclusivas/item/47966-moreno-alcanzaria-el-46-y-lasso-el-35-segun-opinion-publica-ecuador-audio Opinión Pública]
+| style="background:lightgreen" |'''46%'''
+|35%
+|-
+|09/03/17
+|[http://www.eltelegrafo.com.ec/noticias/politiko-2017/49/lenin-moreno-aventaja-por-12-puntos-a-lasso-segun-nueva-encuesta DIAGNOSTICO]
+| style="background:lightgreen" |'''48.36%'''
+|35.70%
+|-
+|06/03/17
+|[http://radiohuancavilca.com.ec/politica/2017/03/06/audio-del-1-al-5-marzo-3501-guillermo-lasso-3517-lenin-moreno-828-nulos-170-blancos-2088-indecisos/ CMS]
+| style="background:lightgreen" |'''35.17%'''
+|35.01%
+|-
+|01/03/17
+|[http://www.eltelegrafo.com.ec/noticias/politiko-2017/49/encuesta-da-a-lenin-moreno-ventaja-de-9-puntos-sobre-guillermo-lasso DIAGNOSTICO]
+| style="background:lightgreen" |'''50.39%'''
+|41.20%
+|-
+|25/02/17
+|[http://www.andes.info.ec/es/noticias/lenin-moreno-aventajaria-18-puntos-guillermo-lasso-segun-encuesta.html CIS]
+| style="background:lightgreen" |'''59%'''
+|41%
+|-
+|25/02/17
+|[https://web.archive.org/web/20170303031256/http://www.cedatos.com.ec/detalles_noticia.php?Id=312 CEDATOS]
+|47.9%
+| style="background:lightskyblue" |'''52.1%'''
+|}
+{{hidden end}}
+
+===First round===
+{{hidden begin|titlestyle=background:lightgrey|title=2017|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!rowspan="2"|Date
+!rowspan="2"|Institute
+![[Lenín Moreno|Lenín<br />Moreno]]
+![[Guillermo Lasso|Guillermo<br />Lasso]]
+![[Cynthia Viteri|Cynthia<br />Viteri]]
+![[Paco Moncayo|Paco<br />Moncayo]]
+![[Dalo Bucaram|Dalo<br />Bucaram]]
+!Washington<br />Pesántez
+!Iván<br />Espinel
+!Patricio<br />Zuquilanda
+|-
+!style="background-color:{{party color|PAIS Alliance}};"|
+!style="background-color:{{party color|Creating Opportunities}};"|
+!style="background-color:{{party color|Social Christian Party (Ecuador)}};"|
+!style="background-color:#FFA500;"|
+!style="background-color:#FF0000;"|
+!style="background-color:#DC143C;"|
+!style="background-color:#4F86F7;"|
+!style="background-color:{{party color|Patriotic Society Party}};"|
+|- class="sortbottom"
+| colspan="10" style="background-color:#CECECE" |'''End of public opinion polling (08/02/17)'''
+|-
+|08/02/17
+|[http://www.elcomercio.com/actualidad/leninmoreno-guillermolasso-cynthiaviteri-pacomoncayo-intencion.html CMS]
+| style="background:lightgreen" |'''25.63%'''
+|15.18%
+|6.64%
+|5.52%
+|–
+|–
+|–
+|–
+|-
+|08/02/17
+|[https://twitter.com/CIEESec/status/829469700849545217 CIEES]
+| style="background:lightgreen" |'''43.3%'''
+|21.3%
+|12.6%
+|10.8%
+|6.6%
+|1.0%
+|3.9%
+|0.6%
+|-
+|08/02/17
+|[http://www.opinionpublica.ec/pdf/politica-elecciones/encuesta-146.pdf Opinión Pública]
+| style="background:lightgreen" |'''34.2%'''
+|18.2%
+|13.7%
+|7.4%
+|3.6%
+|0.1%
+|2.5%
+|0.6%
+|-
+|08/02/17
+|[http://www.larepublica.ec/blog/portada/2017/02/08/cedatos-dio-a-conocer-las-ultimas-encuestas-de-intencion-de-votos/ CEDATOS]
+| style="background:lightgreen" |'''32.3%'''
+|21.5%
+|14%
+|7.7%
+|4.1%
+|0.5%
+|2.9%
+|0.6%
+|-
+|08/02/17
+|[http://ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818815405&umt=perfiles_opinion_votos_validos_lenin_moreno_43_guillermo_lasso_19_cynthia_viteri_18_paco_moncayo_8_audio Perfiles de Opinión]
+| style="background:lightgreen" |'''35%'''
+|16%
+|14%
+|7%
+|4%
+|<2%
+|4%
+|<2%
+|-
+|08/02/17
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818815375&umt=market3a_lenedn_moreno_28282c525292c_cynthia_viteri_28202c225292c_guillermo_lasso_28182c325292c_paco_moncayo_28112c525292c_abdale1_bucaram_2842c92529 Market]
+| style="background:lightgreen" |'''28.5%'''
+|18.3%
+|20.2%
+|11.5%
+|4.9%
+|0.9%
+|2.6%
+|1.0%
+|-
+|28/01/17
+|[http://www.elcomercio.com/actualidad/candidatos-psc-denuncia-campana-jaimenebot.html Informe Confidencial]
+| style="background:lightgreen" |'''26.5%'''
+|17.5%
+|18.5%
+|–
+|–
+|–
+|–
+|–
+|-
+|27/01/17
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818814826&umt=encuestadora_cms3a_lenedn_moreno_28262c4125292c_guillermo_lasso_28152c5125292c_cynthia_viteri_2872c7025292c_paco_moncayo_2852c9725292c_abdale1_bucaram_2822c942529 CMS]
+| style="background:lightgreen" |'''26.42%'''
+|15.51%
+|7.70%
+|5.97%
+|2.94%
+|<2%
+|<2%
+|<2%
+|-
+|23/01/17
+|[http://www.larepublica.ec/blog/portada/2017/01/23/lenin-34-lasso-23-nulos-y-blancos-16-cynthia-11-segun-cedatos/ CEDATOS] {{Dead link|date=September 2019|bot=InternetArchiveBot|fix-attempted=yes}}
+| style="background:lightgreen" |'''34.3%'''
+|22.9%
+|11.4%
+|8.0%
+|4.3%
+|0.5%
+|1.7%
+|0.3%
+|-
+|21/01/17
+|[http://www.eluniverso.com/noticias/2017/01/21/nota/6008230/intenciones-voto-bajan-segun-datos-market Market]
+| style="background:lightgreen" |'''28.17%'''
+|16.57%
+|17.98%
+|13.22%
+|4.78%
+|0.59%
+|1.53%
+|1.3%
+|-
+|19/01/17
+|[http://lahora.com.ec/index.php/noticias/show/1102022111/-1/Una_encuesta_pone_a_Paco_Moncayo_en_el_segundo_lugar.html#.WIeCRRt9600 Estrategia y Táctica]
+| style="background:lightgreen" |'''23.6%'''
+|15.8%
+|12.8%
+|16.9%
+|–
+|–
+|–
+|–
+|-
+|15/01/17
+|[http://www.opinionpublica.ec/pdf/politica-elecciones/encuesta-145.pdf Opinión Pública]
+| style="background:lightgreen" |'''34%'''
+|18.2%
+|8.9%
+|6.0%
+|2.9%
+|0.2%
+|1.2%
+|0.1%
+|-
+|08/01/17
+|[http://www.larepublica.ec/blog/politica/2017/01/17/cynthia-promete-que-los-medios-volveran-a-ser-libres/ Perfiles de Opinión]
+|style="background:lightgreen"|'''35%'''
+|17%
+|14%
+|8%
+|4%
+|<3%
+|<3%
+|<3%
+|}
+{{hidden end}}
+
+{{hidden begin|titlestyle=background:lightgrey|title=2016 – fourth quarter|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!Date
+!Institute
+![[Lenín Moreno|Lenín<br />Moreno]]
+![[Guillermo Lasso|Guillermo<br />Lasso]]
+![[Cynthia Viteri|Cynthia<br />Viteri]]
+![[Paco Moncayo|Paco<br />Moncayo]]
+![[Dalo Bucaram|Dalo<br />Bucaram]]
+!Washington<br />Pesántez
+!Iván<br />Espinel
+!Patricio<br />Zuquilanda
+![[Lucio Gutiérrez|Lucio<br />Gutiérrez]]
+![[Álvaro Noboa|Álvaro<br />Noboa]]
+|-
+|29/12/16
+|[http://www.eluniverso.com/noticias/2016/12/29/nota/5974024/viteri-lasso-se-disputan-segundo-puesto-encuestas-cedatos-market CEDATOS]
+| style="background:lightgreen" |'''35.6%'''
+|22.3%
+|10.9%
+|6.9%
+|3.2%
+|0.3%
+|0.8%
+|0.4%
+|–
+|–
+|-
+|28/12/16
+|[http://www.eluniverso.com/noticias/2016/12/29/nota/5974024/viteri-lasso-se-disputan-segundo-puesto-encuestas-cedatos-market Market]
+| style="background:lightgreen" |'''28.6%'''
+|17.7%
+|19.3%
+|14.8%
+|4.0%
+|0.4%
+|0.9%
+|0.1%
+|–
+|–
+|-
+|19/12/16
+|[http://ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818812998&umt=elecciones_ecuador_2017_182_cantones_encuestados_lenin_moreno_gana_en_todos_segun_encuestadora_cms_audio CMS]
+| style="background:lightgreen" |'''24.63%'''
+|12.89%
+|7.27%
+|5.18%
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|19/12/16
+|[http://www.opinionpublica.ec/pdf/politica-elecciones/encuesta-144.pdf Opinión Pública]
+| style="background:lightgreen" |'''35.9%'''
+|17.4%
+|7.5%
+|7.6%
+|1.7%
+|0.3%
+|0.4%
+|0.8%
+|–
+|–
+|-
+|15/12/16
+|[https://web.archive.org/web/20161217144113/http://www.eltelegrafo.com.ec/noticias/politiko-2017/49/perfiles-de-opinion-da-el-segundo-lugar-de-las-preferencias-al-voto-nulo Perfiles de Opinión]
+| style="background:lightgreen" |'''36.86%'''
+|15.23%
+|12.33%
+|4.8%
+|3.23%
+|0.60%
+|1.28%
+|0.08%
+|–
+|–
+|-
+|15/12/16
+|[http://ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818812794&umt=market_lenin_moreno_313_cynthia_viteri_174_guillermo_lasso_171_paco_moncayo_138_abdala_bucaram_35 Market]
+| style="background:lightgreen" |'''31.3%'''
+|17.1%
+|17.4%
+|13.8%
+|3.5%
+|0.5%
+|1.2%
+|1.9%
+|–
+|–
+|-
+|02/12/16
+|[http://www.larepublica.ec/blog/politica/2016/12/02/moreno-36-lasso-22-cynthia-9-7-segun-cedatos-en-15-ciudades/ CEDATOS]
+| style="background:lightgreen" |'''36.2%'''
+|22%
+|9.7%
+|7.3%
+|3%
+|0.5%
+|1%
+|–
+|1.7%
+|0%
+|-
+|01/12/16
+|[http://lahora.com.ec/index.php/noticias/show/1102007437/-1/Nueva_encuesta_pone_a_Moncayo_en_tercer_lugar.html#.WEB3thrhDDd Estrategia y Táctica]
+| style="background:lightgreen" |'''28.68%'''
+|18.11%
+|13.39%
+|14.03%
+|4%
+|–
+|–
+|–
+|–
+|–
+|-
+|28/11/16
+|[http://ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818811956&umt=intencion_voto_segun_market_morenoglas_281_lassopaez_18_viteripozo_176_moncayobustamante_95 Market]
+| style="background:lightgreen" |'''28.1%'''
+|18.0%
+|17.6%
+|9.5%
+|1.9%
+|0.1%
+|1.5%
+|0.3%
+|–
+|–
+|-
+|26/11/16
+|[http://www.eltelegrafo.com.ec/noticias/politiko-2017/49/cms-de-182-cantones-moreno-gana-en-todos CMS]
+| style="background:lightgreen" |'''22.79%'''
+|11.22%
+|6.73%
+|5.22%
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|23/11/16
+|[http://www.opinionpublica.ec/pdf/politica-elecciones/encuesta-143.pdf Opinión Pública]
+| style="background:lightgreen" |'''40%'''
+|16.1%
+|7.7%
+|6.5%
+|1.5%
+|0.1%
+|0.5%
+|–
+|–
+|–
+|-
+|19/11/16
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818811529 CIEES]
+| style="background:lightgreen" |'''42%'''
+|15%
+|9%
+|9%
+|<3%
+|–
+|–
+|–
+|<3%
+|<3%
+|-
+|18/11/16
+|[http://mobile.ecuadorinmediato.com/index.php?module=Noticias&func=wap_news_view&id=2818811472 Perfiles de Opinión]
+| style="background:lightgreen" |'''43%'''
+|14%
+|10%
+|8%
+|2%
+|–
+|–
+|–
+|–
+|1%
+|-
+|01/11/16
+|[http://www.eltelegrafo.com.ec/noticias/politiko-2017/49/cms-de-182-cantones-moreno-gana-en-todos CMS]
+| style="background:lightgreen" |'''26.11%'''
+|11.14%
+|5.23%
+|5.89%
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|28/10/16
+|[http://www.larepublica.ec/blog/politica/2016/10/28/52-indecisos-moreno-lasso-encabezan-intencion-voto-segun-cedatos/ CEDATOS]
+| style="background:lightgreen" |'''37%'''
+|20%
+|10%
+|7%
+|3%
+|1%
+|–
+|–
+|2%
+|1%
+|-
+|26/10/16
+|[https://web.archive.org/web/20161030093659/http://www.pichinchauniversal.com.ec/index.php/home/noticias-exclusivas/item/44882-moreno-44-lasso-13-segun-datos-del-ciees CIEES]
+| style="background:lightgreen" |'''44%'''
+|13%
+|6%
+|8%
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|25/10/16
+|[http://lahora.com.ec/index.php/noticias/show/1101995984/-1/Las_cifras_de_Market_dan_empate_a_los_opositores.html#.WBIWiyQ118E Market]
+| style="background:lightgreen" |'''32.2%'''
+|14.30%
+|16.14%
+|13.70%
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|25/10/16
+|[http://lahora.com.ec/index.php/noticias/show/1101996209/-1/Encuesta_CMS_pone_a_Len%C3%ADn_Moreno_en_la_punta_con_29.91%25.html#.WA_quOPhDDd CMS]
+| style="background:lightgreen" |'''29.91%'''
+|11.63%
+|6%
+|7.83%
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|23/10/16
+|[http://www.eluniverso.com/noticias/2016/10/23/nota/5868478/variacion-segundo-lugar-sondeos-presidenciales Merchandising]
+| style="background:lightgreen" |'''28%'''
+|12%
+|5%
+|6%
+|–
+|–
+|–
+|–
+|–
+|13%
+|-
+|23/10/16
+|[http://www.eluniverso.com/noticias/2016/10/23/nota/5868478/variacion-segundo-lugar-sondeos-presidenciales Markconsult S.A.]
+| style="background:lightgreen" |'''24%'''
+|11.5%
+|9.1%
+|2%
+|9.3%
+|–
+|–
+|–
+|–
+|–
+|-
+|23/10/16
+|[http://www.eluniverso.com/noticias/2016/10/23/nota/5868478/variacion-segundo-lugar-sondeos-presidenciales Market]
+| style="background:lightgreen" |'''33.1%'''
+|13.8%
+|17.5%
+|10.3%
+|2.0%
+|–
+|–
+|–
+|–
+|2.3%
+|-
+|16/10/16
+|[http://www.opinionpublica.ec/pdf/politica-elecciones/encuesta-142.pdf Opinión Pública]
+| style="background:lightgreen" |'''38.1%'''
+|13.7%
+|6.2%
+|6.2%
+|0.8%
+|0.6%
+|–
+|–
+|–
+|1.6%
+|-
+|13/10/16
+|[http://ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818809849&umt=perfiles_opinionintencion_voto_lenin_moreno_48_guillermo_lasso_12_nulo_11_cynthia_viteri_9_en_blanco_8_paco_moncayo_8_audio Perfiles de Opinión]
+|style="background:lightgreen"|'''48%'''
+|12%
+|9%
+|8%
+|2%
+|–
+|–
+|–
+|–
+|3%
+|}
+{{hidden end}}
+
+{{hidden begin|titlestyle=background:lightgrey|title=2016 – third quarter|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!Date
+!Institute
+![[Rafael Correa|Rafael<br />Correa]]
+![[Lenín Moreno|Lenín<br />Moreno]]
+![[Jorge Glas|Jorge<br />Glas]]
+![[Guillermo Lasso|Guillermo<br />Lasso]]
+![[Cynthia Viteri|Cynthia<br />Viteri]]
+![[Paco Moncayo|Paco<br />Moncayo]]
+![[Dalo Bucaram|Dalo<br />Bucaram]]
+![[Álvaro Noboa|Álvaro<br />Noboa]]
+![[Lucio Gutiérrez|Lucio<br />Gutiérrez]]
+![[Lourdes Tibán|Lourdes<br />Tibán]]
+!Lenin<br />Hurtado
+!Enrique<br />Ayala Mora
+!Washington<br />Pesántez
+!Jimmy<br />Jairala
+!Paúl<br />Carrasco
+![[Jaime Nebot|Jaime<br />Nebot]]
+![[Mauricio Rodas|Mauricio<br />Rodas]]
+|-
+|rowspan="2"|30/09/16
+|rowspan="2"|[http://lahora.com.ec/index.php/noticias/show/1101988277/-1/Viteri,_la_carta_fuerte_de_la_Unidad_.html#.V-5SuSQ118E Dialoga]
+|–
+|style="background:lightgreen"|'''31.7%'''
+|–
+|21.4%
+|11.5%
+|4.9%
+|4.5%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|–
+|style="background:lightgreen"|'''32.1%'''
+|–
+|22.4%
+|–
+|4.8%
+|4.9%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|7.9%
+|–
+|–
+|-
+|rowspan="2"|28/09/16
+|rowspan="2"|[http://www.eluniverso.com/noticias/2016/09/29/nota/5828815/cinthya-viteri-le-gano-paul-carrasco-encuesta-unidad Informe Confidencial]
+|–
+|style="background:lightgreen"|'''36%'''
+|–
+|18.8%
+|15.7%
+|2.1%
+|2.1%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|–
+|style="background:lightgreen"|'''33.7%'''
+|–
+|21.1%
+|–
+|2.3%
+|2.9%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|9.8%
+|–
+|–
+|-
+|rowspan="2"|16/09/16
+|rowspan="2"|[http://www.eltelegrafo.com.ec/noticias/politiko-2017/1/lenin-moreno-lidera-las-preferencias-segun-sondeo Perfiles de Opinión]
+|–
+|style="background:lightgreen"|'''49.06%'''
+|–
+|15.55%
+|10.63%
+|2.27%
+|–
+|–
+|–
+|1.37%
+|–
+|–
+|–
+|–
+|2.25%
+|–
+|–
+|-
+|–
+|–
+|style="background:lightgreen"|'''30.41%'''
+|17.55%
+|14.77%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|15/09/16
+|[http://www.larepublica.ec/blog/politica/2016/12/02/moreno-36-lasso-22-cynthia-9-7-segun-cedatos-en-15-ciudades/ CEDATOS]
+|–
+|style="background:lightgreen"|'''35%'''
+|–
+|18%
+|8%
+|2%
+|2%
+|2%
+|2%
+|–
+|–
+|–
+|0.2%
+|–
+|–
+|–
+|–
+|-
+|rowspan="2"|12/09/16
+|rowspan="2"|[http://www.elcomercio.com/actualidad/dispersion-oposicion-continuismo-ecuador-elecciones.html Quantum]
+|–
+|style="background:lightgreen"|'''42%'''
+|–
+|15%
+|10%
+|4%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|–
+|–
+|style="background:lightgreen"|'''17%'''
+|16%
+|10%
+|8%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|rowspan="2"|12/09/16
+|rowspan="2"|[http://www.elcomercio.com/actualidad/dispersion-oposicion-continuismo-ecuador-elecciones.html Monitor]
+|–
+|style="background:lightgreen"|'''31.3%'''
+|–
+|23.4%
+|13.3%
+|4.1%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|–
+|–
+|style="background:lightgreen"|'''26.9%'''
+|24.8%
+|13.3%
+|3.6%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|10/09/16
+|[http://www.opinionpublica.ec/pdf/politica-elecciones/encuesta-141.pdf Opinion Pública]
+|–
+|style="background:lightgreen"|'''44%'''
+|–
+|14%
+|4%
+|1%
+|1%
+|1%
+|–
+|1%
+|1%
+|–
+|–
+|4%
+|–
+|–
+|–
+|-
+|rowspan="2"|30/08/16
+|rowspan="2"|[http://ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818807555&umt=perfiles_opinion_lenin_moreno_lidera_54_intencion_voto_16_guillermo_lasso_8_cynthia_viteri_y_3_lucio_gutierr Perfiles de Opinión]
+|–
+|style="background:lightgreen"|'''54%'''
+|–
+|16%
+|8%
+|–
+|–
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|–
+|–
+|style="background:lightgreen"|'''34%'''
+|19%
+|13%
+|–
+|–
+|–
+|3%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|rowspan="3"|23/08/16
+|rowspan="3"|[http://lahora.com.ec/index.php/noticias/show/1101975982#.V79g9q0118E Monitor]
+|–
+|–
+|style="background:lightgreen"|'''23.4%'''
+|20.5%
+|17.3%
+|4.8%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|–
+|style="background:lightgreen"|'''33%'''
+|–
+|19.5%
+|16.2%
+|4.4%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|style="background:lightgreen"|'''25.8%'''
+|–
+|–
+|20.6%
+|17.5%
+|4.8%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|rowspan="2"|03/08/16
+|rowspan="2"|[http://www.elcomercio.com/actualidad/presidente-candidatos-elecciones-encuesta-datos.html Informe Confidencial]
+|–
+|style="background:lightgreen"|'''39.3%'''
+|–
+|12.5%
+|7.4%
+|–
+|0.9%
+|1.7%
+|1.6%
+|–
+|–
+|0.4%
+|–
+|–
+|–
+|–
+|–
+|-
+|–
+|–
+|style="background:lightgreen"|'''27.3%'''
+|13.6%
+|11.8%
+|–
+|1%
+|1.9%
+|2.2%
+|–
+|–
+|0.4%
+|–
+|–
+|–
+|–
+|–
+|-
+|rowspan="3"|22/07/16
+|rowspan="3"|[http://lahora.com.ec/index.php/noticias/show/1101966133/-1/Lasso_ganar%C3%ADa_la_elecci%C3%B3n_a_Correa_en_un_'mano_a_mano'.html#.V5IZ-Pl97IU CEDATOS]
+|–
+|style="background:lightgreen"|'''35%'''
+|–
+|22%
+|8%
+|–
+|2%
+|2%
+|2%
+|1%
+|1%
+|1%
+|0.1%
+|–
+|–
+|–
+|–
+|-
+|style="background:lightgreen"|'''28%'''
+|–
+|–
+|21%
+|8%
+|–
+|2%
+|2%
+|2%
+|1%
+|1%
+|1%
+|1%
+|–
+|–
+|–
+|–
+|-
+|–
+|–
+|20%
+|style="background:lightskyblue"|'''24%'''
+|10%
+|–
+|3%
+|2%
+|2%
+|1%
+|1%
+|1%
+|0.1%
+|–
+|–
+|–
+|–
+|-
+|rowspan="2"|04/07/16
+|rowspan="2"|[https://web.archive.org/web/20161103015045/http://www.ecuavisa.com/articulo/contacto-directo/destacada/179256-ecuatorianos-inclinan-su-intencion-voto-hacia-lenin Perfiles de Opinion]
+|–
+|style="background:lightgreen"|'''43.5%'''
+|–
+|13.2%
+|15.5%
+|–
+|1.3%
+|4.2%
+|–
+|–
+|–
+|1.2%
+|0.2%
+|–
+|–
+|–
+|–
+|-
+|–
+|–
+|style="background:lightgreen"|'''25.5%'''
+|16.8%
+|17.4%
+|–
+|1.7%
+|4.8%
+|–
+|–
+|–
+|2.9%
+|0.8%
+|–
+|–
+|–
+|–
+|-
+|rowspan="3"|03/07/16
+|rowspan="3"|[http://www.larepublica.ec/blog/politica/2016/07/03/candidato-glas-lasso-entra-primero-segunda-vuelta-segun-cedatos/ CEDATOS]
+|–
+|–
+|25%
+|style="background:lightskyblue"|'''31%'''
+|1%
+|–
+|2%
+|2%
+|–
+|1%
+|0.2%
+|1%
+|0.1%
+|1%
+|–
+|–
+|–
+|-
+|style="background:lightgreen"|'''28%'''
+|–
+|–
+|27%
+|–
+|–
+|1%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|0%
+|11%
+|–
+|-
+|style="background:lightgreen"|'''28%'''
+|–
+|–
+|style="background:lightskyblue"|'''28%'''
+|–
+|–
+|1%
+|–
+|1%
+|–
+|–
+|–
+|0%
+|–
+|–
+|–
+|6%
+|-
+|07/16
+|[http://www.opinionpublica.ec/pdf/politica-elecciones/encuesta-139.pdf Opinion Pública]
+|–
+|style="background:lightgreen"|'''38%'''
+|–
+|17%
+|5%
+|2%
+|1%
+|–
+|–
+|–
+|1%
+|–
+|–
+|6%
+|–
+|–
+|–
+|}
+{{hidden end}}
+
+{{hidden begin|titlestyle=background:lightgrey|title=2016 – second quarter|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!Date
+!Institute
+![[Lenín Moreno|Lenín<br />Moreno]]
+![[Jorge Glas|Jorge<br />Glas]]
+![[Guillermo Lasso|Guillermo<br />Lasso]]
+![[Jaime Nebot|Jaime<br />Nebot]]
+![[Cynthia Viteri|Cynthia<br />Viteri]]
+![[Paco Moncayo|Paco<br />Moncayo]]
+![[Álvaro Noboa|Álvaro<br />Noboa]]
+![[Dalo Bucaram|Dalo<br />Bucaram]]
+!Washington<br />Pesántez
+![[Lourdes Tibán|Lourdes<br />Tibán]]
+|-
+|rowspan="3"|29/06/16
+|rowspan="3"|[http://www.larepublica.ec/blog/portada/2016/06/29/moreno-lasso-encabezan-encuestas-correa-y-nebot-corren/ CEDATOS]
+|style="background:lightgreen"|'''44%'''
+|–
+|26%
+|–
+|1%
+|–
+|–
+|1%
+|0.1%
+|1%
+|-
+|–
+|25%
+|style="background:lightskyblue"|'''29%'''
+|–
+|1%
+|–
+|–
+|2%
+|0.3%
+|2%
+|-
+|style="background:lightgreen"|'''42%'''
+|–
+|23%
+|10%
+|–
+|–
+|–
+|1%
+|0%
+|1%
+|-
+|rowspan="2"|01/05/16
+|rowspan="2"|[http://ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=2818802679&umt=perfiles_opinion_encuesta_post_terremoto_revela_que_un_alto_porcentaje_acepta_medidas_economicas_del_gobierno_audio Perfiles de Opinión]
+|style="background:lightgreen"|'''50%'''
+|–
+|9%
+|15%
+|–
+|2%
+|2%
+|2%
+|1%
+|–
+|-
+|–
+|style="background:lightgreen"|'''25%'''
+|14%
+|20%
+|–
+|4%
+|3%
+|1%
+|1%
+|–
+|}
+{{hidden end}}
+
+{{hidden begin|titlestyle=background:lightgrey|title=2016 – first quarter|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!Date
+!Institute
+![[Rafael Correa|Rafael<br />Correa]]
+![[Jorge Glas|Jorge<br />Glas]]
+![[Lenín Moreno|Lenín<br />Moreno]]
+![[Guillermo Lasso|Guillermo<br />Lasso]]
+![[Jaime Nebot|Jaime<br />Nebot]]
+![[Mauricio Rodas|Mauricio<br />Rodas]]
+![[Dalo Bucaram|Dalo<br />Bucaram]]
+!Ramiro<br />González
+![[Cynthia Viteri|Cynthia<br />Viteri]]
+![[Alberto Dahik|Alberto<br />Dahik]]
+!Carlos<br />Pérez
+![[Lucio Gutiérrez|Lucio<br />Gutiérrez]]
+![[Álvaro Noboa|Álvaro<br />Noboa]]
+!Lenin<br />Hurtado
+!Paúl<br />Carrasco
+|-
+|21/02/16
+|[http://www.eluniverso.com/noticias/2016/02/21/nota/5416167/carta-ap-lidera-intencion-voto-hay-indecision Opinion Pública]
+|–
+|–
+|style="background:lightgreen"|'''34%'''
+|10%
+|10%
+|–
+|1%
+|1%
+|–
+|–
+|–
+|2%
+|1%
+|1%
+|–
+|-
+|rowspan="3"|17/02/16
+|rowspan="3"|[http://www.cedatos.com.ec/detalles_noticia.php?Id=245 CEDATOS]
+|–
+|19%
+|–
+|style="background:lightskyblue"|'''40%'''
+|–
+|–
+|4%
+|–
+|4%
+|1%
+|0%
+|–
+|–
+|–
+|–
+|-
+|style="background:lightgreen"|'''34%'''
+|–
+|–
+|26%
+|13%
+|–
+|1%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|0%
+|-
+|style="background:lightgreen"|'''36%'''
+|–
+|–
+|27%
+|–
+|8%
+|7%
+|–
+|–
+|–
+|–
+|1%
+|–
+|–
+|–
+|-
+|rowspan="2"|10/01/16
+|rowspan="2"|[http://www.ecuavisa.com/articulo/contacto-directo/destacada/130596-moreno-lasso-mas-opcionados-reemplazar-correa-segun Perfiles de Opinión]
+|–
+|style="background:lightgreen"|'''29.8%'''
+|–
+|20.8%
+|–
+|14.4%
+|3.3%
+|1.9%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|–
+|style="background:lightgreen"|'''28.5%'''
+|–
+|16.1%
+|23.9%
+|–
+|2.8%
+|2.4%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|}
+{{hidden end}}
+
+{{hidden begin|titlestyle=background:lightgrey|title=2015|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!Date
+!style="width:150px;"|Institute
+![[Rafael Correa|Rafael<br />Correa]]
+![[Lenín Moreno|Lenín<br />Moreno]]
+![[Guillermo Lasso|Guillermo<br />Lasso]]
+![[Mauricio Rodas|Mauricio<br />Rodas]]
+![[Jaime Nebot|Jaime<br />Nebot]]
+![[Lucio Gutiérrez|Lucio<br />Gutiérrez]]
+!Alberto<br />Acosta
+!Paúl<br />Carrasco
+!Ramiro<br />González
+![[Álvaro Noboa|Álvaro<br />Noboa]]
+|-
+|rowspan="2"|21/12/15
+|rowspan="2"|[https://web.archive.org/web/20170219094924/http://www.pichinchauniversal.com.ec/index.php/home/noticias-exclusivas/item/37856-segun-encuestas-de-perfiles-de-opinion-la-gente-prefiere-a-lenin-moreno-como-candidato-presidencial Perfiles de Opinión]
+|–
+|style="background:lightgreen"|'''58%'''
+|9%
+|–
+|16%
+|–
+|–
+|–
+|1%
+|–
+|-
+|–
+|style="background:lightgreen"|'''60%'''
+|13%
+|7%
+|–
+|–
+|–
+|–
+|1%
+|–
+|-
+|11/12/15
+|[http://www.opinionpublica.ec/pdf/politica-elecciones/encuesta-132.pdf Opinion Pública]
+|–
+|style="background:lightgreen"|'''35%'''
+|10%
+|6%
+|6%
+|1%
+|0.4%
+|–
+|2%
+|0.4%
+|-
+|03/10/15
+|[http://www.confirmado.net/el-67-de-los-ecuatorianos-respaldan-la-gestion-del-presidente-correa/ Opinion Pública]
+|style="background:lightgreen"|'''37%'''
+|–
+|12%
+|10%
+|6%
+|2%
+|–
+|–
+|1%
+|–
+|-
+|06/08/15
+|[http://expreso.ec/actualidad/entre-voto-blanco-y-nulo-esta-la-opcion-mayo-XOGR_8211022 Opinion Pública]
+|style="background:lightgreen"|'''34%'''
+|–
+|11%
+|9%
+|4%
+|2%
+|–
+|1%
+|–
+|–
+|-
+|13/07/15
+|[http://www.larepublica.ec/blog/portada/2015/07/13/correa-lasso-encabezan-encuestas-intencion-voto-segun-cedatos/ CEDATOS]
+|style="background:lightgreen"|'''40.4%'''
+|–
+|24%
+|12.3%
+|8.1%
+|–
+|–
+|–
+|–
+|–
+|}
+{{hidden end}}
+
+{{hidden begin|titlestyle=background:lightgrey|title=2014|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!Date
+!Institute
+![[Rafael Correa|Rafael<br />Correa]]
+![[Guillermo Lasso|Guillermo<br />Lasso]]
+![[Mauricio Rodas|Mauricio<br />Rodas]]
+![[Lucio Gutiérrez|Lucio<br />Gutiérrez]]
+!Alberto<br />Acosta
+![[Álvaro Noboa|Álvaro<br />Noboa]]
+!Norman<br />Wray
+!Nelson<br />Zavala
+![[Jorge Glas|Jorge<br />Glas]]
+![[Lenín Moreno|Lenín<br />Moreno]]
+![[Jaime Nebot|Jaime<br />Nebot]]
+!Isabel<br />Noboa
+!Ramiro<br />González
+!Vinicio<br />Alvarado
+|-
+|rowspan="2"|19/06/14
+|rowspan="2"|[http://www.larepublica.ec/blog/politica/2014/06/19/encuesta-cedatos-primero-lasso-correa-candidato/ CEDATOS]
+|style="background:lightgreen"|'''50%'''
+|16.7%
+|11.1%
+|1.2%
+|0.5%
+|1.4%
+|0.3%
+|0.3%
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|–
+|style="background:lightskyblue"|'''22.6%'''
+|15.6%
+|2.1%
+|0.7%
+|–
+|–
+|–
+|17.6%
+|13.3%
+|6.2%
+|0.6%
+|0.6%
+|0.3%
+|}
+{{hidden end}}
+
+{{hidden begin|titlestyle=background:lightgrey|title=2013|contentstyle=border:solid 1px silver; padding:8px; background:white;}}
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!Date
+!Institute
+![[Rafael Correa|Rafael<br />Correa]]
+![[Guillermo Lasso|Guillermo<br />Lasso]]
+![[Mauricio Rodas|Mauricio<br />Rodas]]
+![[Lucio Gutiérrez|Lucio<br />Gutiérrez]]
+!Alberto<br />Acosta
+![[Álvaro Noboa|Álvaro<br />Noboa]]
+!Norman<br />Wray
+!Nelson<br />Zavala
+![[Jorge Glas|Jorge<br />Glas]]
+|-
+|rowspan="2"|10/12/13
+|rowspan="2"|[http://www.eluniverso.com/noticias/2013/12/23/nota/1951731/correa-lasso-glas-encabezan-intencion-voto CEDATOS]
+|style="background:lightgreen"|'''60%'''
+|22%
+|4%
+|1%
+|1%
+|1%
+|1%
+|0.1%
+|–
+|-
+|–
+|style="background:lightskyblue"|'''31%'''
+|5%
+|1%
+|2%
+|1%
+|0.4%
+|0.1%
+|29%
+|-
+|rowspan="2"|13/10/13
+|rowspan="2"|[http://www.larepublica.ec/blog/politica/2013/11/04/si-correa-no-fuera-candidato-lasso-ganaria-las-elecciones/ CEDATOS]
+|style="background:lightgreen"|'''56%'''
+|24%
+|7%
+|1%
+|2%
+|1%
+|1%
+|1%
+|–
+|-
+|–
+|style="background:lightskyblue"|'''31%'''
+|7%
+|2%
+|2%
+|1%
+|2%
+|1%
+|23%
+|}
+{{hidden end}}
+
+==Results==
+===President===
+The first-round count was delayed for four days, far longer than usual, raising suspicions from the Lasso camp. In past years, the first-round results were known on election day. Election officials blamed the delays on "numerical inconsistencies" in some ballots. Moreno maintained a consistent lead throughout the count. However, by the fourth day of counting, it was no longer mathematically possible for him to win an outright victory—setting the stage for the runoff.<ref name=BBC/>
+
+A recount would have taken weeks and Lenin Moreno (usually referred to as just “Lenin”) challenged all the allegations of fraud. President Correa said that "the moral fraud committed by the right will not go unpunished." Moreno said he will represent those who voted and those who didn't, tweeting "Long live Ecuador! Welcome fighters of peace and of life” along with a picture of him immediately after winning the election. His opponent Lasso, however, encouraged the people to peacefully protest the election results. He tweeted: "Let's act in a peaceful but firm manner, we must go to the streets and say 'don't steal my vote' because we want a change in Ecuador."<ref>{{cite web|url=http://www.cnn.com/2017/04/03/americas/ecuador-national-elections/index.html|title=Ruling party candidate claims win in Ecuadorian vote, rival vows challenge|author=Euan McKirdy and Rafael Romo|website=CNN|date=3 April 2017|access-date=24 June 2017}}</ref>
+
+The National Electoral Council announced on 13 April that it would recount all ballots contested by both parties, accounting to about 10% of the total vote.<ref>{{cite news|url=https://www.theguardian.com/world/2017/apr/15/ecuador-presidential-election-10-of-votes-to-be-recounted|title=Ecuador presidential election: 10% of votes to be recounted|agency=Associated Press|date=14 April 2017|access-date=24 June 2017|newspaper=The Guardian}}</ref> Moreno also led the vote after recount of some of the votes, increasing the number of votes obtained by 1,594.<ref>{{cite news |title=Ecuador Vote Recount Confirms Moreno as Next President |url=https://www.usnews.com/news/world/articles/2017-04-19/ecuador-vote-recount-confirms-moreno-as-election-winner |access-date=1 February 2023 |work=US News |date=19 April 2017}}</ref>
+
+{{Election results
+|cand1=[[Lenín Moreno]]|vp1=[[Jorge Glas]]|party1=[[PAIS Alliance]]
+|votes1=3716343|votes1_2=5062018
+|cand2=[[Guillermo Lasso]]|vp2=Andrés Páez|party2=Alliance for Change ([[Creating Opportunities|CREO]]–[[SUMA Party|SUMA]])
+|votes2=2652403|votes2_2=4833389
+|cand3=[[Cynthia Viteri]]|vp3=[[Mauricio Pozo Crespo]]|party3=[[Social Christian Party (Ecuador)|Social Christian Party]]
+|votes3=1540903
+|cand4=[[Paco Moncayo]]|vp4=Monserratt Bustamante|party4=National Agreement for Change
+|votes4=634033|color4=#FFA500
+|cand5=[[Abdalá Bucaram Jr.]]|vp5=Ramiro Aguilar|party5=[[Fuerza Ecuador]]
+|votes5=455187|color5={{party color|Ecuador's Force}}
+|cand6=Iván Espinel Molina|vp6=Doris Quiroz
+|party6=[[Social Commitment Force]]|votes6=299840
+|cand7=Patricio Zuquilanda Duque|vp7=Johnnie Jorgge Álava
+|party7=[[Patriotic Society Party]]|votes7=72679
+|cand8=Washington Pesántez|vp8=Álex Alcívar|party8=Ecuadorian Union Movement
+|votes8=71107
+|invalid=1022812
+|invalid2=740167
+|electorate=12816698
+|electorate2=12816698
+|source=[https://cne.gob.ec/documents/Estadisticas/Publicaciones/resultados%20electorales%2008052017.pdf CNE]
+}}
+
+===National Assembly===
+The National Assembly makes up the legislative branch of Ecuadorean government. These elected officials have the power to pass laws, while judges of the national court of justice are chosen by a separate judicial council.<ref>{{cite web|url=https://globaledge.msu.edu/countries/ecuador/government|title=Ecuador: Government >> globalEDGE: Your source for Global Business Knowledge|website=globaledge.msu.edu|access-date=24 June 2017}}</ref>
+
+{{Election results
+|image=[[File:Asamblea Nacional Ecuador 2017 escaños.svg]]
+|firstround=National|secondround=Provincial|thirdround=Overseas
+|party1=[[PAIS Alliance]]|votes1=3184004|seats1=7|votes1_2=3061618|seats1_2=63|votes1_3=47344|seats1_3=4|totseats1=74|sc1=–36
+|party2=Alliance for Change ([[Creating Opportunities|CREO]]–[[SUMA Party|SUMA]])|votes2=1634786|seats2=3|votes2_2=1654318|seats2_2=29|votes2_3=20548|seats2_3=2|totseats2=34|sc2=+24
+|party3=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes3=1295768|seats3=3|votes3_2=1251923|seats3_2=12|votes3_3=22240|seats3_3=0|totseats3=15|sc3=+7
+|party4=[[Fuerza Ecuador]]|votes4=387100|seats4=1|votes4_2=344468|seats4_2=0|votes4_3=396|seats4_3=0|totseats4=1|sc4=0
+|party5=[[Democratic Left (Ecuador)|Democratic Left]]|votes5=307235|seats5=1|votes5_2=348919|seats5_2=3|votes5_3=2628|seats5_3=0|totseats5=4|sc5=New
+|party6=[[Patriotic Society Party]]|votes6=239594|seats6=0|votes6_2=186354|seats6_2=2|votes6_3=1355|seats6_3=0|totseats6=2|sc6=–3
+|party7=[[Pachakutik Plurinational Unity Movement – New Country|Pachakutik Plurinational Unity Movement]]|votes7=217591|seats7=0|votes7_2=216523|seats7_2=4|votes7_3=776|seats7_3=0|totseats7=4|sc7=–1
+|party8=[[Advance (Ecuador)|Advance]]|votes8=175213|seats8=0|votes8_2=223339|seats8_2=0|votes8_3=2685|seats8_3=0|totseats8=0|sc8=–5
+|party9=Social Commitment Force|votes9=159259|seats9=0|votes9_2=128767|seats9_2=0|votes9_3=1509|seats9_3=0|totseats9=0|sc9=New
+|party10=[[Popular Unity (Ecuador)|Popular Unity]]|votes10=130391|seats10=0|votes10_2=226369|seats10_2=0|votes10_3=857|seats10_3=0|totseats10=0|sc10=0
+|party11=Forward Ecuadorian. Forward Party|votes11=106758|seats11=0|votes11_2=133351|seats11_2=0|votes11_3=1866|seats11_3=0|totseats11=0|sc11=0
+|party12=Democratic Centre|votes12=92904|seats12=0|votes12_2=136955|seats12_2=0|votes12_3=1285|seats12_3=0|totseats12=0|sc12=New
+|party13=[[Coalition Movement]]|votes13=82309|seats13=0|votes13_2=63913|seats13_2=0|totseats13=0|sc13=0
+|party14=[[Socialist Party – Broad Front of Ecuador|Ecuadorian Socialist Party]]|votes14=70085|seats14=0|votes14_2=120796|seats14_2=0|votes14_3=1236|seats14_3=0|totseats14=0|sc14=0
+|party15=Ecuadorian Union Movement|votes15=66489|seats15=0|votes15_2=71917|seats15_2=0|votes15_3=1778|seats15_3=0|totseats15=0|sc15=New
+|party16=Provincial movements (MSC/UpP/MPCG)|votes16_2=209135|seats16_2=3|totseats16=3|sc16=0
+|invalid=2326745|invalid2=1966557|invalid3=26727
+|total_sc=0
+|electorate=12816698|electorate2=12436606|electorate3=378292
+|source=[http://www.eltelegrafo.com.ec/noticias/politiko-2017/49/pais-conservara-el-control-de-la-asamblea El Telegrafo], [https://app01.cne.gob.ec/resultados2017/frmResultados.aspx CNE]
+}}
+
+=== Andean Parliament ===
+{{Election results
+|party1=[[PAIS Alliance]]–[[Socialist Party – Broad Front of Ecuador|Ecuadorian Socialist Party]]|votes1=13394755|seats1=3
+|party2=Alliance for Change ([[Creating Opportunities|CREO]]–[[SUMA Party|SUMA]])|votes2=6853777|seats2=1
+|party3=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes3=6080202|seats3=1
+|party4=National Agreement for Change|votes4=3890349|color4=#FFA500|seats4=0
+|party5=[[Fuerza Ecuador]]|votes5=1866345|seats5=0
+|party6=Advance|votes6=934235|seats6=0
+|party7=Social Commitment Force|votes7=881398|seats7=0
+|party8=[[Patriotic Society Party]]|votes8=851743|seats8=0
+|party9=[[Democratic Center (Ecuador)|Democratic Center]]|votes9=533881|seats9=0
+|party10=Forward Ecuadorian, Forward|votes10=513780|color10=#FCF75E|seats10=0
+|party11=[[Coalition Movement]]|votes11=422716|seats11=0
+|valid=8243160
+|invalid=2234106
+|electorate=12816698
+|source=[https://app01.cne.gob.ec/resultados2017/frmResultados.aspx CNE]
+}}
+
+==References==
+{{reflist}}
+
+{{Ecuadorian elections}}
+
+[[Category:2017 in Ecuador|General]]
+[[Category:2017 elections in South America|Ecuador]]
+[[Category:February 2017 in South America|Ecuador]]
+[[Category:April 2017 in South America|Ecuador]]
+[[Category:Election and referendum articles with incomplete results]]<!-- Missing provincial votes for Congress-->
+[[Category:Presidential elections in Ecuador]]
+[[Category:Parliamentary elections in Ecuador]]

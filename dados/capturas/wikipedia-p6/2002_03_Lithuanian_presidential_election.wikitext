@@ -1,0 +1,140 @@
+{{Short description|none}}
+{{Use dmy dates|date=March 2019}}
+{{Infobox election
+| country = Lithuania
+| flag_year = 1988
+| type = presidential
+| previous_election = 1997–98 Lithuanian presidential election
+| previous_year = {{nowrap|1997–98}}
+| election_date = 22 December 2002 (first round)<br>5 January 2003 (second round)
+| next_election = 2004 Lithuanian presidential election
+| next_year = 2004
+| turnout = 53.92% (first round)<br>52.65% (second round)
+
+| image1 = Paksas March 2003 (cropped).jpg
+| nominee1 = '''[[Rolandas Paksas]]'''
+| party1 = [[Order and Justice|LDP]]
+| colour1 = FFF500
+| popular_vote1 = '''777,769'''
+| percentage1 = '''54.71%'''
+
+| image2 = Julius Numavicius with Valdas Adamkus (cropped) 2004.jpg
+| nominee2 = [[Valdas Adamkus]]
+| party2 = Independent politician
+| popular_vote2 = 643,870
+| percentage2 = 45.29%
+
+| map_image = Results of Lithuanian presidential election, 2002-2003 (second round).png
+| map_caption = Results (second round)<br>Legend:<br>{{legend0|red}} – '''Rolandas Paksas'''<br>{{legend0|blue}} – '''Valdas Adamkus'''
+
+| title = President
+| before_election = [[Valdas Adamkus]]
+| before_party = Independent politician
+| after_election = [[Rolandas Paksas]]
+| after_party = [[Order and Justice|LDP]]
+}}{{Politics of Lithuania}}
+
+Presidential elections were held in [[Lithuania]] on 22 December 2002, with a second round on 5 January 2003. Incumbent President [[Valdas Adamkus]] ran for reelection alongside sixteen other candidates, the largest field of presidential candidates in the country's history. Though Adamkus held a large lead over his closest opponent, [[Rolandas Paksas]] of the [[Order and Justice|Liberal Democratic Party]] (LDP), in the first round of the election,<ref>[https://www.electionguide.org/elections/id/1881/ Republic of Lithuania: Election for President] IFES Election Guide</ref> Paksas defeated Adamkus in the second round with 54.71% of the vote.<ref>[https://www.electionguide.org/elections/id/1884/ Republic of Lithuania: Election for President] IFES Election Guide</ref>
+
+The election is considered to be one of the most important presidential elections in Lithuanian history since 1990.<ref name="kampanija">{{cite web |last1=Bakūnaitė |first1=Gintarė |title=Rinkimai, pakeitę Lietuvos istoriją: kaip Paksas "ėmė apačias" |url=https://www.delfi.lt/multimedija/pamokos/rinkimai-pakeite-lietuvos-istorija-kaip-paksas-eme-apacias-80161559 |website=Delfi |language=lt |date=22 February 2019}}</ref> Paksas's victory and subsequent [[impeachment]] in 2004 led to the rise of the [[Order and Justice]] party.
+
+==Background==
+===Presidential powers===
+{{main article|President of Lithuania}}
+The Lithuanian president has somewhat more executive authority than their counterparts in neighboring [[president of Estonia|Estonia]] and [[president of Latvia|Latvia]]; the Lithuanian president's function is similar to that of the presidents of [[President of France|France]] and [[President of Romania|Romania]]. Similarly to them, but unlike presidents in a fully presidential system such as [[President of the United States|the United States]], the Lithuanian president generally has the most authority in foreign affairs. In addition to the customary diplomatic powers of Heads of State, namely receiving the [[letters of credence]] of foreign ambassadors and signing [[treaties]], the president determines Lithuania's basic foreign policy guidelines. The president is also the [[commander-in-chief]] of the [[Lithuanian Armed Forces]], and accordingly heads the State Defense Council and has the right to appoint the [[Chief of Defence (Lithuania)|Chief of Defence]] (subject to Seimas consent).<ref name="Powers">[https://www.lrp.lt/en/institution/presidential-functions/35145 Presidential Functions | President of the Republic of Lithuania]</ref>
+
+The president also has a significant role in domestic policy, possessing the right to submit bills to the [[Seimas]] and to [[veto]] laws passed by it, appointing the [[Prime Minister of Lithuania|prime minister]] and approving the government formed by them, and also having the right to [[Dissolution of Parliament|dissolve]] the Seimas and call [[snap elections]] following a successful [[motion of no confidence]] or if the Seimas refuses to approve the government's budget within sixty days. However, the next elected Seimas may retaliate by calling for an earlier presidential election.<ref name="Constitution">[https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.21892?jfwid=-wd7z8ivg5 Constitution of the Republic of Lithuania – Seimas site]</ref> In addition, according to a resolution by the [[Constitutional Court of Lithuania]] in 1998, the president is required by law to nominate the candidate of the parliamentary majority to the office of prime minister.<ref name="galios">{{cite web |last1=Jastramskis |first1=Mažvydas |title=Ką gali Lietuvos prezidentas? |url=https://www.prezidentogalios.lt/ka-gali-lietuvos-prezidentas |website=Prezidentogalios.lt |language=lt |date=3 April 2024}}</ref>
+
+The president also holds informal power, as the office of president is generally more trusted by the populace according to approval polling, and Lithuanian presidents historically blocked legislation and forced the resignation of prime ministers (such as [[Gediminas Vagnorius]] in 1998).<ref name="galios" />
+
+===Electoral system===
+The president is elected using the [[two-round system]]. To win in the first round, a candidate requires an absolute majority of all votes cast (including invalid votes) and either voter turnout to be above 50% or for their vote share to be equivalent to at least one-third of the number of registered voters. If no candidate wins in the first round, a second round is required, featuring the top two candidates. While some candidates belong to and/or are supported by a [[political party]], the office of the president is formally non-partisan.<ref>{{cite web|url=http://www.electionguide.org/elections/id/3146/|title=Lithuania: Election for President|website=IFES Election Guide}}</ref>
+
+Citizens of Lithuania at least 40 years of age whose at least one parent was also a citizen ([[natural-born-citizen clause]]), who have lived in Lithuania for at least three years prior, are not serving a [[Imprisonment|prison sentence]], are not on [[active duty]] in the [[Lithuanian Armed Forces]], are not bound to any other country by an [[oath]] and have never been [[impeachment|impeached]], are allowed to run for president. Each candidate must collect at least 20 thousand signatures by Lithuanian citizens to be able to run for election.<ref>{{cite web |title=Lietuvos Respublikos Prezidentas |url=https://www.vle.lt/straipsnis/lietuvos-respublikos-prezidentas/ |website=[[Visuotinė lietuvių enciklopedija]] |language=Lithuanian}}</ref><ref>{{cite news | last=Andrukaitytė | first=Milena | title=VRK patvirtino, kad Šimonytė surinko parašus prezidento rinkimams | work=LRT | date=7 March 2024 | url=https://www.lrt.lt/naujienos/lietuvoje/2/2216459/vrk-patvirtino-kad-simonyte-surinko-parasus-prezidento-rinkimams | language=lt | access-date=27 March 2024}}</ref>
+
+===Previous election===
+The previous election was held in [[1997–98 Lithuanian presidential election|1997 and 1998]]. The winner of the election was independent candidate [[Valdas Adamkus]], who defeated deputy general prosecutor and independent candidate [[Artūras Paulauskas]] and [[Homeland Union]] chairman [[Vytautas Landsbergis]]. The election was noted for irregularities and violent incidents - Adamkus's chief of staff Raimundas Mieželis was beaten by hooligans prior to the first round, Paulauskas claimed that he was followed by secret service who answered to Landsbergis, and the narrow result in the second round raised allegations of [[electoral fraud]].<ref>{{cite web |last1=Pūkenė |first1=Rūta |title=Prezidento rinkimai. Tai buvo kova be taisyklių: sumuštas štabo vadovas, pasikėsinimas ir sąvartyne rasti balsai |url=https://www.delfi.lt/multimedija/pamokos/prezidento-rinkimai-tai-buvo-kova-be-taisykliu-sumustas-stabo-vadovas-pasikesinimas-ir-savartyne-rasti-balsai-81118697 |website=Delfi |language=lt |date=18 May 2019}}</ref>
+
+==Candidates==
+20 individuals applied to be candidates in the election. Three of them, [[Stanislovas Buškevičius]] ([[Young Lithuania]]), [[Kazimieras Uoka]] and Vytautas Kundrotas did not provide the signatures necessary to be registered. Eight of the registered candidates were independents and nine belonged to political parties at time of registration.<ref>{{cite web |title=Pretendentai būti kandidatais į Respublikos Prezidentus |url=https://www.vrk.lt/statiniai/puslapiai/rinkimai/2002/Prezidentas/pretendentai_buti_kandidatais.htm |website=Central Electoral Commission of Lithuania |language=lt |date=2002}}</ref>
+
+===Rolandas Paksas===
+Paksas was a former national [[aerobatics]] champion who had at time of the election served for two times as [[Prime Minister of Lithuania]], first from May to October 1999 and second time from October 2000 to June 2001. Originally leading a [[Homeland Union]] cabinet in 1999, Paksas resigned in protest to the sale of the [[Orlen Lietuva|Mažeikiai oil refinery]] to the American [[Williams Companies]] - though he was forced to leave the party, his popularity soared and he was later appointed as an advisor on energy policy to the President.<ref name="premjeras">{{cite web |last1=Tvaskienė |first1=Jurga |title="Širdžių premjero" skrydis į prezidento postą: nesisteminiu politiku vadintas Paksas davė ateities pamoką |url=https://www.delfi.lt/multimedija/pamokos/sirdziu-premjero-skrydis-i-prezidento-posta-nesisteminiu-politiku-vadintas-paksas-dave-ateities-pamoka-76710545 |website=Delfi |language=lt |date=6 February 2018}}</ref>
+
+Paksas then joined the [[Liberal Union of Lithuania|Liberal Union]], a small [[classical liberal]] party which was connected to the fraudulent [[EBSW]] business conglomerate.<ref>{{cite web |last1=Igorius |first1=Algirdas |title=Liberalų partijos įkūrėjas: verslo grupės liberalus užvaldė dar 1995 m. |url=https://www.lrt.lt/naujienos/lietuvoje/2/215582/liberalu-partijos-ikurejas-verslo-grupes-liberalus-uzvalde-dar-1995-m |website=LRT |language=lt |date=10 June 2018}}</ref> Under his leadership, the party grew from 1 to 34 seats in the [[2000 Lithuanian parliamentary election]]. Encouraged by Adamkus,<ref name="koalicija">{{cite web |title=Prezidentas renkasi naująją politiką |url=https://www.delfi.lt/news/daily/lithuania/prezidentas-renkasi-naujaja-politika-89546 |website=Delfi |language=lt |date=10 October 2000}}</ref> the Liberals formed a "New Politics" coalition (Lithuanian: ''"Naujosios politikos" koalicija'') with the [[New Union (Social Liberals)]], with [[supply and confidence]] from the [[Peasants and New Democratic Party Union]], forming [[Paksas Cabinet II]]. It was the first cabinet in Lithuania's history since 1990 which had neither the [[Homeland Union]] or the [[Democratic Labour Party of Lithuania]] in its composition. 
+
+It was a [[minority government]] and collapsed on 18 June 2001, when all New Union ministers withdrew from the government and the party announced its intention to form a government with the [[Social Democratic Party of Lithuania|Social Democratic Party]]. A few months later, he resigned as chairman of the Liberal Union after criticism from the party's council.<ref name="premjeras" /> Paksas and his loyalists subsequently left the party and established the [[Order and Justice|Liberal Democratic Party]].<ref>{{cite web |title=R.Pakso bendražygiai kurs Liberalų demokratų partiją |url=https://www.delfi.lt/news/daily/lithuania/rpakso-bendrazygiai-kurs-liberalu-demokratu-partija-731837 |website=Delfi |language=lt |date=21 January 2002}}</ref> Paksas ran as the party's presidential candidate.
+
+===Valdas Adamkus===
+Adamkus, a former official of the [[United States Environmental Protection Agency|Environmental Protection Agency]] and a member of the [[Lithuanian diaspora]] during the [[Cold War]], was elected President in 1998. During his term, Lithuania progressed in its goal to join the [[European Union]] and [[NATO]], but internal politics were fragile. After the collapse of the cabinet of [[Gediminas Vagnorius]] due to his conflict with the president, Adamkus promoted Paksas as a protégé.<ref name="rinkimai">{{cite web |last1=Pūkenė |first1=Rūta |title=Prezidento rinkimai. Pirmuosius Pakso politinius žingsnius matė iš labai arti: jie jo visiškai neįvertino |url=https://www.delfi.lt/multimedija/pamokos/prezidento-rinkimai-pirmuosius-pakso-politinius-zingsnius-mate-is-labai-arti-jie-jo-visiskai-neivertino-81068135 |website=Delfi |language=lt |date=4 May 2019}}</ref> Adamkus also encourage the formation of the short-lived "New Politics" coalition.<ref name="koalicija" />
+
+===Artūras Paulauskas===
+Paulauskas was Adamkus's opponent in the 1998 presidential election and afterwards founded the [[New Union (Social Liberals)]], which won the second largest number of seats in the 2000 parliamentary election and formed the "New Politics" coalition with Paksas's Liberal Union.<ref>{{cite web |title=Naujoji sąjunga |url=https://www.vle.lt/straipsnis/naujoji-sajunga/ |website=Visuotinė lietuvių enciklopedija |language=lt}}</ref> Paulauskas was elected as the [[Speaker of the Seimas]] and was endorsed as the coalition's candidate in the country's next presidential election - however, the deal was rescinded after the collapse of the coalition and Paksas's decision to run for the election himself.<ref>{{cite web |last1=Pūkenė |first1=Rūta |title=Prezidento rinkimai. Pirmuosius Pakso politinius žingsnius matė iš labai arti: jie jo visiškai neįvertino |url=https://www.delfi.lt/multimedija/pamokos/prezidento-rinkimai-pirmuosius-pakso-politinius-zingsnius-mate-is-labai-arti-jie-jo-visiskai-neivertino-81068135 |website=Delfi |language=lt |date=4 May 2019 |quote=Nors 2001 metų balandį R. Paksas partijos nariams pareiškė, kad, kol bus premjeru, į prezidentus nekandidatuos, ir parėmė Artūrą Paulauską, situacija netruko pasikeisti. Tų pačių metų birželį valdančioji koalicija žlugo ir 6 socialdemokratų ministrai išėjo iš Vyriausybės. R. Paksas vėl paskelbė atsistatydinantis, po kelių mėnesių pasitraukė iš LSS pirmininko posto, dar vėliau – ir iš opozicinės Liberalų frakcijos Seime.}}</ref>
+
+Before the election, Paulauskas voiced his hesitation to participate, as the chaotic nature of the newly elected parliament, which he served as the Speaker of, caused a downfall of his approval ratings.<ref>{{cite web |title=A.Paulauskas prarandą norą būti prezidentu |url=https://www.delfi.lt/archive/apaulauskas-praranda-nora-buti-prezidentu.d?id=321815 |website=Delfi |language=lt |date=22 May 2001}}</ref> In spite of this, he, alongside chairman of the Social Democratic Party [[Algirdas Mykolas Brazauskas]], was seen as the most realistic opponent to Adamkus before the election.<ref>{{cite web |last1=Pūkenė |first1=Rūta |title=Prezidento rinkimai. Pirmuosius Pakso politinius žingsnius matė iš labai arti: jie jo visiškai neįvertino |url=https://www.delfi.lt/multimedija/pamokos/prezidento-rinkimai-pirmuosius-pakso-politinius-zingsnius-mate-is-labai-arti-jie-jo-visiskai-neivertino-81068135 |website=Delfi |language=lt |date=4 May 2019 |quote=Artėjančiuose prezidento rinkimuose kaip bene rimčiausi V. Adamkaus įpėdiniai įvardyti Algirdas Brazauskas ir Artūras Paulauskas. 2001 m. A. Brazauskas grįžo į politiką ir iš karto buvo išrinktas Lietuvos socialdemokratų partijos pirmininku, po pusmečio Seimas jį patvirtino Vyriausybės vadovu. Savo ruožtu A. Paulauskas 1997 m. prezidento rinkimuose nuo V. Adamkaus atsiliko tik 0,8 proc. balsų.}}</ref>
+
+Despite his party being in a coalition with the [[Social Democratic Party of Lithuania|Social Democrats]], they did not endorse Paulauskas and instead ran [[Vytenis Andriukaitis]] as a candidate. He was backed by the party's local organizations from the left flank as a symbol that the party was not entirely taken over by the [[Democratic Labour Party of Lithuania]] since their merger in 2001.<ref name="Algis Krupavicius 2003">{{cite journal |last=Krupavicius |first=Algis |date=December 2003 |title=Lithuania |journal=[[European Journal of Political Research]] |volume=42 |issue=7–8 |pages=1010–20 |doi=10.1111/j.0304-4130.2003.00128.x }}</ref>
+
+===Vytautas Šerėnas===
+Šerėnas was the host of the [[political satire]] TV show "Bicycle News" (Lithuanian: ''"Dviračio žinios"'') and ran as a satirical political candidate. Among his promises on the election trail was the construction of a bridge between [[Klaipėda]] and [[Stockholm]], a "faster" tram line between Klaipėda and [[Vilnius]], and a mandatory purchase of a portion of [[cepelinai]] by every citizen.<ref name="kiti">{{cite web |last1=Vaitelė |first1=Tomas |title=Nuo sostinės Visagine iki cepelinų vietoj vizų: kaip Šerėnas 2002 metais rinkimų šou kūrė |url=https://www.lrt.lt/naujienos/lietuvoje/2/2268863/nuo-sostines-visagine-iki-cepelinu-vietoj-vizu-kaip-serenas-2002-metais-rinkimu-sou-kure |language=lt |date=11 May 2024}}</ref> In spite of this, some claimed that his campaign was more measured and understanding of presidential powers than of some other candidates.<ref>{{cite web |last1=Makaraitytė |first1=Indrė |title=V.Šerėnas – realybės atspindys? |url=https://www.delfi.lt/news/daily/atgimimas/vserenas-realybes-atspindys-1617710 |website=Delfi |language=lt |date=27 November 2002}}</ref>
+
+[[Arūnas Valinskas]], who later founded the [[National Resurrection Party]], claimed that he convinced Šerėnas to run in order to reveal the absurdity of the election.<ref>{{cite web |last1=Tubys |first1=Lukrecijus |title=V. Šerėnui šalies vadovu tapti siūlęs A. Valinskas įvardijo jo turėtą pranašumą net prieš dabartinius kandidatus |url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2019/05/12/news/v-serenui-salies-vadovu-tapti-siules-a-valinskas-ivardijo-jo-tureta-pranasuma-net-pries-dabartinius-kandidatus-10320505 |website=Lietuvos rytas |language=lt |date=12 May 2019}}</ref>
+
+===Other candidates===
+Several candidates represented various political parties. [[Vytenis Andriukaitis]] represented the [[Social Democratic Party of Lithuania|Social Democratic Party]], [[Kazimira Prunskienė]] ran as the candidate of the [[Peasants and New Democratic Party Union]], and [[Eugenijus Gentvilas]] ran as the candidate of the [[Liberal Union of Lithuania|Liberal Union]].
+
+Juozas Edvardas Petraitis, an [[Australia|Australian]]-Lithuanian businessman, ran as an independent candidate and was the wealthiest candidate in the race, with a declared total wealth of 145 million [[litas]].<ref name="kiti" /> The election was contested by two brothers - Algimantas Matulevičius and [[Vytautas Matulevičius]], both of whom ran as independents.<ref name="kiti" />
+
+==Campaign==
+Prior to the election, [[Algirdas Mykolas Brazauskas]], the chairman of the Social Democratic Party who returned to politics in 2001, was seen as the most realistic challenger to Adamkus. As Brazauskas did not run, and Adamkus enjoyed high approval ratings at the beginning of the race, he conducted a passive campaign.<ref>{{cite web |last1=Pūkenė |first1=Rūta |title=Prezidento rinkimai. Pirmuosius Pakso politinius žingsnius matė iš labai arti: jie jo visiškai neįvertino |url=https://www.delfi.lt/multimedija/pamokos/prezidento-rinkimai-pirmuosius-pakso-politinius-zingsnius-mate-is-labai-arti-jie-jo-visiskai-neivertino-81068135 |website=Delfi |language=lt |date=4 May 2019 |quote=Pabandykime į tai pažvelgti iš V. Adamkaus perspektyvos. Apklausos rodė, kad visuomenės pasitikėjimas juo siekė 80 proc., 2002 m. V. Adamkus buvo išrinktas metų žmogumi. Prezidentas palankiai vertintas dėl Lietuvai atsivėrusių galimybių tapti ES ir NATO nare, jo reputacijai nekenkė įtarimai korupcija ar ryšiais su Rusija. Greičiausiai nereikėtų stebėtis, kodėl esant tokiai situacijai – aukšti reitingai, pagrindinio konkurento atsitraukimas – V. Adamkus nusprendė nesiimti agresyvios rinkiminės kampanijos.}}</ref> The Adamkus campaign was run by [[Artūras Zuokas]], [[Darius Kuolys]] and [[Albinas Januška]]. According to correspondent Audrius Bačiulis, the campaign was ineffective and its leading personalities lacked cooperation, whereas the president and his staff were certain that victory was inevitable:
+{{Blockquote
+|text=Long before these elections, they were certain - [[George W. Bush]] will fly over, wave his hand from the steps of the [[Town Hall, Vilnius|Town Hall]], Lithuania is invited to NATO, and the elections are in the pocket.<ref name="rinkimai" />
+|author=Audrius Bačiulis
+}}
+According to a 2001 summer poll by the polling agency ''Baltijos tyrimai'', 3.4% of the respondents stated that they would vote for Paksas in the presidential election, and according to a ''Vilmorus'' poll at the same period, only 33.9% of the respondents viewed him positively.<ref name="kampanija" /> Paksas formed a team led by journalist Aurelijus Katkevičius, described as "Paksas's political sculptor".<ref>{{cite web |last1=Gudavičius |first1=Stasys |title=Prezidento komanda tirpsta |url=https://m.kauno.diena.lt/naujienos/lietuva/salies-pulsas/prezidento-komanda-tirpsta-440950 |website=Kauno diena |language=lt |date=30 March 2004}}</ref> Katkevičius's strategy was to establish Paksas as a [[strongman]] who would restore law and order against the more passive Adamkus - on the campaign trail, Paksas became known for radical promises such as restoring the [[death sentence]], strictly controlling the actions of the [[Government of Lithuania]], the country's spending and the size of pensions, and ordering police to patrol schools with [[detection dogs]].<ref name="kampanija" />
+
+To bypass the media, which he believed to be hostile to him, Paksas visited voters directly, often traveling via [[helicopter]], which earned him the nickname "Flying Rolandas".<ref name="kampanija" /> The helicopter was loaned to Paksas by Russian businessman and owner of the aviation company Aviabaltika Yuri Borisov. Borisov also donated 1.2 million [[litas]] ($400,000) to Paksas's election campaign.<ref>{{cite web |last1=Vireliūnaitė |first1=Lauryna |title=Dešimt metų nuo Paksogeito pradžios: skandalas, kuris ilgam pasodino Rolandą Paksą ant atsarginių suolo |url=https://www.15min.lt/naujiena/aktualu/lietuva/desimt-metu-nuo-paksogeito-pradzios-skandalas-kuris-ilgam-pasodino-rolanda-paksa-ant-atsarginiu-suolo-56-381045 |website=15min.lt |language=lt |date=30 October 2013}}</ref> Paksas also organized [[Stunt flying|aviation stunts]], the most famous of which was his flight under the bridge over the [[Neris]] river on 3 October 2002.<ref>{{cite web |title=R.Paksas - rekordinio skrydžio po tiltu dalyvis (video) |url=https://www.delfi.lt/news/daily/lithuania/rpaksas-rekordinio-skrydzio-po-tiltu-dalyvis-video-1422816 |website=Delfi |language=lt |date=3 October 2002}}</ref>
+
+Paksas's success in the election has been attributed to the organized structure of his campaign and its professionalism, which was unprecedented in Lithuanian politics at the time, as well as his campaign's large financial resources, which, during his [[impeachment]] proceedings, were counted to have been 18 to 19 million litas.<ref name="kampanija" />
+
+==Results==
+{{Election results
+|cand1=[[Valdas Adamkus]]|party1=Independent|votes1=514154|votes1_2=643870
+|cand2=[[Rolandas Paksas]]|party2=[[Order and Justice|Liberal Democratic Party]]|votes2=284559|votes2_2=777769
+|cand3=[[Artūras Paulauskas]]|party3=[[New Union (Social Liberals)]]|votes3=120238
+|cand4=Vytautas Šerėnas|party4=Independent|votes4=112215
+|cand5=[[Vytenis Andriukaitis]]|party5=[[Social Democratic Party of Lithuania|Social Democratic Party]]|votes5=105584
+|cand6=[[Kazimira Prunskienė]]|party6=[[Peasants and New Democratic Party Union]]|votes6=72925
+|cand7=Juozas Edvardas Petraitis|party7=Independent|votes7=54139
+|cand8=[[Eugenijus Gentvilas]]|party8=[[Liberal Union of Lithuania|Liberal Union]]|votes8=44562
+|cand9=Julius Veselka|party9=Lithuanian People's Union|votes9=32293
+|cand10=Algimantas Matulevičius|party10=Independent|votes10=32137
+|cand11=[[Kazys Bobelis]]|party11=[[Lithuanian Christian Democrats]]|votes11=27613
+|cand12=[[Vytautas Matulevičius]]|party12=Independent|votes12=26888
+|cand13=[[Kęstutis Glaveckas]]|party13=[[Lithuanian Centre Union]]|votes13=7554
+|cand14=[[Vytautas Šustauskas]]|party14=[[Lithuanian Liberty Union]]|votes14=5372
+|cand15=Vytautas Bernatonis|party15=Independent|votes15=3546
+|cand16=Algirdas Pilvelis|party16=Independent|votes16=2074
+|cand17=[[Rimantas Jonas Dagys]]|party17=[[Lithuanian Social Democratic Union|Social Democracy 2000]]|votes17=1264
+|invalid=19419|invalid2=14683
+|electorate=2719608|electorate2=2727805
+|source=[http://www.vrk.lt/statiniai/puslapiai/rinkimai/2002/Prezidentas/rezultatai/rezl.htm-14+1.htm Central Election Commission], [http://www.vrk.lt/statiniai/puslapiai/rinkimai/2002/Prezidentas/rezultatai/rezl.htm-14+2.htm Central Election Commission]
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{cite journal |last=Krupavicius |first=Algis |date=December 2003 |title=Lithuania |journal=[[European Journal of Political Research]] |volume=42 |issue=7–8 |pages=1010–20 |doi=10.1111/j.0304-4130.2003.00128.x }}
+*[https://www.vrk.lt/statiniai/puslapiai/rinkimai/2002/Prezidentas/index.html 2002–03 Lithuanian presidential elections] VRK {{in lang|lt}}
+
+{{Lithuanian elections}}
+
+{{DEFAULTSORT:2002-03 Lithuanian presidential election}}
+[[Category:2002 elections in Europe|Lithuania]]
+[[Category:2002 in Lithuania|Presidential election]]
+[[Category:2003 elections in Europe|Lithuania]]
+[[Category:2003 in Lithuania|Presidential election]]
+[[Category:Presidential elections in Lithuania]]
+[[Category:December 2002 in Europe|Lithuanian presidential election]]
+[[Category:January 2003 in Europe|Lithuanian presidential election]]

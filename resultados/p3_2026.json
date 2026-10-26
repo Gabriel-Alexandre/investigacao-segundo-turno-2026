@@ -1,0 +1,185 @@
+{
+ "captura_sha256": "5cbe3f5c042c05e9e887351b13ef0bd4320f74ea8ca912512d0edb2ad2f82ad6",
+ "pesquisas_na_semana": 32,
+ "institutos": 19,
+ "com_flavio_na_frente": 17,
+ "com_lula_na_frente": 2,
+ "empate": 0,
+ "media_lula_valido": 49.18,
+ "urna_lula_valido": 51.79,
+ "erro_da_media_pontos_lula": 2.61,
+ "erro_da_frente_pontos": 5.21,
+ "ultima_de_cada_instituto": [
+  {
+   "instituto": "Real Time",
+   "campo": "19–22 Oct",
+   "fim_campo_dia": 22,
+   "lula": 45.0,
+   "flavio": 49.0,
+   "lula_valido": 47.87,
+   "fonte": "https://www.riotimesonline.com/real-time-big-data-poll-flavio-52-lula-48-oct-23-runoff-2026/"
+  },
+  {
+   "instituto": "Datatrends",
+   "campo": "19–21 Oct",
+   "fim_campo_dia": 21,
+   "lula": 46.0,
+   "flavio": 50.0,
+   "lula_valido": 47.92,
+   "fonte": "https://www.riotimesonline.com/datatrends-poll-flavio-51-9-lula-48-1-runoff-2026/"
+  },
+  {
+   "instituto": "Alfa",
+   "campo": "19–22 Oct",
+   "fim_campo_dia": 22,
+   "lula": 46.0,
+   "flavio": 49.9,
+   "lula_valido": 47.97,
+   "fonte": "https://www.cnnbrasil.com.br/eleicoes/alfa-flavio-tem-52-dos-votos-validos-no-2o-turno-lula-48/?utm_source=social&utm_medium=twitter-feed&utm_campaign=politica-cnn-brasil&utm_content=link"
+  },
+  {
+   "instituto": "Gerp",
+   "campo": "22–24 Oct",
+   "fim_campo_dia": 24,
+   "lula": 46.0,
+   "flavio": 49.0,
+   "lula_valido": 48.42,
+   "fonte": "https://www.cnnbrasil.com.br/eleicoes/gerp-flavio-tem-52-dos-votos-validos-no-2o-turno-lula-48-2/"
+  },
+  {
+   "instituto": "Instituto França",
+   "campo": "21–23 Oct",
+   "fim_campo_dia": 23,
+   "lula": 43.1,
+   "flavio": 45.1,
+   "lula_valido": 48.87,
+   "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-tem-514-contra-486-de-lula-em-votos-validos-diz-pesquisa/?utm_source=chatgpt.com"
+  },
+  {
+   "instituto": "Ideia",
+   "campo": "15–19 Oct",
+   "fim_campo_dia": 19,
+   "lula": 46.0,
+   "flavio": 48.0,
+   "lula_valido": 48.94,
+   "fonte": ""
+  },
+  {
+   "instituto": "Veritá",
+   "campo": "19–23 Oct",
+   "fim_campo_dia": 23,
+   "lula": 47.8,
+   "flavio": 49.8,
+   "lula_valido": 48.98,
+   "fonte": "https://ricardoantunes.net/instituto-verita-flavio-abre-mais-de-3-pontos-sobre-lula-51-6-x-484/?utm_source=chatgpt.com"
+  },
+  {
+   "instituto": "AtlasIntel",
+   "campo": "18–23 Oct",
+   "fim_campo_dia": 23,
+   "lula": 48.4,
+   "flavio": 49.9,
+   "lula_valido": 49.24,
+   "fonte": "https://atlasintel.org/poll/brazil-national-pesquisa-atlasbloomberg-2026-10-24"
+  },
+  {
+   "instituto": "MDA",
+   "campo": "21–23 Oct",
+   "fim_campo_dia": 23,
+   "lula": 45.0,
+   "flavio": 46.3,
+   "lula_valido": 49.29,
+   "fonte": "https://www.reuters.com/world/americas/flavio-bolsonaro-lula-about-even-ahead-brazil-election-runoff-cntmda-poll-shows-2026-10-24/"
+  },
+  {
+   "instituto": "Indexa",
+   "campo": "20–21 Oct",
+   "fim_campo_dia": 21,
+   "lula": 44.1,
+   "flavio": 45.2,
+   "lula_valido": 49.38,
+   "fonte": "https://www.cnnbrasil.com.br/eleicoes/indexa-broadcast-flavio-tem-506-dos-votos-validos-lula-494/"
+  },
+  {
+   "instituto": "Quaest",
+   "campo": "23–24 Oct",
+   "fim_campo_dia": 24,
+   "lula": 45.0,
+   "flavio": 46.0,
+   "lula_valido": 49.45,
+   "fonte": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/quaest-2o-turno-votos-validos.ghtml"
+  },
+  {
+   "instituto": "Nexus",
+   "campo": "23–24 Oct",
+   "fim_campo_dia": 24,
+   "lula": 46.0,
+   "flavio": 47.0,
+   "lula_valido": 49.46,
+   "fonte": "https://veja.abril.com.br/politica/a-nova-pesquisa-btg-nexus-sobre-a-disputa-flavio-x-lula-a-ultima-antes-do-segundo-turno/"
+  },
+  {
+   "instituto": "Ipespe",
+   "campo": "20–22 Oct",
+   "fim_campo_dia": 22,
+   "lula": 47.0,
+   "flavio": 48.0,
+   "lula_valido": 49.47,
+   "fonte": "https://www.cnnbrasil.com.br/eleicoes/ipespe-abrapel-flavio-tem-505-dos-votos-validos-lula-495/"
+  },
+  {
+   "instituto": "Datafolha",
+   "campo": "23–24 Oct",
+   "fim_campo_dia": 24,
+   "lula": 47.0,
+   "flavio": 48.0,
+   "lula_valido": 49.47,
+   "fonte": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-dos-votos-validos-e-lula-49-em-empate-tecnico.shtml"
+  },
+  {
+   "instituto": "PoderData",
+   "campo": "23–24 Oct",
+   "fim_campo_dia": 24,
+   "lula": 48.0,
+   "flavio": 49.0,
+   "lula_valido": 49.48,
+   "fonte": "https://www.poder360.com.br/poderdata/flavio-tem-51-e-lula-tem-49-dos-votos-validos-diz-poderdata-aya-2/"
+  },
+  {
+   "instituto": "Palver",
+   "campo": "22–24 Oct",
+   "fim_campo_dia": 24,
+   "lula": 49.0,
+   "flavio": 50.0,
+   "lula_valido": 49.49,
+   "fonte": "https://exame.com/brasil/pesquisa-para-presidente-palver-flavio-bolsonaro-tem-50-e-lula-49-no-2o-turno/"
+  },
+  {
+   "instituto": "Futura",
+   "campo": "23–24 Oct",
+   "fim_campo_dia": 24,
+   "lula": 47.9,
+   "flavio": 48.2,
+   "lula_valido": 49.84,
+   "fonte": "https://exame.com/brasil/pesquisa-futura-flavio-bolsonaro-tem-501-e-lula-499-no-2o-turno/"
+  },
+  {
+   "instituto": "Colectta",
+   "campo": "23 Oct",
+   "fim_campo_dia": 23,
+   "lula": 46.5,
+   "flavio": 46.0,
+   "lula_valido": 50.27,
+   "fonte": "https://brazileconomy.com.br/eleicoes-2026/2026/10/lula-tem-503-dos-votos-validos-e-flavio-497-aponta-pesquisa-brazil-economycolectta/"
+  },
+  {
+   "instituto": "Vox Brasil",
+   "campo": "20–22 Oct",
+   "fim_campo_dia": 22,
+   "lula": 45.4,
+   "flavio": 44.3,
+   "lula_valido": 50.61,
+   "fonte": "https://www.cnnbrasil.com.br/eleicoes/vox-lula-tem-506-dos-votos-validos-no-2o-turno-flavio-494/"
+  }
+ ]
+}

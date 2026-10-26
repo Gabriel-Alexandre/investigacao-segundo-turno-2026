@@ -1,0 +1,97 @@
+{{Short description|none}}
+{{Infobox election
+| election_name = 1990 Montenegrin general election
+| country = SR Montenegro
+| type = presidential
+| ongoing = no
+| opinion_polls =
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| next_election = 1992–93 Montenegrin general election
+| next_year = {{nowrap|1992–93}}
+| election_date = 9 December 1990 (first round)<br>23 December 1990 (second round)
+| turnout = 75.69% (first round), 65.21% (second round)
+
+| image1 = Momir Bulatović (cropped).jpg
+| candidate1 = '''[[Momir Bulatović]]'''
+| party1 = League of Communists of Montenegro
+| popular_vote1 = '''203,616'''
+| percentage1 = '''78.13%'''
+
+| image2 = Lj Stankovic, Podgorica 2019, crop.jpg
+| candidate2 = [[Ljubiša Stanković]]
+| party2 = Union of Reform Forces of Yugoslavia
+| popular_vote2 = 56,990
+| percentage2 = 21.87%
+
+| title = President
+| before_election = [[Momir Bulatović]]
+| before_party = [[League of Communists of Montenegro|SKCG]]
+| posttitle = 
+| after_election = [[Momir Bulatović]]
+| after_party = [[League of Communists of Montenegro|SKCG]]
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| election_date = 9 December 1990
+| previous_election = [[1989 Montenegrin parliamentary election|1989]]
+| next_election = [[1992–93 Montenegrin general election|1992]]
+| first_election = yes
+
+| party1 = League of Communists of Montenegro | leader1 = [[Momir Bulatović]] | seats1 = 83| percentage1 = 56.29
+| party2 = Union of Reform Forces of Yugoslavia | leader2 = [[Ljubiša Stanković]] | seats2 = 17 | percentage2 = 14.07
+| party3 = People's Party (Montenegro, 1990) | leader3 = [[Novak Kilibarda]] | seats3 = 13 | percentage3 = 13.31
+| party4 = [[Party of Democratic Action of Montenegro|SDA CG]]–[[Democratic League in Montenegro|DS]] | leader4 = Harun Hadžić | seats4 = 12 | percentage4 = 10.47
+
+| title = [[Prime Minister of Montenegro|Prime Minister]]
+| before_election = [[Radoje Kontić]]
+| before_party = [[League of Communists of Montenegro|SKCG]]
+| after_election = [[Milo Đukanović]]
+| after_party = [[League of Communists of Montenegro|SKCG]]
+}}}}}}
+
+General elections were held in [[Socialist Republic of Montenegro|SR Montenegro]] on 9 December 1990,<ref name=FB>[https://web.archive.org/web/20100703005659/http://www.policy.hu/bieber/Publications/bieber.pdf Montenegrin politics since the disintegration of Yugoslavia] Florian Bieber</ref> with a second round of the presidential election held on 23 December. [[Momir Bulatović]] of the [[League of Communists of Montenegro|League of Communists]] won the presidential election, whilst his party emerged as the largest in Parliament, winning 83 of the 125 seats.<ref name=FB/>
+
+==Results==
+===President===
+In order to be elected in the first round, a candidate had to cross a threshold of 50% of the registered voters. Although incumbent President of the Presidency [[Momir Bulatović]] received 62% of the valid votes, this was only 42.2% of the registered voters. However, he went on to win the second round convincingly against [[Ljubiša Stanković]] of the [[Union of Reform Forces of Yugoslavia]], becoming the first elected President of Montenegro.
+
+{{Election results
+|cand1=[[Momir Bulatović]]|party1=[[League of Communists of Montenegro]]|votes1=170092|votes1_2=203616
+|cand2=[[Ljubiša Stanković]]|party2=[[Union of Reform Forces of Yugoslavia]]|votes2=65998|votes2_2=56990
+|cand3=[[Novak Kilibarda]]|party3=[[People's Party (Montenegro, 1990)|People's Party]]|votes3=35531
+|invalid=33326|invalid2=2128
+|electorate=402905|electorate2=402905
+|source=[http://www.b92.net/izbori2000/rezultati/90.phtml B92]
+}}
+
+===National Assembly===
+{{Election results
+|image=[[File:Socialist Republic of Montenegro National Assembly 1990.svg]]
+|party1=[[League of Communists of Montenegro]]|votes1=171316|seats1=83
+|party2=[[Union of Reform Forces of Yugoslavia]]|votes2=41364|seats2=17
+|party3=[[People's Party (Montenegro, 1990)|People's Party]]|votes3=39107|seats3=13
+|party4=Democratic Coalition ([[Party of Democratic Action of Montenegro|SDA]]–[[Democratic League in Montenegro|DS]]–SR)|votes4=30760|seats4=12
+|party5=Democratic Party|votes5=3442|seats5=0
+|party6=Demo-Christian (Orthodox) Party|votes6=1753|seats6=0
+|party7=Socialist Alliance of Montenegro|votes7=1638|seats7=0
+|party8=Yugoslav People's Party|votes8=1224|seats8=0
+|party9=Democratic Alliance of Independent Entrepreneurs|votes9=844|seats9=0
+|party10=Independents|votes10=2435|seats10=0
+|invalid=11358
+|electorate=402905
+|source=[http://src-h.slav.hokudai.ac.jp/election_europe/me/r_101.html Slavic-Eurasian Research Centre]
+}}
+
+==References==
+{{reflist}}
+
+{{Montenegrin elections}}
+
+[[Category:1990 elections in Yugoslavia|Montenegro]]
+[[Category:1990 in Montenegro|General]]
+[[Category:December 1990 in Europe|Montenegro]]
+[[Category:Presidential elections in Montenegro]]
+[[Category:Parliamentary elections in Montenegro]]

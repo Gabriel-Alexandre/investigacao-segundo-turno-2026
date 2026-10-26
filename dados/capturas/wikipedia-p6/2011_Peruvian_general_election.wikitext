@@ -1,0 +1,561 @@
+{{Short description|none}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox election
+| country = Peru
+| flag_year = state
+| previous_election = 2006 Peruvian general election
+| previous_year = 2006
+| next_election = 2016 Peruvian general election
+| next_year = 2016
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| turnout = 83.71% (first round) {{decrease}} 5.00pp<br/> 82.54% (second round) {{decrease}} 5.17pp
+| election_date = 10 April 2011 (first round) <br /> 5 June 2011 (second round)
+| opinion_polls = Opinion polling for the 2011 Peruvian general election
+| image1 = Ollanta Humala 2014 (cropped).jpg
+| nominee1 = '''[[Ollanta Humala]]'''
+| running_mate1 = '''{{nowrap|[[Marisol Espinoza]]}}<br />[[Omar Chehade]]'''
+| popular_vote1 = '''7,937,704'''
+| percentage1 = '''51.45%'''
+| party1 = Peruvian Nationalist Party
+| alliance1 = [[Peru Wins]]
+| color1 = F0001C
+| image2 = Keiko Fujimori 2 (cropped).jpg
+| running_mate2 = [[Rafael Rey]]<br />[[Jaime Yoshiyama]]
+| nominee2 = [[Keiko Fujimori]]
+| popular_vote2 = 7,490,647
+| percentage2 = 48.55%
+| party2 = [[Popular Force|Force 2011]]
+| color2 = FF8000
+| map = {{Switcher
+ |[[File:MapaElectoralPeru2011Regiones.png|165px]][[File:MapaElectoralPeru2011Provincias.png|165px]]
+ | First round results by [[Regions of Peru|department]] (left) and [[Provinces of Peru|province]] (right)
+ |
+[[File:2011 Peruvian presidential election - 2nd round.svg|325px]]
+ | Second round results by [[Regions of Peru|department]] (left) and [[Provinces of Peru|province]] (right)
+| default = 2
+}}
+| title = President
+| before_election = [[Alan García]]
+| before_party = American Popular Revolutionary Alliance
+| after_election = [[Ollanta Humala]]
+| after_party = [[Peru Wins]]
+| module = {{Infobox legislative election
+| embed = yes
+| election_date = 10 April 2011
+| election_name = Congressional election
+| seats_for_election = All 130 seats in the [[Congress of the Republic of Peru|Congress of Peru]]
+| majority_seats = 66
+| leader1 = [[Ollanta Humala]]
+| party1 = [[Peru Wins]]
+| color1 = #F0001C
+| percentage1 = 25.27
+| last_election1 = 0 <!--Seats won by constituent parties (Socialist Party (Peru)) in previous election-->
+| seats1 = 47
+| leader2 = [[Keiko Fujimori]] 
+| party2 = [[Popular Force|Force 2011]]
+| color2 = #FF8000
+| last_election2 = 13 <!--contested as the (Alliance for the Future (Peru)) in previous election-->
+| seats2 = 37
+| percentage2 = 22.97
+| leader3 = [[Alejandro Toledo]]
+| party3 = [[Possible Peru Electoral Alliance|Possible Peru]]
+| color3 = #80FF00
+| percentage3 = 14.83
+| last_election3 = 2<!--Seats won by constituent parties (Possible Peru) in previous election-->
+| seats3 = 21
+| leader4 = {{nowrap|[[Pedro Pablo Kuczynski]]}}
+| party4 = [[Alliance for the Great Change|APGC]]
+| color4 = #00B0F6
+| last_election4 = 2<!--Seats won by constituent parties (National Restoration) in previous election-->
+| seats4 = 12
+| percentage4 = 14.42
+| party5 = [[National Solidarity Alliance|ASN]]
+| color5 = #FFFF00
+| leader5 = [[Luis Castañeda Lossio]]
+| last_election5 = 45<!--Seats won by constituent parties (Union for Peru) in previous election-->
+| seats5 = 9
+| percentage5 = 10.22
+| leader6 = [[Alan García]]
+| party6 = American Popular Revolutionary Alliance
+| last_election6 = 36
+| seats6 = 4
+| percentage6 = 6.43
+| map = Elecciones parlamentarias de Perú de 2011 - Resultados.svg
+| map_caption = Results by department
+}}}}}}{{Politics of Peru}}
+
+General elections were held in [[Peru]] on 10 April 2011 to elect the [[President of Peru|president]], the vice presidents, 130 members of [[Congress of the Republic of Peru|Congress]] and five members of the [[Andean Parliament]]. As no presidential candidate received a majority in the first round, a second round was held on 5 June to determine the successor of outgoing president [[Alan García]]. Former army officer [[Ollanta Humala]] narrowly defeated [[Keiko Fujimori]], daughter of imprisoned former President [[Alberto Fujimori]].<ref>{{cite news|last=Bajak|first=Frank|title=Leftist Humala narrowly wins Peru election|agency=Associated Press|work=Forbes|date=6 June 2011|url=https://www.forbes.com/feeds/ap/2011/06/06/general-lt-peru-election_8501624.html|access-date=6 June 2011}}{{dead link|date=January 2022|bot=medic}}{{cbignore|bot=medic}}</ref> Humala was sworn in as the 94th President of Peru on 28 July.
+
+==Background==
+{{more citations needed|date=April 2011}}
+After the third presidential term of [[Alberto Fujimori]], new rules were established to curtail presidential authority.{{Clarify|date=April 2011}} The outgoing president is now forbidden to run for reelection until five years have elapsed since the end of a presidential term.
+
+Peruvian politics adhere to a multi-party system, in which no one political group has a majority in Congress. This has led recent administrations to form loose alliances while in office to govern effectively. Such multi-party system has been in place ever since the administration of President [[Alberto Fujimori]] (1990–2000), following his [[1992 Peruvian coup d'état|1992 dissolution of Congress]].
+
+The elections are organised by three groups. First of all the [[RENIEC]] (National Registry of Identification and Civil Status), they are in charge of maintaining the civil records. And by that they define who has to vote and who doesn't. In Peru, all citizens aged 18 to 70 are compelled to vote, elections being discretionary past the age of 70. The real organization of the elections and also of all other referendums is done by the [[ONPE]] (National Office of Electoral Processes). The last organisation is the [[National Jury of Elections|JNE]] (National Jury of Elections), they are looking into the legality of the elections and the campaign plans.
+
+==Presidential candidates==
+
+{| class="wikitable" style="font-size:90%; text-align:center;"
+| colspan="5" style="background:#f1f1f1; width:850px;" |{{large|'''Presidential tickets'''}}
+|-
+| '''[[Peru Wins]]'''
+| '''[[Popular Force|Force 2011]]'''
+| '''[[Alliance for the Great Change]]'''
+| '''[[Possible Peru Electoral Alliance]]'''
+| '''[[National Solidarity Alliance]]'''
+|-
+| [[File:Logo - Partido Nacionalista Peruano.svg|center|80x80px]]
+| [[File:Fuerza popular.svg|center|80x80px]]
+| [[File:Alianza por el Gran Cambio.jpg|center|80x80px]]
+| [[File:Logo del partido Perú Posible.png|center|80x80px]]
+| [[File:Psn-upp.jpg|center|80x80px]]
+|-
+!style="width:160px; font-size:120%; background:{{party color|Peru Wins}};"| [[Ollanta Humala|{{color|white|Ollanta Humala}}]]
+! style="width:160px; font-size:120%; background:#FF8000;"| [[Keiko Fujimori|{{color|white|Keiko Fujimori}}]]
+! style="width:160px; font-size:120%; background:#E2007A;"| [[Pedro Pablo Kuczynski|{{color|white|Pedro Pablo Kuczynski}}]]
+! style="width:160px; font-size:120%; background:{{party color|Possible Peru Electoral Alliance}}"| [[Alejandro Toledo|{{color|white|Alejandro Toledo}}]]
+! style="width:160px; font-size:120%; background:#FFFF00;"| [[Luis Castañeda|{{color|white|Luis Castañeda}}]]
+|-
+| [[File:Ollanta Humala Tasso.jpg|center|210x210px]]
+| [[File:Keiko Fujimori 2 (cropped).jpg|center|210x210px]]
+| [[File:Pedro Pablo Kuczynski Godard.jpg|center|210x210px]]
+| [[File:Alejandro Toledo - Jerusalem 2011.jpg|center|210x210px]]
+| [[File:Luis Castañeda Lossio 2.jpg|center|210x210px]]
+|-
+| 
+| [[Congress of the Republic of Peru|Member of Congress]]<br/><small>(2006–2011)</small>
+| [[Prime Minister of Peru|President of the Council of Ministers]]<br/><small>(2005–2006)</small>
+| [[President of Peru]]<br/><small>(2001-2006)</small>
+| [[List of mayors of Lima|Mayor of Lima]]<br/><small>(2003-2010)</small>
+|-
+| colspan="5" style="background:#f1f1f1; width:850px;" |'''Running mates'''
+|-
+| 1st: [[Marisol Espinoza]]<br/>2nd: [[Omar Chehade]]
+| 1st: [[Rafael Rey]]<br/>2nd: [[Jaime Yoshiyama]]
+| 1st: [[Máximo San Román]]<br/>2nd: [[Marisol Pérez Tello]]
+| 1st: [[Carlos Bruce]]<br/>2nd: [[Javier Reátegui]]
+| 1st: [[Augusto Ferrero Costa]]<br/>2nd: [[Carmen Rosa Núñez]]
+|-
+|}
+
+The election campaigns started early in the summer of 2010. During most of 2010, polls were led by two right wing political parties: National Solidarity, led by former mayor of Lima [[Luis Castañeda Lossio]] and [[Popular Force|Force 2011]], led by ex-president Alberto Fujimori's daughter, [[Keiko Fujimori]]. In November 2010, the [[Alliance for the Great Change]] launched the candidacy of the former prime minister [[Pedro Pablo Kuczynski]]. Claiming a more centrist stand are, the ruling party [[American Popular Revolutionary Alliance|APRA]] and [[Possible Peru]], the latter under the leadership of former Peruvian President [[Alejandro Toledo]].{{Citation needed|date=April 2011}}
+
+The left-wing politician [[Ollanta Humala]] is supported by the [[Peruvian Nationalist Party]].<ref name="aljazresult">{{cite web|url=http://english.aljazeera.net/news/americas/2011/04/201141151929726964.html |title=Leftist ex-soldier leads Peru poll – Americas |publisher=Al Jazeera English |date=11 April 2011 |access-date=19 April 2011}}</ref>
+
+The [[Decentralist Social Force Party|Fuerza Social]]<ref>{{cite news|url=http://elcomercio.pe/politica/729545/noticia-manuel-rodriguez-cuadros-renuncio-su-candidatura-presidencial |language=es |title=Manuel Rodríguez Cuadros renunció a su candidatura presidencial |newspaper=El Comercio |date=18 March 2011 |publisher=El Comercio Perú |access-date=19 April 2011}}</ref> and Cambio Radical<ref>{{cite web|url=http://elcomercio.pe/politica/711340/noticia-cambio-radical-presento-al-jeelc-su-lista-candidatos-al-congreso |language=es |title=Cambio Radical presentó al JEELC su lista de candidatos al Congreso|publisher=El Comercio Perú|access-date=19 April 2011}}</ref> do not have presidential candidates. The incumbent [[Alan García]]'s [[American Popular Revolutionary Alliance]]<ref>{{cite web|title=El Apra participaría únicamente en elecciones parlamentarias|url=http://elcomercio.pe/politica/699952/noticia-apra-participaria-unicamente-elecciones-parlamentarias|access-date=19 April 2011|publisher=El Comercio Perú|language=es}}</ref> is also not fielding a candidate in the election.<ref>{{cite web|author=Angel Paez |url=http://english.aljazeera.net/indepth/features/2011/04/20114914395340540.html |title=Run-off expected in Peru election – Features |publisher=Al Jazeera English |date=9 April 2011 |access-date=19 April 2011}}</ref>
+
+{| class="wikitable"
+|-
+!Political Party or Group
+!Presidential candidate
+!Candidate for First Vice President
+!Candidate for Second Vice President
+|-
+|align=left valign=top|[[Peru Wins]] Alliance
+<div style="font-size:85%">
+*[[Peruvian Nationalist Party]] (Partido Nacionalista Peruano)
+*[[Socialist Party (Peru)|Socialist Party]] (Partido Socialista)
+*[[Peruvian Communist Party]] (Partido Comunista Peruano)
+*[[Revolutionary Socialist Party (Peru)|Revolutionary Socialist Party]] (Partido Socialista Revolucionario)
+*Political Movement Socialist Voice (Movimiento Político Voz Socialista)</div>
+|{{center|'''[[Ollanta Humala]]'''}}
+|{{center|'''[[Marisol Espinoza]]'''}}
+|{{center|'''[[Omar Chehade]]'''}}
+|-
+|align=left valign=top|[[Popular Force|Force 2011]] Alliance
+<div style="font-size:85%">
+*[[Force 2011]] (Fuerza 2011)
+*[[National Renewal (Peru)|National Renewal]] (Renovación Nacional)</div>
+|{{center|'''[[Keiko Fujimori]]'''}}
+|{{center|'''[[Rafael Rey]]'''}}
+|{{center|'''[[Jaime Yoshiyama]]'''}}
+|-
+|align=left valign=top|[[Possible Peru Electoral Alliance|Possible Peru]] Alliance
+<div style="font-size:85%">
+*[[Possible Peru]] (Perú Posible)
+*[[We Are Peru]] (Somos Perú)
+*[[Popular Action (Peru)|Popular Action]] (Acción Popular)</div>
+|{{center|'''[[Alejandro Toledo]]'''}}
+|{{center|'''[[Carlos Bruce]]'''}}
+|{{center|'''[[Javier Reátegui]]'''}}
+|-
+|align=left valign=top|[[Alliance for the Great Change]]
+<div style="font-size:85%">
+*[[Alliance for Progress (Peru)|Alliance for Progress]] (Alianza para el Progreso)
+*[[Peruvian Humanist Party]] (Partido Humanista Peruano)
+*[[Christian People's Party (Peru)|Christian People's Party]] (Partido Popular Cristiano)
+*[[National Restoration Party (Peru)|National Restoration]] (Restauración Nacional)</div>
+|{{center|'''[[Pedro Pablo Kuczynski]]'''}}
+|{{center|'''[[Máximo San Román]]'''}}
+|{{center|'''[[Marisol Pérez Tello]]'''}}
+|-
+|align=left valign=top|[[National Solidarity Alliance]]
+<div style="font-size:85%">
+*[[National Solidarity (Peru)|National Solidarity]] (Solidaridad Nacional)
+*[[Change 90]] (Cambio 90)
+*[[Always Together (Peru)|Always Together]] (Siempre Unidos)
+*[[All for Peru]] (Todos por el Perú)
+*[[Union for Peru]] (Unión por el Perú)</div>
+|{{center|'''[[Luis Castañeda Lossio]]'''}}
+|{{center|'''[[Augusto Ferrero Costa]]'''}}
+|{{center|'''[[Carmen Rosa Núñez]]'''}}
+|-
+|align=left valign=top|Justice, Technology and Ecology
+|{{center|'''Humberto Pinazo'''}}
+|{{center|'''Wilson Barrantes'''}}
+|{{center|'''Víctor Girao'''}}
+|-
+|align=left valign=top|National Awakening Party
+|{{center|'''Ricardo Noriega'''}}
+|{{center|'''[[Martina Portocarrero]]'''}}
+|{{center|'''Roberto Villar'''}}
+|-
+|align=left valign=top|[[Direct Democracy (Peru)|Peruvian Fonavista Party]]
+|{{center|'''José Ñique de la Puente'''}}
+|{{center|'''Andrés Alcántara'''}}
+|{{center|'''Cecilia Grados Guerrero'''}}
+|-
+|align=left valign=top|National Force Party
+|{{center|'''Juliana Reymer'''}}
+|{{center|'''Julio Macedo'''}}
+|{{center|'''Sergio Gallardo'''}}
+|-
+|align=left valign=top|Ahead Political Party
+|{{center|'''Rafael Belaúnde Aubry'''}}
+|{{center|'''Luis Destefano'''}}
+|{{center|'''Sixto Vilcas'''}}
+|}
+
+{| class="wikitable"
+|+ '''Voluntarily Withdrawn'''
+|- style="background:#ddd;"
+!| Political party
+! colspan=3 | Candidate
+! colspan=2 | Withdrawal
+|- style="background:#eee;"
+! Name
+! for President
+! for 1st Vice-president
+! for 2nd Vice-president
+! Date
+! Motive
+|-
+|[[American Popular Revolutionary Alliance]]<br />''APRA''
+|[[Mercedes Aráoz|Mercedes Araóz Fernández]]
+|[[Javier Velásquez]]
+|[[Nidia Vílchez]]
+| 17 January
+| Internal Party disputes
+|-
+|[[Decentralist Social Force Party|Social Force]] <br />''Fuerza Social''
+|[[Manuel Rodríguez Cuadros]]
+|[[Vladimiro Huaroc]]
+|Elva Quiñones
+| 18 March
+| Mr. Rodríguez claimed lack of credibility of electoral process
+|}
+
+[[Alejandro Toledo]] is a former president.
+
+[[Keiko Fujimori]] campaign ran on support of the status quo [[free-market]] policies,<ref name="aljazresult"/> however she was seen as hindered because of her ties to her father Alberto Fujimori,<ref>{{cite web|url=http://www.soundsandcolours.com/articles/peru/caution-left-turn-only-peruvian-elections/|title=Caution, Left Turn Only – Peruvian Elections|date=22 April 2011|access-date=22 April 2011|archive-date=26 April 2011|archive-url=https://web.archive.org/web/20110426155311/http://www.soundsandcolours.com/articles/peru/caution-left-turn-only-peruvian-elections/|url-status=dead}}</ref> who is in prison for corruption and human rights crimes following a crackdown on the [[Túpac Amaru Revolutionary Movement]] in the 1990s, following the [[Japanese embassy hostage crisis]] in 1996–1997.<ref name="aljazresult"/> In addition, her campaign has been criticized for vote-buying.<ref>[http://wolaperuelections.tumblr.com/post/5868871425/peru-elections-near-a-look-at-the-candidates "Peru Elections Near: A Look at the Candidates"] {{webarchive|url=https://web.archive.org/web/20110717112815/http://wolaperuelections.tumblr.com/post/5868871425/peru-elections-near-a-look-at-the-candidates |date=17 July 2011 }}. WOLA, 26 May 2011. Retrieved 3 June 2011.</ref>
+
+Pedro Pablo Kuczynski, a former prime minister, is also known as "El Gringo" because he has [[United States|U.S. citizenship]]<ref name="diario16.com.pe">{{cite web |url=http://diario16.com.pe/noticia/2514-el-imperio-de-ppk |language=es |title=El imperio de PPK |publisher=Diario16 |access-date=19 April 2011 |archive-url=https://web.archive.org/web/20110423201311/http://diario16.com.pe/noticia/2514-el-imperio-de-ppk |archive-date=23 April 2011 |url-status=dead}}</ref> and is of European descent. His support was seen as limited outside Lima because of his support amongst the country's elite.
+
+Ollanta Humala, who had once led a military revolt in 2000 that was quickly put down, softened what was seen as his anti-capitalist tone to look more moderate along the lines of Brazil's former president [[Luiz Inácio Lula da Silva]]. He told a campaign rally that "We are willing to make many concessions to unite Peru, we are going to talk with all political forces. Social problems must be resolved through dialogue. Let's vote without fear." Voters were seen to vote against Garcia in order to have a "fairer division of Peru's booming economy – backed by rich mineral resources – a key issue for more than a third of the population still living in poverty." The other candidates tried to discredit him by saying he would increase state control over the economy, roll back reforms and jeopardise about $40bn in potential foreign investment over the next decade in mining and energy exploration. [[Moody's]] ratings agency also said that Peru's investment-grade credit rating would not be threatened should Humala win. Despite this the [[Peruvian nuevo sol|sol]] and the [[Lima Stock Exchange]]'s flagship index main stock index fell over the two weeks before the first round of the election on speculation that Humala would raise mining taxes, increase state subsidies and/or tighten control of such "strategic" sectors as electricity.
+
+Opinion polls conducted in late May 2011 showed Fujimori and Humala in a statistical tie in a runoff vote scheduled for 5 June 2011, with one point separating the two candidates.<ref name="Statistical Tie">[http://wolaperuelections.tumblr.com/post/6071624676/peru-elections-near-a-look-at-the-candidates "Peru Elections Near: A Look at the Candidates"] {{Webarchive|url=https://web.archive.org/web/20110717112819/http://wolaperuelections.tumblr.com/post/6071624676/peru-elections-near-a-look-at-the-candidates |date=17 July 2011 }}. WOLA, 1 June 2011. Retrieved 2 June 2011.</ref>{{Better source needed|date=July 2011}}
+
+=== Support for the second round ===
+
+Some of the candidates and parties eliminated in second round have expressed their support for one of the contestants in the run-off election.
+
+''Alliance for the Great Change'' candidate P. P. Kuczynski declared that he would vote for Fujimori,<ref>{{cite web |url=http://noticias.terra.com.pe/elecciones-presidenciales/2011/pedro-pablo-kuczynski-votare-por-keiko-fujimori,92e9fb4537c20310VgnVCM10000098f154d0RCRD.html |title=Pedro Pablo Kuczynski: "Votaré por Keiko Fujimori" |publisher=Terra |date=26 May 2011 |access-date=1 June 2011 |archive-date=23 August 2011 |archive-url=https://web.archive.org/web/20110823104516/http://noticias.terra.com.pe/elecciones-presidenciales/2011/pedro-pablo-kuczynski-votare-por-keiko-fujimori,92e9fb4537c20310VgnVCM10000098f154d0RCRD.html |url-status=dead }}</ref> as well as his running mate Máximo San Román and ally Humberto Lay (National Restoration), whereas Humanists' leader Yehude Simon declared his support for Humala.<ref>{{cite web|url=http://www.larepublica.pe/01-06-2011/yehuden-simon-estoy-sorprenido-del-apoyo-de-lay-keiko |title=Yehude Simon: Me sorprende el apoyo de Lay a Keiko |publisher=LaRepublica.pe |date=1 June 2011 |access-date=1 June 2011}}</ref>
+
+The ''Possible Peru'' Alliance and its candidate Alejandro Toledo also announced support for the "Peru Wins"-candidate<ref>{{cite web |url=http://www.larepublica.pe/26-05-2011/alejandro-toledo-decide-apoyar-candidatura-de-ollanta-humala |title=Alejandro Toledo decide apoyar candidatura de Ollanta Humala |publisher=LaRepublica.pe |date=26 May 2011 |access-date=1 June 2011 |archive-url=https://web.archive.org/web/20110630075740/http://www.larepublica.pe/26-05-2011/alejandro-toledo-decide-apoyar-candidatura-de-ollanta-humala |archive-date=30 June 2011 |url-status=dead }}</ref> in exchange for a participation in Humala's aspired government.<ref>{{cite web|url=http://elcomercio.pe/politica/755607/noticia-alejandro-toledo-ollanta-humala-me-ofrecio-cogobierno |title=Alejandro Toledo: "Ollanta Humala me ofreció un cogobierno" |publisher=ElComercio.pe |date=11 May 2011 |access-date=1 June 2011}}</ref>
+
+''National Solidarity'' leader Luis Castañeda on the other hand uttered his backing for the Force 2011 frontwoman.<ref>{{cite web|url=http://www.tuteve.tv/noticia/actualidad/luis-castaneda-confirma-votara-keiko-fujimori |title=Luis Castañeda confirma que votará por Keiko Fujimori |publisher=tuteve.tv |date=27 May 2011 |access-date=1 June 2011}}</ref>
+
+''APRA'' did not have a clear party line but former Prime minister [[Javier Velásquez]] inclined to Keiko Fujimori's side.<ref>{{cite web |url=http://www.larepublica.pe/01-06-2011/fujimori-utiliza-nombre-de-otros-partidos-para-ganar-votos |title=Fujimori utiliza nombre de otros partidos para ganar votos |publisher=LaRepublica.pe |date=21 June 2011 |access-date=1 June 2011 |archive-url=https://web.archive.org/web/20110604145234/http://www.larepublica.pe/01-06-2011/fujimori-utiliza-nombre-de-otros-partidos-para-ganar-votos |archive-date=4 June 2011 |url-status=dead }}</ref>
+
+Nobel laureate writer [[Mario Vargas Llosa]], liberal [[1990 Peruvian general election|presidential candidate of 1990]] and opponent of Alberto Fujimori, stated that he would "never vote" for Fujimori's daughter and warned the nation of a "return to dictatorship" that came up with a victory of Keiko.<ref>{{cite web |url=http://www.todanoticia.com/26324/vargas-llosa-arremete-contra-keiko/?lang=en |title=Vargas Llosa blasts Keiko Fujimori |publisher=todanoticia.com |date=16 May 2011 |access-date=2 June 2011 |archive-date=17 July 2011 |archive-url=https://web.archive.org/web/20110717065422/http://www.todanoticia.com/26324/vargas-llosa-arremete-contra-keiko/?lang=en |url-status=dead }}</ref> He, personally, would vote for Humala, "unhappily and with fear" but as the lesser evil.<ref>{{cite news|url=https://www.theguardian.com/books/2011/apr/28/mario-vargas-llosa-peru-election |title=Mario Vargas Llosa under fire for Peru election endorsement |work=The Guardian |location=London |date=28 April 2011 |access-date=2 June 2011  |first=Rory |last=Carroll}}</ref>
+
+==Debates==
+===First round===
+{| class="wikitable"
+|-
+! style="width:5%;" | '''Date'''{{Citation needed|date=April 2011}}
+! style="width:5%;" | '''Host'''{{Citation needed|date=April 2011}}
+! style="width:5%;" | '''Location'''{{Citation needed|date=April 2011}}
+! style="width:5%;" | '''Moderator'''{{Citation needed|date=April 2011}}
+! style="width:5%;" | '''Subject'''{{Citation needed|date=April 2011}}
+! style="width:75%;"| '''Highlights'''
+|-
+|| 3 March
+|| [[El Comercio (Peru)|El Comercio]]
+|| El Comercio headquarters<br />[[Lima]]
+|| Juan Paredes Castro
+|| Education, security, social inclusion and free subject
+|valign="top"|The eleven presidential candidates presented their proposals.<ref>{{cite web|url=http://elcomercio.pe/politica/722050/noticia-todo-lo-que-saber-debate-que-realizara-esta-noche-comercio |language=es |title=Reviva el debate de los 11 candidatos a la presidencia |publisher=El Comercio Perú|access-date=19 April 2011}}</ref><ref>{{cite web|url=http://elcomercio.pe/politica/722483/noticia-lo-que-dijeron-principales-candidatos-debate-comercio |language=es |title=Lo que dijeron los principales candidatos tras el debate en El Comercio |publisher=El Comercio Perú|access-date=19 April 2011}}</ref> Alejandro Toledo won the newspaper poll.<ref>{{cite web|url=http://elcomercio.pe/politica/722408/noticia-que-propusieron-candidatos-politicas-inclusion-social_1 |language=es |title=VOTE Y OPINE: ¿Qué candidato expuso mejor sus propuestas? |publisher=El Comercio Perú |access-date=19 April 2011}}</ref>
+|-
+|| 13 March
+|| [[National Jury of Elections|Jurado Nacional de Elecciones]]
+||Colegio Médico<br />[[Lima]]
+||Federico Salazar
+||Varied
+|valign="top"|
+|-
+|| 3 April
+|| Asociación Civil Transparencia
+|| Sheraton Hotel<br />[[Lima]]
+|| José María Salcedo
+|| Varied
+|valign="top"|Only the top five candidates are to be included. This has caused various criticisms from other candidates, who argue that the debate is undemocratic and exclusive. Political analysts agreed that the 5 main candidates didn't make new proposals.{{Original research inline|date=April 2011}}
+|}
+
+===Second round===
+{| class="wikitable"
+|-
+! style="width:5%;" | '''Date'''<ref name="ElComercio_762886">{{cite news |title=Conoce los detalles del debate presidencial de este domingo |language=es |publisher=[[El Comercio (Peru)]] |date=25 May 2011 |url=http://elcomercio.pe/politica/762886/noticia-conoce-detalles-debate-presidencial-este-domingo-29-mayo |access-date=7 June 2011}}</ref>
+! style="width:5%;" | '''Host'''<ref name="ElComercio_762886"/>
+! style="width:5%;" | '''Location'''<ref name="ElComercio_762886"/>
+! style="width:5%;" | '''Moderator'''<ref name="ElComercio_762886"/>
+! style="width:5%;" | '''Subject'''<ref name="ElComercio_762886"/>
+! style="width:75%;"| '''Highlights'''
+|-
+|| 29 May
+|| [[National Jury of Elections]]
+|| Marriott Hotel<br />[[Lima]]
+|| José María Salcedo
+|| Varied
+|valign="top"|Presidential hopefuls Ollanta Humala and Keiko Fujimori squared off in a bitter final debate on Sunday in Lima, one week before general elections that will decide the Andean country's next president.<ref>{{cite news |last=Bamat |first=Joseph |title=Candidates on the attack in final presidential debate |publisher=[[France 24]] |date=30 May 2011 |url=http://www.france24.com/en/20110530-peru-elections-presidential-debate-fujimori-june-5-lima-ollanta-humala-keiko |access-date=7 June 2011}}</ref>
+|}
+
+==Opinion polls==
+{{main|Opinion polling for the 2011 Peruvian general election}}
+
+== Results ==
+=== President ===
+[[File:Mapa Distrital Elecciones Perú 2011 1V.svg|325px|thumb|First round results by [[Regions of Peru|department]] (small left) and [[Districts of Peru|municipality]] (big right)]]<br/>[[File:Mapa Distrital Elecciones Perú 2011 2V.svg|325px|thumb|Second round results by [[Regions of Peru|department]] (small left) and [[Districts of Peru|municipality]] (big right)]]<br/>
+{{Election results
+|cand1=[[Ollanta Humala]]||party1=[[Peru Wins]]|votes1=4643064|votes1_2=7937704|color1=red
+|cand2=[[Keiko Fujimori]]|party2=[[Popular Force|Force 2011]]|votes2=3449595|votes2_2=7490647
+|cand3=[[Pedro Pablo Kuczynski]]|party3=[[Alliance for the Great Change]]|votes3=2711450|color3=#00B0F6
+|cand4=[[Alejandro Toledo]]|party4=[[Possible Peru]]|votes4=2289561
+|cand5=[[Luis Castañeda Lossio]]|party5=[[National Solidarity Alliance]]|votes5=1440143
+|cand6={{ill|José Ñique de la Puente|es}}|party6=[[Direct Democracy (Peru)|Fonavistas of Peru]]|votes6=37011
+|cand7=Ricardo Noriega|party7=National Awakening Party|votes7=21574
+|cand8={{ill|Rafael Belaúnde Aubry|es}}|party8=Forward Party|votes8=17301
+|cand9=Juliana Reymer|party9=National Force Party|votes9=16831
+|cand10=Humberto Pinazo|party10=Justice, Technology, Ecology|votes10=11275
+|cand11=[[Manuel Rodríguez Cuadros]]|party11=[[Decentralist Social Force Party]]|votes11=9358
+|invalid=2052571|invalid2=1038046
+|electorate=19949915|electorate2=19949915
+|source=[https://portal.jne.gob.pe/portal_documentos/files/informacionelectoral/estadisticaelectoral/COMPENDIO_ESTADISTICO.pdf JNE]
+}}
+
+=== Congress ===
+{{Election results
+|image=[[File:Congress of Peru 2011.svg]]
+|party1=[[Peru Wins]]|votes1=3245003|seats1=47|color1=red
+|party2=[[Popular Force|Force 2011]]|votes2=2948781|seats2=37
+|party3=[[Possible Peru Electoral Alliance|Possible Peru Alliance]]|votes3=1904180|seats3=21|color3=#80FF00
+|party4=[[Alliance for the Great Change]]|votes4=1851080|seats4=12|color4=#00B0F6
+|party5=[[National Solidarity Alliance]]|votes5=1311766|seats5=9|color5=#FFFF00
+|party6=[[American Popular Revolutionary Alliance]]|votes6=825030|seats6=4
+|party7={{ill|Radical Change (Peru)|es|Cambio Radical (Perú)|lt=Radical Change}}|votes7=347475|seats7=0
+|party8=[[Direct Democracy (Peru)|Fonavistas of Peru]]|votes8=170052|seats8=0
+|party9=[[Decentralist Social Force Party]]|votes9=108200|seats9=0
+|party10=Forward Party|votes10=42276|seats10=0
+|party11=National Force Party|votes11=37633|seats11=0
+|party12=National Awakening Party|votes12=30190|seats12=0
+|party13=Justice, Technology, Ecology|votes13=17478|seats13=0
+|invalid=3862475
+|electorate=19949915
+|source=[https://portal.jne.gob.pe/portal_documentos/files/informacionelectoral/estadisticaelectoral/COMPENDIO_ESTADISTICO.pdf JNE]
+}}
+
+=== Andean Parliament ===
+{{Election results
+|party1=[[Peru Wins]]|votes1=2740147|seats1=2|color1=red
+|party2=[[Popular Force|Force 2011]]|votes2=2353674|seats2=1
+|party3=[[Possible Peru Electoral Alliance|Possible Peru Alliance]]|votes3=1498784|seats3=1|color3=#80FF00
+|party4=[[Alliance for the Great Change]]|votes4=1413785|seats4=1|color4=#00B0F6
+|party5=[[National Solidarity Alliance]]|votes5=954619|seats5=0|color5=#FFFF00
+|party6=[[American Popular Revolutionary Alliance]]|votes6=638675|seats6=0
+|party7={{ill|Radical Change (Peru)|es|Cambio Radical (Perú)|lt=Radical Change}}|votes7=195441|seats7=0
+|party8=[[Direct Democracy (Peru)|Fonavistas of Peru]]|votes8=158877|seats8=0
+|party9=[[Decentralist Social Force Party]]|votes9=65265|seats9=0
+|party10=Justice, Technology, Ecology|votes10=49869|seats10=0
+|party11=Forward Party|votes11=36193|seats11=0
+|party12=National Force Party|votes12=35014|seats12=0
+|invalid=6563234
+|electorate=19949915
+|source=[https://portal.jne.gob.pe/portal_documentos/files/informacionelectoral/estadisticaelectoral/COMPENDIO_ESTADISTICO.pdf JNE], [https://www.web.onpe.gob.pe/modElecciones/elecciones/elecciones2011/1ravuelta/onpe/andino/rep_resultados_vxa_parl.php ONPE]
+}}
+
+==Reactions==
+Fujimori congratulated Humala on his victory after admitting defeat.<ref>[https://www.bbc.co.uk/news/world-latin-america-13651468 Peru election winner Humala congratulated by rival]. BBC (7 June 2011). Retrieved 28 July 2011.</ref>
+
+;States
+*{{Flag|Bolivia}} – After the first-round, President [[Evo Morales]] sent a letter to Humala congratulating him and said of those who voted for him did so "to advance with the transformation of their nation and its institutions...Receive in my name, from the government and from the Bolivian people, a fraternal and revolutionary salute."<ref>{{cite web|url=http://peripheralrevision.wordpress.com/2011/04/11/bolivias-morales-congratulates-perus-humala-for-1st-round-election-success/ |title=Bolivia's Morales Congratulates Peru's Humala For 1st round election success « Peripheral Revision |publisher=Peripheralrevision.wordpress.com |date=11 April 2011 |access-date=30 July 2011}}</ref>
+*{{Flag|Colombia}} – President [[Juan Manuel Santos]] called Humala the next day to congratulate him for his "victory in the electoral vote that consolidates the Peruvian democracy. Santos reiterated Colombia's commitment to continue working at the strengthening of relations between the two countries and of all Latin America."<ref>[http://colombiareports.com/colombia-news/news/16775-santos-congratules-humala-on-winning-peru-elections.html "Santos congratules Humala on winning Peru elections"] {{Webarchive|url=https://web.archive.org/web/20110608040027/http://colombiareports.com/colombia-news/news/16775-santos-congratules-humala-on-winning-peru-elections.html |date=8 June 2011 }}. Colombia Reports (6 June 2011). Retrieved 28 July 2011.</ref> This was despite concerns in Colombia of being "surrounded by leftists."<ref>[http://colombiareports.com/opinion/santiago-sosa/16923-what-does-humalas-election-mean-for-colombia.html "What does Humala's election mean for Colombia?"] {{Webarchive|url=https://web.archive.org/web/20110720082127/http://colombiareports.com/opinion/santiago-sosa/16923-what-does-humalas-election-mean-for-colombia.html |date=20 July 2011 }}. Colombia Reports (13 June 2011). Retrieved 28 July 2011.</ref>
+:Finance Minister [[Juan Carlos Echeverry (politician)|Juan Carlos Echeverry]] said that a merger between the two countries' stock exchanges was unlikely to be affected. He also said that Humala could "prove the markets wrong" in reference to concerns over former Brazilian President [[Luiz Inácio Lula da Silva]]'s [[2002 Brazilian general election|electoral victory]]. However, the [[Bogotá Stock Exchange]] indices also fell.<ref>{{cite web|last1=Murphy|first1=Helen|date=17 April 2011|url=https://www.bloomberg.com/news/2011-04-17/humala-victory-won-t-derail-colombia-peru-exchanges-merger-echeverry-says.html|title=Humala Victory Won't Derail Colombia-Peru Exchanges Merger, Echeverry Says|work=Bloomberg|access-date=28 July 2011|url-access=subscription}}</ref>
+
+;Economic
+The [[Lima Stock Exchange]] index also plunged the following day<ref>{{cite web |url=http://blog.bitcomet.com/post/1960340/ |title=Nationalist Humala edges out rival in Peru, unnerving investors – 16250762's BLOG |publisher=Blog.bitcomet.com |access-date=29 July 2011 |archive-url=https://web.archive.org/web/20110810101104/http://blog.bitcomet.com/post/1960340/ |archive-date=10 August 2011 |url-status=dead }}</ref> amid concerns of Humala's economic policies and cabinet ministers.
+
+==Government formation==
+Former president Alejandro Toledo was set to be in talk with Humala to join his government in some form. However, in mid-July he quit the talks, though he said legislators from their two parties would vote together on some issues.<ref>Faries, Bill. (16 July 2011) [https://www.bloomberg.com/news/2011-07-16/peru-party-ends-talks-over-humala-government-role-peru-21-says.html Peru Party Ends Talks Over Humala Government Role, Peru.21 Says]. Bloomberg. Retrieved 28 July 2011.</ref>
+
+About a week before his inauguration Humala introduced a cabinet line-up that was positively received by financial markets and the business community because most appointees were read as "moderate" and "establishment" figures who thus allayed apparent fears of radical change. His cabinet line-up includes:
+{| class="wikitable sortable"
+|-
+!Appointee<ref>Moffett, Matt. (22 July 2011) [https://www.wsj.com/articles/SB10001424053111904233404576460420620240838?mod=googlenews_wsj "Peru Leader Taps Moderate Cabinet"]. ''The Wall Street Journal''. Retrieved 28 July 2011.</ref>
+!Position
+|-
+|[[Ollanta Humala]]
+|[[President of Peru|President]]
+|-
+|[[Marisol Espinoza]]
+|[[Vice President of Peru|First Vice President]]
+|-
+|[[Omar Chehade]]
+|[[Vice President of Peru|Second Vice President]]
+|-
+|[[Salomon Lerner Ghitis]]
+|[[Prime Minister of Peru|Prime Minister]]
+|-
+|[[Rafael Roncagliolo]]
+|[[Ministry of Foreign Relations (Peru)|Foreign Minister]]<ref name="google1">{{cite web |last=Luis |first=Jose |url=https://www.google.com/hostednews/afp/article/ALeqM5im7PGHNg1N74Q7H77_YxCEf5Gzew?docId=CNG.257ca886195e82c183202f64ad9ed6e5.181 |archive-url=https://archive.today/20130125032359/http://www.google.com/hostednews/afp/article/ALeqM5im7PGHNg1N74Q7H77_YxCEf5Gzew?docId=CNG.257ca886195e82c183202f64ad9ed6e5.181 |url-status=dead |archive-date=25 January 2013 |title=AFP: Ollanta Humala sworn in as Peru's president |access-date=29 July 2011 }}</ref>
+|-
+|[[Miguel Castilla]]
+|[[Ministry of Economy and Finance (Peru)|Economy and Finance Minister]] <small>(Incumbent Deputy Finance Minister)</small>
+|-
+|[[Carlos Oliva (Peruvian politician)|Carlos Oliva]]
+|Deputy Finance Minister<ref name="bondsRise"/>
+|-
+|[[Laura Calderon]]
+|Deputy Economy Minister<ref name="bondsRise"/><small>(Incumbent chief of the tax agency{{Which|date=August 2011}})</small>
+|-
+|[[Daniel Mora]]
+|[[Ministry of Defense (Peru)|Defense Minister]]
+|-
+|[[Oscar Valdes]]
+|[[Ministry of the Interior of Peru|Interior Minister]]<ref>{{cite web|url=http://english.aljazeera.net/news/americas/2011/08/201181843919238618.html|title=Peru suspends coca eradication programme|access-date=21 April 2016}}</ref>
+|-
+|[[Francisco Eguiguren]]
+|[[Ministry of Justice (Peru)|Justice Minister]]<ref name="gabinete_humala">{{cite web|url=http://pe.noticias.yahoo.com/gabinete-humala-jura-queda-funciones-185402511.html|archive-url=https://archive.today/20120715070934/http://pe.noticias.yahoo.com/gabinete-humala-jura-queda-funciones-185402511.html|url-status=dead|archive-date=15 July 2012|title=Yahoo|access-date=21 April 2016}}</ref>
+|-
+|[[Miguel Zalazzi Caillaux]]
+|[[Ministry of Agriculture (Peru)|Agriculture Minister]]<ref name="lr">{{cite web|url=http://www.larepublica.pe/24-07-2011/gabinete-alberto-tejada-iria-al-ministerio-de-salud-y-miguel-caillaux-agricultura|title=Gabinete: Alberto Tejada iría al Ministerio de Salud y Miguel Caillaux a Agricultura|work=larepublica.pe|access-date=21 April 2016|archive-url=https://web.archive.org/web/20110802070357/http://www.larepublica.pe/24-07-2011/gabinete-alberto-tejada-iria-al-ministerio-de-salud-y-miguel-caillaux-agricultura|archive-date=2 August 2011|url-status=dead}}</ref>
+|-
+|[[Alberto Tejada]]
+|[[Ministry of Health of Peru|Health Minister]]<ref name="health"/>
+|-
+|[[Patricia Salas]]
+|[[Ministry of Education (Peru)|Education Minister]]<ref name="gabinete_humala"/>
+|-
+|[[José Luis Silva Martinot]]
+|[[Ministry of Foreign Commerce and Tourism (Peru)|Foreign Commerce and Tourism Minister]]<ref name="gabinete_humala"/>
+|-
+|[[Rudecindo Vega]]
+|Labour Minister<ref name="gabinete_humala"/>
+|-
+|[[Carlos Paredes Rodríguez]]
+|[[Ministry of Transportation and Communications (Peru)|Transport and Communications Minister]]<ref name="gabinete_humala"/>
+|-
+|[[Ricardo Giesecke]]
+|[[Ministry of Environment (Peru)|Environment Minister]]<ref name="gabinete_humala"/>
+|-
+|[[Kurt Burneo]]
+|[[Ministry of Development and Social Inclusion (Peru)|Development and Social Inclusion Minister]]<ref>{{cite web|url=http://www.nasdaq.com/aspx/stock-market-news-story.aspx?storyid=201108181002dowjonesdjonline000347&title=peru-cabinet-approves-creation-of-new-ministry|title=Today's Stock Market News and Analysis - Nasdaq.com|work=NASDAQ.com|access-date=21 April 2016}}</ref>
+|-
+|[[Kurt Burneo]]
+|[[Ministry of Production (Peru)|Production Minister]]
+|-
+|[[Carlos Herrera (Peru)|Carlos Herrera]]
+|[[Ministry of Energy and Mines (Peru)|Energy and Mines Minister]]
+|-
+|[[René Cornejo]]
+|[[Ministry of Housing, Construction and Sanitation (Peru)|Housing, Construction and Sanitation Minister]]<ref name="gabinete_humala"/>
+|-
+|[[Susana Baca]]
+|[[Ministry of Culture (Peru)|Culture Minister]]<ref>[https://www.google.com/hostednews/ap/article/ALeqM5jRQkmTUFco3Y5RTrsTHf3V3Q5zng?docId=fee52915a4a340e69fc861eb4cb2ff5e Latin Grammy-winner named Peru's culture minister]{{dead link|date=June 2024|bot=medic}}{{cbignore|bot=medic}}. The Associated Press via Google.com. Retrieved 28 July 2011.</ref>
+|-
+|[[Aída García-Naranjo]]
+|[[Ministry of Women and Social Development (Peru)|Women and Social Development Minister]]<ref name="gabinete_humala"/>
+|-
+|[[Julio Velarde]]
+|[[Central Reserve Bank of Peru]] President <small>(incumbent)</small>
+|}
+On 18 August, the cabinet authorised the creation of the Ministry of Development and Social Inclusion whose function would be to implement the social programmes of the government to promote "social inclusion." The ministry was created to turn the social programmes into productive tools for the benefit of the poor and that one of its objectives would be to create the conditions so that beneficiaries of the ''Juntos''{{Clarify|date=August 2011}} programme use subsidies for "financial leverage" so as to improve their quality of life.<ref>{{cite web |url=http://www.andina.com.pe/INgles/Noticia.aspx?id=UAPHQTF/0bg= |title=Peru's Cabinet passes bill to create Development, Social Inclusion Ministry |website=www.andina.com.pe |archive-url=https://web.archive.org/web/20120319195603/http://www.andina.com.pe/INgles/Noticia.aspx?id=UAPHQTF%2F0bg%3D |archive-date=19 March 2012}}</ref>
+
+As a result of Humala's appointees, which came in contrast to concerns he would introduce changes that could hurt Peru's economic growth, Peru's sol-denominated bonds increased as yields fell from 7.84 percent for maturities in due in August 2020 to 6.12 percent. The bond prices gained 0.29 [[centimo]] to 111.78 centimos per sol, the highest since 23 February.<ref name="bondsRise">{{cite news| url=https://www.bloomberg.com/news/2011-08-02/peru-bonds-rise-on-bet-humala-economic-team-to-foster-investment.html | work=Bloomberg | first=John | last=Quigley | title=Peru Bonds Rise on Bet Humala Economic Team to Foster Investment | date=2 August 2011|url-access=subscription}}</ref> Carlos Herrera said that Peru would seek a mining [[windfall profits tax]] after consultations with companies.<ref>[https://www.reuters.com/article/us-mining-peru-minister-idUSTRE76L5XH20110722 "Peru's Herrera seeks mining profits tax"]. Reuters. Retrieved 28 July 2011.</ref>
+<!--possible addition to this section on initiated policies
+http://www.andina.com.pe/Ingles/Noticia.aspx?Id=olfW9uL5AeI= -->
+
+;Reaction
+In reaction to the perceived "moderate" appointments the [[Peruvian nuevo sol|sol]] held steady at a three-year high.<ref>[https://www.bloomberg.com/news/2011-07-25/peru-s-sol-holds-near-three-year-high-after-humala-appointments.html "Peru's Sol Holds Near Three-Year High After Humala Appointments"]. Bloomberg. Retrieved 28 July 2011.</ref> The credit rating agency [[Fitch Ratings|Fitch]] also reaffirmed Peru's BBB− credit rating with a positive outlook.<ref>{{cite web |url=http://pymnts.com/fitch-affirms-perus-ltfc-idr-at-bbb--outlook-remains-positive-20110727006899/ |title=Fitch Affirms Peru's LTFC IDR at 'BBB-'; Outlook Remains Positive |publisher=pymnts.com |date=13 August 2010 |access-date=29 July 2011 |url-status=dead |archive-url=https://archive.today/20120714063653/http://pymnts.com/fitch-affirms-perus-ltfc-idr-at-bbb--outlook-remains-positive-20110727006899/ |archive-date=14 July 2012}}</ref> The decision to keep Velarde at the Central Bank also resulted in a rise for the Lima Stock Exchange's indices.<ref>{{cite news|last=Emery |first=Alex |url-access=subscription|url=https://www.bloomberg.com/news/2011-07-18/peruvian-stocks-surge-after-humala-says-central-bank-president-to-stay.html |title=Peruvian Stocks Surge as Humala Says He'll Keep Velarde Atop Central Bank |publisher=Bloomberg |date=18 July 2011 |access-date=29 July 2011}}</ref> Roque Benavides, the chief executive officer of [[Cia. de Minas Buenaventura SA]], (Peru's largest [[precious metals]] producer) said of Humala's ministerial appointees that "there are very, very good ministers who have been called to contribute. What we have now is better than what we expected."<ref name="bloombergreaction">{{cite news|last1=Murphy |first1=Helen|last2=Quigley|first2=John |url=https://www.bloomberg.com/news/2011-07-28/humala-backers-cry-foul-as-former-peru-rebel-tilts-to-investors.html |title=Ex-Rebel, Now Peru's President, Riles Backers |publisher=Bloomberg |date=5 June 2011 |access-date=29 July 2011|url-access=subscription}}</ref> Mining companies such as [[Southern Copper]] and Cia. de Minas Buenaventura SA had previously warned against a tax on sales, which could make the mining industry less competitive and affect the US$42 billion in planned mining investment.<ref name="bloombergreaction"/> Southern Copper said that it expected a "positive result" from consultation talks on the proposed new windfall tax levy on mining companies. Financial Planning Manager Raul Jacob said that the government would continue to support new mining projects like the US$1 billion Tia Maria copper mine. "We think the government will establish the taxation but will maintain the {{sic|cost-competiveness|expected=cost-competitiveness}} of the mining industry. [The company is] confident that good investment conditions, stability, social inclusion and growth will prevail in Peru."<ref>{{cite news| url=https://www.bloomberg.com/news/2011-08-02/southern-copper-sees-positive-result-from-talks-with-humala-on-peru-tax.html | work=Bloomberg | first=Alex | last=Emery | title=Southern Copper Sees 'Positive Result' From Talks With Humala on Peru Tax | date=2 August 2011}}</ref>
+
+However, his softening stance on regulating and taxing the mining sector<ref>{{cite web|last=Blas |first=Javier |url=http://www.ft.com/intl/cms/s/0/fb00eb90-b2a7-11e0-bc28-00144feabdc0.html?ftcamp=rss |title=Humala softens stance on Peru's mining sector |work=Financial Times  |date=20 July 2011 |access-date=29 July 2011}}</ref> caused consternation amongst some of his original supporters. Mario Huaman, the head of the [[General Workers' Confederation]] (the largest labour union in Peru, who also endorsed Humala) said that: "We're worried. We'll listen very carefully to what he says in the coming days and see if he shares our views. Then we'll decide our plan of action, our plan to fight. He promised change." Renee Ramirez, the general secretary of the [[Education Workers Union]] said that: "The new government has built up such great hopes that if it doesn't follow through there'll be a big divorce. We're not going to keep quiet. We threw our weight behind Humala but we didn't write him a blank check."
+
+Alvaro Vargas Llosa, a senior fellow at the Washington, D.C.–based [[Independent Institute]] and son of Mario Vargas Llosa said that "He has to find a way to keep the base close while not letting it dictate economic policy." Erasto Almeida, a political analyst at [[Eurasia Group]] added that if his opinion rating drops further or the economy slows that Humala "could be tempted later on in his mandate" to adopt less market-friendly policies.<ref name="bloombergreaction"/>
+
+Indigenous groups, such as AIDESEP in the Amazon, have expressed disappointment with Humala's move away from the left amidst his campaign promises to champion the [[Inca]] empire. They cited such reasons as Humala plan to go through with a Garcia-era proposal to bring in up to US$20 billion in the next five years, US$6.2 billion of which Garcia had already lined-up, for such measures as [[oil exploration]] in the [[Amazon Basin|Amazon]]. Alberto Pizango, the head AIDESEP, said that "The [indigenous] communities had entrusted this government to oversee a real, profound change. But Humala has altered his discourse, leading the people to say this government will just be more of the same." He also criticised the appointment of Herrera because of the latter's approval of petroleum concessions when he first held the ministerial post in 2000.<ref>{{cite news| url=https://www.reuters.com/article/us-peru-humala-indigenous-idUSTRE77G5RU20110817 | work=Reuters | title=Analysis: Peru's indigenous losing faith in reformed Humala | date=17 August 2011}}</ref>
+
+Former President Alan García chaired his final cabinet meeting on 27 July.<ref>[http://www.andina.com.pe/Ingles/Noticia.aspx?Id=478TtQy5taM= President Garcia chairs last Cabinet meeting today] {{Webarchive|url=https://web.archive.org/web/20120319195235/http://www.andina.com.pe/Ingles/Noticia.aspx?Id=478TtQy5taM= |date=19 March 2012 }} ANDINA (Peru News Agency). Retrieved 28 July 2011.</ref> At it he said:<ref>{{cite web |url=http://www.peruthisweek.com/news-224-Perus-Garcia-achievements-will-be-recognized-by-history/ |title=Peru's Garcia: Achievements Will Be Recognized By History |publisher=Peruthisweek.com |access-date=29 July 2011 |archive-url=https://web.archive.org/web/20120325003024/http://www.peruthisweek.com/news-224-Perus-Garcia-achievements-will-be-recognized-by-history/ |archive-date=25 March 2012 |url-status=dead }}</ref>
+<blockquote>I wanted to thank all of the ministers, also the regional presidents have put in a great deal of effort into their jobs, and mayors who are those who develop directly and closely with the people. [I am convinced that] when you put zeal aside, history will recognise what these ministers achieved with their effort. Much will have to be done for our country, but I think that the path chosen was the correct one, and the perseverance and the dedication was necessary. A salute to Peru, to the youth of Peru, to the poor of Peru, to the authorities of Peru, and as a follower of [[Haya de La Torre]] all I wanted to do was make a government that gives bread with freedom. A salute to Peru, to its future and success."</blockquote>
+
+===Inauguration===
+Prior to his inauguration on 28 July, Humala's popularity fell in opinion polls after he suspended his brother [[Alexis Humala]] from Gana Peru following allegations of corruption in relation to deals with [[Gazprom]]. His approval rating of 70% fell to 41%.<ref>[https://web.archive.org/web/20111005025344/http://af.reuters.com/article/commoditiesNews/idAFN1E76G06020110717 "Peru's Humala falls in poll before inauguration"] Reuters. Af.reuters.com (17 July 2011). Retrieved 28 July 2011.</ref>
+
+For inauguration day itself Lima's main downtown square was scheduled to be open without security restrictions. Javier Sanguinetti, police chief for the Lima region, said that his office was working with the tourism police department and that 10,000 police officers would be deployed at popular tourist attractions around Lima on 28 and 29 July.<ref>[http://www.perucanadatrade.com/index.php/projects-new/456-limas-main-square-to-open-to-visitors-during-humala-inauguration "Lima's main square to open to visitors during Humala inauguration"] {{Webarchive|url=https://web.archive.org/web/20120328052410/http://www.perucanadatrade.com/index.php/projects-new/456-limas-main-square-to-open-to-visitors-during-humala-inauguration |date=28 March 2012 }}. Perucanadatrade.com. Retrieved 28 July 2011.</ref>
+
+Former President Alan García was not scheduled to attend the event because, according to him, the inauguration "is to hear the new president's message" and that although he attended [[Alberto Fujimori]]'s inauguration in 1990 "there was such unrest in congress, because of my presence, that I'd rather focus on my health, and say ‘Let the new president give his message freely, let's not vent our frustrations in front of foreign heads of state.'" His critics read this as a snub to Humala.<ref>[http://www.livinginperu.com/news/15572 "Peru's García will not attend Humala's inauguration"]. Living in Peru. Retrieved 28 July 2011.</ref> However, [[Foreign policy of Ollanta Humala|foreign dignitaries]] such as Colombia's Juan Manuel Santos was scheduled to attend the event,<ref>[http://www.andina.com.pe/Ingles/Noticia.aspx?id=J+RtcQN7wqE= Colombian president to attend CAN Summit, Humala's inauguration] {{Webarchive|url=https://web.archive.org/web/20120319195053/http://www.andina.com.pe/Ingles/Noticia.aspx?id=J+RtcQN7wqE= |date=19 March 2012 }}. ANDINA (20 July 2011). Retrieved 28 July 2011.</ref> along with Brazil's [[Dilma Rousseff]],<ref>[http://www.andina.com.pe/Ingles/Noticia.aspx?id=F0dgngkR67k= Brazilian president to attend Humala's inauguration] {{Webarchive|url=https://web.archive.org/web/20120319195314/http://www.andina.com.pe/Ingles/Noticia.aspx?id=F0dgngkR67k= |date=19 March 2012 }}. ANDINA. Retrieved 28 July 2011.</ref> Uruguay's [[José Mujica]],<ref>[http://www.andina.com.pe/Ingles/Noticia.aspx?Id=G/HcvHbIIAs= Uruguayan president to attend Humala's inauguration] {{webarchive|url=https://web.archive.org/web/20120319195356/http://www.andina.com.pe/Ingles/Noticia.aspx?Id=G%2FHcvHbIIAs%3D |date=19 March 2012 }}. ANDINA. Retrieved 28 July 2011.</ref> Panama's [[Ricardo Martinelli]]<ref name="statement">{{cite web |url=http://www.livinginperu.com/news-235-Heads-of-state-arrive-to-Peru-for-Humala-inauguration/ |archive-url=https://archive.today/20130128020150/http://www.livinginperu.com/news-235-Heads-of-state-arrive-to-Peru-for-Humala-inauguration/ |url-status=dead |archive-date=28 January 2013 |title=Heads Of State Arrive To Peru For Humala Inauguration |publisher=Livinginperu.com |access-date=29 July 2011 }}</ref> (and his wife First Lady [[Marta Linares de Martinelli]]),<ref>{{cite web |author=Don Winner |url=http://www.panama-guide.com/article.php/20110727150743687 |title=Martinelli Traveling To Peru To Attend Ollanta Humala's Inauguration |publisher=Panama Guide |access-date=30 July 2011 |archive-url=https://web.archive.org/web/20110811115134/http://www.panama-guide.com/article.php/20110727150743687 |archive-date=11 August 2011 |url-status=usurped }}</ref> Argentina's [[Cristina Fernández de Kirchner]], Chile's [[Sebastián Piñera]], Ecuador's [[Rafael Correa]],<ref name="voaguests"/> Bolivia's Evo Morales, Guatemala's [[Álvaro Colom]], Honduras’ [[Porfirio Lobo]],<ref>[http://coa.counciloftheamericas.org/articles/3526/Ollanta_Humala_Takes_Presidential_Helm_in_Peru/ Ollanta Humala Takes Presidential Helm in Peru] {{webarchive|url=https://web.archive.org/web/20111004183908/http://coa.counciloftheamericas.org/articles/3526/Ollanta_Humala_Takes_Presidential_Helm_in_Peru/ |date=4 October 2011 }}. Coa.counciloftheamericas.org (27 July 2011). Retrieved 31 July 2011.</ref> South Africa's [[Jacob Zuma]]<ref>[http://www.iol.co.za/news/politics/zuma-inauguration-guest-list-1.441552 Zuma inauguration guest list – Politics | IOL News]. IOL.co.za (27 April 2009). Retrieved 31 July 2011.</ref> and Georgia's [[Mikheil Saakashvili]].<ref>[http://pik.tv/en/news/story/15682-president-saakashvili-attends-inauguration-in-peru President Saakashvili Attends Inauguration in Peru – Kanal PIK TV] {{webarchive|url=https://web.archive.org/web/20120324122324/http://pik.tv/en/news/story/15682-president-saakashvili-attends-inauguration-in-peru |date=24 March 2012 }}. Pik.tv. Retrieved 31 July 2011.</ref> They would also be joined by Cuban First Vice President [[Jose Ramon Machado Ventura]] and his delegation,<ref>[http://www.plenglish.com/index.php?option=com_content&task=view&id=310119&Itemid=1 Prensa Latina News Agency – Cuban Vice President to Attend Ollanta Humala Inauguration]. Plenglish.com (1 January 1970). Retrieved 28 July 2011.</ref> Spain's [[crown prince]] [[Felipe, Prince of Asturias]],<ref name="perutimes">[http://www.peruviantimes.com/29/ollanta-humala-inaugurated-as-perus-president/13223/ Ollanta Humala inaugurated as Peru's president]. ''Peruvian Times'' (22 February 1999). Retrieved 31 July 2011.</ref> Secretary-general of the [[Organization of American States]] [[Jose Miguel Insulza]], the U.S. ambassador,<ref name="voaguests">{{cite web|url=http://blogs.voanews.com/breaking-news/2011/07/28/peru-swears-in-humala-as-president/ |archive-url=https://web.archive.org/web/20120315185607/http://blogs.voanews.com/breaking-news/2011/07/28/peru-swears-in-humala-as-president/ |url-status=dead |archive-date=15 March 2012 |title=Peru Swears In Humala as President « VOA Breaking News |publisher=Voice of America |date=20 August 2009 |access-date=29 July 2011}}</ref> the brother of South Korean President [[Lee Myung-bak]], [[Lee Sang-deuk]] of the incumbent [[Grand National Party]]<ref>[http://www.livinginperu.com/news/15535 News » South Korean president's envoy to attend Humala inauguration]. Living in Peru (19 July 2011). Retrieved 28 July 2011.</ref> and Chinese President [[Hu Jintao]]'s special envoy Minister of Agriculture [[Han Changfu]].<ref>[http://www.andina.com.pe/Ingles/Noticia.aspx?id=6sWUxpLivBE= Chinese envoy to attend Humala's inauguration] {{Webarchive|url=https://web.archive.org/web/20120319195124/http://www.andina.com.pe/Ingles/Noticia.aspx?id=6sWUxpLivBE= |date=19 March 2012 }}. ANDINA (22 July 2011). Retrieved 28 July 2011.</ref>
+
+Piñera, who was welcomed by outgoing Economics Minister Ismael Benavides<ref name="statement"/> after his arrival at 23:00<ref name="cl"/> said: "From the core of my soul, I want to wish President Humala the best of luck, as well as to the Peruvian government and the Peruvian people." Santos, who was welcomed by outgoing Prime Minister [[Rosario Fernández]], said that "We consider Peru a true strategic partner on many fronts. Every relationship can be strengthened, improved. The relationship with Peru has been extraordinary, but we're going to see how we can continue feeding it, strengthening it, improving it."<ref name="statement"/> Machado Ventura, who was welcomed by the outgoing Minister of the Interior Miguel Hidalgo, relayed greetings and said that Humala electoral victory was an "example of the continuing advance of progressive forces in Latin America;" he added that the proposed a "nationalist programme" would "promote greater equity in the distribution of the country's wealth and that Cuba wishes him success in this effort." His delegation also included Foreign Minister [[Bruno Rodríguez Parrilla]], Deputy Foreign Minister Rogelio Sierra, the new Cuban ambassador to Peru Juana Martínez González and the outgoing Cuban ambassador Luis Delfín Pérez. The delegation was also invited Peru's commemoration of their 190 anniversary of independence.<ref>{{cite web |url=http://www.granma.cu/ingles/ouramerica-i/28jul-Machado-Ventura.html |title=Machado Ventura arrives in Peru to attend Humala inauguration |publisher=granma.cu |access-date=29 July 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111130084905/http://granma.cu/ingles/ouramerica-i/28jul-Machado-Ventura.html |archive-date=30 November 2011}}</ref> The outgoing President Alan García hosted a reception for the visiting heads of state and foreign dignitaries the night before the inauguration.<ref>{{cite web |url=http://www.peruthisweek.com/news-235-Heads-of-state-arrive-to-Peru-for-Humala-inauguration/ |title=Heads of State Arrive To Peru For Humala Inauguration |publisher=Peruthisweek.com |access-date=29 July 2011 |archive-url=https://web.archive.org/web/20120123151728/http://www.peruthisweek.com/news-235-Heads-of-state-arrive-to-Peru-for-Humala-inauguration/ |archive-date=23 January 2012 |url-status=dead }}</ref> Morales and Piñera also scheduled a [[Chile-Bolivia relations|bilateral meeting]] on the sidelines of the event.<ref name="cl">Ebergenyi, Ivan. (27 July 2011) [http://www.santiagotimes.cl/world/latin-america/22079-chiles-president-expected-to-meet-with-evo-morales- Chile's president expected to meet with Evo Morales]. Santiagotimes.cl. Retrieved 31 July 2011.</ref>
+
+Garcia left the presidential palace after he passed on the presidential sash to Humala.<ref name="inaug"/> Before wearing the sash, Humala also made a speech in which he promised "to fight for social integration, particularly of the poorest."<ref name="google1"/> He also said that he would not alter the existing market-oriented policies and would keep trade policies intact; he added that he provide a minimum pension for all Peruvians over the age of 65 and raise the minimum wage. "We want the term 'social exclusion' to disappear from our language and lives forever. Economic growth and social inclusion will march together." In tackling social conflict and drug trafficking he said that the United States is a "strategic partner."<ref name="inaug"/> He also quoted South Africa's [[Nelson Mandela]] when he argued that there cannot be a democracy where misery and "social asymmetry" persist."<ref name="aljaz">{{cite web|url=http://english.aljazeera.net/news/americas/2011/07/201172994611161939.html |title=Peru's new president: 'poor are my priority' – Americas |publisher=Al Jazeera English |access-date=29 July 2011}}</ref> However, he broke with tradition when he did not travel to Congress to attend the inauguration.<ref name="inaug">{{cite news|author=Dan Collyns |url=https://www.bbc.co.uk/news/world-latin-america-14321996 |title=BBC News – Ollanta Humala is sworn in as new Peru president |publisher=BBC  |access-date=29 July 2011 |date=28 July 2011}}</ref> During the swearing-in ceremony he was shouted down by the "Fujimoristas" (supporters of Keiko Fujimori and her father Alberto) after he said that was taking power" in the spirit of the [[Constitution of Peru|1979 constitution]]:<ref name="aljaz"/> "The constitution of 1979, the last constitution of democratic origin, which many have not respected and that's why it has been forgotten, is for me a true inspiration for its national and democratic content."<ref name="perutimes"/>
+
+===Initial initiatives===
+On 25 August, the Congress gave its vote of confidence in approving the Council of Ministers after Prime Minister Salomon Lerner Ghitis spoke to the Congress by a vote of 90 in favour, zero against and 33 abstentations, all of whom were from Fuerza 2011.<ref>{{cite web|url=http://www.peruviantimes.com/26/congress-approves-humalas-first-cabinet-following-speech-by-lerner-ghitis/13500/#more-13500|title=Congress approves Humala's first cabinet following speech by Lerner Ghitis|date=26 August 2011 |access-date=21 April 2016}}</ref> Tejada expressed his satisfaction and gratitude at the recognition of the "technical support" for the government's programmes and goals. "We call on Peruvians to be confident that President Ollanta Humala is setting the beginning of a new phase of growth with social inclusion in the history of Peru, respecting human rights and freedom of speech."<ref name="health">{{Cite web |url=http://www.andina.com.pe/Ingles/Noticia.aspx?Id=80%2FI+aGGZ5I%3D |title = Peru begins new phase in history: growth with social inclusion  |access-date=3 May 2019 |archive-url=https://web.archive.org/web/20120319195454/http://www.andina.com.pe/Ingles/Noticia.aspx?Id=80%2FI+aGGZ5I%3D |archive-date=19 March 2012 |url-status=dead}}</ref> The initiatives were backed by the [[National Confederation of Private Business Associations]] (CONFIEP) as confirmed by President Humberto Speziani who said that "Overall we agree with all ten policies announced by the Cabinet, which is headed by Salomon Lerner. [Ghitis' goals are] "necessary to grow with social inclusion."<ref>{{Cite web |url=http://www.andina.com.pe/Ingles/Noticia.aspx?Id=%2Fh2muxBY58M%3D |title = Entrepreneurs back Peru's government policy announced by Cabinet  |access-date=3 May 2019 |archive-url=https://web.archive.org/web/20120319195542/http://www.andina.com.pe/Ingles/Noticia.aspx?Id=%2Fh2muxBY58M%3D |archive-date=19 March 2012 |url-status=dead}}</ref>
+
+One of Humala's first tasks amongst his promises for social inclusion was to start the implementation of a two-stage 25% increase in the monthly minimum wage to 750 sol and unveiling a pension increase for those older than 65.<ref>[http://www.laht.com/article.asp?ArticleId=411539&CategoryId=10718 Latin American Herald Tribune – Peru Inaugurates Humala – Garcia and Constitution "No Shows"] {{Webarchive|url=https://web.archive.org/web/20120610163709/http://www.laht.com/article.asp?ArticleId=411539&CategoryId=10718 |date=10 June 2012 }}. Laht.com. Retrieved 31 July 2011.</ref>
+
+<!--Interior Mins suspension of cocoa eradication programme and US reaction-->
+Humala also sought to create a national flag carrier airline in cooperation with private investment, especially to such unprofitable domestic markets as the hinterlands of the [[Andes]] and the Amazon.<ref>{{cite web|url=http://blogs.ft.com/beyond-brics/2011/08/19/peru-an-airline-at-all-loss/#ixzz1W54VlVkB|title=Peru: an airline at all losses|work=Financial Times|access-date=21 April 2016}}</ref>
+
+During the first month of Humala's presidency, an agreement was reached with mining companies that would increase taxes by up to three billion sols a year however, Carlos Herrera said a new royalty rate had not been set as yet. Prime Minister Salomon Lerner Ghitis said that "this tax will not affect investment or companies' competitiveness."<ref>{{cite news| url=https://af.reuters.com/article/commoditiesNews/idAFN1E77O0WQ20110825 | archive-url=https://web.archive.org/web/20120927072433/http://af.reuters.com/article/commoditiesNews/idAFN1E77O0WQ20110825 | url-status=dead | archive-date=27 September 2012 | work=Reuters | title=UPDATE 4-Peru gov't, miners reach deal to increase royalties | date=25 August 2011}}</ref>
+
+Amongst his initial social policies, modeled after Brazil during the tenure of Lula da Silva, were: a non-contributory basic pension of about US$90 per month for the elderly who lack other provisions, a state-run child-care programme, an increase in scholarships for poor students who want a university education and the expansion of a [[conditional cash transfer]] scheme for the poor. However, he said that such programmes would be introduced gradually, hence, according to government officials, the cost for the following year would be a more moderate figure of US$275m.<ref>{{cite news| url=https://www.economist.com/the-americas/2011/08/06/the-brazilian-way | newspaper=The Economist | title=The Brazilian way | date=6 August 2011}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Portal|Peru|Politics}}
+;Candidates
+* [http://www.fuerza2011.com/ Keiko Fujimori] {{Webarchive|url=https://web.archive.org/web/20110412053443/http://www.fuerza2011.com/ |date=12 April 2011 }}
+* [https://web.archive.org/web/20110510004952/http://www.ollantapresidente.pe/ Ollanta Humala]
+* [https://web.archive.org/web/20100307032613/http://www.alejandrotoledo.pe/ Alejandro Toledo]
+* [http://www.ppk.pe/ Pedro Pablo Kuczynski]
+* [https://web.archive.org/web/20110404214612/http://www.luchopresidente.pe/ Luis Castañeda Lossio]
+* [https://web.archive.org/web/20110812080436/http://belaunde.pe/ Rafael Belaúnde]
+* [https://web.archive.org/web/20110727123827/http://www.niquedelapuente.org/ José Ñique de la Puente]
+* [https://web.archive.org/web/20110205085154/http://julianapresidenta.com/ Juliana Reymer]
+
+;Post-election
+* [http://www.fpif.org/articles/peru_whats_next_for_humala What next for Humala?]
+
+{{Peruvian elections}}
+
+[[Category:Parliamentary elections in Peru]]
+[[Category:2011 elections in South America|Peru]]
+[[Category:2011 in Peru|General]]
+[[Category:Presidential elections in Peru]]
+[[Category:April 2011 in South America|Peru]]
+[[Category:June 2011 in South America|Peru]]

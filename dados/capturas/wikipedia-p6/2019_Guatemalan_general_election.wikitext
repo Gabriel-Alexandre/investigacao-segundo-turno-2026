@@ -1,0 +1,585 @@
+{{Short description|None}}
+{{Expand Spanish|topic=gov|date=June 2019}}
+{{Use dmy dates|date=January 2022}}
+{{Infobox election
+| country = Guatemala
+| previous_year = [[2015 Guatemalan general election|2015]]
+| next_year = [[2023 Guatemalan general election|2023]]
+| opinion_polls = Opinion polling for the 2019 Guatemalan general election
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_date = 16 June 2019 (first round)<br />11 August 2019 (second round)
+| election_name = Presidential election
+| turnout = 61.84% (first round) {{decrease}} 7.90[[percentage point|pp]]<br />42.66% (second round) {{decrease}} 13.49[[percentage point|pp]]
+
+| image1 = Retrato de Alejandro Giammattei, Presidente de Guatemala (2020-2024) (cropped 2).png
+| nominee1 = '''{{nowrap|[[Alejandro Giammattei]]}}'''
+| party1 = Vamos (Guatemala)
+| running_mate1 = '''[[Guillermo Castillo Reyes|Guillermo Castillo]]'''
+| popular_vote1 = '''1,907,767'''
+| percentage1 = '''57.95%'''
+
+| image2 = Sandra Torres 2019 (croppedb).jpg
+| nominee2 = [[Sandra Torres (politician)|Sandra Torres]]
+| running_mate2 = {{nowrap|[[Carlos Raúl Morales]]}}
+| party2 = National Unity of Hope
+| popular_vote2 = 1,384,044
+| percentage2 = 42.05%
+
+| map_image = {{switcher |[[File:Elecciones Presidencial Guatemala 2019 por Municipio 1ra Vuelta.svg|275px]] |First round results by municipality|[[File:Eleccion Presidencial Guatemala 2019 Resultados 1ra Vuelta.svg|275px]]|First round results by department|[[File:Eleccion Presidencial Guatemala 2019 por Municipio.svg|275px]] |Second round results by municipality|[[File:Eleccion Presidencial Guatemala 2019 Resultados 2da Vuelta.svg|275px]]|Second round results by department|default=4}}
+
+| title = [[President of Guatemala|President]]
+| before_election = [[Jimmy Morales]]
+| before_party = National Convergence Front
+| after_election = [[Alejandro Giammattei]]
+| after_party = Vamos (Guatemala)
+
+| module = {{Infobox legislative election
+| election_name = Legislative election
+| embed = yes
+| seats_for_election = All 160 seats in [[Congress of the Republic of Guatemala|Congress]]
+| majority_seats = 81
+| turnout =
+
+| party6 = National Convergence Front
+| leader6 = Javier Hernández
+| percentage6 = 5.22
+| seats6 = 8
+| last_election6 = 35
+
+| party1 = National Unity of Hope
+| leader1 = Orlando Blanco
+| percentage1 = 17.81
+| seats1 = 52
+| last_election1 = 28
+
+| party2 = Vamos (Guatemala)
+| leader2 = Carlos Roberto Calderón
+| percentage2 = 7.97
+| seats2 = 17
+| last_election2 = New
+
+| party3 = National Change Union
+| leader3 = Julio Lainfiesta
+| percentage3 = 5.44
+| seats3 = 12
+| last_election3 = 6
+
+| party8 = Todos (political party)
+| leader8 = Felipe Alejos
+| percentage8 = 4.40
+| seats8 = 7
+| last_election8 = 16
+
+| party7 = Semilla (Guatemala)
+| leader7 = {{nowrap|[[Lucrecia Hernández Mack]]}}
+| percentage7 = 5.26
+| seats7 = 7
+| last_election7 = New
+
+| party10 = Commitment, Renewal and Order
+| leader10 = [[Adela de Torrebiarte]]
+| percentage10 = 4.41
+| seats10 = 6
+| last_election10 = 5
+
+| party9 = Vision with Values
+| leader9 = Armando Castillo
+| percentage9 = 4.70
+| seats9 = 7
+| last_election9 = 4
+
+| party4 = Valor (political party)
+| leader4 = Luis Alfonso Rosales
+| percentage4 =4.56
+| seats4 = 9
+| last_election4 = New
+
+| party11 = Humanist Party of Guatemala
+| leader11 = Lecsan Mérida
+| percentage11 = 4.67
+| seats11 = 6
+| last_election11 = New
+
+| party12 = Winaq
+| leader12 = [[Sonia Gutiérrez Raguay|Sonia Gutiérrez]]
+| percentage12 = 3.51
+| seats12 = 4
+| last_election12 = 1
+
+| party13 = Victory (political party)
+| leader13 = Juan Carlos Rivera
+| percentage13 = 2.52
+| seats13 = 4
+| last_election13 = 0
+
+| party5 = Bienestar Nacional (political party)
+| leader5 = [[Evelyn Morataya]]
+| percentage5 = 4.82
+| seats5 = 8
+| last_election5 = 0
+
+| party15 = Unionist Party (Guatemala)
+| leader15 = [[Álvaro Arzú Escobar]]
+| percentage15 = 2.94
+| seats15 = 3
+| last_election15 = 1
+
+| party14 = Citizen Prosperity
+| leader14 = Jorge García Silva
+| percentage14 = 3.27
+| seats14 = 3
+| last_election14 = New
+
+| party16 = Guatemalan National Revolutionary Unity
+| leader16 = Osmundo Ponce Serrano
+| percentage16 = 2.78
+| seats16 = 3
+| last_election16 = 1
+
+| party17 = National Advancement Party
+| leader17 = [[Manuel Conde Orellana]]
+| percentage17 = 2.73
+| seats17 = 2
+| last_election17 = 3
+
+| party18 = Movement for the Liberation of Peoples
+| leader18 = [[Vicenta Jerónimo]]
+| percentage18 = 3.02
+| seats18 = 1
+| last_election18 = New
+
+| party19 = Podemos (Guatemala)
+| leader19 = Ronald Sierra
+| percentage19 = 1.68
+| seats19 = 1
+| last_election19 = 12
+
+| map = 2019 Guatemalan legislative election - Results.svg
+| map_caption = Results by department
+| title = [[List of Presidents of the Congress of the Republic of Guatemala|President of the Congress]]
+| before_election = [[Álvaro Arzú Escobar]]
+| before_party = Unionist Party (Guatemala)
+| after_election = [[Allan Rodríguez]]
+| after_party = Vamos (Guatemala)
+}}}}}}{{Politics of Guatemala}}
+
+General elections were held in [[Guatemala]] on 16 June 2019, to elect the president, [[Congress of Guatemala|Congress]] and local councils. A second round of the presidential elections was held on 11 August 2019, since no candidate won a majority in the first round. [[Alejandro Giammattei]] won the election in the second round of voting.
+
+Incumbent President [[Jimmy Morales]] was constitutionally barred from running for a second four-year term.<ref>{{cite web|url=https://www.prensalibre.com/guatemala/politica/jimmy-morales-dice-que-le-gustaria-quedarse-gobernando-por-otro-periodo|title=Jimmy Morales dice que le gustaría gobernar otro período|date=7 March 2018}}</ref><ref>{{Cite web|url=https://www.efe.com/efe/america/politica/el-presidente-de-guatemala-dice-que-le-gustaria-tener-otro-periodo-gobierno/20000035-3546202|title=El presidente de Guatemala dice que le gustaría tener otro período de Gobierno|accessdate=8 March 2023}}</ref>
+
+==Electoral system==
+The [[president of Guatemala]] is elected using the [[two-round system]].<ref name=EG/>
+
+The 160 members of Congress are elected by two methods; 130 are elected from 22 multi-member constituencies based on the [[Departments of Guatemala|departments]], with the remaining 31 elected from a single nationwide constituency. Seats are elected using [[closed list]] [[proportional representation]], with seats allocated using the [[D'Hondt method]].<ref name=EG>[http://www.electionguide.org/elections/id/2419/ Congress of the Republic] IFES</ref>
+
+==Candidates==
+[[Thelma Aldana]]'s candidature was rejected by authorities in April 2019 on the grounds of alleged corruption cases concerning her, although no evidence was presented. She denied the accusations and attributes them to what she calls the "pact of the corrupt", composed of politicians and business leaders of the country. As former attorney general, she had uncovered several major corruption cases.<ref>{{Cite web|url=http://www.lefigaro.fr/flash-actu/guatemala-la-candidature-de-l-ex-procureure-rejetee-20190402|title = Guatemala: La candidature de l'ex-procureure rejetée|date = 2 April 2019}}</ref> Aldana appealed the ruling, but the appeal was rejected in May 2019.<ref>{{Cite news|url=https://www.washingtonpost.com/world/the_americas/guatemala-awaits-ruling-can-popular-anti-corruption-crusader-run-for-president/2019/05/14/8ec59356-7516-11e9-a7bf-c8a43b84ee31_story.html?noredirect=on|title=Guatemala court rules popular anti-corruption crusader ineligible to run for president|last=Cuffe|first=Sandra|date=15 May 2019|newspaper=Washington Post|access-date=16 May 2019}}</ref>
+
+The candidature of [[Zury Ríos]], daughter of Guatemalan dictator from 1982 to 1983 [[Efraín Ríos Montt]], was rejected by authorities in May 2019 on the grounds that the country's constitution bars close relatives of coup leaders from serving as president.<ref>{{Cite web|url=https://www.bbc.com/news/world-latin-america-48266200|title=Guatemala ex-dictator's daughter Zury Ríos barred from presidency|date=14 May 2019|work=BBC News}}</ref><ref>{{Cite web|url=https://www.reuters.com/article/us-guatemala-politics/guatemala-court-bars-ex-dictators-daughter-from-presidential-race-idUSKCN1SK06U|title=Guatemala court bars ex-dictator's daughter from presidential race|date=13 May 2019|work=Reuters}}</ref>
+
+In April 2019, centre-right candidate Mario Estrada was arrested. He is accused by the American authorities of having made a deal with the [[Sinaloa cartel]], from which he allegedly obtained between 10 and 12 million dollars for his election campaign, and of having ordered the murder of rival candidates.<ref>{{cite news|url=https://www.ouest-france.fr/monde/guatemala/guatemala-un-candidat-la-presidentielle-arrete-pour-complot-avec-un-cartel-6313938|title=Guatemala. Un candidat à la présidentielle arrêté pour complot avec un cartel|date=18 April 2019|work=Ouest France|access-date=8 March 2023|language=fr|agency=Reuters}}</ref>
+
+{| class="wikitable"
+|-
+!colspan=3| Party
+!colspan=2| Presidential candidate
+!colspan=2| Vice presidential candidate
+|-
+| {{party color cell|PAN-Podemos}}
+| [[File:PAN Logo.svg|25px]][[File:Podemos GT Logo (cropped).png|25px]]
+| '''[[Partido de Avanzada Nacional|PAN]]–[[Podemos (Guatemala)|P]]'''
+| [[File:Roberto Arzú 2019 (cropped).jpg|100px]]
+| style="background:lavender;" |'''[[Roberto Arzú]]'''
+| [[File:José Farías 2019 (cropped).jpg|100px]]
+| style="background:lavender;" |''' José Antonio Farias '''
+|-
+| style="background-color:#652D92;" | 
+| [[File:Todos Logo.svg|50px]]
+| '''[[Todos (political party)|Todos]]'''
+| [[File:Freddy Cabrera (2014).jpg|100px]]
+| style="background:lavender;" |'''Fredy Cabrera'''
+| [[File:Ricardo Sagastume (2015).jpg|100px]]
+| style="background:lavender;" |'''Ricardo Sagastume'''
+|-
+| style="background-color:#EC0408;" | 
+| [[File:MLP Logo.png|50px]]
+| '''[[Movement for the Liberation of Peoples|MLP]]'''
+|[[File:Thelma Cabrera 2019 (croppeda).jpg|100px]]
+| style="background:lavender;" | '''[[Thelma Cabrera]]'''
+| [[File:Neftalí López (fin de campaña) (cropped).png|100px]]
+| style="background:lavender;" | '''Neftalí López'''
+|-
+| style="background-color:#D79E2D;" | 
+| [[File:URNG Logo.png|50px]]
+| '''[[Unidad Revolucionaria Nacional Guatemalteca|URNG]]'''
+| [[File:Pablo Ceto (cropped).jpg|100px]]
+| style="background:lavender;" |'''Pablo Ceto'''<ref>{{Cite web|url=https://www.publinews.gt/gt/noticias/2019/02/03/urng-maiz-proclama-binomio-presidencial-elecciones-2019.html|title=URNG-Maíz proclama a su binomio presidencial|first=Saira|last=Ramos|website=Publinews|date=3 February 2019|access-date=Feb 7, 2019}}</ref>
+| [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Blanca Estela Colop '''
+|-
+| style="background-color:#0C477B;" | 
+| [[File:PPT GT Logo.jpg|50px]]
+| '''[[Productivity and Work Party|PPT]]'''
+| [[File:Retrato oficial de José Luis Chea Urruela, Ministro de Cultura y Deportes bajo el gobierno de Jimmy Morales (2016-2018) (cropped).jpg|133x133px]]
+| style="background:lavender;" |'''[[José Luis Chea Urruela|José Luis Chea]]'''
+| [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Guillermo González '''
+|-
+| style="background-color:#273284;" | 
+| [[File:Partido Unionista Logo (Guatemala, 2016).svg|50px]]
+| '''[[Unionist Party (Guatemala)|PU]]'''
+| [[File:Pablo Duarte (cropped).jpg|100px]]
+| style="background:lavender;" |'''Pablo Duarte'''<ref>{{Cite web|url=https://www.publinews.gt/gt/noticias/2019/01/12/candidatos-partido-unionista-12-enero-2019.html|title=Partido Unionista presenta a sus candidatos para las Elecciones 2019|first=Esvin|last=Lopez|website=Publinews|date=12 January 2019|access-date=Feb 7, 2019}}</ref><ref>{{Cite web|url=https://www.soy502.com/articulo/partido-unionista-presenta-candidatos-presidencia-24039|title=El Partido Unionista presenta a candidatos a la presidencia &#124; Soy502|website=www.soy502.com|access-date=Feb 7, 2019}}</ref>
+| [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Roberto Villeda '''
+|-
+| style="background-color:#FDAF17;" | 
+| 
+| '''[[Commitment, Renewal and Order|CREO]]'''
+| [[File:Julio Héctor Estrada (cropped).jpg|100px]]
+| style="background:lavender;" |'''Julio Héctor Estrada'''<ref>{{Cite news|url=https://www.soy502.com/articulo/exministro-jimmy-morales-sera-candidato-presidencial-creo-24039|title=Exministro de Jimmy Morales será candidato presidencial de CREO &#124; Soy502|website=www.soy502.com|access-date=Feb 7, 2019}}</ref><ref>{{Cite web|url=https://www.prensalibre.com/guatemala/politica/partido-creo-proclama-a-sus-candidatos-a-la-presidencia-y-vicepresidencia/|title=Partido Creo proclama a sus candidatos a la presidencia y vicepresidencia – Prensa Libre|access-date=Feb 7, 2019}}</ref>
+| [[File:Yara Argueta (cropped).jpg|100px]]
+| style="background:lavender;" |'''Yara Argueta'''
+|-
+| style="background-color:#00A3E6;" | 
+| [[File:VIVA_Logo.svg|50px]]
+| '''[[Vision with Values|VIVA]]'''
+| [[File:Isaac Farchi (cropped).jpg|100px]]
+| style="background:lavender;" |'''[[Isaac Farchi|Isaac Farchi Sultán]]'''
+| [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Ricardo Flores Asturias '''
+|-
+| style="background-color:#003895;" | 
+| [[File:Simbolo FCN Nación.png|50px]]
+| '''[[National Convergence Front|FCN]]'''
+| [[File:Retrato oficial de Estuardo Ernesto Galdámez Juárez , Diputado del Congreso (cropped).jpg|133x133px]]
+| style="background:lavender;" |'''[[Estuardo Galdámez]]''' <ref>{{Cite web|url=https://elperiodico.com.gt/nacion/2019/01/27/fcn-proclama-a-estuardo-galdamez-y-betty-marroquin-como-binomio-presidencial/|title=FCN proclama a Estuardo Galdámez y Betty Marroquín como binomio presidencial|website=elPeriodico|date=27 January 2019|access-date=Feb 7, 2019}}</ref><ref>{{Cite web|url=https://www.prensalibre.com/guatemala/politica/hermano-de-presidente-procesado-por-corrupcion-busca-candidatura-en-guatemala/|title=Hermano de presidente, procesado por corrupción busca candidatura en Guatemala – Prensa Libre|access-date=Feb 7, 2019}}</ref>
+| [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Betty Marroquín Silva '''
+|-
+| style="background-color:#3467A1;" | 
+| [[File:LIBRE Logo.png|50px]]
+| '''[[Libre (Guatemala)|Libre]]'''
+| [[File:Aníbal García 2019 (cropped).jpg|100px]]
+| style="background:lavender;" |'''Aníbal García'''<ref>{{Cite web|url=https://republica.gt/2019/02/03/partido-libre-anibal-garcia-candidato/|title=Partido Libre presenta a Aníbal García y Carlos Pérez como presidenciables » República.gt|first=Henry|last=Pocasangre|date=Feb 3, 2019|access-date=Feb 7, 2019}}</ref><ref>{{Cite web|url=https://www.publinews.gt/gt/noticias/2019/02/03/partido-libre-buscara-la-presidencia-las-elecciones-2019.html|title=Partido Libre buscará la presidencia en las elecciones de 2019|first=Joel|last=Maldonado|website=Publinews|date=3 February 2019|access-date=Feb 7, 2019}}</ref>
+| [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Carlos Pérez '''
+|-
+| style="background-color:#34478E;" | 
+| [[File:Vamos por una Guatemala Diferente Logo.svg|56x56px]]
+| '''[[Vamos (Guatemala)|Vamos]]'''
+| [[File:Retrato de Alejandro Giammattei, Presidente de Guatemala (2020-2024) (cropped 2).png|133x133px]]
+| style="background:lavender;" |'''[[Alejandro Giammattei]]'''<ref>{{Cite news|url=https://www.publinews.gt/gt/noticias/2018/10/14/postula-alejandro-giammattei-candidato-presidente.html|title=Partido Vamos postula a Alejandro Giammattei como presidenciable|date=14 October 2018|language=es}}</ref><br /><ref name=candidates/><ref>{{Cite news|url=http://snip.segeplan.gob.gt/share/SCHE$SINIP/CONTRATOS/55827-GE-AL-049-2008.pdf|title=Guillermo Castillo|date=14 October 2018}}</ref>
+| [[File:Retrato Oficial de Vicepresidente César Guillermo Castillo Reyes (cropped).jpg|133x133px]]
+| style="background:lavender;" |'''[[Guillermo Castillo Reyes|Guillermo Castillo]]'''
+|-
+| style="background-color:#9ACD32;" | 
+| [[File:EGLogo.svg|50px]]
+| '''[[Encuentro por Guatemala|EG]]'''
+| [[File:Manfredo Marroquín (cropped).jpg|100px]]
+| style="background:lavender;" |'''Manfredo Marroquín'''
+| [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Oscar Adolfo Morales '''
+|-
+| style="background-color:#3481B9;" | 
+| [[File:Convergencia GT Logo.jpg|50px]]
+| '''[[Convergence (Guatemala)|C]]'''
+|  [[File:Benito Morales (cropped).jpg|100px]]
+| style="background:lavender;" |'''Benito Morales'''<ref>{{Cite web|url=https://www.soy502.com/articulo/partido-convergencia-proclama-binomio-presidencial-101025|title=Partido Convergencia proclama a su binomio presidencial &#124; Soy502|website=www.soy502.com|access-date=Feb 7, 2019}}</ref><ref>{{Cite web|url=https://www.publinews.gt/gt/noticias/2019/01/27/convergencia-revela-binomio-presidencial.html|title=Convergencia revela a su binomio presidencial|first=Joel|last=Maldonado|website=Publinews|date=27 January 2019|access-date=Feb 7, 2019}}</ref>
+|  [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Claudia Mariana Valiente '''
+|-
+| style="background-color:#212C64;" | 
+| [[File:PHG Logo.png|50px]]
+| '''[[Humanist Party of Guatemala|PHG]]'''
+| [[File:Brimmer Mulet (cropped) (cropped).jpg|100px]]
+| style="background:lavender;" |'''[[Edmond Mulet]]'''
+| [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Jorge Pérez '''
+|-
+| style="background-color:#E11829;" | 
+| [[File:Victoria Logo.svg|50px]]
+| '''[[Victory (political party)|Victoria]]'''
+| [[File:(Amílcar Rivera) Visita a la Municipalidad de Mixco (7-2-2011) (cropped).jpg|100px]]
+| style="background:lavender;" |'''Amílcar Rivera'''
+| [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Erico Can Saquic '''
+|-
+| style="background-color:#EF018D;" | 
+| [[File:Avanza (Guatemala) logo.svg|50px]]
+| '''[[Avanza (Guatemala)|Avanza]]'''
+| [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Danilo Roca Barillas '''
+| [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Manuel Martínez '''
+|-
+| style="background-color:#50A700;" | 
+| [[File:UNE_Logo.svg|50px]]
+| '''[[Unidad Nacional de la Esperanza|UNE]]'''
+| [[File:Sandra Torres 2019 (cropped).jpg|100px]]
+| style="background:lavender;" |'''[[Sandra Torres (politician)|Sandra Torres]]'''<ref name=candidates>{{Cite news |url=https://www.prensalibre.com/guatemala/politica/estas-son-las-cartas-politicas-que-ya-se-perfilan-para-la-presidencia-de-guatemala |author= Manuel Hernández Mayén |title=Estas son las cartas políticas que ya se perfilan para la presidencia de Guatemala |newspaper=Prensa Libre|date=24 July 2018}}</ref><ref>{{Cite news |url=http://republica.gt/2017/02/22/2019-sera-eleccion-de-mujeres/ |title=2019: será elección de mujeres |newspaper=República |date=May 2017}}</ref>
+| [[File:Carlos Raúl Morales (34370259020) (cropped).jpg|100px]]
+| style="background:lavender;" |'''[[Carlos Raúl Morales]]'''
+|-
+| style="background-color:#E32132;" | 
+| [[File:Unidos GT.png|50px]]
+| '''[[Unidos (political party)|Unidos]]'''
+| [[File:Luis V Quiroa (cropped).jpg|100px]]
+| style="background:lavender;" |'''Luis Velásquez Quiroga'''
+|  [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Arturo Soto '''
+|-
+| style="background-color:#EB1C22;" | 
+| [[File:Winaq Logo.svg|50px]]
+| '''[[Winaq]]'''
+| 
+| style="background:lavender;" |'''[[Manuel Villacorta]]'''<ref name="Nomination">{{Cite news |url=https://www.soy502.com/articulo/winaq-proclama-candidatos-presidencia-100931 |author=Jessica Gramajo |title=Winaq proclama candidatos para la presidencia |newspaper=Soy502 |date=January 2019}}</ref><ref>{{Cite news |url=https://elperiodico.com.gt/nacion/2019/01/20/winaq-presenta-a-sus-candidatos-a-la-presidencia/ |author=Katerin Chumil |title=Winaq presenta a sus candidatos a la Presidencia |newspaper=ElPeriodico |date=20 January 2019 |archive-date=3 May 2019 |access-date=20 January 2019 |archive-url=https://web.archive.org/web/20190503222729/https://elperiodico.com.gt/nacion/2019/01/20/winaq-presenta-a-sus-candidatos-a-la-presidencia/ |url-status=dead }}</ref><ref>{{cite news |last1=Orozco |first1=Andrea |title=Cinco binomios presidenciales han solicitado inscribirse en el TSE |url=https://www.prensalibre.com/guatemala/politica/cinco-binomios-presidenciales-han-solicitado-inscribirse-en-el-tse/ |publisher=Prensa Libre |date=January 2019}}</ref>
+|  [[File:Portrait_placeholder.svg|100px]]
+| style="background:lavender;" |''' Izabel Hernández '''
+|}
+
+===Declined candidates===
+*[[Manuel Baldizón]]: deputy of the Congress 2004-2008, secretary-general of [[Renewed Democratic Liberty]] 2010-2014, presidential candidate in 2011 and 2015.<ref>{{Cite news |url=https://www.soy502.com/articulo/baldizon-confirma-no-buscara-presidencia-30612 |title=Manuel Baldizón confirma que ya no buscará la Presidencia |newspaper=Soy502|date=24 July 2017}}</ref>
+*Ernest Steve "Neto" Bran: Mayor of [[Mixco]] since 2016.<ref>{{Cite news |url=http://diariodigital.gt/2016/09/alvaro-arzu-el-ejemplo-a-seguir-de-neto-bran/ |title=Álvaro Arzú, el ejemplo a seguir de Neto Bran |newspaper=Diario Digital |date=16 September 2016 |access-date=21 February 2018 |archive-url=https://web.archive.org/web/20170729050525/http://diariodigital.gt/2016/09/alvaro-arzu-el-ejemplo-a-seguir-de-neto-bran/ |archive-date=29 July 2017 |url-status=dead }}</ref><ref>{{cite web|url=http://www.prensalibre.com/ciudades/guatemala/neto-bran-sigue-los-pasos-de-arzu-aseguran-expertos|title=Neto Bran sigue los pasos de Arzú, aseguran expertos|date=24 November 2017}}</ref>
+*[[Jorge Pérez (politician)|Jorge Pérez]]: Secretary of Executive Coordination of the Presidency 2000-2002.<ref name=candidates/>
+*[[Erik Súñiga]]: [[Mayor|Mayor of]] [[Ayutla, San Marcos]], 2008-2020.<ref name=candidates/>
+*[[Nineth Montenegro]]: [[Congress of Guatemala|Deputy of the Congress]] by National List since 1996, [[Congress of Guatemala|Second Vice President of the Congress]] 2012-2013, General Secretary of the Encuentro de Guatemala since 2007.
+
+==Opinion polls==
+{{Main|Opinion polling for the 2019 Guatemalan general election}}
+
+===First round===
+{{Chart|definition=Opinion polling for the first round of the 2019 Guatemalan general election.chart|data=Opinion polling for the first round of the 2019 Guatemalan general election.tab|width=900px}}
+
+=== Second round ===
+{{Chart|definition=Opinion polling for the second round of the 2019 Guatemalan general election.chart|data=Opinion polling for the second round of the 2019 Guatemalan general election.tab|width=900px}}
+
+==Debates==
+{| class="wikitable" style="font-size:98%; text-align:center;"
+|-
+! style="background:#B0C4DE" colspan="11"| 2019 Guatemalan general election debates
+|-
+! rowspan="3"| Date
+! rowspan="3"| Organisers
+! rowspan="3"| Moderator(s)
+! colspan="9"| {{small|&nbsp;&nbsp;}} {{Colors|black|#90FF90|&nbsp;P&nbsp;}} {{small|Present &nbsp;}} {{Colors|black|#9999FF|&nbsp;''P''&nbsp;}} {{small|Present but his candidacy was revoked&nbsp;}}<br />{{Colors|black|#3f888f|&nbsp;NI&nbsp;}} {{small|Non-invitee&nbsp;}} {{Colors|black|#FF9090|&nbsp;A&nbsp;}} {{small|Absent invitee&nbsp;}}
+|-
+! scope="col" style="width:5em;"| Arzú<br />{{small|[[Partido de Avanzada Nacional|PAN]]–[[Podemos (Guatemala)|P]]}}
+! scope="col" style="width:5em;"| ''[[Edwin Escobar Hill|Escobar]]<br />{{small|[[Citizen Prosperity|PC]]}}''
+! scope="col" style="width:5em;"| Estrada<br />{{small|[[Commitment, Renewal and Order|CREO]]}}
+! scope="col" style="width:5em;"| [[Alejandro Giammattei|Giammattei]]<br />{{small|[[Vamos (Guatemala)|Vamos]]}}
+! scope="col" style="width:5em;"| [[Edmond Mulet|Mulet]]<br />{{small|[[Humanist Party of Guatemala|PHG]]}}
+! scope="col" style="width:5em;"| [[Sandra Torres|Torres]]<br />{{small|[[National Unity of Hope|UNE]]}}
+|-
+! {{party color cell|PAN-Podemos}}
+! {{party color cell|Citizen Prosperity}}
+! {{party color cell|Commitment, Renewal and Order}}
+! {{party color cell|Vamos (Guatemala)}}
+! {{party color cell|Humanist Party of Guatemala}}
+! {{party color cell|National Unity of Hope}}
+|-
+| style="white-space:nowrap; text-align:left;"| 2 June
+| style="white-space:nowrap; text-align:left;"| AGG
+| style="white-space:nowrap; text-align:left;"| Luis Felipe Valenzuela<br />Marielos Fuentes
+| {{Yes|'''P'''}}
+| style="background:#9999FF;"|'''''P'''''
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{Yes|'''P'''}}
+| {{No|'''A'''}}
+|-
+| style="white-space:nowrap; text-align:left;"| 28 July
+| style="white-space:nowrap; text-align:left;"| AGG
+| style="white-space:nowrap; text-align:left;"| Luis Felipe Valenzuela<br />Marielos Fuentes
+| colspan="3" style="background:lightgray;"|
+| {{Yes|'''P'''}}
+| style="background:lightgray;"|
+| {{No|'''A'''}}
+|}
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Sandra Torres]]|vp1=[[Carlos Raúl Morales]]|party1=[[National Unity of Hope]]|votes1=1112939|votes1_2=1384044
+|cand2=[[Alejandro Giammattei]]|vp2=[[Guillermo Castillo Reyes]]|party2=[[Vamos (Guatemala)|Vamos]]|votes2=608083|votes2_2=1907767
+|cand3=[[Edmond Mulet]]|vp3=Jorge Pérez|party3=[[Humanist Party of Guatemala]]|votes3=493710
+|cand4=[[Thelma Cabrera]]|vp4=Neftalí López|party4=[[Movement for the Liberation of Peoples]]|votes4=452260
+|cand5=[[Roberto Arzú]]|vp5=José Antonio Farias|party5=[[National Advancement Party]]–[[Podemos (Guatemala)|Podemos]]|votes5=267049
+|cand6=[[Isaac Farchi]]|vp6=Ricardo Flores Asturias|party6=[[Vision with Values]]|votes6=259616
+|cand7=[[Manuel Villacorta]]|vp7=Izabel Hernández|party7=[[Winaq]]|votes7=229362
+|cand8=[[Estuardo Galdámez]]|vp8=Betty Marroquín Silva|party8=[[National Convergence Front]]|votes8=180414
+|cand9=[[Julio Héctor Estrada]]|vp9=Yara Argueta|party9=[[Commitment, Renewal and Order]]|votes9=165031
+|cand10=Fredy Cabrera|vp10=Ricardo Sagastume|party10=[[Todos (political party)|Todos]]|votes10=138333
+|cand11=Amílcar Rivera|vp11=Erico Can Saquic|party11=[[Victory (political party)|Victory]]|votes11=111998
+|cand12=Pablo Ceto|vp12=Blanca Estela Colop|party12=[[Guatemalan National Revolutionary Unity]]|votes12=94531
+|cand13=Pablo Duarte|vp13=Roberto Villeda|party13=[[Unionist Party (Guatemala)|Unionist Party]]|votes13=62679
+|cand14=Manfredo Marroquín|vp14=Oscar Adolfo Morales|party14=[[Encuentro por Guatemala]]|votes14=50594
+|cand15=Aníbal García|vp15=Carlos Pérez|party15=[[Libre (Guatemala)|Libre]]|votes15=41800|color15=#1F75FE
+|cand16=Benito Morales|vp16=Claudia Mariana Valiente|party16=[[Convergence (Guatemala)|Convergence]]|votes16=37579|color16=#3481B9
+|cand17=[[Luis Velásquez Quiroa]]|vp17=Arturo Soto|party17=[[Unidos (political party)|Unidos]]|votes17=26921|color17=#E32132
+|cand18=[[José Luis Chea Urruela]]|vp18=Mario Guillermo González|party18=[[Productivity and Work Party]]|votes18=23962|color18=#0C477B
+|cand19=Danilo Roca|vp19=Manuel Martínez|party19=[[Avanza (Guatemala)|Avanza]]|votes19=21410|color19=#EF018D
+|invalid=209444|invalid2=151047
+|blank=452708|blank2=33900
+|electorate=8150221|electorate2=8150221
+|source=[http://www.tse.org.gt/images/memoriaselec/me2019.pdf TSE]
+}}
+
+===Congress===
+<section begin="Congressional results"/>{{Election results
+|image=[[File:Congreso de Guatemala (2019).svg]]
+|firstround=National|secondround=District
+|party1=[[National Unity of Hope]]|votes1=717204|seats1=7|votes1_2=731015|seats1_2=47|totseats1=54|sc1=+26
+|party2=[[Vamos (Guatemala)|Vamos]]|votes2=320939|seats2=3|votes2_2=331810|seats2_2=13|totseats2=16|sc2=New
+|party3=[[National Change Union]]|votes3=218914|seats3=2|votes3_2=243757|seats3_2=10|totseats3=12|sc3=+6
+|party4=[[Semilla (Guatemala)|Semilla]]|votes4=211691|seats4=2|votes4_2=215669|seats4_2=5|totseats4=7|sc4=New
+|party5=[[National Convergence Front]]|votes5=210307|seats5=2|votes5_2=227144|seats5_2=6|totseats5=8|sc5=–27
+|party6=[[Bienestar Nacional]]|votes6=194067|seats6=2|votes6_2=209206|seats6_2=6|totseats6=8|sc6=+8
+|party7=[[Vision with Values]]|votes7=189467|seats7=2|votes7_2=181588|seats7_2=5|totseats7=7|sc7=+3
+|party8=[[Humanist Party of Guatemala]]|votes8=188234|seats8=2|votes8_2=186776|seats8_2=4|totseats8=6|sc8=New
+|party9=[[Valor (political party)|Valor]]|votes9=183814|seats9=1|votes9_2=215338|seats9_2=8|totseats9=9|sc9=New
+|party10=[[Commitment, Renewal and Order]]|votes10=177681|seats10=1|votes10_2=189654|seats10_2=5|totseats10=6|sc10=+1
+|party11=[[Todos (political party)|Todos]]|votes11=177182|seats11=1|votes11_2=205144|seats11_2=6|totseats11=7|sc11=–9
+|party12=[[Winaq]]|votes12=141252|seats12=1|votes12_2=144314|seats12_2=3|totseats12=4|sc12=+3
+|party13=[[Citizen Prosperity]]|votes13=131694|seats13=1|votes13_2=152540|seats13_2=2|totseats13=3|sc13=New
+|party14=[[Movement for the Liberation of Peoples]]|votes14=121743|seats14=1|votes14_2=123084|seats14_2=0|totseats14=1|sc14=New
+|party15=[[Unionist Party (Guatemala)|Unionist Party]]|votes15=118337|seats15=1|votes15_2=109736|seats15_2=2|totseats15=3|sc15=+2
+|party16=[[Guatemalan National Revolutionary Unity]]|votes16=112037|seats16=1|votes16_2=116943|seats16_2=2|totseats16=3|sc16=+2
+|party17=[[National Advancement Party]]|votes17=110016|seats17=1|votes17_2=104900|seats17_2=1|totseats17=2|sc17=–1
+|party18=[[Victory (political party)|Victory]]|votes18=101418|seats18=1|votes18_2=71630|seats18_2=2|totseats18=3|sc18=+3
+|party19=[[Fuerza (political party)|Fuerza]]|votes19=77862|seats19=0|votes19_2=99090|seats19_2=0|totseats19=0|sc19=–1
+|party20=[[Encuentro por Guatemala]]|votes20=71668|seats20=0|votes20_2=66250|seats20_2=0|totseats20=0|sc20=–6
+|party21=[[Podemos (Guatemala)|Podemos]]|votes21=67610|seats21=0|votes21_2=77756|seats21_2=1|totseats21=1|sc21=–11
+|party22=[[Convergence (Guatemala)|Convergence]]|votes22=49284|seats22=0|votes22_2=51024|seats22_2=0|totseats22=0|sc22=–3
+|party23=[[Libre (Guatemala)|Libre]]|votes23=48267|seats23=0|votes23_2=51518|seats23_2=0|totseats23=0|sc23=New
+|party24=[[Avanza (Guatemala)|Avanza]]|votes24=31750|seats24=0|votes24_2=24735|seats24_2=0|totseats24=0|sc24=New
+|party25=[[Productivity and Work Party]]|votes25=29729|seats25=0|votes25_2=30656|seats25_2=0|totseats25=0|sc25=New
+|party26=[[Unidos (political party)|Unidos]]|votes26=25258|seats26=0|votes26_2=32111|seats26_2=0|totseats26=0|sc26=New
+|invalid=1024405|invalid2=
+|total_sc=+2
+|electorate=8150221|electorate2=
+|source=[https://www.tse.org.gt/images/Acuerdos2019/377-2019.pdf TSE], [http://tse.org.gt/images/memoriaselec/me2019.pdf TSE], [https://data.ipu.org/node/69/elections?chamber_id=13406 IPU]
+}}<section end="Congressional results"/>
+
+===Central American Parliament===
+{{Election results
+|image=[[File:Guatemala Parlacen 2019.svg]]
+|party1=[[National Unity of Hope]]|votes1=626821|seats1=5|sc1=+1
+|party2=[[Vamos (Guatemala)|Vamos]]|votes2=297042|seats2=2|sc2=New
+|party3=[[National Change Union]]|votes3=226732|seats3=2|sc3=+1
+|party4=[[National Convergence Front]]|votes4=213392|seats4=2|sc4=–
+|party5=[[Valor (political party)|Valor]]|votes5=178587|seats5=1|sc5=New
+|party6=[[Bienestar Nacional]]|votes6=174465|seats6=1|sc6=+1
+|party7=[[Todos (political party)|Todos]]|votes7=172170|seats7=1|sc7=–1
+|party8=[[Commitment, Renewal and Order]]|votes8=165832|seats8=1|sc8=+1
+|party9=[[Vision with Values]]|votes9=161474|seats9=1|sc9=–
+|party10=[[Citizen Prosperity]]|votes10=136204|seats10=1|sc10=New
+|party11=[[Winaq]]|votes11=115425|seats11=1|sc11=+1
+|party12=[[Semilla (Guatemala)|Semilla]]|votes12=108731|seats12=1|sc12=New
+|party13=[[Guatemalan National Revolutionary Unity]]|votes13=106373|seats13=1|sc13=–
+|party14=[[Victory (political party)|Victory]]|votes14=100789|seats14=0|sc14=New
+|party15=[[National Advancement Party]]|votes15=99730|seats15=0|sc15=–
+|party16=[[Unionist Party (Guatemala)|Unionist Party]]|votes16=92968|seats16=0|sc16=–1
+|party17=[[Fuerza (political party)|Fuerza]]|votes17=81762|seats17=0|sc17=–
+|party18=[[Podemos (Guatemala)|Podemos]]|votes18=64905|seats18=0|sc18=–
+|party19=[[Encuentro por Guatemala]]|votes19=56943|seats19=0|sc19=–1
+|party20=[[Convergence (Guatemala)|Convergence]]|votes20=49595|seats20=0|sc20=–
+|party21=[[Avanza (Guatemala)|Avanza]]|votes21=34211|seats21=0|sc21=New
+|party22=[[Libre (Guatemala)|Libre]]|votes22=41671|seats22=0|sc22=New
+|party23=[[Unidos (political party)|Unidos]]|votes23=21822|seats23=0|sc23=New
+|valid=3327644
+|invalid=1716408
+|total_sc=+2
+|electorate=8086526
+|source=[https://resultados2019.tse.org.gt/ Supreme Electoral Tribunal]
+}}
+
+===Municipal===
+{{see also|2019 Guatemala City mayoral election|2019 Quetzaltenango mayoral election|2019 Villa Nueva mayoral election|2019 Mixco mayoral election|2019 Escuintla mayoral election|2019 Antigua Guatemala mayoral election}}
+{|class=wikitable style=text-align:right
+|-
+!colspan=2|Party
+!{{abbr|C.|Candidates}}
+!{{abbr|M.|Elected mayors}}
+!%
+!±
+|-
+|style="background:#FFE200"| ||align=left|[[National Advancement Party]]|| 41 || || ||
+|-
+|style="background:#1898A1"| ||align=left|[[Valor (political party)|Valor]]|| 156 || || || New
+|-
+|style="background:#652D92"| ||align=left|[[Todos (political party)|Todos]]|| 161 || || ||
+|-
+|style="background:#1B1464"| ||align=left|[[Podemos (Guatemala)|Podemos]]|| 76 ||2|| ||
+|-
+|style="background:#D79E2D"| ||align=left|[[Guatemalan National Revolutionary Unity]]|| 75 || 5 || ||
+|-
+|style="background:#50A700"| ||align=left|[[National Unity of Hope]]|| 314 ||109|| ||
+|-
+|style="background:#273284"| ||align=left|[[Unionist Party (Guatemala)|Unionist Party]]|| 111 || || ||
+|-
+|style="background:#29467E"| ||align=left|[[Bienestar Nacional (political party)|Bienestar Nacional]]|| 130 || || ||
+|-
+|style="background:#0000FE"| ||align=left|[[National Change Union]]|| 206 || || ||
+|-
+|style="background:#8ED201"| ||align=left|[[Encuentro por Guatemala]]|| 58 || || ||
+|-
+|style="background:#00A3E6"| ||align=left|[[Vision with Values]]|| 115 || || ||
+|-
+|style="background:#003895"| ||align=left|[[National Convergence Front]]|| 205 || || ||
+|-
+|style="background:#3481B9"| ||align=left|[[Convergence (Guatemala)|Convergence]]|| 57 || || ||
+|-
+|style="background:#FDAF17"| ||align=left|[[Commitment, Renewal and Order]]|| 132 || || ||
+|-
+|style="background:#E11829"| ||align=left|[[Victory (political party)|Victoria]]|| 59 || || || 
+|-
+|style="background:#EB1C22"| ||align=left|[[Winaq]]|| 54 || || ||
+|-
+|style="background:#142A62"| ||align=left|[[Fuerza (political party)|Fuerza]]|| 152 || || ||
+|-
+|style="background:#E32132"| ||align=left|[[Unidos (political party)|Unidos]]|| 44 || || || ''New''
+|-
+|style="background:#0C477B"| ||align=left|[[Productivity and Work Party]]|| 36 || || || New
+|-
+|style="background:#34478E"| ||align=left|[[Vamos (Guatemala)|Vamos]]|| 255 || || || New
+|-
+|style="background:#EF018D"| ||align=left|[[Avanza (Guatemala)|Avanza]]|| 47 || || || New
+|-
+|style="background:#212C64"| ||align=left|[[Humanist Party of Guatemala]]|| 123 || || || New
+|-
+|style="background:#EC0408"| ||align=left|[[Movement for the Liberation of Peoples]]|| 109 || || || New
+|-
+|style="background:#013EA8"| ||align=left|[[Citizen Prosperity]]|| 120 || || || New
+|-
+|style="background:#00CCC9"| ||align=left|[[Semilla (Guatemala)|Semilla]]|| 143 || 3|| || New
+|-
+|style="background:#1F75FE"| ||align=left|[[Libre (Guatemala)|Libre]]|| 69 || || || New
+|-
+|style="background:#CFCFCF"| ||align=left|[[Independent politician|Civic committees]]|| 121 || || ||–
+|-
+|align=left colspan=2|'''Total''' || '''3,169''' ||'''340'''||'''100'''||'''0'''
+|-
+|align=left colspan=13|Source: [https://resultados2019.tse.org.gt/ Supreme Electoral Tribunal]
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.tse.org.gt/ Tribunal Supremo Electoral] {{in lang|es}}
+
+{{Guatemalan elections}}
+
+[[Category:Presidential elections in Guatemala]]
+[[Category:2019 elections in Central America|Guatemala]]
+[[Category:2019 in Guatemala|General election]]
+[[Category:Parliamentary elections in Guatemala]]
+[[Category:June 2019 in Guatemala|General]]
+[[Category:August 2019 in Guatemala|General]]
+[[Category:Election and referendum articles with incomplete results]]

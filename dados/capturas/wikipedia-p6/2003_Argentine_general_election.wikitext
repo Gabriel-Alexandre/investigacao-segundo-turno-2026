@@ -1,0 +1,511 @@
+{{Short description|none}}
+{{Infobox election
+| country = Argentina
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| previous_election = 1999 Argentine general election
+| previous_year = 1999
+| next_election = 2007 Argentine general election
+| next_year = 2007
+| election_date = 27 April 2003
+| registered = 25,481,410
+| turnout = 78.22%
+| image_size = 130x130px
+
+| image1 = Menem 1999.jpg
+| nominee1 = [[Carlos Menem]]
+| party1 = Justicialist Party
+| alliance1 = {{ill|Front for Loyalty|es|Frente por la Lealtad}}
+| running_mate1 = [[Juan Carlos Romero (politician)|Juan&nbsp;Carlos&nbsp;Romero]]
+| popular_vote1 = '''4,741,200'''
+| percentage1 = '''24.45%'''
+
+| image2 = Néstor Kirchner (2005).jpg
+| nominee2 = '''[[Néstor Kirchner]]'''
+| party2 = Justicialist Party
+| alliance2 = Front for Victory
+| running_mate2 = '''[[Daniel Scioli]]'''
+| popular_vote2 = 4,313,131
+| percentage2 = 22.25%
+
+| image3 = López Murphy 2000.jpg
+| nominee3 = [[Ricardo&nbsp;López&nbsp;Murphy]]
+| party3 = Recreate for Growth
+| alliance3 = Recreate for Growth
+| running_mate3 = [[Ricardo Gómez Diez]]
+| popular_vote3 = 3,173,584
+| percentage3 = 16.37%
+
+| image4 = Arodriguezsaa.jpg
+| nominee4 = [[Adolfo Rodríguez Saá]]
+| party4 = Justicialist Party
+| alliance4 = FMP–[[Unity and Liberty Party|PUL]]
+| popular_vote4 = 2,736,091
+| color4 = 66FFCC
+| percentage4 = 14.11%
+
+| image5 = Elisa Carrió.jpg
+| nominee5 = [[Elisa Carrió]]
+| party5 = [[Civic Coalition ARI|ARI]]
+| alliance5_name = no
+| popular_vote5 = 2,723,207
+| percentage5 = 14.08%
+
+| map_image = [[File:Elecciones Argentina 2003.png|border|370px]]
+| map_caption = First round results by province and department
+| title = [[President of Argentina|President]]
+| before_election = [[Eduardo Duhalde]]
+| after_election = [[Néstor Kirchner]]
+| before_party = [[Justicialist Party|PJ]]
+| after_party = [[Front for Victory|FPV]]-[[Justicialist Party|PJ]]
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| previous_election = [[2001 Argentine legislative election|2001]]
+| next_election = [[2005 Argentine legislative election|2005]]
+| seats_for_election = 130 of the 257 seats in the [[Argentine Chamber of Deputies|Chamber of Deputies]]<br/>24 of 72 seats in the [[Argentine Senate|Senate]]
+| election_date = 27 April 2003 to 23 November 2003
+| turnout = 71.88%
+| noleader = yes
+
+| party1 = [[Justicialist Party]]
+| percentage1 = 39.74
+| last_election1 = 51
+| seats1 = 65
+
+| party2 = [[Radical Civic Union]]
+| percentage2 = 13.48
+| last_election2 = 66
+| seats2 = 19
+
+| party3 = [[Civic Coalition ARI|Support for an Egalitarian Republic]]
+| percentage3 = 9.74
+| last_election3 = New
+| seats3 = 11
+
+| party4 = [[Recreate for Growth]]
+| percentage4 = 4.02
+| last_election4 = New
+| seats4 = 2
+
+| party5 = [[Commitment to Change]]
+| percentage5 = 3.88
+| last_election5 = New
+| seats5 = 5
+
+| party6 = [[Movement for Dignity and Independence|Buenos Aires Popular Front]]
+| percentage6 = 3.86
+| last_election6 = New
+| seats6 = 5
+
+| party7 = [[Socialist Party (Argentina)|Socialist Party]]
+| percentage7 = 2.92
+| last_election7 = New
+| seats7 = 3
+
+| party8 = [[Federalist Unity Party|Federalist Action for Buenos Aires]]
+| percentage8 = 2.76
+| last_election8 = 1
+| seats8 = 3
+
+| party9 = [[Civic Front of Córdoba|New Front]]
+| percentage9 = 2.61
+| last_election9 = New
+| seats9 = 3
+
+| party10 = [[Self-determination and Freedom]]
+| percentage10 = 1.32
+| last_election10 = New
+| seats10 = 2
+
+| party11 = [[Republican Force]]
+| percentage11 = 0.80
+| last_election11 = 1
+| seats11 = 2
+
+| party12 = [[Frente de Todos (1996 coalition)|Frente de Todos]]
+| percentage12 = 0.78
+| last_election12 = New
+| seats12 = 2
+
+| party13 = [[New Party (Corrientes)|New Party]]
+| percentage13 = 0.65
+| last_election13 = New
+| seats13 = 1
+
+| party14= [[Salta Renewal Party]]
+| percentage14 = 0.61
+| last_election14 = New
+| seats14 = 1
+
+| party15 = [[Neuquén People's Movement]]
+| percentage15 = 0.58
+| last_election15 = 1
+| seats15 = 2
+
+| party16 = United for Salta ([[Justicialist Party|PJ]]–[[Radical Civic Union|UCR]])
+| color16 = {{party color|Justicialist Party}}
+| percentage16 = 0.43
+| last_election16 = New
+| seats16 = 1
+
+| party17 = Corrientes Project ([[Democratic Progressive Party (Argentina)|PDP]]–[[Conservative People's Party (Argentina)|PCP]])
+| color17 = {{party color|Democratic Progressive Party (Argentina)}}
+| percentage17 = 0.41
+| last_election17 = New
+| seats17 = 1
+
+| party18 = [[Civic and Social Front of Catamarca]]
+| percentage18 = 0.40
+| last_election18 = New
+| seats18 = 2
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Senate
+| previous_election = [[2001 Argentine legislative election|2001]]
+| next_election = [[2005 Argentine legislative election|2005]]
+| seats_for_election = 24 of the 72 seats in the [[Argentine Senate|Senate]]
+| election_date = 27 April 2003 to 23 November 2003
+| turnout = 69.17%
+| noleader = yes
+
+| party1 = [[Justicialist Party]]
+| percentage1 = 40.51
+| last_election1 = 14
+| seats1 = 12
+
+| party14 = [[Radical Civic Union]]
+| percentage14 = 15.60
+| last_election14 = 9
+| seats14 = 5
+
+| party15 = [[Socialist Party (Argentina)|Socialist Party]]
+| percentage15 = 9.42
+| last_election15 = New
+| seats15 = 1
+
+| party16 = [[Civic Front of Córdoba|New Front]]
+| percentage16 = 7.62
+| last_election16 = New
+| seats16 = 1
+
+| party17 = [[Republican Force]]
+| percentage17 = 3.12
+| last_election17 = 1
+| seats17 = 2
+
+| party18 = [[Frente de Todos (1996 coalition)|Front of Everyone (Corrientes)]]
+| percentage18 = 2.74
+| last_election18 = New
+| seats18 = 2
+
+| party19 = [[New Party (Corrientes)|New Party]]
+| percentage19 = 2.25
+| last_election19 = New
+| seats19 = 1
+
+}}}}}}}}
+
+General elections were held in [[Argentina]] on 27 April 2003. No presidential candidate received enough votes to win outright, but the scheduled runoff was cancelled when former president and first-round winner [[Carlos Menem]] pulled out just four days before the planned runoff on 18 May, handing the presidency to runner-up, Santa Cruz Province Governor [[Néstor Kirchner]] of the [[Front for Victory]]. Legislative elections were held on twelve dates, 27 April, 24 August, 31 August, 7 September, 14 September, 28 September, 5 October, 19 October, 26 October, 9 November, 16 November and 23 November. As of [[2023 Argentine general election|2023]], this marked the last time that both the president-elect and vice president-elect ticket were both men.
+
+==Background==
+For the first time since the return of democracy in [[1983 Argentine general election|1983]], the [[Justicialist Party]] (PJ) failed to agree on a single presidential candidate. Three credible Peronist candidates ran in the election: center-right former President [[Carlos Menem]], center-left [[Santa Cruz Province (Argentina)|Santa Cruz Province]] Governor [[Néstor Kirchner]], and centrist former president [[Adolfo Rodríguez Saá]].<ref name="Fraga21">{{cite book|title= Fin de ciKlo: ascenso, apogeo y declinación del poder kirchnerista|author=Fraga, Rosendo|year=2010|publisher=Ediciones B|pages=21–23}}</ref> None were officially supported by the party, though President [[Eduardo Duhalde]] publicly endorsed Governor Kirchner on January 15, 2003. The PJ suspended its January 24 convention, opting to allow the three contenders to run on the [[Peronist]] mantle. None of the candidates were allowed to use the traditional Peronist iconography in detriment of the others.<ref name="Fraga21"/>
+
+For the first time since 1916, the UCR did not field a presidential candidate.<ref name="Fraga21"/> After the political collapse at the peak of the [[1998–2002 Argentine great depression|economic crisis]] that led to the resignation of President [[Fernando de la Rúa]] at the end of 2001, popular support for the UCR was at historically low levels. Two strong former members of the UCR founded parties based on their politics: Congresswoman [[Elisa Carrió]] founded a left-of-center party, the [[Alternative for a Republic of Equals|ARI]], and economist [[Ricardo López Murphy]] founded a right-wing one, [[Recreate for Growth]].
+
+These five strong candidates were practically tied in all the pre-election polls. Menem obtained the most votes in the first round, but far short of a first-round victory (about 24%), so a [[Ballotage in Argentina|runoff election]] against Kirchner was required, and was scheduled for May 18. However, after two terms in office from 1989 to 1999, Menem's popularity remained very low. All signs pointed to a record victory for Kirchner (polls showed him leading Menem by anywhere from a 35 to a 50% margin).<ref name="Menem pierde el invicto y la fama">{{cite web|url=http://www.pagina12.com.ar/diario/elpais/1-19517-2003-04-30.html|title=Menem pierde el invicto y la fama|work=Página/12}}</ref><ref name="Menembowsout">{{cite web |url= https://www.theguardian.com/world/2003/may/15/argentina.ukigoni|title= Menem bows out of race for top job|author= Uki Goñi|date= May 15, 2003|work= The Guardian|access-date=May 22, 2016}}</ref> Rather than face a humiliating defeat, Menem withdrew from the runoff on May 14, a move that was roundly criticized by the other candidates.<ref>[http://todo-argentina.net/historia/democracia/kirchner/index.html Todo Argentina: Kirchner] {{in lang|es}}</ref><ref name="Menembowsout"/> The courts refused to authorize a new election, and also refused to sanction a runoff between Kirchner and López Murphy (though the latter let it be known he would not take part in any case). Finally, Congress sanctioned Kirchner as president-elect, with the lowest vote share ever recorded for a president in a free election.
+
+===Legislative races===
+Legislative and gubernatorial elections were held throughout 2003, with polls open in different provinces between April and November; average turnout was 70.8%.<ref name=tow>{{Cite web |url=http://towsa.com/andy/totalpais/indice.html |title=Andy Tow's Electoral Atlas of Argentina |access-date=2010-06-01 |archive-url=https://web.archive.org/web/20110524234800/http://www.towsa.com/andy/totalpais/indice.html |archive-date=2011-05-24 |url-status=dead }}</ref>
+
+These elections were unprecedented in their staggered scheduling; indeed, legislators and governors were chosen over 12 different dates, during 2003. They were also, however, a return to political normalcy following a chaotic and economically depressed 2002.
+
+The [[Justicialist Party]], which was divided among three candidates in the presidential race, remained largely united in legislative and local races. They added 12 seats in the [[Argentine Chamber of Deputies]], as well as 2 governorships, and fears of a high number of dissident tickets did not materialize.
+
+The centrist [[Radical Civic Union]], senior partners in the ill-fated [[Alliance for Work, Justice and Education|Alliance]] that had returned them to power in 1999, were left with their smallest representation since 1954, though they were not replaced by the center-left [[Alternative for a Republic of Equals|ARI]] in a significant way; the ARI added but 2 Congressmen.
+
+Voters sentiment improved over 2001 levels (when the sentiment among many was that "they should all go"), though not significantly. Turnout increased only modestly, and the use of invalid votes declined from 24% to 15% from the tense 2001 elections. Voters in the important [[Santa Fe Province]], in particular, curbed their use of [[spoiled ballot]]s from 30% to 20%.<ref name=t03>[http://www.todo-argentina.net/historia/democracia/kirchner/index.html Todo Argentina: 2003] {{in lang|es}}</ref>
+
+Kirchner ended 2003 on a more secure footing than before these local and legislative elections. He benefited from allies such as the new governor of the paramount [[Buenos Aires Province]], [[Felipe Solá]], as well as the Mayor of [[Buenos Aires]], [[Aníbal Ibarra]]. Argentina celebrated 20 years of continuous democratic rule on December 10, 2003, with a new government carrying generous numbers of allies in Congress and the provinces, as well as voters' high expectations.<ref name=t03/>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Carlos Menem]]|vp1=[[Juan Carlos Romero (politician)|Juan Carlos Romero]]|candspan1=3|aspan1=3|alliance1={{ill|Front for Loyalty|es|Frente por la Lealtad}}|party1={{ill|Front for Loyalty|es|Frente por la Lealtad}}|votes1=3776867|acolor1=#1E90FF|color1=#1E90FF
+|party2=[[Union of the Democratic Centre (Argentina)|Union of the Democratic Centre]]|votes2=964333
+|atotal3=4741200
+|cand4=[[Néstor Kirchner]]|vp4=[[Daniel Scioli]]|alliance4=[[Front for Victory]]|votes4=4313131
+|cand5=[[Ricardo López Murphy]]|vp5=[[Ricardo Gómez Diez]]|alliance5=[[Recreate for Growth]]|votes5=3173584
+|cand6=[[Adolfo Rodríguez Saá]]|vp6={{ill|Melchor Posse|es}}|candspan6=3|aspan6=3|alliance6=FMP–PUL|party6=Popular Movement Front|votes6=2340355|acolor6=#66FFCC|color6=#66FFCC
+|party7=[[Unity and Liberty Party]]|votes7=395736
+|atotal8=2736091
+|cand9=[[Elisa Carrió]]|vp9={{ill|Gustavo Gutiérrez (politician)|es|Gustavo Gutiérrez (político argentino)|lt=Gustavo Gutiérrez}}|alliance9=[[Civic Coalition ARI|Support for an Egalitarian Republic]]|votes9=2723207
+|cand10=[[Leopoldo Moreau]]|vp10=[[Mario Losada (politician)|Mario Losada]]|alliance10=[[Radical Civic Union]]|votes10=453373
+|cand11=[[Patricia Walsh]]|vp11=Marcelo Parrilli|alliance11=[[United Left (Argentina)|United Left]]|votes11=332703
+|cand12=[[Alfredo Bravo]]|vp12=[[Rubén Giustiniani]]|alliance12=[[Socialist Party (Argentina)|Socialist Party]]|votes12=217387
+|cand13=[[Jorge Altamira]]|vp13=Eduardo Salas|alliance13=[[Workers' Party (Argentina)|Workers' Party]]|votes13=139402
+|cand14=Enrique Carlos Venturino|vp14=Federico Pinto Kramer|alliance14=[[Movement for Dignity and Independence|All of Them Must Go Confederation]]|votes14=129782
+|cand15=Guillermo Sullings|vp15=Liliana Ambrosio|alliance15=[[Humanist Party (Argentina)|Humanist Party]]|votes15=105705
+|cand16=José Carlos Arcagni|vp16=Marcelo Daniel Zenof|candspan16=3|aspan16=3|alliance16=Arcahgni–Zenof|party16=Times of Changes Alliance|votes16=54873|acolor16=#000080|color16=#000080
+|party17=[[Federal Popular Union|Popular Union]]|votes17=8511
+|atotal18=63384
+|cand19={{ill|Mario Mazzitelli|es}}|vp19=Adrián Rodolfo Camps|alliance19=[[Authentic Socialist Party (Argentina)|Authentic Socialist Party]]|votes19=50303
+|cand20={{ill|Carlos Zaffore|es}}|vp20=Elsa Fabiana Perié|alliance20=[[Integration and Development Movement]]|votes20=47954
+|cand21=Manuel Eduardo Herrera|vp21=Eduardo Alfredo Cúneo|alliance21=[[Christian Democratic Party (Argentina)|Christian Democratic Party]]|votes21=47755
+|cand22={{ill|Gustavo Breide Obeid|es}}|vp22=Ramiro Vasena|alliance22=[[People's Reconstruction Party]]|votes22=42461
+|cand23=Juan Ricardo Mussa|vp23=Roberto Natalio Suárez|alliance23=United or Dominated Alliance|votes23=39507|acolor23=#FFD700
+|cand24=Ricardo César Terán|vp24=José Alejandro Bonacci|alliance24=[[Movement for Dignity and Independence]]|votes24=31766
+|blank=196563
+|invalid=345651
+|electorate=25481410
+}}
+
+=== Chamber of Deputies ===
+{{Election results|seattype1=Won|seattype2=Total
+|party1=[[Justicialist Party]]|votes1=6250817|st1t1=65|st2t1=132
+|party2=[[Radical Civic Union]]|votes2=2120625|st1t2=19|st2t2=54
+|party3=[[Civic Coalition ARI|Support for an Egalitarian Republic]]|votes3=1532737|st1t3=11|st2t3=17
+|party4=[[Recreate for Growth]]|votes4=632303|st1t4=2|st2t4=3
+|party5=[[Commitment to Change]]{{efn|3 seats for [[Justicialist Party]] and 2 seats for [[Commitment to Change]].}}|votes5=611013|st1t5=5|st2t5=5
+|party6=[[Movement for Dignity and Independence|Buenos Aires Popular Front]]|votes6=606886|st1t6=5|st2t6=5
+|party7=[[Socialist Party (Argentina)|Socialist Party]]|votes7=459899|st1t7=3|st2t7=4
+|party8=[[Federalist Unity Party|Federalist Action for Buenos Aires]]|votes8=433369|st1t8=3|st2t8=5
+|party9=[[Civic Front of Córdoba|New Front]]|votes9=410340|st1t9=3|st2t9=3
+|party10=[[United Left (Argentina)|United Left]]|votes10=387570|st1t10=0|st2t10=1
+|party11=[[Self-determination and Freedom]]|votes11=208238|st1t11=2|st2t11=4
+|party12=[[Humanist Party (Argentina)|Humanist Party]]|votes12=166849|st1t12=0|st2t12=0
+|party13=[[Workers' Party (Argentina)|Workers' Party]]|votes13=151363|st1t13=0|st2t13=0
+|party14=[[Republican Force]]|votes14=125954|st1t14=2|st2t14=3
+|party15=[[Frente de Todos (1996 coalition)|Frente de Todos]]{{efn|2 seats for [[Justicialist Party]].}}|votes15=121992|st1t15=2|st2t15=2
+|party16=Autonomist Party|votes16=110757|st1t16=0|st2t16=0
+|party17=[[New Party (Corrientes)|New Party]]|votes17=102764|st1t17=1|st2t17=1
+|party18=[[Salta Renewal Party]]|votes18=95845|st1t18=1|st2t18=2
+|party19=[[Neuquén People's Movement]]|votes19=90740|st1t19=2|st2t19=4
+|party20=Will for Integration and Authentic Development|votes20=74911|st1t20=0|st2t20=0
+|party21=[[Democratic Party (Mendoza)|Democratic Party]]|votes21=72935|st1t21=0|st2t21=1
+|party22=United for Salta ([[Justicialist Party|PJ]]–[[Radical Civic Union|UCR]]){{efn|1 seat for [[Justicialist Party]].}}|votes22=68216|st1t22=1|st2t22=1
+|party23=Corrientes Project ([[Democratic Progressive Party (Argentina)|PDP]]–[[Conservative People's Party (Argentina)|PCP]])|votes23=65188|st1t23=1|st2t23=1
+|party24=[[Civic and Social Front of Catamarca]]{{efn|1 seat for [[Justicialist Party]] and 1 seat for [[Radical Civic Union]].}}|votes24=63415|st1t24=2|st2t24=2
+|party25=[[Authentic Socialist Party (Argentina)|Authentic Socialist Party]]|votes25=64276|st1t25=0|st2t25=1
+|party26=[[Christian Democratic Party (Argentina)|Christian Democratic Party]]|votes26=51449|st1t26=0|st2t26=0
+|party27=Social Pole|votes27=53592|st1t27=0|st2t27=4
+|party28=[[Integration and Development Movement]]|votes28=48185|st1t28=0|st2t28=0
+|party29=[[Socialist Workers' Party (Argentina)|Socialist Workers' Party]]|votes29=42339|st1t29=0|st2t29=0
+|party30=Buenos Aires Changes Front|votes30=42268|st1t30=0|st2t30=0
+|party31=[[People's Reconstruction Party]]|votes31=37793|st1t31=0|st2t31=0
+|party32=Labor Party of Tucumán|votes32=37327|st1t32=0|st2t32=0
+|party33=[[Liberal Party of Corrientes]]|votes33=35570|st1t33=0|st2t33=0
+|party34=[[Movimiento al Socialismo (Argentina)|Movimiento al Socialismo]]|votes34=33000|st1t34=0|st2t34=0
+|party35=Provincial Neighborhood Movement|votes35=30448|st1t35=0|st2t35=0
+|party36=Río Negro Action Movement|votes36=24011|st1t36=0|st2t36=0
+|party37=Federal Integration Movement|votes37=22102|st1t37=0|st2t37=0
+|party38=[[Renewal Crusade]]|votes38=21485|st1t38=0|st2t38=0
+|party39=Democratic Renewal|votes39=20209|st1t39=0|st2t39=0
+|party40=People's Party|votes40=16279|st1t40=0|st2t40=0
+|party41=Our Commitment|votes41=16078|st1t41=0|st2t41=0
+|party42=[[Broad Front (Argentina)|Broad Front]]|votes42=14353|st1t42=0|st2t42=0
+|party43=Authentic Party|votes43=14069|st1t43=0|st2t43=0
+|party44=White Party|votes44=13446|st1t44=0|st2t44=0
+|party45={{ill|Chubut Action Party|es|Partido Acción Chubutense}}|votes45=13073|st1t45=0|st2t45=0
+|party46=People First|votes46=10441|st1t46=0|st2t46=0
+|party47=New Party of Solidary Action|votes47=9927|st1t47=0|st2t47=0
+|party48=Broad Front of Work and Production|votes48=8299|st1t48=0|st2t48=0
+|party49=Citizen Dignity|votes49=6310|st1t49=0|st2t49=0
+|party50=Movement for the Unit of Neuquén|votes50=5936|st1t50=0|st2t50=0
+|party51=Freedom and Responsible Democracy|votes51=5782|st1t51=0|st2t51=0
+|party52=Retirees in Action Party|votes52=4673|st1t52=0|st2t52=0
+|party53=Front for Change|votes53=4617|st1t53=0|st2t53=0
+|party54=Retirees and Youth Movement|votes54=4429|st1t54=0|st2t54=0
+|party55=San Luis Force|votes55=4101|st1t55=0|st2t55=0
+|party56=Citizen Action Party|votes56=3917|st1t56=0|st2t56=0
+|party57=[[Fuegian People's Movement]]|votes57=3731|st1t57=0|st2t57=0
+|party58=Movement for the Recovery of the Republic|votes58=3182|st1t58=0|st2t58=0
+|party59=Popular Participation Party|votes59=3136|st1t59=0|st2t59=0
+|party60=Movement for Everyone|votes60=2977|st1t60=0|st2t60=0
+|party61=Fuegian Federal Party|votes61=2828|st1t61=0|st2t61=0
+|party62=New People|votes62=2783|st1t62=0|st2t62=0
+|party63=[[Federal Party (Argentina, 1973)|Federal Party]]|votes63=2674|st1t63=0|st2t63=0
+|party64=[[Action for the Republic (Argentina)|Action for the Republic]]|votes64=2380|st1t64=0|st2t64=1
+|party65=[[Conservative People's Party (Argentina)|Conservative People's Party]]|votes65=2069|st1t65=0|st2t65=0
+|party66=Revolutionary Socialist League|votes66=2015|st1t66=0|st2t66=0
+|party67=Río Gallegos Neighborhood Movement|votes67=1961|st1t67=0|st2t67=0
+|party68=White Party of Buenos Aires City|votes68=1868|st1t68=0|st2t68=0
+|party70={{abbr|PFTDJUCBA|Front of the Workers, the Unemployed and the Retirees for the Union of Buenos Aires City}}|votes70=1702|st1t70=0|st2t70=0
+|party71=Republican Reconstruction Party|votes71=1628|st1t71=0|st2t71=0
+|party72=New Social Hope|votes72=1579|st1t72=0|st2t72=0
+|party73=Independents for Change|votes73=1509|st1t73=0|st2t73=0
+|party74=Republican Integration Circle|votes74=1421|st1t74=0|st2t74=0
+|party75={{ill|Provincial Defence–White Flag|es|Defensa Provincial-Bandera Blanca}}|votes75=1388|st1t75=0|st2t75=0
+|party76=Party of the Current|votes76=1280|st1t76=0|st2t76=0
+|party77=Socialist Convergence|votes77=1003|st1t77=0|st2t77=0
+|party78=Front of the People|votes78=590|st1t78=0|st2t78=0
+|party79=Populist Unification|votes79=439|st1t79=0|st2t79=0
+|party80=Patriotic Liberation Movement|votes80=419|st1t80=0|st2t80=0
+|party81=[[Front of Social Integration for a Change in Freedom]]|st2t81=1
+|blank=2419921
+|invalid=237200
+|electorate=25578509
+}}
+
+=== Senate ===
+{{Election results|seattype1=Won|seattype2=Total
+|party1=[[Justicialist Party]]|votes1=1849466|st1t1=12|st2t1=40
+|party2=[[Radical Civic Union]]|votes2=712289|st1t2=5|st2t2=22
+|party3=[[Socialist Party (Argentina)|Socialist Party]]|votes3=430216|st1t3=1|st2t3=1
+|party4=[[Civic Front of Córdoba|New Front]]|votes4=348079|st1t4=1|st2t4=1
+|party5=[[Civic Coalition ARI|Support for an Egalitarian Republic]]|votes5=218202|st1t5=0|st2t5=0
+|party6=[[Recreate for Growth]]|votes6=180082|st1t6=0|st2t6=0
+|party7=[[Republican Force]]|votes7=142422|st1t7=2|st2t7=2
+|party8=[[Frente de Todos (1996 coalition)|Frente de Todos]]{{efn|1 seat for [[Justicialist Party]] and 1 seat for [[Radical Civic Union]].}}|votes8=125147|st1t8=2|st2t8=2
+|party9=[[New Party (Corrientes)|New Party]]|votes9=102776|st1t9=1|st2t9=1
+|party10=[[Democratic Party (Mendoza)|Democratic Party]]|votes10=73073|st1t10=0|st2t10=0
+|party11=Corrientes Project ([[Democratic Progressive Party (Argentina)|PDP]]–[[Conservative People's Party (Argentina)|PCP]])|votes11=69207|st1t11=0|st2t11=0
+|party12=[[United Left (Argentina)|United Left]]|votes12=62816|st1t12=0|st2t12=0
+|party13=[[Humanist Party (Argentina)|Humanist Party]]|votes13=34575|st1t13=0|st2t13=0
+|party14=[[Liberal Party of Corrientes]]|votes14=33972|st1t14=0|st2t14=0
+|party15=Labor Party of Tucumán|votes15=29451|st1t15=0|st2t15=0
+|party16=Democratic Renewal|votes16=21233|st1t16=0|st2t16=0
+|party17=[[Workers' Party (Argentina)|Workers' Party]]|votes17=20903|st1t17=0|st2t17=0
+|party18=White Party|votes18=13545|st1t18=0|st2t18=0
+|party19=Social Pole|votes19=12554|st1t19=0|st2t19=0
+|party20={{ill|Chubut Action Party|es|Partido Acción Chubutense}}|votes20=12519|st1t20=0|st2t20=0
+|party21=[[Socialist Workers' Party (Argentina)|Socialist Workers' Party]]|votes21=11771|st1t21=0|st2t21=0
+|party22=People First|votes22=10447|st1t22=0|st2t22=0
+|party23=New Party of Solidary Action|votes23=9975|st1t23=0|st2t23=0
+|party24=Broad Front of Work and Production|votes24=8437|st1t24=0|st2t24=0
+|party25=[[Christian Democratic Party (Argentina)|Christian Democratic Party]]|votes25=6330|st1t25=0|st2t25=0
+|party26=[[People's Reconstruction Party]]|votes26=5379|st1t26=0|st2t26=0
+|party27=[[Movement for Dignity and Independence]]|votes27=3719|st1t27=0|st2t27=0
+|party28=[[Authentic Socialist Party (Argentina)|Authentic Socialist Party]]|votes28=3218|st1t28=0|st2t28=0
+|party29=Popular Participation Party|votes29=3053|st1t29=0|st2t29=0
+|party30=New People|votes30=2747|st1t30=0|st2t30=0
+|party31=Autonomist Party|votes31=2568|st1t31=0|st2t31=0
+|party32={{ill|Provincial Defence–White Flag|es|Defensa Provincial-Bandera Blanca}}|votes32=1513|st1t32=0|st2t32=0
+|party33=Patriotic Movement|votes33=1317|st1t33=0|st2t33=0
+|party34=Republican Integration Circle|votes34=1302|st1t34=0|st2t34=0
+|party35=Populist Unification|votes35=419|st1t35=0|st2t35=0
+|party36=Patriotic Liberation Movement|votes36=413|st1t36=0|st2t36=0
+|party37=[[Salta Renewal Party]]|st2t37=1
+|party38=[[Neuquén People's Movement]]|st2t38=2
+|blank=726039
+|invalid=89272
+|electorate=7779040
+}}
+
+===Governors and Mayor of Buenos Aires===
+
+Provincial officials in all districts except Corrientes Province, were elected, as well as the Chief of Government of the City of Buenos Aires. The Justicialist Party wrested two governorships from the UCR (Chubut and Entre Ríos Provinces), and the UCR recovered Tierra del Fuego from the Justicialists.<ref>{{cite web|url=http://towsa.com/andy/totalpais/2003g.html|title=Gobernador electo (2003)|publisher=Atlas Electoral de Andy Tow|access-date=2012-06-22|archive-url=https://web.archive.org/web/20120307202159/http://towsa.com/andy/totalpais/2003g.html|archive-date=2012-03-07|url-status=dead}}</ref>
+
+{| class="wikitable"
+!District
+!Elected Governor
+!Party
+!%
+!Runner-up
+!Party
+!%
+|-
+|[[Buenos Aires Province|Buenos Aires]] || [[Felipe Solá]] || [[Justicialist Party|Justicialist]] || 43.3 || [[Luis Patti]] || [[Federalist Unity Party]] || 13.3
+|-
+|[[Catamarca Province|Catamarca]] || [[Eduardo Brizuela del Moral]] || [[Civic and Social Front of Catamarca|Civic Social Front]] ([[Radical Civic Union|UCR]]) || 50.8 || Luis Barrionuevo || Justicialist Front || 43.5
+|-
+|[[Chaco Province|Chaco]] ||[[Roy Nikisch]] || UCR || 53.4 || [[Jorge Capitanich]] || [[Front for Victory]] || 40.9
+|-
+|[[Chubut Province|Chubut]] ||[[Mario das Neves]] || Justicialist || 45.6 || José Lizurume <sup>L</sup> || UCR || 41.2 
+|-
+|[[2003 Buenos Aires City elections|City of Buenos Aires]]<sup>1</sup> ||[[Aníbal Ibarra]] <sup>R</sup> || [[Great Front]] || 53.5 || [[Mauricio Macri]] || [[Commitment to Change]] || 46.5 
+|-
+|[[Córdoba Province, Argentina|Córdoba]] ||[[José Manuel de la Sota]] <sup>R</sup> || Justicialist || 51.8 || [[Oscar Raúl Aguad|Oscar Aguad]] || UCR || 37.2
+|-
+|[[Entre Ríos Province|Entre Ríos]] ||[[Jorge Busti]] ||Justicialist || 44.6 || Sergio Varisco || [[Radical Civic Union|Social Front Alliance]] || 34.4 
+|-
+|[[Formosa Province|Formosa]] ||[[Gildo Insfrán]] <sup>R</sup> ||Justicialist || 71.8 || Gabriel Hernández || [[Radical Civic Union|Front for All]] || 24.4
+|-
+|[[Jujuy Province|Jujuy]] ||[[Eduardo Fellner]] <sup>R</sup> ||Justicialist || 55.8 || [[Gerardo Morales (Argentine politician)|Gerardo Morales]] || UCR || 35.2
+|-
+|[[La Pampa Province|La Pampa]] ||[[Carlos Verna]] ||Justicialist || 49.1 || Francisco Torroba || [[Radical Civic Union|Alternative Front]] || 25.5
+|-
+|[[La Rioja Province (Argentina)|La Rioja]] ||[[Ángel Maza]] <sup>R</sup> ||Justicialist || 55.4 || Jorge Yoma || [[Radical Civic Union|Work and Production Front]] || 43.4
+|-
+|[[Mendoza Province|Mendoza]] ||[[Julio Cobos]] ||UCR || 42.9 || Guillermo Amstutz || Justicialist || 35.7
+|-
+|[[Misiones Province|Misiones]] ||[[Carlos Rovira (politician)|Carlos Rovira]] <sup>R</sup> || Renewal Front || 47.9 || [[Ramón Puerta]] || Justicialist|| 32.4
+|-
+|[[Neuquén Province|Neuquén]] ||[[Jorge Sobisch]] <sup>R</sup> ||[[Neuquén People's Movement]] || 56.1 || Aldo Duzdevich || Justicialist || 19.9
+|-
+|[[Río Negro Province|Río Negro]] ||[[Miguel Saiz]] ||UCR || 32.6 || Julio Arriaga || Great Front || 20.4
+|-
+|[[Salta Province|Salta]] ||[[Juan Carlos Romero (politician)|Juan Carlos Romero]] <sup>R</sup> ||Justicialist || 49.7 || [[Andrés Zottos]] || [[Salta Renewal Party]] || 24.4
+|-
+|[[San Juan Province, Argentina|San Juan]] ||[[José Luis Gioja]] ||Justicialist || 41.4 || [[Roberto Basualdo]] || Life and Commitment Front || 30.8 
+|-
+|[[San Luis Province|San Luis]] ||[[Alberto Rodríguez Saá]] ||Justicialist || 90.1 || Marcelo Shortrede || Fatherland and Family Movement || 5.5
+|-
+|[[Santa Cruz Province, Argentina|Santa Cruz]] ||[[Sergio Acevedo]] ||Justicialist || 70.9 || Anselmo Martínez || [[Radical Civic Union|Convergence for Santa Cruz]] || 27.9
+|-
+|[[Santa Fe Province|Santa Fe]] ||[[Jorge Obeid]] ||Justicialist || 43.2 || [[Hermes Binner]] || [[Socialist Party of Argentina|Socialist Party]] || 38.3
+|-
+|[[Santiago del Estero Province|Santiago del Estero]]<sup>2</sup> ||[[Mercedes Aragonés de Juárez]] <sup>R</sup>|| Justicialist || 68.1 || [[José Luis Zavalía]] || UCR || 13.0 
+|-
+|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]] ||[[Jorge Colazo]] || UCR || 52.8 || Carlos Manfredotti <sup>L</sup>|| Justicialist || 47.2
+|-
+|[[Tucumán Province|Tucumán]] ||[[José Alperovich]] ||Justicialist || 44.4 || Esteban Jerez || Union for Tucumán || 25.8
+|-
+|colspan=7 | 
+----
+:<small>'''1''': The City of Buenos Aires is not a province but an autonomous federal territory. The head of the local [[Executive (government)|Executive]] is referred to as "[[Mayor of Buenos Aires|Government Chief]]."</small>
+:<small>'''2''': Election held 15 September 2002.</small>
+:<small>'''R''': Reelected.</small>
+:<small>'''L''': Incumbent lost.</small>
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+=== Results ===
+
+* {{Cite web|url=https://recorriendo.elecciones.gob.ar/presidente2003.html#/3/1|title=Recorriendo las Elecciones de 1983 a 2013 - Presidenciales|website=Dirección Nacional Electoral|access-date=2017-09-27|archive-date=2021-03-08|archive-url=https://web.archive.org/web/20210308133745/https://recorriendo.elecciones.gob.ar/presidente2003.html#/3/1|url-status=dead}}
+* {{Cite web |url=https://recorriendo.elecciones.gob.ar/diputados2003.html#/ |title=Recorriendo las Elecciones de 1983 a 2013 - Diputados Nacionales |website=Dirección Nacional Electoral |access-date=2021-01-22 |archive-date=2022-06-26 |archive-url=https://web.archive.org/web/20220626141901/https://recorriendo.elecciones.gob.ar/diputados2003.html#/ |url-status=dead }}
+* {{Cite web |url=https://recorriendo.elecciones.gob.ar/senadores2003.html#/ |title=Recorriendo las Elecciones de 1983 a 2013 - Senadores Nacionales |website=Dirección Nacional Electoral |access-date=2021-01-22 |archive-date=2022-06-26 |archive-url=https://web.archive.org/web/20220626143417/https://recorriendo.elecciones.gob.ar/senadores2003.html#/ |url-status=dead }}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/BSAS_27_de_Abril/total_distrito.pdf |title=Escrutinio Definitivo Buenos Aires |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902190913/http://www.elecciones.gob.ar/estadistica/archivos/2003/BSAS_27_de_Abril/total_distrito.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Capital/CapPRESI2003.pdf |title=Escrutinio Definitivo Capital Federal |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902190725/http://www.elecciones.gob.ar/estadistica/archivos/2003/Capital/CapPRESI2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Catamarca/Catamarca_cargos%20Nac_2003.pdf |title=Escrutinio Definitivo Catamarca |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902185320/http://www.elecciones.gob.ar/estadistica/archivos/2003/Catamarca/Catamarca_cargos%20Nac_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Chaco/Chaco_27_Abril2003.pdf |title=Escrutinio Definitivo Chaco |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902184346/http://www.elecciones.gob.ar/estadistica/archivos/2003/Chaco/Chaco_27_Abril2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Chubut/Chubut_27deAbril2003.pdf |title=Escrutinio Definitivo Chubut |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902184827/http://www.elecciones.gob.ar/estadistica/archivos/2003/Chubut/Chubut_27deAbril2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Cordoba/CbaPTE2003.pdf |title=Escrutinio Definitivo Córdoba |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902185051/http://www.elecciones.gob.ar/estadistica/archivos/2003/Cordoba/CbaPTE2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Corrientes/Corrientes_27_de_Abril_2003.pdf |title=Escrutinio Definitivo Corrientes |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902184115/http://www.elecciones.gob.ar/estadistica/archivos/2003/Corrientes/Corrientes_27_de_Abril_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Entre_Rios/ERios_27deAbril_2003.pdf |title=Escrutinio Definitivo Entre Ríos |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902185651/http://www.elecciones.gob.ar/estadistica/archivos/2003/Entre_Rios/ERios_27deAbril_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Formosa/Formosa_27deAbril2003.pdf |title=Escrutinio Definitivo Formosa |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902191300/http://www.elecciones.gob.ar/estadistica/archivos/2003/Formosa/Formosa_27deAbril2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/JUJUY/Jujuy_27_de_Abril2003.pdf |title=Escrutinio Definitivo Jujuy |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902183054/http://www.elecciones.gob.ar/estadistica/archivos/2003/JUJUY/Jujuy_27_de_Abril2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/La_Pampa/LPampaPRESI_2003.pdf |title=Escrutinio Definitivo La Pampa |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902191557/http://www.elecciones.gob.ar/estadistica/archivos/2003/La_Pampa/LPampaPRESI_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/La_Rioja/La_Rioja_NacyProv2003.pdf |title=Escrutinio Definitivo La Rioja |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902183507/http://www.elecciones.gob.ar/estadistica/archivos/2003/La_Rioja/La_Rioja_NacyProv2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Mendoza/Mendoza27deAbril_2003.pdf |title=Escrutinio Definitivo Mendoza |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902182352/http://www.elecciones.gob.ar/estadistica/archivos/2003/Mendoza/Mendoza27deAbril_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Misiones/MisionesPresid_27_de_Abril_2003.pdf |title=Escrutinio Definitivo Misiones |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902183944/http://www.elecciones.gob.ar/estadistica/archivos/2003/Misiones/MisionesPresid_27_de_Abril_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Neuquen/Neuquen_Presi_2003.pdf |title=Escrutinio Definitivo Neuquén |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902182409/http://www.elecciones.gob.ar/estadistica/archivos/2003/Neuquen/Neuquen_Presi_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Rio_Negro/RioNegro_27de_Abril_2003.pdf |title=Escrutinio Definitivo Río Negro |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902191233/http://www.elecciones.gob.ar/estadistica/archivos/2003/Rio_Negro/RioNegro_27de_Abril_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Salta/Salta_Presi_27_Abril_2003.pdf |title=Escrutinio Definitivo Salta |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902190120/http://www.elecciones.gob.ar/estadistica/archivos/2003/Salta/Salta_Presi_27_Abril_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/San_Juan/San%20Juan27_de_Abril_2003.pdf |title=Escrutinio Definitivo San Juan |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902191132/http://www.elecciones.gob.ar/estadistica/archivos/2003/San_Juan/San%20Juan27_de_Abril_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/San_Luis/SLuis_Pte-Dip-Gob2003.pdf |title=Escrutinio Definitivo San Luis |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902190435/http://www.elecciones.gob.ar/estadistica/archivos/2003/San_Luis/SLuis_Pte-Dip-Gob2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Santa_cruz/SCruz_27deAbril_2003.pdf |title=Escrutinio Definitivo Santa Cruz |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902191451/http://www.elecciones.gob.ar/estadistica/archivos/2003/Santa_cruz/SCruz_27deAbril_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Santa_Fe/Santafe2003_PRESI.pdf |title=Escrutinio Definitivo Santa Fe |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902191616/http://www.elecciones.gob.ar/estadistica/archivos/2003/Santa_Fe/Santafe2003_PRESI.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Stgo_del_Estero/SgoEstero2003PRESI.pdf |title=Escrutinio Definitivo Santiago del Estero |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902185801/http://www.elecciones.gob.ar/estadistica/archivos/2003/Stgo_del_Estero/SgoEstero2003PRESI.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/T_del_Fuego/Tdel_Fuego27Abril_2003.pdf |title=Escrutinio Definitivo Tierra del Fuego |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902184501/http://www.elecciones.gob.ar/estadistica/archivos/2003/T_del_Fuego/Tdel_Fuego27Abril_2003.pdf |archive-date=2 September 2011}}
+* {{Cite web |url=http://www.elecciones.gob.ar/estadistica/archivos/2003/Tucuman/Tucuman_27_Abril_2003.pdf |title=Escrutinio Definitivo Tucumán |website=Ministry of the Interior |archive-url=https://web.archive.org/web/20110902191351/http://www.elecciones.gob.ar/estadistica/archivos/2003/Tucuman/Tucuman_27_Abril_2003.pdf |archive-date=2 September 2011}}
+
+{{Argentine elections}}
+{{Carlos Menem}}
+
+[[Category:Legislative elections in Argentina]]
+[[Category:2003 elections in South America|Argentina]]
+[[Category:2003 elections in Argentina|General]]
+[[Category:Presidency of Néstor Kirchner]]
+[[Category:Presidential elections in Argentina]]
+[[Category:April 2003 in South America|Argentina]]

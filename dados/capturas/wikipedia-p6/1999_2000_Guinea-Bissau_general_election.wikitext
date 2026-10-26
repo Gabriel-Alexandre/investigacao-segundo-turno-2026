@@ -1,0 +1,164 @@
+{{Short description|none}}
+{{Infobox election
+| country = Guinea-Bissau
+| module = {{Infobox election
+| previous_election = 1994 Guinea-Bissau general election
+| previous_year = 1994
+| next_election = 2005 Guinea-Bissau presidential election
+| next_year = 2005
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 28 November 1999 (first round)<br>16 January 2000 (second round)
+| registered = 503,007
+| turnout = 83.38% (first round)<br/>71.89% (second round)
+
+| image1 = Koumbayala.jpg
+| nominee1 = '''[[Kumba Ialá]]'''
+| party1 = Party for Social Renewal
+| popular_vote1 = '''251,193'''
+| percentage1 = '''72.00%'''
+| image2 = Malam Bacai Sanhá 2010-08-25.jpg
+| nominee2 = [[Malam Bacai Sanhá]]
+| party2 = African Party for the Independence of Guinea and Cape Verde
+| popular_vote2 = 97,670
+| percentage2 = 28.00%
+| map_image = 1999 Guinea-Bissau presidential election -.Results by region (Second round).svg
+| map_size = 
+| map_caption = Results by region of the second round.
+| title = [[List of presidents of Guinea-Bissau|President]]
+| before_election = [[Malam Bacai Sanhá]] (acting)
+| before_party = African Party for the Independence of Guinea and Cape Verde
+| after_election = [[Kumba Ialá]]
+| after_party = Party for Social Renewal
+| module = {{Infobox legislative election
+| election_name = Parliamentary election
+| previous_election = [[1994 Guinea-Bissau general election|1994]]
+| next_election = [[2004 Guinea-Bissau parliamentary election|2004]]
+| embed = yes
+| election_date = 28 November 1999
+| seats_for_election = All 102 seats in the [[National People's Assembly (Guinea-Bissau)|National People's Assembly]]
+| majority_seats = 52
+| turnout = 82.35% ({{decrease}} 6.56[[percent point|pp]])
+
+| party3 = African Party for the Independence of Guinea and Cape Verde
+| leader3 = [[Malam Bacai Sanhá]]
+| percentage3 = 18.04
+| last_election3 = 62
+| seats3 = 24
+
+| party1 = Party for Social Renewal
+| leader1 = [[Kumba Ialá]]
+| percentage1 = 29.71
+| last_election1 = 12
+| seats1 = 38
+
+| party2 = Resistance of Guinea-Bissau-Bafatá Movement
+| leader2 = Salvador Tchongó
+| percentage2 = 19.79
+| last_election2 = 20
+| seats2 = 29
+
+| party4 = Union for Change
+| leader4 = Bubacar Rachid Djaló
+| percentage4 = 7.86
+| last_election4 = 6
+| seats4 = 3
+
+| party5 = Social Democratic Party (Guinea-Bissau)
+| leader5 = Joaquim Baldé
+| percentage5 = 5.60
+| last_election5 = new
+| seats5 = 3
+
+| party6 = Democratic Alliance (Guinea-Bissau)
+| leader6 = Jorge Mandinga
+| percentage6 = 4.96
+| last_election6 = new
+| seats6 = 3
+
+| party7 = National Union for Democracy and Progress (Guinea-Bissau)
+| leader7 = Abubácar Baldé
+| percentage7 = 4.06
+| last_election7 = new
+| seats7 = 1
+
+| party8 = Democratic Social Front
+| leader8 = [[Rafael Paula Barbosa]]
+| percentage8 = 2.56
+| last_election8 = new
+| seats8 = 1
+
+| map = 1999 Guinea-Bissau legislative election - Results by constituency.svg
+| map_caption = Seats by constituency.
+
+| title = [[List of prime ministers of Guinea-Bissau|Prime Minister]]
+| before_election = [[Francisco Fadul]]
+| before_party = Independent
+| after_election = [[Francisco Fadul]]
+| after_party = Independent
+}}
+}}}}{{Politics of Guinea-Bissau}}
+
+General elections were held in [[Guinea-Bissau]] on 28 November 1999, with a second round for the presidential election on 16 January 2000. The presidential election resulted in a victory for opposition leader [[Kumba Ialá]] of the [[Party for Social Renewal]] (PRS), who defeated [[Malam Bacai Sanhá]] of the ruling [[African Party for the Independence of Guinea and Cape Verde]]. The PRS were also victorious in the [[National People's Assembly of Guinea-Bissau|National People's Assembly]] election, winning 38 of the 102 seats.<ref>[http://www.ipu.org/parline-e/reports/arc/2133_99.htm Guinea-Bissau: Parliamentary Chamber: Assembleia nacional popular: Elections held in 1999] Inter-Parliamentary Union</ref> 
+
+These were the first elections held in Guinea Bissau since the [[Guinea-Bissau Civil War|1998-99 Civil War]] that deposed the government of [[João Bernardo Vieira]].<ref>{{Cite journal |date=2000 |title=Election Watch |url=https://muse.jhu.edu/pub/1/article/168956 |journal=Journal of Democracy |volume=11 |issue=1 |pages=206–211 |issn=1086-3214}}</ref> This was the first time an opposition party won an election since the country's independence in the 1970s.
+
+Voter turnout was 72% for the second round of the presidential election.<ref>[http://africanelections.tripod.com/gw.html Elections in Guinea-Bissau] {{Webarchive|url=https://web.archive.org/web/20110709032045/http://africanelections.tripod.com/gw.html |date=2011-07-09 }} African Elections Database</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Kumba Ialá]]|party1=[[Party for Social Renewal]]|votes1=143996|votes1_2=251193
+|cand2=[[Malam Bacai Sanhá]]|party2=[[African Party for the Independence of Guinea and Cape Verde]]|votes2=86724|votes2_2=97670
+|cand3=[[Faustino Imbali]]|party3=Independent|votes3=30484
+|cand4=[[Fernando Gomes (Bissau-Guinean politician)|Fernando Gomes]]|party4=Independent|votes4=26049
+|cand5=João Tátis Sá|party5=Independent|votes5=24117
+|cand6=Abubacar Baldé|party6=[[National Union for Democracy and Progress (Guinea-Bissau)|National Union for Democracy and Progress]]|votes6=20192
+|cand7=Bubacar Rachid Djaló|party7=[[Union for Change]]|votes7=12026
+|cand8=Joaquim Baldé|party8=[[Social Democratic Party (Guinea-Bissau)|Social Democratic Party]]|votes8=8623
+|cand9=Salvador Tchongó|party9=[[Resistance of Guinea-Bissau-Bafatá Movement]]|votes9=6937
+|cand10=José Catengul Mendes|party10=[[Struggle Front for the National Independence of Guinea]]|votes10=5311
+|cand11=Mamadú Uri Baldé|party11=Progress and Renewal Party|votes11=3580
+|cand12=Antonieta Rosa Gomes|party12=[[Guinean Civic Forum–Social Democracy]]|votes12=2986
+|invalid=48387|invalid2=12746
+|electorate=503007|electorate2=503007
+|source=[http://africanelections.tripod.com/gw.html African Elections Database], [http://nai.diva-portal.org/smash/get/diva2:464291/FULLTEXT02.pdf Rudebeck]
+}}
+
+===National People's Assembly===
+{{Election results
+|party1=[[Party for Social Renewal]]|votes1=105736|seats1=38|sc1=+26
+|party2=[[Resistance of Guinea-Bissau-Bafatá Movement]]|votes2=70435|seats2=29|sc2=+9
+|party3=[[African Party for the Independence of Guinea and Cape Verde]]|votes3=64215|seats3=24|sc3=–38
+|party4=[[Union for Change]]|votes4=27976|seats4=3|sc4=–3
+|party5=[[Social Democratic Party (Guinea-Bissau)|Social Democratic Party]]|votes5=19919|seats5=3|sc5=New
+|party6=[[Democratic Alliance (Guinea-Bissau)|Democratic Alliance]]|votes6=17651|seats6=3|sc6=New
+|party7=[[National Union for Democracy and Progress (Guinea-Bissau)|National Union for Democracy and Progress]]|votes7=14440|seats7=1|sc7=New
+|party8=[[Guinean League for Ecological Protection]]|votes8=11496|seats8=0|sc8=–
+|party9=[[Democratic Social Front]]|votes9=9094|seats9=1|sc9=New
+|party10=[[United Social Democratic Party (Guinea-Bissau)|United Social Democratic Party]]|votes10=4712|seats10=0|sc10=0
+|party11=Party for Renewal and Progress|votes11=3692|seats11=0|sc11=New
+|party12=[[Struggle Front for the National Independence of Guinea]]|votes12=3262|seats12=0|sc12=–1
+|party13=[[Guinean Civic Forum–Social Democracy]]|votes13=3262|seats13=0|sc13=New
+|total_sc=+2
+|totalvotes=432604
+|electorate=525329
+|source=[https://web.archive.org/web/20160303220203/http://mercury.ethz.ch/serviceengine/Files/ISN/135655/ipublicationdocument_singledocument/85fee8f4-9f86-4cba-a2a3-33fb0a0880f6/en/FULLTEXT02-4.pdf Rudebeck], [https://www.electionguide.org/elections/id/1284/ IFES] [https://aceproject.org/ero-en/regions/africa/GW/guinee-bissau-rapport-de-la-mission-2/at_download/file  Guinee-Bissau Rapport]
+}}
+
+==References==
+{{reflist}}
+
+{{Guinea-Bissau elections}}
+
+{{DEFAULTSORT:1999-2000 Guinea-Bissau general election}}
+[[Category:1999 elections in Africa|Guinea-Bissau]]
+[[Category:2000 elections in Africa|Guinea-Bissa]]
+[[Category:1999 in Guinea-Bissau|General]]
+[[Category:2000 in Guinea-Bissau|General]]
+[[Category:Parliamentary elections in Guinea-Bissau]]
+[[Category:Presidential elections in Guinea-Bissau]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:November 1999 in Africa|Guinea-Bissau]]
+[[Category:January 2000 in Africa|Guinea-Bissau]]

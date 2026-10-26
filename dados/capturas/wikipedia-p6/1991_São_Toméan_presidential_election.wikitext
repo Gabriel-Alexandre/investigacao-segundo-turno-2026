@@ -1,0 +1,58 @@
+{{Infobox election
+| country = São Tomé and Príncipe
+| type = presidential
+| ongoing = no
+| election_date = 3 March 1991
+| previous_election = 
+| previous_year = 
+| next_election = 1996 São Toméan presidential election
+| next_year = 1996
+
+| registered        = 52,618
+| opinion_polls     = 
+| turnout           = 61.81%
+
+| image1 = Miguel_Trovoada_in_1995.jpg
+| candidate1 = [[Miguel Trovoada]]
+| party1 = [[Independent politician|Independent]]<br />([[Democratic Convergence Party – Reflection Group|PCD-GR]] – [[Democratic Coalition of the Opposition|CODO]])
+| popular_vote1 = '''26,604'''
+| percentage1 = '''100%'''
+
+| map_image = [[File:1991 São Tomé and Príncipe presidential election - Results by district.svg|275px]]
+| map_caption = Results by region<br />(percentage of valid votes)
+
+| title = [[President of São Tomé and Príncipe|President]]
+| before_election = [[Manuel Quintas de Almeida]] (acting)
+| before_party = Movement for the Liberation of São Tomé and Príncipe
+| after_election = [[Miguel Trovoada]]
+| after_party = Independent politician
+}}
+
+{{Politics of São Tomé and Príncipe}}
+
+Presidential elections were held for the first time in [[São Tomé and Príncipe]] on 3 March 1991, as previously the President had been elected by the [[National Assembly of São Tomé and Príncipe|National Assembly]]. Ultimately only one candidate, [[Miguel Trovoada]], ran for office, and was elected unopposed. The [[Movement for the Liberation of São Tomé and Príncipe|MLSTP-PSD]] had called for voters to boycott the election.<ref>{{Cite journal |date=1991 |title=Election Watch |url=https://muse.jhu.edu/pub/1/article/225600 |journal=Journal of Democracy |volume=2 |issue=2 |pages=121–123 |issn=1086-3214}}</ref>
+
+Trovoada was sworn in as the second [[President of São Tomé and Principe|president]] of São Tomé and Príncipe on 3 April.
+
+==Candidates==
+Three candidates stated their intention to participate in the contest; [[Miguel Trovoada]], a former [[List of heads of government of São Tomé and Príncipe|Prime Minister]] running as an independent (with the support of both the [[Democratic Convergence Party – Reflection Group|PCD-GR]] and [[Democratic Coalition of the Opposition|CODO]]), [[Monso dos Santos]] of the [[Christian Democratic Front]] (FDC) and [[Guadalupe de Ceita]], an independent candidate. [[Manuel Pinto da Costa]], President since independence in 1975, declared that he would not be contesting the election and that he would retire from politics. The [[Movement for the Liberation of São Tomé and Príncipe|MLSTP-PSD]] did not present an alternative candidate. 
+
+In February, less than a month before the election, both Monso dos Santos and Guadalupe de Ceita withdrew from the elections, leaving Trovoada as the sole candidate.<ref>[[Dieter Nohlen]], Michael Krennerich & Bernhard Thibaut (1999) ''Elections in Africa: A data handbook'', p748 {{ISBN|0-19-829645-2}}</ref>
+
+==Results==
+{{Election results
+|cand1=[[Miguel Trovoada]]|party1=Independent|votes1=26604
+|invalid=5919
+|electorate=52618
+|source=Nohlen ''et al.''
+}}
+
+==References==
+{{reflist}}
+
+{{São Tomé and Príncipe elections}}
+
+[[Category:Presidential elections in São Tomé and Príncipe]]
+[[Category:1991 elections in Africa|Sao Tome]]
+[[Category:1991 in São Tomé and Príncipe|Presidential]]
+[[Category:March 1991 in Africa|Sao Tome]]

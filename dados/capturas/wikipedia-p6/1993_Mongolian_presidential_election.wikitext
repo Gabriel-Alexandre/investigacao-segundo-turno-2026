@@ -1,0 +1,309 @@
+{{Short description|none}}
+{{Infobox election
+| country = Mongolia
+| type = presidential
+| next_election = 1997 Mongolian presidential election
+| next_year = 1997
+| election_date = 6 June 1993
+| image1 = Punsalmaagiin Ochirbat 1990.png
+| nominee1 = '''[[Punsalmaagiin&nbsp;Ochirbat]]'''
+| party1 = [[Mongolian Social Democratic Party|MSDP]]–[[Mongolian National Democratic Party (1992–1999)|MNDP]]
+| popular_vote1 = '''592,836'''
+| percentage1 = '''57.78%'''
+| image2 = Lodongiin Tudev.png
+| nominee2 = {{ill|Lodongiin&nbsp;Tüdev|mn|Лодонгийн Түдэв}}
+| party2 = [[Mongolian People's Party|MPRP]]
+| popular_vote2 = 397,057
+| percentage2 = 38.70%
+| map_image = 1993 Mongolian presidential election map.svg
+| map_caption = Results by province
+| title = President
+| before_election = [[Punsalmaagiin Ochirbat]]
+| before_party = [[Mongolian People's Party|MPRP]]
+| after_election = [[Punsalmaagiin Ochirbat]]
+| after_party = [[Mongolian Social Democratic Party|MSDP]]–[[Mongolian National Democratic Party (1992–1999)|MNDP]]
+| turnout = 92.73%
+| registered = 1,106,403
+| flag_year = 1992
+}}{{Politics of Mongolia}}
+
+Presidential elections were held in [[Mongolia]] on 6 June 1993,<ref>[[Dieter Nohlen]], Florian Grotz & Christof Hartmann (2001) ''Elections in Asia: A data handbook, Volume II'', p490 {{ISBN|0-19-924959-8}}</ref> the first time a [[President of Mongolia|head of state]] had been democratically elected in a competitive election. The two candidates were incumbent [[president of Mongolia|president]] [[Punsalmaagiin Ochirbat]] and [[Лодонгийн Түдэв|Lodongiin Tüdev]], a renowned writer, editor and prominent political figure.<ref>{{Cite web |title=Renowned Mongolian writer Lodongiin Tudev passes away |url=https://www.montsame.mn/en/read/222244 |access-date=2024-10-05 |website=MONTSAME News Agency |language=en}}</ref> Ochirbat, who was previously elected [[President of the Mongolian People's Republic|president]] of the [[Mongolian People's Republic]] by the [[People's Great Khural|People's Grand Khural]] in the aftermath of the [[Mongolian Revolution of 1990|1990 revolution]], was nominated as a candidate by the opposition coalition between the [[Mongolian Social Democratic Party]] (MSDP) and the [[Mongolian National Democratic Party (1992–1999)|Mongolian National Democratic Party]] (MNDP). Tüdev was nominated as a candidate by the ruling [[Mongolian People's Party|Mongolian People's Revolutionary Party]] (MPRP).
+
+The result was a victory for Ochirbat, who received 57.8% of the vote. Voter turnout was 93%,<ref>Nohlen ''et al''., p491</ref><ref>{{Cite web |date=2023 |title=Elections in Mongolia (1992-2021) |url=https://asiafoundation.org/insight/elections-in-mongolia-1992-2021/ |access-date=2026-10-03 |website=The Asia Foundation |page=85 |language=en-US}}</ref> which remains the highest turnout for a presidential election and the only time the turnout for a presidential election was over 90%. It was the MPRP's first electoral loss since the adoption of the [[Constitution of Mongolia|1992 Constitution]].<ref>{{Cite journal |last=Batbayar |first=Tsedendambyn |date=1994 |title=Mongolia in 1993: A Fragile Democracy |url=https://www.jstor.org/stable/2644955 |journal=Asian Survey |volume=34 |issue=1 |pages=41–45 |doi=10.2307/2644955 |issn=0004-4687|url-access=subscription }}</ref>
+
+== Electoral system ==
+Presidential electoral law was ratified by the legislature on 15 February 1993, which took effect on 1 March 1993.<ref name=":4">{{Cite web |date=1993-02-15 |title=МОНГОЛ УЛСЫН ЕРӨНХИЙЛӨГЧИЙН СОНГУУЛИЙН ХУУЛЬ |url=https://legalinfo.mn/ |access-date=2026-10-03 |website=Эрх зүйн мэдээллийн нэгдсэн систем |language=en}}</ref>
+
+According to the law, the election was to be held using the [[two-round system]]. If no candidate had received a majority of the vote (including invalid ballots) in the first round, a second round would be held. Only parties with seats in the [[State Great Khural]] were allowed to nominate candidates. Parties in a coalition were also allowed to nominate a joint candidate.<ref name=":4" />
+
+Citizens aged at least 18 and residing within the borders of Mongolia were eligible to vote via [[secret ballot]]. The organization of the elections were tasked to [[General Election Commission of Mongolia|General Election Commission]] (GEC), an electoral commission responsible to the State Great Khural, and local polling stations.<ref name=":4" />
+
+==Background==
+===Fall of communism===
+{{Main|1990 Democratic Revolution in Mongolia}}
+Following the [[Mongolian Revolution of 1990|1990 pro-democracy movement]], the [[General Secretary of the Mongolian People's Revolutionary Party]], [[Jambyn Batmönkh]], and other [[politburo]] leaders announced their resignation in March 1990, paving the way for democratic change in Mongolia.<ref name=":1">{{Cite web |last=Б. |date=2015-07-29 |title=МОНГОЛД АРДЧИЛАЛ ЭХЭЛСЭН ТҮҮХ |url=https://ikon.mn/p/irg |access-date=2024-10-05 |website=ikon.mn |language=mn|first=Дөлгөөн}}</ref><ref name=":3">{{cite journal |last1=Heaton |first1=William R. |date=Jan 1991 |title=Mongolia in 1990: Upheaval, Reform, But No Revolution Yet |journal=The Western Political Quarterly |volume=31 |issue=1 |pages=50–56 |doi=10.2307/2645184 |jstor=2645184}}</ref>
+
+On 21 March 1990, during the 8th Extraordinary [[People's Great Khural|People's Grand Khural]] session, the following constitutional provision: "The guiding force of the [[Mongolian People's Republic]] is the Mongolian People's Revolutionary Party, which uses the all-conquering [[Marxism–Leninism|Marxist-Leninist theory]] in its operations." was removed from the [[Constitutions of the Mongolian People's Republic|Constitution of the MPR]]; officially ending 70 years of [[One-party state|one-party rule]].<ref name=":1" /> Head of state Jambyn Batmönkh and premier [[Dumaagiin Sodnom]] were succeeded by [[Punsalmaagiin Ochirbat]] and [[Sharavyn Gungaadorj]] during the session.<ref name=":3" />
+
+===Transition to democracy===
+The [[1990 Mongolian parliamentary election|first multi-party parliamentary elections]] were held in July 1990 for the People's Grand Khural and the [[Little Khural|State Little Khural]] with a high turnout of 98%. The MPRP won both elections to both houses, while opposition parties made modest gains. Punsalmaagiin Ochirbat was re-elected as a deputy to the People's Grand Khural and was subsequently appointed to the newly created position of [[President of the Mongolian People's Republic]] in September 1990.<ref>{{Cite web |last=[[Baabar|Баабар]] |first= |title=Монголын ардчилсан хувьсгалын хроник |url=http://www.baabar.mn/article/1070 |access-date=2026-01-28 |website=www.baabar.mn |language=mn}}</ref> 
+[[File:People's Grand Khural 1990.jpg|left|thumb|President [[Punsalmaagiin Ochirbat]] (leftmost) and deputy premier [[Dashiin Byambasüren]] (rightmost) meeting with opposition leaders, circa June 1990]]
+In January 1992, a [[Constitution of Mongolia|new constitution]] was ratified, renaming the country to [[Mongolia]] and changing the presidential title to "[[President of Mongolia|President of Mongolia and Commander-in-Chief of the Armed Forces]]."<ref>{{Cite web |last=А. |first=Төгөлдөр |date=2025-01-13 |title=1992 оноос хойш дөрвөн удаа Үндсэн хуульд өөрчлөлт оруулжээ |url=https://ikon.mn/n/3bof |access-date=2026-01-28 |website=ikon.mn |language=mn}}</ref> After the ratification, [[1992 Mongolian parliamentary election|parliamentary elections]] for the unicameral legislature, the [[State Great Khural]], were held on 28 June 1992. The MPRP once again won a [[supermajority]], securing 70 out of the total 76 seats with 57% of the vote.<ref>{{Cite web |last=З. |first=Санжаа |date=2024-06-19 |title=ТАНИЛЦ: 1992-2020 он хүртэл УИХ-ын сонгуулийн тойрог хуваалт ба үр дүн |url=https://ikon.mn/n/1ra9 |access-date=2026-01-28 |website=ikon.mn |language=mn}}</ref> This was largely attributed to the party's adoption of [[Multi-party system|multiparty governance]] and its support for a [[market economy]]. The opposition alliance between the [[Mongolian National Progress Party]] (MNPP), the [[Mongolian Democratic Party (1990)|Mongolian Democratic Party]] (MDP), and the [[Mongolian United Party]] (MUP) won four seats with 17% of the vote. The [[Mongolian Social Democratic Party]], supported by the [[Social Democratic Party of Germany|German SPD]], won one seat with 10% of the vote.<ref name=":0" /> The opposition MDP, MNPP, MUP, and [[Mongolian Renaissance Party]] merged in late 1992 to form the [[Mongolian National Democratic Party (1992–2000)|Mongolian National Democratic Party]] (MNDP). The MNDP, with its four parliamentary seats, became the primary opposition to the MPRP and second largest parliamentary party.
+
+Local elections were held in October of the same year. The ruling MPRP won all 18 governorships of the country's [[Aimag|provinces]] and almost 90% of all [[Sum (administrative division)|sum]] legislature seats.<ref name=":0">{{Cite web |title=Report on Mongolian Presidential Election: June 6, 1993 |url=https://www.ifes.org/publications/report-mongolian-presidential-election-june-6-1993 |access-date=2024-10-05 |website=[[IFES]] |language=en|pages=3-4}}</ref>
+
+==Candidates==
+According to the electoral law, parties with representation in the State Great Khural were allowed to nominate candidates for the presidential election.<ref name=":4" /> Three political parties, the MPRP, the MNDP, and the MSDP, were eligible to compete in the election.
+
+During a party conference in April 1993, inaugural president Ochirbat was rejected as the MPRP's pick for the presidential candidate, with the party instead selecting [[Lodongiin Tüdev]], a well-known writer, editor, and intellectual figure. Both figures belonged to different factions within the party.<ref name=":0" /> Tüdev was considered as more orthodox party member than Ochirbat.<ref>{{Cite book |title=Nations in transit, 1999-2000: civil society, democracy, and markets in East Central Europe and the newly independent states |date=2001 |publisher=Transaction Publishers |isbn=978-0-7658-0773-1 |editor-last=Karatnycky |editor-first=Adrian |location=New Brunswick, [N.J.] |pages=465-466 |editor-last2=Motyl |editor-first2=Alexander |editor-last3=Piano |editor-first3=Aili}}</ref>
+
+In response to the decision, the MNDP and MSDP formed a coalition and nominated Ochirbat as their joint candidate for the presidential election.<ref name=":0" />
+{| class="wikitable sortable" style="text-align:center"
+! style="width: 115px;" |Names
+! style="width: 145px;" |Born
+! style="width: 145px;" |Last position
+! colspan="2" style="width: 215px;" |Party
+|-
+| data-sort-value="Tüdev, Lodon" |[[File:Lodongiin Tudev.png|130x130px]]
+'''[[Lodongiin Tüdev]]'''
+|{{dts|1935|02|09|format=dmy}}<br>({{age nts|1935|02|09|1993|6|6}})<br>[[Naran, Govi-Altai|Naran]], [[Govi-Altai]], [[Mongolian People's Republic|Mongolia]]
+|Editor of [[Mongolyn Ünen]]<br>(1984–1996)
+|{{party color cell|Mongolian People's Revolutionary Party (old)}}
+|[[Mongolian People's Party|Mongolian People's Revolutionary Party]]
+|-
+| data-sort-value="Ochirbat, Punsalmaa" |[[File:Punsalmaagiin Ochirbat 1990.png|130x130px]]<br>'''[[Punsalmaagiin Ochirbat]]'''
+|{{dts|1942|01|23|format=dmy}}<br>({{age nts|1942|01|23|1993|6|6}})<br>[[Tüdevtei, Zavkhan|Tüdevtei]], [[Zavkhan Province|Zavkhan]], [[Mongolian People's Republic|Mongolia]]
+|[[President of Mongolia|President]] of the [[Mongolian People's Republic]]<br>(1990–1992)
+|{{party color cell|Democratic Party (Mongolia)}}
+|[[Mongolian Social Democratic Party|MSDP]]–[[Mongolian National Democratic Party (1992–2000)|MNDP]]
+|}
+
+== Opinion polls ==
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! rowspan="2" style="width:110px;" |Polling firm
+! rowspan="2" style="width:110px;" |Fieldwork date
+! rowspan="2" style="width: 35px;" |Sample size
+! class="unsortable" style="width:50px;" |[[Punsalmaagiin Ochirbat|Ochirbat]]<br><small>{{nowrap|[[Mongolian National Democratic Party (1992–2000)|MNDP]]–[[Mongolian Social Democratic Party|MSDP]]}}</small>
+! class="unsortable" style="width:50px;" |[[Lodongiin Tüdev|Tüdev]]<br><small>[[Mongolian People's Party|MPRP]]</small>
+! rowspan="2" class="unsortable" style="width:50px;" |Undecided
+|-
+! style="background:{{party color|Democratic Party (Mongolia)}};" |
+! style="background:{{party color|Mongolian People's Party}};" |
+|-
+|MPRP Research, Training and Information Centre<ref name=":2">{{Cite journal |last=Batbayar |first=Tsedendambyn |date=1994-01-01 |title=Mongolia in 1993: A Fragile Democracy |url=https://online.ucpress.edu/as/article/34/1/41/23084/Mongolia-in-1993-A-Fragile-Democracy |journal=Asian Survey |language=en |volume=34 |issue=1 |pages=42 |doi=10.2307/2644955 |issn=0004-4687 |via=JSTOR|url-access=subscription }}</ref>
+|April 17
+|–
+| style="background:#a7c1eb;" |'''56.6'''
+|30.2
+|13.2
+|-
+|Policy<ref name=":2" />
+|May 1-7
+|–
+| style="background:#a7c1eb;" |'''60.0'''
+|38.9
+|1.1
+|-
+|MPRP Research, Training and Information Centre<ref name=":2" />
+|May 7
+|–
+| style="background:#a7c1eb;" |'''52.5'''
+|44.3
+|3.2
+|-
+|MPRP Research, Training and Information Centre<ref name=":2" />
+|May 27
+|–
+|46.0
+| style="background:#F4C6C9;" |'''51.0'''
+|3.0
+|}
+
+==Results==
+Voting began at 7:00 and ended at 22:00 on Sunday, 6 June 1993. Ochirbat received 57.8% of the vote and was re-elected as president at the age of 51, becoming the first non-MPRP president to be elected.<ref name=":0" />
+
+{{Election results
+|cand1=[[Punsalmaagiin Ochirbat]]|party1=[[Mongolian Social Democratic Party|MSDP]]–[[Mongolian National Democratic Party (1992–99)|MNDP]]|votes1=592836
+|cand2={{ill|Lodongiin Tüdev|mn|Лодонгийн Түдэв}}|party2=[[Mongolian People's Party|Mongolian People's Revolutionary Party]]|votes2=397057
+|row3=Invalid votes|votes3=36077
+|totalvotes=1025970
+|electorate=1106403
+|source=General Election Commission<ref>{{Citation |title=Монгол улсын ерөнхийлөгчийн сонгуулиудын дүнгийн эмхэтгэл |date=2011 |website=[[General Election Commission of Mongolia]] |page=8–23 |trans-title=Compilation of Mongolian presidential election results |url=https://www.gec.gov.mn/uploads/Erunhiilugchiin%20songuuli-1993-2009.pdf |archive-url=https://web.archive.org/web/20240424002713/https://www.gec.gov.mn/uploads/Erunhiilugchiin%20songuuli-1993-2009.pdf |archive-date=24 April 2024 |place=Ulaanbaatar |language=Mongolian}}</ref>
+}}
+{{bar box|title=Vote share|titlebar=#ddd|width=600px|barwidth=500px|bars={{Bar gap|}}
+{{bar percent|'''Ochirbat'''|{{party color|Democratic Party (Mongolia)}}|57.78}}
+{{bar percent|Tüdev|{{party color|Mongolian People's Party}}|38.70}}
+{{bar percent|Invalid votes|{{party color|Independents}}|3.52}}}}
+
+=== Results by area ===
+{| class="wikitable sortable" style=text-align:center
+!rowspan="3"|[[Administrative divisions of Mongolia|Subdivision]]
+! colspan="2"| [[Punsalmaagiin Ochirbat]]<br /><small>MNDP–MSDP</small>
+! colspan="2"| '''[[Lodongiin Tudev|Lodongiin Tüdev]]'''<br /><small>MPRP</small>
+|-
+! colspan="2" {{party color cell|Democratic Party (Mongolia)}}
+! colspan="2" {{party color cell|Mongolian People's Party}}
+|-
+! width="65px"|Votes
+! width="25px"|%
+! width="65px"|Votes
+! width="25px"|%
+|-
+! colspan="5" align="center" |[[Provinces of Mongolia|Aimags]] of Mongolia
+|-
+|[[Arkhangai Province|Arkhangai]]
+| style="background:#a7c1eb;" |'''29,646'''
+| style="background:#a7c1eb;" |'''67.83%'''
+|14,060
+|32.17%
+|-
+|[[Bayan-Ölgii Province|Bayan-Ölgii]]
+|17,361
+|46.52%
+| style="background:#fec0c6;" |'''18,331'''
+| style="background:#fec0c6;" |'''49.12%'''
+|-
+|[[Bayankhongor Province|Bayankhongor]]
+| style="background:#a7c1eb;" |'''24,193'''
+| style="background:#a7c1eb;" |'''64.27%'''
+|12,424
+|33.01%
+|-
+|[[Bulgan Province|Bulgan]]
+| style="background:#a7c1eb;" |'''17,785'''
+| style="background:#a7c1eb;" |'''62.05%'''
+|9,889
+|34.50%
+|-
+|[[Govi-Altai Province|Govi-Altai]]
+|6,094
+|19.67%
+| style="background:#fec0c6;" |'''24,095'''
+| style="background:#fec0c6;" |'''77.76%'''
+|-
+|[[Dornogovi Province|Dornogovi]]
+| style="background:#a7c1eb;" |'''14,724'''
+| style="background:#a7c1eb;" |'''58.09%'''
+|9,821
+|38.75%
+|-
+|[[Dornod Province|Dornod]]
+| style="background:#a7c1eb;" |'''23,846'''
+| style="background:#a7c1eb;" |'''66.43%'''
+|10,813
+|30.12%
+|-
+|[[Dundgovi Province|Dundgovi]]
+| style="background:#a7c1eb;" |'''11,674'''
+| style="background:#a7c1eb;" |'''49.47%'''
+|11,284
+|47.82%
+|-
+|[[Zavkhan Province|Zavkhan]]
+| style="background:#a7c1eb;" |'''35,987'''
+| style="background:#a7c1eb;" |'''78.73%'''
+|8,524
+|18.65%
+|-
+|[[Övörkhangai Province|Övörkhangai]]
+| style="background:#a7c1eb;" |'''30,080'''
+| style="background:#a7c1eb;" |'''60.36%'''
+|18,034
+|36.19%
+|-
+|[[Ömnögovi Province|Ömnögovi]]
+| style="background:#a7c1eb;" |'''12,381'''
+| style="background:#a7c1eb;" |'''57.32%'''
+|8,777
+|40.63%
+|-
+|[[Sükhbaatar Province|Sükhbaatar]]
+| style="background:#a7c1eb;" |'''16,008'''
+| style="background:#a7c1eb;" |'''60.88%'''
+|9,183
+|34.92%
+|-
+|[[Selenge Province|Selenge]]
+| style="background:#a7c1eb;" |'''26,374'''
+| style="background:#a7c1eb;" |'''63.83%'''
+|13,422
+|32.48%
+|-
+|[[Töv Province|Töv]]
+| style="background:#a7c1eb;" |'''28,171'''
+| style="background:#a7c1eb;" |'''54.73%'''
+|21,520
+|41.81%
+|-
+|[[Uvs Province|Uvs]]
+|10,094
+|24.32
+| style="background:#fec0c6;" |'''29,202'''
+| style="background:#fec0c6;" |'''70.36%'''
+|-
+|[[Khovd Province|Khovd]]
+|16,943
+|45.44%
+| style="background:#fec0c6;" |'''19,053'''
+| style="background:#fec0c6;" |'''51.09%'''
+|-
+|[[Khövsgöl Province|Khövsgöl]]
+| style="background:#a7c1eb;" |'''33,253'''
+| style="background:#a7c1eb;" |'''60.77%'''
+|18,761
+|34.29%
+|-
+|[[Khentii Province|Khentii]]
+| style="background:#a7c1eb;" |'''22,787'''
+| style="background:#a7c1eb;" |'''67.25%'''
+|10,036
+|29.62%
+|-
+! colspan="5" align="center" |[[List of cities in Mongolia|Cities]] of Mongolia
+|-
+|[[Darkhan (city)|Darkhan]]
+| style="background:#a7c1eb;" |'''23,802'''
+| style="background:#a7c1eb;" |'''63.36%'''
+|12,331
+|32.82%
+|-
+|[[Erdenet]]
+| style="background:#a7c1eb;" |'''19,082'''
+| style="background:#a7c1eb;" |'''72.74%'''
+|6,425
+|24.49%
+|-
+|[[Choir]]
+| style="background:#a7c1eb;" |'''3,365'''
+| style="background:#a7c1eb;" |'''66.07%'''
+|1,524
+|29.92%
+|-
+|[[Ulaanbaatar]]
+| style="background:#a7c1eb;" |'''169,186'''
+| style="background:#a7c1eb;" |'''58.57%'''
+|109,548
+|37.92%
+|-
+! colspan="5" |
+|-
+|'''Total'''
+| style="background:#a7c1eb;" | '''592,836'''
+| style="background:#a7c1eb;" | '''57.78%'''
+|397,057
+|38.70%
+|}
+
+==References==
+{{reflist}}
+
+== External links ==
+
+* [https://www.ifes.org/publications/report-mongolian-presidential-election-june-6-1993 Report on Mongolian Presidential Election: June 6, 1993] by the [[IFES]]
+{{Mongolian elections}}
+
+[[Category:1993 elections in Asia|Mongolia]]
+[[Category:1993 in Mongolia|Presidential]]
+[[Category:June 1993 in Asia]]
+[[Category:Presidential elections in Mongolia]]

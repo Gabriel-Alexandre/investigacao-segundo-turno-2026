@@ -1,0 +1,57 @@
+{{Short description|none}}
+{{Infobox election
+| country = Haiti
+| type = presidential
+| election_date = 26 November 2000
+| previous_election = 1995 Haitian general election
+| previous_year = 1995
+| next_election = 2006 Haitian general election
+| next_year = 2006
+| turnout =
+
+| image1 = Jean-Bertrand Aristide (cropped).jpg
+| nominee1 = [[Jean Bertrand Aristide]]
+| party1 = Fanmi Lavalas
+| popular_vote1 = '''2,632,534'''
+| percentage1 = '''91.67%'''
+
+| image2 = 3x4.svg
+| nominee2 = Arnold Dumas
+| party2 = Independent
+| popular_vote2 = 56,678
+| percentage2 = 1.97%
+
+| title = [[President of Haiti|President]]
+| before_election = [[René Préval]]
+| before_party = Fanmi Lavalas
+| after_election = [[Jean-Bertrand Aristide]]
+| after_party = Fanmi Lavalas
+}}{{Politics of Haiti}}
+
+Presidential elections were held in [[Haiti]] on 26 November 2000.<ref>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p381 {{ISBN|978-0-19-928357-6}}</ref> The opposition parties, organised into the recently created [[Convergence Démocratique]], boycotted the election after disputing the results of the [[2000 Haitian parliamentary election|parliamentary elections]]. The result was a landslide victory for [[Jean-Bertrand Aristide]], who received 91.7% of the vote with a turnout of around 50%.<ref>[http://newleftreview.org/A2507 Option Zero in Haiti], New Left Review May–June 2004</ref>
+
+Concerns were raised when the [[Organization of American States|Organisation of American States]] conducted a fact-finding mission on the election and found that 10 senatorial seats in the simultaneous [[2000 Haitian parliamentary election|parliamentary elections]] should have gone to a second-round runoff because the candidates did not win an absolute majority as required by the [[Constitution of Haiti|constitution]]. This resulted in the [[European Union]] and the [[United States]] banning economic assistance to the country until 2005, which were supported by Haitian opposition members.<ref>{{Cite book |last1=Hufbauer |first1=Gary Clyde |url=https://books.google.com/books?id=g-uzlJDD7DwC |title=Economic Sanctions Reconsidered |last2=Schott |first2=Jeffrey J. |last3=Elliott |first3=Kimberly |publisher=Peterson Institute for International Economics |year=2007 |location=Washington |pages=34 |language=en}}</ref><ref>{{Cite web |title=CNN.com - Haiti opposition supports threat of U.S. sanctions - September 6, 2000 |url=https://edition.cnn.com/2000/WORLD/americas/09/06/haiti.sanctions.reut/index.html |access-date=2022-09-01 |website=CNN}}</ref>
+
+==Results==
+{{Election results
+|cand1=[[Jean-Bertrand Aristide]]|party1=[[Fanmi Lavalas]]|votes1=2632534
+|cand2=Arnold Dumas|party2=Independent|votes2=56678
+|cand3=Evan Nicolas|party3=[[Union for National Reconciliation]]|votes3=45441
+|cand4=Serge Sylvain|party4=Independent|votes4=37371
+|cand5=Calixte Dorisca|party5=Independent|votes5=36233
+|cand6=Jacques Philippe Dorce|party6=Independent|votes6=32245
+|cand7=Paul Arthur Fleurival|party7=Independent|votes7=31100
+|invalid=
+|source=Nohlen
+}}
+
+==References==
+{{reflist}}
+
+{{Haitian elections}}
+
+[[Category:2000 elections in the Caribbean|Haiti]]
+[[Category:2000 in Haiti|Presidential]]
+[[Category:Presidential elections in Haiti]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:November 2000 in North America]]

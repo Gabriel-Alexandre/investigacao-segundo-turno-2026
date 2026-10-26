@@ -1,0 +1,81 @@
+{
+ "V1_2t_boletins_contra_oficial": {
+  "boletins": {
+   "13": 64255787,
+   "22": 59825688
+  },
+  "oficial": {
+   "13": 64256232,
+   "22": 59826041
+  },
+  "diferenca": {
+   "13": -445,
+   "22": -353
+  },
+  "passou": true,
+  "nota": "a diferença é das 29 seções do exterior sem boletim publicado"
+ },
+ "V2_1t_boletins_contra_oficial": {
+  "boletins": {
+   "13": 53879305,
+   "22": 56104261,
+   "70": 3448548
+  },
+  "oficial": {
+   "13": 53879538,
+   "22": 56104503,
+   "70": 3448569
+  },
+  "diferenca": {
+   "13": -233,
+   "22": -242,
+   "70": -21
+  },
+  "passou": true
+ },
+ "V3_2022_duas_bases": {
+  "itens": {
+   "t1_lula": {
+    "bweb": 57259504,
+    "munzona": 57259504,
+    "igual": true
+   },
+   "t1_bolsonaro": {
+    "bweb": 51072345,
+    "munzona": 51072345,
+    "igual": true
+   },
+   "t2_lula": {
+    "bweb": 60345999,
+    "munzona": 60345999,
+    "igual": true
+   },
+   "t2_bolsonaro": {
+    "bweb": 58206354,
+    "munzona": 58206354,
+    "igual": true
+   }
+  },
+  "passou": true
+ },
+ "V4_rdv_amostra_leitor_novo": {
+  "secoes": 3000,
+  "diferentes": 0,
+  "passou": true
+ },
+ "V5_noite_refeita": {
+  "diferenca_media_pontos": 0.069,
+  "passou": true
+ },
+ "V6_saldo_fecha": {
+  "ganho_dos_dois": 14098232,
+  "outros_mais_abstencao_mais_branco_nulo": 14098232,
+  "passou": true
+ },
+ "V7_presidente_1994_2022": {
+  "segundos_turnos": 6,
+  "viradas": 0,
+  "passou": true
+ },
+ "todos_passaram": true
+}

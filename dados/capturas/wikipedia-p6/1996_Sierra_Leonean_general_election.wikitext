@@ -1,0 +1,117 @@
+{{Short description|none}}
+
+{{Infobox election
+| country = Sierra Leone
+| previous_election = 1985 Sierra Leonean presidential election
+| previous_year = 1985
+| next_election = 2002 Sierra Leonean general election
+| next_year = 2002
+| election_date = 26 and 27 February 1996 (first round)<br />15 March 1996 (second round) 
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+
+| image1 = Ahmed Tejan Kabbah (cropped).jpg
+| nominee1 = '''[[Ahmed Tejan Kabbah]]'''
+| party1 = Sierra Leone People's Party
+| popular_vote1 = '''608,419'''
+| percentage1 = '''59.49%'''
+
+| image2 = Noimage.png
+| nominee2 = [[John Karefa-Smart]]
+| party2 = [[United National People's Party|UNPP]]
+| popular_vote2 = 414,335
+| colour2 = FFFF00
+| percentage2 = 40.51%
+
+| title = [[President of Sierra Leone|President]]
+| before_election=[[Julius Maada Bio]] 
+| before_party= ''[[List_of_heads_of_state_of_Sierra_Leone#Military_rule_(1992–1996)|Military head of state]]''
+| after_election=[[Ahmed Tejan Kabbah]] 
+| after_party=Sierra Leone People's Party
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| seats_for_election = 68 of 80 seats in Parliament
+
+| party1 = Sierra Leone People's Party | leader1 = [[Ahmed Tejan Kabbah]]  | percentage1 = 36.17| seats1 = 27 | last_election1 = new
+| party2 = [[United National People's Party|UNPP]] | leader2 = [[John Karefa-Smart]] | percentage2 = 22.14 | seats2 = 17 | last_election2 = new
+| party3 = [[People's Democratic Party (Sierra Leone)|PDP]] | leader3 = [[Thaimu Bangura]] | percentage3 = 15.33 | seats3 = 12| last_election3 = new
+| party4 = All People's Congress | leader4 = [[Edward Turay]] | percentage4 = 5.69 | seats4 = 5 | last_election4 = 105
+| party5 = [[National Unity Party (Sierra Leone)|PDP]] | leader5 = [[John Karimu]] | percentage5 = 5.26 | seats5 = 4| last_election5 = new
+| party6 = [[Democratic Centre Party|DCP]] | leader6 = [[Abu Aiah Koroma]] | percentage6 = 4.78 | seats6 = 3| last_election6 = new
+
+}}}}}}
+
+{{Politics of Sierra Leone}}
+
+General elections were held in [[Sierra Leone]] on 26 and 27 February 1996 to elect the [[President of Sierra Leone|President]] and members of [[Parliament of Sierra Leone|Parliament]], with a second round of the presidential election on 15 March.<ref>{{Cite journal |date=1996 |title=Election Watch |url=https://muse.jhu.edu/article/697486 |journal=Journal of Democracy |volume=7 |issue=3 |issn=1086-3214}}</ref> They were the first elections since multi-party democracy had been reintroduced following a [[1991 Sierra Leonean constitutional referendum|referendum on a new constitution]] in 1991, and the first multi-party elections held in the country since [[1977 Sierra Leonean parliamentary election|1977]].
+
+The presidential elections were won by [[Ahmed Tejan Kabbah]] of the [[Sierra Leone People's Party]] (SLPP), who defeated [[John Karefa-Smart]] of the [[United National People's Party]] in the second round by 60% to 40%. In the parliamentary elections, the SLPP became the largest party for the first time in 29 years, winning 27 of the 68 elected seats, whilst the UNPP finished second with 17 seats. 
+
+The [[All People's Congress]], which had governed from 1968 to 1992 (from 1978 to 1991 as the only legal party), ran in a contested election for the first time in two decades. It finished fourth in the parliamentary election, whilst its presidential candidate, [[Edward Turay]], finished a distant fifth with only 5.1 percent of the vote. 
+
+The elections were characterized by violence.<ref>{{Cite journal |date=1996 |title=Election Watch |url=https://muse.jhu.edu/pub/1/article/697485 |journal=Journal of Democracy |volume=7 |issue=2 |issn=1086-3214}}</ref> 
+
+==Electoral system==
+The elections were a transitional event as the country moved to implement the 1991 constitution and move from military rule to civilian rule. The president was elected using the [[two-round system]]. The parliamentary elections were held using [[proportional representation]] with a single nationwide constituency with a 5% electoral threshold.<ref>"NPRC Decree No 16, 1995 - The Electoral Provisions Decree, 1995 Being A Decree to Make A Provision for The Election of Members of Parliament and for Other Matters Connected Therewith," Sierra Leone National Provisional Ruling Council, 18th of December, 1995</ref> Previously the country had used first-past-the-post voting for parliamentary elections. The use of proportional representation in 1996 and 2002 has been described as Sierra Leone's "brief experiment" with proportional representation.<ref>[https://www.critiqueecho.com/the-compelling-case-for-proportional-representation-pr-electoral-system-in-sierra-leone/ The Compelling Case for Proportional Representation (PR) Electoral System in Sierra Leone] Critique Echo, 2022</ref>
+
+==Results==
+===President===
+As no candidate won more than 55% of the vote in the first round, a second round of voting was held.
+
+{{Election results
+|cand1=[[Ahmad Tejan Kabbah]]|party1=[[Sierra Leone People's Party]]|votes1=266893|votes1_2=608419
+|cand2=[[John Karefa-Smart]]|party2=[[United National People's Party]]|votes2=168666|votes2_2=414335
+|cand3=[[Thaimu Bangura]]|party3=[[People's Democratic Party (Sierra Leone)|People's Democratic Party]]|votes3=119782
+|cand4=[[John Karimu]]|party4=[[National Unity Party (Sierra Leone)|National Unity Party]]|votes4=39617
+|cand5=[[Edward Turay]]|party5=[[All People's Congress]]|votes5=38316
+|cand6=[[Abu Aiah Koroma]]|party6=[[Democratic Centre Party]]|votes6=36779
+|cand7=[[Abass Bundu]]|party7=People's Progressive Party|votes7=21557
+|cand8=[[Amadu Jalloh]]|party8=[[National Democratic Alliance (Sierra Leone)|National Democratic Alliance]]|votes8=17335
+|cand9=[[Edward Kargbo]]|party9=People's National Convention|votes9=15798
+|cand10=[[Desmond Luke]]|party10=National Unity Movement|votes10=7918
+|cand11=[[Andrew Lungay]]|party11=Social Democratic Party|votes11=5202
+|cand12=[[Andrew Turay]]|party12=National People's Party|votes12=3925
+|cand13=[[Mohamed Sillah]]|party13=[[National Alliance Democratic Party]]|votes13=3723
+|source=[http://africanelections.tripod.com/sl.html#1996_Presidential_Election African Elections Database]
+}}
+
+===Parliament===
+The SLPP won the most seats in the elections, but fell well short of a majority, with only 27 of the 68 elected seats.
+
+{{Election results
+|image=[[File:Sierra Leone Parliament 1996.svg]]
+|party1=[[Sierra Leone People's Party]]|votes1=269888|seats1=27
+|party2=[[United National People's Party]]|votes2=165219|seats2=17
+|party3=[[People's Democratic Party (Sierra Leone)|People's Democratic Party]]|votes3=114429|seats3=12
+|party4=[[All People's Congress]]|votes4=42467|seats4=5
+|party5=[[National Unity Party (Sierra Leone)|National Unity Party]]|votes5=39285|seats5=4
+|party6=[[Democratic Centre Party]]|votes6=35632|seats6=3
+|party7=People's Progressive Party|votes7=21361|seats7=0
+|party8=[[National Democratic Alliance (Sierra Leone)|National Democratic Alliance]]|votes8=20125|seats8=0
+|party9=People's National Convention|votes9=19019|seats9=0
+|party10=National Unity Movement|votes10=8885|seats10=0
+|party11=Social Democratic Party|votes11=5900|seats11=0
+|party12=National People's Party|votes12=3992|seats12=0
+|row13=Indirectly elected paramount chiefs|seats13=12
+|source=[https://books.google.com/books?id=7nrb3mNHdY8C&pg=PA34 Elections Today]
+}}
+
+==Aftermath==
+On 25 May 1997 Kabbah was deposed by a coup led by [[Johnny Paul Koroma]]. However, he was returned to power by Nigerian-led ECOWAS forces on 10 March 1998.
+
+==References==
+{{reflist}}
+
+{{Sierra Leonean elections}}
+
+[[Category:1996 in Sierra Leone|Election Presidential]]
+[[Category:1996 elections in Africa|Sierra Leone]]
+[[Category:Elections in Sierra Leone]]
+[[Category:Presidential elections in Sierra Leone]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:Electoral violence]]

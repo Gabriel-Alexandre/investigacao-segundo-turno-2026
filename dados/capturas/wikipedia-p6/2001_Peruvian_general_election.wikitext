@@ -1,0 +1,234 @@
+{{Short description|none}}
+{{Infobox election
+| country = Peru
+| flag_year = state
+| previous_election = 2000 Peruvian general election
+| previous_year = 2000
+| next_election = 2006 Peruvian general election
+| next_year = 2006
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_name = Presidential election
+| election_date = {{nowrap|8 April 2001 (first round)}}<br />3 June 2001 (second round)
+| turnout = 82.32% (first round) {{decrease}} 0.51pp<br/> 81.41% (second round) {{increase}} 0.41pp
+| image1 = Alejandro Toledo (8682) (cropped).jpg
+| nominee1 = '''[[Alejandro Toledo]]'''
+| party1 = Possible Peru
+| running_mate1 = {{nowrap|'''[[Raúl Diez Canseco]]'''}}<br />'''[[David Waisman]]'''
+| popular_vote1 = '''5,548,556'''
+| percentage1 = '''53.08%'''
+| image2 = Alan García presidente del Perú.jpg
+| nominee2 = [[Alan García]]
+| party2 = American Popular Revolutionary Alliance
+| running_mate2 = {{ill|José Murgia|es}}<br />[[Jorge del Castillo]]
+| popular_vote2 = 4,904,929
+| percentage2 = 46.92%
+| map = {{Switcher
+|[[File:MapaElectoralPeru2001Regional.png|150px]][[File:MapaElectoralPeru2001Provincial.png|150px]]
+| First round results by [[Regions of Peru|department]] (left) and [[Provinces of Peru|province]] (right)
+| [[File:BalotajePeru2001Regional.png|150px]][[File:BalotajePeru2001Provincial.png|150px]]
+|Second round results by [[Regions of Peru|department]] (left) and [[Provinces of Peru|province]] (right)
+| default = 2
+}}
+
+| title = President
+| before_election = [[Valentín Paniagua]]
+| before_party = [[Popular Action (Peru)|Popular Action]]
+| after_election = [[Alejandro Toledo]]
+| after_party = Possible Peru
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_date = 8 April 2001
+| election_name = Congressional election
+| seats_for_election = All 120 seats in the [[Congress of the Republic of Peru|Congress of Peru]]
+| majority_seats = 61
+
+| leader1 = [[Alejandro Toledo]]
+| party1 = Possible Peru
+| last_election1 = 29
+| seats1 = 45
+| percentage1 = 26.30
+
+| leader2 = [[Alan García]]
+| party2 = American Popular Revolutionary Alliance
+| last_election2 = 6
+| seats2 = 28
+| percentage2 = 19.71
+
+| leader3 = [[Lourdes Flores]]
+| party3 = [[National Unity (Peru)|National Unity]]
+| color3 = {{party color|National Unity (Peru)}}
+| last_election3 = 4 <!--Seats won by constituent parties (National Solidarity (Peru)) in previous election-->
+| seats3 = 17
+| percentage3 = 13.84
+
+| leader4 = [[Fernando Olivera (politician)|Fernando Olivera]]
+| party4 = [[Independent Moralizing Front|FIM]]
+| color4 = {{party color|Independent Moralizing Front}}
+| last_election4 = 9
+| seats4 = 11
+| percentage4 = 10.98
+
+| leader6 = [[Alberto Fujimori]]
+| party6 = [[Cambio 90|C90]]-[[New Majority (Peru)|NM]]
+| color6 = {{party color|Cambio 90}}
+| last_election6 = 52 <!--Was part of the Peru 2000 coalition in previous election-->
+| seats6 = 3 
+| percentage6 = 4.80
+
+| leader7 = [[Fernando Belaúnde]]
+| party7 = Popular Action (Peru)
+| last_election7 = 3
+| seats7 = 3
+| percentage7 = 4.18
+
+| leader5 = [[Alberto Andrade]]
+| party5 = We Are Peru
+| last_election5 = 9
+| seats5 = 4
+| percentage5 = 5.78
+
+| leader8 = [[Daniel Estrada (politician)|Daniel Estrada]]
+| party8 = Union for Peru
+| last_election8 = 3
+| seats8 = 6
+| percentage8 = 4.14
+
+| leader9 = [[Carlos Boloña]]
+| party9 = [[People's Solution]]
+| last_election9 = New
+| color9 = #6082B6
+| seats9 = 1
+| percentage9 = 3.57
+
+| leader10 = Ricardo Noriega
+| party10 = [[All for Victory]]
+| last_election10 = New
+| color10 = #FFCC33
+| seats10 = 1
+| percentage10 = 2.03
+
+| leader11 = [[Ciro Gálvez]]
+| party11 = [[National United Renaissance|And. Renaissance]]
+| last_election11 = New
+| color11 = {{party color|National United Renaissance}}
+| seats11 = 1
+| percentage11 = 1.36
+| map = Elecciones parlamentarias de Perú de 2001 - Resultados.svg
+| map_caption = Results by department
+}}}}}}{{Politics of Peru}}
+
+Early general elections were held in [[Peru]] on 8 April 2001, with a second round of the presidential election on 3 June.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p454 {{ISBN|978-0-19-928358-3}}</ref> The elections were held after [[President of Peru|President]] [[Alberto Fujimori]] claimed asylum in [[Japan]] during a trip to Asia and resigned his position.<ref>Nohlen, p449</ref>
+
+The presidential elections were won by [[Alejandro Toledo]] of [[Possible Peru]], who had been defeated by Fujimori in the [[2000 Peruvian general election|2000 general election]], while his party emerged as the largest faction in the [[Congress of the Republic of Peru|Congress]].<ref>Nohlen, p468</ref>
+
+==Candidates==
+=== Main presidential candidates ===
+{| class="wikitable" style="font-size:90%; text-align:center;"
+| colspan="4" style="background:#f1f1f1; width:850px;" |{{large|'''Presidential tickets'''}}
+|-
+| '''[[Possible Peru]]'''
+| '''[[American Popular Revolutionary Alliance|Peruvian Aprista Party]]'''
+| '''[[National Unity (Peru)|National Unity]]'''
+| '''[[Independent Moralizing Front]]'''
+|-
+|-
+| [[File:Logo del partido Perú Posible.png|center|80x80px]]
+| [[File:APRA Peru logo.svg|center|80x80px]]
+| [[File:Logo de Unidad Nacional.svg|center|80x80px]]
+| [[File:Frente Independiente Moralizador.jpg|center|80x80px]]
+
+|-
+!style="width:160px; font-size:120%; background:{{party color|Possible Peru Electoral Alliance}}"| [[Alejandro Toledo|{{color|white|Alejandro Toledo}}]]
+! style="width:160px; font-size:120%; background:{{party color|American Popular Revolutionary Alliance}};"| [[Alan García|{{color|white|Alan García}}]]
+! style="width:160px; font-size:120%; background:#008000;"| [[Lourdes Flores|{{color|white|Lourdes Flores}}]]
+! style="width:160px; font-size:120%; background:#F08080;"| [[Fernando Olivera (politician)|{{color|white|Fernando Olivera}}]]
+|-
+| [[File:Alejandro Toledo - Jerusalem 2011.jpg|center|150x150px]]
+| [[File:Garciaalan09112006-1.jpg|center|150x150px]]
+| [[File:Medalla de Honor del Congreso a Lourdes Flores (cropped).jpg|center|150x150px]]
+| [[File:Fernando Olivera 2025.png|center|150x150px]]
+|-
+| 
+| [[President of Peru]]<br/><small>(1985–1990)</small>
+| [[Congress of the Republic of Peru|Member of Congress]]<br/><small>(1995-2000)</small>
+| [[Congress of the Republic of Peru|Member of Congress]]<br/><small>(1995-2001)</small>
+|-
+| [[Possible Peru]]
+| [[American Popular Revolutionary Alliance|Peruvian Aprista Party]]
+| [[National Unity (Peru)|National Unity]]
+| [[Independent Moralizing Front]]
+|-
+|}
+
+=== Other candidates ===
+* [[Carlos Boloña]], economist and former [[Ministry of Economy and Finance (Peru)|Minister of Economy and Finance]] (1991-1993) – [[People's Solution]]
+* [[Ciro Gálvez]], lawyer and notary head – [[Andean Renaissance]]
+* Marco Antonio Arrunátegui, economist – [[Project Country]]
+* Ricardo Noriega, lawyer and economist – [[All for Victory]]
+
+=== Voluntarily withdrawn ===
+* [[Luis Castañeda Lossio|Luis Castañeda]], lawyer and former presidential nominee – [[National Solidarity (Peru)|National Solidarity]]
+* [[Jorge Santistevan]], lawyer and first national ombudsman – [[We Are Peru|Independent Movement We Are Peru - Democratic Cause]]
+* [[Hernando de Soto (economist)|Hernando de Soto]], economist – Popular Capital
+* Víctor M. Marroquín, international lawyer – [[Youth Independent Movement]]
+* [[Martina Portocarrero]], folklore singer – [[Agricultural People's Front of Peru]]
+
+==Results==
+[[File:MapaElectoralPeru2001Regional.png|thumb|Leading candidate by region in the first round.]]
+[[File:BalotajePeru2001Regional.png|thumb|Leading candidate by region in the second round.]]
+
+===President===
+{{Election results
+|cand1=[[Alejandro Toledo]]|party1=[[Possible Peru]]|votes1=3871167|votes1_2=5548556
+|cand2=[[Alan García]]|party2=[[American Popular Revolutionary Alliance]]|votes2=2732857|votes2_2=4904929
+|cand3=[[Lourdes Flores]]|party3=[[National Unity (Peru)|National Unity]]|votes3=2576653
+|cand4=[[Fernando Olivera (politician)|Fernando Olivera]]|party4=[[Independent Moralizing Front]]|votes4=1044207
+|cand5=[[Carlos Boloña]]|party5=[[People's Solution]]|votes5=179243|color5=#6082B6
+|cand6=Ciro Gálvez|party6=[[National United Renaissance|Andean Renaissance]]|votes6=85436
+|cand7=Marco Arrunategui|party7=[[Project Country]]|votes7=79077
+|cand8=Ricardo Noriega|party8=[[All for Victory]]|votes8=33080|color8=#FFCC33
+|invalid=1662629|invalid2=1675484
+|electorate=14898435|electorate2=14898435
+|source=Nohlen
+}}
+
+===Congress===
+{{Election results
+|image=[[File:Congreso Peru elecciones 2001.svg]]
+|party1=[[Possible Peru]]|votes1=2477624|seats1=45|sc1=+16
+|party2=[[American Popular Revolutionary Alliance]]|votes2=1857416|seats2=28|sc2=+22
+|party3=[[National Unity (Peru)|National Unity]]|votes3=1304037|seats3=17|sc3=New
+|party4=[[Independent Moralizing Front]]|votes4=1034672|seats4=11|sc4=+2
+|party5=[[We Are Peru]]|votes5=544193|seats5=4|sc5=–5
+|party6=[[Cambio 90 – New Majority]]|votes6=452696|seats6=3|sc6=–49
+|party7=[[Popular Action (Peru)|Popular Action]]|votes7=393433|seats7=3|sc7=0
+|party8=[[Union for Peru]]|votes8=390236|seats8=6|sc8=+3
+|party9=[[People's Solution]]|votes9=336680|seats9=1|sc9=New|color9=#6082B6
+|party10=[[All for Victory]]|votes10=191179|seats10=1|sc10=New|color10=#FFCC33
+|party11=[[Agricultural People's Front of Peru]]|votes11=156264|seats11=0|sc11=–2
+|party12=[[Project Country]]|votes12=155572|seats12=0|sc12=New
+|party13=[[National United Renaissance|Andean Renaissance]]|votes13=127707|seats13=1|sc13=New
+|invalid=2565932
+|total_sc=0
+|electorate=14898435
+|source=Nohlen
+}}
+
+==References==
+{{reflist}}
+
+{{Peruvian elections}}
+
+[[Category:Parliamentary elections in Peru]]
+[[Category:2001 elections in South America|Peru]]
+[[Category:2001 in Peru|General]]
+[[Category:Presidential elections in Peru]]
+[[Category:April 2001 in South America|Peru]]
+[[Category:June 2001 in South America|Peru]]
+[[Category:Democratization]]
+
+
+{{Peru-election-stub}}

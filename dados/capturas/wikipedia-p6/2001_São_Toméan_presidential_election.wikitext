@@ -1,0 +1,65 @@
+{{short description|none}}
+{{Infobox election
+| country = São Tomé and Príncipe
+| type = presidential
+| ongoing = no
+| election_date = 29 July 2001
+| previous_election = 1996 São Toméan presidential election
+| previous_year = 1996
+| next_election = 2006 São Toméan presidential election
+| next_year = 2006
+
+| registered        = 67,374
+| opinion_polls     = 
+| turnout           = 70.70
+
+| image1 = Fradique de Menezes, 2001.jpg
+| candidate1 = [[Fradique de Menezes]]
+| party1 = Independent Democratic Action
+| popular_vote1 = '''25,896'''
+| percentage1 = '''55.18%'''
+
+| image2 = Manuel_Pinto_da_Costa_2014_(cropped).jpg
+| candidate2 = {{nowrap|[[Manuel Pinto da Costa]]}}
+| party2 = Movement for the Liberation of São Tomé and Príncipe – Social Democratic Party
+| popular_vote2 = 18,762
+| percentage2 = 39.98%
+
+|  map_image = 2001 São Tomé and Príncipe presidential election - Results by district.svg
+| map_caption = Results by district
+
+| title = [[President of São Tomé and Príncipe|President]]
+| before_election = [[Miguel Trovoada]]
+| before_party = Independent Democratic Action
+| after_election = [[Fradique de Menezes]]
+| after_party = Independent Democratic Action
+}}
+
+{{Politics of São Tomé and Príncipe}}
+
+Presidential elections were held in [[São Tomé and Príncipe]] on 29 July 2001. They were the nation's third presidential elections since the introduction of [[multi-party]] politics in 1990.  Incumbent [[Miguel Trovoada]] was constitutionally barred from participating in the election having served the maximum of two five year terms. The two top contenders for the position were [[Fradique de Menezes]], a wealthy businessman, and [[Manuel Pinto da Costa]], former President and founder of the former single-party, the [[Movement for the Liberation of São Tomé and Príncipe/Social Democratic Party|MLSTP/PSD]]. The elections, deemed free and fair by international observers, were won in the first round by Menezes. He was sworn in as the third president of São Tomé and Príncipe on 3 September 2001.  Voter turnout was 70.7%.
+
+==Results==
+{{Election results
+|cand1=[[Fradique de Menezes]]|party1=[[Independent Democratic Action]]|votes1=25896
+|cand2=[[Manuel Pinto da Costa]]|party2=[[Movement for the Liberation of São Tomé and Príncipe/Social Democratic Party|MLSTP/PSD]]|votes2=18762
+|cand3=[[Carlos Tiny]]|party3=Independent|votes3=1532
+|cand4=Victor Monteiro|party4=Independent|votes4=410
+|cand5=[[Francisco Fortunato Pires]]|party5=Independent|votes5=332
+|invalid=703
+|electorate=67374
+|source=[http://africanelections.tripod.com/st.html African Election Database]
+}}
+
+==References==
+{{reflist}}
+
+{{São Tomé and Príncipe elections}}
+
+[[Category:Presidential elections in São Tomé and Príncipe]]
+[[Category:2001 elections in Africa|Sao Tome]]
+[[Category:2001 in São Tomé and Príncipe|Presidential election]]
+[[Category:July 2001 in Africa|São Toméan presidential election]]
+
+{{SaoTomePrincipe-stub}}
+{{Africa-election-stub}}

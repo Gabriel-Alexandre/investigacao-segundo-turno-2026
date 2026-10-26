@@ -1,0 +1,169 @@
+{{short description|none}}
+{{use dmy dates|date=January 2022}}
+{{Infobox election
+| country = El Salvador
+| registered = 2,737,743
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = Presidential
+| turnout = 52.27% (first round) {{decrease}} 2.43[[percentage point|pp]]<br />45.51% (second round)
+| previous_election = 1989 Salvadoran presidential election
+| previous_year = 1989
+| next_election = 1999 Salvadoran presidential election
+| next_year = 1999
+| election_date = 20 March 1994 (first round)<br />24 April 1994 (second round)
+| image1 = {{CSS image crop|Image = Former Presidents and First Ladies of El Salvador.jpg|bSize = 550|cWidth = 120|cHeight = 150|oTop = 100|oLeft = 170|Location = center}}
+| nominee1 = '''[[Armando&nbsp;Calderón&nbsp;Sol]]'''
+| party1 = Nationalist Republican Alliance
+| running_mate1 = [[Enrique Borgo Bustamante]]
+| popular_vote1 = '''818,264'''
+| percentage1 = '''68.35%'''
+| image2 = Ruben Zamora at Interpeace Partners Forum.jpg
+| nominee2 = [[Rubén Zamora]]
+| party2 = Farabundo Martí National Liberation Front 
+| running_mate2 = [[Francisco Roberto Lima Rivera]]
+| popular_vote2 = 378,980	
+| percentage2 = 31.65%
+| title = President
+| map_image = {{switcher |[[File:Elecciones presidenciales de El Salvador de 1994 - Resultado por Departamento (primera vuelta).svg|300px]] |First round results by department|[[File:Elecciones presidenciales de El Salvador de 1994 - Resultado por Departamento (segunda vuelta).svg|300px]] |Second round results by department|default=2}}
+| before_election = [[Alfredo Cristiani]]
+| before_party = Nationalist Republican Alliance
+| after_election = [[Armando Calderón Sol]]
+| after_party = Nationalist Republican Alliance
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+| previous_election = [[1991 Salvadoran legislative election|1991]]
+| next_election = [[1997 Salvadoran legislative election|1997]]
+| election_date = 20 March 1994
+| seats_for_election = All 84 seats in the [[Legislative Assembly of El Salvador|Legislative Assembly]]
+| majority_seats = 43
+| noleader = yes
+| party1 = Nationalist Republican Alliance
+| leader1 = 
+| percentage1 = 45.03
+| seats1 = 39
+| last_election1 = 39
+| party2 = [[Farabundo Martí National Liberation Front|FMLN]]
+| leader2 = 
+| percentage2 = 21.39
+| seats2 = 21
+| last_election2 = New
+| party3 = Christian Democratic Party (El Salvador)
+| leader3 = 
+| percentage3 = 17.87
+| seats3 = 18
+| last_election3 = 26
+| party4 = National Coalition Party (El Salvador)
+| leader4 = 
+| percentage4 = 6.21
+| seats4 = 4
+| last_election4 = 9
+| party5 = Democratic Convergence (El Salvador)
+| leader5 = 
+| percentage5 = 4.45
+| seats5 = 1
+| last_election5 = 8
+| party6 = Movement of Unity
+| leader6 = 
+| percentage6 = 2.49
+| seats6 = 1
+| last_election6 = New
+| map                = Elecciones legislativas de El Salvador de 1994 - Resultados por Departamento.svg
+| map_caption        = Results by constituency
+}}}}}}
+
+General elections were held in [[El Salvador]] on 20 March 1994, with a second round of the presidential elections taking place on 24 April. The president, vice president, 84 members of the National Assembly, and 262 mayors, were all up for election this cycle.<ref name="Registration Disputes">{{Cite news |last=Farah |first=Douglas |date=1994-03-18 |title=VOTER REGISTRATION DISPUTES SURFACE IN SALVADORAN ELECTION |url=https://www.washingtonpost.com/archive/politics/1994/03/18/voter-registration-disputes-surface-in-salvadoran-election/396d91a1-a295-40ff-8f99-871851210d28/ |access-date=2026-09-12 |url-access=registration |work=[[The Washington Post]] |issn=0190-8286}}</ref>
+
+[[Armando Calderón Sol]] of the [[Nationalist Republican Alliance]] won the presidential elections, whilst his party also won the legislative elections. Voter turnout was 52.27% in the first round of the presidential elections and 45.51% in the second, whilst it was 53.08% for the legislative election.<ref name="Memoria de Labores de las Elecciones de 1994">{{cite web|url=https://www.tse.gob.sv/documentos/memoria-de-elecciones/memoria-elecciones-1994.pdf|title=Memoria de Labores de las Elecciones de 1994|agency=Tribunal Supremo Electoral|date=2022-02-14|access-date=2022-03-10}}</ref>
+
+==Background==
+This marked the first election in El Salvador since the signing of a peace agreement with the government and the [[Farabundo Martí National Liberation Front]], a former [[Guerrilla warfare|guerrilla group]] that morphed into a political party after the agreement was signed.<ref name="Ghost">{{Cite news |last=Farah |first=Douglas |date=1994-03-17 |title=A Ghost In Salvador's Elections |url=https://www.washingtonpost.com/archive/politics/1994/03/17/a-ghost-in-salvadors-elections/e69818a7-6e43-4252-b9b4-0786049eaaf4/ |access-date=2026-09-12 |work=[[The Washington Post]] |issn=0190-8286}}</ref> A new electoral register was created after the signing of the peace agreement, in which roughly 780,000 individuals signed up to vote, which required the submission of a birth certificate or a duplicate for eligibility purposes. Of those individuals, around 74,000 of them did not receive voter registration cards. UN election observers reported that there were multiple cases of authorities withholding cameras to take pictures for registration cards in areas that generally supported the Farabundo Marti National Liberation Front. They also noted instances of mayors charging fees to duplicate lost birth certificates.<ref name="Registration Disputes"/>
+
+[[Alfredo Cristiani]], who had served as president under the [[Nationalist Republican Alliance]] party, was ineligible for re-election, so Calderón Sol, the erstwhile mayor of [[San Salvador]], became the nominee for the party. During this election, Calderón Sol was complimentary of former party leader [[Roberto D'Aubuisson]], who founded the Nationalist Republican Alliance on anti-communist principles, while also seeking it expand its appeal by rebranding as a more mainstream conservative party. Explaining his approach, Calderón Sol said that "we are faithful to our past in the defense of free enterprise, a market economy, private property and individual liberties. But we use a different rhetoric, softer, more profound, easier for other groups to understand."<ref name="Ghost"/>
+
+The [[International Foundation for Electoral Systems]] (IFES) conducted oversight on both the 20 March 1994 general election and later the 24 April 1994 presidential run-off election,<ref name="IFES">{{Cite web |date=1994-08-07 |title=Election Observation El Salvador, March 20 - April 24, 1994 |url=https://www.ifes.org/publications/election-observation-el-salvador-march-20-april-24-1994 |access-date=2026-09-12 |website=[[International Foundation for Electoral Systems]]}}</ref> which was triggered after no candidate exceeded the 50% threshold.<ref>{{Cite web |last=Wilkinson |first=Tracy |title=Rightist Gets Landslide Win in El Salvador |url=https://www.latimes.com/archives/la-xpm-1994-04-25-mn-50274-story.html |access-date=2026-09-12 |website=[[Los Angeles Times]]}}</ref> The IFES wrote in their report that the voting process was completed in  an "orderly, peaceful and transparent fashion which permitted the popular will of the Salvadoran people to be expressed", while also recognizing deficiencies in the "logistical organization of the elections along with problems with the electoral registry." They believed that there was an insufficient number of voting centers, resulting in difficulties in voters finding their names on the registry. The IFES also found shortcomings in voting center accessibility, which they attributed to inadequate public transportation and large distances between certain citizens and their polling places. 16,000 voting center officials received training for the election, of which 5,000 of them worked during election day.<ref name="IFES"/>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Armando Calderón Sol]]|vp1=[[Enrique Borgo Bustamante]]|party1=[[Nationalist Republican Alliance]]|votes1=651632|votes1_2=818264
+|cand2=[[Rubén Zamora]]|vp2=[[Francisco Roberto Lima Rivera]]|party2=[[Farabundo Martí National Liberation Front|FMLN]]–CD|votes2=331629|votes2_2=378980
+|cand3=Fidel Chávez Mena|vp3=Atilio Vieytez|party3=[[Christian Democratic Party (El Salvador)|Christian Democratic Party]]|votes3=215936
+|cand4=Roberto García Escobar|vp4=Roberto Marchesini|party4=[[National Coalition Party (El Salvador)|National Conciliation Party]]|votes4=70854
+|cand5=Jorge Martínez|vp5=Arístides Escobar Benítez|party5=Movement of Unity|votes5=31925
+|cand6=Edgardo Engelhard|vp6=José Roberto Rivas Iglesias|party6=Movement of National Solidarity|votes6=13959|color6=lightgreen
+|cand7=[[Rina Victoria Escalante]]|vp7=Edgar Saúl Romero Sánchez|party7=Authentic Democratic Christian Movement|votes7=10901
+|invalid=104199|invalid2=48783
+|electorate=2737743|electorate2=2737743
+|source=[https://www.tse.gob.sv/documentos/memoria-de-elecciones/memoria-elecciones-1994.pdf TSE], [https://www.tse.gob.sv/laip_tse/index.php/estadisticas-registro-electoral?download=148:estadisticos-del-registro-electoral-1994&start=30 TSE]
+}}
+
+===Legislative Assembly===
+{{Election results
+|image=[[File:1994 Salvadoran legislative election.svg]]
+|party1=[[Nationalist Republican Alliance]]|votes1=605775|seats1=39|sc1=0
+|party2=[[Farabundo Martí National Liberation Front]]|votes2=287811|seats2=21|sc2=New
+|party3=[[Christian Democratic Party (El Salvador)|Christian Democratic Party]]|votes3=240451|seats3=18|sc3=–8
+|party4=[[National Coalition Party (El Salvador)|National Conciliation Party]]|votes4=83520|seats4=4|sc4=–5
+|party5=[[Democratic Convergence (El Salvador)|Democratic Convergence]]|votes5=59843|seats5=1|sc5=–7
+|party6=[[Movement of Unity]]|votes6=33510|seats6=1|sc6=New
+|party7=Movement of National Solidarity|votes7=12827|seats7=0|sc7=New|color7=lightgreen
+|party8=[[Authentic Democratic Christian Movement]]|votes8=12109|seats8=0|sc8=–1
+|party9=National Revolutionary Movement|votes9=9431|seats9=0|sc9=New|color9=#FFF000
+|invalid=108022
+|total_sc=0
+|electorate=2737743
+|source=Nohlen,<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'' {{ISBN|978-0-19-928357-6}}</ref> [https://www.tse.gob.sv/laip_tse/index.php/estadisticas-registro-electoral?download=148:estadisticos-del-registro-electoral-1994&start=30 TSE]
+}}
+
+===Municipalities===
+{{Election results
+|image=
+|party1=[[Nationalist Republican Alliance]]|votes1=|seats1=207|sc1=
+|party2=[[Christian Democratic Party (El Salvador)|Christian Democratic Party]]|votes2=|seats2=29|sc2=
+|party3=[[Farabundo Martí National Liberation Front]]|votes3=|seats3=13|sc3=New
+|party4=[[National Coalition Party (El Salvador)|National Conciliation Party]]|votes4=|seats4=10|sc4=
+|party5=[[Farabundo Martí National Liberation Front]]–[[Democratic Convergence (El Salvador)|Democratic Convergence]]|votes5=|seats5=2|sc5=
+|party6=[[Authentic Democratic Christian Movement]]|votes6=|seats6=1|sc6=
+|party7=[[Movement of Unity]]|votes7=|seats7=0|sc7=New
+|party8=Movement of National Solidarity|votes8=|seats8=0|sc8=New|color8=lightgreen
+|party9=National Revolutionary Movement|votes9=|seats9=0|sc9=New|color9=#FFF000
+|invalid=
+|total_sc=0
+|electorate=2737743
+|source=Supreme Electoral Court<ref>{{cite web|url=https://www.tse.gob.sv/documentos/memorias-de-elecciones/memoria-elecciones-1994.pdf|title=Memoria Anual de Labores – Correspondiente a 1994 y Memoria de Labores de las Elecciones de 1994|trans-title=Annual Memory of Labors – Correspondence to 1994 and Memory of Labors of the 1994 Elections|language=es|work=[[Supreme Electoral Court (El Salvador)|Supreme Electoral Court]]|location=[[San Salvador]], [[El Salvador]]|date=July 1994|page=51}}</ref>
+}}
+
+===PARLACEN===
+{{Election results
+|image=
+|party1=[[Nationalist Republican Alliance]]|votes1=605775|seats1=9|sc1=New
+|party2=[[Farabundo Martí National Liberation Front]]|votes2=287811|seats2=4|sc2=New
+|party3=[[Christian Democratic Party (El Salvador)|Christian Democratic Party]]|votes3=240451|seats3=4|sc3=New
+|party4=[[National Coalition Party (El Salvador)|National Conciliation Party]]|votes4=83520|seats4=1|sc4=New
+|party5=[[Democratic Convergence (El Salvador)|Democratic Convergence]]|votes5=59843|seats5=1|sc5=New
+|party6=[[Movement of Unity]]|votes6=33510|seats6=1|sc6=New
+|party7=Movement of National Solidarity|votes7=12827|seats7=0|sc7=New|color7=lightgreen
+|party8=[[Authentic Democratic Christian Movement]]|votes8=12109|seats8=0|sc8=New
+|party9=National Revolutionary Movement|votes9=9431|seats9=0|sc9=New|color9=#FFF000
+|invalid=
+|total_sc=0
+|electorate=2737743
+|source=Supreme Electoral Court<ref>{{cite web|url=https://www.tse.gob.sv/documentos/memorias-de-elecciones/memoria-elecciones-1994.pdf|title=Memoria Anual de Labores – Correspondiente a 1994 y Memoria de Labores de las Elecciones de 1994|trans-title=Annual Memory of Labors – Correspondence to 1994 and Memory of Labors of the 1994 Elections|language=es|work=[[Supreme Electoral Court (El Salvador)|Supreme Electoral Court]]|location=[[San Salvador]], [[El Salvador]]|date=July 1994|page=37}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+{{Portal bar|El Salvador|Politics}}
+{{Salvadoran elections}}
+{{Authority control}}
+
+[[Category:1994 elections in Central America|El Salvador]]
+[[Category:1994 in El Salvador|General]]
+[[Category:Presidential elections in El Salvador]]
+[[Category:Legislative elections in El Salvador]]
+[[Category:March 1994 in North America|El Salvador]]
+[[Category:April 1994 in North America|El Salvador]]

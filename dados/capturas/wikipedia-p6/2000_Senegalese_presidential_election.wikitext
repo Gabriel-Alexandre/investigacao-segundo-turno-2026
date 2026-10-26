@@ -1,0 +1,63 @@
+{{short description|none}} <!-- "none" is preferred when the title is sufficiently descriptive -->
+{{Use dmy dates|date=August 2023}}
+{{Infobox election
+| country = Senegal
+| type = presidential
+| election_date = 27 February 2000 (first round)<br>19 March 2000 (second round)
+| previous_election = 1993 Senegalese presidential election
+| previous_year = 1993
+| next_election = 2007 Senegalese presidential election
+| next_year = 2007  
+| turnout = 62.23% (first round) {{increase}} 10.77[[percentage point|pp]] <br />60.75% (second round)
+
+| image1 = Abdoulaye Wade 2011.jpg
+| candidate1 = '''[[Abdoulaye Wade]]'''
+| party1 = Senegalese Democratic Party
+| popular_vote1 = '''969,332'''
+| percentage1 = '''58.49%'''
+
+| image2 = Abdou Diouf 2008-08-27.jpg
+| candidate2 = [[Abdou Diouf]]
+| party2 = Socialist Party of Senegal
+| popular_vote2 = 687,969
+| percentage2 = 41.51%
+
+| map_image = 2000 Senegalese presidential election.svg
+| map_caption = First round results by region<br/>'''Wade:''' {{legend0|#6795cb|40-50%}}&nbsp;&nbsp;&nbsp;&nbsp;'''Diouf:''' {{legend0|#33ff3d|40-50%}} {{legend0|#00eb0c|50-60%}}
+
+| title = [[President of Senegal|President]]
+| before_election = [[Abdou Diouf]]
+| before_party = Socialist Party of Senegal
+| after_election = [[Abdoulaye Wade]]
+| after_party = Senegalese Democratic Party
+}}{{Politics of Senegal}}
+
+Presidential elections were held in [[Senegal]] on 27 February 2000, with a second round taking place on 19 March after no candidate won over 50% of votes in the first round. Although incumbent President [[Abdou Diouf]] of the [[Socialist Party of Senegal|Socialist Party]] won the most votes in the first round, he was defeated by long-term opposition leader [[Abdoulaye Wade]] of the [[Senegalese Democratic Party]] in the second round,<ref name=AED>[http://africanelections.tripod.com/sn.html Elections in Senegal] {{Webarchive|url=https://web.archive.org/web/20180831074737/http://africanelections.tripod.com/sn.html |date=31 August 2018 }} African Elections Database</ref> marking the first time that the Socialist Party and its predecessors had lost power since independence. Voter turnout was 62% in the first round and 61% in the second.
+
+==Results==
+{{Election results
+|cand1=[[Abdou Diouf]]|party1=[[Socialist Party of Senegal|Socialist Party]]|votes1=690917|votes1_2=687969
+|cand2=[[Abdoulaye Wade]]|party2=[[Senegalese Democratic Party]]|votes2=518740|votes2_2=969332
+|cand3=[[Moustapha Niasse]]|party3=[[Alliance of the Forces of Progress (Senegal)|Alliance of the Forces of Progress]]|votes3=280538
+|cand4=[[Djibo Leïty Kâ]]|party4=[[Union for Democratic Renewal (Senegal)|Union for Democratic Renewal]]|votes4=118484
+|cand5=[[Iba Der Thiam]]|party5=[[Convention of Democrats and Patriots]]|votes5=20164
+|cand6=Ousseynou Fall|party6={{ill|Republican Party of Senegal|fr|Parti républicain sénégalais}}|votes6=18604
+|cand7=Cheikh Abdoulaye Dièye|party7=[[Front for Socialism and Democracy/Benno Jubël]]|votes7=16211
+|cand8=Mademba Sock|party8={{ill|Rally of African Labourers–Senegal|fr|Rassemblement des travailleurs africains - Sénégal}}|votes8=9326
+|invalid=23400|invalid2=10474
+|electorate=2725987|electorate2=2745239
+|source=[https://africanelections.tripod.com/sn.html#2000_Presidential_Election African Elections Database], [https://conseilconstitutionnel.sn/decision-sur-les-affaires-n-4-a-11-e-2000-du-10-mars-2000-affaires-n-4-a-11-e-2000/ CC (first round)], [https://conseilconstitutionnel.sn/dec-n-13-e-2000-du-25-mars-2000-affaire-n-13-e-2000/ (second round)]
+}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite journal |doi=10.1353/jod.2001.0047 |last=Galvan |first=Dennis Charles |title=Political Turnover and Social Change in Senegal |journal=[[Journal of Democracy]] |volume=12 |issue=3 |year=2001 |pages=51–62 |s2cid=155083589 }}
+*{{cite book |title=Democracy in Senegal: Tocquevillian Analytics in Africa |first=Sheldon |last=Gellar |location=New York |publisher=Palgrave Macmillan |year=2005 |isbn=1-4039-7026-2 }}
+
+{{Senegalese elections}}
+
+[[Category:2000 elections in Africa|Senegal]]
+[[Category:Presidential elections in Senegal]]
+[[Category:2000 in Senegal|Presidential]]

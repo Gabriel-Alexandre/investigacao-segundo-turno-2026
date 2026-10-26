@@ -1,0 +1,68 @@
+{{Short description|Election of Nicéphore Soglo}}
+{{Infobox election
+| country = Benin
+| type = presidential
+| election_date = 10 March 1991 (first round)<br>24 March 1991 (second round)
+| previous_election = 1970 Dahomeyan presidential election
+| previous_year = 1970
+| next_election = 1996 Beninese presidential election
+| next_year = 1996
+
+| image1 = Nicéphore Soglo 1991.jpg
+| candidate1 = [[Nicéphore Soglo]]
+| party1 = [[Union for the Triumph of Democratic Renewal|UTRD]]
+| popular_vote1 = 881,205
+| percentage1 = 67.54%
+| color1 = 000000
+
+| image2 = Visit of Mathieu Kérékou, President of Benin, to the EC - 1999 (cropped).jpg
+| candidate2 = [[Mathieu Kérékou]]
+| party2 = Independent politician
+| popular_vote2 = 423,501
+| percentage2 = 32.46%
+
+| map_image = {{switcher |[[File:1991 Beninese presidential election - Results by department (First round).svg|275px]] |First round results by region|[[File:1991 Beninese presidential election - Results by department (Second round).svg|275px]] |Second round results by department|default=2}} 
+
+| title = [[President of Benin|President]]
+| before_election = [[Mathieu Kérékou]]
+| before_party = Independent politician
+| after_election = [[Nicéphore Soglo]]
+| after_party = [[Union for the Triumph of Democratic Renewal|UTRD]]
+}}{{Politics of Benin}}
+
+Presidential elections were held in [[Benin]] in March 1991, the first direct presidential elections since [[1970 Dahomeyan presidential election|1970]]. Elections under the military regime of [[Mathieu Kérékou]] had been indirect, with the president chosen by the National Assembly.
+
+The first round, held on 10 March, saw no candidate receive more than 37% of the vote.  Prime Minister [[Nicéphore Soglo]] led the field, with Kérékou in second place.  The second round on 24 March resulted in a decisive victory for Soglo, with almost two-thirds of the vote. Voter turnout was 56% in the first round and 64% in the second.<ref>[[Dieter Nohlen]], Michael Krennerich & Bernhard Thibaut (1999) ''Elections in Africa: A data handbook'', p94 {{ISBN|0-19-829645-2}}</ref>
+
+The elections marked the first instance in post-colonial Francophone Africa that an opposition candidate won a free election.
+
+==Results==
+{{Election results
+|cand1=[[Nicéphore Soglo]]|party1=[[Union for the Triumph of Democratic Renewal]]|votes1=415262|votes1_2=881205|color1=black
+|cand2=[[Mathieu Kérékou]]|party2=Independent|votes2=310978|votes2_2=423501
+|cand3=[[Albert Tévoédjrè]]|party3=[[Our Common Cause]]|votes3=162498
+|cand4=[[Bruno Amoussou]]|party4=[[Social Democratic Party (Benin)|Social Democratic Party]]|votes4=65999
+|cand5=[[Adrien Houngbédji]]|party5=[[Democratic Renewal Party (Benin)|Democratic Renewal Party]]|votes5=51888
+|cand6=[[Moise Mensah]]|party6=Independent|votes6=39250
+|cand7=[[Sévérin Adjovi]]|party7=[[Liberal Democrats' Rally for National Reconstruction – Vivoten|RDLRN–Vivoten]]|votes7=29854
+|cand8=[[Bertin Borna]]|party8=Independent|votes8=18484
+|cand9=[[Idelphonse Lemon]]|party9=Independent|votes9=11297
+|cand10=[[Assani Fasassi]]|party10=Independent|votes10=10334
+|cand11=[[Gatien Houngbédji]]|party11=Democratic Union for Economic and Social Development|votes11=10210
+|cand12=[[Robert Dossou]]|party12=[[Alliance for Social Democracy]]|votes12=9551
+|cand13=[[Thomas Goudou]]|party13=Builders and Managers of Freedom and Development|votes13=8008
+|invalid=18902
+|invalid2=10417
+|electorate=2064311
+|electorate2=2052638
+|source=[http://africanelections.tripod.com/bj.html African Elections Database], Nohlen ''et al.''
+}}
+
+==References==
+{{reflist}}
+
+{{Beninese elections}}
+
+[[Category:Presidential elections in Benin]]
+[[Category:1991 elections in Africa|Benin]]
+[[Category:1991 in Benin|Presidential]]

@@ -4,22 +4,20 @@
 
 ## Em uma frase
 
-Pré-registro escrito e publicado antes de qualquer conta por seção; dados da noite guardados; coleta dos boletins, RDV e logs do 2º turno e dos boletins do 1º turno em andamento.
+Investigação completa: pré-registro antes das contas (`d20ce80`), coleta dos dois turnos e de 2022 por seção, os dois caminhos (defesa e acusação) com veredito por teste, a probabilidade, outros países, validação independente (tudo passou), revisão adversarial, relatório e gráficos. O vídeo e o que dizer nele são decisão do autor.
 
-## O que está pronto
+## Onde está cada coisa
 
-| Peça | Estado |
+| Peça | Onde |
 |---|---|
-| Pré-registro com os dois caminhos (D e A) e o bloco P | ✅ `docs/PRE_REGISTRO.md` |
-| Dados da noite (2.554 versões, manifesto, batidas, contas parciais, documentos e o histórico git do projeto da noite em `.bundle`) | ✅ `dados/noite/` |
-| Coletor dos dois turnos (pleitos 3220 e 3221) | ✅ testado em 40 seções de RR; coleta completa rodando |
+| Regras e emendas | `docs/PRE_REGISTRO.md` (§9: 3 emendas) |
+| Resultado completo | `RELATORIO.md`, `RESUMO_SIMPLES.md`, `docs/LEITURA_DA_IA.md` |
+| Cada rodada | `docs/RODADAS.md` |
+| Números | `resultados/*.json` e `.csv` |
+| Gráficos do vídeo | `resultados/figuras/video/` |
+| Outros países | `docs/OUTROS_PAISES.md` |
+| Como refazer | `docs/REPLICAR.md` · dados no disco: `docs/DADOS_LOCAIS.md` |
 
-## Rodadas
+## Limites declarados
 
-- Rodada 1 (26/10): bloco P pelo Brasil, a curva da noite. `docs/RODADAS.md`.
-
-## A seguir
-
-1. Terminar a coleta (2º turno ~5 h; 1º turno ~2,5 h) e gravar o `dados/MANIFESTO.json`.
-2. Bloco P (não depende dos boletins): histórico do TSE de 1994 a 2022, pesquisas, Polymarket.
-3. Blocos D e A sobre as seções.
+Inferência ecológica (o teste de 2022 acertou um de dois grupos); sem verificação da assinatura digital; sem acesso à lista de quem votou em cada seção; revisão adversarial feita pela mesma IA.

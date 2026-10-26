@@ -1,0 +1,1373 @@
+{{short description|none}}
+{{Use dmy dates|date=October 2025}}
+{{Infobox election
+| country = Bolivia
+| flag_year = state
+| previous_election = 2020 Bolivian general election
+| previous_year = 2020
+| next_election = 2030 Bolivian general election
+| next_year = ''2030''
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_name = Presidential election
+| turnout = 86.95% (first round) {{decrease}} 1.47[[Percentage point|pp]]<br> 85.32% (second round) {{decrease}} 1.63pp
+| election_date = 17 August 2025 (first round)<br>19 October 2025 (second round)
+
+| image1 = Rodrigo Paz enero 2026.jpg
+| nominee1 = '''[[Rodrigo Paz]]'''
+| party1 = [[Christian Democratic Party (Bolivia)|PDC]]
+| alliance1_name = no
+| alliance1 = –
+| colour1 = {{party color|Christian Democratic Party (Bolivia)}}
+| running_mate1 = '''[[Edmand Lara]]'''
+| popular_vote1 = '''3,519,534'''
+| percentage1 = '''54.96%'''
+
+| image2 = Jorge Quiroga 2020 (cropped).jpg
+| nominee2 = [[Jorge Quiroga]]
+| party2 = Independent
+| alliance2 = Libre (Bolivia)
+| colour2 = {{party color|Libre (Bolivia)}}
+| running_mate2 = [[Juan Pablo Velasco]]
+| popular_vote2 = 2,884,661
+| percentage2 = 45.04%
+
+| map_image = {{Switcher
+|[[File:Mapa Electoral de Bolivia por Departamentos 2025.png|300px]]
+|First round results by department
+|[[File:Mapa Electoral de Bolivia por Departamentos 2025 Segunda Vuelta.png|300px]]
+|Second round results by department
+|[[File:Elecciones Generales de Bolivia 2025 - Resultado por municipios.png|300px]]
+|First round results by municipality
+|[[File:Elecciones Generales de Bolivia 2025 - Resultado por municipios - Segunda Vuelta.png|300px]]
+|Second round results by municipality
+| default = 2
+}}
+
+| title = [[President of Bolivia|President]]
+| before_election = [[Luis Arce]]
+| before_party = Movimiento al Socialismo
+| after_election = [[Rodrigo Paz]]
+| after_party = Christian Democratic Party (Bolivia)
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| noleader = yes
+| nopercentage = yes
+| seats_for_election = All 130 seats in the [[Chamber of Deputies (Bolivia)|Chamber of Deputies]]
+| majority_seats = 66
+| election_date = 17 August 2025
+
+| party1 = Christian Democratic Party (Bolivia)
+| last_election1 = <!--How many seats did PDC win within Creemos?-->
+| seats1 = 49
+
+| party2 = Libre (Bolivia)
+| last_election2 = <!-- How many seats did FRI win within CC?-->
+| seats2 = 39
+
+| party3 = [[Unity (Bolivia)|Unity]]
+| last_election3 = New
+| seats3 = 26
+
+| party4 = Popular Alliance (Bolivia)
+| last_election4 = New
+| seats4 = 8
+
+| party5 = APB Súmate
+| last_election5 = New
+| seats5 = 5
+
+| party6 = Movimiento al Socialismo
+| last_election6 = 75
+| seats6 = 2
+
+| party7 = [[Yuqui Bia Recuate Indigenous Council|BIA-YUQUI]]
+| last_election7 = 0
+| seats7 = 1
+| color7 = #EF84AE
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Senators
+| noleader = yes
+| seats_for_election = All 36 seats in the [[Chamber of Senators (Bolivia)|Chamber of Senators]]
+| majority_seats = 19
+| election_date = 17 August 2025
+
+| party1 = Christian Democratic Party (Bolivia)
+| percentage1 = 32.15
+| last_election1 = <!--How many seats did PDC win within Creemos?-->
+| seats1 = 16
+
+| party2 = Libre (Bolivia)
+| percentage2 = 26.68
+| last_election2 = <!-- How many seats did FRI win within CC?-->
+| seats2 = 12
+
+| party3 = [[Unity (Bolivia)|Unity]]
+| last_election3 = New
+| percentage3 = 19.85
+| seats3 = 7
+
+| party4 = APB Súmate
+| percentage4 = 6.64
+| last_election4 = New
+| seats4 = 1
+
+}}}}}}
+}}
+
+General elections were held in [[Bolivia]] on 17 August 2025 to elect the [[President of Bolivia|president]], [[Vice President of Bolivia|vice president]], and all members of the [[Plurinational Legislative Assembly]]. Incumbent president [[Luis Arce]] of the ruling [[Movimiento al Socialismo]] (MAS-IPSP) did not seek reelection, amid internal party divisions and widespread dissatisfaction over shortages of essential goods. No candidate secured a majority in the presidential election, leading to a [[Two-round system|runoff]] on 19 October 2025 between Senator [[Rodrigo Paz]] of the [[Christian Democratic Party (Bolivia)|Christian Democratic Party]] (PDC) and former president [[Jorge Quiroga]] of [[Libre (Bolivia)|Libre]]. Paz won with 55.0% of the vote, marking the first time in Bolivian history that the presidency changed hands through a runoff election and ending two decades of MAS dominance. Meanwhile, MAS retained only two seats in the [[Chamber of Deputies (Bolivia)|Chamber of Deputies]] while losing all seats in the [[Chamber of Senators (Bolivia)|Senate]].<ref name="ap-20250818">{{cite news |last=DeBre |first=Isabel |date=18 August 2025 |title=Bolivia heads to a presidential runoff as 2 decades of left-wing dominance ends |url=https://apnews.com/article/bolivia-elections-right-wing-274e22ad9f493f60669a01615d3fef65 |access-date=18 August 2025 |work=AP News}}</ref>
+
+==Background==
+{{see also|2024 Bolivian protests}}
+The election was held amid a schism within the ruling [[Movimiento al Socialismo]] (MAS) between incumbent president [[Luis Arce]] and former president [[Evo Morales]]. The former allies fell out after Arce's [[2020 Bolivian general election|election in 2020]], when Morales—returning from exile following the [[2019 Bolivian political crisis|political unrest]] triggered by his [[2019 Bolivian general election|contested reelection bid]]—sought to regain control of the party.<ref>{{Cite web |last=Meakem |first=Allison |date=2 January 2025 |title=Elections to Watch in 2025 |url=https://foreignpolicy.com/2025/01/02/top-world-elections-2025-canada-germany-ecuador-australia-poland-bolivia/ |access-date=7 April 2025 |website=Foreign Policy}}</ref> Public dissatisfaction with the Arce government was further spurred by shortages of essential goods like gasoline, diesel, food, and medicine in late 2024 and early 2025.<ref>{{Cite web |date=28 November 2024 |title='Everything is expensive!' Bolivia faces a shocking economic collapse |url=https://apnews.com/article/bolivia-fuel-crisis-economy-arce-president-gas-b43cff9dcfebdca40d35aad6911f055f |access-date=19 May 2025 |website=AP News|first1=Paola|last1=Flores|first2=Isabel|last2=DeBre}}</ref><ref>{{Cite web |last=Bueno |first=Boris |date=19 May 2025 |title=Agenda informativa: ocho organizaciones políticas inscribirán a sus binomios y a las planchas legislativas; Evo Morales también anuncia su registro |url=https://eju.tv/2025/05/agenda-informativa-ocho-organizaciones-politicas-inscribiran-a-sus-binomios-y-a-las-planchas-legislativas-evo-morales-tambien-anuncia-su-registro/ |access-date=19 May 2025 |website=eju.tv |language=es}}</ref>
+
+Morales announced his intention to run as the candidate of the Front for Victory (FPV), despite a ban from the [[Plurinational Constitutional Tribunal]] on his running for president again.<ref>{{Cite web |last=Bueno |first=Boris |date=15 March 2025 |title=Doria Medina y Tuto Quiroga aceleran la conformación de alianzas para sostener su probable candidatura por el bloque de unidad |url=https://eju.tv/2025/03/doria-medina-y-tuto-quiroga-aceleran-la-conformacion-de-alianzas-para-sostener-su-probable-candidatura-por-el-bloque-de-unidad/ |access-date=18 March 2025 |website=EJU |language=es}}</ref> The government subsequently deregistered the FPV, citing its failure to meet the mandatory 3% threshold in the previous election.<ref>{{Cite web |last=Bueno |first=Boris |date=19 May 2025 |title=Un Evo desesperado advierte ante la casi inminente inhabilitación de su candidatura |url=https://eju.tv/2025/05/un-evo-desesperado-advierte-ante-la-casi-inminente-inhabilitacion-de-su-candidatura/ |access-date=19 May 2025 |website=eju.tv |language=es}}</ref> In reaction to being barred from the race, Morales called for a boycott of the vote. From a rural compound guarded by supporters,<ref>{{cite web |last1=Safi |first1=Michael |last2=Rogero |first2=Tiago |last3=McDonagh |first3=George |last4=Block |first4=Eli |last5=Manley |first5=Ivor |last6=Yusuf |first6=Courtney |title=From president to fugitive: in the jungle hideout of Evo Morales |work=The Guardian |date=15 May 2025 |url=https://www.theguardian.com/news/audio/2025/may/15/from-president-to-fugitive-in-the-jungle-hideout-of-evo-morales |access-date=17 August 2025}}</ref> he promised to mobilize his supporters and "give battle on the streets" if a right-wing candidate won.<ref>{{cite web |title=Fears of unrest surge as Bolivia readies for its first democratic handover in over two decades |url=https://latinamericareports.com/fears-of-unrest-surge-as-bolivia-readies-for-its-first-democratic-handover-in-over-two-decades/12114/|work=Latin America Reports|first=Mark|last=Krukov|date=17 August 2025 |access-date=24 August 2025}}</ref> Right-wing figures like [[Jorge Quiroga]] vowed to arrest Morales if they won, leading rural [[Cocalero|coca unions]] such as the Six Federations to pledge a guerrilla war in his defense.<ref>{{cite news |title=Bolivia's crazy kingdom of coca |newspaper=The Economist |url=https://www.economist.com/the-americas/2025/08/14/bolivias-crazy-kingdom-of-coca |date=14 August 2025 |access-date=17 August 2025 |quote=The Six Federations is preparing to resist. María Eugenia Ledezma, its top female leader until a few months ago, says they will use guerrilla tactics against soldiers who venture into the Chapare, depriving them of sleep, then attacking with sticks and stones. She says miners have been teaching people how to make boobytraps with dynamite; sympathisers in the army have been training the young. 'Many of us, many leaders, will surely die or be imprisoned,' she says, grim-faced.}}</ref>
+
+On 14 May 2025, President Arce announced he would not seek a second term.<ref name=":2" /><ref>{{Cite web |date=14 May 2025 |title=Presidente boliviano Luis Arce anuncia que no buscará la reelección en comicios de agosto |url=https://apnews.com/article/bolivia-arce-elecciones-candidatura-morales-9c68d5a46f126da9865cdf1a2af041bc |access-date=14 May 2025 |website=AP News |language=es}}</ref> The MAS nominated government minister [[Eduardo Del Castillo]] in his place. Two days later, on 16 May, demonstrators attempting to register Morales as a candidate clashed with police in [[La Paz]].<ref name=":3">{{Cite web |date=17 May 2025 |title=Supporters of Bolivia's ex-leader Morales clash with police in push to secure his candidacy |url=https://www.cnn.com/2025/05/17/americas/bolivia-morales-supporters-clash-police-intl-hnk |access-date=17 May 2025 |website=CNN}}</ref><ref>{{Cite news |date=17 May 2025 |title=Bolivia police teargas Morales supporters protesting electoral ban |url=https://www.straitstimes.com/world/bolivia-police-teargas-morales-supporters-protesting-electoral-ban |access-date=17 May 2025 |work=The Straits Times |issn=0585-3923}}</ref>
+
+Meanwhile, right-leaning parties formed a Unity Bloc to oppose the MAS; its candidates included [[Samuel Doria Medina]] and Jorge Quiroga. Several candidates, including Quiroga and [[Chi Hyun Chung]], registered their campaigns using minor party labels, such as the [[Revolutionary Left Front (Bolivia)|Revolutionary Left Front]] (FRI) and the [[Revolutionary Nationalist Movement]] (MNR), despite the historical ideological differences between these parties and the candidates.<ref>{{Cite web |last=Molina |first=Fernando |date=28 April 2025 |title=Guerra electoral en Bolivia: partidos 'en préstamo', 13 candidatos y el resultado más incierto en 20 años |url=https://elpais.com/america/2025-04-28/guerra-electoral-en-bolivia-partidos-en-prestamo-13-candidatos-y-el-resultado-mas-incierto-en-20-anos.html |access-date=15 May 2025 |website=El País América |language=es}}</ref>
+
+==Electoral system==
+{{Main|Elections in Bolivia}}
+
+Approximately 7.9 million people were eligible to vote in the 2025 election.<ref name="apelection">{{Cite web |date=15 August 2025 |title=Bolivian voters are hungry for change — and disillusioned by the options ahead of election |url=https://apnews.com/article/bolivia-election-morales-arce-president-youth-trump-95036a915013c06c6f783899b320dc13 |access-date=15 August 2025 |website=AP News |first1=Isabel |last1=DeBre |first2=Carlos|last2=Valdez}}</ref>
+
+The President is elected through a modified [[two-round system]]. A candidate wins outright in the first round by receiving either more than 50% of the vote, or at least 40% of the vote and a lead of 10 percentage points over the nearest rival.<ref name="BBC50055725">{{Cite news|url=https://www.bbc.com/news/world-latin-america-50055725|title=Will Bolivians give Evo Morales a fourth term?|date=20 October 2019|work=BBC|access-date=21 October 2019|language=en-GB|archive-url=https://web.archive.org/web/20191020151045/https://www.bbc.com/news/world-latin-america-50055725|archive-date=20 October 2019|url-status=live}}</ref> If neither condition is met, a run-off is held between the top two candidates.<ref>{{Cite news|url=https://www.eldeber.com.bo/bolivia/El-Tribunal-Electoral-define-la-eventual-segunda-vuelta-para-el-15-de-diciembre-20190329-0103.html|title=El Tribunal Electoral define la eventual segunda vuelta para el 15 de diciembre|website=El Deber|access-date=2 April 2019|archive-url=https://web.archive.org/web/20190402132651/https://www.eldeber.com.bo/bolivia/El-Tribunal-Electoral-define-la-eventual-segunda-vuelta-para-el-15-de-diciembre-20190329-0103.html|archive-date=2 April 2019|url-status=live}}</ref>
+
+The 130 members of the [[Chamber of Deputies of Bolivia|Chamber of Deputies]] are elected through a [[mixed-member proportional representation]] (MMP) system with two votes:
+
+* 63 deputies are elected by [[First-past-the-post voting|first-past-the-post]] in single-member districts.{{cn|date=October 2025}}
+* 60 deputies are elected by [[party-list proportional representation]] from closed lists on a departmental basis, using a 3% electoral threshold.<ref name="RegimenElectoral2">{{cite web |title=Bolivia: Ley del Régimen Electoral, 30 de junio de 2010 |url=http://www.lexivox.org/norms/BO-L-N26.xhtml |access-date=10 February 2015 |website=Lexivox}}</ref> These list seats are allocated to parties proportionally based on the presidential vote, subtracting the seats they won in single-member districts to ensure overall proportionality.
+* 7 deputies are reserved for indigenous representatives and elected by ''[[usos y costumbres]]'' (customary law). A voter may only vote in one type of constituency ([[Coexistence (electoral systems)|coexistence]]).<ref name="RegimenElectoral">{{cite web|title=Bolivia: Ley del Régimen Electoral, 30 de junio de 2010|url=http://www.lexivox.org/norms/BO-L-N26.xhtml|website=Lexivox|access-date=8 October 2020}}</ref>
+* Electoral rules mandate gender parity: party lists must alternate between men and women. For single-member districts, a male candidate must have a female alternate, and vice versa, ensuring that women hold at least 50% of these seats.{{cn|date=October 2025}}
+
+The 36 members of the [[Senate of Bolivia|Chamber of Senators]]—four from each of the nine departments—are elected from closed party lists using the [[D'Hondt method]].<ref name="RegimenElectoral" /> Senate seats are also awarded based on the presidential vote.
+
+This election uses a form of the [[double simultaneous vote]], meaning a single vote is used to elect the President (first round), Deputies, and Senators simultaneously. Consequently, voters cannot [[Split-ticket voting|split their ticket]] between the executive and legislative branches, though they can vote for a different party in the single-member deputy district elections.{{cn|date=October 2025}}
+
+Voting is compulsory for all citizens over 18. Voters receive a card as proof of participation, which is required to withdraw one's salary from a bank for three months following the election.<ref>{{cite web|url=https://www.thenews.com.pk/print/343889-voting-is-compulsory-in-some-countries|title=Voting is compulsory in some countries|date=20 July 2018}}</ref> This compulsory voting is linked to a relatively high rate of invalid ballots,<ref>{{cite journal|title=Politically Unengaged, Distrusting, and Disaffected Individuals Drive the Link Between Compulsory Voting and Invalid Balloting|url=https://www.cambridge.org/core/journals/political-science-research-and-methods/article/politically-unengaged-distrusting-and-disaffected-individuals-drive-the-link-between-compulsory-voting-and-invalid-balloting/9DDF631F6ADDE16907A75C37B7FC3AFE|journal=Political Science Research and Methods|first=Shane P. |last=Singh|volume=7|issue=1|date=January 2019|pages=107–123|doi=10.1017/psrm.2017.11|s2cid=157099704|url-access=subscription}}</ref> a factor often reflected in poll percentages for "would not vote."
+
+== Candidates ==
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="3" | Candidacy
+| colspan="2" |'''Parties and<br />alliances'''
+! Experience
+! Vice Presidential candidate
+|-
+| width="1" {{party color cell|Popular Alliance (Bolivia)}}
+| [[File:Andrónico Rodríguez (cropped).jpg|70px]]
+| '''[[Andrónico Rodríguez]]'''<br />(age {{age nts|1988|11|11}})
+| '''[[Popular Alliance (Bolivia)|AP]]'''
+| {{Collapsible list
+| title = List
+| bullets = on
+| Third System Movement (MTS)
+| Socialist Revolutionary Party (PSR)
+| Autonomist Movement for Work and Stability (MATE)
+}}
+| '''[[President of the Chamber of Senators of Bolivia|President of the Chamber of Senators]] {{small|(2020–2025)}}'''<br/>[[Chamber of Senators (Bolivia)|Senator]] for [[Cochabamba Department|Cochabamba]] {{small|(2020–2025)}}
+| [[Mariana Prado]]
+|-
+| {{party color cell|Nationalist Democratic Action}}
+| [[File:Pavel Aracena Vargas en el mes de julio de 2025.jpg|99x99px]]
+| '''[[Pavel Aracena]]'''<br />(age {{age nts|1969|12|13}})
+| '''LYP-ADN'''
+| {{Collapsible list
+| title = List
+| bullets = on
+| [[Nationalist Democratic Action]] (ADN)
+| We Are All Pando (PST)
+| Autonomous Nationalities for the Change and Revolutionary Empowerment (NACER)
+}}
+| '''Engineer'''
+| Victor Hugo Núñez del Prado
+|-
+| {{party color cell|APB Súmate}}
+| [[File:Manfred Reyes Villa (cropped).jpg|70px]]
+| '''[[Manfred Reyes Villa]]'''<br />(age {{age nts|1955|4|19}})
+| '''[[APB Súmate]]'''
+| {{Collapsible list
+| title = List
+| bullets = on
+| [[APB Súmate|Autonomy for Bolivia – Súmate]] (APB Súmate)
+}}
+| '''Mayor of [[Cochabamba]] {{small|(1994–2000, 2021–present)}}'''<br/>[[Cochabamba Department#Government|Prefect of Cochabamba]] {{small|(2006–2008)}}<br/>Presidential candidate in [[2002 Bolivian general election|2002]] and [[2009 Bolivian general election|2009]]
+| Juan Carlos Medrano
+|-
+| {{party color cell|Libre (Bolivia)}}
+| [[File:Jorge Quiroga 2020 (cropped).jpg|70px]]
+| '''[[Jorge Quiroga|Jorge "Tuto" Quiroga]]'''<br />(age {{age nts|1960|5|5}})
+| [[Libre (Bolivia)|'''Libre''']]
+| {{Collapsible list
+| title = List
+| bullets = on
+| [[Revolutionary Left Front (Bolivia)|Revolutionary Left Front]] (FRI)
+| [[Social Democratic Movement]] (Demócratas)
+}}
+| '''62nd [[President of Bolivia]] {{small|(2001–2002)}}'''<br/>36th [[Vice President of Bolivia]] {{small|(1997–2001)}}<br/>[[Cabinet of Bolivia|Minister of Finance]] {{small|(1992)}}<br/>Presidential candidate in [[2005 Bolivian general election|2005]] and [[2014 Bolivian general election|2014]]
+| [[Juan Pablo Velasco]]
+|-
+| {{party color cell|Solidarity Civic Unity}}
+| [[File:Jhonny Fernández (cropped).jpg|70px]]
+| '''[[Jhonny Fernández]]'''<br />(age {{age nts|1964|3|21}})
+| '''FP'''
+| {{Collapsible list
+| title = List
+| bullets = on
+| [[Solidarity Civic Unity]] (UCS)
+| Popular Original Movement (MOP)
+}}
+| '''Mayor of [[Santa Cruz de la Sierra]] {{small|(1995–2002, 2021–present)}}'''<br/>Presidential candidate in [[2002 Bolivian general election|2002]]
+| Rosa Huanca
+|-
+| {{party color cell|Movimiento al Socialismo}}
+| [[File:Eduardo Del Castillo (cropped).png|70px]]
+| '''[[Eduardo Del Castillo]]'''<br />(age {{age nts|1988|12|27}})
+| '''[[Movimiento al Socialismo|MAS-IPSP]]'''
+| {{Collapsible list
+| title = List
+| bullets = on
+| [[Movimiento al Socialismo|Movement for Socialism – Political Instrument for the Sovereignty of the Peoples]] (MAS-IPSP)
+}}
+| '''[[Ministry of Government (Bolivia)|Minister of Government]] {{small|(2020–2025)}}'''
+| Milan Berna
+|-
+| {{party color cell|Unity (Bolivia)}}
+| [[File:Samuel Doria Medina en junio de 2024.jpg|102x102px]]
+| '''[[Samuel Doria Medina]]'''<br />(age {{age nts|1958|12|4}})
+| '''[[Unity Bloc|Unidad]]'''
+| {{Collapsible list
+| title = List
+| bullets = on
+| [[National Unity Front]] (UN)
+| [[Creemos|We Believe]] (Creemos)
+}}
+| '''[[Cabinet of Bolivia|Minister of Planning and Coordination]] {{small|(1991–1993)}}'''<br/>Presidential candidate in [[2005 Bolivian general election|2005]], [[2009 Bolivian general election|2009]] and [[2014 Bolivian general election|2014]]
+| José Luis Lupo
+|-
+| {{party color cell|Christian Democratic Party (Bolivia)}}
+| [[File:2025 Rodrigo Paz (cropped).jpg|93x93px]]
+| '''[[Rodrigo Paz]]'''<br />(age {{age nts|1967|9|22}})
+| '''[[Christian Democratic Party (Bolivia)|PDC]]'''
+| {{Collapsible list
+| title = List
+| bullets = on
+| {{ill|First The People|es|Primero la Gente (Bolivia)}} (PG)
+| [[Revolutionary Left Movement (Bolivia)|MIR]]
+| {{ill|New Ideas With Liberty|es|Nuevas Ideas con Libertad}} (NUIL)
+| {{ill|Direct Democracy (Bolivia)|es|Democracia Directa (Bolivia)|lt=Direct Democracy}} (DD)
+| [[Christian Democratic Party (Bolivia)|Christian Democratic Party]] (PDC)
+}}
+| '''[[Chamber of Senators (Bolivia)|Senator]] for [[Tarija Department|Tarija]] {{small|(2020–2025)}}'''<br/>Mayor of [[Tarija]] {{small|(2015–2020)}}<br/>[[Chamber of Deputies (Bolivia)|Deputy]] for [[Tarija Department|Tarija]] {{small|(2002–2009)}}
+| [[Edmand Lara]]
+|}
+
+=== Withdrew ===
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="3" | Candidacy
+! colspan="2" |Parties and<br/>alliances
+! Experience
+! Vice Presidential candidate
+! Withdrawal date
+|-
+| width="1" {{party color cell|New Patriotic Generation}}
+| [[File:Portrait placeholder.svg|70px]]
+| '''[[Fidel Tapia]]'''
+| '''NGP'''
+| {{Collapsible list
+| title = List
+| bullets = on
+| New Patriotic Generation (NGP)
+}}
+| None
+| Edgar Uriona Veizaga
+| 26 June 2025<ref>{{cite news |last=Franco |first=Hans |date=25 June 2025 |title=Fidel Tapia renuncia a su candidatura y deja en vilo la habilitación de Nueva Generación Patriótica |url=https://www.reduno.com.bo/noticias/fidel-tapia-renuncia-a-su-candidatura-y-deja-en-vilo-la-habilitacion-de-nueva-generacion-patriotica-2025625162552 |language=es |newspaper=Red Uno |access-date=17 July 2025}}</ref>
+|-
+| {{party color cell|National Renewal Movement (Bolivia)}}
+| [[File:Mónica Eva Copa Murga (Official Photo, 2015) Alejandra Vaca, Chamber of Senators of Bolivia.jpg|70px]]
+| '''[[Eva Copa]]'''<br />(age {{age nts|1987|1|3}})
+| '''[[National Renewal Movement (Bolivia)|MORENA]]'''
+| {{Collapsible list
+| title = List
+| bullets = on
+| [[National Renewal Movement (Bolivia)|National Renewal Movement]] (MORENA)
+}}
+| '''Mayor of [[El Alto]] {{small|(2021–present)}}'''<br/>[[President of the Chamber of Senators of Bolivia|President of the Chamber of Senators]] {{small|(2019–2020)}}<br/>[[Chamber of Senators (Bolivia)|Senator]] for [[La Paz Department (Bolivia)|La Paz]] {{small|(2015–2020)}}
+| [[Jorge Richter]]
+|28 July 2025<ref>{{Cite web |title=Eva Copa se baja a poco de las elecciones |url=https://correodelsur.com/politica/20250729/eva-copa-se-baja-a-poco-de-las-elecciones.html |access-date=29 July 2025 |website=Correo del Sur}}</ref>
+|}
+
+=== Disqualified candidates ===
+The following notable individuals were the subject of speculation or declared their intention to run but were declared ineligible by the Plurinational Constitutional Tribunal (TCP) or were otherwise unable to register as candidates.
+
+*[[Evo Morales]] ([[EVO Pueblo]]) – 65th [[President of Bolivia]] (2006–2019).<ref>{{Cite web |date=20 February 2025 |title=Evo Morales anuncia su candidatura presidencial |trans-title=Evo Morales announces his presidential candidacy |url=https://www.dw.com/es/evo-morales-anuncia-su-candidatura-presidencial-con-el-fpv/a-71692735 |access-date=22 February 2025 |website=dw.com |language=es}}</ref>
+*[[Chi Hyun Chung]] (AMAR) – Physician and presidential candidate in the [[2019 Bolivian general election]].<ref>{{cite news |date=20 May 2025 |title=Chi se presenta como candidato del PDC, pero el TSE inscribe a Rodrigo Paz |trans-title=Chi presents himself as a PDC candidate, but the TSE registers Rodrigo Paz |url=https://correodelsur.com/politica/20250519/chi-se-presenta-como-candidato-del-pdc-pero-el-tse-inscribe-a-rodrigo-paz.html |access-date=25 August 2025 |work=Correo del Sur |language=es}}</ref>
+*[[Jaime Dunn]] (NGP) – Financial adviser.<ref>{{cite news |last=Álvarez |first=David |date=11 July 2025 |title=El Tribunal Supremo Electoral de Bolivia no habilitó a Jaime Dunn como candidato presidencial |trans-title=Bolivia's Supreme Electoral Tribunal has rejected Jaime Dunn's presidential candidacy. |url=https://verifica.efe.com/tribunal-electoral-bolivia-no-habilito-a-jaime-dunn-como-candidato-presidencial/ |access-date=17 July 2025 |language=es |agency=EFE}}</ref>
+
+{{Gallery
+|File:Evo Morales 2023 cropped.jpg|{{center|65th [[President of Bolivia]]
+'''[[Evo Morales]]'''}}
+|align=center
+|mode=packed
+|height=170
+|captionstyle=
+}}
+
+=== Declined to run ===
+The following notable individuals were the subject of speculation about a potential candidacy but publicly declined to run:
+
+*[[Luis Arce]] ([[Movimiento al Socialismo|MAS-IPSP]]) – Former [[president of Bolivia]] (2020–2025). Initially considered a candidate, he later announced he would not seek re-election.<ref>{{Cite web |date=30 April 2024 |title=Luis Arce será candidato del MÁS en el 2025, sí las organizaciones lo permiten |trans-title=Luis Arce will be a candidate for MÁS in 2025, if the organizations allow it |url=https://www.bolivia.com/actualidad/politica/arce-solo-ira-a-las-elecciones-si-lo-eligen-las-organizaciones-464713 |access-date=25 September 2024 |website=Bolivia.com |language=es}}</ref><ref name=":0">{{Cite web |last=Villegas |first=Antonio |date=26 February 2025 |title=Arce rompe el silencio y se declara precandidato para los comicios presidenciales: "Hay que completar todo lo que falta por hacer" |url=https://eju.tv/2025/02/arce-rompe-el-silencio-y-se-declara-precandidato-para-los-comicios-presidenciales-hay-que-completar-todo-lo-que-falta-por-hacer/}}</ref><ref name=":2">{{Cite web |agency=Reuters |date=14 May 2025 |title=Bolivia President Arce says he will not run for re-election |url=https://theprint.in/world/bolivia-president-arce-says-he-will-not-run-for-re-election/2625204/ |access-date=14 May 2025 |website=ThePrint}}</ref>
+*[[Carlos Mesa]] ([[Civic Community|CC]]) – Former [[president of Bolivia]] (2003–2005).<ref>{{Cite web |date=21 July 2023 |title=Diputada de CC asegura que Carlos Mesa se presentará como candidato el 2025 y que busca unificar a la oposición |trans-title=CC deputy assures that Carlos Mesa will present himself as a candidate in 2025 and that he seeks to unify the opposition |url=https://lapatria.bo/2023/07/21/diputada-de-cc-asegura-que-carlos-mesa-se-presentara-como-candidato-el-2025-y-que-busca-unificar-a-la-oposicion/,%20https://lapatria.bo/2023/07/21/diputada-de-cc-asegura-que-carlos-mesa-se-presentara-como-candidato-el-2025-y-que-busca-unificar-a-la-oposicion/ |access-date=27 June 2024 |website=Periódico La Patria |language=es}}</ref><ref>{{Cite web|url=https://www.opinion.com.bo/articulo/pais/mesa-va-lider-cc-declina-candidatura-presidencial-es-rol-que-hoy-toca/20250124100950965519.html|title=Mesa no va, el líder de CC declina candidatura presidencial: 'no es el rol que hoy me toca'|date=24 January 2025|website=Opinión Bolivia}}</ref>
+*[[Luis Fernando Camacho]] ([[Creemos]]) – Governor of Santa Cruz (2021–present). Was in prison during the election.<ref>{{Cite web|url=https://eju.tv/2024/12/camacho-trabaja-para-que-precandidatos-dialoguen-con-miras-a-los-comicios-de-2025-segun-diputado/|title=Camacho trabaja para que precandidatos dialoguen con miras a los comicios de 2025, según diputado|trans-title=Camacho is working to ensure that pre-candidates can engage in dialogue with a view to the 2025 elections, according to a deputy|access-date=17 December 2024|last=Pereyra|first=Omar|date=17 December 2024|website=EJU|language=es}}</ref><ref>{{Cite web |date=6 September 2023 |title=Bolivia's opposition leader undergoes medical tests as his pre-trial detention drags on for months |url=https://apnews.com/article/bolivia-camacho-santa-cruz-24ce0745bf210d7a99093360ad9f6b84 |access-date=14 May 2025 |website=AP News}}</ref>
+*[[Eduardo Rodríguez Veltzé]] ([[Independent politician|Independent]]) – Former [[president of Bolivia]] (2005–2006).<ref>{{Cite web |date=19 February 2025 |title=Rodríguez Veltzé: "No fui, no soy ni seré candidato en próximas elecciones" |url=https://eldeber.com.bo/pais/rodriguez-veltze-no-fui-no-soy-ni-sere-candidato-en-proximas-elecciones_504358/ |access-date=18 May 2025 |website=El Deber |language=es}}</ref>
+*[[Rubén Costas]] ([[Social Democratic Movement|MDS]]) – Former governor of the [[Santa Cruz Department (Bolivia)|department of Santa Cruz]] (2015–2021).<ref>{{Cite web |last=Mendoza |first=Luz |date=9 April 2024 |title=Costas impulsa desde Cochabamba estrategia rumbo a elecciones de 2025 |trans-title=From Cochabamba, Costas promotes a strategy towards the 2025 elections |url=https://eju.tv/2024/04/costas-impulsa-desde-cochabamba-estrategia-rumbo-a-elecciones-de-2025/ |access-date=27 June 2024 |website=eju.tv |language=es}}</ref>
+*[[Branko Marinković]] ([[Nationalist Democratic Action|ADN]]) – Former minister of economy and public finance (2020).<ref>{{Cite web |date=7 July 2024 |title=Marinkovic fue presentado como candidato en encuentro donde están Milei y Bolsonaro |trans-title=Marinkovic was presented as a candidate in a meeting where Milei and Bolsonaro are present |url=https://www.lostiempos.com/actualidad/pais/20240707/marinkovic-fue-presentado-como-candidato-encuentro-donde-estan-milei |access-date=25 September 2024 |website=Los Tiempos |language=es}}</ref>
+*[[Amparo Ballivián]] – Former minister of housing.<ref>{{Cite web |date=26 February 2024 |title=amparo ballivián se presenta como candidata la presidencia |url=https://brujuladigital.net/politica/2024/02/26/amparo-ballivian-me-presento-como-precandidata-a-las-elecciones-presidenciales-de-2025-30476 |access-date=5 April 2025 |website=Brújula |language=es}}</ref>
+*Vicente Cuéllar (Cambio25) – Rector of the [[Gabriel René Moreno Autonomous University]].<ref>{{Cite news |date=21 November 2023 |title=El rector Cuéllar abre paso a su alianza Cambio 25 para darle pelea al MAS en 2025 |trans-title=Rector Cuéllar makes way for his Cambio 25 alliance to fight the MAS in 2025 |url=https://www.opinion.com.bo/articulo/pais/rector-cuellar-abre-paso-alianza-cambio-2025/20231121113710928167.html |access-date=27 June 2024 |work=Opinión Bolivia |language=es}}</ref>
+*Jaime Soliz ([[Christian Democratic Party (Bolivia)|PDC]]) – Former prosecutor of the [[Santa Cruz Department (Bolivia)|department of Santa Cruz]] (2005–2010).<ref>{{Cite news |date=8 February 2024 |title=El abogado Jaime Soliz Phiel anuncia su candidatura a la Presidencia de Bolivia |trans-title=Lawyer Jaime Soliz Phiel announces his candidacy for the Presidency of Bolivia |url=https://eldeber.com.bo/pais/el-abogado-jaime-soliz-phiel-anuncia-su-candidatura-a-la-presidencia-de-bolivia_356140 |access-date=27 June 2024 |website=El Deber |language=es}}</ref>
+
+{{Gallery
+|File:Luis Arce (Official Photo, 2020) Cropped III.png|{{center|Former [[President of Bolivia]]
+'''[[Luis Arce]]'''}}
+|File:Luis Fernando Camacho.jpg|{{center|Former [[Governor of Santa Cruz Department|governor of Santa Cruz]]
+'''[[Luis Fernando Camacho]]'''}}
+|File:Carlos Mesa.jpg|{{center|Former [[president of Bolivia]]
+'''[[Carlos Mesa]]'''}}
+|align=center
+|mode=packed
+|height=150
+|captionstyle=
+}}
+
+==Campaign==
+The campaign was marked by the first televised debate in 20 years, following a ban imposed during Evo Morales's presidency. The debates featured sharp exchanges, including Samuel Doria Medina's accusations that Eduardo del Castillo had links to drug traffickers and del Castillo's criticism of Doria Medina's past electoral failures. Andrónico Rodríguez and Jorge Quiroga also clashed over alleged involvement in extrajudicial killings.<ref name="apelection"/>
+
+=== Candidate platforms ===
+The right-leaning candidates, Samuel Doria Medina and Jorge "Tuto" Quiroga, presented similar platforms focused on economic liberalization and a foreign policy re-alignment. Both pledged to:
+
+*Arrest former president Evo Morales.<ref name="f24">{{Cite web |date=14 August 2025 |title=From socialism to shock therapy? Bolivia's presidential hopefuls make last push for votes |url=https://www.france24.com/en/live-news/20250814-bolivia-presidential-hopefuls-make-last-push-for-votes |access-date=15 August 2025 |website=France 24}}</ref><ref name="guardian">{{Cite web |date=15 August 2025 |title=Bolivia election could see lurch to right as once-dominant party's time runs out |url=https://www.theguardian.com/world/2025/aug/15/bolivia-presidential-election-right-wing |access-date=15 August 2025 |website=The Guardian|first=Tiago|last=Rogero}}</ref>
+*Restore diplomatic relations with the United States and Israel.<ref name="reuters">{{Cite web |date=18 August 2025 |title=Who are Bolivia's presidential runoff contenders promising economic overhaul? |url=https://www.reuters.com/world/americas/who-are-bolivias-presidential-runoff-contenders-promising-economic-overhaul-2025-08-18/ |access-date=18 August 2025 |website=Reuters}}</ref>
+*Cut public spending and eliminate fuel subsidies.<ref name="apknow">{{Cite web |date=12 August 2025 |title=Bolivia's election may spell the end of its long-ruling left. Here's what to know |url=https://apnews.com/article/bolivia-election-mas-socialism-morales-df3b502d552e5b995d082dbdbb226c1d |access-date=15 August 2025 |website=AP News}}</ref><ref name="guardian"/>
+*Partially reverse the nationalizations under Morales and attract foreign investment, particularly for lithium mining.<ref name="f24"/><ref name="apknow"/>
+*Dismantle inefficient state-owned companies.<ref name="apknow"/>
+
+Doria Medina specifically promised to resolve fuel shortages within his first 100 days, a goal reflected in his campaign slogan, "100 days, dammit!"—a phrase he used after surviving a 2005 plane crash.<ref name="guardian"/><ref>{{Cite web |date=31 July 2025 |title=Meet the multimillionaire who wants to be Bolivia's first right-wing president elected in 20 years |url=https://apnews.com/article/bolivia-president-samuel-doria-medina-morales-elections-trump-49faa8947c89a6f363b907a70915abc6 |access-date=15 August 2025 |website=AP News}}</ref> He also pledged to maintain anti-poverty programs.<ref>{{Cite web |date=17 August 2025 |title=Bolivian right eyes return in elections marked by economic crisis |url=https://www.france24.com/en/live-news/20250817-bolivian-right-eyes-return-in-elections-marked-by-economic-crisis |access-date=17 August 2025 |website=France 24}}</ref>
+
+Quiroga proposed a more radical economic overhaul, praising Argentine president [[Javier Milei]]'s libertarian policies. His proposals included:
+
+*Closing the [[Central Bank of Bolivia]], which he accused of being a "credit card" for the Arce administration.<ref name="apknow"/>
+*Establishing a "popular property title" valued at $1,500 for every adult Bolivian to use as loan collateral.<ref name="reuters"/>
+*Seeking a $12 billion bailout from the [[International Monetary Fund]].<ref name="reuters"/>
+*A "liberal ownership revolution" to replace collective Indigenous land titles with individual, inheritable rights.<ref name="auto">{{Cite web |date=26 August 2025 |title=Bolivia's right-wing ex-president Jorge Quiroga says he'll 'change everything' if elected |url=https://apnews.com/article/bolivia-tuto-quiroga-rightwing-morales-us-elections-18be23a5a62d6f6870e274baeb1c8b97 |access-date=26 August 2025 |website=AP News}}</ref>
+*Canceling lithium agreements with Russia and China signed under Arce.<ref name="lithium">{{Cite web |date=26 August 2025 |title=Bolivia candidate vows to scrap China, Russia lithium deals |url=https://www.france24.com/en/live-news/20250825-bolivia-candidate-vows-to-scrap-china-russia-lithium-deals |access-date=26 August 2025 |website=France 24}}</ref>
+*Distancing Bolivia from Iran and withdrawing recognition of [[Nicolás Maduro]] as president of Venezuela.<ref name="auto"/>
+
+Rodrigo Paz campaigned on a platform of "Capitalism for All",<ref name=Debre19>{{Cite web |first=Isabel |last=DeBre |date=19 August 2025 |title=Bolivia gears up for first-ever presidential runoff, ending years of 1-party rule |url=https://apnews.com/article/bolivia-election-7d24bfd2bc87e4f312d574663aee9f5d |access-date=19 August 2025 |website=AP News}}</ref> which included:
+
+*A "50–50 economic model" where half of public funds would be managed by regional governments.<ref name="reuters"/>
+*Cutting $1.2 billion in fuel subsidies while retaining assistance for schoolchildren and the elderly.<ref name="lithium"/><ref>{{Cite web |date=2 September 2025 |title=Presidential hopeful Rodrigo Paz sees 'capitalism for all' as answer to Bolivia's crisis |url=https://apnews.com/article/bolivia-presidential-candidate-paz-lara-morales-f0f1b02befea0e4376f8a47ab4feda5f |access-date=2 September 2025 |website=AP News}}</ref>
+*Using [[blockchain]] for transparency and creating a currency stabilization fund that incorporates [[cryptocurrency]].<ref name="reuters"/>
+*Opposing Doria Medina's proposals for foreign lithium investment and IMF loans.<ref name=Debre19 />
+
+The MAS candidate, Eduardo del Castillo, campaigned under the slogan "We Are a National Option with Authentic Ideas,"<ref name="apelection"/> while his party colleague Andrónico Rodríguez ran on a platform of "Unity for All" and also supported cutting fuel subsidies.<ref name="apelection"/><ref>{{Cite web |date=11 August 2025 |title=No bread, no fuel, no dollars: how Bolivia went from boom to bust |url=https://www.france24.com/en/live-news/20250811-no-bread-no-fuel-no-dollars-how-bolivia-went-from-boom-to-bust |access-date=15 August 2025 |website=France 24}}</ref>
+
+=== Environmental and post-first round dynamics ===
+On environmental policy, both Paz and Quiroga supported using carbon bonds. Quiroga advocated for expanding [[biofuel]] production and soy and cattle farming in eastern Bolivia, while Paz pledged to crack down on illegal gold mining and regulate agricultural fires.<ref>{{Cite web |date=21 August 2025 |title=Bolivia will choose a new president but environmental activists see little hope of progress |url=https://apnews.com/article/bolivia-president-election-paz-quiroga-environment-fc2814e4ae4e2ec2fdf24d97a356c990 |access-date=21 August 2025 |website=AP News|first=Steven|last=Grattan}}</ref>
+
+After being barred from the election, Evo Morales called the vote illegitimate, labeled Rodríguez a "traitor", and urged his supporters to cast null ballots. He claimed that if null votes exceeded the winning candidate's share - a situation that eventually did not materialize, as both candidates who advanced to the runoff exceeded the null vote share - it would represent a victory for him.<ref name="guardian"/><ref>{{Cite web |date=14 August 2025 |title=Barred from Bolivia's elections, ex-leader Morales campaigns hard for invalid votes |url=https://apnews.com/article/bolivia-null-vote-election-morales-evo-indigenous-aymara-a1a75b87bbc39c7e143f42a529bb2e54 |access-date=15 August 2025 |website=AP News}}</ref>
+
+Following the first round, Samuel Doria Medina endorsed Rodrigo Paz for the runoff.<ref>{{Cite web |date=18 August 2025 |title=Rodrigo Paz and Tuto Quiroga will compete for the Bolivian presidency in October |url=https://english.elpais.com/international/2025-08-18/rodrigo-paz-and-tuto-quiroga-will-compete-for-the-bolivian-presidency-in-october.html |access-date=18 August 2025 |website=El País}}</ref>
+
+== Opinion polls ==
+
+=== Runoff ===
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Polling firm
+! rowspan="3"| Fieldwork date
+! rowspan="3"| Sample size
+! [[File:Jorge Quiroga 2020 (cropped).jpg|70x70px]]
+! [[File:Rodrigo Paz Pereira (cropped).jpg|70x70px]]
+! style="width:50px;"rowspan="3"| Blank vote
+! style="width:50px;"rowspan="3"| Void vote
+! style="width:50px;"rowspan="3"| Undecided
+|-
+! [[Jorge Quiroga|Quiroga]]<br/>{{small|[[Libre (Bolivia)|Libre]]}}
+! [[Rodrigo Paz|Paz]]<br/>{{small|[[Christian Democratic Party (Bolivia)|PDC]]}}
+|-
+! {{party color cell|Libre (Bolivia)}}
+! {{party color cell|Christian Democratic Party (Bolivia)}}
+|-
+| Ipsos CIESMORI/UNITEL<ref>{{cite web |title=Última encuesta: Tuto aumenta ventaja sobre Rodrigo y crecen los indecisos |url=https://unitel.bo/noticias/asi-decidimos/ultima-encuesta-tuto-aumenta-ventaja-sobre-rodrigo-y-crecen-los-indecisos-EH17672767 |language=es |work=UNITEL |date=12 October 2025}}</ref>
+| {{Opdrts|6|9|Oct|2025}}
+| 2,500
+| style="background:#FFC2C2;"| '''44.9'''
+| 36.5
+| 3.7
+| 5.6
+| 9.3
+|-
+| Captura Consulting/Red Uno<ref>{{cite web |title=Conozca los resultados de la Gran Encuesta Nacional de la Red Uno |url=https://www.reduno.com.bo/noticias/uno-gran-encuesta-nacional-esta-es-la-intencion-de-voto-para-la-segunda-vuelta-tuto-42-9-y-paz-38-7--20251010205215 |language=es |work=Red Uno |date=11 October 2025}}</ref><ref>{{cite web |title=Esta es la ficha técnica de la Gran Encuesta Nacional de Red Uno rumbo a la segunda vuelta |url=https://www.reduno.com.bo/noticias/esta-es-la-ficha-tecnica-de-la-gran-encuesta-nacional-de-red-uno-rumbo-a-la-segunda-vuelta-20251010224054 |language=es |work=Red Uno |date=10 October 2025}}</ref>
+| {{Opdrts|3|7|Oct|2025}}
+| 2,560
+| style="background:#FFC2C2;"| '''42.9'''
+| 38.7
+| 2.6
+| 5.8
+| 10.0
+|-
+| CB Consultora Opinión Pública<ref>{{Cite web |title=Segunda vuelta: Tuto Quiroga supera por 7,7 puntos a Rodrigo Paz en la primera encuesta nacional de intención de voto |url=https://cbconsultoraop.com/bolivia-2o-vuelta-presidente-2025-cb-consultora-o-p-1028-casos-01-a-06-de-octubre-2025/ |access-date=7 October 2025 |website=cbconsultoraop.com |date=6 October 2025 |language=es-BO}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}</ref>
+| {{Opdrts|1|6|Oct|2025}}
+| 1,028
+| style="background:#FFC2C2;" | '''44.4'''
+| 36.2
+| colspan="2"| 12.1
+| 7.3
+|-
+|Ipsos CIESMORI/UNITEL<ref>{{cite web |title=Segunda vuelta: Tuto Quiroga supera por 7,7 puntos a Rodrigo Paz en la primera encuesta nacional de intención de voto |url=https://unitel.bo/noticias/asi-decidimos/segunda-vuelta-tuto-quiroga-supera-por-77-puntos-a-rodrigo-paz-en-la-primera-encuesta-nacional-de-intencion-de-voto-IF17470679 |language=es |work=UNITEL |date=25 September 2025}}</ref><ref>{{cite web |title=Segunda vuelta: Quiroga encabeza la primera encuesta de intención de voto con 47% |url=https://www.vision360.bo/noticias/2025/09/25/32210-segunda-vuelta-quiroga-encabeza-la-primera-encuesta-de-intencion-de-voto-con-47por_ciento |language=es |work=Visión 360 |date=25 September 2025}}</ref>
+| {{Opdrts|18|21|Sep|2025}}
+| 2,500
+| style="background:#FFC2C2;" | '''47.0'''
+| 39.3
+| 3.5
+| 4.7
+| 5.5
+|}
+
+=== First round ===
+{{wide image|Opinion polling for the 2025 Bolivian presidential election (first round).svg|1000px|[[Local regression]] of polls conducted for the first round}}
+=== After registration of candidacies ===
+<div style="overflow:auto">
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="3" |Polling firm
+! rowspan="3"| Fieldwork date
+! rowspan="3"| Sample size
+! [[File:SamuelDM.png|70x70px]]
+! [[File:Jorge Quiroga 2020 (cropped).jpg|70x70px]]
+! [[File:Rodrigo Paz Pereira (cropped).jpg|70x70px]]
+! [[File:Andrónico Rodríguez (cropped).jpg|70x70px]]
+! [[File:Manfred Reyes Villa (cropped).jpg|70x70px]]
+! [[File:Eduardo Del Castillo (cropped).png|70x70px]]
+! [[File:Jhonny Fernández (cropped).jpg|70x70px]]
+! [[File:Pavel Aracena Vargas en julio de 2025.jpg|70x70px]]
+! [[File:Mónica Eva Copa Murga (Official Photo, 2015) Alejandra Vaca, Chamber of Senators of Bolivia.jpg|70x70px]]
+! [[File:Portrait placeholder.svg|70x70px]]
+! style="width:50px;"rowspan="3"| Blank vote
+! style="width:50px;"rowspan="3"| Void vote
+! style="width:50px;"rowspan="3"| Undecided
+|-
+! [[Samuel Doria Medina|Medina]]<br/>{{small|[[Unity Bloc|Unity]]}}
+! [[Jorge Quiroga|Quiroga]]<br/>{{small|[[Libre (Bolivia)|Libre]]}}
+! [[Rodrigo Paz|Paz]]<br/>{{small|[[Christian Democratic Party (Bolivia)|PDC]]}}
+! [[Andrónico Rodríguez|Rodríguez]]<br/>{{small|[[Popular Alliance (Bolivia)|AP]]}}
+! [[Manfred Reyes Villa|Manfred]]<br/>{{small|[[APB&nbsp;Súmate]]}}
+! [[Eduardo Del Castillo|Castillo]]<br/>{{small|[[Movimiento al Socialismo|MAS]]}}
+! [[Jhonny Fernández|Fernández]]<br/>{{small|[[Solidarity Civic Unity|FP]]}}
+! Aracena<br/>{{small|[[Nationalist Democratic Action|LYP-ADN]]}}
+! [[Eva Copa|Copa]]<br/>{{small|[[National Renewal Movement (Bolivia)|MORENA]]}}
+! Tapia<br/>{{small|NGP}}
+|-
+! {{party color cell|Unity (Bolivia)}}
+! {{party color cell|Libre (Bolivia)}}
+! {{party color cell|Christian Democratic Party (Bolivia)}}
+! {{party color cell|Popular Alliance (Bolivia)}}
+! {{party color cell|APB Súmate}}
+! {{party color cell|Movimiento al Socialismo}}
+! {{party color cell|Solidarity Civic Unity}}
+! {{party color cell|Nationalist Democratic Action}}
+! {{party color cell|National Renewal Movement (Bolivia)}}
+! {{party color cell|New Patriotic Generation}}
+|-
+| AtlasIntel<ref>{{cite web |title=Encuesta Atlas – Elecciones Presidenciales de Bolivia de 2025 |url=https://cdn.atlasintel.org/9e245ed8-03df-41ae-8a6e-18937e75392a.pdf?_gl=1*1bzddvz*_ga*Mjc4OTU1OTAuMTczNzQ4ODQyMQ..*_ga_W78QD5CNP1*czE3NTUyNjI4NDMkbzI2NSRnMSR0MTc1NTI2Mjg1MSRqNTIkbDAkaDA |language=es |work=AtlasIntel |page=8}}</ref>
+| {{Opdrts|11|13|Aug|2025}}
+| 1,916
+| 18.0
+| style="background:#FFC2C2;"| '''22.3'''
+| 7.5
+| 11.4
+| 4.0
+| 8.1
+| 2.6
+| 3.1
+| –
+| –
+| colspan=2|14.6
+| 8.4
+|-
+| Ipsos CIESMORI/UNITEL<ref>{{cite web |title=Última encuesta de UNITEL: Samuel y Tuto siguen liderando y se perfila una histórica segunda vuelta en octubre |url=https://unitel.bo/noticias/asi-decidimos/ultima-encuesta-de-unitel-samuel-y-tuto-siguen-liderando-y-se-perfila-una-historica-segunda-vuelta-en-octubre-AL16953131 |language=es |work=UNITEL |date=10 August 2025}}</ref>
+| {{Opdrts|2|6|Aug|2025}}
+| 2,500
+| style="background:#FFF3B3;"| '''21.2'''
+| 20.0
+| 8.3
+| 5.5
+| 7.7
+| 1.5
+| 2.0
+| 0.5
+| 0.2
+| –
+| 5.2
+| 14.6
+| 13.3
+|-
+| SPIE/El Deber<ref>{{cite web |title=Tuto Quiroga supera por primera vez a Samuel Doria Medina en la intención de voto |url=https://eldeber.com.bo/pais/tuto-quiroga-supera-por-primera-vez-samuel-doria-medina-en-la-intencion-de-voto_525705/ |language=es |work=El Deber |date=8 August 2025}}</ref>
+| {{Opdrts|31|4|Aug|2025}}
+| 2,500
+| 23.6
+| style="background:#FFC2C2;"| '''24.5'''
+| 9.1
+| 8.5
+| 8.8
+| 1.8
+| 2.4
+| 0.3
+| 0.2
+| –
+| 9.9
+| 5.7
+| 5.1
+|-
+| Captura Consulting/Red Uno<ref>{{cite web |title=Esta es la ficha técnica de la Gran Encuesta a una semana de la elección |url=https://www.reduno.com.bo/noticias/esta-es-la-ficha-tecnica-de-la-gran-encuesta-a-una-semana-de-la-eleccion-2025810191452 |language=es |work=Red Uno |date=10 August 2025}}</ref><ref>{{cite web |title=Gran Encuesta; Samuel lidera con 21,6%, seguido por Tuto con el 20% |url=https://www.reduno.com.bo/noticias/gran-encuesta-samuel-lidera-con-21-6-seguido-por-tuto-con-el-20--202581019356 |language=es |work=Red Uno |date=10 August 2025}}</ref>
+| {{Opdrts|27|3|Aug|2025}}
+| 2,500
+| style="background:#FFF3B3;"| '''21.6'''
+| 20.0
+| 6.4
+| 7.2
+| 9.7
+| 2.0
+| 2.0
+| 0.7
+| 0.4
+| –
+| 5.0
+| 10.6
+| 14.4
+|-
+| SPIE/El Deber<ref>{{cite web |title=Samuel y Tuto lideran la intención de voto en Bolivia; Andrónico queda relegado al cuarto lugar |url=https://eldeber.com.bo/pais/samuel-y-tuto-lideran-la-intencion-de-voto-en-bolivia-andronico-queda-relegado-al-cuarto-lugar_524914/ |language=es |work=El Deber |date=1 August 2025}}</ref>
+| {{Opdrts|25|28|Jul|2025}}
+| 2,500
+| style="background:#FFF3B3;"| '''24.5'''
+| 22.9
+| 7.6
+| 7.4
+| 7.2
+| 2.1
+| 1.7
+| 0.4
+| 1.0
+| –
+| 12.1
+| 7.4
+| 5.5
+|-
+| Ipsos CIESMORI/UNITEL<ref>{{cite web |title=Encuesta de Unitel: Samuel y Tuto siguen liderando intención de voto; Andrónico cae al cuarto lugar |url=https://unitel.bo/noticias/asi-decidimos/encuesta-de-unitel-samuel-y-tuto-siguen-liderando-intencion-de-voto-andronico-cae-al-cuarto-lugar-NN16825932 |language=es |work=UNITEL |date=30 July 2025}}</ref>
+| {{Opdrts|25|27|Jul|2025}}
+| 2,500
+| style="background:#FFF3B3;"| '''21.5'''
+| 19.6
+| 4.3
+| 6.1
+| 8.3
+| 2.1
+| 1.8
+| 0.3
+| 0.4
+| –
+| 8.1
+| 13.6
+| 12.4
+|-
+| SPIE/El Deber<ref>{{cite web |title=La segunda encuesta de EL DEBER revela una pugna cerrada entre Samuel Doria Medina y Tuto Quiroga |url=https://eldeber.com.bo/pais/la-segunda-encuesta-de-el-deber-revela-una-pugna-cerrada-entre-samuel-doria-medina-y-tuto-quiroga_522874/ |language=es |work=El Deber |date=16 July 2025}}</ref>
+| {{Opdrts|5|10|Jul|2025}}
+| 2,500
+| style="background:#FFF3B3;"| '''21.8'''
+| 20.7
+| 4.0
+| 8.3
+| 10.0
+| 1.9
+| 2.5
+| 0.4
+| 1.1
+| 4.8
+| 14.8
+| 4.5
+| 5.3
+|-
+| Ipsos CIESMORI/UNITEL<ref>{{cite web |title=Segunda encuesta nacional: Doria Medina y Tuto Quiroga siguen liderando intención de voto; Andrónico pierde apoyo |url=https://unitel.bo/noticias/asi-decidimos/segunda-encuesta-nacional-doria-medina-y-tuto-quiroga-siguen-liderando-intencion-de-voto-andronico-pierde-apoyo-AC16636170 |language=es |work=UNITEL |date=13 July 2025}}</ref>
+| {{Opdrts|5|7|Jul|2025}}
+| 2,500
+| style="background:#FFF3B3;"| '''18.7'''
+| 18.1
+| 3.2
+| 11.8
+| 8.2
+| 2.3
+| 2.5
+| 0.2
+| 0.6
+| 2.4
+| 8.2
+| 12.5
+| 11.3
+|-
+| Captura Consulting/Red Uno-Cadena A<ref>{{cite web |title=¿Cuántas personas fueron consultadas en la segunda gran encuesta? Esta es la ficha técnica |url=https://www.reduno.com.bo/noticias/cuantas-personas-fueron-consultadas-en-la-segunda-gran-encuesta-esta-es-la-ficha-tecnica-202562919250 |language=es |work=Red Uno |date=29 June 2025}}</ref><ref>{{cite web |title=¡Atención, Bolivia! Estos son los resultados de intención de voto de la Segunda Encuesta Nacional |url=https://www.reduno.com.bo/noticias/atencion-bolivia-estos-son-los-resultados-de-intencion-de-voto-de-la-segunda-encuesta-nacional-202562918130 |language=es |work=Red Uno |date=29 June 2025}}</ref>
+| {{Opdrts|10|20|Jun|2025}}
+| 2,500
+| style="background:#FFF3B3;"| '''19.6'''
+| 16.6
+| 6.4
+| 13.7
+| 8.8
+| 1.4
+| 3.8
+| –
+| 1.1
+| 0.7
+| 5.0
+| 7.4
+| 15.5
+|-
+| SPIE/El Deber<ref>{{cite web |title=Samuel y Tuto lideran la intención de voto en la primera encuesta de EL DEBER |url=https://eldeber.com.bo/pais/samuel-y-tuto-lideran-la-intencion-de-voto-en-la-primera-encuesta-nacional-de-el-deber_519231/ |language=es |work=El Deber |date=18 June 2025}}</ref>
+| {{Opdrts|7|14|Jun|2025}}
+| 2,500
+| style="background:#FFF3B3;"| '''24.0'''
+| 22.1
+| 5.6
+| 14.7
+| 9.4
+| 1.7
+| 2.6
+| 0.6
+| 1.4
+| 0.7
+| 9.8
+| 4.5
+| 3.0
+|-
+| Ipsos CIESMORI/UNITEL<ref>{{cite web |title=Samuel y Tuto lideran la primera encuesta nacional de candidatos inscritos a las elecciones 2025 |url=https://unitel.bo/noticias/asi-decidimos/samuel-y-tuto-lideran-la-primera-encuesta-nacional-de-candidatos-inscritos-a-las-elecciones-2025-IH16110008 |language=es |work=UNITEL |date=1 June 2025}}</ref>
+| {{Opdrts|22|26|May|2025}}
+| 2,500
+| style="background:#FFF3B3;"| '''19.1'''
+| 18.4
+| 4.3
+| 14.2
+| 7.9
+| 2.3
+| 3.7
+| 0.5
+| 1.7
+| 1.0
+| 6.5
+| 10.5
+| 10.0
+|}</div>
+
+=== Before registration of candidacies ===
+<div style="overflow:auto">
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" |Source
+! rowspan="2" |Date
+! rowspan="2" |Sample
+! rowspan="2" |Link
+![[Evo Morales|Morales]]<br /><small>[[EVO&nbsp;Pueblo]]</small>
+![[Jorge Quiroga|Quiroga]]<br /><small>[[Revolutionary Left Front (Bolivia)|FRI]]</small>
+![[Manfred Reyes Villa|Manfred]]<br /><small>[[APB&nbsp;Súmate]]</small>
+![[Andrónico Rodríguez|Rodríguez]]<br /><small>[[Movimiento al Socialismo|MAS]]</small>
+![[Samuel Doria Medina|Medina]]<br /><small>[[National Unity Front|UN]]</small>
+![[Chi Hyun Chung|Chung]]<br />[[Revolutionary Nationalist Movement|AMAR]]
+![[Luis Arce|Arce]]<br /><small>[[Movimiento al Socialismo|MAS]]</small>
+![[David Choquehuanca|Choquehuanca]]<br /><small>[[Movimiento al Socialismo|MAS]]</small>
+![[Vicente Cuellar|Cuellar]]<br /><small>[[Cambio25]]</small>
+! rowspan="2" |Others
+! rowspan="2" |Null Blank
+ ! rowspan="2" |Undecided
+! rowspan="2" |Lead
+|-
+| {{Party color cell|EVO Pueblo}}
+| {{party color cell|Revolutionary Left Front (Bolivia)}}
+| {{party color cell|APB Súmate}}
+| {{party color cell|Movement for Socialism (Bolivia)}}
+| {{party color cell|National Unity Front}}
+| bgcolor="#EF003B" |
+| bgcolor="#143a82" |
+| bgcolor="#143a82" |
+| bgcolor="#fdd601" |
+|- style="background:lightyellow"
+| colspan="4" |15 May 2025
+| colspan="13" |Bolivia's [[United Nations]] delegation announces its nomination of [[David Choquehuanca]] as [[Secretary-General of the United Nations|UN Secretary-General]].<ref>{{Cite web |last=Mendoza |first=Luz |date=15 May 2025 |title=Bolivia oficializa candidatura de Choquehuanca como candidato para Secretario General de la ONU |url=https://eju.tv/2025/05/bolivia-oficializa-candidatura-de-choquehuanca-como-candidato-para-secretario-general-de-la-onu/ |access-date=15 May 2025 |website=eju.tv |language=es}}</ref>
+|- style="background:lightyellow"
+| colspan="4" |14 May 2025
+| colspan="13" |Bolivia constitutional court upholds ruling blocking Evo Morales' election eligibility.<ref>{{Cite web |title=Bolivia top court upholds ruling blocking Morales' election eligibility |url=https://www.reuters.com/world/americas/bolivia-top-court-upholds-ruling-blocking-morales-election-eligibility-2025-05-14/ |access-date=14 May 2025 |website=Reuters |date=14 May 2025}}</ref>
+|- style="background:lightyellow"
+| colspan="4" |13 May 2025
+| colspan="13" |[[Luis Arce]] withdraws his candidacy for re-election.<ref name=":2" />
+|-
+|Panterra
+|30 March 2025
+|5,000
+|<ref>{{Cite web |title=Encuesta de Claure ubica primero a Andrónico, seguido por Samuel y Tuto |url=https://correodelsur.com/politica/20250330/encuesta-de-claure-ubica-primero-a-andronico-seguido-por-samuel-y-tuto.html |access-date=5 April 2025 |website=Correo del Sur}}</ref>
+|–
+|15%
+|11%
+| style="background:#ADD8E6" |'''25%'''
+|16%
+|13%
+|–
+|–
+|–
+|–
+|–
+|20%
+|'''9%'''
+|-
+|Captura Consulting
+|27 March 2025
+|1,500
+|<ref>{{Cite web |last=Menacho |first=Naira |title=¡Atención Bolivia!: Estas son las intenciones de voto rumbo a las presidenciales |url=https://www.reduno.com.bo/noticias/atencion-bolivia-estas-son-las-intenciones-de-voto-rumbo-a-las-presidenciales-202532619158 |access-date=5 April 2025 |website=Reduno |language=es}}</ref>
+|–
+|16%
+|13%
+| style="background:#ADD8E6" |'''18%'''
+|17%
+|11%
+|1%
+|–
+|–
+|4%
+|–
+|14%
+|'''1%'''
+|- style="border-right: 1px lightyellow; background:lightyellow"
+| colspan="4" |8 March 2025
+| colspan="13" |Vicente Cuellar withdraws his candidacy, endorsing Doria Medina.<ref name=":4">{{Cite web |date=18 March 2025 |title=Vicente Cuéllar decide respaldar a Samuel Doria Medina y retira su candidatura – Agencias de Noticias Fides |url=https://www.noticiasfides.com/nacional/politica/vicente-cuellar-decide-respaldar-a-samuel-doria-medina-y-retira-su-candidatura |access-date=18 March 2025 |website=Agencia de Noticias Fides |language=es}}</ref>
+|- style="background:lightyellow;"
+| colspan="4" |26 February 2025
+| colspan="13" |Luis Arce announces his candidacy pending final decision from [[Movimiento al Socialismo|MAS]].<ref name=":0" />
+|- style="background:lightyellow;"
+| colspan="4" |20 February 2025
+| colspan="13" |[[Evo Morales]] announces his intention to run for president.<ref name=":1">{{Cite web |date=20 February 2025 |title=Bolivia's Morales runs for president again, defying term limit |url=https://www.france24.com/en/live-news/20250220-bolivia-s-morales-launches-4th-presidential-bid-defying-term-limit |access-date=18 March 2025 |website=France 24}}</ref>
+|-
+|UAGRM
+|14 February 2025
+|2,200
+|<ref>{{Cite web |date=14 February 2025 |title=Manfred y Chi lideran encuesta realizada por la UAGRM; Evo, Doria, Andrónico y Tuto les siguen |url=https://www.opinion.com.bo/articulo/pais/manfred-chi-lideran-encuesta-realizada-uagrm-evo-doria-andronico-tuto-siguen/20250214000031966935.html |access-date=5 April 2025 |website=Opinión Bolivia |language=es}}</ref>
+|14%
+|8%
+| style="background:#E1C8FA" |'''15%'''
+|10%
+|10%
+|14%
+|2%
+|–
+|1%
+|4%
+|–
+|7%
+|'''1%'''
+|-
+|Captura Consulting
+|23 Jan – 7 Feb
+|–
+|<ref>{{Cite web |last=Villegas |first=Antonio |date=11 February 2025 |title=Encuesta: Tuto lidera intención de voto; le siguen Samuel y Manfred, Evo es quinto en un escenario sin Andrónico |url=https://eju.tv/2025/02/encuesta-tuto-lidera-intencion-de-voto-le-siguen-samuel-y-manfred-evo-es-quinto/ |access-date=15 May 2025 |website=eju.tv |language=es}}</ref>
+|8%
+| style="background:#EDA6b4" |'''19%'''
+|13%
+|–
+|16%
+|13%
+|2%
+|–
+|–
+|9%
+|–
+|19%
+|'''3%'''
+|-
+|Bolivia360
+|5–21 Jan 2025
+|2,000
+|<ref>{{Cite web |date=31 January 2025 |title=Encuesta electoral en Bolivia 2025: Marcelo Claure presenta un nuevo análisis sobre intención de voto y liderazgo regional |url=https://www.elpopularhoy.com/bolivia/encuesta-electoral-en-bolivia-2025--marcelo-claure-presenta-un-nuevo-analisis-sobre-intencion-de-voto-y-liderazgo-regional_a679cc6110ec169eb7abeb344?utm_source=chatgpt.com |access-date=23 March 2025 |website=El Popular Hoy |language=es}}</ref>
+| –
+|9%
+|15%
+| style="background:#ADD8E6" |'''16%'''
+|8%
+|13%
+|2%
+| –
+|2%
+|7%
+|_
+|8%
+|'''1%'''
+|-
+|Diagnosis
+|11–12 Jan 2025
+|1,800
+|<ref>{{Cite web |last=Mendoza |first=Luz |date=21 January 2025 |title=Reyes Villa lidera encuesta de Diagnosis con 15%, le siguen Tuto y Samuel entre los opositores |url=https://eju.tv/2025/01/reyes-villa-lidera-encuesta-de-diagnosis-con-15-le-siguen-tuto-y-samuel-entre-los-opositores/ |access-date=18 March 2025 |website=eju.tv |language=es}}</ref>
+|9%
+|10%
+| style="background:#E1C8FA" |'''15%'''
+|10%
+|9%
+|5%
+|7%
+|2%
+|3%
+|13%
+|5%
+|10%
+|'''2%'''
+|- style="background:lightyellow;"
+| colspan="4" |5 January 2025
+| colspan="13" |[[Manfred Reyes Villa]] announces his candidacy.<ref>{{Cite web |last=Bratton |first=Elizabeth |date=10 January 2025 |title=Manfred Reyes Villa: The mayor convicted of 'anti-economic misconduct' running to be Bolivia's next president |url=https://latinamericareports.com/manfred-reyes-villa-the-mayor-convicted-of-anti-economic-misconduct-running-to-be-bolivias-next-president/10395/ |access-date=18 March 2025 |website=Latin America Reports}}</ref>
+|-
+|}
+</div>
+
+=== 2021–2024  ===
+<div style="overflow:auto">
+{| class="wikitable" style="text-align:center; font-size:81%; line-height:13px;"
+! rowspan="2" |Date
+! rowspan="2" |Polling firm
+![[Evo Morales|Morales]]<br /><small>[[Movimiento al Socialismo|MAS]]</small>
+![[Carlos Mesa|Mesa]]<br /><small>[[Civic Community|CC]]</small>
+![[Andrónico Rodríguez|Rodríguez]]<br /><small>[[Movimiento al Socialismo|MAS]]</small>
+![[María Galindo|Galindo]]<br /><small>[[Independent politician|Ind.]]</small>
+![[Manfred Reyes Villa|Manfred]]<br /><small>[[APB Súmate|Súmate]]</small>
+![[Luis Arce|Arce]]<br /><small>[[Movimiento al Socialismo|MAS]]</small>
+![[Chi Hyun Chung|Chi Hyun]]<br /><small>[[Independent politician|Ind.]]</small>
+![[Luis Fernando Camacho|Camacho]]<br /><small>[[Creemos]]</small>
+![[Jorge Quiroga|Quiroga]]<br /><small>Libre 21</small>
+![[Eva Copa|Copa]] <br /><small>[[Independent politician|Ind.]]</small>
+![[Samuel Doria Medina|Medina]]<br /><small>[[National Unity Front|UN]]</small>
+![[Vicente Cuellar|Cuellar]]<br /><small>[[Cambio25]]</small>
+![[Jaime Soliz Pheil|Soliz]]<br /><small>[[Christian Democratic Party (Bolivia)|PDC]]</small>
+![[Marcelo Claure|Claure]]<br /><small>[[Independent politician|Ind.]]</small>
+![[Edmand Lara|Lara]]<br /><small>NIL</small>
+![[Rodrigo Paz|Paz]]<br /><small>[[Civic Community|CC]]</small>
+![[David Choquehuanca|Choquehuanca]]<br /><small>[[Movimiento al Socialismo|MAS]]</small>
+! rowspan="2" |Undecided
+! rowspan="2" |Lead
+|-
+| bgcolor="#143a82" |
+| bgcolor="#ef6424" |
+| bgcolor="#143a82" |
+| bgcolor="silver" |
+| bgcolor="purple" |
+| bgcolor="#143a82" |
+| bgcolor="silver" |
+| bgcolor="#D02D69" |
+| bgcolor="#099837" |
+| bgcolor="#808080" |
+| bgcolor="#fdd601" |
+| bgcolor="#fdd601" |
+| {{party color cell|Christian Democratic Party (Bolivia)}}
+| bgcolor=silver |
+| bgcolor=gold |
+| bgcolor="#ef6424" |
+| bgcolor="#143a82" |
+|-
+|15 November 2024
+|[https://eju.tv/2024/11/estudio-de-consultora-morris-revela-que-manfred-lidera-intencion-de-voto-y-que-el-80-de-la-gente-rechaza-bloqueos/ Consultora Morris]
+| –
+|1%
+|25%
+| –
+| style="background:#E1C8FA" |'''35%'''
+|12%
+|1%
+|6%
+|14%
+| –
+|2%
+|0.8%
+| –
+| –
+| –
+|0.2%
+| –
+| –
+|'''10%'''
+|-
+|2–15 Nov 2024
+|[https://eju.tv/2024/11/encuesta-revela-rechazo-general-a-posibles-candidatos-arce-y-morales-lideran-indices-de-desfavorabilidad/ Panterra]
+|17%
+|6%
+| –
+| –
+| style="background:#E1C8FA" |'''18%'''
+|4%
+| –
+|9%
+|9%
+| –
+|13%
+| –
+| –
+| –
+| –
+|
+| –
+|21%
+|'''1%'''
+|-
+|Sep 2024
+|[https://eju.tv/2024/10/encuesta-de-intencion-de-voto-ratifica-empate-catastrofico-para-2025-indecisos-definiran-al-ganador/ Diagonsis]
+|10%
+|8%
+|10%
+| –
+|10%
+| style="background:#ADD8E6" |'''16%'''
+| –
+|4%
+| –
+| –
+|4%
+|9%
+| –
+| –
+| –
+|
+| 3%
+|9%
+|'''6%'''
+|-
+|Jun 2024
+|[https://eju.tv/2024/07/encuesta-de-poder-y-placer-posesiona-a-manfred-y-andronico-como-favoritos/ Captura Consulting]
+| –
+|6%
+| style="background:#ADD8E6" |'''13%'''
+|10%
+| style="background:#E1C8FA" |'''13%'''
+| –
+|6%
+|10%
+|4%
+| –
+|9%
+|5%
+| –
+| –
+|3%
+|
+| –
+|19%
+|'''0'''
+|-
+|May 2024
+|[https://informes.diagnosisestudios.com/48-24-intencion-de-voto-14 Diagnosis]
+|9%
+|9%
+|7%
+|
+|5%
+| style="background:#ADD8E6" |'''19%'''
+| –
+|3%
+| –
+| –
+|2%
+|7%
+| –
+| –
+| –
+| –
+| –
+|10%
+|'''12%'''
+|-
+|Apr 2024
+|[https://rcbolivia.com/quien-cree-usted-que-seria-el-mejor-candidato-para-las-proximas-elecciones-presidenciales/ Coolosa Comunicaciones]
+|7.73%
+|7.52%
+|0.79%
+|5.80%
+| style="background:#E1C8FA" |'''11.06%'''
+|8.79%
+| –
+|1.71%
+|3.86%
+|1.25%
+|5.95%
+|10.77%
+|1.29%
+| –
+|5.04%
+|2.82%
+| –
+|4.22%
+|'''0.83%'''
+|-
+|16–17 Mar 2024
+|[https://informes.diagnosisestudios.com/33-24-intencion-de-voto-13 Diagnosis]
+|12%
+|10%
+|7%
+| –
+|2%
+| style="background:#ADD8E6" |'''17%'''
+| –
+|2%
+| –
+| –
+|4%
+|9%
+| –
+| –
+|
+| –
+| –
+| –
+|'''5%'''
+|-
+|15 March 2024
+|[https://www.opinion.com.bo/articulo/pais/encuesta/20240315144331939900.html Captura Consulting]
+| –
+|8%
+|11%
+|7%
+|12%
+| style="background:#ADD8E6" |'''16%'''
+|2%
+|7%
+| –
+| –
+|9%
+|3%
+| –
+|7%
+|
+| –
+| –
+|18%
+|'''4%'''
+|-
+|Nov 2023
+|[https://informes.diagnosisestudios.com/137-23-intencion-de-voto-11 Diagnosis]
+|11%
+|12%
+| –
+| –
+|3%
+| style="background:#ADD8E6" |'''21%'''
+| –
+|4%
+| –
+| –
+|5%
+|9%
+| –
+| –
+|
+| –
+| –
+|12%
+|'''9%'''
+|-
+|9–10 Sep 2023
+|[https://informes.diagnosisestudios.com/118-23-intencion-de-voto-10 Diagnosis]
+|9%
+|11%
+| –
+| –
+|4%
+| style="background:#ADD8E6" |'''18%'''
+| –
+|4%
+| –
+| –
+|6%
+|9%
+| –
+| –
+|
+| –
+| –
+|14%
+|'''7%'''
+|-
+|19–20 Aug 2023
+|[https://informes.diagnosisestudios.com/107-23-intencion-de-voto-9 Diagnosis]
+|10%
+|13%
+|3%
+| –
+|3%
+| style="background:#ADD8E6" |'''14%'''
+| –
+|2%
+| –
+| –
+|4%
+|6%
+| –
+| –
+|
+| –
+| –
+|18%
+|'''1%'''
+|-
+|Aug 2023
+|[http://www.elalteno.com.bo/bolivia/20230908/afirman-que-evo-hace-campana-por-luis-arce Poder y Placer]
+|11%
+|10%
+| –
+|6%
+|8%
+| style="background:#ADD8E6" |'''12%'''
+| –
+|9%
+| –
+|2%
+|9%
+|3%
+| –
+|4%
+|
+| –
+|1%
+|24%
+|'''1%'''
+|-
+|8–9 Jul 2023
+|[https://lavozbolivia.com/arce-supera-a-evo-en-intencion-de-voto-para-las-elecciones-2025/ Diagnosis]
+|9%
+|13%
+| –
+| –
+|3%
+| style="background:#ADD8E6" |'''14%'''
+| –
+|2%
+| –
+| –
+|4%
+|6%
+| –
+| –
+|
+| –
+| –
+| –
+|'''1%'''
+|-
+|22 May-22 Jun 2023
+|[https://deredes.tv/2023/06/14/intencion-de-voto-en-el-alto/ Poder y Placer]
+|12%
+|13%
+| –
+|10%
+|4%
+| style="background:#ADD8E6" |'''17%'''
+| –
+|1%
+|2%
+|8%
+|13%
+|1%
+| –
+|3%
+|
+|1%
+|2%
+| –
+|'''4%'''
+|-
+|29 Dec 2022-19 Jan 2023
+|[https://twitter.com/JimenaAnteloT/status/1615880964348968960 Poder y Placer]
+|11%
+|19%
+| –
+|2%
+|9%
+| style="background:#ADD8E6" |'''21%'''
+| –
+|13%
+| –
+| –
+|19%
+| –
+| –
+|13%
+|
+| –
+| –
+|7%
+|'''2%'''
+|-
+|Jul 2022
+|[https://eju.tv/2022/07/encuesta-luis-arce-ganaria-comicios-si-la-eleccion-fuera-este-domingo/ Captura Consulting]
+|11%
+|11%
+| –
+| –
+| –
+| style="background:#ADD8E6" |'''18%'''
+| –
+|8%
+|5%
+|3%
+|3%
+| –
+| –
+| –
+|
+| –
+| –
+| –
+|'''7%'''
+|-
+|9–19 Apr 2022
+|[https://www.noticiasfides.com/nacional/politica/luis-arce-ganaria-una-nueva-eleccion-y-evo-terminaria-en-tercer-lugar-segun-encuesta-415542 Captura Consulting]
+|11%
+|11%
+| –
+| –
+|10%
+| style="background:#ADD8E6" |'''17%'''
+| –
+|15%
+|7%
+|5%
+|4%
+| –
+|3%
+| –
+|
+| –
+| –
+|20%
+|'''2%'''
+|-
+|Dec 2021
+|[https://eju.tv/2021/12/manfred-y-evo-son-favoritos-a-presidentes-en-encuesta-arce-se-ratifica-en-general/ Captura Consulting]
+| –
+|13%
+| –
+| –
+|12%
+| style="background:#ADD8E6" |'''23%'''
+| –
+|15%
+|3%
+|
+| –
+|7%
+| –
+| –
+|
+| –
+| –
+| –
+|'''8%'''
+|}</div>
+
+==Conduct==
+Voting for the first round took place on 17 August 2025, with polls open from 08:00 to 16:00.<ref>{{Cite web |date=17 August 2025 |title=Bolivia heads to the polls as 20 years of leftist rule expected to end |url=https://www.aljazeera.com/news/2025/8/17/bolivia-heads-to-the-polls-as-20-years-of-leftist-rule-expected-to-end |access-date=17 August 2025 |website=Al Jazeera}}</ref>
+
+The day was marked by several security incidents. In [[Chapare Province]], former president Evo Morales cast a null ballot while being protected by a human chain of coca growers' union members, who were shielding him from a potential arrest.<ref name="ap-20250818" />
+
+In [[Entre Ríos, Cochabamba]], Andrónico Rodríguez was targeted by a mob that threw stones at him as he went to vote, requiring a soldier to escort him.<ref>{{Cite web|date=17 August 2025|title=Una turba apedrea al candidato Andrónico Rodríguez tras emitir su voto en Bolivia|url=https://quepasamedia.com/noticias/una-turba-apedrea-al-candidato-andronico-rodriguez-tras-emitir-su-voto-en-bolivia/|access-date=17 August 2025 |website=Qué Pasa Media Network|language=es}}</ref> Rodríguez blamed the attack on "a small group of extremists identified as supporters of Morales."<ref name="result">{{cite web|url=https://www.theguardian.com/world/2025/aug/18/bolivia-presidential-election-preliminary-results |title=Two decades of leftwing dominance end in Bolivia as rightwingers head to election runoff |work=The Guardian|first=Tiago|last=Rogero|date=18 August 2025|access-date=18 August 2025}}</ref> An explosive device was later detonated at the same polling station, though it caused no significant damage or injuries.<ref>{{cite web|url=https://www.bbc.com/news/articles/c4gzlp85432o |title=Bolivia set to elect first non-left wing president in two decades |work=BBC|first=Ione|last=Wells |date=18 August 2025|access-date=18 August 2025}}</ref>
+
+==Results==
+The first-round results ended two decades of left-wing dominance in Bolivia and produced the country's first-ever presidential runoff,<ref name=":5">{{cite news |last1=Sasipornkarn |first1=Emmy |date=18 August 2025 |title=Bolivia's elections headed for first presidential runoff |url=https://www.dw.com/en/bolivias-elections-headed-for-first-presidential-runoff/a-73674414 |access-date=26 August 2025 |work=Deutsche Welle}}</ref> defying pre-election polls.<ref name="ap-20250818" /><ref name="result" /> In a surprise outcome, centrist Rodrigo Paz led with 32.06% of the vote, followed by conservative Jorge Quiroga Ramírez with 26.70%, while Samuel Doria Medina (19.69%) was eliminated.<ref name="result" /> True to his pledge to back the leading candidate if defeated, Doria Medina endorsed Paz for the runoff.<ref>{{cite news |date=17 August 2025 |title=Samuel Medina reconoce su derrota y anuncia respaldo a Rodrigo Paz en la segunda vuelta en Bolivia |url=https://monitoreamos.com/mundo/samuel-medina-reconoce-su-derrota-y-anuncia-respaldo-a-rodrigo-paz-en-la-segunda-vuelta-en-bolivia |access-date=26 August 2025 |work=Monitoreamos}}</ref> Altogether, right-leaning candidates obtained more than 68% of the vote.
+
+The ruling Movimiento al Socialismo (MAS) suffered a historic setback. Its nominees, Andrónico Rodríguez (8.51%) and Eduardo del Castillo (3.17%), failed to reach the second round—marking the party's first presidential loss in twenty years.<ref name=":5" /> MAS was nearly wiped out in Congress, losing all 21 Senate seats and retaining only two of its 75 in the Chamber of Deputies.<ref>{{cite news |date=27 August 2025 |title=Bolivia's long-ruling party was almost eliminated from Congress, final vote results show |url=https://apnews.com/article/bolivia-elections-congress-paz-quiroga-opposition-9d79eeec80bc660b85c243b668b903de |access-date=27 August 2025 |work=AP News}}</ref> The election also saw an unusually high protest vote, with invalid and blank ballots exceeding 20% of the total.<ref>{{cite news |date=18 August 2025 |title=1 in 5 Bolivians spoiled their ballots – a sign of voter dissatisfaction as nation tips to the right |url=https://theconversation.com/1-in-5-bolivians-spoiled-their-ballots-a-sign-of-voter-dissatisfaction-as-nation-tips-to-the-right-263166 |access-date=26 August 2025 |work=The Conversation}}</ref> Former president Evo Morales, who had urged supporters to cast null votes after his exclusion from the race, hailed the result as a symbolic victory.<ref>{{cite news |date=18 August 2025 |title=Présidentielle en Bolivie: l'ancien président Evo Morales salue l'ampleur du vote nul |trans-title=Presidential election in Bolivia: Former president Evo Morales applauds invalid vote numbers |url=https://www.lalibre.be/dernieres-depeches/2025/08/18/presidentielle-en-bolivie-lancien-president-evo-morales-salue-lampleur-du-vote-nul-HKNLWJAKMBAMLO64W7IHGDRWAY/ |access-date=26 August 2025 |work=La Libre |language=fr}}</ref><ref name="result" />
+
+The presidential runoff took place on 19 October 2025.<ref name="runoffresults">{{cite news |last1=Elliot |first1=Lucinda |last2=Machicao |first2=Monica |date=19 October 2025 |title=Bolivian polls close in election steering country closer to US |url=https://www.reuters.com/world/americas/bolivia-votes-runoff-election-marking-pro-market-shift-us-embrace-2025-10-19/ |accessdate=19 October 2025 |publisher=Reuters}}</ref> Preliminary results released after 21:00 local time showed Rodrigo Paz winning with 54.53% of the vote against Jorge Quiroga's 45.47%.<ref name="Reuters Results">{{cite web |last1=Ramos |first1=Daniel |title=Bolivia Centrist Rodrigo Paz wins presidential runoff, early official count shows |url=https://www.reuters.com/world/americas/bolivia-centrist-rodrigo-paz-wins-presidential-runoff-early-official-count-shows-2025-10-20/ |access-date=20 October 2025 |website=[[Reuters]]}}</ref> Quiroga conceded several hours later,<ref name="concedes">{{cite news |date=19 October 2025 |title=Bolivian presidential candidate Jorge 'Tuto' Quiroga concedes election defeat |url=https://ca.news.yahoo.com/bolivian-presidential-candidate-jorge-tuto-023146046.html |work=Yahoo! News}} {{Dead link|date=October 2026 |bot=InternetArchiveBot }}</ref> acknowledging Paz's victory and calling on his supporters and the nation to pursue reconciliation and a peaceful transition of power.<ref>{{Cite web |date=20 October 2025 |title=Rodrigo Paz wins presidential runoff, becoming Bolivia's first conservative leader in decades |url=https://apnews.com/article/bolivia-runoff-election-jorge-quiroga-rodrigo-paz-ef7643d07d8968452cdce784e75a7810 |access-date=20 October 2025 |website=[[AP News]]}}</ref>
+
+===President===
+<onlyinclude>{{Election results
+|partytitle=Party or alliance
+|party1=[[Christian Democratic Party (Bolivia)|Christian Democratic Party]]|cand1=[[Rodrigo Paz]]|vp1=[[Edmand Lara]]|votes1=1717432 |votes1_2=3519534
+|party2=[[Libre (Bolivia)|Libre – Freedom and Democracy]]|cand2=[[Jorge Quiroga]]|vp2=[[Juan Pablo Velasco]]|votes2=1430176 |votes2_2=2884661
+|party3=[[Unity (Bolivia)|Unity Bloc]]|cand3=[[Samuel Doria Medina]]|vp3=[[José Luis Lupo]]|votes3=1054568
+|party4=[[Popular Alliance (Bolivia)|Popular Alliance]]|cand4=[[Andrónico Rodríguez]]|vp4=[[Mariana Prado]]|votes4=456002
+|party5=[[APB Súmate|Autonomy for Bolivia – Súmate]]|cand5=[[Manfred Reyes Villa]]|vp5=[[Juan Carlos Medrano]]|votes5=361640
+|party6=[[Movimiento al Socialismo]]|cand6=[[Eduardo Del Castillo]]|vp6=[[Milán Berna]]|votes6=169887
+|party7=[[Solidarity Civic Unity|Force of the People]]|cand7=[[Jhonny Fernández]]|vp7=[[Rosa Huanca]]|votes7=89253
+|party8=[[Nationalist Democratic Action|Liberty and Progress ADN]]|cand8=[[Pavel Aracena]]|vp8=[[Víctor Hugo Núñez]]|votes8=77576
+|invalid=1371049|invalid2=317847
+|blank=172835|blank2=49769
+|electorate=7936515
+|electorate2=7936515
+|source=[https://computo.oep.org.bo/ OEP]
+}}</onlyinclude>
+
+===Chamber of Deputies===
+{{Election results
+|image=[[File:Bolivia Chamber of Deputies 2025.svg]]
+|partytitle=Party or alliance
+|firstround=List (compensatory)
+|secondround=Constituency
+|thirdround=Indigenous
+|party1=[[Christian Democratic Party (Bolivia)|Christian Democratic Party]]|votes1=1683891|seats1=17|votes1_2=1121865|seats1_2=30|votes1_3=5266|seats1_3=2|totseats1=49|sc1=
+|party2=[[Libre (Bolivia)|Libre – Liberty and Democracy]]|votes2=1397226|seats2=17|votes2_2=1192394|seats2_2=20|votes2_3=8254|seats2_3=2|totseats2=39|sc2=
+|party3=[[Unity (Bolivia)|Unity Bloc]]|votes3=1039426|seats3=15|votes3_2=939038|seats3_2=11|votes3_3=8119|seats3_3=0|totseats3=26|sc3=
+|party4=[[Popular Alliance (Bolivia)|Popular Alliance]]|votes4=439388|seats4=5|votes4_2=336735|seats4_2=2|votes4_3=6630|seats4_3=1|totseats4=8|sc4=
+|party5=[[APB Súmate|Autonomy for Bolivia – Súmate]]|votes5=347574|seats5=5|votes5_2=373103|seats5_2=0|votes5_3=2344|seats5_3=0|totseats5=5|sc5=
+|party6=[[Movimiento al Socialismo]]|votes6=166917|seats6=1|votes6_2=209040|seats6_2=0|votes6_3=6382|seats6_3=1|totseats6=2|sc6=
+|party7=[[Solidarity Civic Unity|Force of the People]]|votes7=86154|seats7=0|votes7_2=81586|seats7_2=0|votes7_3=1522|seats7_3=0|totseats7=0|sc7=
+|party8=[[Nationalist Democratic Action|Liberty and Progress ADN]]|votes8=76349|seats8=0|votes8_2=86522|seats8_2=0|votes8_3=639|seats8_3=0|totseats8=0|sc8=
+|party9=Indigenous Organisation of Chiquitanía|votes9_3=2266|seats9_3=0|totseats9=0|sc9=
+|party10=Yuqui Bia Recuate Indigenous Council|votes10_3=412|seats10_3=1|totseats10=1|sc10=|color10=#EF84AE
+|invalid=1325596|invalid2=1244728|invalid3=15876
+|blank=169327|blank2=1062028|blank3=25878
+|electorate=7567207|electorate2=7567207|electorate3=94871
+|source=[https://computo.oep.org.bo/ OEP], [https://unitel.bo/noticias/asi-decidimos/mira-la-lista-oficial-de-los-senadores-y-diputados-electos-el-17-de-agosto-IE17135841 OEP]
+}}
+
+===Chamber of Senators===
+{{Election results
+|image=[[File:Bolivia Senate 2025.svg]]
+|reporting = 
+|partytitle=Party or alliance
+|party1=[[Christian Democratic Party (Bolivia)|Christian Democratic Party]]|votes1=1683891|seats1=16|sc1=
+|party2=[[Libre (Bolivia)|Libre – Liberty and Democracy]]|votes2=1397226|seats2=12|sc2=
+|party3=[[Unity (Bolivia)|Unity Bloc]]|votes3=1039426|seats3=7|sc3=
+|party4=[[Popular Alliance (Bolivia)|Popular Alliance]]|votes4=439388|seats4=0|sc4=
+|party5=[[APB Súmate|Autonomy for Bolivia – Súmate]]|votes5=347574|seats5=1|sc5=
+|party6=[[Movimiento al Socialismo]]|votes6=166917|seats6=0|sc6=
+|party7=[[Solidarity Civic Unity|Force of the People]]|votes7=86154|seats7=0|sc7=
+|party8=[[Nationalist Democratic Action|Liberty and Progress ADN]]|votes8=76349|seats8=0|sc8=
+|invalid=1325596
+|blank=169327
+|electorate=7567207
+|source=[https://computo.oep.org.bo/ OEP], [https://unitel.bo/noticias/asi-decidimos/mira-la-lista-oficial-de-los-senadores-y-diputados-electos-el-17-de-agosto-IE17135841 OEP]
+}}
+
+==Reactions==
+* {{Flag|Argentina}}: President [[Javier Milei]] congratulated both Rodrigo Paz and the Bolivian people on his election victory, and stating that Bolivia "left behind 20 years of the failed model that was [[socialism of the 21st century]]".<ref>{{Cite web |date=20 October 2025 |title=Milei felicitó a Rodrigo Paz por el triunfo en Bolivia: "Esta jornada democrática refleja el anhelo de libertad" |url=https://www.lanacion.com.ar/politica/milei-felicito-a-rodrigo-paz-por-el-triunfo-en-bolivia-esta-jornada-democratica-refleja-el-anhelo-de-nid20102025/ |access-date=22 October 2025 |website=La Nación (Argentina) |language=es}}</ref>
+* {{Flag|Brazil}}: President [[Lula da Silva]] congratulated Rodrigo Paz on his election victory, and talked about preserving [[Bolivia–Brazil relations|relations]] between Bolivia and Brazil.<ref>{{Cite web |date=20 October 2025 |title=Lula parabeniza Rodrigo Paz por eleição na Bolívia e fala em "cooperação" |url=https://www.cnnbrasil.com.br/politica/lula-parabeniza-rodrigo-paz-por-eleicao-na-bolivia-e-fala-em-cooperacao/ |access-date=22 October 2025 |website=CNN Brasil |language=pt}}</ref>
+* {{Flag|Chile}}: President [[Gabriel Boric]] congratulated Rodrigo Paz on his election victory, reaffirming Chile's "commitment to strengthening cooperation and joint work between brotherly nations for the benefit of our peoples." Boric also praised the Bolivian people for their participation in the runoff between Paz and Quiroga.<ref>{{Cite web |last=Ovalle |first=Christian |date=20 October 2025 |title=Boric felicita a presidente electo de Bolivia Rodrigo Paz y reafirma compromiso de trabajo conjunto |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/10/20/boric-felicita-a-presidente-electo-de-bolivia-rodrigo-paz-y-reafirma-compromiso-de-trabajo-conjunto.shtml |access-date=22 October 2025 |website=BioBioChile – La Red de Prensa Más Grande de Chile |language=es}}</ref>
+* {{Flag|Israel}}: Foreign minister [[Gideon Sa'ar]] congratulated Rodrigo Paz, stating that Bolivia and Israel will "turn a new page and fully renew [[Bolivia–Israel relations|diplomatic relations]] between the countries". Relations between the two countries were strained since the start of the [[Gaza war]] in 2023.<ref>{{Cite web |url=https://www.ynetnews.com/article/bjhwqfvaxg |last=Eichner |first=Itamar |publisher=[[Ynet]] |date=20 October 2025 |accessdate=21 October 2025 |language=en |title=Bolivia is ready to renew relations with Israel: 'A new page'}}</ref>
+* {{Flag|Paraguay}}: President [[Santiago Peña]] congratulated Rodrigo Paz on his election win, and emphasized the "brotherly [[Bolivia–Paraguay relations|ties]]" between Bolivia and Paraguay.<ref>{{cite web|access-date=21 October 2025 |date=20 October 2025 |language=es |title=Peña felicita a Paz por triunfo en Bolivia y ve ocasión de fortalecer "lazos de hermandad" |url=https://www.swissinfo.ch/spa/pe%C3%B1a-felicita-a-paz-por-triunfo-en-bolivia-y-ve-ocasi%C3%B3n-de-fortalecer-%22lazos-de-hermandad%22/90196691 |website=SWI}}<!-- auto-translated from Spanish by Module:CS1 translator --></ref>
+* {{Flag|Peru}}: President [[José Jeri]] congratulated Rodrigo Paz, and stated that the [[Bolivia–Peru relations|relations]] between the two countries are a "priority".<ref>{{Cite news|title=El presidente del Perú José Jerí felicita al presidente electo de Bolivia, Rodrigo Paz, y propone retomar diálogo al más alto nivel|url=https://www.infobae.com/peru/2025/10/20/jose-jeri-felicita-al-presidente-electo-de-bolivia-rodrigo-paz-y-propone-retomar-dialogo-al-mas-alto-nivel/|date=20 October 2025|access-date=20 October 2025|publisher=infobae.com}}</ref><ref>{{cite news|title=Presidente José Jerí Oré felicita al nuevo presidente de Bolivia por su triunfo en la segunda vuelta electoral|url=https://www.gob.pe/institucion/presidencia/noticias/1268649-presidente-jose-jeri-ore-felicita-al-nuevo-presidente-de-bolivia-por-su-triunfo-en-la-segunda-vuelta-electoral|date=19 October 2025|access-date=20 October 2025|publisher=gob.pe}}</ref>
+* {{Flag|United States}}: Secretary of State [[Marco Rubio]] congratulated Rodrigo Paz saying that his victory marks the end of nearly two decades of "government mismanagement and bad governance in Bolivia" and also pledged to work with the incoming Bolivian administration to help them [[War on drugs|fight against drug cartels and criminal gangs]].{{citation needed|date=October 2025}} Shortly before the second round of elections, Rubio said on 15 October 2025 that the two leading candidates (Libre and the PDC), "[[Bolivia–United States relations|want better relations with the United States]] after years of [[Anti-Americanism|anti-American]] leadership in Bolivia" and also said that the election would be a "transformative opportunity'.<ref name="runoffresults"/>
+
+==See also==
+*[[2024 Bolivian coup attempt]]
+
+== References ==
+{{Reflist}}
+
+{{Bolivian elections}}
+
+[[Category:2025 elections in South America|Bolivian general election]]
+[[Category:2025 in Bolivia|General election]]
+[[Category:August 2025 in South America|Bolivian general election]]
+[[Category:October 2025 in South America|Bolivian general election]]
+[[Category:Parliamentary elections in Bolivia]]
+[[Category:Presidential elections in Bolivia]]

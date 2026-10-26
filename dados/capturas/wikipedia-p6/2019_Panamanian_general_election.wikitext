@@ -1,0 +1,490 @@
+{{Short description|none}}
+{{Infobox election
+| country = Panama
+| previous_election = 2014 Panamanian general election
+| previous_year = 2014
+| next_election = 2024 Panamanian general election
+| next_year = 2024
+| election_date = {{Start date|2019|5|5|df=y}}
+
+| module = {{Infobox election
+| type = presidential
+| election_name = Presidential election
+| embed = yes
+| alliance_name = no
+| turnout = 73.01% ({{decrease}} 3.75[[percentage point|pp]])
+
+| image1 = Laurentino Cortizo at the Enthronement of Naruhito (1).jpg
+| candidate1 = '''[[Laurentino Cortizo]]'''
+| running_mate1 = '''[[Jose Gabriel Carrizo]]'''
+| party1 = Democratic Revolutionary Party
+| alliance1 = Joining Forces
+| popular_vote1 = '''655,302'''
+| percentage1 = '''33.35%'''
+
+| image2 = Romulo Roux (cropped).jpg
+| candidate2 = [[Rómulo Roux]]
+| running_mate2 = Luis Casis
+| party2 = Democratic Change (Panama)
+| alliance2 = Change to Wake Up
+| popular_vote2 = 609,003
+| percentage2 = 31.00%
+
+| image4 = Ricardo Lombana.jpg
+| candidate4 = [[Ricardo Lombana]]
+| running_mate4 = Guillermo Márquez
+| party4 = Independent politician
+| popular_vote4 = 368,962
+| percentage4 = 18.78%
+
+| image5 = Jose Isabel Blandon.jpg
+| candidate5 = [[José Isabel Blandón Figueroa|José Blandón]]
+| running_mate5 = Nilda Quijano Peña
+| party5 = Panameñista Party
+| alliance5 = Panama We Can
+| popular_vote5 = 212,931
+| percentage5 = 10.84%
+
+| map_image = Panama 2019 Presidential Election Vote Share Map.png
+| map_caption = Results by province
+
+| title = [[President of Panama|President]]
+| before_election = [[Juan Carlos Varela]]
+| before_party = Panameñista Party
+| after_election = [[Laurentino Cortizo]]
+| after_party = Democratic Revolutionary Party
+
+| module = {{Infobox legislative election  
+| embed = yes
+| election_name = Legislative election
+| seats_for_election = All 71 seats in the [[National Assembly (Panama)|National Assembly]]
+| majority_seats = 36
+| turnout =
+
+| party1 = Democratic Revolutionary Party
+| leader1 = [[Benicio Robinson]]
+| percentage1 = 29.99
+| last_election1 = 26
+| seats1 = 35
+
+| party2 = Democratic Change (Panama)
+| leader2 = [[Rómulo Roux]]
+| percentage2 = 22.45
+| last_election2 = 24
+| seats2 = 18
+
+| party3 = Panameñista Party
+| leader3 = [[José Luis Varela (politician)|José Luis Varela]]
+| percentage3 = 17.30
+| last_election3 = 16
+| seats3 = 8
+
+| party4 = Nationalist Republican Liberal Movement
+| leader4 = [[Francisco Alemán]]
+| percentage4 = 5.11
+| last_election4 = 2
+| seats4 = 5
+
+| party5 = [[Independent politician|Independents]]
+| color5 = {{party color|Independent}}
+| leader5 = –
+| percentage5 = 17.88
+| last_election5 = 1
+| seats5 = 5
+
+| map = Results of the 2019 Panama Legislative election.png
+| map_upright = 1.55
+| map_caption = Results by circuit<ref>{{cite web |title=REPUBLIC OF PANAMA - LEGISLATIVE ELECTION OF 5 MAY 2014 |url=http://psephos.adam-carr.net/countries/p/panama/panama20192.txt |access-date=4 May 2021}}</ref><ref>{{cite web |title=IFES Election Guide {{!}} Elections: Panama Parliament 2019 |url=https://www.electionguide.org/elections/id/3222/ |website=www.electionguide.org |access-date=4 May 2021}}</ref>
+
+}}}}}}
+
+General elections were held in [[Panama]] on 5 May 2019.<ref>[http://www.electionguide.org/countries/id/167/ Panama] IFES</ref> Due to [[Constitution of Panama|constitutional term limits]], [[incumbent]] [[President of Panama|President]] [[Juan Carlos Varela]] was ineligible for a second consecutive term.<ref>{{Cite web|url=https://www.tribunal-electoral.gob.pa/wp-content/uploads/2018/08/DECRETO-22-Y-23-DEL-5-DE-MAYO-DE-2018.pdf|title=Decree of the electoral court for the holding of elections|access-date=2018-11-18|archive-date=2019-09-15|archive-url=https://web.archive.org/web/20190915101602/https://www.tribunal-electoral.gob.pa/wp-content/uploads/2018/08/DECRETO-22-Y-23-DEL-5-DE-MAYO-DE-2018.pdf}}</ref> Businessman and politician [[Laurentino Cortizo]] of the centre-left [[Democratic Revolutionary Party]] won the election with around 33% of the vote, narrowly defeating [[Rómulo Roux]] of the centre-right [[Democratic Change (Panama)|Democratic Change]], who won 31% of the vote. The PRD also won a majority in the [[National Assembly (Panama)|National Assembly]].<ref name=":0">{{Cite web |date=2019-05-06 |title=Elecciones 2019: ¿quiénes ganaron?, ¿quiénes perdieron? |url=https://www.prensa.com/impresa/panorama/Elecciones-ganaron-perdieron_0_5298220145.html |access-date=2024-05-23 |website=www.prensa.com |language=es}}</ref> The ruling [[Panameñista Party]] of President Juan Carlos Varela suffered its worst result in history.<ref name=":1">{{Cite web |date=2019-05-20 |title=La debacle del Partido Panameñista |url=https://www.prensa.com/impresa/panorama/debacle-Partido-Panamenista_0_5307969226.html |access-date=2024-05-23 |website=www.prensa.com |language=es}}</ref> Its candidate, Panama City mayor José Isabel Blandón, received only 11% of the vote and came in fourth behind independent candidate Ricardo Lombana.<ref name=":0" /> The party also lost half its seats in the [[National Assembly (Panama)|National Assembly]].<ref name=":1" />
+
+== Background ==
+Incumbent President [[Juan Carlos Varela]] was elected in [[2014 Panamanian general election|2014]] with 39% of the vote.<ref>{{Cite web |date=2014-05-05 |title=Panamá elige a Juan Carlos Varela, el peor enemigo del presidente Martinelli |url=https://www.bbc.com/mundo/noticias/2014/05/140504_panama_presidente_varela_perfil_az |access-date=2024-05-23 |website=BBC News Mundo |language=es}}</ref> Polls showed him to be the second most unpopular president in Latin America by 2018, with a 57% disapproval rating.<ref>{{Cite web |date=2018-02-10 |title=Varela tuvo menos 33 de aprobación en enero |url=https://www.panamaamerica.com.pa/nacion/varela-tuvo-menos-33-de-aprobacion-en-enero-1096817 |access-date=2024-05-23 |website=Panamá América |language=es}}</ref>
+
+Corruption became a major issue during the campaign,<ref>{{Cite web |date=May 1, 2019 |author=Mat Youkee |title=Elections 2019: Five Things to Know About Panama's May 5 Vote |url=https://www.americasquarterly.org/article/elections-2019-five-things-to-know-about-panamas-may-5-vote/ |access-date=2024-05-23 |website=Americas Quarterly |language=en-US}}</ref> being the first election held after the [[Panama Papers]] leak, which exposed the extent of the country's involvement in [[tax evasion]].<ref>{{Cite web |last=Journalists |first=The International Consortium of Investigative |title=Giant Leak of Offshore Financial Records Exposes Global Array of Crime and Corruption - The Panama Papers |url=https://www.occrp.org/en/panamapapers/overview/intro/ |access-date=2024-05-23 |website=OCCRP |language=en}}</ref> Investigations into mass bribery by the Brazilian company [[Odebrecht]] also took place during the preceding presidential term,<ref>{{Cite web |last=marpichel |date=2017-06-01 |title=Caso Odebrecht en Panamá: 36 procesados y 56 millones aprehendidos |url=https://cnnespanol.cnn.com/2017/06/01/caso-odebrecht-en-panama-36-procesados-y-56-millones-aprehendidos/ |access-date=2024-05-23 |website=CNN |language=es}}</ref> with the presidential administrations of [[Martín Torrijos]], [[Ricardo Martinelli]], and Juan Carlos Varela all being subject to scrutiny.<ref>{{Cite web |date=2018-07-13 |title=El expresidente panameño Martín Torrijos fue investigado por el caso Odebrecht |url=https://www.france24.com/es/20180713-el-expresidente-panameno-martin-torrijos-fue-investigado-por-el-caso-odebrecht |access-date=2024-05-23 |website=France 24}}</ref> Martinelli was also investigated for wiretapping political opponents,<ref>{{Cite web |last=Noticias |first=Redacción de TVN |date=2015-10-29 |title=Tras 20 días de acusación contra Martinelli por "pinchazos" Mejía aún no actúa |url=https://www.tvn-2.com/nacionales/acusacion-martinelli-pinchazos-mejia-actua_1_1709598.html |access-date=2024-05-23 |website=Tvn Panamá |language=es}}</ref> which resulted in his being disqualified in his campaigns for Assembly deputy and [[Panama City]] mayor.<ref>{{Cite web |date=2019-04-26 |title=Panamá: Tribunal anula candidaturas del expresidente Ricardo Martinelli |url=https://www.france24.com/es/20190426-ricardo-martinelli-elecciones-panama |access-date=2024-05-23 |website=France 24}}</ref>
+
+==Electoral system==
+The President was elected through [[plurality vote]] in one round.
+
+Of the 71 members of the [[National Assembly (Panama)|National Assembly]], 26 were elected in single-member constituencies and 45 by proportional representation in multi-member constituencies. Each [[Districts of Panama|district]] with more than 40,000 inhabitants formed a constituency. Constituencies elected one MP for every 30,000 residents and an additional representative for every fraction over 10,000.<ref name=IPU>[http://www.ipu.org/parline-e/reports/2245_B.htm Electoral system] IPU</ref>
+
+In single-member constituencies, MPs were elected using the [[first-past-the-post voting|first-past-the-post system]]. In multi-member constituencies MPs were elected using party list [[proportional representation]] according to a double quotient; the first allocation of seats used a simple quotient, further seats were allotted using the quotient divided by two, with any remaining seats are awarded to the parties with the greatest remainder.<ref name=IPU/>
+
+== Presidential candidates ==
+The following seven candidates contested the election:<ref>{{Cite news |title=Quiénes son y qué proponen los 4 principales candidatos que se disputan la presidencia de Panamá |url=https://www.bbc.com/mundo/noticias-america-latina-48128432 |access-date=2024-06-22 |work=BBC News Mundo |language=es}}</ref>
+
+* [[Laurentino Cortizo|Laurentino "Nito" Cortizo]] – [[Democratic Revolutionary Party]] (PRD)
+* [[José Isabel Blandón Figueroa|José Isabel Blandón]] - [[Panameñista Party]]
+* [[Rómulo Roux]] - [[Democratic Change (Panama)|Cambio Democrático]] (CD)
+* [[Saúl Méndez]] - [[Broad Front for Democracy]] (FAD)
+* [[Ana Matilde Gómez]] - Independent
+* [[Marco Ameglio]] - Independent
+* [[Ricardo Lombana]] - Independent
+
+=== Candidate selection ===
+
+==== Democratic Revolutionary Party ====
+[[Laurentino Cortizo|Nito Cortizo]] won the PRD's presidential primary, held on 16 September 2023. He defeated Assembly member [[Zulay Rodríguez]] and former President [[Ernesto Pérez Balladares]].<ref>{{Cite web |date=2018-09-17 |title=Laurentino Cortizo gana las primarias presidenciales del PRD |url=https://www.prensa.com/politica/Laurentino-Cortizo-primarias-presidenciales-PRD_0_5124237558.html |access-date=2024-06-22 |website=www.prensa.com |language=es}}</ref> The [[Nationalist Republican Liberal Movement]] allied itself with the PRD.<ref>{{Cite web |date=2018-12-31 |title=PRD y Molirena inscriben su alianza ante el Tribunal Electoral |url=https://www.prensa.com/politica/PRD-Molirena-inscriben-Tribunal-Electoral_0_5203729584.html |access-date=2024-06-22 |website=www.prensa.com |language=es}}</ref><ref>{{Cite web |date=2018-12-23 |title=PRD celebra directorio nacional extraordinario |url=https://www.panamaamerica.com.pa/politica/prd-celebra-directorio-nacional-extraordinario-1124113 |access-date=2024-06-22 |website=Panamá América |language=es}}</ref> He selected [[José Gabriel Carrizo]] as his running mate.<ref>{{Cite web |date=2019-02-02 |title=¿Quién es José Gabriel Carrizo Jaén, compañero de fórmula de Cortizo? |url=https://www.prensa.com/politica/Jose-Gabriel-Carrizo-Jaen_0_5228477125.html |access-date=2024-06-22 |website=www.prensa.com |language=es}}</ref>
+
+==== Panameñista Party ====
+[[Panama City]] mayor [[José Isabel Blandón Figueroa|José Blandón]] won the Panameñista primary, beating former Housing Minister Mario Etchelecu.<ref>{{Cite web |date=2018-10-28 |title=José Blandón gana candidatura presidencial del Partido Panameñista |url=https://www.telemetro.com/noticias/2018/10/28/jose-blandon-presidencial-partido-panamenista/1093869.html |access-date=2024-06-22 |website=www.telemetro.com |language=es-PA}}</ref> The [[People's Party (Panama)|People's Party]] allied itself with the Panameñista Party,<ref>{{Cite web |date=2018-11-26 |title=Partido Popular oficializa apoyo a Blandón para 2019 |url=https://www.prensa.com/impresa/panorama/Partido-Popular-oficializa-apoyo-Blandon_0_5176732355.html |access-date=2024-06-22 |website=www.prensa.com |language=es}}</ref> maintaining the alliance that had also been seen in the [[2014 Panamanian general election|2014 elections]].<ref>{{Cite web |date=2013-06-23 |title=El Directorio del PP aprobó la alianza con el Partido Panameñista |url=https://www.telemetro.com/voto-2014/2013/06/23/directorio-pp-alianza-partido-panamenista/1858957.html |access-date=2024-06-22 |website=www.telemetro.com |language=es-PA}}</ref> He selected Nilda Quijano as his running mate.<ref>{{Cite web |title=Nilda Quijano acompañará a Blandón en la vicepresidencia |url=https://www.laestrella.com.pa/panama/politica/nilda-quijano-blandon-acompanara-vicepresidencia-YMLE7450 |access-date=2024-06-22 |website=www.laestrella.com.pa |language=es-PA}}</ref>
+
+==== Democratic Change ====
+[[Rómulo Roux]], a former Canal Minister and Foreign Minister, won the CD presidential primary, defeating [[José Raúl Mulino]],<ref>{{Cite web |date=2018-08-12 |title=Rómulo Roux gana candidatura presidencial de Cambio Democrático |url=https://www.telemetro.com/noticias/2018/08/12/romulo-roux-presidencial-cambio-democratico/1121717.html |access-date=2024-06-22 |website=www.telemetro.com |language=es-PA}}</ref> winning 68% to Mulino's 29%.<ref>{{Cite web |last=Noticias |first=Redacción de TVN |date=2018-08-12 |title=Rómulo Roux se convierte en el candidato presidencial de Cambio Democrático |url=https://www.tvn-2.com/nacionales/politica/romulo-roux-ganador-primarias-cd-presidencial-video_1_1304767.html |access-date=2024-06-22 |website=Tvn Panamá |language=es}}</ref> He chose reporter Luis Casis as his running mate.<ref>{{Cite web |date=2019-02-03 |title=Luis Casis, compañero de fórmula del candidato presidencial Rómulo Roux |url=https://www.prensa.com/politica/Luis-Casis-presidencial-Romulo-Roux_0_5229227037.html |access-date=2024-06-22 |website=www.prensa.com |language=es}}</ref>
+
+==== Alliance Party ====
+The [[Alliance Party (Panama)|Alliance Party]] was a new political party led by Assembly member José Muñoz. [[José Domingo Arias]], the losing CD presidential candidate in 2014, won its primary with over 90% of the vote.<ref>{{Cite web |title=José Domingo Arias gana las primarias presidenciales del Partido Alianza |url=https://www.laestrella.com.pa/panama/politica/jose-gana-arias-domingo-primarias-EQLE43363 |access-date=2024-06-22 |website=www.laestrella.com.pa |language=es-PA}}</ref> The party later chose to ally itself with the CD candidacy of Rómulo Roux,<ref>{{Cite web |date=2018-12-28 |title=Directorio del CD aprueba acuerdo con el partido Alianza |url=https://www.prensa.com/politica/Romulo-Roux-descarta-partidos-adversarios_0_5201479825.html |access-date=2024-06-22 |website=www.prensa.com |language=es}}</ref> with Arias declining his presidential candidacy.<ref>{{Cite web |last=Noticias |first=Redacción de TVN |date=2018-12-26 |title=‘Mimito’ Arias renuncia a la candidatura presidencial por el partido Alianza |url=https://www.tvn-2.com/100-dias-en-el-poder/noticias/mimito-arias-presidencial-partido-alianza-video_1_1303256.html |access-date=2024-06-22 |website=Tvn Panamá |language=es}}</ref>
+
+==Opinion polls==
+{| class=wikitable style=text-align:center
+!Pollster
+!Date
+![[Laurentino Cortizo|Cortizo]] (PRD)
+![[Rómulo Roux|Roux]] (CD)
+!Lombana (IND)
+|-
+|Gallup Panama<ref>{{Cite web|url=https://www.as-coa.org/articles/poll-tracker-panamas-2019-presidential-election|title = Poll Tracker: Panama's 2019 Presidential Election}}</ref>
+|17–21 March 2019
+|'''38%'''
+|21%
+|4%
+|-
+|GAD3
+|29–30 April 2019
+|'''36%'''
+|26%
+|20%
+|-
+|Doxa Panamá
+|23–28 April 2019
+|30%
+|'''32%'''
+|15%
+|-
+|Stratmark
+|22–28 April 2019
+|'''44%'''
+|27%
+|10%
+|}
+
+==Results==
+===President===
+<onlyinclude>{{Election results
+|cand1=[[Laurentino Cortizo]]|alliance1=Joining Forces|aspan1=3|party1=[[Democratic Revolutionary Party]]|votes1=609638|acolor1={{party color|Democratic Revolutionary Party}}
+|party2=[[Nationalist Republican Liberal Movement]]|votes2=45664
+|atotal3=655302
+|cand4=[[Rómulo Roux]]|alliance4=Change to Wake Up|aspan4=3|party4=[[Democratic Change (Panama)|Democratic Change]]|votes4=564297|acolor4={{party color|Democratic Change (Panama)}}
+|party5=[[Alliance Party (Panama)|Alliance Party]]|votes5=44706
+|atotal6=609003
+|cand7=[[Ricardo Lombana]]|alliance7=Independent|votes7=368962
+|cand8=[[José Isabel Blandón Figueroa|José Blandón]]|alliance8=Panama We Can|aspan8=3|party8=[[Panameñista Party]]|votes8=174113|acolor8={{party color|Panameñista Party}}
+|party9=[[People's Party (Panama)|People's Party]]|votes9=38818
+|atotal10=212931
+|cand11=[[Ana Matilde Gómez]]|alliance11=Independent|votes11=93631
+|cand12=[[Saúl Méndez]]|alliance12=[[Broad Front for Democracy]]|votes12=13540
+|cand13=[[Marco Ameglio]]|alliance13=Independent|votes13=11408
+|invalid=48656
+|electorate=2757823
+|source=[https://www.tribunal-electoral.gob.pa/eventos-electorales/plan-general-elecciones-plagel/ Election Tribunal]
+}}</onlyinclude>
+
+===National Assembly===
+<onlyinclude>{{Election results
+|image=[[File:AN Panama 2019 election.svg]]
+|party1=[[Democratic Revolutionary Party]]|votes1=542105|seats1=35|sc1=+9
+|party2=[[Democratic Change (Panama)|Democratic Change]]|votes2=405798|seats2=18|sc2=–6
+|party3=[[Panameñista Party]]|votes3=312635|seats3=8|sc3=–8
+|party4=[[Nationalist Republican Liberal Movement]]|votes4=92340|seats4=5|sc4=+3
+|party5=[[People's Party (Panama)|People's Party]]|votes5=65028|seats5=0|sc5=–1
+|party6=[[Alliance Party (Panama)|Alliance Party]]|votes6=43670|seats6=0|sc6=–1
+|party7=[[Broad Front for Democracy]]|votes7=22711|seats7=0|sc7=0
+|party8=Independents|votes8=323153|seats8=5|sc8=+4
+|invalid=142663
+|total_sc=0
+|source=[https://www.tribunal-electoral.gob.pa/eventos-electorales/plan-general-elecciones-plagel/ Tribunal Electoral]
+}}</onlyinclude>
+
+==== Elected members ====
+{| class="wikitable sortable"
+!Constituency
+!Member
+!colspan="2" |Party
+|-
+|rowspan=2|Circuit 1-1||[[Benicio Robinson]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Abel Beker]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|rowspan=2|Circuit 2-1||[[Néstor Guardia]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Daniel Ramos (politician)|Daniel Ramos]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 2-2||[[Melchor Herrera]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 2-3||[[Luis Ernesto Carles]]||style="background-color: {{party color|Panameñista Party}}; padding: 2px" | ||[[Panameñista Party]]
+|-
+|Circuit 2-4||Jorge Herrera||style="background-color: {{party color|Panameñista Party}}; padding: 2px" | ||[[Panameñista Party]]{{efn|Herrera was elected but his term was served by his alternate.<ref>{{Cite web |last=Espinoza |first=Tereza |date=2024-05-06 |title=Medio cociente y residuo los salvan: Pineda, 'Bolota' Salazar, Robinson y Gálvez se mantienen en la Asamblea |url=https://www.tvn-2.com/tu-decision-2024/medio-cociente-residuo-mantienen-pineda-robinson-bolota-chello-asamblea-nacional-elecciones-panama_1_2133488.html |access-date=2024-05-23 |website=Tvn Panamá |language=es}}</ref>}}
+|-
+|rowspan=4|Circuit 3-1||[[Jairo Salazar]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Mariano López (politician)|Mariano López]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Leopoldo Benedetti]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|[[Pedro Torres (politician)|Pedro Torres]]||style="background-color: {{party color|Panameñista Party}}; padding: 2px" | ||[[Panameñista Party]]
+|-
+|Circuit 3-2||[[Nelson Jackson]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|rowspan=3|Circuit 4-1||[[Fernando Arce (politician)|Fernando Arce]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Miguel Fanovich]]||style="background-color: {{party color|Nationalist Republican Liberal Movement}}; padding: 2px" | ||[[Nationalist Republican Liberal Movement]]
+|-
+|[[Hugo Méndez]]||style="background-color: {{party color|Panameñista Party}}; padding: 2px" | ||[[Panameñista Party]]
+|-
+|Circuit 4-2||[[Everardo Concepción]]||style="background-color: {{party color|Panameñista Party}}; padding: 2px" | ||[[Panameñista Party]]
+|-
+|rowspan=2|Circuit 4-3||[[Juan Esquivel (politician)|Juan Esquivel]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Rony Araúz]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|Circuit 4-4||[[Gonzalo González (politician)|Gonzalo González]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 4-5||[[Manolo Ruiz]]||style="background-color: {{party color|Nationalist Republican Liberal Movement}}; padding: 2px" | ||[[Nationalist Republican Liberal Movement]]
+|-
+|Circuit 4-6||[[Ana Giselle Rosas]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|Circuit 5-1||[[Arnulfo Díaz]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|Circuit 5-2||[[Jaime Vargas (politician)|Jaime Vargas]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 6-1||[[Alejandro Castillero]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 6-2||[[Julio Mendoza]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 6-3||[[Marcos Castillero]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 7-1||[[Eric Broce]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 7-2||[[Olivares Frías]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|rowspan=3|Circuit 8-1||[[Kayra Harding]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Marylín Vallarino]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|[[Yesenia Rodríguez]]||style="background-color: {{party color|Panameñista Party}}; padding: 2px" | ||[[Panameñista Party]]
+|-
+|Circuit 8-2||[[Yanibel Ábrego]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|Circuit 8-3||[[José Herrera (Panamanian politician)|José Herrera]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|rowspan=3|Circuit 8-4||[[Roberto Ábrego]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Roberto Ayala (politician)|Roberto Ayala]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Lilia Batista]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|Circuit 8-5||[[Hernán Delgado]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|rowspan=7|Circuit 8-6||[[Raúl Pineda]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Leandro Ávila (politician)|Leandro Ávila]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Zulay Rodríguez]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Pancho Alemán]]||style="background-color: {{party color|Nationalist Republican Liberal Movement}}; padding: 2px" | ||[[Nationalist Republican Liberal Movement]]
+|-
+|[[Dalia Bernal]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|[[Itzi Atencio]]||style="background-color: {{party color|Panameñista Party}}; padding: 2px" | ||[[Panameñista Party]]
+|-
+|[[Juan Diego Vásquez]]||style="background-color: {{party color|Independent politician}}; padding: 2px" | ||Independent
+|-
+|rowspan=5|Circuit 8-7||[[Crispiano Adames]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Héctor Brands]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Corina Cano]]||style="background-color: {{party color|Nationalist Republican Liberal Movement}}; padding: 2px" | ||[[Nationalist Republican Liberal Movement]]
+|-
+|[[Sergio "Chello" Gálvez]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|[[Gabriel Silva (Panamanian politician)|Gabriel Silva]]||style="background-color: {{party color|Independent politician}}; padding: 2px" | ||Independent
+|-
+|rowspan=5|Circuit 8-8||[[Javier Sucre]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Victor Castillo (politician)|Victor Castillo]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Mayín Correa]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|[[Edison Broce]]||style="background-color: {{party color|Independent politician}}; padding: 2px" | ||Independent
+|-
+|[[Raúl Fernández (politician)|Raúl Fernández]]||style="background-color: {{party color|Independent politician}}; padding: 2px" | ||Independent
+|-
+|rowspan=3|Circuit 8-9||[[Alina González]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Tito Rodríguez (politician)|Tito Rodríguez]]||style="background-color: {{party color|Nationalist Republican Liberal Movement}}; padding: 2px" | ||[[Nationalist Republican Liberal Movement]]
+|-
+|[[Genésis Arjona]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|rowspan=4|Circuit 8-10||[[Edwin Zúñiga]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|[[Alaín Cedeño]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|[[Cenobia Vargas]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Elías Vigil]]||style="background-color: {{party color|Panameñista Party}}; padding: 2px" | ||[[Panameñista Party]]
+|-
+|rowspan=2|Circuit 9-1||[[Luis Rafael Cruz]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|[[Fátima Agrazal]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|Circuit 9-2||[[Ariel Alba]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 9-3||[[Eugenio Bernal]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 9-4||[[Ricardo Torres (Panamanian politician)|Ricardo Torres]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 10-1||[[Petita Ayarza]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 10-2||[[Arquesio Arias]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|-
+|Circuit 12-1||[[Leopoldo Archibold]]||style="background-color: {{party color|Democratic Change (Panama)}}; padding: 2px" | ||[[Democratic Change (Panama)|Democratic Change]]
+|-
+|Circuit 12-2||[[Adan Bejerano]]||style="background-color: {{party color|Independent politician}}; padding: 2px" | ||Independent
+|-
+|Circuit 12-3||[[Ricardo Santo]]||style="background-color: {{party color|Democratic Revolutionary Party}}; padding: 2px" | ||[[Democratic Revolutionary Party]]
+|- class=sortbottom
+| colspan="4" |Source: Tribunal Electoral<ref name=":2">{{Cite web |title=DIPUTADOS GANADORES 2019 |url=https://www.tribunal-electoral.gob.pa/wp-content/uploads/2023/09/DIPUTADO-GANADORES-2019.pdf |access-date=23 May 2024 |website=Tribunal Electoral}}</ref><ref name=":3">{{Cite web |date=20 January 2023 |title=Plan General de Elecciones (PLAGEL 2022-2024) |url=https://www.tribunal-electoral.gob.pa/eventos-electorales/plan-general-elecciones-plagel/ |access-date=23 May 2024 |website=Tribunal Electoral}}</ref>
+|}
+
+=== Mayoral elections ===
+
+==== Panama City ====
+<onlyinclude>{{Election results
+|cand1=[[José Luis Fábrega]]|alliance1=Joining Forces|aspan1=3|party1=[[Democratic Revolutionary Party]]|votes1=156095|acolor1={{party color|Democratic Revolutionary Party}}
+|party2=[[Nationalist Republican Liberal Movement]]|votes2=19260
+|atotal3=175355
+|cand4=[[Sergio Gálvez]]|alliance4=Change to Wake Up|aspan4=3|party4=[[Democratic Change (Panama)|Democratic Change]]|votes4=117476|acolor4={{party color|Democratic Change (Panama)}}
+|party5=[[Alliance Party (Panama)|Alliance Party]]|votes5=11343
+|atotal6=128819
+|cand7=Raúl Ricardo Rodriguez|alliance7=Independent|votes7=56638
+|cand8=Adolfo Valderrama|alliance8=Panama We Can|aspan8=3|party8=[[Panameñista Party]]|votes8=32962|acolor8={{party color|Panameñista Party}}
+|party9=[[People's Party (Panama)|People's Party]]|votes9=10302
+|atotal10=43264
+|cand11=Diogenes Sanchez|alliance11=[[Broad Front for Democracy]]|votes11=8081
+|invalid=24595
+|source=[https://www.tribunal-electoral.gob.pa/eventos-electorales/plan-general-elecciones-plagel/ Election Tribunal]
+}}</onlyinclude>
+
+==== San Miguelito ====
+<onlyinclude>{{Election results
+|cand1=[[Hector Carrasquilla]]|alliance1=Change to Wake Up|aspan1=3|party1=[[Democratic Change (Panama)|Democratic Change]]|votes1=51664|acolor1={{party color|Democratic Change (Panama)}}
+|party2=[[Alliance Party (Panama)|Alliance Party]]|votes2=5872
+|atotal3=57536
+|cand4=Cesar Sanjur|alliance4=Joining Forces|aspan4=3|party4=[[Democratic Revolutionary Party]]|votes4=36693|acolor4={{party color|Democratic Revolutionary Party}}
+|party5=[[Nationalist Republican Liberal Movement]]|votes5=5456
+|atotal6=42149
+|cand7=[[Gerald Cumberbatch]]|alliance7=Panama We Can|aspan7=3|party7=[[Independent politician|Independent]]|votes7=12875||party8=[[Panameñista Party]]|votes8=9275|acolor7={{party color|Independent politician}}|atotal9=22150|cand10=Jacqueline Hurtado|alliance10=[[People's Party (Panama)|People's Party]]|votes10=17810
+|cand11=Irving Dominguez|alliance11=Independent|votes11=11123
+|cand12=Gilberto Marulanda|alliance12=[[Broad Front for Democracy]]|votes12=3163
+|invalid=10558
+|source=[https://www.tribunal-electoral.gob.pa/eventos-electorales/plan-general-elecciones-plagel/ Election Tribunal]
+}}</onlyinclude>
+
+==== Arraiján ====
+<onlyinclude>{{Election results
+|cand1=[[Rollyns Rodriguez]]|party1=[[Democratic Revolutionary Party]]|votes1=31977
+|cand2=Belkis Saavedra|party2=[[Democratic Change (Panama)|Democratic Change]]|votes2=26934
+|cand3=Militza Palma|votes3=21969|party3=[[People's Party (Panama)|People's Party]]
+|cand4=Percival Piggott|party4=[[Panameñista Party]]|votes4=13956
+|cand5=Maruquel Luque|party5=[[Independent politician|Independent]]|votes5=7277
+|cand6=Victor Godoy|party6=[[Independent politician|Independent]]|votes6=4859
+|cand7=Ivan Berrio|party7=[[Independent politician|Independent]]|votes7=3412
+|cand8=Luis Pimentel|party8=[[Nationalist Republican Liberal Movement]]|votes8=1794
+|cand9=Denis Amaya|party9=[[Broad Front for Democracy]]|votes9=1526
+|cand10=Norma Estrada|party10=[[Alliance Party (Panama)|Alliance Party]]|votes10=489
+|invalid=6620
+|source=[https://www.tribunal-electoral.gob.pa/eventos-electorales/plan-general-elecciones-plagel/ Election Tribunal]
+}}</onlyinclude>
+
+==== Colón ====
+<onlyinclude>{{Election results
+|cand1=[[Alex Lee (Panamanian politician)|Alex Lee]]|alliance1=[[Democratic Revolutionary Party]]|votes1=21826
+|cand2=[[Diogenes Galvan]]|alliance2=[[Independent politician|Independent]]|votes2=20027
+|cand3=[[Federico Policani]]|alliance3=Panama We Can|aspan3=3|party3=[[Panameñista Party]]|votes3=14519|acolor3={{party color|Panameñista Party}}
+|party4=[[People's Party (Panama)|People's Party]]|votes4=4388
+|atotal5=18907
+|cand6=Carlos Outten|alliance6=[[Democratic Change (Panama)|Democratic Change]]|votes6=15794
+|cand7=Enrique Brooks Galvan|alliance7=[[Independent politician|Independent]]|votes7=6645
+|cand8=Felipe Cabeza|alliance8=[[Broad Front for Democracy]]|votes8=5759
+|cand9=Cristobal Gondola|alliance9=[[Nationalist Republican Liberal Movement]]|votes9=5460
+|cand10=Josefina Smith|alliance10=[[Alliance Party (Panama)|Alliance Party]]|votes10=2893
+|invalid=7048
+|source=[https://www.tribunal-electoral.gob.pa/eventos-electorales/plan-general-elecciones-plagel/ Election Tribunal]
+}}</onlyinclude>
+
+==== La Chorrera ====
+<onlyinclude>{{Election results
+|cand1=[[Tomás Velasquez]]|alliance1=Joining Forces|aspan1=3|party1=[[Democratic Revolutionary Party]]|votes1=31259|acolor1={{party color|Democratic Revolutionary Party}}
+|party2=[[Nationalist Republican Liberal Movement]]|votes2=3868
+|atotal3=35127
+|cand4=Chuin Fa Chong|alliance4=[[Alliance Party (Panama)|Alliance Party]]|votes4=24696
+|cand5=Mario Muñoz|alliance5=[[Democratic Change (Panama)|Democratic Change]]|votes5=12962
+|cand6=Alberto Barranco|alliance6=Panama We Can|aspan6=3|party6=[[Panameñista Party]]|votes6=6746|acolor6={{party color|Panameñista Party}}
+|party7=[[People's Party (Panama)|People's Party]]|votes7=2699
+|atotal8=9445
+|cand9=Dario Gomez|alliance9=Independent|votes9=9014
+|cand10=Armando Barrios|alliance10=[[Broad Front for Democracy]]|votes10=1573
+|invalid=7211
+|source=[https://www.tribunal-electoral.gob.pa/eventos-electorales/plan-general-elecciones-plagel/ Election Tribunal]
+}}</onlyinclude>
+
+==== David ====
+<onlyinclude>{{Election results
+|cand1=[[Antonio Arauz]]|alliance1=[[Democratic Revolutionary Party]]|votes1=28132
+|cand2=[[Joaquín De León]]|alliance2=[[Panameñista Party]]|votes2=19428
+|cand3=Karen Caballero|alliance3=Independent|aspan3=3|party3=[[Democratic Change (Panama)|Democratic Change]]|votes3=8211|acolor3={{party color|Independent politician}}
+|party4=[[Independent politician|Independent]]|votes4=4060
+|atotal5=12271
+|cand6=Nicolás Rivera|alliance6=[[Nationalist Republican Liberal Movement]]|votes6=6545
+|cand7=Agustín Saldaña|alliance7=Independent|aspan7=3|party7=[[Independent politician|Independent]]|votes7=3016|acolor7={{party color|Independent politician}}
+|party8=[[People's Party (Panama)|People's Party]]|votes8=2505
+|atotal9=5521
+|cand10=Amael Acosta|alliance10=[[Independent politician|Independent]]|votes10=3460
+|cand11=Néstor Camargo|alliance11=[[Alliance Party (Panama)|Alliance Party]]|votes11=945
+|cand12=Tomas Armuelles|alliance12=[[Broad Front for Democracy]]|votes12=666
+|invalid=5715
+|source=[https://www.tribunal-electoral.gob.pa/eventos-electorales/plan-general-elecciones-plagel/ Election Tribunal]
+}}</onlyinclude>
+
+==== Santiago ====
+<onlyinclude>{{Election results
+|cand1=Samid Sandoval|alliance1=Change to Wake Up|aspan1=3|party1=[[Democratic Change (Panama)|Democratic Change]]|votes1=19102|acolor1={{party color|Democratic Change (Panama)}}
+|party2=[[Alliance Party (Panama)|Alliance Party]]|votes2=1093
+|atotal3=20195
+|cand4=Edward Ibarra|alliance4=[[Democratic Revolutionary Party]]|votes4=18809
+|cand5=Victor Rodriguez|alliance5=[[Panameñista Party]]|votes5=7245
+|cand6=Isaac Rodriguez|alliance6=[[Independent politician|Independent]]|votes6=4233
+|cand7=Horacio Freeman|alliance7=[[Nationalist Republican Liberal Movement]]|votes7=1777
+|cand8=Edilso Vega|alliance8=[[Independent politician|Independent]]|votes8=1220
+|cand9=Santiago Murillo|alliance9=Independent|votes9=460
+|cand10=Edgardo Abrego|alliance10=[[Broad Front for Democracy]]|votes10=237
+|invalid=3575
+|source=[https://www.tribunal-electoral.gob.pa/eventos-electorales/plan-general-elecciones-plagel/ Election Tribunal]
+}}</onlyinclude>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Panamanian elections}}
+
+[[Category:Presidential elections in Panama]]
+[[Category:2019 elections in Central America|Panama]]
+[[Category:2019 in Panama|General election]]
+[[Category:Elections in Panama]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:May 2019 in North America]]

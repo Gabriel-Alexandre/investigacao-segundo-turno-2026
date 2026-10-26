@@ -1,0 +1,192 @@
+{{Short description|none}}
+{{Infobox election
+| election_name = 2005 Bolivian general election
+| country = Bolivia
+| flag_year = state
+| type = presidential
+| ongoing = no
+| previous_election = 2002 Bolivian general election
+| previous_year = 2002
+| next_election = 2009 Bolivian general election
+| next_year = 2009
+| registered = 3,671,152	
+| turnout = 84.50% ({{increase}} 12.61pp)
+| election_date = 18 December 2005
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| image_size = 130x130px
+
+| image1 = Evo Morales 2006 (cropped2).jpg
+| nominee1 = '''[[Evo Morales]]'''
+| party1 = Movement for Socialism (Bolivia)
+| running_mate1 = '''[[Álvaro García Linera]]'''
+| popular_vote1 = '''1,544,374'''
+| percentage1 = '''53.74%'''
+
+| image2 = Jorge Quiroga. Suárez, Antonio. 2001, Antonio Suárez collection, La Paz (Cropped).png
+| nominee2 = [[Jorge Quiroga]]
+| party2 = Social and Democratic Power
+| running_mate2 = María Duchen
+| popular_vote2 = 821,745
+| percentage2 = 28.59%
+
+| image4 = SamuelDM.png
+| nominee4 = [[Samuel Doria Medina]]
+| party4 = National Unity Front
+| running_mate4 = Carlos Dabdoub
+| popular_vote4 = 224,090
+| percentage4 = 7.80%
+
+| image5 = 3x4.svg
+| nominee5 = Michiaki Nagatani
+| party5 = Revolutionary Nationalist Movement
+| running_mate5 = Guillermo Bedregal
+| popular_vote5 = 185,859
+| percentage5 = 6.47%
+
+| map = {{Switcher
+| [[File:Mapa Electoral de Bolivia por Departamentos 2005.png|300px]]
+| Results by department
+| [[File:Mapa Electoral de Bolivia por Provincias 2005.png|260px]]
+| Results by province}}
+
+| title = President
+| before_election = [[Eduardo Rodríguez (politician)|Eduardo Rodríguez]] {{small|(interim)}}
+| before_party = Independent (politician)
+| after_election = [[Evo Morales]]
+| after_party = Movement for Socialism (Bolivia)
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+| noleader = yes
+| nopercentage = yes
+| seats_for_election = All 36 seats in the Chamber of Senators<br>All 130 seats in the Chamber of Deputies
+| heading1 = [[Chamber of Senators (Bolivia)|Chamber of Senators]]
+| party1 = Social Democratic Power 
+| last_election1 = New
+| seats1 = 13
+| party2 = Movimiento al Socialismo
+| last_election2 = 8
+| seats2 = 12
+| party3 = National Unity Front
+| last_election3 = New
+| seats3 = 1
+| party4 = Revolutionary Nationalist Movement
+| last_election4 = 10
+| seats4 = 1
+| heading5 = [[Chamber of Deputies (Bolivia)|Chamber of Deputies]]
+| party5 = Movimiento al Socialismo
+| last_election5 = 27
+| seats5 = 72
+| party6 = Social Democratic Power 
+| last_election6 = New
+| seats6 = 43
+| party7 = National Unity Front
+| last_election7 = New
+| seats7 = 8
+| party8 = Revolutionary Nationalist Movement
+| last_election8 = 36
+| seats8 = 7
+}}}}}}{{Politics of Bolivia}}
+
+General elections were held in [[Bolivia]] on 18 December 2005. [[Evo Morales]] of the [[Movement for Socialism – Political Instrument for the Sovereignty of the Peoples|Movement for Socialism]] (MAS) party was elected [[President of Bolivia]] with 54% of the vote, the first time a candidate had received an absolute majority since the flawed [[1978 Bolivian general election|1978 elections]]. Morales was sworn in on 22 January 2006 for a five-year term. The MAS also won a majority of seats in the Chamber of Deputies and emerged as the largest party in the Senate.
+
+Simultaneously voters elected prefects, the highest executive office in each of Bolivia's [[Departments of Bolivia|nine departments]]. This was the first time the office had been chosen at the ballot box. Subsequently, departmental elections were held separately from national elections, with the next one held in April 2010.
+
+==Background==
+In the early 2000s there were high levels of political instability across the country, including five presidents in four years. Much of the instability dates back to the economic reforms otherwise known as "[[shock therapy (economics)|shock therapy]]" implemented by President [[Gonzalo Sánchez de Lozada]] whereby many formerly public utilities were [[Privatization|privatized]].
+
+These reforms ultimately led to the [[Bolivian Gas War|First Bolivian Gas War]] in October 2003 where protesters, many of them of indigenous descent, essentially forced the resignation of Sánchez de Lozada. [[Vice President of Bolivia|Vice President]] [[Carlos Mesa]] took office as president.
+
+In his year in office, Mesa held a national [[2004 Bolivian gas referendum|referendum]] on the prospect of the nationalization of the [[hydrocarbons]] industry which he claimed to have won. Critics however said that the questions were vague and ambiguous with regard to outright nationalization of the hydrocarbons industry.
+
+In May 2005 the [[2005 Bolivia protests|Second Bolivian Gas War]] began after Congress agreed to raise taxes on foreign companies from 18% to 32%. The unions, led by [[Evo Morales]], felt the law did not go far enough and effectively shut down the country, blockading major roads and cutting off the food supplies of several large cities.
+
+In June 2005 the protests ultimately led to Mesa's resignation. Supreme Court Chief Justice [[Eduardo Rodríguez (politician)|Eduardo Rodríguez]] assumed the position of interim President of the Republic after the presidents of both the Senate and Chamber of Deputies declined the position and Rodríguez was fourth in line of succession.
+
+Viewed as an apolitical figure, Rodríguez was welcomed by protesters and called for the presidential elections slated to take place in 2007 to be brought forward to December 2005.
+
+==Electoral system==
+Voters had two ballots: a national-level ballot to elect the president and the nationally elected members of Congress, and one for members of Congress elected in single-member constituencies in the Chamber of Deputies. Senators and deputies were returned on a [[Departments of Bolivia|departmental]] basis; senators were elected on a majoritarian basis, with the first-place party receiving two and the second-place party one, while deputies were elected on a mixed-member basis, with district deputies joining list deputies awarded by compensatory [[proportional representation]]. However, there was no national distribution of seats.
+
+[[Compulsory voting|Voting was compulsory]] for all Bolivians over the age of 18, but Bolivians living abroad were not able to take part.
+
+==Results==
+===President===
+<onlyinclude>{{Election results
+|party1=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|cand1=[[Evo Morales]]|vp1=[[Álvaro García Linera]]|votes1=1544374
+|party2=[[Social and Democratic Power]]|cand2=[[Jorge Quiroga]]|vp2=María Duchen|votes2=821745
+|party3=[[National Unity Front]]|cand3=[[Samuel Doria Medina]]|vp3=Carlos Dabdoub|votes3=224090
+|party4=[[Revolutionary Nationalist Movement]]|cand4=Michiaki Nagatani|vp4=Guillermo Bedregal|votes4=185859
+|party5=[[Pachakuti Indigenous Movement]]|cand5=[[Felipe Quispe]]|vp5=Camila Choqueticlla|votes5=61948
+|party6=[[New Republican Force]]|cand6=Gildo Angulo Cabrera|vp6=Gonzalo Quiroga|votes6=19667
+|party7=Agrarian Patriotic Front|cand7=Eliceo Rodríguez Pari|vp7=Rodolfo Flores|votes7=8737
+|party8=Social Union of the Workers of Bolivia|cand8=Néstor García Rojas|vp8=Julio Antonio Uzquiano|votes8=7381
+|invalid=104570
+|blank=124046
+|electorate=3671152
+|source=[http://electionguide.org/results.php?ID=183 IFES], [http://electionguide.org/results.php?ID=184 IFES]
+}}</onlyinclude>
+
+===Chamber of Deputies===
+{{Election results
+|image=[[File:Cámara de Diputados de Bolivia elecciones 2005.svg]]
+|firstround=Proportional|secondround=Constituency
+|party1=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|votes1=1544374|seats1=27|votes1_2=968120|seats1_2=45|totseats1=72|sc1=+45
+|party2=[[Social and Democratic Power]]|votes2=821745|seats2=21|votes2_2=625230|seats2_2=22|totseats2=43|sc2=+39
+|party3=[[National Unity Front]]|votes3=224090|seats3=7|votes3_2=260290|seats3_2=1|totseats3=8|sc3=New
+|party4=[[Revolutionary Nationalist Movement]]|votes4=185859|seats4=5|votes4_2=179319|seats4_2=2|totseats4=7|sc4=–
+|party5=[[Pachakuti Indigenous Movement]]|votes5=61948|seats5=0|votes5_2=73499|seats5_2=0|totseats5=0|sc5=–6
+|party6=[[New Republican Force]]|votes6=19667|seats6=0|votes6_2=53634|seats6_2=0|totseats6=0|sc6=–25
+|party7=Agrarian Patriotic Front|votes7=8737|seats7=0|votes7_2=48322|seats7_2=0|totseats7=0|sc7=New
+|party8=Social Union of the Workers of Bolivia|votes8=7381|seats8=0|votes8_2=16298|seats8_2=0|totseats8=0|sc8=New
+|invalid=104570|invalid2=90016
+|blank=124046|blank2=779152
+|total_sc=0
+|electorate=3671152|electorate2=3671152
+|source=[https://www.electionpassport.com/files/BO/BO.xlsx Election Passport], [http://archive.ipu.org/parline-e/reports/arc/2037_05.htm IPU]
+}}
+
+===Chamber of Senators===
+{{Election results
+|image=[[File:Senado de Bolivia elecciones 2005.svg]]
+|party1=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|votes1=1544374|seats1=12|sc1=+4
+|party2=[[Social and Democratic Power]]|votes2=821745|seats2=13|sc2=+12
+|party3=[[National Unity Front]]|votes3=224090|seats3=1|sc3=New
+|party4=[[Revolutionary Nationalist Movement]]|votes4=185859|seats4=1|sc4=–
+|party5=[[Pachakuti Indigenous Movement]]|votes5=61948|seats5=0|sc5=0
+|party6=[[New Republican Force]]|votes6=19667|seats6=0|sc6=–2
+|party7=Agrarian Patriotic Front|votes7=8737|seats7=0|sc7=New
+|party8=Social Union of the Workers of Bolivia|votes8=7381|seats8=0|sc8=New
+|invalid=104570
+|blank=124046
+|electorate=3671152
+|total_sc=0
+|source=[http://electionguide.org/results.php?ID=183 IFES], [http://electionguide.org/results.php?ID=184 IFES]
+}}
+
+==Aftermath==
+Morales claimed his victory marked Bolivia's first election of an indigenous head of state, but this claim generated controversy,<ref>{{cite news|url=http://www.bolpress.com/art.php?Cod=2006012217|publisher=Bolpress|date=2006-01-01|title=¿Evo indígena o mestizo?|access-date=2007-07-23|archive-url=https://web.archive.org/web/20070608233501/http://bolpress.com/art.php?Cod=2006012217|archive-date=2007-06-08|url-status=dead}}</ref> due to the number of [[mestizo]] presidents who came before him,<ref>Mesa, José, Gisbert, Teresa, Mesa Gisbert, Carlos D. ''Historia de Bolivia: Segunda Edición corregida y actualizada''. Editorial Gisbert. La Paz, 1998.</ref> and was challenged publicly by such figures as [[Mario Vargas Llosa]],<ref>{{cite news|url=https://news.bbc.co.uk/hi/spanish/latin_america/newsid_4633000/4633898.stm|publisher=BBC Mundo|date=2006-01-21|title=Vargas Llosa: "un nuevo racismo"}}</ref> who accused Morales of fomenting racial divisions in an increasingly [[mestizo]] Latin America.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.cne.org.bo/ National Electoral Court of Bolivia (in Spanish)] {{Webarchive|url=https://web.archive.org/web/20081201021517/http://www.cne.org.bo/ |date=2008-12-01 }}
+*[https://news.bbc.co.uk/2/hi/americas/4539454.stm BBC "Crucial Choice for Bolivian Voters"]
+*[https://news.bbc.co.uk/2/hi/americas/4531446.stm BBC "Q&A: Bolivian Elections"]
+*[https://www.cbc.ca/news/world/left-wing-candidate-favoured-to-win-bolivian-election-1.526161 CBC "Left-wing candidate favoured to win Bolivian election"]
+*[https://www.npr.org/templates/story/story.php?storyId=5060314 NPR's Weekend Edition: "Bolivians Vote for President"]
+*[https://www.npr.org/templates/story/story.php?storyId=5058713 NPR's All Things Considered "Bolivia Prepares for Presidential Election"]
+*[https://web.archive.org/web/20051220081015/http://www.mas.org.bo/ MAS Official Campaign Site]
+{{Evo Morales}}
+{{Bolivian elections}}
+
+[[Category:2005 elections in South America|Bolivia]]
+[[Category:2005 in Bolivia|Presidential election]]
+[[Category:Parliamentary elections in Bolivia]]
+[[Category:Evo Morales]]
+[[Category:Presidential elections in Bolivia]]

@@ -1,0 +1,78 @@
+{{Short description|Election of 	Leonid Kuchma}}
+{{Infobox election
+| country = Ukraine
+| type = presidential
+| previous_election = 1991 Ukrainian presidential election
+| previous_year = 1991
+| next_election = 1999 Ukrainian presidential election
+| next_year = 1999
+| election_date = 26 June 1994 (first round)<br>10 July 1994 (second round)
+| turnout = 70.37% (first round) {{decrease}} 13.81[[percentage point|pp]]<br/>71.63% (second round)
+| image1 = Leonid Kuchma in 1995.jpg
+| nominee1 = '''[[Leonid Kuchma]]'''
+| party1 = Independent politician
+| popular_vote1 = '''14,016,850'''
+| percentage1 = '''52.35%'''
+| image2 = Leonid Kravchuk (1) (cropped).jpg
+| nominee2 = {{nowrap|[[Leonid Kravchuk]]}}
+| party2 = Independent politician
+| popular_vote2 = 12,111,603
+| percentage2 = 45.24%
+| map_image = {{Switcher
+| [[File:1994 Ukrainian presidential election, first round.svg|300px]]
+| First round results by oblast
+| [[File:1994 Ukrainian presidential election, second round.svg|300px]]
+| Second round results by oblast
+| default = 2
+}}
+| title = President
+| before_election = [[Leonid Kravchuk]]
+| after_election = [[Leonid Kuchma]]
+| before_party = Independent politician
+| after_party = Independent politician
+}}
+{{Politics of Ukraine}}
+
+Early [[Ukrainian presidential elections|presidential elections]] were held in [[Ukraine]] on 26 June 1994, with a second round on 10 July.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1976 {{ISBN|9783832956097}}</ref><ref>{{Cite journal |last=Birch |first=Sarah |date=1995 |title=The Ukrainian parliamentary and presidential elections of 1994 |url=http://dx.doi.org/10.1016/0261-3794(95)95775-6 |journal=Electoral Studies |volume=14 |issue=1 |pages=93–99 |doi=10.1016/0261-3794(95)95775-6 |issn=0261-3794|url-access=subscription }}</ref> They were held ahead of schedule following a compromise between President [[Leonid Kravchuk]] and the [[Verkhovna Rada]], the Ukrainian parliament. The elections saw Kravchuk defeated by his former [[Prime Minister of Ukraine|Prime Minister]] [[Leonid Kuchma]]. They were the first presidential elections in the [[Commonwealth of Independent States]] in which the incumbent was defeated.
+
+Kuchma took office on 19 July, marking the first [[peaceful transition of power|peaceful transfer of power]] in Ukraine since the fall of Communism.
+
+==Background==
+On 17 June 1993, the Verkhovna Rada voted to hold a referendum on 26 September that would serve as a [[motion of no confidence]] in President Kravchuk. However, the referendum was cancelled two days before it was due to be held. The [[Verkhovna Rada]] instead decided to hold [[1994 Ukrainian parliamentary election|early parliamentary elections]] on 24 March 1994, and early presidential elections two months later.
+
+==Results==
+In the first round, Kravchuk was supported by the [[People's Movement of Ukraine|People's Movement]] (which had originally collected signatures for [[Volodymyr Lanovyi]]) and the Democratic Association, an alliance of right-wing parties that viewed Kuchma as pro-Russian. Kuchma was supported by the Interregional Bloc of Reforms, and [[Socialist Party of Ukraine|Socialist Party]] candidate [[Oleksandr Moroz]] was supported by the [[Communist Party of Ukraine|Communist Party]] and [[Peasant Party of Ukraine|Peasant Party]].<ref name=political_parties>[https://web.archive.org/web/20140923004702/http://analitik.org.ua/ukr/publications/joint/3dd12dea/3dd13f15/ Political parties of Ukraine in cooperation with structures of power] Kyiv center of political research and conflictology</ref> After Moroz was knocked out, the Communists supported Kuchma in the second round.<ref>{{Cite web |last=Polishchuk |first=Tatiana |date=1999-05-15 |title= |script-title=uk:Вибори-99: Кучма і КПУ — знову разом! |trans-title=Elections-99: Kuchma and CPU – together again! |url=https://day.kyiv.ua/article/podrobytsi/vybory-99-kuchma-i-kpu-znovu-razom |access-date=2023-07-10 |website=day.kyiv.ua |language=uk}}</ref>
+
+{{Election results
+|cand1=[[Leonid Kravchuk]]|party1=[[Independent politician|Independent]]{{efn|Supported by the [[People's Movement of Ukraine]], the Democratic Association, and the parliamentary blocs "Statehood", "Agrarians of Ukraine" and "Centre"}}|votes1=9977766|votes1_2=12111603|color1={{Party color|People's Movement of Ukraine}}
+|cand2=[[Leonid Kuchma]]|party2=[[Independent politician|Independent]]{{efn|Supported by the parliamentary Inter-regional Bloc of Reforms. Also supported by the [[Communist Party of Ukraine]] in the second round.}}|votes2=8274806|votes2_2=14016850
+|cand3=[[Oleksandr Moroz]]|party3=[[Socialist Party of Ukraine]]{{efn|Supported by the [[Communist Party of Ukraine]]}}|votes3=3466541
+|cand4=[[Volodymyr Lanovyi]]|party4=[[Independent politician|Independent]]{{efn|Supported by the faction of [[People's Movement of Ukraine]] and the parliamentary bloc "Reforms"}}|votes4=2483986
+|cand5=[[Valeriy Babych]]|party5=[[Independent politician|Independent]]|votes5=644263
+|cand6=[[Ivan Plyushch]]|party6=[[Independent politician|Independent]]{{efn|Supported by the [[Ukrainian Republican Party]]}}|votes6=321886|color6={{Party color|Ukrainian Republican Party}}
+|cand7=[[Petro Talanchuk]]|party7=[[Independent politician|Independent]]{{efn|Supported by the [[Congress of Ukrainian Nationalists]]}}|votes7=143361|color7={{Party color|Congress of Ukrainian Nationalists}}
+|row8= Against all|votes8=697564|votes8_2=645508
+|invalid = 470498
+|invalid2 = 109681
+|electorate=37630835
+|electorate2 =37531666
+|source=Nohlen & Stöver<ref>Nohlen & Stöver, p1993</ref>
+}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Ukrainian elections}}
+{{1994 presidential election candidates, Ukraine}}
+{{Authority control}}
+
+[[Category:1994 elections in Ukraine|Presidential election]]
+[[Category:Presidential elections in Ukraine]]
+[[Category:June 1994 in Europe|Ukraine]]
+[[Category:July 1994 in Europe|Ukraine]]
+[[Category:1994 elections in Europe|Ukraine]]
+[[Category:Leonid Kuchma]]
+[[Category:Leonid Kravchuk]]

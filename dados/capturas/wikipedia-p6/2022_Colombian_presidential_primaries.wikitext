@@ -1,0 +1,262 @@
+{{Short description|Colombia's 2022 presidential primaries}}
+The '''2022 Colombian presidential primaries''' were a series of public votes held on 13 March 2022. The major political coalitions of [[Colombia]] held the primaries to determine their presidential candidates for the [[2022 Colombian presidential election]] that would be held two weeks later.
+
+== Historic Pact for Colombia ==
+The [[Historic Pact for Colombia]] (Spanish: ''Pacto Histórico por Colombia'') is a coalition of left-wing, progressive, and Indigenous politicians. Five pre-candidates representing six political parties or movements announced that they would be standing for election as the unified presidential candidate for the coalition.<ref>{{cite news |title=Petro será el primero del tarjetón de la consulta del Pacto Histórico |url=https://www.elespectador.com/politica/elecciones-colombia-2022/petro-sera-el-primero-del-tarjeton-de-la-consulta-del-pacto-historico/ |newspaper=[[El Espectador]] |language=es |date=4 February 2022 |access-date=1 March 2022 |archive-date=17 March 2022 |archive-url=https://web.archive.org/web/20220317065606/https://www.elespectador.com/politica/elecciones-colombia-2022/petro-sera-el-primero-del-tarjeton-de-la-consulta-del-pacto-historico/ |url-status=live }}</ref>
+
+===Nominee===
+{{Main|Gustavo Petro 2022 presidential campaign}}
+
+{| class="wikitable" style="font-size:90%;text-align:center"
+|-
+|style="background:#F1F1F1" colspan="30"|<big>'''2022 Historic Pact Coalition ticket '''</big>
+|-
+! style="width:3em; font-size:135%; background:#9F3A86; width:200px;" |{{colored link|white|Gustavo Petro}}
+! style="width:3em; font-size:135%; background:#9F3A86; width:200px;" |{{colored link|white|Francia Márquez}}
+|- style="color:#000; font-size:100%; background:#BF00FF;"
+| style="width:3em; width:200px;" |'''''for President'''''
+| style="width:3em; width:200px;" |'''''for Vice President'''''
+|-
+|[[File:03GustavoPetro.jpg|center|x200px|border]]
+|[[File:2022_Francia_Marquez.jpg|center|x200px|border]]
+|-
+|[[Mayor]]<br />of [[Bogotá]]<br />(2012–2014)
+|[[Environmentalism|Environmentalism activist]]<br />(2010–present)
+|-
+| colspan="2" |<ref>{{cite web|date=20 January 2022|title=El opositor Pacto Histórico lanza su campaña electoral en Colombia|url=https://www.efe.com/efe/america/politica/el-opositor-pacto-historico-lanza-su-campana-electoral-para-cambio-en-colombia/20000035-4721411|access-date=|website=Efe|language=es-CO}}</ref><ref>{{Cite web |last=Chetwynd |first=Gareth |date=2022-05-11 |title=Petro closing in on historic victory as Colombian oil industry is asked to take a bow {{!}} Upstream Online |url=https://www.upstreamonline.com/people/petro-closing-in-on-historic-victory-as-colombian-oil-industry-is-asked-to-take-a-bow/2-1-1216668 |access-date=2022-05-28 |website=Upstream Online |language=en}}</ref><ref>{{Cite web|url=https://www.nytimes.com/2022/01/04/world/americas/leftists-elections-latin-america.html|title=Leftists Are Ascendant in Latin America as Key Elections Loom|date=4 January 2022|website=The New York Times|language=English}}</ref>
+|}
+
+* [[Gustavo Petro]], senator, former [[List of mayors of Bogotá|mayor of Bogota]], and runner-up in the [[2018 Colombian presidential election]] ([[Humane Colombia]]; [[Patriotic Union (Colombia)|Patriotic Union]])<ref>{{cite news|last=Hernan|first=Gonzales Rodriguez|date=2021-06-11|title=Gustavo Petro: ¿presidente en 2022?|url=https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/gustavo-petro-presidente-en-2022/|url-status=live|access-date=2021-06-12|work=El Espectador|language=es|archive-url=https://web.archive.org/web/20210611091103/https://www.elespectador.com/opinion/columnistas/hernan-gonzalez-rodriguez/gustavo-petro-presidente-en-2022/ |archive-date=11 June 2021 }}</ref>
+* [[Francia Márquez]], Afro-Colombian human-rights and environmental activist ([[Alternative Democratic Pole]])<ref>{{Cite news |last=Gutiérrez |first=Juliana Gil |date=2022-01-22 |title=Estamos Listas se suma a la candidatura de Francia Márquez |language=es-ES |url=https://www.elcolombiano.com/colombia/politica/estamos-listas-apoya-a-francia-marquez-en-consulta-del-pacto-historico-DD16408946 |access-date=2022-06-20 |archive-date=16 April 2022 |archive-url=https://web.archive.org/web/20220416171450/https://www.elcolombiano.com/colombia/politica/estamos-listas-apoya-a-francia-marquez-en-consulta-del-pacto-historico-DD16408946 |url-status=live }}</ref>
+* [[Camilo Romero (politician)|Camilo Romero]], former governor of [[Nariño Department|Nariño]] (Greens for Change)
+* [[Arelis Uriana]], [[Wayuu people|Wayuu]] community leader ([[Indigenous and Social Alternative Movement]])
+* Alfredo Saade, evangelical pastor ([[Broad Democratic Alliance]])<ref>{{cite web|url=https://www.rfi.fr/es/am%C3%A9ricas/20220615-los-candidatos-presidenciales-colombianos-ante-las-acusaciones-de-sexismo|title=Colombian presidential candidates facing accusations of sexism|website=RFI|last1=Carrilo|first1=Paula|date=June 15, 2022|accessdate=June 22, 2022}}</ref>
+
+=== Primary results ===
+{| class="wikitable"
+|-
+! colspan="2" |Party
+! Party logo
+! Candidate 
+! Votes
+! %
+|- style="background:#cfc;"|
+| bgcolor={{party colour|Humane Colombia}}|
+| '''[[Humane Colombia]]'''
+| 
+| rowspan="2" |'''[[Gustavo Petro]]'''{{efn|Member of Humane Colombia, also endorsed by Patriotic Union}}
+| rowspan="2" | '''4,495,831'''
+| rowspan="2" | '''80.50%'''
+|- style="background:#cfc;"|
+| style="background:#dbd100;"|
+| '''[[Patriotic Union (Colombia)|Patriotic Union]]'''
+| [[File:Logo Unión Patriótica Colombia.png|65px]]
+|-
+| bgcolor={{party color|Alternative Democratic Pole}}|
+| [[Alternative Democratic Pole]]
+| [[File:PDA Logo.svg|65px]]
+| [[Francia Márquez]]{{efn|Endorsed by the Alternative Democratic Pole}}
+| 785,215
+| 14.05%
+|- 
+| bgcolor={{party color|Green Alliance (Colombia)}}|
+| [[Green Alliance (Colombia)|Green Alliance]]
+| [[File:Alianza Verde (Colombia).svg |65px]]
+| [[Camilo Romero (politician)|Camilo Romero]]
+| 227,218
+| 4.06%
+|-
+| bgcolor={{party colour|Indigenous and Social Alternative Movement}}|
+| [[Indigenous and Social Alternative Movement]]
+| [[File:LogoMais1.png|65px]]
+| [[Arelis Uriana]]
+| 54,770
+| 0.98%
+|-
+| style="background:#f9e858;"|
+| [[Broad Democratic Alliance]]
+|[[File:Ada partido.png|65px]]
+| [[Alfredo Saade]]
+| 21,724
+| 0.38%
+|-
+| colspan=6 |Source:<ref>{{cite web |title=Votos a Pre-candidatos |url=https://resultados.registraduria.gov.co/pacto/0/colombia |publisher=Government of Colombia |access-date=22 May 2022 |archive-url=https://web.archive.org/web/20220414131201/https://resultados.registraduria.gov.co/pacto/0/colombia |archive-date=14 April 2022 |language=es}}</ref>
+|}
+
+Petro was announced as the winner of the public vote and was nominated to be the candidate of the Historic Pact for Colombia coalition.<ref>{{cite news |last=Neira Goyeneche |first=Armando |title=Gustavo Petro gana consulta del Pacto Histórico y estas son sus propuestas |url=https://www.eltiempo.com/elecciones-2022/candidatos/gustavo-petro-quien-es-y-cuales-son-su-propuestas-pacto-historico-656335 |newspaper=El Tiempo |language=es |date=13 March 2022 |access-date=13 March 2022 |archive-date=16 March 2022 |archive-url=https://web.archive.org/web/20220316053511/https://www.eltiempo.com/elecciones-2022/candidatos/gustavo-petro-quien-es-y-cuales-son-su-propuestas-pacto-historico-656335 |url-status=live }}</ref>
+
+== Hope Center Coalition ==
+The [[Hope Center Coalition]] (Spanish: ''Coalición Centro Esperanza''), formerly known as the Coalition of Hope (Spanish: ''Coalición de la Esperanza'') until 28 November 2021,<ref>{{cite news |title=Humo blanco: nace Coalición Centro Esperanza para las elecciones presidenciales |url=https://www.elespectador.com/politica/humo-blanco-nace-coalicion-centro-esperanza-para-las-elecciones-presidenciales/ |newspaper=El Espectador |language=es |date=28 November 2021 |access-date=1 March 2022 |archive-date=1 March 2022 |archive-url=https://web.archive.org/web/20220301210753/https://www.elespectador.com/politica/humo-blanco-nace-coalicion-centro-esperanza-para-las-elecciones-presidenciales/ |url-status=live }}</ref> is a coalition of centre and centre-left politicians. Five pre-candidates announced that they would be standing for election as the unified presidential candidate for the coalition.<ref>{{cite news |title=Así quedó el orden del tarjetón de la consulta de la Coalición Centro Esperanza |url=https://www.elespectador.com/politica/elecciones-colombia-2022/asi-quedo-el-orden-del-tarjeton-de-la-consulta-de-la-coalicion-centro-esperanza/ |newspaper=El Espectador |language=es |date=2 February 2022 |access-date=1 March 2022 |archive-date=1 March 2022 |archive-url=https://web.archive.org/web/20220301175044/https://www.elespectador.com/politica/elecciones-colombia-2022/asi-quedo-el-orden-del-tarjeton-de-la-consulta-de-la-coalicion-centro-esperanza/ |url-status=live }}</ref>
+
+===Nominee===
+{| class="wikitable" style="font-size:90%;text-align:center"
+|-
+|style="background:#F1F1F1" colspan="30"| [[File:Logo esperanza.jpg|65px|center|link=Hope Center Coalition]]<big>'''2022 Hope Center Coalition ticket '''</big>
+|-
+! style="width:3em; font-size:135%; background:#32CD32; width:200px;" |{{colored link|white|Sergio Fajardo}}
+! style="width:3em; font-size:135%; background:#32CD32; width:200px;" |{{colored link|white|Luis Gilberto Murillo}}
+|- style="color:#000; font-size:100%; background:#66FF00;"
+| style="width:3em; width:200px;" |'''''for President'''''
+| style="width:3em; width:200px;" |'''''for Vice President'''''
+|-
+|[[File:Sergio_Fajardo_2015_(cropped).jpg|center|x200px|border]]
+|[[File:Luis_Gabriel_Murillo.jpg|center|x200px|border]]
+|-
+|[[Governor of Antioquia]]<br />(2012–2016)
+|[[Ministry of Environment and Sustainable Development (Colombia)|Minister of Environment and Sustainable Development]]<br />(2016–2018)
+|-
+| colspan="2" |
+|}
+
+* [[Juan Manuel Galán Pachón|Juan Manuel Galán]], former senator ([[New Liberalism (Colombia)|New Liberalism]])
+* [[Sergio Fajardo]], former [[List of mayors of Medellín|mayor of Medellín]] ([[Independent Social Alliance]])
+* [[Jorge Enrique Robledo]], senator (Dignity)
+* [[Carlos Amaya]], former governor of [[Boyacá Department|Boyacá]] (We Are Green Hope)
+* [[Alejandro Gaviria]], former [[Ministry of Health and Social Protection (Colombia)|Minister of Health and Social Protection]] (Colombia Has a Future)
+
+=== Primary results ===
+{| class="wikitable"
+|-
+! colspan="2" |Party
+! Party logo
+! Candidate
+! Votes
+! %
+|- style="background:#cfc;"|
+| bgcolor={{party color|Independent Social Alliance}} |
+| '''[[Independent Social Alliance]]'''
+| [[File:ASI Logo.svg|65px]] 
+| '''[[Sergio Fajardo]]'''
+| '''723,475'''
+| '''33.50%'''
+|-
+| bgcolor={{party colour|New Liberalism (Colombia)}}|
+|[[New Liberalism (Colombia)|New Liberalism]]
+|[[File:Nuevo Liberalismo (Colombia).svg|65px]] 
+| [[Juan Manuel Galán Pachón|Juan Manuel Galán]]
+| 487,019
+| 22.55%
+|-
+| style="background:#0eb90b;"|
+| We are Green Hope<br/>(Dignity-[[Alianza Social Independiente|ASI]])
+| [[File:SOMOS VERDE ESPERANZA.svg|65px]]
+| [[Carlos Amaya]]
+| 451,223
+| 20.89%
+|-
+| bgcolor={{party colour|Colombia Has a Future}};"|
+| Colombia Has a Future
+| [[File:No image.svg|40px]]
+| [[Alejandro Gaviria]] 
+| 336,504
+| 15.58%
+|-
+| style="background:#590080;"|
+| Dignity 
+| [[File:Logodignidad.png|80px]]
+| [[Jorge Enrique Robledo]] 
+| 161,244
+| 7.46%
+|-
+| colspan="6"|Source:<ref>{{cite web |title=Votos a Pre-candidatos |url=https://resultados.registraduria.gov.co/coalicion/0/colombia |publisher=Government of Colombia |access-date=22 May 2022 |archive-url=https://web.archive.org/web/20220403233004/https://resultados.registraduria.gov.co/coalicion/0/colombia |archive-date=3 April 2022 |url-status=live|language=es |date=17 March 2022}}</ref>
+|}
+
+Fajardo was announced as the winner of the public vote and was nominated to be the candidate of the Hope Center Coalition.<ref>{{cite news |title=Sergio Fajardo gana la consulta Centro Esperanza y estas son sus propuestas |url=https://www.eltiempo.com/elecciones-2022/candidatos/sergio-fajardo-quien-es-y-sus-propuestas-presidenciales-para-2022-656363 |newspaper=El Tiempo |language=es |date=13 March 2022 |access-date=13 March 2022 |archive-date=14 March 2022 |archive-url=https://web.archive.org/web/20220314063809/https://www.eltiempo.com/elecciones-2022/candidatos/sergio-fajardo-quien-es-y-sus-propuestas-presidenciales-para-2022-656363 |url-status=live }}</ref>
+
+== Team for Colombia Coalition ==
+The [[Team for Colombia]] Coalition (Spanish: ''Coalición Equipo por Colombia'') is a coalition of centre-right and right-wing politicians. Five pre-candidates announced that they would be standing for election as the unified presidential candidate for the coalition.<ref>{{cite news |title=Así será el tarjetón de la consulta del Equipo por Colombia |url=https://www.elespectador.com/politica/elecciones-colombia-2022/asi-sera-el-tarjeton-de-la-consulta-del-equipo-por-colombia/ |newspaper=El Espectador |language=es |date=4 February 2022 |access-date=1 March 2022 |archive-date=17 March 2022 |archive-url=https://web.archive.org/web/20220317065922/https://www.elespectador.com/politica/elecciones-colombia-2022/asi-sera-el-tarjeton-de-la-consulta-del-equipo-por-colombia/ |url-status=live }}</ref>
+
+===Nominee===
+{| class="wikitable" style="font-size:90%;text-align:center"
+|-
+|style="background:#F1F1F1" colspan="30"| [[File:Logo_Coalición_Equipo_por_Colombia.png|65px|center|link=Team for Colombia Coalition]]<big>'''2022 Team for Colombia Coalition ticket '''</big>
+|-
+! style="width:3em; font-size:135%; background:#0061D3; width:200px;" |{{colored link|white|Federico Gutiérrez}}
+! style="width:3em; font-size:135%; background:#0061D3; width:200px;" |{{colored link|white|Rodrigo Lara Sánchez|Rodrigo Lara}}
+|- style="color:#000; font-size:100%; background:#BEDBED;"
+| style="width:3em; width:200px;" |'''''for President'''''
+| style="width:3em; width:200px;" |'''''for Vice President'''''
+|-
+|[[File:Federico_Gutiérrez.jpg|center|x200px|border]]
+|[[File:Rodrigo_Lara_Sanchez.jpg|center|x200px|border]]
+|-
+|[[Medellín|Mayor of Medellín]]<br />(2016–2019)
+|[[Neiva|Mayor of Neiva]]<br />(2016–2019)
+|-
+| colspan="2" |
+|}
+
+* [[Aydeé Lizarazo]] ([[Independent Movement of Absolute Renovation]])
+* [[Alejandro Char]], former [[List of mayors of Barranquilla|mayor of Barranquilla]] (Land of Opportunities)
+* [[David Barguil]], senator ([[Colombian Conservative Party]])
+* [[Enrique Peñalosa]], former [[List of mayors of Bogotá|mayor of Bogota]] ([[Party of the U]])
+* [[Federico Gutiérrez]], former [[List of mayors of Medellín|mayor of Medellín]] (We Believe Colombia)
+
+=== Primary results ===
+{| class="wikitable"
+|-
+! colspan="2"|Party
+! Party logo
+! Candidate 
+! Votes
+!%
+|- style="background:#cfc;"
+| bgcolor={{party color|Creemos Colombia}}|
+| '''[[:es:Creemos Colombia|Creemos Colombia]]'''
+| [[File:CreemosColombiaRec.png|80px]]
+|'''[[Federico Gutiérrez]]'''
+|'''2,161,686'''
+|'''54.18%'''
+|-
+| style="background:#612682;"|
+| Land of Opportunities 
+|[[File:Logo Oficial de País de Oportunidades.png|65px]]
+|[[Alejandro Char Chaljub|Alejandro Char]]
+| 707,007
+| 17.72%
+|-
+| bgcolor={{party color|Colombian Conservative Party}} |
+| [[Colombian Conservative Party]]
+| [[File:Bandera del Partido Conservador Colombiano.svg|65px]] 
+| [[David Barguil]]
+| 629,510
+| 15.77%
+|-
+| bgcolor={{party color|Independent Movement of Absolute Renovation}}|
+| [[Independent Movement of Absolute Renovation|Independent Movement<br/>of Absolute Renovation]]
+| [[File:Logo Partido MIRA.svg|65px]] 
+| Aydeé Lizarazo
+| 259,771
+| 6.51%
+|-
+| bgcolor={{party color|Union Party for the People}}|
+| [[Union Party for the People]]
+| [[File:Logo Partido U Colombia.png|65px]]  
+| [[Enrique Peñalosa]]
+| 231,668
+| 5.80%
+|-
+| colspan="6"|Source:<ref>{{cite web |title=Votos a Pre-candidatos |url=https://resultados.registraduria.gov.co/equipo/0/colombia |publisher=Government of Colombia |access-date=22 May 2022 |archive-url=https://web.archive.org/web/20220414131200/https://resultados.registraduria.gov.co/equipo/0/colombia |archive-date=14 April 2022 |language=es |date=17 March 2022 |url-status=live}}</ref>
+|}
+
+Gutiérrez was announced as the winner of the public vote and was nominated to be the candidate of the Team for Colombia Coalition.<ref>{{cite news |last=Mercado |first=Alejandro |title=Fico Gutiérrez gana consulta Equipo por Colombia y estas son sus propuestas |url=https://www.eltiempo.com/elecciones-2022/presidencia/fico-gutierrez-quien-es-y-sus-propuestas-para-la-presidencia-en-2022-656487 |newspaper=El Tiempo |language=es |date=13 March 2022 |access-date=13 March 2022 |archive-date=14 March 2022 |archive-url=https://web.archive.org/web/20220314152753/https://www.eltiempo.com/elecciones-2022/presidencia/fico-gutierrez-quien-es-y-sus-propuestas-para-la-presidencia-en-2022-656487 |url-status=live }}</ref>
+
+== Other candidates ==
+* [[Rodolfo Hernández Suárez|Rodolfo Hernández]], former [[List of mayors of Bucaramanga|mayor of Bucaramanga]] (League of Anti-Corruption Governors). Hernández announced on 29 June 2021 that he would run as an independent candidate.<ref>{{cite news |title=Rodolfo Hernández inscribio su candidatura para la Presidencia en 2022 |url=https://www.eltiempo.com/colombia/santander/rodolfo-hernandez-inscribio-su-candidatura-para-la-presidencia-en-2022-599687 |newspaper=El Tiempo |language=es |date=29 June 2021 |access-date=1 March 2022 |archive-date=1 March 2022 |archive-url=https://web.archive.org/web/20220301184200/https://www.eltiempo.com/colombia/santander/rodolfo-hernandez-inscribio-su-candidatura-para-la-presidencia-en-2022-599687 |url-status=live }}</ref> On 13 December 2021, Hernández announced that he had delivered nearly 1.9 million signatures to the National Registry in support of his candidacy.<ref>{{cite news |last=Cortés |first=Sebastián |title=Con pulla a Petro, Rodolfo Hernández entregó las firmas para su candidatura |url=https://caracol.com.co/radio/2021/12/13/politica/1639421910_551321.html |website=[[Caracol Radio]] |language=es |date=13 December 2021 |access-date=1 March 2022 |archive-date=1 March 2022 |archive-url=https://web.archive.org/web/20220301185424/https://caracol.com.co/radio/2021/12/13/politica/1639421910_551321.html |url-status=live }}</ref>
+* [[John Milton Rodríguez]], senator (Fair and Free Colombia). Rodríguez was chosen as the candidate of the evangelical Christian party Fair and Free Colombia (Spanish: ''Colombia Justa Libres'') at the party's national convention in November 2021, obtaining 75% of the delegates' votes.<ref>{{cite web |last=Correa Escobar |first=María Kamila |title=John Milton Rodríguez es el candidato presidencial único de Colombia Justa Libres |url=https://www.wradio.com.co/noticias/actualidad/john-milton-rodriguez-es-el-candidato-presidencial-unico-de-colombia-justa-libres/20211114/nota/4178264.aspx |website=[[W Radio (Colombia)|W Radio]] |language=es |date=14 November 2021 |access-date=1 March 2022 |archive-date=1 March 2022 |archive-url=https://web.archive.org/web/20220301185955/https://www.wradio.com.co/noticias/actualidad/john-milton-rodriguez-es-el-candidato-presidencial-unico-de-colombia-justa-libres/20211114/nota/4178264.aspx |url-status=live }}</ref>
+* [[Enrique Gómez Martínez]] (National Salvation Movement). On 1 November 2021, Gómez Martínez announced that he was relaunching the conservative National Salvation Movement (Spanish: ''Movimiento Salvación Nacional'') that had been founded by his late uncle [[Álvaro Gómez Hurtado]].<ref>{{cite news |last=González Penagos |first=Javier |title="Hoy termina la gesta judicial y nace la política": Enrique Gómez Martínez |url=https://www.elespectador.com/politica/hoy-termina-la-gesta-judicial-y-nace-la-politica-enrique-gomez-martinez-sobre-salvacion-nacional/ |newspaper=El Espectador |language=es |date=1 November 2021 |access-date=1 March 2022 |archive-date=7 December 2021 |archive-url=https://web.archive.org/web/20211207080222/https://www.elespectador.com/politica/hoy-termina-la-gesta-judicial-y-nace-la-politica-enrique-gomez-martinez-sobre-salvacion-nacional/ |url-status=live }}</ref> On 1 December 2021, the National Registry accepted the return of the National Salvation Movement as a political party, and Gómez Martínez became the party's presidential candidate.<ref>{{cite web |last=Ramírez |first=Fabián |title=Enrique Gómez Martínez será candidato presidencial del Partido Salvación Nacional |url=https://noticias.caracoltv.com/codigo-caracol/enrique-gomez-martinez-sera-candidato-presidencial-del-partido-salvacion-nacional |website=[[Caracol TV]] |language=es |date=1 December 2021 |access-date=1 March 2022 |archive-date=1 March 2022 |archive-url=https://web.archive.org/web/20220301191534/https://noticias.caracoltv.com/codigo-caracol/enrique-gomez-martinez-sera-candidato-presidencial-del-partido-salvacion-nacional |url-status=live }}</ref>
+
+==Notes==
+{{reflist|group=lower-alpha}}
+
+==References==
+{{Reflist}}
+
+{{Colombian elections}}
+
+[[Category:2022 in Colombia|Presidential]]
+[[Category:2022 elections in South America|Colombia]]
+[[Category:May 2022 in Colombia|Election]]
+[[Category:June 2022 in Colombia|Election]]
+[[Category:Presidential elections in Colombia]]
+[[Category:2022 Colombian presidential election]]

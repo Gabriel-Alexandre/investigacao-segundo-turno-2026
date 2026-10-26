@@ -1,0 +1,88 @@
+{{Short description|none}}
+{{use dmy dates|date=April 2026}}
+{{Infobox election
+| country = Madagascar
+| type = Presidential
+| previous_election = 1996 Malagasy presidential election
+| previous_year = 1996
+| election_date = 16 December 2001
+| next_election = 2006 Malagasy presidential election
+| next_year = 2006
+| turnout = 67.94%
+
+| image1 = Marc Ravalomanana 2005-04-19.jpg
+| nominee1 = '''[[Marc Ravalomanana]]'''
+| party1 = Tiako i Madagasikara
+| popular_vote1 = '''2,306,600'''
+| percentage1 = '''51.46%'''
+
+| image2 = Didier Ratsiraka 1997.jpg
+| nominee2 = [[Didier Ratsiraka]]
+| party2 = Association for the Rebirth of Madagascar
+| popular_vote2 = 1,609,151
+| percentage2 = 35.90%
+
+| title = President
+| before_election = [[Didier Ratsiraka]]
+| before_party = Association for the Rebirth of Madagascar
+| after_election = [[Marc Ravalomanana]]
+| after_party = Tiako i Madagasikara
+}}{{Politics of Madagascar}}
+
+The '''2001 Malagasy presidential election''' was won by [[Marc Ravalomanana]], who defeated the incumbent [[List of Presidents of Madagascar|President]] [[Didier Ratsiraka]]. The election results were highly contentious, with conflicting reports about the candidates' vote shares and an outbreak of violence between the candidates' supporters. Six months after the election, the [[High Constitutional Court of Madagascar]] ruled that Ravalomanana exceeded the 50% threshold and won the presidency without a runoff.<ref name="PC2012">{{cite book |last1=Ploch |first1=Lauren |last2=Cook |first2=Nicolas |title=CRS Report for Congress Prepared for Members and Committees of Congress Madagascar’s Political Crisis |date=18 June 2012 |publisher=United States Congressional Research Service |url=https://www.fredsakademiet.dk/ordbog/mord/madagascar_policy.pdf |access-date=6 April 2026}}</ref>{{rp|7-8}}
+
+==Main candidates==
+Incumbent president [[Didier Ratsiraka]] had been in and out of the office of the presidency before the 2001 elections. He was appointed as president for the first time in 1975, a position he held through 1993.<ref name="Rasoloarison2021">{{cite web |last1=Rasoloarison |first1=Jeannot |title=Didier Ratsiraka, héraut de la souveraineté malgache, est décédé |url=https://www.lemonde.fr/afrique/article/2021/03/31/didier-ratsiraka-heraut-de-la-souverainete-malgache-est-decede_6075151_3212.html |website=Le Monde |access-date=6 April 2026 |language=fr |date=31 March 2021 |trans-title=Didier Ratsiraka, herald of Malagasy sovereignty, has died}}</ref> In 1993, Ratsiraka [[1992–93 Malagasy presidential election|lost re-election]] to [[Albert Zafy]]. Zafy was impeached in 1996, and Ratsiraka won the [[1996 Malagasy presidential election|1996 election]], regaining the presidency. After his return to the presidency, Ratsiraka backed constitutional reforms that reinforced his power and got political allies seated in the [[Senate (Madagascar)|Senate]] and the High Constitutional Court. These actions, along with nepotism in his appointments and allegations of corruption undermined support for his administration.<ref name=PC2012/>{{rp|7}}<ref name="MR2003">{{cite journal |last1=Marcus |first1=Richard R. |last2=Razafindrakoto |first2=Paul |title=Participation and the Poverty of Electoral Democracy in Madagascar |journal=Africa Spectrum |date=2003 |volume=38 |issue=1 |pages=27–48 |url=https://www.jstor.org/stable/40174961 |access-date=6 April 2026 |issn=0002-0397}}</ref>{{rp|29-31}}
+
+[[Marc Ravalomanana]], by comparison, was a new face in Malagasy politics. He had been a dairy [[tycoon]] and had only entered politics two years earlier, getting elected as mayor of [[Antananarivo]], Madagascar's capital city, in 1999. He took on the role of the main opposition candidate to Ratsiraka after [[Norbert Ratsirahonana]] withdrew from the race and endorsed Ravlomanana.<ref name=MR2003/>{{rp|33,36}}<ref name="AJ2009">{{cite web |title=Profile: Marc Ravalomanana |url=https://www.aljazeera.com/news/2009/3/17/profile-marc-ravalomanana |website=Al Jazeera |access-date=6 April 2026 |language=en |date=17 March 2009}}</ref> Ravalomanana campaigned on economic renewal but also received criticism for not paying taxes.<ref>{{cite web |title=Long wait for verdict in Madagascar |url=http://news.bbc.co.uk/2/hi/africa/1715248.stm |website=BBC News |access-date=7 April 2026 |date=17 December 2001}}</ref>
+
+==Election==
+The election was held on 16 December 2001.<ref>{{cite web|url=https://africanelections.tripod.com/mg.html#2001_Presidential_Election|title=Elections in Madagascar|website=African Elections Database|date=15 November 2011 |access-date=8 April 2026}}</ref> The election itself went smoothly, with only minor electoral problems reported, and 67% participation from registered voters. Counting the ballots was much more fractious. All counts agreed that Ravalomanana received the most ballots of any candidate, but it was disputed whether he received an outright majority or merely a plurality. According to the [[Constitution of Madagascar]], if no candidate received 50% of the vote, a second voting round would be held.<ref name=MR2003/>{{rp|37}}
+
+===Counting and the proposed runoff===
+Three different vote counts were undertaken. The first, by the National Electoral Commission, was considered the official governmental count. In this count, Ravalomanana won 46.6% of the vote, meaning that a second vote would be held between Ravalomanana and Ratsiraka. The second, by the National Consortium of Election Observers, gave Ravalomanana a slight majority: 50.5%. A third, by Ravalomanana's election committee, gave him a larger majority: 52.2%.<ref name=MR2003/>{{rp|37-38}}
+
+The High Constitutional Court of Madagascar relied solely on the National Electoral Commission's count. They ruled in January 2002 that Ravalomanana lacked an outright majority and that a second round of elections would decide the winner.<ref name=MR2003/>{{rp|38}}
+
+==Protests and resolution==
+{{main|2002 Malagasy political crisis}}
+
+===First recount===
+Ravalomanana had claimed victory shortly after the election.<ref name=BBCTimeline>{{cite web |title=Madagascar profile - Timeline |url=https://www.bbc.com/news/world-africa-13864364 |website=BBC News |access-date=7 April 2026 |date=5 November 2018}}</ref> He refused to participate in a runoff, arguing that it would be impossible to trust the results of the runoff given the irregularities in the count from the first round. His demands that the runoff's votes be counted by the High Court with the candidates and international observers present were rejected.<ref name=MR2003/>{{rp|38}} 
+
+The High Court was slow to ratify the vote count. In mid-January 2002, they requested a recount, to be administered by the National Electoral Commission (CNE). Ravalomanana and his supporters rejected this resolution, arguing that the CNE was controlled by Ratsikraka's government (their initial count was the only one to deny Ravalomanana an outright majority). After the CNE recount returned the same basic result, the High Constitutional Court scheduled the runoff election for 24 February.<ref name=Cornwell2003>{{Cite web |last=Cornwell |first=Richard |date=April 2003 |title=Madagascar: Stumbling at the First Hurdle? |url=https://www.africaportal.org/publications/madagascar-stumbling-at-the-first-hurdle/ |website=Africa Portal |id=ISS Paper 68 |access-date=7 April 2026}}</ref>{{rp|2-3}}
+
+===Protests===
+Ravalomanana's supporters had been protesting in the capital throughout January 2002, and he called for an indefinite general strike on January 28. On February 22, he unilaterally declared himself president. Throughout this process, international organizations, including the [[United Nations]] and the [[Organisation of African Unity]] (OAU) had been working to broker a deal between the sides. The runoff, originally scheduled for February 24, was postponed while the details of a fair runoff were established.<ref name=MR2003/>{{rp|39}}<ref name=Cornwell2003/>{{rp|3-4}}
+
+Clashes between protestors and government forces simmered throughout February and March. Meanwhile, the OAU organized a summit, held in [[Dakar]], [[Senegal]], to lay the groundwork moving forward. The single most consequential development may have been that six of the nine members of the High Constitution Court, appointed by Ratsiraka shortly before the election, had their appointments nullified by the Supreme Court. The previous members of the court returned, and the Supreme Court ordered the HCC to conduct a new recount.<ref name=Cornwell2003/>{{rp|5}} 
+
+===Second recount===
+The HCC announced on April 29 that the new recount gave Ravalomanana 51.46% of the votes, meaning that no runoff was needed. The OAU continued to work on a framework for a more satisfying resolution, and Ratsiraka raised legal challenges to the recount; one concern was that four members of the HCC had attended Ravalomanana's first inauguration, raising questions of impartiality. Despite this, international recognition came trickling in for Ravalomanana. The United States and France sent diplomatic envoys to Ravalomanana's second inauguration on May 6.<ref name=Cornwell2003/>{{rp|6}}
+
+Although Ratsiraka continued to reject the verdict, the [[United States]] recognised Ravalomanana as President in June, and recognition by other countries trickled in afterward.<ref name=BBCTimeline/> The following month Ratsiraka fled to France, after reports came out that he was organizing mercenaries to militarily support his cause. Ratsiraka's localised military support collapsed, with Ravalomanana's supporters taking over the remaining pro-Ratsiraka bastions without opposition.<ref name=Cornwell2003/>{{rp|8}}<ref>{{cite web |title=Embattled Ratsiraka arrives in France |url=http://news.bbc.co.uk/2/hi/africa/2043523.stm |website=BBC News |access-date=7 April 2026 |date=14 June 2002}}</ref>
+
+==Results==
+{{Election results
+|firstround=Original results
+|secondround=Recount
+|cand1=[[Marc Ravalomanana]]|party1=[[Tiako i Madagasikara]]|votes1=1945242|votes1_2=2306600
+|cand2=[[Didier Ratsiraka]]|party2=[[Association for the Rebirth of Madagascar|AREMA]]|votes2=1701094|votes2_2=1609151
+|cand3=[[Albert Zafy]]|party3=[[Action, Truth, Development and Harmony]]|votes3=223831|votes3_2=229047
+|cand4=[[Herizo Razafimahaleo]]|party4=[[Economic Liberalism and Democratic Action for National Recovery|LEADER–Fanilo]]|votes4=178972|votes4_2=179293
+|cand5=[[Daniel Rajakoba]]|party5=Independent|votes5=74304|votes5_2=89646
+|cand6=[[Patrick Rajaonary]]|party6=Independent|votes6=65571|votes6_2=68579
+|invalid=67494|invalid2=83392
+|electorate=6367610|electorate2=6720218
+|source=[https://africanelections.tripod.com/mg.html African Elections Database], [http://biblio.univ-antananarivo.mg/pdfs/rochel_HISTO_M1_11.pdf Rochel]
+}}
+
+==References==
+{{reflist}}
+
+{{Malagasy elections}}
+
+[[Category:2001 elections in Africa|Madagascar]]
+[[Category:2001 in Madagascar|Presidential]]
+[[Category:Presidential elections in Madagascar]]
+[[Category:December 2001 in Africa|Madagascar]]

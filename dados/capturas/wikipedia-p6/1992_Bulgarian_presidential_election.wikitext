@@ -1,0 +1,76 @@
+{{Short description|Presidential election in Bulgaria}}
+{{Infobox election
+| election_name      = 1992 Bulgarian presidential election
+| country            = Bulgaria
+| type               = presidential
+| ongoing            = no
+| previous_election  = Bulgarian presidential election, July–August 1990
+| previous_year      = 1990
+| next_election      = 1996 Bulgarian presidential election
+| next_year          = 1996
+| election_date      = 12 January 1992 (first round)<br />{{nowrap|19 January 1992 (second round)}}
+| turnout = 75.39% (first round), 75.90% (second round)
+
+| image1             = Zhelev-1990.jpg
+| nominee1           = '''[[Zhelyu Zhelev]]'''
+| party1             = Union of Democratic Forces (Bulgaria)
+| running_mate1      = '''[[Blaga Dimitrova]]'''
+| popular_vote1      = '''2,738,420'''
+| percentage1        = '''52.85%'''
+| image2             = 
+| nominee2           = [[Velko Valkanov]]
+| party2             = Independent politician
+| colour2            = D40000
+| running_mate2      = {{nowrap|[[Rumen Vodenicharov]]}}
+| popular_vote2      = 2,443,434
+| percentage2        = 47.15%
+| title              = President
+| before_election    = [[Zhelyu Zhelev]]
+| before_party       = Union of Democratic Forces (Bulgaria)
+| after_election     = [[Zhelyu Zhelev]]
+| after_party        = Union of Democratic Forces (Bulgaria)
+}}
+Direct presidential elections were held for the first time in [[Bulgaria]] on 12 January 1992, with a second round on 19 January.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p369 {{ISBN|978-3-8329-5609-7}}</ref> The result was a victory for incumbent President [[Zhelyu Zhelev]] of the [[Union of Democratic Forces (Bulgaria)|Union of Democratic Forces]], who won 52.8% of the vote in the second round. Voter turnout was 75.4% in the first round and 75.9% in the second.<ref name=DNPS>Nohlen & Stöver, p388</ref> Zhelev had originally been elected as president by the [[National Assembly (Bulgaria)#Grand National Assembly|Grand National Assembly]] in 1990.
+
+==Results==
+{{Election results
+|cand1=[[Zhelyu Zhelev]]|vp1=[[Blaga Dimitrova]]|party1=[[Union of Democratic Forces (Bulgaria)|Union of Democratic Forces]]|votes1=2273541|votes1_2=2738420
+|cand2=[[Velko Valkanov]]|vp2=Rumen Vodenicharov|party2=Independent ([[Bulgarian Socialist Party]])|votes2=1549970|votes2_2=2443434
+|cand3=[[George Ganchev]]|vp3=[[Petar Beron (politician)|Petar Beron]]|party3=[[Bulgarian Business Bloc]]|votes3=854108
+|cand4=[[Blagovest Sendov]]|vp4=Ognyan Saparev|party4=Independent|votes4=113897
+|cand5=Slavomir Tsankov|vp5=Mikhail Milanov|party5=Union of Democratic Parties and Movements "Era 3"|votes5=50247
+|cand6=[[Dimitar Popov]]|vp6=Hristo Genchev|party6=Bulgarian National Democratic Party|votes6=32606
+|cand7=[[Anton Donchev]]|vp7=Nikolai Shkutov|party7=Movement "Voice for Non-Party President"|votes7=31798
+|cand8=Asen Mladenov|vp8=Ivan Georgiev|party8=[[Bulgarian Communist Party]]|votes8=29646
+|cand9=Peter Gogov|vp9=Bogdan Yotsov|party9=Independent Democratic Party|votes9=21302
+|cand10=Ivan Georgiev|vp10=Ivan Kisimov|party10=Bulgarian National Radical Party|votes10=19495
+|cand11=Siyka Georgieva|vp11=Stancho Mitev|party11=Transfiguration Political Forum|votes11=17150
+|cand12=Peter Manolov|vp12=Emilia Savova|party12=Non-Partisan Democracy Movement|votes12=14023
+|cand13=Kirill Borisov|vp13=Milan Tonev|party13=Liberal Party - Pernik|votes13=11227
+|cand14=Yolo Denev|vp14=Georgi Statkov|party14=Bulgarian Democratic Party|votes14=10769
+|cand15=Ivan Ivanov|vp15=Petar Dimitrov|party15=[[Bulgarian National Union – New Democracy]]|votes15=10099
+|cand16=Krum Krumov-Kumanov|vp16=Vencheslav Georgiev|party16=Pre-Election Union for National Salvation|votes16=10266
+|cand17=Stoyan Tsankov|vp17=Ivan Stoyanov|party17=Democratic Party in Bulgaria|votes17=9888
+|cand18=Dimitar Dimitrov|vp18=Velcho Velev|party18=Free Democratic Party|votes18=8620
+|cand19=Dimitar Markovski|vp19=Dimitar Savov|party19=Free Cooperative Party|votes19=8360
+|cand20=Pravdolyub Kozhukharov|vp20=Simeon Yanulev|party20=Bulgarian Workers and Peasants Party|votes20=7808
+|cand21=Todor Pashaliyski|vp21=Velin Iliev|party21=Christian Radical Party|votes21=6307
+|invalid=48713
+|invalid2=24388
+|electorate=6817914
+|electorate2=6859318
+|source=[https://web.archive.org/web/20021115092621/http://www.president.bg/inst_izbori_92.php President of Bulgaria]
+}}
+
+==References==
+{{reflist}}
+
+{{Bulgarian elections}}
+
+[[Category:1992 elections in Europe|Bulgaria]]
+[[Category:1992 elections in Bulgaria|President]]
+[[Category:Presidential elections in Bulgaria]]
+[[Category:January 1992 in Europe]]
+
+
+{{Bulgaria-election-stub}}

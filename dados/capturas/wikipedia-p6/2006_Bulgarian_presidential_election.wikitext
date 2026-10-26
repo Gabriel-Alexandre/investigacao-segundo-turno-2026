@@ -1,0 +1,71 @@
+{{Short description|none}}
+{{Use dmy dates|date=December 2019}}
+{{Infobox election
+| country = Bulgaria
+| type = presidential
+| previous_election = 2001 Bulgarian presidential election
+| previous_year = 2001
+| next_election = 2011 Bulgarian presidential election
+| next_year = 2011
+| election_date = 22 October 2006 (first round)<br />{{nowrap|29 October 2006 (second round)}}
+| turnout = 44.11% (first round) {{increase}} 2.48pp<br>42.62% (second round) {{decrease}} 12.30pp
+| image1 = {{CSS image crop|Image = Georgi S. Parvanov.jpg |bSize = 120|cWidth = 110|cHeight = 150|oTop = 0|oLeft = 0}}
+| nominee1 = '''[[Georgi Parvanov]]'''
+| party1 = Bulgarian Socialist Party
+| running_mate1 = '''[[Angel Marin]]'''
+| popular_vote1 = '''2,050,488'''
+| percentage1 = '''75.95%'''
+| image2 =  {{CSS image crop|Image = Volen_Siderov_ATAKA.jpg |bSize = 120|cWidth = 110|cHeight = 150|oTop = 0|oLeft = 0}}
+| nominee2 = [[Volen Siderov]]
+| party2 = Attack (political party)
+| running_mate2 = {{ill|Pavel Shopov|bg|Павел Шопов}}
+| popular_vote2 = 649,387
+| percentage2 = 24.05%
+| title = President
+| before_election = [[Georgi Parvanov]]
+| before_party = Bulgarian Socialist Party
+| after_election = [[Georgi Parvanov]]
+| after_party = Bulgarian Socialist Party
+}}
+
+Presidential elections were held in [[Bulgaria]] on 22 October 2006, as decided on 27 July 2006 by the [[National Assembly (Bulgaria)|Bulgarian Parliament]].<ref>{{cite news |url=http://netinfo.bg/?tid=40&oid=914555 |publisher=Netinfo |title=На 22 октомври гласуваме за президент, реши парламентът |date=27 July 2006 |accessdate=22 October 2006 |author=Darik.net}}</ref> The runoff took place on 29 October 2006, while the [[electoral campaign]] spanned 19 September – 20 October. At the election, [[Georgi Parvanov]] won his second and final term as [[President of Bulgaria]].
+
+Some of the [[right-wing]] parties were disunited at the time but still chose to support a common candidate, [[Nedelcho Beronov]]. [[Prime Minister of Bulgaria|Prime minister]] and head of the [[Bulgarian Socialist Party|Socialist Party]] [[Sergey Stanishev]] expressed his strong support for the current president, Georgi Parvanov, in July 2006,<ref>{{cite web |url=http://www.mediapool.bg/show/?storyid=119915 |publisher=Mediapool |title=Станишев: Победата на Първанов е важна за утвърждаване на кабинета |accessdate=22 October 2006 |date=28 July 2006 |last=Yotova |first=Boryana |language=Bulgarian}}</ref> and Parvanov officially stated his desire to run for a second term on 25 August 2006.<ref>{{cite web |url=http://www.president.bg/news.php?id=2683&st=0 |publisher=President.bg |title=Инициативен комитет издигна кандидатурата на Георги Първанов за втори президентски мандат |language=Bulgarian |date=25 August 2006 |accessdate=22 October 2006}}</ref> He was also backed by the other two members of the then ruling [[Stanishev Government|Triple coalition]] – [[NDSV]] and [[Movement for Rights and Freedoms|DPS]].
+
+In the first round, incumbent Georgi Parvanov received 64% of the vote, ahead of [[nationalist]] leader [[Volen Siderov]] who came second with 21.5%.<ref name=official1>{{cite web |url=http://www.izbori2006.org/results_1/ |title=Elections 2006: Final results for the country according to the Central Electoral Commission for the President and Vice President Elections |language=Bulgarian |accessdate=24 October 2006 |publisher=Izbori2006.org |url-status=dead |archiveurl=https://web.archive.org/web/20061126044027/http://www.izbori2006.org/results_1/ |archivedate=26 November 2006 }}</ref> However, Parvanov was forced into a runoff with Siderov, as Bulgarian law requires a [[voter turnout|turnout]] of 50% for a president to be elected in the first round.<ref name=reuters>{{cite news |title=Bulgaria's Parvanov wins 1st round presidential poll |url=http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2006-10-22T171346Z_01_L22677436_RTRUKOC_0_US-BULGARIA-ELECTION.xml&pageNumber=0&imageid=&cap=&sz=13&WTModLoc=NewsArt-C1-ArticlePage2 |publisher=Reuters |date=22 October 2006 |accessdate=22 October 2006 |url-status=dead |archiveurl=https://web.archive.org/web/20070331061726/http://today.reuters.com/news/articlenews.aspx?type=worldNews |archivedate=31 March 2007 }}</ref> Turnout for the first round was 44%. The defeated [[right-wing]] forces called for abstention, while some [[far-left]] formations{{citation needed|date=December 2013}} expressed their support for Siderov.
+
+The second round saw Parvanov win a decisive victory with 75.9% as opposed to Siderov's 24.1%,<ref name=official2>{{cite web |url=http://www.izbori2006.org/results_2/ |title=Elections 2006: Final results for the country according to the Central Electoral Commission for the President and Vice President Elections |language=Bulgarian |accessdate=30 October 2006 |publisher=Izbori2006.org |url-status=dead |archiveurl=https://web.archive.org/web/20070108150458/http://www.izbori2006.org/results_2/ |archivedate=8 January 2007 }}</ref> meaning that Parvanov became the first person to be democratically re-elected as President of Bulgaria.<ref>[[Zhelyu Zhelev]], although having served two terms, was elected as a president not by popular vote, but by the [[National Assembly of Bulgaria|National Assembly]] for his first term.</ref> Second round turnout was 43%.
+
+==Results==
+{{Election results
+|cand1=[[Georgi Parvanov]]|vp1=[[Angel Marin]]|party1=[[Bulgarian Socialist Party]]|votes1=1780119|votes1_2=2050488
+|cand2=[[Volen Siderov]]|vp2={{ill|Pavel Shopov|bg|Павел Шопов}}|party2=[[Attack (political party)|Attack]]|votes2=597175|votes2_2=649387
+|cand3=[[Nedelcho Beronov]]|vp3=Yuliana Nikolova|party3=[[Union of Democratic Forces (Bulgaria)|Union of Democratic Forces]]|votes3=271078
+|cand4={{ill|Georgi Markov (politician)|bg|Георги Марков (политик)|lt=Georgi Markov}}|vp4=Maria Ivanova|party4=[[Order, Law and Justice]]|votes4=75478
+|cand5=[[Petar Beron (politician)|Petar Beron]]|vp5=Stela Bankova|party5=Independent|votes5=21812
+|cand6={{ill|Grigor Velev|bg|Григор Велев}}|vp6=Iordan Mutafchev|party6=Аll in One Bulgaria|votes6=19857
+|cand7={{ill|Lyuben Petrov|bg|Любен Петров}}|vp7=Neli Topalova|party7=Independent|votes7=13854
+|invalid=77374
+|invalid2=57560
+|electorate=6477126
+|electorate2=6469224
+|source=[http://pvr2006.cik.bg/results_1/index.html Electoral Commission of Bulgaria]
+}}
+
+==See also==
+*[[President of Bulgaria]]
+*[[Politics of Bulgaria]]
+
+==References and notes==
+{{reflist}}
+
+==External links==
+*{{in lang|bg}} [http://www.izbori2006.org/ Izbori2006.org – official Central Electoral Commission website for the election] 
+*{{in lang|bg}} [http://www.focus-news.net/index.php?id=q Focus News' Elections 2006 section]
+
+{{Bulgarian elections}}
+
+[[Category:Presidential elections in Bulgaria]]
+[[Category:October 2006 elections|Bulgaria]]
+[[Category:2006 elections in Bulgaria|Presidential election]]
+[[Category:October 2006 in Europe|Bulgaria]]

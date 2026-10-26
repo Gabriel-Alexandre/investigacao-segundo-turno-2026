@@ -1,0 +1,61 @@
+{{short description|none}}
+{{Infobox election
+| country= Republic of Macedonia
+| type= presidential
+| previous_election= 1994 Macedonian general election
+| previous_year= 1994
+| next_election= 2004 Macedonian presidential election
+| next_year= 2004
+| election_date= 31 October 1999 (first round)<br>{{nowrap|14 November 1999 (second round)}}
+| turnout = 65.12% (first round)<br>69.10% (second round)
+
+| image1= Борис Трайковский (07-03-2002) (cropped).jpg
+| nominee1= '''[[Boris Trajkovski]]'''
+| party1= VMRO-DPMNE
+| popular_vote1=  '''582,808'''
+| percentage1= '''53.16%'''
+
+| image2= 3x4.svg
+| nominee2= [[Tito Petkovski]]
+| party2=  Social Democratic Union of Macedonia
+| popular_vote2= 513,614
+| percentage2= 46.84%
+
+| title= President
+| before_election= [[Kiro Gligorov]]
+| before_party= Social Democratic Union of Macedonia
+| after_election= [[Boris Trajkovski]]
+| after_party= VMRO-DPMNE 
+}}{{Politics of Macedonia}}
+
+Presidential elections were held in [[Republic of Macedonia|Macedonia]] on 31 October 1999, with a second round on 14 November.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1278 {{ISBN|978-3-8329-5609-7}}</ref> [[Tito Petkovski]] of the [[Social Democratic Union of Macedonia|Social Democratic Union]] won the first round. However, as he received less than 50% of the vote, the election went to a second round, which was won by [[Boris Trajkovski]] of [[Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity|VMRO-DPMNE]], who won 53.2% of the vote.
+
+==Results==
+{{Election results
+|cand1=[[Tito Petkovski]]|party1=[[Social Democratic Union of Macedonia|Social Democratic Union]]|votes1=343606|votes1_2=513614|color1=#033A73
+|cand2=[[Boris Trajkovski]]|party2=[[VMRO-DPMNE]]|votes2=219098|votes2_2=582808
+|cand3=[[Vasil Tupurkovski]]|party3=[[Democratic Alternative (North Macedonia)|Democratic Alternative]]|votes3=163206
+|cand4=[[Muharem Nëxhipi]]|party4=[[Democratic Party of Albanians]]|votes4=155978
+|cand5=[[Stojan Andov]]|party5=[[Liberal Party of Macedonia|Liberal Party]]|votes5=111983
+|cand6=[[Muhamed Halili]]|party6=[[Party for Democratic Prosperity]]|votes6=45731
+|invalid=11013|invalid2=16281
+|electorate=1613284|electorate2=1610340
+|source=Nohlen & Stöver
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20121116053205/http://www.sec.mk/arhiva/1999_pretsedatelski/Default.htm State Electoral Commission, Presidential elections 1999]
+
+{{Macedonian elections}}
+
+[[Category:1999 elections in Europe|Macedonia]]
+[[Category:1999 in the Republic of Macedonia|Presidential election]]
+[[Category:Presidential elections in North Macedonia]]
+[[Category:October 1999 in Europe|Macedonian presidential election]]
+[[Category:November 1999 in Europe|Macedonian presidential election]]
+
+
+{{RMacedonia-election-stub}}

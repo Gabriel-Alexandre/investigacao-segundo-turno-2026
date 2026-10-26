@@ -1,0 +1,568 @@
+{{short description|none}}
+{{Infobox election
+| country = Moldova
+| type = presidential
+| previous_election = 2016 Moldovan presidential election
+| previous_year = 2016
+| election_date = 1 November 2020 (first round)<br />{{nowrap|15 November 2020 (second round)}}
+| next_election = 2024 Moldovan presidential election
+| next_year = 2024
+| turnout = 45.68% (first round) {{decrease}} 3.50[[percentage point|pp]]<br /> 52.76% (second round) {{decrease}} 0.69[[percentage point|pp]]
+
+| image1 = Batumi International Conference, on 19 July 2021 02 (cropped).jpg
+| candidate1 = '''[[Maia Sandu]]'''
+| party1 = [[Party of Action and Solidarity|PAS]]
+| popular_vote1 = '''943,006'''
+| percentage1 = '''57.72%'''
+
+| image2 = Игорь Додон (29-10-2019).jpg
+| colour2 = 8B0000
+| candidate2 = [[Igor Dodon]]
+| party2 = [[Independent politician|Independent]] ([[Party of Socialists of the Republic of Moldova|PSRM]]){{efn|name=ind|The President of Moldova traditionally resigns from party membership after taking office. Although Dodon was officially an independent, his campaign was endorsed and funded by [[Party of Socialists of the Republic of Moldova]].}}
+| popular_vote2 = 690,615
+| percentage2 = 42.28%
+
+| map_image = 2020 Moldovan presidential election map (2nd round) shaded.svg
+| map_size = 250px
+| map_caption = Second round results by electoral district<br> '''Sandu:''' {{legend0|#ffde71ff|50–55%}} {{legend0|#f9c75aff|55–60%}} {{legend0|#f2b642ff|60–65%}} {{legend0|#eea533ff|65–70%}} {{legend0|#e8911fff|70–75%}} {{legend0|#ad6406ff|80–85%}} {{legend0|#6b3100ff|90–95%}} <br> ''' Dodon:''' {{legend0|#f8b3b6ff|50–55%}} {{legend0|#f48d91ff|55–60%}} {{legend0|#f0676cff|60–65%}} {{legend0|#ee4147ff|65–70%}} {{legend0|#d01d21ff|70–75%}} {{legend0|#8b0000ff|80–85%}} {{legend0|#640000ff|85–90%}} {{legend0|#3c0000ff|90–95%}}
+| title = President
+| before_election = [[Igor Dodon]]
+| before_party = Independent politician
+| after_election = [[Maia Sandu]]
+| after_party = [[Party of Action and Solidarity|PAS]]
+}}
+{{Politics of Moldova}}
+
+Presidential elections were held in [[Moldova]] on 1 November.<ref>{{cite web|title=Rule-of-Law Problems Undermine Moldova's Economy: IMF|website=Balkan Insight|date=2020-03-19|url=https://balkaninsight.com/2020/03/19/rule-of-law-problems-undermine-moldovas-economy-imf/|access-date=2020-11-02}}</ref> The fourth direct elections since independence in 1991, voters had the possibility to either elect a new president or re-elect the incumbent [[Igor Dodon]]. Because no candidate received a majority of votes in the first round, a run-off between the top two candidates, [[Maia Sandu]] and Dodon, was held on 15 November. Maia Sandu won the second round with 58% of the vote,<ref name=":0">{{Cite web|title=Moldova: Maia Sandu wins vote, beating Russia-backed competitor|url=https://www.aljazeera.com/news/2020/11/16/moldova-maia-sandu-wins-vote-beating-russia-backed-competitor|website=Al Jazeera|access-date=2025-11-30|language=en}}</ref><ref name=":1">{{Cite web|title=Moldova's Dodon says concedes defeat in presidential runoff if courts find no violations|url=https://wtvbam.com/2020/11/16/moldovas-dodon-says-concedes-defeat-in-presidential-runoff-if-courts-find-no-violations/|website=WTVB {{!}} 1590 AM · 95.5 FM {{!}} The Voice of Branch County|access-date=2025-11-30|language=en}}</ref> becoming the first female President of the country and the first winner from the [[Party of Action and Solidarity]] (PAS). Conversely, Igor Dodon became the second president after [[Mircea Snegur]] in [[1996 Moldovan presidential election|1996]] to lose a re-election bid.
+
+==Electoral system==
+===Eligibility requirements===
+
+The [[Constitution of Moldova]] (Article 78, Clause 2) defines four conditions that a presidential candidate must satisfy: Moldovan citizenship, at least 40 years of age, residence in Moldova for at least 10 years, and ability to speak the state language. Article 80 of the Constitution establishes a term limit: one individual cannot serve more than 2 terms in a row.<ref>{{Cite web|date=12 May 2020|title=Republic of Moldova Constitution of 1994 with Amendments through 2006|url=https://www.constituteproject.org/constitution/Moldova_2006.pdf|url-status=live|archive-url=https://web.archive.org/web/20160202021521/https://www.constituteproject.org/constitution/Moldova_2006.pdf |archive-date=2016-02-02 |access-date=|website=constituteproject.org}}</ref>
+
+===Procedure===
+Candidates can be nominated by a [[political party]], an [[electoral alliance]], or run as independents. They have to collect at least 15,000 voter signatures in their support from at least half of Moldova's level 2 administrative territorial units with at least 600 signatures in each of them.<ref>{{cite web |url=http://old.cec.md/files/files/Legi/tabel_regulamente/Regulament%20privind%20modul%20de%20%C3%AEntocmire%2C%20prezentare%20si%20verificare%20a%20listelor%20de%20subscriptie.pdf |title=Regulations |date=3 July 2018 |website=old.cec.md |access-date=2020-11-02 |archive-date=2020-11-16 |archive-url=https://web.archive.org/web/20201116123016/http://old.cec.md/files/files/Legi/tabel_regulamente/Regulament%20privind%20modul%20de%20%C3%AEntocmire%2C%20prezentare%20si%20verificare%20a%20listelor%20de%20subscriptie.pdf |url-status=dead }}</ref> The election results can be considered valid only if the turnout is above or equal to 33%. The candidate who receives an absolute majority of the votes is elected president. If no candidate receives a majority of the votes, a second round between the top 2 candidates is held two weeks after the first round. The candidate with the largest number of votes in the second round then becomes president.<ref>{{Cite web|url=http://www.presedinte.md/rom/statutul-si-atributiile|title=Statutul și atribuțiile președintelui Republicii Moldova|website=www.presedinte.md}}</ref>
+
+==Candidates==
+{| class=wikitable style=text-align:left
+!Candidate
+!Current office held
+!Nominating party/coalition
+!Status
+|-
+|[[Igor Dodon]]<ref>{{cite web | author= | title=Socialiștii au decis să-l propună pe Dodon, candidat pentru alegerile prezidențialele din 2020 | website=TV8.md – sursa de informare a oamenilor liberi | date=2019-12-17 | url=https://tv8.md/2019/12/17/socialistii-au-decis-sa-l-propuna-pe-dodon-candidat-pentru-alegerile-prezidentialele-din-2020/ | language=la | access-date=2020-11-02}}</ref>
+|Incumbent [[President of Moldova]]
+|Independent, supported by the [[Party of Socialists of the Republic of Moldova|Party of Socialists of the Republic of Moldova (PSRM)]]
+|{{yes|Registered}}<ref name="regcand">{{Cite web|url=http://alegeri.md/w/Alegerile_preziden%C8%9Biale_din_2020_%C3%AEn_Republica_Moldova#Candida.C8.9Bi_.C3.AEnregistra.C8.9Bi|title=Alegerile prezidențiale din 2020 în Republica Moldova - alegeri.md|website=alegeri.md}}</ref>
+|-
+|[[Maia Sandu]]<ref>[https://www.g4media.ro/maia-sandu-este-candidata-pas-la-alegerile-prezidentiale-din-republica-moldova-care-vor-avea-loc-in-1-noiembrie.html Maia Sandu este candidata PAS la alegerile prezidențiale din Republica Moldova], G4Media, 18 iulie 2020</ref>
+|Leader of PAS
+|[[Party of Action and Solidarity|Party of Action and Solidarity (PAS)]], supported by [[Pro Moldova]]
+|{{yes|Registered}}<ref name="regcand" />
+|-
+|[[Andrei Năstase]]<ref>[https://protv.md/politic/andrei-nastase-anunta-ca-este-candidatul-platformei-da-la-alegerile-prezidentiale-de-aceasta-data-voi-fi-pe-lista-ce-mesaj-i-a-transmis-lui-igor-dodon-video---2530461.html Andrei Năstase este candidatul PPDA la alegerile prezidențiale], ProTV, 4 iunie 2020</ref>
+|Member of the [[Chișinău City Hall|Chișinău Municipal Council]]; Leader of PPDA
+|[[Dignity and Truth Platform Party|Dignity and Truth Platform Party (PPDA)]], supported by [[Constantin Oboroc]]
+|{{yes|Registered}}<ref name="regcand" />
+|-
+|[[Dorin Chirtoacă]]<ref>[https://protv.md/politic/ultima-ora-dorin-chirtoaca-candidat-la-prezidentiale-din-partea-miscarii-politice-unirea-doc---2532934.html Dorin Chirtoacă, candidat la prezidențiale din partea Mișcării Politice Unirea], ProTV, 29 iunie 2020</ref>
+|Member of the Chișinău Municipal Council; Leader of PL
+|[[Union Political Movement]], formed by:
+* [[Democracy at Home Party|Democracy at Home Party (PDA)]]
+* [[Liberal Party (Moldova)|Liberal Party (PL)]]
+* [[National Liberal Party (Moldova)|National Liberal Party (PNL)]]
+* [[Romanian Popular Party|Romanian Popular Party (PPR)]]
+* [[Save Bessarabia Union|Save Bessarabia Union (USB)]]
+|{{yes|Registered}}<ref name="regcand" />
+|-
+| [[Octavian Țîcu]]<ref>[https://unimedia.info/ro/news/220437be99a5f9b4/octavian-ticu-liderul-pun-va-candida-pentru-functia-de-presedinte-in-2020.html Octavian Țîcu, liderul PUN, va candida pentru funcția de președinte în 2020], Unimedia, 1 February 2020</ref>
+| Member of [[Parliament of the Republic of Moldova|Parliament]]; Leader of PUN
+|[[National Unity Party (Moldova)|National Unity Party (PUN)]]
+|{{yes|Registered}}<ref name="regcand" />
+|-
+|[[Renato Usatîi]]
+|[[Mayor of Bălți]]; Leader of PN
+|[[Our Party (Moldova)|Our Party (PN)]]
+|{{yes|Registered}}<ref name="regcand" />
+|-
+|[[Tudor Deliu]] 
+|Ex-Leader of PLDM
+|[[Liberal Democratic Party of Moldova|Liberal Democratic Party of Moldova (PLDM)]]
+|{{yes|Registered}}<ref name="regcand" />
+|-
+|[[Violeta Ivanov]]
+|Member of Parliament 
+|[[Șor Party|Șor Party (PPȘ)]]
+|{{yes|Registered}}<ref name="regcand" />
+|-
+|[[Andrian Candu]]
+|Member of Parliament; Leader of PPM
+|[[Pro Moldova Party]] (PPM)
+|{{no|Registration denied by [[Central Election Commission of Moldova|CEC]]}}<ref>{{cite web | title=Ultima oră! Andrian Candu nu a fost înscris în cursa electorală la funcția de președinte | website=UNIMEDIA | date=2020-09-18 | url=https://unimedia.info/ro/news/06ac38f324143803/ultima-ora-andrian-candu-nu-a-fost-inscris-in-cursa-electorala-la-functia-de-presedinte.html | language=ro | access-date=2020-11-02}}</ref>
+|-
+|[[Ion Costaș]]
+|1st [[Ministry of Internal Affairs (Moldova)|Minister of Internal Affairs of Moldova]]
+|Independent
+|{{no|Candidacy withdrawn}}<ref>{{cite web | author= de | last2=Cristi | first2=Dem | title=Generalul Ion Costas anunta ca nu mai participa la alegerile prezidentiale | website=adevarul.ro | date=2015-03-07 | url=https://adevarul.ro/moldova/politica/generalul-ion-costas-anunta-nu-mai-participa-alegerile-prezidentiale-1_5f733e065163ec42716fb14d/index.html | language=ro | access-date=2020-11-02}}</ref>
+|-
+|[[Alexandr Kalinin (politician)|Alexandr Kalinin]]
+|Leader of PRM
+|[[Party of Regions of Moldova]] (PRM)
+|{{no|Candidacy withdrawn}}<ref>{{Cite web|url=https://agora.md/stiri/77366/minus-un-candidat-la-fotoliul-de-presedinte-alexandr-kalinin-nu-va-mai-depune-actele-la-cec-ameninta-oamenii-nu-le-dau-posibilitatea-sa-stranga-semnaturi|title=Minus un candidat la fotoliul de președinte. Alexandr Kalinin nu va mai depune actele la CEC: "Amenință oamenii, nu le dau posibilitatea să strângă semnături"|website=AGORA}}</ref>
+|-
+|[[Constantin Oboroc]]
+|Ex-First Deputy Prime Minister of Moldova
+|Independent
+|{{no|Registration failed}}<ref>{{Cite web|url=https://www.zdg.md/importante/prezidentiale-oboroc-nu-a-reusit-sa-colecteze-numarul-necesar-de-semnaturi/|title=Prezidențiale/ Oboroc nu a reușit să colecteze numărul necesar de semnături|first=Nicoleta|last=Braghiș|date=September 30, 2020}}</ref>
+|-
+|[[Serghei Toma]]
+|Leader of POM
+|[[Working People's Party (Moldova)|Working People's Party]] (POM)
+|{{no|Registration failed}}<ref>{{cite news|url=https://www.zdg.md/stiri/politic/prezideniale-serghei-toma-al-patrulea-pretendent-care-renuna-la-cursa-electorala-am-putea-avea-opt-candidai/|title=Prezidențiale/ Serghei Toma, al patrulea pretendent care renunță la cursa electorală. Am putea avea opt candidați|newspaper=[[Ziarul de Gardă]]|date=1 October 2020|language=ro}}</ref>
+|}
+
+==Campaign==
+The electoral campaign for the first round started on 2 October 2020 and ended on 30 October 2020.<ref>{{Cite web|date=15 August 2020|title=PROGRAMUL CALENDARISTIC|url=https://a.cec.md/storage/ckfinder/files/Alegeri%20Preziden%C8%9Biale_1%20noiembrie%202020/4103_anexa_Program%20calendaristic_APr%202020_FINAL.pdf|url-status=live|archive-url=https://web.archive.org/web/20200918134537/https://a.cec.md/storage/ckfinder/files/Alegeri%20Preziden%C8%9Biale_1%20noiembrie%202020/4103_anexa_Program%20calendaristic_APr%202020_FINAL.pdf |archive-date=2020-09-18 |access-date=|website=[[Central Election Commission of Moldova]]|language=ro}}</ref> The electoral campaign for the second round started on 2 November and ended on 13 November 2020.
+
+===First round===
+====Igor Dodon====
+[[File:Dodon campaign logo.png|thumb|Logo of Dodon's campaign]]
+[[Igor Dodon]] announced that he intended to run for reelection as an independent candidate on 9 September 2020.<ref>{{Cite web|date=2020-09-09|title=Declarațiile lui Dodon, după ce a anunțat că va candida pentru încă un mandat prezidențial|url=https://www.zdg.md/importante/declaratiile-lui-dodon-dupa-ce-a-anuntat-ca-va-candida-pentru-inca-un-mandat-prezidential/|access-date=2020-11-16|website=Ziarul de Gardă|language=ro-RO}}</ref> His stated reason for running as such was that, according to Moldovan law, the president cannot be a member of a political party. Dodon thought that running as a party's candidate could open the way for his opponents to contest the legitimacy of his participation at the [[Constitutional Court of Moldova|constitutional court]].<ref>{{Cite web|date=11 September 2020|title=Igor Dodon explică de ce a decis să fie candidat independent: Noi am analizat riscurile, mulți vor vrea să anuleze candidatura mea|url=https://unimedia.info/ro/news/c2235b4ad71168f9/live-igor-dodon-raspunde-la-intrebarile-cetatenilor-dar-si-a-presei-in-emisiunea-sa-presedintele-raspunde.html|url-status=live|archive-url=https://web.archive.org/web/20210628053725/https://unimedia.info/ro/news/c2235b4ad71168f9/live-igor-dodon-raspunde-la-intrebarile-cetatenilor-dar-si-a-presei-in-emisiunea-sa-presedintele-raspunde.html |archive-date=2021-06-28 |access-date=2020-11-16|website=unimedia.info}}</ref>
+
+On 21 September 2020, he presented the necessary signatures supporting him for registration to [[Central Election Commission of Moldova]] (CEC). The CEC declared that he would be listed fourth on the ballot if registered.<ref>{{Cite web|title=Grupul de inițiativă a depus semnăturile necesare pentru înregistrarea lui Igor Dodon în alegerile prezidențiale|url=http://www.presedinte.md/rom/comunicate-de-presa/grupul-de-initiativa-a-depus-semnaturile-necesare-pentru-inregistrarea-lui-igor-dodon-in-alegerile-prezidentiale|access-date=2020-11-16|website=www.presedinte.md|language=en}}</ref> Igor Dodon formally launched his campaign on 2 October 2020. Shortly after doing this, he announced that he was not going to make use of [[billboard]]s and that he would not, at least in the first round, take part in any debates.<ref>{{Cite web|title=Igor Dodon se lanseaza în campanie: "Noi, moldovenii, suntem un popor fericit, care își are statul său"|url=https://www.jurnal.md/ro/news/610ed2909b97b8c5/igor-dodon-se-lanseaza-in-campanie-noi-moldovenii-suntem-un-popor-fericit-care-isi-are-statul-sau.html|access-date=2020-11-16|website=JurnalTV.md|language=ro}}</ref> On 6 October 2020, the [[Party of Socialists of the Republic of Moldova]] (PSRM) officially endorsed Dodon's candidacy.<ref>{{Cite web|title=PSRM anunță că-l susține la alegerile prezidențiale pe Igor Dodon|url=https://tv8.md/2020/10/06/psrm-anunta-ca-l-sustine-la-alegerile-prezidentiale-pe-igor-dodon/|access-date=2020-11-16|language=ro-RO}}</ref> Widely regarded as the most [[Russophilia|pro-Russian]] candidate on the ballot, Dodon advocated to codify into law the role of the Russian language, make studying Russian compulsory in schools and strengthening strategic partnership with Russia. Other key pillars of his campaign were preserving Moldova's territorial sovereignty, strengthening the social security system and promoting [[Christian values|Christian]] and [[family values]].<ref>{{Cite web|title=Platforma Electorala|url=https://dodon.md/wp-content/uploads/2020/10/2p_platforma_electorala_ind_md_final.pdf|url-status=live|archive-url=https://web.archive.org/web/20201021021310/https://dodon.md/wp-content/uploads/2020/10/2p_platforma_electorala_ind_md_final.pdf |archive-date=2020-10-21 |access-date=|website=[[Igor Dodon]]|language=ro}}</ref>
+
+After announcing the official end of his campaign for the first round on 30 October, Dodon stated that he had organized more than 240 meetings with voters in hundreds of cities and villages which allowed him to meet more than 45,000 people.<ref>{{Cite web|date=30 October 2020|title=Igor Dodon și-a prezentat totalurile campaniei electorale și a îndemnat cetățenii să iasă, duminică, la vot|url=https://unimedia.info/ro/news/6b0472599d86580d/igor-dodon-si-a-prezentat-totalurile-campaniei-electorale.html|url-status=live|archive-url=https://web.archive.org/web/20201101034053/https://unimedia.info/ro/news/6b0472599d86580d/igor-dodon-si-a-prezentat-totalurile-campaniei-electorale.html |archive-date=2020-11-01 |access-date=2020-11-16|website=unimedia.info}}</ref>
+
+====Maia Sandu====
+[[File:Sandu campaign logo.png|thumb|Logo of Sandu's campaign]]
+[[Maia Sandu]] announced her candidacy for the 2020 presidential election on 18 July 2020. She was nominated by the [[Party of Action and Solidarity]] (PAS) as a result of a decision made by the National Political Council of the party.<ref>{{Cite web|last=Gatcan|first=Diana|date=2020-07-18|title=Maia Sandu este candidata PAS la alegerile prezidențiale din noiembrie|url=https://www.zdg.md/importante/ultima-ora-maia-sandu-este-candidata-pas-la-alegerile-prezidentiale-din-noiembrie/|access-date=2020-11-16|website=Ziarul de Gardă|language=ro-RO}}</ref> After running as a joint candidate of [[Dignity and Truth Platform Party|DA]] and PAS in 2016, she stated that in 2020, a joint [[Pro-Europeanism|pro-European]] candidate would not be needed as there was not a risk of there being no pro-European candidates in the second round of the election.<ref>{{Cite web|title=Maia Sandu: "Nu este atât de important să fie un candidat comun al dreptei pentru prezidențiale"|url=https://tv8.md/2020/05/13/maia-sandu-nu-este-atat-de-important-sa-fie-un-candidat-comun-al-dreptei-pentru-prezidentiale/|access-date=2020-11-16|language=ro-RO}}</ref> On 23 September, Sandu announced that her team managed to collect 30,000 signatures in her favor, out of which only 25,000 (the maximum number allowed) were presented to the CEC.<ref>{{Cite web|last=Braghiș|first=Nicoleta|date=2020-09-23|title=LIVE/ Maia Sandu depune listele cu semnături. Susținătorii PAS cer de la CEC "decizii corecte"|url=https://www.zdg.md/importante/live-maia-sandu-depune-listele-cu-semnaturi-sustinatorii-pas-cer-de-la-cec-decizii-corecte/|access-date=2020-11-16|website=Ziarul de Gardă|language=ro-RO}}</ref> After registering Sandu's candidacy, CEC announced that she would be listed sixth on the ballot.
+
+On 2 October 2020, Sandu officially launched her campaign. During her campaign launch event, Sandu held 2 speeches, one in Romanian and one in Russian, promising to fight [[corruption]], [[poverty]] and to reform the [[Criminal justice|criminal justice system]].<ref>{{Cite web|date=2 October 2020|title=Maia Sandu, la lansarea în campanie: "Nu sunt perfectă, dar îmi pasă". A ținut un discurs și în limba rusă|url=https://agora.md/stiri/77809/maia-sandu-la-lansarea-in-campanie-nu-sunt-perfecta-dar-imi-pasa-a-tinut-un-discurs-si-in-limba-rusa|url-status=live|archive-url=https://web.archive.org/web/20201007182524/https://agora.md/stiri/77809/maia-sandu-la-lansarea-in-campanie-nu-sunt-perfecta-dar-imi-pasa-a-tinut-un-discurs-si-in-limba-rusa |archive-date=2020-10-07 |access-date=|website=AGORA|language=ro}}</ref> Other priorities of her campaign were reducing [[unemployment]], raising the minimum [[pension]] to 2,000 [[Moldovan leu|lei]] (around 114 [[USD]]) and building closer ties with the [[European Union]].<ref>{{Cite web|title=Program|url=https://maiasandu2020.md/program/|access-date=2020-11-16|website=Maia Sandu Președinte 2020|language=ro-RO|archive-date=2020-11-16|archive-url=https://web.archive.org/web/20201116202321/https://maiasandu2020.md/program/|url-status=dead}}</ref> Sandu's campaign accused her main opponent, the incumbent president Dodon, of deliberately hindering criminal justice system reform, poor management of the [[COVID-19 pandemic]] and its [[Economic impact of the COVID-19 pandemic|economic impact]], usage of [[administrative resource]]s in his campaign and attempts to rig the election.<ref>{{Cite web|date=2020-10-08|title=Olesea Stamate a lansat Calendarul Injustiției: O retrospectivă a nedreptăților de la preluarea puterii de către Dodon|url=http://maiasandu2020.md/olesea-stamate-a-lansat-calendarul-injustitiei-o-retrospectiva-a-nedreptatilor-de-la-preluarea-puterii-de-catre-dodon/|access-date=2020-11-16|website=Maia Sandu Președinte 2020|language=ro-RO|archive-date=2020-11-19|archive-url=https://web.archive.org/web/20201119152254/https://maiasandu2020.md/olesea-stamate-a-lansat-calendarul-injustitiei-o-retrospectiva-a-nedreptatilor-de-la-preluarea-puterii-de-catre-dodon/|url-status=dead}}</ref><ref>{{Cite web|date=2020-10-16|title=Flashmob la Președinție: Tinerii PAS i-au transmis lui Dodon ordinul "Gloria lenii"|url=http://maiasandu2020.md/flashmob-la-presedintie-tinerii-pas-i-au-transmis-lui-dodon-ordinul-gloria-lenii-2/|access-date=2020-11-16|website=Maia Sandu Președinte 2020|language=ro-RO|archive-date=2020-11-01|archive-url=https://web.archive.org/web/20201101004929/https://maiasandu2020.md/flashmob-la-presedintie-tinerii-pas-i-au-transmis-lui-dodon-ordinul-gloria-lenii-2/|url-status=dead}}</ref><ref>{{Cite web|title=PAS il acuza pe Igor Dodon ca utilizeaza resursele administrative pentru a-si face campanie electorala - VIDEO|url=https://protv.md/politic/pas-il-acuza-pe-igor-dodon-ca-utilizeaza-resursele-administrative-pentru-a-si-face-campanie-electorala-video---2543482.html|access-date=2020-11-16|website=Pro TV|language=ro}}</ref><ref>{{Cite web|last=Borodin|first=Victoria|date=2020-09-07|title=Sandu îl acuză pe Dodon că încearcă să fure votul cetățenilor: "Va cheltui 2 milioane de euro pentru a cumpăra voturi din regiunea transnistreană"|url=https://cotidianul.md/2020/09/07/sandu-il-acuza-pe-dodon-ca-incearca-sa-fure-votul-cetatenilor-va-cheltui-2-milioane-de-euro-pentru-a-cumpara-voturi-din-regiunea-transnistreana/|access-date=2020-11-16|website=Cotidianul|language=ro-RO|archive-date=2020-11-19|archive-url=https://web.archive.org/web/20201119072755/https://cotidianul.md/2020/09/07/sandu-il-acuza-pe-dodon-ca-incearca-sa-fure-votul-cetatenilor-va-cheltui-2-milioane-de-euro-pentru-a-cumpara-voturi-din-regiunea-transnistreana/|url-status=dead}}</ref> Sandu tried multiple times to organize a debate with Dodon, which the latter refused to attend.<ref>{{Cite web|title=Maia Sandu îl cheamă din nou la dezbateri pe Igor Dodon|url=https://tv8.md/2020/10/22/maia-sandu-il-cheama-din-nou-la-dezbateri-pe-igor-dodon/|access-date=2020-11-16|language=ro-RO}}</ref>
+
+On 30 October 2020, Sandu officially announced the end of her campaign for the first round, saying that she managed to visit all of Moldova's [[Administrative divisions of Moldova|districts]] and organize over 300 meetings with voters.<ref>{{Cite web|title=Maia Sandu a făcut totalurile campaniei: Am fost în toate raioanele Republicii Moldova, am avut peste 300 de întruniri|url=https://tribuna.md/2020/10/30/maia-sandu-a-facut-totalurile-campaniei-am-fost-in-toate-raioanele-republicii-moldova-am-avut-peste-300-de-intruniri/|access-date=2020-11-16|website=Tribuna|language=ro-RO}}</ref>
+
+====Renato Usatîi====
+[[File:Renato Usatîi campaign logo.png|thumb|Logo of Usatîi's campaign]]
+On 27 July 2020, [[Renato Usatîi]] announced that he wanted the people to decide whether he should run for president in 2020.<ref>{{Cite web|date=2020-07-27|title=Renato Usatîi îndeamnă oamenii să-și spună opinia privind candidatura sa la prezidențiale|url=https://www.ipn.md/ro/renato-usatii-indeamna-oamenii-sa-si-spuna-opinia-privind-7965_1075151.html|access-date=2020-11-16|website=IPN|language=ro}}</ref> During a [[press conference]], he asked people to record short videos in which they would express their views on his potential candidacy and send them to him before 27 August 2020. On 26 August 2020, Usatîi posted a YouTube compilation video with people expressing support for his candidacy and claimed that tens of thousands of people asked him to run for president.<ref>{{Cite web|title=Тысячи граждан Молдовы призывают меня участвовать в президентских выборах - YouTube|url=https://www.youtube.com/watch?v=EVVfUwRG4wA|access-date=2020-11-16|website=www.youtube.com}}</ref> The next day, Usatîi organized an open air press conference during which he officially announced his candidacy for the 2020 elections.<ref>{{Cite web|title=Ренато Усатый объявил об участии в выборах президента Молдовы - YouTube|url=https://www.youtube.com/watch?v=AqDOFs_SB6w|access-date=2020-11-16|website=www.youtube.com}}</ref>
+
+On 7 September 2020, Usatîi was the second candidate to submit the necessary signatures supporting him to the CEC. Later, it was announced that he would be listed first on the ballot. Usatîi's campaign officially started on 2 October 2020. During his campaign launch event, he promised to serve and represent the people, fight [[corruption]] and [[nepotism]] and solve all issues faced by voters.<ref>{{Cite web|title=/VIDEO/ Renato Usatîi s-a lansat în campania electorală: "Eu voi fi sluga poporului meu"|url=https://tv8.md/2020/10/02/video-renato-usatii-s-a-lansat-in-campania-electorala-eu-voi-fi-sluga-poporului-meu/|access-date=2020-11-16|language=ro-RO}}</ref> During his campaign, Usatîi emerged as a very fierce critic of the incumbent president Dodon. Usatîi accused him of spending a week in a luxury resort financed by [[taxpayer]] money,<ref>{{Cite web|title=/VIDEO FOTO/ Cât a costat vacanța președintelui Dodon la un sanatoriu din Moscova. Usatîi s-a dat drept Nichiforciuc și a sunat la clinică|url=https://tv8.md/2020/09/24/video-foto-cat-a-costat-vacanta-presedintelui-dodon-la-un-sanatoriu-din-moscova-usatii-s-a-dat-drept-nichiforciuc-si-a-sunat-la-clinica/|access-date=2020-11-16|language=ro-RO}}</ref> fabricating opinion polls,<ref>{{Cite web|title=/VIDEO/ Usatîi îl acuză pe Dodon că a ascuns unele date ale sondajelor de opinie, "făcute la comadă", care sunt în defavoarea sa|url=https://tv8.md/2020/05/06/video-usatii-il-acuza-pe-dodon-ca-a-ascuns-unele-date-ale-sondajelor-de-opinie-facute-la-comada-care-sunt-in-defavoarea-sa/|access-date=2020-11-16|language=ro-RO}}</ref> illegally spying on his campaign<ref>{{Cite web|title=Usatîi îl acuză pe Dodon că folosește polițiștii în campania electorală|url=https://stiri.md/article/politica/usatii-il-acuza-pe-dodon-ca-foloseste-politistii-in-campania-electorala|access-date=2020-11-16|website=stiri.md}}</ref> and attempting to rig the election by paying Moldovan citizens from [[Transnistria]] to vote for him.<ref>{{Cite web|title=Usatîi îl acuză pe Dodon de cumpărarea voturilor din stânga Nistrului. Reacția politicianului|url=https://tv8.md/2020/10/16/usatii-il-acuza-pe-dodon-de-cumpararea-voturilor-din-stanga-nistrului-reactia-politicianului/|access-date=2020-11-16|language=ro-RO}}</ref> He also organized events to protest against Dodon<ref>{{Cite web|title=Acțiunea "Claxonează, dacă ești împotriva lui Dodon" organizată de Partidul Nostru|url=https://www.privesc.eu/arhiva/91527|access-date=2020-11-16|website=Privesc.Eu|language=ro}}</ref> and promised to prosecute him if elected.<ref>{{Cite web|title=USATÎI: După alegeri, Dodon va avea condiții bune în Penitenciarul 13 - YouTube|url=https://www.youtube.com/watch?v=nTMsV3VbBD4|access-date=2020-11-16|website=www.youtube.com}}</ref> Dodon refused to address Usatîi's accusations and declared that he wanted to focus instead on concrete policies.<ref>{{Cite web|title=Cum răspunde Igor Dodon la acuzaţiile lui Renato Usatîi privind detoxifierea la o clinică privată de lângă Moscova|url=https://newsin.md/cum-raspunde-igor-dodon-la-acuzatiile-lui-renato-usatii-privind-detoxifierea-la-o-clinica-privata-de-langa-moscova/|access-date=2020-11-16|website=NewsIN|language=ro-RO|archive-date=2020-11-01|archive-url=https://web.archive.org/web/20201101175941/https://newsin.md/cum-raspunde-igor-dodon-la-acuzatiile-lui-renato-usatii-privind-detoxifierea-la-o-clinica-privata-de-langa-moscova/|url-status=dead}}</ref>
+
+Widely considered a populist candidate, Usatîi declared that if elected, he would organize [[Snap election|snap parliamentary elections]], eradicate corruption by forming a Moldovan equivalent of [[Mossad]], abolish [[Administrative divisions of Moldova|district]] authorities and intensify economic cooperation with Romania and Ukraine.<ref>{{Cite web|title=Program Electoral|url=https://rup2020.md/program-electoral/|access-date=2020-11-16|website=Renato Usatîi|language=ro-RO|archive-date=2020-11-28|archive-url=https://web.archive.org/web/20201128200355/https://rup2020.md/program-electoral/|url-status=dead}}</ref> Usatîi organized multiple meetings with voters and participated in two televised debates.<ref>{{Cite web|title="Eu vreau sa fiu presedinte" din 20.10.2020. Invitati: Renato Usatii si Andrei Nastase - VIDEO|url=https://protv.md/livepro/live-eu-vreau-sa-fiu-presedinte-renato-usatii-si-andrei-nastase-sunt-invitati-astazi-20-octombrie-la-dezbaterile-electorale-de-la-pro-tv---2543955.html|access-date=2020-11-16|website=Pro TV|language=ro}}</ref><ref>{{Cite web|title=VIDEO. Prima dezbatere electorală la TVR MOLDOVA. A participat liderul PPPN, Renato Usatîi şi reprezentantul PAS, Vladimir Bolea|url=http://tvrmoldova.md/electorala-2020/video-prima-dezbatere-electorala-la-tvr-moldova-a-participat-liderul-pppn-renato-usatii-si-reprezentantul-pas/|access-date=2020-11-16|publisher=[[TVR Moldova]]|language=ro}}</ref>
+
+Usatîi officially announced the end of his campaign for the first round on 30 October 2020.<ref>{{Cite web|title=Cu scandari "Jos kuliokul" si cu maturi in spate, Renato Usatii si alegatorii sai au mers in fata presedintiei: "Dodon va raspunde pentru toate sacosele"- VIDEO|url=https://protv.md/livepro/live-cu-o-matura-in-mana-renato-usatii-sustine-o-conferinta-de-presa-face-o-totalizare-la-incheierea-campaniei-electorale-pentru-primul-tur-de-scrutin-al-alegerilor-prezidentiale---2544995.html|access-date=2020-11-16|website=Pro TV|language=ro}}</ref>
+
+After his elimination in the first round, Usatîi advised his supporters to vote against Dodon in the second round but did not specifically endorse Sandu.<ref>{{Cite news|title=Mobilizare: Și Renato Usatîi își cheamă alegătorii să voteze împotriva lui Dodon pe 15 noiembrie|language=ro|work=Deschide.MD|url=https://deschide.md/ro/stiri/alegeri/74962/Mobilizare-%C8%98i-Renato-Usat%C3%AEi-%C3%AE%C8%99i-cheam%C4%83-aleg%C4%83torii-s%C4%83-voteze-%C3%AEmpotriva-lui-Dodon-pe-15-noiembrie.htm|access-date=2020-11-16}}</ref>
+
+====Violeta Ivanov====
+In May 2020, Violeta Ivanov left the [[Democratic Party of Moldova]] and joined the [[Șor Party]].<ref>{{Cite web|title=Patru deputați PDM au părăsit partidul în această dimineață: "Nu mai suntem o echipă"|url=https://www.jurnal.md/ro/news/28cb40fa499ed921/patru-deputati-pdm-au-parasit-partidul-in-aceasta-dimineata-nu-mai-suntem-o-echipa.html|access-date=2020-11-16|website=JurnalTV.md|language=ro}}</ref> Shortly after, she became the vice-president of the Șor Party's [[Parliamentary group|parliamentary faction]].
+
+In August 2020, several media outlets speculated that Ivanov was going to participate in the presidential election.<ref>{{Cite web|title=Deputata Violeta Ivanov ar urma să fie candidata Partidului Șor la alegerile prezidențiale|url=https://tv8.md/2020/08/27/deputata-violeta-ivanov-ar-urma-sa-fie-candidata-partidului-sor-la-alegerile-prezidentiale/|access-date=2020-11-16|language=ro-RO}}</ref> This was confirmed on 6 September 2020, when [[Ilan Shor]] announced that Ivanov was the party's candidate for presidency.<ref>{{Cite web|date=6 September 2020|title=Partidul Șor și-a anunțat candidatul la alegerile prezidențiale. Iată cine va lupta pentru funcția de șef al statului|url=https://unimedia.info/ro/news/e6d56c5f38d64829/partidul-sor-isi-anunta-candidatul-la-alegerile-prezidentiale.html|url-status=live|archive-url=https://web.archive.org/web/20210628053815/https://unimedia.info/ro/news/e6d56c5f38d64829/partidul-sor-isi-anunta-candidatul-la-alegerile-prezidentiale.html |archive-date=2021-06-28 |access-date=2020-11-16|website=unimedia.info}}</ref> Ivanov officially started her campaign on 2 October 2020. Her campaign prioritized [[regional development]], improvements in [[agriculture]], strengthening the social security and [[healthcare]] systems and fighting [[corruption]].<ref>{{Cite web|title=/VIDEO/ Violeta Ivanov se lansează în campania electorală. Ilan Șor, prezent la eveniment|url=https://tv8.md/2020/10/02/video-violeta-ivanov-se-lanseaza-in-campania-electorala-ilan-sor-prezent-la-eveniment/|access-date=2020-11-16|language=ro-RO}}</ref> During the campaign, several members of the [[Pro Moldova]] parliamentary group endorsed Ivanov.<ref>{{Cite web|title=Unul dintre cei mai activi deputați Pro Moldova își anunță susținerea pentru Violeta Ivanov|url=https://tv8.md/2020/10/15/unul-dintre-cei-mai-activi-deputati-pro-moldova-isi-anunta-sustinerea-pentru-violeta-ivanov/|access-date=2020-11-16|language=ro-RO}}</ref>
+
+After the first round concluded, Sandu accused the Șor Party of indirectly bribing voters through their network of social stores.<ref>{{Cite web|title=Magazine sociale - Partidul Şor|url=http://partidulsor.md/partid/projects/magazine-sociale.html|access-date=2020-11-16|website=partidulsor.md|archive-date=2021-05-12|archive-url=https://web.archive.org/web/20210512015304/http://partidulsor.md/partid/projects/magazine-sociale.html|url-status=dead}}</ref> Shor rejected Sandu's accusations and said that his actions should be seen not as bribing but as "investments on the people".<ref>{{Cite web|last=Harea|first=Anastasia|date=2020-11-05|title=Ilan Șor, către Maia Sandu: "Ceea ce numiți dvs. cumpărare de voturi, eu numesc investiții în oameni". Reacția PAS|url=https://cotidianul.md/2020/11/05/ilan-sor-catre-maia-sandu-ceea-ce-numiti-dvs-cumparare-de-voturi-eu-numesc-investitii-in-viitorul-tarii/|access-date=2020-11-16|website=Cotidianul|language=ro-RO|archive-date=2021-01-18|archive-url=https://web.archive.org/web/20210118094436/https://cotidianul.md/2020/11/05/ilan-sor-catre-maia-sandu-ceea-ce-numiti-dvs-cumparare-de-voturi-eu-numesc-investitii-in-viitorul-tarii/|url-status=dead}}</ref>
+
+After Ivanov's elimination in the first round, Ilan Shor advised the Șor Party's voters to vote for the candidate that would support the party's program and did not explicitly endorse any of the candidates in the second round.<ref>{{Cite web|title=/VIDEO/ Pe cine va susține partidul "Șor" în turul II al alegerilor prezidențiale? Anunțul făcut de Ilan Șor|url=https://tv8.md/2020/11/10/video-pe-cine-va-sustine-partidul-sor-in-turul-ii-al-alegerilor-prezidentiale-anuntul-facut-de-ilan-sor/|access-date=2020-11-16|language=ro-RO}}</ref>
+
+====Andrei Năstase====
+At the start of 2020, Andrei Năstase promoted the idea of there being a joint [[pro-European]] candidate for the 2020 elections, a candidate who was not a member of any [[political party]] and would be supported by all the [[Right-wing politics|right-wing]] and [[Unification of Moldova and Romania|unionist]] parties of Moldova.<ref>{{Cite web|title=Andrei Năstase insistă pentru un candidat apartinic la alegerile prezidențiale din toamna acestui an|url=https://tv8.md/2020/01/14/andrei-nastase-insista-pentru-un-candidat-apartinic-la-alegerile-prezidentiale-din-toamna-acestui-an/|access-date=2020-11-16|language=ro-RO}}</ref> After the negotiations for a joint candidate failed, Năstase announced on 2 March 2020 that he would participate in the presidential elections.<ref>{{Cite web|title=Andrei Năstase anunță că va candida la prezidențiale|url=https://moldova.europalibera.org/a/andrei-năstase-anunță-că-va-candida-la-prezidențiale/30464691.html|access-date=2020-11-16|website=Radio Europa Liberă|language=ro}}</ref>
+
+On 3 October 2020, Năstase officially started his campaign.<ref>{{Cite web|title=/VIDEO/ Andrei Năstase se lansează în campanie electorală: "Pornim să reclădim Moldova de mâine"|url=https://tv8.md/2020/10/03/video-andrei-nastase-se-lanseaza-in-campanie-electorala/|access-date=2020-11-16|language=ro-RO}}</ref> It focused on eradicating corruption, reforming the [[judiciary]], raising the minimum pension to 2500 [[Moldovan leu|lei]] (around 143 [[USD]]), improving Moldova's international credibility, building closer ties with the [[European Union]], promoting [[family values]] and preserving national culture.<ref>{{Cite web|date=3 October 2020|title=Andrei Năstase, candidatul Platformei DA, s-a lansat în campania electorală: "Ceea ce urmează să se întâmple va marca în mod esențial destinul Moldovei"|url=https://unimedia.info/ro/news/2d2268de85b1285f/andrei-nastate-candidatul-platformei-da-se-lanseaza-in-campania-electorala.html|url-status=live|archive-url=https://web.archive.org/web/20210628053726/https://unimedia.info/ro/news/2d2268de85b1285f/andrei-nastate-candidatul-platformei-da-se-lanseaza-in-campania-electorala.html |archive-date=2021-06-28 |access-date=2020-11-16|website=unimedia.info}}</ref> Throughout his campaign, Năstase emphasized that, according to opinion polls, he was the only one able to beat incumbent President Dodon in a potential runoff and that Sandu would lose in the second round in the same way she did in the [[2016 Moldovan presidential election|2016 elections]]. On 15 October, Năstase publicly asked Sandu to withdraw her candidacy and endorse him for president.<ref>{{Cite web|last=Victoria|first=Borodin|date=2020-10-15|title=Andrei Năstase îi cere, oficial, Maiei Sandu să se retragă din cursa prezidențială. Îi promite o funcție înaltă în stat, dacă ajunge președinte|url=https://www.zdg.md/importante/andrei-nastase-ii-cere-oficial-maiei-sandu-sa-se-retraga-din-cursa-prezidentiala-ii-promite-o-functie-inalta-in-stat-daca-ajunge-presedinte/|access-date=2020-11-16|website=Ziarul de Gardă|language=ro-RO}}</ref> Sandu refused his proposal saying that the candidate with the most votes in the first round should be the one facing Dodon in the runoff.<ref>{{Cite web|last=Esanu|first=Anatolie|date=2020-10-17|title=Reacția Maiei Sandu după ce Andrei Năstase a declarat că el este "singurul candidat capabil să-l învingă pe Igor Dodon"|url=https://www.zdg.md/importante/reactia-maiei-sandu-dupa-ce-andrei-nastase-a-declarat-ca-el-este-singurul-candidat-capabil-sa-l-invinga-pe-igor-dodon/|access-date=2020-11-16|website=Ziarul de Gardă|language=ro-RO}}</ref>
+
+After being eliminated in the first round, Năstase announced his unconditional support for Maia Sandu in the second round.<ref>{{Cite web|title=Andrei Năstase anunță că o va susține pe Maia Sandu în turul II|url=https://stiri.md/article/politica/andrei-nastase-anunta-ca-o-va-sustine-pe-maia-sandu-in-turul-ii|access-date=2020-11-16|website=stiri.md}}</ref>
+
+====Tudor Deliu====
+Deliu, a parliamentarian from the [[Liberal Democratic Party of Moldova]], launched his candidacy from his home village of [[Malcoci]] at the beginning of October.  He espoused [[separation of powers]], emphasizing the need to reduce corruption in the judiciary.  He also promised to defend human rights of all citizens, including minorities, and to sign a trade agreement with the [[European Union]].<ref>{{Cite web|date=2020-10-02|title=Tudor Deliu starts campaigning: It is great honor and also big responsibility|url=https://www.ipn.md/en/tudor-deliu-starts-campaigning-it-is-great-honor-and-also-8008_1076570.html|access-date=2020-11-17|website=IPN|language=en}}</ref>
+
+====Octavian Țîcu====
+Octavian Țîcu announced that he intended to participate in the presidential elections in October 2019.<ref>{{Cite web|title=Nu a devenit primar, însă își dorește să fie președinte. Octavian Țîcu va candida la alegerile prezidențiale|url=https://tv8.md/2019/10/24/nu-a-devenit-primar-insa-isi-doreste-sa-fie-presedinte-octavian-ticu-va-candida-la-alegerile-prezidentiale/|access-date=2020-11-16|language=ro-RO}}</ref> On 25 July 2020, the Republican Political Council of the [[National Unity Party (Moldova)|National Unity Party]] officially nominated Țîcu as the party's candidate for the presidency.<ref>{{Cite web|title=Octavian Țîcu, candidatul PUN la alegerile prezidențiale din 1 noiembrie|url=https://tv8.md/2020/07/25/octavian-ticu-candidatul-pun-la-alegerile-prezidentiale-din-1-noiembrie/|access-date=2020-11-16|language=ro-RO}}</ref> On 3 October 2020, Țîcu announced that he was denied registration by the CEC and accused incumbent president Dodon of being the man behind the CEC's decision.<ref>{{Cite web|title=UPDATE/Ultima oră! Octavian Ţîcu anunţă că a fost eliminat din cursa electorală. Şeful CEC: "Dumnealui putea doar să îşi facă o concluzie"|url=http://tvrmoldova.md/actualitate/ultima-ora-octavian-ticu-eliminat-din-cursa-electorala-nu-m-am-gandit-ca-regimul-de-guvernare-poate-fi-asa-ticalos/|access-date=2020-11-16|publisher=TVR Moldova|language=ro}}</ref> Two days later, the CEC revised its decision and registered Țîcu as a candidate.<ref>{{Cite web|title=Octavian Țîcu a fost înregistrat în cursa prezidențială|url=https://tv8.md/2020/10/05/octavian-ticu-a-fost-inregistrat-in-cursa-prezidentiala/|access-date=2020-11-16|language=ro}}</ref>
+
+Țîcu officially launched his campaign on 7 October 2020. His program underlined five main priorities: snap parliamentary elections, ending the [[international isolation]] of Moldova, reunification of Moldova's infrastructure with that of Romania, adapting Moldova's education system to Romanian standards and forming a unified security system with Romania and NATO.<ref>{{Cite web|date=2020-10-07|title=Octavian Țîcu s-a lansat în campania electorală, la Ungheni|url=https://www.ipn.md/ro/octavian-ticu-s-a-lansat-in-campania-electorala-la-8008_1076679.html|access-date=2020-11-16|website=IPN|language=ro}}</ref>
+
+Țîcu endorsed Maia Sandu in the second round.<ref>{{Cite web|title=VIDEO. Octavian Ţîcu: Acum chiar îmi doresc ca cetăţenii să voteze o femeie preşedinte al Republicii Moldova|url=http://tvrmoldova.md/actualitate/live-deputatul-octavian-ticu-sustine-un-briefing-de-presa-privind-alegerile-prezidentiale/|access-date=2020-11-16|publisher=TVR Moldova|language=ro}}</ref>
+
+====Dorin Chirtoacă====
+In June 2020, the [[Union Political Movement]] (MPU) promoted the idea of a joint [[Unification of Moldova and Romania|unionist]] candidate for the 2020 elections.<ref>{{Cite web|last=M|first=R. C.|date=2020-06-16|title=Mişcarea Politică UNIREA propune identificarea unui singur candidat unionist la prezidenţiale|url=https://cotidianul.md/2020/06/16/miscarea-politica-unirea-propune-identificarea-unui-singur-candidat-unionist-la-prezidentiale/|access-date=2020-11-16|website=Cotidianul|language=ro-RO|archive-date=2020-11-12|archive-url=https://web.archive.org/web/20201112194627/https://cotidianul.md/2020/06/16/miscarea-politica-unirea-propune-identificarea-unui-singur-candidat-unionist-la-prezidentiale/|url-status=dead}}</ref> Its proposal was mainly aimed at the [[National Unity Party (Moldova)|National Unity Party]], an also unionist party that planned on participating in the presidential elections.<ref>{{Cite web|date=3 June 2020|title=Mişcarea Politică Unirea, apel către PUN în vederea desemnării unui candidat comun la prezidenţiale|url=https://adevarul.ro/moldova/politica/miscarea-politica-unirea-apel-pun-vederea-desemnarii-unui-candidat-comun-prezidentiale-1_5ed74af55163ec427172769c/index.html|url-status=live|archive-url=https://web.archive.org/web/20200611125949/https://adevarul.ro/moldova/politica/miscarea-politica-unirea-apel-pun-vederea-desemnarii-unui-candidat-comun-prezidentiale-1_5ed74af55163ec427172769c/index.html |archive-date=2020-06-11 |access-date=2020-11-16|website=adevarul.ro|language=en}}</ref> After it became clear that the negotiations would most likely fail, the MPU nominated [[Dorin Chirtoacă]] for the presidency but emphasized that they were still open to the idea of there being a joint candidate.<ref>{{Cite web|last=Alina|first=Frunza|date=2020-06-29|title=DOC/ Mișcarea Politică UNIREA și-a desemnat candidatul pentru alegerile prezidențiale din toamnă|url=https://www.zdg.md/stiri/politic/doc-miscarea-politica-unirea-si-a-desemnat-candidatul-pentru-alegerile-prezidentiale-din-toamna/|access-date=2020-11-16|website=Ziarul de Gardă|language=ro-RO}}</ref>
+
+On 29 September 2020, Chirtoacă submitted the necessary signatures in his support to the CEC and sharply criticized the fact that the signature collection requirement was kept in place during the [[COVID-19 pandemic]].<ref>{{Cite web|last=Severin|first=Diana|date=2020-09-29|title=LIVE/ Dorin Chirtoacă, candidatul Mișcării Politice UNIREA, a depus semnăturile la CEC pentru a se înscrie în cursa prezidențială|url=https://www.zdg.md/stiri/politic/live-dorin-chirtoaca-candidatul-miscarii-politice-unirea-a-depus-semnaturile-la-cec-pentru-a-se-inscrie-in-cursa-prezidentiala/|access-date=2020-11-16|website=Ziarul de Gardă|language=ro-RO}}</ref> After initially invalidating a large portion of the signatures Chirtoacă presented,<ref>{{Cite web|title=Demersul expediat de Dorin Chirtoacă în adresa CEC ce vizează alegerile prezidențiale!|url=https://tribuna.md/2020/10/03/demersul-expediat-de-dorin-chirtoaca-in-adresa-cec-ce-vizeaza-alegerile-prezidentiale/|access-date=2020-11-16|website=Tribuna|language=ro-RO}}</ref> which could have resulted in him being denied registration, the CEC revised its decision and registered him as a candidate on 5 October 2020.<ref>{{Cite web|last=Severin|first=Diana|date=2020-10-05|title=CEC l-a înregistrat pe Dorin Chirtoacă în calitate de candidat la prezidențiale|url=https://www.zdg.md/importante/cec-l-a-inregistrat-pe-dorin-chirtoaca-in-calitate-de-candidat-la-prezidentiale/|access-date=2020-11-16|website=Ziarul de Gardă|language=ro-RO}}</ref>
+
+Chirtoacă officially launched his campaign on 10 October 2020.<ref>{{Cite web|date=2020-10-10|title=Dorin Chirtoacă s-a lansat în campania pentru prezidențiale|url=https://www.ipn.md/ro/dorin-chirtoaca-s-a-lansat-in-campania-pentru-prezidentiale-8008_1076768.html|access-date=2020-11-16|website=IPN|language=ro}}</ref> Being one of the explicitly unionist candidates, Chirtoacă's campaign rested on the advantages of a potential unification of Moldova and Romania including higher wages, pensions and subsidies in agriculture, improvements in healthcare, reductions in [[unemployment]], [[decentralization]], regional development and increased security provided by [[NATO]]. During his campaign, Chirtoacă repeatedly accused incumbent president Dodon of cooperating with the [[Federal Security Service of the Russian Federation]], sharing secret documents with Russian [[security agency|security agencies]] and being financed by Russia.<ref>{{Cite web|title=Dorin Chirtoaca cere repetat ca Igor Dodon sa fi exclus din cursa prezidentiala /DOC|url=https://protv.md/politic/dorin-chirtoaca-cere-repetat-ca-igor-dodon-sa-fi-exclus-din-cursa-prezidentiala-doc---2543886.html|access-date=2020-11-16|website=Pro TV|language=ro}}</ref>
+
+Chirtoacă endorsed Maia Sandu in the second round.<ref>{{Cite web|title=Dorin Chirtoaca isi anunta sustinerea pentru Maia Sandu in al doilea tur al alegerilor prezidentiale: "Sa avem o victorie zdrobitoare fata de Dodon" - VIDEO|url=https://protv.md/livepro/dorin-chirtoaca-isi-anunta-sustinerea-pentru-maia-sandu-in-al-doilea-tur-al-alegerilor-prezidentiale-sa-avem-o-victorie-zdrobitoare-fata-de-dodon-video---2545410.html|access-date=2020-11-16|website=Pro TV|language=ro}}</ref>
+
+===Second round===
+====Igor Dodon====
+On 3 November, during the second round of the electoral campaign, while Dodon was talking about Sandu, he modified a proverb and said {{lang|ro|nu schimbați porumbelul din mână pe coțofana de pe gard}}, meaning "do not change the [[pigeon]] on your hand by the [[Eurasian magpie|magpie]] on the fence" and referring to himself as the "pigeon". Many [[memes]] were spread on Moldovan social media based on this statement of Dodon.<ref>{{cite news|url=https://www.g4media.ro/dodon-atac-la-maia-sandu-nu-schimbati-porumbelul-din-mana-pe-cotofana-de-pe-gard-val-de-ironii-pe-internet-in-modova-meme-uri-cu-putin-si-porumbei.html|title=Dodon, atac la Maia Sandu: Nu schimbaţi porumbelul din mână pe coţofana de pe gard / Val de ironii pe internet în Modova, meme-uri cu Putin și porumbei|newspaper=G4Media|date=3 November 2020|language=ro}}</ref><ref>{{cite news|url=https://newsmaker.md/rus/novosti/porumbel-dodon-i-soroka-na-zabore-kak-igor-dodon-v-kampaniyu-vstupil-video/|title="Порумбел" Додон и "сорока на заборе". Как Игорь Додон в кампанию вступил (ВИДЕО)|first=Darya|last=Slobodchikova|work=NewsMaker|date=3 November 2020|language=ru}}</ref> After this, Moldovan citizens opposing Dodon, including members of the [[Moldovan diaspora|diaspora]] who were attacked by him earlier, started calling him a {{lang|ro|porumbel}} ("pigeon").<ref>{{cite news|url=https://protv.md/politic/febra-campaniei-electorale-se-incheie-astazi-iar-duminica-cetatenii-sunt-asteptati-la-urne-ca-sa-si-aleaga-presedintele-in-satele-de-bastina-ale-celor-doi-candidati-se-fac-deja-pronosticuri-video---2546819.html|title=Febra campaniei electorale se incheie astazi, iar duminica cetatenii sunt asteptati la urne ca sa-si aleaga presedintele. In satele de bastina ale celor doi candidati se fac deja pronosticuri - VIDEO|newspaper=ProTV Chișinău|date=14 November 2020|language=ro}}</ref><ref>{{cite news|url=https://www.zdg.md/stiri/stiri-sociale/video-moldoveni-din-diaspora-condamna-declaratiile-lui-igor-dodon-am-plans-amar-caci-am-ajuns-sa-fiu-acuzata-ca-sunt-in-strainatate-ne-vedem-pe-15-noiembrie-iar-adusi-o/|title=VIDEO/ Moldoveni din diasporă condamnă declarațiile lui Igor Dodon: "Am plâns amar căci am ajuns să fiu acuzată că sunt în străinătate", "Ne vedem pe 15 noiembrie, iar, aduși organizat de voința de a scăpa de porumbel"|first=Cristina|last=Dulea|newspaper=[[Ziarul de Gardă]]|date=5 November 2020|language=ro}}</ref><ref name="porumbel">{{cite news|url=https://tv8.md/2020/11/04/video-dodon-instiga-la-ura-avocatul-poporului-mesajele-transmise-de-igor-dodon-sunt-ofensatoare-si-instigatoare-la-ura/|title=/VIDEO/ Dodon instigă la ură? Avocatul Poporului: "Mesajele transmise de Igor Dodon sunt ofensatoare și instigatoare la ură"|newspaper=[[TV8 (Moldova)|TV8]]|date=4 November 2020|language=ro}}</ref> Sandu responded to this the next day by declaring that "an injured pigeon came out to the press and began to chant songs of mourning",<ref name="porumbel" /><ref>{{cite news|url=https://protv.md/politic/un-porumbel-ranit-canta-cantece-de-jale-ce-spune-maia-sandu-despre-acuzatiile-aduse-de-igor-dodon-video---2545723.html|title="Un porumbel ranit canta cantece de jale". Ce spune Maia Sandu, despre acuzatiile aduse de Igor Dodon - VIDEO|newspaper=ProTV Chișinău|date=4 November 2020|language=ro}}</ref> later uploading a video on her [[TikTok]] account feeding pigeons and saying that "they are not at fault".<ref>{{cite news|url=https://cotidianul.md/2020/11/14/no-comment-maia-sandu-hraneste-porumbeii-n-au-nicio-vina/|title=(NO COMMENT) Maia Sandu hrănește porumbeii: "N-au nicio vină"|newspaper=Cotidianul.md|date=14 November 2020|language=ro|archive-date=25 September 2022|access-date=16 November 2020|archive-url=https://web.archive.org/web/20220925024705/https://cotidianul.md/2020/11/14/no-comment-maia-sandu-hraneste-porumbeii-n-au-nicio-vina/|url-status=dead}}</ref>
+
+====Maia Sandu====
+Sandu's entry to the second round set up a rematch of the [[2016 Moldovan presidential election]], where Dodon defeated Sandu by less than 5 percent.  Mindful of this result, Sandu warned supporters about "potential for foreign interference and fraud to affect the outcome".<ref>{{Cite web|title=Moldova Heads To Runoff Presidential Election As Pro-EU Candidate Leads|url=https://www.rferl.org/a/moldova-heads-to-runoff-presidential-election-as-pro-eu-candidate-leads/30925081.html|access-date=2020-11-17|website=RadioFreeEurope/RadioLiberty|language=en}}</ref>
+
+==Debates==
+According to [[Central Election Commission of Moldova|Central Election Commission]] regulations, organizers had to ensure equal access to the debates for all candidates and conduct them in a fair and impartial manner.<ref>{{Cite web|date=1 September 2020|title=REGULAMENT privind reflectarea campaniei electorale la alegerile prezidențialedin 1 noiembrie 2020 în mijloacele de informare în masă din Republica Moldova|url=https://a.cec.md/storage/ckfinder/files/Regulament_reflectarea_masa.pdf|url-status=live|archive-url=https://web.archive.org/web/20201029125245/https://a.cec.md/storage/ckfinder/files/Regulament_reflectarea_masa.pdf |archive-date=2020-10-29 |access-date=|website=[[Central Election Commission of Moldova]]}}</ref> Five TV channels organized debates: [[Moldova 1]], [[ProTV Chișinău]], [[Jurnal TV]], [[TVR Moldova]] and [[TV8 (Moldova)|TV8]]. Because of the [[COVID-19 pandemic]], at most three candidates were simultaneously present at each debate.
+{| class="wikitable" style="font-size:100%;text-align:center;"
+|+ Televised debates
+! Dates
+! Organizer(s)
+! Moderator(s)
+! Number of debates organized
+! Reference
+|-
+|19.10.2020 - 28.10.2020
+|[[Moldova 1]] \ [[Promo-LEX]]
+|Oxana Mititelu, Pavel Postica
+|8
+|<ref>{{Cite web|title=Dezbateri electorale Moldova 1 {{!}} Alegeri 2020 - YouTube|url=https://www.youtube.com/playlist?list=PLxat_ntzOqQZ_t1s_28BZGoIwWjucJmgp|access-date=2020-11-16|website=www.youtube.com}}</ref>
+|-
+|19.10.2020 - 29.10.2020
+|[[ProTV Chișinău]]
+|[[Lorena Bogza]]
+|8
+|<ref>{{Cite web|title=Dezbateri electorale Pro TV {{!}} Alegeri 2020 - YouTube|url=https://www.youtube.com/playlist?list=PLxat_ntzOqQaxxOYo3OtndDM1snwNO-Ic|access-date=2020-11-16|website=www.youtube.com}}</ref>
+|-
+|07.10.2020 - 30.10.2020
+|[[TVR Moldova]]
+|Mihai Rădulescu
+|17
+|<ref>{{Cite web|title=Dezbateri electorale TVR Moldova {{!}} Alegeri 2020 - YouTube|url=https://www.youtube.com/playlist?list=PLxat_ntzOqQaOR0CQeU0s5nBSm8UPIMNG|access-date=2020-11-16|website=www.youtube.com}}</ref>
+|-
+|26.10.2020 - 29.10.2020
+|[[TV8 (Moldova)|TV8]]
+|[[Mariana Rață]]
+|4
+|<ref>{{Cite web|title=Dezbateri electorale TV8 {{!}} Alegeri 2020 - YouTube|url=https://www.youtube.com/playlist?list=PLxat_ntzOqQYZlT8m_En41BxVNB2XL_9G|access-date=2020-11-16|website=www.youtube.com}}</ref>
+|-
+|26.10.2020
+|[[Jurnal TV]]
+|Dumitru Mișin
+|2
+|<ref>{{Cite web|title=Talkshow {{!}} Dezbateri Electorale la Jurnal TV|url=https://www.jurnaltv.md/news/20d6b4ac17db782b/dezbateri-electorale-la-jurnal-tv.html|access-date=2020-11-16|website=JurnalTV.md|language=ro}}</ref>
+|-
+|}
+
+==Opinion polls==
+===First round===
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+! style="width:135px;" |Date
+! style="width:110px;" |Source
+! style="width:45px;" |Sample size
+! style="width:80px;" |[[Igor Dodon]]
+{{small|{{color|#8B0000|PSRM}}}}
+! style="width:80px;" |[[Maia Sandu]]
+{{small|{{color|#e6c300|PAS}}}}
+! style="width:100px;" |[[Renato Usatîi]]
+{{small|{{color|#003366|PN}}}}
+! style="width:70px;" |[[Ilan Shor|Ilan Șor]]<ref>In some polls a candidate from the [[Șor Party]] is mentioned</ref>
+{{small|{{color|#5CBB72|ȘOR}}}}
+! style="width:100px;" |[[Andrei Năstase]]
+{{small|{{color|#5e0c06|PPDA}}}}
+! style="width:80px;" |[[Pavel Filip]]
+{{small|{{color|#0000C0|PDM}}}}
+! style="width:50px;" |Other
+! style="width:60px;" |None of the above
+! style="width:60px;" |Undecided
+|-
+
+|16/07-23 August 2020
+|[https://www.iri.org/resource/new-moldova-poll-tight-presidential-race-negative-outlook-ahead-elections IRI poll]
+||2,017
+|{{partial|18%}}
+|{{partial|20%}}
+|7%
+|1%
+|3%
+|3%
+|12%
+|TBD
+|23%
+|-
+|5-20 August 2020
+|[https://twitter.com/EuropeElects/status/1299346052412305413 ASDM poll]
+||1,191
+|{{partial|43%}}
+|{{partial|27%}}
+|7%
+|TBD
+|TBD
+|TBD
+|TBD
+|TBD
+|TBD
+|-
+|14-26 July 2020
+|[https://idata.md/wp-content/uploads/2020/07/521-BE-Iulie-2020-prezentare-conferin%C8%9B%C4%83-de-pres%C4%83.pdf iData]
+|1,214| 1,214
+|{{partial|19.4%}}
+|{{partial|15.2%}}
+|4.2%
+|3.9%
+|2.5%
+|2.4%
+|6.1%
+|35.4%
+|10.9%
+|-
+|14-24 July 2020
+|[https://www.zdg.md/stiri/politic/sondaj-partidele-politice-care-ar-ajunge-in-parlament-dupa-alegeri-parlamentare-anticipate-si-cum-s-ar-imparti-voturile-la-un-scrutin-prezidential/ ASDM]
+|1,175| 1,175
+|{{partial|34.5%}}
+|{{partial|19.1%}}
+|5.1%|| {{n/a}} 
+|7.5%
+|4.3%
+|4.3%
+|21.1%
+|4.1%
+|-
+|2-9 July 2020
+|[https://unimedia.info/ro/news/a8296d999bc28b71/prezidentialele-in-sondaj-igor-dodon-si-maia-sandu-la-o-diferenta-de-4.html Intellect]
+|1,172| 1,172
+|{{partial|29.8%}}
+|{{partial|24.2%}}
+|8.3%
+|9.4%
+|2.5%| 1.6%
+|1.5%
+|2.5%|| {{n/a}} 
+|22.7%
+|-
+|20-27 June 2020
+|[http://www.infotag.md/politics-ro/285726/ ASDM]
+|1127
+|{{partial|35.8%}}
+|{{partial|19.6%}}
+|4.1%
+|{{n/a}}
+|5.5%
+|1.9%
+|{{n/a}}
+|{{n/a}}
+|26.8%
+|-
+|12-23 June 2020
+|[https://tv8.md/2020/07/02/grafic-cine-este-favoritul-la-prezidentiale-potrivit-sondajului-bop/ BOP]
+|1,200| 1,200
+|{{partial|22.4%}}
+|{{partial|11.0%}}
+|2.4%
+|1.5%
+|1.3%
+|0.4%
+|1.0%
+|0.5%
+|59.4%
+|-
+|23-31 May 2020
+|[http://www.infotag.md/reportaje/778088/ FOP]
+|1767
+|{{partial|35.8%}}
+|{{partial|23.3%}}
+|4%
+|{{n/a}}
+|5%
+|2.2%
+|5%
+|9.9%
+|13.8%
+|-
+|5-11 May 2020
+|[https://www.watchdog.md/2020/05/21/rezultatele-sondajului-realizat-la-comanda-watchdog-md-denota-un-impact-puternic-al-pandemiei-asupra-preferintelor-politice-si-gradului-de-incredere-in-teorii-conspirologice/ CBS-Research]
+|1003
+|{{partial|14.3%}}
+|{{partial|11.8%}}
+|3.7%
+|1.0%
+|2.5%
+|1.5%
+|1.2%
+|0.9%
+|57.6%
+|}
+
+=== Second round ===
+
+==== Sandu vs. Dodon ====
+{| class="wikitable" style="text-align:center; font-size:small;"
+!Source
+!Date
+!Sample size
+!Sandu
+{{small|{{color|#e6c300|PAS}}}}
+!Dodon
+{{small|{{color|#8B0000|PSRM}}}}
+!Undecided
+!Will not vote
+|-
+|[https://www.timpul.md/articol/%28sondaj-pentru-turul-2%29-51-5-din-respondeni-spun-ca-ar-vota-pentru-maia-sandu-iar-48-5-pentru-igor-dodon-160848.html Timpul]
+|3-7 November 2020
+|1,086
+| {{yes|'''51.5%'''}} || 48.5% || {{n/a}} 
+|{{n/a}}
+|-
+|[https://twitter.com/EuropeElects/status/1299069480098770947 ADM poll]
+|5-20 August 2020
+|1,200
+|44%|| {{yes|'''56%'''}} || {{n/a}} 
+|{{n/a}}
+|-
+|[https://idata.md/wp-content/uploads/2020/07/521-BE-Iulie-2020-prezentare-conferin%C8%9B%C4%83-de-pres%C4%83.pdf iData]
+|14-26 July 2020
+|1,200
+|34.3%|| {{yes|'''40.5%'''}} || {{n/a}} 
+|25.2%
+|-
+|[https://tv8.md/2020/07/02/grafic-cine-este-favoritul-la-prezidentiale-potrivit-sondajului-bop/ BOP]
+|12-23 June 2020
+|1,200|| {{yes|'''33.3%'''}} 
+|29.1%
+|14.1%
+|23.5%
+|}
+
+==== Usatîi vs. Dodon ====
+{| class="wikitable" style="text-align:center; font-size:small;"
+!Source
+!Date
+!Sample size
+![[Renato Usatîi|Usatîi]]
+{{small|{{color|#003366|PN}}}}
+!Dodon
+{{small|{{color|#8B0000|PSRM}}}}
+!Undecided
+!Will not vote
+|-
+|[https://tv8.md/2020/07/02/grafic-cine-este-favoritul-la-prezidentiale-potrivit-sondajului-bop/ BOP]
+|12-23 June 2020
+|1,200
+|26.3%|| {{yes|'''27.2%'''}} 
+|16.4%
+|30.1%
+|}
+
+==== Năstase vs. Dodon ====
+{| class="wikitable" style="text-align:center; font-size:small;"
+!Source
+!Date
+!Sample size
+!Năstase
+{{small|{{color|#5e0c06|PPDA}}}}
+!Dodon
+{{small|{{color|#8B0000|PSRM}}}}
+!Undecided
+!Will not vote
+|-
+|[https://tv8.md/2020/07/02/grafic-cine-este-favoritul-la-prezidentiale-potrivit-sondajului-bop/ BOP]
+|12-23 June 2020
+|1,200
+|24.7%|| {{yes|'''30.6%'''}} 
+|13.9%
+|30.7%
+|}
+
+==== Năstase vs. Usatîi ====
+{| class="wikitable" style="text-align:center; font-size:small;"
+!Source
+!Date
+!Sample size
+!Năstase
+{{small|{{color|#5e0c06|PPDA}}}}
+![[Renato Usatîi|Usatîi]]
+{{small|{{color|#003366|PN}}}}
+!Undecided
+!Will not vote
+|-
+|[https://tv8.md/2020/07/02/grafic-cine-este-favoritul-la-prezidentiale-potrivit-sondajului-bop/ BOP]
+|12-23 June 2020
+|1,200
+|22.3%|| {{yes|'''26.4%'''}} 
+|17.1%
+|34.2%
+|}
+
+==== Sandu vs. Usatîi ====
+{| class="wikitable" style="text-align:center; font-size:small;"
+!Source
+!Date
+!Sample size
+!Sandu
+{{small|{{color|#e6c300|PAS}}}}
+![[Renato Usatîi|Usatîi]]
+{{small|{{color|#003366|PN}}}}
+!Undecided
+!Will not vote
+|-
+|[https://tv8.md/2020/07/02/grafic-cine-este-favoritul-la-prezidentiale-potrivit-sondajului-bop/ BOP]
+|12-23 June 2020
+|1,200|| {{yes|'''32.8%'''}} 
+|22.9%
+|15.3%
+|29%
+|}
+
+==Results==
+{{Election results
+|cand1=[[Maia Sandu]]|party1=[[Party of Action and Solidarity]]|votes1=487635|votes1_2=943006
+|cand2=[[Igor Dodon]]|party2=Independent ([[Party of Socialists of the Republic of Moldova|PSRM]])|votes2=439866
+|votes2_2=690615
+|cand3=[[Renato Usatîi]]|party3=[[Our Party (Moldova)|Our Party]]|votes3=227939
+|cand4=[[Violeta Ivanov]]|party4=[[Șor Party]]|votes4=87542
+|cand5=[[Andrei Năstase]]|party5=[[Dignity and Truth Platform Party]]|votes5=43924
+|cand6=[[Octavian Țîcu]]|party6=[[National Unity Party (Moldova)|National Unity Party]]|votes6=27170
+|cand7=[[Tudor Deliu]]|party7=[[Liberal Democratic Party of Moldova]]|votes7=18486
+|cand8=[[Dorin Chirtoacă]]|party8=[[Union Political Movement]]|votes8=16157
+|invalid=19797|invalid2=20529
+|electorate=2995891|electorate2=3135474
+|source= [https://alegeri.md/w/Alegerile_preziden%C8%9Biale_din_2020_%C3%AEn_Republica_Moldova Alegeri.md], [https://pv.cec.md/cec-template-presidential-results.html CEC] 
+}}
+{{bar box|title=Vote share|titlebar=#ddd|width=600px|barwidth=500px|bars=
+{{Bar gap|{{center|Second round}}}}
+{{bar percent|'''Sandu'''|{{party color|Party of Action and Solidarity}}|57.72}}
+{{bar percent|Dodon|{{party color|Party of Socialists of the Republic of Moldova}}|42.28}}
+{{Bar gap|{{center|First round}}}}
+{{bar percent|{{underline|Sandu}}|{{party color|Party of Action and Solidarity}}|36.16}}
+{{bar percent|{{underline|Dodon}}|{{party color|Party of Socialists of the Republic of Moldova}}|32.61}}
+{{bar percent|Usatîi|{{party color|Our Party (Moldova)}}|16.90}}
+{{bar percent|Ivanov|{{party color|Șor Party}}|6.49}}
+{{bar percent|Năstase|{{party color|Dignity and Truth Platform Party}}|3.26}}
+{{bar percent|Țîcu|{{party color|National Unity Party (Moldova)}}|2.01}}
+{{bar percent|Deliu|{{party color|Liberal Democratic Party of Moldova}}|1.37}}
+{{bar percent|Chirtoacă|{{party color|Union Political Movement}}|1.20}}
+}}
+
+==Analysis ==
+[[File:2020 Moldovan presidential election map.svg|450px|thumb|right|Results of the 2020 Moldovan presidential election. The left map shows the winner in the first round by territorial electoral commissions. The right map shows the winner in the second round by territorial electoral commissions.]]
+
+The first round of the election was characterized by a historically high turnout of the [[Moldovan diaspora|diaspora]]. Moldovans living abroad were responsible for 15% of the cast ballots.<ref>{{Cite web|title=/VIDEO/ Record, stabilit de diasporă. Pentru prima dată în istoria țării, 15% din alegătorii care și-au exprimat votul au fost din străinătate|url=https://tv8.md/2020/11/02/video-record-stabilit-de-diaspora-pentru-prima-data-in-istoria-tarii-15-din-alegatorii-care-si-au-exprimat-votul-au-fost-din-strainatate/|access-date=2020-11-16|language=ro-RO}}</ref> As [[expatriate]]s voted overwhelmingly for Maia Sandu, their high turnout is considered one of the main reasons for her first-round win. Because most polls gave an edge to incumbent president Dodon, Maia Sandu's result was considered unexpected by experts.<ref>{{Cite web|title=Moldova: Pro-EU candidate scores surprise first-round win|url=https://euobserver.com/foreign/149953|access-date=2020-11-16|website=EUobserver|language=en}}</ref> Multiple analysts voiced the opinion that Renato Usatîi, who came in third and positioned himself as a [[Centrism|centrist]], was expected to play a decisive role in the second round by announcing his support for one of the two candidates.<ref>{{Cite web|title=Opinie: O parte din alegătorii lui Usatîi vor vota nu pentru Maia Sandu, ci împotriva lui Dodon|url=https://deschide.md/ro/stiri/alegeri/74787/Opinie-O-parte-din-alegătorii-lui-Usatîi-vor-vota-nu-pentru-Maia-Sandu-ci-împotriva-lui-Dodon.htm|access-date=2020-11-16|website=Deschide.MD|language=ro}}</ref><ref>{{Cite web|title=Concluzii după primul tur și scenarii pentru turul doi|work=Today|url=http://today.md/2020/11/02/concluzii-dupa-primul-tur-si-scenarii-pentru-turul-doi/|access-date=2020-11-16|language=en-US|archive-date=2020-11-19|archive-url=https://web.archive.org/web/20201119100801/http://today.md/2020/11/02/concluzii-dupa-primul-tur-si-scenarii-pentru-turul-doi/|url-status=dead}}</ref> Usatîi later advised people who voted for him to vote against Dodon in the second round.
+
+An exit poll from the day of the second round suggested Sandu had won with 54.8% of the vote.<ref>[https://web.archive.org/web/20201115195703/https://uk.reuters.com/article/uk-moldova-election-exitpolls-idUKKBN27V0NW Pro-EU candidate Sandu leads in Moldova presidential election run-off - exit poll] Reuters, 15 November 2020</ref> The actual results (released later) showed Sandu winning by a larger margin, with 57.72% of the vote.<ref name=":0" /><ref name=":1" /> Sandu's victory was again helped by her lead in the diaspora's vote. Sandu nevertheless won 51% of votes on Moldova alone.<ref>{{cite web|title=Separate ways: Contrasting elections in Georgia and Moldova|url=https://ecfr.eu/article/seperate-ways-contrasting-elections-in-georgia-and-moldova/|website=ECFR|language=en|access-date=18 December 2020|publication-date=}}.</ref>
+
+==Aftermath==
+===International reactions===
+*{{flag|Azerbaijan}}: President  [[Ilham Aliyev]] congratulated Sandu through a letter and expressed his faith that the relations between Azerbaijan and Moldova will continue to develop and expand.<ref>{{cite news|url=https://menafn.com/1101144022/President-of-Azerbaijan-sends-letter-to-President-elect-of-Moldova|title=President of Azerbaijan sends letter to President-elect of Moldova|newspaper=MENAFN|date=18 November 2020}}</ref>
+*{{flag|Belarus}}: President [[Alexander Lukashenko]] congratulated Sandu, saying that the hoped to "enrich bilateral relations" between Moldova and Belarus with "new creative initiatives".<ref>{{cite web |url=https://eng.belta.by/president/view/lukashenko-sends-greetings-to-moldova-president-elect-maia-sandu-135077-2020/ |title=Lukashenko sends greetings to Moldova president-elect Maia Sandu |website=eng.belta.by |accessdate=21 November 2020}}</ref> Opposition leader [[Sviatlana Tsikhanouskaya]] also congratulated Sandu, saying that she was "deeply impressed with her bravery and dedication".<ref>{{cite web |url=https://tv8.md/2020/11/16/svetlana-tihanovskaia-mesaj-de-felicitare-pentru-maia-sandu-sunt-impresionata-de-daruirea-ei/ |title=Svetlana Tihanovskaia, mesaj de felicitare pentru Maia Sandu: "Sunt impresionată de dăruirea ei" |website=tv8.md |accessdate=21 November 2020 |language=ro}}</ref>
+*{{flag|France}}: President [[Emmanuel Macron]] congratulated Sandu emphasizing France's ongoing support for Moldova's European integration efforts.<ref>{{cite web |url=https://www.jurnal.md/ro/news/13a325b89112e815/emmanuel-macron-scrisoare-catre-presedintele-ales-maia-sandu.html |title=Emmanuel Macron, scrisoare către președintele ales Maia Sandu |website=jurnal.md |language=ro |accessdate=21 November 2020}}</ref>
+*{{flag|Germany}}: Chancellor [[Angela Merkel]] congratulated Sandu on her "strong mandate" and wished her success in dealing with the multiple issues Moldova was facing.<ref>{{cite web |url=https://www.jurnal.md/ro/news/a58df0e61d0cc939/angela-merkel-mesaj-de-felicitare-pentru-maia-sandu-ma-bucur-ca-cetatenii-din-moldova-v-au-dat-un-mandat-puternic.html |title=Angela Merkel, mesaj de felicitare pentru Maia Sandu: "Mă bucur că cetățenii din Moldova v-au dat un mandat puternic" |website=jurnal.md |accessdate=21 November 2020 |language=ro}}</ref>
+*{{flag|Italy}}: President [[Sergio Mattarella]] congratulated Sandu, saying that he hoped to "further consolidate the excellent relationship" between Italy and Moldova.<ref>{{cite web |url=https://www.zdg.md/stiri/presedintele-italiei-a-felicitat-o-pe-maia-sandu-cu-ocazia-victoriei-in-alegerile-prezidentiale/ |title=Președintele Italiei a felicitat-o pe Maia Sandu cu ocazia victoriei în alegerile prezidențiale |website=zdg.md |accessdate=21 November 2020 |language=ro}}</ref>
+*{{flag|Latvia}}: President [[Egils Levits]] contacted Sandu to congratulate her on the election win. In the discussion, Levits emphasized Latvia's continued assistance to Moldova in the reform process.<ref>{{cite web |url=https://www.ipn.md/en/president-latvia-congratulates-newly-elected-president-of-moldova-7965_1077795.html |title=President Latvia congratulates newly elected President of Moldova |website=ipn.md |accessdate=21 November 2020}}</ref>
+*{{flag|Oman}}: Sultan [[Haitham bin Tariq Al Said]] expressed his congratulations to Sandu for winning the elections and his desire to improve relations between Moldova and Oman.<ref>{{cite news|url=https://omannews.gov.om/NewsDescription/ArtMID/392/ArticleID/23553|title=HM The Sultan Congratulates New President of Moldova|newspaper=[[Oman News Agency]]|date=19 November 2020}}</ref>
+*{{flag|Poland}}: President [[Andrzej Duda]] congratulated Sandu and said that Poland was "determined to strengthen high-level Moldovan-Polish relations both on bilateral and European level".<ref>{{cite web |url=https://tv8.md/2020/11/16/presedintele-poloniei-a-felicitat-o-pe-maia-sandu-polonia-este-hotarata-sa-consolideze-relatiile-la-nivel-inalt/ |title=Președintele Poloniei a felicitat-o pe Maia Sandu: "Polonia este hotărâtă să consolideze relațiile la nivel înalt" |website=tv8.md |accessdate=21 November 2020 |language=ro}}</ref>
+*{{flag|Romania}}: President [[Klaus Iohannis]] was the first [[head of state]] to congratulate Sandu on her victory, doing this through a phone call and [[Twitter]]. It was announced that Iohannis would visit Chișinău once Sandu assumed the presidential office and Moldova's integration path into the EU was discussed.<ref>{{cite news|url=https://www.digi24.ro/stiri/externe/moldova/klaus-iohannis-primul-sef-de-stat-care-o-felicita-pe-maia-sandu-pentru-castigarea-alegerilor-1402481|title=Klaus Iohannis a discutat la telefon cu Maia Sandu. Șeful statului va avea o vizită oficială la Chișinău|newspaper=[[Digi24]]|date=16 November 2020|language=ro}}</ref> Later, Prime Minister [[Ludovic Orban]] also congratulated Sandu.<ref>{{cite news|url=https://www.hotnews.ro/stiri-esential-24421614-ludovic-orban-crezut-inceput-maia-sandu-asistam-eveniment-adevarat-istoric-pentru-republica-moldova.htm|title=Ludovic Orban: Am crezut de la început în Maia Sandu. Asistăm la un eveniment cu-adevărat istoric pentru Republica Moldova|newspaper=Hotnews.ro|date=16 November 2020|language=ro}}</ref>
+*{{flag|Russia}}: President [[Vladimir Putin]] sent a telegram congratulating Sandu and looking forward to "constructive development of relations".<ref>{{Cite web|title=Putin congratulates Maia Sandu on winning Moldovan presidential election|url=https://tass.com/politics/1224111|access-date=2020-11-17|website=TASS}}</ref> Opposition leader [[Alexei Navalny]] also congratulated Sandu, saying that he welcomed the election of a president who would fight corruption.<ref>{{cite web |url=https://protv.md/politic/aleksei-navalnii-felicitari-maia-sandu-moldova-are-totul-pentru-o-dezvoltare-de-succes---2547220.html |title=Aleksei Navalnii:"Felicitari Maia Sandu! Moldova are totul pentru o dezvoltare de succes" |accessdate=21 November 2020 |website=protv.md |language=ro}}</ref> [[Patriarch Kirill of Moscow]] congratulated Sandu as well, saying that he wished for "the continuation of a productive interaction between the authorities and the [[Eastern Orthodox Church]] in Moldova".<ref>{{cite web |url=https://unimedia.info/ro/news/da53d60b0f5aa8bf/patriarhul-rusiei-kirill-a-felicitat-o-pe-maia-sandu-cu-ocazia-victoriei-in-alegerile-prezidentiale-ce-urari-i-a-transmis.html |title=Patriarhul Rusiei Kirill a felicitat-o pe Maia Sandu cu ocazia victoriei în alegerile prezidențiale. Ce urări i-a transmis |website=unimedia.info |accessdate=21 November 2020 |language=ro}}</ref>
+*{{flag|Ukraine}}: President [[Volodymyr Zelenskyy]] was the second head of state to congratulate Sandu. He said that he was looking forward to strengthening the relations between Moldova and Ukraine on their path to the [[European Union]] membership during Sandu's presidency.<ref>{{cite news |title=Зеленський привітав Санду з перемогою на президентських виборах |url=https://www.eurointegration.com.ua/news/2020/11/16/7116552/ |accessdate=16 November 2020 |work=Європейська правда |date=16 November 2020 |language=uk}}</ref>
+
+===Fraud allegations===
+Moldovan President Igor Dodon alleged multiple voting irregularities including the prevention of Transnistrians from voting, organized transportation of voters in EU countries and interference from foreign leaders.<ref>{{cite web |url=https://stiri.md/article/politica/dodon-va-contesta-rezultatele-alegerilor-felicit-preliminar-oponenta |title=Dodon va contesta rezultatele alegerilor: Felicit preliminar oponenta |website=stiri.md |accessdate=21 November 2020 |language=ro}}</ref> Dodon said that he would consider conceding defeat if the courts found nothing inappropriate in the voting process. He said "if the courts found that everything is okay, then we will put a full stop there". He also said that he was congratulating Sandu as a precaution.<ref>{{Cite web|date=15 November 2020|title=Moldova election: Pro-EU Maia Sandu wins presidency|url=https://www.dw.com/en/moldova-election-pro-eu-maia-sandu-wins-presidency/a-55611249|url-status=live|archive-url=https://web.archive.org/web/20201116002517/https://www.dw.com/en/moldova-election-pro-eu-maia-sandu-wins-presidency/a-55611249 |archive-date=2020-11-16 |access-date=2020-11-17|website=[[Deutsche Welle]]|language=en-GB}}</ref>
+
+In 2021, leaked documents from the German newspaper ''[[Bild]]'' showed Russia supported the campaign for the 2020 Moldovan presidential election of Dodon and other candidates considered "friendly" to the country. According to these claims, Russia would have spent some 11.4 million euros, 4 million of which would have directly gone for Dodon and the other candidates themselves. Similar claims were made by Usatîi already in November 2020. PSRM denied these claims and announced it would file a lawsuit against the German newspaper and all Moldovan media "that took part in the dissemination of this blatant slander".<ref>{{cite news|url=https://www.intellinews.com/leaked-documents-indicate-russia-spent-11-4mn-ahead-of-moldovan-presidential-election-214128/|title=Leaked documents indicate Russia spent €11.4mn ahead of Moldovan presidential election|first=Iulian|last=Ernst|newspaper=[[bne IntelliNews]]|date=25 June 2021}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Moldovan presidential elections}}
+{{Moldovan elections}}
+{{Maia Sandu}}
+
+[[Category:2020 elections in Moldova|Presidential]]
+[[Category:November 2020 in Moldova|Moldova]]
+[[Category:Presidential elections in Moldova]]
+[[Category:2020 elections in Europe|Moldovia]]

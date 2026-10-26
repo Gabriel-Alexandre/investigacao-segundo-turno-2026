@@ -1,0 +1,820 @@
+{{short description|none}}
+{{Use dmy dates|date=December 2021}}
+{{Infobox election
+| country = El Salvador
+| type = Presidential
+| registered = 4,955,107
+| turnout = 55.32% (first round) {{decrease}} 7.60[[percentage point|pp]]<br />60.89% (second round) {{increase}} 2.43[[percentage point|pp]]
+| previous_election = 2009 Salvadoran presidential election
+| previous_year = 2009
+| next_election = 2019 Salvadoran presidential election
+| next_year = 2019
+| election_date = 2 February 2014 (first round)<br />{{nowrap|9 March 2014 (second round)}}
+| image1 = Salvador Sanchez Ceren.jpg
+| nominee1 = '''[[Salvador Sánchez Cerén]]'''
+| running_mate1 = '''[[Óscar Ortiz (El Salvador)|Óscar Ortiz]]'''
+| party1 = Farabundo Martí National Liberation Front
+| popular_vote1 = '''1,495,815'''
+| percentage1 = '''50.11%'''
+| image2 = Norman Quijano.jpg
+| nominee2 = [[Norman Quijano]]
+| running_mate2 = [[René&nbsp;Portillo&nbsp;Cuadra]]
+| party2 = Nationalist Republican Alliance
+| popular_vote2 = 1,489,451
+| percentage2 = 49.89%
+| map_image = {{switcher |[[File:Elecciones presidenciales de El Salvador de 2014 - Resultado por Departamento (primera vuelta).svg|275px]] |First round results by department|[[File:Elecciones presidenciales de El Salvador de 2014 - Resultado por Departamento (segunda vuelta).svg|275px]] |Second round results by department|default=2}}
+| map_size = 
+| map_caption = 
+| title = [[President of El Salvador|President]]
+| before_election = [[Mauricio Funes]]
+| before_party = Farabundo Martí National Liberation Front
+| after_election = [[Salvador Sánchez Cerén]]
+| after_party = Farabundo Martí National Liberation Front
+}}
+
+Presidential elections were held in [[El Salvador]] on 2 February 2014,<ref>{{cite web|url=http://www.tse.gob.sv/documentos/Elecciones2014/calendario/pre_cal_2014.pdf|title=CALENDARIO ELECTORAL 2014|publisher=Tribunal Supremo Electoral de El Salvador|page=11|accessdate=9 July 2013|location=Spanish|url-status=dead|archiveurl=https://web.archive.org/web/20130902185957/http://www.tse.gob.sv/documentos/Elecciones2014/calendario/pre_cal_2014.pdf|archivedate=2 September 2013}}</ref> with a second round held on 9 March since no candidate won an outright majority.<ref name="auto">{{cite web|url=http://www.wola.org/news/background_information_on_the_upcoming_elections_in_el_salvador|title=Background Info. on the Upcoming Elections in El Salvador|last=Thale|first=Geoff|date=29 January 2014|publisher=Washington Office on Latin America|access-date=30 January 2014|archive-date=4 April 2016|archive-url=https://web.archive.org/web/20160404015840/http://www.wola.org/news/background_information_on_the_upcoming_elections_in_el_salvador|url-status=dead}}</ref> The primary candidates were Vice-President [[Salvador Sánchez Cerén]] of the [[Farabundo Martí National Liberation Front|FMLN]], San Salvador Mayor [[Norman Quijano]] of [[Nationalist Republican Alliance|ARENA]], and former President [[Antonio Saca]].<ref name=alje>{{cite news|url=http://www.aljazeera.com/indepth/opinion/2013/02/201323151934374123.html|title=Predicting the results of El Salvador's next election|last=Allison|first=Mike|date=3 Feb 2013|work=Al Jazeera English|accessdate=9 July 2013}}</ref> Saca represented the [[Grand Alliance for National Unity]], the [[National Coalition Party (El Salvador)|National Coalition Party]], and the [[Christian Democratic Party (El Salvador)|Christian Democratic Party]] in the [[Unity Movement|Unity]] coalition. Incumbent president [[Mauricio Funes]] was ineligible to run for a consecutive second term.<ref>{{cite web|url=http://www.electionguide.org/elections/id/2311/|title=IFES Election Guide - Elections: El Salvador President 2014|website=www.electionguide.org}}</ref> Sánchez Cerén and Quijano emerged as the contestants in the runoff held on 9 March in which Sánchez Cerén was declared the victor.<ref>{{cite news|url=https://www.washingtonpost.com/world/former-guerrilla-commander-wins-el-salvador-presidential-election/2014/03/14/ddaa0dda-b77c-4f33-bb2d-225330c3745a_story.html|title=Former guerrilla commander wins El Salvador presidential election|date=14 March 2014|newspaper=Washington Post}}</ref>
+
+==Background==
+On 22 October 2012, the Supreme Electoral Tribune increased the total number of voting centers and assigned eligible voters to the voting center closest to their address. Previously, eligible voters were assigned to municipal voting centers alphabetically, forcing some to travel longer distances to vote. The 2014 presidential election will be the first election to follow such rules.<ref>{{cite news|url=http://www.tse.gob.sv/index.php/component/content/article/77-categorias-tse/noticias/386-tse-inicia-la-consulta-ciudadana-de-validacion-de-centros-de-votacion|title=TSE inicia la consulta ciudadana de validación de centros de votación|publisher=Tribunal Supremo Electoral de El Salvador|accessdate=12 July 2013|location=Spanish|archive-date=7 September 2020|archive-url=https://web.archive.org/web/20200907183334/https://www.tse.gob.sv/index.php/component/content/article/77-categorias-tse/noticias/386-tse-inicia-la-consulta-ciudadana-de-validacion-de-centros-de-votacion|url-status=dead}}</ref>
+
+On 24 January 2013, the Legislative Assembly passed legislation to allow Salvadorans living abroad to vote in all future elections. 92% of Salvadorans living abroad are based in the [[United States]] and [[Canada]]. According to the Supreme Electoral Tribune, there are 200,000 Salvadorans living internationally who are eligible to vote.<ref name=cha>{{cite news|url=http://www.coha.org/the-2014-presidential-elections-in-el-salvador-and-the-transnational-electorate/comment-page-1/|title = The 2014 Presidential Elections in El Salvador and the Transnational Electorate|last=Mills|first=Frederick B.|date= 12 March 2013|work=Council of Hemispheric Affairs|accessdate=1 August 2013}}</ref> The [[Farabundo Martí National Liberation Front]]'s (FMLN) presidential candidate, [[Salvador Sánchez Cerén]], visited [[southern California]] to meet with [[Salvadoran Americans]] and tour their communities in August 2013.<ref>{{cite web|url=http://www.pressbanner.com/view/full_story/23437215/article-VP-of-El-Salvador-visits-Felton--Watsonville?instance=home_news_bullets|title=Golden State Newspapers|website=Golden State Newspapers|access-date=7 September 2013|archive-date=29 October 2013|archive-url=https://web.archive.org/web/20131029191918/http://www.pressbanner.com/view/full_story/23437215/article-VP-of-El-Salvador-visits-Felton--Watsonville?instance=home_news_bullets|url-status=dead}}</ref>
+
+In regards to the high crime rate, there has been a [[2012–2014 Salvadoran gang truce|two-year-old truce]] between the [[MS-13|Mara Salvatrucha (MS-13)]] and [[18th Street gang|Barrio 18]] gangs that has halved the murder rate.<ref name="guard"/> Likewise, the [[2012 Salvadoran legislative and local elections]] resulted in a strong showing for the opposition [[Nationalist Republican Alliance]] (ARENA) due to the rising crime rates.
+
+==Candidates==
+The FMLN selected, Sánchez Cerén, a former rebel during the civil war, as the party's candidate. ARENA selected [[Norman Quijano]] as its candidate. The [[Unity Movement]] selected former president [[Antonio Saca]] with an announcement in February 2013 that had the backing of the [[Christian Democratic Party (El Salvador)|Christian Democratic Party]] (PDC) and the [[National Coalition Party (El Salvador)|National Coalition Party]] (PCN).<ref>{{cite news|url=http://www.elnacional.com.do/internacionales/2013/2/25/152139/Ex-presidente-Antonio-Saca-volvera-a-buscar-presidencia-de-El-Salvador|title=Ex presidente Antonio Saca volverá a buscar presidencia de El Salvador|date=25 Feb 2013|publisher=El Nacional|accessdate=12 July 2013|location=Spanish|url-status=dead|archiveurl=https://web.archive.org/web/20130227011932/http://www.elnacional.com.do/internacionales/2013/2/25/152139/Ex-presidente-Antonio-Saca-volvera-a-buscar-presidencia-de-El-Salvador|archivedate=27 February 2013}}</ref><ref name="auto"/>
+
+{| class="vertical-align-top wikitable sortable" style="text-align:center"
+! colspan="2" | Party
+! colspan="2" | Candidate
+! colspan="2" | Running mate
+|-
+| style="background-color:{{party color|Farabundo Martí National Liberation Front}}" |
+| data-sort-value="Farabundo Marti National Liberation Front" | [[File:Bandera - Frente Farabundo Martí para la Liberación Nacional.svg|50px|center|Farabundo Martí National Liberation Front]] '''[[Farabundo Martí National Liberation Front|Farabundo Martí<br />National Liberation<br />Front]]'''
+| [[File:Salvador Sanchez Ceren.jpg|100px|center|Salvador Sánchez Cerén]]
+| data-sort-value="Sanchez Ceren, Salvador" style="line-height:1.0" | '''[[Salvador Sánchez Cerén]]'''<br />{{small|41st [[Vice President of El Salvador]]<br />{{small|(2009–2014)}}<br />[[Ministry of Education (El Salvador)|Minister of Education]]<br />{{small|(2009–2012)}}<br />Deputy of the [[Legislative Assembly of El Salvador|Legislative Assembly]]<br />{{small|(2000–2009)}}}}
+| [[File:Oscar Ortiz in Brazil.jpg|100px|center|Óscar Ortiz]]
+| data-sort-value="Ortiz, Oscar" style="line-height:1.0" | '''[[Óscar Ortiz (Salvadoran politician)|Óscar Ortiz]]'''<br />{{small|Mayor of [[Santa Tecla, El Salvador|Santa Tecla]]<br />{{small|(2000–2014)}}<br />Deputy of the [[Legislative Assembly of El Salvador|Legislative Assembly]]<br />{{small|(1994–2000)}}}}
+|-
+| style="background-color:{{party color|Nationalist Republican Alliance}}" |
+| data-sort-value="Nationalist Republican Alliance" | [[File:Alianza Republicana Nacionalista.svg|50px|center|Nationalist Republican Alliance]] '''[[Nationalist Republican Alliance|Nationalist<br />Republican<br />Alliance]]'''
+| [[File:Norman Quijano.jpg|100px|center|Norman Quijano]]
+| data-sort-value="Quijano, Norman" style="line-height:1.0" | '''[[Norman Quijano]]'''<br />{{small|[[Mayor of San Salvador]]<br />{{small|(2009–2015)}}<br />Deputy of the [[Legislative Assembly of El Salvador|Legislative Assembly]]<br />{{small|(1994–2009)}}}}
+| [[File:René Portillo Cuadra in 2021.png|100px|center|René Portillo Cuadra]]
+| data-sort-value="Portillo Cuadra, Rene" | '''[[René Portillo Cuadra]]'''
+|-
+| style="background-color:{{party color|Unity Movement}}" |
+| data-sort-value="Unity Movement" | [[File:Blue Flag.png|50px|center|Unity Movement]] '''[[Unity Movement]]'''{{efn|Saca's campaign with the Unity Movement was supported by the [[Christian Democratic Party (El Salvador)|Christian Democratic Party]] (PDC) and the [[National Coalition Party (El Salvador)|National Coalition Party]] (PCN).}}
+| [[File:Antonio Saca 2007.jpg|100px|center|Antonio Saca]]
+| data-sort-value="Saca, Antonio" style="line-height:1.0" | '''[[Antonio Saca]]'''<br />{{small|[[President of El Salvador|40th President of El Salvador]]<br />{{small|(2004–2009)}}}}
+| [[File:Portrait placeholder.svg|100px|center|Félix Ulloa]]
+| data-sort-value="Lainez, Francisco"  style="line-height:1.0" | {{Interlanguage link|Francisco Laínez|fr|Francisco Laínez}}<br />{{small|[[Minister of Foreign Affairs (El Salvador)|Minister of Foreign Affairs]]<br />{{small|(2004–2009)}}}}
+|-
+| style="background-color:{{party color|Salvadoran Patriotic Fraternity}}" |
+| data-sort-value="Salvadoran Patriotic Fraternity" | [[File:Flag of the Salvadoran Patriotic Fraternity remake.png|50px|center|Salvadoran Patriotic Fraternity]] '''[[Salvadoran Patriotic Fraternity|Salvadoran<br />Patriotic<br />Fraternity]]'''
+| [[File:Portrait placeholder.svg|100px|center|Óscar Lemus]]
+| data-sort-value="Lemus, Oscar" | '''Óscar Lemus'''
+| [[File:Portrait placeholder.svg|100px|center|Adriana Bonilla]]
+| data-sort-value="Bonilla, Adriana" | '''Adriana Bonilla'''
+|-
+| style="background-color:{{party color|Salvadoran Progressive Party}}" |
+| data-sort-value="Solidarity Force" | [[File:Bandera PSP.jpg|50px|center|Salvadoran Progressive Party]] '''{{ill|Salvadoran Progressive Party{{!}}Salvadoran<br />Progressive<br />Party|es|Partido Salvadoreño Progresista}}'''
+| [[File:Portrait placeholder.svg|100px|center|René Rodríguez Hurtado]]
+| data-sort-value="Rodriguez Hurtado, Rene " | '''René Rodríguez Hurtado'''
+| [[File:Portrait placeholder.svg|100px|center|Rafael Menjívar]]
+| data-sort-value="Menjivar, Rafael" | '''Rafael Menjívar'''
+|}
+
+===Legal recourse===
+On 31 July 2013, a professor from the [[National University of El Salvador]] presented an argument to the [[Supreme Court of El Salvador|Supreme Court]] on the constitutionality of a former president's candidacy. The legal language regarding second terms is unclear as the constitution prohibits two consecutive terms, but has been described as "murky" on plural non-consecutive terms. Saca claimed that this was an attempt for the FMLN and ARENA to exclude him from the presidential election.<ref>{{cite web|url=http://www.cispes.org/blog/electoral-update-saca-announces-campaign-platform-constitutionality-candidacy-challenged/|title=Electoral Update: Saca Announces Campaign Platform, Constitutionality of Candidacy Challenged - CISPES: Committee in Solidarity with the People of El Salvador|website=CISPES: Committee in Solidarity with the People of El Salvador}}</ref> On 6 September, the Constitutional Chamber of the Supreme Court ruled that only party flags, not candidates faces, will appear on the ballot in the presidential election. Saca, as a former president, was widely recognized by Salvadorans, but his Unity coalition was not. He provided polling evidence to back his claim. Due to the court ruling, Unity proposed putting Saca's face on their party flag.<ref>{{cite web |url=http://www.cispes.org/uncategorized/electoral-update-court-spurns-saca-rejects-faces-ballot/ |title=Electoral Update: Court Spurns Saca, Rejects Faces on Ballot |accessdate=2013-09-14 |url-status=dead |archiveurl=https://archive.today/20130914181504/http://www.cispes.org/uncategorized/electoral-update-court-spurns-saca-rejects-faces-ballot/ |archivedate=2013-09-14 }}</ref>
+
+==Campaign==
+Quijano said that he would deploy the army to fight street gangs amidst elevated [[crime in El Salvador]]. Sánchez Cerén, on the other hand, said he would forge a political pact in order to pass reforms through a divided Congress that would tackle crime and anemic economic growth. He further said that he would tackle tax evasion and loopholes while also introducing tax incentives for investment in such industries as energy, renovating [[San Salvador]]'s [[Comalapa International Airport]] and improve port facilities. He also said that he would seek to join [[Petrocaribe]].<ref name="react">{{cite web|url=https://www.reuters.com/article/us-elsalvador-election-idUSBREA110JX20140203|title=El Salvador ex-rebel strongly placed to win run-off|first=Nelson|last=Renteria|website=[[Reuters]] |date=3 February 2014 |publisher=}}</ref>
+
+===Farabundo Martí National Liberation Front===
+Sánchez Cerén and [[Óscar Ortiz (Salvadoran politician)|Óscar Ortiz]] stated that the "three pillars" of their program is employment, security, and education. In developing this program, the candidates received proposals from representatives of various sectors of society. They have argued that to achieve higher levels of employment these requires expanding public-private partnerships, sponsoring a public development bank, and promoting important industries. In regards to education, the candidates have promised more free food for children in school, a policy of "one child, one computer," and bilingual education. Sánchez Cerén has announced plans for the nation's first "digital university" and increased transportation funding around universities. To address the problems of crime and security, the candidates have proposed increasing funding for new police technologies, promoting campaigns against drug abuse, creating education rehabilitation centers for those convicted of minor offenses and drug crimes, and training community peace officers.<ref name="fmlncampaign">{{cite web|title=Salvador y Oscar garantizan empleo, seguridad y educación, en la Convención del FMLN|trans-title=Salvador and Oscar guarantee employment, security and education, in the FMLN Convention|url=http://www.salvadoryoscar.com/index.php?id=1060804132|url-status=usurped|archive-url=https://archive.today/20130907041629/http://www.salvadoryoscar.com/index.php?id=1060804132|archive-date=7 September 2013|website=www.salvadoryoscar.com|language=es}}</ref>
+
+Sánchez Cerén was invited as a closing speaker to the FMLN's "Winter Cultural Dialogues," in which he expressed solidarity with the [[Bolivarian Alliance for the Americas]]. He expressed a desire for an alternative development models, such as the types seen in nations with left-wing governments in South America. The notion of "buen vivir," or "living well," was prominent in his political discussion. He said, "Living Well is a current of ideas, of values, of social proposals and policies that runs through Latin America, that tells us it is possible to live in a society governed by equality and fraternity."<ref>{{Cite web |url=http://www.contrapunto.com.sv/entrevistas/el-buen-vivir-eje-de-dialogos-culturales-de-invierno |title=''ContraPunto'', "‘El buen vivir’, eje de Diálogos culturales de invierno", July 16, 2013 |access-date=7 September 2013 |archive-date=18 September 2013 |archive-url=https://web.archive.org/web/20130918213412/http://www.contrapunto.com.sv/entrevistas/el-buen-vivir-eje-de-dialogos-culturales-de-invierno |url-status=dead }}</ref> He stated he would have the nation join [[Petrocaribe]], a multi-national oil alliance that purchases oil from Venezuela, which would allow the nation to buy oil at 60% its current costs, thus freeing up to $640 million to fund social investments proposals.<ref>{{cite web|url=http://www.cispes.org/blog/electoral-update-fmln-approves-government-platform-2014-presidency/|title=Electoral Update: FMLN approves government platform for 2014 presidency - CISPES: Committee in Solidarity with the People of El Salvador|website=CISPES: Committee in Solidarity with the People of El Salvador}}</ref>
+
+Sánchez Cerén has proposed the creation of a Ministry of Women. He has stated a plan for more maternity hospitals, domestic violence shelters, and expanding the Centros Ciudad Mujer, translated as "City of Women Centers," which provides services and healthcare to women.<ref name=fmlncampaign/>
+
+===Nationalist Republican Alliance===
+Quijano has primarily focused on reforming the economy for higher employment and stronger economic growth. He proposes to encourage the financing of small businesses and to help them make stronger returns. He wants legal reforms in the labor market to provide more mobility and flexibility for youth. Also, he has promoted laws for equal pay for women. He desires to see the government invest through public-private partnerships in building ports, airports, irrigation systems, railways, and highways to encourage intranational and international. He has proposed reforming the Ministry of Agriculture to provide more funding to farmers, help establish new farming technologies, facilitating the marketing of their products on the global market, and create a "true agro-export industry.<ref>{{cite web |title=Norman Quijano Presidente |url=http://www.normanquijano.com/ |website=normanquijano.com |access-date=10 July 2022 |archive-url=https://web.archive.org/web/20140221091507/http://www.normanquijano.com/ |archive-date=21 February 2014 |language=es |url-status=dead}}</ref>
+
+===Unity Movement===
+On 14 October, Saca selected former ARENA politician Francisco Laínez, who defected from ARENA in March. He served as Minister of Foreign Relations during Saca's presidency. Saca praised Laínez's record in foreign political and economic relations.<ref>{{cite web|url=http://www.cispes.org/blog/electoral-update-unity-vp-pick-spells-arena-vs-arena-vs-fmln-winter/|title=Electoral Update: UNITY VP pick Spells ARENA vs. ARENA vs. FMLN this Winter - CISPES: Committee in Solidarity with the People of El Salvador|website=CISPES: Committee in Solidarity with the People of El Salvador}}</ref><ref>{{cite web|url=http://www.thefreelibrary.com/El+Salvador's+Ex-President+Antonio+Saca+to+compete+for+his+old+job.-a0323658020|title=El Salvador's Ex-President Antonio Saca to compete for his old job. - Free Online Library|website=www.thefreelibrary.com}}</ref>
+
+Saca announced that as president, he would intend to cut "red tape" for international investment through cutting cumbersome paperwork. He has stated that his policies will create employment for young people in the private sector. He has proposed continuing social investments in healthcare begun under the FMLN, such as the Centros Ciudad Mujer. He states his administration will support Salvadorans abroad and will fight for [[History of laws concerning immigration and naturalization in the United States|immigration reform in the United States]]. Part of his platform includes developing a Vice Ministry of Livestock within the Ministry of Agriculture, aiming to support the dairy and livestock industries. He has promoted a program called "Semilla Mejorada," or "Improved Seed", which would decrease regulations regarding pesticides, insecticides, and would finance the introduction of newer agricultural equipment. Also, he had discussed founding a "land bank" to provide credit to farmers.<ref name=unidadcampaign>http://tonysaca.sv {{webarchive|url=https://web.archive.org/web/20130912011758/http://tonysaca.sv/ |date=2013-09-12 }}</ref> Despite his efforts to go back to power, on 2 February the candidate came third with only 11.4% of the votes and was not able to continue the presidential race on the second round.<ref>{{cite web|url=https://www.bbc.co.uk/news/world-latin-america-26014800|title=El Salvador poll to go into run-off|work=BBC News |date=3 February 2014|publisher=}}</ref>
+
+===Debates===
+On 12 January, Quijano, Sánchez Cerén, Saca, Óscar Lemus of the [[Salvadoran Patriotic Fraternity]] (FPS), and René Rodríguez Hurtado of the Salvadoran Progressive Party (PPS) had their first debate ahead of the presidential election. The debate was moderated by Mexican journalist Armando Guzmán of ''[[Univision]]''. Observers were critical of the debate. Roberto Rubio of El Salvador’s National Foundation for Development said: “It wasn’t really a debate. In a debate, there’s confrontation between ideas, and argument against argument." [[Mauricio Funes|President Mauricio Funes]] even described the debate as "more of the same."<ref>{{cite web|url=http://www.as-coa.org/blogs/2014-election-blog-breaking-down-el-salvadors-first-presidential-debate|title=2014 Election Blog: Breaking Down El Salvador's First Presidential Debate - AS/COA|website=AS/COA |date=13 January 2014 }}</ref>
+
+==Opinion polls==
+===First round===
+
+{| class="nowrap wikitable" style="text-align:center;font-size:85%;line-height:14px"
+|- style="vertical-align:bottom"
+! rowspan="2" |Pollster 
+! rowspan="2" |Date
+! rowspan="2" |Sample size
+! style="width:5em" | [[Salvador Sánchez Cerén|Sánchez]]<br>{{small|[[Farabundo Martí National Liberation Front|FMLN]]}}
+! style="width:5em" | [[Norman Quijano|Quijano]]<br>{{small|[[Nationalist Republican Alliance|ARENA]]}}
+! style="width:5em" | [[Antonio Saca|Saca]]<br>{{small|[[Unity Movement|UNIDAD]]}}
+! rowspan="2" style="width:5em" | Others
+! rowspan="2" style="width:5em" | Unsure/<br>No ans.
+! rowspan="2" |Lead 
+|-
+! style="background:{{party color|Farabundo Martí National Liberation Front}}" |
+! style="background:{{party color|Nationalist Republican Alliance}}" |
+! style="background:{{party color|Unity Movement}}" |
+|-style="background:#D5D5D5;"
+| First round
+| 2 February 2014
+| –
+| style="background:#ffb7b7;font-weight:bold" |48.93%
+| 38.96%
+| 11.44%
+| 0.67%
+| –
+| style=background:#D3252F;color:white|9.97%
+|-
+| IUDOP-UCA<ref name=UCA>{{cite web |title=Instituto Universitario de Opinión Pública |url=http://www2.uca.edu.sv/publica/iudop/archivos/boletin1_2014.pdf |publisher=Central American University |access-date=11 July 2022 |language=es}}</ref>
+| 4–9 Jan 2014
+| 1,580
+| style="background:#ffb7b7;font-weight:bold" |37.2%
+| 30.5%
+| 21.2%
+| 1.9%
+| 9.2%
+| style=background:#D3252F;color:white|6.7%
+|-
+| Mitofsky<ref>{{cite news |author1=Nelson Renteria |title=El Salvador opposition party leads tight election race: poll |url=https://www.reuters.com/article/us-elsalvador-election-idUSBREA0D04C20140114 |access-date=11 July 2022 |work=Reuters |date=14 January 2014 |archive-url=https://web.archive.org/web/20190709203749/https://www.reuters.com/article/us-elsalvador-election-idUSBREA0D04C20140114 |archive-date=9 July 2019|url-status=live |location=[[San Salvador]]}}</ref>
+| 3–5 Jan 2014
+| –
+| 31.8%
+| style="background:#b2d1ea;font-weight:bold" |35.5%
+| 16%
+| –
+| –
+| style=background:#234B9A;color:white|3.7%
+|-
+| CS-Sondea<ref>{{cite news |title=FMLN 44.6%, ARENA 39.2% y UNIDAD 13.9% según encuesta CS-Sondea |url=http://lapagina.com.sv/nacionales/90637/2013/12/11/FMLN-446-ARENA-392-y-UNIDAD-139-segun-encuesta-CS-Sondea |access-date=11 July 2022 |work=La Página |archive-url=https://web.archive.org/web/20131215072556/http://lapagina.com.sv/nacionales/90637/2013/12/11/FMLN-446-ARENA-392-y-UNIDAD-139-segun-encuesta-CS-Sondea |archive-date=15 December 2013 |language=es}}</ref>
+| 27 Nov–8 Dec 2013
+| 7,284
+| style="background:#ffb7b7;font-weight:bold" |39.1%
+| 34.2%
+| 15.8%
+| 1.2%
+| 9.7%
+| style=background:#D3252F;color:white|4.9%
+|-
+| Data Research<ref name=dr3>{{cite news |author1=Israel Serrano |title=FMLN 31.1%, UNIDAD 26.9% y ARENA 26.2%, según encuesta Data Research |url=https://www.lapagina.com.sv/nacionales/90293/2013/12/02/FMLN-311-UNIDAD-269-y-ARENA-262-segun-encuesta-Data-Research |access-date=11 July 2022 |work=La Página |archive-url=https://web.archive.org/web/20140210124954/https://www.lapagina.com.sv/nacionales/90293/2013/12/02/FMLN-311-UNIDAD-269-y-ARENA-262-segun-encuesta-Data-Research |archive-date=10 February 2014 |language=es}}</ref> 
+| 23–25 Nov 2013
+| 1,248
+| 27.6%
+| style="background:#b2d1ea;font-weight:bold" |27.8%
+| 24%
+| –
+| –
+| style=background:#234B9A;color:white|0.2%
+|-
+| CIOPS<ref>{{cite web |title=Instituto Universitario de Opinión Pública |url=http://www2.uca.edu.sv/publica/iudop/archivos/boletin2_2013.pdf |publisher=Central American University |access-date=11 July 2022 |language=es}}</ref>
+| 9–20 Nov 2013
+| 1,526
+| style="background:#ffb7b7;font-weight:bold" |38.4%
+| 33.4%
+| 16.6%
+| 2.1%
+| 5.0%
+| style=background:#D3252F;color:white|5%
+|-
+| Data Research<ref name=dr2>{{cite news |author1=Antonio Merala |title=Sánchez Cerén 30.4%, Tony Saca 25.5% y Quijano 25.2% según Data Research |url=http://lapagina.com.sv/nacionales/87873/2013/10/08/Sanchez-Ceren-304-Tony-Saca-255-y-Quijano-252--segun-Data-Research |access-date=11 July 2022 |work=La Página |archive-url=https://web.archive.org/web/20131010054751/http://lapagina.com.sv/nacionales/87873/2013/10/08/Sanchez-Ceren-304-Tony-Saca-255-y-Quijano-252--segun-Data-Research |archive-date=10 October 2013 |language=es}}</ref>
+| 28 Sept–1 Oct 2013
+| 1,287
+| style="background:#ffb7b7;font-weight:bold" |30.4%
+| 25.2%
+| 25.5%
+| 1.8%
+| 15.6%
+| style=background:#D3252F;color:white|4.9%
+|-
+| Data Research<ref name=dr1>{{cite news |author1=Antonio Merala |title=Data Research: Sánchez Cerén 29.2%, Saca 27.8%, Quijano 27.4% |url=http://lapagina.com.sv/nacionales/85849/2013/08/21/Data-Research-Sanchez-Ceren-292-Saca-278-Quijano-274 |access-date=11 July 2022 |work=La Página |archive-url=https://web.archive.org/web/20130823170607/https://www.lapagina.com.sv/nacionales/85849/2013/08/21/Data-Research-Sanchez-Ceren-292-Saca-278-Quijano-274 |archive-date=23 August 2013 |language=es}}</ref>
+| 16–19 Aug 2013
+| 1,330
+| style="background:#ffb7b7;font-weight:bold" |29.2%
+| 27.4%
+| 27.8%
+| 1.5%
+| 14%
+| style=background:#D3252F;color:white|1.4%
+|-
+| CS-Sondea<ref>{{cite news |author1=Israel Serrano |title=Encuesta CS Sondea: Sánchez Cerén 34.5%, Quijano 26.9% y Saca 21.7% |url=http://www.lapagina.com.sv/nacionales/85377/2013/08/09/Encuesta-CS-Sondea-Sanchez-Ceren-345-Quijano-269-y-Saca-217 |access-date=11 July 2022 |work=La Página |archive-url=https://web.archive.org/web/20160304204752/http://www.lapagina.com.sv/nacionales/85377/2013/08/09/Encuesta-CS-Sondea-Sanchez-Ceren-345-Quijano-269-y-Saca-217 |archive-date=4 March 2016 |language=es}}</ref>
+| 20–27 July 2013
+| 1,284
+| style="background:#ffb7b7;font-weight:bold" |34.5%
+| 26.9%
+| 21.7%
+| –
+| –
+| style=background:#D3252F;color:white|7.6%
+|-
+| Mitofsky<ref>{{cite news |title=Cerrada lucha entre ARENA y el FMLN según Mitofsky |url=https://www.elsalvador.com/mwedh/nota/nota_completa.asp?idCat=47673&idArt=8057860 |access-date=11 July 2022 |work=elsalvador.com |date=22 July 2013 |archive-url=https://web.archive.org/web/20130723115627/https://www.elsalvador.com/mwedh/nota/nota_completa.asp?idCat=47673&idArt=8057860 |archive-date=23 July 2013 |language=es}}</ref>
+| 12–14 July 2013
+| 1,000
+| 32%
+| style="background:#b2d1ea;font-weight:bold" |33%
+| 18%
+| 2%
+| –
+| style=background:#234B9A;color:white|1%
+|-
+| rowspan="2" |JABES<ref>{{cite news |author1=José Zometa |title=Según encuesta JABES, disputa cerrada por las presidenciales del 2014 |url=https://www.elsalvador.com/mwedh/nota/nota_completa.asp?idCat=47673&idArt=8050241 |access-date=11 July 2022 |work=elsalvador.com |date=19 July 2013 |archive-url=https://web.archive.org/web/20160307210727/http://www.elsalvador.com/articulo/nacional/segun-encuesta-jabes-disputa-cerrada-por-las-presidenciales-del-2014-38535 |archive-date=7 March 2016 |language=es}}</ref>
+| rowspan="2" |6–9 July 2013
+| rowspan="2" |1,204
+| style="background:#ffb7b7;font-weight:bold" |28.9%
+| 27.8%
+| 27.1%
+| 0.5%
+| 15.7%
+| style=background:#D3252F;color:white|1.1%
+|-
+| style="background:#ffb7b7;font-weight:bold" |29.9%
+| 28.9%
+| 27.7%
+| 0.52%
+| –
+| style=background:#D3252F;color:white|1%
+|-
+| CS-Sondea<ref>{{cite news |title=FMLN y Sánchez Cerén consolidan su ventaja sobre ARENA: CS-Sondea |url=http://www.diariocolatino.com/es/20130709/nacionales/117694/FMLN-y-S%C3%A1nchez-Cer%C3%A9n-consolidan--su-ventaja-sobre-ARENA-CS-Sondea.htm |access-date=11 July 2022 |work=Diario Co Latino |date=9 July 2013 |archive-url=https://web.archive.org/web/20130715022225/http://www.diariocolatino.com/es/20130709/nacionales/117694/FMLN-y-Sánchez-Cerén-consolidan--su-ventaja-sobre-ARENA-CS-Sondea.htm |archive-date=15 July 2013 |language=es}}</ref>
+| June 2013
+| –
+| style="background:#ffb7b7;font-weight:bold" |34.6%
+| 28.3%
+| 24.5%
+| –
+| –
+| style=background:#D3252F;color:white|6.3%
+|-
+| CID-Gallup<ref>{{cite news|url=http://www.laprensagrafica.com/cid-gallup--el-67--de-la-poblacion-aprueba-gestion-de-funes|title=CID-GALLUP: El 67% de la población aprueba gestión de Funes|date=30 May 2013|work=La Prensa Grafica|accessdate=12 July 2013|archive-url=https://web.archive.org/web/20140221160501/http://www.laprensagrafica.com/cid-gallup--el-67--de-la-poblacion-aprueba-gestion-de-funes|archive-date=21 February 2014|url-status=dead|language=es}}</ref>
+| 30 May 2013
+| –
+| style="background:#ffb7b7;font-weight:bold" |31%
+| style="background:#b2d1ea;font-weight:bold" |31%
+| 22%
+| –
+| –
+| Tie
+|-
+| CIOPS<ref>{{cite web |title=Instituto Universitario de Opinión Pública |url=http://www2.uca.edu.sv/publica/iudop/archivos/boletin1_2013.pdf |publisher=Central American University |access-date=11 July 2022 |language=es}}</ref>
+| 9–16 May 2013
+| 1,277
+| style="background:#ffb7b7;font-weight:bold" |36%
+| 24.9%
+| 28.0%
+| 11.1%
+| –
+| style=background:#D3252F;color:white|8%
+|- 
+| Mitofsky<ref>{{cite news |title=Cerrada contienda electoral por la presidencia 2014 |url=https://www.elsalvador.com/mwedh/nota/nota_completa.asp?idCat=47654&idArt=7821750 |access-date=11 July 2022 |work=elsalvador.com |date=15 April 2013 |archive-url=https://web.archive.org/web/20140304040617/https://www.elsalvador.com/mwedh/nota/nota_completa.asp?idCat=47654&idArt=7821750 |archive-date=4 March 2014 |language=es}}</ref>
+| 15 April 2013
+| –
+| 32%
+| style="background:#b2d1ea;font-weight:bold" |33%
+| 18%
+| –
+| –
+| style=background:#234B9A;color:white|1%
+|-
+| La Prensa Gráfica<ref>{{cite web |title=Instituto Universitario de Opinión Pública |url=http://www2.uca.edu.sv/publica/iudop/archivos/boletin4_2012.pdf |publisher=Central American University |access-date=11 July 2022}}</ref>
+| 16–23 Nov 2012
+| 1,268
+| 16.1%
+| style="background:#b2d1ea;font-weight:bold" |25.6%
+| 6.3%
+| 19.1%
+| 20.7%
+| style=background:#234B9A;color:white|9.5%
+|-
+| Mitofsky<ref>{{cite news |author1=Rafael Mendoza López |title=Mitofsky: Quijano lleva la delantera a Sánchez C. |url=https://www.elsalvador.com/mwedh/nota/nota_completa.asp?idCat=47673&idArt=7444076 |access-date=11 July 2022 |work=elsalvador.com |date=19 November 2012 |archive-url=https://web.archive.org/web/20121120091737/https://www.elsalvador.com/mwedh/nota/nota_completa.asp?idCat=47673&idArt=7444076 |archive-date=20 November 2012 |language=es}}</ref>
+| 9–11 Nov 2012
+| 1,000
+| 30%
+| style="background:#b2d1ea;font-weight:bold" | 38%
+| –
+| 21%
+| 10%
+| style=background:#234B9A;color:white|8%
+|}
+
+=== Second round ===
+
+{| class="nowrap wikitable" style="text-align:center;font-size:85%;line-height:14px"
+|- style="vertical-align:bottom"
+! rowspan="2" |Pollster 
+! rowspan="2" |Date
+! rowspan="2" |Sample size
+! style="width:5em" |[[Salvador Sánchez Cerén|Sánchez]]<br>{{small|[[Farabundo Martí National Liberation Front|FMLN]]}}
+! style="width:5em" |[[Norman Quijano|Quijano]]<br>{{small|[[Nationalist Republican Alliance|ARENA]]}}
+! rowspan="2" style="width:5em" |Unsure/<br>No ans.
+! rowspan="2" |Lead 
+|-
+! style="background:{{party color|Farabundo Martí National Liberation Front}}" |
+! style="background:{{party color|Nationalist Republican Alliance}}" |
+|-style="background:#D5D5D5;"
+| Second round
+| 9 March 2014
+| –
+| style="background:#ffb7b7;font-weight:bold" |50.11%
+| 49.89%
+| –
+| style=background:#D3252F;color:white|0.22%
+|-
+| rowspan="2" |[[Francisco Gavidia University|UFG]]<ref>{{cite news |author1=Gerardo Arbaiza |title=Ventaja de 20 puntos para el FMLN en encuesta UFG |url=http://www.contrapunto.com.sv/politica/ventaja-de-20-puntos-para-el-fmln-en-encuesta-ufg |access-date=12 July 2022 |work=Contra Punto |date=21 February 2014 |archive-url=https://web.archive.org/web/20140225132644/http://www.contrapunto.com.sv/politica/ventaja-de-20-puntos-para-el-fmln-en-encuesta-ufg |archive-date=25 February 2014 |language=es}}</ref>
+| rowspan="2" | 15–18 Feb 2014
+| rowspan="2" | 1,320
+| style="background:#ffb7b7;font-weight:bold" |60.3%
+| 39.7%
+| –
+| style=background:#D3252F;color:white|20.6%
+|-
+| style="background:#ffb7b7;font-weight:bold" |53.9%
+| 35.5%
+| 10.6%
+| style=background:#D3252F;color:white|18.4%
+|-
+| CID-Gallup<ref>{{cite web|url=http://www.lapagina.com.sv/nacionales/92920/2014/02/18/FMLN-aumenta-su-ventaja-a-16-puntos-para-segunda-vuelta-segun-CID-Gallup|work=La Página|title="FMLN aumenta su ventaja a 16 puntos para segunda vuelta, según CID-Gallup"|date=18 February 2014|access-date=18 February 2014|archive-date=27 February 2014|archive-url=https://web.archive.org/web/20140227011715/http://www.lapagina.com.sv/nacionales/92920/2014/02/18/FMLN-aumenta-su-ventaja-a-16-puntos-para-segunda-vuelta-segun-CID-Gallup|url-status=dead}}</ref>
+| 12–16 Feb 2014
+| 1,007
+| style="background:#ffb7b7;font-weight:bold" |58%
+| 42%
+| –
+| style=background:#D3252F;color:white|16%
+|-
+| IUDOP-UCA<ref name=UCA/>
+| 4–9 Jan 2014
+| 1,580
+| style="background:#ffb7b7;font-weight:bold" |46.2%
+| 39.6%
+| 6.8%
+| style=background:#D3252F;color:white|6.6%
+|-
+| Data Research<ref name=dr3/>
+| 23–25 Nov 2013
+| 1,248
+| 37.4%
+| style="background:#b2d1ea;font-weight:bold" |37.9%
+| –
+| style=background:#234B9A;color:white|0.5%
+|-
+| Data Research<ref name=dr2/>
+| 28 Sept–1 Oct 2013
+| 1,287
+| style="background:#ffb7b7;font-weight:bold" |36.5%
+| 30.4%
+| 33.1%
+| style=background:#D3252F;color:white|6.1%
+|-
+| Data Research<ref name=dr1/>
+| 16–19 August 2013
+| 1,330
+| 36.1%
+| style="background:#b2d1ea;font-weight:bold" |38%
+| 25.9%
+| style=background:#234B9A;color:white|1.9%
+|}
+
+===Other scenarios===
+
+The following polls display run-off scenarios that include Antonio Saca, who did not qualify for the second round. 
+
+====Quijano vs. Saca====
+
+{| class="nowrap wikitable" style="text-align:center;font-size:85%;line-height:14px"
+|- style="vertical-align:bottom"
+! rowspan="2" |Pollster 
+! rowspan="2" |Date
+! rowspan="2" |Sample size
+! style="width:5em" |[[Norman Quijano|Quijano]]<br>{{small|[[Nationalist Republican Alliance|ARENA]]}}
+! style="width:5em" |[[Antonio Saca|Saca]]<br>{{small|[[Unity Movement|UNIDAD]]}}
+! rowspan="2" style="width:5em" | Unsure/<br>No ans.
+! rowspan="2" |Lead 
+|-
+! style="background:{{party color|Nationalist Republican Alliance}}" |
+! style="background:{{party color|Unity Movement}}" |
+|-
+| Data Research<ref name=dr3/>
+| 23–25 Nov 2013
+| 1,248
+| 30.9%
+| style="background:#87ceeb;font-weight:bold" |32.1%
+| –
+| style=background:#2699E4;color:white|1.2%
+|-
+| Data Research<ref name=dr2/>
+| 28 Sept–1 Oct 2013
+| 1,287
+| 27.3%
+| style="background:#87ceeb;font-weight:bold" |30.9%
+| 41.8%
+| style=background:#2699E4;color:white|3.6%
+|-
+| Data Research<ref name=dr1/>
+| 16–19 August 2013
+| 1,330
+| 32.7%
+| style="background:#87ceeb;font-weight:bold" |35.3%
+| 31.9%
+| style=background:#2699E4;color:white|2.6%
+|}
+
+==== Sánchez Cerén vs. Saca ====
+
+{| class="nowrap wikitable" style="text-align:center;font-size:85%;line-height:14px"
+|- style="vertical-align:bottom"
+! rowspan="2" |Pollster 
+! rowspan="2" |Date
+! rowspan="2" |Sample size
+! style="width:5em" |[[Salvador Sánchez Cerén|Sánchez]]<br>{{small|[[Farabundo Martí National Liberation Front|FMLN]]}}
+! style="width:5em" |[[Antonio Saca|Saca]]<br>{{small|[[Unity Movement|UNIDAD]]}}
+! rowspan="2" style="width:5em" | Unsure/<br>No ans.
+! rowspan="2" |Lead 
+|-
+! style="background:{{party color|Farabundo Martí National Liberation Front}}" |
+! style="background:{{party color|Unity Movement}}" |
+|-
+| Data Research<ref name=dr3/>
+| 23–25 Nov 2013
+| 1,248
+| 33.4%
+| style="background:#87ceeb;font-weight:bold" |35%
+| –
+| style=background:#2699E4;color:white|1.6%
+|-
+| Data Research<ref name=dr2/>
+| 28 Sept–1 Oct 2013
+| 1,287
+| 28.7%
+| style="background:#87ceeb;font-weight:bold" |34.5%
+| 36.8%
+| style=background:#2699E4;color:white|5.8%
+|-
+| Data Research<ref name=dr1/>
+| 16–19 August 2013
+| 1,330
+| 33.7%
+| style="background:#87ceeb;font-weight:bold" |38.5%
+| 27.9%
+| style=background:#2699E4;color:white|4.8%
+|}
+
+==Conduct==
+ARENA and FMLN supporters briefly scuffled on voting day. Security was tightened on the day as about 4.9 million voters were eligible to cast their ballots. Sánchez Cerén said that he was "open to the participation of different sectors" and would seek to reach out to others to create "a grand national accord;" Quijano, who voted at a centre set-up at a school in western San Salvador, praising the "peaceful elections;" and Saca said that he was "optimistic" while voting. In the early hours of the day, supporters of each party set up stands with their party's colours across San Salvador and helped voters find their polling centres.<ref>{{cite web|url=http://www.aljazeera.com/news/americas/2014/02/el-salvador-votes-shadow-gang-violence-20142223123142760.html|title=El Salvador votes in shadow of gang violence|website=www.aljazeera.com}}</ref>
+
+==Results==
+{{Election results
+|cand1=[[Salvador Sánchez Cerén]]|vp1=[[Óscar Ortiz (El Salvador)|Óscar Ortiz]]|party1=[[Farabundo Martí National Liberation Front]]|votes1=1315768|votes1_2=1495815
+|cand2=[[Norman Quijano]]|vp2=[[René Portillo Cuadra]]|party2=[[Nationalist Republican Alliance]]|votes2=1047592|votes2_2=1489451
+|cand3=[[Antonio Saca]]|vp3=Francisco Lainez|party3=[[Unity Movement]]|votes3=307603
+|cand4=René Rodríguez Hurtado|vp4=Adriana Bonilla|party4=Salvadoran Progressive Party|votes4=11314
+|cand5=Óscar Lemus|vp5=Rafael Menjívar|party5=[[Salvadoran Patriotic Fraternity]]|votes5=6659
+|invalid=52138|invalid2=31692
+|electorate=4955107|electorate2=4955107
+|source=[https://www.tse.gob.sv/documentos/memoria-de-elecciones/memoria-elecciones-2014.pdf TSE], [https://www.tse.gob.sv/2014/escrutiniofinal_1ray2davuelta/pres2/pais.html TSE]
+}}
+
+===By department===
+====First round====
+{| class="wikitable sortable" style="text-align:right; font-size:97%; line-height:20px;"
+! rowspan="3"| [[Departments of El Salvador|Department]]
+! colspan="2" width="30px" class="unsortable"| [[Salvador Sánchez Cerén|Sánchez]]
+! colspan="2" width="30px" class="unsortable"| [[Norman Quijano|Quijano]]
+! colspan="2" width="30px" class="unsortable"| [[Antonio Saca|Saca]]
+! colspan="2" width="30px" class="unsortable"| Rodríguez 
+! colspan="2" width="30px" class="unsortable"| Lemus 
+|-
+!colspan="2" style="background:{{party color|Farabundo Martí National Liberation Front}}"|
+!colspan="2" style="background:{{party color|Nationalist Republican Alliance}}"|
+!colspan="2" style="background:{{party color|Unity Movement}}"|
+!colspan="2" style="background:{{party color|Salvadoran Progressive Party}}"|
+!colspan="2" style="background:{{party color|Salvadoran Patriotic Fraternity}}"|
+|-
+! data-sort-type="number"| Votes
+! data-sort-type="number"| %
+! data-sort-type="number"| Votes
+! data-sort-type="number"| %
+! data-sort-type="number"| Votes
+! data-sort-type="number"| %
+! data-sort-type="number"| Votes
+! data-sort-type="number"| %
+! data-sort-type="number"| Votes
+! data-sort-type="number"| %
+|-
+| align="left"| [[Ahuachapán Department|Ahuachapán]]
+| style="background:#D3252F; color:white"|'''69,422'''
+| style="background:#D3252F; color:white"|'''49.1'''
+| 51,507
+| 36.4
+| 19,549
+| 13.8
+| 623
+| 00.4
+| 316
+| 00.2
+|-
+| align="left"| [[Cabañas Department|Cabañas]]
+| 23,691
+| 36.3
+| style="background:#234B9A; color:white"|'''32,731'''
+| style="background:#234B9A; color:white"|'''50.2'''
+| 8,382
+| 12.9
+| 267
+| 00.4
+| 122
+| 00.2
+|-
+| align="left"| [[Chalatenango Department|Chalatenango]]
+| style="background:#D3252F; color:white"|'''43,633'''
+| style="background:#D3252F; color:white"|'''47.0'''
+| 39,494
+| 42.6
+| 9,118
+| 9.8
+| 354
+| 00.4
+| 156
+| 00.2
+|-
+| align="left"| [[Cuscatlán Department|Cuscatlán]]
+| style="background:#D3252F; color:white"|'''50,609'''
+| style="background:#D3252F; color:white"|'''44.9'''
+| 46,118
+| 40.9
+| 15,407
+| 13.7
+| 417
+| 00.4
+| 316
+| 00.2
+|-
+| align="left"| [[La Libertad Department (El Salvador)|La Libertad]]
+| style="background:#D3252F; color:white"|'''146,254'''
+| style="background:#D3252F; color:white"|'''45.1'''
+| 137,909
+| 42.5
+| 37,611
+| 11.6
+| 1,458
+| 4.5
+| 1,052
+| 00.3
+|-
+| align=left| [[La Paz Department (El Salvador)|La Paz]]
+| style="background:#D3252F; color:white"|'''67,665'''
+| style="background:#D3252F; color:white"|'''50.0'''
+| 52,585
+| 38.8
+| 14,333
+| 10.6
+| 494
+| 00.4
+| 279
+| 00.2
+|-
+| align=left|[[La Unión Department|La Unión]]
+| style="background:#D3252F; color:white"|'''49,253'''
+| style="background:#D3252F; color:white"|'''52.5'''
+| 36,638
+| 36.6
+| 7,266
+| 7.7
+| 503
+| 00.5
+| 186
+| 00.2
+|-
+| align=left|[[Morazán Department|Morazán]]
+| style="background:#D3252F; color:white"|'''42,612'''
+| style="background:#D3252F; color:white"|'''54.2'''
+| 27,785
+| 35.5
+| 7,722
+| 9.8
+| 422
+| 00.5
+| 149
+| 00.2
+|-
+| align=left|[[San Miguel Department (El Salvador)|San Miguel]]
+| style="background:#D3252F; color:white"|'''106,882'''
+| style="background:#D3252F; color:white"|'''59.1'''
+| 56,183
+| 31.1
+| 16,711
+| 9.2
+| 677
+| 00.4
+| 298
+| 00.2
+|-
+| align=left|[[San Salvador Department|San Salvador]]
+| style="background:#D3252F; color:white"|'''392,282'''
+| style="background:#D3252F; color:white"|'''47.2'''
+| 344,420
+| 41.5
+| 88,222
+| 10.6
+| 3,259
+| 00.4
+| 2,241
+| 00.3
+|-
+| align=left|[[San Vicente Department|San Vicente]]
+| style="background:#D3252F; color:white"|'''36,846'''
+| style="background:#D3252F; color:white"|'''50.6'''
+| 26,857
+| 38.7
+| 8,755
+| 12.0
+| 281
+| 00.4
+| 117
+| 00.2
+|-
+| align=left|[[Santa Ana Department|Santa Ana]]
+| style="background:#D3252F; color:white"|'''103,904'''
+| style="background:#D3252F; color:white"|'''45.9'''
+| 87,683
+| 38.7
+| 32,844
+| 14.5
+| 1,188
+| 00.5
+| 742
+| 00.3
+|-
+| align=left|[[Sonsonate Department|Sonsonate]]
+| style="background:#D3252F; color:white"|'''104,772'''
+| style="background:#D3252F; color:white"|'''54.3'''
+| 59,558
+| 30.9
+| 27,435
+| 14.2
+| 780
+| 00.4
+| 451
+| 00.2
+|-
+| align=left|[[Usulután Department|Usulután]]
+| style="background:#D3252F; color:white"|'''76,786'''
+| style="background:#D3252F; color:white"|'''55.1'''
+| 47,525
+| 34.1
+| 14,112
+| 10.1
+| 578
+| 00.4
+| 276
+| 00.2
+|-
+| align=left|[[Right of Salvadoran expatriates to vote|Exterior vote]]
+| style="background:#D3252F; color:white"|'''1,157'''
+| style="background:#D3252F; color:white"|'''60.6'''
+| 599
+| 31.4
+| 136
+| 7.1
+| 13
+| 00.7
+| 4
+| 00.2
+|-
+| style="text-align:left;" colspan="11"| Source: [http://psephos.adam-carr.net/countries/e/elsalvador/elsalvador20142.txt Psephos]
+|}
+
+====Second round====
+
+{| class="wikitable sortable" style="text-align:right; font-size:97%; line-height:20px;"
+! rowspan="3"| [[Departments of El Salvador|Department]]
+! colspan="2" width="30px" class="unsortable"| [[Salvador Sánchez Cerén|Sánchez]]
+! colspan="2" width="30px" class="unsortable"| [[Norman Quijano|Quijano]]
+|-
+!colspan="2" style="background:{{party color|Farabundo Martí National Liberation Front}}"|
+!colspan="2" style="background:{{party color|Nationalist Republican Alliance}}"|
+|-
+! data-sort-type="number"| Votes
+! data-sort-type="number"| %
+! data-sort-type="number"| Votes
+! data-sort-type="number"| %
+|-
+| align="left"| [[Ahuachapán Department|Ahuachapán]]
+| style="background:#D3252F; color:white"|'''79,795'''
+| style="background:#D3252F; color:white"|'''50.1'''
+| 79,481
+| 49.9
+|-
+| align="left"| [[Cabañas Department|Cabañas]]
+| 28,292
+| 38.6
+| style="background:#234B9A; color:white"|'''45,055'''
+| style="background:#234B9A; color:white"|'''61.4'''
+|-
+| align="left"| [[Chalatenango Department|Chalatenango]]
+| style="background:#D3252F; color:white"|'''53,248'''
+| style="background:#D3252F; color:white"|'''51.6'''
+| 50,016
+| 48.4
+|-
+| align="left"| [[Cuscatlán Department|Cuscatlán]]
+| 57,525
+| 46.3
+| style="background:#234B9A; color:white"|'''66,840'''
+| style="background:#234B9A; color:white"|'''53.7'''
+|-
+| align="left"| [[La Libertad Department (El Salvador)|La Libertad]]
+| 166,083
+| 46.5
+| style="background:#234B9A; color:white"|'''190,837'''
+| style="background:#234B9A; color:white"|'''53.5'''
+|-
+| align="left"| [[La Paz Department (El Salvador)|La Paz]]
+| style="background:#D3252F; color:white"|'''77,666'''
+| style="background:#D3252F; color:white"|'''51.4'''
+| 73,317
+| 48.6
+|-
+| align="left"| [[La Unión Department|La Unión]]
+| 55,051
+| 49.6
+| style="background:#234B9A; color:white"|'''55,991'''
+| style="background:#234B9A; color:white"|'''50.4'''
+|-
+| align="left"| [[Morazán Department|Morazán]]
+| style="background:#D3252F; color:white"|'''47,232'''
+| style="background:#D3252F; color:white"|'''53.0'''
+| 41,910
+| 47.0
+|-
+| align="left"| [[San Miguel Department (El Salvador)|San Miguel]]
+| style="background:#D3252F; color:white"|'''120,903'''
+| style="background:#D3252F; color:white"|'''58.1'''
+| 87,314
+| 41.9
+|-
+| align="left"| [[San Salvador Department|San Salvador]]
+| 439,186
+| 49.3
+| style="background:#234B9A; color:white"|'''451,176'''
+| style="background:#234B9A; color:white"|'''50.7'''
+|-
+| align="left"| [[San Vicente Department|San Vicente]]
+| style="background:#D3252F; color:white"|'''42,279'''
+| style="background:#D3252F; color:white"|'''51.6'''
+| 39,724
+| 48.4
+|-
+| align="left"| [[Santa Ana Department|Santa Ana]]
+| 121,405
+| 47.6
+| style="background:#234B9A; color:white"|'''133,606'''
+| style="background:#234B9A; color:white"|'''52.4'''
+|-
+| align="left"| [[Sonsonate Department|Sonsonate]]
+| style="background:#D3252F; color:white"|'''121,552'''
+| style="background:#D3252F; color:white"|'''56.1'''
+| 95,301
+| 43.9
+|-
+| align="left"| [[Usulután Department|Usulután]]
+| style="background:#D3252F; color:white"|'''87,350'''
+| style="background:#D3252F; color:white"|'''53.9'''
+| 74,797
+| 46.1
+|-
+| align="left"|[[Right of Salvadoran expatriates to vote|Exterior vote]]
+| style="background:#D3252F; color:white"|'''1,480'''
+| style="background:#D3252F; color:white"|'''63.3'''
+| 854
+| 36.7
+|-
+| style="text-align:left;" colspan="5"| Source: Psephos 
+|}
+
+==Reactions==
+After voting ended in the first round, Sánchez Cerén said: "We won the first round ... we are sure that in the second round we will win by more than 10 points. We are going to work in the coming days to further unite," he added. "We are going to build new understandings, new alliances"<ref name="react"/> and "more than ever we need a new national accord, so that we do not have partisan policies but policies that are backed by all the people of El Salvador." He also attended a mass earlier on the day at the chapel where Archbishop [[Óscar Romero]] was assassinated prior to the [[Salvadoran Civil War]].<ref name="guard">{{cite web|url=https://www.theguardian.com/world|title=This page has been removed - News|publisher=|via=www.theguardian.com}}</ref> [[Central American University (San Salvador)|Universidad Centroamericana]] estimated that Saca's supporters were likely to vote for Quijano in the run-off, but about 25 percent would support Sánchez Cerén and thus enable him to win the presidency.<ref name="react"/>
+
+==Notes==
+{{reflist|group=lower-alpha}}
+
+==References==
+{{reflist}}
+
+{{Portal bar|El Salvador|Politics}}
+{{Salvadoran elections}}
+{{Authority control}}
+
+[[Category:2014 elections in Central America|Salvadoran presidential election]]
+[[Category:2014 in El Salvador|Presidential election]]
+[[Category:Presidential elections in El Salvador|2014]]
+[[Category:February 2014 in North America|Salvadoran presidential election]]
+[[Category:March 2014 in North America|Salvadoran presidential election]]

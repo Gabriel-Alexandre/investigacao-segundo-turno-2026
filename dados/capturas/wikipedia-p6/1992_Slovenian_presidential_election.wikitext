@@ -1,0 +1,62 @@
+{{Short description|none}}
+{{Use dmy dates|date=July 2025}}
+{{Infobox election
+| country = Slovenia
+| type = presidential
+| previous_election = 1990 Slovenian presidential election
+| previous_year = 1990
+| next_election = 1997 Slovenian presidential election
+| next_year = 1997
+| election_date = 6 December 1992
+
+| image1 = Milan KUCAN, Klaus HANSCH EP President (cropped).jpg
+| nominee1 = '''[[Milan Kučan]]'''
+| party1 = Independent politician
+| popular_vote1 = '''795,012'''
+| percentage1 = '''63.93%'''
+
+| image2 = Ivan Bizjak 2011.jpg
+| nominee2 = [[Ivan Bizjak]]
+| party2 = Slovene Christian Democrats
+| popular_vote2 = 262,847
+| percentage2 = 21.14%
+
+| image3 = Jelko Kacin 2013 (2) (cropped).jpg
+| nominee3 = [[Jelko Kacin]]
+| party3 = [[Democratic Party of Slovenia|DSS]]
+| popular_vote3 = 90,711
+| percentage3 = 7.29%
+
+| title = [[President of Slovenia|President]]
+| before_election = [[Milan Kučan]]
+| before_party = Independent politician
+| after_election = [[Milan Kučan]]
+| after_party = Independent politician
+}}{{Politics of Slovenia}}
+
+Presidential elections were held in [[Slovenia]] on 6 December 1992. The result was a victory for incumbent [[Milan Kučan]], who won 63.93% of the vote. Voter turnout was 85.78%.<ref>[http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/SIPR19921_Display&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/SIPR19921_Display_C1&top=yes Dataset: Slovenia: Presidential Election 1992] {{Webarchive|url=https://web.archive.org/web/20190306015605/http://eed.nsd.uib.no/webview/index.jsp?study=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfStudy%2FSIPR19921_Display&mode=cube&v=2&cube=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfCube%2FSIPR19921_Display_C1&top=yes |date=6 March 2019 }} European Elections Database</ref>
+
+==Results==
+{{Election results
+|cand1=[[Milan Kučan]]|party1=Independent|votes1=795012
+|cand2=[[Ivan Bizjak]]|party2=[[Slovene Christian Democrats]]|votes2=262847
+|cand3=[[Jelko Kacin]]|party3=[[Democratic Party of Slovenia|Democratic Party]]|votes3=90711
+|cand4=Stanislav Buser|party4=[[Slovenian People's Party]]|votes4=24051
+|cand5=Darja Lavtižar-Bebler|party5=[[Socialist Party of Slovenia]]|votes5=22691
+|cand6=Alenka Žagar-Slana|party6=[[National Democratic Party (Slovenia)|National Democratic Party]]|votes6=21603
+|cand7=[[Ljubo Sirc]]|party7=[[Liberal Democracy of Slovenia|Liberal Democratic Party]]|votes7=18774
+|cand8=France Tomšič|party8=[[Slovenian Democratic Party|Social Democratic Party of Slovenia]]|votes8=7849
+|invalid=35817
+|electorate=1491374
+|source=[https://web.archive.org/web/20110815124035/http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/SIPR19921_Display&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/SIPR19921_Display_C1&top=yes European Elections Database]
+}}
+
+==References==
+{{reflist}}
+
+{{Slovenian elections}}
+
+[[Category:1992 elections in Europe|Slovenia]]
+[[Category:1992 in Slovenia]]
+[[Category:Presidential elections in Slovenia]]
+[[Category:December 1992 in Europe]]

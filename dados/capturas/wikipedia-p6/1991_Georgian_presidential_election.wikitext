@@ -1,0 +1,115 @@
+{{Short description|none}}
+{{Infobox election
+| country = Georgia
+| flag_year = 1990
+| type = presidential
+| next_election = 1992 Georgian general election
+| next_year = 1992
+| election_date = 26 May 1991
+| image1 = Гамсахурдіа (cropped).jpg
+| nominee1 = '''[[Zviad Gamsakhurdia]]'''
+| party1 = Round Table—Free Georgia
+| popular_vote1 = '''2,565,362'''
+| percentage1 = '''87.58%'''
+| image2 = 3x4.svg
+| nominee2 = {{ill|Valerian Advadze|ka|ვალერიან ადვაძე}}
+| colour2 = 77C9F1
+| party2 = Concord, Peace, Revival Bloc
+| popular_vote2 = 240,243
+| percentage2 = 8.20%
+| title = [[President of Georgia|President]]
+| before_election = [[Zviad Gamsakhurdia]]
+| before_party = Round Table—Free Georgia
+| after_election = [[Zviad Gamsakhurdia]]
+| after_party = Round Table—Free Georgia
+}}{{Politics of Georgia (country)}}
+
+Presidential elections were held in [[Georgia (country)|Georgia]] on 26 May 1991.<ref>[[Dieter Nohlen]], Florian Grotz & Christof Hartmann (2001) ''Elections in Asia: A data handbook, Volume I'', p382 {{ISBN|0-19-924958-X}}</ref> The result was a victory for [[Zviad Gamsakhurdia]] of the [[Round Table-Free Georgia]] party, who received 88% of the vote, with an 83% turnout.<ref>Nohlen ''et al.'', p401</ref>
+
+==Background==
+The position of President of the Republic was introduced on 14 April by the Supreme Council at the request of [[Zviad Gamsakhurdia]]. On the same day the Supreme Council elected Gamsakhurdia as interim president.<ref>{{Cite book |last=Ჯონსი |first=Სტივენ |url=https://dspace.nplg.gov.ge/handle/1234/79960 |title=საქართველო |date=2013 |publisher=თბილისი : სოციალურ მეცნიერებათა ცენტრი |isbn=978-9941-0-5972-8 |language=ka}}</ref>
+
+On 14 April the Supreme Council also issued a decree that presidential elections would be held based on universal, equal, and direct voting by secret ballot on 26 May. The decree instructed the Central Election Commission to ensure the conduct of the presidential elections. 
+
+Archil Chirakadze was appointed as the Chairman of the Central Election Commission, and L. Chirakadze served as the Secretary of the commission. The Central Election Commission established the schedule for the presidential elections, which included the submission of applications to nominate candidates, the submission of supporter lists for presidential candidates, the review and correction of those lists, the completion of candidate registration, and the conduct of election campaigns.
+
+On 18 April the law governing the presidential elections was adopted.
+
+==Electoral system==
+The elections were held using the [[two-round system]] and required voter turnout to be at least 50% to validate the result.
+
+==Candidates==
+On 24 April the Central Election Commission convened to discuss presidential candidates, announcing nine candidates. All nominated presidential candidates were granted the right to collect lists of supporting voters. According to the law, these lists, which needed at least 10,000 signatures from voters, had to be submitted to the Central Election Commission for the registration of presidential candidates no later than 2 May at 22:00.
+
+It was noted at the commission meeting that the application for Jaba Ioseliani to be a presidential candidate was not received from the group of voters because it was submitted after the Supreme Council adopted amendments to the law "On Elections of the President of the Republic of Georgia." According to this amendment, individuals against whom preventive measures, such as imprisonment, had been applied were prohibited from participating in the elections. Consequently, the initiative group nominating this candidacy was not permitted to collect lists of supporting voters.
+
+On 26 April the Central Election Commission held another meeting to discuss the initiative group's application to nominate Jaba Ioseliani as a presidential candidate. The statement alleged that incorrect information regarding the deadline for submitting the necessary documents was conveyed through the mass media, and the commission had made an illegal decision since the amendment to the law "On Elections of the President of the Republic of Georgia" was enacted after the application had been submitted. The group argued that the amendment contradicted the Constitution of the Republic of Georgia.
+
+The Central Election Commission reaffirmed the legality of its earlier decision and explained that the application to nominate Jaba Ioseliani as a presidential candidate was presented to the commission on 23 April, in the afternoon, after the amendment to the election law was enacted. The document submitted on 22 April was incomplete, lacking the candidate's consent to run and a copy of his birth certificate. Therefore, the Election Commission did not recognize Jaba Ioseliani's candidacy on 22 April which was communicated to the initiative group.
+
+By the end of the registration process for the presidential elections, six candidates were identified:
+
+{| class="wikitable" style="text-align:center"
+! colspan="3" |Candidate
+!Party
+|-
+| style="background:lavender;" |[[File:Гамсахурдіа (cropped).jpg|120x120px]]
+|'''[[Zviad Gamsakhurdia]]'''
+| style="background-color:{{party color|Independent politician}};" |
+|[[Round Table—Free Georgia|Round Table - Free Georgia]]
+|-
+| style="background:lavender;" | 
+|'''Irakli Shengelaia'''
+| style="background-color:#FF403D;" |
+|Freedom Bloc
+|-
+| style="background:lavender;" | 
+|'''Jemal Mikeladze'''
+| style="background-color:{{party color|Liberal Democratic Party of Russia}};" |
+|[[Communist Party of Georgia (Soviet Union)|Communist Party of Georgia]]
+|-
+| style="background:lavender;" | 
+|'''Valerian Advadze'''
+| style="background-color:{{party color|Communist Party of the Russian Federation}};" |
+|Concord, Peace, Revival Bloc
+|-
+| style="background:lavender;" | 
+|'''Tamaz Kvachantiradze'''
+| style="background-color:#FFC130;" |
+|Democratic Georgia Bloc
+|-
+| style="background:lavender;" | 
+|'''[[Nodar Natadze]]'''
+| style="background-color:#1F3C79;" |
+|[[People's Front (Georgia)|People's Front]]
+|}
+
+Roin Liparteliani was refused registration because fewer than 10,000 signatures from his supporters were submitted to the Central Election Commission by the established deadline. Givi Korghanashvili withdrew his candidacy before presenting the required signatures. Kartlos Gharibashvili did not submit any supporting signatures to the Central Election Commission.
+
+==Conduct==
+Presidential elections were held without hindrance in the [[Abkhaz Autonomous Soviet Socialist Republic|Abkhazian ASSR]]. Polling stations were established in the Russian cities of Moscow and Leningrad to facilitate the presidential elections of the Republic of Georgia.
+
+International supervisors were invited to observe the presidential elections in Georgia and stated that the elections expressed free will and proceeded according to universally accepted democratic norms. They reported that there were no instances of voter influence or obstruction of the electoral process, although some supervisors noted minor deviations and violations that did not impact the overall electoral process, voting, or the final election results. Given the limited experience with democratic elections in Georgia, the supervisors deemed the organization of the elections to be excellent.
+
+==Results==
+{{Election results
+|cand1=[[Zviad Gamsakhurdia]]|party1=[[Round Table—Free Georgia]]|votes1=2565362
+|cand2={{ill|Valerian Advadze|ka|ვალერიან ადვაძე}}|party2=Concord, Peace, Revival Bloc|votes2=240243|color2=#77C9F1
+|cand3=Jemal Mikeladze|party3=[[Communist Party of Georgia (Soviet Union)|Communist Party of Georgia]]|votes3=51717
+|cand4=[[Nodar Natadze]]|party4=[[People's Front (Georgia)|People's Front]]|votes4=36266
+|cand5={{ill|Irakli Shengelaia|ka|ირაკლი შენგელაია}}|party5=[[Freedom Bloc]]|votes5=26886
+|cand6={{ill|Tamaz Kvachantiradze|ka|თამაზ კვაჭანტირაძე}}|party6=Democratic Georgia Bloc|votes6=8553
+|invalid=39918
+|electorate=3594810
+|source=Nohlen ''et al''.
+}}
+
+==References==
+{{reflist}}
+
+{{Georgian elections}}
+
+[[Category:Presidential elections in Georgia (country)]]
+[[Category:1991 in Georgia (country)|President]]
+[[Category:1991 elections in Asia|Georgia]]
+[[Category:1991 elections in Europe|Georgia]]

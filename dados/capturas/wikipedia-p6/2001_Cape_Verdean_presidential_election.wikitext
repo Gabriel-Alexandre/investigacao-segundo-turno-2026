@@ -1,0 +1,60 @@
+{{Short description|Election of Pedro Pires}}
+{{Infobox election
+| country = Cape Verde
+| type = presidential
+| previous_election = 1996 Cape Verdean presidential election
+| previous_year = 1996
+| next_election = 2006 Cape Verdean presidential election
+| next_year = 2006
+| election_date = 11 February 2001 (first round)<br/>25 February 2001 (second round)
+| registered = 260,209
+| opinion_polls = 
+| turnout = 51.68% (first round)<br/>58.95% (second round)
+| image1 = Secretary Alphonso Jackson with Pedro Pires (cropped).jpg
+| nominee1 = '''[[Pedro Pires]]'''
+| party1 = African Party for the Independence of Cape Verde
+| popular_vote1 = '''75,828'''
+| percentage1 = '''50.01%'''
+| image2 = Carlos Veiga 1998 (2).png
+| nominee2 = [[Carlos Veiga]]
+| party2 = Movement for Democracy (Cape Verde)
+| popular_vote2 = 75,811
+| percentage2 = 49.99%
+| title = [[List of heads of state of Cape Verde|President]]
+| before_election = [[António Mascarenhas Monteiro]]
+| before_party = African Party for the Independence of Cape Verde
+| after_election = [[Pedro Pires]]
+| after_party = African Party for the Independence of Cape Verde
+| map = {{Switcher
+| [[File:Elecciones presidenciales de Cabo Verde, 2001 (primera vuelta).svg|300px]]
+| First round results by municipality
+| [[File:Elecciones presidenciales de Cabo Verde, 2001 (segunda vuelta).svg|300px]]
+| Second round results by municipality|default=2}}
+}}{{Politics of Cape Verde}}
+
+Presidential elections were held in [[Cape Verde]] on 11 February 2001, with a second round on 25 February after no candidate achieved outright victory in the first round. The result was a victory for [[Pedro Pires]] of the [[African Party for the Independence of Cape Verde]], who defeated [[Carlos Veiga]] of the [[Movement for Democracy (Cape Verde)|Movement for Democracy]] by just 17 votes. This makes it one of the closest elections results in history. Pires, a former Prime Minister, took office on 22 March 2001, replacing [[António Mascarenhas Monteiro]], who stood down after completing two terms in office.
+
+==Results==
+{{Election results
+|cand1=[[Pedro Pires]]|party1=[[African Party for the Independence of Cape Verde]]|votes1=61646|votes1_2=75828
+|cand2=[[Carlos Veiga]]|party2=[[Movement for Democracy (Cape Verde)|Movement for Democracy]]|votes2=60719|votes2_2=75811
+|cand3=[[Jorge Carlos Fonseca]]|party3=[[Democratic Alliance for Change]]|votes3=5142
+|cand4=David Hopffer Almada|party4=Independent|votes4=4989
+|invalid=1642
+|invalid2=1146
+|blank=357
+|blank2=622
+|electorate=260221
+|electorate2=260209
+|source=Boletim Oficial<ref>{{Cite web |date=19 February 2001 |title=Boletim Oficial da República de Cabo Verde, Serie II, No. 8 |url=https://drive.google.com/file/d/11lSBuFxutO7JHuRrB58AYtHQ03jQnKs-/view |website=Boletim Oficial da República de Cabo Verde |page=2–3}}</ref><ref>{{Cite web |date=5 March 2001 |title=Boletim Oficial da República de Cabo Verde, Serie II, No. 10 |url=https://drive.google.com/file/d/1qzYbocsAgZBvv50LFjb1564KU8QzVVGF/view |website=Boletim Oficial da República de Cabo Verde |page=2–3}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+{{Cape Verdean elections}}
+
+[[Category:2001 elections in Africa|Cape Verde]]
+[[Category:Presidential elections in Cape Verde]]
+[[Category:2001 in Cape Verde|Presidential]]
+[[Category:February 2001 in Africa|Cape Verde]]

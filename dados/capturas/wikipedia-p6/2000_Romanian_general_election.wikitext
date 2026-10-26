@@ -1,0 +1,425 @@
+{{short description|none}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox election
+| election_name = 2000 Romanian general election
+| country = Romania
+| ongoing = no
+| party_color = no
+| previous_election = 1996 Romanian general election
+| previous_year = 1996
+| next_election = 2004 Romanian general election
+| next_year = 2004
+| module = {{Infobox election
+| embed= yes
+| election_name=Presidential election
+| type = presidential
+| election_date = 26 November 2000 (first round)<br /> 10 December 2000 (second round)
+| turnout = 65.31% (first round) {{decrease}}10.70[[percentage points|pp]]<br />57.50% (second round) {{decrease}}18.40[[percentage points|pp]]
+
+| image1 = Ion Iliescu - Sep 2003.jpg
+| nominee1 = '''[[Ion Iliescu]]'''
+| party1 = [[Social Democratic Party (Romania)|PSD]]
+| alliance1 = [[Social Democratic Pole of Romania|PDSR]]
+| popular_vote1 = '''6,696,623'''
+| percentage1 = '''66.83%'''
+| image2 = Corneliu Vadim Tudor - Declaratii la BEC.png
+| nominee2 = [[Corneliu Vadim Tudor]]
+| party2 = Greater Romania Party
+| popular_vote2 = 3,324,247
+| percentage2 = 33.17%
+
+| map = {{Switcher|[[File:2000 Romanian presidential election 1st round.svg|300px]]|First round results|[[File:2000 Romanian presidential election 2nd round.svg|300px]]|Second round results|default = 2}}
+{{col-begin}}
+{{col-3}}
+'''Iliescu:'''
+{{legend|#fbd9dc|30–40%}}
+{{legend|#f0abb0|40–50%}}
+{{legend|#ea7982|50–60%}}
+{{legend|#e04350|60–70%}}
+{{legend|#cb1d2b|70–80%}}
+{{legend|#ab000e|80–90%}}
+{{legend|#81000b|>90%}}
+{{col-3}}
+'''Tudor:'''
+{{legend|#eef7fc|20–30%}}
+{{legend|#dceff8|30–40%}}
+{{legend|#b0d5e6|40–50%}}
+{{legend|#87bfd9|50–60%}}
+{{col-3}}
+'''Frunda:'''
+{{legend|#d4efd0|30–40%}}
+{{legend|#0e8d00|70–80%}}
+{{legend|#0b6f00|80–90%}}
+{{col-end}}
+
+| title = [[President of Romania|President]]
+| before_election = [[Emil Constantinescu]]
+| after_election = [[Ion Iliescu]]
+| before_party = Romanian Democratic Convention
+| after_party = [[Social Democratic Party (Romania)|PDSR]]
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| election_date = 26 November 2000
+| seats_for_election = All 345 seats in the [[Chamber of Deputies (Romania)|Chamber of Deputies]]
+| turnout = 65.31%
+
+| party1 = Social Democratic Pole of Romania
+| leader1 = [[Ion Iliescu]]
+| percentage1 = 36.61
+| seats1 = 155
+| last_election1 = 91
+| party2 = Greater Romania Party
+| leader2= [[Corneliu Vadim Tudor]]
+| percentage2 = 19.48
+| seats2 = 84
+| last_election2 = 19
+| party3 = Democratic Party (Romania)
+| leader3 = [[Petre Roman]]
+| percentage3 = 7.03
+| seats3 = 31
+| last_election3 = 43
+| party4 = National Liberal Party (Romania)
+| leader4 = {{Nowrap|[[Mircea Ionescu-Quintus]]}}
+| percentage4 = 6.89
+| seats4 = 30
+| last_election4 = 33
+| party5 = Democratic Alliance of Hungarians in Romania
+| leader5 = [[Béla Markó]]
+| percentage5 = 6.80
+| seats5 = 27
+| last_election5 =25
+| party6 = Romanian ethnic minority parties
+| leader6 = [[:ro:Varujan Pambuccian|Varujan Pambuccian]]{{efn|Pambuccian, a member of the [[Union of Armenians of Romania]], has been the parliamentary leader of the national minorities' group since 1996.}}
+| percentage6 = 2.57
+| seats6 = 18
+| last_election6 = 15
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Senate
+| election_date = 26 November 2000
+| seats_for_election = All 140 seats in the [[Senate of Romania|Senate]]
+| turnout = 65.31%
+
+| party1 = Social Democratic Pole of Romania
+| leader1 = [[Ion Iliescu]]
+| percentage1 = 37.09
+| seats1 = 65
+| last_election1 = 41
+| party8 = Greater Romania Party
+| leader8= [[Corneliu Vadim Tudor]]
+| percentage8 = 21.01
+| seats8 = 37
+| last_election8 = 8
+| party9 = Democratic Party (Romania)
+| leader9 = [[Petre Roman]]
+| percentage9 = 7.58
+| seats9 = 13
+| last_election9 = 22
+| party10 = National Liberal Party (Romania)
+| leader10 = [[Mircea Ionescu-Quintus]]
+| percentage10 = 7.48
+| seats10 = 13
+| last_election10 = 24
+| party11 = Democratic Alliance of Hungarians in Romania
+| leader11 = [[Béla Markó]]
+| percentage11 = 6.90
+| seats11 = 12
+| last_election11 =11
+| map = 2000 Romanian legislative election - Vote Strength.png
+| map_caption = Results for the Chamber of Deputies and Senate
+
+| title = [[Prime Minister of Romania|Prime Minister]]
+| posttitle = [[Prime Minister of Romania|Prime Minister]]-designate
+| before_election = [[Mugur Isărescu]]
+| after_election = [[Adrian Năstase]]
+| before_party = [[Independent politician|Independent]]{{efn|Isărescu could have also been perceived as a [[Technocracy|technocratic]] PM, yet somewhat affiliated with the [[Romanian Democratic Convention|CDR]], officially only for the presidential campaign.}}
+| after_party = Social Democratic Pole of Romania
+}}}}}}}}
+
+General elections were held in [[Romania]] on 26 November 2000, with a second round of the presidential election on 10 December.<ref name="NS">{{Cite book |last=Nohlen |first=Dieter |last2=Stöver |first2=Philip |author-link=Dieter Nohlen |title=Elections in Europe: A data handbook |date=2010 |publisher=Nomos |isbn=978-3-8329-5609-7 |location=[[Baden-Baden]], Germany |pages=1591 |oclc=617565273}}</ref> Former president [[Ion Iliescu]] of the [[Social Democratic Party (Romania)|Social Democracy Party of Romania]] (PDSR) was re-elected in the run-off, whilst the PDSR, as part of the [[Social Democratic Pole of Romania]] (PDSR), emerged as the largest party in Parliament, winning 155 of the 345 seats in the [[Chamber of Deputies (Romania)|Chamber of Deputies]] and 65 of the 140 seats in the [[Senate of Romania|Senate]]. The 2000 Romanian presidential election was the fourth of its kind held in post-1989 Romania.
+
+The election entailed a collapse for the CDR, a broad anticommunist coalition involving Liberals and Christian Democrats, which had won the 1996 election.<ref>{{Cite journal |last=Pop-Eleches |first=Grigore |date=2001 |title=Romania's Politics of Dejection |url=https://doi.org/10.1353/jod.2001.0055 |journal=Journal of Democracy |volume=12 |issue=3 |pages=156–169 |doi=10.1353/jod.2001.0055 |issn=1086-3214|url-access=subscription }}</ref>
+
+== Presidential candidates ==
+<section begin="candidates" />
+{| class="wikitable sortable"  style="text-align:center;"
+! Name
+! Lifespan
+! class="unsortable" | Public administration experience
+! Affiliation and endorsements
+! class="unsortable" | [[Alma mater]] and profession
+|-
+|{{hs|Iliescu}}[[File:Ion Iliescu (2004).jpg|x160px]]<br>'''[[Ion Iliescu]]'''
+|Born: {{dts|format=dmy|1930|03|03}}<br>(age {{age|1930|03|03|2000|12|10}})<br>[[Oltenița]], [[Călărași County]]
+|[[Senate of Romania|Senator]] (1996–election day)<br>'''President of Romania (1989–1996)'''<br>President of Water Surfaces Management Council (1979–1984)<br>'''Member of the [[State Council of Romania|State Council]] (full member: 1979–1980, observative: 1974–1979)'''<br>President of [[Iași County]] Council (1974–1979)<br>Vice-President of [[Timiș County]] Council (1971–1974)<br>'''Minister of Youth (1967–1971)'''<br>[[Great National Assembly (Socialist Republic of Romania)|Deputy]] (1957–1961, 1965–1973, 1975–1985)<br><small>'''Former presidential elections:'''<br>[[1996 Romanian general election|1996]]: 32.3% (1st place, 1st round), 45.6% (2nd place, 2nd round)<br>[[1992 Romanian general election|1992]]: 47.2% (1st place, 1st round), 61.4% (winner, 2nd round)<br>[[1990 Romanian general election|1990]]: 85.1% (winner)</small>
+|Affiliation: [[Social Democratic Pole of Romania|PDSR]]<br>Alliance members: [[Social Democratic Party (Romania)|PDSR]], [[Romanian Social Democratic Party (1990–2001)|PSDR]], and [[Conservative Party (Romania)|PUR]]
+|Energy Institute, [[Moscow State University]] (1954)<br><br>fluid mechanics engineer,<br>publishing house manager
+|-
+|{{hs|Tudor}}[[File:Corneliu Vadim Tudor - Declaratii la BEC.png|x160px]]<br>'''[[Corneliu Vadim Tudor]]'''
+|Born: {{dts|format=dmy|1949|11|28}}<br>(age {{age|1949|11|28|2000|12|10}})<br>[[Bucharest]]<br>Died: {{dts|format=dmy|2015|09|14}}, [[Bucharest]]
+|'''[[Senate of Romania|Senator]] (1992–election day)'''<br><br><small>'''Former presidential election:'''<br>[[1996 Romanian general election|1996]]: 4.7% (5th place, 1st round)</small>
+|Affiliation: [[Greater Romania Party|PRM]]
+|Faculty of Philosophy, [[University of Bucharest]] (1971)<br><br>journalist, writer
+|-
+|{{hs|Stolojan}}[[File:Conventia PD-L 2013 - Theodor Stolojan (2).jpg|x160px]]<br>'''[[Theodor Stolojan]]'''
+|Born: {{dts|format=dmy|1943|10|24}}<br>(age {{age|1943|10|24|2000|11|26}})<br>[[Târgoviște]], [[Dâmbovița County]]
+|'''[[Prime Minister of Romania]] (1991–1992)'''<br>Minister of Finances (1990–1991)<br>Deputy Minister of Finances (1989–1990)<br>Director of Department of International Relations and Financial Relations with the Ministry of Finances and General Inspector of the Department of State Revenues (1988–1989)<br>Director of the State Budget Accounting Department with the Ministry of Finances (1978–1982)
+|Affiliation: [[National Liberal Party (Romania)|PNL]]
+|Faculty of Finances and Accontancy, [[Bucharest Academy of Economic Studies]] (1966)<br><br>financier, accountant
+|-
+|{{hs|Isărescu}}[[File:Mugur Isărescu 17 February 2025 (cropped).jpg|x160px]]<br>'''[[Mugur Isărescu]]'''
+|Born: {{dts|format=dmy|1949|08|01}}<br>(age {{age|1949|08|01|2000|11|26}})<br>[[Drăgășani]], [[Vâlcea County]]
+|'''[[Prime Minister of Romania]] (1999–election day)'''<br>'''[[Governor of the National Bank of Romania]] (1990–1999)'''<br>Commercial Attaché with the Romanian Embassy in USA (1990)
+|Affiliation: none<br>Endorsed by: [[Romanian Democratic Convention|CDR 2000]]
+|Faculty of Foreign Trade, [[Bucharest Academy of Economic Studies]] (1971)<br><br>financier, banker
+|-
+|{{hs|Frunda}}[[File:Frunda György.JPG|x160px]]<br>'''[[György Frunda]]'''
+|Born: {{dts|format=dmy|1951|07|22}}<br>(age {{age|1951|07|22|2000|11|26}})<br>[[Târgu Mureș]], [[Mureș County]]
+|'''[[Senate of Romania|Senator]] (1992–election day)'''<br><br><small>'''Former presidential election:'''<br>[[1996 Romanian general election|1996]]: 6.0% (4th place, 1st round)</small>
+||Affiliation: [[Democratic Alliance of Hungarians in Romania|UDMR]]
+|Faculty of Law, [[Babeş-Bolyai University]], [[Cluj-Napoca]] (1974)<br><br>lawyer
+|-
+|{{hs|Roman}}[[File:Petre Roman EP (cropped).jpg|x160px]]<br>'''[[Petre Roman]]'''
+|Born: {{dts|format=dmy|1946|07|22}}<br>(age {{age|1946|07|22|2000|11|26}})<br>[[Bucharest]]
+|[[Ministry of Foreign Affairs (Romania)|Minister of Foreign Affairs]] (1999–election day)<br>[[Romanian Senate|Senator]] (1996–election day)<br>'''[[President of the Senate of Romania]] (1996–1999)'''<br>[[Chamber of Deputies (Romania)|Deputy]] (1990–1996)<br>'''[[Prime Minister of Romania]] (1989–1991)'''<br><br><small>'''Former presidential election:'''<br>[[1996 Romanian general election|1996]]: 20.5% (3rd place, 1st round)</small>
+|Affiliation: [[Democratic Party (Romania)|PD]]
+|Faculty of Energy, [[Politehnica University of Bucharest]] (1968)<br><br>hydroelectric powerplant engineer
+|-
+|{{hs|Meleșcanu}}[[File:Teodor Meleșcanu in 2017.jpg|x160px]]<br>'''[[Teodor Meleșcanu]]'''
+|Born: {{dts|format=dmy|1941|03|10}}<br>(age {{age|1941|03|10|2000|11|26}})<br>[[Brad, Hunedoara|Brad]], [[Hunedoara County]]
+|[[Senate of Romania|Senator]] (1996–election day)<br>'''[[Ministry of Foreign Affairs (Romania)|Minister of Foreign Affairs]] (1992–1996)'''<br>Undesecretary of State with the [[Ministry of Foreign Affairs (Romania)|Minister of Foreign Affairs]] (1990–1992)
+|Affiliation: [[:ro:Alianța pentru România|ApR]]
+|Faculty of Law, [[University of Bucharest]], (1964)<br>Faculty of Economic and Social Sciences, [[University of Geneva]] (1968)<br><br>jurist, diplomat
+|-
+|{{hs|Manole}}[[File:Blank.png|x160px]]<br>'''[[:ro:Eduard Manole|Eduard Manole]]'''
+|Born: {{dts|format=dmy|1964|03|21}}<br>(age {{age|1964|03|21|2000|11|26}})<br>[[Constanța]], [[Constanța County]]
+|
+|Affiliation: none
+|Faculty of Physics, [[University of Bucharest]] (unknown year)<br><br>physicist
+|-
+|{{hs|Bârlă}}[[File:Blank.png|x160px]]<br>'''[[Graziela Bârlă]]'''
+|unknown birthdate<br>unknown birthplace
+|
+|Affiliation: none
+|Faculty of Law, [[University of Bucharest]] (1968)<br><br>lawyer
+|-
+|{{hs|Lambrino}}[[File:Printul Paul al Romaniei.jpg|x160px]]<br>'''[[Paul Philippe of Romania|Paul Lambrino]]'''
+|Born: {{dts|format=dmy|1948|08|13}}<br>(age {{age|1948|08|13|2000|11|26}})<br>[[Paris]], [[France]]
+|
+|Affiliation: Party of National Reconciliation
+|[[Millfield|Millfield College]] (1968)<br><br>art dealer
+|-
+|{{hs|Sasu}}[[File:Blank.png|x160px]]<br>'''[[:ro:Ion Sasu|Ion Sasu]]'''
+|Born: {{dts|format=dmy|1944|03|05}}<br>(age {{age|1944|03|05|2000|11|26}})<br>[[Cugir]], [[Alba County]]
+|
+|Affiliation: [[Socialist Party of Labour|PSM]]
+|Faculty of Philosophy, [[University of Bucharest]] (1968)<br><br>unknown
+|-
+|{{hs|Cerveni}}[[File:Blank.png|x160px]]<br>'''[[:ro:Niculae Cerveni|Niculae Cerveni]]'''
+|Born: {{dts|format=dmy|1926|3|19}}<br>(age {{age|1926|3|19|2000|11|26}})<br>[[Cervenia]], [[Teleorman County]]<br>Died: {{dts|format=dmy|2004|1|16}}, [[Bucharest]]
+|'''[[Romanian Senate|Senator]] (1996–election day)'''<br>'''[[Chamber of Deputies (Romania)|Deputy]] (1992–1996)'''
+|Affiliation: Romanian Liberal Democratic Party
+|Faculty of Law, [[University of Bucharest]] (1974)<br><br>lawyer
+|}<section end="candidates" />
+
+==Results==
+=== President ===
+
+[[File:Romanian presidential election 2000 - first round.svg|Presidential election - First round|thumb|330px]]
+[[File:Primul tur de scrutin pe localități.png|thumb|329x329px|First round result by commune]]
+[[File:Tur 2.svg|Presidential election - Second round|thumb|330px]]
+[[File:Al doilea tur de scrutin pe localități.png|thumb|329x329px|Second round results by commune]]
+In the second round, Theodor Stolojan, Mugur Isărescu, György Frunda, and Petre Roman positioned against Corneliu Vadim Tudor, without openly endorsing Ion Iliescu.
+
+{{Election results
+|cand1=[[Ion Iliescu]]|party1=[[Social Democratic Pole of Romania]]|votes1=4076273|votes1_2=6696623
+|cand2=[[Corneliu Vadim Tudor]]|party2=[[Greater Romania Party]]|votes2=3178293|votes2_2=3324247
+|cand3=[[Theodor Stolojan]]|party3=[[National Liberal Party (Romania)|National Liberal Party]]|votes3=1321420
+|cand4=[[Mugur Isărescu]]|party4=[[Romanian Democratic Convention]]|votes4=1069463
+|cand5=[[György Frunda]]|party5=[[Democratic Alliance of Hungarians in Romania]]|votes5=696989
+|cand6=[[Petre Roman]]|party6=[[Democratic Party (Romania)|Democratic Party]]|votes6=334852
+|cand7=[[Teodor Meleșcanu]]|party7=[[Alliance for Romania]]|votes7=214642
+|cand8=Eduard Gheorghe Manole|party8=Independent|votes8=133991
+|cand9=Graziela-Elena Bârlă|party9=Independent|votes9=61455
+|cand10=[[Paul Philippe of Romania|Prince Paul of Romania]]|party10=Party of National Reconciliation|votes10=55238
+|cand11=Ion Sasu|party11=[[Socialist Party of Labour]]|votes11=38375
+|cand12=[[Niculae Cerveni]]|party12=Romanian Liberal Democratic Party|votes12=31983
+|invalid=346484|invalid2=163845
+|votes14_2=10184715
+|electorate=17699727|electorate2=17711757
+|source=Nohlen & Stöver
+}}
+{{bar box|title=Vote share|titlebar=#ddd|width=600px|barwidth=500px|bars= 
+{{Bar gap|{{center|Second round}}}}
+{{bar percent|'''Iliescu'''|{{party color|Social Democratic Pole of Romania}}|66.83}}
+{{bar percent|Tudor|{{party color|Greater Romania Party}}|33.17}}
+{{Bar gap|{{center|First round}}}}
+{{bar percent|{{underline|Iliescu}}|{{party color|Social Democratic Pole of Romania}}|36.35}}
+{{bar percent|{{underline|Tudor}}|{{party color|Greater Romania Party}}|28.34}}
+{{bar percent|Stolojan|{{party color|National Liberal Party (Romania)}}|11.78}}
+{{bar percent|Isărescu|{{party color|Romanian Democratic Convention}}|9.54}}
+{{bar percent|Frunda|{{party color|Democratic Alliance of Hungarians in Romania}}|6.22}}
+{{bar percent|Roman|{{party color|Democratic Party (Romania)}}|2.99}}
+{{bar percent|Meleșcanu|#F6CB48|1.91}}
+{{bar percent|Manole|{{party color|Independent (politician)}}|1.19}}
+{{bar percent|Others|#777777|1.67}}
+}}
+
+===Parliament===
+==== Senate ====
+
+The alliance named Social Democratic Pole of Romania was formed by PDSR, PSDR (2 senators), and PUR (4 senator). On 16 June 2001, PDSR and PSDR merged, forming the present-day PSD.
+[[File:SENAT ..png|thumb|317x317px|Results of the 2000 Romanian legislative elections, showing the number of votes for the party that won a plurality in each locality. Results for the Senate]]
+{{Election results
+|image=[[File:Romania Senate 2000.svg]]
+|party1=[[Social Democratic Pole of Romania]]|votes1=4040212|seats1=65|sc1=+24
+|party2=[[Greater Romania Party]]|votes2=2288483|seats2=37|sc2=+29
+|party3=[[Democratic Party (Romania)|Democratic Party]]|votes3=825437|seats3=13|sc3=–
+|party4=[[National Liberal Party (Romania)|National Liberal Party]]|votes4=814381|seats4=13|sc4=–
+|party5=[[Democratic Alliance of Hungarians in Romania]]|votes5=751310|seats5=12|sc5=+1
+|party6=[[Romanian Democratic Convention]]|votes6=575706|seats6=0|sc6=–53
+|party7=[[Alliance for Romania]]|votes7=465535|seats7=0|sc7=New
+|party8=[[Romanian National Unity Party]]|votes8=154761|seats8=0|sc8=–7
+|party9=[[National Liberal Party–Câmpeanu]]|votes9=133018|seats9=0|sc9=New
+|party10=[[Ecologist Party of Romania]]|votes10=108370|seats10=0|sc10=New
+|party11=[[Socialist Party of Labour]]|votes11=96636|seats11=0|sc11=0
+|party12=Party of Pensioners of Romania|votes12=86401|seats12=0|sc12=0
+|party13=Romanian Working Party|votes13=81756|seats13=0|sc13=0
+|party14=Romanian Liberal Democratic Party|votes14=61234|seats14=0|sc14=New
+|party15=National Peasant Party|votes15=55970|seats15=0|sc15=0
+|party16=Party of Romanian Life|votes16=54634|seats16=0|sc16=New
+|party17=[[National Democratic Christian Party]]|votes17=45252|seats17=0|sc17=0
+|party18=Party of National Reconciliation|votes18=31824|seats18=0|sc18=New
+|party19=Free Republican Socialist Democratic Party|votes19=30910|seats19=0|sc19=New
+|party20=[[New Generation Party (Romania)|New Generation Party]]|votes20=27576|seats20=0|sc20=New
+|party21=Democratic Party of Pensioners in Romania and the Diaspora|votes21=24346|seats21=0|sc21=New
+|party22=Social Democratic Party "Constantin Titel Petrescu"|votes22=20426|seats22=0|sc22=New
+|party23=Generation 2000|votes23=18998|seats23=0|sc23=New
+|party24=Party of Non-Communists|votes24=18879|seats24=0|sc24=New
+|party25=Party for the Motherland|votes25=18403|seats25=0|sc25=0
+|party26=Socialist Party of Romania|votes26=12961|seats26=0|sc26=0
+|party27=[[Republican Party (Romania, 1993)|Republican Party]]|votes27=12094|seats27=0|sc27=0
+|party28=[[Democratic Union of Turkish-Muslim Tatars of Romania|Democratic Union of Turkish-Muslim Tatars]]|votes28=9226|seats28=0|sc28=0
+|party29=[[Liberal Union–Brătianu]]|votes29=7373|seats29=0|sc29=New
+|party30=Popular Union for Justice Party|votes30=5747|seats30=0|sc30=New
+|party31=Christian Democratic Union|votes31=4016|seats31=0|sc31=0
+|party32=Party of the Romanian Revolution|votes32=2146|seats32=0|sc32=0
+|party33=Christian Centre of the Roma in Romania|votes33=2045|seats33=0|sc33=New
+|party34=Party of Private Entrepreneurs–Social Democratic Party|votes34=1575|seats34=0|sc34=0
+|party35=Hungarian Free Democrat Party in Romania|votes35=498|seats35=0|sc35=0
+|party36=International League of the Romanians–Bucharest|votes36=343|seats36=0|sc36=New
+|party37=Independents|votes37=3428|seats37=0|sc37=0
+|invalid=667548
+|total_sc=–3
+|electorate=17699727
+|source=Nohlen & Stöver, [https://web.archive.org/web/20110614133942/http://www2.essex.ac.uk/elect/database/indexElections.asp?country=ROMANIA&election=ro20s University of Essex]
+}}
+
+==== Chamber of Deputies ====
+
+The Social Democratic Pole of Romania included the PDSR, PSDR (10 deputies), and PUR (6 deputies). On 16 June 2001, PDSR and PSDR merged, forming the present-day PSD.
+[[File:CAMERA DEPUTAȚILOR 2000.png|thumb|Results of the 2000 Romanian legislative elections, showing the number of votes for the party that won a plurality in each locality. Results for the Chamber of Deputies.]]
+{{Election results
+|image=[[File:Romania Parliament 2000.svg]]
+|party1=[[Social Democratic Pole of Romania]]|votes1=3968464|seats1=155|sc1=+64
+|party2=[[Greater Romania Party]]|votes2=2112027|seats2=84|sc2=+65
+|party3=[[Democratic Party (Romania)|Democratic Party]]|votes3=762365|seats3=31|sc3=–
+|party4=[[National Liberal Party (Romania)|National Liberal Party]]|votes4=747263|seats4=30|sc4=–
+|party5=[[Democratic Alliance of Hungarians in Romania]]|votes5=736863|seats5=27|sc5=+2
+|party6=[[Romanian Democratic Convention]]|votes6=546135|seats6=0|sc6=–122
+|party7=[[Alliance for Romania]]|votes7=441228|seats7=0|sc7=New
+|party8=[[National Liberal Party–Câmpeanu]]|votes8=151518|seats8=0|sc8=New
+|party9=[[Romanian National Unity Party]]|votes9=149525|seats9=0|sc9=–18
+|party10=[[Ecologist Party of Romania]]|votes10=101256|seats10=0|sc10=New
+|party11=[[Socialist Party of Labour]]|votes11=91027|seats11=0|sc11=0
+|party12=Party of Pensioners of Romania|votes12=76704|seats12=0|sc12=0
+|party13=[[Party of the Roma]]|votes13=71786|seats13=1|sc13=0
+|party14=Romanian Working Party|votes14=68718|seats14=0|sc14=0
+|party15=Romanian Liberal Democratic Party|votes15=52497|seats15=0|sc15=New
+|party16=National Peasant Party|votes16=48435|seats16=0|sc16=0
+|party17=Party of Romanian Life|votes17=46129|seats17=0|sc17=New
+|party18=[[Democratic Forum of Germans in Romania|Democratic Forum of Germans]]|votes18=40844|seats18=1|sc18=0
+|party19=[[National Democratic Christian Party]]|votes19=33410|seats19=0|sc19=0
+|party20=Free Republican Socialist Democratic Party|votes20=32811|seats20=0|sc20=New
+|party21=Party of National Reconciliation|votes21=22376|seats21=0|sc21=New
+|party22=[[Union of Armenians of Romania]]|votes22=21302|seats22=1|sc22=0
+|party23=[[Italian Community of Romania]]|votes23=21263|seats23=1|sc23=0
+|party24=Democratic Party of Pensioners in Romania and the Diaspora|votes24=21062|seats24=0|sc24=New
+|party25=[[Bulgarian Union of Banat–Romania]]|votes25=20085|seats25=1|sc25=+1
+|party26=[[New Generation Party (Romania)|New Generation Party]]|votes26=19662|seats26=0|sc26=New
+|party27=Social Democratic Party "Constantin Titel Petrescu"|votes27=17730|seats27=0|sc27=New
+|party28=Party for the Motherland|votes28=16991|seats28=0|sc28=0
+|party29=League of Italian Communities in Romania|votes29=16266|seats29=0|sc29=New
+|party30=[[Hellenic Union of Romania]]|votes30=15007|seats30=1|sc30=0
+|party31=Party of Non-Communists|votes31=14197|seats31=0|sc31=New
+|party32=Generation 2000|votes32=13455|seats32=0|sc32=0
+|party33=[[Federation of the Jewish Communities in Romania]]|votes33=12629|seats33=1|sc33=0
+|party34=Christian Centre of the Roma in Romania|votes34=12171|seats34=0|sc34=New
+|party35=Romanian Socialist Party|votes35=11916|seats35=0|sc35=0
+|party36=[[Community of the Lipovan Russians in Romania]]|votes36=11558|seats36=1|sc36=0
+|party37=[[Union of Croats of Romania]]|votes37=11084|seats37=1|sc37=+1
+|party38=[[Republican Party (Romania, 1993)|Republican Party]]|votes38=10840|seats38=0|sc38=0
+|party39=[[League of Albanians of Romania]]|votes39=10543|seats39=1|sc39=New
+|party40=[[Democratic Union of Turkish-Muslim Tatars of Romania|Democratic Union of Turkish-Muslim Tatars]]|votes40=10380|seats40=1|sc40=0
+|party41=[[Union of the Ukrainians of Romania]]|votes41=9404|seats41=1|sc41=0
+|party42=[[Association of Macedonians of Romania]]|votes42=8809|seats42=1|sc42=New
+|party43=[[Union of Serbs of Romania]]|votes43=8748|seats43=1|sc43=0
+|party44=Bulgarian Cultural Association of Romania|votes44=8092|seats44=0|sc44=New
+|party45=[[Cultural Union of Albanians of Romania]]|votes45=7798|seats45=0|sc45=–1
+|party46=[[Cultural Union of Ruthenians of Romania]]|votes46=6942|seats46=1|sc46=New
+|party47=[[Democratic Turkish Union of Romania]]|votes47=6675|seats47=1|sc47=0
+|party48=[[Bratstvo Community of Bulgarians in Romania]]|votes48=5923|seats48=0|sc48=–1
+|party49=Democratic Union of Ukrainians in Romania|votes49=5843|seats49=0|sc49=0
+|party50=[[Democratic Union of Slovaks and Czechs of Romania]]|votes50=5686|seats50=1|sc50=0
+|party51=[[Union of Poles of Romania]]|votes51=5055|seats51=1|sc51=0
+|party52=Turkish Community of Romania|votes52=3953|seats52=0|sc52=New
+|party53=[[Liberal Union–Brătianu]]|votes53=3760|seats53=0|sc53=0
+|party54=Hungarian Free Democrat Party of Romania|votes54=3510|seats54=0|sc54=0
+|party55=Popular Union for Justice Party|votes55=3506|seats55=0|sc55=New
+|party56=Christian Democratic Union|votes56=3316|seats56=0|sc56=0
+|party57=Hellenic Community Iasi|votes57=2072|seats57=0|sc57=New
+|party58=Democratic Union of Croats in Romania|votes58=2059|seats58=0|sc58=New
+|party59=Prahova Hellenic Community|votes59=1992|seats59=0|sc59=0
+|party60=Party of the Romanian Revolution|votes60=1623|seats60=0|sc60=0
+|party61=[[Union of Poles of Romania]] 'Dom Polski'|votes61=1619|seats61=0|sc61=0
+|party62=Union of the Czechs of Romania|votes62=1539|seats62=0|sc62=New
+|party63=Democratic League of the Croats in Romania|votes63=1329|seats63=0|sc63=New
+|party64=General Union of the Hutul Ethnicity in Romania|votes64=1225|seats64=0|sc64=0
+|party65=International League of the Romanians–Bucharest|votes65=516|seats65=0|sc65=New
+|party66=Union of Pavlicheni Bulgarians in Romania|votes66=497|seats66=0|sc66=New
+|party67=Hellenic Union ELPIS Constanta|votes67=449|seats67=0|sc67=New
+|party68=Party of Private Entrepreneurs–Social Democratic Party|votes68=401|seats68=0|sc68=0
+|party69=Independents|votes69=137561|seats69=0|sc69=0
+|invalid=720034
+|total_sc=+2
+|electorate=17699727
+|source=Nohlen & Stöver, [https://web.archive.org/web/20130227161412/http://www2.essex.ac.uk/elect/database/indexElections.asp?country=ROMANIA&election=ro20cd University of Essex]
+}}
+
+==Gallery==
+<gallery caption="Percent of votes of major candidates in the first round:" widths="150px">
+File:Romanian presidential election 2000 - Iliescu.svg|Ion Iliescu
+File:Romanian presidential election 2000 - Vadim.svg|Corneliu Vadim Tudor
+File:Romanian presidential election 2000 - Stolojan.svg|Theodor Stolojan
+File:Romanian presidential election 2000 - Isarescu.svg|Mugur Isărescu
+File:Romanian presidential election 2000 - Frunda.svg|György Frunda
+</gallery>
+
+==References==
+{{notelist}}
+{{reflist}}
+
+{{Romanian elections}}
+{{Romanian presidential elections}}
+{{Ion Iliescu}}
+
+{{Authority control}}
+
+[[Category:2000 elections in Romania|General]]
+[[Category:Presidential elections in Romania]]
+[[Category:Parliamentary elections in Romania]]
+[[Category:November 2000 in Romania|General]]
+[[Category:December 2000 in Romania|General]]

@@ -1,0 +1,419 @@
+{{Short description|none}}
+{{Use dmy dates|date=March 2022}}
+{{Infobox election
+| country = Chile
+| previous_election = 2009–10 Chilean general election
+| previous_year = {{nowrap|2009–10}}
+| next_election = 2017 Chilean general election
+| next_year = 2017
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 17 November 2013 (first round)<br />{{nowrap|15 December 2013 (second round)}}
+| registered = 13,573,143 {{increase}} 63.82%
+| turnout = 49.35% (first round) {{decrease}} 38.32[[percentage point|pp]]<br>41.98% (second round) {{decrease}} 44.96[[percentage point|pp]]
+
+| image1 =Michelle Bachelet (2013) 4x3 cropped.jpg
+| candidate1 ='''[[Michelle Bachelet]]'''
+| party1 = Socialist Party of Chile
+| alliance1 = Nueva Mayoría
+| popular_vote1 = '''3,470,379'''
+| percentage1 ='''62.17%'''
+
+| image2 =Evelyn Matthei (2013) 4x3 cropped.jpg
+| candidate2 =[[Evelyn Matthei]]
+| party2 = Independent Democratic Union
+| alliance2 = Alliance (Chile)
+| popular_vote2 =2,111,891
+| percentage2 =37.83%
+
+| title =President
+| before_election =[[Sebastián Piñera]]
+| before_party = National Renewal (Chile)
+| after_election = [[Michelle Bachelet]]
+| after_party = Socialist Party of Chile
+
+| map_image = {{switcher|[[File:Chile 2013 presidential election first round map.svg|275px]]|First round results by commune|[[File:Chile 2013 presidenctial election runoff map.svg|275px]]|Second round results by commune|default=2}}
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| seats_for_election = All 120 seats in the [[Chamber of Deputies of Chile|Chamber of Deputies]]
+| majority_seats = 61
+| election_date = 17 November 2013
+| first_election = yes
+| noleader = yes
+
+| party1 = Nueva Mayoría
+| seats1 = 67
+| percentage1 = 47.71
+
+| party2 = Alliance (Chile)
+| seats2 = 49
+| percentage2 = 36.23
+
+| party3 = [[If You Want It, Chile Changes]]
+| seats3 = 1
+| percentage3 = 5.43
+
+| party4 = Independents
+| percentage4 = 3.32
+| seats4 = 3
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Senate
+| seats_for_election = 20 of 38 seats in the [[Senate of Chile|Senate]]
+| election_date = 17 November 2013
+| first_election = yes
+| noleader = yes
+
+| party1 = Nueva Mayoría
+| seats1 = 12
+| percentage1 = 50.63
+
+| party6 = Alliance (Chile)
+| seats6 = 7
+| percentage6 = 38.05
+
+| party7 = Independents
+| percentage7 = 1.52
+| seats7 = 1
+
+}}}}}}}}{{Politics of Chile}}
+
+General elections were held in [[Chile]] on 17 November 2013 to elect the president, all 120 members of the [[Chamber of Deputies of Chile|Chamber of Deputies]], 20 of the 38 members of the [[Senate of Chile|Senate]] and 278 members of regional boards. All elected members would serve a four-year term, aside from the Senators would serve for eight years. All the newly elected authorities began their terms on 11 March 2014.
+
+In the presidential election, former president [[Michelle Bachelet]] fell short of the absolute majority needed for an outright win. In the runoff election, held on 15 December, she beat former senator and Minister of Labor [[Evelyn Matthei]] with over 62% of the vote, with turnout significantly lower than in the first round. This marked the first time [[List of female Chilean presidential candidates|two women faced each other]] in a runoff in Chilean history.<ref>{{Cite news |date=2013-11-17 |title=Chile election: Bachelet and Matthei go to second round |url=https://www.bbc.com/news/world-latin-america-24977405 |access-date=2025-07-27 |work=BBC News |language=en-GB}}</ref>
+
+In the parliamentary elections, the [[New Majority (coalition)|New Majority]] coalition (backing Bachelet's candidacy) won back control of both chambers of Congress, winning 12 of the 20 contested seats in the [[Senate of Chile|Senate]], for a total of 21 out of 38 total seats, and 67 of the 120 seats in the [[Chamber of Deputies of Chile|Chamber of Deputies]].
+
+These were the first presidential and parliamentary elections in which all eligible voters were automatically enrolled, and where voting was no longer mandatory (compulsory voting was reintroduced in 2022). Members of the regional boards were directly elected for the first time.
+
+==Timeline==
+Notable events and dates.<ref>{{cite web |url=http://www.servel.cl/ss/Satellite?c=S_Estandar&cid=1349388569536&pagename=SERVEL%2FS_Estandar%2FS_ContenidoEstandarC |title=Servicio Electoral |publisher=Servel.cl |access-date=2013-11-22 |archive-url=https://web.archive.org/web/20131203065132/http://www.servel.cl/ss/Satellite?c=S_Estandar&cid=1349388569536&pagename=SERVEL%2FS_Estandar%2FS_ContenidoEstandarC |archive-date=2013-12-03 |url-status=dead }}</ref><ref>http://www.servel.cl/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=content-disposition&blobheadervalue1=inline%3B+filename%3D%22Cronograma+Segunda+Votación+Elección+Presidencial.pdf%22&blobkey=id&blobtable=MungoBlobs&blobwhere=1381423812021&ssbinary=true{{Dead link|date=May 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+*30 June 2013: Primaries held simultaneously nationwide. [[Michelle Bachelet]] and [[Pablo Longueira]] win their respective primaries for president.
+*17 July 2013: Longueira quits the race.
+*20 July 2013: UDI picks [[Evelyn Matthei]] to replace Longueira.
+*19 August 2013: Deadline to register candidacies.
+*9 October 2013: First debate. Bachelet does not participate.
+*18 October 2013: Campaign advertising starts.
+*25 October 2013: Radio debate.
+*29–30 October 2013: Two-day television debate.
+*14 November 2013: Campaign advertising ends.
+*17 November 2013: Election takes place.
+*22 November 2013: The Electoral Service publishes on its website a revised count made by polling officers the day after the election.
+*1 December 2013: Runoff campaign advertising starts.
+*3 December 2013: The Election Court (Tricel) publishes the final results of the first round election in the Official Gazette and calls for a runoff election between the top two candidates.
+*6 December 2013: Radio debate.
+*10 December 2013: Television debate.
+*12 December 2013: Runoff campaign advertising ends.
+*15 December 2013: Runoff election.
+**Polls close at 6 PM nationwide.
+**At about 7 PM, Matthei concedes defeat, telling reporters outside her home: "It is clear, she has won".<ref name="autogenerated2">{{cite web|url=http://www.emol.com/noticias/nacional/2013/12/15/635046/minuto-a-minuto-de-las-elecciones-se-acerca-la-hora-para-la-apertura-de-las-urnas.html |title=Minuto a minuto: Piñera visitó a Matthei tras su derrota en 2ª vuelta (fin) |publisher=Emol.com |date=2013-12-15 |access-date=2013-12-21}}</ref>
+**At about 7:20 PM Matthei gives her concession speech.<ref name="autogenerated2"/>
+*17 December 2013: The Electoral Service publishes on its website a revised count made by polling officers the day after the election.
+*10 January 2014: The Tricel officially proclaims Bachelet as President-Elect during a ceremony in [[Santiago]], and publishes the final results of the second round election on its website.
+*11 March 2014: The President-elect takes office in a ceremony at the [[National Congress of Chile|National Congress]] in [[Valparaíso]].
+
+==Presidential primaries==
+{{main|2013 Chilean presidential primaries}}
+
+In December 2012 a law was published allowing political parties or coalitions to define their candidates for president in government-run primary elections. The two main political groups agreed to choose their candidates this way. Former president [[Michelle Bachelet]] won the [[New Majority (coalition)|New Majority]] primary with 73% of the vote, while former senator and minister [[Pablo Longueira]] won the Alliance primary with 51%. Longueira subsequently quit the race and was replaced with [[Evelyn Matthei]]. Sitting president [[Sebastián Piñera]] did not stand for re-election due to term limits.
+
+==Presidential candidates==
+List of candidates who officially registered their candidacies at the Electoral Service. All candidacies were accepted on 28 August 2013.<ref>{{cite web |url=http://www.latercera.com/noticia/politica/2013/08/674-539899-9-servicio-electoral-ratifica-las-declaraciones-de-todas-las-candidaturas.shtml |title=Servicio Electoral ratifica las declaraciones de todas las candidaturas presidenciales {{pipe}} Política |publisher=La Tercera |date=2013-08-28 |access-date=2013-10-18 |archive-date=4 March 2016 |archive-url=https://web.archive.org/web/20160304110452/http://www.latercera.com/noticia/politica/2013/08/674-539899-9-servicio-electoral-ratifica-las-declaraciones-de-todas-las-candidaturas.shtml |url-status=dead }}</ref> Bachelet's candidacy was automatically accepted after she was proclaimed the winner of her primary by the Election Court.
+
+{| class="wikitable"
+|-
+! style="width: 20em" | Candidate !! style="width: 20em" | Endorsement !! Remarks
+|-
+| [[File:Michelle Bachelet headshot 2013.jpg|75px|left]]<br/>'''[[Michelle Bachelet]]'''<br /><small>[[Socialist Party of Chile|Socialist Party]]</small> || [[File:Logo de la Nueva Mayoría.svg|50px]] [[New Majority (coalition)|New Majority]]:
+*[[File:Emblem of the Socialist Party of Chile.svg|25px]] [[Socialist Party of Chile|Socialist Party]]
+*[[File:Partido por la Democracia emblema.png|25px]] [[Party for Democracy (Chile)|Party for Democracy]]
+*[[File:Movimiento Amplio Social (new).svg|25px]] [[Broad Social Movement]]
+*[[File:Partido Comunista de Chile.svg|25px]] [[Communist Party of Chile|Communist Party]]
+*[[File:Izquierda Ciudadana.png|25px]] [[Citizen Left]]
+*[[File:Flag of the Christian Democrat Party of Chile.svg|25px]] [[Christian Democratic Party (Chile)|Christian Democratic Party]]
+*[[File:Partido Radical Socialdemócrata logo.jpg|25px]] [[Social Democrat Radical Party]]
+| valign="top" | The former President from 2006 to 2010 became the New Majority candidate after beating three other candidates in a coalition primary held on 30 June 2013.<ref name="autogenerated1">{{cite news|url=https://www.wsj.com/articles/SB10001424127887323936404578579521476049516 |title=Bachelet Wins Primary for Chile President - WSJ.com |publisher=Online.wsj.com |access-date=2013-07-04}}</ref> For further details, see [[Chilean presidential primaries, 2013]].
+|-
+| [[File:Marcel Claude headshot.jpg|75px|left]]<br/>'''[[Marcel Claude]]'''<br /><small>[[Humanist Party (Chile)|Humanist Party]]</small> || [[File:Todos a La Moneda emblema.png|50px]] [[Everybody to La Moneda]]:
+*[[File:Partido Humanista (corto).svg|25px]] [[Humanist Party (Chile)|Humanist Party]]
+*[[United Left (Chile)|United Left]] (movement)
+| The leftist economist and university professor launched his candidacy on 26 January 2013.<ref>{{cite web |url=http://www.latercera.com/noticia/negocios/2013/01/655-505931-9-economista-marcel-claude-lanza-su-candidatura-presidencial.shtml |title=Economista Marcel Claude lanza su candidatura presidencial {{pipe}} Negocios |publisher=La Tercera |date=2013-01-26 |access-date=2013-04-04 |archive-date=4 March 2016 |archive-url=https://web.archive.org/web/20160304111416/http://www.latercera.com/noticia/negocios/2013/01/655-505931-9-economista-marcel-claude-lanza-su-candidatura-presidencial.shtml |url-status=dead }}</ref> On 12 March 2013 he was proclaimed by the [[Humanist Party (Chile)|Humanist Party]] as their candidate.<ref>{{cite web |url=http://nacional.biobiochile.cl/notas/2013/03/12/partido-humanista-proclama-a-economista-marcel-claude-como-candidato-presidencial.shtml |title=Partido Humanista proclama a economista Marcel Claude como candidato presidencial - Nacional - BioBioChile |publisher=Nacional.biobiochile.cl |access-date=2013-04-04 |url-status=dead |archive-url=https://archive.today/20130410034954/http://nacional.biobiochile.cl/notas/2013/03/12/partido-humanista-proclama-a-economista-marcel-claude-como-candidato-presidencial.shtml |archive-date=2013-04-10 }}</ref> He officially registered his candidacy at the Electoral Service on 12 August 2013.<ref>{{cite web |url=http://www.latercera.com/noticia/politica/2013/08/674-537570-9-marcel-claude-inscribe-oficialmente-su-candidatura-presidencial-en-el-servel.shtml |title=Marcel Claude inscribe oficialmente su candidatura presidencial en el Servel {{pipe}} Política |publisher=La Tercera |date=1990-01-01 |access-date=2013-10-18 |archive-date=13 August 2013 |archive-url=https://web.archive.org/web/20130813055502/http://www.latercera.com/noticia/politica/2013/08/674-537570-9-marcel-claude-inscribe-oficialmente-su-candidatura-presidencial-en-el-servel.shtml |url-status=dead }}</ref>
+|-
+| [[File:Enríquez-Ominami crop.jpg|75px|left]]<br/>'''[[Marco Enríquez-Ominami]]'''<br /><small>[[Progressive Party (Chile)|Progressive Party]]</small> || [[File:Si tu quieres Chile cambia.png|50px]] [[If You Want It, Chile Changes]]:
+*[[File:Partido Progresista de Chile (corto).svg|25px]] [[Progressive Party (Chile)|Progressive Party]]
+*[[File:Partido Liberal de Chile.png|25px]] [[Liberal Party (Chile, 2007–)|Liberal Party]]
+*[[Allendist Socialism]] (movement)
+| The 2009 candidate launched his candidacy on 4 October 2012 at a theater in Santiago.<ref>{{cite web |url=http://www.latercera.com/noticia/politica/2012/10/674-486703-9-marco-enriquezominami-lanzo-oficialmente-su-candidatura-presidencial.shtml |title=Marco Enríquez-Ominami lanzó oficialmente su candidatura presidencial {{pipe}} Política |publisher=La Tercera |date=1990-01-01 |access-date=2012-11-04 |archive-date=2012-10-05 |archive-url=https://web.archive.org/web/20121005020206/http://www.latercera.com/noticia/politica/2012/10/674-486703-9-marco-enriquezominami-lanzo-oficialmente-su-candidatura-presidencial.shtml |url-status=dead }}</ref> On 5 May 2013, he was proclaimed as candidate by the [[Allendist Socialism]] movement.<ref>{{cite web |author=Puntos Multimedia |url=http://www.cambio21.cl/cambio21/site/artic/20130505/pags/20130505153421.html |title=Socialistas-Allendistas proclaman a ex diputado Marco Enríquez Ominami como candidato ...[+ |publisher=Cambio21.cl |date=2013-05-05 |access-date=2013-10-18 |archive-url=https://web.archive.org/web/20131019114520/http://www.cambio21.cl/cambio21/site/artic/20130505/pags/20130505153421.html |archive-date=2013-10-19 |url-status=dead }}</ref> On 15 June 2013, he was proclaimed as candidate by the [[Liberal Party (Chile, 2007–)|Liberal Party]] (formerly known as Chilefirst)<ref>{{cite web|author=BioBioChile |url=http://www.biobiochile.cl/2013/06/15/partido-liberal-proclamo-oficialmente-a-marco-enriquez-ominami-como-su-abanderado-presidencial.shtml |title=Partido Liberal proclamó oficialmente a Marco Enríquez- Ominami como su abanderado presidencial - BioBioChile |date=15 June 2013 |publisher=Biobiochile.cl |access-date=2013-07-03}}</ref> and on 13 July 2013 by the [[Progressive Party (Chile)|Progressive Party]].<ref>{{cite web|url=http://www.cnnchile.com/noticia/2013/07/13/se-oficializo-la-candidatura-de-marco-enriquez-ominami |title=Se oficializó la candidatura de Marco Enríquez-Ominami |publisher=CNN Chile |date=2013-07-13 |access-date=2013-07-21}}</ref> He officially registered his candidacy at the Electoral Service on 17 August 2013.<ref>{{cite web|url=http://www.emol.com/noticias/nacional/2013/08/17/615038/marco-enriquez-ominami-inscribe-su-candidatura-presidencial-en-el-servel.html |title=ME-O inscribe su candidatura en el Servel: Los chilenos nos merecemos un cambio |publisher=Emol.com |date=2013-08-17 |access-date=2013-10-18}}</ref>
+|-
+| [[File:Ricardo Israel.jpg|75px|left]]<br/>'''[[Ricardo Israel]]'''<br /><small>[[Regionalist Party of the Independents]]</small> ||[[Regionalist Party of the Independents]] || The political scientist was proclaimed by the [[Regionalist Party of the Independents]] (PRI) on 20 July 2013.<ref>{{cite web |url=http://www.latercera.com/noticia/politica/2013/07/674-533911-9-pri-proclama-a-ricardo-israel-como-candidato-presidencial.shtml |title=PRI proclama a Ricardo Israel como candidato presidencial {{pipe}} Política |publisher=La Tercera |date=1990-01-01 |access-date=2013-07-21 |archive-date=21 July 2013 |archive-url=https://web.archive.org/web/20130721073215/http://www.latercera.com/noticia/politica/2013/07/674-533911-9-pri-proclama-a-ricardo-israel-como-candidato-presidencial.shtml |url-status=dead }}</ref> He officially registered his candidacy at the Electoral Service on 14 August 2013.<ref>{{cite web|url=http://www.emol.com/noticias/nacional/2013/08/14/614615/ricardo-israel-inscribe-su-candidatura-presidencial-por-el-pri.html |title=Ricardo Israel inscribe su candidatura presidencial por el PRI |publisher=Emol.com |date=2013-08-14 |access-date=2013-10-18}}</ref>
+|-
+| [[File:TJH (cropped).jpg|75px|left]]<br/>'''[[Tomás Jocelyn-Holt]]'''<br /><small>Independent</small> || Independent electors || Former [[Christian Democrat Party of Chile|Christian Democrat]] deputy<ref>{{cite web |url=http://www.lanacion.cl/tomas-jocelyn-holt-acepta-ser-candidato-presidencial-de-chile-primero/noticias/2012-01-21/172548.html |title=nacion.cl - TomĂĄs Jocelyn-Holt acepta ser candidato presidencial de Chile Primero |publisher=Lanacion.cl |date=2012-01-21 |access-date=2012-02-03 |archive-date=21 September 2013 |archive-url=https://web.archive.org/web/20130921060930/http://www.lanacion.cl/tomas-jocelyn-holt-acepta-ser-candidato-presidencial-de-chile-primero/noticias/2012-01-21/172548.html |url-status=dead }}</ref> and former member of the [[Liberal Party (Chile, 2007–)|Liberal Party]] (PL). On 9 December 2012, the PL decided to withdraw their support for his candidacy.<ref>{{cite web |url=http://www.latercera.com/noticia/politica/2012/12/674-497665-9-chile-primero-decide-retirar-apoyo-a-candidatura-presidencial-de-tomas-jocelyn.shtml |title=Chile Primero decide retirar apoyo a candidatura presidencial de Tomas Jocelyn- Holt {{pipe}} Política |publisher=La Tercera |date=1990-01-01 |access-date=2013-04-04 |archive-date=25 March 2013 |archive-url=https://web.archive.org/web/20130325150224/http://www.latercera.com/noticia/politica/2012/12/674-497665-9-chile-primero-decide-retirar-apoyo-a-candidatura-presidencial-de-tomas-jocelyn.shtml |url-status=dead }}</ref> He officially registered his independent candidacy at the Electoral Service on 19 August 2013.<ref>{{cite web|url=http://www.emol.com/noticias/nacional/2013/08/19/615298/tomas-jocelyn-holt-inscribe-su-candidatura-presidencial.html |title=Tomás Jocelyn-Holt inscribe su candidatura presidencial ante el Servel |publisher=Emol.com |date=2013-08-19 |access-date=2013-10-18}}</ref>
+|-
+| [[File:Evelyn Matthei, fotografía oficial, campaña presidencial 2013.jpg|75px|left]]<br/>'''[[Evelyn Matthei]]'''<br /><small>[[Independent Democratic Union]]</small> || [[File:Alianza (Chile) logo.png|50px]] [[Alliance for Chile|Alliance]]:
+*[[File:Udi.png|25px]] [[Independent Democratic Union]]
+*[[File:Rn.svg|25px]] [[National Renewal (Chile)|National Renewal]]
+| The former senator and Labor minister was picked as candidate by her party's political commission on 20 July 2013, replacing [[Pablo Longueira]] who had quit the race three days earlier.<ref>{{cite web|url=http://www.biobiochile.cl/2013/07/20/udi-confirma-que-evelyn-matthei-sera-su-candidata-presidencial.shtml |title=UDI nomina a Evelyn Matthei como su candidata presidencial |publisher=Radio Bío-Bío |date= 2013-07-20|access-date=2013-08-11}}</ref> She was formally proclaimed as candidate by both UDI and [[National Renewal (Chile)|National Renewal]] on 10 August 2013.<ref>{{cite web|url=http://www.biobiochile.cl/2013/08/10/udi-realiza-consejo-para-proclamar-a-matthei-y-definir-candidatos-al-congreso.shtml |title=Consejo de la UDI proclama en forma unánime a Evelyn Matthei como abanderada presidencial - BioBioChile |date=10 August 2013 |publisher=Biobiochile.cl |access-date=2013-10-18}}</ref><ref>{{cite web|url=http://www.emol.com/noticias/nacional/2013/08/10/613947/tras-votacion-rn-proclamo-a-evelyn-matthei-como-su-candidata-presidencial.html |title=Consejo General de RN proclamó con amplia mayoría a Evelyn Matthei como su candidata |publisher=Emol.com |date=2011-04-29 |access-date=2013-10-18}}</ref> She officially registered her candidacy at the Electoral Service on 18 August 2013.<ref>{{cite web|url=http://www.emol.com/noticias/nacional/2013/08/18/615178/eveleyn-matthei-oficializa-su-candidatura-en-el-servel.html |title=Evelyn Matthei inscribe su candidatura en el Servel y asegura que habrá segunda vuelta |publisher=Emol.com |date=2013-08-18 |access-date=2013-10-18}}</ref> For further details, see [[Chilean presidential primaries, 2013]].
+|-
+| [[File:Roxana Miranda (cropped).jpg|75px|left]]<br/>'''[[Roxana Miranda]]'''<br /><small>[[Equality Party (Chile)|Equality Party]]</small> || [[File:Partido Igualdad.png|25px]] [[Equality Party (Chile)|Equality Party]] || The leader of ANDHA Chile (a group representing mortgage borrowers) was proclaimed on 21 January 2013 as the [[Equality Party (Chile)|Equality Party]]'s candidate for president.<ref>{{cite web|url=http://radio.uchile.cl/noticias/188585/ |title=Dirigenta vecinal asume como carta presidencial del Partido Igualdad: "Esto es una movilización más" « Radio Universidad de Chile – Diario Electrónico |publisher=Radio.uchile.cl |access-date=2013-04-04}}</ref> She officially registered her candidacy at the Electoral Service on 19 August 2013.<ref>{{cite web |url=http://www.latercera.com/noticia/politica/2013/08/674-538585-9-roxana-miranda-inscribe-candidatura-presidencial-con-41-mil-firmas.shtml |title=Roxana Miranda inscribe candidatura presidencial con 41 mil firmas {{pipe}} Política |publisher=La Tercera |date=2013-08-19 |access-date=2013-10-18 |archive-date=20 August 2013 |archive-url=https://web.archive.org/web/20130820113704/http://www.latercera.com/noticia/politica/2013/08/674-538585-9-roxana-miranda-inscribe-candidatura-presidencial-con-41-mil-firmas.shtml |url-status=dead }}</ref>
+|-
+| [[File:Franco Parisi headshot 2013.jpg|75px|left]]<br/>'''[[Franco Parisi (economist)|Franco Parisi]]'''<br /><small>Independent</small> || Independent electors || Economist and television commentator.<ref>{{cite web|url=http://www.adnradio.cl/noticias/sociedad/franco-parisi-precandidato-presidencial-la-politica-chilena-esta-como-las-farmacias-coludida/20120201/nota/1615826.aspx |title=Franco Parisi, precandidato presidencial: "La política chilena está como las farmacias, coludida" -20120201 |publisher=Adnradio.cl |access-date=2012-02-03}}</ref> On 7 August 2013, Parisi officially registered his independent candidacy at the Electoral Service. He presented over 52 thousand signatures, many more than the required minimum.<ref>{{cite web |url=http://www.latercera.com/noticia/politica/2013/08/674-536713-9-con-52-mil-firmas-franco-parisi-inscribe-candidatura-presidencial-independiente.shtml |title=Con 52 mil firmas, Franco Parisi inscribe candidatura presidencial independiente {{pipe}} Política |publisher=La Tercera |date=2013-08-07 |access-date=2013-10-18 |archive-date=2013-10-19 |archive-url=https://web.archive.org/web/20131019163925/http://www.latercera.com/noticia/politica/2013/08/674-536713-9-con-52-mil-firmas-franco-parisi-inscribe-candidatura-presidencial-independiente.shtml |url-status=dead }}</ref>
+|-
+| [[File:Alfredo Sfeir (cropped).jpg|75px|left]]<br/>'''[[Alfredo Sfeir]]'''<br /><small>[[Green Ecologist Party (Chile)|Green Ecologist Party]]</small> || [[File:Partido Ecologista Verde Municipales 2012.png|25px]] [[Green Ecologist Party (Chile)|Green Ecologist Party]] || The economist and spiritual leader was proclaimed as candidate by the [[Green Ecologist Party (Chile)|Green Ecologist Party]] on 13 April 2013,<ref>{{cite web|url=http://www.ecologistas.cl/2013/04/partido-ecologista-verde-levanta-candidatura-presidencial/ |title=Partido Ecologista Verde Levanta Candidatura Presidencial {{pipe}} Ecologistas Verdes |publisher=Ecologistas.cl |access-date=2013-05-26}}</ref> after beating Félix González in a party primary.<ref>{{cite web|url=http://radio.uchile.cl/noticias/205467/ |title=Alfredo Sfeir, la apuesta presidencial del Partido Ecologista « Radio Universidad de Chile – Diario Electrónico |publisher=Radio.uchile.cl |access-date=2013-05-26}}</ref> He officially registered his candidacy at the Electoral Service on 19 August 2013.<ref>{{cite web|url=http://www.emol.com/noticias/nacional/2013/08/19/615412/alfredo-sfeir-inscribio-su-candidatura-es-un-momento-historico.html |title=Alfredo Sfeir inscribió su candidatura: Es un momento histórico |publisher=Emol.com |date=2013-08-19 |access-date=2013-10-18}}</ref>
+|}
+
+===Unsuccessful candidacies===
+*[[Eduardo Díaz]] (Ind.): The former mayor of [[Toltén]] and founder of the [[Party of the South (Chile)|Party of the South]] (now defunct) is supported by the ''Alianza Independiente Regionalista'' (AIRE) movement.<ref>{{cite web |url=http://www.elciudadano.cl/2013/03/03/64003/siguen-surgiendo-candidatos-alternativos-a-la-presidencia-movimiento-regionalista-ya-tiene-el-suyo/ |title=El Ciudadano » Siguen surgiendo candidatos alternativos a la presidencia, Movimiento Regionalista ya tiene el suyo |publisher=Elciudadano.cl |date=2013-06-10 |access-date=2013-07-21 |archive-url=https://web.archive.org/web/20130731214541/http://www.elciudadano.cl/2013/03/03/64003/siguen-surgiendo-candidatos-alternativos-a-la-presidencia-movimiento-regionalista-ya-tiene-el-suyo |archive-date=2013-07-31 |url-status=dead }}</ref> By July 2013 he said he had collected around 28 thousand signatures.<ref>{{cite web |author=Nombre |url=http://www.elperiodico.cl/2013/07/eduardo-diaz-herrera-ya-cuenta-con-28-mil-firmas-para-ser-candidato-presidencial/ |title=Eduardo Díaz Herrera ya cuenta con 28 mil firmas para ser candidato presidencial {{pipe}} El Periodico |publisher=Elperiodico.cl |date=2013-07-17 |access-date=2013-10-18 |archive-date=19 October 2013 |archive-url=https://web.archive.org/web/20131019135039/http://www.elperiodico.cl/2013/07/eduardo-diaz-herrera-ya-cuenta-con-28-mil-firmas-para-ser-candidato-presidencial/ |url-status=dead }}</ref> However, he did not officially register his candidacy before the legal deadline of 19 August 2013.
+*[[Pablo Longueira]] ([[Independent Democratic Union|UDI]]): The former Minister of Economy and senator became the Alliance candidate for president after he beat [[Andrés Allamand]] from the [[National Renewal (Chile)|National Renewal]] party in a two-party primary held on 30 June 2013.<ref name="autogenerated1"/> However, on 17 July 2013 he unexpectedly quit the race after being diagnosed with depression.<ref>{{cite news|url=http://uk.reuters.com/article/uk-chile-politics-longueira-idUKBRE96G1BX20130717 |archive-url=https://web.archive.org/web/20181125020235/https://uk.reuters.com/article/uk-chile-politics-longueira-idUKBRE96G1BX20130717 |url-status=dead |archive-date=25 November 2018 |title=Chilean right-wing presidential candidate drops bid {{pipe}} Reuters |publisher=Uk.reuters.com |date= 17 July 2013|access-date=2013-07-21}}</ref>
+*[[Gustavo Ruz]] (Ind.): Sociologist and founder of the «Movement for a Constituent Assembly» was selected by said group as their candidate on 14 May 2013.<ref>{{cite web|url=http://radio.uchile.cl/noticias/210816/ |title=Movimiento por una Asamblea Constituyente oficializa candidatura de Gustavo Ruz « Radio Universidad de Chile – Diario Electrónico |publisher=Radio.uchile.cl |access-date=2013-05-26}}</ref> On 19 August 2013 he stepped out of the race, having collected only 27 thousand signatures out of the necessary 36 thousand.<ref>{{cite web|url=http://www.biobiochile.cl/2013/08/19/lider-de-asamblea-constituyente-baja-candidatura-presidencial-miranda-y-sfeir-siguen-en-carrera.shtml |title=Líder de "Asamblea Constituyente" baja candidatura presidencial, Miranda y Sfeir siguen en carrera - BioBioChile |date=19 August 2013 |publisher=Biobiochile.cl |access-date=2013-10-18}}</ref>
+
+==Opinion polls for presidential race==
+{| class="wikitable" style="font-size:90%"
+|-
+! colspan=2 | Legend
+|-
+| width=20 | — || Not on the list
+|-
+| style="width:20px; background:#fc0;" | || Wins election
+|-
+| style="width:20px; border:3px solid #fc0;" | || May win election
+|-
+| style="width:20px; background:#9cf;" | || Runoff
+|-
+| style="width:20px; background:#ddf;" | || May go to a runoff
+|}
+
+===First-round scenarios===
+{| class="wikitable"
+! Publisher !! Field date !! [[Michelle Bachelet|Bachelet]] !! [[Marcel Claude|Claude]] !! [[Marco Enríquez-Ominami|MEO]] !! [[Ricardo Israel|Israel]] !! [[Tomás Jocelyn-Holt|TJH]] !! [[Evelyn Matthei|Matthei]] !! [[Roxana Miranda|Miranda]] !! [[Franco Parisi (economist)|Parisi]] !! [[Alfredo Sfeir|Sfeir]] !! Other !! DK/NR !! Error !! Comments
+|-
+| CERC || 10 – 22 June 2013 || style="background:#fc0;" | 51 || 3 || 5|| — || — || — || — || 4 || — || 24 || 14 || 3.0 || <small>[https://web.archive.org/web/20130810155549/http://www.cerc.cl/cph_upl/Barometro_de_la_Politica_Junio_2013.pdf Source]</small>
+|-
+| La Segunda-UDD || 9 – 10 July 2013 || style="background:#fc0;" | 39 || 2 || 7 || — || — || — || — || 6 || — || 25 || 21 || 3 || <small>[http://www.la2da.cl/Pages/NewsDetail.aspx?dt=2013-07-12&PaginaId=20&bodyid=0 Source]</small>
+|-
+| CEP || 13 July - 18 August 2013 || style="background:#fc0;" | 45 || 2 || 4 || — || — || 11 || — || 4 || — || 14 || 20 || 3.0 || Open question. <small>([https://web.archive.org/web/20131016090018/http://www.cepchile.cl/dms/archivo_5349_3424/EncuestaCEP_JulAgo2013_completa.pdf Source])</small>
+|-
+| IPSOS || 17 August - 9 September 2013 || style="background:#9cf;" | 31 || 7 || 9 || 1 || 2 || style="background:#9cf;" | 20 || 1 || 13 || 2 || — || 15 || 3.3 || Will go to vote (75%). <small>([http://www.ipsos.cl/documentos/pulso_electoral_ipsos_comunicado01.pdf Source] {{Webarchive|url=https://web.archive.org/web/20150924040013/http://www.ipsos.cl/documentos/pulso_electoral_ipsos_comunicado01.pdf |date=24 September 2015 }})</small>
+|-
+| IPSOS || 17 August - 9 September 2013 || style="background:#9cf;" | 33 || 8 || 11 || 1 || 1 || style="background:#9cf;" | 22 || 1 || 11 || 1 || — || 11 || 3.3 || Likely voters (53%). <small>([http://www.ipsos.cl/documentos/pulso_electoral_ipsos_comunicado01.pdf Source] {{Webarchive|url=https://web.archive.org/web/20150924040013/http://www.ipsos.cl/documentos/pulso_electoral_ipsos_comunicado01.pdf |date=24 September 2015 }})</small>
+|-
+| Conecta || 30 August -7 September 2013 || style="background:#9cf; border:3px solid #fc0;" | 39.8 || 3.2 || 8.8 || 0.2 || — || style="background:#9cf;" | 17.7 || 0.8 || 9.9 || 0.5 || 4.1 || 15.0 || 3.9 || <small>[http://www.elmostrador.cl/media/2013/09/Encuesta-Conecta-Media-Research-septiembre-2013.pdf Source]</small>
+|-
+| Ichem (U. Autónoma) || 23 August - 27 September 2013 || style="background:#fc0;" | 44.4 || 3.5 || 8.4 || 0.2 || 0.2 || 17.3 || 0.0 || 7.6 || 0.8 || — || 17.7 || 2.35 || Will "surely" go to vote (55%). <small>([http://www.lanacion.cl/noticias/site/artic/20131009/asocfile/20131009131623/encuesta_ichem_ok.pdf Source] {{Webarchive|url=https://web.archive.org/web/20150611044844/http://www.lanacion.cl/noticias/site/artic/20131009/asocfile/20131009131623/encuesta_ichem_ok.pdf |date=11 June 2015 }})</small>
+|-
+| La Segunda-UDD || 10 – 12 September 2013 || style="background:#9cf;" | 38 || 4 || 7 || 0 || 0 || style="background:#9cf;" | 27 || 0 || 8 || 1 || — || 15 || 3.1 || <small>[http://www.lasegunda.com/Noticias/Politica/2013/09/878892/la-segunda-udd-mide-intencion-de-voto-de-los-9-candidatos-y-da-primeras-pistas-sobre-el-ajedrez-presidencial Source]</small>
+|-
+| ICSO (UDP) || 2 September - 10 October 2013 || style="background:#9cf; border:3px solid #fc0;" | 45.2 || 4.6 || 7.3 || <1.0 || <1.0 || style="background:#ddf;" | 15.9 || <1.0 || style="background:#ddf;" | 12.0 || <1.0 || 4.9 || 9.6 || 2.72 || Likely voters (51.4%). <small>([https://web.archive.org/web/20131022223958/http://www.encuesta.udp.cl/wp-content/uploads/2013/10/PPT-Encuesta-ICSO-UDP-2013.pdf Source])</small>
+|-
+| CEP || 13 September - 14 October 2013 || style="background:#fc0;" | 47 || 3 || 7 || 0 || 0 || 14 || 0 || 10 || 0 || 16 || 3 || 3.0 || Ballot-box vote. <small>([https://web.archive.org/web/20160304192536/http://www.cepchile.cl/PDFs_CEP/encuestaCEP_sep-oct2013-completa.pdf Source])</small>
+|-
+| CEP || 13 September - 14 October 2013 || style="background:#fc0;" | 54 || 3 || 8 || 0 || 0 || 19 || 0 || 7 || 0 || — || 9 || 3.0 || Will "surely" go to vote (50%). Questionnaire. <small>([https://web.archive.org/web/20160304192536/http://www.cepchile.cl/PDFs_CEP/encuestaCEP_sep-oct2013-completa.pdf Source])</small>
+|-
+| CEP || 13 September - 14 October 2013 || style="background:#fc0;" | 53.6 || 4.1 || 7.2 || 0.0 || 0.1 || 17.1 || 0.5 || 7.8 || 0.4 || 9.3 || — || 3.0 || Will "surely" go to vote (50%). Ballot-box vote. <small>([https://web.archive.org/web/20131109022613/http://www.cepchile.cl/dms/archivo_5388_3460/BDatos_encuesta_Septiembre-Octubre2013.zip Source])</small>
+|-
+| IPSOS || 24 September - 4 October 2013 || style="background:#9cf;" | 34 || 6 || 7 || 2 || 2 || style="background:#ddf;" | 19 || 2 || style="background:#ddf;" | 15 || 1 || — || 12 || 3.3 || Will go to vote (72%). <small>([https://web.archive.org/web/20131103171357/http://duna.cl/documentos/encuesta_Ipsos_octubre_2013.pdf Source])</small>
+|-
+| IPSOS || 24 September - 4 October 2013 || style="background:#9cf;" | 33 || 5 || 7 || 2 || 2 || style="background:#9cf;" | 23 || 2 || 15 || 1 || — || 10 || 3.3 || Likely voters (49%). <small>([https://web.archive.org/web/20131103171357/http://duna.cl/documentos/encuesta_Ipsos_octubre_2013.pdf Source])</small>
+|-
+| IPSOS || 8 – 18 October 2013 || style="background:#9cf;" | 30 || 6 || 8 || 2 || 2 || style="background:#ddf;" | 19 || 3 || style="background:#ddf;" | 15 || 2 || — || 13 || 2.6 || Will go to vote (75%). <small>([http://www.ipsos.cl/documentos/pulso_electoral_ipsos_comunicado03.pdf Source] {{Webarchive|url=https://web.archive.org/web/20160304045843/http://www.ipsos.cl/documentos/pulso_electoral_ipsos_comunicado03.pdf |date=4 March 2016 }})</small>
+|-
+| IPSOS || 8 – 18 October 2013 || style="background:#9cf;" | 32 || 6 || 7 || 2 || 3 || style="background:#9cf;" | 20 || 3 || 14 || 2 || — || 11 || 2.6 || Likely voters (51%). <small>([http://www.ipsos.cl/documentos/pulso_electoral_ipsos_comunicado03.pdf Source] {{Webarchive|url=https://web.archive.org/web/20160304045843/http://www.ipsos.cl/documentos/pulso_electoral_ipsos_comunicado03.pdf |date=4 March 2016 }})</small>
+|-
+| La Segunda-UDD || 16 – 17 October 2013 || style="background:#9cf; border:3px solid #fc0;" | 40 || 3 || 7 || 0 || 0 || style="background:#9cf;" | 26 || 0 || 10 || 0 || — || 14 || 3.4 || <small>[http://www.lasegunda.com/Noticias/Politica/2013/10/886758/encuesta-la-segunda-udd-mide-el-vertigo-final-bachelet-alcanza-el-40-matthei-se-mantiene-en-26-y-parisi-supera-a-me-o Source]</small>
+|-
+| El Mercurio-Opina || 19/20 and 26/27 October 2013 || style="background:#9cf; border:3px solid #fc0;" | 46.2 || 1.7 || 7.2 || 0.2 || 0.1 || style="background:#9cf;" | 21.7 || 1.1 || 7.9 || 0.3 || 13.6 || — || 3.1 || Likely voters (56.1%). Ballot-box vote. <small>([http://impresa.elmercurio.com/Pages/NewsDetail.aspx?dt=2013-11-02&dtB=02-11-2013%200:00:00&PaginaId=2&bodyid=3 Source] {{Webarchive|url=https://web.archive.org/web/20190602182830/http://impresa.elmercurio.com/Pages/NewsDetail.aspx?dt=2013-11-02&dtB=02-11-2013%200:00:00&PaginaId=2&bodyid=3 |date=2 June 2019 }})</small>
+|-
+| IPSOS || 19 October - 5 November 2013 || style="background:#9cf;" | 30 || 5 || 12 || 2 || 0 || style="background:#9cf;" | 20 || 3 || 13 || 2 || — || 13 || 2.2 || Will go to vote (76%). <small>([http://www.ipsos.cl/pulso_electoral/Default.aspx Source]{{dead link|date=August 2017 |bot=InternetArchiveBot |fix-attempted=yes }})</small>
+|-
+| IPSOS || 19 October - 5 November 2013 || style="background:#9cf;" | 32 || 6 || 11 || 2 || 0 || style="background:#9cf;" | 20 || 3 || 14 || 3 || — || 9 || 2.2 || Likely voters (54%). <small>([http://www.ipsos.cl/documentos/pulso_electoral_ipsos_comunicado04.pdf Source] {{Webarchive|url=https://web.archive.org/web/20160304003731/http://www.ipsos.cl/documentos/pulso_electoral_ipsos_comunicado04.pdf |date=4 March 2016 }})</small>
+|}
+
+===Second-round scenarios===
+
+====Bachelet vs. Matthei====
+{| class="wikitable"
+|-
+! Publisher !! Field date !! [[Michelle Bachelet|Bachelet]] !! [[Evelyn Matthei|Matthei]] !! Other !! DK/NR !! Error !! Comments
+|-
+| Conecta || 30 August - 7 September 2013 || style="background:#fc0;" | 57.6 || 23.1 || 9.3 || 10.0 || 3.9 || <small>[http://www.elmostrador.cl/media/2013/09/Encuesta-Conecta-Media-Research-septiembre-2013.pdf Source]</small>
+|-
+| ICSO (UDP) || 2 September - 10 October 2013 || style="background:#fc0;" | 47.4 || 17.2 || 22.0 || 13.4 || 2.72 || <small>[https://web.archive.org/web/20131022223958/http://www.encuesta.udp.cl/wp-content/uploads/2013/10/PPT-Encuesta-ICSO-UDP-2013.pdf Source]</small>
+|-
+| Ipsos-Usach || 21 November - 2 December 2013 || style="background:#fc0;" | 65.2 || 34.9 || — || — || 4.3 || Voted in first round and will go to vote. <small>([http://www.elmostrador.cl/media/2013/12/Estudio_de_valores_sociales_y_politica_UdeSantiago_Dic_2013.pdf Source]{{dead link|date=August 2017 |bot=InternetArchiveBot |fix-attempted=yes }})</small>
+|}
+
+==Presidential campaign==
+
+===Debates===
+
+====First round====
+[[File:Debate presidencial Anatel 30102013 2.jpg|thumb|All nine candidates during the Anatel debate.]]
+
+The first debate was organized by ANP (National Press Association) and [[CNN Chile]] and took place in [[Coquimbo]]'s Enjoy Casino on 9 October. It ran from 20:00-22:00 with all candidates —except Bachelet, citing a prior commitment— participating.<ref>{{cite web |url=http://diario.latercera.com/2013/10/09/01/contenido/pais/31-148019-9-sin-bachelet-abanderados-sostienen-primer-debate-por-tv.shtml |title=Sin Bachelet, abanderados sostienen primer debate por TV |publisher=Diario.latercera.com |access-date=2013-10-18 |archive-date=12 October 2013 |archive-url=https://web.archive.org/web/20131012013506/http://diario.latercera.com/2013/10/09/01/contenido/pais/31-148019-9-sin-bachelet-abanderados-sostienen-primer-debate-por-tv.shtml |url-status=dead }}</ref> It was moderated by CNN Chile anchor Daniel Matamala. There were four other journalists from regional media present who asked the candidates two randomly selected questions. Matamala also asked two questions, which were the same to all eight candidates.<ref>{{cite web |url=http://www.lanacion.cl/sepa-como-sera-el-debate-presidencial-de-la-anp-sin-bachelet/noticias/2013-10-08/102301.html |title=nacion.cl - Sepa cómo será el debate presidencial de la ANP sin Bachelet |publisher=Lanacion.cl |date=2013-10-08 |access-date=2013-10-18 |archive-date=12 October 2013 |archive-url=https://web.archive.org/web/20131012031556/http://www.lanacion.cl/sepa-como-sera-el-debate-presidencial-de-la-anp-sin-bachelet/noticias/2013-10-08/102301.html |url-status=dead }}</ref>
+
+A radio debate organized by the Radio Broadcasters Association of Chile (Archi), took place on 25 October 2013 at the Gabriela Mistral Cultural Centre (GAM) in Santiago. The debate, which featured all nine candidates for the first time, was broadcast by over 600 radio stations across the country. It started at 8 AM and lasted for about 140 minutes. It was moderated by Archi president Luis Pardo and included four radio journalists: Sergio Campos (Cooperativa), Cony Stipicic (Duna), Mauricio Bustamente (Infinita) and Alejandro de la Carrera (Agricultura).<ref>{{cite web|author=El Mercurio S.A.P. |url=http://www.lasegunda.com/Noticias/Politica/2013/10/887552/como-sera-el-debate-archi-que-reunira-por-primera-vez-a-los-nueve-candidatos-presidenciales |title=Cómo será el debate ARCHI que reunirá por primera vez a los nueve candidatos presidenciales |publisher=LaSegunda.com |date=2013-10-22 |access-date=2013-11-22}}</ref><ref>{{cite web|author=24horas.cl |url=http://www.24horas.cl/politica/decision2013/minuto-a-minuto-debate-presidencial-de-la-archi-905191 |title=[MINUTO A MINUTO&#93; Debate presidencial de la Archi - Decisión 2013 - 24horas |publisher=24horas.cl |date=2013-10-24 |access-date=2013-11-22}}</ref>
+
+A series of two consecutive televised debates were organized by the National Television Association (Anatel) and broadcast by all national terrestrial television stations. All nine candidates participated, as well. The first part of the debate aired on 29 October 2013, with a second part transmitted the next day. Both shows took place at TVN's studios in Santiago, beginning at 10 PM and running for over two hours. Former Anatel president Bernardo Donoso served as moderator. The journalists for the first day were Constanza Santa María (Canal 13), Soledad Onetto (Mega) and Claudio Elórtegui (UCV-TV); while the journalists for the second day were Beatriz Sánchez (La Red), Iván Núñez (Chilevisión) and Mauricio Bustamante (TVN).<ref>{{cite web |url=http://www.lanacion.cl/reviva-el-minuto-a-minuto-del-primer-debate-de-anatel/noticias/2013-10-29/201411.html |title=nacion.cl - Reviva el minuto a minuto del primer debate de Anatel |publisher=Lanacion.cl |date=2013-10-30 |access-date=2013-11-22 |archive-date=2 December 2013 |archive-url=https://web.archive.org/web/20131202232307/http://www.lanacion.cl/reviva-el-minuto-a-minuto-del-primer-debate-de-anatel/noticias/2013-10-29/201411.html |url-status=dead }}</ref><ref>{{cite web |url=http://www.lanacion.cl/repase-todo-lo-que-dejo-el-segundo-debate-presidencial-de-anatel/noticias/2013-10-30/210126.html |title=nacion.cl - Repase todo lo que dejó el segundo debate presidencial de Anatel |publisher=Lanacion.cl |date=2013-10-31 |access-date=2013-11-22 |archive-date=5 November 2013 |archive-url=https://web.archive.org/web/20131105120836/http://www.lanacion.cl/repase-todo-lo-que-dejo-el-segundo-debate-presidencial-de-anatel/noticias/2013-10-30/210126.html |url-status=dead }}</ref>
+
+====Runoff====
+
+A radio debate on 6 December 2013 was organized by Archi.<ref>{{cite web |url=http://www.latercera.com/noticia/politica/2013/12/674-554561-9-la-preparacion-de-bachelet-y-matthei-para-el-primer-debate-en-miras-a-la-segunda.shtml |title=La preparación de Bachelet y Matthei para el primer debate en miras a la segunda vuelta {{pipe}} Política |publisher=La Tercera |date=1990-01-01 |access-date=2013-12-21 |archive-date=3 December 2013 |archive-url=https://web.archive.org/web/20131203213448/http://www.latercera.com/noticia/politica/2013/12/674-554561-9-la-preparacion-de-bachelet-y-matthei-para-el-primer-debate-en-miras-a-la-segunda.shtml |url-status=dead }}</ref>{{Better source needed|date=December 2013}} A television debate organized by Anatel was held 10 December 2013.<ref>{{cite web|url=http://www.emol.com/noticias/nacional/2013/12/04/633133/sorteo-debate-de-anatel.html |title=Evelyn Matthei abrirá y cerrará debate presidencial de Anatel |publisher=Emol.com |access-date=2013-12-21}}</ref>{{Better source needed|date=December 2013}}
+
+==Results==
+===President===
+[[File:Voto presidente 2013.png|thumb|Ballot used in the first round]]
+[[File:Voto presidente 2013 2v.png|thumb|Ballot used in the runoff]]
+
+{{Election results
+|cand1=[[Michelle Bachelet]]|party1=[[Socialist Party of Chile|PS]]|alliance1=[[Nueva Mayoría]]|votes1=3075839|votes1_2=3470379
+|cand2=[[Evelyn Matthei]]|party2=[[Independent Democratic Union|UDI]]|alliance2=[[Alliance (Chile)|Alliance]]|votes2=1648481|votes2_2=2111891
+|cand3=[[Marco Enríquez-Ominami]]|party3=[[Progressive Party (Chile)|PRO]]|alliance3=[[If You Want It, Chile Changes]]|votes3=723542
+|cand4=[[Franco Parisi]]|alliance4=Independent|votes4=666015
+|cand5=[[Marcel Claude]]|party5=[[Humanist Party (Chile)|PH]]|alliance5=[[Everyone to La Moneda]]|votes5=185072
+|cand6=[[Alfredo Sfeir]]|alliance6=[[Green Ecologist Party (Chile)|Green Ecologist Party]]|votes6=154648
+|cand7=[[Roxana Miranda]]|alliance7=[[Equality Party (Chile)|Equality Party]]|votes7=81873
+|cand8=[[Ricardo Israel]]|alliance8=[[Independent Regionalist Party]]|votes8=37744
+|cand9=[[Tomás Jocelyn-Holt]]|alliance9=Independent|votes9=12594
+|invalid=66935|invalid2=82916
+|blank=46268|blank2=32565
+|electorate=13573143|electorate2=13573143
+|source=[http://www.diariooficial.interior.gob.cl/media/2013/12/03/11-large.jpg Tricel via Diario Oficial], [http://www.leychile.cl/Navegar?idNorma=1056880 Tricel via LeyChile], [https://web.archive.org/web/20140110182221/http://www.tricel.cl/informacioncausas/Tramitacin%20de%20Causas/170-2013%2001.-%20SENTENCIA%20PRESIDENTE%20DE%20LA%20REPUBLICA.pdf Tricel]
+}}
+
+===Senate===
+[[File:Voto senadores 2013 Coquimbo.png|thumb|Ballot used in the Senate election in Coquimbo region.]]
+
+Senators are elected for eight-year mandates, and roughly half of the Senate is renewed every four years. On this election, ten out of 19 senatorial constituencies were contested. As each constituency elects two representatives, this results in 20 new senators.
+
+{{Election results
+|seattype1=Won|seattype2=Not up|seattype3=Total
+|alliance1=[[Nueva Mayoría]]|aspan1=7|party1=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes1=744261|st1t1=2|st2t1=4|st3t1=6
+|party2=[[Socialist Party of Chile|Socialist Party]]|votes2=728455|st1t2=4|st2t2=2|st3t2=6
+|party3=[[Party for Democracy (Chile)|Party for Democracy]]|votes3=556131|st1t3=3|st2t3=3|st3t3=6
+|party4=[[MAS Region|Broad Social Movement]]|votes4=156372|st1t4=1|st2t4=0|st3t4=1
+|party5=[[Communist Party of Chile|Communist Party]]|votes5=6423|st1t5=0|st2t5=0|st3t5=0
+|party6=Independents|votes6=91112|st1t6=2|st2t6=0|st3t6=2
+|atotal7=2282754|ast1t7=12|ast2t7=9|ast3t7=21
+|alliance8=[[Alliance (Chile)|Alliance]]|aspan8=4|party8=[[National Renewal (Chile)|National Renewal]]|votes8=733726|st1t8=2|st2t8=6|st3t8=8
+|party9=[[Independent Democratic Union]]|votes9=662447|st1t9=5|st2t9=3|st3t9=8
+|party10=Independents|votes10=319528|st1t10=0|st2t10=0|st3t10=0
+|atotal11=1715731|ast1t11=7|ast2t11=9|ast3t11=16
+|alliance12=[[New Constitution for Chile]]|aspan12=4|party12=[[Equality Party (Chile)|Equality Party]]|votes12=70692|st1t12=0|st2t12=0|st3t12=0|acolor12=green
+|party13=[[Green Ecologist Party (Chile)|Green Ecologist Party]]|votes13=9895|st1t13=0|st2t13=0|st3t13=0
+|party14=Independents|votes14=95328|st1t14=0|st2t14=0|st3t14=0
+|atotal15=175915|ast1t15=0|ast2t15=0|ast3t15=0
+|alliance16=[[Humanist Party (Chile)|Humanist Party]]|votes16=156336|st1t16=0|st2t16=0|st3t16=0
+|alliance17=[[If You Want It, Chile Changes]]|party17=Independents|votes17=109702|st1t17=0|st2t17=0|st3t17=0
+|alliance18=Independents|votes18=68706|st1t18=1|st2t18=0|st3t18=1
+|invalid=166402
+|blank=176649
+|source=[http://www.servel.cl/elecciones-de-senadores-1989-al-2013-por-circunscripcion-electoral/ Servel]
+}}
+
+===Chamber of Deputies===
+[[File:Voto diputados 2013 Distrito 7.png|thumb|Ballot used in the deputies election.]]
+
+{{Election results
+|alliance1=[[Nueva Mayoría]]|aspan1=8|party1=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes1=967003|seats1=21
+|party2=[[Socialist Party of Chile|Socialist Party]]|votes2=691713|seats2=15
+|party3=[[Party for Democracy (Chile)|Party for Democracy]]|votes3=685804|seats3=15
+|party4=[[Communist Party of Chile|Communist Party]]|votes4=255914|seats4=6
+|party5=[[Radical Party of Chile (2018)|Social Democrat Radical Party]]|votes5=225955|seats5=6
+|party6=[[MAS Region|Broad Social Movement]]|votes6=6387|seats6=0
+|party7=Independents|votes7=135120|seats7=4
+|atotal8=2967896|aseats8=67
+|alliance9=[[Alliance (Chile)|Alliance]]|aspan9=4|party9=[[Independent Democratic Union]]|votes9=1179342|seats9=29
+|party10=[[National Renewal (Chile)|National Renewal]]|votes10=928037|seats10=19
+|party11=Independents|votes11=146402|seats11=1
+|atotal12=2253781|aseats12=49
+|alliance13=[[If You Want It, Chile Changes]]|aspan13=4|party13=[[Progressive Party (Chile)|Progressive Party]]|votes13=235722|seats13=0
+|party14=[[Liberal Party of Chile (2013)|Liberal Party]]|votes14=16664|seats14=1
+|party15=Independents|votes15=85437|seats15=0
+|atotal16=337823|aseats16=1
+|alliance17=[[Humanist Party (Chile)|Humanist Party]]|votes17=208879|seats17=0
+|alliance18=[[New Constitution for Chile]]|aspan18=4|party18=[[Equality Party (Chile)|Equality Party]]|votes18=67094|seats18=0|acolor18=green
+|party19=[[Green Ecologist Party (Chile)|Green Ecologist Party]]|votes19=32762|seats19=0
+|party20=Independents|votes20=73047|seats20=0
+|atotal21=172903|aseats21=0
+|alliance22=[[Regionalist Party of the Independents]]|votes22=72306|seats22=0
+|alliance23=Independents|votes23=206634|seats23=3
+|invalid=220868
+|blank=257434
+|source=[http://www.servel.cl/elecciones-de-diputados-1989-al-2013-por-circunscripcion-electoral/ Servel]
+}}
+
+===Regional boards===
+[[File:Voto CORE Magallanes 2013.png|thumb|Ballot used in the regional board election in Magallanes province]]
+''Provisional results including 99.92% of ballot boxes.'' There were 41,349 ballot boxes for the regional boards election. The results above are a revised count made by the polling officers the following day.
+
+{{Election results
+|alliance1=[[Alliance (Chile)|Alliance]]|aspan1=4|party1=[[Independent Democratic Union]]|votes1=822819|seats1=47
+|party2=[[National Renewal (Chile)|National Renewal]]|votes2=809988|seats2=42
+|party3=Independents|votes3=246504|seats3=13
+|atotal4=1879311|aseats4=102
+|alliance5=[[Nueva Mayoría|Nueva Mayoría para Chile]]{{efn|name=NM|The New Majority coalition split into two lists for this election. The names in Spanish are similar and both translate as "New Majority for Chile". The list obtaining the most votes is called ''Nueva Mayoría para Chile'', while the other list is called ''Nueva Mayoría por Chile''.}}|aspan5=4|party5=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes5=718188|seats5=45|acolor5=orange
+|party6=[[Socialist Party of Chile|Socialist Party]]|votes6=614178|seats6=33
+|party7=Independents|votes7=119683|seats7=11
+|atotal8=1452049|aseats8=89
+|alliance9=[[Nueva Mayoría|Nueva Mayoría por Chile]]{{efn|name=NM}}|aspan9=6|party9=[[Party for Democracy (Chile)|Party for Democracy]]|votes9=569217|seats9=32|acolor9=orange
+|party10=[[Communist Party of Chile|Communist Party]]|votes10=286422|seats10=12
+|party11=[[Radical Party of Chile (2018)|Social Democrat Radical Party]]|votes11=173002|seats11=12
+|party12=[[MAS Region|Broad Social Movement]]|votes12=6602|seats12=0
+|party13=Independents|votes13=234670|seats13=13
+|atotal14=1269913|aseats14=69
+|alliance15=[[If You Want It, Chile Changes]]|aspan15=4|party15=[[Progressive Party (Chile)|Progressive Party]]|votes15=227889|seats15=2
+|party16=[[Liberal Party of Chile (2013)|Liberal Party]]|votes16=1402|seats16=0
+|party17=Independents|votes17=134114|seats17=1
+|atotal18=363405|aseats18=3
+|alliance19=[[Independent Regionalist Party|PRI Regionalist Movement]]|aspan19=3|party19=[[Independent Regionalist Party]]|votes19=179146|seats19=2
+|party20=Independents|votes20=166957|seats20=6
+|atotal21=346103|aseats21=8
+|alliance22=[[Everyone to La Moneda]]|aspan22=3|party22=[[Humanist Party (Chile)|Humanist Party]]|votes22=99615|seats22=0|acolor22=orange
+|party23=Independents|votes23=163383|seats23=1
+|atotal24=262998|aseats24=1
+|alliance25=[[New Constitution for Chile]]|aspan25=5|party25=[[Equality Party (Chile)|Equality Party]]|votes25=39367|seats25=0|acolor25=green
+|party26=[[Green Ecologist Party (Chile)|Green Ecologist Party]]|votes26=34572|seats26=1
+|party27=[[Green Ecologist Party (Chile)|Green Ecologist Party of the North]]|votes27=3930|seats27=0
+|party28=Independents|votes28=123128|seats28=0
+|atotal29=200997|aseats29=1
+|alliance30=For the Development of the North|aspan30=3|party30=Northern Force|votes30=4198|seats30=0
+|party31=Independents|votes31=18651|seats31=4
+|atotal32=22849|aseats32=4
+|alliance33=Independents|votes33=24576|seats33=1
+|invalid=322578
+|blank=529132
+|source=[https://web.archive.org/web/20131206011749/http://www.servel.cl/ss/Satellite?c=Page&cid=1349388530591&pagename=SERVEL%2FPage%2FS_ListadoElectoral Servel]
+}}
+
+==Reactions==
+Following the result of the first round election, Bachelet said: "We knew that it would be tough to win on the first round, we worked really hard, and we almost did it. We did win tonight, and we are going to work hard to win comfortably in December."<ref name="aljaz">{{cite web|url=http://www.aljazeera.com/news/americas/2013/11/bachelet-wins-first-round-chile-vote-201311180817859676.html |title=Bachelet tops Chile president vote - Americas |publisher=Al Jazeera English |access-date=2013-12-21}}</ref> Following the first round, both candidates offered no change in aggressive campaigning for the second round except to include young MPs elected in their campaign. Matthei did however compare her politices that of German Chancellor [[Angela Merkel]] and Bachelet's to that of the former [[East Germany]]. While Green Ecologist Party's candidate [[Alfredo Sfeir]] was the only losing first-round candidate to back one of the two second-round candidates, in his case Michelle Bachelet,<ref name="wpost">{{cite news|last=Siavelis |first=Peter M. |url=https://www.washingtonpost.com/blogs/monkey-cage/wp/2013/12/18/bachelet-returns-to-power-in-chile-with-impressive-victory-but-what-does-low-turnout-mean-for-her-mandate/ |title=Bachelet returns to power in Chile with impressive victory, but what does low turnout mean for her mandate? |work=Washingtonpost.com |access-date=2013-12-21}}</ref> independent candidate [[Franco Parisi]] said "Bachelet will be a great President, (...) Matthei would do bad for Chile, she is not to be trusted."<ref>{{cite web |url=http://www.eldinamo.cl/2013/12/11/parisi-bachelet-va-a-hacer-un-gran-gobierno/ |title=Parisi: "Bachelet va a hacer un gran Gobierno" {{pipe}} El Dínamo |publisher=Eldinamo.cl |access-date=2013-12-21 |archive-url=https://web.archive.org/web/20131219031526/http://www.eldinamo.cl/2013/12/11/parisi-bachelet-va-a-hacer-un-gran-gobierno/ |archive-date=2013-12-19 |url-status=dead }}</ref>
+
+U.S. President [[Barack Obama]] spoke with Bachelet, while the [[White House]] issued a statement that read: "The President expressed his desire to continue strengthening the [[Chile-United States relations|relationship between the United States and Chile]], building on the close partnership he enjoyed with President-elect...The President looks forward to working closely with President-elect Bachelet to advance our shared interests in the years ahead."<ref>{{cite news|author=David Jackson, USA TODAY |url=https://www.usatoday.com/story/theoval/2013/12/18/obama-michelle-bachelet-chile-phone-call/4115277/ |title=Obama calls president-elect of Chile |publisher=Usatoday.com |date= 18 December 2013|access-date=2013-12-21}}</ref>
+
+===Analysis===
+Though Bachelet's New Majority gained a majority of seats in the legislature, it failed to gain a four-sevenths majority required to pass legislation for her cornerstone education reform, which was the reason for mass mobilisation amidst the ongoing [[2011–13 Chilean student protests]]. They also failed to get a two-thirds majority to restructure the 1981 [[Chilean Constitution of 1980|constitution of Chile]] enacted during the [[Augusto Pinochet]] regime. [[Wake Forest University|Wake Forest]] political science Professor Peter Siavelis suggested: "The [congressional elections] result will surely be disappointing for Bachelet. [[Social movement]]s that have spilled onto the streets are demanding reform, yet the limits of the institutional structure of Chile are going to limit her capacity to engage in reform. Even though Bachelet may be the winner tonight she is not in an enviable position."<ref name="aljaz"/> ''[[The Washington Post]]'' said that Bachelet's "legacy now rides on her ability to craft a coalition for far-reaching structural and particularly political reform." It also questioned what a low turnout could mean for her mandate, which it said was not clear enough as she had to go to a second round.<ref name="wpost"/> The ''[[Huffington Post]]'' drew the 40th anniversary of the [[1973 Chilean coup d'etat|11 September coup]] as a more than subtle backdrop to the election while saying the election was a referendum on Pinochet.<ref>{{cite news|url=https://www.huffingtonpost.com/gary-villablanca-duff/chiles-election-a-referen_b_4293218.html |title=Chile's Election: A Referendum on Pinochet {{pipe}} Gary Villablanca Duff |publisher=Huffingtonpost.com |date= 18 December 2013|access-date=2013-12-21}}</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20130704065000/http://historico.servel.cl/ Election results from 1989 to 2012] (Servel)
+
+{{Chilean elections}}
+
+[[Category:2013 elections in South America|Chile]]
+[[Category:2013 elections in Chile|General]]
+[[Category:Parliamentary elections in Chile]]
+[[Category:Presidential elections in Chile]]
+[[Category:November 2013 in South America|Chile]]
+[[Category:December 2013 in South America|Chile]]
+[[Category:Presidency of Sebastián Piñera]]

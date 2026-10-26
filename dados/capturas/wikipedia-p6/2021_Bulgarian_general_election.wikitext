@@ -1,0 +1,3266 @@
+{{short description|none}}
+{{use dmy dates|date=November 2021}}
+{{Infobox election
+| country = Bulgaria
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| previous_election = 2016 Bulgarian presidential election
+| previous_year = 2016
+| next_election = 2026 Bulgarian presidential election
+| next_year = 2026
+| election_date = {{nowrap|{{start date|2021|11|14|df=yes}} (first round)<br>{{start date|2021|11|21|df=yes}} (second round)}}
+| turnout = 40.47% (first round) {{decrease}}15.81pp<br>34.85% (second round) {{decrease}}15.59pp
+
+| image1 = Sergio Mattarella Rumen Radev al Quirinale 2021 (7) (cropped).jpg
+| nominee1 = '''[[Rumen Radev]]'''
+| party1 = Independent politician
+| alliance1 = {{hlist|[[BSP for Bulgaria|BSPzB]]|[[We Continue the Change|PP]]|[[There Is Such a People|ITN]]|[[Stand Up.BG! We are coming!|IBG-NI]]}}
+| color1 = DB0F28
+| running_mate1 = '''[[Iliana Iotova]]'''
+| popular_vote1 = '''1,539,650'''
+| percentage1 = '''66.72%'''
+
+| image2 = Anastas Gerdzhikov (cropped).jpg
+| nominee2 = [[Anastas Gerdzhikov]]
+| party2 = Independent politician
+| alliance2 = [[GERB–SDS]]
+| color2 = {{party colour|GERB}}
+| running_mate2 = [[Nevyana Miteva]]
+| popular_vote2 = 733,791
+| percentage2 = 31.80%
+
+| map = {{Switcher
+| [[File:November 2021 Bulgarian presidential election first round Results.svg|300px]]
+| First round results by electoral district
+| [[File:November 2021 Bulgarian presidential election second round Results.svg|300px]]
+| Second round results by electoral district
+|default=2}}
+
+| title = [[President of Bulgaria|President]]
+| before_election = [[Rumen Radev]]
+| before_party = Independent politician
+| after_election = [[Rumen Radev]]
+| after_party = Independent politician
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| seats_for_election = All 240 seats in the [[47th National Assembly of Bulgaria|47th National Assembly]]
+| majority_seats = 121
+| previous_election = [[July 2021 Bulgarian parliamentary election|Jul&nbsp;2021]]
+| next_election = [[2022 Bulgarian parliamentary election|2022]]
+| election_date = {{nowrap|{{start date|2021|11|14|df=yes}}}}
+| turnout = 40.04% ({{decrease}} 1.59pp)
+
+| leader1 = [[Kiril Petkov|K. Petkov]] & [[Asen Vasilev|A. Vasilev]]
+| party1 = We Continue the Change
+| last_election1 = New
+| seats1 = 67
+| percentage1 = 25.67
+
+| leader2 = [[Boyko Borisov]]
+| party2 = {{nowrap|[[GERB–SDS]]}}
+| color2 = {{party color|GERB}}
+| last_election2 = 63
+| seats2 = 59
+| percentage2 = 22.74
+
+| leader3 = [[Mustafa Karadayi]]
+| party3 = Movement for Rights and Freedoms
+| last_election3 = 29
+| seats3 = 34
+| percentage3 = 13.00
+
+| leader4 = [[Korneliya Ninova]]
+| party4 = BSP for Bulgaria
+| last_election4 = 36
+| seats4 = 26
+| percentage4 = 10.21
+
+| leader5 = [[Slavi Trifonov]]
+| party5 = There Is Such a People
+| last_election5 = 65
+| seats5 = 25
+| percentage5 = 9.52
+
+| leader6 = {{nowrap|[[Atanas Atanasov (politician, born 1959)|A. Atanasov]] & [[Hristo Ivanov (politician)|H. Ivanov]]}}
+| party6 = Democratic Bulgaria
+| last_election6 = 34
+| seats6 = 16
+| percentage6 = 6.37
+
+| leader7 = [[Kostadin Kostadinov (politician)|Kostadin Kostadinov]]
+| party7 = Revival (Bulgarian political party)
+| last_election7 = 0
+| seats7 = 13
+| percentage7 = 4.86
+
+| map = {{Switcher
+| [[File:November 2021 Bulgarian parliamentary election - Combined Results.svg|300px]]
+| Distribution of seats by electoral district and largest party within each district
+| [[File:November 2021 Bulgarian parliamentary election - Vote Strength.svg|300px]]
+| Strongest party in each electoral district
+| [[File:November 2021 Bulgarian parliamentary election - Results.svg|300px]]
+| Distribution of seats by electoral district
+}}
+
+| title = [[Prime Minister of Bulgaria|Prime Minister]]
+| before_election = [[Stefan Yanev]] (caretaker)
+| before_party = Independent<br>([[Second Yanev Government]])
+| after_election = [[Kiril Petkov]]
+| after_party = [[We Continue the Change|PP]]<br>([[Petkov Government]])
+}}}}
+}}
+
+[[General election]]s were held in [[Bulgaria]] on 14 November 2021 to elect both the [[President of Bulgaria|president]] and the [[National Assembly (Bulgaria)|National Assembly]].<ref name="sofiaglobe.com">{{Cite web|date=11 September 2021|title=Bulgaria's President: Parliamentary and presidential elections will be '2 in 1' on November 14|url=https://sofiaglobe.com/2021/09/11/bulgarias-president-parliamentary-and-presidential-elections-will-be-2-in-1-on-november-14/|access-date=11 September 2021|website=The Sofia Globe|language=en-US|archive-date=11 September 2021|archive-url=https://web.archive.org/web/20210911091511/https://sofiaglobe.com/2021/09/11/bulgarias-president-parliamentary-and-presidential-elections-will-be-2-in-1-on-november-14/|url-status=live}}</ref><ref>{{Cite web|title=Bulgarians vote in elections for third time this year|url=https://www.aljazeera.com/news/2021/11/14/bulgarians-vote-in-elections-for-third-time-this-year|access-date=14 November 2021|website=www.aljazeera.com|language=en|archive-date=14 November 2021|archive-url=https://web.archive.org/web/20211114072115/https://www.aljazeera.com/news/2021/11/14/bulgarians-vote-in-elections-for-third-time-this-year|url-status=live}}</ref> They were the country's third parliamentary elections in 2021, with no party able to form a government after the elections in [[April 2021 Bulgarian parliamentary election|April]] and [[July 2021 Bulgarian parliamentary election|July]].<ref>{{Cite web|date=11 September 2021|title=Crisis-hit Bulgaria to hold new snap election on 14 November|url=https://www.theguardian.com/world/2021/sep/11/crisis-hit-bulgaria-to-hold-new-snap-election-on-14-november|access-date=11 September 2021|website=The Guardian|language=en|archive-date=11 September 2021|archive-url=https://web.archive.org/web/20210911115617/https://www.theguardian.com/world/2021/sep/11/crisis-hit-bulgaria-to-hold-new-snap-election-on-14-november|url-status=live}}</ref><ref>{{Cite web|date=11 September 2021|title=Bulgaria to hold 3rd parliamentary election of 2021|url=https://www.theintelligencer.com/news/article/Bulgaria-to-hold-3rd-parliamentary-election-of-16451138.php|access-date=11 September 2021|website=The Edwardsville Intelligencer|language=en-US|archive-date=11 September 2021|archive-url=https://web.archive.org/web/20210911143046/https://www.theintelligencer.com/news/article/Bulgaria-to-hold-3rd-parliamentary-election-of-16451138.php|url-status=live}}</ref> A second round of the presidential elections were held on 21 November 2021 as no candidate was able to receive a majority of the vote in the first round.<ref name="politico.eu">{{Cite web|date=2 September 2021|title=Bulgaria will hold November 14 presidential vote amid political crisis|url=https://www.politico.eu/article/bulgaria-presidential-election-politics-crisis/|access-date=2 September 2021|website=POLITICO|language=en-US|archive-date=2 September 2021|archive-url=https://web.archive.org/web/20210902115308/https://www.politico.eu/article/bulgaria-presidential-election-politics-crisis/|url-status=live}}</ref><ref name="reuters.com">{{Cite web|date=2 September 2021|title=Bulgaria to hold presidential election on Nov. 14|url=https://www.reuters.com/world/europe/bulgaria-hold-presidential-election-nov14-2021-09-02/|access-date=2 September 2021|website=Reuters|language=en|archive-date=2 September 2021|archive-url=https://web.archive.org/web/20210902070909/https://www.reuters.com/world/europe/bulgaria-hold-presidential-election-nov14-2021-09-02/|url-status=live}}</ref>  
+
+[[We Continue the Change]] won the most seats, although it was not a majority. Shortly after the election, they announced that coalition talks were going to be held.<ref>{{Cite news|last=Tsolova|first=Tsvetelia|date=16 November 2021|title=Bulgaria's centrist party launches coalition talks after surprise election win|language=en|work=Reuters|url=https://www.reuters.com/world/europe/bulgarias-centrist-party-launches-coalition-talks-after-surprise-election-win-2021-11-16/|access-date=16 November 2021|archive-date=16 November 2021|archive-url=https://web.archive.org/web/20211116112007/https://www.reuters.com/world/europe/bulgarias-centrist-party-launches-coalition-talks-after-surprise-election-win-2021-11-16/|url-status=live}}</ref> Incumbent president [[Rumen Radev]] gathered 66.72% of the vote, defeating university professor [[Anastas Gerdzhikov]] in a runoff.<ref>{{Cite web|last=Nikolov|first=Krassen|date=2021-11-22|title=Bulgarian President Radev elected for a second term|url=https://www.euractiv.com/section/politics/short_news/bulgarian-president-radev-elected-for-a-second-term/|access-date=2021-12-05|website=www.euractiv.com|language=en-GB|archive-date=5 December 2021|archive-url=https://web.archive.org/web/20211205155502/https://www.euractiv.com/section/politics/short_news/bulgarian-president-radev-elected-for-a-second-term/|url-status=live}}</ref>
+
+Nationwide turnout in the parliamentary and first presidential round fell to 40%, Bulgaria's lowest participation rate in 30 years for both presidential and legislative elections.<ref name="ec">{{Cite web|title=Electoral Commission of Bulgaria 2021 results|url=https://results.cik.bg/pvrns2021/tur1/rezultati/index.html|language=bg|access-date=15 November 2021|archive-date=14 November 2021|archive-url=https://web.archive.org/web/20211114235946/https://results.cik.bg/pvrns2021/tur1/rezultati/index.html|url-status=live}}</ref> Nationwide turnout in the second presidential round experienced another drop, featuring only 35% of registered voters.<ref>{{Cite web|date=2021-11-25|title=ЦИК изчисли окончателно: 34.84% избирателна активност на балотажа за президент|url=https://news.bg/politics/tsik-izchisli-okonchatelno-34-84-izbiratelna-aktivnost-na-balotazha-za-prezident.html|access-date=2021-12-05|website=News.bg|language=bulgarian|archive-date=5 December 2021|archive-url=https://web.archive.org/web/20211205155518/https://news.bg/politics/tsik-izchisli-okonchatelno-34-84-izbiratelna-aktivnost-na-balotazha-za-prezident.html|url-status=live}}</ref> 
+
+The leaders of PP, BSP, ITN and DB announced on 10 December that they had agreed to form a coalition that would end a months-long political crisis. President Radev shortly after announced that he had given the mandate to form a government to Petkov.<ref name=":2" /> On 12 December, [[Kiril Petkov]] presented the composition of the [[Petkov Government|incoming government]], and it was approved on 13 December by the National Assembly.<ref name="ReferenceA">{{Cite web|date=2021-12-13|title=Bulgarian parliament backs Kiril Petkov as PM|url=https://www.politico.eu/article/bulgaria-parliament-kiril-petkov-prime-minister/|access-date=2021-12-13|website=POLITICO|language=en-US}}</ref>
+
+==Background==
+{{Politics of Bulgaria}}
+{{See also|July 2021 Bulgarian parliamentary election|2016 Bulgarian presidential election|Bulgarian political crisis (2021–2026)}}
+The [[July 2021 Bulgarian parliamentary election|previous parliamentary election]] which was held in July 2021, resulted in a narrow victory for the newly established [[There Is Such A People]] (ITN) over the ruling [[GERB]] party;<ref name=":1">{{Cite web|date=11 July 2021|title=Резултати парламентарни избори 11 юли 2021|url=https://results.cik.bg/pi2021_07/rezultati/index.html|url-status=live|access-date=14 November 2021|website=results.cik.bg|archive-date=4 November 2021|archive-url=https://web.archive.org/web/20211104123408/https://results.cik.bg/pi2021_07/rezultati/index.html}}</ref> however, ITN won only 65 out of 240 seats in the [[National Assembly of Bulgaria]].<ref name=":1" /> Following the elections, ITN opted to try and form a [[minority government]] and started talks with potential partners ([[Democratic Bulgaria|DB]], [[Stand Up.BG! We are coming!|IBG-NI]], and [[BSP for Bulgaria|BSP]]) in order to secure their support. Nevertheless, these attempts proved unsuccessful, and ITN announced on 10 August that they were withdrawing their proposed cabinet, making a third election more likely.<ref name="rferl.org">{{Cite news|title=Bulgaria's Winning Party Withdraws Proposed Cabinet, Paving Way For New Vote|url=https://www.rferl.org/a/bulgaria-trifonov-new-elections/31402900.html|access-date=14 August 2021|newspaper=Radio Free Europe/Radio Liberty|date=10 August 2021 |language=en|archive-date=14 August 2021|archive-url=https://web.archive.org/web/20210814042704/https://www.rferl.org/a/bulgaria-trifonov-new-elections/31402900.html|url-status=live}}</ref><ref name="balkaninsight.com">{{Cite web|date=10 August 2021|title=Bulgaria Edges Closer to Third Election in a Year|url=https://balkaninsight.com/2021/08/10/bulgaria-edges-closer-to-third-election-in-a-year/|access-date=14 August 2021|website=Balkan Insight|language=en-US|archive-date=13 August 2021|archive-url=https://web.archive.org/web/20210813112810/https://balkaninsight.com/2021/08/10/bulgaria-edges-closer-to-third-election-in-a-year/|url-status=live}}</ref> [[Slavi Trifonov]], the leader of ITN, said in a video statement that this meant new elections.<ref name="rferl.org"/><ref name="balkaninsight.com"/> The mandate to form a cabinet went to GERB.<ref name="balkaninsight.com"/><ref>{{Cite web|title=Bulgaria's parl accepts withdrawal of populist TISP's PM-designate|url=http://seenews.com/news/bulgarias-parl-accepts-withdrawal-of-populist-tisps-pm-designate-750670|access-date=14 August 2021|website=seenews.com|language=en|archive-date=12 August 2021|archive-url=https://web.archive.org/web/20210812143654/https://seenews.com/news/bulgarias-parl-accepts-withdrawal-of-populist-tisps-pm-designate-750670|url-status=live}}</ref>
+
+GERB, the party of the previous prime minister [[Boyko Borisov]], said earlier that it would not try to form a government.<ref>{{Cite news|title=Bulgaria's Winning Party Withdraws Proposed Cabinet, Paving Way For New Vote|url=https://www.rferl.org/a/bulgaria-trifonov-new-elections/31402900.html|access-date=14 August 2021|website=Radio Free Europe/Radio Liberty|date=10 August 2021 |language=en|archive-date=14 August 2021|archive-url=https://web.archive.org/web/20210814042704/https://www.rferl.org/a/bulgaria-trifonov-new-elections/31402900.html|url-status=live}}</ref> The BSP said that if the scenario repeats itself, it would suggest that the incumbent caretaker cabinet becomes permanent. IBG-NI also expressed confidence that it could come up with a solution if handed the mandate to form a government.<ref name="balkaninsight.com"/> Trifonov subsequently announced that he would not support any other parties proposing a cabinet.<ref>{{Cite web|date=10 August 2021|title=Bulgaria could be heading for third general election in a year|url=https://www.euronews.com/2021/08/10/bulgaria-could-be-heading-for-third-general-election-in-a-year|access-date=14 August 2021|website=euronews|language=en|archive-date=14 August 2021|archive-url=https://web.archive.org/web/20210814222107/https://www.euronews.com/2021/08/10/bulgaria-could-be-heading-for-third-general-election-in-a-year|url-status=live}}</ref> Parliament announced on 2 September that Bulgaria would hold the first round of the [[presidential election]] on 14 November, with a [[snap election]] likely to take place in the same month.<ref name="reuters.com"/><ref name="politico.eu"/>
+
+On 6 September 2021, BSP handed back the last mandate of forming a government, meaning the parliament would be dissolved and a third [[parliamentary election]] would officially take place in 2021.<ref>{{Cite web|date=2 September 2021|title=Bulgaria faces fresh elections as Socialists refuse to form a government|url=https://www.reuters.com/world/europe/bulgaria-faces-fresh-elections-socialists-refuse-form-government-2021-09-02/|access-date=6 September 2021|website=Reuters|language=en|archive-date=5 September 2021|archive-url=https://web.archive.org/web/20210905234845/https://www.reuters.com/world/europe/bulgaria-faces-fresh-elections-socialists-refuse-form-government-2021-09-02/|url-status=live}}</ref> President [[Rumen Radev]] declared on 11 September that there would be two-in-one elections on 14 November for the first time in Bulgarian history, where voters would be able to vote on the president and the parliament. This decision was taken "to save treasury costs and voters' time".<ref name="sofiaglobe.com"/>
+
+==Electoral system==
+The 240 members of the National Assembly were elected by [[open list]] [[proportional representation]] from 31 multi-member constituencies ranging in size from 4 to 16 seats. The electoral threshold is 4% for parties, with seats allocated according to the [[largest remainder method]].<ref>[https://www.electionguide.org/elections/id/3595/ Bulgaria] {{Webarchive|url=https://web.archive.org/web/20210504022432/https://www.electionguide.org/elections/id/3595/ |date=4 May 2021 }} IFES</ref><ref>[https://www.idea.int/answer/ans1303551645461599 Electoral system for national legislature – Bulgaria] {{Webarchive|url=https://web.archive.org/web/20210707030119/https://www.idea.int/answer/ans1303551645461599 |date=7 July 2021 }} IDEA</ref>
+
+The [[President of Bulgaria]] is elected using the [[two-round system]],<ref>[http://www.electionguide.org/elections/id/2207/ Bulgaria] {{Webarchive|url=https://web.archive.org/web/20210911140445/https://www.electionguide.org/elections/id/2207/ |date=11 September 2021 }} IFES</ref> with voters also given a [[none of the above]] option.<ref>[http://sofiaglobe.com/2016/10/09/bulgarias-2016-presidential-elections-voters-to-have-i-dont-support-anyone-option/ Bulgaria’s 2016 presidential elections: Voters to have ‘I don’t support anyone’ option] {{Webarchive|url=https://web.archive.org/web/20211026212127/https://sofiaglobe.com/2016/10/09/bulgarias-2016-presidential-elections-voters-to-have-i-dont-support-anyone-option/ |date=26 October 2021 }} Sofia Glove, 9 October 2016</ref>
+
+==Parties and coalitions==
+===Parliamentary parties===
+{| class=wikitable style=text-align:left
+!colspan=2|Party
+!Main ideology
+!Leader(s)
+!Current seats
+|-
+| style="color:inherit;background:{{party color|There Are Such People}}" |
+|[[There Is Such a People|ITN]]
+|[[Populism]]
+|[[Slavi Trifonov]]
+|{{center|65}}
+|-
+| style="color:inherit;background:{{party color|GERB}}" |
+|[[GERB]]–[[Union of Democratic Forces (Bulgaria)|SDS]]
+|[[Conservatism]]
+|[[Boyko Borisov]]
+|{{center|63}}
+|-
+| style="color:inherit;background:{{party color|BSP for Bulgaria}}" |
+|[[BSP for Bulgaria|BSPzB]]
+|[[Social democracy]]
+|[[Korneliya Ninova]]
+|{{center|36}}
+|-
+| style="color:inherit;background:{{party color|Democratic Bulgaria}}" |
+|[[Democratic Bulgaria|DB]]
+|[[Liberalism]]
+|[[Hristo Ivanov (politician)|Hristo Ivanov]]
+|{{center|34}}
+|-
+| style="color:inherit;background:{{party color|Movement for Rights and Freedoms}}" |
+|[[Movement for Rights and Freedoms|DPS]]
+| [[Turks in Bulgaria|Turkish]] [[Political parties of minorities|minority interests]]
+|[[Mustafa Karadayi]]
+|{{center|29}}
+|-
+| style="color:inherit;background:{{party color|Stand Up.BG! We are coming!}}" |
+|[[Stand Up.BG! We are coming!|IBG-NI]]
+|[[Populism]]
+|[[Maya Manolova]]
+|{{center|13}}
+|}
+
+===Parties admitted to the elections===
+When only some of the leaders of a coalition are its official representatives, their names are in bold. All lines with a light grey background indicate support for a party or coalition that has been agreed upon outside of the official CEC electoral registration.
+
+{| class="wikitable"
+! rowspan="2" colspan="5"| Name
+! rowspan="2"| №
+! rowspan="2"| Main ideology
+! rowspan="2"| Leader(s)
+! colspan="2"| [[July 2021 Bulgarian parliamentary election|July 2021]] result
+|-
+! Votes<br/>(%)
+! Seats
+|-
+| rowspan="4" style="background:#3eb149;"|
+| rowspan="4" style="text-align:center;"| '''RVO'''
+| rowspan="1" style="background:#3eb149;"|
+| style="text-align:center;"| '''VО'''
+| Revival of the Fatherland
+| rowspan="4" style="text-align:center;"| 2
+|[[Left-wing nationalism]]
+| '''Nikolay Malinov'''
+| rowspan="4" align=center| 0.37%<br>([[Left Union for a Clean and Holy Republic|LSChSR]])
+| rowspan="4"| {{composition bar|0|240|{{party color|Left Union for a Clean and Holy Republic}}}}
+|-
+| rowspan="1" style="background:#BDBEC1;"|
+| style="text-align:center;background:#D5D5D5;"| '''NS'''
+| style="background:#D5D5D5;" | New Force
+| style="background:#D5D5D5;" |[[Bulgarian nationalism]]
+| style="background:#D5D5D5;" | Atanas Sirakov
+|-
+| rowspan="1" style="background:#8D1B4C;"|
+| style="text-align:center;background:#D5D5D5;"| '''NDLO'''
+| style="background:#D5D5D5;" | National Movement for a Left Unification
+| style="background:#D5D5D5;" | [[Socialism]]
+| style="background:#D5D5D5;" | Boyan Durankev<br>Marian Dimitrov<br>Timur Glozhenski
+|-
+| rowspan="1" style="background:#EF1C23;"|
+| style="text-align:center;background:#D5D5D5;"| '''LA'''
+| style="background:#D5D5D5;" | Left Alternative
+| style="background:#D5D5D5;" |[[Socialism]]
+| style="background:#D5D5D5;" | '''Ivan Atanasov'''
+|-
+| rowspan="3" style="color:inherit;background:{{party color|Patriotic Front (Bulgaria, 2021)}};"|
+| rowspan="3" style="text-align:center;"| '''[[Patriotic Front (Bulgaria, 2021)|Patriotic Front]]'''
+| rowspan="1" style="color:inherit;background:{{party color|National Front for the Salvation of Bulgaria}};"|
+| style="text-align:center;"| '''NFSB'''
+| [[National Front for the Salvation of Bulgaria]]
+| rowspan="3" style="text-align:center;"| 4
+| [[National conservatism|Bulgarian nationalism]]
+| '''[[Valeri Simeonov]]'''
+| rowspan="3" align=center| 3.10%<br>([[Bulgarian Patriots|BP]])
+| rowspan="3"| {{composition bar|0|240|{{party color|Bulgarian Patriots}}}}
+|-
+| rowspan="1" style="background:#98D1DA;"|
+| style="text-align:center;"| '''BDSR'''
+|Bulgarian Democratic Union "Radicals"
+|[[Conservatism]]
+| Tsvetan Manchev
+|-
+| rowspan="1" style="background:#02A64F;"|
+| style="text-align:center;" | '''BNDS'''
+| Entire Bulgaria
+|[[Agrarianism]]
+| Georgi Valchev
+|-
+| style="color:inherit;background:{{party color|Revival (Bulgarian political party)}};" |
+| colspan="3" style="text-align:center;" | '''Revival'''
+| [[Revival (Bulgarian political party)|Revival]]
+| style="text-align:center;" | 5
+| [[Ultranationalism]]
+| [[Kostadin Kostadinov (politician)|Kostadin Kostadinov]]
+| style="text-align:center;" | 2.97%
+| {{composition bar|0|240|{{party color|Revival (Bulgarian political party)}}}}
+|-
+| rowspan="4" style="background:#000000;" |
+| rowspan="4" style="text-align:center;" | '''NOD'''
+| rowspan="1" style="background:#000000;"|
+| style="text-align:center;"| '''KOD'''
+| [[Conservative Union of the Right]]
+| rowspan="4" style="text-align:center;" | 7
+|[[Conservatism]]
+| '''[[Petar Moskov]]'''
+| rowspan="3" style="text-align:center;" | 0.28%
+| rowspan="4" | {{composition bar|0|240|{{party color|Revival (Bulgarian political party)}}}}
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Bulgarian Agrarian National Union}};"|
+| style="text-align:center;"| '''BZNS'''
+| [[Bulgarian Agrarian National Union]]
+|[[Agrarianism]]
+| [[Nikolay Nenchev]]
+|-
+| rowspan="1" style="background:#DFC28F;"|
+| style="text-align:center;"| '''BDF'''
+| Bulgarian Democratic Forum
+|[[Bulgarian nationalism]]
+| Zhaklin Toleva
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Republicans for Bulgaria}};" |
+| style="text-align:center;" | '''RzB'''
+| [[Republicans for Bulgaria]]
+|[[Conservatism]]
+| [[Tsvetan Tsvetanov]]
+| style="text-align:center;" |0.31%
+|-
+| style="color:inherit;background:#1f5da6;" |
+| colspan="3" style="text-align:center;" | '''BSDD'''
+| Bulgarian Union for Direct Democracy
+| style="text-align:center;" | 8
+| [[Direct democracy]]
+| Georgi Nedelchev
+| style="text-align:center;" | –
+| {{composition bar|0|240|#1f5da6}}
+|-
+| style="color:inherit;background:#eb1c26;" |
+| colspan="3" style="text-align:center;" | '''BSDE'''
+| [[Bulgarian Social Democratic Party]] – [[Bulgarian Euro-Left|EuroLeft]]
+| style="text-align:center;" | 10
+| [[Social democracy]]
+| [[Aleksandar Tomov (politician)|Aleksandar Tomov]]
+| style="text-align:center;" | –
+| {{composition bar|0|240|#eb1c26}}
+|-
+| style="color:inherit;background:{{party color|Attack (political party)}};" |
+| colspan="3" style="text-align:center;" | '''Ataka'''
+| [[Attack (political party)|Attack]]
+| style="text-align:center;" | 11
+| [[Bulgarian nationalism]]
+| [[Volen Siderov]]
+| style="text-align:center;" | 0.45%
+| {{composition bar|0|240|{{party color|Attack (political party)}}}}
+|-
+| style="color:inherit;background:#2E4E99;"|
+| colspan="3" style="text-align:center;"| '''ONB'''
+| Society for a New Bulgaria
+| style="text-align:center;"| 13
+| [[Bulgarian nationalism]]
+| Kalin Krulev
+| style="text-align:center;"| –
+| {{composition bar|0|240|#2f4e8e}}
+|-
+| style="color:inherit;background:{{party color|People's Voice (Bulgaria)}};" |
+| colspan="3" style="text-align:center;" | '''GN'''
+| [[People's Voice (Bulgaria)|People's Voice]]
+| style="text-align:center;" | 14
+| [[Populism]]
+| [[Svetoslav Vitkov]]
+| style="text-align:center;" | 0.17%
+| {{composition bar|0|240|{{party color|People's Voice (Bulgaria)}}}}
+|-
+| style="color:inherit;background:{{party color|Movement for Rights and Freedoms}};"|
+| colspan="3" style="text-align:center;"| '''DPS'''
+| [[Movement for Rights and Freedoms]]
+| style="text-align:center;"| 17
+| [[Turks in Bulgaria|Turkish]] [[Political parties of minorities|minority interests]]
+| [[Mustafa Karadayi]]
+| style="text-align:center;"| 10.57%
+| {{composition bar|29|240|{{party color|Movement for Rights and Freedoms}}}}
+|-
+| style="color:inherit;background:#4047CB;"|
+| colspan="3" style="text-align:center;"| '''Pravoto'''
+| Rights, Reforms, Alternative, Opportunities,<br>Responsibility, Tolerance and Unity
+| style="text-align:center;"| 20
+| [[Populism]]
+| Maria Koleva
+| style="text-align:center;" | –
+| {{composition bar|0|240|#4047CB}}
+|-
+| style="color:inherit;background:{{party color|VMRO – Bulgarian National Movement}};"|
+| colspan="3" style="text-align:center;"| '''VMRO–BND'''
+| [[VMRO – Bulgarian National Movement]]
+| style="text-align:center;"| 21
+| [[National conservatism]]
+| [[Krasimir Karakachanov]]
+| style="text-align:center;"| 3.10%<br>([[Bulgarian Patriots|BP]])
+| {{composition bar|0|240|{{party color|VMRO – Bulgarian National Movement}}}}
+|-
+| style="color:inherit;background:{{party color|Bulgarian National Unification}};"|
+| colspan="3" style="text-align:center;"| '''BNO'''
+| [[Bulgarian National Unification]]
+| style="text-align:center;"| 22
+| [[Bulgarian nationalism]]
+| '''Georgi Georgiev-Goti'''
+| style="text-align:center;"| –
+| | {{composition bar|0|240|#3b5998}}
+|-
+|bgcolor={{party color|Volya Movement}}|
+| colspan="3"style="text-align:center;"| '''Volya'''
+| [[Volya Movement]]
+| style="text-align:center;"| 23
+|[[Right-wing populism]]
+| '''[[Veselin Mareshki]]'''
+| style="text-align:center;"| 3.10%<br>([[Bulgarian Patriots|BP]])
+| {{composition bar|0|240|{{party color|Volya Movement}}}}
+|-
+| style="color:inherit;background:{{party color|There Is Such a People}};"|
+| colspan="3" style="text-align:center;"| '''ITN'''
+| [[There Is Such a People]]
+| style="text-align:center;"| 24
+| [[Populism]]
+| [[Slavi Trifonov]]
+| style="text-align:center;"| 23.78%
+| {{composition bar|65|240|{{party color|There Is Such a People}}}}
+|-
+| rowspan="4" style="color:inherit;background:{{party color|We Continue the Change}};"|
+| rowspan="4" style="text-align:center;"| '''[[We Continue the Change|We Continue<br>the Change]]'''
+| rowspan="1" style="color:inherit;background:{{party color|We Continue the Change}};"|
+| style="text-align:center;"| '''PP'''
+|[[We Continue the Change (political party)|We Continue the Change]]
+| rowspan="4" style="text-align:center;"| 25
+|[[Anti-corruption]]
+| '''[[Kiril Petkov]]'''
+|style="text-align:center;"| New
+| rowspan="4"| {{composition bar|0|240|{{party color|We Continue the Change}}}}
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Volt Bulgaria}};"|
+| style="text-align:center;background:#D5D5D5;" | '''Volt'''
+| style="background:#D5D5D5;" |[[Volt Bulgaria]]
+| style="background:#D5D5D5;" |[[European federalism]]
+| style="background:#D5D5D5;" | [[Nastimir Ananiev]]
+| style="background:#D5D5D5;" | –
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Middle European Class}};"|
+| style="text-align:center;"| '''SEC'''
+|[[Middle European Class]]
+|[[Pro-Europeanism]]
+| Georgi Manev
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Political Movement "Social Democrats"}};"|
+| style="text-align:center;"| '''PDS'''
+|[[Political Movement "Social Democrats"]]
+|[[Social democracy]]
+| Elena Noneva
+|-
+| style="color:inherit;background:#1b4962;" |
+| colspan="3" style="text-align:center;" | '''MIR'''
+| Morality, Initiative and Patriotism
+| style="text-align:center;" | 26
+| [[Conservatism]]
+| [[Simeon Slavchev]]
+| style="text-align:center;" |0.12%
+| {{composition bar|0|240|#1b4962}}
+|-
+| style="color:inherit;background:#580057;"|
+| colspan="3" style="text-align:center;"| '''BOG'''
+| Prosperity-Unity-Construction
+| style="text-align:center;"| 27
+| [[Nationalism]]
+| Ivan Gaberov
+| style="text-align:center;"| –
+| {{composition bar|0|240|#580057}}
+|-
+| style="color:inherit;background:#292928;" |
+| colspan="3" style="text-align:center;" | '''BNS–ND'''
+| [[Bulgarian National Union – New Democracy]]
+| style="text-align:center;" | 28
+| [[Opposition to immigration|Anti-immigration]]
+| '''Boris Ivanov'''<br>Bogdan Yotsov
+| style="text-align:center;" | 0.17%
+| {{composition bar|0|240|#000000}}
+|-
+| style="color:inherit;background:#339966;" |
+| colspan="3" style="text-align:center;" | '''PD'''
+| Direct Democracy
+| style="text-align:center;" | 29
+| [[Direct democracy]]
+| Petar Klisarov
+| style="text-align:center;" | 0.11%
+| {{composition bar|0|240|#339966}}
+|-
+| rowspan="4" style="color:inherit;background:{{party color|Democratic Bulgaria}};"|
+| rowspan="4" style="text-align:center;"| '''[[Democratic Bulgaria|Democratic<br>Bulgaria]]'''
+| rowspan="1" style="color:inherit;background:{{party color|Yes, Bulgaria!}};"|
+| style="text-align:center;"| '''DB'''
+|[[Yes, Bulgaria!]]
+| rowspan="4" style="text-align:center;"| 30
+|[[Liberalism]]
+| '''[[Hristo Ivanov (politician)|Hristo Ivanov]]'''
+| rowspan="4" style="text-align:center;"| 9.31%
+| rowspan="4"| {{composition bar|27|240|{{party color|Democratic Bulgaria}}}}
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Democrats for a Strong Bulgaria}};"|
+| style="text-align:center;"| '''DSB'''
+|[[Democrats for a Strong Bulgaria]]
+|[[Conservative liberalism]]
+| '''[[Atanas Atanasov (politician, born 1959)|Atanas Atanasov]]'''
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Green Movement (Bulgaria)}};"|
+| style="text-align:center;"| '''ZD'''
+| [[Green Movement (Bulgaria)|Green Movement]]
+| [[Green politics]]
+| Borislav Sandov<br>Vladislav Panev
+|-
+| rowspan="1" style="background:#026ED3;"|
+| style="background:#D5D5D5;" align=center| '''DEN'''
+| style="background:#D5D5D5;" |Dignity of a United People
+| style="background:#D5D5D5;" |[[Liberalism]]
+| style="background:#D5D5D5;" | Naiden Zelenogorski
+|-
+| rowspan="6" style="color:inherit;background:{{party color|Stand Up.BG! We are coming!}};" |
+| rowspan="6" style="text-align:center;" | '''[[Stand Up.BG! We are coming!|Stand Up.BG!<br>We are coming!]]'''
+| rowspan="1" style="color:inherit;background:{{party color|Movement 21}};"|
+| style="text-align:center;" | '''D21'''
+|[[Movement 21]]
+| rowspan="6" style="text-align:center;" | 31
+|[[Social democracy]]
+| [[Tatyana Doncheva]]
+| rowspan="6" style="text-align:center;" | 4.95%
+| rowspan="6" | {{composition bar|13|240|{{party color|Stand Up.BG! We are coming!}}}}
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Bulgaria for Citizens Movement}};"|
+| style="text-align:center;" | '''DBG'''
+|[[Bulgaria for Citizens Movement]]
+|[[Liberal conservatism]]
+| Dimitar Delchev
+|-
+| rowspan="1" style="color:inherit;background:{{party color|United People's Party (Bulgaria)}};"|
+| style="text-align:center;" | '''ENP'''
+|[[United People's Party (Bulgaria)|United People's Party]]
+|[[Liberalism]]
+|Valentina Vasileva-Filadelfevs
+|-
+| rowspan="1" style="background:#FF6600;"|
+| style="text-align:center;background:#D5D5D5;" | '''ZNS'''
+| style="background:#D5D5D5;" |[[Agrarian People's Union]]
+| style="background:#D5D5D5;" |[[Agrarianism]]
+| style="background:#D5D5D5;" | Rumen Yonchev
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Stand Up.BG}};"|
+| style="text-align:center;background:#D5D5D5;" | '''IS.BG'''
+| style="background:#D5D5D5;" | [[Stand Up.BG]]
+| style="background:#D5D5D5;" |[[Anti-corruption]]
+| style="background:#D5D5D5;" | '''[[Maya Manolova]]'''
+|-
+| rowspan="1" style="background:#46AC33;"|
+| style="text-align:center;background:#D5D5D5;" | '''OT'''
+| style="background:#D5D5D5;" | Poisonous Trio and Citizens
+| style="background:#D5D5D5;" |[[Direct democracy]]
+| style="background:#D5D5D5;" | [[Nikolay Hadjigenov]]
+|-
+| rowspan="3" style="color:inherit;background:{{party color|GERB}};"|
+| rowspan="3" style="text-align:center;"| '''GERB – SDS'''
+| rowspan="1" style="color:inherit;background:{{party color|GERB}};"|
+| style="text-align:center;"| '''GERB'''
+| [[GERB]]
+| rowspan="3" style="text-align:center;"| 32
+|[[Conservatism]]
+| '''[[Boyko Borisov]]'''
+| rowspan="3" style="text-align:center;"| 23.21%
+| rowspan="3"| {{composition bar|63|240|{{party color|GERB}}}}
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Union of Democratic Forces (Bulgaria)}};"|
+| style="text-align:center;"| '''SDS'''
+| [[Union of Democratic Forces (Bulgaria)|Union of Democratic Forces]]
+|[[Conservatism]]
+| [[Rumen Hristov (politician)|Rumen Hristov]]
+|-
+| rowspan="1" style="color:inherit;background:{{party color|George's Day Movement}};"|
+| style="text-align:center;background:#D5D5D5;"| '''DG'''
+| style="background:#D5D5D5;" | [[George's Day Movement]]
+| style="background:#D5D5D5;" |[[Conservatism]]
+| style="background:#D5D5D5;" | Dragomir Stefanov
+|-
+| rowspan="19" style="color:inherit;background:{{party color|BSP for Bulgaria}};"|
+| rowspan="19" style="text-align:center;"| '''[[BSP for Bulgaria|BSP for<br>Bulgaria]]'''
+| rowspan="1" style="color:inherit;background:{{party color|Bulgarian Socialist Party}};"|
+| style="text-align:center;"| '''BSP'''
+| [[Bulgarian Socialist Party]]
+| rowspan="19" style="text-align:center;"| 33
+|[[Social democracy]]
+| '''[[Korneliya Ninova]]'''
+| rowspan="19" style="text-align:center;"| 14.78%
+| rowspan="19"| {{composition bar|43|240|#D71921}}
+|-
+| rowspan="1" style="background:#DC352F;"|
+| style="text-align:center;"| '''NZ'''
+|New Dawn
+|[[Left-wing nationalism]]
+| Mincho Minchev
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Communist Party of Bulgaria}};"|
+| style="text-align:center;"| '''CPB'''
+| [[Communist Party of Bulgaria]]
+|[[Communism]]
+| [[Aleksandar Paunov]]
+|-
+| rowspan="1" style="background:#008200;"|
+| align=center| –
+| [[Ecoglasnost]]
+|[[Green politics]]
+| [[:bg:Емил Георгиев (политик)|Emil Georgiev]]
+|-
+| rowspan="1" style="background:#999301;"|
+| align=center| '''Trakiya'''
+|Trakiya Political Club
+|[[Bulgarian nationalism]]
+| Stefan Nachev
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Alternative for Bulgarian Revival}};"|
+| style="text-align:center;background:#D5D5D5;"| '''ABV'''
+| style="background:#D5D5D5;" |[[Alternative for Bulgarian Revival]]
+| style="background:#D5D5D5;" |[[Social democracy]]
+| style="background:#D5D5D5;" | [[Rumen Petkov (politician)|Rumen Petkov]]
+|-
+| rowspan="1" style="color:inherit;background:{{party color|Bulgarian Left}};"|
+| style="text-align:center;background:#D5D5D5;"| '''BL'''
+| style="background:#D5D5D5;" |[[Bulgarian Left]]
+| style="background:#D5D5D5;" |[[Democratic socialism]]
+| style="background:#D5D5D5;" | Boyan Kirov
+|-
+| rowspan="1" style="background:#E81923;"|
+| style="text-align:center;background:#D5D5D5;"| '''BP'''
+| style="background:#D5D5D5;" |Bulgarian Spring
+| style="background:#D5D5D5;" |[[Centre-left|Social democracy]]
+| style="background:#D5D5D5;" | [[Velizar Enchev]]
+|-
+| rowspan="1" style="background:#AE1065;"|
+| style="text-align:center;background:#D5D5D5;"| '''DSH'''
+| style="background:#D5D5D5;" |[[Movement for Social Humanism]]
+| style="background:#D5D5D5;" |[[Progressivism]]
+| style="background:#D5D5D5;" | Alexander Radoslavov
+|-
+| rowspan="1" style="background:#F9350D;"|
+| style="text-align:center;background:#D5D5D5;"| '''DNK'''
+| style="background:#D5D5D5;" | Movement of Independent Candidates
+| style="background:#D5D5D5;" | [[Left-wing populism]]
+| style="background:#D5D5D5;" |Boyko Mladenov<br>Boyko Nikiforov<br>Mincho Kuminev<br>Ognyan Boyukliev
+|-
+| rowspan="1" style="background:#9D2929;"|
+| style="text-align:center;background:#D5D5D5;"| '''NS'''
+| style="background:#D5D5D5;" | People's Force
+| style="background:#D5D5D5;" |[[Bulgarian nationalism|Left-wing nationalism]]
+| style="background:#D5D5D5;" | Georgi Dimov
+|-
+| rowspan="1" style="background:#0B8464;"|
+| style="text-align:center;background:#D5D5D5;"| '''ND'''
+| style="background:#D5D5D5;" | Normal State
+| style="background:#D5D5D5;" |–
+| style="background:#D5D5D5;" | Georgi Kadiev
+|-
+| rowspan="1" style="background:#E81D25;"|
+| style="text-align:center;background:#D5D5D5;"| '''OKZNI'''
+| style="background:#D5D5D5;" | All-People's Committee for the Protection of National Interests
+| style="background:#D5D5D5;" |–
+| style="background:#D5D5D5;" | –
+|-
+| rowspan="1" style="background:#39111A;"|
+| style="text-align:center;background:#D5D5D5;"| '''SENKO'''
+| style="background:#D5D5D5;" | Council of the European Scientific and Cultural Community
+| style="background:#D5D5D5;" |–
+| style="background:#D5D5D5;" | –
+|-
+| rowspan="1" style="background:#96CF8A;"|
+| style="text-align:center;background:#D5D5D5;"| '''SO'''
+| style="background:#D5D5D5;" | Union for the Fatherland
+| style="background:#D5D5D5;" |–
+| style="background:#D5D5D5;" | Vasil Tochkov
+|-
+| rowspan="1" style="background:#3535D3;"|
+| style="text-align:center;background:#D5D5D5;"| '''FPB'''
+| style="background:#D5D5D5;" | Federation of Consumers in Bulgaria
+| style="background:#D5D5D5;" |[[Consumer movement|Consumer interests]]
+| style="background:#D5D5D5;" | Emil Georgiev
+|-
+| rowspan="1" style="background:#B0CB1F;"|
+| style="text-align:center;background:#D5D5D5;"| '''ND ZSCD'''
+| style="background:#D5D5D5;" | For Social and Civic Development
+| style="background:#D5D5D5;" |–
+| style="background:#D5D5D5;" | Mladen Ivanov
+|-
+| rowspan="1" style="background:#5759A4;"|
+| style="text-align:center;background:#D5D5D5;"| '''NSZ'''
+| style="background:#D5D5D5;" | National Syndicate "Protection"
+| style="background:#D5D5D5;" |–
+| style="background:#D5D5D5;" | Krasimir Mitov
+|-
+| rowspan="1" style="background:#00A601;"|
+| style="text-align:center;background:#D5D5D5;"| '''OBT'''
+| style="background:#D5D5D5;" | United Bloc of Labour
+| style="background:#D5D5D5;" |[[Social democracy]]
+| style="background:#D5D5D5;" | Ekaterina Atanasova
+|-
+| style="color:inherit;background:{{party color|Bulgarian Progressive Line}};" |
+| colspan="3" style="text-align:center;" | '''BPL'''
+| [[Bulgarian Progressive Line]]
+| style="text-align:center;" | 34
+| [[Democratic socialism]]
+| Krassimir Yankov
+| style="text-align:center;" | 0.37%<br>([[Left Union for a Clean and Holy Republic|LSChSR]])
+| {{composition bar|0|240|{{party color|Bulgarian Progressive Line}}}}
+|-
+| style="color:inherit;background:#0b9444;" |
+| colspan="3" style="text-align:center;" | '''Greens'''
+| [[Green Party of Bulgaria|Green Party]]
+| style="text-align:center;" | 35
+| [[Green politics]]
+| Vladimir Nikolov
+| style="text-align:center;" | 0.12%
+| {{composition bar|0|240|#0b9444}} 
+|-
+| style="color:inherit;background:#02AD51;" |
+| colspan="3" style="text-align:center;" | '''Brigada'''
+| Brigade
+| style="text-align:center;" | 36
+| –
+| Arben Khavalyov
+| style="text-align:center;" | 0.08%
+| {{composition bar|0|240|#17A857}}
+|}
+
+== Presidential candidates ==<!--DO NOT ADD CANDIDATES UNLESS YOU HAVE A REFERENCE-->
+
+=== Candidates admitted to the elections ===
+{| class="wikitable"
+|-
+!Name || Running mate || Parties or coalitions supporting the campaign 
+!№|| Sources<!--DO NOT ADD THE PICTURES IN THE TABLE, CREATE A GALLERY INSTEAD-->
+|-
+|Yolo Denev<br/>Politician and writer
+|Mario Filev
+|–
+|1
+|<ref name=":0">{{Cite web|title=Order of presidential candidates on ballot paper and order of parties and coalitions for November 14 two-in-one elections determined by draw.|url=https://bnt.bg/news/order-of-presidential-candidates-on-ballot-paper-and-order-of-parties-and-coalitions-for-november-14-two-in-one-election-299195news.html|url-status=live|access-date=11 November 2021|website=bnt.bg|language=|archive-date=26 October 2021|archive-url=https://web.archive.org/web/20211026233308/https://bnt.bg/news/order-of-presidential-candidates-on-ballot-paper-and-order-of-parties-and-coalitions-for-november-14-two-in-one-election-299195news.html}}</ref>
+|-
+|Nikolay Malinov<br/>Chairman of the party Russophiles for the Revival of the Fatherland
+|Svetlana Koseva
+|Russophiles for the Revival of the Fatherland
+|2
+|<ref name=":0" />
+|-
+|Rosen Milenov<br/>Former national security officer
+|Ivan Ivanov
+|–
+|3
+|<ref name=":0" />
+|-
+|[[Valeri Simeonov]]<br/>Chairman of the party [[National Front for the Salvation of Bulgaria]]
+|Tsvetan Mancev
+|[[National Front for the Salvation of Bulgaria|NFSB]], BNDS "Whole Bulgaria", Bulgarian Democratic Union "Radicals"
+|4
+|<ref name=":0" />
+|-
+|[[Kostadin Kostadinov (politician)|Kostadin Kostadinov]]<br/>Chairman of the party [[Revival (Bulgarian political party)|Revival]]
+|Elena Guncheva
+|[[Revival (Bulgarian political party)|Revival]]
+|5
+|<ref name=":0" />
+|-
+|[[Rumen Radev]]<br />Incumbent [[President of Bulgaria]]
+|[[Iliana Iotova]]<br />
+|[[There Is Such a People|ITN]], [[BSP for Bulgaria|BSPzB]], [[We Continue the Change|PP]], [[Stand Up.BG! We are coming!|IBG-NI]]
+|6
+|<ref name=":0" /> 
+|-
+|Goran Blagoev<br/>Politician and journalist
+|Ivelina Georgieva
+|Conservative Association of the Right and [[Republicans for Bulgaria]]
+|7
+|<ref name=":0" />
+|-
+|Blagoy Petrevski<br/>Politician
+|Sevina Hadjiyska
+|Bulgarian Union for Direct Democracy
+|8
+|<ref name=":0" />
+|-
+|Marina Malcheva<br/>Politician
+|Savina Lukanova
+|–
+|9
+|<ref name=":0" />
+|-
+|[[Aleksandar Tomov (politician)|Aleksander Tomov]]<br/>Chairman of the [[Bulgarian Social Democratic Party]]
+|Lachezar Avramov.
+|[[Bulgarian Social Democratic Party]]–[[Bulgarian Euro-Left]]
+|10
+|<ref name=":0" />
+|-
+|[[Volen Siderov]]<br/>Chairman of the party [[Attack (political party)|Attack]]
+|[[Magdalena Tasheva]]
+|[[Attack (political party)|Attack]]
+|11
+|<ref name=":0" />
+|-
+|Boyan Rasate<br/>Chairman of the party [[Bulgarian National Union – New Democracy]]
+|Elena Vatashka
+|[[Bulgarian National Union – New Democracy|BNU-ND]]
+|12
+|<ref name=":0" />
+|-
+|Zhelyo Zhelev<br/>Politician
+|Kalin Krulev
+|Society for a New Bulgaria
+|13
+|<ref name=":0" />
+|-
+|[[Anastas Gerdzhikov]]<br/>Rector of [[Sofia University]]
+|[[Nevyana Miteva]]
+|[[GERB]]–[[Union of Democratic Forces (Bulgaria)|SDS]]
+|14
+|<ref name=":0" />
+|-
+|[[Svetoslav Vitkov]]<br/>Chairman of the party [[People's Voice (Bulgaria)|People's Voice]]
+|Veselin Belokonski
+|[[People's Voice (Bulgaria)|People's Voice]]
+|15
+|<ref name=":0" />
+|-
+|Luna Yordanova<br/>Singer and television personality
+|Iglena Ilieva
+|–
+|16
+|<ref name=":0" />
+|-
+|[[Mustafa Karadaya]]<br />Chairman of the [[Movement for Rights and Freedoms]]
+|[[Iskra Mihaylova]]
+|[[Movement for Rights and Freedoms|DPS]]
+|17
+|<ref name=":0" />
+|-
+|Tsveta Kirilova<br/>Journalist and television presenter
+|Georgi Tutanov
+|–
+|18
+|<ref name=":0" />
+|-
+|[[Lozan Panov]]<br />Chairman of the [[Supreme Court of Cassation of Bulgaria]]
+|Maria Kasimova
+|Justice for All Initiative and [[Democratic Bulgaria|DB]]
+|19
+|<ref name=":0" />
+|-
+|[[Maria Koleva]]<br/>Director and writer
+|Gancho Popov
+|Law Party
+|20
+|<ref name=":0" />
+|-
+|Milen Mihov<br/>Vice chairman of the party [[VMRO – Bulgarian National Movement]]
+|Mariya Tsvetkova.
+|[[VMRO – Bulgarian National Movement|VMRO]]
+|21
+|<ref name=":0" />
+|-
+|Georgi Georgiev<br/>Politician
+|Stoyan Tsvetkov
+|[[Bulgarian National Union – New Democracy|BNO]]
+|22
+|<ref name=":0" />
+|-
+|[[Veselin Mareshki]]<br/>Chairman of the party [[Volya Movement]]
+|Polina Tsankova
+|[[Volya Movement]]
+|23
+|<ref name=":0" />
+|-
+|}
+;
+
+==Campaign==
+The campaign started after the election was officially announced for 14 November. The pandemic remained a large issue, especially with the rise of the [[SARS-CoV-2 Delta variant|Delta variant]] in the country.<ref>{{Cite web|date=8 September 2021|title=Bulgaria battles surge in COVID-19 cases amid vaccine opposition|url=https://www.euronews.com/2021/09/08/bulgaria-battles-surge-in-covid-19-cases-amid-vaccine-opposition|access-date=11 September 2021|website=euronews|language=en|archive-date=9 September 2021|archive-url=https://web.archive.org/web/20210909110927/https://www.euronews.com/2021/09/08/bulgaria-battles-surge-in-covid-19-cases-amid-vaccine-opposition|url-status=live}}</ref> The anti-corruption parties ([[There Is Such a People|ITN]], [[Democratic Bulgaria|DB]], and [[Stand Up.BG! We are coming!|IBG-NI]]) were all looking to hold their ground, while the established parties ([[GERB]], [[Movement for Rights and Freedoms|DPS]], and [[Bulgarian Socialist Party|BSP]]) wanted to capitalise on public frustrations with the inability to form a government. The elections were widely hoped to bring an end to the political stalemate that had lasted since the [[April 2021 Bulgarian parliamentary election|April 2021 elections]], after which no government could be formed. This time, there was more pressure on the anti-establishment parties to start negotiating a coalition government after the elections.<ref>{{Cite web|last=Crowcroft|first=Orlando|date=12 November 2021|title=Bulgaria gets ready for its third election in eight months|url=https://www.euronews.com/2021/11/12/bulgaria-s-third-election-in-eight-months-brings-hopes-of-an-end-to-political-stalemate|access-date=13 November 2021|website=euronews|language=en|archive-date=12 November 2021|archive-url=https://web.archive.org/web/20211112193039/https://www.euronews.com/2021/11/12/bulgaria-s-third-election-in-eight-months-brings-hopes-of-an-end-to-political-stalemate|url-status=live}}</ref>
+
+After the president announced the new caretaker cabinet,<ref>{{Cite web|date=16 September 2021|title=Bulgarian President Radev names reshuffled caretaker Cabinet|url=https://sofiaglobe.com/2021/09/16/bulgarian-president-radev-names-reshuffled-caretaker-cabinet/|access-date=3 October 2021|website=The Sofia Globe|language=en-US|archive-date=5 October 2021|archive-url=https://web.archive.org/web/20211005211249/https://sofiaglobe.com/2021/09/16/bulgarian-president-radev-names-reshuffled-caretaker-cabinet/|url-status=live}}</ref> the economy and finance ministers who were replaced in the reshuffle, [[Kiril Petkov]] and [[Assen Vassilev]], announced that they would compete in the November election as part of a new coalition named [[We Continue the Change]],<ref>{{Cite web|title=Former caretaker ministers Kiril Petkov and Assen Vassilev to announce their political project today|url=https://bnr.bg/en/post/101528674|access-date=3 October 2021|website=bnr.bg|language=en|archive-date=3 October 2021|archive-url=https://web.archive.org/web/20211003214507/https://bnr.bg/en/post/101528674|url-status=live}}</ref> with the aim of becoming a new anti-corruption force that could form an effective government.
+
+The global energy crisis was a large issue in the campaign, with [[natural gas]] prices soaring to record highs.<ref>{{Cite web|date=6 October 2021|title=Amid soaring prices, millions in Europe could struggle to heat homes|url=https://www.euronews.com/2021/10/06/amid-soaring-prices-millions-in-europe-could-struggle-to-heat-their-homes|access-date=10 October 2021|website=euronews|language=en|archive-date=10 October 2021|archive-url=https://web.archive.org/web/20211010091330/https://www.euronews.com/2021/10/06/amid-soaring-prices-millions-in-europe-could-struggle-to-heat-their-homes|url-status=live}}</ref> Campaigning parties offered varying solutions to address this, with some supporting more reliance on Russia for energy, while others proposed [[Nuclear power in Bulgaria|domestic nuclear power]] in the longer term. The campaign was also influenced by the high levels of [[inflation]] in the country, which hit record levels at 4.8% in September,<ref>{{Cite web|date=19 October 2021|title=Bulgaria's inflation reaches nine-year peak in September|url=https://www.intellinews.com/bulgaria-s-inflation-reaches-nine-year-peak-in-september-224099/|access-date=23 October 2021|website=www.intellinews.com|language=en|archive-date=23 October 2021|archive-url=https://web.archive.org/web/20211023124947/https://www.intellinews.com/bulgaria-s-inflation-reaches-nine-year-peak-in-september-224099/|url-status=live}}</ref> causing public dissatisfaction.
+
+Another important issue was [[COVID-19 vaccination in Bulgaria|COVID-19 vaccinations]]. Due to a low vaccine take-up and high rises in the number of cases, the caretaker government implemented a "green pass", also known as the [[Vaccine passports during the COVID-19 pandemic|vaccine passport]].<ref>{{Cite web|date=19 October 2021|title=Bulgaria launches COVID-19 pass amid rising infections|url=https://www.euronews.com/2021/10/19/bulgaria-launches-covid-19-pass-amid-rising-infections-and-low-vaccine-uptake|access-date=23 October 2021|website=euronews|language=en|archive-date=23 October 2021|archive-url=https://web.archive.org/web/20211023072245/https://www.euronews.com/2021/10/19/bulgaria-launches-covid-19-pass-amid-rising-infections-and-low-vaccine-uptake|url-status=live}}</ref> The green pass required citizens to provide proof of their vaccination status in several locations such as hospitals, schools and restaurants. The measure was met with widespread protests.<ref>{{Cite news|date=20 October 2021|title=Hundreds protest against Bulgaria's COVID health pass|language=en|work=Reuters|url=https://www.reuters.com/world/europe/hundreds-protest-against-bulgarias-covid-health-pass-2021-10-20/|access-date=23 October 2021|archive-date=23 October 2021|archive-url=https://web.archive.org/web/20211023124946/https://www.reuters.com/world/europe/hundreds-protest-against-bulgarias-covid-health-pass-2021-10-20/|url-status=live}}</ref>
+
+On 6 October, the instructions of the Minister of Health and the Chief State Health Inspector for voting were approved, and did not differ from those for the elections on 11 July. Deputy Chairman of the Central Election Commission, Rositsa Mateva, said "there is no requirement for a green certificate for voting in the parliamentary and presidential elections on 14 November."<ref>{{Cite web|title=Bulgaria: The "Green Certificate" will Not be Required for the November 14 Elections - Novinite.com - Sofia News Agency|url=https://www.novinite.com/articles/211942/Bulgaria%3A+The+%E2%80%9CGreen+Certificate%E2%80%9D+will+Not+be+Required+for+the+November+14+Elections|access-date=5 November 2021|website=www.novinite.com|archive-date=5 November 2021|archive-url=https://web.archive.org/web/20211105111350/https://www.novinite.com/articles/211942/Bulgaria:+The+%E2%80%9CGreen+Certificate%E2%80%9D+will+Not+be+Required+for+the+November+14+Elections|url-status=live}}</ref>
+
+Bulgaria's Central Election Commission accepted the registration of 23 candidates for the presidential elections, announced after the deadline for applications on 12 October. This was the largest number of candidates in a presidential election in Bulgaria since the country began direct democratic elections for its head of state; previously, the highest number was 21, which occurred in 1992 and 2016.<ref>{{Cite web|date=13 October 2021|title=Bulgaria's 2021 elections: 23 presidential candidates|url=https://sofiaglobe.com/2021/10/13/bulgarias-2021-elections-23-presidential-candidates/|access-date=19 October 2021|website=The Sofia Globe|language=en-US|archive-date=13 October 2021|archive-url=https://web.archive.org/web/20211013154758/https://sofiaglobe.com/2021/10/13/bulgarias-2021-elections-23-presidential-candidates/|url-status=live}}</ref>
+
+The [[Organization for Security and Co-operation in Europe]] (OSCE) announced in a statement that it would send an observation team to the general elections, following an invitation from the authorities of Bulgaria. It noted that the [[Office for Democratic Institutions and Human Rights]] (ODIHR) had previously observed 12 elections in the country, most recently the 11 July 2021 early parliamentary elections.<ref>{{Cite web|title=Presidential and Early Parliamentary Elections, 14 November 2021|url=https://www.osce.org/odihr/elections/bulgaria/502353|access-date=5 November 2021|website=[[Organization for Security and Co-operation in Europe]]|language=en|archive-date=5 November 2021|archive-url=https://web.archive.org/web/20211105111939/https://www.osce.org/odihr/elections/bulgaria/502353|url-status=live}}</ref>
+
+==Opinion polls==
+===Legislative election===
+;Graphical representation of recalculated data
+{{wide image|Vote 14-11-2021.png|1000px|[[Local regression]] of polls conducted, excluding "[[none of the above]]"}}
+{{Graph:Chart
+ | hannotatonslabel=4% electoral threshold
+ | hannotatonsline=4
+ | vannotatonslabel=
+ | vannotatonsline=
+ | width = 700
+ | xAxisMax=1636920000000
+ | height= 400
+ | type = line
+ | interpolate = basis
+ | xType = date
+ | xAxisAngle = -40
+ | yAxisTitle = % of votes
+ | yGrid = yes
+ | yAxisMin = 0
+ | linewidth = 2
+ | legend=Legend:
+ | y1Title=ITN
+ | y2Title=GERB—SDS
+ | y3Title=BSP
+ | y4Title=DB
+ | y5Title=DPS
+ | y6Title=IBG-NI
+ | y7Title=VMRO (incl. BP)
+ | y8Title=Revival
+ | y9Title=PP
+ | y10Title=scratch vote
+ | x = 2021/07/11, 2021/07/28, 2021/07/30, 2021/08/22, 2021/09/10, 2021/09/15, 2021/09/15, 2021/09/16, 2021/09/20, 2021/09/26, 2021/10/01, 2021/10/10, 2021/10/10, 2021/10/12, 2021/10/12, 2021/10/17, 2021/10/18, 2021/10/26, 2021/10/31, 2021/10/31, 2021/10/31, 2021/11/01, 2021/11/02, 2021/11/05, 2021/11/07, 2021/11/07, 2021/11/08, 2021/11/08, 2021/11/09, 2021/11/09, 2021/11/09, 2021/11/14,
+ | y1 = 23.8, 22.6, 21.6, 17.2, 15.5, 18.6, 17.5, 15.1, 14.9, 12.3, 22.9, 10.4, 11.7, 14.4, 15.2, 12.2, 14.3, 12.3, 15.2, 11.3, 11.8, 19.3, 13.4, 12.5, 9.7, 12.8, 12.2, 12.2, 11.4, 13.4, 9.9, 9.4
+ | y2 = 23.2, 19.8, 22.4, 23.7, 22.5, 23.2, 24.4, 25.6, 25.0, 21.4, 24.3, 23.1, 24.2, 24.2, 23.5, 22.5, 26.2, 22.3, 24.1, 24.2, 22.0, 22.1, 23.8, 23.8, 23, 22.9, 25.4, 23.5, 23.5, 26.4, 24.1, 22.5
+ | y3 = 13.2, 17.9, 14.5, 17.2, 16.1, 18.1, 16.6, 13.2, 16.0, 13.4, 14.1, 16.8, 15.8, 19.1, 15.0, 15.1, 14.9, 15.1, 18.1, 15.7, 13.6, 16.6, 16.7, 15, 12.1, 15.1, 15.6, 14.6, 15.2, 15.8, 16, 10.1
+ | y4 = 12.5, 17.2, 14.1, 18.1, 15.8, 14.5, 8.5, 9.2, 13.1, 12.1, 6.9, 10.9, 10.3, 9, 10.2, 11.2, 8.8, 11.8, 7.4, 9.8, 11.0, 8.5, 9.1, 9.2, 10.5, 9.1, 9.7, 11, 9.6, 8.1, 10.2, 6.3
+ | y5 = 10.6, 9.6, 10.2, 12, 11.9, 10.5, 9.3, 11.9, 10.8, 11.4, 7.1, 9.3, 11, 8.7, 9.4, 10.8, 11.6, 10.3, 9.2, 11.1, 10.7, 10.3, 9.7, 9.5, 11.2, 10.3, 10.6, 10.3, 11.3, 11.4, 9.8, 12.7
+ | y6 = 5, 5.4, 4.4, 4.9, 4.8, 4.5, 3.8, 3.2, 3.6, 4.1, 2.8, 3.2, 3.2, 4.2, 2.6, 3.7, 2.9, 3.2, 3.3, 3.1, 3.5, 2.9, 4.1, 3.5, 4.1, 3.3, 4.2, 4.2, 3.4, 2.9, 3.6, 2.3
+ | y7 = 3.1, 2.1, 1.9, , 2.4, , 2.2, 3.8, , 2.2, 1.8, 2.1, 0.7, 1.8, 2.5, 2.3, 3.7, 1.2, 2.3, 2.3, , 2.1, 2.1, 2.5, 1.2, 2.2, , , 2.1, 3.7, , 1.1
+ | y8 = 3, 3.7, 2.9, 4.7, 3.1, 3.8, 2.9, 3.0, 3.5, 3.3, 3.2, 2.9, 1.7, 1.9, 1.9, 2.9, 1.5, 2.5, 3.3, 3.3, , 3.3, 2.5, 3, 3, 3.6, 3.1, , 3.5, 1.5, 3.8, 4.8
+ | y9 = , , , , , , 9.1, , 11.9, 15.2, 7.8, 15.9, 12.8, 14.6, 15.5, 13.4, 10.5, 15.8, 14.3, 13.7, 15.9, 10.1, 15.6, 15.5, 16.3, 14.8, 17.3, 16.2, 15.5, 11.2, 16.5, 25.3
+ | y10 = 1.3, , , , , , , , , , , , 0.7, 1.7, , , , 0.3, , , , , 1.1, 1.8, 8.9, , , , , 
+ | colors = #4BB9DE, #0056A7, #D71921, #A1C619, #800080, #4C813D, #01193B, #C09F62, #ffd966, #8F8F8F, #FFAA1D
+ | showSymbols = 1,1,1,1,1,1,1,1,1,1
+ | symbolsShape = circle
+ | symbolsNoFill = false
+ | symbolsStroke = 1.25
+}}
+
+The opinion poll results below were recalculated from the original data and exclude polls that chose "I will not vote" or "I am uncertain" options.
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="2" |Polling firm
+! rowspan="2" |Fieldwork date
+! rowspan="2" |Sample
+! rowspan="2" |Turnout range{{efn|Minimum and maximum values.}}
+! rowspan="2" |Certain [[To be announced|undecided]] turnout
+![[There Is Such A People|ITN]]
+![[GERB–SDS]]
+![[Bulgarian Socialist Party|BSP]]
+![[Democratic Bulgaria|DB]]
+![[Movement for Rights and Freedoms|DPS]]
+![[Stand Up.BG! We are coming!|IBG-NI]]
+![[VMRO – Bulgarian National Movement|VMRO]]
+![[Revival (Bulgarian political party)|Revival]]
+![[We Continue the Change|PP]]
+! rowspan="2" class="unsortable" style="width:50px;" |[[List of political parties in Bulgaria|Others]]
+! rowspan="2" class="unsortable" style="width:50px;" |[[None of the above]]
+! rowspan="2" |Lead
+|-
+! class="unsortable" style="color:inherit;background:{{party color|There Is Such A People}};" |
+! class="unsortable" style="color:inherit;background:{{party color|GERB}};" |
+! class="unsortable" style="color:inherit;background:{{party color|BSP for Bulgaria}};" |
+! class="unsortable" style="color:inherit;background:{{party color|Democratic Bulgaria}}" |
+! class="unsortable" style="color:inherit;background:{{party color|Movement for Rights and Freedoms}};" |
+! class="unsortable" style="color:inherit;background:{{party color|Stand Up! Mafia, Get Out!}};;" |
+! class="unsortable" style="color:inherit;background:{{party color|VMRO – Bulgarian National Movement}};"|
+! class="unsortable" style="color:inherit;background:{{party color|Revival (Bulgarian political party)}}" |
+! class="unsortable" style="color:inherit;background:{{party color|We Continue the Change}}" |
+|- style="background:#D5D5D5;"
+|2021 election
+|14 November 2021
+|—
+|—
+|—
+|9.5%
+|22.7%
+|10.2%
+|6.4%
+|13.0%
+|2.3%
+|1.1%
+|4.9%
+| style="background:#FBE8AF"|'''25.7%'''
+|4.2%
+|1.4%
+| class="unsortable" style="background:#ffd966" |2.8%
+|-  style="background:#EEEFFF"|
+|[https://bntnews.bg/news/paralelno-prebroyavane-100-galap-pp-263-gerb-231-dps-114-bsp-104-itn-93-db-64-vazrazhdane-5-1175199news.html Gallup]
+|Exit-Poll
+|—
+|—
+|—
+|9.3%
+|23.1%
+|10.4%
+|6.4%
+|11.4%
+|3.0%
+|1.1%
+|5.0%
+| style="background:#FBE8AF"|'''26.3%'''
+|3.6%
+|
+| class="unsortable" style="background:#ffd966" |3.2%
+|-  style="background:#EEEFFF"|
+|[https://bntnews.bg/news/paralelno-prebroyavane-100-alfa-risarch-pp-263-gerb-232-dps-116-bsp-109-itn-96-db-65-vazrazhdane-48-1175201news.html Alpha Research]
+|Exit-Poll
+|—
+|—
+|—
+|9.6%
+|23.2%
+|10.9%
+|6.5%
+|10.7%
+|2.6%
+|1.1%
+|4.8%
+|style="background:#FBE8AF"|'''26.3%'''
+|1.8%
+|
+|class="unsortable" style="background:#ffd966" |3.1%
+|-
+|[https://alpharesearch.bg/post/985-obshtestveni-naglasi-na-finala-na-kampaniata-za-izbori-dve-v-edno.html Alpha Research]
+| data-sort-value="2021-11-09" |7−9 Nov 2021
+|1017
+|[47%-73%]
+| —
+|9.9%
+| style="background:#CCE6FF"| '''24.1%'''
+|16%
+|10.2%
+|9.8%
+|3.6%
+| —
+|3.8%
+|16.5%
+|6.1%
+| —
+| style="background:{{party color|GERB}}; color:white;" |7.6%
+|-
+|[https://blitz.bg/izbori-2021/barometr-popari-zhestoko-kharvardtsite-s-novo-goreshcho-prouchvane-za-izborite-2-v-1-grafiki_news850941.html Barometar]
+| data-sort-value="2021-11-09" |4−9 Nov 2021
+|839
+|{{nowrap|[43.3%–61.7%]}}
+|—
+|13.4%
+| style="background:#CCE6FF"| '''26.4%'''
+|15.8%
+|8.1%
+|11.4%
+|2.9%
+|3.7%
+|1.5%
+|11.2%
+|5.5%
+| —
+| style="background:{{party color|GERB}}; color:white;" |10.6%
+|-
+|[https://www.gallup-international.bg/45151/electoral-snapshot-days-before-the-election/ Gallup]
+| data-sort-value="2021-11-09" |1−9 Nov 2021
+|1006
+|~48%
+| —
+|11.4%
+| style="background:#CCE6FF"| '''23.5%'''
+|15.2%
+|9.6%
+|11.3%
+|3.4%
+|2.1%
+|3.5%
+|15.5%
+|4.5%
+| —
+| style="background:{{party color|GERB}}; color:white;" |8%
+|-
+|style="letter-spacing:-1px;"|[https://www.dnes.bg/izbori-2021/2021/11/11/pp-povede-s-blizo-2-na-bsp-bezsporniiat-pobeditel-shte-e-gerb.509992,4 Centre for Analysis and Marketing]
+| data-sort-value="2021-11-08" |4−8 Nov 2021
+|1016
+|[66.9%-86.1%]
+|13.5%
+|12.2%
+| style="background:#CCE6FF"| '''23.5%'''
+|14.6%
+|11%
+|10.3%
+|4.2%
+| —
+| —
+|16.2%
+|8%
+| —
+| style="background:{{party color|GERB}}; color:white;" |7.3%
+|-
+|[http://www.mediana.bg/download-analysis/PRESS_112021.doc Mediana]
+| data-sort-value="2021-11-08" |4–8 Nov 2021
+|957
+| –
+| —
+|12.2%
+| style="background:#CCE6FF"| '''25.4%'''
+|15.6%
+|9.7%
+|10.6%
+|4.2%
+| –
+|3.1%
+|17.3%
+|1.9%
+| —
+| style="background:{{party color|GERB}}; color:white;" |8.1%
+|-
+|[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f-8/ Trend]
+| data-sort-value="2021-11-07" |1–7 Nov 2021
+|1013
+|45%
+| —
+|12.8%
+| style="background:#CCE6FF"| '''22.9%'''
+|15.1%
+|9.1%
+|10.3%
+|3.3%
+|2.2%
+|3.6%
+|14.8%
+|5.9%
+| —
+| style="background:{{party color|GERB}}; color:white;" |7.8%
+|-
+|[https://www.marketlinks.bg/storage/INFOGRAPHIC%20NRS%20Politics%2011.2021.pdf Market Links]
+| data-sort-value="2021-11-07" |2−7 Nov 2021
+|1112
+|[58%–90%]
+|4.5%
+|9.7%
+| style="background:#CCE6FF"| '''23%'''
+|12.1%
+|10.5%
+|11.2%
+|4.1%
+|1.2%
+|3%
+|16.3%
+|1.2%
+|8.9%
+| style="background:{{party color|GERB}}; color:white;" |6.7%
+|-
+|[http://exacta.bg/?page_id=42 Exacta]
+| data-sort-value="2021-11-05" |29 Oct−5 Nov 2021
+|1025
+|[65%-66%]
+|[8%-9%]
+|12.5%
+| style="background:#CCE6FF"| '''23.8%'''
+|15%
+|9.2%
+|9.5%
+|3.5%
+|2.5%
+|3%
+|15.5%
+|3.7%
+|1.8%
+| style="background:{{party color|GERB}}; color:white;" |8.3%
+|-
+|[https://sovaharris.com/%d0%b5%d0%bb%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b0%d0%bb%d0%bd%d0%b8-%d0%b8-%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%b2-%d0%b1-4/ Sova Harris]
+| data-sort-value="2021-11-02" |27 Oct−2 Nov 2021
+|1000
+|{{nowrap|[52.4%–85.8%]}}
+| —
+|13.4%
+| style="background:#CCE6FF"| '''23.8%'''
+|16.7%
+|9.1%
+|9.7%
+|4.1%
+|2.1%
+|2.5%
+|15.6%
+|1.9%
+|1.1%
+| style="background:{{party color|GERB}}; color:white;" |7.1%
+|-
+|style="letter-spacing:-1px;"|[https://frognews.bg/novini/sociology-web-researcher-gerb-22-1procenta-itn-19-3procenta-bsp-16-6procenta.html Sociology Web Researcher]
+| data-sort-value="2021-10-01" |{{nowrap|1 Oct−1 Nov 2021}}
+|43,987
+|48%
+| —
+|19.3%
+| style="background:#CCE6FF"| '''22.1%'''
+|16.6%
+|8.5%
+|10.3%
+|2.9%
+|2.1%
+|3.3%
+|10.1%
+|4.8%
+| —
+| style="background:{{party color|GERB}}; color:white;" |2.8%
+|-
+|[https://www.gallup-international.bg/45115/electoral-snapshot-end-of-october/ Gallup]
+| data-sort-value="2021-10-31" |23−31 Oct 2021
+|1081
+|{{nowrap|[58.2%–78.2%]}}
+|~15.6%{{Collapsible list
+ | expand = 
+ | framestyle = 
+ | titlestyle = 
+ | title = odds
+ | liststyle = 
+ | hlist = 
+ | bullets = 
+ |1=([[We Continue the Change|PP]] +2.2%
+ |2=[[Democratic Bulgaria|DB]] +1.2%
+ |3=[[There Is Such A People|ITN]] +0.5%
+ |4=[[Stand Up.BG! We are coming!|IBG]] +0.4%
+ |5=[[Movement for Rights and Freedoms|DPS]] -0.4%
+ |6=[[Bulgarian Socialist Party|BSP]] -2.1%
+ |7=[[GERB|G]] [[Union of Democratic Forces (Bulgaria)|SDS]] -2.2%
+ |8=other +6.8%)}}
+|11.3%
+| style="background:#CCE6FF"| '''24.2%'''
+|15.7%
+|9.8%
+|11.1%
+|3.1%
+|2.3%
+|3.3%
+|13.7%
+|5.5%
+| —
+| style="background:{{party color|GERB}}; color:white;" |6.1%-<br>8.5%
+|-
+|[https://trud.bg/%D0%BF%D1%80%D0%BE%D1%83%D1%87%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B5%D1%81%D1%82%D0%B0%D1%82-%D0%B3%D0%B5%D1%80%D0%B1-241-%D0%B1%D1%81%D0%BF-181-%D0%B8%D1%82%D0%BD-152-%D0%BF%D0%BF-143/ Estat]
+| data-sort-value="2021-10-31" |23−31 Oct 2021
+|993
+|[58%-84.2%]
+| —
+|15.2%
+| style="background:#CCE6FF"| '''24.1%'''
+|18.1%
+|7.4%
+|9.2%
+|3.3%
+|2.3%
+|3.3%
+|14.3%
+|2.8%
+| —
+| style="background:{{party color|GERB}}; color:white;" |6%
+|-
+|style="letter-spacing:-1px;"|[https://dir.bg/dnes/politika/tsentarat-za-analizi-i-marketing-22-3-za-gerb-15-8-za-prodalzhavame-promyanata-15-1-za-bsp Centre for Analysis and Marketing]
+| data-sort-value="2021-10-26" |22−26 Oct 2021
+|815
+|[69.1%-82.1%]
+|16.4%
+|12.3%
+| style="background:#CCE6FF"| '''22.3%'''
+|15.1%
+|11.8%
+|10.3%
+|3.2%
+|1.2%
+|2.5%
+|15.8%
+|3%
+|0.3%
+| style="background:{{party color|GERB}}; color:white;" |6.5%
+|-
+|[https://trud.bg/%D0%B1%D0%B0%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D1%8A%D1%80-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%B3%D0%B5%D1%80%D0%B1-%D1%81%D0%B4%D1%81-262-%D0%B1%D1%81%D0%BF-149/ Barometar]
+| data-sort-value="2021-10-18" |13−18 Oct 2021
+|858
+|{{nowrap|[42.2%–61.5%]}}
+| —
+|14.3%
+| style="background:#CCE6FF"| '''26.2%'''
+|14.9%
+|8.8%
+|11.6%
+|2.9%
+|3.7%
+|1.5%
+|10.5%
+|5.5%
+| —
+| style="background:{{party color|GERB}}; color:white;" |11.3%
+|-
+|[https://www.gallup-international.bg/45050/electoral-attitudes-snapshot-3/ Gallup]
+| data-sort-value="2021-10-17" |10−17 Oct 2021
+|1009
+|{{nowrap|[54.2%–74.2%]}}
+| —
+|12.2%
+| style="background:#CCE6FF"| '''22.5%'''
+|15.1%
+|11.2%
+|10.8%
+|3.7%
+|2.3%
+|2.9%
+|13.4%
+|5.9%
+| —
+| style="background:{{party color|GERB}}; color:white;" |7.4%
+|-
+|[http://exacta.bg/?page_id=48 Exacta]
+| data-sort-value="2021-10-12" |6−12 Oct 2021
+|1025
+|49%
+|12%
+|15.2%
+| style="background:#CCE6FF"| '''23.5%'''
+|15%
+|10.2%
+|9.4%
+|2.6%
+|2.5%
+|1.9%
+|15.5%
+|4.2%
+| —
+| style="background:{{party color|GERB}}; color:white;" |8%
+|-
+|[https://sovaharris.com/%d0%b5%d0%bb%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b0%d0%bb%d0%bd%d0%b8-%d0%b8-%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%b2-%d0%b1-3/ Sova Harris]
+| data-sort-value="2021-10-12" |5−12 Oct 2021
+|1010
+|[55.2%–87.1%]
+| —
+|14.4%
+| style="background:#CCE6FF"| '''24.2%'''
+|19.1%
+|9%
+|8.7%
+|4.2%
+|1.8%
+|1.9%
+|14.6%
+|0.4%
+|1.7%
+| style="background:{{party color|GERB}}; color:white;" |5.1%
+|-
+|style="letter-spacing:-1px;"|[https://www.flagman.bg/article/251540 Centre for Analysis and Marketing]
+| data-sort-value="2021-10-10" |6−10 Oct 2021
+|812
+| —
+| —
+|11.7%
+| style="background:#CCE6FF"| '''24.2%'''
+|15.8%
+|10.3%
+|11%
+|3.2%
+|0.7%
+|1.7%
+|12.8%
+|3.7%
+|0.7%
+| style="background:{{party color|GERB}}; color:white;" |8.4%
+|-
+|[https://alpharesearch.bg/post/984-obshtestveni-naglasi-na-starta-na-kampaniata-za-izbori-dve-v-edno.html Alpha Research]
+| data-sort-value="2021-10-10" |4−10 Oct 2021
+|1123
+|47.6%
+|10.6%
+|10.4%
+| style="background:#CCE6FF"| '''23.1%'''
+|16.8%
+|10.9%
+|9.3%
+|3.2%
+|2.1%
+|2.9%
+|15.9%
+|5.4%
+| —
+| style="background:{{party color|GERB}}; color:white;" |6.3%
+|-
+|style="letter-spacing:-1px;"|[https://www.facebook.com/permalink.php?story_fbid=102300478896421&id=100803539046115 Sociology Web Researcher]
+| data-sort-value="2021-10-01" |{{nowrap|1 Sep−1 Oct 2021}}
+|86,376
+|56%
+|4.7%
+|22.9%
+| style="background:#CCE6FF"| '''24.3%'''
+|14.1%
+|6.9%
+|7.1%
+|2.8%
+|1.8%
+|3.2%
+|7.8%
+|4.4%
+| —
+| style="background:{{party color|GERB}}; color:white;" |1.4%
+|-
+|[https://www.gallup-international.bg/45033/current-electoral-snapshot-4/ Gallup]
+| data-sort-value="2021-09-26" |{{nowrap|21−26 Sep 2021}}
+|2000
+|[50.6%–73.2%]
+| —
+|12.3%
+| style="background:#CCE6FF"| '''21.4%'''
+|13.4%
+|12.1%
+|11.4%
+|4.1%
+|2.2%
+|3.3%
+|15.2%
+|4.6%
+| —
+| style="background:{{party color|GERB}}; color:white;" |6.2%
+|-
+|[https://www.marketlinks.bg/storage/INFOGRAPHIC%20NRS%20Politics%2009.2021.pdf Market Links]
+| data-sort-value="2021-09-20" |14−20 Sep 2021
+|1076
+|[57%–90%]
+|5.4%
+|14.9%
+| style="background:#CCE6FF"| '''25%'''
+|16%
+|13.1%
+|10.8%
+|3.6%
+| —
+|3.5%
+|11.9%
+|1.1%
+| —
+| style="background:{{party color|GERB}}; color:white;" |9%
+|-
+|[https://www.actualno.com/society/spored-barometyr-borisov-e-pryv-trifonov-izostava-mnogo-news_1644435.html Barometar]
+| data-sort-value="2021-09-16" |12−16 Sep 2021
+|810
+|{{nowrap|[35.4%–55.9%]}}
+| —
+|15.1%
+| style="background:#CCE6FF"| '''25.6%'''
+|13.2%
+|9.2%
+|11.9%
+|3.2%
+|3.8%
+|3%
+| —
+|15%
+| —
+| style="background:{{party color|GERB}}; color:white;" |10.5%
+|-
+|[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-7/ Trend]
+| data-sort-value="2021-09-15" |8–15 Sep 2021
+|1012
+|53%
+| —
+|17.5%
+| style="background:#CCE6FF"| '''24.4%'''
+|16.6%
+|8.5%
+|9.3%
+|3.8%
+|2.2%
+|2.9%
+|9.1%
+|5.7%
+| —
+| style="background:{{party color|GERB}}; color:white;" |6.9%
+|-
+|{{nowrap|Alpha Research}}
+| data-sort-value="2021-09-15" |8−15 Sep 2021
+|1017
+|51.7%
+|4.6%
+|18.6%
+| style="background:#CCE6FF"| '''23.2%'''
+|18.1%
+|14.5%
+|10.5%
+|4.5%
+| —
+|3.8%
+| —
+|6.8%
+| —
+| style="background:{{party color|GERB}}; color:white;" |4.6%
+|-
+|[https://www.gallup-international.bg/44980/current-electoral-snapshot-3/ Gallup]
+| data-sort-value="2021-09-10" |2−10 Sep 2021
+|1007
+|[47.1%–70.9%]
+| —
+|15.5%
+| style="background:#CCE6FF"| '''22.5%'''
+|16.1%
+|15.8%
+|11.9%
+|4.8%
+|2.4%
+|3.1%
+| —
+|7.9%
+| —
+| style="background:{{party color|GERB}}; color:white;" |6.4%
+|-
+|[https://www.marketlinks.bg/storage/INFOGRAPHIC%20NRS%20Politics%2008.2021.pdf Market Links]
+| data-sort-value="2021-08-22" |13−22 Aug 2021
+|1055
+|[52%–90%]
+|4.5%
+|17.2%
+| style="background:#CCE6FF"| '''23.7%'''
+|17.2%
+|18.1%
+|12%
+|4.9%
+| —
+|4.7%
+| —
+|2.2%
+| —
+| style="background:{{party color|GERB}}; color:white;" |5.6%
+|-
+|[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%b8%d1%82-6/ Trend]
+| data-sort-value="2021-07-30" |23–30 Jul 2021
+|1006
+| —
+| —
+|21.6%
+| style="background:#CCE6FF"| '''22.4%'''
+|14.5%
+|14.1%
+|10.2%
+|4.4%
+|1.9%
+|2.9%
+| —
+|8%
+| —
+| style="background:{{party color|GERB}}; color:white;" |0.8%
+|-
+|[https://www.marketlinks.bg/storage/INFOGRAPHIC%20NRS%20Politics%2007.2021.pdf Market Links]
+| data-sort-value="2021-07-28" |21–28 Jul 2021
+|1059
+|{{nowrap|[48%–88%]}}
+|4.1%
+| style="background:#CCE6FF"| '''22.6%'''
+|19.8%
+|17.9%
+|17.2%
+|9.6%
+|5.4%
+|2.1%{{Efn|name=bp}}
+|3.7%
+| —
+|1.4%
+| —
+| style="background:{{party color|There Are Such People}}; color:white;" |2.8%
+|- style="background:#D5D5D5;"
+|{{nowrap|[[July 2021 Bulgarian parliamentary election|July 2021 election]]}}
+| data-sort-value="2021-07-11" |11 July 2021
+|–
+|40.4%
+| —
+| style="background:#CCE6FF"| '''23.8%'''
+|23.2%
+|13.2%
+|12.5%
+|10.6%
+|5%
+|3.1%{{efn|Result of [[Bulgarian Patriots]]|name=bp|group=}}
+|3%
+| —
+|4.4%
+|1.3%
+| style="background:{{party color|There Are Such People}}; color:white;" |0.6%
+|}
+
+=== Presidential election ===
+;Graphical representation of recalculated data
+;First round
+{{Graph:Chart
+ | vannotatonslabel=
+ | vannotatonsline=
+ | width = 500
+ |xAxisMax=1636920000000
+ | height= 400
+ | type = line
+ | interpolate = basis
+ | xType = date
+ | xAxisAngle = -40
+ | yAxisTitle = % of votes
+ | yGrid = yes
+ | yAxisMin = 0
+ | linewidth = 2
+ | legend=Legend:
+ | y1Title=Radev
+ | y2Title=Gerdzhikov
+ | y3Title=Karadayi
+ | y4Title=Panov
+ | y5Title=Kostadinov
+ | y6Title=Simeonov
+ | y7Title=Siderov
+ | y8Title=Mihov
+ | y9Title=Mareshki
+ | y10Title=Yordanova
+ | y11Title=scratch vote
+ | x = 2021/11/14, 2021/11/14, 2021/11/09, 2021/11/09, 2021/11/09, 2021/11/09, 2021/11/08, 2021/11/08, 2021/11/07, 2021/11/07, 2021/11/05, 2021/11/02, 2021/10/31, 2021/10/31, 2021/10/26, 2021/10/18, 2021/10/17, 2021/10/12, 2021/10/10, 2021/10/10
+ | y1 = 49.1, 49.4, 46.4, 48, 44.6, 48.6, 48.2, 48.3, 46.8, 46.7, 48, 56.2, 47.6, 49.7, 47.5, 44.8, 51.2, 60.4, 49.5, 42.6
+ | y2 = 26.5, 24.9, 28.3, 27.9, 27.3, 25.3, 22.8, 25.6, 24.4, 25.6, 27.1, 23.5, 25.1, 27.3, 21.8, 27.3, 22.5, 24.8, 22.3, 28.1 
+ | y3 = 9.8, 8.9, 8.8, 9, 11.4, 9.1, 9.1, 10.3, 9.9, 10.3, 7.5, 7.1, 8.5, 5.4, 8.6, 11.2, 7.9, 6.1, 9.1, 8.7, 
+ | y4 = 4.6, 4.2, 6.9, 6.8, 6.4, 5.2, 7.3, 8.1, 6.4, 7.7, 7, 6.8, 5.7, 8.3, 6.2, 6.8, 6.2, 5.3, 7.5, 8.2, 
+ | y5 = , 1.1, 3.2, 2.4, 2.1, 3, 2, 3.2, 3.1, 2.6, 2.2, , 3.3, 3.2, 1.7, 1.9, 3.1, , 1.7, 3.9, 
+ | y6 = , , , , , , , , , , , 0.4, , , , , , 1.8
+ | y7 = 3.4, 3.8, , , , , , , , 0.7, , , 1, , , , , , 1.6
+ | y8 = , 2.3, 3.1, 1.5, , , 1.6, , 1.5, , 1.4, 1.4, , 3.0, 1.6, , 0.7, 
+ | y9 = , , , , , , , , , , , 0.5, , , 1.1, , , 
+ | y10 = , , , 1.1, 1.1, 1.4, 1, 1.3, , , 1.1, 0.8, 0.8, , , , 1,
+ | y11 = , , , 2.1, , , , 4.9, 1.9, , 2.5, , 0.5, , 2.7, , ,
+ | colors = #DB0F28, #0054A6, #800080, #A1C619, #C09F62, #1C4482, #344D28, #000000, #00718F, #F19CBB, #DCDCDC 	
+ | showSymbols = 1,1,1,1,1,1,1,1,1,1
+ | symbolsShape = circle
+ | symbolsNoFill = false
+ | symbolsStroke = 1.25
+}}
+The opinion poll results below were recalculated from the original data and exclude polls that chose "I will not vote" or "I am uncertain" options.
+{|  class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+!rowspan=4|Polling firm
+!rowspan=4|Fieldwork date
+!rowspan=4|Sample
+!rowspan=4|Turnout range{{efn|Minimum and maximum values.}}
+!rowspan=4|Certain [[To be announced|undecided]] turnout
+|-
+! style="width:60px;" | [[File:Rumen Radev official portrait (cropped).jpg|60x90px]]
+! style="width:60px;" | [[File:Anastas Gerdzhikov (cropped).jpg|60x90px]]
+! style="width:60px;" | [[File:Мустафа Карадайы.jpg|60x90px]]
+! style="width:60px;" | 
+! style="width:60px;" | [[File:Костадин Костадинов снимка.jpg|60x90px]]
+! style="width:60px;" | [[File:Valeri Simeonov 2017-11-15 (cropped).jpg|60x90px]]
+! style="width:60px;" | [[File:Volen Siderov ATAKA.jpg|60x90px]]
+! style="width:60px;" | 
+! style="width:60px;" | 
+! style="width:60px;" | 
+! rowspan=3 class="unsortable" style="width:50px;" |[[List of political parties in Bulgaria|Others]]
+! rowspan=3 class="unsortable" style="width:50px;" |[[None of the above]]
+!rowspan=3| Lead
+|-
+! data-sort-type="number" style="background:{{party color|BSP for Bulgaria}}" <!-- Радев -->|
+! data-sort-type="number" style="background:{{party color|GERB}}" <!-- Герджиков -->|
+! data-sort-type="number" style="background:#800080" <!-- Карадайъ -->|
+! data-sort-type="number" style="background:#A1C619" <!-- Панов -->|
+! data-sort-type="number" style="background:{{party color|Revival (Bulgarian political party)}}" <!-- Копейкин -->|
+! data-sort-type="number" style="background:{{party color|National Front for the Salvation of Bulgaria}}" <!-- Симеонов -->|
+! data-sort-type="number" style="background:{{party color|Attack (political party)}}" <!-- Сидеров -->|
+! data-sort-type="number" style="background:{{party color|VMRO – Bulgarian National Movement}}" <!-- Михов -->|
+! data-sort-type="number" style="background:{{party color|Volya Movement}}" <!-- Марешки -->|
+! data-sort-type="number" style="background:#F19CBB" <!-- Йорданова -->|
+|-
+![[Rumen Radev|Radev]]<br>{{small|[[Independent politician|Ind.]]}}{{efn|name=r|Supported by [[BSP for Bulgaria]], [[There Is Such a People|ITN]], [[We Continue the Change|PP]], [[Stand Up.BG]], [[Volt Bulgaria]], [[Alternative for Bulgarian Revival|ABV]], [[Movement 21]], [[Union of Free Democrats|SSD]], [[:bg:Обединен блок на труда|OBT]] and [[Political Movement "Social Democrats"|PDS]]}}
+![[Anastas Gerdzhikov|Gerdzhikov]]<br>{{small|[[Independent politician|Ind.]]}}{{efn|name=g|Supported by [[GERB]], [[Union of Democratic Forces (Bulgaria)|SDS]], [[:bg:БЗНС (Николай Ненчев)|BZNS]] and [[George's Day Movement|DG]]}}
+![[Mustafa Karadayi|Karadayi]]<br>{{small|[[Movement for Rights and Freedoms|DPS]]}}
+![[Lozan Panov|Panov]]<br>{{small|[[Independent politician|Ind.]]}}{{efn|name=p|Supported by [[Democratic Bulgaria]]}}
+![[Kostadin Kostadinov (politician)|Kostadinov]]<br>{{small|[[Revival (Bulgarian political party)|Revival]]}}
+![[Valeri Simeonov|Simeonov]]<br>{{small|[[Patriotic Front (Bulgaria, 2021)|PF]]}}
+![[Volen Siderov|Siderov]]<br>{{small|[[Attack (political party)|Attack]]}}
+![[Milen Mihov|Mihov]]<br>{{small|[[VMRO – Bulgarian National Movement|VMRO]]}}
+![[Veselin Mareshki|Mareshki]]<br>{{small|[[Volya Movement|Volya]]}}
+![[Luna Yordanova|Yordanova]]<br>{{small|[[Independent politician|Ind.]]}}
+|-
+|-
+|- style="background:#D5D5D5;"
+|{{nowrap|2021 election}}
+|14 November 2021
+|—
+|—
+|—
+|bgcolor="#EFAEB8"|'''49.4%'''
+|22.8%
+|11.5%
+|3.7%
+|3.9%
+|0.3%
+|0.6%
+|0.5%
+|0.4%
+|0.8%
+|4.4%
+|2.3%
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |'''26.6%'''
+|- style="background:#EEEFFF" |
+|[https://bntnews.bg/news/paralelno-prebroyavane-100-alfa-risarch-pp-263-gerb-232-dps-116-bsp-109-itn-96-db-65-vazrazhdane-48-1175201news.html Alpha Research]
+|Exit-Poll
+|—
+|—
+|—
+| bgcolor="#ED8294" |'''50.1%'''
+|23.8%
+|9.6%
+|3.5%
+|4.1%
+|0.4%
+|0.8%
+|0.5%
+|0.5%
+|0.8%
+|2.2%
+|2.0%
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |26.3%
+|-
+|-  style="background:#EEEFFF"|
+|[https://bntnews.bg/news/paralelno-prebroyavane-100-galap-pp-263-gerb-231-dps-114-bsp-104-itn-93-db-64-vazrazhdane-5-1175199news.html Gallup]
+|Exit-Poll
+|—
+|—
+|—
+|bgcolor="#EFAEB8"|'''50.0%'''
+|'''24.0%'''
+|9.1%
+|3.5%
+|4.1%
+|—
+|0.6%
+|0.6%
+|0.4%
+|0.9%
+|4.5%
+|2.4%
+|style="background:{{party color|BSP for Bulgaria}}; color:white;" |26.0%
+|-
+|[https://alpharesearch.bg/post/985-obshtestveni-naglasi-na-finala-na-kampaniata-za-izbori-dve-v-edno.html Alpha Research]
+| data-sort-value="2021-11-09" |7−9 Nov 2021
+|1017
+|[47%-73%]
+| —
+|bgcolor="#EFAEB8"|'''46.4%'''
+|'''28.3%'''
+|8.8%
+|6.9%
+|3.2%
+|—
+|—
+|—
+|—
+|—
+|6.4%
+|—
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |18.1%
+|-
+|[http://exacta.bg/?page_id=42 Exacta]
+| data-sort-value="2021-11-09" |6−9 Nov 2021
+|1025
+|[47%-48%]
+|[8%-9%]
+|bgcolor="#EFAEB8"|'''48.0%'''
+|'''27.9%'''
+|9.0%
+|6.8%
+|2.4%
+|—
+|—
+|2.3%
+|—
+|—
+|3.2%
+|0.4%
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |20.1%
+|-
+|[https://blitz.bg/izbori-2021/barometr-popari-zhestoko-kharvardtsite-s-novo-goreshcho-prouchvane-za-izborite-2-v-1-grafiki_news850941.html Barometar]
+| data-sort-value="2021-11-09" |4−9 Nov 2021
+|839
+|{{nowrap|[50.5%–63.4%]}}
+|—
+|bgcolor="#EFAEB8"|'''44.6%'''
+|'''27.3%'''
+|11.4%
+|6.4%
+|2.1%
+|—
+|—
+|3.1%
+|—
+|—
+|5.2%
+|—
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |17.3%
+|-
+|[https://www.gallup-international.bg/45151/electoral-snapshot-days-before-the-election/ Gallup]
+| data-sort-value="2021-11-09" |1−9 Nov 2021
+|1006
+|~48%
+|—
+|bgcolor="#EFAEB8"|'''48.6%'''
+|'''25.3%'''
+|9.1%
+|5.2%
+|3.0%
+|—
+|—
+|1.5%
+|—
+|1.1%
+|4.1%
+|2.1%
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |23.3%
+|-
+|style="letter-spacing:-1px;"|[https://www.dnes.bg/izbori-2021/2021/11/11/pp-povede-s-blizo-2-na-bsp-bezsporniiat-pobeditel-shte-e-gerb.509992,4 Centre for Analysis and Marketing]
+| data-sort-value="2021-11-08" |4−8 Nov 2021
+|1016
+|[66.9%-80.9%]
+|14.6%
+|bgcolor="#EFAEB8"|'''48.2%'''
+|'''22.8%'''
+|9.1%
+|7.3%
+|2.0%
+|—
+|—
+|—
+|—
+|1.1%
+|9.5%
+|—
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |25.4%
+|-
+|[http://www.mediana.bg/download-analysis/PRESS_112021.doc Mediana]
+| data-sort-value="2021-11-08" |4–8 Nov 2021
+|957
+| —
+| —
+|bgcolor="#EFAEB8"|'''48.3%'''
+|'''25.6%'''
+|10.3%
+|8.1%
+|3.2%
+|—
+|—
+|—
+|—
+|1.4%
+|3.1%
+|—
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |22.7%
+|-
+|[https://rctrend.bg/project/%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%bd%d0%b0-%d0%b1%d1%8a%d0%bb%d0%b3%d0%b0%d1%80%d0%b8%d1%82%d0%b5-%d1%81%d0%bf%d1%80%d1%8f%d0%bc%d0%be-%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d1%82%d0%be%d1%8f-8/ Trend]
+| data-sort-value="2021-11-07" |1–7 Nov 2021
+|1013
+|43%
+| —
+|bgcolor="#EFAEB8"|'''46.8%'''
+|'''24.4%'''
+|9.9%
+|6.4%
+|3.1%
+|—
+|—
+|1.6%
+|—
+|1.0%
+|6.8%
+|—
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |22.4%
+|-
+|[https://www.marketlinks.bg/storage/INFOGRAPHIC%20NRS%20Politics%2011.2021.pdf Market Links]
+| data-sort-value="2021-11-07" |2−7 Nov 2021
+|1112
+|[58%–90%] 
+|2.8%
+|bgcolor="#EFAEB8"|'''46.7%'''
+|'''25.6%'''
+|10.3%
+|7.7%
+|2.6%
+|—
+|—
+|—
+|—
+|1.3%
+|0.9%
+|4.9%
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |21.1%
+|-
+|[http://exacta.bg/?page_id=42 Exacta]
+| data-sort-value="2021-11-05" |29 Oct−5 Nov 2021
+|1025
+|[66%-67%]
+|[8%-9%]
+|bgcolor="#EFAEB8"|'''48.0%'''
+|'''27.1%'''
+|7.5%
+|7.0%
+|2.2%
+|—
+|0.7%
+|1.5%
+|—
+|—
+|4.1%
+|1.9%
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |20.9%
+|-
+|[https://sovaharris.com/%d0%b5%d0%bb%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b0%d0%bb%d0%bd%d0%b8-%d0%b8-%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%b2-%d0%b1-4/ Sova Harris]
+| data-sort-value="2021-11-02" |27 Oct−2 Nov 2021
+|1000
+|[52.4%–85.8%] 
+|—
+|bgcolor="#ED8294"|'''56.2%'''
+|23.5%
+|7.1%
+|6.8%
+|—
+|—
+|—
+|—
+|—  
+|—
+|6.4%
+|—
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |32.7%
+|-
+|[https://www.gallup-international.bg/45115/electoral-snapshot-end-of-october/ Gallup]
+| data-sort-value="2021-10-31" |23−31 Oct 2021
+|1081
+|{{nowrap|[57.1%–77.1%]}} 
+|—
+|bgcolor="#EFAEB8"|'''47.6%'''
+|'''25.1%'''
+|8.5%
+|5.7%
+|3.3%
+|—
+|—
+|1.4%
+|—
+|1.1%
+|4.8%
+|2.5%
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |22.5%
+|-
+|[https://trud.bg/%D0%BF%D1%80%D0%BE%D1%83%D1%87%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B5%D1%81%D1%82%D0%B0%D1%82-%D0%B3%D0%B5%D1%80%D0%B1-241-%D0%B1%D1%81%D0%BF-181-%D0%B8%D1%82%D0%BD-152-%D0%BF%D0%BF-143/ Estat]
+| data-sort-value="2021-10-31" |23−31 Oct 2021
+|993
+|[54.7%-84.5%] 
+|—
+|bgcolor="#EFAEB8"|'''49.7%'''
+|'''27.3%'''
+|5.4%
+|8.3%
+|3.2%
+|0.4%
+|1.0%
+|1.4%
+|0.5%
+|0.8%
+|2%
+|—
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |22.4%
+|-
+|[https://m.dir.bg/dnes/politika/tsentarat-za-analizi-i-marketing-22-3-za-gerb-15-8-za-prodalzhavame-promyanata-15-1-za-bsp  Centre for Analysis and Marketing]
+| data-sort-value="2021-10-26" |22−26 Oct 2021 
+|815
+|[70.6%-83.1%]
+|17.4%
+|bgcolor="#EFAEB8"|'''47.5%'''
+|'''21.8%'''
+|8.6%
+|6.2%
+|1.7% 
+|—
+|—
+|—
+|— 
+|0.8%
+|4.6%
+|0.5%
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |26.7%
+|-
+|[https://trud.bg/%D0%B1%D0%B0%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D1%8A%D1%80-%D0%B1%D1%8A%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F-%D0%B3%D0%B5%D1%80%D0%B1-%D1%81%D0%B4%D1%81-262-%D0%B1%D1%81%D0%BF-149/ Barometar]
+| data-sort-value="2021-10-18" |13−18 Oct 2021 
+|858 
+|[54%-65.5%] 
+|—
+|bgcolor="#EFAEB8"|'''44.8%'''
+|'''27.3%'''
+|11.2%
+|6.8%
+|1.9%
+|—
+|—
+|3.0%
+|— 
+|— 
+|4.9%
+|—
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |17.5%
+|-
+|[https://www.gallup-international.bg/45050/electoral-attitudes-snapshot-3/ Gallup]
+| data-sort-value="2021-10-17" |10−17 Oct 2021
+|1009 
+|56.4% 
+|—
+|bgcolor="#ED8294"|'''51.2%'''
+| 22.5%
+|7.9%
+|6.2%
+|3.1%
+|—
+|—
+|1.6%
+|1.1%  
+|— 
+|3.7%
+|2.7%
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |28.7%
+|-
+|[https://sovaharris.com/%d0%b5%d0%bb%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b0%d0%bb%d0%bd%d0%b8-%d0%b8-%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%b2-%d0%b1-3/ Sova Harris]
+| data-sort-value="2021-10-12" |5−12 Oct 2021
+|1010 
+|[55.2%–87.1%]  
+|—
+|bgcolor="#ED8294"|'''60.4%'''
+|24.8%
+|6.1%
+|5.3%
+|—
+|—
+|—
+|—
+|—
+|—
+|3.4%
+|—
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |35.6%
+|-
+|[https://www.flagman.bg/article/251540 Centre for Analysis and Marketing]
+| data-sort-value="2021-10-10" |6−10 Oct 2021 
+|812  
+|<50% 
+|—
+|bgcolor="#EFAEB8"|'''49.5%'''
+|'''22.3%'''
+|9.1%
+|7.5%
+|1.7%
+|—
+|—
+|0.7%
+|— 
+|1%
+|4.9%
+|—
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |27.3%
+|-
+|[https://alpharesearch.bg/post/984-obshtestveni-naglasi-na-starta-na-kampaniata-za-izbori-dve-v-edno.html Alpha Research]
+| data-sort-value="2021-10-10" |4−10 Oct 2021
+|1123 
+|52.7%
+|11.3%
+|bgcolor="#EFAEB8"|'''42.6%'''
+| '''28.1%'''
+|8.7%
+|8.2%
+|3.9%
+|1.8%
+|1.6%
+|—
+|—  
+|— 
+|3.9%
+|—
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |14.5%
+|- style="background:#D5D5D5;"
+|{{nowrap|[[2016 Bulgarian presidential election|2016 election]]}}
+| data-sort-value="2021-06-11" |6 November 2016
+|—
+|56.3% 
+|—
+|bgcolor="#EFAEB8"|'''25.4%'''
+|—
+|—
+|—
+|—
+|—
+|—
+|— 
+| 11.2%
+|—
+|57.8%
+|5.6%
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |3.4%
+|}
+
+;Hypothetical second round
+{{Graph:Chart
+ | vannotatonslabel=
+ | vannotatonsline=
+ | width = 500
+ |xAxisMax=1636920000000
+ | height= 400
+ | type = line
+ | interpolate = basis
+ | xType = date
+ | xAxisAngle = -40
+ | yAxisTitle = % of votes
+ | yGrid = yes
+ | yAxisMin = 0
+ | linewidth = 2
+ | legend=Legend:
+ | y1Title=Radev
+ | y2Title=Gerdzhikov
+ | x = 2021/10/12, 2021/10/31, 2021/11/2, 2021/11/5, 2021/11/8
+ | y1 = 70.6, 62.2, 67, 63.5, 65.5
+ | y2 = 29.4, 37.8, 33, 36.5, 35.5
+ | colors = #DB0F28, #0054A6
+ | showSymbols = 1,1
+ | symbolsShape = circle
+ | symbolsNoFill = false
+ | symbolsStroke = 1.25
+}}
+{| class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+!rowspan="2"|Polling Firm
+!rowspan="2"|Fieldwork<br />Date
+!rowspan="2" style="width:65px;" class=unsortable |{{nowrap|Sample}}
+![[File:Rumen Radev official portrait (cropped).jpg|60x90px]]<small>[[Rumen Radev|Radev]]</small>
+![[File:Anastas Gerdzhikov (cropped).jpg|60x90px]] <small>[[Anastas Gerdzhikov|Gerdzhikov]]</small>
+!<small>[[Lozan Panov|Panov]]</small>
+
+!rowspan="2" style="width:65px;" class=unsortable |{{nowrap|Lead}}
+|-
+! data-sort-type="number" style="background:{{party color|BSP for Bulgaria}}" <!-- Радев -->|
+! data-sort-type="number" style="background:{{party color|GERB}}" <!-- Герджиков -->|
+! data-sort-type="number" style="background:#A1C619" <!-- Панов -->|
+|-
+|- style="background:#D5D5D5;"
+|{{nowrap|2021 election}}
+|21 November 2021
+|—
+|style="background:#ED8294"  |'''66.7%'''
+|31.8%
+|—
+|style="background:{{party color|BSP for Bulgaria}}; color:white;" |34.9%
+|-  style="background:#EEEFFF"|
+|[https://bntnews.bg/news/ekzitpol-na-alfa-risarch-kam-19-ch-rumen-radev-639-anastas-gerjikov-331-1176004news.html Alpha Research]
+|Exit-Poll
+|—
+|style="background:#ED8294"  |'''63.9%'''
+|33.1%
+|—
+|style="background:{{party color|BSP for Bulgaria}}; color:white;" |30.8%
+|-
+|-  style="background:#EEEFFF"|
+|[https://bntnews.bg/news/ekzitpol-na-galap-kam-20-ch-rumen-radev-658-anastas-gerjikov-314-1176003news.html Gallup]
+|Exit-Poll
+|—
+|style="background:#ED8294"  |'''65.8%'''
+|31.4%
+|—
+|style="background:{{party color|BSP for Bulgaria}}; color:white;" |34.4%
+|-
+|[http://www.mediana.bg/download-analysis/PRESS_112021.doc Mediana]
+| data-sort-value="2021-11-08" |4–8 Nov 2021
+|957
+| style="background:#ED8294"  |'''65.5%'''
+| 35.5%
+| –  
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |30%
+|-
+|[http://exacta.bg/?page_id=42 Exacta]
+|29 Oct−5 Nov 2021
+| 1025 
+| style="background:#ED8294"  |'''63.5%'''
+| 36.5%
+| –  
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |27%
+|-
+| [https://sovaharris.com/%d0%b5%d0%bb%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b0%d0%bb%d0%bd%d0%b8-%d0%b8-%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%b2-%d0%b1-4/ Sova Harris]
+| 27 Oct−2 Nov 2021
+| 1000
+| style="background:#ED8294"  |'''67%'''
+| 33%
+| –  
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |34%
+|-
+| [https://trud.bg/%D0%BF%D1%80%D0%BE%D1%83%D1%87%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-%D0%B5%D1%81%D1%82%D0%B0%D1%82-%D0%B3%D0%B5%D1%80%D0%B1-241-%D0%B1%D1%81%D0%BF-181-%D0%B8%D1%82%D0%BD-152-%D0%BF%D0%BF-143/ Estat]
+| 23–31 Oct 2021
+| 490
+| style="background:#ED8294"  |'''62.2%'''
+| 37.8%
+| –  
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |24.4%
+|-
+| rowspan=2 | [https://sovaharris.com/%d0%b5%d0%bb%d0%b5%d0%ba%d1%82%d0%be%d1%80%d0%b0%d0%bb%d0%bd%d0%b8-%d0%b8-%d0%bf%d0%be%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bd%d0%b0%d0%b3%d0%bb%d0%b0%d1%81%d0%b8-%d0%b2-%d0%b1-3/ Sova Harris]
+| rowspan=2 | 5–12 Oct 2021 
+| rowspan=2 | 1010
+| style="background:#ED8294"  |'''70.6%'''
+| 29.4%
+| –  
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |41.2%
+|-
+| style="background:#ED8294"  |'''86.7%'''
+|  |— 
+|  |13.3%
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" |73.4%
+|-
+| style="background:#E9E9E9;"|{{nowrap|[[2016 Bulgarian presidential election|2016 election]]}}
+| style="background:#E9E9E9;"| 13 November 2016 
+| style="background:#E9E9E9;"|— 
+| style="background:#ED8294" |'''59.4%'''
+| style="background:#E9E9E9;" |— 
+| style="background:#E9E9E9;" |— 
+| style="background:{{party color|BSP for Bulgaria}}; color:white;" | 23.2%
+|}
+
+==Results==
+Polling stations opened at 08:00 and closed at 20:00.<ref>{{Cite web|title=Presidential, legislative elections kick off in Bulgaria – La Prensa Latina Media|date=14 November 2021 |url=https://www.laprensalatina.com/presidential-legislative-elections-kick-off-in-bulgaria/|access-date=14 November 2021|language=en-US|archive-date=14 November 2021|archive-url=https://web.archive.org/web/20211114070854/https://www.laprensalatina.com/presidential-legislative-elections-kick-off-in-bulgaria/|url-status=live}}</ref> Kiril Petkov and Assen Vassilev were viewed as the winners of the legislative elections.<ref>{{Cite web|date=14 November 2021|title=Kiril Petkov is the big winner of the night in Bulgarian election|url=https://www.politico.eu/article/kiril-petkov-bulgaria-borissov-gerb-election/|access-date=15 November 2021|website=POLITICO|language=en-US|archive-date=14 November 2021|archive-url=https://web.archive.org/web/20211114224354/https://www.politico.eu/article/kiril-petkov-bulgaria-borissov-gerb-election/|url-status=live}}</ref> Their party (We Continue the Change) received more than 25% of the vote. GERB remained second with more than 22%. DPS finished third place with over 13%, overtaking BSP, who finished fourth with around 10%. There Is Such a People, the winner of the previous election, was seen as the election loser, dropping to fifth with less than 10% of the vote. Democratic Bulgaria also dropped significantly in support, losing over 50% of their voters from the previous election and receiving only around 6% of the vote. Lastly, Revival managed to enter the parliament with around 5% of the votes, running on a campaign of Bulgarian nationalism and opposition to vaccine mandates. Stand Up BG! We're coming! lost all their seats in the parliament, receiving only 2%, whilst VMRO did not succeed in entering parliament.<ref name=":02">{{Cite web|title=Резултатът от вота: Балотаж за президент в неделя, 7 партии в новото НС – По света и у нас – БНТ Новини|url=https://bntnews.bg/news/rezultatat-ot-vota-balotazh-za-prezident-v-nedelya-7-partii-v-novoto-ns-1175310news.html|access-date=15 November 2021|website=bntnews.bg|language=bg|archive-date=8 December 2021|archive-url=https://web.archive.org/web/20211208121807/https://bntnews.bg/news/rezultatat-ot-vota-balotazh-za-prezident-v-nedelya-7-partii-v-novoto-ns-1175310news.html|url-status=live}}</ref>
+
+We Continue the Change won the most votes in 14 districts of the country, including all three in the capital, Sofia. They also won in major cities such as Burgas, Varna and Plovdiv. GERB—SDS won in 12 districts, including Sofia-Oblast, Gabrovo, and Blagoevgrad. DPS was first in five districts in Kardzhali and Razgrad, as well as in Targovishte, Silistra, and Shumen. The results of the overseas vote differed from those in the country, as DPS received the most votes abroad with over 38% support. In second place abroad was We Continue the Change with over 22 percent. There Is Such a People, which was helped by the votes abroad, finished third, and GERB—SDS came fourth.<ref name=":02" />
+
+Incumbent president Radev received around 49% of the vote and was forced into a runoff against university professor Gerdzhikov on 21 November.<ref>{{Cite web|title=Bulgaria to hold runoff for presidential elections|url=https://www.aa.com.tr/en/politics/bulgaria-to-hold-runoff-for-presidential-elections/2420918|access-date=15 November 2021|website=www.aa.com.tr|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115194404/https://www.aa.com.tr/en/politics/bulgaria-to-hold-runoff-for-presidential-elections/2420918|url-status=live}}</ref> Shortly after the second round of the presidential elections, President Radev was projected to win another term with nearly two-thirds of the vote, according to exit polls published by Alpha Research and Gallup International.<ref>{{Cite web|title=Bulgaria exit polls: President Radev set for election victory |date=21 November 2021|url=https://www.dw.com/en/bulgaria-exit-polls-president-radev-set-for-election-victory/a-59893302|access-date=2021-11-21|website=Deutsche Welle|language=en-GB|archive-date=21 November 2021|archive-url=https://web.archive.org/web/20211121192907/https://www.dw.com/en/bulgaria-exit-polls-president-radev-set-for-election-victory/a-59893302|url-status=live}}</ref> Voter turnout stood at a record-low 33.7% and 3.0% of people who went to the polls did not support either of the two candidates, according to Alpha Research polling agency.<ref>{{Cite web|title=Bulgaria's incumbent president Radev wins second term - exit polls|url=http://seenews.com/news/bulgarias-incumbent-president-radev-wins-second-term-exit-polls-762159|access-date=2021-11-21|website=seenews.com|language=en|archive-date=21 November 2021|archive-url=https://web.archive.org/web/20211121192920/https://seenews.com/news/bulgarias-incumbent-president-radev-wins-second-term-exit-polls-762159|url-status=live}}</ref>
+
+===President===
+<onlyinclude>{{Election results
+|cand1=[[Rumen Radev]]
+|vp1=[[Iliana Iotova]]
+|party1=Independent ([[BSP for Bulgaria]], [[We Continue the Change]], [[There Is Such a People]], [[Stand Up.BG! We are coming!]])
+|votes1= 1322385
+|votes1_2=1539650
+
+|cand2=[[Anastas Gerdzhikov]]
+|vp2=[[Nevyana Miteva]]
+|party2=Independent ([[GERB–SDS]])
+|votes2=610862
+|votes2_2=733791
+
+|cand3=[[Mustafa Karadayi]]
+|vp3=[[Iskra Mihaylova]]
+|party3=[[Movement for Rights and Freedoms]]
+|votes3=309681	
+
+|cand4=[[Kostadin Kostadinov (politician)|Kostadin Kostadinov]]
+|vp4=Elena Guncheva
+|party4=[[Revival (Bulgarian political party)|Revival]]
+|votes4= 104832
+
+|cand5=[[Lozan Panov]]
+|vp5=[[Maria Kasimova]]
+|party5=Independent ([[Democratic Bulgaria]])
+|votes5= 98488
+
+|cand6=Luna Yordanova
+|vp6=Iglena Ilieva
+|party6=Independent
+|votes6= 21733
+
+|cand7=[[Volen Siderov]]
+|vp7=[[Magdalena Tasheva]]
+|party7=[[Attack (political party)|Attack]]
+|votes7= 14792	
+
+|cand8=[[Svetoslav Vitkov]]
+|vp8=Veselin Belokonski
+|party8=[[People's Voice (Bulgaria)|People's Voice]]
+|votes8= 13972
+
+|cand9=[[Milen Mihov]]
+|vp9=Mariya Tsvetkova
+|party9=[[VMRO – Bulgarian National Movement]]
+|votes9= 13376
+	
+|cand10=Rosen Milenov
+|vp10=Ivan Ivanov
+|party10=Independent
+|votes10= 12644
+
+|cand11=Goran Blagoev
+|vp11=Ivelina Georgieva
+|party11=[[Republicans for Bulgaria]]
+|votes11= 12323	
+
+|cand12=[[Veselin Mareshki]]
+|vp12=[[Polina Tsankova]]
+|party12=[[Volya Movement]]
+|votes12= 10536
+
+|cand13=[[Valeri Simeonov]]
+|vp13=Tsvetan Manchev
+|party13=[[Patriotic Front (Bulgaria, 2021)|Patriotic Front]]
+|votes13= 8568
+
+|cand14=[[:bg:Николай Малинов|Nikolay Malinov]]
+|vp14=Svetlana Koseva
+|party14=[[Revival of the Fatherland|Russophiles for the Revival of the Fatherland]]
+|color14 = #3EB149
+|votes14= 8213	
+
+|cand15=Tsveta Kirilova
+|vp15=Georgi Tutanov
+|party15=Independent
+|votes15= 7706	
+
+|cand16=[[Aleksandar Tomov (politician)|Aleksandar Tomov]]
+|vp16=Lachezar Avramov
+|party16=[[Bulgarian Social Democracy – EuroLeft]]
+|color16 = #EB1C26
+|votes16= 7235
+
+|cand17=[[Boyan Rasate]]
+|vp17=Elena Vatashka
+|party17=[[Bulgarian National Union – New Democracy]]
+|votes17= 6798
+
+|cand18=Marina Malcheva
+|vp18=Savina Lukanova
+|party18=Independent
+|votes18= 6315
+	
+|cand19=Zhelyo Zhelev
+|vp19=Kalin Krulev
+|party19=[[Society for a New Bulgaria]]
+|color19 = #2E4E99|votes19= 6154
+
+|cand20=Blagoy Petrevski
+|vp20=Sevina Hadjiyska
+|party20=[[Bulgarian Union for Direct Democracy]]
+|color20 = #1F5DA6
+|votes20= 5518
+	
+|cand21=Yolo Denev
+|vp21=Mario Filev
+|party21=Independent
+|votes21= 5394	
+
+|cand22=[[Maria Koleva]]
+|vp22=Gancho Popov
+|party22=[[Rights, Reforms, Alternative, Opportunities, Responsibility, Tolerance and Unity|Pravoto]]
+|color22 = #4047CB
+|votes22= 4666
+
+|cand23=[[Georgi Georgiev-Goti]]
+|vp23=Stoyan Tsvetkov
+|party23=[[Bulgarian National Unification]]
+|votes23=2958
+	
+|row24=None of the above
+|votes24=60786
+|votes24_2=34169
+
+|invalid=9487
+|invalid2=3909
+
+|electorate=6667895|electorate2=6672935
+
+|source=[https://results.cik.bg/pvrns2021/tur1/rezultati/index.html Electoral Commission of Bulgaria] (first round), [https://results.cik.bg/pvrns2021/tur2/rezultati/index.html Electoral Commission of Bulgaria] (second round)
+}}</onlyinclude>
+
+===National Assembly===
+{{Election results
+|image=[[File:Bulgaria National Assembly November 2021.svg]]
+|party1=[[We Continue the Change]]|votes1=673170|sw1=|seats1=67|sc1=New
+|party2=[[GERB–SDS]]|votes2=596456|sw2=|seats2=59|sc2=–4
+|party3=[[Movement for Rights and Freedoms]]|votes3=341000|sw3=|seats3=34|sc3=+5
+|party4=[[BSP for Bulgaria]]|votes4=267817|sw4=|seats4=26|sc4=–10
+|party5=[[There Is Such a People]]|votes5=249743|sw5=|seats5=25|sc5=–40
+|party6=[[Democratic Bulgaria]]|votes6=166968|sw6=|seats6=16|sc6=–18
+|party7=[[Revival (Bulgarian political party)|Revival]]|votes7=127568|sw7=|seats7=13|sc7=+13
+|party8=[[Stand Up.BG! We are coming!]]|votes8=60055|sw8=|seats8=0|sc8=–13
+|party9=[[VMRO – Bulgarian National Movement]]|votes9=28322|sw9=|seats9=0|sc9=0
+|party10=[[Bulgarian Social Democratic Party]]–[[Bulgarian Euro-Left|EuroLeft]]|votes10=13710|sw10=|seats10=0|sc10=0|color10=#EB1C26
+|party11=[[Attack (political party)|Attack]]|votes11=12153|sw11=|seats11=0|sc11=0
+|party12={{ill|Society for a New Bulgaria|bg|Общество за нова България}}|votes12=11627|sw12=|seats12=0|sc12=New|color12=#2E4E99
+|party13=[[People's Voice (Bulgaria)|People's Voice]]|votes13=11546|sw13=|seats13=0|sc13=0
+|party14={{ill|National Union of the Right|bg|Национално обединение на десницата}}|votes14=11239|sw14=|seats14=0|sc14=0|color14=black
+|party15=[[Patriotic Front (Bulgaria, 2021)|Patriotic Front]]|votes15=8584|sw15=|seats15=0|sc15=0
+|party16=[[Volya Movement]]|votes16=7067|sw16=|seats16=0|sc16=0
+|party17=[[Russophiles for the Revival of the Fatherland]]|votes17=6803|sw17=|seats17=0|sc17=0|color17=#3EB149
+|party18={{ill|Rights, Reforms, Alternative, Opportunities, Responsibility, Tolerance and Unity|bg|Правото|lt=Pravoto}}|votes18=6712|sw18=|seats18=0|sc18=New|color18=#4047CB
+|party19={{ill|Bulgarian Union for Direct Democracy|bg|Български съюз за директна демокрация}}|votes19=5894|sw19=|seats19=0|sc19=New|color19=#1F5DA6
+|party20={{ill|Morality, Initiative and Patriotism|bg|МИР}}|votes20=3939|sw20=|seats20=0|sc20=0|color20=#1B4962
+|party21=[[Green Party of Bulgaria|Green Party]]|votes21=2968|sw21=|seats21=0|sc21=0
+|party22=[[Bulgarian National Unification]]|votes22=2468|sw22=|seats22=0|sc22=0
+|party23=[[Prosperity-Unification-Building]]|votes23=1723|sw23=|seats23=0|sc23=New|color23=#580057
+|party24=[[Bulgarian Progressive Line]]|votes24=1498|sw24=|seats24=0|sc24=0
+|party25={{ill|Direct Democracy (Bulgaria)|bg|Пряка демокрация (партия в България)|lt=Direct Democracy}}|votes25=1341|sw25=|seats25=0|sc25=0|color25=#339966
+|party26={{ill|Brigade (Bulgaria)|bg|Бригада (партия в България)|lt=Brigade}}|votes26=1151|sw26=|seats26=0|sc26=0|color26=#02AD51
+|party27=[[Bulgarian National Union – New Democracy]]|votes27=1099|sw27=|seats27=0|sc27=0
+|party28=Independents|votes28=182|sw28=|seats28=0|sc28=0
+|row29=None of the above|votes29=35745|sw29=
+|invalid=11315
+|total_sc=0
+|electorate=6667895
+|source=[https://results.cik.bg/pvrns2021/tur1/rezultati/index.html Electoral Commission of Bulgaria]
+}}
+
+===Voter Demographics===
+Gallup exit polling suggested the following demographic breakdown. The parties which got below 4% of the vote are included in 'Others':
+
+{| class=wikitable
+|-
+! colspan="10" | Voter Demographics<ref name="gallup-international.bg">{{Cite web |date=2021-11-15 |title=Демографски профили на вота – 14 ноември |url=https://www.gallup-international.bg/45232/demographic-structure-of-the-vote-2/ |access-date=2022-08-09 |website=Галъп интернешънъл |language=bg-BG}}</ref>
+|-
+! style="width:150px;" rowspan="2" | Social group
+! style="width:60px;" class="unsortable" | % [[We Continue the Change|PP]]
+! style="width:60px;" class="unsortable" | % [[GERB–SDS]]
+! style="width:60px;" class="unsortable" | % [[Movement for Rights and Freedoms|DPS]]
+! style="width:60px;" class="unsortable" | % [[BSP for Bulgaria|BSP]]
+! style="width:60px;" class="unsortable" | % [[There Is Such a People|ITN]]
+! style="width:60px;" class="unsortable" | % [[Democratic Bulgaria|DB]]
+!| % [[Revival (Bulgarian political party)|Revival]]
+! style="width:60px;" rowspan="2" class="unsortable" | % Others
+! style="width:60px;" rowspan="2" class="unsortable" | % Lead
+|-
+! class="unsortable" style="color:inherit;background:{{party color|We Continue the Change}}; width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|GERB}};       width:60px;" |
+! class="unsortable" style="color:inherit;background:#800080;  width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|Bulgarian Socialist Party}};  width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|There Is Such a People}};  width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|Democratic Bulgaria}};  width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|Revival (Bulgarian political party)}}; width:60px;" |
+|-
+| Exit Poll Result
+| style="text-align:right; background:#FBE8AF;" | '''25'''
+| style="text-align:right;" | 24
+| style="text-align:right;" | 10
+| style="text-align:right;" | 14
+| style="text-align:right;" | 8
+| style="text-align:right;" | 7
+| style="text-align:right;" | 4
+| style="text-align:right;" | 8
+| style="text-align:right; background:{{party color|We Continue the Change}};" | '''1'''
+|-
+| Final Result
+| style="text-align:right; background:#FBE8AF;" | '''25'''
+| style="text-align:right;" | 22
+| style="text-align:right;" | 13
+| style="text-align:right;" | 10
+| style="text-align:right;" | 9
+| style="text-align:right;" | 6
+| style="text-align:right;" | 5
+| style="text-align:right;" | 9
+| style="text-align:right; background:{{party color|We Continue the Change}};" | '''3'''
+|-
+! colspan=10 | Gender
+|-
+| Men
+| style="text-align:right;" | 23
+| style="text-align:right; background:#CCE6FF;" | '''24'''
+| style="text-align:right;" | 10
+| style="text-align:right;" | 13
+| style="text-align:right;" | 8
+| style="text-align:right;" | 7
+| style="text-align:right;" | 5
+| style="text-align:right;" | 10
+| style="text-align:right; background:{{party color|GERB}}; color:white;"| '''1'''
+|-
+| Women
+| style="text-align:right; background:#FBE8AF;" | '''26'''
+| style="text-align:right;" | 23
+| style="text-align:right;" | 9
+| style="text-align:right;" | 14
+| style="text-align:right;" | 7
+| style="text-align:right;" | 7
+| style="text-align:right;" | 4
+| style="text-align:right;" | 10
+| style="text-align:right; background:{{party color|We Continue the Change}};" | '''3'''
+|-
+! colspan=10 | Age
+|-
+| 18–30
+| style="text-align:right; background:#FBE8AF;" | '''28'''
+| style="text-align:right;" | 16
+| style="text-align:right;" | 11
+| style="text-align:right;" | 5
+| style="text-align:right;" | 13
+| style="text-align:right;" | 12
+| style="text-align:right;" | 5
+| style="text-align:right;" | 10
+| style="text-align:right; background:{{party color|We Continue the Change}};" | '''12'''
+|-
+| 30-60
+| style="text-align:right; background:#FBE8AF;" | '''26'''
+| style="text-align:right;" | 25
+| style="text-align:right;" | 9
+| style="text-align:right;" | 9
+| style="text-align:right;" | 9
+| style="text-align:right;" | 8
+| style="text-align:right;" | 5
+| style="text-align:right;" | 9
+| style="text-align:right; background:{{party color|We Continue the Change}};" | '''1'''
+|-
+| 60+
+| style="text-align:right;" | 21
+| style="text-align:right;" | 24
+| style="text-align:right;" | 10
+| style="text-align:right; background:#F78F8F;"| '''29'''
+| style="text-align:right;" | 3
+| style="text-align:right;" | 4
+| style="text-align:right;" | 3
+| style="text-align:right;" | 6
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;"| '''5'''
+|-
+! colspan=10 | Highest Level of Education
+|-
+| Lower Education
+| style="text-align:right;" | 6
+| style="text-align:right;" | 13
+| style="text-align:right; background:#FC81FC" | '''42'''
+| style="text-align:right;" | 20
+| style="text-align:right;" | 4
+| style="text-align:right;" | 2
+| style="text-align:right;" | 4
+| style="text-align:right;" | 9
+| style="text-align:right; background:#800080; color:white;" | '''22'''
+|-
+| Secondary Education
+| style="text-align:right;" | 21
+| style="text-align:right; background:#CCE6FF;" | '''25'''
+| style="text-align:right;" | 10
+| style="text-align:right;" | 16
+| style="text-align:right;" | 9
+| style="text-align:right;" | 5
+| style="text-align:right;" | 4
+| style="text-align:right;" | 10
+| style="text-align:right; background:{{party color|GERB}}; color:white;"| '''4'''
+|-
+| Higher Education
+| style="text-align:right; background:#FBE8AF;" | '''32'''
+| style="text-align:right;" | 24
+| style="text-align:right;" | 3
+| style="text-align:right;" | 11
+| style="text-align:right;" | 8
+| style="text-align:right;" | 10
+| style="text-align:right;" | 4
+| style="text-align:right;" | 8
+| style="text-align:right; background:{{party color|We Continue the Change}};" | '''8'''
+|-
+! colspan=10 | Ethnic Group
+|-
+| Bulgarian
+| style="text-align:right; background:#FBE8AF;" | '''28'''
+| style="text-align:right;" | 25
+| style="text-align:right;" | 1
+| style="text-align:right;" | 15
+| style="text-align:right;" | 9
+| style="text-align:right;" | 8
+| style="text-align:right;" | 5
+| style="text-align:right;" | 9
+| style="text-align:right; background:{{party color|We Continue the Change}};" | '''3'''
+|-
+| Turkish
+| style="text-align:right;" | 5
+| style="text-align:right;" | 10
+| style="text-align:right; background:#FC81FC" | '''73'''
+| style="text-align:right;" | 3
+| style="text-align:right;" | 1
+| style="text-align:right;" | 1
+| style="text-align:right;" | 2
+| style="text-align:right;" | 5
+| style="text-align:right; background:#800080; color:white;" | '''63'''
+|-
+| Roma
+| style="text-align:right;" | 6
+| style="text-align:right;" | 13
+| style="text-align:right; background:#FC81FC" | '''38'''
+| style="text-align:right;" | 16
+| style="text-align:right;" | 4
+| style="text-align:right;" | 1
+| style="text-align:right;" | 4
+| style="text-align:right;" | 18
+| style="text-align:right; background:#800080; color:white;" | '''22'''
+|-
+! colspan=10 | Location
+|-
+| Towns and Villages
+| style="text-align:right;" | 13
+| style="text-align:right;" | 22
+| style="text-align:right; background:#FC81FC" | '''31'''
+| style="text-align:right;" | 14
+| style="text-align:right;" | 5
+| style="text-align:right;" | 3
+| style="text-align:right;" | 4
+| style="text-align:right;" | 8
+| style="text-align:right; background:#800080; color:white;" | '''9'''
+|-
+| Smaller Cities
+| style="text-align:right;" | 21
+| style="text-align:right; background:#CCE6FF;" | '''26'''
+| style="text-align:right;" | 9
+| style="text-align:right;" | 19
+| style="text-align:right;" | 9
+| style="text-align:right;" | 4
+| style="text-align:right;" | 5
+| style="text-align:right;" | 7
+| style="text-align:right; background:{{party color|GERB}}; color:white;"| '''5'''
+|-
+| Larger Cities
+| style="text-align:right; background:#FBE8AF;" | '''32'''
+| style="text-align:right;" | 22
+| style="text-align:right;" | 2
+| style="text-align:right;" | 13
+| style="text-align:right;" | 9
+| style="text-align:right;" | 7
+| style="text-align:right;" | 5
+| style="text-align:right;" | 10
+| style="text-align:right; background:{{party color|We Continue the Change}};" | '''10'''
+|-
+| Sofia
+| style="text-align:right; background:#FBE8AF;" | '''32'''
+| style="text-align:right;" | 24
+| style="text-align:right;" | 1
+| style="text-align:right;" | 10
+| style="text-align:right;" | 6
+| style="text-align:right;" | 14
+| style="text-align:right;" | 4
+| style="text-align:right;" | 9
+| style="text-align:right; background:{{party color|We Continue the Change}};" | '''8'''
+|}
+
+
+
+
+
+{| class=wikitable
+|-
+! colspan="10" | Voter Demographics<ref name="gallup-international.bg"/>
+|-
+! style="width:150px;" rowspan="2" | Social group
+! style="width:60px;" class="unsortable" | % [[Rumen Radev|Radev]]
+! style="width:60px;" class="unsortable" | % [[Anastas Gerdzhikov|Gerdzhikov]]
+! style="width:60px;" class="unsortable" | % [[Mustafa Karadayi|Karadayi]]
+! style="width:60px;" class="unsortable" | % [[Lozan Panov|Panov]]
+! style="width:60px;" class="unsortable" | % [[Kostadin Kostadinov (politician)|Kostadinov]]
+! style="width:60px;" class="unsortable" | % [[Luna Yordanova|Yordanova]]
+! style="width:60px;" rowspan="2" class="unsortable" | % Others
+! style="width:60px;" rowspan="2" class="unsortable" | % Lead
+|-
+! class="unsortable" style="color:inherit;background:{{party color|Bulgarian Socialist Party}};  width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|GERB}};       width:60px;" |
+! class="unsortable" style="color:inherit;background:#800080;  width:60px;" |
+! class="unsortable" style="color:inherit;background:#008000;  width:60px;" |
+! class="unsortable" style="color:inherit;background:{{party color|Revival (Bulgarian political party)}}; width:60px;" |
+! class="unsortable" style="color:inherit;background:#F19CBB;  width:60px;" |
+|-
+| Exit Poll Result
+| style="text-align:right; background:#F78F8F;" | '''50'''
+| style="text-align:right;" | 25
+| style="text-align:right;" | 10
+| style="text-align:right;" | 4
+| style="text-align:right;" | 4
+| style="text-align:right;" | 1
+| style="text-align:right;" | 6
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''25'''
+|-
+| Final Result
+| style="text-align:right; background:#F78F8F;" | '''49'''
+| style="text-align:right;" | 23
+| style="text-align:right;" | 12
+| style="text-align:right;" | 4
+| style="text-align:right;" | 4
+| style="text-align:right;" | 1
+| style="text-align:right;" | 7
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''26'''
+|-
+! colspan=10 | Gender
+|-
+| Men
+| style="text-align:right; background:#F78F8F;" | '''48'''
+| style="text-align:right;" | 25
+| style="text-align:right;" | 11
+| style="text-align:right;" | 4
+| style="text-align:right;" | 4
+| style="text-align:right;" | 2
+| style="text-align:right;" | 6
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''23'''
+|-
+| Women
+| style="text-align:right; background:#F78F8F;" | '''50'''
+| style="text-align:right;" | 25
+| style="text-align:right;" | 8
+| style="text-align:right;" | 4
+| style="text-align:right;" | 4
+| style="text-align:right;" | 1
+| style="text-align:right;" | 8
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''25'''
+|-
+! colspan=10 | Age
+|-
+| 18–30
+| style="text-align:right; background:#F78F8F;" | '''46'''
+| style="text-align:right;" | 17
+| style="text-align:right;" | 11
+| style="text-align:right;" | 7
+| style="text-align:right;" | 5
+| style="text-align:right;" | 3
+| style="text-align:right;" | 11
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''29'''
+|-
+| 30-60
+| style="text-align:right; background:#F78F8F;" | '''47'''
+| style="text-align:right;" | 27
+| style="text-align:right;" | 8
+| style="text-align:right;" | 5
+| style="text-align:right;" | 5
+| style="text-align:right;" | 1
+| style="text-align:right;" | 7
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''20'''
+|-
+| 60+
+| style="text-align:right; background:#F78F8F;" | '''57'''
+| style="text-align:right;" | 25
+| style="text-align:right;" | 9
+| style="text-align:right;" | 1
+| style="text-align:right;" | 3
+| style="text-align:right;" | 0
+| style="text-align:right;" | 5
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''32'''
+|-
+! colspan=10 | Highest Level of Education
+|-
+| Lower Education
+| style="text-align:right;" | 34
+| style="text-align:right;" | 12
+| style="text-align:right; background:#FC81FC" | '''40'''
+| style="text-align:right;" | 1
+| style="text-align:right;" | 3
+| style="text-align:right;" | 2
+| style="text-align:right;" | 8
+| style="text-align:right; background:#800080; color:white;" | '''6'''
+|-
+| Secondary Education
+| style="text-align:right; background:#F78F8F;" | '''49'''
+| style="text-align:right;" | 24
+| style="text-align:right;" | 10
+| style="text-align:right;" | 3
+| style="text-align:right;" | 4
+| style="text-align:right;" | 1
+| style="text-align:right;" | 9
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''25'''
+|-
+| Higher Education
+| style="text-align:right; background:#F78F8F;" | '''53'''
+| style="text-align:right;" | 27
+| style="text-align:right;" | 3
+| style="text-align:right;" | 8
+| style="text-align:right;" | 4
+| style="text-align:right;" | 1
+| style="text-align:right;" | 4
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''26'''
+|-
+! colspan=10 | Ethnic Group
+|-
+| Bulgarian
+| style="text-align:right; background:#F78F8F;" | '''54'''
+| style="text-align:right;" | 27
+| style="text-align:right;" | 1
+| style="text-align:right;" | 5
+| style="text-align:right;" | 5
+| style="text-align:right;" | 1
+| style="text-align:right;" | 7
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''27'''
+|-
+| Turkish
+| style="text-align:right;" | 9
+| style="text-align:right;" | 14
+| style="text-align:right; background:#FC81FC" | '''69'''
+| style="text-align:right;" | 1
+| style="text-align:right;" | 1
+| style="text-align:right;" | 1
+| style="text-align:right;" | 5
+| style="text-align:right; background:#800080; color:white;" | '''53'''
+|-
+| Roma
+| style="text-align:right;" | 32
+| style="text-align:right;" | 11
+| style="text-align:right; background:#FC81FC" | '''34'''
+| style="text-align:right;" | 1
+| style="text-align:right;" | 4
+| style="text-align:right;" | 5
+| style="text-align:right;" | 13
+| style="text-align:right; background:#800080; color:white;" | '''2'''
+|-
+! colspan=10 | Location
+|-
+| Towns and Villages
+| style="text-align:right; background:#F78F8F;" | '''40'''
+| style="text-align:right;" | 20
+| style="text-align:right;" | 31
+| style="text-align:right;" | 1
+| style="text-align:right;" | 3
+| style="text-align:right;" | 1
+| style="text-align:right;" | 4
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''9'''
+|-
+| Smaller Cities
+| style="text-align:right; background:#F78F8F;" | '''53'''
+| style="text-align:right;" | 25
+| style="text-align:right;" | 8
+| style="text-align:right;" | 2
+| style="text-align:right;" | 4
+| style="text-align:right;" | 1
+| style="text-align:right;" | 7
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''28'''
+|-
+| Larger Cities
+| style="text-align:right; background:#F78F8F;" | '''54'''
+| style="text-align:right;" | 26
+| style="text-align:right;" | 2
+| style="text-align:right;" | 4
+| style="text-align:right;" | 5
+| style="text-align:right;" | 1
+| style="text-align:right;" | 8
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''10'''
+|-
+| Sofia
+| style="text-align:right; background:#F78F8F;" | '''46'''
+| style="text-align:right;" | 30
+| style="text-align:right;" | 1
+| style="text-align:right;" | 10
+| style="text-align:right;" | 5
+| style="text-align:right;" | 1
+| style="text-align:right;" | 7
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''16'''
+|-
+! colspan=10 | By Political Party
+|-
+| PP
+| style="text-align:right; background:#F78F8F;" | '''80'''
+| style="text-align:right;" | 9
+| style="text-align:right;" | 0
+| style="text-align:right;" | 4
+| style="text-align:right;" | 1
+| style="text-align:right;" | 1
+| style="text-align:right;" | 5
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''71'''
+|-
+| GERB
+| style="text-align:right;" | 10
+| style="text-align:right; background:#CCE6FF;" | '''83'''
+| style="text-align:right;" | 1
+| style="text-align:right;" | 1
+| style="text-align:right;" | 1
+| style="text-align:right;" | 1
+| style="text-align:right;" | 3
+| style="text-align:right; background:{{party color|GERB}}; color:white;" | '''73'''
+|-
+| DPS
+| style="text-align:right;" | 3
+| style="text-align:right;" | 6
+| style="text-align:right; background:#FC81FC" | '''90'''
+| style="text-align:right;" | 0
+| style="text-align:right;" | 0
+| style="text-align:right;" | 1
+| style="text-align:right;" | 1
+| style="text-align:right; background:#800080; color:white;" | '''84'''
+|-
+| BSP
+| style="text-align:right; background:#F78F8F;" | '''93'''
+| style="text-align:right;" | 1
+| style="text-align:right;" | 0
+| style="text-align:right;" | 0
+| style="text-align:right;" | 2
+| style="text-align:right;" | 0
+| style="text-align:right;" | 4
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};color:white;" | '''91'''
+|-
+| ITN
+| style="text-align:right; background:#F78F8F;" | '''78'''
+| style="text-align:right;" | 9
+| style="text-align:right;" | 0
+| style="text-align:right;" | 3
+| style="text-align:right;" | 2
+| style="text-align:right;" | 1
+| style="text-align:right;" | 7
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''69'''
+|-
+| DB
+| style="text-align:right; background:#F78F8F;" | '''38'''
+| style="text-align:right;" | 14
+| style="text-align:right;" | 0
+| style="text-align:right;" | 36
+| style="text-align:right;" | 2
+| style="text-align:right;" | 1
+| style="text-align:right;" | 9
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''2'''
+|-
+| Revival
+| style="text-align:right;" | 21
+| style="text-align:right;" | 5
+| style="text-align:right;" | 0
+| style="text-align:right;" | 1
+| style="text-align:right; background:#FFFFE0" | '''66'''
+| style="text-align:right;" | 0
+| style="text-align:right;" | 7
+| style="text-align:right; background:{{party color|Revival (Bulgarian political party)}};" | '''45'''
+|-
+| IBGNI
+| style="text-align:right; background:#F78F8F;" | '''86'''
+| style="text-align:right;" | 0
+| style="text-align:right;" | 0
+| style="text-align:right;" | 5
+| style="text-align:right;" | 0
+| style="text-align:right;" | 1
+| style="text-align:right;" | 8
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}}; color:white;" | '''81'''
+|-
+| IMRO
+| style="text-align:right;" | 25
+| style="text-align:right; background:#CCE6FF;" | '''26'''
+| style="text-align:right;" | 1
+| style="text-align:right;" | 4
+| style="text-align:right;" | 7
+| style="text-align:right;" | 3
+| style="text-align:right;" | 34
+| style="text-align:right; background:{{party color|GERB}}; color:white;" | '''1'''
+|-
+| Others/None
+| style="text-align:right; background:#F78F8F;" | '''35'''
+| style="text-align:right;" | 13
+| style="text-align:right;" | 2
+| style="text-align:right;" | 3
+| style="text-align:right;" | 4
+| style="text-align:right;" | 3
+| style="text-align:right;" | 41
+| style="text-align:right; background:{{party color|Bulgarian Socialist Party}};" | '''22'''
+|-
+|}
+
+===By constituency===
+{| class="wikitable sortable collapsible" style="font-size:90%;text-align:right;"
+!rowspan=2|Constituency
+![[We Continue the Change|PP]]
+![[GERB–SDS]]
+![[Movement for Rights and Freedoms|DPS]]
+![[BSP for Bulgaria|BSPzB]]
+![[There Is Such A People|ITN]]
+![[Democratic Bulgaria|DB]]
+![[Revival (Bulgarian political party)|Revival]]
+!Others
+|-
+!style=background:{{party color|We Continue the Change}}|
+!style=background:{{party color|GERB}}|
+!style="color:inherit;background:#800080;"|
+!style=background:{{party color|BSP for Bulgaria}}|
+!style=background:{{party color|There Is Such A People}}|
+!style=background:{{party color|Democratic Bulgaria}}|
+!style=background:{{party color|Revival (Bulgarian political party)}}|
+!style=background:{{party color|Miscellaneous}}|
+|-
+|align=left|[[1st MMC – Blagoevgrad|Blagoevgrad]]
+| 19.9%
+| style="background: #CCE6FF;"|'''26.9%'''
+| 16.7%
+| 9.8%
+| 10.5%
+| 4.4%
+| 2.9%
+| 8.9%
+|-
+|align=left|[[2nd MMC – Burgas|Burgas]]
+| style="background: #FBE8AF;"|'''26.2%'''
+| 23.1%
+| 14.3%
+| 9.5%
+| 9.0%
+| 4.8%
+| 5.2%
+| 7.9%
+|-
+|align=left|[[3rd MMC – Varna|Varna]]
+| style="background: #FBE8AF;"|'''29.1%'''
+| 26.6%
+| 4.6%
+| 8.9%
+| 10.7%
+| 5.8%
+| 6.7%
+| 7.6%
+|-
+|align=left|[[4th MMC – Veliko Tarnovo|Veliko Tarnovo]]
+| style="background: #FBE8AF;"|'''25.3%'''
+| 21.2%
+| 8.7%
+| 15.4%
+| 10.9%
+| 4.8%
+| 5.5%
+| 8.2%
+|-
+|align=left|[[5th MMC – Vidin|Vidin]]
+| 20.6%
+| style="background: #CCE6FF;"|'''28.0%'''
+| 6.3%
+| 15.0%
+| 11.7%
+| 5.7%
+| 3.4%
+| 9.3%
+|-
+|align=left|[[6th MMC – Vratsa|Vratsa]]
+| 22.7%
+| style="background: #CCE6FF;"|'''27.4%'''
+| 8.6%
+| 12.0%
+| 11.0%
+| 3.7%
+| 3.9%
+| 10.7%
+|-
+|align=left|[[7th MMC – Gabrovo|Gabrovo]]
+| 27.4%
+| style="background: #CCE6FF;"|'''29.9%'''
+| 4.5%
+| 10.4%
+| 9.6%
+| 3.9%
+| 6.0%
+| 8.3%
+|-
+|align=left|[[8th MMC – Dobrich|Dobrich]]
+| style="background: #FBE8AF;"|'''25.5%'''
+| 20.2%
+| 10.8%
+| 14.5%
+| 10.1%
+| 4.2%
+| 5.2%
+| 9.5%
+|-
+|align=left|[[9th MMC – Kardzhali|Kardzhali]]
+| 7.0%
+| 10.5%
+| style="background: #FC81FC;"|'''68.1%'''
+| 4.4%
+| 3.9%
+| 1.6%
+| 1.1%
+| 3.4%
+|-
+|align=left|[[10th MMC – Kyustendil|Kyustendil]]
+| 24.7%
+| style="background: #CCE6FF;"|'''31.7%'''
+| 1.5%
+| 13.4%
+| 10.5%
+| 3.4%
+| 4.4%
+| 10.4%
+|-
+|align=left|[[11th MMC – Lovech|Lovech]]
+| 22.4%
+| style="background: #CCE6FF;"|'''27.8%'''
+| 8.1%
+| 14.1%
+| 10.6%
+| 3.9%
+| 4.6%
+| 8.5%
+|-
+|align=left|[[12th MMC – Montana|Montana]]
+| style="background: #FBE8AF;"|'''23.0%'''
+| 20.7%
+| 18.5%
+| 12.5%
+| 10.5%
+| 3.0%
+| 3.7%
+| 8.1%
+|-
+|align=left|[[13th MMC – Pazardzhik|Pazardzhik]]
+| 21.4%
+| style="background: #CCE6FF;"|'''26.5%'''
+| 13.1%
+| 13.1%
+| 9.9%
+| 3.7%
+| 4.1%
+| 8.2%
+|-
+|align=left|[[14th MMC – Pernik|Pernik]]
+| 24.3%
+| style="background: #CCE6FF;"|'''32.9%'''
+| 1.6%
+| 12.2%
+| 10.5%
+| 4.4%
+| 4.6%
+| 9.5%
+|-
+|align=left|[[15th MMC – Pleven|Pleven]]
+| style="background: #FBE8AF;"|'''23.7%'''
+| 21.6%
+| 6.0%
+| 16.2%
+| 14.9%
+| 3.5%
+| 4.2%
+| 9.9%
+|-
+|align=left|[[16th MMC – Plovdiv-city|Plovdiv-city]]
+| style="background: #FBE8AF;"|'''33.2%'''
+| 25.4%
+| 1.6%
+| 9.3%
+| 9.9%
+| 7.4%
+| 6.4%
+| 6.8%
+|-
+|align=left|[[17th MMC – Plovdiv-province|Plovdiv-province]]
+| 22.6%
+| style="background: #CCE6FF;"|'''26.7%'''
+| 8.0%
+| 14.9%
+| 10.3%
+| 3.5%
+| 5.0%
+| 9.0%
+|-
+|align=left|[[18th MMC – Razgrad|Razgrad]]
+| 10.7%
+| 17.6%
+| style="background: #FC81FC;"|'''44.4%'''
+| 6.6%
+| 5.7%
+| 7.2%
+| 2.3%
+| 5.5%
+|-
+|align=left|[[19th MMC – Ruse|Ruse]]
+| style="background: #FBE8AF;"|'''29.5%'''
+| 21.3%
+| 8.1%
+| 11.1%
+| 11.9%
+| 4.2%
+| 5.6%
+| 8.3%
+|-
+|align=left|[[20th MMC – Silistra|Silistra]]
+| 17.2%
+| 24.2%
+| style="background: #FC81FC;"|'''28.2%'''
+| 8.9%
+| 7.8%
+| 2.4%
+| 2.8%
+| 8.5%
+|-
+|align=left|[[21st MMC – Sliven|Sliven]]
+| 25.8%
+| style="background: #CCE6FF;"|'''26.7%'''
+| 5.7%
+| 12.0%
+| 10.2%
+| 4.1%
+| 4.9%
+| 10.6%
+|-
+|align=left|[[22nd MMC – Smolyan|Smolyan]]
+| 19.9%
+| style="background: #CCE6FF;"|'''24.8%'''
+| 21.2%
+| 12.4%
+| 9.1%
+| 3.7%
+| 2.4%
+| 6.5%
+|-
+|align=left|[[23rd Multi-member Constituency|Sofia-city 23]]
+| style="background: #FBE8AF;"|'''36.6%'''
+| 21.5%
+| 0.5%
+| 8.6%
+| 5.9%
+| 15.6%
+| 4.6%
+| 6.7%
+|-
+|align=left|[[24th Multi-member Constituency|Sofia-city 24]]
+| style="background: #FBE8AF;"|'''33.4%'''
+| 24.0%
+| 0.5%
+| 8.4%
+| 6.9%
+| 14.6%
+| 5.1%
+| 7.1%
+|-
+|align=left|[[25th Multi-member Constituency|Sofia-city 25]]
+| style="background: #FBE8AF;"|'''32.1%'''
+| 26.1%
+| 0.6%
+| 9.4%
+| 8.3%
+| 9.7%
+| 5.8%
+| 8.0%
+|-
+|align=left|Sofia-province
+| 23.4%
+| style="background: #CCE6FF;"|'''28.7%'''
+| 5.7%
+| 13.3%
+| 10.4%
+| 4.3%
+| 4.2%
+| 10.0%
+|-
+|align=left|Stara Zagora
+| style="background: #FBE8AF;"|'''27.5%'''
+| 23.0%
+| 6.7%
+| 12.7%
+| 11.4%
+| 4.2%
+| 6.2%
+| 8.3%
+|-
+|align=left|Targovishte
+| 14.2%
+| 16.9%
+| style="background: #FC81FC;"|'''37.8%'''
+| 10.9%
+| 7.7%
+| 2.8%
+| 2.9%
+| 6.8%
+|-
+|align=left|Haskovo
+| style="background: #FBE8AF;"|'''25.9%'''
+| 22.5%
+| 16.8%
+| 10.3%
+| 9.3%
+| 3.6%
+| 4.5%
+| 7.1%
+|-
+|align=left|Shumen
+| 20.0%
+| 22.8%
+| style="background: #FC81FC;"|'''24.7%'''
+| 9.9%
+| 8.7%
+| 2.7%
+| 3.8%
+| 7.4%
+|-
+|align=left|Yambol
+| style="background: #FBE8AF;"|'''25.7%'''
+| 24.0%
+| 1.6%
+| 19.8%
+| 9.9%
+| 4.1%
+| 5.8%
+| 9.1%
+|-
+! colspan="9"; |
+|-
+| Bulgarian nationals abroad
+| 22.4%
+| 7.3%
+| style="background: #FC81FC;"|'''39.2%'''
+| 2.3%
+| 11.0%
+| 7.9%
+| 6.2%
+| 3.7%
+|-
+|align=left colspan=9|Source: [https://results.cik.bg/pvrns2021/tur1/rezultati/index.html]
+|}
+
+== Aftermath ==
+{{see also|Petkov Government}}
+Following the DB coalition's poor results in the elections, [[Hristo Ivanov (politician)|Hristo Ivanov]] and the entire party leadership of [[Yes, Bulgaria!]] announced their resignations on 15 November.<ref>{{Cite web|title=Elections: Hristo Ivanov and the Entire Management of 'Yes, Bulgaria' Resign – Novinite.com – Sofia News Agency|url=https://www.novinite.com/articles/212256/Elections%3A+Hristo+Ivanov+and+the+Entire+Management+of+%22Yes%2C+Bulgaria%22+Resign|access-date=15 November 2021|website=www.novinite.com|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115161928/https://www.novinite.com/articles/212256/Elections%3A+Hristo+Ivanov+and+the+Entire+Management+of+%22Yes%2C+Bulgaria%22+Resign|url-status=live}}</ref> [[Korneliya Ninova]], the leader of BSP, also resigned after her party's "catastrophic" result, winning only 26 seats and falling to fourth place.<ref>{{Cite web|title=Leader of the Bulgarian Socialists Kornelia Ninova has Resigned |publisher=Sofia News Agency|url=https://www.novinite.com/articles/212269/Leader+of+the+Bulgarian+Socialists+Kornelia+Ninova+has+Resigned|access-date=17 November 2021|website=www.novinite.com|archive-date=16 November 2021|archive-url=https://web.archive.org/web/20211116163811/https://www.novinite.com/articles/212269/Leader+of+the+Bulgarian+Socialists+Kornelia+Ninova+has+Resigned|url-status=live}}</ref> However, both were reaffirmed as party leaders by early February 2022.
+
+Following the PP victory, Petkov told reporters after initial results were released that "Bulgaria is taking a new path. If we can stop [corruption] and redistribute money for the well-being of the taxpayers, then we should be able to come to an agreement with several parties." Petkov said he was willing to work with all parties that would join the fight against corruption in Bulgaria.<ref>{{Cite news|title=Tough Coalition Talks Loom in Bulgaria After Inconclusive Elections|url=https://www.rferl.org/a/bulgaria-elections-borissov-petkov/31561513.html|access-date=15 November 2021|newspaper=Radio Free Europe/Radio Liberty|date=15 November 2021 |language=en|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115013307/https://www.rferl.org/a/bulgaria-elections-borissov-petkov/31561513.html|url-status=live}}</ref> He announced he was seeking to become prime minister and said he wanted to pursue "transparent" coalition negotiations with DB and There Is Such a People.<ref>{{Cite web|date=14 November 2021|title=Bulgaria elections: New anti-graft PP party leads after Sunday's vote|url=https://www.euronews.com/2021/11/14/bulgarian-elections-newly-formed-pp-party-neck-and-neck-with-right-wing-gerb-party|access-date=15 November 2021|website=euronews|language=en|archive-date=14 November 2021|archive-url=https://web.archive.org/web/20211114224213/https://www.euronews.com/2021/11/14/bulgarian-elections-newly-formed-pp-party-neck-and-neck-with-right-wing-gerb-party|url-status=live}}</ref> DPS and GERB rejected coalition talks with PP.<ref>{{Cite web|date=2021-11-21|title=Bulgaria presidential poll seen testing anti-graft reform appetite|url=https://www.rfi.fr/en/bulgaria-presidential-poll-seen-testing-anti-graft-reform-appetite|access-date=2021-11-21|website=RFI|language=en|archive-date=21 November 2021|archive-url=https://web.archive.org/web/20211121193846/https://www.rfi.fr/en/bulgaria-presidential-poll-seen-testing-anti-graft-reform-appetite|url-status=live}}</ref> Analysts such as Boryana Dimitrova and Parvan Simeonov predicted that PP, ITN, DB, and BSP would form a coalition.<ref>{{Cite web|title=Социолозите предричат четворна коалиция – По света и у нас – БНТ Новини|url=https://bntnews.bg/news/sociolozite-predrichat-chetvorna-koaliciya-1175332news.html|access-date=15 November 2021|website=bntnews.bg|language=bg|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115180511/https://bntnews.bg/news/sociolozite-predrichat-chetvorna-koaliciya-1175332news.html|url-status=live}}</ref> 
+
+Shortly after exit polls projected that President Radev had won another term with nearly two-thirds of the vote, he commented in a statement that "an unprecedented political month of two types of elections ended, which clearly showed the will of the people to change and to break with corruption, robbery and lawlessness, to remove the mafia from power."<ref>{{Cite web|title=Румен Радев: България издържа този изпит по демокрация. Аз съм оптимист! - По света и у нас - БНТ Новини|url=https://bntnews.bg/news/rumen-radev-balgariya-izdarzha-tozi-izpit-po-demokraciya-az-sam-optimist-1176025news.html|access-date=2021-11-21|website=bntnews.bg|language=bg|archive-date=21 November 2021|archive-url=https://web.archive.org/web/20211121193518/https://bntnews.bg/news/rumen-radev-balgariya-izdarzha-tozi-izpit-po-demokraciya-az-sam-optimist-1176025news.html|url-status=live}}</ref> PP co-leaders Kiril Petkov and Assen Vassilev congratulated Radev on his re-election victory: "We are ready to work with this president," Petkov said at a briefing after the end of election day. Vassilev commented that: "Next week we are beginning work on developing a clear and precise plan on how to make Bulgaria a much better place to live in the coming 4 years".<ref>{{Cite web|title=Kiril Petkov: Radev is the president who will continue the change|url=https://bnr.bg/en/post/101560843/kiril-petkov-radev-is-the-president-who-will-continue-the-change|access-date=2021-11-21|website=bnr.bg|language=en|archive-date=21 November 2021|archive-url=https://web.archive.org/web/20211121211237/https://bnr.bg/en/post/101560843/kiril-petkov-radev-is-the-president-who-will-continue-the-change|url-status=live}}</ref>
+
+A series of talks on 18 policy areas were held between 23 November and 27 November, between the representatives of PP, BSP, ITN, and DB.<ref>{{Cite web|date=2021-11-22|access-date=2021-11-25|url=https://sofiaglobe.com/2021/11/22/bulgarias-we-continue-the-change-announces-schedule-for-talks-towards-coalition-agreement/|title=Bulgaria's We Continue the Change party announces schedule for talks towards coalition agreement|language=en|website=sofiaglobe.com|archive-date=25 November 2021|archive-url=https://web.archive.org/web/20211125234947/https://sofiaglobe.com/2021/11/22/bulgarias-we-continue-the-change-announces-schedule-for-talks-towards-coalition-agreement/|url-status=live}}</ref>
+
+The leaders of four Bulgarian parties on 10 December said they had agreed to form a coalition that would end a months-long political crisis, making it the first regular government since April. The agreement followed lengthy talks between PP, DB, ITN and BSP. Kiril Petkov announced, "we are moving towards proposing a stable government, which we hope will continue for the next four years."<ref>{{Cite web|date=2021-12-10|title=Four Bulgarian parties agree to form centrist-led government|url=https://www.euronews.com/2021/12/10/four-bulgarian-parties-agree-to-form-centrist-led-government|access-date=2021-12-12|website=euronews|language=en}}</ref> Shortly later, President Radev announced that he had given the mandate to form a government to Petkov.<ref name=":2">{{Cite web|title=Bulgaria: Anti-corruption party leader asked to form government |date=11 December 2021|url=https://www.dw.com/en/bulgaria-anti-corruption-party-leader-asked-to-form-government/a-60090571|access-date=2021-12-12|website=Deutsche Welle|language=en-GB}}</ref> On 12 December, Petkov presented the composition of the incoming government, and it was approved by the National Assembly on 13 December 2021.<ref name="ReferenceA"/>
+
+==See also==
+*[[Corruption in Bulgaria]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Bulgarian elections}}
+
+[[Category:2021 elections in Bulgaria|General]]
+[[Category:Presidential elections in Bulgaria]]
+[[Category:Parliamentary elections in Bulgaria]]
+[[Category:November 2021 in Bulgaria|Bulgaria]]
+[[Category:2021 elections in Europe|Bulgaria]]

@@ -1,0 +1,157 @@
+{{Short description|none}}
+{{Expand Spanish|topic=gov|date=August 2015}}
+{{Use dmy dates|date=June 2026}}
+{{Infobox election
+| country = Guatemala
+| previous_election = 2011 Guatemalan general election
+| previous_year = 2011
+| next_election = 2019 Guatemalan general election
+| next_year = 2019
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 6 September 2015 (first round)<br />25 October 2015 (second round)
+| turnout = 69.74% (first round) {{increase}} 0.88[[percentage point|pp]]<br />56.15% (second round) {{decrease}} 4.49[[percentage point|pp]]
+
+| image1 = Retrato oficial de Presidente Jimmy Morales (cropped).jpg
+| nominee1 = '''[[Jimmy Morales]]'''
+| popular_vote1 = '''2,751,058'''
+| percentage1 = '''67.44%'''
+| party1 = National Convergence Front
+| running_mate1= '''[[Jafeth Cabrera]]'''
+
+| image2 = Sandra Torres Casanova.jpg
+| nominee2 = [[Sandra Torres (politician)|Sandra Torres]]
+| running_mate2=Mario Leal
+| popular_vote2 = 1,328,342
+| percentage2 = 32.56%
+| party2 = National Unity of Hope
+
+| map_image = Eleccion presidencial Guatemala 2015 primera vuelta.png
+| map_caption = First round results by [[Departments of Guatemala|department]]:<br /> Dark blue for Morales; red for Baldizón;<br /> green for Torres; and light blue for Estrada.
+
+| title = President
+| before_election = [[Alejandro Maldonado]] 
+| before_party = Independent politician
+| posttitle = President-elect
+| after_election = [[Jimmy Morales (politician)|Jimmy Morales]]
+| after_party = National Convergence Front
+}}}}
+{{Politics of Guatemala}}
+
+General elections were held in [[Guatemala]] on 6 September 2015 to elect the [[President of Guatemala|President]] and [[Vice President of Guatemala|Vice President]], all 158 [[Congress of Guatemala|Congress]] deputies, all 20 deputies to the [[Central American Parliament]], and mayors and councils for all 338 [[Municipalities of Guatemala|municipalities]] in the country.
+
+The [[Renewed Democratic Liberty]] became the largest party in Congress with 44 seats. Since no presidential candidate received more than 50% of the vote, a run-off took place on 25 October. [[Jimmy Morales]] won the contest, taking 67.4% of the vote, in a landslide victory over [[Sandra Torres (politician)|Sandra Torres]].
+
+It was the first presidential election since [[1995 Guatemalan general election|1995]] in which the runner-up of the previous contest did not then go on to win.
+
+==Background==
+{{further|La Linea corruption case}}
+Ahead of the election, the La Linea corruption case involving high-ranking officials of the outgoing administration, including President [[Otto Pérez Molina]] and Vice President [[Roxana Baldetti]], was made public by the [[International Commission against Impunity in Guatemala]]. Baldetti resigned in May and was arrested on fraud charges in August. More than a dozen ministers and deputy ministers as well as a number of government officials also resigned. Less than a week before the election, President Pérez was stripped of his [[Sovereign immunity|immunity]], resigned and was arrested. [[Alejandro Maldonado Aguirre]] acts as head of state until a new president is elected and sworn into office. The scandal has further diminished many Guatemalans' trust in the political elite. Some of the participants of mass protests against corruption demanded a postponement of the election due to the crisis and claims of irregularities.<ref>{{Cite news |url=https://www.theguardian.com/world/2015/aug/27/guatemala-president-impeachment-threat-protest |author=Jo Tuckman |title=Guatemalan president faces growing threat of impeachment amid scandal |newspaper=The Guardian |date=27 August 2015}}</ref><ref>{{Cite news |url=https://edition.cnn.com/2015/09/06/americas/guatemala-election/ |author1=Fernando del Rincón |author2=Rafael Romo |title=Guatemala election: Millions vote, but runoff widely expected |publisher=CNN |date=7 September 2015}}</ref>
+
+===Possible Belize referendum===
+In May 2015, [[Belize]] allowed Guatemala to proceed with a referendum asking the [[International Court of Justice]] (ICJ) to definitively rule on Guatemala's [[Belizean–Guatemalan territorial dispute|longstanding territorial dispute]] against Belize, although Belize by its own admission was not ready for such a vote. A previous treaty between the two countries stipulated that any such vote must be held simultaneously. Guatemala was initially expected to hold its referendum on the issue during its second round of presidential elections in October 2015.<ref name="annex">Trujillo, Renee. [http://lovefm.com/2015/09/09/presidential-candidate-for-guatemala-says-belize-can-still-be-fought-for/ "Presidential Candidate for Guatemala Says Belize Can Still Be Fought For"] {{Webarchive|url=https://web.archive.org/web/20150928193607/http://lovefm.com/2015/09/09/presidential-candidate-for-guatemala-says-belize-can-still-be-fought-for/ |date=28 September 2015 }}, [[LOVE FM (Belize)|LOVE FM]], 9 September 2015 (retrieved 28 September 2015)</ref> Belize has yet to announce its vote on the matter.<ref name="amandala">Ramos, Adele. [http://amandala.com.bz/news/belize-guatemala-amend-icj-compromis/ "Belize and Guatemala to amend ICJ compromis"], ''[[Amandala]]'', 12 May 2015. (retrieved 14 May 2015)</ref>
+
+When [[Jimmy Morales]] was running for president, a Guatemalan journalist asked Morales which Guatemalan historical event he thought was the most deplorable. Morales responded, "The most deplorable event – among all the things that have happened in Guatemala, there are certain things that are not spoken about and which I believe we should. Everything that goes contrary to national unity and territorial integrity are things that should hurt us. Something is happening right now, we are about to lose [[Belize]]. We have not lost it yet. We still have the possibility of going to the [[International Court of Justice]] where we can [[Belizean–Guatemalan territorial dispute|fight that territory or part of that territory]]. ... I think that it is worth anything that is natural resources and of benefit to the nation."<ref name="annex"/>
+
+==Electoral system==
+The President of Guatemala is elected using the [[two-round system]]. The 158 members of Congress are elected by two methods; 31 members are elected by [[closed list]] [[proportional representation]] in a single nationwide constituency, with seats allocated using the [[d'Hondt method]]. The other 127 seats are elected in 23 multi-member constituencies based on the [[Departments of Guatemala|departments]] (with the Central District or [[Guatemala City]] as a separate constituency) also using the d'Hondt method.<ref>[http://www.ipu.org/parline-e/reports/2129_B.htm Electoral system] IPU</ref>
+
+Around 7.5&nbsp;million people registered for the elections. Members of the armed forces (Air Force, Army, and Navy), people in prison, and Guatemalans living abroad were not allowed to vote.<ref>{{cite web|url=http://www.s21.com.gt/nacionales/2015/05/02/organo-electoral-guatemala-luz-verde-comicios-generales|title=Órgano electoral da luz verde a comicios generales|publisher=s21.com.gt|access-date=7 September 2015|archive-date=13 March 2016|archive-url=https://web.archive.org/web/20160313105403/http://www.s21.com.gt/nacionales/2015/05/02/organo-electoral-guatemala-luz-verde-comicios-generales|url-status=dead}}</ref> The Tribunal Supremo Electoral (Supreme Electoral Tribunal) officially called for general elections on 2 May 2015.
+
+==Campaign==
+[[File:Campagne du parti Lider élections 2015.jpg|thumb|LIDER party campaign posters]]
+
+A total of 14 candidates were registered to contest the presidential elections:<ref>{{Cite web |url=http://www.guatemalaelecciones.com/candidatos-presidenciales-guatemala.php |title=Candidatos Presidenciales 2015 Guatemala |publisher=guatemalaelecciones.com |access-date=6 September 2015}}</ref>
+
+*[[Manuel Baldizón|Manuel Baldizón Mendez]] – [[Renewed Democratic Liberty]] (LIDER); born 1970; lawyer, entrepreneur, former Congressman, defeated in the runoff of the 2012 presidential election
+*Mario David García – [[Patriotic Party (Guatemala)|Patriotic Party]] (PP); born 1946; lawyer and journalist, presenter of the political radio broadcast ''Hablando Claro'' ("Straight Talk")
+*[[Sandra Torres (politician)|Sandra Torres Casanova]] – [[National Unity of Hope]] (UNE); born 1955; former First Lady (wife of ex-president [[Álvaro Colom]])
+*Lizardo Sosa – [[Todos (political party)|Todos]]; born 1945; former president of the [[Bank of Guatemala]] (2006–2010)
+*[[Roberto González Díaz-Durán]] – [[Commitment, Renewal and Order]] (CREO) + [[Unionist Party (Guatemala)|Unionist Party]] (PU); born 1970; entrepreneur, former minister of energy and mines (2004–05), defeated mayoral candidate of [[Guatemala City]] in 2007 and 2011
+*José Ángel López – [[Encuentro por Guatemala|Encounter for Guatemala]] (EG); born 1959, entrepreneur and banker, former president of the Rural Development Bank (Banrural), former longterm head of the National Association of Coffee (Anacafé)
+*[[Zury Ríos]] – [[Vision with Values]] (ViVa); born 1968; former Congresswoman, daughter of retired general, ex-President and military dictator [[Efraín Ríos Montt]], wife of U.S. Representative [[Jerry Weller]] of Illinois
+*Miguel Ángel Sandoval – [[Guatemalan National Revolutionary Unity]] (URNG-Maiz) + [[Winaq]]; born 1949; sociologist and human rights activist, former guerilla fighter, advisor to the [[United Nations Development Programme]], unsuccessful candidate in the 2007 presidential election (2.1%)
+*[[Jimmy Morales]] – [[National Convergence Front]] (FCN); born 1969, former actor, movie director and producer, known for his role in the comedy series ''Moralejas'' ("Morals") alongside his brother Sammy Morales<ref>{{Cite news |author=Louisa Reynolds |title=In Guatemala, anti-establishment presidential candidate benefits from corruption scandals |newspaper=The Tico Times |date=10 June 2015 |url=http://www.ticotimes.net/2015/06/10/in-guatemala-anti-establishment-presidential-candidate-benefits-from-corruption-scandals}}</ref>
+*[[Alejandro Giammattei]] — [[Fuerza (political party)|Fuerza]]; born 1956; ex-director of the penitentiary system of Guatemala, unsuccessful candidate in the 2007 and 2011 presidential elections (17.2% and 1.1%, respectively)
+*Mario Estrada – [[National Change Union]] (UCN); born 1960; former Congressman, unsuccessful candidate in the 2007 and 2011 presidential elections (3.2% and 8.7%, respectively)
+*Luis Fernando Pérez – [[Institutional Republican Party]] (PRI); born 1969; manager, Congressman
+*Juan Guillermo Gutiérrez – [[National Advancement Party]] (PAN); born 1956; entrepreneur, unsuccessful candidate in the 2011 presidential election (2.8%)
+*Aníbal García – [[Movimiento Nueva República|New Republic Movement]] (MNR); running mate of Nobel Prize laureate and unsuccessful candidate [[Rigoberta Menchú]] in the 2011 presidential election
+In the buildup to the elections the [[Patriotic Party (Guatemala)|Patriotic Party]] (PP) and [[Renewed Democratic Liberty]] (LIDER) were suspended due to repeated offences. However, all parties were reinstated before elections were called.<ref>{{cite web |url=http://www.lahora.com.gt/index.php/nacional/guatemala/actualidad/147369-arranca-campana-electoral-2015 |title=2015 electoral season already started |access-date=13 August 2013 |author=Flor de María Ortiz |publisher=lahora.com.gt |location=Guatemala |language=es |url-status=dead |archive-url=https://web.archive.org/web/20111214014207/http://www.lahora.com.gt/index.php/nacional/guatemala/actualidad/147369-arranca-campana-electoral-2015 |archive-date=14 December 2011 |df=dmy-all }}</ref><ref>[https://web.archive.org/web/20150405232815/https://www.elperiodico.com.gt/es/20141221/pais/6476/Partidos-suspendidos-son-multados--otra-vez-por-campa%C3%B1a-anticipada.htm Partidos suspendidos son multados otra vez por campaña anticipada] El Periodico, 21 December 2014</ref>
+
+==Opinion polls==
+A poll released on 3 September gave Morales 25% of the vote, compared to 22.9% for Manuel Baldizon and 18.4% for Sandra Torres.<ref>France 24 news report, 6 September 2015</ref>
+
+==Results==
+===President===
+The front runners: Morales, Baldizón and Torres, were expected to competitively compete for the position of President. In the first round, Morales gained 24% of the vote, followed by a closely fought battle between Torres and Baldizón, with less than 20,000 votes separating the two. Since no candidate received a 50% [[majority]], the top two candidates participated in the run-off in October. Morales won the run-off contest with 67.4% of the vote to Torres' 32.6%.  Morales, a comedic actor, won with the slogan "not corrupt, nor a thief".<ref name="nyt25">[https://www.nytimes.com/2015/10/26/world/americas/former-tv-comedian-jimmy-morales-seems-set-to-be-elected-guatemalas-president.html?_r=0 Jimmy Morales Is Elected New President in Guatemala] ''The New York Times'', 26 October 2015</ref>
+
+{{Election results
+|cand1=[[Jimmy Morales]]|vp1=[[Jafeth Cabrera]]|party1=[[National Convergence Front]]|votes1=1152394|votes1_2=2751058
+|cand2=[[Sandra Torres]]|vp2=Mario Leal|party2=[[National Unity of Hope]]|votes2=948809|votes2_2=1328342
+|cand3=[[Manuel Baldizón]]|vp3=Edgar Barquín|party3=[[Renewed Democratic Liberty]]|votes3=930905
+|cand4=[[Alejandro Giammattei]]|vp4=Fernando Paiz|party4=[[Fuerza (political party)|Fuerza]]|votes4=313628
+|cand5=[[Zury Ríos]]|vp5=Juan Luis Mirón|party5=[[Vision with Values]]|votes5=286730
+|cand6=Lizardo Sosa|vp6=Mario García|party6=[[Todos (political party)|Todos]]|votes6=259673
+|cand7=Mario David García|vp7=Valentin Gramajo|party7=[[Patriotic Party (Guatemala)|Patriotic Party]]|votes7=214532
+|cand8=[[Roberto González Díaz-Durán]]|vp8=Rodolfo Neutze Aguirre|party8=[[Commitment, Renewal and Order|CREO]]–[[Unionist Party (Guatemala)|Unionist Party]]|votes8=166960
+|cand9=Mario Estrada|vp9=Roberto Díaz-Durán|party9=[[National Change Union]]|votes9=163974
+|cand10=Juan Guillermo Gutiérrez|vp10=Manuel Alfredo Marroquín Pineda|party10=[[National Advancement Party]]|votes10=149925
+|cand11=Miguel Ángel Sandoval|vp11=Mario Ellintong|party11=[[Winaq]]–[[Guatemalan National Revolutionary Unity|URNG–MAIZ]]|votes11=101347
+|cand12=José Ángel López|vp12=Peter Lamport|party12=[[Encuentro por Guatemala]]|votes12=43916
+|cand13=Luis Fernando Pérez|vp13=José Rodolfo Dougherty|party13=[[Institutional Republican Party]]|votes13=41554
+|cand14=Aníbal García|vp14=Rafael Maldonado|party14=[[Movimiento Nueva República]]|votes14=28383|color14=red
+|invalid=467759|invalid2=163454
+|electorate=7556873|electorate2=7556873
+|source=[http://www.tse.org.gt/images/memoriaselec/me2015.pdf TSE]
+}}
+
+===Congress===
+In Congress, Baldizón's LIDER gained 31 seats on their previous election making them the largest party with 45 seats. Torres' UNE retained second position with 32 seats, despite losing 16. Competing in their first election, Todos captured 18 seats. PP suffered the greatest loss, losing 38 seats overall, down to 18. Morales' FCN gained 11 seats.
+
+{{Election results
+|image=[[File:Guatemalan Congress 2015.svg]]
+|firstround=National|secondround=District
+|party1=[[Renewed Democratic Liberty]]|votes1=860783|seats1=7|votes1_2=903644|seats1_2=38|totseats1=45|sc1=+31
+|party2=[[National Unity of Hope]]|votes2=676080|seats2=5|votes2_2=728106|seats2_2=27|totseats2=32|sc2=–16
+|party3=[[Todos (political party)|Todos]]|votes3=445996|seats3=3|votes3_2=495129|seats3_2=15|totseats3=18|sc3=New
+|party4=[[Patriotic Party (Guatemala)|Patriotic Party]]|votes4=419353|seats4=3|votes4_2=501029|seats4_2=15|totseats4=18|sc4=–39
+|party5=[[National Convergence Front]]|votes5=403086|seats5=3|votes5_2=338060|seats5_2=8|totseats5=11|sc5=+11
+|party6=[[Encuentro por Guatemala]]|votes6=289646|seats6=2|votes6_2=217612|seats6_2=5|totseats6=7|sc6=–
+|party7=[[Commitment, Renewal and Order|CREO]]–[[Unionist Party (Guatemala)|Unionist Party]]|votes7=261040|seats7=2|votes7_2=269939|seats7_2=3|totseats7=5|sc7=–8
+|party8=[[National Change Union]]|votes8=244788|seats8=2|votes8_2=264437|seats8_2=5|totseats8=7|sc8=–7
+|party9=[[Winaq]]–[[Guatemalan National Revolutionary Unity|URNG–MAIZ]]|votes9=198715|seats9=1|votes9_2=45731|seats9_2=0|totseats9=1|sc9=–
+|party10=[[Convergence (Guatemala)|Convergence]]|votes10=175515|seats10=1|votes10_2=167363|seats10_2=2|totseats10=3|sc10=New
+|party11=[[Vision with Values]]|votes11=168707|seats11=1|votes11_2=237118|seats11_2=4|totseats11=5|sc11=–
+|party12=[[National Advancement Party]]|votes12=158309|seats12=1|votes12_2=113354|seats12_2=2|totseats12=3|sc12=+1
+|party13=[[Fuerza (political party)|Fuerza]]|votes13=95392|seats13=0|votes13_2=92244|seats13_2=2|totseats13=2|sc13=New
+|party14=[[Institutional Republican Party]]|votes14=58811|seats14=0|votes14_2=62763|seats14_2=0|totseats14=0|sc14=–1
+|party15=[[Movimiento Nueva República]]|votes15=41954|seats15=0|votes15_2=44443|seats15_2=0|totseats15=0|sc15=New|color15=#FF0000
+|party16=[[Podemos (Guatemala)|Reform Movement]]|votes16=36693|seats16=0|votes16_2=39295|seats16_2=0|totseats16=0|sc16=New
+|party17={{ill|Heart New Nation|es|Corazón Nueva Nación}}|votes17=23880|seats17=0|votes17_2=13992|seats17_2=0|totseats17=0|sc17=New|color17=#d90200
+|party18=[[Guatemalan National Revolutionary Unity]]|votes18_2=112123|seats18_2=1|totseats18=1|sc18=–
+|party19=[[Winaq]]|votes19_2=29924|seats19_2=0|totseats19=0|sc19=–
+|party20=[[Mi Pais (political party)|Mi Pais]]|votes20_2=6452|seats20_2=0|totseats20=0|sc20=0
+|party21=[[Commitment, Renewal and Order]]|votes21_2=1375|seats21_2=0|totseats21=0|sc21=–
+|invalid=712352|invalid2=612313
+|total_sc=0
+|electorate=7556873|electorate2=7556873
+|source=[http://www.tse.org.gt/images/memoriaselec/me2015.pdf TSE]
+}}
+
+==Reactions==
+Following his victory, Morales vowed "I will try with all my heart and strength not to disappoint you."<ref>[http://www.ft.com/intl/cms/s/0/cab0d5b4-7b42-11e5-a1fe-567b37f80b64.html Ex-comedian Jimmy Morales in landslide Guatemala election victory] ''Financial Times'', 26 October 2015</ref> The US-based [[National Public Radio]] described this a rightward shift among voters in both the Americas and Europe.<ref>[https://www.npr.org/sections/thetwo-way/2015/10/26/452006785/voters-in-poland-guatemala-and-argentina-surprise-establishment-candidates Voters In Poland, Guatemala And Argentina Surprise Establishment Candidates] NPR, 26 October 2015</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*[http://www.tse.org.gt/ Tribunal Supremo Electoral] {{in lang|es}}
+{{Guatemalan elections}}
+
+[[Category:Parliamentary elections in Guatemala]]
+[[Category:2015 in Guatemala|General]]
+[[Category:2015 elections in Central America|Guatemala]]
+[[Category:Presidential elections in Guatemala]]

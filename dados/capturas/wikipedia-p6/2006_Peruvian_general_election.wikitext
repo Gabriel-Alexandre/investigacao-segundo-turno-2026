@@ -1,0 +1,977 @@
+{{Short description|none}}
+{{use dmy|date=June 2026}}
+{{more footnotes|date=June 2026}}
+{{Infobox election
+| country = Peru
+| flag_year = state
+| type = presidential
+| previous_election = 2001 Peruvian general election
+| previous_year = 2001
+| next_election = 2011 Peruvian general election
+| next_year = 2011
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 9 April 2006 (first round)<br />4 June 2006 (second round)
+| turnout = 88.71% (first round) {{increase}} 6.39pp<br/> 87.71% (second round) {{increase}} 6.30pp
+| opinion_polls = Opinion polling for the 2006 Peruvian general election
+| image1 = Alan García presidente del Perú.jpg
+| nominee1 = '''[[Alan García]]'''
+| party1 = American Popular Revolutionary Alliance
+| running_mate1 = '''[[Luis Giampietri]]<br />{{nowrap|[[Lourdes Mendoza]]}}'''
+| popular_vote1 = '''6,965,017'''
+| percentage1 = '''52.63%'''
+| image2 = Ollanta Humala (Brasilia, March 2006).jpeg
+| nominee2 = [[Ollanta Humala]]
+| party2 = Union for Peru
+| running_mate2 = {{nowrap|[[Gonzalo García Núñez]]}}<br />{{nowrap|[[Carlos Torres Caro]]}}
+| popular_vote2 = 6,270,080
+| percentage2 = 47.37%
+| map = {{Switcher
+ |[[File:MapaElectoralPeru2006Regiones.png|150px]][[File:MapaElectoralPeru2006Provincias.png|150px]]
+[[File:MapaElectoralPeru2006Distritos.png|150px]]
+ | First round results by [[Regions of Peru|department]] (left) and [[Provinces of Peru|province]] (right) and [[Districts of Peru|district]] (bottom)
+ |[[File:BalotajePeru2006Regiones.png|150px]][[File:BalotajePerú2006Provincias.png|150px]]
+[[File:BalotajePeru2006Distritos.png|150px]]
+ | Second round results by [[Regions of Peru|department]] (left) and [[Provinces of Peru|province]] (right) and [[Districts of Peru|district]] (bottom)
+ | default = 2
+}}
+| title = President
+| before_election = [[Alejandro Toledo]]
+| before_party = Possible Peru
+| after_election = [[Alan García]]
+| after_party = American Popular Revolutionary Alliance
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_date = 9 April 2006
+| election_name = Congressional election
+| seats_for_election = All 120 seats in [[Congress of the Republic of Peru|Congress]]
+| majority_seats = 61
+| leader1 = [[Ollanta Humala]]
+| party1 = [[Union for Peru]]
+| color1 = #D8242A
+| percentage1 = 21.15
+| last_election1 = 6
+| seats1 = 45
+| leader2 = [[Alan García]]
+| party2 = American Popular Revolutionary Alliance
+| color2 = 
+| last_election2 = 28
+| seats2 = 36
+| percentage2 = 20.59
+| leader3 = [[Lourdes Flores]]
+| party3 = [[National Unity (Peru)|National Unity]]
+| color3 = #008000
+| percentage3 = 15.33
+| last_election3 = 17
+| seats3 = 17
+| leader4 = [[Martha Chávez]]
+| party4 = [[Alliance for the Future (Peru)|AF2006]]
+| color4 = #FFA500
+| last_election4 = 3 <!--Contested part of the Cambio 90 - New Majority alliance in previous election-->
+| seats4 = 13
+| percentage4 = 13.09
+| party5 = [[Center Front]]
+| leader5 = [[Valentín Paniagua]]
+| color5 = #989898
+| last_election5 = 4 <!--Seats won by constituent parties (We Are Peru) in previous election-->
+| seats5 = 5
+| percentage5 = 7.07
+| leader6 = [[Alejandro Toledo]]
+| party6 = Possible Peru
+| last_election6 = 45
+| seats6 = 2
+| percentage6 = 4.11
+| leader7 = [[Humberto Lay Sun]]
+| party7 = [[National Restoration (Peru)|RN]] 
+| color7 = #9370DB
+| last_election7 = New
+| seats7 = 2
+| percentage7 = 4.02
+| map = Elecciones parlamentarias de Perú de 2006 - Resultados.svg
+| map_caption = Results by department
+}}}}}}{{Politics of Peru}}
+
+General elections were held in [[Peru]] in on 9 April 2006 to elect the [[List of Presidents of Peru|President]], two Vice-Presidents, 120 members of [[Congress of Peru|Congress]] and five members of the [[Andean Parliament]] for the 2006–2011 period. As no presidential candidate received a majority of the vote, a second round was held on 4 June between the top two candidates, [[Ollanta Humala]] and [[Alan García]]. Garcia won the run-off with 52.63% to Humala's 47.37%. He was subsequently inaugurated on 28 July 2006, Peruvian Independence Day.{{cn|date=June 2026}}
+
+==Electoral system==
+The 120 members of Congress were elected from 25 constituencies based on the 24 [[Administrative divisions of Peru|departments]] and the [[Constitutional Province of Callao]]. The number of seats in Congress for each district was determined by its number of eligible voters. A political party need to win a minimum of five seats in two electoral districts or 4% of nationwide valid votes in order to be represented in Congress.{{cn|date=June 2026}}
+
+A minimum of 4% of nationwide valid votes was necessary for a party to win seats in the Andean Parliament.{{cn|date=June 2026}}
+
+==Candidates==
+===Main presidential candidates===
+{| class="wikitable" style="font-size:90%; text-align:center;"
+| colspan="6" style="background:#f1f1f1; width:850px;" |{{large|'''Presidential tickets'''}}
+|-
+| '''[[American Popular Revolutionary Alliance|Peruvian Aprista Party]]'''
+| '''[[Union for Peru]]'''
+| '''[[National Unity (Peru)|National Unity]]'''
+| '''[[Alliance for the Future (Peru)|Alliance for the Future]]'''
+| '''[[Centre Front]]'''
+| '''[[National Restoration (Peru)|National Restoration]]'''
+|-
+| [[File:APRA Peru logo.svg|center|80x80px]]
+| [[File:Unión por el perulogo2006.png|center|80x80px]]
+| [[File:Logo de Unidad Nacional.svg|center|80x80px]]
+| [[File:Alianza por el futuro.png|center|80x80px]]
+| [[File:Frente de Centro Logo.jpg|center|80x80px]]
+| [[File:Restauración Nacional (logo).svg|center|80x80px]]
+|-
+! style="width:160px; font-size:120%; background:{{party color|American Popular Revolutionary Alliance}};"| [[Alan García|{{color|white|Alan García}}]]
+!style="width:160px; font-size:120%; background:#D8242A;"| [[Ollanta Humala|{{color|white|Ollanta Humala}}]]
+! style="width:160px; font-size:120%; background:#008000;"| [[Lourdes Flores|{{color|white|Lourdes Flores}}]]
+! style="width:160px; font-size:120%; background:#FFA500;"| [[Martha Chávez|{{color|white|Martha Chávez}}]]
+! style="width:160px; font-size:120%; background:#989898;"| [[Valentín Paniagua|{{color|white|Valentín Paniagua}}]]
+! style="width:160px; font-size:120%; background:#9370DB;"| [[Humberto Lay|{{color|white|Humberto Lay}}]]
+|-
+| [[File:Garciaalan09112006-1.jpg|center|150x150px]]
+| [[File:Ollanta Humala Tasso.jpg|center|150x150px]]
+| [[File:Medalla de Honor del Congreso a Lourdes Flores (cropped).jpg|center|150x150px]]
+| [[File:Martha Chávez.jpg|center|150x150px]]
+| [[File:Valentin Paniagua 1960's (cropped 2).jpg|center|150x150px]]
+| [[File:Humberto Lay, 2012 (cropped).jpg|center|150x150px]]
+|-
+| [[President of Peru]]<br/><small>(1985–1990)</small>
+| 
+| [[Congress of the Republic of Peru|Member of Congress]]<br/><small>(1995-2000)</small>
+| [[Congress of the Republic of Peru|Member of Congress]]<br/><small>(1995-2006)</small>
+| [[President of Peru]]<br/><small>(2000-2001)</small>
+|
+|}
+* '''[[Alan García]]''' is the leader of left-leaning [[American Popular Revolutionary Alliance|Peruvian Aprista Party]] and was [[List of Presidents of Peru|President of Peru]] from 1985 to 1990. His presidency was marked by hyperinflation and an economic crisis, as well as widespread terrorist activities and isolation from the international community; however, he came in second place in the 2001 presidential election, losing in the runoff against [[Alejandro Toledo]]. Critics often pointed to his administration as a failure to be repeated if he got elected.{{cn|date=June 2026}}
+* '''[[Ollanta Humala]]''' is the leader of the left-wing [[Peruvian Nationalist Party]], but ran under the [[Union for Peru]] banner. He is a Lieutenant Colonel (retired) and led an uprising in October 2000 against then President [[Alberto Fujimori]], for which he was pardoned by Congress following Fujimori's fall in November. He spoke of the "refoundation" of the country in a "Second Republic" and called for the rewriting of the Constitution by a Constituent Assembly. Opponents criticized his lack of political experience, his perceived authoritarianism and populism. He was constantly associated during the campaign with his brothers Ulises and [[Antauro Humala|Antauro]], though their ''[[Movimiento Etnocacerista|etnocacerista movement]]'' is more radical than his nationalist movement. Ulises also ran for President in this election with [[Go on Country – Social Integration Party (2000)|Avanza País]]; Antauro, who participated in the 2000 insurrection, is in prison, following his own brief rebellion in January 2005 against President [[Alejandro Toledo]], but also ran for Congress under the [[Go on Country – Social Integration Party (2000)|Avanza País]].{{cn|date=June 2026}}
+* '''[[Lourdes Flores]]''' is the leader of the conservative, right-wing [[National Unity (Peru)|National Unity]] coalition. She is a former Congresswoman and came in third place in the 2001 presidential election. She was often targeted as the candidate of the rich and was accused by opponents of not caring about the poor. Her running mate was [[Arturo Woodman]], a well-known entrepreneur, who also led the organization of the [[Copa América 2004|2004 Copa América]] and the [[FIFA U-17 World Championship 2005|2005 U-17 World Championship]].{{cn|date=June 2026}}
+* '''[[Martha Chávez]]''' was the candidate of the pro-[[Fujimorism|Fujimorist]] [[Alliance for the Future (Peru)|Alliance for the Future]]. She is currently a Congresswoman and was the first female President of [[Congress of Peru|Congress]]. A staunch defender of the former president, she was suspended from Congress in 2002 after corruption accusations, but was reinstated in 2005. Running mate [[Santiago Fujimori]] is Alberto's younger brother. As with all of the ''fujimoristas'', she was criticized for defending an administration that is seen as corrupt and authoritarian.{{cn|date=June 2026}}
+*'''[[Valentín Paniagua]]''' was the leader of the [[Center Front]], a coalition of centrist parties formed for this election. He was President of Congress before becoming the interim President of Peru (November 2000-July 2001), following the collapse of Fujimori's administration. Running mate [[Alberto Andrade]] was mayor of [[Lima]] from 1996 to 2002.{{cn|date=June 2026}}
+*'''[[Humberto Lay Sun]]''' (National Restoration) is an evangelical pastor and was a member of the [[Truth and Reconciliation Commission (Peru)|Truth and Reconciliation Commission]], established to study the atrocities committed in the 1980s and 1990s. Running mate [[Máximo San Román]] was Fujimori's Vice-President, but split with him after the 1992 [[self-coup]].{{cn|date=June 2026}}
+
+===Minor presidential nominees===
+*[[Natale Amprimo]] ([[Alliance for Progress (Peru)|Alliance for Progress]]), [[Javier Diez Canseco]] ([[Socialist Party (Peru)|Partido Socialista]]) and [[Luis Guerrero (politician)|Luis Guerrero]] (Perú Ahora) are current Members of Congress. Guerrero was also mayor of [[Cajamarca]].{{cn|date=June 2026}}
+*[[Alberto Borea]] (Democratic Force) is a former Deputy and Senator. In 1992, he participated in a failed coup against Fujimori, led by [[Jaime Salinas Sedó]], whose son was National Justice's candidate in this election, [[Jaime Salinas]].{{cn|date=June 2026}}
+*[[Susana Villarán]] (Decentralization Coalition) was Minister of Women's Promotion and Social Development during Paniagua's tenure.{{cn|date=June 2026}}
+*[[Alberto Fujimori]]'s candidacy was rejected after a ban by Congress forbidding him to hold office until 2011 was upheld.{{cn|date=June 2026}}
+* Ruling party Possible Peru and ally Independent Moralizing Front (FIM) withdrew their candidates. PP's candidate [[Rafael Belaúnde Aubry|Rafael Belaúnde]] was not a party member and clashed with the party's core over the congressional candidate list, which included some people he did not approve of. FIM's leader [[Fernando Olivera (politician)|Fernando Olivera]], quit to run for Congress, realizing his slim chances in the presidential race.{{cn|date=June 2026}}
+
+===Presidential tickets===
+{| class="wikitable"
+|- style="background-color:#DDDDDD;"
+! colspan=1 | Political party or electoral alliance
+! colspan=3 | Candidates
+|- style="background-color:#EEEEEE;"
+! Name
+! for President
+! for 1st Vice-president
+! for 2nd Vice-president
+|-
+|[[Alliance for Progress (Peru)|Alliance for Progress]]<br>''Alianza para el Progreso''
+|[[Natale Amprimo]]
+|[[César Acuña]]
+|Julia Valenzuela
+|-
+|[[Alliance for the Future (Peru)|Alliance for the Future]]<br>''Alianza por el Futuro''
+|[[Martha Chávez]]
+|[[Santiago Fujimori]]
+|[[Rolando Sousa]]
+|-
+|[[And It's Called Peru]]<br>''Y se llama Perú''
+|Ricardo Wong
+|Ernesto D'Angelo
+|José del Carmen Sifuentes
+|-
+|[[Andean Renaissance]]<br>''Renacimiento Andino''
+|[[Ciro Gálvez]]
+|Patricia Marimón
+|Carmen Casani
+|-
+|[[Center Front]]<br>''Frente de Centro''
+|[[Valentín Paniagua]]
+|[[Alberto Andrade]]
+|[[Gonzalo Aguirre Arriz|Gonzalo Aguirre]]
+|-
+|[[Decentralization Coalition]]<br>''Concertación Descentralista''
+|[[Susana Villarán]]
+|Nery Saldarriaga
+|Carlos Paredes
+|-
+|[[Democratic Force (Peru)|Democratic Force]]<br>''Fuerza Democrática''
+|[[Alberto Borea]]
+|[[Marco Falconí]]
+|[[Yván Vásquez]]
+|-
+|[[Democratic Reconstruction]]<br>''Reconstrucción Democrática''
+|José Cardó Guarderas
+|Marco Antonio Alcalde
+|Juana Avellaneda
+|-
+|[[Go on Country – Social Integration Party (2000)|Go On Country]]<br>''Avanza País''
+|[[Ulises Humala]]
+|[[Pedro Cenas]]
+|Constante Traverso Flores
+|-
+|[[Let's Make Progress Peru]]<br>''Progresemos Perú''
+|[[Javier Espinoza]]
+|Manuel Yto Seguil
+|Agustín Quezada Sánchez
+|-
+|[[Justicia Nacional|National Justice]]<br>''Justicia Nacional''
+|[[Jaime Salinas]]
+|José Carlos Luque Otero
+|Ana María Villafuerte
+|-
+|[[National Restoration Party (Peru)|National Restoration]]<br>''Restauración Nacional''
+|[[Humberto Lay Sun]]
+|[[Máximo San Román]]
+|María Eugenia de la Puente
+|-
+|[[National Unity (Peru)|National Unity]]<br>''Unidad Nacional''
+|[[Lourdes Flores Nano]]
+|[[Arturo Woodman]]
+|[[Luis Enrique Carpio]]
+|-
+|[[New Left Movement (Peru)|New Left Movement]]<br>''Movimiento Nueva Izquierda'' *
+|[[Alberto Moreno (politician)|Alberto Moreno]]
+|Juan José Gorriti
+|Alejandro Narváez
+|-
+|[[Peru Now]]<br>''Perú Ahora''
+|[[Luis Guerrero (politician)|Luis Guerrero]]
+|Víctor Echegaray
+|[[Andrés Alcántara]]
+|-
+|[[American Popular Revolutionary Alliance|Peruvian Aprista Party]]<br>''Partido Aprista Peruano''
+|[[Alan García]]
+|[[Luis Giampietri Rojas]]
+|[[Lourdes Mendoza]]
+|-
+|[[Peruvian Resurgence]]<br>''Resurgimiento Peruano''
+|[[Ántero Asto]]
+|Carlos Bentín
+|Roberto Pineda
+|-
+|[[Socialist Party (Peru)|Socialist Party]]<br>''Partido Socialista''
+|[[Javier Diez Canseco]]
+|[[María Huamán Valladares|María Huamán]]
+|[[Alberto Quintanilla]]
+|-
+|[[Union for Peru]]<br>''Unión por el Perú''
+|[[Ollanta Humala]]
+|[[Gonzalo García Núñez]]
+|[[Carlos Torres Caro]]
+|-
+|[[With Force Peru]]<br>''Con Fuerza Perú''
+|[[Pedro Koechlin Von Stein]]
+|Walter Vera Tudela
+|María Jesús Espinoza
+|-
+|}
+
+<nowiki>*</nowiki> Ticket officially registered under MNI, which enjoyed previous registration as a political party, but nominated by [[Broad Left Front (Peru)|Broad Left Front]] (''Frente Amplio de Izquierda'').
+
+{| class="wikitable"
+|+ '''Tickets rejected by the Special Electoral Jury (Jurado Electoral Especial)'''
+|- style="background-color:#DDDDDD;"
+! colspan=1 | Political party
+! colspan=3 | Candidate
+! colspan=2 | Rejection
+|- style="background-color:#EEEEEE;"
+! Name
+! for President
+! for 1st Vice-president
+! for 2nd Vice-president
+! Date
+! Motive
+|-
+| [[Sí Cumple]]
+| [[Alberto Fujimori]]
+| [[Luisa María Cuculiza]]
+| Germán Kruger
+| January 10
+| Fujimori banned from holding office until 2011
+|}
+
+{| class="wikitable"
+|+ '''Voluntarily Withdrawn Tickets'''
+|- style="background-color:#DDDDDD;"
+! colspan=1 | Political party
+! colspan=3 | Candidate
+! colspan=2 | Withdrawal
+|- style="background-color:#EEEEEE;"
+! Name
+! for President
+! for 1st Vice-president
+! for 2nd Vice-president
+! Date
+! Motive
+|-
+|[[Peru Possible]]<br>''Perú Posible''
+|Rafael Belaúnde
+|[[Carlos Bruce]]
+|Rómulo Mucho Mamani
+| January 31
+| Clash over party's congressional candidate list
+|-
+|[[Independent Moralizing Front]]<br>''Frente Independiente Moralizador''
+|[[Fernando Olivera (politician)|Fernando Olivera]]
+|[[Fausto Alvarado]]
+|[[Luis Iberico Núñez]]
+| February 8
+| Olivera to lead party's congressional candidate list
+|-
+|[[Project Country]]<br>''Proyecto País''
+|Marco Antonio Arrunátegui
+|Elías Espinoza
+|María Teresa García
+| February 8
+| Arrunátegui to lead party's congressional candidate list
+|-
+|}
+
+===Congress===
+24 parties presented up to 130 candidates to Congress each, for a total of 2,918 candidates. 331 of these were rejected by the National Jury of Elections, leaving 2,587 candidates. These represent all parties with presidential candidates, plus Possible Peru, Independent Moralizing Front, Project Country, and [[Agricultural People's Front of Peru]] (''Frente Popular Agrícola del Perú'', FREPAP). Sí Cumple did not register any candidates.
+
+The table below shows the breakdown of candidates by Electoral District. Votes by 457,891 Peruvians residing abroad were counted in the Lima Electoral District (the number of voters in the table includes them).
+
+{|class="wikitable" style="text-align:center; margin: 0 auto" 
+!width="120" style="background-color:#DDDDDD"|Electoral District
+!width="70" style="background-color:#DDDDDD"|Registered voters
+!width="70" style="background-color:#DDDDDD"|Seats in Congress
+!width="70" style="background-color:#DDDDDD"|Candidates per party
+!width="70" style="background-color:#DDDDDD"|Participating parties
+!width="70" style="background-color:#DDDDDD"|Total candidates
+|-
+| [[Amazonas (Peruvian department)|Amazonas]] 
+| 179,331
+| 2
+| 3
+| 17
+| 47
+|-
+| [[Ancash Region|Ancash]] 
+| 611,881
+| 5
+| 5
+| 21
+| 99
+|-
+| [[Apurímac Region|Apurímac]] 
+| 195,954
+| 2
+| 3
+| 21
+| 55
+|-
+| [[Arequipa Region|Arequipa]] 
+| 770,535
+| 5
+| 5
+| 21
+| 101
+|-
+| [[Ayacucho Region|Ayacucho]] 
+| 306,662
+| 3
+| 3
+| 20
+| 58
+|-
+| [[Cajamarca Region|Cajamarca]] 
+| 721,239
+| 5
+| 5
+| 23
+| 109
+|-
+| [[Callao]]
+| 541,730
+| 4
+| 4
+| 24
+| 92
+|-
+| [[Cusco Region|Cusco]] 
+| 643,629
+| 5
+| 5
+| 22
+| 98
+|-
+| [[Huancavelica Region|Huancavelica]] 
+| 203,844
+| 2
+| 3
+| 15
+| 39
+|-
+| [[Huánuco Region|Huánuco]] 
+| 354,416
+| 3
+| 3
+| 22
+| 65
+|-
+| [[Ica Region|Ica]] 
+| 451,197
+| 4
+| 5
+| 22
+| 88
+|-
+| [[Junín Region|Junín]] 
+| 701,190
+| 5
+| 5
+| 22
+| 99
+|-
+| [[La Libertad Region|La Libertad]] 
+| 942,656
+| 7
+| 7
+| 22
+| 145
+|-
+| [[Lambayeque Region|Lambayeque]] 
+| 676,735
+| 5
+| 5
+| 22
+| 101
+|-
+| [[Lima Region|Lima]] 
+| 6,063,109
+| 35
+| 35
+| 24
+| 738
+|-
+| [[Loreto Region|Loreto]] 
+| 416,419
+| 3
+| 3
+| 22
+| 60
+|-
+| [[Madre de Dios Region|Madre de Dios]] 
+| 47,742
+| 1
+| 3
+| 14
+| 35
+|-
+| [[Moquegua Region|Moquegua]] 
+| 99,962
+| 2
+| 3
+| 18
+| 44
+|-
+| [[Pasco Region|Pasco]] 
+| 135,670
+| 2
+| 3
+| 17
+| 51
+|-
+| [[Piura Region|Piura]] 
+| 914,912
+| 6
+| 6
+| 23
+| 136
+|-
+| [[Puno Region|Puno]] 
+| 674,865
+| 5
+| 5
+| 23
+| 106
+|-
+| [[San Martín Region|San Martín]] 
+| 357,124
+| 3
+| 3
+| 17
+| 47
+|-
+| [[Tacna Region|Tacna]] 
+| 172,427
+| 2
+| 3
+| 18
+| 57
+|-
+| [[Tumbes Region|Tumbes]] 
+| 110,335
+| 2
+| 3
+| 19
+| 57
+|-
+| [[Ucayali Region|Ucayali]] 
+| 201,342
+| 2
+| 3
+| 22
+| 60
+|-
+! Nationwide
+! 16,494,906
+! 120
+! 130
+! 14-24
+! 2,587
+|-
+|}
+
+===Andean Parliament===
+A total of 21 parties nominated 15 candidates for the Andean Parliament each, for a total of 315 candidates.  73 candidates were rejected by the National Jury of Elections, leaving 242 candidates from 19 parties. Participating parties include all those with Congressional candidates, except And It's Called Peru, Decentralization Coalition, Democratic Force, FREPAP and Let's Make Progress Peru.{{cn|date=June 2026}}
+
+==Campaign==
+===Presidential debate===
+The only official presidential debate was held on May 21, 2006 between Ollanta Humala and Alan García, with journalist [[Augusto Álvarez Rodrich]] as moderator, in the National Museum of Archaeology. There were no debates before the first round.{{cn|date=June 2026}}
+
+Humala arrived late, so García started the debate on his own, claiming that his opponent had "stopped at a bar for a sandwich" and accusing him of having "no respect for the country". Humala accused ''Aprista'' supporters of delaying his arrival.{{cn|date=June 2026}}
+
+Álvarez Rodrich asked Humala to remove a small Peruvian flag on his podium before his first intervention, in order to have equitative images for both contenders. The candidate refused, saying that the national symbol was nothing to be ashamed about and arguing that the debate arrangements did not forbid using it, leading the moderator to withdraw the flag himself.{{cn|date=June 2026}}
+
+The Union for Peru candidate attacked García's position on a bilateral free trade agreement with the United States as "ambiguous"; said that [[Vladimiro Montesinos]] would evidently vote for his opponent (since the former intelligence chief had  recently claimed that Humala's uprising in 2001 had been staged as a distraction for his escape from the country); reminded the audience of a tape showing Montesinos bribing former Peruvian Aprista Party Secretary-General [[Agustín Mantilla]]; alluded to a [[paramilitary]] group that operated during García's presidency; promised not to receive his salary if he got elected, but only his payments as a retired Lieutenant Colonel; proposed the formation of a Constituent Assembly to rewrite the Constitution on the basis of its 1979 version; and suggested the possibility of reopening a penitentiary, where corrupt government officials and "ex-presidents" would be sent, in a tacit attack at García.{{cn|date=June 2026}}
+
+García called Humala a "demagogue" for promising to lower fuel prices by 30 percent; reminded his opponent of his earnings as a [[military attaché]] in [[France]] and [[South Korea]]; called on Humala for asking García to clarify whether he would free Montesinos or not, saying that such decision would concern the Judiciary branch anyway and that pretending to take such powers would be undemocratic, "in the style of (Hugo) Chávez"; indirectly pointed to Humala's support of his brother Antauro's 2005 rebellion, leading to the death of four policemen; and promised to enforce the payment of extra hours, stop arbitrary employment terminations and change some aspects of pension systems.{{cn|date=June 2026}}
+
+The media and political analysts described the debate mostly as "boring" and centered on personal attacks, with García not delivering a decisive victory, despite his much greater political experience.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/026942.php|title=Presidential Debate: Local Media Coverage|date=2006-05-22|last=Bazo|first=Fabiola|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20060623091040/http://weblogs.elearning.ubc.ca/peru/archives/026942.php|archive-date=2006-06-23|language=es}}</ref><ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/026943.php|date=2006-05-22|title=Political Observers Assess the Presidential Debate|last=Bazo|first=Fabiola|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20060623091054/http://weblogs.elearning.ubc.ca/peru/archives/026943.php|archive-date=2006-06-23|language=es}}</ref> Opinion polls in [[Lima Metropolitan Area|Metropolitan Lima]] and [[Callao]] gave García a clear victory over Humala, though these were anti-Humala strongholds throughout the campaign.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/027179.php|title=IMA Lima& Callao Poll, May 22-24, 2006: Alan Garcia Winner of Presidential Debate|date=2006-05-26|last=Bazo|first=Fabiola|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20070511230028/http://weblogs.elearning.ubc.ca/peru/archives/027179.php|archive-date=2007-05-11|language=es}}</ref><ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/026975.php|title=APOYO Flash Poll, Metropolitan Lima: Garcia Won Presidential Debate|date=2006-05-23|last=Bazo|first=Fabiola|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20071116180251/http://weblogs.elearning.ubc.ca/peru/archives/026975.php|archive-date=2007-11-16|language=es}}</ref><ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/026971.php|title=CPI Encuesta Flash sobre Debate Presidencial a nivel de Lima Metropolitana, 22 de mayo del 2006: Garcia claro ganador|date=2006-05-30|last=Bazo|first=Fabiola|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20060909221601/http://weblogs.elearning.ubc.ca/peru/archives/026971.php|archive-date=2006-09-09|language=es}}</ref> A debate between the technical teams of both candidates was held on May 28 in the Museum of the Nation.{{cn|date=June 2026}}
+
+=== Highlights ===
+* Important issues during the campaign included economic policy, unemployment, education, healthcare, drug trafficking, terrorist activities, the exploitation of the [[Camisea Gas Project|Camisea]] natural gas reserves, the management of ports by foreign companies, a maritime border dispute with [[Chile]], birth control and abortion, and renewal of Congress.{{cn|date=June 2026}}
+* In January 2006, Ollanta Humala attended a ceremony held in honor of then President-Elect of [[Bolivia]], [[Evo Morales]], by [[Venezuela]]n President [[Hugo Chávez]], who publicly endorsed Humala.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/021585.php|title=Hugo Chavez and Evo Morales Eulogize Ollanta Humala|date=2006-01-03|last=Bazo|first=Fabiola|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20060313235401/http://weblogs.elearning.ubc.ca/peru/archives/021585.php|archive-date=2006-03-13|language=es}}</ref> Chávez also called Lourdes Flores "the candidate of the Peruvian oligarchy".<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/021893.php|title=Hugo Chavez calls Lourdes Flores "Candidate of the Oligarchy"|date=2006-01-10|last=Bazo|first=Fabiola|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20060309203915/http://weblogs.elearning.ubc.ca/peru/archives/021893.php|archive-date=2006-03-09|language=es}}</ref> These events prompted a row between Chávez and the Peruvian government, who accused him of interfering in Peru's internal affairs. Humala later met with [[Brazil]]ian and [[Argentina|Argentine]] presidents [[Lula da Silva]] and [[Néstor Kirchner]]. The former had also invited Flores and García, but they declined.{{cn|date=June 2026}}
+*In late April, after Chávez announced that Venezuela would leave the [[Andean Community]] unless [[Colombia]], [[Ecuador]] and Peru abandoned their plans for Free Trade Agreements with the [[United States]], Alan García criticized him, arguing that this was equivalent to blackmail, and that it was very hypocritical, considering the amounts of oil exports from Venezuela to the US. Chávez responded by calling García "corrupt" and a "thief", and the new candidate of Peru's rich and of the US, following Flores' defeat. He also endorsed Humala again and threatened to withdraw his ambassador to Peru if García won. After accusations by García and the Peruvian government of interference in the election by the Venezuelan president, Toledo and García were called "[[caiman]]s from the same well" and the former was labelled as US President [[George W. Bush|Bush]]'s "puppet" and "office boy" by Chávez. This led to the mutual withdrawal of ambassadors.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/2006_04_28.php|title=Alan Garcia in Dispute with Hugo Chavez|date=2006-05-04|last=Bazo Escudero|first=Jorge|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20060504183430/http://weblogs.elearning.ubc.ca/peru/archives/2006_04_28.php|archive-date=2006-05-04|language=es}}</ref> García had been the notable exception to criticism of Humala's January meeting with Chávez, in an apparent move to avoid confrontation with the latter, who could be a leftist ally in the region during his potential presidency.{{cn|date=June 2026}}
+* On May 25, a violent clash between supporters of Ollanta Humala and Alan García in [[Cusco]] left five injured people, including two (three by other accounts) wounded by gunshot.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/027144.php|title=Five Wounded in Battle Between APRA and UPP Militants in Cusco|date=2006-05-26|last=Cameron|first=Maxwell A.|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20070511061357/http://weblogs.elearning.ubc.ca/peru/archives/027144.php|archive-date=2007-05-11|language=es}}</ref>
+* National Unity was accused of buying off candidates to pull out of the race, including [[Fernando Olivera (politician)|Fernando Olivera]], who did withdraw, and Jaime Salinas. Olivera's FIM party later showed TV advertisements directly attacking Alan García, and was ordered to stop by the National Jury of Elections. The ruling was not obeyed and [[Jorge Del Castillo]], Secretary General of Peruvian Aprista Party and Member of Congress, showed documents allegedly proving a secret pact between FIM and Lourdes Flores' Unidad Nacional party accounting for the attacks on García. In response, Olivera sued him for forging the documents.<ref>{{cite news|url=http://www.elcomercioperu.com.pe/EdicionImpresa/Html/2006-04-08/impPolitica0485830.html|title=Olivera denuncia a Del Castillo por falsificación|date=2006-04-08|newspaper=El Comercio Peru|url-status=dead|archive-url=https://web.archive.org/web/20060515042819/http://www.elcomercioperu.com.pe/EdicionImpresa/Html/2006-04-08/impPolitica0485830.html|archive-date=2006-05-15|language=es}}</ref>
+* A section of National Unity accused the Peruvian Aprista Party of electoral fraud, following the narrow victory of Alan García over Lourdes Flores in the race for the second runoff spot.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/026693.php|title=UN Accuses APRA of Fraud|date=2006-05-13|last=Cameron|first=Maxwell A.|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20060617133839/http://weblogs.elearning.ubc.ca/peru/archives/026693.php|archive-date=2006-06-17}}</ref>
+* On April 7, just two days before the first round, José Cardó Guarderas (Democratic Reconstruction) and [[Ciro Gálvez]] (Andean Renaissance) dropped from the presidential race and announced their support for Lourdes Flores' candidacy and their opposition to Ollanta Humala's. Only Cardó presented his official resignation to the National Jury of Elections, but his votes were still counted officially. The day before, Ricardo Wong (And It's Called Peru), who had withdrawn his candidacy before and later retracted, announced that he dropped the race in favor of Alan García. Given the proximity of the election, there were no changes to the ballot.<ref>{{cite web|url=http://www.peru21.com/P21Online/Html/2006-04-07/olPolitica0485745.html|title=Cardó y Gálvez declinan candidaturas a favor de Flores Nano|publisher=Peru21|date=2006-04-12|url-status=dead|archive-url=https://web.archive.org/web/20060412005040/http://www.peru21.com/P21Online/Html/2006-04-07/olPolitica0485745.html|archive-date=2006-04-12|language=es}}</ref>
+* In the second round campaigning for the Peruvian elections [[Diego Maradona]] the Argentinian soccer star, announced that he would visit Peru on May 4 to play a friendly game with former Peruvian soccer players. Maradona has also expressed his support for Humala's campaign and is a personal friend of Cuban President [[Fidel Castro]] and Venezuelan President [[Hugo Chávez]]. In response to the announcement that Maradona was coming to Peru to support Humala the candidate for the APRA party Alan García was quoted as saying "Maradona comes by order from his friends in Cuba and Venezuela and even so Ollanta Humala will not manage to pull a goal on us". In the end, Maradona did not make any political statements after all.<ref>{{cite web|url=http://www.ednoperu.com/noticia.php?IDnoticia=22160|title=Maradona jugaría por la campaña de Humala|date=2006|publisher=ednoperu|url-status=dead|archive-url=https://web.archive.org/web/20080212125834/http://www.ednoperu.com/noticia.php?IDnoticia=22160|archive-date=2008-02-12|language=es}}</ref>
+* Ollanta Humala was accused of torturing and killing peasants under the ''nom de guerre'' "Capitán Carlos" when he was the commander of a military base in the jungle from 1992 to 1993. National Unity was accused of buying off witnesses to testify against him. His brother Antauro confirmed that he used that name and said that he acted "according to the rules of the Army".<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/023490.php|title=Antauro Humala says: Ollanta is "Capitán Carlos"|date=2006-02-28|last=Bazo Escudero|first=Jorge|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20060405185630/http://weblogs.elearning.ubc.ca/peru/archives/023490.php|archive-date=2006-04-05|language=es}}</ref>
+* In December 2005, Peru reached a deal with the [[United States]] on a [[Peru-United States Free Trade Agreement|Free Trade Agreement]] between the two countries. Some candidates, such as Ollanta Humala, opposed the agreement, others like Lourdes Flores supported it, and still others like Alan García approved parts of it and advocated revising it. The Toledo administration announced that it would be signed after the first round in order to avoid affecting the election's outcome.<ref>{{cite web|url=http://www.invertia.com/noticias/noticia.asp?idnoticia=1505766|title=TLC con EEUU enfrenta a candidatos a presidencia de Perú|date=2006-04-05|publisher=Invertia|url-status=dead|archive-url=https://web.archive.org/web/20080411051516/http://www.invertia.com/noticias/noticia.asp?idnoticia=1505766|archive-date=2008-04-11|language=es}}</ref> The agreement was finally signed on April 12 in [[Washington, D.C.]], and ratified by Peru's Congress on June 28, but must be ratified by the [[U.S. Congress]] before coming into force.{{cn|date=June 2026}}
+* [[Isaac Humala]], father of candidates Ollanta and Ulises, said that he would free [[Shining Path]] and [[Túpac Amaru Revolutionary Movement|MRTA]] leaders [[Abimael Guzmán]] and [[Víctor Polay]], since he considered that terrorist movements no longer represent a threat to Peruvian society. This came after a letter was signed by several public figures, including Ulises and fellow candidates Javier Diez Canseco and [[Alberto Moreno (politician)|Alberto Moreno]], demanding a fair trial for Polay. Most candidates rushed to condemn Isaac Humala's comments, including Ollanta and even Ulises, whose candidacy had been openly supported by his father.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/024196.php|title=Isaac Humala and the Communiqué Requesting a Fair Sentence for Victor Polay|date=2006-03-19|last=Bazo|first=Fabiola|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20060908172107/http://weblogs.elearning.ubc.ca/peru/archives/024196.php|archive-date=2006-09-08|language=es}}</ref> Around the same time, Elena Humala, the candidates' mother, claimed that homosexuals and rapists should be shot,<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/024335.php|title=Updated - Elena Tasso de Humala, Mother of Candidate Ollanta Humala, calls for homosexuals to be shot|date=2006-03-23|last=Bazo|first=Fabiola|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20060409082904/http://weblogs.elearning.ubc.ca/peru/archives/024335.php|archive-date=2006-04-09|language=es}}</ref> which apparently prompted Ollanta to ask his parents to stop making public statements.{{cn|date=June 2026}}
+* In an April 4 interview with Argentine newspaper ''[[Página/12]]'', Ollanta Humala claimed that, if Lourdes Flores were elected, she would be overthrown in less than a year.<ref>{{cite web|last=Noriega|first=Carlos|url=http://www.pagina12.com.ar/diario/elmundo/4-65164-2006-04-04.html|title=“No soy de izquierda ni de derecha”|date=2006-04-04|publisher=Página 12|access-date=2026-06-27|language=es}}</ref> Given his past uprising, this was interpreted as a coup threat, leading opponents to accuse him again of having no respect for democracy.{{cn|date=June 2026}}
+* Peru's only living Roman Catholic [[Cardinal (Catholicism)|Cardinal]], [[Juan Luis Cipriani]] exhorted the electorate not to fall for "messianic" candidates, in one of several tacit references to Ollanta Humala.<ref>{{cite web|url=http://www.peru21.com/P21Online/Html/2006-03-25/olPolitica0478508.html|title=Cardenal Cipriani advierte de "sobresaltos mesiánicos"|publisher=Peru21|date=2006-03-05|url-status=dead|archive-url=https://web.archive.org/web/20070927003906/http://www.peru21.com/P21Online/Html/2006-03-25/olPolitica0478508.html|archive-date=2007-09-27|language=es}}</ref>
+* [[Minister of Justice]] Alejandro Tudela Chipotea announced that Antauro and Ollanta Humala would be sued for complicity with [[Vladimiro Montesinos]]. While their October 2000  uprising was publicized as an insurrection against the Fujimori administration, there have been accusations of it being staged in order to create a distraction so that the fugitive Montesinos could flee the country, which he did the same day aboard a yacht. César Mojovich, a former National Police Commissioner of [[Toquepala mine|Toquepala]], revealed this in a TV show, and apparently there are records of calls from Montesinos to the Humala brothers' military base just hours before the uprising.<ref>{{cite web|url=http://www.peru21.com/P21Online/Html/2006-04-07/Portada0485697.html|title=Ollanta y Antauro Humala serán denunciados por rebelión de Locumba|date=2006-04-07|publisher=Peru21|url-status=dead|archive-url=https://web.archive.org/web/20070927004132/http://www.peru21.com/P21Online/Html/2006-04-07/Portada0485697.html|archive-date=2007-09-27|language=es}}</ref> In mid-May 2006, Montesinos himself claimed that Humala's uprising was indeed a farce, though his statements were interpreted by some as an attempt to affect the outcome of the runoff election.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/026916.php|title=Vladimiro Montesinos Intervenes in Runoff Election|date=2006-05-20|last=Cameron|first=Maxwell A.|publisher=University of British Columbia|url-status=dead|archive-url=https://web.archive.org/web/20060623234446/http://weblogs.elearning.ubc.ca/peru/archives/026916.php|archive-date=2006-06-23|language=es}}</ref>
+* Union for Peru's vice-presidential candidate [[Carlos Alberto Torres Caro|Carlos Torres Caro]] was accused of sexual harassment by two of his former students, and of electoral fraud cover-up in 1995.<ref>{{cite web|url=http://www.peru.com/noticias/idocs/2006/1/31/detalledocumento_278048.asp|title=Lo acusaron de acoso sexual|publisher=Peru.com|url-status=dead|archive-url=https://web.archive.org/web/20060218185035/http://www.peru.com/noticias/idocs/2006/1/31/detalledocumento_278048.asp|archive-date=2006-02-18|language=es}}</ref> The presidential candidate for Project Country, [[Marco Antonio Arrunátegui]], who withdrew from the race, had a pending judicial process for sexual exploitation of minors.<ref>{{cite web|url=http://www.criterios.com/modules.php?name=Noticias&file=article&sid=7326|title=Inician proceso a candidato presidencial peruano por proxenetismo|date=2006-01-30|publisher=Criterios|url-status=dead|archive-url=https://web.archive.org/web/20070927134553if_/http://www.criterios.com/modules.php?name=Noticias&file=article&sid=7326|archive-date=2007-09-27|language=es}}</ref>
+* The National Electoral Jury admitted the failure of an Electoral Ethical Pact between the parties, given the widespread personal attacks between the candidates. Asociación Civil Transparencia, an unaffiliated citizen group, also lamented the overall tone of the campaign.<ref>{{cite web|url=http://www.cpnradio.com.pe/html/2006/04/07/1/8768.htm|title=JNE admite que Pacto Etico Electoral no funcionó durante la campaña|publisher=CPN Radio|date=2006-04-07|url-status=dead|archive-url=https://web.archive.org/web/20060527234950/http://www.cpnradio.com.pe/html/2006/04/07/1/8768.htm|archive-date=2006-05-27}}</ref>
+* [[Organization of American States|OAS]] and [[European Parliament]] observers denied the possibility of an electoral fraud,<ref>{{cite web|url=http://www.peru21.com/P21Online/Html/2006-04-07/Portada0485705.html|title=Misión de la OEA y PE expresan confianza en transparencia de comicios|date=2006-04-07|publisher=Peru21|url-status=dead|archive-url=https://web.archive.org/web/20060524055614/http://www.peru21.com/P21Online/Html/2006-04-07/Portada0485705.html|archive-date=2006-05-24|language=es}}</ref> which was suggested by Ollanta Humala, who accused the government of favoring Lourdes Flores in the first round. The OAS mission sent personnel to emergency zones in Peru, where remnants of [[Shining Path]] (''Sendero Luminoso'') were known to operate. SL called for a boycott of the election.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/024103.php|title=Shining Path Calls for Boycott of Election|date=2006-03-16|publisher=University of British Columbia|last=Bazo Escudero|first=Jorge|url-status=dead|archive-url=https://web.archive.org/web/20060523225952/http://weblogs.elearning.ubc.ca/peru/archives/024103.php|archive-date=2006-05-23|language=es}}</ref>
+* The election was initially going to use two separate ballots, by decision of the National Office of Electoral Processes: one for the Presidential election, the other for the Congressional and Andean Parliament elections. After the formal protest of several parties, the National Jury of Elections ruled that the ballots had to be merged into one.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/023407.php|title=Headaches for Election Authorities|date=2006-02-26|publisher=University of British Columbia|last=Cameron|first=Maxwell A.|url-status=dead|archive-url=https://web.archive.org/web/20060405185149/http://weblogs.elearning.ubc.ca/peru/archives/023407.php|archive-date=2006-04-05|language=es}}</ref>
+* Members of the [[Military of Peru|Armed Forces]] and the National Police were able to vote for the first time in 180 years. Up to 50% were eligible to vote, with an estimated 35% actually voting.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/025176.php|title=35% of the Armed Forces Voted on Election Day|date=2006-04-12|publisher=University of British Columbia|last=Bazo Escudero|first=Jorge|url-status=dead|archive-url=https://web.archive.org/web/20060418063357/http://weblogs.elearning.ubc.ca/peru/archives/025176.php|archive-date=2006-04-18|language=es}}</ref>
+
+==Opinion polls==
+{{main|Opinion polling for the 2006 Peruvian general election}}
+
+== Results ==
+=== President ===
+{{Election results
+| cand1 = [[Ollanta Humala]]
+| party1 = [[Union for Peru]]
+| votes1 = 3758258
+| votes1_2 = 6270080
+| cand2 = [[Alan García]]
+| party2 = [[American Popular Revolutionary Alliance]]
+| votes2 = 2985858
+| votes2_2 = 6965017
+| cand3 = [[Lourdes Flores]]
+| party3 = [[National Unity (Peru)|National Unity]]
+| votes3 = 2923280
+| cand4 = [[Martha Chávez]]
+| party4 = [[Alliance for the Future (Peru)|Alliance for the Future]]
+| votes4 = 912420
+| color4 = #FFA500
+| cand5 = [[Valentín Paniagua]]
+| party5 = [[Center Front]]
+| votes5 = 706156
+| color5 = #989898
+| cand6 = [[Humberto Lay]]
+| party6 = [[National Restoration (Peru)|National Restoration]]
+| votes6 = 537564
+| color6 = #9370DB
+|cand7=[[Susana Villarán]]|party7=[[Decentralization Coalition]]|votes7=76106|color7=black
+|cand8=[[Jaime Salinas]]|party8=[[National Justice]]|votes8=65636|color8=blue
+|cand9=[[Javier Diez Canseco]]|party9=[[Socialist Party (Peru)|Socialist Party]]|votes9=60955|color9=red
+|cand10=[[Natale Amprimo]]|party10=[[Alliance for Progress (Peru)|Alliance for Progress]]|votes10=49332
+|cand11=[[Pedro Koechlin von Stein]]|party11=[[With Force Peru]]|votes11=38212|color11=black
+|cand12=[[Alberto Moreno (politician)|Alberto Moreno]]|party12=[[New Left Movement (Peru)|New Left Movement]]|votes12=33918
+|cand13=[[Alberto Borea]]|party13=[[Democratic Force (Peru)|Democratic Force]]|votes13=24584|color13=#000000
+|cand14=Ulises Humala|party14=[[Go on Country – Social Integration Party (2000)|Go on Country]]|votes14=24518
+|cand15=[[Ciro Gálvez]]|party15=[[National United Renaissance|Andean Renaissance]]|votes15=22892
+|cand16=[[Javier Espinoza]]|party16=Let's Make Progress Peru|votes16=13965
+|cand17=José Cardó Guarderas|party17=[[Democratic Reconstruction]]|votes17=11925
+|cand18=[[Ántero Asto]]|party18=[[Peruvian Resurgence]]|votes18=10857
+|cand19=Ricardo Wong|party19=And It's Called Peru|votes19=10539
+|cand20=[[Luis Guerrero (politician)|Luis Guerrero]]|party20=[[Peru Now]]|votes20=8410
+| invalid = 2356618
+| invalid2 = 1233181
+| electorate = 16494906
+| electorate2 =
+| source = {{cite web|url=https://portal.jne.gob.pe/portal_documentos/files/informacionelectoral/estadisticaelectoral/Estadistica%20Electoral.pdf|title=Estadística electoral|date=2006|publisher=Jurado Nacional de Elecciones|language=es}}{{page needed|date=June 2026}}
+}}
+
+=== Congress ===
+Union for Peru obtained 45 out of 120 seats in Congress, more than any other party, but still shy of an absolute majority, despite victories in 16 of 25 Electoral Districts. The Peruvian Aprista Party got the most votes in six Districts and took 36 seats. National Unity obtained 17 seats and a local victory in Lima; Alliance for the Future took 13 seats and won in Pasco; Center Front got 5 seats; ruling party Possible Peru only got 2, after being the stronger party in the 2001-2006 period; and National Restoration took the remaining 2 seats, as well as most votes in [[Madre de Dios Region|Madre de Dios]]. The latter two obtained barely above the minimum 4% of valid votes nationwide for Congress representation.{{cn|date=June 2026}}
+
+The strongholds for the three main parties were essentially the same as in the presidential election: the southern Andes for Union for Peru, the northern-central coast for the Peruvian Aprista Party, and Lima (plus voters abroad, which counted as part of this Electoral District) for National Unity.{{cn|date=June 2026}}
+
+Former [[List of Presidents of Peru|President]] [[Alberto Fujimori]]'s daughter [[Keiko Fujimori|Keiko]], of Alliance for the Future, obtained 602,869 votes, the highest individual voting nationwide (though it should be taken into account that she ran in Lima, the Electoral District with, by far, the largest electorate). She was followed by [[Carlos Bruce]] of Possible Peru, a former Minister of Housing, Construction and Sanitation, with 193,374.{{cn|date=June 2026}}
+
+The most voted candidate of the party with the most votes presides over the preparatory board for the installation of the new Congress. However, this corresponded to [[Carlos Torres Caro]], Union for Peru's candidate for Second Vice-President, who, along with [[Gustavo Espinoza]] and [[Rocío González (politician)|Rocío González]] resigned from the party following the second round, arguing that Humala's approach to their role as an opposition party was too violent. The three incoming Members of Congress presented the new [[Peruvian Democratic Party]] on 26 June.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/028492.php|title=Carlos Torres Caro presenta agrupación Partido Demócrata Peruano (PDP)|date=2006-06-26|publisher=University of British Columbia|last=Bazo Escudero|first=Jorge|url-status=dead|archive-url=https://web.archive.org/web/20060715124337/http://weblogs.elearning.ubc.ca/peru/archives/028492.php|archive-date=2006-07-15|language=es}}</ref>
+
+Center Front, Possible Peru and National Restoration agreed to formally create a joint group in Congress with their 9 members, under the name of the first party.<ref>{{cite web|url=http://weblogs.elearning.ubc.ca/peru/archives/028169.php|title=Frente de Centro, Restauración Nacional y PP formarán bancada única|date=2006-06-19|publisher=University of British Columbia|last=Bazo Escudero|first=Jorge|url-status=dead|archive-url=https://web.archive.org/web/20060819003752/http://weblogs.elearning.ubc.ca/peru/archives/028169.php|archive-date=2006-08-19}}</ref> This new group was the only one without representation in the multi-partisan Directive Board of the new Congress, led by the Peruvian Aprista Party's [[Mercedes Cabanillas]] as president.{{cn|date=June 2026}}
+
+{{Election results
+|image=[[File:Peru-congress2006.svg]]
+|party1=[[Union for Peru]]|votes1=2274797|seats1=45
+|party2=[[American Popular Revolutionary Alliance]]|votes2=2213623|seats2=36
+|party3=[[National Unity (Peru)|National Unity]]|votes3=1648717|seats3=17
+|party4=[[Alliance for the Future (Peru)|Alliance for the Future]]|votes4=1408069|seats4=13|color4=#FFA500
+|party5=[[Center Front]]|votes5=760261|seats5=5|color5=#989898
+|party6=[[Possible Peru]]|votes6=441462|seats6=2
+|party7=[[National Restoration (Peru)|National Restoration]]|votes7=432209|seats7=2|color7=#9370DB
+|party8=[[Alliance for Progress (Peru)|Alliance for Progress]]|votes8=248400|seats8=0
+|party9=[[Democratic Force (Peru)|Democratic Force]]|votes9=153437|seats9=0|color9=#000000
+|party10=[[Independent Moralizing Front]]|votes10=156433|seats10=0
+|party11=[[National Justice]]|votes11=151167|seats11=0|color11=blue
+|party12=[[Socialist Party (Peru)|Socialist Party]]|votes12=134166|seats12=0|color12=red
+|party13=[[New Left Movement (Peru)|New Left Movement]]|votes13=133106|seats13=0
+|party14=[[Go on Country – Social Integration Party (2000)|Go on Country]]|votes14=122654|seats14=0
+|party15=[[Decentralization Coalition]]|votes15=91784|seats15=0|color15=black
+|party16=[[Agricultural People's Front of Peru]]|votes16=85019|seats16=0
+|party17=[[National United Renaissance|Andean Renaissance]]|votes17=75445|seats17=0
+|party18=[[With Force Peru]]|votes18=71385|seats18=0|color18=black
+|party19=[[Peru Now]]|votes19=46443|seats19=0
+|party20=[[Democratic Reconstruction]]|votes20=28775|seats20=0
+|party21=[[Project Country]]|votes21=21534|seats21=0
+|party22=[[Peruvian Resurgence]]|votes22=20579|seats22=0
+|party23=Let's Make Progress Peru|votes23=13999|seats23=0
+|party24=And It's Called Peru|votes24=19859|seats24=0
+|invalid=3871557
+|electorate=16494906
+|source={{cite web|url=https://portal.jne.gob.pe/portal_documentos/files/informacionelectoral/estadisticaelectoral/Estadistica%20Electoral.pdf|title=Estadística electoral|date=2006|publisher=Jurado Nacional de Elecciones|language=es}}{{page needed|date=June 2026}}
+}}
+
+==== By region ====
+{| class=wikitable style=text-align:center
+! Electoral District
+![[Union for Peru|UPP]]
+![[Peruvian Aprista Party|PAP]]
+![[National Unity (Peru)|UN]]
+![[Alliance for the Future (Peru)|AF]]
+![[Center Front|FC]]
+![[Possible Peru|PP]]
+![[National Restoration Party (Peru)|RN]]
+! Total
+|-
+| [[Amazonas (Peruvian department)|Amazonas]] 
+| style="background-color:#D8242A;" |1
+|1
+|
+|
+|
+|
+|
+|'''2'''
+|-
+| [[Ancash Region|Ancash]] 
+|2
+| style="background-color:#FF6464;" |2
+|1
+|
+|
+|
+|
+|'''5'''
+|-
+| [[Apurímac Region|Apurímac]] 
+| style="background-color:#D8242A;" |2
+|
+|
+|
+|
+|
+|
+|'''2'''
+|-
+| [[Arequipa Region|Arequipa]] 
+| style="background-color:#D8242A;" |3
+|1
+|1
+|
+|
+|
+|
+|'''5'''
+|-
+| [[Ayacucho Region|Ayacucho]] 
+| style="background-color:#D8242A;" |3
+|
+|
+|
+|
+|
+|
+|'''3'''
+|-
+| [[Cajamarca Region|Cajamarca]] 
+| style="background-color:#D8242A;" |2
+|1
+|1
+|1
+|
+|
+|
+|'''5'''
+|-
+| [[Callao]]
+|1
+| style="background-color:#FF6464;" |2
+|1
+|
+|
+|
+|
+|'''4'''
+|-
+| [[Cusco Region|Cusco]] 
+| style="background-color:#D8242A;" |4
+|1
+|
+|
+|
+|
+|
+|'''5'''
+|-
+|[[Huancavelica Region|Huancavelica]] 
+| style="background-color:#D8242A;" |2
+|
+|
+|
+|
+|
+|
+|'''2'''
+|-
+| [[Huánuco Region|Huánuco]] 
+| style="background-color:#D8242A;" |2
+|1
+|
+|
+|
+|
+|
+|3
+|-
+| [[Ica Region|Ica]] 
+|1
+| style="background-color:#FF6464;" |2
+|1
+|
+|
+|
+|
+|'''4'''
+|-
+| [[Junín Region|Junín]] 
+| style="background-color:#D8242A;" |2
+|1
+|1
+|1
+|
+|
+|
+|'''5'''
+|-
+| [[La Libertad Region|La Libertad]] 
+|1
+| style="background-color:#FF6464;" |5
+|1
+|
+|
+|
+|
+|'''7'''
+|-
+| [[Lambayeque Region|Lambayeque]] 
+|1
+| style="background-color:#FF6464;" |2
+|1
+|1
+|
+|
+|
+|'''5'''
+|-
+| [[Lima Region|Lima]] 
+|6
+|7
+| style="background-color:#00D700;" |8
+|8
+|3
+|2
+|1
+|'''35'''
+|-
+| [[Loreto Region|Loreto]] 
+| style="background-color:#D8242A;" |1
+|1
+|
+|
+|1
+|
+|
+|'''3'''
+|-
+| [[Madre de Dios Region|Madre de Dios]] 
+|
+|
+|
+|
+|
+|
+| style="background-color:#D296FA;" |1
+|'''1'''
+|-
+| [[Moquegua Region|Moquegua]] 
+| style="background-color:#D8242A;" |1
+|1
+|
+|
+|
+|
+|
+|'''2'''
+|-
+| [[Pasco Region|Pasco]] 
+|1
+|
+|
+| style="background-color:#FAA046;" |1
+|
+|
+|
+|'''2'''
+|-
+| [[Piura Region|Piura]] 
+|2
+| style="background-color:#FF6464;" |3
+|1
+|
+|
+|
+|
+|'''6'''
+|-
+| [[Puno Region|Puno]] 
+| style="background-color:#D8242A;" |3
+|1
+|
+|
+|1
+|
+|
+|'''5'''
+|-
+| [[San Martín Region|San Martín]] 
+| style="background-color:#D8242A;" |1
+|1
+|
+|1
+|
+|
+|
+|'''3'''
+|-
+| [[Tacna Region|Tacna]] 
+| style="background-color:#D8242A;" |1
+|1
+|
+|
+|
+|
+|
+|'''2'''
+|-
+| [[Tumbes Region|Tumbes]] 
+| style="background-color:#D8242A;" |1
+|1
+|
+|
+|
+|
+|
+|'''2'''
+|-
+| [[Ucayali Region|Ucayali]] 
+| style="background-color:#D8242A;" |1
+|1
+|
+|
+|
+|
+|
+|'''2'''
+|-
+! Total
+!45
+!36
+!17
+!13
+!5
+!2
+!2
+!120
+|-
+|}
+
+=== Andean Parliament ===
+Only the three main parties obtained representation in the Andean Parliament, with Union for Peru and the Peruvian Aprista Party obtaining 2 seats (plus 4 substitutes) each, and National Unity getting one seat (and two substitutes). Union for Peru got the most votes, with 24.0% of the valid ballots. Congressman [[Rafael Rey]] of National Unity obtained the most individual votes, with 611,638, after which he announced his own and his party [[National Renewal (Peru)|National Renewal]]'s departure from the coalition.{{cn|date=June 2026}}
+
+{{Election results
+|party1=[[Union for Peru]]|votes1=2044863|seats1=2
+|party2=[[American Popular Revolutionary Alliance]]|votes2=1927836|seats2=2
+|party3=[[National Unity (Peru)|National Unity]]|votes3=1812385|seats3=1
+|party4=[[Alliance for the Future (Peru)|Alliance for the Future]]|votes4=793442|seats4=0|color4=#FFA500
+|party5=[[Center Front]]|votes5=479365|seats5=0|color5=#989898
+|party6=[[National Restoration (Peru)|National Restoration]]|votes6=435844|seats6=0|color6=#9370DB
+|party7=[[Possible Peru]]|votes7=193685|seats7=0
+|party8=[[Alliance for Progress (Peru)|Alliance for Progress]]|votes8=140505|seats8=0
+|party9=[[Socialist Party (Peru)|Socialist Party]]|votes9=140089|seats9=0|color9=red
+|party10=[[National Justice]]|votes10=96982|seats10=0|color10=blue
+|party11=[[With Force Peru]]|votes11=95599|seats11=0|color11=black
+|party12=[[New Left Movement (Peru)|New Left Movement]]|votes12=81699|seats12=0
+|party13=[[Independent Moralizing Front]]|votes13=77512|seats13=0
+|party14=[[Go on Country – Social Integration Party (2000)|Go on Country]]|votes14=64220|seats14=0
+|party15=[[National United Renaissance|Andean Renaissance]]|votes15=53070|seats15=0
+|party16=[[Democratic Reconstruction]]|votes16=27398|seats16=0
+|party17=[[Peru Now]]|votes17=24571|seats17=0
+|party18=[[Peruvian Resurgence]]|votes18=22055|seats18=0
+|party19=[[Project Country]]|votes19=20312|seats19=0
+|invalid=6093799
+|electorate=16494906
+|source={{cite web|url=https://portal.jne.gob.pe/portal_documentos/files/informacionelectoral/estadisticaelectoral/Estadistica%20Electoral.pdf|title=Estadística electoral|date=2006|publisher=Jurado Nacional de Elecciones|language=es}}{{page needed|date=June 2026}}
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20060901235233/https://www.electionguide.org/country.php?ID=170 Election Guide: Peru] ''[[IFES]] Election Guide''
+*[https://web.archive.org/web/20110519184724/http://video.google.com/videoplay?docid=3338593358859982187&q=Humala# Video of Garcia-Humala Presidential Debate] ''[[Peruvian National Television]]''
+*[https://web.archive.org/web/20060719085409/http://www.cfr.org/publication/10093/ "Background Q&A: Peru's Elections"] March 10, 2006 ''Council on Foreign Relations''
+*[https://web.archive.org/web/20060813084522/http://www.coha.org/2006/06/01/peruvians-face-a-difficult-choice-a-distressed-politician-from-the-past-or-an-unqualified-man-of-the-future/ "Peruvian Elections"] June 1, 2006 ''Council on Hemispheric Affairs''
+* [http://www.onpe.gob.pe/ National Office of Electoral Processes (ONPE)] {{in lang|es}}
+
+{{Peruvian elections}}
+
+[[Category:Parliamentary elections in Peru]]
+[[Category:2006 elections in South America|Peru]]
+[[Category:2006 in Peru|National election]]
+[[Category:Presidential elections in Peru]]
+[[Category:April 2006 in South America]]

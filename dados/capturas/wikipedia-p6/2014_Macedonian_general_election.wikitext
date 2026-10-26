@@ -1,0 +1,255 @@
+{{Short description|none}}
+{{Use dmy dates|date=February 2024}}
+{{Infobox election
+| country= Republic of Macedonia
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_date= 13 April 2014 (first round)<br>27 April 2014 (second round)
+| election_name = Presidential election
+| previous_election= 2009 Macedonian presidential election
+| previous_year= 2009
+| next_election= 2019 North Macedonian presidential election
+| next_year= 2019
+| turnout = 48.87% (first round)<br/>54.38% (second round)
+
+| image1= Gjorge Ivanov Munich Security Conference 2010.jpg
+| nominee1= '''[[Gjorge Ivanov]]'''
+| party1= VMRO-DPMNE
+| popular_vote1= '''534,910'''
+| percentage1= '''57.33%'''
+
+| image2= Stevo Pendarovski in January 2018.jpg
+| nominee2= [[Stevo Pendarovski]]
+| party2= Social Democratic Union of Macedonia
+| color2 = 033A73
+| popular_vote2= 398,077
+| percentage2= 42.67%
+
+| title= President
+| before_election= [[Gjorge Ivanov]]
+| before_party= VMRO-DPMNE
+| after_election= Gjorge Ivanov
+| after_party= VMRO-DPMNE
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| election_date = 27 April 2014
+| previous_election = [[2011 Macedonian parliamentary election|2011]]
+| next_election = [[2016 Macedonian parliamentary election|2016]]
+
+| leader1 = [[Nikola Gruevski]]
+| party1 = {{nowrap|[[Your Macedonia|VMRO-DPMNE coalition]]}}
+| color1 = {{party color|VMRO-DPMNE}}
+| last_election1 = 56
+| seats1 = 61
+| percentage1 = 44.47
+
+| leader2 = [[Zoran Zaev]]
+| party2 = [[For a European Future|SDSM coalition]]
+| color2 = #033A73
+| last_election2 = 42
+| seats2 = 34
+| percentage2 = 26.22
+
+| leader3 = [[Ali Ahmeti]]
+| party3 = Democratic Union for Integration
+| percentage3 = 14.19
+| last_election3 = 15
+| seats3 = 19
+
+| leader4 = [[Menduh Thaçi]]
+| party4 = Democratic Party of Albanians
+| percentage4 = 6.13
+| last_election4 = 8
+| seats4 = 7
+
+| leader5 = {{nowrap|[[Stevčo Jakimovski]]}}
+| party5 = Citizen Option for Macedonia
+| percentage5 = 2.92
+| last_election5 = new
+| seats5 = 1
+
+| party6 = National Democratic Revival
+| leader6 = {{ill|Rufi Osmani|sq}}
+| percentage6 = 1.64
+| last_election6 = 2
+| seats6 = 1
+
+| title = [[Prime Minister of the Republic of Macedonia|Prime Minister]]
+| before_election = [[Nikola Gruevski]]
+| before_party = VMRO-DPMNE
+| after_election = [[Nikola Gruevski]]
+| after_party = VMRO-DPMNE
+}}}}}}
+{{Politics of Macedonia}}
+
+General elections{{ref label|A|a|a}} were held in the [[Republic of Macedonia]] in April 2014 to elect the [[President of the Republic of Macedonia|President]] and members of [[Assembly of the Republic of Macedonia|parliament]]. The first round of the presidential elections were held on 13 April, with incumbent president [[Gjorge Ivanov]] finishing first with 53% of the vote. However, as he did not receive the support of 50% of all registered voters, a second round was held on 27 April, alongside parliamentary elections, with Ivanov and the ruling coalition led by [[VMRO-DPMNE]] claiming victory as Ivanov was elected president and the VMRO-DPMNE won 61 of the 123 seats in the [[Assembly of North Macedonia|Assembly]].<ref>{{cite web | url=https://au.news.yahoo.com/world/a/22620503/macedonia-presidential-election-set-for-second-vote/ | title=Macedonia presidential election set for second vote | publisher=[[Yahoo News]] Australia | work=[[Agence France-Presse]] | date=14 April 2014 | access-date=19 April 2014 | url-status=dead | archive-url=https://web.archive.org/web/20140420032042/https://au.news.yahoo.com/world/a/22620503/macedonia-presidential-election-set-for-second-vote/ | archive-date=20 April 2014 | df=dmy-all }}</ref><ref>{{cite web | url=https://www.reuters.com/article/us-macedonia-elections-idUSBREA250XI20140306 | title=Macedonia calls early parliamentary election for April 27 | publisher=Reuters | date=6 March 2014 | access-date=19 April 2014 | author=Kole Casule}}</ref>
+
+==Background==
+The parliamentary elections were brought forward to coincide with the presidential election following the failure of coalition partners VMRO-DPMNE and [[Democratic Union for Integration|DUI]] to agree on a combined presidential candidate.<ref name="dw">{{cite web|url=http://www.dw.de/macedonia-goes-to-the-polls-in-early-parliamentary-vote/a-17594202 |title=Macedonia wraps up voting in early parliamentary vote &#124; News &#124; DW.DE &#124; 27.04.2014 |publisher=DW.DE |date=2014-04-13 |access-date=2014-04-30}}</ref>
+
+==President==
+===Candidates===
+The incumbent president Gjorge Ivanov, supported by the governing party, the Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity ([[VMRO-DPMNE]]), successfully nominated himself for reelection after collecting 63,253 signatures from citizens.<ref>{{cite web | url=http://kurir.mk/makedonija/vesti/149896-Masovna-poddrska-za-Ivanov-Sobrani-63253-potpisi-za-nekolku-casa | title=Масовна поддршка за Иванов: Собрани 63.253 потписи за неколку часа | publisher=Kurir.mk | date=4 March 2014 | access-date=19 April 2014 | language=mk | url-status=dead | archive-url=https://web.archive.org/web/20140419210753/http://kurir.mk/makedonija/vesti/149896-Masovna-poddrska-za-Ivanov-Sobrani-63253-potpisi-za-nekolku-casa | archive-date=19 April 2014 | df=dmy-all }}</ref> The [[Social Democratic Union of Macedonia]]  (SDSM) candidate [[Stevo Pendarovski]] was nominated by the signatures of the opposition parties' members of parliament.<ref>{{cite web | url=http://a1on.mk/wordpress/archives/294169 | title=СДСМ: Зад кандидатурата на Пендаровски стојат потписите на сите пратеници на СДСМ и коалиционите партнери | publisher=a1on.mk | date=6 March 2014 | access-date=19 April 2014 | archive-url=https://web.archive.org/web/20140420012144/http://a1on.mk/wordpress/archives/294169 | archive-date=20 April 2014 | url-status=dead }}</ref> Other candidates nominated by over 10,000 signatures included [[Zoran T. Popovski]] from the [[Citizen Option for Macedonia]] (GROM), and {{ill|Ilijaz Halimi|bg|Илияз Халими}} from the [[Democratic Party of Albanians]] (DPA).<ref>{{cite web | url=http://www.sitel.com.mk/mk/ilijaz-halimi-e-kandidat-na-dpa-za-pretsedatel-na-makedonija-0 | title=Илијаз Халими е кандидат на ДПА за претседател на Македонија | publisher=[[Sitel (TV channel)|Sitel]] | date=26 February 2014 | access-date=6 April 2014 | url-status=dead | archive-url=https://web.archive.org/web/20140305123807/http://www.sitel.com.mk/mk/ilijaz-halimi-e-kandidat-na-dpa-za-pretsedatel-na-makedonija-0 | archive-date=5 March 2014 | df=dmy-all }}</ref><ref>{{cite web | url=http://www.dnevnik.mk/default.asp?ItemID=AD7369A95668E34FB6794AF1F68AED22 | title=Зоран Поповски веќе собра 10.000 потписи | language=mk | publisher=[[Dnevnik (Skopje)|Dnevnik]] | date=17 February 2014 | access-date=6 April 2014 | url-status=dead | archive-url=https://web.archive.org/web/20140304162112/http://www.dnevnik.mk/default.asp?ItemID=AD7369A95668E34FB6794AF1F68AED22 | archive-date=4 March 2014 | df=dmy-all }}</ref>
+
+===Campaign===
+The first round of the presidential election was held on 13 April. The candidates were Gjorge Ivanov (VMRO-DPMNE), Stevo Pendarovski (SDSM), Ilijaz Halimi (DPA), and Zoran Popovski (GROM). The [[Albanians in North Macedonia|ethnic Albanian]] party [[Democratic Union for Integration]] (DUI), a junior coalition member, campaigned for boycott of the presidential election, opposing VMRO-DPMNE's decision to run Ivanov for reelection.<ref>{{cite news | url=https://news.yahoo.com/ethnic-albanians-boycott-macedonia-vote-184654988.html | title=Ethnic Albanians boycott Macedonia vote | publisher=[[Yahoo News]] | agency=Associated Press | date=13 April 2014 | access-date=19 April 2014 | author=Konstantin Testorides}}</ref>
+
+SDSM's Pendarovski visited [[Pristina]] where he criticised the government policies in terms of [[Foreign relations of the Republic of Macedonia|foreign policy]] and that Albania has the highest GDP in the region despite reports by institutions and other politicians saying it was Macedonia.<ref>{{cite web |url=http://kurir.mk/en/2014/04/25/here-is-how-pendarovski-january-slanders-his-spine-in-prishtina-praises-kosovo-and-criticizes-macedonia/ |title=Here is how Pendarovski January slanders his spine: In Prishtina praises Kosovo and criticizes Macedonia &#124; Macedonian News Agency |publisher=Kurir.mk |date=2014-04-25 |access-date=2014-04-30 |archive-url=https://web.archive.org/web/20140427223953/http://kurir.mk/en/2014/04/25/here-is-how-pendarovski-january-slanders-his-spine-in-prishtina-praises-kosovo-and-criticizes-macedonia/ |archive-date=27 April 2014 |url-status=dead |df=dmy-all }}</ref>
+
+==Parliament==
+===Parties and coalitions===
+Fourteen political parties and coalitions contested the election, having submitted candidate lists for MPs in at least one of the six constituencies within the country and the three in the diaspora. Three among them, namely, VMRO-DPMNE, SDSM and DUI, submitted their candidate lists in all nine constituencies.<ref>{{cite web |url=http://www.utrinski.mk/?ItemID=288A1834285C3A438EAA163D805B090F |title=Четиринаесет партии доставија листи на кандидати за пратеници |publisher=Utrinski.mk |date=2014-03-30 |access-date=2014-04-30 |url-status=dead |archive-url=https://web.archive.org/web/20140428023118/http://www.utrinski.mk/?ItemID=288A1834285C3A438EAA163D805B090F |archive-date=28 April 2014 |df=dmy-all }}</ref>
+
+====VMRO-DPMNE====
+The VMRO-DPMNE-led coalition consisted of 22 parties: VMRO-DPMNE, the [[Socialist Party of Macedonia]] (SPM), the [[Democratic Union (North Macedonia)|Democratic Union]] (DS), [[Democratic Renewal of Macedonia]] (DOM), the [[Democratic Party of Turks]] (DPTM), the [[Democratic Party of Serbs in Macedonia]] (DPSM), the [[Union of Roma in Macedonia]] (SRM), the [[United Party for Emancipation]] (OPE), the [[Party of Justice]] (PP), the Party of the {{ill|Democratic Action of Macedonia|sv|Demokratisk aktion i Makedonien}} (SDAM), the [[Party of the Vlachs of Macedonia]] (PVM), the {{ill|Party for Integration of the Roma|mk|Партија за интеграција на Ромите|sv|Partiet för romsk integration}} (PIR), the {{ill|Bosniak Democratic Party|sv|Bosniakernas demokratiska parti}} (BDP), {{ill|Democratic Forces of the Roma|mk|Демократски сили на Ромите|sv|Romernas demokratiska krafter i Makedonien}} (DSR), {{ill|Permanent Macedonian Radical Unification|mk|Трајно македонско радикално обединување}} (TMRO), the {{ill|New Liberal Party (North Macedonia)|mk|Нова либерална партија|lt=New Liberal Party}} (NLP), the {{ill|People's Movement for Macedonia|mk|Единствена Македонија}} (NDM), {{ill|VMRO–Democratic Party|mk|Внатрешна македонска револуционерна организација - Демократска партија}}, VMRO-United, {{ill|Fatherland's Macedonian Organisation for Radical Renewal–Vardar–Aegean–Pirin|mk|Татковинска македонска организација за радикална обнова - Вардар - Егеј - Пирин}} ({{nobr|TMORO–VEP}}), {{ill|Macedonian Alliance|mk|Македонска алијанса}} (MA), and {{nobr|VMRO–Macedonian}}.<ref name=KAS/>
+
+====SDSM====
+The SDSM-led coalition included nine parties; the [[Social Democratic Union of Macedonia]], the [[New Social Democratic Party]] (NDSP), the [[Liberal Democratic Party (North Macedonia)|Liberal Democratic Party]] (LDP), [[United for Macedonia]] (OM), the {{ill|Party for the Movement of Turks in Macedonia|mk|Партија за движење на Турците во Македонија|sv|Rörelsen för turkar i Makedonien}} (PDT), the [[Party for the Full Emancipation of the Roma of Macedonia]] (PCER), the {{ill|Serbian Party in Macedonia|mk|Српска странка во Македонија}} (SSM), the [[Democratic Union of the Vlachs of Macedonia]] (DSVM), and the {{ill|Sandžak List|mk|Санџачка лига}} (SL).<ref name=KAS/>
+
+====GROM====
+The [[Citizen Option for Macedonia]] (GROM)-led alliance consisted of the [[Citizen Option for Macedonia]], the [[Liberal Party of Macedonia|Liberal Party]], the [[Serbian Progressive Party in Macedonia]], the [[Union of Tito's Left Forces]], and the Party of Free 
+Democrats.<ref name=KAS>[http://www.kas.de/wf/doc/kas_37896-1522-1-30.pdf?140529150937  The Republic of Macedonia's 2014 Parliamentary Elections Handbook] Konrad Adenauer Stiftung</ref>
+
+===Campaign===
+SDSM's [[Zoran Zaev]] said that the election was about "choosing whether [the country] will support the fight for freedom and the right to a better life, or continue with state robbery."<ref name="aljaz">{{cite web|url=http://www.aljazeera.com/news/europe/2014/04/macedonia-pm-tipped-win-third-term-201442745347375961.html |title=PM tipped for third term as Macedonia votes - Europe |publisher=Al Jazeera English |access-date=2014-04-30}}</ref> Prime Minister Nikola Gruevski said: "We need a majority so nobody can blackmail us and we can keep up with the programme...that would lead Macedonia into the EU and NATO."<ref name="dw"/>
+
+==Opinion polls==
+===President===
+{| class=wikitable style=text-align:right
+!Poll source
+!Date
+!Sample size
+![[Gjorge Ivanov|Ivanov]]<br><small>[[VMRO-DPMNE]]</small>
+![[Stevo Pendarovski|Pendarovski]]<br><small>[[Social Democratic Union of Macedonia|SDSM]]</small>
+!{{ill|Ilijaz Halimi|bg|Илияз Халими|lt=Halimi}}<br><small>[[Democratic Party of Albanians|DPA]]</small>
+![[Zoran T. Popovski|Popovski]]<br><small>[[Citizen Option for Macedonia|GROM]]</small>
+!None
+!Undecided
+|-
+|align=left|Center for Information and Research (CIG)<ref>{{cite web|url = http://www.balkaneu.com/polls-surveys-favor-presidential-nominees/|title = Polls and surveys that favor presidential nominees|date = 19 March 2014|website = Independent Balkan News Agency|last = Pajaziti|first = Naser}}</ref>
+|March 2014
+|2,400
+|29.3%
+|19.4%
+|6.1%
+|<nowiki>-</nowiki>
+|8.7%
+|35%
+|-
+|align=left|Center for Research and Analysis<ref>{{cite web|url = http://english.republika.mk/?p=114629|title = Poll: Highest trust ratings for President Ivanov and VMRO-DPMNE|date = 23 March 2014|website = Republika Online|access-date = 25 April 2014|archive-url = https://web.archive.org/web/20140425035634/http://english.republika.mk/?p=114629|archive-date = 25 April 2014|url-status = dead}}</ref>
+|March 2014
+|1,839
+|42.2%
+|19.7% 
+|5.2%
+|5.4%
+|9.1%
+|18.4%
+|- style="background:#EFEFEF; font-weight:bold;"
+|{{nowrap|Election Results}}
+|{{nowrap|13 April 2014}}
+|869,137
+|51.7%
+|37.5%
+|2.2%
+|1.8%
+|
+|
+|}
+
+===Parliament===
+{| class=wikitable style=text-align:right
+!Poll source
+!Date
+!Sample size
+![[Internal Macedonian Revolutionary Organization-Democratic Party for Macedonian National Unity|VMRO-DPMNE]]
+![[Social Democratic Union of Macedonia|SDSM]]
+![[Democratic Union for Integration|DUI]]
+![[Democratic Party of Albanians|DPA]]
+![[National Democratic Revival|NDR]]
+![[Citizen Option for Macedonia|GROM]]
+|-
+|align=left|Dimitrija Čupovski<ref>[http://kurir.mk/makedonija/vesti/146502-Anketa-VMRO-DPMNE-so-najgolem-broj-pratenici-dokolku-utre-ima-parlamentarni-izbori Анкета: ВМРО-ДПМНЕ со најголем број пратеници доколку утре има парламентарни избори] {{webarchive|url=https://web.archive.org/web/20140428020908/http://kurir.mk/makedonija/vesti/146502-Anketa-VMRO-DPMNE-so-najgolem-broj-pratenici-dokolku-utre-ima-parlamentarni-izbori |date=28 April 2014 }}, ''Kurir'', 1 February 2014.</ref>
+|January 2014
+|1,530
+|59
+|36
+|15
+|7
+|1
+|2
+|-
+|align=left|Dimitrija Čupovski<ref>[http://www.sitel.com.mk/mk/anketa-vmro-dpmne-so-63-pratenici-sdsm-so-31 Анкета: ВМРО-ДПМНЕ со 63 пратеници, СДСМ со 31] {{webarchive|url=https://web.archive.org/web/20140428022545/http://www.sitel.com.mk/mk/anketa-vmro-dpmne-so-63-pratenici-sdsm-so-31 |date=28 April 2014 }}, ''[[Sitel (TV channel)|Sitel]]'', 22 April 2014.</ref>
+|April 2014
+|1,500
+|63
+|31 
+|15
+|10
+|1
+|–
+|}
+
+==Conduct==
+The second round of the election had accreditations given to 9,952 domestic and 550 foreign observers, as well as 283 translators, according to the State Election Commission.<ref>{{cite web |url=http://kurir.mk/en/2014/04/25/9952-domestic-and-550-foreign-observers-will-follow-elections/ |title=9952 domestic and 550 foreign observers will follow elections &#124; Macedonian News Agency |publisher=Kurir.mk |date=2014-04-25 |access-date=2014-04-30 |archive-url=https://web.archive.org/web/20140427222645/http://kurir.mk/en/2014/04/25/9952-domestic-and-550-foreign-observers-will-follow-elections/ |archive-date=27 April 2014 |url-status=dead |df=dmy-all }}</ref>
+
+The United States and [[European Union]] publicly urged political leaders to ensure the election was "credible and transparent," amidst complains by the SDSM.<ref name="aljaz"/>
+
+==Results==
+===President===
+In second round voting, centres were open from 5:00 GMT to 17:00 GMT. Turnout was reported as 9.58% in the first three hours.<ref name="aljaz"/> Gjorge Ivanov was re-elected with 57% of the valid vote.<ref>{{cite web|url=http://24vesti.mk/rezultati-spored-dik-za-pretsedatelskite-izbori-za-9823-od-glasovite |title=ДИК: Иванов 534.154 гласови, Пендаровски 398.008 &#124; 24 ВЕСТИ |publisher=24vesti.mk |date=2014-04-15 |access-date=2014-04-30}}</ref> Following the election, Stevo Pendarovski called for an investigation of the election by external observers.<ref>{{cite web |url=http://www.utrinski.mk/?ItemID=84E14D42189E7F4BB7BD0EAE7157AF78 |title=4471 |publisher=Utrinski.mk |access-date=2014-04-30 |archive-url=https://web.archive.org/web/20140430024845/http://www.utrinski.mk/?ItemID=84E14D42189E7F4BB7BD0EAE7157AF78 |archive-date=30 April 2014 |url-status=dead }}</ref>
+
+{{Election results
+|cand1=[[Gjorge Ivanov]]|party1=[[VMRO-DPMNE]]|votes1=449442|votes1_2=534910
+|cand2=[[Stevo Pendarovski]]|party2=[[Social Democratic Union of Macedonia|Social Democratic Union]]|votes2=326164|votes2_2=398077|color2=#033A73
+|cand3={{ill|Ilijaz Halimi|bg|Илияз Халими}}|party3=[[Democratic Party of Albanians]]|votes3=38966
+|cand4=[[Zoran T. Popovski]]|party4=[[Citizen Option for Macedonia]]|votes4=31368
+|invalid=23677|invalid2=34707
+|electorate=1779572|electorate2=1779572
+|source=[https://old.sec.mk/files/izbori2014/zakljucok_web_aa.PDF SEC], [https://old.sec.mk/files/izbori2014/zakljucok_web_aa.PDF SEC]
+}}
+
+===Parliament===
+The incumbent government, led by VMRO-DPMNE, received 44% of the vote to claim victory ahead of SDSM with 26% and DUI with 14%. The 123 seats in the Assembly were won by six political parties and coalitions with the VMRO-DPMNE coalition winning 61 seats, the SDSM coalition winning 34 seats, DUI winning 19 seats, DPA winning 7 seats and GROM and NDP winning 1 seat each.<ref>{{cite web |url=http://www.utrinski.mk/?ItemID=4F0ECE9201DCAF44BDF9FE51F6D964E4 |title=4471 |publisher=Utrinski.mk |access-date=2014-04-30 |url-status=dead |archive-url=https://web.archive.org/web/20140430024319/http://www.utrinski.mk/?ItemID=4F0ECE9201DCAF44BDF9FE51F6D964E4 |archive-date=30 April 2014 |df=dmy-all }}</ref>
+
+{{Election results
+|party1=[[Your Macedonia|VMRO-DPMNE coalition]]|votes1=481615|seats1=61|sc1=+5|color1={{party color|VMRO-DPMNE}}
+|party2=[[For a European Future|Social Democratic Union coalition]]|votes2=283955|seats2=34|sc2=−8|color2=#033A73
+|party3=[[Democratic Union for Integration]]|votes3=153646|seats3=19|sc3=+4
+|party4=[[Democratic Party of Albanians]]|votes4=66393|seats4=7|sc4=−1
+|party5=[[Citizen Option for Macedonia]] coalition|votes5=31610|seats5=1|sc5=New
+|party6=[[National Democratic Revival]]|votes6=17783|seats6=1|sc6=−1
+|party7=[[VMRO – People's Party]]|votes7=16772|seats7=0|sc7=0
+|party8=Coalition for a Positive Macedonia{{efn|{{ill|Alliance for a Positive Macedonia|mk|Алијанса за позитивна Македонија}} and [[Party of Pensioners (North Macedonia)|Party of Pensioners]]}}|votes8=10566|seats8=0|sc8=New
+|party9=Dignity for Macedonia Coalition{{efn|{{ill|Dignity (North Macedonia)|mk|Достоинство (политичка партија)|lt=Dignity}}–{{ill|MORO–Labour Party|mk|Македонска обновителна реформска опција - Работничка партија}}}}|votes9=9265|seats9=0|sc9=New
+|party10=[[Social Democratic Party of Macedonia|Social Democratic Party]]|votes10=4700|seats10=0|sc10=0
+|party11=[[Party for a European Future]]|votes11=3194|seats11=0|sc11=New
+|party12={{ill|Popular Movement for Macedonia|mk|Единствена Македонија}}|votes12=1925|seats12=0|sc12=New
+|party13={{ill|Party for Economic Change 21|mk|Партија за економски промени 21}}|votes13=1281|seats13=0|sc13=New
+|party14=[[Party for Democratic Prosperity]]|votes14=385|seats14=0|sc14=0
+|invalid=37654
+|total_sc=0
+|electorate=1780128
+|source=[http://rezultati.sec.mk/Parliamentary/Results?cs=en-US&r=2&rd=r&eu=All&m=All&ps=All SEC]
+}}
+
+==Reactions==
+After voting ended the SDSM's Zoran Zaev said that "SDSM and our opposition coalition will not recognise the election process, neither the presidential nor the parliamentary." He accused the government of "abusing the entire state system."<ref>{{cite web|last=Casule |first=Kole |url=http://uk.reuters.com/article/uk-macedonia-election-idUKBREA3P0L820140427 |archive-url=https://web.archive.org/web/20160305214529/http://uk.reuters.com/article/uk-macedonia-election-idUKBREA3P0L820140427 |url-status=dead |archive-date=5 March 2016 |title=Macedonian opposition cries election foul, will not accept results |publisher=Uk.reuters.com |access-date=2014-04-30}}</ref> It followed reports that Gruevski had warned that the SDSM was preparing, as an alibi, to react in such a manner to the election because they were due to lose the election.<ref>{{cite web |url=http://kurir.mk/en/2014/04/25/scandalous-zaev-with-fir-scenario-for-failure-of-elections/ |title=Scandalous: Zaev with fir scenario for failure of elections &#124; Macedonian News Agency |publisher=Kurir.mk |date=2014-04-25 |access-date=2014-04-30 |archive-url=https://web.archive.org/web/20140427222819/http://kurir.mk/en/2014/04/25/scandalous-zaev-with-fir-scenario-for-failure-of-elections/ |archive-date=27 April 2014 |url-status=dead |df=dmy-all }}</ref>
+
+== Notes ==
+* {{note label|A|a|a}} The term "[[general election]]s" is used to refer to the presidential and parliamentary elections that were, incidentally, held on the same date since the [[Republic of Macedonia]] has a parliamentary system in which both elections are held separately.
+{{notelist}}
+
+== References ==
+{{reflist|3}}
+
+{{Macedonian elections}}
+
+[[Category:Elections in North Macedonia]]
+[[Category:2014 elections in Europe|Macedonia]]
+[[Category:2014 in the Republic of Macedonia|Presidential election]]
+[[Category:Presidential elections in North Macedonia]]
+[[Category:April 2014 in Europe]]

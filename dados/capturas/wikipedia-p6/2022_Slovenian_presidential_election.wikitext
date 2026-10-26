@@ -1,0 +1,633 @@
+{{Short description|None}}
+{{use dmy dates|date=November 2022}}
+{{Infobox election
+| country = Slovenia
+| election_date = 23 October 2022 (first round)<br />{{nowrap|13 November 2022 (second round)}}
+| previous_year = 2017
+| previous_election = 2017 Slovenian presidential election
+| next_year = 2027
+| next_election = 2027 Slovenian presidential election
+| type = presidential
+| image1 = Nataša Pirc Musar 02 (cropped).jpg
+| nominee1 = '''[[Nataša Pirc Musar]]'''
+| party1 = [[Independent politician|Independent]]{{efn|name=NM22}}
+| popular_vote1 = '''483,812'''
+| percentage1 = '''53.89%'''
+| image2 = 124. seja Vlade RS dr Anže Logar.jpg
+| nominee2 = [[Anže Logar]]
+| party2 = [[Independent politician|Independent]]{{efn|name=AL22}}
+| popular_vote2 = 414,029
+| percentage2 = 46.11%
+| title = [[President of Slovenia|President]]
+| before_party = Independent politician
+| before_election = [[Borut Pahor]]
+| after_party = Independent politician
+| after_election = [[Nataša Pirc Musar]]
+| map_image = 
+| map = {{Switcher
+| [[File:2022 Slovenian Presidential election, 1st round.svg|300px]]
+| First round results by constituency
+| [[File:2022 Slovenian Presidential election, 2nd round.svg|300px]]
+| Second round results by constituency
+| default = 2
+}}
+| colour2 = {{party color|Slovenian Democratic Party}};
+}}{{Politics of Slovenia}}
+
+Presidential elections were held in [[Slovenia]] on 23 October 2022.<ref>{{Cite web|title=Elections: Slovenia President 2022|url=https://www.electionguide.org/elections/id/3814/|access-date=2021-08-29|website=IFES Election Guide}}</ref> Incumbent [[President of Slovenia|President]] [[Borut Pahor]] was ineligible to run for a third consecutive term due to term limits.<ref>{{Cite web |title=President of the Republic of Slovenia |url=https://www.dvk-rs.si/index.php/en/elections/president-of-the-republic-of-slovenia |url-status=dead |archive-url=https://web.archive.org/web/20220118065153/https://www.dvk-rs.si/index.php/en/elections/president-of-the-republic-of-slovenia |archive-date=18 January 2022 |access-date=2021-08-29 |website=State Election Commission}}</ref> 
+
+As no candidate received a majority of the vote, a [[Two-round system|runoff]] between the top two placing candidates, former foreign minister [[Anže Logar]], an [[Slovenian Democratic Party|SDS]] member running as an independent, and independent former [[Information Commissioner]] [[Nataša Pirc Musar]], took place on 13 November 2022. Pirc Musar won the runoff with 53.86% of the vote, becoming the first female president of Slovenia.<ref>{{Cite news |title=Natasa Pirc-Musar wird erste Präsidentin von Slowenien |language=de |work=Neue Zürcher Zeitung |url=https://www.nzz.ch/international/praesidentschaftswahlen-in-slowenien-natasa-pirc-musar-wird-die-erste-frau-im-hoechsten-amt-ld.1712061?reduced=true |access-date=2022-11-13}}</ref><ref>{{Cite web |title=Wahlkommission: Slowenen küren Pirc-Musar zur Präsidentin |url=https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fnews%2F2022-11%2F13%2Fwahlkommission-slowenen-kueren-pirc-musar-zur-praesidentin |access-date=2022-11-13 |website=Zeit}}</ref> 
+
+Logar acknowledged his defeat and congratulated Pirc Musar on her victory.<ref>{{Cite web |title=Wahlkommission: Slowenen küren Pirc-Musar zur Präsidentin |url=https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fnews%2F2022-11%2F13%2Fwahlkommission-slowenen-kueren-pirc-musar-zur-praesidentin |access-date=2022-11-13 |website=Zeit}}</ref>
+
+== Important dates ==
+{| class=wikitable
+! Date
+! Election task
+|-
+| 20 July 2022
+| President of the National Assembly announces elections
+|-
+| 22 August 2022
+| Day the electoral tasks start
+|-
+| 22 September 2022
+| Start of the official campaign
+|-
+| 28 September 2022
+| Deadline for submitting candidacies
+|-
+| 3 October 2022
+| Last day for withdrawing from the candidature
+|-
+| 21 October 2022
+| Start of the electoral silence at midnight
+|-
+| 23 October 2022
+| Election day
+|-
+| 13 November 2022
+| Second round
+|}
+
+== Electoral system ==
+The President of Slovenia is elected using the [[two-round system]]; if no candidate receives a majority of the vote in the first round, the top two candidates contest a runoff.<ref>{{cite web |date=7 August 1992 |title=Zakon o volitvah predsednika republike (ZVPR) |url=http://www.dvk.gov.si/PREDSEDNIK2007/ZVPR.html |accessdate=2008-09-05 |publisher=State Election Commission |language=sl}}</ref>
+
+Under Slovenia's election law, candidates for president are required to meet one of three criteria:
+
+* The support of ten members of the [[National Assembly of Slovenia|National Assembly]]
+* The support of one or more political parties and either three members of the National Assembly or signatures from 3,000 voters
+* Signatures from 5,000 voters
+
+Each political party could support only one candidate.
+
+== Candidates ==
+*'''Nataša Pirc Musar''' is a former president of the [[Slovenian Red Cross]], a prominent human rights lawyer and was head of the data protection agency..<ref name=":2">{{Cite web |last=Stojanovic |first=Dusan |date=14 November 2022 |title=Slovenian president eager to work, gets Melania's congrats |url=https://abcnews.go.com/International/wireStory/slovenian-president-eager-work-melanias-congrats-93286609 |access-date=2022-11-15 |website=ABC News |language=en}}</ref> She stands for a center-left government and a pro-European Union policy.<ref name=":2" /> In view of [[Russo-Ukrainian War]], she believed that Russia broke [[international law]].<ref name=":2" /> Pirc Musar ran as an independent, but her campaign was supported by two former presidents, [[Milan Kučan]] and [[Danilo Türk]]<ref name=":3">{{Cite web |date=2022-11-14 |title=The left-liberal march forward: Pirc Musar is president of Slovenia |url=https://www.osw.waw.pl/en/publikacje/analyses/2022-11-14/left-liberal-march-forward-pirc-musar-president-slovenia |access-date=2022-11-15 |website=OSW Centre for Eastern Studies |language=en}}</ref> as well as the [[Pirate Party (Slovenia)|Pirate party]].<ref name=":3" />  
+
+*'''Anže Logar''' was a longtime member of the [[Slovenian Democratic Party]] (SDS) and a former [[Ministry of Foreign Affairs (Slovenia)|Foreign Minister]]. He chose to officially be an independent candidate which was viewed as a distancing himself from the ousted government.<ref>{{Cite web |last=Maček |first=Sebastijan R. |date=2022-10-24 |title=Former foreign minister wins first round of presidential election |url=https://www.euractiv.com/section/all/short_news/former-foreign-minister-wins-first-round-of-presidential-election/ |access-date=2022-11-15 |website=Euractiv |language=en-GB}}</ref> 
+
+*'''Milan Brglez''' was a candidate of the [[Social Democrats (Slovenia)|Social Democrats]] (SD) supported by the [[Freedom Movement (Slovenia)|Freedom Movement]],<ref>{{Cite web |date=2022-09-22 |title=Freedom Movement to back Brglez in presidential race |url=https://sloveniatimes.com/freedom-movement-to-back-brglez-in-presidential-race/ |access-date=2022-11-15 |website=Slovenia Times |language=en-US}}</ref> and incumbent prime minister [[Robert Golob]].<ref name="LeMonde20221024"/>
+
+===Advanced to runoff===
+{|class="wikitable" style="text-align:center;"
+! colspan="3" | Candidate name, age,<br>political party
+! colspan="2" | Candidate of
+!#
+!Political offices
+!Campaign
+!Registration date
+!Ref.
+|-
+| rowspan="2" style="background:lavender;" |'''[[Anže Logar]]''' ({{age|1976|5|15|df=y}})<br>[[Independent politician|Independent]]
+| rowspan="2" style="background-color:{{party color|Slovenian Democratic Party}};" | 
+| rowspan="2" | [[File:124. seja Vlade RS dr Anže Logar.jpg|80px|Anže Logar]]
+| style="background-color:{{party color|Slovenian Democratic Party}};" | 
+| [[Slovenian Democratic Party|SDS]]
+| rowspan="2" | '''2'''
+| rowspan="2" |
+* Member of the [[National Assembly (Slovenia)|National Assembly]] {{small|(2014–2020)}}
+* [[Ministry of Foreign Affairs (Slovenia)|Minister of Foreign Affairs]] {{small|{{nowrap|(2020–2022)}}}}
+| rowspan="2" |[[File:Logo of the Anže Logar 2022 presidential campaign.png|125px]]<br />([[2022 Anže Logar presidential campaign|Campaign]] • [https://anzelogar.si/ Website])
+| rowspan="2" | {{dts|2022|9|22|format=dmy|abbr=y}}
+| rowspan="2" |
+<ref name="N24-Logar-Announcement">{{Cite web 
+|date=2022-06-28 
+|title=Anže Logar napovedal kandidaturo za predsednika republike 
+|url=https://nova24tv.si/slovenija/politika/anze-logar-napovedal-kandidaturo-za-predsednika-republike/ 
+|access-date=2022-10-19 | website = Nova24TV  |language=sl-SI}}</ref>
+<ref name="N1-Logar-Announcement">{{Cite web 
+|date=2022-07-04 
+|title=Dvakrat je prehodil Camino, zdaj želi stopiti še na predsedniško pot 
+|url=https://n1info.si/novice/slovenija/logar-sklical-novinarsko-konferenco-se-tudi-uradno-podaja-v-predsednisko-tekmo/ 
+|access-date=2022-10-19 |website=N1 |language=sl-SI}}</ref>
+<ref name="N1-Logar-signatories">{{Cite web
+|date=2022-09-21
+|title=Tudi Logar vložil kandidaturo, zbral je skoraj 13 tisoč podpisov
+|url=https://n1info.si/novice/slovenija/tudi-logar-vlozil-kandidaturo-pravi-da-je-zbral-skoraj-13-tisoc-podpisov/
+|access-date=2022-10-19 |website=N1 |language=sl-SI}}</ref>
+<ref name="N1-Logar-Independent">{{Cite web
+|date=2022-09-13
+|title=Anže Logar na predsedniške volitve kot neodvisni kandidat
+|url=https://n1info.si/novice/slovenija/anze-logar-na-predsedniske-volitve-kot-neodvisni-kandidat/
+|access-date=2022-10-19 |website=N1 |language=sl-SI}}</ref>
+<ref name="rtv-Logar-SLS">{{Cite web
+|title=SLS želi na predsedniškem stolčku Anžeta Logarja
+|url=https://www.rtvslo.si/slovenija/predsedniske-volitve-2022/sls-zeli-na-predsedniskem-stolcku-anzeta-logarja/642927
+|access-date=2022-10-19 |website=rtvslo.si |language=sl}}</ref>
+|-
+| style="background-color:{{party color|Slovenian People's Party}};" | 
+|[[Slovenian People's Party|SLS]]
+|-
+| rowspan="2" style="background:lavender;" |'''[[Nataša Pirc Musar]]''' ({{age|1968|5|9|df=y}})<br>[[Independent politician|Independent]]
+| rowspan="2" style="background-color:{{party color|Independent politician}};" | 
+| rowspan="2" | [[File:Nataša Pirc Musar 02 (cropped).jpg|80px|Nataša Pirc Musar]]
+| style="background-color:{{party color|Pirate Party (Slovenia)}};" | 
+| [[Pirate Party (Slovenia)|Pirati]]
+| rowspan="2" | '''5'''
+| rowspan="2" |
+* Information Commissioner {{small|{{nowrap|(2004–2014)}}}}
+* President of the [[Slovenian Red Cross]] {{small|{{nowrap|(2015–2016)}}}}
+| rowspan="2" |[[File:Logo of the 2022 Nataša Pirc Musar presidential campaign.svg|125px]]<br />([[2022 Nataša Pirc Musar presidential campaign|Campaign]] • [https://predsednica.bo/ Website])
+| rowspan="2" | {{dts|2022|9|22|format=dmy|abbr=y}}
+| rowspan="2" | <ref name="N1-Musar-Announcement">{{Cite web 
+|date=2022-06-23 
+|title=Pirc Musar kandidira za predsednico, med podporniki tudi Kučan in Türk 
+|url=https://n1info.si/novice/slovenija/natasa-pirc-musar-o-predsedniski-kandidaturi/ 
+|access-date=2022-10-19 |website=N1 |language=sl-SI}}</ref>
+<ref name="rtv-Who-has-enough-signatories">{{Cite web 
+|title=Kateri predsedniški kandidati so do zdaj zbrali dovolj podpisov? 
+|url=https://www.rtvslo.si/slovenija/kateri-predsedniski-kandidati-so-do-zdaj-zbrali-dovolj-podpisov/640168 
+|access-date=2022-10-19 |website=RTV |language=sl}}</ref>
+<ref name="siol-Musar">{{Cite web 
+|title=Pirc Musarjeva: Ne želim udarcev pod pasom in napadov po naročilu #video 
+|url=https://siol.net/novice/slovenija/v-boj-uradno-tudi-pirc-musarjeva-588449 
+|access-date=2022-10-19 |website=siol.net |language=sl}}</ref>
+|-
+| style="background-color:{{party color|Youth Party – European Greens}};" | 
+|[[Youth Party – European Greens|SMS–Z]]
+|}
+
+===Did not advance to runoff===
+{|class="wikitable" style="text-align:center;"
+! colspan="3" | Candidate name, age,<br>political party
+! colspan="2" | Candidate of
+!No.
+!Political offices
+!Campaign
+!Registration date
+!Ref.
+|-
+| rowspan="2" style="background:lavender;" |'''[[Milan Brglez]]''' ({{age|1967|9|1|df=y}})<br>[[Social Democrats (Slovenia)|SD]]
+| rowspan="2" style="background-color:{{party color|Social Democrats (Slovenia)}};" | 
+| rowspan="2" | [[File:Slovēnijas Nacionālās asamblejas prezidenta vizīte Latvijā (32883421163)-1 cropped (cropped).jpg|80px|Milan Brglez]]
+| style="background-color:{{party color|Social Democrats (Slovenia)}};" | 
+| [[Social Democrats (Slovenia)|SD]]
+| rowspan="2" | '''1'''
+| rowspan="2" |
+* Speaker of the [[National Assembly (Slovenia)|National Assembly]] {{small|(2014–2018)}}
+* Member of the [[European Parliament]] {{small|(2019–present)}}
+| rowspan="2" |[[File:Logo of the 2022 Milan Brglez presidential campaign.svg|75px]]<br />([[2022 Milan Brglez presidential campaign|Campaign]] • [https://www.milanbrglez.si/ Website])
+| rowspan="2" | {{dts|2022|9|29|format=dmy|abbr=y}}
+| rowspan="2" |<ref>{{Cite web |date=2022-09-15 |title=Kaj odločitev Gibanja Svoboda o podpori neodvisnemu kandidatu pomeni za Brgleza? |url=https://n1info.si/novice/slovenija/v-sd-soglasno-potrdili-brglezovo-kandidaturo/ |access-date=2022-10-19 |website=N1 |language=sl-SI}}</ref>{{wbr}}<ref>{{Cite web |title=Vsak dan prvi - 24ur.com |url=https://www.24ur.com/novice/slovenija/milan-brglez-bo-skupni-kandidat-gibanja-svoboda-in-sd.html |access-date=2022-10-19 |website=www.24ur.com}}</ref>
+|-
+| style="background-color:{{party color|Freedom Movement (Slovenia)}};" | 
+|[[Freedom Movement (Slovenia)|GS]]
+|-
+| style="background:lavender;" |'''[[Janez Cigler Kralj]]''' ({{age|1978|12|28|df=y}})<br>[[New Slovenia|N.Si]]
+| style="background-color:{{party color|New Slovenia}};" | 
+| [[File:Obisk Vlade RS v Zasavju Cigler Kralj (cropped).jpg|80px|Janez Cigler Kralj]]
+| style="background-color:{{party color|New Slovenia}};" | 
+| [[New Slovenia|N.Si]]
+| '''3'''
+|
+* Minister of Labour {{small|(2020–2022)}}
+* Member of the [[National Assembly (Slovenia)|National Assembly]] {{small|(2022–present)}}
+|[[File:Logo of the 2022 Janez Cigler Kralj presidential campaign.png|125px]]<br />([[2022 Janez Cigler Kralj presidential campaign|Campaign]] • [https://anzelogar.si/ Website])
+| {{dts|2022|9|22|format=dmy|abbr=y}}
+|<ref>{{Cite web |title=Vsak dan prvi - 24ur.com |url=https://www.24ur.com/novice/slovenija/novakova-se-v-predsednisko-tekmo-ne-bo-podala.html |access-date=2022-10-19 |website=www.24ur.com}}</ref>{{wbr}}<ref>{{Cite web |title=Cigler Kralj kandidira, ker "ima ljudi in Slovenijo preprosto rad" |url=https://www.rtvslo.si/slovenija/cigler-kralj-kandidira-ker-ima-ljudi-in-slovenijo-preprosto-rad/639937 |access-date=2022-10-19 |website=RTV |language=sl}}</ref>{{wbr}}<ref>{{Cite web |date=2022-09-13 |title=Bezenšek prvi vložil predsedniško kandidaturo: "Resnično sem neodvisen kandidat" |url=https://n1info.si/novice/slovenija/bezensek-prvi-vlozil-predsednisko-kandidaturo-sem-resnicno-neodvisen-kandidat/ |access-date=2022-10-19 |website=N1 |language=sl-SI}}</ref>
+|-
+| style="background:lavender;" |'''[[Miha Kordiš]]''' ({{age|1989|3|6|df=y}})<br>[[The Left (Slovenia)|Levica]]
+| style="background-color:{{party color|The Left (Slovenia)}};" | 
+| [[File:Miha Kordiš.jpg|80px|Miha Kordiš]]
+| style="background-color:{{party color|The Left (Slovenia)}};" | 
+| [[The Left (Slovenia)|Levica]]
+| '''4'''
+|
+* Member of the [[National Assembly (Slovenia)|National Assembly]] {{small|(2014–present)}}
+|[[File:Logo of the Miha Kordiš 2022 presidential campaign.png|125px]]<br />([[2022 Miha Kordiš presidential campaign|Campaign]])
+| {{dts|2022|9|29|format=dmy|abbr=y}}
+|<ref>{{Cite web |date=2022-09-21 |title=Levica v predsedniški tekmi stavi na Miho Kordiša |url=https://n1info.si/novice/slovenija/levica-v-predsedniski-tekmi-stavi-na-miho-kordisa/ |access-date=2022-10-19 |website=N1 |language=sl-SI}}</ref>{{wbr}}<ref>{{Cite web |date=2022-09-26 |title=Kordiš ob vložitvi kandidature opozoril na pomen družbene solidarnosti |url=https://n1info.si/novice/slovenija/kordis-ob-vlozitvi-kandidature-opozoril-na-pomen-druzbene-solidarnosti/ |access-date=2022-10-19 |website=N1 |language=sl-SI}}</ref>
+|-
+| style="background:lavender;" |'''[[Vladimir Prebilič]]''' ({{age|1974|5|21|df=y}})<br>[[Independent politician|Independent]]
+| style="background-color:{{party color|Independent politician}};" | 
+| [[File:25. obletnica prvega postroja Slovenske vojske v Kočevski Reki 06 (cropped) (cropped).jpg|80px|Vladimir Prebilič]]
+| style="background-color:#00A65E;" | 
+| [[Vesna – Green Party|Vesna]]
+| '''6'''
+|
+* Mayor of [[Kočevje]] {{small|(2010–present)}}
+* Professor (defence studies)
+|[[File:Logo of the Vladimir Prebilič 2022 presidential campaign.png|125px]]<br />([[2022 Vladimir Prebilič presidential campaign|Campaign]] • [https://prebilic.si/ Website])
+| {{dts|2022|9|22|format=dmy|abbr=y}}
+|<ref>{{Cite web |title=Za predsednika republike bo kandidiral tudi kočevski župan Vladimir Prebilič |url=https://www.rtvslo.si/slovenija/za-predsednika-republike-bo-kandidiral-tudi-kocevski-zupan-vladimir-prebilic/632858 |access-date=2022-10-19 |website=RTV |language=sl}}</ref>{{wbr}}<ref>{{Cite web |date=2022-07-07 |title=Prebiliča pri predsedniški kandidaturi podpira 45 županov |url=https://n1info.si/novice/slovenija/kocevski-zupan-vladimir-prebilic-na-predsedniske-volitve-s-podpisi-volilcev/ |access-date=2022-10-19 |website=N1 |language=sl-SI}}</ref>{{wbr}}<ref>{{Cite web |title=Prebilič dobil dovolj podpisov, pa tudi podporo stranke Vesna |url=https://www.rtvslo.si/slovenija/prebilic-dobil-dovolj-podpisov-pa-tudi-podporo-stranke-vesna/639418 |access-date=2022-10-19 |website=RTV |language=sl}}</ref>{{wbr}}<ref>{{Cite web |title=Vladimir Prebilič se v predsedniško kampanjo podaja s podporo stranke Vesna |url=https://www.rtvslo.si/slovenija/vladimir-prebilic-se-v-predsednisko-kampanjo-podaja-s-podporo-stranke-vesna/640994 |access-date=2022-10-19 |website=RTV |language=sl}}</ref>
+|-
+| rowspan="2" style="background:lavender;" |'''[[Sabina Senčar]]''' ({{age|1970|6|13|df=y}})<br>[[Resni.ca]]
+| rowspan="2" style="background-color:{{party color|Resni.ca}};" | 
+| rowspan="2" | [[File:Sabina Senčar (cropped).jpg|80px|Sabina Senčar]]
+| style="background-color:{{party color|Resni.ca}};" | 
+| [[Resni.ca]]
+| rowspan="2" | '''7'''
+| rowspan="2" | 
+* ''None'' (gynaecologist)
+| rowspan="2" |[[File:Logo of the 2022 Sabina Senčar presidential campaign.png|75px]]<br />([[2022 Sabina Senčar presidential campaign|Campaign]] • [https://sabinasencar.si/ Website])
+| rowspan="2" | {{dts|2022|9|29|format=dmy|abbr=y}}
+| rowspan="2" |<ref>{{Cite web |title=Sabina Senčar ob napovedi predsedniške kandidature kritična do načina spopadanja z epidemijo |url=https://www.rtvslo.si/slovenija/sabina-sencar-ob-napovedi-predsedniske-kandidature-kriticna-do-nacina-spopadanja-z-epidemijo/636822 |access-date=2022-10-19 |website=RTV |language=sl}}</ref>{{wbr}}<ref>{{Cite web |date=2022-09-26 |title=Tudi Sabina Senčar zbrala dovolj podpisov podpore |url=https://n1info.si/novice/slovenija/tudi-sabina-sencar-zbrala-dovolj-podpisov-podpore/ |access-date=2022-10-19 |website=N1 |language=sl-SI}}</ref>{{wbr}}<ref>{{Cite web |title=Sabina Senčar vložila kandidaturo za predsednico države: zavzemala se bo za brezčasne vrednote |url=https://www.rtvslo.si/slovenija/sabina-sencar-vlozila-kandidaturo-za-predsednico-drzave-zavzemala-se-bo-za-brezcasne-vrednote/641824 |access-date=2022-10-19 |website=RTV |language=sl}}</ref>
+|-
+| style="background-color:#014E7A;" | 
+|[[For the People of Slovenia|ZLS]]
+|-
+|}
+
+==Opinion polls==
+===Graph===
+[[File:2022 Slovenian presidential election opinion polling graphical.jpg|thumb|Graphical summary of the polling for the first round]]
+[[File:2022 Slovenian presidential election opinion polling graphical (2).jpg|thumb|Graphical summary of the polling for the second round]]
+
+===First round===
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="3"| Polling firm
+! rowspan="3"| Fieldwork date
+! rowspan="3"| Sample<br>size
+! class="unsortable" | [[File:Slovēnijas Nacionālās asamblejas prezidenta vizīte Latvijā (32883421163)-1 cropped.jpg|50x100px]]
+! class="unsortable" | [[File:124. seja Vlade RS dr Anže Logar.jpg|50x100px]]
+! class="unsortable" | [[File:Obisk Vlade RS v Zasavju Cigler Kralj (cropped).jpg|50x100px]]
+! class="unsortable" | [[File:Miha Kordiš.jpg|50x100px]]
+! class="unsortable" | [[File:PircMusar2022 (cropped).png|50x100px]]
+! class="unsortable" | [[File:25. obletnica prvega postroja Slovenske vojske v Kočevski Reki 06 (cropped) (cropped).jpg|50x100px]]
+! class="unsortable" | [[File:Sabina Senčar (cropped).jpg|50x100px]]
+! rowspan="3"| Undecided
+! rowspan="3"| Abstain
+! rowspan="3" class="unsortable" style="width:50px;"| Lead
+|-
+! class="unsortable" style="width:50px;"| [[Milan Brglez|Brglez]]<br>{{small|[[Social Democrats (Slovenia)|SD]]}}
+! class="unsortable" style="width:50px;"| [[Anže Logar|Logar]]<br>{{small|[[Independent politician|Ind.]]}}
+! class="unsortable" style="width:50px;"| [[Janez Cigler Kralj|Cigler Kralj]]<br>{{small|[[New Slovenia|N.Si]]}}
+! class="unsortable" style="width:50px;"| [[Miha Kordiš|Kordiš]]<br>{{small|[[The Left (Slovenia)|Levica]]}}
+! class="unsortable" style="width:50px;"| [[Nataša Pirc Musar|Pirc Musar]]<br>{{small|[[Independent politician|Ind.]]}}
+! class="unsortable" style="width:50px;"| [[Vladimir Prebilič|Prebilič]]<br>{{small|[[Independent politician|Ind.]]}}
+! class="unsortable" style="width:50px;"| Senčar<br>{{small|[[Resni.ca]]}}
+|-
+! style="background:{{party color|Social Democrats (Slovenia)}};"|
+! style="background:{{party color|Slovenian Democratic Party}};"|
+! style="background:{{party color|New Slovenia}};"|
+! style="background:{{party color|The Left (Slovenia)}};"|
+! style="background:{{party color|Independent}};"|
+! style="background:{{party color|Independent}};"|
+! style="background:{{party color|Resni.ca}};"|
+|- style="background:#D5D5D5;"
+|Election results
+|23 October 2022
+|—
+|15.5
+| bgcolor=#FEEF81| '''34.0'''
+|4.4
+|2.8
+| bgcolor=#E8E8E8| 26.9
+|10.6
+|5.9
+|—
+|—
+| bgcolor={{party color|Slovenian Democratic Party}}| '''7.1'''
+|-
+| [https://www.rtvslo.si/slovenija/predsedniske-volitve-2022/v-prvem-krogu-bo-najverjetneje-slavil-anze-logar-v-drugem-se-zmaga-obeta-natasi-pirc-musar/644587 Valicon/RTV Slovenija]
+| 18–21 Oct 2022
+| 1,989
+| 12.3
+| bgcolor=#FEEF81| '''24.8'''
+| 5.0
+| 5.1
+| bgcolor=#E8E8E8| 21.4
+| 6.2
+| 7.2
+| 8.6
+| 6.2
+| bgcolor={{party color|Slovenian Democratic Party}}| '''3.4'''
+|-
+| [https://www.24ur.com/novice/volitve/predsedniske-volitve-2022/mediana.html Mediana/POP TV/Delo]
+| 17–19 Oct 2022
+| 824
+| 17.3
+| bgcolor=#FEEF81| '''30.1'''
+| 6.6
+| 5.4
+| bgcolor=#E8E8E8| 20.5
+| 10.7
+| 4.0
+| 2.4
+| 0.7
+| bgcolor={{party color|Slovenian Democratic Party}}| '''9.6'''
+|-
+| [https://nova24tv.si/slovenija/politika/javnomnenjska-anketa-predvideva-visoka-udelezba-na-predsedniskih-volitvah-favorit-je-dr-anze-logar-medtem-ko-pirc-musarjevi-podpora-upada/ Parsifal/Nova24TV]
+| 10–14 Oct 2022
+| 705
+| 10.7
+| bgcolor=#FEEF81| '''27.1'''
+| 4.0
+| 2.9
+| bgcolor=#E8E8E8| 19.9
+| 3.2
+| 4.8
+| 16.8
+| 5.2
+| bgcolor={{party color|Slovenian Democratic Party}}| '''7.2'''
+|-
+| [https://siol.net/novice/slovenija/logar-dalec-pred-vsemi-bo-brglez-prehitel-pirc-musarjevo-590198 Ninamedia/Večer/Dnevnik]
+| 10–13 Oct 2022
+| 1,000
+| 18.6
+| bgcolor=#FEEF81| '''31.7'''
+| 3.6
+| 2.2
+| bgcolor=#E8E8E8| 19.8
+| 3.1
+| 3.3
+| –
+| –
+| bgcolor={{party color|Slovenian Democratic Party}}| '''11.9'''
+|-
+| [https://www.24ur.com/novice/volitve/predsedniske-volitve-2022/mediana-logar-s-stabilno-podporo-in-v-vodstvu-sledi-mu-pirc-musarjeva.html Mediana/Delo/POP TV]
+| 3–6 Oct 2022
+| 719
+| 15.3
+| bgcolor=#FEEF81| '''23.6'''
+| 4.2
+| 4.9
+| bgcolor=#E8E8E8| 20.4
+| 4.6
+| 6.0
+| 13.6
+| 1.2
+| bgcolor={{party color|Slovenian Democratic Party}}| '''3.2'''
+|-
+| [https://www.rtvslo.si/slovenija/valicon-v-predsedniski-tekmi-trenutno-vodijo-anze-logar-natasa-pirc-musar-in-milan-brglez/642219 Valicon/RTV Slovenija]
+| 28–30 Sep 2022
+| 1,547
+| 12.1
+| bgcolor=#FEEF81| '''21.5'''
+| 3.8
+| 3.7
+| bgcolor=#E8E8E8| 19.7
+| 4.6
+| 4.2
+| 15.7
+| 8.7
+| bgcolor={{party color|Slovenian Democratic Party}}| '''1.8'''
+|-
+| [https://siol.net/novice/slovenija/ninamedia-tokrat-bi-logar-slavil-v-prvem-krogu-v-drugem-ne-589167 Ninamedia/Dnevnik/Večer]
+| 28–29 Sep 2022
+| 1,000
+| 18.9
+| bgcolor=#FEEF81| '''28.2'''
+| 3.3
+| 1.6
+| bgcolor=#E8E8E8| 23.6
+| 4.6
+| 2.9
+| 16.6
+| –
+| bgcolor={{party color|Slovenian Democratic Party}}| '''4.6'''
+|-
+| [https://www.mladina.si/219507/mi-vas-volimo/ Ninamedia/Mladina]
+| 27 Sep 2022
+| 500
+| 18.9
+| bgcolor=#FEEF81| '''27.3'''
+| 1.4
+| 1.6
+| bgcolor=#E8E8E8| 23.3
+| 2.3
+| 1.2
+| 21.7
+| 1.6
+| bgcolor={{party color|Slovenian Democratic Party}}| '''4.0'''
+|}
+
+===Second round===
+{| class="wikitable sortable tpl-blanktable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="3"| Polling firm
+! rowspan="3"| Fieldwork date
+! rowspan="3"| Sample<br>size
+! class="unsortable" | [[File:124. seja Vlade RS dr Anže Logar.jpg|50x100px]]
+! class="unsortable" | [[File:PircMusar2022 (cropped).png|50x100px]]
+! class="unsortable" rowspan="3"|
+! class="unsortable" | [[File:124. seja Vlade RS dr Anže Logar.jpg|50x100px]]
+! class="unsortable" | [[File:Slovēnijas Nacionālās asamblejas prezidenta vizīte Latvijā (32883421163)-1 cropped.jpg|50x100px]]
+! class="unsortable" rowspan="3"|
+! class="unsortable" | [[File:PircMusar2022 (cropped).png|50x100px]]
+! class="unsortable" | [[File:Slovēnijas Nacionālās asamblejas prezidenta vizīte Latvijā (32883421163)-1 cropped.jpg|50x100px]]
+|-
+! class="unsortable" style="width:50px;"| [[Anže Logar|Logar]]<br>{{small|[[Independent politician|Ind.]]}}
+! class="unsortable" style="width:50px;"| [[Nataša Pirc Musar|Pirc Musar]]<br>{{small|[[Independent politician|Ind.]]}}
+! class="unsortable" style="width:50px;"| [[Anže Logar|Logar]]<br>{{small|[[Independent politician|Ind.]]}}
+! class="unsortable" style="width:50px;"| [[Milan Brglez|Brglez]]<br>{{small|[[Social Democrats (Slovenia)|SD]]}}
+! class="unsortable" style="width:50px;"| [[Nataša Pirc Musar|Pirc Musar]]<br>{{small|[[Independent politician|Ind.]]}}
+! class="unsortable" style="width:50px;"| [[Milan Brglez|Brglez]]<br>{{small|[[Social Democrats (Slovenia)|SD]]}}
+|-
+! style="background:{{party color|Slovenian Democratic Party}};"|
+! style="background:{{party color|Independent}};"|
+! style="background:{{party color|Slovenian Democratic Party}};"|
+! style="background:{{party color|Social Democrats (Slovenia)}};"|
+! style="background:{{party color|Independent}};"|
+! style="background:{{party color|Social Democrats (Slovenia)}};"|
+|-
+|[https://www.rtvslo.si/slovenija/predsedniske-volitve-2022/javnomnenjska-raziskava-kaze-da-bomo-najverjetneje-dobili-prvo-predsednico-republike/646994 Valicon/RTV Slovenija]
+|9–11 Nov 2022
+|1860
+|44.0
+|bgcolor=#E8E8E8|'''56.0'''
+|
+| colspan="2" |–
+|
+| colspan="2" |–
+|-
+|[https://www.24ur.com/novice/volitve/predsedniske-volitve-2022/ninamedia-logar-tesno-za-petami-pirc-musarjevi.html Ninamedia/Dnevnik/Večer]
+|7–10 Nov 2022
+|1150
+|48.8
+|bgcolor=#E8E8E8|'''51.2'''
+|
+| colspan="2" |–
+|
+| colspan="2" |–
+|-
+|[https://www.24ur.com/novice/volitve/predsedniske-volitve-2022/zadnja-javnomnenjska-raziskava-pred-volilnim-molkom.html Mediana/POP TV/Delo]
+|7–9 Nov 2022
+|718
+|44.6
+|bgcolor=#E8E8E8|'''51.7'''
+|
+| colspan="2" |–
+|
+| colspan="2" |–
+|-
+|[https://www.rtvslo.si/slovenija/valicon-na-referendumih-vecina-za-sprejetje-vladnih-zakonov-na-volitvah-pa-za-nataso-pirc-musar/646208 Valicon/RTV Slovenija]
+|2–4 Nov 2022
+|1,019
+|34.2
+|bgcolor=#E8E8E8|'''43.5'''
+|
+| colspan="2" |–
+|
+| colspan="2" |–
+|-
+|[https://n1info.si/novice/slovenija/objavljena-raziskava-ninamedie-pred-drugim-krogom-komu-se-obeta-zmaga/ Ninamedia/Mladina]
+|27–29 Oct 2022
+|700
+|38.7
+|bgcolor=#E8E8E8|'''61.3'''
+|
+| colspan="2" |–
+|
+| colspan="2" |–
+|-
+| [https://www.rtvslo.si/slovenija/predsedniske-volitve-2022/v-prvem-krogu-bo-najverjetneje-slavil-anze-logar-v-drugem-se-zmaga-obeta-natasi-pirc-musar/644587 Valicon/RTV Slovenija]
+| 18–21 Oct 2022
+| 1,989
+| 36.5
+| bgcolor=#E8E8E8| '''42.5'''
+|
+| bgcolor=#FEEF81| '''39.0'''
+| 37.4
+|
+| bgcolor=#E8E8E8| '''36.1'''
+| 30.2
+|-
+| [https://www.24ur.com/novice/volitve/predsedniske-volitve-2022/mediana.html Mediana/POP TV/Delo]
+| 17–19 Oct 2022
+| 824
+| 42.4
+| bgcolor=#E8E8E8| '''44.4'''
+|
+| bgcolor=#FEEF81| '''45.2'''
+| 43.7
+|
+| 34.4
+| bgcolor=#F18188| '''38.3'''
+|-
+| [https://nova24tv.si/slovenija/politika/javnomnenjska-anketa-predvideva-visoka-udelezba-na-predsedniskih-volitvah-favorit-je-dr-anze-logar-medtem-ko-pirc-musarjevi-podpora-upada/ Parsifal/Nova24TV]
+| 10–14 Oct 2022
+| 705
+| bgcolor=#FEEF81| '''49.2'''
+| 45.1
+|
+| bgcolor=#FEEF81| '''50.2'''
+| 40.5
+|
+| colspan=2| –
+|-
+| [https://siol.net/novice/slovenija/logar-dalec-pred-vsemi-bo-brglez-prehitel-pirc-musarjevo-590198 Ninamedia/Večer/Dnevnik]
+| 10–13 Oct 2022
+| 1,000
+| bgcolor=#FEEF81| '''39.6'''
+| 37.3
+|
+| bgcolor=#FEEF81| '''41.3'''
+| 33.6
+|
+| colspan=2| –
+|-
+|-
+| [https://www.rtvslo.si/slovenija/valicon-v-predsedniski-tekmi-trenutno-vodijo-anze-logar-natasa-pirc-musar-in-milan-brglez/642219 Valicon/RTV Slovenija]
+| 29–30 Sep 2022
+| 1,547
+| 33.9
+| bgcolor=#E8E8E8| '''40.7'''
+|
+| bgcolor=#FEEF81| '''37.0'''
+| 32.0
+|
+| bgcolor=#E8E8E8| '''33.7'''
+| 29.4
+|-
+| [https://siol.net/novice/slovenija/ninamedia-tokrat-bi-logar-slavil-v-prvem-krogu-v-drugem-ne-589167 Ninamedia/Dnevnik/Večer]
+| 28–29 Sep 2022
+| 1,000
+| 40.8
+| bgcolor=#E8E8E8| '''41.6'''
+|
+| 41.7
+| bgcolor=#F18188| '''44.4'''
+|
+| bgcolor=#E8E8E8| '''37.0'''
+| 33.7
+|}
+
+==Results==
+In the first round [[Anže Logar]] received 34% of the voter share against 27% for [[Nataša Pirc Musar]].<ref name="LeMonde20221024">{{Cite news |date=2022-10-24 |title=Slovenia: Conservative Anze Logar leads first round of presidential election |language=en |work=Le Monde|url=https://www.lemonde.fr/en/international/article/2022/10/24/slovenia-conservative-anze-logar-leads-the-first-round-of-the-presidential-election-ahead-of-natasa-pirc-musar_6001508_4.html |access-date=2022-11-13}}</ref>  [[Milan Brglez]] was third with around 15%.<ref name="LeMonde20221024" /> For the second round Golob then turned his support to Pirc Musar.<ref name="LeMonde20221024" /> 
+
+In the run-off, independent Pirc Musar was expected to win since August 2022.<ref>{{Cite web |last=Maček |first=Sebastijan R. |date=2022-08-23 |title=Former information commissioner top contender in Slovenia's presidential race |url=https://www.euractiv.com/section/politics/short_news/former-information-commissioner-top-contender-in-slovenias-presidential-race/ |access-date=2022-11-13 |website=www.euractiv.com |language=en-GB}}</ref> Logar also ran as an independent, but was a member of the [[Slovenian Democratic Party]] (SDS), which lost [[2022 Slovenian parliamentary election|parliamentary elections six months prior]].<ref name=":1">{{Cite news |date=2022-11-13 |title=Slovenia elects Natasa Pirc Musar to become first female president |language=en |work=Le Monde.fr |url=https://www.lemonde.fr/en/elections/article/2022/11/13/slovenia-elects-natasa-pirc-musar-to-become-first-female-president_6004144_84.html |access-date=2022-11-13}}</ref> Logar was therefore associated with Janša, who was accused with attempting to restrict the freedom of expression and undermine the independence of the judiciary during his term in office.<ref name=":1" />
+
+In the evening of 13 November 2022, the electoral commission reported that Pirc Musar won with nearly 54% of the vote, after which Logar conceded defeat and congratulated Pirc Musar on her victory.<ref>{{Cite web |date=13 November 2022 |title=Rechtsanwältin Pirc-Musar wird Präsidentin Sloweniens |url=https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Fnews%2F2022-11%2F13%2Fwahlkommission-slowenen-kueren-pirc-musar-zur-praesidentin |access-date=2022-11-13 |website=[[Die Zeit]]}}</ref> Pirc Musar will become Slovenia's first female president, commander-in-chief of the [[Slovenian Ground Force|Slovenian Army]] and also be responsible for appointing the head of the [[Bank of Slovenia|Central Bank of Slovenia]].<ref>{{Cite news |last=Wright |first=George |date=2022-11-13 |title=Natasa Pirc Musar: Slovenia elects lawyer as first female president |language=en-GB |work=[[BBC News]] |url=https://www.bbc.com/news/world-europe-63619160 |access-date=2022-11-15}}</ref>
+
+{{Election results
+| cand1       = [[Anže Logar]]
+| color1      = {{party color|Slovenian Democratic Party}}
+| party1      = Independent{{efn
+ | name=AL22
+ | Endorsed by the [[Slovenian Democratic Party|SDS]]<ref name="N1-Logar-signatories" /> and the [[Slovenian People's Party|SLS]].<ref name="rtv-Logar-SLS" />
+}}
+| votes1      = 296000
+| votes1_2    = 414029
+
+| cand2       = [[Nataša Pirc Musar]]
+| color2      = {{party color|Independent politician}}
+| party2      = Independent{{efn
+ | name=NM22
+ | Endorsed by the [[Pirate Party (Slovenia)|Pirati]] and the [[Youth Party – European Greens|SMS-Z]].<ref name="rtv-Who-has-enough-signatories" />
+}}
+| votes2      = 234361
+| votes2_2    = 483812
+
+| cand3       = [[Milan Brglez]]
+| party3      = [[Social Democrats (Slovenia)|Social Democrats]]
+| votes3      = 134726
+
+| cand4       = [[Vladimir Prebilič]]
+| party4      = Independent
+| votes4      = 92456
+
+| cand5       = {{ill|Sabina Senčar|sl}}
+| party5      = [[Resni.ca]]
+| votes5      = 51767
+
+| cand6       = [[Janez Cigler Kralj]]
+| party6      = [[New Slovenia]]
+| votes6      = 38113
+
+| cand7       = [[Miha Kordiš]]
+| party7      = [[The Left (Slovenia)|The Left]]
+| votes7      = 24518
+
+| invalid     = 4625
+| invalid2    = 10224
+| electorate  = 1694437
+| electorate2 = 1694373
+
+| source = [https://volitve.dvk-rs.si/vp2022/en/#/rezultati Volitve]
+}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+{{Slovenian elections}}
+
+[[Category:Presidential elections in Slovenia]]
+[[Category:2022 in Slovenia|Presidential]]
+[[Category:2022 elections in Slovenia|Slovenia]]
+[[Category:October 2022 in Europe|Slovenia]]
+[[Category:October 2022 elections]]

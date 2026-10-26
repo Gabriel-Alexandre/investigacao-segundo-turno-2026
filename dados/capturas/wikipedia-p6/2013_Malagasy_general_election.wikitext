@@ -1,0 +1,470 @@
+{{Short description|none}}
+{{Use British English|date=November 2013}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox election
+| country = Madagascar
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 25 October 2013 (first round)<br/>{{nowrap|20 December 2013 (second round)}}
+| previous_election = 2006 Malagasy presidential election
+| previous_year = 2006
+| next_election = 2018 Malagasy presidential election
+| next_year = 2018
+| turnout = 61.76% (first round)<br/>50.72% (second round)
+
+| image1 = Hery Rajaonarimampianina 2014.jpg
+| nominee1 = '''[[Hery Rajaonarimampianina]]'''
+| party1 = [[Hery Vaovao ho an'i Madagasikara|HVM]]
+| popular_vote1 = '''2,060,124'''
+| colour1 = 204D7B
+| percentage1 = '''53.49%'''
+| image2 = 3x4.svg
+| nominee2 = [[Jean Louis Robinson]]
+| party2 = [[AVANA]]
+| popular_vote2 = 1,791,336
+| colour2 = B0E0E6
+| percentage2 = 46.51%
+
+| map_image = 2013 Madagascar Presidential Election Results.svg
+| map_size  = 150px
+| map_caption = Results by region<br/>'''Rajaonarimampianina''': {{legend0|#8d9be2|50–60%}} {{legend0|#677ad7|60–70%}} {{legend0|#4158cd|70–80%}}<br/>'''Robinson''': {{legend0|#7bc7ae|50–60%}} {{legend0|#4ab390|60–70%}} {{legend0|#0fa070|70–80%}}
+
+| title = President
+| before_election = [[Andry Rajoelina]]
+| before_party = Independent
+| after_election = [[Hery Rajaonarimampianina]]
+| after_party = [[Hery Vaovao ho an'i Madagasikara|HVM]]
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = National Assembly
+| election_date = 20 December 2013
+| previous_election  = [[2007 Malagasy parliamentary election|2007]] | next_election = [[2019 Malagasy parliamentary election|2019]]
+| seats_for_election = 151 seats in the [[National Assembly (Madagascar)|National Assembly]]
+| majority_seats = 76
+| noleader = 
+| first_election = yes
+
+| party1 =[[Young Malagasies Determined|MAPAR]] |leader1 = [[Andry Rajoelina]]| percentage1 =17.33 | seats1 = 49
+| party2 = Ravalomanana&nbsp;Movement |leader2 = [[Marc Ravalomanana]]| percentage2 =10.75 | seats2 = 19
+| party3 =[[Vondrona Politika|VPM MMM]] |leader3 = {{ill|Hajo&nbsp;Andrianainarivelo|fr}} | percentage3 =8.29 | seats3 = 14
+| party4 =[[Madagascar Green Party|Green]] | percentage4 =3.56 | seats4 = 2
+| party5 =[[Parti Hiaraka Isika|Hiaraka Isika]] | percentage5 =3.34 | seats5 = 5
+| party6 =[[Economic Liberalism and Democratic Action for National Recovery|LEADER-Fanilo]] | percentage6 =2.81 | seats6 = 5
+| party7 =[[National Unity, Freedom & Development|FFF]] | percentage7 =1.73 | seats7 = 2
+| party8 =[[Pillar of Madagascar]] | percentage8 =0.98 | seats8 = 2
+| party9 =Trano Kasaka | percentage9 =0.56 | seats9 = 2
+| party10 =Sambofiaran'i Noé | percentage10 =0.35 | seats10 = 2
+| party11 =Parties with one seat | percentage11 =12.08 | seats11 = 20 | party11_link = no
+| party12 =Independent | percentage12 =17.20 | seats12 = 25
+
+| title = [[Prime Minister of Madagascar|Prime Minister]]
+| before_election = [[Jean Omer Beriziky]]
+| before_party = Independent
+| after_election = [[Jean Omer Beriziky]]
+| after_party = Independent
+
+}}
+}}}}{{Politics of Madagascar}}
+
+General elections were held in [[Madagascar]] on 20 December 2013, following a first round of presidential elections on 25 October. The presidential elections in December were a runoff between [[Jean Louis Robinson]] and [[Hery Rajaonarimampianina]], the top two candidates to emerge from the first round of voting in October. The official results of the second round were announced on 7 January 2014 with Rajaonarimampianina proclaimed the victor with nearly 54% of the vote.<ref>{{cite news|date=17 January 2014|title=Madagascar Court confirms President-elect|url=https://www.voanews.com/a/reu-madagascar-court-confirms-ex-finance-minister-rajaonarimampianina-president-elect/1832208.html|publisher=Voice of America|access-date=17 January 2014|archive-url=https://web.archive.org/web/20140204014110/http://www.voanews.com/content/reu-madagascar-court-confirms-ex-finance-minister-rajaonarimampianina-president-elect/1832208.html|archive-date=4 February 2014|url-status=live}}</ref>
+
+The last elected president, [[Marc Ravalomanana]], was unconstitutionally removed from power by [[2009 Malagasy political crisis|mass protests]] led by Mayor of [[Antananarivo]] [[Andry Rajoelina]] in early 2009. Rajoelina dissolved the Senate and National Assembly and took power as the president of the [[High Transitional Authority]] (HAT) he created to govern the country in the lead up to elections, which he promised to hold within 18 months. The HAT repeatedly delayed the parliamentary and presidential elections, which were scheduled separately for various dates before finally being merged in May 2011 and postponed to September 2011, May 2012, November 2012, May 2013, July 2013 and August 2013. The [[2010 Malagasy constitutional referendum|2010 constitutional referendum]] introduced a new constitution that barred candidates who had not lived in Madagascar for the previous six months, effectively excluding opposition leaders living in exile, including Ravalomanana, who had resided in South Africa since his ouster.
+
+The international community was actively involved in negotiating an end to the political impasse in Madagascar and maintained legitimate and transparent elections as a precondition to international recognition of Madagascar's head of state. In 2012 the African Union demanded that both top candidates - Rajoelina and Ravalomanana - withdraw their candidature. Ravalomanana accepted in December 2012, and Rajoelina followed suit in February 2013. Shortly afterward, [[Lalao Ravalomanana]], wife of the former president, submitted her candidature, causing Rajoelina to add his name to the list of candidates just after the deadline; former president [[Didier Ratsiraka]] also submitted his candidature despite having returned from exile in France too recently to meet the six-month requirement. This prompted the international community to withdraw funding for the election then scheduled for May 2013, leading to further delays. All three candidates were removed from the approved list by an electoral court in August 2013, and the international community recommitted to providing financial support for the 2013 elections.
+
+==Presidential elections==
+After becoming transitional President in March 2009, [[Andry Rajoelina]] announced that, within 24 months, there would be a new constitution and elections.<ref name="BBC_1">{{cite news | url = https://news.bbc.co.uk/2/hi/africa/7948196.stm | title = Madagascar president forced out  | publisher = BBC | date = 17 March 2009 | access-date = 18 March 2009}}</ref> Rajoelina was effectively handed the presidency on 18 March 2009, when the military handed over the executive power that was given to it by President [[Marc Ravalomanana]] upon his resignation. Rajoelina, as president of the [[High Transitional Authority]] which he had created weeks before Ravalomanana's resignation, announced he would serve as head of state until the next election. He became the youngest head of state in the country's history at 34 years of age.<ref name="BBC_1"/>
+
+On 13 May 2009 it was reported that Rajoelina had stated he did not want to run in the presidential election and that he only wanted to lay the groundwork.<ref name=":1">{{cite web | title = Report: Madagascan transitional president not want to be next president |work = People's Daily | url = http://english.people.com.cn/90001/90777/90855/6657160.html | date = 13 May 2009 | access-date = 26 September 2013 }}</ref> According to Rajoelina, he was prepared to accept a proposal from [[United Nations]] mediators that no former heads of state run in the election, but only if the other former heads of state also accepted the proposal. On 14 May, Ravalomanana ridiculed the proposal and said that "anyone who is legally eligible to run for president should be allowed to do so".<ref name=":2">{{cite web | title = Ousted Madagascar leader counts on region |work = Independent Online | url = http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090515075733942C431172 | date = 15 May 2009 | access-date = 26 September 2013}}</ref> On 23 May 2009 an agreement was reached that all former presidents would be allowed to stand in the election.<ref>{{cite news| url=https://news.bbc.co.uk/2/hi/africa/8064800.stm | work = BBC News | title= 'Deal' to end Madagascar crisis | date=23 May 2009 | access-date= 12 May 2010}}</ref>
+
+Rajoelina announced on 12 July 2009 that the election would be held by the end of 2009 to accommodate the demands of international investors, including the EU. This did not take place, however.<ref>{{cite web | title = Madagascan president agrees to hold earlier presidential election |work = People's Daily | url = http://english.people.com.cn/90001/90777/90855/6698486.html | date = 12 July 2009 | access-date = 25 September 2013}}</ref> In May 2010, the elections were set for 26 November 2010 and Rajoelina announced that he would not be a candidate,<ref name="google.com">{{cite web | title = Madagascar strongman Rajoelina says not to run in November poll |agency = Agence France-Presse | url = https://www.google.com/hostednews/afp/article/ALeqM5hPyXYC11XhM7ERYOuDuoAb_JCOeg | archive-url = https://web.archive.org/web/20140130145057/http://www.google.com/hostednews/afp/article/ALeqM5hPyXYC11XhM7ERYOuDuoAb_JCOeg | url-status = dead | archive-date = 30 January 2014 | date = 12 May 2010 | access-date = 26 September 2013 }}</ref> though he latter suggested that he was still considering running.<ref>{{cite web |url= http://news.xinhuanet.com/english/world/2012-08/10/c_131774439.htm |archive-url= https://archive.today/20130210012157/http://news.xinhuanet.com/english/world/2012-08/10/c_131774439.htm |url-status=dead |archive-date= 10 February 2013 |title= Negotiation Failure between Madagascar's political rivals not to prevent election : Transition President |date= 10 August 2010 |access-date= 27 August 2012 |publisher= [[Xinhuanet]] }}</ref><ref name = October>{{cite web |last = Ilioniania | first = Alain | title = Madagascar pushes back presidential election to October |work = Reuters | url = https://www.reuters.com/article/us-madagascar-elections-idUSBRE97L0YE20130822 | date = 22 August 2013 | access-date = 1 September 2013 }}</ref>
+
+A [[2010 Malagasy constitutional referendum|constitutional referendum]], originally scheduled for September 2009,<ref>{{cite web | title = Madagascan President calls international community for recognition |work = People's Daily | url = http://english.people.com.cn/90001/90777/90855/6630005.html | date = 4 April 2009 | access-date = 26 September 2013 }}</ref> was held in [[Madagascar]] on 17 November 2010, in which voters approved a proposal for the state's fourth [[Constitution of Madagascar|Constitution]].<ref name="peoplesd">{{cite web|url=http://english.peopledaily.com.cn/90001/90777/90855/7204099.html |title="YES" leading in Madagascar's referendum on new constitution |work= People's Daily |date=18 November 2010 |access-date=21 November 2010 }}</ref><ref name=Nov>{{cite web|url=http://english.people.com.cn/90001/90777/90855/7104765.html |title=Madagascar parties agree to end political crisis, set election date |work= People's Daily |date=14 October 2010 |access-date=21 October 2010 }}</ref> The new constitution contains a clause that requires presidential candidates to have lived in Madagascar for at least six months prior to the elections, effectively barring Ravalomanana, who has been living in exile and faces life in prison upon returning to Madagascar after being convicted in absentia for the deaths of protestors during the coup,<ref name="ANGOP"/> from running in the next election.<ref name="Guardian 2010-11-21">{{cite news| last = Pourtier| first = Gregoire| date = 21 November 2010| title = Madagascar referendum could deepen political crisis | newspaper = The Guardian | url = https://www.theguardian.com/commentisfree/2010/nov/17/madagascar-referendum-political-crisis| access-date = 21 November 2010}}</ref> Ravalomanana and Rajoelina engaged in negotiations to allow for Ravalomanana's return to the country, but have failed to come to an agreement.<ref name="ANGOP">{{cite web|url=http://www.portalangop.co.ao/motix/en_us/noticias/africa/2012/6/30/Madagascar-rivals-fail-agree-leader-return-from-exile,1d06775f-ee16-46bb-8075-49ac8e7de0d7.html|archive-url=https://archive.today/20121229194800/http://www.portalangop.co.ao/motix/en_us/noticias/africa/2012/6/30/Madagascar-rivals-fail-agree-leader-return-from-exile,1d06775f-ee16-46bb-8075-49ac8e7de0d7.html|url-status=dead|archive-date=29 December 2012|title=Madagascar rivals fail to agree on leader's return from exile|publisher=[[ANGOP]]|date=28 July 2012|access-date=27 August 2012}}</ref>
+
+In April 2012 an amnesty law was passed, but it prevents the return of former president Marc Ravalomanana despite the [[South African Development Community]]'s attempts at brokering a reconciliation agreement signed by all parties that would allow him to return.<ref name="amnesty"/> In December 2012, Ravalomanana agreed to withdraw his candidacy in compliance with the international community's roadmap to legitimate elections in Madagascar; Rajoelina followed suit two months later. However, when Ravalomanana's wife [[Lalao Ravalomanana|Lalao]] submitted her candidacy despite not having met the six-month residency requirement prior to doing so, Rajoelina likewise submitted his candidature after the deadline had officially closed. Former president [[Didier Ratsiraka]] also submitted his candidacy, despite also failing to meet the six-month residency requirement. Donors consequently pulled funding for the election, leading it to be postponed twice in 2013.<ref name = October/> In May 2013, the first round of the presidential elections was scheduled for 23 August 2013<ref name = indefinitely>{{cite web | title = Madagascar: Rajoelina could throw in the towel of the Malagasy presidential race | work = Indian Ocean Times | url = http://en.indian-ocean-times.com/Madagascar-Rajoelina-could-throw-in-the-towel-of-the-Malagasy-presidential-race_a1797.html | date = 5 August 2013 | access-date = 11 August 2013 | archive-url = https://web.archive.org/web/20131019084210/http://en.indian-ocean-times.com/Madagascar-Rajoelina-could-throw-in-the-towel-of-the-Malagasy-presidential-race_a1797.html | archive-date = 19 October 2013 | url-status = dead }}</ref> alongside Parliamentary elections, with a second round of presidential elections in October if a runoff were needed.<ref name=":0">{{cite web | title = Madagascar Postpones General Elections | publisher = African Elections Project | url = http://www.africanelections.org/new_news.php?nid=737 | date = 2 April 2013 | access-date = 14 April 2013 | archive-date = 2 October 2013 | archive-url = https://web.archive.org/web/20131002120039/http://www.africanelections.org/new_news.php?nid=737 | url-status = dead }}</ref> In September 2013, the first round of presidential elections was scheduled for 25 October, with a presidential run-off, if necessary, and parliamentary elections to be held on 20 December 2013.<ref name=October/>
+
+In August 2013, the special electoral court decided to invalidate the candidacy of Rajoelina, Ravalomanana and Ratsiraka, thereby fulfilling a key criteria for legitimacy set forth by the international community.<ref name=October/> In August 2013, Foreign Minister [[Pierrot Rajaonarivelo]] and Finance Minister [[Hery Rajaonarimampianina]] resigned in order to run for the presidency.{{Citation needed|date=September 2013}}
+
+Thirty-three presidential candidates were approved to appear on the final ballot used in the first round of voting held in October. None of the candidates won more than fifty percent of the vote, requiring a runoff in December to elect a new president. The candidate with the most votes (21.1%), [[Jean Louis Robinson]], was the declared candidate of former president Ravalomanana. The second place candidate (15.93%), Hery Rajaonarimampianina, was named by Rajoelina as his preferred candidate.
+
+In the second round of voting, held on 20 December, Rajaonarimampianina was elected president with 54% of the votes over Robinson won 46% of the vote, mainly in the densely populated central highlands around the capital of [[Antananarivo]]. The election was declared peaceful and legitimate by international observers, although both candidates accused the other of fraud.  The results were announced by the electoral commission on 7 January 2014; the commission stated that the results would be officially confirmed on 18 February.<ref>{{cite web|url=http://www.aljazeera.com/news/africa/2013/12/madagascar-votes-landmark-run-off-election-2013122045321232111.html |title=Polls close in landmark Madagascar election |publisher=Al Jazeera |date=2013-12-20 |access-date=2017-02-24}}</ref> Robinson conceded defeat in late January, and Rajaonarimampianina was sworn in as president in an inauguration attended by foreign dignitaries, including the French Ambassador and American Attache.
+
+==Parliamentary elections==
+On 19 March 2009, Rajoelina dissolved the [[National Assembly of Madagascar]] and the [[Senate of Madagascar]].<ref>{{cite web|title=Madagascar dissolves parliament: Interim president dissolves national assembly and senate after presidential power grab |publisher=Al Jazeera |url=http://english.aljazeera.net/news/africa/2009/03/2009319155324395613.html |date=19 March 2009 |access-date=25 September 2013 |url-status=dead |archive-url=https://web.archive.org/web/20090322180633/http://english.aljazeera.net/news/africa/2009/03/2009319155324395613.html |archive-date=22 March 2009 }}</ref> Parliamentary elections were planned for 2011,<ref name="english.people.com.cn">{{cite web | title = Madagascar parties agree to end political crisis, set election date |work = People's Daily | url = http://english.people.com.cn/90001/90777/90855/7104765.html | date = 14 August 2010 | access-date = 26 September 2013 }}</ref> after being postponed from 20 March 2010 and then 30 September 2010.<ref name="BBC_1"/><ref>{{cite web | title = Madagascar ruler calls March 20 vote |agency = Agence France-Presse | url = https://www.google.com/hostednews/afp/article/ALeqM5iEa-js5MBT4MV1p0YnI2XLIJ1I8g | archive-url = https://web.archive.org/web/20140130145220/http://www.google.com/hostednews/afp/article/ALeqM5iEa-js5MBT4MV1p0YnI2XLIJ1I8g | url-status = dead | archive-date = 30 January 2014 | date = 16 December 2009 | access-date = 25 September 2013 }}</ref><ref>{{cite web | title = Madagascar's Rajoelina pushes elections back to May, RFI says |work = Business Week | url = http://www.businessweek.com/news/2010-02-05/madagascar-s-rajoelina-pushes-elections-back-to-may-rfi-says.html | archive-url = https://web.archive.org/web/20100211152153/http://www.businessweek.com/news/2010-02-05/madagascar-s-rajoelina-pushes-elections-back-to-may-rfi-says.html | url-status = dead | archive-date = 11 February 2010 | date = 5 February 2010 | access-date = 5 February 2010 }}</ref> Parliamentary and presidential elections were previously scheduled separately for various dates before finally being merged in May 2011 and postponed to September 2011, May 2012, November 2012, May 2013, July 2013 and August 2013.<ref name = indefinitely/><ref>{{cite web | title = Madagascar Sets May 8 to Hold Elections | publisher = Africa Elections Project | url = http://africanelections.org/new_news.php?nid=711 | date = 12 March 2013 | access-date = 25 September 2013 | archive-date = 2 October 2013 | archive-url = https://web.archive.org/web/20131002120134/http://africanelections.org/new_news.php?nid=711 | url-status = dead }}</ref><ref name=merger>{{cite web|url=http://www.gabon-tourism.gaboneco.com/show_article.php?IDActu=21742|title=Madagascar : Des élections présidentielle et législatives combinées en septembre 2011|language=fr|date=3 March 2011|access-date=10 March 2013|archive-url=https://web.archive.org/web/20131002102222/http://www.gabon-tourism.gaboneco.com/show_article.php?IDActu=21742|archive-date=2 October 2013|url-status=dead|df=dmy-all}}</ref><ref name="amnesty">{{cite web|url=https://www.google.com/hostednews/afp/article/ALeqM5hszC6KP61Jl9qQ_ITVWd_a0nOQ-A?docId=CNG.a1b03f8f1a0eb41d95bf872bb307d7bf.6e1|archive-url=https://web.archive.org/web/20140130145432/http://www.google.com/hostednews/afp/article/ALeqM5hszC6KP61Jl9qQ_ITVWd_a0nOQ-A?docId=CNG.a1b03f8f1a0eb41d95bf872bb307d7bf.6e1|url-status=dead|archive-date=30 January 2014|title= Madagascar passes amnesty law, excludes ousted leader|date=14 April 2012 |access-date=3 March 2013 |agency=[[Agence France-Presse]]}}</ref>
+
+Rajoelina announced on 16 December 2009 that parliamentary elections would be held in March 2010.<ref>{{cite news| url=https://news.bbc.co.uk/2/hi/africa/8417512.stm | work = BBC News | title= Madagascar leader calls elections | date=16 December 2009 | access-date= 12 May 2010}}</ref> In May, it was announced they would be held on 30 September 2010.<ref name="google.com"/> On 14 August 2010, they were again postponed to 16 March 2011. Another postponement was announced in January 2011, with no new date specified.<ref>{{cite web | title = Madagascar's parliamentary election postponed | publisher = Monstersandcritics.com | url = http://www.monstersandcritics.com/news/africa/news/article_1610502.php/Madagascar-s-parliamentary-election-postponed | archive-url = https://archive.today/20120904001900/http://www.monstersandcritics.com/news/africa/news/article_1610502.php/Madagascar-s-parliamentary-election-postponed | url-status = dead | archive-date = 4 September 2012 | date = 10 January 2011 | access-date = 25 September 2013 }}</ref> Parliamentary elections were held on 20 December 2013. It was the first time parliamentary elections were held concurrently with the presidential election.
+
+==Presidential candidates==
+Thirty-three approved contenders ran in the 2013 presidential election.<ref name=":2" /><ref>{{cite web|url = http://dw.de/p/19Uul |title = Madagascar sets date for election, three candidates barred|date = 23 August 2013|access-date = 23 September 2013 | publisher = Deutsche Welle}}</ref><ref>{{cite web|url=http://www.madagate.com/politique-madagascar/dossier/3498-madagascar-presidentielle-33-candidats-dans-la-liste-definitive-au-21082013.html|title=Madagascar Présidentielle: 33 candidats dans la liste définitive au 21.08.2013|date=21 August 2013 |language = fr |publisher = Madagate.com}}</ref> In August 2013, the three top candidates were barred from running by a Madagascar legal body charged with election oversight. These included Rajoelina, barred for not submitting his candidacy by the deadline; Lalao Ravalomanana, barred for not having lived in Madagascar for 6 months before the poll; and Didier Ratsiraka, barred for filing paperwork for the candidacy only 2 days after returning from exile.<ref>{{Cite news|title = Top Presidential Candidates Barred From Election in Madagascar|date =18 August 2013|url = https://www.nytimes.com/2013/08/19/world/africa/top-presidential-candidates-barred-from-election-in-madagascar.html|last = Polgreen|first = Lydia|newspaper = The New York Times|access-date = 23 September 2013}}</ref> Ravalomanana publicly endorsed medical doctor and politician [[Jean Louis Robinson]] from Antananarivo.<ref name = visionary>{{Cite news|title = Mouvance Ravalomanana to Support Visionary Presidential Candidate|date = 13 September 2013|url = http://www.prnewswire.com/news-releases/mouvance-ravalomanana-to-support-visionary-presidential-candidate-223599541.html|access-date = 23 September 2013|agency = PR Newswire}}</ref> On 24 September 2013, the official starting date of the campaign, online news magazine Afrik.com identified the top candidates as Jean-Louis Robinson, [[Hery Rajaonarimampianina]] (endorsed by Andry Rajoelina), {{ill|Hajo Andrianainarivelo|fr}}, Camille Vital, Pierrot Rajaonarivelo and [[Saraha Georget Rabeharisoa]].<ref>{{cite web|url=http://www.afrik.com/madagascar-la-campagne-pour-la-presidentielle-reprend-officiellement|title=Madagascar : la campagne pour la Présidentielle reprend officiellement|date=24 September 2013 |last =Ankili |first =  Houssam  |language = fr | publisher = Afrik.com |access-date = 20 October 2013}}</ref>
+
+==Results==
+===President===
+[[Jean Louis Robinson]] and [[Hery Rajaonarimampianina]] emerged as the two candidates with the most votes in the first round held in October 2013, receiving 21% and 16% of the vote respectively. Election results for the second round, held in December 2013, were announced on 7 January. Rajaonarimampianina won with 53.5% of the vote while Robinson had 46.5%.
+
+{{Election results
+|cand1=[[Hery Rajaonarimampianina]]|party1={{ill|New Force for Madagascar|fr|Force nouvelle pour Madagascar|lt=Hery Vaovao ho an'i Madagasikara}}|votes1=721206|votes1_2=2060124|color1=#204D7B
+|cand2=[[Jean Louis Robinson]]|party2=[[AVANA]]|votes2=955534|votes2_2=1791336|color2=#B0E0E6
+|cand3={{ill|Hajo Andrianainarivelo|fr}}|party3=[[Vondrona Politika|Malagasy Miara Miainga]]|votes3=476153
+|cand4=[[Roland Ratsiraka]]|party4=MTS|votes4=407732
+|cand5=[[Albert Camille Vital]]|party5=[[Parti Hiaraka Isika]]|votes5=310253
+|cand6=[[Saraha Georget Rabeharisoa]]|party6=[[Madagascar Green Party]]|votes6=203699|color6=#00FF00
+|cand7={{ill|Edgard Razafindravahy|fr}}|party7=Edgard Razafindravahy|votes7=197081
+|cand8=[[Pierrot Rajaonarivelo]]|party8=MDM|votes8=121999
+|cand9=Joseph Martin Randriamampionona|party9=RTM (Dadafara)|votes9=105184
+|cand10=Benjamin Radavidson Andriamparany|party10=[[National Unity, Freedom & Development]]|votes10=100890
+|cand11=William Ratrema|party11=GAM/PATRAM|votes11=96715
+|cand12=Jean Eugène Voninahitsy|party12=LES AS|votes12=96547
+|cand13=[[Julien Razafimanazato]]|party13=Eto Sehatry ny Daholo|votes13=72875
+|cand14=[[Monja Roindefo]]|party14=[[Madagascar for the Malagasy]]|votes14=68563
+|cand15=Brigitte Ihantanirina Rabemananantsoa|party15=AMP|votes15=62652
+|cand16=Willy Sylvain Rabetsaroana|party16=PNJ Mazava Sylvain|votes16=57829
+|cand17=Clément Zafisolo Ravalisaona|party17=AME|votes17=52083
+|cand18=Rakoto Andrianirina Fetison|party18=RDS|votes18=49599
+|cand19=Tabera Randriamanantsoa|party19=KINTANA|votes19=40253
+|cand20={{ill|Laza Razafiarison|mg}}|party20=Avotra Ho An'ny Firenena|votes20=39952
+|cand21=[[Jean Lahiniriko]]|party21=KML|votes21=39648
+|cand22=Patrick Rajaonary|party22=Vonjeo Madagasikara|votes22=38934
+|cand23=Rakotomaharo Rajemison|party23=MAMAFISOA|votes23=38827
+|cand24=Roland Dieudonne Rabeharison|party24=FAMA|votes24=32157
+|cand25=Djacoba Alain Tehindrazanarivelo|party25=ENNA|votes25=25974
+|cand26=Faharo Ratsimbalson|party26=Independent|votes26=24536
+|cand27=Patrick Raharimanana|party27=Vitatsika Io|votes27=19684
+|cand28=Mickaël Brechard Dofo|party28=MIM|votes28=15538
+|cand29=William Noelson|party29=MITM|votes29=14096
+|cand30=Lezava Fleury Rabarison|party30=HARENA|votes30=11347
+|cand31=Guy Ratrimoarivony|party31=HOP|votes31=10913
+|cand32=Jean Pierre Rakoto|party32=RJP|votes32=9965
+|cand33=Freddy Tinasoa|party33=OBAMA|votes33=9971
+|invalid=303277|invalid2=191786
+|electorate=7823305|electorate2=7971790
+|source=[https://web.archive.org/web/20140713105430/http://www.cenit-madagascar.mg/res/recap/Recap_National.pdf CENIT], [https://web.archive.org/web/20140119034600/http://www.hcc.gov.mg/elections/president2013-2/mada HCC]
+}}
+
+===National Assembly===
+{{Election results
+|party1=[[Young Malagasies Determined|Together with President Andry Rajoelina]]|votes1=648334|seats1=49
+|party2=Ravalomanana Movement|votes2=402121|seats2=19
+|party3=[[Vondrona Politika|Vondrona Politika Miara dia Malagasy Miara Miainga]] (VPM MMM)|votes3=310119|seats3=14
+|party4=[[Madagascar Green Party]]|votes4=133147|seats4=2
+|party5=[[Parti Hiaraka Isika]]|votes5=125024|seats5=5
+|party6=[[Economic Liberalism and Democratic Action for National Recovery|LEADER-Fanilo]]|votes6=105039|seats6=5
+|party7=Mientana Ho An'ny Demokrasia Et Madagasikara (MDM)|votes7=100014|seats7=1
+|party8=Malagasy Tonga Saina (MTS)|votes8=71838|seats8=1
+|party9=[[National Unity, Freedom & Development|Firaisam-pirenena ho an'ny Fahafahana sy ny Fandrosoana]] (FFF)|votes9=64868|seats9=2
+|party10=Zanak i Dada|votes10=58490|seats10=1
+|party11=[[AVANA|Antoko ny Vahoaka Aloha no Andrianina]] (AVANA)|votes11=41882|seats11=0
+|party12=[[Pillar of Madagascar]]|votes12=36513|seats12=2
+|party13=Ezaka Marina Mampandroso Antsika (EMMA)|votes13=35821|seats13=0
+|party14=Fanasina Ho Fampandrosoana|votes14=31231|seats14=1
+|party15=Firaisankina Ho An'ny Fanovana|votes15=29449|seats15=0
+|party16=Antoko Miombona Ezaka (AME)|votes16=26991|seats16=0
+|party17=PNJ MAZAVA|votes17=26134|seats17=0
+|party18=Malagasy Mandroso ao anatin ny Fihavanana sy ny Soatoavina (MAMAFISOA)|votes18=24846|seats18=0
+|party19=Les Autres Sensibilités (LES AS)|votes19=23287|seats19=1
+|party20=Madagasikara Fivoarana (MAFI)|votes20=22467|seats20=0
+|party21=[[Social Democratic Party of Madagascar]] (PSD)|votes21=21037|seats21=1
+|party22=Trano Kasaka|votes22=21003|seats22=2
+|party23=FANAMBY 88|votes23=20689|seats23=1
+|party24=Roso Ho Amin'ny Demokrasia Sosialy (RDS)|votes24=18168|seats24=0
+|party25=[[Madagascar for the Malagasy]] (MONIMA)|votes25=18162|seats25=0
+|party26=Fitambolagnela - Identité, Ambition, Developpement|votes26=16917|seats26=0
+|party27=Eto Sehatry ny Daholobe ou Espace de Solidarité pour le Developpement (ESD)|votes27=16863|seats27=0
+|party28=PAPASOLO|votes28=15738|seats28=1
+|party29=Union Nationale pour le Développement et le Patriotisme (UNDP)|votes29=15177|seats29=0
+|party30=Association Didier Ratsirakiste (ADR)|votes30=14411|seats30=0
+|party31=HARENA|votes31=14097|seats31=1
+|party32=[[Malagasy Revolutionary Party]] (AREMA)|votes32=13190|seats32=0
+|party33=Sambofiaran'i Noé|votes33=13100|seats33=2
+|party34=Fitarikandro|votes34=12373|seats34=1
+|party35=Ezaka Fampandrosoana An'antanifotsy|votes35=12281|seats35=0
+|party36=[[Tambatra]]|votes36=11768|seats36=1
+|party37=Gideona Fandresena Ny Fahantrana Eto Madagasikara (GFFM)|votes37=11766|seats37=1
+|party38=Alefa Madagasikara Hery Zo|votes38=11558|seats38=0
+|party39=Madagasikara Afaka (MAF)|votes39=11365|seats39=0
+|party40=Ensemble pour l'Intérêt de la Nation (ENINA)|votes40=10738|seats40=0
+|party41=Vahoaka Ihany|votes41=10302|seats41=0
+|party42=Mampiray Antsika|votes42=10188|seats42=1
+|party43=Malagasy Iray Tsy Mivaky (MITM)|votes43=9445|seats43=0
+|party44=303 Ihany Ny Antsika - Association des Jeunes Entrepreneurs d'Ambalavao|votes44=9378|seats44=1
+|party45=Mpirahalahy Mian'ala|votes45=9311|seats45=1
+|party46=Kongresy hoan ny Malagasy Liam-pivoarana (KML)|votes46=8855|seats46=0
+|party47=FIMAMI|votes47=8568|seats47=0
+|party48=Association Toliara Miaranga (ATM)|votes48=8188|seats48=1
+|party49=Fikambanan Ny Zanak Atsimondrano|votes49=8029|seats49=0
+|party50=Ampela Manao Politika (AMP)|votes50=7997|seats50=0
+|party51=BAINGA|votes51=7668|seats51=1
+|party52=Malagasy Miray sy Mifankatia (MAMIMI)|votes52=7419|seats52=0
+|party53=Vohibato Miray Hina|votes53=7339|seats53=0
+|party54=Malagasy Tompon Andraikitra Matoa|votes54=7287|seats54=0
+|party55=MISAFA|votes55=7264|seats55=0
+|party56=Raiso Ny Dimy|votes56=7180|seats56=0
+|party57=Iray Ny Malagasy|votes57=7171|seats57=0
+|party58=Tanindrazantsika Mivoatra (TAMI)|votes58=7148|seats58=0
+|party59=Association Zanak Ambanivolo|votes59=6669|seats59=0
+|party60=Gasy Manankarena No Tanjona (GMT)|votes60=6360|seats60=0
+|party61=Gasikara manan-kasina / Parti Travailliste Malagasy (GAM-PATRAM)|votes61=6172|seats61=1
+|party62=Komity Manohana An'i Edgard (KME)|votes62=6085|seats62=0
+|party63=Malagasy Sahy sy Mijoro (MASAH)|votes63=5948|seats63=0
+|party64=Taniko Madagasikara|votes64=5856|seats64=0
+|party65=[[Our Madagascar|Madagasikarantsika]]|votes65=5587|seats65=0
+|party66=[[Movement for the Progress of Madagascar|Mpitolona ho an'ny Fandrosoan'i Madagasikara]] (MFM)|votes66=5543|seats66=0
+|party67=GRAD-Iloafo|votes67=5445|seats67=0
+|party68=Tanora Mandray Andraikitra (TMA)|votes68=5251|seats68=1
+|party69=A.TRA.BO.|votes69=5114|seats69=0
+|party70=MATSILO|votes70=5069|seats70=0
+|party71=Zakatsika "Hetsiky Ny Olom-Pirenena"|votes71=4993|seats71=0
+|party72=Hetsiky Ny Olom Pirenena Zakatsika|votes72=4889|seats72=0
+|party73=Action pour le Développement Humaniste et Ecologique de Madagascar (ADHEM FIZAFA)|votes73=4856|seats73=1
+|party74=Association Mitahy|votes74=4789|seats74=0
+|party75=Avotry Ny Taniko|votes75=4748|seats75=0
+|party76=Ambilobe Manongalaza|votes76=4596|seats76=0
+|party77=Front des Organisations Malagasy pour la Bienveillance de l'Avenir (FOMBA)|votes77=4430|seats77=0
+|party78=ZABEMI|votes78=4328|seats78=0
+|party79=FIAM|votes79=4244|seats79=0
+|party80=Ombilahy Marangitra|votes80=4226|seats80=0
+|party81=FIMA|votes81=4128|seats81=0
+|party82=KINTANA|votes82=3961|seats82=0
+|party83=Gasy Afaka, Saina Iray, Kolon-Tsaina Arafitra Hikojana Ny Olom-Pirenena (GASIKARAKO)|votes83=3869|seats83=0
+|party84=Tantsaha Mandroso|votes84=3780|seats84=0
+|party85=Ny Fanahy Maha Olona|votes85=3646|seats85=0
+|party86=Vahoaka Mijoro|votes86=3641|seats86=0
+|party87=FITAMIFA|votes87=3566|seats87=0
+|party88=Tanora Vognogno Hagnasoa (TVH)|votes88=3544|seats88=0
+|party89=Rodobe Matsilo|votes89=3404|seats89=0
+|party90=Gasy Tia Tanindrazana (GTT)|votes90=3305|seats90=0
+|party91=Vahoaka Miray (VAMI)|votes91=3232|seats91=0
+|party92=Association AMi|votes92=3220|seats92=0
+|party93=Tonga Ilay Nandrasana|votes93=3185|seats93=0
+|party94=Hery Vaovao Ho An'ny Betafo (HVB)|votes94=2976|seats94=0
+|party95=Tanora Miray (TAMI)|votes95=2907|seats95=0
+|party96=Ezaka ho an ny Rahampitso (EZRA)|votes96=2832|seats96=0
+|party97=ASA|votes97=2772|seats97=0
+|party98=SARIAKA|votes98=2771|seats98=0
+|party99=Miara-Mirona Amin'ny Fampandrosoana|votes99=2654|seats99=0
+|party100=AFAM|votes100=2650|seats100=0
+|party101=Firaisan Kina No Hery|votes101=2638|seats101=0
+|party102=Lohavohitsy Mifanolo Tagna (LMT)|votes102=2510|seats102=0
+|party103=Fikambanan Ny Zafin Iharana Mivoatra (FIZIM)|votes103=2397|seats103=0
+|party104=Ankazobe Mijoro|votes104=2389|seats104=0
+|party105=Ambilobe Miray Tsy Manavaka (AMTM)|votes105=2382|seats105=0
+|party106=Viavy Mandray Andraikitra|votes106=2367|seats106=0
+|party107=MAHEFA|votes107=2224|seats107=0
+|party108=Nosy Varika Miray|votes108=2172|seats108=0
+|party109=Antoky Ny Soa Ho An'ny Ho Avy (ASOA)|votes109=2147|seats109=0
+|party110=[[Malagasy Tia Tanindrazana]] (MATITA)|votes110=2132|seats110=0
+|party111=Avec 2002|votes111=2117|seats111=0
+|party112=FMTM|votes112=2102|seats112=0
+|party113=AFDM|votes113=2093|seats113=0
+|party114=Union Nationale pour la Démocratie et le Développement (UNDD)|votes114=2089|seats114=0
+|party115=Action des Jeunes pour le Developpement d'Atsimondrano (AJDA)|votes115=2088|seats115=0
+|party116=Gny Rano Voho Gny Fandriampahalema Ro Antoky Gny Fampandrosoana An'i Menabe|votes116=1996|seats116=0
+|party117=Mibanjina|votes117=1979|seats117=0
+|party118=Boriboritany Faha 6 Misandratra|votes118=1976|seats118=0
+|party119=Jeunes Espoirs de Madagascar (JEM)|votes119=1945|seats119=0
+|party120=Fikambanana Tsiry|votes120=1939|seats120=0
+|party121=UNDP RA SEFO|votes121=1908|seats121=0
+|party122=MMF|votes122=1901|seats122=0
+|party123=Nouveau Vent de Madagascar (NOVEMA)|votes123=1891|seats123=0
+|party124=Fiombonan'ny Bemiray Malagasy (FBM)|votes124=1811|seats124=0
+|party125=Tanora Miara Miainga|votes125=1806|seats125=0
+|party126=HIAROZO|votes126=1745|seats126=0
+|party127=Parti Démocrate-Chrétien Malagasy (PDCM)|votes127=1742|seats127=0
+|party128=Miara Mandroso|votes128=1707|seats128=0
+|party129=Zanak Avaratra|votes129=1705|seats129=0
+|party130=[[Fanjava Velogno]]|votes130=1656|seats130=0
+|party131=Antsiranana Miray Ho An'ny Fampandrosoana (AMF)|votes131=1655|seats131=0
+|party132=Tanora Avaradrano Mandray Andraikitra (TAMA)|votes132=1638|seats132=0
+|party133=Farimbona Ho An'i Madagasikara Vaovao|votes133=1635|seats133=0
+|party134=Plateforme HAT|votes134=1579|seats134=0
+|party135=Madagasikara Mandroso (MAMAN)|votes135=1553|seats135=0
+|party136=Tanjona Iraisana|votes136=1552|seats136=0
+|party137=FIVOY|votes137=1527|seats137=0
+|party138=SOLIDE|votes138=1516|seats138=0
+|party139=Ainga Vaovao|votes139=1491|seats139=0
+|party140=Firaisan-Kinan Ny Bongolava|votes140=1460|seats140=0
+|party141=Ho An Ny Mpiara Belona|votes141=1442|seats141=0
+|party142=VITAL Fampandrosoana|votes142=1413|seats142=0
+|party143=Association Jira|votes143=1409|seats143=0
+|party144=HFF|votes144=1355|seats144=0
+|party145=Antoko Fampandrosoana An'i Madagasikara (AFM)|votes145=1352|seats145=0
+|party146=MFV|votes146=1292|seats146=0
+|party147=Patience|votes147=1265|seats147=0
+|party148=Tsaralaza de Bemarivo|votes148=1256|seats148=0
+|party149=Zanak Ambohimanarina Mandray Andraikitra (ZAMA)|votes149=1234|seats149=0
+|party150=IRAY AINA|votes150=1229|seats150=0
+|party151=Sidilahy Sahy|votes151=1225|seats151=0
+|party152=[[Congress Party for the Independence of Madagascar|Antokon'ny Kongresin'ny Fahaleovantenan'i Madagasikara]] (AKFM)|votes152=1169|seats152=0
+|party153=ADM|votes153=1054|seats153=0
+|party154=Fikambanana Ny Fanahy Maha Olona|votes154=1049|seats154=0
+|party155=MIAMI|votes155=1045|seats155=0
+|party156=Fiainam Baovao Takin Ankarabe (FIBATA)|votes156=1035|seats156=0
+|party157=Kintan'i Betafo|votes157=1032|seats157=0
+|party158=CRJM|votes158=1026|seats158=0
+|party159=AMADES|votes159=1018|seats159=0
+|party160=ARONNY VAHOAKA|votes160=1007|seats160=0
+|party161=As.Hu.Mi.|votes161=1005|seats161=0
+|party162=VMFM|votes162=995|seats162=0
+|party163=Association Miezaka|votes163=991|seats163=0
+|party164=Malagasy Vanona|votes164=973|seats164=0
+|party165=Mamiratra Iombonan'ny Malagasy (MIM)|votes165=947|seats165=0
+|party166=Asa Fanabeazana ho an'ny Be sy ny Maro (AFABE)|votes166=935|seats166=0
+|party167=Fiaraha Mientana Ho Fampandrosoana Ny Faritra Ambohimanarina (3FA)|votes167=916|seats167=0
+|party168=Refondation Totale de Madagascar (RTM)|votes168=914|seats168=0
+|party169=TVM|votes169=897|seats169=0
+|party170=Groupement Régional des Représentants des Associations et des Partis Politiques de l'Etat (GRAPPE)|votes170=890|seats170=0
+|party171=Ny Fanahy No Maha Olona|votes171=884|seats171=0
+|party172=Solofon'ny Firaisana Faharoa (SFF)|votes172=882|seats172=0
+|party173=Groupement des Jeunes Mouvances Ravalomanana (GJMR)|votes173=873|seats173=0
+|party174=Atrefa Madagasikara|votes174=863|seats174=0
+|party175=SFDM|votes175=854|seats175=0
+|party176=Hery Vaovao ho an'i Madagasikara|votes176=849|seats176=0
+|party177=FILAMATRA|votes177=836|seats177=0
+|party178=Malagasy Atambatry ny Soa ho an'ny Tanindrazana Ezaka ho an'izay Rehetra Sahy (MASTERS)|votes178=832|seats178=0
+|party179=Fivondronan'ny Vahoaka Madinika Miavo-tena (FVMM)|votes179=775|seats179=0
+|party180=Ny Soa Fianatsa|votes180=758|seats180=0
+|party181=Association Flash-Mada|votes181=742|seats181=0
+|party182=Fanambinana Madagasikara (FAMA)|votes182=719|seats182=0
+|party183=Fihavanana Sy Firaisankina|votes183=706|seats183=0
+|party184=MAMAZAY|votes184=687|seats184=0
+|party185=F34 FMM|votes185=674|seats185=0
+|party186=T@FA|votes186=659|seats186=0
+|party187=Miray hina ho Fampandrosoana an i Manandriana (MIFAMA)|votes187=657|seats187=0
+|party188=BEMIRAY|votes188=650|seats188=0
+|party189=Fanevan'i Madagasikara|votes189=649|seats189=0
+|party190=MIARA TAFITA|votes190=640|seats190=0
+|party191=OLOM BAOVAO|votes191=634|seats191=0
+|party192=IRAKA|votes192=627|seats192=0
+|party193=Fikambanan ny panakanto Malagasy (FIMPAMA)|votes193=619|seats193=0
+|party194=Plateforme des Militants pour la Défense de la République (PMDR)|votes194=619|seats194=0
+|party195=Tanora Iharana Fandrosoana (TIF)|votes195=614|seats195=0
+|party196=Tanora Ho Fanilon Ikalamavony (TFI)|votes196=613|seats196=0
+|party197=ABAD|votes197=598|seats197=0
+|party198=APDH|votes198=595|seats198=0
+|party199=FANALAHIDY|votes199=550|seats199=0
+|party200=Aingamben'ny Tia Tanindrazana Antoky ny Fampandrosoana (ATTAFA)|votes200=547|seats200=0
+|party201=BRIMIMI|votes201=544|seats201=0
+|party202=Ny Manandrify Tsa Mba Miolaka|votes202=526|seats202=0
+|party203=Soa Ny Miara Dia|votes203=523|seats203=0
+|party204=Komity Manohana An'i Lahiniriko (KLM)|votes204=506|seats204=0
+|party205=Association Miara Mamindra|votes205=492|seats205=0
+|party206=Tanora Sahy Sy Vonona|votes206=481|seats206=0
+|party207=Vehivavin Ny Kandreho Mandray Andraikitra|votes207=475|seats207=0
+|party208=Rassemblement pour la Démocratie Républicaine (RDR)|votes208=473|seats208=0
+|party209=Professeurs Chargés de Mission e l'Education|votes209=464|seats209=0
+|party210=Hery Politika Mitambatra (HPM)|votes210=460|seats210=0
+|party211=Tanora Mivoatse|votes211=451|seats211=0
+|party212=Vahoaka Mandroso|votes212=449|seats212=0
+|party213=MAYE|votes213=431|seats213=0
+|party214=Atsika Jiaby|votes214=426|seats214=0
+|party215=KMDT|votes215=424|seats215=0
+|party216=Ny fanahy no vatsy|votes216=410|seats216=0
+|party217=FITELO|votes217=393|seats217=0
+|party218=Malagasy Sambatra (MASA)|votes218=393|seats218=0
+|party219=FAPHA Ambositra|votes219=390|seats219=0
+|party220=Fikambanan'ny Tanora Mpitolona Malagasy (FTPM)|votes220=386|seats220=0
+|party221=Zanak i Madagasikara|votes221=372|seats221=0
+|party222=Irakin Ny Vavarano Fampandrosoana (IVF)|votes222=361|seats222=0
+|party223=Vaovao|votes223=360|seats223=0
+|party224=MA.MI.TA.|votes224=355|seats224=0
+|party225=Fikambanana Maro Zanaka (FMZA)|votes225=354|seats225=0
+|party226=Avotako Imamo|votes226=342|seats226=0
+|party227=ONG Harena Manasoa|votes227=338|seats227=0
+|party228=OMDHL|votes228=321|seats228=0
+|party229=Fahamarinana Sy Fahazavana Ho Fandrosoana An'i Madagasikara (3FAMA)|votes229=306|seats229=0
+|party230=Hery Vaovao Ho Anantsirabe|votes230=305|seats230=0
+|party231=4M|votes231=290|seats231=0
+|party232=MANITRA|votes232=281|seats232=0
+|party233=HBM|votes233=280|seats233=0
+|party234=Vondrona Tia Tanindrazana (VTT)|votes234=277|seats234=0
+|party235=Malagasy Filamatra|votes235=267|seats235=0
+|party236=Tanora Andrin Ny Fampandrosoana (TAFA)|votes236=246|seats236=0
+|party237=NOMAMIMA|votes237=225|seats237=0
+|party238=Diego Miara-Mientana|votes238=216|seats238=0
+|party239=Association Lalam Baovao|votes239=204|seats239=0
+|party240=Malagasy Malaigny Raha Ratsiratsy|votes240=201|seats240=0
+|party241=Isika Tanora Miasa|votes241=190|seats241=0
+|party242=Eto Sehatry Ny Demokrasia (ESD)|votes242=189|seats242=0
+|party243=Tanora Miaro Ny Demokratika (TMD)|votes243=186|seats243=0
+|party244=Firaisankina Ho An'ny Firenena|votes244=162|seats244=0
+|party245=Groupe d'Actions et de Réflexion pour la Défense des Usagers et des Consommateurs (GARDUC)|votes245=157|seats245=0
+|party246=Betafo Mandroso|votes246=156|seats246=0
+|party247=Tanora Malagasy Miroso (TAMAMI)|votes247=151|seats247=0
+|party248=Union Nationale Malagasy Démocrate (UNAMAD)|votes248=150|seats248=0
+|party249=AJNM|votes249=135|seats249=0
+|party250=FJDM|votes250=129|seats250=0
+|party251=DHD|votes251=126|seats251=0
+|party252=Solofo Dimby Vanona (SDV)|votes252=126|seats252=0
+|party253=MAVANA|votes253=124|seats253=0
+|party254=Avotantsika Miaraka i Madagasikara (AMM)|votes254=110|seats254=0
+|party255=Tanora Vonona Hiasa|votes255=108|seats255=0
+|party256=MJF|votes256=102|seats256=0
+|party257=FANAVOTAM-BAHOAKA|votes257=100|seats257=0
+|party258=VITATSIKA|votes258=93|seats258=0
+|party259=Hampisandratra An I Merina|votes259=89|seats259=0
+|party260=MANA|votes260=75|seats260=0
+|party261=Sahia Mijoro|votes261=68|seats261=0
+|party262=Vahaolana|votes262=59|seats262=0
+|party263=Soa Ny Antsika|votes263=57|seats263=0
+|party264=Independent|votes264=643412|seats264=25
+|row265=Invalidated|seats265=4
+|invalid=200108
+|electorate=7781036
+|source=HCC,<ref>{{Cite web |title=LEGISLASTIVES (20 Décembre 2013) |url=http://www.hcc.gov.mg/elections/legislatives2013/deputes |archive-url=https://web.archive.org/web/20170916034337/http://www.hcc.gov.mg/elections/legislatives2013/deputes |archive-date=16 September 2017 |website=Haute Cour Constitutionnelle}}</ref> Election Passport<ref name="results">{{Cite web |last=Lublin |first=David |title=Election Passport |url=http://www.electionpassport.com/ |publisher=American University School of Public Affairs}}</ref>
+}}
+
+== Aftermath ==
+=== 2014 by-elections ===
+After the parliamentary elections results in the districts of Ambanja, Marovoay, Sainte Marie, and Belo Sur Tsiribihina were invalidated, there were rerun elections held on 29 August 2014.
+
+{{Election results
+|party1=[[Vondrona Politika|Vondrona Politika Miara dia Malagasy Miara Miainga]] (VPM MMM) |votes1=11053|seats1=1
+|party2=[[Parti Hiaraka Isika]]|votes2=8122|seats2=1
+|party3=[[Young Malagasies Determined|Together with President Andry Rajoelina]]|votes3=7388|seats3=0
+|party4=[[Malagasy Revolutionary Party]] (AREMA)|votes4=4444|seats4=0
+|party5=Madagasikara Mandroso (MAMAN)|votes5=2447|seats5=0
+|party6=[[AVANA|Antoko ny Vahoaka Aloha no Andrianina]] (AVANA)|votes6=1519|seats6=0
+|party7=Malagasy Mandroso ao anatin ny Fihavanana sy ny Soatoavina (MAMAFISOA)|votes7=1088|seats7=0
+|party8=Ravalomanana Movement|votes8=1031|seats8=0
+|party9=[[Madagascar Green Party]]|votes9=817|seats9=0
+|party10=Antoko Miombona Ezaka (AME)|votes10=801|seats10=0
+|party11=Zanak i Dada|votes11=676|seats11=0
+|party12=[[Economic Liberalism and Democratic Action for National Recovery|LEADER-Fanilo]]|votes12=522|seats12=0
+|party13=Gideona Fandresena Ny Fahantrana Eto Madagasikara (GFFM)|votes13=515|seats13=0
+|party14=Malagasy Tonga Saina (MTS)|votes14=500|seats14=0
+|party15=HARENA |votes15=260|seats15=0
+|party16=[[National Unity, Freedom & Development|Firaisam-pirenena ho an'ny Fahafahana sy ny Fandrosoana]] (FFF)|votes16=252|seats16=0
+|party17=PNJ MAZAVA |votes17=188|seats17=0
+|party18=Mpitolona Ho An'ny Fandrosoan'i Madagasikara (MFM)|votes18=172|seats18=0
+|party19=Roso Ho Amin'ny Demokrasia Sosialy (RDS)|votes19=156|seats19=0
+|party20=Les Autres Sensibilités (LES AS) |votes20=141|seats20=0
+|party21=Ensemble pour l'Intérêt de la Nation (ENINA)|votes21=131|seats21=0
+|party22=Ampela Manao Politika (AMP)|votes22=121|seats22=0
+|party23=Malagasy Iray Tsy Mivaky (MITM)|votes23=103|seats23=0
+|party24=Gasy Manankarena No Tanjona (GMT)|votes24=95|seats24=0
+|party25=Ezaka Marina Mampandroso Antsika (EMMA)|votes25=64|seats25=0
+|party26=OBAMA |votes26=38|seats26=0
+|party27=Mibanjina|votes27=26|seats27=0
+|party28=Independent|votes28=31730|seats28=2
+|invalid=2942
+|electorate=190757
+|source=HCC,<ref>{{Cite web |title=DEPUTATION (29 AOUT 2014) |url=http://www.hcc.gov.mg/elections/deputation2014/deputes |archive-url=https://web.archive.org/web/20171031234317/http://www.hcc.gov.mg/elections/deputation2014/deputes |archive-date=31 October 2017 |website=Haute Cour Constitutionnelle}}</ref> Election Passport<ref name="results" />
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20130923193229/http://robinson2013.mg/ Dr Jean Louis Robinson] (Malagasy only)
+*[https://web.archive.org/web/20131014171930/http://www.hasinimadagasikara.mg/ Saraha Georget Rabeharisoa] (Malagasy and French only)
+
+{{Malagasy elections}}
+
+[[Category:Presidential elections in Madagascar]]
+[[Category:2013 elections in Africa|Madagascar]]
+[[Category:2013 in Madagascar|General]]
+[[Category:Parliamentary elections in Madagascar]]
+[[Category:December 2013 in Africa|Madagascar]]

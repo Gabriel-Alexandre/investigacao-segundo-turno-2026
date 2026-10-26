@@ -1,0 +1,198 @@
+{
+ "modelo": "transferência por UF, mínimos quadrados com restrições, 40 reamostragens, intervalo de 90%",
+ "secoes": 497895,
+ "2026_votos_do_2t_por_origem": {
+  "lula": {
+   "lula": {
+    "votos": 53116855,
+    "de": 53099383,
+    "ate": 53135326
+   },
+   "flavio": {
+    "votos": 104099,
+    "de": 100293,
+    "ate": 112954
+   },
+   "cury": {
+    "votos": 1829501,
+    "de": 1817079,
+    "ate": 1838922
+   },
+   "renan": {
+    "votos": 1069989,
+    "de": 1056357,
+    "ate": 1079400
+   },
+   "caiado": {
+    "votos": 849068,
+    "de": 838923,
+    "ate": 858839
+   },
+   "demais_1t": {
+    "votos": 176173,
+    "de": 169000,
+    "ate": 182061
+   },
+   "bn_1t": {
+    "votos": 3721321,
+    "de": 3710831,
+    "ate": 3730302
+   },
+   "abst_1t": {
+    "votos": 3195754,
+    "de": 3177853,
+    "ate": 3218467
+   }
+  },
+  "flavio": {
+   "lula": {
+    "votos": 0,
+    "de": 0,
+    "ate": 1299
+   },
+   "flavio": {
+    "votos": 55311857,
+    "de": 55299016,
+    "ate": 55320353
+   },
+   "cury": {
+    "votos": 960378,
+    "de": 944299,
+    "ate": 970769
+   },
+   "renan": {
+    "votos": 925435,
+    "de": 915579,
+    "ate": 937146
+   },
+   "caiado": {
+    "votos": 1355580,
+    "de": 1345719,
+    "ate": 1366516
+   },
+   "demais_1t": {
+    "votos": 306946,
+    "de": 301612,
+    "ate": 311975
+   },
+   "bn_1t": {
+    "votos": 69961,
+    "de": 65800,
+    "ate": 78714
+   },
+   "abst_1t": {
+    "votos": 772516,
+    "de": 764064,
+    "ate": 786724
+   }
+  }
+ },
+ "2026_quem_votou_no_lula_no_1t_foi_para": {
+  "bu_lula": {
+   "votos": 53116855,
+   "de": 53099383,
+   "ate": 53135326
+  },
+  "bu_flavio": {
+   "votos": 0,
+   "de": 0,
+   "ate": 1299
+  },
+  "bn_2t": {
+   "votos": 88150,
+   "de": 84588,
+   "ate": 94427
+  },
+  "abst_2t": {
+   "votos": 516912,
+   "de": 500501,
+   "ate": 533629
+  }
+ },
+ "2026_quem_votou_no_flavio_no_1t_foi_para": {
+  "bu_lula": {
+   "votos": 104099,
+   "de": 100293,
+   "ate": 112954
+  },
+  "bu_flavio": {
+   "votos": 55311857,
+   "de": 55299016,
+   "ate": 55320353
+  },
+  "bn_2t": {
+   "votos": 176029,
+   "de": 171156,
+   "ate": 181067
+  },
+  "abst_2t": {
+   "votos": 368374,
+   "de": 355910,
+   "ate": 378687
+  }
+ },
+ "2026_eleitores_de_cada_candidato_entre_quem_votou_no_2t": {
+  "lula": {
+   "para_lula_pct": 99.8,
+   "para_o_outro_pct": 0.0,
+   "branco_nulo_pct": 0.2
+  },
+  "flavio": {
+   "para_lula_pct": 0.2,
+   "para_o_outro_pct": 99.5,
+   "branco_nulo_pct": 0.3
+  },
+  "cury": {
+   "para_lula_pct": 55.4,
+   "para_o_outro_pct": 29.1,
+   "branco_nulo_pct": 15.5
+  },
+  "renan": {
+   "para_lula_pct": 43.9,
+   "para_o_outro_pct": 38.0,
+   "branco_nulo_pct": 18.1
+  },
+  "caiado": {
+   "para_lula_pct": 33.9,
+   "para_o_outro_pct": 54.2,
+   "branco_nulo_pct": 11.9
+  },
+  "demais_1t": {
+   "para_lula_pct": 31.5,
+   "para_o_outro_pct": 55.0,
+   "branco_nulo_pct": 13.5
+  },
+  "bn_1t": {
+   "para_lula_pct": 62.7,
+   "para_o_outro_pct": 1.2,
+   "branco_nulo_pct": 36.1
+  }
+ },
+ "validacao_2022": {
+  "ciro_modelo": {
+   "para_lula_pct": 40.3,
+   "para_o_outro_pct": 42.4,
+   "branco_nulo_pct": 17.3
+  },
+  "tebet_modelo": {
+   "para_lula_pct": 37.8,
+   "para_o_outro_pct": 44.2,
+   "branco_nulo_pct": 18.0
+  },
+  "datafolha_5_7_out_2022": {
+   "ciro": {
+    "lula": 31,
+    "bolsonaro": 42,
+    "branco_nulo": 22,
+    "indecisos": 5
+   },
+   "tebet": {
+    "lula": 31,
+    "bolsonaro": 29,
+    "branco_nulo": 28,
+    "indecisos": 12
+   }
+  },
+  "mesmo_lado_que_o_datafolha": true
+ }
+}

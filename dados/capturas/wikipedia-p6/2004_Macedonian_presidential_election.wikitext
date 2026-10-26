@@ -1,0 +1,61 @@
+{{short description|none}}
+{{Infobox election
+| election_name= 2004 Macedonian presidential election
+| country= Republic of Macedonia
+| type= presidential
+| ongoing= no
+| previous_election= 1999 Macedonian  presidential election
+| previous_year= 1999
+| next_election= 2009 Macedonian presidential election
+| next_year= 2009
+| election_date=14 April 2004 (first round)<br>28 April 2004 (second round)
+| turnout = 55.18% (first round)<br>53.64% (second round)
+
+| image1= [[File:Branko Crvenkovski (cropped).jpg|150x150px]]
+| nominee1= '''{{nowrap|[[Branko Crvenkovski]]}}'''
+| party1= Social Democratic Union of Macedonia
+| popular_vote1=  '''550,317'''
+| percentage1= '''62.57%'''
+
+| image2= [[File:Сашко Кедев.jpg|150x150px]]
+| nominee2= [[Saško Kedev]]
+| party2= VMRO-DPMNE
+| popular_vote2= 329,179	
+| percentage2= 37.43%
+
+| map_image= Македонски претседателски избори 2004.png
+| map_size= 310px
+| map_caption=  
+| title= President
+| before_election= {{small|[[Ljupčo Jordanovski]] ([[Boris Trajkovski#Death|acting]])}}
+| before_party= Social Democratic Union of Macedonia
+| after_election= [[Branko Crvenkovski]]
+| after_party= Social Democratic Union of Macedonia
+}}{{Politics of the Republic of Macedonia}}
+Presidential elections were held in [[Republic of Macedonia|Macedonia]] on 14 April 2004, with a second round on 28 April.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1278 {{ISBN|978-3-8329-5609-7}}</ref> They followed the death in an air crash in February of incumbent President [[Boris Trajkovski]].
+
+Prime Minister [[Branko Crvenkovski]] of the [[Social Democratic Union of Macedonia|Social Democratic Union]] won the first round. As he failed to cross the 50% threshold, a second round was held in which he defeated [[Saško Kedev]] of [[Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity]]. In the immediate aftermath, Kedev alleged massive [[electoral fraud]].
+
+==Results==
+{{Election results
+|cand1=[[Branko Crvenkovski]]|party1=[[Social Democratic Union of Macedonia|Social Democratic Union]]|votes1=385347|votes1_2=550317|color1=#033A73
+|cand2=[[Saško Kedev]]|party2=[[VMRO-DPMNE]]|votes2=309132|votes2_2=329179
+|cand3=[[Gëzim Ostreni]]|party3=[[Democratic Union for Integration]]|votes3=134208
+|cand4=Zidi Xhelili|party4=[[Democratic Party of Albanians]]|votes4=78714
+|invalid=27971|invalid2=29793
+|electorate=1695103|electorate2=1695103
+|source=Nohlen & Stöver
+}}
+
+==References==
+{{reflist}}
+
+{{Macedonian elections}}
+
+[[Category:Presidential elections in North Macedonia]]
+[[Category:2004 elections in Europe|Macedonia]]
+[[Category:2004 in the Republic of Macedonia|Presidential election]]
+[[Category:April 2004 in Europe]]
+
+
+{{RMacedonia-election-stub}}

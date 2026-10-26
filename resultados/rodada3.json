@@ -1,0 +1,440 @@
+{
+ "casamento": {
+  "both": 499206,
+  "right_only": 42,
+  "left_only": 0
+ },
+ "secoes_comparadas": 499176,
+ "aptos_iguais_nos_dois_turnos_pct": 88.83,
+ "D1_saldo": {
+  "brasil": {
+   "lula_ganhou": 10376548,
+   "flavio_ganhou": 3721424,
+   "outros_1t": 9321882,
+   "abstencao_caiu": 2960278,
+   "branco_nulo_caiu": 1815994
+  },
+  "regiao": {
+   "Centro-Oeste": {
+    "lula_ganhou": 770876,
+    "flavio_ganhou": 470431,
+    "outros_1t": 988053,
+    "abstencao_caiu": 198463,
+    "branco_nulo_caiu": 54236
+   },
+   "Exterior": {
+    "lula_ganhou": 42713,
+    "flavio_ganhou": 27554,
+    "outros_1t": 29650,
+    "abstencao_caiu": 39487,
+    "branco_nulo_caiu": 982
+   },
+   "Nordeste": {
+    "lula_ganhou": 2955848,
+    "flavio_ganhou": 397763,
+    "outros_1t": 1812341,
+    "abstencao_caiu": 827117,
+    "branco_nulo_caiu": 714509
+   },
+   "Norte": {
+    "lula_ganhou": 474024,
+    "flavio_ganhou": 14110,
+    "outros_1t": 632284,
+    "abstencao_caiu": -237564,
+    "branco_nulo_caiu": 93733
+   },
+   "Sudeste": {
+    "lula_ganhou": 4800241,
+    "flavio_ganhou": 1944821,
+    "outros_1t": 4345335,
+    "abstencao_caiu": 1613789,
+    "branco_nulo_caiu": 785923
+   },
+   "Sul": {
+    "lula_ganhou": 1332846,
+    "flavio_ganhou": 866745,
+    "outros_1t": 1514219,
+    "abstencao_caiu": 518986,
+    "branco_nulo_caiu": 166611
+   }
+  }
+ },
+ "A1_votos_sem_origem": {
+  "excesso_lula": 148092,
+  "excesso_flavio": 1724,
+  "razao_2026_lula_sobre_flavio": 85.9,
+  "secoes_com_excesso_lula": 45026,
+  "secoes_com_excesso_flavio": 678,
+  "parte_do_excesso_lula_no_1pct_das_secoes": 0.2915,
+  "regua_2022": {
+   "secoes": 472028,
+   "excesso_bolsonaro_que_cresceu_mais": 78107,
+   "excesso_lula": 3672,
+   "razao_quem_cresceu_mais": 21.271
+  },
+  "excesso_lula_contra_margem_pct": 3.34,
+  "sinal": true
+ },
+ "A2_votos_que_somem": {
+  "pct_secoes_flavio_caiu_com_comparecimento_subindo": 6.852,
+  "pct_secoes_lula_caiu_com_comparecimento_subindo": 0.087,
+  "regua_2022_lula_que_cresceu_menos": 4.752,
+  "regua_2022_bolsonaro": 0.466,
+  "votos_perdidos_pelo_flavio_nessas_secoes": 112028,
+  "sinal": false
+ },
+ "A3_enchimento": {
+  "secoes_acima_do_p999_do_municipio": 4042,
+  "dessas_lula_acima_80": 857,
+  "dessas_flavio_acima_80": 72,
+  "canto_95_95_pct_2t_2026": 0.0132,
+  "canto_95_95_pct_1t_2026": 0.0054,
+  "canto_95_95_pct_2t_2022": 0.007,
+  "correlacao_comparecimento_lula_2t_2026": 0.0462,
+  "correlacao_comparecimento_lula_2t_2022": -0.0856,
+  "esperado_pela_proporcao_do_pais": {
+   "secoes_lula_acima_80_no_pais_pct": 7.15,
+   "secoes_flavio_acima_80_no_pais_pct": 1.44,
+   "esperado_lula": 289.1,
+   "esperado_flavio": 58.1,
+   "razao_observada_sobre_esperada_lula": 2.96,
+   "razao_observada_sobre_esperada_flavio": 1.24
+  },
+  "votos_validos_nas_secoes_marcadas_lula": 187588,
+  "esperado_pelo_proprio_municipio": {
+   "esperado_lula": 548.0,
+   "esperado_flavio": 86.0,
+   "razao_observada_sobre_esperada_lula": 1.564,
+   "razao_observada_sobre_esperada_flavio": 0.837,
+   "salto_medio_de_comparecimento_pontos": 6.95
+  },
+  "liberacao_sem_digital_nas_secoes_marcadas": {
+   "pct_nas_857": 13.62,
+   "pct_media_dos_mesmos_municipios": 12.76,
+   "diferenca_pontos": 0.86
+  },
+  "regua_2022_mesmo_controle": {
+   "secoes_marcadas": 3876,
+   "lula_acima_80": 804,
+   "esperado_lula": 645.6,
+   "bolsonaro_acima_80": 96,
+   "esperado_bolsonaro": 71.0,
+   "razao_lula": 1.245,
+   "razao_bolsonaro": 1.352
+  },
+  "sinal": true
+ },
+ "modelo_previsto": {
+  "coeficientes": [
+   0.0159,
+   1.0301,
+   0.0163,
+   0.5481,
+   0.0433
+  ],
+  "desvio_dos_residuos": 2.25,
+  "r2": 0.9831
+ },
+ "A8_pausa_e_cauda": {
+  "pausa": {
+   "secoes": 345,
+   "residuo_medio_pontos": -0.328,
+   "erro_padrao": 0.125,
+   "lula_pct_2t": 49.468,
+   "lula_pct_1t_mesmas_secoes": 43.049
+  },
+  "cauda_2pct": {
+   "secoes": 10129,
+   "residuo_medio_pontos": 0.323,
+   "erro_padrao": 0.023,
+   "lula_pct_2t": 54.139,
+   "lula_pct_1t_mesmas_secoes": 46.802
+  },
+  "resto": {
+   "secoes": 488702,
+   "residuo_medio_pontos": -0.006,
+   "erro_padrao": 0.003,
+   "lula_pct_2t": 51.736,
+   "lula_pct_1t_mesmas_secoes": 45.127
+  },
+  "depois_22h22": {
+   "secoes": 140,
+   "residuo_medio_pontos": -0.588,
+   "erro_padrao": 0.174,
+   "lula_pct_2t": 81.198,
+   "lula_pct_1t_mesmas_secoes": 76.55
+  },
+  "sinal": false
+ },
+ "A9_urna_trocada": {
+  "contingencia": {
+   "secoes": 2000,
+   "residuo_medio_pontos": -0.044,
+   "erro_padrao": 0.05,
+   "lula_pct_2t": 52.305,
+   "lula_pct_1t_mesmas_secoes": 45.737
+  },
+  "sem_contingencia": {
+   "secoes": 497176,
+   "residuo_medio_pontos": 0.0,
+   "erro_padrao": 0.003,
+   "lula_pct_2t": 51.783,
+   "lula_pct_1t_mesmas_secoes": 45.158
+  },
+  "sinal": false
+ },
+ "A10_unanimidades": {
+  "lula_acima_95_2t_2026": 1686,
+  "flavio_acima_95_2t_2026": 39,
+  "lula_acima_95_1t_2026_mesmas_regras": 1415,
+  "lula_acima_95_2t_2022": 2369,
+  "bolsonaro_acima_95_2t_2022": 21,
+  "das_1686_quantas_ja_eram_acima_de_90_no_1t": 1666,
+  "flavio_tinha_voto_no_1t_e_zerou": 56,
+  "lula_tinha_voto_no_1t_e_zerou": 0,
+  "condicao_lado_contra_lado": true,
+  "condicao_acima_do_1t_e_de_2022": false,
+  "sinal": true
+ },
+ "A11_residuos_por_municipio": {
+  "municipios": 5688,
+  "acima_de_3_ep_a_favor_do_lula": 500,
+  "acima_de_3_ep_a_favor_do_flavio": 1197,
+  "votos_validos_nos_municipios_lula": 47286047,
+  "top5_lula": [
+   {
+    "uf": "rj",
+    "municipio": "60011",
+    "secoes": 12635,
+    "residuo": 0.87,
+    "z": 43.35
+   },
+   {
+    "uf": "rj",
+    "municipio": "58190",
+    "secoes": 1190,
+    "residuo": 2.58,
+    "z": 39.51
+   },
+   {
+    "uf": "ba",
+    "municipio": "38490",
+    "secoes": 5124,
+    "residuo": 1.01,
+    "z": 32.23
+   },
+   {
+    "uf": "rj",
+    "municipio": "58335",
+    "secoes": 1975,
+    "residuo": 1.59,
+    "z": 31.48
+   },
+   {
+    "uf": "rj",
+    "municipio": "58971",
+    "secoes": 2019,
+    "residuo": 1.45,
+    "z": 28.89
+   }
+  ],
+  "top5_flavio": [
+   {
+    "uf": "go",
+    "municipio": "93734",
+    "secoes": 3043,
+    "residuo": -2.06,
+    "z": -50.46
+   },
+   {
+    "uf": "pr",
+    "municipio": "75353",
+    "secoes": 4056,
+    "residuo": -1.27,
+    "z": -35.92
+   },
+   {
+    "uf": "go",
+    "municipio": "92215",
+    "secoes": 847,
+    "residuo": -2.19,
+    "z": -28.29
+   },
+   {
+    "uf": "sc",
+    "municipio": "81795",
+    "secoes": 1234,
+    "residuo": -1.57,
+    "z": -24.58
+   },
+   {
+    "uf": "sc",
+    "municipio": "80470",
+    "secoes": 754,
+    "residuo": -1.73,
+    "z": -21.16
+   }
+  ]
+ },
+ "D3_abstencao": {
+  "correlacao_queda_da_abstencao_e_ganho_do_lula_pontos": 0.109,
+  "abstencao_caiu_em_pct_das_secoes": 76.57,
+  "por_quintil_de_queda": {
+   "0": 2.427,
+   "1": 2.8,
+   "2": 2.865,
+   "3": 2.94,
+   "4": 2.915
+  }
+ },
+ "D4_cidades_que_viraram": {
+  "municipios": 5688,
+  "do_flavio_para_o_lula": 219,
+  "do_lula_para_o_flavio": 4,
+  "por_regiao_flavio_para_lula": {
+   "Sudeste": 121,
+   "Sul": 40,
+   "Norte": 22,
+   "Centro-Oeste": 20,
+   "Nordeste": 10,
+   "Exterior": 6
+  },
+  "por_uf_flavio_para_lula": {
+   "mg": 76,
+   "sp": 33,
+   "pr": 20,
+   "rs": 19,
+   "go": 14,
+   "to": 12,
+   "rj": 9,
+   "al": 7,
+   "zz": 6,
+   "pa": 5
+  },
+  "aptos_nos_que_viraram_para_o_lula": 10948738,
+  "maiores_em_eleitores": [
+   {
+    "uf": "rj",
+    "municipio": "60011",
+    "nome": "RIO DE JANEIRO",
+    "aptos": 4952423.0,
+    "frente_lula_1t_pontos": -4.33,
+    "frente_lula_2t_pontos": 3.07
+   },
+   {
+    "uf": "sp",
+    "municipio": "67890",
+    "nome": "OSASCO",
+    "aptos": 583999.0,
+    "frente_lula_1t_pontos": -2.39,
+    "frente_lula_2t_pontos": 4.72
+   },
+   {
+    "uf": "pa",
+    "municipio": "04154",
+    "nome": "ANANINDEUA",
+    "aptos": 358272.0,
+    "frente_lula_1t_pontos": -1.31,
+    "frente_lula_2t_pontos": 5.22
+   },
+   {
+    "uf": "ap",
+    "municipio": "06050",
+    "nome": "MACAPÁ",
+    "aptos": 321520.0,
+    "frente_lula_1t_pontos": -4.28,
+    "frente_lula_2t_pontos": 1.99
+   },
+   {
+    "uf": "sp",
+    "municipio": "71218",
+    "nome": "SÃO VICENTE",
+    "aptos": 256038.0,
+    "frente_lula_1t_pontos": -8.5,
+    "frente_lula_2t_pontos": 0.75
+   },
+   {
+    "uf": "mg",
+    "municipio": "50911",
+    "nome": "RIBEIRÃO DAS NEVES",
+    "aptos": 218591.0,
+    "frente_lula_1t_pontos": -2.88,
+    "frente_lula_2t_pontos": 4.55
+   },
+   {
+    "uf": "sp",
+    "municipio": "63614",
+    "nome": "COTIA",
+    "aptos": 194136.0,
+    "frente_lula_1t_pontos": -5.02,
+    "frente_lula_2t_pontos": 2.39
+   },
+   {
+    "uf": "sp",
+    "municipio": "61638",
+    "nome": "ARARAQUARA",
+    "aptos": 170293.0,
+    "frente_lula_1t_pontos": -1.1,
+    "frente_lula_2t_pontos": 4.15
+   },
+   {
+    "uf": "mg",
+    "municipio": "51551",
+    "nome": "SANTA LUZIA",
+    "aptos": 164661.0,
+    "frente_lula_1t_pontos": -7.26,
+    "frente_lula_2t_pontos": 1.32
+   },
+   {
+    "uf": "rs",
+    "municipio": "85111",
+    "nome": "ALVORADA",
+    "aptos": 135998.0,
+    "frente_lula_1t_pontos": -4.09,
+    "frente_lula_2t_pontos": 3.82
+   },
+   {
+    "uf": "mg",
+    "municipio": "45950",
+    "nome": "IBIRITÉ",
+    "aptos": 122351.0,
+    "frente_lula_1t_pontos": -4.65,
+    "frente_lula_2t_pontos": 3.67
+   },
+   {
+    "uf": "rs",
+    "municipio": "89010",
+    "nome": "SAPUCAIA DO SUL",
+    "aptos": 102438.0,
+    "frente_lula_1t_pontos": -3.87,
+    "frente_lula_2t_pontos": 3.41
+   },
+   {
+    "uf": "mg",
+    "municipio": "51330",
+    "nome": "SABARÁ",
+    "aptos": 94322.0,
+    "frente_lula_1t_pontos": -1.77,
+    "frente_lula_2t_pontos": 6.25
+   },
+   {
+    "uf": "sp",
+    "municipio": "68977",
+    "nome": "POÁ",
+    "aptos": 89804.0,
+    "frente_lula_1t_pontos": -3.74,
+    "frente_lula_2t_pontos": 3.44
+   },
+   {
+    "uf": "rs",
+    "municipio": "85316",
+    "nome": "BAGÉ",
+    "aptos": 87799.0,
+    "frente_lula_1t_pontos": -0.49,
+    "frente_lula_2t_pontos": 6.53
+   }
+  ],
+  "frente_do_lula_aumentou_em_pct_dos_municipios": 96.54,
+  "virada_media_pontos": 4.62
+ }
+}

@@ -1,0 +1,84 @@
+{{short description|none}}
+{{Infobox election
+| country = Ghana
+| previous_election = 1992 Ghanaian presidential election
+| previous_year = 1992
+| next_election = 2000 Ghanaian general election
+| next_year = 2000
+| election_date = 7 December 1996
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| turnout = 78.31%
+
+| image1 = Jerry Rawlings visits AMISOM 02 (6874167713) (cropped).jpg
+| nominee1 = '''[[Jerry Rawlings]]'''
+| party1 = National Democratic Congress (Ghana)
+| alliance1 = Progressive Alliance<br />([[National Democratic Congress (Ghana)|NDC]]–[[Every Ghanaian Living Everywhere|EGLE]]–[[Democratic People's Party (Ghana)|DPP]])
+| popular_vote1 = '''4,099,758'''
+| percentage1 = '''57.37%'''
+
+| image2 = John Kufuor 080915-A-8817J-090.JPG
+| nominee2 = [[John Kufuor]]
+| party2 = New Patriotic Party
+| alliance2 = Great Alliance<br />([[New Patriotic Party|NPP]]–[[National Convention Party (Ghana)|NCP]])
+| popular_vote2 = 2,834,878
+| percentage2 = 39.67%
+
+| map_image = 1996 Ghanaian presidential election (percentage by region).svg
+| map_caption = Results by region
+| title = [[President of Ghana|President]]
+| before_election = [[Jerry Rawlings]]
+| before_party = National Democratic Congress (Ghana)
+| after_election = [[Jerry Rawlings]]
+| after_party = National Democratic Congress (Ghana)
+}}}}{{Politics of Ghana}}
+
+General elections were held in [[Ghana]] on 7 December 1996. In the presidential elections, incumbent [[Jerry Rawlings]] of the [[National Democratic Congress (Ghana)|National Democratic Congress]] (NDC) was re-elected in a single round, defeating [[John Kufuor]] of the Great Alliance (led by Kufuor's [[New Patriotic Party]]) with 57% of the vote. The NDC retained its majority in [[Parliament of Ghana|Parliament]], winning 133 of the 200 seats.<ref>[[Dieter Nohlen]], Michael Krennerich & Bernhard Thibaut (1999) ''Elections in Africa: A data handbook'', p435 {{ISBN|0-19-829645-2}}</ref>
+
+In contrast to the 1992 general elections, these elections were not mired in controversy.<ref name=":0">{{Cite journal |last=Lyons |first=Terrence |date=1997 |title=Ghana’s Encouraging Elections: A Major Step Forward |url=https://doi.org/10.1353/jod.1997.0019 |journal=Journal of Democracy |volume=8 |issue=2 |pages=65–77 |doi=10.1353/jod.1997.0019 |issn=1086-3214|url-access=subscription }}</ref><ref>{{Cite journal |date=1997 |title=Election Watch |url=https://muse.jhu.edu/pub/1/article/697488 |journal=Journal of Democracy |volume=8 |issue=1 |issn=1086-3214}}</ref> In the aftermath of the contentious 1992 elections, several electoral reforms were made with the intent to increase the perceived fairness of the electoral process and put in place measures to prevent fraud.<ref name=":0" />
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Jerry Rawlings]]|vp1=[[John Atta Mills]]|party1=Progressive Alliance ([[National Democratic Congress (Ghana)|NDC]]–[[Every Ghanaian Living Everywhere|EGLE]]–[[Democratic People's Party (Ghana)|DPP]])|color1={{party color|National Democratic Congress (Ghana)}}|votes1=4099758
+|cand2=[[John Kufuor]]|vp2=[[Kow Nkensen Arkaah]]|party2=Great Alliance ([[New Patriotic Party|NPP]]–[[National Convention Party (Ghana)|NCP]])|color2={{party color|New Patriotic Party}}|votes2=2834878
+|cand3=[[Edward Mahama]]|vp3=–|party3=[[People's National Convention (Ghana)|People's National Convention]]|votes3=211136
+|invalid=120921
+|electorate=9279605
+|source=Nohlen ''et al''.
+}}
+
+===Parliament===
+{{Election results
+|party1=[[National Democratic Congress (Ghana)|National Democratic Congress]]|votes1=3755801|seats1=133|sc1=–56
+|party2=[[New Patriotic Party]]|votes2=2372330|seats2=61|sc2=New
+|party3=[[People's Convention Party]]|votes3=466113|seats3=5|sc3=New
+|party4=[[People's National Convention (Ghana)|People's National Convention]]|votes4=254062|seats4=1|sc4=New
+|party5=[[National Convention Party (Ghana)|National Convention Party]]|votes5=65856|seats5=0|sc5=–8
+|party6=[[Democratic People's Party (Ghana)|Democratic People's Party]]|votes6=12032|seats6=0|sc6=New
+|party7=[[Every Ghanaian Living Everywhere]]|votes7=8665|seats7=0|sc7=–1
+|party8=[[Great Consolidated Popular Party]]|votes8=1485|seats8=0|sc8=New
+|party9=Independents|votes9=215326|seats9=0|sc9=–2
+|total_sc=0
+|valid=7156505
+|invalid=79970
+|electorate=9279605
+|source=[https://web.archive.org/web/20110717125901/http://www.ec.gov.gh/userfiles/1996%20Parliamentary%20Election%20Results.pdf Electoral Commission]
+}}
+
+==See also==
+*[[List of MPs elected in the 1996 Ghanaian parliamentary election]]
+
+==References==
+{{reflist}}
+
+{{Ghanaian elections}}
+
+[[Category:Presidential elections in Ghana]]
+[[Category:Parliamentary elections in Ghana]]
+[[Category:1996 elections in Africa|Ghana]]
+[[Category:1996 in Ghana|General]]
+[[Category:December 1996 in Africa]]

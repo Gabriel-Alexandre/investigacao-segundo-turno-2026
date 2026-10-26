@@ -1,0 +1,119 @@
+{{Short description|none}}
+{{Infobox election
+| election_name = 1990–91 Haitian general election
+| country = Haiti
+| type = presidential
+| ongoing = no
+| previous_election = 1988 Haitian general election
+| previous_year = 1988
+| next_election = 1995 Haitian general election
+| next_year = 1995
+| election_date = 16 December 1990 to 20 January 1991
+| registered = 3,271,155
+| image_size = 125x150px
+| image1 = Jean-Bertrand Aristide - 1991 (cropped).jpg
+| nominee1 = {{nowrap|'''[[Jean-Bertrand Aristide]]'''}}
+| party1 = [[National Front for Change and Democracy|FNCD]]
+| colour1 = 008800
+| popular_vote1 = '''1,107,125'''
+| percentage1 = '''67.48%'''
+| image2 = File:Noimage.png
+| nominee2 = {{nowrap|[[Marc Bazin]]}}
+| party2 = National Alliance for Democracy and Progress
+| popular_vote2 = 233,277
+| percentage2 = 14.22%
+| map_image = 1990-91 Haitian presidential election - Results by department.svg
+| map_size = 
+| map_caption = Results by department.
+| title = President
+| before_election = [[Ertha Pascal-Trouillot]]<br/>(Interim)
+| before_party = 
+| after_election = [[Jean-Bertrand Aristide]]
+| after_party = [[National Front for Change and Democracy|FNCD]]
+}}
+
+{{Politics of Haiti}}
+
+General elections were held in Haiti between 16 December 1990 and 20 January 1991. The presidential election, held on 16 December, resulted in a victory for [[Jean-Bertrand Aristide]] of the [[National Front for Change and Democracy]] (FNCD). The FNCD also won the parliamentary elections for which voter turnout was 50.8%.<ref>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', pp390-392 {{ISBN|978-0-19-928357-6}}</ref><ref name="ipu">[http://www.ipu.org/parline-e/reports/arc/2137_90.htm Haiti: Elections held in 1990] Inter-Parliamentary Union</ref>  It was widely reckoned as the first honest election held in Haiti since the country [[Haitian Declaration of Independence|declared independence]] in 1804.
+
+Aristide was sworn in on 7 February,<ref name="ipu" /> but was deposed in a [[1991 Haitian coup d'état|coup]] eight months later.
+
+==Background==
+For the elections, the [[United Nations General Assembly]] had established the United Nations Observer Group for the Verification of the Elections in Haiti (ONUVEH), which sent election monitors, as did the [[Organization of American States]]. These organisations helped ensure that the elections were free and fair.<ref>Collins, E & Cole, TM (1996) "Regime Legitimation in Instances of Coup-Caused Governments-in-Exile: The Cases of Presidents Makarios and Aristide" ''Journal of International Law & Practice'' 5(2), p218</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Jean-Bertrand Aristide]]|party1=[[National Front for Change and Democracy]]|votes1=1107125
+|cand2=[[Marc Bazin]]|party2=[[National Alliance for Democracy and Progress]]|votes2=233277
+|cand3=[[Louis Déjoie Jr.]]|party3=[[National Agricultural Industrial Party]]|votes3=80057
+|cand4=Hubert de Ronceray|party4=[[Movement for National Development (Haiti)|Movement for National Development]]|votes4=54871
+|cand5=Sylvio Claude|party5=[[Christian Democratic Party of Haiti]]|votes5=49149
+|cand6=René Théodore|party6=[[Unified Party of Haitian Communists]]|votes6=30064
+|cand7=Thomas Désulmé|party7=[[National Labour Party (Haiti)|National Labour Party]]|votes7=27362
+|cand8=Volvick Rémy Joseph|party8=[[National Cobite Movement]]|votes8=21351
+|cand9=François Latortue|party9=Democratic Movement for the Liberation of Haiti|votes9=15060
+|cand10=Richard Vladimir Jeanty|party10=Paradise Party|votes10=12296
+|cand11=Fritz Simon|party11=Independent|votes11=10117
+|invalid=
+|electorate=3271155
+|source=Nohlen
+}}
+
+===Chamber of Deputies===
+{{Election results
+|party1=[[National Front for Change and Democracy]]|votes1=|seats1=27|sc1=
+|party2=[[National Alliance for Democracy and Progress]]|votes2=|seats2=17|sc2=
+|party3=[[Christian Democratic Party of Haiti]]|votes3=|seats3=7|sc3=
+|party4=[[National Agricultural Industrial Party]]|votes4=|seats4=6|sc4=
+|party5=[[Rally of Progressive National Democrats]]|votes5=|seats5=6|sc5=
+|party6=[[Movement for National Development (Haiti)|Movement for National Development]]|votes6=|seats6=5|sc6=
+|party7=[[National Cobite Movement]]|votes7=|seats7=5|sc7=
+|party8=[[National Labour Party (Haiti)|National Labour Party]]|votes8=|seats8=3|sc8=
+|party9=Independents|votes9=|seats9=5|sc9=
+|totalvotes=1640729
+|electorate=3271155
+|source=Nohlen, [http://archive.ipu.org/parline-e/reports/arc/2137_90.htm IPU]
+}}
+
+===Senate===
+{{Election results
+|party1=[[National Front for Change and Democracy]]|votes1=|seats1=13|sc1=
+|party2=[[National Alliance for Democracy and Progress]]|votes2=|seats2=6|sc2=
+|party3=[[National Reconstruction Movement]]|votes3=|seats3=2|sc3=
+|party4=[[National Agricultural Industrial Party]]|votes4=|seats4=2|sc4=
+|party5=[[Christian Democratic Party of Haiti]]|votes5=|seats5=1|sc5=
+|party6=[[National Labour Party (Haiti)|National Labour Party]]|votes6=|seats6=1|sc6=
+|party7=[[Rally of Progressive National Democrats]]|votes7=|seats7=1|sc7=
+|party8=Independents|votes8=|seats8=1|sc8=
+|totalvotes=1640729
+|electorate=3271155
+|source=Nohlen, [https://books.google.com/books?id=kD5qi3MyEHYC&pg=PA368 Ameringer], [http://archive.ipu.org/parline-e/reports/arc/2138_90.htm IPU]
+}}
+
+The elected members were:{{cn|date=December 2014}}
+*Artibonite: [[Thomas Eddy Dupiton]], [[Déjean Bélizaire]], Serge Joseph
+*Centre: Serge Gilles, Hérard Pauyo, Smith Metelus, 
+*Grand-Anse: Robert Opont, [[Bernard Sansaricq]], Yvon Ghislain
+*Nord: Rony Mondestin, Edrice Raymond, Raoul Remy
+*Nord-Est:  [[Firmin Jean-Louis]], Judnel Jean, Amos Andre
+*Nord-Ouest: Luc Fleurinord, Ebrané Cadet, Art L. Austin
+*Ouest: Jacques Clarck Parent, Turneb Delpe, Wesner Emmanuel
+*Sud: Julio Larosiliere, Franck Leonard, Frahner Jean-Baptiste
+*Sud-Est: Guy Bauduy, Jean-Robert Martinez, Alberto Joseph
+
+==References==
+{{Reflist}}
+
+{{Haitian elections}}
+
+{{DEFAULTSORT:1990-91 Haitian general election}}
+[[Category:Elections in Haiti]]
+[[Category:1990 in Haiti]]
+[[Category:1991 in Haiti]]
+[[Category:1990 elections in the Caribbean|Haiti]]
+[[Category:1991 elections in the Caribbean|Haiti]]
+[[Category:Presidential elections in Haiti]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:December 1990 in North America]]
+[[Category:January 1991 in North America]]

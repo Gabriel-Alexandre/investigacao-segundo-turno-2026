@@ -1,0 +1,594 @@
+{{short description|none}}
+{{Use dmy dates|date=January 2022}}
+{{Infobox election
+| country = Colombia
+| type = presidential
+| previous_election = 2006 Colombian presidential election
+| previous_year = 2006
+| next_election = 2014 Colombian presidential election
+| next_year = 2014
+| election_date = 30 May 2010 (first round)<br />20 June 2010 (second round)
+| turnout = 49.30% (first round) {{increase}} 4.25pp<br/> 44.35% (second round) {{decrease}} 14.41pp
+| image1 = Juan Manuel Santos and Lula (cropped).jpg
+| nominee1 = '''[[Juan Manuel Santos]]'''
+| party1 = Social Party of National Unity
+| running_mate1 = '''[[Angelino Garzón]]'''
+| popular_vote1 = '''9,028,943'''
+| percentage1 = '''69.13%'''
+| image2 = Antanas Mockus (4) (cropped).jpg
+| nominee2 = [[Antanas Mockus]]
+| party2 = [[Green Alliance (Colombia)|Green Party]]
+| running_mate2 = [[Sergio Fajardo]]
+| popular_vote2 = 3,587,975
+| percentage2 = 27.47%
+| map_image = {{Switcher
+|[[File:2010 Colombian Presidential Election First Round Results.svg|270px]]
+|First round results by municipality
+|[[File:2010 Colombian Presidential Election Second Round Results.svg|270px]]
+|Second round results by municipality
+|default=2
+}}
+| title = President
+| before_election = [[Álvaro Uribe]]
+| before_party = Colombia First
+| after_election = [[Juan Manuel Santos]]
+| after_party = Social Party of National Unity
+}}{{Politics of Colombia}}
+
+Presidential elections were held in [[Colombia]] in 2010. They took place under a [[two-round system]], with an initial vote held on 30 May and a second poll held three weeks later on 20 June.<ref>{{cite web|author=Maximiliano Herrera |url=http://www.mherrera.org/elections.htm |title=Electoral Calendar- world elections, US elections, presidential election, world parties |publisher=Mherrera.org |access-date=2010-06-23}}</ref> A referendum proposal that would have allowed incumbent President [[Álvaro Uribe]] the opportunity to run for a third term was rejected by the [[Constitutional Court of Colombia]] in a 7–2 ruling on 26 February 2010.<ref>{{cite news |first=Patrick |last=Markey |title=Colombia's Uribe blocked from re-election |url=https://www.reuters.com/article/idUSN26220585420100227?type=usDollarRpt |publisher=Reuters |date=2010-02-26 |access-date=2010-02-26}}</ref>
+
+Because no candidate received a majority (more than one-half) of the votes cast in the 30 May poll, the candidates with the two highest vote totals competed in a runoff election on 20 June: [[Juan Manuel Santos]] of the liberal-conservative [[Social Party of National Unity]] which unites supporters of former President Uribe, and [[Antanas Mockus]] from the [[Green Party (Colombia)|Green Party]]. Santos won the election with 69% of the vote.
+
+==Candidates==
+=== Government group ===
+In 2002, Álvaro Uribe of the [[Colombia First]] party was elected [[President of Colombia]] with 53.1 per cent of the vote, breaking the two-party system that ruled the country since 1958, with the promise of ending the [[Colombian armed conflict (1964–present)|armed conflict]] that haunts the country since 1964 by strengthening the [[Colombian Armed Forces|Armed Forces]].<ref name="Ang">{{usurped|1=[https://web.archive.org/web/20100503010258/http://www.angus-reid.com/tracker/view/34921/colombia_2010 Uribe will not run again]}}. [[Angus Reid Global Monitor]]. March 14, 2010.</ref> In 2006, he managed to change the [[Constitution of Colombia|Constitution]] in order to run for a second consecutive term.<ref name="Ang"/> After a practically mute campaign, Uribe won the election with 62.2 per cent of the vote, followed by [[Carlos Gaviria]] of the [[Alternative Democratic Pole]] with a distant 22 per cent.<ref name="Ang"/>
+
+In 2007, {{interlanguage link|Luis Guillermo Giraldo|es}}, leader of the pro-Uribe [[Party of the U]], announced he would create the "promoters' committee", a group charged with gathering signatures to call a referendum on whether Uribe should be allowed to run for a third term in office.<ref name="Ang"/> In September 2009, Congress approved the referendum bill in a late-night voting boycotted by members of the opposition.<ref name="Ang" /> On 26 February 2010, the Constitutional Court voted against the referendum bill.<ref name="Ang" /> Immediately after the ruling, former defence minister [[Juan Manuel Santos]] confirmed that he would become a presidential candidate.<ref name="Ang"/> Another [[Uribism|Uribist]] candidate was [[Germán Vargas Lleras]] of the [[Radical Change]] party.<ref name="Ang"/> Former Colombian ambassador to the United Kingdom, [[Noemí Sanín]], and former agriculture minister [[Andrés Felipe Arias]], two of the closest Uribe allies, were seeking nomination by the [[Colombian Conservative Party|Conservative Party]].<ref name="Ang"/> Sanín was nominated.
+
+=== Opposition group ===
+Two of the opposition candidates were [[Rafael Pardo]] of the [[Colombian Liberal Party|Liberal Party]] and [[Gustavo Petro]] of the Alternative Democratic Pole.<ref name="Ang"/> [[Álvaro Leyva]], a Uribe opponent, was seeking the presidential nomination by the Conservative Party.<ref name="Ang"/> On 2 October 2009, the [[Green Party of Colombia Option Center|Green Party]] was officially created.<ref name="Ang" /> It nominated its presidential candidate on a primary ballot that took place on 14 March 2010, the same day as the legislative election.<ref name="Ang" /> The contenders were three former [[Bogotá]] mayors: [[Enrique Peñalosa]], [[Antanas Mockus]], and [[Luis Eduardo Garzón]]. The Greens seek to be a moderate force in what they called "a polarized" political situation, calling themselves "post-Uribists".<ref name="Ang" /> Mockus was chosen as their candidate. Former [[Medellín]] mayor [[Sergio Fajardo]] joined him as his running mate on {{Nowrap|5 April}} 2010, after missing the requirements to become a presidential candidate himself.<ref>{{cite web |url=http://www.angus-reid.com/polls/view/35342/santos_sann_could_go_to_run_off_in_colombia |title=Santos, Sanín Could Go to Run-off in Colombia: Angus Reid Global Monitor |publisher=Angus-reid.com |access-date=2010-06-23 |archive-url=https://web.archive.org/web/20100412141429/http://www.angus-reid.com/polls/view/35342/santos_sann_could_go_to_run_off_in_colombia |archive-date=2010-04-12 |url-status=usurped }}</ref>
+
+==Opinion polls==
+===First round===
+{| class=wikitable style=text-align:center;
+|-
+! rowspan=2| Date
+! rowspan=2| Institute
+! colspan=10| Candidate
+! rowspan=2|  Undecided<br/>(Ns/Nr)<br/>V. None
+! rowspan=2| Source
+|-
+! width=30| Rafael Pardo
+! width=30| [[Gustavo Petro]]
+! width=30| [[Germán Vargas Lleras]]
+! width=30| [[Sergio Fajardo]] 
+! width=30| [[Juan Manuel Santos]]
+! width=30| [[Antanas Mockus]]
+! width=30| [[Noemí Sanín]]
+! width=30| Róbinson Devia
+! width=30| Jaime Araújo
+! width=30| Jairo Calderón
+|-
+| 24 March 2010
+| Invamer Gallup
+| 5.1%
+| 6.3%
+| 6.2%
+| 6.1%
+| style="background:green; color:white" | 34.2%
+| 10.4%
+| style="background:red; color:white" | 23.3%
+| 0%
+| 0%
+| 0%
+| 8.4%
+| <ref>{{cite web|url=http://www.laopinion.com.co/noticias/index.php?option=com_content&task=view&id=347881&Itemid=31|title=Primera gran encuesta de medios sobre intención de voto para las próximas elecciones presidenciales|editor=La Opinión|date=24 March 2010|access-date=27 April 2010|archive-date=7 July 2011|archive-url=https://web.archive.org/web/20110707052647/http://www.laopinion.com.co/noticias/index.php?option=com_content&task=view&id=347881&Itemid=31|url-status=dead}}</ref>
+|-
+| 26 March 2010
+| Datexco
+| 5.5%
+| 7.1%
+| 6.6%
+| 4.4%
+| style="background:green; color:white" | 34.1%
+| 8.9%
+| style="background:red; color:white" | 21.7%
+| 0%
+| 0.2%
+| 0.1%
+| 11.4%
+| <ref>{{cite web|url=http://www.eltiempo.com/elecciones2010/juan-manuel-santos-y-noemi-sanin-encabezan-encuesta-presidencial-datexco_7481407-1|title=Juan Manuel Santos, con 34,1 por ciento, encabeza encuesta de Datexco; Noemí Sanín lo sigue con 21,7|editor=El Tiempo|date=26 March 2010}}</ref>
+|-
+| 27 March 2010
+| Ipsos Napoleón Franco
+| 4%
+| 6%
+| 8%
+| 5%
+| style="background:green; color:white" | 36%
+| 9%
+| style="background:red; color:white" | 17%
+| 1%
+| 0%
+| 0%
+| 14%
+| <ref>{{cite web|url=http://www.semana.com/noticias-nacion/partidor/136913.aspx|title=El Partidor|editor=Revista Semana|date=27 March 2010|access-date=27 April 2010|archive-date=13 April 2010|archive-url=https://web.archive.org/web/20100413174351/http://www.semana.com/noticias-nacion/partidor/136913.aspx|url-status=dead}}</ref>
+|-
+| 27 March 2010
+| Centro Nacional de Consultoría
+| 3.4%
+| 3.6%
+| 6.5%
+| 3.6%
+| style="background:green; color:white" | 28.6%
+| 11.3%
+| style="background:red; color:white" | 21.9%
+| 0%
+| 0%
+| 0%
+| 21.1%
+| <ref>{{cite web|url=http://www.poder360.com/article_detail.php?id_article=4013|title=¿Santos vs. Noemí en segunda vuelta?|editor=Revista Poder|date=27 March 2010|access-date=4 April 2010|archive-date=18 January 2012|archive-url=https://web.archive.org/web/20120118010837/http://www.poder360.com/article_detail.php?id_article=4013|url-status=usurped}}</ref>
+|-
+| 8 April 2010
+| Centro Nacional de Consultoría
+| 5%
+| 6%
+| 3%
+| -
+| style="background:green; color:white" | 37%
+| style="background:red; color:white" |22%
+| 20%
+| 0%
+| 0%
+| 0%
+| 7%
+| <ref>{{cite web|url=http://www.semana.com/noticias-actividad-politica/mockus-supera-sanin-encuesta-del-centro-nacional-consultoria/137336.aspx|title=Mockus supera a Sanín en encuesta del Centro Nacional de Consultoría|editor=Revista Semana|date=8 April 2010|access-date=27 April 2010|archive-date=11 April 2010|archive-url=https://web.archive.org/web/20100411202020/http://www.semana.com/noticias-actividad-politica/mockus-supera-sanin-encuesta-del-centro-nacional-consultoria/137336.aspx|url-status=dead}}</ref>
+|-
+| 9 April 2010
+| Datexco
+| 5.2%
+| 3.1%
+| 3%
+| -
+| style="background:green; color:white" | 29.5%
+| style="background:red; color:white" |24.8%
+| 16.4%
+| 0%
+| 0%
+| 0%
+| 17.2%
+| <ref>{{cite web|url=http://www.eltiempo.com/elecciones2010/santos-y-mockus-firmes-aspirantes-a-disputar-la-presidencia-en-segunda-vuelta-_7561207-1|title=Nuevo Opinómetro de Datexco revela que Santos y Mockus disputarían la segunda vuelta|editor=Diario El Tiempo|date=9 April 2010}}</ref>
+|-
+| 15 April 2010
+| Centro Nacional de Consultoría
+| 4%
+| 4%
+| 2%
+| -
+| style="background:green; color:white" | 36%
+| style="background:red; color:white" |29%
+| 19%
+| 0%
+| 1%
+| 0%
+| 5%
+| <ref>{{cite web|url=http://www.elespectador.com/noticias/politica/articulo198416-nueva-encuesta-presidencial-revela-mockus-esta-solo-7-puntos-de-san|title=Nueva encuesta presidencial revela que Mockus está a sólo 7 puntos de Santos|editor=Diario El Espectador|date=15 April 2010|access-date=27 April 2010|archive-date=18 April 2010|archive-url=https://web.archive.org/web/20100418195407/http://www.elespectador.com/noticias/politica/articulo198416-nueva-encuesta-presidencial-revela-mockus-esta-solo-7-puntos-de-san|url-status=dead}}</ref>
+|-
+| 16 April 2010
+| Ipsos Napoleón Franco
+| 5%
+| 4%
+| 3%
+| -
+| style="background:green; color:white" | 30%
+| style="background:red; color:white" |20%
+| 12%
+| 1%
+| 5%
+| 5%
+| 15%
+| <ref name="semana1">{{cite web|url=http://www.semana.com/noticias-elecciones-2010/habria-segunda-vuelta-santos-mockus-segun-gran-encuesta/137632.aspx|title=Habría segunda vuelta Santos – Mockus, según Gran Encuesta|editor=Revista Semana|date=16 April 2010|access-date=27 April 2010|archive-date=19 April 2010|archive-url=https://web.archive.org/web/20100419110236/http://www.semana.com/noticias-elecciones-2010/habria-segunda-vuelta-santos-mockus-segun-gran-encuesta/137632.aspx|url-status=dead}}</ref>
+|-
+| 22 April 2010
+| Centro Nacional de Consultoría
+| 5%
+| 5%
+| 4%
+| -
+| style="background:green; color:white" | 35%
+| style="background:red; color:white" |34%
+| 12%
+| 0%
+| 1%
+| 0%
+| 3%
+| <ref name="autogenerated1">{{cite web|url=http://www.cmi.com.co/?nt=43154|title=GRAN ENCUESTA CM&: Antanas Mockus ganaría la Presidencia si la segunda vuelta fuera mañana|editor=CM&|date=22 April 2010}}</ref>
+|-
+| 26 April 2010
+| Ipsos Napoleón Franco
+| 3%
+| 5%
+| 3%
+| -
+| style="background:red; color:white" | 29%
+| style="background:green; color:white" |38%
+| 11%
+| 0%
+| 1%
+| 0%
+| 10%
+| <ref name="semana2">{{cite web|url=http://www.semana.com/noticias-elecciones-2010/mockus-38-santos-29-primera-mockus-50-santos-37-segunda/138145.aspx|title=Mockus 38% – Santos 29%, en primera; Mockus 50% – Santos 37%, en segunda|editor=Semana|date=26 April 2010|access-date=27 April 2010|archive-date=30 April 2010|archive-url=https://web.archive.org/web/20100430164214/http://www.semana.com/noticias-elecciones-2010/mockus-38-santos-29-primera-mockus-50-santos-37-segunda/138145.aspx|url-status=dead}}</ref>
+|-
+| 28 April 2010
+| Invamer Gallup
+| 5.7%
+| 5.0%
+| 3.6%
+| -
+| style="background:green; color:white" | 34.2%
+| style="background:red; color:white" | 31.6%
+| 16.2%
+| 0%
+| 0.1%
+| 0%
+| 3.5%
+| <ref name="caracoltv1">{{cite web|url=http://www.caracoltv.com/node/176594|title=Santos ganaría en primera vuelta y Mockus, en segunda|editor=Caracol Televisión|date=28 April 2010|access-date=30 April 2010|archive-url=https://web.archive.org/web/20100501234959/http://www.caracoltv.com/node/176594|archive-date=1 May 2010|url-status=dead|df=dmy-all}}</ref>
+|-
+| 29 April 2010
+| Centro Nacional de Consultoría
+| 3%
+| 5%
+| 4%
+| -
+| style="background:red; color:white" | 34%
+| style="background:green; color:white" | 39%
+| 11%
+| 0%
+| 0%
+| 0%
+| 4%
+| <ref name="autogenerated2">{{cite web|url=http://www.cmi.com.co/?nt=43507|title=Candidato Antanas Mockus encabeza nueva encuesta de CM& y el Centro Nacional de Consultoría|editor=Noticiero CM&|date=29 April 2010}}</ref>
+|-
+| 30 April 2010
+| Datexco
+| 2.3%
+| 2.9%
+| 3.3%
+| -
+| style="background:red; color:white" | 26.7%
+| style="background:green; color:white" |38.7%
+| 9.8%
+| 0%
+| 0%
+| 0%
+| 16.3%
+| <ref name="eltiempo1">{{cite web|url=http://www.eltiempo.com/elecciones2010/encuesta-de-datexco_7688488-1|title=Mockus tendría el 41,5% de intención de voto en segunda vuelta y Santos el 29%, según Datexco |editor=El Tiempo|date=30 April 2010}}</ref>
+|-
+| 6 May 2010
+| Centro Nacional de Consultoría
+| 3%
+| 5%
+| 5%
+| -
+| style="background:red; color:white" | 34%
+| style="background:green; color:white" |38%
+| 11%
+| 0%
+| 0%
+| 0%
+| 4%
+| <ref name="elespectador1">{{cite web|url=http://elespectador.com/noticias/politica/articulo201878-nueva-encuesta-da-mockus-una-ventaja-de-cuatro-puntos-sobre-santos|title=Nueva encuesta da a Mockus una ventaja de cuatro puntos sobre Santos |editor=El Espectador|date=6 May 2010}}</ref>
+|-
+| 7 May 2010
+| Datexco
+| 1.4%
+| 4.2%
+| 3.1%
+| -
+| style="background:red; color:white" | 25.2%
+| style="background:green; color:white" |37.7%
+| 6.7%
+| 0%
+| 0%
+| 0%
+| 21.7%
+| <ref name="wradio1">{{cite web|url=http://wradio.com.co/nota.aspx?id=1230566|title=Antanas Mockus con un 37,7% encabeza intención de voto, revela encuesta de Datexco|editor=W Radio|date=7 May 2010|access-date=8 May 2010|archive-date=9 October 2011|archive-url=https://web.archive.org/web/20111009015039/http://wradio.com.co/nota.aspx?id=1230566|url-status=dead}}</ref>
+|-
+| 9 May 2010
+| Ipsos Napoleón Franco
+| 4%
+| 4%
+| 3%
+| -
+| style="background:green; color:white" | 35%
+| style="background:red; color:white" |34%
+| 8%
+| 0%
+| 0%
+| 0%
+| 12%
+| <ref name="semana3">{{cite web|url=http://www.semana.com/noticias-nacion/empatados/138625.aspx|title=¡Empatados!|editor=Semana|date=9 May 2010|access-date=9 May 2010|archive-date=10 May 2010|archive-url=https://web.archive.org/web/20100510173914/http://www.semana.com/noticias-nacion/empatados/138625.aspx|url-status=dead}}</ref>
+|-
+| 13 May 2010
+| Centro Nacional de Consultoría
+| 3%
+| 4%
+| 4%
+| -
+| style="background:green; color:white" | 38%
+| style="background:red; color:white" |36%
+| 9%
+| 0%
+| 0%
+| 0%
+| 6%
+| <ref name="autogenerated3">{{cite web|url=http://www.cmi.com.co/default.asp?nt=44171|title=Nueva gran encuesta presidencial CM& – Centro Nacional de Consultoría|editor=CM&|date=13 May 2010|access-date=17 May 2010|archive-url=https://web.archive.org/web/20110707052745/http://www.cmi.com.co/default.asp?nt=44171|archive-date=7 July 2011|url-status=dead|df=dmy-all}}</ref>
+|-
+| 14 May 2010
+| Datexco
+| 3.1%
+| 7.5%
+| 4.3%
+| -
+| style="background:red; color:white" | 29.3%
+| style="background:green; color:white" |32.8%
+| 5.6%
+| 0%
+| 0.4%
+| 0%
+| 13.8%
+| <ref name="caracol1">{{cite web|url=http://www.caracol.com.co/nota.aspx?id=1298525|archive-url=https://archive.today/20130101163353/http://www.caracol.com.co/nota.aspx?id=1298525|url-status=dead|archive-date=1 January 2013|title=Nueva encuesta de Datexco mantiene en primer lugar a Mockus|editor=Caracol Radio|date=14 May 2010}}</ref>
+|-
+| 19 May 2010
+| Invamer Gallup
+| 3.8%
+| 7.3%
+| 3.8%
+| -
+| style="background:green; color:white" | 37.5%
+| style="background:red; color:white" | 35.4%
+| 8.8%
+| 0.1%
+| 0.2%
+| 0%
+| 3.1%
+| <ref name="eltiempo.com">{{cite web|url=http://www.eltiempo.com/elecciones2010/santos-con-el-375-y-mockus-con-el-354-encabezan-intencion-de-voto-encuesta-invamer-gallup_7717085-1|title=Santos, con el 37,5%, y Mockus, con el 35,4%, encabezan intención de voto: encuesta Invamer Gallup|editor=El Tiempo|date=19 May 2010}}</ref>
+|-
+| 20 May 2010
+| University of Medellin
+| 2.4%
+| 5.5%
+| 3.6%
+| -
+| style="background:red; color:white" | 32.9%
+| style="background:green; color:white" | 37.4%
+| 8.1%
+| 0.4%
+| 0.2%
+| 0.1%
+| 6.9%
+| <ref>{{cite web|url=http://www.eltiempo.com/elecciones2010/santos-39-mockus-34-segun-la-mas-reciente-encuesta-del-centro-nacional-de-consultoria_7718316-1|title=Segunda Encuesta Elecciones Presidenciales 2010|editor=El Espectador|date=20 May 2010}}</ref>
+|-
+| 20 May 2010
+| Centro Nacional De Consultoría
+| 4%
+| 5%
+| 4%
+| -
+| style="background:green; color:white" | 39%
+| style="background:red; color:white" | 34%
+| 9%
+| 0%
+| 0%
+| 0%
+| 4%
+| <ref name="http">{{cite web|url=http://www.eltiempo.com/elecciones2010/santos-39-mockus-34-segun-la-mas-reciente-encuesta-del-centro-nacional-de-consultoria_7718316-1|title=Santos 39%; Mockus 34%, según la más reciente encuesta del centro Nacional de Consultoría|editor=El Tiempo|date=20 May 2010}}</ref>
+|-
+| 21 May 2010
+| Datexco
+| 2%
+| 5%
+| 3%
+| -
+| style="background:green; color:white" | 35%
+| style="background:red; color:white" | 34%
+| 9%
+| 0%
+| 0%
+| 0%
+| 12%
+| <ref>{{cite web|url=http://e.eltiempo.com/media/produccion/encuesta21Mayo/index.html|title=Empate técnico entre Santos, con el 35%, y Mockus, con el 34%, revela sondeo de Datexco|editor=El Tiempo|date=21 May 2010}}</ref>
+|-
+| 22 May 2010
+| Ipsos Napoleón Franco
+| 3%
+| 6%
+| 5%
+| -
+| style="background:green; color:white" | 34%
+| style="background:red; color:white" | 32%
+| 6%
+| 0%
+| 0%
+| 0%
+| 14%
+| <ref name="elespectador.com">{{cite web|url=http://www.elespectador.com/noticias/politica/articulo-204600-santos-ganador-primera-vuelta-mientras-mockus-haria-segunda|title=Santos ganador en primera vuelta mientras Mockus lo haría en la segunda|editor=El Espectador|date=22 May 2010}}</ref>
+|}
+
+===Second round: Mockus vs. Santos===
+{| class=wikitable style=text-align:center;
+|-
+! rowspan=2| Date
+! rowspan=2| Institute
+! colspan=2 | Candidate
+! rowspan=2|  Undecided<br/>(Ns/Nr)<br/>V. None
+! rowspan=2| Source
+|-
+! width=90| Juan Manuel Santos
+! width=90| Antanas Mockus
+|-
+| 15 April 2010
+| Centro Nacional de Consultoría
+| style="background:green; color:white" | 49%
+| style="background:red; color:white" |44%
+| 7%
+| <ref>{{cite web|url=http://www.elpais.com.co/paisonline/notas/Abril152010/encuestapresis.html|title=Según nueva encuesta, Mockus está a siete puntos de Santos|editor=Diario El Pais|date=15 April 2010}}{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|-
+| 16 April 2010
+| Ipsos Napoleón Franco
+| style="background:green; color:white" | 45%
+| style="background:red; color:white" |37%
+| 18%
+| <ref name="semana1"/>
+|-
+| 22 April 2010
+| Centro Nacional de Consultoría
+| style="background:red; color:white" | 44%
+| style="background:green; color:white" |50%
+| 6%
+| <ref name="autogenerated1"/>
+|-
+| 26 April 2010
+| Ipsos Napoleón Franco
+| style="background:red; color:white" | 37%
+| style="background:green; color:white" |50%
+| 13%
+| <ref name="semana2"/>
+|-
+| 28 April 2010
+| Invamer Gallup
+| style="background:red; color:white" | 42.2%
+| style="background:green; color:white" |47.9%
+| 9.9%
+| <ref name="caracoltv1"/>
+|-
+| 29 April 2010
+| Centro Nacional de Consultoría
+| style="background:red; color:white" | 42%
+| style="background:green; color:white" |53%
+| 5%
+| <ref name="autogenerated2"/>
+|-
+| 30 April 2010
+| Datexco
+| style="background:red; color:white" | 29%
+| style="background:green; color:white" |41.5%
+| 29.5%
+| <ref name="eltiempo1"/>
+|-
+| 6 May 2010
+| Centro Nacional de Consultoría
+| style="background:red; color:white" | 43%
+| style="background:green; color:white" |50%
+| 7%
+| <ref name="elespectador1"/>
+|-
+| 7 May 2010
+| Datexco
+| style="background:red; color:white" | 30.5%
+| style="background:green; color:white" |52%
+| 17.5%
+| <ref name="wradio1"/>
+|-
+| 9 May 2010
+| Ipsos Napoleón Franco
+| style="background:red; color:white" | 41%
+| style="background:green; color:white" |48%
+| 11%
+| <ref name="semana3"/>
+|-
+| 13 May 2010
+| Centro Nacional de Consultoría
+| style="background:green; color:white" | 47%
+| style="background:green; color:white" |47%
+| 6%
+| <ref name="autogenerated3"/>
+|-
+| 14 May 2010
+| Datexco
+| style="background:red; color:white" | 33.6%
+| style="background:green; color:white" |47.9%
+| 17.5%
+| <ref name="caracol1"/>
+|-
+| May 19, 2010
+| Invamer Gallup
+| style="background:red; color:white" | 42.2%
+| style="background:green; color:white" |48.5%
+| 9.3%
+| <ref name="eltiempo.com"/>
+|-
+| 20 May 2010
+| University of Medellin
+| style="background:red; color:white" | 36%
+| style="background:green; color:white" | 41.4%
+| 22.6%
+| <ref>{{cite web|url=http://www.elespectador.com/noticias/politica/articulo-204224-encuesta-de-universidad-de-medellin-da-ganador-mockus|title=Encuesta de la Universidad de Medellín da como ganador a Mocku|editor=El Espectador|date=20 May 2010}}</ref>
+|-
+| 20 May 2010
+| Centro Nacional de Consultoría
+| style="background:green; color:white" | 47%
+| style="background:red; color:white" |46%
+| 7%
+| <ref name="http"/>
+|-
+| 21 May 2010
+| Datexco
+| style="background:red; color:white" | 44%
+| style="background:green; color:white" |45%
+| 11%
+| <ref>{{cite web|url=http://www.eltiempo.com/elecciones2010/empate-tecnico-entre-santos-y-mockus_7718443-1|title=Empate técnico entre Santos, con el 35%, y Mockus, con el 34%, revela sondeo de Datexco|editor=El Tiempo|date=21 May 2010}}</ref>
+|-
+| 22 May 2010
+| Ipsos Napoleón Franco
+| style="background:red; color:white" | 40%
+| style="background:green; color:white" |45%
+| 15%
+| <ref name="elespectador.com"/>
+|-
+| 3 June 2010
+| Centro Nacional de Consultoría
+| style="background:green; color:white" | 61.6% 	
+| style="background:red; color:white" |29.8% 	
+| 5.8%
+| <ref>{{cite web|url=https://www.google.com/hostednews/afp/article/ALeqM5jgVjbqVJQfff66c25g64PKEpTk_Q|archive-url=https://web.archive.org/web/20100610071948/http://www.google.com/hostednews/afp/article/ALeqM5jgVjbqVJQfff66c25g64PKEpTk_Q|url-status=dead|archive-date=10 June 2010|title=Los sondeos dan una victoria aplastante de Santos en las elecciones de Colombia|editor=AFP|date=3 June 2010}}</ref>
+|}
+
+==Conduct==
+On election day seven Colombian security services personnel were killed and eight were missing; parallels were drawn with FARC attacks and Santos' tenure as Defense Minister.<ref>{{cite web|url=http://english.aljazeera.net/news/americas/2010/06/201062018745679669.html |title=Police killed on Colombia poll day - Americas |publisher=Al Jazeera English |date=2010-05-29 |access-date=2010-06-23}}</ref>
+
+== Results ==
+No candidate received an outright majority in the first round vote held on 30 May. Santos and Mockus faced one another in the runoff election on 20 June, leading to the election of Juan Manuel Santos as the next Colombian President. Santos achieved a landslide victory, with 69 per cent of the votes.<ref name="Landslide win for Santos in Colombian election">{{cite news|author=Hennigan, Tom|url=http://www.irishtimes.com/newspaper/world/2010/0622/1224273028612.html|title=Landslide win for Santos in Colombian election|date=22 June 2010|newspaper=[[The Irish Times]]|publisher=Irish Times Trust|access-date=22 June 2010}}</ref> Mockus got 27.51 per cent of votes.<ref>{{cite news|author=Xuequan, Mu|url=http://news.xinhuanet.com/english2010/world/2010-06/21/c_13359750.htm|archive-url=https://web.archive.org/web/20121106220443/http://news.xinhuanet.com/english2010/world/2010-06/21/c_13359750.htm|url-status=dead|archive-date=6 November 2012|title=Santos elected as new president of Colombia|date=20 June 2010|work=[[Xinhua News Agency]]|access-date=20 June 2010}}</ref> This was the largest margin of victory for a president in the democratic period of Colombia's history.<ref name="U.S. is 'pleased' with Colombia's new president-elect Santos">{{cite news|url=http://www.thehindu.com/news/international/article478757.ece|title=U.S. is 'pleased' with Colombia's new president-elect Santos|date=22 June 2010|work=[[The Hindu]]|access-date=22 June 2010}}{{dead link|date=September 2026|bot=medic}}{{cbignore|bot=medic}}</ref> Santos won 32 of the country's 33 electoral districts.<ref name="Landslide win for Santos in Colombian election" /> His allies have an overwhelming majority in the Colombian Congress.<ref name="Landslide win for Santos in Colombian election" /> Santos vowed to continue his predecessor's hardline stance against the country's Marxist rebels.<ref name="Landslide win for Santos in Colombian election" /> He paraphrased [[Isaac Newton]] – "If we have come far it's because we are standing on the shoulders of giants" – and said he would rid Colombia of what he described as the "nightmare of violence".<ref>{{cite news|author1=Murphy, Helen |author2=Bristow, Matthew|url=http://www.businessweek.com/news/2010-06-21/colombia-s-santos-hails-uribe-in-landslide-victory-correct-.html|archive-url=https://archive.today/20120529202315/http://www.businessweek.com/news/2010-06-21/colombia-s-santos-hails-uribe-in-landslide-victory-correct-.html|url-status=dead|archive-date=29 May 2012|title=Colombia's Santos Hails Uribe in Landslide Victory (Correct)|date=21 June 2010|work=[[Business Week]]|access-date=21 June 2010}}</ref> The United States [[United States Department of State|State Department]] said it was "pleased" with the election of Santos and praised the "spirited debate" before the runoff and Colombia's "longstanding commitment to democratic principles".<ref name="U.S. is 'pleased' with Colombia's new president-elect Santos" />
+
+{{Election results
+|cand1=[[Juan Manuel Santos]]|vp1=[[Angelino Garzón]]|party1=[[Social Party of National Unity]]|votes1=6802043|votes1_2=9028943
+|cand2=[[Antanas Mockus]]|vp2=[[Sergio Fajardo]]|party2=[[Green Alliance (Colombia)|Green Party]]|votes2=3134222|votes2_2=3587975
+|cand3=[[Germán Vargas Lleras]]|vp3=[[Elsa Noguera]]|party3=[[Radical Change]]|votes3=1473627
+|cand4=[[Gustavo Petro]]|vp4=[[Clara López]]|party4=[[Alternative Democratic Pole]]|votes4=1331267
+|cand5=[[Noemí Sanín]]|vp5={{interlanguage link|Luis Ernesto Mejía|es}}|party5=[[Colombian Conservative Party]]|votes5=893819
+|cand6=[[Rafael Pardo]]|vp6=[[Aníbal Gaviria]]|party6=[[Colombian Liberal Party]]|votes6=638302
+|cand7=Róbinson Devia|vp7=Olga Lucía Taborda|party7=Voice of Conscience Movement|votes7=31338|color7=#53d9bb
+|cand8=Jairo Calderón|vp8=Jobanny Burbano|party8=[[Liberal Opening Movement]]|votes8=29151
+|cand9=Jaime Araújo|vp9=Ana María Cabal|party9=Afro-Colombian Social Alliance|votes9=14847
+|row10=Blank votes|votes10=223977|votes10_2=444274
+|invalid=208427|invalid2=235732|invalidonly=y
+|electorate=29983279|electorate2=29983279
+|source=[http://www.registraduria.gov.co/imagenes/res_1190.pdf RNEC], [http://www.registraduria.gov.co/imagenes/escrutinio_seg_vuelta.pdf RNEC], [https://www.electionguide.org/elections/id/2149/ IFES], [https://www.electionguide.org/elections/id/2151/ IFES]
+}}
+
+== See also ==
+
+* [[Chameleon Operation (Colombia)]]
+
+==References==
+{{Reflist}}
+
+{{Colombian elections}}
+
+[[Category:Presidential elections in Colombia]]
+[[Category:2010 elections in South America|Colombia]]
+[[Category:2010 in Colombia|Presidential]]
+[[Category:May 2010 in South America|Colombia]]
+[[Category:June 2010 in South America|Colombia]]
+[[Category:May 2010 elections]]
+[[Category:June 2010 elections]]

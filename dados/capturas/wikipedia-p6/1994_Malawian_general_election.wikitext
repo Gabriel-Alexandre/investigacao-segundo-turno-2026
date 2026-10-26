@@ -1,0 +1,135 @@
+{{Short description|none}}
+{{Use dmy dates|date=September 2022}}
+{{Infobox election
+| country = Malawi
+| election_date = 17 May 1994
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| vote_type = Popular
+| image_size = 130x130px
+| next_election = 1999 Malawian general election
+| next_year = 1999
+| registered = 3,775,256
+| turnout = 80.56%
+
+| image1 = Visit of Bakili Muluzi, President of Malawi, to the EC - 2002 (cropped).jpg
+| nominee1 = '''[[Bakili Muluzi]]'''
+| running_mate1 = '''[[Justin Malewezi]]'''
+| party1 = United Democratic Front (Malawi)
+| popular_vote1 = '''1,404,754'''
+| percentage1 = '''47.15%'''
+
+| image2 = Dr HK Banda, first president of Malawi.jpg
+| nominee2 = [[Hastings Banda]]
+| running_mate2 = [[Gwanda Chakuamba]]
+| party2 = Malawi Congress Party
+| popular_vote2 = 996,353
+| percentage2 = 33.44%
+
+| image3 = {{Election image filler|Alliance for Democracy (Malawi)|AD}}
+| nominee3 = [[Chakufwa Chihana]]
+| party3 = Alliance for Democracy (Malawi)
+| popular_vote3 = 562,862
+| percentage3 = 18.89%
+
+| map_image = 1994 Malawian presidential election - Results by region and district.svg
+| map_caption = Results by [[Regions of Malawi|region]] (left) and [[Districts of Malawi|district]] (right)
+
+| title = [[President of Malawi|President]]
+| before_election = [[Hastings Banda]]
+| before_party = Malawi Congress Party
+| after_election = [[Bakili Muluzi]]
+| after_party = United Democratic Front (Malawi)
+
+| module = {{Infobox legislative election
+| previous_election = [[1992 Malawian general election|1992]]
+| next_election = [[1999 Malawian general election|1999]]
+| election_name = Legislative election
+| embed = yes
+| seats_for_election = All 177 seats in the [[National Assembly (Malawi)|National Assembly]]
+| majority_seats = 89
+| turnout = 79.60%
+
+| party1 = United Democratic Front (Malawi)
+| leader1 = [[Bakili Muluzi]]
+| last_election1 = New
+| seats1 = 85
+| percentage1 = 46.38
+
+| party2 = Malawi Congress Party
+| leader2 = [[Hastings Banda]]
+| last_election2 = 102
+| seats2 = 56
+| percentage2 = 33.69
+
+| party3 = Alliance for Democracy (Malawi)
+| leader3 = [[Chakufwa Chihana]]
+| last_election3 = New
+| seats3 = 36
+| percentage3 = 18.97
+| map = 1994 Malawian parliamentary election - Results by constituency.svg
+| map_caption = Results by constituency
+}}}}}}{{Politics of Malawi}}
+
+General elections were held in [[Malawi]] on 17 May 1994 to elect the [[President of Malawi|President]] and [[National Assembly of Malawi|National Assembly]]. They were the first multi-party elections in the country since prior to independence in [[1964 Nyasaland general election|1964]], and the first since the [[1993 Malawian democracy referendum|restoration of multi-party democracy]] the previous year. The [[Malawi Congress Party]] (MCP), which had governed the country since independence (from 1966 to 1993 as the [[one-party state|sole legal party]]), was decisively beaten by the [[United Democratic Front (Malawi)|United Democratic Front]] (UDF).
+
+MCP leader [[Hastings Banda]], who had become president upon Malawi being proclaimed a republic in 1966 (he had served as [[Prime Minister of Malawi|Prime Minister]] from independence until 1966), ran in his first election since being stripped of his title of [[president for life]] in 1993. He was defeated by the UDF's [[Bakili Muluzi]], who received 47% of the vote to Banda's 33%.<ref name=IPU/>
+
+The UDF became the largest party in the National Assembly, but was three seats short of a majority. The MCP finished a distant second, and was left with less than one-third of the seats in the enlarged National Assembly.
+
+With the MCP's defeat beyond doubt, Banda conceded defeat two days after the polls closed and promised his "full support and cooperation" during the transition.<ref>{{cite news|url=https://www.nytimes.com/1994/05/20/world/one-of-africa-s-last-dictators-bows-to-democracy.html|title=One of Africa's Last Dictators Bows to Democracy|author1=Bill Keller|publisher=[[The New York Times]]|date=20 January 1994}}</ref> Reputedly in his mid-nineties, he would have been the oldest elected president in world history had he won.
+
+The election completed Malawi's transition to full democracy.<ref>{{Cite journal |last=Posner |first=Daniel N |date=1995 |title=Malawi's New Dawn |url=https://muse.jhu.edu/pub/1/article/16658 |journal=Journal of Democracy |volume=6 |issue=1 |pages=131–145 |issn=1086-3214}}</ref>
+
+==Campaign==
+The National Assembly elections were contested by eight parties, who put forward a total of 600 candidates, as well as 13 independents. The UDF won 88 seats, three short of a majority, whilst the MCP finished second with 56 seats. Results in two seats, both won by Banda's MCP, were annulled due to irregularities.<ref name=IPU>[http://www.ipu.org/parline-e/reports/arc/2195_94.htm Malawi: Parliamentary Chamber: National Assembly: Elections held in 1994] Inter-Parliamentary Union</ref> Voter turnout was 79.6%.<ref>[[Dieter Nohlen]], Michael Krennerich & Bernhard Thibaut (1999) ''Elections in Africa: A data handbook'', p558 {{ISBN|0-19-829645-2}}</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Bakili Muluzi]]|vp1=[[Justin Malewezi]]<ref>https://www.nyasatimes.com/mutharikas-runningmate-puzzle-tembenu-faction-emerges-in-dpp/ "In 1994, Bakili Muluzi chose a career civil servant, Justin Malewezi as his running-mate, and despite serving with him for two terms, he lost elections in 2004 when he took a go at the presidency."</ref>|party1=[[United Democratic Front (Malawi)|United Democratic Front]]|votes1=1404754
+|cand2=[[Hastings Banda]]|vp2=[[Gwanda Chakuamba]]<ref>https://www.thetimes.com/uk/obituaries/article/john-tembo-obituary-zm7tdxrr5 "The 95-year-old Banda's last insult to Tembo was to choose the more popular Gwanda Chakuamba as his running mate for the elections in May 1994."</ref>|party2=[[Malawi Congress Party]]|votes2=996353
+|cand3=[[Chakufwa Chihana]]|vp3={{nbsp}}|party3=[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes3=562862
+|cand4=[[Kamlepo Kalua]]|vp4={{nbsp}}|party4=[[Malawi Democratic Party]]|votes4=15624
+|invalid=65619
+|electorate=3775256
+|source=<ref name="results">{{Cite web |title=1994 General Elections |url=https://mec.org.mw/wp-content/uploads/2018/11/PPE-RESULTS-1994.pdf |website=Malawi Electoral Commission |format=PDF}}</ref>
+}}
+
+===National Assembly===
+{{Election results
+|image=[[File:Malawian National Assembly 1994.svg]]
+|party1=[[United Democratic Front (Malawi)|United Democratic Front]]|votes1=1360432|seats1=85|sc1=New
+|party2=[[Malawi Congress Party]]|votes2=988172|seats2=56|sc2=–85
+|party3=[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes3=556457|seats3=36|sc3=New
+|party4=United Front for Multiparty Democracy|votes4=9721|seats4=0|sc4=New
+|party5=[[Malawi Democratic Party]]|votes5=6980|seats5=0|sc5=New
+|party6=Malawi National Democratic Party|votes6=2913|seats6=0|sc6=New
+|party7=Congress for the Second Republic|votes7=2118|seats7=0|sc7=New
+|party8=Malawi Democratic Union|votes8=323|seats8=0|sc8=New
+|party9=Independents|votes9=6159|seats9=0|sc9=New
+|valid=2932395
+|invalid=72731
+|total_sc=+26
+|electorate=3775256
+|source=<ref name="results"/>
+}}
+
+==Aftermath==
+Following the elections, on 25 May Muluzi formed a 25-member [[Cabinet of Malawi|cabinet]], including members of the [[Malawi National Democratic Party]] and the [[United Front for Multiparty Democracy]]. He left three posts unfilled in the hope that the [[Alliance for Democracy (Malawi)|Alliance for Democracy]] would also join the government.<ref name=IPU/>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.youtube.com/watch?v=dFDZjZVTXBs Post-election report] on [[Sky News]]
+
+{{Malawian elections}}
+
+[[Category:Presidential elections in Malawi]]
+[[Category:Parliamentary elections in Malawi]]
+[[Category:1994 elections in Africa|Malawi]]
+[[Category:1994 in Malawi|General]]
+[[Category:May 1994 in Africa|Malawi]]

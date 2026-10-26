@@ -1,0 +1,193 @@
+{{Short description|none}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox election
+| country = Guatemala
+| previous_election = 2003 Guatemalan general election
+| previous_year = 2003
+| next_election = 2011 Guatemalan general election
+| next_year = 2011
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 9 September 2007 (first round) <br/> 4 November 2007 (second round)
+| turnout = 60.36% (first round) {{increase}} 2.47[[percentage point|pp]]<br />48.20% (second round) {{increase}} 1.42[[percentage point|pp]]
+
+| image1 = Foto oficial de Álvaro Colom (cropped 2).png
+| nominee1 = '''[[Álvaro Colom]]'''
+| popular_vote1 = '''1,449,533'''
+| percentage1 = '''52.81%'''
+| party1 = National Unity of Hope
+| running_mate1 ='''[[Rafael Espada]]'''
+
+| image2 = Pérez Molina cropped.jpg
+| nominee2 = [[Otto Pérez Molina]]
+| popular_vote2 = 1,295,108
+| percentage2 = 47.19%
+| party2 = Patriotic Party (Guatemala)
+| running_mate2 =Ricardo Castillo
+
+| map_image = Resultados por departamento de las elecciones presidenciales de Guatemala de 2007.png
+| map_caption = Results by department
+
+| title = President
+| before_election = [[Óscar Berger]]
+| before_party = Grand National Alliance (Guatemala)
+| posttitle = President-elect
+| after_election = [[Álvaro Colom]]
+| after_party = National Unity of Hope
+}}
+}}{{Politics of Guatemala}}
+
+General elections were held in [[Guatemala]] on 9 September to elect a new [[President of Guatemala|President]] and [[Vice President of Guatemala|Vice President]] of the Republic, 158 [[Congress of Guatemala|congressional deputies]], and [[Municipalities of Guatemala|332 mayors]]. As no presidential candidate received a majority of the vote, a second round was held on 4 November.
+
+Colom was elected [[President of Guatemala]]. It would mark the first time since 1954 that Guatemala had a left wing government.<ref name=upppavg>{{cite web|url=http://archive.transparency.org/publications/newsletter/2008/january_2008/interview|title=publications/newsletter/2008/January 2008/interview|author=Transparency International e.V.|url-status=dead|archive-url=https://web.archive.org/web/20160325125627/http://archive.transparency.org/publications/newsletter/2008/january_2008/interview|archive-date=2016-03-25}}</ref>
+
+==Presidential and vice-presidential candidates==
+*[[Óscar Castañeda]] (VP: [[Roger Valenzuela]]) for the [[National Advancement Party]] (PAN)
+*[[Vinicio Cerezo Blandón]] (VP: [[Pablo Ramírez Rivas]]) for [[Guatemalan Christian Democracy]] (DCG). Cerezo Blandón is the son of [[Vinicio Cerezo|Vinicio Cerezo Arévalo]], who served as president from 1986 to 1991.
+*[[Álvaro Colom]] (VP: [[Rafael Espada|José Rafael Espada]]) for the [[National Unity of Hope]] (UNE). Colom was the runner-up in the [[2003 Guatemalan general election|2003 presidential election]].
+*[[Manuel Conde Orellana]] (VP: [[Juan Francisco Manrique]]) for the [[Democratic Union (Guatemala)|Democratic Union]] (UD)
+*[[Mario Estrada]] (VP: [[Mario Torres Marroquín]]) for the [[Nationalist Change Union]] (UCN).
+*[[Fritz García-Gallont]] (VP: [[Enrique Godoy García Granados]]) for the [[Unionist Party (Guatemala)|Unionist Party]] (PU) both mayors of the capital.
+*[[Alejandro Giammattei]] (VP: [[Alfredo Vila Girón]]) for the [[Grand National Alliance (Guatemala)|Grand National Alliance]] (GANA). Giammattei served as director of the national prison service under GANA president [[Óscar Berger]].
+*[[Pablo Monsanto]] (VP: [[Mariano Portillo Lemus]]) for the [[New Nation Alliance]] (ANN).
+*[[Rigoberta Menchú]] (VP: [[Luis Fernando Montenegro]]) for the [[Encounter for Guatemala]] (EG) party.  Menchú is a [[K'iche' people|K'iche' Maya]] and [[Nobel Peace Prize]] laureate. Press reports in late August reported that she had withdrawn from the race because of financial constraints and low levels of support;<ref>[http://english.people.com.cn/90001/90777/6248535.html Guatemala Nobel Prize winner Menchu halts presidential campaign] ''People's Daily'', 27 August 2007</ref> these reports were false.<ref>[https://canalmenchu.blogspot.com/2007/08/mench-no-ha-cerrado-campaa-por-falta-de.html Menchú NO ha cerrado campaña por falta de recursos]</ref>
+*[[Otto Pérez Molina]] (VP: [[Ricardo Castillo Sinibaldi]]) for the [[Patriotic Party (Guatemala)|Patriotic Party]]. Pérez Molina is a retired army general who was active in the [[Guatemalan Civil War|Civil War]].
+*[[Luis Rabbé]] (VP: [[Haroldo Quej Chen]]) for the [[Guatemalan Republican Front]] (FRG)
+*[[Héctor Rosales]] (VP: [[Carlos Pérez Rodríguez]]) for [[Authentic Integral Development]] (DIA).
+*[[Miguel Ángel Sandoval]] (VP: [[Walda Barrios Ruiz]]) for [[Guatemalan National Revolutionary Unity]]–MAIZE (URNG–MAIZ).
+*[[Eduardo Suger]] (VP: [[Erwin Lobos Ríos]]) for the [[Social Action Centre]] (CASA).
+
+==Opinion polls==
+{| class=wikitable style=text-align:center
+!Pollster!! Date !! [[Álvaro Colom|Colom]] !! [[Otto Pérez Molina|Pérez]] !! [[Alejandro Giammattei|Giammattei]] !! [[Rigoberta Menchú|Menchú]] !! [[Eduardo Suger|Suger]] !! Undecided
+|-
+|[https://web.archive.org/web/20110928220626/http://www.sigloxxi.com/index.php?link=noticias&noticiaid=15542&PHPSESSID=293321d6e9aa41c8b251a12f3ea4d975 Siglo XXI]||November 2007||47.4||'''52.6'''||–||–||–||–
+|-
+|[http://www.prensalibre.com/pl/domingo/elecciones/laencuesta/301007.pdf BGC]||November 2007||48.0||'''52.0'''||–||–||–||–
+|-
+|[http://www.prensalibre.com/pl/domingo/elecciones/laencuesta/301007.pdf Prensa Libre]||November 2007||47.0||'''53.0'''||–||–||–||–
+|-
+|[http://www.elperiodico.com.gt/es/20071029/actualidad/45081/ El Periódico]||November 2007||'''39.4'''||35.1||–||–||–||25.5
+|-
+|[http://www.elperiodico.com.gt/look/downloads/encuestas/encuesta20071012.pdf El Periódico]||October 2007||37.3||'''39.8'''||–||–||–||22.9
+|-
+|[http://www.reforma.com/internacional/articulo/409/816088/default.asp?PlazaConsulta=reforma&DirCobertura=&TipoCob=0 Siglo XXI]||October 2007||46.2||'''53.8'''||–||–||–||–
+|-
+|[http://www.prensalibre.com/pl/domingo/elecciones/laencuesta/290907.pdf Prensa Libre]||October 2007||45.6||'''54.4'''||–||–||–||–
+|-
+|[https://web.archive.org/web/20070927190544/http://www.plenglish.com/article.asp?ID=%7B3CB9F6D5-56F4-40BA-83C9-8DE509C2DD53%7D%29&language=EN Prensa Latina]||September 2007||'''34.7'''||26.8||13.3||–||–||–
+|-
+|[http://www.reforma.com/internacional/articulo/400/799046/default.asp?PlazaConsulta=reforma&DirCobertura=&TipoCob=0 Siglo XXI]||September 2007||'''41.4'''||39.3||9.5||5||–||–
+|-
+|[http://www.prensalibre.com/pl/domingo/elecciones/pdfs/050907.pdf Prensa Libre]||September 2007||31.7||'''31.8'''||14.6||3.1||4.5||27.6
+|-
+|[http://www.elperiodico.com.gt/look/downloads/encuestas/Encuestaelecciones-20070831.pdf El Periódico]||August 2007||'''30.7'''||27.7||10.5||5.7||1.7||16.7
+|-
+|[http://www.prensalibre.com/pl/domingo/elecciones/pdfs/encuesta6pl_220807.pdf Prensa Libre]||August 2007||'''22'''||17.5||7.67||2.42||3.17||28.83 
+|- 
+|[http://www.elperiodico.com.gt/look/downloads/encuestas/Encuestaelecciones-20070831.pdf El Periódico]||July 2007||'''33'''||23.1||8.9||5.5||–||18.5
+|-
+|[http://www.prensalibre.com/pl/domingo/elecciones/pdfs/encuesta6pl_220807.pdf Prensa Libre]||July 2007||'''21.33'''||14.42||8.17||2.42||2.5||37.92
+|-
+|[http://www.elperiodico.com.gt/look/downloads/encuestas/Encuestaelecciones-20070831.pdf El Periódico]||June 2007||'''28'''||13.2||5.8||6.7||–||33.4
+|-
+|[http://www.prensalibre.com/pl/domingo/elecciones/pdfs/encuesta6pl_220807.pdf Prensa Libre]||June 2007||'''20.75'''||12.25||8.17||1.5||1||–
+|-
+|[http://www.elperiodico.com.gt/look/downloads/encuestas/Encuestaelecciones-20070831.pdf El Periódico]||May 2007||'''25.9'''||15.3||5.6||6.2||–||36
+|-
+|[http://www.prensalibre.com/pl/domingo/elecciones/pdfs/encuesta6pl_220807.pdf Prensa Libre]||May 2007||'''20.6'''||11.4||7.1||2.9||1.5||–
+|-
+|[http://www.elperiodico.com.gt/look/downloads/encuestas/Encuestaelecciones-20070831.pdf El Periódico]||April 2007||'''28.6'''||10.4||6.3||5.6||–||42.3 
+|-
+|[http://www.prensalibre.com/pl/domingo/elecciones/pdfs/encuesta6pl_220807.pdf Prensa Libre]||April 2007||'''26.5'''||10||9.6||2.75||1.25||–
+|-
+|[http://www.elperiodico.com.gt/look/downloads/encuestas/Encuestaelecciones-20070831.pdf El Periódico]||January 2007||'''34.6'''||15.9||0.2||1.4||–||29.8 
+|-
+|[http://www.prensalibre.com/pl/domingo/elecciones/pdfs/encuesta6pl_220807.pdf Prensa Libre]||January 2007||'''21.23'''||10.52||7.54||2.18||0.60||–
+|}
+
+==Results==
+===President===
+Around 60% of the voting public participated in the 9 September first-round vote. However, no candidate secured more than 50% of the vote, and so a run-off election was held between [[Álvaro Colom]] of the [[National Unity of Hope]] (UNE) and former Army General [[Otto Pérez Molina]] of the [[Patriotic Party (Guatemala)|Patriotic Party]] (PP) on 4 November 2007.<ref>{{usurped|1=[https://web.archive.org/web/20080706152438/http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14718 Colom Far Ahead of Rivals in Guatemala]}} Angus Reid Global Monitor, 13 February 2007</ref><ref>[http://news.bbc.co.uk/2/hi/americas/6986834.stm Guatemala heads for run-off vote] BBC News, 10 September 2007</ref>
+
+The ruling [[Grand National Alliance (Guatemala)|Grand National Alliance]] (GANA), after placing third in the first-round vote, declined to endorse either Colom or Pérez Molina for the second round.<ref>[http://www.plenglish.com/article.asp?ID={EF1E4EE3-1117-4BEE-AABF-B412A09AF3CF}&language=EN GANA Party Stays Neutral] {{Webarchive|url=https://web.archive.org/web/20071109062500/http://www.plenglish.com/article.asp?ID=%7BEF1E4EE3-1117-4BEE-AABF-B412A09AF3CF%7D&language=EN |date=9 November 2007 }} Prensa Latina, 13 September 2007</ref>
+
+With 97.23% of the vote counted in the second round, Colom was declared the winner with just over 52 percent.
+
+{{Election results
+|cand1=[[Álvaro Colom]]|vp1=[[Rafael Espada]]|party1=[[National Unity of Hope]]|votes1=926236|votes1_2=1449533
+|cand2=[[Otto Pérez Molina]]|vp2=Ricardo Castillo Sinibaldi|party2=[[Patriotic Party (Guatemala)|Patriotic Party]]|votes2=771813|votes2_2=1295108
+|cand3=[[Alejandro Giammattei]]|vp3=Alfredo Vila Girón|party3=[[Grand National Alliance (Guatemala)|Grand National Alliance]]|votes3=565017
+|cand4=[[Eduardo Suger]]|vp4=Erwin Lobos Ríos|party4=[[Social Action Centre]]|votes4=244373
+|cand5=[[Luis Rabbé]]|vp5=Haroldo Quej Chen|party5=[[Guatemalan Republican Front]]|votes5=239204
+|cand6={{ill|Mario Estrada|es}}|vp6=Mario Torres Marroquín|party6=[[National Change Union]]|votes6=103695
+|cand7=[[Rigoberta Menchú]]|vp7=Luis Fernando Montenegro|party7=[[Encuentro por Guatemala]]|votes7=100365
+|cand8=[[Fritz García Gallont]]|vp8=Enrique Godoy García Granados|party8=[[Unionist Party (Guatemala)|Unionist Party]]|votes8=95280
+|cand9=Óscar Castañeda|vp9=Roger Valenzuela|party9=[[National Advancement Party]]|votes9=83369
+|cand10={{ill|Miguel Ángel Sandoval|es|Miguel Ángel Sandoval Vásquez}}|vp10=Walda Barrios Ruiz|party10=[[Guatemalan National Revolutionary Unity]]|votes10=70208
+|cand11=[[Manuel Conde Orellana]]|vp11=Juan Francisco Manrique|party11=[[Democratic Union (Guatemala)|Democratic Union]]|votes11=24893
+|cand12=Pablo Monsanto|vp12=Mariano Portillo Lemus|party12=[[New Nation Alternative|New Nation Alliance]]|votes12=19640
+|cand13=Héctor Rosales|vp13=Carlos Pérez Rodríguez|party13=[[Authentic Integral Development]]|votes13=18395
+|cand14=Vinicio Cerezo Blandón|vp14=Pablo Ramírez Rivas|party14=[[Guatemalan Christian Democracy]]|votes14=16461
+|invalid=336918|invalid2=142565
+|electorate=5990029|electorate2=5990029
+|source=[https://web.archive.org/web/20080823054623/http://resultados2007.tse.org.gt/simogua1v/Results?dep=0&mun=0&dist=0&elec=1&lvl=1&tipoResultados=O&jvm=12&selectedMenu=INICIO TSE], [https://web.archive.org/web/20080507143042/http://resultados2007.tse.org.gt/simogua/Results?dep=0&mun=0&dist=0&lvl=1&jvm=12&elec=1 TSE]
+}}
+
+===Congress===
+The [[National Unity of Hope]] (UNE) made huge gains in the election, gaining 20 seats. The [[Patriotic Party (Guatemala)|Patriotic Party]] (PP), which ran independent of the [[Grand National Alliance (Guatemala)|Grand National Alliance]] (GANA), won 29 seat, while GANA won 37 seats.
+
+{{Election results
+|image={{Parliament diagram |background=#F8F9FA
+|n1 =   2 | p1 = Guatemalan National Revolutionary Unity
+|n2 =   4 | p2 = Encuentro por Guatemala
+|n3 =  52 | p3 = National Unity of Hope
+|n4 =   1 | p4 = Democratic Union (Guatemala)
+|n5 =   5 | p5 = Social Action Centre
+|n6 =  29 | p6 = Patriotic Party (Guatemala)
+|n7 =   5 | p7 = National Change Union
+|n8 =  37 | p8 = Grand National Alliance (Guatemala)
+|n9 =   3 | p9 = National Advancement Party
+|n10 = 14 | p10 = Guatemalan Republican Front
+|n11 =  6 | p11 = Unionist Party (Guatemala)
+}}
+|firstround=National|secondround=District
+|party1=[[National Unity of Hope]]|votes1=720285|seats1=8|votes1_2=705300|seats1_2=44|totseats1=52|sc1=+20
+|party2=[[Grand National Alliance (Guatemala)|Grand National Alliance]]|votes2=521600|seats2=6|votes2_2=552976|seats2_2=31|totseats2=37|sc2=–10
+|party3=[[Patriotic Party (Guatemala)|Patriotic Party]]|votes3=493791|seats3=6|votes3_2=516287|seats3_2=23|totseats3=29|sc3=New
+|party4=[[Guatemalan Republican Front]]|votes4=306166|seats4=3|votes4_2=304255|seats4_2=11|totseats4=14|sc4=–29
+|party5=[[Encuentro por Guatemala]]|votes5=194809|seats5=2|votes5_2=135934|seats5_2=2|totseats5=4|sc5=New
+|party6=[[Unionist Party (Guatemala)|Unionist Party]]|votes6=192295|seats6=2|votes6_2=210750|seats6_2=4|totseats6=6|sc6=–1
+|party7=[[Social Action Centre]]|votes7=154001|seats7=1|votes7_2=148353|seats7_2=4|totseats7=5|sc7=New
+|party8=[[National Advancement Party]]|votes8=143268|seats8=1|votes8_2=164743|seats8_2=2|totseats8=3|sc8=–14
+|party9=[[National Change Union]]|votes9=128109|seats9=1|votes9_2=144747|seats9_2=4|totseats9=5|sc9=New
+|party10=[[Guatemalan National Revolutionary Unity]]|votes10=112249|seats10=1|votes10_2=100179|seats10_2=1|totseats10=2|sc10=0
+|party11=[[Authentic Integral Development]]|votes11=45082|seats11=0|votes11_2=47952|seats11_2=0|totseats11=0|sc11=–1
+|party12=[[Democratic Union (Guatemala)|Democratic Union]]|votes12=44359|seats12=0|votes12_2=47418|seats12_2=1|totseats12=1|sc12=–1
+|party13=[[New Nation Alternative]]|votes13=43148|seats13=0|votes13_2=46248|seats13_2=0|totseats13=0|sc13=–6
+|party14=[[Front for Democracy]]|votes14=28604|seats14=0|votes14_2=25784|seats14_2=0|totseats14=0|sc14=New
+|party15=[[Guatemalan Christian Democracy]]|votes15=25450|seats15=0|votes15_2=21192|seats15_2=0|totseats15=0|sc15=–1
+|party16=[[Bienestar Nacional]]|votes16_2=8921|seats16_2=0|totseats16=0|sc16=New
+|invalid=452503|invalid2=432380
+|total_sc=0
+|electorate=5990029|electorate2=5990029
+|source=[https://www.tse.org.gt/Memoria%20Electoral%202007.pdf TSE], [https://www.electionguide.org/elections/id/1482/ IFES]
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070320135525/http://www.eleccionesguatemala.com/ Elecciones Guatemala] {{in lang|es}}
+
+{{Guatemalan elections}}
+
+[[Category:Parliamentary elections in Guatemala]]
+[[Category:2007 elections in Central America|Guatemala]]
+[[Category:2007 in Guatemala|General election]]
+[[Category:Presidential elections in Guatemala]]
+[[Category:November 2007 elections]]
+[[Category:November 2007 in North America]]
+[[Category:September 2007 elections]]

@@ -1,0 +1,77 @@
+{{short description|none}}
+{{Use dmy dates|date=June 2023}}
+{{Infobox election
+| country = Croatia
+| type = presidential
+| previous_election = 2000 Croatian presidential election
+| previous_year = 2000
+| next_election = 2009–10 Croatian presidential election
+| next_year = {{nowrap|2009–10}}
+| election_date = 2 January 2005 (first round)<br />{{nowrap|16 January 2005 (second round)}}
+| turnout = 50.57% (first round) <br />51.04% (second round)
+| image1 = Stjepan Mesić (2004-02-25) (cropped).jpg
+| nominee1 = '''[[Stjepan Mesić]]'''
+| colour1 = ffe01c
+| party1 = [[Independent politician|Independent]] ([[Croatian People's Party (1990)|HNS]])
+| popular_vote1 = '''1,454,451'''
+| percentage1 = '''65.93%'''
+| image2 = Jadranka Kosor 26052011 crop.jpg
+| nominee2 = [[Jadranka Kosor]]
+| party2 = Croatian Democratic Union
+| popular_vote2 = 751,692
+| percentage2 = 34.07%
+| map_image = Croatia 2005 results runoff.PNG
+| map_caption = Second round results by [[Counties of Croatia|county]]<br/>{{Legend2|orange|[[Stjepan Mesić]]}} {{Legend2|{{party color|Croatian Democratic Union}}|[[Jadranka Kosor]]}}
+| title = President
+| before_election = [[Stjepan Mesić]]
+| before_party = Independent politician
+| after_election = [[Stjepan Mesić]]
+| after_party = Independent politician
+}}{{Politics of Croatia}}
+
+Presidential elections were held in [[Croatia]] in January 2005, the fourth such elections since independence in 1991. They were the first presidential elections held after the constitutional reforms of November 2000, which replaced a [[semi-presidential system]] with an incomplete [[parliamentary system]], greatly reducing the powers of the president in favor of the [[Prime Minister of Croatia|Prime Minister]] and the cabinet. Incumbent president [[Stjepan Mesić]], who had been elected in [[2000 Croatian presidential election|2000]] as the candidate of the [[Croatian People's Party (1990)|Croatian People's Party]], was eligible to seek reelection to a second term and ran as an independent as the [[Constitution of Croatia|constitution]] prohibited the president from holding party membership while in office.
+
+The elections resulted in the landslide re-election of Mesić for a second five-year term. They were also the first in which a woman, [[Croatian Democratic Union]] candidate [[Jadranka Kosor]], took part in the runoff. The percentage of the vote received by Mesić in the second round – 66% – was the highest of any president until [[Zoran Milanović]]'s victory in 2025. Mesić had received an absolute majority of the votes cast within Croatia itself in the first round, but the votes of Croatian citizens living abroad forced a run-off by reducing Mesić's overall percentage to just under the necessary 50% + 1 vote threshold needed to win in the first round. Voter turnout was 51% in both rounds.
+
+Mesić was sworn in for a second term on 18 February 2005 by the Chief justice of the Constitutional Court.
+
+==Background==
+The Croatian State Elections Committee published a list of potential candidates on 15 December 2004. President [[Stjepan Mesić]] stood for re-election, and the governing [[Croatian Democratic Union|HDZ]] nominated cabinet minister [[Jadranka Kosor]]. A total of thirteen candidates were accepted, each after having submitted 10,000 citizen signatures, an endorsement required by law.
+
+==Results==
+{{Election results
+|cand1=[[Stjepan Mesić]]|party1=[[Croatian People's Party (1990)|Croatian People's Party]] and others|votes1=1089398|votes1_2=1454451
+|cand2=[[Jadranka Kosor]]|party2=[[Croatian Democratic Union]]|votes2=452218|votes2_2=751692
+|cand3=[[Boris Mikšić]]|party3=Independent|votes3=396093
+|cand4=[[Đurđa Adlešič]]|party4=[[Croatian Social Liberal Party]]|votes4=59795
+|cand5=[[Slaven Letica]]|party5=[[Croatian Party of Rights]]|votes5=57748
+|cand6=[[Ljubo Ćesić]]|party6=Independent|votes6=41216
+|cand7=[[Ivić Pašalić]]|party7=[[Croatian Bloc (political party)|Croatian Bloc–Movement for a Modern Croatia]]|votes7=40637|color7=red
+|cand8=[[Anto Kovačević]]|party8=[[Croatian Christian Democratic Union]]|votes8=19145
+|cand9=[[Miroslav Blažević]]|party9=Independent|votes9=17847
+|cand10=[[Miroslav Rajh]]|party10=Croatian Youth Party|votes10=14766
+|cand11=Doris Košta|party11=Independent|votes11=8271
+|cand12=Mladen Kešer|party12=Independent|votes12=7056
+|cand13=[[Tomislav Petrak]]|party13=[[Croatian Popular Party (1997)|Croatian Popular Party]]|votes13=2614
+|invalid=20269|invalid2=35617
+|electorate=4403933|electorate2=4392220
+|source=[http://www.izbori.hr/2005Pred/index.html State Election Committee]
+}}
+
+==Analysis==
+Most polls before the first round predicted that incumbent president [[Stjepan Mesić]] would be reelected without a runoff, securing [[Two-round system|50% + 1 vote]].<ref>{{cite web | url=http://predsjednicki-izbori.com/istrazivanja/bandic-treci-a-jos-se-nije-ni-kandidirao/ | title=Jutarnji list i Mediana: Bandić treći, a još se nije ni kandidirao | date=19 September 2009 | work=[[Jutarnji list]] | language=Croatian | accessdate=11 November 2009 | archive-date=1 October 2018 | archive-url=https://web.archive.org/web/20181001111404/http://predsjednicki-izbori.com/istrazivanja/bandic-treci-a-jos-se-nije-ni-kandidirao/ | url-status=dead }}</ref> However, [[Jadranka Kosor]] benefited from the votes coming from the citizens living abroad, which narrowed the president's victory by only a couple of points, but enough to secure a second round. The greatest surprise of the election was the independent candidate [[Boris Mikšić]], a Croatian businessman and entrepreneur living in the United States. His campaign was heavily based on the message of a 'Croatian dream', similar to the [[American dream]] he said he achieved during his career in the US. On the night of the election, the first exit polls indicated president Mesić might secure a second term without the need of a runoff, while Kosor and Mikšić were shown battling for second place.<ref>{{cite web | url=https://www.index.hr/vijesti/clanak.aspx?id=242204| title=Prema zadnjim projekcijama izbornih rezultata Mesić uvjerljivo vodi | date=2 January 2005 | work=[[Index.hr]] | language=Croatian | accessdate=11 November 2009}}</ref> As the first results started coming in it was evident that Mesić was not going to secure 50% + 1 vote and that a runoff is inevitable. As votes from the citizens living abroad were tallied, Kosor overtook Mikšić, placing second and qualifying for the second round. The campaign began immediately the next day and during the two-week-long campaign, three presidential debates were held, one on each of Croatia's three major [[Television in Croatia|television networks]]. Despite most observers and post debate polls indicating Kosor won the debates, Mesić maintained his lead in the polls. As Election Day neared, the Kosor campaign exceeded all previous campaign spending records, trying to motivate the conservative base.<ref>{{cite web | url=https://www.index.hr/vijesti/clanak/kosor-u-prvom-krugu-potrosila-najmanje-87-milijuna-kuna/243098.aspx| title=Kosor u prvom krugu potrošila najmanje 8,7 milijuna kuna | date=8 January 2005 | work=[[Index.hr]] | language=Croatian | accessdate=11 November 2009}}</ref> On Election Day, as polls around the country closed at 7&nbsp;pm, all television networks announced Mesić won a landslide victory based on the exit polls, which official results later confirmed. Kosor conceded and congratulated Mesić on his victory. After the elections, Boris Mikšić claimed the elections were fraud and that Mesić and Prime Minister [[Ivo Sanader]] made a deal of "bringing" Kosor in the second round. He claimed to have received 15,000 election ballots with serial numbers that were not evidented.<ref>{{Cite web|url=https://www.vecernji.hr/predsjednicki-izbori/b-miksic-mesic-i-sanader-dogovorili-su-2005-da-u-2-krug-ide-j-kosor-68180|title=B. Mikšić: Mesić i Sanader dogovorili su 2005. Da u 2. Krug ide J. Kosor|website=[[Večernji list]]|date=16 December 2009|lang=hr}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{usurped|1=[https://web.archive.org/web/20060520092310/http://www.angus-reid.com/tracker/index.cfm?fuseaction=viewItem&itemID=4999 Angus Reid Consultants - Election Tracker]}}
+
+{{Croatian_elections}}
+
+[[Category:Presidential elections in Croatia]]
+[[Category:2005 elections in Europe|Croatia]]
+[[Category:2005 in Croatia|Presidential]]
+[[Category:January 2005 in Europe|Croatia]]
+[[Category:2005 elections in Croatia|President]]
+[[Category:Modern history of Croatia]]

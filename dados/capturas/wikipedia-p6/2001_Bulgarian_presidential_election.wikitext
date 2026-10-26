@@ -1,0 +1,105 @@
+{{Short description|none}}
+{{Infobox election
+| country = Bulgaria
+| type = presidential
+| previous_election = 1996 Bulgarian presidential election
+| previous_year = 1996
+| next_election = 2006 Bulgarian presidential election
+| next_year = 2006
+| election_date = 11 November 2001 (first round)<br>{{nowrap|18 November 2001 (second round)}}
+| turnout = 41.63% (first round) {{decrease}} 21.51pp<br>54.92% (second round) {{decrease}} 6.53pp
+
+| image1 = {{CSS image crop|Image = Georgi_Parvanov.jpg   |bSize = 145|cWidth = 110|cHeight = 150|oTop = 5|oLeft = 10}}
+| nominee1 = '''[[Georgi Parvanov]]'''
+| party1 = Bulgarian Socialist Party
+| running_mate1 = '''[[Angel Marin]]'''
+| popular_vote1 = '''2,043,443'''
+| percentage1 = '''54.13%'''
+
+| image2 = {{CSS image crop|Image = Petar Stoyanov 2006.jpg |bSize = 120|cWidth = 110|cHeight = 150|oTop = 0|oLeft = 8}}
+| nominee2 = [[Petar Stoyanov]]
+| party2 = United Democratic Forces 
+| running_mate2 = {{ill|Neli Kutskova|bg|Нели Куцкова}}
+| popular_vote2 = 1,731,676
+| percentage2 = 45.87%
+
+| map_image = 2006 Bulgarian presidential election second round Results.svg
+| map_caption = Results by province<br>'''Parvanov''': {{legend0|#cd1f25|50–60%}} {{legend0|#ad0006|60–70%}}<br>'''Stoyanov''': {{legend0|#417ecd|50–60%}} {{legend0|#3363a2|60–70%}}
+
+| title = President
+| before_election = [[Petar Stoyanov]]
+| before_party = United Democratic Forces
+| after_election = [[Georgi Parvanov]]
+| after_party = Bulgarian Socialist Party
+}}
+
+Presidential elections were held in [[Bulgaria]] on 11 November 2001, with a second round on 18 November.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p369 {{ISBN|978-3-8329-5609-7}}</ref> The result was a victory for [[Georgi Parvanov]] of the [[Bulgarian Socialist Party]], who won 54.0% of the vote in the second round, defeating incumbent president [[Petar Stoyanov]]. Voter turnout was 41.8% in the first round and 55.1% in the second.<ref name=DNPS>Nohlen & Stöver, p389</ref> Parvanov took office in 2002, becoming the first former communist to hold the post since 1990.
+
+==Opinion polls==
+===First round===
+{|class="wikitable" style="text-align:center;font-size:95%;line-height:14px;"
+!rowspan=2 width=180px|Pollster
+!rowspan=2 width=80px|Date
+!width=50px|[[Petar Stoyanov|Stoyanov]]
+!width=50px|[[Bogomil Bonev|Bonev]]
+!width=50px|[[Georgi Parvanov|Parvanov]]
+!width=50px|[[George Ganchev|Ganchev]]
+!width=50px|[[Reneta Indzhova|Indzhova]]
+!width=50px|[[Petar Beron (politician)|Beron]]
+!width=50px|Others
+|-
+! style="background:{{party color|United Democratic Forces}};|
+! style="background:{{party color|Independent (politician)}};|
+! style="background:{{party color|Bulgarian Socialist Party}};|
+! style="background:{{party color|Independent (politician)}};|
+! style="background:{{party color|Independent (politician)}};|
+! style="background:{{party color|Independent (politician)}};|
+! style="background:;|
+|-
+|[https://www.slideshare.net/BulN/2016-72272800 Alpha Research]{{Dead link|date=March 2019}}
+|20.09.2001
+|bgcolor=#FFFF00 |34
+|bgcolor=#FFFF00 |19
+|18
+|3
+|3
+|0.5
+|22.5
+|-
+|[https://www.slideshare.net/BulN/2016-72272800 Alpha Research]{{Dead link|date=March 2019}}
+|21.10.2001
+|bgcolor=#FFFF00 |43.9
+|bgcolor=#FFFF00 |24.5
+|23.2
+|3.9
+|3.9
+|0.6
+|0
+|}
+
+==Results==
+{{Election results
+|cand1=[[Georgi Parvanov]]|vp1=[[Angel Marin]]|party1=[[Bulgarian Socialist Party]]|votes1=1032665|votes1_2=2043443
+|cand2=[[Petar Stoyanov]]|vp2={{ill|Neli Kutskova|bg|Нели Куцкова}}|party2=[[United Democratic Forces]]|votes2=991680|votes2_2=1731676
+|cand3=[[Bogomil Bonev]]|vp3={{Ill|Atanas Zhelezchev|bg|Атанас Железчев}}|party3=Independent|votes3=546801
+|cand4=[[Reneta Indzhova]]|vp4=	Krastyu Ilov|party4=Independent ([[Movement for Rights and Freedoms]])|votes4=139680
+|cand5=[[George Ganchev]]|vp5=Veselin Bonchev|party5=[[George Ganchev's Bloc]]|votes5=95481
+|cand6=[[Petar Beron (politician)|Petar Beron]]|vp6={{ill|Stoyan Andreev|bg|Стоян Андреев}}|party6=Independent|votes6=31394
+|invalid=12590
+|invalid2=8914
+|electorate=6847422
+|electorate2=6889638
+|source=[https://web.archive.org/web/20111110115131/http://www.president.bg/en/inst_izbori.php President of Bulgaria] Nohlen & Stöver
+}}
+
+==References==
+{{reflist}}
+
+{{Bulgarian elections}}
+
+[[Category:2001 elections in Europe|Bulgaria]]
+[[Category:2001 elections in Bulgaria|President]]
+[[Category:Presidential elections in Bulgaria]]
+[[Category:November 2001 in Europe|Bulgaria]]
+
+[[bg:Президентски избори в България#Пети президентски избори (2001)]]

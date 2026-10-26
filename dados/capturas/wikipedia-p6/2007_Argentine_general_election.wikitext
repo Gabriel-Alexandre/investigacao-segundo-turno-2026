@@ -1,0 +1,1268 @@
+{{Short description|none}}
+{{Use mdy dates|date=September 2011}}
+{{Infobox election
+| country = Argentina
+| election_date = 28 October 2007
+
+| module = {{Infobox election
+| election_name = Presidential election
+| embed = yes
+| type = presidential
+| previous_election = 2003 Argentine general election
+| previous_year = 2003
+| next_election = 2011 Argentine general election
+| next_year = 2011
+| registered = 27,137,719
+| turnout = 76.20%
+| image1 = Cristina fernandez de kirchner cropped 2007-04-25.JPG
+| nominee1 = '''[[Cristina Fernández de Kirchner]]'''
+| party1 = Justicialist Party
+| alliance1 = Front for Victory
+| running_mate1 = '''[[Julio Cobos]]'''
+| popular_vote1 = '''8,652,293 '''
+| percentage1 = '''45.28%'''
+| image2 = Elisa Carrió.jpg
+| nominee2 = [[Elisa Carrió]]
+| party2 = Civic Coalition ARI
+| alliance2 = [[Civic Coalition (Argentina)|Civic Coalition]]
+| running_mate2 = [[Rubén Giustiniani]]
+| popular_vote2 = 5,168,481
+| percentage2 = 27.05%
+| image4 = Roberto-Lavagna-2004.jpg
+| nominee4 = [[Roberto Lavagna]]
+| party4 = Radical Civic Union
+| alliance4 = {{ill|Consensus for an Advanced Nation|es|Concertación para Una Nación Avanzada|lt=UNA}}
+| running_mate4 = [[Gerardo Morales (politician)|Gerardo Morales]]
+| popular_vote4 = 3,402,981
+| percentage4 = 17.81%
+| image5 = Alberto Rodríguez Saá (cropped).jpg
+| nominee5 = [[Alberto Rodríguez Saá]]
+| running_mate5 = Héctor María Maya
+| popular_vote5 = 1,459,174
+| percentage5 = 7.64%
+| party5 = Justicialist Party
+| alliance5 = {{ill|Justice, Union and Freedom Front|es|Frente Justicia, Unión y Libertad|lt=FREJULI}}
+| map_image = Elecciones Argentina 2007.png
+| map_caption = Results by province and department
+| title = [[President of Argentina|President]]
+| before_election = [[Néstor Kirchner]]
+| after_election = [[Cristina Fernández de Kirchner]]
+| before_party = Front for Victory
+| after_party = Front for Victory
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| previous_election = [[2005 Argentine legislative election|2005]]
+| next_election = [[2009 Argentine legislative election|2009]]
+| seats_for_election = 130 of the 254 seats in the [[Argentine Chamber of Deputies|Chamber of Deputies]]
+| turnout = 76.21%
+| noleader = yes
+
+| party1 = [[Front for Victory]]
+| percentage1 = 41.22
+| last_election1 = 70
+| seats1 = 84
+
+| party2 = [[Civic Coalition (Argentina)|Civic Coalition]]
+| percentage2 = 16.47
+| last_election2 = 13
+| seats2 = 23
+
+| party3 = {{ill|Consensus for an Advanced Nation|es|Concertación para Una Nación Avanzada}}
+| percentage3 = 13.26
+| last_election3 = 19
+| seats3 = 12
+
+| party4 = {{ill|Republican Proposal (alliance)|es|Propuesta Republicana (alianza)|lt=Republican Proposal}}
+| percentage4 = 5.33
+| last_election4 = 9
+| seats4 = 6
+
+| party5 = {{ill|Justice, Union and Freedom Front|es|Frente Justicia, Unión y Libertad}}
+| percentage5 = 4.70
+| last_election5 = 11
+| seats5 = 3
+
+| party6 = [[Proyecto Sur]]
+| percentage6 = 1.70
+| last_election6 = 0
+| seats6 = 1
+
+| party7 = [[Neuquén People's Movement]]
+| percentage7 = 0.25
+| last_election7 = 2
+| seats7 = 1
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Senate
+| previous_election = [[2005 Argentine legislative election|2005]]
+| next_election = [[2009 Argentine legislative election|2009]]
+| seats_for_election = 27 of the 75 seats in the [[Argentine Senate|Senate]]
+| turnout = 73.93%
+| noleader = yes
+
+| party1 = [[Front for Victory]]
+| percentage1 = 45.33
+| last_election1 = 17
+| seats1 = 17
+
+| party12 = [[Civic Coalition (Argentina)|Civic Coalition]]
+| percentage12 = 19.74
+| last_election12 = 0
+| seats12 = 4
+
+| party14 = {{ill|Consensus for an Advanced Nation|es|Concertación para Una Nación Avanzada}}
+| percentage14 = 14.30
+| last_election14 = 3
+| seats14 = 2
+
+| party15 = [[Neuquén People's Movement]]
+| percentage15 = 1.21
+| last_election15 = 0
+| seats15 = 1
+
+| map = Mapa de las elecciones legislativas de Argentina de 2007.png
+| map_upright = 1
+| map_caption = Chamber of Deputies results by province
+}}}}}}}}{{politics of Argentina}}
+
+General elections were held in [[Argentina]] on Sunday, 28 October 2007 to elect the president and members of the [[Argentine National Congress|National Congress]], while elections for provincial governors took place on staggered dates throughout the year. For the national elections, each of the 23 [[Provinces of Argentina|provinces]] and the Autonomous City of [[Buenos Aires]] are considered electoral districts. Voter turnout was 76.2%. Buenos Aires Province Senator and First Lady [[Cristina Fernández de Kirchner]] of the [[Front for Victory]] won the election by 45.28% of votes against [[Elisa Carrió]] of [[Civic Coalition ARI]], making her the second female president of Argentina and the first female president to be directly elected. She broke the 40 percent barrier and won in the first round. [[Elisa Carrió]] won in the city of [[Buenos Aires]] and came second with more than 20 percent of the votes. Third was [[Roberto Lavagna]], who won in [[Córdoba Province, Argentina|Córdoba]].<ref>{{Cite web|url=https://www.pagina12.com.ar/diario/elpais/1-93719-2007-10-29.html|title = Página/12 :: El país :: Kirchner, presidenta con "A" final}}</ref>
+
+== Background ==
+Elections for a successor to [[President of Argentina|President]] [[Néstor Kirchner]] were held in October. Kirchner, although not term-limited, had declined to run for a second term. Kirchner's wife, Cristina Fernández de Kirchner, ran instead to succeed him. To enhance his wife's electoral prospects, Kirchner pressured the national statistics agency to manipulate economic numbers to make the economy appear stronger than it was.<ref>{{Cite web |last=Kiernan |first=Paul |date=2025 |title=What Happens When Politicians Meddle With Economic Data: Argentina’s Example |url=https://www.wsj.com/economy/trump-jobs-economic-data-risk-e4b7410b |website=WSJ |language=en-US}}</ref>
+
+In addition to the President, each district elected a number of members of the Lower House (the Chamber of Deputies) roughly proportional to their population, and eight districts elected members to the [[Argentine Senate]], where each district is entitled to three senators (two for the majority, one for the largest minority party). In most provinces, the national elections were conducted in parallel with local ones, whereby a number of [[List of cities in Argentina|municipalities]] elect legislative officials (''concejales'') and in some cases also a mayor (or the equivalent executive post). Each provincial election follows local regulations and some, such as Tucumán, hold municipal elections on other dates in the year.
+
+According to the rules for [[elections in Argentina]], to win the presidential election without needing a "[[ballotage in Argentina|ballotage]]" round, a candidate needs either more than 45% of the valid votes, or more than 40% of the valid votes with a margin of 10 points from the runner-up. Following months of speculation, and despite high approval ratings, President Kirchner confirmed his decision to forfeit the 2007 race, and the ruling [[Front for Victory]] (FpV), a [[center-left]] [[Peronist]] Party, nominated the First Lady and Senator [[Cristina Fernández de Kirchner]], on July 19.<ref>[http://www.lanacion.com.ar/nota.asp?nota_id=922173 ''La Nación''] {{in lang|es}}</ref> Acknowledging the support of a growing number of [[Radical Civic Union|UCR]] figures ("[[Radicales K|K Radicals]]") to the [[Populism|populist]] policies advanced by [[Kirchnerism]], the FpV nominated [[Mendoza Province]] Governor [[Julio Cobos]] as her running mate.<ref>[http://www.pagina12.com.ar/diario/ultimas/20-88831-2007-07-28.html ''Página/12''] {{in lang|es}}</ref>
+
+The ideologically diverse field also included former Economy Minister [[Roberto Lavagna]] (who broke with Kirchner in late 2005, obtained the endorsement of the [[Radical Civic Union|UCR]], and ran slightly to the right of the FpV), [[Elisa Carrió]] (a center-left Congresswoman close to the Catholic Church),<ref name=eles>[http://www.elespectador.com/impreso/cuadernilloa/internacional/articuloimpreso-perfume-mujer Con perfume de mujer] {{in lang|es}} ''El Espectador''</ref> and numerous conservatives and socialists; in all, fourteen candidates registered for the election. The UCR, for the first time since it first ran in a presidential campaign in 1892, joined a coalition (Lavagna's UNA) rather than nominate its own candidate.
+
+The President, who had maintained high approval ratings throughout his term on the heels of a strong recovery in the [[Argentine economy]], was beset by controversies during 2007, including Commerce Secretary [[Guillermo Moreno (Argentine politician)|Guillermo Moreno]]'s firing of Graciela Bevacqua (the [[INDEC]] statistician overseeing inflation data), allegations of Planning Minister [[Julio de Vido]]'s involvement in a [[Skanska]] bribery case, and the "[[suitcase scandal]]." These controversies, however, did not ultimately overshadow positive consumer sentiment and a generally high presidential job approval.<ref>[https://www.reuters.com/article/companyNewsAndPR/idUSN3041141920070530 ''Reuters'' (5/30?2007)]</ref>
+
+The [[Front for Victory]]'s candidate, Senator and First Lady [[Cristina Fernández de Kirchner]], maintained a comfortable lead in polling during the campaign. Her opponents focused on forcing her into a ballotage. However, with 13 challengers splitting the vote, Fernández won a decisive first-round victory with 45.3% of the valid votes, more than 22 points ahead of runner-up Carrió. She won in every province or district except [[San Luis Province|San Luis]] (won by [[Alberto Rodríguez Saá]]), [[Córdoba Province (Argentina)|Córdoba]] (won by Lavagna), and the [[City of Buenos Aires]] (won by Carrió). Carrió, who obtained 23%, made history as the first runner-up to another woman in a national election in the Americas.<ref name=eles/>
+
+== Presidential candidates ==
+A total of 14 candidates were on the presidential ballot, although only 3 or 4 garnered statistically significant amounts of support in polls. The candidates were as follows:
+*'''[[Cristina Fernández de Kirchner]]''': A center-left Peronist, wife of then-president [[Néstor Kirchner]] and his chosen successor, since he declined to run for reelection. She won the presidency in the first round with about 45% of the vote.
+*'''[[Elisa Carrió]]''': A former [[Radical Civic Union]] lawmaker who left the party after President [[Fernando de la Rúa]] abandoned his left-wing allies. She participated in the [[2003 Argentine presidential election|2003 election]] and reached fifth place. Close to the influential [[Church-state relations in Argentina|Catholic Church]], she ran a center-left platform with running mate [[Rubén Héctor Giustiniani]] and came in second with about 23% of the vote.
+*'''[[Roberto Lavagna]]''': Former Minister of Economy under [[Néstor Kirchner]], who broke ranks with the president in late 2005. He received support from moderate Peronists and was endorsed by the centrist [[Radical Civic Union]], in lieu of putting forth a candidate themselves. He ran on a platform described as "center-progressive" and came in third, with 17% of the vote. His running mate was [[Gerardo Rubén Morales]].
+*'''[[Alberto Rodríguez Saá]]''': Governor of [[San Luis Province]]. He represented conservative Peronists opposed to [[Néstor Kirchner]]. His running mate was Héctor María Maya.
+*'''[[Fernando Solanas]]''': The renowned film maker represented the [[Authentic Socialist Party (Argentina)|Authentic Socialist Party]]. Running mate: Ángel Francisco Cadelli.
+*'''[[Jorge Omar Sobisch]]''': Governor of [[Neuquén Province]]. Representing various conservative regional parties. Running mate: [[Jorge Asís]].
+*'''[[Ricardo López Murphy]]''': Representing the center-right [[Recreate for Growth]] party, in alliance with the [[Republican Proposal]] party of newly elected [[Buenos Aires]] mayor [[Mauricio Macri]]. He previously ran in the [[2003 Argentine presidential election|2003 election]], reaching third place. Running mate: [[Esteban Bullrich]].
+*'''[[Vilma Ripoll]]''': Running mate: [[Héctor Bidonde]], both longtime Socialists.
+*'''[[Néstor Pitrola]]''': Representing the Trotskyist [[Workers' Party (Argentina)|Workers' Party]]. Running mate: [[Gabriela Adriana Arroyo]].
+*'''José Alberto Montes''': A Trotskyist who opposed privatizations under [[Carlos Menem]]. His running mate was Héctor Antonio Heberling.
+*'''Luis Alberto Ammann''': Representing the [[Humanist Party (Argentina)|Humanist Party]]-led Broad Front Towards Latin American Unity Alliance. Running mate: Rogelio Deleonardi.
+*'''[[Raúl Castells]]''': A ''[[piquetero]]'' (poverty activist) who participated in various incidents. His running mate was his wife, Nina Pelozo.
+*'''Gustavo Luis Breide Obeid''': A right-wing nationalist who participated in a failed coup against [[Carlos Menem]] in 1990. Running mate: Héctor Raúl Vergara.
+*'''Juan Ricardo Mussa''': Perennial candidate and self-styled "traditional" [[Peronist]]. Running mate: Bernardo Nespral.
+
+<gallery align="center" perrow="5">
+Image:Cristina vota.jpg|Kirchner
+Image:Elisa Carrió votes (2007-10-28) - 2.jpg|Carrió
+Image:Roberto-Lavagna.jpg|Lavagna
+Image:Alberto Rodriguez Saa.jpg|Rodríguez Saá
+Image:Pino Solanas (Guadalajara Film Festival).jpg|Solanas
+</gallery>
+
+== Results ==
+===President===
+{{Election results
+|cand1=[[Cristina Fernández de Kirchner]]|vp1=[[Julio Cobos]]|alliance1=[[Front for Victory]]|votes1=8652293
+|cand2=[[Elisa Carrió]]|vp2=[[Rubén Giustiniani]]|alliance2=[[Civic Coalition (Argentina)|Civic Coalition]]|votes2=4403642
+|cand3=[[Roberto Lavagna]]|vp3=[[Gerardo Morales (politician)|Gerardo Morales]]|alliance3={{ill|Consensus for an Advanced Nation|es|Concertación para Una Nación Avanzada}}|votes3=3230236
+|cand4=[[Alberto Rodríguez Saá]]|vp4={{ill|Héctor María Maya|es}}|alliance4={{ill|Justice, Union and Freedom Front|es|Frente Justicia, Unión y Libertad}}|votes4=1459174
+|cand5=[[Fernando Solanas]]|vp5=Ángel Cadelli|alliance5=[[Authentic Socialist Party (Argentina)|Authentic Socialist Party]]|votes5=301543
+|cand6=[[Ricardo López Murphy]]|vp6=[[Esteban Bullrich]]|alliance6=[[Recreate for Growth]]|votes6=273406
+|cand7=[[Jorge Sobisch]]|vp7=[[Jorge Asís]]|alliance7=United<br>Provinces<br>Movement|candspan7=6|aspan7=6|party7=United Provinces Movement|votes7=152448|acolor7=lightgrey|color7=lightgrey
+|party8=[[Federal Popular Union|Popular Union]]|votes8=69126
+|party9=[[Neighbourhood Action Movement]]|votes9=36831
+|party10=[[Movement for Dignity and Independence]]|votes10=9987
+|party11={{ill|Independent Movement of Justice and Dignity|es|Movimiento Independiente de Justicia y Dignidad|lt=Independent Movement of Retirees and Unemployed}}|votes11=3
+|atotal12=268395
+|cand13=[[Vilma Ripoll]]|vp13=[[Héctor Bidonde]]|alliance13=[[Workers' Socialist Movement (Argentina)|Workers' Socialist Movement]]|votes13=142528
+|cand14=[[Néstor Pitrola]]|vp14=[[Gabriela Arroyo]]|alliance14=[[Workers' Party (Argentina)|Workers' Party]]|votes14=116688
+|cand15=José Montes|vp15=Héctor Heberling|alliance15=Left and Workers Front for Socialism|votes15=84694|color15=#F65058
+|cand16={{ill|Luis Ammann|es}}|vp16=Rogelio de Leonardi|alliance16=Broad Front towards Latin American Unity|votes16=69787|acolor16=#FF4500
+|cand17=[[Raúl Castells]]|vp17={{ill|Nina Pelozo|es}}|alliance17={{ill|Independent Movement of Justice and Dignity|es|Movimiento Independiente de Justicia y Dignidad|lt=Independent Movement of Retirees and Unemployed}}|votes17=48878
+|cand18={{ill|Gustavo Breide Obeid|es}}|vp18=Héctor Vergara|alliance18=[[People's Reconstruction Party]]|votes18=45318
+|cand19=Juan Ricardo Mussa|vp19=Bernardo Nespral|alliance19=Popular Loyalty Confederation|votes19=10558|acolor19=violet
+|invalid=241176
+|blank=1331010
+|electorate=27137719
+|source=DINE,<ref>{{Cite web|url=https://recorriendo.elecciones.gob.ar/presidente2007.html#/3/1|title=Recorriendo las Elecciones de 1983 a 2013 – Presidenciales|website=Dirección Nacional Electoral|access-date=September 27, 2017|archive-date=September 28, 2017|archive-url=https://web.archive.org/web/20170928005545/https://recorriendo.elecciones.gob.ar/presidente2007.html#/3/1|url-status=dead}}</ref> Ministry of the Interior<ref name="results">{{Cite web |title=Elecciones Generales 28 DE OCTUBRE DE 2007 |url=http://elecciones.gob.ar/estadistica/archivos/2007/TOTAL_DISTRITO/ELECC_NAC_2007_TOT_DISTR_7_mayo_08.pdf |archive-url=https://web.archive.org/web/20120309083817/http://elecciones.gob.ar/estadistica/archivos/2007/TOTAL_DISTRITO/ELECC_NAC_2007_TOT_DISTR_7_mayo_08.pdf |archive-date=9 March 2012 |website=Ministry of the Interior }}</ref>
+}}
+
+=== Chamber of Deputies ===
+[[File:Elecciones en Argentina - Cristina y Néstor Kirchner 26102007 - 3.jpg|thumb|260px|President [[Néstor Kirchner]] (''2nd from right'') backs winning [[Front for Victory]] candidates (''from L to R'')<br /> [[Daniel Scioli]] (Governor), [[Cristina Fernández de Kirchner]] (President) and [[Julio Cobos]] (Vice President).]]
+
+{{Election results|seattype1=Won|seattype2=Total
+|image=[[File:Elecciones legislativas de Argentina de 2007 - Diputados (Actualizado).svg]]
+|alliance1=[[Front for Victory]]|aspan1=31|party1=[[Front for Victory]]|votes1=5942286|st1t1=53|st2t1=
+|party2=[[Justicialist Party|Justicialist Party Alliance]]|votes2=264495|st1t2=3|st2t2=
+|party3=[[Party for Citizen Consensus]]|votes3=236211|st1t3=2|st2t3=
+|party4=[[Front for Victory|Chaco Deserves More]]|votes4=232851|st1t4=2|st2t4=
+|party5=[[Front for Victory]]–[[Salta Renewal Party]]|votes5=190067|st1t5=2|st2t5=
+|party6=[[Civic Front for Santiago]]|votes6=172727|st1t6=4|st2t6=
+|party7=[[Front for the Renewal of Concord]]|votes7=165151|st1t7=2|st2t7=
+|party8=[[Dialogue for Buenos Aires]]|votes8=159134|st1t8=1|st2t8=
+|party9=[[Justicialist Party]]|votes9=147737|st1t9=2|st2t9=
+|party10=[[Frente de Todos (1996 coalition)|FdT]]–[[Autonomist Party of Corrientes|PACo]]|votes10=139111|st1t10=2|st2t10=
+|party11=[[Broad Front (Argentina)|Broad Front]]–New Córdoba Front|votes11=138596|st1t11=1|st2t11=
+|party12=[[Justicialist Party]]–[[Front for Victory]]|votes12=118158|st1t12=3|st2t12=
+|party13=[[Federalist Unity Party]]|votes13=103043|st1t13=1|st2t13=
+|party14=[[La Rioja People's Front]]|votes14=81856|st1t14=3|st2t14=
+|party15={{ill|Consensus for Development|es|
+Concertación para el Desarrollo}}|votes15=74480|st1t15=1|st2t15=
+|party16=[[Jujuy First Front]]|votes16=54220|st1t16=1|st2t16=
+|party17=Front for Change|votes17=48286|st1t17=0|st2t17=
+|party18=[[Civic and Social Front of Catamarca]]|votes18=44732|st1t18=1|st2t18=
+|party19=Viable Santiago Movement|votes19=33372|st1t19=0|st2t19=
+|party20=A New Option|votes20=32383|st1t20=0|st2t20=
+|party21=[[Christian Democratic Party (Argentina)|Christian Democratic Party]]|votes21=32042|st1t21=0|st2t21=
+|party22=[[Plural Consensus]]|votes22=28810|st1t22=0|st2t22=
+|party23=Justicialist Front (Catamarca)|votes23=24023|st1t23=0|st2t23=
+|party24=Party for Social Justice|votes24=19179|st1t24=0|st2t24=
+|party25=Union for Jujuy–[[Plural Consensus]]|votes25=13502|st1t25=0|st2t25=
+|party26=Renewal Current Party|votes26=12794|st1t26=0|st2t26=
+|party27=Life and Commitment Movement|votes27=8220|st1t27=0|st2t27=
+|party28=Commitment K|votes28=5126|st1t28=0|st2t28=
+|party29=Justice, Democracy and Homeland|votes29=2105|st1t29=0|st2t29=
+|party30=[[Intransigent Party]]|votes30=2|st1t30=0|st2t30=
+|atotal31=8524699|ast1t31=84|st2t31=154
+|alliance32=[[Civic Coalition (Argentina)|Civic Coalition]]|aspan32=8|party32=[[Civic Coalition (Argentina)|Civic Coalition]]|votes32=1798752|st1t32=12|st2t32=
+|party33=[[Socialist Party (Argentina)|Socialist Party]]|votes33=1009491|st1t33=8|st2t33=
+|party34=[[Civic Coalition ARI|Support for an Egalitarian Republic]]|votes34=501921|st1t34=3|st2t34=
+|party35=[[Civic Coalition ARI|ARI]]–[[Socialist Party (Argentina)|PS]]|votes35=69057|st1t35=0|st2t35=
+|party36=Jujuy Change|votes36=12521|st1t36=0|st2t36=
+|party37=[[Christian Democratic Party (Argentina)|Christian Democratic Party (Santiago del Estero)]]|votes37=9109|st1t37=0|st2t37=
+|party38={{ill|Open Politics for Social Integrity|es|Política Abierta para la Integridad Social}}|votes38=5989|st1t38=0|st2t38=
+|atotal39=3406840|ast1t39=23|st2t39=36
+|alliance40={{ill|Consensus for an Advanced Nation|es|Concertación para Una Nación Avanzada|lt=Consensus<br>for an<br>Advanced<br>Nation}}|aspan40=17|party40=[[Radical Civic Union]]|votes40=1183568|st1t40=6|st2t40=
+|party41=Fair Society|votes41=253870|st1t41=0|st2t41=
+|party42={{ill|Consensus for an Advanced Nation|es|Concertación para Una Nación Avanzada}}|votes42=504158|st1t42=2|st2t42=
+|party43=[[Democratic Progressive Party (Argentina)|Democratic Progressive Party]]|votes43=181026|st1t43=0|st2t43=
+|party44=[[Frente de Todos (1996 coalition)|Frente de Todos]]|votes44=163055|st1t44=1|st2t44=
+|party45=[[Integration and Development Movement]]|votes45=92889|st1t45=0|st2t45=
+|party46=[[Democratic Party (Mendoza)|Democratic Party]]|votes46=71792|st1t46=0|st2t46=
+|party47=[[Radical Civic Union]]–Corrientes Front|votes47=65157|st1t47=1|st2t47=
+|party48=[[Jujuy Front]]|votes48=62411|st1t48=1|st2t48=
+|party49=[[La Pampa Civic and Social Front]]|votes49=54300|st1t49=1|st2t49=
+|party50=Let's Change to Grow Front|votes50=24722|st1t50=0|st2t50=
+|party51=Civic and Social Front of La Rioja|votes51=24263|st1t51=0|st2t51=
+|party52=Together for San Luis Front|votes52=19684|st1t52=0|st2t52=
+|party53=Citizen Dignity|votes53=17202|st1t53=0|st2t53=
+|party54=Salta Proposal|votes54=13608|st1t54=0|st2t54=
+|party55=[[UNIR Constitutional Nationalist Party|Constitutional Nationalist Party]]|votes55=10138|st1t55=0|st2t55=
+|atotal56=2741843|ast1t56=12|st2t56=31
+|alliance57={{ill|Republican Proposal (alliance)|es|Propuesta Republicana (alianza)|lt=Republican<br>Proposal}}|aspan57=8|party57={{ill|PRO Union|es|Unión-PRO}}|votes57=628025|st1t57=4|st2t57=
+|party58=[[Republican Proposal]]|votes58=275601|st1t58=2|st2t58=
+|party59=[[Recreate for Growth]]|votes59=146717|st1t59=0|st2t59=
+|party60=New Proposal ([[New Party (Corrientes)|PANU]]–[[Recreate for Growth|Recrear]])|votes60=23196|st1t60=0|st2t60=
+|party61=[[Republican Proposal|PRO]]–[[Recreate for Growth|Recrear]]|votes61=18397|st1t61=0|st2t61=
+|party62=[[Recreate for Growth|Republican Alternative Proposal]]|votes62=7136|st1t62=0|st2t62=
+|party63=[[Commitment to Change]]|votes63=2963|st1t63=0|st2t63=
+|atotal64=1102035|ast1t64=6|st2t64=15
+|alliance65={{ill|Justice, Union and Freedom Front|es|Frente Justicia, Unión y Libertad|lt=Justice,<br>Union and<br>Freedom<br>Front}}|aspan65=16|party65={{ill|Justice, Union and Freedom Front|es|Frente Justicia, Unión y Libertad}}|votes65=313590|st1t65=0|st2t65=
+|party66=[[Union of the Democratic Centre (Argentina)|Union of the Democratic Centre]]|votes66=225032|st1t66=0|st2t66=
+|party67=Justicialist Front (San Luis)|votes67=137343|st1t67=2|st2t67=
+|party68=[[Action for the Republic (Argentina)|Action for the Republic]]|votes68=126650|st1t68=1|st2t68=
+|party69=Live Entre Ríos|votes69=58952|st1t69=0|st2t69=
+|party70=[[Unity and Liberty Party]]|votes70=31026|st1t70=0|st2t70=
+|party71=Autonomist Party|votes71=30075|st1t71=0|st2t71=
+|party72=Popular Loyalty|votes72=15910|st1t72=0|st2t72=
+|party73=[[Renewal Crusade]]|votes73=15781|st1t73=0|st2t73=
+|party74=Retiree's Front–[[Conservative People's Party (Argentina)|Conservative People's Party]]|votes74=8721|st1t74=0|st2t74=
+|party75=Popular Action Movement|votes75=3462|st1t75=0|st2t75=
+|party76=Federal Confederation|votes76=2734|st1t76=0|st2t76=
+|party77=Salta Popular Movement|votes77=1545|st1t77=0|st2t77=
+|party78=Solidarity and Organization for Liberation|votes78=990|st1t78=0|st2t78=
+|party79={{ill|Loyalty and Dignity|es|Lealtad y Dignidad}}|votes79=580|st1t79=0|st2t79=
+|atotal80=972391|ast1t80=3|st2t80=14
+|alliance81=[[Proyecto Sur]]|aspan81=4|party81=[[Authentic Socialist Party (Argentina)|Authentic Socialist Party]]|votes81=189154|st1t81=0|st2t81=0
+|party82=[[Proyecto Sur]]|votes82=133411|st1t82=1|st2t82=1
+|party83=Popular Unity Movement|votes83=30001|st1t83=0|st2t83=0
+|atotal84=352566|ast1t84=1|ast2t84=1
+|alliance85=United<br>Provinces<br>Movement|aspan85=12|party85=Let's Go|votes85=57949|st1t85=0|st2t85=0
+|party86=[[Federal Popular Union|Popular Union]]|votes86=62406|st1t86=0|st2t86=0
+|party87={{ill|Open Politics for Social Integrity|es|Política Abierta para la Integridad Social|lt=PAIS}}–{{abbr|MPU|United Provinces Movement}}|votes87=26076|st1t87=0|st2t87=0
+|party88=United Provinces Movement|votes88=22569|st1t88=0|st2t88=0
+|party89=[[Federal Popular Union|Popular Union]]–[[Movement for Dignity and Independence|MODIN]]–{{abbr|FIC|Centre Independent Force}}|votes89=8030|st1t89=0|st2t89=0
+|party90=[[Movement for Dignity and Independence]]|votes90=7395|st1t90=0|st2t90=0
+|party91=[[Federal Party (Argentina, 1973)|Federal Party]]|votes91=6337|st1t91=0|st2t91=0
+|party92=New Generation|votes92=2846|st1t92=0|st2t92=0
+|party93=[[Neighbourhood Action Movement]]|votes93=1022|st1t93=0|st2t93=0
+|party94=Independent Front of the North|votes94=781|st1t94=0|st2t94=0
+|party95=New People|votes95=598|st1t95=0|st2t95=0
+|atotal96=196009|ast1t96=0|ast2t96=0
+|alliance97=[[Workers' Socialist Movement (Argentina)|Workers' Socialist Movement–New Left]]|votes97=159336|st1t97=0|st2t97=0
+|alliance98=[[Workers' Party (Argentina)|Workers' Party]]|votes98=126729|st1t98=0|st2t98=0
+|alliance99=Left and<br>Workers<br>Front for<br>Socialism|aspan99=4|party99=Left and Workers Front for Socialism|votes99=69448|st1t99=0|st2t99=0
+|party100=[[Socialist Workers' Party (Argentina)|Socialist Workers' Party]]|votes100=13883|st1t100=0|st2t100=0
+|party101=[[Socialist Left (Argentina)|Socialist Left]]|votes101=2915|st1t101=0|st2t101=0
+|atotal102=86246|ast1t102=0|ast2t102=0
+|alliance103=Broad Front<br>towards<br>Latin American<br>Unity|aspan103=5|party103=Broad Front towards Latin American Unity|votes103=57385|st1t103=0|st2t103=0
+|party104=[[Humanist Party (Argentina)|Humanist Party]]|votes104=9527|st1t104=0|st2t104=0
+|party105=[[Communist Party of Argentina|Communist Party]]|votes105=5001|st1t105=0|st2t105=0
+|party106=La Rioja Popular Encounter|votes106=3278|st1t106=0|st2t106=0
+|atotal107=75191|ast1t107=0|ast2t107=0
+|alliance108=[[Neuquén People's Movement]]|votes108=50676|st1t108=1|st2t108=3
+|alliance109=Porteño Consensus ([[Workers' Socialist Movement (Argentina)|MST]]–[[Workers' Socialist Movement (Argentina)|New Left]])|votes109=50432|st1t109=0|st2t109=0
+|alliance110={{ill|Independent Movement of Justice and Dignity|es|Movimiento Independiente de Justicia y Dignidad|lt=Independent Movement of Retirees and Unemployed}}|votes110=34405|st1t110=0|st2t110=0
+|alliance111=[[People's Reconstruction Party]]|votes111=27800|st1t111=0|st2t111=0
+|alliance112=Socialist Convergence|votes112=20201|st1t112=0|st2t112=0
+|alliance113=Federal Retirees Movement|votes113=15667|st1t113=0|st2t113=0
+|alliance114=Front for Peace and Justice|votes114=12889|st1t114=0|st2t114=0
+|alliance115=Call for Citizen Integration|votes115=12265|st1t115=0|st2t115=0
+|alliance116=Emancipatory Front|votes116=10717|st1t116=0|st2t116=0
+|alliance117=Popular Movement for the Reconquest|votes117=9271|st1t117=0|st2t117=0
+|alliance118=Renewal Party of the Province of Buenos Aires|votes118=7206|st1t118=0|st2t118=0
+|alliance119=Entre Ríos Broad Encounter|votes119=7141|st1t119=0|st2t119=0
+|alliance120=Popular Concentration|votes120=6881|st1t120=0|st2t120=0
+|alliance121=Buenos Aires Independent Solidary Action|votes121=6618|st1t121=0|st2t121=0
+|alliance122=Front of Self-Convened Political Groups|votes122=6363|st1t122=0|st2t122=0
+|alliance123=Movement of Work|votes123=6242|st1t123=0|st2t123=0
+|alliance124=Patriotic Movement|votes124=6073|st1t124=0|st2t124=0
+|alliance125=Corrientes First Front|votes125=5814|st1t125=0|st2t125=0
+|alliance126=Objective Will to Serve|votes126=4833|st1t126=0|st2t126=0
+|alliance127=Revolutionary Socialist League|votes127=4724|st1t127=0|st2t127=0
+|alliance128={{ill|Chubut Action Party|es|Partido Acción Chubutense}}|votes128=4601|st1t128=0|st2t128=0
+|alliance129=Popular Sovereignty Front|votes129=4277|st1t129=0|st2t129=0
+|alliance130=Popular Participation Party|votes130=3119|st1t130=0|st2t130=0
+|alliance131=Popular Consensus|votes131=3031|st1t131=0|st2t131=0
+|alliance132=Citizen Action|votes132=2778|st1t132=0|st2t132=0
+|alliance133=Popular Assemblies|votes133=2700|st1t133=0|st2t133=0
+|alliance134=Independent Party of Chubut|votes134=2255|st1t134=0|st2t134=0
+|alliance135=Broad Popular Encounter|votes135=2227|st1t135=0|st2t135=0
+|alliance136=[[Fuegian People's Movement]]|votes136=2216|st1t136=0|st2t136=0
+|alliance137=Autonomist Party of Catamarca|votes137=2204|st1t137=0|st2t137=0
+|alliance138=Provincial Action|votes138=2142|st1t138=0|st2t138=0
+|alliance139=Future Republic Movement|votes139=1896|st1t139=0|st2t139=0
+|alliance140=Authentic Fuegian Party|votes140=1830|st1t140=0|st2t140=0
+|alliance141=United People|votes141=1434|st1t141=0|st2t141=0
+|alliance142={{ill|Provincial Defence–White Flag|es|Defensa Provincial-Bandera Blanca}}|votes142=1405|st1t142=0|st2t142=0
+|alliance143=Fuegian Action Front|votes143=1241|st1t143=0|st2t143=0
+|alliance144={{ill|Pampa Federalist Movement|es|Movimiento Federalista Pampeano}}|votes144=895|st1t144=0|st2t144=0
+|alliance145=Union for La Rioja|votes145=562|st1t145=0|st2t145=0
+|alliance146=The Movement|votes146=184|st1t146=0|st2t146=0
+|alliance147=People's Party of Neuquén|votes147=2|st1t147=0|st2t147=0
+|alliance148=[[Civic Front of Córdoba|New Front]]|st2t148=3
+|blank=2360967
+|invalid=228594
+|electorate=27137536
+|source=DINE,<ref>{{Cite web |url=https://recorriendo.elecciones.gob.ar/diputados2007.html#/ |title=Recorriendo las Elecciones de 1983 a 2013 – Diputados Nacionales |website=Dirección Nacional Electoral |access-date=January 25, 2021 |archive-date=April 26, 2021 |archive-url=https://web.archive.org/web/20210426025543/https://recorriendo.elecciones.gob.ar/diputados2007.html#/ |url-status=dead }}</ref> Ministry of the Interior<ref name="results"/>
+}}
+
+==== Results by province ====
+
+{| class="wikitable sortable plainrowheaders" style="text-align:right;"
+! rowspan=2|Province
+! colspan=3|FPV
+! colspan=3|CC
+! colspan=3|UNA
+! colspan=3|PRO
+! colspan=3|FREJULI
+! colspan=3|Others
+|-
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+|-
+! scope=row|[[Buenos Aires Province|Buenos Aires]]
+| bgcolor=lightblue|'''3,015,087'''
+| bgcolor=lightblue|'''44.48'''
+| align=center bgcolor=lightblue|'''20'''
+| 1,986,438
+| 26.48
+| align=center|9
+| 671,435
+| 9.92
+| align=center|2
+| 734,706
+| 10.85
+| align=center|4
+| 252,318
+| 3.73
+| align=center|—
+| 511,302
+| 7.55
+| align=center|—
+|-
+! scope=row|[[Buenos Aires City]]
+| 396,765
+| 21.69
+| align=center|3
+| bgcolor=YellowGreen|'''535,580'''
+| bgcolor=YellowGreen|'''29.28'''
+| align=center bgcolor=YellowGreen|'''5'''
+| 253,296
+| 13.85
+| align=center|1
+| 245,578
+| 13.42
+| align=center|2
+| 116,843
+| 6.39
+| align=center|—
+| 281,318
+| 15.38
+| align=center|1
+|-
+! scope=row|[[Catamarca Province|Catamarca]]
+| bgcolor=lightblue|'''98,357'''
+| bgcolor=lightblue|'''68.73'''
+| align=center bgcolor=lightblue|'''2'''
+| 14,598
+| 10.20
+| align=center|—
+| 14,975
+| 10.46
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 9,747
+| 6.81
+| align=center|—
+| 5,431
+| 3.80
+| align=center|—
+|-
+! scope=row|[[Chaco Province|Chaco]]
+| bgcolor=lightblue|'''232,851'''
+| bgcolor=lightblue|'''49.33'''
+| align=center bgcolor=lightblue|'''2'''
+| 81,165
+| 17.20
+| align=center|—
+| 131,275
+| 27.81
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| 15,910
+| 3.37
+| align=center|—
+| 10,784
+| 2.28
+| align=center|—
+|-
+! scope=row|[[Chubut Province|Chubut]]
+| bgcolor=lightblue|'''144,901'''
+| bgcolor=lightblue|'''65.34'''
+| align=center bgcolor=lightblue|'''3'''
+| 38,054
+| 17.16
+| align=center|—
+| 28,283
+| 12.75
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 10,527
+| 4.75
+| align=center|—
+|-
+! scope=row|[[Córdoba Province, Argentina|Córdoba]]
+| 396,072
+| 25.27
+| align=center|3
+| 281,175
+| 17.94
+| align=center|2
+| bgcolor=pink|'''542,780'''
+| bgcolor=pink|'''34.63'''
+| align=center bgcolor=pink|'''3'''
+| 18,397
+| 1.17
+| align=center|—
+| 219,045
+| 13.98
+| align=center|1
+| 109,818
+| 7.01
+| align=center|—
+|-
+! scope=row|[[Corrientes Province|Corrientes]]
+| bgcolor=lightblue|'''227,676'''
+| bgcolor=lightblue|'''55.48'''
+| align=center bgcolor=lightblue|'''3'''
+| 51,448
+| 12.54
+| align=center|—
+| 69,606
+| 16.96
+| align=center|1
+| 30,332
+| 7.39
+| align=center|—
+| 12,935
+| 3.15
+| align=center|—
+| 18,370
+| 4.48
+| align=center|—
+|-
+! scope=row|[[Entre Ríos Province|Entre Ríos]]
+| bgcolor=lightblue|'''296,771'''
+| bgcolor=lightblue|'''47.68'''
+| align=center bgcolor=lightblue|'''2'''
+| 114,763
+| 18.44
+| align=center|1
+| 115,223
+| 18.51
+| align=center|1
+| 11,786
+| 1.89
+| align=center|—
+| 59,571
+| 9.57
+| align=center|—
+| 24,294
+| 3.90
+| align=center|—
+|-
+! scope=row|[[Formosa Province|Formosa]]
+| bgcolor=lightblue|'''156,881'''
+| bgcolor=lightblue|'''75.70'''
+| align=center bgcolor=lightblue|'''3'''
+| 10,831
+| 5.23
+| align=center|—
+| 33,979
+| 16.40
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 3,724
+| 1.80
+| align=center|—
+| 1,836
+| 0.89
+| align=center|—
+|-
+! scope=row|[[Jujuy Province|Jujuy]]
+| bgcolor=lightblue|'''167,824'''
+| bgcolor=lightblue|'''63.17'''
+| align=center bgcolor=lightblue|'''2'''
+| 12,521
+| 4.71
+| align=center|—
+| 62,411
+| 23.49
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| 3,462
+| 1.30
+| align=center|—
+| 19,443
+| 7.32
+| align=center|—
+|-
+! scope=row|[[La Pampa Province|La Pampa]]
+| bgcolor=lightblue|'''87,878'''
+| bgcolor=lightblue|'''55.17'''
+| align=center bgcolor=lightblue|'''1'''
+| 9,078
+| 5.70
+| align=center|—
+| 54,300
+| 34.09
+| align=center|1
+| 1,937
+| 1.22
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 6,085
+| 3.82
+| align=center|—
+|-
+! scope=row|[[La Rioja Province, Argentina|La Rioja]]
+| bgcolor=lightblue|'''81,856'''
+| bgcolor=lightblue|'''72.88'''
+| align=center bgcolor=lightblue|'''3'''
+| align=center|—
+| align=center|—
+| align=center|—
+| 24,263
+| 21.60
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 6,203
+| 5.52
+| align=center|—
+|-
+! scope=row|[[Mendoza Province|Mendoza]]
+| bgcolor=lightblue|'''500,706'''
+| bgcolor=lightblue|'''65.59'''
+| align=center bgcolor=lightblue|'''5'''
+| 73,895
+| 9.68
+| align=center|—
+| 141,933
+| 18.59
+| align=center|—
+| 4,225
+| 0.55
+| align=center|—
+| 21,195
+| 2.78
+| align=center|—
+| 21,402
+| 2.80
+| align=center|—
+|-
+! scope=row|[[Misiones Province|Misiones]]
+| bgcolor=lightblue|'''297,356'''
+| bgcolor=lightblue|'''69.75'''
+| align=center bgcolor=lightblue|'''4'''
+| 15,194
+| 3.56
+| align=center|—
+| 55,655
+| 13.05
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 2,432
+| 0.57
+| align=center|—
+| 55,679
+| 13.06
+| align=center|—
+|-
+! scope=row|[[Neuquén Province|Neuquén]]
+| bgcolor=lightblue|'''72,181'''
+| bgcolor=lightblue|'''36.69'''
+| align=center bgcolor=lightblue|'''1'''
+| 44,071
+| 22.40
+| align=center|—
+| 16,565
+| 8.42
+| align=center|—
+| 4,037
+| 2.05
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 59,881
+| 30.44
+| align=center|1
+|-
+! scope=row|[[Río Negro Province|Río Negro]]
+| bgcolor=lightblue|'''155,493'''
+| bgcolor=lightblue|'''64.31'''
+| align=center bgcolor=lightblue|'''3'''
+| 44,877
+| 18.56
+| align=center|—
+| 27,751
+| 11.48
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 13,671
+| 5.65
+| align=center|—
+|-
+! scope=row|[[Salta Province|Salta]]
+| bgcolor=lightblue|'''415,880'''
+| bgcolor=lightblue|'''87.75'''
+| align=center bgcolor=lightblue|'''4'''
+| 7,577
+| 1.60
+| align=center|—
+| 26,574
+| 5.61
+| align=center|—
+| 1,664
+| 0.35
+| align=center|—
+| 1,545
+| 0.33
+| align=center|—
+| 20,671
+| 4.36
+| align=center|—
+|-
+! scope=row|[[San Juan Province, Argentina|San Juan]]
+| bgcolor=lightblue|'''194,693'''
+| bgcolor=lightblue|'''64.86'''
+| align=center bgcolor=lightblue|'''3'''
+| 18,084
+| 6.02
+| align=center|—
+| 55,474
+| 18.48
+| align=center|—
+| 2,892
+| 0.96
+| align=center|—
+| 23,978
+| 7.99
+| align=center|—
+| 5,071
+| 1.69
+| align=center|—
+|-
+! scope=row|[[San Luis Province|San Luis]]
+| 17,128
+| 8.56
+| align=center|—
+| 24,296
+| 12.14
+| align=center|—
+| 19,684
+| 9.84
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| bgcolor=Aquamarine|'''137,343'''
+| bgcolor=Aquamarine|'''68.65'''
+| align=center bgcolor=Aquamarine|'''2'''
+| 1,623
+| 0.81
+| align=center|—
+|-
+! scope=row|[[Santa Cruz Province, Argentina|Santa Cruz]]
+| bgcolor=lightblue|'''58,973'''
+| bgcolor=lightblue|'''67.84'''
+| align=center bgcolor=lightblue|'''2'''
+| align=center|—
+| align=center|—
+| align=center|—
+| 24,722
+| 28.44
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 3,235
+| 3.72
+| align=center|—
+|-
+! scope=row|[[Santa Fe Province|Santa Fe]]
+| bgcolor=lightblue|'''586,623'''
+| bgcolor=lightblue|'''36.28'''
+| align=center bgcolor=lightblue|'''5'''
+| 547,783
+| 33.88
+| align=center|5
+| 262,154
+| 16.21
+| align=center|—
+| 22,884
+| 1.42
+| align=center|—
+| 87,300
+| 5.40
+| align=center|—
+| 110,324
+| 6.82
+| align=center|—
+|-
+! scope=row|[[Santiago del Estero Province|Santiago del Estero]]
+| bgcolor=lightblue|'''290,134'''
+| bgcolor=lightblue|'''88.00'''
+| align=center bgcolor=lightblue|'''4'''
+| 17,088
+| 5.18
+| align=center|—
+| 6,208
+| 1.88
+| align=center|—
+| 4,247
+| 1.29
+| align=center|—
+| 3,409
+| 1.03
+| align=center|—
+| 8,609
+| 2.61
+| align=center|—
+|-
+! scope=row|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+| 23,235
+| 46.83
+| align=center|2
+| bgcolor=YellowGreen|'''12,321'''
+| bgcolor=YellowGreen|'''24.83'''
+| align=center bgcolor=YellowGreen|'''1'''
+| 3,256
+| 6.56
+| align=center|—
+| 2,963
+| 5.97
+| align=center|—
+| 1,634
+| 3.29
+| align=center|—
+| 6,208
+| 12.51
+| align=center|—
+|-
+! scope=row|[[Tucumán Province|Tucumán]]
+| bgcolor=lightblue|'''409,378'''
+| bgcolor=lightblue|'''65.68'''
+| align=center bgcolor=lightblue|'''4'''
+| 66,003
+| 10.59
+| align=center|—
+| 100,041
+| 16.05
+| align=center|1
+| 16,387
+| 2.63
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 31,509
+| 5.06
+| align=center|—
+|-
+! Total
+! 8,524,699
+! 47.12
+! 84
+! 3,406,840
+! 18.83
+! 23
+! 2,741,843
+! 15.16
+! 12
+! 1,102,035
+! 6.09
+! 6
+! 972,391
+! 5.37
+! 3
+! 1,343,294
+! 7.43
+! 2
+|}
+
+=== Senate ===
+{{Election results|seattype1=Won|seattype2=Total
+|image=[[File:Elecciones legislativas de Argentina de 2007 - Senado (Actualizado).svg]]
+|alliance1=[[Front for Victory]]|aspan1=12|party1=[[Front for Victory]]|votes1=1125906|st1t1=9|st2t1=
+|party2=[[Chaco Deserves More]]|votes2=229186|st1t2=2|st2t2=
+|party3=[[Front for Victory]]–[[Salta Renewal Party]]|votes3=190539|st1t3=1|st2t3=
+|party4=[[Civic Front for Santiago]]|votes4=179136|st1t4=2|st2t4=
+|party5={{ill|Consensus for Development|es|Concertación para el Desarrollo}}|votes5=81200|st1t5=1|st2t5=
+|party6=[[Viable Santiago Movement]]|votes6=35459|st1t6=1|st2t6=
+|party7=A New Option|votes7=33041|st1t7=0|st2t7=
+|party8=[[Christian Democratic Party (Argentina)|Christian Democratic Party]]|votes8=26962|st1t8=0|st2t8=
+|party9=Renewal Current Party|votes9=13564|st1t9=0|st2t9=
+|party10=[[Federalist Unity Party]]|votes10=7550|st1t10=1|st2t10=
+|party11=Commitment K|votes11=5158|st1t11=0|st2t11=
+|atotal12=1927701|ast1t12=17|st2t12=47
+|alliance13=[[Civic Coalition (Argentina)|Civic Coalition]]|aspan13=6|party13=[[Civic Coalition (Argentina)|Civic Coalition]]|votes13=537705|st1t13=2|st2t13=
+|party14=[[Socialist Party (Argentina)|Socialist Party]]|votes14=139431|st1t14=0|st2t14=
+|party15=[[Civic Coalition ARI|Support for an Egalitarian Republic]]|votes15=115695|st1t15=2|st2t15=
+|party16=[[Civic Coalition ARI|ARI]]–[[Socialist Party (Argentina)|Socialist Party]]|votes16=43671|st1t16=0|st2t16=
+|party17={{ill|Open Politics for Social Integrity|es|Política Abierta para la Integridad Social}}|votes17=2733|st1t17=0|st2t17=
+|atotal18=839235|ast1t18=4|st2t18=5
+|alliance19={{ill|Consensus for an Advanced Nation|es|Concertación para Una Nación Avanzada|lt=Consensus<br>for an<br>Advanced<br>Nation}}|aspan19=7|party19=[[Radical Civic Union]]|votes19=239748|st1t19=1|st2t19=
+|party20=[[Frente de Todos (1996 coalition)|Frente de Todos]]|votes20=147491|st1t20=1|st2t20=
+|party21={{ill|Consensus for an Advanced Nation|es|Concertación para Una Nación Avanzada}}|votes21=106239|st1t21=0|st2t21=
+|party22=[[Democratic Progressive Party (Argentina)|Democratic Progressive Party]]|votes22=78547|st1t22=0|st2t22=
+|party23=[[Integration and Development Movement]]|votes23=22873|st1t23=0|st2t23=
+|party24=Salta Proposal|votes24=13353|st1t24=0|st2t24=
+|atotal25=608251|ast1t25=2|st2t25=11
+|alliance26={{ill|Republican Proposal (alliance)|es|Propuesta Republicana (alianza)|lt=Republican<br>Proposal}}|aspan26=4|party26={{ill|Republican Proposal (alliance)|es|Propuesta Republicana (alianza)|lt=Republican Proposal}}|votes26=253706|st1t26=0|st2t26=
+|party27=[[Recreate for Growth]]|votes27=17047|st1t27=0|st2t27=
+|party28=[[Commitment to Change]]|votes28=4802|st1t28=0|st2t28=
+|atotal29=275555|ast1t29=0|st2t29=1
+|alliance30={{ill|Justice, Union and Freedom Front|es|Frente Justicia, Unión y Libertad|lt=Justice,<br>Union and<br>Freedom<br>Front}}|aspan30=9|party30=Live Entre Ríos|votes30=59557|st1t30=0|st2t30=
+|party31={{ill|Justice, Union and Freedom Front|es|Frente Justicia, Unión y Libertad}}|votes31=50968|st1t31=0|st2t31=
+|party32=[[Union of the Democratic Centre (Argentina)|Union of the Democratic Centre]]|votes32=41274|st1t32=0|st2t32=
+|party33=Autonomist Party|votes33=26308|st1t33=0|st2t33=
+|party34=Popular Loyalty|votes34=15310|st1t34=0|st2t34=
+|party35=Salta Popular Movement|votes35=1518|st1t35=0|st2t35=
+|party36=[[Unity and Liberty Party]]|votes36=1455|st1t36=0|st2t36=
+|party37=[[Action for the Republic (Argentina)|Action for the Republic]]|votes37=599|st1t37=0|st2t37=
+|atotal38=196989|ast1t38=0|st2t38=4
+|alliance39=[[Proyecto Sur]]|votes39=126859|st1t39=0|st2t39=0
+|alliance40=[[Neuquén People's Movement]]|votes40=51451|st1t40=1|st2t40=1
+|alliance41=Porteño Consensus ([[Workers' Socialist Movement (Argentina)|MST]]–[[Workers' Socialist Movement (Argentina)|New Left]])|votes41=45464|st1t41=0|st2t41=0
+|alliance42=[[Workers' Socialist Movement (Argentina)|Workers' Socialist Movement-New Left]]|votes42=43776|st1t42=0|st2t42=0
+|alliance43=[[Workers' Party (Argentina)|Workers' Party]]|votes43=34480|st1t43=0|st2t43=0
+|alliance44=United<br>Provinces<br>Movement|aspan44=4|party44=United Provinces Movement|votes44=15860|st1t44=0|st2t44=0
+|party45=[[Federal Popular Union|Popular Union]]–[[Movement for Dignity and Independence|MODIN]]–{{abbr|FIC|Centre Independent Force}}|votes45=7392|st1t45=0|st2t45=0
+|party46=New Generation|votes46=2057|st1t46=0|st2t46=0
+|atotal47=25309|ast1t47=0|st2t47=0
+|alliance48=Broad Front<br>towards Latin<br>American Unity|aspan48=4|party48=Broad Front towards Latin American Unity|votes48=14184|st1t48=0|st2t48=0
+|party49=[[Humanist Party (Argentina)|Humanist Party]]|votes49=1710|st1t49=0|st2t49=0
+|party50=[[Communist Party of Argentina]]|votes50=770|st1t50=0|st2t50=0
+|atotal51=16664|ast1t51=0|st2t51=0
+|alliance52=[[People's Reconstruction Party]]|votes52=10651|st1t52=0|st2t52=0
+|alliance53=Left and<br>Workers Front<br>for Socialism|aspan53=3|party53=[[Socialist Workers' Party (Argentina)|PTS]]–[[Movimiento al Socialismo (Argentina)|MAS]]–[[Socialist Left (Argentina)|IS]]|votes53=7472|st1t53=0|st2t53=0
+|party54=[[Socialist Workers' Party (Argentina)|Socialist Workers' Party]]|votes54=1894|st1t54=0|st2t54=0
+|atotal55=9366|st1t55=0|st2t55=0
+|alliance56=Entre Ríos Broad Encounter|votes56=7615|st1t56=0|st2t56=0
+|alliance57={{ill|Independent Movement of Justice and Dignity|es|Movimiento Independiente de Justicia y Dignidad|lt=Independent Movement of Retirees and Unemployed}}|votes57=6503|st1t57=0|st2t57=0
+|alliance58=Revolutionary Socialist League|votes58=4538|st1t58=0|st2t58=0
+|alliance59=Popular Sovereignty Front|votes59=3589|st1t59=0|st2t59=0
+|alliance60=Socialist Convergence|votes60=3413|st1t60=0|st2t60=0
+|alliance61=Citizen Action|votes61=2668|st1t61=0|st2t61=0
+|alliance62=Popular Assemblies|votes62=2537|st1t62=0|st2t62=0
+|alliance63=Future Republic Movement|votes63=2267|st1t63=0|st2t63=0
+|alliance64=Fuegian Action Front|votes64=1935|st1t64=0|st2t64=0
+|alliance65=Broad Popular Encounter|votes65=1782|st1t65=0|st2t65=0
+|alliance66=[[Fuegian People's Movement]]|votes66=1585|st1t66=0|st2t66=0
+|alliance67=Authentic Fuegian Party|votes67=1344|st1t67=0|st2t67=0
+|alliance68=Call for Citizen Integration|votes68=653|st1t68=0|st2t68=0
+|alliance69=The Movement|votes69=155|st1t69=0|st2t69=0
+|alliance70=Popular Party|votes70=3|st1t70=0|st2t70=0
+|alliance71=[[Republican Force]]|st2t71=2
+|alliance72=[[Civic Front of Córdoba|New Front]]|st2t72=1
+|blank=364388
+|invalid=56066
+|electorate=6320953
+|source=DINE,<ref>{{Cite web |url=https://recorriendo.elecciones.gob.ar/senadores2007.html#/ |title=Recorriendo las Elecciones de 1983 a 2013 – Senadores Nacionales |website=Dirección Nacional Electoral |access-date=January 26, 2021 |archive-date=April 22, 2022 |archive-url=https://web.archive.org/web/20220422184302/https://recorriendo.elecciones.gob.ar/senadores2007.html#/ |url-status=dead }}</ref> Ministry of the Interior<ref name="results"/>
+}}
+
+==== Results by province ====
+{| class="wikitable sortable plainrowheaders" style="text-align:right;"
+! rowspan=2|Province
+! colspan=3|FPV
+! colspan=3|CC
+! colspan=3|UNA
+! colspan=3|PRO
+! colspan=3|FREJULI
+! colspan=3|Others
+|-
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+|-
+! scope=row|[[Buenos Aires City]]
+| 412,012
+| 22.41
+| align=center|1
+| bgcolor=YellowGreen|'''530,304'''
+| bgcolor=YellowGreen|'''28.84'''
+| align=center bgcolor=YellowGreen|'''2'''
+| 268,997
+| 14.63
+| align=center|—
+| 248,881
+| 13.54
+| align=center|—
+| 115,152
+| 6.26
+| align=center|—
+| 263,416
+| 14.33
+| align=center|—
+|-
+! scope=row|[[Chaco Province|Chaco]]
+| bgcolor=lightblue|'''229,186'''
+| bgcolor=lightblue|'''47.75'''
+| align=center bgcolor=lightblue|'''2'''
+| 78,075
+| 16.27
+| align=center|—
+| 147,491
+| 30.73
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| 15,310
+| 3.19
+| align=center|—
+| 9,868
+| 2.06
+| align=center|—
+|-
+! scope=row|[[Entre Ríos Province|Entre Ríos]]
+| bgcolor=lightblue|'''297,770'''
+| bgcolor=lightblue|'''47.65'''
+| align=center bgcolor=lightblue|'''2'''
+| 116,495
+| 18.64
+| align=center|—
+| 114,499
+| 18.32
+| align=center|1
+| 11,503
+| 1.84
+| align=center|—
+| 60,156
+| 9.63
+| align=center|—
+| 24,452
+| 3.91
+| align=center|—
+|-
+! scope=row|[[Neuquén Province|Neuquén]]
+| bgcolor=lightblue|'''72,911'''
+| bgcolor=lightblue|'''36.95'''
+| align=center bgcolor=lightblue|'''2'''
+| 43,671
+| 22.13
+| align=center|—
+| 16,742
+| 8.49
+| align=center|—
+| 3,891
+| 1.97
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 60,095
+| 30.46
+| align=center|1
+|-
+! scope=row|[[Río Negro Province|Río Negro]]
+| bgcolor=lightblue|'''165,092'''
+| bgcolor=lightblue|'''67.02'''
+| align=center bgcolor=lightblue|'''3'''
+| 43,901
+| 17.82
+| align=center|—
+| 23,949
+| 9.72
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 13,402
+| 5.44
+| align=center|—
+|-
+! scope=row|[[Salta Province|Salta]]
+| bgcolor=lightblue|'''420,442'''
+| bgcolor=lightblue|'''87.98'''
+| align=center bgcolor=lightblue|'''3'''
+| 7,401
+| 1.55
+| align=center|—
+| 26,524
+| 5.55
+| align=center|—
+| 1,653
+| 0.35
+| align=center|—
+| 1,518
+| 0.32
+| align=center|—
+| 20,334
+| 4.26
+| align=center|—
+|-
+! scope=row|[[Santiago del Estero Province|Santiago del Estero]]
+| bgcolor=lightblue|'''306,717'''
+| bgcolor=lightblue|'''91.19'''
+| align=center bgcolor=lightblue|'''3'''
+| 7,815
+| 2.32
+| align=center|—
+| 6,131
+| 1.82
+| align=center|—
+| 4,825
+| 1.43
+| align=center|—
+| 3,398
+| 1.01
+| align=center|—
+| 7,464
+| 2.22
+| align=center|—
+|-
+! scope=row|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+| 23,571
+| 46.31
+| align=center|1
+| bgcolor=YellowGreen|'''11,573'''
+| bgcolor=YellowGreen|'''22.74'''
+| align=center bgcolor=YellowGreen|'''2'''
+| 3,918
+| 7.70
+| align=center|—
+| 4,802
+| 9.44
+| align=center|—
+| 1,455
+| 2.86
+| align=center|—
+| 5,576
+| 10.96
+| align=center|—
+|-
+! Total
+! 1,927,701
+! 45.33
+! 17
+! 839,235
+! 19.74
+! 4
+! 608,251
+! 14.30
+! 2
+! 275,555
+! 6.48
+! 0
+! 196,989
+! 4.63
+! 0
+! 404,607
+! 9.51
+! 1
+|}
+
+=== Governors ===
+The elections for governors took place in ten provinces in September, which were won in six provinces by Kirchner's [[Front for Victory]]. [[Hermes Binner]] was elected [[governor of Santa Fe]], defeating Peronist [[Rafael Bielsa]], the former [[Foreign relations of Argentina|Minister of Foreign Affairs]] for Pres. Néstor Kirchner. Binner thus became the first [[Socialist Party (Argentina)|Socialist]] governor in Argentina's history and the first non-[[Justicialism|Justicialist]] elected governor of that province. Center-left [[Fabiana Ríos]] ([[Support for an Egalitarian Republic|ARI]]) became the first woman elected governor in Argentina, winning an upset in [[Tierra del Fuego Province (Argentina)|Tierra del Fuego Province]], while the moderately conservative [[Mauricio Macri]] was elected [[List of Mayors and Chiefs of Government of Buenos Aires|Mayor of Buenos Aires]] (an office similar to governor) in June 2007.<ref name=Mde>[https://www.lemonde.fr/ameriques/article/2007/09/04/pour-la-premiere-fois-un-socialiste-est-elu-gouverneur-d-une-province-argentine_951026_3222.html Pour la première fois, un socialiste est élu gouverneur d'une province argentine], ''[[Le Monde]]'', September 4, 2007 {{in lang|fr}}</ref>
+
+[[Corrientes Province]] and [[Santiago del Estero Province]] did not have elections for governors in 2007, as they had already taken place in 2005.
+
+{| class="wikitable" align=center
+!District
+!Elected Governor
+!Party
+!%
+!Runner-up
+!Party
+!%
+|-
+|[[Buenos Aires Province|Buenos Aires]] || [[Daniel Scioli]] || [[Front for Victory]] (FPV) || 48.2 || [[Margarita Stolbizer]] || [[Civic Coalition (Argentina)|Civic Coalition]] || 16.6
+|-
+|[[Catamarca Province|Catamarca]] || [[Eduardo Brizuela del Moral]] || [[Civic and Social Front of Catamarca|Civic Social Front]] – FPV || 52.6 || Luis Barrionuevo || [[Justicialist Party]] (JP) || 37.6 
+|-
+|[[Chaco Province|Chaco]] || [[Jorge Capitanich]] || Justicialist || 46.8 || [[Ángel Rozas]] <sup>L</sup> || [[Radical Civic Union|Front for All]] (UCR) || 46.6 
+|-
+|[[Chubut Province|Chubut]] || [[Mario Das Neves]] || Justicialist || 76.7 || Raúl Barneche || [[Radical Civic Union|UCR]] || 13.5 
+|-
+|[[City of Buenos Aires]] || [[Mauricio Macri]] || [[Republican Proposal|PRO]] || 60.9 || [[Daniel Filmus]] <sup>L</sup> || [[Front for Victory]] (FPV) || 39.1 
+|-
+|[[Córdoba Province, Argentina|Córdoba]]<sup>1</sup> || [[Juan Schiaretti]] || Justicialist || 37.2 || [[Luis Juez]] || [[Social and Civic Agreement]] || 36.0
+|-
+|[[Entre Ríos Province|Entre Ríos]] || [[Sergio Urribarri]] || FPV || 47.0 || Gustavo Cusinato || UCR || 19.9
+|-
+|[[Formosa Province|Formosa]] || [[Gildo Insfrán]] <sup>R</sup> || Justicialist || 76.0 || Gabriel Hernández || UCR || 19.2
+|-
+|[[Jujuy Province|Jujuy]] || [[Walter Barrionuevo]] || FPV || 36.0 || Carlos Snopek || [[Christian Democratic Party (Argentina)|Jujuy First Alliance]] || 30.0
+|-
+|[[La Pampa Province|La Pampa]] ||[[Oscar Jorge]] || Justicialist || 53.5 || [[Juan Carlos Marino (Argentine politician)|Juan Carlos Marino]] || Social and Civic Agreement || 36.6
+|-
+|[[La Rioja Province (Argentina)|La Rioja]] ||[[Luis Beder Herrera]] <sup>R</sup> || La Rioja People's Front || 42.6 || Ricardo Quintela || FPV || 27.8
+|-
+|[[Mendoza Province|Mendoza]] || [[Celso Jaque]] || Justicialist || 37.9 || César Biffi || [[Radicales K|Citizen's Alliance]] || 30.0
+|-
+|[[Misiones Province|Misiones]] || [[Maurice Closs]] || [[Front for the Renewal of Concord]] || 38.4 || Pablo Tschirsch || FPV || 28.6
+|-
+|[[Neuquén Province|Neuquén]] || [[Jorge Sapag]] || [[Neuquén People's Movement]] || 48.3 || Horacio Quiroga || FPV – UCR Alliance || 35.0
+|-
+|[[Río Negro Province|Río Negro]] || [[Miguel Saiz]] || UCR || 47.3 || [[Miguel Ángel Pichetto]] || FPV || 40.8
+|-
+|[[Salta Province|Salta]] || [[Juan Manuel Urtubey]] || [[Salta Renewal Party]] – FPV Alliance || 46.3 || Walter Wayar || Justicialist || 45.3
+|-
+|[[San Juan Province, Argentina|San Juan]] || [[José Luis Gioja]] || FPV || 61.2 || [[Roberto Basualdo]] || Front for Change || 24.5 
+|-
+|[[San Luis Province|San Luis]] || [[Alberto Rodríguez Saá]] <sup>R</sup>|| Justicialist || 86.3 || Roque Palma || [[Socialist Party of Argentina|Popular Socialist]] || 9.8
+|-
+|[[Santa Cruz Province, Argentina|Santa Cruz]] || [[Daniel Peralta]] || FPV || 58.1 || Eduardo Costa || UCR || 38.8
+|-
+|[[Santa Fe Province|Santa Fe]] || [[Hermes Binner]] || [[Progressive, Civic and Social Front]] || 52.7 || [[Rafael Bielsa]] || FPV || 41.9
+|-
+|[[Santiago del Estero Province|Santiago del Estero]]<sup>2</sup> || [[Gerardo Zamora]] <sup>R</sup>|| [[Civic Front for Santiago]] || 85.1 || Marcelo Lugones || Popular Unity Force (UCR) || 5.0 
+|-
+|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]] || [[Fabiana Ríos]] || [[Civic Coalition ARI|ARI]] || 52.4 || [[Hugo Cóccaro]] || FPV || 47.6 
+|-
+|[[Tucumán Province|Tucumán]] || [[José Alperovich]] <sup>R</sup>|| FPV || 78.2 || Ricardo Bussi || [[Republican Force]] || 5.3
+|-
+|colspan=7 | 
+----
+:Sources: [http://www.clarin.com/diario/2007/09/03/10.pdf ''Clarín''], September 3, 2007. National Electoral Direction, Ministry of Interior.
+:<small>'''1''': Civic and Social Front candidate [[Luis Juez]], who lost by 1.1%, accused Justicialist candidate [[Juan Schiaretti]] of [[electoral fraud]]; the [[Argentine Supreme Court]] certified the results in October.<ref>{{cite web|url=http://edant.clarin.com/diario/2007/10/19/elpais/p-00801.htm|title=Córdoba: la Justicia confirmó su triunfo y Schiaretti ya es gobernador electo|work=Clarín|date=October 19, 2007}}</ref></small>
+:<small>'''2''': Election held November 30, 2008.</small>
+:<small>'''R''': Reelected.</small>
+:<small>'''L''': Incumbent lost.</small>
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{commons category}}
+*{{in lang|es}} [https://web.archive.org/web/20070101110951/http://www.mininterior.gov.ar/elecciones/ National Electoral Direction] – Ministry of Interior of Argentina
+*{{in lang|es|en}} [http://www.argentinaelections.com Argentina Elections]
+*{{in lang|es}} [https://web.archive.org/web/20071213015949/http://www.resultados2007.gov.ar/ Official Election Results]
+
+{{Argentine elections}}
+{{CFK}}
+
+[[Category:2007 elections in South America|Argentina]]
+[[Category:2007 elections in Argentina|General]]
+[[Category:Presidency of Cristina Fernández de Kirchner]]
+[[Category:Presidential elections in Argentina]]
+[[Category:Legislative elections in Argentina]]
+[[Category:October 2007 elections]]
+[[Category:October 2007 in South America]]

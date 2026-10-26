@@ -1,0 +1,62 @@
+{{short description|none}}
+{{Infobox election
+| country = São Tomé and Príncipe
+| type = presidential
+| ongoing = no
+| election_date = 30 July 2006
+| previous_election = 2001 São Toméan presidential election
+| previous_year = 2001
+| next_election = 2011 São Toméan presidential election
+| next_year = 2011
+
+| image1 = Fradique de Menezes, 2001.jpg
+| candidate1 = [[Fradique de Menezes]]
+| party1 = Force for Change Democratic Movement – Liberal Party
+| popular_vote1 = '''34,859'''
+| percentage1 = '''60.58%'''
+
+| image2 = Dr. Partice Emery Trovoda, October 28, 2015 (cropped).jpg
+| candidate2 = [[Patrice Trovoada]]
+| party2 = Independent Democratic Action
+| popular_vote2 = 22,339
+| percentage2 = 38.82%
+
+| map_image = 2006 São Tomé and Príncipe presidential election - Results by district.svg
+| map_caption = Results by district
+
+| title = [[President of São Tomé and Príncipe|President]]
+| before_election = [[Fradique de Menezes]]
+| before_party = Force for Change Democratic Movement – Liberal Party
+| after_election = [[Fradique de Menezes]]
+| after_party = Force for Change Democratic Movement – Liberal Party
+}}
+{{Politics of São Tomé and Príncipe}}
+
+Presidential elections were held in [[São Tomé and Príncipe]] on 30 July 2006. Incumbent [[Fradique de Menezes]], first elected in 2001, won with more than 60% of the vote, while his main challenger, [[Patrice Trovoada]], son of a former president received just over 38%. The third candidate, [[Nilo Guimarães]], received less than 1% of the vote.
+
+==Campaign==
+Fradique de Menezes was nominated by the [[Force for Change Democratic Movement – Liberal Party]] and supported by the [[Christian Democratic Front]] and [[Social Liberal Party (São Tomé and Príncipe)|Social Liberal Party]]. Patrice Trovoada was nominated by the [[Independent Democratic Action]], but also supported by the [[Democratic Renovation Party (São Tomé and Príncipe)|Democratic Renovation Party]], the [[Movement for the Liberation of São Tomé and Príncipe/Social Democratic Party|MLSTP/PSD]], the [[National Union for Democracy and Progress (São Tomé and Príncipe)|National Union for Democracy and Progress]], the [[Opposition Democratic Coalition]], the [[Social Renewal Party (São Tomé and Príncipe)|Social Renewal Party]],  the [[São Toméan Workers Party]], the [[Social Renewal Party (São Tomé and Príncipe)|Social Renewal Party]] and the [[Union of Democrats for Citizenship and Development]].<ref>[http://africanelections.tripod.com/st.html#2006_Presidential_Election Elections in São Tomé and Príncipe] African Elections Database</ref>
+
+==Results==
+{{Election results
+|cand1=[[Fradique de Menezes]]|party1=[[Force for Change Democratic Movement – Liberal Party]]|votes1=34859
+|cand2=[[Patrice Trovoada]]|party2=[[Independent Democratic Action]]|votes2=22339
+|cand3=[[Nilo Guimarães]]|party3=Independent|votes3=342
+|invalid=1638
+|electorate=91119
+|source=[http://africanelections.tripod.com/st.html#2006_Presidential_Election African Election Database]
+}}
+
+==References==
+{{reflist}}
+
+{{São Tomé and Príncipe elections}}
+
+[[Category:Presidential elections in São Tomé and Príncipe]]
+[[Category:2006 elections in Africa|Sao Tome]]
+[[Category:2006 in São Tomé and Príncipe|Election Presidential]]
+[[Category:July 2006 in Africa|São Toméan presidential election]]
+[[Category:July 2006 elections]]
+
+{{SaoTomePrincipe-stub}}
+{{Africa-election-stub}}

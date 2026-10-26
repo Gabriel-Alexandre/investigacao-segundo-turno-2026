@@ -1,0 +1,106 @@
+{{Short description|none}}
+{{Use dmy dates|date=July 2025}}
+{{Infobox election
+| country = Panama
+| previous_election = 1994 Panamanian general election
+| previous_year = 1994
+| next_election = 2004 Panamanian general election
+| next_year = 2004
+| election_date = {{Start date|1999|5|2|df=y}}
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| image_size = 130x130px
+| turnout = 76.17% ({{increase}} 2.50[[percentage point|pp]])
+
+| image1 = Mireya Moscoso in 2012.jpg
+| nominee1 = '''[[Mireya Moscoso]]'''
+| running_mate1 = [[Arturo Vallarino]]<br />[[Dominador Baldomero Bazán|Dominador Bazán]]
+| party1 = [[Panameñista Party|Arnulfista]]
+| popular_vote1 = '''572,717'''
+| percentage1 = '''44.80%'''
+
+| image2 = Panama.MartinTorrijos.01.jpg
+| nominee2 = [[Martin Torrijos]]
+| running_mate2 = {{nowrap|[[Samuel Lewis Navarro]]}}<br>[[Rubén Arosemena]]
+| party2 = Democratic Revolutionary Party
+| popular_vote2 = 483,501
+| percentage2 = 37.82%
+
+| image3 = Alberto Vallarino Clement (cropped).jpg
+| nominee3 = [[Alberto Vallarino Clement]]
+| running_mate3 = 
+| party3 = OAA
+| party3_name = no
+| color3 = FFFF00
+| popular_vote3 = 222,250
+| percentage3 = 17.38%
+
+
+| title = [[President of Panama|President]]
+| before_election = [[Ernesto Pérez Balladares]]
+| before_party = Democratic Revolutionary Party
+| after_election = [[Mireya Moscoso]]
+| after_party = [[Panameñista Party|Arnulfista]]
+}}}}{{Politics of Panama}}
+
+General elections were held in [[Panama]] on 2 May 1999, electing both a new President of the Republic and a new Legislative Assembly.
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Mireya Moscoso]]|alliance1=Union for Panama|aspan1=5|party1=[[Panameñista Party|Arnulfista Party]]|votes1=367865
+|party2=[[Nationalist Republican Liberal Movement]]|votes2=140240
+|party3=[[Democratic Change (Panama)|Democratic Change]]|votes3=36068
+|party4=[[National Renewal Movement (Panama)|National Renewal Movement]]|votes4=28544
+|atotal5=572717
+|cand6=[[Martín Torrijos]]|alliance6=New Nation Alliance|aspan6=5|party6=[[Democratic Revolutionary Party]]|votes6=403649
+|party7=[[National Liberal Party (Panama)|National Liberal Party]]|votes7=36111
+|party8=[[Solidarity Party (Panama)|Solidarity Party]]|votes8=23524
+|party9=[[Mother Earth Movement]]|votes9=20217
+|atotal10=483501
+|cand11=[[Alberto Vallarino]]|alliance11=Opposition Action Alliance|aspan11=5|party11=[[People's Party (Panama)|Christian Democratic Party]]|votes11=141283
+|party12=[[Liberal Party (Panama)|Liberal Party]]|votes12=45192
+|party13=[[Civic Renewal Party]]|votes13=25579
+|party14=[[Popular Nationalist Party]]|votes14=10196
+|atotal15=222250
+|invalid=52262
+|electorate=1746989
+|source=Nohlen<ref>Elections in the Americas : a data handbook / ed. by Dieter Nohlen, Vol. 1. [Oxford] [u.a.]: Oxford Univ. Press, 2005. Pp.534.</ref>
+}}
+
+===National Assembly===
+{{Election results
+|image=[[File:Panamanian National Assembly 1999 (by party).svg]]
+|alliance1=New Nation Alliance|aspan1=5|party1=[[Democratic Revolutionary Party]]|votes1=393356|seats1=34
+|party2=[[National Liberal Party (Panama)|National Liberal Party]]|votes2=75866|seats2=3
+|party3=[[Solidarity Party (Panama)|Solidarity Party]]|votes3=71860|seats3=4
+|party4=[[Mother Earth Movement]]|votes4=21841|seats4=0
+|atotal5=562923|aseats5=41
+|alliance6=Union for Panama|aspan6=5|party6=[[Panameñista Party|Arnulfista Party]]|votes6=266030|seats6=18
+|party7=[[Nationalist Republican Liberal Movement]]|votes7=92711|seats7=3
+|party8=[[Democratic Change (Panama)|Democratic Change]]|votes8=66841|seats8=2
+|party9=[[National Renewal Movement (Panama)|National Renewal Movement]]|votes9=42996|seats9=1
+|atotal10=468578|aseats10=24
+|alliance11=Opposition Action Alliance|aspan11=5|party11=[[People's Party (Panama)|Christian Democratic Party]]|votes11=107179|seats11=5
+|party12=[[Liberal Party (Panama)|Liberal Party]]|votes12=41588|seats12=0
+|party13=[[Civic Renewal Party]]|votes13=37705|seats13=1
+|party14=[[Popular Nationalist Party]]|votes14=11506|seats14=0
+|atotal15=197978|aseats15=6
+|invalid=76911
+|electorate=1746989
+|source=Nohlen<ref>Elections in the Americas : a data handbook / ed. by Dieter Nohlen, Vol. 1. [Oxford] [u.a.] : Oxford Univ. Press, 2005. Pp.528.</ref>
+}}
+
+==References==
+{{reflist}}
+
+{{Panamanian elections}}
+
+[[Category:1999 elections in Central America|Panama]]
+[[Category:1999 in Panama|General election]]
+[[Category:Elections in Panama]]
+[[Category:Presidential elections in Panama]]
+[[Category:May 1999 in North America|Panama]]

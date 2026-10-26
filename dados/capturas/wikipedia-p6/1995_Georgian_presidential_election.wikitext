@@ -1,0 +1,54 @@
+{{Short description|none}}
+{{Infobox election
+| country = Georgia
+| flag_year = 1990
+| type = presidential
+| previous_election = 1992 Georgian general election
+| previous_year = 1992
+| next_election = 2000 Georgian presidential election
+| next_year = 2000
+| election_date = 5 November 1995
+| turnout = 68.29% ({{decrease}} 5.88[[percentage point|pp]])
+| image1 = Eduard shevardnadze (cropped).jpg
+| nominee1 = '''[[Eduard Shevardnadze]]'''
+| party1 = Independent politician
+| alliance1 = Union of Citizens of Georgia
+| color1 = 231577
+| popular_vote1 = '''1,589,909'''
+| percentage1 = '''77.02%'''
+| image2 = Jumber Patiashvili.png
+| nominee2 = [[Jumber Patiashvili]]
+| party2 = Independent politician
+| popular_vote2 = 414,303
+| percentage2 = 20.07%
+| title = [[President of Georgia|President]]
+| before_election = [[Eduard Shevardnadze]]
+| before_party = Union of Citizens of Georgia
+| after_election = [[Eduard Shevardnadze]]
+| after_party = Union of Citizens of Georgia
+}}{{Politics of Georgia (country)}}
+
+Presidential elections were held in [[Georgia (country)|Georgia]] on 5 November (or 6 November<ref>{{Cite journal |date=1996 |title=Election Watch |url=https://muse.jhu.edu/pub/1/article/697484 |journal=Journal of Democracy |volume=7 |issue=1 |issn=1086-3214}}</ref>) 1995.<ref>[[Dieter Nohlen]], Florian Grotz & Christof Hartmann (2001) ''Elections in Asia: A data handbook, Volume I'', p382 {{ISBN|0-19-924958-X}}</ref> The result was a victory for [[Eduard Shevardnadze]] of the [[Union of Citizens of Georgia]], who received 77% of the vote, with a 68% turnout.<ref>Nohlen ''et al.'', p402</ref>
+
+==Results==
+{{Election results
+|cand1=[[Eduard Shevardnadze]]|party1=[[Union of Citizens of Georgia]]|votes1=1589909
+|cand2=[[Jumber Patiashvili]]|party2=Independent|votes2=414303
+|cand3=[[Akaki Bakradze]]|party3=[[Ilia Chavchavadze Society]]|votes3=31350
+|cand4={{ill|Panteleimon Giorgadze|ka|პანტელეიმონ გიორგაძე}}|party4=[[Unified Communist Party of Georgia]]|votes4=10697
+|cand5={{ill|Kartlos Gharibashvili|ka|ქართლოს ღარიბაშვილი}}|party5=Independent|votes5=10023
+|cand6={{ill|Roin Liparteliani|ka|როინ ლიპარტელიანი}}|party6=Agrarian Party of Georgia|votes6=7948
+|invalid=57280
+|electorate=3106557
+|source=Nohlen ''et al''.
+}}
+
+==References==
+{{reflist}}
+
+{{Georgian elections}}
+
+[[Category:Presidential elections in Georgia (country)]]
+[[Category:1995 in Georgia (country)]]
+[[Category:1995 elections in Asia|Georgia]]
+[[Category:1995 elections in Europe|Georgia]]

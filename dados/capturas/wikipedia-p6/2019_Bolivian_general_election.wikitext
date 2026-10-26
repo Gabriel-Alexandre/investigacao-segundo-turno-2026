@@ -1,0 +1,749 @@
+{{Short description|none}}
+{{Use dmy dates|date=January 2020}}
+{{Infobox election
+| country = Bolivia
+| flag_year = state
+| previous_election = 2014 Bolivian general election
+| previous_year = 2014
+| next_election = 2020 Bolivian general election
+| next_year = 2020
+| election_date = 20 October 2019{{-}}{{small|Annulled}}
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| image_size = 130x130px
+| registered = 7,315,364
+| turnout = 88.31% ({{increase}} 0.41[[Percentage point|pp]])
+
+| image1 = Evo Morales July 2019.jpg
+| nominee1 = '''[[Evo Morales]]'''
+| party1 = Movement for Socialism (Bolivia)
+| running_mate1 = '''[[Álvaro García Linera]]'''
+| popular_vote1 = '''2,889,359'''
+| percentage1 = '''47.08%'''
+
+| image2 = Carlos Mesa, ex-President of Bolivia (cropped 2).jpg
+| nominee2 = [[Carlos Mesa]]
+| party2 = [[Civic Community]]
+| colour2 = F26524
+| running_mate2 = Gustavo Pedraza
+| popular_vote2 = 2,240,920
+| percentage2 = 36.51%
+
+| image3 = Chi Hyun Ching (cropped).png
+| nominee3 = [[Chi Hyun Chung]]
+| party3 = Christian Democratic Party (Bolivia) 
+| running_mate3 = Paola Barriga
+| popular_vote3 = 539,081
+| percentage3 = 8.78%
+
+| map = {{Switcher
+| [[File:Mapa Electoral de Bolivia por Departamentos 2019.png|260px]]
+| Results by department
+| [[File:Mapa Electoral de Bolivia por Municipios 2019.png|260px]]
+| Results by municipality}}
+
+| title = President
+| before_election = [[Evo Morales]]
+| before_party = Movement for Socialism (Bolivia)
+| after_election = [[2019 Bolivian political crisis|Election results annulled]] <br />{{small|[[Jeanine Áñez]] ([[Social Democratic Movement|MDS]]) becomes president}}
+| after_party =
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+| noleader = yes
+| nopercentage = yes
+| seats_for_election = All 36 seats in the Chamber of Senators<br>All 130 seats in the Chamber of Deputies
+| heading1 = [[Chamber of Senators (Bolivia)|Chamber of Senators]]
+| party1 = Movimiento al Socialismo
+| last_election1 = 24
+| seats1 = 21
+| party2 = Civic Community
+| last_election2 = New
+| seats2 = 14
+| party3 = Social Democratic Movement
+| last_election3 = 9
+| seats3 = 1
+| heading4 = [[Chamber of Deputies (Bolivia)|Chamber of Deputies]]
+| party4 = Movimiento al Socialismo
+| last_election4 = 88
+| seats4 = 67
+| party5 = Civic Community
+| last_election5 = New
+| seats5 = 50
+| party6 = Christian Democratic Party (Bolivia)
+| last_election6 = 10
+| seats6 = 9
+| party7 = Social Democratic Movement
+| last_election7 = 32
+| seats7 = 4
+}}}}
+}}
+{{Politics of Bolivia}}
+
+General elections were held in [[Bolivia]] on 20 October 2019. Voters elected all 130 members of the [[Chamber of Deputies (Bolivia)|Chamber of Deputies]] and 36 [[Senate of Bolivia|senators]] and cast ballots for a joint slate of [[President of Bolivia|president]] and [[Vice President of Bolivia|vice president]].
+
+At the time of the elections, the [[Bolivian constitution]] limited the president and vice president to two terms, and [[2016 Bolivian constitutional referendum|a referendum in 2016 to amend the constitution]] had been rejected; the [[Supreme Court of Justice (Bolivia)|Supreme Court of Justice]] nonetheless ruled that all public offices would have no term limits despite what was established in the constitution, allowing the incumbent president [[Evo Morales]] to run for a fourth term.<ref name=":4" /> Disputes over the transparency and legitimacy of the elections prompted [[2019 Bolivian protests|weeks of widespread protests in Bolivia]] after Morales was declared the winner with 47.08% of the vote; because this was greater than a ten-point margin over his nearest competitor, former president [[Carlos Mesa]], this was enough for Morales to be announced as the winner without requiring a [[Two-round system|runoff second-round vote]].<ref name="BBCFresh">[https://www.bbc.com/news/world-latin-america-50365340 Bolivia's Morales to call fresh election after OAS audit], BBC News (10 November 2019).</ref><ref name="BBCDeclared">{{cite news|url=https://www.bbc.com/news/world-latin-america-50178188|title=Bolivia protests as Morales declared poll winner|date=25 October 2019|work=BBC News}}</ref> The [[Organization of American States]] (OAS) conducted an audit claiming "clear manipulation" and significant irregularities,<ref name="Faiola">Anthony Faiola & Rachelle Krygier, [https://www.washingtonpost.com/world/bolivia-to-hold-new-elections-after-protests-and-international-criticism/2019/11/10/4778e842-03b2-11ea-ac12-3325d49eacaa_story.html Bolivia's Morales agrees to new elections after OAS finds 'manipulation'], ''Washington Post'' (10 November 2019).</ref> releasing a full report afterwards.<ref name=":0" /><ref name=":2" /><ref name=":3" /> The [[European Union]] released a report indicating that their observers found many irregularities and chaotic processes in the election.<ref name=eu1>{{cite web |title=Unión Europea Misiónde Expertos Electorales Bolivia 2019 Informe Final |url=https://www.uetrabajandojuntos.org/wp-content/uploads/2019/12/EU-EEM-BOL-2019-FR-ES.pdf |publisher=European Union in Bolivia |access-date=15 October 2020 |archive-url=https://web.archive.org/web/20200706084129/https://www.uetrabajandojuntos.org/wp-content/uploads/2019/12/EU-EEM-BOL-2019-FR-ES.pdf |archive-date=6 July 2020 |url-status=usurped |language=es}}</ref><ref name=eu2>{{cite news |title=Informe de la UE detectó "numerosos errores" en elecciones de Bolivia {{!}} Voice of America - Spanish |url=https://www.voanoticias.com/a/union-europea-detecto-errores-irregularidades-elecciones-bolivia/5215093.html |access-date=15 October 2020 |work=www.voanoticias.com |publisher=Voice of America Spanish |date=21 December 2019 |language=es}}</ref> ''[[The New York Times]]'' later concluded on the basis of a new study by independent researchers and academics that the initial report was flawed as it was released too early, relied on poor datasets and used inappropriate statistical methods. The study found that there was no statistical evidence of voter fraud as the audit had claimed; OAS stood by their report but refused to disclose the full methodology and dataset.<ref>{{cite web|last=Kurmanaev|first=Anatoly|date=June 7, 2020|title=A Bitter Election. Accusations of Fraud. And Now Second Thoughts.|url=https://www.nytimes.com/2020/06/07/world/americas/bolivia-election-evo-morales.html/|work=The New York Times}}</ref>
+
+Following protests, as well as calls for a second-round election from several foreign countries,<ref name=BBCDeclared/> Morales, who had pledged to respect the OAS audit, agreed on 10 November to hold new elections,<ref name=Faiola/> at a date to be determined.<ref name=BBCFresh/> Hours later he and his vice president [[Álvaro García Linera]] [[2019 Bolivian political crisis|were forced to resign]] from office after losing support from the police, the [[Bolivian Workers' Center]] and the [[Armed Forces of Bolivia|military]].<ref name="Londoño">Ernesto Londoño, [https://www.nytimes.com/2019/11/10/world/americas/evo-morales-bolivia.html Bolivian Leader Evo Morales Steps Down], ''New York Times'' (10 November 2019).</ref><ref>{{cite web |last1=Véliz |first1=Juan Carlos |title=Testimonios corroboran que a Evo le falló la estrategia de la renuncia colectiva y que avaló la transición de Añez |url=https://www.brujuladigital.net/politica/testimonios-corroboran-que-a-evo-le-fallo-la-estrategia-de-la-renuncia-colectiva-y-que-avalo-la-transicion-de-anez- |website=Brújula Digital |access-date=4 September 2023}}</ref> The president of the Senate and the president of the Chamber of Deputies – both party allies of Morales – resigned on the same day, exhausting the constitutional line of succession. As a result, the second vice president of the Senate, [[Jeanine Áñez]] of the opposition [[Social Democratic Movement]], assumed the interim presidency of Bolivia on 12 November 2019.<ref>{{cite news|url=https://www.bbc.com/news/world-latin-america-50399640|title = Bolivia crisis: Jeanine Áñez assumes interim presidency|work = BBC News|date = 13 November 2019}}</ref> Due to the annulment of the 2019 elections, MAS retained their [[supermajority]] of more than two-thirds in both chambers in opposition to the government, although they would lose this in the 2020 elections.<ref name=twothirds>{{cite web|url=https://correodelsur.com/politica/20201025_el-mas-no-alcanzo-los-2-3-en-dos-de-las-ultimas-cuatro-elecciones.html|title=The MAS did not reach 2/3 in two of the last four elections|language=es|date=25 October 2020}}</ref>
+
+The 2019 elections were to be rerun in May 2020, but were postponed due to the [[COVID-19 pandemic in Bolivia|COVID-19]] pandemic. On 22 June 2020, Áñez approved a law passed by both the Chamber of Deputies and the Senate to set a date for the election for 6 September 2020 and the elected authorities in place by mid to late November 2020.<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/6/22/tras-advertir-riesgo-anez-promulga-la-ley-de-comicios-entre-reproches-al-mas-cc-259079.html|title=After warning of risk, Añez promulgates the law of elections between reproaches of MAS and CC|language=es|date=22 June 2020|access-date=27 June 2020|archive-date=9 August 2020|archive-url=https://web.archive.org/web/20200809211844/https://www.paginasiete.bo/nacional/2020/6/22/tras-advertir-riesgo-anez-promulga-la-ley-de-comicios-entre-reproches-al-mas-cc-259079.html|url-status=dead}}</ref><ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/6/26/mira-las-actividades-del-calendario-electoral-para-las-elecciones-2020-259557.html|title=See the electoral calendar for 2020 elections|date=26 June 2020|access-date=27 June 2020|archive-date=11 September 2020|archive-url=https://web.archive.org/web/20200911145305/https://www.paginasiete.bo/nacional/2020/6/26/mira-las-actividades-del-calendario-electoral-para-las-elecciones-2020-259557.html|url-status=dead}}</ref>
+
+==Background==
+{{main|2016 Bolivian constitutional referendum}}
+Article 168 of the [[Constitution of Bolivia|2009 constitution]] allows the president and vice-president to put themselves forward for re-election only once, limiting the number of terms to two. The governing party, the [[Movement for Socialism (Bolivia)|Movement Towards Socialism–Political Instrument for the Sovereignty of the Peoples]] (MAS–IPSP) sponsored an effort to amend this article. The referendum was authorized by a joint session of the [[Plurinational Legislative Assembly]] on 26 September 2015, by a vote of 112 to 41.{{citation needed|date=October 2020}}
+
+The referendum was held on 21 February 2016 and the proposed amendment was narrowly rejected by 51.3% to 48.7%. A successful 'yes' vote would have allowed President [[Evo Morales]] and Vice President [[Álvaro García Linera]] to run for another term in office in 2019. Morales had already been elected three times. The first time, in 2006, is not counted as it was before the two term limit was introduced by the 2009 constitution.<ref name="LaRazon6Nov15">[http://la-razon.com/nacional/Referendum_constitucional-consulta-habilitar-Evo-marcha-MAS-juega_0_2376362395.html Consulta para habilitar a Evo está en marcha; el MAS ‘se juega la vida’] {{Webarchive|url=https://web.archive.org/web/20191018185948/http://la-razon.com/nacional/Referendum_constitucional-consulta-habilitar-Evo-marcha-MAS-juega_0_2376362395.html |date=18 October 2019 }} La Razón, 6 November 2015</ref>
+
+Despite the referendum result, the [[Supreme Court of Justice (Bolivia)|Supreme Court of Justice]] – referring to Art. 23 of the [[American Convention on Human Rights]] – ruled a little over one year later in December 2017 that all public offices would have no term limits despite what was established in the constitution, thus allowing Morales to run for a fourth term.<ref name=":4">{{cite news|last1=Blair|first1=Laurence|title=Evo for ever? Bolivia scraps term limits as critics blast 'coup' to keep Morales in power|url=https://www.theguardian.com/world/2017/dec/03/evo-morales-bolivia-president-election-limits|access-date=1 January 2018|work=[[The Guardian]]|date=3 December 2017|quote=This week, the country’s highest court overruled the constitution, scrapping term limits altogether for every office. Morales can now run for a fourth term in 2019 – and for every election thereafter. ... the referendum results – which the government claims were invalid due to an opposition smear campaign directed by Washington ...}}</ref> Article 23 states: "Every citizen shall enjoy the following rights and opportunities: [...] to have access, under general conditions of equality, to the public service of his country."<ref>[https://www.cidh.oas.org/basicos/english/basic3.american%20convention.htm  American Convention of Human Rights ]</ref>
+
+==Electoral system==
+The president of Bolivia is elected using a modified [[two-round system]]; a candidate wins outright if they receive more than 50% of the vote, or between 40% and 50% of the vote and are at least 10 percentage points ahead of their closest rival.<ref name="BBC50055725">{{cite news|url=https://www.bbc.com/news/world-latin-america-50055725|title=Will Bolivians give Evo Morales a fourth term?|date=20 October 2019|work=BBC|access-date=21 October 2019|language=en-GB}}</ref> If neither condition is met, a run-off election is held between the two top candidates.<ref>{{cite news|url=https://www.eldeber.com.bo/bolivia/El-Tribunal-Electoral-define-la-eventual-segunda-vuelta-para-el-15-de-diciembre-20190329-0103.html|title=El Tribunal Electoral define la eventual segunda vuelta para el 15 de diciembre |website=El Deber|access-date=2 April 2019}}</ref>
+
+The 130 members in the [[Chamber of Deputies of Bolivia|Chamber of Deputies]] (''Cámara de Diputados'') are elected using a [[seat linkage]] based mixed [[Compensation (electoral systems)|compensatory]] system using two votes: 63 deputies are elected by [[First-past-the-post voting|first-preference plurality]] to represent single-member [[electoral district]]s, 60 are elected by [[closed list]] [[party-list proportional representation]] from party lists on a departmental basis (in districts of varying sizes corresponding to Bolivia's nine departments with a threshold of 3%).<ref name="RegimenElectoral22">{{cite web |title=Bolivia: Ley del Régimen Electoral, 30 de junio de 2010 |url=http://www.lexivox.org/norms/BO-L-N26.xhtml |access-date=10 February 2015 |website=Lexivox}}</ref> The list seats in each region are awarded proportionally based on the vote for the presidential candidates, subtracting the number of single-member districts won (to provide [[mixed-member proportional representation]]). The remaining seven seats are reserved indigenous seats elected by the ''[[usos y costumbres]]''. A voter can only vote in one of either the normal constituencies or special constituencies ([[Coexistence (electoral systems)|coexistence]]).<ref name="RegimenElectoral3">{{cite web |title=Bolivia: Ley del Régimen Electoral, 30 de junio de 2010 |url=http://www.lexivox.org/norms/BO-L-N26.xhtml |access-date=8 October 2020 |website=Lexivox}}</ref> Party lists are required to alternate between men and women, and in the single-member districts, men are required to run with a female alternate, and vice versa. At least 50% of the deputies from single-member districts are required to be women.
+
+The [[Senate of Bolivia|Chamber of Senators]] (''Cámara de Senadores'') has 36 members, four from each the country's nine departments, which are also elected using closed party-lists, using the [[D'Hondt method]].<ref name="RegimenElectoral3" /> The senate seats are also awarded based on the vote for president.
+
+The election uses the same votes to elect the President (first round), the Chamber and the Senate, making it a [[Double simultaneous vote|double (triple) simultaneous vote]]. Voters may therefore not [[Split-ticket voting|split their ticket]] between these elections, but they may vote for a candidate of a different list in the election of the Chamber as the deputies from the single-member districts are elected using separate votes.
+
+==Primary elections==
+Primary elections were held on 27 January 2019.<ref name="resultsahoy">{{cite web|url=https://www.plenglish.com/index.php?o=rn&id=38099&SEO=bolivian-elections-raise-international-expectations |title=Imprimir Noticia |publisher=Plenglish.com |access-date=20 October 2019}}</ref><ref name=primaryelection /> María Eugenia Choque, President of the Supreme Electoral Tribunal (TSE), stated that international observers had worked with the TSE to monitor the primary election results.<ref name=resultsahoy /> She also stated that they had been given an "information seminar" about all the logistic, legal and communications issues related to the primary and had even visited polling stations to make assessments and recommendations.<ref name=resultsahoy /> By the time {{sic}} the primary was held, however, only one candidate had been registered for each of the nine parties or alliances participating in the general elections.<ref name="primaryelection">{{cite web|url=https://www.eluniverso.com/noticias/2019/01/27/nota/7160858/evo-morales-aspira-su-cuarto-mandato-elecciones-primarias-bolivia|title=Evo Morales habilitado para cuarto mandato en elecciones primarias en Bolivia|date=27 Jan 2019|website=El Universo|access-date=20 October 2019}}</ref> Morales received 36.54% of the total primary votes.<ref name=twitterresults /> Revolutionary Nationalist Movement candidate Virginio Lema was his closest challenger, receiving 7.10% of the total primary votes.<ref name=twitterresults />
+
+==Presidential candidates==
+On 27 January 2019, the TSE announced that nine candidates would contest the presidential elections.<ref name="twitterresults">{{cite tweet|number=1089734216806551553|user=MonicaAparicioA|title=@Satirulo @vilar_blan @MonicaA80226984 @RafoRoblesRojas @srodrigosalinas @martindiazmeave @CFValverde…<!-- full text of tweet that Twitter returned to the bot (excluding links) added by TweetCiteBot. This may be better truncated or may need expanding (TW limits responses to 140 characters) or case changes. --> |access-date=20 October 2019|date=27 Jan 2019}}</ref><ref>[https://www.facebook.com/ProcesosElectoralesdeBolivia/videos/334820457139150/] 27 January 2019</ref><ref>[https://www.eldeber.com.bo/bolivia/Primarias-Cinco-binomios-ya-estan-definidos-20181128-0008.html Mesa va con un cruceño, Samuel se baja y Costas perfila a gente joven] ''El Deber'', 28 November 2018</ref>
+
+{| class=wikitable
+|-
+! colspan="2" rowspan="2" |Party
+! colspan="3" |Presidential candidate
+! colspan="2" |Vice presidential candidate
+!Slogan
+|-
+! colspan="2" |Name
+!Experience
+!
+!
+!
+|-
+| style="background:#143a83;" |
+|[[File:Movement for Socialism.png|center|77x77px]][[Movement for Socialism (Bolivia)|Movement for Socialism]]
+|[[File:Evo Morales July 2019.jpg|121x121px]]||[[Evo Morales]]
+|[[President of Bolivia]] (2006–2019)
+|[[File:Álvaro García Linera - Participante del Foro Internacional por la Emancipación y la Igualdad 2011 (cropped).jpg|126x126px]]||[[Álvaro García Linera]]
+|''#FuturoSeguro''
+|-
+| style="background:#F26524;" |
+|[[File:Logotype Comunidad Ciudadana.png|center|85x85px]][[Civic Community]]
+|[[File:Carlos Mesa. Suárez, Antonio. 2004, Antonio Suárez collection, La Paz (Cropped).jpg|130x130px]]||[[Carlos Mesa]]
+|[[President of Bolivia]] (2003–2005)
+[[Vice President of Bolivia]] (2002–2003)
+|[[File:Gustavo Pedraza en 2019.png|129x129px]]||Gustavo Pedraza
+|''#UnaBoliviaMejor''
+|-
+| bgcolor="{{party color|Social Democratic Movement}}" |
+|[[File:(Logo) Bolivia Dice No.svg|center|97x97px]][[Social Democratic Movement]]
+|[[File:Oscar Ortiz Antelo (cropped).png|137x137px]]||[[Oscar Ortiz (Bolivian politician)|Óscar Ortiz Antelo]]
+|[[Chamber of Senators (Bolivia)|Senator]] for [[Santa Cruz Department (Bolivia)|Santa Cruz]] (2006–2010, 2015–2020)
+|[[File:Shirley Franco Rodríguez (Official Photo, 2018) Chamber of Deputies of Bolivia.jpg|137x137px]]||[[Shirley Franco]]
+|''Las Manos Limpias''
+|-
+| style="background:#00a8ec;" |
+|[[File:Unidad civica solidaridad ucs.jpg|center|99x99px]][[Solidarity Civic Unity]]
+|[[File:Víctor Hugo Cárdenas.jpg|131x131px]]||[[Víctor Hugo Cárdenas]]
+|[[Vice President of Bolivia]] (1993–1997)
+Member of the [[Chamber of Deputies (Bolivia)|Chamber of Deputies]] (1985–1993)
+|[[File:3x4.svg|128x128px]]||Humberto Peinado
+|''Rescatemos Bolivia''
+|-
+| style="background:#E10915;" |
+|[[File:PDC Bolivia.png|center|92x92px]][[Christian Democratic Party (Bolivia)|Christian Democratic Party]]
+|[[File:Chi Hyun Ching (cropped).png|122x122px]]||[[Chi Hyun Chung]]
+|None (Evangelical pastor)
+|[[File:Paola Barriga en 2015 (cropped.png|116x116px]]||Paola Barriga
+|''Chi Puede''
+|-
+| style="background:pink;" |
+|[[File:MNR Bolivia logo.webp|center|99x99px]][[Revolutionary Nationalist Movement]]
+| ||Virginio Lema
+|None (Actress and Lawyer)
+|[[File:Fernando Untoja en 2018.png|100x100px]]|||[[Fernando Untoja]]
+|''Hay por Quien Votar''
+|-
+| style="background:#145050;" |
+|[[File:Frente Para la Victoria (Bolivia).png|center|113x113px]]{{ill|Front for Victory (Bolivia)|es|Frente Para la Victoria (Bolivia)|lt=Front For Victory}}
+|[[File:Israel Franklin Rodriguez FPV.png|125x125px]]||Israel Rodríguez
+|None (Activist)
+|[[File:3x4.svg|122x122px]]||Justino Román
+|''Rodríguez Presidente''
+|-
+| style="background:{{party color|Bolivian National Action Party}};" |
+|{{ill|Bolivian National Action Party|es|Partido de Acción Nacional Boliviano}}
+|[[File:Ruth Nina en 2019.png|141x141px]]||Ruth Nina
+|[[Deputy mayor]] of [[Quillacollo]] (2015)
+|[[File:Leopoldo Richard Chui Torrez en septiembre de 2025.jpg|139x139px]]||Leopoldo Chui 
+|#''Pan para Bolivia''
+|-
+| style="background:{{party color|Third System Movement}}" |
+|{{ill|Third System Movement|es|Movimiento tercer sistema}}
+|[[File:Felix patzi.jpg|139x139px]]||[[Félix Patzi]]
+|[[Governor of La Paz]] (2015–2021)
+|[[File:3x4.svg|122x122px]]||Lucila Mendieta
+|''Sistema Comunal''
+|}
+
+== Opinion polls ==
+{{legend2|lightgreen|First place|border=1px solid #AAAAAA}} {{legend2|lightblue|Second place|border=1px solid #AAAAAA}}
+
+===2017===
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2" |Polling firm
+! rowspan="2" |Date
+! style="width:120px" |[[Evo Morales|Morales]]
+! style="width:120px" |[[Carlos Mesa|Mesa]]
+! style="width:120px" |[[Álvaro García Linera|García Linera]]
+! style="width:120px" |[[Rubén Costas|Costas]]
+! style="width:120px" |[[Samuel Doria Medina|Doria Medina]]
+! style="width:120px" |[[Jorge Quiroga|Quiroga]]
+! style="width:120px" |[[Luis Revilla|Revilla]]
+! style="width:120px" |[[Félix Patzi|Patzi]]
+! rowspan="2" style="width:120px" |Blank
+|-
+! style="background:{{party color|Movement for Socialism (Bolivia)}}" |
+! style="background:orange;"|
+! style="background:{{party color|Movement for Socialism (Bolivia)}}" |
+! style="background:Green" |
+! style="background:{{party color|National Unity Front}}" |
+! style="background:{{party color|Christian Democratic Party (Bolivia)}} " |
+! style="background:Yellow" |
+! style="background:#00A18A" |
+|-
+|Mercados y Muestras<ref name="pag1">{{cite web|url=https://www.paginasiete.bo/nacional/2017/6/4/encuesta-supera-apoyo-arriesga-balotaje-mesa-139921.html|title=Encuesta: Evo no supera el 30% de apoyo y arriesga un balotaje con Mesa - Diario Pagina Siete|website=www.paginasiete.bo|language=es|access-date=5 March 2019}}</ref>
+|January
+| style="background:lightgreen" |'''31%'''
+| style="background:lightblue" |16%
+|{{small|N/A}}
+|9%
+|10%
+|4%
+|2%
+|4%
+|14%
+|-
+|Mercados y Muestras<ref name="pag1"/>
+|March
+| style="background:lightgreen" |'''26%'''
+| style="background:lightblue" |20%
+|{{small|N/A}}
+|8%
+|12%
+|4%
+|2%
+|3%
+|12%
+|-
+|Mercados y Muestras<ref name="pag1"/>
+|May
+| style="background:lightgreen" |'''29%'''
+| style="background:lightblue" |21%
+|{{small|N/A}}
+|5%
+|7%
+|2%
+|2%
+|4%
+|13%
+|-
+| rowspan="2" |Captura Consulting<ref>{{cite web|url=http://eju.tv/2017/10/encuesta-evo-tiene-una-intencion-de-voto-del-37/|title=Encuesta: Evo tiene una intención de voto del 37%|website=eju.tv|date=13 October 2017 |language=es|access-date=5 March 2019}}</ref>
+| rowspan="2" |September/October
+| style="background:lightgreen" |'''37%'''
+| style="background:lightblue" |20%
+|{{small|N/A}}
+|10%
+|5%
+|3%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|-
+|{{small|N/A}}
+| style="background:lightgreen" |'''24%'''
+| style="background:lightblue" |17%
+|13%
+|7%
+|{{small|N/A}}
+| 4%
+|{{small|N/A}}
+|{{small|N/A}}
+|}
+
+===2018 and 2019===
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2" |Polling firm
+! rowspan="2" |Date
+! style="width:100px" |[[Evo Morales|Morales]]
+! style="width:100px" |[[Carlos Mesa|Mesa]]
+! style="width:100px" |[[Óscar Ortiz Antelo|Ortiz]]
+! style="width:100px" |[[Álvaro García Linera|García Linera]]
+! style="width:100px" |[[Samuel Doria Medina|Doria Medina]]
+! style="width:100px" |{{abbr|Albarracín|Waldo Albarracín}}
+! style="width:100px" |[[Luis Revilla|Revilla]]
+! style="width:100px" |[[Jorge Quiroga|Quiroga]]
+! style="width:100px" |[[Félix Patzi|Patzi]]
+! rowspan="2" style="width:100px" |Others
+! rowspan="2" style="width:100px" |Blank
+|-
+! style="background:{{party color|Movement for Socialism (Bolivia)}}" |
+! style="background:orange;"|
+! style="background:{{party color|Social Democratic Movement}} " |
+! style="background:{{party color|Movement for Socialism (Bolivia)}}" |
+! style="background:{{party color|National Unity Front}}" |
+! style="background:#484848" |
+! style="background:Yellow" |
+! style="background:{{party color|Christian Democratic Party (Bolivia)}} " |
+! style="background:#00A18A" |
+|-
+|Mercados y Muestras<ref>{{cite web|url=https://www.paginasiete.bo/especial01/2018/2/4/encuesta-morales-baja-intencin-voto-168818.html|title=Encuesta: Morales baja al 22% en la intención de voto - Diario Pagina Siete|website=www.paginasiete.bo|language=es|access-date=5 March 2019|archive-date=14 April 2019|archive-url=https://web.archive.org/web/20190414162249/https://www.paginasiete.bo/especial01/2018/2/4/encuesta-morales-baja-intencin-voto-168818.html|url-status=dead}}</ref>
+|January 2018
+|style="background:lightgreen"|'''22%'''
+|{{small|N/A}}
+|style="background:lightblue"|15%
+|13% 
+|{{small|N/A}}
+|{{small|N/A}}
+|5%
+|4%
+|{{small|N/A}}
+|{{small|N/A}}
+|10%
+|-
+|Mercados y Muestras<ref>{{cite web|url=http://eju.tv/2018/04/emerge-el-nombre-de-albarracin-como-alternativa-el-dice-gracias/|title=Emerge el nombre de Albarracín como alternativa, él dice gracias|website=eju.tv|date=15 April 2018 |language=es|access-date=5 March 2019}}</ref>
+|March/April 2018
+|style="background:lightgreen"|'''24%'''
+|{{small|N/A}}
+|style="background:lightblue"|14%
+|8%
+|10% 
+|{{small|N/A}}
+|{{small|N/A}}
+|3%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|-
+|Captura Consulting<ref>{{cite web|url=http://eju.tv/2018/04/nueva-intencion-de-voto-es-liderada-por-evo-con-un-279/|title=Nueva intención de voto es liderada por Evo con un 27,9%|website=eju.tv|language=es|access-date=5 March 2019}}</ref>
+|March 2018
+|style="background:lightgreen"|'''27%'''
+|style="background:lightblue"|18%
+|9%
+|4%
+|{{small|N/A}}
+|4%
+|2%
+|3%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|-
+|Captura Consulting<ref>{{cite web|url=https://kandire.bo/16720-Encuesta-de-Captura-Consulting-demuestra-que-Evo-Moraleses-el-candidato-con-mayor-preferencia-en-Bolivia.html|title=Encuesta de Captura Consulting demuestra que Evo Morales, es el candidato con mayor preferencia en Bolivia|last=Reynolds|first=Cesar Aguilar|website=kandire.bo|language=es|access-date=5 March 2019}}</ref>
+|May 2018
+|style="background:lightgreen"|'''27%'''
+|style="background:lightblue"|23%
+|11%
+|7%
+|{{small|N/A}}
+|{{small|N/A}}
+|2%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|-
+|Mercados y Muestras<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2018/7/29/intencion-de-voto-coloca-morales-con-un-27-carlos-mesa-con-25-188744.html|title=Intención de voto coloca a Morales con un 27% y a Carlos Mesa con 25% - Diario Pagina Siete|website=www.paginasiete.bo|language=es|access-date=5 March 2019|archive-date=9 December 2021|archive-url=https://web.archive.org/web/20211209202413/https://www.paginasiete.bo/nacional/2018/7/29/intencion-de-voto-coloca-morales-con-un-27-carlos-mesa-con-25-188744.html|url-status=dead}}</ref>
+|July 2018
+|style="background:lightgreen"|'''27%'''
+|style="background:lightblue"|25%
+|8%
+|7%
+|{{small|N/A}}
+|3%
+|2%
+|2%
+|{{small|N/A}}
+|{{small|N/A}}
+|6%
+|-
+|IPSOS<ref>{{cite web|url=http://eju.tv/2018/08/intencion-de-voto-favorece-a-carlos-mesa-en-cinco-ciudades-de-bolivia/|title=Intención de voto favorece a Carlos Mesa en cinco ciudades de Bolivia|website=eju.tv|date=22 August 2018 |language=es|access-date=5 March 2019}}</ref>
+|August 2018
+|style="background:lightgreen"|'''29%'''
+|style="background:lightblue"|27%
+|7%
+|9%
+|{{small|N/A}}
+|3%
+|{{small|N/A}}
+|{{small|N/A}}
+|8%
+|{{small|N/A}}
+|5%
+|-
+|IPSOS<ref>{{cite web|url=https://www.eldeber.com.bo/bolivia/Encuesta-de-Ipsos-le-da-14-puntos-de-ventaja-a-Evo-sobre-Mesa-20181025-9575.html|title=Encuesta de Ipsos le da 14 puntos de ventaja a Evo sobre Mesa|website=EL DEBER|date=25 October 2018 |language=es-ES|access-date=5 March 2019}}</ref>
+|October 2018
+|style="background:lightgreen"|'''39%'''
+|style="background:lightblue"|25%
+|6%
+|4%
+|{{small|N/A}}
+|{{small|N/A}}
+|3%
+|{{small|N/A}}
+|7%
+|{{small|N/A}}
+|16%
+|-
+|Mercados y Muestras<ref>{{cite web|url=https://www.infobae.com/america/america-latina/2018/12/04/el-ex-presidente-boliviano-carlos-mesa-aventaja-a-evo-morales-en-una-encuesta-preelectoral/|title=El ex presidente boliviano Carlos Mesa aventaja a Evo Morales en una encuesta preelectoral|website=Infobae|date=5 December 2018 |language=es|access-date=5 March 2019}}</ref>
+|November 2018
+|style="background:lightblue"|29%
+|style="background:lightgreen"|'''34%'''
+|{{small|N/A}}
+|10%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|7%
+|20%
+|{{small|N/A}}
+|-
+|Mercados y Muestras<ref name="pag2">{{cite web|url=https://www.paginasiete.bo/especial01/2019/2/3/en-meses-la-preferencia-de-mesa-sube-baja-empata-con-morales-207948.html|title=En 2 meses, la preferencia de Mesa sube, baja y empata con Morales - Diario Pagina Siete|website=www.paginasiete.bo|language=es|access-date=5 March 2019|archive-date=6 June 2019|archive-url=https://web.archive.org/web/20190606153339/https://www.paginasiete.bo/especial01/2019/2/3/en-meses-la-preferencia-de-mesa-sube-baja-empata-con-morales-207948.html|url-status=dead}}</ref>
+|December 2018
+|style="background:lightblue"|30%
+|style="background:lightgreen"|'''39%'''
+|4% 
+|2%
+|{{small|N/A}}
+|2%
+|0%
+|0%
+|0%
+|20%
+|{{small|N/A}}
+|-
+|Mercados y Muestras<ref name="pag2"/>
+|January 2019
+|style="background:lightgreen"|'''32%'''
+|style="background:lightblue"|32%
+|4%
+|3%
+|4% 
+|2%
+|0%
+|0%
+|0%
+|25%
+|{{small|N/A}}
+|-
+|Mercados y Muestras<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2019/3/6/evo-mesa-empatan-ortiz-despega-en-intencion-de-voto-211051.html|title=Evo y Mesa empatan; Ortiz despega en intención de voto - Pagina Siete|website=www.paginasiete.bo|language=es|access-date=16 April 2019}}</ref>
+|February 2019
+|style="background:lightgreen"|'''31%'''
+|style="background:lightblue"|30%
+|6.6%
+|{{small|N/A}}
+|{{small|N/A}}
+|6.6%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|16.7%
+|-
+|Tal Cual<ref>{{cite web|url=http://eju.tv/2019/04/evo-mesa-y-ortiz-pelean-el-primer-lugar-en-santa-cruz-segun-encuesta-de-tal-cual/|title=Evo, Mesa y Ortíz pelean el primer lugar en Santa Cruz, según encuesta de Tal Cual - Diario Eju|website=eju.tv|date=April 2019 |language=es|access-date=1 April 2019}}</ref>
+|March 2019
+|style="background:lightgreen"|'''35.6%'''
+|style="background:lightblue"|30.3%
+|7.3%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|16.7%
+|-
+|Estudios y Tendencias<ref>{{cite web|url=http://www.hoybolivia.com/movil/noticia.php?IdNoticia=290742|title=Si las elecciones fueran hoy ¿Por quien votaría? - HoyBolivia|website=hoybolivia.com|language=es|access-date=7 April 2019}}</ref>
+|April 2019
+|style="background:lightgreen"|'''26.4%'''
+|style="background:lightblue"|21.1%
+|5.7%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|16.7%
+|-
+|Tal Cual<ref>{{cite web|url=http://m.la-razon.com/nacional/encuesta-primer-urbano-rural-bolivia-ventaja-elecciones_0_3150284943.html|archive-url=https://web.archive.org/web/20190521183942/http://m.la-razon.com/nacional/encuesta-primer-urbano-rural-bolivia-ventaja-elecciones_0_3150284943.html|url-status=dead|archive-date=21 May 2019|title=El primer test urbano-rural le da a Evo Morales 11 puntos de ventaja - la Razon|website=larazon.com|language=es|access-date=19 May 2019}}</ref>
+|May 2019
+|style="background:lightgreen"|'''38.1%'''
+|style="background:lightblue"|27.1%
+|8.7%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|1.3%
+|{{small|N/A}}
+|{{small|N/A}}
+|16.2%
+|-
+|Ciesmori<ref>{{cite web|url=https://www.eldeber.com.bo/bolivia/Evo-supera-con-11-puntos-a-Mesa-en-el-inicio-de-la-campana-electoral-20190721-9592.html|title=Evo supera con 11 puntos a Mesa en el inicio de la campaña electoral|website=EL DEBER|date=22 July 2019 |language=es|access-date=23 July 2019}}</ref>
+|July 2019
+|style="background:lightgreen"|'''37%'''
+|style="background:lightblue"|26%
+|9%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|12
+|7%
+|-
+|Captura Consulting<ref>{{cite web|url=http://www.boliviatv.bo/principal/noticia.php?noticia=6b0d9a2bc19b74f6ba57dd630415e1bb&lang=es|title=Encuesta Captura Consulting: Morales aumenta sube en la intención de voto con 38,4%|website=Bolivia TV|language=es|access-date=2 August 2019|archive-date=26 February 2021|archive-url=https://web.archive.org/web/20210226143155/http://www.boliviatv.bo/principal/noticia.php?noticia=6b0d9a2bc19b74f6ba57dd630415e1bb&lang=es|url-status=dead}}</ref><ref>{{cite web|url=https://www1.abi.bo/abi_/?i=431903|title=Encuesta establece que Morales aumenta su ventaja sobre Mesa: 38,4% contra 23,6%|website=Agencia Boliviana de Información|access-date=20 October 2019|archive-date=6 September 2019|archive-url=https://web.archive.org/web/20190906154613/https://www1.abi.bo/abi_/?i=431903|url-status=dead}}</ref>
+|July 2019
+|style="background:lightgreen"|'''38.4%'''
+|style="background:lightblue"|23.6%
+|11.9%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|1.9%
+|{{small|N/A}}
+|{{small|N/A}}
+|18.9%
+|-
+|Mercados y Muestras<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2019/8/4/encuesta-otorga-evo-35-mesa-27-ortiz-el-11-226371.htm|title=Encuesta otorga Evo 35 Mesa 27 Ortiz el 11 - Pagina Siete|website=www.paginasiete.bo|language=es|access-date=2 August 2019}}{{Dead link|date=January 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|August 2019
+|style="background:lightgreen"|'''35%'''
+|style="background:lightblue"|27%
+|11%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|2%
+|{{small|N/A}}
+|13%
+|10%
+|-
+|Tal Cual<ref>{{cite web|url=https://www.atb.com.bo/pol%C3%ADtica/evo-obtiene-el-408-mesa-el-233-y-ortiz-108-seg%C3%BAn-encuesta-de-tal-cual|title=Evo obtiene el 40,8%, Mesa el 23,3% y Ortiz 10,8%, según encuesta de Tal Cual|website=ATB|language=es|access-date=29 August 2019|archive-date=28 August 2019|archive-url=https://web.archive.org/web/20190828141524/https://www.atb.com.bo/pol%25C3%25ADtica/evo-obtiene-el-408-mesa-el-233-y-ortiz-108-seg%25C3%25BAn-encuesta-de-tal-cual|url-status=dead}}</ref>
+|August 2019
+|style="background:lightgreen"|'''40.8%'''
+|style="background:lightblue"|23.3%
+|10.8%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|1.8%
+|{{small|N/A}}
+|{{small|N/A}}
+|14.6%
+|-
+|CELAG<ref>{{cite web|url=https://www.celag.org/bolivia-estudio-cuantitativo-sobre-el-clima-preelectoral/|title=Bolivia: estudio cuantitativo sobre el clima preelectoral|date=24 Aug 2019|access-date=20 October 2019}}</ref>
+|August 2019
+|style="background:lightgreen"|'''43.4%'''
+|style="background:lightblue"|25.1%
+|12.8%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|3.1%
+|{{small|N/A}}
+|7.8%
+|5.0%
+|-
+|Mercados y Muestras (Nacional)<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2019/9/1/evo-lidera-preferencia-con-34-mesa-logra-el-27-ortiz-el-13-229389.html|title=Evo lidera preferencia con 34%, Mesa logra el 27% y Ortiz el 13% - Diario Pagina Siete|website=www.paginasiete.bo|access-date=20 October 2019}}</ref><ref>{{cite web|url=https://www.paginasiete.bo/nacional/2019/9/1/evo-lidera-preferencia-con-34-mesa-logra-el-27-ortiz-el-13-229389.html|title=Evo lidera preferencia con 34%, Mesa logra el 27% y Ortiz el 13%|website=Pagina Siete|language=es|access-date=1 September 2019}}</ref>
+|September 2019
+|style="background:lightgreen"|'''34.4%'''
+|style="background:lightblue"|27.1%
+|13%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|1%
+|{{small|N/A}}
+|2%
+|5.0%
+|-
+|CELAG<ref>{{cite web|url=https://www.celag.org/wp-content/uploads/2019/10/Clima-electoral-Bolivia-Oct-19.pdf|title=Clima electoral Bolivia. Octubre 2019|access-date=20 March 2023|website=celag.org}}</ref>
+|October 2019
+|style="background:lightgreen"|'''38.8%'''
+|style="background:lightblue"|25.4%
+|11.3%
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|{{small|N/A}}
+|3.2%
+|5.2%
+|10.4%
+|5.7%
+|}
+
+==Results==
+{{Crisis in Bolivia sidebox}}
+Two independent vote count processes were used for the elections. The first one, ''Transmisión de Resultados Electorales Preliminares'' (TREP), is a quick count process based on photographs that is meant to provide a preliminary result on election day. The second process is the traditional physical count that takes more time to complete.<ref>{{cite news|url=https://eju.tv/2019/10/por-que-hay-dos-conteos-de-votos-en-el-tse/|title=¿Por qué hay dos conteos de votos en el TSE?|work=Eju!|language=es|date=21 October 2019|access-date=22 October 2019}}</ref><ref name="CEPR">[http://cepr.net/images/stories/reports/bolivia-elections-2019-11.pdf?v=2 What Happened in Bolivia's 2019 Vote Count? The Role of the OAS Electoral Observation Mission], the [[Center for Economic and Policy Research]], November 2019</ref>
+
+With a preliminary vote count of 45% for incumbent president [[Evo Morales]] and 38% for his leading challenger, former president [[Carlos Mesa]], after 83% of votes were counted, neither of the conditions for a first-round win appeared likely to be met. A second-round runoff vote between those two candidates would therefore be held on 15 December.<ref name="BBC50119655">{{cite news|url=https://www.bbc.com/news/world-latin-america-50119655|title=Bolivia's Evo Morales set to face first run-off|date=21 October 2019|work=BBC|access-date=21 October 2019|language=en-GB}}</ref> However, no further updates to the preliminary results were made after 19:40 hours local time on election day, which caused consternation among opposition politicians and election monitors deployed by the [[Organization of American States]] (OAS); Mesa described the suspension as "extremely serious" and spoke of manipulation; the OAS requested an explanation for the pause in the publication of the vote tally.<ref name="BBG1">{{cite news |last1=Roeder |first1=Jonathan |title=Bolivia's Morales Headed for Run-Off Vote as Rival Outperforms |url=https://www.bloomberg.com/news/articles/2019-10-21/bolivia-early-results-indicate-morales-mesa-headed-to-run-off |access-date=16 November 2019 |work=Bloomberg |date=20 October 2019}}</ref><ref name="WSJ2">{{cite news |last1=Otis |first1=John |title=Bolivian Authorities Withhold Vote Count as Chance of Evo Morales Win Fades |url=https://www.wsj.com/articles/bolivian-authorities-withhold-vote-count-as-chance-of-evo-morales-win-fades-11571685487?mod=searchresults&page=2&pos=6 |access-date=16 November 2019 |work=WSJ |agency=Wall Street Journal |date=21 October 2019}}</ref> But while the vote tally was not being publicized, election staff were still observed counting votes overnight.<ref name="WSJ3">{{cite news |last1=Forero |first1=Juan |title=Count Turns Controversial in Bolivian Presidential Race |url=https://www.wsj.com/articles/runoff-looks-likely-in-bolivian-presidential-race-11571632607?mod=searchresults&page=2&pos=7 |access-date=16 November 2019 |work=WSJ |publisher=Wall Street Journal |date=21 October 2019}}</ref>
+
+After the publication of the count resumed, the OAS said it observed a "drastic and hard-to-explain change in the trend",<ref>OAS (2019b).</ref> and recommended a runoff election due to what the OAS viewed as manipulation.<ref name="Guardian">{{cite news|url=https://www.theguardian.com/world/2019/oct/25/bolivia-evo-morales-narrowly-wins-fourth-presidential-term|title=Bolivia: narrow win for Evo Morales announced in presidential election|last1=Collyns|first1=Dan|date=25 October 2019|work=The Guardian|access-date=16 November 2019}}</ref><ref name="WSJ1">{{cite news |last1=Otis |first1=John |title=Former President Tries to Turn the Tables on Powerful Bolivian Leader |url=https://www.wsj.com/articles/former-presidenttries-to-turn-the-tables-on-powerful-bolivian-leader-11572269939?mod=searchresults&page=1&pos=19 |access-date=16 November 2019 |work=WSJ |publisher=Wall Street Journal |date=28 October 2019}}</ref>
+
+Bolivia's [[Plurinational Electoral Organ|Supreme Electoral Tribunal]] (TSE), stated that updates to the preliminary count had been halted because the official results were starting to be released.<ref>{{cite news|url=https://www.bbc.com/news/world-latin-america-50119655|title=Concern as Bolivia poll results transmission stops|work=BBC News|date=21 October 2019}}</ref> The TSE also stated the vote had taken place normally and with relatively few incidents.<ref name="BBG1"/>
+
+On 24 October 2019, Morales officially declared outright victory following a counting process which gave him 46.83% of the vote against Mesa's 36.7%, with only few votes remaining to be counted.<ref name="outrightvictory">{{Cite web|url=https://www.nbcnews.com/news/latino/bolivia-s-evo-morales-poised-win-re-election-following-controversial-n1071196|title=Bolivia's Evo Morales poised to win re-election following controversial vote count|website=NBC News|date=24 October 2019 }}</ref> Though the process was deemed controversial, Morales stated that he was still open to a second round runoff if the process later determined that he did not receive the required 10 percentage point victory margin needed in order to avoid a runoff.<ref name=outrightvictory/> Cómputo Electoral concluded its counting that very same day, with final results showing Morales with 47.07% of the vote and Mesa with 36.51%. This gave Morales a victory margin of more than 10 percentage points and thus prevented a second round runoff. This was the first election since his first win in which Morales obtained less than 50% of the vote. On the morning of 25 October, the election results were made official.<ref name=BBCDeclared/>
+
+Some ballots, accounting for 0.01% of the electorate, were voided in the department of [[Beni Department|Beni]]. A redo session was scheduled for those affected on 3 November 2019, but the electoral commission said that those votes would not change the outcome of the presidential vote.<ref name=":1">{{cite news|url=https://www.theguardian.com/world/2019/oct/25/bolivia-evo-morales-narrowly-wins-fourth-presidential-term|title=Bolivia: narrow win for Evo Morales announced in presidential election|last=Collyns|first=Dan|date=25 October 2019|work=The Guardian|access-date=25 October 2019|language=en-GB|issn=0261-3077}}</ref><ref name="revote">{{cite news|url=https://nytimes.com/2019/10/24/world/americas/bolivian-election-revote.html|title=Bolivian Court Orders Partial Presidential Revote|last=Karita|first=Juan|date=24 October 2019|work=The New York Times|access-date=25 October 2019|language=en-GB}}</ref> On 25 October 2019 the TSE cancelled the redo session after neither MAS nor 'Bolivia Dice No' protested the inclusion of the annulled ballots.<ref>{{cite news|url=http://www.erbol.com.bo/el-%C3%A1nfora-1/tse-da-por-v%C3%A1lidas-cuatro-actas-que-estaban-anuladas-en-beni-y-el-c%C3%B3mputo-lleg%C3%B3-al-100|title=TSE da por válidas cuatro actas que estaban anuladas en Beni y el cómputo llegó al 100%|date=25 October 2019|work=Educación Radiofónica de Bolivia|access-date=25 October 2019|language=es-BO}}</ref>
+
+===President===
+{{Election results
+|party1=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|cand1=[[Evo Morales]]|vp1=[[Álvaro García Linera]]|votes1=2889359
+|party2=[[Civic Community]]|cand2=[[Carlos Mesa]]|vp2=Gustavo Pedraza|votes2=2240920
+|party3=[[Christian Democratic Party (Bolivia)|Christian Democratic Party]]|cand3=[[Chi Hyun Chung]]|vp3=Paola Barriga|votes3=539081
+|party4=[[Social Democratic Movement]]|cand4=[[Óscar Ortiz Antelo]]|vp4=[[Shirley Franco]]|votes4=260316
+|party5={{ill|Third System Movement|es|Movimiento tercer sistema}}|cand5=[[Félix Patzi]]|vp5=Lucila Mendieta|votes5=76827
+|party6=[[Revolutionary Nationalist Movement]]|cand6=Virginio Lema|vp6=[[Fernando Untoja Choque]]|votes6=42334
+|party7={{ill|Bolivian National Action Party|es|Partido de Acción Nacional Boliviano}}|cand7=Ruth Nina|vp7=Leopoldo Chui|votes7=39826
+|party8=[[Solidarity Civic Unity]]|cand8=[[Víctor Hugo Cárdenas]]|vp8=Humberto Peinado|votes8=25283
+|party9={{ill|Front for Victory (Bolivia)|es|Frente Para la Victoria (Bolivia)|lt=Front For Victory}}|cand9=Israel Rodriquez|vp9=Justino Román|votes9=23725
+|invalid=229337
+|blank=93507
+|electorate=7315364
+|source=[https://computo.oep.org.bo/# Cómputo Electoral], [https://www.oep.org.bo/elecciones-generales-2019 OEP]
+}}
+
+===Chamber of Deputies===
+{{Election results
+|firstround=Proportional|secondround=Constituency|thirdround=Indigenous
+|party1=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|votes1=2768712|seats1=18|votes1_2=2057345|seats1_2=42|votes1_3=24025|seats1_3=7|totseats1=67|sc1=–21
+|party2=[[Civic Community]]|votes2=2186352|seats2=33|votes2_2=1537860|seats2_2=17|votes2_3=9453|seats2_3=0|totseats2=50|sc2=New
+|party3=[[Christian Democratic Party (Bolivia)|Christian Democratic Party]]|votes3=522582|seats3=9|votes3_2=138771|seats3_2=0|votes3_3=574|seats3_3=0|totseats3=9|sc3=–1
+|party4=[[Social Democratic Movement]]|votes4=256937|seats4=0|votes4_2=649090|seats4_2=4|votes4_3=4962|seats4_3=0|totseats4=4|sc4=New
+|party5={{ill|Third System Movement|es|Movimiento tercer sistema}}|votes5=75532|seats5=0|votes5_2=182175|seats5_2=0|votes5_3=2853|seats5_3=0|totseats5=0|sc5=0
+|party6=[[Revolutionary Nationalist Movement]]|votes6=41043|seats6=0|votes6_2=125133|seats6_2=0|totseats6=0|sc6=0
+|party7={{ill|Bolivian National Action Party|es|Partido de Acción Nacional Boliviano}}|votes7=37844|seats7=0|votes7_2=51552|seats7_2=0|totseats7=0|sc7=0
+|party8=[[Solidarity Civic Unity]]|votes8=24011|seats8=0|votes8_2=81346|seats8_2=0|votes8_3=565|seats8_3=0|totseats8=0|sc8=0
+|party9={{ill|Front for Victory (Bolivia)|es|Frente Para la Victoria (Bolivia)|lt=Front For Victory}}|votes9=23029|seats9=0|votes9_2=36867|seats9_2=0|votes9_3=305|seats9_3=0|totseats9=0|sc9=0
+|invalid=222882|invalid2=156731|invalid3=1884
+|blank=91640|blank2=1158587|blank3=25806
+|total_sc=0
+|electorate=6974363|electorate2=6932733|electorate3=144200
+|source=[https://computo.oep.org.bo/PubResul/acta.2019.10.25.21.09.30.xlsx OEP], [https://www.oep.org.bo/wp-content/uploads/2019/11/Separata_Resultados_Nacionales_EG_2019.pdf OEP]
+}}
+
+===Chamber of Senators===
+{{Election results
+|image=[[File:Senado de Bolivia elecciones 2019.svg]]
+|party1=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|votes1=2768712|seats1=21|sc1=–4
+|party2=[[Civic Community]]|votes2=2186352|seats2=14|sc2=New
+|party3=[[Christian Democratic Party (Bolivia)|Christian Democratic Party]]|votes3=522582|seats3=0|sc3=–2
+|party4=[[Social Democratic Movement]]|votes4=256937|seats4=1|sc4=New
+|party5={{ill|Third System Movement|es|Movimiento tercer sistema}}|votes5=75532|seats5=0|sc5=0
+|party6=[[Revolutionary Nationalist Movement]]|votes6=41043|seats6=0|sc6=0
+|party7={{ill|Bolivian National Action Party|es|Partido de Acción Nacional Boliviano}}|votes7=37844|seats7=0|sc7=0
+|party8=[[Solidarity Civic Unity]]|votes8=24011|seats8=0|sc8=0
+|party9={{ill|Front for Victory (Bolivia)|es|Frente Para la Victoria (Bolivia)|lt=Front For Victory}}|votes9=23029|seats9=0|sc9=0
+|invalid=222882
+|blank=91640
+|electorate=6974363
+|total_sc=0
+|source=[https://computo.oep.org.bo/# Cómputo Electoral], [https://www.oep.org.bo/elecciones-generales-2019 OEP]
+}}
+
+===Controversy===
+{{See also|2019 Bolivian protests}}
+The pause in results transmission for 24 hours, which took Morales from a tight race with Mesa to an outright win, was challenged by people in Bolivia and other countries, who questioned the legitimacy of the results. Protesters and opposition politicians called for a second round to be held despite Morales' lead, as did the governments of [[Brazil]], [[Argentina]], [[Colombia]], the [[United States]], and the [[European Union]].<ref name=BBCDeclared/> Support for the results of the election came from the governments of [[Mexico]], [[Nicaragua]], [[Venezuela]], [[Cuba]], [[Palestine]], the [[Non-Aligned Movement]] and the [[Alberto Fernández|new President-elect]] of Argentina.<ref>{{cite tweet|number=1188883542878629888|user=alferdez|title=Muchas gracias, querido @evoespueblo, por tu saludo y por tu amistad. Y mis felicitaciones por tu triunfo electoral…<!-- full text of tweet that Twitter returned to the bot (excluding links) added by TweetCiteBot. This may be better truncated or may need expanding (TW limits responses to 140 characters) or case changes. --> |date=28 October 2019}}</ref><ref name=":1"/><ref>{{cite news|url=https://www.lavozdelsandinismo.com/nicaragua/2019-10-25/daniel-y-rosario-saludan-victoria-electoral-de-evo-morales-en-bolivia/|title=Daniel y Rosario saludan victoria electoral de Evo Morales en Bolivia|website=La Voz del Sandinismo|language=es|date=25 October 2019|access-date=25 October 2019|archive-date=25 October 2019|archive-url=https://web.archive.org/web/20191025203535/https://www.lavozdelsandinismo.com/nicaragua/2019-10-25/daniel-y-rosario-saludan-victoria-electoral-de-evo-morales-en-bolivia/|url-status=dead}}</ref><ref>[http://english.wafa.ps/page.aspx?id=xujMXia113846790354axujMXi President Abbas congratulates the Bolivian President for his re-election]</ref>
+
+The day after the election the vice-president of the TSE Antonio Costas resigned, citing his disagreement with the decision to stop transmitting results.<ref>{{cite news|url=https://www.paginasiete.bo/nacional/2019/10/22/antonio-costas-renuncia-al-tse-de-manera-irrevocable-235192.html|title=Antonio Costas renuncia al TSE de manera irrevocable|newspaper=Diario Pagina Siete|language=es|access-date=1 November 2019}}</ref> The president of the Santa Cruz Electoral Tribunal Sandra Kettels also resigned on 30 October.<ref>{{Cite web|url=https://www.atb.com.bo/política/presidenta-del-ted-de-santa-cruz-presenta-su-renuncia-irrevocable|title=Presidenta del TED de Santa Cruz presenta su renuncia irrevocable|website=ATB Digital|date=30 October 2019 |language=es-ES|access-date=1 November 2019}}</ref>
+
+After an updated vote tally was announced on Friday 25 October, including previously annulled ballots in Beni, the [[United Nations]] announced that it supported an [[audit]] of the process and results, to be carried out by the [[Organisation of American States|OAS]].<ref>{{Cite news|url=https://www.washingtonpost.com/world/the_americas/bolivia-reveals-final-vote-results-but-no-winner-declared/2019/10/25/aff244ac-f789-11e9-b2d2-1f37c9d82dbb_story.html|archive-url=https://web.archive.org/web/20191026010613/https://www.washingtonpost.com/world/the_americas/bolivia-reveals-final-vote-results-but-no-winner-declared/2019/10/25/aff244ac-f789-11e9-b2d2-1f37c9d82dbb_story.html|url-status=dead|archive-date=26 October 2019|title=Bolivia reveals final vote results, but no winner declared|last=Valdez|first=Carlos|date=25 October 2019|newspaper=The Washington Post|language=en|access-date=26 October 2019}}</ref> Responding to concerns about vote tampering and violent protests, Morales asked the [[Organization of American States]] (OAS) to conduct an audit of the vote count.<ref name="reuters231019">{{cite news |title=Bolivian government seeks election audit, vows to respect result |url=https://www.reuters.com/article/us-bolivia-election-foreign-minister/bolivian-government-seeks-election-audit-vows-to-respect-result-idUSKBN1X12FJ |access-date=November 16, 2019 |work=Reuters |publisher=Reuters |date=October 23, 2019 |archive-url=https://web.archive.org/web/20191116145050/https://www.reuters.com/article/us-bolivia-election-foreign-minister/bolivian-government-seeks-election-audit-vows-to-respect-result-idUSKBN1X12FJ |archive-date=November 16, 2019 |url-status=live }}</ref> Morales said he would call for a second-round runoff vote with Mesa if the OAS audit found evidence of fraud.<ref name="aj291019">{{cite news |title=Bolivia, OAS close to deal on election audit as protests continue |url=https://www.aljazeera.com/news/2019/10/bolivia-oas-close-deal-election-audit-protests-continue-191028143828285.html |access-date=November 16, 2019 |agency=Reuters |publisher=Al Jazeera |date=October 29, 2019 |archive-url=https://web.archive.org/web/20191116145048/https://www.aljazeera.com/news/2019/10/bolivia-oas-close-deal-election-audit-protests-continue-191028143828285.html |archive-date=November 16, 2019 |url-status=live }}</ref><ref>{{cite news|url=https://www.bbc.com/news/av/world-latin-america-50196181/bolivia-election-protests-in-la-paz-against-result|title=This is not Cuba or Venezuela, say Bolivians|work=BBC News|language=en-GB|access-date=26 October 2019}}</ref>
+
+On 27 October, Morales declared that a coup d'état was in the making against his government, saying that political rivals were planning to stage a coup the following week.<ref>{{Cite web|url=https://www.france24.com/en/20191027-bolivia-president-morales-says-rivals-preparing-coup-1|title=Bolivia president Morales says rivals preparing 'coup'|date=27 October 2019|website=France 24|language=en|access-date=28 October 2019}}</ref> On 6 November, the opposition published a report stating there had been electoral fraud, including cases where MAS allegedly obtained more votes than the number of registered voters.<ref>{{cite news |title=Oposición presenta pruebas de sus acusaciones de fraude electoral en Bolivia |url=https://www.lavanguardia.com/internacional/20191107/471437362742/oposicion-presenta-pruebas-de-sus-acusaciones-de-fraude-electoral-en-bolivia.html |agency=La Vanguardia |date=7 November 2019 |language=es}}</ref>
+
+===Results of OAS audit===
+
+On 10 November, the [[Organization of American States]] Electoral Observation Mission in Bolivia published a preliminary report of the audit conducted during the elections. The report found significant irregularities overseen by the Electoral Commission,<ref name="Faiola" /> including widespread data manipulation and altered and forged records.<ref name="BBCFresh" /> adding that it was statistically unlikely that Morales had secured the 10-percentage-point margin of victory needed to win outright, saying that election should be annulled after it had found "clear manipulations" of the voting system that called into question Morales' win and that "The manipulations to the computer systems are of such magnitude that they must be deeply investigated by the Bolivian State to get to the bottom of and assign responsibility in this serious case.<ref name=":102">{{cite news|url=https://www.reuters.com/article/us-bolivia-election-oas/bolivias-morales-agrees-to-new-elections-after-damning-oas-audit-idUSKBN1XK07T|title=Bolivia's Morales resigns after protests, lashes out at 'coup'|last1=Ramos|first1=Daniel|date=10 November 2019|work=[[Reuters]]|access-date=11 November 2019|last2=Machicao|first2=Monica}}</ref> The OAS recommended new elections and appointment of a new elections commission.<ref name=BBCFresh/><ref name="WSJ1"/>
+
+Within hours, Morales announced that fresh elections would take place.<ref>{{cite news|first1=Daniel|last1=Ramos|first2=Monica|last2=Machicao|title=Bolivia's Morales to call fresh election after OAS audit|url=https://www.bbc.com/news/world-latin-america-50365340 |work=BBC News |access-date=10 November 2019}}</ref><ref>{{cite news |title=Bolivia's Morales agrees to new elections after damning OAS audit |url=https://www.reuters.com/article/us-bolivia-election-oas/oas-finds-irregularities-in-disputed-bolivia-vote-calls-for-new-elections-idUSKBN1XK07T |work=Reuters |date=10 November 2019 |access-date=10 November 2019}}</ref> By late afternoon of that day,<ref name="GuerreroAndone">Kay Guerrero & Dakin Andone, [https://www.cnn.com/2019/11/10/americas/bolivia-new-election-audit/index.html Bolivian President Evo Morales steps down following accusations of election fraud], CNN (10 November 2019).</ref> Morales and his vice president, [[Álvaro García Linera]], [[Evo Morales government resignation|resigned from office]] after losing support from the police, the [[Armed Forces of Bolivia|military]], and former political allies.<ref name="Londoño"/> [[Adriana Salvatierra Arriaza]], the president of the [[Bolivian Senate]], was next in the line of succession,<ref name=GuerreroAndone/> but she too resigned from office on 10 November.<ref>[https://www.reuters.com/article/us-bolivia-election-salvatierra/bolivian-senate-president-salvatierra-announces-resignation-idUSKBN1XK0NU Bolivian Senate President Salvatierra announces resignation], Reuters (10 November 2019).</ref>
+
+===Analyses of the election===
+
+==== Prior to Morales's resignation====
+
+On 5 November, Professor [[Walter Mebane|Walter R. Mebane]] at the University of Michigan used his own "eforensics" model to detect and predict the level of fraud that occurred during the election.<ref>{{cite news|url=https://www.pressenza.com/2019/11/studies-refute-oas-claims-of-irregularities-in-bolivian-elections/|title=Studies refute OAS claims of irregularities in Bolivian elections|last1=Swinden|first1=Silvia|date=15 November 2019|access-date=16 November 2019|publisher=Pressenza - International Press Agency}}</ref><ref name="Mebane">{{Cite web|url=http://www-personal.umich.edu/~wmebane/Bolivia2019.pdf|title=Evidence Against Fraudulent Votes Being Decisive in the Bolivia 2019 Election∗|last=Mebane|first=Walter R.|date=13 November 2019|website=University of Michigan personal homepage server|access-date=2 January 2020|page=1}}</ref> He estimated that there were between 20,450 and 24,664 fraudulent votes which were subdivided into votes that were abstentions (no votes) that were then transferred to MAS and votes that were initially for other parties but later changed to MAS. With this level of fraud, he initially determined that it would not have been enough to change the results of the elections (Morales would have had a margin of 10.16-10.27%, depending on assumptions) although on 13 November Mebane said that feedback from colleagues led him to believe that "best formula" for the model led to a new reallocation which indicated that Morales would have had a lead of 9.9% over Mesa, requiring a runoff election.<ref name=Mebane/>
+
+On 8 November 2019, Ethical Hacking, the tech security company hired by the TSE (under Morales) to audit the elections, stated that there were multiple irregularities and violations of procedure and that "our function as an auditor security company is to declare everything that was found, and much of what was found supports the conclusion that the electoral process be declared null and void".<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2019/11/8/ethical-hacking-las-elecciones-en-bolivia-estan-viciadas-de-nulidad-236759.html|title=Ethical Hacking: The elections in Bolivia are null and void|language=es|access-date=19 March 2020|archive-date=19 March 2020|archive-url=https://web.archive.org/web/20200319173418/https://www.paginasiete.bo/nacional/2019/11/8/ethical-hacking-las-elecciones-en-bolivia-estan-viciadas-de-nulidad-236759.html|url-status=dead}}</ref> In their official report, one source for the OAS, they stated "We ''cannot'' attest to the integrity of the electoral results because the entire process is null and void due to the number of alterations to the TREP source code, the number of accesses and manual modifications with the maximum privileges to the databases being created during the electoral process and the inconsistencies in the software that arose in the TREP and Computo."<ref>{{cite web |url=https://elpais.bo/lee-el-informe-completo-que-ethical-hacking-presento-al-tse/|date=8 November 2019| website=El Pais|title=Read the complete report which Ethical Hacking presented to the TSE|language=es}}</ref><ref>{{cite report | title=TSE Timeline Consultancy: Consolidated Report|language=es|page=33 |date=8 November 2019|publisher=Ethical Hacking}}</ref><ref>{{cite web| url=https://www.lostiempos.com/actualidad/pais/20191109/empresa-12-hechos-viciaron-nulidad-elecciones-0|language=es|title=12 facts nullified the elections|date=9 November 2019|website=Los Tiempos}}</ref>
+
+On 12 November, the OAS's preliminary conclusions were contradicted by a separate analysis by the [[Center for Economic and Policy Research]] (CEPR), a left-wing policy think-tank based in [[Washington D.C.|Washington]].<ref name="Guardian" /> The CEPR report said the OAS "provided no evidence to support these statements suggesting that the quick count could be wrong" and postulated that the irregularities they perceived were instead merely the result of normal geographic voting patterns, noting that "later-reporting areas are often politically and demographically different from earlier ones".<ref name="CEPR" /> The CEPR report argued that due to Morales' voter base being in more rural regions, the later-arriving results from peripheral areas were more likely to be in his favor.<ref name="CD2">[https://www.commondreams.org/views/2019/11/12/trump-applauds-bolivias-military-coup-us-establishment-media-blame-morales-turmoil Trump Applauds Bolivia's Military Coup As US Establishment Media Blame Morales For Turmoil] Common Dreams, 12 November 2019</ref>
+
+==== OAS and EU full reports and responses ====
+
+On 5 December, the full 95-page OAS report<ref name=":0">{{Cite web|url=https://www.oas.org/en/media_center/press_release.asp?sCodigo=E-109/19|title = OAS - Organization of American States: Democracy for peace, security, and development|date = August 2009}}</ref><ref name=":2">{{Cite web|url=http://www.oas.org/es/sap/deco/Informe-Bolivia-2019/0.1%20Informe%20Final%20-%20Analisis%20de%20Integridad%20Electoral%20Bolivia%202019%20(OSG).pdf|title=OAS - Organization of American States: Democracy for peace, security, and development|date=August 2009}}</ref> was released along with 500 pages of corroborating details as appendices. The audit involved the work of 36 specialists and auditors of 18 nationalities including electoral lawyers, statisticians, computer experts, specialists in documents, calligraphy, chain of custody and electoral organization. The findings included that an outside user who controlled a Linux AMI appliance with "[[Root (Unix)|root privileges]]" — conferring the ability to alter results — accessed the official vote-counting server during the counting and that in a sample of 4,692 returns from polling stations around the country, 226 showed multiple signatures by the same person for different voting booths, a violation of electoral law. On those returns, 91 per cent of votes went to MAS, approximately double the rate recorded elsewhere.<ref name=":3">{{cite web| url = https://www.cbc.ca/news/politics/bolivia-election-oas-audit-canada-1.5390060| title = OAS audit of Bolivian election finds evidence of systematic fraud {{!}} CBC News}}</ref><ref>{{cite news | url=https://www.bbc.com/news/world-latin-america-50685335?intlink_from_url=https://www.bbc.com/news/topics/cdl8n2edee0t/bolivia&link_location=live-reporting-story|title=Evo Morales: Overwhelming evidence of election fraud in Bolivia, monitors say|work=BBC News|date=6 December 2019}}</ref> The identity of this user was later claimed to be Sergio Martínez, who subsequently fled the country.<ref>{{cite web|url=https://www.lostiempos.com/actualidad/pais/20191207/identifican-sergio-martinez-como-asesor-que-manipulo-datos-comicios|title=They identify Sergio Martinez as the assessor who manipulated election data.|date=7 December 2019}}</ref>
+
+On 21 December, the Technical Mission of Electoral Experts sent by the European Union published a 67-page report made similar observations and conclusions to that of the OAS. They noted that "there were minutes with an unusually high number of null votes, blank votes and a hundred percent participation of voters in a series of polling stations" and highlighted the general failure of the TSE to declare these irregularities.<ref name=eu1 /><ref name=eu2 />
+
+On 27 February 2020, a further CEPR statistical analysis was published via ''The Washington Post''. The work was carried out by Jack Williams and John Curiel, MIT researchers working as independent contractors for CEPR.<ref>{{cite web|url=https://cepr.net/report/analysis-of-the-2019-bolivia-election/|title=Analysis of the 2019 Bolivia Election|last1=Williams|first1=Jack|website=Center for Economic and Policy Research|publisher=CEPR|access-date=1 March 2020}}</ref><ref name="WP32"/> The researchers stated that "there is not any statistical evidence of fraud that we can find — the trends in the preliminary count, the lack of any big jump in support for Morales after the halt, and the size of Morales's margin all appear legitimate. All in all, the OAS's statistical analysis and conclusions would appear deeply flawed" and that "it is highly likely that Morales surpassed the 10-percentage-point margin in the first round" as originally presented.<ref name="WP32">{{cite news |last1=Curiel |first1=John |last2=Williams |first2=Jack R. |title=Bolivia dismissed its October elections as fraudulent. Our research found no reason to suspect fraud. |url=https://www.washingtonpost.com/politics/2020/02/26/bolivia-dismissed-its-october-elections-fraudulent-our-research-found-no-reason-suspect-fraud/ |newspaper=The Washington Post |access-date=28 February 2020 |date=27 February 2020}}</ref>
+
+After the ''Washington Post'' article, Bolivian government officials wrote to MIT about the report. The MIT Associate Provost for International Activities responded stating "this study was conducted independently of MIT... it should be referred to as a CEPR study... we do not endorse or otherwise offer an opinion on the findings".<ref name="lostiempos_2020-03-05">{{cite web | url=https://www.lostiempos.com/actualidad/pais/20200305/lee-carta-del-mit-donde-niega-haber-realizado-estudio-que-pone-duda-fraude|title=Read the MIT letter where they deny having carried out study denying electoral fraud.|language=es|date=5 March 2020}}</ref> Bolivian newspaper, [[Página Siete]], notes that one of the authors of the report, Jack Williams, had previously signed a letter to the US Congress to oppose the "military coup" in Bolivia and which supported the previous CEPR study.<ref>{{cite web| url=https://www.paginasiete.bo/nacional/2020/3/3/autor-de-analisis-del-cepr-firmo-peticion-favorable-evo-en-2019-248400.html| title=Author of CEPR analysis signed petition favouring Evo in 2019| language=es| date=3 March 2020| access-date=6 March 2020| archive-date=19 March 2020| archive-url=https://web.archive.org/web/20200319000158/https://www.paginasiete.bo/nacional/2020/3/3/autor-de-analisis-del-cepr-firmo-peticion-favorable-evo-en-2019-248400.html| url-status=dead}}</ref> The OAS reiterated their criticisms of the original CEPR report and issued a statement to say that "the mentioned article contains multiple falsehoods, inaccuracies and omissions."<ref>{{cite web|url=http://www.la-razon.com/nacional/director-oea-analisis-expertos-mit_0_3323667654.html|title=OAS director observes 11 points in the MIT expert analysis|language=es|date=3 March 2020|access-date=6 March 2020|archive-url=https://web.archive.org/web/20200304131926/http://www.la-razon.com/nacional/director-oea-analisis-expertos-mit_0_3323667654.html|archive-date=4 March 2020|url-status=dead}}</ref> Bolivian Minister for Foreign Affairs [[Karen Longaric]] called the study "lacking in scientific and academic value".<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/3/6/ven-que-analisis-del-cepr-quedo-desvirtuado-tras-la-carta-del-mit-248773.html|title=You can see that CEPR analysis was distorted after the MIT letter|language=es|date=6 March 2020|access-date=6 March 2020|archive-date=19 March 2020|archive-url=https://web.archive.org/web/20200319163851/https://www.paginasiete.bo/nacional/2020/3/6/ven-que-analisis-del-cepr-quedo-desvirtuado-tras-la-carta-del-mit-248773.html|url-status=dead}}</ref> It has also been noted, by political scientist and electoral analyst Rodrigo Salazar Elena, that, except for a few details, the two linked CEPR studies are replicas of the same analysis and that lack of statistical knowledge led commentators to be guided by the prestige of MIT and Washington Post and take the conclusions of the CEPR for granted.<ref name=vox/>
+
+On 10 March 2020, Irfan Nooruddin, Professor in the School of Foreign Service at Georgetown University and author of ''Elections in Hard Times: Building Stronger Democracies in the 21st Century'', wrote a ''Washington Post'' article to defend the analysis he performed as the head of the OAS statistical study included in their audit.<ref name=noor>{{cite news | url=https://www.washingtonpost.com/politics/2020/03/10/yes-bolivias-2019-election-was-problematic-heres-why/|title=Yes, Bolivia's 2019 election was problematic. Here's why.|newspaper=[[The Washington Post]]|date=10 March 2020}}</ref><ref name=vox/> In it, he criticises the 27 February CEPR report by questioning the plausibility of their extrapolation, as well as their assumption that there was no discontinuity in the data beyond the point where the preliminary count was halted. Nooruddin states that at the point where 95% of votes were counted, Morales's vote share began to rise more quickly than it had previously, which is consistent across all six departments reporting at that point. These findings, he says, are consistent with the rest of the findings in the OAS report. He also notes that they are consistent with a separate analysis conducted by Diego Escobari, Associate Professor at University of Texas Rio Grande Valley, and Gary A. Hoover, Head of Economics at University of Oklahoma.<ref>{{cite web | url=https://faculty.utrgv.edu/diego.escobari/fraud.pdf| title=Evo Morales and Electoral Fraud in Bolivia: A Natural Experiment Estimate| date=25 November 2019}}</ref> CEPR also said that the results of this study were in error.<ref>{{cite web|title=Unnatural Claims in a 'Natural Experiment': Escobari and Hoover on the 2019 Bolivian Elections|url=https://www.issuelab.org/resources/35851/35851.pdf|access-date=10 June 2020|archive-date=10 June 2020|archive-url=https://web.archive.org/web/20200610223253/https://www.issuelab.org/resources/35851/35851.pdf|url-status=dead}}</ref>
+
+On 12 March 2020, Professor Rodrigo Salazar Elena, researcher at the [[Latin American Faculty of Social Sciences]] in Mexico, wrote an article in ''Voz y Voto'' magazine in which he compares and discusses the claims and evidence shown in the OAS and two CEPR studies.<ref name="vox">{{cite web|url=https://vozyvoto.com.mx/LeerBlog/32El-analisis-estadistico-de-las-elecciones-de-Bolivia-Una-orientacion-al-debate|title=The Statistical Analysis of the Bolivian Election: An orientation to debate|language=es|website=Voz y Voto|date=12 March 2020|access-date=25 March 2020|archive-date=25 March 2020|archive-url=https://web.archive.org/web/20200325145512/https://vozyvoto.com.mx/LeerBlog/32El-analisis-estadistico-de-las-elecciones-de-Bolivia-Una-orientacion-al-debate|url-status=dead}}</ref> He defends the OAS audit by stating that the "duly justified" statistical analysis rests on the "continuity assumption": even with different voting groups, change in vote trend should not exhibit large discontinuities around a single point in time. He states that in order to rebut the OAS analysis and account for the increase in Morales's vote share, it would be necessary to identify a feature distinguishing voters on either side of the threshold. He does not dispute CEPR's method, but notes that it rests on the assumption that voting patterns are geographically contiguous "despite the fact that they are different in terms of reporting the votes to TREP". He offers two potential objections to this assumption. First, he says that geographic contiguity is less plausible than the "continuity assumption" made by the OAS. Secondly, he says that the patterns of stations voting before and after the TREP cutoff are not due to chance.
+
+In June 2020, ''[[The New York Times]]'' reported on a study by independent researchers [[Francisco Rodríguez (economist)|Francisco Rodríguez]] (Tulane University), Dorothy Kronick and Nicolás Idrobo (University of Pennsylvania) which said that the OAS's statistical analysis was flawed, and that the OAS likely used a dataset that incorrectly excluded 1,500 late-reporting voting stations. With these stations included, there was no sudden change in the voting trend, contrary to the OAS's finding. The authors also stated that the OAS used a statistical method that improperly created the appearance of a break in the voting trend where none existed.<ref name="nyt070620">{{cite news |last1=Kurmanaev |first1=Anatoly |last2=Trigo |first2=Maria Silvia |title=A Bitter Election. Accusations of Fraud. And Now Second Thoughts. |url=https://www.nytimes.com/2020/06/07/world/americas/bolivia-election-evo-morales.html |access-date=11 June 2020 |work=The New York Times |date=7 June 2020}}</ref> The researchers' study was published in the ''[[The Journal of Politics|Journal of Politics]]'' in 2022.<ref>{{Cite journal |last1=Idrobo |first1=Nicolás |last2=Kronick |first2=Dorothy |last3=Rodríguez |first3=Francisco |date=2022 |title=Do Shifts in Late-Counted Votes Signal Fraud? Evidence from Bolivia |url=https://mpra.ub.uni-muenchen.de/105118/3/MPRA_paper_105118.pdf |journal=The Journal of Politics |volume=84 |issue=4 |page=000 |doi=10.1086/719639 |s2cid=219909046 |issn=0022-3816}}</ref> Reached for comment by ''The New York Times'', Irfan Nooruddin, who conducted the OAS's statistical analysis, said that Rodríguez and colleagues' study was wrong and did not accurately represent his work. Nooruddin later responded in a comment that the OAS audit included the 1,511 polling stations in all the analyses conducted and that changing the statistical method to the one advocated by the researchers doesn't change the finding.<ref>{{Cite web|last=Nooruddin|first=Irfan|date=2020|title=Updated Comment on the 2019 Bolivia Presidential Election and OAS Statistical Analysis|url=https://dataverse.harvard.edu/file.xhtml?fileId=4142948&version=3.0|url-status=live|archive-url=https://web.archive.org/web/20201024212945/https://dvn-cloud.s3.amazonaws.com/10.7910/DVN/SGOFSC/1753232dab1-0cad63a60a6a?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27Updated%2520Comment%2520on%2520the%25202019%2520Bolivia%2520Presidential%2520Election%2520and%2520OAS%2520Statistical%2520Analysis.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20201024T212915Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIEJ3NV7UYCSRJC7A%2F20201024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=406b90e230b50a4ed926599890315c5ae1e1a1b1fa4cbad1d389874daedc66fc|archive-date=2020-10-24|access-date=2020-10-24|website=Harvard Dataverse|pages=11–12}}</ref> Nooruddin published software to replicate the results found in the OAS audit.<ref>{{Cite web|title=nooruddin.bolivia 2019 oas analysis do file.do - Irfan Nooruddin Dataverse|url=https://dataverse.harvard.edu/file.xhtml?fileId=4142322&version=3.0|access-date=2020-10-24|website=dataverse.harvard.edu|language=en}}</ref> The authors note that they "do not assess the integrity of the election overall.. the OAS presented many qualitative indicators of electoral malpractice".<ref>{{cite web|url=https://www.grupodepuebla.org/ssrn-do-shifts-in-late-counted-votes-signal-fraud-evidence-from-bolivia/|title=Do shifts in late-counted votes signal fraud? Evidence from Bolivia|page=13|date=2020-06-07|first1=Nicolas|last1=Idrobo
+|first2=Dorothy|last2=Kronick|first3=Francisco|last3=Rodriguez}}</ref> The head of electoral observations for the OAS, Gerardo De Icaza, called the conclusions of the study "a moot point", saying that proving or disproving electoral fraud with statistics alone is impossible, a sentiment echoed by Nooruddin in his own article.<ref name="nyt070620"/><ref name=noor/> Calla Hummel, a Bolivia expert at the University of Miami also commenting in the NYT article stated: "There was fraud — we just don't know where and how much".<ref name="nyt070620"/>
+
+In August 2020, after Nooruddin published the dataset he used for his audit to a [[Harvard University]] [[digital repository]],<ref>{{cite journal |url=https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/SGOFSC |title=Replication Data for: OAS Audit of Bolivia General Election 2019 |last=Nooruddin |first=Irfan |date=August 19, 2020 |website=[[harvard.edu]] |publisher=Harvard Dataverse |doi=10.7910/DVN/SGOFSC |access-date=September 5, 2020}}</ref> CEPR reported that they had found a "fatal flaw" in the data which "negat(ed) the OAS's claims that fraud affected the results". They noted that [[timestamp]]s for the tally sheets recorded in the dataset were formatted as [[alphanumeric]] [[String (computer science)|strings]], rather than in a purely numeric format: therefore, when they were sorted using this variable, they would have been sorted alphabetically, rather than chronologically, so that tally sheets which had been timestamped with a time of 1:00 pm would be earlier in the order than those timestamped at 1:01 am on the same date, despite the latter having been timestamped nearly twelve hours earlier. The CEPR's David Rosnick argued that "the OAS had no real-world chronology of Bolivia's vote count, even though it made accusations that there was a change in the trend of the votes over time that suggested fraud".<ref>{{cite web |url=https://cepr.net/press-release/major-coding-error-reveals-another-fatal-flaw-in-oas-analysis-of-bolivias-2019-elections/ |title=Major Coding Error Reveals Another Fatal Flaw in OAS Analysis of Bolivia's 2019 Elections |author=<!--Not stated--> |date=24 August 2020 |website=[[Center for Economic and Policy Research]] |access-date=September 5, 2020}}</ref><ref>{{cite web |url=https://jacobinmag.com/2020/09/oas-evo-morales-bolivia-coup-fraud-cepr |title=The OAS Accusation of Electoral Fraud Against Evo Morales Is Bullshit — And Now We Have the Data to Prove It |last=Rosnick |first=David |date=September 5, 2020 |website=[[Jacobin (magazine)|Jacobin]] |access-date=September 5, 2020}}</ref>
+
+On 25 August 2020, Nooruddin acknowledged the timestamp sorting error identified by the CEPR resulted in "figures where the x-axis is generated using this variable were incorrect," but stated that the mistake "does not affect any of the results or conclusions reported in the original OAS report."<ref>{{Cite web|title=erratum.txt - Irfan Nooruddin Dataverse|url=https://dataverse.harvard.edu/file.xhtml?fileId=4095378&version=3.0|access-date=2020-10-24|website=dataverse.harvard.edu|language=en}}</ref>{{primary source inline|date=October 2020}} Nooruddin updated a comment explaining the statistical analysis correcting the timestamp sorting mistake and updating the statistical estimator to a local linear regression as argued for by Idrobo, Kronick and Rodríguez.<ref>{{Cite web|title=Updated Comment on the 2019 Bolivia Presidential Election and OAS Statistical Analysis.pdf - Irfan Nooruddin Dataverse|url=https://dataverse.harvard.edu/file.xhtml?fileId=4142948&version=3.0|access-date=2020-10-24|website=dataverse.harvard.edu|language=en}}</ref>{{primary source inline|date=October 2020}}
+
+In October 2020, the Bolivian government presented the results of a police investigation into electoral fraud during the election, alleging that former [[Minister of the Presidency of Bolivia|minister of the presidency]] {{ill|Juan Ramón Quintana|es||et||qu}} set up a "war room" to plan electoral fraud together with a number of members of the electoral bodies. The investigation also alleged that a number of foreign individuals, some linked to Mexico's [[Labor Party (Mexico)|Labor Party]], an ally of the governing [[National Regeneration Movement]], were involved in the meeting .<ref>{{cite news |title=Identifican a mexicanos aliados de López Obrador implicados en el caso fraude electoral |url=https://erbol.com.bo/nacional/identifican-mexicanos-aliados-de-l%C3%B3pez-obrador-implicados-en-el-caso-fraude-electoral |access-date=15 October 2020 |work=Erbol |date=8 October 2020 |language=es}}</ref><ref>{{cite news |title=Quintana instaló un "cuarto de guerra" en la Casa Grande del Pueblo para planificar el fraude |url=https://correodelsur.com/politica/20201014_quintana-instalo-un-cuarto-de-guerra-en-la-casa-grande-del-pueblo-para-planificar-el-fraude.html |access-date=15 October 2020 |work=Correo del Sur |date=14 October 2020 |language=es}}</ref>
+
+The same month, the Bolivian prosecutors office also released a report corroborating 16 pieces of evidence indicating willful manipulation of the election results. This included redirection of server traffic to a network outside the control of the TSE, falsified tally sheets, burned voter index lists, poor chain of custody not guaranteeing that the material had not been tampered with and modification of data from a number of polling stations. These incidents and more led to the OAS concluding that they could not endorse the results of the elections.<ref>{{cite news |title=Fiscalía corroboró 16 evidencias de "manipulación dolosa" de votos en 2019 |url=https://correodelsur.com/politica/20201014_fiscalia-corroboro-16-evidencias-de-manipulacion-dolosa-de-votos-en-2019.html |access-date=15 October 2020 |work=Correo del Sur |date=14 October 2020 |language=es}}</ref>
+
+In December 2020, CEPR released another response to the concerns raised by the OAS, writing that "when within-locality variation is taken into account, the election results stand up to scrutiny".<ref name="CEPR122020">{{Cite web|title=What Criticisms of Bolivia's 2019 Elections Continue to Get Wrong|url=https://cepr.net/report/what-criticisms-of-bolivias-2019-elections-continue-to-get-wrong/|access-date=2020-12-11|website=Center for Economic and Policy Research|language=en-US}}</ref>
+
+==Aftermath==
+New elections were set to be rerun in May 2020, but were postponed due to the [[COVID-19 pandemic in Bolivia|COVID-19]] pandemic.<ref>{{Cite web|date=12 June 2020|title=Bolivia Electoral Body Says Country to Hold Delayed Elections by September 6|url=https://www.usnews.com/news/world/articles/2020-06-02/bolivia-electoral-body-says-country-to-hold-delayed-elections-by-september-6}}</ref> In June 2020, Áñez stated that she would approve a law passed by both the Chamber of Deputies and the Senate to set a date for the election for 6 September 2020. However, she subsequently refused to sign it, insisting she needed to see an epidemiological study that justified having elections in September.<ref>[https://www.paginasiete.bo/nacional/2020/6/13/comicios-presidenta-deja-en-el-limbo-promulgacion-de-la-ley-258295.html Comicios: Presidenta deja en el limbo promulgación de la ley] Pagina Siete, 13 June 2020</ref> On 23 July 2020, the TSE announced that the election would be postponed to 18 October 2020, due to medical reports that the pandemic would have its highest peaks in late August and early September.<ref>{{Cite web|title=El Tribunal Electoral de Bolivia volvió a aplazar las elecciones presidenciales para el 18 de octubre|url=https://www.infobae.com/america/america-latina/2020/07/23/el-tribunal-electoral-de-bolivia-aplazo-las-elecciones-presidenciales-para-el-18-de-octubre/|access-date=2020-07-24|website=infobae|language=es-ES}}</ref><ref>{{cite web|title=Bolivian COVID statistics|url=https://www.boliviasegura.gob.bo/datos.php|access-date=8 October 2020|website=www.boliviasegura.gob.bo|language=es|archive-date=18 September 2020|archive-url=https://web.archive.org/web/20200918141741/https://www.boliviasegura.gob.bo/datos.php|url-status=dead}}</ref> The [[2020 Bolivian general election]] was indeed held on that date, resulting in a first-round win by MAS candidate [[Luis Arce]], former minister of economy and public finance and ally of Evo Morales. In the election, which took place under the surveillance of OAS and other international organizations, MAS received 55% of the votes with a margin of 26% over the second party.<ref>{{cite web|url=https://www.lostiempos.com/actualidad/pais/20201013/tse-onu-ue-respaldan-elecciones-limpias-denuncias-del-mas|title=TSE, EU and OAS support clean elections in face of MAS complaints|date= 14 October 2020|language=es}}</ref><ref>{{Cite web|title=Resultados Elecciones Nacionales 2020|url=https://computo.oep.org.bo/|access-date=2020-10-22|website=computo.oep.org.bo}}</ref>
+
+==References==
+{{reflist}}
+{{notelist}}
+
+{{Bolivian elections}}
+
+[[Category:Presidential elections in Bolivia]]
+[[Category:2019 elections in South America|Bolivia]]
+[[Category:2019 in Bolivia|General]]
+[[Category:Parliamentary elections in Bolivia]]
+[[Category:October 2019 in South America|Bolivia]]
+[[Category:Annulled elections]]

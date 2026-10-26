@@ -1,0 +1,821 @@
+{{Short description|none}}
+{{use dmy dates|date=April 2021}}
+{{use American English|date=March 2021}}
+{{Infobox election
+| country            = Chile
+| previous_election  = 2017 Chilean general election
+| previous_year      = 2017
+| next_election      = 2025 Chilean general election
+| next_year          = 2025
+| module             = {{infobox election
+| embed              = yes
+| election_name      = Presidential election
+| type               = presidential
+| election_date      = 21 November 2021 (first round)<br />19 December 2021 (second round)
+| turnout            = 47.33% (first round) {{increase}} 0.61[[percentage point|pp]]<br />55.64% (second round) {{increase}} 6.62[[percentage point|pp]]
+| opinion_polls      = Opinion polling for the 2021 Chilean presidential election
+| image1             = Gabriel Boric Font (2021) 4x3 cropped.png
+| candidate1         = '''[[Gabriel Boric]]'''
+| party1             = {{nowrap|[[Social Convergence]]}}
+| colour1            = FC415C
+| alliance1          = {{lang|es|italic=no|[[Apruebo Dignidad]]}}
+| popular_vote1      = '''4,620,890'''
+| percentage1        = '''55.87%'''
+| image2             = José Antonio Kast (2019) 4x3 cropped.jpg
+| candidate2         = [[José Antonio Kast]]
+| party2             = [[Republican Party (Chile, 2019)|Republican]]
+| alliance2          = [[Christian Social Front]]
+| colour2            = 2A58A6
+| popular_vote2      = 3,650,088
+| percentage2        = 44.13%
+| title              = President
+| before_election    = [[Sebastián Piñera]]
+| before_party       = Independent (politics)
+| after_election     = [[Gabriel Boric]]
+| after_party        = [[Social Convergence]]
+| map                = {{switcher |[[File:2021 Chilean presidential election by commune percentage.svg|275px]] |First round results by commune|[[File:2021 Chilean presidential election by commune percentage (second round).svg|275px]] |Second round results by commune|default=2}}
+| module             = {{Infobox legislative election
+| embed              = yes
+| election_name      = Chamber of Deputies
+| seats_for_election = All 155 seats in the [[Chamber of Deputies of Chile|Chamber of Deputies]]
+| majority_seats     = 78
+| noleader           = yes
+| election_date      = 21 November 2021
+| party1             = Chile Podemos Más
+| last_election1     = 72
+| seats1             = 53
+| percentage1        = 25.43
+| party2             = Apruebo Dignidad
+| last_election2     = 20
+| seats2             = 37
+| percentage2        = 20.94
+| party3             = New Social Pact
+| last_election3     = 43
+| seats3             = 37
+| percentage3        = 17.16
+| party4             = Christian Social Front
+| last_election4     = new
+| seats4             = 15
+| percentage4        = 11.18
+| party5             = Party of the People (Chile)
+| last_election5     = new
+| seats5             = 6
+| percentage5        = 8.45
+| party6             = Dignidad Ahora
+| last_election6     = new
+| seats6             = 3
+| percentage6        = 5.10
+| party7             = Green Ecologist Party (Chile)
+| last_election7     = new
+| seats7             = 2
+| percentage7        = 4.83
+| party8             = United Independents (Chile)
+| last_election8     = new
+| seats8             = 1
+| percentage8        = 2.96
+| party9             = Independents
+| last_election9     = 1
+| seats9             = 1
+| percentage9        = 1.44
+| map                = File:2021ChileDeputiesElectionMap.svg
+| module             = {{Infobox legislative election
+| embed              = yes
+| election_name      = Senate
+| seats_for_election = 27 of the 50 seats in the [[Senate of Chile|Senate]]
+| noleader           = yes
+| election_date      = 21 November 2021
+| party1             = Chile Podemos Más
+| last_election1     = 19
+| seats1             = 24
+| percentage1        = 27.86
+| party11            = Apruebo Dignidad
+| last_election11    = 1
+| seats11            = 5
+| percentage11       = 19.57
+| party12            = New Social Pact
+| last_election12    = 15
+| seats12            = 18
+| percentage12       = 15.59
+| party13            = Christian Social Front
+| last_election13    = new
+| seats13            = 1
+| percentage13       = 8.62
+| party14            = Independents
+| last_election14    = 1
+| seats14            = 2
+| percentage14       = 9.31
+| map                = File:2021ChileSenateElectionMap.svg
+}}}}}}}}
+
+[[General elections]] were held in [[Chile]] on 21 November 2021, including presidential, parliamentary and regional elections. Voters went to the polls to elect a [[President of Chile|president]] to serve a four-year term, 27 of 50 members of the [[Senate of Chile|Senate]] to serve an eight-year term, all 155 members of the [[Chamber of Deputies of Chile|Chamber of Deputies]] to serve a four-year term and all 302 members of the regional boards to serve a three-year term.{{Efn|It was the last opportunity in which the regional boards members are elected together with the presidential and parliamentary elections, since from the next election, scheduled for October 2024, they will be elected together with the mayors, councilors and regional governors, being the first election of the latter in April 2021. Therefore, the term of the regional boards members elected in 2021 will last just under three years, between 11 March 2022 and 6 January 2025.}} Following an electoral reform in 2015, the Senate increased its membership from 38 to 43 in 2017 and grew to its full size of 50 seats after this election.<ref>{{cite web|url=http://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/|title=El sistema electoral pasa su prueba de fuego|date=20 November 2017|publisher=La Tercera|language=es-CL|access-date=29 January 2021|archive-date=8 March 2021|archive-url=https://web.archive.org/web/20210308090321/https://www.latercera.com/noticia/sistema-electoral-pasa-prueba-fuego/|url-status=live}}</ref>
+
+Despite narrowly trailing conservative candidate [[José Antonio Kast]] in the first round of the presidential election, leftist candidate [[Gabriel Boric]] emerged as the winner of the second round with 56% of the vote, a larger margin than predicted by opinion polls.<ref>{{Cite web |title=Former student activist wins Chile's presidential election |url=https://www.aljazeera.com/news/2021/12/20/gabriel-boric-wins-chiles-presidential-election |access-date=2022-01-01 |website=www.aljazeera.com |language=en}}</ref> Kast conceded defeat shortly after voting ended.<ref>{{cite news |date=2021-12-19 |title=Leftist Boric set to become new Chile president as Kast concedes defeat |publisher=Deutsche Welle |url=https://www.dw.com/en/leftist-boric-set-to-become-new-chile-president-as-kast-concedes-defeat/a-60187979 |url-status=live |accessdate=2021-12-19 |archive-url=https://web.archive.org/web/20211219232025/https://www.dw.com/en/leftist-boric-set-to-become-new-chile-president-as-kast-concedes-defeat/a-60187979 |archive-date=19 December 2021}}</ref><ref>{{cite news |date=20 December 2021 |title=Leftist Gabriel Boric wins Chile presidential election |publisher=BBC News |url=https://www.bbc.com/news/world-latin-america-59715941 |url-status=live |access-date=20 December 2021 |archive-url=https://web.archive.org/web/20211220000309/https://www.bbc.com/news/world-latin-america-59715941 |archive-date=20 December 2021}}</ref> At the age of 35, Boric became the youngest president ever elected in Chile and also set a record for receiving the highest number of votes in Chilean history. The turnout in the second round increased to 56%, the highest since voting became voluntary in Chile in 2013.
+
+In the parliamentary elections the center-right coalition [[Chile Podemos Más]] remained the largest bloc in both chambers and increased their number of senators, despite seeing their vote share fall by more than 10 percentage points compared to the previous election. On the left, the new coalition [[Apruebo Dignidad]] saw gains at the expense of the center-left [[New Social Pact]] (NPS), becoming the second largest bloc in the Chamber of Deputies. However, NPS won more seats in the Senate. New parties, including the far-right [[Republican Party (Chile, 2019)|Republican Party]] and the populist [[Party of the People (Chile)|Party of the People]], also gained several seats. Consequently, the newly elected Congress was split evenly between the combined left and right,{{Efn|The combined left coalition, including [[Apruebo Dignidad]], [[New Social Pact]], [[Dignidad Ahora]] and the [[Green Ecologist Party (Chile)|Green Ecologist Party]] had 79 deputies and 24 senators.<ref>{{cite web | url=https://www.elmostrador.cl/dia/2022/01/12/senadora-electa-fabiola-campillai-se-sumara-a-bancada-de-apruebo-dignidad/ | title=Senadora electa Fabiola Campillai se sumará a bancada de Apruebo Dignidad | date=12 January 2022 }}</ref> The combined right coalition, including [[Chile Podemos Más]] and the [[Republican Party (Chile, 2019)|Republican Party]] had 68 deputies and 25 senators. Eight deputies and two senators are not considered part of any coalition.}} with the non-aligned congresspeople holding the balance of power.<ref>{{cite web |date=2021-11-22 |title=Chile Elections 2021: The right wing reaches the highest representation in the Chilean Senate since the return of democracy {{!}} International |url=https://marketresearchtelecast.com/chile-elections-2021-the-right-wing-reaches-the-highest-representation-in-the-chilean-senate-since-the-return-of-democracy-international/208848/ |url-status=live |archive-url=https://web.archive.org/web/20211209195114/https://marketresearchtelecast.com/chile-elections-2021-the-right-wing-reaches-the-highest-representation-in-the-chilean-senate-since-the-return-of-democracy-international/208848/ |archive-date=9 December 2021 |access-date=2021-12-08 |website=Market Research Telecast |language=en-US}}</ref>
+
+On 11 March 2022 all the newly elected authorities, including president-elect Boric, took office.<ref>{{cite web |last=Cuffe |first=Sandra |title=Chileans vote for new president to lead transition period |url=https://www.aljazeera.com/news/2021/11/21/chileans-vote-for-president-to-lead-transition-period |url-status=live |archive-url=https://web.archive.org/web/20211207002503/https://www.aljazeera.com/news/2021/11/21/chileans-vote-for-president-to-lead-transition-period |archive-date=7 December 2021 |access-date=2021-12-08 |website=www.aljazeera.com |language=en}}</ref>
+
+==Analysis==
+The 2021 Chilean election cycle was notable for its polarization, representing a departure from the country's political normality. Against the backdrop of the [[2019–2021 Chilean protests|2019 protests]], the [[Constitutional Convention (Chile)|writing of a new constitution]], and the [[COVID-19 pandemic]],<ref>{{Cite news|title=Analysis {{!}} Chile's millennial president-elect is a sign of a very different 'pink tide'|language=en-US|newspaper=Washington Post|url=https://www.washingtonpost.com/world/2021/12/22/chile-boric-left-latin-america/|access-date=2022-01-01|issn=0190-8286}}</ref> the dominant center-left and center-right coalitions that had ruled the country since the end of the [[Military dictatorship of Chile (1973–1990)|military dictatorship]] experienced a significant drop in support in the elections for [[2021 Chilean municipal elections|mayors]], [[2021 Chilean gubernatorial elections|governors]], and [[2021 Chilean Constitutional Convention election|members of the Constitutional Convention]] held on May 15 and 16.
+
+In the subsequent presidential election, candidates from the traditional centrist coalitions finished in fourth and fifth place, while two candidates from newly formed parties and coalitions, Kast and Boric, qualified for the second round.<ref>{{cite web|date=2021-11-22|title=Ex-protester, far-right lawmaker to meet in Chilean runoff|url=https://apnews.com/article/business-elections-presidential-elections-south-america-chile-86e72bcd0193207f79479ce9cb726092|access-date=2021-12-08|website=AP NEWS|language=en|archive-date=8 December 2021|archive-url=https://web.archive.org/web/20211208181110/https://apnews.com/article/business-elections-presidential-elections-south-america-chile-86e72bcd0193207f79479ce9cb726092|url-status=live}}</ref> This represented a departure from the country's political history, which had repeatedly seen power bounce between center-right and center-left parties with little structural movement between presidents.
+
+The desire for change among voters led them to reject the traditional political parties and support candidates from new parties. Kast of the far-right [[Republican Party (Chile, 2019)|Republican Party]] ran a campaign on populist and Christian conservative values, emphasizing "law and order" and drawing comparisons with US president [[Donald Trump]] and former Brazilian president [[Jair Bolsonaro]].<ref>{{Cite web|date=2021-12-19|title=Leftist millennial wins election as Chile's next president|url=https://apnews.com/article/elections-caribbean-donald-trump-chile-santiago-5fc78a1fe1cb26a06839e8a7b59c8730|access-date=2022-01-01|website=AP NEWS|language=en}}</ref> In contrast, Boric, a member of the left-wing {{lang|es|italic=no|[[Apruebo Dignidad]]}} coalition, campaigned on a progressive message reflecting the ideas behind the 2019 protests. He advocated for broadening the social safety net, higher taxes on the wealthy, combating climate change, social justice, and change to the current privatized pension system. Boric also supported the ongoing writing of a new Chilean constitution, while Kast repeatedly said he would interfere to stop its ratification if elected.
+
+==Electoral system==
+{{Politics of Chile}}
+
+The President is elected using the [[two-round system]]; if no candidate receives a majority of the vote in the first round, a second round will be held.<ref>{{cite web|title=IFES Election Guide {{!}} Elections: Chile President 2017|url=https://www.electionguide.org/elections/id/2522/|access-date=14 February 2021|website=www.electionguide.org|archive-date=3 December 2020|archive-url=https://web.archive.org/web/20201203194545/https://electionguide.org/elections/id/2522/|url-status=live}}</ref>
+
+The 50 members of the Senate are elected for eight-year terms, with around half of the Senators renewed at each general election. Senators are elected from 16 multi-member constituencies of between two and five seats based on the [[regions of Chile|regions]]. Seats are filled by party list [[proportional representation]]. Each voter votes for one party list or list of a coalition. Seats are allocated by the [[d'Hondt method]].The 2021 elections saw 27 members elected, representing the regions of [[Antofagasta Region|Antofagasta]], [[Biobío Region|Biobío]], [[Coquimbo Region|Coquimbo]], [[O'Higgins Region|O'Higgins]], [[Los Lagos Region|Los Lagos]], [[Los Ríos Region|Los Ríos]], [[Magallanes Region|Magallanes]] and [[Santiago Metropolitan Region]]. (Vacancies of seats arising between general elections are filled by a person selected by the same party.)<ref>{{cite web |title=IPU PARLINE database: CHILE (Senado), Electoral system |url=http://archive.ipu.org/parline-e/reports/2064_B.htm |url-status=live |archive-url=https://web.archive.org/web/20200913094313/http://archive.ipu.org/parline-e/reports/2064_B.htm |archive-date=13 September 2020 |access-date=14 February 2021 |website=archive.ipu.org}}</ref><ref name="eg">{{Cite web | title=IFES Election Guide {{!}} Elections: Chilean Chamber of Deputies 2021 General | url=https://www.electionguide.org/elections/id/3607/ | access-date=2026-09-10 | website=www.electionguide.org}}</ref>
+
+In the National Congress, the 155 members of the [[Chamber of Deputies (Chile)|Chamber of Deputies]] are elected from 28 multi-member constituencies with between three and eight seats by party list [[proportional representation]]. Each voter votes for one party list or list of a coalition. Seats are allocated by the [[d'Hondt method]]. (Vacancies of seats arising between general elections are filled by a person selected by the same party.)<ref>{{cite web|title=IPU PARLINE database: CHILE (Cámara de Diputados), Electoral system|url=http://archive.ipu.org/parline-e/reports/2063_B.htm|access-date=14 February 2021|website=archive.ipu.org|archive-date=13 September 2020|archive-url=https://web.archive.org/web/20200913093908/http://archive.ipu.org/parline-e/reports/2063_B.htm|url-status=live}}</ref><ref name="eg"/>
+
+==Presidential candidates==
+
+===Summary of candidates===
+Below is the list of candidacies for president accepted by the [[Electoral Service]] on 27 August 2021.<ref>{{cite web|url=https://www.servel.cl/servel-publica-resolucion-de-aceptacion-y-rechazo-de-declaraciones-de-candidaturas-presidenciales/|title=Resolución de aceptación y rechazo de declaraciones de candidaturas presidenciales|date=2021-08-27|access-date=2021-08-30|website=Servicio Electoral de Chile|language=es-CL|archive-date=30 August 2021|archive-url=https://web.archive.org/web/20210830063029/https://www.servel.cl/servel-publica-resolucion-de-aceptacion-y-rechazo-de-declaraciones-de-candidaturas-presidenciales/|url-status=live}}</ref> Boric's and Sichel's candidacies were automatically accepted after they were proclaimed the winner of their respective primaries by the [[Election Certification Tribunal]].<ref>{{Cite news|title=Horas clave en el Servel: Las candidaturas presidenciales oficializadas y las frases que marcaron la jornada|url=https://www.emol.com/noticias/Nacional/2021/08/23/1030529/jornada-inscripciones-frases-presidenciables.html|last=Toro|first=Daniela|date=24 August 2021|access-date=24 August 2021|work=Emol|language=es-CL|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220203514/https://www.emol.com/noticias/Nacional/2021/08/23/1030529/jornada-inscripciones-frases-presidenciables.html|url-status=live}}</ref>
+
+{| class="wikitable"
+|-
+! style="width: 15em" | Candidate !! style="width: 20em" | Endorsement
+!Ideology
+|-
+| [[File:Gabriel Boric Font (2021) 4x3 cropped.png|75px|left]]<br />'''[[Gabriel Boric]]'''<br /><small>[[Social Convergence]]</small> || [[File:Apruebo Dignidad logo.svg|50px]] {{lang|es|italic=no|[[Apruebo Dignidad]]}}:
+*[[File:Convergencia Social (recorte).png|25px]] [[Social Convergence]]
+*[[File:Comunes logo 2020.png|25px]] [[Commons (Chilean political party)|Commons]]
+* [[Social Green Regionalist Federation]]
+*[[File:Partido Comunista de Chile.svg|25px]] [[Communist Party of Chile|Communist Party]]
+*[[File:Logo of the Democratic Revolution.svg|25px]] [[Democratic Revolution]]
+*''[[File:Logo de Acción Humanista Chile.png|25px]] [[Humanist Action]]''
+*''[[File:Logo of the Common Force.svg|25px]] [[Common Force]]''
+*''[[File:Logo of the Unir Movement.svg|25px]] [[Unir Movement]]''
+| {{plainlist|* [[Democratic socialism]]
+* [[Progressivism]]}}
+|-
+| [[File:José Antonio Kast (2019) 4x3 cropped.jpg|left|100x100px|'''José Antonio Kast (2019)''' |alt=José Antonio Kast (2019) cropped.]]<br />'''[[José Antonio Kast]]'''<br /><small>[[Republican Party (Chile, 2019)|Republican Party]]</small> || [[File:Frente Social Cristiano.svg|50px]] [[Christian Social Front]]:
+*[[File:Partido Republicano (Chile, 2019).svg|25x25px]] [[Republican Party (Chile, 2019)|Republican Party]]
+*[[File:Partido Conservador Cristiano Chile corto.svg|25px]] [[Christian Conservative Party (Chile)|Christian Conservative Party]]
+| {{plainlist|* [[Conservatism]]
+* [[Right-wing populism]]}}
+|-
+| [[File:Yasna Provoste Campillai (2021) (cropped).jpg|75px|left]]<br />'''[[Yasna Provoste]]'''<br /><small>[[Christian Democratic Party (Chile)|Christian Democratic Party]]</small> || [[File:Nuevo Pacto Social full.png|50px]] [[Constituent Unity|New Social Pact]]:
+*[[File:Flag of the Christian Democrat Party of Chile.svg|25px]] [[Christian Democratic Party (Chile)|Christian Democratic Party]]
+*[[File:Ciudadanos 2018.svg|25px]] [[Citizens (Chilean political party)|Citizens]]
+*[[File:Logo nuevo Partido Liberal de Chile.png|25px]] [[Liberal Party of Chile (2013)|Liberal Party]]
+*[[File:Partido por la Democracia emblema.svg|25px]] [[Party for Democracy (Chile)|Party for Democracy]]
+*[[File:Emblema Partido Radical Chile.svg|25px]] [[Radical Party of Chile (2018)|Radical Party]]
+*[[File:Emblem of the Socialist Party of Chile.svg|25px]] [[Socialist Party of Chile|Socialist Party]]
+*''[[File:Logo de Nuevo Trato (Chile) 2020.svg|25px]] [[New Deal (Chile)|New Deal]]''
+*''[[New Chile]]''
+| {{plainlist|* [[Christian democracy]]
+* [[Social liberalism]]}}
+|-
+| [[File:SEBASTIAN SICHEL 2019 (cropped).jpg|75px|left]]<br />'''[[Sebastián Sichel]]'''<br /><small>Independent</small> || [[File:Chile Podemos +.svg|50px]] {{lang|es|italic=no|[[Chile Vamos|Chile Podemos Más]]}}:
+* [[Political Evolution]]
+*[[File:PRI Chile 2019 (recorte).png|25x25px]] [[Democratic Independent Regionalist Party]]
+*[[File:Logo del Partido político Renovación Nacional (RN), Chile.svg|25px]] [[National Renewal (Chile)|National Renewal]]
+*[[File:UDI 2017 (recorte).svg|25px]] [[Independent Democratic Union]]
+| {{plainlist|* [[Liberal conservatism]]
+* [[Economic liberalism]]}}
+|-
+| [[File:Eduardo Artés 2021 - 7 de octubre (cropped).jpg|75px|left]]<br />'''[[Eduardo Artés]]'''<br /><small>[[Patriotic Union (Chile)|Patriotic Union]]</small> || [[File:UPAUniónPatriótica.png|50px]] [[Patriotic Union (Chile)|Patriotic Union]]:
+*''[[File:PC(AP).svg|25px]] [[Chilean Communist Party (Proletarian Action)]]''
+*''[[File:Movimiento de Izquierda Revolucionaria (Chile).svg|25px]] [[Revolutionary Left Movement (Chile)|Revolutionary Left Movement]]''
+| {{plainlist|* [[Communism]]
+* [[Marxism–Leninism]]}}
+|-
+| [[File:Marco_Enríquez-Ominami_2018_(4x3).jpg|75px|left]]<br />'''[[Marco Enríquez-Ominami]]'''<br /><small>[[Progressive Party (Chile)|Progressive Party]]</small> || [[File:Logo Partido Progresista de Chile (recorte).png|25x25px]] [[Progressive Party (Chile)|Progressive Party]]
+| {{plainlist|* [[Democratic socialism]]
+* [[Progressivism]]}}
+|-
+| [[File:Franco Parisi Fernández (2013) 4x3 cropped.jpg|75px|left]]<br />'''[[Franco Parisi (economist)|Franco Parisi]]'''<br /><small>[[Party of the People (Chile)|Party of the People]]</small> || [[Party of the People (Chile)|Party of the People]]
+| {{plainlist|* [[Populism]]
+* [[E-democracy]]}}
+|}
+
+===Apruebo Dignidad===
+{| class="wikitable" style="float:right; font-size:90%; text-align:center; margin:10px;"
+|-
+| style="background:#f1f1f1;" |[[File:Apruebo Dignidad logo.svg|100x100px|center]] '''{{lang|es|italic=no|[[Apruebo Dignidad]]}}'''
+|-
+! style=" font-size:120%; background:#FC415C; width:200px;"|{{colored link|white|Gabriel Boric}}<br /><small>{{colored link|white|Social Convergence|(Social Convergence)}}</small>
+|-
+| [[File:Gabriel Boric Font (2021) (cropped).png|center|200x200px|border]]
+|-
+| [[Chamber of Deputies of Chile|Deputy]] for [[Magallanes and Chilean Antarctica Region|Magallanes]]<br /><small>(2014–2022)</small>
+|}
+The {{lang|es|italic=no|[[Apruebo Dignidad]]}} coalition decided its presidential candidate in the publicly-funded primaries held nationwide on 18 July 2021, won by lawmaker [[Gabriel Boric]] with 60% of the vote.<ref>{{cite web|last1=Fuentes|first1=Valentina|last2=Malinowski|first2=Matthew|url=https://www.bloomberg.com/news/articles/2021-07-18/chile-holds-key-primary-vote-in-wide-open-presidential-race|title=Chile Stocks Surge as Communist Knocked Out of Presidential Race|website=Bloomberg|date=20 July 2021|orig-date=First published 18 July 2021|access-date=20 July 2021|archive-date=19 July 2021|archive-url=https://web.archive.org/web/20210719200859/https://www.bloomberg.com/news/articles/2021-07-18/chile-holds-key-primary-vote-in-wide-open-presidential-race|url-status=live}}</ref>
+
+On 17 March 2021, Boric's party, [[Social Convergence]], proclaimed him as its presidential candidate.<ref>{{cite web|url=https://www.24horas.cl/politica/gabriel-boric-carta-presidencial-4696569|title=Convergencia Social proclama a diputado Gabriel Boric como su carta presidencial|website=24 Horas|date=17 March 2021|access-date=14 July 2021|language=es-CL|archive-date=23 March 2021|archive-url=https://web.archive.org/web/20210323025308/https://www.24horas.cl/politica/gabriel-boric-carta-presidencial-4696569|url-status=live}}</ref> The [[Commons (Chilean political party)|Commons]] Party's leadership also announced on 17 March 2021 that it would propose Boric as its presidential candidate in a meeting of the party's leadership the following Saturday.<ref>{{cite web|last=Caro|first=Isabel|url=https://www.latercera.com/la-tercera-pm/noticia/boric-presidenciable-directiva-de-comunes-llama-a-proclamarlo-antes-del-11-de-abril-y-a-ampliar-alianzas/5UCPQNXUERE7NKB6EMYAF5WRPQ/|title=Boric presidenciable: Directiva de Comunes llama a proclamarlo antes del 11 de abril y a ampliar alianzas|website=La Tercera|date=17 March 2021|access-date=14 July 2021|language=es-CL|archive-date=3 August 2021|archive-url=https://web.archive.org/web/20210803234354/https://www.latercera.com/la-tercera-pm/noticia/boric-presidenciable-directiva-de-comunes-llama-a-proclamarlo-antes-del-11-de-abril-y-a-ampliar-alianzas/5UCPQNXUERE7NKB6EMYAF5WRPQ/|url-status=live}}</ref> On 23 March 2021, [[Democratic Revolution]], the coalition's largest party, proclaimed Boric as its presidential candidate.<ref>{{cite web|url=https://www.emol.com/noticias/Nacional/2021/03/23/1015780/RD-proclama-Boric-candidato-presidencial.html|title=Consejo Político de RD decide proclamar a Gabriel Boric como su candidato presidencial &#124; Emol.com|first=B.|last=Osses|date=23 March 2021|access-date=14 July 2021|website=Emol|language=es-CL|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220201550/https://www.emol.com/noticias/Nacional/2021/03/23/1015780/RD-proclama-Boric-candidato-presidencial.html|url-status=live}}</ref> On 29 May 2021, the [[Common Force]] movement gave its support to Boric, after he beat Marcelo Díaz in a plebiscite held on May 27–28.<ref>{{cite web|url=https://www.elperiodista.cl/2021/03/fuerza-comun-concreta-apoyo-presidencial-a-gabriel-boric-como-abanderado-del-frente-amplio/|title=Fuerza Común concreta apoyo presidencial a Gabriel Boric como abanderado del Frente Amplio|website=El Periodista|date=29 March 2021|access-date=14 July 2021|language=es-CL|archive-date=22 May 2021|archive-url=https://web.archive.org/web/20210522002939/https://www.elperiodista.cl/2021/03/fuerza-comun-concreta-apoyo-presidencial-a-gabriel-boric-como-abanderado-del-frente-amplio/|url-status=live}}</ref> On 17 August 2021, the Acción Humanista movement proclaimed him as its candidate.<ref>{{Cite news|title=Acción Humanista proclama a Gabriel Boric como candidato presidencial|url=https://www.cnnchile.com/pais/accion-humanista-gabriel-boric-candidato-presidencial_20210817/|date=17 August 2021|access-date=23 August 2021|work=CNN Chile|language=es-CL|archive-date=23 August 2021|archive-url=https://web.archive.org/web/20210823145041/https://www.cnnchile.com/pais/accion-humanista-gabriel-boric-candidato-presidencial_20210817/|url-status=live}}</ref>
+
+====Defeated in primary====
+{{Main|2021 Chilean presidential primaries}}
+
+*'''[[Daniel Jadue]]''' ([[Communist Party of Chile|PC]]): Jadue is the mayor of [[Recoleta, Chile|Recoleta]] and a member of the Communist Party of Chile. He studied sociology at the [[University of Chile]], and also studied [[total quality management]] at the [[Catholic University of the North]].<ref>{{cite web|date=29 October 2020|title=Daniel Jadue – Daniel Jadue|url=https://www.danieljadue.cl/web/acerca-de/|access-date=10 December 2020|archive-url=https://web.archive.org/web/20201029134717/https://www.danieljadue.cl/web/acerca-de/|archive-date=29 October 2020}}</ref> He appeared as the candidate with the most support in several opinion polls.<ref>{{cite web|url=https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_OCTUBRE_2020.pdf|title=Post Plebiscito, Constituyentes, Presidenciales y Gobierno - Estudio Cuantitativo|website=TúInfluyes|date=October 2020|access-date=14 July 2021|language=es-CL|archive-date=11 November 2021|archive-url=https://web.archive.org/web/20211111152450/https://www.tuinfluyes.com/assets/estudios/ESTUDIO_TUINFLUYES_OCTUBRE_2020.pdf|url-status=live}}</ref><ref>{{cite web|title=Barómetro del trabajo|url=https://fielchile.cl/v2/barometro-del-trabajo/|website=Fundación Instituto de Estudios Laborales|access-date=14 February 2021|language=es|archive-date=26 February 2021|archive-url=https://web.archive.org/web/20210226185656/https://fielchile.cl/v2/barometro-del-trabajo/|url-status=live}}</ref><ref>{{cite web|url=https://www.criteria.cl/descargas/Agenda_Criteria_Agosto_2020_6y7fw.pdf|title=Agenda Criteria Agosto 2020|website=Criteria Chile|date=August 2020|access-date=14 July 2021|language=es-CL|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220201543/https://www.criteria.cl/descargas/Agenda_Criteria_Agosto_2020_6y7fw.pdf|url-status=live}}</ref>
+
+====Dropped out====
+
+*'''[[Marcelo Díaz Díaz|Marcelo Díaz]]''' ([[Unir Movement|Unir]]): In November 2020 the [[Unir Movement]] presented the deputy and former spokesman as pre-candidate.<ref name="auto1">{{cite web|last=Garrido|first=Mónica|url=https://www.latercera.com/politica/noticia/carrera-por-la-moneda-asi-quedo-el-abanico-presidencial-en-la-oposicion-tras-la-irrupcion-de-gabriel-boric/IZO7YE5Y2JHSDOG5JPJRCQUCHA/|title=Carrera por la Moneda: Así quedó el abanico presidencial en la oposición tras la irrupción de Gabriel Boric|website=La Tercera|date=18 March 2021|access-date=14 July 2021|language=es-CL|archive-date=22 March 2021|archive-url=https://web.archive.org/web/20210322013131/https://www.latercera.com/politica/noticia/carrera-por-la-moneda-asi-quedo-el-abanico-presidencial-en-la-oposicion-tras-la-irrupcion-de-gabriel-boric/IZO7YE5Y2JHSDOG5JPJRCQUCHA/|url-status=live}}</ref> On 18 May 2021 he dropped out of the race and lent his support to Boric.<ref>{{cite web|last1=Jara|first1=Alejandra|last2=Cáceres|first2=Felipe|last3=Garrido|first3=Mónica|url=https://www.latercera.com/politica/noticia/marcelo-diaz-baja-candidatura-presidencial-y-anuncia-apoyo-a-boric-estoy-convencido-que-es-posible-que-el-fa-lidere-el-proximo-gobierno/VJFABXEBJRGBXAFBAEBOR6HLVQ/|title=Marcelo Díaz baja candidatura presidencial y anuncia apoyo a Boric: "Estoy convencido de que es posible que el FA lidere el próximo gobierno"|date=18 May 2021|access-date=14 July 2021|website=La Tercera|language=es-CL|archive-date=19 May 2021|archive-url=https://web.archive.org/web/20210519174844/https://www.latercera.com/politica/noticia/marcelo-diaz-baja-candidatura-presidencial-y-anuncia-apoyo-a-boric-estoy-convencido-que-es-posible-que-el-fa-lidere-el-proximo-gobierno/VJFABXEBJRGBXAFBAEBOR6HLVQ/|url-status=live}}</ref>
+*'''[[Jaime Mulet]]''' ([[Social Green Regionalist Federation|FRVS]]): The current president of the FRVS and deputy was proclaimed as his party's presidential candidate in September 2020.<ref name="auto1" /> In May 2021, he received the support of the Christian Left movement.<ref>{{cite web|date=12 May 2021|title="Izquierda Cristiana se suma a la candidatura presidencial de Jaime Mulet y a trabajar por la unidad para todos los procesos venideros"|url=https://www.cronicadigital.cl/2021/05/12/izquierda-cristiana-se-suma-ala-candidatura-presidencial-de-jaime-mulet-y-a-trabajar-por-la-unidad-para-todos-los-procesos-venideros/|access-date=20 July 2021|website=Crónica Digital|language=es-CL|archive-date=19 July 2021|archive-url=https://web.archive.org/web/20210719085543/https://www.cronicadigital.cl/2021/05/12/izquierda-cristiana-se-suma-ala-candidatura-presidencial-de-jaime-mulet-y-a-trabajar-por-la-unidad-para-todos-los-procesos-venideros/|url-status=live}}</ref> On 8 July 2021, the FRVS chose to support the candidacy of Daniel Jadue.<ref>{{cite web|date=8 July 2021|title=FRVS oficializa apoyo a candidatura de Daniel Jadue en elecciones primarias|url=https://radio.uchile.cl/2021/07/08/frvs-oficializa-apoyo-a-candidatura-de-daniel-jadue-en-elecciones-primarias/|access-date=20 July 2021|website=Diario y Radio U Chile|language=es-CL|archive-date=19 July 2021|archive-url=https://web.archive.org/web/20210719184609/https://radio.uchile.cl/2021/07/08/frvs-oficializa-apoyo-a-candidatura-de-daniel-jadue-en-elecciones-primarias/|url-status=live}}</ref>
+{{Clear}}
+
+===Chile Podemos Más===
+{| class="wikitable" style="float:right; font-size:90%; text-align:center; margin:10px;"
+|-
+| style="background:#f1f1f1;" |[[File:Chile Podemos +.svg|150x120px|center]] '''{{lang|es|italic=no|[[Chile Vamos|Chile Podemos Más]]}}'''
+|-
+! style="font-size:120%; background:gold; width:200px;"|{{colored link|black|Sebastián Sichel}}<br /><small>{{colored link|black|Independent politician|(Independent)}}</small>
+|-
+| [[File:SEBASTIAN SICHEL 2019.jpg|center|200x200px|border]]
+|-
+| [[Ministry of Social Development (Chile)|Minister of Social Development]]<br /><small>(2019-2020)</small>
+|}
+The {{lang|es|italic=no|[[Chile Vamos|Chile Podemos Más]]}} center-right coalition (previously {{lang|es|italic=no|Chile Vamos}}) participated in the publicly-funded primaries held nationwide on 18 July 2021.<ref>{{cite web|url = https://www.latercera.com/politica/noticia/chile-vamos-inscribe-primarias-presidenciales-ante-el-servel-y-define-orden-de-sus-candidatos-en-la-papeleta-para-el-18-de-julio/B4VYNOJ7XNAUBKZBYWZSNHBPCU/|title = Chile Vamos inscribe primarias presidenciales ante el Servel y define orden de sus candidatos en la papeleta para el 18 de julio|website = La Tercera|date = 19 May 2021|access-date = 14 July 2021|language = es-CL|archive-date = 2 June 2021|archive-url = https://web.archive.org/web/20210602214424/https://www.latercera.com/politica/noticia/chile-vamos-inscribe-primarias-presidenciales-ante-el-servel-y-define-orden-de-sus-candidatos-en-la-papeleta-para-el-18-de-julio/B4VYNOJ7XNAUBKZBYWZSNHBPCU/|url-status = live}}</ref> Former minister [[Sebastián Sichel]] beat the other three candidates by 49% of the vote.<ref>{{cite web|url=https://www.bbc.com/mundo/noticias-america-latina-57883422|title=Elecciones en Chile: Gabriel Boric y Sebastián Sichel ganan las primarias y son los dos primeros candidatos que buscarán la presidencia en las elecciones de noviembre|date=18 July 2021|access-date=19 July 2021|website=BBC Mundo|language=es-CL|archive-date=19 July 2021|archive-url=https://web.archive.org/web/20210719001220/https://www.bbc.com/mundo/noticias-america-latina-57883422|url-status=live}}</ref>
+
+Sichel was minister of Social Development and president of [[Banco del Estado de Chile|BancoEstado]] during the second administration of President [[Sebastián Piñera]]. He participated as an independent candidate in the {{lang|es|italic=no|Chile Podemos Más}} primary, supported by former [[Christian Democratic Party (Chile)|PDC]] supporters and other centrist political movements.<ref>{{cite web|title=Sichel: "Soy candidato a presidente como independiente en la primaria de Chile Vamos"|url=https://www.cnnchile.com/pais/sebastian-sichel-candidato-independiente-primaria-chiela-vamos_20201220/|access-date=14 February 2021|website=CNN Chile|language=es|archive-date=7 February 2021|archive-url=https://web.archive.org/web/20210207052030/https://www.cnnchile.com/pais/sebastian-sichel-candidato-independiente-primaria-chiela-vamos_20201220/|url-status=live}}</ref>
+
+====Defeated in primary====
+{{Main|2021 Chilean presidential primaries}}
+*'''[[Ignacio Briones]]''' ([[Political Evolution|Evópoli]]): Briones is a university professor and economist who served as minister of Finance between 2019 and 2021. He was unanimously proclaimed by the [[Evópoli|Political Evolution]] party as their presidential candidate on 30 January 2021.<ref>{{cite web|date=30 January 2021|title=Evópoli proclama de forma unánime a Ignacio Briones como su precandidato presidencial|url=https://www.emol.com/noticias/Nacional/2021/01/30/1010839/Evopoli-Ignacio-Briones-candidato-presidencial.html|access-date=14 February 2021|website=Emol|language=Spanish|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220201545/https://www.emol.com/noticias/Nacional/2021/01/30/1010839/Evopoli-Ignacio-Briones-candidato-presidencial.html|url-status=live}}</ref> He describes himself as a [[social liberalism|social liberal]] and seeks to promote liberal policies, although he is against abortion.
+*'''[[Mario Desbordes]]''' ([[National Renewal (Chile)|RN]]): Desbordes became minister of Defense in July 2020. Before that, he was a member of the [[Chamber of Deputies of Chile|Chamber of Deputies]]. He was also president of his party between 2018 and 2020 and secretary-general between 2010 and 2018. During the first administration of President [[Sebastián Piñera]], he had a stint as undersecretary of Investigations. He was proclaimed by the [[Independent Regionalist Party|PRI]] party as their candidate on 29 December 2020.<ref>{{cite web|date=29 December 2020|title=PRI proclama a Mario Desbordes como su candidato presidencial para la primaria de Chile Vamos|url=https://www.emol.com/noticias/Nacional/2020/12/29/1007936/PRI-proclama-a-Desbordes.html|access-date=14 February 2021|website=Emol|language=es|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220201555/https://www.emol.com/noticias/Nacional/2020/12/29/1007936/PRI-proclama-a-Desbordes.html|url-status=live}}</ref> On 23 January 2021 his own party, RN, chose him as their contender for the {{lang|es|italic=no|Chile Vamos}} primary race after winning nearly 73% of the vote of the General Council.<ref>{{cite web|title=RN proclama a Mario Desbordes como su candidato presidencial|url=https://www.pauta.cl/politica/consejo-general-de-rn-proclama-a-mario-desbordes-como-presidenciable|access-date=14 February 2021|website=pauta|language=es-CL|archive-date=1 March 2021|archive-url=https://web.archive.org/web/20210301044134/https://www.pauta.cl/politica/consejo-general-de-rn-proclama-a-mario-desbordes-como-presidenciable|url-status=live}}</ref>
+*'''[[Joaquín Lavín]]''' ([[Independent Democratic Union|UDI]]): Lavín studied economics at the [[University of Chicago]]. He was a presidential candidate in the [[1999-2000 Chilean presidential election|1999]] and [[2005-06 Chilean presidential election|2005]] elections. He was also an economic appraiser of the [[Neoliberalism|neoliberal]] policies of Chile's [[Military dictatorship of Chile (1973–1990)|military dictatorship]]. As mayor of [[Las Condes]] he actively promoted social housing programs for the poor and social integration with the rest of the cities, as well as enlarged use of technology in law enforcement and moderate social policies.<ref>{{cite web|title=Primer enfrentamiento entre vecinos por edificio social en Las Condes|url=https://www.chvnoticias.cl/trending/primer-enfrentamiento-entre-vecinos-por-edificio-social-en-las-condes_20180710/|access-date=10 December 2020|website=CHV Noticias|language=es|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220201549/https://www.chvnoticias.cl/nacional/primer-enfrentamiento-entre-vecinos-por-edificio-social-en-las-condes_20180710/|url-status=live}}</ref> He appeared as the candidate with the most support in most opinion polls.<ref name="activa">{{cite web|date=November 2020|title=PULSO CIUDADANO Noviembre 2020/ Primera Quincena (12 al 14 de Noviembre)|url=https://chile.activasite.com/wp-content/uploads/2020/11/Pulso_ciudadano_NOVIEMBRE_Q1.pdf|url-status=live|archive-url=https://web.archive.org/web/20210714070719/https://chile.activasite.com/wp-content/uploads/2020/11/Pulso_ciudadano_NOVIEMBRE_Q1.pdf|archive-date=14 July 2021|access-date=14 July 2021|website=|language=es-CL}}</ref><ref>{{cite web|title=Encuesta Plaza Pública - Segunda semana de Noviembre - Estudio N°357|url=https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-357-Noviembre-S2.pdf|website=Plaza Pública Cadem|date=November 2020|access-date=14 July 2021|language=es-CL|archive-date=11 November 2021|archive-url=https://web.archive.org/web/20211111152451/https://plazapublica.cl/wp-content/uploads/2020/11/Track-PP-357-Noviembre-S2.pdf|url-status=live}}</ref><ref>{{cite web|date=October 2020|title=PULSO CIUDADANO Octubre 2020/ Segunda Quincena (29 al 31 de Octubre)|url=https://chile.activasite.com/wp-content/uploads/2020/11/Pulso_ciudadano_OCTUBRE_Q2.pdf|url-status=live|archive-url=https://web.archive.org/web/20210714070723/https://chile.activasite.com/wp-content/uploads/2020/11/Pulso_ciudadano_OCTUBRE_Q2.pdf|archive-date=14 July 2021|access-date=14 July 2021|website=|language=es-CL}}</ref><ref>{{cite web|date=September 2020|title=PULSO CIUDADANO Septiembre 2020/ Segunda Quincena (25 al 28 de Septiembre)|url=https://chile.activasite.com/wp-content/uploads/2020/09/Pulso-Ciudadano-Septiembre-Q2.pdf|url-status=live|archive-url=https://web.archive.org/web/20210714070728/https://chile.activasite.com/wp-content/uploads/2020/09/Pulso-Ciudadano-Septiembre-Q2.pdf|archive-date=14 July 2021|access-date=14 July 2021|website=|language=es-CL}}</ref>
+
+====Did not run====
+
+*'''[[Evelyn Matthei]]''' ([[Independent Democratic Union|UDI]]): Matthei is a right-wing politician. She studied at the [[Pontifical Catholic University of Chile]]. In 1993 she was the target of a [[Piñeragate|scheme]] by Sebastián Piñera to prevent her from becoming a candidate for the presidency that year.<ref>{{cite web|date=11 May 2012|title=La Tercera - El caso Piñeragate y la bomba que dejó caer Ricardo Claro sobre RN|url=http://www.latercera.cl/contenido/23_67488_9.shtml|website=La Tercera|access-date=10 December 2020|archive-url=https://web.archive.org/web/20120511071312/http://www.latercera.cl/contenido/23_67488_9.shtml|archive-date=11 May 2012|language=es-CL}}</ref> She was a senator<ref>{{cite web|url=https://www.latercera.com/noticia/politica/2013/07/674-533523-9-nueve-claves-que-han-marcado-la-carrera-politica-de-evelyn-matthei.shtml|title=Nueve hechos que han marcado la carrera política de Evelyn Matthei &#124; Política &#124; LA TERCERA|date=20 July 2013|archive-url=https://web.archive.org/web/20130720212600/https://www.latercera.com/noticia/politica/2013/07/674-533523-9-nueve-claves-que-han-marcado-la-carrera-politica-de-evelyn-matthei.shtml|website=La Tercera|archive-date=20 July 2013|language=es-CL}}</ref> and candidate in [[2013 Chilean general election|Chile's presidential elections in 2013]], losing to [[Michelle Bachelet]], the [[Socialist Party of Chile|Socialist]] candidate. She dropped out of the race on 17 May 2021, a day after being re-elected as mayor of [[Providencia, Chile|Providencia]].<ref>{{cite web|url=https://www.pauta.cl/politica/evelyn-matthei-se-baja-de-la-carrera-presidencial|title=Evelyn Matthei se baja de la carrera presidencial|last=Bobadilla|first=Matías|date=17 May 2021|access-date=14 July 2021|website=pauta|language=es-CL|archive-date=2 June 2021|archive-url=https://web.archive.org/web/20210602220028/https://www.pauta.cl/politica/evelyn-matthei-se-baja-de-la-carrera-presidencial|url-status=live}}</ref>
+
+===New Social Pact===
+{| class="wikitable" style="float:right; font-size:90%; text-align:center; margin:10px;"
+|-
+| style="background:#f1f1f1;" |[[File:Nuevo Pacto Social full.png|150x120px|center]] '''[[Constituent Unity|New Social Pact]]'''
+|-
+! style=" font-size:120%; background:purple; width:200px;"|{{colored link|white|Yasna Provoste}}<br /><small>{{colored link|white|Christian Democratic Party (Chile)|(Christian Democratic Party)}}</small>
+|-
+| [[File:Yasna Provoste Campillai (2021) (cropped).jpg|center|200x200px|border]]
+|-
+| [[Senate of Chile|Senator]] for [[Atacama Region|Atacama]]<br /><small>(since 2018)</small><br /> [[President of the Senate of Chile|President of the Senate]]<br /><small>(2021)</small>
+|}
+[[Christian Democratic Party (Chile)|Christian Democrat]] Senator [[Yasna Provoste]] won the primary election held by the [[Constituent Unity|New Social Pact]] center-left coalition (formerly Constituent Unity) on August 21, 2021, with over 60% of the vote and a turnout of around 150,000.<ref>{{Cite news |date=21 August 2021 |title=Con escasa participación, Provoste (DC) se convierte en la abanderada de Unidad Constituyente |language=es-CL |work=La Tercera |url=https://www.latercera.com/la-tercera-domingo/noticia/con-escasa-participacion-provoste-dc-se-convierte-en-la-abanderada-de-unidad-constituyente/I4CHJ6BPIRCLVL7BTM5WN2SYI4/ |url-status=live |access-date=23 August 2021 |archive-url=https://web.archive.org/web/20210823002506/https://www.latercera.com/la-tercera-domingo/noticia/con-escasa-participacion-provoste-dc-se-convierte-en-la-abanderada-de-unidad-constituyente/I4CHJ6BPIRCLVL7BTM5WN2SYI4/ |archive-date=23 August 2021}}</ref> On May 30, 2021, Provoste had expressed her willingness to compete if her party deemed it necessary.<ref>{{cite web |last=Dote |first=Sebastián |date=30 May 2021 |title=Yasna Provoste: "Estaré disponible para lo que la DC estime que sea necesario" |url=https://www.eldinamo.cl/politica/2021/05/30/yasna-provoste-estare-disponible-para-lo-que-la-dc-estime-que-sea-necesario/ |url-status=live |archive-url=https://web.archive.org/web/20210608071816/https://www.eldinamo.cl/politica/2021/05/30/yasna-provoste-estare-disponible-para-lo-que-la-dc-estime-que-sea-necesario/ |archive-date=8 June 2021 |access-date=14 July 2021 |website=El Dínamo |language=es-CL}}</ref> She officially launched her candidacy on July 23, 2021, during a ceremony in her hometown of [[Vallenar]], in northern Chile. On August 17, 2021, the Christian Democratic Party proclaimed her as their candidate.<ref>{{Cite news |last=Cáceres |first=Felipe |date=17 August 2021 |title=Junta nacional DC proclama formalmente a Yasna Provoste como su candidata presidencial |language=es-CL |work=La Tercera |url=https://www.latercera.com/politica/noticia/junta-nacional-dc-proclama-formalmente-a-yasna-provoste-como-su-candidata-presidencial/FEZFMT2FX5B45GZAXR6MAFLXM4/ |url-status=live |access-date=23 August 2021 |archive-url=https://web.archive.org/web/20210823144606/https://www.latercera.com/politica/noticia/junta-nacional-dc-proclama-formalmente-a-yasna-provoste-como-su-candidata-presidencial/FEZFMT2FX5B45GZAXR6MAFLXM4/ |archive-date=23 August 2021}}</ref>
+
+The other primary candidates, Paula Narváez and Carlos Maldonado, urged the need for a primary to determine a single candidate<ref>{{cite web |last=Reyes P. |first=Carlos |date=19 July 2021 |title=Narváez urge a la Unidad Constituyente y al progresismo a establecer candidatura única: "No hay más tiempo para estas definiciones y temo que de no tomarlas, el proceso sea irreversible" |url=https://www.latercera.com/politica/noticia/narvaez-urge-a-la-unidad-constituyente-y-al-progresismo-a-establecer-candidatura-unica-no-hay-mas-tiempo-para-estas-definiciones-y-temo-que-de-no-tomarlas-el-proceso-sea-irreversible/2P6ZVMJ7Y5ARZBQAEJ4WWZPCYU/ |url-status=live |archive-url=https://web.archive.org/web/20210719214648/https://www.latercera.com/politica/noticia/narvaez-urge-a-la-unidad-constituyente-y-al-progresismo-a-establecer-candidatura-unica-no-hay-mas-tiempo-para-estas-definiciones-y-temo-que-de-no-tomarlas-el-proceso-sea-irreversible/2P6ZVMJ7Y5ARZBQAEJ4WWZPCYU/ |archive-date=19 July 2021 |access-date=20 July 2021 |website=La Tercera |language=es-CL}}</ref><ref>{{cite web |date=17 July 2021 |title=Carlos Maldonado insiste en primarias ciudadanas de Unidad Constituyente: "Es mucho mejor que una nominación entre cuatro paredes" |url=https://www.eldesconcierto.cl/nacional/2021/07/17/carlos-maldonado-insiste-en-primarias-ciudadanas-de-unidad-constituyente-es-mucho-mejor-que-una-nominacion-entre-cuatro-paredes.html |url-status=live |archive-url=https://web.archive.org/web/20210720050121/https://www.eldesconcierto.cl/nacional/2021/07/17/carlos-maldonado-insiste-en-primarias-ciudadanas-de-unidad-constituyente-es-mucho-mejor-que-una-nominacion-entre-cuatro-paredes.html |archive-date=20 July 2021 |access-date=20 July 2021 |website=El Desconcierto |language=es-CL}}</ref> after the coalition failed to come to an agreement to participate in the national publicly-funded primaries held on July 18, 2021.<ref>{{cite web |date=19 May 2021 |title=Partido Socialista resuelve no inscribir a Paula Narváez a primarias con el PC y el Frente Amplio |url=https://www.t13.cl/noticia/elecciones-2021/politica/partido-socialista-resuelve-no-inscribir-paula-narvaez-primarias-unidad-constituyente |url-status=live |archive-url=https://web.archive.org/web/20210712041701/https://www.t13.cl/noticia/elecciones-2021/politica/partido-socialista-resuelve-no-inscribir-paula-narvaez-primarias-unidad-constituyente |archive-date=12 July 2021 |access-date=14 July 2021 |website=Tele13 |language=es-CL}}</ref> 
+
+==== Defeated in primary ====
+*'''[[Carlos Maldonado Curti|Carlos Maldonado]]''' ([[Radical Party (Chile)|PR]]): The former minister of Justice and current president of the [[Radical Party (Chile)|Radical Party]] was proclaimed as presidential candidate on 23 December 2020.<ref>{{cite web|last=Osses|first=B.|date=23 December 2020|title=Consejo General del PR proclama a Maldonado como candidato presidencial: "Asumo esta responsabilidad con convicción" {{!}} Emol.com|url=https://www.emol.com/noticias/Nacional/2020/12/23/1007423/PR-Carlos-Maldonado-candidato-presidencial.html|access-date=14 February 2021|website=Emol|language=Spanish|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220203516/https://www.emol.com/noticias/Nacional/2020/12/23/1007423/PR-Carlos-Maldonado-candidato-presidencial.html|url-status=live}}</ref> On 20 May 2021 he announced he would go straight to the November election.<ref>{{cite web|url=https://www.t13.cl/noticia/elecciones-2021/politica/carlos-maldonado-asegura-llegara-primera-vuelta-presidencial-20-05-21|title=Carlos Maldonado asegura que llegará a primera vuelta y dice que "faltó voluntad" por primarias|website=Tele13|language=Spanish|date=2021-05-20|access-date=2 June 2021|archive-date=21 May 2021|archive-url=https://web.archive.org/web/20210521111900/https://www.t13.cl/noticia/elecciones-2021/politica/carlos-maldonado-asegura-llegara-primera-vuelta-presidencial-20-05-21|url-status=live}}</ref> On July 3, 2021, he backtracked on his decision and declared himself available to compete in a possible coalition primary.<ref>{{cite web|last=Vallejos|first=Leonardo|url=https://www.emol.com/noticias/Nacional/2021/07/03/1025639/maldonado-pr-primaria-centroizquierda.html|title=Carlos Maldonado se retracta y ahora confirma intención de ir a primaria convencional de la centroizquierda|website=Emol|date=3 July 2021|language=es-CL|access-date=19 July 2021|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220203519/https://www.emol.com/noticias/Nacional/2021/07/03/1025639/maldonado-pr-primaria-centroizquierda.html|url-status=live}}</ref>
+*'''[[Paula Narváez]]''' ([[Socialist Party of Chile|PS]]): The former minister was proclaimed by the [[Socialist Party of Chile|Socialist Party]]'s Central Committee as its presidential candidate on 28 January 2021 in a unanimous vote.<ref>{{cite web|last=Reyes P.|first=Carlos|date=28 January 2021|title=Partido Socialista proclama de forma unánime a Paula Narváez como su candidata presidencial: "Sé que estaremos a la altura del desafío de este nuevo Chile que emerge"|url=https://www.latercera.com/politica/noticia/partido-socialista-proclama-a-paula-narvaez-como-su-candidata-presidencial-se-que-estaremos-a-la-altura-del-desafio-de-este-nuevo-chile-que-emerge/76MLYGRB45BFZKTFTM3TKNIODQ/|access-date=14 February 2021|website=La Tercera|language=es-CL|archive-date=29 January 2021|archive-url=https://web.archive.org/web/20210129212000/https://www.latercera.com/politica/noticia/partido-socialista-proclama-a-paula-narvaez-como-su-candidata-presidencial-se-que-estaremos-a-la-altura-del-desafio-de-este-nuevo-chile-que-emerge/76MLYGRB45BFZKTFTM3TKNIODQ/|url-status=live}}</ref> Her candidacy emerged after a December 2020 [[Change.org]] petition made by female members of the PS asking Narváez to become the party's candidate was signed by former president [[Michelle Bachelet]].<ref>{{cite web|title=Con la venia de Bachelet: ¿Cómo Paula Narváez mueve las aguas presidenciales en el PS?|url=https://www.pauta.cl/politica/con-la-venia-de-bachelet-como-paula-narvaez-mueve-las-aguas|access-date=14 February 2021|website=pauta|language=es-CL|archive-date=7 February 2021|archive-url=https://web.archive.org/web/20210207110901/https://www.pauta.cl/politica/con-la-venia-de-bachelet-como-paula-narvaez-mueve-las-aguas|url-status=live}}</ref> In January 2021 both senator [[José Miguel Insulza]] and PS president [[Álvaro Elizalde]] dropped out of the race.<ref>{{cite web|date=16 January 2021|title=Vía libre para Narváez en el PS: Insulza asume cuota de realidad y se baja de la carrera presidencial|url=https://www.elmostrador.cl/destacado/2021/01/16/via-libre-para-narvaez-en-el-ps-insulza-asume-cuota-de-realidad-y-se-baja-de-la-carrera-presidencial/|access-date=14 February 2021|website=El Mostrador|language=es|archive-date=7 February 2021|archive-url=https://web.archive.org/web/20210207124603/https://www.elmostrador.cl/destacado/2021/01/16/via-libre-para-narvaez-en-el-ps-insulza-asume-cuota-de-realidad-y-se-baja-de-la-carrera-presidencial/|url-status=live}}</ref> On 5 June 2021 the PPD officially proclaimed her as its candidate.<ref>{{cite web|url=https://www.latercera.com/politica/noticia/ppd-proclama-a-paula-narvaez-como-su-candidata-presidencial-lo-vemos-como-un-paso-muy-importante-para-unir-al-socialismo-democratico/Z336GHTXDBGG7PNS4AY63OAKHQ/|title=PPD proclama a Paula Narváez como su candidata presidencial: "Lo vemos como un paso muy importante para unir al socialismo democrático"|first=Claudia|last=Cornejo|date=5 June 2021|website=La Tercera|language=es-CL|access-date=5 June 2021|archive-date=5 June 2021|archive-url=https://web.archive.org/web/20210605202932/https://www.latercera.com/politica/noticia/ppd-proclama-a-paula-narvaez-como-su-candidata-presidencial-lo-vemos-como-un-paso-muy-importante-para-unir-al-socialismo-democratico/Z336GHTXDBGG7PNS4AY63OAKHQ/|url-status=live}}</ref>
+
+====Dropped out====
+
+*'''[[Heraldo Muñoz]]''' ([[Party for Democracy (Chile)|PPD]]): The current president of the [[Party for Democracy (Chile)|PPD]] and former [[Ministry of Foreign Affairs (Chile)|minister of Foreign Affairs]] became the PPD candidate after beating former [[Ministry of the Interior and Public Security (Chile)|minister of Interior]] and [[Ministry General Secretariat of Government (Chile)|spokesperson]] [[Francisco Vidal Salinas|Francisco Vidal]] and former deputy for District 39 and ambassador [[Jorge Tarud]] by 54% of the vote in a primary held on 31 January 2021.<ref>{{cite web|last=Minay|first=Sebastián|date=1 February 2021|title=Heraldo Muñoz vence a Vidal en primarias presidenciales del PPD luego de conflictivo proceso|url=https://www.latercera.com/politica/noticia/heraldo-munoz-vence-a-vidal-en-primarias-presidenciales-del-ppd-luego-de-conflictivo-proceso/2WOSTEFGGFCHRA27ZDWBOYEO2Q/|access-date=14 February 2021|website=La Tercera|language=es-CL|archive-date=5 February 2021|archive-url=https://web.archive.org/web/20210205172250/https://www.latercera.com/politica/noticia/heraldo-munoz-vence-a-vidal-en-primarias-presidenciales-del-ppd-luego-de-conflictivo-proceso/2WOSTEFGGFCHRA27ZDWBOYEO2Q/|url-status=live}}</ref> On 19 May 2021 he dropped out of the race and lent his support to Narváez.<ref>{{cite web|url=https://www.elmostrador.cl/dia/2021/05/19/heraldo-munoz-se-baja-de-la-carrera-presidencial-y-entrega-apoyo-a-paula-narvaez-su-candidatura-ahora-es-la-nuestra/|title=Heraldo Muñoz se baja de la carrera presidencial y entrega apoyo a Paula Narváez: "Su candidatura ahora es la nuestra"|website=El Mostrador|date=19 May 2021|access-date=14 July 2021|language=es-CL|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220203521/https://www.elmostrador.cl/dia/2021/05/19/heraldo-munoz-se-baja-de-la-carrera-presidencial-y-entrega-apoyo-a-paula-narvaez-su-candidatura-ahora-es-la-nuestra/|url-status=live}}</ref>
+*'''[[Ximena Rincón]]''' ([[Christian Democratic Party (Chile)|PDC]]): The current senator was proclaimed as the [[Christian Democratic Party (Chile)|Christian Democratic Party]]'s candidate for president after she beat former mayor and minister [[Alberto Undurraga]] in a primary held on 24 January 2021. She won by 57% of the vote.<ref>{{cite web|title=Ximena Rincón gana las primarias presidenciales DC|url=https://www.pauta.cl/politica/ximena-rincon-primarias-presidenciales-dc-triunfo|access-date=14 February 2021|website=pauta|language=es-CL|archive-date=26 January 2021|archive-url=https://web.archive.org/web/20210126043746/https://www.pauta.cl/politica/ximena-rincon-primarias-presidenciales-dc-triunfo|url-status=live}}</ref> She officially dropped out of the race on 2 June 2021.<ref>{{cite web|url=https://www.publimetro.cl/cl/noticias/2021/06/02/ximena-rincon-candidata.html|title=Ximena Rincón se baja definitivamente de la carrera presidencial: "No seré candidata"|website=Publimetro|date=2 June 2021|access-date=14 July 2021|language=es-CL|archive-date=2 June 2021|archive-url=https://web.archive.org/web/20210602234738/https://www.publimetro.cl/cl/noticias/2021/06/02/ximena-rincon-candidata.html|url-status=live}}</ref>
+*'''[[Pablo Vidal]]''' ([[independent politician]]): The deputy quit the [[Democratic Revolution]] party in December 2020 and founded the New Deal ({{lang|es|Nuevo Trato}}) political platform.<ref>{{cite web|url=https://radio.uchile.cl/2020/12/03/diputados-pablo-vidal-y-natalia-castillo-renuncian-a-rd-acusando-izquierdizacion-de-la-colectividad/|title=Diputados Pablo Vidal y Natalia Castillo renuncian a RD acusando izquierdización de la colectividad « Diario y Radio U Chile|website=Diario y Radio [[University of Chile|U Chile]]|date=3 December 2021|access-date=14 July 2021|language=es-CL|archive-date=1 June 2021|archive-url=https://web.archive.org/web/20210601185758/https://radio.uchile.cl/2020/12/03/diputados-pablo-vidal-y-natalia-castillo-renuncian-a-rd-acusando-izquierdizacion-de-la-colectividad/|url-status=live}}</ref> On 13 April 2021, he was proclaimed as presidential candidate by the [[Liberal Party of Chile (2013)|Liberal Party]] and New Deal.<ref>{{cite web|last=Jara|first=Alejandra|url=https://www.latercera.com/politica/noticia/partido-liberal-y-nuevo-trato-proclaman-a-pablo-vidal-como-su-candidato-presidencial/L2YA4ABCKJCF3K42O5TPQ5XSLE/|title=Partido Liberal y Nuevo Trato proclaman a Pablo Vidal como su candidato presidencial|website=La Tercera|date=14 April 2021|access-date=14 July 2021|language=es-CL|archive-date=13 May 2021|archive-url=https://web.archive.org/web/20210513065334/https://www.latercera.com/politica/noticia/partido-liberal-y-nuevo-trato-proclaman-a-pablo-vidal-como-su-candidato-presidencial/L2YA4ABCKJCF3K42O5TPQ5XSLE/|url-status=live}}</ref> On 19 May 2021 he dropped out of the race and lent his support to Narváez.<ref>{{cite web|url=https://www.elmostrador.cl/dia/2021/05/19/nuevo-trato-baja-candidatura-de-pablo-vidal-y-entrega-apoyo-a-la-postulante-del-ps-paula-narvaez/|title=Nuevo Trato baja candidatura de Pablo Vidal y entrega apoyo a la postulante del PS Paula Narváez|website=El Mostrador|date=19 May 2021|access-date=14 July 2021|language=es-CL|archive-date=6 June 2021|archive-url=https://web.archive.org/web/20210606152402/https://www.elmostrador.cl/dia/2021/05/19/nuevo-trato-baja-candidatura-de-pablo-vidal-y-entrega-apoyo-a-la-postulante-del-ps-paula-narvaez/|url-status=live}}</ref>
+
+===Christian Social Front===
+{| class="wikitable" style="float:right; font-size:90%; text-align:center; margin:10px;"
+|-
+| style="background:#f1f1f1;" |[[File:Frente Social Cristiano.svg|150x120px|center]] '''[[Christian Social Front]]'''
+|-
+! style="color:#000; font-size:100%; background:#2A58A6; width:200px;"|{{colored link|white|José Antonio Kast}}<br /><small>{{colored link|white|Republican Party (Chile, 2019)|(Chilean Republican Party)}}</small>
+|-
+| [[File:José Antonio Kast (2009) 4x3 cropped.jpg|center|200x200px|border]]
+|-
+| [[Chamber of Deputies of Chile|Deputy]] for [[La Reina, Chile|La Reina]] and [[Peñalolén]]<br /><small>(2002–2018)</small>
+|}
+In May 2021, [[José Antonio Kast]] dismissed the idea of holding a presidential primary with Chile Vamos.<ref>{{cite web|last=Vallejos|first=Leonardo|date=23 May 2021|title=Chile Vamos se debate entre seguir o no en pacto con el Partido Republicano de cara a las próximas elecciones|url=https://www.emol.com/noticias/Nacional/2021/05/23/1021651/Chile-Vamos-Republicano-pacto.html|access-date=11 August 2021|website=Emol|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220203518/https://www.emol.com/noticias/Nacional/2021/05/23/1021651/Chile-Vamos-Republicano-pacto.html|url-status=live}}</ref><ref>{{cite web|last=Soto|first=Ximena|date=18 July 2021|title=J.A. Kast o la otra incógnita pendiente de la derecha: su partido dice que llega a noviembre "sí o sí"|url=https://www.latercera.com/la-tercera-pm/noticia/ja-kast-o-la-otra-incognita-pendiente-de-la-derecha-su-partido-dice-que-llega-a-noviembre-si-o-si/5PYMFLC6ZVFARH4VZJ2FHXSEBU/|access-date=11 August 2021|website=La Tercera|archive-date=11 August 2021|archive-url=https://web.archive.org/web/20210811041555/https://www.latercera.com/la-tercera-pm/noticia/ja-kast-o-la-otra-incognita-pendiente-de-la-derecha-su-partido-dice-que-llega-a-noviembre-si-o-si/5PYMFLC6ZVFARH4VZJ2FHXSEBU/|url-status=live}}</ref><ref>{{cite web|last=Valenzuela|first=Paula|date=2 August 2021|title=Chile Vamos y el Partido Republicano mueven sus fichas para la batalla del emblemático distrito 11|url=https://www.t13.cl/noticia/politica/chile-vamos-y-partido-republicano-mueven-sus-fichas-batalla-del-emblematico-distrito-11|access-date=11 August 2021|website=T13|archive-date=11 August 2021|archive-url=https://web.archive.org/web/20210811041556/https://www.t13.cl/noticia/politica/chile-vamos-y-partido-republicano-mueven-sus-fichas-batalla-del-emblematico-distrito-11|url-status=live}}</ref> On August 6, 2021, the [[Christian Conservative Party (Chile)|Christian Conservative Party]], along with the Republican Party and other independents, registered the Christian Social Front pact with the Electoral Service for the parliamentary elections in November.<ref>{{cite web|last=Claro|first=Hernán|date=6 August 2021|title=Partido Republicano inscribe pacto parlamentario Frente Social Cristiano|url=https://www.eldinamo.cl/entretencion/2023/01/31/amparo-noguera-aseguro-que-van-a-llorar-con-el-final-de-la-ley-de-baltazar/|access-date=7 August 2021|website=El Dínamo|archive-date=6 August 2021|archive-url=https://web.archive.org/web/20210806220022/https://www.eldinamo.cl/politica/2021/08/06/partido-republicano-inscribe-pacto-parlamentario-frente-social-cristiano/amp/|url-status=live}}</ref><ref name="mostrador">{{cite web|date=6 August 2021|title=Frente Social Cristiano, el nuevo pacto parlamentario conformado por el partido de José Antonio Kast para competir en elecciones|url=https://www.elmostrador.cl/elecciones-2021/2021/08/06/frente-social-cristiano-el-nuevo-pacto-parlamentario-conformado-por-el-partido-de-jose-antonio-kast-para-competir-en-elecciones/|access-date=7 August 2021|website=El Mostrador|archive-date=7 August 2021|archive-url=https://web.archive.org/web/20210807031242/https://www.elmostrador.cl/elecciones-2021/2021/08/06/frente-social-cristiano-el-nuevo-pacto-parlamentario-conformado-por-el-partido-de-jose-antonio-kast-para-competir-en-elecciones/|url-status=live}}</ref> Kast officially registered his candidacy before the Electoral Service on 19 August 2021.<ref>{{cite web|title=José Antonio Kast: "Estoy preparándome para una primera vuelta presidencial"|url=https://www.cnnchile.com/lodijeronencnn/jose-antonio-kast-se-prepara-primera-vuelta-presidencial_20210119/|date=19 January 2021|access-date=14 February 2021|website=CNN Chile|language=es|archive-date=26 January 2021|archive-url=https://web.archive.org/web/20210126081938/https://www.cnnchile.com/lodijeronencnn/jose-antonio-kast-se-prepara-primera-vuelta-presidencial_20210119/|url-status=live}}</ref><ref>{{Cite news|title=Culmina declaración de candidaturas para las Elecciones Generales de noviembre|url=https://www.servel.cl/culmina-declaracion-de-candidaturas-para-las-elecciones-generales-de-noviembre/|date=23 August 2021|access-date=14 August 2021|work=Servicio Electoral de Chile|language=es-CL|archive-date=24 August 2021|archive-url=https://web.archive.org/web/20210824045045/https://www.servel.cl/culmina-declaracion-de-candidaturas-para-las-elecciones-generales-de-noviembre/|url-status=live}}</ref>
+
+=== Other candidates ===
+<gallery mode="packed" heights="160">
+File:Eduardo Artés 2021 - 7 de octubre (cropped).jpg|{{center|<small>[[Patriotic Union (Chile)|UP]] President</small><br />'''[[Eduardo Artés]]'''<br /><small>([[Patriotic Union (Chile)|UP]])</small>}}
+File:Marco Enríquez-Ominami 2018 (4x3).jpg|{{center|<small>PRO leader</small><br />'''[[Marco Enríquez-Ominami|Marco Enríquez-O.]]'''<br /><small>([[Progressive Party (Chile)|PRO]])</small>}}
+File:Franco Parisi.png|{{center|<small>[[Party of the People (Chile)|PDG]] leader</small><br />'''[[Franco Parisi]]'''<br /><small>([[Party of the People (Chile)|PDG]])</small>}} 
+</gallery>
+*'''[[Eduardo Artés]]''' ([[Patriotic Union (Chile)|UP]]): The current president of the UP was confirmed by his party as its presidential candidate in June 2021.<ref>{{cite web|last=Estay Elgueta|first=Mario|url=https://www.infogate.cl/2021/06/20/union-patriotica-ratifica-a-eduardo-artes-como-candidato-presidencial-y-propone-ff-aa-integradas-a-la-produccion/|archive-url=https://web.archive.org/web/20210620125611/https://www.infogate.cl/2021/06/20/union-patriotica-ratifica-a-eduardo-artes-como-candidato-presidencial-y-propone-ff-aa-integradas-a-la-produccion/|title=Unión Patriótica ratifica a Eduardo Artés como candidato presidencial y propone FF.AA. "integradas a la producción"|website=Infogate|date=20 June 2021|archive-date=20 June 2021|language=es-CL}}</ref>
+*'''[[Marco Enríquez-Ominami]]''' ([[Progressive Party (Chile)|PRO]]): In February 2021, his party asked the three-time presidential candidate to be once again their contender for the November 2021 election.<ref>{{cite web|url=https://www.progresistas.cl/partido-progresista-pide-a-marco-enriquez-ominami-que-sea-el-candidato-de-la-coalicion-para-las-primarias-presidenciales-de-los-partidos-de-izquierda/|title=Partido Progresista pide a Marco Enríquez-Ominami que sea el candidato de la coalición para las primarias presidenciales de los partidos de izquierda|publisher=[[Progressive Party (Chile)|Partido Progresista de Chile]]|date=2 February 2021|access-date=20 July 2021|language=es-CL|archive-date=20 July 2021|archive-url=https://web.archive.org/web/20210720050118/https://www.progresistas.cl/partido-progresista-pide-a-marco-enriquez-ominami-que-sea-el-candidato-de-la-coalicion-para-las-primarias-presidenciales-de-los-partidos-de-izquierda/|url-status=live}}</ref> On 23 July PRO's president, Camilo Lagos, said they would either participate in a primary or present a candidate directly to the November election. If their preferred choice, Enríquez-Ominami, was unable to run due legal restrictions, he stated that they would support senator [[Alejandro Guillier]] as their candidate.<ref>{{cite web|url=https://www.elmostrador.cl/elecciones-2021/2021/07/23/pro-quiere-estar-en-la-papeleta-presidencial-de-noviembre-y-baraja-dos-nombres-me-o-y-el-senador-alejandro-guillier/|title=PRO quiere estar en la papeleta presidencial de noviembre y baraja dos nombres: ME-O y el senador Alejandro Guillier|website=[[El Mostrador]]|date=23 July 2021|access-date=27 July 2021|language=es-CL|archive-date=27 July 2021|archive-url=https://web.archive.org/web/20210727054227/https://www.elmostrador.cl/elecciones-2021/2021/07/23/pro-quiere-estar-en-la-papeleta-presidencial-de-noviembre-y-baraja-dos-nombres-me-o-y-el-senador-alejandro-guillier/|url-status=live}}</ref> On 26 July 2021 the PRO declared they would not participate in the Constituent Unity primary to take place on 21 August 2021.<ref>{{cite web|last=Dote|first=Sebastián|url=https://www.eldinamo.cl/politica/2021/07/26/pro-no-participara-de-la-consulta-ciudadana-de-unidad-constituyente/|title=PRO no participará de la consulta ciudadana de Unidad Constituyente|website=El Dínamo|date=26 July 2021|access-date=27 July 2021|language=es-CL|archive-date=26 July 2021|archive-url=https://web.archive.org/web/20210726233615/https://www.eldinamo.cl/politica/2021/07/26/pro-no-participara-de-la-consulta-ciudadana-de-unidad-constituyente/|url-status=live}}</ref> On 4 September 2021 a regional electoral tribunal (TER) ordered his name to be removed from the electoral roll, thus disqualifying him from seeking office.<ref>{{Cite news|title=Marco Enríquez-Ominami queda fuera de la presidencial por caso OAS: líder del PRO lo calificó de "injusto y arbitrario" y anunció apelación|url=https://www.elmostrador.cl/elecciones-2021/2021/09/04/marco-enriquez-ominami-quedo-fuera-de-la-presidencial-por-caso-oas-su-defensa-apelara-ante-el-tricel/|date=2021-09-04|access-date=2021-09-05|work=El Mostrador|language=es-CL|archive-date=5 September 2021|archive-url=https://web.archive.org/web/20210905084450/https://www.elmostrador.cl/elecciones-2021/2021/09/04/marco-enriquez-ominami-quedo-fuera-de-la-presidencial-por-caso-oas-su-defensa-apelara-ante-el-tricel/|url-status=live}}</ref> However, he appealed successfully to the Election Certification Board (Tricel).<ref>{{Cite news|title=Cuarta aventura por La Moneda: Tricel confirma que Marco Enríquez-Ominami podrá estar en la papeleta presidencial de noviembre|url=https://www.latercera.com/politica/noticia/cuarta-aventura-por-la-moneda-tricel-confirma-que-marco-enriquez-ominami-podra-estar-en-la-papeleta-presidencial-de-noviembre/PG547MBJERER7OQ43DZ6UQVNKY/|date=2021-09-10|access-date=2021-09-11|work=La Tercera|language=es-CL|archive-date=11 September 2021|archive-url=https://web.archive.org/web/20210911070628/https://www.latercera.com/politica/noticia/cuarta-aventura-por-la-moneda-tricel-confirma-que-marco-enriquez-ominami-podra-estar-en-la-papeleta-presidencial-de-noviembre/PG547MBJERER7OQ43DZ6UQVNKY/|url-status=live}}</ref>
+*'''[[Franco Parisi]]''' ([[Party of the People (Chile)|PDG]]): Parisi is an economist who ran for president in 2013, gaining 10% of the vote. He registered his candidacy for president on 23 August 2021.<ref>{{Cite news|title=Partido de la Gente inscribió candidatura presidencial de Franco Parisi|url=https://www.t13.cl/noticia/elecciones-2021/politica/franco-parisi-inscribe-su-candidatura-presidencial-servel|date=23 August 2021|access-date=24 August 2021|work=T13|language=es-CL|archive-date=24 August 2021|archive-url=https://web.archive.org/web/20210824003148/https://www.t13.cl/noticia/elecciones-2021/politica/franco-parisi-inscribe-su-candidatura-presidencial-servel|url-status=live}}</ref>
+
+===Rejected ===
+*'''[[Diego Ancalao]]''' (independent): Ancalao is a [[Mapuche]] activist. He was proclaimed on 20 August 2021 by the [[The List of the People|List of the People]], a leftist movement, after he garnered more endorsements from independent electors at the Electoral Service's online platform than the other two candidates in competition, Soledad Mella and Ingrid Conejeros, between 12 and 19 August 2021.<ref>{{Cite news|title=Quién es Diego Ancalao, el presidenciable de la Lista del Pueblo que juntó las firmas exigidas por el Servel horas antes de que expirara el plazo|url=https://www.ex-ante.cl/quien-es-diego-ancalao-el-candidato-presidencial-de-la-lista-del-pueblo-que-aun-no-reune-las-firmas-ante-el-servel/|date=20 August 2021|access-date=24 August 2021|work=[[Ex-Ante (online newspaper)|Ex-Ante]]|language=es-CL|archive-date=24 August 2021|archive-url=https://web.archive.org/web/20210824022314/https://www.ex-ante.cl/quien-es-diego-ancalao-el-candidato-presidencial-de-la-lista-del-pueblo-que-aun-no-reune-las-firmas-ante-el-servel/|url-status=live}}</ref><ref>{{Cite news|title=Lista del Pueblo proclama a Diego Ancalao como candidato presidencial: Aún no tiene todas las firmas|url=https://www.emol.com/noticias/Nacional/2021/08/20/1030240/lista-del-pueblo-ancalao-presidencial.html|last=Aton|date=20 August 2021|access-date=24 August 2021|work=Emol|editor-last=Marín|editor-first=V.|language=es-CL|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220201550/https://www.emol.com/noticias/Nacional/2021/08/20/1030240/lista-del-pueblo-ancalao-presidencial.html|url-status=live}}</ref> The Electoral Service, though, rejected his candidacy on 26 August 2021 on the grounds he did not provide the required minimum number of endorsements from independent electors.<ref name="LT 2021-08-26">{{Cite news|title=Dos candidatos menos: Servel denuncia ante Fiscalía firmas falsificadas en candidatura de Diego Ancalao y también rechaza postulación de Gino Lorenzini|url=https://www.latercera.com/politica/noticia/servel-rechaza-candidaturas-de-gino-lorenzini-ind-y-diego-ancalao-ldp-y-los-deja-fuera-de-la-carrera-presidencial/BA27E44KDZFQLKLGJVHMB4SOJI/|last1=Reyes P.|first1=Carlos|date=2021-08-26|access-date=2021-08-27|work=La Tercera|last2=Garrido|first2=Mónica|language=es-CL|archive-date=27 August 2021|archive-url=https://web.archive.org/web/20210827051434/https://www.latercera.com/politica/noticia/servel-rechaza-candidaturas-de-gino-lorenzini-ind-y-diego-ancalao-ldp-y-los-deja-fuera-de-la-carrera-presidencial/BA27E44KDZFQLKLGJVHMB4SOJI/|url-status=live}}</ref>
+*'''[[Gino Lorenzini]]''' (independent): Lorenzini is an economist and entrepreneur. He registered his candidacy for president on 23 August 2021, presenting over 42 thousand endorsements from independent electors, more than the minimum required by law.<ref>{{Cite news|title=Gino Lorenzini inscribe candidatura presidencial: "Haremos un capitalismo popular"|url=https://www.24horas.cl/elecciones-2021/gino-lorenzini-inscribe-candidatura-presidencial-haremos-un-capitalismo-popular-4935326|author=24Horas.cl Tvn|date=23 August 2021|access-date=24 August 2021|work=24 Horas|language=es-CL|archive-date=24 August 2021|archive-url=https://web.archive.org/web/20210824004118/https://www.24horas.cl/elecciones-2021/gino-lorenzini-inscribe-candidatura-presidencial-haremos-un-capitalismo-popular-4935326|url-status=live}}</ref> However, the Electoral Service rejected his candidacy on 26 August 2021 because the law requires independent candidates to hold their status as independent for up to a year before the election, and he was part of the [[Party of the People (Chile)|Party of the People]] during some of that time.<ref name="LT 2021-08-26" />
+
+===Declined to be candidates===
+*'''[[Pamela Jiles (journalist)|Pamela Jiles]]''' ([[Humanist Party (Chile)|PH]]): Jiles is a journalist,<ref>{{cite web|date=2 March 2003|title=Yo, Pamela|url=http://www.lanacion.cl/p4_lanacion/site/artic/20030301/pags/20030301210133.html|url-status=live|archive-url=https://web.archive.org/web/20120324100124/http://www.lanacion.cl/p4_lanacion/site/artic/20030301/pags/20030301210133.html|archive-date=24 March 2012|access-date=10 December 2020|website=La Nación|language=es-CL}}</ref> television personality and [[Left-wing politics|leftist]] politician. She pursues her political career as deputy for District 12 in the [[Santiago Metropolitan Region]]. She comes from a family of communists and has praised [[Fidel Castro]].<ref>{{cite web|last=Cortez|first=Manuel (PiensaChile)|date=24 February 2009|title=La candidatura va en serio: Pamela Jiles Presidenta|url=http://www.elclarin.cl/index.php?option=com_content&task=view&id=15256&Itemid=2729|url-status=live|archive-url=https://web.archive.org/web/20120313184030/http://www.elclarin.cl/index.php?option=com_content&task=view&id=15256&Itemid=2729|archive-date=13 March 2012|access-date=10 December 2020|website=El Clarín|language=es-CL}}</ref> She appeared as a potential presidential candidate with the most support in just one opinion poll.<ref name="activa"/> After her partner lost the Santiago governor race in May 2021, she withdrew her name from consideration.<ref>{{cite web|url=https://www.theclinic.cl/2021/05/17/pamela-jiles-y-su-candidatura-presidencial-tras-fracaso-de-pablo-maltes-nunca-he-sido-proclamada/|title=Pamela Jiles y su candidatura presidencial tras fracaso de Pablo Maltés: "Nunca he sido proclamada"|date=17 May 2021|access-date=14 July 2021|website=The Clinic|language=es-CL|archive-date=28 June 2021|archive-url=https://web.archive.org/web/20210628192729/https://www.theclinic.cl/2021/05/17/pamela-jiles-y-su-candidatura-presidencial-tras-fracaso-de-pablo-maltes-nunca-he-sido-proclamada/|url-status=live}}</ref>
+*'''[[Izkia Siches]]''' (independent): Siches is a physician who has served as president of the [[Chilean Medical College]] since 2017.<ref name="Time 100 next Izkia Siches">{{cite news|title=2021 TIME100 Next: Izkia Siches Pastén|magazine=Time|url=https://time.com/collection/time100-next-2021/5937736/izkia-siches-pasten/|access-date=3 May 2021|archive-date=14 May 2021|archive-url=https://web.archive.org/web/20210514223306/https://time.com/collection/time100-next-2021/5937736/izkia-siches-pasten/|url-status=live}}</ref> A self-described [[feminist]]<ref>{{cite web|date=19 October 2018|title=Izkia Siches Pastén: "Quisiera seducir a todos con el feminismo"|url=https://www.latercera.com/paula/izquia-siches-pasten-quisiera-seducir-todos-feminismo/|website=[[La Tercera]]|accessdate=8 January 2021|language=es-CL|archive-date=3 May 2021|archive-url=https://web.archive.org/web/20210503052745/https://www.latercera.com/paula/izquia-siches-pasten-quisiera-seducir-todos-feminismo/|url-status=live}}</ref> and past member of the [[Communist Youth of Chile|Communist Youth]],<ref>{{cite web|author=pauta|date=18 March 2020|title=La figura positiva en medio de la crisis: Izkia Siches|url=https://www.pauta.cl/nacional/izkia-siches-como-crecio-su-en-la-crisis-del-covid-19|website=pauta|url-status=live|language=es|access-date=5 July 2021|archive-date=18 May 2021|archive-url=https://web.archive.org/web/20210518121504/https://www.pauta.cl/nacional/izkia-siches-como-crecio-su-en-la-crisis-del-covid-19}}</ref> Siches became nationally known during the [[COVID-19 pandemic in Chile|COVID-19 pandemic]] for her criticisms of the government's handling of public health measures.<ref>{{cite web|date=13 June 2020|title=Críticas a Izkia Siches y en contra de la cuarentena total: La postura de Enrique Paris durante la crisis sanitaria|url=https://www.cnnchile.com/pais/enrique-paris-crisis-sanitaria-coronavirus_20200613/|website=[[CNN Chile]]|language=es|accessdate=22 December 2020|archiveurl=https://web.archive.org/web/20200903111803/https://www.cnnchile.com/pais/enrique-paris-crisis-sanitaria-coronavirus_20200613/|archivedate=3 September 2020}}</ref> Her high approval ratings during the pandemic<ref>{{cite news|title=Encuesta CEP: Aprobación del presidente alcanza el 9% y Pamela Jiles es el personaje político mejor evaluado|language=es|work=www.duna.cl|url=https://www.duna.cl/noticias/2021/04/29/encuesta-cep-aprobacion-del-presidente-alcanza-el-9-y-pamela-jiles-es-el-personaje-politico-mejor-evaluado/|access-date=3 May 2021|archive-date=3 May 2021|archive-url=https://web.archive.org/web/20210503074306/https://www.duna.cl/noticias/2021/04/29/encuesta-cep-aprobacion-del-presidente-alcanza-el-9-y-pamela-jiles-es-el-personaje-politico-mejor-evaluado/|url-status=live}}</ref> led to speculation she would run for president, but she ultimately declined.<ref>{{cite web|date=6 September 2020|title=Izkia Siches por candidatura presidencial: "Me falta experiencia, así que lo descarto"|url=https://www.cnnchile.com/lodijeronencnn/izkia-siches-descarta-candidatura-presidencial_20200906/|website=[[CNN Chile]]|language=es|accessdate=22 December 2020|archiveurl=https://web.archive.org/web/20200907052111/https://www.cnnchile.com/lodijeronencnn/izkia-siches-descarta-candidatura-presidencial_20200906/|archivedate=7 September 2020}}</ref><ref name="Time 100 next Izkia Siches"/>
+*'''[[René Rubeska]]''' ([[National Citizen Party (Chile)|PNC]]): In June 2021, the [[National Citizen Party (Chile)|National Citizen Party]] had announced its intention to bring its president René Rubeska as presidential candidate.<ref>{{cite web|date=13 June 2021|title=Consejo general del partido nacional ciudadano proclama a rene rubezka balboa como candidato presidencial|url=https://partidonacionalciudadano.cl/consejo-general-del-partido-nacional-ciudadano-proclama-a-rene-rubezka-balboa-como-candidato-presidencial/|url-status=live|archive-url=https://web.archive.org/web/20220104210918/https://partidonacionalciudadano.cl/consejo-general-del-partido-nacional-ciudadano-proclama-a-rene-rubezka-balboa-como-candidato-presidencial/|archive-date=4 January 2022|access-date=4 January 2022|language=es-CL}}</ref> However, the party was unable to gather the necessary signatures to register his candidacy.
+
+== Debates ==
+{| class="wikitable" style="text-align:center; font-size:95%"
+|-
+! rowspan="3" |Media outlet and date
+
+! rowspan="3" |Location
+! rowspan="3" |Moderators
+! colspan="7" |<small>{{Fontcolor|black|#90FF90|&nbsp;P&nbsp;}} Present    {{Fontcolor|black|#D0F0C0|&nbsp;S&nbsp;}} Substitute     {{Fontcolor|black|#FF9090|&nbsp;A&nbsp;}} Absent    {{Fontcolor|black|#CCCCCC|&nbsp;NI&nbsp;}} Not invited</small>
+|-
+!Boric
+!Kast
+!Provoste
+!Sichel
+!Artés
+!ME-O
+!Parisi
+|-
+| style="background:#fc415c;"|
+| style="background:#31446c;"|
+| style="background:purple;"|
+| style="background:gold;"|
+| style="background:#c00;"|
+| style="background:#e02385;"|
+| style="background:#181644;"|
+|-
+|''[[CNN Chile]]''-''{{lang|es|[[Chilevisión]]}}''<br /> 22 September 2021<ref>{{cite web|url=https://www.elmostrador.cl/dia/2021/09/08/cnn-chile-y-chilevision-organizaran-el-primer-debate-presidencial-el-22-de-septiembre/|title=CNN Chile y Chilevisión organizarán el primer debate presidencial el 22 de septiembre|date=8 September 2021|website=El Mostrador|access-date=7 October 2021|archive-date=7 October 2021|archive-url=https://web.archive.org/web/20211007003205/https://www.elmostrador.cl/dia/2021/09/08/cnn-chile-y-chilevision-organizaran-el-primer-debate-presidencial-el-22-de-septiembre/|url-status=live}}</ref>
+|[[Santiago Metropolitan Region]]
+|[[:es:Mónica Rincón|Mónica Rincón]]<br />[[:es:Daniel Matamala|Daniel Matamala]]
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+| style="background:#ff9090;"|'''A'''
+|-
+|''{{lang|es|[[La Tercera]]}}''<br />''Confederation of Production and Commerce''<br /> 24 September 2021<ref>{{cite web |title=El conflicto en La Araucanía y Arauco: debate presidencial en La Tercera |url=https://www.latercera.com/politica/noticia/el-conflicto-en-la-araucania-y-arauco-debate-presidencial-en-la-tercera/ZNGTYDR7E5EAZJJARWGYIFTBZE/ |date=2021-09-24 |website=La Tercera |access-date=7 October 2021 |archive-date=7 October 2021 |archive-url=https://web.archive.org/web/20211007004638/https://www.latercera.com/politica/noticia/el-conflicto-en-la-araucania-y-arauco-debate-presidencial-en-la-tercera/ZNGTYDR7E5EAZJJARWGYIFTBZE/ |url-status=live }}</ref>
+|[[Santiago Metropolitan Region]]
+|María José O'Shea<br />Juan Sutil Servoin
+| style="background:#ff9090;"|'''A'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+| style="background:#ff9090;"|'''A'''
+| style="background:#ff9090;"|'''A'''
+|-
+|''[[Televisión Nacional de Chile|TVN]]''-''{{lang|es|[[24 horas (Chilean TV program)|24 Horas]]}}''<br />''{{lang|es|[[Channel 13 (Chile)|Canal 13]]}}''<br />''[[Mega (Chilean TV channel)|Mega]]''-''Mega Plus''<br /> 11 October 2021<ref>{{cite web|url=https://www.latercera.com/politica/noticia/presidenciales-tvn-canal-13-y-mega-realizaran-debate-televisado-el-11-de-octubre/JSA7UB3OBJHBJCVX7EJESTO7PE/|title=Presidenciales: TVN, Canal 13 y Mega realizarán debate televisado el 11 de octubre|date=20 September 2021|website=La Tercera|access-date=7 October 2021|archive-date=7 October 2021|archive-url=https://web.archive.org/web/20211007003134/https://www.latercera.com/politica/noticia/presidenciales-tvn-canal-13-y-mega-realizaran-debate-televisado-el-11-de-octubre/JSA7UB3OBJHBJCVX7EJESTO7PE/|url-status=live}}</ref>
+|[[Santiago Metropolitan Region]]
+|Matías del Río
+Mónica Pérez
+
+Juan Manuel Astorga
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+|-
+|''Chilean Radio Broadcasters Association (Archi)''<br /> 15 October 2021<ref>{{cite web|url=https://www.elmostrador.cl/dia/2021/09/20/archi-inicia-los-preparativos-para-el-debate-presidencial-del-proximo-15-de-octubre/|title=Archi inicia los preparativos para el debate presidencial del próximo 15 de octubre|date=20 September 2021|website=El Mostrador|access-date=7 October 2021|archive-date=7 October 2021|archive-url=https://web.archive.org/web/20211007003134/https://www.elmostrador.cl/dia/2021/09/20/archi-inicia-los-preparativos-para-el-debate-presidencial-del-proximo-15-de-octubre/|url-status=live}}</ref>
+|[[Santiago Metropolitan Region]]
+|Jessika Casteñeda<br />
+Cony Stipicic<br />
+Carolina Urrejola<br />
+Verónica Franco<br />
+Nicolás Vergara
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P''' 
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+|-
+|{{lang|es|La Red}}<br />
+{{lang|es|Escenarios Hídricos 2030}}<br />
+{{lang|es|Fundación Chile}}<br />
+{{lang|es|Fundación Avina}}<br />
+{{lang|es|Fundación Futuro Latinoamericano}}<br />
+21 October 2021<ref>{{cite web|url=http://www.lanacion.cl/candidatos-discutiran-este-jueves-sobre-la-crisis-hidrica-en-un-nuevo-debate-presidencial/|title=CANDIDATOS DISCUTIRÁN ESTE JUEVES SOBRE LA CRISIS HÍDRICA EN UN NUEVO DEBATE PRESIDENCIAL|date=21 October 2021|website=La Nación|access-date=19 November 2021|archive-date=24 October 2021|archive-url=https://web.archive.org/web/20211024092028/http://www.lanacion.cl/candidatos-discutiran-este-jueves-sobre-la-crisis-hidrica-en-un-nuevo-debate-presidencial/|url-status=live}}</ref>
+|[[Santiago Metropolitan Region]]<br /><small>(Candidates remotely)</small>
+|Julia Vial
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+|-
+|University of Chile Debate 2021<br />
+<small>([[University of Chile]], {{lang|es|italic=no|Radio Cooperativa, Radio UChile, UChile TV}})</small><br /> 1 November 2021<ref>{{cite web|url=https://www.latercera.com/politica/noticia/confirmado-debate-presidencial-de-universidad-de-chile-este-lunes-franco-parisi-y-jose-antonio-kast-no-participaran/PTA54QER7BD67BSMDMMALIGE5Q//|title=Confirmado debate presidencial de Universidad de Chile este lunes: Franco Parisi y José Antonio Kast no participarán|date=30 October 2021|website=La Tercera|access-date=19 November 2021|archive-date=4 November 2021|archive-url=https://web.archive.org/web/20211104064340/https://www.latercera.com/politica/noticia/confirmado-debate-presidencial-de-universidad-de-chile-este-lunes-franco-parisi-y-jose-antonio-kast-no-participaran/PTA54QER7BD67BSMDMMALIGE5Q//|url-status=live}}</ref>
+|[[Santiago Metropolitan Region]]
+|Ennio Vivaldi<br />
+Sergio Campos<br />
+Yasna Lewin<br />
+Paula Molina<br />
+Jennifer Abate<br />
+Rodrigo Vergara<br />
+Antonella Estévez<br />
+Patricio López
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+|-
+|{{lang|es|italic=no|Debate Es Turno del Planeta}}<br />
+<small>({{lang|es|italic=no|Canal 13, El Desconcierto, Cobertura, CON-CIENCIA, Escazu Ahora Chile, Portada Soñada}})</small><br />5 November 2021<ref>{{cite web|url=https://www.infogate.cl/2021/10/30/realizan-primer-debate-presidencial-ambiental-organizado-por-la-juventud/|title=Realizan primer debate presidencial ambiental organizado por la juventud|author=Hans Hansen|date=30 October 2021|website=Infogate|access-date=19 November 2021|archive-date=31 October 2021|archive-url=https://web.archive.org/web/20211031222227/https://www.infogate.cl/2021/10/30/realizan-primer-debate-presidencial-ambiental-organizado-por-la-juventud/|url-status=live}}</ref>
+|[[Santiago Metropolitan Region]]<br /><small>(Candidates remotely)</small>
+|Felipe Gerdtzen
+Andrea Obaid
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+|-
+|{{lang|es|italic=no|Encuentro Nacional de la Empresa}}<br />
+11 November 2021<ref>{{cite web|url=https://www.latercera.com/pulso-pm/noticia/boric-confirma-su-asistencia-a-enade-2021-y-tendra-primer-encuentro-con-los-grandes-empresarios-a-10-dias-de-las-elecciones/BDJ4T2TXQNC2DAGUZUMNKZ6ZXU/|title=Boric confirma su asistencia a Enade 2021 y tendrá primer encuentro con los grandes empresarios a 10 días de las elecciones|date=19 October 2021|website=La Tercera|access-date=19 November 2021|archive-date=29 October 2021|archive-url=https://web.archive.org/web/20211029174412/https://www.latercera.com/pulso-pm/noticia/boric-confirma-su-asistencia-a-enade-2021-y-tendra-primer-encuentro-con-los-grandes-empresarios-a-10-dias-de-las-elecciones/BDJ4T2TXQNC2DAGUZUMNKZ6ZXU/|url-status=live}}</ref>
+|[[Santiago Metropolitan Region]]
+|Soledad Onetto
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+|-
+|''National Television Association (ANATEL)''<br /> 15 November 2021<ref>{{cite web|url=https://www.emol.com/noticias/Espectaculos/2021/10/04/1034433/anatel-fechas-debates-presidenciales-2021.html|title=Anatel realizará dos debates presidenciales: Serán en horario prime y transmitirán los canales asociados|website=www.emol.com|date=4 October 2021|access-date=19 November 2021|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220203523/https://www.emol.com/noticias/Espectaculos/2021/10/04/1034433/anatel-fechas-debates-presidenciales-2021.html|url-status=live}}</ref>
+|[[Santiago Metropolitan Region]]
+|Ivan Valenzuela<br />Constanza Santa María<br />Juan Manuel Astorga<br />
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#90ff90;"|'''P'''
+| style="background:#ff9090;"|'''A'''
+|}
+
+==Endorsements==
+After the first round, candidates [[Sebastián Sichel|Sichel]] and [[Franco Parisi|Parisi]] endorsed Kast.<ref name=SP>{{cite web|last=Carrasco|first=Rodolfo|title=Sichel se compromete a apoyar a Kast en segunda vuelta luego de que se aprobaran sus nueve condiciones|url=http://www.df.cl/noticias/economia-y-politica/politica/sichel-se-compromete-a-apoyar-a-kast-en-segunda-vuelta-luego-de-que-se/2021-12-02/154910.html|access-date=2021-12-19|website=Diario Financiero|language=Spanish|archive-date=19 December 2021|archive-url=https://web.archive.org/web/20211219175643/https://www.df.cl/noticias/economia-y-politica/politica/sichel-se-compromete-a-apoyar-a-kast-en-segunda-vuelta-luego-de-que-se/2021-12-02/154910.html|url-status=live}}</ref>
+
+Boric was endorsed by [[Marco Enríquez-Ominami|Enríquez-Ominami]] and [[Yasna Provoste|Provoste]].<ref name=EOP>{{cite web|date=2021-11-23|title=Provoste Announces Support for Boric for the Ballot: "We will not delay like the FA did in 2017" {{!}} National|url=https://today.in-24.com/News/632697.html|access-date=2021-12-19|website=Today 24 English|language=en-us|archive-date=19 December 2021|archive-url=https://web.archive.org/web/20211219175643/https://today.in-24.com/News/632697.html|url-status=live}}</ref> Former President [[Michelle Bachelet]] returned to Chile from her role as UN Human Rights High Commissioner to formally endorse Boric.<ref name=Bach>{{cite web|title=Former Chilean President Bachelet announces she will vote for Boric|url=https://en.mercopress.com/2021/12/15/former-chilean-president-bachelet-announces-she-will-vote-for-boric|access-date=2021-12-19|website=MercoPress|language=en|archive-date=19 December 2021|archive-url=https://web.archive.org/web/20211219175634/https://en.mercopress.com/2021/12/15/former-chilean-president-bachelet-announces-she-will-vote-for-boric|url-status=live}}</ref>
+
+On 9 December, parliamentarians and public figures from over 15 countries signed a statement endorsing Boric.<ref name=Solidarity>{{cite web|url=https://progressive.international/wire/2021-12-08-international-solidarity-once-failed-the-people-of-chile-it-must-not-fail-today/en|title="International solidarity once failed the people of Chile. It must not fail today."|website=[[Progressive International]]|date=December 9, 2021|accessdate=December 20, 2021|archive-date=19 December 2021|archive-url=https://web.archive.org/web/20211219122700/https://progressive.international/wire/2021-12-08-international-solidarity-once-failed-the-people-of-chile-it-must-not-fail-today/en/|url-status=live}}</ref>
+
+{{Endorsements box
+| title = Gabriel Boric (CS)
+| list =
+;Executive officials
+*[[Michelle Bachelet]], United Nations High Commissioner for Human Rights and former President of Chile<ref name=Bach/>
+*[[Ricardo Lagos]], former President of Chile<ref>{{cite web|url=https://www.elmostrador.cl/elecciones-2021/2021/11/24/ricardo-lagos-y-su-apoyo-para-la-segunda-vuelta-lo-que-soy-lo-que-es-mi-historia-mi-pasado-obviamente-que-en-esta-coyuntura-tengo-que-decir-boric/|title=Ricardo Lagos y su apoyo para la segunda vuelta: "Lo que soy, lo que es mi historia, mi pasado, obviamente que en esta coyuntura tengo que decir Boric"|website=elmostrador.cl|date=November 24, 2021|accessdate=December 20, 2021|archive-date=14 December 2021|archive-url=https://web.archive.org/web/20211214185946/https://www.elmostrador.cl/elecciones-2021/2021/11/24/ricardo-lagos-y-su-apoyo-para-la-segunda-vuelta-lo-que-soy-lo-que-es-mi-historia-mi-pasado-obviamente-que-en-esta-coyuntura-tengo-que-decir-boric/|url-status=live}}</ref>
+;National officials
+*[[Karol Cariola]], Member of the Chamber of Deputies of Chile<ref>{{cite web|url=https://www.theguardian.com/world/2021/dec/19/leftist-gabriel-boric-elected-as-chiles-president|title=Leftist to become Chile's youngest ever president after beating far-right rival|website=The Guardian|last1=Bartlett|first1=John|date=December 20, 2021|accessdate=December 20, 2021|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220063613/https://www.theguardian.com/world/2021/dec/19/leftist-gabriel-boric-elected-as-chiles-president|url-status=live}}</ref>
+*[[Marco Enríquez-Ominami]], former Member of the Chamber of Deputies of Chile; former presidential candidate<ref name=EOP/>
+*[[Yasna Provoste]], President of the Senate of Chile; former presidential candidate<ref name=EOP/>
+;Local officials
+*110 mayors including:<ref name=alcadesporboric>{{Cite news|title=Más de 100 alcaldes entrega su apoyo a Gabriel Boric: con el candidato "construiremos el nuevo Chile de la dignidad"|url=https://www.elmostrador.cl/elecciones-2021/2021/12/02/mas-de-100-alcaldes-entrega-su-apoyo-a-gabriel-boric-con-el-candidato-construiremos-el-nuevo-chile-de-la-dignidad/|date=2021-12-02|access-date=2022-01-05|work=[[El Mostrador]]|language=Spanish}}</ref>
+**[[Carla Amtmann]] of [[Valdivia]]<ref name=alcadesporboric/>
+**[[Emeterio Carrillo]] of [[Osorno, Chile|Osorno]]<ref name=alcadesporboric/>
+**[[Claudio Castro]] of [[Renca]]<ref name=alcadesporboric/>
+**[[Petero Edmunds]] of [[Easter Island|Rapa Nui]] (Easter Island)<ref name=alcadesporboric/>
+**[[Gerardo Espíndola]] of [[Arica]]<ref name=alcadesporboric/>
+**[[Irací Hassler]] of [[Santiago (commune)|Santiago]]<ref name=Jacobin/>
+**[[Carlos Gatica]] of [[Coyhaique]]<ref name=alcadesporboric/>
+**[[Daniel Jadue]] of [[Recoleta, Chile|Recoleta]]<ref>{{cite web|url=https://www.jacobinmag.com/2021/11/communist-mayor-recoleta-daniel-jadue-gabriel-boric-chilean-president-elections-interview|title=Communist Mayor Daniel Jadue: Gabriel Boric Is the President Chile Needs|website=Jacobin|last1=Jadue|first1=Daniel|last2=Soto|first2=Octavio García|last3=Allen|first3=Nicholas|date=November 8, 2021|accessdate=December 12, 2021|archive-date=24 November 2021|archive-url=https://web.archive.org/web/20211124142840/https://jacobinmag.com/2021/11/communist-mayor-recoleta-daniel-jadue-gabriel-boric-chilean-president-elections-interview|url-status=live}}</ref>
+**[[Marcos López Rivera|Marcos López]] of [[Copiapó]]<ref name=alcadesporboric/>
+**[[Ali Manouchehri]] of [[Coquimbo]]<ref name=alcadesporboric/>
+**[[Roberto Neira]] of [[Temuco]]<ref name=alcadesporboric/>
+**[[Claudia Pizarro]] of [[La Pintana]]<ref name=alcadesporboric/>
+**[[Emilia Ríos]] of [[Ñuñoa]]<ref name=alcadesporboric/>
+**[[Macarena Ripamonti]] of [[Viña del Mar]]<ref name=alcadesporboric/>
+**[[Jorge Sharp]] of [[Valparaíso]]<ref name=alcadesporboric/>
+**[[Mauricio Soria Macchiavello|Mauricio Soria]] of [[Iquique]]<ref name=alcadesporboric/>
+**[[Tomás Vodanovic]] of [[Maipú, Chile|Maipú]]<ref name=alcadesporboric/>
+;Individuals
+*[[Jorge Baradit]], Chilean writer<ref name=mostradorartistas/>
+*[[Laurent Binet]], French writer<ref name=mostradorartistas/>
+*[[Alfredo Castro (actor)|Alfredo Castro]], Chilean actor<ref name=mostradorartistas>{{Cite news|title=Artistas de Chile y Francia firman misivas en apoyo a Boric|url=https://www.elmostrador.cl/cultura/2021/12/06/artistas-de-chile-y-francia-firman-misivas-en-apoyo-a-boric/|date=2021-12-06|access-date=2022-01-04|work=[[El Mostrador]]|language=Spanish}}</ref>
+*[[Noam Chomsky]], American linguist and activist<ref name=Solidarity/>
+*[[Costa-Gavras]], Greek-French film director<ref name=mostradorartistas/>
+*[[Ricardo Ffrench-Davis]], Chilean economist<ref>{{Cite news|title=Ricardo Ffrench-Davis confirma que votará por Boric y que colaborará con el candidato de Apruebo Dignidad|url=https://www.latercera.com/pulso-pm/noticia/ricardo-ffrench-davis-confirma-que-votara-por-boric-y-que-colaborara-con-el-candidato-de-apruebo-dignidad/JUMOTOJQFVHMXITJ43WYXAKNHA/|last=Aravena|first=Sofía|date=2021-11-24|access-date=2021-01-13|work=[[La Tercera]]|language=Spanish}}</ref>
+*[[León Gieco]], Argentine singer-songwriter<ref>{{Cite news|title=León Gieco saludó a Boric y le dedicó "Soy como un tren"|url=https://www.cooperativa.cl/noticias/pais/politica/presidenciales/leon-gieco-saludo-a-boric-y-le-dedico-soy-como-un-tren/2021-08-20/181226.html|date=2021-08-20|access-date=2022-01-18|work=[[Radio Cooperativa]]}}</ref>
+*[[Stephany Griffith-Jones]], Chilean-British economist<ref>{{Cite news|title=Stephany Griffith-Jones, la asesora económica de Boric que le respondió al FT|url=https://dfmas.df.cl/df-mas/por-dentro/la-asesora-economica-menos-conocida-de-boric|last=López|first=María José|date=2021-11-25|access-date=2021-01-10|work=DF MAS|language=Spanish|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220075931/https://dfmas.df.cl/df-mas/por-dentro/la-asesora-economica-menos-conocida-de-boric|url-status=dead}}</ref>
+*[[Srećko Horvat]], Croatian philosopher<ref name=Solidarity/>
+*[[Illapu]], Chilean folk band<ref name=Jacobin/>
+*[[Nicolas Jaar]], American artist<ref name=Solidarity/>
+*[[Naomi Klein]], Canadian author<ref name=Solidarity/>
+*[[Denisse Malebrán]], Chilean singer<ref name=mostradorartistas/>
+*[[Toni Negri]], Italian activist and philosopher<ref name=mostradorartistas/>
+*[[Avi Lewis]], Canadian author and activist<ref name=Solidarity/>
+*[[Daniela Pardo]], Chilean footballer<ref>{{cite web|url=https://www.theguardian.com/world/2021/dec/20/gabriel-boric-election-triumph-latin-america-resurgent-left|title=Gabriel Boric's triumph puts wind in the sails of Latin America's resurgent left|website=The Guardian|last1=Blair|first1=Laurence|date=December 20, 2021|accessdate=December 21, 2021}}</ref>
+*[[Isabel Parra]], Chilean musician<ref name=mostradorartistas/>
+*[[Pedro Pascal]], Chilean-American actor<ref>{{cite web|date=23 November 2021|title=Pedro Pascal hace público con una fotografía su apoyo a Gabriel Boric|url=https://www.t13.cl/noticia/elecciones-2021/tendencias/pedro-pascal-apoyo-gabriel-boric-elecciones-segunda-vuelta-23-11-2021|access-date=29 November 2021|work=[[Teletrece]]|archive-date=29 November 2021|archive-url=https://web.archive.org/web/20211129212634/https://www.t13.cl/noticia/elecciones-2021/tendencias/pedro-pascal-apoyo-gabriel-boric-elecciones-segunda-vuelta-23-11-2021|url-status=live}}</ref>
+*[[Roger Waters]], British singer and bassist of [[Pink Floyd]]<ref>{{cite web|date=30 November 2021|title="Es de vida o muerte": Roger Waters expresa su apoyo a Boric y llama a votar en la segunda vuelta|url=https://www.cnnchile.com/elecciones2021/roger-waters-apoyo-boric-vida-o-muerte_20211130/|access-date=15 January 2022|work=[[CNN Chile]]|archive-date=15 January 2022|archive-url=https://web.archive.org/web/20220115182242/https://www.cnnchile.com/elecciones2021/roger-waters-apoyo-boric-vida-o-muerte_20211130/|url-status=live}}</ref>
+*[[Vijay Prashad]], Indian author and activist<ref name=Solidarity/>
+*[[Ahdaf Soueif]], Egyptian author and activist<ref name=Solidarity/>
+*[[Ana Tijoux]], Chilean musician<ref name=Jacobin/>
+*[[Alejandro Zambra]], Chilean writer<ref name=mostradorartistas/>
+*[[Slavoj Žižek]], Slovenian philosopher<ref name=Solidarity/>
+;International politicians
+*[[José Mujica]], former [[President of Uruguay]]<ref>{{Cite news|title=José Mujica nos inspira a trabajar con humildad, siempre por y para el pueblo; es un ejemplo en la política latinoamericana. Los ojos del mundo puestos en Chile y nuestro proceso de cambios. Tal como #MujicaConGabriel el domingo digamos que somos UNO ☝️|url=https://mobile.twitter.com/gabrielboric/status/1461482211094548481?lang=es|date=2021-11-18|access-date=2022-02-11|website=[[Twitter]]|language=Spanish}}</ref>
+*[[Ali Al-Dailami]], Member of the German Bundestag<ref name=Solidarity/>
+*[[Celso Amorim]], former Foreign Minister of Brazil<ref name=Solidarity/>
+*[[Andrés Arauz]], former Ecuadorian Minister of Knowledge and Human Talent<ref name=Solidarity/>
+*[[Niki Ashton]], Canadian Member of Parliament<ref name=Solidarity/>
+*[[Alexandre Boulerice]], Canadian Member of Parliament<ref name=Solidarity/>
+*[[Richard Burgon]], British Member of Parliament<ref name=Solidarity/>
+*[[Alicia Castro]], former Argentinian Ambassador to the United Kingdom<ref name=Solidarity/>
+*[[Leïla Chaibi]], Member of European Parliament for France<ref name=Solidarity/> 
+*[[Ada Colau]], [[Mayor of Barcelona]], Spain<ref name=Solidarity/>
+*[[Jeremy Corbyn]], British Member of Parliament and former [[Leader of the Labour Party (UK)]]<ref name=Solidarity/>
+*[[Sevim Dağdelen]], Member of the German Bundestag<ref name=Solidarity/>
+*[[Leah Gazan]], Canadian Member of Parliament<ref name=Solidarity/>
+*[[Matthew Green (Canadian politician)|Matthew Green]], Canadian Member of Parliament<ref name=Solidarity/>
+*[[John Hendy, Baron Hendy]] QC, Member of the British House of Lords<ref name=Solidarity/>
+*[[Andrej Hunko]], Member of the German Bundestag<ref name=Solidarity/>
+*[[Scott Ludlam]], former Australian Senator<ref name=Solidarity/>
+*[[Jean-Luc Mélenchon]], Member of the European Parliament for France<ref name=Solidarity/>
+*[[Aloizio Mercadante]], former Education Minister of Brazil<ref name=Solidarity/>
+*[[Grahame Morris]], British Member of Parliament<ref name=Solidarity/>
+*[[Zaklin Nastic]], Member of the German Bundestag<ref name=Solidarity/>
+*[[Gerardo Pisarello]], Member of the 13th Spanish Congress of Deputies<ref name=Solidarity/>
+*[[Ernesto Samper]], former [[President of Colombia]]<ref name=Solidarity/>
+*[[Zarah Sultana]], British Member of Parliament<ref name=Solidarity/>
+*[[Rashida Tlaib]], Member of the [[United States House of Representatives]]<ref name=Solidarity/> 
+*[[Yanis Varoufakis]], Member of the [[Hellenic Parliament]] (Greece) and former Finance Minister<ref name=Solidarity/> 
+*[[Alexis Tsipras]], Member of the [[Hellenic Parliament]] (Greece) and former [[Prime Minister of Greece]]<ref name=Solidarity/>
+*[[Idoia Villanueva]], Member of the European Parliament for Spain<ref name=Solidarity/>
+*[[José Luis Rodríguez Zapatero]], former [[Prime Minister of Spain]]<ref>{{cite web|url=https://www.efe.com/efe/espana/mundo/rodriguez-zapatero-entrega-su-apoyo-a-gabriel-boric-para-el-balotaje-chileno/10001-4688243|title=Rodríguez Zapatero entrega su apoyo a Gabriel Boric para el balotaje chileno|website=Agencia EFE|last1=Duhalde|first1=David|date=December 19, 2021|access-date=20 December 2021|archive-date=19 December 2021|archive-url=https://web.archive.org/web/20211219124820/https://www.efe.com/efe/espana/mundo/rodriguez-zapatero-entrega-su-apoyo-a-gabriel-boric-para-el-balotaje-chileno/10001-4688243|url-status=live}}</ref>
+;Organizations
+*[[Democratic Socialists of America]]<ref name=Jacobin>{{cite web|url=https://www.jacobinmag.com/2021/12/chilean-presidential-election-boric-kast-socialism-or-barbarism|title=For Chileans, the Choice in Today's Election Is Socialism or Barbarism|website=Jacobin|last1=Duhalde|first1=David|date=December 19, 2021|accessdate=December 20, 2021|archive-date=19 December 2021|archive-url=https://web.archive.org/web/20211219230308/https://jacobinmag.com/2021/12/chilean-presidential-election-boric-kast-socialism-or-barbarism|url-status=live}}</ref>
+}}
+{{Endorsements box
+| title = José Antonio Kast (PLR)
+| list =
+;Executive officials
+*[[Raúl Figueroa]], Minister of Education<ref>{{cite news |title=Ministro Raúl Figueroa plantea apoyo a Kast y dice que "el gobierno no puede ser neutral" |url=https://www.t13.cl/noticia/elecciones-2021/politica/raul-figueroa-apoyo-kast-gobierno-no-puede-ser-neutral-29-11-2021 |access-date=20 December 2021 |work=T13 |date=29 November 2021 |language=Spanish |archive-date=13 December 2021 |archive-url=https://web.archive.org/web/20211213034621/https://www.t13.cl/noticia/elecciones-2021/politica/raul-figueroa-apoyo-kast-gobierno-no-puede-ser-neutral-29-11-2021 |url-status=live }}</ref>
+*[[Sebastián Sichel]], former Minister of Social Development and Family; former presidential candidate<ref name=SP/>
+;Local officials
+*[[Evelyn Matthei]], Mayor of [[Providencia, Chile|Providencia]]<ref>{{Cite news|url=https://www.t13.cl/noticia/elecciones-2021/politica/matthei-confirma-apoyo-kast-mi-caso-es-condiciones-porque-conozco-01-12-2021|title=Matthei confirma apoyo a Kast: "En mi caso es sin condiciones, porque lo conozco"}}</ref>
+*[[Joaquín Lavín]], Mayor of [[Las Condes]]<ref>{{Cite news|url=https://www.biobiochile.cl/noticias/nacional/chile/2021/11/30/joaquin-lavin-entrega-apoyo-a-jose-antonio-kast-lo-apoyo-porque-lo-conozco-como-persona.shtml|title=Joaquín Lavín entrega apoyo a José Antonio Kast: "Lo apoyo porque lo conozco como persona"}}</ref>
+;Individuals
+*[[Ena von Baer]], Chilean senator<ref>{{Cite news|title=Voltereta: Ena Von Baer hace público su apoyo a José Antonio Kast|url=https://www.diariofutrono.cl/noticia/actualidad/2021/10/voltereta-ena-von-baer-hace-publico-su-apoyo-a-jose-antonio-kast|date=2021-10-29|access-date=2022-01-12|work=DiarioFutrono.cl|language=Spanish}}</ref>
+*[[Manuel José Ossandón]], Chilean senator<ref>{{Cite news|title=Senador Ossandón entrega su apoyo a Kast pero le «recomienda» impulsar «cambios profundos en lo social y no basar su estrategia en el anticomunismo»|url=https://www.elmostrador.cl/elecciones-2021/2021/12/02/senador-ossandon-entrega-su-apoyo-a-kast-pero-le-recomienda-impulsar-cambios-profundos-en-lo-social-y-no-basar-su-estrategia-en-el-anticomunismo/}}</ref>
+*[[Johannes Kaiser (Chilean politician)|Johannes Kaiser]], Chilean [[YouTuber]] and politician<ref>{{Cite web|url=https://johanneskaiser.cl/2021/10/24/vamos-por-mas/|title=Atrevete con Kast|date=2021-10-24|access-date=2022-01-12|website=johanneskaiser.cl|url-status=dead|language=Spanish|archive-date=22 November 2021|archive-url=https://web.archive.org/web/20211122162657/https://johanneskaiser.cl/2021/10/24/vamos-por-mas/}}</ref>
+*[[Franco Parisi]], engineer and economist; former presidential candidate<ref name=SP/>
+*[[Marcelo Salas]], footballer<ref>{{cite news |title=Marcelo Salas apoyó a Kast en las elecciones en Chile y su hija recibió violentas amenazas |url=https://www.ole.com.ar/fuera-de-juego/marcelo-salas-katz-mensajes-_0_pipk2e7h_.html |access-date=20 December 2021 |language=Spanish |archive-date=20 December 2021 |archive-url=https://web.archive.org/web/20211220203526/https://www.ole.com.ar/fuera-de-juego/marcelo-salas-katz-mensajes-_0_pipk2e7h_.html |url-status=live }}</ref>
+*[[Marcelo Ríos]], tennis player<ref>{{cite news |title=Chino Ríos manifestó apoyo a Kast y dijo que es "tremenda injusticia" que sea catalogado de fascista|url=https://www.chilevision.cl/noticias/show/chino-rios-manifesto-apoyo-a-kast-y-dijo-que-es-tremenda-injusticia}}</ref>
+;International politicians
+*[[Mario Vargas Llosa, 1st Marquis of Vargas Llosa]], Spanish-Peruvian writer, politician and Nobel Prize winner.<ref>{{cite news |title=Mario Vargas Llosa le entrega respaldo a la candidatura de José Antonio Kast |url=https://www.latercera.com/politica/noticia/mario-vargas-llosa-respalda-la-candidatura-de-jose-antonio-kast/X67XBTIF2VEIHBESPT2YHHXGQE/ |access-date=20 December 2021 |work=La Tercera |date=3 December 2021 |language=Spanish |archive-date=19 December 2021 |archive-url=https://web.archive.org/web/20211219164928/https://www.latercera.com/politica/noticia/mario-vargas-llosa-respalda-la-candidatura-de-jose-antonio-kast/X67XBTIF2VEIHBESPT2YHHXGQE/ |url-status=live }}</ref>
+*[[Eduardo Bolsonaro]], Member of [[Chamber of Deputies (Brazil)|Chamber of Deputies of Brazil]] and son of Brazilian President [[Jair Bolsonaro]]<ref>{{cite web|url=https://www.infobae.com/america/mundo/2021/11/22/eduardo-bolsonaro-celebro-el-avance-de-kast-a-la-segunda-vuelta-de-las-elecciones-presidenciales-en-chile/|title=Eduardo Bolsonaro celebró el avance de Kast a la segunda vuelta de las elecciones presidenciales en Chile|website=Infobae|date=November 22, 2021|accessdate=December 20, 2021|archive-date=22 November 2021|archive-url=https://web.archive.org/web/20211122192954/https://www.infobae.com/america/mundo/2021/11/22/eduardo-bolsonaro-celebro-el-avance-de-kast-a-la-segunda-vuelta-de-las-elecciones-presidenciales-en-chile/|url-status=live}}</ref>
+*[[Javier Milei]], Member of the [[Argentine Chamber of Deputies]]<ref>{{cite news|title=José Antonio Kast le agradeció el apoyo a Javier Milei: "Viva la libertad en Chile y Argentina carajo"|url=https://www.infobae.com/america/america-latina/2021/11/23/jose-antonio-kast-le-agradecio-el-apoyo-a-javier-milei-viva-la-libertad-en-chile-y-argentina-carajo/}}</ref>
+*[[Filip Dewinter]], Member of the [[Flemish Parliament]]<ref>{{Cite tweet|last=Dewinter|first=Filip|number=1472306270636056589|user=FDW_VB|title=Mijn (bescheiden) bijdrage aan de campagne van @joseantoniokast die morgen hopelijk president van #Chili 🇨🇱 wordt! Ik ontmoette hem enkele jaren geleden en hij verdient alle steun… #AtreveteChile #AtrevetePorKast #KastOComunismo|date=19 December 2021|access-date=20 December 2021|archive-url=https://web.archive.org/web/20211220085518/https://twitter.com/fdw_vb/status/1472306270636056589|archive-date=20 December 2021|url-status=live|trans-title=My (modest) contribution to the campaign of @joseantoniokast who will hopefully become president of #Chile tomorrow! I met him a few years ago and he deserves all the support... #DareChile #DareForKast #KastOrCommunism|language=nl, es}}</ref>
+;Parties and orgnanisations
+*[[KORWiN]], Polish political party<ref>{{cite web |url=https://www.facebook.com/partia.korwin.jkm/posts/463982631750607 |title=Partia KORWiN |date=17 December 2021 |website=[[Facebook]]}}</ref>
+*[[Vox (political party)|Vox]], Spanish political party<ref>{{cite web|url=https://www.europapress.es/nacional/noticia-vox-traslada-apoyo-candidato-chileno-ultraconservador-kast-20211122140646.html|title=Vox traslada su apoyo al candidato chileno ultraconservador Kast|website=Europa Press|date=November 22, 2021|accessdate=December 20, 2021}}</ref>
+}}
+
+==Opinion polls==
+{{main|Opinion polling for the 2021 Chilean presidential election}}
+
+===First round===
+:''Results considering only official candidates (excluding "Other", "Don't know", "Do not vote", etc.) and general voters, excluding polls showing likely voters or non-national samples.''
+{{Chart|definition=2021 Chilean general election First Round.chart|data=2021 Chilean general election First Round.tab|Width=900}}
+
+=== Second round ===
+:''Results considering only official candidates (excluding "Other", "Don't know", "Do not vote", etc.) and general voters, excluding polls only with likely voters. Average of polls every 3 days.''
+{{Chart|definition=2021 Chilean general election second round.chart|data=2021 Chilean general election second round.tab|Width=700}}
+
+==Public transport inefficiency==
+On the day of the second round on 19 December, voters at bus stops in rural parts of the country, and large municipalities in the [[Santiago Metropolitan Region]], such as [[Puente Alto]], [[San Bernardo, Chile|San Bernardo]], and [[Maipú, Chile|Maipú]], waited hours for public bus services in the blazing sun to reach their polling stations, due to a shortage of public bus services available on that day.
+
+Soon after these reports came in, local authorities and citizens in these municipalities took to social media to show [[Red Metropolitana de Movilidad]] bus terminals and parking decks full of unused city buses. This led to speculation that the incumbent government was suppressing voters by reducing bus services to prevent them from casting their votes. Apparently, most complaints of delays came from neighborhoods where Gabriel Boric had stronger levels of support.
+
+Leading figures from Boric's campaign, such as [[Izkia Siches]] cried foul, accusing the government of trying to help Kast win the election. Boric said "the government has a responsibility" to solve the problem to allow voters to be ferried to vote with the unused buses. The elections authority Servel expressed similar concerns to Transport Minister [[Gloria Hutt]].<ref>{{cite web|url=https://chiletoday.cl/chileans-denounce-lack-of-public-transport-amid-historic-elections/|title=Chileans denounce lack of buses amid historic elections|website=Chile Today|date=December 19, 2021|accessdate=December 20, 2021|archive-date=19 December 2021|archive-url=https://web.archive.org/web/20211219192607/https://chiletoday.cl/chileans-denounce-lack-of-public-transport-amid-historic-elections/|url-status=live}}</ref>
+
+The government spokesman [[Jaime Bellolio]] called the Boric campaign's claim as a "blatant lie", and denied that the government was suppressing voters, claiming that there were between 5,000 and 6,000 buses running in the Metropolitan Region. However, this was contradicted by transport authorities, which stated that only 3,000 buses were operating. The transport authority however, also stressed that the number of buses was 55 percent more than a usual Sunday and between 3 percent or 4 percent greater than on the first round of election in November.<ref>{{cite web|url=https://www.biobiochile.cl/noticias/nacional/chile/2021/12/19/elecciones-chile-gobierno-desmintio-acusaciones-del-comando-de-boric-por-falta-de-buses.shtml|title=Gobierno acusa a comando de Boric de "mentir descaradamente" tras aludir intención en falta de buses|website=biobiochile|date=December 19, 2021|accessdate=December 20, 2021|language=es|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220064211/https://www.biobiochile.cl/noticias/nacional/chile/2021/12/19/elecciones-chile-gobierno-desmintio-acusaciones-del-comando-de-boric-por-falta-de-buses.shtml|url-status=live}}</ref>
+
+A Transantiago bus driver claimed that only 40 percent of the bus drivers available were driving that day, despite statements from the government that they were operating buses on a normal work schedule. As a result, carpools were organized through social media, while private services like [[Uber]] and [[Cabify]] offered ride discounts for voters to travel to polling stations.<ref name="biobiochile">{{cite web|url=https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2021/12/19/falto-mucha-gente-choferes-del-transantiago-acusan-que-colegas-no-trabajaron-en-segunda-vuelta.shtml|title="Pudimos haber sido lentos en reaccionar": Hutt realiza mea culpa tras acusación por falta de buses|website=biobiochile|date=December 19, 2021|accessdate=December 20, 2021|language=es|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220064225/https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2021/12/19/falto-mucha-gente-choferes-del-transantiago-acusan-que-colegas-no-trabajaron-en-segunda-vuelta.shtml|url-status=live}}</ref>
+
+In the evening, just before polls closed, Transport Minister Gloria Hutt apologized, acknowledging the government was slow to react to the situation and blamed the delays on road work and traffic, but denied that the government was engaging in voter suppression.<ref name="biobiochile"/>
+
+== Results ==
+
+===President===
+Turnout for the second round rose by 1.2 million from the first round, and from 47.3% in the first round to 55.6%, the highest level for any Chilean election since voting ceased to be compulsory in 2012.<ref>{{cite web|url=https://www.theguardian.com/world/2021/dec/20/gabriel-boric-vows-to-fight-privileges-of-the-few-as-chiles-premier|title=Gabriel Boric vows to 'fight privileges of the few' as Chile's premier|website=The Guardian|date=December 19, 2021|accessdate=December 20, 2021|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220170029/https://www.theguardian.com/world/2021/dec/20/gabriel-boric-vows-to-fight-privileges-of-the-few-as-chiles-premier|url-status=live}}</ref>
+
+Gabriel Boric won the election with 55.9% of the vote and became the youngest president in Chile's history and [[List of state leaders by age#Youngest serving state leaders|youngest state leader in the world]].<ref name="bbc 2021">{{Cite news|date=2021-12-20|title=Leftist Gabriel Boric wins Chile presidential election|language=en-GB|work=BBC News|url=https://www.bbc.com/news/world-latin-america-59715941|access-date=2021-12-20|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220000309/https://www.bbc.com/news/world-latin-america-59715941|url-status=live}}</ref><ref name="yahoo 2021">{{cite web|title=Leftist lawmaker Boric wins polarized election in Chile, to become nation's youngest president|url=https://news.yahoo.com/leftist-lawmaker-boric-wins-polarized-000051533.html|access-date=2021-12-20|website=news.yahoo.com|date=20 December 2021 |language=en-US}}</ref>
+
+A post-election survey showed that despite their endorsement of Kast, 59% of Parisi's voters and 23% of Sichel's voters voted for Boric, while 82% of Yasna Provoste's supporters, 83% of Marco Enríquez-Ominami's supporters, and 92% of Eduardo Artés's supporters voted for Boric.<ref>{{cite web|title=Pulso Ciudadano: Un 59% de los votantes de Parisi y un 23% de los de Sichel optaron por Boric en segunda vuelta|url=https://www.cnnchile.com/elecciones2021/pulso-ciudadano-votantes-parisi-sichel-segunda-vuelta_20211226/|access-date=2021-12-30|website=CNN Chile|language=es}}</ref>
+
+<onlyinclude>{{Election results
+
+|cand1=[[José Antonio Kast]]
+|party1=[[Christian Social Front]] ([[Republican Party (Chile, 2019)|PLR]])
+|votes1=1961779
+|votes1_2=3650088
+
+|cand2=[[Gabriel Boric]]
+|party2={{lang|es|italic=no|[[Apruebo Dignidad]]}} ([[Social Convergence|CS]])
+|votes2=1815024
+|votes2_2=4620890
+
+|cand3=[[Franco Parisi]]
+|party3=[[Party of the People (Chile)|Party of the People]]
+|votes3=900064
+
+|cand4=[[Sebastián Sichel]]
+|party4={{lang|es|italic=no|[[Chile Podemos Más]]}}
+|votes4=898635
+
+|cand5=[[Yasna Provoste]]
+|party5=[[New Social Pact]] ([[Christian Democratic Party (Chile)|PDC]])
+|votes5=815563
+
+|cand6=[[Marco Enríquez-Ominami]]
+|party6=[[Progressive Party (Chile)|Progressive Party]]
+|votes6=534383
+
+|cand7=[[Eduardo Artés]]
+|party7=[[Patriotic Union (Chile)|Patriotic Union]] ([[Chilean Communist Party (Proletarian Action)|PC-AP]])
+|votes7=102897
+
+|invalid=55480
+|invalid2=68802
+
+|blank=30493
+|blank2=24130
+
+|electorate=15030974
+|electorate2=15030974
+
+|source=[https://tribunalcalificador.cl/wp-content/uploads/2021/12/Resultados-Ofciales-Eleccion-Presidencial-21-de-noviembre-de-2021.xlsx Election Certification Court] (final first round results), [https://www.servelelecciones.cl/ Servel] (final second round results)
+}}</onlyinclude>
+
+=== Chamber of Deputies===
+{{Election results
+|image=[[File:Chile Chamber by parties 2021.svg|250px]][[File:Chile Chamber 2021.svg|250px]]<br />Distribution by party (left) and coalitions (right)
+|alliance1=[[Chile Podemos Más]]|aspan1=5|party1=[[National Renewal (Chile)|National Renewal]]|votes1=693474|seats1=25|sc1=–11
+|party2=[[Independent Democratic Union]]|votes2=671502|seats2=23|sc2=–7
+|party3=[[Evópoli]]|votes3=221284|seats3=4|sc3=–2
+|party4=[[Democratic Independent Regionalist Party]]|votes4=23222|seats4=1|sc4=+1
+|atotal5=1609482|aseats5=53|sc5=–19
+|alliance6=[[Apruebo Dignidad]]|aspan6=6|party6=[[Comunes (political party)|Comunes]]|votes6=207607|seats6=6|sc6=+5
+|party7=[[Communist Party of Chile|Communist Party]]|votes7=464885|seats7=12|sc7=+4
+|party8=[[Social Convergence]]|votes8=287190|seats8=9|sc8=New
+|party9=[[Democratic Revolution]]|votes9=257854|seats9=8|sc9=–2
+|party10=[[Social Green Regionalist Federation]]|votes10=107696|seats10=2|sc10=–2
+|atotal11=1325232|aseats11=37|sc11=+14
+|alliance12=[[New Social Pact]]|aspan12=7|party12=[[Socialist Party of Chile|Socialist Party]]|votes12=343437|seats12=13|sc12=–6
+|party13=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes13=264985|seats13=8|sc13=–6
+|party14=[[Party for Democracy (Chile)|Party for Democracy]]|votes14=242927|seats14=7|sc14=–1
+|party15=[[Radical Party of Chile (2018)|Radical Party]]|votes15=111117|seats15=4|sc15=–4
+|party16=[[Liberal Party of Chile (2013)|Liberal Party]]|votes16=96010|seats16=4|sc16=+2
+|party17=[[Citizens (Chilean political party)|Citizens]]|votes17=27502|seats17=1|sc17=+1
+|atotal18=1085978|aseats18=37|sc18=–14
+|alliance19=[[Christian Social Front]]|aspan19=3|party19=[[Republican Party (Chile, 2019)|Republican Party]]|votes19=666726|seats19=14|sc19=New
+|party20=[[Christian Conservative Party (Chile)|Christian Conservative Party]]|votes20=40560|seats20=1|sc20=New
+|atotal21=707286|aseats21=15|sc21=New
+|alliance22=[[Party of the People (Chile)|Party of the People]]|votes22=534881|seats22=6|sc22=New
+|alliance23=[[Dignidad Ahora]]|aspan23=3|party23=[[Humanist Party (Chile)|Humanist Party]]|votes23=195409|seats23=3|sc23=–2
+|party24=[[Equality Party (Chile)|Equality Party]]|votes24=127506|seats24=0|sc24=–1
+|atotal25=322915|aseats25=3|sc25=–3
+|alliance26=[[Green Ecologist Party (Chile)|Green Ecologist Party]]|votes26=305443|seats26=2|sc26=+1
+|alliance27=[[United Independents (Chile)|United Independents]]|aspan27=3|party27=[[United Centre (Chile)|United Centre]]|votes27=177105|seats27=1|sc27=New
+|party28=[[National Citizen Party (Chile)|National Citizen Party]]|votes28=10291|seats28=0|sc28=New
+|atotal29=187396|aseats29=1|sc29=New
+|alliance30=[[Patriotic Union (Chile)|Patriotic Union]]|votes30=56506|seats30=0|sc30=0
+|alliance31=[[Revolutionary Workers Party (Chile)|Revolutionary Workers Party]]||votes31=51075|seats31=0|sc31=0
+|alliance32=[[Progressive Party (Chile)|Progressive Party]]|votes32=46422|seats32=0|sc32=–1
+|alliance33=[[New Time (Chile)|New Time]]|votes33=4420|seats33=0|sc33=New
+|alliance34=Independents|votes34=90960|seats34=1|sc34=0
+|total_sc=0
+|invalid=339470
+|blank=404762
+|electorate=15030963
+|source=[https://www.servelelecciones.cl/ Servicio Electoral de Chile]. (99.98%)
+}}
+
+===Senate===
+{{Election results
+|image=[[File:Senado de Chile elección 2021.svg|250px]][[File:Chile Senate 2021.svg|250px]]<br />Seat distribution by party (left) and coalitions (right)
+|seattype1=Won|seattype2=Not up|seattype3=Total
+|alliance1=[[Chile Podemos Más]]|aspan1=5|party1=[[National Renewal (Chile)|National Renewal]]|votes1=549553|st1t1=5|st2t1=6|st3t1=12
+|party2=[[Evópoli]]|votes2=368024|st1t2=2|st2t2=2|st3t2=3
+|party3=[[Independent Democratic Union]]|votes3=354812|st1t3=5|st2t3=4|st3t3=9
+|party4=[[Democratic Independent Regionalist Party]]|votes4=25297|st1t4=0|st2t4=0|st3t4=0
+|atotal5=1297686|ast1t5=12|ast2t5=12|ast3t5=24
+|alliance6=[[Apruebo Dignidad]]|aspan6=6|party6=[[Communist Party of Chile|Communist Party]]|votes6=335709|st1t6=2|st2t6=0|st3t6=2
+|party7=[[Social Green Regionalist Federation]]|votes7=188308|st1t7=2|st2t7=0|st3t7=2
+|party8=[[Comunes (political party)|Comunes]]|votes8=172054|st1t8=0|st2t8=0|st3t8=0
+|party9=[[Democratic Revolution]]|votes9=156256|st1t9=0|st2t9=1|st3t9=1
+|party10=[[Social Convergence]]|votes10=59489|st1t10=0|st2t10=0|st3t10=0
+|atotal11=911716|ast1t11=4|ast2t11=1|ast3t11=5
+|alliance12=[[New Social Pact]]|aspan12=6|party12=[[Socialist Party of Chile|Socialist Party]]|votes12=314114|st1t12=4|st2t12=3|st3t12=7
+|party13=[[Christian Democratic Party (Chile)|Christian Democratic Party]]|votes13=214180|st1t13=2|st2t13=3|st3t13=5
+|party14=[[Party for Democracy (Chile)|Party for Democracy]]|votes14=111910|st1t14=2|st2t14=4|st3t14=6
+|party15=[[Radical Party of Chile (2018)|Radical Party]]|votes15=58077|st1t15=0|st2t15=0|st3t15=0
+|party16=[[Liberal Party of Chile (2013)|Liberal Party]]|votes16=28082|st1t16=0|st2t16=0|st3t16=0
+|atotal17=726363|ast1t17=8|ast2t17=10|ast3t17=18
+|alliance18=[[Christian Social Front]]|aspan18=3|party18=[[Republican Party (Chile, 2019)|Republican Party]]|votes18=336305|st1t18=1|st2t18=0|st3t18=1
+|party19=[[Christian Conservative Party (Chile)|Christian Conservative Party]]|votes19=65262|st1t19=0|st2t19=0|st3t19=0
+|atotal20=401567|ast1t20=1|ast2t20=0|ast3t20=1
+|alliance21=[[Party of the People (Chile)|Party of the People]]|votes21=378378|st1t21=0|st2t21=0|st3t21=0
+|alliance22=[[Green Ecologist Party (Chile)|Green Ecologist Party]]|votes22=198710|st1t22=0|st2t22=0|st3t22=0
+|alliance23=[[United Independents (Chile)|United Independents]]|aspan23=3|party23=[[United Centre (Chile)|United Centre]]|votes23=158134|st1t23=0|st2t23=0|st3t23=0
+|party24=[[National Citizen Party (Chile)|National Citizen Party]]|votes24=7174|st1t24=0|st2t24=0|st3t24=0
+|atotal25=165308|ast1t25=0|ast2t25=0|ast3t25=0
+|alliance26=[[Dignidad Ahora]]|aspan26=3|party26=[[Equality Party (Chile)|Equality Party]]|votes26=82785|st1t26=0|st2t26=0|st3t26=0
+|party27=[[Humanist Party (Chile)|Humanist Party]]|votes27=15916|st1t27=0|st2t27=0|st3t27=0
+|atotal28=98701|ast1t28=0|ast2t28=0|ast3t28=0
+|alliance29=[[Patriotic Union (Chile)|Patriotic Union]]|votes29=41155|st1t29=0|st2t29=0|st3t29=0
+|alliance30=[[Revolutionary Workers Party (Chile)|Revolutionary Workers Party]]|votes30=4802|st1t30=0|st2t30=0|st3t30=0
+|alliance31=Independents|votes31=433448|st1t31=2|st2t31=0|st3t31=2
+|invalid=227995
+|blank=233086
+|electorate=15030963
+|source=[https://www.servelelecciones.cl/ Servicio Electoral de Chile]
+}}
+
+===Regional Boards===
+:''Note: Provisional results, including 99.97% of ballot boxes.''
+
+{{Election results
+|alliance1=[[Chile Vamos]]|aspan1=|party1=[[National Renewal (Chile)|RN]] and independents|votes1=702607|seats1=53
+|alliance2=[[Chile Vamos]]|aspan2=|party2=[[Independent Democratic Union|UDI]] and independents|votes2=680283|seats2=43
+|alliance3=[[Constituent Unity]]|aspan3=3|party3=[[Socialist Party of Chile|PS]] and independents|votes3=358207|seats3=23
+|party4=[[Party for Democracy (Chile)|PPD]] and independents|votes4=234242|seats4=19
+|atotal5=592449|aseats5=42
+|alliance6=[[Frente Amplio (Chilean political coalition)|Frente Amplio]]|aspan6=5|party6=[[Social Convergence|CS]] and independents|votes6=217259|seats6=10
+|party7=[[Democratic Revolution|RD]] and independents|votes7=250324|seats7=12
+|party8=[[Liberal Party of Chile (2013)|PLC]] and independents|votes8=9414|seats8=0
+|party9=[[Comunes (political party)|Comunes]] and independents|votes9=95144|seats9=3
+|atotal10=572141|aseats10=25
+|alliance11=For a Dignified Chile|aspan11=3|party11=[[Communist Party of Chile|PCCh]] and independents|votes11=448137|seats11=21
+|party12=[[Equality Party (Chile)|Equality for Chile]]|votes12=102293|seats12=3
+|atotal13=550430|aseats13=24
+|alliance14=Citizen Democracy|aspan14=3|party14=[[Christian Democratic Party (Chile)|PDC]] and independents|votes14=489894|seats14=36
+|party15=[[Citizens (Chilean political party)|Citizens]] and independents|votes15=30077|seats15=0
+|atotal16=519971|aseats16=36
+|alliance17=[[Party of the People (Chile)|Party of the People]]|votes17=474132|seats17=22
+|alliance18=[[Republican Party (Chile, 2019)|Republicans]] and independents|votes18=470514|seats18=15
+|alliance19=[[Green Ecologist Party (Chile)|Ecologists]] and independents|votes19=315682|seats19=6
+|alliance20=[[Chile Vamos]]|party20=[[Evópoli]] and independents|votes20=274072|seats20=11
+|alliance21=Progressive Radical Change|aspan21=3|party21=[[Radical Party of Chile|PR]] and independents|votes21=173882|seats21=11
+|party22=[[Progressive Party (Chile)|PRO]] and independents|votes22=80700|seats22=1
+|atotal23=254582|aseats23=12
+|alliance24=[[Social Green Regionalist Federation|Green Regionalists]] and independents|votes24=232144|seats24=7
+|alliance25=[[Humanist Party (Chile)|Let's Humanize Chile]]|votes25=106790|seats25=0
+|alliance26=[[Chile Vamos]]|aspan26=|party26=[[Democratic Independent Regionalist Party|PRI]] and independents|votes26=144028|seats26=3
+|alliance27=[[United Independents (Chile)|United Independents]]|votes27=79251|seats27=0
+|alliance28=[[Patriotic Union (Chile)|Patriotic Union]]|votes28=41344|seats28=0
+|alliance29=Working Class Unity Front|votes29=36706|seats29=0
+|alliance30=[[Christian Conservative Party (Chile)|Christian Conservative Party]] and independents|votes30=21338|seats30=0
+|alliance31=[[New Time (Chile)|New Time]]|votes31=1160|seats31=0
+|alliance32=Independents|votes32=65510|seats32=3
+|invalid=381731
+|blank=544849
+|source=[https://www.servelelecciones.cl/ Servicio Electoral de Chile]
+}}
+
+== Aftermath ==
+{{multiple image
+ | align = right
+ | direction = vertical
+ | width = 250
+ | image1 = Gabriel Boric at victory speech , santiago, chile.jpg
+ | image2 = Gabriel Boric Front portrait.jpg
+ | caption2 = Gabriel Boric's victory celebration in the [[Alameda (Santiago)|Alameda]].
+}}
+On 19 December 2021, shortly after the preliminary results of the second round were publicized, Kast conceded defeat and congratulated Boric through a [[Tweet (Twitter)|tweet]] saying "I have just talked to Gabriel Boric and have congratulated him for his big triumph. From now on he is the president-elect of Chile and deserves all of our respect and constructive collaboration. Chile is always first".<ref>{{cite web |url=https://www.semana.com/mundo/articulo/atencion-jose-antonio-kast-felicita-a-boric-por-su-gran-triunfo-en-las-elecciones-de-chile/202116/ |title=ATENCIÓN: José Antonio Kast felicita a Boric 'por su gran triunfo' en las elecciones de Chile |publisher=Semana.com |date= 20 December 2021|accessdate=2021-12-20 |archive-date=20 December 2021 |archive-url=https://web.archive.org/web/20211220073433/https://www.semana.com/mundo/articulo/atencion-jose-antonio-kast-felicita-a-boric-por-su-gran-triunfo-en-las-elecciones-de-chile/202116/ |url-status=live }}</ref> Later that day, Kast visited Boric at the latter's campaign headquarters in central Santiago.<ref>{{cite web|url=https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2021/12/19/kast-llego-hasta-el-comando-de-boric-minutos-antes-de-su-discurso-en-la-alameda.shtml|title=Kast llegó hasta el comando de Boric minutos antes de su discurso en La Alameda|accessdate=2021-12-20|date=2021-12-19|work=Radio Bío-Bío|language=es|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220012221/https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2021/12/19/kast-llego-hasta-el-comando-de-boric-minutos-antes-de-su-discurso-en-la-alameda.shtml|url-status=live}}</ref> Boric thanked Kast during his victory speech, saying "we must build bridges for our compatriots to live better, because that is the people of Chile's demand".<ref>{{cite web|url=https://www.radioagricultura.cl/nacional/2021/12/19/gabriel-boric-agradecio-a-jose-antonio-kast-en-su-primer-discurso-como-presidente-electo-se-que-mas-alla-de-las-diferencias-sabremos-construir-puentes.html|title=Gabriel Boric agradeció a José Antonio Kast en su primer discurso como Presidente electo: "Sé que más allá de las diferencias, sabremos construir puentes"|accessdate=2021-12-20|work=Radio Agricultura|language=es|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220052233/https://www.radioagricultura.cl/nacional/2021/12/19/gabriel-boric-agradecio-a-jose-antonio-kast-en-su-primer-discurso-como-presidente-electo-se-que-mas-alla-de-las-diferencias-sabremos-construir-puentes.html|url-status=live}}</ref>
+
+Outgoing president [[Sebastián Piñera]] had a video call with president-elect Boric, which was broadcast live on TV and radio, complying with one of the country's electoral traditions since the [[Chilean transition to democracy|transition to democracy]].<ref>{{cite web|url=https://www.infobae.com/america/america-latina/2021/12/20/el-cordial-saludo-por-tv-de-sebastian-pinera-a-gabriel-boric-una-tradicion-en-chile-que-contrasta-con-el-resto-del-continente/|title=El cordial saludo por TV de Sebastián Piñera a Gabriel Boric, una tradición en Chile que contrasta con el resto del continente|accessdate=2021-12-20|date=2021-12-19|work=infobae|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220103221/https://www.infobae.com/america/america-latina/2021/12/20/el-cordial-saludo-por-tv-de-sebastian-pinera-a-gabriel-boric-una-tradicion-en-chile-que-contrasta-con-el-resto-del-continente/|url-status=live}}</ref> During their conversation, Piñera congratulated Boric and said "when we divide [our country] in wars between ourselves, things always go wrong. We all hope you make a very good government for Chile and the Chileans and I am sure you will do your best". Boric said "I am going to be the President of all Chileans, because I believe it is important to interpret everyone and agreements should be between all of the people and not inside four walls".<ref>{{cite web|url=https://www.latercera.com/politica/noticia/pinera-llama-a-boric-y-lo-felicita-por-su-triunfo-la-democracia-cumplio-y-los-chilenos-han-dado-un-nuevo-ejemplo-de-democracia-usted-fue-parte-de-eso-asi-que-lo-felicito/B52RMFLUWVC4PNQG6T2HLU3CWA/|title=Piñera llama a Boric y lo felicita por su triunfo: "Estoy seguro que usted va a entregar lo mejor de sí mismo"|accessdate=2021-12-20|last=Martínez|first=Roberto|date=2021-12-19|work=La Tercera|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220005828/https://www.latercera.com/politica/noticia/pinera-llama-a-boric-y-lo-felicita-por-su-triunfo-la-democracia-cumplio-y-los-chilenos-han-dado-un-nuevo-ejemplo-de-democracia-usted-fue-parte-de-eso-asi-que-lo-felicito/B52RMFLUWVC4PNQG6T2HLU3CWA/|url-status=live}}</ref>
+
+Boric was also congratulated by President of the [[Constitutional Convention (Chile)|Constitutional Convention]], [[Elisa Loncón]].<ref>{{cite web|url=https://www.24horas.cl/elecciones-2021/noticias-elecciones/gonzalo-winter-llamada-presidente-boric-elisa-loncon|title=Gonzalo Winter: "La primera llamada que tuvo el presidente Boric fue con Elisa Loncon"|accessdate=2021-12-20|work=24 horas|language=es-CL|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220091520/https://www.24horas.cl/elecciones-2021/noticias-elecciones/gonzalo-winter-llamada-presidente-boric-elisa-loncon|url-status=live}}</ref><ref>{{cite web|url=https://www.t13.cl/noticia/convencion-constitucional/elecciones-2021/politica/elisa-loncon-jaime-bassa-felicitan-gabriel-apoyo-institucional-robusto-20-12-2021|title=Loncon y Bassa felicitan a Boric: "Esperamos un apoyo institucional robusto"|accessdate=2021-12-20|work=T13|date=20 December 2021 |archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220050542/https://www.t13.cl/noticia/convencion-constitucional/elecciones-2021/politica/elisa-loncon-jaime-bassa-felicitan-gabriel-apoyo-institucional-robusto-20-12-2021|url-status=live}}</ref> The leader of [[Coordinadora Arauco-Malleco]], [[Héctor Llaitul]], dismissed Boric as being together with Kast "two faces of the same coin" and warned that Boric will maintain "the colonial-format capitalist system". Llaitul pledged to continue "the path of revolutionary autonomism".<ref>{{Cite news|title=La CAM sale a criticar a Boric y advierte que seguirá "en la senda de la autonomía revolucionaria"|url=https://www.t13.cl/noticia/ex-ante/nacional/la-cam-sale-criticar-boric-y-advierte-seguira-senda-autonomia-revolucionaria|date=2021-12-21|work=[[Canal 13 (Chilean TV channel)|T13]]}}</ref>
+
+===International reaction===
+Among international leaders who congratulated Boric are [[President of Argentina]] [[Alberto Fernández]],<ref name="ambito">{{cite web|url=https://www.ambito.com/politica/chile/alberto-fernandez-y-cristina-kirchner-felicitaron-boric-su-victoria-el-pueblo-siempre-vuelve-n5338295|title=Alberto Fernández y Cristina Kirchner felicitaron a Boric por su victoria en Chile: "El pueblo siempre vuelve"|accessdate=2021-12-20|work=www.ambito.com|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220053846/https://www.ambito.com/politica/chile/alberto-fernandez-y-cristina-kirchner-felicitaron-boric-su-victoria-el-pueblo-siempre-vuelve-n5338295|url-status=live}}</ref> Vice President [[Cristina Fernández de Kirchner|Cristina Kirchner]],<ref name ="ambito" /> [[President of Bolivia]] [[Luis Arce]],<ref>{{cite news|url=https://elcomercio.pe/mundo/latinoamerica/elecciones-chile-2021-el-presidente-de-bolivia-dice-que-triunfo-de-gabriel-boric-fortalece-la-democracia-luis-arce-jose-antonio-kast-quien-gano-la-segunda-vuelta-en-chile-donde-ver-el-resultado-de-las-elecciones-presidenciales-en-chile-en-directo-minuto-a-minuto-servel-balotaje-izquierda-vs-ultraderecha-la-moneda-sebastian-pinera-noticia/|title=El presidente de Bolivia dice que triunfo de Boric "fortalece" la democracia|accessdate=2021-12-19|date=2021-12-20|work=elcomercio.pe|language=|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220022233/https://elcomercio.pe/mundo/latinoamerica/elecciones-chile-2021-el-presidente-de-bolivia-dice-que-triunfo-de-gabriel-boric-fortalece-la-democracia-luis-arce-jose-antonio-kast-quien-gano-la-segunda-vuelta-en-chile-donde-ver-el-resultado-de-las-elecciones-presidenciales-en-chile-en-directo-minuto-a-minuto-servel-balotaje-izquierda-vs-ultraderecha-la-moneda-sebastian-pinera-noticia/|url-status=live}}</ref><ref>{{cite web|url=https://www.efe.com/efe/america/politica/el-presidente-de-bolivia-dice-que-triunfo-boric-fortalece-la-democracia/20000035-4701975|title=El presidente de Bolivia dice que triunfo de Boric "fortalece" la democracia|accessdate=2021-12-20|work=efe.com|language=|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220053736/https://www.efe.com/efe/america/politica/el-presidente-de-bolivia-dice-que-triunfo-boric-fortalece-la-democracia/20000035-4701975|url-status=live}}</ref> President of the [[Chamber of Senators (Bolivia)|Chamber of Senators of Bolivia]] [[Andrónico Rodríguez]],<ref>{{cite web|url=https://www.paginasiete.bo/planeta/2021/12/20/el-mas-los-gobiernos-de-izquierda-felicitan-la-victoria-de-boric-318541.html|title=El MAS y los gobiernos de izquierda felicitan la victoria de Boric|accessdate=2021-12-20|date=2021-12-20|work=paginasiete.bo|language=}}</ref> former [[President of Brazil]] [[Lula da Silva]],<ref>{{cite web|url=https://www.infobae.com/america/america-latina/2021/12/20/lideres-del-mundo-saludaron-a-gabriel-boric-por-su-victoria-en-las-elecciones-de-chile/|title=Líderes del mundo saludaron a Gabriel Boric por su victoria en las elecciones de Chile|accessdate=2021-12-20|date=2021-12-19|work=infobae|language=es-ES|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220104232/https://www.infobae.com/america/america-latina/2021/12/20/lideres-del-mundo-saludaron-a-gabriel-boric-por-su-victoria-en-las-elecciones-de-chile/|url-status=live}}</ref> [[President of Colombia]] [[Iván Duque]],<ref>{{cite web |url=https://www.semana.com/nacion/articulo/presidente-ivan-duque-felicita-a-gabriel-boric-tras-ganar-las-elecciones-en-chile/202136/ |title=Presidente Iván Duque felicita a Gabriel Boric tras ganar las elecciones en Chile |publisher=Semana.com |date= 20 December 2021|accessdate=2021-12-20 |archive-date=20 December 2021 |archive-url=https://web.archive.org/web/20211220080313/https://www.semana.com/nacion/articulo/presidente-ivan-duque-felicita-a-gabriel-boric-tras-ganar-las-elecciones-en-chile/202136/ |url-status=live }}</ref> [[President of Costa Rica]] [[Carlos Alvarado]],<ref>{{Cite tweet|last=Alvarado Quesada|first=Carlos|number=1472706621264572417|user=CarlosAlvQ|title=Mis sinceras felicitaciones a @gabrielboric, Presidente electo de Chile, y al hermano pueblo chileno por este ejercicio democrático. Le deseo que logre conducir a 🇨🇱 por el mejor camino, para el bienestar del pueblo chileno. @CRcancilleria|date=19 December 2021|access-date=20 December 2021|language=es|archive-url=https://web.archive.org/web/20211220044605/https://twitter.com/carlosalvq/status/1472706621264572417|archive-date=20 December 2021|url-status=live|trans-title=My sincere congratulations to @gabrielboric, President-elect of Chile, and to the Chilean people for this democratic exercise. I wish him success in leading Chile along the best path, for the welfare of the Chilean people. [[Ministry of Foreign Affairs and Worship (Costa Rica)|@CRcancilleria]]}}</ref> [[President of Ecuador]] [[Guillermo Lasso]],<ref>{{cite web |url=https://www.pichinchacomunicaciones.com.ec/guillermo-lasso-felicita-y-desea-exitos-a-gabriel-boric-presidente-electo-de-chile/ |title=Guillermo Lasso felicita y desea éxitos a Gabriel Boric, presidente electo de Chile – Radio Pichincha |publisher=Pichinchacomunicaciones.com.ec |date= 19 December 2021|accessdate=2021-12-20 |archive-date=20 December 2021 |archive-url=https://web.archive.org/web/20211220030038/https://www.pichinchacomunicaciones.com.ec/guillermo-lasso-felicita-y-desea-exitos-a-gabriel-boric-presidente-electo-de-chile/ |url-status=live }}</ref> [[Prime Minister of Spain]] [[Pedro Sánchez]],<ref>{{cite web|author=Agencia EFE |url=https://es.noticias.yahoo.com/s%C3%A1nchez-felicita-boric-esperanza-futuro-002204697.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAB1wzzGEs3xcZedHoEOF_JkPP7oZ9Mqk30HlE8HenCNA4K5ytZg413wFAEfCirKKwh6-c0OuOSyD0iMnTY3miS6rZxisI4FP8uzvn_KWcDJeTNGjTX36hiYpeS92816i4EqegVVc3NxuV9Fg7jU_kmF_vOUmUxqUa27hwqkVRwCS |title=España felicita a Boric y le desea muchos éxitos como presidente de Chile |publisher=Es.noticias.yahoo.com |date= |accessdate=2021-12-20}}</ref> [[US Secretary of State]] [[Antony Blinken]],<ref>{{cite web|url=https://cooperativa.cl/noticias/pais/politica/presidenciales/estados-unidos-felicito-a-boric-y-espera-seguir-trabajando-con-chile-por/2021-12-20/130008.html|title=Estados Unidos felicitó a Boric y espera seguir trabajando con Chile por la seguridad|accessdate=2021-12-20|work=Cooperativa.cl|language=Spanish}}</ref> [[Ministry for Europe and Foreign Affairs (France)|Minister for Europe and Foreign Affairs]] of France [[Jean-Yves Le Drian]], [[Mayor of Paris]] [[Anne Hidalgo]], [[President of Mexico]] [[Andrés Manuel López Obrador]] and his Foreign Secretary [[Marcelo Ebrard]],<ref>{{cite web |url=https://www.france24.com/es/minuto-a-minuto/20211220-l%C3%ADderes-saludan-el-triunfo-del-izquierdista-gabriel-boric-en-chile |title=Líderes saludan el triunfo del izquierdista Gabriel Boric en Chile |publisher=France24.com |date= 20 December 2021|accessdate=2021-12-20 |archive-date=20 December 2021 |archive-url=https://web.archive.org/web/20211220071433/https://www.france24.com/es/minuto-a-minuto/20211220-l%C3%ADderes-saludan-el-triunfo-del-izquierdista-gabriel-boric-en-chile |url-status=live }}</ref> [[President of Peru]] [[Pedro Castillo]],<ref>{{Cite web |url=https://rpp.pe/peru/actualidad/pedro-castillo-felicito-a-gabriel-boric-la-victoria-que-has-alcanzado-la-compartimos-los-pueblos-latinoamericanos-noticia-1375941 |title=Pedro Castillo felicitó a Gabriel Boric: "La victoria que has alcanzado la compartimos los pueblos latinoamericanos" |website=[[Radio Programas del Perú|RPP Noticias]] |date=19 December 2021 |access-date=20 December 2021 |archive-date=20 December 2021 |archive-url=https://web.archive.org/web/20211220032316/https://rpp.pe/peru/actualidad/pedro-castillo-felicito-a-gabriel-boric-la-victoria-que-has-alcanzado-la-compartimos-los-pueblos-latinoamericanos-noticia-1375941 |url-status=live |language=es}}</ref> [[President of Uruguay]] [[Luis Lacalle Pou]],<ref>{{cite web|url=https://www.efe.com/efe/america/politica/lacalle-pou-felicita-a-boric-y-le-desea-un-gobierno-para-el-bien-de-chile/20000035-4701942|title=Lacalle Pou felicita a Boric y le desea un Gobierno "para el bien" de Chile|accessdate=2021-12-20|work=www.efe.com|language=es|archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220023442/https://www.efe.com/efe/america/politica/lacalle-pou-felicita-a-boric-y-le-desea-un-gobierno-para-el-bien-de-chile/20000035-4701942|url-status=live}}</ref> [[President of Venezuela]] [[Nicolás Maduro]],<ref>{{cite web|url=https://www.t13.cl/noticia/elecciones-2021/politica/nicolas-maduro-gabriel-boric-triunfo-segunda-vuelta-contundente-victoria-fascismo-19-12-2021|title=Maduro saluda a Boric por triunfo en segunda vuelta: "Contundente victoria sobre el fascismo"|accessdate=2021-12-20|work=T13|date=19 December 2021 |archive-date=20 December 2021|archive-url=https://web.archive.org/web/20211220050551/https://www.t13.cl/noticia/elecciones-2021/politica/nicolas-maduro-gabriel-boric-triunfo-segunda-vuelta-contundente-victoria-fascismo-19-12-2021|url-status=live}}</ref> and opposition leaders of Venezuela [[Juan Guaidó]] and [[Henrique Capriles]].<ref>{{Cite tweet|last=Guaidó|first=Juan|number=1472743546801246210|user=jguaido|title=Los venezolanos luchamos por poder elegir libremente como lo ha hecho hoy Chile. Queremos felicitar el Pdte electo @gabrielboric en quien confiamos mantenga el apoyo en la defensa de los DDHH en nuestro país y realice una buena gestión por el bienestar de los venezolanos en Chile|date=19 December 2021|access-date=20 December 2021|language=es|archive-url=https://web.archive.org/web/20211220014030/https://twitter.com/jguaido/status/1472743546801246210|archive-date=20 December 2021|url-status=live|trans-title=Venezuelans are fighting to be able to choose freely as Chile has done today. We would like to congratulate the President elect @gabrielboric who we trust will continue to support the defense of human rights in our country and will do a good job for the welfare of Venezuelans in Chile.}}</ref> The [[European Union]], via its [[High Representative of the Union for Foreign Affairs and Security Policy]] [[Josep Borrell]], also congratulated Boric on his victory in the second round and pointed to "strengthening" relations with the Chilean government.<ref>[https://www.infobae.com/america/america-latina/2021/12/20/lideres-del-mundo-saludaron-a-gabriel-boric-por-su-victoria-en-las-elecciones-de-chile/ Líderes del mundo saludaron a Gabriel Boric por su victoria en las elecciones de Chile] {{Webarchive|url=https://web.archive.org/web/20211220104232/https://www.infobae.com/america/america-latina/2021/12/20/lideres-del-mundo-saludaron-a-gabriel-boric-por-su-victoria-en-las-elecciones-de-chile/ |date=20 December 2021 }} {{in lang|es}}</ref>
+
+President of Brazil [[Jair Bolsonaro]] had a late and cold reaction to Boric's election. He pointed out that "half of the population abstained" in the election, and referred to Boric as "that Boric".<ref name=Tercera24Bolsonaro>{{Cite news|title=Bolsonaro y su tardío saludo a Boric: los cruces más polémicos de una relación tensa|url=https://www.latercera.com/la-tercera-pm/noticia/bolsonaro-y-su-tardio-saludo-a-boric-los-cruces-mas-polemicos-de-una-relacion-tensa/7HCBYA3V3VCUFFBHB5TL4DC3GE/|last=Fuentes|first=Fernando|date=2021-12-24|access-date=2021-12-25|work=[[La Tercera]]|language=Spanish}}</ref>{{Efn|Prior to his election, Boric had criticized Bolsonaro's positions on the [[military dictatorship in Brazil]] (1964–1985) and called him "a danger for the environment and for humanity". Bolsonaro has made it a custom to react late to the election of left-wing presidents in the region, as he did with [[Alberto Fernández]] in Argentina.<ref name=Tercera24Bolsonaro/>}} Boric responded to Bolsonaro's comments by stating that "clearly we are very different".<ref name=TerceraDistintos>{{Cite news|title=Boric responde a dichos de Jair Bolsonaro: "Claramente somos muy distintos"|url=https://www.latercera.com/politica/noticia/boric-responde-a-dichos-de-jair-bolsonaro-claramente-somos-muy-distintos/XSELRULLMRAZVBT4B7T5HQG6RY/ |last=Castillo|first=Viviana|date=2021-12-24|access-date=2021-12-25|work=[[La Tercera]]|language=Spanish}}</ref> Bolsonaro's son [[Eduardo Bolsonaro|Eduardo]], who had supported Kast, had a harsher reaction, stating that Chile was set on a path similar to [[Crisis in Venezuela|Maduro's Venezuela]] with Boric. He mentioned the –8% drop that occurred in the [[Santiago Stock Exchange]] following the election and linked Boric to the [[Estallido Social|violence that erupted in Chile in 2019]].<ref name=Tercera24Bolsonaro/>
+
+President of the United States [[Joe Biden]] had a phone conversation with president-elect Boric on 30 December,<ref>{{Cite news|title=Joe Biden felicita al Presidente electo Boric por su triunfo: "Conversamos sobre desafíos comunes"|url=https://www.t13.cl/noticia/politica/joe-biden-presidente-eeuu-felicita-gabriel-boric-triunfo-elecciones-30-12-2021|date=2021-12-30|access-date=2021-12-31|work=T13|language=es-CL|trans-title=Joe Biden congratulates President-elect Boric on his victory: "We talked about common challenges"|archive-url=https://web.archive.org/web/20211231234901/https://www.t13.cl/noticia/politica/joe-biden-presidente-eeuu-felicita-gabriel-boric-triunfo-elecciones-30-12-2021|archive-date=31 December 2021|url-status=live}}</ref> on which Biden congratulated Boric for his victory. In a press statement published by the [[White House]],<ref>{{Cite news|title=Statement by Press Secretary Jen Psaki on President Biden's Call with President-elect Gabriel Boric of Chile|url=https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2021/12/30/statement-by-press-secretary-jen-psaki-on-president-bidens-call-with-president-elect-gabriel-boric-of-chile/|date=2021-12-30|access-date=2021-12-31|work=[[White House|WhiteHouse.gov]]|archive-url=https://web.archive.org/web/20211231234903/https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/30/statement-by-press-secretary-jen-psaki-on-president-bidens-call-with-president-elect-gabriel-boric-of-chile/|archive-date=31 December 2021|url-status=live}}</ref> Biden "applauded Chile's free and fair elections as a powerful example to the region and the world", and also underscored the cooperation between Chile and the U.S. to "promote a green and equitable recovery from the COVID-19 pandemic and to address the existential threat posed by climate change". Biden also sent through the president-elect his condolences for the death of 14-year old [[List of killings by law enforcement officers in the United States, December 2021|Valentina Orellana-Peralta]], who was killed in a police shootout at Los Angeles, California on 23 December. Boric later posted on his Twitter account about the conversation he had with President Biden, stating that "In addition to the shared joy for our respective electoral victories, we talked about common challenges such as fair trade, climate crisis and strengthening democracy. We will continue to talk."<ref>{{Cite tweet|number=1476698436472770567|last=Boric Font|first=Gabriel|user=gabrielboric|title=Acabo de recibir llamada del Presidente de USA @joebiden. Además de la alegría compartida por nuestros respectivos triunfos electorales conversamos sobre desafíos comunes como comercio justo, crisis climática y fortalecimiento de la democracia. Seguiremos conversando.|date=30 December 2021|language=es-CL|url-status=live|trans-title=I just received a call from US President [[Joe Biden|@joebiden]]. In addition to the shared joy for our respective electoral victories, we talked about common challenges such as fair trade, climate crisis and strengthening democracy. We will continue to talk.|archive-url=https://web.archive.org/web/20211231212314/https://twitter.com/gabrielboric/status/1476698436472770567|archive-date=31 December 2021}}</ref>
+
+=== Parliamentary results ===
+Due to the low results in the parliamentary election, 12 political parties were dissolved by the Electoral Service: [[Christian Conservative Party (Chile)|Christian Conservative Party]] (1 deputy), [[Citizens (Chilean political party)|Citizens]] (1), [[Democratic Independent Regionalist Party]] (1), [[Equality Party (Chile)|Equality Party]], [[Green Ecologist Party (Chile)|Green Ecological Party]] (2), [[Humanist Party (Chile)|Humanist Party]] (3), [[Progressive Party (Chile)|Progressive Party]], [[National Citizen Party (Chile)|National Citizen Party]], [[New Time (Chile)|New Time]], [[Patriotic Union (Chile)|Patriotic Union]], [[Revolutionary Workers Party (Chile)|Revolutionary Workers Party]] and [[United Centre (Chile)|United Centre]] (1).<ref>{{Cite web|last=Pérez|first=Graciela|date=2022-02-07|title=Servel dispone la disolución de 12 partidos políticos por no cumplir la normativa legal|url=https://www.latercera.com/politica/noticia/servel-dispone-la-disolucion-de-12-partidos-politicos-por-no-cumplir-la-normativa-legal/2R7E5XCGVVC2JCXWAZYJ5DX4QA/|access-date=2022-02-08|website=La Tercera}}</ref> 9 deputies became independent politicians before joining the new Congress.
+
+==See also==
+*[[LVI legislative period of the Chilean Congress]]
+*[[List of female Chilean presidential candidates]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Commons category-inline}}
+
+{{Chilean elections}}
+
+[[Category:2021 elections in Chile|General election]]
+[[Category:2021 elections in South America|Chilean general election]]
+[[Category:November 2021 in Chile|General election]]
+[[Category:Parliamentary elections in Chile]]
+[[Category:Presidential elections in Chile]]
+[[Category:Gabriel Boric]]

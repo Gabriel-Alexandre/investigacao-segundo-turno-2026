@@ -1,0 +1,1142 @@
+{{Short description|none}}
+{{Infobox election
+| election_name = 2021 Portuguese presidential election
+| country = Portugal
+| type = presidential
+| ongoing = no
+| previous_election = 2016 Portuguese presidential election
+| previous_year = 2016
+| next_election = 2026 Portuguese presidential election
+| next_year = 2026
+| election_date = 24 January 2021
+| registered = 10,847,434 ({{increase}}11.24%)
+| turnout = 39.26% ({{decrease}} 9.40[[Percentage point|pp]])
+| opinion_polls = Opinion polling for the 2021 Portuguese presidential election
+| image1 = {{CSS image crop|Image =Marcelo Rebelo de Sousa (Web Summit).jpg|bSize = 220|cWidth = 110|cHeight = 150|oTop = 35|oLeft = 55}}
+| candidate1 = '''[[Marcelo Rebelo de Sousa]]'''
+| party1 = [[Social Democratic Party (Portugal)|PSD]]<br />{{Collapsible list
+| title = {{Nobold|{{font|size=90%|''Supported by:''}}}}
+| bullets = off
+ | [[CDS – People's Party|CDS–PP]]
+}}
+| popular_vote1 = '''2,531,692'''
+| percentage1 = '''60.67%'''
+| image2 = {{CSS image crop|Image =Ana Gomes.jpg|bSize = 124|cWidth = 110|cHeight = 150|oTop = 0|oLeft = 8}}
+| candidate2 = [[Ana Gomes]]
+| party2 = [[Independent politician|Independent]]{{efn|Even though she is a member of [[Socialist Party (Portugal)|PS]], the party did not officially back any candidate in particular}}<br />{{Collapsible list
+| title = {{Nobold|{{font|size=90%|''Supported by:''}}}}
+| bullets = off
+ | [[People Animals Nature|PAN]]
+ | [[LIVRE]]
+}}
+| popular_vote2 = 540,823
+| percentage2 = 12.96%
+| image3 = {{CSS image crop|Image = AndréVentura2019.jpg |bSize = 114 |cWidth = 110 |cHeight = 150|oTop = 0|oLeft = 4}}
+| candidate3 = [[André Ventura]]
+| colour3 = 202056
+| party3 = [[Chega|CH]]
+| popular_vote3 = 497,746
+| percentage3 = 11.93%
+| map_image = Mapa das eleições presidenciais portuguesas de 2021 por distritos.svg
+| map_caption = Results by [[Districts of Portugal|district]]
+| title = [[President of Portugal|President]]
+| before_election = [[Marcelo Rebelo de Sousa]]
+| before_party = Social Democratic Party (Portugal)
+| after_election = [[Marcelo Rebelo de Sousa]]
+| after_party = Social Democratic Party (Portugal)
+| colour2 = D02090
+}}
+
+A presidential election was held in [[Portugal]] on 24 January 2021.<ref>{{cite web|title=O Presidente da República, Marcelo Rebelo de Sousa, marcou hoje as eleições presidenciais para 24 de janeiro de 2021.|url=https://24.sapo.pt/atualidade/artigos/presidente-da-republica-marca-eleicoes-presidenciais-para-24-de-janeiro|website=www.24.sapo.pt|publisher=Sapo|access-date=24 November 2020|language=pt}}</ref> The incumbent [[President of Portugal|President]], [[Marcelo Rebelo de Sousa]], was reelected for a second term.
+
+The elections were held during the [[COVID-19 pandemic in Portugal|COVID-19 pandemic]], and Portugal was under a lockdown as of election day.<ref>{{cite web|url=https://www.reuters.com/article/us-portugal-election-idUSKBN29S0BU|title=Portugal holds presidential election as COVID-19 cases spiral|publisher=Reuters|date=23 January 2021}}</ref> President [[Marcelo Rebelo de Sousa]] was reelected by a [[Landslide victory|landslide]], winning 60.7 percent of the votes.<ref>{{cite web|url=https://www.politico.eu/article/president-rebelo-de-sousa-wins-landslide-re-election-in-portugal/|title=President Rebelo de Sousa wins landslide reelection in Portugal|publisher=Politico|date=24 January 2021}}</ref> He won every district in the country and all 308 municipalities, a result which happened for the first time ever in Portuguese democracy; he won 3,083 parishes out of 3,092.<ref>{{cite web|url=https://observador.pt/2021/01/25/as-nove-freguesias-em-3-092/|title=As nove freguesias — em 3.092 — onde Marcelo não ganhou|publisher=Observador|date=25 January 2021}}</ref> The election also marked the rise of [[right-wing]] candidate [[André Ventura]], leader of [[Chega]], who polled 3rd with almost 12 percent of the votes.<ref>{{cite web|url=https://sicnoticias.pt/especiais/eleicoes-presidenciais/2021-01-25-Marcelo-dominou-Ana-Gomes-foi-2.-mas-Ventura-venceu-mais-distritos.-Esquerda-caiu-a-pique|title=Marcelo dominou, Ana Gomes foi 2.ª mas Ventura venceu mais distritos. Esquerda caiu a pique|publisher=SIC Notícias|date=25 January 2021|access-date=2021-01-25|archive-date=2021-03-01|archive-url=https://web.archive.org/web/20210301005809/https://sicnoticias.pt/especiais/eleicoes-presidenciais/2021-01-25-Marcelo-dominou-Ana-Gomes-foi-2.-mas-Ventura-venceu-mais-distritos.-Esquerda-caiu-a-pique|url-status=dead}}</ref> In second place, former MEP and Ambassador [[Ana Gomes]] was able to win 13 percent of the votes, the best result ever for a female candidate in a presidential election.<ref>{{cite web|url=https://www.publico.pt/2021/01/24/politica/noticia/presidenciais-ana-gomes-mulher-votada-1947739|title=Presidenciais: Ana Gomes é a mulher mais votada de sempre |publisher=Público|date=24 January 2021}}</ref> As in the [[2016 Portuguese presidential election|2016 elections]], the [[Socialist Party (Portugal)|Socialist Party]] (PS) did not officially endorse any candidate, despite Ana Gomes being a PS member.<ref>{{cite web|url=https://expresso.pt/politica/2020-09-08-PS-dividido-entre-os-apoios-declarados-a-Marcelo-e-o-silencio-dos-apoiantes-de-Ana-Gomes|title=PS dividido entre os apoios declarados a Marcelo e o silêncio dos apoiantes de Ana Gomes |publisher=Expresso|access-date=19 January 2025|date=8 September 2020}}</ref> The rest of candidates did not receive above 5 percent each.
+
+Voter turnout fell to 39 percent, a drop of nine [[percentage point]]s, mainly due to the automatic registration of overseas voters; this practice increased the number of registered voters to almost 11 million.<ref>{{cite web|url=https://www.tsf.pt/portugal/politica/recenseamento-automatico-de-emigrantes-fez-subir-abstencao-seis-pontos-13273900.html|title=Recenseamento automático de emigrantes fez subir abstenção seis pontos|publisher=TSF Radio|date=25 January 2021}}</ref> In Portugal alone, turnout stood at 45.45 percent, a decrease of 4.6 percentage points compared to 2016. This was the lowest drop in turnout in an election with an incumbent running since [[1980 Portuguese presidential election|1980]].<ref>{{cite web|url=https://www.publico.pt/2021/01/26/politica/noticia/eleitores-estrangeiros-abstencao-5446-1947997|title=Sem eleitores no estrangeiros, abstenção foi de 54,46% |publisher=Público|date=26 January 2021}}</ref> Marcelo Rebelo de Sousa was sworn in for a second term as President on 9 March 2021.<ref>{{cite news |url=https://www.rtp.pt/noticias/politica/comeca-segundo-mandato-marcelo-toma-posse-como-presidente-da-republica_n1303020 |title=Começa segundo mandato. Marcelo toma posse como Presidente da República  |language=pt |work=RTP |access-date=18 February 2026 |date=9 March 2021}}</ref>
+
+==Background==
+Marcelo Rebelo de Sousa was elected president with 52% of the votes in January 2016.<ref>{{cite web|url=https://www.publico.pt/2016/01/24/politica/noticia/marcelo-rebelo-de-sousa-eleito-presidente-1721277|title=Marcelo ganha à primeira com dobro dos votos de Nóvoa |publisher=Público|date=24 January 2016}}</ref> In Portugal, the president is the [[head of state]] and has mostly ceremonial powers.<ref>{{cite web|url=https://regiao-sul.pt/2021/01/24/internacional/presidente-de-portugal-rebelo-de-sousa-ganha-novo-mandato-em-cedula-socialmente-distanciada/527324|title=Presidente de Portugal, Rebelo de Sousa, ganha novo mandato em cédula socialmente distanciada |publisher=Diário Regiao Sul|date=24 January 2021}}</ref> However, the president does have some political influence, and can [[Dissolution of Parliament|dissolve]] [[Assembly of the Republic (Portugal)|Parliament]] if a crisis occurs. The president's [[official residence]] is the [[Belém Palace]] in Lisbon.<ref name=":0">{{cite web|url=https://www.presidencia.pt/?idc=1|title=Funções do Presidente |publisher=Presidency of the Republic}}</ref> Throughout his first term, Marcelo had to cohabitate with Socialist prime minister António Costa,<ref>{{cite web|url=https://rr.sapo.pt/2016/03/09/politica/a-tomada-de-posse-de-marcelo-em-imagens/noticia/48872/|title=A tomada de posse de Marcelo em imagens|publisher=Rádio Renascença|date=9 March 2016|access-date=25 January 2021|archive-date=9 March 2021|archive-url=https://web.archive.org/web/20210309103657/https://rr.sapo.pt/2016/03/09/politica/a-tomada-de-posse-de-marcelo-em-imagens/noticia/48872/|url-status=dead}}</ref> with the institutional relationship described as very good.<ref>{{cite news |url=https://www.publico.pt/2024/12/04/politica/noticia/marcelo-recorda-coabitacao-costa-eramos-felizes-nao-sabiamos-2114494 |title=Marcelo recorda coabitação com Costa: “Éramos felizes e não sabíamos”  |language=pt |work=Público |access-date=27 August 2026| date=4 December 2024}}</ref> During his term as head of state, Marcelo also had [[Opinion polling for the 2021 Portuguese presidential election#Approval ratings|high approval ratings]], influenced by his "affections presidency" style and his empathetic response to national disasters, such as the [[June 2017 Portugal wildfires|2017 wildfires]].<ref>{{cite news |url=https://www.publico.pt/2018/01/21/politica/noticia/sim-o-afecto-na-politica-faz-crescer-o-sucesso-de-um-pais-1799974 |title=Sim, o afecto na política conta para o sucesso de um país |language=pt |work=Público |access-date=26 August 2026| date=21 January 2018}}</ref> The last year of Marcelo's first term was dominated by the Covid-19 pandemic, with the head of state declaring a [[state of emergency]] at the government's request.<ref>{{cite news |url=https://www.jpn.up.pt/2020/03/18/presidente-da-republica-decreta-estado-de-emergencia/ |title=Presidente da República decreta estado de emergência |language=pt |work=JPN-JornalismoPortoNet |access-date=27 August 2026| date=18 March 2020}}</ref>
+
+===Pre-campaign===
+Early on, the Social Democrats (PSD) declared their support for Marcelo's re-election,<ref>{{cite news |url=https://observador.pt/2020/09/26/comissao-politica-do-psd-declara-apoio-a-marcelo-rebelo-de-sousa-nas-presidenciais/ |title=PSD declara formalmente apoio a Marcelo Rebelo de Sousa nas presidenciais: "É o que dá mais garantias de equilíbrio" |language=pt |work=Observador |access-date=27 August 2026| date=26 September 2020}}</ref> while the president only announced his re-election bid in December 2020, just over a month before election day.<ref>{{cite news |url=https://www.publico.pt/2020/12/07/politica/noticia/marcelo-anunciar-hoje-recandidatura-1942024 |title=Marcelo anuncia recandidatura numa pastelaria em Belém  |language=pt |work=Público |access-date=27 August 2026| date=7 December 2020}}</ref> On the Socialist Party (PS), prime minister António Costa also expressed, from early on, his "endorsement" to a second term for Marcelo,<ref>{{cite news |url=https://www.publico.pt/2020/05/13/politica/noticia/costa-lanca-marcelo-segundo-mandato-belem-1916378 |title=Costa lança Marcelo para um segundo mandato em Belém. Marcelo tira tapete a Centeno  |language=pt |work=Público |access-date=27 August 2026| date=13 May 2020}}</ref> but the prime minister's position created divisions on the left and within his own party.<ref>{{cite news |url=https://www.jn.pt/nacional/artigo/apoio-de-costa-a-marcelo-gera-criticas-a-esquerda/12200487 |title=Apoio de Costa a Marcelo gera críticas à esquerda |language=pt |work=Jornal de Notícias |access-date=27 August 2026| date=15 May 2020}}</ref><ref name="AG2021">{{cite news |url=https://expresso.pt/politica/2020-05-17-Deprimente.-Grave.-Perigoso.-Ana-Gomes-arrasa-apoio-de-Costa-a-Marcelo-e-anuncia-reflexao-sobre-presidenciais |title=“Deprimente”. “Grave”. “Perigoso”. Ana Gomes arrasa apoio de Costa a Marcelo e anuncia “reflexão” sobre presidenciais |language=pt |work=Expresso |access-date=27 August 2026| date=17 May 2020}}</ref> After this, former PS MEP [[Ana Gomes]], who strongly criticized Costa's stance,<ref name="AG2021"/> announced she was considering a run, which she confirmed in September 2020.<ref>{{cite news |url=https://www.publico.pt/2020/09/07/politica/noticia/ana-gomes-candidata-presidencia-republica-1930706 |title=Ana Gomes é candidata à Presidência da República  |language=pt |work=Público |access-date=27 August 2026| date=7 September 2020}}</ref> Sole [[Chega]] party MP, [[André Ventura]], also announced his candidacy just a few months after being elected to parliament in the [[2019 Portuguese legislative election|2019 legislative election]],<ref>{{cite news |url=https://www.publico.pt/2020/02/08/politica/noticia/andre-ventura-anuncia-candidatura-presidente-republica-1903369 |title=André Ventura anuncia candidatura a Presidente da República  |language=pt |work=Público |access-date=27 August 2026| date=8 February 2020}}</ref> while the [[Left Bloc]] repeated the candidacy of [[Marisa Matias]],<ref name="MM21"/> the communists presented MEP [[João Ferreira (politician)|João Ferreira]]<ref name="JF21"/> and the [[Liberal Initiative]], also a new party that gained representation in the 2019 legislative election, declared [[Tiago Mayan Gonçalves]] as their presidential candidate.<ref name="TMF21"/>
+
+==Electoral system==
+Under [[Law of Portugal|Portuguese law]], a candidate must receive a majority of votes (50% plus one vote) to be elected. If no candidate achieved a majority in the first round, a [[runoff election]] (i.e., second round, held between the two candidates who received the most votes in the first round) should be held.<ref>{{cite web|title=LEI ELEITORAL DO PRESIDENTE DA REPÚBLICA|url=https://www.portaldoeleitor.pt/Documents/Doc_Lei_PR.pdf|publisher=Portal do Eleitor}}</ref>
+
+In order to stand for election, candidates must be of Portuguese origin and over 35 years old, gather 7,500 signatures of support one month before the election and submit them to the [[Constitutional Court of Portugal]].<ref>{{Cite web|url=https://diariodarepublica.pt/dr/lexionario/termo/presidente-republica|title=Presidente da República |publisher=[[Diário da República]] |access-date=19 January 2025}}</ref> The Constitutional Court then certifies the candidacies which meet the requirements to appear on the ballot. The highest number of candidacies ever accepted was ten in 2016.<ref>{{cite web|url=https://dre.pt/web/guest/legislacao-consolidada/-/lc/148081979/202101110418/73914847/diploma/indice?consolidacaoTag=Elei%C3%A7%C3%B5es|title=Regulamenta a eleição do Presidente da República|publisher=Diário da República}}</ref>
+
+===Early voting===
+For the first time in a Presidential election, voters were also able to [[Early voting|vote early]], which would happen one week before election day on 17 January 2021. Voters had to register between 10 and 14 January in order to be eligible to cast an early ballot; a total of 246,880 voters requested to vote early in 2021.<ref>[https://eco.sapo.pt/2021/01/16/portugueses-comecam-a-votar-nas-presidenciais-este-domingo-e-ha-246-mil-inscritos/ "Portugueses começam a votar nas Presidenciais este domingo e há 246 mil inscritos "], ''Eco'', 16 January 2021. Retrieved 17 January 2021.</ref> On 17 January, 197,903 voters (80.16 percent of voters that registered) cast an early [[ballot]].<ref name=":0" /><ref>[https://eco.sapo.pt/2021/01/21/80-dos-inscritos-votaram-no-domingo-para-as-presidenciais/ "80% dos inscritos votaram no domingo para as presidenciais"], ''Eco'', 21 January 2021. Retrieved 21 January 2021.</ref>
+
+==Candidates==
+[[File:Eleições presidenciais 2021.png|thumb|right|Official logo of the election.]]
+There were seven candidates certified to run in this election. In addition, the [[Constitutional Court (Portugal)|Constitutional Court]] rejected Eduardo Baptista's nomination due to insufficient signatures, although his name still appeared on the ballot, albeit votes cast for him would be counted as invalid. Six more individuals had announced their intention to run for President, but did not present any application to the Court, two of whom publicly stated that they would withdraw, which includes [[Democratic Republican Party (Portugal)|Democratic Republican Party]] (PDR) leader [[Bruno Fialho]] who, despite saying he had enough signatures, decided to drop out in order "not to spend thousands of euros on the country".<ref>{{Cite web |last=Lusa |date=2020-12-12 |title=Bruno Fialho, do PDR, desiste de candidatura para “não gastar milhares de euros ao país” |url=https://www.publico.pt/2020/12/12/politica/noticia/bruno-fialho-pdr-desiste-candidatura-nao-gastar-milhares-euros-pais-1942738 |access-date=2025-01-06 |website=Público |language=pt-PT}}</ref> Finally, three more individuals were, for a while, thought of as potential or speculative candidates, but later ruled out any type of candidacy.
+
+===Official Candidates===
+{| class="wikitable" style="text-align:center;"
+! colspan="2" |Candidate
+!Supported by
+! style="width:16%;" |Political office(s)
+!Details
+!Announcement<br>date
+!Ref.
+|-
+|[[André Ventura]] (38)
+|[[File:André Ventura (Agencia LUSA, Entrevista Presidenciais 2021), cropped.png|114x114px]]
+|
+* {{Color box|{{party color|Chega (political party)}}|border=silver}} [[Chega]]
+|'''President of [[Chega]]'''<br><small>(since 2019)</small><br>'''[[Assembly of the Republic (Portugal)|Member of Parliament]] for [[Lisbon (Assembly of the Republic constituency)|Lisbon]]'''<br><small>(since 2019)</small>
+|Founder of [[Chega]] and sole [[Assembly of the Republic (Portugal)|MP]] from the party.
+|29 February 2020
+|<ref>{{Cite web |last=ECO |date=2020-03-01 |title=André Ventura apresenta candidatura a Belém e defende criação da “quarta República” |url=https://eco.sapo.pt/2020/03/01/andre-ventura-apresenta-candidatura-a-belem-e-defende-criacao-da-quarta-republica/ |access-date=2025-01-04 |website=ECO |language=pt-PT}}</ref>
+|-
+|[[Tiago Mayan Gonçalves]] (43)
+|{{CSS image crop|Image=Tiago Mayan.png|bSize=165|cWidth=80|cHeight=120|oLeft=40|oTop=10}}
+|
+* {{Color box|{{party color|Liberal Initiative}}|border=silver}} [[Liberal Initiative]]
+|''None''
+|Founding member of the [[Liberal Initiative]] (IL).
+|25 July 2020
+|<ref name="TMF21">{{Cite web |last=Borges |first=Liliana |date=2020-07-25 |title=Iniciativa Liberal já tem candidato a Belém: chama-se Tiago Mayan Gonçalves e diz-se “descomprometido” |url=https://www.publico.pt/2020/07/25/politica/noticia/iniciativa-liberal-ja-candidato-belem-chamase-tiago-mayan-goncalves-dizse-descomprometido-1925846 |access-date=2025-01-04 |website=PÚBLICO |language=pt}}</ref><ref>{{Cite web |last=Tello Silva |first=Mafalda |date=24 December 2020 |title=Tiago Mayan formaliza candidatura à Presidência da República |url=https://www.noticiasaominuto.com/politica/1653533/tiago-mayan-formaliza-candidatura-a-presidencia-da-republica |access-date=24 December 2020 |publisher=Notícias ao Minuto |language=pt}}</ref>
+|-
+|[[Vitorino Silva]] (49)
+|{{CSS image crop|Image =Boletim de voto das eleições presidenciais de 2016.JPG|bSize = 980|cWidth = 80|cHeight = 118|oTop = 656|oLeft = 654}}
+|
+* {{Color box|{{party color|React, Include, Recycle}}|border=silver}} [[React, Include, Recycle]]
+|'''President of [[React, Include, Recycle]]'''<br><small>(2019–2022)</small><br>President of the Parish Council of [[Rans, Penafiel|Rans]]<br><small>(1994–2002)</small>
+|Candidate in the [[2016 Portuguese presidential election|2016 presidential election]], finishing sixth with 3.3% of the votes.
+|8 September 2020
+|<ref>{{Cite web |last=Ribeiro |first=Filipa |title=Tino de Rans "não desceu de divisão" e quer ser candidato nas eleições presidenciais |url=https://observador.pt/programas/resposta-pronta/tino-de-rans-nao-desceu-de-divisao-e-volta-a-candidatar-se-a-eleicoes-presidenciais/ |access-date=2025-01-04 |website=Observador |language=pt-PT}}</ref><ref>{{cite web |date=December 23, 2020 |title=Tino de Rans diz-se "candidato do povo" com gabinete "na rua" ao oficializar candidatura à presidência |url=https://www.cmjornal.pt/politica/detalhe/tino-de-rans-diz-se-candidato-do-povo-com-gabinete-na-rua-ao-oficializar-candidatura-a-presidencia |access-date=December 23, 2020 |work=Agência Lusa |language=pt}}</ref>
+|-
+|[[Marisa Matias]] (44)
+|[[File:Marisa Matias 2015 (cropped).jpg|110x110px]]
+|
+* {{Color box|{{party color|Left Bloc (Portugal)}}|border=silver}} [[Left Bloc (Portugal)|Left Bloc]]
+* {{Color box|{{party color|Socialist Alternative Movement}}|border=silver}} [[Socialist Alternative Movement]]
+|'''[[Member of the European Parliament]]'''<br><small>(2009–2024)</small>
+|Candidate in the [[2016 Portuguese presidential election|2016 presidential election]], finishing third with 10.1% of the votes.
+|9 September 2020
+|<ref name="MM21">{{Cite web |last=Borges |first=Liliana |date=2020-09-04 |title=BE entra na corrida às eleições presidenciais com Marisa Matias |url=https://www.publico.pt/2020/09/05/politica/noticia/be-entra-corrida-eleicoes-presidenciais-marisa-matias-1930472 |access-date=2025-01-04 |website=PÚBLICO |language=pt}}</ref>
+|-
+|[[Ana Gomes]] (66)
+|[[File:Ana Gomes.jpg|107x107px]]
+|
+* {{Color box|teal|border=silver}} [[People Animals Nature]]
+* {{Color box|{{party color|LIVRE}}|border=silver}} [[LIVRE]]
+|[[Member of the European Parliament]]<br><small>(2004–2019)</small><br>[[List of diplomatic missions of Portugal|Ambassador to Indonesia]]<br><small>(2000–2003)</small>
+|Member of the [[Socialist Party (Portugal)|Socialist Party]] (PS); failed to gain the support of the party.
+|10 September 2020
+|<ref>{{Cite web |date=2020-09-08 |title=Ana Gomes confirma candidatura a PR |url=https://pt.euronews.com/2020/09/08/ana-gomes-confirma-candidatura-a-pr |access-date=2025-01-04 |website=euronews |language=pt}}</ref><ref>{{cite web |date=23 December 2020 |title=Presidenciais: "Se não estivesse aqui não haveria uma candidatura para os que se reveem no socialismo democrático", afirma Ana Gomes |url=https://executivedigest.sapo.pt/presidenciais-ana-gomes-formaliza-candidatura-com-mais-de-8-mil-assinaturas/ |access-date=23 December 2020 |website=www.executivedigest.sapo.pt |publisher=Executive Digest |language=pt}}</ref>
+|-
+|[[João Ferreira (politician)|João Ferreira]] (42)
+|{{CSS image crop|Image=EP-094365A Photo Hemicycle STB Plenary 4 (49058813196) (cropped).jpg|bSize=200|cWidth=80|cHeight=120|oLeft=60|oTop=5}}
+|
+* {{Color box|{{party color|Portuguese Communist Party}}|border=silver}} [[Portuguese Communist Party]]
+* {{Color box|{{party color|Ecologist Party "The Greens"}}|border=silver}} [[Ecologist Party "The Greens"]]
+|'''[[Member of the European Parliament]]'''<br><small>(2009–2021)</small>
+|Member of the [[Portuguese Communist Party]] (PCP); supported by the [[Unitary Democratic Coalition]].
+|17 September 2020
+|<ref name="JF21">{{Cite web |last=Almeida |first=Joana |date=2020-09-12 |title=PCP anuncia candidatura do eurodeputado João Ferreira às eleições presidenciais |url=https://jornaleconomico.sapo.pt/noticias/pcp-anuncia-candidatura-do-eurodeputado-joao-ferreira-as-eleicoes-presidenciais-636088/ |access-date=2025-01-04 |website=O Jornal Económico |language=pt-PT}}</ref>
+|-
+|[[Marcelo Rebelo de Sousa]] (72)
+|{{CSS image crop|Image=Marcelo Rebelo de Sousa em fevereiro de 2018.jpg|bSize=110|cWidth=80|cHeight=120|oLeft=20|oTop=10}}
+|
+* {{Color box|{{party color|Social Democratic Party (Portugal)}}|border=silver}} [[Social Democratic Party (Portugal)|Social Democratic Party]]
+* {{Color box|{{party color|CDS – People's Party}}|border=silver}} [[CDS – People's Party]]
+|[[President of Portugal|'''President of the Republic''']]<br><small>(since 2016)</small><br>Member of the [[Council of State (Portugal)|Council of State]]<br><small>(2006–2016)</small><br>[[President of the Social Democratic Party (Portugal)|President of the Social Democratic Party]]<br><small>(1996–1999)</small><br>[[Ministry of Parliamentary Affairs (Portugal)|Minister of Parliamentary Affairs]]<br><small>(1982–1983)</small><br>Member of the [[Constituent Assembly of Portugal|Constitituent Assembly]]<br><small>(1975–1976)</small>
+|Incumbent president after winning the [[2016 Portuguese presidential election|2016 presidential election]], with 52.0% of the votes; eligible for a second term.
+|7 December 2020
+|<ref>{{Cite web |title=Marcelo confirma recandidatura: "Não vou sair a meio de uma caminhada exigente e penosa" |url=https://tvi.iol.pt/noticias/politica/07-12-2020/nao-vou-sair-a-meio-de-uma-caminhada-exigente-e-penosa-marcelo-confirma-recandidatura |access-date=2025-01-04 |website=TVI Notícias |language=pt}}</ref><ref>[https://visao.sapo.pt/atualidade/politica/2020-12-23-presidenciais-marcelo-entrega-12-747-assinaturas-e-promete-campanha-pela-positiva/ “Presidenciais: Marcelo entrega 12.747 assinaturas e promete “campanha pela positiva”“], Visão (December 23, 2020).</ref>
+|}
+[[File:Boletim de voto, Presidenciais 20211.png|thumb|right|Ballot paper for the 2021 Portuguese presidential election. It includes Eduardo Baptista, a candidate rejected due to insufficient signatures.]]
+
+===Rejected candidates===
+*Eduardo Baptista, NATO Staff Officer, Independent;<ref>[https://24.sapo.pt/atualidade/artigos/eduardo-baptista-e-o-primeiro-nome-do-boletim-de-voto-para-as-presidenciais-mas-nao-vai-a-votos “Eduardo Baptista é o primeiro nome do boletim de voto para as presidenciais. Mas não vai a votos“], Sapo (December 30, 2020).</ref>{{efn|Candidate only delivered 11 signatures, of which only 6 were valid, far short of the required 7,500. However, his name appeared on ballots, as they started being printed before the Court officially verified all candidacies' documents. Votes for Eduardo Baptista were counted as invalid.}}
+
+===Unsuccessful candidates===
+*Carla Bastos, [[Socialist Party (Portugal)|Socialist Party]] member, Finances inspector;<ref>{{Cite web|url=https://www.publico.pt/2020/08/27/politica/noticia/ps-ja-militante-quer-presidente-1929320|title=O PS já tem uma militante que quer ser Presidente|first=Luciano|last=Alvarez|website=PÚBLICO|date=27 August 2020 }}</ref>
+*Orlando Cruz, former [[CDS – People's Party|People's Party]] member;<ref name="candidatos">{{cite web |date=September 8, 2020 |title=Presidenciais. De André Ventura a Tino de Rans, já são oito os pré-candidatos a Belém |trans-title=Presidentials. From André Ventura to Tino de Rans, there are already eight pre-candidates for Belém |url=https://observador.pt/2020/09/08/presidenciais-de-andre-ventura-a-tino-de-rans-ja-sao-oito-os-pre-candidatos-a-belem/ |access-date=September 8, 2020 |publisher=Observador |language=pt}}</ref>
+*Paulo Alves, [[Together for the People]] party member, former member of the [[Felgueiras]] municipal assembly (2005-2009)<ref>{{Cite web|url=https://www.dn.pt/poder/presidenciais-tem-mais-um-candidato-e-nao-poupa-criticas-a-marcelo-13004238.html|title=Presidenciais têm mais um candidato. E não poupa críticas a Marcelo - DN|website=www.dn.pt|date=5 November 2020 }}</ref>
+*Paulo Patinha Antão, [[unemployed]]<ref>{{Cite web|url=https://www.noticiasaominuto.com/politica/1598313/patinha-antao-quer-ser-candidato-a-pr-para-ser-rosto-dos-desempregados|title=Patinha Antão quer ser candidato a PR para ser rosto dos desempregados|date=October 5, 2020|website=Notícias ao Minuto}}</ref>
+
+===Withdrew===
+*Bruno Fialho, [[Democratic Republican Party (Portugal)|Democratic Republican Party]] (PDR) leader;<ref>{{cite web |url=https://expresso.pt/politica/2020-12-12-Presidenciais.-Bruno-Fialho-do-PDR-desiste-de-candidatura-a-Belem|title=Presidenciais. Bruno Fialho do PDR desiste de candidatura a Belém |date=12 December 2020 |language=pt |trans-title=Presidentials. Bruno Fialho of PDR gives up his candidacy to Belém|publisher=Público|access-date=12 December 2020}}</ref>
+*[[Gonçalo da Câmara Pereira]], [[People's Monarchist Party (Portugal)|People's Monarchist Party]] (PPM) president, [[fado]] singer, [[actor]] and [[Agriculture|rural producer]]<ref>{{Cite web|url=https://www.youtube.com/watch?v=PwqLYOvZgYc|title=#221 Gonçalo da Câmara Pereira Desiste da Candidatura Presidencial - Eleições Presidenciais 2021 - YouTube|website=www.youtube.com}}</ref>
+
+===Refused===
+*[[Adolfo Mesquita Nunes]], former Secretary of State for Tourism (2013–2015) and [[CDS – People's Party|People's Party]] MP (2011–2013).<ref>{{cite web|title=Adolfo Mesquita Nunes afasta candidatura às Presidenciais|url=https://observador.pt/2020/06/06/adolfo-mesquita-nunes-afasta-candidatura-as-presidenciais/|website=www.observador.pt|publisher=Observador|access-date=June 8, 2020|language=pt}}</ref>
+*[[António Sampaio da Nóvoa]], former Rector of the [[University of Lisbon]] (2006–2013); presidential candidate in 2016, polled second place with almost 23 percent of the vote;<ref>[https://www.publico.pt/2018/01/24/video/se-ha-uma-coisa-que-aprendi-e-que-nunca-se-deve-dizer-nunca-a-nada-20180124-001551 “Se há uma coisa que aprendi é que nunca se deve dizer nunca a nada”], Público (January 24, 2018).</ref>
+*[[Miguel Albuquerque]], [[Presidents of the Regional Government of Madeira|President of the Regional Government of Madeira]] since 2015; former Mayor of [[Funchal]] (1994–2013).<ref>{{cite web|title=Miguel Albuquerque continua a equacionar candidatura a Belém |date=10 September 2020|url=https://www.dnoticias.pt/2020/9/10/73110-miguel-albuquerque-continua-a-equacionar-candidatura-a-belem/|website=www.dnoticiais.pt|publisher=Diário de Notícias da Madeira|access-date=10 September 2020|language=pt}}</ref>
+
+==Campaign==
+[[File:Discurso de André Ventura na noite eleitoral de 2021.jpg|thumb|Chega's Ventura's speech during election night of the 2021 presidential election]]
+
+===Issues===
+The campaign was severely limited by the [[COVID-19 pandemic in Portugal|COVID-19 pandemic]], with candidates being forced to reduce campaign events to a minimum due to movement limitations imposed by the Government to prevent the spread of the virus. There were mandatory [[Curfew|curfews]] in several [[Municipalities of Portugal|municipalities]] and movement between all municipalities was prohibited during the weekends.<ref>{{cite web |date=10 January 2021|title=Presidenciais. Campanha oficial para as Presidenciais arrancou, mas com poucas iniciativas  |url=https://eco.sapo.pt/2021/01/10/presidenciais-campanha-oficial-arranca-hoje-mas-com-poucas-iniciativas/ |accessdate=31 December 2024|website=ECO |language=pt-PT}}</ref>
+
+At the beginning of the electoral campaign, the president of the French [[National Rally]] party, [[Marine Le Pen]], confirmed that she would go to Lisbon to support [[André Ventura]]'s presidential candidacy.<ref>{{cite web |title=Presidenciais. André Ventura e Marine Le Pen juntos em Lisboa no início da campanha eleitoral |url=https://observador.pt/2020/12/21/presidenciais-ventura-e-le-pen-juntos-em-lisboa-no-inicio-da-campanha-eleitoral/ |website=Observador |language=pt-PT}}</ref>
+
+===Candidates' slogans===
+
+{| class="wikitable" style="font-size:97%; text-align:left;"
+|-
+! style="text-align:left;" colspan="2"| Candidate
+! Original slogan
+! English translation
+! Refs
+|-
+| bgcolor="{{party color|Left Bloc (Portugal)}}"|
+| [[Marisa Matias]]
+| « Força Maior »
+| "Greater Force"
+| <ref>{{cite news|url=https://www.marisa2021.pt/|title=Marisa 2021|language=pt|access-date=28 November 2020|archive-date=9 December 2020|archive-url=https://web.archive.org/web/20201209063439/https://www.marisa2021.pt/|url-status=dead}}</ref>
+|-
+| bgcolor="{{party color|Unitary Democratic Coalition}}"|
+| [[João Ferreira (politician)|João Ferreira]]
+| « Coragem e confiança. Um horizonte de esperança »
+| "Courage and confidence. A horizon of hope"
+| <ref>{{cite news |url=https://www.joaoferreira2021.pt/inicio|title=João Ferreira 2021|language=pt |access-date=28 November 2020}}</ref>
+|-
+| width="1" bgcolor="#20b2aa"|
+| [[Vitorino Silva]] 
+| « O Povo a Presidente! »
+| "The People for President!"
+| <ref>{{cite news |url=http://partido-rir.pt/|title=Partido RIR|language=pt |access-date=28 November 2020}}</ref>
+|-
+| width="1" bgcolor="D02090"|
+| [[Ana Gomes]]
+| « Cuidar de Portugal »
+| "Taking care of Portugal"
+| <ref>{{cite news|url=https://anagomes2021.pt/|title=Ana Gomes 2021|language=pt|access-date=28 November 2020|archive-date=24 January 2021|archive-url=https://web.archive.org/web/20210124204006/https://anagomes2021.pt/|url-status=dead}}</ref>
+|-
+| width="1" bgcolor="#202056"|
+| [[André Ventura]]
+| « Por Portugal, Pelos Portugueses! »
+| "For Portugal, for the Portuguese!"
+| <ref>{{cite news|url=https://ventura2021.pt/|title=Ventura 2021|language=pt|access-date=28 November 2020|archive-date=2 January 2021|archive-url=https://web.archive.org/web/20210102233708/https://ventura2021.pt/|url-status=dead}}</ref>
+|-
+| width="1" bgcolor="#00ADEF"|
+| [[Tiago Mayan Gonçalves]]
+| « A alternativa liberal »
+| "The liberal alternative"
+| <ref>{{cite news |url=https://liberalmayan.pt/|title=Mayan 2021|language=pt |access-date=28 November 2020}}</ref>
+|-
+| width="1" bgcolor="black"|
+| <s>[[Bruno Fialho]]</s>{{efn|Withdrew}}
+| <s>« A escolha certa »</s>
+| <s>"The right choice"</s>
+| <ref>{{cite news |url=https://www.facebook.com/pdr.portugal/|title=PDR Facebook|language=pt |access-date=28 November 2020}}</ref>
+|}
+
+===Candidates' debates===
+{| class="wikitable" style="font-size:98%; text-align:center;"
+|-
+! colspan="22"| 2021 Portuguese presidential election debates 
+|-
+! rowspan="3"| Date
+! rowspan="3"| Time
+! rowspan="3"| Organisers
+! rowspan="3"| Moderator(s)   
+! colspan="19"| {{small|&nbsp;&nbsp;}} {{Colors|black|#90FF90|&nbsp;I&nbsp;}} {{small|Invitee &nbsp;}} {{Colors|black|#D0FFD0|&nbsp;P&nbsp;}} {{small|Present &nbsp;}} {{Colors|black|#A2B2C2|&nbsp;NI&nbsp;}} {{smaller|Not invited&nbsp;}} {{Colors|black|#ffffdd|&nbsp;A&nbsp;}} {{small|Absent invitee}}
+|-
+! scope="col" style="width:5em;"| Rebelo de Sousa
+! scope="col" style="width:5em;"| Gomes
+! scope="col" style="width:5em;"| Ventura
+! scope="col" style="width:5em;"| Matias
+! scope="col" style="width:5em;"| Ferreira
+! scope="col" style="width:5em;"| Mayan
+! scope="col" style="width:5em;"| Silva
+! rowspan="2"|  Refs
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};"|
+! style="background:#D02090"|
+! style="background:#202056;"|
+! style="background:{{party color|Left Bloc (Portugal)}};"|
+! style="background:{{party color|Unitary Democratic Coalition}};"|
+! style="background:#00ADEF;"|
+! style="background:LightSeaGreen;"|
+|-
+| rowspan="2" style="white-space:nowrap; text-align:left;"| 2 Jan 2021
+| style="white-space:nowrap; text-align:left;"| 9 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP1]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates">{{cite news |date=10 December 2020 |url=https://www.rtp.pt/noticias/politica/debates-televisivos-arrancam-em-2-de-janeiro-e-terminam-no-dia-9_n1281960|title=Debates televisivos arrancam em 2 de janeiro e terminam no dia 9 |language=Portuguese |work=RTP |access-date=11 December 2020}}</ref>
+|-
+| style="white-space:nowrap; text-align:left;"| 10 PM
+| style="white-space:nowrap; text-align:left;"| [[TVI24]]
+| style="white-space:nowrap; text-align:left;"| [[Carla Moita]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 3 Jan 2021
+| style="white-space:nowrap; text-align:left;"| 9 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP1]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| rowspan="3" style="white-space:nowrap; text-align:left;"| 4 Jan 2021
+| style="white-space:nowrap; text-align:left;"| 9 PM
+| style="white-space:nowrap; text-align:left;"| [[Televisão Independente|TVI]]
+| style="white-space:nowrap; text-align:left;"| [[Pedro Mourinho]]
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 10 PM
+| style="white-space:nowrap; text-align:left;"| [[SIC Notícias]]
+| style="white-space:nowrap; text-align:left;"| [[Clara de Sousa]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 10:45 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP3]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+|<ref name="debatestTino">{{cite news |date=2 January 2021 |url=https://eco.sapo.pt/2021/01/02/debates-televisivos-para-as-presidenciais-arrancam-hoje-conheca-o-calendario/|title=Debates televisivos para as presidenciais já arrancaram. Conheça o calendário |language=Portuguese |work=ECO |access-date=3 January 2021}}</ref>
+|-
+| rowspan="3" style="white-space:nowrap; text-align:left;"| 5 Jan 2021
+| style="white-space:nowrap; text-align:left;"| 9 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP1]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 10 PM
+| style="white-space:nowrap; text-align:left;"| [[SIC Notícias]]
+| style="white-space:nowrap; text-align:left;"| [[Clara de Sousa]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 10:45 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP3]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+|<ref name="debatestTino"/>
+|-
+| rowspan="3" style="white-space:nowrap; text-align:left;"| 6 Jan 2021
+| style="white-space:nowrap; text-align:left;"| 9 PM
+| style="white-space:nowrap; text-align:left;"| [[Sociedade Independente de Comunicação|SIC]]
+| style="white-space:nowrap; text-align:left;"| [[Clara de Sousa]]
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 10 PM
+| style="white-space:nowrap; text-align:left;"| [[TVI24]]
+| style="white-space:nowrap; text-align:left;"| [[Carla Moita]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 10:45 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP3]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+|<ref name="debatestTino"/>
+|-
+| rowspan="3" style="white-space:nowrap; text-align:left;"| 7 Jan 2021
+| style="white-space:nowrap; text-align:left;"| 9 PM
+| style="white-space:nowrap; text-align:left;"| [[Sociedade Independente de Comunicação|SIC]]
+| style="white-space:nowrap; text-align:left;"| [[Clara de Sousa]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 10 PM
+| style="white-space:nowrap; text-align:left;"| [[TVI24]]
+| style="white-space:nowrap; text-align:left;"| [[Carla Moita]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 10:45 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP3]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+|<ref name="debatestTino"/>
+|-
+| rowspan="3" style="white-space:nowrap; text-align:left;"| 8 Jan 2021
+| style="white-space:nowrap; text-align:left;"| 9 PM
+| style="white-space:nowrap; text-align:left;"| [[Televisão Independente|TVI]]
+| style="white-space:nowrap; text-align:left;"| [[Pedro Mourinho]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 9:30 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP1]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 10:45 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP3]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+|<ref name="debatestTino"/>
+|-
+| rowspan="3" style="white-space:nowrap; text-align:left;"| 9 Jan 2021
+| style="white-space:nowrap; text-align:left;"| 9 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP1]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 10 PM
+| style="white-space:nowrap; text-align:left;"| [[SIC Notícias]]
+| style="white-space:nowrap; text-align:left;"| [[Clara de Sousa]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| <ref name="debates"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 10:45 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP3]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#A2B2C2;"|'''NI'''
+| style="background:#D0FFD0;"|'''P'''
+|<ref name="debatestTino"/>
+|-
+| style="white-space:nowrap; text-align:left;"| 12 Jan 2021
+| style="white-space:nowrap; text-align:left;"| 9 PM
+| style="white-space:nowrap; text-align:left;"| [[RTP1]]
+| style="white-space:nowrap; text-align:left;"| [[:pt:Carlos Daniel|Carlos Daniel]]
+| style="background:#D0FFD0;"|'''P'''{{efn|Via [[videotelephony]]}}
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+|<ref>{{cite news |date=10 December 2020 |url=https://www.publico.pt/2020/12/10/politica/noticia/marcelo-abre-fecha-debates-eleitorais-televisoes-2-9-janeiro-1942565|title=Marcelo abre e fecha os debates eleitorais nas televisões, entre 2 e 9 de Janeiro |language=Portuguese|work=Público |access-date=11 December 2020}}</ref>
+|-
+| style="white-space:nowrap; text-align:left;"| 18 Jan 2021
+| style="white-space:nowrap; text-align:left;"| 9 AM
+| style="white-space:nowrap; text-align:left;"| [[Antena 1 (Portugal)|Antena 1]],<br/>[[Rádio Renascença|RR]],<br/>[[TSF (radio station)|TSF]]
+| style="white-space:nowrap; text-align:left;"| Natália Carvalho<br/>Eunice Lourenço<br/>Judith Menezes e Sousa
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#ffffdd;"|'''A'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| style="background:#D0FFD0;"|'''P'''
+| <ref>{{cite news |date=2 January 2021 |url=https://www.dn.pt/edicao-do-dia/02-jan-2021/presidenciais-marcelo-segura-votos-ventura-e-ana-gomes-na-luta-pelo-segundo-lugar-13186166.html|title=Presidenciais. Marcelo segura votos, Ventura e Ana Gomes na luta pelo segundo lugar|language=Portuguese|work=Diário de Notícias |access-date=2 January 2021}}</ref>
+|-
+|}
+
+==Opinion polling==
+{{main|Opinion polling for the 2021 Portuguese presidential election}}
+{{excerpt|Opinion polling for the 2021 Portuguese presidential election|Graphical summary}}
+
+== Campaign budgets ==
+{| class="wikitable sortable" style="font-size:95%"
+! rowspan="2" |Candidate (party)
+! rowspan="2" |Election<br />Result
+! colspan="2" |State Subsidy
+! rowspan="2" |Political Parties<br />Contributions
+! rowspan="2" |Fundraising
+! colspan="2" |Total Revenue
+! rowspan="2" |Expenses
+! rowspan="2" |Debt
+|-
+!Calculated
+!Budgeted
+!Calculated
+!Budgeted
+|-
+| class="unsortable" style="background:{{party color|Social Democratic Party (Portugal)}}" width="275px"|<span style="color:White;">Marcelo R. Sousa (PSD, CDS–PP)</span>
+| align=right|60.7%
+| align=right|€23,827
+| align=right|€25,000
+| align=right|€0
+| align=right|€5,500
+| align=right|€25,927
+| align=right|€30,500
+| align=right|€24,927
+| align=right|€0
+|-
+| class="unsortable" style="background:#D02090" width="275px"|<span style="color:White;">Ana Gomes (PAN, L)</span>
+| align=right|13.0%
+| align=right|€132,435
+| align=right|€20,000
+| align=right|€0
+| align=right|€33,500
+| align=right|€167,133
+| align=right|€53,500
+| align=right|€135,453
+| align=right|€0
+|-
+
+| class="unsortable" style="background:#202056" width="275px"|<span style="color:White;">André Ventura (CH)</span>
+| align=right|11.9%
+| align=right|€146,072
+| align=right|€0
+| align=right|€25,000
+| align=right|€135,000
+| align=right|€201,112
+| align=right|€160,000
+| align=right|€201,112
+| align=right|€0
+|-
+| class="unsortable" style="background:{{party color|Portuguese Communist Party}}" width="275px"|<span style="color:White;">João Ferreira (PCP, PEV)</span>
+| align=right|4.3%
+| align=right|€0
+| align=right|€385,000
+| align=right|€50,000
+| align=right|€15,000
+| align=right|€274,264
+| align=right|€450,000
+| align=right|€274,264
+| align=right|€0
+|-
+| class="unsortable" style="background:#8B0000" width="230px"| <span style="color:White;">{{sortname|nolink=1|Marisa|Matias}} (BE, MAS)</span>
+| align=right| 4.0%
+| align=right|€0
+| align=right|€256,617
+| align=right|€0
+| align=right|€6,000
+| align=right|€357,872 	
+| align=right|€256,617
+| align=right|€357,872
+| align=right|€0
+|-
+| class="unsortable" style="background:{{party color|Liberal Initiative}}" width="275px"|<span style="color:White;">Tiago M. Gonçalves (IL)</span>
+| align=right|3.2%
+| align=right|€0
+| align=right|€0
+| align=right|€25,000
+| align=right|€13,450
+| align=right|€47,263
+| align=right|€38,450
+| align=right|€47,284
+| align=right|€21
+|-
+| class="unsortable" style="background:{{party color|React, Include, Recycle}}" width="275px"|<span style="color:White;">Vitorino Silva (RIR)</span>
+| align=right|3.0%
+| align=right|€0
+| align=right|€0
+| align=right|€0
+| align=right|€16,000
+| align=right|€7,160
+| align=right|€16,000
+| align=right|€7,155
+| align=right|€5
+|-
+| colspan="10" align=center|Source: [[Portuguese Constitutional Court]] (TC)<ref>{{citation |title=Campaign Budgets for the 2021 Presidential election |url=https://www.tribunalconstitucional.pt/tc/contas_eleicoes-pr-2021.html |access-date=17 January 2026 |publisher=[[Portuguese Constitutional Court]]}}.</ref>
+|}
+
+==Voter turnout==
+The table below shows voter turnout throughout election day including voters from Overseas.
+
+{| class="wikitable sortable" style="text-align:right;"
+|-
+! rowspan="3"| Turnout
+! colspan="9"| Time
+|-
+! colspan="3"| 12:00
+! colspan="3"| 16:00
+! colspan="3"| 19:00
+|-
+! 2016
+! 2021
+! ±
+! 2016
+! 2021
+! ±
+! 2016
+! 2021
+! ±
+|-
+| align="left"| '''Total'''
+| style="color:gray;"| 15.82%
+| '''17.07%'''
+| {{increase}} 1.25 [[Percentage point|pp]]
+| style="color:gray;"| 37.69%
+| '''35.44%'''
+| {{decrease}} 2.25 [[Percentage point|pp]]
+| style="color:gray;"| 48.66%
+| '''39.26%'''
+| {{decrease}} 9.40 [[Percentage point|pp]]
+|-
+| colspan="10" bgcolor="#E9E9E9"|
+|-
+| align="left" colspan="10"| Sources<ref>{{cite web |url=https://www.eleicoes.mai.gov.pt/presidenciais2021/afluencia|title=Presidenciais 2021 - Afluência |language=pt |website=eleicoes.mai.gov.pt/presidenciais2021/resultados/globais |publisher=[[Ministry of Internal Administration (Portugal)|Ministry of Internal Administration]] |access-date=9 June 2023}}</ref><ref>{{cite web |url=https://www.eleicoes.mai.gov.pt/presidenciais2016/afluencia.html|title=Presidenciais 2016 - Afluência|language=pt |website=eleicoes.mai.gov.pt/presidenciais2016/index.html |publisher=[[Ministry of Internal Administration (Portugal)|Ministry of Internal Administration]] |access-date=9 June 2023}}</ref>
+|}
+
+==Results==
+===National summary===
+{{Election results
+|cand1=[[Marcelo Rebelo de Sousa]]|party1=[[Social Democratic Party (Portugal)|Social Democratic Party]]{{efn|Also supported by [[CDS – People's Party]].}}|votes1=2531692
+|cand2=[[Ana Gomes]]|party2=Independent{{efn|Supported by the [[People Animals Nature]] and [[LIVRE]].}}|colour2=#D02090|votes2=540823
+|cand3=[[André Ventura]]|party3=[[Chega]]|votes3=497746
+|cand4=[[João Ferreira (politician)|João Ferreira]]|party4=[[Portuguese Communist Party]]{{efn|Also supported by the [[Ecologist Party "The Greens"]].}}|votes4=179764
+|cand5=[[Marisa Matias]]|party5=[[Left Bloc]]{{efn|Also supported by the [[Socialist Alternative Movement]].}}|votes5=165127
+|cand6=[[Tiago Mayan Gonçalves]]|party6=[[Liberal Initiative]]|votes6=134991
+|cand7=[[Vitorino Silva]]|party7=[[React, Include, Recycle]]|votes7=123031
+|blank=47164
+|invalid=38018
+|electorate=10847434
+|source=[https://dre.pt/application/conteudo/156971146 Comissão Nacional de Eleições]
+}}
+
+===Results by district===
+<div style="overflow:auto">
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+|-
+! colspan="2" rowspan="2" | {{0}}{{0}}{{0}}{{0}}District{{0}}{{0}}{{0}}{{0}}
+! colspan="2" | [[Marcelo Rebelo de Sousa|Marcelo]]
+! colspan="2" | [[Ana Gomes|Gomes]]
+! colspan="2" | [[André Ventura|Ventura]]
+! colspan="2" | [[João Ferreira (politician)|Ferreira]]
+! colspan="2" | [[Marisa Matias|Matias]]
+! colspan="2" | [[Tiago Mayan Gonçalves|Mayan]]
+! colspan="2" | [[Vitorino Silva]]
+! rowspan="2" | Turnout
+|-
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Aveiro District|Aveiro]]
+| {{Party shading/PSD}}; color:#000;" | '''176,763'''
+| {{Party shading/PSD}}; color:#000;" | '''65.66%'''
+| 31,812
+| 11.82%
+| 25,894
+| 9.62%
+| 6,309
+| 2.34%
+| 10,421
+| 3.87%
+| 8,338
+| 3.10%
+| 9,670
+| 3.59%
+| 42.78%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Azores]]
+| {{Party shading/PSD}}; color:#000;" | '''56,178'''
+| {{Party shading/PSD}}; color:#000;" | '''69.67%'''
+| 8,940
+| 11.09%
+| 7,560
+| 9.38%
+| 1,536
+| 1.90%
+| 3,176
+| 3.94%
+| 1,666
+| 2.07%
+| 1,575
+| 1.95%
+| 36.07%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Beja District|Beja]]
+| {{Party shading/PSD}}; color:#000;" | '''26,910'''
+| {{Party shading/PSD}}; color:#000;" | '''51.30%'''
+| 5,613
+| 10.70%
+| 8,490
+| 16.19%
+| 7,877
+| 15.02%
+| 1,895
+| 3.61%
+| 708
+| 1.35%
+| 962
+| 1.83%
+| 43.94%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Braga District|Braga]]
+| {{Party shading/PSD}}; color:#000;" | '''234,617'''
+| {{Party shading/PSD}}; color:#000;" | '''63.93%'''
+| 44,780
+| 12.20%
+| 39,281
+| 10.70%
+| 10,192
+| 2.78%
+| 12,572
+| 3.43%
+| 11,932
+| 3.25%
+| 13,622
+| 3.71%
+| 48.52%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Bragança District|Bragança]]
+| {{Party shading/PSD}}; color:#000;" | '''27,258'''
+| {{Party shading/PSD}}; color:#000;" | '''60.47%'''
+| 4,851
+| 10.76%
+| 7,939
+| 17.61%
+| 1,019
+| 2.26%
+| 1,511
+| 3.35%
+| 842
+| 1.87%
+| 1,656
+| 3.67%
+| 33.28%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Castelo Branco District|Castelo Branco]]
+| {{Party shading/PSD}}; color:#000;" | '''44,170'''
+| {{Party shading/PSD}}; color:#000;" | '''62.13%'''
+| 8,212
+| 11.55%
+| 9,920
+| 13.95%
+| 2,499
+| 3.52%
+| 2,946
+| 4.14%
+| 1,477
+| 2.08%
+| 1,869
+| 2.63%
+| 43.33%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Coimbra District|Coimbra]]
+| {{Party shading/PSD}}; color:#000;" | '''97,778'''
+| {{Party shading/PSD}}; color:#000;" | '''62.44%'''
+| 20,938
+| 13.02%
+| 15,682
+| 10.01%
+| 6,022
+| 3.85%
+| 8,588
+| 5.48%
+| 3,968
+| 2.53%
+| 4,171
+| 2.66%
+| 42.37%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Évora District|Évora]]
+| {{Party shading/PSD}}; color:#000;" | '''31,712'''
+| {{Party shading/PSD}}; color:#000;" | '''54.70%'''
+| 5,974
+| 10.30%
+| 9,720
+| 16.76%
+| 6,262
+| 10.80%
+| 2,079
+| 3.59%
+| 1,176
+| 2.03%
+| 1,055
+| 1.82%
+| 43.60%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Faro (Portuguese district)|Faro]]
+| {{Party shading/PSD}}; color:#000;" | '''89,393'''
+| {{Party shading/PSD}}; color:#000;" | '''57.33%'''
+| 18,312
+| 11.74%
+| 26,023
+| 16.69%
+| 6,607
+| 4.24%
+| 7,612
+| 4.88%
+| 4,038
+| 2.59%
+| 3,943
+| 2.53%
+| 42.11%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Guarda District|Guarda]]
+| {{Party shading/PSD}}; color:#000;" | '''34,582'''
+| {{Party shading/PSD}}; color:#000;" | '''64.04%'''
+| 5,637
+| 10.44%
+| 7,737
+| 14.33%
+| 1,328
+| 2.46%
+| 1,874
+| 3.47%
+| 1,030
+| 1.91%
+| 1,810
+| 3.35%
+| 37.41%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Leiria District|Leiria]]
+| {{Party shading/PSD}}; color:#000;" | '''115,484'''
+| {{Party shading/PSD}}; color:#000;" | '''63.94%'''
+| 18,871
+| 10.45%
+| 22,576
+| 12.50%
+| 5,761
+| 3.19%
+| 7,222
+| 4.00%
+| 5,185
+| 2.87%
+| 5,526
+| 3.06%
+| 44.70%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Lisbon District|Lisbon]]
+| {{Party shading/PSD}}; color:#000;" | '''556,028'''
+| {{Party shading/PSD}}; color:#000;" | '''57.80%'''
+| 136,608
+| 14.51%
+| 123,644
+| 12.85%
+| 48,721
+| 5.06%
+| 36,618
+| 3.81%
+| 39,190
+| 4.07%
+| 18,173
+| 1.89%
+| 50.97%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Madeira]]
+| {{Party shading/PSD}}; color:#000;" | '''77,945'''
+| {{Party shading/PSD}}; color:#000;" | '''72.16%'''
+| 8,510
+| 7.88%
+| 10,642
+| 9.85%
+| 1,855
+| 1.72%
+| 4,601
+| 4.26%
+| 2,484
+| 2.30%
+| 1,986
+| 1.84%
+| 42.71%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Portalegre District|Portalegre]]
+| {{Party shading/PSD}}; color:#000;" | '''21,984'''
+| {{Party shading/PSD}}; color:#000;" | '''55.71%'''
+| 4,034
+| 10.22%
+| 7,908
+| 20.04%
+| 2,868
+| 7.27%
+| 1,234
+| 3.13%
+| 703
+| 1.78%
+| 731
+| 1.85%
+| 42.23%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Porto District|Porto]]
+| {{Party shading/PSD}}; color:#000;" | '''450,175'''
+| {{Party shading/PSD}}; color:#000;" | '''60.01%'''
+| 116,906
+| 15.58%
+| 63,194
+| 8.42%
+| 24,456
+| 3.26%
+| 29,867
+| 3.98%
+| 32,194
+| 4.29%
+| 33,427
+| 4.46%
+| 48.10%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Santarém District|Santarém]]
+| {{Party shading/PSD}}; color:#000;" | '''101,233'''
+| {{Party shading/PSD}}; color:#000;" | '''60.74%'''
+| 16,359
+| 9.81%
+| 26,260
+| 15.76%
+| 8,274
+| 4.96%
+| 6,229
+| 3.74%
+| 3,759
+| 2.26%
+| 4,563
+| 2.74%
+| 44.90%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Setúbal District|Setúbal]]
+| {{Party shading/PSD}}; color:#000;" | '''190,912'''
+| {{Party shading/PSD}}; color:#000;" | '''56.17%'''
+| 45,442
+| 13.37%
+| 43,720
+| 12.86%
+| 30,397
+| 8.94%
+| 14,792
+| 4.35%
+| 7,838
+| 2.31%
+| 6,771
+| 1.99%
+| 46.54%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Viana do Castelo District|Viana do Castelo]]
+| {{Party shading/PSD}}; color:#000;" | '''56,937'''
+| {{Party shading/PSD}}; color:#000;" | '''63.66%'''
+| 10,348
+| 11.57%
+| 10,177
+| 11.38%
+| 2,851
+| 3.19%
+| 3,296
+| 3.69%
+| 2,244
+| 2.51%
+| 3,583
+| 4.01%
+| 38.49%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Vila Real District|Vila Real]]
+| {{Party shading/PSD}}; color:#000;" | '''47,960'''
+| {{Party shading/PSD}}; color:#000;" | '''63.50%'''
+| 8,629
+| 11.42%
+| 10,347
+| 13.70%
+| 1,912
+| 2.53%
+| 2,461
+| 3.26%
+| 1,572
+| 2.08%
+| 2,650
+| 3.51%
+| 35.81%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | [[Viseu District|Viseu]]
+| {{Party shading/PSD}}; color:#000;" | '''81,568'''
+| {{Party shading/PSD}}; color:#000;" | '''65.25%'''
+| 12,992
+| 10.39%
+| 16,446
+| 13.16%
+| 2,750
+| 2.20%
+| 4,174
+| 3.34%
+| 2,524
+| 2.02%
+| 4,553
+| 3.64%
+| 37.26%
+|-
+! style="background:{{party color|Social Democratic Party (Portugal)}};" | &nbsp;
+| style="text-align:left;" | Overseas
+| {{Party shading/PSD}}; color:#000;" | '''15,158'''
+| {{Party shading/PSD}}; color:#000;" | '''52.65%'''
+| 5,328
+| 18.51%
+| 3,613
+| 12.55%
+| 1,022
+| 3.55%
+| 1,573
+| 5.46%
+| 1,616
+| 5.61%
+| 478
+| 1.66%
+| 1.88%
+|- class="sortbottom"
+| colspan="17" style="text-align:left;" | Source: [https://www.eleicoes.mai.gov.pt/presidenciais2021/resultados/globais 2021 Presidential election results]
+|}
+</div>
+
+===Maps===
+
+<gallery mode="packed" heights="230">
+File:Mapa dos resultados da eleição presidencial de Portugal em 2021.png|Strongest candidate by [[Municipalities of Portugal|municipality]]: Marcelo - orange.
+File:Presidenciais 2021.png|First, second and third most voted candidates by [[Districts of Portugal|district]]: Marcelo - orange; Gomes - pink; Ventura - dark blue; Ferreira - red.
+File:Mapa Presidenciais 2021.png|First, second and third most voted candidates by [[Municipalities of Portugal|municipality]]: Marcelo - orange; Gomes - pink; Ventura - dark blue; Ferreira - red; Vitorino Silva - Light Sea Green.
+</gallery>
+
+===Accomplishments===
+[[File:Discurso de vitória na reeleição de Marcelo Rebelo de Sousa (Lusa - Aconteceu em 2021).png|thumb|Marcelo Rebelo de Sousa delivering his victory speech after being reelected.]]
+[[Marcelo Rebelo de Sousa]] won the third highest vote margin ever in a presidential election in Portugal since democracy was [[Carnation Revolution|restored]], only behind [[Mário Soares]]' 70.35 percent in [[1991 Portuguese presidential election|1991]] and [[António Ramalho Eanes]]' 61.59 percent in [[1976 Portuguese presidential election|1976]].<ref>{{cite news |last1=Machado |first1=Alexandra |last2=Filipe |first2=Celso |last3=Santiago |first3=David |last4=Curvelo |first4=Pedro |title=Marcelo obteve o terceiro melhor resultado de sempre em presidenciais |url=https://www.jornaldenegocios.pt/economia/politica/eleicoes/detalhe/portugueses-voltam-pela-10-vez-para-escolher-o-presidente-da-republica |access-date=27 January 2021 |publisher=Jornal de Negócios |date=25 January 2021}}</ref> He was also the first candidate ever to win the vote in all [[Portuguese municipalities|municipalities]],<ref>{{cite news |last1=Camilo |first1=Diogo |title=Marcelo é o primeiro Presidente da República a vencer em todos os concelhos do país |url=https://www.sabado.pt/portugal/detalhe/marcelo-e-o-primeiro-presidente-da-republica-a-vencer-em-todos-os-concelhos-do-pais |access-date=27 January 2021 |publisher=Sábado |date=25 January 2021}}</ref> and win in 3083 out of 3092 parishes of the country.<ref>{{cite news |last1=Tânia |first1=Pereirinha |title=As nove freguesias — em 3.092 — onde Marcelo não ganhou |url=https://observador.pt/2021/01/25/as-nove-freguesias-em-3-092/ |access-date=27 January 2021 |publisher=Observador |date=25 January 2021}}</ref>
+
+[[Ana Gomes]] became the most voted woman ever in a presidential election in Portugal, beating [[Marisa Matias]]' previous record of 10.12 percent in [[2016 Portuguese presidential election|2016]], and the first to get second place.<ref>{{cite news |last1=Lusa |title=Presidenciais: Ana Gomes é a mulher mais votada de sempre em Portugal |url=https://visao.sapo.pt/atualidade/politica/presidenciais-2021/2021-01-25-presidenciais-ana-gomes-e-a-mulher-mais-votada-de-sempre-em-portugal/ |access-date=27 January 2021 |publisher=Visão |date=25 January 2021}}</ref>
+
+==Notes==
+{{Reflist|group=lower-alpha}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.eleicoes.mai.gov.pt/ Official results site, Portuguese Justice Ministry]
+*[http://www.cne.pt/ Portuguese Electoral Commission]
+*[http://www.erc.pt/pt/sondagens ERC – Official publication of polls]
+
+{{Portuguese presidential elections}}
+{{Portuguese elections}}
+
+[[Category:Presidential elections in Portugal]]
+[[Category:2021 elections in Portugal|Presidential]]
+[[Category:January 2021 in Portugal|President]]

@@ -1,0 +1,59 @@
+{{Short description|none}}
+{{Infobox election
+| country = Dominican Republic
+| type = presidential
+| previous_election = 1994 Dominican Republic general election
+| previous_year = 1994
+| election_date = 16 May 1996 (first round)<br />30 June 1996 (second round)
+| next_election = 2000 Dominican Republic presidential election
+| next_year = 2000
+| turnout = 78.63% (first round) {{decrease}} 9.28[[Percentage point|pp]]<br/>76.80% (second round)
+
+| image1 = Leonel Fernández en 1996.jpg
+| nominee1 = '''[[Leonel Fernández]]'''
+| party1 = Dominican Liberation Party
+| popular_vote1 = '''1,466,382'''
+| percentage1 = '''51.25%'''
+
+| image2 = Pena Gomez photo.jpg
+| nominee2 = [[José Francisco Peña Gómez]]
+| party2 = Dominican Revolutionary Party
+| popular_vote2 = 1,394,641
+| percentage2 = 48.75%
+| map = {{Switcher
+| [[File:Map Electoral Dominican Republic (1996-1).svg|320px]]|First round results by province
+| [[File:Map Electoral Dominican Republic (1996-2).svg|320px]]|Second round results by province
+| default=2}}
+| title = President
+| before_election = [[Joaquín Balaguer]]
+| before_party = Social Christian Reformist Party
+| after_election = [[Leonel Fernández]]
+| after_party = Dominican Liberation Party
+}}
+
+Presidential elections were held in the [[Dominican Republic]] on 16 May 1996, with a second round on 30 June.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p247 {{ISBN|978-0-19-928357-6}}</ref><ref>{{Cite journal |date=1996 |title=Election Watch |url=https://muse.jhu.edu/article/697486 |journal=Journal of Democracy |volume=7 |issue=3 |issn=1086-3214}}</ref> Whilst [[José Francisco Peña Gómez]] won the most votes in the first round, he was defeated by [[Leonel Fernández]] in the second round, after the [[Social Christian Reformist Party]], whose candidate had lost in the first round, declared their support for Fernández.<ref>Nohlen, p242</ref> Voter turnout was 78.63% in the first round and 76.80% in the second.<ref>Nohlen, p248</ref>
+
+Conservatives and business interests opposed Peña Gómez.<ref>{{Cite web |last=Darling |first=Juanita |date=1996-05-18 |title=Dominican Leadership Race Goes to Runoff |url=https://www.latimes.com/archives/la-xpm-1996-05-18-mn-5557-story.html |website=Los Angeles Times |language=en-US}}</ref> Peña Gómez, whose parents were Haitian, faced nationalist, anti-Haiti rhetoric in the campaign.<ref name=":0">{{Cite journal |last=Sagás |first=Ernesto |date=1997 |title=The 1996 presidential elections in the Dominican Republic |url=https://www.sciencedirect.com/science/article/abs/pii/S0261379497831204 |journal=Electoral Studies |volume=16 |issue=1 |pages=103–107 |doi=10.1016/S0261-3794(97)83120-4 |issn=0261-3794|url-access=subscription }}</ref>
+
+The elections were considered free and fair.<ref name=":0" />
+
+==Results==
+{{Election results
+|cand1=[[José Francisco Peña Gómez]]|party1=[[Dominican Revolutionary Party]]|votes1=1333925|votes1_2=1394641
+|cand2=[[Leonel Fernández]]|party2=[[Dominican Liberation Party]]|votes2=1130523|votes2_2=1466382
+|cand3=[[Jacinto Peynado Garrigosa]]|party3=[[Social Christian Reformist Party]]|votes3=435504
+|cand4=[[José Rafael Abinader]]|party4=[[Modern Revolutionary Party|Social Democratic Alliance]]|votes4=3907
+|invalid=45120|invalid2=19402
+|electorate=3750502|electorate2=3750502
+|source=Nohlen
+}}
+
+==References==
+{{reflist}}
+
+{{Dominican Republic elections}}
+
+[[Category:1996 elections in the Caribbean|Dominican Republic]]
+[[Category:1996 in the Dominican Republic|Presidential]]
+[[Category:Presidential elections in the Dominican Republic]]
+[[Category:May 1996 in North America|Dominican Republic]]

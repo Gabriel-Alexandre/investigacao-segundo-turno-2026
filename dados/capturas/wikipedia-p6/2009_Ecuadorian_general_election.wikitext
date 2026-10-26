@@ -1,0 +1,486 @@
+{{Short description|none}}
+{{Use dmy dates|date=February 2022}}
+{{Infobox election
+| country = Ecuador
+| type = presidential
+| previous_election = 2006 Ecuadorian general election
+| previous_year = 2006
+| next_election = 2013 Ecuadorian general election
+| next_year = 2013
+| election_date =  {{Start date|2009|04|26|df=y}}
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| registered = 10,532,234
+| turnout = 75.28% 
+
+| image_size = 130x130px
+| image1 = Rafael Correa Delgado.jpg
+| nominee1 = '''[[Rafael Correa]]'''
+| party1 = PAIS Alliance
+| running_mate1 = '''[[Lenín Moreno]]'''
+| popular_vote1 = '''3,586,439'''
+| percentage1 = '''51.99%'''
+
+| image2 = Lucio Gutiérrez (cropped).jpg
+| nominee2 = [[Lucio Gutiérrez]]
+| party2 = January 21 Patriotic Society Party
+| running_mate2 = Felipe Mantilla
+| popular_vote2 = 1,947,830
+| percentage2 = 28.24%
+<!--          Álvaro Noboa        -->
+| image3 = Álvaro Noboa (cropped).jpg
+| nominee3 = [[Álvaro Noboa]]
+| party3 = Institutional Renewal Party of National Action
+| running_mate3 = [[Anabella Azín]]
+| popular_vote3 = 786,718
+| percentage3 = 11.41%
+
+| map_image = Votos Presidente por Provincia Ecuador 2009.svg
+| map_size = 200px
+| map_caption = Map of results of the first round by [[Provinces of Ecuador|province]].
+
+| title = [[President of Ecuador|President]]
+| before_election = [[Rafael Correa]]
+| before_party = PAIS Alliance
+| after_election = [[Rafael Correa]]
+| after_party = PAIS Alliance
+}}}}{{Politics of Ecuador}}
+
+Early general elections were held in [[Ecuador]] on 26 April 2009  following the approval of a new constitution in a [[2008 Ecuadorian constitutional referendum|referendum]] held on 28 September 2008.<ref>{{Cite web|url=http://english.people.com.cn/90001/90777/90852/6533033.html|title = Ecuador to hold general election in April 2009 - People's Daily Online}}</ref> [[President of Ecuador|President]] [[Rafael Correa]] ran for his first term under the new [[constitution of Ecuador|constitution]]. The election was initially expected to be held in October 2010.<ref>{{Cite web|url=http://english.aljazeera.net/news/americas/2008/09/2008928232524769997.html|title=Breaking News, World News and Video from al Jazeera}}</ref><ref>http://www.plenglish.com/article.asp?ID={770AB960-1BD0-4417-8B3F-364526BF6886})&language=EN {{webarchive |url=https://web.archive.org/web/20090315042804/http://www.plenglish.com/article.asp?ID= |date=March 15, 2009 }}</ref>
+
+Among the candidates for President were current President Rafael Correa, supported by his [[PAIS Alliance]] and the Socialist Party; [[Álvaro Noboa]] ran under the banner of the [[PRIAN]] and had the support of the [[Social Christian Party (Ecuador)|Social Christian Party]] (PSC) and the [[Christian Democratic Union (Ecuador)|Christian Democratic Union]]. Former president [[Lucio Gutiérrez]] ran as the candidate of the [[January 21 Patriotic Society Party]].
+
+Preliminary results suggested that Correa had won reelection in the first round easily,<ref>{{Cite web |url=http://www.radionetherlands.nl/news/international/6275173/Ecuadors-president-looks-set-to-win-election |title = International news - Radio Netherlands Worldwide - English  |access-date=2009-04-26 |archive-url=https://web.archive.org/web/20090503112156/http://www.radionetherlands.nl/news/international/6275173/Ecuadors-president-looks-set-to-win-election |archive-date=2009-05-03 |url-status=dead }}</ref> surpassing 50% of the vote, followed by Gutiérrez coming in second with about 28% of the vote. Correa's came short of having an absolute majority in parliament.
+
+In addition Correa became the first sitting president to be reelected since García Moreno in 1875.<ref>{{Deprecated archive|url=https://archive.today/20130205175247/http://www.vistazo.com/ea/columnas/imprimir.php?Vistazo.com&id=2391}}</ref>
+
+The full results of the seat distribution was still known, though it was assumed that PAIS would have 59 seats, PSP 19, PSC/MG 11, PRIAN 7, MPD 5, the Municipalist Movement 5, and others less than 5 seats.
+
+==Opinion polls==
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!Date
+!Pollster
+![[Rafael Correa|Correa]]
+![[Lucio Gutiérrez|Gutiérrez]]
+![[Alvaro Noboa|Noboa]]
+![[Martha Roldós|Roldós]]
+!Sagñay
+!Jácome
+!Delgado
+!Gonzáles
+|-
+|02/08/08
+|[https://www.eluniverso.com/2008/10/05/0001/8/30540D11E4E94341BCE8C3F0652F25F4.html S.P.Investigaciones]
+|style="background:lime"|'''38%'''
+|6%
+|6%
+|–
+|–
+|–
+|–
+|–
+|-
+|23/01/09
+|[https://www.eluniverso.com/2009/01/23/1/1355/49237397DFEB4812A5FDB75F96F933F8.html Informe Confidencial]
+|style="background:lime"|'''54%'''
+|8%
+|–
+|5%
+|–
+|–
+|–
+|–
+|-
+|21/02/09
+|[https://www.eluniverso.com/2009/03/09/1/1355/5888B1C5069142D084D4F823970B3308.html S.P.Investigaciones]
+|style="background:lime"|'''54%'''
+|11%
+|13%
+|5%
+|–
+|–
+|–
+|–
+|-
+|28/02/09
+|[https://www.eluniverso.com/2009/03/09/1/1355/5888B1C5069142D084D4F823970B3308.html Perfiles de Opinión ]
+|style="background:lime"|'''48%'''
+|9.5%
+|11.5%
+|4%
+|–
+|–
+|–
+|–
+|-
+|28/02/09
+|[https://www.eluniverso.com/2009/03/09/1/1355/5888B1C5069142D084D4F823970B3308.html Informe Confidencial]
+|style="background:lime"|'''47.5%'''
+|5.5%
+|12.5%
+|6%
+|–
+|–
+|–
+|–
+|-
+|01/03/09
+|[https://web.archive.org/web/20090325052609/http://www.hoy.com.ec/noticias-ecuador/correa-ganara-presidencia-de-ecuador-en-una-sola-vuelta-segun-encuestadoras-338834.html CMS]
+|style="background:lime"|'''47.41%'''
+|5.82%
+|4.81%
+|1.84%
+|–
+|–
+|–
+|–
+|-
+|08/03/09
+|[https://web.archive.org/web/20160304123455/http://www.eltiempo.com.ec/noticias-cuenca/13351 Informe Confidencial]
+|style="background:lime"|'''48%'''
+|9%
+|10%
+|–
+|–
+|–
+|–
+|–
+|-
+|10/03/09
+|{{Deprecated archive|url=https://archive.today/20130106105712/http://www.elciudadano.gob.ec/index.php?option=com_content&view=article&id=876:rafael-correa-con-el-475-de-aprrafael-correa-con-el-475-de-apoyo-electoral-segun-informe-confidencial-obacion-segun-informe-confidencial-&catid=2:politica&Itemid=43|title=Informe Confidencial}}
+|style="background:lime"|'''47.5%'''
+|–
+|12.5%
+|–
+|–
+|–
+|–
+|–
+|-
+|09/03/09
+|[http://www.elciudadano.gov.ec/index.php?option=com_content&view=article&id=854:santiago-perez-qrafael-correa-lidera-con-mas-del-50-la-intencion-de-votoq&catid=1:archivo S.P.Investigaciones]{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+|style="background:lime"|'''50%'''
+|13%
+|11%
+|5%
+|–
+|–
+|–
+|–
+|-
+|15/03/09
+|{{Deprecated archive|url=https://archive.today/20120713152654/http://old.rlp.com.ni/noticias/alba/48668|title=Perfiles de Opinión}}
+|style="background:lime"|'''47%'''
+|10%
+|13%
+|8%
+|–
+|–
+|–
+|–
+|-
+|15/03/09
+|{{Deprecated archive|url=https://archive.today/20120713152654/http://old.rlp.com.ni/noticias/alba/48668|title=S.P.Investigaciones}}
+|style="background:lime"|'''54%'''
+|11%
+|13%
+|5%
+|–
+|–
+|–
+|–
+|-
+|15/03/09
+|[http://foro.univision.com/t5/Ecuador/Esto-dicen-las-%C3%BAltimas-encuestas-seg%C3%BAn-Cedatos-Gallup/td-p/322746544 CEDATOS]
+|style="background:lime"|'''46%'''
+|11%
+|14%
+|4%
+|0.2%
+|0.1%
+|0.5%
+|0.3%
+|-
+|16/03/09
+|[http://miguejournalist.blogspot.com/2009/03/correa-continua-al-frente-de-la.html S.P.Investigaciones]
+|style="background:lime"|'''53%'''
+|13%
+|11%
+|5%
+|–
+|–
+|–
+|–
+|-
+|21/03/09
+|[https://www.eluniverso.com/2009/03/27/1/1355/1CCEE3AF3943414D995DB9273A51BCD7.html S.P.Investigaciones]
+|style="background:lime"|'''52%'''
+|12%
+|11%
+|8%
+|–
+|–
+|–
+|–
+|-
+|22/03/09
+|[https://web.archive.org/web/20160304123455/http://www.eltiempo.com.ec/noticias-cuenca/13351 Informe Confidencial]
+|style="background:lime"|'''48%'''
+|7.5%
+|15%
+|–
+|–
+|–
+|–
+|–
+|-
+|23/03/09
+|[https://web.archive.org/web/20090406170721/http://www.hoy.com.ec/noticias-ecuador/sondeo-da-a-correa-un-58-en-quito-y-un-37-en-guayaquil-341694.html Perfiles de Opinión]
+|style="background:lime"|'''47.5%'''
+|7%
+|16%
+|10%
+|–
+|–
+|–
+|–
+|-
+|25/03/09
+|[http://confirmado.net/archivo/politica/4350-encuestadora-dice-que-correa-tiene-el-55-de-la-intencion-del-voto.html CMS]{{Dead link|date=April 2019 |bot=InternetArchiveBot |fix-attempted=yes }}
+|style="background:lime"|'''55%'''
+|–
+|13%
+|–
+|–
+|–
+|–
+|–
+|-
+|27/03/09
+|{{Deprecated archive|url=https://archive.today/20120903215848/http://www.hoy.com.ec/noticias-ecuador/comicios-generales-estarian-bastante-definidos-indica-cedatos-340547.html|title=CEDATOS}}
+|style="background:lime"|'''48.5%'''
+|14.6%
+|12.9%
+|7.1%
+|0.2%
+|0.2%
+|0.4%
+|0.3%
+|-
+|28/03/09
+|[https://thecommunicationslab.wordpress.com/2009/03/28/ecuador-sondeo-indica-que-rafael-correa-ganara-eleccion-presidencial-en-ecuador/ CMS]
+|style="background:lime"|'''52%'''
+|9%
+|8%
+|–
+|–
+|–
+|–
+|–
+|-
+|28/03/09
+|[http://www.elcomercio.com/noticias/Correa-encabeza-intencion-encuesta-Gobierno_0_17998210.html S.P.Investigaciones]{{Dead link|date=August 2026 |bot=InternetArchiveBot }}
+|style="background:lime"|'''53%'''
+|12%
+|12%
+|6%
+|–
+|–
+|–
+|–
+|-
+|30/03/09
+|[https://web.archive.org/web/20090422041120/http://www.hoy.com.ec/noticias-ecuador/alvaro-noboa-y-lucio-gutierrez-se-pelean-segundo-lugar-en-presidenciales-340998.html Informe Confidencial]
+|style="background:lime"|'''48%'''
+|9%
+|10%
+|5%
+|–
+|–
+|–
+|–
+|-
+|03/04/09
+|[https://exitpollplus.blogspot.com/2009/04/ultimas-encuestas-elecciones-en-ecuador.html CEDATOS]
+|style="background:lime"|'''49.2%'''
+|15.3%
+|13.2%
+|7.2%
+|0.3%
+|0.2%
+|0.6%
+|0.5%
+|-
+|03/04/09
+|{{Deprecated archive|url=https://archive.today/20130307234817/http://www.ciudadaniainformada.com/noticias-elecciones-ecuador0/noticias-elecciones-ecuador/browse/14/ir_a/elecciones/article//correa-sigue-con-mas-del-50-de-respaldo-segun-las-encuestas.html?t|title=S.P.Investigaciones}}
+|style="background:lime"|'''53.7%'''
+|12.4%
+|10.1%
+|6.5%
+|–
+|–
+|–
+|–
+|-
+|06/04/09
+|[http://www.explored.com.ec/noticias-ecuador/correa-claro-favorito-para-elecciones-en-ultimo-dia-para-difusion-de-sondeos-342117.html Market]{{Dead link|date=August 2026 |bot=InternetArchiveBot }}
+|style="background:lime"|'''57.5%'''
+|12.7%
+|13.5%
+|6%
+|–
+|–
+|–
+|–
+|-
+|06/04/09
+|[https://web.archive.org/web/20161029111816/http://www.americaeconomica.com/portada/noticias/070409/Mfcorrea.htm S.P.Investigaciones]
+|style="background:lime"|'''51%'''
+|13%
+|12%
+|9%
+|–
+|–
+|–
+|–
+|-
+|06/04/09
+|{{Deprecated archive|url=https://archive.today/20130412034049/http://www.vistazo.com/webpages/pais/?id=5908|title=CMS}}
+|style="background:lime"|'''47.6%'''
+|15%
+|8.6%
+|6.4%
+|–
+|–
+|–
+|–
+|-
+|06/04/09
+|[https://www.eluniverso.com/2009/04/06/1/1355/7DD0F393CE274E62B20EC7CD063BB68A.html CEDATOS]
+|style="background:lime"|'''50.5%'''
+|17.7%
+|15.3%
+|8.3%
+|0.3%
+|0.2%
+|0.7%
+|0.6%
+|-
+|26/04/09
+|[https://web.archive.org/web/20160304193224/http://www.ecuadorinmediato.com/Noticias/news_user_view/ecuadorinmediato_noticias--102966 CEDATOS]
+|style="background:lime"|'''55.2%'''
+|27.7%
+|10.2%
+|3.4%
+|–
+|–
+|–
+|–
+|-
+|26/04/09
+|[https://orhpositivo.wordpress.com/2009/04/26/ultimos-resultados-exit-pool-ecuador/ S.P.Investigaciones]
+|style="background:lime"|'''56%'''
+|29%
+|8%
+|4%
+|–
+|–
+|–
+|–
+|-
+|26/04/09
+|[http://www.lahora.com.ec/index.php/noticias/show/869124 CMS]
+|style="background:lime"|'''54.92%'''
+|23.74%
+|7.74%
+|6%
+|–
+|–
+|–
+|–
+|}
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Rafael Correa]]|vp1=[[Lenín Moreno]]|party1=[[PAIS Alliance]]|votes1=3586439
+|cand2=[[Lucio Gutiérrez]]|vp2=Felipe Mantilla|party2=[[Patriotic Society Party|January 21 Patriotic Society Party]]|votes2=1947830
+|cand3=[[Álvaro Noboa]]|vp3=[[Annabella Azín]]|party3=[[Institutional Renewal Party of National Action]]|votes3=786718
+|cand4=[[Martha Roldós]]|vp4=Eduardo Delgado|party4=[[Ethics and Democracy Network]]|votes4=298765
+|cand5=Carlos Sagñay|vp5=Segundo Bueno|party5=Thousandfold Victory|votes5=108079
+|cand6=Melba Jácome|vp6=Ricardo Guambo|party6=Fertile Earth Movement|votes6=93146
+|cand7=Diego Delgado Jara|vp7=Ménthor Sánchez|party7=Social Integration and Transformation|votes7=43221
+|cand8=Carlos Gonzáles|vp8=Julio Prócel|party8=Independent Just and Solidary Movement|votes8=33714
+|invalid=1030836
+|electorate=10532234
+|source=[https://www2.congreso.gob.pe/sicr/cendocbib/con2_uibd.nsf/CAC745474C375FA90525773E006E3AF8/$FILE/Ecuador_primera_vuelta.pdf CNE]
+}}
+
+===National Assembly===
+{{Election results
+|image=[[File:1ra Asamblea Nacional Ecuador escaños.svg]]
+|seattype1=National|seattype2=Provincial|seattype3=Overseas|seattype4=Total|seattype5=+/–
+|party1=[[PAIS Alliance]]|votes1=27751651|st1t1=7|st2t1=47|st3t1=5|st4t1=59|st5t1=–21
+|party2=[[Patriotic Society Party|January 21 Patriotic Society Party]]|votes2=9779869|st1t2=3|st2t2=16|st3t2=0|st4t2=19|st5t2=0
+|party3=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes3=8559831|st1t3=2|st2t3=9|st3t3=0|st4t3=11|st5t3=+6
+|party4=[[Institutional Renewal Party of National Action]]|votes4=3875395|st1t4=1|st2t4=5|st3t4=1|st4t4=7|st5t4=–1
+|party5=[[Ecuadorian Roldosist Party]]|votes5=2872465|st1t5=1|st2t5=2|st3t5=0|st4t5=3|st5t5=+2
+|party6=[[Democratic People's Movement]]|votes6=2766276|st1t6=1|st2t6=4|st3t6=0|st4t6=5|st5t6=+1
+|party7=[[Ethics and Democracy Network]]|votes7=1350937|st1t7=0|st2t7=0|st3t7=0|st4t7=0|st5t7=–3
+|party8=[[Coalition Movement|National Democratic Coalition]]|votes8=1341635|st1t8=0|st2t8=1|st3t8=0|st4t8=1|st5t8=+1
+|party9=[[Municipalist Movement for National Integrity]]|votes9=1246643|st1t9=0|st2t9=5|st3t9=0|st4t9=5|st5t9=New
+|party10=[[Democratic Left (Ecuador)|Democratic Left]]|votes10=1108744|st1t10=0|st2t10=2|st3t10=0|st4t10=2|st5t10=0
+|party11=[[Pachakutik Plurinational Unity Movement – New Country]]|votes11=948638|st1t11=0|st2t11=4|st3t11=0|st4t11=4|st5t11=0
+|party12=[[Christian Democratic Union (Ecuador)|Christian Democratic Union]]|votes12=732287|st1t12=0|st2t12=0|st3t12=0|st4t12=0|st5t12=0
+|party13=Fertile Earth Movement|votes13=619766|st1t13=0|st2t13=0|st3t13=0|st4t13=0|st5t13=New
+|party14=National Agreement|votes14=482598|st1t14=0|st2t14=0|st3t14=0|st4t14=0|st5t14=0
+|party15=Social Integration and Transformation|votes15=288698|st1t15=0|st2t15=0|st3t15=0|st4t15=0|st5t15=0
+|party16=Thousandfold Victory|votes16=283124|st1t16=0|st2t16=0|st3t16=0|st4t16=0|st5t16=0
+|party17=Independent Just and Solidary Movement|votes17=256805|st1t17=0|st2t17=0|st3t17=0|st4t17=0|st5t17=0
+|party18=National Movement for Social Reconciliation|votes18=198630|st1t18=0|st2t18=0|st3t18=0|st4t18=0|st5t18=0
+|party19=Independents and regionalists|votes19=|st1t19=0|st2t19=8|st3t19=0|st4t19=8|st5t19=7
+|invalid=
+|total_st5t=–6
+|source=[https://app03.cne.gob.ec/EstadisticaCNE/Ambito/Resultados/Resultado_Electoral.aspx CNE]
+}}
+
+=== Andean Parliament ===
+{{Election results
+|party1=[[PAIS Alliance]]|votes1=11897690|seats1=3
+|party2=[[Patriotic Society Party|January 21 Patriotic Society Party]]|votes2=3564315|seats2=1
+|party3=[[Social Christian Party (Ecuador)|Social Christian party]]|votes3=3082565|seats3=1
+|party4=[[Municipalist Movement for National Integrity]]|votes4=1625670|seats4=0
+|party5=[[Democratic People's Movement]]|votes5=1228310|seats5=0
+|party6=[[Institutional Renewal Party of National Action]]|votes6=908520|seats6=0
+|party7=[[Pachakutik Plurinational Unity Movement – New Country]]|votes7=817100|seats7=0
+|party8=[[Ecuadorian Roldosist Party]]|votes8=731895|seats8=0
+|party9=[[Democratic Left (Ecuador)|Democratic Left]]|votes9=701445|seats9=0
+|party10=[[Ethics and Democracy Network]]|votes10=353565|seats10=0
+|party11=[[A New Option]]|votes11=268880|seats11=0
+|party12=[[Christian Democratic Union (Ecuador)|Christian Democratic Union]]|votes12=246710|seats12=0
+|party13=[[Socialist Party – Broad Front of Ecuador]]|votes13=212355|seats13=0
+|party14=National Agreement|votes14=134895|seats14=0
+|party15=[[Coalition Movement|National Democratic Coalition]]|votes15=125410|seats15=0
+|party16=Ecuadorian White Movement for the Vindication of the Poor|votes16=98255|seats16=0
+|party17=Fertile Earth Movement|votes17=88855|seats17=0
+|party18=Social Integration and Transformation|votes18=83780|seats18=0
+|party19=Thousandfold Victory|votes19=69305|seats19=0
+|party20=National Movement for Social Reconciliation|votes20=58130|seats20=0
+|party21=Independent Just and Solidary Movement|votes21=51915|seats21=0
+|party22=MCN|votes22=47060|seats22=0
+|party23=Movement for National Honesty|votes23=41565|seats23=0
+|source=[https://app03.cne.gob.ec/EstadisticaCNE/Ambito/Resultados/Resultado_Electoral.aspx CNE]
+}}
+
+== References ==
+{{reflist}}
+
+{{Ecuadorian elections}}
+
+[[Category:2009 elections in South America]]
+[[Category:2009 in Ecuador|General election]]
+[[Category:Presidential elections in Ecuador]]
+[[Category:Parliamentary elections in Ecuador]]
+[[Category:Election and referendum articles with incomplete results]]

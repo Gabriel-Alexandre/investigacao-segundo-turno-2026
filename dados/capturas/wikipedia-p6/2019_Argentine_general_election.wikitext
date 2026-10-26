@@ -1,0 +1,1913 @@
+{{Short description|none}}
+{{Infobox election
+| country = Argentina
+| election_date = 27 October 2019<ref name="calendario">{{cite news|url=https://www.lanacion.com.ar/politica/cronograma-electoral-2019-cuando-seran-paso-generales-nid2184080|title=Calendario electoral 2019: las fechas del cronograma, provincia por provincia|work=[[La Nación]]|access-date=24 June 2019|language=es}}</ref>
+| opinion_polls = Opinion polling for the 2019 Argentine general election
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| previous_election  = 2015 Argentine general election | previous_year = 2015
+| next_election = 2023 Argentine general election | next_year = 2023
+| registered = 34,231,895
+| turnout = 80.41%
+| image_size = 130x130px
+
+| image1 = Alberto Fernandez 2020.jpg 
+| nominee1 = '''[[Alberto Fernández]]''' 
+| running_mate1 = '''[[Cristina Fernández de Kirchner]]'''
+| party1 = Justicialist Party 
+| alliance1 = Frente de Todos 
+| states_carried1 = '''18'''
+| popular_vote1 = '''12,946,037'''
+| percentage1 = '''48.24%'''
+
+| image2 = Mauricio Macri 2016.jpg 
+| nominee2 = [[Mauricio Macri]] 
+| running_mate2 = [[Miguel Ángel Pichetto]]
+| party2 = Republican Proposal 
+| alliance2 = Juntos por el Cambio 
+| states_carried2 = 5 + [[Buenos Aires|CABA]]
+| popular_vote2 = 10,811,586
+| percentage2 = 40.28%
+
+| image3 = Roberto Lavagna (cropped).png 
+| nominee3 = [[Roberto Lavagna]] 
+| running_mate3 = [[Juan Manuel Urtubey]]
+| party3 = Independent politician 
+| alliance3 = Federal Consensus
+| states_carried3 = 0
+| popular_vote3 = 1,649,322
+| percentage3 = 6.15%
+
+| title = President
+| before_election = [[Mauricio Macri]] | before_party = [[Juntos por el Cambio|JxC]]–[[Republican Proposal|PRO]]
+| after_election = [[Alberto Fernández]] | after_party = [[Frente de Todos (2019 coalition)|FDT]]–[[Justicialist Party|PJ]]
+
+| module = {{Infobox legislative election  
+| embed = yes
+| election_name = Chamber of Deputies
+| previous_election  = [[2017 Argentine legislative election|2017]] | next_election = [[2021 Argentine legislative election|2021]]
+| seats_for_election = 130 of the 257 seats in the [[Argentine Chamber of Deputies|Chamber of Deputies]]
+| turnout = 80.37%
+| noleader = yes
+| first_election = yes
+
+| party1 = [[Frente de Todos]] | percentage1 = 45.26 | seats1 = 64
+| party2 = [[Juntos por el Cambio]] | percentage2 = 40.36 | seats2 = 56
+| party3 = [[Federal Consensus]] | percentage3 = 5.85 | seats3 = 3
+| party4 = [[We Do for Córdoba]] | percentage4 = 1.47 | seats4 = 1
+| party5 = Civic Front for Santiago | percentage5 = 1.27 | seats5 = 3
+| party6 = [[Front for the Renewal of Concord]] | percentage6 = 0.75 | seats6 = 1
+| party7 = [[Together We Are Río Negro]] | percentage7 = 0.47 | seats7 = 1
+| party8 = [[Let's All Live Better]] | percentage8 = 0.07| seats8 = 1 | color8 = #ff8c00
+
+| module = {{Infobox legislative election  
+| embed = yes
+| election_name = Senate
+| previous_election  = [[2017 Argentine legislative election|2017]] | next_election = [[2021 Argentine legislative election|2021]]
+| seats_for_election = 24 of the 72 seats in the [[Argentine Senate|Senate]]
+| turnout = 78.27%
+| noleader = yes
+| first_election = yes
+
+| party1 = [[Frente de Todos]] | percentage1 = 40.16 | seats1 = 13
+| party10 = [[Juntos por el Cambio]] | percentage10 = 39.22| seats10 = 8
+| party11 = Civic Front for Santiago | percentage11 = 5.83| seats11 = 2
+| party12 = [[Together We Are Río Negro]] | percentage12 = 2.72| seats12 = 1
+
+| map = {{Switcher
+|[[File:Elecciones Argentina 2019 esp.png|300px]]|Presidential results by province
+|[[File:2019 Argentine legislative election - Results.svg|300px]]|Congressional results by province
+}}}}}}}}}}{{Politics of Argentina}}
+
+General elections were held in [[Argentina]] on 27 October 2019, to elect the [[president of Argentina]], members of the national congress and the governors of most provinces.<ref>{{Cite web|url=https://www.reuters.tv/l/PZ0g/2019/10/27/polls-close-in-argentina-general-election|title=Reuters TV - Live|website=Reuters TV|access-date=Oct 29, 2019|archive-url=https://web.archive.org/web/20191028110200/https://www.reuters.tv/l/PZ0g/2019/10/27/polls-close-in-argentina-general-election|archive-date=October 28, 2019|url-status=dead}}</ref> 
+
+The Peronist, left-wing  [[Frente de Todos]] ticket of [[Alberto Fernández]], former Chief Cabinet, and [[Cristina Fernández de Kirchner]], National Senator and former president, defeated the center-right [[Juntos por el Cambio]] ticket of incumbent president [[Mauricio Macri]] and conservative [[Peronist]] National Senator [[Miguel Ángel Pichetto]], exceeding the threshold to win the presidency in a single round. Macri became the first incumbent president in Argentine history to be defeated in his reelection bid.
+
+==Electoral system==
+The election of the president was conducted under the [[Ballotage in Argentina|ballotage system]], a modified version of the [[two-round system]]. A candidate can win the presidency in a single round by either winning 45% of the vote, or if they win 40% of the vote while finishing 10 [[percentage points]] ahead of the second-place candidate. If no candidate meets either threshold, a runoff takes place between the top two candidates.<ref name="guide">{{cite web |url= https://www.theguardian.com/world/2015/oct/23/argentina-elections-2015-a-guide-to-the-parties-polls-and-electoral-system|title= Argentina elections 2015: a guide to the parties, polls and electoral system|author= David Hodari|date= 23 October 2015|work= The Guardian|access-date=3 November 2015}}</ref> Voting is compulsory for citizens between 18 and 70 years old.<ref name=IPU/> [[Suffrage]] was also extended to 16- and 17-year-olds, though without compulsory voting.<ref>[http://www.electoral.gov.ar/votaralos16.php Voto de los Jóvenes de 16 y 17 años0] {{Webarchive|url=https://web.archive.org/web/20170330013402/http://www.electoral.gov.ar/votaralos16.php |date=2017-03-30 }} Camara Nacional Electoral</ref>
+
+There are a total of 257 seats of the Chamber of Deputies. They are elected from 24 electoral districts–the 23 provinces, plus the federal district of Buenos Aires, which elects its own executive and legislature and is represented in the national Congress like all other provinces.<ref>{{Cite web|url=http://csis.org/files/media/csis/pubs/hf_v15_05.pdf|title=CSIS Hemisphere Focus|last=Regúnaga|first=Carlos|date=22 October 2007|website=The Argentine Elections: Systems and Candidates|access-date=22 April 2016|archive-date=1 May 2015|archive-url=https://web.archive.org/web/20150501031702/http://csis.org/files/media/csis/pubs/hf_v15_05.pdf|url-status=dead}}</ref> The number of seats are distributed in relation to the population of the province. One-third of the seats in the Chamber of Deputies are reserved for women. The 130 seats of the [[Chamber of Deputies (Argentina)|Chamber of Deputies]] up for election were elected from 24 multi-member constituencies based on the 23 [[Provinces of Argentina|provinces]] and [[Buenos Aires]]. Seats were allocated using the [[D'Hondt method]] of [[proportional representation]], with an [[electoral threshold]] of 3%.<ref name=IPU>[http://www.ipu.org/parline-e/reports/2011_B.htm Chamber of Deputies: Electoral system] {{webarchive |url=https://web.archive.org/web/20131031040409/http://www.ipu.org/parline-e/reports/2011_B.htm |date=31 October 2013 }} IPU</ref>
+
+The 24 seats in the [[Senate (Argentina)|Senate]] up for election were elected in three-seat constituencies using the [[closed list]] system. Each district is represented by three senatorial seats. Each party is allowed to register up to two candidates; one of those registered must be female. The party receiving the most votes wins two seats, and the second-placed party wins one.<ref name="IFES">[http://www.electionguide.org/elections/id/2472/ Argentine Republic: Election for Senado (Senate)] IFES</ref> The third senatorial seat was established in the [[1994 amendment of the Constitution of Argentina|Constitution of 1994]] in order to better represent the largest minority in each district.
+
+=== Congress ===
+{{multiple image
+| align             = center
+| image1            = Argentina elecciones 2019 - Diputados a renovar.png
+| width1            = 200
+| caption1          = Number of deputies at stake in each province.
+| image2            = Argentine senators 2019.png
+| width2            = 200
+| caption2          = Provinces that elected senators in blue.
+}}
+
+==== Chamber of Deputies ====
+
+The 257 members of the [[Argentine Chamber of Deputies|Chamber of Deputies]] are elected by proportional representation in 24 multi-member constituencies based on the [[Provinces of Argentina|provinces]] (plus the [[City of Buenos Aires]]). Seats are allocated using the [[d'Hondt method]] with a 3% electoral threshold. In this election, 130 of the 257 seats are up for renewal for a 4-year term.{{citation needed|date=October 2019}}
+
+{| class="wikitable sortable" style="text-align:right"
+! Province
+! Total<br>seats
+! Seats<br>at stake
+|-
+! [[Buenos Aires Province|Buenos Aires]]
+| 70
+| 35
+|-
+! [[Buenos Aires City]]
+| 25
+| 12
+|-
+! [[Catamarca Province|Catamarca]]
+| 5
+| 2
+|-
+! [[Chaco Province|Chaco]]
+| 7
+| 3
+|-
+! [[Chubut Province|Chubut]]
+| 5
+| 3
+|-
+! [[Córdoba Province, Argentina|Córdoba]]
+| 18
+| 9
+|-
+! [[Corrientes Province|Corrientes]]
+| 7
+| 4
+|-
+! [[Entre Ríos Province|Entre Ríos]]
+| 9
+| 4
+|-
+! [[Formosa Province|Formosa]]
+| 5
+| 3
+|-
+! [[Jujuy Province|Jujuy]]
+| 6
+| 3
+|-
+! [[La Pampa Province|La Pampa]]
+| 5
+| 2
+|-
+! [[La Rioja Province, Argentina|La Rioja]]
+| 5
+| 3
+|-
+! [[Mendoza Province|Mendoza]]
+| 10
+| 5
+|-
+! [[Misiones Province|Misiones]]
+| 7
+| 4
+|-
+! [[Neuquén Province|Neuquén]]
+| 5
+| 2
+|-
+! [[Río Negro Province|Río Negro]]
+| 5
+| 3
+|-
+! [[Salta Province|Salta]]
+| 7
+| 4
+|-
+! [[San Juan Province, Argentina|San Juan]]
+| 6
+| 3
+|-
+! [[San Luis Province|San Luis]]
+| 5
+| 2
+|-
+! [[Santa Cruz Province, Argentina|Santa Cruz]]
+| 5
+| 2
+|-
+! [[Santa Fe Province|Santa Fe]]
+| 19
+| 10
+|-
+! [[Santiago del Estero Province|Santiago del Estero]]
+| 7
+| 4
+|-
+! [[Tierra del Fuego, Antártida e Islas del Atlántico Sur|Tierra del Fuego]]
+| 5
+| 3
+|-
+! [[Tucumán Province|Tucumán]]
+| 9
+| 5
+|-
+! Total
+! 257
+! 130
+|}
+
+==== Senate ====
+
+The 72 members of the [[Argentine Senate|Senate]] are elected in the same 24 constituencies, with three seats in each. The party receiving the most votes in each constituency wins two seats, with the third seat awarded to the second-placed party. The 2019 elections will see one-third of senators renewed, with eight provinces electing three senators for a 6-year term; [[Buenos Aires City]], [[Chaco Province|Chaco]], [[Entre Ríos Province|Entre Ríos]], [[Neuquén Province|Neuquén]], [[Río Negro Province|Río Negro]], [[Salta Province|Salta]], [[Santiago del Estero Province|Santiago del Estero]] and [[Tierra del Fuego Province, Argentina|Tierra del Fuego]].{{citation needed|date=October 2019}}
+
+==Candidates==
+The following candidates successfully registered their nominations before the limit date of 22 June 2019, and went on to compete in the [[Primary elections in Argentina|Open, Simultaneous and Mandatory Primaries]] (PASO) on 11 August 2019.<ref>{{cite news|url=https://www.lanacion.com.ar/politica/todas-listas-candidatos-presidente-gobernador-buenos-aires-nid2260288|title=Cierre de listas electorales: todos los candidatos para las elecciones 2019|work=[[La Nación]]|language=es|access-date=24 June 2019}}</ref><ref>{{cite web|url=https://www.infobae.com/fotos/2019/06/23/mira-las-boletas-de-los-principales-candidatos-en-argentina/|title=Mirá las boletas de los principales candidatos en Argentina|language=es|work=[[Infobae]]|date=23 June 2019|access-date=24 June 2019}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="3" style="width:20%;"| Presidential candidate<br>(political party)
+! colspan="2" style="width:20%;"| Vice-presidential candidate<br>(political party)
+! Coalition
+! style="width:30%;"| Coalition parties
+! style="width:30%;"| Presidential candidate prior political offices 
+|-
+| style="background-color:#08beef;" | 
+| style="background:lavender;" |'''[[Alberto Fernández]]'''<br>([[Justicialist Party|PJ]])
+|[[File:Alberto Fernandez 2020.jpg|100px]]
+|'''[[Cristina Fernández de Kirchner]]'''<br>([[Justicialist Party|PJ]])
+|[[File:Mensaje de fin de año de la Presidenta (cropped).jpg|100px]]
+|[[File:Frente de Todos logo.svg|175px|link=Frente de Todos (2019 coalition)]]
+|{{col-begin}}
+{{col-2}}
+* [[Justicialist Party]]
+* [[Intransigent Party]]
+* [[Renewal Front]]
+* [[Communist Party (Argentina)|Communist Party]]
+* [[Communist Party of Argentina (Extraordinary Congress)|Communist Party (Extraordinary Congress)]]
+* [[Humanist Party (Argentina)|Humanist Party]]
+* [[Broad Front (Argentina)|Broad Front Party]]
+* [[Victory Party (Argentina)|Victory Party]]
+* [[Solidary Party]]
+* [[Kolina]]
+{{col-2}}
+* [[New Encounter]]
+* [[Federal Commitment]]
+* [[FORJA Concertation Party|Concertation Party]]
+* [[Proyecto Sur]]
+* [[National Alfonsinist Movement]]
+* [[Revolutionary Communist Party of Argentina|Revolutionary Communist Party]]
+* [[Popular Unity (Argentina)|Popular Unity]]
+* We Are
+* Green Party
+{{col-end}}
+|[[Chief of the Cabinet of Ministers]] {{small|(2003–2008)}}
+|-
+| style="background-color:{{party color|Cambiemos}};" | 
+| style="background:lavender;" |'''[[Mauricio Macri]]'''<br>([[Republican Proposal|PRO]])
+|[[File:Mauricio Macri 2016.jpg|100px]]
+|'''[[Miguel Ángel Pichetto]]'''<br>([[Justicialist Party|PJ]])
+|[[File:M. Pichetto.jpg|100px]]
+|[[File:Juntos por el Cambio.png|170px|link=Juntos por el cambio]]
+|{{col-begin}}
+{{col-2}}
+* [[Republican Proposal]]
+* [[Radical Civic Union]]
+* [[Civic Coalition ARI|Civic Coalition]]
+* [[Democratic Progressive Party (Argentina)|Democratic Progressive Party]]
+{{col-2}}
+* Faith Party
+* [[Dialogue Party]]
+* [[Integration and Development Movement]]
+* [[Popular Union (Argentina)|Popular Union]]
+* [[UNIR Constitutional Nationalist Party|Constitutional Nationalist Party]]
+{{col-end}}
+|[[President of Argentina]] {{small|(since 2015)}}<br>[[Chief of Government of Buenos Aires]] {{small|(2007–2015)}}
+|-
+| style="background-color:#283084;" | 
+| style="background:lavender;" |'''[[Roberto Lavagna]]'''<br>([[Independent politician|Independent]])
+|[[File:Roberto Lavagna (cropped).png|100px]]
+|'''[[Juan Manuel Urtubey]]'''<br>([[Justicialist Party|PJ]])
+|[[File:Urtubey en Quinta de Olivos (cropped).jpg|100px]]
+|[[File:Consenso Federal.png|170px|link=Federal Consensus]]
+|{{col-begin}}
+{{col-2}}
+* [[Generation for a National Encounter]]
+* [[Freemen of the South Movement]]
+* [[Federal Party (Argentina)|Federal Party]]
+* [[Socialist Party (Argentina)|Socialist Party]]
+{{col-2}}
+* [[Christian Democratic Party (Argentina)|Christian Democratic Party]]
+* [[Third Position Party]]
+* [[Light Blue and White Union]]
+{{col-end}}
+|[[Ministry of the Treasury (Argentina)|Minister of Economy and Production]] {{small|(2003–2005)}}
+|-
+| style="background-color:{{party color|Workers' Left Front}};" | 
+| style="background:lavender;" |'''[[Nicolás del Caño]]'''<br>([[Socialist Workers' Party (Argentina)|PTS]])
+|[[File:Nicolás del Caño.png|100px]]
+|'''[[Romina Del Plá]]'''<br>([[Workers' Party (Argentina)|PO]])
+|[[File:Romina del Plá.png|100px]]
+|[[File:Logo Frente de Izquierda y de Trabajadores-Unidad.svg|170px|link=Workers' Left Front]]
+|{{col-begin}}
+{{col-2}}
+* [[Socialist Workers' Party (Argentina)|Socialist Workers' Party]]
+* [[Workers' Party (Argentina)|Workers' Party]]
+* [[Socialist Left (Argentina)|Socialist Left]]
+* [[Workers' Socialist Movement (Argentina)|Workers' Socialist Movement]]
+{{col-2}}
+* Unified Socialist Workers' Party
+* People's Power
+{{col-end}}
+|[[Argentine Chamber of Deputies|National Deputy]] from [[Buenos Aires Province|Buenos Aires]] {{small|(since 2017)}}
+|-
+| style="background-color:#58ACFA;" | 
+| style="background:lavender;" |'''[[José Luis Espert]]'''<br>([[Libertarian Party (Argentina)|PL]])
+|[[File:Jose Luis Espert en TN.png|100px]]
+|'''Luis Rosales'''<br>([[:es:Partido Libertario (Argentina)|PL]])
+|[[File:Luis_Rosales.png|100px]]
+|[[File:Despertar.webp|170px|link=Avanza Libertad]]
+|
+* [[Union of the Democratic Centre (Argentina)|Union of the Democratic Centre]]
+* [[Libertarian Party (Argentina)|Libertarian Party]]
+|None (economist and professor)
+|-
+| style="background-color:#936d0f;" | 
+| style="background:lavender;" |'''Alejandro Biondini'''<br>(BV)
+|[[File:Biondini.png|100px]]
+|'''Enrique Venturino'''<br>(BV)
+|
+| 
+|{{col-begin}}
+{{col-2}}
+* People's Countryside Party
+* People's Party
+* Neighborhood Flag
+{{col-2}}
+* People In Action
+* [[Popular Dignity]]
+* Labour Party
+* The Movement
+{{col-end}}
+|None (founder and president of Bandera Vecinal)
+|-
+| style="background-color:#E50303;" | 
+| style="background:lavender;" |'''[[Manuela Castañeira]]'''<br>([[:es:Nuevo Movimiento al Socialismo|Nuevo MAS]])
+|[[File:Manuela Castañeira (cropped).jpg|100px]]
+|'''Eduardo Mulhall'''<br>([[:es:Nuevo Movimiento al Socialismo|Nuevo MAS]])
+|
+|colspan=2|[[File:Nuevo_mas_logo.svg|200px|link=es:Nuevo Movimiento al Socialismo]]
+|None (sociologist)
+|-
+| style="background-color:#003C92;" | 
+
+| style="background:lavender;" |'''Juan José Gómez Centurión'''<br>(NOS)
+|[[File:Juan José Gómez Centurión (cropped).jpg|100px]]
+|'''[[Cynthia Hotton]]'''<br>(Valores para mi País)
+|[[File:Cynthia Hotton.jpg|100px]]
+|colspan=2|[[File:Logo NOS Argentina.svg|170px|link=NOS Front]]
+|Vice-president of the [[Banco de la Nación Argentina|Bank of the Argentine Nation]] {{small|(2017–2019)}}
+|-
+| style="background-color:#48D1CC;" | 
+| style="background:lavender;" |'''José Antonio Romero Feris'''<br>([[National Autonomist Party (2018)|PAN]])
+|[[File:José Antonio Romero Feris.png|100px]]
+|'''Guillermo Sueldo'''<br>([[National Autonomist Party (2018)|PAN]])
+|
+|colspan=2|[[File:Partido Autonomista Nacional 2019.png|100px|link=National Autonomist Party (2018)]]
+|[[Argentine Senate|National Senator]] for [[Corrientes Province|Corrientes]] {{small|(1987–2001)}}<br />Governor of [[Corrientes Province|Corrientes]] {{small|(1983–1987)}}
+|-
+| style="background-color:#187F36;" | 
+| style="background:lavender;" |'''Raúl Humberto Albarracín'''<br>([[Neighbourhood Action Movement]])
+|
+|'''Sergio Darío Pastore'''<br>([[Neighbourhood Action Movement]])
+|
+|colspan=2|
+|Provincial legislator of [[Córdoba Province, Argentina|Córdoba]] {{small|(2007–2011)}}
+|-
+|}
+
+== Opinion polls ==
+{{main|Opinion polling for the 2019 Argentine general election}}
+
+==Results ==
+===Primary elections===
+{{See also|Primary elections in Argentina}}
+Open primary elections for the presidency were held nationwide on 11 August. With this system, all parties run primary elections on a single ballot. All parties must take part in it, both the parties with internal factions and parties with a single candidate list. Citizens may vote for any candidate of any party, but may only cast a single vote. The most voted candidate of parties gaining 1.5% or higher of the valid votes advances to the general election.<ref>{{cite web|url=https://www.infobae.com/politica/2019/04/09/que-son-las-paso/|work=[[Infobae]]|title=Qué son las PASO|date=9 April 2019|access-date=29 December 2020|language=es}}</ref>
+
+Fernández came top with 47.8% of the vote, with Macri trailing behind with 31.8%. Lavagna, del Caño, Gómez Centurión and Espert all received enough valid votes to participate in the general election.<ref>{{cite news|url=https://elpais.com/internacional/2019/08/12/argentina/1565561040_918945.html|work=[[El País]]|title=Victoria abrumadora del peronismo en las primarias argentinas|last=González|first=Enric|date=12 August 2019|access-date=29 December 2020|language=es}}</ref><ref>{{cite web|url=https://www.clarin.com/politica/paso-2019-resultados-pais_0_yUnJ0UKA4.html|work=[[Clarín (Argentine newspaper)|Clarín]]|title=PASO 2019: Los resultados de las elecciones en todo el país|date=12 August 2019|access-date=29 December 2020|language=es}}</ref>
+
+{{Election results
+|cand1=[[Alberto Fernández]]|vp1=[[Cristina Fernández de Kirchner]]|party1=[[Frente de Todos]]|votes1=12205938|rcolor1=#cfc
+|cand2=[[Mauricio Macri]]|vp2=[[Miguel Ángel Pichetto]]|party2=[[Juntos por el Cambio]]|votes2=8121689|rcolor2=#cfc
+|cand3=[[Roberto Lavagna]]|vp3=[[Juan Manuel Urtubey]]|party3=[[Federal Consensus]]|votes3=2081315|rcolor3=#cfc
+|cand4=[[Nicolás del Caño]]|vp4=[[Romina Del Plá]]|party4=[[Workers' Left Front]]|votes4=723147|rcolor4=#cfc
+|cand5=[[Juan José Gómez Centurión]]|vp5=[[Cynthia Hotton]]|party5=[[NOS (political party)|NOS]]|votes5=670162|rcolor5=#cfc
+|cand6=[[José Luis Espert]]|vp6=Luis Rosales|party6=[[Unite por la Libertad y la Dignidad]]|votes6=550593|rcolor6=#cfc
+|cand7=[[Manuela Castañeira]]|vp7=Eduardo Mulhall|party7=[[Movimiento al Socialismo (Argentina)|Movimiento al Socialismo]]|votes7=179461
+|cand8=Alejandro Biondini|vp8=Enrique Venturino|party8=[[Patriot Front (Argentina)|Patriotic Front]]|votes8=58944
+|cand9=Raúl Albarracín|vp9=Sergio Pastore|party9=[[Neighbourhood Action Movement]]|votes9=36411
+|cand10=José Antonio Feris|vp10=Guillermo Sueldo|party10={{ill|Autonomist Party (Argentina)|es|Partido Autonomista (Argentina)|lt=Autonomist Party}}|votes10=32722
+|row11=Blank votes|votes11=882659
+|invalid=318009
+|electorate=33871832
+|source=Padron,<ref name="results"/> DINE<ref>{{Cite web |url=https://www.electoral.gob.ar/nuevo/paginas/pdf/AE_61_19.pdf |title=ACORDADA EXTRAORDINARIA NÚMERO SESENTA Y UNO |date=3 September 2019 |website=Cámara Nacional Electoral }}</ref>
+}}
+
+===President===
+[[File:Argentine Presidential election 2019 by Province.svg|300px|thumb|Most voted party by winner strength.]]
+Fernández owed his victory mostly to [[Buenos Aires Province]] swinging over dramatically to support him; he carried it by over 1.6 million votes over Macri, accounting for almost all of his nationwide margin of 2.1 million votes. By comparison, [[Daniel Scioli]] only carried the province by 219,000 votes in 2015.
+<onlyinclude>{{Election results
+|cand1=[[Alberto Fernández]]|vp1=[[Cristina Fernández de Kirchner]]|party1=[[Frente de Todos]]|votes1=12946037
+|cand2=[[Mauricio Macri]]|vp2=[[Miguel Ángel Pichetto]]|party2=[[Juntos por el Cambio]]|votes2=10811586
+|cand3=[[Roberto Lavagna]]|vp3=[[Juan Manuel Urtubey]]|party3=[[Federal Consensus]]|votes3=1649322
+|cand4=[[Nicolás del Caño]]|vp4=[[Romina Del Plá]]|party4=[[Workers' Left Front]]|votes4=579228
+|cand5=[[Juan José Gómez Centurión]]|vp5=[[Cynthia Hotton]]|party5=[[NOS (political party)|NOS]]|votes5=457956
+|cand6=[[José Luis Espert]]|vp6=Luis Rosales|party6=[[Unite por la Libertad y la Dignidad]]|votes6=394207
+|blank=434379
+|invalid=252388
+|electorate=34231895
+|source=Padron,<ref name="results">{{Cite web |title=Consulta de Escrutinios Definitivos |url=https://www.padron.gob.ar/publica/ |website=www.padron.gob.ar}}</ref> DINE<ref name="DINE">{{Cite web |url=https://www.argentina.gob.ar/interior/dine/resultados-y-estadisticas/elecciones-2019 |title=Dirección Nacional Electoral - Elecciones 2019 |website=www.argentina.gob.ar }}</ref>
+}}</onlyinclude>
+
+==== Results by district ====
+{| class="wikitable sortable" style="text-align: center; font-size: 95%;"
+! rowspan="2" |Province
+! colspan="2" |[[Alberto Fernández|Fernández]]/[[Cristina Fernández de Kirchner|Kirchner]]<br/>([[Frente de Todos (2019 coalition)|FdT]])
+! colspan="2" |[[Mauricio Macri|Macri]]/[[Miguel Ángel Pichetto|Pichetto]]<br/>([[Juntos por el Cambio|JxC]])
+! colspan="2" |[[Roberto Lavagna|Lavagna]]/[[Juan Manuel Urtubey|Urtubey]]<br/>([[Federal Consensus|CF]])
+! colspan="2" |[[Nicolás del Caño|Del Caño]]/[[Romina Del Plá|del Plá]]<br/>([[Workers' Left Front|FIT–U]])
+! colspan="2" |[[Juan José Gómez Centurión|G. Centurión]]/[[Cynthia Hotton|Hotton]]<br/>(NOS)
+! colspan="2" |[[José Luis Espert|Espert]]/Rosales<br/>(UNITE)
+! colspan="2" |Blanks/Invalid
+! colspan="2" |Turnout
+! colspan="2" |Margin
+|-
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+|- bgcolor=#B0CEFF
+|[[Buenos Aires Province|Buenos Aires]]
+|'''5,294,879'''
+|'''52.20'''
+|3,640,552
+|35.89
+|638,990
+|6.30
+|273,495
+|2.70
+|150,067
+|1.48
+|145,743
+|1.43
+|230,767
+|2.22
+|10,374,493
+|82.19
+|1,654,327
+|16.31
+|- bgcolor=gold
+|[[Buenos Aires City]]
+|719,655
+|35.46
+|'''1,068,134'''
+|'''52.64'''
+|130,475
+|6.43
+|59,066
+|2.91
+|13,863
+|0.68
+|38,013
+|1.87
+|46,228
+|2.23
+|2,075,434
+|76.85
+| -348,479
+| -17.18
+|- bgcolor=#B0CEFF
+|[[Catamarca Province|Catamarca]]
+|'''132,590'''
+|'''56.66'''
+|79,568
+|34.00
+|13,197
+|5.64
+|3,508
+|1.50
+|2,136
+|0.91
+|3,011
+|1.29
+|24,941
+|9.63
+|258,951
+|81.04
+|53,022
+|22.66
+|- bgcolor=#B0CEFF
+|[[Chaco Province|Chaco]]
+|'''404,758'''
+|'''55.73'''
+|258,432
+|35.58
+|27,636
+|3.81
+|6,986
+|0.96
+|20,617
+|2.84
+|7,856
+|1.08
+|11,370
+|1.54
+|737,655
+|77.61
+|146,326
+|20.15
+|- bgcolor=#B0CEFF
+|[[Chubut Province|Chubut]]
+|'''174,726'''
+|'''52.42'''
+|97,837
+|29.35
+|25,357
+|7.61
+|13,117
+|3.94
+|14,253
+|4.28
+|8,029
+|2.40
+|14,289
+|4.11
+|347,608
+|77.78
+|76,889
+|23.07
+|- bgcolor=gold
+|[[Córdoba Province, Argentina|Córdoba]]
+|666,445
+|29.31
+|'''1,394,104'''
+|'''61.31'''
+|113,734
+|5.00
+|37,612
+|1.65
+|31,869
+|1.40
+|30,213
+|1.33
+|68,489
+|2.93
+|2,342,466
+|79.01
+| -727,659
+| -32.00
+|- bgcolor=#B0CEFF
+|[[Corrientes Province|Corrientes]]
+|'''354,968'''
+|'''51.19'''
+|290,690
+|41.92
+|21,658
+|3.12
+|6,522
+|0.94
+|12,515
+|1.80
+|7,044
+|1.02
+|13,427
+|1.90
+|706,824
+|80.75
+|64,278
+|9.27
+|- bgcolor=gold
+|[[Entre Ríos Province|Entre Ríos]]
+|390,587
+|44.37
+|'''391,495'''
+|'''44.47'''
+|55,030
+|6.25
+|14,504
+|1.65
+|14,647
+|1.66
+|14,111
+|1.60
+|14,576
+|1.63
+|894,950
+|80.59
+| -908
+| -0.10
+|- bgcolor=#B0CEFF
+|[[Formosa Province|Formosa]]
+|'''229,774'''
+|'''65.21'''
+|100,280
+|28.46
+|11,057
+|3.14
+|3,112
+|0.88
+|5,334
+|1.51
+|2,797
+|0.79
+|5,137
+|1.44
+|357,491
+|77.75
+|129,494
+|36.75
+|- bgcolor=#B0CEFF
+|[[Jujuy Province|Jujuy]]
+|'''207,120'''
+|'''46.19'''
+|186,104
+|41.50
+|26,835
+|5.98
+|9,214
+|2.05
+|10,512
+|2.34
+|8,617
+|1.92
+|8,714
+|1.91
+|457,116
+|81.79
+|21,016
+|4.69
+|- bgcolor=#B0CEFF
+|[[La Pampa Province|La Pampa]]
+|'''115,095'''
+|'''50.07'''
+|86,744
+|37.74
+|15,137
+|6.59
+|4,727
+|2.06
+|4,676
+|2.03
+|3,471
+|1.51
+|3,665
+|1.57
+|233,515
+|81.25
+|28,351
+|12.33
+|- bgcolor=#B0CEFF
+|[[La Rioja Province, Argentina|La Rioja]]
+|'''85,779'''
+|'''47.37'''
+|80,462
+|44.43
+|7,844
+|4.33
+|2,127
+|1.17
+|2,087
+|1.15
+|2,801
+|1.55
+|52,964
+|22.63
+|234,064
+|80.78
+|5,317
+|2.94
+|- bgcolor=gold
+|[[Mendoza Province|Mendoza]]
+|435,313
+|37.83
+|'''576,493'''
+|'''50.10'''
+|75,448
+|6.56
+|26,315
+|2.29
+|22,715
+|1.97
+|14,370
+|1.25
+|23,902
+|2.03
+|1,174,556
+|81.10
+| -141,180
+| -12.27
+|- bgcolor=#B0CEFF
+|[[Misiones Province|Misiones]]
+|'''417,752'''
+|'''57.71'''
+|245,254
+|33.88
+|24,451
+|3.38
+|6,704
+|0.93
+|21,239
+|2.93
+|8,537
+|1.18
+|18,551
+|2.50
+|742,488
+|79.90
+|172,498
+|23.83
+|- bgcolor=#B0CEFF
+|[[Neuquén Province|Neuquén]]
+|'''194,205'''
+|'''47.73'''
+|151,939
+|37.34
+|25,628
+|6.30
+|15,209
+|3.74
+|11,743
+|2.89
+|8,167
+|2.01
+|20,018
+|4.72
+|426,909
+|83.94
+|42,266
+|10.39
+|- bgcolor=#B0CEFF
+|[[Río Negro Province|Río Negro]]
+|'''247,664'''
+|'''57.23'''
+|123,674
+|28.58
+|27,483
+|6.35
+|11,252
+|2.60
+|14,173
+|3.28
+|8,482
+|1.96
+|19,431
+|4.30
+|452,159
+|80.35
+|123,990
+|28.65
+|- bgcolor=#B0CEFF
+|[[Salta Province|Salta]]
+|'''374,369'''
+|'''48.82'''
+|266,406
+|34.74
+|82,358
+|10.74
+|13,625
+|1.78
+|16,635
+|2.17
+|13,378
+|1.74
+|17,608
+|2.24
+|784,379
+|76.11
+|107,963
+|14.08
+|- bgcolor=#B0CEFF
+|[[San Juan Province, Argentina|San Juan]]
+|'''242,060'''
+|'''53.01'''
+|160,449
+|35.14
+|33,004
+|7.23
+|6,928
+|1.52
+|8,388
+|1.84
+|5,759
+|1.26
+|8,341
+|1.79
+|464,929
+|82.44
+|81,611
+|17.87
+|- bgcolor=gold
+|[[San Luis Province|San Luis]]
+|129,118
+|41.68
+|'''139,479'''
+|'''45.03'''
+|20,954
+|6.76
+|7,171
+|2.32
+|7,683
+|2.48
+|5,354
+|1.73
+|8,076
+|2.54
+|317,835
+|81.53
+| -10,361
+| -3.35
+|- bgcolor=#B0CEFF
+|[[Santa Cruz Province, Argentina|Santa Cruz]]
+|'''108,323'''
+|'''59.77'''
+|51,183
+|28.24
+|9,123
+|5.03
+|6,032
+|3.33
+|5,171
+|2.85
+|1,402
+|0.77
+|7,649
+|4.05
+|188,883
+|74.73
+|57,140
+|31.53
+|- bgcolor=gold
+|[[Santa Fe Province|Santa Fe]]
+|920,202
+|42.68
+|'''937,611'''
+|'''43.49'''
+|193,603
+|8.98
+|30,862
+|1.43
+|33,247
+|1.54
+|40,353
+|1.87
+|43,662
+|1.99
+|2,199,540
+|79.48
+| -17,409
+| -0.81
+|- bgcolor=#B0CEFF
+|[[Santiago del Estero Province|Santiago del Estero]]
+|'''451,082'''
+|'''74.95'''
+|110,525
+|18.37
+|20,103
+|3.34
+|5,755
+|0.96
+|9,220
+|1.53
+|5,123
+|0.85
+|9,924
+|1.62
+|611,732
+|80.45
+|340,557
+|56.58
+|- bgcolor=#B0CEFF
+|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+|'''57,887'''
+|'''56.93'''
+|26,529
+|26.09
+|7,785
+|7.66
+|2,760
+|2.71
+|3,925
+|3.86
+|2,803
+|2.76
+|3,208
+|3.06
+|104,897
+|75.88
+|31,358
+|30.84
+|- bgcolor=#B0CEFF
+|[[Tucumán Province|Tucumán]]
+|'''591,686'''
+|'''57.76'''
+|347,642
+|33.94
+|42,432
+|4.14
+|12,598
+|1.23
+|21,241
+|2.07
+|8,773
+|0.86
+|17,801
+|1.71
+|1,042,173
+|82.84
+|244,044
+|23.82
+|- class="sortbottom"
+|'''Total'''
+|'''12,946,037'''
+|'''48.24'''
+|10,811,586
+|40.28
+|1,649,322
+|6.14
+|579,228
+|2.16
+|457,956
+|1.71
+|394,207
+|1.47
+|686,767
+|2.52
+|27,525,103
+|80.41
+|2,134,501
+|7.96
+|}
+
+=== Chamber of Deputies ===
+{{Election results|seattype1=Won|seattype2=Total
+|alliance1=[[Frente de Todos]]|votes1=11606411|st1t1=64|st2t1=112
+|alliance2=[[Juntos por el Cambio]]|votes2=10347605|st1t2=56|st2t2=119
+|alliance3=[[Federal Consensus]]|aspan3=9|party3=[[Federal Consensus]]|votes3=1178627|st1t3=3|st2t3=5
+|party4=[[Socialist Party (Argentina)|Socialist Party]]|votes4=90719|st1t4=0|st2t4=2
+|party5=Union for Salta|votes5=83633|st1t5=0|st2t5=0
+|party6=[[Protector Political Force]]|votes6=74138|st1t6=0|st2t6=1
+|party7=[[Generation for a National Encounter]]|votes7=25246|st1t7=0|st2t7=0
+|party8=Social Pole Movement|votes8=22636|st1t8=0|st2t8=0
+|party9=[[Freemen of the South Movement]]|votes9=18585|st1t9=0|st2t9=0
+|party10=[[Renewal Front|Authentic Renewal Front]]|votes10=6858|st1t10=0|st2t10=0
+|atotal11=1500442|ast1t11=3|ast2t11=8
+|alliance12=[[Workers' Left Front]]|aspan12=4|party12=[[Workers' Left Front]]|votes12=742128|st1t12=0|st2t12=2
+|party13=[[Workers' Socialist Movement (Argentina)|Workers' Socialist Movement]]|votes13=19671|st1t13=0|st2t13=0
+|party14=[[Workers' Party (Argentina)|Workers' Party]]|votes14=3651|st1t14=0|st2t14=0
+|atotal15=765450|ast1t15=0|ast2t15=2
+|alliance16=[[We Do for Córdoba]]|votes16=377844|st1t16=1|st2t16=4
+|alliance17=[[Civic Front for Santiago]]|votes17=326566|st1t17=3|st2t17=6
+|alliance18=[[Front for the Renewal of Concord]]|votes18=191876|st1t18=1|st2t18=3
+|alliance19=[[Together We Are Río Negro]]|votes19=121478|st1t19=1|st2t19=1
+|alliance20=[[Unite por la Libertad y la Dignidad]]|votes20=113812|st1t20=0|st2t20=0
+|alliance21=[[NOS (political party)|NOS]]|aspan21=5|party21=[[Republican Force]]|votes21=55713|st1t21=0|st2t21=0
+|party22=[[Conservative People's Party (Argentina)|Conservative People's Party]]|votes22=22048|st1t22=0|st2t22=0
+|party23={{ill|Acción Chaqueña|es}}|votes23=21173|st1t23=0|st2t23=0
+|party24=Citizens to Govern Party|votes24=12976|st1t24=0|st2t24=0
+|atotal25=111910|ast1t25=0|ast2t25=0
+|alliance26=[[Neuquén People's Movement]]|votes26=78342|st1t26=0|st2t26=1
+|alliance27={{ill|Encuentro Vecinal Córdoba|es}}|votes27=44642|st1t27=0|st2t27=0
+|alliance28=[[Self-determination and Freedom]]|votes28=24685|st1t28=0|st2t28=0
+|alliance29=Let's All Live Better|votes29=17992|st1t29=1|st2t29=1|acolor29=#ff8c00
+|alliance30=Independent Party of Chubut|votes30=5172|st1t30=0|st2t30=0
+|alliance31=[[Patagonian Social Party]]|votes31=4727|st1t31=0|st2t31=0
+|alliance32={{ill|Partido Es Posible|es}}|votes32=2181|st1t32=0|st2t32=0
+|blank=1596110
+|invalid=274322
+|electorate=34231895
+|source=Padron,<ref name="results"/> DINE<ref name="DINE"/>
+}}
+
+==== Results by province ====
+{| class="wikitable sortable plainrowheaders" style="text-align:right;"
+! rowspan=2|Province
+! colspan=3|FdT
+! colspan=3|JxC
+! colspan=3|CF
+! colspan=3|Others
+|-
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+|-
+! scope=row|[[Buenos Aires Province|Buenos Aires]]
+| bgcolor=lightblue|'''5,113,359'''
+| bgcolor=lightblue|'''52.64'''
+| bgcolor=lightblue align=center|'''19'''
+| 3,668,580
+| 37.77
+| align=center|14
+| 583,699
+| 6.01
+| align=center|2
+| 348,501
+| 3.59
+| align=center|—
+|-
+! scope=row|[[Buenos Aires City]]
+| 641,054
+| 32.05
+| align=center|4
+| bgcolor=khaki|'''1,060,404'''
+| bgcolor=khaki|'''53.02'''
+| bgcolor=khaki align=center|'''8'''
+| 114,968
+| 5.75
+| align=center|—
+| 183,665
+| 9.18
+| align=center|—
+|-
+! scope=row|[[Catamarca Province|Catamarca]]
+| bgcolor=lightblue|'''133,327'''
+| bgcolor=lightblue|'''61.32'''
+| bgcolor=lightblue align=center|'''1'''
+| 73,578
+| 33.84
+| align=center|1
+| 10,516
+| 4.84
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[Chaco Province|Chaco]]
+| bgcolor=lightblue|'''397,472'''
+| bgcolor=lightblue|'''56.70'''
+| bgcolor=lightblue align=center|'''2'''
+| 255,528
+| 36.45
+| align=center|1
+| 26,778
+| 3.82
+| align=center|—
+| 21,173
+| 3.02
+| align=center|—
+|-
+! scope=row|[[Chubut Province|Chubut]]
+| bgcolor=lightblue|'''160,996'''
+| bgcolor=lightblue|'''53.45'''
+| bgcolor=lightblue align=center|'''2'''
+| 97,245
+| 32.29
+| align=center|1
+| 22,636
+| 7.52
+| align=center|—
+| 20,327
+| 6.75
+| align=center|—
+|-
+! scope=row|[[Córdoba Province, Argentina|Córdoba]]
+| 495,823
+| 22.31
+| align=center|2
+| bgcolor=khaki|'''1,140,338'''
+| bgcolor=khaki|'''51.32'''
+| bgcolor=khaki align=center|'''6'''
+| 79,098
+| 3.56
+| align=center|—
+| 506,732
+| 22.81
+| align=center|1
+|-
+! scope=row|[[Corrientes Province|Corrientes]]
+| bgcolor=lightblue|'''336,448'''
+| bgcolor=lightblue|'''50.98'''
+| bgcolor=lightblue align=center|'''2'''
+| 290,463
+| 44.01
+| align=center|2
+| 20,120
+| 3.05
+| align=center|—
+| 12,976
+| 1.97
+| align=center|—
+|-
+! scope=row|[[Entre Ríos Province|Entre Ríos]]
+| 380,614
+| 45.20
+| align=center|2
+| bgcolor=khaki|'''384,968'''
+| bgcolor=khaki|'''45.72'''
+| bgcolor=khaki align=center|'''2'''
+| 56,786
+| 6.74
+| align=center|—
+| 19,671
+| 2.34
+| align=center|—
+|-
+! scope=row|[[Formosa Province|Formosa]]
+| bgcolor=lightblue|'''225,608'''
+| bgcolor=lightblue|'''67.01'''
+| bgcolor=lightblue align=center|'''2'''
+| 99,305
+| 29.49
+| align=center|1
+| 11,780
+| 3.50
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[Jujuy Province|Jujuy]]
+| bgcolor=lightblue|'''189,305'''
+| bgcolor=lightblue|'''45.40'''
+| bgcolor=lightblue align=center|'''2'''
+| 180,877
+| 43.38
+| align=center|1
+| 29,030
+| 6.96
+| align=center|—
+| 17,721
+| 4.25
+| align=center|—
+|-
+! scope=row|[[La Pampa Province|La Pampa]]
+| bgcolor=lightblue|'''114,079'''
+| bgcolor=lightblue|'''51.63'''
+| bgcolor=lightblue align=center|'''1'''
+| 87,049
+| 39.40
+| align=center|1
+| 14,627
+| 6.62
+| align=center|—
+| 5,197
+| 2.35
+| align=center|—
+|-
+! scope=row|[[La Rioja Province, Argentina|La Rioja]]
+| bgcolor=lightblue|'''70,564'''
+| bgcolor=lightblue|'''52.18'''
+| bgcolor=lightblue align=center|'''2'''
+| 60,498
+| 44.73
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| 4,179
+| 3.09
+| align=center|—
+|-
+! scope=row|[[Mendoza Province|Mendoza]]
+| 423,002
+| 37.99
+| align=center|2
+| bgcolor=khaki|'''583,897'''
+| bgcolor=khaki|'''52.44'''
+| bgcolor=khaki align=center|'''3'''
+| 74,138
+| 6.66
+| align=center|—
+| 32,343
+| 2.90
+| align=center|—
+|-
+! scope=row|[[Misiones Province|Misiones]]
+| bgcolor=lightblue|'''234,404'''
+| bgcolor=lightblue|'''34.94'''
+| bgcolor=lightblue align=center|'''2'''
+| 225,232
+| 33.58
+| align=center|1
+| 19,306
+| 2.88
+| align=center|—
+| 191,876
+| 28.60
+| align=center|1
+|-
+! scope=row|[[Neuquén Province|Neuquén]]
+| bgcolor=lightblue|'''137,285'''
+| bgcolor=lightblue|'''36.39'''
+| bgcolor=lightblue align=center|'''1'''
+| 123,386
+| 32.70
+| align=center|1
+| 17,602
+| 4.67
+| align=center|—
+| 99,025
+| 26.25
+| align=center|—
+|-
+! scope=row|[[Río Negro Province|Río Negro]]
+| bgcolor=lightblue|'''170,935'''
+| bgcolor=lightblue|'''45.10'''
+| bgcolor=lightblue align=center|'''2'''
+| 71,949
+| 18.98
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 136,107
+| 35.91
+| align=center|1
+|-
+! scope=row|[[Salta Province|Salta]]
+| bgcolor=lightblue|'''328,966'''
+| bgcolor=lightblue|'''46.68'''
+| bgcolor=lightblue align=center|'''2'''
+| 244,225
+| 34.65
+| align=center|2
+| 83,633
+| 11.87
+| align=center|—
+| 47,920
+| 6.80
+| align=center|—
+|-
+! scope=row|[[San Juan Province, Argentina|San Juan]]
+| bgcolor=lightblue|'''239,426'''
+| bgcolor=lightblue|'''54.79'''
+| bgcolor=lightblue align=center|'''2'''
+| 167,672
+| 38.37
+| align=center|1
+| 29,867
+| 6.84
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[San Luis Province|San Luis]]
+| 126,592
+| 43.87
+| align=center|1
+| bgcolor=khaki|'''134,668'''
+| bgcolor=khaki|'''46.67'''
+| bgcolor=khaki align=center|'''1'''
+| 18,622
+| 6.45
+| align=center|—
+| 8,701
+| 3.02
+| align=center|—
+|-
+! scope=row|[[Santa Cruz Province, Argentina|Santa Cruz]]
+| bgcolor=lightblue|'''96,658'''
+| bgcolor=lightblue|'''62.13'''
+| bgcolor=lightblue align=center|'''2'''
+| 45,586
+| 29.30
+| align=center|—
+| 6,858
+| 4.41
+| align=center|—
+| 6,474
+| 4.16
+| align=center|—
+|-
+! scope=row|[[Santa Fe Province|Santa Fe]]
+| 890,561
+| 42.26
+| align=center|4
+| bgcolor=khaki|'''912,407'''
+| bgcolor=khaki|'''43.30'''
+| bgcolor=khaki align=center|'''5'''
+| 210,773
+| 10.00
+| align=center|1
+| 93,358
+| 4.43
+| align=center|—
+|-
+! scope=row|[[Santiago del Estero Province|Santiago del Estero]]
+| 125,609
+| 21.88
+| align=center|1
+| 103,411
+| 18.01
+| align=center|—
+| 18,585
+| 3.24
+| align=center|—
+| bgcolor=Plum|'''326,566'''
+| bgcolor=Plum|'''56.88'''
+| bgcolor=Plum align=center|'''3'''
+|-
+! scope=row|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+| bgcolor=lightblue|'''33,878'''
+| bgcolor=lightblue|'''38.67'''
+| bgcolor=lightblue align=center|'''1'''
+| 20,747
+| 23.68
+| align=center|1
+| 6,624
+| 7.56
+| align=center|—
+| 26,370
+| 30.10
+| align=center|1
+|-
+! scope=row|[[Tucumán Province|Tucumán]]
+| bgcolor=lightblue|'''540,446'''
+| bgcolor=lightblue|'''55.25'''
+| bgcolor=lightblue align=center|'''3'''
+| 315,592
+| 32.26
+| align=center|2
+| 44,396
+| 4.54
+| align=center|—
+| 77,795
+| 7.95
+| align=center|—
+|-
+! Total
+! 11,606,411
+! 45.26
+! 64
+! 10,347,605
+! 40.36
+! 56
+! 1,500,442
+! 5.85
+! 3
+! 2,186,677
+! 8.53
+! 7
+|}
+
+===Senate===
+{{Election results|seattype1=Won|seattype2=Total
+|alliance1=[[Frente de Todos]]|votes1=2263221|st1t1=13|st2t1=39
+|alliance2=[[Juntos por el Cambio]]|votes2=2210310|st1t2=8|st2t2=28
+|alliance3=[[Federal Consensus]]|aspan3=6|party3=[[Federal Consensus]]|votes3=159271|st1t3=0|st2t3=0
+|party4=Union for Salta|votes4=85601|st1t4=0|st2t4=0
+|party5=[[Socialist Party (Argentina)|Socialist Party]]|votes5=56606|st1t5=0|st2t5=0
+|party6=[[Freemen of the South Movement]]|votes6=18344|st1t6=0|st2t6=0
+|party7=[[Generation for a National Encounter]]|votes7=8144|st1t7=0|st2t7=0
+|atotal8=327966|ast1t8=0|ast2t8=0
+|alliance9=[[Workers' Left Front]]|aspan9=4|party9=[[Workers' Left Front]]|votes9=140792|st1t9=0|st2t9=0
+|party10=[[Workers' Socialist Movement (Argentina)|Workers' Socialist Movement]]|votes10=18718|st1t10=0|st2t10=0
+|party11=[[Workers' Party (Argentina)|Workers' Party]]|votes11=2815|st1t11=0|st2t11=0
+|atotal12=162325|ast1t12=0|ast2t12=0
+|alliance13=[[Civic Front for Santiago]]|votes13=328627|st1t13=2|st2t13=2
+|alliance14=[[Together We Are Río Negro]]|votes14=153338|st1t14=1|st2t14=1
+|alliance15=[[Neuquén People's Movement]]|votes15=85617|st1t15=0|st2t15=0
+|alliance16=[[NOS (political party)|NOS]]|aspan16=3|party16=[[Conservative People's Party (Argentina)|Conservative People's Party]]|votes16=22305|st1t16=0|st2t16=0
+|party17={{ill|Acción Chaqueña|es}}|votes17=21191|st1t17=0|st2t17=0
+|atotal18=43496|ast1t18=0|ast2t18=0
+|alliance19=[[Unite por la Libertad y la Dignidad]]|votes19=38970|st1t19=0|st2t19=0
+|alliance20=Let's All Live Better|votes20=17210|st1t20=0|st2t20=0|acolor20=#ff8c00
+|alliance21=[[Patagonian Social Party]]|votes21=4826|st1t21=0|st2t21=0
+|alliance22=[[Federal Peronism]]|st1t22=0|st2t22=1
+|alliance23=[[Front for the Renewal of Concord]]|st1t23=0|st2t23=1
+|blank=383031
+|invalid=64463
+|electorate=7772500
+|source=Padron,<ref name="results"/> DINE<ref name="DINE"/>
+}}
+
+==== Results by province ====
+{| class="wikitable sortable plainrowheaders" style="text-align:right;"
+! rowspan=2|Province
+! colspan=3|FdT
+! colspan=3|JxC
+! colspan=3|CF
+! colspan=3|Others
+|-
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+|-
+! scope=row|[[Buenos Aires City]]
+| 679,569
+| 34.08
+| align=center|1
+| bgcolor=khaki|'''1,076,452'''
+| bgcolor=khaki|'''53.99'''
+| bgcolor=khaki align=center|'''2'''
+| 114,907
+| 5.76
+| align=center|—
+| 122,892
+| 6.16
+| align=center|—
+|-
+! scope=row|[[Chaco Province|Chaco]]
+| bgcolor=lightblue|'''400,188'''
+| bgcolor=lightblue|'''56.98'''
+| bgcolor=lightblue align=center|'''2'''
+| 254,215
+| 36.19
+| align=center|1
+| 26,766
+| 3.81
+| align=center|—
+| 21,191
+| 3.02
+| align=center|—
+|-
+! scope=row|[[Entre Ríos Province|Entre Ríos]]
+| 383,238
+| 45.47
+| align=center|1
+| bgcolor=khaki|'''384,300'''
+| bgcolor=khaki|'''45.59'''
+| bgcolor=khaki align=center|'''2'''
+| 56,606
+| 6.72
+| align=center|—
+| 18,718
+| 2.22
+| align=center|—
+|-
+! scope=row|[[Neuquén Province|Neuquén]]
+| bgcolor=lightblue|'''136,350'''
+| bgcolor=lightblue|'''35.66'''
+| bgcolor=lightblue align=center|'''2'''
+| 123,490
+| 32.30
+| align=center|1
+| 17,598
+| 4.60
+| align=center|—
+| 104,936
+| 27.44
+| align=center|—
+|-
+! scope=row|[[Río Negro Province|Río Negro]]
+| bgcolor=lightblue|'''169,726'''
+| bgcolor=lightblue|'''50.38'''
+| bgcolor=lightblue align=center|'''2'''
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 167,181
+| 49.62
+| align=center|1
+|-
+! scope=row|[[Salta Province|Salta]]
+| bgcolor=lightblue|'''330,324'''
+| bgcolor=lightblue|'''46.55'''
+| bgcolor=lightblue align=center|'''2'''
+| 247,699
+| 34.91
+| align=center|1
+| 85,601
+| 12.06
+| align=center|—
+| 46,013
+| 6.48
+| align=center|—
+|-
+! scope=row|[[Santiago del Estero Province|Santiago del Estero]]
+| 126,413
+| 21.91
+| align=center|1
+| 103,581
+| 17.95
+| align=center|—
+| 18,344
+| 3.18
+| align=center|—
+| bgcolor=Plum|'''328,627'''
+| bgcolor=Plum|'''56.96'''
+| bgcolor=Plum align=center|'''2'''
+|-
+! scope=row|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+| bgcolor=lightblue|'''37,413'''
+| bgcolor=lightblue|'''41.12'''
+| bgcolor=lightblue align=center|'''2'''
+| 20,573
+| 22.61
+| align=center|1
+| 8,144
+| 8.95
+| align=center|—
+| 24,851
+| 27.31
+| align=center|—
+|-
+! Total
+! 2,263,221
+! 40.16
+! 13
+! 2,210,310
+! 39.22
+! 8
+! 327,966
+! 5.82
+! 0
+! 834,409
+! 14.81
+! 3
+|}
+
+=== Provincial elections ===
+
+{| class="wikitable" style="text-align:center;"
+!Date
+!District
+!Offices
+!Winner
+!Runner-up
+|-
+|10 March
+|[[Neuquén Province|Neuquén]]
+|[[Governor of Neuquén Province|Governor]]
+Vice Governor
+
+35 provincial deputies
+|[[Omar Gutiérrez]] - Marcos Koopmann
+<small>(Neuquén People's Movement)</small>
+
+(40,19 %)
+|Ramón Rioseco - [[Darío Martínez]]
+<small>(Neuquin Front–Citizens' Unity)</small>
+
+(25,93 %)
+|-
+|7 April
+|[[Río Negro Province|Río Negro]]
+|[[Governor of Río Negro Province|Governor]]
+Vice Governor
+
+46 provincial deputies
+|[[Arabela Carreras]] - Alejandro Palmieri
+<small>(Together We Are Río Negro)</small>
+
+(52,63 %)
+|[[Martín Soria]] - [[Magdalena Odarda]]
+<small>(Front for Victory)</small>
+
+(34,97 %)
+|-
+|12 May
+|[[Córdoba Province, Argentina|Córdoba]]
+|[[Governor of Córdoba (Argentine province)|Governor]]
+Vice Governor
+
+70 provincial deputies
+|[[Juan Schiaretti]] - Manuel Calvo
+<small>(We Do for Córdoba)</small>
+
+(57,38 %)
+|[[Mario Negri]] - [[Héctor Baldassi]]
+<small>(Córdoba Changes)</small>
+
+(18,85 %)
+|-
+|19 May
+|[[La Pampa Province|La Pampa]]
+|[[Governor of La Pampa Province|Governor]]
+Vice Governor
+
+30 provincial deputies
+|[[Sergio Ziliotto]] - Mariano Fernández
+<small>(La Pampa Justicialist Front)</small>
+
+(52,68 %)
+|[[Daniel Kroneberger]] - Luis Evangelista
+<small>(Cambiemos La Pampa)</small>
+
+(31,80 %)
+|-
+| rowspan="2" |2 June
+|[[Misiones Province|Misiones]]
+|[[Governor of Misiones Province|Governor]]
+Vice Governor
+
+20 provincial deputies
+|[[Oscar Herrera Ahuad]] - Carlos Omar Arce
+<small>(Front for the Renewal of Concord)</small>
+
+(72,81 %)
+|[[Humberto Schiavoni]] - Luis Mario Pastori
+<small>(Together for Change)</small>
+
+(17,59 %)
+|-
+|[[San Juan Province, Argentina|San Juan]]
+|[[Governor of San Juan Province|Governor]]
+Vice Governor
+
+36 provincial deputies
+|[[Sergio Uñac]] - Roberto Gattoni
+<small>(Everyone Front)</small>
+
+(55,84 %)
+|[[Marcelo Orrego]] - Susana Laciar
+<small>(Front with You)</small>
+
+(33,91 %)
+|-
+| rowspan="4" |9 June
+|[[Chubut Province|Chubut]]
+|[[Governor of Chubut Province|Governor]]
+Vice Governor
+
+27 provincial deputies
+|[[Mariano Arcioni]] - Ricardo Sastre
+<small>(Chubut Ahead)</small>
+
+(41,35 %)
+|Carlos Linares - Claudia Bard
+<small>(Chubut Patriotic Front)</small>
+
+(33,97 %)
+|-
+|[[Entre Ríos Province|Entre Ríos]]
+|[[Governor of Entre Ríos Province|Governor]]
+Vice Governor
+
+34 provincial deputies
+
+17 provincial senators
+|[[Gustavo Bordet]] - [[María Laura Stratta]]
+<small>(Believe Entre Ríos)</small>
+
+(57,43 %)
+|[[Atilio Benedetti]] - [[Gustavo Hein]]
+<small>(Cambiemos)</small>
+
+(35,57 %)
+|-
+|[[Jujuy Province|Jujuy]]
+|[[Governor of Jujuy Province|Governor]]
+Vice Governor
+
+24 provincial deputies
+|[[Gerardo Morales (politician)|Gerardo Morales]] - Carlos Haquim
+<small>(Change Jujuy)</small>
+
+(43,76 %)
+|[[Julio Ferreyra]] - Adrián Mendieta
+<small>(Justicialist Front)</small>
+
+(32,77 %)
+|-
+|[[Tucumán Province|Tucumán]]
+|[[Governor of Tucumán Province|Governor]]
+Vice Governor
+
+49 provincial deputies
+|[[Juan Luis Manzur]] - Osvaldo Jaldo
+<small>(Justicialist Front for Tucumán)</small>
+
+(51,86 %)
+|[[Silvia Elías de Pérez]] - José Manuel Paz
+<small>(Let's Go Tucumán)</small>
+
+(20,41 %)
+|-
+| rowspan="4" |16 June
+|[[Formosa Province|Formosa]]
+|[[Governor of Formosa Province|Governor]]
+Vice Governor
+
+15 provincial deputies
+|[[Gildo Insfrán]] - Eber Wilson Solís
+<small>(Justicialist Party)</small>
+
+(70,66 %)
+|Adrián Bogado - Iván Nicolás Kaluk
+<small>(Formosan Broad Front)</small>
+
+(28,89 %)
+|-
+|[[San Luis Province|San Luis]]
+|[[Governor of San Luis Potosí|Governor]]
+Vice Governor
+
+21 provincial deputies
+
+5 provincial senators
+|[[Alberto Rodríguez Saá]] - Eduardo Mones Ruiz
+<small>(Justicialist Unity)</small>
+
+(42,34 %)
+|[[Claudio Poggi]] - Enrique Ariel Ponce
+<small>(United San Luis)</small>
+
+(34,54 %)
+|-
+|[[Santa Fe Province|Santa Fe]]
+|[[Governor of Santa Fe Province|Governor]]
+Vice Governor
+
+50 provincial deputies
+
+19 provincial senators
+|[[Omar Perotti]] - [[Alejandra Rodenas]]
+<small>(Together Front)</small>
+
+(42,31 %)
+|[[Antonio Bonfatti]] - María Victoria Tejeda
+<small>(Progressive, Civic and Social Front)</small>
+
+(37,91 %)
+|-
+|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+|[[Governor of Tierra del Fuego|Governor]]
+Vice Governor
+
+15 provincial deputies
+|[[Gustavo Melella]] - [[Mónica Urquiza]]
+<small>(FORJA)</small>
+
+(55,03 %)
+|[[Rosana Bertone]] - Juan Carlos Arcando
+<small>(Fueguin Unity)</small>
+
+(40,86 %)
+|-
+|11 August
+|[[Santa Cruz Province, Argentina|Santa Cruz]]
+|[[Governor of Santa Cruz Province|Governor]]
+Vice Governor
+
+24 provincial deputies
+|[[Alicia Kirchner]] - Eugenio Quiroga 
+<small>(Santacruzean Accord)</small>
+
+(58,59%)
+|Eduardo Costa - Liliana Andrade 
+<small>(To get out ahead)</small>
+
+(32,03%)
+|-
+|29 September
+|[[Mendoza Province|Mendoza]]
+|[[Governor of Mendoza Province|Governor]]
+Vice Governor
+
+24 provincial deputies
+
+19 provincial senators
+|[[Rodolfo Suárez]] - Mario Abed 
+<small>(Change Mendoza)</small>
+
+(51,63%)
+|[[Anabel Fernández Sagasti]] - Jorge Tanus 
+<small>(Choose Mendoza)</small>
+
+(36,21%)
+|-
+|13 October
+|[[Chaco Province|Chaco]]
+|[[Governor of Chaco Province|Governor]]
+Vice Governor
+
+16 provincial deputies
+|[[Jorge Capitanich]] - [[Analía Rach Quiroga]] 
+<small>(Chaqueño Front)</small>
+
+(49,32%)
+|Carim Peche - [[Roy Nikisch]] 
+<small>(We Are All Chaco)</small>
+
+(31,40%)
+|-
+| rowspan="4" |27 October
+|[[Buenos Aires Province|Buenos Aires]]<br /><small>[[2019 Buenos Aires provincial election|(in detail)]]</small>
+|[[Governor of the Buenos Aires Province|Governor]]
+Vice Governor
+
+46 provincial deputies
+
+23 provincial senators
+|[[Axel Kicillof]] - [[Verónica Magario]]
+<small>(Everyone's Front)</small>
+
+(52,28%)
+|[[María Eugenia Vidal]] - Daniel Salvador 
+<small>(Together for Change)</small>
+
+(38,39%)
+|-
+|[[Catamarca Province|Catamarca]]
+|[[Governor of Catamarca Province|Governor]]
+Vice Governor
+
+20 provincial deputies
+
+8 provincial senators
+|[[Raúl Jalil]] - Rubén Dusso 
+<small>(Everyone's Front)</small>
+
+(60,40%)
+|Roberto Gómez - Lía Quiroga 
+<small>(Together for Change)</small>
+
+(33,46%)
+|-
+|[[Buenos Aires|Buenos Aires City]]<br /><small>[[2019 Buenos Aires City elections|(in detail)]]</small>
+|[[List of mayors and chiefs of government of Buenos Aires|Chief of Government]]
+Vice Chief of Government
+
+30 legislators
+|[[Horacio Rodríguez Larreta]] - [[Diego Santilli]] 
+<small>(Together for Change)</small>
+
+(55,90%)
+|[[Matías Lammens]] - [[Gisela Marziotta]] 
+<small>(Everyone's Front)</small>
+
+(35,06%)
+|-
+|[[La Rioja Province, Argentina|La Rioja]]
+|[[Governor of La Rioja Province|Governor]]
+Vice Governor
+
+18 provincial deputies
+|[[Ricardo Quintela]] - [[Florencia López]]
+<small>(Everyone's Front)</small>
+
+(40,84%)
+|Julio Martínez - [[Teresita Luna]] 
+<small>(Together for La Rioja)</small>
+
+(27,90%)
+|-
+|10 November
+|[[Salta Province|Salta]]
+|[[Governor of Salta Province|Governor]]
+Vice Governor
+
+30 provincial deputies
+
+11 provincial senators
+|[[Gustavo Sáenz]] - Antonio Marocco 
+<small>(Sáenz Governor Front)</small>
+
+(53,85%)
+|[[Sergio Leavy]] - Emiliano Estrada 
+<small>(Everyone's Front)</small>
+
+(26,00%)
+|}
+
+==References==
+{{Reflist}}
+
+{{Argentine elections}}
+{{Mauricio Macri}}
+{{Alberto Fernández}}
+{{CFK}}
+
+[[Category:2019 elections in South America|Argentina]]
+[[Category:2019 elections in Argentina|General]]
+[[Category:October 2019 in Argentina|General]]
+[[Category:Legislative elections in Argentina]]
+[[Category:Alberto Fernández]]
+[[Category:Cristina Fernández de Kirchner]]
+[[Category:Presidency of Alberto Fernández]]
+[[Category:Presidency of Mauricio Macri]]
+[[Category:Presidential elections in Argentina]]

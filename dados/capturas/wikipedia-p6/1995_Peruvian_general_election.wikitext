@@ -1,0 +1,194 @@
+{{Short description|none}}
+{{Infobox election
+| country = Peru
+| flag_year = state
+| previous_election = 1990 Peruvian general election
+| previous_year = 1990
+| next_election = 2000 Peruvian general election
+| next_year = 2000
+| election_date = 9 April 1995
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| turnout = 73.85% ({{decrease}} 4.42pp)
+| image1 = File:Visit_of_Alberto_Fujimori,_President_of_Peru,_to_the_CEC_(cropped).jpg
+| nominee1 = {{nowrap|'''[[Alberto Fujimori]]'''}}
+| party1 = [[Cambio 90 – New Majority|C90–NM]]
+| running_mate1 = {{nowrap|'''[[Ricardo Márquez Flores|Ricardo Márquez]]'''}} <br/> '''[[César Paredes Canto|César Paredes]]'''
+| popular_vote1 = '''4,798,515'''
+| percentage1 = '''64.42%'''
+
+| image2 = Javier Pérez de Cuéllar (1982).jpg
+| nominee2 = {{nowrap|[[Javier Pérez de Cuéllar]]}}
+| party2 = Union for Peru
+| running_mate2 = {{nowrap|Hilda Fernández}} <br/>Guido Pennano
+| popular_vote2 = 1,624,566
+| percentage2 = 21.81%
+
+| map_image = [[File:MapaElectoralPeru1995Regional.png|150px]][[File:MapaElectoralPeru1995Provincial.png|150px]]
+| map_caption = Results by department (left) and province (right)
+| title = President
+| before_election = [[Alberto Fujimori]]
+| before_party = [[Cambio 90 – New Majority|C90–NM]]
+| after_election = [[Alberto Fujimori]]
+| after_party = [[Cambio 90 – New Majority|C90–NM]]
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Congressional election
+| seats_for_election = All 120 seats in the [[Congress of the Republic of Peru|Congress of Peru]]
+| majority_seats = 61
+
+| leader1 = [[Alberto Fujimori]]
+| party1 = [[Cambio 90 – New Majority|C90–NM]]
+| color1 = {{party color|Cambio 90}}
+| last_election1 = 44
+| seats1 = 67
+| percentage1 = 52.10
+
+| leader2 = [[Javier&nbsp;Pérez&nbsp;de&nbsp;Cuéllar]]
+| party2 = Union for Peru
+| last_election2 = New
+| seats2 = 17
+| percentage2 = 14.00
+
+| leader3 = [[Agustín Mantilla]]
+| party3 = American Popular Revolutionary Alliance
+| last_election3 = 0
+| seats3 = 8
+| percentage3 = 6.53
+
+| leader4 = [[Fernando Olivera (politician)|Fernando Olivera]]
+| party4 = [[Independent Moralizing Front|FIM]]
+| color4 = {{party color|Independent Moralizing Front}}
+| last_election4 = 7
+| seats4 = 6
+| percentage4 = 4.89
+
+| leader5 = [[Alejandro Toledo]]
+| party5 = [[Possible Peru|CODE-PC]]
+| color5 = {{party color|Possible Peru}}
+| last_election5 = New
+| seats5 = 5
+| percentage5 = 4.15
+
+| leader6 = [[Fernando Belaúnde]]
+| party6 = Popular Action (Peru)
+| last_election6 = 0
+| seats6 = 4
+| percentage6 = 3.34
+
+| leader7 = [[Luis Bedoya Reyes]]
+| party7 = [[Christian People's Party (Peru)|PPC]]
+| color7 = {{party color|Christian People's Party (Peru)}}
+| last_election7 = 8
+| seats7 = 3
+| percentage7 = 3.09
+
+| leader8 = [[Rafael Rey]]
+| party8 = [[National Renewal (Peru)|Renewal]]
+| color8 = {{party color|National Renewal (Peru)}}
+| last_election8 = 6
+| seats8 = 3
+| percentage8 = 2.98
+
+| leader9 = [[Ricardo Belmont]]
+| party9 = [[Independent Civic Movement OBRAS|OBRAS]]
+| last_election9 = New
+| seats9 = 2
+| percentage9 = 2.00
+
+| party10 = United Left (Peru)
+| leader10 = A. Haya de la Torre
+| last_election10 = 0
+| seats10 = 2
+| percentage10 = 1.88
+
+| party11 = Agricultural People's Front of Peru
+| leader11 = [[Ezequiel Ataucusi]]
+| last_election11 = 2
+| seats11 = 1
+| percentage11 = 1.08
+
+| party12 = [[National Front of Workers and Peasants|FRENATRACA]]
+| leader12 = Roger Cáceres
+| color12 = {{party color|National Front of Workers and Peasants}}
+| last_election12 = 3
+| seats12 = 1
+| percentage12 = 1.07
+
+| party13 = [[Independent Agrarian Movement|MIA]]
+| color13 = {{party color|Independent Agrarian Movement}}
+| leader13 = Rolando Salvatierra
+| last_election13 = New
+| seats13 = 1
+| percentage13 = 0.79
+
+}}}}
+}}{{Politics of Peru}}
+
+General elections were held in [[Peru]] on 9 April 1995,<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p454 {{ISBN|978-0-19-928358-3}}</ref> the first under the 1993 constitution. Incumbent President [[Alberto Fujimori]] was easily re-elected with 64.4% of the vote defeating former UN Secretary General [[Javier Pérez de Cuéllar]], whilst his [[Cambio 90]]-[[New Majority (Peru)|New Majority]] alliance won a majority of seats in the newly unicameral [[Congress of the Republic of Peru|Congress]].
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Alberto Fujimori]]|party1=[[Cambio 90 – New Majority]]|votes1=4798515
+|cand2=[[Javier Pérez de Cuéllar]]|party2=[[Union for Peru]]|votes2=1624566
+|cand3=[[Mercedes Cabanillas]]|party3=[[American Popular Revolutionary Alliance]]|votes3=306108
+|cand4=[[Alejandro Toledo]]|party4=[[Possible Peru|Possible Country]]|votes4=241598
+|cand5=[[Ricardo Belmont]]|party5=[[Independent Civic Movement OBRAS|National Civic Movement OBRAS]]|votes5=192261
+|cand6=[[Raúl Diez Canseco]]|party6=[[Popular Action (Peru)|Popular Action]]|votes6=122383
+|cand7=[[Ezequiel Ataucusi]]|party7=[[Agricultural People's Front of Peru]]|votes7=57556
+|cand8=Agustín Haya de la Torre|party8=[[United Left (Peru)|United Left]]|votes8=42686
+|cand9=Luis Cáceres Velásquez|party9=[[National Front of Workers and Peasants]]|votes9=25017
+|cand10=Sixtilio Dalmau|party10=New Peru Movement|votes10=9999
+|cand11=Víctor Echegaray|party11=Reformist Party of Peru|votes11=9105
+|cand12=Edmundo Inga|party12=Alternative Peru Puma|votes12=7006
+|cand13=Miguel Campos|party13=Peace and Development|votes13=6337
+|cand14=Carlos Cruz|party14=Independent Front of National Reconciliation|votes14=5249
+|invalid=1621258
+|electorate=12280538
+|source=[https://infogob.jne.gob.pe/Eleccion/FichaEleccion/elecciones-generales-1995-presidencial_candidatos-y-resultados_8MCLSVVX8ug=CV JNE]
+}}
+
+===Congress===
+{{Election results
+|image=[[File:Congreso Peru elecciones 1995.svg]]
+|party1=[[Cambio 90 – New Majority]]|votes1=2277423|seats1=67|sc1=+35
+|party2=[[Union for Peru]]|votes2=611804|seats2=17|sc2=New
+|party3=[[American Popular Revolutionary Alliance]]|votes3=285526|seats3=8|sc3=–45
+|party4=[[Independent Moralizing Front]]|votes4=213777|seats4=6|sc4=–1
+|party5=[[Possible Peru|Possible Country]]|votes5=181397|seats5=5|sc5=New
+|party6=[[Popular Action (Peru)|Popular Action]]|votes6=146018|seats6=4|sc6=–22
+|party7=[[Christian People's Party (Peru)|Christian People's Party]]|votes7=135236|seats7=3|sc7=–22
+|party8=[[National Renewal (Peru)|Renewal Movement]]|votes8=130060|seats8=3|sc8=New|color8=#0047AB
+|party9=[[Independent Civic Movement OBRAS|National Civic Movement OBRAS]]|votes9=87252|seats9=2|sc9=New
+|party10=[[United Left (Peru)|United Left]]|votes10=82061|seats10=2|sc10=–14
+|party11=[[Agricultural People's Front of Peru]]|votes11=46990|seats11=1|sc11=+1
+|party12=[[National Front of Workers and Peasants]]|votes12=46728|seats12=1|sc12=–2
+|party13=[[Independent Agrarian Movement]]|votes13=34463|seats13=1|sc13=New
+|party14=New Peru Movement|votes14=29557|seats14=0|sc14=New
+|party15=Reformist Party of Peru|votes15=13102|seats15=0|sc15=New
+|party16=Alternative Peru Puma|votes16=12391|seats16=0|sc16=New
+|party17=Apertura para el Desarrollo Nacional|votes17=10752|seats17=0|sc17=New
+|party18=Independent Front of National Reconciliation|votes18=10314|seats18=0|sc18=New
+|party19=Independent Inca Movement|votes19=9598|seats19=0|sc19=New
+|party20=Social Independent Movement|votes20=6588|seats20=0|sc20=New
+|invalid=3859209
+|total_sc=–60
+|electorate=12280538
+|source=[https://pdba.georgetown.edu/Elecdata/Peru/legparty95.html PDBA], [https://infogob.jne.gob.pe/Eleccion/FichaEleccion/elecciones-generales-1995-congresal_normativa_FRz6TwR6FVQ%3dzw JNE]
+}}
+
+==References==
+{{reflist}}
+
+{{Peruvian elections}}
+
+[[Category:Parliamentary elections in Peru]]
+[[Category:1995 elections in South America|Peru]]
+[[Category:1995 in Peru]]
+[[Category:Presidential elections in Peru]]
+
+{{Peru-election-stub}}

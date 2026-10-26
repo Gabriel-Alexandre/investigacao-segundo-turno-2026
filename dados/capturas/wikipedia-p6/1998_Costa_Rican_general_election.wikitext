@@ -1,0 +1,511 @@
+{{Short description|none}}
+{{Use dmy dates|date=January 2024}}
+{{Infobox election
+| country = Costa Rica
+| flag_year = state
+| type = presidential
+| previous_election = 1994 Costa Rican general election
+| previous_year = 1994
+| next_election = 2002 Costa Rican general election
+| next_year = 2002
+| election_date = 1 February 1998
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| registered = 2,045,980
+| turnout = 69.99% ({{decrease}} 11.12[[percentage point|pp]])
+
+| image1 = Miguel Ángel Rodríguez Echeverría.jpg
+| nominee1 = '''[[Miguel Ángel Rodríguez]]'''
+| running_mate1 = '''[[Astrid Fischel Volio|Astrid Fischel]]''' <br /> '''[[Elizabeth Odio Benito|Elizabeth Odio]]'''
+| party1 = Social Christian Unity Party
+| popular_vote1 = '''652,160'''
+| percentage1 = '''46.96%'''
+
+| image2 = José Miguel Corrales Bolaños D-141 A.jpg
+| nominee2 = [[José Miguel Corrales Bolaños|José Miguel Corrales]]
+| running_mate2 = {{nowrap|Rose Marie Karpinsky}} <br /> Joyce Zurcher 
+| party2 = National Liberation Party (Costa Rica)
+| popular_vote2 = 618,834
+| percentage2 = 44.56%
+
+| map_image = Elección Presidencial de Costa Rica (1998) (Distritos Administrativos).svg
+| map_caption = Results by district<br>'''Rodríguez''': {{legend0|#3E56BF|40–50%}} {{legend0|#354AA4|50–60%}} {{legend0|#2C3D89|60–70%}} {{legend0|#23316D|70–80%}}<br>'''Corrales''': {{legend0|#509577|40–50%}} {{legend0|#457F66|50–60%}} {{legend0|#396A55|60–70%}} {{legend0|#2E5544|70-80%}}
+
+| title = [[President of Costa Rica|President]]
+| before_election = [[José María Figueres]]
+| before_party = National Liberation Party (Costa Rica)
+| after_election = [[Miguel Ángel Rodríguez]]
+| after_party = Social Christian Unity Party
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+
+| seats_for_election = All 57 seats in the [[Legislative Assembly of Costa Rica|Legislative Assembly]]
+| majority_seats = 29
+| turnout = 69.92% ({{decrease}} 11.17[[percentage point|pp]])
+
+| party1 = Social Christian Unity Party
+| leader1 = [[Miguel Ángel Rodríguez]]
+| percentage1 = 41.18
+| seats1 = 27
+| last_election1 = 25
+
+| party2 = National Liberation Party (Costa Rica)
+| leader2 = {{nowrap|[[José Miguel Corrales Bolaños]]}}
+| percentage2 = 34.83
+| seats2 = 23
+| last_election2 = 28
+
+| party3 = Democratic Force (Costa Rica)
+| leader3 = {{ill|Vladimir de la Cruz|es|Vladimir de la Cruz de Lemos}}
+| percentage3 = 5.77
+| seats3 = 3
+| last_election3 = 2
+
+| party4 = Libertarian Movement (Costa Rica)
+| leader4 = {{ill|Federico Malavassi Calvo|es}}
+| percentage4 = 3.08
+| seats4 = 1
+| last_election4 = New
+
+| party5 = National Integration Party (Costa Rica)
+| leader5 = {{ill|Walter Muñoz Céspedes|es}}
+| percentage5 = 2.78
+| seats5 = 1
+| last_election5 = New
+
+| party6 = Costa Rican Renovation Party
+| leader6 = [[Justo Orozco]]
+| percentage6 = 2.02
+| seats6 = 1
+| last_election6 = New
+
+| party7 = Agrarian Labour Action Party
+| color7 = brown
+| leader7 = Guido Octavio Vargas Artavia
+| percentage7 = 1.23
+| seats7 = 1
+| last_election7 = 0
+
+| map                = Elecciones legislativas de Costa Rica de 1998 - Diputados por Provincia.svg
+| map_caption        = Results by province
+}}}}}}{{Politics of Costa Rica}}
+
+General elections were held in [[Costa Rica]] on 1 February 1998.<ref name=DN>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p155 {{ISBN|978-0-19-928357-6}}</ref> [[Miguel Ángel Rodríguez]] of the [[Social Christian Unity Party]] won the presidential election, whilst his party also won the parliamentary election. Voter turnout was 70%, the lowest since the 1950s.<ref>Nohlen, pp156-157</ref>
+
+An economic recession, a teachers' strike due to a pensions' reform and some corruption scandals made [[President of Costa Rica|President]] [[José María Figueres]]' government highly unpopular. Thus, government endorsed candidate [[José Miguel Corrales]] tried to distance himself from Figueres as much as possible. Corrales won over former [[List of Presidents of the Legislative Assembly of Costa Rica|President of Congress]] Jorge Walter Coto Molina in PLN's primaries but the discovery of [[voter fraud]] damaged PLN's image and split the party.<ref>Fernández, Oscar ''Costa Rica. La reafirmación del bipartidismo'' Revista Nueva Sociedad No.131, PP. 4-10</ref> On the contrary in the PUSC, previous candidate [[Miguel Ángel Rodríguez]] was seen as the natural nominee for this election, and despite the fact that deputy [[Luis Fishman]] was rumored as a possible internal opponent, he finally declined and Rodríguez was nominated without the need of primaries, thus keeping the party united. During Figueres' administration the so call Figueres-Calderón Pact was signed between the leaders of the two main parties (and sons of the two caudillos of the [[Costa Rican Civil War|1948 civil war]]); him and former president [[Rafael Ángel Calderón Fournier]] (Rodríguez political rival) to approve several mutually beneficial laws for both major parties, something that caused outrage among large segments of the population and started the downfall of the [[two-party system]].<ref>{{cite news |url= http://www.revistacienciassociales.ucr.ac.cr/el-discurso-del-pacto-figueres-calderon/ |title= Copia archivada |accessdate= 13 July 2013 |archiveurl= https://web.archive.org/web/20130705062600/http://www.revistacienciassociales.ucr.ac.cr/el-discurso-del-pacto-figueres-calderon/ |archivedate= 5 July 2013 }}</ref>
+
+==Results==
+{{Election results
+|cand1=[[Miguel Ángel Rodríguez]]|party1=[[Social Christian Unity Party]]|votes1=652160
+|cand2=[[José Miguel Corrales Bolaños]]|party2=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes2=618834
+|cand3={{ill|Vladimir de la Cruz|es|Vladimir de la Cruz de Lemos}}|party3=[[Democratic Force (Costa Rica)|Democratic Force]]|votes3=41710
+|cand4={{ill|Walter Muñoz Céspedes|es}}|party4=[[National Integration Party (Costa Rica)|National Integration Party]]|votes4=19934
+|cand5=Sherman Thomas Jackson|party5=[[Costa Rican Renewal Party]]|votes5=19313
+|cand6=Álvaro González Espinoza|party6=[[Democratic Party (Costa Rica)|Democratic Party]]|votes6=12952
+|cand7={{ill|Federico Malavassi Calvo|es}}|party7=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes7=5874
+|cand8={{ill|Jorge González Martén|es}}|party8=[[National Independent Party (Costa Rica)|National Independent Party]]|votes8=4218
+|cand9=Alejandro Madrigal Benavides|party9={{ill|Christian National Alliance Party|es|Alianza Nacional Cristiana}}|votes9=3545
+|cand10={{ill|Norma Vargas Duarte|es}}|party10=[[United People (Costa Rica)|United People]]|votes10=3075
+|cand11={{ill|Rodrigo Gutiérrez Schwanhauser|es|Rodrigo Alberto Gutiérrez Schwanhauser}}|party11={{ill|New Democratic Party (Costa Rica)|es|Nuevo Partido Democrático (Costa Rica)|lt=New Democratic Party}}|votes11=3025|color11=#77A842
+|cand12={{ill|Marina Volio Brenes|es}}|party12=[[National Rescue Party]]|votes12=2681
+|cand13=Yolanda Gutiérrez Ventura|party13={{ill|Independent Party (Costa Rica)|es|Partido Independiente (Costa Rica)|lt=Independent Party}}|votes13=1377
+|invalid=36318
+|blank=6897
+|electorate=2045980
+|source=[http://www.electionresources.org/cr/president.php?election=1998&province= Election Resources]
+}}
+
+=== By province ===
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| [[Provinces of Costa Rica|Province]]
+!width=60px| [[Miguel Ángel Rodríguez|Rodríguez]] %
+!width=60px| [[José Miguel Corrales Bolaños|Corrales]] %
+!width=80px| de la Cruz %
+!width=60px| Muñoz %
+!width=60px| Thomas %
+!width=60px| González %
+!width=60px| Malavassi %
+!width=60px| Other %
+|-
+!style="background:{{party color|Social Christian Unity Party}}"|
+!style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+!style="background:{{party color|Democratic Force (Costa Rica)}}"|
+!style="background:{{party color|National Integration Party (Costa Rica)}}"|
+!style="background:{{party color|Costa Rican Renovation Party}}"|
+!style="background:{{party color|Democratic Party (Costa Rica)}}"|
+!style="background:{{party color|Libertarian Movement (Costa Rica)}}"|
+!style="background:grey"|
+|-
+| align="left"| {{flag|San José}}
+| style="background:#7373dc; color:white;"| 42.94
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 46.72
+| 3.33
+| 2.16
+| 1.81
+| 1.15
+| 0.58
+| 1.31
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 46.86
+| style="background:#66B27B; color:white;"| 45.67
+| 3.13
+| 0.96
+| 1.21
+| 0.92
+| 0.30
+| 0.95
+|-
+| align="left"| {{flag|Cartago}}
+| style="background:#7373dc; color:white;"| 44.35
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 47.69
+| 3.16
+| 1.37
+| 0.81
+| 0.99
+| 0.29
+| 1.34
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:#7373dc; color:white;"| 43.39
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 46.35
+| 3.45
+| 1.63
+| 2.12
+| 1.41
+| 0.35
+| 1.30
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 55.63
+| style="background:#66B27B; color:white;"| 40.61
+| 1.76
+| 0.30
+| 0.58
+| 0.14
+| 0.15
+| 0.83
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 56.23
+| style="background:#66B27B; color:white;"| 38.57
+| 1.88
+| 0.47
+| 0.52
+| 0.26
+| 0.40
+| 1.67
+|-
+| align="left"| {{flag|Limón}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 59.58
+| style="background:#66B27B; color:white;"| 32.18
+| 2.62
+| 0.88
+| 1.51
+| 0.63
+| 0.54
+| 2.06
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 46.96
+| 44.56
+| 3.00
+| 1.44
+| 1.39
+| 0.93
+| 0.42
+| 1.30
+|}
+
+===Parliament===
+The country was for the time still under a heavy [[two-party system]] dynamic<ref name="Landsford">{{cite book|last1=Landsford|first1=Tom|title=Political Handbook of the World 2014|date=20 March 2014|publisher=SAGE Publications |isbn=9781483386263|url=https://books.google.com/books?id=iC_VBQAAQBAJ&q=costa+rica%27s+end+of+two+party+system&pg=PA333|accessdate=13 March 2016}}</ref><ref name="Landsford 2">{{cite book|last1=Landsford|first1=Tom|title=Political Handbook of the World 2012|date=2 April 2012|isbn=9781608719952|url=https://books.google.com/books?id=d33MfEFXvW8C&q=costa+rica%27s+end+of+two+party+system&pg=PA332|accessdate=13 March 2016}}</ref><ref>{{cite book|last1=Greenspana|first1=Eliot|last2=Gill|first2=Nicholas|last3=O'Malley|first3=Charlie|last4=Gilsenan|first4=Patrick|last5=Perill|first5=Jisel|work=Frommer's Central America|title=Elecciones legislativas de Costa Rica de 2002}}</ref> and the two main parties at the time; [[National Liberation Party (Costa Rica)|National Liberation Party]] and [[Social Christian Unity Party]] won most of the votes. Nevertheless, some third forces also won seats on the Parliament, among them [[left-wing]] [[Democratic Force (Costa Rica)|Democratic Force]] won two seats. It was also the first time that the [[Libertarian Movement (Costa Rica)|Libertarian Movement]] and [[Christian politics|Christian]] [[Conservativism|conservative]]<ref>{{cite news|last1=Lopez|first1=Jaime|title=Civic Groups Move Against Gay Marriage in Costa Rica|url=http://news.co.cr/civic-groups-move-against-gay-marriage-in-costa-rica/23281/|accessdate=13 March 2016|agency=Costa Rica Star|date=July 18, 2013}}</ref> [[Costa Rican Renewal Party|Costa Rican Renewal]] won seats (one each) in the Parliament, both for their future presidential candidates [[Otto Guevara]] and [[Justo Orozco]] respectively. The small party [[National Integration Party (Costa Rica)|National Integration Party]] led by medic Walter Muñoz won its only seat in history until the 2018 election.
+
+{{Election results
+|image=[[File:Costa Rica_Legislative Assembly_1998.svg]]
+|party1=[[Social Christian Unity Party]]|votes1=569792|seats1=27|sc1=+2
+|party2=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes2=481933|seats2=23|sc2=–5
+|party3=[[Democratic Force (Costa Rica)|Democratic Force]]|votes3=79826|seats3=3|sc3=+1
+|party4=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes4=42640|seats4=1|sc4=New
+|party5=[[National Integration Party (Costa Rica)|National Integration Party]]|votes5=38408|seats5=1|sc5=New
+|party6=[[Costa Rican Renewal Party]]|votes6=27892|seats6=1|sc6=New
+|party7=[[Democratic Party (Costa Rica)|Democratic Party]]|votes7=17060|seats7=0|sc7=New
+|party8=[[Agrarian Labour Action Party]]|votes8=16955|seats8=1|sc8=+1
+|party9=[[United People (Costa Rica)|United People]]|votes9=15028|seats9=0|sc9=0
+|party10=[[National Independent Party (Costa Rica)|National Independent Party]]|votes10=12794|seats10=0|sc10=0
+|party11={{ill|General Union Party|es|Partido Unión Generaleña}}|votes11=12583|seats11=0|sc11=0
+|party12={{ill|New Democratic Party (Costa Rica)|es|Nuevo Partido Democrático (Costa Rica)|lt=New Democratic Party}}|votes12=12476|seats12=0|sc12=New|color12=#77A842
+|party13=[[National Rescue Party]]|votes13=9588|seats13=0|sc13=New
+|party14={{ill|Christian National Alliance Party|es|Alianza Nacional Cristiana}}|votes14=9176|seats14=0|sc14=0
+|party15={{ill|National Agrarian Party (Costa Rica)|es|Partido Agrario Nacional|lt=National Agrarian Party}}|votes15=7497|seats15=0|sc15=–1
+|party16=[[Cartago Agrarian Union Party]]|votes16=7138|seats16=0|sc16=–1
+|party17=[[Alajuelense Democratic Action]]|votes17=6614|seats17=0|sc17=0
+|party18={{ill|Independent Party (Costa Rica)|es|Partido Independiente (Costa Rica)|lt=Independent Party}}|votes18=6025|seats18=0|sc18=0
+|party19=Change Now|votes19=2223|seats19=0|sc19=New|color19=#BEF8F7
+|party20=National Convergence Party|votes20=2197|seats20=0|sc20=0|color20=black
+|party21=[[Authentic Limonense Party]]|votes21=2167|seats21=0|sc21=0
+|party22=Cartago Agrarian Force Party|votes22=1892|seats22=0|sc22=New
+|party23=[[Independent Guanacaste Party]]|votes23=1623|seats23=0|sc23=0
+|invalid=32709
+|blank=14343
+|total_sc=0
+|electorate=2045980
+|source=[http://www.electionresources.org/cr/deputies.php?election=1998&province= Election Resources]
+}}
+
+====By province====
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+|-
+! rowspan="3"| [[Provinces of Costa Rica|Province]]
+! colspan="2" width="30px"| [[Social Christian Unity Party|PUSC]]
+! colspan="2" width="30px"| [[National Liberation Party (Costa Rica)|PLN]]
+! colspan="2" width="30px"| [[Democratic Force (Costa Rica)|FD]]
+! colspan="2" width="30px"| [[Libertarian Movement (Costa Rica)|ML]]
+! colspan="2" width="30px"| [[National Integration Party (Costa Rica)|PIN]]
+! colspan="2" width="30px"| [[Costa Rican Renewal Party|PRC]]
+! colspan="2" width="30px"| [[Democratic Party (Costa Rica)|PD]]
+! colspan="2" width="30px"| [[United People (Costa Rica)|PU]]
+! colspan="2" width="30px"| Others
+|-
+! colspan="2" style="background:{{party color|Social Christian Unity Party}}"|
+! colspan="2" style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Democratic Force (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Libertarian Movement (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|National Integration Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Costa Rican Renovation Party}}"|
+! colspan="2" style="background:{{party color|Democratic Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|United People (Costa Rica)}}"|
+! colspan="2" style="background:grey"|
+|-
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+|-
+| align="left"| {{flag|San José}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 37.60
+|'''8'''
+| style="background:#66B27B; color:white;"| 36.21
+|'''8'''
+| 7.31
+|'''2'''
+| 4.64
+|'''1'''
+| 4.69
+|'''1'''
+| 2.44
+|'''1'''
+| 1.60
+|'''0'''
+| 0.88
+|'''0'''
+| 4.63
+|'''0'''
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 40.89
+|'''4'''
+| style="background:#66B27B; color:white;"| 35.52
+|'''4'''
+| 5.20
+|'''1'''
+| 1.40
+|'''0'''
+| 1.30
+|'''0'''
+| 1.38
+|'''0'''
+| 1.08
+|'''0'''
+| 0.41
+|'''0'''
+| 12.82
+|'''1'''
+|-
+| align="left"| {{flag|Cartago}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 39.39
+|'''3'''
+| style="background:#66B27B; color:white;"| 36.49
+|'''3'''
+| 5.14
+|'''0'''
+| 1.71
+|'''0'''
+| 2.08
+|'''0'''
+| 0.97
+|'''0'''
+| 1.15
+|'''0'''
+| 1.75
+|'''0'''
+| 11.32
+|'''0'''
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 39.20
+|'''3'''
+| style="background:#66B27B; color:white;"| 35.85
+|'''2'''
+| 7.12
+|'''0'''
+| 2.45
+|'''0'''
+| 3.22
+|'''0'''
+| 2.48
+|'''0'''
+| 1.76
+|'''0'''
+| 1.12
+|'''0'''
+| 6.80
+|'''0'''
+|-
+| align="left"| {{flag|Guanacaste}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 50.05
+|'''3'''
+| style="background:#66B27B; color:white;"| 33.66
+|'''2'''
+| 4.19
+|'''0'''
+| 1.08
+|'''0'''
+| 0.55
+|'''0'''
+| 3.10
+|'''0'''
+| 0.21
+|'''0'''
+| 0.62
+|'''0'''
+| 6.54
+|'''0'''
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 50.50
+|'''4'''
+| style="background:#66B27B; color:white;"| 32.42
+|'''2'''
+| 3.05
+|'''0'''
+| 3.95
+|'''0'''
+| 0.97
+|'''0'''
+| 1.16
+|'''0'''
+| 0.70
+|'''0'''
+| 1.60
+|'''0'''
+| 5.65
+|'''0'''
+|-
+| align="left"| {{flag|Limón}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 47.71
+|'''2'''
+| style="background:#66B27B; color:white;"| 24.30
+|'''2'''
+| 2.70
+|'''0'''
+| 3.29
+|'''0'''
+| 1.11
+|'''0'''
+| 2.49
+|'''0'''
+| 0.74
+|'''0'''
+| 2.88
+|'''0'''
+| 14.78
+|'''0'''
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 41.18
+|'''27'''
+| 34.83
+|'''23'''
+| 5.77
+|'''3'''
+| 3.08
+|'''1'''
+| 2.78
+|'''1'''
+| 2.02
+|'''1'''
+| 1.23
+|'''0'''
+| 1.09
+|'''0'''
+| 8.02
+|'''1'''
+|}
+
+===Local governments===
+{{Election results
+|seattype1=Alderpeople|seattype2=+/–|seattype3=Municipal<br>syndics|seattype4=+/–
+|party1=[[Social Christian Unity Party]]|votes1=564531|st1t1=271|st2t1=+39|st3t1=295|st4t1=+190
+|party2=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes2=488870|st1t2=226|st2t2=–43|st3t2=145|st4t2=–178
+|party3=[[Democratic Force (Costa Rica)|Democratic Force]]|votes3=85313|st1t3=24|st2t3=+2|st3t3=0|st4t3=0
+|party4=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes4=33544|st1t4=4|st2t4=New|st3t4=0|st4t4=New
+|party5=[[Costa Rican Renewal Party]]|votes5=25654|st1t5=0|st2t5=New|st3t5=0|st4t5=New
+|party6=[[National Integration Party (Costa Rica)|National Integration Party]]|votes6=23896|st1t6=3|st2t6=New|st3t6=0|st4t6=New
+|party7=[[Democratic Party (Costa Rica)|Democratic Party]]|votes7=19204|st1t7=0|st2t7=New|st3t7=0|st4t7=New
+|party8=[[Agrarian Labour Action Party]]|votes8=15157|st1t8=7|st2t8=+7|st3t8=2|st4t8=+2
+|party9=[[National Independent Party (Costa Rica)|National Independent Party]]|votes9=14975|st1t9=2|st2t9=+2|st3t9=0|st4t9=0
+|party10={{ill|General Union Party|es|Partido Unión Generaleña}}|votes10=13378|st1t10=3|st2t10=–1|st3t10=0|st4t10=0
+|party11={{ill|New Democratic Party (Costa Rica)|es|Nuevo Partido Democrático (Costa Rica)|lt=New Democratic Party}}|votes11=12804|st1t11=2|st2t11=New|st3t11=0|st4t11=New|color11=#77A842
+|party12=[[United People (Costa Rica)|United People]]|votes12=12216|st1t12=1|st2t12=+1|st3t12=0|st4t12=0
+|party13=[[National Rescue Party]]|votes13=11385|st1t13=2|st2t13=New|st3t13=0|st4t13=New
+|party14=[[Escazu's Progressive Yoke]]|votes14=9699|st1t14=4|st2t14=New|st3t14=3|st4t14=New
+|party15={{ill|Independent Party (Costa Rica)|es|Partido Independiente (Costa Rica)|lt=Independent Party}}|votes15=8095|st1t15=3|st2t15=+3|st3t15=0|st4t15=0
+|party16={{ill|National Agrarian Party (Costa Rica)|es|Partido Agrario Nacional|lt=National Agrarian Party}}|votes16=7827|st1t16=5|st2t16=–2|st3t16=0|st4t16=0
+|party17=[[21st Century Curridabat]]|votes17=5117|st1t17=2|st2t17=New|st3t17=1|st4t17=New
+|party18=National Convergence Party|votes18=4044|st1t18=1|st2t18=+1|st3t18=0|st4t18=0|color18=black
+|party19=[[Alajuelense Democratic Action]]|votes19=4027|st1t19=1|st2t19=–2|st3t19=0|st4t19=0
+|party20=Party of the Sun|votes20=3628|st1t20=2|st2t20=New|st3t20=2|st4t20=New
+|party21={{ill|Christian National Alliance Party|es|Alianza Nacional Cristiana}}|votes21=2787|st1t21=0|st2t21=0|st3t21=0|st4t21=0
+|party22=[[Independent Guanacaste Party]]|votes22=2610|st1t22=2|st2t22=0|st3t22=0|st4t22=0
+|party23=Cartago Agrarian Force Party|votes23=2430|st1t23=0|st2t23=New|st3t23=0|st4t23=New
+|party24=[[Authentic Limonense Party]]|votes24=1871|st1t24=1|st2t24=0|st3t24=0|st4t24=0
+|party25=Humanist Party of Montes de Oca|votes25=1870|st1t25=1|st2t25=New|st3t25=0|st4t25=New|color25=orange
+|party26=Change Now|votes26=1790|st1t26=0|st2t26=New|st3t26=0|st4t26=New|color26=#BEF8F7
+|party27=Independent Belemite Party|votes27=1386|st1t27=1|st2t27=New|st3t27=0|st4t27=New
+|party28=New Alajuelita Party |votes28=1350|st1t28=1|st2t28=0|st3t28=0|st4t28=0
+|party29=Humanist Party of Heredia|votes29=1128|st1t29=0|st2t29=New|st3t29=0|st4t29=New|color29=orange
+|party30=Golfitenean Action Party|votes30=694|st1t30=0|st2t30=New|st3t30=0|st4t30=New
+|total_st2t=+34|total_st4t=+19
+|invalid=49341
+|electorate=2045173
+|source=TSE<ref>{{cite web |url=http://atlaselectoral.tse.go.cr/regiduria/1990/area |title=Elecciones Regidurías 1998 |language=Spanish |website=tse.go.cr |publisher=Tribunal Supremo de Elecciones |access-date= 21 May 2020}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+{{Costa Rican elections}}
+
+[[Category:1998 elections in Central America|Costa]]
+[[Category:1998 in Costa Rica|General]]
+[[Category:Parliamentary elections in Costa Rica]]
+[[Category:Presidential elections in Costa Rica]]

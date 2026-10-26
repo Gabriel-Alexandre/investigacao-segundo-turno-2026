@@ -1,0 +1,6612 @@
+{{Short description|Re-election of Emmanuel Macron}}
+{{Use dmy dates|date=June 2022}}
+{{Infobox election
+| country = France
+| type = presidential
+| previous_election = 2017 French presidential election
+| previous_year = 2017
+| election_date = 10 April 2022 (first round)<br />{{nowrap|24 April 2022 (second round)}}
+| next_election = 2027 French presidential election
+| next_year = ''2027''
+| opinion_polls = Opinion polling for the 2022 French presidential election
+| title = President
+| before_election = [[Emmanuel Macron]]
+| before_party = La République En Marche!
+| image1 = Emmanuel Macron June 2022 (cropped).jpg
+| candidate1 = '''[[Emmanuel Macron]]'''
+| party1 = La République En Marche!
+| popular_vote1 = '''18,768,639'''
+| percentage1 = '''58.55%'''
+| image2 = Марин Ле Пен (28-01-2022) (cropped) (cropped).jpg
+| candidate2 = [[Marine Le Pen]]
+| party2 = National Rally
+| popular_vote2 = 13,288,686
+| percentage2 = 41.45%
+| map_image = {{Switcher
+| [[File:2022 French Presidential Election First Round Map.svg|300px]]
+| First round results by department and region
+| [[File:2022 French Presidential Election Second Round Map.svg|300px]]
+| Second round results by department and region
+| default = 2
+}}
+| after_election = [[Emmanuel Macron]]
+| after_party = La République En Marche!
+| turnout = 73.69% (first round) {{decrease}} 4.08[[Percentage point|pp]]<br/>71.99% (second round) {{decrease}} 2.57[[Percentage point|pp]]
+}}
+Presidential elections were held in [[France]] on 10 and 24 April 2022. As no candidate won a [[majority]] in the first round, a [[Two-round system|runoff]] was held, in which incumbent [[Emmanuel Macron]] defeated [[Marine Le Pen]] and was re-elected as [[President of France]].<ref name=":3">{{cite web |last=Clinch |first=Silvia Amaro, Matt |date=24 April 2022 |title=Macron beats far-right rival Le Pen in French presidential election |url=https://www.cnbc.com/2022/04/24/france-election-2022-result-emmanuel-macron-vs-marine-le-pen.html |access-date=24 April 2022 |website=CNBC |language=en}}</ref> Macron, from [[La République En Marche!]] (LREM), had defeated Le Pen, leader of the [[National Rally]], once already in the [[2017 French presidential election]], for the term which expired on 13 May 2022. It was a rematch of the previous presidential election. Macron became the first president of France to win a re-election bid since [[Jacques Chirac]] won in [[2002 French presidential election|2002]].<ref>{{cite web |last=Bernard |first=Mathias |date=24 April 2022 |title=French president Emmanuel Macron wins re-election: a victory with deep challenges |url=http://theconversation.com/french-president-emmanuel-macron-wins-re-election-a-victory-with-deep-challenges-181843 |access-date=25 April 2022 |website=The Conversation}}</ref>
+
+In the first round Macron finished first with 28% of the vote, followed by Le Pen with 23%, [[Jean-Luc Mélenchon]] of [[La France Insoumise]] with 22% and [[Éric Zemmour]] of [[Reconquête]] with 7%. [[Valérie Pécresse]] of [[The Republicans (France)|the Republicans]] received 5% of the vote and [[Anne Hidalgo]], [[mayor of Paris]] and [[Socialist Party (France)|Socialist Party]] candidate, 2%. Both the Republicans and the Socialists, considered to be the dominant parties until 2017,<ref>{{Cite news |title=French presidential election: How France's once-dominant political parties fell from grace |author=<!--not stated--> |website=France 24 |date=10 April 2022 |url= https://www.france24.com/en/europe/20220410-french-presidential-election-how-france-s-once-dominant-political-parties-fell-from-grace}}</ref> received their worst results in a presidential election.<ref>{{cite news |last1=Samuel |first1=Henry |title=Valérie Pécresse could lose €5m of her own election campaign money |url=https://www.telegraph.co.uk/world-news/2022/04/11/valerie-pecresse-could-lose-5m-election-campaign-money/ |access-date=12 April 2022 |work=The Daily Telegraph |date=11 April 2022 |archive-date=11 April 2022 |archive-url=https://web.archive.org/web/20220411232755/https://www.telegraph.co.uk/world-news/2022/04/11/valerie-pecresse-could-lose-5m-election-campaign-money/ |url-status=live }}</ref>
+
+In the second round, Macron beat Le Pen with 59% of the vote to her 41%, a narrower margin than in the 2017 election. Turnout was 72%, the lowest in a presidential election run-off since [[1969 French presidential election|1969]].<ref>{{Cite news |date=24 April 2022 |title=Macron wins French presidential election |language=en |work=Le Monde.fr |url=https://www.lemonde.fr/en/politics/article/2022/04/24/macron-wins-french-presidential-election_5981506_5.html |access-date=25 April 2022}}</ref> Le Pen conceded defeat after [[exit projections]] became available. The presidential election was followed by the [[2022 French legislative election]], held on 12–19 June, to elect the 577 [[Member of Parliament (France)|members]] of the [[National Assembly (France)|National Assembly]], the lower house of the [[French Parliament]].
+
+==Electoral system==
+[[File:Logo_PR2022.svg|thumb|left|Official logo of the election]]
+Under Article 7 of the [[Constitution of France]], the [[President of France|president]] is [[Presidential elections in France|elected to a five-year term]] in a [[Two round voting system|two-round election]].<ref>{{Cite web |date=2012-11-20 |title=The Constitution of the Fifth Republic |url=https://www.elysee.fr/en/french-presidency/constitution-of-4-october-1958 |access-date=2022-04-30 |website=elysee.fr |language=en}}</ref> If no candidate secures an absolute majority of votes in the first round, a second round is held two weeks later between the two candidates who received the most votes.<ref name=":2">{{cite web|title=Constitution du 4 octobre 1958 – Article 7|url=https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006527463&cidTexte=LEGITEXT000006071194|publisher=Légifrance|access-date=8 December 2017|archive-date=8 December 2017|archive-url=https://web.archive.org/web/20171208122531/https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006527463&cidTexte=LEGITEXT000006071194|url-status=live}}</ref> According to the Constitution of France, the first round of the presidential election must be held between 20 and 35 days before the transition of power at the end of the five-year term of the incumbent officeholder.{{Citation needed|date=April 2022}} As [[Emmanuel Macron]] took office on 14 May 2017, the transition of power was expected to take place on 13 May 2022. Correspondingly, the first round of the presidential election was to be held between 8 and 23 April 2022, with the second round held two weeks after the first.<ref>{{cite web|title=Comment les dates de l'élection sont-elles choisies ?|url=https://presidentielle2017.conseil-constitutionnel.fr/tout-savoir/organisation/dates-de-lelection-choisies/|publisher=Conseil constitutionnel présidentielle 2017|access-date=8 December 2017|archive-date=12 July 2019|archive-url=https://web.archive.org/web/20190712162030/https://presidentielle2017.conseil-constitutionnel.fr/tout-savoir/organisation/dates-de-lelection-choisies/|url-status=live}}</ref> On 13 July 2021, [[Spokesperson of the Government of France|Government Spokesman]] [[Gabriel Attal]] announced the dates for the election, respectively 10 April 2022 for the first round and 24 April 2022 for the eventual second round.<ref>{{cite web |title=France to hold presidential election in April 2022 – spokesman |date=13 July 2021 |url=https://www.reuters.com/world/europe/france-hold-presidential-election-april-2022-spokesman-2021-07-13/ |publisher=Reuters |access-date=15 July 2021 |archive-date=15 July 2021 |archive-url=https://web.archive.org/web/20210715203737/https://www.reuters.com/world/europe/france-hold-presidential-election-april-2022-spokesman-2021-07-13/ |url-status=live }}</ref>
+
+To be listed on the first-round ballot, candidates needed to secure at least 500 signatures (often referred to as ''parrainages'' in French) from national or local elected officials from at least 30 different [[Departments of France|departments]] or [[Overseas collectivity|overseas collectivities]], with no more than a tenth of these signatories from any single department. The signatures were submitted to the [[Constitutional Council (France)|Constitutional Council]], which is the sole authority to designate participants.<ref>{{cite web|title=Concernant les parrainages, qu'est-ce qui a changé depuis 2012 ?|url=http://presidentielle2017.conseil-constitutionnel.fr/tout-savoir/parrainages/concernant-parrainages-quest-a-change-2012/|publisher=Conseil constitutionnel présidentielle 2017|access-date=8 December 2017|archive-date=3 February 2017|archive-url=https://web.archive.org/web/20170203064440/http://presidentielle2017.conseil-constitutionnel.fr/tout-savoir/parrainages/concernant-parrainages-quest-a-change-2012/|url-status=live}}</ref>
+
+==First round==
+===Campaign===
+Following the 2017 presidential election [[The Republicans (France)|The Republicans]] (LR) sent its members a questionnaire on the topic of the "re-foundation" of the party; of the 40,000 respondents, 70% voted against an open primary like that which was held in [[2016 The Republicans (France) presidential primary|2016]] to determine the party nominee.<ref>{{cite news|author=Louis Hausalter|title=A droite, "Wauquiez voudra tuer la primaire"|url=https://www.marianne.net/politique/droite-wauquiez-voudra-tuer-la-primaire|newspaper=Marianne|date=22 December 2017|access-date=16 January 2018|archive-date=16 January 2018|archive-url=https://web.archive.org/web/20180116140332/https://www.marianne.net/politique/droite-wauquiez-voudra-tuer-la-primaire|url-status=live}}</ref> In a document dated 17 October 2017, the [[Socialist Party (France)|Socialist Party]] (PS) wrote that the financing of the 2022 presidential campaign was not assured despite "economic restructuring" but still planned to spend €12,000,000, the maximum legally permitted before the first round. According to the report, the party's leadership had seriously considered the possibility of not presenting a PS candidate in 2022.<ref>{{cite news|author=Marie-Pierre Haddad|title=Et si le Parti socialiste n'était pas en mesure de présenter un candidat en 2022 ?|url=http://www.rtl.fr/actu/politique/et-si-le-parti-socialiste-ne-presentait-pas-de-candidat-en-2022-7790765869|publisher=RTL|date=2 November 2017|access-date=16 January 2018|archive-date=16 January 2018|archive-url=https://web.archive.org/web/20180116135858/http://www.rtl.fr/actu/politique/et-si-le-parti-socialiste-ne-presentait-pas-de-candidat-en-2022-7790765869|url-status=live}}</ref>
+
+[[Marine Le Pen]], the president of the [[National Rally]] (RN), announced on 16 January 2020 that she would be running in the election. She previously ran in the [[2012 French presidential election|2012]] and 2017 presidential elections as the party's candidate, then called the National Front (FN). She came third in 2012 with 17.9% of the vote in the first round and second in 2017 with 21.3% of the vote in the first round and 33.9% of the vote in the second round. Le Pen was elected to the [[National Assembly (France)|National Assembly]] in the [[2017 French legislative election]].<ref>{{cite web|title=Marine Le Pen announces bid for 2022 French presidential election|url=https://www.politico.eu/article/marine-le-pen-announces-bid-for-2022-french-presidential-election/|last=Gehrke|first=Laurenz|date=16 January 2020|website=politico.eu|access-date=26 May 2020|archive-date=29 June 2020|archive-url=https://web.archive.org/web/20200629013948/https://www.politico.eu/article/marine-le-pen-announces-bid-for-2022-french-presidential-election/|url-status=live}}</ref>
+
+[[Jean Lassalle]], who ran in the 2017 presidential election under the Résistons! banner, coming in seventh place with 1.2% of the vote, announced that he would run again.<ref>{{cite web|title=Jean Lassalle candidat à la présidentielle 2022|url=https://www.lepoint.fr/politique/jean-lassalle-candidat-a-la-presidentielle-2022--16-03-2021-2417954_20.php|date=16 March 2021|website=lepoint.fr|language=fr-FR|access-date=16 March 2021|archive-date=16 March 2021|archive-url=https://web.archive.org/web/20210316153207/https://www.lepoint.fr/politique/jean-lassalle-candidat-a-la-presidentielle-2022--16-03-2021-2417954_20.php|url-status=live}}</ref> In 2020, MP [[Joachim Son-Forget|Eva Son-Forget]], a radiologist who was elected to the National Assembly for [[La République En Marche!]] (LREM) in 2017, formed a new political party called Valeur Absolue and announced her intention to enter the race for the presidency. She had resigned from the [[La République En Marche group (National Assembly)|LREM group]] after posting tweets in 2018 that were deemed sexist; she then joined the [[UDI and Independents group]] in 2019 before resigning his membership later that year.<ref>{{cite web|title=Joachim Son-Forget : portrait d'un candidat à la présidentielle inattendu|url=https://www.rtl.fr/actu/politique/presidentielle-2022-joachim-son-forget-benalla-et-ex-depute-larem-7800087609|website=RTL.fr|date=14 February 2020 |language=fr-FR|access-date=26 May 2020|archive-date=30 July 2020|archive-url=https://web.archive.org/web/20200730143631/https://www.rtl.fr/actu/politique/presidentielle-2022-joachim-son-forget-benalla-et-ex-depute-larem-7800087609|url-status=live}}</ref>
+
+On 8 November 2020, [[Jean-Luc Mélenchon]], founder of [[La France Insoumise]] (LFI), announced that he would be running in the election. He previously ran in the 2012 presidential election for the [[Left Front (France)|Left Front]] (coming fourth with 11.1% of the vote in the first round) and in the 2017 presidential election for LFI (coming fourth again with 19.5% of the vote in the first round). Mélenchon was elected to the National Assembly in 2017.<ref>{{cite news|title=Jean-Luc Mélenchon déclare sa candidature à la présidentielle 2022|url=https://www.lemonde.fr/politique/article/2020/11/08/jean-luc-melenchon-declare-sa-candidature-a-la-presidentielle-2022_6059013_823448.html|newspaper=Le Monde.fr|date=8 November 2020|language=fr-FR|access-date=8 November 2020|archive-date=8 November 2020|archive-url=https://web.archive.org/web/20201108193648/https://www.lemonde.fr/politique/article/2020/11/08/jean-luc-melenchon-declare-sa-candidature-a-la-presidentielle-2022_6059013_823448.html|url-status=live}}</ref>
+
+In November 2021, [[Ensemble Citoyens]] was founded. It is a [[political coalition]] composed of the presidential majority led under [[Emmanuel Macron]].<ref>{{cite web|date=29 November 2021|title=Présidentielle : la majorité s'affiche unie en lançant " Ensemble Citoyens ! "|url=https://www.lesechos.fr/elections/presidentielle/presidentielle-la-majorite-saffiche-unie-en-lancant-ensemble-citoyens-1367729|access-date=1 December 2021|website=Les Echos|language=fr|archive-date=1 December 2021|archive-url=https://web.archive.org/web/20211201195713/https://www.lesechos.fr/elections/presidentielle/presidentielle-la-majorite-saffiche-unie-en-lancant-ensemble-citoyens-1367729|url-status=live}}</ref>
+
+In January 2022, [[Éric Zemmour]]'s party [[Reconquête]], which was founded the month prior, gained a member of the National Assembly in [[Guillaume Peltier]], previously elected as a member of LR,<ref>{{cite web|title=Présidentielle : le député LR Guillaume Peltier annonce rejoindre Eric Zemmour|url=https://www.europe1.fr/politique/presidentielle-le-depute-lr-guillaume-peltier-annonce-rejoindre-eric-zemmour-4086813|access-date=9 January 2022|website=Europe 1|date=9 January 2022 |language=fr|archive-date=20 February 2022|archive-url=https://web.archive.org/web/20220220072221/https://www.europe1.fr/politique/presidentielle-le-depute-lr-guillaume-peltier-annonce-rejoindre-eric-zemmour-4086813|url-status=live}}</ref> as well as two [[Member of the European Parliament|Members of the European Parliament]] (MEPs) when [[Jérôme Rivière]] and [[Gilbert Collard]] defected from Le Pen's RN.<ref>{{cite web|url=https://www.reuters.com/world/europe/defection-le-pen-ally-rallies-zemmours-presidential-bid-2022-01-20/|title=Two Le Pen allies defect to join Zemmour's presidential bid|date=20 January 2022|access-date=27 January 2022|website=Reuters.com|archive-date=29 January 2022|archive-url=https://web.archive.org/web/20220129200521/https://www.reuters.com/world/europe/defection-le-pen-ally-rallies-zemmours-presidential-bid-2022-01-20/|url-status=live}}</ref><ref>{{cite web|url=https://www.lefigaro.fr/politique/gilbert-collard-quitte-le-rn-et-rejoint-eric-zemmour-20220121|title=Gilbert Collard quitte le RN et rejoint Éric Zemmour|date=21 January 2022|website=Lefigaro.fr|access-date=27 January 2022|archive-date=27 January 2022|archive-url=https://web.archive.org/web/20220127053639/https://www.lefigaro.fr/politique/gilbert-collard-quitte-le-rn-et-rejoint-eric-zemmour-20220121|url-status=live}}</ref> Previously, Son-Forget, who had declared she would run for the presidency, rallied behind Zemmour's candidacy. In early February 2022, the party gained a third MEP when [[Maxette Grisoni-Pirbakas]] defected from the RN.<ref>{{cite web|title=Twitter|url=https://twitter.com/reconquete_z/status/1488609650979360770|access-date=2 February 2022|website=Twitter|language=en|archive-date=14 February 2022|archive-url=https://web.archive.org/web/20220214143143/https://twitter.com/Reconquete_Z/status/1488609650979360770|url-status=live}}</ref> [[Stéphane Ravier]] became Zemmour's first supporter in the [[Senate (France)|Senate]] after he left the RN mid-February 2022.<ref>{{Cite news|date=13 February 2022|title=Stéphane Ravier, sénateur RN, annonce son ralliement à Eric Zemmour|language=fr|work=Le Monde.fr|url=https://www.lemonde.fr/election-presidentielle-2022/article/2022/02/13/stephane-ravier-senateur-rn-annonce-son-ralliement-a-eric-zemmour_6113478_6059010.html|access-date=13 February 2022|archive-date=15 February 2022|archive-url=https://web.archive.org/web/20220215060032/https://www.lemonde.fr/election-presidentielle-2022/article/2022/02/13/stephane-ravier-senateur-rn-annonce-son-ralliement-a-eric-zemmour_6113478_6059010.html|url-status=live}}</ref>
+
+In February 2022, a wave of defections hit [[Valérie Pécresse]], candidate put forward by LR, in favour of Macron.<ref>{{cite news |title=Defections sap conservative contender Pécresse in French presidential race |url=https://www.france24.com/en/france/20220211-defections-sap-conservative-contender-p%C3%A9cresse-in-french-presidential-race |access-date=11 February 2022 |work=France 24 |agency=France 24 |publisher=France 24 |date=11 February 2022 |archive-date=11 February 2022 |archive-url=https://web.archive.org/web/20220211182632/https://www.france24.com/en/france/20220211-defections-sap-conservative-contender-p%C3%A9cresse-in-french-presidential-race |url-status=live }}</ref> She was accused by members of the party's centrist wing of trying to pander to the voters of Zemmour,<ref>{{Cite web |last=Le Baron |first=Simon |date=14 February 2022 |title=Le "grand remplacement" de Valérie Pécresse ne passe pas chez Les Républicains |url=https://www.franceinter.fr/politique/le-grand-remplacement-de-valerie-pecresse-ne-passe-pas-chez-les-republicains |access-date=24 April 2022 |website=www.franceinter.fr |language=fr}}</ref> whose sharp rise in the polls has been qualified as "meteoric".<ref>{{Cite web |date=8 October 2021 |title=French far right's new face: the meteoric rise of Éric Zemmour |url=https://www.theguardian.com/world/2021/oct/08/same-old-french-far-right-the-meteoric-rise-of-eric-zemmour |access-date=24 April 2022 |website=The Guardian |language=en}}</ref> During a rally in February 2022, Pécresse said "in ten years time ... will we be a sovereign nation, a US satellite or a Chinese trading post? Will we be unified or divided? Nothing is written, whether it is loss of economic status, or the [[Great Replacement]]." She was criticised for referring to the Great Replacement; she later said that her mention was not an endorsement of what she considered to be a "theory of hate".<ref>{{cite news |title="Grand remplacement» : Valérie Pécresse dénonce une "polémique montée" sur une «théorie de la haine" |trans-title="Great replacement": Valérie Pécresse denounces a "staged controversy" over a "theory of hate" |url=https://www.leparisien.fr/politique/grand-remplacement-valerie-pecresse-denonce-une-polemique-montee-sur-une-theorie-de-la-haine-15-02-2022-S5LFK37PRBHPPBM4CD7M3JHUOU.php |access-date=17 February 2022 |work=Le Parisien |agency=AFP |date=15 February 2022 |language=French |archive-date=16 February 2022 |archive-url=https://web.archive.org/web/20220216202617/https://www.leparisien.fr/politique/grand-remplacement-valerie-pecresse-denonce-une-polemique-montee-sur-une-theorie-de-la-haine-15-02-2022-S5LFK37PRBHPPBM4CD7M3JHUOU.php |url-status=live }}</ref><ref>{{cite news |last1=Caulcutt |first1=Clea |title=France's Pécresse comes under fire for reference to far-right conspiracy theory |url=https://www.politico.eu/article/france-pecresse-slammed-for-great-replacement-reference/ |access-date=17 February 2022 |work=Politico |date=14 February 2022 |archive-date=17 February 2022 |archive-url=https://web.archive.org/web/20220217150425/https://www.politico.eu/article/france-pecresse-slammed-for-great-replacement-reference/ |url-status=live }}</ref><ref>{{cite web |url=https://www.nytimes.com/2022/02/15/world/europe/france-elections-pecresse-great-replacement.html |title=In France, a Racist Conspiracy Theory Edges Into the Mainstream |newspaper=[[The New York Times]] |date=15 February 2022 |accessdate=13 March 2022 |archive-date=1 March 2022 |archive-url=https://web.archive.org/web/20220301113558/https://www.nytimes.com/2022/02/15/world/europe/france-elections-pecresse-great-replacement.html |url-status=live }}</ref><ref>{{cite web |url=https://www.bloomberg.com/news/articles/2022-02-13/france-s-pecresse-raises-great-replacement-in-campaign-gambit |title=France's Pecresse Raises 'Great Replacement' in Campaign Gambit |first1=Gaspard |last1=Sebag |first2=Ania |last2=Nussbaum |date=13 February 2022 |publisher=Bloomberg |access-date=13 March 2022 |archive-date=1 March 2022 |archive-url=https://web.archive.org/web/20220301113600/https://www.bloomberg.com/news/articles/2022-02-13/france-s-pecresse-raises-great-replacement-in-campaign-gambit |url-status=live }}</ref>
+
+The [[2022 Russian invasion of Ukraine]] that began on 24 February had significant implications for the campaign. As media coverage switched to covering the war, Macron's polling improved significantly during the crisis.<ref>{{Cite news |date=19 March 2022 |title=French elections: Putin's war gives Macron boost in presidential race |language=en-GB |work=BBC News |url=https://www.bbc.com/news/world-europe-60793320 |access-date=22 March 2022 |archive-date=22 March 2022 |archive-url=https://web.archive.org/web/20220322141617/https://www.bbc.com/news/world-europe-60793320 |url-status=live }}</ref> Le Pen and Zemmour were made to explain historic statements of praise for [[Vladimir Putin]].<ref>{{cite news |title=French far-right election candidate Zemmour wins backing of Marine Le Pen's niece |url=https://www.reuters.com/world/europe/french-far-right-election-candidate-zemmour-wins-backing-marine-le-pens-niece-2022-03-06/ |access-date=30 March 2022 |work=Reuters |date=6 March 2022 |archive-date=31 March 2022 |archive-url=https://web.archive.org/web/20220331172122/https://www.reuters.com/world/europe/french-far-right-election-candidate-zemmour-wins-backing-marine-le-pens-niece-2022-03-06/ |url-status=live }}</ref><ref>{{cite news |last1=Willsher |first1=Kim |title=French far-right leader Marine Le Pen forced to defend Putin links |url=https://www.theguardian.com/world/2022/mar/02/french-far-right-leader-marine-le-pen-forced-to-defend-putin-links |access-date=30 March 2022 |work=The Guardian |date=2 March 2022 |archive-date=29 March 2022 |archive-url=https://web.archive.org/web/20220329192455/https://www.theguardian.com/world/2022/mar/02/french-far-right-leader-marine-le-pen-forced-to-defend-putin-links |url-status=live }}</ref><ref>{{cite news |last1=Jack |first1=Victor |title=Putin's European pals have to eat their words |url=https://www.politico.eu/article/vladimir-putin-european-pals-eat-their-words-marine-le-pen-eric-zemmour-matteo-salvini-milos-zeman-alex-salmond-gerhard-schroder-boris-johnson-jean-luc-melenchon-francois-fillon-viktor-orban/ |access-date=30 March 2022 |work=Politico |date=26 February 2022 |archive-date=30 March 2022 |archive-url=https://web.archive.org/web/20220330205513/https://www.politico.eu/article/vladimir-putin-european-pals-eat-their-words-marine-le-pen-eric-zemmour-matteo-salvini-milos-zeman-alex-salmond-gerhard-schroder-boris-johnson-jean-luc-melenchon-francois-fillon-viktor-orban/ |url-status=live }}</ref> In a 14 March 2022 interview with newspaper ''[[Le Figaro]]'', [[Gérard Larcher]], [[List of presidents of the Senate of France|Senate President]] and a supporter of Pécresse, put into question the legitimacy of a possible second Macron term, stating: "If there is no campaign, the question of the legitimacy of the winner will arise."<ref>{{Cite web |date=14 March 2022 |title=Gérard Larcher: "Macron tente d'enjamber la présidentielle" |url=https://www.lefigaro.fr/elections/presidentielles/gerard-larcher-macron-tente-d-enjamber-la-presidentielle-20220314 |access-date=24 April 2022 |website=LEFIGARO |language=fr}}</ref> Those comments echoed Macron's refusal to participate in any debate with the other candidates prior to the election's first round.<ref>{{Cite web |date=7 March 2022 |title=Présidentielle : Macron ne participera à aucun débat avant le premier tour |url=https://www.lepoint.fr/presidentielle/presidentielle-macron-ne-participera-a-aucun-debat-avant-le-premier-tour-07-03-2022-2467267_3121.php |access-date=24 April 2022 |website=Le Point |language=fr}}</ref>
+
+Macron formally announced his candidacy for re-election on 3 March 2022, by which time he had already received well more than the [[#required number of sponsorships|sponsorships from elected officials]] to qualify for the ballot.
+
+[[Marion Maréchal]] of the [[Le Pen family]], granddaughter of FN founder [[Jean-Marie Le Pen]] and niece of its current leader Marine Le Pen, formalised her support for Zemmour at a large rally in [[Toulon]] on 6 March 2022.<ref>{{Cite web |date=6 March 2022 |title=Présidentielle : Marion Maréchal, nièce de Marine Le Pen, officialise son soutien à Eric Zemmour |url=https://www.francetvinfo.fr/politique/melenchon/direct-presidentielle-meeting-de-jean-luc-melenchon-a-lyon-deplacement-d-eric-zemmour-a-toulon-suivez-avec-nous-l-actualite-politique-de-ce-dimanche_4994028.html |website=francetvinfo.fr |access-date=23 March 2022 |archive-date=24 March 2022 |archive-url=https://web.archive.org/web/20220324171703/https://www.francetvinfo.fr/politique/melenchon/direct-presidentielle-meeting-de-jean-luc-melenchon-a-lyon-deplacement-d-eric-zemmour-a-toulon-suivez-avec-nous-l-actualite-politique-de-ce-dimanche_4994028.html |url-status=live }}</ref><ref>{{Cite web|url=https://www.france24.com/en/europe/20220306-le-pen-s-niece-joins-forces-with-far-right-rival-zemmour|title=Le Pen's niece joins forces with far-right rival Zemmour|work=France 24|date=6 March 2022|access-date=10 April 2022|archive-date=9 April 2022|archive-url=https://web.archive.org/web/20220409140304/https://www.france24.com/en/europe/20220306-le-pen-s-niece-joins-forces-with-far-right-rival-zemmour|url-status=live}}</ref> In the final days before the first round of voting, Le Pen's polling numbers improved to within the margin of error of defeating Macron in the second round, while those of Pécresse and Zemmour fell.<ref>{{cite news |last1=Williamson |first1=Lucy |title=French election: Far-right Le Pen closes in on Macron ahead of vote |url=https://www.bbc.co.uk/news/world-europe-61029655 |access-date=8 April 2022 |work=BBC News |date=8 April 2022 |archive-date=8 April 2022 |archive-url=https://web.archive.org/web/20220408014103/https://www.bbc.co.uk/news/world-europe-61029655 |url-status=live }}</ref><ref>{{cite news |last1=Hummel |first1=Tassilo |title=France's Macron accuses far-right of 'playing with fear' as Le Pen reaches all-time high in poll |url=https://www.reuters.com/world/europe/frances-macron-says-he-entered-presidential-race-later-than-he-wished-radio-2022-04-08/ |access-date=8 April 2022 |work=Reuters |date=8 April 2022 |archive-date=8 April 2022 |archive-url=https://web.archive.org/web/20220408074943/https://www.reuters.com/world/europe/frances-macron-says-he-entered-presidential-race-later-than-he-wished-radio-2022-04-08/ |url-status=live }}</ref><ref>{{cite news |last1=Crisafis |first1=Angelique |title=France elections: Macron's lead over Le Pen narrowing as vote nears |url=https://www.theguardian.com/world/2022/apr/08/france-elections-macron-lead-over-le-pen-narrowing-vote-nears |access-date=8 April 2022 |work=The Guardian |date=8 April 2022 |archive-date=8 April 2022 |archive-url=https://web.archive.org/web/20220408164343/https://www.theguardian.com/world/2022/apr/08/france-elections-macron-lead-over-le-pen-narrowing-vote-nears |url-status=live }}</ref>
+
+Mélenchon's polling numbers also surged in the final days of campaigning.<ref>{{cite news |last1=Méheut |first1=Constant |last2=Breeden |first2=Aurelien |title=Late Surge Has Fiery French Leftist Eyeing Presidential Runoff |url=https://www.nytimes.com/2022/03/26/world/europe/melenchon-france-election-left.html |access-date=12 April 2022 |work=The New York Times |date=26 March 2022 |archive-date=12 April 2022 |archive-url=https://web.archive.org/web/20220412004055/https://www.nytimes.com/2022/03/26/world/europe/melenchon-france-election-left.html |url-status=live }}</ref><ref>{{cite news |last1=Paris |first1=Gilles |title=Mélenchon surges in the polls despite fiery remarks on Ukraine in the past |url=https://www.lemonde.fr/le-monde-in-english/article/2022/03/08/melenchon-surges-in-the-polls-despite-fiery-remarks-on-ukraine-in-the-past_6116613_5026681.html |access-date=12 April 2022 |work=Le Monde |date=8 March 2022 |archive-date=12 April 2022 |archive-url=https://web.archive.org/web/20220412152730/https://www.lemonde.fr/le-monde-in-english/article/2022/03/08/melenchon-surges-in-the-polls-despite-fiery-remarks-on-ukraine-in-the-past_6116613_5026681.html |url-status=live }}</ref><ref>{{cite news |title=Far-left Melenchon emerges as third competitor in French election poll |url=https://www.reuters.com/world/europe/far-left-melenchon-emerges-third-competitor-french-election-poll-2022-03-09/ |access-date=12 April 2022 |work=Reuters |date=9 March 2022 |archive-date=12 April 2022 |archive-url=https://web.archive.org/web/20220412171249/https://www.reuters.com/world/europe/far-left-melenchon-emerges-third-competitor-french-election-poll-2022-03-09/ |url-status=live }}</ref> Left-leaning independent candidate [[Christiane Taubira]], former [[Ministry of Justice (France)|Minister of Justice]] (2012–2014) under President [[François Hollande]] and winner of the [[2022 French People's Primary|2022 People's Primary]] vote, withdrew her candidacy on 2 March 2022, endorsing Mélenchon.<ref>{{Cite web|url=https://rmc.bfmtv.com/actualites/politique/presidentielle-christiane-taubira-annonce-qu-elle-votera-pour-jean-luc-melenchon_AV-202204080254.html|title=Présidentielle: Christiane Taubira annonce qu'elle votera pour Jean-Luc Mélenchon|website=RMC|date=8 April 2022 |access-date=11 April 2022|archive-date=8 April 2022|archive-url=https://web.archive.org/web/20220408130808/https://rmc.bfmtv.com/actualites/politique/presidentielle-christiane-taubira-annonce-qu-elle-votera-pour-jean-luc-melenchon_AV-202204080254.html|url-status=live}}</ref>
+
+===Primaries and congresses===
+====Ecologist primary====
+{{Main|2021 French Green Party presidential primary}}
+In September 2021, the Ecology Pole organised a [[2021 French Green Party presidential primary|presidential primary]] to determine their candidate. The following candidates participated in this primary:<ref>{{cite news|date=23 November 2020|title=Election présidentielle de 2022 : EELV lance sa primaire sur fond de polémique avec Anne Hidalgo|language=fr|work=Le Monde.fr|url=https://www.lemonde.fr/politique/article/2020/11/23/election-presidentielle-2022-eelv-lance-sa-primaire_6060772_823448.html|access-date=29 March 2021|archive-date=9 April 2021|archive-url=https://web.archive.org/web/20210409161556/https://www.lemonde.fr/politique/article/2020/11/23/election-presidentielle-2022-eelv-lance-sa-primaire_6060772_823448.html|url-status=live}}</ref>
+
+;Nominee
+*[[Yannick Jadot]], [[member of the European Parliament]] since 2009<ref>{{cite news|author=Tristan Quinault-Maupoil|title=Européennes 2019: Yannick Jadot, l'homme qui a porté EELV sur le podium|url=http://www.lefigaro.fr/elections/europeennes/europeennes-2019-yannick-jadot-l-homme-qui-a-porte-eelv-sur-le-podium-20190527|newspaper=Le Figaro|date=27 May 2019|access-date=27 May 2019|archive-date=27 May 2019|archive-url=https://web.archive.org/web/20190527134838/http://www.lefigaro.fr/elections/europeennes/europeennes-2019-yannick-jadot-l-homme-qui-a-porte-eelv-sur-le-podium-20190527|url-status=live}}</ref>
+;{{small|Eliminated}}
+* [[Sandrine Rousseau]], deputy national secretary of [[Europe Ecology – The Greens]] from 2016 to 2017<ref>{{cite news |last1=Daoulas |first1=Jean-Baptiste |title=Sandrine Rousseau, la candidate écolo qui défie Yannick Jadot et Eric Piolle |url=https://www.lexpress.fr/actualite/politique/eelv/sandrine-rousseau-la-candidate-ecolo-qui-defie-yannick-jadot-et-eric-piolle_2137500.html |access-date=4 May 2021 |work=LExpress.fr |date=3 November 2020 |language=fr |archive-date=4 May 2021 |archive-url=https://web.archive.org/web/20210504014943/https://www.lexpress.fr/actualite/politique/eelv/sandrine-rousseau-la-candidate-ecolo-qui-defie-yannick-jadot-et-eric-piolle_2137500.html |url-status=live }}</ref>
+* [[Delphine Batho]], president of [[Ecology Generation]] and deputy for the [[Deux-Sèvres's 2nd constituency|2nd constituency]] of [[Deux-Sèvres]] since 2013
+* [[Éric Piolle]], [[Mayor (France)|mayor]] of [[Grenoble]] since 2014
+* [[:fr:Jean-Marc Governatori|Jean-Marc Governatori]], co-president of [[Cap Écologie]] and city councillor for [[Nice]] since 2020.<ref>{{cite news |title=Jean-Marc Governatori annonce sa candidature à la primaire des écologistes pour la présidentielle |url=https://www.lemonde.fr/politique/article/2021/07/03/jean-marc-governatori-annonce-sa-candidature-a-la-primaire-des-ecologistes-pour-la-presidentielle_6086832_823448.html |access-date=4 July 2021 |work=Le Monde.fr |agency=AFP |date=3 July 2021 |language=fr |archive-date=4 July 2021 |archive-url=https://web.archive.org/web/20210704005516/https://www.lemonde.fr/politique/article/2021/07/03/jean-marc-governatori-annonce-sa-candidature-a-la-primaire-des-ecologistes-pour-la-presidentielle_6086832_823448.html |url-status=live }}</ref>
+
+====Socialist primary====
+{{Main|2021 French Socialist Party presidential primary}}
+
+In October 2021, the [[Socialist Party (France)|Socialist Party]] had its primary. [[Mayor of Paris]] [[Anne Hidalgo]] won with 72% of the vote.<ref name=":0">{{cite web|date=15 October 2021|title=Paris Mayor Anne Hidalgo is Socialists' candidate in 2022 French election|url=https://www.politico.eu/article/paris-mayor-anne-hidalgo-socialists-presidential-nomination/|access-date=31 October 2021|website=POLITICO|language=en-US|archive-date=31 October 2021|archive-url=https://web.archive.org/web/20211031153610/https://www.politico.eu/article/paris-mayor-anne-hidalgo-socialists-presidential-nomination/|url-status=live}}</ref><ref name=":1">{{cite web|date=14 October 2021|title=Paris Mayor Anne Hidalgo wins French Socialists' presidential nomination|url=https://www.france24.com/en/live-news/20211014-french-socialist-party-picks-anne-hidalgo-as-its-candidate-for-presidential-election|access-date=31 October 2021|website=France 24|language=en|archive-date=31 October 2021|archive-url=https://web.archive.org/web/20211031153609/https://www.france24.com/en/live-news/20211014-french-socialist-party-picks-anne-hidalgo-as-its-candidate-for-presidential-election|url-status=live}}</ref>
+
+;Nominee
+*[[Anne Hidalgo]], mayor of [[Paris]] since 2014<ref name=":0" /><ref name=":1" />
+;{{small|Eliminated}}
+*[[Stéphane Le Foll]], mayor of [[Le Mans]] since 2018<ref name=":0" /><ref name=":1" />
+
+====People's Primary====
+{{Main|2022 French People's Primary}}
+
+Independent activists launched a primary with the intention of nominating a unity left-wing candidate. The voting took place online from 27 to 30 January 2022. Of the seven candidates listed in the primary, three declined to participate.<ref>{{cite web |last1=Brunet |first1=Romain |title=A French citizens' initiative – the 'People's Primary' – aims to fix democracy |url=https://www.france24.com/en/europe/20220127-a-french-citizens-initiative-%E2%80%93-the-people-s-primary-%E2%80%93-aims-to-fix-democracy |website=[[France 24]] |access-date=27 January 2022 |date=27 January 2022 |archive-date=27 January 2022 |archive-url=https://web.archive.org/web/20220127232117/https://www.france24.com/en/europe/20220127-a-french-citizens-initiative-%E2%80%93-the-people-s-primary-%E2%80%93-aims-to-fix-democracy |url-status=live }}</ref> The primary was conducted according to a [[majority judgment]] voting system, in which all voters are to rate all candidates, with the candidate with the highest median rating winning.<ref>{{cite web |title=Comment voter? |url=https://primairepopulaire.fr/comment-voter/ |website=La Primaire Populaire |access-date=27 January 2022 |language=French |archive-date=27 January 2022 |archive-url=https://web.archive.org/web/20220127233619/https://primairepopulaire.fr/comment-voter/ |url-status=live }}</ref> 
+;Nominee
+* [[Christiane Taubira]], [[Minister of Justice (France)|minister of justice]] 2012–2016 (withdrew, endorsed Mélenchon)
+;{{small|Eliminated}}
+* Anna Agueb-Porterie, environmental activist
+* [[Anne Hidalgo]], [[List of mayors of Paris|mayor of Paris]] since 2014, [[Socialist Party (France)|Socialist Party]] candidate (''still a candidate'')
+* [[Yannick Jadot]], [[member of the European Parliament]] since 2009, [[Europe Ecology – The Greens|Green Party]] candidate (''still a candidate'')
+* [[Pierre Larrouturou]], [[member of the European Parliament]] since 2019
+* Charlotte Marchandise, public health expert
+* [[Jean-Luc Mélenchon]], [[Member of the French National Assembly|member of the National Assembly]], [[La France Insoumise]] candidate (''still a candidate'')
+
+====The Republicans congress====
+{{Main|2021 The Republicans congress}}
+
+The Republicans selected their candidate via a congress of party members. On 4 December 2021, [[Valérie Pécresse]] won the nomination with 60.95% of the votes against [[Éric Ciotti]].<ref>{{cite web|url = https://www.lefigaro.fr/elections/presidentielles/presidentielle-2022-valerie-pecresse-remporte-le-congres-lr-et-devient-la-candidate-de-la-droite-20211204|title = Présidentielle 2022 : Valérie Pécresse remporte le Congrès LR et devient la candidate de la droite|date = 4 December 2021|access-date = 4 December 2021|archive-date = 4 December 2021|archive-url = https://web.archive.org/web/20211204142814/https://www.lefigaro.fr/elections/presidentielles/presidentielle-2022-valerie-pecresse-remporte-le-congres-lr-et-devient-la-candidate-de-la-droite-20211204|url-status = live}}</ref><ref>{{cite news |last1=Pollet |first1=Mathieu |title=French right-wing Les Republicains to choose Presidential candidate |url=https://www.euractiv.com/section/politics/short_news/french-right-wing-les-republicains-to-choose-presidential-candidate/ |access-date=24 October 2021 |work=www.euractiv.com |date=28 September 2021 |archive-date=24 October 2021 |archive-url=https://web.archive.org/web/20211024193419/https://www.euractiv.com/section/politics/short_news/french-right-wing-les-republicains-to-choose-presidential-candidate/ |url-status=live }}</ref>
+;Nominee
+* [[Valérie Pécresse]], [[President of the Regional Council (France)|president of the Regional Council]] of [[Île-de-France]] since 2016
+;{{small|Eliminated}}
+* [[Éric Ciotti]], deputy for the [[Alpes-Maritimes's 1st constituency|1st constituency]] of [[Alpes-Maritimes]] since 2007
+* [[Michel Barnier]], head of the [[Post-Brexit United Kingdom relations with the European Union|Task Force for Relations with the United Kingdom]] from 2019 to 2021
+* [[Xavier Bertrand]], [[President of the Regional Council (France)|president of the Regional Council]] of [[Hauts-de-France]] since 2016
+* [[Philippe Juvin]], mayor of [[La Garenne-Colombes]] since 2001
+
+===Candidates===
+On 7 March 2022, the [[Constitutional Council (France)|Constitutional Council]] published names of the 12 candidates who received 500 valid sponsorships, with the order determined by drawing lots.<ref>{{cite web |title=Élection présidentielle : Laurent Fabius rend publique la liste des candidats – Conseil constitutionnel présidentielle 2022 |url=https://presidentielle2022.conseil-constitutionnel.fr/les-communiques/liste-candidats-1ertour.html |access-date=7 March 2022 |website=presidentielle2022.conseil-constitutionnel.fr |archive-date=8 March 2022 |archive-url=https://web.archive.org/web/20220308030737/https://presidentielle2022.conseil-constitutionnel.fr/les-communiques/liste-candidats-1ertour.html |url-status=live }}</ref>
+<gallery>
+File:2017-02-11 16-10-22 meeting-lo-belfort (cropped).jpg|'''[[Nathalie Arthaud]]'''<br/>{{small|[[Lutte Ouvrière|Workers' Struggle]]}}
+File:Roussel Fabien 1.jpg|'''[[Fabien Roussel]]'''<br/>{{small|[[French Communist Party]]}}
+File:Emmanuel Macron June 2022 (3x4 cropped).jpg|'''[[Emmanuel Macron]]'''<br/>{{small|[[La République En Marche!]]}}
+File:Jean-Luc Mélenchon (9301728809) (cropped).jpg|'''[[Jean-Luc Mélenchon]]'''<br/>{{small|[[La France Insoumise]]}}
+File:Jean Lassalle 03 (cropped).jpg|'''[[Jean Lassalle]]'''<br/>{{small|[[Jean Lassalle#Political career|Résistons!]]}}
+File:Марин Ле Пен (28-01-2022) (cropped) (cropped).jpg|'''[[Marine Le Pen]]'''<br/>{{small|[[National Rally]]}}
+File:Portrait Éric Zemmour, avril 2022 cropped.jpg|'''[[Éric Zemmour]]'''<br/>{{small|[[Reconquête!]]}}
+File:Hidalgo2020crop.jpg|'''[[Anne Hidalgo]]'''<br/>{{small|[[Socialist Party (France)|Socialist Party]]}}
+File:20210819 jadot.yannick 5705.jpg|'''[[Yannick Jadot]]'''<br/>{{small|[[Europe Ecology – The Greens]]}}
+File:Valérie Pécresse (2022) (cropped 2).jpg|'''[[Valérie Pécresse]]'''<br/>{{small|[[The Republicans (France)|The Republicans]]}}
+File:Philippe Poutou - Gilets jaunes (2019).jpg|'''[[Philippe Poutou]]'''<br/>{{small|[[New Anticapitalist Party]]}}
+File:Nicolas Dupont-Aignan, homme politique français (cropped).jpg|'''[[Nicolas Dupont-Aignan]]'''<br/>{{small|[[Debout la France]]}}
+</gallery>
+
+====Sponsorships====
+A candidate must have secured 500 ''Présentation'' signatures from elected officials in order to appear on the first-round ballot. The signature collection period ended on 4 March.<ref>{{cite web|title=En résumé – Conseil constitutionnel présidentielle 2022|url=https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-les-regles/en-resume.html|access-date=4 February 2022|website=presidentielle2022.conseil-constitutionnel.fr|archive-date=2 February 2022|archive-url=https://web.archive.org/web/20220202110930/https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-les-regles/en-resume.html|url-status=live|language=fr}}</ref> The table below lists sponsorships received by the Constitutional Council by candidate.<ref name="parrainages-par-candidat">{{cite web|date=10 February 2022|title=Les parrainages validés par candidat|url=https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html|access-date=10 February 2022|publisher=Conseil constitutionnel présidentielle 2022|archive-date=10 February 2022|archive-url=https://web.archive.org/web/20220210173907/https://presidentielle2022.conseil-constitutionnel.fr/les-parrainages/parrainages-valides-par-candidat.html|url-status=live|language=fr}}</ref> On the form, this is named a ''présentation'' but is more widely known as ''parrainage''.<ref>{{cite web|url=https://www.vie-publique.fr/eclairage/23872-parrainage-des-candidats-la-presidentielle-les-500-signatures|title=Élection présidentielle: les règles pour les parrainages des candidats|website=Vie publique|language=fr}}</ref> There were 46 individuals who received at least 1 sponsorship as of the closing date deadline of 4 March 2022. Some of them received sponsorships without being candidates, and one sponsored himself. Candidates labeled SE (''sans etiquette'') do not belong to any political party.
+;Colour legend
+{| class="wikitable" style="width:650px; table-layout:fixed; overflow:visible; text-align:center; font-size:85%"
+|- style="height:15px;"
+| style="border:1px solid black; background:#EAAAAA;" | 
+| style="border:1px solid black; background:#EEBAAB;" | 
+| style="border:1px solid black; background:#F2CBAC;" | 
+| style="border:1px solid black; background:#F6DBAD;" | 
+| style="border:1px solid black; background:#FAECAE;" | 
+| style="border:1px solid black; background:#FFFDB0;" | 
+| style="border:1px solid black; background:#EAF5AB;" | 
+| style="border:1px solid black; background:#D5EDA7;" | 
+| style="border:1px solid black; background:#C0E5A3;" | 
+| style="border:1px solid black; background:#ABDD9F;" | 
+| style="border:1px solid black; background:#97D59B;" | 
+|- style="text-align:center;"
+| 1–50 || 51–100 || 101–150 || 151–200 || 201–250 || 251–300 || 301–350 || 351–400 || 401–450 || 451–500 || 500+
+|}
+
+{| class="wikitable sortable collapsible collapsed" style="font-size:95%; text-align:right"
+|+ class="nowrap" | Signatures received by the Constitutional Council as of 7 March<ref name="parrainages-par-candidat"/>
+|-
+!colspan=2|Candidate
+!Party
+!1 Feb
+!3 Feb
+!8 Feb
+!10 Feb
+!15 Feb
+!17 Feb
+!22 Feb
+!24 Feb
+!1 Mar
+!3 Mar
+!4 Mar
+!Total
+!Notes
+|-
+|style="background-color:{{party color|Independent}};"|
+|data-sort-value="Arnal, Christian-Jacques" style="text-align:left;"|Christian-Jacques Arnal 
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate 
+|- style="background:#c5f199;"
+|style="background-color:{{party color|Workers' Struggle}};"|
+|data-sort-value="Arthaud, Nathalie" style="text-align:left;"|[[Nathalie Arthaud]]
+|[[Lutte Ouvrière|LO]]
+|12
+|126
+|230
+|51
+|90
+|20
+|30
+|3
+|6
+|2
+|6
+| style="background:#97D59B;" |'''576'''
+|500 signatures validated by 15 February
+|-
+|style="background-color:{{party color|Popular Republican Union (2007)}};"|
+|data-sort-value="Asselineau, François" style="text-align:left;"|[[François Asselineau]]
+|[[Popular Republican Union (2007)|UPR]]
+|10
+|46
+|115
+|22
+|17
+|7
+|24
+|6
+|16
+|16
+|14
+| style="background:#FFFDB0;" |293
+|
+|-
+|style="background-color:{{party color|The Republicans (France)}};"|
+|data-sort-value="Barnier, Michel" style="text-align:left;"|[[Michel Barnier]]
+|[[The Republicans (France)|LR]]
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|style="background:#EAAAAA;"|1
+|Not the nominee of LR
+|-
+|style="background-color:{{party color|Independent}};"|
+|data-sort-value="Bekaert, Corinne" style="text-align:left;"|Corinne Bekaert
+|[[Sans étiquette|SE]]
+|0
+|0
+|1
+|0
+|2
+|0
+|0
+|1
+|1
+|0
+|1
+| style="background:#EAAAAA;" |6
+|
+|-
+| style="background-color:{{party color|La République En Marche!}};" |
+|data-sort-value="Montserrat, Paul" style="text-align:left;" |[[Christophe Blanchet]]
+|[[La République En Marche!|LREM]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate
+|-
+|style="background-color:{{party color|Union of Democrats and Independents}};"|
+|data-sort-value="Borloo, Jean-Louis" style="text-align:left;"|[[Jean-Louis Borloo]]
+|[[Union of Democrats and Independents|UDI]]{{efn|The [[Union of Democrats and Independents]] (UDI) announced it would support the candidate put forward by [[The Republicans (France)|The Republicans]] (LR), [[Valérie Pécresse]].}}
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate 
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Cahez, Thierry" style="text-align:left;" |Thierry Cahez
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Cau, Marie" style="text-align:left;" |[[Marie Cau]]
+|[[Sans étiquette|SE]]
+|0
+|0
+|1
+|0
+|1
+|1
+|0
+|1
+|1
+|2
+|1
+| style="background:#EAAAAA;" |8
+|
+|-
+| style="background-color:{{party color|Socialist Party (France)}};" |
+| data-sort-value="Cazeneuve, Bernard" style="text-align:left;" |[[Bernard Cazeneuve]]
+|[[Socialist Party (France)|PS]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+| style="background:#EAAAAA;" |1
+|
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Chaudot, Michel" style="text-align:left;" |Michel Chaudot
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+| style="background:#EAAAAA;" |1
+|
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Chiche, Arnaud" style="text-align:left;" |Arnaud Chiche
+|[[Sans étiquette|SE]]
+|0
+|1
+|3
+|1
+|3
+|0
+|1
+|0
+|3
+|4
+|5
+| style="background:#EAAAAA;" |21
+|
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Cojan, Patrick" style="text-align:left;" |Patrick Cojan
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate 
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Delaby, Vincent" style="text-align:left;" |Vincent Delaby
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+| style="background:#EAAAAA;" |1
+|
+|-
+| style="background-color:{{party color|Socialist Party (France)}};" |
+| data-sort-value="Delga, Carole" style="text-align:left;" |[[Carole Delga]]
+|[[Socialist Party (France)|PS]]
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate
+|- style="background:#c5f199;"
+| style="background-color:{{party color|Debout la France}};" |
+| data-sort-value="Dupont-Aignan, Nicolas" style="text-align:left;" |[[Nicolas Dupont-Aignan]]
+|[[Debout la France|DLF]]
+|10
+|67
+|155
+|48
+|80
+|19
+|43
+|35
+|75
+|50
+|18
+| style="background:#97D59B;" |'''600'''
+|500 signatures validated by 1 March
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Egger, Clara" style="text-align:left;" |[[:fr:Clara Egger|Clara Egger]]
+|[[Sans étiquette|SE]]
+|0
+|3
+|3
+|1
+|6
+|3
+|6
+|2
+|4
+|6
+|2
+| style="background:#EAAAAA;" |36
+|
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Fessard de Foucault, Bertrand" style="text-align:left;" |Bertrand Fessard de Foucault
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Fiorile, Eric Régis" style="text-align:left;" |Éric Régis Fiorile
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|1
+|0
+| style="background:#EAAAAA;" |2
+|
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Fortané, Jean-Marc" style="text-align:left;" |Jean-Marc Fortané
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|1
+|0
+|0
+|2
+|0
+|4
+|2
+|3
+| style="background:#EAAAAA;" |12
+|
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Giffon, Jean Baptiste" style="text-align:left;" |Jean Baptiste Giffon
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+| style="background:#EAAAAA;" |1
+|
+|-
+| style="background-color:{{party color|Place Publique}};" |
+| data-sort-value="Glucksmann, Raphaël" style="text-align:left;" |[[Raphaël Glucksmann]]
+|[[Place Publique|PP]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate 
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Herrou, Cédric" style="text-align:left;" |[[Cédric Herrou]]
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+| style="background:#EAAAAA;" |1
+|
+|- style="background:#c5f199;"
+| style="background-color:{{party color|Socialist Party (France)}};" |
+| data-sort-value="Hidalgo, Anne" style="text-align:left;" |[[Anne Hidalgo]]
+|[[Socialist Party (France)|PS]]
+|48
+|218
+|386
+|138
+|217
+|67
+|103
+|49
+|92
+|69
+|43
+| style="background:#97D59B;" |'''1,440'''
+|500 signatures validated by 8 February
+|-
+| style="background-color:{{party color|Socialist Party (France)}};" |
+| data-sort-value="Hollande, François" style="text-align:left;" |[[François Hollande]]
+|[[Socialist Party (France)|PS]]
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate
+|- style="background:#c5f199;"
+| style="background-color:{{party color|Europe Ecology – The Greens}};" |
+| data-sort-value="Jadot, Yannick" style="text-align:left;" |[[Yannick Jadot]]
+|[[Europe Ecology – The Greens|EELV]]
+|11
+|69
+|188
+|57
+|125
+|40
+|75
+|50
+|54
+|20
+|23
+| style="background:#97D59B;" |'''712'''
+|500 signatures validated by 22 February
+|-
+| style="background-color:{{party color|Independent}};" |
+|data-sort-value="Juving-Brunet, Alexandre" style="text-align:left;" |[[Alexandre Juving-Brunet]]
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|2
+|0
+|0
+| style="background:#EAAAAA;" |2
+|
+|-
+| style="background-color:{{party color|Far-left}};" |
+| data-sort-value="Kazib, Anasse" style="text-align:left;" |[[Anasse Kazib]]
+|[[Permanent Revolution (political party)|RP]]
+|1
+|20
+|63
+|15
+|17
+|6
+|6
+|2
+|14
+|5
+|11
+| style="background:#F6DBAD;" |155
+|
+|-
+|
+| data-sort-value="Koenig, Gaspard" style="text-align:left;" |[[Gaspard Koenig]]
+|[[Simple (political party)|S]]
+|0
+|2
+|21
+|4
+|1
+|3
+|7
+|11
+|23
+|19
+|16
+| style="background:#EEBAAB;" |107
+|
+|-
+| style="background-color:{{party color|Miscellaneous left}};" |
+| data-sort-value="Kuzmanovic, Georges" style="text-align:left;" |[[:fr:Georges Kuzmanovic|Georges Kuzmanovic]]
+|[[Sovereign Republic|RS]]
+|1
+|8
+|16
+|2
+|8
+|3
+|2
+|2
+|3
+|1
+|3
+| style="background:#EAAAAA;" |48
+|
+|-
+| style="background-color:{{party color|The Republicans (France)}};" |
+|data-sort-value="Lacroix, Nicolas" style="text-align:left;" |[[Nicolas Lacroix]]
+|[[The Republicans (France)|LR]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|2
+|0
+|0
+| style="background:#EAAAAA;" |2
+|Not a candidate 
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Lam, Yaya" style="text-align:left;" |Yaya Lam
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|
+|- style="background:#c5f199;"
+| style="background-color:{{party color|Résistons!}};" |
+| data-sort-value="Lassalle, Jean" style="text-align:left;" |[[Jean Lassalle]]
+|[[Résistons!|RES]]
+|15
+|109
+|192
+|66
+|89
+|32
+|58
+|18
+|23
+|18
+|22
+| style="background:#97D59B;" |'''642'''
+|500 signatures validated by 17 February
+|-
+|style="background-color:{{party color|Independent}};"|
+|data-sort-value="Laurut, Christian" style="text-align:left;"|Christian Laurut
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|1
+|0
+|0
+| style="background:#EAAAAA;" |2
+|
+|- style="background:#c5f199;"
+| style="background-color:{{party color|National Rally (France)}};" |
+| data-sort-value="Le Pen, Marine" style="text-align:left;" |[[Marine Le Pen]]
+|[[National Rally|RN]]
+|2
+|33
+|104
+|135
+|57
+|35
+|27
+|21
+|89
+|100
+|19
+| style="background:#97D59B;" |'''622'''
+|500 signatures validated by 1 March
+|- style="background:#c5f199;"
+| style="background-color:{{party color|La République En Marche!}};" |
+| data-sort-value="Macron, Emmanuel" style="text-align:left;" |[[Emmanuel Macron]]
+|[[La République En Marche!|LREM]]
+|105
+|424
+|397
+|124
+|210
+|85
+|118
+|81
+|241
+|189
+|124
+| style="background:#97D59B;" |'''2,098'''
+|500 signatures validated by 3 February
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Marechal, Philippe Célestin" style="text-align:left;" |Philippe Célestin Marechal
+|[[Sans étiquette|SE]]
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|Self-sponsored 
+|-
+| style="background-color:{{party color|Far-right}};" |
+| data-sort-value="Martinez, Antoine" style="text-align:left;" | [[Antoine Martinez]]
+|[[Volunteers for France|VPF]]
+|0
+|0
+|5
+|0
+|2
+|2
+|1
+|1
+|1
+|1
+|0
+| style="background:#EAAAAA;" |13
+|
+|-
+| style="background:#1062b0;"|
+| data-sort-value="Mazuel, Philippe" style="text-align:left;" |Philippe Mazuel
+|[[Parti des citoyens européens|PACE]]
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|
+|- style="background:#c5f199;"
+| style="background-color:{{party color|La France Insoumise}};" |
+| data-sort-value="Mélenchon, Jean-Luc" style="text-align:left;" |[[Jean-Luc Mélenchon]]
+|[[La France Insoumise|LFI]]
+|14
+|86
+|124
+|34
+|74
+|38
+|72
+|98
+|268
+|65
+|33
+| style="background:#97D59B;" |'''906'''
+|500 signatures validated by 24 February
+|-
+| style="background-color:{{party color|Far-right}};" |
+| data-sort-value="Ménard, Emmanuelle" style="text-align:left;" |[[Emmanuelle Ménard]]
+|EXD
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+| Not a candidate
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Meurice, Guillaume" style="text-align:left;" |[[:fr:Guillaume Meurice|Guillaume Meurice]]
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|1
+|1
+|3
+|0
+| style="background:#EAAAAA;" |6
+|Not a candidate 
+|-
+| style="background-color:{{party color|Far-right}};" |
+| data-sort-value="Miguet, Nicolas" style="text-align:left;" |[[:fr:Nicolas Miguet|Nicolas Miguet]]
+|[[Rally of the French Taxpayers|RCF]]
+|0
+|2
+|7
+|0
+|3
+|0
+|0
+|6
+|9
+|8
+|5
+| style="background:#EAAAAA;" |40
+|
+|-
+| style="background-color:{{party color|Miscellaneous left}};" |
+| data-sort-value="Montebourg, Arnaud" style="text-align:left;" |[[Arnaud Montebourg]]
+|[[Miscellaneous left|DVG]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|Withdrew candidacy on 19 January 
+|-
+| style="background-color:{{party color|Independent}};" |
+|data-sort-value="Montserrat, Paul" style="text-align:left;" |Paul Montserrat
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+| style="background:#EAAAAA;" |1
+|
+|- style="background:#c5f199;"
+| style="background-color:{{party color|The Republicans (France)}};" |
+| data-sort-value="Pécresse, Valérie" style="text-align:left;" |[[Valérie Pécresse]]
+|[[The Republicans (France)|LR]]
+|34
+|290
+|615
+|310
+|575
+|121
+|198
+|128
+|186
+|99
+|80
+| style="background:#97D59B;" |'''2,636'''
+|500 signatures validated by 8 February
+|-
+| style="background-color:{{party color|Independent}};" |
+|data-sort-value="Pesquet, Thomas" style="text-align:left;" |[[Thomas Pesquet]]
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate
+|-
+| style="background-color:{{party color|Horizons (political party)}};" |
+| data-sort-value="Philippe, Édouard" style="text-align:left;" |[[Édouard Philippe]]
+|[[Horizons (political party)|Horizons]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate 
+|-
+| style="background-color:{{party color|The Patriots (France)}};" |
+| data-sort-value="Philippot, Florian" style="text-align:left;" |[[Florian Philippot]]
+|[[The Patriots (France)|LP]]
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|Withdrew candidacy on 18 February 
+|- style="background:#c5f199;"
+| style="background-color:{{party color|New Anticapitalist Party}};" |
+| data-sort-value="Poutou, Philippe" style="text-align:left;" |[[Philippe Poutou]]
+|[[New Anticapitalist Party|NPA]]
+|4
+|50
+|73
+|19
+|42
+|11
+|25
+|19
+|99
+|97
+|157
+| style="background:#97D59B;" |'''596'''
+|500 signatures validated by 4 March 
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Rivoal, Stéphanie" style="text-align:left;" |[[:fr:Stéphanie Rivoal|Stéphanie Rivoal]]
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|1
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |2
+|
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Rocca, Martin" style="text-align:left;" |Martin Rocca
+|[[Sans étiquette|SE]]
+|0
+|0
+|1
+|1
+|1
+|0
+|0
+|0
+|5
+|1
+|0
+| style="background:#EAAAAA;" |9
+|
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Rocquemont, Antoine" style="text-align:left;" |Antoine Rocquemont
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|
+|- style="background:#c5f199;"
+| style="background-color:{{party color|French Communist Party}};" |
+| data-sort-value="Roussel, Fabien" style="text-align:left;" |[[Fabien Roussel]]
+|[[French Communist Party|PCF]]
+|30
+|129
+|167
+|55
+|111
+|37
+|53
+|11
+|20
+|6
+|7
+| style="background:#97D59B;" |'''626'''
+|500 signatures validated by 17 February
+|-
+| style="background:crimson;"|
+| data-sort-value="Ruffin, François" style="text-align:left;" |[[François Ruffin]]
+|[[Picardie Debout|PD]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|1
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate 
+|-
+| style="background-color:{{party color|La République En Marche!}};" |
+| data-sort-value="Saint-Paul, Laëtitia" style="text-align:left;" |[[Laëtitia Saint-Paul]]
+|[[La République En Marche!|LREM]]
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate 
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Schovanec, Josef" style="text-align:left;" |[[Josef Schovanec]]
+|[[Sans étiquette|SE]]
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|Not a candidate 
+|-
+| style="background-color:{{party color|Miscellaneous right}};" |
+| data-sort-value="Smati, Rafik" style="text-align:left;" |[[:fr:Rafik Smati|Rafik Smati]]
+|[[Objectif France|OF]]
+|0
+|0
+|2
+|0
+|3
+|2
+|1
+|0
+|1
+|0
+|1
+| style="background:#EAAAAA;" |10
+|
+|-
+| style="background:#060;"|
+| data-sort-value="Taubira, Christiane" style="text-align:left;" |[[Christiane Taubira]]
+|[[Walwari]]
+|0
+|8
+|28
+|11
+|26
+|13
+|18
+|24
+|53
+|60
+|33
+| style="background:#FFFDB0;" |274
+|Withdrew candidacy on 2 March 
+|-
+| style="background-color:{{party color|Animalist Party}};" |
+| data-sort-value="Thouy, Hélène" style="text-align:left;" |[[Hélène Thouy]]
+|[[Animalist Party|PA]]
+|2
+|20
+|26
+|8
+|14
+|4
+|15
+|8
+|17
+|10
+|15
+| style="background:#F2CBAC;" |139
+|
+|-
+| style="background:#20a5ab;"|
+| data-sort-value="Vieira, Gildas" style="text-align:left;" |Gildas Vieira
+|[[La France Autrement|LaFRA]]
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+| style="background:#EAAAAA;" |2
+|
+|-
+| style="background-color:{{party color|Independent Ecological Movement}};" |
+| data-sort-value="Waechter, Antoine" style="text-align:left;" |[[Antoine Waechter]]
+|[[Independent Ecological Movement|MEI]]
+|0
+|0
+|0
+|0
+|1
+|1
+|1
+|1
+|0
+|3
+|0
+| style="background:#EAAAAA;" |7
+|
+|-
+| style="background-color:{{party color|Independent}};" |
+| data-sort-value="Wendlinger, Stéphane" style="text-align:left;" |Stéphane Wendlinger
+|[[Sans étiquette|SE]]
+|0
+|0
+|0
+|0
+|1
+|0
+|0
+|0
+|0
+|0
+|0
+| style="background:#EAAAAA;" |1
+|
+|- style="background:#c5f199;"
+| style="background-color:{{party color|Reconquête (political party)}};" |
+| data-sort-value="Zemmour, Éric" style="text-align:left;" |[[Éric Zemmour]]
+|[[Reconquête|REC]]
+|14
+|44
+|91
+|32
+|69
+|41
+|59
+|65
+|205
+|101
+|20
+| style="background:#97D59B;" |'''741'''
+|500 signatures validated by 1 March 
+|-
+! colspan="3" |Total
+!313
+!1,756
+!3,017
+!1,139
+!1,851
+!593
+!948
+!648
+!1,523
+!963
+!
+!12,751
+!
+|}
+
+{{Graph:Chart
+|line
+|xGrid=1
+|yGrid=1
+|legend=Sponsorship
+|yAxisMax=700
+|xType=date
+|xAxisFormat=%d-%m
+|width=600
+|x=2022-02-01, 2022-02-03, 2022-02-08, 2022-02-10, 2022-02-15, 2022-02-17, 2022-02-22, 2022-02-24, 2022-03-01, 2022-03-03, 2022-03-04
+|y1=34, 	{{#expr:34+290}}, 	{{#expr:34+290+615}}
+|y1Title=Valérie Pécresse (LR)
+|y2= 	105, {{#expr:105+ 	424}}
+|y2Title=Emmanuel Macron (LREM)
+|y3=48, 	{{#expr:48+218}}, 	{{#expr:48+218+386}}
+|y3Title=Anne Hidalgo (PS)
+|y4=12, 	{{#expr:12+126}}, 	{{#expr:12+126+230}}, 	{{#expr:12+126+230+51}}, 	{{#expr:12+126+230+51+90}}
+|y4Title=Nathalie Arthaud (LO)
+|y5=30, 	{{#expr:30+129}}, 	{{#expr:30+129+167}}, 	{{#expr:30+129+167+55}}, 	{{#expr:30+129+167+55+111}}, 	{{#expr:30+129+167+55+111+37}}
+|y5Title=Fabien Roussel (PCF)
+|y6=15, 	{{#expr:15+109}}, 	{{#expr:15+109+192}}, 	{{#expr:15+109+192+66}}, 	{{#expr:15+109+192+66+89}}, 	{{#expr:15+109+192+66+89+32}}
+|y6Title= 	Jean Lassalle 	(RES)
+|y7=11, 	{{#expr:11+69}}, 	{{#expr:11+69+188}}, 	{{#expr:11+69+188+57}}, 	{{#expr:11+69+188+57+125}}, 	{{#expr:11+69+188+57+125+40}}, 	 	{{#expr:11+69+188+57+125+40+75}}
+|y7Title=	Yannick Jadot (EELV)
+|y8=14, 	{{#expr:14+86}}, 	{{#expr:14+86+124}}, 	{{#expr:14+86+124+34}}, 	{{#expr:14+86+124+34+74}}, 	 	{{#expr:14+86+124+34+74+38}}, 	 	{{#expr:14+86+124+34+74+38+72}}, 	 	{{#expr:14+86+124+34+74+38+72+98}}
+|y8Title=	Jean-Luc Mélenchon (LFI)
+|y9=14, 	{{#expr:14+44}}, 	{{#expr:14+44+91}}, 	{{#expr:14+44+91+32}}, 	 	{{#expr:14+44+91+32+69}}, 	 	{{#expr:14+44+91+32+69+41}}, 	 	{{#expr:14+44+91+32+69+41+59}}, 	 	{{#expr:14+44+91+32+69+41+59+65}}, 	 	 	{{#expr:14+44+91+32+69+41+59+65+205}}
+|y9Title=	Éric Zemmour (REC)
+|y10=10, 	{{#expr:10+67}}, 	{{#expr:10+67+155}}, 	{{#expr:10+67+155+48}}, 	{{#expr:10+67+155+48+80}}, 	 	{{#expr:10+67+155+48+80+19}}, 	 	{{#expr:10+67+155+48+80+19+43}}, 	 	{{#expr:10+67+155+48+80+19+43+35}}, 	 	{{#expr:10+67+155+48+80+19+43+35+75}}
+|y10Title=	Nicolas Dupont-Aignan (DLF)
+|y11=2, 	 {{#expr:2+33}}, 	{{#expr:2+33+104}}, 	{{#expr:2+33+104+135}}, 	{{#expr:2+33+104+135+57}}, 	 	{{#expr:2+33+104+135+57+35}}, 	 	{{#expr:2+33+104+135+57+35+27}}, 	 	{{#expr:2+33+104+135+57+35+27+21}}, 	 	{{#expr:2+33+104+135+57+35+27+21+89}}
+|y11Title=	Marine Le Pen (RN)
+|y12=4, 	{{#expr:4+50}}, 	{{#expr:4+50+73}}, 	 	{{#expr:4+50+73+19}}, 	 	{{#expr:4+50+73+19+42}}, 	 	{{#expr:4+50+73+19+42+11}}, 	 	{{#expr:4+50+73+19+42+11+25}}, 	 	{{#expr:4+50+73+19+42+11+25+19}}, 	 	 	{{#expr:4+50+73+19+42+11+25+19+99}}, 	{{#expr:4+50+73+19+42+11+25+19+99+97}}, 	{{#expr:4+50+73+19+42+11+25+19+99+97+157}}
+|y12Title=	Philippe Poutou (NPA)
+|y13=10, 	{{#expr:10+46}}, 	{{#expr:10+46+115}}, 	{{#expr:10+46+115+22}}, 	{{#expr:10+46+115+22+17}}, 	 	{{#expr:10+46+115+22+17+7}}, 	 	{{#expr:10+46+115+22+17+7+24}}, 	 	{{#expr:10+46+115+22+17+7+24+6}}, 	 	 	{{#expr:10+46+115+22+17+7+24+6+16}}, 	{{#expr:10+46+115+22+17+7+24+6+16+16}}, 	{{#expr:10+46+115+22+17+7+24+6+16+16+14}}
+|y13Title=	François Asselineau (UPR)
+|y14=0, 	{{#expr:0+8}}, 	 	{{#expr:0+8+28}}, 	 	{{#expr:0+8+28+11}}, 	 	{{#expr:0+8+28+11+26}}, 	 	{{#expr:0+8+28+11+26+13}}, 	 	 	{{#expr:0+8+28+11+26+13+18}}, 	 	 	{{#expr:0+8+28+11+26+13+18+24}}, 	 	 	{{#expr:0+8+28+11+26+13+18+24+53}}, 	{{#expr:0+8+28+11+26+13+18+24+53+60}}, 	 	{{#expr:0+8+28+11+26+13+18+24+53+60+33}}
+|y14Title=	Christiane Taubira (W)
+|y15=1, 	{{#expr:1+20}}, 	{{#expr:1+20+63}}, 	 	{{#expr:1+20+63+15}}, 	 	{{#expr:1+20+63+15+17}}, 	 	{{#expr:1+20+63+15+17+6}}, 	 	 	{{#expr:1+20+63+15+17+6+6}}, 	 	 	{{#expr:1+20+63+15+17+6+6+2}}, 	 	 	 	{{#expr:1+20+63+15+17+6+6+2+14}}, 	 	{{#expr:1+20+63+15+17+6+6+2+14+5}}, 	 	{{#expr:1+20+63+15+17+6+6+2+14+5+11}}
+|y15Title=	Anasse Kazib (RP)
+|y16=2, 	{{#expr:2+20}}, 	{{#expr:2+20+26}}, 	 	{{#expr:2+20+26+8}}, 	 	{{#expr:2+20+26+8+14}}, 	 	{{#expr:2+20+26+8+14+4}}, 	 	 	{{#expr:2+20+26+8+14+4+15}}, 	 	 	{{#expr:2+20+26+8+14+4+15+8}}, 	 	 	 	{{#expr:2+20+26+8+14+4+15+8+17}}, 	 	{{#expr:2+20+26+8+14+4+15+8+17+10}}, 	 	{{#expr:2+20+26+8+14+4+15+8+17+10+15}}
+|y16Title=	Hélène Thouy (PA)
+|y17=0, 	{{#expr:0+2}}, 	{{#expr:0+2+21}}, 	 	{{#expr:0+2+21+4}}, 	 	 	{{#expr:0+2+21+4+1}}, 	 	 	{{#expr:0+2+21+4+1+3}}, 	 	 	{{#expr:0+2+21+4+1+3+7}}, 	 	 	{{#expr:0+2+21+4+1+3+7+11}}, 	 	 	 	{{#expr:0+2+21+4+1+3+7+11+23}}, 	 	{{#expr:0+2+21+4+1+3+7+11+23+19}}, 	 	 	{{#expr:0+2+21+4+1+3+7+11+23+19+16}},
+|y17Title=	Gaspard Koenig (S)
+| hannotatonslabel = required signatures
+| hannotatonsline = 500
+|colors= #0066CC, #FFD600, #ED1651, #AA0000, #DD0000, #034EA1, green, #C9462C, #0B0B66, #0087CD, #004A77, #AA0000, #057C85, #039e57, #AA0000, #9c0c99, gold
+}}
+
+===Electorate===
+{| class="wikitable sortable" style="font-size:90%; text-align:center"
+! colspan="15"| Sociology of the electorate
+|-
+! scope="col" colspan="2" rowspan="2" class="unsortable" style="width:180px;"| Demographic
+! scope="col" colspan="2" style="width:60px;"| [[Nathalie Arthaud|Arthaud]]/<br />[[Philippe Poutou|Poutou]]
+! scope="col" style="width:60px;"| [[Jean-Luc Mélenchon|Mélenchon]]
+! scope="col" style="width:60px;"| [[Fabien Roussel|Roussel]]
+! scope="col" style="width:60px;"| [[Yannick Jadot|Jadot]]
+! scope="col" style="width:60px;"| [[Anne Hidalgo|Hidalgo]]
+! scope="col" style="width:60px;"| [[Emmanuel Macron|Macron]]
+! scope="col" style="width:60px;"| [[Valérie Pécresse|Pécresse]]
+! scope="col" style="width:60px;"| [[Jean Lassalle|Lassalle]]
+! scope="col" style="width:60px;"| [[Nicolas Dupont-Aignan|Dupont-Aignan]]
+! scope="col" style="width:60px;"| [[Marine Le Pen|Le Pen]]
+! scope="col" style="width:60px;"| [[Eric Zemmour|Zemmour]]
+! scope="col" rowspan="2" style="width:40px;"| Turnout
+|-
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|New Anticapitalist Party}};"|
+! style="background:{{party color|La France insoumise}};"|
+! style="background:#ED6960;"|
+! style="background:#4A843D;"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|En Marche!}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:#313131;"|
+! style="background:{{party color|Debout la France}};"|
+! style="background:{{party color|National Front (France)}};"|
+! style="background:#B0652F;"|
+|-
+! colspan="2"| Total vote
+| colspan="2"| 1.4%
+| 22.0%
+| 2.3%
+| 4.6%
+| 1.8%
+| style="background:#FFED99;"| '''27.8%'''
+| 4.8%
+| 3.1%
+| 2.1%
+| style="background:#E1E6FF;"| '''23.2%'''
+| 7.1%
+| 73.7%
+|- class="sortbottom"
+! colspan="15"| First-round vote in [[2017 French presidential election|2017]]
+|-
+! style="background:{{party color|La France insoumise}};"|
+! {{nowrap|[[Jean-Luc Mélenchon]]}}
+| colspan="2"| 2%
+| style="background:#F8B3AB;"| '''69%'''
+| style="background:#FFCDBC;"| '''7%'''
+| 3%
+| 2%
+| 6%
+| 0%
+| 3%
+| 1%
+| 6%
+| 1%
+| 81%
+|-
+! style="background:{{party color|Socialist Party (France)}};"|
+! [[Benoit Hamon]]
+| colspan="2"| 2%
+| style="background:#F8B3AB;"| '''46%'''
+| 5%
+| style="background:#D1F2C6;"| '''19%'''
+| 10%
+| 12%
+| 0%
+| 2%
+| 0%
+| 3%
+| 2%
+| 80%
+|-
+! style="background:{{party color|En Marche!}};"|
+! [[Emmanuel Macron]]
+| colspan="2"| 1%
+| style="background:#FBD7D2;"| '''9%'''
+| 1%
+| 5%
+| 3%
+| style="background:#FFED99;"| '''73%'''
+| 2%
+| 1%
+| 0%
+| 3%
+| 2%
+| 84%
+|-
+! style="background:{{party color|Union for a Popular Movement}};"|
+! [[Francois Fillon]]
+| colspan="2"| 0%
+| 2%
+| 0%
+| 3%
+| 0%
+| style="background:#FFED99;"| '''39%'''
+| style="background:#DFEEFF;"| '''21%'''
+| 2%
+| 2%
+| 18%
+| 13%
+| 78%
+|-
+! style="background:{{party color|National Front (France)}};"|
+! [[Marine Le Pen]]
+| colspan="2"| 0%
+| 2%
+| 0%
+| 1%
+| 0%
+| 3%
+| 1%
+| 0%
+| 1%
+| style="background:#C1C9FF;"| '''78%'''
+| style="background:#EDDDCB;"| '''14%'''
+| 79%
+|- class="sortbottom"
+! colspan="15"| Political party
+|-
+! style="background:{{party color|La France insoumise}};"|
+! [[La France Insoumise|LFI]]
+| colspan="2"| 1%
+| style="background:#F8B3AB;"| '''95%'''
+| 0%
+| 0%
+| 0%
+| 1%
+| 0%
+| 0%
+| 0%
+| style="background:#E1E6FF;"|'''3%'''
+| 0%
+| 78%
+|-
+! style="background:{{party color|Socialist Party (France)}};"|
+! [[Socialist Party (France)|PS]]
+| colspan="2"| 1%
+| style="background:#F8B3AB;"| '''37%'''
+| 6%
+| 4%
+| 18%
+| style="background:#FFF7CE;"| '''28%'''
+| 0%
+| 1%
+| 0%
+| 5%
+| 0%
+| 76%
+|-
+! style="background:{{party color|Europe Ecology – The Greens}};"|
+! [[Europe Ecology – The Greens|EELV]]
+| colspan="2"| 1%
+| style="background:#FBD7D2;"| '''30%'''
+| 1%
+| style="background:#7AD964;"| '''50%'''
+| 1%
+| 13%
+| 1%
+| 1%
+| 0%
+| 2%
+| 0%
+| 79%
+|-
+! style="background:{{party color|En Marche!}};"|
+! [[Renaissance (French political party)|LREM]]-[[Democratic Movement (France)|MoDem]]
+| colspan="2"| 1%
+| style="background:#FBD7D2;"| '''3%'''
+| 1%
+| 0%
+| 0%
+| style="background:#FFED99;"| '''91%'''
+| 1%
+| 1%
+| 0%
+| 2%
+| 0%
+| 82%
+|-
+! style="background:{{party color|The Republicans (France)}};"|
+! [[The Republicans (France)|LR]]-[[Union of Democrats and Independents|UDI]]
+| colspan="2"| 0%
+| 2%
+| 0%
+| 0%
+| 0%
+| style="background:#FFF7CE;"| '''25%'''
+| style="background:#B9DAFF;"| '''37%'''
+| 4%
+| 2%
+| 20%
+| 10%
+| 79%
+|-
+! style="background:{{party color|National Front (France)}};"|
+! [[National Front (France)|FN]]
+| colspan="2"| 0%
+| 1%
+| 0%
+| 0%
+| 0%
+| 1%
+| 0%
+| 1%
+| 1%
+| style="background:#C1C9FF;"| '''94%'''
+| style="background:#EDDDCB;"| '''2%'''
+| 80%
+|-
+! style="background:{{party color|Reconquête (political party)}};"|
+! [[Reconquête|REC]]
+| colspan="2"| 0%
+| 0%
+| 0%
+| 0%
+| 0%
+| 0%
+| 0%
+| 3%
+| 0%
+| style="background:#E1E6FF;"| '''7%'''
+| style="background:#F0BE83;"| '''90%'''
+| 77%
+|-
+! style="background:{{party color|Independent}};"|
+! None
+| colspan="2"| 3%
+| 21%
+| 2%
+| 3%
+| 1%
+| style="background:#FFED99;"| '''29%'''
+| 3%
+| 8%
+| 2%
+| style="background:#E1E6FF;"|'''24%'''
+| 4%
+| 64%
+|- class="sortbottom"
+! colspan="15"| Sex
+|-
+! colspan="2"| Men
+| colspan="2"| 1%
+| 22%
+| 2%
+| 4%
+| 1%
+| style="background:#FFED99;"| '''27%'''
+| 5%
+| 4%
+| 2%
+| style="background:#E1E6FF;"| '''23%'''
+| 9%
+| 73%
+|-
+! colspan="2"| Women
+| colspan="2"| 2%
+| 22%
+| 3%
+| 5%
+| 2%
+| style="background:#FFED99;"| '''29%'''
+| 4%
+| 3%
+| 2%
+| style="background:#E1E6FF;"|'''23%'''
+| 5%
+| 75%
+|- class="sortbottom"
+! colspan="15"| Age
+|-
+! colspan="2"| 18–24 years old
+| colspan="2"| 1%
+| style="background:#F8B3AB;"| '''34%'''
+| 2%
+| 6%
+| 1%
+| 20%
+| 2%
+| 1%
+| 0%
+| style="background:#E1E6FF;"| '''25%'''
+| 8%
+| 58%
+|-
+! colspan="2"| 25–34 years old
+| colspan="2"| 3%
+| style="background:#F8B3AB;"| '''36%'''
+| 0%
+| 4%
+| 1%
+| 22%
+| 3%
+| 2%
+| 0%
+| style="background:#E1E6FF;"| '''24%'''
+| 5%
+| 54%
+|-
+! colspan="2"| 35–49 years old
+| colspan="2"| 3%
+| style="background:#FBD7D2;"| '''24%'''
+| 3%
+| 5%
+| 2%
+| style="background:#FFF7CE;"| '''24%'''
+| 2%
+| 4%
+| 2%
+| style="background:#C1C9FF;"| '''27%'''
+| 4%
+| 78%
+|-
+! colspan="2"| 50–59 years old
+| colspan="2"| 0%
+| style="background:#FBD7D2;"| '''24%'''
+| 2%
+| 4%
+| 1%
+| 23%
+| 3%
+| 4%
+| 2%
+| style="background:#C1C9FF;"| '''30%'''
+| 7%
+| 80%
+|-
+! colspan="2"| 60–69 years old
+| colspan="2"| 1%
+| 18%
+| 3%
+| 5%
+| 2%
+| style="background:#FFED99;"| '''30%'''
+| 4%
+| 4%
+| 2%
+| style="background:#E1E6FF;"| '''22%'''
+| 9%
+| 88%
+|-
+! colspan="2"| 70 or older
+| colspan="2"| 1%
+| 9%
+| 2%
+| 4%
+| 3%
+| style="background:#FFED99;"| '''41%'''
+| 12%
+| 2%
+| 3%
+| style="background:#E1E6FF;"| '''13%'''
+| 10%
+| 77%
+|- class="sortbottom"
+! colspan="15"| Socio-occupational classification
+|-
+! colspan="2"| Manager/professional
+| colspan="2"| 1%
+| style="background:#FBD7D2;"| '''27%'''
+| 1%
+| 6%
+| 3%
+| style="background:#FFED99;"| '''34%'''
+| 6%
+| 4%
+| 2%
+| 11%
+| 5%
+| 74%
+|-
+! colspan="2"| Intermediate occupation
+| colspan="2"| 0%
+| style="background:#F8B3AB;"| '''27%'''
+| 4%
+| 5%
+| 2%
+| style="background:#FFED99;"| '''27%'''
+| 3%
+| 4%
+| 1%
+| 24%
+| 3%
+| 73%
+|-
+! colspan="2"| White-collar worker
+| colspan="2"| 2%
+| style="background:#FBD7D2;"| '''27%'''
+| 1%
+| 4%
+| 2%
+| 17%
+| 2%
+| 2%
+| 2%
+| style="background:#C1C9FF;"| '''35%'''
+| 6%
+| 73%
+|-
+! colspan="2"| Blue-collar worker
+| colspan="2"| 2%
+| style="background:#FBD7D2;"| '''25%'''
+| 2%
+| 2%
+| 0%
+| 17%
+| 2%
+| 3%
+| 3%
+| style="background:#C1C9FF;"| '''35%'''
+| 9%
+| 67%
+|-
+! colspan="2"| Retired
+| colspan="2"| 1%
+| 13%
+| 3%
+| 4%
+| 2%
+| style="background:#FFED99;"| '''37%'''
+| 9%
+| 3%
+| 3%
+| style="background:#E1E6FF;"| 17%
+| 8%
+| 81%
+|- class="sortbottom"
+! colspan="15"| Employment status
+|-
+! colspan="2"| Employee
+| colspan="2"| 2%
+| style="background:#FBD7D2;"| '''26%'''
+| 2%
+| 4%
+| 2%
+| 24%
+| 3%
+| 3%
+| 2%
+| style="background:#C1C9FF;"| '''27%'''
+| 5%
+| 71%
+|-
+! colspan="2"| ''Private employee''
+| colspan="2"| 1%
+| 25%
+| 2%
+| 3%
+| 1%
+| style="background:#FFF7CE;"| '''26%'''
+| 4%
+| 3%
+| 2%
+| style="background:#C1C9FF;"| '''27%'''
+| 6%
+| 69%
+|-
+! colspan="2"| ''Public employee''
+| colspan="2"| 1%
+| style="background:#F8B3AB;"| '''27%'''
+| 3%
+| 7%
+| 2%
+| 22%
+| 2%
+| 4%
+| 1%
+| style="background:#C1C9FF;"| '''27%'''
+| 4%
+| 75%
+|-
+! colspan="2"| Self-employed
+| colspan="2"| 2%
+| style="background:#F8B3AB;"| '''27%'''
+| 0%
+| 8%
+| 0%
+| style="background:#FFF7CE"| '''26%'''
+| 2%
+| 4%
+| 3%
+| 18%
+| 10%
+| 76%
+|-
+! colspan="2"| Unemployed
+| colspan="2"| 2%
+| style="background:#F8B3AB;"| '''37%'''
+| 1%
+| 2%
+| 2%
+| 12%
+| 1%
+| 3%
+| 5%
+| style="background:#E1E6FF;"|'''28%'''
+| 7%
+| 65%
+|- class="sortbottom"
+! colspan="15"| Education
+|-
+! colspan="2"| Less than baccalauréat
+| colspan="2"| 2%
+| 16%
+| 2%
+| 4%
+| 1%
+| style="background:#FFF7CE;"| '''23%'''
+| 5%
+| 3%
+| 3%
+| style="background:#C1C9FF;"| '''34%'''
+| 7%
+| 76%
+|-
+! colspan="2"| Baccalauréat
+| colspan="2"| 0%
+| 24%
+| 3%
+| 3%
+| 1%
+| style="background:#FFF7CE;"| '''25%'''
+| 4%
+| 4%
+| 2%
+| style="background:#C1C9FF;"| '''26%'''
+| 8%
+| 72%
+|-
+! colspan="2"| Bac +2
+| colspan="2"| 0%
+| 18%
+| 2%
+| 5%
+| 2%
+| style="background:#FFED99;"| '''31%'''
+| 6%
+| 4%
+| 1%
+| style="background:#E1E6FF;"|'''23%'''
+| 8%
+| 75%
+|-
+! colspan="2"| At least bac +3
+| colspan="2"| 2%
+| style="background:#FBD7D2;"| '''28%'''
+| 2%
+| 7%
+| 2%
+| style="background:#FFED99;"| '''32%'''
+| 5%
+| 3%
+| 2%
+| 12%
+| 5%
+| 73%
+|- class="sortbottom"
+! colspan="15"| Monthly household income
+|-
+! colspan="2"| Less than €1,250
+| colspan="2"| 1%
+| style="background:#FBD7D2;"| '''30%'''
+| 1%
+| 5%
+| 1%
+| 13%
+| 2%
+| 2%
+| 4%
+| style="background:#C1C9FF;"| '''31%'''
+| 10%
+| 66%
+|-
+! colspan="2"| €1,250 to €2,000
+| colspan="2"| 2%
+| style="background:#F8B3AB;"| '''27%'''
+| 3%
+| 5%
+| 1%
+| 23%
+| 3%
+| 3%
+| 1%
+| style="background:#E1E6FF;"| '''25%'''
+| 7%
+| 71%
+|-
+! colspan="2"| €2,000 to €3,000
+| colspan="2"| 0%
+| 20%
+| 3%
+| 5%
+| 1%
+| style="background:#FFF7CE;"| '''26%'''
+| 5%
+| 3%
+| 3%
+| style="background:#C1C9FF;"| '''27%'''
+| 7%
+| 75%
+|-
+! colspan="2"| More than €3,000
+| colspan="2"| 1%
+| 19%
+| 2%
+| 4%
+| 2%
+| style="background:#FFED99;"| '''34%'''
+| 6%
+| 4%
+| 2%
+| style="background:#E1E6FF;"| '''19%'''
+| 7%
+| 77%
+|- class="sortbottom"
+! colspan="15"| Moment of choice of vote
+|-
+! colspan="2"| Several months ago
+| colspan="2"| 1%
+| 16%
+| 2%
+| 4%
+| 1%
+| style="background:#FFED99;"| '''35%'''
+| 5%
+| 2%
+| 1%
+| style="background:#E1E6FF;"| '''24%'''
+| 9%
+| ''N/A''
+|-
+! colspan="2"| A few weeks ago
+| colspan="2"| 1%
+| style="background:#F8B3AB;"| '''30%'''
+| 3%
+| 5%
+| 3%
+| 22%
+| 3%
+| 4%
+| 2%
+| style="background:#E1E6FF;"|'''24%'''
+| 3%
+| ''N/A''
+|-
+! colspan="2"| In the last few days/final moment
+| colspan="2"| 2%
+| style="background:#F8B3AB;"| '''33%'''
+| 4%
+| 7%
+| 2%
+| 12%
+| 5%
+| 7%
+| 4%
+| style="background:#E1E6FF;"|'''20%'''
+| 4%
+| ''N/A''
+|- class="sortbottom"
+! colspan="15"| Agglomeration
+|-
+! colspan="2"| Less than 2,000 inhabitants
+| colspan="2"| 3%
+| 22%
+| 2%
+| 4%
+| 2%
+| style="background:#FFF7CE;"| '''25%'''
+| 3%
+| 4%
+| 3%
+| style="background:#C1C9FF;"| '''26%'''
+| 6%
+| 76%
+|-
+! colspan="2"| 2,000 to 9,999 inhabitants
+| colspan="2"| 1%
+| 20%
+| 3%
+| 5%
+| 1%
+| style="background:#FFF7CE;"| '''22%'''
+| 2%
+| 6%
+| 3%
+| style="background:#C1C9FF;"| '''28%'''
+| 9%
+| 76%
+|-
+! colspan="2"| 10,000 to 49,000 inhabitants
+| colspan="2"| 1%
+| 19%
+| 2%
+| 4%
+| 2%
+| style="background:#FFED99;"| '''31%'''
+| 7%
+| 4%
+| 1%
+| style="background:#E1E6FF;"|'''23%'''
+| 6%
+| 76%
+|-
+! colspan="2"| 50,000 to 199,999 inhabitants
+| colspan="2"| 0%
+| 18%
+| 2%
+| 5%
+| 2%
+| style="background:#FFED99;"| '''35%'''
+| 6%
+| 1%
+| 2%
+| style="background:#E1E6FF;"|'''24%'''
+| 6%
+| 74%
+|-
+! colspan="2"| More than 200,000 inhabitants 
+| colspan="2"| 1%
+| style="background:#FBD7D2;"| '''25%'''
+| 2%
+| 5%
+| 1%
+| style="background:#FFED99;"| '''29%'''
+| 5%
+| 3%
+| 2%
+| 19%
+| 8%
+| 71%
+|- class="sortbottom"
+! colspan="15"| Religion
+|-
+! colspan="2"| Catholic
+| colspan="2"| 1%
+| 12%
+| 2%
+| 4%
+| 1%
+| style="background:#FFED99;"| '''31%'''
+| 7%
+| 3%
+| 2%
+| style="background:#E1E6FF;"|'''27%'''
+| 10%
+|''N/A''
+|-
+! colspan="2"| ''Regular practitioner''
+| colspan="2"| 1%
+| 6%
+| 2%
+| 4%
+| 2%
+| style="background:#FFED99;"| '''34%'''
+| 14%
+| 3%
+| 6%
+| 9%
+| style="background:#EDDDCB;"|'''19%'''
+| ''N/A''
+|-
+! colspan="2"| ''Occasional practitioner''
+| colspan="2"| 0%
+| 15%
+| 2%
+| 6%
+| 0%
+| style="background:#FFED99;"| '''30%'''
+| 9%
+| 3%
+| 3%
+| style="background:#E1E6FF;"|'''19%'''
+| 13%
+| ''N/A''
+|-
+! colspan="2"| ''Non-practitioner''
+| colspan="2"| 1%
+| 11%
+| 2%
+| 4%
+| 1%
+| style="background:#FFED99;"| '''31%'''
+| 6%
+| 4%
+| 2%
+| style="background:#E1E6FF;"|'''30%'''
+| 8%
+| ''N/A''
+|-
+! colspan="2"| Others
+| colspan="2"| 1%
+| style="background:#F8B3AB;"| '''38%'''
+| 1%
+| 6%
+| 2%
+| style="background:#FFF7CE;"| '''22%'''
+| 7%
+| 2%
+| 5%
+| 12%
+| 4%
+| ''N/A''
+|-
+! colspan="2"| None
+| colspan="2"| 2%
+| style="background:#F8B3AB;"| '''32%'''
+| 3%
+| 5%
+| 2%
+| style="background:#FFF7CE;"| '''24%'''
+| 2%
+| 3%
+| 1%
+| 21%
+| 5%
+| ''N/A''
+|- class="sortbottom"
+! colspan="2" rowspan="2"| Demographic
+! style="background:{{party color|Lutte Ouvrière}};"|
+! style="background:{{party color|New Anticapitalist Party}};"|
+! style="background:{{party color|La France insoumise}};"|
+! style="background:#ED6960;"|
+! style="background:#4A843D;"|
+! style="background:{{party color|Socialist Party (France)}};"|
+! style="background:{{party color|En Marche!}};"|
+! style="background:{{party color|The Republicans (France)}};"|
+! style="background:#313131;"|
+! style="background:{{party color|Debout la France}};"|
+! style="background:{{party color|National Front (France)}};"|
+! style="background:#B0652F;"|
+! scope="col" rowspan="2" style="width:60px;"| Turnout
+|- class="sortbottom"
+! scope="col" colspan="2" style="width:60px;"| [[Nathalie Arthaud|Arthaud]]/<br />[[Philippe Poutou|Poutou]]
+! scope="col" style="width:60px;"| [[Jean-Luc Mélenchon|Mélenchon]]
+! scope="col" style="width:60px;"| [[Fabien Roussel|Roussel]]
+! scope="col" style="width:60px;"| [[Yannick Jadot|Jadot]]
+! scope="col" style="width:60px;"| [[Anne Hidalgo|Hidalgo]]
+! scope="col" style="width:60px;"| [[Emmanuel Macron|Macron]]
+! scope="col" style="width:60px;"| [[Valérie Pécresse|Pécresse]]
+! scope="col" style="width:60px;"| [[Jean Lassalle|Lassalle]]
+! scope="col" style="width:60px;"| [[Nicolas Dupont-Aignan|Dupont-Aignan]]
+! scope="col" style="width:60px;"| [[Marine Le Pen|Le Pen]]
+! scope="col" style="width:60px;"| [[Eric Zemmour|Zemmour]]
+|- class="sortbottom"
+! colspan="15"| Sociology of the electorate
+|- class="sortbottom"
+| colspan="15"| Source: Ipsos France<ref>{{cite web|title=Presidentielle 2022:Sociologie de l'électorat|url=https://www.ipsos.com/fr-fr/presidentielle-2022/1er-tour-abstentionnistes-sociologie-electorat#:~:text=Qui%20a%20vot%C3%A9%20pour%20qui,10.04.22|publisher=Ipsos France|access-date=14 November 2023}}</ref>
+|}
+
+==Second round==
+===Endorsements===
+Arthaud and Lassalle both said they would vote blank, with Lassalle saying that he trusted the French people to do what is right.<ref name="midilibre">{{cite news |last1=Marcellin |first1=Joffrey |date=11 April 2022 |title=Présidentielle 2022 : 'Personnellement, je voterai blanc' au second tour, annonce Jean Lassalle |work=Midi Libre |url=https://www.midilibre.fr/2022/04/11/presidentielle-2022-personnellement-je-voterai-blanc-au-second-tour-annonce-jean-lassalle-10229831.php |url-status=live |access-date=12 April 2022 |archive-url=https://web.archive.org/web/20220411193824/https://www.midilibre.fr/2022/04/11/presidentielle-2022-personnellement-je-voterai-blanc-au-second-tour-annonce-jean-lassalle-10229831.php |archive-date=11 April 2022}}</ref> Mélenchon and Poutou<ref name="poutou-endorse" /> stated their opposition to Le Pen but did not endorse Macron.<ref name="france24-endorse" /><ref name="roussel-endorse" /><ref name="roussel-tweet" /> Hidalgo, Jadot, Pécresse and Roussel all supported Macron.
+{| class="wikitable"
+|-
+! Candidate
+! colspan="2" | Endorsement
+|-
+| [[Anne Hidalgo]]
+| style="background-color: {{party color|La République En Marche!}};" |
+|[[Emmanuel Macron]]<ref name="france24-endorse" />
+|-
+| [[Yannick Jadot]]
+| style="background-color: {{party color|La République En Marche!}};" |
+| [[Emmanuel Macron]]<ref name="france24-endorse" /><ref>{{Cite tweet|number=1513251958177607684|user=yjadot|title=Ce soir, en responsabilité, j'appelle les électeurs et les électrices à faire battre l'extrême droite en votant pour Emmanuel Macron le 24 avril prochain.}}</ref>
+|-
+| [[Valérie Pécresse]]
+| style="background-color: {{party color|La République En Marche!}};" |
+| [[Emmanuel Macron]]<ref name="france24-endorse" /><ref>{{Cite tweet|number=1513230588483878916|user=vpecresse|title=Je voterai en conscience E.Macron pour empêcher l'arrivée au pouvoir de M.Le Pen et le chaos qui en résulterait.}}</ref>
+|-
+| [[Fabien Roussel]]
+| style="background-color: {{party color|La République En Marche!}};" |
+| [[Emmanuel Macron]]<ref name="roussel-endorse">{{Cite web |title=Présidentielle: Roussel appelle à faire barrage pour "battre l'extrême droite", sans nommer Macron |url=https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-roussel-appelle-a-faire-barrage-pour-battre-l-extreme-droite-sans-nommer-macron_AN-202204100295.html |url-status=live |archive-url=https://web.archive.org/web/20220411074926/https://www.bfmtv.com/politique/elections/presidentielle/presidentielle-roussel-appelle-a-faire-barrage-pour-battre-l-extreme-droite-sans-nommer-macron_AN-202204100295.html |archive-date=11 April 2022 |access-date=12 April 2022 |website=BFMTV|date=10 April 2022 }}</ref><ref name="roussel-tweet">{{Cite tweet|number=1513221232493277187|user=Fabien_Roussel|title=J'appelle tous les Français à se servir du seul bulletin à notre disposition pour la battre au second tour.}}</ref>
+|-
+| [[Nicolas Dupont-Aignan]]
+| style="background-color: {{party color|National Rally (France)}};" |
+| [[Marine Le Pen]]<ref>{{cite magazine |last1=Goldhammer |first1=Arthur |date=12 April 2022 |title=In French Election, It's Macron vs. Le Pen in a Showdown for Mélenchon's Voters |url=https://newrepublic.com/article/166072/french-election-macron-vs-le-pen-melenchon-voters |url-status=live |magazine=The New Republic |archive-url=https://web.archive.org/web/20220411190832/https://newrepublic.com/article/166072/french-election-macron-vs-le-pen-melenchon-voters |archive-date=11 April 2022 |access-date=12 April 2022}}</ref>
+|-
+| [[Éric Zemmour]]
+| style="background-color: {{party color|National Rally (France)}};" |
+| [[Marine Le Pen]]<ref name="france24-endorse" />
+|-
+| [[Nathalie Arthaud]]
+| style="background-color: #FFFFFF;" |
+| colspan="2" | No endorsement<ref>{{Cite tweet|number=1513245787039412227|user=n_arthaud|title=Nous avons le choix entre 2 ennemis. Le 24 avril, je voterai blanc.}}</ref><ref>{{cite news |date=11 April 2022 |title=Nous avons le choix entre 2 ennemis. Le 24 avril, je voterai blanc. |work=Paris March |agency=AFP |url=https://www.parismatch.com/Actu/Politique/Nathalie-Arthaud-resultats-premier-tour-presidentielle-2022-1799456 |url-status=live |access-date=12 April 2022 |archive-url=https://web.archive.org/web/20220411072225/https://www.parismatch.com/Actu/Politique/Nathalie-Arthaud-resultats-premier-tour-presidentielle-2022-1799456 |archive-date=11 April 2022}}</ref>
+|-
+| [[Jean Lassalle]]
+| style="background-color: #FFFFFF;" |
+| colspan="2" | No endorsement<ref name="midilibre" /><ref>{{Cite web |title=Archived copy |url=https://www.facebook.com/100044534372013/posts/524472842380524/?d=n |url-status=live |archive-url=https://web.archive.org/web/20220412145955/https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F100044534372013%2Fposts%2F524472842380524%2F%3Fd%3Dn |archive-date=12 April 2022 |access-date=12 April 2022 |website=[[Facebook]]}}</ref>
+|-
+| [[Jean-Luc Mélenchon]]
+| style="background-color: #FFED99;" |
+| Against [[Marine Le Pen|Le Pen]]<ref name="france24-endorse">{{cite news |date=10 April 2022 |title=French Socialist, Green, conservative candidates back Macron in election run-off against Le Pen |publisher=France 24 |url=https://www.france24.com/en/europe/20220410-french-socialist-green-right-wing-candidates-back-macron-in-election-run-off-against-le-pen |url-status=live |access-date=12 April 2022 |archive-url=https://web.archive.org/web/20220411222107/https://www.france24.com/en/europe/20220410-french-socialist-green-right-wing-candidates-back-macron-in-election-run-off-against-le-pen |archive-date=11 April 2022}}</ref>
+|-
+| [[Philippe Poutou]]
+| style="background-color: #FFED99;" |
+| Against [[Marine Le Pen|Le Pen]]<ref name="poutou-endorse">{{cite web |date=10 April 2022 |title=Déclaration de Philippe Poutou au soir du 1er tour de l'élection présidentielle |url=https://lanticapitaliste.org/arguments/politique/declaration-de-philippe-poutou-au-soir-du-1er-tour-de-lelection-presidentielle |url-status=live |archive-url=https://web.archive.org/web/20220411013621/https://lanticapitaliste.org/arguments/politique/declaration-de-philippe-poutou-au-soir-du-1er-tour-de-lelection-presidentielle |archive-date=11 April 2022 |access-date=12 April 2022 |website=l'Anticapitaliste}}</ref>
+|}
+
+===Campaign===
+On 14 April 2022, Le Pen said if elected she would hold a [[referendum]] on whether to reinstate [[capital punishment in France]], if such a proposal garnered enough signatures under the [[Citizens' initiative referendum (France)|citizens' initiative referendum]] system she wants to implement.<ref>{{cite news |last=Samuel |first=Henry |date=14 April 2022 |title=Marine Le Pen: I would hold a referendum on reinstating the death penalty |language=en-GB |work=The Telegraph |url=https://www.telegraph.co.uk/world-news/2022/04/14/marine-le-pen-would-hold-referendum-reinstating-death-penalty/ |access-date=24 April 2022 |issn=0307-1235}}</ref><ref>{{cite web |title=Le Pen is willing to hold death penalty referendum if she is elected |url=https://www.independent.ie/world-news/europe/le-pen-is-willing-to-hold-death-penalty-referendum-if-she-is-elected-41555474.html |access-date=24 April 2022 |website=The Independent |language=en|author=Samuel, Henry|date=April 15, 2022}}</ref> Le Pen had also campaigned for a ban on wearing [[Hijab|Muslim headscarves]] in public.<ref>{{Cite news |last=Samuel |first=Henry |date=15 April 2022 |title='I'll ban the Muslim headscarf in public' says Marine Le Pen as veil enters French presidential race |language=en-GB |work=The Telegraph |url=https://www.telegraph.co.uk/world-news/2022/04/15/ban-muslim-headscarf-public-says-marine-le-pen-veil-enters-french/ |access-date=24 April 2022 |issn=0307-1235}}</ref><ref>{{Cite web |date=15 April 2022 |title=Macron clashes with Le Pen over Islamic headscarf ban |url=https://www.france24.com/en/live-news/20220415-macron-clashes-with-le-pen-over-islamic-headscarf-ban |access-date=24 April 2022 |website=France 24 |language=en}}</ref>
+
+On 20 April, the only election debate of the campaign (moderated by [[Léa Salamé]] and [[Gilles Bouleau]]) to feature both major candidates was held. Polls conducted after the debate to ascertain which candidate performed best, showed that 59% of viewers thought that Macron had performed better, compared to 39% for Le Pen.<ref>{{Cite web |date=21 April 2022 |title=Macron comes out on top in French election TV debate with Le Pen |url=https://www.theguardian.com/world/2022/apr/21/macron-comes-out-on-top-in-french-election-tv-debate-with-le-pen |access-date=24 April 2022 |website=The Guardian |language=en}}</ref><ref>{{Cite news |last=Rose |first=Michel |date=2022-04-22 |title=Analysis: Macron cements French presidential frontrunner status with combative debate performance |language=en |work=Reuters |url=https://www.reuters.com/world/europe/macron-cements-french-presidential-frontrunner-status-with-combative-debate-2022-04-21/ |access-date=2022-04-25}}</ref> The election brought together new alliances of protest movements, concerned with issues such as police brutality, racism, feminism and climate change, which held a large demonstration before the poll.<ref>{{Cite web |last=Duriex |first=Sarah |date=2024-12-11 |title=From Struggle to Victory: The Role of Civil Society in the Last French Election |url=https://commonslibrary.org/from-struggle-to-victory-the-role-of-civil-society-in-the-last-french-election/ |access-date=2025-01-29 |website=The Commons Social Change Library |language=en-AU}}</ref>
+
+===Candidates===
+{| class="wikitable" style="font-size:90%; text-align:center"
+|-
+| colspan="2" style="background:#f1f1f1;" | <big>'''Candidates in the second round'''</big>
+|-
+! style="width:3em; font-size:135%; background:{{party color|La République En Marche!}}; width:200px;"|{{colored link|black|Emmanuel Macron}}
+! style="width:3em; font-size:135%; background:{{party color|National Rally (France)}}; width:200px;"|{{colored link|white|Marine Le Pen}}
+|- style="color:#000; font-size:100%; background:lightsteelblue;"
+| style="width:3em; width:200px; background:#FFED99;"|'''''{{colored link|black|La République En Marche!}}'''''
+| style="width:3em; width:200px; background:#E0E5F0;"|'''''{{colored link|black|National Rally (France)|National Rally}}'''''
+|-
+| [[File:Emmanuel Macron June 2022 (cropped).jpg|center|x150px|border]]
+| [[File:Marine Le Pen 2022 (cropped).jpg|x150px|border]]
+|-
+| [[Incumbent]]<br/>[[President of France]]<br />(2017–present)
+| [[Deputy (France)|Member of the National Assembly]]<br />for [[Pas-de-Calais's 11th constituency|Pas-de-Calais]]<br />(2017–present)
+|}
+
+==Opinion polls==
+{{see also|Opinion polling for the 2022 French presidential election|Opinion polling on the Emmanuel Macron presidency}}
+The trendlines below are constructed using [[local regression]]s.<ref>{{cite web|title=POLITICO Poll of Polls — French polls, trends and election news for France|url=https://www.politico.eu/europe-poll-of-polls/france/|access-date=1 February 2022|website=POLITICO|language=en-US|archive-date=1 February 2022|archive-url=https://web.archive.org/web/20220201130021/https://www.politico.eu/europe-poll-of-polls/france/|url-status=live}}</ref>
+
+===First round===
+[[File:Opinion polls France 2022.svg|1000px]]
+
+===Second round===
+[[File:Opinion polls Macron-Le Pen 2022.svg|1000px]]
+
+== Results ==
+{{See also|2022 French presidential election in New Caledonia}}
+{{Wikinews|Macron defeats Le Pen in French presidential runoff election}}{{row hover highlight}}Macron was re-elected with 58.55% of the vote to 41.45% for Le Pen in the second round of the election.<ref name="results">{{Cite web |title=Election présidentielle 2022 |url=https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/FE.html |access-date=24 April 2022 |website=www.resultats-elections.interieur.gouv.fr}}</ref> [[Exit poll]] projections by [[Ipsos]] and [[Sopra Steria]] for [[France Télévisions]] and [[Radio France]], released as voting closed, estimated that Macron defeated Le Pen with 58.2% of the vote to 41.8%.<ref>{{cite news |date=24 April 2022 |title=Macron wins French presidential election |language=en |work=Le Monde |url=https://www.lemonde.fr/en/politics/article/2022/04/24/macron-wins-french-presidential-election_5981506_5.html |access-date=24 April 2022}}</ref> He became the first French president to win re-election since [[Jacques Chirac]] in [[2002 French presidential election|2002]].<ref>{{Cite web |title=Macron beats Le Pen in French election – projections |url=https://www.bbc.co.uk/news/live/world-europe-61151604 |access-date=24 April 2022 |website=BBC News |date=24 April 2022 |language=en-gb}}</ref><ref name="NYT0424">{{Cite news |last=Cohen |first=Roger |date=24 April 2022 |title=Emmanuel Macron is re-elected French president, defeating Marine Le Pen. |language=en-US |work=The New York Times |url=https://www.nytimes.com/2022/04/24/world/europe/emmanuel-macron-france-election-marine-le-pen.html |access-date=24 April 2022 |issn=0362-4331}}</ref><ref>{{Cite web |title=Macron projected to win reelection as French president, defeating Le Pen |url=https://www.cbsnews.com/news/france-presidential-election-emmanuel-macron-marine-le-pen/ |access-date=24 April 2022 |website=www.cbsnews.com |language=en-US}}</ref> The projections, based on actual ballot papers, also showed that 28% of registered voters did not show up to the second round,<ref name="wapo0424">{{Cite news |title=France's Macron wins presidency, holding off Le Pen's far-right threat to upend Europe and relations with Russia |language=en-US |newspaper=Washington Post |url=https://www.washingtonpost.com/world/2022/04/24/french-election-2022-results/ |access-date=24 April 2022 |issn=0190-8286|author1=Noack, Rick|author2=Birnbaum, Michael|author3=Petit, Elie|date=April 24, 2022}}</ref> making it the lowest turnout since [[1969 French presidential election|1969]].<ref name="smh0424" /> Official results showed that the turnout was 71.99%, with over 13 million abstentions in the second round, in addition to over 8.6% of ballots cast being blank or invalid (a marked increase over the first round).<ref name="results" />
+
+{{Election results
+
+|cand1=[[Emmanuel Macron]]|party1=[[La République En Marche!]]|votes1=9783058|votes1_2=18768639
+|cand2=[[Marine Le Pen]]|party2=[[National Rally]]|votes2=8133828|votes2_2=13288686
+|cand3=[[Jean-Luc Mélenchon]]|party3=[[La France Insoumise]]|votes3=7712520
+|cand4=[[Éric Zemmour]]|party4=[[Reconquête]]|votes4=2485226
+|cand5=[[Valérie Pécresse]]|party5=[[The Republicans (France)|The Republicans]]|votes5=1679001
+|cand6=[[Yannick Jadot]]|party6=[[Europe Ecology – The Greens]]|votes6=1627853
+|cand7=[[Jean Lassalle]]|party7=[[Résistons!]]|votes7=1101387
+|cand8=[[Fabien Roussel]]|party8=[[French Communist Party]]|votes8=802422
+|cand9=[[Nicolas Dupont-Aignan]]|party9=[[Debout la France]]|votes9=725176
+|cand10=[[Anne Hidalgo]]|party10=[[Socialist Party (France)|Socialist Party]]|votes10=616478
+|cand11=[[Philippe Poutou]]|party11=[[New Anticapitalist Party]]|votes11=268904
+|cand12=[[Nathalie Arthaud]]|party12=[[Lutte Ouvrière]]|votes12=197094
+|blank=543609|blank2=2233904
+|invalid=247151|invalid2=805249
+|electorate=48747876|electorate2=48752339
+|source=Minister of the Interior<ref>{{cite web |url=https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__presidentielle-2022/(path)/presidentielle-2022/FE.html |title=Résultats de l'élection présidentielle 2022 |archive-url=https://web.archive.org/web/20220507115012/https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__presidentielle-2022/(path)/presidentielle-2022/FE.html |archive-date=7 May 2022 |url-status=live}}</ref>
+}}
+
+=== First round ===
+====Tables====
+{| class="wikitable sortable collapsible collapsed mw-datatable" style="text-align:right; font-size:95%; line-height:20px"
+|+ class="nowrap" | Results by [[Department of France|department]]
+|-
+! width="200" rowspan="3"| [[Departments of France|Department]]
+! width="110" colspan="2"| [[Emmanuel Macron|Emmanuel<br />Macron]]
+! width="110" colspan="2"| [[Marine Le Pen|Marine<br />Le Pen]]
+! width="110" colspan="2"| [[Jean-Luc Mélenchon|Jean-Luc<br />Mélenchon]]
+! width="110" colspan="2"| [[Éric Zemmour|Éric<br />Zemmour]]
+! width="110" colspan="2"| [[Valérie Pécresse|Valérie<br />Pécresse]]
+! width="110" colspan="2"| [[Yannick Jadot|Yannick<br />Jadot]]
+! width="110" colspan="2"| [[Jean Lassalle|Jean<br />Lassalle]]
+! width="110" colspan="2"| [[Fabien Roussel|Fabien<br />Roussel]]
+! width="110" colspan="2"| [[Nicolas Dupont-Aignan|Nicolas<br />Dupont-Aignan]]
+! width="110" colspan="2"| [[Anne Hidalgo|Anne<br />Hidalgo]]
+! width="110" colspan="2"| [[Philippe Poutou|Philippe<br />Poutou]]
+! width="110" colspan="2"| [[Nathalie Arthaud|Nathalie<br />Arthaud]]
+
+|-
+! colspan="2" style="background:{{party color|En Marche!}};"|
+! colspan="2" style="background:{{party color|National Front (France)}};"|
+! colspan="2" style="background:{{party color|La France Insoumise}};"|
+! colspan="2" style="background:{{party color|Reconquête}};"|
+! colspan="2" style="background:{{party color|The Republicans (France)}};"|
+! colspan="2" style="background:{{party color|Europe Ecology – The Greens}};"|
+! colspan="2" style="background:{{party color|Miscellaneous right}};"|
+! colspan="2" style="background:{{party color|French Communist Party}};"|
+! colspan="2" style="background:{{party color|Debout la France}};"|
+! colspan="2" style="background:{{party color|Socialist Party (France)}};"|
+! colspan="2" style="background:{{party color|New Anticapitalist Party}};"|
+! colspan="2" style="background:{{party color|Workers' Struggle}};"|
+
+|-
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+!Votes
+! %
+|-
+| align="left"| [[Ain]]
+| style="background:#FFED99;"|92,206
+| style="background:#FFED99;"|27.69%
+| 86,755
+| 26.05%
+| 57,832
+| 17.37%
+| 27,530
+| 8.27%
+| 17,572
+| 5.28%
+| 15,843
+| 4.76%
+| 10,876
+| 3.27%
+| 5,938
+| 1.78%
+| 8,998
+| 2.70%
+| 5,644
+| 1.69%
+| 2,172
+| 0.65%
+| 1,658
+| 0.50%
+|-
+| align="left"| [[Aisne]]
+| 58,721
+| 22.09%
+| style="background:#C1C9FF;"| 104,342
+|style="background:#C1C9FF;"| 39.25%
+| 41,172
+| 15.49%
+| 18,266
+| 6.87%
+| 10,920
+| 4.11%
+| 7,074
+| 2.66%
+| 6,468
+| 2.43%
+| 5,968
+| 2.24%
+| 5,790
+| 2.18%
+| 2,983
+| 1.12%
+| 2,118
+| 0.80%
+| 2,038
+| 0.77%
+|-
+| align="left"| [[Allier]]
+| 49,706
+| 26.73%
+|style="background:#C1C9FF;"| 50,315
+|style="background:#C1C9FF;"| 27.06%
+| 31,013
+| 16.68%
+| 12,361
+| 6.65%
+| 10,319
+| 5.55%
+| 5,982
+| 3.22%
+| 7,782
+| 4.18%
+| 8,119
+| 4.37%
+| 4,216
+| 2.27%
+| 3,280
+| 1.76%
+| 1,503
+| 0.81%
+| 1,359
+| 0.73%
+|-
+| align="left"| [[Alpes-de-Haute-Provence]]
+| 20,800
+| 21.51%
+| style="background:#C1C9FF;"|26,010
+| style="background:#C1C9FF;"|26.90%
+| 21,856
+| 22.61%
+| 7,926
+| 8.20%
+| 3,834
+| 3.97%
+| 3,957
+| 4.09%
+| 4,309
+| 4.46%
+| 2,721
+| 2.81%
+| 2,504
+| 2.59%
+| 1,396
+| 1.44%
+| 865
+| 0.89%
+| 505
+| 0.52%
+|-
+| align="left"| [[Hautes-Alpes]]
+| style="background:#FFED99;"|20,507
+| style="background:#FFED99;"|23.78%
+| 19,696
+| 22.84%
+| 19,718
+| 22.87%
+| 6,164
+| 7.15%
+| 4,511
+| 5.23%
+| 5,013
+| 5.81%
+| 3,871
+| 4.49%
+| 1,925
+| 2.23%
+| 2,142
+| 2.48%
+| 1,459
+| 1.69%
+| 801
+| 0.93%
+| 428
+| 0.50%
+|-
+| align="left"| [[Alpes-Maritimes]]
+| 139,966
+| 24.99%
+| style="background:#C1C9FF;"|149,219
+| style="background:#C1C9FF;"|26.64%
+| 92,815
+| 16.57%
+| 78,329
+| 13.99%
+| 31,304
+| 5.59%
+| 23,419
+| 4.18%
+| 12,784
+| 2.28%
+| 8,883
+| 1.59%
+| 13,326
+| 2.38%
+| 5,424
+| 0.97%
+| 2,994
+| 0.53%
+| 1,630
+| 0.29%
+|-
+| align="left"| [[Ardèche]]
+| 45,353
+| 23.03%
+| style="background:#C1C9FF;"|49,594
+| style="background:#C1C9FF;"|25.18%
+| 42,837
+| 21.75%
+| 14,199
+| 7.21%
+| 9,553
+| 4.85%
+| 8,544
+| 4.34%
+| 9,033
+| 4.59%
+| 5,710
+| 2.90%
+| 4,927
+| 2.50%
+| 4,189
+| 2.13%
+| 1,817
+| 0.92%
+| 1,219
+| 0.62%
+|-
+| align="left"| [[Ardennes (department)|Ardennes]]
+| 31,656
+| 23.64%
+| style="background:#C1C9FF;"|48,242
+| style="background:#C1C9FF;"|36.02%
+| 22,281
+| 16.64%
+| 8,771
+| 6.55%
+| 5,556
+| 4.15%
+| 3,446
+| 2.57%
+| 4,084
+| 3.06%
+| 3,009
+| 2.25%
+| 2,957
+| 2.21%
+| 1,741
+| 1.30%
+| 1,112
+| 0.83%
+| 1,081
+| 0.81%
+|-
+| align="left"| [[Ariège (department)|Ariège]]
+| 18,070
+| 19.71%
+| 21,958
+| 23.94%
+| style="background:#F8B3AB;"|23,908
+| style="background:#F8B3AB;"|26.07%
+| 5,820
+| 6.35% 
+| 2,724
+| 2.97%
+| 3,020
+| 3.29%
+| 7,532
+| 8.21%
+| 2,701
+| 2.95%
+| 1,621
+| 1.77%
+| 3,208
+| 3.50%
+| 723
+| 0.79%
+| 417
+| 0.45%
+|-
+| align="left"| [[Aube]]
+| 38,321
+| 25.60%
+| style="background:#C1C9FF;"| 49,316
+| style="background:#C1C9FF;"| 32.95%
+| 22,483
+| 15.02%
+| 11,374
+| 7.60%
+| 8,923
+| 5.96%
+| 4,619
+| 3.09%
+| 3,787
+| 2.53%
+| 3,094
+| 2.07%
+| 3,966
+| 2.65%
+| 1,720
+| 1.15%
+| 1,062
+| 0.71%
+| 1,005
+| 0.67%
+|-
+| align="left"| [[Aude]]
+| 43,104
+| 20.29%
+| style="background:#C1C9FF;"| 64,027
+| style="background:#C1C9FF;"| 30.14%
+| 42,039
+| 19.79%
+| 18,434
+| 8.68%
+| 7,350
+| 3.46%
+| 6,322
+| 2.98%
+| 12,382
+| 5.83%
+| 5,622
+| 2.65%
+| 4,206
+| 1.98%
+| 6,166
+| 2.90%
+| 1,748
+| 0.82%
+| 1,026
+| 0.48%
+|-
+| align="left"| [[Aveyron]]
+| style="background:#FFED99;"|47,430
+| style="background:#FFED99;"|27.75%
+| 34,357
+| 20.10%
+| 32,734
+| 19.15%
+| 10,112
+| 5.92%
+| 9,988
+| 5.84%
+| 6,746
+| 3.95%
+| 14,825
+| 8.67%
+| 4,515
+| 2.64%
+| 3,477
+| 2.03%
+| 4,470
+| 2.62%
+| 1,354
+| 0.79%
+| 894
+| 0.52%
+|-
+| align="left"| [[Bouches-du-Rhône]]
+| 229,038
+| 22.71%
+| style="background:#C1C9FF;"| 264,754
+| style="background:#C1C9FF;"| 26.25%
+| 237,971
+| 23.59%
+| 108,617
+| 10.77%
+| 36,228
+| 3.59%
+| 42,109
+| 4.17%
+| 24,256
+| 2.40%
+| 24,295
+| 2.41%
+| 20,051
+| 1.99%
+| 11,760
+| 1.17%
+| 5,963
+| 0.59%
+| 3,578
+| 0.35%
+|-
+| align="left"| [[Calvados (department)|Calvados]]
+| style="background:#FFED99;"|120,366
+| style="background:#FFED99;"|31.16%
+| 91,774
+| 23.76%
+| 73,950
+| 19.15%
+| 22,255
+| 5.76%
+| 18,383
+| 4.76%
+| 19,641
+| 5.09%
+| 9,816
+| 2.54%
+| 8,777
+| 2.27%
+| 7,920
+| 2.05%
+| 6,848
+| 1.77%
+| 3,764
+| 0.97%
+| 2,757
+| 0.71%
+|-
+| align="left"| [[Cantal]]
+| style="background:#FFED99;"|25,038
+| style="background:#FFED99;"|28.42%
+| 21,570
+| 24.48%
+| 12,944
+| 14.69%
+| 4,906
+| 5.57%
+| 6,987
+| 7.93%
+| 2,751
+| 3.12%
+| 6,848
+| 7.77%
+| 2,496
+| 2.83%
+| 1,547
+| 1.76%
+| 1,810
+| 2.05%
+| 650
+| 0.74%
+| 555
+| 0.63%
+|-
+| align="left"| [[Charente]]
+| style="background:#FFED99;"|53,126
+| style="background:#FFED99;"|27.57%
+| 50,430
+| 26.18%
+| 37,305
+| 19.36%
+| 10,617
+| 5.51%
+| 8,343
+| 4.33%
+| 7,557
+| 3.92%
+| 8,482
+| 4.40%
+| 5,374
+| 2.79%
+| 4,345
+| 2.26%
+| 4,003
+| 2.08%
+| 1,763
+| 0.92%
+| 1,319
+| 0.68%
+|-
+| align="left"| [[Charente-Maritime]]
+| style="background:#FFED99;"|113,753
+| style="background:#FFED99;"|28.87%
+| 99,790
+| 25.32%
+| 71,633
+| 18.18%
+| 24,347
+| 6.18%
+| 19,316
+| 4.90% 
+| 19,012
+| 4.82%
+| 14,335
+| 3.64
+| 10,002
+| 2.54%
+| 9,289
+| 2.36%
+| 6,857
+| 1.74%
+| 3,403
+| 0.86%
+| 2,330
+| 0.59%
+|-
+| align="left"| [[Cher (department)|Cher]]
+| 43,497
+| 27.10%
+| style="background:#C1C9FF;"|44,772
+| style="background:#C1C9FF;"|27.89%
+| 27,901
+| 17.38%
+| 10,822
+| 6.74%
+| 8,147
+| 5.07%
+| 5,028
+| 3.13%
+| 5,495
+| 3.42%
+| 5,749
+| 3.58%
+| 3,770
+| 2.35%
+| 2,585
+| 1.61%
+| 1,463
+| 0.91%
+| 1,304
+| 0.82%
+|-
+| align="left"| [[Corrèze]]
+| style="background:#FFED99;"|33,125
+| style="background:#FFED99;"|23.23%
+| 31,658
+| 22.20%
+| 27,731
+| 19.45%
+| 8,012
+| 5.62%
+| 12,278
+| 8.61%
+| 5,040
+| 3.53%
+| 10,177
+| 7.14%
+| 6,292
+| 4.41%
+| 2,618
+| 1.84%
+| 3,605
+| 2.53%
+| 1,179
+| 0.83%
+| 885
+| 0.62%
+|-
+| align="left"| [[Corse-du-Sud]]
+| 13,022
+| 18.76%
+| style="background:#C1C9FF;"|20,285
+| style="background:#C1C9FF;"|29.22%
+| 9,412
+| 13.56%
+| 9,279
+| 13.37%
+| 3,808
+| 5.48%
+| 2,281
+| 3.29%
+| 6,807
+| 9.80%
+| 1,866
+| 2.69%
+| 1,226
+| 1.77%
+| 630
+| 0.91%
+| 612
+| 0.88%
+| 198
+| 0.29%
+|-
+| align="left"| [[Haute-Corse]]
+| 13,773
+| 17.54%
+| style="background:#C1C9FF;"|21,998
+| style="background:#C1C9FF;"|28.02%
+| 10,367
+| 13.20%
+| 9,657
+| 12.30%
+| 5,555
+| 7.08%
+| 2,520
+| 3.21%
+| 8,601
+| 10.96%
+| 2,687
+| 3.42%
+| 1,374
+| 1.75%
+| 959
+| 1.22%
+| 762
+| 0.97%
+| 257
+| 0.33%
+|-
+| align="left"| [[Côte-d'Or]]
+| style="background:#FFED99;"|80,734
+| style="background:#FFED99;"|28.55%
+| 69,110
+| 24.44%
+| 53,875
+| 19.05%
+| 21,651
+| 7.66%
+| 14,344
+| 5.07%
+| 13,462
+| 4.76%
+| 8,183
+| 2.89%
+| 5,721
+| 2.02%
+| 6,478
+| 2.29%
+| 5,126
+| 1.81%
+| 2,286
+| 0.81%
+| 1,775
+| 0.63%
+|-
+| align="left"| [[Côtes-d'Armor]]
+| style="background:#FFED99;"|113,656
+| style="background:#FFED99;"|31.02%
+| 79,850
+| 21.79%
+| 74,226
+| 20.26%
+| 17,319
+| 4.73%
+| 17,235
+| 4.70%
+| 19,349
+| 5.28%
+| 11,949
+| 3.26%
+| 11,628
+| 3.17%
+| 6,404
+| 1.75%
+| 8,279
+| 2.26%
+| 3,895
+| 1.06%
+| 2,603
+| 0.71%
+|-
+| align="left"| [[Creuse]]
+| 15,542
+| 23.25%
+| style="background:#C1C9FF;"|16,772
+| style="background:#C1C9FF;"|25.09%
+| 13,679
+| 20.46%
+| 3,501
+| 5.24%
+| 4,391
+| 6.57%
+| 1,906
+| 2.85%
+| 4,275
+| 6.40%
+| 2,430
+| 3.64%
+| 1,556
+| 2.33%
+| 1,641
+| 2.45%
+| 665
+| 0.99%
+| 490
+| 0.73%
+|-
+| align="left"| [[Dordogne]]
+| 58,648
+| 23.74%
+| style="background:#C1C9FF;"|63,498
+| style="background:#C1C9FF;"|25.70%
+| 50,164
+| 20.30%
+| 15,815
+| 6.40%
+| 11,300
+| 4.57%
+| 8,582
+| 3.47%
+| 15,885
+| 6.43%
+| 8,877
+| 3.59%
+| 5,428
+| 2.20%
+| 5,374
+| 2.17%
+| 2,224
+| 0.90%
+| 1,295
+| 0.52%
+|-
+| align="left"| [[Doubs]]
+| style="background:#FFED99;"|76,338
+| style="background:#FFED99;"|27.55%
+| 66,703
+| 24.07%
+| 55,587
+| 20.06%
+| 19,486
+| 7.03%
+| 15,107
+| 5.45%
+| 13,096
+| 4.72%
+| 8,688
+| 3.14%
+| 5,001
+| 1.80%
+| 7,775
+| 2.81%
+| 4,902
+| 1.77%
+| 2,345
+| 0.85%
+| 2,069
+| 0.75%
+|-
+| align="left"| [[Drôme]]
+| style="background:#FFED99;"|72,228
+| style="background:#FFED99;"|24.78%
+| 70,574
+| 24.22%
+| 65,258
+| 22.39%
+| 22,010
+| 7.55%
+| 13,204
+| 4.53%
+| 14,234
+| 4.88%
+| 9,945
+| 3.41%
+| 6,752
+| 2.32%
+| 7,758
+| 2.66%
+| 5,311
+| 1.82%
+| 2,109
+| 0.72%
+| 2,041
+| 0.70%
+|-
+| align="left"| [[Eure]]
+| 83,058
+| 26.05%
+| style="background:#C1C9FF;"|102,952
+| style="background:#C1C9FF;"|32.29%
+| 55,571
+| 17.43%
+| 20,930
+| 6.56%
+| 13,552
+| 4.25%
+| 11,477
+| 3.60%
+| 7,768
+| 2.44%
+| 7,056
+| 2.21%
+| 7,563
+| 2.37%
+| 4,027
+| 1.26%
+| 2,710
+| 0.85%
+| 2,197
+| 0.69%
+|-
+| align="left"| [[Eure-et-Loir]]
+| 59,869
+| 27.21%
+| style="background:#C1C9FF;"|61,960
+| style="background:#C1C9FF;"|28.16%
+| 40,529
+| 18.42%
+| 14,803
+| 6.73%
+| 13,003
+| 5.91%
+| 7,904
+| 3.59%
+| 5,694
+| 2.59%
+| 4,267
+| 1.94%
+| 5,731
+| 2.60%
+| 3,076
+| 1.40%
+| 1,766
+| 0.80%
+| 1,419
+| 0.64%
+|-
+| align="left"| [[Finistère]]
+| style="background:#FFED99;"|174,894
+| style="background:#FFED99;"|32.21%
+| 100,890
+| 18.58%
+| 116,591
+| 21.47%
+| 25,607
+| 4.72%
+| 26,541
+| 4.89%
+| 33,200
+| 6.12%
+| 18,320
+| 3.37%
+| 15,340
+| 2.83%
+| 8,566
+| 1.58%
+| 13,077
+| 2.41%
+| 6,266
+| 1.15%
+| 3,627
+| 0.67%
+|-
+| align="left"| [[Gard]]
+| 88,278
+| 21.32%
+| style="background:#C1C9FF;"|121,480
+| style="background:#C1C9FF;"|29.34%
+| 88,827
+| 21.46%
+| 38,479
+| 9.29%
+| 15,460
+| 3.73%
+| 14,974
+| 3.62%
+| 15,162
+| 3.66%
+| 12,123
+| 2.93%
+| 8,137
+| 1.97%
+| 6,585
+| 1.59%
+| 2,706
+| 0.65%
+| 1,768
+| 0.43%
+|-
+| align="left"| [[Haute-Garonne]]
+| style="background:#FFED99;"|197,049
+| style="background:#FFED99;"|26.90%
+| 133,411
+| 18.21%
+| 189,462
+| 25.87%
+| 50,699
+| 6.92%
+| 27,195
+| 3.71%
+| 42,711
+| 5.83%
+| 35,517
+| 4.85%
+| 16,338
+| 2.23%
+| 12,460
+| 1.70%
+| 19,700
+| 2.69%
+| 4,899
+| 0.67%
+| 3,015
+| 0.41%
+|-
+| align="left"| [[Gers]]
+| style="background:#FFED99;"|28,970
+| style="background:#FFED99;"|24.89%
+| 26,015
+| 22.35%
+| 21,353
+| 18.35%
+| 8,396
+| 7.21%
+| 5,126
+| 4.40%
+| 4,090
+| 3.51%
+| 11,720
+| 10.07%
+| 3,128
+| 2.69%
+| 2,418
+| 2.08%
+| 3,861
+| 3.32%
+| 793
+| 0.68%
+| 529
+| 0.45%
+|-
+| align="left"| [[Gironde]]
+| style="background:#FFED99;"|256,179
+| style="background:#FFED99;"|28.72%
+| 191,542
+| 21.47%
+| 194,775
+| 21.84%
+| 58,321
+| 6.54%
+| 37,575
+| 4.21%
+| 46,677
+| 5.23%
+| 37,725
+| 4.23%
+| 21,522
+| 2.41%
+| 15,693
+| 1.76%
+| 19,598
+| 2.20%
+| 8,734
+| 0.98%
+| 3,679
+| 0.41%
+|-
+| align="left"| [[Hérault]]
+| 142,306
+| 22.28%
+| style="background:#C1C9FF;"|165,734
+| style="background:#C1C9FF;"|25.95%
+| 154,819
+| 24.24%
+| 57,751
+| 9.04%
+| 23,230
+| 3.64%
+| 28,057
+| 4.39%
+| 22,068
+| 3.45%
+| 14,165
+| 2.22%
+| 11,475
+| 1.80%
+| 12,150
+| 1.90%
+| 4,393
+| 0.69%
+| 2,580
+| 0.40%
+|-
+| align="left"| [[Ille-et-Vilaine]]
+| style="background:#FFED99;"|205,882
+| style="background:#FFED99;"|34.50%
+| 101,797
+| 17.06%
+| 132,510
+| 22.20%
+| 27,463
+| 4.60%
+| 26,194
+| 4.39%
+| 42,613
+| 7.14%
+| 13,985
+| 2.34%
+| 12,696
+| 2.13%
+| 10,560
+| 1.77%
+| 13,973
+| 2.34%
+| 5,376
+| 0.90%
+| 3,783
+| 0.63%
+|-
+| align="left"| [[Indre]]
+| 31,498
+| 26.03%
+| style="background:#C1C9FF;"|34,516
+| style="background:#C1C9FF;"|28.53%
+| 20,954
+| 17.32%
+| 7,438
+| 6.15%
+| 6,589
+| 5.45%
+| 3,726
+| 3.08%
+| 4,984
+| 4.12%
+| 3,702
+| 3.06%
+| 2,886
+| 2.39%
+| 2,464
+| 2.04%
+| 1,155
+| 0.95%
+| 1,085
+| 0.90%
+|-
+| align="left"| [[Indre-et-Loire]]
+| style="background:#FFED99;"|101,503 
+| style="background:#FFED99;"|30.99%
+| 70,553
+| 21.54%
+| 68,012
+| 20.77%
+| 19,931
+| 6.09%
+| 16,279
+| 4.97%
+| 16,245
+| 4.96%
+| 8,520
+| 2.60%
+| 7,835
+| 2.39%
+| 7,271
+| 2.22%
+| 6,216
+| 1.90%
+| 2,882
+| 0.88%
+| 2,243
+| 0.68%
+|-
+| align="left"| [[Isère]]
+| style="background:#FFED99;"|180,553
+| style="background:#FFED99;"|26.85%
+| 154,889
+| 23.03%
+| 153,506
+| 22.83%
+| 47,463
+| 7.06%
+| 28,581
+| 4.25%
+| 40,387
+| 6.01%
+| 17,031
+| 2.53%
+| 14,699
+| 2.19%
+| 14,332
+| 2.13%
+| 12,737
+| 1.89%
+| 4,831
+| 0.72%
+| 3,479
+| 0.52%
+|-
+| align="left"| [[Jura (department)|Jura]]
+| 36,138
+| 24.88%
+| style="background:#C1C9FF;"|38,177
+| style="background:#C1C9FF;"|26.29%
+| 28,881
+| 19.89%
+| 9,657
+| 6.65%
+| 7,423
+| 5.11%
+| 6,388
+| 4.40%
+| 6,218
+| 4.28%
+| 3,166
+| 2.18%
+| 4,143
+| 2.85%
+| 2,635
+| 1.81%
+| 1,342
+| 0.92%
+| 1,053
+| 0.73%
+|-
+| align="left"| [[Landes (department)|Landes]]
+| style="background:#FFED99;"|69,459
+| style="background:#FFED99;"|26.92%
+| 58,646
+| 22.73%
+| 44,548
+| 17.26%
+| 16,817
+| 6.52%
+| 10,393
+| 4.03%
+| 8,628
+| 3.34%
+| 24,308
+| 9.42%
+| 8,176
+| 3.17%
+| 4,914
+| 1.90%
+| 9,071
+| 3.52%
+| 1,975
+| 0.77%
+| 1,115
+| 0.43%
+|-
+| align="left"| [[Loir-et-Cher]]
+| style="background:#FFED99;"|50,480
+| style="background:#FFED99;"|27.92%
+| 50,212
+| 27.77%
+| 30,377
+| 16.80%
+| 12,703
+| 7.03%
+| 9,586
+| 5.30%
+| 7,097
+| 3.93%
+| 5,483
+| 3.03%
+| 4,507
+| 2.49%
+| 4,427
+| 2.45%
+| 3,165
+| 1.75%
+| 1,527
+| 0.84%
+| 1,246
+| 0.69%
+|-
+| align="left"| [[Loire (department)|Loire]]
+| style="background:#FFED99;"|104,096
+| style="background:#FFED99;"|26.95%
+| 97,846
+| 25.33%
+| 78,222
+| 20.25%
+| 28,728
+| 7.44%
+| 18,558
+| 4.80%
+| 16,672
+| 4.32%
+| 11,944
+| 3.09%
+| 9,018
+| 2.33%
+| 9,043
+| 2.34%
+| 6,973
+| 1.81%
+| 2,776
+| 0.72%
+| 2,391
+| 0.62%
+|-
+| align="left"| [[Haute-Loire]]
+| 32,417
+| 23.21%
+| style="background:#C1C9FF;"|38,629
+| style="background:#C1C9FF;"|27.66%
+| 24,332
+| 17.42%
+| 9,529
+| 6.82%
+| 9,560
+| 6.85%
+| 5,796
+| 4.16%
+| 7,817
+| 5.60%
+| 3,493
+| 2.50%
+| 3,366
+| 2.41%
+| 2,491
+| 1.78%
+| 1,205
+| 0.86%
+| 1,020
+| 0.73%
+|-
+| align="left"| [[Loire-Atlantique]]
+| style="background:#FFED99;"|256,609
+| style="background:#FFED99;"|31.98%
+| 135,702
+| 16.91%
+| 187,977
+| 23.43%
+| 42,761
+| 5.33%
+| 37,541
+| 4.68%
+| 60,072
+| 7.49%
+| 18,298
+| 2.28%
+| 18,322
+| 2.38%
+| 14,779
+| 1.84%
+| 18,369
+| 2.29%
+| 7,280
+| 0.91%
+| 4,712
+| 0.59%
+|-
+| align="left"| [[Loiret]]
+| style="background:#FFED99;"|97,004
+| style="background:#FFED99;"|28.92%
+| 85,832
+| 25.59%
+| 63,486
+| 18.93%
+| 22,878
+| 6.82%
+| 18,086
+| 5.39%
+| 14,401
+| 4.29%
+| 8,483
+| 2.53%
+| 7,530
+| 2.24%
+| 7,674
+| 2.29%
+| 5,656
+| 1.69%
+| 2,433
+| 0.73%
+| 1,959
+| 0.58%
+|-
+| align="left"| [[Lot (department)|Lot]]
+| style="background:#FFED99;"|27,311
+| style="background:#FFED99;"|24.97%
+| 21,422
+| 19.58%
+| 25,932
+| 23.71%
+| 6,123
+| 5.60%
+| 5,648
+| 5.16%
+| 4,603
+| 4.21%
+| 8,032
+| 7.34%
+| 3,559
+| 3.25%
+| 2,400
+| 2.19%
+| 2,766
+| 2.53%
+| 976
+| 0.89%
+| 618
+| 0.56%
+|-
+| align="left"| [[Lot-et-Garonne]]
+| 42,568
+| 23.12%
+| style="background:#C1C9FF;"|50,290
+| style="background:#C1C9FF;"|27.32%
+| 34,044
+| 18.49%
+| 15,646
+| 8.50%
+| 7,703
+| 4.18%
+| 5,686
+| 3.09%
+| 13,600
+| 7.38%
+| 4,970
+| 2.70%
+| 3,912
+| 2.12%
+| 3,357
+| 1.82%
+| 1,437
+| 0.78%
+| 889
+| 0.48%
+|-
+| align="left"| [[Lozère]]
+| style="background:#FFED99;"|10,739
+| style="background:#FFED99;"|22.85%
+| 10,497
+| 22.34%
+| 9,153
+| 19.48%
+| 3,148
+| 6.70%
+| 3,039
+| 6.46%
+| 1,736
+| 3.69%
+| 4,722
+| 10.05%
+| 1,343
+| 2.86%
+| 913
+| 1.94%
+| 1,045
+| 2.22%
+| 426
+| 0.91%
+| 235
+| 0.50%
+|-
+| align="left"| [[Maine-et-Loire]]
+| style="background:#FFED99;"|157,063
+| style="background:#FFED99;"|35.59%
+| 89,433
+| 20.26%
+| 80,616
+| 18.27%
+| 21,704
+| 4.92%
+| 21,538
+| 4.88%
+| 26,634
+| 6.03%
+| 11,036
+| 2.50%
+| 8,362
+| 1.89%
+| 9,420
+| 2.13%
+| 8,801
+| 1.99%
+| 3,663
+| 0.83%
+| 3,071
+| 0.70%
+|-
+| align="left"| [[Manche]]
+| style="background:#FFED99;"|92,642
+| style="background:#FFED99;"|32.57% 
+| 69,770
+| 24.53%
+| 46,940
+| 16.50%
+| 13,990
+| 4.92%
+| 14,746
+| 5.18%
+| 11,873
+| 4.17%
+| 9,421
+| 3.31%
+| 7,368
+| 2.59%
+| 6,886
+| 2.42%
+| 5,853
+| 2.06%
+| 2,720
+| 0.96%
+| 2,249
+| 0.79%
+|-
+| align="left"| [[Marne (department)|Marne]]
+| 78,472
+| 28.63%
+| style="background:#C1C9FF;"|83,756
+| style="background:#C1C9FF;"|30.56%
+| 42,858
+| 15.64%
+| 19,501
+| 7.11%
+| 14,357
+| 5.24%
+| 9,561
+| 3.49%
+| 6,921
+| 2.52%
+| 5,307
+| 1.94%
+| 6,159
+| 2.25%
+| 3,542
+| 1.29%
+| 1,894
+| 0.69%
+| 1,778
+| 0.65%
+|-
+| align="left"| [[Haute-Marne]]
+| 21,886
+| 23.33%
+| style="background:#C1C9FF;"|34,331
+| style="background:#C1C9FF;"|36.60%
+| 13,228
+| 14.10%
+| 6,450
+| 6.88%
+| 4,841
+| 5.16%
+| 2,580
+| 2.75%
+| 3,327
+| 3.55%
+| 1,833
+| 1.95%
+| 2,584
+| 2.75%
+| 1,305
+| 1.39%
+| 747
+| 0.80%
+| 696
+| 0.74%
+|-
+| align="left"| [[Mayenne]]
+| style="background:#FFED99;"|60,755
+| style="background:#FFED99;"|36.40%
+| 37,376
+| 22.39%
+| 25,608
+| 15.34%
+| 8,042
+| 4.82%
+| 9,236
+| 5.53%
+| 7,934
+| 4.75%
+| 4,673
+| 2.80%
+| 3,313
+| 1.98%
+| 3,858
+| 2.31%
+| 3,468
+| 2.08%
+| 1,372
+| 0.82%
+| 1,273
+| 0.76%
+|-
+| align="left"| [[Meurthe-et-Moselle]]
+| 95,252
+| 26.92%
+| style="background:#C1C9FF;"|97,243
+| style="background:#C1C9FF;"|27.49%
+| 73,892
+| 20.89%
+| 23,518
+| 6.65%
+| 13,387
+| 3.78%
+| 14,588
+| 4.12%
+| 8,739
+| 2.47%
+| 7,961
+| 2.25%
+| 7,271
+| 2.06%
+| 6,362
+| 1.80%
+| 3,214
+| 0.91
+| 2,373
+| 0.67%
+|-
+| align="left"| [[Meuse (department)|Meuse]]
+| 24,539
+| 24.91%
+| style="background:#C1C9FF;"|34,588
+| style="background:#C1C9FF;"|35.11%
+| 13,559
+| 13.76%
+| 7,347
+| 7.46%
+| 4,403
+| 4.47%
+| 3,130
+| 3.18%
+| 3,500
+| 3.55%
+| 1,957
+| 1.99%
+| 2,422
+| 2.46%
+| 1,483
+| 1.51%
+| 883
+| 0.90%
+| 702
+| 0.71%
+|-
+| align="left"| [[Morbihan]]
+| style="background:#FFED99;"|152,740
+| style="background:#FFED99;"|32.68%
+| 102,856
+| 22.01%
+| 84,200
+| 18.02%
+| 26,595
+| 5.69%
+| 22,838
+| 4.89%
+| 27,036
+| 5.78%
+| 14,399
+| 3.08%
+| 11,529
+| 2.47%
+| 9,586
+| 2.05%
+| 8,267
+| 1.77%
+| 4,376
+| 0.94%
+| 2,952
+| 0.63%
+|-
+| align="left"| [[Moselle (department)|Moselle]]
+| 136,366
+| 26.01%
+| style="background:#C1C9FF;"|159,254
+| style="background:#C1C9FF;"|30.37%
+| 100,159
+| 19.10%
+| 39,369
+| 7.51%
+| 19,300
+| 3.68%
+| 18,931
+| 3.61%
+| 14,163
+| 2.70%
+| 8,750
+| 1.67%
+| 12,651
+| 2.41%
+| 7,534
+| 1.44%
+| 4,343
+| 0.83%
+| 3,499
+| 0.67%
+|-
+| align="left"| [[Nièvre]]
+| 28,686
+| 25.51%
+| style="background:#C1C9FF;"|32,838
+| style="background:#C1C9FF;"|29.20%
+| 19,930
+| 17.72%
+| 7,378
+| 6.56%
+| 5,172
+| 4.60%
+| 3,552
+| 3.16%
+| 4,106
+| 3.65%
+| 4,281
+| 3.81%
+| 2,495
+| 2.22%
+| 2,160
+| 1.92%
+| 1,010
+| 0.90%
+| 833
+| 0.74%
+|-
+| align="left"| [[Nord (French department)|Nord]]
+| 336,138
+| 26.37%
+| style="background:#C1C9FF;"|373,127
+| style="background:#C1C9FF;"|29.27%
+| 279,785
+| 21.95%
+| 73,168
+| 5.74%
+| 42,470
+| 3.33%
+| 46,962
+| 3.68%
+| 22,459
+| 1.76%
+| 45,902
+| 3.60%
+| 20,617
+| 1.62%
+| 18,215
+| 1.43%
+| 8,265
+| 0.65%
+| 7,673
+| 0.60%
+|-
+| align="left"| [[Oise]]
+| 100,388
+| 24.30%
+| style="background:#C1C9FF;"|133,449
+| style="background:#C1C9FF;"|32.30%
+| 79,648
+| 19.28%
+| 30,448
+| 7.37%
+| 17,508
+| 4.24%
+| 13,836
+| 3.35%
+| 9,205
+| 2.23%
+| 9,076
+| 2.20%
+| 9,420
+| 2.28%
+| 4,274
+| 1.03%
+| 3,060
+| 0.74%
+| 2,869
+| 0.69%
+|-
+| align="left"| [[Orne]]
+| style="background:#FFED99;"|46,005
+| style="background:#FFED99;"|30.48%
+| 41,804
+| 27.69%
+| 22,993
+| 15.23%
+| 8,910
+| 5.90%
+| 8,838
+| 5.85%
+| 5,513
+| 3.65%
+| 4,895
+| 3.24%
+| 3,261
+| 2.16%
+| 3,826
+| 2.53%
+| 2,368
+| 1.57%
+| 1,334
+| 0.88%
+| 1,203
+| 0.80%
+|-
+| align="left"| [[Pas-de-Calais]]
+| 194,649
+| 24.61%
+| style="background:#C1C9FF;"|305,900
+| style="background:#C1C9FF;"|38.68%
+| 124,759
+| 15.77%
+| 40,776
+| 5.16%
+| 25,320
+| 3.20%
+| 19,302
+| 2.44%
+| 17,019
+| 2.15%
+| 26,152
+| 3.31%
+| 13,975
+| 1.77%
+| 11,619
+| 1.47%
+| 5,491
+| 0.69%
+| 5,891
+| 0.74%
+|-
+| align="left"| [[Puy-de-Dôme]]
+| style="background:#FFED99;"|100,134
+| style="background:#FFED99;"|28.00%
+| 78,182
+| 21.86%
+| 74,534
+| 20.84%
+| 20,624
+| 5.77%
+| 17,352
+| 4.85%
+| 17,029
+| 4.76%
+| 16,136
+| 4.51%
+| 12,713
+| 3.56%
+| 6,922
+| 1.94%
+| 8,216
+| 2.30%
+| 3,189
+| 0.89%
+| 2,556
+| 0.71%
+|-
+| align="left"| [[Pyrénées-Atlantiques]]
+| style="background:#FFED99;"|111,610
+| style="background:#FFED99;"|27.80%
+| 69,768
+| 17.38%
+| 76,030
+| 18.94%
+| 25,877
+| 6.45%
+| 17,166
+| 4.28%
+| 19,967
+| 4.97%
+| 48,246
+| 12.02%
+| 10,170
+| 2.53%
+| 6,721
+| 1.67%
+| 9,276
+| 2.31%
+| 4,982
+| 1.24%
+| 1,677
+| 0.42%
+|-
+| align="left"| [[Hautes-Pyrénées]]
+| style="background:#FFED99;"|33,692
+| style="background:#FFED99;"|24.98%
+| 29,938
+| 22.19%
+| 26,449
+| 19.61%
+| 8,714
+| 6.46%
+| 4,560
+| 3.38%
+| 4,872
+| 3.61%
+| 14,761
+| 10.94%
+| 4,539
+| 3.37%
+| 2,409
+| 1.79%
+| 3,315
+| 2.46%
+| 1,003
+| 0.74%
+| 636
+| 0.47%
+|-
+| align="left"| [[Pyrénées-Orientales]]
+| 55,169
+| 20.54%
+| style="background:#C1C9FF;"|87,930
+| style="background:#C1C9FF;"|32.74% 
+| 51,556
+| 19.20%
+| 24,782
+| 9.23%
+| 8,815
+| 3.28%
+| 8,588
+| 3.20%
+| 11,690
+| 4.35%
+| 6,509
+| 2.42%
+| 5,209
+| 1.94%
+| 5,013
+| 1.87%
+| 1,995
+| 0.74%
+| 1,312
+| 0.49%
+|-
+| align="left"| [[Bas-Rhin]]
+| style="background:#FFED99;"|177,069
+| style="background:#FFED99;"|30.70%
+| 145,883
+| 25.30%
+| 105,055
+| 18.22%
+| 40,459
+| 7.02%
+| 24,812
+| 4.30%
+| 28,573
+| 4.95%
+| 14,655
+| 2.54%
+| 7,015
+| 1.22%
+| 17,009
+| 2.95%
+| 8,348
+| 1.45%
+| 4,158
+| 0.72%
+| 3,687
+| 0.64%
+|-
+| align="left"| [[Haut-Rhin]]
+| style="background:#FFED99;"|107,244
+| style="background:#FFED99;"|27.85%
+| 106,930
+| 27.77%
+| 66,234
+| 17.20%
+| 30,282
+| 7.86%
+| 15,993
+| 4.15%
+| 18,963
+| 4.92%
+| 11,059
+| 2.87%
+| 4,649
+| 1.21%
+| 13,744
+| 3.57%
+| 4,881
+| 1.27%
+| 2,842
+| 0.74%
+| 2,265
+| 0.59%
+|-
+| align="left"| [[Rhône (department)|Rhône]]
+| style="background:#FFED99;"|278,243
+| style="background:#FFED99;"|30.61%
+| 150,463
+| 16.55%
+| 229,035
+| 25.20%
+| 74,168
+| 8.16%
+| 50,263
+| 5.53%
+| 51,907
+| 5.71%
+| 17,572
+| 1.93%
+| 15,938
+| 1.75%
+| 16,487
+| 1.81%
+| 15,895
+| 1.75%
+| 5,267
+| 0.58%
+| 3,774
+| 0.42%
+|-
+| align="left"| [[Haute-Saône]]
+| 30,204
+| 22.42%
+| style="background:#C1C9FF;"|46,618
+| style="background:#C1C9FF;"|34.60%
+| 21,089
+| 15.65%
+| 9,675
+| 7.18%
+| 6,754
+| 5.01%
+| 4,292
+| 3.18%
+| 4,820
+| 3.58%
+| 2,836
+| 2.10%
+| 3,640
+| 2.70%
+| 2,345
+| 1.74%
+| 1,295
+| 0.96%
+| 1,171
+| 0.87%
+|-
+| align="left"| [[Saône-et-Loire]]
+| style="background:#FFED99;"|82,633
+| style="background:#FFED99;"|27.61%
+| 81,970
+| 27.39%
+| 52,336
+| 17.49%
+| 20,686
+| 6.91%
+| 15,210
+| 5.08%
+| 10,730
+| 3.59%
+| 10,186
+| 3.40%
+| 7,419
+| 2.48%
+| 7,745
+| 2.59%
+| 6,037
+| 2.02%
+| 2,369
+| 0.79%
+| 1,979
+| 0.66%
+|-
+| align="left"| [[Sarthe]]
+| style="background:#FFED99;"|83,876
+| style="background:#FFED99;"|28.24%
+| 82,234
+| 27.68%
+| 54,244
+| 18.26%
+| 16,218
+| 5.46%
+| 15,937
+| 5.36%
+| 13,541
+| 4.56%
+| 7,546
+| 2.54%
+| 6,908
+| 2.33%
+| 6,494
+| 2.19%
+| 5,409
+| 1.82%
+| 2,505
+| 0.84%
+| 2,150
+| 0.72%
+|-
+| align="left"| [[Savoie]]
+| style="background:#FFED99;"|64,689
+| style="background:#FFED99;"|26.26%
+| 56,733
+| 23.03%
+| 49,858
+| 20.24%
+| 18,045
+| 7.32%
+| 13,608
+| 5.52%
+| 15,642
+| 6.35%
+| 8,081
+| 3.28%
+| 5,536
+| 2.25%
+| 6,694
+| 2.72%
+| 4,418
+| 1.79%
+| 1,849
+| 0.75%
+| 1,205
+| 0.49%
+|-
+| align="left"| [[Haute-Savoie]]
+| style="background:#FFED99;"|130,422
+| style="background:#FFED99;"|30.53%
+| 87,744
+| 20.54%
+| 78,062
+| 18.28%
+| 33,353
+| 7.81%
+| 22,349
+| 5.23%
+| 29,948
+| 7.01%
+| 13,371
+| 3.13%
+| 5,997
+| 1.40%
+| 14,175
+| 3.32%
+| 6,606
+| 1.55%
+| 3,232
+| 0.76%
+| 1,880
+| 0.44%
+|-
+| align="left"| [[Paris]]
+| style="background:#FFED99;"|372,820
+| style="background:#FFED99;"|35.34%
+| 58,429
+| 5.54%
+| 317,472
+| 30.08%
+| 86,088
+| 8.16%
+| 69,564
+| 6.59%
+| 80,374
+| 7.61%
+| 12,139
+| 1.15%
+| 17,267
+| 1.64%
+| 9,591
+| 0.91%
+| 22,901
+| 2.17%
+| 5,732
+| 0.54%
+| 2,891
+| 0.27%
+|-
+| align="left"| [[Seine-Maritime]]
+| style="background:#FFED99;"|179,698
+| style="background:#FFED99;"|27.95%
+| 177,806
+| 27.65%
+| 136,136
+| 21.17%
+| 33,361
+| 5.19%
+| 24,281
+| 3.78%
+| 24,785
+| 3.85%
+| 13,588
+| 2.11%
+| 19,896
+| 3.09%
+| 12,365
+| 1.92%
+| 11,139
+| 1.73%
+| 5,477
+| 0.85%
+| 4,433
+| 0.69%
+|-
+| align="left"| [[Seine-et-Marne]]
+| 165,386
+| 25.00%
+| 155,897
+| 23.57%
+| style="background:#F8B3AB;"|171,080
+| style="background:#F8B3AB;"|25.86%
+| 47,935
+| 7.25%
+| 36,867
+| 5.57%
+| 26,754
+| 4.04%
+| 13,813
+| 2.09%
+| 12,851
+| 1.94%
+| 15,061
+| 2.28%
+| 7,858
+| 1.19%
+| 4,608
+| 0.70%
+| 3,446
+| 0.52%
+|-
+| align="left"| [[Yvelines]]
+| style="background:#FFED99;"|246,062
+| style="background:#FFED99;"|33.41%
+| 101,398
+| 13.77%
+| 168,585
+| 22.89%
+| 64,407
+| 8.74%
+| 61,296
+| 8.32%
+| 40,470
+| 5.49%
+| 13,687
+| 1.86%
+| 11,721
+| 1.59%
+| 13,097
+| 1.78%
+| 9,046
+| 1.23%
+| 3,963
+| 0.54%
+| 2,774
+| 0.38%
+|-
+| align="left"| [[Deux-Sèvres]]
+| style="background:#FFED99;"|68,540
+| style="background:#FFED99;"|32.93%
+| 47,979
+| 23.05%
+| 39,197
+| 18.83%
+| 8,813
+| 4.23%
+| 9,262
+| 4.45%
+| 10,088
+| 4.85%
+| 7,026
+| 3.38%
+| 4,545
+| 2.18%
+| 4,536
+| 2.18%
+| 4,348
+| 2.09%
+| 2,136
+| 1.03%
+| 1,645
+| 0.79%
+|-
+| align="left"| [[Somme (department)|Somme]]
+| 83,185
+| 27.79%
+| style="background:#C1C9FF;"|98,208
+| style="background:#C1C9FF;"|32.81%
+| 52,415
+| 17.51%
+| 16,908
+| 5.65%
+| 11,397
+| 3.81%
+| 8,050
+| 2.69%
+| 7,376
+| 2.46%
+| 7,716
+| 2.58%
+| 5,623
+| 1.88%
+| 3,755
+| 1.25%
+| 2,207
+| 0.74%
+| 2,500
+| 0.84%
+|-
+| align="left"| [[Tarn (department)|Tarn]]
+| 53,925
+| 23.46%
+| style="background:#C1C9FF;"|56,543
+| style="background:#C1C9FF;"|24.60%
+| 48,430
+| 21.07%
+| 15,982
+| 6.95%
+| 10,014
+| 4.36%
+| 8,680
+| 3.78%
+| 17,010
+| 7.40%
+| 5,313
+| 2.31%
+| 5,123
+| 2.23%
+| 5,818
+| 2.53%
+| 1,829
+| 0.80%
+| 1,175
+| 0.51%
+|-
+| align="left"| [[Tarn-et-Garonne]]
+| 31,737
+| 21.76%
+| style="background:#C1C9FF;"|42,183
+| style="background:#C1C9FF;"|28.93%
+| 27,881
+| 19.12%
+| 11,772
+| 8.07%
+| 5,994
+| 4.11%
+| 4,835
+| 3.32%
+| 9,573
+| 6.56%
+| 3,628
+| 2.49%
+| 3,412
+| 2.34%
+| 3,069
+| 2.10%
+| 1,057
+| 0.72%
+| 679
+| 0.47%
+|-
+| align="left"| [[Var (department)|Var]]
+| 142,335
+| 23.77%
+| style="background:#C1C9FF;"|183,287
+| style="background:#C1C9FF;"|30.61%
+| 89,272
+| 14.91%
+| 79,329
+| 13.25%
+| 28,342
+| 4.73%
+| 21,044
+| 3.51%
+| 17,784
+| 2.97%
+| 10,672
+| 1.78%
+| 15,286
+| 2.55%
+| 5,703
+| 0.95%
+| 3,578
+| 0.60%
+| 2,098
+| 0.35%
+|-
+| align="left"| [[Vaucluse]]
+| 66,883
+| 22.01%
+| style="background:#C1C9FF;"|89,411
+| style="background:#C1C9FF;"|29.43%
+| 63,045
+| 20.75%
+| 30,473
+| 10.03%
+| 11,918
+| 3.92%
+| 12,128
+| 3.99%
+| 9,843
+| 3.24%
+| 6,234
+| 2.05%
+| 6,895
+| 2.27%
+| 3,769
+| 1.24%
+| 2,023
+| 0.67%
+| 1,234
+| 0.41%
+|-
+| align="left"| [[Vendée]]
+| style="background:#FFED99;"|149,587
+| style="background:#FFED99;"|35.64%
+| 97,280
+| 23.18%
+| 60,524
+| 14.42%
+| 25,663
+| 6.11%
+| 22,534
+| 5.37%
+| 19,753
+| 4.71%
+| 13,039
+| 3.11%
+| 8,153
+| 1.94%
+| 9,664
+| 2.30%
+| 7,244
+| 1.73%
+| 3,621
+| 0.86%
+| 2,647
+| 0.63%
+|-
+| align="left"| [[Vienne (department)|Vienne]]
+| style="background:#FFED99;"|67,831
+| style="background:#FFED99;"|29.28%
+| 54,216
+| 23.40%
+| 49,162
+| 21.22%
+| 11,939
+| 5.15%
+| 9,959
+| 4.30%
+| 10,727
+| 4.63%
+| 7,741
+| 3.34
+| 6,412
+| 2.77%
+| 5,095
+| 2.20%
+| 4,542
+| 1.96%
+| 2,315
+| 1.00%
+| 1,715
+| 0.74%
+|-
+| align="left"| [[Haute-Vienne]]
+| style="background:#FFED99;"|54,951
+| style="background:#FFED99;"|27.19%
+| 45,357
+| 22.44%
+| 43,137
+| 21.34%
+| 10,796
+| 5.34%
+| 9,544
+| 4.72%
+| 7,877
+| 3.90%
+| 9,973
+| 4.93%
+| 8,030
+| 3.97%
+| 3,555
+| 1.76%
+| 5,654
+| 2.80%
+| 1,787
+| 0.88%
+| 1,457
+| 0.72%
+|-
+| align="left"| [[Vosges (department)|Vosges]]
+| 51,477
+| 25.25%
+| style="background:#C1C9FF;"|65,676
+| style="background:#C1C9FF;"|32.22%
+| 32,690
+| 16.04%
+| 13,195
+| 6.47%
+| 9,359
+| 4.59%
+| 7,569
+| 3.71%
+| 7,210
+| 3.54%
+| 3,850
+| 1.89%
+| 6,155
+| 3.02%
+| 3,115
+| 1.53%
+| 1,988
+| 0.98%
+| 1,572
+| 0.77%
+|-
+| align="left"| [[Yonne]]
+| 42,616
+| 24.14%
+| style="background:#C1C9FF;"|55,162
+| style="background:#C1C9FF;"|31.25%
+| 31,600
+| 17.90%
+| 12,941
+| 7.33%
+| 9,322
+| 5.28%
+| 5,917
+| 3.35%
+| 5,356
+| 3.03%
+| 4,023
+| 2.28%
+| 4,594
+| 2.60%
+| 2,286
+| 1.30%
+| 1,487
+| 0.84%
+| 1,203
+| 0.68%
+|-
+| align="left"| [[Territoire de Belfort]]
+| 16,768
+| 24.07%
+| style="background:#C1C9FF;"|19,061
+| style="background:#C1C9FF;"|27.37%
+| 14,601
+| 20.96%
+| 5,583
+| 8.02%
+| 3,322
+| 4.77%
+| 2,798
+| 4.02%
+| 2,000
+| 2.87%
+| 1,485
+| 2.13%
+| 1,821
+| 2.61%
+| 1,052
+| 1.51%
+| 603
+| 0.87%
+| 560
+| 0.80%
+|-
+| align="left"| [[Essonne]]
+| 164,503
+| 27.65%
+| 105,862
+| 17.79%
+| style="background:#F8B3AB;"|167,310
+| style="background:#F8B3AB;"|28.12%
+| 39,284
+| 6.60%
+| 33,046
+| 5.55%
+| 29,562
+| 4.97%
+| 11,610
+| 1.95%
+| 13,480
+| 2.27%
+| 15,203
+| 2.56%
+| 7,944
+| 1.34%
+| 4,306
+| 0.72%
+| 2,831
+| 0.48%
+|-
+| align="left"| [[Hauts-de-Seine]]
+| style="background:#FFED99;"|287,494
+| style="background:#FFED99;"|37.11% 
+| 64,812
+| 8.37%
+| 199,640
+| 25.77%
+| 62,761
+| 8.10%
+| 62,231
+| 8.03%
+| 47,103
+| 6.08%
+| 11,260
+| 1.45%
+| 13,170
+| 1.70%
+| 9,746
+| 1.26%
+| 10,518
+| 1.36%
+| 3,704
+| 0.48%
+| 2,306
+| 0.30%
+|-
+| align="left"| [[Seine-Saint-Denis]]
+| 110,117
+| 20.27%
+| 64,542
+| 11.88%
+| style="background:#F8B3AB;"|266,630
+| style="background:#F8B3AB;"|49.09%
+| 27,968
+| 5.15%
+| 17,479
+| 3.22%
+| 19,352
+| 3.56%
+| 6,805
+| 1.25%
+| 11,642
+| 2.14%
+| 6,300
+| 1.16%
+| 5,890
+| 1.08%
+| 3,662
+| 0.67%
+| 2,756
+| 0.51%
+|-
+| align="left"| [[Val-de-Marne]]
+| 171,409
+| 29.10%
+| 69,599
+| 11.82%
+| style="background:#F8B3AB;"|192,427
+| style="background:#F8B3AB;"|32.67%
+| 43,430
+| 7.37%
+| 32,522
+| 5.52%
+| 31,904
+| 5.42%
+| 8,944
+| 1.52%
+| 14,954
+| 2.54%
+| 9,359
+| 1.59%
+| 8,276
+| 1.40%
+| 3,730
+| 0.63%
+| 2,504
+| 0.43%
+|-
+| align="left"| [[Val-d'Oise]]
+| 138,166
+| 26.09%
+| 91,081
+| 17.20%
+| style="background:#F8B3AB;"|175,666
+| style="background:#F8B3AB;"|33.17%
+| 37,564
+| 7.09%
+| 26,403
+| 4.99%
+| 20,710
+| 3.91%
+| 9,101
+| 1.72%
+| 10,060
+| 1.90%
+| 8,996
+| 1.70%
+| 6,094
+| 1.15%
+| 3,352
+| 0.63%
+| 2,392
+| 0.45%
+|- class="sortbottom"
+| colspan="25" |
+|-
+| align="left"| [[Guadeloupe]]
+| 18,137
+| 13.43%
+| 24,204
+| 17.92%
+| style="background:#F8B3AB;"|75,862
+| style="background:#F8B3AB;"|56.16%
+| 3,098
+| 2.29%
+| 3,979
+| 2.95%
+| 1,927
+| 1.43%
+| 1,033
+| 0.76%
+| 668
+| 0.49%
+| 2,114
+| 1.56%
+| 2,266
+| 1.68%
+| 713
+| 0.53%
+| 1,084
+| 0.80%
+|-
+| align="left"| [[Martinique]]
+| 20,043
+| 16.30%
+| 16,495
+| 13.42%
+| style="background:#F8B3AB;"|65,292
+| style="background:#F8B3AB;"|53.10%
+| 3,153
+| 2.56%
+| 4,731
+| 3.85%
+| 1,978
+| 1.61%
+| 1,162
+| 0.95%
+| 747
+| 0.61%
+| 2,989
+| 2.43%
+| 3,935
+| 3.20%
+| 977
+| 0.79%
+| 1,447
+| 1.18%
+|-
+| align="left"| [[French Guiana]]
+| 5,101
+| 14.22%
+| 6,334
+| 17.66%
+| style="background:#F8B3AB;"|18,143
+| style="background:#F8B3AB;"|50.59%
+| 1,573
+| 4.39%
+| 997
+| 2.78%
+| 940
+| 2.62%
+| 516
+| 1.44%
+| 246
+| 0.69%
+| 717
+| 2.00%
+| 535
+| 1.49%
+| 462
+| 1.29%
+| 297
+| 0.83%
+|-
+| align="left"| [[Réunion]]
+| 62,542
+| 18.04%
+| 85,770
+| 24.73%
+| style="background:#F8B3AB;"|139,604
+| style="background:#F8B3AB;"|40.26%
+| 13,070
+| 3.77%
+| 9,738
+| 2.81%
+| 7,994
+| 2.31%
+| 4,844
+| 1.40%
+| 3,074
+| 0.89%
+| 8,338
+| 2.40%
+| 5,549
+| 1.60%
+| 2,705
+| 0.78%
+| 3,538
+| 1.02%
+|-
+| align="left"| [[Mayotte]]
+| 5,936
+| 16.94%
+| style="background:#C1C9FF;"|14,958
+| style="background:#C1C9FF;"|42.68%
+| 8,398
+| 23.96%
+| 482
+| 1.38%
+| 2,810
+| 8.02%
+| 295
+| 0.84%
+| 359
+| 1.02%
+| 206
+| 0.59%
+| 530
+| 1.51%
+| 318
+| 0.91%
+| 328
+| 0.94%
+| 430
+| 1.23%
+|-
+| align="left"| [[2022 French presidential election in New Caledonia|New Caledonia]]
+| style="background:#FFED99;"|28,561
+| style="background:#FFED99;"|40.51%
+| 13,273
+| 18.83%
+| 9,711
+| 13.77%
+| 6,435
+| 9.13%
+| 4,144
+| 5.88%
+| 2,161
+| 3.07%
+| 1,031
+| 1.46%
+| 399
+| 0.57%
+| 2,697
+| 3.83%
+| 963
+| 1.37%
+| 560
+| 0.79%
+| 565
+| 0.80%
+|-
+| align="left"| [[French Polynesia]]
+| style="background:#FFED99;"|24,418
+| style="background:#FFED99;"|40.25%
+| 11,797
+| 19.45%
+| 8,035
+| 13.24%
+| 4,311
+| 7.11%
+| 4,809
+| 7.93%
+| 2,166
+| 3.57%
+| 618
+| 1.02%
+| 376
+| 0.62%
+| 1,983
+| 3.27%
+| 874
+| 1.44%
+| 459
+| 0.76%
+| 819
+| 1.35%
+|-
+| align="left"| [[Saint Pierre and Miquelon]]
+| 534
+| 19.77%
+| 459
+| 16.99%
+| style="background:#F8B3AB;"| 1,105
+| style="background:#F8B3AB;"| 40.91%
+| 80
+| 2.96%
+| 51
+| 1.89%
+| 116
+| 4.29%
+| 108
+| 4.00%
+| 19
+| 0.70%
+| 82
+| 3.04%
+| 75
+| 2.78%
+| 50
+| 1.85%
+| 22
+| 0.81%
+|-
+| align="left"| [[Wallis and Futuna]]
+| style="background:#FFED99;"|2,115
+| style="background:#FFED99;"|39.47%
+| 579
+| 10.80%
+| 501
+| 9.35%
+| 118
+| 2.20%
+| 1,354
+| 25.27%
+| 72
+| 1.34%
+| 78
+| 1.46%
+| 34
+| 0.63%
+| 244
+| 4.55%
+| 118
+| 2.20%
+| 48
+| 0.90%
+| 98
+| 1.83%
+|-
+| align="left"| [[Collectivity of Saint Martin|Saint Martin]]/[[Saint Barthélemy]]
+| 2,070
+| 24.74%
+| 1,445
+| 17.27%
+| style="background:#F8B3AB;"|2,354
+| style="background:#F8B3AB;"|28.13%
+| 1,107
+| 13.23%
+| 354
+| 4.23%
+| 247
+| 2.95%
+| 208
+| 2.49%
+| 48
+| 0.57%
+| 339
+| 4.05%
+| 92
+| 1.10%
+| 63
+| 0.75%
+| 41
+| 0.49%
+|-
+| align="left"| [[Constituencies for French residents overseas|French residents overseas]]
+| style="background:#FFED99;"| 224,957
+| style="background:#FFED99;"| 45.09%
+| 26,380
+| 5.29%
+| 109,394
+| 21.92%
+| 43,252
+| 8.67%
+| 20,956
+| 4.20%
+| 40,774
+| 8.17%
+| 5,964
+| 1.20%
+| 3,266
+| 0.65%
+| 7,074
+| 1.22%
+| 12,489
+| 2.50%
+| 3,145
+| 0.63%
+| 1,300
+| 0.26%
+|-
+|- class="sortbottom"
+| colspan="25" |
+|- class="sortbottom" style="font-weight:bold; background:#E4E4E4;"
+| align="left"| Total
+|9783058
+|27.85%
+|8133828
+|23.15%
+|7712520
+|21.95%
+|2485226
+|7.07%
+|1679001
+|4.78%
+|1627853
+|4.63%
+|1101387
+|3.13%
+|802422
+|2.28%
+|725176
+|2.06%
+|616478
+|1.75%
+|268904
+|0.77%
+|197094
+|0.56%
+|- class="sortbottom"
+| colspan="25" style="text-align:left; background-color:#eaecf0" | '''Source:''' [https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/index.html Ministry of Interior]
+|}
+{| class="wikitable sortable collapsible collapsed mw-datatable" style="text-align:right; font-size:95%; line-height:20px"
+|+ class="nowrap" | Results by [[Regions of France|region]]
+|-
+! width="200" rowspan="3"| [[Regions of France|Region]]
+! width="110" colspan="2"| [[Emmanuel Macron|Emmanuel<br />Macron]]
+! width="110" colspan="2"| [[Marine Le Pen|Marine<br />Le Pen]]
+! width="110" colspan="2"| [[Jean-Luc Mélenchon|Jean-Luc<br />Mélenchon]]
+! width="110" colspan="2"| [[Éric Zemmour|Éric<br />Zemmour]]
+! width="110" colspan="2"| [[Valérie Pécresse|Valérie<br />Pécresse]]
+! width="110" colspan="2"| [[Yannick Jadot|Yannick<br />Jadot]]
+! width="110" colspan="2"| [[Jean Lassalle|Jean<br />Lassalle]]
+! width="110" colspan="2"| [[Fabien Roussel|Fabien<br />Roussel]]
+! width="110" colspan="2"| [[Nicolas Dupont-Aignan|Nicolas<br />Dupont-Aignan]]
+! width="110" colspan="2"| [[Anne Hidalgo|Anne<br />Hidalgo]]
+! width="110" colspan="2"| [[Philippe Poutou|Philippe<br />Poutou]]
+! width="110" colspan="2"| [[Nathalie Arthaud|Nathalie<br />Arthaud]]
+
+|-
+! colspan="2" style="background:{{party color|En Marche!}};"|
+! colspan="2" style="background:{{party color|National Front (France)}};"|
+! colspan="2" style="background:{{party color|La France Insoumise}};"|
+! colspan="2" style="background:{{party color|Reconquête}};"|
+! colspan="2" style="background:{{party color|The Republicans (France)}};"|
+! colspan="2" style="background:{{party color|Europe Ecology – The Greens}};"|
+! colspan="2" style="background:{{party color|Miscellaneous right}};"|
+! colspan="2" style="background:{{party color|French Communist Party}};"|
+! colspan="2" style="background:{{party color|Debout la France}};"|
+! colspan="2" style="background:{{party color|Socialist Party (France)}};"|
+! colspan="2" style="background:{{party color|New Anticapitalist Party}};"|
+! colspan="2" style="background:{{party color|Workers' Struggle}};"|
+
+|-
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+! Votes
+! %
+!Votes
+! %
+|-
+| align="left"|[[Auvergne-Rhône-Alpes]]
+| style="background:#FFED99;"|1,175,085
+| style="background:#FFED99;"|27.75%
+| 943,294
+| 22.28%
+| 897,433
+| 21.20%
+| 312,916
+| 7.39%
+| 217,906
+| 5.15%
+| 224,735
+| 5.31%
+| 136,436
+| 3.22%
+| 96,409
+| 2.28%
+| 98,465
+| 2.33%
+| 77,570
+| 1.83%
+| 30,596
+| 0.72%
+| 23,137
+| 0.55%
+|-
+| align="left"|[[Bourgogne-Franche-Comté]]
+| 394,117
+| 26.31%
+| style="background:#C1C9FF;"|409,639
+| style="background:#C1C9FF;"|27.35%
+| 277,899
+| 18.56%
+| 107,057
+| 7.15%
+| 76,654
+| 5.12%
+| 60,235
+| 4.02%
+| 49,557
+| 3.31%
+| 33,932
+| 2.27%
+| 38,691
+| 2.58%
+| 26,543
+| 1.77%
+| 12,737
+| 0.85%
+| 10,643
+| 0.71%
+|-
+| align="left"|[[Brittany]]
+| style="background:#FFED99;"|647,172
+| style="background:#FFED99;"|32.79%
+| 385,393
+| 19.53%
+| 407,527
+| 20.65%
+| 96,984
+| 4.91%
+| 92,808
+| 4.70%
+| 122,198
+| 6.19%
+| 58,653
+| 2.97%
+| 51,193
+| 2.59%
+| 35,116
+| 1.78%
+| 43,596
+| 2.21%
+| 19,913
+| 1.01%
+| 12,965
+| 0.66%
+|-
+| align="left"|[[Centre-Val de Loire]]
+| style="background:#FFED99;"|383,851
+| style="background:#FFED99;"|28.53%
+| 347,845
+| 25.86%
+| 251,259
+| 18.68%
+| 88,575
+| 6.58%
+| 71,690
+| 5.33%
+| 54,401
+| 4.04%
+| 38,659
+| 2.87%
+| 33,590
+| 2.50%
+| 31,759
+| 2.36%
+| 23,162
+| 1.72%
+| 11,226
+| 0.83%
+| 9,256
+| 0.69%
+|-
+| align="left"|[[Corsica]]
+| 26,795
+| 18.11%
+| style="background:#C1C9FF;"|42,283
+| style="background:#C1C9FF;"|28.58%
+| 19,779
+| 13.37%
+| 18,936
+| 12.80%
+| 9,363
+| 6.33%
+| 4,801
+| 3.25%
+| 15,408
+| 10.42%
+| 4,553
+| 3.08%
+| 2,600
+| 1.76%
+| 1,589
+| 1.08%
+| 1,374
+| 0.93%
+| 455
+| 0.31%
+|-
+| align="left"|[[Grand Est]]
+| 762,282
+| 27.28%
+| style="background:#C1C9FF;"|825,219
+| style="background:#C1C9FF;"|29.54%
+| 492,439
+| 17.63%
+| 200,265
+| 7.17%
+| 120,931
+| 4.33%
+| 111,960
+| 4.01%
+| 77,442
+| 2.77%
+| 47,425
+| 1.70%
+| 74,918
+| 2.68%
+| 40,031
+| 1.43%
+| 22,243
+| 0.80%
+| 18,658
+| 0.67%
+|-
+| align="left"|[[Hauts-de-France]]
+| 773,221
+| 25.40%
+| style="background:#C1C9FF;"|1,015,361
+| style="background:#C1C9FF;"|33.35%
+| 577,878
+| 18.98%
+| 179,606
+| 5.90%
+| 107,631
+| 3.53%
+| 95,234
+| 3.13%
+| 62,548
+| 2.05%
+| 94,831
+| 3.11%
+| 55,439
+| 1.82%
+| 40,856
+| 1.34%
+| 21,150
+| 0.69%
+| 20,977
+| 0.69%
+|-
+| align="left"|[[Île-de-France]]
+| 1,656,341
+| 30.19%
+| 711,690
+| 12.97%
+| style="background:#F8B3AB;"| 1,659,152
+| style="background:#F8B3AB;"| 30.24%
+| 409,532
+| 7.47%
+| 339,468
+| 6.19%
+| 296,229
+| 5.40%
+| 87,372
+| 1.59%
+| 105,170
+| 1.92%
+| 87,360
+| 1.59%
+| 78,561
+| 1.43%
+| 33,063
+| 0.60%
+| 21,907
+| 0.40%
+|-
+| align="left"|[[Normandy (administrative region)|Normandy]]
+| style="background:#FFED99;"|521,769
+| style="background:#FFED99;"|29.26%
+| 484,106
+| 27.14%
+| 335,590
+| 18.82%
+| 99,446
+| 5.58%
+| 79,800
+| 4.47%
+| 73,289
+| 4.11%
+| 45,488
+| 2.55%
+| 46,358
+| 2.60%
+| 38,560
+| 2.16%
+| 30,235
+| 1.70%
+| 16,005
+| 0.90%
+| 12,839
+| 0.72%
+|-
+| align="left"|[[Nouvelle-Aquitaine]]
+| style="background:#FFED99;"|945,332
+| style="background:#FFED99;"|27.63%
+| 779,948
+| 22.80%
+| 681,405
+| 19.92%
+| 210,501
+| 6.15%
+| 157,230
+| 4.60%
+| 151,747
+| 4.44%
+| 201,773
+| 5.90%
+| 96,800
+| 2.83%
+| 67,662
+| 1.98%
+| 77,326
+| 2.26%
+| 32,600
+| 0.95%
+| 18,496
+| 0.54%
+|-
+| align="left"|[[Occitania (administrative region)|Occitanie]]
+| 777,780
+| 23.48%
+| style="background:#C1C9FF;"| 815,495
+| style="background:#C1C9FF;"| 24.62%
+| 742,543
+| 22.42%
+| 260,212
+| 7.86%
+| 129,143
+| 3.90%
+| 139,234
+| 4.20%
+| 184,994
+| 5.59%
+| 83,483
+| 2.52%
+| 63,260
+| 1.91%
+| 77,166
+| 2.33%
+| 23,902
+| 0.72%
+| 14,884
+| 0.45%
+|-
+| align="left"|[[Pays de la Loire]]
+| style="background:#FFED99;"|707,890
+| style="background:#FFED99;"|33.27%
+| 442,025
+| 20.78%
+| 408,969
+| 19.22%
+| 114,388
+| 5.38%
+| 106,786
+| 5.02%
+| 127,934
+| 6.01%
+| 54,592
+| 2.57%
+| 45,058
+| 2.12%
+| 44,215
+| 2.08%
+| 43,291
+| 2.03%
+| 18,441
+| 0.87%
+| 13,853
+| 0.65%
+|-
+| align="left"|[[Provence-Alpes-Côte d'Azur]]
+| 619,529
+| 23.34%
+| style="background:#C1C9FF;"|732,377
+| style="background:#C1C9FF;"|27.59%
+| 524,677
+| 19.77%
+| 310,838
+| 11.71%
+| 116,137
+| 4.38%
+| 107,670
+| 4.06%
+| 72,847
+| 2.74%
+| 54,730
+| 2.06%
+| 60,204
+| 2.27%
+| 29,511
+| 1.11%
+| 16,224
+| 0.61%
+| 9,473
+| 0.36%
+|- class="sortbottom"
+| colspan="25" |
+|-
+| align="left"| [[Guadeloupe]]
+| 18,137
+| 13.43%
+| 24,204
+| 17.92%
+| style="background:#F8B3AB;"|75,862
+| style="background:#F8B3AB;"|56.16%
+| 3,098
+| 2.29%
+| 3,979
+| 2.95%
+| 1,927
+| 1.43%
+| 1,033
+| 0.76%
+| 668
+| 0.49%
+| 2,114
+| 1.56%
+| 2,266
+| 1.68%
+| 713
+| 0.53%
+| 1,084
+| 0.80%
+|-
+| align="left"| [[Martinique]]
+| 20,043
+| 16.30%
+| 16,495
+| 13.42%
+| style="background:#F8B3AB;"|65,292
+| style="background:#F8B3AB;"|53.10%
+| 3,153
+| 2.56%
+| 4,731
+| 3.85%
+| 1,978
+| 1.61%
+| 1,162
+| 0.95%
+| 747
+| 0.61%
+| 2,989
+| 2.43%
+| 3,935
+| 3.20%
+| 977
+| 0.79%
+| 1,447
+| 1.18%
+|-
+| align="left"| [[French Guiana]]
+| 5,101
+| 14.22%
+| 6,334
+| 17.66%
+| style="background:#F8B3AB;"|18,143
+| style="background:#F8B3AB;"|50.59%
+| 1,573
+| 4.39%
+| 997
+| 2.78%
+| 940
+| 2.62%
+| 516
+| 1.44%
+| 246
+| 0.69%
+| 717
+| 2.00%
+| 535
+| 1.49%
+| 462
+| 1.29%
+| 297
+| 0.83%
+|-
+| align="left"| [[Réunion]]
+| 62,542
+| 18.04%
+| 85,770
+| 24.73%
+| style="background:#F8B3AB;"|139,604
+| style="background:#F8B3AB;"|40.26%
+| 13,070
+| 3.77%
+| 9,738
+| 2.81%
+| 7,994
+| 2.31%
+| 4,844
+| 1.40%
+| 3,074
+| 0.89%
+| 8,338
+| 2.40%
+| 5,549
+| 1.60%
+| 2,705
+| 0.78%
+| 3,538
+| 1.02%
+|-
+| align="left"| [[Mayotte]]
+| 5,936
+| 16.94%
+| style="background:#C1C9FF;"|14,958
+| style="background:#C1C9FF;"|42.68%
+| 8,398
+| 23.96%
+| 482
+| 1.38%
+| 2,810
+| 8.02%
+| 295
+| 0.84%
+| 359
+| 1.02%
+| 206
+| 0.59%
+| 530
+| 1.51%
+| 318
+| 0.91%
+| 328
+| 0.94%
+| 430
+| 1.23%
+|- class="sortbottom"
+| colspan="25" |
+|- class="sortbottom" style="font-weight:bold; background:#E4E4E4;"
+| align="left"| Total
+|9783058
+|27.85%
+|8133828
+|23.15%
+|7712520
+|21.95%
+|2485226
+|7.07%
+|1679001
+|4.78%
+|1627853
+|4.63%
+|1101387
+|3.13%
+|802422
+|2.28%
+|725176
+|2.06%
+|616478
+|1.75%
+|268904
+|0.77%
+|197094
+|0.56%
+|- class="sortbottom"
+| colspan="25" style="text-align:left; background-color:#eaecf0" | '''Source:''' [https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/index.html Ministry of Interior]
+|}
+
+==== Maps ====
+
+===== Nationwide =====
+<gallery mode="packed" heights="145" style="float:left;">
+File:Simple 2022 French Presidential Election First Round Map.svg|Simplified map of the first round
+File:2022 French Presidential Election Second Place Map.svg|Second-placed candidate by [[Departments of France|department]] in the first round
+File:France presidential election, 1st round by constituency.svg|Results of the first round by [[List of constituencies of the National Assembly of France|parliamentary constituency]]
+File:France presidential election, 1st round by commune.svg|Results of the first round by [[Communes of France|municipality]]
+File:EN - 2022 French presidential election - First round - First-place candidate (Overseas French).svg|Results of the first round among the [[French diaspora]]
+</gallery>
+{{clear}}
+
+===== By region =====
+<gallery mode="packed" heights="145" style="float:left;">
+File:2022 French presidential election in Saint-Barthélemy and Saint-Martin (first round).svg|Results of the first round in [[Saint Barthélemy]] (top left) and [[Collectivity of Saint Martin|Saint Martin]] (bottom right)
+File:2022 French presidential election in Saint-Pierre and Miquelon (first round).svg|Results of the first round in [[Saint Pierre and Miquelon]] by [[Communes of Saint Pierre and Miquelon|commune]]
+</gallery>
+{{clear}}
+
+===== By city =====
+<gallery mode="packed" heights="145" style="float:left;">
+File:2022 French Presidential Election First Round in Petite Couronne by Commune.svg|Results of the first round in [[Petite Couronne]] ([[Grand Paris]]) by [[Communes of France|commune]]
+</gallery>
+{{clear}}
+
+=== Second round ===
+====Tables====
+{| class="wikitable sortable collapsible collapsed mw-datatable" style="text-align:right; font-size:95%; line-height:20px"
+|+ class="nowrap" | Results by [[Department of France|department]]
+|-
+! width="200" rowspan="3"| [[Departments of France|Department]]
+! width="110" colspan="2"| [[Emmanuel Macron|Emmanuel<br/>Macron]]
+! width="110" colspan="2"| [[Marine Le Pen|Marine<br/>Le Pen]]
+|-
+! colspan="2" style="background:{{party color|En Marche!}};"|
+! colspan="2" style="background:{{party color|National Front (France)}};"|
+|-
+! Votes
+! %
+! Votes
+! %
+|-
+| align="left"| [[Ain]]
+| style="background:#FFED99;"| 166,635
+| style="background:#FFED99;"| 54.99%
+| 136,370
+| 45.01%
+|-
+| align="left"| [[Aisne]]
+| 102,428
+| 40.09%
+| style="background:#C1C9FF;"| 153,069
+| style="background:#C1C9FF;"| 59.91%
+|-
+| align="left"| [[Allier]]
+| style="background:#FFED99;"| 87,645
+| style="background:#FFED99;"| 52.35%
+| 79,761
+| 47.65%
+|-
+| align="left"| [[Alpes-de-Haute-Provence]]
+| 41,657
+| 48.55%
+| style="background:#C1C9FF;"| 44,139
+| style="background:#C1C9FF;"| 51.45%
+|-
+| align="left"| [[Hautes-Alpes]]
+| style="background:#FFED99;"| 42,209
+| style="background:#FFED99;"| 55.06%
+| 34,446
+| 44.94%
+|-
+| align="left"| [[Alpes-Maritimes]]
+| style="background:#FFED99;"| 261,987
+| style="background:#FFED99;"| 50.13%
+| 260,627
+| 49.87%
+|-
+| align="left"| [[Ardèche]]
+| style="background:#FFED99;"| 90,254
+| style="background:#FFED99;"| 52.40%
+| 82,001
+| 47.60%
+|-
+| align="left"| [[Ardennes (department)|Ardennes]]
+| 55,085
+| 43.34%
+| style="background:#C1C9FF;"| 72,026
+| style="background:#C1C9FF;"| 56.66%
+|-
+| align="left"| [[Ariège (department)|Ariège]]
+| style="background:#FFED99;"| 39,297
+| style="background:#FFED99;"| 51.09%
+| 37,616
+| 48.91%
+|-
+| align="left"| [[Aube]]
+| 68,830
+| 48.32%
+| style="background:#C1C9FF;"| 73,630
+| style="background:#C1C9FF;"| 51.68%
+|-
+| align="left"| [[Aude]]
+| 85,464
+| 45.10%
+| style="background:#C1C9FF;"| 104,038
+| style="background:#C1C9FF;"| 54.90%
+|-
+| align="left"| [[Aveyron]]
+| style="background:#FFED99;"| 89,953
+| style="background:#FFED99;"| 60.07%
+| 59,789
+| 39.93%
+|-
+| align="left"| [[Bouches-du-Rhône]]
+| style="background:#FFED99;"| 481,129
+| style="background:#FFED99;"| 52.08%
+| 442,759
+| 47.92%
+|-
+| align="left"| [[Calvados (department)|Calvados]]
+| style="background:#FFED99;"| 218,571
+| style="background:#FFED99;"| 60.29%
+| 143,955
+| 39.71%
+|-
+| align="left"| [[Cantal]]
+| style="background:#FFED99;"| 45,054
+| style="background:#FFED99;"| 56.07%
+| 35,301
+| 43.93%
+|-
+| align="left"| [[Charente]]
+| style="background:#FFED99;"| 95,654
+| style="background:#FFED99;"| 55.06%
+| 78,085
+| 44.94%
+|-
+| align="left"| [[Charente-Maritime]]
+| style="background:#FFED99;"| 201,159
+| style="background:#FFED99;"| 56.32%
+| 156,020
+| 43.68%
+|-
+| align="left"| [[Cher (department)|Cher]]
+| style="background:#FFED99;"| 77,739
+| style="background:#FFED99;"| 52.56%
+| 70,160
+| 47.44%
+|-
+| align="left"| [[Corrèze]]
+| style="background:#FFED99;"| 68,272
+| style="background:#FFED99;"| 55.78%
+| 54,131
+| 44.22%
+|-
+| align="left"| [[Corse-du-Sud]]
+| 26,160
+| 41.69%
+| style="background:#C1C9FF;"| 36,595
+| style="background:#C1C9FF;"| 58.31%
+|-
+| align="left"| [[Haute-Corse]]
+| 29,951
+| 42.13%
+| style="background:#C1C9FF;"| 41,137
+| style="background:#C1C9FF;"| 57.87%
+|-
+| align="left"| [[Côte-d'Or]]
+| style="background:#FFED99;"| 144,548
+| style="background:#FFED99;"| 57.27%
+| 107,866
+| 42.73%
+|-
+| align="left"| [[Côtes-d'Armor]]
+| style="background:#FFED99;"| 209,856
+| style="background:#FFED99;"| 62.90%
+| 123,798
+| 37.10%
+|-
+| align="left"| [[Creuse]]
+| style="background:#FFED99;"| 30,552
+| style="background:#FFED99;"| 52.04%
+| 28,152
+| 47.96%
+|-
+| align="left"| [[Dordogne]]
+| style="background:#FFED99;"| 111,480
+| style="background:#FFED99;"| 51.52%
+| 104,894
+| 48.48%
+|-
+| align="left"| [[Doubs]]
+| style="background:#FFED99;"| 141,916
+| style="background:#FFED99;"| 57.16%
+| 106,347
+| 42.84%
+|-
+| align="left"| [[Drôme]]
+| style="background:#FFED99;"| 143,696
+| style="background:#FFED99;"| 55.72%
+| 114,216
+| 44.28%
+|-
+| align="left"| [[Eure]]
+| 146,750
+| 48.62%
+| style="background:#C1C9FF;"| 155,085
+| style="background:#C1C9FF;"| 51.38%
+|-
+| align="left"| [[Eure-et-Loir]]
+| style="background:#FFED99;"| 109,744
+| style="background:#FFED99;"| 53.29%
+| 96,185
+| 46.71%
+|-
+| align="left"| [[Finistère]]
+| style="background:#FFED99;"| 332,396
+| style="background:#FFED99;"| 67.50%
+| 160,073
+| 32.50%
+|-
+| align="left"| [[Gard]]
+| 177,662
+| 47.85%
+| style="background:#C1C9FF;"| 193,659
+| style="background:#C1C9FF;"| 52.15%
+|-
+| align="left"| [[Haute-Garonne]]
+| style="background:#FFED99;"| 409,932
+| style="background:#FFED99;"| 64.42%
+| 226,450
+| 35.58%
+|-
+| align="left"| [[Gers]]
+| style="background:#FFED99;"| 57,115
+| style="background:#FFED99;"| 55.66%
+| 45,490
+| 44.34%
+|-
+| align="left"| [[Gironde]]
+| style="background:#FFED99;"| 484,771
+| style="background:#FFED99;"| 61.37%
+| 305,112
+| 38.63%
+|-
+| align="left"| [[Hérault]]
+| style="background:#FFED99;"| 297,211
+| style="background:#FFED99;"| 52.57%
+| 268,098
+| 47.43%
+|-
+| align="left"| [[Ille-et-Vilaine]]
+| style="background:#FFED99;"| 390,332
+| style="background:#FFED99;"| 70.94%
+| 159,930
+| 29.06%
+|-
+| align="left"| [[Indre]]
+| style="background:#FFED99;"| 57,574
+| style="background:#FFED99;"| 51.41%
+| 54,410
+| 48.59%
+|-
+| align="left"| [[Indre-et-Loire]]
+| style="background:#FFED99;"| 189,230
+| style="background:#FFED99;"| 62.66%
+| 112,770
+| 37.34%
+|-
+| align="left"| [[Isère]]
+| style="background:#FFED99;"| 359,685
+| style="background:#FFED99;"| 59.80%
+| 241,749
+| 40.20%
+|-
+| align="left"| [[Jura (department)|Jura]]
+| style="background:#FFED99;"| 68,843
+| style="background:#FFED99;"| 53.07%
+| 60,882
+| 46.93%
+|-
+| align="left"| [[Landes (department)|Landes]]
+| style="background:#FFED99;"| 128,771
+| style="background:#FFED99;"| 56.54%
+| 98,982
+| 43.46%
+|-
+| align="left"| [[Loir-et-Cher]]
+| style="background:#FFED99;"| 91,359
+| style="background:#FFED99;"| 53.81%
+| 78,433
+| 46.19%
+|-
+| align="left"| [[Loire (department)|Loire]]
+| style="background:#FFED99;"| 194,878
+| style="background:#FFED99;"| 56.64%
+| 149,174
+| 43.36%
+|-
+| align="left"| [[Haute-Loire]]
+| style="background:#FFED99;"| 62,372
+| style="background:#FFED99;"| 50.16%
+| 61,979
+| 49.84%
+|-
+| align="left"| [[Loire-Atlantique]]
+| style="background:#FFED99;"| 492,422
+| style="background:#FFED99;"| 69.20%
+| 219,198
+| 30.80%
+|-
+| align="left"| [[Loiret]]
+| style="background:#FFED99;"| 180,882
+| style="background:#FFED99;"| 57.57%
+| 133,331
+| 42.43%
+|-
+| align="left"| [[Lot (department)|Lot]]
+| style="background:#FFED99;"| 55,130
+| style="background:#FFED99;"| 59.18%
+| 38,031
+| 40.82%
+|-
+| align="left"| [[Lot-et-Garonne]]
+| 81,345
+| 49.53%
+| style="background:#C1C9FF;"| 82,874
+| style="background:#C1C9FF;"| 50.47%
+|-
+| align="left"| [[Lozère]]
+| style="background:#FFED99;"| 22,064
+| style="background:#FFED99;"| 54.20%
+| 18,644
+| 45.80%
+|-
+| align="left"| [[Maine-et-Loire]]
+| style="background:#FFED99;"| 274,810
+| style="background:#FFED99;"| 66.53%
+| 138,259
+| 33.47%
+|-
+| align="left"| [[Manche]]
+| style="background:#FFED99;"| 159,814
+| style="background:#FFED99;"| 59.61%
+| 108,292
+| 40.39%
+|-
+| align="left"| [[Marne (department)|Marne]]
+| style="background:#FFED99;"| 136,054
+| style="background:#FFED99;"| 52.10%
+| 125,074
+| 47.90%
+|-
+| align="left"| [[Haute-Marne]]
+| 38,226
+| 43.04%
+| style="background:#C1C9FF;"| 50,581
+| style="background:#C1C9FF;"| 56.96%
+|-
+| align="left"| [[Mayenne]]
+| style="background:#FFED99;"| 102,263
+| style="background:#FFED99;"| 64.21%
+| 57,006
+| 35.79%
+|-
+| align="left"| [[Meurthe-et-Moselle]]
+| style="background:#FFED99;"| 179,248
+| style="background:#FFED99;"| 54.42%
+| 150,156
+| 45.58%
+|-
+| align="left"| [[Meuse (department)|Meuse]]
+| 41,933
+| 44.39%
+| style="background:#C1C9FF;"| 52,527
+| style="background:#C1C9FF;"| 55.61%
+|-
+| align="left"| [[Morbihan]]
+| style="background:#FFED99;"| 269,755
+| style="background:#FFED99;"| 62.81%
+| 159,717
+| 37.19%
+|-
+| align="left"| [[Moselle (department)|Moselle]]
+| style="background:#FFED99;"| 249,589
+| style="background:#FFED99;"| 50.46%
+| 245,060
+| 49.54%
+|-
+| align="left"| [[Nièvre]]
+| 50,698
+| 49.89%
+| style="background:#C1C9FF;"| 50,923
+| style="background:#C1C9FF;"| 50.11%
+|-
+| align="left"| [[Nord (French department)|Nord]]
+| style="background:#FFED99;"| 634,038
+| style="background:#FFED99;"| 52.85%
+| 565,762
+| 47.15%
+|-
+| align="left"| [[Oise]]
+| 182,791
+| 47.27%
+| style="background:#C1C9FF;"| 203,865
+| style="background:#C1C9FF;"| 52.73%
+|-
+| align="left"| [[Orne]]
+| style="background:#FFED99;"| 79,267
+| style="background:#FFED99;"| 55.11%
+| 64,559
+| 44.89%
+|-
+| align="left"| [[Pas-de-Calais]]
+| 324,144
+| 42.51%
+| style="background:#C1C9FF;"| 438,390
+| style="background:#C1C9FF;"| 57.49%
+|-
+| align="left"| [[Puy-de-Dôme]]
+| style="background:#FFED99;"| 188,468
+| style="background:#FFED99;"| 60.16%
+| 124,825
+| 39.84%
+|-
+| align="left"| [[Pyrénées-Atlantiques]]
+| style="background:#FFED99;"| 219,766
+| style="background:#FFED99;"| 63.05%
+| 128,779
+| 36.95%
+|-
+| align="left"| [[Hautes-Pyrénées]]
+| style="background:#FFED99;"| 65,085
+| style="background:#FFED99;"| 55.50%
+| 52,182
+| 44.50%
+|-
+| align="left"| [[Pyrénées-Orientales]]
+| 106,188
+| 43.68%
+| style="background:#C1C9FF;"| 136,922
+| style="background:#C1C9FF;"| 56.32%
+|-
+| align="left"| [[Bas-Rhin]]
+| style="background:#FFED99;"| 320,198
+| style="background:#FFED99;"| 58.96%
+| 222,838
+| 41.04%
+|-
+| align="left"| [[Haut-Rhin]]
+| style="background:#FFED99;"| 191,814
+| style="background:#FFED99;"| 52.90%
+| 170,777
+| 47.10%
+|-
+| align="left"| [[Rhône (department)|Rhône]]
+| style="background:#FFED99;"| 551,544
+| style="background:#FFED99;"| 68.66%
+| 251,720
+| 31.34%
+|-
+| align="left"| [[Haute-Saône]]
+| 53,568
+| 43.10%
+| style="background:#C1C9FF;"| 70,720
+| style="background:#C1C9FF;"| 56.90%
+|-
+| align="left"| [[Saône-et-Loire]]
+| style="background:#FFED99;"| 144,989
+| style="background:#FFED99;"| 53.33%
+| 126,860
+| 46.67%
+|-
+| align="left"| [[Sarthe]]
+| style="background:#FFED99;"| 154,909
+| style="background:#FFED99;"| 55.41%
+| 124,658
+| 44.59%
+|-
+| align="left"| [[Savoie]]
+| style="background:#FFED99;"| 125,770
+| style="background:#FFED99;"| 57.62%
+| 92,487
+| 42.38%
+|-
+| align="left"| [[Haute-Savoie]]
+| style="background:#FFED99;"| 237,506
+| style="background:#FFED99;"| 61.66%
+| 147,694
+| 38.34%
+|-
+| align="left"| [[Paris]]
+| style="background:#FFED99;"| 808,996
+| style="background:#FFED99;"| 85.10%
+| 141,591
+| 14.90%
+|-
+| align="left"| [[Seine-Maritime]]
+| style="background:#FFED99;"| 332,139
+| style="background:#FFED99;"| 55.28%
+| 268,688
+| 44.72%
+|-
+| align="left"| [[Seine-et-Marne]]
+| style="background:#FFED99;"| 329,771
+| style="background:#FFED99;"| 56.98%
+| 249,014
+| 43.02%
+|-
+| align="left"| [[Yvelines]]
+| style="background:#FFED99;"| 464,910
+| style="background:#FFED99;"| 71.05%
+| 189,474
+| 28.95%
+|-
+| align="left"| [[Deux-Sèvres]]
+| style="background:#FFED99;"| 117,805
+| style="background:#FFED99;"| 62.13%
+| 71,791
+| 37.87%
+|-
+| align="left"| [[Somme (department)|Somme]]
+| 109,415
+| 45.37%
+| style="background:#C1C9FF;"| 131,773
+| style="background:#C1C9FF;"| 54.63%
+|-
+| align="left"| [[Tarn (department)|Tarn]]
+| style="background:#FFED99;"| 106,768
+| style="background:#FFED99;"| 53.06%
+| 94,441
+| 46.94%
+|-
+| align="left"| [[Tarn-et-Garonne]]
+| 62,503
+| 47.98%
+| style="background:#C1C9FF;"| 67,770
+| style="background:#C1C9FF;"| 52.02%
+|-
+| align="left"| [[Var (department)|Var]]
+| 252,723
+| 44.90%
+| style="background:#C1C9FF;"| 310,126
+| style="background:#C1C9FF;"| 55.10%
+|-
+| align="left"| [[Vaucluse]]
+| 134,475
+| 48.00%
+| style="background:#C1C9FF;"| 145,705
+| style="background:#C1C9FF;"| 52.00%
+|-
+| align="left"| [[Vendée]]
+| style="background:#FFED99;"| 244,494
+| style="background:#FFED99;"| 61.86%
+| 150,772
+| 38.14%
+|-
+| align="left"| [[Vienne (department)|Vienne]]
+| style="background:#FFED99;"| 125,174
+| style="background:#FFED99;"| 60.12%
+| 83,050
+| 39.88%
+|-
+| align="left"| [[Haute-Vienne]]
+| style="background:#FFED99;"| 103,329
+| style="background:#FFED99;"| 59.18%
+| 71,263
+| 40.82%
+|-
+| align="left"| [[Vosges (department)|Vosges]]
+| 91,555
+| 47.59%
+| style="background:#C1C9FF;"| 100,839
+| style="background:#C1C9FF;"| 52.41%
+|-
+| align="left"| [[Yonne]]
+| 78,038
+| 48.41%
+| style="background:#C1C9FF;"| 83,169
+| style="background:#C1C9FF;"| 51.59%
+|-
+| align="left"| [[Territoire de Belfort]]
+| style="background:#FFED99;"| 31,987
+| style="background:#FFED99;"| 51.44%
+| 30,202
+| 48.56%
+|-
+| align="left"| [[Essonne]]
+| style="background:#FFED99;"| 338,567
+| style="background:#FFED99;"| 65.43%
+| 178,906
+| 34.57%
+|-
+| align="left"| [[Hauts-de-Seine]]
+| style="background:#FFED99;"| 552,124
+| style="background:#FFED99;"| 80.39%
+| 134,685
+| 19.61%
+|-
+| align="left"| [[Seine-Saint-Denis]]
+| style="background:#FFED99;"| 326,038
+| style="background:#FFED99;"| 73.72%
+| 116,223
+| 26.28%
+|-
+| align="left"| [[Val-de-Marne]]
+| style="background:#FFED99;"| 376,204
+| style="background:#FFED99;"| 74.48%
+| 128,873
+| 25.52%
+|-
+| align="left"| [[Val-d'Oise]]
+| style="background:#FFED99;"| 299,829
+| style="background:#FFED99;"| 66.15%
+| 153,446
+| 33.85%
+|- class="sortbottom"
+| colspan="5"|
+|-
+| align="left"| [[Guadeloupe]]
+| 40,229
+| 30.40%
+| style="background:#C1C9FF;"| 92,106
+| style="background:#C1C9FF;"| 69.60%
+|-
+| align="left"| [[Martinique]]
+| 46,918
+| 39.13%
+| style="background:#C1C9FF;"| 73,000
+| style="background:#C1C9FF;"| 60.87%
+|-
+| align="left"| [[French Guiana]]
+| 14,073
+| 39.30%
+| style="background:#C1C9FF;"| 21,734
+| style="background:#C1C9FF;"| 60.70%
+|-
+| align="left"| [[Réunion]]
+| 147,270
+| 40.43%
+| style="background:#C1C9FF;"| 217,021
+| style="background:#C1C9FF;"| 59.57%
+|-
+| align="left"| [[Mayotte]]
+| 15,707
+| 40.90%
+| style="background:#C1C9FF;"| 22,694
+| style="background:#C1C9FF;"| 59.10%
+|-
+| align="left"| [[2022 French presidential election in New Caledonia|New Caledonia]]
+| style="background:#FFED99;"| 43,794
+| style="background:#FFED99;"| 61.04%
+| 27,958
+| 38.96%
+|-
+| align="left"| [[French Polynesia]]
+| style="background:#FFED99;"| 42,890
+| style="background:#FFED99;"| 51.80%
+| 39,913
+| 48.20%
+|-
+| align="left"| [[Saint Pierre and Miquelon]]
+| 1,243
+| 49.31%
+| style="background:#C1C9FF;"| 1,278
+| style="background:#C1C9FF;"| 50.69%
+|-
+| align="left"| [[Wallis and Futuna]]
+| style="background:#FFED99;"| 3,830
+| style="background:#FFED99;"| 67.44%
+| 1,849
+| 32.56%
+|-
+| align="left"| [[Collectivity of Saint Martin|Saint Martin]]/[[Saint Barthélemy]]
+| 3,850
+| 44.58%
+| style="background:#C1C9FF;"| 4,787
+| style="background:#C1C9FF;"| 55.42%
+|-
+| align="left"| [[Constituencies for French residents overseas|French residents overseas]]
+| style="background:#FFED99;"| 458,874
+| style="background:#FFED99;"| 86.14%
+| 73,830
+| 13.86%
+|-
+|- class="sortbottom"
+| colspan="5"|
+|- class="sortbottom" style="font-weight:bold; background:#E4E4E4;"
+| align="left"| Total
+| style="background:#FFED99;"| 18,768,639
+| style="background:#FFED99;"| 58.55%
+| 13,288,686
+| 41.45%
+|- class="sortbottom"
+| colspan="5" style="text-align:left; background-color:#eaecf0"| Source: [https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/index.html Minister of the Interior]
+|}
+
+{| class="wikitable sortable collapsible collapsed mw-datatable" style="text-align:right; font-size:95%; line-height:20px"
+|+ class="nowrap" | Results by [[Regions of France|region]]
+|-
+! width="200" rowspan="3"| [[Regions of France|Region]]
+! width="110" colspan="2"| [[Emmanuel Macron|Emmanuel<br/>Macron]]
+! width="110" colspan="2"| [[Marine Le Pen|Marine<br/>Le Pen]]
+|-
+! colspan="2" style="background:{{party color|En Marche!}};"|
+! colspan="2" style="background:{{party color|National Front (France)}};"|
+|-
+! Votes
+! %
+! Votes
+! %
+|-
+| align="left"| [[Auvergne-Rhône-Alpes]]
+| style="background:#FFED99;"| 2,253,507
+| style="background:#FFED99;"| 59.76%
+| 1,517,277
+| 40.24%
+|-
+| align="left"| [[Bourgogne-Franche-Comté]]
+| style="background:#FFED99;"| 714,587
+| style="background:#FFED99;"| 52.87%
+| 636,969
+| 47.13%
+|-
+| align="left"| [[Brittany]]
+| style="background:#FFED99;"| 1,202,339
+| style="background:#FFED99;"| 66.58%
+| 603,518
+| 33.42%
+|-
+| align="left"| [[Centre-Val de Loire]]
+| style="background:#FFED99;"| 706,528
+| style="background:#FFED99;"| 56.44%
+| 545,289
+| 43.56%
+|-
+| align="left"| [[Corsica]]
+| 56,111
+| 41.92%
+| style="background:#C1C9FF;"| 77,732
+| style="background:#C1C9FF;"| 58.08%
+|-
+| align="left"| [[Grand Est]]
+| style="background:#FFED99;"| 1,372,519
+| style="background:#FFED99;"| 52.07%
+| 1,263,522
+| 47.93%
+|-
+| align="left"| [[Hauts-de-France]]
+| 1,384,266
+| 47.87%
+| style="background:#C1C9FF;"| 1,507,755
+| style="background:#C1C9FF;"| 52.13%
+|-
+| align="left"| [[Île-de-France]]
+| style="background:#FFED99;"| 3,496,439
+| style="background:#FFED99;"| 73.02%
+| 1,292,212
+| 26.98%
+|-
+| align="left"| [[Normandy]]
+| style="background:#FFED99;"| 936,541
+| style="background:#FFED99;"| 55.84%
+| 740,579
+| 44.16%
+|-
+| align="left"| [[Nouvelle-Aquitaine]]
+| style="background:#FFED99;"| 1,768,079
+| style="background:#FFED99;"| 58.33%
+| 1,263,134
+| 41.67%
+|-
+| align="left"| [[Occitania (administrative region)|Occitanie]]
+| style="background:#FFED99;"| 1,574,372
+| style="background:#FFED99;"| 53.96%
+| 1,343,130
+| 46.04%
+|-
+| align="left"| [[Pays de la Loire]]
+| style="background:#FFED99;"| 1,268,898
+| style="background:#FFED99;"| 64.78%
+| 689,893
+| 35.22%
+|-
+| align="left"| [[Provence-Alpes-Côte d'Azur]]
+| 1,214,180
+| 49.52%
+| style="background:#C1C9FF;"| 1,237,802
+| style="background:#C1C9FF;"| 50.48%
+|- class="sortbottom"
+| colspan="5"|
+|-
+| align="left"| [[Guadeloupe]]
+| 40,229
+| 30.40%
+| style="background:#C1C9FF;"| 92,106
+| style="background:#C1C9FF;"| 69.60%
+|-
+| align="left"| [[Martinique]]
+| 46,918
+| 39.13%
+| style="background:#C1C9FF;"| 73,000
+| style="background:#C1C9FF;"| 60.87%
+|-
+| align="left"| [[French Guiana]]
+| 14,073
+| 39.30%
+| style="background:#C1C9FF;"| 21,734
+| style="background:#C1C9FF;"| 60.70%
+|-
+| align="left"| [[Réunion]]
+| 147,270
+| 40.43%
+| style="background:#C1C9FF;"| 217,021
+| style="background:#C1C9FF;"| 59.57%
+|-
+| align="left"| [[Mayotte]]
+| 15,707
+| 40.90%
+| style="background:#C1C9FF;"| 22,694
+| style="background:#C1C9FF;"| 59.10%
+|-
+| align="left"| [[Constituencies for French residents overseas|French residents overseas]]
+| style="background:#FFED99;"| 458,874
+| style="background:#FFED99;"| 86.14%
+| 73,830
+| 13.86%
+|-
+|- class="sortbottom"
+| colspan="5"|
+|-
+|- class="sortbottom"
+| colspan="5" style="text-align:left; background-color:#eaecf0"| Source: [https://www.resultats-elections.interieur.gouv.fr/presidentielle-2022/index.html Minister of the Interior]
+|}
+
+==== Maps ====
+===== Nationwide =====
+<gallery mode="packed" heights="145" style="float:left;">
+File:Simple French Presidential Election Second Round Map.svg|Simplified map of the second round
+File:France presidential election, 2nd round by constituency.svg|Results of the second round by [[List of constituencies of the National Assembly of France|parliamentary constituency]]
+File:France presidential election, 2nd round by commune.svg|Results of the second round by [[Communes of France|commune]]
+</gallery>
+{{clear}}
+
+=====By region=====
+<gallery mode="packed" heights="145" style="float:left;">
+File:2022 French presidential election in French Guiana (second round).svg|Results of the second round in [[French Guiana]] by [[Communes of French Guiana|commune]]
+File:2022 French presidential election in French Polynesia (second round).svg|Results of the second round in [[French Polynesia]] by [[Communes of French Polynesia|commune]]
+File:2022 French presidential election in Guadeloupe (second round).svg|Results of the second round in [[Guadeloupe]] by [[Communes of Guadeloupe|commune]]
+File:2022 French presidential election in Martinique (second round).svg|Results of the second round in [[Martinique]] by [[Communes of Martinique|commune]]
+File:2022 French presidential election in Mayotte (second round).svg|Results of the second round in [[Mayotte]] by [[Communes of Mayotte|commune]]
+File:2022 French presidential election in New Caledonia (second round).svg|Results of the second round in [[New Caledonia]] by [[Communes of New Caledonia|commune]]
+File:2022 French presidential election in Réunion (second round).svg|Results of the second round in [[Réunion]] by [[Communes of Réunion|commune]]
+File:2022 French presidential election in Saint-Barthélemy and Saint-Martin (second round).svg|Results of the second round in [[Saint Barthélemy]] (top left) and [[Collectivity of Saint Martin|Saint Martin]] (bottom right)
+File:2022 French presidential election in Saint-Pierre and Miquelon (second round).svg|Results of the second round in [[Saint Pierre and Miquelon]] by [[Communes of Saint Pierre and Miquelon|commune]]
+</gallery>
+{{clear}}
+
+== Aftermath ==
+''[[The New York Times]]'' commented that the race was much closer than in 2017, when Macron won 66.1% of the vote to Le Pen's 33.9%, but that Macron's margin was wider than expected prior to the election.<ref name="NYT04242">{{cite news |last=Cohen |first=Roger |date=24 April 2022 |title=Emmanuel Macron is re-elected French president, defeating Marine Le Pen. |language=en-US |work=The New York Times |url=https://www.nytimes.com/2022/04/24/world/europe/emmanuel-macron-france-election-marine-le-pen.html |access-date=24 April 2022 |issn=0362-4331}}</ref> Le Pen conceded defeat minutes after the estimated results were released,<ref name="smh0424">{{cite web |date=24 April 2022 |title=Macron wins French presidential election as Le Pen concedes |url=https://www.smh.com.au/world/europe/exit-polls-suggest-macron-has-edge-in-french-presidential-election-20220425-p5afrz.html |access-date=24 April 2022 |website=The Sydney Morning Herald |language=en}}</ref> but still called the outcome a victory for her political movement and for the upcoming parliamentary elections.<ref name="skyblog2">{{cite web |title=Boris Johnson congratulates Macron |url=https://news.sky.com/story/french-election-voters-choose-between-emmanuel-macron-and-marine-le-pen-as-nation-to-pick-next-president-12597957 |website=Sky News}}</ref><ref name=":3"/> It was the best result for the [[far right in France]] since the founding of the [[Fifth French Republic]] in [[1958 French presidential election|1958]].<ref>{{cite news|last=Adghirni|first=Sami|date=20 June 2022|url=https://www.washingtonpost.com/business/how-an-emboldened-far-right-is-changing-french-politics/2022/06/20/b5c57cfe-f084-11ec-ac16-8fbf7194cd78_story.html|title=How an Emboldened Far-Right Is Changing French Politics|newspaper=The Washington Post|access-date=20 June 2022}}</ref>
+
+[[Olivier Véran]], [[Minister of Health (France)|Minister for Solidarity and Health]], stated that the government has "heard the French people's message", referring to the increasing number of votes for the far-right, and that "there will be a change of method".<ref name="skyblog2"/> Macron reflected on the results of the elections self-critically, assuming that many voters voted for him to counter the far right rather than in support of his political positions.<ref name=":4">{{cite news |last1=Wiegel |first1=Michaela |last2=Paris |title=Präsident wiedergewählt: Macron will Wut der Le-Pen-Wähler ansprechen |language=de |work=FAZ.NET |url=https://www.faz.net/aktuell/politik/ausland/frankreich-praesident-emmanuel-macron-gewinnt-wahl-gegen-marine-le-pen-17980728.html |access-date=24 April 2022 |issn=0174-4909}}</ref> Macron was congratulated by several world leaders on his re-election, with his first call coming from German chancellor [[Olaf Scholz]].<ref>{{cite news |author=<!--not stated--> |date=24 April 2022 |title=Macron's first phone call after re-election was Germany's Scholz |url=https://www.france24.com/en/video/20220424-macron-s-first-phone-call-after-re-election-was-germany-s-scholz |work=France24  |location= |access-date=25 April 2022}}</ref><ref>{{cite news |title=French election: World leaders congratulate Macron on victory |url=https://www.aljazeera.com/news/2022/4/24/french-election-2022-europe-reacts-as-macron-beats-le-pen |access-date=25 April 2022 |agency=Al Jazeera |date=25 April 2022}}</ref>
+
+==See also==
+*[[President of France]]
+*[[Politics of France]]
+* [[French presidential elections under the Fifth Republic]]
+
+==Notes==
+=== Footnotes ===
+{{notelist}}
+
+=== References ===
+{{reflist}}
+
+==External links==
+{{Commons}}
+*[https://presidentielle2022.conseil-constitutionnel.fr/ Constitutional Council official website] (in French)
+
+{{French elections}}
+{{Candidates in the 2022 French presidential election}}
+{{Emmanuel Macron}}
+
+[[Category:2022 French presidential election| ]]
+[[Category:2022 elections in Europe|France]]
+[[Category:2022 elections in France|Presidential]]
+[[Category:April 2022 in France|Presidential]]
+[[Category:Presidential elections in France]]
+[[Category:Emmanuel Macron]]
+[[Category:Michel Barnier]]

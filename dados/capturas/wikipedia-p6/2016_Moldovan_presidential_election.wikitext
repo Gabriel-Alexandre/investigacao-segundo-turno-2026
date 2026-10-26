@@ -1,0 +1,229 @@
+{{Short description|none}}
+{{Infobox election
+| country = Moldova
+| type = presidential
+| previous_election = 2011–2012 Moldovan presidential election
+| previous_year = {{nowrap|2011–12}}
+| election_date = 30 October 2016 (first round)<br />{{nowrap|13 November 2016 (second round)}}
+| next_election = 2020 Moldovan presidential election
+| next_year = 2020
+
+| image1 = Igor Dodon (01.2017; cropped) (cropped).jpg
+| candidate1 = '''[[Igor Dodon]]'''
+| party1 = Party of Socialists of the Republic of Moldova
+| popular_vote1 = '''834,081'''
+| percentage1 = '''52.11%'''
+
+| image2 = Maia Sandu - EPP Summit - June 2017 (35463818515) (cropped).jpg
+| colour2 = e6c300
+| candidate2 = [[Maia Sandu]]
+| party2 = [[Action and Solidarity|PAS]]
+| popular_vote2 = 766,593
+| percentage2 = 47.89%
+
+| title = [[President of Moldova|President]]
+| before_election = [[Nicolae Timofti]]
+| before_party = Independent politician
+| after_election = [[Igor Dodon]]
+| after_party = [[Party of Socialists of the Republic of Moldova|PSRM]]
+| map_image = 2016 Moldovan presidential election map (2nd round).svg
+| map_size = 250px
+| map_caption = Second round results by territorial electoral commission<br> '''Dodon:''' {{legend0|#f8b3b6ff|50–55%}} {{legend0|#f48d91ff|55–60%}} {{legend0|#f0676cff|60–65%}} {{legend0|#ee4147ff|65–70%}} {{legend0|#d01d21ff|70–75%}} {{legend0|#b40000ff|75–80%}} {{legend0|#8b0000ff|80–85%}} {{legend0|#2d0000ff|>95%}} <br> '''Sandu:''' {{legend0|#ffde71ff|50–55%}} {{legend0|#f9c75aff|55–60%}} {{legend0|#f2b642ff|60–65%}} {{legend0|#eea533ff|65–70%}} {{legend0|#cf7a11ff|75–80%}}
+| turnout = 49.18% (first round)<br>53.45% (second round)
+}}{{Politics of Moldova}}
+
+Presidential elections were held in [[Moldova]] on 30 October 2016.<ref>{{cite web |url=http://www.hotnews.ro/stiri-esential-20908466-alegerile-prezidentiale-din-moldova-vor-tine-30-octombrie.htm |title=Alegerile prezidentiale din R. Moldova se vor tine pe 30 octombrie |work=HotNews.ro |author= G. S. |date=1 April 2016}}</ref> They were the first direct presidential elections since [[1996 Moldovan presidential election|1996]] and followed a declaration by the [[Constitutional Court of Moldova|Constitutional Court]] on 4 March 2016 that the 2000 constitutional revision that led to the president being indirectly elected by [[Parliament of the Republic of Moldova|Parliament]] was unconstitutional.<ref>{{cite web |url=http://www.publika.md/curtea-constitutionala-a-decis-presedintele-tarii-va-fi-ales-prin-vot-direct-de-catre-popor-_2551711.html |title=The Constitutional Court of Moldova has decided: the country's president will be directly elected by the people |date=4 March 2016 |publisher=publika.md |accessdate=4 March 2016 |archive-date=8 November 2016 |archive-url=https://web.archive.org/web/20161108083658/http://www.publika.md/curtea-constitutionala-a-decis-presedintele-tarii-va-fi-ales-prin-vot-direct-de-catre-popor-_2551711.html |url-status=dead }}</ref><ref>{{cite web |url=http://unimedia.info/stiri/video-ultima-ora-curtea-constitutionala-presedintele-va-fi-ales-direct-de-popor-110682.html |title=The Constitutional Court: the president will be elected by the people |publisher=Unimedia.info |accessdate=4 March 2016 |archive-date=7 May 2016 |archive-url=https://web.archive.org/web/20160507210008/http://unimedia.info/stiri/video-ultima-ora-curtea-constitutionala-presedintele-va-fi-ales-direct-de-popor-110682.html |url-status=dead }}</ref> The elections were won by [[Igor Dodon]] of the [[Party of Socialists of the Republic of Moldova]] (PSRM).<ref>{{Cite news |url=http://unimedia.info/stiri/igor-dodon-este-noul-presedinte-al-republicii-moldova-123182.html |title=Igor Dodon este noul președinte al Republicii Moldova |access-date=2016-11-13 |archive-date=2016-11-18 |archive-url=https://web.archive.org/web/20161118212644/http://unimedia.info/stiri/igor-dodon-este-noul-presedinte-al-republicii-moldova-123182.html |url-status=dead }}</ref><ref name=voa20161113 />
+
+==Candidates==
+{| class=wikitable
+!# on electoral list
+!Candidate
+!Party
+|-
+|align=center|1||—||—
+|-
+|align=center|2||[[Mihai Ghimpu]]||[[Liberal Party (Moldova)|Liberal Party]]
+|-
+|align=center|3||[[Iurie Leancă]]||[[European People's Party of Moldova|European People's Party]]
+|-
+|align=center|4||[[Dumitru Ciubașenco]]||[[Our Party (Moldova)|Our Party]]
+|-
+|align=center|5||[[Maia Sandu]]||[[Party of Action and Solidarity]]
+|-
+|align=center|6||[[Igor Dodon]]||[[Party of Socialists of the Republic of Moldova]]
+|-
+|align=center|7||[[Silvia Radu (politician)|Silvia Radu]]||[[Independent politician|Independent]]
+|-
+|align=center|8||[[Maia Laguta]]||Independent
+|-
+|align=center|9||[[Ana Guțu]]||Party "The Right"
+|-
+|align=center|10||[[Valeriu Ghilețchi]]||Independent
+|}
+
+Withdrawn candidates:
+*[[Marian Lupu]] – withdrew on 26 October and endorsed Maia Sandu.
+*Andrei Năstase – withdrew on 15 October and supported a common candidate from the [[centre-right]] opposition, Maia Sandu.
+*Inna Popenco – registration was annulled on 22 October by a court decision upon the CEC request.
+
+Candidates who got registration refusal by CEC:
+*[[Vitalia Pavlicenco]]
+*[[Vasile Tarlev]]
+*Roman Mihăeș
+*Ion Dron
+
+Candidates who failed to collect the required number of signatures:
+*[[Oleg Brega]] – announced his withdrawal on 12 September, claiming the CEC were dishonest;
+*[[Anatol Plugaru]] – announced his withdrawal from the race on 23 September, declaring the election "unconstitutional";<ref>{{Cite web|url=http://en.crimemoldova.com/news/elections-2016/independent-presidential-candidate-anatol-plugaru-withdraws-from-the-race-requesting-the-declararati/|title=Independent presidential candidate, Anatol Plugaru withdraws from the race, requesting the declararation of elections as unconstitutional|website=en.crimemoldova.com|access-date=2016-09-28|archive-url=https://web.archive.org/web/20161001185242/http://en.crimemoldova.com/news/elections-2016/independent-presidential-candidate-anatol-plugaru-withdraws-from-the-race-requesting-the-declararati/|archive-date=2016-10-01|url-status=dead}}</ref>
+*[[Vadim Brînzan|Vadim Brinzan]];
+*Mihai Corj;
+*Artur Croitor;
+*Ilie Rotaru;
+*Mihail Garbuz;
+*Geta Saviţcaia.
+
+The [[Party of Communists of the Republic of Moldova]] did not nominate a candidate and called on voters to boycott the elections as they considered them to be illegal. The [[Liberal Democratic Party of Moldova]] also failed to nominate a candidate, instead supporting a common candidate from the [[centre-right]] opposition, Maia Sandu.
+
+==Opinion polls==
+
+===First round===
+{|class="wikitable sortable collapsible" style="text-align:center;font-size:85%;line-height:14px"
+!rowspan=2|Date
+!rowspan=2|Pollster
+!rowspan=2|Sample
+![[Igor Dodon|Dodon]]<br/><small>[[Party of Socialists of the Republic of Moldova|PSRM]]</small>
+![[Maia Sandu|Sandu]]<br/><small>[[Action and Solidarity|PAS]]</small>
+![[Dumitru Ciubașenco|Ciubașenco]]<br/><small>[[Our Party (Moldova)|PN]]</small>
+!Năstase<br/><small>[[Dignity and Truth Platform Party|PPDA]]</small>
+![[Vladimir Voronin|Voronin]]<br/><small>[[Party of Communists of the Republic of Moldova|PCRM]]</small>
+![[Iurie Leancă|Leancă]]<br/><small>[[European People's Party of Moldova|PPEM]]</small>
+![[Marian Lupu|Lupu]]<br/><small>[[Democratic Party of Moldova|PDM]]</small>
+!rowspan=2|Others
+!rowspan=2|Undecided
+!rowspan=2|Lead 
+|- 
+!style="background:#990000"|
+!style="background:#E6C300"|
+!style="background:#003366"|
+!style="background:#FC0015"|
+!style="background:#FC0015"|
+!style="background:#003399"|
+!style="background:#0000C0"|
+|- 
+|6–16 October||[http://unimedia.info/stiri/Igor-Dodon-i-Maia-Sandu-lideri-in-topul-preferinelor-pentru-scrutinul-prezidenial-121637.html BOP]||1,109||{{yes|'''27.0%'''}}||{{yes|9.3%}}||5.6%||8.1%||||1.7%||7.5%||5.8%||35.0%||style="background:#990000; color:white;"|17.7%
+|- 
+| rowspan="3"| {{nowrap|23 September–6 October}}
+| rowspan="3"| [http://www.europalibera.org/a/28051273.html Konrad Adenauer Stiftung Moldova] 
+| rowspan="3"|1,102
+|{{yes|'''33.4%'''}}||{{yes|26.5%}}||||||||<5.0%||12.2%||<5.0%||11.4%||style="background:#990000; color:white;"|6.8%
+|-
+|{{yes|'''33.7%'''}}||||||{{yes|21.9%}}||||<5.0%||13.0%||<5.0%||11.4%||style="background:#990000; color:white;"|11.9%
+|-
+|{{yes|'''33.0%'''}}||{{yes|14.3%}}||||13.0%||||<5.0%||12.5%||<5.0%||11.4%||style="background:#990000; color:white;"|18.6%
+|-
+|-
+|14–25 September
+|{{Deprecated archive|url=https://archive.today/20161025084131/http://www.viitorul.org/doc.php?l=ro&idc=298&id=5340&t=/STUDII-IDIS/Sondaje-nationale/Sondaj-national-Calitatea-guvernarii-evaluata-prin-prisma-serviciilor-acordate-de-stat|title=IDIS}}
+|1,108
+|{{yes|'''23.1%'''}}
+|{{yes|'''7.9%'''}}
+|
+|7.7%
+|
+|3.2%
+|7.6%
+|11.2%
+|27.5%
+|style="background:#990000; color:white;"|15.2%
+|-
+|28 September–5 October||[http://www.stiripesurse.ro/sondaj-batalie-dura-pentru-locul-doi-in-alegeri_1156334.html ASDM]||1,161||{{yes|'''33.9%'''}}||10.1%||||{{yes|12.6%}}||||6.8%||11.8%||9.1%||15.7%||style="background:#990000; color:white;"|21.3%
+|-
+|1–23 September||[http://www.iri.org/sites/default/files/wysiwyg/iri_moldova_september_2016_moldova_poll_for_review.pdf IRI]||1,516||{{yes|'''30%'''}}||{{yes|13.5%}}||||13%||5%||3%||12%||10%||14%||style="background:#990000; color:white;"|16.5%
+|-
+|2–10 September||[https://web.archive.org/web/20161012030458/http://www.realitatea.md/sondaj--favoritii-la-alegerile-prezidentiale-nu-se-schimba--igor-dodon-si-maia-sandu-raman-in-top---grafic_45220.html ASDM]||1,179||{{yes|'''29.0%'''}}||{{yes|12.9%}}||||11.1%||||6.5%||9.9%||6.8%||12.1%||style="background:#990000; color:white;"|16.1%
+|-
+|21 May–15 June||[http://www.europalibera.org/a/27822883.html FOP]||4,626||{{yes|'''18.1%'''}}||{{yes|11.4%}}||9.0%*||7.7%||5.1%||3.9%||3.7%||8.6%||10.2%||style="background:#990000; color:white;"|6.7%
+|-
+|May||[https://web.archive.org/web/20161011085833/http://www.realitatea.md/un-nou-sondaj-ndi-igor-dodon-i-maia-sandu-s-ar-putea-bate-in-turul-doi-pentru-fotoliul-de-pre-edinte_40090.html NDI]||||{{yes|'''20%'''}}||{{yes|14%}}||||13%||7%||5%||5%||||24%||style="background:#990000; color:white;"|6%
+|-
+|16–23 April||[https://web.archive.org/web/20160407035743/http://www.ipp.md/libview.php?l=ro IPP]||1,143||{{yes|'''18.5%'''}}||{{yes|12.9%}}||4.8%*||7.7%||4.8%||2.6%||2.2%||9.4%||37.1%||style="background:#990000; color:white;"|5.6%
+|-
+|1–10 April||[http://unimedia.info/stiri/Sondaj-Lupta-pentru-preedinie-se-va-da-intre-Igor-Dodon-i-Maia-Sandu-113064.html ASDM]||1,169||{{yes|'''18.1%'''}}||{{yes|12.4%}} || 10.9%* || 10.3%||6.9%||5.7%||3.6%||19.2%||9.5%||style="background:#990000; color:white;"|5.7%
+|-
+|11–25 March||[http://protv.md/stiri/politic/sondaj-iri-daca-ar-avea-40-de-ani-renato-usatii-s-ar-bate-cu-igor---1428611.html IRI]||1,500||{{yes|18%}}||10%||{{yes|'''20%'''}}*||12%||6%||3%||5%||14%||18%||style="background:#003366; color:white;"|2%
+|-
+|11–20 March||[https://www.privesc.eu/arhiva/66222 Ziarul Timpul și Fondul Opiniei Publice]||1,792||{{yes|'''11.7%'''}}||9.0%||{{yes|9.7%}}*||7.6%||4.9%||3.6%||3.4%||10.3%||14.2%||style="background:#990000; color:white;"|2.0%
+|-
+|}
+
+<nowiki>*</nowiki> Other candidate [[Renato Usatîi]] may not participate. Each candidate must be at least 42 years of age.
+
+===Second round===
+
+====Dodon–Sandu====
+{|class="wikitable sortable collapsible" style="text-align:center;font-size:85%;line-height:14px"
+|-
+!! style="width:100px;" rowspan="3"|<br />Date<br />!! style="" rowspan="3"|Poll Source!! style="width:65px;" rowspan="3"|Sample Size!! style="width:45px;"|[[File:Igor Dodon - November 2016 (cropped).jpg|92x92px]]!! style="width:45px;" |[[File:EPP EaP Leaders'Meeting - 23 November 2017 (38547155626) (cropped).jpg|84x84px]]!! rowspan="3" style="width:45px;" |Undecided!! style="width:45px;" rowspan="3"|Lead 
+|- 
+!! style="background:#990000"| !! style="background:#E6C300"|
+|- 
+!! style="width:45px;"|[[Igor Dodon|Dodon]]<br/><small>[[Party of Socialists of the Republic of Moldova|PSRM]]</small>!! style="width:45px;"|[[Maia Sandu|Sandu]]<br/><small>[[Action and Solidarity|PAS]]</small>
+|-
+|6–16 October||[https://web.archive.org/web/20161023101305/http://unimedia.info/stiri/infografic-cum-ar-vota-moldovenii-daca-in-turul-ii-ar-ajunge-sandu-si-dodon-sau-lupu-si-dodon-121639.html BOP]||1,109||{{yes|'''40,8%'''}}||24.1%||35.1%|| style="background:#990000; color:white;" |16.7%
+|-
+|}
+
+==Conduct==
+[[File:Voting line.jpg|thumb|A voting line in the second round]]
+===Signature collection===
+[[Marian Lupu]], the candidate of the [[Democratic Party of Moldova]], collected over 20,000 signatures in his support and submitted them to the Central Electoral Commission in less than a day.<ref>{{cite web |url=http://www.noi.md/md/news_id/90344#close |title=PDM a colectat 29 de mii de semnaturi și le-a dus la CEC |date=4 September 2016}}</ref> The swiftness of the procedure was deemed suspicious, because the required stamps and signatures had to be obtained from public institutions that were closed at the time the party supporters could have collected them.
+
+An independent candidate, [[Oleg Brega]], filed a complaint with the Commission, indicating that the [[Democratic Party of Moldova|DPM]] must have received preferential treatment as their paperwork was handled on Friday after working hours, as well as on Saturday, a non-working day.<ref>{{cite web| url=https://www.youtube.com/watch?v=cDladXapWUA| title=Cum a primit Oleg Brega listele pentru colectarea semnăturilor| website=[[YouTube]]|date=4 September 2016}}</ref> The CEC dismissed the complaint and in the aftermath Brega decided to drop out of the presidential race, considering it unfair. A separate complaint was filed by Andrei Năstase on the same grounds.<ref>{{citation |url=http://www.zdg.md/stiri/stiri-justitie/andrei-nastase-a-dat-in-judecata-cec-si-pe-marian-lupu |title=Andrei Năstase a dat în judecată CEC-ul și pe Marian Lupu}}</ref>
+
+Lupu stated that it was due to the effectiveness of his staff, rather than cheating.
+
+===Voter roll===
+Prior to the elections the Central Electoral Commission announced that the total number of voters was 3.2 million, an implausible figure, given the steady decline in Moldova's population,<ref>{{cite magazine| url=https://content.time.com/time/specials/packages/article/0,28804,2097720_2097782_2097841,00.html |title=Nobody Home: The Countries Where Population Is on the Decline|magazine=Time|date=26 October 2011|last1=Jackson|first1=Joe}}</ref> and the fact that preliminary results of the 2014 demographic survey indicated that the total population of the country was only three million.<ref>{{cite web |url=https://jurnaltv.md/ro/news/2016/8/23/mai-mul-i-alegatori-decat-popula-ie-10237212/ |title=Mai mulți alegători decât populație}}</ref>
+
+An independent investigation revealed that the lists of voters prepared by the Central Electoral Commission were inaccurate and contained a significant number of deceased people.<ref>{{citation |url=https://www.rise.md/articol/cimitirul-din-listele-electorale/ |title=Cimitirul din listele electorale}}</ref> From a sample of 300 deceased, 100 were still listed as eligible to cast their vote, according to the online voter registry managed by the CEC.
+
+The voter list included some prominent figures, such as the movie director [[Emil Loteanu]] (died in 2003), the actor [[Mihai Volontir]] (died in 2015) and the journalist [[Constantin Tănase (journalist)|Constantin Tănase]] (died in 2014).
+
+The Commission acknowledged that the lists were not fully accurate,<ref>{{citation |url=https://www.rise.md/wp-content/uploads/2016/09/Comunicat_CEC_autosesizare_RSA_10.09.16.pdf |title=CEC, Comunicat de presă din 10 septembrie 2016]}}</ref> but pointed out that only three out of the alleged 100 were present on the list. They stated that at the time of the journalists' investigation, the online database reflected data from previously held elections, rather than the most up-to-date figures.
+
+===Overseas voting issues===
+Numerous overseas voters in Europe were unable to vote due insufficient ballot papers being available.<ref name=RFE>[https://www.rferl.org/a/moldovana-face-critical-choice-in-presidential-run-off/28112323.html Pro-Russia Candidate Claims Victory In Moldova's Presidential Vote] Radio Free Europe Radio Liberty, 13 November 2016</ref> However, the number of voters unable to vote was thought to be lower than Dodon's margin of victory.<ref name=RFE/>
+
+==Results==
+As none of the candidates was able to achieve a majority on 30 October 2016, a second round of voting took place on 13 November 2016 between the two leading candidates, [[Igor Dodon]] of [[Party of Socialists of the Republic of Moldova|PSRM]] and [[Maia Sandu]] of [[Action and Solidarity|PAS]].<ref>{{Cite news|url=https://www.reuters.com/article/us-moldova-election-idUSKBN12U0AL|title=Pro-Russian candidate to face second round in Moldova presidential vote|date=2016-10-31|newspaper=Reuters|access-date=2016-10-31}}</ref> Dodon won the second round with 52.11% of the vote and became the fifth [[President of Moldova]] on 23 December.<ref name=voa20161113>{{cite web |url=https://www.voanews.com/a/moldova-election-results/3594270.html |title=Moldova's Pro-Russian Candidate Claims Presidency in Runoff Poll  |work=Voice of America |date=13 November 2016 |access-date=13 November 2016}}</ref>
+
+{{Election results
+|cand1=[[Igor Dodon]]|party1=[[Party of Socialists of the Republic of Moldova|Party of Socialists]]|votes1=680550|votes1_2=834081
+|cand2=[[Maia Sandu]]|party2=[[Party of Action and Solidarity]]|votes2=549152|votes2_2=766593
+|cand3=[[Dumitru Ciubașenco]]|party3=[[Our Party (Moldova)|Our Party]]|votes3=85466
+|cand4=[[Iurie Leancă]]|party4=[[European People's Party of Moldova|European People's Party]]|votes4=44065
+|cand5=[[Mihai Ghimpu]]|party5=[[Liberal Party (Moldova)|Liberal Party]]|votes5=25490
+|cand6=[[Valeriu Ghilețchi]]|party6=Independent|votes6=15354
+|cand7=Maia Laguta|party7=Independent|votes7=10712
+|cand8=[[Silvia Radu (politician)|Silvia Radu]]|party8=Independent|votes8=5276
+|cand9=[[Ana Guțu]]|party9=[[National Unity Party (Moldova)|The Right]]|votes9=2453|color9=#DDDD00
+|invalid=22215|invalid2=13349
+|electorate=2929694|electorate2=3019495
+|source=[https://web.archive.org/web/20161031151729/http://cec.md/r/procese-verbale/prezidentiale2016/ CEC], [https://web.archive.org/web/20161114115525/http://cec.md/r/procese-verbale/prezidentiale-t2-2016/ CEC]
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.e-democracy.md/en/elections/presidential/2016/ Election of the President of the Republic of Moldova, October 30, 2016] eDemocracy
+
+{{Moldovan presidential elections}}
+{{Moldovan elections}}
+{{Maia Sandu}}
+
+[[Category:2016 elections in Europe|Moldova]]
+[[Category:2016 in Moldova|Presidential]]
+[[Category:Presidential elections in Moldova]]
+[[Category:October 2016 in Europe|Moldova]]
+[[Category:November 2016 in Europe|Moldova]]

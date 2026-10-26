@@ -1,0 +1,956 @@
+{{Short description|none}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election
+| country = Costa Rica
+| flag_year = state
+| previous_election = 2010 Costa Rican general election
+| previous_year = 2010
+| election_date = {{nowrap|2 February 2014 (first round)}}<br />6 April 2014 (second round)
+| next_election = 2018 Costa Rican general election
+| next_year = 2018
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_name = Presidential election
+| registered = 3,065,667 (first round) <br/> 3,078,321 (second round)
+| turnout = 68.48% (first round) {{decrease}} 0.64[[percentage point|pp]]<br/>56.50% (second round)
+
+| image1 = President Luis Guillermo Solis.jpg
+| nominee1 = '''[[Luis Guillermo Solís]]'''
+| party1 = Citizens' Action Party (Costa Rica)
+| running_mate1 = '''[[Helio Fallas]]'''<br />'''{{nowrap|[[Ana Helena Chacón]]}}'''
+| popular_vote1 = '''1,338,321	'''
+| percentage1 = '''77.77%'''
+
+| image2 = Boda Johnny Araya & Sandra León (9226446584) (cropped).jpg
+| nominee2 = [[Johnny Araya Monge|Johnny Araya]]
+| party2 = National Liberation Party (Costa Rica)
+| running_mate2 = Jorge Pattoni<br />Silvia Lara 
+| popular_vote2 = 374,844 
+| percentage2 = 22.23%
+
+| map = {{Switcher
+| [[File:Elección Presidencial de Costa Rica (2014) (Primera Ronda) (Distritos Administrativos).svg|300px]]
+| First round results by district
+| [[File:Elección Presidencial de Costa Rica (2014) (Segunda Ronda) (Distritos Administrativos).svg|300px]]
+| Second round results by district|default=2
+}}
+
+'''Solís''': {{legend0|#FFFB0B|20-30%}} {{legend0|#EDE900|30-40%}} {{legend0|#CFCC00|40–50%}} {{legend0|#B1AF00|50–60%}} {{legend0|#949100|60–70%}} {{legend0|#767400|70–80%}} {{legend0|#595700|80–90%}} {{legend0|#3B3A00|90–100%}}<br>'''Araya''': {{legend0|#72B397|20-30%}} {{legend0|#5DA888|30-40%}} {{legend0|#509577|40–50%}} {{legend0|#457F66|50–60%}} {{legend0|#396A55|60–70%}}<br>'''Villalta''': {{legend0|#e0c679|20-30%}} {{legend0|#c7b06b|30-40%}} {{legend0|#ae9a5e|40–50%}}<br>'''Guevara''': {{legend0|#cd1833|20-30%}}<br>'''Piza''': {{legend0|#7485D2|20-30%}}<br>'''Tie''': {{legend0|#CCA7D6|20-30%}} {{legend0|#BB8AC8|30-40%}}
+
+| title = [[President of Costa Rica|President]]
+| before_election = [[Laura Chinchilla]]
+| before_party = National Liberation Party (Costa Rica)
+| after_election = [[Luis Guillermo Solís]]
+| after_party = Citizens' Action Party (Costa Rica)
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+
+| seats_for_election = All 57 seats in the [[Legislative Assembly of Costa Rica|Legislative Assembly]]
+| majority_seats = 29
+| turnout = 68.38% ({{decrease}} 0.74[[percentage point|pp]])
+
+| party1 = National Liberation Party (Costa Rica)
+| leader1 = [[Johnny Araya Monge]]
+| percentage1 = 25.71
+| seats1 = 18
+| last_election1 = 24
+
+| party2 = Citizens' Action Party (Costa Rica)
+| leader2 = [[Luis Guillermo Solís Rivera]]
+| percentage2 = 23.48
+| seats2 = 13
+| last_election2 = 11
+
+| party3 = Broad Front (Costa Rica)
+| leader3 = {{nowrap|[[José María Villalta Flórez-Estrada]]}}
+| percentage3 = 13.14
+| seats3 = 9
+| last_election3 = 1
+
+| party4 = Social Christian Unity Party
+| leader4 = [[Rodolfo Piza Rocafort]]
+| percentage4 = 10.02
+| seats4 = 8
+| last_election4 = 6
+
+| party5 = Libertarian Movement (Costa Rica)
+| leader5 = [[Otto Guevara|Otto Guevara Guth]]
+| percentage5 = 7.94
+| seats5 = 4
+| last_election5 = 9
+
+| party6 = Costa Rican Renovation Party
+| leader6 = [[Justo Orozco|Justo Orozco Álvarez]]
+| percentage6 = 4.11
+| seats6 = 2
+| last_election6 = 1
+
+| party7 = National Restoration Party (Costa Rica)
+| leader7 = [[Carlos Avendaño Calvo]]
+| percentage7 = 4.06
+| seats7 = 1
+| last_election7 = 1
+
+| party8 = Accessibility without Exclusion Party
+| leader8 = [[Óscar López (Costa Rican politician)|Óscar López Arias]]
+| percentage8 = 3.97
+| seats8 = 1
+| last_election8 = 4
+
+| party9 = Christian Democratic Alliance (Costa Rica)
+| leader9 = Mario Redondo Poveda
+| percentage9 = 1.17
+| seats9 = 1
+| last_election9 = New
+
+| map                = Elecciones legislativas de Costa Rica de 2014 - Diputados por Provincia.svg
+| map_caption        = Results by province
+
+}}}}}}
+{{Politics of Costa Rica}}
+
+General elections were held in [[Costa Rica]] on Sunday, 2 February 2014 to elect a new [[List of Presidents of Costa Rica|president]], two [[Vice President of Costa Rica|vice presidents]], and 57 [[Legislative Assembly of Costa Rica|Legislative Assembly]] lawmakers.<ref>[http://www.ticotimes.net/More-news/News-Briefs/Costa-Rica-s-2014-election-season-is-officially-open_Wednesday-October-02-2013 Costa Rica's 2014 election season is officially open] {{Webarchive|url=https://web.archive.org/web/20131111192023/http://www.ticotimes.net/More-news/News-Briefs/Costa-Rica-s-2014-election-season-is-officially-open_Wednesday-October-02-2013 |date=2013-11-11 }} ''[[The Tico Times]]'', 2013-10-02.</ref> In accordance with Article 132 of the constitution, incumbent President [[Laura Chinchilla Miranda]] was ineligible to run for a second consecutive term.<ref>[http://www.asamblea.go.cr/Documents/Constituci%C3%B3n%20Pol%C3%ADtica.pdf Constitución Política de la República de Costa Rica] {{webarchive |url=https://web.archive.org/web/20130207090012/http://www.asamblea.go.cr/Documents/Constituci%C3%B3n%20Pol%C3%ADtica.pdf |date=February 7, 2013 }} Asamblea Legislativa de Costa Rica. Retrieved: 2013-12-28. {{in lang|es}}</ref>
+
+The ruling [[National Liberation Party (Costa Rica)|National Liberation Party]] (PLN) put forward [[San José, Costa Rica|San José]] [[Mayor of San José, Costa Rica|Mayor]] [[Johnny Araya Monge]] as its presidential candidate; the [[Libertarian Movement (Costa Rica)|Libertarian Movement]] party nominated former legislator [[Otto Guevara|Otto Guevara Guth]]; the leftist [[Broad Front (Costa Rica)|Broad Front]] nominated [[José María Villalta Flórez-Estrada]]; and the center-left [[Citizens' Action Party (Costa Rica)|Citizens' Action Party]] nominated [[Luis Guillermo Solís|Luis Guillermo Solís Rivera]].
+
+Opinion polls in December 2013 showed Araya ahead with 37 percent, Villalta close behind at 32 percent, Guevara at 15 percent, and Solís trailing at eight percent, suggesting the likelihood of a [[Two-round system|run-off vote]] in February.<ref name="runoff">[http://www.ticotimes.net/More-news/News-Briefs/Newest-poll-shows-Araya-and-Villalta-heading-for-a-runoff-election_Wednesday-December-18-2013 Newest poll shows Araya and Villalta heading for a runoff election] {{Webarchive|url=https://web.archive.org/web/20140109161346/http://www.ticotimes.net/More-news/News-Briefs/Newest-poll-shows-Araya-and-Villalta-heading-for-a-runoff-election_Wednesday-December-18-2013 |date=2014-01-09 }} The Tico Times, 2013-12-18.</ref><ref name="encuesta">[http://www.nacion.com/nacional/Pais-favorito-meses-elecciones_0_1381461963.html Encuesta de Unimer: Costa Rica sin favorito a dos meses de elecciones] {{Webarchive|url=https://web.archive.org/web/20140107110059/http://www.nacion.com/nacional/Pais-favorito-meses-elecciones_0_1381461963.html |date=2014-01-07 }} La Nación, 2013-12-01. {{in lang|es}}</ref> Villalta's strong showing in the polls caused concern among Araya supporters and business leaders in Costa Rica. [[La Nacion (Costa Rica)|La Nacion]], Costa Rica's most important newspaper and a historical ally of Liberacion Nacional, began a concerted series of attacks against Villalta, comparing him to [[Venezuela]]'s [[Hugo Chávez]]. Political experts later concluded that this focus on Villalta helped Luis Guillermo Solis in the election.<ref>Frajman, Eduardo "The General Election in Costa Rica, February/April 2014" Electoral Studies, Vol. 35, 2014, pp. 61-66</ref>
+
+In the presidential election, Solís and Araya came first and second, respectively, with neither candidate reaching 40 percent of the valid poll in the first round of voting, so a second round of voting was held from 6am to 6pm on 6 April, the first run-off election since 2002.<ref name="runoff" /><ref>[http://www.ticotimes.net/2014/02/04/supreme-elections-tribunal-begins-manual-recount-of-presidential-votes Supreme Elections Tribunal begins manual recount of presidential votes] {{Webarchive|url=https://web.archive.org/web/20140205071636/http://www.ticotimes.net/2014/02/04/supreme-elections-tribunal-begins-manual-recount-of-presidential-votes |date=2014-02-05 }} The Tico Times, 2014-02-04.</ref>
+
+In a surprise move, Araya announced on 6 March that he would abandon his campaign for the run-off election. He stated that after weighing his chances it was only sensible to withdraw from the campaign. Recent polls had indicated that he was trailing badly behind Solís and he believed that spending money on campaigning was not prudent. Although Araya's action effectively handed the presidency to Solís, the run-off still had to take place since Costa Rican law does not allow for a candidate to withdraw from a run-off election.<ref>[https://www.bbc.com/news/world-latin-america-26461528 Costa Rica government's presidential candidate withdraws] {{Webarchive|url=https://web.archive.org/web/20140312035443/http://www.bbc.com/news/world-latin-america-26461528 |date=2014-03-12 }} BBC World News, 2014-03-06.</ref> Ultimately, Solís won the second round with 78 percent of the vote, a historic high in Costa Rica.<ref>[http://www.ticotimes.net/2014/04/06/live-costa-rica-presidential-election-results Live Costa Rica presidential election results] {{Webarchive|url=https://web.archive.org/web/20140407111919/http://www.ticotimes.net/2014/04/06/live-costa-rica-presidential-election-results |date=2014-04-07 }} The Tico Times, 2014-04-06.</ref><ref>{{cite web|title=Mapa de Resultados Elecciones Costa Rica Abril 2014|trans-title=Costa Rican Map of April 2014 Electoral Results|language=es|url=http://www.nacion.com/nacional/Mapa-Resultados-Elecciones-Mapa_electoral-elecciones_2014-segunda_ronda_11_1406969290.html|work=RESULTADOS ELECTORALES EN MAPA SEGUNDA RONDA ELECTORAL|publisher=La Nación|place=San José|access-date=7 April 2014|archive-date=7 April 2014|archive-url=https://web.archive.org/web/20140407035148/http://www.nacion.com/nacional/Mapa-Resultados-Elecciones-Mapa_electoral-elecciones_2014-segunda_ronda_11_1406969290.html|url-status=dead}}</ref> Unlike the first round, Solís won a majority in every province.<ref name="PL millon">{{cite news|last=Bermúdez Aguilar|first=Andrés|title=PAC ganó elecciones con más de un millón de votos|trans-title=PAC wins election with more than one million votes|url=http://www.prensalibre.cr/nacional/101291-pacganoelecciones.html|access-date=7 April 2014|newspaper=La Prensa Libre (Costa Rica)|date=7 April 2014|author2=Efrén López Madrigal|location=San José|language=Es|url-status=dead|archive-url=https://archive.today/20140407135949/http://www.prensalibre.cr/nacional/101291-pacganoelecciones.html|archive-date=7 April 2014}}</ref> He became the first president since [[1978 Costa Rican general election|1978]] to be elected from a party other than the PLN or [[Social Christian Unity Party|PUSC]].
+
+== Presidential candidates ==
+There were thirteen political parties on the 2014 ballot, each one with their corresponding ticket of a president and two vice-presidents.<ref>{{cite web |title=Atlas Electoral Presidenciales 2014 Papeleta |url=http://atlaselectoral.tse.go.cr/presidencial/2014/papeleta |access-date=7 December 2021 |archive-date=7 December 2021 |archive-url=https://web.archive.org/web/20211207222401/http://atlaselectoral.tse.go.cr/presidencial/2014/papeleta |url-status=live }}</ref>
+{| class=wikitable
+!Party
+!President
+!First Vicepresident
+!Second Vicepresident
+
+|-
+|[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]
+|[[Luis Guillermo Solís]]<br/>
+<small>Foreign Ministry's Chief of Staff (1986–1990), Ambassador of Central American Affairs (1994–1998)</small>
+|[[Helio Fallas Venegas|Helio Fallas Venegas<br />]]
+<small>Minister of Planning (1990–1994), Minister of Housing (2002–2006)</small>
+|[[Ana Helena Chacón]]<br/>
+<small>Vice Minister of Public Safety (2002–2006), [[Legislative Assembly of Costa Rica|Deputy]] (2006–2010)</small>
+
+|- 
+|[[National Liberation Party (Costa Rica)|National Liberation Party]]
+|[[Johnny Araya Monge]]<br/>
+<small>[[Mayor of San José, Costa Rica|San José Mayor]] (1998- )</small>
+|Jorge Pattoni<br/>
+<small>General Manager Dos Pino's Corporation (1992–2013)</small> 
+|Silvia Lara<br/>
+<small>President of [[Joint Social Welfare Institute]] (2002–2006)</small>
+
+|- 
+|[[Broad Front (Costa Rica)|Broad Front]]
+|[[José María Villalta Flórez-Estrada]]<br/>
+<small>[[Legislative Assembly of Costa Rica|Deputy]] (2010–2014)</small>
+|María Dagmare Facio Fernández
+|Walter Antillón Montealegre
+
+|-
+|[[Libertarian Movement (Costa Rica)|Libertarian Movement]]
+|[[Otto Guevara|Otto Guevara Guth]]<br/>
+<small>[[Legislative Assembly of Costa Rica|Deputy]]</small><br/><small>(1998–2002)</small>
+|Thelmo Vargas Madrigal
+|Abriel Gordienko López
+
+|-
+|[[Social Christian Unity Party]]
+|[[Rodolfo Piza|Rodolfo Emilio Piza de Rocafort]]<br/>
+<small>Executive President of the [[Costa Rican Social Security Fund]] (1998–2002)</small>
+|Carlos Eduardo Araya Guillén
+|Patricia Vega Herrera
+
+|-
+|New Homeland Party
+|[[José Miguel Corrales Bolaños]]<br/>
+<small>[[Legislative Assembly of Costa Rica|Deputy]] (2002–2006)</small>
+|Lizbeth Dora Quesada Tristán
+|Óscar Aguilar Bulgarelli
+
+|-
+|[[National Restoration Party (Costa Rica)|National Restoration Party]]
+|[[Carlos Avendaño Calvo|Carlos Luis Avendaño Calvo]]
+|Rose Mary Zúñiga Ramírez
+|Pablo Josué Chaves Illanes
+
+|-
+|[[Costa Rican Renewal Party]]
+|[[Justo Orozco|Justo Orozco Álvarez]]
+|Ana Dinorah Rodríguez Rojas
+|Rafael Ángel Matamoros Mesén
+
+|-
+|[[Accessibility without Exclusion Party Party]] (PASE)
+|[[Óscar López (Costa Rican politician)|Óscar Andrés López Arias]]
+|Zulema Villalta Bolaños
+|Marvin Alberto Marín Zúñiga
+
+|-
+|[[New Generation Party (Costa Rica)|New Generation Party]]
+|Sergio Mena Díaz
+|Luz Mary Alpízar Loaiza
+|Carlos Francisco Moreno Bustos
+
+|-
+|[[Working Class Party (Costa Rica)|Workers' Party]] (PT)
+|Héctor Enrique Monestel Herrera
+|Jessica Barquero Barrantes
+|Greivis González López
+
+|-
+|National Advance Party
+|José Manuel Echandi Meza 
+|Carmen Lidia Pérez Ramírez
+|Gabriel Zamora Márquez
+
+|-
+| [[National Integration Party (Costa Rica)|National Integration Party]]
+|Walter Muñoz Céspedes
+|Vivian González Trejos
+|Rodrigo Arguedas Cortés
+
+|}
+
+== Opinion polls ==
+If no candidate surmounts the 40% threshold, the two candidates who would qualify for the runoff are marked. No poll accurately predicted the first or second round voting results.
+
+{{Chart|definition=Opinion polling for the 2014 Costa Rican presidential election.chart|data=Opinion polling for the 2014 Costa Rican presidential election.tab|width=720px}}
+
+{| class="wikitable sortable"
+|-
+!class="unsortable"|Date
+!Pollster
+!
+[[Johnny Araya Monge|Johnny Araya]] <br /> ([[National Liberation Party (Costa Rica)|PLN]])
+!
+[[Otto Guevara]] <br /> ([[Libertarian Movement (Costa Rica)|ML]])
+!
+Rodolfo Piza<br /> <small>(R. Hernández before October 2013)</small> <br /> ([[Social Christian Unity Party|PUSC]])
+!
+[[Luis Guillermo Solís|L.G. Solís]] <br /> ([[Citizens' Action Party (Costa Rica)|PAC]])
+!
+[[José María Villalta Flórez-Estrada|J.M. Villalta]] <br /> ([[Broad Front (Costa Rica)|FA]])
+!
+Others
+|-
+|Aug 2013
+|Borge y Asociados<ref>{{Cite web |url=http://new.diarioextra.com/Dnew/noticiaDetalle/137814 |title = Diario Extra  |access-date=2014-01-07 |archive-url=https://web.archive.org/web/20140107084336/http://new.diarioextra.com/Dnew/noticiaDetalle/137814 |archive-date=2014-01-07 |url-status=dead }}</ref>
+|align=center style="background:limegreen"|52%
+|align="center"|9.7%
+|align=center|23%
+|align="center"|8.2%
+|align="center"|3.5%
+|-
+|Aug 2013
+|CIEP<ref>{{cite web |url=http://www.semanariouniversidad.ucr.cr/noticias/pais/11445-encuesta-del-ciep-para-universidad-oferta-de-candidatos-no-atrae-votantes.html |title = Encuesta del CIEP para UNIVERSIDAD: Oferta de candidatos no atrae votantes |access-date=2014-01-07 |url-status=dead |archive-url=https://web.archive.org/web/20140119151056/http://www.semanariouniversidad.ucr.cr/noticias/pais/11445-encuesta-del-ciep-para-universidad-oferta-de-candidatos-no-atrae-votantes.html |archive-date=2014-01-19 }}</ref>
+|align=center style="background:#87da87"|20.2%
+|align="center"|1.4%
+|align=center style="background:#d8d8ff"|12.4%
+|align="center"|4.1%
+|align="center"|4.5%
+|-
+|Sep 2013
+|Unimer<ref>{{Cite web|url=http://www.nacion.com/nacional/politica/Nueva-Unimer-Johnny-Araya-electoral_0_1368063225.html|title=Nueva encuesta de Unimer: Johnny Araya sostiene su ventaja electoral sin un rival claro|access-date=2014-01-07|archive-date=2014-01-07|archive-url=https://web.archive.org/web/20140107054441/http://www.nacion.com/nacional/politica/Nueva-Unimer-Johnny-Araya-electoral_0_1368063225.html|url-status=live}}</ref>
+|align=center style="background:#87da87"|27.5%
+|align="center"|9.7%
+|align="center"|10.6%
+|align="center"|4.4%
+|align=center style="background:#ffffc4"|19%
+|align="center"|26%
+|-
+|Oct 2013
+|CIEP<ref>{{Cite web |url=http://www.teletica.com/Noticias/29705-Sondeo-de-la-UCR-Araya-firme-Villalta-y-Guevara-se-reparten-lo-que-dejo-el-doctor.note.aspx |title=Sondeo de la UCR: Araya firme, Villalta y Guevara se reparten lo que dejó el doctor - Nacional - Noticias &#124; Teletica |access-date=2014-01-07 |archive-date=2013-12-30 |archive-url=https://web.archive.org/web/20131230045752/http://www.teletica.com/Noticias/29705-Sondeo-de-la-UCR-Araya-firme-Villalta-y-Guevara-se-reparten-lo-que-dejo-el-doctor.note.aspx |url-status=live }}</ref>
+|align=center style="background:#87da87"|24%
+|align=center style="background:#ffd8d8"|9.9%
+|align="center"|3%
+|align="center"|4%
+|align="center"|9.7%
+|align="center"|1.3%
+|-
+|Nov 2013
+|Borge y Asociados<ref>{{Cite web|url=http://www.diarioextra.com/Dnew/noticiaDetalle/217947|title=Diario Extra - Araya con 50%, Villalta 19% y Guevara con 16,9%|access-date=2014-01-07|archive-date=2014-01-07|archive-url=https://web.archive.org/web/20140107084025/http://www.diarioextra.com/Dnew/noticiaDetalle/217947|url-status=live}}</ref>
+|align=center style="background:#87da87"|26%
+|align="center"|16%
+|align=center|4%
+|align="center"|4%
+|align=center style="background:#ffffc4"|19%
+|align="center"|26%
+|-
+|Nov 2013
+|Cid Gallup<ref>{{Cite web |url=http://www.monumental.co.cr/noticia/johnny-araya-ganaria-elecciones-en-primera-ronda-segun-encuesta |title = Johnny Araya ganaría elecciones en primera ronda según encuesta {{!}} Monumental  |access-date=2014-01-07 |archive-url=https://web.archive.org/web/20140103081411/http://www.monumental.co.cr/noticia/johnny-araya-ganaria-elecciones-en-primera-ronda-segun-encuesta |archive-date=2014-01-03 |url-status=dead }}</ref>
+|align=center style="background:limegreen"|45%
+|align="center"|15%
+|align=center|8%
+|align="center"|10%
+|align="center"|21%
+|align="center"|
+|-
+|Dec 2013
+|Unimer<ref name="encuesta" />
+|align=center style="background:#c0f0c0"|19%
+|align=center style="background:#ffd8d8"|19%
+|align=center|5%
+|align="center"|8%
+|align=center style="background:#ffff76"|22%
+|align="center"|11%
+|-
+|Dec 2013
+|CIEP<ref>{{Cite web |url=http://www.semanariouniversidad.ucr.cr/index.php?option=com_content&view=article&id=12079&Itemid=70 |title=Araya baja, Villalta sube y se disputan primer lugar |access-date=2014-01-07 |archive-date=2014-01-17 |archive-url=https://web.archive.org/web/20140117201432/http://www.semanariouniversidad.ucr.cr/index.php?option=com_content&view=article&id=12079&Itemid=70 |url-status=live }}</ref>
+|align=center style="background:#87da87"|17%
+|align="center"|10%
+|align=center|3%
+|align="center"|5%
+|align=center style="background:#ffffc4"|15%
+|align="center"|1%
+|-
+|Dec 2013
+|Cid Gallup<ref>{{Cite web |url=https://www.larepublica.net/app/cms/www/index.php?pk_articulo=533309288 |newspaper=[[La República (Costa Rica)|La República]] |title=Ultima Hora: Villalta se acerca a Araya |access-date=2014-01-07 |archive-date=2013-12-17 |archive-url=https://web.archive.org/web/20131217221721/https://www.larepublica.net/app/cms/www/index.php?pk_articulo=533309288 |url-status=live |language=es |trans-title=Breaking News: Villalta approaches Araya |publisher= |location=San José, Costa Rica}}</ref>
+|align=center style="background:#87da87"|37%
+|align="center"|15%
+|align="center"|5%
+|align="center"|9%
+|align=center style="background:#ffffc4"|32%
+|-
+|14 Jan 2014
+|Cid Gallup<ref>{{cite web |url=http://www.repretel.com/nueva-encuesta-anticipa-lucha-cerrada-por-la-presidencia-del-pa%C3%ADs |title = Nueva encuesta anticipa lucha cerrada por la presidencia del país {{!}} Repretel  |access-date=2014-01-20 |url-status=dead |archive-url=https://web.archive.org/web/20140118022751/http://www.repretel.com/nueva-encuesta-anticipa-lucha-cerrada-por-la-presidencia-del-pa%C3%ADs |archive-date=2014-01-18 }}</ref>
+|align=center style="background:#87da87"|39%
+|align="center"|18%
+|align="center"|5%
+|align="center"|7%
+|align=center style="background:#ffffc4"|26%
+|-
+|16 Jan 2014
+|Unimer<ref>{{Cite web |url=http://www.nacion.com/nacional/elecciones2014/Pais-indeciso-camina-segunda-electoral_0_1390860962.html |title=País indeciso camina hacia una segunda ronda electoral |access-date=2014-01-20 |archive-date=2014-01-20 |archive-url=https://web.archive.org/web/20140120231001/http://www.nacion.com/nacional/elecciones2014/Pais-indeciso-camina-segunda-electoral_0_1390860962.html |url-status=live }}</ref>
+|align=center style="background:#c0f0c0"|20.3%
+|align="center"|20.2%
+|align="center"|3.6%
+|align="center"|5.4%
+|align=center style="background:#ffff76"|22.2%
+|align="center"|5.8%
+|-
+|21 Jan 2014
+|CIEP<ref>{{Citation |url=http://www.semanariouniversidad.ucr.cr/noticias/pais/12186-encuesta-del-ciep-johnny-araya-frena-caida-y-toma-leve-ventaja.html |title=Encuesta del CIEP: Johnny Araya frena caída y toma leve ventaja |publisher=Semanario |date=21 January 2014 |access-date=2 February 2014 |archive-url=https://web.archive.org/web/20140203073321/http://www.semanariouniversidad.ucr.cr/noticias/pais/12186-encuesta-del-ciep-johnny-araya-frena-caida-y-toma-leve-ventaja.html |archive-date=3 February 2014 |url-status=dead |df=dmy-all }}</ref>
+|align=center style="background:#87da87"|20.4%
+|align="center"|11.2%
+|align="center"|3.1%
+|align="center"|9.5%
+|align=center style="background:#ffffc4"|15.3%
+|align="center"|4.6%
+|-
+|28 Jan 2014
+|Cid Gallup<ref>{{Citation |url=http://www.informa-tico.com/28-01-2014/cerrada-lucha-presidencia-cuatro-candidatos |title=Cerrada lucha por la Presidencia entre cuatro candidatos |publisher=informa-TICO.com |date=28 January 2014 |access-date=2 February 2014 |archive-date=1 February 2014 |archive-url=https://web.archive.org/web/20140201154557/http://www.informa-tico.com/28-01-2014/cerrada-lucha-presidencia-cuatro-candidatos |url-status=live }}</ref>
+|align=center style="background:#87da87"|35.6%
+|align="center"|17.6%
+|align="center"|6.5%
+|align="center"|15.6%
+|align=center style="background:#ffffc4"|21%
+|align="center"|3.8%
+|-
+|28 Jan 2014
+|CIEP<ref>{{Citation |url=http://www.semanariouniversidad.ucr.cr/index.php?option=com_content&view=article&id=12251&Itemid=70 |title=Nueva encuesta del CIEP: Indecisión crece a pocos días de las elecciones |publisher=Semanario |date=28 January 2014 |access-date=2 February 2014 |archive-date=3 February 2014 |archive-url=https://web.archive.org/web/20140203085113/http://www.semanariouniversidad.ucr.cr/index.php?option=com_content&view=article&id=12251&Itemid=70 |url-status=live }}</ref>
+|align=center style="background:#87da87"|17.4%
+|align="center"|7.3%
+|align="center"|3.4%
+|align="center"|11.6%
+|align=center style="background:#ffffc4"|14.4%
+|}
+
+== Results ==
+[[File:Resultados elecciones costarricenses 2014 en el extranjero primera ronda.png|thumb|300px|Results of vote overseas, gold PAC, green PLN and yellow FA.]]
+
+===President===
+The results of the first-round final count were declared on 17 February 2014,<ref>[http://svr.tse.go.cr/aplicacionvisualizador/pdfs/e88e50d285bef1250fbac75ff2561e33.pdf Resultados Electorales: Total General] {{Webarchive|url=https://web.archive.org/web/20160304031706/http://svr.tse.go.cr/aplicacionvisualizador/pdfs/e88e50d285bef1250fbac75ff2561e33.pdf |date=2016-03-04 }} Tribunal Supremo de Elecciones 2014-02-17. {{in lang|es}}</ref> with the results of the second-round eighth count being declared on 7 April 2014:<ref>[http://www.tse.go.cr/pdf/segunda_votacion/presidente-000008.pdf Corte Número 8] {{webarchive|url=https://web.archive.org/web/20140408220951/http://www.tse.go.cr/pdf/segunda_votacion/presidente-000008.pdf |date=2014-04-08 }} Tribunal Supremo de Elecciones 2014-04-07. {{in lang|es}}</ref>
+
+{{Election results
+|cand1=[[Luis Guillermo Solís]]|party1=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes1=629866|votes1_2=1338321
+|cand2=[[Johnny Araya Monge]]|party2=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes2=610634|votes2_2=382600
+|cand3=[[José María Villalta Flórez-Estrada]]|party3=[[Broad Front (Costa Rica)|Broad Front]]|votes3=354479
+|cand4=[[Otto Guevara]]|party4=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes4=233064
+|cand5=[[Rodolfo Piza Rocafort]]|party5=[[Social Christian Unity Party]]|votes5=123653
+|cand6=[[José Miguel Corrales Bolaños]]|party6=New Fatherland Party|votes6=30816|color6=#39b54a
+|cand7=[[Carlos Avendaño]]|party7=[[National Restoration Party (Costa Rica)|National Restoration Party]]|votes7=27691
+|cand8=[[Justo Orozco]]|party8=[[Costa Rican Renewal Party]]|votes8=16721
+|cand9=[[Óscar López (Costa Rican politician)|Óscar López]]|party9=[[Accessibility without Exclusion Party]]|votes9=10339
+|cand10=Sergio Mena|party10=[[New Generation Party (Costa Rica)|New Generation Party]]|votes10=5882
+|cand11=Héctor Monestel|party11=[[Workers' Party (Costa Rica)|Workers' Party]]|votes11=4897
+|cand12=José Echand|party12=National Advance Party|votes12=4388|color12=#0000FF
+|cand13=Walter Muñoz|party13=[[National Integration Party (Costa Rica)|National Integration Party]]|votes13=3042
+|invalid=43747|invalid2=18314
+|electorate=3065667|electorate2=3078321
+|source=[http://www.electionresources.org/cr/president.php?election=2014&province= Election Resources]
+}}
+
+====By province====
+'''First round'''
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| [[Provinces of Costa Rica|Province]] %
+!width=60px| [[Citizens' Action Party (Costa Rica)|PAC]] %
+!width=60px| [[National Liberation Party (Costa Rica)|PLN]] %
+!width=60px| [[Broad Front (Costa Rica)|FA]] %
+!width=60px| [[Libertarian Movement (Costa Rica)|ML]] %
+!width=60px| [[Social Christian Unity Party|PUSC]] %
+!width=60px| <abbr title="New Homeland Party">PPN</abbr> %
+!width=60px| [[National Restoration Party (Costa Rica)|PREN]] %
+!width=60px| Other %
+|-
+!style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+!style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+!style="background:{{party color|Broad Front (Costa Rica)}}"|
+!style="background:{{party color|Libertarian Movement (Costa Rica)}}"|
+!style="background:{{party color|Social Christian Unity Party}}"|
+!style="background:#39b54a"|
+!style="background:{{party color|National Restoration Party (Costa Rica)}}"|
+!style="background:#7a7a7a"|
+|-
+| align="left"| {{flag|San José}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 36.2
+| style="background:#66B27B; color:white;"| 28.5
+| 15.2
+| 10.0
+| 5.3
+| 1.4
+| 1.4
+| 1.9
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 31.1
+| style="background:#66B27B; color:white;"| 29.8
+| 18.3
+| 10.4
+| 5.4
+| 2.1
+|1.1
+|1.8
+|-
+| align="left"| {{flag|Cartago}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 34.8
+| style="background:#66B27B; color:white;"| 27.8
+| 14.7
+| 11.4
+| 6.3
+| 2.1
+| 0.9
+| 1.9
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 38.6
+| style="background:#66B27B; color:white;"| 25.8
+| 16.5
+| 9.8
+| 1.2
+| 1.2
+| 1.6
+| 5.3
+|-
+| align="left"| {{flag|Puntarenas}}
+| 14.1
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|34.4
+| style="background:#FFF77F; color:black;"|23.2
+| 14.6
+| 8.5
+| 0.7
+| 2.0
+| 2.6
+|-
+| align="left"| {{flag|Limón}}
+| 14.6
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|29.2
+| style="background:#FFF77F; color:black;"|22.2
+| 18.1
+| 7.7
+| 0.8
+| 1.9
+| 5.6
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| 14.9
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"|40.8
+| style="background:#FFF77F; color:black;"|19.1
+| 12.8
+| 7.8
+| 0.9
+| 1.3
+| 2.5
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 30.6
+| 29.7
+| 17.3
+| 11.3
+| 6.1
+| 1.5
+| 1.4
+| 2.2
+|}
+
+'''Second round'''
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan="2"| [[Provinces of Costa Rica|Province]]
+!width="60px"| [[Citizens' Action Party (Costa Rica)|PAC]] %
+!width="60px"| [[National Liberation Party (Costa Rica)|PLN]] %
+|-
+! style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+!style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+|-
+| align="left"| {{flag|San José}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 77.6
+| 22.3
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 78.9
+| 21.1
+|-
+| align="left"| {{flag|Cartago}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 80.3
+| 19.6
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 80.8
+| 19.1
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 73.1
+| 26.8
+|-
+| align="left"| {{flag|Limón}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 77.5
+| 22.4
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 69.7
+| 30.2
+|-
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 77.8
+| 22.1
+|}
+
+===Legislative Assembly===
+Although Solís' [[Citizens' Action Party (Costa Rica)|PAC]] received the most votes in the presidential elections,<ref name="Landsford">{{cite book|last1=Landsford|first1=Tom|title=Political Handbook of the World 2014|date=20 March 2014|isbn=9781483386263|url=https://books.google.com/books?id=iC_VBQAAQBAJ&q=costa+rica%27s+end+of+two+party+system&pg=PA333|access-date=13 March 2016|archive-date=2 February 2022|archive-url=https://web.archive.org/web/20220202011712/https://books.google.com/books?id=iC_VBQAAQBAJ&q=costa+rica%27s+end+of+two+party+system&pg=PA333|url-status=live}}</ref> the party did not win in the parliamentary voting making [[National Liberation Party (Costa Rica)|PLN]] the largest party in the Assembly with 18 deputies over PAC's 13.<ref name="IPU">{{cite web|title=Asamblea Legislativa (Legislative Assembly)|url=http://www.ipu.org/parline-e/reports/2073_e.htm|website=IPU.org|access-date=13 March 2016|archive-date=13 March 2016|archive-url=https://web.archive.org/web/20160313131351/http://www.ipu.org/parline-e/reports/2073_e.htm|url-status=live}}</ref>
+
+Leftist party [[Broad Front (Costa Rica)|Broad Front]] surprised with its results, achieving 9 seats,<ref name="Lehring">{{cite news|last1=Lehring|first1=Gary|title=Costa Rican legislative elections show growing voter dissatisfaction with traditional choices|url=http://www.ticotimes.net/2014/02/15/costa-rican-legislative-elections-show-growing-voter-dissatisfaction-with-traditional-choices|access-date=13 March 2016|agency=The Tico Times|date=February 15, 2014|archive-date=12 March 2016|archive-url=https://web.archive.org/web/20160312144206/http://www.ticotimes.net/2014/02/15/costa-rican-legislative-elections-show-growing-voter-dissatisfaction-with-traditional-choices|url-status=live}}</ref> first time ever that the Left achieved such a big number.<ref name="IPU"/> [[Social Christian Unity Party]] recovered part of its former influence<ref name="Lehring"/> by turning into the fourth political party in legislative size even when its candidate Rodolfo Piza was fifth in the presidential vote.<ref name="ER2">{{cite web|title=February 7, 2010 Presidential Election Results - Costa Rica Totals|url=http://www.electionresources.org/cr/president.php?election=2014|website=Elections Resources|access-date=13 March 2016|archive-date=4 May 2016|archive-url=https://web.archive.org/web/20160504150327/http://www.electionresources.org/cr/president.php?election=2014|url-status=live}}</ref> The opposite happened to [[Otto Guevara]]’s right-wing [[Libertarian Movement (Costa Rica)|Libertarian Movement]],<ref name="Lehring"/> fourth in presidential votes,<ref name="ER2"/> which stood fifth in legislative elections, and as a result, the number of its deputies was reduced from 9 to 4.<ref name="Lehring"/><ref name="IPU"/> Oscar Lopez’s [[Accessibility without Exclusion Party|PASE]] party also suffered a diminishment in number of deputies from 4 to 1 (Lopez himself).<ref name="Lehring"/><ref name="ER">{{cite web|title=February 2, 2014 Legislative Assembly Election Results - Costa Rica Totals|url=http://www.electionresources.org/cr/deputies.php?election=2014|access-date=13 March 2016|archive-date=4 May 2016|archive-url=https://web.archive.org/web/20160504150244/http://www.electionresources.org/cr/deputies.php?election=2014|url-status=live}}</ref>
+
+Three Christian parties, oriented toward the [[Protestantism|Protestant minority]]<ref>{{cite news|last1=Lopez|first1=Jaime|title=Civic Groups Move Against Gay Marriage in Costa Rica|url=http://news.co.cr/civic-groups-move-against-gay-marriage-in-costa-rica/23281/|access-date=13 March 2016|agency=Costa Rica Star|date=July 18, 2013|archive-date=13 March 2016|archive-url=https://web.archive.org/web/20160313201515/http://news.co.cr/civic-groups-move-against-gay-marriage-in-costa-rica/23281/|url-status=live}}</ref> and very [[socially conservative]], also achieved deputies: [[Costa Rican Renewal Party]] 2, [[National Restoration Party (Costa Rica)|National Restoration]] 1 and [[Christian Democratic Alliance (Costa Rica)|Christian Democratic Alliance]] 1.<ref name="ER"/>
+
+{{Election results
+|image=[[File:Costa Rica Legislative Assembly 2014.svg]]
+|party1=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes1=526531|seats1=18|sc1=–6
+|party2=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes2=480969|seats2=13|sc2=+2
+|party3=[[Broad Front (Costa Rica)|Broad Front]]|votes3=269178|seats3=9|sc3=+8
+|party4=[[Social Christian Unity Party]]|votes4=205247|seats4=8|sc4=+2
+|party5=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes5=162559|seats5=4|sc5=–5
+|party6=[[National Restoration Party (Costa Rica)|National Restoration Party]]|votes6=84265|seats6=1|sc6=0
+|party7=[[Costa Rican Renewal Party]]|votes7=83083|seats7=2|sc7=+1
+|party8=[[Accessibility without Exclusion Party]]|votes8=81291|seats8=1|sc8=–3
+|party9=New Fatherland Party|votes9=42234|seats9=0|sc9=New|color9=#39b54a
+|party10=[[New Generation Party (Costa Rica)|New Generation Party]]|votes10=25060|seats10=0|sc10=New
+|party11=[[Christian Democratic Alliance (Costa Rica)|Christian Democratic Alliance]]|votes11=23886|seats11=1|sc11=New
+|party12=National Advance Party|votes12=19895|seats12=0|sc12=New|color12=#0000FF
+|party13=[[Workers' Party (Costa Rica)|Workers' Party]]|votes13=12998|seats13=0|sc13=0
+|party14=[[National Integration Party (Costa Rica)|National Integration Party]]|votes14=11307|seats14=0|sc14=0
+|party15=Transporters' Party|votes15=5639|seats15=0|sc15=New|color15=#FF4500
+|party16=[[Patriotic Alliance (Costa Rica)|Patriotic Alliance]]|votes16=4853|seats16=0|sc16=0
+|party17=Viva Puntarenas Party|votes17=4417|seats17=0|sc17=New|color17=#FF802B
+|party18=Green Party|votes18=2148|seats18=0|sc18=New|color18=#008080
+|party19=Homel, Equality and Dem. Party of Puntarenas|votes19=1376|seats19=0|sc19=New|color19=#CD853F
+|party20=Homeland, Equality and Democracy Party|votes20=1088|seats20=0|sc20=New|color20=#CD853F
+|party21=New Socialist Party|votes21=277|seats21=0|sc21=New|color21=#ED0028
+|invalid=47854
+|total_sc=0
+|electorate=3065667
+|source=[http://www.electionresources.org/cr/deputies.php?election=2014 Election Resources]
+}}
+
+====By constituency====
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+|-
+! rowspan="3"| Constituency
+! colspan="2" width="30px"| [[National Liberation Party (Costa Rica)|PLN]]
+! colspan="2" width="30px"| [[Citizens' Action Party (Costa Rica)|PAC]]
+! colspan="2" width="30px"| [[Broad Front (Costa Rica)|FA]]
+! colspan="2" width="30px"| [[Social Christian Unity Party|PUSC]]
+! colspan="2" width="30px"| [[Libertarian Movement (Costa Rica)|ML]]
+! colspan="2" width="30px"| [[National Restoration Party (Costa Rica)|PREN]]
+! colspan="2" width="30px"| [[Costa Rican Renewal Party|PRC]]
+! colspan="2" width="30px"| [[Accessibility without Exclusion Party|PASE]]
+! colspan="2" width="30px"| PPN
+! colspan="2" width="30px"| [[New Generation Party (Costa Rica)|PNG]]
+! colspan="2" width="30px"| Other
+|-
+! colspan="2" style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Broad Front (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Social Christian Unity Party}}"|
+! colspan="2" style="background:{{party color|Libertarian Movement (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|National Restoration Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Costa Rican Renovation Party}}"|
+! colspan="2" style="background:{{party color|Accessibility without Exclusion Party}}"|
+! colspan="2" style="background:#39b54a"|
+! colspan="2" style="background:{{party color|New Generation Party (Costa Rica)}}"|
+! colspan="2" style="background:#7a7a7a"|
+|-
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+|-
+| align="left"| [[San José (Legislative Assembly constituency)|San José]]
+| style="background:#66B27B; color:white;"|23.5
+|'''5'''
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 27.2
+|'''5'''
+| 12.1
+|'''2'''
+| 8.8
+|'''2'''
+| 7.5
+|'''2'''
+| 5.3
+|'''1'''
+| 3.9
+|'''1'''
+| 4.2
+|'''1'''
+| 2.0
+|'''0'''
+| 1.8
+|'''0'''
+| 3.5
+|'''0'''
+|-
+| align="left"| [[Alajuela (Legislative Assembly constituency)|Alajuela]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 27.4
+|'''4'''
+| style="background:#FFEB7F; color:black;"| 25.2
+|'''3'''
+| 14.0
+|'''2'''
+| 8.3
+|'''1'''
+| 7.7
+|'''1'''
+| 3.2
+|'''0'''
+| 4.0
+|'''0'''
+| 4.1
+|'''0'''
+| 3.0
+|'''0'''
+| 0.8
+|'''0'''
+| 2.4
+|'''0'''
+|-
+| align="left"| [[Cartago (Legislative Assembly constituency)|Cartago]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 24.4
+|'''2'''
+| style="background:#FFEB7F; color:black;"| 23.5
+|'''2'''
+| 11.1
+|'''1'''
+| 10.7
+|'''1'''
+| 7.1
+|'''0'''
+| 2.4
+|'''0'''
+| 1.5
+|'''0'''
+| 4.6
+|'''0'''
+| 2.2
+|'''0'''
+| 0.9
+|'''0'''
+| 11.6
+|'''1'''
+|-
+| align="left"| [[Heredia (Legislative Assembly constituency)|Heredia]]
+| style="background:#66B27B; color:white;"|23.9
+|'''2'''
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 31.5
+|'''2'''
+| 12.7
+|'''1'''
+| 9.1
+|'''1'''
+| 7.6
+|'''0'''
+| 4.7
+|'''0'''
+| 2.4
+|'''0'''
+| 3.9
+|'''0'''
+| 1.6
+|'''0'''
+| 1.0
+|'''0'''
+| 1.6
+|'''0'''
+|-
+| align="left"| [[Puntarenas (Legislative Assembly constituency)|Puntarenas]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 28.5
+|'''2'''
+| 12.8
+|'''1'''
+| 14.8
+|'''1'''
+| style="background:#7F7FC3; color:white;"| 15.3
+|'''1'''
+| 9.0
+|'''0'''
+| 4.2
+|'''0'''
+| 3.3
+|'''0'''
+| 3.9
+|'''0'''
+| 0.9
+|'''0'''
+| 1.3
+|'''0'''
+|5.9
+|'''0'''
+|-
+| align="left"| [[Limón (Legislative Assembly constituency)|Limón]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 26.0
+|'''1'''
+| 10.5
+|'''0'''
+| style="background:#FFF77F; color:black;"| 15.9
+|'''1'''
+| 11.4
+|'''1'''
+| 10.6
+|'''1'''
+| 3.2
+|'''0'''
+| 12.6
+|'''1'''
+| 3.6
+|'''0'''
+| 0.9
+|'''0'''
+| 0.9
+|'''0'''
+| 4.4
+|'''0'''
+|-
+| align="left"| [[Guanacaste (Legislative Assembly constituency)|Guanacaste]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 34.6
+|'''2'''
+| 11.5
+|'''0'''
+| style="background:#FFF77F; color:black;"| 16.0
+|'''1'''
+| 14.0
+|'''1'''
+| 9.0
+|'''0'''
+| 3.5
+|'''0'''
+| 4.6
+|'''0'''
+| 1.6
+|'''0'''
+| 2.4
+|'''0'''
+| 0.5
+|'''0'''
+| 2.2
+|'''0'''
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 25.7
+|'''18'''
+| 23.5
+|'''13'''
+| 13.1
+|'''9'''
+| 10.0
+|'''8'''
+| 7.9
+|'''4'''
+| 4.1
+|'''1'''
+| 3.9
+|'''2'''
+| 3.9
+|'''1'''
+| 2.1
+|'''0'''
+| 1.2
+|'''0'''
+| 4.4
+|'''1'''
+|}
+
+====Candidates elected====
+Fifty-seven legislators were elected and took office on 1 May 2014, eleven of whom had been members of the Legislative Assembly in the past. Five were from the National Liberation Party: Antonio Álvarez Desanti, Juan Luis Jiménez, Olivier Jiménez, Rolando González, and Sandra Piszk. Two were from the Citizen Action Party: Epsy Campbell and Ottón Solís. Mario Redondo of the Christian Democratic Alliance served previously with the Social Christian Unity Party. The others were Otto Guevara of the Libertarian Movement Party, Oscar López of Accessibility without Exclusion Party, and Jorge Rodríguez of the Social Christian Unity Party.<ref>[http://www.ticotimes.net/2014/05/01/11-lawmakers-return-to-costa-ricas-legislative-assembly-for-second-term 11 lawmakers return to Costa Rica's Legislative Assembly for second term] {{Webarchive|url=https://web.archive.org/web/20140502030049/http://www.ticotimes.net/2014/05/01/11-lawmakers-return-to-costa-ricas-legislative-assembly-for-second-term |date=2014-05-02 }} The Tico Times, 2014-05-01.</ref> The full list is as follows:<ref>[http://www.asamblea.go.cr/Diputadas_Diputados/Documents/Declatoria_diputados_2014-2018.pdf Declaratoria de elección de Diputados a la Asamblea Legislativa de la República de Costa Rica 2014-2018] {{Webarchive|url=https://web.archive.org/web/20160304090239/http://www.asamblea.go.cr/Diputadas_Diputados/Documents/Declatoria_diputados_2014-2018.pdf |date=2016-03-04 }} Tribunal Supremo de Elecciones, 2014-03-03. {{in lang|es}}
+* [http://www.nacion.com/nacional/Mapa-Resultados-Elecciones-Costa-Rica_11_1378572130.html Mapa de Resultados Elecciones Costa Rica 2014] {{Webarchive|url=https://web.archive.org/web/20140203105934/http://www.nacion.com/nacional/Mapa-Resultados-Elecciones-Costa-Rica_11_1378572130.html |date=2014-02-03 }} La Nación, 2014-02-10. {{in lang|es}}
+* [http://svr.tse.go.cr/aplicacionvisualizador/pdfs/0f47f77a880436892d75a55a49426938.pdf Corte #1: Resultados Electorales: SAN JOSÉ] {{Webarchive|url=https://web.archive.org/web/20140304093125/http://svr.tse.go.cr/aplicacionvisualizador/pdfs/0f47f77a880436892d75a55a49426938.pdf |date=2014-03-04 }} Tribunal Supremo de Elecciones, 2014-02-24. {{in lang|es}}
+* [http://svr.tse.go.cr/aplicacionvisualizador/pdfs/dbf69ddc6d5e889fada2970a7207f630.pdf Corte #2: Resultados Electorales: ALAJUELA] {{Webarchive|url=https://web.archive.org/web/20140304093127/http://svr.tse.go.cr/aplicacionvisualizador/pdfs/dbf69ddc6d5e889fada2970a7207f630.pdf |date=2014-03-04 }} Tribunal Supremo de Elecciones, 2014-02-25. {{in lang|es}}
+* [http://svr.tse.go.cr/aplicacionvisualizador/pdfs/a70099eba4e835f56458c7e0bd7203a4.pdf Corte #3: Resultados Electorales: CARTAGO] {{Webarchive|url=https://web.archive.org/web/20140304092824/http://svr.tse.go.cr/aplicacionvisualizador/pdfs/a70099eba4e835f56458c7e0bd7203a4.pdf |date=2014-03-04 }} Tribunal Supremo de Elecciones, 2014-02-25. {{in lang|es}}
+* [http://svr.tse.go.cr/aplicacionvisualizador/pdfs/9ba97b6c8749174d2e045e46a9ba858e.pdf Corte #4: Resultados Electorales: HEREDIA] {{Webarchive|url=https://web.archive.org/web/20140304092828/http://svr.tse.go.cr/aplicacionvisualizador/pdfs/9ba97b6c8749174d2e045e46a9ba858e.pdf |date=2014-03-04 }} Tribunal Supremo de Elecciones, 2014-02-25. {{in lang|es}}
+* [http://svr.tse.go.cr/aplicacionvisualizador/pdfs/0cb31edefc411c8d5fe0555474853d0e.pdf Corte #5: Resultados Electorales: GUANACASTE] {{Webarchive|url=https://web.archive.org/web/20140304093917/http://svr.tse.go.cr/aplicacionvisualizador/pdfs/0cb31edefc411c8d5fe0555474853d0e.pdf |date=2014-03-04 }} Tribunal Supremo de Elecciones, 2014-02-27. {{in lang|es}}
+* [http://svr.tse.go.cr/aplicacionvisualizador/pdfs/1b8bc9ad36c8f645b0fc8d6998285767.pdf Corte #6: Resultados Electorales: PUNTARENAS] {{Webarchive|url=https://web.archive.org/web/20140304093310/http://svr.tse.go.cr/aplicacionvisualizador/pdfs/1b8bc9ad36c8f645b0fc8d6998285767.pdf |date=2014-03-04 }} Tribunal Supremo de Elecciones, 2014-02-27. {{in lang|es}}
+* [http://svr.tse.go.cr/aplicacionvisualizador/pdfs/a8240555dbd4f0bc4051fc5abd2a594d.pdf Corte #7: Resultados Electorales: LIMÓN] {{Webarchive|url=https://web.archive.org/web/20140304104358/http://svr.tse.go.cr/aplicacionvisualizador/pdfs/a8240555dbd4f0bc4051fc5abd2a594d.pdf |date=2014-03-04 }} Tribunal Supremo de Elecciones, 2014-02-27. {{in lang|es}}</ref>
+
+{| class="wikitable sortable" style="border:1px;"
+! Constituency !! Cédula !! Candidate !! Party
+|-
+|[[San José (Legislative Assembly constituency)|San José]]||104300205||[[Ottón Solís Fallas]]||[[Citizens' Action Party (Costa Rica)|PAC]]
+|-
+|San José||106070983||[[Epsy Campbell Barr]]||PAC
+|-
+|San José||104990698||[[Víctor Hugo Morales Zapata]]||PAC
+|-
+|San José||108460152||[[Marcela Guerrero Campos]]||PAC
+|-
+|San José||601780481||[[Ruperto Marvin Atencio Delgado]]||PAC
+|-
+|San José||104890842||Antonio Álvarez Desanti||[[National Liberation Party (Costa Rica)|PLN]]
+|-
+|San José||103570156||Sara Ángela Piszk Feinzilber||PLN
+|-
+|San José||400850902||Carlos Manuel Arguedas Ramírez||PLN
+|-
+|San José||700490709||Maureen Cecilia Clarke Clarke||PLN
+|-
+|San José||202751177||Juan Luis Jiménez Succar||PLN
+|-
+|San José||104710261||[[Ana Patricia Mora Castellanos]]||[[Broad Front (Costa Rica)|FA]]
+|-
+|San José||104110109||Jorge Arturo Arguedas Mora||FA
+|-
+|San José||105270922||Humberto Vargas Corrales||[[Social Christian Unity Party|PUSC]]
+|-
+|San José||106730022||Rosibel Ramos Madrigal||PUSC
+|-
+|San José||105440893||[[Otto Guevara Guth]]||[[Libertarian Movement (Costa Rica)|PML]]
+|-
+|San José||112260846||Natalia Díaz Quintana||PML
+|-
+|San José||108820284||Gerardo Fabricio Alvarado Muñoz||[[National Restoration Party (Costa Rica)|PRN]]
+|-
+|San José||107890915||Óscar Andrés López Arias||[[Accessibility without Exclusion Party|PASE]]
+|-
+|San José||108910592||Gonzalo Alberto Ramírez Zamora||[[Costa Rican Renewal Party|PRC]]
+|-
+|[[Alajuela (Legislative Assembly constituency)|Alajuela]]||202740540||Rolando González Ulloa||PLN
+|-
+|Alajuela||202700539||Aracelli Segura Retana||PLN
+|-
+|Alajuela||109780035||Michael Jake Arce Sancho||PLN
+|-
+|Alajuela||206470280||Silvia Vanessa Sánchez Venegas||PLN
+|-
+|Alajuela||204060127||[[Javier Francisco Cambronero Arguedas]]||PAC
+|-
+|Alajuela||900500822||[[Nidia María Jiménez Vásquez]]||PAC
+|-
+|Alajuela||110350156||[[Franklin Corella Vargas]]||PAC
+|-
+|Alajuela||204830663||Edgardo Vinicio Araya Sibaja||FA
+|-
+|Alajuela||203440441||Ligia Elena Fallas Rodríguez||FA
+|-
+|Alajuela||104410073||Rafael Ángel Ortiz Fábrega||PUSC
+|-
+|Alajuela||106730801||José Alberto Alfaro Jiménez||PML
+|-
+|[[Cartago (Legislative Assembly constituency)|Cartago]]||302880372||Paulina María Ramírez Portuguez||PLN
+|-
+|Cartago||302350106||Julio Antonio Rojas Astorga||PLN
+|-
+|Cartago||104110201||[[Emilia Molina Cruz]]||PAC
+|-
+|Cartago||106670558||[[Marco Vinicio Redondo Quirós]]||PAC
+|-
+|Cartago||302990664||José Francisco Camacho Leiva||FA
+|-
+|Cartago||301940611||Jorge Rodríguez Araya||PUSC
+|-
+|Cartago||105890526||Mario Redondo Poveda||[[Christian Democratic Alliance (Costa Rica)|ADC]]
+|-
+|[[Heredia (Legislative Assembly constituency)|Heredia]]||105120548||[[Henry Mora Jiménez]]||PAC
+|-
+|Heredia||204740785||[[Marlene Madrigal Flores]]||PAC
+|-
+|Heredia||108490121||Rony Monge Salas||PLN
+|-
+|Heredia||401300696||Lorelly Trejos Salas||PLN
+|-
+|Heredia||401470385||José Antonio Ramírez Aguilar||FA
+|-
+|Heredia||401300350||William Alvarado Bogantes||PUSC
+|-
+|[[Guanacaste (Legislative Assembly constituency)|Guanacaste]]||106070406||Juan Rafael Marín Quirós||PLN
+|-
+|Guanacaste||501880832||Marta Arabela Arauz Mora||PLN
+|-
+|Guanacaste||204240362||Ronal Vargas Araya||FA
+|-
+|Guanacaste||502950673||Johnny Leiva Badilla||PUSC
+|-
+|[[Puntarenas (Legislative Assembly constituency)|Puntarenas]]||503090116||Karla Vanessa Prendas Matarrita||PLN
+|-
+|Puntarenas||202820663||Olivier Ibo Jiménez Rojas||PLN
+|-
+|Puntarenas||110230742||Gerardo Vargas Rojas||PUSC
+|-
+|Puntarenas||502560320||Carlos Enrique Hernández Álvarez||FA
+|-
+|Puntarenas||104160452||[[Laura María Garro Sánchez]]||PAC
+|-
+|[[Limón (Legislative Assembly constituency)|Limón]]||900840835||Danny Hayling Carcache||PLN
+|-
+|Limón||302420343||Gerardo Vargas Varela||FA
+|-
+|Limón||502170327||Abelino Esquivel Quesada||PRC
+|-
+|Limón||107880624||Luis Alberto Vásquez Castro||PUSC
+|-
+|Limón||303050502||[[Carmen Quesada Santamaría]]||PML
+|}
+
+==References==
+{{Reflist}}
+
+{{Costa Rican elections}}
+
+[[Category:Parliamentary elections in Costa Rica]]
+[[Category:2014 elections in Central America|Costa Rica]]
+[[Category:2014 in Costa Rica|general election]]
+[[Category:February 2014 in North America|Costa Rica]]
+[[Category:Presidential elections in Costa Rica]]

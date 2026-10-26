@@ -1,0 +1,294 @@
+{{Short description|none}}
+{{Use dmy dates|date=December 2019}}
+{{Infobox election
+| country = Malawi
+| previous_election = 2009 Malawian general election
+| previous_year = 2009
+| election_date = {{Start date|2014|05|20|df=yes}}
+| next_election = 2019 Malawian general election
+| next_year = 2019
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| registered = 7,470,806
+| turnout = 70.75% ({{decrease}} 3.39 [[Percentage point|pp]])
+
+| image1 = Arthur Peter Mutharika 2014 (cropped).jpg
+| nominee1 = '''[[Peter Mutharika]]'''
+| party1 = Democratic Progressive Party (Malawi)
+| running_mate1 = '''[[Saulos Chilima]]'''
+| popular_vote1 = '''1,904,399'''
+| percentage1 = '''36.42%'''
+
+| image2 = Lazarus Chakwera 2017.jpg
+| nominee2 = [[Lazarus Chakwera]]
+| party2 = Malawi Congress Party
+| running_mate2 = [[Richard Msowoya]]
+| popular_vote2 = 1,455,880
+| percentage2 = 27.84%
+
+| image4 = {{CSS image crop|Image = Joyce Banda Department for International Development photo crop.jpg|bSize =170|cWidth=120|cHeight=150|oTop=0|oLeft=23}}
+| nominee4 = [[Joyce Banda]]
+| party4 = People's Party (Malawi)
+| running_mate4 = [[Sosten Gwengwe]]
+| popular_vote4 = 1,056,236
+| percentage4 = 20.20%
+
+| image5 = Atupele at US Embassy (profile).jpg
+| nominee5 = [[Atupele Muluzi]]
+| party5 = United Democratic Front (Malawi)
+| running_mate5 = [[Godfrey Chapola]]
+| popular_vote5 = 717,224
+| percentage5 = 13.72%
+
+| map_image = 2014 Malawian presidential election - Results by region and district.svg
+| map_caption = Results by [[Regions of Malawi|region]] (left) and [[Districts of Malawi|district]] (right)
+
+| title = [[President of Malawi|President]]
+| before_election = [[Joyce Banda]]
+| before_party = People's Party (Malawi)
+| after_election = [[Peter Mutharika]]
+| after_party = Democratic Progressive Party (Malawi)
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+| seats_for_election = All 193 seats in the [[National Assembly (Malawi)|National Assembly]]
+| majority_seats = 97
+| turnout = 70.42% ({{decrease}} 7.59 [[Percentage point|pp]])
+
+| party1 = Democratic Progressive Party (Malawi) | leader1 = [[Peter Mutharika]] | percentage1 = 21.84 | seats1 = 50 | last_election1 = 113
+| party2 = People's Party (Malawi) | leader2 = [[Joyce Banda]] | percentage2 = 18.16 | seats2 = 26 | last_election2 = New
+| party3 = Malawi Congress Party | leader3 = [[Lazarus Chakwera]] | percentage3 = 17.41 | seats3 = 48 | last_election3 = 27
+| party4 = United Democratic Front (Malawi) | leader4 = [[Atupele Muluzi]] | percentage4 = 9.64 | seats4 = 14 | last_election4 = 17
+| party6 = Alliance for Democracy (Malawi) | leader6 = [[Godfrey Shawa]] | percentage6 = 0.62 | seats6 = 1 | last_election6 = 1
+| party7 = Chipani cha Pfuko | leader7 = [[Davis Katsonga]] | percentage7 = 0.21 | seats7 = 1 | last_election7 = New
+| party8 = Independents | leader8 = – | percentage8 = 29.74 | seats8 = 52 | last_election8 = 32
+
+| map = 
+| map_caption = Results by constituency
+}}}}}}{{Politics of Malawi}}
+
+General elections were held in [[Malawi]] on 20 May 2014. They were Malawi's first tripartite elections, the first time the president, National Assembly and local councillors were elected on the same day.<ref name="MEC">"[http://www.mec.org.mw/News/TripatiteElections/tabid/110/Default.aspx Malawi Election Commission News] {{webarchive|url=https://web.archive.org/web/20140201233745/http://www.mec.org.mw/News/TripatiteElections/tabid/110/Default.aspx |date=1 February 2014 }}", 2009</ref> The presidential election was won by opposition candidate [[Peter Mutharika]] of the [[Democratic Progressive Party (Malawi)|Democratic Progressive Party]], who defeated incumbent President [[Joyce Banda]].
+
+==Background==
+Malawi's [[Consumer price index|CPI]] increased by 27.7% in 2013, but its [[Gross domestic product|GDP]] grew by only 5%.<ref>{{Cite web|url = http://www.imf.org/external/pubs/ft/weo/2014/01/weodata/weorept.aspx?pr.x=49&pr.y=13&sy=2013&ey=2013&scsm=1&ssd=1&sort=country&ds=.&br=1&c=676&s=NGDP_RPCH%2CPCPIPCH&grp=0&a=|title = World Economic Outlook Database|publisher = International Monetary Fund|date = April 2014}}</ref> Malawi has maintained a [[Polity data series|polity score]] of 6 since 2005, designating it as a [[democracy]].<ref>{{Cite web|url = http://www.systemicpeace.org/polity/maw2.htm|title = Authority Trends, 1964–2010: Malawi|accessdate = 5 May 2014|website = Polity IV Project}}</ref> Malawi's previous [[2009 Malawian general election|presidential election in 2009]] was only the fourth such election in the country's history following the end of [[Hastings Banda]]'s period of one-man rule in 1994.
+
+[[Bingu wa Mutharika]], who had won the [[2004 Malawian general election|2004 election]], picked his foreign minister [[Joyce Banda]] to be vice president after successfully contesting the [[2009 Malawian general election|2009 election]]. She was expelled from the [[Democratic Progressive Party (Malawi)|Democratic Progressive Party]] and formed the [[People's Party (Malawi)|People's Party]] when she refused to endorse President Bingu wa Mutharika's younger brother [[Peter Mutharika]] for president in the 2014 general election.<ref name=guardian>[https://www.theguardian.com/world/2014/may/24/madonna-malawi-president-joyce-banda-elections Madonna attacks Malawi's president after attempt to nullify elections] ''The Guardian''</ref>
+
+Bingu wa Mutharika died of a heart attack on 5 April 2012, and Joyce Banda took the presidency two days later, in accordance with the constitution, despite protests from some ruling party officials that Banda's expulsion from the ruling party made her ineligible.<ref>Kim Yi Dionne and Boniface Dulani. (1 January 2013) [https://academic.oup.com/afraf/article/112/446/111/10235 Constitutional provisions and executive succession: Malawi's 2012 transition in comparative perspective]. ''African Affairs''. Retrieved 14 March 2019.</ref>
+
+The People's Party entered the election with a sitting president, but little in the way of a grass-roots machine.<ref name=guardian/>
+
+==Presidential candidates==
+Twelve candidates were allowed to contest in the election by the Malawi Electoral Commission:<ref>{{cite web |url=http://www.thezambezian.com/malawi-electoral-body- |archive-url=https://archive.today/20140503210002/http://www.thezambezian.com/malawi-electoral-body- |url-status=dead |archive-date=3 May 2014 |title=Malawi electoral body releases names of May 20, 2014 Presidential candidates, however, a court later approved a twelfth candidate, Professor John Chisi, who at the time was technically a civil servant and therefore not allowed to run for president. The following are the Presidential candidates. |last1=Fazilla |first1=Tembo |date=21 February 2014 |website=thezambezian.com |accessdate=29 April 2014 }}</ref>
+{| class="wikitable" 
+|-
+! Portrait
+! Nominee
+! colspan=2|Party
+! Running mate
+|-
+| [[File:Joyce Banda Department for International Development photo crop.jpg|75px]]
+| [[Joyce Banda]]
+| style="background-color: {{party color|People's Party (Malawi)}}"|
+| [[People's Party (Malawi)|People's Party]] (PP)
+| [[Sosten Gwengwe]]
+|-
+| [[File:Peter Mutharika.jpg|75px]]
+| [[Peter Mutharika]] 
+| style="background-color: {{party color|Democratic Progressive Party (Malawi)}}"|
+| [[Democratic Progressive Party (Malawi)|Democratic Progressive Party]] (DPP)
+| [[Saulos Chilima]]
+|-
+|[[File:Mcp.mw-35 (cropped).jpg|75x75px]]
+| [[Lazarus Chakwera]]
+| style="background-color: {{party color|Malawi Congress Party}}"|
+| [[Malawi Congress Party]] (MCP)
+| [[Richard Msowoya]]
+|-
+|[[File:Atupele at US Embassy (cropped).jpg|75x75px]]
+| [[Atupele Muluzi]]
+| style="background-color: {{party color|United Democratic Front (Malawi)}}"|
+| [[United Democratic Front (Malawi)|United Democratic Front]] (UDF)  
+| Godfrey Chapola
+|-
+|
+| [[James Nyondo]]
+|
+| National Salvation Front (NASAF)
+| Ethel Changa
+|-
+|
+| Mark Katsonga
+|
+| Progressive Party Movement (PPM)  
+| Jacob Mbunge
+|-
+|
+| [[Davis Katsonga]]
+|
+| [[Chipani cha Pfuko]] (CCP) 
+| Godfrey Matenganya 
+|-
+|
+| George Nnesa
+|
+| Tisinthe Alliance (TA)  
+| Sylvester Chabuka
+|-
+|
+| [[Hellen Singh]]
+|
+| [[United Independent Party (Malawi)|United Independent Party]] (UIP)
+| [[Chrissy Tembo]]
+|-
+|
+| Kamuzu Chibambo
+|
+| [[People's Transformation Party]] (Petra)  
+| White Scander
+|-
+| [[File:Hon- Friday Anderson Jumbe 2014-06-21 14-39.jpg|111x111px]]
+| [[Friday Jumbe]]
+|
+|  Labour Party (LP)
+| Joseph Kubwalo
+|-
+|
+| John Chisi
+|
+| Umodzi Party (UP)
+| William Tayub
+|}
+
+==Opinion polls==
+The Malawi Electoral Commission cautions that opinion pollsters in Malawi often have questionable credentials and publish biased reports.<ref>{{Cite web|url = http://www.nyasatimes.com/2013/10/02/malawi-media-cautioned-on-opinion-polls-ahead-of-2014-tripartite-elections/|title = Malawi media cautioned on opinion polls ahead of 2014 tripartite elections|date = 2 October 2013|website = Nyasa Times|url-status = dead|archiveurl = https://web.archive.org/web/20140912060552/http://www.nyasatimes.com/2013/10/02/malawi-media-cautioned-on-opinion-polls-ahead-of-2014-tripartite-elections/|archivedate = 12 September 2014|df = dmy-all}}</ref> Some opinion polls have been criticised for lacking credibility and using non-scientific methods.<ref name=":0" />
+{| class="wikitable" style="text-align:right"
+|-
+!Poll source
+!Date
+!Sample size
+![[Joyce Banda]]<br /><small>([[People's Party (Malawi)|PP]])</small>
+![[Peter Mutharika]]<br />(<small>[[Democratic Progressive Party (Malawi)|DPP]])</small>
+![[Lazarus Chakwera]]<br /><small>([[Malawi Congress Party|MCP]])</small>
+![[Atupele Muluzi]]<br /><small>([[United Democratic Front (Malawi)|UDF]])</small>
+|-
+| align="left" |Research Tech Consultants<ref name=":0">{{Cite web|url = http://www.nyasatimes.com/2014/04/29/malawi-opposition-in-denial-mode-over-opinion-polls/|title = Malawi opposition in denial mode over opinion polls|date = 29 April 2014|website = Nyasa Times|last = Muheya|first = Green|url-status = dead|archiveurl = https://web.archive.org/web/20140505235400/http://www.nyasatimes.com/2014/04/29/malawi-opposition-in-denial-mode-over-opinion-polls/|archivedate = 5 May 2014|df = dmy-all}}</ref>
+|April 2014
+|3,883
+| style="background-color: {{party color|People's Party (Malawi)}}"|'''42%'''
+|10%
+|23%
+|10%
+|-
+| align="left" |Nyasa Times Media<ref>{{Cite web|url = http://www.nyasatimes.com/2014/04/15/jb-in-front-survey-tips-tight-race-for-lop-post/|title = JB in front, survey tips tight race for LoP post|date = 15 April 2014|last = Kufa|first = Charles|website = Nyasa Times|url-status = dead|archiveurl = https://web.archive.org/web/20140429080035/http://www.nyasatimes.com/2014/04/15/jb-in-front-survey-tips-tight-race-for-lop-post/|archivedate = 29 April 2014|df = dmy-all}}</ref>
+|April 2014
+|79,030
+| style="background-color: {{party color|People's Party (Malawi)}}"|'''30%'''
+|19% 
+|29%
+|22%
+|-
+| align="left" |[[Afrobarometer]]<ref>
+{{Cite web |url = http://www.afrobarometer.org/files/documents/dispatches/ab_r6_dispatchno1.pdf |title = Malawi's 2014 Elections: Amid Concerns About Fairness, Outcome is Too Close to Call |date = April 2014 |publisher = Afrobarometer |accessdate = 30 May 2014 |archive-url = https://web.archive.org/web/20140515002359/http://www.afrobarometer.org/files/documents/dispatches/ab_r6_dispatchno1.pdf |archive-date = 15 May 2014 |url-status = dead }}
+</ref>
+|April 2014
+|2,400
+|14%
+|style="background-color: {{party color|Democratic Progressive Party (Malawi)}}"|'''27%'''
+|21%
+|14%
+|- style="background:#EFEFEF; font-weight:bold;"
+|{{nowrap|Election Results}}
+|30 May 2014
+| 
+| 20.2% 
+| '''36.4%'''
+| 27.8%
+| 13.7%
+|}
+
+==Results==
+Amid a breakdown in electronic systems for relaying results back to IEC headquarters, Banda claimed fraud and attempted to cancel the election after only one third of the votes were counted, and [[Peter Mutharika]], brother of the president who died in 2012, was well ahead. Banda said another vote should be held within 90 days, and she said she would not be standing, but opposition parties and the [[Malawi Law Society]] objected.<ref>[http://www.news24.com/Africa/News/Malawi-to-recount-votes-after-fraud-claims-20140525 Malawi to recount votes after fraud claims] ''News24''</ref>
+
+Court action ensued,<ref>[http://www.enca.com/africa/malawi-court-says-election-results-must-be-announced-recount Malawi court demands election results before recount]</ref> but the IEC said the first count would be completed, and a recount started. The result would only be announced after the recount, estimated to take two months. On 30 May 2014, the High Court ruled that any recount must be done within eight days of the vote; since the allowed period had already ended, the court ruled that the electoral commission should announce the results.<ref>Zawadi Chilunga, [http://www.nyasatimes.com/2014/05/30/court-rules-mec-should-declare-winner-of-malawi-presidential-polls/ "Court rules MEC should declare winner of Malawi presidential polls"] {{webarchive|url=https://web.archive.org/web/20140531090358/http://www.nyasatimes.com/2014/05/30/court-rules-mec-should-declare-winner-of-malawi-presidential-polls/ |date=31 May 2014 }}, ''Nyasa Times'', 30 May 2014.</ref> Accordingly, the electoral commission declared later in the day that Mutharika had won the presidential election with 36.4% of the vote. Another opposition candidate, [[Lazarus Chakwera]] of the MCP, received 27.8%, while Banda trailed in third place with 20.2%. The head of the commission, [[Maxon Mbendera]], said that "the rule of law compels us to release the results", although he acknowledged that some of the commission's members had "reservations" about them.<ref>Zawadi Chilunga, [http://www.nyasatimes.com/2014/05/30/mutharika-declared-winner-in-malawi-2014-presidential-election/ "Mutharika declared winner in Malawi 2014 presidential election"] {{webarchive|url=https://web.archive.org/web/20140531090303/http://www.nyasatimes.com/2014/05/30/mutharika-declared-winner-in-malawi-2014-presidential-election/ |date=31 May 2014 }}, ''Nyasa Times'', 30 May 2014.</ref> Banda quickly said that she accepted the outcome, although she continued to describe the vote as "fraudulent".<ref>Wanga Gwede, [http://www.nyasatimes.com/2014/05/30/jb-accepts-to-hand-over-power-to-apm-malawi-presidency/ "JB accepts to hand over power to APM: Malawi presidency"] {{webarchive|url=https://web.archive.org/web/20140531090402/http://www.nyasatimes.com/2014/05/30/jb-accepts-to-hand-over-power-to-apm-malawi-presidency/ |date=31 May 2014 }}, ''Nyasa Times'', 30 May 2014.</ref>
+
+Mutharika was sworn in as president on the morning of 31 May 2014.<ref>Zawadi Chilunga, [http://www.nyasatimes.com/2014/05/31/so-help-me-god-mutharika-sworn-in-as-malawi-president-chilima-vp/ "'So help me God': Mutharika sworn in as Malawi President, Chilima VP"] {{Webarchive|url=https://web.archive.org/web/20140601004431/http://www.nyasatimes.com/2014/05/31/so-help-me-god-mutharika-sworn-in-as-malawi-president-chilima-vp/ |date=1 June 2014 }}, ''Nyasa Times'', 31 May 2014.</ref> Banda congratulated Mutharika and called for national unity, urging the people to support the new president and wishing him success.<ref>Thom Chiumia, [http://www.nyasatimes.com/2014/05/31/defeated-jb-congratulates-mutharika-malawi-must-move-forward/ "Defeated JB congratulates Mutharika: 'Malawi must move forward'"] {{webarchive|url=https://web.archive.org/web/20140601004412/http://www.nyasatimes.com/2014/05/31/defeated-jb-congratulates-mutharika-malawi-must-move-forward/ |date=1 June 2014 }}, ''Nyasa Times'', 31 May 2014.</ref> An inauguration ceremony for Mutharika was held in [[Blantyre]] on 2 June 2014. Banda was not present at the inauguration, held at [[Kamuzu Stadium]], and her absence was viewed by some as a snub, given the history of bitter rivalry between the two. Mutharika said that he was offering an [[olive branch]] and wanted to "bury the past", expressing "regret" at Banda's absence. He said that he was not interested in "vengeance", although he added that "those who have broken the law will face the full course of justice".<ref>Zawadi Chilunga, [http://www.nyasatimes.com/2014/06/02/mutharika-regrets-jbs-snub-in-power-handover-muluzi-cheered/ "Mutharika regrets JB's snub in power handover: Muluzi cheered"] {{webarchive|url=https://web.archive.org/web/20140606212425/http://www.nyasatimes.com/2014/06/02/mutharika-regrets-jbs-snub-in-power-handover-muluzi-cheered/ |date=6 June 2014 }}, ''Nyasa Times'', 2 June 2014.</ref>
+
+===President===
+{{Election results
+|cand1=[[Peter Mutharika]]|vp1=[[Saulos Chilima]]|party1=[[Democratic Progressive Party (Malawi)|Democratic Progressive Party]]|votes1=1904399
+|cand2=[[Lazarus Chakwera]]|vp2=[[Richard Msowoya]]|party2=[[Malawi Congress Party]]|votes2=1455880
+|cand3=[[Joyce Banda]]|vp3=[[Sosten Gwengwe]]|party3=[[People's Party (Malawi)|People's Party]]|votes3=1056236
+|cand4=[[Atupele Muluzi]]|vp4=Godfrey Chapola|party4=[[United Democratic Front (Malawi)|United Democratic Front]]|votes4=717224
+|cand5=Kamuzu Chibambo|vp5=White Scander|party5=[[People's Transformation Party]]|votes5=19360
+|cand6=Mark Katsonga|vp6=Jacob Mbunge|party6=[[People's Progressive Movement (Malawi)|People's Progressive Movement]]|votes6=15830
+|cand7=John Chisi|vp7=William Tayub|party7=Umodzi Party|votes7=12048
+|cand8=George Nnesa|vp8=Sylvester Chabuka|party8=[[Malawi Forum for Unity and Development]]|votes8=11042
+|cand9=[[James Nyondo]]|vp9=Ethel Changa|party9=National Salvation Front|votes9=10623
+|cand10=[[Hellen Singh]]|vp10=Chrissy Tembo|party10=[[United Independent Party (Malawi)|United Independent Party]]|votes10=9668
+|cand11=[[Friday Jumbe]]|vp11=Joseph Kubwalo|party11=Labour Party|votes11=8819
+|cand12=[[Davis Katsonga]]|vp12=Godfrey Matenganya|party12=[[Chipani cha Pfuko]]|votes12=7454
+|invalid=56695
+|electorate=7470806
+|source=<ref>{{Cite web |title=Presidential Election Results 2014 |url=https://mec.org.mw/Portals/0/presidential%20Results.zip |archive-url=https://web.archive.org/web/20141027233445/http://mec.org.mw/Portals/0/presidential%20Results.zip |archive-date=27 October 2014 |website=Malawi Electoral Commission |format=ZIP}}</ref>
+}}
+
+===National Assembly===
+{{Election results
+|image =[[File:Malawi Assemblee Nationale 2014.svg]]
+|party1=[[Democratic Progressive Party (Malawi)|Democratic Progressive Party]]|votes1=1123020|seats1=50|sc1=−63
+|party2=[[People's Party (Malawi)|People's Party]]|votes2=933923|seats2=26|sc2=New
+|party3=[[Malawi Congress Party]]|votes3=895528|seats3=48|sc3=+21
+|party4=[[United Democratic Front (Malawi)|United Democratic Front]]|votes4=495865|seats4=14|sc4=−3
+|party5=[[People's Progressive Movement (Malawi)|People's Progressive Movement]]|votes5=33817|seats5=0|sc5=0
+|party6=[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes6=31907|seats6=1|sc6=0
+|party7=[[United Independent Party (Malawi)|United Independent Party]]|votes7=24132|seats7=0|sc7=New
+|party8=National Salvation Front|votes8=19616|seats8=0|sc8=New
+|party9=Nthanda Congress Party|votes9=16497|seats9=0|sc9=New
+|party10=New Rainbow Coalition|votes10=14091|seats10=0|sc10=0
+|party11=[[Chipani cha Pfuko]]|votes11=10545|seats11=1|sc11=New
+|party12=New Labour Party|votes12=4473|seats12=0|sc12=New
+|party13=Umodzi Party|votes13=3145|seats13=0|sc13=New
+|party14=[[Malawi Forum for Unity and Development]]|votes14=2814|seats14=0|sc14=−1
+|party15=[[People's Transformation Party]]|votes15=2746|seats15=0|sc15=0
+|party16=[[Maravi People's Party]]|votes16=733|seats16=0|sc16=−1
+|party17=People's Democratic Movement|votes17=471|seats17=0|sc17=New
+|party18=Independents|votes18=1529739|seats18=52|sc18=+20
+|row19=Vacant|seats19=1|sc19=–
+|total_sc=0
+|invalid=74634
+|electorate=7409288
+|source=<ref>{{Cite web |title=Parliamentary Election Results 2014 |url=https://mec.org.mw/Portals/0/Parliament%20results.pdf |archive-url=https://web.archive.org/web/20140808054450/http://www.mec.org.mw/Portals/0/Parliament%20results.pdf |archive-date=8 August 2014 |website=Malawi Electoral Commission |format=PDF}}</ref>
+}}
+
+===Local government===
+{{Election results
+|party1=[[Democratic Progressive Party (Malawi)|Democratic Progressive Party]]|votes1=|seats1=165
+|party2=[[Malawi Congress Party]]|votes2=|seats2=131
+|party3=[[People's Party (Malawi)|People's Party]]|votes3=|seats3=65
+|party4=[[United Democratic Front (Malawi)|United Democratic Front]]|votes4=|seats4=57
+|party5=[[Chipani cha Pfuko]]|votes5=|seats5=2
+|party6=[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes6=|seats6=1
+|party7=National Salvation Front|votes7=|seats7=1
+|party8=Independents|votes8=|seats8=35
+|row9=Vacant|seats9=5
+|valid=5032823
+|invalid=121170
+|total_sc=0
+|source=[https://web.archive.org/web/20140606225355/http://www.nyasatimes.com/2014/06/03/malawi-has-hung-parliament-chakwera-new-leader-of-opposition/ Nyasa Times], [http://www.shanghaidaily.com/article/article_xinhua.aspx?id=222253 Shanghai Daily]
+}}
+
+==References==
+{{reflist}}
+
+{{Malawian elections}}
+
+[[Category:Presidential elections in Malawi]]
+[[Category:Parliamentary elections in Malawi]]
+[[Category:2014 in Malawi]]
+[[Category:2014 elections in Africa|Malawi]]
+[[Category:May 2014 in Africa]]

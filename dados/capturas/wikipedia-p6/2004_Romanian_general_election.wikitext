@@ -1,0 +1,400 @@
+{{short description|none}}
+{{Infobox election
+| country = Romania
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| previous_election = 2000 Romanian general election
+| previous_year = 2000
+| next_election = 2009 Romanian presidential election
+| next_year = 2009
+| type = Presidential
+| election_date = 28 November 2004 (first round)<br /> 12 December 2004 (second round)
+| turnout = 58.49% (first round) {{decrease}}6.82[[percentage points|pp]]<br /> 55.21% (second round) {{decrease}}2.29[[percentage points|pp]]
+
+| image1 = Traian Băsescu 2005Mar09.jpg
+| nominee1 = '''[[Traian Băsescu]]'''
+| party1 = Democratic Party (Romania)
+| alliance1 = Justice and Truth Alliance
+| color1 = {{Party color|Democratic Liberal Party (Romania)}}
+| popular_vote1 = '''5,126,794'''
+| percentage1 = '''51.23%'''
+
+| image2 = Adrian Năstase3.jpg
+| nominee2 = [[Adrian Năstase]]
+| party2 = Social Democratic Party (Romania)
+| color2 = {{Party color|Social Democratic Party (Romania)}}
+| alliance2 = National Union PSD+PUR
+| popular_vote2 = 4,881,520
+| percentage2 = 48.77%
+
+| map = {{Switcher|[[File:2004 Romanian presidential election 1st round.svg|300px]]|First round results|[[File:2004 Romanian presidential election 2nd round.svg|300px]]|Second round results|default = 2}}
+| map_caption = '''Băsescu:''' {{legend0|#FFCCAA|30–40%}} {{legend0|#FFB380|40–50%}} {{legend0|#FF9955|50–60%}} {{legend0|#FF7F2A|60–70%}}<br>'''Năstase:''' {{legend0|#fbd9dc|30–40%}} {{legend0|#f0abb0|40–50%}} {{legend0|#ea7982|50–60%}} {{legend0|#e04350|60–70%}} {{legend0|#cb1d2b|70–80%}}<br>'''Markó:''' {{legend0|#d4efd0|30–40%}} {{legend0|#3ca531|60–70%}} {{legend0|#0e8d00|70–80%}}
+
+| title = [[President of Romania|President]]
+| before_election = [[Ion Iliescu]]
+| after_election = [[Traian Băsescu]]
+| before_party = Independent politician 
+| after_party = Democratic Party (Romania)
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| next_election = [[2008 Romanian parliamentary election|2008]]
+| previous_election = [[2000 Romanian general election|2000]]
+| seats_for_election = All 332 seats in the [[Chamber of Deputies (Romania)|Chamber of Deputies]]
+| turnout = 58.47%
+| election_date = 28 November 2004
+
+| leader1 = [[Adrian Năstase]]
+| party1 = National Union PSD+PUR
+| percentage1 = 36.61
+| seats1 = 132
+| last_election1 = 155
+
+| leader2 = [[Traian Băsescu]]<br />{{nowrap|[[Călin Popescu-Tăriceanu]]}}
+| party2 = Justice and Truth Alliance
+| percentage2 = 31.33
+| seats2 = 112
+| last_election2 = 61
+
+| leader3 = [[Corneliu Vadim Tudor]]
+| party3 = Greater Romania Party
+| percentage3 = 12.92
+| seats3 = 48
+| last_election3 = 84
+
+| leader4 = [[Béla Markó]]
+| party4 = Democratic Alliance of Hungarians in Romania
+| percentage4 = 6.17
+| seats4 = 22
+| last_election4 = 27
+
+| leader5 = [[:ro:Varujan Pambuccian|Varujan Pambuccian]]{{efn|Pambuccian, a member of the [[Union of Armenians of Romania]], has been the parliamentary leader of the national minorities' group since 1996.}}
+| party5 = Romanian ethnic minority parties
+| percentage5 = 2.17
+| seats5 = 18
+| last_election5 = 18
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Senate
+| next_election = [[2008 Romanian parliamentary election|2008]]
+| previous_election = [[2000 Romanian general election|2000]]
+| seats_for_election = All 137 seats in the [[Senate of Romania|Senate]]
+| turnout = 58.47%
+| election_date = 28 November 2004
+
+| leader1 = [[Adrian Năstase]]
+| party1 = National Union PSD+PUR
+| percentage1 = 37.13
+| seats1 = 57
+| last_election1 = 65
+
+| leader7 = [[Traian Băsescu]]<br />{{nowrap|[[Călin Popescu-Tăriceanu]]}}
+| party7 = Justice and Truth Alliance
+| percentage7 = 31.77
+| seats7 = 49
+| last_election7 = 26
+
+| leader8 = [[Corneliu Vadim Tudor]]
+| party8 = Greater Romania Party
+| percentage8 = 13.63
+| seats8 = 21
+| last_election8 = 37
+
+| leader9 = [[Béla Markó]]
+| party9 = Democratic Alliance of Hungarians in Romania
+| percentage9 = 6.23
+| seats9 = 10
+| last_election9 = 12
+
+| map = 2004 Romanian legislative election - Vote Strength.png
+| map_caption = Results for the Chamber of Deputies and Senate
+
+| title = [[Prime Minister of Romania|Prime Minister]]
+| posttitle = [[Prime Minister of Romania|Prime Minister]]-designate
+| before_election = [[Adrian Năstase]]
+| after_election = [[Călin Popescu-Tăriceanu]]
+| before_party = Social Democratic Party (Romania)
+| after_party = [[National Liberal Party (Romania)|PNL]] ([[Justice and Truth Alliance|DA]])
+}}}}}}}}
+
+General elections were held in [[Romania]] on 28 November 2004, with a second round of the presidential elections on 12 December between former Prime Minister [[Adrian Năstase]] of the then ruling [[Social Democratic Party (Romania)|Social Democratic Party]] (PSD) and then incumbent [[Mayor of Bucharest|Bucharest Mayor]] [[Traian Băsescu]] of the opposition [[Justice and Truth Alliance]] (DA), more specifically of the [[Democratic Party (Romania)|Democratic Party]] (PD). Băsescu was elected [[President of Romania|President]] by a narrow majority of just 51.2%.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1616 {{ISBN|978-3-8329-5609-7}}</ref> The 2004 presidential election was the fifth of its kind held in post-1989 Romania.
+
+Following 2003 amendments to the [[Constitution of Romania|constitution]] which lengthened the presidential term to five years, these were the last joint elections to the presidency and Parliament in Romania's political history thus far.
+
+==Campaign==
+===Parliamentary elections===
+The main contenders were the [[left-wing politics|left-wing]] alliance made up of the then incumbent [[Social Democratic Party of Romania]] (PSD) and the [[Romanian Humanist Party]] (PUR), and, on the other hand, the center-[[right-wing politics|right]] [[Justice and Truth Alliance]] (DA; {{langx|ro|Dreptate și adevăr}}) comprising the [[Conservative liberalism|conservative-liberal]] [[National Liberal Party (Romania)|National Liberal Party]] (PNL) and the initially [[Social democracy|social-democratic]] [[Democratic Party (Romania)|Democratic Party]] (PD) which later adopted a [[Centre-right politics|center-right]] [[Christian democracy|Christian democratic]] ideology.
+
+Other significant contenders were the [[Greater Romania Party]] (PRM) (right-wing nationalists), the [[Hungarians in Romania|ethnic Hungarian]] party [[Democratic Alliance of Hungarians in Romania]] (UDMR), and the [[Christian Democratic National Peasants' Party|Union for Romanian Reconstruction]] (UPRR), a group of right-wing technocrats.
+
+==Conduct==
+The opposition alleged fraudulent use by the PSD of "supplementary lists", designed to help Romanians in transit to vote.  Traditionally, Romanians voted with a cardboard identity card, which was stamped when they voted. Most Romanians now have laminated plastic IDs, to which a printed stamp is affixed when a person votes. However, the stamps can be easily removed. In spite of this, electoral fraud is nearly impossible to commit, as every citizen is assigned to one local voting station, the only location he/she can vote at.
+
+The opposition claimed that there were organized "electoral excursions" of PSD supporters who were bussed to various towns to vote several times. This was corroborated by several teams of journalists, who followed the buses.
+
+The government attacked the opposition by arguing that 'rumours of fraud' affect Romania's economy and its external credibility.
+
+In January 2005, the IMAS institute of statistics released an analysis of the voting results in the 16,824 precincts. In the top 1,000 precincts with the most votes on the supplementary lists, the PSD had 43% to the DA's 23%, while in the precincts with fewest votes on supplementary lists, the PSD had 30% to the DA's 34%. The same trend was true in the precincts with most void votes. [https://web.archive.org/web/20081031120322/http://www.imas-inc.com/download/analize.pdf Wayback Machine]
+
+==Presidential candidates==
+<section begin="candidates" />
+{| class="wikitable sortable"  style="text-align:center;"
+|-
+! Name
+! Lifespan
+! class="unsortable" | Public Administration Experience
+! Affiliation and endorsements
+! class="unsortable" | [[Alma mater]] and profession
+! Candidacy <br /> {{small|Announcement dates}}
+|-
+|{{hs|Băsescu}}[[File:Traian Băsescu 2005Mar09.jpg|x160px]]<br />'''[[Traian Băsescu]]'''
+|Born: {{dts|1951|11|04}}<br />(age {{age|1951|11|04|2004|12|12}})<br />[[Murfatlar|Basarabi]], [[Constanța County]]
+|'''Mayor of [[Bucharest]] (2000-election day)'''<br />[[Chamber of Deputies (Romania)|Deputy]] (1992–2000)<br />'''Minister of Transport (1991–1992, 1996–1998, 1998–2000)'''<br />Sub-Secretary of State for Naval Transportation with the Ministry of Transport (1990–1991)<br />Director of Civil Navigation Inspectorate with the Ministry of Transport (1989–1990)
+|Affiliation: [[Justice and Truth Alliance]]<br />Alliance members: [[National Liberal Party (Romania)|PNL]] and [[Democratic Party (Romania)|PD]] 
+|[[Mircea cel Bătrân Naval Academy]] (1976)<br /><br />seaman
+|
+|-
+|{{hs|Năstase}}[[File:Adrian Năstase3.jpg|x160px]]<br />'''[[Adrian Năstase]]'''
+|Born: {{dts|1950|6|22}}<br />(age {{age|1950|6|22|2004|12|12}})<br />[[Bucharest]]
+|'''[[Prime Minister of Romania]] (2000-election day)'''<br />[[Chamber of Deputies (Romania)|Deputy]] (1990, 1992-election day)<br />'''[[President of the Chamber of Deputies of Romania|President of the Chamber of Deputies]] (1992–1996)'''<br />[[Ministry of Foreign Affairs (Romania)|Minister of Foreign Affairs]] (1990–1992)
+|Affiliation: [[National Union PSD+PUR]]<br />Alliance members: [[Social Democratic Party (Romania)|PSD]] and [[Conservative Party (Romania)|PUR]] 
+|Faculty of Sociology, [[University of Bucharest]] (1978)<br />Faculty of Law, [[University of Bucharest]] (1973)<br /><br />jurist
+|
+|-
+|{{hs|Tudor}}[[File:Corneliu Vadim Tudor - Declaratii la BEC.png|x160px]]<br />'''[[Corneliu Vadim Tudor]]'''
+|Born: {{dts|1949|11|28}}<br />(age {{age|1949|11|28|2004|11|28}})<br />[[Bucharest]]<br />Died: {{dts|2015|09|14}}, [[Bucharest]]
+|'''[[Romanian Senate|Senator]] (1992-election day)'''<br /><br /><small>'''Former presidential elections:'''<br />[[2000 Romanian general election|2000]]: 28.3% (2nd place, 1st round), 33.2% (2nd place, 2nd round)<br />[[1996 Romanian general election|1996]]: 4.7% (5th place, 1st round)</small>
+|Affiliation: [[Greater Romania Party|PRM]]
+|Faculty of Philosophy, [[University of Bucharest]] (1971)<br /><br />journalist, writer
+|
+|-
+|{{hs|Markó}}[[File:Marko-Bela1.jpg|x160px]]<br />'''[[Béla Markó]]'''
+|Born: {{dts|1951|09|08}}<br />(age {{age|1951|09|08|2004|11|28}})<br />[[Târgu Secuiesc]], [[Covasna County]]
+|'''[[Romanian Senate|Senator]] (1990-election day)'''
+||Affiliation: [[Democratic Alliance of Hungarians in Romania|UDMR]]
+|Faculty of Philology, [[Babeş-Bolyai University]], [[Cluj-Napoca]] (1974)<br /><br />journalist, poet
+|
+|-
+|{{hs|Ciuhandu}}[[File:Gheorghe Ciuhandu (cropped).jpg|x160px]]<br />'''[[Gheorghe Ciuhandu]]'''
+|Born: {{dts|1947|06|15}}<br />(age {{age|1947|06|15|2004|11|28}})<br />[[Timișoara]], [[Timiș County]]
+|'''Mayor of [[Timișoara]] (1996-election day)'''
+|Affiliation: [[Christian Democratic National Peasants' Party|PNȚCD]]
+|Faculty of Constructions, [[Politehnica University of Timișoara]] (1970)<br /><br />building engineer
+|
+|-
+|{{hs|Becali}}[[File:George Becali.JPG|x160px]]<br />'''[[Gigi Becali]]'''
+|Born: {{dts|1958|06|25}}<br />(age {{age|1958|06|25|2004|11|28}})<br />[[Vădeni, Brăila|Vădeni]], [[Brăila County]]
+|
+|Affiliation: [[New Generation Party (Romania)|PNG]]
+|"Iuliu Maniu" High-school, [[Bucharest]] (1978)<br /><br />shepherd, football club owner
+|
+|-
+|{{hs|Roman}}[[File:Petre Roman EP (cropped).jpg|x160px]]<br />'''[[Petre Roman]]'''
+|Born: {{dts|1946|07|22}}<br />(age {{age|1946|07|22|2004|11|28}})<br />[[Bucharest]]
+|[[Romanian Senate|Senator]] (1996-election day)<br />[[Ministry of Foreign Affairs (Romania)|Minister of Foreign Affairs]] (1999–2000)<br />'''[[President of the Senate of Romania]] (1996–1999)'''<br />[[Chamber of Deputies (Romania)|Deputy]] (1990–1996)<br />'''[[Prime Minister of Romania]] (1989–1991)'''<br /><br /><small>'''Former presidential elections:'''<br />[[2000 Romanian general election|2000]]: 3.0% (6th place, 1st round)<br />[[1996 Romanian general election|1996]]: 20.5% (3rd place, 1st round)</small>
+|Affiliation: [[Democratic Force (Romania)|Democratic Force]]
+|Faculty of Energy, [[Politehnica University of Bucharest]] (1968)<br /><br />hydroelectric powerplant engineer
+|
+|-
+|{{hs|Dinu}}[[File:Blank.png|x160px]]<br />'''Gheorghe Dinu'''
+|Born: unknown birthdate<br />unknown birthplace
+|
+|Affiliation: none
+|unknown education<br /><br />intelligence officer
+|
+|-
+|{{hs|Miluț}}[[File:Blank.png|x160px]]<br />'''[[Marian Petre Miluț]]'''
+|Born: {{dts|1955|12|29}}<br />(age {{age|1955|12|29|2004|11|28}})<br />[[Craiova]], [[Dolj County]]
+|
+|Affiliation: [[People's Action (Romania)|People's Action]]
+|Faculty of Automation, Computers and Electronics, [[University of Craiova]] (1980)<br /><br />IT engineer
+|
+|-
+|{{hs|Tudorici}}[[File:Blank.png|x160px]]<br />'''[[:ro:Ovidiu Tudorici|Ovidiu Tudorici]]'''
+|Born: {{dts|1969|10|16}}<br />(age {{age|1969|10|16|2004|11|28}})<br />[[Câmpulung Moldovenesc]], [[Suceava County]]
+|'''Deputy Mayor of [[Câmpulung Moldovenesc]] (2004-election day)'''
+|Affiliation: Union for Romania's Reconstruction
+|Faculty of Law, [[Petre Andrei University of Iași]] (1997)<br /><br />salesman, marketing specialist
+|
+|-
+|{{hs|Rădulescu}}[[File:Blank.png|x160px]]<br />'''Aurel Rădulescu'''
+|Born: {{dts|1953|08|13}}<br />(age {{age|1953|08|13|2004|11|28}})<br />[[Adamclisi]], [[Constanța County]]
+|
+|Affiliation: Christian Democratic People's Alliance
+|Faculty of Law and Faculty of Theology, unknown universities (unknown years)<br /><br />priest
+|
+|-
+|{{hs|Tunaru}}[[File:Blank.png|x160px]]<br />'''[[:ro:Alexandru Raj Tunaru|Raj Tunaru]]'''
+|Born: {{dts|1959|11|12}}<br />(age {{age|1959|11|12|2004|11|28}})<br />[[Țânțăreni, Gorj|Țânțăreni]], [[Gorj County]]
+|
+|Affiliation: Democratic Youth Party
+|[[University of Petroșani]] (unknown year)<br /><br />mining engineer
+|
+|}<section end="candidates" />
+
+==Results==
+===President===
+[[File:Romania-presidential-2004-by-county.png|thumb|right|400px|Winner by county in the first round]]
+[[File:Harta primului tur al alegerilor prezidențiale din 2004 la nivelul UAT.png|thumb|398x398px|First round result by commune]]
+[[File:Romania presidentia2004 Run-off by county.png|thumb|right|400px|Winner by county in the [[Two-round system|runoff]]]]
+[[File:Rezultatul celui de-al doilea tur al alegerilor prezidențiale din 2004 la nivelul UAT-urilor.png|thumb|402x402px|Second round results by commune]]
+Corneliu Vadim Tudor positioned himself against Băsescu, without openly endorsing Năstase. Marko Bela openly endorsed Adrian Năstase. Gheorghe Ciuhandu openly endorsed Băsescu.
+
+Both Băsescu and Năstase came from left-wing parties (PD and PSD) that were members of [[Socialist International]] (SI). However, SI supported Năstase, which led to the abandonment of the social-democratic doctrine by the PD and the withdrawal of the party from SI in 2005.<ref>{{cite web|url=https://www.academia.edu/39154174/Evolu%C5%A3ia_Partidului_Democrat_%C3%AEn_perioada_2000_2004_R%C4%83zvan_Victor_Pantelimon|title=Evoluţia Partidului Democrat în perioada 2000 -2004 Răzvan Victor Pantelimon|author=Razvan Victor Pantelimon|year=2007}}</ref>
+
+{{Election results
+|cand1=[[Traian Băsescu]]|party1=[[Justice and Truth Alliance]]|votes1=3545236|votes1_2=5126794
+|cand2=[[Adrian Năstase]]|party2=[[National Union PSD+PUR]]|votes2=4278864|votes2_2=4881520
+|cand3=[[Corneliu Vadim Tudor]]|party3=[[Greater Romania Party]]|votes3=1313714
+|cand4=[[Béla Markó]]|party4=[[Democratic Alliance of Hungarians in Romania]]|votes4=533446
+|cand5=[[Gheorghe Ciuhandu]]|party5=[[Christian Democratic National Peasants' Party]]|votes5=198394
+|cand6=[[Gigi Becali]]|party6=[[New Generation Party (Romania)|New Generation Party]]|votes6=184560
+|cand7=[[Petre Roman]]|party7=[[Democratic Force (Romania)|Democratic Force]]|votes7=140702
+|cand8=Gheorghe Dinu|party8=Independent|votes8=113321
+|cand9=[[Marian Petre Miluț]]|party9=[[People's Action (Romania)|People's Action]]|votes9=43378
+|cand10=Ovidiu Tudorici|party10=Union for Romanian Reconstruction|votes10=37910
+|cand11=Aurel Rădulescu|party11=Christian Democratic People's Alliance|votes11=35455
+|cand12=Alexandru Raj Tunaru|party12=Democratic Youth Party|votes12=27225
+|invalid=339010|invalid2=103245
+|electorate=18449344|electorate2=18316104
+|source=Nohlen & Stöver
+}}
+{{bar box|title=Vote share|titlebar=#ddd|width=600px|barwidth=500px|bars= 
+{{Bar gap|{{center|Second round}}}}
+{{bar percent|'''Băsescu'''|{{party color|Justice and Truth Alliance}}|51.23}}
+{{bar percent|Năstase|{{party color|National Union PSD+PUR}}|48.77}}
+{{Bar gap|{{center|First round}}}}
+{{bar percent|{{underline|Năstase}}|{{party color|National Union PSD+PUR}}|40.94}}
+{{bar percent|{{underline|Băsescu}}|{{party color|Justice and Truth Alliance}}|33.92}}
+{{bar percent|Tudor|{{party color|Greater Romania Party}}|12.57}}
+{{bar percent|Markó|{{party color|Democratic Alliance of Hungarians in Romania}}|5.10}}
+{{bar percent|Ciuhandu|{{party color|Christian Democratic National Peasants' Party}}|1.90}}
+{{bar percent|Becali|{{party color|New Generation Party (Romania)}}|1.77}}
+{{bar percent|Roman|#FC3204|1.35}}
+{{bar percent|Dinu|{{party color|Independent (politician)}}|1.08}}
+{{bar percent|Others|#777777|1.38}}
+}}
+
+===Parliament===
+[[File:2004 ALEGERI SENAT.png|thumb|326x326px|Results of the 2004 Romanian legislative elections, showing the number of votes for the party that won a plurality in each locality. Results for the Senate]]
+
+====Senate====
+{{Election results
+|party1=[[National Union PSD+PUR]]|votes1=3798607|seats1=57|sc1=–8
+|party2=[[Justice and Truth Alliance]]|votes2=3250663|seats2=49|sc2=+23
+|party3=[[Greater Romania Party]]|votes3=1394698|seats3=21|sc3=–16
+|party4=[[Democratic Alliance of Hungarians in Romania]]|votes4=637109|seats4=10|sc4=–2
+|party5=[[New Generation Party (Romania)|New Generation Party]]|votes5=241486|seats5=0|sc5=New
+|party6=[[Christian Democratic National Peasants' Party]]|votes6=196027|seats6=0|sc6=0
+|party7=[[Democratic Force (Romania)|Democratic Force]]|votes7=95953|seats7=0|sc7=New
+|party8=[[Ecologist Party of Romania]]|votes8=83771|seats8=0|sc8=New
+|party9=United Socialist Party|votes9=60027|seats9=0|sc9=New
+|party10=[[Romanian National Unity Party]]|votes10=56414|seats10=0|sc10=0
+|party11=[[People's Action (Romania)|People's Action]]|votes11=52487|seats11=0|sc11=New
+|party12=[[Romanian Socialist Party (1992–2015)|Romanian Socialist Party]]|votes12=42306|seats12=0|sc12=New
+|party13=Romanian Workers Party|votes13=40702|seats13=0|sc13=New
+|party14=Union for Romanian Reconstruction|votes14=37630|seats14=0|sc14=New
+|party15=[[Romanian Socialist Party (2003)|Socialist Alliance Party]]|votes15=37019|seats15=0|sc15=New
+|party16=[[National Democratic Christian Party]]|votes16=33299|seats16=0|sc16=New
+|party17=Social Democratic Party "Constantin Titel Petrescu"|votes17=25637|seats17=0|sc17=New
+|party18=Democratic Youth Party|votes18=24725|seats18=0|sc18=New
+|party19=Popular Christian Democratic Alliance|votes19=24133|seats19=0|sc19=New
+|party20=New Democracy Party|votes20=23514|seats20=0|sc20=New
+|party21=Third Millennium Party|votes21=21301|seats21=0|sc21=New
+|party22=For the Motherland Party|votes22=19314|seats22=0|sc22=New
+|party23=Alliance for the Unity of the Rroma|votes23=19109|seats23=0|sc23=New
+|party24=Independent candidate: Eberhard-Wolfgang Wittstock|votes24=11107|seats24=0|sc24=New
+|party25=Popular Party of Romania|votes25=2436|seats25=0|sc25=New
+|party26=Force of Justice|votes26=1186|seats26=0|sc26=New
+|party27=Independents|votes27=816|seats27=0|sc27=New
+|invalid=556128
+|total_sc=–3
+|electorate=18449676
+|source=[http://alegeri.roaep.ro/?alegeri=alegeri-parlamentul-romaniei-2004 AEP]
+}}
+[[File:2004 ALEGERI CAMERA DEPUTAȚILOR.png|thumb|292x292px|Results of the 2004 Romanian legislative elections, showing the number of votes for the party that won a plurality in each locality. Results for the Chamber of Deputies.]]
+
+====Chamber of Deputies====
+{{Election results
+|party1=[[National Union PSD+PUR]]|votes1=3730352|seats1=132|sc1=–23
+|party2=[[Justice and Truth Alliance]]|votes2=3191546|seats2=112|sc2=+51
+|party3=[[Greater Romania Party]]|votes3=1316751|seats3=48|sc3=–36
+|party4=[[Democratic Alliance of Hungarians in Romania]]|votes4=628125|seats4=22|sc4=–5
+|party5=[[New Generation Party (Romania)|New Generation Party]]|votes5=227443|seats5=0|sc5=0
+|party6=[[Christian Democratic National Peasants' Party]]|votes6=188268|seats6=0|sc6=0
+|party7=[[Democratic Force (Romania)|Democratic Force]]|votes7=79376|seats7=0|sc7=New
+|party8=[[Ecologist Party of Romania]]|votes8=73001|seats8=0|sc8=0
+|party9=[[Party of the Roma|Social Democratic Roma Party of Romania]]|votes9=56076|seats9=1|sc9=0
+|party10=[[Romanian National Unity Party]]|votes10=53222|seats10=0
+|party11=[[People's Action (Romania)|People's Action]]|votes11=48152|seats11=0|sc11=New
+|party12=United Socialist Party|votes12=44459|seats12=0|sc12=New
+|party13=[[Democratic Forum of Germans in Romania|Democratic Forum of Germans]]|votes13=36166|seats13=1|sc13=0
+|party14=Romanian Workers' Party|votes14=35278|seats14=0|sc14=New
+|party15=Union for Romanian Reconstruction|votes15=32749|seats15=0|sc15=New
+|party16=[[Romanian Socialist Party (2003)|Socialist Alliance Party]]|votes16=28429|seats16=0|sc16=New
+|party17=[[Romanian Socialist Party (1992–2015)|Romanian Socialist Party]]|votes17=28034|seats17=0|sc17=0
+|party18=[[National Democratic Christian Party]]|votes18=27650|seats18=0|sc18=New
+|party19=New Democracy Party|votes19=20926|seats19=0|sc19=New
+|party20=Social Democratic Party "Constantin Titel Petrescu"|votes20=20318|seats20=0|sc20=0
+|party21=People's Alliance of Christian Democrats|votes21=18594|seats21=0|sc21=New
+|party22=Democratic Youth Party|votes22=16271|seats22=0|sc22=New
+|party23=[[Bulgarian Union of Banat–Romania]]|votes23=15283|seats23=1|sc23=0
+|party24=Third Millennium Party|votes24=15109|seats24=0|sc24=New
+|party25=Alliance for a United Romania|votes25=15041|seats25=0|sc25=New
+|party26=Party for the Motherland|votes26=14882|seats26=0|sc26=0
+|party27=[[Union of the Ukrainians of Romania]]|votes27=10888|seats27=1|sc27=0
+|party28=[[Community of the Lipovan Russians in Romania]]|votes28=10562|seats28=1|sc28=0
+|party29=[[Union of Croats of Romania]]|votes29=10331|seats29=1|sc29=0
+|party30=[[Union of Armenians of Romania]]|votes30=9810|seats30=1|sc30=0
+|party31=[[Association of Macedonians of Romania]]|votes31=9750|seats31=1|sc31=0
+|party32=Cultural Association of Slavonic Macedonians of Romania|votes32=9595|seats32=0|sc32=New
+|party33=[[Federation of the Jewish Communities in Romania]]|votes33=8449|seats33=1|sc33=0
+|party34=Democratic Union of Croatians of Romania|votes34=7769|seats34=0|sc34=0
+|party35=[[Democratic Turkish Union of Romania]]|votes35=7715|seats35=1|sc35=0
+|party36=Ethnic Turks Association|votes36=7396|seats36=0|sc36=New
+|party37=[[Hellenic Union of Romania]]|votes37=7161|seats37=1|sc37=0
+|party38=[[Union of Serbs of Romania]]|votes38=6643|seats38=1|sc38=0
+|party39=Turco-Muslim Union of Romania|votes39=6517|seats39=0|sc39=New
+|party40=[[Democratic Union of Turkish-Muslim Tatars of Romania|Democratic Union of Turkish-Muslim Tatars]]|votes40=6452|seats40=1|sc40=0
+|party41=Democratic Association of Slavonic Macedonians of Romania|votes41=6344|seats41=0|sc41=New
+|party42=Bulgarian Cultural Association of Romania|votes42=6240|seats42=0|sc42=0
+|party43=[[Association of Italians of Romania]]|votes43=6168|seats43=1|sc43=New
+|party44=[[Democratic Union of Slovaks and Czechs of Romania]]|votes44=5950|seats44=1|sc44=0
+|party45=[[Union of Poles of Romania]]|votes45=5473|seats45=1|sc45=0
+|party46=[[Italian Community of Romania]]|votes46=5181|seats46=0|sc46=–1
+|party47=Cultural Union of Poles of Romania|votes47=5159|seats47=0|sc47=New
+|party48=[[League of Albanians of Romania]]|votes48=5011|seats48=1|sc48=0
+|party49=[[Bratstvo Community of Bulgarians in Romania]]|votes49=4065|seats49=0|sc49=0
+|party50=[[Cultural Union of Ruthenians of Romania]]|votes50=2871|seats50=1|sc50=0
+|party51=People's Party of Romania|votes51=2336|seats51=0|sc51=New
+|party52=Force of Justice|votes52=1123|seats52=0|sc52=New
+|party53=Independents|votes53=51646|seats53=0|sc53=0
+|invalid=599641
+|total_sc=–13
+|electorate=18449344
+|source=Nohlen & Stöver, [http://www.globalelectionsdatabase.com/index.php/tables/index/romania/national-lower-house/2004 Global Elections Database]
+|image=[[File:Romania Chamber of Deputies 2004.svg]]}}
+
+==Aftermath==
+On 13 December, the PUR president [[Dan Voiculescu]] hinted that they have more in common with the DA (both have a center-right orientation) and that they might break from the PSD, but one day later said that he would remain with PSD. It has been suggested by the press that this could be result of a blackmail about his communist past. By 25 December both UDMR and PUR signed a protocol of alliance with DA (Justice and Truth), with the designated prime minister being [[Călin Popescu-Tăriceanu]]. Thus, the PSD was left in opposition while [[Justice and Truth Alliance]] (DA), the [[Democratic Alliance of Hungarians in Romania]] (UDMR), and the [[Conservative Party (Romania)|Humanist Party]] (PUR, renamed Conservative Party in 2005) formed the government.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.bec2004.ro Central Electoral Bureau] {{Webarchive|url=https://web.archive.org/web/20070927222120/http://www.bec2004.ro/ |date=2007-09-27 }} {{in lang|ro}}
+*[http://news.bbc.co.uk/1/hi/world/europe/4050361.stm Fraud worries in Romanian poll] BBC News
+
+{{Romanian elections}}
+
+[[Category:Parliamentary elections in Romania]]
+[[Category:Presidential elections in Romania]]
+[[Category:2004 elections in Romania|General]]
+[[Category:November 2004 in Romania|General election]]
+[[Category:December 2004 in Romania|General election]]

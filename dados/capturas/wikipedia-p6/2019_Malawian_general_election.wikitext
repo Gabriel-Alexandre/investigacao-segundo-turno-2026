@@ -1,0 +1,143 @@
+{{Short description|none}}
+{{Use dmy dates|date=February 2020}}
+{{Infobox election
+| country = Malawi
+| election_date = 21 May 2019
+| module = {{Infobox election
+| election_name = Presidential election
+| previous_election = 2014 Malawian general election
+| previous_year = 2014
+| next_election = 2020 Malawian presidential election
+| next_year = 2020
+| embed = yes
+| type = presidential
+| image_size = 130x130px
+| registered = 6,859,570
+| turnout = 74.44% ({{increase}} 3.69 [[Percentage point|pp]])
+
+| image1 = Arthur Peter Mutharika 2014 (cropped).jpg
+| nominee1 = '''[[Peter Mutharika]]'''
+| party1 = Democratic Progressive Party (Malawi)
+| running_mate1 = '''[[Everton Chimulirenji]]'''
+| popular_vote1 = '''1,940,709'''
+| percentage1 = '''38.57%'''
+
+| image2 = Secretary_Blinken_Meets_With_Malawian_President_Lazarus_Chakwera_(52389622307)_(cropped2).jpg
+| nominee2 = {{nowrap|[[Lazarus Chakwera]]}}
+| party2 = Malawi Congress Party
+| running_mate2 = [[Sidik Mia]]
+| popular_vote2 = 1,781,740
+| percentage2 = 35.41%
+
+| image3 = Saulos_Chilima.jpg
+| nominee3 = [[Saulos Chilima]]
+| party3 = United Transformation Movement
+| running_mate3 = [[Michael Usi]]
+| popular_vote3 = 1,018,369
+| percentage3 = 20.24%
+
+| map_image = 2019 Malawian presidential election - Results by region and district.svg
+| map_caption = Results by [[Regions of Malawi|region]] (left) and [[Districts of Malawi|district]] (right)
+
+| title = [[President of Malawi|President]]
+| before_election = [[Peter Mutharika]]
+| before_party = Democratic Progressive Party (Malawi)
+| after_election = Election results annulled <br/>{{small|[[Peter Mutharika]] remains president}}
+
+| module = {{Infobox legislative election
+| election_name = Legislative election
+| embed = yes
+| previous_election = [[2014 Malawian general election|2014]]
+| next_election = [[2025 Malawian general election|2025]]
+| seats_for_election = All 193 seats in the [[National Assembly (Malawi)|National Assembly]]
+| majority_seats = 97
+| turnout = 73.93% ({{increase}} 3.18 [[Percentage point|pp]])
+
+| party1 = Democratic Progressive Party (Malawi) | leader1 = [[Peter Mutharika]] | percentage1 = 26.04 | seats1 = 62 | last_election1 = 51
+| party2 = Malawi Congress Party | leader2 = [[Lazarus Chakwera]] | percentage2 = 22.32 | seats2 = 55 | last_election2 = 48
+| party3 = United Transformation Movement | leader3 = [[Saulos Chilima]] | percentage3 = 9.90 | seats3 = 4 | last_election3 = New
+| party4 = United Democratic Front (Malawi) | leader4 = [[Atupele Muluzi]] | percentage4 = 4.58 | seats4 = 10 | last_election4 = 14
+| party5 = People's Party (Malawi) | leader5 = [[Joyce Banda]] | percentage5 = 2.44 | seats5 = 5 | last_election5 = 26
+| party6 = Alliance for Democracy (Malawi) | leader6 = [[Enoch Chihana]] | percentage6 = 0.49 | seats6 = 1 | last_election6 = 1
+| party8 = Independents | leader8 = – | percentage8 = 33.43 | seats8 = 55 | last_election8 = 52
+
+| map = 2019 Malawian parliamentary election - Results by constituency.svg
+| map_caption = Results by constituency
+
+}}}}}}{{Politics of Malawi}}
+
+General elections were held in [[Malawi]] on 21 May 2019 to elect the [[President of Malawi|President]], [[National Assembly (Malawi)|National Assembly]] and local government councillors.<ref>[https://www.nyasatimes.com/mec-announces-malawi-tripartite-election-date-may-21-2019/ MEC announces Malawi tripartite election date: May 21 2019] Nyasa Times, 21 February 2018</ref> Incumbent President [[Peter Mutharika]] of the [[Democratic Progressive Party (Malawi)|Democratic Progressive Party]] was re-elected, with his party remaining the largest in the National Assembly. 
+
+On 3 February 2020, the [[Constitutional Court of Malawi|Constitutional Court]] annulled the presidential election results due to evidence of irregularities, and ordered [[2020 Malawian presidential election|fresh elections]] be held.<ref name=":0">{{Cite news|url=https://www.washingtonpost.com/politics/2020/02/04/malawi-court-just-ordered-do-over-presidential-election-heres-what-you-need-know/|title=A Malawi court just ordered a do-over presidential election. Here's what you need to know.|last1=Dionne|first1=Kim Yi|last2=Dulani|first2=Boniface|date=February 4, 2020|newspaper=The Washington Post|access-date=February 23, 2025}}</ref> They were widely dubbed the "'''Tipp-Ex elections'''" after [[Tipp-Ex|a brand of correction fluid]] which opponents claimed had been used to tamper with votes. According to a 2025 study, the irregularities appear consistent with [[human error]], as opposed to intentional fraud.<ref>{{Cite journal |last=Ahlbäck |first=Johan |last2=Jablonski |first2=Ryan |date=2025 |title=How to Distinguish Human Error From Election Fraud: Evidence From the 2019 Malawi Election |url=https://www.cambridge.org/core/journals/british-journal-of-political-science/article/how-to-distinguish-human-error-from-election-fraud-evidence-from-the-2019-malawi-election/1F22EF58824D77ACA3C6B6E16D5E9FB4 |journal=British Journal of Political Science |language=en |volume=55 |doi=10.1017/S0007123425100951 |issn=0007-1234|doi-access=free }}</ref>
+
+==Electoral system==
+The President of Malawi is elected using the [[first-past-the-post voting|first-past-the-post]] system; the candidate that receives the most votes is the winner of the election.<ref>[http://www.electionguide.org/elections/id/2320/ Republic of Malawi: Election for President] IFES</ref> The 193 members of the [[National Assembly (Malawi)|National Assembly]] are also elected by first-past-the-post voting in single-member constituencies.<ref>[http://archive.ipu.org/parline-e/reports/2195_B.htm Electoral system] IPU</ref>
+
+==Presidential candidates==
+A total of ten candidates registered to contest the elections.<ref>[https://web.archive.org/web/20190208225915/http://www.xinhuanet.com/english/2019-02/09/c_137807531.htm 10 to contest for presidency in Malawi May polls] Xinhua, 9 February 2019</ref> Incumbent President [[Peter Mutharika]] of the [[Democratic Progressive Party (Malawi)|Democratic Progressive Party]] (DPP) ran for a second term in office.<ref>[https://allafrica.com/stories/201805170154.html Malawi's Mutharika Insists He Will Seek Final Presidential Term in 2019] Nyasa Times, 16 May 2018</ref> Vice-President [[Saulos Chilima]] also contested the election as the United Transformation Movement (UTM) candidate, having left the DPP in 2018.<ref>[https://www2.gulf-times.com/story/619116/Malawi-Vice-President-Saulos-Chilima-turns-opposition-candidate-in-race-for-polls-in-May Malawi Vice President Saulos Chilima turns opposition candidate in race for polls in May] {{Webarchive|url=https://web.archive.org/web/20190528091513/https://www2.gulf-times.com/story/619116/Malawi-Vice-President-Saulos-Chilima-turns-opposition-candidate-in-race-for-polls-in-May |date=28 May 2019 }} Gulf Times, 14 January 2019</ref> The other candidates included [[Lazarus Chakwera]] ([[Malawi Congress Party]]) and [[Atupele Muluzi]] ([[United Democratic Front (Malawi)|United Democratic Front]]).
+
+Former president [[Joyce Banda]] ([[People's Party (Malawi)|People's Party]]) had originally planned to run for the presidency, but withdrew her candidacy two months before the election;<ref>[https://www.reuters.com/article/us-malawi-election/ex-president-banda-pulls-out-of-malawi-presidential-race-idUSKCN1QV2R3 Ex-president Banda pulls out of Malawi presidential race] Reuters, 14 March 2019</ref> she later endorsed opposition candidate Lazarus Chakwera.<ref>{{cite web|url=https://www.voanews.com/a/joyce-banda-withdraws-from-malawi-presidential-race/4831130.html|title=Joyce Banda Withdraws from Malawi Presidential Race|date=15 March 2019|website=VOA|language=en}}</ref><ref>{{cite web|url=https://ewn.co.za/2019/03/18/malawi-ex-leader-banda-seals-another-opposition-pact|title=Malawi ex-leader Banda seals another opposition pact|date=18 March 2019|website=AFP via Eyewitness News South Africa|language=en}}</ref> Ras Chikomeni Chirwa was disqualified due to lack of funds and failing to collect enough signatures.<ref>[https://www.nyasatimes.com/ras-chikomeni-pursuing-case-to-be-on-ballot-judge-refuses-injunction-ex-parte/ Ras Chikomeni pursuing case to be on ballot: Judge refuses injunction ex-parte] Nyasa Times, 9 February 2019</ref>
+
+TV debates took place in the lead-up to the elections.<ref>{{Cite journal |last=Kramon |first=Eric |date=2023 |title=Candidate Debates and Partisan Divisions Evidence From Malawi’s 2019 Presidential Elections |url=http://journals.sagepub.com/doi/10.1177/00104140231193016 |journal=Comparative Political Studies |language=en |doi=10.1177/00104140231193016 |issn=0010-4140|url-access=subscription }}</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Peter Mutharika]]|vp1=[[Everton Chimulirenji]]|party1=[[Democratic Progressive Party (Malawi)|Democratic Progressive Party]]|votes1=1940709
+|cand2=[[Lazarus Chakwera]]|vp2=[[Sidik Mia]]|party2=[[Malawi Congress Party]]|votes2=1781740
+|cand3=[[Saulos Chilima]]|vp3=[[Michael Usi]]|party3=[[United Transformation Movement]]|color3=crimson|votes3=1018369
+|cand4=[[Atupele Muluzi]]|vp4=Frank Tumpale Mwenifumbo|party4=[[United Democratic Front (Malawi)|United Democratic Front]]|votes4=235164
+|cand5=Peter Kuwani|vp5=Archibald Kalawang'oma|party5=Mbakuwaku Movement for Development|color5=green|votes5=20369
+|cand6=John Eugenes Chisi|vp6=Timothy Watch Kamulete|party6=Umodzi Party|color6=#6a5acd|votes6=19187
+|cand7=Hadwick Kaliya|vp7=Mabvuto Alfred Ng'ona|party7=Independent|votes7=15726
+|invalid=74719
+|electorate=6859570
+|source=[https://www.mec.org.mw/elections2019/#/ Malawi Electoral Commission]
+}}
+
+===National Assembly===
+{{Election results
+|image =[[File:Malawi Parliament 2019.svg]]
+|party1=[[Democratic Progressive Party (Malawi)|Democratic Progressive Party]]|votes1=1293797|seats1=62|sc1=+11
+|party2=[[Malawi Congress Party]]|votes2=1108735|seats2=55|sc2=+7
+|party3=[[United Transformation Movement]]|votes3=491845|seats3=4|sc3=New
+|party4=[[United Democratic Front (Malawi)|United Democratic Front]]|votes4=227335|seats4=10|sc4=–4
+|party5=[[People's Party (Malawi)|People's Party]]|votes5=121072|seats5=5|sc5=–21
+|party6=[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes6=24212|seats6=1|sc6=0
+|party7=Freedom Party|votes7=15777|seats7=0|sc7=New
+|party8=Democratic People's Congress|votes8=10604|seats8=0|sc8=New
+|party9=[[People's Transformation Party]]|votes9=5320|seats9=0|sc9=0
+|party10=Tikonze People's Movement|votes10=5076|seats10=0|sc10=New
+|party11=Umodzi Party|votes11=2386|seats11=0|sc11=0
+|party12=National Salvation Front|votes12=553|seats12=0|sc12=0
+|party13=Mbakuwaku Movement for Development|votes13=493|seats13=0|sc13=New
+|party14=Independents|votes14=1660569|seats14=55|sc14=+3
+|row15=Vacant|seats15=1|sc15=–
+|total_sc=0
+|invalid=103174
+|electorate=6859570
+|source=<ref>{{Cite web |title=2019 Parliamentary Election - Tallied Constituency Result of Count |url=https://www.eisa.org/pdf/mal2019results.pdf |archive-url=https://web.archive.org/web/20210623121131/https://www.eisa.org/pdf/mal2019results.pdf |archive-date=23 June 2021 |website=Malawi Electoral Commission |format=PDF}}</ref>
+}}
+
+==Aftermath==
+
+The results of the 2019 elections were highly controversial and opposition leaders led by [[Lazarus Chakwera]] and [[Saulos Chilima]] disputed the results in court. Nationwide protests were held in May, June, and July 2019 in which supporters of the opposition accused the results of being rigged by Mutharika and [[Jane Ansah]], chairperson of the Malawi Electoral Commission, calling for Ansah’s resignation. Malawian youth organised a "Jane Ansah Must Fall" campaign, which included days of protests in several cities. In response, thousands of women in Malawi held "I am Jane Ansah" solidarity protests after alleging that Ansah was the victim of gender discrimination.<ref>{{cite web|last=Masina |first=Lameck |url=https://www.voanews.com/a/africa_malawi-women-protest-defense-embattled-election-chairperson/6171582.html |title=Malawi Women Protest in Defense of Embattled Election Chairperson |publisher=Voice of America |date=21 June 2019 |access-date=5 February 2020}}</ref><ref>{{cite web|url=https://www.maravipost.com/malawis-concerned-youths-on-mec-chair-jane-ansah-must-fall-campaign/ |title=Malawi's concerned youths on MEC Chair Jane Ansah must fall campaign |publisher=Maravipost.com |date=5 May 2019 |accessdate=5 February 2020}}</ref>
+
+On 3 February 2020, the Constitutional Court judges arrived in [[Lilongwe]] to read the disputed presidential election results judgement after travelling in a military vehicle with a heavy police escort. The judges took turns to read the 500-page decision over more than seven hours.<ref>{{cite web |title=Malawi anxiously awaits verdict on alleged presidential election fraud |url=http://www.rfi.fr/en/wires/20200203-malawi-anxiously-awaits-verdict-alleged-presidential-election-fraud |website=rfi.fr |date=3 February 2020 |accessdate=3 February 2020}}</ref> The ruling nullified the results of the presidential election, concluding they had not met the standards of a free and fair election and that the Malawi Electoral Commission had failed to uphold its constitutional responsibilities. The judgement cited tampering of results, failure to address complaints raised by opposition candidates, and numerous other malpractices.<ref name=":0" /> The ruling also called into question the use of a plurality system in the presidential elections, stating the [[Constitution of Malawi|Malawi Constitution]] requires a majority of votes.<ref name=":0" />
+
+Mutharika was declared not duly elected and thus no longer President. The judges ordered fresh elections be held within 150 days.<ref>{{cite web |title=Malawi top court annuls presidential election results |url=https://www.aljazeera.com/news/2020/02/malawi-top-court-annuls-presidential-election-results-200203060112731.html |website=Al Jazeera |accessdate=3 February 2020}}</ref>
+
+Although DPP won a plurality of seats, elections in three of the seats it won were annulled due to irregularities, and thus they were reduced to 59 lawmakers in the Parliament.<ref>{{cite web| url = https://www.nyasatimes.com/tonse-mps-to-move-to-govt-benches-in-parliament-dpp-to-provide-opposition-leader-mcp-ruling-party/| title = Tonse MPs to move to govt benches in Parliament: DPP to provide opposition leader, MCP ruling party - Malawi Nyasa Times - News from Malawi about Malawi| date = 28 June 2020}}</ref>
+
+==References==
+{{reflist}}
+
+{{Malawian elections}}
+
+[[Category:2019 elections in Africa|Malawi]]
+[[Category:2019 in Malawi|General]]
+[[Category:Parliamentary elections in Malawi]]
+[[Category:May 2019 in Malawi|General]]
+[[Category:Presidential elections in Malawi]]
+[[Category:Annulled elections]]
+[[Category:May 2019 elections]]

@@ -1,0 +1,88 @@
+{{Short description|none}}
+{{Infobox election
+| country = Dominican Republic
+| election_date = {{Start date|1994|05|16|df=y}}
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| previous_election = 1990 Dominican Republic general election
+| previous_year = 1990
+| next_election = 1996 Dominican Republic presidential election
+| next_year = 1996
+| image_size = 130x130px
+| turnout = 87.91% ({{increase}} 27.37[[Percentage point|pp]])
+
+| image1 = Joaquin Balaguer.jpg
+| nominee1 = '''[[Joaquín Balaguer]]'''
+| party1 = Social Christian Reformist Party
+| popular_vote1 = '''1,275,460'''
+| percentage1 = '''42.29%'''
+
+| image2 = Pena Gomez photo.jpg
+| nominee2 = [[José Francisco Peña Gómez]]
+| party2 = Dominican Revolutionary Party
+| popular_vote2 = 1,253,179
+| percentage2 = 41.55%
+
+| image3 = {{CSS image crop|Image=Victor Manuel Grimaldi Céspedes con Juan Bosch, foto dedicada con la firma del escritor y político dominicano.JPG|bSize=220|cWidth=95|cHeight=130|oLeft=0|oTop=0}}
+| nominee3 = [[Juan Bosch (politician)|Juan Bosch]]
+| party3 = Dominican Liberation Party
+| popular_vote3 = 395,653
+| percentage3 = 13.12%
+
+| map_image = Elecciones presidenciales de la República Dominicana de 1994 - Resultados por provincia.svg
+| map_caption = Presidential election results by province
+
+| title = President
+| before_election = [[Joaquín Balaguer]]
+| before_party = Social Christian Reformist Party
+| after_election = [[Joaquín Balaguer]]
+| after_party = Social Christian Reformist Party
+}}}}{{Politics of the Dominican Republic}}
+
+General elections were held in the [[Dominican Republic]] on 16 May 1994.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p247 {{ISBN|978-0-19-928357-6}}</ref> [[Joaquín Balaguer]] of the [[Social Christian Reformist Party]] won the presidential election, whilst the [[Dominican Revolutionary Party]]-led alliance won the Congressional elections. Voter turnout was 87.6%.<ref>Nohlen, p248</ref>
+
+Despite reforms after the [[1990 Dominican Republic general election|1990 elections]], including a new electoral roll, these elections were also branded fraudulent.<ref name=DN>Nohlen, p242</ref> Following the election an agreement known as the [[Pact for Democracy]] (''Pacto por la Democracia'') was reached, which shortened the presidential term to two years, allowing [[1996 Dominican Republic presidential election|new elections]] to be held in 1996 in which Balaguer would not run (for the first time since 1966).<ref name=DN/>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Joaquín Balaguer]]|party1=[[Social Christian Reformist Party]]|votes1=1275460
+|cand2=[[José Francisco Peña Gómez]]|party2=[[Dominican Revolutionary Party]]|votes2=1253179
+|cand3=[[Juan Bosch (politician)|Juan Bosch]]|party3=[[Dominican Liberation Party]]|votes3=395653
+|cand4=[[Jacobo Majluta]]|party4=[[Independent Revolutionary Party]]|votes4=68910
+|cand5=Antonio Reynoso|party5=[[Broad Front (Dominican Republic)|Movement for Independence, Unity and Change]]|votes5=22548
+|invalid=147646
+|electorate=3598328
+|source=Nohlen
+}}
+
+===Congress===
+{{Election results
+|image=[[File:Cámara de Diputados de la República Dominicana (1994).svg|220px]][[File:Senado de la República Dominicana (1994).svg|220px]]
+|seattype1=House|seattype2=+/–|seattype3=Senate|seattype4=+/–
+|party1=[[Dominican Revolutionary Party|PRD]]–[[Democratic Unity (Dominican Republic)|UD]]–[[Independent Revolutionary Party|PRI]]–[[Social Democratic Institutional Bloc|BIS]]–[[Quisqueyano Christian Democratic Party|PQD]]–[[Social Democratic Alliance (Dominican Republic)|ASD]]–[[National Citizen Will Party|PNVC]]|votes1=1244441|st1t1=57|st2t1=–|st3t1=15|st4t1=–|st5t1=
+|party2=[[Social Christian Reformist Party|PRSC]]–[[People's Democratic Party (Dominican Republic)|PDP]]|votes2=1160405|st1t2=50|st2t2=-|st3t2=14|st4t2=-|st5t2=
+|party3=[[Dominican Liberation Party]]|votes3=467617|st1t3=13|st2t3=–|st3t3=1|st4t3=–|st5t3=
+|party4=Institutional Democratic Party|votes4=95819|vspan4=4|st1t4=0|st2t4=–|st3t4=0|st4t4=–|st5t4=
+|party5=[[Movement of National Reconciliation]]|votes5=|st1t5=0|st2t5=New|st3t5=0|st4t5=New|st5t5=
+|party6=Party of the Dominican People|votes6=|st1t6=0|st2t6=0|st3t6=0|st4t6=0|st5t6=
+|party7=[[National Renaissance Party (Dominican Republic)|National Renaissance Party]]|votes7=|st1t7=0|st2t7=New|st3t7=0|st4t7=New|st5t7=
+|invalid=182556
+|total_st2t=0|total_st4t=0
+|electorate=3598328
+|source=Nohlen
+}}
+
+==References==
+{{reflist}}
+
+{{Dominican Republic elections}}
+
+[[Category:1994 elections in the Caribbean|Dominican Republic]]
+[[Category:1994 in the Dominican Republic]]
+[[Category:Elections in the Dominican Republic]]
+[[Category:Presidential elections in the Dominican Republic]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:May 1994 in North America]]

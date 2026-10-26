@@ -1,0 +1,136 @@
+{{Short description|none}}
+{{Infobox election
+| country = Guinea-Bissau
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_name = Presidential election
+| election_date = 3 July 1994 (first round)<br>{{nowrap|7 August 1994 (second round)}}
+| next_election = 1999–2000 Guinea-Bissau general election
+| next_year = {{nowrap|1999–2000}}
+| registered = 400,417
+| turnout = 89.33% (first round)<br/>81.57% (second round)
+
+| image1 = João Bernardo Vieira.jpg
+| nominee1 = '''[[João Bernardo Vieira]]'''
+| party1 = African Party for the Independence of Guinea and Cape Verde
+| popular_vote1 = '''161,083'''
+| percentage1 = '''52.02%'''
+
+| image2 = Koumbayala.jpg
+| nominee2 = [[Kumba Ialá]]
+| party2 = Party for Social Renewal
+| popular_vote2 = 148,664
+| percentage2 = 47.98%
+
+| map = {{Switcher
+| [[File:1994 Guinea-Bissau presidential election -.Results by region (First round).svg|300px]]
+| First round results by [[Regions of Guinea-Bissau|region]]
+| [[File:1994 Guinea-Bissau presidential election -.Results by region (Second round).svg|300px]]
+| Second round results by region|default=2}}
+
+| title = [[List of presidents of Guinea-Bissau|President]]
+| before_election = [[João Bernardo Vieira]]
+| before_party = African Party for the Independence of Guinea and Cape Verde
+| after_election = [[João Bernardo Vieira]]
+| after_party = African Party for the Independence of Guinea and Cape Verde
+| module = {{Infobox legislative election
+| election_name = Parliamentary election
+| previous_election = [[1989 Guinea-Bissau legislative election|1989]]
+| next_election = [[1999-2000 Guinea-Bissau general election|1999]]
+| embed = yes
+| election_date = 3 July 1994
+| seats_for_election = All 100 seats in the [[National People's Assembly (Guinea-Bissau)|National People's Assembly]]
+| majority_seats = 51
+| turnout = 88.91%
+
+| party1 = African Party for the Independence of Guinea and Cape Verde
+| leader1 = [[Malam Bacai Sanhá]]
+| percentage1 = 46.39
+| last_election1 = 150
+| seats1 = 62
+
+| party4 = Party for Social Renewal
+| leader4 = [[Kumba Ialá]]
+| percentage4 = 10.30
+| last_election4 = new
+| seats4 = 12
+
+| party2 = [[Resistance of Guinea-Bissau-Bafatá Movement|RGB-BM]]
+| leader2 = Domingos Fernandes
+| percentage2 = 19.78
+| last_election2 = new
+| seats2 = 19
+
+| party3 = [[Union for Change|UM]]
+| leader3 = Bubacar Rachid Djaló
+| percentage3 = 12.65
+| last_election3 = new
+| seats3 = 6
+
+| party5 = Struggle Front for the National Independence of Guinea
+| leader5 = François Mendy
+| percentage5 = 2.57
+| last_election5 = new
+| seats5 = 1
+
+| map = 1994 Guinea-Bissau legislative election - Results by constituency.svg
+| map_caption = Results by constituency.
+
+| title = [[List of prime ministers of Guinea-Bissau|Prime Minister]]
+| before_election = [[Carlos Correia]]
+| before_party = African Party for the Independence of Guinea and Cape Verde
+| after_election = [[Manuel Saturnino da Costa]]
+| after_party = African Party for the Independence of Guinea and Cape Verde
+}}}}}}{{Politics of Guinea-Bissau}}
+
+General elections were held in [[Guinea-Bissau]] on 3 July 1994, with a second round for the presidential election on 7 August. They were the first multi-party elections since independence, and also the first time the president had been directly elected, as previously the post had been elected by the [[National People's Assembly of Guinea-Bissau|National People's Assembly]]. In the presidential election, the result was a victory for incumbent [[João Bernardo Vieira]] of the [[African Party for the Independence of Guinea and Cape Verde]] (PAIGC), who defeated [[Kumba Ialá]] of [[Social Renewal Party (Guinea-Bissau)|Social Renewal Party]] in the second round. In the Assembly election, 1,136 candidates ran for the 100 seats, of which the PAIGC won 62.<ref>[http://www.ipu.org/parline-e/reports/arc/2133_94.htm Guinea-Bissau: Parliamentary Chamber: Assembleia nacional popular: Elections held in 1994] Inter-Parliamentary Union</ref>
+
+Voter turnout in the presidential election was 89.3% on 3 July and 81.6% on 7 August.<ref>[http://africanelections.tripod.com/gw.html Elections in Guinea-Bissau] {{Webarchive|url=https://web.archive.org/web/20110709032045/http://africanelections.tripod.com/gw.html |date=2011-07-09 }} African Elections Database</ref> In the parliamentary election it was 88.9%.<ref>[[Dieter Nohlen]], Michael Krennerich & Bernhard Thibaut (1999) ''Elections in Africa: A data handbook'', p467 {{ISBN|0-19-829645-2}}</ref>
+
+==Results==
+===President===
+Independent candidate [[Carlos Gomes Júnior|Carlos Gomes]] was supported by the [[Democratic Convergence Party (Guinea-Bissau)|Democratic Convergence Party]], as its leader [[Victor Mandinga]] was not eligible to run for president, as he failed to meet the qualification that both parents be Guineans born in the country.
+
+{{Election results
+|cand1=[[João Bernardo Vieira]]|party1=[[African Party for the Independence of Guinea and Cape Verde]]|votes1=142577|votes1_2=161083
+|cand2=[[Kumba Ialá]]|party2=[[Party for Social Renewal]]|votes2=67518|votes2_2=148664
+|cand3=Domingos Fernandes|party3=[[Resistance of Guinea-Bissau-Bafatá Movement]]|votes3=53825
+|cand4=[[Carlos Gomes Júnior|Carlos Gomes]]|party4=Independent|votes4=15645
+|cand5=François Mendy|party5=[[Struggle Front for the National Independence of Guinea]]|votes5=8655
+|cand6=Bubacar Rachid Djaló|party6=[[Union for Change]]|votes6=8506
+|cand7=[[Victor Saúde Maria]]|party7=[[United Social Democratic Party (Guinea-Bissau)|United Social Democratic Party]]|votes7=6388
+|cand8=[[Antonieta Rosa Gomes]]|party8=[[Guinean Civic Forum–Social Democracy]]|votes8=5509
+|invalid=49059|invalid2=16868
+|electorate=400417|electorate2=400417
+|source=[http://www.cne.gw/images/docs/EG_1994_1_resultados.pdf CNE]
+}}
+
+===National People's Assembly===
+{{Election results
+|image=[[File:Guinea-Bissau National People's Assembly 1994.svg]]
+|party1=[[African Party for the Independence of Guinea and Cape Verde]]|votes1=134982|seats1=62|sc1=
+|party2=[[Resistance of Guinea-Bissau-Bafatá Movement]]|votes2=57566|seats2=19|sc2=
+|party3=[[Union for Change]]|votes3=36797|seats3=6|sc3=
+|party4=[[Party for Social Renewal]]|votes4=29957|seats4=12|sc4=
+|party5=[[Democratic Convergence Party (Guinea-Bissau)|Democratic Convergence Party]]|votes5=15411|seats5=0|sc5=
+|party6=[[United Social Democratic Party (Guinea-Bissau)|United Social Democratic Party]]|votes6=8286|seats6=0|sc6=
+|party7=[[Struggle Front for the National Independence of Guinea]]|votes7=7475|seats7=1|sc7=
+|party8=[[Guinean Civic Forum–Social Democracy|Guinean Civic Forum]]|votes8=494|seats8=0|sc8=
+|invalid=65024
+|total_sc=0
+|electorate=400417
+|source=[http://www.cne.gw/images/docs/EG_1994_1_resultados.pdf CNE]
+}}
+
+==References==
+{{reflist}}
+
+{{Guinea-Bissau elections}}
+
+[[Category:1994 elections in Africa|Guinea-Bissau]]
+[[Category:1994 in Guinea-Bissau|General]]
+[[Category:Parliamentary elections in Guinea-Bissau]]
+[[Category:Presidential elections in Guinea-Bissau]]
+[[Category:July 1994 in Africa|Guinea-Bissau]]
+[[Category:August 1994 in Africa|Guinea-Bissau]]

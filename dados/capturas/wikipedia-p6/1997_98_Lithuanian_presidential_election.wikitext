@@ -1,0 +1,117 @@
+{{Short description|none}}
+{{Use dmy dates|date=March 2019}}
+{{Infobox election
+| country = Lithuania
+| flag_year = 1988
+| type = presidential
+| previous_election = 1993 Lithuanian presidential election
+| previous_year = 1993
+| next_election = 2002–03 Lithuanian presidential election
+| next_year = {{nowrap|2002–03}}
+| election_date = 21 December 1997 (first round)<br>4 January 1998 (second round)
+| image1 = Julius Numavicius with Valdas Adamkus (cropped) 2004.jpg
+| nominee1 = '''[[Valdas Adamkus]]'''
+| party1 = Independent politician
+| popular_vote1 = '''968,031'''
+| percentage1 = '''50.37%'''
+| image2 = Shukis Algirdas rewarding (cropped).jpg
+| nominee2 = [[Artūras Paulauskas]]
+| party2 = Independent politician
+| popular_vote2 = 953,775
+| percentage2 = 49.63%
+| map_image = Results of Lithuanian presidential election, 1997-1998 (second round).png
+| map_caption = Second round results by municipality<br>{{legend0|red}} Paulauskas {{legend0|blue}} Adamkus
+| title = President
+| before_election = [[Algirdas Brazauskas]]
+| before_party = Democratic Labour Party of Lithuania
+| after_election = [[Valdas Adamkus]]
+| after_party = Independent politician
+}}{{Politics of Lithuania}}
+
+Presidential elections were held in [[Lithuania]] in December 1997 and January 1998.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1201 {{ISBN|978-3-8329-5609-7}}</ref> [[Artūras Paulauskas]] finished first in the first round on 21 December 1997 with a significant margin, with [[Valdas Adamkus]] finishing second, but neither received a majority of the vote. Adamkus defeated Paulauskas in the runoff, held on 4 January 1998. With a vote difference of 0.74%, it is the closest result in the history of presidential elections in Lithuania since 1993.
+
+==Background==
+===Presidential powers===
+{{main article|President of Lithuania}}
+The Lithuanian president has somewhat more executive authority than their counterparts in neighboring [[president of Estonia|Estonia]] and [[president of Latvia|Latvia]]; the Lithuanian president's function is similar to that of the presidents of [[President of France|France]] and [[President of Romania|Romania]]. Similarly to them, but unlike presidents in a fully presidential system such as [[President of the United States|the United States]], the Lithuanian president generally has the most authority in foreign affairs. In addition to the customary diplomatic powers of Heads of State, namely receiving the [[letters of credence]] of foreign ambassadors and signing [[treaties]], the president determines Lithuania's basic foreign policy guidelines. The president is also the [[commander-in-chief]] of the [[Lithuanian Armed Forces]], and accordingly heads the State Defense Council and has the right to appoint the [[Chief of Defence (Lithuania)|Chief of Defence]] (subject to Seimas consent).<ref name="Powers">[https://www.lrp.lt/en/institution/presidential-functions/35145 Presidential Functions | President of the Republic of Lithuania]</ref>
+
+The president also has a significant role in domestic policy, possessing the right to submit bills to the [[Seimas]] and to [[veto]] laws passed by it, appointing the [[Prime Minister of Lithuania|prime minister]] and approving the government formed by them, and also having the right to [[Dissolution of Parliament|dissolve]] the Seimas and call [[snap elections]] following a successful [[motion of no confidence]] or if the Seimas refuses to approve the government's budget within sixty days. However, the next elected Seimas may retaliate by calling for an earlier presidential election.<ref name="Constitution">[https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.21892?jfwid=-wd7z8ivg5 Constitution of the Republic of Lithuania – Seimas site]</ref> In addition, according to a resolution by the [[Constitutional Court of Lithuania]] in 1998, the president is required by law to nominate the candidate of the parliamentary majority to the office of prime minister.<ref name="galios">{{cite web |last1=Jastramskis |first1=Mažvydas |title=Ką gali Lietuvos prezidentas? |url=https://www.prezidentogalios.lt/ka-gali-lietuvos-prezidentas |website=Prezidentogalios.lt |language=lt |date=3 April 2024}}</ref>
+
+The president also holds informal power, as the office of president is generally more trusted by the populace according to approval polling, and Lithuanian presidents historically blocked legislation and forced the resignation of prime ministers (such as [[Gediminas Vagnorius]] in 1998).<ref name="galios" />
+
+===Previous election===
+The previous election was held in [[1993 Lithuanian presidential election|1993]]. The winner of the election was acting president [[Algirdas Brazauskas]], the former first secretary of the [[Communist Party of Lithuania]] and leader of the [[Democratic Labour Party of Lithuania]] (LDDP). He defeated [[Stasys Lozoraitis Jr.]], an independent candidate endorsed by the anti-communist [[Sąjūdis]] and other political parties.<ref name=vardys>{{cite book |first=Vytas Stanley |last=Vardys |author2=Judith B. Sedaitis |title=Lithuania: The Rebel Nation |publisher=WestviewPress |year=1997 |series=Westview Series on the Post-Soviet Republics |isbn=0-8133-1839-4 |pages=[https://archive.org/details/lithuaniarebelna00vard/page/199 199–201] |url-access=registration |url=https://archive.org/details/lithuaniarebelna00vard/page/199 }}</ref>
+
+==Electoral system==
+The president was elected using the [[two-round system]]. To win in the first round, a candidate requires an absolute majority of all votes cast (including invalid votes) and either voter turnout to be above 50% or for their vote share to be equivalent to at least one-third of the number of registered voters. If no candidate wins in the first round, a second round is required, featuring the top two candidates. While some candidates belong to and/or are supported by a [[political party]], the office of the president is formally non-partisan.<ref>{{cite web|url=http://www.electionguide.org/elections/id/3146/|title=Lithuania: Election for President|website=IFES Election Guide}}</ref>
+
+Citizens of Lithuania at least 40 years of age whose at least one parent was also a citizen ([[natural-born-citizen clause]]), who have lived in Lithuania for at least three years prior, are not serving a [[Imprisonment|prison sentence]], are not on [[active duty]] in the [[Lithuanian Armed Forces]], are not bound to any other country by an [[oath]] and have never been [[impeachment|impeached]], are allowed to run for president. Each candidate must collect at least 20 thousand signatures by Lithuanian citizens to be able to run for election.<ref>{{cite web |title=Lietuvos Respublikos Prezidentas |url=https://www.vle.lt/straipsnis/lietuvos-respublikos-prezidentas/ |website=[[Visuotinė lietuvių enciklopedija]] |language=Lithuanian}}</ref><ref>{{cite news | last=Andrukaitytė | first=Milena | title=VRK patvirtino, kad Šimonytė surinko parašus prezidento rinkimams | work=LRT | date=7 March 2024 | url=https://www.lrt.lt/naujienos/lietuvoje/2/2216459/vrk-patvirtino-kad-simonyte-surinko-parasus-prezidento-rinkimams | language=lt | access-date=27 March 2024}}</ref>
+
+==Candidates==
+Seven candidates were registered in the election.<ref>{{cite web |title=1-ojo rinkimų turo oficialūs balsavimo rezultatai |url=https://www.vrk.lt/statiniai/puslapiai/n/rinkimai/pr97/rez/rezl_6_1.htm |website=Central Electoral Commission of Lithuania |language=lt |date=1997}}</ref> Three more individuals - [[Algirdas Pilvelis]], chairman of the [[Lithuanian Reform Party]], [[Jurij Subotin]] and [[Liucija Baškauskaitė]] - attempted to register for the election.<ref>{{cite web |last1=Vaitelė |first1=Tomas |title=Kalėdų žiburėliu tapę rinkimai: Adamkus prieš Paulauską ir uždainavęs Landsbergis |url=https://www.lrt.lt/naujienos/lietuvoje/2/2259349/kaledu-zibureliu-tape-rinkimai-adamkus-pries-paulauska-ir-uzdainaves-landsbergis |website=LRT |language=lt |date=24 April 2024}}</ref> Three of the candidates belonged to political parties and four of the candidates were independents.
+
+===Valdas Adamkus===
+Adamkus was a [[civil engineer]] and [[Lithuanian diaspora]] political activist who lived in the [[United States]] as a [[displaced person]] from 1949 to 1997. He joined the [[United States Environmental Protection Agency]] at its inception in 1970 and served as regional administrator of the Great Lakes region from 1981 to 1997. He frequently visited Lithuania both before and after Soviet occupation as an expert on pollution and waste control.<ref name="adamkus">{{cite web |last1=Vaitelė |first1=Tomas |title=Archyviniuose kadruose – Valdo Adamkaus politinis kelias: nuo aplinkosaugos specialisto iki įnirtinguose rinkimuose išrinkto Lietuvos prezidento |url=https://www.lrt.lt/naujienos/lietuvoje/2/2114330/archyviniuose-kadruose-valdo-adamkaus-politinis-kelias-nuo-aplinkosaugos-specialisto-iki-inirtinguose-rinkimuose-isrinkto-lietuvos-prezidento |website=LRT |language=lt |date=3 November 2023}}</ref> As a close friend of fellow émigré [[Stasys Lozoraitis Jr.]], Adamkus was invited to be the chief of staff of his electoral campaign during the 1993 presidential election.<ref>{{cite web |last1=Bakaitė |first1=Jurga |title="Stasy, mes rinkimų nelaimėsim": kodėl pirmuoju prezidentu Lietuva išrinko komunistą Brazauską? |url=https://www.lrt.lt/naujienos/lietuvoje/2/1388862/stasy-mes-rinkimu-nelaimesim-kodel-pirmuoju-prezidentu-lietuva-isrinko-komunista-brazauska |website=LRT |language=lt |date=18 April 2021}}</ref>
+
+After the election, Adamkus was proposed as a potential candidate in the next presidential election, but he refused to confirm said rumors until March 1997.<ref name="adamkus" /> Adamkus was supported by the [[Lithuanian Centre Union]], whom he also supported in the [[1996 Lithuanian parliamentary election]].
+
+===Artūras Paulauskas===
+Paulauskas was the former Prosecutor General of Lithuania and an independent candidate. Though he was a former member of the Communist Party, he was considered a "new generation" politician. Paulauskas's popularity rose during his time as Prosecutor General, during which he upheld the court ruling for a death sentence for crime boss [[Boris Dekanidze]] and was involved in other high profile cases.<ref name="kampanija">{{cite web |last1=Pūkenė |first1=Rūta |title=Prezidento rinkimai. Tai buvo kova be taisyklių: sumuštas štabo vadovas, pasikėsinimas ir sąvartyne rasti balsai |url=https://www.delfi.lt/multimedija/pamokos/prezidento-rinkimai-tai-buvo-kova-be-taisykliu-sumustas-stabo-vadovas-pasikesinimas-ir-savartyne-rasti-balsai-81118697 |website=Delfi |language=lt |date=18 May 2019}}</ref>
+
+Paulauskas was supported by the [[Liberal Union of Lithuania]] and [[Democratic Labour Party of Lithuania]].
+
+===Vytautas Landsbergis===
+Landsbergis was the incumbent [[Speaker of the Seimas]] and chairman of the [[Homeland Union]], which won the [[1996 Lithuanian parliamentary election]] and formed the government. Paulauskas considered him to be his likely opponent in the second round,<ref>{{cite book |last1=Jastramskis |first1=Mažvydas |title=Mums reikia vado? Prezidento institucija nuo Landsbergio iki Nausėdos |date=2021 |publisher=Baltos lankos |page=129}}</ref> but his personal unpopularity meant that he trailed behind both of the leading candidates by a significant margin.
+
+Landsbergis had the largest campaign fund of all candidates, at 2.4 million [[litas]] (over 700 thousand [[EUR]]).<ref name="kampanija" />
+
+===Other candidates===
+The [[Social Democratic Party of Lithuania]] nominated [[Vytenis Andriukaitis]] as their presidential candidate, while the [[Lithuanian Christian Democratic Party]] nominated [[Kazys Bobelis]]. The election was also contested by {{ill|Rimantas Smetona|lt}}, the former chairman of the [[Lithuanian Nationalist and Republican Union|Lithuanian Nationalist Union]] and grand-nephew of the interwar dictator of Lithuania [[Antanas Smetona]], and [[Rolandas Pavilionis]], rector of [[Vilnius University]]. Smetona was the only candidate who relied on [[eurosceptic]] rhetoric, while Pavilionis focused on the rights of women and minorities.<ref>{{cite web |last1=Vaitelė |first1=Tomas |title=Kalėdų žiburėliu tapę rinkimai: Adamkus prieš Paulauską ir uždainavęs Landsbergis |url=https://www.lrt.lt/naujienos/lietuvoje/2/2259349/kaledu-zibureliu-tape-rinkimai-adamkus-pries-paulauska-ir-uzdainaves-landsbergis |website=LRT |language=lt |date=27 April 2024 }}</ref>
+
+==Campaign==
+The main contenders were Adamkus, Paulauskas and Landsbergis. According to a ''Baltijos tyrimai'' poll in July 1997, 32.7% of the voters intended to vote for Adamkus, 17.6% planned to vote for Paulauskas, and 7.9% planned to vote for Landsbergis. 23.6% of the respondents supported incumbent president Algirdas Brazauskas, who announced that he would not seek reelection and endorsed Paulauskas.<ref>{{cite web |last1=Antanavičius |first1=Ugnius |title=Žvilgsnis į praeitį: kiek tiksliai sociologų apklausos prognozuodavo prezidento rinkimų rezultatus? |url=https://www.15min.lt/naujiena/aktualu/lietuva/zvilgsnis-i-praeiti-kiek-tiksliai-sociologu-apklausos-anksciau-prognozuodavo-prezidento-rinkimu-rezultatus-56-1076522 |website=15min.lt |language=lt |date=23 December 2018}}</ref>
+
+Adamkus, who had lived in the US from 1949 to 1997, faced a legal battle in the Lithuanian courts. Doubts arose whether he was eligible to run for the presidency due to having spent over half a century abroad, raising the possibility that he might not meet minimum residency requirements. However, the court resolved the case in Adamkus' favor and no other obstacles remained other than his American citizenship, which he [[relinquishment of United States nationality|officially renounced]] at the American embassy in [[Vilnius]].<ref>{{cite news|url=http://www.highbeam.com/doc/1P2-633714.html|archive-url=https://web.archive.org/web/20161018225328/https://www.highbeam.com/doc/1P2-633714.html|url-status=usurped|archive-date=18 October 2016|title=Lithuanian Return U.S. Passport|newspaper=The Washington Post|via=[[HighBeam Research]]|url-access=subscription|date=26 February 1988}}</ref>
+
+Paulauskas' election slogan was "We Deserve to Live Better" (Lithuanian: ''"Nusipelnėme gyventi geriau"''). He presented himself as a [[Law and order (politics)|law and order]] candidate and emphasized his fight against [[organized crime]]. In media, he was compared to [[Ronald Reagan]].<ref>{{cite web |last1=Vaitelė |first1=Tomas |title=Kalėdų žiburėliu tapę rinkimai: Adamkus prieš Paulauską ir uždainavęs Landsbergis |url=https://www.lrt.lt/naujienos/lietuvoje/2/2259349/kaledu-zibureliu-tape-rinkimai-adamkus-pries-paulauska-ir-uzdainaves-landsbergis |website=LRT |language=lt |date=27 April 2024 |quote=Tuo metu kitas rinkimų favoritas Artūras Paulauskas į rinkimus ėjo su šūkiu „Nusipelnėme gyventi geriau“. Buvęs prokuroras savo rinkimų agitacijoje akcentavo ir sėkmingą kovą su mafija bei prisistatė kaip naujos politinės linijos atstovas, o spaudoje buvo linksniuojamas jo panašumas į JAV prezidentą Ronaldą Reaganą.}}</ref> Adamkus focused on his experience as a civil servant in the United States, and emphasized liberal values.<ref>{{cite web |last1=Vaitelė |first1=Tomas |title=Kalėdų žiburėliu tapę rinkimai: Adamkus prieš Paulauską ir uždainavęs Landsbergis |url=https://www.lrt.lt/naujienos/lietuvoje/2/2259349/kaledu-zibureliu-tape-rinkimai-adamkus-pries-paulauska-ir-uzdainaves-landsbergis |website=LRT |language=lt |date=27 April 2024 |quote=Tačiau apklausos rodė kito JAV lietuvio dominavimą. Valdas Adamkus politikos apžvalgininkų buvo vertinamas kaip rimtas antrojo turo kandidatas. Tiesa, laisvą žmogų, atvirą visuomenę ir stiprią valstybę akcentavęs V. Adamkus savo kampanijoje rėmėsi darbais aplinkosaugos srityje.}}</ref> Paulauskas was generally supported by rural voters, who were negatively affected by the post-communist transition, while Adamkus was supported more by voters in large cities.<ref>{{cite book |last1=Jastramskis |first1=Mažvydas |title=Mums reikia vado? Prezidento institucija nuo Landsbergio iki Nausėdos |date=2021 |publisher=Baltos lankos |page=132}}</ref>
+
+Paulauskas was seen as a favorite in the run-off, but his campaign chose to turn the campaign more aggressive, such as organizing demonstrations calling for ''"Jankiai ([[Yankee|Yankees]]) go home!"''.<ref>{{cite web |last1=Vaitelė |first1=Tomas |title=Kalėdų žiburėliu tapę rinkimai: Adamkus prieš Paulauską ir uždainavęs Landsbergis |url=https://www.lrt.lt/naujienos/lietuvoje/2/2259349/kaledu-zibureliu-tape-rinkimai-adamkus-pries-paulauska-ir-uzdainaves-landsbergis |website=LRT |language=lt |date=27 April 2024 |quote=„Tarp pirmojo ir antrojo turų A. Paulausko rinkimų štabas padarė klaidų. Jie padarė mitingą, kuriuo labai sėkmingai pasinaudojo V. Adamkaus štabas. „Jankiai go home“ ir kitokie šūkiai skambėjo, o V. Adamkus ramiai ir nuosaikiai kreipėsi į rinkėjus: kodėl dabar mane lietuviai varo lauk iš Lietuvos?“ – prisimena Z. Vaigauskas.}}</ref> The election was noted for irregularities and violent incidents - Adamkus's chief of staff Raimundas Mieželis was beaten by hooligans prior to the first round, Paulauskas claimed that he was followed by secret service who answered to Landsbergis, and the narrow result in the second round raised allegations of [[electoral fraud]].<ref name="kampanija" />
+
+==Results==
+In the first round Artūras Paulauskas won in all municipalities except [[Kaunas]] and [[Klaipėda District Municipality|Klaipėda]], which were won by Adamkus. Vytautas Landsbergis finished first among voters in foreign embassies and representations, with 41.9 per cent of the votes cast. 
+
+After the first round Vytautas Landsbergis endorsed Valdas Adamkus.
+
+In the second round votes for Artūras Paulauskas and Valdas Adamkus were cast almost equally. Valdas Adamkus won in all districts' municipalities in the [[Klaipėda County]] and along [[Nemunas River]] up until [[Alytus]]. Adamkus also received the most votes in [[Šiauliai]], [[Panevėžys]], [[Panevėžys District Municipality|Panevėžys]], [[Jonava District Municipality|Jonava]] and [[Utena District Municipality|Utena]] districts' municipalities. Artūras Paulauskas won in the remaining districts' municipalities, including [[Alytus]] and [[Vilnius]].
+
+{{Election results
+|cand1=[[Artūras Paulauskas]]|party1=Independent|votes1=838819|votes1_2=953775
+|cand2=[[Valdas Adamkus]]|party2=Independent|votes2=516798|votes2_2=968031
+|cand3=[[Vytautas Landsbergis]]|party3=[[Homeland Union|Homeland Union – Lithuanian Conservatives]]|votes3=294881
+|cand4=[[Vytenis Andriukaitis]]|party4=[[Social Democratic Party of Lithuania|Social Democratic Party]]|votes4=105916
+|cand5=[[Kazys Bobelis]]|party5=[[Lithuanian Christian Democratic Party]]|votes5=73287
+|cand6=[[Rolandas Pavilionis]]|party6=Independent|votes6=16070
+|cand7={{ill|Rimantas Smetona|lt}}|party7=Independent|votes7=6697
+|invalid=22680|invalid2=15980
+|votes9_2=1937786
+|electorate=2624312|electorate2=2630681
+|source=Nohlen & Stöver
+}}
+
+==Aftermath==
+After the election, in April 1998, Artūras Paulauskas and his campaign team formed a political party, the [[New Union (Social Liberals)]]. This party received the second largest share of the vote in the [[2000 Lithuanian parliamentary election|2000 parliamentary election]], after the social democratic coalition led by Algirdas Brazauskas and the [[Democratic Labour Party of Lithuania]].
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://www.vrk.lt/1997-m.-respublikos-prezidento-rinkimai 1997–98 Lithuanian presidential elections] VRK {{in lang|lt}}
+
+{{Lithuanian elections}}
+
+{{DEFAULTSORT:1997-98 Lithuanian presidential election}}
+[[Category:1997 elections in Europe|Lithuania]]
+[[Category:1997 in Lithuania|Presidential election]]
+[[Category:1998 elections in Europe|Lithuania]]
+[[Category:1998 in Lithuania|President]]
+[[Category:Presidential elections in Lithuania]]

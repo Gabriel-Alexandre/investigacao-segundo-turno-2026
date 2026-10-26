@@ -1,0 +1,798 @@
+{{Short description|none}}
+{{Use dmy dates|date=September 2025}}
+{{Infobox election
+| country = Malawi
+| election_name = 2025 Malawian general election
+| election_date = 16 September 2025
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| previous_election= 2020 Malawian presidential election
+| previous_year = 2020
+| next_election = 2030 Malawian general election
+| next_year = 2030
+| registered = 7,203,390
+| turnout = 76.39% ({{increase}} 11.58 [[Percentage point|pp]])
+| image1 = Malawian President Peter Mutharika in 2020.jpg
+| candidate1 = '''[[Peter Mutharika]]'''
+| party1 = Democratic Progressive Party (Malawi)
+| popular_vote1 = '''3,035,249'''
+| running_mate1 = '''[[Jane Ansah]]'''
+| percentage1 = '''56.76%'''
+| image2 = Lazarus Chakwera 2021.jpg
+| candidate2 = [[Lazarus Chakwera]]
+| party2 = Malawi Congress Party
+| popular_vote2 = 1,765,170
+| running_mate2 = [[Vitumbiko Mumba]]
+| percentage2 = 33.01%
+| title = President
+| before_election = [[Lazarus Chakwera]]
+| before_party = [[Malawi Congress Party]]
+| after_election = [[Peter Mutharika]]
+| after_party = Democratic Progressive Party (Malawi)
+| map_image = 2025 Malawian presidential election - Results by region and district.svg
+| map_caption = Results by [[Regions of Malawi|region]] (left) and [[Districts of Malawi|district]] (right)
+
+| module = {{Infobox legislative election
+| election_name = Legislative election
+| embed = yes
+| previous_election = [[2019 Malawian general election|2019]]
+| next_election = [[2030 Malawian general election |2030]]
+| seats_for_election = All 229 seats in the [[National Assembly (Malawi)|National Assembly]]
+| majority_seats = 115
+
+| party1 = Democratic Progressive Party (Malawi) | leader1 = [[Peter Mutharika]] | percentage1 = 25.74 | seats1 = 78 | last_election1 = 62
+| party2 = Malawi Congress Party | leader2 = [[Lazarus Chakwera]] | percentage2 = 20.82 | seats2 = 52 | last_election2 = 55
+| party3 = United Democratic Front (Malawi) | leader3 = [[Atupele Muluzi]] | percentage3 = 5.01 | seats3 = 4 | last_election3 = 14
+| party4 = United Transformation Movement | leader4 = [[Dalitso Kabambe]] | percentage4 = 3.22 | seats4 = 8 | last_election4 = 4
+| party5 = People's Party (Malawi) | leader5 = [[Joyce Banda]] | percentage5 = 1.32 | seats5 = 3 | last_election5 = 5
+| party6 = Alliance for Democracy (Malawi) | leader6 = [[Enoch Chihana]] | percentage6 = 1.06 | seats6 = 3 | last_election6 = 1
+| party7 = [[People's Development Party|PDP]] | leader7 = {{nowrap|[[Kondwani Nankhumwa]]}} | percentage7 = 0.63 | seats7 = 1 | last_election7 = New | color7=#262f72
+| party8 = [[Freedom Party (Malawi)|FP]] | leader8 = [[Khumbo Kachali]] | percentage8 = 0.20 | seats8 = 1 | last_election8 = 0 | color8=#9caa24
+| party9 = [[National Development Party (Malawi)|NDP]] | leader9 = Frank Mwenifumbo | percentage9 = 0.17 | seats9 = 1 | last_election9 = New | color9=#1daf8a
+| party10 = Independents | leader10 = – | percentage10 = 41.52 | seats10 = 73 | last_election10 = 55
+}}}}
+}}
+{{Politics of Malawi}}
+
+General elections were held in [[Malawi]] on 16 September 2025 to elect the [[President of Malawi|president]], the 229 members of the [[National Assembly (Malawi)|National Assembly]] and 509 local government councillors.<ref>{{cite web |title=What is at stake in Malawi's elections? |url=https://www.bbc.com/news/articles/ckgy3g7zpl3o |website=BBC |date=1 September 2025 |access-date=1 September 2025}}</ref> 
+
+The presidential election resulted in a victory for former president [[Peter Mutharika]] of the [[Democratic Progressive Party (Malawi)|Democratic Progressive Party]], who received 57% of the vote. Incumbent president [[Lazarus Chakwera]] of the [[Malawi Congress Party]] finished second with 33% of the vote.
+
+==Background==
+The election was the second conducted under the [[Two-round system|two-round]] constitutional threshold introduced after the annulment of the [[2019 Malawian general election]] and the subsequent [[2020 Malawian presidential election|fresh presidential election]] the following year that brought [[Lazarus Chakwera]] to power. In July 2024, the [[United Transformation Movement]] (UTM) withdrew from the governing [[Tonse Alliance (Malawi)|Tonse Alliance]], leaving the [[Malawi Congress Party]] (MCP) to contest the elections on its own.<ref name="auto2">{{cite web |title=Fragments of opinion after UTM quit the Tonse Alliance |url=https://malawi24.com/2024/07/13/fragments-of-opinion-after-utm-quit-the-tonse-alliance/ |website=Malawi24 |date=13 July 2024 |access-date=26 June 2025}}</ref>
+
+==Electoral system==
+The president of Malawi is elected using a [[two-round system]]. Should no candidate secure an absolute majority in the first round, a run-off is held within 30 days. Members of the National Assembly are elected in single-member constituencies by [[first-past-the-post voting]].<ref>{{cite web |title=Malawi: Electoral system |url=http://archive.ipu.org/parline-e/reports/2195_B.htm |website=Inter-Parliamentary Union |access-date=26 June 2025}}</ref> 
+
+According to the [[Malawi Electoral Commission]], 7.2 million voters were enrolled after the three registration phases, with women constituting 57% of the electorate.<ref>{{cite web |title=4 million women register to vote in 2025 |url=https://mwnation.com/4m-women-register-to-vote-in-2025/ |website=The Nation |date=24 December 2024 |access-date=26 June 2025}}</ref> At 65%, the number of eligible voters who enrolled was less from the 80% recorded in 2019.<ref>{{Cite web|title=Malawians vote for president with their southern African nation gripped by economic turmoil |url=https://apnews.com/article/election-malawi-president-parliament-africa-chakwera-397aa544946efd6e1dfc0258d406bfdf |access-date=16 September 2025 |website=AP News |date=16 September 2025 }}</ref>
+
+==Parties and alliances==
+*[[Malawi Congress Party]] (MCP){{snd}}governing party of President Chakwera; running without the UTM following the collapse of the [[Tonse Alliance (Malawi)|Tonse Alliance]] in 2024.<ref name="auto2"/>
+*[[Democratic Progressive Party (Malawi)|Democratic Progressive Party]] (DPP){{snd}}main opposition party; endorsed former president [[Peter Mutharika]] as its presidential candidate in August 2024.<ref name="auto1">{{cite news |title=Malawi's main opposition endorses ex-president Mutharika to run in 2025 |url=https://www.reuters.com/world/africa/malawis-main-opposition-endorses-ex-president-mutharika-run-2025-2024-08-18/ |website=Reuters |date=18 August 2024 |access-date=26 June 2025}}</ref> 
+*[[People's Party (Malawi)|People's Party]] (PP){{snd}}led by former president [[Joyce Banda]], who relaunched her national campaign in June 2025.<ref name="auto">{{cite web |title=Joyce Banda says Malawi needs a new vision |url=https://allafrica.com/stories/202506230359.html |website=Nyasa Times|via=AllAfrica |date=23 June 2025 |access-date=26 June 2025}}</ref>
+*[[United Democratic Front (Malawi)|United Democratic Front]] (UDF){{snd}}headed by [[Atupele Muluzi]], which has indicated it may field its own ticket if no opposition alliance is formed.<ref>{{cite web |title=Atupele Muluzi accuses DPP of succession fears ahead of 2025 elections |url=https://malawi24.com/2025/06/22/atupele-muluzi-accuses-dpp-of-succession-fears-ahead-of-2025-elections/ |website=Malawi24 |date=22 June 2025 |access-date=26 June 2025}}</ref>
+*[[United Transformation Movement]] (UTM){{snd}}Following the death of founder [[Saulos Chilima]], Vice-President [[Michael Usi]] became interim leader as per the party's constitution. He initially expressed interest in leading the party,<ref>{{cite web |title=Michael Usi eyes UTM presidency |url=https://times.mw/michael-usi-eyes-utm-presidency/ |website=Times Group |date=21 October 2024 |access-date=26 June 2025}}</ref> but did not contest at the November 2024 convention,<ref>{{cite web |title=Analysis: Michael Usi's decision to withdraw from UTM's Elective Convention |url=https://malawi24.com/2024/11/11/analysis-michael-usis-decision-to-withdraw-from-utms-elective-convention/ |website=Malawi24 |date=11 November 2024 |access-date=31 July 2025}}</ref> where [[Dalitso Kabambe]] was elected as the new party leader.<ref>{{cite web |title=Dalitso Kabambe wins landslide victory at UTM Convention |url=https://malawi24.com/2024/11/18/dalitso-kabambe-wins-landslide-victory-at-utm-convention/ |website=Malawi24 |date=18 November 2024 |access-date=31 July 2025}}</ref>
+
+==Candidates==
+===Declared===
+*[[Lazarus Chakwera]]{{snd}}was the incumbent president; endorsed by the MCP in August 2024.<ref>{{cite news |title=Chakwera secures MCP backing for 2025 race |url=https://www.reuters.com/world/africa/malawi-president-chakwera-secures-his-partys-support-second-term-bid-2024-08-09/ |website=Reuters |date=9 August 2024 |access-date=26 June 2025}}</ref> His running mate was [[Vitumbiko Mumba]], the former minister of trade and industry and former labour minister, who was chosen despite MCP constitutional norms that typically favour the First Deputy President.<ref>{{Cite web |last=Chitete |first=Suzgo |date=2025-07-31 |title=Minister Mumba emerges as Chakwera's chosen one |url=https://mwnation.com/minister-mumba-emerges-as-chakweras-chosen-one/ |access-date=2025-09-25 |website=Nation Online |language=en-US}}</ref>
+*[[Peter Mutharika]]{{snd}}former president (2014–2020); nominated by the DPP.<ref name="auto1"/> His running mate was [[Jane Ansah]], the former [[Malawi Electoral Commission]] chairperson.<ref>{{cite web |title=I'm Back to Rescue Malawi" — Mutharika Declares as He Unveils Jane Ansah as Running Mate |url=https://www.nyasatimes.com/im-back-to-rescue-malawi-mutharika-declares-as-he-unveils-jane-ansah-as-running-mate/ |website=Nyasatimes |date=25 July 2025 |access-date=30 July 2025}}</ref>
+*[[Joyce Banda]]{{snd}}former president (2012–2014); announced her candidacy on 23 June 2025.<ref name="auto"/> Her running mate was [[Khumbo Kachali]], her former vice‑president during her 2012–2014 term.<ref>{{cite web |title=Former President Joyce Banda unveils her former Vice-President Khumbo Kachali as her running mate for the September 16 election |url=https://www.maraviexpress.com/former-president-joyce-banda-unveils-her-former-vice-president-khumbo-kachali-as-her-running-mate-for-the-september-16-election/ |website=Malavi Express |date=24 July 2025 |access-date=26 July 2025}}</ref>
+*[[Dalitso Kabambe]]{{snd}}former governor of the [[Reserve Bank of Malawi]] and candidate of the UTM party. His running mate was [[Matthews Mtumbuka]].<ref>{{cite web |title=Dalitso Kabambe Picks Mathews Mtumbuka as Running Mate Ahead of September 16 Presidential Poll |url=https://malawifreedomnetwork.com/2025/07/27/dalitso-kabambe-picks-mathews-mtumbuka-as-running-mate-ahead-of-september-16-presidential-poll/?srsltid=AfmBOorv6pFYiUCqv-raamxAiRfmx5E0DqNvwWVAGCaNhNvfb9DnQpcE |website=Malawi Freedom Network |date=27 July 2025 |access-date=31 July 2025}}</ref>
+*[[Atupele Muluzi]]{{snd}}UDF president. His running mate was Dr. Rex Kalolo.<ref>{{cite web |title=I'm not backing anyone{{snd}}Muluzi |url=https://malawi24.com/2025/07/26/im-not-backing-anyone-muluzi/ |website=Malawi24 |date=26 July 2025 |access-date=31 July 2025}}</ref>
+
+==Campaign==
+The official campaign period began on 14 July 2025 at the [[Bingu International Conference Centre]] (BICC) in Lilongwe, with activities continuing through 14 September, two days before polling on 16 September 2025, according to the MEC election calendar.<ref>{{cite web |title=Malawi's official campaign season begins as MEC opens 60-day window |url=https://malawi24.com/2025/07/14/malawis-official-campaign-season-begins-as-mec-opens-60-day-window/ |website=Malawi24 |date=14 July 2025 |access-date=5 August 2025}}</ref>
+
+=== Presidential debates ===
+The Presidential Debates Taskforce, chaired by MISA Malawi, organised debates ahead of the 2025 general election with support from the National Democratic Institute. The first debate was held on 21 August 2025 at the BICC and broadcast nationally.<ref>{{Cite web |title=Malawi's 2025 Presidential Debates: Dates, Parties and What to Expect |url=https://www.zodiakmalawi.com/politics/malawis-2025-presidential-debates-dates-parties-and-what-to-expect |access-date=3 September 2025 |website=www.zodiakmalawi.com}}</ref> A second debate was rescheduled to 9 September 2025. President [[Lazarus Chakwera]] and former president [[Peter Mutharika]] did not participate.<ref>{{Cite web |last=Mhone |first=Macmillan |date=21 August 2025 |title=Chakwera, APM shun presidential debate |url=https://mwnation.com/chakwera-apm-shun-presidential-debate/ |access-date=3 September 2025 |website=Nation Online |language=en-US}}</ref>
+
+=== Peace initiative by the Public Affairs Committee ===
+On 8 September 2025, the [[Public Affairs Committee (Malawi)|Public Affairs Committee]] (PAC) held a National Day of Prayers and Peace Declaration signing at the BICC in Lilongwe. The event brought together several presidential candidates, including President Lazarus Chakwera, Joyce Banda, Atupele Muluzi, and Dalitso Kabambe, who pledged to promote peaceful elections.<ref>{{Cite web |date=8 September 2025 |title=Chakwera Leads Rivals in Smiles and Handshakes at Peace Prayers — But Usi and Mutharika Nowhere to Be Seen |work=Nyasa Times |url=https://www.nyasatimes.com/chakwera-leads-rivals-in-smiles-and-handshakes-at-peace-prayers-but-usi-and-mutharika-nowhere-to-be-seen/ |access-date=9 September 2025 |language=en-GB}}</ref> 
+
+The gathering was marked by gestures of unity. Peter Mutharika and Michael Usi's absence drew criticism.<ref>{{Cite web |last=Njiragoma |first=Wycliffe |date=9 September 2025 |title=APM, others shun peace pact event |url=https://mwnation.com/apm-others-shun-peace-pact-event/ |access-date=9 September 2025 |website=Nation Online |language=en-US}}</ref><ref>{{Cite web |date=8 September 2025 |title=DPP and Odya Zake Humiliated Barred from Signing Peace Pact Because Their Leaders Didn't Show Up |work=Nyasa Times|url=https://www.nyasatimes.com/dpp-and-odya-zake-humiliated-barred-from-signing-peace-pact-because-their-leaders-didnt-show-up/ |access-date=9 September 2025 |language=en-GB}}</ref> PAC chairperson Patrick Thawale stressed that the declaration would help manage disputes during and after the elections.<ref>{{Cite web |date=10 September 2025 |title=Presidential Candidates Successfully Sign Peace Declaration-Crucial Step Towards 2025 General Elections |work=Public Affairs Committee |url=https://pacmw.org/presidential-candidates-successfully-sign-peace-declaration-crucial-step-towards-2025-general-elections/ |access-date=15 September 2025 |language=en-US}}</ref>
+
+==Opinion polls==
+Opinion polling was conducted by the Institute of Public Opinion Research (IPOR Malawi) ahead of the election. The survey results, including those from July and August 2025, are summarised in the table below.
+
+{| class="wikitable sortable mw-datatable mw-collapsible" style="text-align:center;font-size:90%;line-height:14px;"
+|- style="height:40px;"
+! rowspan="2" style="width:160px;" |Polling firm
+! rowspan="2" style="width:120px;" |Fieldwork date
+! rowspan="2" style="width: 35px;" |Sample<br/>size
+! class="unsortable" style="width:40px;" |[[Peter Mutharika|Mutharika]]
+! class="unsortable" style="width:40px;" |[[Lazarus Chakwera|Chakwera]]
+! class="unsortable" style="width:40px;" |[[Dalitso Kabambe|Kabambe]]
+! class="unsortable" style="width:40px;" |[[Atupele Muluzi|Muluzi]]
+! class="unsortable" style="width:40px;" |[[Joyce Banda|Banda]]
+! rowspan="2" |Undecided
+! rowspan="2" |None
+! rowspan="2" style="width:30px;" |Lead
+|-
+! style="background:{{party color|Democratic Progressive Party (Malawi)}};" |
+! style="background:{{party color|Malawi Congress Party}};" |
+! style="background:{{party color|United Transformation Movement}};" |
+! style="background:{{party color|United Democratic Front (Malawi)}};" |
+! style="background:{{party color|People's Party (Malawi)}};" |
+|- style="background:#E9E9E9;"
+|[[2025 Malawian general election|2025 general election]]
+|16 September 2025
+|5,502,982
+|style="background:{{party color|Democratic Progressive Party (Malawi)}};color:#FFFFFF;" |'''56.8'''
+|33
+|4
+|1.9
+|1.6
+|
+|
+|style="background:{{party color|Democratic Progressive Party (Malawi)}};color:#FFFFFF;" |23.8
+|-
+|IPOR<ref>{{Cite web |last=PASUNGWI |first=JONATHAN |date=5 September 2025 |title=Race tightens |url=https://mwnation.com/race-tightens/ |access-date=16 September 2025 |website=Nation Online |language=en-US}}</ref><ref>{{Cite web |work=Nyasa Times |date=4 September 2025 |title=IPOR Poll: Chakwera Jumps to 31% (+5), Mutharika Slips to 41% (-2) as Opposition Vote Splits |url=https://www.nyasatimes.com/ipor-poll-chakwera-jumps-to-31-5-mutharika-slips-to-41-2-as-opposition-vote-splits/ |access-date=16 September 2025 |language=en-GB}}</ref>
+|27 August 2025
+|–
+|41
+|31
+|6
+|3
+|2
+|11
+|–
+| style="background:{{party color|Democratic Progressive Party (Malawi)}};color:#FFFFFF;" |10
+|-
+|IPOR<ref>{{Cite web |last=Njiragoma |first=Wycliffe |date=29 July 2025 |title=Ipor survey puts APM ahead, but short of hitting 50%+1 |url=https://mwnation.com/ipor-survey-puts-apm-ahead-but-short-of-hitting-501/ |access-date=16 September 2025 |website=Nation Online |language=en-US}}</ref>
+|20 July 2025
+|–
+|43
+|26
+|5
+|2
+|1
+|12
+|6
+| style="background:{{party color|Democratic Progressive Party (Malawi)}};color:#FFFFFF;" |17
+|- style="background:#E9E9E9;"
+|[[2020 Malawian presidential election|2020 presidential election]]
+|23 June 2020
+|4,445,699
+|39.92
+| style="background:#ff7770;" |'''59.34'''
+|–
+|–
+|–
+|–
+|–
+| style="background:{{party color|Malawi Congress Party}};color:#FFFFFF;" |19.42
+|}
+
+Another poll conducted by [[Afrobarometer]] in August 2024 showed that 43% of respondents supported the [[Democratic Progressive Party (Malawi)|Democratic Progressive Party]], 29% the [[Malawi Congress Party]], 7% the [[United Transformation Movement]], and 2% the [[United Democratic Front (Malawi)|United Democratic Front]].<ref>{{cite web |title=Survey result favours DPP |url=https://times.mw/survey-result-favours-dpp/ |website=Times Group |date=7 December 2024 |access-date=12 August 2025}}</ref>
+
+==Conduct==
+Civil society and media advocates such as MISA Malawi have called for unrestricted press freedom and safety for journalists, citing prior instances of intimidation during electoral periods.<ref>{{cite web |title=MISA Malawi calls for free media ahead of 2025 Malawi elections |url=https://malawi.misa.org/2024/05/03/misa-malawi-calls-for-free-media-ahead-of-2025-malawi-elections/ |website=Misa Malawi |date=3 May 2024 |access-date=5 August 2025}}</ref> In June 2025, a rally calling for the resignation of top officials of the [[Malawi Electoral Commission]] (MEC) was attacked by masked, machete-wielding men.<ref>{{cite web |title=Malawi votes for next president as cost-of-living bites |url=https://www.bbc.com/news/articles/ckgy3g7zpl3o |website=BBC |date=16 September 2025 |access-date=16 September 2025}}</ref><ref>{{Cite web |last=Singini |first=George |date=27 June 2025 |title=Police, MDF fail to protect demonstrators |url=https://mwnation.com/police-mdf-fail-to-protect-demonstrators/ |access-date=16 September 2025 |website=Nation Online |language=en-US}}</ref> 
+MEC engaged six international observer missions, undertook gender‑sensitive and risk‑management training, and facilitated party briefings on voter roll verification to reinforce preparedness and credibility.<ref>{{cite web |title=MEC Engages Six Pre-Election Observer Missions Ahead of 2025 General Election |url=https://mec.org.mw/2025/06/24/mec-engages-six-pre-election-observer-missions-ahead-of-2025-general-election/ |website=Malawi Electoral Commission |date=24 June 2025 |access-date=5 August 2025}}</ref>
+
+On 29 August 2025, MEC completed the accreditation of election observers for the 16 September general election, approving 19 international observers and 40 local observers.<ref>{{Cite web |title=MEC accredits 19 international observers and 40 locals for September 16 general election |work=Maravi Express |url=https://www.maraviexpress.com/mec-accredits-19-international-observers-and-40-locals-for-september-16-general-election/ |access-date=18 September 2025 |language=en-US}}</ref> 
+
+On 27 August 2025, MEC conducted a dry-run of its Results Management System (RMS) ahead of the general election. The exercise, held at the national tally centre in [[Lilongwe]] and in selected constituencies, aimed to test the speed, accuracy, and security of results transmission.<ref>{{cite web |title=MEC conducts results system dry run |url=https://times.mw/mec-conducts-results-system-dry-run/ |website=Times Group |date=28 August 2025 |access-date=30 August 2025}}</ref> The test revealed some challenges, including network glitches in [[Blantyre]] and Lilongwe that delayed the transmission of results. MEC acknowledged the issues but stated that the system's integrity remained intact and pledged to resolve the problems before polling day.<ref>{{cite web |title=Network glitches mar MEC system test |url=https://mwnation.com/network-glitches-mar-mec-system-test/ |website=Nation Publications Limited |date=28 August 2025 |access-date=30 August 2025}}</ref>
+
+=== Results management and observer concerns ===
+In their preliminary report, international and regional observer missions, including the [[European Union]] and [[Southern African Development Community]], urged MEC to ensure transparency in the management of election results. The missions, along with several civil society groups, expressed concern about delays in publishing partial results and called for safeguarding election data and materials against tampering or loss.<ref>{{Cite web |last=Njiragoma |first=Wycliffe |date=2025-09-19 |title=EU observers point out uneven playing field |url=https://mwnation.com/eu-observers-point-out-uneven-playing-field/ |access-date=2025-09-19 |website=Nation Online |language=en-US}}</ref><ref>{{Cite web |title=Malawi election observers urge transparent election results management |url=https://www.aa.com.tr/en/africa/malawi-election-observers-urge-transparent-election-results-management/3691680 |access-date=18 September 2025 |website=Anadolu Ajansi}}</ref>
+
+On 18 September 2025, some political party representatives raised concerns after tally kits from districts including [[Nkhata Bay District|Nkhata Bay]], [[Luchenza]], and [[Kasungu District|Kasungu]] arrived at the national tally centre in [[Lilongwe]] without proper security seals. The handover was briefly halted, with MEC pledging to investigate; it later resumed after parties received printouts from the devices for verification.<ref>{{Cite web |last=Njiragoma |first=Wycliffe |date=2025-09-19 |title=Parties tussle over unsealed vote tally kits |url=https://mwnation.com/parties-tussle-over-unsealed-vote-tally-kits/ |access-date=2025-09-19 |website=Nation Online |language=en-US}}</ref> 
+
+On 21 September, MEC chairperson [[Annabel Mtalimanja]] cautioned political parties against making unverified claims of victory during the tallying process, saying that premature declarations can erode public trust and threaten national peace.<ref>{{Cite web |last=Njiragoma |first=Wycliffe |date=2025-09-22 |title=MEC cautions parties against victory claims |url=https://mwnation.com/392002-2/ |access-date=2025-09-22 |website=Nation Online |language=en-US}}</ref>
+
+=== Irregularities and investigations ===
+On 19 September, the MCP said it had found evidence of irregularities in the vote count in 13 of Malawi's 28 districts. Separately, police arrested eight election data entry clerks in the Lilongwe area on suspicion of "manipulating data".<ref>{{Cite web |date=2025-09-20 |title=Malawi election result: Eight arrested for alleged electoral fraud |url=https://www.bbc.com/news/articles/cx239dj0yx7o |access-date=2025-09-20 |website=BBC |language=en-GB}}</ref> An investigation was also launched into the alleged suicide attempt of an election returning officer who had offered bribes in exchange for manipulating the election results. Four domestic broadcasters also stopped live dashboards of their unofficial voting tallies without explanation that same day.<ref>{{cite news|url=https://www.france24.com/en/live-news/20250919-malawi-ruling-party-claims-tampering-in-vote-count |title=Malawi ruling party claims tampering in vote count |work=France 24 |date=20 September 2025|access-date=20 September 2025}}</ref> 
+
+On 20 September, [[United Democratic Front (Malawi)|United Democratic Front]] (UDF) president and presidential candidate [[Atupele Muluzi]] claimed there was vote‐rigging in the party's stronghold districts, citing [[Mangochi District|Mangochi]] and [[Balaka Township, Malawi|Balaka]] as some of the areas where serious irregularities occurred. He also alleged that many UDF monitors were directed to leave polling centers and told to return only after results had already been tallied in order to sign the official record sheets. He called for investigations into the matter and urged that all votes cast be properly accounted for.<ref>{{Cite web |date=2025-09-20 |title=Atupele Muluzi claims vote rigging in stronghold districts |url=https://www.malawivoice.com/2025/09/20/atupele-muluzi-claims-vote-rigging-in-stronghold-districts/ |access-date=2025-09-21 |website=Malawi Voice |language=en-GB}}</ref>
+
+Civil society organisations, through the Civil Society Elections Integrity Forum (CSEIF), on 20 September called for a speedy and transparent investigation into the recent arrests of electoral officials and clerks in Lilongwe Nkhoma Constituency. Separate inquiries were also reported in Mangochi, [[Chikwawa District|Chikwawa]], [[Blantyre District|Blantyre]], [[Machinga District|Machinga]], and [[Rumphi District|Rumphi]], highlighting the broader scope of concern. In a related incident, another presiding officer in Chikwawa allegedly attempted suicide after failing to reconcile manual and electronic tallies. Observers warned that unresolved issues across these cases could undermine public trust in the electoral process.<ref>{{Cite web |last=Mwale |first=Joseph |date=2025-09-21 |title=CSOs demand speedy probe into electoral issues |url=https://mwnation.com/csos-demand-speedy-probe-into-electoral-issues/ |access-date=2025-09-21 |website=Nation Online |language=en-US}}</ref>
+
+On 21 September, MCP presidential runningmate [[Vitumbiko Mumba]] claimed during a press briefing that three men at Jenda roadblock had been following him for several days from the [[Mzuzu]] area with the intention of attacking him. However, Inspector General of Police Merlyn Yolamu stated that the police were not aware of the alleged incident.<ref>{{Cite web |date=2025-09-21 |title=Police IG ignorant of arrest in connection to Mumba's attack claim |url=https://www.malawivoice.com/2025/09/21/police-ig-ignorant-of-arrest-in-connection-to-mumbas-attack-claim/ |access-date=2025-09-22 |website=Malawi Voice |language=en-GB}}</ref> In the same briefing, MCP spokesperson [[Jessie Kabwila]] also alleged that during vote counting in some polling centres, the party's monitors were told to leave, with some reportedly being chased away and others injured.<ref>{{Cite web |last=Meki |first=Ntchindi |date=2025-09-22 |title=MCP makes vote rigging claims |url=https://mwnation.com/mcp-makes-vote-rigging-claims/ |access-date=2025-09-27 |website=Nation Online |language=en-US}}</ref>
+
+On 24 September, before announcing the winner, the commission stated that it had addressed all complaints received from political parties and stakeholders during and after the voting process, including those related to vote counting, data entry, and monitor access at polling centres. MEC chairperson [[Annabel Mtalimanja]] confirmed that investigations and corrective actions were carried out where necessary, and the official presidential results were gazetted on the same day to formalize the outcome of the election.<ref>{{cite web |last=Mlanjira |first=Duncan |title=MEC gazettes results of the presidential election including irregularities that Chakwera demanded and went to court for |url=https://www.maraviexpress.com/mec-gazettes-results-of-the-presidential-election-including-irregularities-that-chakwera-demanded-and-went-to-court-for/ |website=Malavi Express |date=25 September 2025 |access-date=26 September 2025}}</ref>
+
+==Results==
+===President===
+Initial results suggested that former president [[Peter Mutharika]] of the [[Democratic Progressive Party (Malawi)|Democratic Progressive Party]] was leading in several areas, including the lakeshore districts of [[Nkhata Bay District|Nkhata Bay]] and [[Mangochi District|Mangochi]], in the presidential election.<ref>{{Cite web |work=Nyasa Times |date=17 September 2025 |title=Unofficial Results Show Considerable Lead for APM |url=https://www.nyasatimes.com/unofficial-results-show-considerable-lead-for-apm/ |access-date=17 September 2025 |language=en-GB}}</ref><ref>{{Cite web |date=17 September 2025 |title=Mutharika takes early lead as Malawi vote tallies trickle in |url=https://apanews.net/mutharika-takes-early-lead-as-malawi-vote-tallies-trickle-in/ |access-date=18 September 2025 |website=APAnews |language=en-US}}</ref> Official tallies were still awaited from the [[Malawi Electoral Commission]]. Despite this, both the MCP and the DPP claimed victory on 17 September.<ref>{{Cite web |author=Gregory Gondwe |date=19 September 2025 |title=Parties of both main candidates claim Malawi election victory but results not yet announced |url=https://apnews.com/article/malawi-elections-vote-africa-3bd61943304bc743db3adf4951e497f3 |access-date=19 September 2025 |website=AP News |language=en-US}}</ref> From 19 September, the commission began releasing official results, starting with four councils, among them [[Luchenza|Luchenza municipality]] and [[Likoma District|Likoma]].<ref>{{Cite web |last=Owolabi |first=Adekunle |date=2025-09-20 |title=Malawi Electoral Commission releases partial presidential results |url=https://independentnews.co.sz/26320/politics/malawi-electoral-commission-releases-partial-presidential-results/ |access-date=2025-09-20 |website=Independent News Eswatini |language=en-ZA}}</ref>
+
+On 18 September 2025 independent candidate Phunziro Mvula conceded defeat, stating that he accepted the outcome and pledged to run again in 2030.<ref>{{Cite web |title=Presidential Candidate Phunziro Mvula Concedes Defeat |url=https://zodiakmalawi.com/politics/presidential-candidate-phunziro-mvula-concedes-defeat |access-date=2025-09-20 |website=Zodiak Malawi}}</ref> The following day, Smart Swira also conceded defeat and urged Malawians to accept the results.<ref>{{Cite web |last=Naitha |first=Edgar |date=2025-09-19 |title=Smart Swira Becomes Second Presidential Candidate to Concede Defeat |url=https://www.faceofmalawi.com/2025/09/19/smart-swira-becomes-second-presidential-candidate-to-concede-defeat/ |work=Face of Malawi|access-date=2025-09-20 |language=en-US}}</ref> On 20 September, [[Kondwani Nankhumwa]] of the People's Development Party (PDP) and independent candidate Adil James Chilungo likewise conceded defeat, with Nankhumwa acknowledging that the preliminary results did not favour his party.<ref>{{Cite web |last=Richard |first=Mphatso Khutcha |date=2025-09-20 |title=Nankhumwa concedes defeat in 2025 presidential race |url=https://malawi24.com/2025/09/20/nankhumwa-concedes-defeat-in-2025-presidential-race/ |access-date=2025-09-20 |website=Malawi 24 |language=en-GB}}</ref><ref>{{Cite web |date=2025-09-20 |title=Adil Chilungo accept defeat in 2025 presidential race |url=https://www.malawivoice.com/2025/09/20/adil-chilungo-accept-defeat-in-2025-presidential-race/ |access-date=2025-09-20 |website=Malawi Voice |language=en-GB}}</ref> On 21 September, [[United Transformation Movement|UTM]] presidential candidate [[Dalitso Kabambe]] conceded defeat and congratulated Peter Mutharika and the DPP, saying the unofficial results reflected the will of Malawians and urged a peaceful transfer of power.<ref>{{Cite web |last=PASUNGWI |first=JONATHAN |date=2025-09-22 |title=Kabambe congratulates APM, concedes defeat |url=https://mwnation.com/kabambe-congratulates-apm-concedes-defeat/ |access-date=2025-09-22 |website=Nation Online |language=en-US}}</ref> These concessions were made before the commission had officially announced the winner of the presidential election.
+
+On 23 September, partial results from 24 of Malawi's 36 electoral councils showed Mutharika leading the presidential vote with about 66% of valid ballots counted, with Chakwera trailing significantly.<ref>{{Cite news |date=2025-09-22 |title=Ex-President Mutharika leads Malawi presidential race with 66% of votes |url=https://www.reuters.com/world/africa/ex-president-mutharika-leads-malawi-presidential-race-with-66-votes-2025-09-22/ |access-date=2025-09-23 |work=Reuters |language=en}}</ref><ref>{{Cite web |last=Mtemang’ombe |first=Eric |date=2025-09-23 |title=Mutharika builds commanding lead in presidential race |url=https://mwnation.com/mutharika-builds-commanding-lead-in-presidential-race/ |access-date=2025-09-23 |website=Nation Online |language=en-US}}</ref> Former president [[Bakili Muluzi]] publicly asked Chakwera to accept the likely outcome.<ref>{{Cite web |date=2025-09-23 |title=Bakili tells Chakwera to pack his bags: "There is Life After State House" |url=https://www.malawivoice.com/2025/09/23/bakili-tells-chakwera-to-pack-his-bags-there-is-life-after-state-house/ |access-date=2025-09-23 |website=Malawi Voice |language=en-US}}</ref> The Malawi Council of Churches also appealed to Chakwera to concede defeat gracefully, noting that the electoral "table cannot change" in his favour.<ref>{{Cite web |date=2025-09-23 |title=Church urges Chakwera to concede defeat gracefully |url=https://malawi24.com/2025/09/23/church-urges-chakwera-to-concede-defeat-gracefully/ |access-date=2025-09-27 |website=Malawi 24 |language=en-GB}}</ref>
+
+President Chakwera conceded defeat in a televised address on 24 September 2025, several hours before the commission had announced final results. At that point, only 24 of the 36 electoral councils were declared, yet Chakwera acknowledged that his opponent had achieved an insurmountable lead and urged Malawians to support a peaceful transition.<ref>{{Cite web |last=Munthali |first=Burnett |date=2025-09-24 |title=President Chakwera concedes defeat Ahead of official results in historic 2025 Malawi Election |url=https://malawi24.com/2025/09/24/president-chakwera-concedes-defeat-ahead-of-official-results-in-historic-2025-malawi-election/ |access-date=2025-09-24 |website=Malawi 24 |language=en-GB}}</ref>
+
+Some analysts interpreted Mutharika's strong showing in the presidential contest as partly the product of a [[protest vote]] against the incumbent, citing public dissatisfaction over economic mismanagement, scarcity of goods, and weak decision-making by Chakwera's government. Experts also noted that votes that might otherwise have gone to UTM were diverted to Mutharika, reflecting strategic voting dynamics.<ref>{{Cite web |last=Mvona |first=Ralph |date=2025-09-24 |title=APM benefited from protest vote—experts |url=https://mwnation.com/apm-benefited-from-protest-vote-experts/ |access-date=2025-09-24 |website=Nation Online |language=en-US}}</ref>
+
+{{Election results
+|cand1=[[Peter Mutharika]]|vp1=[[Jane Ansah]]|party1=[[Democratic Progressive Party (Malawi)|Democratic Progressive Party]]|votes1=3035249
+|cand2=[[Lazarus Chakwera]]|vp2=[[Vitumbiko Mumba]]|party2=[[Malawi Congress Party]]|votes2=1765170
+|cand3=[[Dalitso Kabambe]]|vp3=[[Matthews Mtumbuka]]|party3=[[United Transformation Movement]]|color3=crimson|votes3=211413
+|cand4=[[Atupele Muluzi]]|vp4=Rex Kalolo|party4=[[United Democratic Front (Malawi)|United Democratic Front]]|votes4=102744
+|cand5=[[Joyce Banda]]|vp5=[[Khumbo Kachali]]|party5=[[People's Party (Malawi)|People's Party]]||votes5=86106
+|cand6=Akwame Bandawe|vp6=Asiyatu Abuli|party6=Anyamata Atsikana Azimayi Party|color6=#002197|votes6=40052
+|cand7=Thokozani Banda|vp7=Vera Kaludzu|party7=Independent|votes7=22614
+|cand8=Kamuzu Chibambo|vp8=Chris Bullah|party8=[[People's Transformation Party]]|color8=#03b602|votes8=17274
+|cand9=[[Michael Usi]]|vp9=Grace Nazitwere|party9=Odya Zake Alibe Mlandu Party|color9=#db2c3b|votes9=16922
+|cand10=[[Kondwani Nankhumwa]]|vp10=Bertha Ndebele|party10=People's Development Party|color10=#342f7d|votes10=12251
+|cand11=Phunziro Mvula|vp11=Cydrack Mkwanda|party11=Independent|votes11=9378
+|cand12=Cosmas Chipojola|vp12=Memory Naveko|party12=Independent|votes12=8638
+|cand13=Adil Chilungo|vp13=Mary Mwalukuwo|party13=Independent|votes13=8462
+|cand14=[[Frank Tumpale Mwenifumbo|Frank Mwenifumbo]]|vp14=Chikondi Mpokosa|party14=National Development Party|color14=#2a4630|votes14=5354
+|cand15=Jordan Sauti|vp15=Timothy Kaendera|party15=Patriotic Citizens Party|color15=#485b91|votes15=2196
+|cand16=Milward Tobias|vp16=Henry Mdebwe|party16=Independent|votes16=2086
+|cand17=Smart Swira|vp17=Jonathan Matonga|party17=Independent|votes17=1848
+|invalid=155225
+|electorate=7203390
+|source=Malawi Electoral Commission<ref name="results">{{cite web |title=2025 General Election Summaries |url=https://mec.org.mw/GEResults2025/results/downloadSummaries |website=Malawi Electoral Commission}}</ref>
+}}
+
+===National Assembly===
+The commission began releasing official parliamentary results on 29 September, starting with 13 of the 36 electoral councils. Three constituencies, [[Mzimba South East Constituency|Mzimba South East]] and Nkhata Bay Central {{snd}} were withheld due to the need to examine [[Spoilt vote|voided]] votes, while in Nkhotakota Liwaladzi the parliamentary election was postponed following a [[court order]]. On the same day, the commission also announced that it had nullified the parliamentary results for the Lilongwe Mtandire{{snd}}Mtsiliza constituency over irregularities.<ref>{{Cite web |last=Mpinganjira |first=Sosten |date=2025-09-29 |title=MEC nullifies Mtandire–Mtsiliza results over irregularities |work=Nthanda Times |url=https://nthandatimes.com/mec-nullifies-mtandire-mtsiliza-results-over-irregularities/ |access-date=2025-09-30 |language=en-US}}</ref> 
+
+On 30 September, the commission announced results for 224 constituencies, with the DPP winning the largest share of seats.<ref>{{Cite web |last=Njiragoma |first=Wycliffe |date=2025-10-01 |title=DPP dominates parliamentary race |url=https://mwnation.com/dpp-dominates-parliamentary-race/ |access-date=2025-10-01 |website=Nation Online |language=en-US}}</ref> It also pledged to conduct parliamentary [[by-election]]s in four constituencies where voting had been nullified or not completed.<ref>{{Cite web |last=Kantayeni |first=Pempho |date=2025-09-30 |title=MEC to conduct parliamentary re-elections in four constituencies |url=https://www.maraviexpress.com/mec-to-conduct-parliamentary-re-elections-in-four-constituencies/ |access-date=2025-10-01 |website=Maravi Express |language=en-US}}</ref> In Lilongwe Chilobwe constituency, the commission had earlier declared MCP's Lawrence Chakakala Chaziya elected unopposed after no other candidate was nominated,<ref>{{Cite web |last=Chavula |first=James |date=2025-08-20 |title=MP who won unopposed |url=https://mwnation.com/mp-who-won-unopposed/ |access-date=2025-10-02 |website=Nation Online |language=en-US}}</ref> bringing the total constituencies to 229 as required.
+
+The number of women in parliament increased from 40 to 48.<ref>{{Cite news |date=2025-10-16 |title=Malawi: Women in Parliament - Rising From 40 to 48 - Progress or Political Plateau? |url=https://allafrica.com/stories/202510160043.html |access-date=2025-11-16 |work=Nyasa Times |language=en}}</ref>
+
+{{Election results
+|image =[[File:Malawi Parliament 2025.svg]]
+|party1=[[Democratic Progressive Party (Malawi)|Democratic Progressive Party]]|votes1=1351820|seats1=78|sc1=+16
+|party2=[[Malawi Congress Party]]|votes2=1093646|seats2=52|sc2=-3
+|party3=[[United Transformation Movement]]|votes3=263164|seats3=8|sc3=+4
+|party4=[[United Democratic Front (Malawi)|United Democratic Front]]|votes4=169307|seats4=4|sc4=-6
+|party5=[[People's Party (Malawi)|People's Party]]|votes5=69079|seats5=3|sc5=-2
+|party6=[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes6=55490|seats6=3|sc6=+2
+|party7=[[People's Development Party]]|votes7=33134|seats7=1|color7=#262f72|sc7=New
+|party8=Odya Zake Alibe Mlandu Party|votes8=10818|seats8=0|sc8=New|color8=#db2c3b
+|party9=[[Freedom Party (Malawi)|Freedom Party]]|votes9=10579|seats9=1|color9=#9caa24|sc9=+1
+|party10=[[National Democratic Party (Malawi)|National Democratic Party]]|votes10=8712|seats10=1|color10=#1daf8a|sc10=New
+|party11=Nationalist Patriotic Party|votes11=1745|seats11=0|sc11=New
+|party12=Liberation for Economic Freedom Party|votes12=1210|seats12=0|sc12=New
+|party13=[[People's Progressive Movement (Malawi)|People's Progressive Movement]]|votes13=744|seats13=0|sc13=0
+|party14=Patriotic Citizens Party|votes14=666|seats14=0|sc14=New
+|party15=Solidarity Alliance|votes15=610|seats15=0|sc15=New
+|party16=National Congress|votes16=246|seats16=0|sc16=New
+|party17=[[Malawi Forum for Unity and Development]]|votes17=229|seats17=0|sc17=New
+|party18=[[People's Transformation Party]]|votes18=183|seats18=0|sc18=0
+|party19=Assembly for Democracy and Development|votes19=80|seats19=0|sc19=New
+|party20=Independents|votes20=2181144|seats20=73|sc20=+18
+|row21=Vacant|seats21=5
+|invalid=81806
+|total_sc=+36
+|electorate=7001993
+|source=Malawi Electoral Commission<ref name="results"/>
+}}
+
+==== Results by constituency ====
+
+<div style="overflow:auto">
+{| class="wikitable mw-collapsible mw-collapsed" style=text-align:right
+|+class=nowrap|Results by constituency
+|-
+! Code !! Constituency !! [[Democratic Progressive Party (Malawi)|DPP]] !! [[Malawi Congress Party|MCP]] !! [[United Transformation Movement|UTM]] !! [[United Democratic Front (Malawi)|UDF]] !! [[People's Party (Malawi)|PP]] !! [[Alliance for Democracy (Malawi)|AFORD]] !! [[People's Development Party|PDP]] !! Odya Zake !! [[Freedom Party (Malawi)|FP]] !! [[National Democratic Party (Malawi)|NDP]] !! [[Nationalist Patriotic Party|NPP]] !! [[Liberation for Economic Freedom Party|LEFP]] !! [[People's Progressive Movement (Malawi)|PPM]] !! [[Patriotic Citizens Party|PCP]] !! [[Solidarity Alliance|SA]] !! [[National Congress (Malawi)|NC]] !! [[Malawi Forum for Unity and Development|MAFUNDE]] !! [[People's Transformation Party|PETRA]] !! [[Assembly for Democracy and Development|ADD]] !! Ind. !! Invalid !! Registered
+|-
+| 001 || align=left|Chitipa North || 916 || 3,228 || 296 ||  || 520 ||  ||  ||  ||  || 83 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,311 || 89 || 14,485
+|-
+| 002 || align=left|Chitipa Central || 653 || 3,934 || 270 ||  || 49 || 2,695 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,899 || 65 || 18,158
+|-
+| 003 || align=left|Chitipa East || 599 || 5,205 || 548 ||  || 50 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,331 || 80 || 16,195
+|-
+| 004 || align=left|Chitipa Chendo || 889 || 933 || 5,981 ||  || 515 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,989 || 80 || 17,370
+|-
+| 005 || align=left|Chitipa South || 1,894 || 1,068 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 12,820 || 106 || 20,772
+|-
+| 006 || align=left|Karonga Songwe || 2,458 || 6,506 ||  ||  ||  ||  ||  ||  ||  || 37 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,608 || 103 || 19,238
+|-
+| 007 || align=left|Karonga Lufilya || 2,366 || 4,086 || 2,499 ||  || 228 || 2,500 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,949<br/>1,026<br/>270 || 139 || 22,640
+|-
+| 008 || align=left|Karonga Central || 2,407 || 2,204 || 1,117 ||  ||  ||  ||  ||  ||  || 7,802 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 62 || 147 || 20,657
+|-
+| 009 || align=left|Karonga Nyungwe || 6,522 || 6,058 || 6,985 || 333 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 146 || 29,747
+|-
+| 010 || align=left|Karonga South || 1,056 || 3,319 || 193 ||  || 17,198 || 271 ||  ||  ||  ||  ||  ||  ||  || 85 ||  ||  ||  ||  ||  ||  || 132 || 30,148
+|-
+| 011 || align=left|Karonga Town || 1,632 || 9,434 || 4,835 ||  ||  || 236 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,892 || 158 || 26,702
+|-
+| 012 || align=left|Rumphi North || 11,028 || 4,034 || 933 ||  || 135 || 1,340 ||  ||  ||  || 100 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 151 || 24,157
+|-
+| 013 || align=left|Rumphi West || 498 || 1,636 || 649 ||  || 483 || 453 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 11,109<br/>1,912 || 133 || 22,419
+|-
+| 014 || align=left|Rumphi East || 2,154 || 1,938 ||  ||  ||  || 5,787 ||  ||  || 66 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,581<br/>1,510<br/>347 || 125 || 23,977
+|-
+| 015 || align=left|Rumphi Central || 1,020 || 2,157 || 3,450 ||  ||  || 6,822 ||  || 47 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2,797<br/>237<br/>143 || 148 || 24,383
+|-
+| 016 || align=left|Mzimba North || 3,599 || 3,085 || 10,338 ||  ||  || 958 ||  ||  ||  ||  ||  ||  || 53 ||  ||  ||  ||  ||  ||  || 1,292<br/>310<br/>105 || 203 || 29,700
+|-
+| 017 || align=left|Mzimba West || 2,403 || 5,698 || 228 ||  || 421 || 457 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,584<br/>724 || 206 || 28,172
+|-
+| 018 || align=left|Mzimba Kafukule || 1,795 || 565 || 265 ||  ||  || 507 ||  || 81 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,220<br/>5,716<br/>46 || 171 || 22,592
+|-
+| 019 || align=left|Mzimba North East || 4,041 || 14,964 || 1,213 ||  || 69 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,685 || 276 || 32,996
+|-
+| 020 || align=left|Mzimba Central || 1,656 ||  || 680 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 13,042<br/>2,673<br/>1,607<br/>530 || 292 || 30,170
+|-
+| 021 || align=left|Mzimba East || 1,621 || 4,599 || 3,768 ||  ||  || 4,063 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,688<br/>1,393<br/>725<br/>234<br/>201<br/>192 || 256 || 33,200
+|-
+| 022 || align=left|Mzimba Hora || 6,486 || 6,092 || 1,418 ||  ||  ||  || 286 ||  || 237 ||  ||  ||  ||  ||  || 610 ||  ||  ||  ||  || 3,575 || 252 || 26,368
+|-
+| 023 || align=left|Mzimba South West || 5,133 || 2,249 || 3,690 ||  ||  ||  ||  ||  || 5,674 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2,539 || 300 || 25,738
+|-
+| 024 || align=left|Mzimba Solola || 5,874 || 4,742 || 2,082 || 388 ||  || 979 ||  ||  || 1,072 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,432<br/>703<br/>368 || 276 || 29,107
+|-
+| 025 || align=left|Mzimba Perekezi || 3,850 || 4,193 || 974 ||  ||  || 4,623 || 310 ||  || 599 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,413<br/>1,127 || 187 || 26,140
+|-
+| 026 || align=left|Mzimba South ||  || 22,137 || 1,872 ||  ||  ||  ||  ||  ||  ||  || 265 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 239 || 31,818
+|-
+| 027 || align=left|Mzimba South East || 2,573 || 4,446 || 963 || 113 || 4,365 || 134 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2,760<br/>1,582 || 142 || 23,482
+|-
+| 028 || align=left|Mzimba Luwerezi || 840 || 1,972 || 1,783 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 10,198<br/>5,548<br/>2,485<br/>926<br/>916 || 184 || 32,080
+|-
+| 029 || align=left|Nkhata Bay North || 4,670 || 2,604 || 1,947 ||  || 133 || 199 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 64 || 13,830
+|-
+| 030 || align=left|Nkhata Bay Mpamba || 3,685 || 647 ||  ||  || 111 || 248 ||  || 88 || 79 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,871<br/>43 || 113 || 17,280
+|-
+| 031 || align=left|Nkhata Bay Central || 5,385 || 2,539 || 497 ||  ||  || 67 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,377 || 76 || 21,115
+|-
+| 032 || align=left|Nkhata Bay West || 3,919 || 1,367 || 2,703 ||  || 598 || 497 || 363 ||  || 782 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,868<br/>508<br/>207<br/>129 || 173 || 18,504
+|-
+| 033 || align=left|Nkhata Bay Chintheche || 2,797 || 464 || 2,844 ||  || 3,395 || 241 || 389 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,193 || 164 || 17,121
+|-
+| 034 || align=left|Nkhata Bay South || 1,755 || 1,906 || 3,614 ||  || 341 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2,245<br/>1,220<br/>1,132<br/>182 || 219 || 19,556
+|-
+| 035 || align=left|Mzuzu City North || 3,451 || 4,988 ||  ||  || 306 || 2,467 ||  || 1,048 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,744<br/>880 || 179 || 23,183
+|-
+| 036 || align=left|Mzuzu City South West || 2,217 || 1,847 || 1,552 ||  ||  || 164 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 10,565<br/>182 || 132 || 22,711
+|-
+| 037 || align=left|Mzuzu City South East || 2,472 || 5,362 || 2,528 || 365 ||  || 263 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 183 ||  || 8,136<br/>3,108<br/>203 || 207 || 30,735
+|-
+| 038 || align=left|Likoma Islands || 3,172 || 2,458 ||  ||  || 97 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,136 || 68 || 8,664
+|-
+| 039 || align=left|Nkhotakota Dwangwa || 4,384 || 9,898 || 178 || 275 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,048 || 264 || 25,896
+|-
+| 040 || align=left|Nkhotakota Liwaladzi || colspan=22 align=left|''Election not held''
+|-
+| 041 || align=left|Nkhotakota Central || 4,424 || 5,187 ||  || 285 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,099<br/>4,360<br/>3,815<br/>1,540<br/>708<br/>223 || 472 || 41,403
+|-
+| 042 || align=left|Nkhotakota Chia || 1,787 || 10,441 || 244 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,794<br/>3,272<br/>2,023<br/>530<br/>432 || 489 || 36,091
+|-
+| 043 || align=left|Nkhotakota Mkhula || 3,418 || 12,661 ||  || 154 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,494<br/>2,445<br/>1,083<br/>162 || 537 || 43,278
+|-
+| 044 || align=left|Kasungu North || 4,010 || 10,517 ||  ||  || 11,537 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 322 || 36,823
+|-
+| 045 || align=left|Kasungu North West || 1,648 || 7,685 || 4,217 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,371<br/>2,969 || 319 || 33,114
+|-
+| 046 || align=left|Kasungu West || 4,098 || 8,101 || 131 ||  ||  || 463 || 1,912 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,380<br/>3,583<br/>1,514<br/>694 || 383 || 40,680
+|-
+| 047 || align=left|Kasungu North North East || 7,635 || 7,202 ||  ||  ||  || 320 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2,989<br/>1,722<br/>1,090 || 297 || 32,201
+|-
+| 048 || align=left|Kasungu East || 1,963 || 9,836 ||  ||  || 141 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 11,092 || 262 || 36,105
+|-
+| 049 || align=left|Kasungu North East ||  || 10,101 || 381 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,008<br/>930<br/>284 || 317 || 32,782
+|-
+| 050 || align=left|Kasungu Central ||  || 13,194 ||  ||  ||  || 1,769 ||  || 1,552 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,617<br/>1,118 || 323 || 36,932
+|-
+| 051 || align=left|Kasungu South East ||  || 4,724 ||  ||  || 4,302 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 13,947 || 275 || 31,910
+|-
+| 052 || align=left|Kasungu South West ||  || 6,310 || 411 ||  ||  || 504 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,206<br/>2,409<br/>1,728<br/>340 || 354 || 31,293
+|-
+| 053 || align=left|Kasungu South ||  || 12,349 || 232 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 11,817<br/>641 || 322 || 33,201
+|-
+| 054 || align=left|Kasungu Municipality || 4,235 || 3,779 || 294 ||  ||  || 202 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,109<br/>1,528<br/>1,233 || 198 || 25,645
+|-
+| 055 || align=left|Ntchisi North || 6,646 || 10,494 || 140 ||  ||  ||  || 170 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2,470 || 219 || 28,409
+|-
+| 056 || align=left|Ntchisi West ||  || 5,884 ||  ||  ||  ||  || 76 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 10,584<br/>1,495<br/>1,210<br/>709<br/>168 || 325 || 28,257
+|-
+| 057 || align=left|Ntchisi Central East || 1,579 || 12,894 || 1,023 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,780<br/>1,601<br/>57 || 271 || 26,318
+|-
+| 058 || align=left|Ntchisi East || 889 || 1,906 || 193 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,269<br/>5,480<br/>4281 || 273 || 27,608
+|-
+| 059 || align=left|Ntchisi South || 35 || 3,839 || 1,245 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 19,141 || 311 || 31,207
+|-
+| 060 || align=left|Dowa Ngala || 494 || 5,621 || 238 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,200<br/>3,944<br/>3,445<br/>1,638<br/>1,156<br/>244 || 380 || 33,954
+|-
+| 061 || align=left|Dowa Kasangadzi ||  || 18,006 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,980 || 259 || 33,153
+|-
+| 062 || align=left|Dowa Mphudzu ||  || 12,068 || 523 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,944<br/>4,708 || 331 || 34,205
+|-
+| 063 || align=left|Dowa Central ||  || 5,646 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 19,085 || 306 || 34,770
+|-
+| 064 || align=left|Dowa Mndolera ||  || 7,346 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 14,381<br/>2,816<br/>177 || 350 || 30,744
+|-
+| 065 || align=left|Dowa North East ||  || 12,142 || 1,059 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 10,343 || 392 || 33,296
+|-
+| 066 || align=left|Dowa West ||  || 13,198 || 117 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 14,357 || 526 || 34,542
+|-
+| 067 || align=left|Dowa East || 3,997 || 25,111 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 493 || 40,731
+|-
+| 068 || align=left|Dowa Central East ||  || 5,587 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 11,592<br/>1,139<br/>620<br/>590<br/>163<br/>115 || 369 || 28,104
+|-
+| 069 || align=left|Dowa South East ||  || 3,997 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 26,756<br/>546 || 519 || 43,796
+|-
+| 070 || align=left|Mchinji North East || 1,311 || 15,536 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,883<br/>2,268 || 286 || 34,482
+|-
+| 071 || align=left|Mchinji North || 2,351 || 11,273 || 1,159 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,782<br/>6,281 || 580 || 42,421
+|-
+| 072 || align=left|Mchinji East || 602 || 7,209 || 348 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 14,312<br/>5,082 || 368 || 36,586
+|-
+| 073 || align=left|Mchinji West || 1,953 || 7,646 ||  || 981 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,041<br/>869 || 234 || 28,932
+|-
+| 074 || align=left|Mchinji Central East || 4,040 || 21,903 || 1,798 ||  ||  ||  || 1,366 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 535 || 44,768
+|-
+| 075 || align=left|Mchinji South West ||  || 10,809 || 531 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 10,557<br/>707 || 459 || 33,041
+|-
+| 076 || align=left|Mchinji South ||  || 6,582 || 172 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 10,496<br/>5,810 || 265 || 32,375
+|-
+| 077 || align=left|Salima North || 4,323 || 14,285 || 459 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,544 || 464 || 36,361
+|-
+| 078 || align=left|Salima Central West || 1,502 || 9,016 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 13,895 || 381 || 35,222
+|-
+| 079 || align=left|Salima Central East || 4,935 || 3,072 || 177 || 698 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,717<br/>1,301<br/>1,160<br/>579<br/>178 || 363 || 23,148
+|-
+| 080 || align=left|Salima Central || 6,903 || 8,434 || 1,104 || 265 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,224<br/>872 || 351 || 29,633
+|-
+| 081 || align=left|Salima South Linthipe || 4,580 || 5,407 || 405 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,985<br/>3,535<br/>1,439 || 538 || 33,550
+|-
+| 082 || align=left|Salima South || 4,535 || 3,378 || 377 || 516 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,717<br/>3,923<br/>2,180<br/>176 || 284 || 28,671
+|-
+| 083 || align=left|Lilongwe Chilobwe ||  || Unopposed ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || align=center|— || align=center|—
+|-
+| 084 || align=left|Lilongwe Mphande ||  || 10,116 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 16,561<br/>7,002<br/>3,571<br/>2,191<br/>1,419<br/>952<br/>348 || 896 || 55,414
+|-
+| 085 || align=left|Lilongwe Mude ||  || 32,079 ||  ||  ||  ||  ||  || 1,016 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,113<br/>859<br/>734 || 881 || 54,205
+|-
+| 086 || align=left|Lilongwe Demera || 346 || 15,969 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,724<br/>5,534<br/>5,329<br/>2,342<br/>1,328<br/>423 || 651 || 51,447
+|-
+| 087 || align=left|Lilongwe Chiwamba ||  || 26,474 || 932 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 10,409<br/>1,889<br/>871<br/>827 || 736 || 55,070
+|-
+| 088 || align=left|Lilongwe East || 290 || 6,692 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 11,405<br/>532<br/>519<br/>90 || 587 || 25,453
+|-
+| 089 || align=left|Lilongwe Mapuyu North || 409 || 7,450 || 774 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 20,234<br/>7,032<br/>1,977<br/>349 || 801 || 52,089
+|-
+| 090 || align=left|Lilongwe Machenga ||  || 11,273 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,263<br/>3,839 || 448 || 34,470
+|-
+| 091 || align=left|Lilongwe Nkhoma ||  || 9,421 ||  ||  || 278 ||  || 220 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 13,036<br/>1,659<br/>736 || 804 || 36,724
+|-
+| 092 || align=left|Lilongwe Likuni || 1,355 || 11,250 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 18,649<br/>3,046 || 517 || 49,976
+|-
+| 093 || align=left|Lilongwe Central || 5,765 || 12,219 || 2,645 ||  ||  ||  ||  || 481 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,868 || 697 || 44,189
+|-
+| 094 || align=left|Lilongwe Mpenu || 5,736 || 9,071 ||  ||  ||  ||  ||  || 444 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,550<br/>2,113<br/>1,393 || 470 || 34,125
+|-
+| 095 || align=left|Lilongwe Mapuyu South ||  || 13,557 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 12,579<br/>3,452<br/>2,056 || 499 || 44,940
+|-
+| 096 || align=left|Lilongwe Nyanja || 564 || 20,921 || 135 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,048 || 667 || 35,292
+|-
+| 097 || align=left|Lilongwe Msozi || 676 || 19,054 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,377 || 627 || 37,074
+|-
+| 098 || align=left|Lilongwe Bunda || 1,539 || 12,689 || 870 ||  ||  ||  || 101 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,858<br/>4,895 || 479 || 39,829
+|-
+| 099 || align=left|Lilongwe Phirilanjuzi || 718 || 11,048 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,109<br/>2,149<br/>932<br/>671<br/>397 || 548 || 38,804
+|-
+| 100 || align=left|Lilongwe Msinja South ||  || 15,132 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 11,185<br/>2,166 || 625 || 43,351
+|-
+| 101 || align=left|Lilongwe Msinja North ||  || 11,659 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 211 ||  ||  ||  ||  ||  || 11,507 || 365 || 36,273
+|-
+| 102 || align=left|Lilongwe City Lumbadzi || 3,545 || 9,426 || 1,071 ||  ||  || 568 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,443<br/>2,722<br/>1,504<br/>692<br/>614 || 647 || 39,506
+|-
+| 103 || align=left|Lilongwe City Dzenza || 6,096 || 8,714 || 1,687 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,980<br/>2,546<br/>1,220<br/>850<br/>719<br/>355 || 351 || 35,451
+|-
+| 104 || align=left|Lilongwe City Centre || 13,716 || 15,002 || 3,200 ||  || 260 || 366 || 406 || 530 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 663 || 46,800
+|-
+| 105 || align=left|Lilongwe City Chipala-Nafisi || 8,117 || 6,999 || 821 ||  ||  || 369 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,436<br/>2,015<br/>530<br/>336 || 367 || 32,199
+|-
+| 106 || align=left|Lilongwe City Nankhaka || 6,582 || 5,860 || 2,522 ||  ||  ||  ||  ||  ||  || 65 ||  ||  ||  ||  ||  || 246 ||  ||  ||  || 4,438<br/>350 || 280 || 26,981
+|-
+| 107 || align=left|Lilongwe City Mtandire-Mtsiriza || colspan=22 align=left|''Election not held''
+|-
+| 108 || align=left|Lilongwe City Bwaila || colspan=22 align=left|''Election not held''
+|-
+| 109 || align=left|Lilongwe City Masintha || 5,129 || 6,000 || 3,718 || 1,657 ||  ||  || 1,550 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,340<br/>3,860<br/>541 || 411 || 34,962
+|-
+| 110 || align=left|Lilongwe City M'Buka || 7,055 || 4,747 || 2,094 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,291<br/>1,307<br/>719 || 363 || 25,543
+|-
+| 111 || align=left|Lilongwe City Mlodza || 4,240 || 6,911 || 1,279 || 745 || 115 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,139<br/>5,017 || 273 || 30,751
+|-
+| 112 || align=left|Lilongwe City Kamphuno || 5,871 || 5,871 || 3,229 ||  ||  ||  || 279 || 267 || 265 ||  ||  ||  ||  || 130 ||  ||  ||  ||  ||  || 6,042<br/>1,114 || 346 || 32,473
+|-
+| 113 || align=left|Lilongwe City Ngwenya || 8,090 || 8,185 || 3,457 ||  ||  ||  ||  || 627 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,194<br/>341 || 446 || 31,093
+|-
+| 114 || align=left|Dedza Mayani ||  || 11,790 ||  || 1,942 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 14,199<br/>2,005 || 490 || 42,103
+|-
+| 115 || align=left|Dedza Mlunduni ||  || 13,448 || 244 || 1,101 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 11,557<br/>1,786 || 831 || 38,396
+|-
+| 116 || align=left|Dedza Kasina ||  || 13,326 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,200<br/>5,675<br/>2,295 || 492 || 40,486
+|-
+| 117 || align=left|Dedza Mtakataka || colspan=22 align=left|''Election not held''
+|-
+| 118 || align=left|Dedza Linthipe || 499 || 8,190 || 360 || 340 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 17,020<br/>4,633 || 684 || 40,876
+|-
+| 119 || align=left|Dedza Boma || 1,662 || 6,116 || 1,263 || 638 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,174<br/>5,843 || 313 || 30,918
+|-
+| 120 || align=left|Dedza Golomoti || 3,241 || 3,983 ||  || 813 || 170 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 10,570<br/>4,205 || 502 || 32,851
+|-
+| 121 || align=left|Dedza Chikoma ||  || 13,029 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,823<br/>5,332<br/>912<br/>182 || 562 || 36,670
+|-
+| 122 || align=left|Dedza Mphunzi ||  || 7,040 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,338<br/>5,376<br/>400 || 408 || 33,565
+|-
+| 123 || align=left|Dedza Dzalanyama ||  || 7,271 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 11,615<br/>4,044 || 449 || 37,443
+|-
+| 124 || align=left|Ntcheu North || 8,305 || 1,768 || 1,714 ||  ||  ||  ||  || 1,775 ||  ||  || 670 ||  ||  ||  ||  ||  ||  ||  ||  || 2,344<br/>177<br/>140 || 229 || 21,313
+|-
+| 125 || align=left|Ntcheu Bwanje || 4,851 || 2,008 || 1,882 ||  ||  ||  ||  ||  ||  ||  || 92 ||  ||  ||  ||  ||  ||  ||  ||  || 3,251<br/>3,166<br/>2,760<br/>1,918<br/>1,491<br/>347 || 357 || 27,376
+|-
+| 126 || align=left|Ntcheu North West || 2,755 || 867 || 1,188 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,819<br/>4,033<br/>781 || 238 || 19,279
+|-
+| 127 || align=left|Ntcheu Central East || 3,986 || 294 || 526 ||  ||  || 93 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,596<br/>3,456<br/>2,323<br/>1178 || 306 || 22,708
+|-
+| 128 || align=left|Ntcheu Central || 4,750 || 318 || 5,553 ||  ||  || 91 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,208<br/>1,517 || 234 || 24,088
+|-
+| 129 || align=left|Ntcheu Dzonzi Mvai || 4,277 || 584 || 447 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,579<br/>4,053<br/>189<br/>175 || 213 || 17,663
+|-
+| 130 || align=left|Ntcheu Central Central East || 10,634 || 939 || 1,034 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,927<br/>443<br/>358<br/>86 || 200 || 18,332
+|-
+| 131 || align=left|Ntcheu South || 4,409 || 1,347 || 11,828 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 197 || 222 || 22,115
+|-
+| 132 || align=left|Mangochi North || 8,820 || 6,069 ||  || 459 || 558 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,413<br/>275 || 434 || 31,307
+|-
+| 133 || align=left|Mangochi Lutende || 7,488 || 413 || 705 || 6,877 || 3,900 || 626 || 236 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,135<br/>1,004 || 467 || 27,777
+|-
+| 134 || align=left|Mangochi East || 6,538 || 310 ||  || 5,814 || 1,090 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,944<br/>4,353 || 516 || 33,243
+|-
+| 135 || align=left|Mangochi Monkey Bay || 11,126 || 17,971 || 399 || 194 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 686 || 419 || 41,412
+|-
+| 136 || align=left|Mangochi West || 15,437 || 574 || 898 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,495<br/>2,778<br/>282 || 243 || 31,923
+|-
+| 137 || align=left|Mangochi Central || 11,802 || 794 ||  || 2,575 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,629<br/>427 || 369 || 33,149
+|-
+| 138 || align=left|Mangochi North East || 11,063 || 730 || 392 || 3,354 || 208 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,812<br/>1,942<br/>1,372<br/>1,142<br/>1,053 || 539 || 33,078
+|-
+| 139 || align=left|Mangochi Masongola || 10,708 || 842 || 537 || 6,584 || 167 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,486<br/>1,679 || 624 || 37,834
+|-
+| 140 || align=left|Mangochi South West || 7,549 || 159 || 4,602 || 3,566 || 817 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,304<br/>3,614<br/>2,406<br/>918 || 535 || 37,599
+|-
+| 141 || align=left|Mangochi South || 8,704 || 771 || 5,615 || 2,854 || 144 ||  ||  || 474 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 10,831<br/>172 || 558 || 39,172
+|-
+| 142 || align=left|Mangochi Malombe || 8,843 || 479 || 6,035 || 2,716 || 344 || 508 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,894 || 543 || 28,021
+|-
+| 143 || align=left|Mangochi Nkungulu || 5,615 || 533 || 1,482 || 12,536 ||  ||  || 1,311 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,306<br/>1,688 || 721 || 36,088
+|-
+| 144 || align=left|Mangochi Municipality || 11,340 || 3,087 || 746 || 5,946 || 108 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,153<br/>2,165<br/>430 || 418 || 37,840
+|-
+| 145 || align=left|Machinga North East || 8,635 || 675 || 635 || 3,084 || 376 ||  ||  || 219 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,055<br/>2,849<br/>1,050<br/>571<br/>464<br/>443<br/>189 || 518 || 36,344
+|-
+| 146 || align=left|Machinga South East || 4,090 || 350 || 2,707 || 1,166 || 967 || 919 ||  ||  ||  ||  || 515 ||  ||  ||  ||  ||  ||  ||  ||  || 7,703<br/>5,112<br/>2,020<br/>1,611<br/>1,605<br/>252 || 705 || 36,587
+|-
+| 147 || align=left|Machinga Central || 10,461 || 358 || 228 || 1,129 ||  ||  || 67 ||  ||  ||  ||  || 1,089 ||  ||  ||  ||  ||  ||  ||  || 7,437 || 243 || 25,881
+|-
+| 148 || align=left|Machinga East || 8,098 || 345 || 2,303 || 15,766 || 397 ||  ||  || 231 ||  ||  ||  ||  ||  || 240 ||  ||  ||  ||  ||  ||  || 551 || 33,928
+|-
+| 149 || align=left|Machinga Mikoko || 5,438 || 745 || 973 || 2,362 || 2,189 || 962 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,388<br/>2,984<br/>2,251<br/>772<br/>451<br/>289 || 642 || 29,665
+|-
+| 150 || align=left|Machinga Central East || 14,795 || 1,176 || 1,897 || 990 ||  ||  ||  || 1,008 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2,537<br/>1,470<br/>515<br/>480 || 437 || 30,496
+|-
+| 151 || align=left|Machinga Likwenu || 5,116 || 541 || 319 || 7,728 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,541<br/>1,737<br/>883<br/>287 || 245 || 26,344
+|-
+| 152 || align=left|Machinga South || 11,824 || 569 || 1,473 || 6,222 || 408 || 1,429 || 252 || 346 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,414<br/>1,091<br/>224 || 422 || 33,931
+|-
+| 153 || align=left|Balaka Ulongwe || 13,603 ||  ||  || 3,280 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,485<br/>834 || 348 || 33,953
+|-
+| 154 || align=left|Balaka Bwaila || 4,161 || 238 || 980 || 642 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 13,574<br/>1,174<br/>930<br/>788<br/>546<br/>525<br/>363 || 373 || 29,770
+|-
+| 155 || align=left|Balaka Ngwangwa || 14,283 || 819 || 1,151 || 572 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 229 ||  ||  || 8,039 || 276 || 31,743
+|-
+| 156 || align=left|Balaka Rivirivi || 12,964 || 345 || 732 || 852 ||  ||  || 62 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 12,007<br/>4,217<br/>651<br/>146 || 452 || 39,526
+|-
+| 157 || align=left|Balaka Mulunguzi || 8,162 || 270 || 266 || 1,839 ||  ||  || 160 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,445<br/>4,079<br/>4,019<br/>553<br/>187 || 262 || 35,035
+|-
+| 158 || align=left|Zomba Malosa || 20,419 || 475 || 374 || 580 || 3,338 ||  || 176 || 286 ||  || 625 ||  ||  ||  ||  ||  ||  ||  ||  ||  || 385 || 325 || 35,316
+|-
+| 159 || align=left|Zomba Nsondole || 4,459 || 1,399 || 459 || 408 || 174 || 151 || 192 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,186<br/>4,360<br/>2,250<br/>2,133<br/>654 || 392 || 29,877
+|-
+| 160 || align=left|Zomba Chingale || 8,491 || 292 ||  || 5,113 || 140 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,934<br/>4,136<br/>1,032<br/>476<br/>432<br/>345 || 409 || 32,640
+|-
+| 161 || align=left|Zomba Likangala || 6,505 ||  || 404 ||  || 349 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 23,683<br/>425<br/>399<br/>355 || 481 || 38,934
+|-
+| 162 || align=left|Zomba Changalume || 9,366 ||  || 280 || 249 || 426 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,856<br/>3,991<br/>2,737<br/>840<br/>212<br/>181 || 325 || 29,657
+|-
+| 163 || align=left|Zomba Ntonya || 3,694 || 1,259 || 324 || 3,927 || 175 ||  || 277 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 16,205<br/>1,202<br/>270<br/>148 || 386 || 32,307
+|-
+| 164 || align=left|Zomba Matiya || 13,729 ||  || 219 ||  || 3,234 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 11,783<br/>667<br/>163 || 473 || 36,366
+|-
+| 165 || align=left|Zomba Thondwe || 15,044 || 517 || 1,031 || 428 || 855 ||  || 109 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,440<br/>51 || 261 || 28,038
+|-
+| 166 || align=left|Zomba Chikomwe || 14,407 || 266 || 3,785 || 551 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 916<br/>876<br/>677<br/>493 || 307 || 26,293
+|-
+| 167 || align=left|Neno North || 11,305 || 1,710 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 800<br/>248 || 131 || 17,755
+|-
+| 168 || align=left|Neno East || 3,406 || 667 || 1,199 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2,797<br/>2,663<br/>1,791<br/>1,086<br/>825<br/>707<br/>147<br/>85 || 163 || 18,651
+|-
+| 169 || align=left|Neno South || 4,841 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 691 ||  ||  ||  ||  ||  ||  || 3,806<br/>2,204 || 133 || 14,420
+|-
+| 170 || align=left|Blantyre North || 13,570 || 1,306 || 5,996 || 2,672 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 250 || 29,542
+|-
+| 171 || align=left|Blantyre Central || 4,966 || 1,059 || 487 || 1,450 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,016<br/>3,946<br/>1821 || 302 || 26,788
+|-
+| 172 || align=left|Blantyre West || colspan=22 align=left|''Election not held''
+|-
+| 173 || align=left|Blantyre North East || 7,342 || 456 || 503 || 5,923 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 13,651<br/>2,759 || 385 || 37,259
+|-
+| 174 || align=left|Blantyre South West || 8,606 || 562 || 564 || 212 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,552<br/>1,983<br/>371<br/>129<br/>121<br/>105<br/>52 || 350 || 26,772
+|-
+| 175 || align=left|Blantyre South East || 6,765 || 464 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,113<br/>2,245<br/>1278<br/>562 || 377 || 24,439
+|-
+| 176 || align=left|Zomba City North || 13,803 || 995 || 2,543 || 6,176 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 189 || 30,239
+|-
+| 177 || align=left|Zomba City South || 17,594 || 2,800 || 500 ||  || 230 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 196 || 27,011
+|-
+| 178 || align=left|Mwanza Central ||  || 509 || 9,233 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,881<br/>2,222<br/>2,215 || 227 || 24,367
+|-
+| 179 || align=left|Mwanza West || 4,349 || 6,360 || 363 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,200<br/>1,867<br/>1,330<br/>1,210<br/>371<br/>261 || 388 || 26,678
+|-
+| 180 || align=left|Phalombe North || 10,899 || 243 || 700 ||  || 131 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,179<br/>3,617<br/>840<br/>185 || 295 || 30,802
+|-
+| 181 || align=left|Phalombe North East || 24,941 || 310 || 462 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,329<br/>2,099<br/>629<br/>241 || 370 || 42,433
+|-
+| 182 || align=left|Phalombe Machemba || 6,242 || 255 || 175 ||  || 76 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 14,355<br/>11,086 || 223 || 37,788
+|-
+| 183 || align=left|Phalombe South || 20,216 || 198 || 484 ||  ||  ||  || 450 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2,678<br/>237 || 243 || 28,502
+|-
+| 184 || align=left|Phalombe East || 10,245 || 305 || 61 || 255 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,377<br/>2,696<br/>1,846<br/>106 || 291 || 31,080
+|-
+| 185 || align=left|Chiradzulu Nyungwe || 20,089 || 238 || 611 ||  ||  || 485 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,296<br/>779<br/>366<br/>248<br/>179 || 291 || 28,650
+|-
+| 186 || align=left|Chiradzulu Masanjala || 16,117 || 228 || 261 || 446 || 267 || 204 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,974<br/>1,180<br/>1,160<br/>1,035<br/>532<br/>384<br/>217<br/>169 || 453 || 31,127
+|-
+| 187 || align=left|Chiradzulu Thumbwe || 19,304 || 210 || 595 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,116<br/>2,495 || 372 || 30,021
+|-
+| 188 || align=left|Chiradzulu Nguludi || 14,392 || 1,007 || 4,838 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2,794<br/>671<br/>443<br/>373 || 299 || 28,152
+|-
+| 189 || align=left|Chiradzulu Midima || 8,340 || 136 || 457 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,884<br/>4,538<br/>3,337<br/>2010 || 351 || 28,928
+|-
+| 190 || align=left|Mulanje North || 14,584 || 242 || 2,210 ||  ||  ||  || 217 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,916<br/>242<br/>170 || 368 || 26,928
+|-
+| 191 || align=left|Mulanje West || 7,658 || 198 || 7,838 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,402<br/>3,038 || 279 || 31,070
+|-
+| 192 || align=left|Mulanje Pasani || 3,837 || 99 || 220 ||  ||  ||  || 183 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,534<br/>6,788<br/>2,265<br/>2,104 || 272 || 28,886
+|-
+| 193 || align=left|Mulanje South West || 9,887 || 287 || 3,047 ||  ||  ||  || 1,997 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,884<br/>1,987<br/>596 || 486 || 27,454
+|-
+| 194 || align=left|Mulanje Limbuli || 9,729 || 176 || 75 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 18,862<br/>3,633 || 472 || 39,743
+|-
+| 195 || align=left|Mulanje South || 22,142 || 980 || 1,205 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,270 || 346 || 31,127
+|-
+| 196 || align=left|Mulanje Central || 4,381 || 264 || 384 ||  ||  ||  || 17,635 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,563 || 388 || 35,183
+|-
+| 197 || align=left|Mulanje South East || 4,290 || 71 || 219 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 12,962<br/>6,911<br/>1,684<br/>229<br/>126 || 372 || 32,347
+|-
+| 198 || align=left|Mulanje Bale || 13,622 || 135 || 265 || 90 ||  ||  || 417 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,957<br/>1,260<br/>511<br/>280 || 508 || 27,023
+|-
+| 199 || align=left|Blantyre City South Lunzu || 8,547 || 518 ||  || 136 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,672<br/>4,974<br/>1,229<br/>745<br/>241<br/>119 || 355 || 30,134
+|-
+| 200 || align=left|Blantyre City Michiru-Chirimba || 8,161 || 353 || 1,126 ||  ||  ||  ||  ||  ||  ||  ||  || 121 ||  ||  ||  ||  ||  ||  ||  || 7,543<br/>1,022<br/>803<br/>101 || 334 || 24,117
+|-
+| 201 || align=left|Blantyre City Mapanga-Mpingwe-Mzedi || 13,443 ||  || 684 || 1,781 ||  || 278 ||  ||  || 514 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,597 || 320 || 30,476
+|-
+| 202 || align=left|{{nowrap|Blantyre City Ndirande Malabada Nyambadwe}} || 6,918 ||  || 1,267 || 11,967 ||  ||  ||  ||  || 1,291 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,299 || 286 || 33,058
+|-
+| 203 || align=left|Blantyre City Chilomoni Kabula Nancholi || 20,472 || 4,316 || 3,595 || 357 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,472 || 486 || 37,250
+|-
+| 204 || align=left|Blantyre City Mbayani-Mussa Magasa || 6,081 || 312 || 542 || 5,375 ||  ||  || 1,667 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 80 || 3,291<br/>120 || 204 || 21,291
+|-
+| 205 || align=left|Blantyre City Nkolokoti-Ndirande Matope || 7,192 || 474 ||  || 1,147 ||  || 5,908 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,608<br/>2,807 || 259 || 32,245
+|-
+| 206 || align=left|Blantyre City Chichiri-Misesa || 12,462 || 1,718 || 2,319 || 2,062 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,423<br/>2,404 || 360 || 35,107
+|-
+| 207 || align=left|Blantyre City Soche-Zingwangwa || 10,134 || 2,372 || 10,370 || 951 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,329<br/>359 || 181 || 31,728
+|-
+| 208 || align=left|Blantyre City Chigumula BCA-Club Banana || 22,484 || 641 ||  || 582 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 2,195 || 332 || 31,125
+|-
+| 209 || align=left|Chikwawa West || 6,422 || 5,306 ||  ||  ||  ||  ||  || 298 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 15,729<br/>1,926 || 806 || 40,685
+|-
+| 210 || align=left|Chikwawa North || 6,654 || 5,889 || 264 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,248<br/>2,165<br/>1924<br/>1264 || 459 || 32,948
+|-
+| 211 || align=left|Chikwawa Central West || 14,716 || 732 || 514 ||  || 182 || 1,788 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 9,895 || 573 || 35,366
+|-
+| 212 || align=left|Chikwawa Central || 7,248 || 1,479 || 1,485 ||  || 531 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 10,186<br/>6,444<br/>1,920<br/>852<br/>797 || 583 || 39,542
+|-
+| 213 || align=left|Chikwawa East || 10,390 || 963 || 599 || 5,549 || 1,242 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 5,895<br/>2,005<br/>428<br/>170<br/>42 || 635 || 36,534
+|-
+| 214 || align=left|Chikwawa Mkombedzi || 12,218 || 7,687 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,580<br/>4,995 || 706 || 42,390
+|-
+| 215 || align=left|Chikwawa South || 7,018 ||  || 1,518 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 24,885<br/>180 || 831 || 43,302
+|-
+| 216 || align=left|Thyolo Mikolongwe || 9,959 || 566 || 142 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,187<br/>2,573<br/>2,162<br/>2,056<br/>1,581<br/>204<br/>86 || 318 || 26,352
+|-
+| 217 || align=left|Thyolo Goliati || 17,527 ||  || 346 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,493<br/>4,119<br/>1,286<br/>1,095<br/>1,017<br/>157 || 490 || 35,107
+|-
+| 218 || align=left|Thyolo Bvumbwe-Masenjere || 11,872 || 321 || 341 || 204 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 6,401<br/>6,224<br/>1,561<br/>835<br/>257<br/>111 || 409 || 33,507
+|-
+| 219 || align=left|Thyolo Khonjeni-Mangunda || 3,963 || 270 || 163 ||  ||  ||  || 158 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 19,941 || 371 || 29,565
+|-
+| 220 || align=left|Thyolo Central || 26,848 || 366 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 3,462 || 388 || 36,586
+|-
+| 221 || align=left|Thyolo Thava || 32,005 || 440 || 918 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,742 || 476 || 41,854
+|-
+| 222 || align=left|Thyolo Masambanjati || 5,861 || 127 || 1,114 ||  ||  || 537 || 101 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 4,673<br/>3,139<br/>2,474<br/>1,421<br/>675<br/>107 || 348 || 24,947
+|-
+| 223 || align=left|Thyolo Thekerani || 9,583 || 152 || 760 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,404<br/>1,301<br/>505 || 317 || 25,187
+|-
+| 224 || align=left|Luchenza || 2,584 || 2,524 || 485 ||  ||  ||  || 39 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,615<br/>550<br/>506<br/>48 || 102 || 10,237
+|-
+| 225 || align=left|Nsanje North || 9,911 || 2,357 || 145 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 8,033<br/>3,211<br/>236 || 440 || 31,728
+|-
+| 226 || align=left|Nsanje Lalanje || 5,714 || 239 || 1,784 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 13,655<br/>2,582<br/>64<br/>54 || 462 || 31,767
+|-
+| 227 || align=left|Nsanje Central || 11,478 || 5,211 || 523 ||  || 172 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 1,525<br/>183 || 313 || 24,507
+|-
+| 228 || align=left|Nsanje South West || 3,187 || 969 || 201 ||  ||  ||  ||  ||  ||  ||  || 203 ||  ||  ||  ||  ||  ||  ||  ||  || 6,328<br/>5,745<br/>4,744<br/>568 || 434 || 29,195
+|-
+| 229 || align=left|Nsanje South || 7,558 || 458 || 169 ||  || 67 || 979 ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  ||  || 7,525<br/>5,795<br/>100 || 317 || 30,303
+|-
+! colspan=2|Total || 1,351,820 || 1,093,646 || 263,164 || 169,307 || 69,079 || 55,490 || 33,134 || 10,818 || 10,579 || 8,712 || 1,745 || 1,210 || 744 || 666 || 610 || 246 || 229 || 183 || 80 || 2,181,144 || 81,806 || 7,001,993
+|}
+</div>
+
+=== Local government councillors ===
+On 5 October the commission announced results for 502 wards, with the DPP winning the largest share of seats. It also stated that local government elections had not been conducted in seven wards for various reasons, and that by-elections would be held in due course.
+
+{{Election results
+|party1=[[Democratic Progressive Party (Malawi)|Democratic Progressive Party]]|votes1= |seats1=249|sc1=
+|party2=[[Malawi Congress Party]]|votes2= |seats2=143|sc2=
+|party3=[[United Transformation Movement]]|votes3= |seats3=14|sc3=
+|party4=[[United Democratic Front (Malawi)|United Democratic Front]]|votes4= |seats4=6|sc4=
+|party5=[[People's Party (Malawi)|People's Party]]|votes5= |seats5=3|sc5=
+|party6=[[National Development Party (Malawi)|National Development Party]]|votes6= |seats6=2|color6=#1daf8a|sc6=
+|party7=[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes7= |seats7=1|sc7=
+|party8=Odya Zake Alibe Mlandu Party|votes8= |seats8=1|color8=#db2c3b|sc8=
+|party9=Independents|votes9=|seats9=83|sc9=
+|invalid=
+|electorate=
+|source=Nation Online<ref>{{cite web |url=https://mwnation.com/dpp-sweeps-local-government-polls/ 
+|title=DPP sweeps local government polls |publisher=Nation Online |date=6 October 2025 |access-date=6 October 2025}}</ref>
+}}
+
+== Aftermath ==
+=== Voter turnout and electoral integrity ===
+The 2025 general election saw a notable increase in voter turnout, with 5,502,982 individuals casting their ballots, representing 76.4% of the 7.2 million registered voters. This marks a significant rise from the 64.8% turnout in the [[2020 Malawian presidential election|2020 election]]. Analysts attribute this improvement to widespread public dissatisfaction with the prevailing economic conditions and renewed confidence in the electoral process, bolstered by reforms and increased transparency by MEC.<ref name="auto20">{{Cite web |last=Mhone |first=Macmillan |date=2025-09-26 |title=Turnout improves, but null-void votes worsen |url=https://mwnation.com/turnout-improves-but-null-void-votes-worsen/ |access-date=2025-09-26 |website=Nation Online |language=en-US}}</ref> 
+
+However, the election also experienced a rise in [[Spoilt vote|null and void]] votes. Approximately 155,225 votes were invalidated, accounting for 2.8% of the total votes cast. This figure more than doubles the 1.28% recorded in the 2020 election. Experts suggest that this increase may be due to insufficient voter education and the complexity introduced by having 17 presidential candidates on the ballot, which reduced the size of the voting boxes and potentially led to voter errors.<ref name="auto20" />
+=== Inauguration and transition of power ===
+[[Peter Mutharika]] was sworn in as [[president of Malawi]] on 4 October 2025 at [[Kamuzu Stadium]] in [[Blantyre]], in a ceremony attended by government officials, supporters, and several regional leaders, including Zimbabwean president [[Emmerson Mnangagwa]], Mozambican president [[Daniel Chapo]], and Botswanan president [[Duma Boko]].<ref>{{Cite web |title=Malawi's Mutharika sworn in for second term as president |url=https://clubofmozambique.com/news/malawis-mutharika-sworn-in-for-second-term-as-president-293051/ |access-date=2025-10-09 |website=Mozambique |date=4 October 2025 |language=en-US}}</ref> Outgoing President [[Lazarus Chakwera]] did not attend the ceremony; however, the [[Malawi Congress Party|MCP]] issued a goodwill message wishing Mutharika success.<ref>{{Cite web |last=Dzida |first=Rick |date=2025-10-04 |title=Absence of Chakwera at APM's inauguration ceremony is a missed opportunity |url=https://malawi24.com/2025/10/04/absence-of-chakwera-at-apms-inauguration-ceremony-is-a-missed-opportunity/ |access-date=2025-10-09 |website=Malawi 24 |language=en-GB}}</ref> 
+
+In his inaugural address, Mutharika acknowledged that he was inheriting a country facing economic challenges such as high inflation, shortages of fuel and food, and debt constraints, and pledged a “tough and painful” return to work rather than promises of “milk and honey".<ref>{{Cite web |date=2025-10-05 |title=Malawi's President Mutharika brings hope as he vows to rebuild ailing economy |url=https://www.africanews.com/2025/10/05/malawis-president-mutharika-brings-hope-as-he-vows-to-rebuild-ailing-economy/ |access-date=2025-10-09 |website=Africanews |language=en}}</ref>
+
+=== Government formation and appointments ===
+Within days of taking office, President Mutharika named [[Joseph Mwanamveka]] as his [[Minister of Finance and Economic Affairs (Malawi)|finance minister]] - a role Mwanamveka had previously held between 2019 and 2020.<ref>{{Cite news |date=2025-10-06 |title=Malawi's president appoints economist Mwanamvekha as finance minister |url=https://www.reuters.com/world/africa/malawis-president-appoints-economist-mwanamvekha-finance-minister-2025-10-06/ |access-date=2025-10-09 |work=Reuters |language=en}}</ref> In addition, he appointed [[Enoch Chihana]] as [[Second Vice-President of Malawi|second vice president]], [[George Chaponda]] as [[Minister of Foreign Affairs (Malawi)|foreign affairs minister]] and [[Alfred Gangata]] as minister of state.<ref>{{Cite web |date=2025-10-05 |title=Malawi Government Shake-Up: Mutharika Unveils New Cabinet |url=https://malawi24.com/2025/10/05/malawi-government-shake-up-mutharika-unveils-new-cabinet/ |access-date=2025-10-09 |website=Malawi 24 |language=en-GB}}</ref>
+
+=== Debate over leader of the Opposition ===
+With independents having emerged as the single largest bloc in the early unofficial results, some observers and commentators argued that the [[leader of the Opposition]] in the National Assembly should have come from among the independent MPs rather than from MCP. This was seen as a possible departure from precedent, given MCP’s traditional role as opposition leader, and was noted as a factor that could influence negotiations over parliamentary leadership roles.<ref>{{Cite web |last=Mtenje |first=Dorica |date=2025-09-27 |title=Independent legislators dominate new Malawi Parliament: Where will leader of opposition, Speaker come from? |url=https://www.maravipost.com/independent-legislators-dominate-new-malawi-parliament-where-will-leader-of-opposition-speaker-come-from/ |access-date=2025-09-28 |website=The [[Maravi Post]] |language=en-US}}</ref>
+
+=== Reversal of headquarters relocations ===
+On 10 October, President Mutharika issued an [[executive order]] reversing the earlier government directive that had moved several parastatal head offices from [[Blantyre]] and [[Zomba, Malawi|Zomba]] to [[Lilongwe]]. Under the new order, agencies including the [[Malawi Communications Regulatory Authority]], [[Malawi Electoral Commission]], and [[Malawi Housing Corporation]] were instructed to return to their original locations in Blantyre within three months, while the [[Malawi Prison Service]] was directed to relocate back to Zomba.<ref>{{Cite web |last=Kasanda |first=Mathews |date=2025-10-14 |title=Executive order reverts Macra, others to Blantyre |url=https://mwnation.com/executive-order-reverts-macra-others-to-blantyre/ |access-date=2025-10-17 |website=Nation Online |language=en-US}}</ref>
+
+=== Domestic reaction, political significance, and commentary ===
+The transition of power in Malawi has been widely noted as a positive example of democratic turnover in a region often dominated by long-standing incumbents.<ref name="chatham">{{Cite web |date=2025-01-24 |title=Malawi's election result provides lessons for Africa |url=https://www.chathamhouse.org/2025/10/malawis-election-result-provides-lessons-africa |access-date=2025-10-09 |website=Chatham House |language=en}}</ref> Analysts have drawn attention to how the 2025 election was influenced heavily by economic discontent: with inflation persistently high, shortages of essential goods, and donor aid cuts, many voters appeared to use the election as a means to express dissatisfaction with the Chakwera government.<ref>{{Cite news |last=Savage |first=Rachel |date=2025-09-24 |title=Malawi's 85-year-old ex-leader returns to power in presidential election |url=https://www.theguardian.com/world/2025/sep/24/former-president-peter-mutharika-defeats-incumbent-in-malawi-presidential-election |access-date=2025-10-09 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> Some commentators observed that the result suggests that party support in Malawi is not immutable, and that political comebacks are possible when incumbents mismanage economic or governance challenges.<ref name="chatham" />
+
+==Court rulings==
+On 11 September, five days before the polls, the High Court in Blantyre, presided over by Justice Chimbizgani Kacheche (Judicial Review Cause No. 19 of 2025), dismissed an opposition request for an independent audit of MEC’s election management system. The court upheld MEC’s decision to deny the audit but ruled that results could not be announced solely on the basis of electronic transmission and should await the arrival of manual tallies as well.<ref>{{Cite web |last=Kasalika |first=Johnny |date=2025-09-12 |title=Court backs Mec on audit |url=https://mwnation.com/court-backs-mec-on-audit/ |access-date=2025-10-02 |website=Nation Online |language=en-US}}</ref><ref>{{Cite web |title=Case Summary - The Democratic Progressive Party & 6 Others v Malawi Electoral Commission |url=https://judiciary.mw/node/790 |access-date=2025-10-02 |website=judiciary.mw}}</ref>
+
+On 22 September, the High Court in Lilongwe dismissed an application by [[Madalitso Kazombo]] (former MCP MP and former Deputy Speaker in the last parliament) seeking permission for a judicial review of the [[Malawi Electoral Commission]]'s conduct in relation to the elections. The case (Judicial Review Cause No. 61 of 2025), heard by Justice Violet Palikena-Chipao, was dismissed on the grounds of procedural irregularities in the documents submitted, such as typographical errors, incorrect legal citations, unclear arguments and inconsistent facts. The court granted Kazombo liberty to refile with properly prepared documents.<ref>{{Cite web |last=Chiputula |first=Eric |date=2025-09-23 |title=Court dismisses Kazombo's judicial review application against MEC |url=https://malawi24.com/2025/09/23/court-dismisses-kazombos-judicial-review-application-against-mec/ |access-date=2025-09-23 |website=Malawi 24 |language=en-GB}}</ref><ref>{{cite web |title=Madalitso Kazombo v MEC |url=https://www.judiciary.mw/sites/default/files/2025-09/Madalitso%20Kazombo%20v%20MEC.pdf |website=Judiciary Malawi |date=22 September 2025 |access-date= 23 September 2025}}</ref> 
+
+On 23 September, President Chakwera and the governing MCP sought an [[injunction]] to restrain MEC from announcing the winner, but the High Court, presided over by Judge Howard Pemba, dismissed the application. However, the court allowed the claimants to pursue a judicial review of the matter,<ref>{{Cite web |last=Mwale |first=Joseph |date=2025-09-24 |title=Court rebuffs Chakwera, MCP bid to block results |url=https://mwnation.com/court-rebuffs-chakwera-mcp-bid-to-block-results/ |access-date=2025-09-24 |website=Nation Online |language=en-US}}</ref><ref>{{cite web |title=Dr Chakwera & MCP v MEC case summary |url=https://www.judiciary.mw/sites/default/files/2025-09/Dr%20Chakwera%20%26%20MCP%20v%20MEC%20case%20summary.pdf |website=Judiciary Malawi |date=23 September 2025 |access-date= 24 September 2025}}</ref> although Chakwera later withdrew the case after conceding defeat.<ref>{{Cite web |date=2025-09-25 |title=Chakwera's Final Act of Statesmanship: Drops Court Battle After Conceding Defeat |url=https://www.nyasatimes.com/chakweras-final-act-of-statesmanship-drops-court-battle-after-conceding-defeat/ |access-date=2025-09-25 |work=Nyasa Times |language=en-GB}}</ref>
+
+In the days following the announcement of parliamentary results, at least 83 election petitions were filed by losing candidates in constituencies across the country. These challenges spanned multiple districts, including [[Machinga District|Machinga]], [[Chikwawa District|Chikwawa]], [[Dowa District|Dowa]], and [[Kasungu District|Kasungu]], and contested outcomes in several parliamentary seats. The High Court heard the cases, marking one of the most extensive waves of post-election litigation in Malawi’s recent history.<ref>{{Cite web |last=PASUNGWI |first=JONATHAN |date=2025-10-15 |title=Mec faces 83 court petitions |url=https://mwnation.com/mec-faces-83-court-petitions/ |access-date=2025-10-15 |website=Nation Online |language=en-US}}</ref>
+
+==References==
+{{reflist}}
+
+{{Malawian elections}}
+	
+[[Category:2025 elections in Africa|Malawian general election]]
+[[Category:2025 in Malawi|General election]]
+[[Category:September 2025 in Africa|Malawian general election]]
+[[Category:Parliamentary elections in Malawi]]
+[[Category:Presidential elections in Malawi]]
+[[Category:September 2025 elections]]

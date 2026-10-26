@@ -1,0 +1,505 @@
+{{Short description|General Election held in Malawi on 19 May 2009}}
+{{Infobox election
+| country = Malawi
+| previous_election = 2004 Malawian general election 
+| previous_year = 2004 
+| previous_mps = 
+| election_date = {{Start date|2009|05|19|df=yes}} 
+| next_election = 2014 Malawian general election
+| next_year = 2014
+
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_name = Presidential election
+| registered = 5,894,743
+| turnout = 74.14% ({{increase}} 14.79 [[Percentage point|pp]])
+
+| image1 = Bingu_wa_Mutharika_in_2009.jpg
+| nominee1 = '''{{nowrap|[[Bingu wa Mutharika]]}}'''
+| party1 = Democratic Progressive Party (Malawi)
+| running_mate1 = '''[[Joyce Banda]]'''
+| popular_vote1 = '''2,856,410'''
+| percentage1 = '''65.45%'''
+
+| image2 = John_Tembo.jpg
+| nominee2 = [[John Tembo]]
+| party2 = Malawi Congress Party
+| running_mate2 = [[Brown Mpinganjira]]
+| popular_vote2 = 1,362,441
+| percentage2 = 31.22%
+
+| map_image = 2009 Malawian presidential election - Results by region and district.svg
+| map_caption = Results by [[Regions of Malawi|region]] (left) and [[Districts of Malawi|district]] (right)
+
+| title = [[President of Malawi|President]]
+| before_election = [[Bingu wa Mutharika]]
+| before_party = Democratic Progressive Party (Malawi) 
+| after_election = [[Bingu wa Mutharika]]
+| after_party = Democratic Progressive Party (Malawi)
+| module = {{Infobox legislative election
+| election_name = Legislative election
+| embed = yes
+| seats_for_election = All 193 seats in the [[National Assembly (Malawi)|National Assembly]]
+| majority_seats = 97
+| turnout = 78.01% ({{increase}} 18.60 [[Percentage point|pp]])
+
+| party1 = Democratic Progressive Party (Malawi)
+| leader1 = [[Bingu wa Mutharika]]
+| last_election1 = New
+| seats1 = 113
+| percentage1 = 39.99
+
+| party2 = Malawi Congress Party
+| leader2 = [[John Tembo]]
+| last_election2 = 57
+| seats2 = 27
+| percentage2 = 12.94
+
+| party3 = United Democratic Front (Malawi)
+| leader3 = [[Bakili Muluzi]]
+| last_election3 = 50
+| seats3 = 17
+| percentage3 = 12.92
+
+| party4 = Alliance for Democracy (Malawi)
+| leader4 = 
+| last_election4 = 6
+| seats4 = 1
+| percentage4 = 0.88
+
+| party5 = Maravi People's Party
+| leader5 = 
+| last_election5 = New
+| seats5 = 1
+| percentage5 = 0.40
+
+| party6 = Malawi Forum for Unity and Development
+| leader6 = 
+| last_election6 = 0
+| seats6 = 1
+| percentage6 = 0.16
+
+| party7 = Independents
+| leader7 = –
+| last_election7 = 39
+| seats7 = 32
+| percentage7 = 29.12
+
+| map = 
+| map_caption = Results by constituency
+}}}}}}
+{{Politics of Malawi}}
+
+General elections were held in [[Malawi]] on 19 May 2009. Incumbent President [[Bingu wa Mutharika]] ran for re-election; his main opponent was [[John Tembo]], the president of the [[Malawi Congress Party]] (MCP). Five other candidates also ran.<ref name=Meddling>{{Deprecated archive|url=https://archive.today/20130103031705/http://www.google.com/hostednews/afp/article/ALeqM5iGz_j9HajwVTx01E-LF6m8qGRGQg|title="Malawi president accuses donors of meddling in polls"}}, AFP, 8 May 2009.</ref>  The election was won by Mutharika, who was re-elected to the Presidency with around two-thirds of the vote.<ref>{{cite web |url=https://www.google.com/hostednews/ap/article/ALeqM5jPw2TNoYbBUg8ocqRVXPk-MOnhrgD98B19UG0 |title=Malawi president wins re-election |publisher=Associated Press / [[Google]] |accessdate=2009-05-22 }}{{dead link|date=June 2024|bot=medic}}{{cbignore|bot=medic}}</ref> Mutharika's DPP also won a strong parliamentary majority.<ref name=Control>[http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090525151053569C159994 "Malawi vote gives president control"], Sapa-AP (''IOL''), 25 May 2009.</ref>
+
+==Electoral system==
+Voter registration started in August 2008 and was scheduled to end on 29 November 2008, but on 20 November (by which time 3.5 million voters had been registered) it was announced that registration would be extended into December. This extension was caused by problems related to digital cameras that were necessary to the process.<ref>[http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20081121142211471C858945 "Malawi to extend voter registration"], AFP (''IOL''), 21 November 2008.</ref>
+
+Between 2 February and 6 February, presidential and parliamentary candidates submitted their nomination papers.<ref name=Nyasa>[http://www.thezimbabwean.co.uk/index.php?option=com_content&task=view&id=18795&Itemid=108 "Constitutional crisis on Malawi candidates"] {{webarchive|url=https://web.archive.org/web/20100923161530/http://www.thezimbabwean.co.uk/index.php?option=com_content |date=2010-09-23 }}, ''Nyasa Times'' (''The Zimbabwean''), 19 February 2009.</ref> The official campaigning period began on 17 March and was scheduled to conclude on 17 May. Parliament was dissolved on 20 March, in accordance with the constitution,<ref>[http://www.int.iol.co.za/index.php?set_id=1&click_id=84&art_id=nw20090320090335236C666865 "Malawi paves way for poll"], Sapa-AFP (''IOL''), 20 March 2009.</ref> and subsequently the [[Malawi Electoral Commission]] (MEC) would announce the eligible candidates.<ref name=Intim>{{Deprecated archive|url=https://archive.today/20120731203130/http://www.google.com/hostednews/afp/article/ALeqM5i_iE_OdsAaIzePatS834ECpVIXeA|title="Malawi's former president complains of 'intimidation'"}}, AFP, 22 February 2009.</ref>
+
+==Campaign==
+On 22 October 2008, [[Hetherwick Ntaba]], the Secretary-General of the [[Democratic Progressive Party (Malawi)|Democratic Progressive Party]] (DPP), announced that the DPP national governing council had unanimously endorsed Mutharika as the party's presidential candidate a few days earlier.<ref>[http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20081022115850294C593714 "DPP endorses Mutharika"], AFP (''IOL''), 22 October 2008.</ref> However, Foreign Minister [[Joyce Banda]] said on 16 January 2009 that Mutharika felt the endorsement of the council was inadequate and that he wanted the endorsement of the party's base. Therefore, he sought the backing of the delegates at a DPP convention.<ref>[http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090116124525714C581574 "Malawi leader seeks assurances from his party"], AFP (''IOL''), 16 January 2009.</ref> Later, as the DPP presidential candidate, Mutharika chose Banda as his vice-presidential candidate.<ref>[http://www.int.iol.co.za/index.php?set_id=1&click_id=84&art_id=nw20090517062152198C571749 "Women are ready to stand in Malawi poll"], Sapa-AFP (''IOL''), 17 May 2009.</ref>
+
+[[Bakili Muluzi]], who was designated as the UDF's (United Democratic Front) presidential candidate, previously served two terms as president from 1994 to 2004. According to the constitution, a president is allowed to serve no more than two consecutive five-year terms. Because Muluzi had been out of office since 2004, his supporters argued that the term limit should not apply to him, as it did not restrict nonconsecutive terms if interpreted literally.<ref name=Nyasa/>
+
+Speaking to [[Capital Radio Malawi|Capital Radio]] on 22 February 2009, Muluzi accused the government of using intimidation against his candidacy and warned that such conduct could lead to "problems".<ref name=Intim/> A few days later, he was charged by the Anti-Corruption Bureau with stealing 12 million dollars of aid money; he appeared before a court in Blantyre and was released on bail.<ref>{{Deprecated archive|url=https://archive.today/20120911032438/http://www.google.com/hostednews/afp/article/ALeqM5gXeVqo6PlA-tnSKLJRrbf128zl_Q|title="Malawi ex-president charged with graft"}}, AFP, 26 February 2009.</ref> The Electoral Commission stated he was not eligible to run again, but his supporters are calling for an official court decision instead.<ref>{{cite news| url=http://news.bbc.co.uk/2/hi/africa/7959515.stm | work=BBC News | title=Malawi ex-leader fights poll ban | date=23 March 2009 | accessdate=12 May 2010}}</ref> On 16 May, only three days before the election, the Constitutional Court ruled that Muluzi could not run again.<ref>{{Deprecated archive|url=https://archive.today/20130103035210/http://www.google.com/hostednews/afp/article/ALeqM5gKoHs79XbUJFG_ha2awvm4Fz0IRQ|title="Malawi court dismiss ex-president's bid for office"}}, AFP, 16 May 2009.</ref>
+
+MCP President John Tembo was considered the main opposition candidate, and the MCP formed an electoral alliance with the UDF prior to the election.<ref name=Meddling/> Tembo's vice-presidential candidate was [[Brown Mpinganjira]] of the UDF.<ref>Raphael Tenthani, [http://news.bbc.co.uk/2/hi/africa/3198197.stm "John Tembo: Poised for power?"], BBC News, 14 May 2009.</ref> Observing that the DPP had never participated in an election (it was founded in 2005), Tembo argued that he and the MCP had the experience to govern the country properly: "I belong to the past, I belong to the present and I also belong to the future."<ref name=Close>Raphael Tenthani, [http://www.afriquejet.com/news/africa-news/malawians-go-to-polls-tuesday-in-closest-ever-polls-2009051727821.html "Malawians go to polls Tuesday in closest-ever polls"] {{webarchive|url=https://web.archive.org/web/20090520160717/http://www.afriquejet.com/news/africa-news/malawians-go-to-polls-tuesday-in-closest-ever-polls-2009051727821.html |date=2009-05-20 }}, Pana, 17 May 2009.</ref>
+
+Independent candidate [[James Mbowe Nyondo|James Nyondo]] submitted his nomination papers on 4 February and claims to have sponsored over 120 independent parliamentary candidates by paying the MK 100,000 ($700 USD) nomination fee.  He is the only independent candidate in the 2009 presidential election and has campaigned on the need for a new generation of leadership, a smaller cabinet, and an end to the personal extravagance of the current and previous governments.<ref>[http://www.dailytimes.bppmw.com/article.asp?ArticleID=12090 "Fire deputy ministers says Nyondo"] {{webarchive|url=https://web.archive.org/web/20090214085631/http://dailytimes.bppmw.com/article.asp?ArticleID=12090 |date=2009-02-14 }}, ''The Daily Times'', 10 February 2009</ref><ref>[http://www.dailytimes.bppmw.com/article.asp?ArticleID=12753 "Nyondo slams Bingu over flashy hummers"] {{webarchive|url=https://web.archive.org/web/20090531031509/http://www.dailytimes.bppmw.com/article.asp?ArticleID=12753 |date=2009-05-31 }}, ''The Daily Times'', 10 February 2009</ref><ref>[http://www.nyasatimes.com/national/3279.html "Bingu Blasts Nyondo"] {{webarchive|url=https://web.archive.org/web/20090424074530/http://www.nyasatimes.com/national/3279.html |date=2009-04-24 }}, 20 April 2009</ref>
+
+[[Loveness Gondwe]] of the [[New Rainbow Coalition]] submitted her presidential candidacy on 3 February, becoming the first woman to run for president in Malawi. She stressed the importance of holding a free and fair election and avoiding the kind of post-election turmoil that affected [[Kenya]] and [[Zimbabwe]] in 2008.<ref>[https://web.archive.org/web/20090506005153/http://www.google.com/hostednews/afp/article/ALeqM5iRTl0lhNbStUIXhUj650EOCr3n8g "First Malawi woman seeks to run for president"], AFP, 3 February 2009.</ref>
+
+Observers expected a close election between the two strongest candidates, Mutharika and Tembo. While Tembo enjoyed the united backing of the country's two most established and powerful parties&mdash;the MCP and the UDF&mdash;he faced an incumbent president who had presided over strong economic growth of 8%, and the outcome was considered uncertain.<ref name=Close/>
+
+Mutharika, who was 75 years old at the time of the election, said that he would retire from politics if he lost the election and that he would retire in 2014 if he was successful in winning a second term.<ref name=Close/>
+
+==Conduct==
+On the day of the election, [[Joy Radio]], which is owned by UDF Chairman Bakili Muluzi, was closed by the police after it broadcast a satire that lampooned Mutharika. Two of the station's presenters and a technician were arrested.<ref>[http://en.afrik.com/news12831.html "Malawi: "Joy Radio" station closed by police"] {{Webarchive|url=https://web.archive.org/web/20090528054206/http://en.afrik.com/news12831.html |date=2009-05-28 }}, Afrik.com, 20 May 2009.</ref> Tembo alleged that the government had committed electoral fraud with opposition poll agents being denied access to the vote counting centres. An EU observation team also noted that state television had failed to be neutral during the election campaigns, supporting the government.<ref name="BBC"/>
+
+==Results==
+The Malawi Electoral Commission declared that Bingu wa Mutharika had won the presidential election on 21 May 2009, after 93% of votes had been counted.<ref name="BBC">{{cite news   | title = Malawi president wins re-election|publisher = BBC  | date = 22 May 2009  | url =  http://news.bbc.co.uk/1/hi/world/africa/8062740.stm | accessdate = 22 May 2009}}</ref> Mutharika gained 2.9 million votes with John Tembo, his nearest rival, winning 1.4 million.
+
+===President===
+{{Election results
+|cand1=[[Bingu wa Mutharika]]|vp1=[[Joyce Banda]]|party1=[[Democratic Progressive Party (Malawi)|Democratic Progressive Party]]|votes1=2856410
+|cand2=[[John Tembo]]|vp2=[[Brown Mpinganjira]]|party2=[[Malawi Congress Party]]|votes2=1362441
+|cand3=Kamuzu Walter Chibambo|vp3=Stanley Alex Robert Mnenula|party3=[[People's Transformation Party]]|votes3=34424
+|cand4=Stanley Edingtone Masauli|vp4=Sophie Kuthyola|party4=[[Republican Party (Malawi)|Republican Party]]|votes4=32926
+|cand5=Loveness Gondwe|vp5=[[Beatrice Roseby Mwale]]|party5=New Rainbow Coalition|votes5=31421
+|cand6=[[James Mbowe Nyondo]]|vp6=Vivian Mark Thunyani|party6=Independent|votes6=27046
+|cand7=[[Dindi Gowa Nyasulu]]|vp7=Chinkhokwe Tyson Banda|party7=[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes7=19849
+|invalid=5925
+|electorate=5894743
+|source=<ref>{{Cite web |title=Presidential Polling Results for 2009 Elections |url=https://mec.org.mw/wp-content/uploads/2018/11/PRESIDENTIAL-SUMMARY-RESULTS-FOR-2009-ELECTIONS.pdf |website=Malawi Electoral Commission |format=PDF}}</ref>
+}}
+
+===National Assembly===
+
+In the National Assembly elections, the DPP won 114 seats (though the election of the vice president vacated one of those), obtaining a strong majority in the 193-seat National Assembly, while the MCP trailed distantly with 26 seats and the UDF won only 17.<ref name=Control/> Mutharika and the DPP won an overwhelming victory in northern Malawi, but also performed well in the central and southern regions, although those regions have been historically dominated by the MCP and UDF respectively. Some analysts suggested that this election marked a departure from Malawi's traditional voting patterns, which are heavily influenced by region.<ref>Felix Mponda, {{Deprecated archive|url=https://archive.today/20130124210406/http://www.google.com/hostednews/afp/article/ALeqM5jRSnd7vZoTxq8zusgwDFkvX7pZqw|title="Malawi vote marks new era: analysts"}}, AFP, 21 May 2009.</ref> Unlike Tembo, Muluzi accepted the official results of the election.<ref name=Control/> 32 independent MPs were elected, though many of those started joining the DPP after the election; one seat was won by the [[Maravi People's Party]] (MPP), the [[Alliance for Democracy (Malawi)|Alliance for Democracy]] (Aford) and the [[Malawi Forum for Unity and Development]] (MAFUNDE). In the Blantyre City Centre constituency, the election was postponed due to the death of a candidate, a by-election was held in August 2009, which was won by an independent candidate.<ref>{{cite web|url=http://english.people.com.cn/90001/90777/90855/6669733.html |title=Malawi's new parliament sworn in |publisher=People's Daily Online |date=2009-06-02 |accessdate=2020-02-05}}</ref>
+
+{{Election results
+|image=[[File:Malawi Parliament 2009.svg]]
+|party1=[[Democratic Progressive Party (Malawi)|Democratic Progressive Party]]|votes1=1739202|seats1=113|sc1=New
+|party2=[[Malawi Congress Party]]|votes2=562859|seats2=27|sc2=–30
+|party3=[[United Democratic Front (Malawi)|United Democratic Front]]|votes3=562025|seats3=17|sc3=–33
+|party4=[[People's Progressive Movement (Malawi)|People's Progressive Movement]]|votes4=48389|seats4=0|sc4=–7
+|party5=[[New Republican Party]]|votes5=43009|seats5=0|sc5=New
+|party6=[[Alliance for Democracy (Malawi)|Alliance for Democracy]]|votes6=38427|seats6=1|sc6=–5
+|party7=New Rainbow Coalition|votes7=30847|seats7=0|sc7=New
+|party8=Congress of Democrats|votes8=19432|seats8=0|sc8=New
+|party9=[[Maravi People's Party]]|votes9=17609|seats9=1|sc9=New
+|party10=[[People's Transformation Party]]|votes10=8498|seats10=0|sc10=–1
+|party11=[[Malawi Forum for Unity and Development]]|votes11=6831|seats11=1|sc11=+1
+|party12=[[Republican Party (Malawi)|Republican Party]]|votes12=4111|seats12=0|sc12=–15
+|party13=[[Malawi Democratic Party]]|votes13=456|seats13=0|sc13=0
+|party14=National Patriotic Front|votes14=438|seats14=0|sc14=New
+|party15=[[National Unity Party (Malawi)|National Unity Party]]|votes15=284|seats15=0|sc15=0
+|party16=People's Popular Front|votes16=128|seats16=0|sc16=New
+|party17=[[Congress for National Unity]]|votes17=92|seats17=0|sc17=–1
+|party18=Independents|votes18=1266681|seats18=32|sc18=–7
+|row19=Vacant|seats19=1
+|invalid=211074
+|total_sc=0
+|electorate=5846264
+|source=<ref>{{Cite web |title=Parliamentary Election |url=https://mec.org.mw/wp-content/uploads/2018/11/Parliamentary-Results-@29May09.pdf |website=Malawi Electoral Commission |format=PDF}}</ref>
+}}
+
+====Elected MPs====
+A partial list of elected MPs from 156 constituencies:<ref>{{cite web
+ |url=http://www.africanelections.org/malawi/results.php
+ |title=Malawi Election 2009 Results
+ |work=African Elections Project
+ |accessdate=2025-02-17
+ |archive-date=2013-11-04
+ |archive-url=https://web.archive.org/web/20131104183516/http://www.africanelections.org/malawi/results.php
+ |url-status=dead
+ }}</ref>
+{|Class="wikitable sortable"
+|-
+!MP!!Party!!Constituency!!Region
+|-
+|[[Kezzie Kasambala Msukwa]]||IND||Chitipa East||Northern
+|-
+|[[Gertrude Hendrina Maseko]]||DPP||Balaka North||Southern
+|-
+|[[Nicholas Harry Dausi]]||IND||Mwanza Central||Southern
+|-
+|[[Paul Lackson Zakaliya Chibingu]]||DPP||Mwanza West||Southern
+|-
+|[[Felix Njawala]]||IND||Blantyre Kabula||Southern
+|-
+|[[Jeffrey Ntelemuka]]||DPP||Blantyre City South-East||Southern
+|-
+|[[Henry Mussa]]||DPP||Chiradzulu East||Southern
+|-
+|[[Margaret Roka Mauwa]]||DPP||Chiradzulu North||Southern
+|-
+|[[Eunice Kazembe]]||DPP||Chiradzulu South||Southern
+|-
+|[[George Namatumbo]]||DPP||Chiradzulu West||Southern
+|-
+|[[Clement Terence Chiwaya]]||UDF||Mangochi Central||Southern
+|-
+|[[Fraser Nihorya]]||DPP||Mulanje Limbuli||Southern
+|-
+|[[Stephen Namacha]]||DPP||Mulanje North||Southern
+|-
+|[[Richie Bizwick Muheya]]||DPP||Mulanje South||Southern
+|-
+|[[Patricia Annie Kaliati]]||DPP||Mulanje West||Southern
+|-
+|[[Geoffrey Henock Mbuzi]]||DPP||Ntchisi North-East||Central
+|-
+|[[Albert G.M. Doza Thindwa]]||DPP||Rumphi East||Northern
+|-
+|[[Prof. Moses C. Chirambo]]||DPP||Rumphi Central||Northern
+|-
+|[[Austin Jatula Mkandawire]]||DPP||Rumphi West||Northern
+|-
+|[[Tasokwa Caseby Msiska]]||DPP||Rumphi North||Northern
+|-
+|[[Olivia Anita Thundu]]||IND||Likoma Islands||Northern
+|-
+|[[Chimunthu Banda]]||DPP||Nkhotakota North||Central
+|-
+|[[Daniel Liwimbi]]||DPP||Nkhotakota North-East||Central
+|-
+|[[Edwin Banda]]||IND||Nkhotakota Central||Central
+|-
+|[[Cassim Chilumpha Dr.]]||IND||Nkhotakota South||Central
+|-
+|[[Agnes Mandevu M. Chatipwa]]||IND||Nkhotakota South East||Central
+|-
+|[[Chimango Chipimpha Mughogho]]||IND||Chitipa South||Northern
+|-
+|[[Luwi Alinuwila Msongole]]||DPP||Chitipa Central||Northern
+|-
+|[[Aladin Nixon Masebo]]||DPP||Chitipa North||Northern
+|-
+|[[Godfrey Mudulansi Munkhondya]]||IND||Chitipa Wenya||Northern
+|-
+|[[Vincent Winstone Ghambi]]||DPP||Karonga North||Northern
+|-
+|[[Beatrice Kankhonde Mwangonde]]||DPP||Karonga North West||Northern
+|-
+|[[Cornelius Thomson Mwalwanda]]||IND||Karonga Central||Northern
+|-
+|[[Khwauli Msiska]]||AFORD||Karonga Nyungwe||Northern
+|-
+|[[Chembe Glad Munthali]]||DPP||Karonga South||Northern
+|-
+|[[Peter Nelson Mwanza]]||DPP||Mzuzu City||Northern
+|-
+|[[Goodall Edward Gondwe]]||DPP||Mzimba North||Northern
+|-
+|[[Catherine Gotani Hara]]||DPP||Mzimba North East||Northern
+|-
+|[[Billy Kaunda]]||IND||Mzimba West||Northern
+|-
+|[[Paul Shawa]]||IND||Mzimba South||Northern
+|-
+|[[Donton Samuel Mkandawire|Donton Samuel Job Mkandawire]]||DPP||Mzimba Central||Northern
+|-
+|[[Rev. Christopher S. Mzomera Ngwira]]||NARC||Mzimba Hora||Northern
+|-
+|[[Dr Bofomo Immanuel Nyirenda]]||DPP||Mzimba Luwelezi||Northern
+|-
+|[[Patrick Akimu Mwanza]]||DPP||Mzimba Solora||Northern
+|-
+|[[Abbie Marambika Shaba]]||DPP||Mzimba East||Northern
+|-
+|[[Khumbo Hastings Kachali]]||DPP||Mzimba South West||Northern
+|-
+|[[Rabson Chihaula Shaba]]||DPP||Mzimba South East||Northern
+|-
+|[[Ephraim Mganda Chiume]]||DPP||Nkhata-Bay North||Northern
+|-
+|[[Symon Vuwa Kaunda]]||DPP||Nkhata-Bay Central||Northern
+|-
+|[[Grace Chiumia]]||DPP||Nkhata-Bay West||Northern
+|-
+|[[David Yohane Kaweche]]||DPP||Nkhata-Bay North West||Northern
+|-
+|[[David Kapenyela Mphande]]||DPP||Nkhata-Bay South East||Northern
+|-
+|[[Etta Banda|Etta Elizabeth Banda]]||DPP||Nkhata-Bay South||Northern
+|-
+|[[McJones Mzondi Mandala Shaba]]||DPP||Kasungu North||Central
+|-
+|[[Grenner Nkhata]]||DPP||Kasungu North North-East||Central
+|-
+|[[Otria Moyo Jere]]||DPP||Kasungu West||Central
+|-
+|[[Moses Arthur Chingayipe Mtegha]]||DPP||Kasungu North-West||Central
+|-
+|[[Vasco Mtunduwatha Chimbalu]]||IND||Kasungu South||Central
+|-
+|[[Bokosi G Khamba]]||DPP||Kasungu South East||Central
+|-
+|[[Grenenger K. Msulira Banda]]||DPP||Kasungu East||Central
+|-
+|[[Ken Edward Kandodo]]||DPP||Kasungu Central||Central
+|-
+|[[Eugustine Gracewell Mtendere]]||DPP||Kasungu North East||Central
+|-
+|[[Victor Baudala sanjeni Songazaudzu]]||DPP||Ntchisi East||Central
+|-
+|[[Jermoth Ulemu Chilapondwa]]||DPP||Ntchisi South||Central
+|-
+|[[Herbert Josiya Bimphi]]||DPP||Ntchisi North||Central
+|-
+|[[Bauleni Jimmy Manna]]||DPP||Dowa East||Central
+|-
+|[[Hastings Petros Chitsamba]]||DPP||Dowa South-East||Central
+|-
+|[[Leckford Thotho Mwanza]]||DPP||Dowa North-East||Central
+|-
+|[[Ewart Cara Gawanani]]||DPP||Dowa Ngala||Central
+|-
+|[[Jean Alfazema Nachika Kalilani]]||DPP||Dowa Central||Central
+|-
+|[[Abel Kayembe]]||IND||Dowa West||Central
+|-
+|[[Benjamin Chikusa]]||IND||Dowa North||Central
+|-
+|[[Yona Kamphamtengo]]||MCP||Salima North||Central
+|-
+|[[Benjamini Benzani Mangira]]||DPP||Salima Central||Central
+|-
+|[[Uladi Mussa]]||MPP||Salima South||Central
+|-
+|[[Killiot Kufuna]]||MCP||Salima South-East||Central
+|-
+|[[Deriah Kankhwani]]||DPP||Salima North-West||Central
+|-
+|[[Rachel Zulu Mazombwe]]||IND||Mchinji North||Central
+|-
+|[[Alex Chitete]]||MCP||Mchinji North-East||Central
+|-
+|[[Ellen Thokozani Solomoni Chisale]]||DPP||Mchinji East||Central
+|-
+|[[Theresa Gloria Mwale]]||DPP||Mchinji West||Central
+|-
+|[[Jerome Gervazio Waluza]]||IND||Mchinji South||Central
+|-
+|[[Francis Leobin Mussa Banda]]||DPP||Mchinji South-West||Central
+|-
+|[[Patrick Zebron Chilondola]]||MCP||Dedza North||Central
+|-
+|[[Sosten Gwengwe]]||MCP||Dedza Central||Central
+|-
+|[[Clement Claude Mlombwa]]||MCP||Dedza South-West||Central
+|-
+|[[Wodala Alekeni Menyani]]||MCP||Dedza North-West||Central
+|-
+|[[Hyacinta Palingana Chikaonda]]||DPP||Dedza East||Central
+|-
+|[[Phllipo Chinkhondo]]||MCP||Dedza West||Central
+|-
+|[[McSteyn Swithin Mkomba]]||MCP||Dedza Central-East||Central
+|-
+|[[John Zenas Ungapake Tembo]]||MCP||Dedza South||Central
+|-
+|[[Everton Herbert Chimulirenji]]||DPP||Ntcheu North-East||Central
+|-
+|[[Stevin Stafford Kamwendo]]||DPP||Ntcheu Bwanje North||Central
+|-
+|[[Grandson Lucious Kanyumba]]||DPP||Ntcheu Bwanje South||Central
+|-
+|[[Jones Vincent Chingola]]||DPP||Ntcheu Central||Central
+|-
+|[[Damson Chimalira]]||DPP||Ntcheu South||Central
+|-
+|[[Shadreck Assan Lipande]]||DPP||Ntcheu North||Central
+|-
+|[[Chikumbutso John Hiwa]]||DPP||Ntcheu West||Central
+|-
+|[[Christina Winnie Chiwoko]]||DPP||Lilongwe Mapuyu North||Central
+|-
+|[[Joseph Njovuyalema]]||MCP||Lilongwe Mapuyu South||Central
+|-
+|[[Bazilio Lunia Titus Malipa]]||MCP||Lilongwe North||Central
+|-
+|[[Vitus Gonamtunda Dzoole Mwale]]||MCP||Lilongwe Msozi South||Central
+|-
+|[[Godfrey Kamanya]]||IND||Lilongwe Msozi North||Central
+|-
+|[[Maureen Katani Bondo]]||MCP||Lilongwe Kumachenga||Central
+|-
+|[[Lefani Maxwell Thyolera]]||MCP||Lilongwe North-East||Central
+|-
+|[[Edwin Bhagwanji]]||DPP||Lilongwe City West||Central
+|-
+|[[Joyce A. Banda]]||IND||Lilongwe Mpenu Nkhoma||Central
+|-
+|[[Makala Watson Ngozo]]||MCP||Lilongwe Mpenu||Central
+|-
+|[[Gwengwe Alfred Willard]]||MCP||Lilongwe South East||Central
+|-
+|[[Ezakiel Peter Ching'oma]]||MCP||Lilongwe East||Central
+|-
+|[[Shadreck Jonasi]]||DPP||Lilongwe City Central||Central
+|-
+|[[Lobin Lowe]]||MCP||Lilongwe Central||Central
+|-
+|[[Ishmail Fillimon Chafukira]]||MCP||Lilongwe North-West||Central
+|-
+|[[Jolly Saweta Dyson Kalelo]]||IND||Lilongwe City North||Central
+|-
+|[[Jean Muonaowuza Sendeza]]||MCP||Lilongwe South West||Central
+|-
+|[[Agnes Nandau Penumlungu]]||DPP||Lilongwe City South East||Central
+|-
+|[[Wells John Adam]]||DPP||Lilongwe City South West||Central
+|-
+|[[Peter Stanley Patisi Chalera]]||MCP||Lilongwe Msinja North||Central
+|-
+|[[Lingson Kambewa W. Belekanyama]]||MCP||Lilongwe Msinja South||Central
+|-
+|[[Patson Kachingwe Mthyoka]]||MCP||Lilongwe South||Central
+|-
+|[[Yaumi Aufi Mpaweni]]||UDF||Balaka Central East||Southern
+|-
+|[[Nasrin Pillane]]||DPP||Balaka West||Southern
+|-
+|[[George Nnensa]]||Mafunde||Balaka South||Southern
+|-
+|[[Ibrahim Imed Matola]]||UDF||Mangochi North||Southern
+|-
+|[[Alfred Mkwanda Mwechumu]]||UDF||Mangochi North-East||Southern
+|-
+|[[Hassan Ailalie Ajinga]]||UDF||Mangochi Malombe||Southern
+|-
+|[[Abukakar Mbaya]]||UDF||Mangochi East||Southern
+|-
+|[[Yusuf Billiati Matumula]]||IND||Mangochi South||Southern
+|-
+|[[Asibu Shamil]]||UDF||Mangochi South West||Southern
+|-
+|[[Mahmudu John Lali]]||UDF||Mangochi Nkungulu||Southern
+|-
+|[[Stephen Okoma Atani Aipira]]||IND||Mangochi West||Southern
+|-
+|[[Ralph Pachalo Jooma]]||DPP||Mangochi Monkey Bay||Southern
+|-
+|[[Makumba Abdallah Shabani]]||IND||Mangochi Lutende||Southern
+|-
+|[[Moffat Malisie Yakiti]]||UDF||Mangochi Masongola||Southern
+|-
+|[[Atupele Muluzi]]||UDF||Machinga North-East||Southern
+|-
+|[[Shaibu Kaliati]]||UDF||Machinga Central||Southern
+|-
+|[[Ernest Yahaya]]||UDF||Machinga Central East||Southern
+|-
+|[[Kenneth Thomas Kamu]]||UDF||Machinga East||Southern
+|-
+|[[Harry Fabiano Kamba]]||UDF||Machinga South||Southern
+|-
+|[[Mwalone Jangiya]]||UDF||Machinga Likwenu||Southern
+|-
+|[[Rev. Wilson Ndomondo]]||UDF||Machinga South East||Southern
+|-
+|[[Jenipher Deborah Chilunga]]||DPP||Zomba Nsondole||Southern
+|-
+|[[Annie Lemani Singani Anambewe]]||DPP||Zomba Thondwe||Southern
+|-
+|[[Lonie Phiri Chijere Chirwa]]||DPP||Zomba Chingale||Southern
+|-
+|[[Grace Zinenani Maseko]]||DPP||Zomba Changalume||Southern
+|-
+|[[Enock Elias Luka]]||DPP||Zomba Lisanjala||Southern
+|-
+|[[Joyce Banda]]||DPP||Zomba Malosa||Southern
+|-
+|[[Ted Salule Masangwi]]||DPP||Zomba Ntonya||Southern
+|-
+|[[Yunus Mussa]]||DPP||Zomba Central||Southern
+|-
+|[[MacRonald John Table Khwepeya]]||IND||Zomba Likangala||Southern
+|-
+|[[Peter Chizalo Mangulenje]]||IND||Zomba Chisi||Southern
+|-
+|[[Reen Bessie Kachere]]||DPP||Neno South||Southern
+|-
+|[[Gladys Benson Tembo]]||DPP||Neno North||Southern
+|}
+
+==Aftermath==
+Mutharika and Joyce Banda were respectively sworn in as president and vice-president on 22 May 2009. The MCP boycotted the event, but Muluzi was present.<ref>{{Deprecated archive|url=https://archive.today/20120630082337/http://www.google.com/hostednews/afp/article/ALeqM5jTE0bSgpcK02zKYvOI3AsFcS6gpQ|title="Mutharika starts second term as Malawi president"}}, AFP, 22 May 2009.</ref> Some in the MCP called for the party to recognize Mutharika's victory and for Tembo to resign as MCP president. Tembo refused and vowed to legally challenge the results.<ref>[http://www.radionetherlands.nl/news/international/6312453/Malawi-opposition-leader-refuses-to-step-down "Malawi opposition leader refuses to step down"] {{Webarchive|url=https://web.archive.org/web/20090527140043/http://www.radionetherlands.nl/news/international/6312453/Malawi-opposition-leader-refuses-to-step-down |date=2009-05-27 }}, Radio Netherlands, 24 May 2009.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20091107204708/http://www.electionconference.org/ International academic conference on the 2009 General Elections]
+
+{{Malawian elections}}
+
+[[Category:Presidential elections in Malawi]]
+[[Category:Parliamentary elections in Malawi]]
+[[Category:2009 elections in Africa|Malawi]]
+[[Category:2009 in Malawi|General]]
+[[Category:May 2009 in Africa|Malawi]]

@@ -1,0 +1,1230 @@
+{{Short description|none}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox election
+| country = Poland
+| type = presidential
+| previous_election = 2015 Polish presidential election
+| previous_year = 2015
+| election_date = 28 June 2020 (first round)<br />{{nowrap|12 July 2020 (second round)}}
+| turnout = 64.51% (first round) {{increase}}15.55[[percentage points|pp]] <br />{{nowrap|68.18% (second round)}} {{increase}}12.84[[percentage points|pp]]
+| next_election = 2025 Polish presidential election
+| next_year = 2025
+| image1 = {{CSS image crop|Image = President_of_Poland_Andrzej_Duda_Full_Resolution_(cropped).jpg|bSize = 195|cWidth = 115|cHeight = 145|oTop = 15|oLeft = 47}}
+| nominee1 = '''[[Andrzej Duda]]'''
+| party1 = [[Independent politician|Independent]]{{efn|name=nb|The President of Poland traditionally resigns from party membership after taking office. Although Duda was officially an independent, his campaign was endorsed and funded by [[Law and Justice]].}}
+| colour1 = 073A76
+| popular_vote1 = '''10,440,648'''
+| percentage1 = '''51.03%'''
+| image2 = {{CSS image crop|Image = Rafał Trzaskowski 22 May 2020.jpg|bSize = 125|cWidth = 115|cHeight = 145|oTop = 0|oLeft = 1}}
+| nominee2 = [[Rafał Trzaskowski]]<br><small>(replacing [[Małgorzata Kidawa-Błońska]]){{efn|[[Małgorzata Kidawa-Błońska]] was initially registered as the [[Civic Platform]] candidate for the first election on May 10th. Following challenges regarding the election and its subsequent delay, Kidawa resigned from her candidacy 5 days later on May 15th, allowing her party to nominate [[Rafał Trzaskowski]] instead.<ref name="rmf24.pl">{{cite web|title=Małgorzata Kidawa-Błońska rezygnuje ze startu w wyborach prezydenckich|url=https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-malgorzata-kidawa-blonska-rezygnuje-ze-startu-w-wyborach-pre,nId,4497121|website=rmf24.pl|language=pl|access-date=2020-05-15}}</ref>}}</small>
+| party2 = Civic Platform
+| popular_vote2 = 10,018,263
+| percentage2 = 48.97%
+| map_image = {{Switcher
+|[[File:2020_Polish_presidential_election_-_1st_round_results.svg|300px]]
+|First round results by powiat
+|[[File:2020 Polish presidential election - 2nd round results.svg|300px]]
+|Second round results by powiat
+|default=2
+}}
+| title = [[President of Poland|President]]
+| before_election = [[Andrzej Duda]]
+| before_party = Independent politician
+| after_election = [[Andrzej Duda]]
+| after_party = Independent politician
+}}
+
+Presidential elections were held in [[Poland]] on 28 June 2020. As no candidate received a majority of the vote, a second round was held on 12 July, in which incumbent president [[Andrzej Duda]], running with the support of the incumbent government of the [[Law and Justice (Poland)|Law and Justice]] (PiS) party,<ref>{{cite news |last1=Strybel |first1=Robert |title=Poland to elect next president on June 28|url=http://ampoleagle.com/poland-to-elect-next-president-on-june-p14491-96.htm |agency=ampoleagle.com |date=10 June 2020}}</ref> faced off against [[Civic Platform]] vice-chairman and [[Mayor of Warsaw]] [[Rafał Trzaskowski]]. In the second round Duda was re-elected for a second term with 51% of the vote, becoming the first incumbent to win re-election since [[Aleksander Kwaśniewski]] in [[2000 Polish presidential election|2000]].
+
+The first round of voting was due to be held on 10 May 2020, but was postponed due to the [[COVID-19 pandemic in Poland]]. On 6 May 2020 the [[Agreement (political party)|Agreement]] party, which was in a governing alliance with their senior alliance partner [[Law and Justice (Poland)|Law and Justice]] (PiS) party and was opposed to pursuing the original election date, reached an arrangement to set new dates for the election. The following day, the PKW declared that the election would not take place on 10 May 2020. On 3 June 2020, the [[Marshal of the Sejm]], [[Elżbieta Witek]], ordered the first round of the election to be held on 28 June 2020 and scheduled the second round on 12 July 2020.<ref>{{Cite web|title=Wybory prezydenckie odbędą się 28 czerwca - podała marszałek Sejmu|url=https://www.msn.com/pl-pl/wiadomosci/polska/wybory-prezydenckie-odb%C4%99d%C4%85-si%C4%99-28-czerwca-poda%C5%82a-marsza%C5%82ek-sejmu/ar-BB14XLmR?ocid=msedgntp|access-date=2020-06-03|website=msn.com}}</ref><ref name="TVN24_elections_date">{{cite news|date=2 June 2020|title=Marszałek Sejmu Elżbieta Witek podała termin wyborów prezydenckich|website=TVN24.pl|url=https://tvn24.pl/polska/wybory-prezydenckie-2020-nowy-termin-podany-przez-marszalek-sejmu-elzbiete-witek-4601061|quote=Marszałek Sejmu Elżbieta Witek poinformowała w środę, że wybory prezydenckie w 2020 roku odbędą się 28 czerwca.}}</ref>
+
+{{TOC limit}}
+
+Duda's victory marked the sixth national election in a row where the right-wing PiS party defeated the opposition centrist and center-left forces.<ref>{{cite news |title=A bitterly divided Poland narrowly reelects right-wing President Andrzej Duda |url=https://www.cbsnews.com/news/poland-andrzej-duda-bitterly-divided-polish-nation-narrowly-reelects-conservative-president/ |date=July 14, 2020|author1=Anna Noryskiewicz}}</ref>
+
+==Electoral system==
+The President of Poland is directly elected using a [[two-round system]] for a five-year term, with a two-term limit. [[Andrzej Duda]]'s first term expired on 6 August 2020 when he reaffirmed his oath of office before the [[National Assembly (Poland)|National Assembly]], a joint session of the [[Sejm]] and [[Senate of Poland|Senate]] and began his second term.
+
+Pursuant to the provisions of the [[Constitution of Poland|Constitution]], the president must be elected by an absolute majority of valid votes. If no candidate succeeds in passing this threshold in the first round, a second round of voting is contested between with the two candidates who received the largest shares of the vote.
+
+In order to be registered to contest the election, a candidate must be a Polish citizen, be at least 35 years old on the day of the first round of the election, and have collected at least 100,000 voters' signatures by 10 June 2020 at midnight.<ref>{{Cite web|title=Wybory 2020 - kalendarz wyborczy. Dwa dni na zgłoszenie komitetu, 100 tys. podpisów w tydzień|url=https://wiadomosci.gazeta.pl/wiadomosci/7,143907,25999332,wybory-2020-kalendarz-wyborczy-dwa-dni-na-zgloszenie-komitetu.html|access-date=2020-06-08|website=gazetapl|date=3 June 2020 |language=pl}}</ref>
+
+Polls opened on election day at 07:00 [[Central European Summer Time|CEST]] and closed at 21:00 [[Central European Summer Time|CEST]] ([[Coordinated Universal Time|UTC]]+2).<ref name=":2">{{Cite web|url=https://wybory.gov.pl/prezydent20200628/|title=Wybory Prezydenta Rzeczypospolitej Polskiej w 2020 r.|website=wybory.gov.pl}}</ref>
+
+==COVID-19, election timing and controversy==
+{{see also|COVID-19 pandemic in Poland|Impact of the COVID-19 pandemic on politics}}
+The election was originally scheduled for 10 May 2020, which caused extreme political controversy related to the COVID-19 pandemic. Many candidates,<ref>{{cite web|url=https://www.onet.pl/?srcc=ucs&pid=970a231f-9f46-4fa0-9dc0-8bd64f94fee5&sid=b177a2c9-166f-4113-9b28-185bbe554807|title=Małgorzata Kidawa-Błońska: To nie jest czas na kampanię i wybory|date=23 March 2020|website=onet.pl (polish)|url-status=live|archive-url=https://web.archive.org/web/20220523221026/https://www.onet.pl/?srcc=ucs&pid=970a231f-9f46-4fa0-9dc0-8bd64f94fee5&sid=b177a2c9-166f-4113-9b28-185bbe554807|archive-date=23 May 2022|access-date=18 April 2020}}</ref> constitutionalists<ref>{{cite web|url=https://wyborcza.pl/7,75398,25799457,prof-chmaj-dzis-nie-da-sie-przeprowadzic-wyborow-bezpiecznych.html|title=Prof. Chmaj: Dziś nie da się przeprowadzić wyborów bezpiecznych dla obywateli|date=18 March 2020|website=wyborcza.pl (polish)|url-status=live|archive-url=https://archive.today/20200418200845/https://wyborcza.pl/7,75398,25799457,prof-chmaj-dzis-nie-da-sie-przeprowadzic-wyborow-bezpiecznych.html|archive-date=18 April 2020|access-date=18 April 2020}}</ref> and even politicians from the ruling coalition<ref>{{cite web |url=https://www.reuters.com/article/us-health-coronavirus-poland-election/spat-over-presidential-election-tests-polands-ruling-coalition-idUSKBN21L0N7 |title=Spat over presidential election tests Poland's ruling coalition |author1=Anna Koper  |author2=Marcin Goclowski |date=3 April 2020 |publisher=[[Reuters]] |url-status=live |archive-url=https://archive.today/20200418201256/https://www.reuters.com/article/us-health-coronavirus-poland-election/spat-over-presidential-election-tests-polands-ruling-coalition-idUSKBN21L0N7 |archive-date=18 April 2020 |access-date=18 April 2020}}</ref> criticized the government's plan of holding the election as originally scheduled during the pandemic. As a compromise, the [[Agreement (political party)|Agreement]] political party proposed lengthening the president's term by two years, which was supported by the [[Ministry of Health (Poland)|Minister of Health]], [[Łukasz Szumowski]].<ref>{{cite web|url=https://wiadomosci.onet.pl/kraj/wybory-prezydenckie-2020-szumowski-o-propozycji-gowina-bardzo-dobra/glwkyry|title=Szumowski o przedłużeniu kadencji prezydenta: bardzo dobra propozycja|date=2020-04-15|website=Onet Wiadomości|language=pl|access-date=2020-04-20}}</ref> This was rejected by the opposition. The main opposition party, [[Civic Platform]], wanted the election to be held in May 2021.<ref>{{cite news|url=https://tvn24.pl/wybory-prezydenckie-2020/wybory-prezydenckie-2020-borys-budka-i-koalicja-obywatelska-proponuje-nowy-termin-wyborow-4560384|title=Koalicja Obywatelska proponuje wybory prezydenckie za rok|website=TVN24|access-date=2020-04-20}}</ref> The ruling conservative party [[Law and Justice (Poland)|Law and Justice]] also wished to change the electoral rules<ref>{{cite web|url=https://oko.press/pis-pozbawil-uprawnien-pkw-hermelinski-to-wola-o-pomste-do-nieba/|title=PiS pozbawił uprawnień PKW. Hermeliński: "To woła o pomstę do nieba"|author1=Mariusz Jałoszewski |author2=Agata Szczęśniak|date=17 April 2020|website=oko.press (polish)|url-status=live|archive-url=https://archive.today/20200418201936/https://oko.press/pis-pozbawil-uprawnien-pkw-hermelinski-to-wola-o-pomste-do-nieba/|archive-date=18 April 2020|access-date=18 April 2020}}</ref> and to organize the election by postal voting only. Changing election rules less than six months prior to voting was ruled to be unconstitutional by the [[Constitutional Tribunal (Poland)|Constitutional Tribunal]] in 2011.<ref>{{Cite web|url=http://dziennikustaw.gov.pl/DU/2011/s/149/889|title=Dziennik Ustaw 2011 r. nr 149, poz. 889|website=dziennikustaw.gov.pl}}</ref> Voting only by post is considered unconstitutional by some including Polish [[Supreme Court of Poland|Supreme Court]] in a non-binding opinion.<ref>{{cite web|url=https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/kodeks-wyborczy-17679859|title=USTAWA z dnia 5 stycznia 2011 r. Kodeks wyborczy|date=31 March 2020|website=sip.lex.pl|url-status=live|archive-url=https://archive.today/20200418203531/https://sip.lex.pl/akty-prawne/dzu-dziennik-ustaw/kodeks-wyborczy-17679859|archive-date=18 April 2020|access-date=18 April 2020}}</ref><ref>{{cite web|url=https://www.dziennikwschodni.pl/polityka/w-hermelinski-zmiany-w-kodeksie-wyborczym-mozna-wprowadzac-najpozniej-na-6-miesiecy-przed-wyborami,n,1000263466.html|title=W. Hermeliński: Zmiany w Kodeksie Wyborczym można wprowadzać najpóźniej na 6 miesięcy przed wyborami|date=29 March 2020|website=dziennikwschodni.pl|url-status=live|archive-url=https://web.archive.org/web/20200329170034/https://www.dziennikwschodni.pl/polityka/w-hermelinski-zmiany-w-kodeksie-wyborczym-mozna-wprowadzac-najpozniej-na-6-miesiecy-przed-wyborami,n,1000263466.html|archive-date=29 March 2020|access-date=18 April 2020}}</ref><ref>{{cite web|url=https://www.senat.gov.pl/download/gfx/senat/pl/senatinicjatywypliki/8143/4/099_sn.pdf|title=Opinia Sądu Najwyższego na temat ustawy o szczególnych zasadach przeprowadzania wyborów powszechnych na Prezydenta Rzeczypospolitej Polskiej zarządzonych w 2020 r.|access-date=28 April 2020|archive-date=1 October 2020|archive-url=https://web.archive.org/web/20201001173714/https://www.senat.gov.pl/download/gfx/senat/pl/senatinicjatywypliki/8143/4/099_sn.pdf|url-status=dead}}</ref>
+
+===Email requests by Poczta Polska for private data===
+At 02:26 early in the morning<ref name="dulkiewicz_news">{{cite news|title = (Tweet)|quote = O 2.26 przyszedł anonimowy e-mail o treści którą załączam poniżej. Składam zawiadomienie o możliwości popełnienia przestępstwa do prokuratury... Nie będę uczestniczyć w łamaniu prawa!|url = https://twitter.com/Dulkiewicz_A/status/1253285540625100800|date = 23 April 2020|website = Twitter|archive-url = https://archive.today/20200423195255/https://twitter.com/Dulkiewicz_A/status/1253285540625100800|url-status = live|archive-date = 23 April 2020|access-date = 23 April 2020}}</ref><ref name="sosnowiec_president_news">{{cite news|title = (Tweet)|quote = W środku nocy o godz. 2:26 otrzymaliśmy maila z podpisem "Poczta Polska" z wnioskiem o udostępnienie danych blisko 170 tys. Sosnowiczan. Zgłaszam sprawę do Prokuratory czy nie mamy do czynienia z próbą wyłudzenia danych osobowych.|url = https://twitter.com/ChecinskiPrez/status/1253281702266449920|date = 23 April 2020|website = Twitter|archive-url = https://archive.today/20200423195010/https://twitter.com/ChecinskiPrez/status/1253281702266449920|url-status = live|archive-date = 23 April 2020|access-date = 23 April 2020}}</ref> on 23 April, every Polish mayor and city council president<ref name="TVN24_news">{{cite news|title = "Od rana naradzamy się, co z tym zrobić", "kieruję sprawę do prokuratury". Samorządy o mailach od Poczty Polskiej|url = https://tvn24.pl/wybory-prezydenckie-2020/wybory-prezydenckie-2020-samorzady-o-mailach-od-poczty-polskiej-zapowiadaja-zawiadomienia-do-prokuratury-4563882|date = 23 April 2020|website = TVN24 (polish media)|archive-url = https://archive.today/20200423201507/https://tvn24.pl/wybory-prezydenckie-2020/wybory-prezydenckie-2020-samorzady-o-mailach-od-poczty-polskiej-zapowiadaja-zawiadomienia-do-prokuratury-4563882|url-status = live|archive-date = 23 April 2020|access-date = 23 April 2020}}</ref><ref name="jaskowiak_news">{{cite news|title = (Tweet)|quote = Jeżeli nadawcą tych maili, wysłanych o 2 w nocy do burmistrzów i prezydentów miast, rzeczywiście jest #PocztaPolska, a nie hakerzy próbujący wyłudzić dane milionów Polaków, to mówienie o państwie z tektury jest eufemizmem. To jest po prostu skandal!|url = https://twitter.com/jacek_jaskowiak/status/1253329834937212928/photo/1|date = 23 April 2020|website = Twitter|archive-url = https://archive.today/20200423203743/https://twitter.com/jacek_jaskowiak/status/1253329834937212928/photo/1|url-status = live|archive-date = 23 April 2020|access-date = 23 April 2020}}</ref> received an anonymous, unsigned<ref name="do_rzeczy">{{cite news|title = Truskolaski: Nie znam takiej osoby, która nazywałaby się Poczta Polska|url = https://dorzeczy.pl/kraj/137645/truskolaski-nie-znam-takiej-osoby-ktora-nazywalaby-sie-poczta-polska.html|date = 23 April 2020|website = Twitter|archive-url = https://archive.today/20200423203401/https://dorzeczy.pl/kraj/137645/truskolaski-nie-znam-takiej-osoby-ktora-nazywalaby-sie-poczta-polska.html|url-status = live|archive-date = 23 April 2020|access-date = 23 April 2020}}</ref> e-mail from [[Poczta Polska]] (Polish Post) saying that they were required to deliver the [[private data]] of 30 million Polish citizens including their [[PESEL]] (national identification number), date of birth, address, and other private data in a [[Text file|.txt]] file format lacking any passwords or security.<ref name="bezprawnik">{{cite news |title =Poczta Polska poprosiła gminy o listę nazwisk, adresów i numerów PESEL 30 milionów Polaków w plikach *.txt |url =https://bezprawnik.pl/poczta-polska-dane-osobowe-brak-podpisu/ |date =23 April 2020 |website =Twitter |archive-url =https://archive.today/20200423204412/https://bezprawnik.pl/wakacje-w-czasie-pandemii |url-status =live |archive-date =23 April 2020 |access-date =23 April 2020 }}</ref> Many Polish mayors and city council presidents,<ref name="ZMP_news">{{cite news|title = Komunikat ZMP|url = http://www.miasta.pl/aktualnosci/komunikat-zmp-a5678f5f-236a-4c2b-80d4-800876085530|date = 23 April 2020|website = Twitter|archive-url = https://archive.today/20200423200233/http://www.miasta.pl/aktualnosci/komunikat-zmp-a5678f5f-236a-4c2b-80d4-800876085530|url-status = live|archive-date = 23 April 2020|access-date = 23 April 2020}}</ref> lawyers, and other citizens<ref name="FB">{{cite news|title = Coraz rzadziej tu piszę o polityce i prawie, bo ludzie jedynie się wkurzają, przestają być dla siebie mili. Ale dziś warto....|url = https://www.facebook.com/aswalt/posts/10222148160041395|date = 23 April 2020|website = Twitter|archive-url = https://archive.today/20200423204022/https://www.facebook.com/aswalt/posts/10222148160041395|url-status = live|archive-date = 23 April 2020|access-date = 23 April 2020}}</ref> criticized the order to provide such private data, stating that the order violated the [[General Data Protection Regulation|GDPR]] and Polish Law, since the legal act referred to in the email had no legal validity; it concerned a bill that was still undergoing legislative procedures. Citizens and other officials stated their intention to file a lawsuit<ref name="dulkiewicz_news" /><ref name="sosnowiec_president_news" /><ref name="TVN24_news" /> to the prosecutor's office about the possibility of crimes being committed by the government-run Poczta Polska and by the politicians responsible for the regulation.<ref name="TVN24_news" />
+
+===Electoral cards leakage===
+On 29 April 2020, 11 days before the planned election date, election candidate [[Stanisław Żółtek]] presented a copy of an electoral ballot at a press conference.<ref name="rmf24_news">{{cite news|author=Patryk Michalski|date=30 April 2020|title=Wyciekł pakiet do głosowania w wyborach kopertowych. Poczta Polska zawiadomiła ABW.|url=https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-wyciekl-pakiet-do-glosowania-w-wyborach-kopertowych-poczta-p,nId,4469329|url-status=live|archive-url=https://archive.today/20200502095153/https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-wyciekl-pakiet-do-glosowania-w-wyborach-kopertowych-poczta-p,nId,4469329|archive-date=2 May 2020|access-date=2 May 2020}}</ref><ref name="woborcza_news_elections">{{cite news|author1=Agnieszka Kublik |author2=Wojciech Czuchnowski|date=30 April 2020|title=Wyciek kart do głosowania to prawdziwa kompromitacja pseudowyborów|url=https://wyborcza.pl/7,75398,25911286,wyciek-kart-do-glosowania-to-prawdziwa-kompromitacja-pseudowyborow.html|url-status=live|archive-url=https://archive.today/20200502095506/https://wyborcza.pl/7,75398,25911286,wyciek-kart-do-glosowania-to-prawdziwa-kompromitacja-pseudowyborow.html|archive-date=2 May 2020|access-date=2 May 2020}}</ref> The copies contained the names of all the candidates and other forms to be filled by voters. Żółtek said that he received the ballots from workers of one of the companies that was printing and preparing electoral documents. Poczta Polska notified the [[Internal Security Agency]] about the leak. As of 2 May 2020, Polish law did not authorise Poczta Polska to organise postal voting except in a small number of special cases.<ref name="rmf24_news" />
+
+===Presidential election boycott===
+On 30 April 2020, three former Polish [[List of heads of state of Poland#Republic of Poland (1989–present)|presidents]] and six [[List of prime ministers of Poland#Prime ministers of the Republic of Poland (1989–present)|prime ministers]] called for a boycott of 2020 presidential election, on the grounds that the election would be unconstitutional and could not guarantee the confidentiality of voters.<ref name="nytimes_news">{{cite news |author=Joanna Plucinska |date=30 April 2020 |title=Former Polish Presidents, PMs Call for Presidential Election Boycott |url=https://www.reuters.com/article/world/former-polish-presidents-pms-call-for-presidential-election-boycott-idUSKBN22C30P/ |access-date=2 May 2020 |website=reuters.com}}</ref><ref>{{cite web|url=https://dziennikbaltycki.pl/wybory-2020-byli-prezydenci-i-premierzy-zapowiedzieli-bojkot-majowych-wyborow-korespondencyjnych/ar/c15-14946616 |title=Wybory 2020. Byli prezydenci i premierzy zapowiedzieli bojkot majowych wyborów korespondencyjnych |publisher=Dziennik Bałtycki |date=2020-04-30 |access-date=2020-05-15}}</ref>
+
+===Election day change===
+On 6 May, [[Jarosław Gowin]], the leader of Agreement, and [[Jarosław Kaczyński]], the leader of Law and Justice struck an agreement to move the election.<ref>{{cite web|title=Nie będzie rozłamu w Zjednoczonej Prawicy. Oświadczenie Gowina i Kaczyńskiego|url=https://www.msn.com/pl-pl/wiadomosci/polska/nie-b%C4%99dzie-roz%C5%82amu-w-zjednoczonej-prawicy-o%C5%9Bwiadczenie-gowina-i-kaczy%C5%84skiego/ar-BB13HVrY?ocid=msedgntp|website=msn.com|access-date=2020-05-06}}</ref> The two parties had earlier been engaged in a political struggle over whether the election should proceed in May.<ref>{{cite web|title=Jak zagłosuje Porozumienie? Gowin spotkał się z Kaczyńskim, rozłam wśród posłów|url=https://www.msn.com/pl-pl/wiadomosci/polska/jak-zag%C5%82osuje-porozumienie-gowin-spotka%C5%82-si%C4%99-z-kaczy%C5%84skim-roz%C5%82am-w%C5%9Br%C3%B3d-pos%C5%82%C3%B3w/ar-BB13CF6e?ocid=msedgntp|website=msn.com|access-date=2020-05-06}}</ref>
+
+On 7 May, the Sejm approved legislation for the election to be held via postal ballot.<ref>{{cite news |last1=Goclowski |first1=Marcin |title=Polish parliament approves postal vote for presidential election |url=https://uk.reuters.com/article/uk-poland-election-date/polish-parliament-approves-postal-vote-for-presidential-election-idUKKBN22J0OI |archive-url=https://web.archive.org/web/20200515041147/https://uk.reuters.com/article/uk-poland-election-date/polish-parliament-approves-postal-vote-for-presidential-election-idUKKBN22J0OI |url-status=dead |archive-date=15 May 2020 |publisher=Reuters |date=7 May 2020}}</ref> The same day, [[National Electoral Commission (Poland)|PKW]] announced that "The current legal regulation deprived the National Electoral Commission of the instruments necessary to perform its duties. In connection with the above, the National Electoral Commission informs voters, election committees, candidates, election administration and local government units that voting on 10 May 2020 cannot take place."{{citation needed|date=June 2020}}
+
+The movement of the election day was met with support<ref>{{cite web|title=Jestem pod dużym wrażeniem @Jaroslaw_Gowin. Nie wiem, czy kiedykolwiek ktoś zmusił Jarosława Kaczyńskiego do ustąpienia w tak zasadniczej dla niego sprawie. Żarty z prezesa Porozumienia są dziś akurat nie na miejscu. Dzięki niemu uniknęliśmy #koronawybory.|url=https://twitter.com/Michal_Bilewicz/status/1258164600274587650|last=Bilewicz|first=Michał|date=2020-05-06|website=@Michal_Bilewicz|language=pl|access-date=2020-05-10}}</ref><ref>{{cite web|title=Piotr Zaremba: Sprzeciwiając się majowym wyborom, @Jaroslaw_Gowin wrócił do korzeni. Do postrzegania Polski jako wspólnoty, w której przynajmniej próbuje się negocjować racje stron.|url=https://twitter.com/rzeczpospolita/status/1258846437124837376|work=Rzeczpospolita|date=2020-05-08|language=pl|access-date=2020-05-10}}</ref> and opposition<ref>{{cite web|title=Emocjonalna konferencja Czarzastego. "Tak kończą się marzenia"|url=https://www.dorzeczy.pl/kraj/139251/emocjonalna-konferencja-czarzastego-tak-koncza-sie-marzenia.html|date=2020-05-07|website=Do Rzeczy|language=pl|access-date=2020-05-10}}</ref><ref>{{cite web|title=Wpolityce.pl|url=https://wpolityce.pl/polityka/499346-wybory-jak-najszybciej-sie-da|access-date=2020-05-10|archive-date=10 May 2020|archive-url=https://web.archive.org/web/20200510141419/https://wpolityce.pl/polityka/499346-wybory-jak-najszybciej-sie-da|url-status=dead}}</ref> from both the "anti" and "pro" Law and Justice spheres of Polish politics. An opinion poll for [[Rzeczpospolita (newspaper)|Rzeczpospolita]] gauged public support for the Gowin-Kaczyński agreement at 43.5%, with 36.3% being against, and the rest undecided.<ref>{{cite web|title=Sondaż: Wyborcy PiS cieszą się z kompromisu. Partyjne jastrzębie - nie|url=https://www.rp.pl/Wybory-prezydenckie-2020/200519980-Wyborcy-PiS-ciesza-sie-z-kompromisu-partyjne-jastrzebie---nie.html|website=rp.pl|language=pl|access-date=2020-05-10}}</ref>
+
+===Judgment of WSA court===
+On 15 September 2020, the [[:pl:Wojewódzki sąd administracyjny|Voivodship Administrative Court]] in Warsaw judged that the decision of Prime Minister [[Mateusz Morawiecki]] to hold the May elections exclusively through mail-in voting was "[a] gross violation of the law and was issued without [legal] grounds" and violated article 7 of the [[Polish Constitution]], article 157, paragraph 1 and article 187, paragraph 1 and 2 of the Electoral Code.<ref name="WSA_judged_15sept">{{cite news|title = Sąd uchylił decyzję premiera w sprawie wyborów kopertowych. "Rażąco narusza prawo, wydana bezpodstawnie"|url = https://tvn24.pl/polska/wybory-10-maja-2020-decyzja-premiera-mateusza-morawieckiego-niewazna-wyrok-wojewodzkiego-sadu-administracyjnego-4692620|date = 15 September 2020|website = tvn24.pl|archive-url = https://archive.today/20200915093345/https://tvn24.pl/polska/wybory-10-maja-2020-decyzja-premiera-mateusza-morawieckiego-niewazna-wyrok-wojewodzkiego-sadu-administracyjnego-4692620|url-status = live|archive-date = 15 September 2020|access-date = 15 September 2020}}</ref> The opposition demanded Morawiecki's resignation.<ref name="opposition_demands_15sept">{{cite news|title = "Oczekujemy dymisji premiera". Opozycja po wyroku ws. wyborów 10 maja|url = https://www.polsatnews.pl/wiadomosc/2020-09-15/oczekujemy-dymisji-premiera-opozycja-po-wyroku-ws-wyborow-10-maja/?ref=aside_najnowsze|date = 15 September 2020|website = [[polsatnews.pl]]|archive-url = https://archive.today/20200915130733/https://www.polsatnews.pl/wiadomosc/2020-09-15/oczekujemy-dymisji-premiera-opozycja-po-wyroku-ws-wyborow-10-maja/?ref=aside_najnowsze|url-status = live|archive-date = 15 September 2020|access-date = 15 September 2020}}</ref>
+
+==Candidate selection==
+[[File:Polish ballot paper 2020-06-28.webp|thumb|Ballot paper (first round)]]
+[[File:Karta do głosowania (II tura).jpg|thumb|Ballot paper (second round)]]
+{{more citations needed section|date=July 2020}}
+
+===Law and Justice / United Right===
+Incumbent President [[Andrzej Duda]] was eligible to run for a second term. On 24 October 2019, in an open letter to the elected members of the Sejm and Senate, [[Law and Justice (Poland)|PiS]] chairman [[Jarosław Kaczyński]] announced that the party will strongly support Andrzej Duda in next year's presidential election.<ref>{{cite web|url=https://www.tvp.info/45001985/kaczynski-zwyciestwo-w-wyborach-trzeba-przypieczetowac-reelekcja-andrzeja-dudy|title=Kaczyński: Zwycięstwo w wyborach trzeba przypieczętować reelekcją Andrzeja Dudy|trans-title=[[Jarosław Kaczyński|Kaczyński]]: Victory in the elections must be sealed with the re-election of Andrzej Duda|work=wiadomosci.wp.pl|access-date=29 October 2019|date=24 October 2019}}</ref>
+
+===Civic Platform / Civic Coalition===
+{{Main|2019 Civic Platform presidential primary}}
+[[Donald Tusk]] was widely expected to make a comeback in Polish politics and to run for President, all the more so given that his European office expired at the end of 2019.<ref>{{cite web|url=http://www.parlamentarny.pl/badania-opinii-i-rankingi/wybory-prezydenckie-w-2020-r-czy-donald-tusk-ma-szanse-wygrac,3691.html|title=Wybory prezydenckie w 2020 r. Czy Donald Tusk ma szansę wygrać?|trans-title=Will Donald Tusk have a chance to win the 2020 presidential elections?|work=Parlamentarny.pl|access-date=28 March 2017|date=29 December 2015|archive-date=29 March 2017|archive-url=https://web.archive.org/web/20170329051035/http://www.parlamentarny.pl/badania-opinii-i-rankingi/wybory-prezydenckie-w-2020-r-czy-donald-tusk-ma-szanse-wygrac,3691.html|url-status=dead}}</ref><ref>{{Cite news|url=https://www.wprost.pl/kraj/10052383/Schetyna-Marzy-mi-sie-zeby-Donald-Tusk-byl-kandydatem-na-prezydenta-koalicji-rzadzacej.html|title=Schetyna: Marzy mi się, żeby Donald Tusk był kandydatem na prezydenta koalicji rządzącej|date=2017-04-26|work=wprost.pl|access-date=2017-10-07|trans-title="[[Grzegorz Schetyna|Schetyna]]: I dream of [[Donald Tusk]] being the ruling coalition's presidential candidate"}}</ref> However, in November 2019, he announced he would not run for the Polish presidency, citing that he has "a bag of difficult, unpopular decisions since prime minister" that would burden his candidacy. He is said to have been advised against a run by private opinion polls. He decided to run instead for the leadership of the [[European People's Party]].<ref>{{cite web|url=https://www.politico.eu/article/donald-tusk-elected-president-of-european-peoples-party/|title=Donald Tusk elected president of European People's Party|last=de La Baume|first=Maïa |date=2019-11-20|website=POLITICO|access-date=2019-11-28}}</ref> As a result, party leader [[Grzegorz Schetyna]] decided to hold a convention in order to nominate a candidate for president. The [[2019 Civic Platform presidential primary|primary]] was won by [[Małgorzata Kidawa-Błońska]].<ref>{{cite web|url=https://www.tvn24.pl/r/983976|title=Civic Platform's Małgorzata Kidawa-Błońska confirms her 2020 presidential bid|website=TVN24.pl|access-date=2019-11-28}}{{Dead link|date=July 2020 |bot=InternetArchiveBot |fix-attempted=yes}}</ref><ref name=":0">{{cite web|url=http://wiadomosci.gazeta.pl/wiadomosci/7,114884,25512314,znamy-kandydata-po-na-prezydenta-przeciwko-andrzejowi-dudzie.html|title=Znamy kandydata PO na prezydenta. Do pojedynku z Andrzejem Dudą stanie Małgorzata Kidawa-Błońska|website=gazetapl|date=14 December 2019 |language=pl|access-date=2019-12-14}}</ref>
+
+Małgorzata Kidawa-Błońska resigned her candidacy on 15 May 2020 under pressure of falling poll numbers and her own party.<ref name="rmf24.pl">{{cite web|title=Małgorzata Kidawa-Błońska rezygnuje ze startu w wyborach prezydenckich|url=https://www.rmf24.pl/raporty/raport-wybory-prezydenckie2020/najnowsze-fakty/news-malgorzata-kidawa-blonska-rezygnuje-ze-startu-w-wyborach-pre,nId,4497121|website=rmf24.pl|language=pl|access-date=2020-05-15}}</ref><ref>{{cite web|title=Oficjalnie: Małgorzata Kidawa-Błońska rezygnuje z udziału w wyborach prezydenckich {{!}} Tysol.pl|url=https://www.tysol.pl/a48034-Oficjalnie-Malgorzata-Kidawa-Blonska-rezygnuje-z-udzialu-w-wyborach-prezydenckich|website=tysol.pl|date=15 May 2020 |language=pl|access-date=2020-05-15}}</ref> After this, [[Rafał Trzaskowski]] became the new candidate of the Civic Coalition.<ref name="scislowska1">{{cite web |title=Warsaw mayor is opposition candidate for Poland's president |url=https://www.thetelegraph.com/news/article/Main-opposition-candidate-leaves-Poland-s-15271866.php |last=Scislowska |first=Monika |agency=[[Associated Press]] |date=2020-05-15 |website=Alton Telegraph |archive-url=https://web.archive.org/web/20200530192437/https://www.thetelegraph.com/news/article/Main-opposition-candidate-leaves-Poland-s-15271866.php |access-date=2020-05-15|archive-date=30 May 2020 }}</ref> He managed to receive over 1.6 million signatures, securing his eligibility to run in the election.<ref>{{cite news |date=2020-06-09 |title=Signatures pour in for Polish presidential challenger |publisher=Reuters |url=https://www.reuters.com/article/poland-election-trzaskowski-idINKBN23G1SW|access-date=2020-06-19}}</ref> After receiving 30.46% of the vote in the first round he was defeated by the incumbent Andrzej Duda in the second round, winning 48.97% of the vote.
+
+====Ran, but withdrew before the election====
+*[[Małgorzata Kidawa-Błońska]] – [[Deputy Marshal of the Sejm]]
+
+'''Declared, but lost at the primary convention:'''
+*[[Jacek Jaśkowiak]] – Mayor of [[Poznań]].<ref name=":0" /><ref>{{cite web|url=https://www.tvn24.pl/r/986957|title=Mayor of Poznań Jacek Jaśkowiak to run in Civic Coalition presidential preliminaries|website=TVN24.pl|access-date=2019-11-28}}{{Dead link|date=July 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+'''Declined:'''
+*[[Donald Tusk]] – [[President of the European Council]], former [[Prime Minister of Poland]], and a candidate in [[2005 Polish presidential election|2005]]. 
+*[[Radosław Sikorski]] – Former [[Marshal of the Sejm]], former [[Ministry of Foreign Affairs (Poland)|Minister of Foreign Affairs]], and a candidate in primary in [[2010 Civic Platform presidential primary|2010]]. Later expressed interest to run after Kidawa-Błońska resigned, but was not considered by party leadership, which claimed to have chosen Trzaskowski 'unanimously'.<ref>{{cite web|url=https://polskieradio24.pl/art1222_2406318|title=Prawybory prezydenckie w PO. Radosław Sikorski nie wystartuje|website=PolskieRadio24.pl|access-date=2019-11-28|trans-title=Presidential primaries in PO. Radosław Sikorski is not going to run }}</ref>
+*[[Bartosz Arłukowicz]] – Former [[Ministry of Health (Poland)|Minister of Health]].<ref>{{cite web|url=https://fakty.interia.pl/polska/news-bartosz-arlukowicz-nie-wystartuje-w-prawyborach,nId,3343413|title=Bartosz Arłukowicz nie wystartuje w prawyborach|website=fakty.interia.pl|language=pl|access-date=2019-11-28|trans-title= Bartosz Arłukowicz is not going to run in primaries }}</ref>
+*[[Tomasz Grodzki]] – [[Marshal of the Senate of the Republic of Poland|Marshal of the Senate of Poland]].
+
+===Polish Coalition===
+In December 2019, PSL chairman [[Władysław Kosiniak-Kamysz]] announced that he would be launching a campaign for president.<ref>{{cite web|url=https://wiadomosci.wp.pl/wladyslaw-kosiniak-kamysz-walczy-o-urzad-prezydenta-ruszyl-z-prekampania-6456559626012289a|title=Władysław Kosiniak-Kamysz walczy o urząd prezydenta. Ruszył z prekampanią|last=Mieśnik|first=Magda|date=2019-12-14|website=wiadomosci.wp.pl|language=pl|access-date=2019-12-15}}</ref>
+
+'''Declined'''
+*[[Paweł Kukiz]] – Leader of [[Kukiz'15]], [[Sejm|MP]], and candidate in [[2015 Polish presidential election|2015]].<ref>{{cite web|url=https://wiadomosci.wp.pl/pawel-kukiz-ma-kandydata-na-prezydenta-ale-stawia-warunek-6465074849503361a |title=Wybory prezydenckie 2020. PaweĹ' Kukiz ma kandydata na prezydenta. Ale stawia warunek |publisher=WP WiadomoĹ›ci |date=2020-01-07 |access-date=2020-05-15}}</ref>
+
+===The Left===
+At the beginning of January 2020, [[Włodzimierz Czarzasty]] said that [[The Left (Poland)|The Left]] would nominate [[Robert Biedroń]].<ref>{{cite web|url=https://www.newsweek.pl/polska/czarzasty-zglosze-biedronia-na-kandydata-w-wyborach-prezydenckich/k15czh0|title=Czarzasty: Zgłoszę Biedronia na kandydata w wyborach prezydenckich|website=Newsweek.pl|date=5 January 2020 |language=pl|access-date=2020-01-05}}</ref>
+
+'''Declined'''
+*[[Adrian Zandberg]] – [[Sejm|MP]], co-leader of [[Lewica Razem]], and co-chairman of [[The Left (Poland)|The Left]].<ref>{{cite web|url=https://www.wprost.pl/wybory-prezydenckie-2020/10289910/zandberg-wyjasnil-dlaczego-nie-startuje-w-wyborach-prezydenckich-umowilismy-sie.html |title=Zandberg wyjaśnił, dlaczego nie startuje w wyborach prezydenckich |publisher=Wprost.pl |date=2020-01-16 |access-date=2020-05-15}}</ref>
+
+===Confederation Liberty and Independence===
+{{Main|2019–20 Confederation presidential primary}}
+The party held an [[open primary]], a first in Polish politics. The [[2019–20 Confederation presidential primary]] was modeled after the [[Primaries in the United States|primary voting model common in the United States]]. [[Krzysztof Bosak]] was nominated during the final round of voting held at the convention in Warsaw on 18 January.
+
+''' Declared, but lost in the primary election: '''<ref>{{cite web|url=https://www.rp.pl/Konfederacja/191119512-Braun-Bosak-Korwin-Mikke-Konfederacja-oglosila-kandydatow-na-prezydenta.html|title=Braun, Bosak, Korwin-Mikke. Konfederacja ogłosiła kandydatów na kandydatów na prezydenta.|trans-title=Braun, Bosak, Korwin-Mikke. Confederation announced presidential primary candidates.|work=rp.pl|access-date=30 October 2019}}</ref>
+
+*[[Konrad Berkowicz]] – [[Sejm|MP]], and vice-chairman of [[KORWiN (Poland)|KORWiN]].
+*[[Grzegorz Braun]] – [[Sejm|MP]], and chairman of [[Confederation of the Polish Crown|KKP]].
+*[[Artur Dziambor]] – [[Sejm|MP]], and vice-chairman of [[KORWiN (Poland)|KORWiN]].
+*[[Janusz Korwin-Mikke]] – [[Sejm|MP]], and chairman of [[KORWiN (Poland)|KORWiN]].
+*[[Paweł Skutecki]] – Former [[Sejm|MP]] from [[Kukiz'15]].
+*[[Krzysztof Tołwiński]] – Former [[Sejm|MP]] from [[Law and Justice (Poland)|Law and Justice]].
+*[[Jacek Wilk]] – Former [[Sejm|MP]] from [[KORWiN (Poland)|KORWiN]].
+*Magdalena Ziętek-Wielomska – Lawyer, philosopher, publicist and author,{{citation needed|date=October 2020}} wife of [[Adam Wielomski]].
+
+===Rejected candidates===
+These following candidates made electoral comitties but failed to submit 100,000 signatures supporting their run by the 26 March deadline:<ref>{{cite news| title=Wykaz zawiadomień o utworzeniu komitetu wyborczego oraz zawiadomień o uczestnictwie |language=pl| url=https://prezydent20200628.pkw.gov.pl/prezydent20200628/statics/prezydent_20200628_aktualnosci/uploaded_files/1591664922_wykaz-komitety-806.pdf| access-date=10 March 2023 | website=pkw.gov.pl}}</ref>
+
+{{colbegin}}
+*'''Piotr Bakun''' – Economist
+*'''Marcin Bugajski''' – Political scientist 
+*'''Roland Dubowski''' – President of the Association of Heirs of Polish War Veterans of the Second World War
+*'''Artur Głowacki''' – Businessman 
+*'''Sławomir Grzywa''' – Leader of "Sami Swoi" ("All Good Friends")
+*'''Wiesław Lewicki''' – Chairman of [[Normal Country]]
+*'''Andrzej Dariusz Placzyński''' – Businessman 
+*'''[[Leszek Samborski]]''' – Former Member of the Sejm
+*'''Grzegorz Sowa''' – Businessman associated with 1Polska.pl
+*'''Romuald Starosielec''' – Journalist supported by "Unity of the Nation"
+*'''Paweł Świtoń''' – Businessman 
+*'''Krzysztof Urbanowicz''' – Political activist 
+*'''{{ill|Andrzej Voigt|pl}}''' – Businessman 
+*'''Jerzy Walkowiak''' – Political activist 
+{{colend}}
+
+==Candidates==
+{| class="wikitable sortable" style="text-align:center;"
+! Name
+! Born
+! Campaign
+! class="unsortable" | Last position/job
+! colspan="2" | Party
+|-
+| data-sort-value="Biedroń, Robert" | [[File:JKRUK 20190219 ROBERT BIEDROŃ KIELCE DSCN2269 (cropped).jpg|117x117px|border]]<br />'''[[Robert Biedroń]]'''
+| {{dts|1976|4|13|format=dmy}} ({{age nts|1976|4|13|2020|6|28}})<br />[[Rymanów]], [[Subcarpathian Voivodeship|Subcarpathia]]
+| [[File:Robert Biedroń 2020 presidential campaign.png|150px]]
+| Leader of [[Spring (political party)|Spring]] (2019–2021)<br />[[Member of the European Parliament]] (2019–present)
+| style="background:{{party color|New Left (Poland)}}" |
+|[[New Left (Poland)|The Left]]
+|-
+| data-sort-value="Bosak, Krzysztof" | [[File:Krzysztof Bosak Sejm 2016.jpg|117x117px|border]]<br />'''[[Krzysztof Bosak]]'''
+| {{dts|1982|6|13|format=dmy}} ({{age nts|1982|6|13|2020|6|28}})<br />[[Zielona Góra]], [[Lubusz Voivodeship|Lubusz]]
+| [[File:Krzysztof Bosak 2020 presidential campaign.png|150px]]
+| Member of the [[Sejm]] (2005–2007, 2019–present)
+| style="background:{{party color|Confederation Liberty and Independence}}" |
+|[[Confederation Liberty and Independence|Confederation]]
+|-
+| data-sort-value="Duda, Andrzej" | [[File:Prezydent Rzeczypospolitej Polskiej Andrzej Duda.jpg|117x117px|border]]<br />'''[[Andrzej Duda]]'''
+| {{dts|1972|5|24|format=dmy}} ({{age nts|1972|5|16|2020|6|28}})<br />[[Kraków]], [[Lesser Poland Voivodeship|Lesser Poland]]
+| [[File:Andrzej Duda 2020 presidential campaign.png|150px]]
+| '''[[President of Poland]] (2015–2025)'''
+| style=background:{{party color|Law and Justice}} |
+| [[Independent politician|Independent]]{{efn|name=nb}}
+|-
+| data-sort-value="Hołownia, Szymon" | [[File:Szymon.Hołownia.JPG|117x117px|border]]<br />'''[[Szymon Hołownia]]'''
+| {{dts|1976|9|3|format=dmy}} ({{age nts|1976|9|16|2020|6|28}})<br />[[Białystok]], [[Podlaskie Voivodeship|Podlaskie]]
+| [[File:Szymon Hołownia 2020 presidential campaign.png|150px]]
+| [[Celebrity|Television personality]]
+| style=background:{{party color|Independent politician}} |
+| [[Independent politician|Independent]]
+|-
+| data-sort-value="Jakubiak, Marek" | [[File:Marek Jakubiak Sejm 2016.JPG|117x117px|border]]<br />'''[[Marek Jakubiak]]'''
+| {{dts|1959|4|30|format=dmy}} ({{age nts|1959|4|30|2020|6|28}})<br />[[Warsaw]], [[Masovian Voivodeship|Masovian]]
+| 
+| Leader of [[Federation for the Republic]] (2018–present)<br />Member of the [[Sejm]] (2015–2019)<br>(2023–present)
+| style=background:{{party color|Federation for the Republic}} |
+| [[Federation for the Republic]]
+|-
+| data-sort-value="Kosiniak-Kamysz, Władysław" | [[File:Władysław Kosiniak-Kamysz Sejm 2016.JPG|117x117px|border]]<br />'''[[Władysław Kosiniak-Kamysz]]'''
+| {{dts|1981|8|10|format=dmy}} ({{age nts|1981|8|10|2020|6|28}})<br />[[Kraków]], [[Lesser Poland Voivodeship|Lesser Poland]]
+| [[File:Władysław Kosiniak-Kamysz 2020 presidential campaign.png|150px]]
+| Leader of [[Polish People's Party]] (2015–present)<br />Parliamentary Leader of [[Polish Coalition]] (2018–present)<br />Member of the [[Sejm]] (2015–present)
+| style=background:{{party color|Polish People's Party}} |
+| [[Polish People's Party]]
+|-
+| data-sort-value="Piotrowski, Mirosław" | [[File:Mirosław Piotrowski (Martin Rulsch) 1.jpg|117x117px|border]]<br />'''[[Mirosław Piotrowski]]'''
+| {{dts|1966|1|9|format=dmy}} ({{age nts|1966|1|9|2020|6|28}})<br />[[Zielona Góra]], [[Lubusz Voivodeship|Lubusz]]
+| 
+| Leader of [[Real Europe Movement]] (2018–present)<br />[[Member of the European Parliament]] (2004–2019)
+| style=background:{{party color|Real Europe Movement}} |
+| [[Real Europe Movement]]
+|-
+| data-sort-value="Tanajno, Paweł" | [[File:Paweł.Tanajno.JPG|117x117px|border]]<br />'''[[Paweł Tanajno]]'''
+| {{dts|1975|12|19|format=dmy}} ({{age nts|1975|12|19|2020|6|28}})<br />[[Warsaw]], [[Masovian Voivodeship|Masovian]]
+| [[File:Paweł Tanajno 2020 presidential campaign.png|150px]]
+| [[Entrepreneurship|Entrepreneur]]
+| style=background:{{party color|Independent politician}} |
+| [[Independent politician|Independent]]
+|-
+| data-sort-value="Trzaskowski, Rafał" | [[File:Rafał Trzaskowski in 2017 (cropped).jpg|117x117px|border]]<br />'''[[Rafał Trzaskowski]]'''
+| {{dts|1972|1|17|format=dmy}} ({{age nts|1972|1|17|2020|6|28}})<br />[[Warsaw]], [[Masovian Voivodeship|Masovian]]
+| [[File:Rafał Trzaskowski 2020 presidential campaign.png|150px]]
+| [[List of city mayors of Warsaw|Mayor of Warsaw]] (2018–present)
+| style="background:{{party color|Civic Coalition (Poland)}}" |
+|[[Civic Coalition (Poland)|Civic Coalition]]
+|-
+| data-sort-value="Witkowski, Waldemar" | [[File:Waldemar Witkowski Sejm 09 (cropped).JPG|117x117px|border]]<br />'''[[Waldemar Witkowski]]'''
+| {{dts|1953|10|29|format=dmy}} ({{age nts|1953|10|29|2020|6|28}})<br />[[Poznań]], [[Greater Poland Voivodeship|Greater Poland]]
+| 
+| [[Senate of Poland|Senator of Poland]] (2023–present)<br>Leader of [[Labour Union (Poland)|Labour Union]] (2006–present)<br />Member of the [[Greater Poland Voivodeship Sejmik|Greater Poland Sejmik]] (2006–2018)
+| style=background:{{party color|Labour Union (Poland)}} |
+| [[Labour Union (Poland)|Labour Union]]
+|-
+|rowspan=2  data-sort-value="Żółtek, Stanisław" | [[File:Stanisław Żółtek 2018 (cropped).jpg|117x117px|border]]<br />'''[[Stanisław Żółtek]]'''
+| rowspan=2| {{dts|1956|5|7|format=dmy}} ({{age nts|1956|5|7|2020|6|28}})<br />[[Kraków]], [[Lesser Poland Voivodeship|Lesser Poland]]
+| rowspan=2| [[File:Stanisław Żółtek 2020 presidential campaign.png|150px]]
+| rowspan=2| Leader of [[Congress of the New Right]] (2017–present)<br />Leader of [[PolExit (political party)|PolExit]] (2019–present)<br />[[Member of the European Parliament]] (2014–2019)
+| {{party color cell|Congress of the New Right}}
+| [[Congress of the New Right]]
+|-
+| {{party color cell|PolExit (political party)}}
+| [[PolExit (political party)|PolExit]]
+|}
+
+==Campaign==
+===May election campaign===
+Andrzej Duda during his time as President visited all counties, as he promised in his 2015 campaign, which some described as pre-election campaign.<ref>{{cite news |title=Prezydent Andrzej Duda zrealizował plan z kampanii. Odwiedził wszystkie powiaty |url=https://wiadomosci.wp.pl/prezydent-andrzej-duda-zrealizowal-plan-z-kampanii-odwiedzil-wszystkie-powiaty-6448253754964097a|agency=wp.pl |date=20 November 2019}}</ref> Małgorzata Kidawa-Błońska, Prime Ministerial candidate in [[2019 Polish parliamentary election|2019 election]] was chosen as candidate in [[2019 Civic Platform presidential primary|primary]] against Mayor of [[Poznań]] [[Jacek Jaśkowiak]] who was supported by people of leader of KO, Grzegorz Schetyna.<ref>{{cite news |title=Jacek Jaśkowiak uwierzył, że może być prezydentem Polski. Ale nie był kandydatem pierwszego wyboru|url=https://poznan.wyborcza.pl/poznan/7,36001,25434237,jacek-jaskowiak-uwierzyl-ze-moze-byc-prezydentem-polski-ale.html?_gl=1*g2rvj2*_gcl_au*MTE5MTMzOTE1NS4xNzUzNjk1MzYw*_ga*MTc5OTgxODk5MC4xNzUzNjk1MzU3*_ga_6R71ZMJ3KN*czE3NTQ3NTM0NzUkbzckZzAkdDE3NTQ3NTM0NzUkajYwJGwwJGgw#s=S.embed_article-K.C-B.1-L.2.zw|agency=wyborcza|date=21 November 2019}}</ref>
+
+Kidawa-Błońska withdrew after new elections were scheduled. She was replaced by [[Rafał Trzaskowski]].
+
+===Second round candidate endorsements===
+{| class="wikitable"
+|-
+! colspan="2" | Candidate
+! First round
+! colspan="2" | Endorsement
+|-
+| style="background-color:#DCDCDC;" |
+| [[Szymon Hołownia]]
+| 13.87%
+| style="background-color:#F68F2D;" |
+| [[Rafał Trzaskowski]]<ref>{{cite news |date=2020-07-01 |title=Hołownia: W II turze będę głosował na Trzaskowskiego, ale bez przyjemności |url=https://www.gazetaprawna.pl/wiadomosci/artykuly/1484962,holownia-wybory-prezydenckie-glos-ii-tura-trzaskowski-duda.html |access-date=2024-11-12}}</ref>
+|-
+| style="background-color:#122746;" |
+| [[Krzysztof Bosak]]
+| 6.78%
+| style="background-color: #FFFFFF;" |
+| colspan=2; | No endorsement<ref>{{cite news |date=2020-06-30 |title=Kogo poprze Bosak w II turze? "Wybór między jawnym wrogiem, a fałszywym przyjacielem"|url=https://www.polsatnews.pl/wiadomosc/2020-06-30/kogo-poprze-bosak-w-ii-turze-wybor-miedzy-jawnym-wrogiem-a-falszywym-przyjacielem/ |access-date=2024-11-12}}</ref>
+|-
+| style="background-color: #1BB100;" |
+| [[Władysław Kosiniak-Kamysz]]
+| 2.36%
+| style="background-color:#F68F2D;" |
+| [[Rafał Trzaskowski]]<ref>{{cite news |date=2020-07-09 |title=Kosiniak-Kamysz zagłosuje na Trzaskowskiego. "Moi wyborcy mają swój rozum"|url=https://queer.pl/news/204617/kosiniak-kamysz-zalosuje-na-trzaskowskiego |access-date=2024-11-12}}</ref>
+|-
+| style="background-color: #AC145A;" |
+| [[Robert Biedroń]]
+| 2.22%
+| style="background-color:#F68F2D;" | 
+| [[Rafał Trzaskowski]]<ref>{{cite news |date=2020-06-29 |title=Biedroń poparł Trzaskowskiego, ludzie Hołowni prowadzą rozmowy |url=https://fakty.tvn24.pl/zobacz-fakty/wybory-prezydenckie-2020-na-czyje-poparcie-moga-liczyc-kandydaci-w-ii-turze-wyborow-ra1021471-ls6311054 |access-date=2024-11-12}}</ref>
+|-
+| style="background-color: #1B3458;" |
+| [[Stanisław Żółtek]]
+| 0.23%
+| style="background-color:#F4BD70;" |
+| Against [[Andrzej Duda|Duda]]<ref>{{cite news |date=2020-06-28 |title=Stanisław Żółtek: z Dudą mogę napić się wódki, ale na pewno na niego nie zagłosuję |url=https://wiadomosci.onet.pl/tylko-w-onecie/wybory-prezydenckie-2020-stanislaw-zoltek-z-duda-moge-napic-sie-wodki-ale-na-pewno-na/b209kxv |access-date=2024-11-12}}</ref>
+|-
+| style="background-color: #003153;" |
+| [[Marek Jakubiak]]
+| 0.17%
+| style="background-color:#263778;" | 
+| [[Andrzej Duda]]<ref>{{cite news |date=2020-07-09 |title=Jakubiak namawia swoich wyborców, by w drugiej turze poparli Dudę |url=https://www.gazetaprawna.pl/wiadomosci/artykuly/1485747,duda-jakubiak-wybory-prezydenckie-2020.html |access-date=2024-11-12}}</ref>
+|-
+| style="background-color: #ED1C24;" |
+| [[Waldemar Witkowski]]
+| 0.14%
+| style="background-color: #FFFFFF;" |
+| colspan=2; | No endorsement<ref>{{cite news |date=2020-07-08 |title=Waldemar Witkowski, były kandydat na prezydenta Polski: W drugiej turze nie udzielam poparcia żadnemu z kandydatów |url=https://gloswielkopolski.pl/waldemar-witkowski-byly-kandydat-na-prezydenta-polski-w-drugiej-turze-nie-udzielam-poparcia-zadnemu-z-kandydatow/ar/c1-15069202 |access-date=2024-11-12}}</ref>
+|}
+
+==Debates==
+===First round political debates===
+*[[Newsweek Polska|Newsweek]] – 15 June 2020 ''(cancelled)''
+*[[Telewizja Polska|TVP Info]] – 17 June 2020, 21:00; moderated by Michał Adamczyk.<ref>{{Cite web|title=Już dziś debata prezydencka w Telewizji Polskiej|url=http://www.tvp.info/47907874/juz-dzis-debata-prezydencka-w-telewizji-polskiej|access-date=2020-07-13|website=tvp.info|date=6 May 2020 |language=pl}}</ref>
+*[[TVN (Polish TV channel)|TVN24]] – 19 June 2020 ''(cancelled)''
+*[[Polsat|Polsat News]] – 22 June 2020 ''(cancelled)''
+*[[Onet.pl|Onet]] – 24 June 2020 ''(cancelled)''
+
+===Second round political debates===
+Duda and Trzaskowski both refused to take part in debates at each other's preferred media outlet and a proposal from Duda<ref>{{Cite web|title=Duda nie chce wziąć udziału w debacie w TVN. Z nową propozycją wychodzi Polsat|url=https://natemat.pl/313343,bedzie-debata-duda-trzaskowski-nowa-propozycja-polsatu-dla-tvp-i-tvn|access-date=2020-07-08|website=naTemat.pl|language=PL-pl}}</ref> and supported by Trzaskowski<ref>{{Cite web|date=2020-07-06|title=Polsat i TVN chętne na wspólną debatę. "Apeluję do prezydenta, by namówił też Jacka Kurskiego"|url=https://www.bankier.pl/wiadomosc/Polsat-i-TVN-chetne-na-wspolna-debate-Apeluje-do-prezydenta-by-namowil-tez-Jacka-Kurskiego-7919778.html|access-date=2020-07-08|website=Bankier.pl|language=pl}}</ref> to hold a joint debate hosted by TVP, Polsat and TVN was rejected by TVP Director [[Jacek Kurski]].<ref>{{Cite web|title=Nie będzie debaty między Dudą a Trzaskowskim|url=https://wiadomosci.onet.pl/tylko-w-onecie/wybory-prezydenckie-nie-bedzie-debaty-miedzy-duda-a-trzaskowskim/zw8ykz0|website=wiadomosci.onet.pl|date=7 July 2020 }}</ref>
+*[[TVN (Polish TV channel)|TVN]], [[TVN24]], [[Onet]] and [[Wirtualna Polska|WP]] joint debate – 19:25 ''(UTC+2)'', 2 July 2020 (''cancelled by Duda's withdrawal'')<ref>{{Cite web|date=2020-07-01|title=Co z debatą TVN i innych redakcji? Jest oficjalna decyzja|url=https://www.wprost.pl/wybory-prezydenckie-2020/10340309/co-z-debata-tvn-i-innych-redakcji-jest-oficjalna-decyzja.html|access-date=2020-07-01|website=Wprost|language=pl}}</ref>
+*TVP Townhall debate - 21:00 (''UTC+2''), 6 July 2020 (''only Duda appeared'')<ref name=":1">{{Cite web|title="Arena prezydencka" z Rafałem Trzaskowskim. Obydwie debaty w Polsat News [TRANSMISJA] - Polsat News|url=https://www.polsatnews.pl/wiadomosc/2020-07-06/rafal-trzaskowski-w-lesznie-andrzej-duda-w-konskich-obydwie-debaty-na-polsatnews-pl/|access-date=2020-07-06|website=polsatnews.pl|date=6 July 2020 |language=pl}}</ref>
+*Joint debate with more than 15 newsrooms, organized by Trzaskowski staff, announced the day before<ref>{{Cite web|title=Będą dwie debaty. Duda w Końskich, Trzaskowski w Lesznie - Polsat News|url=https://www.polsatnews.pl/wiadomosc/2020-07-06/beda-dwie-debaty-duda-w-konskich-trzaskowski-w-lesznie/|access-date=2020-07-06|website=polsatnews.pl|date=6 July 2020 |language=pl}}</ref> – 20:30 ''(UTC+2)'', 6 July 2020 (''only Trzaskowski appeared'')<ref name=":1" /><ref name="debate_15newsrooms_6july">{{cite news|title = Trzaskowski wyzywa Dudę na kolejną debatę. Nie pójdzie do TVP. "Ustawka. W wiecu nie będę brał udziału"|quote= Na liście zaproszonych są m.in. TVN, Polsat, TVP, Onet, WP.pl, PAP, Radio Zet, RMF RM, TOK FM, "Rzeczpospolita", "Gazeta Wyborcza", "Do Rzeczy", TV Trwam, "Najwyższy Czas", wPolityce.pl.|url = https://wiadomosci.gazeta.pl/wiadomosci/7,114884,26099764,rafal-trzaskowski-wyzywa-andrzeja-dude-na-kolejna-debate-oglosil.html|date = 5 July 2020|website= gazeta.pl }}</ref>
+
+==Opinion polls==
+{{main|Opinion polling for the 2020 Polish presidential election}}
+
+===First round===
+[[File:Opinion polling for the 2020 Polish presidential election (first round).png|center|thumb|700px|2020 Polish presidential election polls for the first round.]]
+
+===Second round===
+[[File:Duda vs Trzaskowski polls.png|center|thumb|700px|2020 Polish presidential election polls for the second round.]]
+
+==Results==
+[[File:2020 Polish presidential election - 1st round results.svg|thumb|300px|Results of the first round.]]
+[[File:Tomaszow Mazowiecki, presidential election in Poland, June 2020.jpg|thumb|Queue to vote just after the opening of the premises]]
+[[File:2020 Presidential election in Poland, ballot box in Tomaszów Mazowiecki, Sikorskiego Street 6A.jpg|thumb|Ballot box]]
+[[File:Premier tour présidentielle Pologne 2020 - Candidat en tête par voïvodie.png|upright|thumb|First place candidate of the first round, by Voivodeship.]]
+[[File:Second tour présidentielle Pologne 2020 - Candidat en tête par voïvodie.png|upright|thumb|First place candidate of the second round, by Voivodeship.]]
+As there was no outright winner in the first round, the top two candidates - Andrzej Duda and Rafał Trzaskowski - advanced to the second round. Szymon Hołownia and Krzysztof Bosak placed third and fourth respectively. Władysław Kosiniak-Kamysz and Robert Biedroń both underperformed expectations taking the fifth and sixth place.<ref>{{Cite web|last1=WPROST.pl|last2=Bojakowski|first2=Jakub|date=2020-06-28|title=Robert Biedroń z fatalnym wynikiem. Kandydat Lewicy komentuje wynik wyborczy|url=https://www.wprost.pl/wybory-prezydenckie-2020/10338989/robert-biedron-z-fatalnym-wynikiem-kandydat-lewicy-komentuje-wynik-wyborczy.html|access-date=2020-07-13|website=Wprost|language=pl}}</ref><ref>{{Cite web|date=2020-06-29|title=Wyniki pierwszej tury wyborów. Władysław Kosiniak-Kamysz nie kryje rozczarowania|url=https://www.o2.pl/informacje/wyniki-pierwszej-tury-wyborow-wladyslaw-kosiniak-kamysz-nie-kryje-rozczarowania-6526607097011040a|access-date=2020-07-13|website=o2.pl|language=pl}}</ref>
+
+In the second round, there was a close race between Duda and Trzaskowski. Duda had a slight lead in 9:00 pm exit polls which gave him 50.4% of the vote to Trzaskowski's 49.6%. This was within the 2% margin of error leading to the pollster [[Ipsos]] announcing the race to be too close to call.<ref>{{Cite web|last=Kołodziejczyk|first=Bartosz|date=2020-07-12|title=Wyniki wyborów prezydenckich 2020. Pierwsze komentarze po II turze wyborów|url=https://wiadomosci.wp.pl/wyniki-wyborow-prezydenckich-2020-pierwsze-komentarze-po-ii-turze-wyborow-6531396206077569a|access-date=2020-07-13|website=wiadomosci.wp.pl|language=pl}}</ref> Duda's vote share eventually amounted to 51.03%, securing his reelection.
+
+{{Election results
+|cand1=[[Andrzej Duda]]|party1=Independent ([[Law and Justice (Poland)|PiS]])|votes1=8450513|votes1_2=10440648
+|cand2=[[Rafał Trzaskowski]]|party2=[[Civic Coalition (Poland)|Civic Coalition]] ([[Civic Platform|PO]])|votes2=5917340|votes2_2=10018263
+|cand3=[[Szymon Hołownia]]|party3=Independent|votes3=2693397
+|cand4=[[Krzysztof Bosak]]|party4=[[Confederation Liberty and Independence|Confederation]] ([[National Movement (Poland)|RN]])|votes4=1317380
+|cand5=[[Władysław Kosiniak-Kamysz]]|party5=[[Polish People's Party]]|votes5=459365
+|cand6=[[Robert Biedroń]]|party6=[[The Left (Poland)|The Left]] ([[Spring (political party)|W]])|votes6=432129
+|cand7=[[Stanisław Żółtek]]|party7=[[Congress of the New Right]]|votes7=45419
+|cand8=[[Marek Jakubiak]]|party8=[[Federation for the Republic]]|votes8=33652|color8=#003153
+|cand9=[[Paweł Tanajno]]|party9=Independent|votes9=27909
+|cand10=[[Waldemar Witkowski]]|party10=[[Labour Union (Poland)|Labour Union]]|votes10=27290
+|cand11=[[Mirosław Piotrowski]]|party11=[[Real Europe Movement]]|votes11=21065
+|invalid=58301|invalid2=177724
+|electorate=30204792|electorate2=30268460
+|source=[https://wybory.gov.pl/prezydent20200628/en/wyniki/1/pl PKW], [https://wybory.gov.pl/prezydent20200628/en/frekwencja/1/Koniec/pl PKW], [https://wybory.gov.pl/prezydent20200628/en/wyniki/2/pl PKW], [https://wybory.gov.pl/prezydent20200628/en/frekwencja/2/Koniec/pl PKW]
+}}
+{{bar box|title=Vote share|titlebar=#ddd|width=600px|barwidth=500px|bars=
+{{Bar gap|{{center|Second round}}}}
+{{bar percent|'''Duda'''|{{party color|Law and Justice}}|51.03}}
+{{bar percent|Trzaskowski|{{party color|Civic Platform}}|48.97}}
+{{bar gap|{{center|First round}}}}
+{{bar percent|{{underline|Duda}}|{{party color|Law and Justice}}|43.50}}
+{{bar percent|{{underline|Trzaskowski}}|{{party color|Civic Platform}}|30.46}}
+{{bar percent|Hołownia|{{party color|Poland 2050}}|13.87}}
+{{bar percent|Bosak|{{party color|Confederation Liberty and Independence}}|6.78}}
+{{bar percent|Kosiniak-Kamysz|{{party color|Polish People's Party}}|2.36}}
+{{bar percent|Biedroń|{{party color|The Left (Poland)}}|2.22}}
+{{bar percent|Others|#777777|0.79}}
+}}
+
+===By voivodeship===
+====First round====
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+|- style="height:42px; text-align:center; background-color:#E9E9E9;"
+! rowspan="3" style="width:120px;" | Voivodeship
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Andrzej Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Rafał Trzaskowski]]<br/>{{small|[[Civic Coalition (Poland)|KO]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Szymon Hołownia]]<br/>{{small|[[Independent politician|Independent]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Krzysztof Bosak]]<br/>{{small|[[Confederation Liberty and Independence|Confederation]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Władysław Kosiniak-Kamysz]]<br/>{{small|[[Polish People's Party|PSL]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Robert Biedroń]]<br/>{{small|[[The Left (Poland)|The Left]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Stanisław Żółtek]]<br/>{{small|[[Congress of the New Right|KNP]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Marek Jakubiak]]<br/>{{small|FdR}}
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Paweł Tanajno]]<br/>{{small|[[Independent politician|Independent]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Waldemar Witkowski]]<br/>{{small|[[Labour Union (Poland)|UP]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Mirosław Piotrowski]]<br/>{{small|[[Real Europe Movement|RPE]]}}
+|-
+! colspan="2" style="background:{{party color|Law and Justice}};"|
+! colspan="2" style="background:{{party color|Civic Coalition (Poland)}};"|
+! colspan="2" style="background:{{party color|Independent politician}};"|
+! colspan="2" style="background:{{party color|Confederation Liberty and Independence}};"|
+! colspan="2" style="background:{{party color|Polish People's Party}};"|
+! colspan="2" style="background:{{party color|The Left (Poland)}};"|
+! colspan="2" style="background:{{party color|Congress of the New Right}};"|
+! colspan="2" style="background:#003153;"|
+! colspan="2" style="background:{{party color|Independent politician}};"|
+! colspan="2" style="background:{{party color|Labour Union (Poland)}};"|
+! colspan="2" style="background:#3366CC;"|
+|-
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+|-
+| align="left" | [[Lower Silesian Voivodeship|Lower Silesian]]
+| style="font-weight:bold; background:#C0DBFC" | 545,001
+| style="font-weight:bold; background:#C0DBFC" | 38.21
+| 512,357
+| 35.92
+| 201,050
+| 14.09
+| 91,793
+| 6.44
+| 27,210
+| 1.91
+| 37,245
+| 2.61
+| 3,542
+| 0.25
+| 2,323
+| 0.16
+| 2,356
+| 0.17
+| 2,163
+| 0.15
+| 1,353
+| 0.09
+|-
+| align="left" | [[Kuyavian-Pomeranian Voivodeship|Kuyavian-Pomeranian]]
+| style="font-weight:bold; background:#C0DBFC" | 380,190
+| style="font-weight:bold; background:#C0DBFC" | 39.54
+| 322,961
+| 33.59
+| 148,597
+| 15.46
+| 56,532
+| 5.88
+| 24,234
+| 2.52
+| 22,250
+| 2.31
+| 2,083
+| 0.22
+| 1,310
+| 0.14
+| 1,309
+| 0.14
+| 1,082
+| 0.11
+| 912
+| 0.09
+|-
+| align="left" | [[Lublin Voivodeship|Lublin]]
+| style="font-weight:bold; background:#C0DBFC" | 591,234
+| style="font-weight:bold; background:#C0DBFC" | 56.67
+| 201,571
+| 19.32
+| 108,987
+| 10.45
+| 83,403
+| 7.99
+| 31,756
+| 3.04
+| 17,010
+| 1.63
+| 2,561
+| 0.25
+| 2,095
+| 0.20
+| 1,430
+| 0.14
+| 1,027
+| 0.10
+| 2,268
+| 0.22
+|-
+| align="left" | [[Lubusz Voivodeship|Lubusz]]
+| 161,894
+| 34.19
+| style="font-weight:bold; background:#FDDCB8" | 174,894
+| style="font-weight:bold; background:#FDDCB8" | 36.94
+| 84,590
+| 17.87
+| 28,743
+| 6.07
+| 9,583
+| 2.02
+| 10,413
+| 2.20
+| 913
+| 0.19
+| 686
+| 0.14
+| 756
+| 0.16
+| 572
+| 0.12
+| 405
+| 0.09
+|-
+| align="left" | [[Łódź Voivodeship|Łódź]]
+| style="font-weight:bold; background:#C0DBFC" | 589,185
+| style="font-weight:bold; background:#C0DBFC" | 46.63
+| 363,209
+| 28.74
+| 163,294
+| 12.92
+| 77,759
+| 6.15
+| 31,245
+| 2.47
+| 29,022
+| 2.30
+| 2,901
+| 0.23
+| 2,143
+| 0.17
+| 1,824
+| 0.14
+| 1,703
+| 0.13
+| 1,322
+| 0.10
+|-
+| align="left" | [[Lesser Poland Voivodeship|Lesser Poland]]
+| style="font-weight:bold; background:#C0DBFC" | 912,452
+| style="font-weight:bold; background:#C0DBFC" | 51.11
+| 426,950
+| 23.92
+| 206,034
+| 11.54
+| 138,603
+| 7.76
+| 52,483
+| 2.94
+| 34,230
+| 1.92
+| 5,015
+| 0.28
+| 3,217
+| 0.18
+| 2,116
+| 0.12
+| 2,371
+| 0.13
+| 1,763
+| 0.10
+|-
+| align="left" | [[Masovian Voivodeship|Masovian]]
+| style="font-weight:bold; background:#C0DBFC" | 1,305,649
+| style="font-weight:bold; background:#C0DBFC" | 40.71
+| 1,099,956
+| 34.30
+| 408,502
+| 12.74
+| 209,037
+| 6.52
+| 72,663
+| 2.27
+| 81,797
+| 2.55
+| 7,706
+| 0.24
+| 7,104
+| 0.22
+| 4,850
+| 0.15
+| 6,128
+| 0.19
+| 3,513
+| 0.11
+|-
+| align="left" | [[Opole Voivodeship|Opole]]
+| style="font-weight:bold; background:#C0DBFC" | 176,552
+| style="font-weight:bold; background:#C0DBFC" | 40.46
+| 139,125
+| 31.88
+| 72,609
+| 16.64
+| 26,661
+| 6.11
+| 10,146
+| 2.33
+| 8,039
+| 1.84
+| 919
+| 0.21
+| 702
+| 0.16
+| 622
+| 0.14
+| 536
+| 0.12
+| 440
+| 0.10
+|-
+| align="left" | [[Subcarpathian Voivodeship|Subcarpathian]]
+| style="font-weight:bold; background:#C0DBFC" | 646,103
+| style="font-weight:bold; background:#C0DBFC" | 60.69
+| 172,789
+| 16.23
+| 100,742
+| 9.46
+| 95,350
+| 8.96
+| 27,287
+| 2.56
+| 14,802
+| 1.39
+| 2,341
+| 0.22
+| 1,947
+| 0.18
+| 1,122
+| 0.11
+| 875
+| 0.08
+| 1,201
+| 0.11
+|-
+| align="left" | [[Podlaskie Voivodeship|Podlaskie]]
+| style="font-weight:bold; background:#C0DBFC" | 280,113
+| style="font-weight:bold; background:#C0DBFC" | 50.59
+| 114,076
+| 20.60
+| 92,088
+| 16.63
+| 42,823
+| 7.73
+| 11,681
+| 2.11
+| 8,746
+| 1.58
+| 1,299
+| 0.23
+| 1,024
+| 0.18
+| 747
+| 0.13
+| 518
+| 0.09
+| 602
+| 0.11
+|-
+| align="left" | [[Pomeranian Voivodeship|Pomeranian]]
+| 397,169
+| 33.82
+| style="font-weight:bold; background:#FDDCB8" | 453,006
+| style="font-weight:bold; background:#FDDCB8" | 38.58
+| 189,390
+| 16.13
+| 72,978
+| 6.22
+| 22,400
+| 1.91
+| 30,155
+| 2.57
+| 2,716
+| 0.23
+| 1,702
+| 0.14
+| 1,795
+| 0.15
+| 1,671
+| 0.14
+| 1,210
+| 0.10
+|-
+| align="left" | [[Silesian Voivodeship|Silesian]]
+| style="font-weight:bold; background:#C0DBFC" | 913,421
+| style="font-weight:bold; background:#C0DBFC" | 41.22
+| 693,193
+| 31.28
+| 341,169
+| 15.39
+| 157,010
+| 7.08
+| 42,625
+| 1.92
+| 50,805
+| 2.29
+| 5,399
+| 0.24
+| 3,565
+| 0.16
+| 3,535
+| 0.16
+| 3,047
+| 0.14
+| 2,429
+| 0.11
+|-
+| align="left" | [[Świętokrzyskie Voivodeship|Świętokrzyskie]]
+| style="font-weight:bold; background:#C0DBFC" | 343,752
+| style="font-weight:bold; background:#C0DBFC" | 56.02
+| 130,670
+| 21.29
+| 62,383
+| 10.17
+| 42,544
+| 6.93
+| 19,494
+| 3.18
+| 10,728
+| 1.75
+| 1,214
+| 0.20
+| 1,018
+| 0.17
+| 668
+| 0.11
+| 555
+| 0.09
+| 614
+| 0.10
+|-
+| align="left" | [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| style="font-weight:bold; background:#C0DBFC" | 253,931
+| style="font-weight:bold; background:#C0DBFC" | 40.10
+| 208,922
+| 33.00
+| 93,598
+| 14.78
+| 42,365
+| 6.69
+| 15,689
+| 2.48
+| 14,025
+| 2.21
+| 1,261
+| 0.20
+| 1,062
+| 0.17
+| 959
+| 0.15
+| 755
+| 0.12
+| 625
+| 0.10
+|-
+| align="left" | [[Greater Poland Voivodeship|Greater Poland]]
+| style="font-weight:bold; background:#C0DBFC" | 666,539
+| style="font-weight:bold; background:#C0DBFC" | 37.85
+| 595,803
+| 33.83
+| 293,107
+| 16.64
+| 106,367
+| 6.04
+| 44,134
+| 2.51
+| 41,200
+| 2.34
+| 3,932
+| 0.22
+| 2,543
+| 0.14
+| 2,498
+| 0.14
+| 3,246
+| 0.18
+| 1,698
+| 0.10
+|-
+| align="left" | [[West Pomeranian Voivodeship|West Pomeranian]]
+| 287,328
+| 35.38
+| style="font-weight:bold; background:#FDDCB8" | 307,858
+| style="font-weight:bold; background:#FDDCB8" | 37.91
+| 127,257
+| 15.67
+| 45,412
+| 5.59
+| 16,735
+| 2.06
+| 21,662
+| 2.67
+| 1,617
+| 0.20
+| 1,211
+| 0.15
+| 1,322
+| 0.16
+| 1,041
+| 0.13
+| 710
+| 0.09
+|-class=sortbottom
+! Poland
+! style="font-weight:bold; background:#C0DBFC" | 8,450,513
+! style="font-weight:bold; background:#C0DBFC" | 43.50
+! 5,917,340
+! 30.46
+! 2,693,397
+! 13.87
+! 1,317,380
+! 6.78
+! 459,365
+! 2.36
+! 432,129
+! 2.22
+! 45,419
+! 0.23
+! 33,652
+! 0.17
+! 27,909
+! 0.14
+! 27,290
+! 0.14
+! 21,065
+! 0.11
+|-class=sortbottom
+| colspan="23" align="center" | Source: [https://prezydent20200628.pkw.gov.pl/prezydent20200628/en/wyniki/1/pl National Electoral Commission]
+|}
+
+====Second round====
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+|- style="height:42px; text-align:center; background-color:#E9E9E9;"
+! rowspan="3" style="width:120px;" | Voivodeship
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Andrzej Duda]]<br/>{{small|[[Law and Justice (Poland)|PiS]]}}
+! colspan="2" data-sort-type="number" style="width:40px;" | [[Rafał Trzaskowski]]<br/>{{small|[[Civic Coalition (Poland)|KO]]}}
+|-
+! colspan="2" style="background:{{party color|Law and Justice}};"|
+! colspan="2" style="background:{{party color|Civic Coalition (Poland)}};"|
+|-
+!Votes
+!%
+!Votes
+!%
+|-
+| align="left" | [[Lower Silesian Voivodeship|Lower Silesian]]
+| 663,831
+| 44.61
+| style="font-weight:bold; background:#FDDCB8" | 824,109
+| style="font-weight:bold; background:#FDDCB8" | 55.39
+|-
+| align="left" | [[Kuyavian-Pomeranian Voivodeship|Kuyavian-Pomeranian]]
+| 476,728
+| 46.77
+| style="font-weight:bold; background:#FDDCB8" | 542,472
+| style="font-weight:bold; background:#FDDCB8" | 53.23
+|-
+| align="left" | [[Lublin Voivodeship|Lublin]]
+| style="font-weight:bold; background:#C0DBFC" | 725,453
+| style="font-weight:bold; background:#C0DBFC" | 66.31
+| 368,630
+| 33.69
+|-
+| align="left" | [[Lubusz Voivodeship|Lubusz]]
+| 199,589
+| 40.20
+| style="font-weight:bold; background:#FDDCB8" | 296,849
+| style="font-weight:bold; background:#FDDCB8" | 59.80
+|-
+| align="left" | [[Łódź Voivodeship|Łódź]]
+| style="font-weight:bold; background:#C0DBFC" | 718,404
+| style="font-weight:bold; background:#C0DBFC" | 54.46
+| 600,673
+| 45.54
+|-
+| align="left" | [[Lesser Poland Voivodeship|Lesser Poland]]
+| style="font-weight:bold; background:#C0DBFC" | 1,107,590
+| style="font-weight:bold; background:#C0DBFC" | 59.65
+| 749,165
+| 40.35
+|-
+| align="left" | [[Masovian Voivodeship|Masovian]]
+| 1,630,346
+| 47.74
+| style="font-weight:bold; background:#FDDCB8" | 1,784,947
+| style="font-weight:bold; background:#FDDCB8" | 52.26
+|-
+| align="left" | [[Opole Voivodeship|Opole]]
+| 215,648
+| 47.36
+| style="font-weight:bold; background:#FDDCB8" | 239,682
+| style="font-weight:bold; background:#FDDCB8" | 52.64
+|-
+| align="left" | [[Subcarpathian Voivodeship|Subcarpathian]]
+| style="font-weight:bold; background:#C0DBFC" | 785,645
+| style="font-weight:bold; background:#C0DBFC" | 70.92
+| 322,133
+| 29.08
+|-
+| align="left" | [[Podlaskie Voivodeship|Podlaskie]]
+| style="font-weight:bold; background:#C0DBFC" | 352,489
+| style="font-weight:bold; background:#C0DBFC" | 60.14
+| 233,621
+| 39.86
+|-
+| align="left" | [[Pomeranian Voivodeship|Pomeranian]]
+| 512,916
+| 40.16
+| style="font-weight:bold; background:#FDDCB8" | 764,363
+| style="font-weight:bold; background:#FDDCB8" | 59.84
+|-
+| align="left" | [[Silesian Voivodeship|Silesian]]
+| 1,110,233
+| 48.99
+| style="font-weight:bold; background:#FDDCB8" | 1,155,894
+| style="font-weight:bold; background:#FDDCB8" | 51.01
+|-
+| align="left" | [[Świętokrzyskie Voivodeship|Świętokrzyskie]]
+| style="font-weight:bold; background:#C0DBFC" | 419,367
+| style="font-weight:bold; background:#C0DBFC" | 64.41
+| 231,748
+| 35.59
+|-
+| align="left" | [[Warmian-Masurian Voivodeship|Warmian-Masurian]]
+| 325,723
+| 46.84
+| style="font-weight:bold; background:#FDDCB8" | 369,736
+| style="font-weight:bold; background:#FDDCB8" | 53.16
+|-
+| align="left" | [[Greater Poland Voivodeship|Greater Poland]]
+| 829,590
+| 45.07
+| style="font-weight:bold; background:#FDDCB8" | 1,011,128
+| style="font-weight:bold; background:#FDDCB8" | 54.93
+|-
+| align="left" | [[West Pomeranian Voivodeship|West Pomeranian]]
+| 367,096
+| 41.24
+| style="font-weight:bold; background:#FDDCB8" | 523,113
+| style="font-weight:bold; background:#FDDCB8" | 58.76
+|-class=sortbottom
+! Poland
+! style="font-weight:bold; background:#C0DBFC" | 10,440,648
+! style="font-weight:bold; background:#C0DBFC" | 51.03
+! 10,018,263
+! 48.97
+|-class=sortbottom
+| colspan="5" align="center" | Source: [https://prezydent20200628.pkw.gov.pl/prezydent20200628/en/wyniki/2/pl National Electoral Commission]
+|}
+
+===Electorate demographics===
+{| class="wikitable" style="font-size:90%; text-align:center; max-width:40em;"
+! colspan=2 rowspan=2 style="width:20%" | Demographic
+! style="width:10%" | [[Andrzej Duda]]
+! style="width:10%" | [[Rafał Trzaskowski]]
+|-
+! style="background:{{party color|Law and Justice}}" |
+! style="background:{{party color|Civic Coalition (Poland)}}" |
+|-
+! colspan=2 | Total vote
+| style="background:#C0DBFC" | '''51.0%'''
+| 49.0%
+|-
+! colspan=11 | Sex
+|-
+! colspan=2 | Men
+| style="background:#C0DBFC" | '''51.9%'''
+| 48.1%
+|-
+! colspan=2 | Women
+| style="background:#C0DBFC" | '''50.3%'''
+| 49.7%
+|-
+! colspan=11 | Age
+|-
+! colspan=2 | 18–29 years old
+| 36.3%
+| style="background:#FDDCB8" | '''63.7%'''
+|-
+! colspan=2 | 30–39 years old
+| 45.3%
+| style="background:#FDDCB8" | '''54.7%'''
+|-
+! colspan=2 | 40–49 years old
+| 45.6%
+| style="background:#FDDCB8" | '''54.4%'''
+|-
+! colspan=2 | 50–59 years old
+| style="background:#C0DBFC" | '''59.7%'''
+| 40.3%
+|-
+! colspan=2 | 60 or older
+| style="background:#C0DBFC" | '''62.5%'''
+| 37.5%
+|-
+! colspan=11 | Occupation
+|-
+! colspan=2 | Company owner
+| 34.1%
+| style="background:#FDDCB8" | '''65.9%'''
+|-
+! colspan=2 | Manager/expert
+| 32.6%
+| style="background:#FDDCB8" | '''67.4%'''
+|-
+! colspan=2 | Admin/services
+| 44.7%
+| style="background:#FDDCB8" | '''55.3%'''
+|-
+! colspan=2 | Farmer
+| style="background:#C0DBFC" | '''81.4%'''
+| 18.6%
+|-
+! colspan=2 | Worker
+| style="background:#C0DBFC" | '''66.4%'''
+| 33.6%
+|-
+! colspan=2 | Student
+| 30.1%
+| style="background:#FDDCB8" | '''69.9%'''
+|-
+! colspan=2 | Unemployed
+| style="background:#C0DBFC" | '''65.4%'''
+| 34.6%
+|-
+! colspan=2 | Retired
+| style="background:#C0DBFC" | '''64.1%'''
+| 35.9%
+|-
+! colspan=2 | Others
+| style="background:#C0DBFC" | '''50.6%'''
+| 49.4%
+|-
+! colspan=11 | Agglomeration
+|-
+! colspan=2 | Rural
+| style="background:#C0DBFC" | '''63.8%'''
+| 36.2%
+|-
+! colspan=2 | <50,000 pop.
+| 46.9%
+| style="background:#FDDCB8" | '''53.1%'''
+|-
+! colspan=2 | 51,000 - 200,000 pop.
+| 49.6%
+| style="background:#FDDCB8" | '''50.4%'''
+|-
+! colspan=2 | 201,000 – 500,000 pop.
+| 38.7%
+| style="background:#FDDCB8" | '''61.3%'''
+|-
+! colspan=2 | >500,000 pop.
+| 34.2%
+| style="background:#FDDCB8" | '''65.8%'''
+|-
+! colspan=11 | Education
+|-
+! colspan=2 | Elementary
+| style="background:#C0DBFC" | '''77.3%'''
+| 22.7%
+|-
+! colspan=2 | Vocational
+| style="background:#C0DBFC" | '''75.0%'''
+| 25.0%
+|-
+! colspan=2 | Secondary
+| style="background:#C0DBFC" | '''50.9%'''
+| 49.1%
+|-
+! colspan=2 | Higher
+| 34.9%
+| style="background:#FDDCB8" | '''65.1%'''
+|-
+! colspan=11 | Sejm vote in 2019
+|-
+! style="background:{{party color|Law and Justice}}" |
+! [[Law and Justice (Poland)|Law and Justice]]
+| style="background:#C0DBFC" | '''96.9%'''
+| 3.1%
+|-
+! style="background:{{party color|Civic Coalition (Poland)}}" |
+! [[Civic Coalition (Poland)|Civic Coalition]]
+| 1.8%
+| style="background:#FDDCB8" | '''98.2%'''
+|-
+! style="background:{{party color|The Left (Poland)}}" |
+! [[The Left (Poland)|The Left]]
+| 8.3%
+| style="background:#FDDCB8" | '''91.7%'''
+|-
+! style="background:{{party color|Polish Coalition}}" |
+! [[Polish Coalition]]
+| 29.4%
+| style="background:#FDDCB8" | '''70.6%'''
+|-
+! style="background:{{party color|Confederation Liberty and Independence}}" |
+! [[Confederation Liberty and Independence|Confederation]]
+| 40.0%
+| style="background:#FDDCB8" | '''60.0%'''
+|-
+! style="background:{{party color|Others}}" |
+! Others
+| 16.8%
+| style="background:#FDDCB8" | '''83.2%'''
+|-
+! colspan=2 | Didn't vote
+| 38.3%
+| style="background:#FDDCB8" | '''61.7%'''
+|-
+! colspan=2 | Don't remember
+| 40.1%
+| style="background:#FDDCB8" | '''59.9%'''
+|-
+! colspan=11 | First-round president vote in 2020
+|-
+! style="background:{{party color|The Left (Poland)}}" |
+! [[Robert Biedroń]]
+| 16.0%
+| style="background:#FDDCB8" | '''84.0%'''
+|-
+! style="background:{{party color|Confederation Liberty and Independence}}" |
+! [[Krzysztof Bosak]]
+| style="background:#C0DBFC" | '''52.3%'''
+| 47.7%
+|-
+! style="background:{{party color|Law and Justice}}" |
+! [[Andrzej Duda]]
+| style="background:#C0DBFC" | '''99.1%'''
+| 0.9%
+|-
+! style="background:{{party color|Others}}" |
+! [[Szymon Hołownia]]
+| 15.0%
+| style="background:#FDDCB8" | '''85.0%'''
+|-
+! style="background:#003153" |
+! [[Marek Jakubiak]]
+| style="background:#C0DBFC" | '''65.9%'''
+| 34.1%
+|-
+! style="background:{{party color|Polish People's Party}}" |
+! [[Władysław Kosiniak-Kamysz]]
+| 24.3%
+| style="background:#FDDCB8" | '''75.7%'''
+|-
+! style="background:#00BFFF"  |
+! [[Mirosław Piotrowski]]
+| style="background:#C0DBFC" | '''76.1%'''
+| 23.9%
+|-
+! style="background:{{party color|Others}}" |
+! [[Paweł Tanajno]]
+| 13.0%
+| style="background:#FDDCB8" | '''87.0%'''
+|-
+! style="background:{{party color|Civic Platform}}" |
+! [[Rafał Trzaskowski]]
+| 0.7%
+| style="background:#FDDCB8" | '''99.3%'''
+|-
+! style="background:#ED1C24" |
+! [[Waldemar Witkowski]]
+| 10.8%
+| style="background:#FDDCB8" | '''89.2%'''
+|-
+! style="background:#1B3458" |
+! [[Stanisław Żółtek]]
+| 34.7%
+| style="background:#FDDCB8" | '''65.3%'''
+|-
+! colspan=2 | Didn't vote
+| 49.8%
+| style="background:#FDDCB8" | '''50.2%'''
+|-
+! colspan=2 | Don't remember
+| 39.2%
+| style="background:#FDDCB8" | '''60.8%'''
+|-
+! colspan=11 | Second-round president vote in 2015
+|-
+! style="background:{{party color|Law and Justice}}" |
+! [[Andrzej Duda]]
+| style="background:#C0DBFC" | '''91.1%'''
+| 8.9%
+|-
+! style="background:{{party color|Civic Coalition (Poland)}}" |
+! [[Bronisław Komorowski]]
+| 4.4%
+| style="background:#FDDCB8" | '''95.6%'''
+|-
+! colspan=2 | Didn't vote
+| 30.1%
+| style="background:#FDDCB8" | '''69.9%'''
+|-
+! colspan=2 | Don't remember
+| 39.2%
+| style="background:#FDDCB8" | '''60.8%'''
+|-
+! colspan=6 | Source: Ipsos<ref>{{cite web|url=https://tvn24.pl/wybory-prezydenckie-2020/ii-tura/wyniki-sondazowe-druga-tura|title=Sondażowe wyniki wyborów|access-date=23 October 2024}}</ref>
+|}
+
+==Reactions==
+After voting had ended, Andrzej Duda invited Rafał Trzaskowski to the Presidential Palace to "shake hands" and "end the campaign". Trzaskowski rejected and said that they could meet after announcing the official election results.<ref>{{cite web |title=Duda zaprasza do Pałacu Prezydenckiego. Trzaskowski: to dobry pomysł, ale nie dziś |url=https://tvn24.pl/wybory-prezydenckie-2020/wybory-prezydenckie-2020-andrzej-duda-zaprasza-rafala-trzaskowskiego-do-palacu-prezydenckiego-trzaskowski-dobry-pomysl-ale-nie-dzis-4635788 |access-date=2020-07-13 |website=TVN24|date=12 July 2020 }}</ref> The next day, Trzaskowski congratulated Duda on his victory.<ref>{{cite tweet |title=Prawie 10 mln głosów. Za wszystkie i za każdy z osobna serdecznie dziękuję. Dziękuję też za niesamowitą energię, jaką wspólnie udało nam się wyzwolić przez tych kilka tygodni. Jeszcze będzie przepięknie! Gratuluję wygranej @AndrzejDuda Oby ta kadencja była rzeczywiście inna.|user=trzaskowski_ |number=1282646136583606272 |date=13 July 2020 |access-date=2020-07-13 |website=Twitter}}</ref>
+
+[[President of the United States|US President]] [[Donald Trump]],<ref>{{cite tweet|user=realdonaldtrump|first=Donald J.|last=Trump|number=1282814301452095489|title=Congratulations to my friend President @AndrzejDuda of Poland on his historic re-election!|date=2020-07-13|access-date=2020-07-13}}</ref><ref>{{Cite news|url=https://www.reuters.com/article/us-poland-election-trump-idUSKCN24E32E|title=Trump congratulates Polish President Duda's 'historic' re-election|newspaper=Reuters |date=13 July 2020|via=www.reuters.com}}</ref> [[President of the European Commission]] [[Ursula von der Leyen]],<ref>{{cite tweet |title=Congratulations to @AndrzejDuda for his reelection as President of 🇵🇱 Poland and look forward to working with him on the many challenges Europe and Poland have to face together. |user=vonderleyen |number=1282686488812060673 |date=13 July 2020 |access-date=2020-07-13 |website=Twitter}}</ref> [[NATO Secretary General]] [[Jens Stoltenberg]],<ref name="thefirstnews.com">{{cite web |url=https://www.thefirstnews.com/article/foreign-leaders-congratulate-president-duda-on-reelection-14102 |title=Foreign leaders congratulate President Duda on reelection |access-date=14 July 2020 |archive-date=13 January 2023 |archive-url=https://web.archive.org/web/20230113130629/https://www.thefirstnews.com/article/foreign-leaders-congratulate-president-duda-on-reelection-14102 |url-status=dead }}</ref> [[Lega Nord]] leader and former [[Italian Minister of the Interior]] [[Matteo Salvini]],<ref name="auto">{{cite tweet |title=Congratulations to my friend @AndrzejDuda on winning the Polish presidential election for the second term! I wish you strength & success. Looking forward to continuing 🇱🇹 & 🇵🇱 close cooperation in security, defence and implementing regional infrastructure projects. |user=gitanasnauseda |number=1282601506810847233 |date=13 July 2020 |access-date=2020-07-13 |website=Twitter}}</ref> [[President of Lithuania|Lithuanian President]] [[Gitanas Nausėda]],<ref name="auto"/> [[Prime Minister of the United Kingdom|UK Prime Minister]] [[Boris Johnson]],<ref>{{cite tweet |title=Congratulations to @AndrzejDuda on your re-election as President of Poland. The UK and Poland have a long, shared history and friendship in Europe, NATO and elsewhere. I look forward to that continuing as we face the challenges and opportunities ahead. |user=borisjohnson |number=1282745041593806855 |date=13 July 2020 |access-date=2020-07-13 |website=Twitter}}</ref> [[Prime Minister of Hungary|Hungarian Prime Minister]] [[Viktor Orbán]],<ref>{{Cite news|url=https://www.reuters.com/article/us-poland-election-hungary-reaction-idUSKCN24E10A|title=Hungarian government congratulates Duda on Polish election victory|newspaper=Reuters |date=13 July 2020|via=www.reuters.com}}</ref><ref name="2ndTerm">{{Cite web|url=https://apnews.com/ac1cb7dee8d5a52ae56689cedeca7018|title=Polish president wins 2nd term after bitter campaign|date=13 July 2020|website=AP NEWS}}</ref> [[President of the Czech Republic|Czech President]] [[Miloš Zeman]],<ref name="2ndTerm"/> [[President of Slovakia|Slovak President]] [[Zuzana Čaputová]],<ref name="thefirstnews.com"/> and [[President of Ukraine|Ukrainian president]] [[Volodymyr Zelenskyy]]<ref>{{cite tweet |title=Щиро вітаю пана Президента @AndrzejDuda з перемогою на виборах! Бажаю Польщі під Вашим керівництвом подальших успіхів і процвітання. Запрошую Вас відвідати Україну з візитом для продовження нашої плідної співпраці. Разом ми сильніші! |user=zelenskyyua |number=1282568060709343232 |date=13 July 2020 |access-date=2020-07-13 |website=Twitter}}</ref> congratulated Duda on his victory.
+
+Observers viewed the election results as illustrating a divided Polish society. They also predicted that PiS would continue pursuing its policies in a number of areas and clashing with the EU.<ref name="2ndTerm"/><ref>{{cite web | last1=Plucinska | first1=Joanna | last2=Goclowski | first2=Marcin | title=Polish conservative Duda re-elected president, deeper EU rifts likely | url=https://www.reuters.com/article/us-poland-election/polish-conservative-duda-re-elected-president-deeper-eu-rifts-likely-idUSKCN24E0CT | date=13 July 2020 | work=[[Reuters]] | access-date=14 July 2020}}</ref><ref>{{cite web | last1=Wanat | first1=Zosia | title=4 takeaways from Duda's reelection as Polish president | url=https://www.politico.eu/article/4-takeaways-from-andrzej-duda-reelection-as-poland-president-result-2020/ | date=13 July 2020 | work=[[Politico]] | access-date=14 July 2020}}</ref><ref>{{cite web | last1=Wanat | first1=Zosia | title=Poland's Duda secures another 5 years as president | url=https://www.politico.eu/article/duda-wins-polish-presidential-election-preliminary-result/ | date=13 July 2020 | work=[[Politico]] | access-date=14 July 2020}}</ref> Duda performed strongest among older, rural, low educated and [[Poland A and B|eastern]] voters.<ref>{{cite web | last1=Hirsch | first1=Cornelius | title=Poland's presidential election – by the numbers | url=https://www.politico.eu/article/poland-presidential-election-by-the-numbers-pis-law-and-justice-andrzej-duda-rafal-trzaskowski/ | date=14 July 2020 | work=[[Politico]] | access-date=14 July 2020}}</ref>
+
+In February 2025, Mateusz Morawiecki was charged with abuse of power over his decision to hold the election solely by postal ballot when he was prime minister.<ref>{{Cite news |date=27 February 2025 |title=A former Polish prime minister is charged with exceeding his powers over a 2020 election call |language=en-US |url=https://apnews.com/article/poland-morawiecki-power-election-pandemic-charges-votes-286e5a89c94c3beda315f262377fc5c7 |archive-url=https://web.archive.org/web/20250228102113/https://apnews.com/article/poland-morawiecki-power-election-pandemic-charges-votes-286e5a89c94c3beda315f262377fc5c7 |archive-date=28 February 2025 |url-status=live |access-date=27 February 2025}}</ref>
+
+===Results challenged===
+The Civic Platform party challenged results of the elections to the Polish Supreme Court, alleging irregularities and biased coverage by the state television. The appeal includes complaints from 2,000 people, containing accusations of problems with voter registry, ballot papers not being sent in time as well as issues with voting abroad. The TVP public broadcaster did not broadcast a single meeting of Trzaskowski with voters.<ref name="twitter_Robert_Klonowski_firstpost">{{cite news|date=4 July 2020|title=(Tweet)|website=Twitter|url=https://twitter.com/r_klonowski/status/1279406256214720513|url-status=live|archive-url=https://archive.today/20200707131930/https://twitter.com/r_klonowski/status/1279406256214720513|archive-date=7 July 2020|quote=Trzy telewizje informacyjne. Dwóch kandydatów. Transmisje. Cześć 2|access-date=3 August 2020}}</ref><ref name="twitter_Robert_Klonowski_secondpost">{{cite news|date=10 July 2020|title=(Tweet)|website=Twitter|url=https://twitter.com/r_klonowski/status/1281577026420461570|url-status=live|archive-url=https://archive.today/20200803173714/https://twitter.com/r_klonowski/status/1281577026420461570|archive-date=3 August 2020|quote=Trzy telewizje informacyjne. Dwóch kandydatów. Transmisje. Część 9|access-date=3 August 2020}}</ref><ref name="twitter_Robert_Klonowski_thirdpost">{{cite news|date=10 July 2020|title=(Tweet)|website=Twitter|url=https://twitter.com/r_klonowski/status/1281668661523120128|url-status=live|archive-url=https://archive.today/20200803173653/https://twitter.com/r_klonowski/status/1281668661523120128|archive-date=3 August 2020|quote=7 dni. 37 przykładów (kilka mi umknęło). @PolsatNewsPL i @tvn24 transmitowały wszystkie wystąpienia obu kandydatów. @tvp_info też wszystkie. Ale tylko jednego. Drugiego żadnego. Przekaz @WiadomosciTVP pomijam. A wybory już w niedzielę. Do zobaczenia przy urnach. Dobrego weekendu.|access-date=3 August 2020}}</ref>{{better source needed|date=August 2020}} Press.pl, a media-monitoring service, found that, between 3 and 16 June, nearly 97% of Wiadomości news stories devoted to Duda were positive while almost 87% of those on Trzaskowski were negative.<ref name="press_elections_news">{{cite news|date=19 July 2020|title=press.pl|website=press.pl|url=https://www.press.pl/tresc/62151,_wiadomosci_-tvp-o-rafale-trzaskowskim-tylko-negatywnie|url-status=live|archive-url=https://archive.today/20200803174751/https://www.press.pl/tresc/62151,_wiadomosci_-tvp-o-rafale-trzaskowskim-tylko-negatywnie|archive-date=3 August 2020|quote="Wiadomości" o Trzaskowskim źle albo wcale|access-date=3 August 2020}}</ref>
+
+The Supreme Court ruled the election valid,<ref>{{Cite web|title=Jest decyzja Sądu Najwyższego ws. ważności wyborów prezydenckich|url=https://www.msn.com/pl-pl/wiadomosci/wybory-prezydenckie/jest-decyzja-s%C4%85du-najwy%C5%BCszego-ws-wa%C5%BCno%C5%9Bci-wybor%C3%B3w-prezydenckich/ar-BB17vgjT?ocid=msedgntp|access-date=2020-08-03|website=msn.com}}</ref> stating that doubts about the television's honesty notwithstanding, TVP was not the only media source available for voters, and that voters were free to choose what media to watch.<ref>{{Cite web|title=Ponad 4 tys. protestów wyborczych ws. TVP bez dalszego biegu. "Nie spełniły warunków"|url=https://www.tokfm.pl/Tokfm/7,117303,26172913,ponad-4-tys-protestow-wyborczych-ws-tvp-bez-dalszego-biegu.html|access-date=2020-08-03|website=gazetapl|date=31 July 2020 |language=pl}}</ref><ref>{{Cite web|last=Deja|first=Maciej|date=2020-07-31|title=Sąd Najwyższy. 4086 protestów wyborczych ws. stronniczości TVP bez dalszego biegu|url=https://wiadomosci.wp.pl/sad-najwyzszy-4086-protestow-wyborczych-ws-stronniczosci-tvp-bez-dalszego-biegu-6537970829191297a|access-date=2020-08-03|website=wiadomosci.wp.pl|language=pl}}</ref>
+
+===Office for Democratic Institutions and Human Rights report===
+The [[OSCE]]'s [[Office for Democratic Institutions and Human Rights]] investigated the election and found that it was "administered professionally despite the lack of legal clarity." The ODIHR also reported that the presidential campaign "was characterized by negative and intolerant rhetoric further polarizing an already adversarial political environment. [...] the [[Telewizja Polska|TVP]] [public broadcaster] failed in its legal duty to provide balanced and impartial coverage. Instead, it acted as a campaign vehicle for the incumbent and frequently portrayed his main challenger as a  threat to Polish values and national interests. Some of the reporting was charged with xenophobic and anti-Semitic undertones."<ref name=ODIHR>{{cite report|url=https://www.osce.org/files/f/documents/4/9/455728.pdf|publisher=[[ODIHR]] Special Election Assessment Mission|title=Republic of Poland –Presidential Election, 28 June 2020 Statement of Preliminary Findings and Conclusions|date=29 June 2020}}</ref><ref>{{cite news |last1=Pronczuk |first1=Monika |title=Poland's Supreme Court Declares Presidential Election Valid |url=https://www.nytimes.com/2020/08/03/world/europe/poland-court-presidential-election.html |access-date=31 August 2020 |work=The New York Times |date=3 August 2020}}</ref>
+
+==Notes==
+{{reflist|group=nb}}
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{Commons category-inline}}
+
+{{Polish presidential elections}}
+{{Polish elections}}
+{{Candidates in the Polish presidential election, 2020}}
+{{Authority control}}
+
+[[Category:2020 Polish presidential election| ]]
+[[Category:2020 elections in Europe|Poland]]
+[[Category:2020 elections in Poland|Presidential]]
+[[Category:Elections postponed due to the COVID-19 pandemic|Poland]]
+[[Category:June 2020 in Poland|President]]
+[[Category:July 2020 in Poland|President]]
+[[Category:Presidential elections in Poland]]

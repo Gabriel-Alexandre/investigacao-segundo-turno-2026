@@ -1,0 +1,1544 @@
+{{Short description|none}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election
+| country = Costa Rica
+| flag_year = state
+| previous_election = 2014 Costa Rican general election
+| previous_year = 2014
+| election_date = 4 February 2018 (first round)<br />{{Start date|2018|04|01|df=y}} (second round)
+| next_election = 2022 Costa Rican general election
+| next_year = 2022
+| opinion_polls =
+| module = {{Infobox election
+| election_name = Presidential election
+| embed=yes
+| type = presidential
+| registered = 3,322,329
+| turnout = 65.70% (first round) {{decrease}} 2.78[[percentage point|pp]]<br>66.45% (second round) {{increase}} 9.95[[percentage point|pp]]
+
+| image1 = Carlos Alvarado Le Chateu (cropped).jpg
+| nominee1 = '''{{nowrap|[[Carlos Alvarado]]}}'''
+| party1 = Citizens' Action Party (Costa Rica)
+| running_mate1 = [[Epsy Campbell Barr|Epsy Campbell]]<br />[[Marvin Rodríguez Cordero|Marvin Rodríguez]]
+| popular_vote1 = '''1,322,908'''
+| percentage1 = '''60.59%'''
+
+| image2 = Fabricio Alvarado Muñoz Asamblea Legislativa 2 (cropped).jpg
+| nominee2 = [[Fabricio Alvarado Muñoz|Fabricio Alvarado]]
+| party2 = National Restoration Party (Costa Rica)
+| running_mate2 = Ivonne Acuña <br />Francisco J. Prendas
+| popular_vote2 = 860,388
+| percentage2 = 39.41%
+
+<!-- map -->
+| map = {{Switcher
+| [[File:Elección Presidencial de Costa Rica (2018) (Primera Ronda) (Distritos Administrativos).svg|300px]]
+| First round results by district
+| [[File:Elección Presidencial de Costa Rica (2018) (Segunda Ronda) (Distritos Administrativos).svg|300px]]
+| Second round results by district|default=2
+}}
+'''Alvarado-Quesada''': {{legend0|#FFFB0B|20-30%}} {{legend0|#EDE900|30-40%}} {{legend0|#CFCC00|40-50%}} {{legend0|#B1AF00|50-60%}} {{legend0|#949100|60-70%}} {{legend0|#767400|70-80%}} {{legend0|#595700|80-90%}} {{legend0|#3B3A00|90-100%}}<br>'''Alvarado-Muñoz''': {{legend0|#4421e5|20-30%}} {{legend0|#3c1ecb|30-40%}} {{legend0|#351ab2|40-50%}} {{legend0|#2d1698|50-60%}} {{legend0|#26137f|60-70%}} {{legend0|#1e0f66|70-80%}} {{legend0|#170b4c|80-90%}}<br>'''Álvarez''': {{legend0|#72B397|20-30%}} {{legend0|#5DA888|30-40%}} {{legend0|#509577|40-50%}}<br>'''Piza''': {{legend0|#7485D2|20-30%}} {{legend0|#596DC9|30-40%}} {{legend0|#3E56BF|40-50%}}<br>'''Castro''': {{legend0|#64e7ff|20-30%}}<br>'''Hernández''': {{legend0|#e62020|20-30%}}
+
+
+| title = [[President of Costa Rica|President]]
+| before_election = [[Luis Guillermo Solís]]
+| before_party = Citizens' Action Party (Costa Rica)
+| after_election = [[Carlos Alvarado|Carlos Alvarado Quesada]]
+| after_party = Citizens' Action Party (Costa Rica)
+
+| module = {{Infobox legislative election
+| embed=yes
+| election_name = Legislative election
+
+| seats_for_election = All 57 seats in the [[Legislative Assembly of Costa Rica|Legislative Assembly]]
+| majority_seats = 29
+| turnout = 65.56% ({{decrease}} 2.82[[percentage point|pp]])
+
+| party1 = National Liberation Party (Costa Rica)
+| leader1 = [[Antonio Álvarez Desanti]]
+| percentage1 = 19.49
+| seats1 = 17
+| last_election1 = 18
+
+| party2 = National Restoration Party (Costa Rica)
+| leader2 = [[Fabricio Alvarado Muñoz]]
+| percentage2 = 18.16
+| seats2 = 14
+| last_election2 = 1
+
+| party3 = Citizens' Action Party (Costa Rica)
+| leader3 = [[Carlos Alvarado|Carlos Alvarado Quesada]]
+| percentage3 = 16.27
+| seats3 = 10
+| last_election3 = 13
+
+| party4 = Social Christian Unity Party
+| leader4 = [[Rodolfo Piza Rocafort]]
+| percentage4 = 14.60
+| seats4 = 9
+| last_election4 = 8
+
+| party5 = National Integration Party (Costa Rica)
+| leader5 = [[Juan Diego Castro Fernández]]
+| percentage5 = 7.67
+| seats5 = 4
+| last_election5 = 0
+
+| party6 = Social Christian Republican Party
+| leader6 = Rodolfo Hernández Gómez
+| percentage6 = 4.21
+| seats6 = 2
+| last_election6 = New
+
+| party7 = Broad Front (Costa Rica)
+| leader7 = Edgardo Araya Sibaja
+| percentage7 = 3.95
+| seats7 = 1
+| last_election7 = 9
+
+| map                = Elecciones legislativas de Costa Rica de 2018 - Diputados por Provincia.svg
+| map_caption        = Results by province
+}}}}}}{{Politics of Costa Rica}}
+
+General elections were held in [[Costa Rica]] in 2018 to elect both the [[President of Costa Rica|President]] and [[Legislative Assembly of Costa Rica|Legislative Assembly]]. The first round of the presidential election was held on 4 February 2018, with the two highest-ranked candidates being [[Christian music|Christian singer]] and Congressman [[Fabricio Alvarado Muñoz]] from the conservative [[National Restoration Party (Costa Rica)|National Restoration Party]] and writer and former Minister [[Carlos Alvarado]] from the [[Progressivism|progressive]] [[Citizens' Action Party (Costa Rica)|Citizens' Action Party]], gaining 24% and 21% of the votes respectively. As no candidate received more than 40% of the first round vote, a second round run-off election was held on 1 April 2018 and was won by Carlos Alvarado Quesada, with a [[landslide victory]] of 60.6% of the vote.<ref name="Garcia">{{cite news|last1=Garcia|first1=David Alire|last2=Pretel|first2=Enrique Andres|title=Costa Rica center-left easily wins presidency in vote fought on gay rights|url=https://www.reuters.com/article/us-costarica-election/costa-rica-center-left-easily-wins-presidency-in-vote-fought-on-gay-rights-idUSKBN1H80XC|access-date=2 April 2018|work=Reuters}}</ref><ref name="Stanley">{{cite news|last1=Stanley|first1=Katherine|title=Carlos Alvarado wins Costa Rica's presidency in a landslide|url=http://www.ticotimes.net/2018/04/01/carlos-alvarado-will-be-costa-ricas-48th-president|access-date=2 April 2018|work=The Tico Times}}</ref>
+
+The previously [[Dominant-party system|dominant]] [[National Liberation Party (Costa Rica)|National Liberation Party]] suffered its worst results to date, ending third in the presidential run for the first time in its history with its candidate former [[List of Presidents of the Legislative Assembly of Costa Rica|Legislative Assembly President]] [[Antonio Álvarez Desanti]] winning only 18%. Other notable candidates were lawyer and entrepreneur [[Rodolfo Piza]] from the center-right [[Social Christian Unity Party]] with 16% and [[right-wing populist]] [[Juan Diego Castro]] with 9%.
+
+In the 57-seat Legislative Assembly, the [[National Liberation Party (Costa Rica)|National Liberation Party]] won 17 seats, the [[National Restoration Party (Costa Rica)|National Restoration Party]] won 14 seats (although their parliamentary group later split in half due to factionalism), the [[Citizens' Action Party (Costa Rica)|Citizens' Action Party]] won 10 seats, the [[Social Christian Unity Party]] won 9 seats, the [[National Integration Party (Costa Rica)|National Integration Party]] won 4 seats, the [[Social Christian Republican Party]] (an offshoot of PUSC) won 2 seats and left-wing [[Broad Front (Costa Rica)|Broad Front]] won 1 seat.
+
+==Electoral system==
+The [[President of Costa Rica]] is elected using a modified [[two-round system]] in which a candidate must receive at least 40% of the vote to win in the first round; if no candidate wins in the first round, a runoff will be held between the two candidates with the biggest quantity of votes.<ref>[https://www.electionguide.org/elections/id/2780/ Costa Rica] IFES</ref>
+
+The 57 members of the Legislative Assembly are elected using [[closed list]] [[proportional representation]] through the [[largest remainder method]] from seven multi-member constituencies with between four and 19 seats, which are based on the seven [[Provinces of Costa Rica|provinces]].<ref>[http://www.ipu.org/parline-e/reports/2073_B.htm Electoral system] IPU</ref> Party lists were required to [[Zipper system|alternate between male and female candidates]], with parties also required to have three or four of their seven regional lists headed by a female candidate.<ref>[http://ticotimes.net/2016/05/27/gender-equality Gender equality ruling aims for nearly 50/50 male-female Costa Rican legislature] Tico Times, 27 May 2016</ref>
+
+==Presidential primaries==
+===Citizens' Action Party===
+The [[Citizens' Action Party presidential primary, 2017|internal elections]] for the [[Citizens' Action Party (Costa Rica)|Citizens' Action Party]] were held on 9 July 2017.<ref>{{cite news|title=PAC elegirá su candidato a Presidente el próximo 9 de julio|url=http://www.elmundo.cr/pac-elegira-candidato-presidente-proximo-9-julio/|date=23 January 2017|access-date=18 February 2017|work=elmundo.cr|language=es-ES|archive-url=https://web.archive.org/web/20170202061136/http://www.elmundo.cr/pac-elegira-candidato-presidente-proximo-9-julio/|archive-date=2 February 2017|url-status=dead}}</ref> The candidates were two former ministers of the [[Luis Guillermo Solís|Solís Rivera administration]]; writer [[Carlos Alvarado]], former Minister of Labour and Social Issues, and economist [[Welmer Ramos González|Welmer Ramos]], former Economy Minister. Alvarado won by 56% of the votes. Deputies [[Epsy Campbell]], [[Ottón Solís Fallas|Ottón Solís]] and Vicepresident [[Ana Helena Chacón]] declined a potential run.<ref>{{cite news |title=Carlos Alvarado lidera la votación de convención del PAC tras 78% de mesas escrutadas |agency=Teletica |url=http://www.teletica.com/Noticias/166823-Carlos-Alvarado-lidera-la-votacion-de-convencion-del-PAC-tras-78-de-mesas-escrutadas.note.aspx |url-status=dead |access-date=10 July 2017 |archive-url=https://web.archive.org/web/20171001083153/http://www.teletica.com/Noticias/166823-Carlos-Alvarado-lidera-la-votacion-de-convencion-del-PAC-tras-78-de-mesas-escrutadas.note.aspx |archive-date=1 October 2017}}</ref>
+
+Carlos Alvarado was the first one of the party to announce his intention to run under the slogan of "I choose the future" (Elijo el futuro) and ran under a progressive platform, which sought to exalt the achievements of Luis Guillermo Solis's government and promised to continue with it. Meanwhile, Welmer Ramos's campaign focused more on a moderate and conservative campaign, under the slogan "A citizen like you" (Un ciudadano como usted) and openly criticized the then government to appeal to those who were upset with the administration.
+
+===Libertarian Movement===
+The [[Libertarian Movement (Costa Rica)|Libertarian Movement]] had its first primaries on 30 June 2017.
+
+Candidates were deputy Natalia Diaz,<ref name=Mora>{{cite news|last1=Mora|first1=Carlos|title=Otto Guevara: "Soy consciente que tengo anticuerpos"|url=https://www.crhoy.com/nacionales/otto-guevara-soy-consciente-que-tengo-anticuerpos/|access-date=7 September 2016|agency=CR Hoy|date=4 September 2016}}</ref> and historic leader and deputy [[Otto Guevara Guth]], who will attempt to run for presidency for the fifth time. Guevara won the primary over Diaz by a 10% margin. Otto Guevara's primary campaign was based under a [[Right-wing populism|right-wing populist]] inclination, stating that [[Donald Trump presidential campaign, 2016|Donald Trump's presidential campaign]] had given him new inspiration to run, while Natalia Diaz's campaign promised to bring a new face to the party and offer a new alternative to the party's establishment.{{citation needed|date=June 2022}}
+
+After the [[2016 Costa Rican municipal elections|2016 municipal elections]], the party lost its only mayor and 258 aldermen, leaving it with little power. Plus, due to Guevara's turnabout from [[libertarianism]] to [[religious conservatism]], many party adherents created a new party: the [[Progressive Liberal Party (Costa Rica)|Progressive Liberal Party]], under former transport minister Eliécer Feinzag's leadership; or joined Social Christian Unity Party because of its new liberal stance on politics.{{citation needed|date=June 2022}}
+
+===National Liberation Party===
+The [[National Liberation Party presidential primary, 2017|internal elections]] for the National Liberation Party were held on 2 April 2017. The candidates were Sigifredo Aiza Campos, former deputy for the [[Guanacaste province]], then deputy and radio host Rolando González Ulloa, [[Antonio Álvarez Desanti]] president of the Legislative Assembly, former minister and presidential candidate who was supported by former president [[Óscar Arias Sánchez]], and former president [[José María Figueres Olsen]].<ref>{{cite news|last=Muñoz|first=Mauricio|title=2017 año electoral, partidos definen candidatos a presidente y diputados|url=http://www.elmundo.cr/2017-ano-electoral-partidos-definen-candidatos-presidente-diputados/|date=2 January 2017|access-date=18 February 2017|work=elmundo.cr|language=es-ES}}</ref> Álvarez Desanti was chosen as the party's candidate.
+
+=== Social Christian Unity Party ===
+
+The [[Social Christian Unity Party presidential primary, 2017|Social Christian primary]] was held on 4 June 2017 with former president of the [[Caja Costarricense del Seguro Social|Health System]] and previous candidate [[Rodolfo Piza]] winning over then deputy Rafael Ortiz.<ref name="Arrieta">{{cite news|last1=Arrieta|first1=Esteban|title="Guerra civil" en el PUSC|url=https://www.larepublica.net/noticia/-guerra-civil-en-el-pusc|access-date=16 March 2017|agency=La República|date= 28 November 2016}}</ref>
+
+=== Other candidates ===
+Former Public Safety Minister [[Juan Diego Castro]] launched his unexpected presidential campaign presenting himself as a political outsider and with a strong [[anti-establishment]] and [[corruption|anti-corruption]] speech.<ref name="economist">{{cite news|title=Presidential campaigns get under way|url=http://country.eiu.com/article.aspx?articleid=1696096753&Country=Costa%20Rica&topic=Politics|newspaper=The Economist|access-date=1 December 2017}}</ref> Promising to "rule by decree" and with a very loud "[[La Mano Dura|hard hand]]" rhetoric (uncommon in Costa Rican politics as the country is famous for its political centrism), Castro has been compared to figures like [[Donald Trump]] and [[Rodrigo Duterte]],<ref>{{cite news|last1=Umaña|first1=Carlos|title=Juan Diego Castro y la oleada post-Trump en Costa Rica|url=https://semanariouniversidad.com/opinion/juan-diego-castro-la-oleada-post-trump-costa-rica/|access-date=1 December 2017|agency=Semanario Universidad|date=29 March 2017}}</ref><ref>{{cite news|last1=May Grosser|first1=Sebastian|title=A Trump in the Tropics? Why a Demagogue became the Leading Contender in Costa Rica's Upcoming Election|url=https://blog.politics.ox.ac.uk/a-trump-in-the-tropics-why-a-demagogue-became-the-leading-contender-in-costa-ricas-and-what-this-means-for-the-upcoming-election/|access-date=11 January 2018|agency=9 January 2018|publisher=Oxpol|archive-date=19 January 2018|archive-url=https://web.archive.org/web/20180119034337/https://blog.politics.ox.ac.uk/a-trump-in-the-tropics-why-a-demagogue-became-the-leading-contender-in-costa-ricas-and-what-this-means-for-the-upcoming-election/|url-status=dead}}</ref> and accused of [[right-wing populism]]<ref>{{cite news|last1=Madrigal|first1=Luis|title=El populismo como arma: el caso de Juan Diego Castro|url=https://www.elmundo.cr/imagen-vende-juan-diego-castro-al-electorado/|access-date=1 December 2017|agency=MundoCR}}{{Dead link|date=July 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> and far-right positions,<ref name="economist" /><ref>{{cite news |last1=Fuchs |first1=Gustavo |title=Costa Rica: is the far right poised for victory? |url=https://lab.org.uk/costa-rica-is-the-far-right-poised-for-victory/ |access-date=30 October 2018 |agency=Lab |date=1 February 2018}}</ref> albeit he rejects the comparisons.<ref>{{cite news|last1=Castillo|first1=Brian|title=Juan Diego Castro responde a comparaciones con Donald Trump|url=https://www.laprensalibre.cr/Noticias/detalle/113193/juan-diego-castro-responde-a-comparaciones-con-donald-trump|access-date=1 December 2017|agency=La Prensa Libre|date=31 May 2017|archive-url=https://web.archive.org/web/20171201182230/https://www.laprensalibre.cr/Noticias/detalle/113193/juan-diego-castro-responde-a-comparaciones-con-donald-trump|archive-date=1 December 2017|url-status=dead}}</ref> He ran as the [[National Integration Party (Costa Rica)|National Integration Party's]] nominee.
+
+Four of the minor candidates lean towards the conservative evangelical community. These are former journalist and San José deputy [[Fabricio Alvarado]] for [[National Restoration Party (Costa Rica)|National Restoration Party]], journalist Stephanie Campos for [[Costa Rican Renewal Party]], [[perennial candidate]] and San José deputy [[Óscar López (Costa Rican politician)|Óscar López]] for [[Accessibility without Exclusion Party]], and lawyer and twice Cartago deputy Mario Redondo for [[Christian Democratic Alliance (Costa Rica)|Christian Democratic Alliance]] a former Cartaginese provincial party but which expanded to the national level. The left-wing [[Broad Front (Costa Rica)|Broad Front]] nominated Alajuela deputy Edgardo Araya ([[:es:Edgardo Araya Sibaja]]). The far-left [[Workers' Party (Costa Rica)|Workers' Party]] chose the trade unionist and high school professor Jhon Vega as its candidate. The right-wing [[New Generation Party (Costa Rica)|New Generation Party]] chose its founder Sergio Mena as the presidential nominee. Finally, former [[Social Christian Unity Party]]'s presidential nominee Rodolfo Hernández ([[:es:Rodolfo Hernández Gómez]]) launched his presidential campaign with the newly formed [[Social Christian Republican Party]], a party formed by former PUSC members dissatisfied with the liberal-controlled Social Christian Central Committee, who claimed the party had lost its [[Rafael Ángel Calderón Guardia|Calderonist]] origins
+
+== Presidential candidates ==
+{| class=wikitable style=text-align:center;
+!colspan=3 style=background:#fffcb7|[[File:Bandera Partido Acción Ciudadana Costa Rica.svg|center|50x50px]][[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]
+|- 
+!width=200px style=background:{{party color|Citizens' Action Party (Costa Rica)}}| [[Carlos Alvarado|{{color|black|Carlos Alvarado Quesada}}]]
+!width=200px style=background:{{party color|Citizens' Action Party (Costa Rica)}}| [[Epsy Campbell Barr|{{color|black|Epsy Campbell}}]]
+!width=200px style=background:{{party color|Citizens' Action Party (Costa Rica)}}| [[Marvin Rodríguez Cordero|{{color|black|Marvin Rodríguez}}]]
+|- style="background:{{party color|Social Christian Republican Party}};"
+|'''''for President'''''
+|colspan=2 |'''''for Vice presidents'''''
+|-
+| [[File:Carlos Alvarado Le Chateu (cropped).jpg|center|190x190px]]
+| [[File:EpsyCampbell001 (cropped).png|center|150x190px]]
+| [[File:Vicepresidente Marvin Rodríguez (cropped).png|center|150x190px]]
+|-
+|  Labor Minister <br /><small>(2014–2016)</small> <br /> Executive President of the <br />[[Joint Social Welfare Institute]] <br /><small>(2016–2017)</small>
+| Deputy in the <br />[[Legislative Assembly of Costa Rica|Legislative Assembly]]<br /><small>(2002–2006 and 2014–2018)</small>
+| Labor Union Leader
+|}
+
+{| class=wikitable style=text-align:center
+!colspan=3 style=background:#CEE7FF|[[File:Bandera Partido Restauración Nacional Costa Rica.svg|center|50x50px]][[National Restoration Party (Costa Rica)|{{color|National Restoration Party}}]]
+|-
+!width=200px style=background:{{party color|National Restoration Party (Costa Rica)}}| [[Fabricio Alvarado Muñoz|{{color|white|Fabricio Alvarado Muñoz}}]]
+!width=200px style=background:{{party color|National Restoration Party (Costa Rica)}}| [[Ivonne Acuña|{{color|white|Ivonne Acuña}}]]
+!width=200px style=background:{{party color|National Restoration Party (Costa Rica)}}| [[Francisco Prendas|{{color|white|Francisco Prendas}}]]
+|- style="background:yellow;"
+| '''''for President'''''
+|colspan=2|'''''for Vice presidents'''''
+|-
+| [[File:Fabricio Alvarado Muñoz Asamblea Legislativa 2 (cropped).jpg|center|190x190px]]
+| [[File:Ivonne-acua-cabrera 42004170772 o.jpg|center|190x190px]]
+| [[File:No image.svg|center|190x190px]]
+|-
+| Deputy in the <br />[[Legislative Assembly of Costa Rica|Legislative Assembly]]<br />(2014–2018)
+|  
+| 
+|}
+
+=== Other presidential candidates ===
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+|  style="background:#f1f1f1; width:850px;" colspan="30"|'''Candidates included in this section have received more than 2% support in popular vote.'''
+|-
+!style="width:160px; font-size:120%; background:{{party color|National Liberation Party (Costa Rica)}};"| [[Antonio Álvarez Desanti|{{color|white|Antonio Álvarez}}]]
+! style="width:160px; font-size:120%; background:{{party color|Social Christian Unity Party}};"| [[Rodolfo Piza|{{color|white|Rodolfo Piza}}]] 
+! style="width:160px; font-size:120%; background:{{party color|National Integration Party (Costa Rica)}};"| [[Juan Diego Castro Fernández|{{color|white|Juan Diego Castro}}]] 
+! style="width:160px; font-size:120%; background:{{party color|Social Christian Republican Party}};"| [[Rodolfo Hernández Gómez|{{color|white|Rodolfo Hernández}}]]
+|-
+| [[File:Antonio Álvarez Desanti, PLN - Costa Rica (cropped) (cropped).JPG|center|150x150px]]
+| [[File:Rodolfo Piza.jpg|center|150x150px]]
+| [[File:Juan Diego Castro cropped.jpg|center|150x150px]]
+|  [[File:Dr Rodolfo Hernández cropped.jpg|center|150x150px]]
+|-
+| Minister of Farming <br/><small>(1987–1988)</small><br/>Minister of Governance <br/><small>(1988–1999)</small><br/>[[Legislative Assembly of Costa Rica|Deputy]]<br/><small>(1994–1998 and 2014–2017)</small>
+| Justice <br/>of the [[Supreme Court of Justice of Costa Rica|Supreme Court]]<br/><small>(2009–2013)</small><br/>Executive President<br/>[[Costa Rican Social Security Fund]]<br/><small>(1998–2002)</small>
+| Minister of Public Safety<br/><small>(1994–1996)</small><br/>Minister of Justice<br/><small>(1997–1998)</small>
+| Director<br/>Costa Rica's Children's Hospital <br/><small>(2001–2014)</small>
+|-
+| [[File:Bandera de Partido Liberación Nacional.svg|center|50x50px]][[National Liberation Party (Costa Rica)|National Liberation Party]]
+| [[File:Bandera del Partido Unidad Social Cristiana.svg|center|50x50px]][[Social Christian Unity Party]]
+| [[File:Bandera Partido Integración Nacional Costa Rica.svg|center|50x50px]][[National Integration Party (Costa Rica)|National Integration Party]]
+| [[File:Bandera Partido Republicano Social Cristiano Costa Rica.svg|center|50x50px]][[Social Christian Republican Party]]
+|-
+|}
+
+== Campaign ==
+Several topics like unemployment, corruption, economics, insecurity and poverty are among the main issues that concern the electorate according to polls.<ref>{{cite news|last1=Alfaro Redondo|first1=Ronald|title=Informe De Resultados De La Encuesta De Opinión Sociopolítica Realizada En Octubre De 2017|url=https://www.ciep.ucr.ac.cr/images/INFORMESUOP/Informe-encuesta-octubre-2017.pdf|access-date=3 November 2017|agency=CIEP|date=October 2017|archive-url=https://web.archive.org/web/20171107031919/https://www.ciep.ucr.ac.cr/images/INFORMESUOP/Informe-encuesta-octubre-2017.pdf|archive-date=7 November 2017}}</ref>
+
+But one particular event that cause uproar in the campaign was the "Cementazo" (lit. cement hit) scandal. A corruption scandal involving political figures of all the main parties,<ref name="economist" /> including candidate [[Otto Guevara]], whose properties and parliamentary office were raided by the General Attorney investigating the case.  Some analysts point to the Cementazo scandal as one of the reasons for the unexpected ascension in polls of hardline anti-establishment candidate Castro.<ref name="economist" />
+
+During the campaign Castro made a series of highly controversial statements that often caused polemic reactions. Among other things, he accused the Judiciary of having some of its female members ascending due to [[sexual favors]],<ref>{{cite news|title=Declaración de Juan Diego Castro sobre supuestos viejos favores sexuales en la Corte generan rechazo|url=https://www.teletica.com/182565_declaracion-de-juan-diego-castro-sobre-supuestos-viejos-favores-sexuales-en-la-corte-generan-rechazo|access-date=12 January  2018|agency=Teletica|date=6 January 2018}}</ref><ref>{{cite news|last1=Fallas|first1=Gustavo|title=Sobre corrupción en Corte, Castro denuncia sin pruebas que ascensos se hicieron a cambio de sexo oral|url=https://www.ameliarueda.com/politica/nota/castro-favores-sexuales-se-premiaban-con-ascensos-en-la-corte|access-date=12 January 2018|agency=Amelia Rueda|year=2018|archive-date=13 January 2018|archive-url=https://web.archive.org/web/20180113035610/https://www.ameliarueda.com/politica/nota/castro-favores-sexuales-se-premiaban-con-ascensos-en-la-corte|url-status=dead}}</ref> something that sprang harsh responses from female judges and judicial workers.<ref>{{cite news|last1=Sequeira|first1=Aarón|last2=Chinchilla|first2=Sofía|title=Profesionales judiciales repudian declaración de Juan Diego Castro sobre ascenso de mujeres en Corte|url=https://www.nacion.com/el-pais/politica/profesionales-judiciales-repudian-declaracion-de/4CWF4B3JHVFZPBLNAAQ5VZL6PQ/story/|access-date=12 January 2018|work=La Nación|year=2018}}</ref> Political figures from other parties reacted with outrage including Desanti's wife Nuria Marin and PAC's vice-president nominee [[Epsy Campbell Barr|Epsy Campbell]].<ref>{{cite news|last1=López|first1=Ronny|title=Nuria Marín exige disculpa pública a Juan Diego Castro por comentario sobre favores sexuales en la Corte|url=https://www.amprensa.com/2018/01/nuria-marin-exige-disculpa-publica-a-juan-diego-castro-por-comentario-sobre-favores-sexuales-en-la-corte/|access-date=12 January 2018|agency=AM Prensa|date=6 January 2018}}</ref><ref>{{cite news|last1=Madrigal|first1=Luis Manuel|title=Epsy Campbell llama "patán y acomplejado" a Castro por insinuar sobre favores sexuales en Poder Judicial|url=https://www.elmundo.cr/epsy-campbell-llama-patan-acomplejado-castro-insinuar-favores-sexuales-poder-judicial/|access-date=12 January 2018|agency=Mundo|date=6 January 2018}}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref> He later clarified that he was referring to one particular case of a known female friend of his. He also called for the removal of the prohibition on [[oil exploitation]] and [[gold mining]] calling those who opposed it "[[eco-terrorists]] and [[extremists]]".<ref name=cascante>{{cite news|last1=Cascante|first1=Luis Fernando|title=Juan Diego Castro: "Si vivimos sobre un paraíso de petróleo, vamos a explotarlo como se debe"|url=https://semanariouniversidad.com/ultima-hora/juan-diego-castro-vivimos-paraiso-petroleo-explotarlo-se/|access-date=17 January 2018|agency=Semanario Universidad|date=16 January 2018}}</ref> Desanti also said that "extremists should not dictate environmental policies" but mentioned that he opposes [[oil exploitation]]. Both Alvarado Quesada and Araya are staunch opponents of all forms of oil [[Oil exploration|exploration]] and exploitation.<ref>{{cite news|last1=Gutiérrez Wa-Chong|first1=Tatiana|title=PAC y FA quieren a Recope compitiendo con combustibles limpios|url=https://www.larepublica.net/noticia/pac-y-fa-quieren-a-recope-compitiendo-con-combustibles-limpios|access-date=17 January 2018|agency=La República|date=8 November 2017}}</ref>
+
+A surprising ruling from the [[Inter-American Court of Human Rights]] extending all rights enjoyed by heterosexual couples to [[same-sex couples]] made after Costa Rica's government lodged a motion for clarification also had an impact on the campaign. The ruling may require up to 22 signatory countries of the [[Pact of San José]] that recognize the contentious authority of the IACHR to change their laws to legalize [[same-sex marriage]] (whether by legislative or judicial methods, or both). Most polls show that most Costa Ricans oppose gay marriage albeit with large numbers supporting it (in a general ratio of 60–40%).<ref>{{cite news|title=55% a favor de igualdad en derechos|language=es|newspaper=La Nación|date=12 February 2012|url=http://www.nacion.com/2012-02-12/RevistaDominical/%C2%A055--a-favor-de-igualdad-en%C2%A0-derechos.aspx|access-date=13 February 2012|first=Ángela|last=Ávalos|archive-date=15 February 2012|archive-url=https://web.archive.org/web/20120215094444/http://www.nacion.com/2012-02-12/RevistaDominical/%C2%A055--a-favor-de-igualdad-en%C2%A0-derechos.aspx|url-status=dead}}</ref><ref>[http://www.pewforum.org/2014/11/13/chapter-5-social-attitudes/ Religion in Latin America Chapter 5: Social Attitudes]</ref><ref>[http://www.pewforum.org/2014/11/13/appendix-a-methodology/ Religion in Latin America Appendix A: Methodology]</ref><ref>{{in lang|es}} [https://www.elmundo.cr/se-mantienen-actitudes-conservadoras-en-costa-rica-sobre-matrimonio-igualitario-y-estado-laico/ Se mantienen actitudes conservadoras en Costa Rica sobre matrimonio igualitario y Estado laico]</ref> Opponents of [[gay marriage]] were outraged by the ruling, causing an increase in [[social media]] support for [[Christian music|Christian singer]] and journalist [[Fabricio Alvarado Muñoz]]<ref name=derechos>{{cite news|last1=Arrieta|first1=Esteban|title=Derechos gais elevan acciones del PAC y Restauración|url=https://www.larepublica.net/noticia/derechos-gais-elevan-acciones-del-pac-y-restauracion|access-date=17 January 2018|agency=La República|date=16 January 2018}}</ref> from the staunchly [[Cultural conservatism|conservative]] [[National Restoration Party (Costa Rica)|National Restoration Party]] (a normally small party with [[Testimonial party|testimonial results]] mostly supported by the [[Evangelical Christian]] minority). Alvarado Muñoz was, for the first time for an Evangelical candidate, attracting Catholic voters.<ref name=derechos /> Nevertheless, Alvarado Muñoz' gain also saw a counter-reaction. Social media support for progressive pro-gay marriage candidate [[Carlos Alvarado|Carlos Alvarado Quesada]] was also notable, particularly among [[millennials]] and [[Generation Z|centennials]] who mostly support [[Cultural liberalism|socially liberal]] policies.<ref name=derechos /> Some analysts point to a possible polarization between conservative and progressive voters, or among religious and secular or older and younger generations depending on the measure, which pushed both Alvarados into the second round.<ref name=derechos /> At least two [[homophobic]] attacks were reported.<ref>{{cite news|title=#Video ¡Intolerancia total! Hombre recibió un machetazo en el cuello solo por ser homosexual, hechos ocurrieron en Turrialba.|url=http://ncrnoticias.com/video-intolerancia-total-hombre-recibio-un-machetazo-en-el-cuello-solo-por-ser-homosexual-hechos-ocurrieron-en-turrialba/|access-date=19 January 2018|agency=NCR|date=18 January 2018|archive-url=https://web.archive.org/web/20180119120551/http://ncrnoticias.com/video-intolerancia-total-hombre-recibio-un-machetazo-en-el-cuello-solo-por-ser-homosexual-hechos-ocurrieron-en-turrialba/|archive-date=19 January 2018|url-status=dead}}</ref><ref>{{cite news|last1=Alfaro|first1=Josué|title=Joven denuncia agresión por odio a la comunidad LGTBI|url=https://semanariouniversidad.com/pais/joven-denuncia-agresion-odio-la-comunidad-lgtbi/|access-date=19 January 2018|agency=Semanario Universidad|date=16 January 2018}}</ref>
+
+During the run-off campaign, Alvarado Muñoz’ strategy focused on linking his rival with the somewhat unpopular government at the time by pointing out its flaws, errors and scandals.<ref>{{cite news|last1=Cambronero|first1=Natasha|title=Fabricio Alvarado finaliza su campaña con críticas al gobierno por seguridad, cemento y empleo|url=https://www.nacion.com/el-pais/politica/fabricio-alvarado-cierra-su-campana-con-ataques-al/PJZCXKAOTZE2LJNIIU6IK7M3GQ/story/|access-date=3 April 2018|work=La Nación|date=24 March 2018}}</ref> On the contrary, Alvarado Quesada tried to distance himself from Luis Guillermo Solís’ Administration, but at the same time highlighted its achievements.<ref>{{cite news|title=Carlos Alvarado, el exministro escritor y rockero que será el próximo presidente de Costa Rica|url=https://www.teletica.com/190276_carlos-alvarado-el-exministro-escritor-y-rockero-que-sera-el-proximo-presidente-de-costa-rica|access-date=3 April 2018|agency=Teletica|date=2 April 2018}}</ref> Muñoz also reinforced his idea of defending "pro-life and family" values, whilst Quesada insisted in wanting an inclusive country with no "second class citizens". Quesada's strategy focused in presenting Muñoz as inexperienced and unprepared, pointing out his delay in presenting his second government program as promised and contradictions between him and some of his close collaborators.<ref name=DebateTN7>{{cite news|last1=Redacción|title=Estas fueron las frases más álgidas del #DebateTN7 entre Carlos y Fabricio Alvarado|url=https://www.teletica.com/189947_estas-fueron-las-frases-mas-algidas-del-debatetn7-entre-carlos-y-fabricio-alvarado|access-date=3 April 2018|agency=Telenoticias|date=27 March 2018}}</ref>
+
+A series of controversies affected Muñoz' presidential run, including accusations of plagiarism on his government program,<ref>{{cite news|last1=Martínez Roque|first1=Valeria|title=Programa 2.0 de Fabricio Alvarado contiene plagios al plan de gobierno de Carlos Alvarado|url=https://www.elmundo.cr/programa-2-0-fabricio-alvarado-contiene-plagios-al-plan-gobierno-carlos-alvarado/|access-date=3 April 2018|agency=Mundo|date=29 March 2018|archive-date=19 August 2018|archive-url=https://web.archive.org/web/20180819023854/https://www.elmundo.cr/programa-2-0-fabricio-alvarado-contiene-plagios-al-plan-gobierno-carlos-alvarado/|url-status=dead}}</ref> a delay in the presentation of his party's financial reports, high payments to him and some other high-ranking party members for services during the campaign,<ref name=tropiezo>{{cite news|last1=Cascante|first1=Luis|title=Campaña plagada de tropiezos marcó derrota de Fabricio Alvarado|url=https://semanariouniversidad.com/ultima-hora/campana-plagada-de-tropiezos-marco-derrota-de-fabricio-alvarado/|access-date=3 April 2018|agency=Semanario Universidad|date=2 April 2018}}</ref> etc. But probably one of the most damaging was the content of a book written by pastor and tele-evangelist Ronny Chaves (close collaborator of Fabricio and described by him as "spiritual father") calling "La Negrita" or [[Virgen de los Ángeles]] (Costa Rica's [[patron saint]]) a demon. Something that some analysts highlight as hurtful to many Catholics' feelings causing many of them to switch towards Carlos Alvarado.<ref name=teja>{{cite news|last1=Castillo|first1=Bryan|title=Ataque a la patrona fue un pecado|url=https://www.pressreader.com/costa-rica/la-teja/20180403/281582356191790|access-date=3 April 2018|agency=La Teja|date=3 April 2018}}</ref> In fact, the [[Cartago Province]] which is Costa Rica's Catholic epicenter and see of the [[Basilica of Our Lady of the Angels, Cartago|Basílica de Nuestra Señora de los Ángeles]] is where Quesada's support was higher (75%), on the contrary Fabricio won by wide margin in the mostly Protestant [[Limón Province|province of Limón]].
+
+In the second round Carlos kept [[San José Province|San José]], [[Heredia Province|Heredia]] and Cartago Provinces and all of the [[Cantons of Costa Rica|cantons]] he won in the first one, and managed to turn [[Alajuela Province|Alajuela]] and [[Guanacaste Province|Guanacaste]] on his favor.<ref name="alfaro salazar">{{cite news|last1=Alfaro|first1=Josué|last2=Salazar|first2=Daniel|title=Carlos Alvarado gana con contundencia la segunda vuelta electoral|url=https://semanariouniversidad.com/pais/carlos-alvarado-gana-la-segunda-vuelta-electoral/|access-date=2 April 2018|agency=Semanario Universidad|date=1 April 2018}}</ref> He also won, again, the foreign vote winning all ballot booths overseas except Singapore were there was a tie. Fabricio kept [[Puntarenas Province|Puntarenas]] and Limón as his strongholds and won in all cantons of Limon, most of the Punteranas cantons, four of the northern cantons of Alajuela ([[San Carlos (canton)|San Carlos]], [[Upala (canton)|Upala]], [[Guatuso (canton)|Guatuso]] and [[Los Chiles (canton)|Los Chiles]]) and [[Sarapiqui Canton|Sarapiqui]] in Heredia.<ref name="alfaro salazar" /> [[Abstentionism]] was less during the second round for the first time in history.<ref name="alfaro salazar" />
+
+== Polling and voters' behavior ==
+During pre-campaign [[Juan Diego Castro]] emerged as one of the most popular political figures with around 51% of positive opinions, followed by [[Antonio Álvarez Desanti]] with 36%, with Libertarian deputy [[Otto Guevara]] and former president [[José María Figueres]] as the ones with more negative opinions.<ref>{{cite news|last1=CID-Gallup|title=LUIS GUILLERMO SOLÍS SIGUE COMO EL MÁS POPULAR; En segundo lugar está Juan Diego Castro y en tercero Antonio Álvarez|url=https://www.cidgallup.com/es/virtual-library/download/484-|access-date=5 October 2017|archive-url=https://web.archive.org/web/20171005202246/https://www.cidgallup.com/es/virtual-library/download/484-|archive-date=5 October 2017|url-status=dead}}</ref> After the PLN primary in which Desanti won over Figueres by slight margin, Desanti started the campaign as frontrunner for a while with up to 36% support in some early polls.<ref name="Gallup 3">{{cite news|last1=Quirós Navarro|first1=Bharley|title=Juan Diego Castro se dispara en encuestas|url=https://www.diarioextra.com/Noticia/detalle/331603/segun-cid-gallup-en-encuestas|access-date=5 May 2017|agency=Diario Extra|date=4 May 2017}}</ref> Castro was also among the favorites even before he had a party supporting his candidacy (something required by law in Costa Rica as independent candidates are not allowed). As the campaign continued Desanti suffered a constant decrease in voters' intent.<ref>{{cite news|last1=Madrigal|first1=Luis|title=ENCUESTA: Antonio Álvarez lidera intención de voto, pero no ganaría en una primera ronda|url=http://www.elmundo.cr/encuesta-antonio-alvarez-lidera-intencion-voto-no-ganaria-una-primera-ronda/|access-date=31 May 2017|agency=Mundo|date=29 May 2017|archive-url=https://web.archive.org/web/20170601021555/http://www.elmundo.cr/encuesta-antonio-alvarez-lidera-intencion-voto-no-ganaria-una-primera-ronda/|archive-date=1 June 2017|url-status=dead}}</ref> Castro remained as frontrunner for most of 2017, but an erratic and heavily controversial campaign begins to affect him losing support in January. PUSC's [[Rodolfo Piza]] remained as second in some polls, later replaced by Castro but still in third place.<ref>{{cite news|last1=Angulo|first1=Yamileth|title=ENCUESTA: Álvarez 15,35%, Piza 10,76%, Castro 9,99%, Hernández 4,92%|url=http://www.elmundo.cr/encuesta-alvarez-1535-piza-1076-castro-999-hernandez-492/|agency=Mundo|date=26 June 2017|archive-date=31 July 2017|access-date=24 November 2017|archive-url=https://web.archive.org/web/20170731141529/http://www.elmundo.cr/encuesta-alvarez-1535-piza-1076-castro-999-hernandez-492/|url-status=dead}}</ref>
+
+The "Cementazo" scandal affected heavily the parties involved (PAC, PLN, PUSC and ML) especially during November and December when the Parliamentary Committee investigating the issue made most of its hearings, with all parties facing a reduction on their support.<ref>{{cite news|last1=Madrigal|first1=Luis Manuel|title=Candidatos afectados por el "cementazo" recuperan intención de voto|url=https://www.elmundo.cr/candidatos-afectados-cementazo-recuperan-intencion-voto|access-date=25 September 2017|agency=elmundo.cr|date= 28 September 2017}}</ref>
+
+The IACHR's ruling on same-sex marriage caused a turmoil in the country, with conservative candidate and staunch opponent [[Fabricio Alvarado]] showing a rapid increase in support passing from marginal percentages of around 2–6% to be in the lead with up to 17%. However, [[Carlos Alvarado]]'s support also started to grow unusually fast especially in mid and late January with the later polls showing him surpassing other candidates including Castro and Piza, passing from sixth to third in a couple of days, and even in a technical tie with Desanti showing possibilities to go into the run-off. Castro appeared in fourth and Piza in fifth place as of late January.<ref>{{cite news|last1=Esteban Arrieta|title=PAC amenaza con sacar al PLN de segunda ronda|url=https://www.larepublica.net/noticia/pac-amenaza-con-sacar-al-pln-de-segunda-ronda|access-date=1 February 2018|agency=31 January 2018|publisher=La República}}</ref> PAC's support historically tend to increase in January and after the debates, but it was also possible that its support came from more liberal voters fearful of a religious government.
+
+According to polls Fabricio Alvarado Muñoz took most of his support from [[Evangelical Christian]] voters who represented around 70% of his supporters,<ref name="sem uni 2">{{cite news|last1=Murillo|first1=Alvaro|title=Evangélicos aportaron 70% de votos de Fabricio Alvarado y 15% en el PAC|url=https://semanariouniversidad.com/ultima-hora/evangelicos-aportaron-70-votos-fabricio-alvarado-15-pac/|access-date=22 February 2018|agency=Semanario Universidad|date=16 February 2018}}</ref> followed by 20% [[Roman Catholics]] and 8% with no religion. Carlos Alvarado Quesada, on the contrary, was mostly supported by [[Catholics]] with 52% of his voters belonging to that denomination,<ref name="sem uni 2" /> followed by 29% [[non-religious]] and 13% [[Protestants]].<ref name="sem uni 2" /> Alvarado Quesada was most popular among urban voters with higher education,<ref name="shock">{{cite news|last1=Murillo|first1=Álvaro|last2=Rodríguez|first2=Frank|language=es|trans-title=Religious shock impacts candidate support|title=Shock religioso impacta apoyo a candidatos|url=https://www.ciep.ucr.ac.cr/index.php/noticias/77-shock-religioso-impacta-apoyo-a-candidatos|access-date=25 January 2018|agency=CIEP (UCR)|date=24 January 2018|archive-url=https://web.archive.org/web/20180126012746/https://www.ciep.ucr.ac.cr/index.php/noticias/77-shock-religioso-impacta-apoyo-a-candidatos|archive-date=26 January 2018|url-status=dead}}</ref> whilst Alvarado Muñoz had strong support by those with only elementary or high school levels of education.<ref name="shock" /> Also Alvarado Quesada was more popular among voters under 35, whilst Alvarado Muñoz was more popular among women under 35 and voters of both sexes over 55.<ref name="shock" />
+
+A post-election study completed by the [[University of Costa Rica]] showed that Alvarado Quesada's success was in part due to his performance in the debates, his campaign and defense of the [[Rule of law]].<ref name=ncr2>{{cite news|last1=Chinchilla|first1=Sofía|title=Estudio de UCR: Por estos factores Carlos Alvarado ganó las elecciones|url=https://www.nacion.com/el-pais/politica/estudio-de-ucr-por-estos-factores-carlos-alvarado/Z23FELJ7JVERRPHU5V5UPAMR4Q/story/|access-date=26 April 2018|work=La Nación|date=26 April 2018}}</ref> Whilst Alvarado Muñoz' supporters mentioned defense of the [[traditional family]], the fact that he was a believer and being an alternative to PAC.<ref name=ncr2 /> Religion wasn't such an important factor as originally thought, but 71% of Alvarado Quesada's voters mentioned Ronny Chaves' [[anti-Catholic]] statements as something "bad or very bad", against 35% of Fabricio's voters expressing that such thing was indifferent to them.<ref name=ncr2 /> Roman Catholics were 60% more likely to vote for Carlos Alvarado than non-Catholics that were only 30%.<ref name=ncr2 /> Alvarado Quesada had also much more support from [[Middle class|middle]] and [[High Class]]es especially from the urban areas and the [[Central Valley, Costa Rica|Central Valley]] whilst Fabricio's support came from the periphery and coastal areas with higher poverty levels and where the population is lower and less willing to vote at all.<ref name=ncr2 />
+
+===Polling tampering ===
+{{Quote box|width=300px|align=right|quote=One day I'll tell you where the fraud was, every Friday we expected a survey that was false.|source=[[National Restoration Party (Costa Rica)|National Restoration President]] Carlos Avendaño, October 2018.<ref name=fraude>{{cite news|last1=Chinchilla|first1=Sofía|last2=Oviedo|first2=Esteban|title=Carlos Avendaño responde a Fabricio Alvarado: 'Un día les digo dónde estuvo el fraude'|url=https://www.nacion.com/el-pais/politica/carlos-avendano-fabricio-alvarado-debe-aclarar/3VWA74IBR5CRVP6VAFBMISCVNM/story/|access-date=29 October 2018|work=La Nación|year=2018}}</ref>}}
+The last poll of the second round scheduled for 28 March was canceled due to the fact that OPol Consultores' executives alleged that threats had been made against their collaborators. Shortly before this announcement, social media reported that a vehicle registered in the name of the [[private limited company]] to which the pollster belongs and led by the director of the company traveled with flags of National Restoration.<ref>{{cite news|last1=Delfino|first1=Diego|title=El Opolazo nos deja sin encuesta final|url=https://delfino.cr/2018/03/opolazo-nos-deja-sin-encuesta-final/|access-date=2 April 2018|agency=Delfino|date=28 March 2018}}</ref>
+
+Also the poll published by the Institute of Population Studies (IDESPO) of the National University, the only one that showed a wide advantage on the part of Carlos Alvarado over Fabricio, was questioned almost immediately by the digital newspaper ''El Mundo'' questioning its methodology.<ref>{{cite news|last1=Angulo|first1=Yamileth|title=UNA divulga encuesta que "representa el 42% de la población" y pone arriba a Carlos Alvarado|url=https://www.elmundo.cr/una-divulga-encuesta-representa-42-la-poblacion-pone-carlos-alvarado/|access-date=25 May 2018|work=El Mundo|date=27 February 2018}}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref> The Supreme Electoral Tribunal and the university's Council reaffirmed the validity of the poll.<ref>{{cite news|last1=Solano|first1=Hermes|title=TSE dice que polémica encuesta de la UNA está avalada|url=https://www.crhoy.com/nacionales/tse-dice-que-polemica-encuesta-de-la-una-esta-avalada/|access-date=25 May 2018|agency=CRHoy|date=7 March 2018}}</ref><ref>{{cite news|last1=Pérez|first1=Karla|title=Consejo Universitario de la UNA valida metodología en encuesta de IDESPO|url=https://www.elmundo.cr/consejo-universitario-universidad-nacional-valida-metodologia-encuesta-idespo/|access-date=25 May 2018|agency=Mundo|date=6 March 2018}}{{Dead link|date=September 2026 |bot=InternetArchiveBot }}</ref> The IDESPO poll would be the closest to the electoral result of the second round together with an informal poll conducted by the ''Los Paleteros'' ice cream company.<ref>{{cite news|last1=Cubero|first1=Alexandra|title=¿Cómo la encuesta de Los Paleteros se acercó más a los resultados electorales?|url=https://www.larepublica.net/noticia/como-fue-que-la-encuesta-de-los-paleteros-se-acerco-mas-a-los-resultados-electorales|access-date=25 May 2018|agency=La República|date=2 April 2018}}</ref>
+
+After the campaign it was made public that during the second round the executive committee of the National Restoration Party had made payments to the polling company OPol according to financial reports submitted to the Supreme Electoral Tribunal. Party officials reported that these were political consultancies unrelated to the polls, however, subsequent investigations by the newspaper ''La Nación'' discovered a contract for the payment of the six polls that were carried out during the second round campaign, of which five were published by ''El Mundo''. In all of them Fabricio Alvarado appeared as the winner by a wide margin. They were immediately shared in the social media of the group and the candidate as well as party personalities and allies including deputy-elect and vice presidential candidate Jonathan Prendas and deputy Mario Redondo. Catherina Convertino, general manager of Opinión Política CyC, a [[private limited company]] that owns both OPol and ''El Mundo'' newspaper, confirmed to ''La Nación'' that the second round polls had been requested by Juan Carlos Campos, head of the National Restoration campaign and that they decided to make it public following the debt of the party in the total payment of the contract.<ref name=opolazo>{{cite news|last1=Cambronero|first1=Natasha|title=Encuestas de Opol se hicieron por encargo de Restauración Nacional de cara a la segunda ronda|url=https://www.nacion.com/el-pais/politica/encuestas-de-opol-se-hicieron-por-encargo-de/67BL2AJD2FGCPHG7CMMIPTCXFU/story/|access-date=25 May 2018|work=La Nación|date=25 May 2018}}</ref>
+
+==Opinion polls==
+{{main|Opinion polling for the 2018 Costa Rican general election}}
+
+==Results==
+===President===
+[[File:Costa_Rica_general_election_2018_-_Legislative_%26_Presidential_Election_Results.svg|400px|thumb|Map on the left shows the seats won by each party by province. The map on the right shows which party won the plurality in each province in both rounds of the Presidential election.]]
+{{Election results
+|cand1=[[Fabricio Alvarado Muñoz]]|party1=[[National Restoration Party (Costa Rica)|National Restoration Party]]|votes1=538504|votes1_2=860388
+|cand2=[[Carlos Alvarado|Carlos Alvarado Quesada]]|party2=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes2=466129|votes2_2=1322908
+|cand3=[[Antonio Álvarez Desanti]]|party3=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes3=401505
+|cand4=[[Rodolfo Piza Rocafort]]|party4=[[Social Christian Unity Party]]|votes4=344595
+|cand5=[[Juan Diego Castro Fernández]]|party5=[[National Integration Party (Costa Rica)|National Integration Party]]|votes5=205602
+|cand6={{ill|Rodolfo Hernández Gómez|es}}|party6=[[Social Christian Republican Party]]|votes6=106444
+|cand7=[[Otto Guevara]]|party7=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes7=21890
+|cand8=Edgardo Araya|party8=[[Broad Front (Costa Rica)|Broad Front]]|votes8=16862
+|cand9=Sergio Mena|party9=[[New Generation Party (Costa Rica)|New Generation Party]]|votes9=16329
+|cand10=Mario Redondo|party10=[[Christian Democratic Alliance (Costa Rica)|Christian Democratic Alliance]]|votes10=12638
+|cand11=Stephanie Campos|party11=[[Costa Rican Renewal Party]]|votes11=12309
+|cand12=[[Óscar López (Costa Rican politician)|Óscar López]]|party12=[[Accessibility without Exclusion Party]]|votes12=7539
+|cand13=Jhon Vega|party13=[[Workers' Party (Costa Rica)|Workers' Party]]|votes13=4351
+|invalid=28067|invalid2=24260
+|electorate=3322329|electorate2=3322329
+|source=[https://servicioselectorales.tse.go.cr/resultadosdefinitivos/#/presidenciales TSE], [https://servicioselectorales.tse.go.cr/resultados2darondadefinitivos/#/presidenciales TSE]
+}}
+
+====By province====
+'''First round'''
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| [[Provinces of Costa Rica|Province]]
+!width=60px| [[National Restoration Party (Costa Rica)|PREN]] %
+!width=60px| [[Citizens' Action Party (Costa Rica)|PAC]] %
+!width=60px| [[National Liberation Party (Costa Rica)|PLN]] %
+!width=60px| [[Social Christian Unity Party|PUSC]] %
+!width=60px| [[National Integration Party (Costa Rica)|PIN]] %
+!width=60px| [[Social Christian Republican Party|PRSC]] %
+!width=60px| [[Libertarian Movement (Costa Rica)|ML]] %
+!width=60px| [[Broad Front (Costa Rica)|FA]] %
+!width=60px| [[New Generation Party (Costa Rica)|PNG]] %
+!width=60px| Other %
+|-
+!style="background:{{party color|National Restoration Party (Costa Rica)}}"|
+!style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+!style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+!style="background:{{party color|Social Christian Unity Party}}"|
+!style="background:{{party color|National Integration Party (Costa Rica)}}"|
+!style="background:{{party color|Social Christian Republican Party}}"|
+!style="background:{{party color|Libertarian Movement (Costa Rica)}}"|
+!style="background:{{party color|Broad Front (Costa Rica)}}"|
+!style="background:{{party color|New Generation Party (Costa Rica)}}"|
+!style="background:#7a7a7a"|
+|-
+| align="left"| {{nowrap|{{flag|San José Province}}}}
+| style="background:#ADD8E6; color:black;"| 22.89
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 23.51
+| 17.98
+| 17.98
+| 9.01
+| 4.59
+| 1.02
+| 0.78
+| 0.85
+| 1.40
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 26.76
+| style="background:#FFEB7F; color:black;"| 21.83
+| 18.16
+| 15.23
+| 8.85
+| 5.44
+| 0.91
+| 0.75
+| 0.72
+| 1.34
+|-
+| align="left"| {{flag|Cartago Province}}
+| 15.02
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 26.43
+| style="background:#66B27B; color:white;"| 20.17
+| 15.06
+| 10.87
+| 6.36
+| 1.03
+| 0.76
+| 0.86
+| 3.45
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:#ADD8E6; color:black;"| 21.18
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 27.28
+| 17.68
+| 18.08
+| 8.07
+| 3.72
+| 1.02
+| 0.80
+| 0.93
+| 1.23
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 35.54
+| 12.02
+| style="background:#66B27B; color:white;"| 18.50
+| 13.64
+| 11.51
+| 4.85
+| 1.07
+| 0.80
+| 0.56
+| 1.50
+|-
+| align="left"| {{flag|Limón}}
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 42.58
+| 10.56
+| style="background:#66B27B; color:white;"| 17.56
+| 9.24
+| 10.40
+| 4.59
+| 1.29
+| 0.94
+| 0.43
+| 2.41
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 25.56
+| 15.08
+| style="background:#66B27B; color:white;"| 23.56
+| 15.81
+| 11.20
+| 5.20
+| 0.96
+| 0.67
+| 0.49
+| 1.46
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 24.99
+| 21.63
+| 18.63
+| 15.99
+| 9.54
+| 4.94
+| 1.02
+| 0.78
+| 0.76
+| 1.72
+|-
+|align=left colspan=11|Source: [http://resultados2018.tse.go.cr/resultadosdefinitivos/#/presidenciales TSE] {{Webarchive|url=https://web.archive.org/web/20181209140120/http://resultados2018.tse.go.cr/resultadosdefinitivos/#/presidenciales |date=9 December 2018 }}
+|}
+'''Abroad vote'''
+{{Pie chart
+| thumb = right
+| caption = Abroad vote
+| other = 
+| label1 =PAC
+| value1 =37.67
+| color1 ={{party color|Citizens' Action Party (Costa Rica)}}
+| label2 =PUSC
+| value2 =22.73
+| color2 ={{party color|Social Christian Unity Party}}
+| label3 =PLN
+| value3 =17.03
+| color3 ={{party color|National Liberation Party (Costa Rica)}}
+| label4 =PREN
+| value4 =11.66
+| color4 ={{party color|National Restoration Party (Costa Rica)}}
+| label5 =PIN
+| value5 =5.53
+| color5 ={{party color|National Integration Party (Costa Rica)}}
+| label6 =FA
+| value6 =1.82
+| color6 ={{party color|Broad Front (Costa Rica)}}
+| label7 = PRSC
+| value7 = 0.98
+| color7 ={{party color|Social Christian Republican Party}}
+| label8 = PNG
+| value8 = 0.73
+| color8 ={{party color|New Generation Party (Costa Rica)}}
+| label9 = ML
+| value9 = 0.71
+| color9 ={{party color|Libertarian Movement (Costa Rica)}}
+}}
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| Country
+!width=60px| [[National Restoration Party (Costa Rica)|PREN]] %
+!width=60px| [[Citizens' Action Party (Costa Rica)|PAC]] %
+!width=60px| [[National Liberation Party (Costa Rica)|PLN]] %
+!width=60px| [[Social Christian Unity Party|PUSC]] %
+!width=60px| [[National Integration Party (Costa Rica)|PIN]] %
+!width=60px| [[Social Christian Republican Party|PRSC]] %
+!width=60px| [[Libertarian Movement (Costa Rica)|ML]] %
+!width=60px| [[Broad Front (Costa Rica)|FA]] %
+!width=60px| [[New Generation Party (Costa Rica)|PNG]] %
+!width=60px| Other %
+|-
+!style="background:{{party color|National Restoration Party (Costa Rica)}}"|
+!style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+!style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+!style="background:{{party color|Social Christian Unity Party}}"|
+!style="background:{{party color|National Integration Party (Costa Rica)}}"|
+!style="background:{{party color|Social Christian Republican Party}}"|
+!style="background:{{party color|Libertarian Movement (Costa Rica)}}"|
+!style="background:{{party color|Broad Front (Costa Rica)}}"|
+!style="background:{{party color|New Generation Party (Costa Rica)}}"|
+!style="background:#7a7a7a"|
+|-
+| align="left"| {{nowrap|{{flag|Germany}}}}
+| 1.23
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 66.87
+| 5.52
+| style="background:#7F7FC3; color:white;"| 17.79
+| 3.07
+| –
+| –
+| 3.68
+| 1.84
+| –
+|-
+| align="left"| {{flag|Argentina}}
+| 3.75
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 55.00
+| 8.75
+| style="background:#7F7FC3; color:white;"| 15.00
+| 5.00
+| –
+| 1.25
+| 10.00
+| 1.25
+| –
+|-
+| align="left"| {{flag|Austria}}
+| 2.63
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 57.89
+| 7.89
+| style="background:#7F7FC3; color:white;"| 23.68
+| 7.89
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{flag|Belgium}}
+| –
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 49.02
+| style="background:#66B27B; color:white;"| 21.57
+| style="background:#7F7FC3; color:white;"| 21.57
+| 3.92
+| 1.96
+| –
+| 1.96
+| –
+| –
+|-
+| align="left"| {{flag|Belize|1981}}
+| –
+| style="background:#FFEB7F; color:black;"| 25.00
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 75.00
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{flag|Brazil}}
+| style="background:#ADD8E6; color:black;"| 14.29
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 33.33
+| style="background:#66B27B; color:white;"| 14.29
+| style="background:#7F7FC3; color:white;"| 14.29
+| 4.76
+| –
+| 4.76
+| style="background:#FFF77F; color:black;"| 14.29
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Canada}}}}
+| 7.64
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 47.92
+| 11.81
+| style="background:#7F7FC3; color:white;"| 17.36
+| 4.86
+| 2.08
+| 2.08
+| 2.78
+| 2.08
+| 1.39
+|-
+| align="left"| {{nowrap|{{flag|Chile}}}}
+| 3.70
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 48.15
+| 19.44
+| style="background:#7F7FC3; color:white;"| 24.07
+| 0.93
+| –
+| –
+| 1.85
+| –
+| 1.85
+|-
+| align="left"| {{nowrap|{{flag|China}}}}
+| 2.27
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 45.45
+| style="background:#66B27B; color:white;"| 22.73
+| style="background:#7F7FC3; color:white;"| 22.73
+| –
+| –
+| 2.27
+| 2.27
+| –
+| 2.27
+|-
+| align="left"| {{nowrap|{{flag|Colombia}}}}
+| 2.78
+| style="background:#FFEB7F; color:black;"| 30.36
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 36.11
+| 20.83
+| 6.94
+| 1.39
+| –
+| 1.39
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|South Korea}}}}
+| style="background:#ADD8E6; color:black;"| 14.29
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 50.00
+| style="background:#66B27B; color:white;"| 14.29
+| style="background:#7F7FC3; color:white;"| 14.29
+| 7.14
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Cuba}}}}
+| 4.17
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 45.83
+| 4.17
+| –
+| style="background:#cfebfd; color:black;"| 12.50
+| –
+| 4.17
+| 8.33
+| 4.17
+| 16.67
+|-
+| align="left"| {{nowrap|{{flag|Ecuador}}}}
+| 8.00
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 48.00
+| 4.00
+| style="background:#7F7FC3; color:white;"| 24.00
+| –
+| –
+| 4.00
+| 12.00
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|United States}}}}
+| 18.44
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 30.49
+| 16.06
+| style="background:#7F7FC3; color:white;"| 23.30
+| 7.18
+| 1.70
+| 0.40
+| 0.62
+| 0.79
+| 1.02
+|-
+| align="left"| {{nowrap|{{flag|El Salvador}}}}
+| 5.97
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 26.87
+| style="background:#66B27B; color:white;"| 23.88
+| 22.39
+| 14.93
+| 1.49
+| 1.49
+| 1.49
+| –
+| 1.49
+|-
+| align="left"| {{nowrap|{{flag|Spain}}}}
+| 5.45
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 51.98
+| 12.87
+| style="background:#7F7FC3; color:white;"| 24.75
+| 1.49
+| –
+| 0.50
+| 1.98
+| 0.50
+| 0.50
+|-
+| align="left"| {{nowrap|{{flag|France|1974}}}}
+| 0.71
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 63.83
+| style="background:#66B27B; color:white;"| 14.18
+| 12.77
+| 2.84
+| –
+| –
+| 4.26
+| 1.42
+| –
+|-
+| align="left"| {{nowrap|{{flag|Guatemala}}}}
+| 15.63
+| style="background:#FFEB7F; color:black;"| 23.13
+| 20.63
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 25.00
+| 10.00
+| 0.63
+| –
+| 3.13
+| 1.25
+| 0.63
+|-
+| align="left"| {{nowrap|{{flag|Honduras|1949}}}}
+| 11.84
+| style="background:#FFEB7F; color:black;"| 25.00
+| 19.74
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 28.95
+| 7.89
+| 1.32
+| 1.32
+| 1.32
+| 1.32
+| 1.32
+|-
+| align="left"| {{nowrap|{{flag|Israel}}}}
+| 11.84
+| 15.38
+| style="background:#66B27B; color:white;"| 30.77
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 38.46
+| 15.38
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Italy}}}}
+| 6.25
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 45.31
+| style="background:#66B27B; color:white;"| 20.31
+| 17.19
+| 4.69
+| 1.56
+| –
+| –
+| –
+| 4.69
+|-
+| align="left"| {{nowrap|{{flag|Japan}}}}
+| 7.69
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 53.85
+| –
+| style="background:#7F7FC3; color:white;"| 26.92
+| 7.69
+| –
+| –
+| 3.85
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Mexico}}}}
+| 7.45
+| style="background:#FFEB7F; color:black;"| 35.64
+| 12.23
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 36.17
+| 3.19
+| –
+| 0.53
+| 2.13
+| 0.53
+| 2.13
+|-
+| align="left"| {{nowrap|{{flag|Nicaragua}}}}
+| 12.85
+| 20.59
+| style="background:#66B27B; color:white;"| 25.49
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 27.45
+| 3.92
+| –
+| 2.94
+| 0.98
+| –
+| 5.88
+|-
+| align="left"| {{nowrap|{{flag|Netherlands}}}}
+| 7.69
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 68.81
+| 7.34
+| style="background:#7F7FC3; color:white;"| 15.60
+| 2.75
+| –
+| 1.83
+| 2.75
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Panama}}}}
+| 13.57
+| 23.62
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 28.64
+| style="background:#7F7FC3; color:white;"| 25.13
+| 5.03
+| –
+| 2.51
+| –
+| 0.50
+| 1.00
+|-
+| align="left"| {{nowrap|{{flag|Peru}}}}
+| 16.28
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 37.21
+| style="background:#66B27B; color:white;"| 20.93
+| 18.60
+| 6.98
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|United Kingdom}}}}
+| 1.67
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 44.17
+| style="background:#66B27B; color:white;"| 25.83
+| 23.33
+| 0.83
+| –
+| –
+| 2.50
+| 0.83
+| 0.83
+|-
+| align="left"| {{nowrap|{{flag|Dominican Republic}}}}
+| 19.15
+| style="background:#FFEB7F; color:black;"| 21.28
+| 17.02
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 38.30
+| –
+| –
+| –
+| –
+| 2.13
+| 2.13
+|-
+| align="left"| {{nowrap|{{flag|Russia}}}}
+| –
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 64.29
+| style="background:#66B27B; color:white;"| 21.43
+| –
+| 14.29
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Singapore}}}}
+| 16.67
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 41.67
+| 8.33
+| style="background:#7F7FC3; color:white;"| 25.00
+| –
+| –
+| 8.33
+| –
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Switzerland}}}}
+| 7.45
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 43.62
+| style="background:#66B27B; color:white;"| 22.34
+| 21.28
+| 1.06
+| –
+| –
+| 4.26
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Trinidad and Tobago}}}}
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 33.33
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 33.33
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 33.33
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Uruguay}}}}
+| style="background:#ADD8E6; color:black;"| 14.29
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 57.14
+| –
+| style="background:#7F7FC3; color:white;"| 14.29
+| style="background:#cfebfd; color:black;"| 14.29
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Venezuela}}}}
+| 10.00
+| 16.00
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 42.00
+| style="background:#7F7FC3; color:white;"| 20.00
+| 2.00
+| 6.00
+| –
+| 4.00
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|India}}}}
+| –
+| –
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 100.00
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Qatar}}}}
+| –
+| 18.75
+| style="background:#66B27B; color:white;"| 25.00
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 43.75
+| 12.50
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Bolivia}}}}
+| –
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 75.00
+| –
+| style="background:#7F7FC3; color:white;"| 25.00
+| –
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Paraguay}}}}
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 28.57
+| style="background:#FFEB7F; color:black;"| 14.29
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 28.57
+| style="background:#7F7FC3; color:white;"| 14.29
+| –
+| 7.14
+| –
+| –
+| –
+| 7.14
+|-
+| align="left"| {{nowrap|{{flag|Australia}}}}
+| 8.00
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 56.00
+| 8.00
+| style="background:#7F7FC3; color:white;"| 14.00
+| 6.00
+| –
+| 2.00
+| 6.00
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Jamaica}}}}
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Turkey}}}}
+| –
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 100.00
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| 11.66
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 37.67
+| 17.03
+| 22.73
+| 5.53
+| 0.98
+| 0.71
+| 1.82
+| 0.73
+| 1.12
+|-
+|align=left colspan=11|Source: [http://resultados2018.tse.go.cr/resultadosdefinitivos/#/presidenciales TSE] {{Webarchive|url=https://web.archive.org/web/20181209140120/http://resultados2018.tse.go.cr/resultadosdefinitivos/#/presidenciales |date=9 December 2018 }}
+|}
+'''Runoff'''
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| [[Provinces of Costa Rica|Province]]
+!width=60px| [[Citizens' Action Party (Costa Rica)|PAC]] %
+!width=60px| [[National Restoration Party (Costa Rica)|PREN]] %
+
+|-
+!style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+!style="background:{{party color|National Restoration Party (Costa Rica)}}"|
+
+|-
+| align="left"| {{nowrap|{{flag|San José Province}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"|62.26
+| 37.74
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 59.77
+| 40.23
+|-
+| align="left"| {{flag|Cartago Province}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 74.62
+| 25.38
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 67.28
+| 32.72
+|-
+| align="left"| {{flag|Puntarenas}}
+| 45.04
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 54.96
+|-
+| align="left"| {{flag|Limón}}
+| 36.64
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 63.36
+
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 58.58
+| 41.42
+
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 60.59
+| 39.41
+
+|-
+|align=left colspan=11|Source: [http://resultados2018.tse.go.cr/resultados2darondadefinitivos/#/presidenciales TSE] {{Webarchive|url=https://web.archive.org/web/20181225125741/http://resultados2018.tse.go.cr/resultados2darondadefinitivos/#/presidenciales |date=25 December 2018 }}
+|}
+'''Abroad vote'''
+{{Pie chart
+| thumb = right
+| caption = Abroad vote, runoff
+| label1 =PAC
+| value1 =77.62
+| color1 ={{party color|Citizens' Action Party (Costa Rica)}}
+| label2 =PREN
+| value2 =22.38
+| color2 ={{party color|National Restoration Party (Costa Rica)}}
+}}
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| Country
+!width=60px| [[Citizens' Action Party (Costa Rica)|PAC]] %
+!width=60px| [[National Restoration Party (Costa Rica)|PREN]] %
+|-
+!style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+!style="background:{{party color|National Restoration Party (Costa Rica)}}"|
+|-
+| align="left"| {{nowrap|{{flag|Germany}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 96.34
+| 3.66
+|-
+| align="left"| {{flag|Argentina}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 89.86
+| 10.14
+|-
+| align="left"| {{flag|Austria}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 95.00
+| 5.00
+|-
+| align="left"| {{flag|Belgium}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 87.23
+| 12.77
+|-
+| align="left"| {{flag|Belize}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 66.67
+| 33.33
+|-
+| align="left"| {{flag|Brazil}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 100.00
+| –
+|-
+| align="left"| {{nowrap|{{flag|Canada}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 83.77
+| 16.23
+|-
+| align="left"| {{nowrap|{{flag|Chile}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 81.00
+| 19.00
+|-
+| align="left"| {{nowrap|{{flag|China}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 90.38
+| 9.62
+|-
+| align="left"| {{nowrap|{{flag|Colombia}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 85.48
+| 14.52
+|-
+| align="left"| {{nowrap|{{flag|South Korea}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 64.29
+| 35.71
+|-
+| align="left"| {{nowrap|{{flag|Cuba}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 78.95
+| 21.04
+|-
+| align="left"| {{nowrap|{{flag|Ecuador}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 90.00
+| 10.00
+|-
+| align="left"| {{nowrap|{{flag|United States}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 72.36
+| 27.64
+|-
+| align="left"| {{nowrap|{{flag|El Salvador}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 76.39
+| 23.61
+|-
+| align="left"| {{nowrap|{{flag|Spain}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 80.33
+| 19.67
+|-
+| align="left"| {{nowrap|{{flag|France}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 94.41
+| 5.59
+|-
+| align="left"| {{nowrap|{{flag|Guatemala}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 71.60
+| 28.40
+|-
+| align="left"| {{nowrap|{{flag|Honduras}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 54.29
+| 45.71
+|-
+| align="left"| {{nowrap|{{flag|Israel}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 66.67
+| 33.33
+|-
+| align="left"| {{nowrap|{{flag|Italy}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 84.91
+| 15.09
+|-
+| align="left"| {{nowrap|{{flag|Japan}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 87.50
+| 12.50
+|-
+| align="left"| {{nowrap|{{flag|Mexico}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 82.67
+| 17.33
+|-
+| align="left"| {{nowrap|{{flag|Nicaragua}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 67.44
+| 32.56
+|-
+| align="left"| {{nowrap|{{flag|Netherlands}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 91.89
+| 8.11
+|-
+| align="left"| {{nowrap|{{flag|Panama}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 73.27
+| 26.73
+|-
+| align="left"| {{nowrap|{{flag|Peru}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 78.18
+| 21.82
+|-
+| align="left"| {{nowrap|{{flag|United Kingdom}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 91.06
+| 8.94
+|-
+| align="left"| {{nowrap|{{flag|Dominican Republic}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 70.00
+| 30.00
+|-
+| align="left"| {{nowrap|{{flag|Russia}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 91.67
+| 8.33
+|-
+| align="left"| {{nowrap|{{flag|Singapore}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 50.00
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 50.00
+|-
+| align="left"| {{nowrap|{{flag|Switzerland}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 90.24
+| 9.76
+|-
+| align="left"| {{nowrap|{{flag|Trinidad and Tobago}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 66.67
+| 33.33
+|-
+| align="left"| {{nowrap|{{flag|Uruguay}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 60.00
+| 40.00
+|-
+| align="left"| {{nowrap|{{flag|Venezuela}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 67.74
+| 32.36
+|-
+| align="left"| {{nowrap|{{flag|India}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 100.00
+| –
+|-
+| align="left"| {{nowrap|{{flag|Qatar}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 77.27
+| 22.73
+|-
+| align="left"| {{nowrap|{{flag|Bolivia}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 83.33
+| 16.67
+|-
+| align="left"| {{nowrap|{{flag|Paraguay}}}}
+| 45.45
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 54.54
+|-
+| align="left"| {{nowrap|{{flag|Australia}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 79.49
+| 20.51
+|-
+| align="left"| {{nowrap|{{flag|Jamaica}}}}
+| –
+| –
+|-
+| align="left"| {{nowrap|{{flag|Turkey}}}}
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 100.00
+| –
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 77.62
+| 22.38
+|-
+|align=left colspan=11|Source: [http://resultados2018.tse.go.cr/resultadosdefinitivos/#/presidenciales TSE] {{Webarchive|url=https://web.archive.org/web/20181209140120/http://resultados2018.tse.go.cr/resultadosdefinitivos/#/presidenciales |date=9 December 2018 }}
+|}
+
+===Legislative Assembly===
+The [[National Liberation Party (Costa Rica)|National Liberation Party]] retained its parliamentary plurality despite being third on the presidential ticket with 17 seats, followed by the [[National Restoration Party (Costa Rica)|National Restoration Party]] obtaining 14, the first time in Costa Rica's history that a religious party gained such large number.<ref name=oviedo>{{cite news|last1=Oviedo|first1=Esteban|title=Los Alvarado van a segunda ronda|url=https://www.nacion.com/el-pais/politica/en-vivo-tse-primer-corte-de-las-elecciones/G7AR7H23HJEC5OITM74UH5ZSN4/story/|work=La Nación|date=5 February 2018}}</ref> The ruling party [[Citizens' Action Party (Costa Rica)|Citizens' Action]] became third with 10. This was the first time in Costa Rican history that a ruling party was neither the second nor the third-largest party. However, that changed after a break-up among the National Restoration deputies, which caused more than half to split from the party a few months after the election, thus turning PAC back into first minority.<ref>{{cite web |last1=Madrigal |first1=Luis |title=Fabricio Alvarado renuncia a Restauración Nacional: "Su cúpula me vio como una amenaza" |url=https://delfino.cr/2018/10/fabricio-alvarado-renuncia-a-restauracion-nacional-su-cupula-me-vio-como-una-amenaza/ |website=Delfino |access-date=24 October 2018}}</ref> The [[Social Christian Unity Party]] gained one more seat (9). The left-wing [[Broad Front (Costa Rica)|Broad Front]] suffered a major setback losing most of its seats passing from 9 to 1,<ref name=oviedo /> whilst right-wing [[National Integration Party (Costa Rica)|National Integration]] returns to Congress for the first time in 20 years with 4 seats, but another schism between the party's leadership and the 2018's nominee [[Juan Diego Castro]] causes one of PIN's deputies (a Castro loyalist) to separate.<ref>{{cite news|last1=Calvo|first1=Daniela|title=Diputado representará a Reconstrucción.cr en la Asamblea Legislativa|url=http://subibaja.cr/2018/04/05/diputado-representara-a-reconstruccion-cr-en-la-asamblea-legislativa/|agency=Subibaja|date=5 April 2018|access-date=26 December 2018|archive-url=https://web.archive.org/web/20180411180439/http://subibaja.cr/2018/04/05/diputado-representara-a-reconstruccion-cr-en-la-asamblea-legislativa/|archive-date=11 April 2018|url-status=dead}}</ref> The newly formed party [[Social Christian Republican Party|Social Christian Republican]] gains two deputies.
+
+{{Election results
+|image=[[File:Asamblea Legislativa 2018 - 2022.svg]]
+|party1=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes1=416638|seats1=17|sc1=–1
+|party2=[[National Restoration Party (Costa Rica)|National Restoration Party]]|votes2=388086|seats2=14|sc2=+13
+|party3=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes3=347703|seats3=10|sc3=–3
+|party4=[[Social Christian Unity Party]]|votes4=312097|seats4=9|sc4=+1
+|party5=[[National Integration Party (Costa Rica)|National Integration Party]]|votes5=163933|seats5=4|sc5=+4
+|party6=[[Social Christian Republican Party]]|votes6=89969|seats6=2|sc6=New
+|party7=[[Broad Front (Costa Rica)|Broad Front]]|votes7=84437|seats7=1|sc7=–8
+|party8=[[Christian Democratic Alliance (Costa Rica)|Christian Democratic Alliance]]|votes8=52325|seats8=0|sc8=–1
+|party9=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes9=49659|seats9=0|sc9=–4
+|party10=[[Accessibility without Exclusion Party]]|votes10=46071|seats10=0|sc10=–1
+|party11=[[New Generation Party (Costa Rica)|New Generation Party]]|votes11=45896|seats11=0|sc11=0
+|party12=[[Costa Rican Renewal Party]]|votes12=41806|seats12=0|sc12=–2
+|party13=[[Authentic Limonense Party]]|votes13=13661|seats13=0|sc13=0
+|party14=[[Progressive Liberal Party (Costa Rica)|Progressive Liberal Party]]|votes14=12537|seats14=0|sc14=New
+|party15=[[Workers' Party (Costa Rica)|Workers' Party]]|votes15=11615|seats15=0|sc15=0
+|party16=Let's Act Now|votes16=9898|seats16=0|sc16=New|color16=#E25F23
+|party17=Let's Go|votes17=8283|seats17=0|sc17=New|color17=#483D8B
+|party18=United Forces for Change Party|votes18=8237|seats18=0|sc18=New|color18=#FFD700
+|party19=Everybody|votes19=8062|seats19=0|sc19=New|color19=#2F4F4F
+|party20=Guanacastecan Union Party|votes20=7994|seats20=0|sc20=New|color20=#8B4513
+|party21=United Communal Party|votes21=6270|seats21=0|sc21=New|color21=#096395
+|party22=Transporters' Party|votes22=4868|seats22=0|sc22=0|color22=#FF4500
+|party23=Recovering Values Party|votes23=4840|seats23=0|sc23=New|color23=#0E4BEF
+|party24=Homeland, Equality & Democracy Party|votes24=1881|seats24=0|sc24=0|color24=#CD853F
+|party25=New Socialist Party|votes25=790|seats25=0|sc25=0|color25=#ED0028
+|invalid=40540
+|total_sc=0
+|electorate=3322329
+|source=[https://www.tse.go.cr/juris/electorales/1230-E11-2018.html TSE]
+}}
+
+====By constituency====
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+|-
+! rowspan="3"| Constituency
+! colspan="2" width="30px"| [[National Liberation Party (Costa Rica)|PLN]]
+! colspan="2" width="30px"| [[National Restoration Party (Costa Rica)|PREN]]
+! colspan="2" width="30px"| [[Citizens' Action Party (Costa Rica)|PAC]]
+! colspan="2" width="30px"| [[Social Christian Unity Party|PUSC]]
+! colspan="2" width="30px"| [[National Integration Party (Costa Rica)|PIN]]
+! colspan="2" width="30px"| [[Social Christian Republican Party|PRSC]]
+! colspan="2" width="30px"| [[Broad Front (Costa Rica)|FA]]
+! colspan="2" width="30px"| [[Christian Democratic Alliance (Costa Rica)|ADC]]
+! colspan="2" width="30px"| [[Libertarian Movement (Costa Rica)|ML]]
+! colspan="2" width="30px"| [[Accessibility without Exclusion Party|PASE]]
+! colspan="2" width="30px"| [[New Generation Party (Costa Rica)|PNG]]
+! colspan="2" width="30px"| Other
+|-
+! colspan="2" style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|National Restoration Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Social Christian Unity Party}}"|
+! colspan="2" style="background:{{party color|National Integration Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Social Christian Republican Party}}"|
+! colspan="2" style="background:{{party color|Broad Front (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Christian Democratic Alliance (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Libertarian Movement (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Accessibility without Exclusion Party}}"|
+! colspan="2" style="background:{{party color|New Generation Party (Costa Rica)}}"|
+! colspan="2" style="background:#7a7a7a"|
+|-
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+|-
+| align="left"| [[San José (Legislative Assembly constituency)|San José]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 17.96
+|'''4'''
+| style="background:#ADD8E6; color:black;"| 17.59
+|'''4'''
+| 17.45
+|'''4'''
+| 15.21
+|'''3'''
+| 6.90
+|'''2'''
+| 4.09
+|'''1'''
+| 4.97
+|'''1'''
+| 1.67
+|'''0'''
+| 2.24
+|'''0'''
+| 1.93
+|'''0'''
+| 2.02
+|'''0'''
+| 7.97
+|'''0'''
+|-
+| align="left"| [[Alajuela (Legislative Assembly constituency)|Alajuela]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 21.76
+|'''3'''
+| style="background:#ADD8E6; color:black;"| 20.62
+|'''2'''
+| 17.46
+|'''2'''
+| 14.32
+|'''2'''
+| 7.28
+|'''1'''
+| 4.81
+|'''1'''
+| 2.85
+|'''0'''
+| 1.70
+|'''0'''
+| 1.56
+|'''0'''
+| 2.08
+|'''0'''
+| 2.34
+|'''0'''
+| 4.78
+|'''0'''
+|-
+| align="left"| [[Cartago (Legislative Assembly constituency)|Cartago]]
+| style="background:#66B27B; color:white;"| 19.86
+|'''2'''
+| 10.52
+|'''1'''
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 19.88
+|'''2'''
+| 13.31
+|'''1'''
+| 8.19
+|'''1'''
+| 4.72
+|'''0'''
+| 3.55
+|'''0'''
+| 5.65
+|'''0'''
+| 1.83
+|'''0'''
+| 2.59
+|'''0'''
+| 3.19
+|'''0'''
+| 12.36
+|'''0'''
+|-
+| align="left"| [[Heredia (Legislative Assembly constituency)|Heredia]]
+| style="background:#66B27B; color:white;"| 19.05
+|'''2'''
+| 17.77
+|'''1'''
+| style="background:{{party color|Citizens' Action Party (Costa Rica)}}; color:white;"| 20.95
+|'''2'''
+| 17.98
+|'''1'''
+| 7.06
+|'''0'''
+| 3.45
+|'''0'''
+| 4.86
+|'''0'''
+| 1.20
+|'''0'''
+| 1.98
+|'''0'''
+| 1.42
+|'''0'''
+| 2.18
+|'''0'''
+| 2.19
+|'''0'''
+|-
+| align="left"| [[Puntarenas (Legislative Assembly constituency)|Puntarenas]]
+| style="background:#66B27B; color:white;"| 21.59
+|'''2'''
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 24.88
+|'''2'''
+| 9.28
+|'''0'''
+| 14.33
+|'''1'''
+| 9.24
+|'''0'''
+| 4.57
+|'''0'''
+| 3.05
+|'''0'''
+| 1.94
+|'''0'''
+| 3.42
+|'''0'''
+| 1.05
+|'''0'''
+| 2.47
+|'''0'''
+| 5.23
+|'''0'''
+|-
+| align="left"| [[Limón (Legislative Assembly constituency)|Limón]]
+| style="background:#66B27B; color:white;"| 14.91
+|'''2'''
+| style="background:{{party color|National Restoration Party (Costa Rica)}}; color:white;"| 23.28
+|'''3'''
+| 6.83
+|'''0'''
+| 9.64
+|'''0'''
+| 6.59
+|'''0'''
+| 3.61
+|'''0'''
+| 3.81
+|'''0'''
+| 5.70
+|'''0'''
+| 4.25
+|'''0'''
+| 4.25
+|'''0'''
+| 0.62
+|'''0'''
+| 16.51
+|'''0'''
+|-
+| align="left"| [[Guanacaste (Legislative Assembly constituency)|Guanacaste]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 23.36
+|'''2'''
+| style="background:#ADD8E6; color:black;"| 15.72
+|'''1'''
+| 9.94
+|'''0'''
+| 14.85
+|'''1'''
+| 12.29
+|'''0'''
+| 3.51
+|'''0'''
+| 2.27
+|'''0'''
+| 1.83
+|'''0'''
+| 3.21
+|'''0'''
+| 3.03
+|'''0'''
+| 1.41
+|'''0'''
+| 8.56
+|'''0'''
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 19.49
+|'''17'''
+| 18.15
+|'''14'''
+| 16.26
+|'''10'''
+| 14.63
+|'''9'''
+| 7.67
+|'''4'''
+| 4.21
+|'''2'''
+| 3.95
+|'''1'''
+| 2.45
+|'''0'''
+| 2.32
+|'''0'''
+| 2.26
+|'''0'''
+| 2.15
+|'''0'''
+| 6.46
+|'''0'''
+|-
+|align=left colspan=25|Source: TSE [http://www.vozyvoto.org/politica/#/ VozyVoto] {{Webarchive|url=https://web.archive.org/web/20180207114850/http://www.vozyvoto.org/politica#/ |date=7 February 2018 }}
+|}
+
+==Reactions==
+=== Domestic ===
+* Opponent candidate [[Fabricio Alvarado]] quickly acknowledge defeat and congratulated Carlos Alvarado who he called personally to his phone. He called for the Costa Rican family to be united and for families split by politics to embrace each other.<ref>{{cite news|last1=Redacción|title=Costa Rica: Evangélico Fabricio Alvarado reconoce derrota electoral|url=https://elcomercio.pe/mundo/elecciones/costa-rica-evangelico-fabricio-alvarado-reconoce-derrota-electoral-noticia-508806|access-date=2 April 2018|agency=El Comercio|date=1 April 2018}}</ref> 
+* President of the [[Tribunal Supremo de Elecciones de Costa Rica|Electoral Court]] Antonio Sobrado expressed satisfaction with the electoral process and said that "sovereign people has spoken".<ref>{{cite news|last1=Solano|first1=Hermes|title=Luis Antonio Sobrado: "El pueblo soberano habló"|url=https://www.crhoy.com/nacionales/luis-antonio-sobrado-el-pueblo-soberano-hablo/|access-date=17 April 2018|agency=CR Hoy}}</ref>
+* [[President of Costa Rica]] [[Luis Guillermo Solís]] congratulated his successor and fellow party member and expressed his wish for Alvarado to accompany him to the [[Summits of the Americas]] in mid-April, yet Alvarado declined.<ref>{{cite news|last1=Aronne|first1=Esteban|title=Carlos Alvarado declina invitación de Luis Guillermo Solís para asistir a Cumbre de las Américas|url=http://www.monumental.co.cr/2018/04/03/carlos-alvarado-declina-invitacion-de-luis-guillermo-solis-para-asistir-cumbre-de-las-americas/|access-date=17 April 2018|agency=Monumental}}</ref> 
+* [[Carlos Alvarado]] spoke to a crowd of followers in Plaza Roosevelt, [[San Pedro, Costa Rica|San Pedro]] of [[Montes de Oca (canton)|Montes de Oca]] thanking the voluntary workers of his campaign, the members of the different parties that supported him and calling for a government of national unity, and for Congress to quickly solve issues like the [[tax reform]] and the Legislative bylaw.<ref>{{cite news|last1=Naranjo|first1=Julio|url=https://www.teletica.com/190231_carlos-alvarado-mi-deber-sera-unir-esta-republica-para-sacarla-adelante|title=Carlos Alvarado: 'Mi deber será unir esta República para sacarla adelante'|access-date=2 April 2018|agency=Teletica|date=2 April 2018}}</ref>
+
+=== International ===
+;Supranational
+* {{flag|United Nations}} – Alice Shackelford on behalf of the United Nations congratulated Costa Rica describing the elections as "peaceful and in an environment of respect" and congratulated voters for choosing a more inclusive society.<ref>{{cite news|last1=Gutiérrez Wa-Chong|first1=Tatiana|title=ONU felicita a votantes por construir una sociedad más inclusiva|url=https://www.larepublica.net/noticia/onu-felicita-a-votantes-por-construir-una-sociedad-mas-inclusiva|access-date=6 April 2018|agency=La República|date=3 April 2018}}</ref>
+* {{flag|Organization of American States}} – [[Secretary General of the Organization of American States|Secretary General]] [[Luis Almagro]] congratulated Alvarado Quesada as president elect and Costa Rica's people for what he called "the democratic festivity".<ref name=Chinchilla>{{cite news|last1=Chinchilla|first1=Francesca|title=Fiesta electoral en Costa Rica fue destacada por presidentes de América|url=https://www.nacion.com/el-mundo/politica/fiesta-electoral-en-costa-rica-fue-destacada-por/7ZU5AZMDJNFQTLF7YDQW4BVNX4/story/|access-date=2 April 2018|work=La Nación|date=2 April 2018}}</ref>
+
+;States
+* {{flag|Canada}} – [[Prime Minister of Canada]] [[Justin Trudeau]] spoke directly over the phone with Alvarado expressing his satisfaction with having another young voice among world leaders and describing Costa Rica as an example in human rights and environmental policies.<ref>{{cite news|last1=Rodríguez|first1=Frank|title=Trudeau a Alvarado: "Estoy muy emocionado por el futuro de Costa Rica y por tu liderazgo"|agency=Semanario Universidad|date=12 April 2018}}</ref>
+* {{flag|Chile}} – Former [[President of Chile]] [[Michelle Bachelet]] congratulated both [[Carlos Alvarado]] and [[Epsy Campbell]] noticing Campbell's status as first person of [[African descent]] in being Vice President of the [continental] Americas, expressing "Our Costa Rican brothers gave us a sample of democracy and inclusion, as necessary today".<ref name=Chinchilla />
+* {{flag|Colombia}} – [[President of Colombia]] [[Juan Manuel Santos]] said: "Count on Colombia to keep strengthening friendship bonds".<ref name=Chinchilla />
+* {{flag|Ecuador}} – Former [[President of Ecuador]] [[Rafael Correa]] saluted Alvarado and gave a special salute to Campbell as first Black woman Vice President of Latin America closing with "[[Gender equality]], [[Racial equality|ethnic]] and [[Youth]]".<ref name=Chinchilla />
+* {{flag|Guatemala}} – [[President of Guatemala]] [[Jimmy Morales]] congratulated the [[Costa Rican people]] and advocated for a "a more united and prosperous Central America".<ref name=Chinchilla />
+* {{flag|Honduras|1949}} – [[President of Honduras]] [[Juan Orlando Hernández]] "express congratulations of behalf of the [[Honduran people]] and the desire of tighten relationships."<ref name=Chinchilla />
+* {{flag|Mexico}} – [[President of Mexico]] [[Enrique Peña Nieto]] described the election as "a sample of democratic maturity" congratulating Alvarado and announcing that with the new government "Mexico will continue strengthening the cooperation and economic bonds".<ref name=Chinchilla />
+* {{flag|Nicaragua}} – [[President of Nicaragua]] [[Daniel Ortega]] express his hope that the new government may be a way to improve relationships between the two countries. "
+* {{flag|Panama}} – [[President of Panama]] [[Juan Carlos Varela]] after congratulating Alvarado and the Costa Rican people also mentioned that "We'll keep working on a State agenda between our sister nations and peoples".".<ref name=Chinchilla />
+* {{flag|Spain}} – [[President of the Spanish government]] [[Mariano Rajoy]] described Costa Rica and Spain as sister nations and said he was sure that both countries would continue strengthening bonds of friendship and cooperation, also highlighting Costa Rica's economic growth and inclusive development in the last governments.<ref>{{cite news|last1=Solano|first1=Johel|title=El mensaje de Mariano Rajoy desde España a Carlos Alvarado|url=https://www.crhoy.com/nacionales/el-mensaje-de-mariano-rajoy-desde-espana-a-carlos-alvarado/|access-date=6 April 2018|agency=CRHoy|date=3 April 2018}}</ref>
+* {{flag|United States}} – [[United States Department of State]] expressed its congratulations on behalf of the [[US government]] and described the elections as "pacific, fair and free" and Costa Rica as "promoter of economic prosperity, security and good government in the region."<ref name=Chinchilla />
+* {{flag|Venezuela}} – Foreign Minister [[Jorge Arreaza]] on behalf of [[Nicolás Maduro]] congratulated Alvarado as president elect and the Costa Rican people, the [[government of Venezuela]] also made public an official statement.<ref name=Chinchilla />
+
+==References==
+{{reflist}}
+
+{{Costa Rican elections}}
+
+[[Category:2018 elections in Central America|Costa]]
+[[Category:2018 in Costa Rica|General]]
+[[Category:Parliamentary elections in Costa Rica]]
+[[Category:February 2018 in North America|Costa]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:April 2018 in North America|Costa]]
+[[Category:Presidential elections in Costa Rica]]

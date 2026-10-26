@@ -1,0 +1,686 @@
+{{Short description|none}}
+{{Infobox election 
+| country = Argentina
+
+| module = {{Infobox election
+| election_name = Presidential election
+| type = presidential
+| previous_election = 1989 Argentine general election
+| previous_year = 1989
+| next_election = 1999 Argentine general election
+| next_year = 1999
+| election_date = 14 May 1995
+| embed = yes
+| registered = 22,178,201
+| turnout = 82.08%
+| image_size = 130x130px
+
+| image1 = Menem con banda presidencial (recortada).jpg
+| nominee1 = '''[[Carlos Menem]]'''
+| party1 = Justicialist Party
+| alliance1 = Justicialist Front
+| running_mate1 = '''[[Carlos Ruckauf]]'''
+| popular_vote1 = '''8,687,511'''
+| percentage1 = '''49.94%'''
+
+| image2 = José Octavio Bordón.png
+| nominee2 = [[José Octavio Bordón]]
+| party2 = Open Politics for Social Integrity
+| alliance2 = Front for a Country in Solidarity
+| running_mate2 = [[Carlos Álvarez (Argentine politician)|Carlos Álvarez]]
+| popular_vote2 = 5,096,104
+| percentage2 = 29.30%
+
+| image3 = Horacio Massaccesi en un acto de campaña (1995).jpg
+| nominee3 = [[Horacio Massaccesi]]
+| party3 = Radical Civic Union
+| alliance3 = [[Radical Civic Union|UCR]]+[[Integration and Development Movement|MID]]
+| popular_vote3 = 2,956,137
+| percentage3 = 16.99%
+| running_mate3 = {{ill|Antonio María Hernández|es}}
+
+| map_image = Mapa de las Elecciones Argentina 1995.png
+| map_caption = Results by province and department 
+| title = [[President of Argentina|President]]
+| before_election = [[Carlos Menem]]
+| after_election = [[Carlos Menem]]
+| before_party = Justicialist Party
+| after_party = Justicialist Party
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+| previous_election = [[1993 Argentine legislative election|1993]]
+| next_election = [[1997 Argentine legislative election|1997]]
+| seats_for_election = 130 of the 257 seats in the [[Argentine Chamber of Deputies|Chamber of Deputies]]
+| election_date = 14 May 1995
+| turnout = 82.08%
+| noleader = yes
+
+| party1 = [[Justicialist Party]]
+| percentage1 = 49.38
+| last_election1 = 63
+| seats1 = 75
+
+| party2 = [[Radical Civic Union]]
+| percentage2 = 21.94
+| last_election2 = 43
+| seats2 = 27
+
+| party3 = [[Front for a Country in Solidarity]]
+| percentage3 = 21.23
+| last_election3 = 3
+| seats3 = 21
+
+| party4 = [[Democratic Progressive Party (Argentina)|Democratic Progressive Party]]
+| percentage4 = 0.94
+| last_election4 = 1
+| seats4 = 1
+
+| party5 = [[Autonomist Party of Corrientes|Autonomist]]–[[Liberal Party of Corrientes|Liberal]]–[[Democratic Progressive Party (Argentina)|Democratic Progressive]]
+| percentage5 = 0.93
+| last_election5 = 2
+| seats5 = 2
+
+| party6 = [[Republican Force]]
+| percentage6 = 0.71
+| last_election6 = 2
+| seats6 = 1
+
+| party7 = [[Democratic Party (Mendoza)|Democratic Party]]
+| percentage7 = 0.68
+| last_election7 = 0
+| seats7 = 1
+
+| party8 = [[Neuquén People's Movement]]
+| percentage8 = 0.36
+| last_election8 = 1
+| seats8 = 1
+
+| party9 = [[Fuegian People's Movement]]
+| percentage9 = 0.05
+| last_election9 = 2
+| seats9 = 1
+
+}}}}}}{{Politics of Argentina}}
+
+General elections were held in Argentina on 14 May. Voters chose both the President and their legislators and with a turnout of 82%. It was the first election in post-1983 Argentina in which the president was elected directly, as the [[electoral college]] was abolished by 1995.
+
+==Background==
+The [[Justicialist Party]] had been founded in 1946 by [[Juan Perón]], largely on the promise of greater self-reliance, increased state ownership in the economy and a shift in national policy to benefit "the other half" of Argentine society. Taking office on Perón's ticket in 1989 amid the worst crisis in a hundred years, President [[Carlos Menem]] had begun the systematic sell-off of Argentina's array of [[State enterprise]]s, which had produced nearly half the nation's goods and services. Following 18 months of very mixed results, in February 1991 Menem reached out to his [[Foreign relations of Argentina|Foreign Minister]], [[Domingo Cavallo]], whose experience as an economist included a brief but largely positive stint as the nation's [[Central Bank of Argentina|Central Bank]] president in 1982. His introduction of a fixed exchange rate via his [[Argentine Currency Board|Convertibility Plan]] led to sharp drops in interest rates and inflation, though the sudden recovery and Cavallo's fixed exchange rate (converted to 1 peso per dollar in 1992) led to a fivefold jump in imports (far outpacing the flush growth in demand). A wave of layoffs after 1992 created a tense labor climate often worsened by the flamboyant Menem, who also diluted basic labor laws, leading to less overtime pay and increasing unemployment and [[underemployment]]. Private-sector lay-offs, dismissed as a natural consequence of recovering productivity (which had not risen in 20 years), added to mounting state enterprise and government layoffs, leading to a rise in unemployment from 7% in 1992 to 12% by 1994 (after GDP had leapt by a third in just four years). In this policy irony lay the Justicialists' greatest weakness ahead of the 1995 election.<ref name=todoindex>[https://www.todo-argentina.net/historia/democracia/menem1/index.html Todo Argentina: Menem {{in lang|es}}]</ref>
+
+The election itself created yet another unexpected turn. Barred from immediate reelection by the 1853 [[Argentine Constitution]], President Menem reached out to his predecessor and head of the embattled centrist [[Radical Civic Union]] (UCR), [[Raúl Alfonsín]]. Meeting at the presidential residence in [[Olivos, Buenos Aires|Olivos]] in November 1993 to negotiate an extensive amendment of the Constitution, the two leaders came to an agreement of mutual benefit: Alfonsín obtained the direct election of the mayor of (UCR-leaning) [[Buenos Aires]] (depriving the presidency of a right held since 1880 to appoint its mayor) and an expansion in the [[Argentine Senate]] from 48 to 72 members (3 per province), which would assure the runner-up (presumably the UCR) the third seat; Menem, in return, secured his right to run for reelection.<ref name=todoindex/><ref>[https://www.todo-argentina.net/historia/democracia/menem1/1993.html Todo Argentina: 1993 {{in lang|es}}]</ref>
+
+Both men faced dissension in their parties' ranks after the [[1994 reform of the Argentine Constitution]] was unveiled in August. Alfonsín's candidate in the UCR primaries, [[Río Negro Province]] Governor [[Horacio Massaccesi]], defeated [[Federico Storani]] and [[Rodolfo Terragno]] for the nomination over their opposition to the [[Olivos Pact]]. Menem, in turn, had lost a number of Congressmen from his party after [[Carlos Álvarez (Argentine politician)|Carlos Álvarez]] led a center-left splinter group in revolt over Menem's privatizations and unchecked corruption. His [[Frente Grande]] had become influential after merging with fellow ex-Peronist [[José Octavio Bordón]] in 1994, ahead of the May 14, 1995, election date. Bordón, a popular [[Mendoza Province]] Senator was a centrist who also lent the leftist Álvarez, whose strength was in Buenos Aires, appeal in Argentina's hinterland (which had benefited least from the 1991-94 boom). They combined forces to create the [[FREPASO]], adding Argentina's struggling [[Socialist Party (Argentina)|Socialists]].<ref name=todo94>[https://www.todo-argentina.net/historia/democracia/menem1/1994.html Todo Argentina: 1994 {{in lang|es}}]</ref>
+
+The new constitutional rules governing elections provided opportunities for parties stuck in 2nd or 3rd place in the polls, as the Frepaso and UCR were, respectively. Bypassing the previous [[electoral college]] system, a victory by direct proportional voting could be achieved by either through a [[run-off election]] (in case no candidate obtained a clear majority). The Justicialists enjoyed a clear advantage, given polls and their control of both chambers of Congress; but cracks began to develop as 1994 drew to a close. Local prosperity, the guarantor of Menem's presumptive victory, was shaken by the [[Mexican peso crisis]] in December. Dependent on foreign investment to maintain its [[foreign exchange reserves|central bank reserves]] (which fell by US$6 billion in days), its sudden scarcity led to a wave of [[capital flight]] out of Buenos Aires' growing banks and to an unforeseen recession. Concurrent revelations of gross corruption surrounding the purchase of [[IBM]] computers for the antiquated [[Banco de la Nación Argentina|National Bank of Argentina]] (the nation's largest), further added to the opposition's hopes that a runoff might still be needed in May.<ref name=todo94/>
+
+Between them, the Frepaso enjoyed the advantage. Sporting charismatic leadership, they hoped to displace the UCR (Argentina's oldest existing party) from its role as the Peronists' chief opposition. The UCR had been badly tarnished by President [[Raúl Alfonsín]]'s chaotic 1983-89 term, though its candidate, [[Río Negro Province]] Governor [[Horacio Massaccesi]], had earned international renown in 1991 for storming a local National Bank branch in search of needed funds being retained by the federal government for what seemed to be political reasons.<ref>[http://www.clarin.com/diario/1997/08/10/i-00903e.htm ''Clarín'' {{in lang|es}}]</ref> The UCR, moreover, still had its name recognition and organized, if frayed political machinery, controlled by Alfonsín and popular [[Córdoba Province (Argentina)|Córdoba Province]] Governor [[Eduardo Angeloz]]. As election day drew near, analysts debated not only the possibility of a runoff, but also which of the two opposition parties would face Menem in such a case.<ref>''La Nación.'' May 13, 1995.</ref>
+
+Ultimately, corruption and the sudden recession were not enough to keep the unflappable Menem from a first-round victory. The [[big tent]] Justicialist Party, allied in many districts to local parties, formed an electoral front which obtained almost half of the total vote. The [[Frepaso]] garnered nearly 30%, and though their hopes for a runoff were stymied, this was considered a very good result for a party assembled only the previous year. Frepaso, however, came ahead in the presidential race only in two districts: [[Santa Fe Province]] and the city of [[Buenos Aires]]. The [[Radical Civic Union|UCR]], a major political force in Argentina since the beginning of the 20th century, came in third with only 17% of the vote.<ref>[https://www.todo-argentina.net/historia/democracia/menem1/1995.html Todo Argentina: 1995]</ref>
+
+All provinces except [[Corrientes Province|Corrientes]] also elected governors during 1995; several but not all provinces conducted their elections on the same date as the national one. A number of [[List of cities in Argentina|municipalities]] elected legislative officials (''concejales'') and in some cases also a [[mayor]]. The Justicialists obtained 14 of the 23 governorships and the UCR, 5. Among Argentina's larger cities, only [[Bahía Blanca]] and [[Mar del Plata]] kept a UCR mayor (though Buenos Aires would elect one in 1996).<ref name=tow>[http://andy.towsa.com/totalpais/1995g.html Andy Tow's Electoral Atlas of Argentina] {{webarchive|url=https://web.archive.org/web/20090106014050/http://andy.towsa.com/totalpais/1995g.html |date=2009-01-06 }}</ref><ref name=micro>[http://www.fcen.uba.ar/prensa/micro/1995/ms195a.htm Microsemanario 195 {{in lang|es}}]</ref>
+
+The legislative elections, where half the seats in the [[Argentine Chamber of Deputies]] were contested, saw the Justicialists obtain a large majority (more votes that its two closest opponents combined), losing in only 5 districts out of 24; of the 130 seats in play, they secured 75, the UCR, 28 seats, and Frepaso obtained 20 seats. The UCR lost 15 and, on a district basis, they did not get the majority vote in any district. The Frepaso won in the city of [[Buenos Aires]] and picked up 12 seats. Local parties won in two districts ([[Salta Province]] and [[Neuquén Province]]). The newly expanded [[Argentine Senate]], as Menem and Alfonsín had intended, benefited both parties.<ref name=tow/><ref name=micro/>
+
+== Candidates for president ==
+
+*[[Justicialist Party]] (populist): President [[Carlos Menem]] of [[La Rioja Province (Argentina)|La Rioja Province]].
+*[[Front for a Country in Solidarity|FrePaSo]] (social democrat): Former Governor [[José Octavio Bordón]] of [[Mendoza Province]].
+*[[Radical Civic Union]] (socio-liberal): Governor [[Horacio Massaccesi]] of [[Río Negro Province]].
+
+== Results ==
+=== President ===
+{{Election results
+|cand1=[[Carlos Menem]]|vp1=[[Carlos Ruckauf]]|candspan1=17|aspan1=17|alliance1=[[Justicialist Party|Justicialist<br>Front]]|party1=[[Justicialist Party]]|votes1=6300057
+|party2=[[Justicialist Party|Justicialist Front]]|votes2=691481
+|party3=[[Union of the Democratic Centre (Argentina)|Union of the Democratic Centre]]|votes3=456594
+|party4={{ill|Justicialist Front of Popular Unity|es|Frente Justicialista de Unidad Popular}}|votes4=382447
+|party5=Front of Hope|votes5=215531
+|party6=Justicialist Front for Victory|votes6=129290
+|party7=Ethical Recovery Front|votes7=103014
+|party8=Front for Change|votes8=99230
+|party9=Retirees Front|votes9=74561
+|party10=[[Salta Renewal Party]]|votes10=73202
+|party11={{ill|Chaco Action|es|Acción Chaqueña}}|votes11=49821
+|party12=[[Federal Party (Argentina, 1973)|Federal Party of Buenos Aires City]]|votes12=48287
+|party13={{ill|Blockist Party of San Juan|es|Partido Bloquista de San Juan}}|votes13=32841
+|party14={{ill|Jujuy People's Movement|es|Movimiento Popular Jujeño}}|votes14=22386
+|party15=Movement for Jujuy Political Autonomy|votes15=4935
+|party16=Chubut Popular Movement|votes16=3642
+|atotal17=8687511
+|cand18=[[José Octavio Bordón]]|vp18=[[Carlos Álvarez (Argentine politician)|Carlos Álvarez]]|candspan18=6|aspan18=6|alliance18=[[Front for a Country in Solidarity|FREPASO]]|party18=[[Front for a Country in Solidarity]]|votes18=4934989
+|party19=Broad Front Crusade|votes19=57311
+|party20=[[Broad Front (Argentina)|Broad Front]]|votes20=54008
+|party21=[[Open Politics for Social Integrity|PAIS Front]]|votes21=28382
+|party22=Left Movement|votes22=21414
+|atotal23=5096104
+|cand24=[[Horacio Massaccesi]]|vp24={{ill|Antonio María Hernández|es}}|candspan24=6|aspan24=6|alliance24=[[Radical Civic Union|UCR]]+[[Integration and Development Movement|MID]]|party24=[[Radical Civic Union]]|votes24=2773037
+|party25={{ill|Concertation for Development|es|Concertación para el Desarrollo|lt=Alliance for Patagonia}}|votes25=84172
+|party26=[[Radical Civic Union|UCR]]–[[Integration and Development Movement|MID]]|votes26=57082
+|party27=[[Integration and Development Movement]]|votes27=30588
+|party28=[[Federal Party (Argentina, 1973)|Federal Party of Córdoba]]|votes28=11258
+|atotal29=2956137
+|cand30=[[Aldo Rico]]|vp30=Julio César Fernández Pezzano|candspan30=4|aspan30=4|alliance30=[[Movement for Dignity and Independence|MODIN]]|party30=[[Movement for Dignity and Independence]]|votes30=291306
+|party31=[[Republican Force|Republican Force of Jujuy]]|votes31=15602
+|party32=Independence Party|votes32=3161
+|atotal33=310069
+|cand34=[[Fernando Solanas]]|vp34=Carlos Imizcoz|alliance34=Southern Alliance ([[Revolutionary Communist Party (Argentina)|PCR]]–[[Communist Party of Argentina|PCA]])|votes34=71625
+|cand35={{ill|Fernando López de Zavalía|es}}|vp35=Pedro Benejam|alliance35=[[Republican Force|Republican Force of Tucumán]]|votes35=64007
+|cand36=[[Luis Zamora]]|vp36=Silvia Susana Díaz|alliance36=[[Workers' Socialist Movement (Argentina)|Workers' Socialist Movement]]|votes36=45973
+|cand37=[[Jorge Altamira]]|vp37=Norma Graciela Molle|candspan37=4|aspan37=4|alliance37=United Workers' Front|party37=United Workers' Front–[[Workers' Party (Argentina)|Workers' Party]]|votes37=28329
+|party38=[[Workers' Party (Argentina)|Workers' Party]]|votes38=2789
+|party39=United Workers' Front|votes39=1181
+|atotal40=32299
+|cand41={{ill|Mario Mazzitelli|es}}|vp41=Alberto Raúl Fonseca|alliance41=[[Authentic Socialist Party (Argentina)|Authentic Socialist Party]]|votes41=32174
+|cand42={{ill|Lía Méndez|es}}|vp42=Liliana Beatriz Ambrosio|alliance42=[[Humanist Party (Argentina)|Humanist Party]]|votes42=31203
+|cand43=Alcides Christiansen|vp43=José Alberto Montes|alliance43=[[Movimiento al Socialismo (Argentina)|Movimiento al Socialismo]]–[[Socialist Workers' Party (Argentina)|Socialist Workers' Party]]|votes43=27643
+|cand44={{ill|Humberto Tumini|es}}|vp44=Jorge Emilio Reyna|alliance44={{ill|Free Homeland (Argentina)|es|Corriente Patria Libre|lt=Free Homeland}}|votes44=24326
+|cand45=Amílcar Santucho|vp45=Irma Antognazzi|candspan45=3|aspan45=3|alliance45=MODEPA–S|party45=Anti-Imperialist Popular Democratic Movement|votes45=12919
+|party46=Solidarity|votes46=147
+|party47=''Total''|avotes47=13066
+|cand48=Ricardo Alberto Paz|vp48=Adolfo González Chávez|alliance48=Front for Patriotic Coincidence|votes48=3147
+|blank=653443
+|invalid=125112
+|electorate=22178201
+|source=DINE,<ref>{{Cite web|url=https://recorriendo.elecciones.gob.ar/presidente1995.html#/3/1|title=Recorriendo las Elecciones de 1983 a 2013 - Presidenciales|website=Dirección Nacional Electoral|access-date=2017-09-27|archive-date=2017-09-28|archive-url=https://web.archive.org/web/20170928005552/https://recorriendo.elecciones.gob.ar/presidente1995.html#/3/1|url-status=dead}}</ref> Ministry of the Interior<ref name="results">{{Cite web |title=Elecciones Nacionales ESCRUTINIO DEFINITIVO 1995 |url=https://www.mininterior.gov.ar/asuntos_politicos_y_alectorales/dine/infogral/RESULTADOS%20HISTORICOS/1995.pdf |archive-url=https://web.archive.org/web/20180319213604/http://www.mininterior.gov.ar/asuntos_politicos_y_alectorales/dine/infogral/RESULTADOS%20HISTORICOS/1995.pdf |archive-date=19 March 2018 |website=Ministry of the Interior }}</ref>
+}}
+
+=== Chamber of Deputies ===
+{{Election results|seattype1=Won|seattype2=Total
+|image=[[File:Elecciones legislativas de Argentina de 1995.svg]]
+|party1=[[Justicialist Party|Justicialist Front]]|votes1=8371132|st1t1=75|st2t1=145
+|party2=[[Radical Civic Union]]|votes2=3718920|st1t2=27|st2t2=68
+|party3=[[Front for a Country in Solidarity]]|votes3=3599764|st1t3=21|st2t3=26
+|party4=[[Movement for Dignity and Independence]]|votes4=311987|st1t4=0|st2t4=4
+|party5=[[Democratic Progressive Party (Argentina)|Democratic Progressive Party]]|votes5=158857|st1t5=1|st2t5=2
+|party6=[[Autonomist Party of Corrientes|Autonomist]]–[[Liberal Party of Corrientes|Liberal]]–[[Democratic Progressive Party (Argentina)|Democratic Progressive]]|votes6=158269|st1t6=2|st2t6=4
+|party7=[[Republican Force]]|votes7=119546|st1t7=1|st2t7=2
+|party8=[[Democratic Party (Mendoza)|Democratic Party]]|votes8=114581|st1t8=1|st2t8=2
+|party9=Southern Alliance ([[Revolutionary Communist Party (Argentina)|PCR]]–[[Communist Party of Argentina|PCA]])|votes9=83434|st1t9=0|st2t9=0
+|party10=[[Neuquén People's Movement]]|votes10=60781|st1t10=1|st2t10=2
+|party11=[[Authentic Socialist Party (Argentina)|Authentic Socialist Party]]|votes11=38909|st1t11=0|st2t11=0
+|party12=[[Workers' Socialist Movement (Argentina)|Workers' Socialist Movement]]|votes12=31062|st1t12=0|st2t12=0
+|party13=Solidarity|votes13=21718|st1t13=0|st2t13=0
+|party14=[[Workers' Party (Argentina)|Workers' Party]]|votes14=27295|st1t14=0|st2t14=0
+|party15={{ill|Free Homeland (Argentina)|es|Corriente Patria Libre|lt=Free Homeland}}|votes15=19685|st1t15=0|st2t15=0
+|party16=[[Movimiento al Socialismo (Argentina)|MAS]]–[[Socialist Workers' Party (Argentina)|PTS]]|votes16=21925|st1t16=0|st2t16=0
+|party17=Renewal Party of the Buenos Aires Province|votes17=13414|st1t17=0|st2t17=0
+|party18=Blue and White Movement|votes18=12091|st1t18=0|st2t18=0
+|party19=Solidarity Confederation|votes19=12064|st1t19=0|st2t19=0
+|party20=Labor Party|votes20=10486|st1t20=0|st2t20=0
+|party21=[[Fuegian People's Movement]]|votes21=7683|st1t21=1|st2t21=2
+|party22=[[Humanist Party (Argentina)|Humanist Party]]|votes22=7877|st1t22=0|st2t22=0
+|party23=Centrist Front|votes23=4437|st1t23=0|st2t23=0
+|party24=Independent Call|votes24=4257|st1t24=0|st2t24=0
+|party25=Order and Justice|votes25=3367|st1t25=0|st2t25=0
+|party26={{ill|Chubut Action Party|es|Partido Acción Chubutense}}|votes26=3313|st1t26=0|st2t26=0
+|party27=[[Intransigent Party]]|votes27=2484|st1t27=0|st2t27=0
+|party28=[[Christian Democratic Party (Argentina)|Christian Democratic Party]]|votes28=2255|st1t28=0|st2t28=0
+|party29=Provincial Union|votes29=2171|st1t29=0|st2t29=0
+|party30={{ill|Open Politics for Social Integrity|es|Política Abierta para la Integridad Social|lt=PAIS}}–Great Movement of Hope|votes30=1616|st1t30=0|st2t30=0
+|party31=Catamarca Unity Party|votes31=1271|st1t31=0|st2t31=0
+|party32=Jujuy Solidarity|votes32=1258|st1t32=0|st2t32=0
+|party33=[[UNIR Constitutional Nationalist Party|Front for Patriotic Awareness]]|votes33=1038|st1t33=0|st2t33=0
+|party34=[[Federal Popular Union|Popular Union]]|votes34=872|st1t34=0|st2t34=0
+|party35=Salta Labor Party|votes35=752|st1t35=0|st2t35=0
+|party36=Front of Hope (Catamarca)|votes36=654|st1t36=0|st2t36=0
+|party37=Corrientes Action|votes37=581|st1t37=0|st2t37=0
+|party38=Autonomist Party|votes38=562|st1t38=0|st2t38=0
+|party39=Santa Cruz Unity Movement|votes39=528|st1t39=0|st2t39=0
+|party40=Solidarity Movement|votes40=411|st1t40=0|st2t40=0
+|party41=Modernist Force|votes41=404|st1t41=0|st2t41=0
+|party42=Social Democratic Party|votes42=112|st1t42=0|st2t42=0
+|blank=1087334
+|invalid=122995
+|electorate=22177954
+|source=DINE,<ref>{{Cite web |url=https://recorriendo.elecciones.gob.ar/diputados1995.html#/ |title=Recorriendo las Elecciones de 1983 a 2013 - Diputados Nacionales |website=Dirección Nacional Electoral |archive-url=https://web.archive.org/web/20220817201217/https://recorriendo.elecciones.gob.ar/diputados1995.html#/ |archive-date=17 August 2022}}</ref> Ministry of the Interior<ref name="results"/>
+}}
+
+==== Results by province ====
+{| class="wikitable sortable plainrowheaders" style="text-align:right;"
+! rowspan=2|Province
+! colspan=3|PJ
+! colspan=3|UCR
+! colspan=3|FREPASO
+! colspan=3|Others
+|-
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+|-
+! scope=row|[[Buenos Aires Province|Buenos Aires]]
+| bgcolor=lightblue|'''3,385,366'''
+| bgcolor=lightblue|'''52.54'''
+| bgcolor=lightblue align=center|'''20'''
+| 1,157,597
+| 17.97
+| align=center|6
+| 1,549,750
+| 24.05
+| align=center|9
+| 350,859
+| 5.45
+| align=center|—
+|-
+! scope=row|[[Buenos Aires City]]
+| 804,419
+| 39.94
+| align=center|4
+| 408,537
+| 20.28
+| align=center|3
+| bgcolor=Plum|'''704,720'''
+| bgcolor=Plum|'''34.99'''
+| bgcolor=Plum align=center|'''5'''
+| 96,455
+| 4.79
+| align=center|—
+|-
+! scope=row|[[Catamarca Province|Catamarca]]
+| bgcolor=lightblue|'''58,720'''
+| bgcolor=lightblue|'''51.36'''
+| bgcolor=lightblue align=center|'''1'''
+| 37,695
+| 32.97
+| align=center|—
+| 14,734
+| 12.89
+| align=center|1
+| 3,190
+| 2.79
+| align=center|—
+|-
+! scope=row|[[Chaco Province|Chaco]]
+| bgcolor=lightblue|'''231,977'''
+| bgcolor=lightblue|'''59.94'''
+| bgcolor=lightblue align=center|'''2'''
+| 122,238
+| 31.59
+| align=center|1
+| 28,308
+| 7.31
+| align=center|—
+| 4,478
+| 1.16
+| align=center|—
+|-
+! scope=row|[[Chubut Province|Chubut]]
+| bgcolor=lightblue|'''73,001'''
+| bgcolor=lightblue|'''49.48'''
+| bgcolor=lightblue align=center|'''2'''
+| 57,211
+| 38.78
+| align=center|1
+| 12,280
+| 8.32
+| align=center|—
+| 5,035
+| 3.41
+| align=center|—
+|-
+! scope=row|[[Córdoba Province, Argentina|Córdoba]]
+| bgcolor=lightblue|'''695,125'''
+| bgcolor=lightblue|'''46.67'''
+| bgcolor=lightblue align=center|'''4'''
+| 585,612
+| 39.31
+| align=center|4
+| 184,957
+| 12.42
+| align=center|1
+| 23,879
+| 1.60
+| align=center|—
+|-
+! scope=row|[[Corrientes Province|Corrientes]]
+| 123,398
+| 32.28
+| align=center|2
+| 52,485
+| 13.73
+| align=center|—
+| 40,362
+| 10.56
+| align=center|—
+| bgcolor=Aquamarine|'''166,012'''
+| bgcolor=Aquamarine|'''43.43'''
+| bgcolor=Aquamarine align=center|'''2'''
+|-
+! scope=row|[[Entre Ríos Province|Entre Ríos]]
+| bgcolor=lightblue|'''269,578'''
+| bgcolor=lightblue|'''47.35'''
+| bgcolor=lightblue align=center|'''2'''
+| 211,686
+| 37.18
+| align=center|2
+| 72,242
+| 12.69
+| align=center|—
+| 15,846
+| 2.78
+| align=center|—
+|-
+! scope=row|[[Formosa Province|Formosa]]
+| bgcolor=lightblue|'''82,498'''
+| bgcolor=lightblue|'''49.28'''
+| bgcolor=lightblue align=center|'''2'''
+| 56,331
+| 33.65
+| align=center|1
+| 23,348
+| 13.95
+| align=center|—
+| 5,231
+| 3.12
+| align=center|—
+|-
+! scope=row|[[Jujuy Province|Jujuy]]
+| bgcolor=lightblue|'''103,916'''
+| bgcolor=lightblue|'''50.85'''
+| bgcolor=lightblue align=center|'''2'''
+| 49,358
+| 24.15
+| align=center|1
+| 26,243
+| 12.84
+| align=center|—
+| 24,849
+| 12.16
+| align=center|—
+|-
+! scope=row|[[La Pampa Province|La Pampa]]
+| bgcolor=lightblue|'''76,446'''
+| bgcolor=lightblue|'''50.66'''
+| bgcolor=lightblue align=center|'''2'''
+| 37,518
+| 24.86
+| align=center|—
+| 30,634
+| 20.30
+| align=center|—
+| 6,311
+| 4.18
+| align=center|—
+|-
+! scope=row|[[La Rioja Province, Argentina|La Rioja]]
+| bgcolor=lightblue|'''83,004'''
+| bgcolor=lightblue|'''76.70'''
+| bgcolor=lightblue align=center|'''3'''
+| 21,402
+| 19.78
+| align=center|—
+| 2,567
+| 2.37
+| align=center|—
+| 1,247
+| 1.15
+| align=center|—
+|-
+! scope=row|[[Mendoza Province|Mendoza]]
+| bgcolor=lightblue|'''340,493'''
+| bgcolor=lightblue|'''46.14'''
+| bgcolor=lightblue align=center|'''2'''
+| 125,672
+| 17.03
+| align=center|1
+| 143,670
+| 19.47
+| align=center|1
+| 128,185
+| 17.37
+| align=center|1
+|-
+! scope=row|[[Misiones Province|Misiones]]
+| bgcolor=lightblue|'''178,162'''
+| bgcolor=lightblue|'''50.26'''
+| bgcolor=lightblue align=center|'''2'''
+| 143,519
+| 40.49
+| align=center|2
+| 24,207
+| 6.83
+| align=center|—
+| 8,611
+| 2.43
+| align=center|—
+|-
+! scope=row|[[Neuquén Province|Neuquén]]
+| 48,032
+| 27.39
+| align=center|1
+| 20,940
+| 11.94
+| align=center|—
+| 39,201
+| 22.35
+| align=center|—
+| bgcolor=LightSteelBlue|'''67,216'''
+| bgcolor=LightSteelBlue|'''38.32'''
+| bgcolor=LightSteelBlue align=center|'''1'''
+|-
+! scope=row|[[Río Negro Province|Río Negro]]
+| bgcolor=lightblue|'''94,058'''
+| bgcolor=lightblue|'''44.05'''
+| bgcolor=lightblue align=center|'''2'''
+| 92,047
+| 43.11
+| align=center|1
+| 24,739
+| 11.59
+| align=center|—
+| 2,695
+| 1.26
+| align=center|—
+|-
+! scope=row|[[Salta Province|Salta]]
+| bgcolor=lightblue|'''272,224'''
+| bgcolor=lightblue|'''71.15'''
+| bgcolor=lightblue align=center|'''4'''
+| 55,623
+| 14.54
+| align=center|—
+| 38,116
+| 9.96
+| align=center|—
+| 16,647
+| 4.35
+| align=center|—
+|-
+! scope=row|[[San Juan Province, Argentina|San Juan]]
+| bgcolor=lightblue|'''193,194'''
+| bgcolor=lightblue|'''72.14'''
+| bgcolor=lightblue align=center|'''3'''
+| 22,498
+| 8.40
+| align=center|—
+| 50,554
+| 18.88
+| align=center|—
+| 1,574
+| 0.59
+| align=center|—
+|-
+! scope=row|[[San Luis Province|San Luis]]
+| bgcolor=lightblue|'''88,884'''
+| bgcolor=lightblue|'''61.16'''
+| bgcolor=lightblue align=center|'''2'''
+| 29,038
+| 19.98
+| align=center|—
+| 24,700
+| 17.00
+| align=center|—
+| 2,710
+| 1.86
+| align=center|—
+|-
+! scope=row|[[Santa Cruz Province, Argentina|Santa Cruz]]
+| bgcolor=lightblue|'''37,514'''
+| bgcolor=lightblue|'''58.76'''
+| bgcolor=lightblue align=center|'''2'''
+| 14,706
+| 23.03
+| align=center|—
+| 9,613
+| 15.06
+| align=center|—
+| 2,009
+| 3.15
+| align=center|—
+|-
+! scope=row|[[Santa Fe Province|Santa Fe]]
+| bgcolor=lightblue|'''679,647'''
+| bgcolor=lightblue|'''43.60'''
+| bgcolor=lightblue align=center|'''4'''
+| 257,880
+| 16.54
+| align=center|2
+| 430,205
+| 27.60
+| align=center|3
+| 191,243
+| 12.27
+| align=center|1
+|-
+! scope=row|[[Santiago del Estero Province|Santiago del Estero]]
+| bgcolor=lightblue|'''202,323'''
+| bgcolor=lightblue|'''72.00'''
+| bgcolor=lightblue align=center|'''3'''
+| 62,864
+| 22.37
+| align=center|1
+| 13,687
+| 4.87
+| align=center|—
+| 2,132
+| 0.76
+| align=center|—
+|-
+! scope=row|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+| bgcolor=lightblue|'''15,519'''
+| bgcolor=lightblue|'''45.43'''
+| bgcolor=lightblue align=center|'''2'''
+| 7,566
+| 22.15
+| align=center|—
+| 2,573
+| 7.53
+| align=center|—
+| 8,505
+| 24.90
+| align=center|1
+|-
+! scope=row|[[Tucumán Province|Tucumán]]
+| bgcolor=lightblue|'''233,634'''
+| bgcolor=lightblue|'''41.72'''
+| bgcolor=lightblue align=center|'''2'''
+| 88,897
+| 15.88
+| align=center|1
+| 108,354
+| 19.35
+| align=center|1
+| 129,088
+| 23.05
+| align=center|1
+|-
+! Total
+! 8,371,132
+! 49.38
+! 75
+! 3,718,920
+! 21.94
+! 27
+! 3,599,764
+! 21.23
+! 21
+! 1,264,007
+! 7.46
+! 7
+|}
+
+===Governors===
+{| class="wikitable" 
+! colspan="4" |Election of [[List of provincial governors in Argentina|Provincial Governors]]
+|-
+| colspan="4" |Positions to be elected: 22 (the [[Buenos Aires|City of Buenos Aires]] in 1996 and [[Corrientes Province|Corrientes]] in 1997)
+|-
+! style="background: #ccf" |Province
+! style="background: #ccf" |Elected
+! style="background: #ccf" |Party
+! style="background: #ccf" |Map
+|-
+|Buenos Aires ||[[Eduardo Duhalde]] <span style="color:#008000">R</span> || [[Partido Justicialista]]
+| rowspan="23" | [[File:Elecciones_provinciales_de_Argentina_de_1995.png|300px]]
+|-
+|Federal Capital (1996) ||[[Fernando de la Rúa]] || [[Unión Cívica Radical]]
+|-
+|Catamarca ||[[Arnoldo Aníbal Castillo]] <span style="color:#008000">R</span> || Unión Cívica Radical-[[Frente Cívico y Social de Catamarca|Frente Cívico y Social]]
+|-
+|Chaco ||[[Ángel Rozas]] || Unión Cívica Radical
+|-
+|Chubut ||[[Carlos Maestro]] <span style="color:#008000">R</span> || Unión Cívica Radical
+|-
+|Córdoba ||[[Ramón Mestre]] || Unión Cívica Radical
+|-
+|Entre Ríos ||[[Jorge Pedro Busti]] || Partido Justicialista
+|-
+|Formosa ||[[Gildo Insfrán]] ||Partido Justicialista
+|-
+|Jujuy ||[[Guillermo Snopek]] ||Partido Justicialista
+|-
+|La Pampa ||[[Rubén Marín]] <span style="color:#008000">R</span> ||Partido Justicialista
+|-
+|La Rioja ||[[Ángel Maza]]||Partido Justicialista
+|-
+|Mendoza ||[[Arturo Lafalla]] ||Partido Justicialista
+|-
+|Misiones ||[[Ramón Puerta]] <span style="color:#008000">R</span> || Partido Justicialista
+|-
+|Neuquén ||[[Felipe Sapag]] ||[[Movimiento Popular Neuquino]]
+|-
+|Río Negro ||[[Pablo Verani]] ||Unión Cívica Radical
+|-
+|Salta ||[[Juan Carlos Romero (politician)|Juan Carlos Romero]] ||Partido Justicialista
+|-
+|San Juan ||[[Jorge Escobar]] <span style="color:#008000">R</span> || Partido Justicialista
+|-
+|San Luis ||[[Adolfo Rodríguez Saá]] <span style="color:#008000">R</span> ||Partido Justicialista
+|-
+|Santa Cruz ||[[Néstor Kirchner]] <span style="color:#008000">R</span> ||Partido Justicialista
+|-
+|Santa Fe ||[[Jorge Obeid]] ||Partido Justicialista
+|-
+|Santiago del Estero ||[[Carlos Juárez (politician)|Carlos Juárez]] ||Partido Justicialista
+|-
+|Tierra del Fuego ||[[José Arturo Estabillo]] <span style="color:#008000">R</span> || [[Fuegian People's Movement]]
+|-
+|Tucumán ||[[Antonio Domingo Bussi]] || [[Fuerza Republicana]]
+|-
+| colspan=4 | <span style="color:#008000">R</span>: Re-elected
+|}
+
+== Notes ==
+{{Reflist|group="note"}}
+
+==References==
+{{Reflist}}
+
+{{Argentine elections}}
+{{Carlos Menem}}
+
+[[Category:Presidential elections in Argentina]]
+[[Category:Legislative elections in Argentina]]
+[[Category:1995 elections in South America|Argentina]]
+[[Category:1995 elections in Argentina|General]]
+[[Category:Presidency of Carlos Menem]]

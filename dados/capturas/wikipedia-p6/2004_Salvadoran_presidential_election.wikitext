@@ -1,0 +1,79 @@
+{{short description|2004 elections in El Salvador}}
+{{use dmy dates|date=January 2022}}
+{{Infobox election
+| country = El Salvador
+| type = Presidential
+| registered = 3,442,330
+| turnout = 67.34% ({{increase}}28.77[[percentage point|pp]])
+| previous_election = 1999 Salvadoran presidential election
+| previous_year = 1999
+| next_election = 2009 Salvadoran presidential election
+| next_year = 2009
+| election_date = 21 March 2004
+| image1 = Antonio Saca (cropped).png
+| nominee1 = '''[[Antonio Saca]]'''
+| running_mate1 = [[Ana Vilma de Escobar]]
+| party1 = Nationalist Republican Alliance
+| popular_vote1 = '''1,314,436'''
+| percentage1 = '''57.71%'''
+| image2 = Schafik Hándal - PCS (cropped).jpg
+| nominee2 = [[Schafik Hándal]]
+| running_mate2 = [[Guillermo Francisco Mata Bennett]]
+| party2 = Farabundo Martí National Liberation Front
+| popular_vote2 = 812,519 	
+| percentage2 = 35.68%
+| map_image = Elecciones presidenciales de El Salvador de 2004 - Resultado por Departamento.svg
+| map_caption = Results by department
+| title = President
+| before_election = [[Francisco Flores Pérez]]
+| before_party = Nationalist Republican Alliance
+| after_election = [[Antonio Saca]]
+| after_party = Nationalist Republican Alliance
+}}
+
+Presidential elections were held in [[El Salvador]] on  21 March 2004. [[Antonio Saca]] of the [[Nationalist Republican Alliance]] (ARENA) party won the election with 57% of the vote, avoiding the need for a run-off on 2 May.
+
+==Candidates==
+There were two front-running candidates:
+*[[Antonio Saca]] of the ruling [[Nationalist Republican Alliance]] (ARENA). In his campaign, Saca embraced the free-market and pro-[[United States|US]] policies followed by his predecessor and fellow ''{{proper name|arenista}}'', [[Francisco Flores Pérez|Francisco Flores]]. He was also the clear favorite of the [[George W. Bush|Bush]] administration.
+*[[Schafik Handal]] of the opposition [[Farabundo Martí National Liberation Front]] (FMLN). Handal sought to capitalize on discontent over slow economic growth, increasing crime, and income disparities between the poor and the tiny elite. He pledged to raise the tax burden on the rich and to re-establish diplomatic relations with [[Cuba]].
+
+There were also two additional candidates. However, pre-vote opinion polls consistently placed both of them far behind the two leaders:
+*Héctor Silva Argüello, the [[Christian Democratic Party (El Salvador)|Christian Democratic Party]]–[[United Democratic Centre (El Salvador)|United Democratic Centre]] alliance candidate.
+*José Rafael Machuca Zelaya, representing the [[Party of National Conciliation]] (PCN).
+
+The election was monitored by 270 international observers and El Salvador's own ''Tribunal Supremo Electoral'', an institution created in 1992 to reform and validate the country's electoral system. Some 17,000 police were on security duty during the election.
+
+==Foreign interference==
+The [[Federal government of the United States|U.S. government]] under [[George W. Bush]] interfered in the elections<ref name="oc180news"/> by threatening a deterioration of the [[El Salvador – United States relations|bilateral relations]] in case of a victory by [[Farabundo Martí National Liberation Front|FMLN]]'s candidate [[Schafik Handal]]. Bush's [[Assistant Secretary of State for Western Hemisphere Affairs]], [[Otto Reich]], stated that the U.S. government was "concerned about the impact that an FMLN victory could have on the commercial, economic, and migration-related relations of the U.S. with El Salvador."<ref name="oc180news">[http://www.oc180news.com/printFriendly.cfm?articleID=18445 Dana Rohrabacher Speaks out on El Salvador Election, Clashes With Obama Administration] {{webarchive|url=https://web.archive.org/web/20110603225906/http://www.oc180news.com/printFriendly.cfm?articleID=18445 |date=2011-06-03 }}</ref>
+
+==Results==
+The voter turnout of 67% was the highest in Salvadoran history. The ''Tribunal Supremo Electoral'' confirmed Saca as the winner on Monday 22 March. Handal recognized Saca's victory, but chose not to congratulate him. Saca announced his intention to seek reconciliation with the opposition FMLN, in an effort to heal old divisions from the [[History of El Salvador|country's violent past]]. Saca selected [[Ana Vilma de Escobar]] to be his vice-president. She was previously the director of the Salvadoran Social Security Institute (ISSS). The new government took office on 1 June 2004.
+
+{{Election results
+|cand1=[[Antonio Saca]]|vp1=[[Ana Vilma de Escobar]]|party1=[[Nationalist Republican Alliance]]|votes1=1314436
+|cand2=[[Schafik Hándal]]|vp2=Guillermo Francisco Mata Bennett|party2=[[Farabundo Martí National Liberation Front]]|votes2=812519
+|cand3=[[Héctor Silva Argüello]]|vp3=Ana Cristina Sol|party3=[[Christian Democratic Party (El Salvador)|PDC]]–[[United Democratic Centre (El Salvador)|CDU]]|votes3=88737
+|cand4=[[José Rafael Machuca Zelaya]]|vp4=Genaro Isaac Ramírez Barrera|party4=[[National Coalition Party (El Salvador)|National Conciliation Party]]|votes4=61781
+|invalid=40508
+|electorate=3442330
+|source=[https://www.tse.gob.sv/documentos/memoria-de-elecciones/memoria-elecciones-2004.pdf TSE]
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://seattletimes.nwsource.com/html/nationworld/2001885101_wdig22.html U.S. choice elected in El Salvador (Seattle Times)]
+* [https://web.archive.org/web/20040405050645/http://www.diariocolatino.com/elecciones/detalles.asp?NewsID=48 ARENA celebra triunfo y promete que ?no cerrarán las puertas" (CoLatino)]
+* [https://web.archive.org/web/20120717011942/http://www.elsalvador.com/especiales/2003/elecciones2004/nota356.htm Contundente gane de areneros (El Salvador)]
+* [https://web.archive.org/web/20040805131204/http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=4624844 New Salvador President Vows to Work with Ex-Rebels]
+
+{{Portal bar|El Salvador|Politics}}
+{{Salvadoran elections}}
+{{Authority control}}
+
+[[Category:Presidential elections in El Salvador]]
+[[Category:2004 elections in Central America|El Salvador]]
+[[Category:2004 in El Salvador|Presidential election]]
+[[Category:March 2004 in North America]]

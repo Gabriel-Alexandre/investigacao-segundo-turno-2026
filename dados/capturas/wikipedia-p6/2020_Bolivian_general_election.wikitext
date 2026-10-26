@@ -1,0 +1,1268 @@
+{{short description|None}}
+{{Expand Spanish|topic=gov|date=October 2020}}
+{{use dmy dates|date=January 2020}}
+{{Infobox election
+| country = Bolivia
+| flag_year = state
+| previous_election = 2019 Bolivian general election
+| previous_year = 2019
+| next_election = 2025 Bolivian general election
+| next_year = 2025
+| election_date = 18 October 2020
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_name = Presidential election
+| image_size = 130x130px
+| turnout = 88.42% ({{increase}} 0.11[[Percentage point|pp]])
+
+| image1 = Luis Arce (23588020275) (cropped).jpg
+| nominee1 = '''[[Luis Arce]]'''
+| party1 = Movimiento al Socialismo
+| alliance1_name = no
+| alliance1 = —
+| running_mate1 = '''[[David Choquehuanca]]'''
+| popular_vote1 = '''3,394,052'''
+| percentage1 = '''55.11%'''
+
+| image2 = Carlos Mesa, ex-President of Bolivia (cropped 2).jpg
+| nominee2 = [[Carlos Mesa]]
+| party2 = Revolutionary Left Front (Bolivia)
+| alliance2 = [[Civic Community|CC]]{{efn|Coalition consisting of [[Revolutionary Left Front (Bolivia)|FRI]], [[Jesús Lara de Cochabamba|JESUCA]] and [[Chuquisaca Para Todos]]}}
+| colour2 = {{party colour|Civic Community}}
+| running_mate2 = Gustavo Pedraza
+| popular_vote2 = 1,775,953
+| percentage2 = 28.83%
+
+| image3 = Luis Fernando Camacho.jpg
+| nominee3 = [[Luis Fernando Camacho]]
+| party3 = Independent politician
+| alliance3 = [[Creemos]]{{efn|Coalition consisting of [[Christian Democratic Party (Bolivia)|PDC]] and [[Solidarity Civic Unity|UCS]]}}
+| colour3 = {{party colour|Creemos}}
+| running_mate3 = Marco Pumari
+| popular_vote3 = 862,186
+| percentage3 = 14.00%
+
+| map_image = {{Switcher
+|[[File:Mapa Electoral de Bolivia por Departamentos 2020.png|260px]]
+|Results by department
+|[[File:Mapa Electoral de Bolivia por municipios 2020.svg|260px]]
+|Results by municipality}}
+
+| title = [[President of Bolivia|President]]
+| before_election = [[Jeanine Áñez]]
+| before_party = Social Democratic Movement
+| after_election = [[Luis Arce]]
+| after_party = Movimiento al Socialismo
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies 
+| noleader = yes
+| nopercentage = yes
+| seats_for_election = All 130 seats in the Chamber of Deputies
+| majority_seats = 66
+| map_image = File:Bolivian General Election 2020 - Results by District & List Seats (Chamber of Deputies).svg
+| party1 = Movimiento al Socialismo
+| last_election1 = 67
+| seats1 = 75
+| party5 = Civic Community
+| last_election5 = 50
+| seats5 = 39
+| party6 = Creemos
+| last_election6 = New
+| seats6 = 16 
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Senators
+| noleader = yes
+| seats_for_election = All 36 seats in the [[Chamber of Senators (Bolivia)|Chamber of Senators]]
+| majority_seats = 19
+| map_image = File:Bolivian General Election 2020 - Results by Department Seats (Chamber of Senators).svg
+| party1 = Movimiento al Socialismo
+| last_election1 = 21
+| seats1 = 21
+| percentage1 = 54.73
+| party2 = Civic Community
+| last_election2 = 14
+| seats2 = 11
+| percentage2 = 29.16
+| party3 = Creemos
+| last_election3 = New
+| seats3 = 4
+| percentage3 = 14.06
+
+}}}}}}
+}}{{Politics of Bolivia}}
+
+[[General election]]s were held in [[Bolivia]] on 18 October 2020 for [[President of Bolivia|President]], [[Vice President of Bolivia|Vice President]], and all seats in both the [[Chamber of Senators (Bolivia)|Senate]] and [[Chamber of Deputies (Bolivia)|Chamber of Deputies]].<ref>{{Cite news|date=2020-07-24|title=Bolivia election delayed to October as pandemic bites, opposition cries foul|language=en|work=Reuters|url=https://www.reuters.com/article/us-bolivia-politics-election-idUSKCN24O2PY|access-date=2020-07-24}}</ref> [[Luis Arce]] of the [[Movimiento al Socialismo]] (MAS-IPSP) party was elected president in a landslide,<ref>{{Cite news|date=2020-10-21|title=Official Bolivia Vote Count Confirms Socialist Landslide|language=en|work=Bloomberg.com|url=https://www.bloomberg.com/news/articles/2020-10-21/official-bolivia-vote-count-confirms-socialist-landslide|access-date=2020-10-23}}</ref><ref>{{Cite web|date=2020-10-21|title=Bolivia's Landslide Lays to Rest the Fears of Fraud|url=https://www.crisisgroup.org/latin-america-caribbean/andes/bolivia/bolivias-landslide-lays-rest-fears-fraud-0|access-date=2020-10-23|website=Crisis Group|language=en}}</ref><ref>{{Cite news|title=Don't mess up Bolivia's miracle|newspaper=The Economist|url=https://www.economist.com/the-americas/2020/10/24/dont-mess-up-bolivias-miracle|access-date=2020-10-23|issn=0013-0613}}</ref> winning 55% of the vote and securing majorities in both chambers of the [[Plurinational Legislative Assembly]]. The results of the election superseded the disputed results of the [[2019 Bolivian general election|October 2019 elections]], which were annulled during a prolonged [[2019 Bolivian political crisis|political crisis]]. 
+
+Although the winning party received a higher proportion of the vote in 2020 than in the previous annulled elections, for the first time since 2009 the winning party did not have a two-thirds majority in the Legislative Assembly, meaning that some functions would require cross-party support.<ref name=twothirds>{{cite web|url=https://correodelsur.com/politica/20201025_el-mas-no-alcanzo-los-2-3-en-dos-de-las-ultimas-cuatro-elecciones.html|title=The MAS did not reach 2/3 in two of the last four elections|language=es|date=25 October 2020}}</ref> For the first time, the Senate will contain a majority of female senators.<ref name="femalemajority"/> Electoral authorities had initially scheduled the elections for 3 May 2020.<ref>{{cite web|url=https://www.elvocero.com/el-mundo/para-mayo-las-nuevas-elecciones-en-bolivia/article_88a7220a-2e8e-11ea-b53f-6f0155fdf6ce.html|title=Para mayo las nuevas elecciones en Bolivia|access-date=4 January 2020|website=El Vocero de Puerto Rico|date=3 January 2020 |language=es-ES}}</ref> They were postponed due to the ongoing [[COVID-19 pandemic in Bolivia|COVID-19 pandemic]],<ref>{{Cite web|url=https://www.outlookindia.com/newsscroll/electoral-court-postpones-bolivia-general-election-over-virus/1775807|archive-url=https://web.archive.org/web/20200322012900/https://www.outlookindia.com/newsscroll/electoral-court-postpones-bolivia-general-election-over-virus/1775807|url-status=dead|archive-date=22 March 2020|title=Electoral court postpones Bolivia general election over virus|website=Outlook (India)|access-date=2020-03-22}}</ref> first to 6 September 2020 and then to 18 October 2020. The latter date was ratified by a 13 August 2020 law following protests and blockades against the previous postponements.<ref>{{Cite web|date=2020-08-14|title=Una ley fija el 18 de octubre como fecha tope para las elecciones en Bolivia|url=https://www.abc.es/internacional/abci-ley-fija-18-octubre-como-fecha-tope-para-elecciones-bolivia-202008141215_noticia.html|access-date=2020-10-17|website=ABC|language=es}}</ref>
+
+The parties or alliances contesting the election were the [[Movimiento al Socialismo]] (MAS-IPSP), which governed before 2019, [[Civic Community]] (CC), the newly formed Creemos (''Let's create'', ''We believe'') alliance, the {{ill|Front for Victory (Bolivia)|es|Frente Para la Victoria (Bolivia)|lt=Front For Victory}} and the {{ill|Bolivian National Action Party|es|Partido de Acción Nacional Boliviano}} (PAN-BOL). Presidential candidates [[Carlos Mesa]] (CC) and [[Chi Hyun Chung]] (FPV) were the second and third-place finishers, respectively, in the annulled 2019 presidential election. [[Luis Arce]] was the MAS candidate, replacing former MAS president [[Evo Morales]]. Feliciano Mamani replaced Ruth Nina as candidate for PAN-BOL. Incumbent president [[Jeanine Áñez]], former president [[Jorge Quiroga]], and María de la Cruz Bayá all launched presidential candidacies, but withdrew before the election was held.
+
+The official count took several days to complete. Independent quick-counts of the vote conducted by polling firms Ciesmori and ''Mi Voto Cuenta'' (My Vote Counts) on the morning of 19 October both indicated that Arce had won a majority of the vote, enough to win the election outright without requiring a runoff round.<ref>{{cite web|url=https://uk.reuters.com/article/uk-bolivia-election/bolivias-socialists-claim-victory-as-unofficial-count-shows-big-win-idUKKBN27407Q|archive-url=https://web.archive.org/web/20201019150739/https://uk.reuters.com/article/uk-bolivia-election/bolivias-socialists-claim-victory-as-unofficial-count-shows-big-win-idUKKBN27407Q|url-status=dead|archive-date=19 October 2020|title=Bolivia's socialists claim victory as unofficial count shows big win|date=19 October 2020|publisher=[[Reuters]]}}</ref><ref name="Qcount">{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/19/arce-logra-mas-de-50-segun-el-conteo-rapido-de-dos-firmas-272050.html|title=Arce wins with more than 50% according to quick count of two firms|date=19 October 2020|language=es}}</ref> President Áñez confirmed this on Twitter shortly after,<ref>{{cite web|url=https://twitter.com/JeanineAnez/status/1318048552191483904|title=Aún no tenemos cómputo oficial, pero por los datos con los que contamos, el Sr. Arce y el Sr. Choquehuanca han  ganado la elección. Felicito a los ganadores y les pido gobernar pensando en Bolivia y en la democracia. |language=es|author=Jeanine Anez |via=Twitter|date=19 October 2020}}</ref> and former presidents Mesa and Quiroga both indicated their acceptance of the preliminary results later that day.<ref name="Quiroga">{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/19/tuto-arce-les-deseo-exito-ante-el-enorme-desafio-economico-que-se-avecina-272042.html|title=Tuto to Arce: 'I wish you success, given the enormous economic challenge that lies ahead'|date=19 October 2020|language=es}}</ref><ref name="MesaConc">{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/19/carlos-mesa-somos-la-cabeza-de-la-oposicion-actuaremos-como-tal-272066.html|title=Carlos Mesa: We are the head of the opposition and we will act as such|date=18 October 2020|language=es|access-date=19 October 2020|archive-date=26 October 2020|archive-url=https://web.archive.org/web/20201026032118/https://www.paginasiete.bo/nacional/2020/10/19/carlos-mesa-somos-la-cabeza-de-la-oposicion-actuaremos-como-tal-272066.html|url-status=dead}}</ref> Official observers from the UN, UNIORE, and the OAS all stated that there was no evidence of fraud in the 2020 election.<ref name=nofraude/>
+
+==Background==
+===2019 election===
+{{main|2016 Bolivian constitutional referendum|2019 Bolivian general election|2019 Bolivian protests|2019 Bolivian political crisis}}
+{{Crisis in Bolivia sidebox}}
+On 10 November 2019, after [[2019 Bolivian protests|19 days of civil protests]] following the disputed [[2019 Bolivian general election|election results of October 2019]] and the release of a report from the [[Organization of American States|OAS]], which alleged irregularities in the electoral process, the [[Armed Forces of Bolivia|military]] and the [[law enforcement in Bolivia|police]] of [[Bolivia]] forced president Morales to resign. After General [[Williams Kaliman]] made the military's request for Morales's resignation public, Morales complied, accompanied by other resignations by high-level politicians throughout the day, some citing fears for the safety of their families. The government of [[Mexico]] offered [[political asylum]] to Morales the following day, which Morales accepted a day afterwards.<ref>{{cite news|url=https://www.reuters.com/article/us-mexico-bolivia-asylum-idUSKBN1XL007|title=Mexico says it would offer asylum to Bolivia's Morales if he sought it|newspaper=Reuters|date=11 November 2019|via=www.reuters.com}}</ref><ref>{{cite news |title=Bolivia crisis: Evo Morales accepts political asylum in Mexico |url=https://www.bbc.com/news/world-latin-america-50383608 |publisher=BBC |access-date=12 November 2019|work=BBC News |date=12 November 2019 }}</ref>
+
+As Vice-President [[Álvaro García Linera]], President of the Senate [[Adriana Salvatierra]] and President of the Chamber of Deputies [[Víctor Borda]], had already resigned, there were no constitutionally-designated successors. The First Vice President of the Senate, [[Rubén Medinaceli]], had also resigned.<ref>{{cite news |last=Faiola |first=Anthony |url=https://www.washingtonpost.com/world/bolivia-to-hold-new-elections-after-protests-and-international-criticism/2019/11/10/4778e842-03b2-11ea-ac12-3325d49eacaa_story.html |title=Evo Morales resigns as Bolivia's president after OAS election audit, protests |newspaper=The Washington Post |access-date=12 November 2019 |archive-url=https://web.archive.org/web/20191112003631/https://www.washingtonpost.com/world/bolivia-to-hold-new-elections-after-protests-and-international-criticism/2019/11/10/4778e842-03b2-11ea-ac12-3325d49eacaa_story.html |archive-date=12 November 2019 |url-status=live }}</ref> [[Jeanine Áñez]], the Second Vice President of the Senate, was the highest-ranking official still in office and she announced that she would be willing to ascend to the presidency on an interim basis in order to call for new elections. On 12 November 2019 Áñez took temporary charge of the [[Senate of Bolivia]], thereby formally placing herself in the line of succession as acting President of the Senate, and on this basis proceeded to declare herself the Constitutional President of the country. Her accession to office was formally legitimized by a decision of the [[Plurinational Constitutional Tribunal]] later the same day, which stated that she had lawfully assumed office ''ipso facto'', in accordance with the precedent laid out by Constitutional Declaration 0003/01 of 31 July 2001.<ref>{{Cite web|url=https://tcpbolivia.bo/tcp/?q=content/comunicado-1|title=COMUNICADO &#124; Tribunal Constitucional Plurinacional|website=tcpbolivia.bo|access-date=15 December 2019|archive-url=https://web.archive.org/web/20191113165737/https://tcpbolivia.bo/tcp/?q=content%2Fcomunicado-1|archive-date=13 November 2019|url-status=live}}</ref> Many in Bolivia protested against Añez becoming president, which led to violent clashes between them and the police. Several MAS supporters were killed by the police during confrontations in Senkata and Sacaba. The Argentine delegation in Bolivia and the [[Inter-American Commission on Human Rights]] described these as massacres.<ref>{{Cite web|title=Argentine Delegation: INFORME FINAL BOLIVIA DIC 19.pdf|url=https://drive.google.com/file/d/1QEIpvaDANQvvrPQLmbXPjtck498tXohq/view?usp=embed_facebook&usp=embed_facebook|access-date=2020-10-21|website=Google Docs}}</ref><ref>{{Cite web|title=CIDH califica de masacre lo ocurrido en Senkata y Sacaba tras que se aprobó decreto que deslindaba de responsabilidad penal a FFAA (in spanish)|url=https://www.ccb.com.bo/politica/noticia/1850/cidh-califica-de-masacre-lo-ocurrido-en-senkata-y-sacaba-tras-que-se-aprobo-decreto-que-deslindaba-de-responsabilidad-penal-a-ffaa-|access-date=2020-10-21|website=www.ccb.com.bo|language=es}}</ref><ref>{{Cite web|author=Deutsche Welle|title=CIDH pide investigación internacional sobre "masacres" en Bolivia {{!}} DW {{!}} 11.12.2019|url=https://www.dw.com/es/cidh-pide-investigaci%C3%B3n-internacional-sobre-masacres-en-bolivia/a-51631043|access-date=2020-10-21|website=DW.COM|language=es-ES}}</ref>
+
+On 20 November, Evo Morales offered to not run as a presidential candidate if he was allowed to return to Bolivia and conclude his term.<ref>{{Cite news|url=https://www.infobae.com/america/america-latina/2019/11/20/evo-morales-ofrecio-no-presentarse-a-elecciones-si-le-permiten-regresar-a-bolivia-y-terminar-su-mandato/|title=Evo Morales ofreció no presentarse a elecciones si le permiten regresar a Bolivia y terminar su mandato|date=20 November 2019|work=[[Bloomberg News|Bloomberg]]|access-date=29 November 2019|publisher=[[Infobae]]|language=es|archive-url=https://web.archive.org/web/20191121135701/https://www.infobae.com/america/america-latina/2019/11/20/evo-morales-ofrecio-no-presentarse-a-elecciones-si-le-permiten-regresar-a-bolivia-y-terminar-su-mandato/|archive-date=21 November 2019|url-status=live}}</ref>
+
+In the same day, the interim government presented a bill that aimed to forge a path to new elections. The two chambers of congress were expected to debate the bill which would annul the 20 October election and appoint a new electoral board within 15 days of its passage, paving the way for a new vote.<ref>{{cite web|url=https://www.reuters.com/article/us-bolivia-politics/bolivia-government-proposes-election-bill-as-its-seeks-path-to-peace-idUSKBN1XU1YJ|title=Bolivia government proposes election bill as its seeks path to peace|date=20 November 2019|website=[[Reuters]]|access-date=29 November 2019|archive-url=https://web.archive.org/web/20191124180427/https://www.reuters.com/article/us-bolivia-politics/bolivia-government-proposes-election-bill-as-its-seeks-path-to-peace-idUSKBN1XU1YJ|archive-date=24 November 2019|url-status=live}}</ref> The bill, drafted jointly by Morales' [[Movimiento al Socialismo]] (MAS-IPSP) and anti-Morales legislators, was approved on 23 November; it prohibited Morales from participating in the fresh election.<ref>{{cite web|url=https://www.wsj.com/articles/bolivia-marks-end-of-era-as-legislators-rush-to-approve-new-election-without-morales-11574537980|title=Bolivia Marks End of Era, as Legislators Rush to Approve New Election Without Evo Morales|date=23 November 2019|website=[[The Wall Street Journal]]|access-date=29 November 2019|archive-url=https://web.archive.org/web/20191129121324/https://www.wsj.com/articles/bolivia-marks-end-of-era-as-legislators-rush-to-approve-new-election-without-morales-11574537980|archive-date=29 November 2019|url-status=live}}</ref> In exchange, Áñez's government agreed to withdraw the armed forces from all protest areas (although some servicemen were still permitted to stay at some state companies to "prevent vandalism"), to revoke her decree which granted the army immunity from criminal prosecution, to release arrested pro-Morales protesters, to protect lawmakers and social leaders from attacks and to provide compensation for the families of those killed during the crisis. She approved the bill shortly thereafter.<ref>{{Cite news|url=https://in.reuters.com/article/bolivia-politics-idINKBN1XY0H7|title=Bolivian leader agrees to withdraw military in deal to 'pacify' country|date=24 November 2019|work=Reuters|access-date=25 November 2019|language=en|archive-url=https://web.archive.org/web/20191128184924/https://in.reuters.com/article/bolivia-politics-idINKBN1XY0H7|archive-date=28 November 2019|url-status=dead}}</ref>
+
+=== Candidacy of Áñez ===
+
+On 5 December, Áñez stated that she would not be a candidate or support any candidate.<ref>[https://rpp.pe/mundo/latinoamerica/bolivia-jeanine-anez-no-postulara-a-la-presidencia-segun-el-gobierno-interino-noticia-1233337 Jeanine Áñez no postulará a la Presidencia de Bolivia, según el Gobierno interino.] Publicado el 5 de diciembre de 2019. Consultado el 8 de diciembre de 2019.</ref> This was reiterated on 15 January 2020 by Minister for the Presidency [[:w:es:Yerko Núñez|Yerko Núñez]], who said that "[Áñez] will not be a candidate. The President has stated on several occasions, she will not be a candidate, this is a government of peace, transition, and management because you can not stop the state apparatus."<ref>{{cite web|url=http://www.la-razon.com/nacional/jeanine-anez-presidencia-gobierno-elecciones-bolivia_0_3294870527.html|language=es|title=Government clarifies that Jeanine Áñez will not be a candidate for the Presidency|access-date=16 January 2020|archive-url=https://web.archive.org/web/20200122201708/http://la-razon.com/nacional/jeanine-anez-presidencia-gobierno-elecciones-bolivia_0_3294870527.html|archive-date=22 January 2020|url-status=dead}}</ref>
+
+Despite her previous statements, Áñez announced her candidacy on 24 January 2020.<ref>{{cite web|url=https://www.atb.com.bo/pol%C3%ADtica/jeanine-%C3%A1%C3%B1ez-confirma-candidatura-presidencial-para-las-elecciones-generales|title=Jeanine Áñez confirma candidatura presidencial para las elecciones generales|date=24 January 2020|access-date=24 January 2020|website=ATBDigital|language=es-ES|archive-date=22 October 2020|archive-url=https://web.archive.org/web/20201022105839/https://www.atb.com.bo/pol%C3%ADtica/jeanine-%C3%A1%C3%B1ez-confirma-candidatura-presidencial-para-las-elecciones-generales|url-status=dead}}</ref> A survey reported in the Bolivian newspaper ''[[Los Tiempos]]'' indicated that, while 43% of respondents considered her to have done a "good or very good" job as interim president (compared to 27% bad or very bad), only 24% of respondents believed that she should stand as a candidate in the upcoming elections. In the same poll, 63% of respondents agreed with the statement that "as interim president, Jeanine Áñez should call elections and not take advantage of her power to become a presidential candidate."<ref>{{cite web | url=https://www.lostiempos.com/actualidad/pais/20200126/encuesta-aprueban-gestion-anez-pero-rechazan-candidatura| title=Survey approves of Áñez's term as president, but rejects her candidacy.|language=es|date=26 January 2020}}</ref> On 17 September 2020, following a poll that put Arce in first place with above 40% support, and Áñez in fourth place, Áñez announced the end of her candidacy, citing the risk that the vote would be split between the conservative candidates.<ref>{{Cite news|url=https://www.nytimes.com/2020/09/17/world/americas/bolivia-jeanine-anez.html|title=Bolivia's Interim President Pulls Out of Election|date=17 September 2020|agency=Reuters|access-date=17 September 2020|language=en}}</ref>
+
+=== Election postponement and blockades ===
+
+In March 2020, the Supreme Electoral Tribunal announced the election and preparatory activities would be postponed due to emergency restrictions to combat the COVID-19 pandemic. All major parties agreed with this measure and that a date for the new election would be chosen by the legislative assembly based on a public health evaluation at a later date.<ref>{{cite web|date=24 March 2020|title=Copa Says Legislative Will Define New Election Date After Quarantine|url=http://www.la-razon.com/nacional/elecciones-presidencia-tse-asamblea_0_3336266412.html|website=La Razon|language=es|access-date=26 March 2020|archive-date=26 March 2020|archive-url=https://web.archive.org/web/20200326150254/http://www.la-razon.com/nacional/elecciones-presidencia-tse-asamblea_0_3336266412.html|url-status=dead}}</ref><ref>{{cite web|date=25 March 2020|title=Parties in the electoral race avoid fixing the date of the elections; await quarantine report|url=http://www.la-razon.com/nacional/elecciones-bolivia-partidos-tse-coronavirus_0_3336866313.html|website=La Razon|language=es|access-date=26 March 2020|archive-date=26 March 2020|archive-url=https://web.archive.org/web/20200326150254/http://www.la-razon.com/nacional/elecciones-bolivia-partidos-tse-coronavirus_0_3336866313.html|url-status=dead}}</ref>
+
+On 22 June 2020, Áñez approved a law passed by both the Chamber of Deputies and the Senate to set 6 September 2020 as the date for the election, with elected authorities in place by mid-to-late November 2020.<ref>{{cite web|date=22 June 2020|title=After warning of risk, Añez promulgates the law of elections between reproaches of MAS and CC|url=https://www.paginasiete.bo/nacional/2020/6/22/tras-advertir-riesgo-anez-promulga-la-ley-de-comicios-entre-reproches-al-mas-cc-259079.html|language=es|access-date=27 June 2020|archive-date=9 August 2020|archive-url=https://web.archive.org/web/20200809211844/https://www.paginasiete.bo/nacional/2020/6/22/tras-advertir-riesgo-anez-promulga-la-ley-de-comicios-entre-reproches-al-mas-cc-259079.html|url-status=dead}}</ref><ref>{{cite web|date=26 June 2020|title=See the electoral calendar for 2020 elections|url=https://www.paginasiete.bo/nacional/2020/6/26/mira-las-actividades-del-calendario-electoral-para-las-elecciones-2020-259557.html|access-date=27 June 2020|archive-date=11 September 2020|archive-url=https://web.archive.org/web/20200911145305/https://www.paginasiete.bo/nacional/2020/6/26/mira-las-actividades-del-calendario-electoral-para-las-elecciones-2020-259557.html|url-status=dead}}</ref><ref>{{cite news|date=3 June 2020|title=Las elecciones en Bolivia se realizarán el 6 de septiembre|publisher=NODAL|url=https://www.nodal.am/2020/06/bolivia-el-tribunal-supremo-electoral-fija-las-elecciones-generales-para-el-6-de-septiembre/|access-date=4 June 2020}}</ref>
+
+On 23 July 2020, the [[Plurinational Electoral Organ|TSE]] announced that the election would be postponed to 18 October 2020 due to medical reports that the pandemic would have its highest peaks in late August and early September.<ref>{{Cite web|title=El Tribunal Electoral de Bolivia volvió a aplazar las elecciones presidenciales para el 18 de octubre|url=https://www.infobae.com/america/america-latina/2020/07/23/el-tribunal-electoral-de-bolivia-aplazo-las-elecciones-presidenciales-para-el-18-de-octubre/|access-date=2020-07-24|website=infobae|date=23 July 2020 |language=es-ES}}</ref><ref>{{cite web|title=Bolivian COVID statistics|url=https://www.boliviasegura.gob.bo/datos.php|access-date=8 October 2020|website=www.boliviasegura.gob.bo|language=es|archive-date=18 September 2020|archive-url=https://web.archive.org/web/20200918141741/https://www.boliviasegura.gob.bo/datos.php|url-status=dead}}</ref> [[Evo Morales]] condemned the delays, calling them an unconstitutional attempt by Áñez to remain in power, and some groups, including the [[Bolivian Workers' Center]], carried out protests and blockades.<ref>{{cite web|url=https://twitter.com/evoespueblo/status/1287726662650658816|title=Condemnation|first=Evo|last=Morales|publisher=Twitter|date=2020-07-27|access-date=2020-07-28}}</ref><ref>{{cite web|url=https://www.nodal.am/2020/07/bolivia-organizaciones-de-todo-el-pais-se-suman-a-la-marcha-de-manana-contra-la-postergacion-de-las-elecciones/|title=Bolivia: organizaciones de todo el país se suman a la marcha de mañana contra la postergación de las elecciones|publisher=Nodal|date=2020-07-27|access-date=2020-07-28}}</ref> The electoral body, experts and MAS politicians disagreed on the unconstitutionality of the decision.<ref>{{cite web| url=https://www.paginasiete.bo/nacional/2020/7/25/exvocales-dicen-que-tse-tiene-potestad-para-fijar-nueva-fecha-262418.html|title=Ex-officials say that the TSE has the power to fix new date.|language=es|date=25 July 2020}}</ref><ref>{{cite web | url=https://www.paginasiete.bo/nacional/2020/7/24/el-mas-tarija-dice-estar-de-acuerdo-con-la-postergacion-de-las-elecciones-262329.html|title=MAS Tarija in agreement with postponement of elections|date=24 July 2020|language=es}}</ref> MAS supporters responded to the election postponement by protesting and, on 3 August, started an indefinite strike, blocking highways in El Alto and other party strongholds.<ref name="as120820">{{cite news |last1=Sonneland |first1=Holly K. |title=Update: Bolivia's Tumultuous Special Election |url=https://www.as-coa.org/articles/update-bolivias-tumultuous-special-election |access-date=13 November 2020 |work=AS/COA |date=12 August 2020 |language=en}}</ref> Former president of Bolivia, [[Jaime Paz Zamora]] of the [[Revolutionary Left Movement (Bolivia)|Revolutionary Left Movement]], criticised Morales for supporting the blockades, which resulted in the deaths of 33 coronavirus patients due to lack of oxygen.<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/8/10/jaime-paz-evo-basta-ya-has-hecho-un-enorme-dano-al-pais-en-tus-14-anos-264125.html|date=10 Aug 2020|language=es|title=Jaime Paz: Enough, Evo, you have done enough damage to the country during your 14 years.}}</ref> Morales later accepted the decision of the TSE after rising opposition to the protests.<ref>{{cite news|url=https://www.paginasiete.bo/nacional/2020/8/10/evo-apoya-el-18-de-octubre-como-fecha-de-elecciones-admite-que-las-protestas-no-tienen-apoyo-264075.html|title=Evo supports 18 Oct as date of elections and admits protests have no support.|date=10 Aug 2020|language=es}}</ref> On 10 August, Morales called for dialogue and asked MAS supporters to "consider" the TSE's plan for an election on 18 October with the UN as observer.<ref name="as120820"/> A survey by Mercados y Muestras showed that 59% of those surveyed believed that MAS were behind the medicine and food shortages to the cities and 65% believed that the organisers of the blockades should face prosecution.<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/9/16/59-responsabiliza-al-mas-por-los-bloqueos-de-agosto-268270.html|title=59% blame MAS for August blockades.|language=es|date=16 September 2020|access-date=28 September 2020|archive-date=20 September 2020|archive-url=https://web.archive.org/web/20200920150512/https://www.paginasiete.bo/nacional/2020/9/16/59-responsabiliza-al-mas-por-los-bloqueos-de-agosto-268270.html|url-status=dead}}</ref> MAS Vice President Orlando Zurita said the road blockades were established by MAS.<ref>{{cite web| url=https://www.paginasiete.bo/nacional/2020/8/8/admiten-que-el-mas-esta-detras-del-bloqueo-de-carreteras-263895.html|date=8 August 2020|language=es|title= They admit that MAS is behind road blockades.}}</ref> In some places, dynamite was used to destroy the highway and two soldiers were severely beaten by protestors.<ref>{{cite web|url=https://eldeber.com.bo/pais/bloqueadores-propinan-una-brutal-golpiza-a-dos-militares-en-sayari_196200|title=Blockers carry out brutal beating on two soldiers in Sayari|date=16 August 2020|language=es}}</ref> In Santa Cruz, Potosí, Cochabamba and other areas of the country, the police and government stated that some protesters were armed and that violence had been carried out violence against police and property.<ref>{{cite web|url=https://eldeber.com.bo/santa-cruz/policia-revela-que-ataque-en-samaipata-fue-bien-organizado-y-muestra-armas-y-objetos-decomisados_195438|title=Police reveal that attack in Samaipata was well-organised and show arms and confiscated objects|language=es|date=10 August 2020}}</ref><ref>{{cite web|url=http://www.elalteno.com.bo/bolivia/20200830/gobierno-investiga-procedencia-de-armas-exhibidas-durante-los-bloqueos|archive-url=https://web.archive.org/web/20210615044255/http://www.elalteno.com.bo/bolivia/20200830/gobierno-investiga-procedencia-de-armas-exhibidas-durante-los-bloqueos|url-status=dead|archive-date=15 June 2021|title=Government investigate source of arms displayed during blockades|language=es|date=30 August 2020}}</ref><ref>{{cite web|url=http://www.elalteno.com.bo/seguridad/20200812/grupos-armados-se-incrustan-en-los-bloqueos-de-la-cob|title=Armed groups embed themselves in the COB blockades|language=es|date=16 August 2020|access-date=28 September 2020|archive-date=20 September 2020|archive-url=https://web.archive.org/web/20200920114846/http://www.elalteno.com.bo/seguridad/20200812/grupos-armados-se-incrustan-en-los-bloqueos-de-la-cob|url-status=dead}}</ref> On 10 August, Añez asked the La Paz prosecutor general's office to investigate Morales, Arce, Choquehuanca, and eight other MAS leaders for fomenting "terrorism, genocide, and other crimes against health" in relation to the protests.<ref name="as120820"/>
+
+In late August and early September 2020, the police reported large seizures of weapons, dynamite and ammunition which the government alleged were linked to Mexican drug cartels and MAS-affiliated groups.<ref>{{cite web|url=https://eldeber.com.bo/pais/carteles-mexicanos-tendrian-relacion-con-armas-y-dinero-incautado-segun-gobierno_199927|title=Mexican drug cartels linked to seized arms and money, says government.|language=es|date=9 September 2020}}</ref> Government supporters made statements in the media suggesting that groups related to organized crime could seek to destabilize the coming elections.<ref>{{cite web|url=https://eldeber.com.bo/pais/temen-que-se-busque-desestabilizar-las-elecciones-hallan-gran-cantidad-de-armas-dinamita-y-dinero_197755|title=They fear that some seek to destabilize elections. Large amount of weapons, dynamite and money seized.|date=27 August 2020}}</ref><ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/9/7/analistas-hay-grupos-armados-por-la-permisividad-del-mas-267075.html|title=Analysts: Armed groups due to the permissiveness of MAS.|date=7 September 2020|language=es}}</ref>
+
+==Electoral system==
+{{Main|Elections in Bolivia}}
+
+The President of Bolivia is elected using a modified [[First-past-the-post voting|first-preference plurality]] system ([[two-round system|a two-round system]]): a candidate is declared the winner if they receive more than 50% of the vote, or over 40% of the vote and are 10 percentage points ahead of their closest rival.<ref name="BBC50055725">{{Cite news|url=https://www.bbc.com/news/world-latin-america-50055725|title=Will Bolivians give Evo Morales a fourth term?|date=20 October 2019|work=BBC|access-date=21 October 2019|language=en-GB|archive-url=https://web.archive.org/web/20191020151045/https://www.bbc.com/news/world-latin-america-50055725|archive-date=20 October 2019|url-status=live}}</ref> If neither condition is met, a run-off election is held between the two top candidates.<ref>{{Cite news|url=https://www.eldeber.com.bo/bolivia/El-Tribunal-Electoral-define-la-eventual-segunda-vuelta-para-el-15-de-diciembre-20190329-0103.html|title=El Tribunal Electoral define la eventual segunda vuelta para el 15 de diciembre|website=El Deber|access-date=2 April 2019|archive-url=https://web.archive.org/web/20190402132651/https://www.eldeber.com.bo/bolivia/El-Tribunal-Electoral-define-la-eventual-segunda-vuelta-para-el-15-de-diciembre-20190329-0103.html|archive-date=2 April 2019|url-status=live}}</ref>
+
+The 130 members in the [[Chamber of Deputies of Bolivia|Chamber of Deputies]] (''Cámara de Diputados'') are elected using a [[seat linkage]] based mixed [[Compensation (electoral systems)|compensatory]] system using two votes: 63 deputies are elected by [[First-past-the-post voting|first-preference plurality]] to represent single-member [[electoral district]]s, 60 are elected by [[closed list]] [[party-list proportional representation]] from party lists on a departmental basis (in districts of varying sizes corresponding to Bolivia's nine departments with a threshold of 3%).<ref name="RegimenElectoral2">{{cite web |title=Bolivia: Ley del Régimen Electoral, 30 de junio de 2010 |url=http://www.lexivox.org/norms/BO-L-N26.xhtml |access-date=10 February 2015 |website=Lexivox}}</ref> The list seats in each region are awarded proportionally based on the vote for the presidential candidates, subtracting the number of single-member districts won (to provide [[mixed-member proportional representation]]). The remaining seven seats are reserved indigenous seats elected by the ''[[usos y costumbres]]''. A voter can only vote in one of either the normal constituencies or special constituencies ([[Coexistence (electoral systems)|coexistence]]).<ref name=RegimenElectoral>{{cite web|title=Bolivia: Ley del Régimen Electoral, 30 de junio de 2010|url=http://www.lexivox.org/norms/BO-L-N26.xhtml|website=Lexivox|access-date=8 October 2020}}</ref> Party lists are required to alternate between men and women, and in the single-member districts, men are required to run with a female alternate, and vice versa. At least 50% of the deputies from single-member districts are required to be women.
+
+The [[Senate of Bolivia|Chamber of Senators]] (''Cámara de Senadores'') has 36 members, four from each the country's nine departments, which are also elected using closed party-lists, using the [[D'Hondt method]].<ref name="RegimenElectoral"/> The senate seats are also awarded based on the vote for president.
+
+The election uses the same votes to elect the President (first round), the Chamber and the Senate, making it a [[Double simultaneous vote|double (triple) simultaneous vote]]. Voters may therefore not [[Split-ticket voting|split their ticket]] between these elections, but they may vote for a candidate of a different list in the election of the Chamber as the deputies from the single-member districts are elected using separate votes.
+
+Voting in Bolivia is compulsory for all adults over the age of 18. The voter is given a card when they have voted so that they can show proof of participation. The voter would not be able to receive their salary from the bank if they cannot show the proof of voting during three months after the election.<ref>{{cite web|url=https://www.thenews.com.pk/print/343889-voting-is-compulsory-in-some-countries|title=Voting is compulsory in some countries|date=20 July 2018}}</ref> This can result in a relatively common occurrence of invalid ballots.<ref>{{cite journal|title=Politically Unengaged, Distrusting, and Disaffected Individuals Drive the Link Between Compulsory Voting and Invalid Balloting|url=https://www.cambridge.org/core/journals/political-science-research-and-methods/article/politically-unengaged-distrusting-and-disaffected-individuals-drive-the-link-between-compulsory-voting-and-invalid-balloting/9DDF631F6ADDE16907A75C37B7FC3AFE|journal=Political Science Research and Methods|first=Shane P. |last=Singh|volume=7|issue=1|date=January 2019|pages=107–123|doi=10.1017/psrm.2017.11|s2cid=157099704|url-access=subscription}}</ref> This is reflected in the percentages of blank/null votes under "would not vote" in the electoral surveys.
+
+On 17 October, the TSE announced that the new preliminary count system (Direpre) would not be used because the preliminary data would not offer certainty about the results, and only the final results will be published officially. The TSE also stated that all people will be able to observe the counting process and any citizen would be able to take photos of the electoral records. Political organisations with delegates would also have the right to copies of the minutes, the calculation and scrutiny would be carried out in public, and photos of the minutes would be part of the released data.<ref>{{cite news |title=Organismos internacionales toman nota de la suspensión intempestiva del Direpre |url=https://www.la-razon.com/nacional/2020/10/17/organismos-internacionales-toman-nota-de-la-suspension-intempestiva-del-direpre/ |access-date=18 October 2020 |work=La Razón {{!}} Noticias de Bolivia y el Mundo |date=17 October 2020 |language=en}}</ref><ref>{{cite news |title=TSE determina la suspensión del Direpre |url=https://www.paginasiete.bo/nacional/2020/10/17/tse-determina-la-suspension-del-direpre-271891.html |access-date=18 October 2020 |work=Pagina Siete |date=17 October 2020 |language=es}}</ref>
+
+==Presidential candidates==
+As of 28 January 2020, ten candidates had officially stated their intention to run for the presidency.<ref>(By candidate)
+; Luis Arce: {{cite web|url=https://www.infobae.com/america/america-latina/2020/01/19/evo-morales-anuncio-que-luis-arce-sera-el-candidato-a-presidente-del-mas-en-las-nuevas-elecciones-de-bolivia/|title=Evo Morales anunció que Luis Arce será el candidato a presidente del MAS en las nuevas elecciones de Bolivia|access-date=19 January 2020|website=Infobae|date=19 January 2020 |language=es-ES|ref={{harvid|Infobae|2020}}}}
+; Carlos Mesa: {{cite web|url=https://www.france24.com/es/20191203-carlos-mesa-se-postula-como-candidato-a-los-pr%C3%B3ximos-comicios-de-bolivia|title=Carlos Mesa se postula como candidato a los próximos comicios de Bolivia|access-date=23 December 2019|date=3 December 2019|website=France 24}}
+; Luis Fernando Camacho: {{cite web|url=https://www.infobae.com/america/america-latina/2019/12/02/el-lider-civico-luis-fernando-camacho-firmo-un-acuerdo-preliminar-con-el-mnr-con-miras-a-las-elecciones-en-bolivia/|title=El líder cívico Luis Fernando Camacho firmó un acuerdo preliminar con el MNR con miras a las elecciones en Bolivia|access-date=31 December 2019|date=2 December 2019|website=Infobae|language=es-ES}}
+; Félix Patzi: {{cite web|url=https://www.lostiempos.com/actualidad/pais/20191228/patzi-anuncia-que-sera-candidato-presidencia-proximas-elecciones|title=Patzi anuncia que será candidato a la Presidencia en las próximas elecciones|date=28 December 2019|access-date=28 December 2019|website=lostiempos.com|language=es-ES}}
+; Jeanine Áñez: {{cite web|url=https://www.atb.com.bo/pol%C3%ADtica/jeanine-%C3%A1%C3%B1ez-confirma-candidatura-presidencial-para-las-elecciones-generales|title=Jeanine Áñez confirma candidatura presidencial para las elecciones generales|date=24 January 2020|access-date=24 January 2020|website=ATBDigital|language=es-ES|archive-date=22 October 2020|archive-url=https://web.archive.org/web/20201022105839/https://www.atb.com.bo/pol%C3%ADtica/jeanine-%C3%A1%C3%B1ez-confirma-candidatura-presidencial-para-las-elecciones-generales|url-status=dead}}
+; Chi Hyung Chung: {{cite web|url=https://correodelsur.com/politica/20191126_chi-hyung-chung-confirma-que-sera-candidato-en-las-nuevas-elecciones.html|title=Chi Hyung Chung confirma que será candidato en las nuevas elecciones|access-date=23 December 2019|website=Correo del Sur|language=es-ES}}
+; Jorge "Tuto" Quiroga: {{cite web|url=https://fmbolivia.com.bo/mnr-rompe-acuerdo-con-fernando-camacho-y-decide-apoyar-a-jorge-tuto-quiroga/|title=MNR rompe acuerdo con Fernando Camacho y decide apoyar a Jorge "Tuto" Quiroga|date=22 January 2020|access-date=22 January 2020|website=fmbolivia.com|language=es-ES|archive-date=1 March 2020|archive-url=https://web.archive.org/web/20200301210043/https://fmbolivia.com.bo/mnr-rompe-acuerdo-con-fernando-camacho-y-decide-apoyar-a-jorge-tuto-quiroga/|url-status=dead}}
+; Jallalla Bolivia: {{cite web|url=https://www.noticiasfides.com/nacional/politica/jallalla-bolivia-presenta-a-una-mujer-de-pollera-como-candidata-a-la-vicepresidencia--403345|title=Jallalla Bolivia presenta a una mujer aymara como candidata a la vicepresidencia|date=23 January 2020|access-date=23 January 2020|website=noticiasfides.com|language=es-ES}}
+; Doria Medina: {{cite web|url=https://www.paginasiete.bo/nacional/2020/1/31/doria-medina-sera-el-acompanante-de-anez-en-la-carrera-electoral-245214.html|title=Doria Medina será el acompañante de Añez en la carrera electoral|date=31 January 2020|access-date=31 January 2020|website=paginasiete.bo|language=es-ES|archive-date=22 October 2020|archive-url=https://web.archive.org/web/20201022112148/https://www.paginasiete.bo/nacional/2020/1/31/doria-medina-sera-el-acompanante-de-anez-en-la-carrera-electoral-245214.html|url-status=dead}}
+; Ruth Nina: {{cite web|url=https://eldeber.com.bo/164032_ruth-nina-se-suma-a-la-lista-de-candidatos-para-las-elecciones-de-mayo|title=Ruth Nina se suma a la lista de candidatos para las elecciones de mayo|date=27 January 2020|access-date=27 January 2020|website=eldeber.com|language=es-ES}}</ref>
+
+On 18 January 2020, the [[Pact of Unity|Unity Pact]] of MAS bases elected [[David Choquehuanca]] and Andrónico Rodríguez as presidential and vice-presidential candidates. On 19 January, Evo Morales announced that [[Luis Alberto Arce Catacora]] and David Choquehuanca would be the party's presidential and vice presidential candidates. This was following a vote by those members of MAS leadership present in Buenos Aires the previous day.{{sfn|Infobae|2020}} This difference caused some friction among different sections of the MAS bases, including the Barolina Sisa and Tupac Katari Federation who rejected these selections.<ref>{{cite web| url=https://www.paginasiete.bo/nacional/2020/1/20/bartolinas-campesinos-afines-al-mas-rechazan-el-binomio-de-evo-244043.html| title=The social and peasant organizations of the department of La Paz feel betrayed by the decision of Evo Morales| language=es| date=21 January 2020| access-date=23 January 2020| archive-date=21 October 2020| archive-url=https://web.archive.org/web/20201021153145/https://www.paginasiete.bo/nacional/2020/1/20/bartolinas-campesinos-afines-al-mas-rechazan-el-binomio-de-evo-244043.html| url-status=dead}}</ref><ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/1/22/morales-defiende-arce-pero-surgen-mas-voces-de-rechazo-244242.html|title=Morales defends Arce, but more voices of rejection arise|date=22 January 2020|language=es}}</ref> On 21 January, the Central Obrera Boliviana (COB) supplied a third candidacy combination of Choquehuanca paired with Orlando Gutiérrez. MAS President of the Senate, Eva Copa, said the matter was not yet closed and would be decided by a further meeting of the Unity Pact.<ref>{{cite web | url=http://www.la-razon.com/nacional/Copa-Pacto-Unidad-posicion-binomio-elecciones-bolivia_0_3298470201.html | title=Copa MAS Binomial: We take it as a proposal to be debated | date=22 January 2020 | language=es | access-date=23 January 2020 | archive-date=23 January 2020 | archive-url=https://web.archive.org/web/20200123180509/http://www.la-razon.com/nacional/Copa-Pacto-Unidad-posicion-binomio-elecciones-bolivia_0_3298470201.html | url-status=dead }}</ref> On 23 January, the Unity Pact ratified the Arce-Choquehuanca ticket chosen in Buenos Aires.<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/1/23/pacto-de-unidad-acepta-el-binomio-arce-choquehuanca-244342.html|title=Unity pact accepts the Arce-Choquehuanca|language=es|date=23 January 2020}}</ref> On 24 January, a new right-wing political alliance called "We Believe" ("Creemos") was formed, and endorsed the [[Luis Fernando Camacho|Camacho]]-[[:w:es:Marco Pumari|Pumari]] ticket.<ref>{{cite web|url=https://eldeber.com.bo/163754_tres-partidos-se-unen-para-postular-al-binomio-camacho-pumari#.XisiUYnCbHo.facebook|title=Three parties join to endorse the Camacho-Pumari ticket|language=es|date=24 January 2020}}</ref> By the registration deadline, the Supreme Electoral Tribunal (TSE) announced that five political coalitions had been registered.<ref>{{cite web|url=https://twitter.com/TSEBolivia/status/1220937944363687936|trans-title=These are all alliances that submitted their applications for registration before the Supreme Electoral Tribunal.|publisher=TSE Bolivia|website=Twitter|title=Estas son todas las alianzas que presentaron sus solicitudes de registro ante el Tribunal Supremo Electoral.|language=es|date=25 January 2020}}</ref> However, on 31 January the TSE announced that the coalition "United People" had been disqualified after not submitting the required documents.<ref>{{cite web|url=https://twitter.com/TSEBolivia/status/1223408206023667712/photo/1|title=Estas son las Alianzas Políticas habilitadas para las Elecciones Generales 2020.|language=es|date=25 January 2020}}</ref>
+
+In July 2020, a lawsuit was filed by four separate political parties (among others) with the Supreme Electoral Court asking it to disqualify Arce from standing in the presidential election. The lawsuit stated Arce had released an opinion poll on the presidential race outside the time frame allowed. In 2015, a similar complaint was filed against Ernesto Suárez, leader of the opposition UD bench in the Department of Beni, regarding release of polls by outgoing governor campaign manager Carmelo Lens. This resulted in Suárez and 227 other UD candidates having their legal status cancelled and removed from the election.<ref>{{cite web| url=https://www.paginasiete.bo/nacional/2020/7/27/caso-arce-es-bumeran-para-el-mas-pero-afirman-que-se-le-debe-ganar-en-las-urnas-262535.html| title=Arce case is boomerang for MAS, but it must be won at the polls| language=es| date=27 July 2020| access-date=28 July 2020| archive-date=23 October 2020| archive-url=https://web.archive.org/web/20201023053305/https://www.paginasiete.bo/nacional/2020/7/27/caso-arce-es-bumeran-para-el-mas-pero-afirman-que-se-le-debe-ganar-en-las-urnas-262535.html| url-status=dead}}</ref>
+
+On 11 October, Jorge Quiroga announced that he and the political alliance he was heading were withdrawing from the race.<ref name=quirogaout>{{cite news |title="Tuto" declina su candidatura a siete días de los comicios |url=https://www.paginasiete.bo/nacional/2020/10/11/tuto-declina-su-candidatura-siete-dias-de-los-comicios-271162.html |access-date=11 October 2020 |work=www.paginasiete.bo |date=11 October 2020 |language=es |archive-date=21 October 2020 |archive-url=https://web.archive.org/web/20201021132126/https://www.paginasiete.bo/nacional/2020/10/11/tuto-declina-su-candidatura-siete-dias-de-los-comicios-271162.html |url-status=dead }}</ref>
+
+{| class=wikitable
+!colspan=2|Party / Coalition
+! colspan="2" |Presidential candidate
+! colspan="2" |Vice presidential candidate
+!Slogan
+|-
+| style="background:#143a83;"|
+|[[Movimiento al Socialismo|Movement to Socialism]]
+|[[File:Luis Arce (23588020275) (cropped).jpg|126x126px]]||[[Luis Arce]]
+|[[File:David Choquehuanca (cropped).jpg|145x145px]]||[[David Choquehuanca]]
+|''Lucho y David: Un Solo Corazón''
+|-
+| style="background:#F26524;"|
+|[[Civic Community]]{{efn|Coalition consisting of [[Revolutionary Left Front (Bolivia)|FRI]], [[Jesús Lara de Cochabamba|JESUCA]] and [[Chuquisaca Para Todos]]}}
+|[[File:Carlos Mesa. Suárez, Antonio. 2004, Antonio Suárez collection, La Paz (Cropped).jpg|133x133px]]||[[Carlos Mesa]]
+|[[File:Gustavo Pedraza en 2019.png|130x130px]]||{{ill|Gustavo Pedraza|lt=Gustavo Pedraza|es||WD=}}
+|''Primero la Gente''
+|-
+| style="background:#d02d69;"|
+|[[Creemos]]{{efn|Coalition consisting of [[Christian Democratic Party (Bolivia)|PDC]] and [[Solidarity Civic Unity|UCS]]}}
+|[[File:Luis Fernando Camacho 2019.png|152x152px]]||[[Luis Fernando Camacho]]
+|[[File:Marco Antonio Pumari en noviembre de 2019.png|140x140px]]||[[:w:es:Marco Pumari|Marco Antonio Pumari]]
+|''Creo en Vos''
+|-
+| style="background:#145050;"|
+|{{ill|Front for Victory (Bolivia)|es|Frente Para la Victoria (Bolivia)|lt=Front For Victory}}
+|[[File:Chi Hyun Ching (cropped).png|123x123px]]||[[Chi Hyun Chung]]
+|[[File:3x4.svg|129x129px]]||Salvador Pinto
+|''Chi Puede''
+|-
+| style="background:#D90009;"|
+|{{ill|Bolivian National Action Party|es|Partido de Acción Nacional Boliviano}}
+|[[File:Feliciano Mamani en octubre de 2020.jpg|108x108px]]||{{ill|Feliciano Mamani|lt=Feliciano Mamani|es||WD=}}
+|[[File:Ruth Nina en agosto de 2019.png|132x132px]]||[[:w:es:Ruth Nina|Ruth Nina]]
+|''Pan para Bolivia - Bolivia con Vida Plena''
+|-
+|}
+
+==Debates==
+During the 14 years and preceding period where Evo Morales was president and presidential candidate, Morales declined to take part in any public debate with any of the other candidates, making the justification that he only "debates with the people".<ref>{{cite web|url=https://www.paginasiete.bo/especial02/2020/10/4/el-esperado-debate-llega-en-el-trayecto-decisivo-del-voto-270272.html|title=The long-awaited debate comes on the decisive path of the vote|language=es|date=4 October 2020|website=www.paginasiete.bo|access-date=8 October 2020|archive-date=26 October 2020|archive-url=https://web.archive.org/web/20201026184143/https://www.paginasiete.bo/especial02/2020/10/4/el-esperado-debate-llega-en-el-trayecto-decisivo-del-voto-270272.html|url-status=dead}}</ref> In January 2020, interim president Jeanine Áñez submitted legislation to make this a compulsory requirement for presidential candidates in upcoming elections, but this was rejected by the MAS-controlled Senate.<ref>{{cite web |url=https://www.lostiempos.com/actualidad/pais/20191231/anez-envia-alp-proyecto-ley-que-plantea-debate-obligatorio-candidatos |website=www.lostiempos.com |language=es |title=Áñez submits a bill to assembly that raises mandatory debate between candidates|date=31 December 2019 }}</ref><ref>{{cite web |url=https://www.lostiempos.com/actualidad/pais/20200117/anez-apela-alp-aprobar-ley-debate-obligatorio-rumbo-elecciones |title=Áñez appeals to ALP to approve bill on obligatory electoral debates|date=13 January 2020 |language=es |website=www.lostiempos.com}}</ref>
+
+A historic debate which would gather all the presidential candidates together on the same stage for the first time in almost two decades was announced on 6 September, organised by the association of Bolivian Journalists, media organisations and others. The debate was covered by more than 80 national and international media and an audience of more than five million people was expected. The event also had the backing of 50 national institutions and the financial and technical support of the European Union, International Idea, the Konrad Adenauer Foundation and the embassies of Canada, Germany and Switzerland. When it aired, it achieved record viewing numbers.<ref>{{cite web|url=https://eldeber.com.bo/pais/anuncian-gran-debate-presidencial-para-el-4-de-octubre_199225|date=6 September 2020|website=El Deber|language=es|title=Great Presidential Debate announced for 4th October}}</ref><ref>{{cite news |title=Debate presidencial alcanza audiencia de más de 2 millones personas en Facebook |url=https://www.paginasiete.bo/nacional/2020/10/6/debate-presidencial-alcanza-audiencia-de-mas-de-millones-personas-en-facebook-270545.html |access-date=8 October 2020 |work=[[Página Siete]] |date=6 October 2020 |language=es}}</ref> From the beginning, however, the MAS candidate Luis Arce was reluctant to make a commitment to attend, with he and MAS first placing conditions on attending, such as they not be subject to insults, and later claiming a clash with a planned interview with the television network Red Uno (which the network later moved to allow free up the MAS candidate).<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/9/23/en-11-dias-arce-mas-pusieron-cuatro-condiciones-para-debatir-269038.html|title=In 11 days, Arce-MAS put 4 conditions for debate|date=23 September 2020|language=es|website=www.paginasiete.bo.com}}</ref><ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/3/arce-patea-tablero-del-debate-pone-excusa-para-no-asistir-270229.html|title=Arce overturns debate podium and gives excuse for not attending|language=es|date=2 October 2020}}</ref> On the night of the broadcast, both he and Creemos candidate, Luis Camacho, did not attend. Camacho said he did not attend because he had been deceived that Mesa would also not be attending.<ref>{{cite web|url=https://correodelsur.com/politica/20201005_creemos-afirma-que-camacho-no-asistio-al-debate-porque-fue-enganado.html|website=Correa del Sur|language=es|title=Creemos confirm that Camacho did not attend because he was "deceived".}}</ref> A panel of 40 analysts surveyed by Pagina Siete indicated that Mesa came out as the most favourable candidate from this debate.<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/5/de-40-analistas-69-elige-mesa-como-ganador-del-debate-270391.html|language=es|date=5 October 2020|title=Of 40 analysts, 69% choose Mesa as the winner of the debate.|access-date=8 October 2020|archive-date=22 October 2020|archive-url=https://web.archive.org/web/20201022061247/https://www.paginasiete.bo/nacional/2020/10/5/de-40-analistas-69-elige-mesa-como-ganador-del-debate-270391.html|url-status=dead}}</ref>
+
+While Arce did not attend the debate on 4 October, he did attend another broadcast the previous day in which all presidential candidates were present. This was organised by the Federation of Municipal Associations (FAM) and the Confederation of Universities of Bolivia (CUB).<ref>{{cite news |last1=Ramos |first1=Daniel |title='We're not used to debating': Rare Bolivia election standoff fizzles as vote nears |url=https://www.reuters.com/article/us-bolivia-election-debate-idUSKBN26P0M6 |access-date=8 October 2020 |work=Reuters |date=4 October 2020 |language=en}}</ref> The debate format received criticism for not allowing candidates to respond to each other as well as accusations that the organisers were pro-MAS.<ref>{{cite news |title=Debate presidencial» de FAM-CUB genera críticas al formato de cuestionarios sin discusión |url=http://bolivianueva.press/debate-presidencial-de-fam-cub-genera-criticas-al-formato-de-cuestionarios-sin-discusion/ |access-date=8 October 2020 |work=Bolivia Nueva Tus historias... tus noticias... |publisher=Bolivia Nueva |date=4 October 2020 |language=es |archive-date=21 October 2020 |archive-url=https://web.archive.org/web/20201021182624/http://bolivianueva.press/debate-presidencial-de-fam-cub-genera-criticas-al-formato-de-cuestionarios-sin-discusion/ |url-status=dead }}</ref><ref>{{cite web|url=https://www.la-razon.com/opinion/2020/10/07/el-debate-que-no-fue/|title=The Debate that was not|language=es|website=La Razon|date=5 October 2020}}</ref><ref>{{cite web|url=https://eldeber.com.bo/pais/politicos-acusan-al-mas-de-amanar-debate-del-sabado_203226|website=El Deber|title=Politicians accuse MAS of rigging Saturday's debate|date=4 October 2020|language=es}}</ref> Criticisms included that it was not a debate, but a "monologue", "fashion show" and "propaganda" and that the definition of debate should include at least some form of interaction, interrogation, discussion or confrontation between candidates. The format of the debate was in some part determined by conditions set by Luis Arce to guarantee his attendance that "no personal or partisan allusions were allowed", i.e. no direct criticisms of other candidates or of their party.<ref>{{cite web|url=http://www.erbol.com.bo/el-%C3%A1nfora-1/%E2%80%9Cdebate-presidencial-de-fam-cub-genera-cr%C3%ADticas-al-formato-de-cuestionarios-sin|title="Presidential Debate" of FAM-CUB generates criticism of the questionnaire format without discussion|language=es|date=3 Oct 2020|website=ERBOL}}</ref>
+
+==Opinion polls==
+=== First round ===
+;2020
+
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered<ref name=":0">{{Cite web|url=https://2020.boliviaelectoral.com/#base-de-datos|title=Bolivia electoral 2020|website=2020.boliviaelectoral.com|access-date=2020-03-14|archive-date=14 March 2020|archive-url=https://web.archive.org/web/20200314165825/https://2020.boliviaelectoral.com/#base-de-datos|url-status=dead}}</ref>
+! style="width:60px" |[[Luis Arce Catacora|Luis<br>Arce]]
+! style="width:60px" |[[Carlos Mesa|Carlos<br>Mesa]]
+! style="width:60px" |[[Jeanine Áñez|Jeanine<br>Áñez]]
+! style="width:60px" |[[Luis Fernando Camacho|Luis F.<br>Camacho]]
+! style="width:60px" |[[Chi Hyun Chung|Chi Hyun<br>Chung]]
+! style="width:60px" |[[Jorge Quiroga|Jorge<br>Quiroga]]
+! style="width:60px" |Feliciano<br />Mamani
+! style="width:60px" |María<br />Bayá
+! rowspan="2" |Would not<br />vote
+! rowspan="2" |Undecided
+|-
+| style="background:#143A83"|
+| style="background:#F26524"|
+| style="background:#42B639"|
+| style="background:#d02d69"|
+| style="background:#145050"|
+| style="background:#099837"|
+| style="background:#D90009"|
+| style="background:#000000"|
+|-
+|style="text-align:left;"|Ciesmori [https://correodelsur.com/politica/20201019_el-conteo-rapido-otorga-al-mas-la-victoria-en-primera-vuelta.html]
+| ''18 October (exit poll)''
+| style="background:#809fff" |'''52.4%'''
+|31.5%
+| -
+|14.1%
+|1.6%
+| -
+| 0.4%
+| -
+| -
+| -
+|-
+|style="text-align:left;"|Jubileo [https://correodelsur.com/politica/20201018_encuesta-tu-voto-cuenta-arce-alcanzo-un-53-de-respaldo.html]
+| ''18 October (exit poll)''
+| style="background:#809fff" |'''53.0%'''
+|30.8%
+| -
+|14.1%
+|1.6%
+| -
+| 0.5%
+| -
+| -
+| -
+|- style="background:lightyellow;"
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"| 15 October 2020
+| colspan="13" |The ADN party withdraws its ballot. Bayá's candidacy is annulled by TSE<ref>{{Cite news|title=TSE confirma que tres frentes quedaron fuera de competencia: ADN, Libre21 y Juntos|language=es|url=http://www.erbol.com.bo/el-%C3%A1nfora-1/tse-confirma-que-tres-frentes-quedaron-fuera-de-competencia-adn-libre21-y-juntos|agency=erbol|date=15 October 2020|access-date=15 October 2020}}</ref>
+|- style="background:lightyellow;"
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"| 11 October 2020
+| colspan="13" |Quiroga withdraws his candidacy<ref>{{cite news|author=<!--Staff writer(s); no by-line.-->|title=Boliviens Ex-Präsident Quiroga zieht Kandidatur zurück|url=https://www.nzz.ch/international/wahlen-in-bolivien-ex-praesident-quiroga-zieht-kandidatur-zurueck-ld.1581179|agency=dpa|date=12 October 2020|access-date=12 October 2020}}</ref>
+|-
+| rowspan=2 style="text-align:left;"|Ciesmori [https://www.paginasiete.bo/nacional/2020/10/11/ciesmori-da-ocho-puntos-de-ventaja-arce-sobre-mesa-podrian-ir-un-balotaje-271169.html]
+| rowspan="2" | 29 September – 8 October
+| style="background:lightblue" |'''32.4%'''
+| style="background:#FDDCB8" |24.5%
+| -
+|10.7%
+|2.4%
+|1.3%
+|0.4%
+|0.4%
+| 6.1% {{efn|Null 1.3%/Blank 4.8%}}
+| 13.2% 
+|-
+|style="background:lightblue" |'''42.2%'''
+|style="background:#FDDCB8" |33.1%
+| -
+|16.7%
+|3.7%
+|2.8%
+|0.7%
+|0.8%
+| colspan="2" | {{efn|With undecided and non-voters excluded}}
+|-
+| rowspan=2 style="text-align:left;"|[https://web.archive.org/web/20201025132015/https://www.paginasiete.bo/especial02/2020/10/11/encuesta-mesa-arce-empatan-camacho-se-afianza-como-tercero-271078.html Mercados y Muestras]
+| rowspan="2" | 20 September – 8 October
+| style="background:lightblue" |27.1%
+| style="background:#FDDCB8" |'''27.2%'''
+| -
+|14%
+|2.5%
+|1.6%
+|0.2%
+|0.3%
+| 7.4%
+| 19.8%
+|-
+|style="background:lightblue" |37.2%
+|style="background:#FDDCB8" |'''37.4%'''
+| -
+|19.2%
+|3.4%
+|2.2%
+|0.3%
+|0.4%
+| colspan="2" | {{efn|With undecided and non-voters excluded}}
+|-
+| style="text-align:left;"|IPSOS [https://erbol.com.bo/el-%C3%A1nfora-1/encuesta-ipsos-arce-lleva-delantera-en-primera-vuelta-y-mesa-se-perfila-en-eventual]
+| 21 September – 4 October
+| style="background:lightblue" |'''34%'''
+| style="background:#FDDCB8" |27.9%
+| -
+|13.8%
+|2.6%
+|1.6%
+|0.2%
+|0.5%
+| -
+| 19.4% {{efn|Also includes Blank/Null/No Response}}
+|-
+| style="text-align:left;"|Ciesmori [https://www.paginasiete.bo/nacional/2020/10/1/encuesta-de-ciesmori-arce-llega-306-mesa-247-269987.html]
+| 20 September – 29 September
+| style="background:lightblue" |'''30.6%'''
+| style="background:#FDDCB8" |24.7%
+| -
+|12.7%
+|2.5%
+|1.5%
+|0.5%
+|0.3%
+| -
+| 13.3% 
+|-
+| style="text-align:left;"|CELAG [https://www.celag.org/wp-content/uploads/2020/10/informe-bolivia-oct-2020-web.pdf]{{Ref|Note|[note]}}
+| 19 September – 29 September
+| style="background:lightblue" |'''36.4%'''
+| style="background:#FDDCB8" |27.9%
+| -
+|12.5%
+|2.3%
+|2.2%
+| -
+|0.7%
+|18{{efn|None/Blank}}
+| -
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"| 17 September 2020
+| colspan="13" |Áñez withdraws her candidacy<ref>{{cite news|author=<!--Staff writer(s); no by-line.-->|title=Bolivian interim President Anez withdraws from election race with socialists ahead in polls|url=https://www.reuters.com/article/us-bolivia-election-anez/bolivian-interim-president-anez-withdraws-from-election-race-with-socialists-ahead-in-polls-idUSKBN26900V?il=0|work=Reuters|date=17 September 2020|access-date=17 September 2020}}</ref>
+|-
+| rowspan="2" style="text-align:left;"|[https://web.archive.org/web/20201101013249/https://www.paginasiete.bo/nacional/2020/9/15/anez-baja-camacho-sube-ambos-empatan-con-el-8-268138.html Mercados y Muestras SRL]
+| rowspan="2" | 5 September – 11 September
+| style="background:lightblue" |'''25%'''
+| style="background:#FDDCB8" |22%
+|8%
+|8%
+|2%
+|2%
+|0%
+|0%
+|11{{efn|None/Blank}}
+|21
+|-
+|style="background:lightblue" |'''37%'''
+|style="background:#FDDCB8" |33%
+|12%
+|12%
+|3%
+|3%
+|1%
+| -
+| colspan="2" | {{efn|With undecided and non-voters excluded}}
+|-
+| rowspan="2" style="text-align:left;"|Jubileo [https://www.paginasiete.bo/sociedad/2020/9/16/encuesta-tu-voto-cuenta-da-ganador-arce-en-primera-vuelta-268315.html]
+| rowspan="2" | 3 September – 7 September
+| style="background:lightblue" |'''29.2%'''
+| style="background:#FDDCB8" |19.0%
+|7.7%
+|10.4%
+|3.2%
+|2.0%
+|0.4%
+|0.6%
+|17.7{{efn|7.1 Blank, 10.6 Null}}
+|9.8
+|-
+|style="background:#809fff" |'''40.3%'''
+|26.2%
+|10.6%
+|14.4%
+|4.4%
+|2.8%
+|0.6%
+|0.8%
+| colspan="2" | {{efn|With undecided and non-voters excluded}}
+
+|-
+| rowspan="2" style="text-align:left;"|Ciesmori [https://www.noticiasfides.com/nacional/politica/encuesta-ciesmori-arce-sigue-primero-mesa-se-mantiene-segundo-y-anez-cae-en-la-preferencia-electoral-406188]
+| rowspan="2" | 26 August – 3 September 2020
+| style="background:lightblue" |'''26.2%'''
+| style="background:#FDDCB8" |17.1%
+|10.4%
+|6.2%
+|3.3%
+|2.5%
+|0.6%
+|1.0%
+|9.3%{{efn|6.6 Blank, 2.7 Null}}
+|22.7{{efn|16.6% Undecided, 6.1% secret}}
+|-
+|style="background:lightblue" |'''37.3%'''
+|style="background:#FDDCB8" |24.2%
+|14.4%
+|12.4%
+|5.9%
+|3.8%
+|0.7%
+|1.3%
+| colspan="2" | {{efn|With undecided and non-voters excluded}}
+|-
+|-
+| rowspan="2" style="text-align:left;"|[https://web.archive.org/web/20200926113319/https://www.paginasiete.bo/nacional/2020/8/18/encuesta-arce-mesa-empatan-con-el-23-anez-obtiene-el-12-264898.html Mercados y Muestras SRL]
+| rowspan="2" | 6–11 August 2020
+|style="background:lightblue" |'''23%'''
+|style="background:#FDDCB8" |'''23%'''
+|12%
+|6%
+|2%
+|3%
+|1%
+| -
+|11%
+|19%
+|-
+|style="background:lightblue" |'''33%'''
+|style="background:#FDDCB8" |32%
+|17%
+|9%
+|3%
+|5%
+|1%
+| -
+| colspan="2" | {{efn|With undecided and non-voters excluded}}
+|-
+|style="text-align:left;"|[https://web.archive.org/web/20201022234220/https://www.paginasiete.bo/nacional/2020/7/22/preferencia-arce-camacho-bajan-los-indecisos-suben-262072.html Mercados y Muestras SRL]
+|11–16 July 2020
+|style="background:lightblue" |'''24%'''
+|style="background:#FDDCB8" |20%
+|16%
+|5%
+|3%
+|3%
+| -
+| -
+|9%
+|20%
+|-
+|style="text-align:left;"|CELAG [https://www.celag.org/wp-content/uploads/2020/07/panorama-politico-y-social-bolivia-web-2.pdf]{{Ref|Note|[note]}}
+|13 June – 3 July 2020
+| style="background:#809fff" |'''41.9%'''
+|26.8%
+|13.3%
+|9.1%
+|4.5%
+|4.4%
+| -
+| -
+| -
+| -
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"| 11 March 2020
+| colspan="13" |COVID-19 declared a pandemic by the [[World Health Organization]]
+|-
+|style="text-align:left;"|Ciesmori [https://www.france24.com/en/20200316-morales-pick-leads-in-bolivia-opinion-polls]
+|5–11 March 2020
+| style="background:lightblue" |'''33.3%'''
+| style="background:#FDDCB8" |18.3%
+|16.9%
+|7.1%
+|3.8%
+|1.7%
+|1.9%
+| -
+|6.2%
+|2.8%
+|-
+|style="text-align:left;"|CELAG [https://www.celag.org/wp-content/uploads/2020/03/clima-preelectoral-bolivia-marzo-2020.pdf]{{Ref|Note|[note]}}
+|10 February – 4 March 2020
+| style="background:lightblue" |'''33.1%'''
+|17.4%
+| style="background:#a8ff99" |20.5%
+|7.4%
+|5.6%
+|1.5%
+|1.3%
+| -
+|5.7%
+|7.5%
+|-
+|style="text-align:left;"|Miský Utaha´a [https://www.paginasiete.bo/nacional/2020/3/2/nueva-encuesta-vuelve-colocar-al-mas-en-primer-lugar-en-segundo-cc-248327.html]
+|21–23 February 2020
+| style="background:lightblue" |'''29.2%'''
+| style="background:#FDDCB8" |15.3%
+|13.7%
+|11.1%
+|8.6%
+|6.7%
+|0.5%
+|0.1%{{efn|Polled as ADN candidate}}
+|11.3%
+|3.5%
+|-
+|style="text-align:left;"|Mercados y Muestras SRL [https://www.paginasiete.bo/nacional/2020/3/17/una-precision-de-la-encuesta-de-mercados-muestras-249882.html]
+|14–17 February 2020
+| style="background:lightblue" |'''27%'''
+| style="background:#FDDCB8" |19%
+|18%
+|12%
+|5%
+|2%
+|0%
+| -
+| 7%
+| 9%
+|-
+|style="text-align:left;"|Ciesmori [https://www.paginasiete.bo/nacional/2020/2/16/arce-lidera-la-primera-encuesta-con-el-31-mesa-lo-escolta-con-el-17-246888.html]
+|7–13 February 2020
+| style="background:lightblue" |'''31.6%'''
+| style="background:#FDDCB8" |17.1%
+|16.5%
+|9.6%
+|5.4%
+|1.6%
+|1.6%
+|0.5%{{efn|Polled with Ismael Schabib as ADN candidate}}
+|7.5%
+|8.7%
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"| 24 January 2020
+| colspan="13" |Áñez announces her candidacy<ref>{{Cite news|url=https://in.reuters.com/article/bolivia-politics-anez-idINKBN1ZO04F|archive-url=https://web.archive.org/web/20200125065216/https://in.reuters.com/article/bolivia-politics-anez-idINKBN1ZO04F|url-status=dead|archive-date=25 January 2020|title=Bolivia's interim President Anez shakes up election race with plan to run|date=2020-01-25|work=Reuters|access-date=2020-03-12|language=en}}</ref>
+|-
+|- style="background:lightyellow;"
+| style="border-right-style:hidden;"|
+| style="border-right-style:hidden;"|19 January 2020
+| colspan="13" |Arce announced as candidate of MAS<ref>{{Cite news|url=https://in.reuters.com/article/bolivia-morales-argentina-idINKBN1ZJ04Y|archive-url=https://web.archive.org/web/20200120072940/https://in.reuters.com/article/bolivia-morales-argentina-idINKBN1ZJ04Y|url-status=dead|archive-date=20 January 2020|title=Morales announces candidates for MAS party in Bolivia's elections|date=2020-01-20|work=Reuters|access-date=2020-03-12|language=en}}</ref>
+|-
+|}
+
+==== Before registration ====
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered<ref name=":0" />
+! style="width:60px" |[[Luis Arce Catacora|Luis<br>Arce]]
+! style="width:60px" |[[Carlos Mesa|Carlos<br>Mesa]]
+! style="width:60px" |[[Jeanine Áñez|Jeanine<br>Áñez]]
+! style="width:60px" |[[Luis Fernando Camacho|Luis F.<br>Camacho]]
+! style="width:60px" |[[Chi Hyun Chung|Chi Hyun<br>Chung]]
+! style="width:60px" |[[Jorge Quiroga|Jorge<br>Quiroga]]
+! rowspan="2" |Other
+! rowspan="2" |Would not<br />vote
+! rowspan="2" |Undecided
+|-
+| style="background:#143A83"|
+| style="background:#F26524"|
+| style="background:#42B639"|
+| style="background:#d02d69"|
+| style="background:#145050"|
+| style="background:#099837"|
+|-
+|style="text-align:left;"|United States Embassy [https://canal7salta.com/2020/02/03/bolivia-arce-choquehuanca-comandan-las-encuesta/]
+|January 2020
+| style="background:lightblue" |'''37%'''
+|9%
+|9%
+| style="background:#f49ab2" |11%
+|4%
+| -
+|3%
+|7%
+|20%
+|-
+|style="text-align:left;"|Mercados y Muestras SRL [https://www.lostiempos.com/actualidad/pais/20200126/encuesta-aprueban-gestion-anez-pero-rechazan-candidatura]
+|9–13 January 2020
+| style="background:lightblue" |'''26%'''
+|17%
+|12%
+|style="background:#f49ab2" |17%
+|6%
+|3%
+|2%{{efn|[[Félix Patzi|Patzi]] with 1%, [[Samuel Doria Medina|Doria Medina]] with 1%}}
+|8%
+|9%
+|-
+|}
+
+;2019
+
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|+
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+! style="width:60px" |[[Movimiento al Socialismo|MAS]]<br />Candidate
+! style="width:60px" |[[Carlos Mesa|Carlos<br>Mesa]]
+! style="width:60px" | [[Jeanine Áñez|Jeanine<br>Áñez]]
+! style="width:60px" | [[Luis Fernando Camacho|Luis F.<br>Camacho]]
+! style="width:80px" | [[Chi Hyun Chung|Chi Hyun<br>Chung]]
+! style="width:60px" | [[:w:es:Marco Pumari|Marco<br>Pumari]]
+! style="width:60px" | [[:w:es:Óscar Ortiz Antelo|Ortiz<br>Antelo]]
+! style="width:60px" | [[Félix Patzi|Félix<br>Patzi]]
+! style="width:60px" | [[Samuel Doria Medina|Doria<br>Medina]]
+! style="width:60px" | [[Jorge Quiroga Ramírez|Jorge<br>Quiroga]]
+! style="width:60px" | Johnny<br />Fernandez
+! rowspan="2"|Other
+! rowspan="2"|Would not<br />vote
+! rowspan="2"|Undecided
+|-
+! style="background:#143A83"|
+! style="background:#f26524"|
+! style="background:#42B639"|
+! style="background:#d02d69"|
+! style="background:#145050"|
+! style="background:#5D88BB"|
+! style="background:#42B639"|
+! style="background:#00A18A"|
+! style="background:#FED700"|
+! style="background:#099837"|
+! style="background:#0B83B8"|
+|-
+|style="text-align:left;"|[https://web.archive.org/web/20200104033009/https://www.la-razon.com/nacional/encuesta-electoral-Anez-obtiene-preferencia_0_3287071308.html Ciesmori]
+|21–30 December 2019
+|style="background:lightblue" |'''20.7%'''{{efn|Generic MAS candidate}}
+|13.8%
+| style="background:#a8ff99" |15.6%
+|6.9%
+|8.1%
+| 8.2%
+| -
+| -
+| 1.8%
+|1.6%
+| -
+|0.9%
+|10.2%
+|12.2%
+|-
+|style="text-align:left;"|[https://web.archive.org/web/20200913031915/https://alnavio.com/noticia/20122/informe-confidencial/evo-morales-ahora-tiene-el-reto-de-elegir-un-candidato-que-no-rompa-la-unidad-del-mas.html#images-2 Mercados y Muestras SRL]
+|13–16 December 2019
+|style="background:lightblue" |'''23%'''{{efn|[[:w:es:Andrónico Rodríguez|Andrónico Rodríguez]]}}
+|style="background:#FDDCB8" |21%
+| -
+|13%
+|9%
+|10%
+| -
+| -
+| -
+|2%
+| -
+| -
+|14%
+|8%
+|-
+|rowspan=3 style="text-align:left;"|Captura Consulting [https://eju.tv/2019/12/la-nueva-intencion-de-voto-bolivia-eje-centralandronico-18-4%CAmacho-12-8mesa-11-9/]<ref>{{Cite tweet |title=La nueva intención de voto: Bolivia eje central Arce 13.6% Camacho 11.1% Mesa 10.6% Chi 8.4% Jeanine 7.3% Pumari 5.7% Medición 5 a 15 de diciembre 2019 Encuesta de Captura Consulting para Poder y Placer (Tercero de tres escenarios medidos. Acá, medidos Arce, Camacho y Pumari) |user=pepepomacusi |number=1207512509810384896 |access-date=2020-06-07 |date=19 December 2019 |website=Twitter|language=en}}</ref><ref>{{Cite tweet |title=La nueva intención de voto: Bolivia eje central Mesa 13.7% Choquehuanca 12.0% Jeanine 10.0% Chi 9.4% Pumari 8.0% Medición 5 al 15 de diciembre de 2019 Encuesta de Captura Consulting para Poder y Placer (Segundo de tres escenarios medidos. Acá, medidos Choquehuanca y Pumari) |user=pepepomacusi |number=1207511645892890624 |date=19 December 2019 |access-date=2020-06-07|website=Twitter|language=en}}</ref>
+|rowspan=3 |5–15 December 2019
+|style="background:lightblue" |'''18.4%'''{{efn|[[:w:es:Andrónico Rodríguez|Andrónico Rodríguez]]}}
+|11.9%
+|7.5%
+|style="background:#f49ab2" |12.8%
+|8.5%
+| -
+|3.7%
+|2.8%
+|2.1%
+|1.8%
+|1.0%
+|2.6%
+|5.1%
+|21.8%
+|-
+|style="background:lightblue" |12.0%{{efn|[[David Choquehuanca]]}}
+|style="background:#FDDCB8" |'''13.7%'''
+|10.0%
+| -
+|9.4%
+|8.0%
+|4.8%
+|3.7%
+|2.5%
+|1.7%
+|2.3%
+|3.5%
+|5.1%
+|23.3%
+|-
+|style="background:lightblue" |'''13.6%'''{{efn|[[Luis Arce Catacora]]}}
+|10.6%
+|7.3%
+|style="background:#f49ab2" |11.1%
+|8.4%
+|5.7%
+|4.2%
+|2.6%
+|2.2%
+|2.7%
+| -
+|11.0%{{efn|Albarracín with 1.1%, others with 9.9%}}
+|3.0%
+|17.6%
+|-
+|style="text-align:left;"|[https://web.archive.org/web/20200913031915/https://alnavio.com/noticia/20122/informe-confidencial/evo-morales-ahora-tiene-el-reto-de-elegir-un-candidato-que-no-rompa-la-unidad-del-mas.html Mercados y Muestras SRL]
+|26–27 November 2019
+|style="background:lightblue" |'''16%'''{{efn|[[:w:es:Andrónico Rodríguez|Andrónico Rodríguez]]}}
+|14%
+| -
+|style="background:#f49ab2" |'''16%'''
+|10%
+|style="background:#a2bbd8" |'''16%'''
+| -
+| -
+| -
+| -
+| -
+|8%
+|8%
+|12%
+|-
+|}
+:{{Note|Note}}Note that the Latin American Strategic Centre for Geopolitics (CELAG) survey has been criticised by ''Jornada'', Yolanda Mamani Cayo and Miguel Serrano for its alleged bias towards [[Movimiento al Socialismo|MAS]] because [[Álvaro García Linera]], who served as vice president under Evo Morales, is part of its advisory council<ref>{{Cite web|url=https://www.celag.org/integrantes/consejo-consultivo/ |title=Consejo Consultivo |access-date=2020-07-13 |website=CELAG |language=es}}</ref> and several of its executives are people with a political militancy and with party ideology.<ref>{{Cite web|date=2020-07-10|title=Celag y su desacertada encuesta|url=https://jornada.com.bo/celag-y-su-desacertada-encuesta/|access-date=2020-07-13|website=JORNADA|language=es}}</ref> This organization does not appear on the list of entities authorized by the [[Plurinational Electoral Organ|Supreme Electoral Tribunal]] (TSE) to disseminate surveys.<ref>{{Cite web|last=Mendoza|first=Luz|title=Rafael Correa y García Linera, están detrás de encuestas favorables al MAS|url=https://eju.tv/2020/07/rafael-correa-y-garcia-linera-estan-detras-de-encuestas-favorables-al-mas/|access-date=2020-07-13|website=eju.tv|date=13 July 2020 |language=es}}</ref><ref>{{Cite web |date=2020-07-10|title=Celag y su desacertada encuesta|url=https://jornada.com.bo/celag-y-su-desacertada-encuesta/|access-date=2020-07-13|website=JORNADA|language=es}}</ref>
+
+=== Second round ===
+;Arce v. Mesa
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+! [[Luis Arce Catacora|Arce]]
+! [[Carlos Mesa|Mesa]]
+! rowspan="2" |Would not<br />vote
+! rowspan="2" |Undecided
+|-
+| style="background:#143A83;" |
+| style="background:#F26524;" |
+|-
+|-
+| [https://web.archive.org/web/20201025132015/https://www.paginasiete.bo/especial02/2020/10/11/encuesta-mesa-arce-empatan-camacho-se-afianza-como-tercero-271078.html#! Muestras y Mercados]
+| 20 September – 8 October 2020
+| 32.7%
+| style="background:#FDDCB8" |'''50.3%'''
+| 7.7%
+| 9.2%
+|-
+| [https://web.archive.org/web/20201024120935/https://www.paginasiete.bo/nacional/2020/9/15/balotaje-carlos-mesa-venceria-arce-con-14-puntos-de-diferencia-268139.html#! Mercados y Muestras]
+| 5–11 September 2020
+| 33%
+| style="background:#FDDCB8" |'''47%'''
+| 10%
+| 9%
+|-
+| [https://www.unitel.tv/noticias/nueva-encuesta-arce-derrotaria-a-anez-en-segunda-vuelta-pero-perderia-frente-a-mesa/#! Ciesmori]
+| 26 August – 3 September 2020
+| 35%
+| style="background:#FDDCB8" |'''40.1%'''
+| 11%{{efn|10.0 Blank, 1.6 Null}}
+| 13.3%{{efn|10.6 No response, 2.7 Won't say}}
+|-
+| [https://web.archive.org/web/20201022182646/https://www.paginasiete.bo/nacional/2020/8/18/se-amplia-la-brecha-entre-mesa-arce-en-un-eventual-balotaje-264902.html#! Mercados y Muestras]
+| 6–11 August 2020
+| 30%
+| style="background:#FDDCB8" |'''47%'''
+| 12%
+| 11%
+|-
+| [https://www.france24.com/en/20200316-morales-pick-leads-in-bolivia-opinion-polls Ciesmori]
+| 5–11 March 2020
+| style="background:lightblue" |'''42.9%'''
+| 41%
+| 10.4%
+| 5.7%
+|-
+| [https://web.archive.org/web/20201102045750/https://www.paginasiete.bo/nacional/2020/2/23/mesa-anez-ganaria-arce-en-balotaje-247579.html#! Mercados y Muestras] 
+| 14–17 February 2020
+| 37%
+| style="background:#FDDCB8" |'''48%'''
+| 11%
+| 4%
+|-
+| [https://www.infobae.com/america/america-latina/2020/02/17/el-partido-de-evo-morales-encabeza-la-intencion-de-voto-en-bolivia-segun-la-primera-encuesta-electoral/ Ciesmori]
+| 7–13 February 2020
+| style="background:lightblue" |'''40.8%'''
+| 40.7%
+| 15.2%
+| 3.3%
+|}
+
+;Arce v. Áñez
+{| class="wikitable" style="text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+! [[Luis Arce Catacora|Arce]]
+! [[Jeanine Áñez|Áñez]]
+! rowspan="2" |Would not<br />vote
+! rowspan="2" |Undecided
+|-
+| style="background:#143A83;" |
+| style="background:#42B639;" |
+|-
+|-
+| [https://web.archive.org/web/20201024120935/https://www.paginasiete.bo/nacional/2020/9/15/balotaje-carlos-mesa-venceria-arce-con-14-puntos-de-diferencia-268139.html#! Mercados y Muestras]
+| 5–11 September 2020
+| 37%
+| style="background:#a8ff99" |'''38%'''
+| 17%
+| 8%
+|-
+| [https://www.unitel.tv/noticias/nueva-encuesta-arce-derrotaria-a-anez-en-segunda-vuelta-pero-perderia-frente-a-mesa/#! Ciesmori]
+| 26 August – 3 September 2020
+| style="background:lightblue" |'''38.9%'''
+| 33.9%
+| 12.4%{{efn|10.4 Blank, 2.0 Null}}
+| 13.9%{{efn|12.2 No response, 2.7 Won't say}}
+|-
+| [https://web.archive.org/web/20201022182646/https://www.paginasiete.bo/nacional/2020/8/18/se-amplia-la-brecha-entre-mesa-arce-en-un-eventual-balotaje-264902.html#! Mercados y Muestras]
+| 6–11 August 2020
+| 38%
+| style="background:#a8ff99" |'''39%'''
+| 14%
+| 9%
+|-
+| [https://www.france24.com/en/20200316-morales-pick-leads-in-bolivia-opinion-polls Ciesmori]
+| 5–11 March 2020
+| style="background:lightblue" |'''43.2%'''
+| 42.6%
+| 8.3%
+| 6%
+|-
+| [https://web.archive.org/web/20201102045750/https://www.paginasiete.bo/nacional/2020/2/23/mesa-anez-ganaria-arce-en-balotaje-247579.html#! Mercados y Muestras]
+| 14–17 February 2020
+| 36%
+| style="background:#a8ff99" |'''48%'''
+| 12%
+| 4%
+|-
+| [https://www.infobae.com/america/america-latina/2020/02/17/el-partido-de-evo-morales-encabeza-la-intencion-de-voto-en-bolivia-segun-la-primera-encuesta-electoral/ Ciesmori]
+| 7–13 February 2020
+| 42.3%
+| style="background:#a8ff99" |'''43.6%'''
+| 10.6%
+| 3.5%
+|}
+
+;Arce v. Camacho
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+! [[Luis Arce Catacora|Arce]]
+! [[Luis Fernando Camacho|Camacho]]
+! rowspan="2" |Would not<br />vote
+! rowspan="2" |Undecided
+|-
+| style="background:#143A83;" |
+| style="background:#d02d69;" |
+|-
+|-
+| [https://www.france24.com/en/20200316-morales-pick-leads-in-bolivia-opinion-polls Ciesmori]
+| 5–11 March 2020
+| style="background:lightblue" |'''46%'''
+| 42%
+| 16%
+| 5.9%
+|-
+| [https://web.archive.org/web/20201102045750/https://www.paginasiete.bo/nacional/2020/2/23/mesa-anez-ganaria-arce-en-balotaje-247579.html#! Mercados y Muestras]
+| 14–17 February 2020
+| style="background:lightblue" |'''40%'''
+| 37%
+| 19%
+| 4%
+|-
+| [https://www.infobae.com/america/america-latina/2020/02/17/el-partido-de-evo-morales-encabeza-la-intencion-de-voto-en-bolivia-segun-la-primera-encuesta-electoral/ Ciesmori]
+| 7–13 February 2020
+| style="background:lightblue" |'''44.5%'''
+| 33.6%
+| 18%
+| 3.9%
+|}
+
+;Mesa v. Áñez
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+! [[Carlos Mesa|Mesa]]
+! [[Jeanine Áñez|Áñez]]
+! rowspan="2" |Would not<br />vote
+! rowspan="2" |Undecided
+|-
+| style="background:#F26524;" |
+| style="background:#42B639;" |
+|-
+|-
+| [https://www.unitel.tv/noticias/nueva-encuesta-arce-derrotaria-a-anez-en-segunda-vuelta-pero-perderia-frente-a-mesa/#! Ciesmori]
+| 26 August – 3 September 2020
+| style="background:#FDDCB8" |'''35.9%'''
+| 23.1%
+| 28.4%{{efn|22.6 Blank, 5.8 Null}}
+| 12.5%{{efn|9.6 No response, 2.9 Won't say}}
+|-
+| [https://www.france24.com/en/20200316-morales-pick-leads-in-bolivia-opinion-polls Ciesmori]
+| 5–11 March 2020
+| style="background:#FDDCB8" |'''32.6%'''
+| 31.6%
+| 29.6%
+| 6.2%
+|-
+| [https://www.infobae.com/america/america-latina/2020/02/17/el-partido-de-evo-morales-encabeza-la-intencion-de-voto-en-bolivia-segun-la-primera-encuesta-electoral/ Ciesmori]
+| 7–13 February 2020
+| 30.3%
+| style="background:#a8ff99" |'''33.8%'''
+| 32.3%
+| 3.6%
+|}
+
+;Camacho v. Áñez
+{| class="wikitable" style="text-align:center;font-size:90%;line-height:14px;"
+|-
+! rowspan="2" |Poll source
+! rowspan="2" |Date(s)<br />administered
+! [[Luis Fernando Camacho|Camacho]]
+! [[Jeanine Áñez|Áñez]]
+! rowspan="2" |Would not<br />vote
+! rowspan="2" |Undecided
+|-
+| style="background:#d02d69;" |
+| style="background:#42B639;" |
+|-
+|-
+| [https://www.france24.com/en/20200316-morales-pick-leads-in-bolivia-opinion-polls Ciesmori]
+| 5–11 March 2020
+| 15.6%
+| style="background:#a8ff99" |'''41.4%'''
+| 37.0%
+| 6%
+|-
+| [https://www.infobae.com/america/america-latina/2020/02/17/el-partido-de-evo-morales-encabeza-la-intencion-de-voto-en-bolivia-segun-la-primera-encuesta-electoral/ Ciesmori]
+| 7–13 February 2020
+| 16.3%
+| style="background:#a8ff99" |'''40.8%'''
+| 38.7%
+| 4.2%
+|}
+
+==Conduct==
+
+Election day was relatively peaceful. Deputy security minister Wilson Santamaria said that two people tried to interfere with ballot papers in capital La Paz, but they were apprehended.<ref>{{cite web|date=2020-10-19|title=Polls start closing in 'calm' Bolivian general election|url=https://www.deccanherald.com/international/polls-start-closing-in-calm-bolivian-general-election-903950.html|access-date=2020-10-19|website=Deccan Herald|language=en}}</ref>
+
+The head of Supreme Electoral Tribunal (TSE) commended the conduct of the polls, saying that "election day was a successful day for democracy."<ref>{{Cite web|last=Pacheco|first=Valeria|date=19 October 2020|title=Bolivia 'has recovered democracy', says Arce as exit poll suggests win|url=https://news.yahoo.com/bolivians-vote-election-expected-bring-122733945.html|access-date=2020-10-26|publisher=[[Agence France-Presse]]|language=en-US|via=Yahoo! News}}</ref> The United Nations applauded the elections as having occurred in "an orderly manner, in a climate of tranquility and respect for human rights".<ref>{{cite web|date=2020-10-19|title=Naciones Unidas aplaude orden y tranquilidad en los comicios generales de Bolivia|url=https://www.paginasiete.bo/nacional/2020/10/19/naciones-unidas-aplaude-orden-tranquilidad-en-los-comicios-generales-de-bolivia-272043.html|access-date=2020-10-19|website=Pagina Siete|language=es}}</ref> The [[European Union]] congratulated Bolivia for the safe conduct of its elections as it awaited the results of the TSE.<ref>{{cite web|last=Cortez Becerra|first=Esmir|date=19 October 2020|title=La Unión Europea felicita a Bolivia y pide esperar los resultados oficiales de las elecciones|url=https://eldeber.com.bo/usted-elige/la-union-europea-felicita-a-bolivia-y-pide-esperar-los-resultados-oficiales-de-las-elecciones_205226|website=El Deber|language=es}}</ref>
+
+During the vote count, the TSE received complaints of fraud from the separatist movement in Santa Cruz.{{citation needed|date=October 2020}} 
+
+On 22 October, Bolivian mining union leader and previously proposed MAS vice-presidential candidate Orlando Gutiérrez suffered a head wound and was admitted to hospital. Although he was reported to be "stable, conscious and out of risk" shortly afterwards, on 28 October he was reported to have died in hospital. Information circulating on social media claimed an attack from a group calling themselves "pititas" in which he was beaten. Other sources say that it was the result of a brawl between different factions of MAS during a victory celebration. No criminal complaint was made and the body buried without an autopsy. An investigation was opened following his death, although previous attempts to investigate were denied and the diagnosis was kept confidential with no visitors allowed.<ref>{{cite web|url=https://www.paginasiete.bo/seguridad/2020/10/30/entierran-gutierrez-en-oruro-sin-autopsia-legal-entre-dudas-273310.html|title=Gutiérrez is buried in Oruro without legal autopsy and between doubts|language=es|date=30 October 2020|website=www.paginasiete.bo|access-date=30 October 2020|archive-date=1 November 2020|archive-url=https://web.archive.org/web/20201101081651/https://www.paginasiete.bo/seguridad/2020/10/30/entierran-gutierrez-en-oruro-sin-autopsia-legal-entre-dudas-273310.html|url-status=dead}}</ref><ref>{{cite web|url=https://eldeber.com.bo/pais/familiares-se-opusieron-al-levantamiento-y-a-la-autopsia-del-cadaver-del-minero-orlando-gutierrez_206645|title=Family members opposed the collection and autopsy of the corpse of miner Orlando Gutiérrez|date=29 October 2020|language=es|website=www.eldeber.com.bo}}</ref><ref>{{cite web|url=https://www.atb.com.bo/sociedad/muere-el-l%C3%ADder-minero-orlando-guti%C3%A9rrez|date=28 October 2020|language=es|website=www.atb.com|title=Mining leader Orlando Gutiérrez dies|access-date=30 October 2020|archive-date=1 November 2020|archive-url=https://web.archive.org/web/20201101021747/https://www.atb.com.bo/sociedad/muere-el-l%C3%ADder-minero-orlando-guti%C3%A9rrez|url-status=dead}}</ref>
+
+== International observers ==
+Representatives of the [[United States Agency for International Development]] (USAID) and the [[Organization of American States]] (OAS) arrived in Bolivia on 9 January 2020 to discuss monitoring the elections that were initially planned for 3 May.<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/1/9/eeuu-envia-tecnicos-para-evaluar-apoyo-en-comicios-242915.html|title=US sends technicians to evaluate support in elections|date=9 January 2020|language=es}}</ref> USAID had been expelled in 2013 by the MAS government.<ref>{{cite web|url=https://eldeber.com.bo/edicion-impresa/el-mas-declaro-la-guerra-a-las-agencias-de-eeuu_161650|title=MAS declared war on US agencies|date=5 January 2020|language=es}}</ref>
+
+International teams from the [[Carter Center]], Inter-American Union of Electoral Organizations (UNIORE) and Association of Electoral Organizations of South America were also approved as electoral observers by the TSE. Local initiatives from within Bolivia including La Ruta de la Democracia and Observe Bolivia have also been approved and will be observing the elections.<ref>{{cite web |last1=Vargas |first1=Luis Marcelo Tedesqui |title=Para el TSE, la candidata María de la Cruz Bayá sigue en carrera |url=https://eldeber.com.bo/pais/para-el-tse-la-candidata-maria-de-la-cruz-baya-sigue-en-carrera_204023 |publisher=[[El Deber]] |access-date=10 October 2020 |language=es |date=10 October 2020}}</ref><ref>{{cite news |title=Cinco misiones internacionales de observación vigilarán comicios |url=https://www.paginasiete.bo/nacional/2020/9/30/los-comicios-en-bolivia-contaran-con-cinco-misiones-internacionales-de-observacion-269892.html |access-date=10 October 2020 |work=Pagina Siete |date=30 September 2020 |language=es |archive-date=11 October 2020 |archive-url=https://web.archive.org/web/20201011121558/https://www.paginasiete.bo/nacional/2020/9/30/los-comicios-en-bolivia-contaran-con-cinco-misiones-internacionales-de-observacion-269892.html |url-status=dead }}</ref><ref>{{cite web |title="Observa Bolivia" will contribute to the transparency of the electoral process and democracy in Bolivia {{!}} International IDEA |url=https://www.idea.int/news-media/news/%E2%80%9Cobserva-bolivia%E2%80%9D-will-contribute-transparency-electoral-process-and-democracy |website=www.idea.int |access-date=10 October 2020 |date=10 September 2020}}</ref> The OAS mission of observers consisted of 40 experts of 12 different nationalities.<ref>{{cite web|url=https://www.paginasiete.bo/especial02/2020/10/14/oea-ya-observa-los-comicios-convoca-preservar-la-paz-271451.html|title=OAS already observes the elections and calls to preserve the peace|date=14 October 2020|language=es|access-date=19 October 2020|archive-date=19 October 2020|archive-url=https://web.archive.org/web/20201019190509/https://www.paginasiete.bo/especial02/2020/10/14/oea-ya-observa-los-comicios-convoca-preservar-la-paz-271451.html|url-status=dead}}</ref> The [[European Union]] (EU) announced on 8 September that it would be sending a team of five or six experts to observe the 18 October elections.<ref>{{cite web |title=La Unión Europea enviará una misión de expertos a las elecciones de Bolivia del 18 de octubre |url=https://www.infobae.com/america/america-latina/2020/09/08/la-union-europea-enviara-una-mision-de-expertos-a-las-elecciones-de-bolivia-del-18-de-octubre/ |website=infobae |access-date=10 September 2020 |language=es-ES |date=8 September 2020}}</ref> The Carter Centre sent two experts in electoral analysis.<ref name="observadores">{{cite web|date=13 October 2020|title=TSE, ONU y UE respaldan elecciones limpias, ante denuncias del MAS|url=https://www.lostiempos.com/actualidad/pais/20201013/tse-onu-ue-respaldan-elecciones-limpias-denuncias-del-mas|website=Los Tiempos|language=es}}</ref>
+
+On 14 October 2020, the [[Progressive International]] sent an observer group made up of three national legislators from Greece, Poland and Spain, stating that they are "particularly concerned about the integrity of the presidential elections in Bolivia".<ref>{{Cite web|date=14 October 2020|title=Progressive International election observer mission lands in Bolivia|url=https://progressive.international/movement/article/2020-10-14-progressive-international-election-observer-mission-lands-in-bolivia/en|access-date=2020-10-17|website=Progressive International|language=en}}</ref>
+
+A delegation of observers from [[Argentina]] invited by the [[Plurinational Legislative Assembly]] was subject to controversy when one of the delegates, lawmaker [[Federico Fagioli]], was detained at La Paz Airport.<ref>{{cite web|url=https://www.telam.com.ar/notas/202010/525726-diputado-argentino-retenido-ilegalmente-bolivia.html|archivedate=2023-09-28|archiveurl=https://web.archive.org/web/20230928210630/https://www.telam.com.ar/notas/202010/525726-diputado-argentino-retenido-ilegalmente-bolivia.html|work=[[Télam]]|title=El Gobierno denunció que un diputado argentino fue retenido ilegalmente en Bolivia|date=17 October 2020|access-date=19 October 2020|language=es}}</ref> The Bolivian Minister of the Interior, Arturo Morillo, stated that Fagioli had been warned not to return to Bolivia after the lawmaker's participation in a previous Argentine delegation that visited the country following the ousting of Evo Morales in 2019, and that Fagioli was a "[[persona non grata]]" in Bolivia.<ref>{{cite web|url=https://elpais.com/internacional/2020-10-17/el-gobierno-de-bolivia-retiene-en-el-aeropuerto-de-la-paz-a-un-diputado-argentino.html|work=[[El País]]|title=El Gobierno de Bolivia retiene en el aeropuerto de La Paz a un diputado argentino|date=17 October 2020|access-date=19 October 2020|language=es|last=Molina|first=Fernando}}</ref> In addition to Fagioli's detention, other members of the Argentine delegation, including other lawmakers, were also allegedly mistreated by Bolivian security forces. The incident was harshly criticized by Argentine president [[Alberto Fernández]] and MAS candidate Luis Arce.<ref>{{cite web|url=https://cnnespanol.cnn.com/2020/10/17/presidente-de-argentina-denuncia-maltratos-a-delegacion-de-observadores-de-elecciones-en-bolivia/|work=[[CNN en Español]]|title=Presidente de Argentina denuncia maltratos a delegación de observadores de elecciones en Bolivia|date=17 October 2020|access-date=19 October 2020|language=es}}</ref><ref>{{cite web|url=https://www.telam.com.ar/notas/202010/525738-luis-arce-bolivia-mas-federico-fagioli.html|archivedate=2023-09-29|archiveurl=https://web.archive.org/web/20230929202941/https://www.telam.com.ar/notas/202010/525738-luis-arce-bolivia-mas-federico-fagioli.html|work=[[Télam]]|title=El candidato del MAS condenó el "maltrato" al diputado argentino retenido|date=17 October 2020|access-date=19 October 2020|language=es}}</ref>
+
+A total of 110 international observers were accredited by the TSE to attend and analyse the results of the election.<ref name=observadores />
+
+The OAS, the UN and UNIORE have all made public statements testifying to the validity of the elections and the lack of evidence of any irregularities.<ref>{{cite web|date=21 October 2020|title=La misión de observación de la OEA descarta 'acciones fraudulentas' en las elecciones|url=https://www.la-razon.com/nacional/2020/10/21/la-mision-de-observacion-de-la-oea-descarta-acciones-fraudulentas-en-las-elecciones/|access-date=21 October 2020|website=La Razón|language=es}}</ref><ref>{{cite web|date=19 October 2020|title=Uniore señala que no hay registro de irregularidades que deslegitimen la votación|url=https://www.paginasiete.bo/nacional/2020/10/19/uniore-senala-que-no-hay-registro-de-irregularidades-que-deslegitimen-la-votacion-272071.html|access-date=22 October 2020|website=Pagina Siete|language=es|archive-date=24 October 2020|archive-url=https://web.archive.org/web/20201024191059/https://www.paginasiete.bo/nacional/2020/10/19/uniore-senala-que-no-hay-registro-de-irregularidades-que-deslegitimen-la-votacion-272071.html|url-status=dead}}</ref><ref name="nofraude">{{cite web|last=Tancara Castillo|first=Cándido|date=23 October 2020|title=ONU, OEA y Uniore descartan fraude en elecciones generales|url=https://www.paginasiete.bo/nacional/2020/10/23/onu-oea-uniore-descartan-fraude-en-elecciones-generales-272528.html|website=Pagina Siete|language=es|access-date=23 October 2020|archive-date=14 April 2021|archive-url=https://web.archive.org/web/20210414225506/https://www.paginasiete.bo/nacional/2020/10/23/onu-oea-uniore-descartan-fraude-en-elecciones-generales-272528.html|url-status=dead}}</ref> The Carter Centre supported the results and transparency of the elections, with minor recommendations on further improvements. They also analysed online disinformation targeting the electoral process in the 3 months prior to the election and noted "a proliferation of disinformation aimed at eroding the reputations of candidates and the TSE".<ref>{{cite web|date=23 October 2020|title=Carter Center Commends Bolivians and the Electoral Tribunal on a Calm and Respectful Election|url=https://www.cartercenter.org/news/pr/2020/bolivia-102320.html|access-date=24 October 2020|website=The Carter Center}}</ref>
+
+== Results ==
+MAS, which improved its result over the annulled 2019 elections but still slightly reduced compared to [[2014 Bolivian general election|2014]], attained a majority on its own in both chambers, meaning there is no obstacle to passing laws, but the loss of the two-thirds enjoyed by the party since 2009 means that some functions of the legislature will require cross-party support. These include the appointment of certain authorities (such as the Ombudsman for Human Rights, Comptroller General and Attorney General), making reforms in the constitution, the approval of judges for the Judicial Branch of government and the censuring of a government minister. This is the first time since 2009 that these decisions cannot be made by the ruling party alone.<ref name=twothirds />
+
+===President===
+<onlyinclude>{{Election results
+|partytitle=Party or alliance
+|party1=[[Movimiento al Socialismo]]|cand1=[[Luis Arce]]|vp1=[[David Choquehuanca]]|votes1=3394052
+|party2=[[Civic Community]]|cand2=[[Carlos Mesa]]|vp2=Gustavo Pedraza|votes2=1775953
+|party3=[[Creemos]]|cand3=[[Luis Fernando Camacho]]|vp3=Marco Antonio Pumari|votes3=862186
+|party4={{ill|Front for Victory (Bolivia)|es|Frente Para la Victoria (Bolivia)|lt=Front For Victory}}|cand4=[[Chi Hyun Chung]]|vp4=Salvador Pinto Marín|votes4=95255
+|party5={{ill|Bolivian National Action Party|es|Partido de Acción Nacional Boliviano}}|cand5=Feliciano Mamani|vp5=Ruth Nina|votes5=31765
+|invalid=233378
+|blank=91419
+|electorate=7332926
+|source=[https://www.oep.org.bo/wp-content/uploads/2020/10/Separata_Resultados_EG_2020.pdf OEP]
+}}</onlyinclude>
+
+===Chamber of Deputies===
+{{Election results
+|image=[[File:Bolivie Chambre des députés 2020.svg]]
+|firstround=Proportional|secondround=Constituency|thirdround=Indigenous
+|partytitle=Party or alliance
+|party1=[[Movimiento al Socialismo]]|votes1=3281803|seats1=26|votes1_2=2917110|seats1_2=42|votes1_3=30802|seats1_3=7|totseats1=75|sc1=+6
+|party2=[[Civic Community]]|votes2=1748678|seats2=28|votes2_2=1442009|seats2_2=11|votes2_3=12508|seats2_3=0|totseats2=39|sc2=–11
+|party3=[[Creemos]]|votes3=843170|seats3=6|votes3_2=938433|seats3_2=10|votes3_3=5673|seats3_3=0|totseats3=16|sc3=+7
+|party4={{ill|Front for Victory (Bolivia)|es|Frente Para la Victoria (Bolivia)|lt=Front For Victory}}|votes4=92604|seats4=0|votes4_2=74284|seats4_2=0|votes4_3=605|seats4_3=0|totseats4=0|sc4=0
+|party5={{ill|Bolivian National Action Party|es|Partido de Acción Nacional Boliviano}}|votes5=30147|seats5=0|votes5_2=59368|seats5_2=0|votes5_3=787|seats5_3=0|totseats5=0|sc5=0
+|party6=Libre 21 ([[Revolutionary Nationalist Movement|MNR]]–[[Movement for Sovereignty|MPS]])|votes6=|seats6=|votes6_2=41|seats6_2=0|votes6_3=|seats6_3=|totseats6=0|sc6=New
+|party7=Indigenous Organisation of Chiquitanía|votes7=|seats7=|votes7_2=|seats7_2=|votes7_3=2717|seats7_3=0|totseats7=0|sc7=New
+|party8=Organisation of Weehnayek and Tapiete Captaincies|votes8=|seats8=|votes8_2=|seats8_2=|votes8_3=1554|seats8_3=0|totseats8=0|sc8=New
+|party9=Assembly of the Guaraní People|votes9_3=890|seats9_3=0|totseats9=0|sc9=New
+|party10=Central of the Mojeños Ethnic Peoples of Beni|votes10=|seats10=|votes10_2=|seats10_2=|votes10_3=645|seats10_3=0|totseats10=0|sc10=New
+|party11=Yaminawa|votes11_3=59|seats11_3=0|totseats11=0|sc11=New
+|party12=Yuqui Bia Recuate Indigenous Council|votes12_3=6|seats12_3=0|totseats12=0|sc12=New
+|invalid=317057|invalid2=804315|invalid3=21012
+|total_sc=0
+|electorate=7332926|electorate2=6989915|electorate3=143614
+|source=[https://www.oep.org.bo/wp-content/uploads/2020/10/Separata_Resultados_EG_2020.pdf OEP], [https://web.archive.org/web/20240601174821/https://www.oep.org.bo/wp-content/uploads/2022/01/Acta_Computo_SantaCruz_EG_2020.pdf OEP], [https://web.archive.org/web/20240601180337/https://www.oep.org.bo/wp-content/uploads/2022/01/Acta_Computo_Oruro_EG_2020.pdf OEP], [https://web.archive.org/web/20240601174836/https://www.oep.org.bo/wp-content/uploads/2022/01/Acta_Computo_LaPaz_EG_2020.pdf OEP], [https://web.archive.org/web/20240601174835/https://www.oep.org.bo/wp-content/uploads/2022/01/Acta_Computo_Beni_EG_2020.pdf OEP], [https://web.archive.org/web/20240601174811/https://www.oep.org.bo/wp-content/uploads/2022/01/Acta_Computo_Chuquisaca_EG_2020.pdf OEP], [https://web.archive.org/web/20240601174817/https://www.oep.org.bo/wp-content/uploads/2022/01/Acta_Computo_Cochabamba_EG_2020.pdf OEP], [https://web.archive.org/web/20240601174824/https://www.oep.org.bo/wp-content/uploads/2022/01/Acta_Computo_Pando_EG_2020.pdf OEP], [https://web.archive.org/web/20240601180338/https://www.oep.org.bo/wp-content/uploads/2022/01/Acta_Computo_Potosi_EG_2020.pdf OEP], [https://web.archive.org/web/20231123202102/https://www.oep.org.bo/wp-content/uploads/2022/01/Acta_Computo_Tarija_EG_2020.pdf OEP]
+}}
+
+===Chamber of Senators===
+The results of the election mean that, for the first time, the Senate will contain a majority of female senators, with a proportion of 20 women to 16 men.<ref name="femalemajority">{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/22/con-20-senadoras-las-mujeres-son-mayoria-en-la-camara-alta-272418.html|title=With 20 female senators, women are a majority in the Upper House|language=es|date=22 October 2020}}</ref><ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/22/el-mas-logra-mayoria-en-el-senado-en-la-camara-de-diputados-272407.html|title=MAS achieves a majority in the Senate and the Chamber of Deputies|language=es|date=22 October 2020|access-date=22 October 2020|archive-date=24 October 2020|archive-url=https://web.archive.org/web/20201024070041/https://www.paginasiete.bo/nacional/2020/10/22/el-mas-logra-mayoria-en-el-senado-en-la-camara-de-diputados-272407.html|url-status=dead}}</ref><ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/23/composicion-de-la-asamblea-mas-obtiene-94-legisladores-cc-52-creemos-20-272566.html|title=Composition of the Assembly: MAS obtains 94 legislators, CC 52 and Creemos 20|language=es|date=23 October 2020}}</ref><ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/24/lista-completa-la-mayoria-de-los-nuevos-diputados-son-hombres-272659.html|date=23 October 2020|language=es|title=Full list: most new MPs are men|access-date=24 October 2020|archive-date=27 October 2020|archive-url=https://web.archive.org/web/20201027035142/https://www.paginasiete.bo/nacional/2020/10/24/lista-completa-la-mayoria-de-los-nuevos-diputados-son-hombres-272659.html|url-status=dead}}</ref> Among these women was Cecilia Moyoviri, the nation's first Senator from the Trinidadian-Mojeña ethnic group of the Beni region, who was elected for CC.<ref>{{cite web|date=28 October 2020|title=The "struggle" of the first indigenous senator from a Bolivian region|url=https://www.lostiempos.com/actualidad/pais/20201028/lucha-primera-senadora-indigena-region-boliviana|website=Los Tiempos|language=es}}</ref> The new government was installed on 8 November 2020.<ref>{{cite web|url=https://www.lostiempos.com/actualidad/pais/20201023/copa-anuncia-que-arce-sera-posesionado-8-noviembre|title=Copa announces that Arce will be inaugurated on November 8|date=23 October 2020|language=es}}</ref>
+
+{{Election results
+|image=[[File:Bolivie Sénat 2020.svg]]
+|partytitle=Party or alliance
+|party1=[[Movimiento al Socialismo]]|votes1=3281803|seats1=21|sc1=0
+|party2=[[Civic Community]]|votes2=1748678|seats2=11|sc2=–3
+|party3=[[Creemos]]|votes3=843170|seats3=4|sc3=+4
+|party4={{ill|Front for Victory (Bolivia)|es|Frente Para la Victoria (Bolivia)|lt=Front For Victory}}|votes4=92604|seats4=0|sc4=0
+|party5={{ill|Bolivian National Action Party|es|Partido de Acción Nacional Boliviano}}|votes5=30147|seats5=0|sc5=0
+|total_sc=0
+|invalid=226761
+|blank=90296
+|electorate=7031295
+|source=[https://www.oep.org.bo/wp-content/uploads/2020/10/Separata_Resultados_EG_2020.pdf OEP]
+}}
+
+===By department===
+{| class="wikitable sortable" style="text-align:right"
+! colspan="2" |Candidate
+! colspan="2" |[[Beni Department|Beni]]
+! colspan="2" |[[Chuquisaca Department|Chuquisaca]]
+! colspan="2" |[[Cochabamba Department|Cochabamba]]
+! colspan="2" |[[La Paz Department (Bolivia)|La Paz]]
+! colspan="2" |[[Oruro Department|Oruro]]
+! colspan="2" |[[Pando Department|Pando]]
+! colspan="2" |[[Potosí Department|Potosí]]
+! colspan="2" |[[Santa Cruz Department (Bolivia)|Santa Cruz]]
+! colspan="2" |[[Tarija Department|Tarija]]
+|-
+|bgcolor={{party color|Movimiento al Socialismo}}|
+|align=left|[[Luis Arce]]
+|71,957
+|34.72%
+|style="background:lightblue"|148,452
+|style="background:lightblue"|49.06%
+|style="background:lightblue"|773,386
+|style="background:lightblue"|65.90%
+|style="background:lightblue"|1,162,949
+|style="background:lightblue"|68.36%
+|style="background:lightblue"|186,452
+|style="background:lightblue"|62.94%
+|style="background:lightblue"|25,883
+|style="background:lightblue"|45.80%
+|style="background:lightblue"|211,571
+|style="background:lightblue"|57.61%
+|576,567
+|36.21%
+|124,586
+|41.62%
+|-
+|bgcolor=#F26524|
+|align=left|[[Carlos Mesa]]
+|style="background:#FDDCB8"|81,182
+|style="background:#FDDCB8"|39.17%
+|139,176
+|45.99%
+|371,826
+|31.68%
+|486,139
+|28.58%
+|97,812
+|33.02%
+|14,635
+|25.89%
+|131,635
+|35.85%
+|275,868
+|17.32%
+|style="background:#FDDCB8"|150,405
+|style="background:#FDDCB8"|50.24%
+|-
+|bgcolor=#d02d69|
+|align=left|[[Luis Fernando Camacho]]
+|49,128
+|23.70%
+|6,791
+|2.24%
+|13,356
+|1.14%
+|12,319
+|0.72%
+|2,746
+|0.93%
+|14,817
+|26.22%
+|10,248
+|2.79%
+|style="background:#f49ab2"|717,742
+|style="background:#f49ab2"|45.07%
+|16,023
+|5.35%
+|-
+|bgcolor=#145050|
+|align=left|[[Chi Hyun Chung]]
+|4,031
+|1.94%
+|6,178
+|2.04%
+|11,867
+|1.01%
+|28,763
+|1.69%
+|6,301
+|2.13%
+|1,025
+|1.81%
+|9,408
+|2.56%
+|18,037
+|1.13%
+|6,994
+|2.34%
+|-
+|bgcolor=#D90009|
+|align=left|Feliciano Mamani
+|963
+|0.46%
+|1,996
+|0.66%
+|3,216
+|0.27%
+|11,032
+|0.65%
+|2,940
+|0.99%
+|157
+|0.28%
+|4,364
+|1.19%
+|4,137
+|0.26%
+|1,342
+|0.45%
+|-
+| colspan="2" align=left|Invalid/blank votes
+|23,818
+|10.31%
+|19,230
+|5.98%
+|40,895
+|3.37%
+|71,441
+|4.03%
+|13,733
+|4.43%
+|3,262
+|5.45%
+|31,685
+|7.94%
+|90,734
+|5.39%
+|22,259
+|6.92%
+|-
+! colspan="2" align=left|Total votes
+! colspan="2" |231,079
+! colspan="2" |321,823
+! colspan="2" |1,214,546
+! colspan="2" |1,772,643
+! colspan="2" |309,984
+! colspan="2" |59,779
+! colspan="2" |398,911
+! colspan="2" |1,886,387
+! colspan="2" |321,609
+|-
+| colspan="2" align=left|Registered voters/turnout
+|270,213
+|85.52%
+|368,623
+|87.30%
+|1,340,548
+|90.60%
+|1,923,305
+|92.17%
+|339,950
+|91.19%
+|72,136
+|82.87%
+|453,287
+|88.00%
+|1,683,085
+|89.22%
+|376,846
+|85.34%
+|}
+
+<gallery mode="packed" heights="200" style="float:left;">
+
+File:Bolivian General Election 2020 - Results by District & List Seats (Chamber of Deputies).svg|Results in the Chamber of Deputies.
+File:Bolivian General Election 2020 - Results by Department Seats (Chamber of Senators).svg|Results in the Chamber of Senators.
+File:2020 Bolivian general election - Vote Strength.svg|Vote strength by province.
+File:Elecciones Bolivia 2020 exterior.svg|Results among voters abroad.
+</gallery>
+{{clear}}
+
+=== Responses ===
+Although the official results had not been expected for some days, quick counts performed by Ciesmori and ''Mi Voto Cuenta'' (My Vote Counts) agreed that Arce won the election in the first round.<ref name="Qcount"/><ref>{{cite web|url=https://www.bbc.com/news/world-latin-america-54591963|title=Bolivia election: Exit polls suggest win for Luis Arce|date=19 October 2020|website=BBC}}</ref> The vote count could be attended by any member of the public and the tally sheets photographed for reasons of transparency.<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/18/romero-destaca-asistencia-masiva-tranquilidad-en-la-jornada-electoral-271974.html|title=Romero highlights massive attendance and tranquility on election day|date=18 October 2020|language=es|access-date=19 October 2020|archive-date=19 October 2020|archive-url=https://web.archive.org/web/20201019174234/https://www.paginasiete.bo/nacional/2020/10/18/romero-destaca-asistencia-masiva-tranquilidad-en-la-jornada-electoral-271974.html|url-status=dead}}</ref> President Áñez and former president [[Tuto Quiroga]], also both former presidential candidates in this election and opponents of MAS, congratulated Luis Arce as president elect while Evo Morales celebrated in Argentina<ref>{{cite web|url=http://www.elalteno.com.bo/ciudad/20201019/evo-proclama-la-victoria-del-mas|title=Evo proclaims victory for MAS|date=19 October 2020|language=es|access-date=19 October 2020|archive-date=21 October 2020|archive-url=https://web.archive.org/web/20201021162509/http://www.elalteno.com.bo/ciudad/20201019/evo-proclama-la-victoria-del-mas|url-status=dead}}</ref><ref>{{cite web|url=http://www.elalteno.com.bo/ciudad/20201019/presidenta-anez-felicita-arce-y-choquehuanca|title=Áñez congratulates Arce and Choquehuanca|date=19 October 2020|language=es|access-date=19 October 2020|archive-date=23 October 2020|archive-url=https://web.archive.org/web/20201023101203/http://www.elalteno.com.bo/ciudad/20201019/presidenta-anez-felicita-arce-y-choquehuanca|url-status=dead}}</ref><ref name="Quiroga"/> [[Luis Almagro]], the Secretary-General of the OAS, also congratulated Luis Arce and David Choquehuanca on their victory, noting that democracy "will create a bright future for Bolivia."<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/19/almagro-felicita-al-binomio-del-mas-dice-que-el-pueblo-se-expreso-en-las-urnas-272058.html|title=Almagro congratulates the MAS team and says that "the people expressed themselves at the polls"|date=18 October 2020|language=es}}</ref> CC candidate Carlos Mesa recognised Arce as winner in the first round based on the preliminary results and accepted a mandate as the leader of the opposition.<ref name="MesaConc"/> On 23 October, after the completion of the official vote count, Creemos candidate Luis Camacho also publicly acknowledged the results.<ref>{{cite web|url=https://www.lostiempos.com/actualidad/pais/20201023/camacho-reconoce-resultados-nuestros-parlamentarios-electos-no-negociaran|title=Camacho acknowledges the results: "Our elected parliamentarians will not negotiate their vote"|date=23 October 2020|language=es}}</ref>
+
+Political allies of Evo Morales, including [[Daniel Ortega]] and [[Rosario Murillo]] (President and Vice-President of Nicaragua), [[Andrés Manuel López Obrador]] (President of Mexico), [[Luiz Inácio Lula da Silva]] (former President of Brazil), [[Rafael Correa]] (former President of Ecuador), [[Nicolás Maduro]] ([[President of Venezuela]]), and [[Alberto Fernández]] and [[Cristina Kirchner]] (President and Vice-President of Argentina), congratulated the Arce-Choquehuanca ticket on their victory.<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/19/correa-fernandez-lula-kirchner-maduro-felicitan-al-binomio-del-mas-272060.html|title=Correa, Fernández, Lula, Kirchner and Maduro congratulate the MAS joint ticket|date=18 October 2020|language=es|access-date=19 October 2020|archive-date=21 October 2020|archive-url=https://web.archive.org/web/20201021153621/https://www.paginasiete.bo/nacional/2020/10/19/correa-fernandez-lula-kirchner-maduro-felicitan-al-binomio-del-mas-272060.html|url-status=dead}}</ref><ref>{{cite web|url=https://www.infobae.com/america/agencias/2020/10/19/nicaragua-felicita-a-morales-y-a-arce-por-incuestionable-triunfo-en-bolivia/|title=Nicaragua congratulates Morales and Arce for "unquestionable" triumph in Bolivia|date=19 October 2020|language=es}}</ref><ref>{{cite web|url=https://www.forbes.com.mx/noticias-lopez-obrador-felicita-a-luis-alberto-arce-por-triunfo-electoral-en-bolivia/|title=AMLO congratulates Arce, from the party of Evo Morales, for winning the presidency of Bolivia|date=19 October 2020|language=es}}</ref><ref>{{cite web|url=https://www.lavozdelsandinismo.com/nicaragua/2020-10-19/compartimos-la-alegria-del-pueblo-boliviano-que-hoy-ha-visto-triunfar-sus-suenos/|title=Gobierno de Nicaragua felicita con alegría al Presidente Electo Luis Arce de Bolivia|date=19 October 2020|language=es|access-date=20 October 2020|archive-date=21 October 2020|archive-url=https://web.archive.org/web/20201021232951/https://www.lavozdelsandinismo.com/nicaragua/2020-10-19/compartimos-la-alegria-del-pueblo-boliviano-que-hoy-ha-visto-triunfar-sus-suenos/|url-status=dead}}</ref> The United States Secretary of State, [[Mike Pompeo]], sent congratulations to Arce for his victory and expressed hope that the United States and Bolivia could work together on joint interests in the future.<ref>{{cite web|url=https://www.infobae.com/america/america-latina/2020/10/19/estados-unidos-felicito-a-luis-arce-por-su-victoria-en-bolivia-esperamos-trabajar-en-nuestros-intereses-conjuntos/|title=The United States congratulated Luis Arce on his victory in Bolivia: "We hope to work in our joint interests."|date=19 October 2020|language=es}}</ref><ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/21/pompeo-felicita-al-binomio-del-mas-eeuu-espera-trabajar-con-el-gobierno-elegido-272337.html|title=Pompeo congratulates the MAS binomial: the US hopes to work with the elected government|date=22 October 2020|language=es}}</ref> Arce has indicated that he is open to working with the US in the future after nine years of broken diplomatic relations as well as resuming diplomatic ties with Venezuela and Cuba, which were broken during the period of the interim government.<ref>{{cite web|url=https://www.paginasiete.bo/nacional/2020/10/22/relaciones-diplomaticas-luis-arce-eeuu-se-lanzan-guinos-272384.html|title=Diplomatic relations: Luis Arce and the US wink at each other|date=22 October 2020|language=es}}</ref> A statement from the Brazilian foreign ministry congratulated Arce and expressed the nation's "willingness to work with the new Bolivian authorities to seek the implementation of initiatives of common interest in the field of friendship, neighborhood and cooperation ties that unite the two countries and their peoples."<ref>{{cite web|date=24 October 2020|url=https://www.lostiempos.com/actualidad/mundo/20201024/brasil-felicita-arce-propone-estrechar-cooperacion-bilateral|title=Brazil congratulates Arce and proposes closer bilateral cooperation|language=es}}</ref>
+
+Bolivian newspaper ''[[El Deber]]'' called Arce's victory "clear and crushing" and praised him for his conciliatory statements after the result, while also emphasizing that the new president will have to appease MAS's radical wing.<ref>{{Cite web|title=Una clara y aplastante victoria {{!}} EL DEBER|url=https://eldeber.com.bo/edicion-impresa/una-clara-y-aplastante-victoria_205213|access-date=2020-10-27|website=eldeber.com.bo|date=19 October 2020 |language=es}}</ref> Writing on ''[[Los Tiempos]]'', Oscar Díaz Arnau attributed Arce's victory to MAS's strong support in rural areas, the weakness of Mesa's candidacy, Arce's moderation, lack of connection between the opposition and rural inhabitants and the candidacy of [[Luis Fernando Camacho]] splitting anti-MAS voters and weakening the opposition.<ref>{{Cite web|date=2020-10-26|title=Razones para una victoria y para una derrota|url=https://www.lostiempos.com/actualidad/opinion/20201026/columna/razones-victoria-derrota|access-date=2020-10-27|website=Los Tiempos|language=es}}</ref>
+
+==Aftermath==
+On 25 October, several right-wing and conservative civic organizations in Santa Cruz like the Pro-Santa Cruz Civic Committee and the [[Santa Cruz Youth Union]], both allies of right-wing candidate Luis Fernando Camacho, claimed that Luis Arce was not the president-elect due to alleged fraud. Camacho and his political allies called for strikes around the country.<ref>[https://correodelsur.com/politica/20201104_camacho-se-suma-al-paro-convocado-por-civicos-de-santa-cruz.html Camacho se suma al paro convocado por cívicos de Santa Cruz]</ref><ref>[https://correodelsur.com/politica/20201104_camacho-se-suma-al-paro-convocado-por-civicos-de-santa-cruz.html El oriente boliviano prepara protestas para la toma de posesión del delfín de Evo Morales]</ref><ref>[https://en.mercopress.com/2020/11/06/conservatives-in-bolivia-protest-against-the-inauguration-of-president-elect-arce Conservatives in Bolivia protest against the inauguration of president elect Arce]</ref><ref>{{Cite web|date=2020-10-25|title=Santa Cruz no acepta la victoria de MAS y denuncia fraude|url=https://www.lavanguardia.com/internacional/20201025/492571151/bolivia-ultraderecha-santa-cruz-se-revela-evo-morales.html|access-date=2020-11-20|website=La Vanguardia|language=es}}</ref> 
+
+In order to mitigate their loss of the two-thirds [[supermajority]] in the legislature, MAS parliamentarians used the last few days of the outgoing assembly to make 21 changes to the rules of procedure that formerly required a two-thirds majority so that they could now be passed with only a simple majority.<ref>{{Cite web|title=MAS elimina los dos tercios del Senado con 11 cambios al reglamento|url=https://www.paginasiete.bo/nacional/2020/10/28/mas-elimina-los-dos-tercios-del-senado-con-11-cambios-al-reglamento-273093.html|access-date=2020-11-20|website=www.paginasiete.bo|language=es}}</ref> Some opposition parliamentarians left the session in protest.<ref>{{cite web|date=28 October 2020|title=MAS eliminates two-thirds of the Senate with 11 changes to the regulations|url=https://www.paginasiete.bo/nacional/2020/10/28/mas-elimina-los-dos-tercios-del-senado-con-11-cambios-al-reglamento-273093.html|language=es}}</ref><ref>{{cite web|date=27 October 2020|title=In the last session, MAS benches approved reforms that will prevent the future opposition from being audited|url=https://www.lostiempos.com/actualidad/pais/20201027/ultima-sesion-bancadas-del-mas-aprueban-reformas-que-impediran|language=es}}</ref><ref>{{cite web|date=27 October 2020|title=MAS in the Senate eliminates two-thirds for 11 decisions, including promotions|url=https://www.opinion.com.bo/articulo/pais/mas-senado-elimina-tercios-11-decisiones-incluyendo-ascensos/20201027221924793144.html|language=es}}</ref><ref>{{cite web|date=27 October 2020|title=Senate and Deputies change regulations to avoid two thirds|url=https://eldeber.com.bo/usted-elige/senado-y-diputados-cambian-reglamentos-para-evitar-los-dos-tercios_206392|language=es}}</ref><ref>{{Cite web|date=2020-11-17|title=Antidemocrático – Antidemocratic|url=https://bolivianthoughts.com/2020/11/17/antidemocratico-antidemocratic/|access-date=2020-11-20|website=Bolivian Thoughts in an Emerging World|language=en}}</ref> Opposition leader Carlos Mesa condemned the changes, saying "Authoritarianism, abuse and the submission of the Legislative Assembly continue".<ref>{{cite web|date=27 October 2020|title=The MAS modifies regulations and eliminates two thirds in the Senate in the last session|url=https://www.lostiempos.com/actualidad/pais/20201027/mas-modifica-reglamento-elimina-dos-tercios-senado-ultima-sesion|language=es}}</ref> MAS Senator Omar Aguilar supported the amendments, asking, "Are we going to block the governance of Luis Arce just because we lack three senators in this chamber?"<ref>{{cite web|date=27 October 2020|title=Aguilar: The modification is to give governance to Arce Catacora|url=https://www.paginasiete.bo/nacional/2020/10/27/aguilar-la-modificacion-es-para-darle-gobernabilidad-arce-catacora-273035.html|language=es}}</ref> The corresponding session in the House of Deputies lasted less than 20 minutes without any discussion of the amendments being made.<ref>{{cite web|date=28 October 2020|title=MAS deputies eliminated two thirds in less than 20 minutes|url=https://www.lostiempos.com/actualidad/pais/20201028/diputados-del-mas-eliminaron-dos-tercios-menos-20-minutos|language=es}}</ref> Outgoing MAS president of the Senate [[Eva Copa]] said that the amendments will "speed up the legislative task."<ref name="neutralise">{{cite web|date=28 October 2020|title=MAS neutralizes the opposition for 5 years with the endorsement of Arce|url=https://www.paginasiete.bo/nacional/2020/10/29/mas-neutraliza-la-oposicion-por-anos-con-el-aval-de-arce-273212.html|language=es|access-date=26 November 2020|archive-date=18 May 2021|archive-url=https://web.archive.org/web/20210518152358/https://www.paginasiete.bo/nacional/2020/10/29/mas-neutraliza-la-oposicion-por-anos-con-el-aval-de-arce-273212.html|url-status=dead}}</ref>
+
+President-elect Arce endorsed the changes, saying that the decision "wakes up [the government]" for the incoming assembly. "What our Assembly has done is maintain legality. There are many laws that are going to be approved with two-thirds. That is established by the regulations and there should be no concern", he said.<ref name="neutralise" />
+
+On 5 November, president-elect Luis Arce was attacked using dynamite at his campaign house in La Paz.<ref>{{Cite web|title=Vocero del MAS denuncia atentado con dinamita en contra de Luis Arce|url=https://www.paginasiete.bo/nacional/2020/11/5/vocero-del-mas-denuncia-atentado-con-dinamita-en-contra-de-luis-arce-273972.html|access-date=2020-11-20|website=www.paginasiete.bo|language=es}}</ref> On 14 November, Jorge Valda, a Pro-Santa Cruz Committee attorney who claimed fraud in the elections, was arrested and sent to La Paz where he was convicted for legitimation of illicit profits.<ref>{{Cite web|title=Detuvieron en Bolivia a uno de los abogados que denunció fraude y pidió que se auditen las elecciones|url=https://www.infobae.com/america/america-latina/2020/11/14/detuvieron-en-bolivia-a-uno-de-los-abogados-que-denuncio-fraude-y-pidio-que-se-auditen-las-elecciones/|access-date=2020-11-20|website=infobae|date=14 November 2020 |language=es-ES}}</ref> Arce was inaugurated on 8 November 2020.
+
+In June 2021, ''[[The Intercept]]'' obtained audio of officials of the outgoing government and the military plotting a second coup. The plans involved the use of mercenaries from the United States. [[Luis Fernando López (military)|Luis Fernando López]], former defense minister, was recorded saying that Sergio Orellana, the top general, was involved in the plot. Orellana fled the country upon Arce's victory.<ref>{{Cite web|url=https://theintercept.com/2021/06/17/bolivia-coup-plot-mercenaries/|title=Bolivian Ex-Minister of Defense Plotted a Second Coup Using U.S. Mercenaries|date=17 June 2021 }}</ref>
+
+=== Legacy ===
+On 1 February 2021, the government of Luis Arce declared 18 October 2020, the date of the general elections, to be the "Day of recovery of intercultural democracy".<ref>{{Cite web|title=Gobierno declara al 18 de de octubre Día de la Recuperación de la Democracia|url=https://www.opinion.com.bo/articulo/pais/gobierno-declara-18-octubre-dia-recuperacion-democracia/20210201164254806133.html|access-date=2021-02-01|website=Opinión Bolivia|date=February 2021 |language=es}}</ref> Previously, 10 October 1982 has been considered the day of Bolivia's return to democracy as it was the date in which [[Guido Vildoso]] and the military returned power to the democratically elected [[Hernán Siles Zuazo]]. The decree instructs that the ministries, in coordination with the Autonomous Territorial Entities, as well as social organizations and civil society, organize activities to celebrate democratic values, the reestablishment and preservation of intercultural democratic institutions. The move was criticised by Carlos Mesa who called it "an affront to the citizens who conquered democracy on 10/10/82."<ref>{{Cite web|title=Mesa califica de afrenta que Arce decrete día de la "recuperación de la democracia"|url=https://www.paginasiete.bo/nacional/2021/2/1/mesa-califica-de-afrenta-que-arce-decrete-dia-de-la-recuperacion-de-la-democracia-283049.html|access-date=2021-02-01|website=www.paginasiete.bo|language=spanish}}</ref>
+
+==Notes==
+{{reflist|group=lower-alpha}}
+
+==References==
+{{reflist}}
+
+{{Bolivian elections}}
+
+[[Category:2020 elections in South America|Bolivia]]
+[[Category:2020 in Bolivia|General election]]
+[[Category:Elections postponed due to the COVID-19 pandemic|Bolivia]]
+[[Category:October 2020 in South America|Bolivia]]
+[[Category:Presidential elections in Bolivia]]
+[[Category:2020 protests|Bolivia]]
+[[Category:Parliamentary elections in Bolivia]]

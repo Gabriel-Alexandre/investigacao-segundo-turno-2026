@@ -1,0 +1,121 @@
+{{Short description|none}}
+{{Use American English|date=June 2025}}
+{{Use mdy dates|date=April 2025}}
+{{Infobox election
+| election_name = 2020 Peruvian Aprista Party presidential primary
+| country = Peru
+| flag_year = 2020
+| type = primary
+| ongoing = no
+| previous_election = 2015 Peruvian Aprista Party presidential primary
+| previous_year = [[2015 Peruvian Aprista Party presidential primary|2015]]
+| next_election = [[2025 Peruvian Aprista Party presidential primary]]
+| next_year = [[2025 Peruvian Aprista Party presidential primary|2025]]
+| election_date = 29 November 2020
+| votes_for_election = 210,540
+| needed_votes = 
+
+<!--       Nidia Vílchez           -->
+| image1 = File:Nidia071.JPG
+| color1 = {{party color|American Popular Revolutionary Alliance}}
+| candidate1 = '''[[Nidia Vílchez]]''' 
+| running_mate1 = Iván Hidalgo
+| home_state1 = '''[[Department of Junín|Junín]]'''
+| popular_vote1 = '''8,443'''
+| percentage1 = '''72.37%'''
+
+<!--       Juan Carlos Sánchez Montes de Oca           -->
+| image2 = File:Cocoli_Locaso.jpg
+| color2 = a02c2c
+| candidate2 = [[Juan Carlos Sánchez Montes de Oca]]
+| home_state2 = [[Lima]]
+| popular_vote2 = 2,478
+| percentage2 = 21.24%
+
+<!--       Rafael Zevallos           -->
+| image4 =
+| color4 = 00aa44
+| candidate4 = [[Rafael Zevallos]]
+| home_state4 = [[Lima]]
+| popular_vote4 = 745
+| percentage4 = 6.39%
+
+| title = APRA nominee
+| before_election = [[Alan García]]
+| after_election = [[Nidia Vílchez]]
+}}
+
+On 29 November 2020, members of the [[Peruvian Aprista Party]] chose a presidential ticket for the [[2021 Peruvian general election|2021 presidential election]].<ref>{{cite web|url=https://resultadoshistorico.onpe.gob.pe/IN2020/Home|title=Elecciones Internas|date=29 November 2020|access-date=8 September 2025|website=ONPE}}</ref>
+
+The party elected former cabinet minister [[Nidia Vílchez]] as the presidential nominee, defeating by a large margin the two other candidates, alongside her running mates Iván Hidalgo, former deputy minister of Social Development, and Olga Cribilleros, former [[Congress of the Republic of Peru|member of Congress]] from [[Department of La Libertad|La Libertad]].<ref>{{cite news|title=Elecciones 2021 &#124; Partido Aprista Peruano &#124; el Apra va a elecciones internas: Una estrella golpeada que busca la renovación &#124; POLITICA|url=https://elcomercio.pe/politica/elecciones/elecciones-2021-partido-aprista-peruano-el-apra-va-sus-elecciones-internas-con-animo-de-renovacion-noticia/|access-date=8 September 2025|work=El Comercio|date=27 November 2020|language=es-ES|quote=The APRA is preparing for this Sunday's internal elections, with three options for the presidential pre-candidacy.}}</ref><ref>{{cite news|title=Nidia Vílchez encabeza resultados de internas del Apra al 60.6% de actas contabilizadas|url=https://peru21.pe/politica/apra-nidia-vilchez-encabeza-resultados-de-elecciones-internas-al-606-de-actas-contabilizadas-elecciones-2021-nndc-noticia/|access-date=8 September 2025|work=Perú21|date=30 November 2020|language=es-ES|quote=Former Minister for Women Nidia Vilchez leads the results of the internal elections in the Peruvian Aprista Party with 60.6% of the votes counted, according to the National Office of Electoral Processes (ONPE).}}</ref><ref>{{cite news|title=Estos son los resultados de las elecciones internas de Acción Popular, Partido Morado y Apra a más del 90% de actas|url=https://diariocorreo.pe/politica/elecciones-2021-estos-son-los-resultados-de-las-internas-del-accion-popular-partido-morado-y-apra-a-mas-del-90-de-actas-nndc-noticia/|access-date=8 September 2025|work=Diario Correo|date=30 November 2020|language=es-ES|quote=Former Minister for Women Nidia Vílchez leads the results of the internal elections in the Peruvian Aprista Party with 93.61% of the votes counted, according to the National Office of Electoral Processes (ONPE).}}</ref>
+
+Subsequently, the party withdrew her nomination once registered as a candidate at the [[National Jury of Elections]] after the party was denied registering their congressional candidates past the deadline.<ref>{{cite news|title=APRA retira su fórmula presidencial de las elecciones generales|url=https://larepublica.pe/elecciones/2021/01/16/el-apra-retira-su-formula-presidencial-de-las-elecciones-generales-pltc|access-date=8 September 2025|work=La República|date=15 January 2021|language=es-ES|quote=Presidential nominee [[Nidia Vílchez]] will be out of the electoral race after the JNE declares most of the lists of candidates for Congress inadmissible.}}</ref><ref>{{cite news|title=Elecciones 2021: Apra retira candidatura presidencial de Nidia Vílchez|url=https://andina.pe/agencia/noticia-elecciones-2021-apra-retira-candidatura-presidencial-nidia-vilchez-830046.aspx|access-date=8 September 2025|work=Andina Noticias|date=15 January 2021|language=es-ES|quote=The presidential ticket of the [[Peruvian Aprista Party]] (APRA), headed by [[Nidia Vílchez]], was withdrawn by decision of the party's political commission, confirmed the head of that body, [[Mauricio Mulder]].}}</ref><ref>{{cite news|title=Elecciones 2021: JEE de Lima Centro 1 aceptó el retiro de la plancha presidencial del Apra|url=https://diariocorreo.pe/politica/elecciones-2021-jee-de-lima-centro-1-acepto-el-retiro-de-la-plancha-presidencial-del-apra-nndc-noticia/|access-date=8 September 2025|work=Diario Correo|date=11 February 2021|language=es-ES|quote=The electoral authority accepted the Aprista Party's request to withdraw the presidential ticket headed by [[Nidia Vílchez]], after failing to register almost all of its parliamentary lists.}}</ref>
+
+== Candidates ==
+
+=== Nominee ===
+{| class="wikitable sortable" style="text-align:center;"
+! colspan="3" |Candidate
+! class="unsortable" |Experience
+!Home department
+! data-sort-type="date" |Campaign
+!Popular vote
+!Running mates
+|- style="background:#FFD0D7;"
+! data-sort-="" scope="row" style="background:#FFD0D7;" |[[Nidia Vílchez|Nidia Vílchez Yucra]]
+| style="min-width:80px;" |[[File:Nidia071.JPG|109x109px]]
+| style="background:{{party color|American Popular Revolutionary Alliance}};" |
+|'''[[Ministry of Women and Vulnerable Populations|Minister of Women and Social Development]]'''<br>(2009–2010)<br>[[Ministry of Housing, Construction and Sanitation|Minister of Housing, Construction and Sanitation]]<br>(2008–2009)<br/>[[Congress of the Republic of Peru|Member of Congress]]<br>(2006–2011)
+|[[File:Flag of Junin.svg|center|70x70px]] [[Department of Junín|Junín]]
+|'''Secured nomination:'''<br>29 November 2020
+|'''8,443'''<br><small>'''(72.37%)'''</small>
+|'''First Vice President'''<br/>Hildebrando Iván Hidalgo Romero<br/><br/>'''Second Vice President'''<br/>Olga Amelia Cribilleros Shigihara
+|}
+
+=== Defeated in the primary ===
+{| class="wikitable sortable" style="text-align:center;"
+! colspan="3" |Candidate
+! class="unsortable" |Experience
+!Home department
+!Popular vote
+!Running mates
+|-
+! data-sort-value="Sánchez" scope="row" |[[Juan Carlos Sánchez Montes de Oca]]
+| style="min-width:80px;" |[[File:Cocoli_Locaso.jpg|109x109px]]
+| style="background:#a02c2c;" |
+|Former nominee for the<br/>[[Congress of the Republic of Peru|Congress of the Republic]] from [[Lima Metropolitan Area]]<br>(2016)
+|[[File:Flag of Lima.svg|center|70x70px]] [[Department of Lima|Lima]]
+| data-sort-value="1,164,765” |2,478<br><small>(21.24%)</small>
+|'''First Vice President'''<br/>Nora María Rodríguez Herencia<br/><br/>'''Second Vice President'''<br/>Celso Jesús Chinchay Obregón
+|-
+! data-sort-value="Zevallos" scope="row" |[[Rafael Zevallos|Rafael Zevallos Bueno]]
+| 
+| style="background:#00aa44;" |
+|Chemist and author
+|[[File:Flag of Lima.svg|center|70x70px]] [[Department of Lima|Lima]]
+| data-sort-value="327,357” |745<br><small>(6.39%)</small>
+|'''First Vice President'''<br/>Rocío del Pilar Salcedo Silva<br/><br/>'''Second Vice President'''<br/>Dante Luis Tello Cruzado
+|}
+
+=== Total ===
+{{Election results
+|cand1=List No. 1 ([[Nidia Vílchez|Vílchez]]-Hidalgo-Cribilleros)|votes1=8443
+|cand2=List No. 2 ([[Juan Carlos Sánchez Montes de Oca|Sánchez Montes de Oca]]-Rodríguez-Chinchay)|votes2=2478
+|cand3=List No. 3 ([[Rafael Zevallos|Zevallos]]-Salcedo-Tello)|votes3=745
+|cand4=Blank Votes|votes4=1820
+|cand5=Void|votes5=734
+|source=ONPE<ref>{{Cite web|title=Presentación de resultados por organización política|url=https://resultadoshistorico.onpe.gob.pe/IN2020/}}</ref>
+}}
+
+== See also ==
+*[[2021 Peruvian general election]]
+*[[American Popular Revolutionary Alliance]]
+
+== References ==
+{{reflist}}
+
+{{Peruvian elections}}
+
+[[Category:Presidential elections in Peru]]
+[[Category:2020 elections in South America|Peru]]
+[[Category:2020 in Peru|General]]

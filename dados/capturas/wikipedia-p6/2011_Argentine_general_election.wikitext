@@ -1,0 +1,1098 @@
+{{Short description|none}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox election
+| country = Argentina
+
+| module = {{Infobox election
+| election_name = Presidential election
+| embed = yes
+| type = presidential
+| previous_election = 2007 Argentine general election
+| previous_year = 2007
+| next_election = 2015 Argentine general election
+| next_year = 2015
+| election_date = 23 October 2011
+| registered = 28,916,183
+| turnout = 79.39%
+| image_size = 130x130px
+
+| image1 = Mensaje de fin de año de la Presidenta (cropped).jpg
+| nominee1 = '''[[Cristina Fernández de Kirchner]]'''
+| party1 = Justicialist Party
+| alliance1 = Front for Victory
+| running_mate1 = '''[[Amado Boudou]]'''
+| popular_vote1 = '''11,865,055'''
+| percentage1 = '''54.11%'''
+| states_carried1    = '''22''' '''+''' [[Buenos Aires|CABA]]
+| image2 = Hermes Binner en la Feria del Libro (cropped).jpg
+| nominee2 = [[Hermes Binner]]
+| party2 = Socialist Party (Argentina)
+| alliance2 = Broad Progressive Front (Argentina)
+| running_mate2 = [[Norma Morandini]]
+| popular_vote2 = 3,684,970
+| percentage2 = 16.81%
+| states_carried2 = 0
+| image3 = Ricardo_Alfonsín.png
+| nominee3 = [[Ricardo Alfonsín]]
+| party3 = Radical Civic Union
+| alliance3 = [[Union for Social Development|UDESO]]
+| running_mate3 = [[Javier&nbsp;González&nbsp;Fraga]]
+| popular_vote3 = 2,443,016
+| percentage3 = 11.14%
+| states_carried3 = 0 
+| image4 = Alberto Rodríguez Saá (cropped).jpg
+| nominee4 = [[Alberto&nbsp;Rodríguez&nbsp;Saá]]
+| party4 = {{ill|Partido Es Posible|es|lt=EP}}
+| alliance4 = Federal Commitment
+| running_mate4 = [[José María Vernet]]
+| popular_vote4 = 1,745,354
+| percentage4 = 7.96%
+| states_carried4    = 1
+| image5 = Duhalde23012007.jpg
+| nominee5 = [[Eduardo Duhalde]]
+| party5 = Justicialist Party
+| alliance5 = Federal Peronism
+| running_mate5 = [[Mario das Neves]]
+| popular_vote5 = 1,285,830 
+| percentage5 = 5.86%
+| states_carried5 = 0
+| map_image = [[File:Elecciones Argentina 2011.png|370px]]
+| map_caption = Results by province and department.
+| title = [[President of Argentina|President]]
+| before_election = [[Cristina Fernández de Kirchner]]
+| after_election = [[Cristina Fernández de Kirchner]]
+| before_party = Front for Victory
+| after_party = Front for Victory
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| previous_election = [[2009 Argentine legislative election|2009]]
+| next_election = [[2013 Argentine legislative election|2013]]
+| seats_for_election = 130 of the 257 seats in the [[Argentine Chamber of Deputies|Chamber of Deputies]]
+| election_date = 23 October 2011
+| turnout = 79.39%
+| noleader = yes
+
+| party1 = [[Front for Victory]]
+| percentage1 = 52.22
+| last_election1 = 44
+| seats1 = 85
+
+| party2 = [[Radical Civic Union|Union for Social Development]]
+| percentage2 = 13.55
+| last_election2 = 30
+| seats2 = 16
+
+| party3 = [[Broad Progressive Front (Argentina)|Broad Progressive Front]]
+| percentage3 = 13.50
+| last_election3 = 6
+| seats3 = 14
+
+| party4 = [[Federal Commitment]]
+| percentage4 = 6.21
+| last_election4 = 21
+| seats4 = 6
+
+| party5 = [[Federal Peronism|Popular Front]]
+| percentage5 = 5.45
+| last_election5 = 0
+| seats5 = 2
+
+| party6 = [[Civic Coalition ARI]]
+| percentage6 = 3.00
+| last_election6 = 7
+| seats6 = 1
+
+| party7 = [[Republican Proposal]]
+| percentage7 = 2.07
+| last_election7 = 9
+| seats7 = 3
+
+| party8 = [[Neuquén People's Movement]]
+| percentage8 = 0.43
+| last_election8 = 2
+| seats8 = 1
+
+| color9 = #318CE7
+| party9 = [[Rioja Popular Front]]
+| percentage9 = 0.21
+| last_election9 = 0
+| seats9 = 1
+
+| party10 = [[Fuegian People's Movement]]
+| percentage10 = 0.07
+| last_election10 = 0
+| seats10 = 1
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Senate
+| previous_election = [[2009 Argentine legislative election|2009]]
+| next_election = [[2013 Argentine legislative election|2013]]
+| seats_for_election = 24 of the 72 seats in the [[Argentine Senate|Senate]]
+| election_date = 23 October 2011
+| turnout = 81.75%
+| noleader = yes
+
+| party1 = [[Front for Victory]]
+| percentage1 = 57.28
+| last_election1 = 8
+| seats1 = 15
+
+| party12 = [[Radical Civic Union|Union for Social Development]]
+| percentage12 = 11.96
+| last_election12 = 11
+| seats12 = 3
+
+| party14 = [[Broad Progressive Front (Argentina)|Broad Progressive Front]]
+| percentage14 = 11.31
+| last_election14 = 3
+| seats14 = 1
+
+| party15 = [[Federal Commitment]]
+| percentage15 = 6.91
+| last_election15 = 0
+| seats15 = 3
+
+| color16 = #318CE7
+| party16 = [[Rioja Popular Front]]
+| percentage16 = 0.56
+| last_election16 = 0
+| seats16 = 2
+| map = Mapa de las elecciones legislativas de Argentina de 2011.png
+| map_upright = 1
+| map_caption = Chamber of Deputies results by province
+}}}}}}}}
+
+General elections were held in [[Argentina]] on Sunday, 23 October 2011. Incumbent president [[Cristina Fernández de Kirchner]] of the [[Front for Victory]] won in a [[Landslide victory|landslide]], with 54% of the vote, securing a second term in office. The [[Front for Victory]] won just over half of the seats in the [[Argentine National Congress|National Congress]].
+
+[[Mercosur Parliament]]arians were also popularly elected for the first time. Another novelty was the introduction of open, simultaneous and mandatory primaries. These took place 14 August 2011 to select the candidates of each political [[List of political parties in Argentina|party or coalition]].<ref name="ReformaPolítica">{{in lang|es}} [http://www.mininterior.gov.ar/asuntos_politicos_y_alectorales/dine/infogral/archivos_legislacion/Ley_26571_.pdf Ley de Democratización de la Representación Política, la Transparencia y la Equidad Electoral]</ref>
+
+==Presidential campaign==
+[[File:Boletas para las elecciones primarias en Argentina de 2011.jpg|thumb|Ballots used in the primary elections on 14 August.]]
+The nation's myriad parties forged seven coalitions, of which five became contenders for a possible runoff election:
+*'''[[Front for Victory]]''': the ruling party, led by President [[Cristina Fernández de Kirchner]], and allies, including the [[New Encounter]].<ref>{{cite web|url=http://m24digital.com/2011/06/14/sabbatella-y-el-fpv-tendran-una-misma-lista-de-diputados-en-la-provincia/ |title=Sabbatella y el FPV tendrán una misma lista de diputados en la Provincia |work=M24 Digital |url-status=dead |archive-url=https://web.archive.org/web/20110618140837/http://m24digital.com/2011/06/14/sabbatella-y-el-fpv-tendran-una-misma-lista-de-diputados-en-la-provincia/ |archive-date=18 June 2011 }}</ref> The FPV is mostly based on the center-left [[Justicialist Party]] (PJ) factions that support the current government.
+*'''[[Federal Peronism]]''', or ''Dissident Peronism'': centrist or conservative PJ figures opposed to the government and allies, including the [[Republican Proposal]]. This coalition remained divided between [[Eduardo Duhalde]]'s '''[[Unión Popular|Popular Front]]''' and [[Alberto Rodríguez Saá]]'s '''Federal Commitment''' both before and after the August primaries.
+*'''Union for Social Development''': the [[Radical Civic Union]] (UCR), led by Congressman [[Ricardo Alfonsín]], and allies, which initially included Federal Peronist [[Francisco de Narváez]].
+*'''[[Broad Progressive Front (Argentina)|Broad Progressive Front]]''': the [[Socialist Party (Argentina)|Socialist Party]], led by Governor [[Hermes Binner]], and allies, including [[Generation for a National Encounter|GEN]] and the [[Luis Juez|New Party]]. [[Proyecto Sur]] had briefly joined this coalition.
+*'''[[Civic Coalition (Argentina)|Civic Coalition]]''': the party, led by Congresswoman [[Elisa Carrió]], had been part of the [[Civic and Social Agreement]], but separated from the latter in August 2010.<ref>{{cite web|url=http://www.lanacion.com.ar/nota.asp?nota_id=1293981|title=Con más críticas, Carrió se aleja del Acuerdo Cívico|work=La Nación|access-date=30 May 2011|archive-date=23 December 2014|archive-url=https://web.archive.org/web/20141223070312/http://www.lanacion.com.ar/1293981-con-mas-criticas-carrio-se-aleja-del-acuerdo-civico|url-status=dead}}</ref>
+
+Other coalitions of note include the '''[[Workers' Left Front]]''', led by [[Jorge Altamira]], and '''[[Proyecto Sur]]''', led by [[Pino Solanas]]; the latter left the Socialist Party-led coalition and instead formed an alliance with the [[Workers' Socialist Movement (Argentina)|MST]] and the [[Authentic Socialist Party (Argentina)|PSA]].<ref name=m24b>{{cite web|url=http://m24digital.com/2011/06/16/movimiento-proyecto-sur-se-fracciono-entre-binner-y-pino-solanas/ |title=Movimiento Proyecto Sur se fraccionó entre Binner y Pino Solanas |work=M24 Digital |url-status=dead |archive-url=https://web.archive.org/web/20110711213549/http://m24digital.com/2011/06/16/movimiento-proyecto-sur-se-fracciono-entre-binner-y-pino-solanas/ |archive-date=11 July 2011 }}</ref>
+
+The '''[[Civic and Social Agreement]]''' was an alliance between the UCR and most of what became the Progressive Ample Front and the Civic Coalition, with other, minor allies. This coalition proved unwieldy as the 2011 campaign progressed, however, though various forms of it will be retained in certain provinces for strategic purposes.<ref name=herald1>{{cite web|url=http://www.buenosairesherald.com/article/68956/i-dont-feel-guilty-says-alfons%C3%ADn-after-ucrsocialist-breakup|title=Alfonsín picks economist Javier González Fraga as running mate|work=Buenos Aires Herald}}</ref>
+
+===Front for Victory (incumbents)===
+The Front for Victory (FPV) candidate for the [[Justicialist Party]] primaries was current President [[Cristina Fernández de Kirchner]]. Her husband and predecessor, [[Néstor Kirchner]], was considered a top candidate to succeed her until his [[Death and state funeral of Néstor Kirchner|death on 27 October 2010]].<ref>{{cite web|url=http://english.aljazeera.net/news/americas/2010/10/2010102713264244362.html|title=Argentine ex-leader Kirchner dies|work=Al Jazeera News}}</ref>
+
+She had suffered a significant decline in approval during the [[2008 Argentine government conflict with the agricultural sector]] and the subsequent recession, and the ruling [[Front for Victory]] lost its absolute majority in both houses of Congress during the [[2009 Argentine legislative election|June 2009 mid-term elections]].<ref>{{cite news|url=https://news.bbc.co.uk/2/hi/americas/8123057.stm|title=Argentine head set for poll blow|work=BBC News | date=29 June 2009}}</ref> The economy, and her approval ratings, recovered steadily during 2010,<ref>{{cite web|url=http://www.urgente24.com/noticias/val/7823/poliarquia-cristina-comenzo-a-bajar-en-las-encuestas.html|title=Poliarquía: Cristina comenzó a bajar en las encuestas|work=Urgente24|access-date=4 June 2011|archive-url=https://web.archive.org/web/20110505232432/http://www.urgente24.com/noticias/val/7823/poliarquia-cristina-comenzo-a-bajar-en-las-encuestas.html|archive-date=5 May 2011|url-status=dead}}</ref> however, and the 2011 electoral season began with Fernández de Kirchner's job approval at around 58 percent,<ref>{{cite web|url=https://www.google.com/hostednews/epa/article/ALeqM5ghQ_2TZhTxJXDzIWu_8ckl4f_37g?docId=1536978|archive-url=https://archive.today/20130125140203/http://www.google.com/hostednews/epa/article/ALeqM5ghQ_2TZhTxJXDzIWu_8ckl4f_37g?docId=1536978|url-status=dead|archive-date=25 January 2013|title=La imagen positiva de Fernández sube a niveles de comienzos de su Gobierno|publisher=Agencia EFE}}</ref> with polling indicating that she would likely be reelected in the first round.<ref>{{cite web|url=http://www.elargentino.com/Content.aspx?Id=139201 |title=Cristina, en todas las encuestas, gana cómoda en primera vuelta |work=Diagonales |url-status=usurped |archive-url=https://web.archive.org/web/20160304122534/http://www.elargentino.com/Content.aspx?Id=139201 |archive-date=4 March 2016 }}</ref>
+
+She avoided committing herself to running for a second term during the early months of 2011.<ref name=economist>{{cite news|url=https://www.economist.com/the-americas/2011/05/26/will-she-wont-she|title=Will she, won't she?|newspaper=The Economist | date=26 May 2011}}</ref> Two days before the 23 June deadline, however, she announced her decision to run for reelection.<ref>{{cite web|url=http://www.buenosairesherald.com/article/70760/cfk-announces-she-will-be-seeking-reelection|title=CFK announces she will be seeking reelection|work=Buenos Aires Herald}}</ref> She nominated the nation's [[Minister of Economy of Argentina|Economy Minister]], [[Amado Boudou]], as her running mate on 25 June.<ref>{{cite web|url=http://www.clarin.com/politica/elecciones/elecciones_2011-candidato_a_vicepresidente-acto_Olivos-companero_formula_Cristina_0_505749697.html|title=Cristina eligió a Boudou como su compañero de fórmula|work=Clarín|date=25 June 2011 }}</ref> Their ticket won a landslide victory in the 14 August primaries, obtaining just over 50% and besting the runner-up (Alfonsín) by nearly 38%; they won in the City of Buenos Aires and in every province except [[San Luis Province|San Luis]] (won by Rodríguez Saá).<ref name=cnn1>{{cite news|url=http://articles.cnn.com/2011-08-15/world/argentina.primary_1_primary-vote-president-cristina-fernandez-peronist?_s=PM:WORLD|title=Fernández wins Argentina primary, looks poised for re-election|publisher=CNN|access-date=21 June 2012|archive-url=https://web.archive.org/web/20110916214854/http://articles.cnn.com/2011-08-15/world/argentina.primary_1_primary-vote-president-cristina-fernandez-peronist?_s=PM:WORLD|archive-date=16 September 2011|url-status=dead}}</ref>
+
+Support for Fernández de Kirchner was strongest among the poor (65.2%) and those aged 30 to 44 (54.6%). Her support was weakest among the upper middle class (43.5%), though she remained over 24% ahead of the runner-up (Binner) among those polled within that segment.<ref name=laborda>{{cite news|url=http://www.lanacion.com.ar/1415547-como-sera-el-voto-a-la-oposicion|title=Cómo será el voto a la oposición|work=La Nación}}</ref>
+
+===Federal Peronists===
+The leaders of the center-right [[Federal Peronism]] were torn between running for primary elections within the PJ against the Front for Victory, or running instead in the general election through another political alliance. Former President [[Eduardo Duhalde]] was the first to informally start his pre-candidacy campaign, announcing hypothetical cabinet picks as early as December 2009.<ref>{{cite web|url=http://tn.com.ar/politica/00027483/eduardo-duhalde-anuncio-a-su-posible-gabinete|title=Eduardo Duhalde anunció a su posible Gabinete|work=TN Noticias|access-date=22 June 2011|archive-date=9 May 2013|archive-url=https://web.archive.org/web/20130509174826/http://tn.com.ar/politica/eduardo-duhalde-anuncio-a-su-posible-gabinete_027483|url-status=dead}}</ref> The Governors of [[Chubut Province|Chubut]], [[Mario Das Neves]], and of [[San Luis Province|San Luis]], [[Alberto Rodríguez Saá]], as well as former Governor of Buenos Aires Province [[Felipe Solá]], also stated their intention to run for president. Das Neves became the first Federal Peronist to drop out, while Solá boosted his own prospects by securing an alliance with the conservative [[Republican Proposal]] (PRO) on 16 May.<ref name=razon>{{cite web|url=http://www.larazon.com.ar/economia/PRO-iria-Sola-candidato_0_240900017.html|title=El PRO iría con Solá de candidato|work=La Razón|access-date=30 May 2011|archive-url=https://web.archive.org/web/20110927214635/http://www.larazon.com.ar/economia/PRO-iria-Sola-candidato_0_240900017.html|archive-date=27 September 2011|url-status=dead}}</ref> Duhalde narrowly defeated Rodríguez Saá in a Buenos Aires Federal Peronism primary held on 22 May, though both men remained front-runners for their party's nomination.<ref>{{cite web|url=http://www.buenosairesherald.com/article/63425/higher-turnout-than-expected-in-federal-peronism-regional-primaries|title=Duhalde beats Rodríguez Saá in dissident PJ primaries by narrow margin|work=Buenos Aires Herald}}</ref> Ultimately, each ran on separate Federal Peronist tickets.
+
+Duhalde formally announced his [[Unión Popular|Popular Union]] candidacy on 9 June, nominating Das Neves as his running mate.<ref>{{cite web|url=http://www.buenosairesherald.com/article/69617/eduardo-duhalde-officially-launches-presidential-campaign|title=Eduardo Duhalde officially launches presidential campaign|work=Buenos Aires Herald}}</ref> Rodríguez Saá, in turn, nominated former [[List of Governors of Santa Fe|Santa Fe Governor]] [[José María Vernet]] as his running mate on his Federal Commitment ticket.<ref>{{cite web|url=http://www.buenosairesherald.com/article/71078/vernet-confirms-he-will-be-rodr%C3%ADguez-sa%C3%A1%E2%80%99s-running-mate|title=Vernet confirms he will be Rodríguez Saá's running mate|work=Buenos Aires Herald}}</ref> Solá, who struggled in the polls, withdrew on 11 June, encouraging local candidates in his fold to form alliances with Duhalde and the party's candidate for Buenos Aires Governor, [[Francisco de Narváez]].<ref>{{cite news|url=http://www.lanacion.com.ar/1380708-felipe-sola-descarto-pelear-por-la-casa-rosada|title=Felipe Solá descartó pelear por la Casa Rosada|work=La Nación}}</ref> De Narváez later endorsed Rodríguez Saá.<ref name=juntos>{{cite web|url=http://www.elargentino.com/nota-161323-Rodriguez-Saa-y-De-Narvaez-juntos-y-de-campana.html |title=Rodríguez Saá y De Narváez, juntos y de campaña |work=El Argentino |url-status=usurped |archive-url=https://web.archive.org/web/20160304122945/http://www.elargentino.com/nota-161323-Rodriguez-Saa-y-De-Narvaez-juntos-y-de-campana.html |archive-date=4 March 2016 }}</ref>
+
+Support for Duhalde was strongest among the working class (14.2%) and weakest among young voters (3.9%).<ref name=laborda/> Rodríguez Saá polled best among upper middle class voters (14%) and those age 30 to 44 (11.9%); worst among the poor.<ref name=laborda/>
+
+===Radical Civic Union===
+The center-left [[Radical Civic Union]] had scheduled primaries for 28 April. Both [[Ricardo Alfonsín]], son of the late former President [[Raúl Alfonsín]], and current party leader [[Ernesto Sanz]] started pre-candidacy campaigns; Sanz, however, dropped out on 28 April. [[Vice President of Argentina|Vice President]] [[Julio Cobos]], considered a likely UCR primary candidate, had stated his intention to run only in August, during the coalition primaries; he dropped out in April as well.<ref name=economist/>
+
+The UCR and the [[Socialist Party (Argentina)|Socialist Party]] (partners in the Civic and Social Agreement) parted ways in May 2011, with Alfonsín and [[Santa Fe Province|Santa Fe]] Governor [[Hermes Binner]] running on separate slates for the primaries in August, and likely in the general election, as well.<ref name=herald1/> Alfonsín secured an alliance with Federal Peronist candidate Francisco de Narváez in [[Buenos Aires Province]],<ref name=recado>{{cite web|url=http://elrecado.net/politica/5020-de-narvaez-seria-el-gobernador-de-alfonsin|title=de Narváez sería el gobernador de Alfonsín|work=El Reacado|access-date=4 June 2011|archive-date=2 April 2012|archive-url=https://web.archive.org/web/20120402011506/http://elrecado.net/politica/5020-de-narvaez-seria-el-gobernador-de-alfonsin|url-status=usurped}}</ref> De Narváez ran for governor with his senior partner's endorsement in return for his support for Alfonsín's presidential campaign.<ref name=recado/><ref name=ambito/> Alfonsín nominated former [[Central Bank of Argentina|Central Bank]] President [[Javier González Fraga]], a non-partisan economist close to both the UCR and Federal Peronism, as his running-mate on 2 June.<ref name=herald1/>
+
+De Narváez withdrew his endorsement of Alfonsín in favor of Rodríguez Saá following the 14 August primaries,<ref name=juntos/> though he continued his campaign for Governor of Buenos Aires with Alfonsín's endorsement.<ref>{{cite web|url=http://www.diariolavozdezarate.com/2011/10/optimismo-de-udeso-de-cara-a-las-elecciones-de-octubre/|title=Optimismo de UDESO de cara a las elecciones de octubre|work=La Voz}}</ref>
+
+Alfonsín's support was strongest among those age 45 to 59 (14.6%), and weakest among young voters (5.3%).<ref name=laborda/>
+
+===Socialists===
+Binner endorsed GEN leader [[Margarita Stolbizer]] for Governor of Buenos Aires following his break with Alfonsín,<ref name=ambito>{{cite web|url=http://www.ambito.com/diario/noticia.asp?id=585825|title=Frente progresista ya ensaya fórmula Binner-Stolbizer|work=Ámbito Financiero|access-date=4 June 2011|archive-date=18 March 2012|archive-url=https://web.archive.org/web/20120318235347/http://www.ambito.com/diario/noticia.asp?id=585825|url-status=dead}}</ref> and formally announced his [[Broad Progressive Front (Argentina)|Broad Progressive Front]] candidacy on 11 June; he nominated [[Córdoba Province (Argentina)|Córdoba]] Senator [[Norma Morandini]] as his running mate.<ref>{{cite web|url=http://www.buenosairesherald.com/article/69771/binner-launches-candidacy-for-president|title=Binner officializes presidential candidacy, Morandini running mate|work=Buenos Aires Herald}}</ref> His alliance with [[Pino Solanas]] was dissolved the following week, however, and the [[Proyecto Sur]] leader instead joined a coalition of minor, left-wing parties.<ref name=m24b/>
+
+Binner, despite obtaining fourth place, fared better than expected by local analysts in the 14 August primary,<ref>{{cite web|url=http://www.milenio.com/cdb/doc/noticias2011/35827121af07a8b13c03cbc2bbb05745|title=Sondeos pronostican amplio triunfo de Cristina Fernández|work=Milenio}}</ref> and became the runner-up in subsequent polls. His support was strongest among the middle (18.8%) and upper middle classes (18.9%), while weakest among the poor (6.5%); among the broad age groups, voters 30 to 44 were the most supportive (19.3%).<ref name=laborda/>
+
+===Civic Coalition===
+The leader of the centrist [[Civic Coalition (Argentina)|Civic Coalition]], [[Elisa Carrió]], reversed her earlier intention to opt out of the 2011 race, and following the departure of her Civic Coalition from the [[Civic and Social Agreement]] formed in 2009 with the UCR, she announced her candidacy for president on 12 December 2010.<ref>{{cite web|url=http://www.elisacarrio.com.ar/index.asp?seccion=visor_noticia&id=320&descripcion=Sala |title=Se lanzó la candidatura de Carrió-Pérez |publisher=Coalición Cívica |url-status=dead |archive-url=https://web.archive.org/web/20110629194658/http://www.elisacarrio.com.ar/index.asp?seccion=visor_noticia&id=320&descripcion=Sala |archive-date=29 June 2011 }}</ref> Carrió withdrew her presidential bid following a poor showing in the 14 August primaries, where she obtained 3%.<ref>{{cite web|url=http://www.buenosairesherald.com/article/76040/after-18-years-i-no-longer-have-power-carri%C3%B3-says|title='After 18 years, I no longer have power,' Carrió says|work=Buenos Aires Herald}}</ref>
+
+===Other candidates===
+Numerous other candidates, or potential candidates, dropped out in May 2011, notably Buenos Aires Mayor [[Mauricio Macri]], who instead sought a second term as mayor, and left-wing film maker [[Fernando Solanas]] (who ran unsuccessfully for the same post).<ref name=m24a/> Solanas nominated Congresswoman [[Alcira Argumedo]] as [[Proyecto Sur]]'s candidate for president on 22 June.<ref>{{cite web|url=http://www.buenosairesherald.com/article/70871/proyecto-sur-breaks-off-with-progressive-front|title=Proyecto Sur breaks off with Progressive Front|work=Buenos Aires Herald}}</ref> The 14 August primary effectively ended Argumedo's campaign, as well as those of Neighbors' Action Movement (MAV) candidate Sergio Pastore, and People's Countryside Party (PCP) candidate José Bonacci; neither had reached the requisite 1.5% threshold needed to advance to the general election.<ref name=baherald/>
+
+The candidate for the [[Workers' Left Front]] (FIT), [[Jorge Altamira]], fared unexpectedly well and advanced to the general election.<ref>{{cite web|url=http://www.buenosairesherald.com/article/75992/altamira-weve-reached-our-aim-dedicates-it-to-mariano-ferreyra|title=Altamira: 'We've reached our aim', dedicates it to Mariano Ferreyra|work=Buenos Aires Herald}}</ref> Altamira polled best among the poor (7.9%) and among the upper middle class (5.4%).<ref name=laborda/>
+
+==Opinion polls==
+Numerous consulting firms conducted polling throughout the campaign, whereby respondents chose from a number of declared or potential first-round candidates.
+{| class="wikitable"
+! Pollster !! Date published !! [[Ricardo Alfonsín|Alfonsín]] !! [[Hermes Binner|Binner]] !! [[Elisa Carrió|Carrió]] !! [[Eduardo Duhalde|Duhalde]] !![[Cristina Fernández de Kirchner|Fernández de Kirchner]] !! [[Mauricio Macri|Macri]] !![[Alberto Rodríguez Saá|Rodríguez Saá]]!! Others !! DK/NR !! Source
+|-
+|Ibarómetro||12 January||12.1|| – || – ||10.4||40.0||8.7|| – ||4.2|| – ||[https://web.archive.org/web/20111003095321/http://www.argentina.ar/_es/pais/C6169-encuesta-cristina-fernandez-se-impone-como-referente.php]
+|-
+|Opinión Autenticada||9 March||11.6|| – ||3.9||7.2||30.5||12.6||3.1||19.4||11.7||[http://www.perfil.com/contenidos/2011/03/09/noticia_0025.html]
+|-
+|Aresco||7 April||9.6|| – ||6.6||14.2||49.9||12.7|| – ||6.9|| – ||[https://web.archive.org/web/20120325000043/http://www.doloresdiario.com.ar/columnas_393.html]
+|-
+|Equis||28 April||6.1|| – ||2.4||5.3||44.0||11.1|| – ||14.4||16.9||[https://web.archive.org/web/20110904023942/http://www.aninoticias.com/noticia.php?id_noticia=31957]
+|-
+|Aresco||16 May||10.8|| – ||7.2||15.3||45.1||*|| – || – || – ||[https://web.archive.org/web/20110530215809/http://www.elsigloweb.com/nota.php?id=69864]
+|-
+|Ibarómetro||16 May||12.0|| – || – || – ||44.6||9.9*||9.0|| – || – ||{{usurped|1=[https://web.archive.org/web/20160304122534/http://www.elargentino.com/Content.aspx?Id=139201]}}
+|-
+|OPSM||16 May||18.4|| – ||5.1||11.1||41.7||*||7.3|| – || – ||{{usurped|1=[https://web.archive.org/web/20160304122534/http://www.elargentino.com/Content.aspx?Id=139201]}}
+|-
+|Ricardo Rouvier||16 May||22.3|| – ||4.8||6.6||49.8||*||6.0|| – || – ||{{usurped|1=[https://web.archive.org/web/20160304122534/http://www.elargentino.com/Content.aspx?Id=139201]}}
+|-
+|Isonomía||25 May||12.6||5.6||8.0||10.1||41.2||*||5.4||9.3|| – ||[https://web.archive.org/web/20110528055812/http://www.diarioregistrado.com/Politica-nota-49658-Otra-encuesta-da-como-ganadora-a-Cr.html#D]
+|-
+|OPSM||7 June||14.6||13.4||4.8||9.7||40.8||*||8.2|| – ||10.5||[http://www.eldiario24.com/nota.php?id=223712]
+|-
+|CEOP||12 June||12.8||4.3||5.9||7.5||48.2||*||5.5||4.5||8.4||[http://www.pagina12.com.ar/diario/elpais/1-169966-2011-06-12.html]
+|-
+|Management & Fit||12 June||15.3||5.1||4.0||5.8||33.4||*||7.0||1.1||23.5||{{Deprecated archive|url=https://archive.today/20130126113600/http://www.infolatam.com/2011/06/12/argentina-cae-la-intencion-de-voto-de-cristina-fernandez/}}
+|-
+|Nueva Comunicación||14 June||16.7||8.0||8.0||12.3||34.3||*||8.0||3.7||9.3||[https://web.archive.org/web/20110620162124/http://www.urgente24.com/noticias/val/10066-7/nueva-encuesta-consolida-el-dato-que-habra-2da-vuelta-para-presidente.html]
+|-
+|Aresco||20 June||14.0||7.5||6.9||16.3||40.5||*||5.1||9.7|| – ||[https://web.archive.org/web/20111006225601/http://www.elintransigente.com/notas/2011/6/20/encuestas-preven-ballotage-entre-macri-filmus-88428.asp]
+|-
+|Aresco||28 July||15.3||6.9||8.2||21.1||36.1||*||3.6||8.8|| – ||[http://argentinaelecciones.com/noticia-encuesta-presidencial-aresco-julio-1105.html] {{Webarchive|url=https://web.archive.org/web/20120425034542/http://www.argentinaelecciones.com/noticia-encuesta-presidencial-aresco-julio-1105.html |date=25 April 2012 }}
+|-
+|Graciela Römer & Asoc.||1 August||15.9||6.3||5.5||9.9||40.4||*||4.1||1.0||16.9||[http://www.clarin.com/politica/encuestas-Alfonsin-segundo-detras-Cristina_0_529147135.html]
+|-
+|Opinión Autenticada||1 August||19.7||5.2||4.0||13.1||38.1||*||6.1||1.1||12.0||[http://www.clarin.com/politica/encuestas-Alfonsin-segundo-detras-Cristina_0_529147135.html]
+|-
+|Equis||28 August||8.2||13.4||1.4*||7.6||52.1||*||9.9||4.8||2.6||[http://www.pagina12.com.ar/diario/elpais/subnotas/175537-55401-2011-08-28.html]
+|-
+|Nueva Comunicación||12 September||7.6||15.8||1.5*||9.1||51.7||*||8.8||1.7||3.8||[https://web.archive.org/web/20120405102034/http://notio.com.ar/elecciones-2011/para-los-encuestadores-cristina-sigue-creciendo-18237]
+|-
+|OPSM||2 October||9.8||13.9||3.5*||5.7||45.7||*||8.5||2.5||10.4||[http://www.pagina12.com.ar/diario/elpais/1-178045-2011-10-02.html]
+|-
+|Analogías||3 October||9.0||13.2||1.1*||6.8||52.9||*||5.2||--||12.0||[http://www.eltribuno.info/salta/80472-Cristina-Fernandez-crece-y-la-oposicion-ya-no-confronta.note.aspx]
+|-
+|Equis||7 October||7.8||14.8||1.4*||6.5||52.6||*||10.6||1.1||4.8||{{usurped|1=[https://web.archive.org/web/20111009165158/http://tiempo.elargentino.com/notas/cristina-supera-55-de-intencion-de-voto-y-desplaza-los-opositores]}}
+|-
+|Giacobbe & Asoc.||21 October||9.1||16.6||*||7.9||53.1||*||10.2||3.1||--||[https://web.archive.org/web/20120420004237/http://www.lavozdelpueblo.com.ar/interior.php?ar_id=65687]
+|}<nowiki> </nowiki><small>''* Withdrew''</small>
+
+===Favourability===
+A poll conducted by Mora y Araujo for [[Ipsos]] on 28 September revealed favourability and unfavourability ratings for six of the seven candidates appearing on the general election ballot.<ref name=laborda/>
+{| class="wikitable sortable"
+! Candidate !! Favorable !! Unfavorable !! Neither/NR !! Net Approval
+|-
+|'''[[Ricardo Alfonsín]]'''||29%||61%||10%||−32%
+|-
+|'''[[Hermes Binner]]'''||39%||32%||29%||7%
+|-
+|'''[[Elisa Carrió]]'''||15%||74%||11%||−59%
+|-
+|'''[[Eduardo Duhalde]]'''||21%||74%||5%||−53%
+|-
+|'''[[Cristina Fernández de Kirchner]]'''||65%||33%||2%||32%
+|-
+|'''[[Alberto Rodríguez Saá]]'''||40%||46%||14%||−6%
+|}
+
+== Results ==
+=== Primary elections ===
+[[Primary elections in Argentina|Open primary]] elections for the Presidency were held nationwide on 14 August.
+
+With this system, all parties run primary elections in a same general elections. All parties must take part in it, both the parties with internal factions and parties with a single candidate list. Citizens may vote for any candidate of any party, but may only cast a single vote. The most voted candidate of parties gaining 1.5% or higher of the valid votes will be allowed to run in the main elections.
+
+{{Election results
+|cand1=[[Cristina Fernández de Kirchner]]|vp1=[[Amado Boudou]]|party1=[[Front for Victory]]|votes1=10762217|rcolor1=#cfc
+|cand2=[[Ricardo Alfonsín]]|vp2=[[Javier González Fraga]]|party2=[[Radical Civic Union|Union for Social Development]]|votes2=2614211|rcolor2=#cfc
+|cand3=[[Eduardo Duhalde]]|vp3=[[Mario Das Neves]]|party3=[[Federal Peronism|Popular Front]]|votes3=2595996|rcolor3=#cfc
+|cand4=[[Hermes Binner]]|vp4=[[Norma Morandini]]|party4=[[Broad Progressive Front (Argentina)|Broad Progressive Front]]|votes4=2180110|rcolor4=#cfc
+|cand5=[[Alberto Rodríguez Saá]]|vp5=[[José María Vernet]]|party5=[[Federal Commitment]]|votes5=1749971|rcolor5=#cfc
+|cand6=[[Elisa Carrió]]|vp6=Adrián Pérez|party6=[[Civic Coalition ARI]]|votes6=689033|rcolor6=#cfc
+|cand7=[[Jorge Altamira]]|vp7=[[Christian Castillo (politician)|Christian Castillo]]|party7=[[Workers' Left Front]]|votes7=527237|rcolor7=#cfc
+|cand8=[[Alcira Argumedo]]|vp8=Jorge Cardelli|party8=[[Proyecto Sur]]|votes8=190094
+|cand9=Sergio Pastore|vp9=Gilda Rodríguez|party9=[[Neighbourhood Action Movement]]|votes9=65031
+|cand10=José Bonacci|vp10=José Villena|party10=[[People's Countryside Party]]|votes10=48774
+|row11=Blank votes|votes11=1007753
+|invalid=274951
+|electorate=28861216
+|source=DINE<ref>{{Cite web|url=https://recorriendo.elecciones.gob.ar/presidente2011paso.html#/3/1|title=Recorriendo las Elecciones de 1983 a 2013 - Presidenciales PASO|website=Dirección Nacional Electoral|access-date=27 September 2017|archive-date=26 June 2022|archive-url=https://web.archive.org/web/20220626144024/https://recorriendo.elecciones.gob.ar/presidente2011paso.html#/3/1|url-status=dead}}</ref>
+}}
+
+===President===
+[[File:Boletas electorales - Elecciones presidenciales de Argentina de 2011.jpg|thumb|upright|alt=|Ballot papers for the presidential election.]]
+The president and vice-president were [[Direct election|chosen directly]] in a [[two-round system]] election. Candidates who obtained less than 1.5% during the preliminary round on 14 August were excluded from the general election on 23 October.<ref name=baherald>{{cite web|url=http://www.buenosairesherald.com/article/76011/argumedo-pastore-and-bonacci-become-the-first-casualties-in-the-presidential-race|title=Argumedo, Pastore and Bonacci become the first casualties in the presidential race|work=Buenos Aires Herald}}</ref>
+
+Early results on election night awarded incumbent president Cristina Fernández de Kirchner of the [[Front for Victory]] (FPV) a second, four-year term. Winning in the City of Buenos Aires and every province except [[San Luis Province|San Luis]] (won by [[Federal Peronism|Federal Commitment]] candidate [[Alberto Rodríguez Saá]]),<ref name=dne>{{cite web|url=http://www.elecciones2011.gov.ar/paginas/paginas/dat99/DPR99999A.htm |title=Elecciones Nacionales: Presidente |publisher=Dirección Nacional Electoral |url-status=dead |archive-url=https://web.archive.org/web/20120906050456/http://www.elecciones2011.gov.ar/paginas/paginas/dat99/DPR99999A.htm |archive-date=6 September 2012 }}</ref> she became the first candidate to obtain an absolute majority of the popular vote (54%) since [[Raúl Alfonsín]] in 1983, and upon completion of ballot processing, the margin of victory (37.1%) exceeded [[Juan Perón]]'s record 36% margin obtained in 1973.<ref>{{cite web|url=http://www.mininterior.gov.ar/asuntos_politicos_y_alectorales/dinap/publicaciones/HistoriaElectoralArgentina.pdf|title=Historia Electoral Argentina|publisher=Ministerio del Interior}}</ref> Fernández de Kirchner became the first woman re-elected as head of state in Latin American history.<ref>{{cite web|url=http://www.nbcnews.com/id/45006572|archive-url=https://web.archive.org/web/20200717154154/http://www.nbcnews.com/id/45006572|url-status=dead|archive-date=17 July 2020|title=Argentine president wins landslide re-election|work=NBC News|date=23 October 2011 }}</ref>
+
+{{Election results
+|cand1=[[Cristina Fernández de Kirchner]]|vp1=[[Amado Boudou]]|party1=[[Front for Victory]]|votes1=11865055
+|cand2=[[Hermes Binner]]|vp2=[[Norma Morandini]]|party2=[[Broad Progressive Front (Argentina)|Broad Progressive Front]]|votes2=3684970
+|cand3=[[Ricardo Alfonsín]]|vp3=[[Javier González Fraga]]|party3=[[Radical Civic Union|Union for Social Development]]|votes3=2443016
+|cand4=[[Alberto Rodríguez Saá]]|vp4=[[José María Vernet]]|party4=[[Federal Commitment]]|votes4=1745354
+|cand5=[[Eduardo Duhalde]]|vp5=[[Mario Das Neves]]|party5=[[Federal Peronism|Popular Front]]|votes5=1285830
+|cand6=[[Jorge Altamira]]|vp6=[[Christian Castillo (politician)|Christian Castillo]]|party6=[[Workers' Left Front]]|votes6=503372
+|cand7=[[Elisa Carrió]]|vp7=Adrián Pérez|party7=[[Civic Coalition ARI]]|votes7=399685
+|blank=803362
+|invalid=225741
+|electorate=28916183
+|source=DINE,<ref>{{Cite web|url=https://recorriendo.elecciones.gob.ar/presidente2011.html#/3/1|title=Recorriendo las Elecciones de 1983 a 2013 - Presidenciales|website=Dirección Nacional Electoral|access-date=27 September 2017|archive-date=28 September 2017|archive-url=https://web.archive.org/web/20170928005549/https://recorriendo.elecciones.gob.ar/presidente2011.html#/3/1|url-status=dead}}</ref> Ministry of the Interior<ref name="results">{{Cite web |title=Resultados Nacionales 2011 Total País |url=http://www.elecciones.gov.ar/estadistica/archivos/2011_nacionales/resultados_nacionales_2011_total_pais.pdf |archive-url=https://web.archive.org/web/20120105113838/http://www.elecciones.gov.ar/estadistica/archivos/2011_nacionales/resultados_nacionales_2011_total_pais.pdf |archive-date=5 January 2012 |website=Ministry of the Interior }}</ref>
+}}
+
+=== Chamber of Deputies ===
+
+All 23 [[Provinces of Argentina|provinces]] and the city of [[Autonomous City of Buenos Aires|Buenos Aires]] held elections to renew half of the [[Argentine Chamber of Deputies|Chamber of Deputies]] (lower house). Each province and the autonomous city elects a number of [[at-large]] representatives on a [[party list]] system roughly proportional to their population, and no province is allotted fewer than five Deputies. The system used to know how many deputies per party in each district is [[D'Hondt method]].
+
+Early projections suggested that President Cristina Kirchner's FpV would increase their representation in the Lower House from 87 seats (out of 257),<ref name=congress>{{cite web|url=http://www.clarin.com/politica/elecciones/camaras-elecciones_CLAFIL20111022_0002.jpg|title=Cómo están las cámaras antes de las elecciones|work=Clarín}}</ref> to around 116; the presence of an estimated ten allies would put them three votes shy of an absolute majority.<ref name=tiempo>{{cite web|url=http://tiempo.elargentino.com/notas/congreso-final-para-grupo-y-presidencia-opositora-senado |title=Congreso: final para el Grupo A y la presidencia opositora en el Senado |work=Tiempo Argentino |url-status=usurped |archive-url=https://web.archive.org/web/20111026115656/http://tiempo.elargentino.com/notas/congreso-final-para-grupo-y-presidencia-opositora-senado |archive-date=26 October 2011 }}</ref>
+
+{{Election results|seattype1=Won|seattype2=Total
+|alliance1=[[Front for Victory]]|aspan1=7|party1=[[Front for Victory]]|votes1=10121281|st1t1=76|st2t1= 
+|party2=[[Civic Front for Santiago]]|votes2=280201|st1t2=4|st2t2= 
+|party3=[[Front for the Renewal of Concord]]|votes3=249429|st1t3=3|st2t3= 
+|party4=[[Humanist Party (Argentina)|Humanist Party]]|votes4=88347|st1t4=1|st2t4= 
+|party5=[[Justicialist Party]]|votes5=11695|st1t5=1|st2t5= 
+|party6=Popular Encounter|votes6=6851|st1t6=0|st2t6= 
+|atotal7=10757804|ast1t7=85|ast2t7= 
+|alliance8=[[Radical Civic Union|Union for Social Development]]|aspan8=5|party8=[[Radical Civic Union|Union for Social Development]]|votes8=1619602|st1t8=10|st2t8= 
+|party9=[[Radical Civic Union]]|votes9=1061504|st1t9=5|st2t9= 
+|party10=[[Progressive, Civic and Social Front|Civic and Social Front]]|votes10=93442|st1t10=1|st2t10= 
+|party11=[[Federal Party (Argentina, 1973)|Federal Party]]|votes11=16416|st1t11=0|st2t11= 
+|atotal12=2790964|ast1t12=16|ast2t12= 
+|alliance13=[[Broad Progressive Front (Argentina)|Broad Progressive Front]]|aspan13=5|party13=[[Broad Progressive Front (Argentina)|Broad Progressive Front]]|votes13=2568457|st1t13=14|st2t13= 
+|party14=[[Socialist Party (Argentina)|Socialist Party]]|votes14=158588|st1t14=0|st2t14= 
+|party15=[[Generation for a National Encounter]]|votes15=40314|st1t15=0|st2t15= 
+|party16=[[Freemen of the South Movement]]|votes16=13625|st1t16=0|st2t16= 
+|atotal17=2780984|ast1t17=14|ast2t17= 
+|alliance18=[[Federal Commitment]]|aspan18=5|party18=[[Federal Commitment]]|votes18=1192771|st1t18=6|st2t18= 
+|party19={{ill|Independent Movement of Justice and Dignity|es|Movimiento Independiente de Justicia y Dignidad|lt=Independent Movement of Retirees and Unemployed}}|votes19=59668|st1t19=0|st2t19= 
+|party20=Provincial Union|votes20=20494|st1t20=0|st2t20= 
+|party21={{ill|Partido Es Posible|es}}|votes21=5684|st1t21=0|st2t21= 
+|atotal22=1278617|ast1t22=6|ast2t22= 
+|alliance23=[[Federal Peronism|Popular Front]]|aspan23=13|party23=[[Federal Peronism|Popular Front]]|votes23=729920|st1t23=2|st2t23= 
+|party24=[[Federal Popular Union|Popular Union]]|votes24=132131|st1t24=0|st2t24= 
+|party25=[[People's Reconstruction Party]]|votes25=52277|st1t25=0|st2t25= 
+|party26=Salta Front|votes26=50894|st1t26=0|st2t26= 
+|party27=Autonomist Party|votes27=45629|st1t27=0|st2t27= 
+|party28=Independent Party of Chubut|votes28=45351|st1t28=0|st2t28= 
+|party29=[[Christian Democratic Party (Argentina)|Christian Democratic Party]]|votes29=24590|st1t29=0|st2t29= 
+|party30=Tucumán Popular Change|votes30=21161|st1t30=0|st2t30= 
+|party31=Independent Renewal Movement|votes31=14924|st1t31=0|st2t31= 
+|party32=[[Integration and Development Movement]]|votes32=3517|st1t32=0|st2t32= 
+|party33=Fortress Party|votes33=1531|st1t33=0|st2t33= 
+|party34=Federal Republican Agreement|votes34=1344|st1t34=0|st2t34= 
+|atotal35=1123269|ast1t35=2|ast2t35= 
+|alliance36=[[Civic Coalition ARI]]|aspan36=4|party36=[[Civic Coalition ARI]]|votes36=599966|st1t36=1|st2t36= 
+|party37=Citizen Participation Movement|votes37=9716|st1t37=0|st2t37= 
+|party38={{ill|Union for Liberty|es|Unión por la Libertad}}|votes38=8065|st1t38=0|st2t38= 
+|atotal39=617747|ast1t39=1|ast2t39= 
+|alliance40=[[Workers' Left Front]]|aspan40=4|party40=[[Workers' Left Front]]|votes40=499557|st1t40=0|st2t40= 
+|party41=[[Workers' Party (Argentina)|Workers' Party]]|votes41=61638|st1t41=0|st2t41= 
+|party42=[[Socialist Left (Argentina)|Socialist Left]]|votes42=28919|st1t42=0|st2t42= 
+|atotal43=590114|ast1t43=0|ast2t43= 
+|alliance44=[[Republican Proposal]]|votes44=427429|st1t44=3|st2t44= 
+|alliance45=[[Neuquén People's Movement]]|votes45=88197|st1t45=1|st2t45= 
+|alliance46=[[Proyecto Sur]]|aspan46=4|party46=[[Proyecto Sur]]|votes46=33229|st1t46=0|st2t46= 
+|party47=[[Workers' Socialist Movement (Argentina)|Workers' Socialist Movement]]|votes47=9937|st1t47=0|st2t47= 
+|party48=South Encounter|votes48=4720|st1t48=0|st2t48= 
+|atotal49=47886|ast1t49=0|ast2t49= 
+|alliance50=Rioja Popular Front|votes50=42736|st1t50=1|st2t50= 
+|alliance51=Jujuy First Front|votes51=25025|st1t51=0|st2t51= 
+|alliance52=[[Fuegian People's Movement]]|votes52=13788|st1t52=1|st2t52= 
+|alliance53=Citizen Dignity|votes53=7491|st1t53=0|st2t53= 
+|alliance54=[[Patagonian Social Party]]|votes54=4712|st1t54=0|st2t54= 
+|alliance55=Popular Party of Tierra del Fuego|votes55=1363|st1t55=0|st2t55= 
+|alliance56=City in Action Party|votes56=947|st1t56=0|st2t56= 
+|blank=2138970
+|invalid=217232
+|electorate=28916230
+|source=DINE,<ref>{{Cite web |url=https://recorriendo.elecciones.gob.ar/diputados2011.html#/ |title=Recorriendo las Elecciones de 1983 a 2013 - Diputados Nacionales |website=Dirección Nacional Electoral |access-date=9 February 2021 |archive-date=1 December 2020 |archive-url=https://web.archive.org/web/20201201020558/https://recorriendo.elecciones.gob.ar/diputados2011.html#/ |url-status=dead }}</ref> Ministry of the Interior<ref name="results"/>
+}}
+
+==== Results by province ====
+{| class="wikitable sortable plainrowheaders" style="text-align:right;"
+! rowspan=2|Province
+! colspan=3|FPV
+! colspan=3|UDESO
+! colspan=3|FAP
+! colspan=3|CF
+! colspan=3|Others
+|-
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+|-
+! scope=row|[[Buenos Aires Province|Buenos Aires]]
+| bgcolor=lightblue|'''4,592,054'''
+| bgcolor=lightblue|'''57.10'''
+| bgcolor=lightblue align=center|'''22'''
+| 928,027
+| 11.54
+| align=center|4
+| 1,043,165
+| 12.97
+| align=center|5
+| 447,291
+| 5.56
+| align=center|2
+| 1,031,907
+| 12.83
+| align=center|2
+|-
+! scope=row|[[Buenos Aires City]]
+| bgcolor=lightblue|'''548,305'''
+| bgcolor=lightblue|'''29.16'''
+| bgcolor=lightblue align=center|'''5'''
+| 132,049
+| 7.02
+| align=center|1
+| 316,476
+| 16.83
+| align=center|2
+| 108,663
+| 5.78
+| align=center|—
+| 774,733
+| 41.20
+| align=center|4
+|-
+! scope=row|[[Catamarca Province|Catamarca]]
+| bgcolor=lightblue|'''123,706'''
+| bgcolor=lightblue|'''68.42'''
+| bgcolor=lightblue align=center|'''2'''
+| 40,338
+| 22.31
+| align=center|—
+| 7,312
+| 4.04
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 9,440
+| 5.22
+| align=center|—
+|-
+! scope=row|[[Chaco Province|Chaco]]
+| bgcolor=lightblue|'''323,418'''
+| bgcolor=lightblue|'''62.06'''
+| bgcolor=lightblue align=center|'''2'''
+| 115,254
+| 22.11
+| align=center|1
+| 35,439
+| 6.80
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 47,053
+| 9.03
+| align=center|—
+|-
+! scope=row|[[Chubut Province|Chubut]]
+| bgcolor=lightblue|'''153,206'''
+| bgcolor=lightblue|'''60.68'''
+| bgcolor=lightblue align=center|'''3'''
+| 31,900
+| 12.63
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 8,197
+| 3.25
+| align=center|—
+| 59,176
+| 23.44
+| align=center|—
+|-
+! scope=row|[[Córdoba Province, Argentina|Córdoba]]
+| bgcolor=lightblue|'''633,868'''
+| bgcolor=lightblue|'''34.97'''
+| bgcolor=lightblue align=center|'''4'''
+| 368,463
+| 20.33
+| align=center|2
+| 366,754
+| 20.23
+| align=center|2
+| 215,816
+| 11.91
+| align=center|1
+| 227,809
+| 12.57
+| align=center|—
+|-
+! scope=row|[[Corrientes Province|Corrientes]]
+| bgcolor=lightblue|'''294,306'''
+| bgcolor=lightblue|'''65.82'''
+| bgcolor=lightblue align=center|'''3'''
+| 86,120
+| 19.26
+| align=center|1
+| 24,878
+| 5.56
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 41,867
+| 9.36
+| align=center|—
+|-
+! scope=row|[[Entre Ríos Province|Entre Ríos]]
+| bgcolor=lightblue|'''340,282'''
+| bgcolor=lightblue|'''58.72'''
+| bgcolor=lightblue align=center|'''3'''
+| 104,565
+| 18.05
+| align=center|1
+| 85,138
+| 14.69
+| align=center|—
+| 20,494
+| 3.54
+| align=center|—
+| 28,983
+| 5.00
+| align=center|—
+|-
+! scope=row|[[Formosa Province|Formosa]]
+| bgcolor=lightblue|'''183,412'''
+| bgcolor=lightblue|'''79.75'''
+| bgcolor=lightblue align=center|'''3'''
+| 43,694
+| 19.00
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 2,875
+| 1.25
+| align=center|—
+|-
+! scope=row|[[Jujuy Province|Jujuy]]
+| bgcolor=lightblue|'''152,726'''
+| bgcolor=lightblue|'''55.19'''
+| bgcolor=lightblue align=center|'''2'''
+| 71,168
+| 25.72
+| align=center|1
+| 11,408
+| 4.12
+| align=center|—
+| 5,684
+| 2.05
+| align=center|—
+| 35,766
+| 12.92
+| align=center|—
+|-
+! scope=row|[[La Pampa Province|La Pampa]]
+| bgcolor=lightblue|'''88,347'''
+| bgcolor=lightblue|'''56.92'''
+| bgcolor=lightblue align=center|'''1'''
+| 53,104
+| 34.21
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| 8,131
+| 5.24
+| align=center|—
+| 5,635
+| 3.63
+| align=center|—
+|-
+! scope=row|[[La Rioja Province, Argentina|La Rioja]]
+| bgcolor=lightblue|'''55,716'''
+| bgcolor=lightblue|'''38.33'''
+| bgcolor=lightblue align=center|'''1'''
+| 35,219
+| 24.23
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 54,434
+| 37.45
+| align=center|1
+|-
+! scope=row|[[Mendoza Province|Mendoza]]
+| bgcolor=lightblue|'''384,892'''
+| bgcolor=lightblue|'''46.76'''
+| bgcolor=lightblue align=center|'''3'''
+| 200,238
+| 24.33
+| align=center|1
+| 50,595
+| 6.15
+| align=center|—
+| 139,732
+| 16.98
+| align=center|1
+| 47,665
+| 5.79
+| align=center|—
+|-
+! scope=row|[[Misiones Province|Misiones]]
+| bgcolor=lightblue|'''346,880'''
+| bgcolor=lightblue|'''68.40'''
+| bgcolor=lightblue align=center|'''4'''
+| 75,160
+| 14.82
+| align=center|—
+| 26,168
+| 5.16
+| align=center|—
+| 14,530
+| 2.86
+| align=center|—
+| 44,422
+| 8.76
+| align=center|—
+|-
+! scope=row|[[Neuquén Province|Neuquén]]
+| bgcolor=lightblue|'''90,475'''
+| bgcolor=lightblue|'''33.18'''
+| bgcolor=lightblue align=center|'''1'''
+| 25,893
+| 9.50
+| align=center|—
+| 32,152
+| 11.79
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 124,127
+| 45.53
+| align=center|1
+|-
+! scope=row|[[Río Negro Province|Río Negro]]
+| bgcolor=lightblue|'''202,873'''
+| bgcolor=lightblue|'''70.10'''
+| bgcolor=lightblue align=center|'''3'''
+| 34,788
+| 12.02
+| align=center|—
+| 33,527
+| 11.58
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 18,215
+| 6.29
+| align=center|—
+|-
+! scope=row|[[Salta Province|Salta]]
+| bgcolor=lightblue|'''332,671'''
+| bgcolor=lightblue|'''56.51'''
+| bgcolor=lightblue align=center|'''3'''
+| 103,162
+| 17.52
+| align=center|1
+| 27,042
+| 4.59
+| align=center|—
+| 14,684
+| 2.49
+| align=center|—
+| 111,164
+| 18.88
+| align=center|—
+|-
+! scope=row|[[San Juan Province, Argentina|San Juan]]
+| bgcolor=lightblue|'''216,015'''
+| bgcolor=lightblue|'''69.29'''
+| bgcolor=lightblue align=center|'''3'''
+| 22,290
+| 7.15
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 60,240
+| 19.32
+| align=center|—
+| 13,217
+| 4.24
+| align=center|—
+|-
+! scope=row|[[San Luis Province|San Luis]]
+| 59,725
+| 29.46
+| align=center|—
+| 22,429
+| 11.06
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| bgcolor=Aquamarine|'''120,570'''
+| bgcolor=Aquamarine|'''59.47'''
+| bgcolor=Aquamarine align=center|'''2'''
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[Santa Cruz Province, Argentina|Santa Cruz]]
+| bgcolor=lightblue|'''74,846'''
+| bgcolor=lightblue|'''65.41'''
+| bgcolor=lightblue align=center|'''2'''
+| 22,516
+| 19.68
+| align=center|—
+| 3,474
+| 3.04
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 13,597
+| 11.88
+| align=center|—
+|-
+! scope=row|[[Santa Fe Province|Santa Fe]]
+| bgcolor=lightblue|'''725,350'''
+| bgcolor=lightblue|'''41.41'''
+| bgcolor=lightblue align=center|'''5'''
+| 115,440
+| 6.59
+| align=center|—
+| 623,357
+| 35.59
+| align=center|5
+| 77,798
+| 4.44
+| align=center|—
+| 209,528
+| 11.96
+| align=center|—
+|-
+! scope=row|[[Santiago del Estero Province|Santiago del Estero]]
+| bgcolor=lightblue|'''338,853'''
+| bgcolor=lightblue|'''85.90'''
+| bgcolor=lightblue align=center|'''4'''
+| 29,536
+| 7.49
+| align=center|—
+| 13,625
+| 3.45
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 12,481
+| 3.16
+| align=center|—
+|-
+! scope=row|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+| bgcolor=lightblue|'''33,647'''
+| bgcolor=lightblue|'''55.01'''
+| bgcolor=lightblue align=center|'''2'''
+| 4,880
+| 7.98
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 22,643
+| 37.02
+| align=center|1
+|-
+! scope=row|[[Tucumán Province|Tucumán]]
+| bgcolor=lightblue|'''462,231'''
+| bgcolor=lightblue|'''60.97'''
+| bgcolor=lightblue align=center|'''4'''
+| 124,731
+| 16.45
+| align=center|1
+| 80,474
+| 10.61
+| align=center|—
+| 36,787
+| 4.85
+| align=center|—
+| 53,967
+| 7.12
+| align=center|—
+|-
+! Total
+! 10,757,804
+! 52.22
+! 85
+! 2,790,964
+! 13.55
+! 16
+! 2,780,984
+! 13.50
+! 14
+! 1,278,617
+! 6.21
+! 6
+! 2,990,704
+! 14.52
+! 9
+|}
+
+=== Senate ===
+Eight districts ([[Buenos Aires Province]], [[Formosa Province|Formosa]], [[Jujuy Province|Jujuy]], [[La Rioja Province (Argentina)|La Rioja]], [[Misiones Province|Misiones]], [[San Juan Province (Argentina)|San Juan]], [[San Luis Province|San Luis]] and [[Santa Cruz Province (Argentina)|Santa Cruz]]) also elected three [[Argentine Senate|National Senators]] each (two for the most voted party or coalition, one for the second most voted party or coalition), to renew a third of the upper house.<ref>{{cite web|url=http://www.towsa.com/andy/totalpais/2011.html|title=Elecciones en Argentina 2011: Cargos a renovar|publisher=Atlas Electoral de Andy Tow|access-date=22 June 2011|archive-url=https://web.archive.org/web/20120513144913/http://towsa.com/andy/totalpais/2011.html|archive-date=13 May 2012|url-status=dead}}</ref>
+
+The opposition fared better in the Senate, which remained nearly unchanged; the upper house would continue divided between the FpV with a majority of 40 seats (out of 72), and the UCR (around 16) and others with the remainder.<ref name=congress/><ref name=tiempo/> The departure of Vice President [[Julio Cobos]] of the UCR (distanced politically from the President since 2008) deprived the opposition of a tie-breaking vote in the Senate.<ref name=tiempo/>
+
+{{Election results|seattype1=Won|seattype2=Total
+|alliance1=[[Front for Victory]]|aspan1=3|party1=[[Front for Victory]]|votes1=5483110|st1t1=13|st2t1= 
+|party2=[[Front for the Renewal of Concord]]|votes2=256137|st1t2=2|st2t2= 
+|atotal3=5739247|ast1t3=15|ast2t3= 
+|alliance4=[[Radical Civic Union|Union for Social Development]]|aspan4=3|party4=[[Radical Civic Union|Union for Social Development]]|votes4=966717|st1t4=1|st2t4= 
+|party5=[[Radical Civic Union]]|votes5=231542|st1t5=2|st2t5= 
+|atotal6=1198259|ast1t6=3|ast2t6= 
+|alliance7=[[Broad Progressive Front (Argentina)|Broad Progressive Front]]|aspan7=3|party7=[[Broad Progressive Front (Argentina)|Broad Progressive Front]]|votes7=1103922|st1t7=1|st2t7= 
+|party8=[[Socialist Party (Argentina)|Socialist Party]]|votes8=29564|st1t8=0|st2t8= 
+|atotal9=1133486|ast1t9=1|ast2t9= 
+|alliance10=[[Federal Commitment]]|aspan10=3|party10=[[Federal Commitment]]|votes10=686740|st1t10=3|st2t10= 
+|party11={{ill|Partido Es Posible|es}}|votes11=5681|st1t11=0|st2t11= 
+|atotal12=692421|ast1t12=3|ast2t12= 
+|alliance13=[[Federal Peronism|Popular Front]]|aspan13=5|party13=[[Federal Peronism|Popular Front]]|votes13=652280|st1t13=0|st2t13= 
+|party14=[[Federal Popular Union|Popular Union]]|votes14=3239|st1t14=0|st2t14= 
+|party15=Fortress Party|votes15=1456|st1t15=0|st2t15= 
+|party16=Federal Republican Agreement|votes16=1441|st1t16=0|st2t16= 
+|atotal17=658416|ast1t17=0|ast2t17= 
+|alliance18=[[Workers' Left Front]]|aspan18=3|party18=[[Workers' Left Front]]|votes18=285489|st1t18=0|st2t18= 
+|party19=[[Workers' Party (Argentina)|Workers' Party]]|votes19=3026|st1t19=0|st2t19= 
+|atotal20=288515|ast1t20=0|ast2t20= 
+|alliance21=[[Civic Coalition ARI]]|votes21=196033|st1t21=0|st2t21= 
+|alliance22=Rioja Popular Front|votes22=56409|st1t22=2|st2t22= 
+|alliance23=Jujuy First Front|votes23=24127|st1t23=0|st2t23= 
+|alliance24=[[Republican Proposal]]|votes24=11527|st1t24=0|st2t24= 
+|alliance25=[[Renewal Crusade]]|votes25=10873|st1t25=0|st2t25= 
+|alliance26=Citizen Dignity|votes26=7450|st1t26=0|st2t26= 
+|alliance27=South Encounter|votes27=2151|st1t27=0|st2t27= 
+|blank=1013390
+|invalid=70403
+|electorate=13581951
+|source=DINE,<ref>{{Cite web |url=https://recorriendo.elecciones.gob.ar/senadores2011.html#/ |title=Recorriendo las Elecciones de 1983 a 2013 - Senadores Nacionales |website=Dirección Nacional Electoral |access-date=9 February 2021 |archive-date=2 July 2022 |archive-url=https://web.archive.org/web/20220702214142/https://recorriendo.elecciones.gob.ar/senadores2011.html#/ |url-status=dead }}</ref> Ministry of the Interior<ref name="results"/>
+}}
+
+====Results by province====
+{| class="wikitable sortable plainrowheaders" style="text-align:right;"
+! rowspan=2|Province
+! colspan=3|FPV
+! colspan=3|UDESO
+! colspan=3|FAP
+! colspan=3|CF
+! colspan=3|Others
+|-
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+|-
+! scope=row|[[Buenos Aires Province|Buenos Aires]]
+| bgcolor=lightblue|'''4,639,554'''
+| bgcolor=lightblue|'''56.78'''
+| bgcolor=lightblue align=center|'''2'''
+| 880,892
+| 10.78
+| align=center|—
+| 1,092,503
+| 13.37
+| align=center|1
+| 484,318
+| 5.93
+| align=center|—
+| 1,073,189
+| 13.13
+| align=center|—
+|-
+! scope=row|[[Formosa Province|Formosa]]
+| bgcolor=lightblue|'''179,985'''
+| bgcolor=lightblue|'''78.39'''
+| bgcolor=lightblue align=center|'''2'''
+| 46,732
+| 20.35
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 2,897
+| 1.26
+| align=center|—
+|-
+! scope=row|[[Jujuy Province|Jujuy]]
+| bgcolor=lightblue|'''157,364'''
+| bgcolor=lightblue|'''53.43'''
+| bgcolor=lightblue align=center|'''2'''
+| 85,825
+| 29.14
+| align=center|1
+| 11,419
+| 3.88
+| align=center|—
+| 5,681
+| 1.93
+| align=center|—
+| 34,238
+| 11.62
+| align=center|—
+|-
+! scope=row|[[La Rioja Province, Argentina|La Rioja]]
+| 53,865
+| 33.82
+| align=center|1
+| 37,477
+| 23.53
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| bgcolor=LightSteelBlue|'''67,936'''
+| bgcolor=LightSteelBlue|'''42.65'''
+| bgcolor=LightSteelBlue align=center|'''2'''
+|-
+! scope=row|[[Misiones Province|Misiones]]
+| bgcolor=lightblue|'''354,906'''
+| bgcolor=lightblue|'''68.98'''
+| bgcolor=lightblue align=center|'''3'''
+| 75,600
+| 14.69
+| align=center|—
+| 25,958
+| 5.05
+| align=center|—
+| 14,542
+| 2.83
+| align=center|—
+| 43,496
+| 8.45
+| align=center|—
+|-
+! scope=row|[[San Juan Province, Argentina|San Juan]]
+| bgcolor=lightblue|'''214,776'''
+| bgcolor=lightblue|'''66.84'''
+| bgcolor=lightblue align=center|'''2'''
+| 22,450
+| 6.99
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 60,238
+| 18.75
+| align=center|1
+| 23,871
+| 7.43
+| align=center|—
+|-
+! scope=row|[[San Luis Province|San Luis]]
+| 60,516
+| 28.78
+| align=center|1
+| 22,130
+| 10.52
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| bgcolor=Aquamarine|'''127,642'''
+| bgcolor=Aquamarine|'''60.70'''
+| bgcolor=Aquamarine align=center|'''2'''
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[Santa Cruz Province, Argentina|Santa Cruz]]
+| bgcolor=lightblue|'''78,281'''
+| bgcolor=lightblue|'''65.83'''
+| bgcolor=lightblue align=center|'''2'''
+| 27,153
+| 22.83
+| align=center|1
+| 3,606
+| 3.03
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 9,874
+| 8.30
+| align=center|—
+|-
+! Total
+! 5,739,247
+! 57.28
+! 15
+! 1,198,259
+! 11.96
+! 3
+! 1,133,486
+! 11.31
+! 1
+! 692,421
+! 6.91
+! 3
+! 1,255,501
+! 12.53
+! 2
+|}
+
+===Provincial===
+{{main|2011 Argentine provincial elections}}
+All but two of the 23 [[Provinces of Argentina|provinces]] also elected [[Governors of Argentina|governors]] and provincial legislative officials on staggered dates through the year, and nine of them will hold elections on the same day as the General Elections.<ref>{{cite web|url=http://www.clarin.com/politica/elecciones/vota_CLAFIL20111023_0002.jpg|title=¿Qué se vota?|work=Clarín}}</ref> There will be also simultaneous local elections, whereby a number of [[Departments of Argentina|Municipalities]] elect municipal legislative officials (''concejales''), and in some cases also a mayor (or equivalent).<ref name=Simultaneidad>{{in lang|es}} [http://www.mininterior.gov.ar/asuntos_politicos_y_alectorales/dine/infogral/archivos_legislacion/Decreto_17265.pdf Decreto 17.262/59]</ref>
+
+Some of the most high-profile gubernatorial races include that of [[Governor of Buenos Aires Province]] (the nation's largest), where Governor [[Daniel Scioli]] of the FpV defeated [[Federal Peronism|Federal Peronist]] Deputy [[Francisco de Narváez]],<ref name=gob>{{cite web|url=http://www.clarin.com/politica/kirchnerismo-impuso-gobernaciones-San-Luis_0_577742505.html|title=El kirchnerismo se impuso en todas las gobernaciones menos en San Luis|work=Clarín|date=24 October 2011 }}</ref> and in [[Santa Fe Province]], where the incumbent Socialist Governor, [[Hermes Binner]], would run for president.<ref name=fe>{{cite web|url=http://www.agenciafe.com/noticia/articulo/159526.html |title=El Partido Socialista impulsará a "Binner Presidente" |publisher=Agencia Fe |url-status=dead |archive-url=https://web.archive.org/web/20110722185844/http://www.agenciafe.com/noticia/articulo/159526.html |archive-date=22 July 2011 }}</ref> Socialist nominee [[Antonio Bonfatti]] was elected to succeed him.<ref>{{cite web|url=http://www.buenosairesherald.com/article/74040/bonfatti-%E2%80%98santa-fe-people-casted-a-punishing-vote%E2%80%99|title=Bonfatti: the people of Santa Fe casted a punishing vote|work=Buenos Aires Herald}}</ref> The [[Mayor of Buenos Aires]], [[Mauricio Macri]] faced Senator [[Daniel Filmus]] of the FpV and film-maker [[Fernando Solanas]] of [[Proyecto Sur]].<ref name=m24a>{{cite web|url=http://m24digital.com/en/2011/05/27/pino-solanas-said-that-in-a-filmus-macri-ballotage-we-probably-would-leave-freedom-of-conscience-to-the-voters/ |title=Pino Solanas said that in a Filmus-Macri ballotage "we probably would leave freedom of conscience" to the voters |work=M24 Digital |url-status=dead |archive-url=https://web.archive.org/web/20120404020704/http://m24digital.com/en/2011/05/27/pino-solanas-said-that-in-a-filmus-macri-ballotage-we-probably-would-leave-freedom-of-conscience-to-the-voters/ |archive-date=4 April 2012 }}</ref> He was [[2011 Buenos Aires City elections|overwhelmingly re-elected]] in a runoff vote held on 31 July.<ref>{{cite web|url=http://www.buenosairesherald.com/article/74614/macri-reelected-ba-mayor-after-defeating-filmus-by-285-points|title=Macri re-elected BA Mayor after defeating Filmus by 28.5 points|work=Buenos Aires Herald}}</ref>
+
+Results throughout the year and in the general election handed candidates for the FpV or its allies the governor's house in every province except San Luis (won by Federal Commitment) and Santa Fe (won by the Socialist Party).<ref name=gob/>
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*{{in lang|es}} [https://web.archive.org/web/20110911025812/http://www.elecciones2011.gov.ar/ Dirección Nacional Electoral – Elecciones Nacionales 2011] – Ministry of Interior of Argentina.
+* [https://web.archive.org/web/20110524231457/http://www.towsa.com/andy/totalpais/2011.html Andy Tow's Argentina Electoral Atlas] {{in lang|es}}
+
+{{Argentine elections}}
+{{CFK}}
+
+[[Category:2011 elections in South America|Argentina]]
+[[Category:2011 elections in Argentina|General]]
+[[Category:Legislative elections in Argentina]]
+[[Category:Presidency of Cristina Fernández de Kirchner]]
+[[Category:Presidential elections in Argentina]]
+[[Category:October 2011 in South America|Argentina]]

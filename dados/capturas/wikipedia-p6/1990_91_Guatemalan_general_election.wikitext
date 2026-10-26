@@ -1,0 +1,104 @@
+{{Short description|none}}
+{{Infobox election
+| country = Guatemala
+| previous_election = 1985 Guatemalan general election
+| previous_year = 1985
+| next_election = 1993 Guatemalan presidential election
+| next_year = 1993
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 11 November 1990 (first round) <br/> 6 January 1991 (second round)
+
+| image1 = Foto oficial de Jorge Antonio Serrano Elías (cropped).png
+| nominee1 = '''[[Jorge Serrano Elías|Jorge Serrano]]'''
+| popular_vote1 = '''936,389'''
+| percentage1 = '''68.08%'''
+| party1 = Solidarity Action Movement
+| running_mate1 = '''[[Gustavo Espina]]'''
+
+| image2 = 3x4.svg
+| nominee2 = [[Jorge Carpio Nicolle|Jorge Carpio]]
+| popular_vote2 = 438,990
+| percentage2 = 31.92%
+| party2 = National Centre Union
+| running_mate2 = [[Manuel Ayau]]
+
+| title = President
+| before_election = [[Vinicio Cerezo]]
+| before_party = [[Guatemalan Christian Democracy|DCG]]
+| posttitle = President-elect
+| after_election = [[Jorge Antonio Serrano Elías|Jorge Serrano Elías]]
+| after_party = Solidarity Action Movement
+}}}}{{Politics of Guatemala}}
+
+General elections were held in [[Guatemala]] on 11 November 1990.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p323 {{ISBN|978-0-19-928357-6}}</ref> with a second round of the presidential election held on 6 January 1991. The presidential election resulted in a victory for [[Jorge Serrano Elías]] of the [[Solidarity Action Movement]], whilst the [[National Centre Union]] won the Congressional elections. Voter turnout was 56.4% in the elections on 11 November 1990 and 45.2% in the elections on 6 January 1991.
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Jorge Carpio Nicolle]]|vp1=[[Manuel Ayau|Manuel Francisco Ayau Cordón]]|party1=[[National Centre Union]]|votes1=399777|votes1_2=438990
+|cand2=[[Jorge Serrano Elías]]|vp2=[[Gustavo Espina]]|party2=[[Solidarity Action Movement]]|votes2=375165|votes2_2=936389
+|cand3=Luis Alfonso Cabrera Hidalgo|vp3=Marco Antonio Villamar Contreras|party3=[[Guatemalan Christian Democracy]]|votes3=271933
+|cand4=[[Álvaro Arzú]]|vp4=Fraterno Vila Betoret|party4=[[National Advancement Party]]|votes4=268796
+|cand5=Luis Ernesto Sosa Ávila|vp5=Luis David Arturo Eskenasy Cruz|party5=[[National Liberation Movement (Guatemala)|MLN]]–[[National Progress Front|FAN]]|votes5=74825
+|cand6=René Armando de León Schlotter|vp6=Aracely Mercedes Conde Aguilar de Paiz|party6=[[Democratic Social Party (Guatemala)|PSD]]–[[Popular Alliance 5|AP5]]|votes6=55819|color6=crimson
+|cand7=José Ángel Lee Duarte|vp7=Carlos Francisco Gallardo Flores|party7=[[Revolutionary Party (Guatemala)|Revolutionary Party]]|votes7=33429
+|cand8=José Ramón Fernández González|vp8=José Adolfo Putzeys Pacheco|party8=Democratic Party of National Cooperation|votes8=32325
+|cand9=Manuel Benedicto Lucas García|vp9=Héctor Antonio Guerra Pedroza|party9=Emerging Movement of Harmony|votes9=16894
+|cand10=Fernando Antonio Leal Estévez|vp10=Kurt Martín Meyer Rodas|party10=[[National Renewal Party (Guatemala)|National Renewal Party]]|votes10=11052
+|cand11=Leonel Hernández Cardona|vp11=Raúl Horacio Montenegro Castellanos|party11=United Front of the Revolution|votes11=7957
+|cand12=Jorge Antonio Reyna Castillo|vp12=Carlos Antonio Torres Herrera|party12=Democratic Party|votes12=6341
+|invalid=254488|invalid2=74110
+|electorate=3204955|electorate2=3204955
+|source=Nohlen, [http://americo.usal.es/iberoame/sites/default/files/roson_guatemala.pdf Rosón]
+}}
+
+===Congress===
+{{Election results
+|firstround=National|secondround=District
+|party1=[[National Centre Union]]|votes1=399679|seats1=8|votes1_2=357528|seats1_2=33|totseats1=41|sc1=
+|party2=[[Solidarity Action Movement]]|votes2=375119|seats2=8|votes2_2=225031|seats2_2=10|totseats2=18|sc2=
+|party3=[[Guatemalan Christian Democracy]]|votes3=271842|seats3=6|votes3_2=276072|seats3_2=21|totseats3=27|sc3=
+|party4=[[National Advancement Party]]|votes4=268776|seats4=5|votes4_2=233559|seats4_2=7|totseats4=12|sc4=
+|party5=[[National Liberation Movement (Guatemala)|MLN]]–[[National Progress Front|FAN]]|votes5=74994|seats5=1|votes5_2=4381|seats5_2=0|totseats5=1|sc5=
+|party6=[[Democratic Social Party (Guatemala)|PSD]]–[[Popular Alliance 5|AP5]]|votes6=55804|seats6=1|votes6_2=64633|seats6_2=0|totseats6=1|sc6=
+|party7=[[Revolutionary Party (Guatemala)|Revolutionary Party]]|votes7=33417|seats7=0|votes7_2=50547|seats7_2=1|totseats7=1|sc7=
+|party8=Democratic Party of National Cooperation|votes8=32297|seats8=0|votes8_2=24750|seats8_2=0|totseats8=0|sc8=
+|party9=Emerging Movement of Harmony|votes9=16915|seats9=0|votes9_2=10759|seats9_2=0|totseats9=0|sc9=
+|party10=[[National Renewal Party (Guatemala)|National Renewal Party]]|votes10=11025|seats10=0|votes10_2=17386|seats10_2=0|totseats10=0|sc10=
+|party11=United Front of the Revolution|votes11=7950|seats11=0|votes11_2=16808|seats11_2=0|totseats11=0|sc11=
+|party12=Democratic Party|votes12=6413|seats12=0|votes12_2=13284|seats12_2=0|totseats12=0|sc12=
+|party13=[[Guatemalan Republican Front|FRG]]–[[Institutional Democratic Party|PID]]–[[National Unity Front (Guatemala)|FUN]]|votes13_2=201401|seats13_2=12|totseats13=12|sc13=
+|party14=[[National Liberation Movement (Guatemala)|National Liberation Movement]]|votes14_2=83738|seats14_2=3|totseats14=3|sc14=
+|party15=[[Institutional Democratic Party|PID]]–[[United Front of the Revolution|FUR]]–[[Guatemalan Republican Front|FRG]]|votes15_2=11923|seats15_2=0|totseats15=0|sc15=
+|party16=Organised Nationalist Union|votes16_2=3422|seats16_2=0|totseats16=0|sc16=
+|party17=[[Popular Alliance 5]]|votes17_2=2521|seats17_2=0|totseats17=0|sc17=
+|party18=Democratic Social Party|votes18_2=2204|seats18_2=0|totseats18=0|sc18=
+|party19=[[Guatemalan Republican Front]]|votes19_2=1875|seats19_2=0|totseats19=0|sc19=
+|party20=National Progress Front|votes20_2=1684|seats20_2=0|totseats20=0|sc20=
+|party21=[[Progressive Liberating Party]]|votes21_2=590|seats21_2=0|totseats21=0|sc21=
+|party22=[[National Unity Front (Guatemala)|FUN]]–[[Institutional Democratic Party|PID]]|votes22_2=447|seats22_2=0|totseats22=0|sc22=
+|party23=PNR–MEC|votes23_2=320|seats23_2=0|totseats23=0|sc23=
+|invalid=254487|invalid2=196733
+|total_sc=0
+}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*Villagrán Kramer, Francisco. Biografía política de Guatemala: años de guerra y años de paz. FLACSO-Guatemala, 2004.
+*Political handbook of the world 1990. New York, 1991.
+
+{{Guatemalan elections}}
+
+{{DEFAULTSORT:1990-91 Guatemalan general election}}
+[[Category:Parliamentary elections in Guatemala]]
+[[Category:1990 in Guatemala|General]]
+[[Category:1991 in Guatemala|General]]
+[[Category:1990 elections in Central America|Guatemala]]
+[[Category:1991 elections in Central America|Guatemala]]
+[[Category:Presidential elections in Guatemala]]

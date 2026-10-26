@@ -1,0 +1,55 @@
+{{Short description|Election of 	António Monteiro}}
+{{Infobox election
+| election_name     = 1991 Cape Verdean presidential election
+| country           = Cape Verde
+| flag_year=1975
+| type              = presidential
+| ongoing           = no
+| next_election     = 1996 Cape Verdean presidential election
+| next_year         = 1996
+| election_date     = 17 February 1991
+| registered        = 159,534
+| opinion_polls     = 
+| turnout           = 61.4%
+| image1            = Antonio Mascarenhas Monteiro 2012.png
+| nominee1          = '''[[António Mascarenhas Monteiro|António Monteiro]]'''
+| party1            = Movement for Democracy (Cape Verde)
+| popular_vote1     = '''70,623'''
+| percentage1       = '''73.44%'''
+| image2            = Aristides Pereira 1987.jpg
+| nominee2          = [[Aristides Pereira]]
+| party2            = African Party for the Independence of Cape Verde
+| popular_vote2     = 25,544
+| percentage2       = 26.56%
+| title             = [[List of heads of state of Cape Verde|President]]
+| before_election   = [[Aristides Pereira]]
+| before_party      = African Party for the Independence of Cape Verde
+| after_election    = [[António Mascarenhas Monteiro|António Monteiro]] 
+| after_party       = [[Movement for Democracy (Cape Verde)|MpD]]
+| map_image       = Elecciones presidenciales de Cabo Verde, 1991.svg
+| map_caption = Results by island
+}}{{Politics of Cape Verde}}
+
+Direct presidential elections were held for the first time in [[Cape Verde]] on 17 February 1991, as previously the [[National Assembly of Cape Verde|National Assembly]] had elected the President. The result was a victory for [[António Mascarenhas Monteiro]] of the [[Movement for Democracy (Cape Verde)|Movement for Democracy]], which had also won the [[1991 Cape Verdean parliamentary election|parliamentary elections]] the previous month. He defeated incumbent [[Aristides Pereira]] of the [[African Party for the Independence of Cape Verde]].<ref>[http://africanelections.tripod.com/cv.html Elections in Cape Verde] {{Webarchive|url=https://web.archive.org/web/20110717190543/http://africanelections.tripod.com/cv.html |date=2011-07-17 }} African Elections Database</ref> Voter turnout was 61.4%.<ref>[[Dieter Nohlen]], Michael Krennerich & Bernhard Thibaut (1999) ''Elections in Africa: A data handbook'', p201 {{ISBN|0-19-829645-2}}</ref>
+
+Monteiro took office on 22 March.
+
+==Results==
+{{Election results
+|cand1=[[António Mascarenhas Monteiro]]|party1=[[Movement for Democracy (Cape Verde)|Movement for Democracy]]|votes1=70623
+|cand2=[[Aristides Pereira]]|party2=[[African Party for the Independence of Cape Verde]]|votes2=25544
+|invalid=1422
+|blank=333
+|electorate=159534
+|source=Boletim Oficial<ref>{{Cite web |date=9 March 1991 |title=Boletim Oficial da República de Cabo Verde No. 10 |url=https://drive.google.com/file/d/1fXeECi8_WCrVbEKKHSGTN62eFimhFNun/view |website=Boletim Oficial da República de Cabo Verde |page=124}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+{{Cape Verdean elections}}
+
+[[Category:1991 elections in Africa|Cape Verde]]
+[[Category:Presidential elections in Cape Verde]]
+[[Category:1991 in Cape Verde]]
+[[Category:February 1991 in Africa]]

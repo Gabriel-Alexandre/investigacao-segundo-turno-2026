@@ -1,0 +1,109 @@
+{{Short description|none}}
+{{distinguish|1990 Dominican general election}}
+{{Infobox election
+| country = Dominican Republic
+| previous_election = 1986 Dominican Republic general election
+| previous_year = 1986
+| election_date = {{Start date|1990|05|16|df=y}}
+| next_election = 1994 Dominican Republic general election
+| next_year = 1994
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| turnout = 60.54%
+
+| image1 = Joaquin Balaguer.jpg
+| nominee1 = '''[[Joaquín Balaguer]]'''
+| party1 = Social Christian Reformist Party
+| popular_vote1 = '''678,065'''
+| percentage1 = '''35.05%'''
+
+| image2 = {{CSS image crop|Image=Victor Manuel Grimaldi Céspedes con Juan Bosch, foto dedicada con la firma del escritor y político dominicano.JPG|bSize=250|cWidth=110|cHeight=150|oLeft=0|oTop=0}}
+| nominee2 = [[Juan Bosch (politician)|Juan Bosch]]
+| party2 = Dominican Liberation Party
+| popular_vote2 = 653,595
+| percentage2 = 33.79%
+
+| image4 = Pena Gomez photo.jpg
+| nominee4 = [[José Francisco Peña Gómez]]
+| party4 = Dominican Revolutionary Party
+| popular_vote4 = 449,399
+| percentage4 = 23.23%
+
+| image5 = Jacobo Majluta Azar.JPG
+| nominee5 = [[Jacobo Majluta Azar]]
+| party5 = [[Independent Revolutionary Party|PRI]]
+| popular_vote5 = 135,659
+| percentage5 = 7.01%
+
+| map_image = Map Electoral Dominican Republic (1990).svg
+| map_caption = Presidential election results by province
+
+| title = President
+| before_election = [[Joaquín Balaguer]]
+| before_party = Social Christian Reformist Party
+| after_election = [[Joaquín Balaguer]]
+| after_party = Social Christian Reformist Party
+}}}}{{Politics of the Dominican Republic}}
+
+General elections were held in the [[Dominican Republic]] on 16 May 1990.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p247 {{ISBN|978-0-19-928357-6}}</ref> Following a long vote count, [[Joaquín Balaguer]] of the [[Social Christian Reformist Party]] (PSRC) was declared winner of the presidential election,<ref>Nohlen, p241</ref> whilst in the Congressional elections the PSRC received the most votes and won a majority in the Senate, although the [[Dominican Liberation Party]] won the most seats in the House of Representatives.
+
+The voter turnout of 60% was the lowest in recent DR history.<ref name=":0">{{Cite journal |last=Hartlyn |first=Jonathan |date=1990 |title=The Dominican Republic's Disputed Elections |url=https://muse.jhu.edu/pub/1/article/225632 |journal=Journal of Democracy |volume=1 |issue=4 |pages=92–103 |issn=1086-3214}}</ref>
+
+There were numerous irregularities prior and after election day.<ref name=":0" /> Balaguer's victory prompted protests and accusations of fraud.<ref name="DN">Nohlen, p242</ref> This led the Central Elections Authority to introduce several reforms to the electoral law in 1992, including an increase in the number of members of the Authority and the production of a new electoral roll.<ref name="DN" />
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Joaquín Balaguer]]|party1=[[Social Christian Reformist Party]]|votes1=678065
+|cand2=[[Juan Bosch (politician)|Juan Bosch]]|party2=[[Dominican Liberation Party]]|votes2=653595
+|cand3=[[José Francisco Peña Gómez]]|party3=[[Dominican Revolutionary Party]]|votes3=449399
+|cand4=[[Jacobo Majluta]]|party4=[[Independent Revolutionary Party]]|votes4=135659
+|cand5=[[Vincho Castillo]]|party5=[[National Progressive Force]]|votes5=6063
+|cand6=[[José Rafael Abinader]]|party6=[[Constitutional Action Party]]|votes6=4926
+|cand7=Roberto Bernardo Saladín Selín|party7=[[Christian People's Party (Dominican Republic)|Christian People's Party]]|votes7=4338
+|cand8=Luis Montás|party8=[[Dominican Communist Party]]|votes8=1886
+|cand9=[[Rafael Alburquerque]]|party9=Party of the Dominican People|votes9=602
+|invalid=48356
+|electorate=3275570
+|source=Nohlen, Grullón,<ref>Sandino Grullón (2006) ''Historia electoral dominicana : siglo XX 1900-2004'', p282</ref> Ramírez Morillo<ref>Belarminio Ramírez Morillo (1993) ''Las elecciones dominicanas: del populismo al marketing político'', p95</ref>
+}}
+
+===Congress===
+{{Election results
+|image=[[File:Cámara de Diputados de la República Dominicana (1990).svg|220px]][[File:Senado de la República Dominicana (1990).svg|220px]]
+|seattype1=House|seattype2=+/–|seattype3=Senate|seattype4=+/–
+|party1=[[Social Christian Reformist Party]] and allies{{efn|PRSC allies included the [[Quisqueyano Christian Democratic Party|Democratic Quisqueyano Party]], [[Liberal Reformist Party (Dominican Republic)|La Estructura]], the Institutional Democratic Party, the [[National Citizen Will Party|National Civic Veterans Party]], MOFEI, Frente Amplio de Organizaciones Comunnales-Futuro Verde, MSDO, FDE, MAIS and Morepma}}|votes1=663127|st1t1=41|st2t1=–|st3t1=16|st4t1=–|st5t1=
+|party2=[[Dominican Liberation Party]]–[[Democratic Unity (Dominican Republic)|Democratic Unity]]||votes2=625929|st1t2=44|st2t2=–|st3t2=12|st4t2=–|st5t2=
+|party3=[[Dominican Revolutionary Party|PRD]]–[[Socialist Bloc (Dominican Republic)|BS]]–[[Dominican Workers' Party|PTD]]|votes3=447605|st1t3=33|st2t3=–|st3t3=2|st4t3=–|st5t3=
+|party4=[[Independent Revolutionary Party]]|votes4=139769|st1t4=2|st2t4=New|st3t4=0|st4t4=New|st5t4=
+|party5=[[Christian People's Party (Dominican Republic)|PPC]]–{{abbr|MIM|Movimiento Independiente Meta}}|votes5=8081|st1t5=0|st2t5=–|st3t5=0|st4t5=–|st5t5=
+|party6=[[National Progressive Force]]|votes6=18539|vspan6=4|st1t6=0|st2t6=New|st3t6=0|st4t6=New|st5t6=
+|party7=[[Constitutional Action Party]]|votes7=|st1t7=0|st2t7=New|st3t7=0|st4t7=New|st5t7=
+|party8=[[Dominican Communist Party]]|votes8=|st1t8=0|st2t8=New|st3t8=0|st4t8=New|st5t8=
+|party9=Party of the Dominican People|votes9=|st1t9=0|st2t9=New|st3t9=0|st4t9=New|st5t9=
+|party10=[[Broad Front (Dominican Republic)|Movement for Independence, Unity and Change]]|votes10=11052|vspan10=5|st1t10=0|st2t10=New|st3t10=0|st4t10=New|st5t10=
+|party11=MAR|votes11=|st1t11=0|st2t11=New|st3t11=0|st4t11=New|st5t11=
+|party12=MIGRELU|votes12=|st1t12=0|st2t12=New|st3t12=0|st4t12=New|st5t12=
+|party13=MFP|votes13=|st1t13=0|st2t13=New|st3t13=0|st4t13=New|st5t13=
+|party14=MIS|votes14=|st1t14=0|st2t14=New|st3t14=0|st4t14=New|st5t14=
+|invalid=48356
+|total_st1t=120|total_st2t=0|total_st3t=30|total_st4t=0
+|electorate=3275570
+|source=Nohlen
+}}
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Dominican Republic elections}}
+
+[[Category:1990 elections in the Caribbean|Dominican]]
+[[Category:1990 in the Dominican Republic|General]]
+[[Category:Elections in the Dominican Republic]]
+[[Category:Presidential elections in the Dominican Republic]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:May 1990 in North America|Dominican]]

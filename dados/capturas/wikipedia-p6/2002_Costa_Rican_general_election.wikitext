@@ -1,0 +1,495 @@
+{{Short description|none}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election
+| country = Costa Rica
+| flag_year = state
+| previous_election = 1998 Costa Rican general election
+| previous_year = 1998
+| election_date = {{nowrap|{{Start date|2002|02|03|df=y}} (first round)}}<br />{{Start date|2002|04|07|df=y}} (second round)
+| next_election = 2006 Costa Rican general election
+| next_year = 2006
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| registered = 2,279,851
+| turnout = 68.84% (first round) {{decrease}} 1.15[[percentage point|pp]]<br />60.22% (second round)
+
+| image1 = Defense.gov News Photo 050511-D-9880W-053 (cropped).jpg
+| nominee1 = '''[[Abel Pacheco]]'''
+| running_mate1 = '''[[Lineth Saborío Chaverri|Lineth Saborío]]''' <br /> '''[[Luis Fishman Zonzinski|Luis Fishman]]'''
+| party1 = Social Christian Unity Party
+| popular_vote1 = '''776,278'''
+| percentage1 = '''57.95%'''
+
+| image2 = Rolando_Araya_cropped.jpg
+| nominee2 = [[Rolando Araya Monge|Rolando Araya]]
+| running_mate2 = Fernando Naranjo <br /> Sandra Piszk
+| party2 = National Liberation Party (Costa Rica)
+| popular_vote2 = 563,202
+| percentage2 = 42.05%
+
+| map = {{Switcher
+| [[File:Elección Presidencial de Costa Rica (2002) (Primera Ronda) (Distritos Administrativos).svg|300px]]
+| First round results by district
+| [[File:Elección Presidencial de Costa Rica (2002) (Segunda Ronda) (Distritos Administrativos).svg|300px]]
+| Second round results by district|default=2
+}}
+| map_caption ='''Pacheco''': {{legend0|#596DC9|30–40%}} {{legend0|#3E56BF|40–50%}} {{legend0|#354AA4|50–60%}} {{legend0|#2C3D89|60–70%}} {{legend0|#23316D|70–80%}} {{legend0|#1B2552|80–90%}}<br>'''Araya''': {{legend0|#5DA888|30–40%}} {{legend0|#509577|40–50%}} {{legend0|#457F66|50–60%}} {{legend0|#396A55|60–70%}} {{legend0|#2E5544|70-80%}}<br>'''Solís''': {{legend0|#EDE900|30-40%}} {{legend0|#CFCC00|40–50%}}<br>'''Tie''': {{legend0|#BB8AC8|30-40%}} {{legend0|#AA6EBB|40–50%}}
+
+| title = [[President of Costa Rica|President]]
+| before_election = [[Miguel Ángel Rodríguez]]
+| before_party = Social Christian Unity Party
+| after_election = [[Abel Pacheco]]
+| after_party = Social Christian Unity Party
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+
+| seats_for_election = All 57 seats in the [[Legislative Assembly of Costa Rica|Legislative Assembly]]
+| majority_seats = 29
+| turnout = 68.84% ({{decrease}} 1.08[[percentage point|pp]])
+
+| party1 = Social Christian Unity Party
+| leader1 = [[Abel Pacheco]]
+| percentage1 = 29.78
+| seats1 = 19
+| last_election1 = 27
+
+| party2 = National Liberation Party (Costa Rica)
+| leader2 = [[Rolando Araya Monge]]
+| percentage2 = 27.10
+| seats2 = 17
+| last_election2 = 23
+
+| party3 = Citizens' Action Party (Costa Rica)
+| leader3 = [[Ottón Solís]]
+| percentage3 = 21.96
+| seats3 = 14
+| last_election3 = New
+
+| party4 = Libertarian Movement (Costa Rica)
+| leader4 = [[Otto Guevara]]
+| percentage4 = 9.34
+| seats4 = 6
+| last_election4 = 1
+
+| party5 = Costa Rican Renovation Party
+| leader5 = [[Justo Orozco]]
+| percentage5 = 3.59
+| seats5 = 1
+| last_election5 = 1
+
+| map                = Elecciones legislativas de Costa Rica de 2002 - Diputados por Provincia.svg
+| map_caption        = Results by province
+}}}}}}{{Politics of Costa Rica}}
+
+General elections were held in [[Costa Rica]] on 3 February 2002.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p155 {{ISBN|978-0-19-928357-6}}</ref> For the first time in the country's history, no candidate in the presidential election passed the 40% threshold.<ref name=DN>Nohlen, p. 150.</ref> This meant a second round of voting had to be held on 7 April which saw [[Abel Pacheco]] of the [[Social Christian Unity Party]] defeat the [[National Liberation Party (Costa Rica)|National Liberation Party's]] [[Rolando Araya Monge]].<ref name="results">{{cite web |url=http://www.electionguide.org/results.php?ID=406 |title=Election profile: Costa Rica |publisher=International Foundation for Electoral Systems |date=1 September 2006|accessdate=26 June 2011 }}</ref>
+
+Many analysts consider this election the beginning of the end of Costa Rica's decades-long [[two party system]].<ref name="Landsford">{{cite book|last1=Landsford|first1=Tom|title=Political Handbook of the World 2014|date=20 March 2014|isbn=9781483386263|url=https://books.google.com/books?id=iC_VBQAAQBAJ&q=costa+rica%27s+end+of+two+party+system&pg=PA333|accessdate=13 March 2016}}</ref><ref name="Landsford 2">{{cite book|last1=Landsford|first1=Tom|title=Political Handbook of the World 2012|date=2 April 2012|isbn=9781608719952|url=https://books.google.com/books?id=d33MfEFXvW8C&q=costa+rica%27s+end+of+two+party+system&pg=PA332|accessdate=13 March 2016}}</ref><ref>{{cite book|last1=Greenspana|first1=Eliot|last2=Gill|first2=Nicholas|last3=O'Malley|first3=Charlie|last4=Gilsenan|first4=Patrick|last5=Perill|first5=Jisel|publisher=Frommer's Central America|title=Elecciones legislativas de Costa Rica de 2002}}</ref> For the first time in many years alternative political forces become relevant in the Parliament and the plenary had three large party groups; [[Social Christian Unity Party|PUSC]] (19), [[National Liberation Party (Costa Rica)|PLN]] (17) and [[Citizens' Action Party (Costa Rica)|PAC]] (14).<ref name="ER">{{cite web|title=5 February 2002 Legislative Assembly Election Results - Costa Rica Totals|url=http://www.electionresources.org/cr/deputies.php?election=2002|website=Election Resources|accessdate=13 March 2016}}</ref>
+
+While PUSC won the presidential election and the majority in Congress, PLN became the primal opposition force in Parliament. [[Centre-left]] PAC with a [[Progressivism|progressive]] platform seemed to have gravely affected traditional third forces at the left of the spectrum like [[Democratic Force (Costa Rica)|Democratic Force]], which failed to win any seat on that election.<ref name="ER"/> The right-wing [[Libertarian Movement (Costa Rica)|Libertarian Movement]] also increased its representation from one to six deputies<ref name="ER"/> while the [[conservative]]<ref>{{cite news|last1=Lopez|first1=Jaime|title=Civic Groups Move Against Gay Marriage in Costa Rica|url=http://news.co.cr/civic-groups-move-against-gay-marriage-in-costa-rica/23281/|accessdate=13 March 2016|agency=Costa Rica Star|date=July 18, 2013}}</ref> [[Costa Rican Renewal Party]] retained its one seat.<ref name="ER"/>
+
+It was the first time in Costa Rica an [[Evangelicalism|evangelical Christian]] party, the Christian National Alliance, nominated a [[Catholic Church|Catholic]], [[biologist]] and professor [[Marvin Calvo Montoya]], as its presidential candidate. It was also the last presidential election of the Christian National Alliance.
+
+Despite the close contest, voter turnout was only 69% on 3 February, the lowest since the [[1958 Costa Rican general election|1958 elections]]. For the second round of the presidential elections it fell to 60%, the lowest since [[1949 Costa Rican general election|1949]].<ref>Nohlen, pp. 156&ndash;157.</ref>
+
+==Background==
+Before the election, the country's Supreme Electoral Tribinal attempted to make several reforms to the electoral system. These included allowing [[Independent (politician)|independents]] to run in local elections, using electronic voting machines, allowing Costa Ricans living abroad to vote, and allowing voters to choose the top two places on parliamentary lists.<ref name=DN/> However, the changes were rejected by the [[Legislative Assembly of Costa Rica|Legislative Assembly]], which noted that independent candidature was incompatible with the constitution, and that electronic voting could not be guaranteed to be secure or transparent.<ref name=DN/>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Abel Pacheco]]|party1=[[Social Christian Unity Party]]|votes1=590277|votes1_2=776278
+|cand2=[[Rolando Araya Monge]]|party2=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes2=475030|votes2_2=563202
+|cand3=[[Ottón Solís]]|party3=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes3=400681
+|cand4=[[Otto Guevara]]|party4=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes4=25815
+|cand5=[[Justo Orozco Álvarez]]|party5=[[Costa Rican Renewal Party]]|votes5=16404
+|cand6={{ill|Walter Muñoz Céspedes|es}}|party6=[[National Integration Party (Costa Rica)|National Integration Party]]|votes6=6235
+|cand7={{ill|Vladimir de la Cruz|es|Vladimir de la Cruz de Lemos}}|party7=[[Democratic Force (Costa Rica)|Democratic Force]]|votes7=4121
+|cand8={{ill|Jorge Walter Coto Molina|es}}|party8=[[Coalition Change 2000]]|votes8=3970|color8=#FFFF00
+|cand9=Rolando Angulo Zeledón|party9={{ill|General Union Party|es|Partido Unión Generaleña}}|votes9=2655
+|cand10=Daniel Reynolds Vargas|party10={{ill|National Patriotic Party (Costa Rica)|es|Partido Patriótico Nacional|lt=National Patriotic Party}}|votes10=1680|color10=royalblue
+|cand11=[[Marvin Calvo Montoya]]|party11={{ill|Christian National Alliance Party|es|Alianza Nacional Cristiana}}|votes11=1271
+|cand12={{ill|José Hine García|es}}|party12=[[National Rescue Party]]|votes12=905
+|cand13=Pablo Galo Angulo Casasola|party13={{ill|Independent Workers' Party (Costa Rica)|es|Partido Independiente Obrero|lt=Independent Workers' Party}}|votes13=801|color13=#000080
+|blank=7241|blank2=6006
+|invalid=32332|invalid2=27457
+|votes15_2=1372943
+|electorate=2279851|electorate2=2279851
+|source=[http://www.electionresources.org/cr/president.php?election=2002&province= Election Resources]
+}}
+
+====By province====
+'''First round'''
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| [[Provinces of Costa Rica|Province]] %
+!width=60px| [[Social Christian Unity Party|PUSC]] %
+!width=60px| [[National Liberation Party (Costa Rica)|PLN]] %
+!width=60px| [[Citizens' Action Party (Costa Rica)|PAC]] %
+!width=60px| [[Libertarian Movement (Costa Rica)|ML]] %
+!width=60px| [[Costa Rican Renewal Party|PRC]] %
+!width=60px| [[National Integration Party (Costa Rica)|PIN]] %
+!width=60px| [[Democratic Force (Costa Rica)|FD]] %
+!width=60px| Other %
+|-
+!style="background:{{party color|Social Christian Unity Party}}"|
+!style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+!style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+!style="background:{{party color|Libertarian Movement (Costa Rica)}}"|
+!style="background:{{party color|Costa Rican Renovation Party}}"|
+!style="background:{{party color|National Integration Party (Costa Rica)}}"|
+!style="background:{{party color|Democratic Force (Costa Rica)}}"|
+!style="background:#7a7a7a"|
+|-
+| align="left"| {{flag|San José}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 36.6
+| 28.5
+| style="background:#FFEB7F; color:black;"| 31.1
+| 1.6
+| 0.8
+| 0.6
+| 0.2
+| 0.7
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 37.8
+| style="background:#66B27B; color:white;"| 34.1
+| 24.7
+| 1.4
+| 0.9
+| 0.3
+| 0.2
+| 0.6
+|-
+| align="left"| {{flag|Cartago}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 35.4
+| style="background:#66B27B; color:white;"| 31.8
+| 28.4
+| 1.9
+| 0.7
+| 0.5
+| 0.4
+| 1.0
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 36.1
+| 26.8
+| style="background:#FFEB7F; color:black;"| 33.2
+| 1.6
+| 1.1
+| 0.4
+| 0.2
+| 0.7
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 45.0
+| style="background:#66B27B; color:white;"| 33.8
+| 15.8
+| 2.5
+| 1.7
+| 0.2
+| 0.3
+| 0.9
+|-
+| align="left"| {{flag|Limón}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 48.6
+| style="background:#66B27B; color:white;"| 28.4
+| 14.9
+| 2.8
+| 3.1
+| 0.3
+| 0.4
+| 1.5
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 44.3
+| style="background:#66B27B; color:white;"| 40.6
+| 12.1
+| 0.9
+| 1.2
+| 0.2
+| 0.2
+| 0.8
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 38.6
+| 31.1
+| 26.2
+| 1.7
+| 1.1
+| 0.4
+| 0.3
+| 0.9
+|}
+
+'''Second round'''
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan="2"| [[Provinces of Costa Rica|Province]]
+!width="60px"| [[Social Christian Unity Party|PUSC]] %
+!width="60px"| [[National Liberation Party (Costa Rica)|PLN]] %
+|-
+! style="background:{{party color|Social Christian Unity Party}}"|
+!style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+|-
+| align="left"| {{flag|San José}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 57.7
+| 42.3
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 56.1
+| 43.9
+|-
+| align="left"| {{flag|Cartago}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 55.6
+| 44.4
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 58.1
+| 41.9
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 59.7
+| 40.3
+|-
+| align="left"| {{flag|Limón}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 67.0
+| 33.0
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 57.1
+| 42.9
+|-
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 58.0
+| 42.0
+|}
+
+===Parliament===
+{{Election results
+|image=[[File:Costa Rica_Legislative Assembly_2002.svg]]
+|party1=[[Social Christian Unity Party]]|votes1=453201|seats1=19|sc1=–8
+|party2=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes2=412383|seats2=17|sc2=–6
+|party3=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes3=334162|seats3=14|sc3=New
+|party4=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes4=142152|seats4=6|sc4=+5
+|party5=[[Costa Rican Renewal Party]]|votes5=54699|seats5=1|sc5=0
+|party6=[[Democratic Force (Costa Rica)|Democratic Force]]|votes6=30172|seats6=0|sc6=–3
+|party7=[[National Integration Party (Costa Rica)|National Integration Party]]|votes7=26084|seats7=0|sc7=–1
+|party8=[[Coalition Change 2000]]|votes8=12992|seats8=0|sc8=New|color8=#FFFF00
+|party9=[[Agrarian Labour Action Party]]|votes9=10890|seats9=0|sc9=–1
+|party10={{ill|Independent Workers' Party (Costa Rica)|es|Partido Independiente Obrero|lt=Independent Workers' Party}}|votes10=8044|seats10=0|sc10=New|color10=#000080
+|party11={{ill|National Patriotic Party (Costa Rica)|es|Partido Patriótico Nacional|lt=National Patriotic Party}}|votes11=7123|seats11=0|sc11=New|color11=royalblue
+|party12=[[Cartago Agrarian Union Party]]|votes12=6974|seats12=0|sc12=0
+|party13={{ill|Christian National Alliance Party|es|Alianza Nacional Cristiana}}|votes13=6825|seats13=0|sc13=New
+|party14={{ill|General Union Party|es|Partido Unión Generaleña}}|votes14=5883|seats14=0|sc14=0
+|party15=[[National Rescue Party]]|votes15=4937|seats15=0|sc15=0
+|party16={{ill|National Agrarian Party (Costa Rica)|es|Partido Agrario Nacional|lt=National Agrarian Party}}|votes16=2595|seats16=0|sc16=New
+|party17=Cartago Agrarian Force Party|votes17=1390|seats17=0|sc17=New
+|party18=National Convergence Party|votes18=1348|seats18=0|sc18=0|color18=black
+|invalid=28461
+|blank=19023
+|total_sc=0
+|electorate=2279851
+|source=[http://www.electionresources.org/cr/deputies.php?election=2002&province= Election Resources]
+}}
+
+====By constituency====
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+|-
+! rowspan="3"| Constituency
+! colspan="2" width="30px"| [[Social Christian Unity Party|PUSC]]
+! colspan="2" width="30px"| [[National Liberation Party (Costa Rica)|PLN]]
+! colspan="2" width="30px"| [[Citizens' Action Party (Costa Rica)|PAC]]
+! colspan="2" width="30px"| [[Libertarian Movement (Costa Rica)|ML]]
+! colspan="2" width="30px"| [[Costa Rican Renewal Party|PRC]]
+! colspan="2" width="30px"| [[Democratic Force (Costa Rica)|FD]]
+! colspan="2" width="30px"| [[National Integration Party (Costa Rica)|PIN]]
+! colspan="2" width="30px"| Other
+|-
+! colspan="2" style="background:{{party color|Social Christian Unity Party}}"|
+! colspan="2" style="background:{{party color|National Liberation Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Citizens' Action Party (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Libertarian Movement (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|Costa Rican Renovation Party}}"|
+! colspan="2" style="background:{{party color|Democratic Force (Costa Rica)}}"|
+! colspan="2" style="background:{{party color|National Integration Party (Costa Rica)}}"|
+! colspan="2" style="background:#7a7a7a"|
+
+|-
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+|-
+| align="left"| [[San José (Legislative Assembly constituency)|San José]]
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 27.1
+|'''6'''
+| 24.2
+|'''5'''
+| style="background:#FFEB7F; color:black;"| 27.0
+|'''6'''
+| 11.8
+|'''2'''
+| 3.6
+|'''1'''
+| 1.7
+|'''0'''
+| 1.8
+|'''0'''
+| 2.8
+|'''0'''
+|-
+| align="left"| [[Alajuela (Legislative Assembly constituency)|Alajuela]]
+| style="background:#7373dc; color:white;"| 30.2
+|'''4'''
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 30.5
+|'''4'''
+| 20.7
+|'''2'''
+| 7.5
+|'''1'''
+| 2.8
+|'''0'''
+| 1.3
+|'''0'''
+| 1.4
+|'''0'''
+| 5.4
+|'''0'''
+|-
+| align="left"| [[Cartago (Legislative Assembly constituency)|Cartago]]
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 25.7
+|'''2'''
+| style="background:#66B27B; color:white;"| 25.4
+|'''2'''
+| 20.8
+|'''2'''
+| 7.3
+|'''1'''
+| 2.0
+|'''0'''
+| 3.7
+|'''0'''
+| 4.5
+|'''0'''
+| 10.4
+|'''0'''
+|-
+| align="left"| [[Heredia (Legislative Assembly constituency)|Heredia]]
+| style="background:#7373dc; color:white;"| 27.5
+|'''1'''
+| 24.3
+|'''1'''
+| style="background:#FFD700; color:white;"| 27.6
+|'''2'''
+| 10.7
+|'''1'''
+| 3.5
+|'''0'''
+| 2.3
+|'''0'''
+| 1.0
+|'''0'''
+| 3.0
+|'''0'''
+|-
+| align="left"| [[Puntarenas (Legislative Assembly constituency)|Puntarenas]]
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 37.8
+|'''2'''
+| style="background:#66B27B; color:white;"| 29.8
+|'''1'''
+| 12.9
+|'''1'''
+| 10.0
+|'''1'''
+| 4.2
+|'''0'''
+| 1.8
+|'''0'''
+| 0.4
+|'''0'''
+| 3.2
+|'''0'''
+|-
+| align="left"| [[Limón (Legislative Assembly constituency)|Limón]]
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 37.3
+|'''2'''
+| style="background:#66B27B; color:white;"| 26.2
+|'''2'''
+| 12.7
+|'''1'''
+| 8.1
+|'''1'''
+| 5.6
+|'''0'''
+| 2.7
+|'''0'''
+| 0.8
+|'''0'''
+| 9.4
+|'''0'''
+|-
+| align="left"| [[Guanacaste (Legislative Assembly constituency)|Guanacaste]]
+| style="background:#7F7FC3; color:white;"| 37.9
+|'''2'''
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 39.1
+|'''2'''
+| 10.3
+|'''0'''
+| 2.8
+|'''0'''
+| 6.2
+|'''0'''
+| 1.2
+|'''0'''
+| 0.4
+|'''0'''
+| 2.2
+|'''0'''
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|Social Christian Unity Party}}; color:white;"| 29.8
+|'''19'''
+| 27.1
+|'''17'''
+| 22.0
+|'''14'''
+| 9.3
+|'''6'''
+| 3.6
+|'''1'''
+| 2.0
+|'''0'''
+| 1.7
+|'''0'''
+| 4.6
+|'''0'''
+|}
+
+==See also==
+*[[2002 Costa Rican municipal elections]]
+
+==References==
+{{reflist}}
+
+{{Costa Rican elections}}
+
+[[Category:2002 elections in Central America|Costa]]
+[[Category:2002 in Costa Rica|General]]
+[[Category:Parliamentary elections in Costa Rica]]
+[[Category:Presidential elections in Costa Rica]]

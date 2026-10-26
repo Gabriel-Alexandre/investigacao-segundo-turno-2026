@@ -1,0 +1,120 @@
+{{Short description|none}}
+{{Infobox election
+| country = Guatemala
+
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_name = Presidential election
+| election_date = 12 November 1995 (first round)<br/>7 January 1996 (second round)
+| previous_election = 1993 Guatemalan presidential election
+| previous_year = 1993
+| next_election = 1999 Guatemalan general election
+| next_year = 1999
+| turnout = 46.80% (first round) {{decrease}} 9.64[[percentage point|pp]]<br />36.88% (second round) {{decrease}} 8.35[[percentage point|pp]]
+
+| image1 = Foto oficial de Presidente Álvaro Arzú (cropped).jpg
+| nominee1 = '''[[Álvaro Arzú]]'''
+| popular_vote1 = '''671,354'''
+| running_mate1 = '''[[Luis Alberto Flores Asturias|Alberto Flores Asturias]]'''
+| percentage1 = '''51.22%'''
+| party1 = National Advancement Party
+
+| image2 = Portillo.jpg
+| nominee2 = [[Alfonso Portillo]]
+| popular_vote2 = 639,404
+| percentage2 = 48.78%
+| party2 = Guatemalan Republican Front
+| running_mate2 = Carlos Méndez
+
+| map_image = Resultados elecciones 1996.png
+| title = President
+| before_election = [[Ramiro de León Carpio]]
+| before_party = Independent (politician)
+| posttitle = President-elect
+| after_election = [[Álvaro Arzú]]
+| after_party = National Advancement Party
+}}}}{{Politics of Guatemala}}
+
+General elections were held in [[Guatemala]] on 12 November 1995, with a second round of the presidential elections held on 7 January 1996.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p323 {{ISBN|978-0-19-928357-6}}</ref><ref>{{Cite journal |date=1996 |title=Election Watch |url=https://muse.jhu.edu/pub/1/article/697484 |journal=Journal of Democracy |volume=7 |issue=1 |issn=1086-3214}}</ref> [[Álvaro Arzú]] of the [[National Advancement Party]] won the presidential election, whilst his party also won the Congressional elections. Voter turnout was 46.8% on 12 November and 36.9% on 7 January.<ref>Nohlen, p324</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Álvaro Arzú]]|vp1=[[Luis Alberto Flores Asturias]]|party1=[[National Advancement Party]]|votes1=565393|votes1_2=671354
+|cand2=[[Alfonso Portillo]]|vp2=Carlos Aníbal Méndez Cabrera|party2=[[Guatemalan Republican Front]]|votes2=341364|votes2_2=639404
+|cand3=Fernando Andrade Díaz-Durán|vp3=Lizardo Arturo Sosa López|party3=[[National Centre Union|UCN]]–[[Guatemalan Christian Democracy|DCG]]–[[Democratic Social Party (Guatemala)|PSD]]|votes3=200393
+|cand4=Jorge Luis González del Valle|vp4=Juan León Alvarado|party4=[[Guatemalan National Revolutionary Unity|Democratic Front New Guatemala]]|votes4=119305
+|cand5=Acisclo Valladares Molina|vp5=Daniel Agustín González Estrada|party5=Progressive Liberating Party|votes5=80761
+|cand6=[[José Luis Chea Urruela]]|vp6=Oscar Rolando Chaclán Sapón|party6=[[Democratic Union (Guatemala)|Democratic Union]]|votes6=56191
+|cand7=Luis Rolando Torres Casanova|vp7=Oscar Lionel Figueredo Ara|party7=[[Authentic Integral Development]]|votes7=39425
+|cand8=[[Héctor Mario López Fuentes]]|vp8=Ulysses Charles Dent Weissenberg|party8=[[National Liberation Movement (Guatemala)|National Liberation Movement]]|votes8=35675
+|cand9=José "Pepe" Fernández|vp9=Arturo Eduardo Meyer Maldonado|party9=Progressive Party|votes9=25219
+|cand10=[[Héctor Gramajo]]|vp10=Marco Antonio Rojas de Yapan|party10=[[Institutional Democratic Party|PID]]–[[National Unity Front (Guatemala)|FUN]]|votes10=18060
+|cand11=Miguel Ángel Montepeque Contreras|vp11=Oscar Rafael Prem Sáenz|party11=Guatemalan Reformist Party|votes11=17471
+|cand12=Monchis Godoy Gómez|vp12=Arturo Leopoldo Soto Echeverría|party12=National Historic Change|votes12=11344
+|cand13=Juan José Rodil Peralta|vp13=José Guillermo Echeverría Vielman|party13=People's Party|votes13=8140
+|cand14=[[Ángel Aníbal Guevara]]|vp14=José Arturo López Malumbre|party14=Guatemalan Democratic Party|votes14=6714
+|cand15=Carlos Augusto Morales Villatoro|vp15=Marco Antonio Villamar Contreras|party15=[[Popular Alliance 5]]|votes15=6193
+|cand16=Lionel Sisniega Otero Barrios|vp16=Héctor Miguel Montenegro Camblor|party16=[[Nationalist Authentic Centre]]|votes16=6079
+|cand17=Flor de María Alvarado Suárez de Solís|vp17=Erik de Jesús Maldonado Arreaga|party17=Popular Democratic Force|votes17=5885
+|cand18=Mario Francisco Castejón García Prendes|vp18=Oscar Grotewold Solares|party18=Destitute People's Movement|votes18=3119
+|cand19=Carlos Alfonso González Quezada|vp19=Oscar Emilio Gordillo Díaz|party19=[[National Conciliation Party (Guatemala)|PCN]]–[[Freedom Patriotic Movement|MPL]]|votes19=2133
+|invalid=188169|invalid2=58070
+|electorate=3711589|electorate2=3711589 
+|source=Nohlen, [http://americo.usal.es/iberoame/sites/default/files/roson_guatemala.pdf Rosón], [https://www.tse.org.gt/images/Memoria_95_96.pdf TSE]
+}}
+
+===Congress===
+{{Election results
+|firstround=National|secondround=District
+|party1=[[National Advancement Party]]|votes1=645446|seats1=7|votes1_2=477232|seats1_2=36|totseats1=43|sc1=
+|party2=[[Guatemalan Republican Front]]|votes2=335195|seats2=4|votes2_2=284936|seats2_2=17|totseats2=21|sc2=
+|party3=[[National Centre Union|UCN]]–[[Guatemalan Christian Democracy|DCG]]–[[Democratic Social Party (Guatemala)|PSD]]|votes3=188488|seats3=2|votes3_2=30415|seats3_2=0|totseats3=2|sc3=
+|party4=[[Guatemalan National Revolutionary Unity|Democratic Front New Guatemala]]|votes4=163600|seats4=2|votes4_2=120368|seats4_2=4|totseats4=6|sc4=
+|party5=[[Progressive Liberating Party]]|votes5=70565|seats5=0|votes5_2=54651|seats5_2=0|totseats5=0|sc5=
+|party6=[[Democratic Union (Guatemala)|Democratic Union]]|votes6=68663|seats6=1|votes6_2=61979|seats6_2=1|totseats6=2|sc6=
+|party7=[[National Liberation Movement (Guatemala)|National Liberation Movement]]|votes7=51315|seats7=0|votes7_2=46346|seats7_2=1|totseats7=1|sc7=
+|party8=[[Authentic Integral Development]]|votes8=48778|seats8=0|votes8_2=48703|seats8_2=0|totseats8=0|sc8=
+|party9=Guatemalan Reformist Party|votes9=25366|seats9=0|votes9_2=26741|seats9_2=0|totseats9=0|sc9=
+|party10=Progressive Party|votes10=25200|seats10=0|votes10_2=15170|seats10_2=0|totseats10=0|sc10=
+|party11=National Historic Change|votes11=16732|seats11=0|votes11_2=14119|seats11_2=0|totseats11=0|sc11=
+|party12=[[National Unity Front (Guatemala)|FUN]]–[[Institutional Democratic Party|PID]]|votes12=11798|seats12=0|votes12_2=12368|seats12_2=0|totseats12=0|sc12=
+|party13=[[People's Party (Guatemala)|People's Party]]|votes13=11672|seats13=0|votes13_2=8461|seats13_2=0|totseats13=0|sc13=
+|party14=Guatemalan Democratic Party|votes14=11458|seats14=0|votes14_2=14074|seats14_2=0|totseats14=0|sc14=
+|party15=Nationalist Authentic Centre|votes15=10028|seats15=0|votes15_2=4937|seats15_2=0|totseats15=0|sc15=
+|party16=Popular Alliance 5|votes16=9647|seats16=0|votes16_2=6914|seats16_2=0|totseats16=0|sc16=
+|party17=Popular Democratic Front|votes17=5092|seats17=0|votes17_2=1822|seats17_2=0|totseats17=0|sc17=
+|party18=Destitute People's Movement|votes18=3737|seats18=0|votes18_2=2510|seats18_2=0|totseats18=0|sc18=
+|party19=Social Reformist Union|votes19=3402|seats19=0|votes19_2=3635|seats19_2=0|totseats19=0|sc19=
+|party20=PCN–MPL|votes20=2102|seats20=0|votes20_2=1897|seats20_2=0|totseats20=0|sc20=
+|party21=Guatemalan Party of Labour|votes21=896|seats21=0|votes21_2=1744|seats21_2=0|totseats21=0|sc21=
+|party22=[[National Centre Union]]|votes22_2=86882|seats22_2=2|totseats22=2|sc22=
+|party23=[[Guatemalan Christian Democracy]]|votes23_2=78932|seats23_2=3|totseats23=3|sc23=
+|party24=[[Guatemalan Christian Democracy|DCG]]–[[Democratic Social Party (Guatemala)|PSD]]|votes24_2=20548|seats24_2=0|totseats24=0|sc24=
+|party25=[[Guatemalan Christian Democracy|DCG]]–[[National Centre Union|UCN]]|votes25_2=14254|seats25_2=0|totseats25=0|sc25=
+|party26=Democratic Social Party|votes26_2=6579|seats26_2=0|totseats26=0|sc26=
+|party27=[[Democratic Union (Guatemala)|UD]]–[[Democratic Social Party (Guatemala)|PSD]]|votes27_2=2904|seats27_2=0|totseats27=0|sc27=
+|party28=Patriotic Movement Liberty|votes28_2=2574|seats28_2=0|totseats28=0|sc28=
+|party29=[[National Centre Union|UCN]]–[[Democratic Social Party (Guatemala)|PSD]]|votes29_2=2281|seats29_2=0|totseats29=0|sc29=
+|party30=Party of National Reconciliation|votes30_2=860|seats30_2=0|totseats30=0|sc30=
+|invalid=261212|invalid2=211492
+|total_sc=0
+}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*Villagrán Kramer, Francisco. Biografía política de Guatemala: años de guerra y años de paz. FLACSO-Guatemala, 2004. 
+*Political handbook of the world 1995. New York, 1996.
+
+{{Guatemalan elections}}
+
+{{DEFAULTSORT:1995-96 Guatemalan general election}}
+[[Category:Parliamentary elections in Guatemala]]
+[[Category:1995 elections in Central America|Guatemala]]
+[[Category:1995 in Guatemala|General]]
+[[Category:1996 elections in Central America|Guatemala]]
+[[Category:1996 in Guatemala|General]]
+[[Category:Presidential elections in Guatemala]]

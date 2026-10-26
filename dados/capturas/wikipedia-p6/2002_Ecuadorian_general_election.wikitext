@@ -1,0 +1,103 @@
+{{Short description|Presidential and congressional elections}}
+{{Infobox election
+| country = Ecuador
+| previous_election = 1998 Ecuadorian general election
+| previous_year = 1998
+| next_election = 2006 Ecuadorian general election
+| next_year = 2006
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 20 October 2002 (first round)<br />{{nowrap|24 November 2002 (second round)}} 
+| registered = 8,154,425
+| turnout = 64.98% (first round)<br />71.21% (second round)
+
+| image1 = Lucio Gutiérrez (cropped).jpg
+| nominee1 = '''[[Lucio Gutiérrez]]'''
+| party1 = January 21 Patriotic Society Party
+| running_mate1 = '''[[Alfredo Palacio]]'''
+| popular_vote1 = '''2,803,243'''
+| percentage1 = '''54.79%'''
+
+| image2 = Álvaro Noboa.jpg
+| nominee2 = [[Álvaro Noboa]]
+| party2 = Institutional Renewal Party of National Action
+| running_mate2 = Marcelo Cruz
+| popular_vote2 = 2,312,854
+| percentage2 = 45.21%
+
+| map_image = | map = {{Switcher|[[File:Votos Presidente por Provincia Ecuador primera vuelta 2002.svg|200px]]|First round results by province|[[File:Votos Presidente por Provincia Ecuador segunda vuelta 2002.svg|200px]]|Second round results by province|default=2}}
+
+| title = [[President of Ecuador|President]]
+| before_election = [[Gustavo Noboa]]
+| before_party = Democracia Popular
+| after_election = [[Lucio Gutiérrez]]
+| after_party = January 21 Patriotic Society Party
+}}}}{{Politics of Ecuador}}
+
+General elections were held in [[Ecuador]] on 20 October 2002, with a second round of the presidential elections on 24 November.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p380 {{ISBN|978-0-19-928358-3}}</ref> The result was a victory for [[Lucio Gutiérrez]] of the [[Patriotic Society Party|PSP]]–[[Pachakutik Plurinational Unity Movement – New Country|MUPP–NP]] alliance, who won the run-off with 54.8% of the vote.<ref>Nohlen, p404</ref> The [[Social Christian Party (Ecuador)|Social Christian Party]] emerged as the largest party in the [[National Congress (Ecuador)|National Congress]], winning 24 of the 100 seats.<ref>[http://www.ipu.org/parline-e/reports/arc/2095_02.htm Elections held in 2002] IPU</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Lucio Gutiérrez]]|vp1=[[Alfredo Palacio]]|party1=[[Patriotic Society Party|PSP]]–[[Pachakutik Plurinational Unity Movement – New Country|MUPP–NP]]|votes1=943123|votes1_2=2803243
+|cand2=[[Álvaro Noboa]]|vp2=Vicente Taiano|party2=[[Institutional Renewal Party of National Action]]|votes2=794614|votes2_2=2312854
+|cand3=[[León Roldós Aguilera]]|vp3=Dolores Padilla|party3=Citizen Force Movement|votes3=703593
+|cand4=[[Rodrigo Borja Cevallos]]|vp4=[[Eva García Fabre|Eva García]]|party4=[[Democratic Left (Ecuador)|Democratic Left]]|votes4=638142
+|cand5=[[Xavier Neira Menéndez|Xavier Neira]]|vp5=[[Álvaro Pérez Intriago|Álvaro Pérez]]|party5=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes5=553106
+|cand6=[[Jacobo Bucaram]]|vp6=[[Frank Vargas Pazzos]]|party6=[[Ecuadorian Roldosist Party]]|votes6=544688
+|cand7=Jacinto Velazquez|vp7=Patricio Larrea|party7=Independent Social Transformation Movement|votes7=169311
+|cand8=[[Ivonne Baki]]|vp8=César Frixone|party8=[[Ecuadorian Radical Liberal Party|PLRE]]–Metamorfosis|votes8=79598
+|cand9=César Alarcón|vp9=Universi Zambrano|party9=[[Freedom Party (Ecuador)|Freedom Party]]|votes9=54793
+|cand10=[[Osvaldo Hurtado]]|vp10=[[Gloria Gallardo (politician)|Gloria Gallardo]]|party10=[[Solidarity Fatherland Movement]]|votes10=49043|color10=#AFEEEE
+|cand11=[[Antonio Vargas]]|vp11=Modesto Vela|party11=Independent Amauta Jatari Movement|votes11=39171
+|invalid=729399|invalid2=691012
+|electorate=8154425|electorate2=8154425
+|source=Nohlen
+}}
+
+===National Congress===
+{{Expand Spanish|topic=gov|Elecciones legislativas de Ecuador de 2002|section=yes|date=October 2025}}
+{{Election results
+|image=[[File:Congresoec2002.svg|360px]]
+|party1=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes1=|seats1=24|sc1=
+|party2=[[Christian Democratic Union (Ecuador)|Popular Democracy–Christian Democratic Union]]|votes2=|seats2=19|sc2=
+|party3=[[Democratic Left (Ecuador)|Democratic Left]]|votes3=|seats3=13|sc3=
+|party4=[[Institutional Renewal Party of National Action]]|votes4=|seats4=10|sc4=
+|party5=[[Patriotic Society Party|PSP]]–[[Pachakutik Plurinational Unity Movement – New Country|MUPP]]|votes5=|seats5=6|sc5=
+|party6=[[Pachakutik Plurinational Unity Movement – New Country]]|votes6=|seats6=5|sc6=
+|party7=[[Democratic People's Movement]]|votes7=|seats7=3|sc7=
+|party8=[[Patriotic Society Party]]|votes8=|seats8=2|sc8=
+|party9=[[Socialist Party – Broad Front of Ecuador|PSFA]]–[[Pachakutik Plurinational Unity Movement – New Country|MUPP]]|votes9=|seats9=2|sc9=
+|party10=[[Democratic People's Movement|MPD]]–[[Socialist Party – Broad Front of Ecuador|PSFA]]|votes10=|seats10=2|sc10=
+|party11=AN–[[Socialist Party – Broad Front of Ecuador|PSFA]]–[[Christian Democratic Union (Ecuador)|DPUDC]]|votes11=|seats11=1|sc11=
+|party12=[[Concentration of People's Forces]]|votes12=|seats12=1|sc12=
+|party13=[[Democratic Left (Ecuador)|Democratic Left]]–[[Christian Democratic Union (Ecuador)|DPUDC]]|votes13=|seats13=1|sc13=
+|party14=[[Democratic Left (Ecuador)|Democratic Left]]–[[New Country Civic Movement|MCNP]]|votes14=|seats14=1|sc14=
+|party15=[[Democratic Left (Ecuador)|Democratic Left]]–MIRE|votes15=|seats15=1|sc15=
+|party16=Democratic Transformation|votes16=|seats16=1|sc16=|color16=#EF3038
+|party17=[[Freedom Party (Ecuador)|Freedom Party]]|votes17=|seats17=1|sc17=
+|party18=[[Pachakutik Plurinational Unity Movement – New Country|MUPP]]–[[New Country Civic Movement|MCNP]]|votes18=|seats18=1|sc18=
+|party19=[[Provincial Integration Movement]]|votes19=|seats19=1|sc19=|color19=#FF007F
+|party20=[[Socialist Party – Broad Front of Ecuador]]|votes20=|seats20=1|sc20=
+|party21=[[Patriotic Society Party|PSP]]–[[Democratic People's Movement|MPD]]|votes21=|seats21=1|sc21=
+|party22=[[Social Christian Party (Ecuador)|Social Christian Party]]–AN|votes22=|seats22=1|sc22=
+|party23=[[Solidarity Fatherland Movement]]|votes23=|seats23=1|sc23=|color23=#AFEEEE
+|party24=UN–[[Social Christian Party (Ecuador)|PSC]]|votes24=|seats24=1|sc24=
+|source=[https://repositorio.flacsoandes.edu.ec/bitstream/10469/2436/4/TFLACSO-2010MAMC.pdf Córdova]
+}}
+
+==References==
+{{reflist}}
+
+{{Ecuadorian elections}}
+
+[[Category:Presidential elections in Ecuador]]
+[[Category:Parliamentary elections in Ecuador]]
+[[Category:2002 elections in South America|Ecuador]]
+[[Category:2002 in Ecuador|General]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:October 2002 in South America|Ecuador]]
+[[Category:November 2002 in South America|Ecuador]]

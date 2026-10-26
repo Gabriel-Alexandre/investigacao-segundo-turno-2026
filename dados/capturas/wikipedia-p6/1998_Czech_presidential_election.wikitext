@@ -1,0 +1,139 @@
+{{Short description|none}}
+{{Infobox election
+| country = Czech Republic
+| type = presidential
+| previous_election = 1993 Czech presidential election
+| previous_year = 1993
+| election_date = 20 January 1998
+| next_election = 2003 Czech presidential election
+| next_year = 2003
+
+| image1 = Vaclav Havel.jpg
+| nominee1 = '''[[Václav Havel]]'''
+| party1 = Independent politician
+| electoral_vote1 = '''146'''
+| percentage1 = '''52.3%'''
+
+| title = [[President of the Czech Republic|President]]
+| before_election = [[Václav Havel]]
+| before_party = Independent politician
+| after_election = [[Václav Havel]]
+| after_party = Independent politician
+}}{{Politics of the Czech Republic}}
+
+Indirect presidential elections  were held in the [[Czech Republic]] on 20 January 1998 to elect a new president. The [[Parliament of the Czech Republic|Parliament]] re-elected incumbent President [[Václav Havel]] in the second round. The arrest of an opposition candidate, [[Miroslav Sládek]], was criticised by Havel's opponents.<ref name="obcan">{{cite web|title=Občan Havel: Kouteckého nasládlá propaganda, kterou měla naštěstí rozum odmítnout i Česká televize|url=https://blisty.cz/art/41840.html|website=blisty.cz|accessdate=4 August 2016}}</ref><ref name="dolez">{{cite web|title=Dvoje prezidentské volby|url=http://www.bohumildolezal.cz/texty/u177-03.htm|website=Bohumil Doležal|accessdate=4 August 2016}}</ref><ref>{{cite web|title=Havel byl zvolen prezidentem nezákonně, tvrdí dělníci|url=http://m.domaci.eurozpravy.cz/politika/60087-havel-byl-zvolen-prezidentem-nezakonne-tvrdi-delnici/|website=EuroZprávy.cz|accessdate=4 August 2016}}</ref>
+
+==Electoral system==
+President of the Czech Republic was elected indirectly by a joint session of the Czech Parliament. Each ballot can have at most three rounds. In the first round, a victorious candidate requires an absolute majority in both the Chamber of Deputies and the Senate. Given a 200-seat Chamber and an 81-seat Senate, a successful first-round candidate requires 101 deputies and 41 senators.
+
+If no single candidate gets a majority of both the Chamber and the Senate, a second round is then called for. At this stage, a candidate requires an absolute majority of merely those actually present at the time of voting in both the Chamber of Deputies and the Senate. The actual number of votes required in the second round might be the same as in the first round, but it can be a little less, due to the absence of a few parliamentarians. Nevertheless, in this second round, a single candidate would need to win a majority in both the Chamber and the Senate.
+
+Should no single candidate achieve a majority of both houses then present, a third round is necessitated. In this final round, which can happen within 14 days of the first round, an absolute majority of deputies and senators present suffices. At this stage, the individual houses of parliament are not considered separately. Assuming that all members of parliament are present, all that is required to win is 141 votes, regardless of the house of origin. If no candidate wins in the third round, another ballot has to be considered in a subsequent joint session of parliament. The process continues under the same rules until a candidate prevails.
+
+==Parties in parliament==
+{| class=wikitable style=text-align:left
+|-
+!colspan=2|Party
+!Chamber of Deputies
+!Senate
+! Endorsed candidate
+|-
+| bgcolor="{{party color|ČSSD}}" |
+| [[Czech Social Democratic Party]] (ČSSD)
+| {{Composition bar|61|200|hex={{party color|ČSSD}}}}
+| {{Composition bar|25|81|hex={{party color|ČSSD}}}}
+| [[Václav Havel]]
+|-
+| bgcolor="{{party color|Civic Democratic Party (Czech Republic)}}" |
+| [[Civic Democratic Party (Czech Republic)|Civic Democratic Party]] (ODS)
+| {{Composition bar|36|200|hex={{party color|Civic Democratic Party (Czech Republic)}}}}
+| {{Composition bar|31|81|hex={{party color|Civic Democratic Party (Czech Republic)}}}}
+| [[Václav Havel]]
+|-
+| style="background:#228b22;"| 
+| [[Freedom Union – Democratic Union|Freedom Union]] (US)
+| {{Composition bar|33|200|hex=#228b22}}
+| {{Composition bar|1|81|hex=#228b22}}
+| [[Václav Havel]]
+|-
+| bgcolor="{{party color|Communist Party of Bohemia and Moravia}}" |
+| [[Communist Party of Bohemia and Moravia]] (KSČM)
+| {{Composition bar|22|200|hex={{party color|Communist Party of Bohemia and Moravia}}}}
+| {{Composition bar|2|81|hex={{party color|Communist Party of Bohemia and Moravia}}}}
+| [[Stanislav Fischer]]
+|-
+|  bgcolor="{{party color|Christian and Democratic Union - Czechoslovak People's Party}}" |
+| [[Christian and Democratic Union – Czechoslovak People's Party]] (KDU-ČSL)
+| {{Composition bar|18|200|hex={{party color|Christian and Democratic Union – Czechoslovak People's Party}}}}
+| {{Composition bar|13|81|hex={{party color|Christian and Democratic Union – Czechoslovak People's Party}}}}
+| [[Václav Havel]]
+|-
+| style="background:#292829;"| 
+| [[Rally for the Republic – Republican Party of Czechoslovakia]] (SPR-RSČ)
+| {{Composition bar|18|200|hex=#292829}}
+| {{Composition bar|0|200|hex=#292829}}
+| [[Miroslav Sládek]]
+|-
+| style="background:#0000FF;"| 
+| [[Civic Democratic Alliance]] (ODA)
+| {{Composition bar|13|200|hex=#0000FF}}
+| {{Composition bar|7|81|hex=#0000FF}}
+| [[Václav Havel]]
+|-
+| style="background:#6D051C;"| 
+| [[Democratic Union (Czech Republic)|Democratic Union]] (DEU)
+| {{Composition bar|0|200|hex=#6D051C}}
+| {{Composition bar|1|81|hex=#6D051C}}
+| [[Václav Havel]]
+|-
+| style="background:#A9A9A9;"| 
+| Independents
+| {{Composition bar|0|200|hex=#A9A9A9}}
+| {{Composition bar|1|81|hex=#A9A9A9}}
+| 
+|-
+|}
+
+==Candidates==
+*[[Václav Havel]] - The incumbent president of the Czech Republic. He was supported by coalition government ([[Freedom Union – Democratic Union|US]], [[Christian and Democratic Union – Czechoslovak People's Party|KDU-ČSL]] and [[Civic Democratic Alliance|ODA]]) and opposition [[Czech Social Democratic Party]]. He was also officially supported by [[Civic Democratic Party (Czech Republic)|ODS]] with which he was in conflict.<ref name="stojí zaním">{{cite book|last1=Lutišan|first1=Vojtěch|title=VOLBA PREZIDENTA REPUBLIKY V ČESKÉ REPUBLICE|publisher=Masaryk University|location=Brno|pages=24–25}}</ref>
+*[[Stanislav Fischer]] - A candidate of Communist party and Member of Parliament.
+*[[Miroslav Sládek]] - A member of Parliament and leader of [[Rally for the Republic – Republican Party of Czechoslovakia|SPR-RSČ]]. He was in police custody at the time of election.
+
+==Results==
+Václav Havel received 130 votes in the first round and was the only candidate who qualified for the second round, as he gained the most votes in both chambers of parliament. There he received 146 votes of 279 and won by seven votes, but in the Chamber of Deputies he won by only one vote. This was controversial as Miroslav Sládek couldn't vote in the election due to his arrest. If Sládek had participated in the vote, Havel would probably have been elected in the third round. Sládek's Republican Party called Havel's victory illegal and refused to acknowledge it. The First Lady Dagmar Havlová whistled during a speech of a Republican MP Jan Vik.<ref name="piskot">{{cite web|title=Deset let poté: Dagmar Havlová pískala v Parlamentu|url=http://tn.nova.cz/clanek/zpravy/domaci/deset-let-pote-dagmar-havlova-piskala-v-parlamentu.html|website=TN.cz|accessdate=4 August 2016|date=19 January 2008}}</ref><ref name="rozhlas">{{cite web|title=1998 - Volba prezidenta 2008 (Český rozhlas)|url=http://www.rozhlas.cz/prezident08/prezidentskevolby/_zprava/427279|website=Rozhlas.cz|accessdate=4 August 2016|archive-date=14 March 2019|archive-url=https://web.archive.org/web/20190314161233/http://www.rozhlas.cz/prezident08/prezidentskevolby/_zprava/427279|url-status=dead}}</ref>
+
+{| class=wikitable style=text-align:center
+!rowspan=2|Candidate
+!colspan=4|First round
+!colspan=4|Second round
+|-
+!Deputies
+!Senators
+!Total
+!%
+!Deputies
+!Senators
+!Total
+!%
+|-
+|align=left|[[Václav Havel]]||91||39||130||70.65||99||47||146||100
+|-
+|align=left|[[Stanislav Fischer]]||26||5||31||16.85||colspan=4 rowspan=2|
+|-
+|align=left|[[Miroslav Sládek]]||22||1||23||12.50
+|-
+|align=left|'''Total'''||'''139'''||'''45'''||'''184'''||'''100'''||'''99'''||'''47'''||'''146'''||'''100'''
+|}
+
+==References==
+{{Reflist}}
+
+{{Candidates in the Czech presidential election, 1998}}
+{{Czech presidential elections}}
+
+[[Category:1998 Czech presidential election| ]]
+[[Category:1998 elections in the Czech Republic|Presidential election]]
+[[Category:1998 in the Czech Republic|Presidential election]]
+[[Category:Indirect presidential elections|Czech presidential election, 1998]]
+[[Category:Presidential elections in the Czech Republic|1998]]
+[[Category:January 1998 in Europe|Czech presidential election]]

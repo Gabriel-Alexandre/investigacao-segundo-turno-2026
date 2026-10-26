@@ -1,0 +1,931 @@
+{{short description|General election held in the Dominican Republic}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox election
+| country = Dominican Republic
+| previous_election = 2016 Dominican Republic general election
+| previous_year = 2016
+| election_date = {{Start date|2020|7|5|df=y}}
+| next_election = 2024 Dominican Republic general election
+| next_year = 2024
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| image_size = 130x130px
+| turnout = 55.29% ({{decrease}} 14.31[[Percentage point|pp]])
+
+| image1 = Luis Abinader in 2021.jpg
+| nominee1 = '''[[Luis Abinader]]'''
+| party1 = [[Modern Revolutionary Party|PRM]]
+| running_mate1 = '''[[Raquel Peña de Antuña|Raquel Peña]]'''
+| popular_vote1 = '''2,154,866'''
+| percentage1 = '''52.52%'''
+| image2 = 3x4.svg
+| nominee2 = [[Gonzalo Castillo (politician)|Gonzalo Castillo]]
+| party2 = Dominican Liberation Party
+| running_mate2 = [[Margarita Cedeño de Fernández|Margarita Cedeño]]
+| popular_vote2 = 1,537,078
+| percentage2 = 37.46%
+| image3 = Leonel Fernández cropped.jpg
+| nominee3 = [[Leonel Fernández]]
+| party3 = [[People's Force|FP]]
+| running_mate3 = [[Sergia Elena de Séliman|Sergia de Séliman]]
+| popular_vote3 = 365,226
+| percentage3 = 8.90%
+
+| map_image = Electoral Map of Dominican Republic (2020).svg
+| map_caption = Presidential election results by district
+| title = President
+| before_election = [[Danilo Medina]]
+| before_party = [[Dominican Liberation Party|PLD]]
+| after_election = [[Luis Abinader]]
+| after_party = [[Modern Revolutionary Party|PRM]]
+| ongoing = 
+}}}}{{Politics of the Dominican Republic}}
+
+General elections were held in the [[Dominican Republic]] on 5 July 2020 to elect a president, vice-president, 32 senators and 190 deputies. They had originally been planned for 17 May, but were postponed due to the [[2020 coronavirus pandemic in the Dominican Republic|coronavirus pandemic]].<ref>{{cite news|title=Padrón para las elecciones de mayo tendrá un incremento de más de 69 mil electores|url=https://listindiario.com/la-republica/2020/01/14/599965/padron-para-las-elecciones-de-mayo-tendra-un-incremento-de-mas-de-69-mil-electores|date=14 January 2020|access-date=14 January 2020|publisher=Listin Diario|language=es-ES}}</ref><ref>{{cite news|title=La JCE pospone las elecciones presidenciales y congresuales para el 5 de julio|url=https://www.diariolibre.com/actualidad/politica/la-jce-pospone-las-elecciones-presidenciales-y-congresuales-para-el-5-de-julio-OI18231681|date=14 April 2020|access-date=14 April 2020|publisher=Diario Libre|language=es-ES}}</ref> They are the second elections since [[1994 Dominican Republic general election|1994]] in which all positions will be elected simultaneously, and the first in Dominican history in which all authorities will be elected simultaneously and directly.<ref>{{cite news|title=Elecciones de 2020 son un reto para la JCE|url=http://eldia.com.do/elecciones-de-2020-son-un-reto-para-la-jce/|date=2 August 2017|access-date=2 December 2017|publisher=El Día|language=es-ES}}</ref><ref>{{cite news|title=Este será el orden de los partidos en la próxima boleta electoral|url=https://listindiario.com/la-republica/2019/12/10/595237/este-sera-el-orden-de-los-partidos-en-la-proxima-boleta-electoral|date=10 December 2019|access-date=10 December 2019|publisher=Listin Diario|language=es-ES}}</ref><ref>{{cite news|title=Candidatos presidenciales podrán gastar más de 900 millones durante campaña electoral|url=https://listindiario.com/la-republica/2020/03/17/608995/candidatos-presidenciales-podran-gastar-mas-de-900-millones-durante-campana-electoral|date=17 March 2020|access-date=17 March 2020|publisher=Listin Diario|language=es-ES}}</ref><ref>{{cite news|title=La JCE aprueba tres formatos distintos para boletas de mayo|url=https://listindiario.com/la-republica/2020/03/19/609271/la-jce-aprueba-tres-formatos-distintos-para-boletas-de-mayo|date=19 March 2020|access-date=19 March 2020|publisher=Listin Diario|language=es-ES}}</ref>
+
+Incumbent President [[Danilo Medina]] was ineligible to stand for re-election, having served two consecutive terms since 2012. The governing [[Dominican Liberation Party]]'s 16-year rule ended after [[Modern Revolutionary Party]] candidate [[Luis Abinader]] received a majority of the vote.<ref name=newpresident>{{cite news|url=https://news.yahoo.com/dominican-republic-votes-election-postponed-004941501.html|title=Change in Dominican Republic as opposition wins presidency|author=BBC News|publisher=Yahoo News|date=6 July 2020|access-date=6 July 2020}}</ref> Rival candidates [[Gonzalo Castillo (politician)|Gonzalo Castillo]] and [[Leonel Fernández]] also conceded defeat.<ref name=newpresident /> The Modern Revolutionary Party also won a majority of seats in the Senate and a plurality in the Chamber of Deputies. The election was a partial realignment, with the Modern Revolutionary Party entering a status as a major party in the country, replacing the [[Dominican Revolutionary Party]], who saw poor election results for the second election in a row and who obtained its lowest total vote share and seat count in its history. Abinader would be officially sworn in as President on 16 August.<ref name=presidentnow />
+
+==Electoral system==
+The President of the Dominican Republic is elected using the [[two-round system]]; if no candidate receives 50% + 1 vote, or more, of the total votes, a second-round [[Two-round system|runoff]] will be held between the two candidates with the highest votes on the first round.
+
+The 32 members of the [[Senate of the Dominican Republic|Senate]] are elected from the 31 provinces and the [[Distrito Nacional]] using [[first-past-the-post voting]].<ref>[http://www.ipu.org/parline-e/reports/2094_B.htm Senado (Senate)] IPU</ref>
+
+The 190 members of the [[Chamber of Deputies of the Dominican Republic|Chamber of Deputies]] are elected in three groups; 178 are elected by proportional representation from 32 multi-member constituencies based on the 31 [[provinces of the Dominican Republic|provinces]] and the [[Distrito Nacional]], with the number of seats based on the population of each province. A further seven members are elected by proportional representation by Dominican expatriates in 3 [[overseas constituencies]], and five seats are allocated at the national level to parties that received at least 1% of the vote nationally, giving preference to those that did not win any of the 178 constituency seats.<ref name=IPU>[http://www.ipu.org/parline-e/reports/2093_B.htm Cámara de Diputados (Chamber of Deputies)] IPU</ref>
+
+The 20 seats in the [[Central American Parliament]] are elected by proportional representation.
+
+==Presidential candidates==
+{| class=wikitable
+!colspan=2|Party
+!Presidential candidate
+!Vice presidential candidate
+|-
+| style="background:#870B9C;"|
+|[[Dominican Liberation Party]] (PLD)||[[Gonzalo Castillo (politician)|Gonzalo Castillo]]<ref name="LD">{{Cite web|url=https://listindiario.com/la-republica/2019/10/23/588159/once-partidos-gestan-coalicion-para-desplazar-al-pld-del-poder|title=Once partidos gestan coalición para desplazar al PLD del poder|date=23 October 2019|publisher=Listin Diario|language=es-ES|access-date=23 October 2019}}</ref>||[[Margarita Cedeño de Fernández|Margarita Cedeño]]
+|-
+| style="background:#005BAC;"|
+|[[Modern Revolutionary Party]] (PRM)||[[Luis Abinader]]<ref name=LD/>||[[Raquel Peña de Antuña|Raquel Peña]]
+|-
+| style="background:#00AC5B;"|
+|[[People's Force|Fuerza del Pueblo]] (FP) || [[Leonel Fernández]]||[[Sergia Elena Mejía]]
+|-
+| style="background:#00ACA1;"|
+|[[Country Alliance (Dominican Republic)|Alianza País]] (ALPAÍS)||[[Guillermo Moreno García]]<ref name=LD/>||Agustín González Morel
+|-
+| style="background:#283084;"|
+|[[National Citizen Will Party]] (PNVC)||[[Juan Cohen]]||Hugo McFarlane Kaluche
+|-
+| style="background:#FD8204;"|
+|[[Institutional Democratic Party (Dominican Republic)|Partido Demócrata Institucional]] (PDI)||{{ill|Ismael Reyes Cruz|es}}||Frank Gene Troncoso Haché
+|}
+
+==Opinion polls==
+===President===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="2" |Pollster
+! rowspan="2" |Date(s)
+! style="width:60px;" |[[Gonzalo Castillo (politician)|Castillo]]<br />[[Dominican Liberation Party|(PLD)]]
+! style="width:60px;" |[[Luis Abinader|Abinader]]<br />[[Modern Revolutionary Party|(PRM)]]
+! style="width:60px;" |[[Leonel Fernández|Fernandez]]<br />[[People's Force|(FP)]]
+! style="width:60px;" |[[Guillermo Moreno García|Moreno]]<br />[[Country Alliance (Dominican Republic)|(ALPAIS)]]
+|-
+! style="background:{{party color|Dominican Liberation Party}};" |
+! style="background:{{party color|Modern Revolutionary Party}};" |
+! style="background:{{party color|People's Force}};" |
+! style="background:{{party color|Country Alliance (Dominican Republic)}};" |
+|-
+|[https://elnacional.com.do/abinader-ganaria-con-amplia-ventaja-a-cualquier-candidato-segun-encuesta-de-centro-economico-del-cibao/ Centro Económico del Cibao]
+|11–13 Oct 2019
+|29.7%
+| style="background:#BCDAF5;"| '''43.7%'''
+|23.6%
+|{{N/a}}
+|-
+|[https://eldia.com.do/luis-abinader-ganaria-elecciones-del-2020-con-48-1-segun-encuesta/ Centro Económico del Cibao]
+|3–5 Nov 2019
+|31%
+| style="background:#BCDAF5;"|'''42.9%'''
+|18.4%
+|1.9%
+|-
+|Centro Economico del Cibao<ref>{{Cite web|title=Luis derrotaría fácil a Gonzalo y a Leonel en primera vuelta, según encuesta|url=https://acento.com.do/fotogalerias-luis-derrotaria-facil-a-gonzalo-y-a-leonel-en-primera-vuelta-segun-encuesta-8758858.html|access-date=2020-06-23|website=Acento|language=es-ES}}{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Cite web|date=2019-12-10|title=Encuesta otorga mayoría de simpatías a Luis Abinader|url=https://listindiario.com/la-republica/2019/12/10/595151/encuesta-otorga-mayoria-de-simpatias-a-luis-abinader|access-date=2020-06-23|website=listindiario.com|language=ES}}</ref>
+|29 Nov –1 Dec 2019
+|25.6%
+| style="background:#BCDAF5;"| '''46.6%'''
+|24.4%
+|{{N/a}}
+|-
+|[https://www.teleradioamerica.com/2019/12/encuesta-afirma-49-de-los-domincanos-eligirian-a-gonzalo-castillo-proximo-presidente/ Pool Logistic SRL]
+|1–5 Dec 2019
+| style="background:#ECBAF5;"|'''49%'''
+|36%
+|3.9%
+|{{N/a}}
+|-
+|[https://listindiario.com/la-republica/2019/12/17/596156/encuesta-ideame-abinader-47-5-gonzalo-31-8-y-leonel-18-3- Ideame]
+|3–10 Dec 2019
+|31.8%
+| style="background:#BCDAF5;"|'''47.5%'''
+|18.3%
+|{{N/a}}
+|-
+|[https://acento.com.do/fotogalerias-luis-47-3-gonzalo-22-6-y-leonel-20-9-segun-encuesta-abc-marketing-8761447.html ABC Marketing]{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }}
+|10–14 Dec 2019
+|22.6%
+| style="background:#BCDAF5;"| '''47.3%'''
+|20.9%
+|{{N/a}}
+|-
+|[https://web.archive.org/web/20200625231230/http://primicias.com.do/?p=15658 Sigma Dos]
+|15–17 Dec 2019
+| style="background:#ECBAF5;"|'''39.9%'''
+|35%
+|8%
+|{{N/a}}
+|-
+|[https://acento.com.do/politica-abinader-lleva-la-delantera-con-43-segun-encuesta-mark-penn-8770232.html Mark Penn/Stagwell]{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }}
+|8–10 Jan 2020
+|28%
+| style="background:#BCDAF5;"|'''43%'''
+|19%
+|{{N/a}}
+|-
+|[https://www.quisqueyapeach.com/encuesta-gallup-rd-abinader-42-gonzalo-31-y-leonel-15-para-las-elecciones-de-mayo/ Gallup-RD]
+|16–21 Jan 2020
+|31.4%
+| style="background:#BCDAF5;"| '''42.2%'''
+|15.5%
+|1.2%
+|-
+|[https://www.quisqueyapeach.com/encuesta-gallup-rd-abinader-42-gonzalo-31-y-leonel-15-para-las-elecciones-de-mayo/ Gallup-Hoy]
+|16–21 Jan 2020
+|31.7%
+| style="background:#BCDAF5;"| '''44.9%'''
+|19.3%
+|{{N/a}}
+|-
+|[https://web.archive.org/web/20160505215452/http://www.ciesinternational.com/news_-_latest_dominican_rep_polls CIES International]
+|31 Jan–2 Feb 2020
+|35%
+| style="background:#BCDAF5;"|'''37%'''
+|11%
+|3%
+|-
+|[https://hoy.com.do/luis-abinader-52-gonzalo-castillo-24-y-leonel-fernandez-17-en-encuesta-greenberg-diario-libre/ Greenberg-Diario Libre]
+|21–24 Feb 2020
+|24%
+| style="background:#7B92A6;"| '''52%'''
+|17%
+|2%
+|-
+|[https://web.archive.org/web/20160505215452/http://www.ciesinternational.com/news_-_latest_dominican_rep_polls CIES International]
+|23–25 Feb 2020
+|28.8%
+| style="background:#BCDAF5;"| '''43.7%'''
+|12.6%
+|6.4%
+|-
+|[https://www.diariolibre.com/actualidad/politica/luis-abinader-ganaria-en-primera-vuelta-con-el-556-de-los-votos-segun-la-encuesta-abc-marketing-GA18908538 CIMERAN<]
+|28–29 Feb 2020
+|25%
+| style="background:#7B92A6;"| '''52.5%'''
+|17.5%
+|3.5%
+|-
+|[https://cdn.com.do/2020/03/06/encuesta-centro-economico-del-cibao-prm-55-1-pld-21-0-y-la-fp-15-6/# Centro Económico del Cibao]
+|28 Feb–5 Mar 2020
+|21.0%
+| style="background:#7B92A6;"| '''55.1%'''
+|15.6%
+|{{N/a}}
+|-
+|[https://elnuevodiario.com.do/38-8-votaria-por-gonzalo-y-36-3-por-abinader-si-las-elecciones-fueran-hoy-segun-sigmados/ Sigma Dos]
+|2–7 Apr 2020
+| style="background:#ECBAF5;"| '''38.8%'''
+|36.6%
+|9.6%
+|{{N/a}}
+|-
+|[https://listindiario.com/la-republica/2020/04/11/612826/firma-encuestadora-otorga-abinader-43-9-leonel-31-2-y-gonzalo-23-6- Horizon Research LLC]
+|7 Apr 2020
+|23.6%
+| style="background:#BCDAF5;"|'''43.9%'''
+|31.2%
+|{{N/a}}
+|-
+|[https://www.eluniversaldigital.net/nacionales/encuesta-revela-posicionamiento-politico-de-los-candidatos-presidenciales-abinader-delante Global Trend Research]
+|12–15 Apr 2020
+|22.9%
+| style="background:#BCDAF5;" | '''43.1%'''
+|30.4%
+|0.8%
+|-
+|[https://www.ultimasnoticias.com.do/2020/04/28/encuesta-asisa-luis-abinader-44-leonel-fernandez-29-1-y-gonzalo-castillo-20-4/ ASISA]
+|13–19 Apr 2020
+|20.4%
+| style="background:#BCDAF5;"| '''44%'''
+|29.1%
+|{{N/a}}
+|-
+|[https://elnuevodiario.com.do/en-santiago-46-63-dice-votaria-por-gonzalo-castillo-en-presidenciales-31-06-por-abiander/ JB Consulting Group]
+|14–20 Apr 2020
+| style="background:#ECBAF5;"| '''46.6%'''
+|31.1%
+|3.6%
+|{{N/a}}
+|-
+|[https://hoy.com.do/encuesta-adp-consulting-group-otorga-54-9-a-luis-abinader/ APD Consulting Group]
+|17–20 Apr 2020
+|24.1%
+| style="background:#7B92A6;"| '''54.4%'''
+|11.8%
+|4.6%
+|-
+|[https://web.archive.org/web/20160505215452/http://www.ciesinternational.com/news_-_latest_dominican_rep_polls CIES International]
+|17–20 Apr 2020
+|33%
+| style="background:#BCDAF5;"|'''39%'''
+|9%
+|4%
+|-
+|[https://listindiario.com/la-republica/2020/04/24/614628/luis-abinader-ganaria-con-un-53--las-elecciones-presidenciales-segun-encuesta Centro Economico del Cibao]
+|18–19 Apr 2020
+|23.7%
+| style="background:#7B92A6;"| '''53.4%'''
+|7.3%
+|1%
+|-
+|[https://www.teleradioamerica.com/2020/05/encuesta-coloca-a-gonzalo-y-margarita-como-ganadores-elecciones-presidenciales/ Polimetrics]
+|22–25 Apr 2020
+| style="background:#ECBAF5;"| '''40.8%'''
+|38.3%
+|9.3%
+|1.9%
+|-
+|[https://www.imparcialrd.do/2020/04/encuesta-cid-latinoamerica-da-gonzalo.html CID Latinoamericana]
+|22–23 Apr 2020
+| style="background:#ECBAF5;"| '''40%'''
+|38%
+|8%
+|{{N/a}}
+|-
+|[https://www.diariolibre.com/actualidad/encuesta-new-partners-luis-abinader-ganaria-con-521-DO18520047 New Partners]
+|23–26 Apr 2020
+|27.4%
+| style="background:#7B92A6;"| '''52.1%'''
+|9.9%
+|2.1%
+|-
+|[http://elorigendiario.com/abinader-encabezaria-comicios-presidenciales-con-el-42-8/ Market Reports]
+|25–27 Apr 2020
+|22.4%
+| style="background:#BCDAF5;"|'''42.8%'''
+|31.2%
+|{{N/a}}
+|-
+|[https://www.eluniversaldigital.net/nacionales/segun-encuesta-luis-abinader-ganaria-con-52-3-en-primera-vuelta-elecciones-de-julio Mercado & Cuantificaciones]
+|27–29 Apr 2020
+|30.3%
+| style="background:#7B92A6;"|'''52.3%'''
+|12.3%
+|1.7%
+|-
+|[https://web.archive.org/web/20200625021942/http://pasoapaso.com.do/video-encuesta-gidl-abinader-41-9-leonel-32-4-y-gonzalo-castillo-23-2/ GIDL]
+|26 Apr–1 May 2020
+|23.2%
+| style="background:#BCDAF5;"| '''41.9%'''
+|32.4%
+|{{N/a}}
+|-
+|[https://www.elperiodico.com.do/2020/05/06/abinader-ganaria-elecciones-con-46-gonzalo-castillo-26-y-leonel-fernandez-21/ Datamarket]
+|1–3 May 2020
+|26%
+| style="background:#BCDAF5;"| '''46%'''
+|21%
+|2%
+|-
+|[https://listindiario.com/la-republica/2020/05/12/617080/encuesta-abinader-41-3-leonel-33-5-y-gonzalo-22-8 Horizon Research LCC]
+|3–7 May 2020
+|22.8%
+| style="background:#BCDAF5;"|'''41.3%'''
+|33.5%
+|{{N/a}}
+|-
+|[https://acento.com.do/politica-encuesta-epc-luis-49-gonzalo-29-y-leonel-16-8816634.html Effective Project Communications]{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }}
+|4–7 May 2020
+|29%
+| style="background:#BCDAF5;"|'''49%'''
+|16%
+|3%
+|-
+|[https://www.diariolibre.com/actualidad/politica/encuesta-polimetrics-da-como-ganador-con-404-a-gonzalo-castillo-en-elecciones-LC18837059 Polimetric]
+|4–9 May 2020
+| style="background:#ECBAF5;"| '''40.4%'''
+|37.7%
+|8.8%
+|{{N/a}}
+|-
+|[https://www.elpais.cr/2020/05/15/nueva-encuesta-da-ganador-a-luis-abinader-en-comicios-dominicanos/ Centro Economico del Cibao]
+|11–12 May 2020
+|35.2%
+| style="background:#7B92A6;"| '''53.9%'''
+|9.5%
+|{{N/a}}
+|-
+|[https://www.diariolibre.com/actualidad/politica/luis-abinader-ganaria-en-primera-vuelta-con-el-556-de-los-votos-segun-la-encuesta-abc-marketing-GA18908538 ABC Marketing]
+|13–16 May 2020
+|26.5%
+| style="background:#7B92A6;"| '''55.6%'''
+|14.5%
+|{{N/a}}
+|-
+|[https://extradigital.com.do/politica/encuesta-sisglo-luis-406-leonel-33-8-y-gonzalo-24-1-con-voto-dividido-en-pld/ SISGLO]
+|17–20 May 2020
+|24.1%
+| style="background:#BCDAF5;"| '''40.6%'''
+|33.8%
+|{{N/a}}
+|-
+|[https://listindiario.com/la-republica/2020/05/28/619408/encuesta-da-a-abinader-ganador-en-primera-vuelta-con-un-53-5- Centro Economico del Cibao]
+|18–19 May 2020
+|34.6%
+| style="background:#7B92A6;"| '''53.3%'''
+|9.9%
+|2.2%
+|-
+|[https://elnacional.com.do/encuesta-otorga-42-abinader-33-leonel-y-21-gonzalo/ Elections &&nbsp; Proyect Corp]
+|20–22 May 2020
+|21.8%
+| style="background:#BCDAF5;"| '''42.1%'''
+|33.9%
+|{{N/a}}
+|-
+|[https://www.diariolibre.com/actualidad/politica/luis-abinader-ganaria-elecciones-con-un-518-de-votos-segun-encuesta-ideame-OJ19107810 IDEAME]
+|18–23 May 2020
+|31.5%
+| style="background:#7B92A6;"|'''51.8%'''
+|14.3%
+|1%
+|-
+|[https://acento.com.do/politica/gonzalo-aventaja-luis-con-mas-de-10-puntos-leonel-tiene-9-5-segun-encuesta-de-dorin-cabrera-8821912.html José Dorín Cabrera Mercadología]
+|21–23 May 2020
+| style="background:#ECBAF5;"|'''46.9%'''
+|36.7%
+|9.5%
+|2.2%
+|-
+|[https://acento.com.do/actualidad/encuesta-mark-penn-stagwell-apunta-a-doble-votacion-y-ratifica-a-abinader-como-el-favorito-analisis-de-juan-bolivar-diaz-8823552.html Mark Penn/Stagwell]
+|20–25 May 2020
+|37%
+| style="background:#BCDAF5;"| '''39%'''
+|10%
+|{{N/a}}
+|-
+|[https://acento.com.do/infografias/luis-51-6-gonzalo-34-4-y-leonel-11-6-segun-encuesta-apd-consulting-group-8825055.html APD Consulting Group]
+|21–25 May 2020
+|34.4%
+| style="background:#7B92A6;"| '''51.6%'''
+|11.6%
+|2.3%
+|-
+|CID Latinoamericana<ref name=":1">{{Cite web|date=2020-06-16|title=Resumen y Predicciones de Encuestas Elecciones 2020 Republica Dominicana|url=http://elinfluyente.com/encuestas-elecciones-2020-republica-dominicana/|access-date=2020-06-22|website=ElInfluyente.com|language=en-US}}</ref><ref>{{Cite web|date=2020-06-01|title=Encuesta dice ya Gonzalo Castillo está arriba de Luis Abinader en primera y segunda vuelta |work=Hoy Digital|url=https://hoy.com.do/encuesta-dice-ya-gonzalo-castillo-esta-arriba-de-luis-abinader-en-primera-y-segunda-vuelta/|access-date=2020-06-23|language=es}}</ref>
+|23–24 May 2020
+| style="background:#ECBAF5;"|'''41%'''
+| 39%
+|10%
+|3%
+|-
+|[https://www.ultimasnoticias.com.do/2020/04/28/encuesta-asisa-luis-abinader-44-leonel-fernandez-29-1-y-gonzalo-castillo-20-4/ ASISA]
+|13–19 Apr 2020
+|20.4%
+| style="background:#BCDAF5;"| '''44%'''
+|29.1%
+|{{N/a}}
+|-
+|[https://listindiario.com/la-republica/2020/05/28/619408/encuesta-da-a-abinader-ganador-en-primera-vuelta-con-un-53-5- Centro Economico del Cibao]
+|25–26 May 2020
+|34.0%
+| style="background:#7B92A6;"| '''53.5%'''
+|10.3%
+|2.1%
+|-
+|[https://web.archive.org/web/20160505215452/http://www.ciesinternational.com/news_-_latest_dominican_rep_polls CIES International]
+|24–27 May 2020
+|29%
+| style="background:#7B92A6;"| '''52%'''
+|10%
+|6%
+|-
+|[https://elnuevodiario.com.do/encuesta-cygnal-abinader-ganaria-las-elecciones-en-primera-o-segunda-vuelta/ CYGNAL]
+|26 May–2 Jun 2020
+|28.2%
+| style="background:#7B92A6;"| '''54.6%'''
+|13.9%
+|3.4%
+|-
+|[https://acento.com.do/fotogalerias/luis-51-3-gonzalo-33-y-leonel-11-2-encuesta-mercado-y-cuantificaciones-8824437.html Mercado & Cuantificaciones]
+|28–30 May 2020
+|33%
+| style="background:#7B92A6;"| '''51.3%'''
+|11.2%
+|1.1%
+|-
+|[https://elnacional.com.do/abinader-favorito-en-otra-encuesta-con-44-gonzalo-27-y-leonel-21/ Datamarket]
+|26–30 May 2020
+|27%
+| style="background:#BCDAF5;"|'''44%'''
+|21%
+|2%
+|-
+|[https://listindiario.com/la-republica/2020/06/04/620481/nueva-encuesta-coloca-gonzalo-con-40-7-y-abinader-con-37-5- Polimetrics]
+|30–31 May 2020
+| style="background:#ECBAF5;"| '''40.7%'''
+|37.5%
+|8.5%
+|2.6%
+|-
+|[https://www.diariolibre.com/actualidad/politica/encuesta-otorga-abinader-el-407-de-los-votos-a-leonel-el-334-y-a-gonzalo-215-EL19305331 GIDL]
+|1–3 Jun 2020
+|21.5%
+| style="background:#BCDAF5;"| '''40.7%'''
+|33.4%
+|1.7%
+|-
+|[https://www.diariolibre.com/actualidad/politica/encuesta-da-521-a-abinader-345-a-gonzalo-y-82-a-leonel-GO19356514 Mercado & Cuantificaciones]
+|2–5 Jun 2020
+|34.5%
+| style="background:#7B92A6;"| '''52.1%'''
+|8.2%
+|{{N/a}}
+|-
+|[https://listindiario.com/la-republica/2020/06/18/622473/encuesta-new-partners-abinader-50-65-castillo-29-51-y-fernandez-11-38- New Partners]
+|2–5 Jun 2020
+|29.5%
+| style="background:#7B92A6;"| '''50.7%'''
+|11.4%
+|{{N/a}}
+|-
+|[http://elinfluyente.com/encuestas-elecciones-2020-republica-dominicana/ Global Trend Research]
+|4–6 Jun 2020
+|25.7%
+| style="background:#BCDAF5;"| '''40.3%'''
+|30.8%
+|{{N/a}}
+|-
+|[https://acento.com.do/politica/encuesta-gavindian-polsters-luis-52-gonzalo-38-y-leonel-9-8829062.html Gavindian Polsters]
+|4–8 Jun 2020
+|38%
+| style="background:#7B92A6;"| '''52%'''
+|9%
+|1%
+|-
+|[http://elinfluyente.com/encuestas-elecciones-2020-republica-dominicana/ Ideame]
+|5–9 Jun 2020
+|34.4%
+| style="background:#7B92A6;"| '''52.5%'''
+|10.9%
+|0.9%
+|-
+|[https://acento.com.do/actualidad/luis-52-31-gonzalo-36-33-y-leonel-7-68-encuesta-cipp-8828287.html Centro de Innovación y Políticas Públicas]
+|6–9 Jun 2020
+|36.3%
+| style="background:#7B92A6;"|'''52.3%'''
+|7.7%
+|1%
+|-
+|[https://www.diariolibre.com/actualidad/politica/video-encuesta-cid-latinoamerica-otorga-un-44-a-abinader-y-un-43-a-gonzalo-castillo-CL19652752 CID Latinoamericana]
+|9–11 Jun 2020
+|43%
+| style="background:#BCDAF5;"|'''44%'''
+|9%
+|1%
+|-
+|[https://www.diariolibre.com/actualidad/politica/encuesta-otorga-un-43-a-gonzalo-y-triunfo-en-segunda-vuelta-AF19490990 Consulting and Field International]
+|9–12 Jun 2020
+| style="background:#ECBAF5;"|'''43%'''
+|40%
+|9%
+|2%
+|-
+|Sigma Dos<ref>{{Cite web|date=2020-06-21|title=Encuesta da a Gonzalo 43.6%, Abinader 40.4% y Leonel 10.1%|url=https://listindiario.com/la-republica/2020/06/21/622880/encuesta-da-a-gonzalo-43-6-abinader-40-4-y-leonel-10-1-|access-date=2020-06-22|website=listindiario.com|language=ES}}</ref><ref>{{Cite web|date=2020-06-21|title=Gonzalo Castillo ganaría las elecciones con una ventaja de más de 3 puntos frente a Luis Abinader, según encuesta|url=https://robertocavada.com/politica/2020/06/21/gonzalo-castillo-ganaria-las-elecciones-con-una-ventaja-de-mas-de-3-puntos-frente-a-luis-abinader-segun-encuesta|access-date=2020-06-24|website=Roberto Cavada|language=es-CR}}</ref>
+|12–14 Jun 2020
+| style="background:#ECBAF5;"| '''43.6%'''
+|40.4%
+|10.1%
+|1.9%
+|-
+|[https://www.elmasacre.com/nacionales/33573/luis-abinader-54gonzalo-castillo-34-leonel-fernandez-9-segun-encuesta-zogby-strategies/ John Zogby Strategies]
+|12–14 Jun 2020
+|34%
+| style="background:#7B92A6;"|'''54%'''
+|9%
+|2%
+|-
+|[https://elnacional.com.do/encuesta-favorece-a-luis-con-43-gonzalo-32-y-leonel-sube-a-17/ Datamarket]
+|12–14 Jun 2020
+|32%
+| style="background:#BCDAF5;"| '''43%'''
+|17%
+|2%
+|-
+|[https://acento.com.do/actualidad/encuesta-greenberg-diario-libre-luis-56-gonzalo-29-leonel-12-8832704.html Greenberg-Diario Libre]
+|11–16 Jun 2020
+|29%
+| style="background:#7B92A6;"|'''56%'''
+|12%
+|1%
+|-
+|[https://www.diariolibre.com/actualidad/luis-abinader-ganaria-elecciones-con-un-537-de-votos-segun-encuesta-gallup-OK19640439 Gallup]
+|12–16 Jun 2020
+|35.5%
+| style="background:#7B92A6;"|'''53.7%'''
+|8.6%
+|1.3%
+|-
+|[https://elnuevodiario.com.do/abinader-tiene-55-intencion-del-voto-y-gonzalo-un-33-segun-mercado-y-cuantificaciones/ Mercado y Cuantificaciones]
+|15–17 Jun 2020
+|33.5%
+| style="background:#7B92A6;"| '''55.8%'''
+|7.0%
+|0.3%
+|-
+|[https://acento.com.do/politica/encuesta-politics-research-dominicana-proyecta-escenario-de-segunda-vuelta-con-gonzalo-ganador-de-la-primera-8831758.html PoliRD]
+|16–18 Jun 2020
+| style="background:#ECBAF5;"| '''45.1%'''
+|41.7%
+|9.8%
+|1.8%
+|-
+|[https://www.diariolibre.com/actualidad/politica/encuesta-abc-marketing-otorga-548-a-abinader-frente-a-un-326-de-gonzalo-FJ19673204 ABC Marketing]
+|15–20 Jun 2020
+|32.6%
+| style="background:#7B92A6;"| '''54.8%'''
+|10.4%
+|{{N/a}}
+|-
+|[https://elnuevodiario.com.do/encuesta-abinader-40-8-leonel-30-6-y-gonzalo-26-2-62-cree-habra-segunda-vuelta/ Market Reports]
+|18–21 Jun 2020
+|26.2%
+| style="background:#BCDAF5;"|'''40.8%'''
+|30.6%
+|{{N/a}}
+|-
+|[https://z101digital.com/gonzalo-supera-por-3-7-a-abinader-en-preferencia-electoral-segun-encuesta-polismetrics/ Polismetrics]
+|20–25 Jun 2020
+| style="background:#ECBAF5;"| '''42.9%'''
+|39.2%
+|9.6%
+|1.8%
+|-
+|[https://listindiario.com/la-republica/2020/06/25/623396/encuesta-realizada-por-emevenca-dice-que-se-proyecta-una-segunda-vuelta-electoral Emevenca]
+|20–23 Jun 2020
+|41%
+| style="background:#BCDAF5;" |'''46%'''
+|8%
+|2%
+|-
+|[https://acento.com.do/actualidad/encuesta-mark-penn-stagwell-sin-luis-47-gonzalo-35-y-leonel-11-8833020.html Mark Penn /Stagwell-SIN]
+|16–23 Jun 2020
+|35%
+| style="background:#BCDAF5;" |'''47%'''
+|11%
+|{{N/a}}
+|-
+|{{usurped|1=[https://web.archive.org/web/20200701231725/https://tupueblord.com/2020/06/28/abinader-43-leonel-29-7-y-gonzalo-23-8-segun-nueva-encuesta-de-gidl/ GIDL]}}
+|21–23 Jun 2020
+|23.8%
+| style="background:#BCDAF5;" | '''43%'''
+|29.7%
+|1.2%
+|-
+|[https://listindiario.com/la-republica/2020/06/25/623490/centro-economico-del-cibao-le-da-un-55-2-a-luis-abinader-33-a-gonzalo-y-9-7-a-leonel Centro Economico del Cibao]
+|22–23 Jun 2020
+|33.4%
+| style="background:#7B92A6;"|'''55.2%'''
+|9.7%
+|1.7%
+|-
+|[https://web.archive.org/web/20200627051337/http://telecentro.com.do/encuesta-newpartners-proyecta-victoria-de-abinader-con-el-54/ NewPartners]
+|24–25 Jun 2020
+|29%
+| style="background:#7B92A6;"|'''54%'''
+|10%
+|{{N/a}}
+|}
+
+===Party identification and Congress===
+{| class="wikitable sortable" style="text-align:center;font-size:90%;line-height:14px;"
+! rowspan="2" |Pollster
+! rowspan="2" |Date(s)
+! style="width:50px;" |[[Dominican Liberation Party|PLD]]
+! style="width:50px;" |[[Modern Revolutionary Party|PRM]]
+! style="width:50px;" |[[People's Force|FP]]
+! style="width:50px;" |[[Social Christian Reformist Party|PRSC]]
+! style="width:50px;" |[[Dominican Revolutionary Party|PRD]]
+! style="width:50px;" |[[Country Alliance (Dominican Republic)|ALPAIS]]
+! rowspan="2" |N/A
+! rowspan="2" |Others
+|-
+! style="background:{{party color|Dominican Liberation Party}};" |
+! style="background:{{party color|Modern Revolutionary Party}};" |
+! style="background:{{party color|People's Force}};" |
+! style="background:{{party color|Social Christian Reformist Party}};" |
+! style="background:{{party color|Dominican Revolutionary Party}};" |
+! style="background:{{party color|Country Alliance (Dominican Republic)}};" |
+|-
+|[https://web.archive.org/web/20160505215452/http://www.ciesinternational.com/news_-_latest_dominican_rep_polls CIES International]
+|19–22 Sep 2019
+|31%
+| style="background:#BCDAF5;" |'''33%'''
+|{{N/a}}
+|3.3%
+|1.2%
+|4.7%
+|15.6%
+|12.2%
+|-
+|[https://hoy.com.do/que-no-pudo-leer-la-encuesta-gallup-hoy-aqui-les-mostramos-los-resultados-de-esta-semana/ Gallup-Hoy]
+|16–21 Jan 2020
+|37.5%
+| style="background:#BCDAF5;" |'''43.3%'''
+|8.5%
+|{{N/a}}
+|{{N/a}}
+|0.1%
+|7.6%
+|2.9%
+|-
+|[https://web.archive.org/web/20160505215452/http://www.ciesinternational.com/news_-_latest_dominican_rep_polls CIES International]
+|23–25 Feb 2020
+|27.5%
+| style="background:#BCDAF5;" | '''43.6%'''
+|10%
+|3.8%
+|1.3%
+|2.5%
+|11.3%
+|{{N/a}}
+|-
+|[http://www.elmetropolitano.com.do/encuesta-market-reports-abinader-42-8-leonel-31-2-y-gonzalo-castillo-22-4-por-ciento/ Makert Reports]
+|25–27 Apr 2020
+|29.1%
+| style="background:#BCDAF5;" | '''34.7%'''
+|19.1%
+|3.6%
+|2.3%
+|{{N/a}}
+|6.8%
+|4.2%
+|-
+|[https://www.elperiodico.com.do/2020/05/06/abinader-ganaria-elecciones-con-46-gonzalo-castillo-26-y-leonel-fernandez-21/ Datamarket]<ref>{{Cite web|date=2020-05-05|title=Abinader ganaría elecciones con 46 %; Gonzalo Castillo 26 % y Leonel Fernández 21 %, según encuesta Datamarket|url=https://robertocavada.com/politica/2020/05/05/abinader-ganaria-elecciones-con-46-gonzalo-castillo-26-y-leonel-fernandez-21-segun-encuesta-datamarket|access-date=2020-06-25|website=Roberto Cavada|language=es-CR}}</ref>
+|1–3 May 2020
+|27%
+| style="background:#BCDAF5;" | '''37%'''
+|7%
+|6%
+|4%
+|2%
+|6%
+|11%
+|-
+|[https://acento.com.do/politica-encuesta-epc-luis-49-gonzalo-29-y-leonel-16-8816634.html Effective Project Comunications]{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }}
+|4–7 May 2020
+|32%
+| style="background:#BCDAF5;" |'''44%'''
+|8%
+|6%
+|4%
+|1%
+|2%
+|3%
+|-
+|[https://acento.com.do/politica/gonzalo-aventaja-luis-con-mas-de-10-puntos-leonel-tiene-9-5-segun-encuesta-de-dorin-cabrera-8821912.html José Dorín Cabrera Mercadología]
+|21–23 May 2020
+| style="background:#ECBAF5;" | '''34.2%'''
+|23.2%
+|8.4%
+|{{N/a}}
+|{{N/a}}
+|0.5%
+|30.1%
+|3.6%
+|-
+|[https://www.diariolibre.com/actualidad/politica/gonzalo-castillo-encabeza-encuesta-cid-latinoamericana-con-un-41-luis-abinader-39-y-leonel-10-KK19208626 CID Latinoamericana]
+|23–24 May 2020
+| style="background:#ECBAF5;" | '''45%'''
+|38%
+|6%
+|{{N/a}}
+|{{N/a}}
+|{{N/a}}
+|{{N/a}}
+|{{N/a}}
+|-
+|[https://elnacional.com.do/abinader-favorito-en-otra-encuesta-con-44-gonzalo-27-y-leonel-21/ Datamarket]
+|26–30 May 2020
+|27%
+| style="background:#BCDAF5;" |'''37%'''
+|7%
+|6%
+|4%
+|2%
+|6%
+|11%
+|-
+|[https://elnuevodiario.com.do/encuesta-cygnal-abinader-ganaria-las-elecciones-en-primera-o-segunda-vuelta/ CYGNAL]
+|26 May–2 Jun 2020
+|26.7%
+| style="background:#BCDAF5;" |'''40.5%'''
+|9.5%
+|{{N/a}}
+|{{N/a}}
+|{{N/a}}
+|{{N/a}}
+|{{N/a}}
+|-
+|[https://www.diariolibre.com/actualidad/politica/encuesta-polimetrics-da-como-ganador-con-404-a-gonzalo-castillo-en-elecciones-LC18837059 Polimetrics]
+|30–31 May 2020
+| style="background:#ECBAF5;" |'''35.4%'''
+|29.9%
+|8.9%
+|0.9%
+|{{N/a}}
+|{{N/a}}
+|25.7%
+|9.2%
+|-
+|[https://www.azuanosennoticias.com/abinader-44-gonzalo-43-y-leonel-9-segun-encuesta-cid-latinoamerica/ CID Latinoamerica]{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }}
+|9–11 Jun 2020
+| style="background:#ECBAF5;" |'''43%'''
+|40%
+|7%
+|1%
+|2%
+|1%
+|5%
+|1%
+|-
+|[https://listindiario.com/la-republica/2020/06/21/622895/otra-encuesta-da-a-abinader-como-ganador-en-primera-vuelta-con-55-8- Mercados y Cuantificaciones]
+|15–17 Jun 2020
+|34%
+| style="background:#BCDAF5;" |'''47.8%'''
+|5.3%
+|1.1%
+|1.1%
+|0.4%
+|9.3%
+|1%
+|-
+|[https://www.diariolibre.com/actualidad/politica/encuesta-abc-marketing-otorga-548-a-abinader-frente-a-un-326-de-gonzalo-FJ19673204 ABC Marketing]
+|15–20 Jun 2020
+|29.8%
+| style="background:#BCDAF5;" |'''46.7%'''
+|12.3%
+|3.1%
+|6.0%
+|{{N/a}}
+|{{N/a}}
+|{{N/a}}
+|-
+|[https://web.archive.org/web/20200629044720/https://elnuevodiario.com.do/wp-content/uploads/2020/06/INFORME_PRESIDENCIAL.pdf Market Reports]
+|18–21 Jun 2020
+|27.3%
+| style="background:#BCDAF5;" |'''33.2%'''
+|22.2%
+|3.6%
+|2.3%
+|{{N/a}}
+|6.8%
+|4.6%
+|-
+|{{usurped|1=[https://web.archive.org/web/20200701231725/https://tupueblord.com/2020/06/28/abinader-43-leonel-29-7-y-gonzalo-23-8-segun-nueva-encuesta-de-gidl/ GIDL]}}
+|21–23 Jun 2020
+|23.7%
+| style="background:#BCDAF5;" | '''34.7%'''
+|21.7%
+|4.2%
+|1.3%
+|{{N/a}}
+|8.2%
+|{{N/a}}
+|-
+|[https://web.archive.org/web/20200627051337/http://telecentro.com.do/encuesta-newpartners-proyecta-victoria-de-abinader-con-el-54/ NewPartners]
+|24–25 Jun 2020
+|28%
+| style="background:#BCDAF5;" |'''50%'''
+|6%
+|0%
+|1%
+|1%
+|13%
+|1%
+|}
+
+==Conduct==
+It was initially reported that representatives of the [[Organization of American States]] (OAS) would arrive to the Dominican Republic on 13 February 2020 to monitor the elections.<ref>{{cite news|title=Misión de OEA observará elecciones del 2020 en República Dominicana|url=https://www.diariolibre.com/actualidad/politica/mision-de-oea-observara-elecciones-del-2020-en-republica-dominicana-DA15516137|date=25 November 2019|access-date=25 November 2019|publisher=Listin Diario|language=es-ES}}</ref><ref>{{cite news|title=Observadores electorales de la OEA harán visita preliminar la próxima semana|url=https://www.diariolibre.com/actualidad/politica/observadores-electorales-de-la-oea-haran-visita-preliminar-la-proxima-semana-JC16500876|date=17 January 2020|access-date=17 January 2020|publisher=Listin Diario|language=es-ES}}</ref><ref>{{cite news|title=JCE recibirá observadores de 20 países para elecciones municipales|url=https://listindiario.com/la-republica/2020/02/09/603628/jce-recibira-observadores-de-20-paises-para-elecciones-municipales|date=9 February 2020|access-date=9 February 2020|publisher=Listin Diario|language=es-ES}}</ref> The general election to elect the President and members of the Dominican Republic parliament, which was postponed from the scheduled 17 May 2020 date due to the [[COVID-19 pandemic]], was later held on 5 July 2020.<ref>{{Cite news|url=https://www.bbc.com/news/world-latin-america-53268860|title=Dominicans vote in election postponed over virus|work=BBC News|date=5 July 2020|access-date=6 July 2020}}</ref><ref>{{Cite web|url=https://www.france24.com/en/20200705-polls-open-in-dominican-republic-presidential-election|title=Polls open in Dominican Republic presidential election|date=5 July 2020|website=France 24|access-date=6 July 2020}}</ref>
+
+Local media reported that the elections proceeded smoothly, except for one incident, when a person was shot inside a polling station after an argument erupted between rival party supporters.<ref>{{Cite web |url=https://news.yahoo.com/dominican-republic-votes-election-postponed-004941501.html |title=Change in Dominican Republic as opposition wins presidency |access-date=6 July 2020 |archive-date=4 August 2020 |archive-url=https://web.archive.org/web/20200804183240/https://news.yahoo.com/dominican-republic-votes-election-postponed-004941501.html |url-status=dead }}</ref>
+
+==Results==
+===President===
+Luis Abinader won the presidential election in the first round, receiving over 50% of the vote. During the election count, the ruling Dominican Liberation Party's candidate Gonzalo Castillo conceded defeat, stating that the official count "shows that there is an irreversible trend and that from now on we have a president-elect... Our congratulations to Mr Luis Abinader."<ref name=newpresident /> Former President Leonel Fernández, who left the ruling party and ran for the presidency as a member of the People's Force party, also conceded defeat.<ref name=newpresident /> Abinader was sworn in as President of the Dominican Republic on 16 August 2020.<ref name=presidentnow>{{cite news|url=https://www.usnews.com/news/world/articles/2020-08-16/luis-abinader-sworn-in-as-dominican-leader-pompeo-attends|title=Luis Abinader Sworn in as Dominican Leader; Pompeo Attends|agency=Associated Press|publisher=U.S. News|date=16 August 2020|access-date=16 August 2020}}</ref>
+
+{{Election results
+|cand1=[[Luis Abinader]]|party1=[[Modern Revolutionary Party]] and allies{{Efn|[[Revolutionary Social Democratic Party]], [[Dominican Humanist Party]], [[Alliance for Democracy (Dominican Republic)|Alliance for Democracy]], País Posible, [[Broad Front (Dominican Republic)|Broad Front]] and [[Dominicans for Change]]}}|votes1=2154866
+|cand2=[[Gonzalo Castillo (politician)|Gonzalo Castillo]]|party2=[[Dominican Liberation Party]] and allies{{efn|[[Alternative Democratic Movement]], [[Christian Democratic Union (Dominican Republic)|Christian Democratic Union]], [[Civic Renovation Party]], [[People's Democratic Party (Dominican Republic)|People's Democratic Party]], [[Independent Revolutionary Party]] and the [[Dominican Revolutionary Party]]}}|votes2=1537078
+|cand3=[[Leonel Fernández]]|party3=[[People's Force]] and allies{{efn|[[Social Christian Reformist Party]], [[Social Democratic Institutional Bloc]], [[National Unity Party (Dominican Republic)|National Unity Party]], [[National Progressive Force]] and the [[Quisqueyano Christian Democratic Party]]}}|votes3=365226
+|cand4=[[Guillermo Moreno García]]|party4=[[Country Alliance (Dominican Republic)|Country Alliance]]|votes4=39458
+|cand5={{ill|Ismael Reyes Cruz|es}}|party5=[[Institutional Democratic Party (Dominican Republic)|Institutional Democratic Party]]|votes5=3484
+|cand6=[[Juan Cohen]]|party6=[[National Citizen Will Party]]|votes6=3250
+|invalid=59943
+|electorate=7529932
+|source=[https://jce.gob.do/ JCE]
+}}
+{{notelist}}
+
+===Senate===
+The Modern Revolutionary Party won an absolute majority in the Senate on their own, seeing their seat total increase by 15, while the ruling Dominican Liberation party lost over 75% of their prior seats.
+
+{{Election results
+|image=[[File:Senado de República Dominicana 2020.svg]]
+|party1=[[Modern Revolutionary Party]]|votes1=1768588|seats1=17|sc1=+15
+|party2=[[Dominican Liberation Party]]|votes2=1267168|seats2=6|sc2=–20
+|party3=[[People's Force]]|votes3=141836|seats3=1|sc3=New
+|party4=[[Social Christian Reformist Party]]|votes4=116353|seats4=6|sc4=+5
+|party5=[[Dominican Revolutionary Party]]|votes5=111476|seats5=0|sc5=–1
+|party6=[[National Unity Party (Dominican Republic)|National Unity Party]]|votes6=55057|seats6=0|sc6=0
+|party7=[[Country Alliance (Dominican Republic)|Country Alliance]]|votes7=54209|seats7=0|sc7=0
+|party8=[[Dominicans for Change]]|votes8=48365|seats8=1|sc8=+1
+|party9=[[Social Democratic Institutional Bloc]]|votes9=48124|seats9=1|sc9=0
+|party10=[[Civic Renovation Party]]|votes10=36030|seats10=0|sc10=0
+|party11=[[Alternative Democratic Movement]]|votes11=27745|seats11=0|sc11=0
+|party12=[[Liberal Reformist Party (Dominican Republic)|Liberal Reformist Party]]|votes12=25276|seats12=0|sc12=–1
+|party13=[[Broad Front (Dominican Republic)|Broad Front]]|votes13=24863|seats13=0|sc13=0
+|party14=[[Revolutionary Social Democratic Party]]|votes14=23093|seats14=0|sc14=0
+|party15=[[Alliance for Democracy (Dominican Republic)|Alliance for Democracy]]|votes15=20868|seats15=0|sc15=0
+|party16=[[Christian People's Party (Dominican Republic)|Christian People's Party]]|votes16=18817|seats16=0|sc16=0
+|party17=[[Quisqueyano Christian Democratic Party]]|votes17=17125|seats17=0|sc17=0
+|party18=[[Dominican Humanist Party]]|votes18=15963|seats18=0|sc18=0
+|party19=Liberal Action Party|votes19=14537|seats19=0|sc19=0
+|party20=[[National Progressive Force]]|votes20=14485|seats20=0|sc20=0
+|party21=[[Christian Democratic Union (Dominican Republic)|Christian Democratic Union]]|votes21=12392|seats21=0|sc21=0
+|party22=Possible Country|votes22=11136|seats22=0|sc22=New
+|party23=[[Independent Revolutionary Party]]|votes23=9628|seats23=0|sc23=0
+|party24=[[People's Democratic Party (Dominican Republic)|People's Democratic Party]]|votes24=9568|seats24=0|sc24=0
+|party25=[[Institutional Democratic Party (Dominican Republic)|Institutional Democratic Party]]|votes25=8971|seats25=0|sc25=0
+|party26=[[National Citizen Will Party]]|votes26=7651|seats26=0|sc26=0
+|invalid=120562
+|total_sc=0
+|electorate=6934053
+|source=[https://jce.gob.do/DesktopModules/Bring2mind/DMX/Download.aspx?EntryId=18730 JCE (votes)] [https://jce.gob.do/DesktopModules/Bring2mind/DMX/Download.aspx?EntryId=18733 JCE (seats)] [https://jce.gob.do/portaltransparencia/?EntryId=18724&Command=Core_Download Ganadores Elecciones Julio 2020]
+}}
+
+===Chamber of Deputies===
+The Modern Revolutionary Party won a plurality of votes and seats, seeing their seat count more than double. The ruling Dominican Liberation Party lost nearly 30% of their prior seats. No party has a majority on their own in the Chamber, meaning alliances or coalitions will need to be made to guarantee the passage of bills. A total of 96 seats is needed for a majority.
+
+{{Election results
+|party1=[[Modern Revolutionary Party]]|votes1=1634860|seats1=86|sc1=+44
+|party2=[[Dominican Liberation Party]]|votes2=1261802|seats2=75|sc2=–31
+|party3=[[Dominican Revolutionary Party]]|votes3=220939|seats3=4|sc3=–12
+|party4=[[People's Force]]|votes4=170993|seats4=3|sc4=New
+|party5=[[Social Christian Reformist Party]]|votes5=165800|seats5=6|sc5=–12
+|party6=[[Country Alliance (Dominican Republic)|Country Alliance]]|votes6=71899|seats6=2|sc6=+1
+|party7=[[Dominicans for Change]]|votes7=45162|seats7=2|sc7=+2
+|party8=[[Dominican Humanist Party]]|votes8=42597|seats8=1|sc8=+1
+|party9=[[Civic Renovation Party]]|votes9=39589|seats9=1|sc9=+1
+|party10=[[Social Democratic Institutional Bloc]]|votes10=37235|seats10=2|sc10=+2
+|party11=[[Revolutionary Social Democratic Party]]|votes11=33362|seats11=1|sc11=+1
+|party12=[[Alternative Democratic Movement]]|votes12=32723|seats12=0|sc12=–1
+|party13=[[Broad Front (Dominican Republic)|Broad Front]]|votes13=30429|seats13=3|sc13=+2
+|party14=[[National Unity Party (Dominican Republic)|National Unity Party]]|votes14=27600|seats14=0|sc14=0
+|party15=[[Alliance for Democracy (Dominican Republic)|Alliance for Democracy]]|votes15=26570|seats15=2|sc15=+2
+|party16=[[Christian People's Party (Dominican Republic)|Christian People's Party]]|votes16=20894|seats16=0|sc16=–1
+|party17=[[Quisqueyano Christian Democratic Party]]|votes17=19414|seats17=1|sc17=0
+|party18=[[Christian Democratic Union (Dominican Republic)|Christian Democratic Union]]|votes18=18199|seats18=0|sc18=0
+|party19=Liberal Action Party|votes19=17655|seats19=0|sc19=0
+|party20=[[Liberal Reformist Party (Dominican Republic)|Liberal Reformist Party]]|votes20=15652|seats20=1|sc20=–2
+|party21=Possible Country|votes21=15346|seats21=0|sc21=New
+|party22=[[National Citizen Will Party]]|votes22=12517|seats22=0|sc22=0
+|party23=[[Independent Revolutionary Party]]|votes23=12368|seats23=0|sc23=0
+|party24=[[National Progressive Force]]|votes24=10959|seats24=0|sc24=0
+|party25=[[People's Democratic Party (Dominican Republic)|People's Democratic Party]]|votes25=10598|seats25=0|sc25=0
+|party26=[[Institutional Democratic Party (Dominican Republic)|Institutional Democratic Party]]|votes26=7997|seats26=0|sc26=0
+|invalid=151946
+|total_sc=0
+|electorate=7529932
+|source=[https://jce.gob.do/DesktopModules/Bring2mind/DMX/Download.aspx?EntryId=18721&Command=Core_Download&language=es-ES&PortalId=1&TabId=190 JCE], [https://jce.gob.do/DesktopModules/Bring2mind/DMX/Download.aspx?EntryId=18723&Command=Core_Download&language=es-ES&PortalId=1&TabId=190 JCE]
+}}
+
+==References==
+{{reflist}}
+ 
+{{Dominican Republic elections}}
+
+[[Category:2020 elections in the Caribbean|Dominican]]
+[[Category:2020 in the Dominican Republic|General election]]
+[[Category:Elections in the Dominican Republic]]
+[[Category:Elections postponed due to the COVID-19 pandemic|Dominican]]
+[[Category:July 2020 in the Dominican Republic|General]]
+[[Category:Presidential elections in the Dominican Republic]]

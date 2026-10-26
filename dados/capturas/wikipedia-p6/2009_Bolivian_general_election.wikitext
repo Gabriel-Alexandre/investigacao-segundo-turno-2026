@@ -1,0 +1,197 @@
+{{Short description|none}}
+{{Infobox election
+| country = Bolivia
+| flag_year = state
+| previous_election = 2005 Bolivian presidential election
+| previous_year = 2005
+| next_election = 2014 Bolivian general election
+| next_year = 2014
+| election_date = 6 December 2009
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| image_size = 130x130px
+| registered = 5,139,554
+| turnout = 94.54% ({{increase}} 10.05pp)
+
+| image1 = Evo Morales 2011.jpg
+| nominee1 = '''[[Evo Morales]]'''
+| party1 = Movement for Socialism (Bolivia)
+| running_mate1 = '''[[Álvaro García Linera]]'''
+| popular_vote1 = '''2,943,209'''
+| percentage1 = '''64.22%'''
+
+| image2 = Manfred Reyes Villa (cropped).jpg
+| nominee2 = [[Manfred Reyes Villa]]
+| party2 = Plan Progress for Bolivia – National Convergence
+| running_mate2 = [[Leopoldo Fernández]]
+| popular_vote2 = 1,212,795
+| percentage2 = 24.46%
+
+| image3 = SamuelDM.png
+| nominee3 = [[Samuel Doria Medina]]
+| party3 = National Unity Front
+| running_mate3 = Gabriel Helbing
+| popular_vote3 = 258,971
+| percentage3 = 5.65%
+
+| map = {{Switcher
+| [[File:Mapa Electoral de Bolivia por Departamentos 2009.png|260px]]
+| Results by department
+| [[File:Mapa Electoral - Bolivia - Elecciones 2009 -Por Provincias.png|260px]]
+| Results by province}}
+
+| title = President
+| before_election = [[Evo Morales]]
+| before_party = Movement for Socialism (Bolivia)
+| after_election = [[Evo Morales]]
+| after_party = Movement for Socialism (Bolivia)
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+| noleader = yes
+| nopercentage = yes
+| seats_for_election = All 36 seats in the Chamber of Senators<br>All 130 seats in the Chamber of Deputies
+| heading1 = [[Chamber of Senators (Bolivia)|Chamber of Senators]]
+| party1 = Movimiento al Socialismo
+| last_election1 = 12
+| seats1 = 26
+| party2 = Plan Progress for Bolivia – National Convergence
+| last_election2 = New
+| seats2 = 10
+| heading3 = [[Chamber of Deputies (Bolivia)|Chamber of Deputies]]
+| party3 = Movimiento al Socialismo
+| last_election3 = 72
+| seats3 = 88
+| party4 = Plan Progress for Bolivia – National Convergence
+| last_election4 = New
+| seats4 = 37
+| party5 = National Unity Front
+| last_election5 = 8
+| seats5 = 3
+| party6 = Social Alliance
+| last_election6 = New
+| seats6 = 2
+}}
+}}
+}}
+{{Politics of Bolivia}}
+
+General elections were held in [[Bolivia]] on December 6, 2009,<ref>{{cite news |title=Bolivien: Einigung über Verfassungsreferendum |url=http://diepresse.com/home/politik/aussenpolitik/424062/index.do?_vl_backlink=/home/index.do |work=[[Die Presse]] |publisher=APA |date=21 October 2008 |accessdate=22 March 2009 |language=de |archive-url=https://web.archive.org/web/20090215020316/http://diepresse.com/home/politik/aussenpolitik/424062/index.do?_vl_backlink=%2Fhome%2Findex.do |archive-date=15 February 2009 |url-status=dead }}</ref> following a [[2009 Bolivian constitutional referendum|constitutional referendum]] held on 25 January 2009.<ref>{{cite news |title=Bolivia set for constitution vote |url=https://news.bbc.co.uk/2/hi/americas/7683707.stm |work=[[BBC News]] |date=22 October 2008 |access-date=22 March 2009 }}</ref><ref>http://www.plenglish.com/article.asp?ID={770AB960-1BD0-4417-8B3F-364526BF6886})&language=EN {{webarchive |url=https://web.archive.org/web/20090315042804/http://www.plenglish.com/article.asp?ID= |date=March 15, 2009 }}</ref> The election was initially expected to be held in 2010.<ref>{{Cite web|url=https://www.realinstitutoelcano.org/en/analyses/general-elections-in-bolivia-december-2009-ari/|title=General Elections in Bolivia, December 2009 (ARI)|publisher=[[Elcano Royal Institute]]}}</ref> Voters elected:
+
+*[[President of Bolivia|President]] and [[Vice President of Bolivia|Vice President]] of the State.
+*130 members of the [[Chamber of Deputies of Bolivia|Chamber of Deputies]].
+*36 members of the [[Senate of Bolivia|Senate]].
+
+The five departments which had not already done so all voted to have departmental autonomy. Eleven municipalities voted to have indigenous autonomy, out of twelve holding such referendums.<ref name=Formal>Diego Andrés Chávez Rodríguez, "La Autonomía Indígena Originario Campesina: Entre la formalidad y la autodeterminación," ''Diálogos en Democracia'', 21 March 2010 (Supplement to ''Pulso Bolivia'').</ref> One province voted to have regional autonomy.
+
+==Presidential candidates==
+Under the new constitution, all previous terms will not be considered for term limits. If any candidate fails to win over 50% of the vote and another candidate is within 10%, a second round will be held. It was the first time that an incumbent president ran for reelection. The presidential candidates were:
+
+*[[Evo Morales]] ([[Movement for Socialism (Bolivia)|Movement for Socialism]]): incumbent president, the first of indigenous identity. He is Aymara.
+*[[Manfred Reyes Villa]] ([[Plan Progress for Bolivia – National Convergence]]): former prefect of the [[Cochabamba Department]].
+*[[René Joaquino]] ([[Social Alliance]]): Mayor of [[Potosí]]
+*[[Samuel Doria Medina]] ([[Frente de Unidad Nacional]])
+*[[Alejo Véliz (politician)|Alejo Véliz]] ([[Pueblos por la Libertad y Soberanía]])
+*[[Ana María Flores]] ([[Movimiento de Unidad Social Patriótica]])
+*[[Rime Choquehuanca]] ([[Bolivia Social Demócrata]])
+*[[Román Loayza]] (Gente)
+
+==Opinion polls==
+Polling prior to the election indicated that incumbent [[Evo Morales]] enjoyed a 55% approval rating, as well as an 18-point lead over his closest challenger [[Manfred Reyes Villa]].<ref name="ft">{{cite news|url=https://www.ft.com/content/7bf63bfc-e13e-11de-af7a-00144feab49a|title=Morales keeps faith with populism ahead of Bolivia poll|date=5 Dec 2009|work=FT|accessdate=6 December 2009|archive-date=15 November 2011|archive-url=https://web.archive.org/web/20111115194115/http://www.ft.com/cms/s/0/7bf63bfc-e13e-11de-af7a-00144feab49a.html|url-status=dead}}</ref> As Morales was expected to cruise to reelection, the local press reported that Villa has already purchased an airplane ticket to the United States for the 7th (the day after the election).<ref name="ft"/>
+
+==Results==
+Incumbent President [[Evo Morales]] won a convincing victory, with 64% of the vote. His party, [[Movement for Socialism (Bolivia)|Movement for Socialism]], won a two-thirds majority in both the [[National Congress of Bolivia|Chamber of Deputies]] and the [[National Congress of Bolivia|Senate]].
+
+===President===
+<onlyinclude>{{Election results
+|party1=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|cand1=[[Evo Morales]]|vp1=[[Álvaro García Linera]]|votes1=2943209
+|party2=[[Plan Progress for Bolivia – National Convergence]]|cand2=[[Manfred Reyes Villa]]|vp2=[[Leopoldo Fernández]]|votes2=1212795
+|party3=[[National Unity Front]]|cand3=[[Samuel Doria Medina]]|vp3=Gabriel Helbing|votes3=258971
+|party4=[[Social Alliance]]|cand4=René Joaquino Carlos|vp4=Carlos Suárez Gonzales|votes4=106027
+|party5=Social Patriotic Unity Movement|cand5=[[Ana María Flores]]|vp5=Guillermo Núñez|votes5=23257
+|party6=Gente|cand6=[[Román Loayza]]|vp6=Porfirio Mamani|votes6=15627
+|party7=Peoples for Liberty and Sovereignty|cand7=[[Alejo Véliz (politician)|Alejo Véliz]]|vp7=Pablo Valdez|votes7=12995
+|party8=Social Democratic Bolivia|cand8=Rime Choquehuanca|vp8=Nora Castro|votes8=9905
+|blank=156290
+|invalid=120364
+|electorate=5139554
+|source=[https://web.archive.org/web/20110605124211/http://www.cne.org.bo/PadronBiometrico/COMUNICACION/ACTADECOMPUTONACIONALGENERALES2009.pdf CNE]
+}}</onlyinclude>
+
+===Chamber of Deputies===
+{{Election results
+|image=[[File:Cámara de Diputados de Bolivia elecciones 2009.svg]]
+|firstround=Proportional|secondround=Constituency|thirdround=Indigenous
+|party1=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|votes1=2851996|seats1=33|votes1_2=2050547|seats1_2=49|votes1_3=25095|seats1_3=6|totseats1=88|sc1=+16
+|party2=[[Plan Progress for Bolivia – National Convergence]]|votes2=1190603|seats2=17|votes2_2=962648|seats2_2=19|votes2_3=4902|seats2_3=1|totseats2=37|sc2=+30
+|party3=[[National Unity Front]]|votes3=255299|seats3=3|votes3_2=260994|seats3_2=0|votes3_3=1049|seats3_3=0|totseats3=3|sc3=–5
+|party4=[[Social Alliance]]|votes4=104952|seats4=0|votes4_2=140262|seats4_2=2|votes4_3=421|seats4_3=0|totseats4=2|sc4=New
+|party5=Social Patriotic Unity Movement|votes5=21829|seats5=0|votes5_2=63007|seats5_2=0|votes5_3=268|seats5_3=0|totseats5=0|sc5=New
+|party6=Gente|votes6=15388|seats6=0|votes6_2=33159|seats6_2=0|votes6_3=184|seats6_3=0|totseats6=0|sc6=New
+|party7=Peoples for Liberty and Sovereignty|votes7=12635|seats7=0|votes7_2=37697|seats7_2=0|votes7_3=190|seats7_3=0|totseats7=0|sc7=New
+|party8=Social Democratic Bolivia|votes8=9709|seats8=0|votes8_2=30054|seats8_2=0|votes8_3=260|seats8_3=0|totseats8=0|sc8=New
+|invalid=271928|invalid2=1099502|invalid3=12700
+|total_sc=0
+|electorate=4970458|electorate2=4948823|electorate3=90952
+|source=[https://web.archive.org/web/20110605124211/http://www.cne.org.bo/PadronBiometrico/COMUNICACION/ACTADECOMPUTONACIONALGENERALES2009.pdf CNE], [https://www.electionpassport.com/files/BO/BO.xlsx Election Passport], [http://psephos.adam-carr.net/countries/b/bolivia/bolivia20092.txt Psephos]<!--
+Election Passport has errors for Chuquisaca 3 (valid/invalid/blank copied from Chuquisaca 1), Cochabamba 9 (valid), Cochabamba 10 (no votes for PULSO), La Paz 3 (valid), Oruro 2 (no votes for PULSO) - corrected using Psephos-->
+}}
+
+===Chamber of Senators===
+{{Election results
+|image=[[File:Senado de Bolivia elecciones 2009.svg]]
+|party1=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|votes1=2851996|seats1=26|sc1=+14
+|party2=[[Plan Progress for Bolivia – National Convergence]]|votes2=1190603|seats2=10|sc2=+9
+|party3=[[National Unity Front]]|votes3=255299|seats3=0|sc3=–1
+|party4=[[Social Alliance]]|votes4=104952|seats4=0|sc4=New
+|party5=Social Patriotic Unity Movement|votes5=21829|seats5=0|sc5=New
+|party6=Gente|votes6=15388|seats6=0|sc6=New
+|party7=Peoples for Liberty and Sovereignty|votes7=12635|seats7=0|sc7=New
+|party8=Social Democratic Bolivia|votes8=9709|seats8=0|sc8=New
+|blank=155089
+|invalid=116839
+|electorate=4970458
+|total_sc=+9
+|source=[https://web.archive.org/web/20110605124211/http://www.cne.org.bo/PadronBiometrico/COMUNICACION/ACTADECOMPUTONACIONALGENERALES2009.pdf CNE]
+}}
+
+==Autonomy referendums==
+===Departments===
+The five departments which had not already done so all voted to become autonomous departments. Each will have to produce a statute of autonomy. They were:
+*[[Chuquisaca Department]]—79% voting yes
+*[[Cochabamba Department]]—76.8% voting yes
+*[[La Paz Department, Bolivia|La Paz Department]]—79.6% voting yes
+*[[Oruro Department]]—73.1% voting yes
+*[[Potosí Department]]—73.9% voting yes<ref>La Bolivia autonómica, ''Los Tiempos'' (Cochabamba), edición especial, 6 August 2010</ref>
+
+===Regional autonomy===
+The [[Gran Chaco Province]] in Tarija held a referendum on regional autonomy, which was approved by 80.4% of voters.<ref>Ministerio de Autonomías, "[http://www.autonomia.gob.bo/portal3/content/regi%C3%B3n-aut%C3%B3noma-chaco-tarije%C3%B1o Región Autónoma Chaco Tarijeño] {{webarchive|url=https://web.archive.org/web/20110428105059/http://www.autonomia.gob.bo/portal3/content/regi%C3%B3n-aut%C3%B3noma-chaco-tarije%C3%B1o |date=2011-04-28 }}."</ref>
+
+===Municipalities===
+The following [[Municipalities of Bolivia|municipalities]] voted on whether to become autonomous municipalities according to the  [[Indigenous Originary Campesino Autonomy]] provisions of the 2009 [[Constitution of Bolivia|Constitution]]. Eleven voted yes:
+*[[Huacaya Municipality]] (Chuquisaca Department) – '''53.7%''' of voters in favor of autonomy<ref name=Avanzan>"Las autonomías indígenas avanzan a paso lento per seguro, entre consensos e interrogantes" ''Diálogos en Democracia'', 21 March 2010 (Supplement to ''Pulso Bolivia'').</ref>
+*[[Tarabuco Municipality]] (Chuquisaca Department) – '''90.8%'''
+*[[Mojocoya Municipality]] (Chuquisaca Department) – '''88.3%'''
+*[[Charazani Municipality]] (La Paz Department) – '''86.6%'''
+*[[Jesús de Machaca Municipality]] (La Paz Department) – '''56.1%'''
+*[[Pampa Aullagas Municipality]] (Oruro Department) – '''83.7%'''
+*[[San Pedro de Totora Municipality]] (Oruro Department) -- '''74.5%'''
+*[[Chipaya Municipality]] (Oruro Department) -- '''91.9%'''
+*[[Salinas de Garci Mendoza Municipality]] (Oruro Department) -- '''75.1%'''
+*[[Chayanta Municipality]] (Potosí Department) – '''60%'''
+*[[Charagua Municipality]] (Santa Cruz Department) – '''55.7%'''
+One municipality voted no:
+*[[Curahuara de Carangas Municipality]]<ref name=Formal />
+
+==References==
+{{reflist}}
+
+{{Bolivian elections}}
+
+[[Category:Parliamentary elections in Bolivia]]
+[[Category:2009 elections in South America|Bolivia]]
+[[Category:2009 in Bolivia|General]]
+[[Category:Presidential elections in Bolivia]]

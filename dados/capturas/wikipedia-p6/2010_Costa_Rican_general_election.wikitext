@@ -1,0 +1,575 @@
+{{Short description|none}}
+{{Use dmy dates|date=July 2023}}
+{{Infobox election
+| country = Costa Rica
+| flag_year = state
+| type = presidential
+| previous_election = 2006 Costa Rican general election
+| previous_year = 2006
+| next_election = 2014 Costa Rican general election
+| next_year = 2014
+| election_date = 7 February 2010
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| image_size = 130x130px
+| registered = 2,822,491
+| turnout = 69.12% ({{increase}} 3.91[[percentage point|pp]])
+
+| image1 = Laura-Chinchilla-cropped.jpg
+| candidate1 = '''[[Laura Chinchilla]]'''
+| party1 = National Liberation Party (Costa Rica)
+| running_mate1 = '''[[Alfio Piva]]'''<br />'''[[Luis Liberman]]'''
+| popular_vote1 = '''896,516'''
+| percentage1 = '''46.91%'''
+
+| image2 = Ottón Solís Fallas, PAC - Costa Rica (cropped).JPG
+| candidate2 = [[Ottón Solís Fallas]]
+| party2 = Citizens' Action Party (Costa Rica)
+| running_mate2 = Mónica Segnini'''<br />'''Julio Humphreys
+| popular_vote2 = 478,877
+| percentage2 = 25.05%
+
+| image3 = Otto Guevara (cropped 2).jpg
+| candidate3 = [[Otto Guevara Guth]]
+| party3 = Libertarian Movement (Costa Rica)
+| running_mate3 = Mario Quirós'''<br />'''Lorena San Román
+| popular_vote3 = 399,788
+| percentage3 = 20.92%
+
+| map_image = Elección Presidencial de Costa Rica (2010) (Distritos Administrativos).svg
+| map_caption = Results by district<br>'''Chinchilla''': {{legend0|#5DA888|30–40%}} {{legend0|#509577|40–50%}} {{legend0|#457F66|50–60%}} {{legend0|#396A55|60–70%}} {{legend0|#2E5544|70-80%}} {{legend0|#224033|80-90%}}<br>'''Solís''': {{legend0|#EDE900|30-40%}} {{legend0|#CFCC00|40–50%}} {{legend0|#B1AF00|50-60%}}<br>'''Guevara''': {{legend0|#b6162e|30-40%}} {{legend0|#a01328|40–50%}} {{legend0|#891022|50-60%}}<br>'''Tie''': {{legend0|#BB8AC8|30–40%}} {{legend0|#AA6EBB|50%}}
+
+| title = [[President of Costa Rica|President]]
+| before_election = [[Oscar Arias]]
+| before_party = National Liberation Party (Costa Rica)
+| after_election = [[Laura Chinchilla]]
+| after_party = National Liberation Party (Costa Rica)
+
+| module = {{Infobox legislative election
+| embed= yes
+| election_name = Legislative election
+
+| seats_for_election = All 57 seats in the [[Legislative Assembly of Costa Rica|Legislative Assembly]]
+| majority_seats = 29
+| turnout = 69.11% ({{increase}} 3.91[[percentage point|pp]])
+
+| party1 = National Liberation Party (Costa Rica)
+| leader1 = [[Laura Chinchilla Miranda]]
+| percentage1 = 37.27
+| seats1 = 24
+| last_election1 = 25
+
+| party2 = Citizens' Action Party (Costa Rica)
+| leader2 = [[Ottón Solís Fallas]]
+| percentage2 = 17.61
+| seats2 = 11
+| last_election2 = 17
+
+| party3 = Libertarian Movement (Costa Rica)
+| leader3 = [[Otto Guevara Guth]]
+| percentage3 = 14.50
+| seats3 = 9
+| last_election3 = 6
+
+| party4 = Accessibility without Exclusion Party
+| leader4 = [[Óscar López (Costa Rican politician)|Óscar López Arias]]
+| percentage4 = 9.05
+| seats4 = 4
+| last_election4 = 1
+
+| party5 = Social Christian Unity Party
+| leader5 = [[Luis Fishman Zonzinski]]
+| percentage5 = 8.16
+| seats5 = 6
+| last_election5 = 5
+
+| party6 = Costa Rican Renovation Party
+| leader6 = Mayra González León
+| percentage6 = 3.85
+| seats6 = 1
+| last_election6 = 0
+
+| party7 = Broad Front (Costa Rica)
+| leader7 = Eugenio Trejos Benavides
+| percentage7 = 3.63
+| seats7 = 1
+| last_election7 = 1
+
+| map                = Elecciones legislativas de Costa Rica de 2010 - Diputados por Provincia.svg
+| map_caption        = Results by province
+}}}}}}{{Politics of Costa Rica}}
+
+General elections were held in [[Costa Rica]] on 7 February 2010. The ruling party before the election, the center-left [[National Liberation Party (Costa Rica)|National Liberation Party]], put forward former [[Vice President of Costa Rica|Vice-President]] [[Laura Chinchilla]] as its presidential candidate, while the [[Libertarianism|libertarian]], [[Movimiento Libertario]] nominated former legislator [[Otto Guevara]]. Opinion polls before voting started consistently put Chinchilla as the front-runner, a trend confirmed in the election-night count, which showed her garnering 46.76% of the vote.<ref>{{Cite web |url=http://www.nacion.com/ln_ee/2010/febrero/07/pais2255136.html |title=(in Spanish) |access-date=2010-02-08 |archive-date=2010-02-11 |archive-url=https://web.archive.org/web/20100211122142/http://www.nacion.com/ln_ee/2010/febrero/07/pais2255136.html |url-status=dead }}</ref>
+
+The election was supervised by observers from several countries, as well as from the [[Organization of American States]].<ref>{{cite web|last=Jara |first=Francisco |url=https://www.google.com/hostednews/afp/article/ALeqM5gZx0yDwahBg3umqRGIX96uw4E--w |archive-url=https://archive.today/20130124161553/http://www.google.com/hostednews/afp/article/ALeqM5gZx0yDwahBg3umqRGIX96uw4E--w |url-status=dead |archive-date=24 January 2013 |title=AFP: First female poised for Costa Rica presidency |date=2010-02-06 |access-date=2010-08-21}}</ref> The incumbent president, [[Óscar Arias]], was ineligible to run for a second consecutive term. This was the last time as of 2019, that the National Liberation Party has gotten more than 30% of the vote, the last time to this date that they have won the presidency, and the last time it has won any province in what is known as the Central Valley (the four provinces in the interior of the country: San José, Alajuela, Heredia and Cartago).
+
+==Presidential candidates==
+
+Candidates included:
+
+*[[Laura Chinchilla Miranda]] (ruling [[National Liberation Party (Costa Rica)|National Liberation Party]], vice-president 2006–08)
+*[[Ottón Solís]] (oppositional [[Citizens' Action Party (Costa Rica)|Citizens' Action Party]], candidate in 2006)
+*[[Otto Guevara]] ([[Movimiento Libertario]], candidate in 2006)
+*Luis Fishman (conservative [[Social Christian Unity Party]], vice-president under [[Abel Pacheco]])
+
+Two weeks before the election, Patriotic Alliance and National Integration Party's candidates, Rolando Araya and Walter Muñoz, stopped their campaigns and endorsed Citizens' Action Party's candidate Otton Solís, in an effort to build a progressive alliance against Laura Chinchilla.<ref>{{Cite web|url=https://www.nacion.com/el-pais/politica/araya-y-munoz-renuncian-a-ser-candidatos-y-apoyan-a-solis/DRRTC4TAPBBVBNP2472YW3I66I/story/|title = Araya y Muñoz renuncian a ser candidatos y apoyan a Solís}}</ref>
+
+==Parliamentary elections==
+The swifting from a [[two-party system]] to a [[multi-party system]] was much more evident in this election<ref name="IPU">{{cite journal|title=Panorama of Parliament Elections 2010|journal=International Parliamentary Union|url=http://www.ipu.org/pdf/publications/elections10-e.pdf}}</ref><ref name="Lehring">{{cite news|last1=Lehring|first1=Gary|title=Costa Rican legislative elections show growing voter dissatisfaction with traditional choices|url=http://www.ticotimes.net/2014/02/15/costa-rican-legislative-elections-show-growing-voter-dissatisfaction-with-traditional-choices|access-date=13 March 2016|agency=The Tico Times|date=15 February 2014}}</ref><ref name="Landsford">{{cite book|last1=Landsford|first1=Tom|title=Political Handbook of the World 2014|url=https://books.google.com/books?id=iC_VBQAAQBAJ&q=costa+rica%27s+end+of+two+party+system&pg=PA333|access-date=13 March 2016|isbn=9781483386263|date=2014-03-20}}</ref><ref name="Landsford 2">{{cite book|last1=Landsford|first1=Tom|title=Political Handbook of the World 2012|url=https://books.google.com/books?id=d33MfEFXvW8C&q=costa+rica%27s+end+of+two+party+system&pg=PA332|access-date=13 March 2016|isbn=9781608719952|date=2012-04-02}}</ref>
+
+For the then three major parties; [[National Liberation Party (Costa Rica)|PLN]], [[Citizens' Action Party (Costa Rica)|PAC]] and [[Libertarian Movement (Costa Rica)|ML]] the voting for the presidential ballot was superior to the support in the legislative, as for example PLN presidential candidate [[Laura Chinchilla]]<ref name="IPU"/> received 46%<ref name="ER2">{{cite web|title=7 February 2010 Presidential Election Results - Costa Rica Totals|url=http://www.electionresources.org/cr/president.php?election=2010|website=Elections Resources|access-date=13 March 2016}}</ref> of the votes and PLN's legislative ballot only 37%.<ref name="ER">{{cite web|title=7 February 2010 Legislative Assembly Election Results - Costa Rica Totals|url=http://www.electionresources.org/cr/deputies.php?election=2010|website=Election Resources|access-date=13 March 2016}}</ref> Similarly PAC's candidate [[Ottón Solís]] with 25%<ref name="ER2"/> presidential against 17% legislative<ref name="ER"/> and [[Otto Guevara]] with 20%<ref name="ER2"/> oppose to 14% legislative.<ref name="ER"/> Contrary to PUSC whose candidate [[Luis Fishman]] received 3%<ref name="ER2"/> electoral support while his party received 8%.<ref name="ER"/>
+
+This was at the time PAC's worst electoral result in its history having the smallest faction in the Parliament<ref name="Lehring"/> and ML's best result with to this date its biggest.<ref name="Lehring"/> PLN only lost one seat. Left-wing [[Broad Front (Costa Rica)|Broad Front]] maintained its only seat in the person of future presidential nominee [[José María Villalta Florez-Estrada]]<ref name="Lehring"/> and two Christian parties<ref>{{cite news|last1=Lopez|first1=Jaime|title=Civic Groups Move Against Gay Marriage in Costa Rica|url=http://news.co.cr/civic-groups-move-against-gay-marriage-in-costa-rica/23281/|access-date=13 March 2016|agency=Costa Rica Star|date=July 18, 2013}}</ref> for the first time had deputies at the same time; [[Costa Rican Renewal Party]] and its provincial offshoot [[National Restoration Party (Costa Rica)|National Restoration]].<ref name="Lehring"/>
+
+==Opinion polls==
+{{Chart|definition=Opinion polling for the 2010 Costa Rican presidential election.chart|data=Opinion polling for the 2010 Costa Rican presidential election.tab|width=720px}}
+*''CID-Gallup'' 24 January 2010: '''Chinchilla''' 43%; Guevara 30%; Solís 15%; Fishman 8%
+*''Borge & Asociados for Diario Extra opinion poll'' January 2010: '''Chinchilla''' 38.7%; Guevara 18.3%; Solís 9.6%; Fishman 3.7%
+*''Demoscopía for Al Día'' January 2010: '''Chinchilla''' 45.1%; Guevara 30.1%; Solís 9.5%; Fishman 3.8%<ref>{{cite web |url=http://www.angus-reid.com/polls/view/34985/chinchilla_leads_guevara_gains_in_costa_rica/ |title=Chinchilla Leads, Guevara Gains in Costa Rica: Angus Reid Global Monitor |publisher=Angus-reid.com |access-date=2010-08-21 |archive-url=https://web.archive.org/web/20100205054502/http://www.angus-reid.com/polls/view/34985/chinchilla_leads_guevara_gains_in_costa_rica |archive-date=2010-02-05 |url-status=usurped }}</ref>
+*December 2009: '''Chinchilla''' 36.7%; Guevara 16.2%; Solís 8.5%; Fishman 2.2%
+*December 2009: '''Chinchilla''' 46.6%; Guevara 19.5%; Solís 8.3%; Fishman 4.1%
+*October 2009: '''Chinchilla''' 53.0%; Guevara 15.7%; Solís 12.3%; Fishman 1.5%
+
+==Results==
+===President===
+At 9:08&nbsp;p.m. local time on election day, 7 February second-placed candidate Otton Solis conceded defeat to [[Laura Chinchilla]], who will become Costa Rica's first female president. With approximately 40% of the vote counted, Chinchilla was consistently surpassing the 40% threshold for victory in the first round, leading Solis by 47% to 24%, with third-placed candidate Otto Guevara trailing at 21.5%.<ref>{{cite web |url=http://www.nacion.com/ln_ee/2010/febrero/07/pais2255136.html |title=Solís reconoce victoria de Chinchilla - EL PAÍS |publisher=nacion.com |access-date=2010-08-21 |archive-date=2010-02-11 |archive-url=https://web.archive.org/web/20100211122142/http://www.nacion.com/ln_ee/2010/febrero/07/pais2255136.html |url-status=dead }}</ref>
+
+{{Election results
+|cand1=[[Laura Chinchilla]]|party1=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes1=896516
+|cand2=[[Ottón Solís]]|party2=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes2=478877
+|cand3=[[Otto Guevara]]|party3=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes3=399788
+|cand4=[[Luis Fishman Zonzinski]]|party4=[[Social Christian Unity Party]]|votes4=74114
+|cand5=[[Óscar López (Costa Rican politician)|Óscar López]]|party5=[[Accessibility without Exclusion Party]]|votes5=36104
+|cand6=Mayra González|party6=[[Costa Rican Renewal Party]]|votes6=13945
+|cand7=Eugenio Trejos|party7=[[Broad Front (Costa Rica)|Broad Front]]|votes7=6782
+|cand8=[[Rolando Araya Monge]]|party8=[[Patriotic Alliance (Costa Rica)|Patriotic Alliance]]|votes8=3158
+|cand9=Walter Muñoz|party9=[[National Integration Party (Costa Rica)|National Integration Party]]|votes9=2049
+|invalid=32555
+|blank=6959
+|electorate=2822491
+|source=[http://www.electionresources.org/cr/president.php?election=2010&province= Election Resources]
+}}
+
+====By province====
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| [[Provinces of Costa Rica|Province]] %
+!width=60px| [[National Liberation Party (Costa Rica)|PLN]] %
+!width=60px| [[Citizens' Action Party (Costa Rica)|PAC]] %
+!width=60px| [[Libertarian Movement (Costa Rica)|ML]] %
+!width=60px| [[Social Christian Unity Party|PUSC]] %
+!width=60px| [[Accessibility without Exclusion Party|PASE]] %
+!width=60px| [[Costa Rican Renewal Party|PRC]] %
+!width=60px| Other %
+|-
+!{{party color cell|National Liberation Party (Costa Rica)}}
+!{{party color cell|Citizens' Action Party (Costa Rica)}}
+!{{party color cell|Libertarian Movement (Costa Rica)}}
+!{{party color cell|Social Christian Unity Party}}
+!{{party color cell|Accessibility without Exclusion Party}}
+!{{party color cell|Costa Rican Renovation Party}}
+!style="background:#7a7a7a"|
+|-
+| align="left"| {{flag|San José}}
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 46.6
+| style="background:#FFEB7F; color:black;"| 28.9
+| 17.6
+| 3.6
+| 2.1
+| 0.6
+| 0.6
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 45.3
+| style="background:#FFEB7F; color:black;"| 26.5
+| 21.9
+| 3.2
+| 1.8
+| 0.8
+| 0.5
+|-
+| align="left"| {{flag|Cartago}}
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 49.7
+| style="background:#FFEB7F; color:black;"| 23.5
+| 19.4
+| 4.2
+| 2.1
+| 0.4
+| 0.7
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 46.6
+| style="background:#FFEB7F; color:black;"| 27.6
+| 19.5
+| 3.2
+| 1.8
+| 0.6
+| 0.7
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 48.9
+| 17.3
+| style="background:#D0797D; color:white;"| 26.7
+| 4.4
+| 1.3
+| 0.8
+| 0.6
+|-
+| align="left"| {{flag|Limón}}
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 41.6
+| 17.5
+| style="background:#D0797D; color:white;"| 31.4
+| 5.0
+| 1.7
+| 1.9
+| 0.9
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 51.4
+| 15.9
+| style="background:#D0797D; color:white;"| 23.3
+| 6.1
+| 1.6
+| 1.2
+| 0.6
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 46.8
+| 25.1
+| 20.9
+| 3.9
+| 1.9
+| 0.7
+| 0.8
+|}
+
+===Legislative Assembly===
+{{Election results
+|image=[[File:Costa Rica Legislative Assembly 2010.svg]]
+|party1=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes1=708043|seats1=24|sc1=–1
+|party2=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes2=334636|seats2=11|sc2=–6
+|party3=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes3=275518|seats3=9|sc3=+3
+|party4=[[Accessibility without Exclusion Party]]|votes4=171858|seats4=4|sc4=+3
+|party5=[[Social Christian Unity Party]]|votes5=155047|seats5=6|sc5=+1
+|party6=[[Costa Rican Renewal Party]]|votes6=73150|seats6=1|sc6=+1
+|party7=[[Broad Front (Costa Rica)|Broad Front]]|votes7=68987|seats7=1|sc7=0
+|party8=[[National Restoration Party (Costa Rica)|National Restoration Party]]|votes8=29530|seats8=1|sc8=0
+|party9=[[Patriotic Alliance (Costa Rica)|Patriotic Alliance]]|votes9=28349|seats9=0|sc9=New
+|party10=[[National Integration Party (Costa Rica)|National Integration Party]]|votes10=14643|seats10=0|sc10=0
+|party11=[[Cartago Agrarian Union Party]]|votes11=11862|seats11=0|sc11=0
+|party12=[[National Restoration Party (Costa Rica)|Heredia Restoration Party]]|votes12=7953|seats12=0|sc12=New
+|party13=[[National Restoration Party (Costa Rica)|Alajuela Restoration Party]]|votes13=7298|seats13=0|sc13=New
+|party14=Cartaginese Transparency Party|votes14=4590|seats14=0|sc14=New|color14=#FFFFFF
+|party15=[[Cartago Green Party|Green Ecologist Party]]|votes15=2901|seats15=0|sc15=New|color15=#008080
+|party16=Elderly Alliance Party|votes16=2724|seats16=0|sc16=New|color16=#AFEEEE
+|party17=Alajuelan Familiar Force Party|votes17=1609|seats17=0|sc17=New|color17=#000000
+|party18=Workers' and Farmers' Movement|votes18=1127|seats18=0|sc18=New|color18=#556B2F
+|invalid=30806
+|blank=20077
+|total_sc=0
+|electorate=2822491
+|source=[http://www.electionresources.org/cr/deputies.php?election=2010&province= Election Resources]
+}}
+
+====By constituency====
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+|-
+! rowspan="3"| Constituency
+! colspan="2" width="30px"| [[National Liberation Party (Costa Rica)|PLN]]
+! colspan="2" width="30px"| [[Citizens' Action Party (Costa Rica)|PAC]]
+! colspan="2" width="30px"| [[Libertarian Movement (Costa Rica)|ML]]
+! colspan="2" width="30px"| [[Social Christian Unity Party|PUSC]]
+! colspan="2" width="30px"| [[Accessibility without Exclusion Party|PASE]]
+! colspan="2" width="30px"| [[Costa Rican Renewal Party|PRC]]
+! colspan="2" width="30px"| [[Broad Front (Costa Rica)|FA]]
+! colspan="2" width="30px"| [[National Restoration Party (Costa Rica)|PREN]]
+! colspan="2" width="30px"| [[Patriotic Alliance (Costa Rica)|AP]]
+! colspan="2" width="30px"| Other
+|-
+! colspan="2" {{party color cell|National Liberation Party (Costa Rica)}}
+! colspan="2" {{party color cell|Citizens' Action Party (Costa Rica)}}
+! colspan="2" {{party color cell|Libertarian Movement (Costa Rica)}}
+! colspan="2" {{party color cell|Social Christian Unity Party}}
+! colspan="2" {{party color cell|Accessibility without Exclusion Party}}
+! colspan="2" {{party color cell|Costa Rican Renovation Party}}
+! colspan="2" {{party color cell|Broad Front (Costa Rica)}}
+! colspan="2" {{party color cell|National Restoration Party (Costa Rica)}}
+! colspan="2" style="background:#699C13"|
+! colspan="2" style="background:#7a7a7a"|
+|-
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+|-
+| align="left"| [[San José (Legislative Assembly constituency)|San José]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 35.5
+|'''7'''
+| style="background:#FFEB7F; color:black;"| 19.0
+|'''4'''
+| 12.3
+|'''2'''
+| 7.4
+|'''2'''
+| 11.1
+|'''2'''
+| 3.0
+|'''1'''
+| 4.7
+|'''1'''
+| 4.3
+|'''1'''
+| 1.1
+|'''0'''
+| 1.6
+|'''0'''
+|-
+| align="left"| [[Alajuela (Legislative Assembly constituency)|Alajuela]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 38.2
+|'''5'''
+| style="background:#FFEB7F; color:black;"| 19.9
+|'''2'''
+| 16.5
+|'''2'''
+| 6.5
+|'''1'''
+| 8.5
+|'''1'''
+| 6.5
+|'''0'''
+| 1.3
+|'''0'''
+| 2.0
+|'''0'''
+| 1.9
+|'''0'''
+| 0.8
+|'''0'''
+|-
+| align="left"| [[Cartago (Legislative Assembly constituency)|Cartago]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 38.9
+|'''3'''
+| style="background:#FFEB7F; color:black;"| 17.0
+|'''1'''
+| 13.1
+|'''1'''
+| 7.6
+|'''1'''
+| 7.9
+|'''1'''
+| 2.8
+|'''0'''
+| 2.8
+|'''0'''
+| align="center"| -
+|'''0'''
+| 1.2
+|'''0'''
+| 8.5
+|'''0'''
+|-
+| align="left"| [[Heredia (Legislative Assembly constituency)|Heredia]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 37.0
+|'''2'''
+| style="background:#FFEB7F; color:black;"| 19.1
+|'''2'''
+| 13.9
+|'''1'''
+| 7.3
+|'''0'''
+| 8.7
+|'''0'''
+| 2.9
+|'''0'''
+| 4.8
+|'''0'''
+| 4.0
+|'''0'''
+| 1.9
+|'''0'''
+| 0.5
+|'''0'''
+|-
+| align="left"| [[Puntarenas (Legislative Assembly constituency)|Puntarenas]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 39.7
+|'''2'''
+| 14.3
+|'''1'''
+| style="background:#D0797D; color:white;"| 18.6
+|'''1'''
+| 13.8
+|'''1'''
+| 5.1
+|'''0'''
+| 4.3
+|'''0'''
+| 2.2
+|'''0'''
+| align="center"| -
+|'''0'''
+| 1.1
+|'''0'''
+| 1.0
+|'''0'''
+|-
+| align="left"| [[Limón (Legislative Assembly constituency)|Limón]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 33.3
+|'''2'''
+| 12.0
+|'''1'''
+| style="background:#D0797D; color:white;"| 20.1
+|'''1'''
+| 10.2
+|'''1'''
+| 5.6
+|'''0'''
+| 8.6
+|'''0'''
+| 7.3
+|'''0'''
+| align="center"| -
+|'''0'''
+| 1.2
+|'''0'''
+| 1.8
+|'''0'''
+|-
+| align="left"| [[Guanacaste (Legislative Assembly constituency)|Guanacaste]]
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 43.1
+|'''3'''
+| 11.6
+|'''0'''
+| style="background:#D0797D; color:white;"| 13.5
+|'''1'''
+| 11.0
+|'''0'''
+| 10.0
+|'''0'''
+| 5.1
+|'''0'''
+| 2.2
+|'''0'''
+| align="center"| -
+|'''0'''
+| 3.1
+|'''0'''
+| 0.3
+|'''0'''
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 37.3
+|'''24'''
+| 17.6
+|'''11'''
+| 14.5
+|'''9'''
+| 8.2
+|'''6'''
+| 9.0
+|'''4'''
+| 3.9
+|'''1'''
+| 3.6
+|'''1'''
+| 2.4
+|'''1'''
+| 1.5
+|'''0'''
+| 2.0
+|'''0'''
+|}
+
+===Municipal Councils===
+{{See also|2010 Costa Rican municipal elections}}
+
+The elections of municipal councilors of Costa Rica in 2010 were an electoral process held in parallel with the presidential and legislative elections. In them the 495 tenure aldermen and the 495 alternates that conform the 81 Municipal Councils were chosen.
+
+The [[San José (canton)|Central Canton of San José]], the most populous, named 13 aldermen. [[Desamparados (canton)|Desamparados]] and [[Alajuela (canton)|Alajuela]] named 11. Others less populated ([[Puntarenas (canton)|Puntarenas]], [[Limón (canton)|Limón]], [[Pococí (canton)|Pococí]], [[Heredia (canton)|Heredia]], [[Cartago (canton)|Cartago]], [[La Unión (canton)|La Unión]], [[San Carlos (canton)|San Carlos]], [[Goicoechea (canton)|Goicoechea]], [[Pérez Zeledón (canton)|Pérez Zeledón]], etc.) named 9. Others even smaller ([[Tibás Canton|Tibás]], [[Grecia (canton)|Grecia]], [[Vázquez de Coronado Canton|Vázquez de Coronado]], [[Montes de Oca (canton)|Montes de Oca]], [[Siquirres (canton)|Siquirres]], [[Escazú (canton)|Escazú]], [[Turrialba (canton)|Turrialba]], etc.) appointed 7 council members. Finally, the smallest ([[Turrubares (canton)|Turrubares]], [[San Mateo (canton)|San Mateo]], [[Santa Ana (canton)|Santa Ana]], [[Mora (canton)|Mora]], [[Montes de Oro (canton)|Montes de Oro]], [[Talamanca (canton)|Talamanca]], etc.) named 5.
+
+{{Election results
+|image=
+|party1=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes1=700659|seats1=196|sc1=–32
+|party2=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes2=331167|seats2=100|sc2=–39
+|party3=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes3=255411|seats3=76|sc3=+40
+|party4=[[Social Christian Unity Party]]|votes4=174462|seats4=55|sc4=–4
+|party5=[[Accessibility without Exclusion Party]]|votes5=143273|seats5=22|sc5=New
+|party6=[[Costa Rican Renewal Party]]|votes6=51302|seats6=10|sc6=+6
+|party7=[[Broad Front (Costa Rica)|Broad Front]]|votes7=45399|seats7=1|sc7=+1
+|party8=[[Patriotic Alliance (Costa Rica)|Patriotic Alliance]]|votes8=28738|seats8=3|sc8=New
+|party9=[[National Restoration Party (Costa Rica)|National Restoration Party]]|votes9=24690|seats9=1|sc9=–1
+|party10=[[21st Century Curridabat]]|votes10=5643|seats10=4|sc10=+2
+|party11=Renew Alajuela Party|votes11=13403|seats11=1|sc11=New|color11=#000000
+|party12=[[National Integration Party (Costa Rica)|National Integration Party]]|votes12=10121|seats12=0|sc12=0
+|party13=[[National Restoration Party (Costa Rica)|Heredia Restoration Party]]|votes13=8797|seats13=0|sc13=New
+|party14=[[Escazu's Progressive Yoke]]|votes14=8145|seats14=2|sc14=0
+|party15=[[Cartago Green Party|Green Ecologist Party]]|votes15=5319|seats15=0|sc15=0|color15=#008080
+|party16=Sancarlenean Alliance Coalition ([[Broad Front (Costa Rica)|FA]]–[[Patriotic Alliance (Costa Rica)|AP]])|votes16=4895|seats16=1|sc16=New
+|party17=[[Cartago Agrarian Union Party]]|votes17=9029|seats17=1|sc17=–1
+|party18=Ramonense League Coalition ([[Broad Front (Costa Rica)|FA]]–[[Patriotic Alliance (Costa Rica)|AP]])|votes18=4662|seats18=1|sc18=New
+|party19=Palmarenean Union Party|votes19=4158|seats19=2|sc19=0|color19=#5DFF2E
+|party20=Party of the Sun|votes20=4077|seats20=2|sc20=0
+|party21=Fuenteovejuna Civic Party of Tibás|votes21=3655|seats21=1|sc21=New|color21=#D06F00
+|party22=[[National Restoration Party (Costa Rica)|Alajuela Restoration Party]]|votes22=3414|seats22=0|sc22=New
+|party23=Santo Domingo Advancement Movement|votes23=3398|seats23=1|sc23=New|color23=#FFFC63
+|party24=Goicoechea in Action Party|votes24=3348|seats24=1|sc24=+1|color24=#d8e300
+|party25=United Barva Coalition ([[Broad Front (Costa Rica)|FA]]–[[Accessibility without Exclusion Party|PASE]])|votes25=3017|seats25=1|sc25=New
+|party26=Alajuelense Coalition ([[Broad Front (Costa Rica)|FA]]–[[Patriotic Alliance (Costa Rica)|AP]]) |votes26=2980|seats26=1|sc26=New
+|party27=The Bridge and Paths of Mora|votes27=2962|seats27=1|sc27=–1|color27=#00528B
+|party28=Authentic Labourer of Coronado Party|votes28=2848|seats28=1|sc28=0|color28=#2A2CC1
+|party29=Ateniense Union Party|votes29=2602|seats29=1|sc29=New|color29=#E05353
+|party30=Barbarenean Integration Party|votes30=2369|seats30=1|sc30=New|color30=#A23B00
+|party31=Elderly Alliance Party|votes31=2279|seats31=0|sc31=New|color31=#AFEEEE
+|party32=Unique Abangarean Party|votes32=2229|seats32=2|sc32=New|color32=#EDE800
+|party33=Cantonal Action Independent Siquirres Party|votes33=2116|seats33=1|sc33=0|color33=#707070
+|party34=United Montes de Oca Coalition ([[Broad Front (Costa Rica)|FA]]–PH)|votes34=2086|seats34=0|sc34=New
+|party35=Social Active Organization|votes35=2025|seats35=1|sc35=New|color35=#4F45FF
+|party36=Independent Belemite Party|votes36=2014|seats36=1|sc36=0|color36=#e76100
+|party37=Live Buenos Aires Party|votes37=1791|seats37=1|sc37=New|color37=#e79600
+|party38=Communal Pro-Curri Party|votes38=1718|seats38=0|sc38=–1|color38=#8B8EFF
+|party39=United Heredia Coalition ([[Broad Front (Costa Rica)|FA]]–PH)|votes39=1403|seats39=0|sc39=New
+|party40=Quepeña Action Party|votes40=1386|seats40=0|sc40=–2|color40=#a26900
+|party41=Autonomous Oromontan Party|votes41=1170|seats41=1|sc41=0|color41=#03A500
+|party42=Workers' and Peasants' Movement|votes42=1120|seats42=0|sc42=0|color42=#8B0700
+|party43=Naranjenean Action Party|votes43=1047|seats43=0|sc43=New|color43=#666D19
+|party44=Alfaro Ruiz Peoples' Coalition ([[Broad Front (Costa Rica)|FA]]–[[Patriotic Alliance (Costa Rica)|AP]])|votes44=1023|seats44=1|sc44=New
+|party45=Tarrazú First Party|votes45=991|seats45=0|sc45=New|color45=#bd7e5f
+|party46=Barbarenean Coalition ([[Broad Front (Costa Rica)|FA]]–[[Patriotic Alliance (Costa Rica)|AP]])|votes46=831|seats46=0|sc46=New
+|party47=Ecological Garabito Party|votes47=709|seats47=1|sc47=0|color47=#61A5AE
+|party48=United Talamanca Party|votes48=508|seats48=0|sc48=New|color48=green
+|party49=Aguirre Labour Organization Party|votes49=456|seats49=0|sc49=0|color49=#0033FF
+|party50=Poasenean Patriotic Front Coalition ([[Broad Front (Costa Rica)|FA]]–[[Patriotic Alliance (Costa Rica)|AP]])|votes50=345|seats50=0|sc50=New
+|total_sc=–4
+|invalid=55066
+|electorate=2822491
+|source=TSE<ref>{{cite web |url=http://atlaselectoral.tse.go.cr/regiduria/2010/area |title=Elecciones Regidurías 2010 |language=es |website=tse.go.cr |publisher=Tribunal Supremo de Elecciones |access-date= 21 May 2020}}</ref>
+}}
+
+==References==
+{{commons category}}
+{{reflist}}
+[http://www.sciencedirect.com/science/article/pii/S026137941000140X Bruce M. Wilson and Juan Carlos Rodríguez-Cordero: "The general election in Costa Rica, February 2010". In Electoral Studies, Volume 30, Issue 1, March 2011, pages 231-234.]
+{{Costa Rican elections}}
+
+[[Category:Parliamentary elections in Costa Rica]]
+[[Category:2010 elections in Central America|Costa Rica]]
+[[Category:2010 in Costa Rica|General]]
+[[Category:February 2010 in North America|Costa]]
+[[Category:Presidential elections in Costa Rica]]

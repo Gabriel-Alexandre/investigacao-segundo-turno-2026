@@ -1,0 +1,599 @@
+{{short description|none}}
+{{Use dmy dates|date=January 2022}}
+{{Infobox election
+| country = Ghana
+| previous_election = 2016 Ghanaian general election
+| previous_year = 2016
+| next_election = 2024 Ghanaian general election
+| next_year = 2024
+| election_date = 7 December 2020
+| registered = 17,027,941
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| turnout = 78.89%
+| type = presidential
+| image1 = Nana Akufo Addo, Jan. 2020.jpg
+| nominee1 = '''[[Nana Akufo-Addo]]'''
+| running_mate1 = {{nowrap|'''[[Mahamudu Bawumia]]'''}}
+| party1 = New Patriotic Party
+| popular_vote1 = '''6,730,587'''
+| percentage1 = '''51.30%'''
+| image2 = John Dramani Mahama 2014 (cropped).jpg
+| nominee2 = [[John Mahama]]
+| running_mate2 = [[Jane Naana Opoku-Agyemang]]
+| party2 = National Democratic Congress (Ghana)
+| popular_vote2 = 6,213,182
+| percentage2 = 47.36%
+| title = [[President of Ghana|President]]
+| before_election = [[Nana Akufo-Addo]]
+| before_party = New Patriotic Party
+| posttitle = Elected President
+| after_election = [[Nana Akufo-Addo]]
+| after_party = New Patriotic Party
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| seats_for_election = All 275 seats in the [[Parliament of Ghana]]
+| majority_seats = 138
+| leader1 = [[Nana Akufo-Addo]]
+| party1 = New Patriotic Party
+| last_election1 = 169
+| seats1 = 137
+| percentage1 = 50.42
+| leader2 = [[John Mahama]]
+| party2 = National Democratic Congress (Ghana)
+| last_election2 = 106
+| seats2 = 137
+| percentage2 = 46.20
+| leader3 = –
+| party3 = Independents
+| last_election3 = 0
+| seats3 = 1
+| percentage3 = 2.29
+| title = [[Speaker of the Parliament of Ghana|Speaker]]
+| before_election = [[Aaron Mike Oquaye]]
+| before_party = New Patriotic Party
+| after_election = [[Alban Bagbin]]
+| after_party = National Democratic Congress (Ghana)
+| module = {{Infobox election
+| embed = yes
+| election_name = Maps
+| map_image = {{Switcher
+| [[File:2020 Ghanaian presidential election.svg|300px]]
+| Presidential election results by constituency
+| [[File:2020 Ghanaian parliamentary election by constituency.svg|300px]]
+| Parliamentary election results by constituency
+}}
+}}}}}}}}
+
+General elections were held in [[Ghana]] on 7 December 2020. Incumbent President [[Nana Akufo-Addo]] of the [[New Patriotic Party]] (NPP) was re-elected in the first round after securing a majority of the votes.<ref>{{cite news|url=https://www.bloomberg.com/news/articles/2020-12-09/ghana-s-president-akufo-addo-wins-re-election-with-52-of-vote|title=Ghana's President Akufo-Addo Wins Second Term by Slim Margin|first1=Ekow|last1=Dontoh|first2=Moses Mozart|last2=Dzawu|publisher=Bloomberg News|date=8 December 2020|access-date=8 December 2020}}</ref> Former President [[John Dramani Mahama]] announced that he would contest the results.<ref>{{cite news |last1=Kokutse |first1=Francis |title=Ghana's main opposition party will contest election results |url=https://apnews.com/article/ghana-elections-africa-john-dramani-mahama-west-africa-12cb47611276c43b5efc5b7a20218a1d |access-date=11 December 2020 |work=AP News|date=10 December 2020}}</ref> At the Supreme Court, a petition challenging the result was filed on 30 December, and unanimously dismissed on 4 March 2021 for lack of merit.
+
+The NPP lost its majority in the [[Parliament of Ghana|parliament]], winning the same number of seats as the opposition NDC, resulting in a [[hung parliament]] with a single independent ([[Andrew Asiamah Amoako]]) in the position of [[kingmaker]],<ref>[https://www.bloomberg.com/news/articles/2020-12-18/ghana-s-hung-parliament-sets-president-up-for-tough-second-term Ghana's Hung Parliament Sets President Up for Tough Term]</ref><ref>{{Cite journal|last1=Abdulai|first1=Abdul-Gafaru|last2=Sackeyfio|first2=Naaborle|date=2021|title=The uncertainties of Ghana's 2020 elections|url=https://academic.oup.com/afraf/advance-article/doi/10.1093/afraf/adaa028/6069415|journal=African Affairs|language=en|volume=|pages=|doi=10.1093/afraf/adaa028|via=|url-access=subscription}}</ref> who later chose to support the NPP.<ref>{{cite web|url=https://www.myjoyonline.com/npp-asks-speaker-bagbin-to-remain-impartial-as-it-maintains-majority/|title=NPP asks Speaker Bagbin to remain impartial as it maintains majority|website=Joy Online|date=21 January 2024}}</ref>
+
+==Electoral system==
+The [[President of Ghana]] is elected using the [[two-round system]], whilst the 275 [[Member of parliament|members]] of [[Parliament of Ghana|Parliament]] are elected in single-member constituencies using [[first-past-the-post voting]].<ref>{{Cite web|title=Ghana: Vote Counting using Majoritatrian and First-Past-the-Post —|url=https://aceproject.org/ace-en/topics/vc/annex/vcy/vcy_gh|access-date=7 December 2020|website=aceproject.org}}</ref><ref>{{Cite news |url=https://www.modernghana.com/news/984519/africa-watch-2020-is-election-season-across-afric.html |title=Africa Watch: 2020 Is Election Season Across Africa |date=13 February 2020 |work=Modern Ghana}}</ref>
+
+Eligible voters must be Ghanaian citizens who are at least 18 years old, although those declared insane are disenfranchised. Parliamentary candidates must be Ghanaian citizens at least 21 years old, and either be resident in their constituency or have lived there for at least five of the ten years prior to the election.<ref>[http://www.ipu.org/parline-e/reports/2123_B.htm Electoral system] IPU</ref>
+
+==Campaign==
+In February 2019, former president [[John Mahama]] was confirmed as the candidate of the opposition [[National Democratic Congress (Ghana)|National Democratic Congress]].<ref>[https://www.reuters.com/article/us-ghana-politics/ghanas-ex-president-mahama-nominated-to-contest-2020-election-idUSKCN1QG246 Ghana's ex-President Mahama nominated to contest 2020 election] Reuters, 27 February 2019</ref> In December, incumbent president [[Nana Akufo-Addo]] announced that he intended to run for re-election as the [[New Patriotic Party]] (NPP) candidate.<ref>[https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Akufo-Addo-announces-intention-to-contest-2020-elections-822151 Akufo-Addo announces intention to contest 2020 elections] GhanaWeb News, 23 December 2019</ref> In June 2020, the NPP chose Akufo-Addo as its presidential candidate and Mahamudu Bawumia as its vice-presidential candidate. Mahama and Akufo-Addo previously ran against each other in both [[2012 Ghanaian general election|2012]] (with Mahama winning) and [[2016 Ghanaian general election|2016]] (with Akufo-Addo winning).<ref>{{cite web |title=Ghana's President Akufo-Addo chosen by ruling party for poll rematch against Mahama |url=https://news.yahoo.com/ghanas-president-akufo-addo-chosen-152620299.html |publisher=Yahoo! News |access-date=27 June 2020}}</ref>
+
+All contesting political parties especially the NPP and NDC campaigned vigorously across the country despite fears that political activities such as rallies could increase the rate of spread of [[COVID-19]] during the [[COVID-19 pandemic in Ghana|pandemic in Ghana]].<ref>{{Cite web|title=Fears Grow of Further COVID-19 Spikes Ahead of Ghana's Election |url=https://www.voanews.com/a/africa_fears-grow-further-covid-19-spikes-ahead-ghanas-election/6199020.html|access-date=7 December 2020|website=Voice of America|language=en}}</ref>{{Politics of Ghana}} Following the death of [[Jerry Rawlings]], first president of the Fourth Republic on 12 November 2020,<ref>{{Cite news |last1=Frimpong |first1=Enoch Darfah |title=Jerry Rawlings: Ghana's former president dies aged 73 |url=https://www.graphic.com.gh/news/general-news/ghana-s-former-president-j-j-rawlings-is-dead.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=25 November 2020 |date=12 November 2020}}</ref> most candidates decided to suspend their campaigns for a week out of respect to his memory.<ref name="bbc">{{cite web |title=Ghana's president declares seven days of mourning |url=https://www.bbc.co.uk/news/topics/cnx753jejjlt |website=BBC News |publisher=[[BBC]] |access-date=25 November 2020 |date=12 November 2020}}</ref><ref>{{Cite news |last1=Korankye |first1=Kester Aburam |title=John Mahama suspends campaign in honour of Rawlings' death |url=https://www.graphic.com.gh/news/politics/john-mahama-suspends-campaign-in-honour-of-rawlings-death.html |newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=25 November 2020 |location=Accra |date=12 November 202}}</ref>
+
+===Filing of nomination papers for presidential candidates===
+At the close of the filing of nomination papers for the presidential election on 9 October 2020, seventeen persons had filed papers to stand for the elections.<ref name="nominations">{{cite web |title=17 Presidential aspirants to know their position by Wednesday, October 14 |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/17-Presidential-aspirants-to-know-their-position-by-Wednesday-October-14-1082368 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=12 October 2020}}</ref> One of those who filed their papers on 5 October 2020 was the incumbent president, Nana Akufo-Addo.<ref name="addofirst">{{cite web |title=Akufo-Addo files presidential nomination today |url=https://www.ghanaweb.com/GhanaHomePage/politics/Akufo-Addo-files-presidential-nomination-today-1078219 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=6 October 2020}}</ref> Each candidate was expected to pay a fee of GH¢100,000 to the Electoral Commission.<ref name="fees">{{cite web |title=Election 2020: Two teams to vet presidential candidates – EC |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Election-2020-Two-teams-to-vet-presidential-candidates-EC-1079092 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=6 October 2020}}</ref> [[Akwasi Addai Odike]] of the [[United Progressive Party (Ghana)|United Progressive Party]] claimed that there was a conspiracy by the NPP and the Electoral Commission to prevent him from filing his nomination papers. This was promptly denied by the chairman of the NPP, [[Peter Mac Manu]].<ref>{{cite web |title=NPP, EC are ganging up to kick me out of 2020 presidential race – Odike |url=https://www.ghanaweb.com/GhanaHomePage/politics/NPP-EC-are-ganging-up-to-kick-me-out-of-2020-presidential-race-Odike-1080289 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=8 October 2020}}</ref> However, the NDC questioned why presidential candidates were filing nomination papers when the Electoral Commission has not finalised the new voter's register to be used for this election.<ref>{{cite web |title=How can aspirants file nomination without final register? – NDC quizzes EC |url=https://www.ghanaweb.com/GhanaHomePage/politics/How-can-aspirants-file-nomination-without-final-register-NDC-quizzes-EC-1077769 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=5 October 2020}}</ref> To the surprise of many{{who|date=November 2020}}, [[Jacob Osei Yeboah]] disclosed on 6 October, when he was expected to file his nomination papers, that he would instead be the running mate of [[Asiedu Walker]].<ref name="jacobyeboah">{{Cite news |last1=Frimpong |first1=Enoch Darfah |title=Jacob Osei Yeboah pulls Election 2020 surprise |url=https://www.graphic.com.gh/news/politics/jacob-osei-yeboah-pulls-election-2020-surprise.html |newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=20 October 2020 |location=Accra |date=6 October 2020}}</ref>
+
+{| class="wikitable"
+!Party
+!Presidential Candidate
+!Date
+|-
+| [[New Patriotic Party]]
+| [[Nana Akufo-Addo]]<ref name="presidentwalker">{{cite web |title=President, Walker, and Kyiriabosom file nominations |url=https://www.ghanaweb.com/GhanaHomePage/politics/President-Walker-and-Kyiriabosom-file-nominations-1079224 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=7 October 2020}}</ref>
+| 7 October 2020
+|-
+| [[National Democratic Congress (Ghana)|National Democratic Congress]]
+| [[John Mahama]]<ref>{{cite web |title=I wanted Mahama to submit the forms himself – Jean Mensa |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/I-wanted-Mahama-to-submit-the-forms-himself-Jean-Mensa-1079938 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=7 October 2020}}</ref>
+| 7 October 2020
+|-
+| Independent
+| [[Asiedu Walker]]<ref name="presidentwalker"/>
+| 7 October 2020
+|-
+| [[Ghana Union Movement]]
+| [[Christian Kwabena Andrews]]<ref name="presidentwalker"/>
+| 7 October 2020
+|-
+| [[All People's Congress (Ghana)|All People's Congress]]
+| [[Hassan Ayariga]]<ref name="ayariga">{{cite web |title=Voters register: Brace yourself for tough elections – Ayariga to Jean Mensa |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Voters-register-Brace-yourself-for-tough-elections-Ayariga-to-Jean-Mensa-1080598 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=8 October 2020}}</ref>
+| 8 October 2020
+|-
+| [[Progressive People's Party (Ghana)|Progressive People's Party]]
+| [[Brigitte Dzogbenuku]]<ref name="brigitte">{{cite web |title=Presidential Aspirants of NDC and PPP file nominations |url=https://www.ghanaweb.com/GhanaHomePage/politics/Presidential-Aspirants-of-NDC-and-PPP-file-nominations-1079995 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=8 October 2020}}</ref>
+| 8 October 2020
+|-
+| [[Ghana Freedom Party]]
+| [[Akua Donkor]]<ref name="donkor">{{cite web |title=Election 2020: Akua Donkor, Adakabre submit nomination forms |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Election-2020-Akua-Donkor-Adakabre-submit-nomination-forms-1080295 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=8 October 2020}}</ref>
+| 8 October 2020
+|-
+| [[National Democratic Party (Ghana)|National Democratic Party]]
+| [[Nana Konadu Agyeman Rawlings]]<ref>{{cite web |title=Ghana is lucky to have Jean Mensa as EC boss – Nana Konadu |url=https://www.ghanaweb.com/GhanaHomePage/politics/Ghana-is-lucky-to-have-Jean-Mensa-as-EC-boss-Nana-Konadu-1080808 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=9 October 2020}}</ref><ref>{{cite web |title=Nana Konadu blames Charlotte Osei for her abysmal performance in 2016 polls |url=https://www.ghanaweb.com/GhanaHomePage/politics/Nana-Konadu-blames-Charlotte-Osei-for-her-abysmal-performance-in-2016-polls-1080934 |website=ghanaweb.com |publisher=GhanaWeb |access-date=16 October 2020 |date=9 October 2020}}</ref>
+| 9 October 2020
+|-
+|[[Convention People's Party]]
+|[[Ivor Greenstreet]]<ref name="aspirantsfile">{{Cite news |last1=Korankye |first1=Kester Aburam |title=Twelve presidential aspirants file for presidential polls |url=https://www.graphic.com.gh/news/politics/twelve-file-for-presidential-polls.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=20 October 2020 |date=9 October 2020}}</ref>
+|9 October 2020
+|-
+|[[Great Consolidated Popular Party]]
+|[[Henry Herbert Lartey]]<ref name="aspirantsfile"/>
+|9 October 2020
+|-
+|Independent
+|{{ref|1|a|}}[[Marricke Kofi Gane]]<ref name="aspirantsfile"/>
+|9 October 2020
+|-
+|Independent
+|{{ref|1|a|}}[[Kofi Koranteng]]<ref name="aspirantsfile"/>
+|9 October 2020
+|-
+|[[United Front Party (Ghana)|United Front Party]]
+|{{ref|1|a|}}[[Nana Agyenim Boateng]]
+|9 October 2020
+|-
+|[[United Progressive Party (Ghana)|United Progressive Party]]
+|{{ref|1|a|}}[[Akwasi Addai Odike]]
+|9 October 2020
+|-
+|[[People's Action Party (Ghana, 2018–2022)|People's Action Party]]
+|{{ref|1|a|}}Kwasi Busumbru
+|
+|-
+|[[Liberal Party of Ghana]]
+|[[Kofi Akpaloo]]
+|9 October 2020
+|-
+|[[People's National Convention (Ghana)|People's National Convention]]
+|[[David Apasera]]
+|
+|-
+|}
+<small>{{Note|1|a|}} – Disqualified by the Electoral Commission of Ghana</small>
+
+===Final list of presidential candidates===
+Following the vetting of their papers, the Electoral Commission announced the final list of presidential candidates on 19 October 2020. Five people had been disqualified from standing for the election as there were various problems with their nomination documents. These include IT issues with their forms and some had been forwarded to the [[Criminal Investigation Department]] of the [[Ghana Police Service]]. Those disqualified include [[Kofi Koranteng]] and  [[Marricke Kofi Gane]] who are both [[Independent politician|Independent]]. Akwasi Addae Odike of the United Progressive Party, [[Nana Agyenim Boateng]] of the [[United Front Party (Ghana)|United Front Party]] and Kwasi Busumbru of the [[People's Action Party (Ghana, 2018–2022)|People's Action Party]] were also not eligible.<ref>{{Cite news |last1=Korankye |first1=Kester Aburam |title=EC axes 5, clears 12 presidential candidates to contest 2020 election |url=https://www.graphic.com.gh/news/politics/ec-axes-5-clears-12-presidential-candidates-to-contest-2020-election.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=20 October 2020 |date=19 October 2020}}</ref><ref>{{cite web |title=Election 2020: 12 out of 17 presidential aspirants cleared to contest |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Election-2020-12-out-of-17-presidential-aspirants-cleared-to-contest-1088266 |website=ghanaweb.com |publisher=GhanaWeb |access-date=20 October 2020 |date=19 October 2020}}</ref><ref>{{cite web |title=Election 2020: Full list of presidential aspirants who qualify to contest |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Election-2020-Full-list-of-presidential-aspirants-who-qualify-to-contest-1088332 |website=ghanaweb.com |publisher=GhanaWeb |access-date=20 October 2020 |date=19 October 2020}}</ref>
+On 20 October 2020, the candidates balloted for the order in which they will appear on the ballot paper. The incumbent president, Nana Akufo-Addo will be the first on the list followed by John Mahama, a former president. The full list as on the ballot paper is below.<ref>{{Cite news |last1=Frimpong |first1=Enoch Darfah |title=Akufo-Addo is number 1, Mahama number 2 on 2020 ballot paper |url=https://www.graphic.com.gh/news/politics/balloting-npp-picks-number-1-ndc-number-2-on-ballot-paper.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=20 October 2020 |date=20 October 2020}}</ref><ref>{{cite web |title=Here are the official ballot positions for presidential candidates |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Here-are-the-official-ballot-positions-for-presidential-candidates-1089241 |website=ghanaweb.com |access-date=20 October 2020 |date=20 October 2020}}</ref>
+Following this, one of the disqualified candidates, Nana Agyenim Boateng, leader of the UFP, took to court to seek redress and prevent the elections from going ahead but the Accra High Court found no grounds to grant this relief.<ref name="highcourt">{{Cite news |last1=Hawkson |first1=Emmanuel Ebo |title=Court throws out UFP leaders attempt to halt Dec 7 polls |url=https://www.graphic.com.gh/news/politics/court-throws-out-ufp-leaders-attempt-to-halt-dec-7-polls.html |newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=10 November 2020 |location=Accra |date=9 November 2020}}</ref>
+
+{| class="wikitable"
+!Party
+!Abbreviation
+!Presidential Candidate
+!Running Mate
+|-
+|[[New Patriotic Party]]
+|NPP
+|[[Nana Akufo-Addo|Nana Addo Dankwa Akufo-Addo]]
+|[[Mahamudu Bawumia]]<ref name="graphiclist">{{Cite news |last1=Salia |first1=Albert |title=Who qualifies to contest Election 2020? EC decides on aspirants tomorrow |url=https://www.graphic.com.gh/news/politics/who-qualifies-to-contest-election-2020-ec-decides-on-aspirants-tomorrow.html |newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=20 October 2020 |location=Accra |date=12 October 2020}}</ref>
+|-
+|[[National Democratic Congress (Ghana)|National Democratic Congress]]
+|NDC
+|[[John Dramani Mahama]]
+|[[Jane Naana Opoku-Agyemang]]<ref>{{Cite news |last1=Zurek |first1=Kweku |title=OFFICIAL: Mahama selects Prof Naana Opoku-Agyemang as running mate |url=https://www.graphic.com.gh/news/politics/official-mahama-selects-prof-naana-opoku-agyemang-as-running-mate.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=20 October 2020 |date=6 July 2020}}</ref>
+|-
+|[[Ghana Union Movement]]
+|GUM
+|[[Christian Kwabena Andrews]]
+|Abu Grant Lukeman<ref>{{cite web |title=Osofo Kyiri Abosom appoints Alhaji Abu Lukeman as running mate |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Osofo-Kyiri-Abosom-appoints-Alhaji-Abu-Lukeman-as-running-mate-1034572 |website=ghanaweb.com |publisher=GhanaWeb |access-date=20 October 2020 |date=15 August 2020}}</ref>
+|-
+|[[Convention People's Party]]
+|CPP
+|[[Ivor Greenstreet|Ivor Kobina Greenstreet]]
+|Emmanuel Yaovi Bobobe<ref>{{cite web |title=CPP's Ivor Greenstreet picks Prof. Emmanuel Bobobe as running mate |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/CPP-s-Ivor-Greenstreet-picks-Prof-Emmanuel-Bobobe-as-running-mate-1079350 |website=ghanaweb.com |publisher=GhanaWeb |access-date=20 October 2020 |date=7 October 2020}}</ref>
+|-
+|[[Ghana Freedom Party]]
+|GFP
+|[[Akua Donkor]]
+|Ernest Adakabre Frimpong Manso<ref>{{Cite news |last1=Zurek |first1=Kweku |title=Why I accepted to be Akua Donkor's running mate – radio host Adakabre |url=https://www.graphic.com.gh/news/politics/why-i-accepted-to-be-akua-donkor-s-running-mate-radio-host-adakabre.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=20 October 2020 |date=8 October 2020}}</ref>
+|-
+|[[Great Consolidated Popular Party]]
+|GCPP
+|[[Henry Herbert Lartey]]
+|Andy Bampoe-Sekyi<ref name="graphiclist"/>
+|-
+|[[All People's Congress (Ghana)|All People's Congress]]
+|APC
+|[[Hassan Ayariga]]
+|Frank Yaw Kuadey<ref>{{cite web |title=Hassan Ayariga outdoors running mate, launches manifesto |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Hassan-Ayariga-outdoors-running-mate-launches-manifesto-1076134 |website=ghanaweb.com |publisher=GhanaWeb |access-date=20 October 2020 |date=3 October 2020}}</ref>
+|-
+|[[Liberal Party of Ghana]]
+|LPG
+|[[Kofi Akpaloo|Percival Kofi Akpaloo]]
+|Margaret Obrine Sarfo<ref name="graphiclist"/>
+|-
+|[[People's National Convention (Ghana)|People's National Convention]]
+|PNC
+|[[David Apasera|David Asibi Ayindenaba Apasera]]
+|Divine Ayivor<ref name="graphiclist"/>
+|-
+|[[Progressive People's Party (Ghana)|Progressive People's Party]]
+|PPP
+|[[Brigitte Dzogbenuku|Brigitte Akosua Dzogbenuku]]
+|Kofi Asamoah-Siaw<ref>{{Cite news |last1=Tawiah |first1=Desmond Kofi |title=PPP endorses Asamoah-Siaw as running mate |url=https://www.graphic.com.gh/news/politics/ppp-endorses-asamoah-siaw-as-running-mate.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=20 October 2020 |date=19 October 2020}}</ref>
+|-
+|[[National Democratic Party (Ghana)|National Democratic Party]]
+|NDP
+|[[Nana Konadu Agyeman Rawlings]]
+|Peter Tennyson Asamoah<ref name="graphiclist"/>
+|-
+|[[Independent politician|Independent]]
+|
+|[[Asiedu Walker|Alfred Kwame Asiedu Walker]]
+|[[Jacob Osei Yeboah]]<ref name="jacobyeboah"/>
+|}
+
+=== Violence ===
+On 8 December, a day after the elections there were reports of gunshots leading to the arrest of [[Edwin Nii Lante Vanderpuye|Nii Lante Vanderpuye]] the incumbent Member of Parliament (MP) for the [[Odododiodio]] constituency.<ref>{{Cite web|date=8 December 2020|title=Odododiodoo MP Nii Lante Vanderpuye arrested|url=https://citinewsroom.com/2020/12/odododiodoo-mp-nii-lante-vanderpuye-arrested/|access-date=8 December 2020|website=Citinewsroom – Comprehensive News in Ghana|language=en-US}}</ref> The [[Ghana Police Service|Ghana Police]] reported 5 deaths and 19 injuries during and after the election.<ref>{{Cite web|title=5 dead, 19 injured in various electoral disturbances – Police|url=https://www.myjoyonline.com/news/national/5-dead-19-injured-in-various-electoral-disturbances-police/|access-date=9 December 2020|website=MyJoyOnline.com|language=en-US|archive-date=11 December 2020|archive-url=https://web.archive.org/web/20201211162646/https://www.myjoyonline.com/news/national/5-dead-19-injured-in-various-electoral-disturbances-police/|url-status=dead}}</ref>
+
+==Parliamentary election==
+The Electoral Commission announced that following the creation of the Guan District in the [[Oti Region]] through the Guan District Local Government (Guan District Assembly) (Establishment) Instrument, 2020, people in this area will only be able to take part in the presidential election. This is because the Guan constituency had not yet been formally created.<ref>{{Cite news |title=No Parliamentary Election for voters in Guan District – EC |url=https://www.graphic.com.gh/news/politics/no-parliamentary-election-for-voters-in-guan-district-ec.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=7 December 2020 |language=en-gb |date=6 December 2020}}</ref><ref>{{cite web |title=No Parliamentary elections at Guan Constituency – EC |url=https://www.ghanaweb.com/GhanaHomePage/politics/No-Parliamentary-elections-at-Guan-Constituency-EC-1127882 |website=ghanaweb.com |access-date=7 December 2020 |language=en |date=7 December 2020}}</ref>
+
+==Opinion polls==
+[[Ben Ephson]] of the ''Daily Dispatch'' newspaper conducted polls in the Greater Accra, Central and Western regions. He predicted that Akufo-Addo of the NPP will win the election with 52.6% of the votes while Mahama will obtain 45.7%.<ref name="ephson">{{cite web |title=Akufo-Addo could exceed our 52% projection – Ben Ephson |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Akufo-Addo-could-exceed-our-52-projection-Ben-Ephson-1126490 |website=ghanaweb.com |access-date=7 December 2020 |language=en |date=4 December 2020}}</ref><ref name="joynews">{{cite web |title=Election 2020: Ben Ephson predicts 52.6% win for President Akufo-Addo (30-11-20) |url=https://www.youtube.com/watch?v=iA34dPTaJF0 |via=YouTube |publisher=Joy News |access-date=7 December 2020 |date=1 December 2020}}</ref> The Political Science Department of the [[University of Ghana]] polled 11,949 respondents and predicted that Akufo-Addo (NPP) will win 51.7% of the vote while Mahama wins 40.4%.<ref name="joynews"/><ref name="newsurvey"/> An iPoll survey of 670 respondents predicted 48.7% of the votes for Mahama and 46.7% for Akufo-Addo implying that the election may go a second round as the winner has to have over 50% of the votes.<ref name="ipoll">{{cite web |title='December 7 polls will head for a run-off' – Latest iPoll Survey predicts |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/December-7-polls-will-head-for-a-run-off-Latest-iPoll-Survey-predicts-1121906 |website=ghanaweb.com |access-date=7 December 2020 |language=en |date=30 November 2020}}</ref> The Governance Research Bureau predicted that Akufo-Addo will obtain 49.19% of the votes and Mahama 48.27% also implying a second round of elections may be needed.<ref name="newsurvey">{{cite web |title=Election 2020: New survey projects runoff |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Election-2020-New-survey-projects-runoff-1121783 |website=ghanaweb.com |access-date=7 December 2020 |language=en |date=30 November 2020}}</ref>
+
+==Results==
+<!--[[File:Ghanaian Presidential Election, 2016 - Result by Constituencies.png|300px|thumb|Constituencies won by<br /><span style="color:#0070ff;">■</span> – Nana Akufo-Addo<br /><span style="color:#32cd32;">■</span> – John Dramani Mahama]]-->
+The total number of registered voters was 17,027,655.<ref>{{cite web |title=Electoral Commission – Transparency, Fairness, Integrity |url=https://www.ec.gov.gh/ |website=Official website |publisher=Electoral Commission of Ghana |access-date=9 December 2020 |archive-date=9 December 2020 |archive-url=https://web.archive.org/web/20201209142740/https://www.ec.gov.gh/ |url-status=dead }}</ref> The Electoral Commission promised to declare the results of the election within 24 hours of the completion of voting.<ref name="24hours">{{cite web |title=Election 2020: I'll still declare result in 24 hours if I have it – EC Boss tells NDC |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Election-2020-I-ll-still-declare-result-in-24-hours-if-I-have-it-EC-Boss-tells-NDC-1122344 |website=ghanaweb.com |access-date=7 December 2020 |language=en |date=30 November 2020}}</ref> Some leaders of the NDC expressed their doubts about the commission being able to do so within the 24 hours time frame.<ref>{{cite web |title=Don't hastily declare election results within 24 hours after voting – NDC warns EC |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Don-t-hastily-declare-election-results-within-24-hours-after-voting-NDC-warns-EC-1118306 |website=ghanaweb.com |access-date=7 December 2020 |language=en |date=25 November 2020}}</ref><ref>{{cite web |title=EC's promise to declare results in 24 hours described as a fallacy |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/EC-s-promise-to-declare-results-in-24-hours-described-as-a-fallacy-1116670 |website=ghanaweb.com |access-date=7 December 2020 |language=en |date=1 January 1970}}</ref> In the late afternoon of 8 December the Electoral commission communicated that the declaration of the votes in 24 hours  which was supposed to take place at 5:00&nbsp;pm which is exactly 24 hours of the closure of the election had been extended. The Commission in a statement explained that the extension was to ensure that collation of results at the constituency and regional collation centres across the country are accurate.<ref>{{Cite web|title=EC extends timeline to declare presidential results|url=https://www.myjoyonline.com/composition/comp-news/hp-news-3/ec-extends-timeline-to-declare-presidential-results/|access-date=8 December 2020|website=MyJoyOnline.com|language=en-US|archive-date=8 December 2020|archive-url=https://web.archive.org/web/20201208163601/https://www.myjoyonline.com/composition/comp-news/hp-news-3/ec-extends-timeline-to-declare-presidential-results/|url-status=dead}}</ref> On 9 December, incumbent Ghana President Nana Akufo-Addo was declared the winner after securing a majority of the votes needed to avoid a runoff.<ref>{{cite news|url=https://www.africanews.com/2020/12/09/ghana-presidential-election-nana-akufo-addo-declared-winner-by-51-59/|title=Ghana presidential election: Nana Akufo-Addo declared winner by 51.59%|author=Redation, Africa News and Euro News|publisher=Africa News|date=9 December 2020|access-date=9 December 2020}}</ref>
+
+===President===
+The declared results exclude the figures for the [[Techiman South (Ghana parliament constituency)|Techiman South]] as the results there are being contested. The Electoral Commissioner states that the results of this constituency alone will not change the outcome of the election.<ref name="jeanmensa">{{cite web |title=FULL TEXT: Jean Mensa's declaration of 2020 presidential election results |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/FULL-TEXT-Jean-Mensa-s-declaration-of-2020-presidential-election-results-1129871 |website=ghanaweb.com |access-date=9 December 2020 |language=en |date=9 December 2020}}</ref> On 10 December 2020, the Electoral Commission issued a statement which revised figures for the presidential election results while admitting that there had been some errors.<ref>{{cite web |title=EC revises disparities in presidential election results |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/EC-revises-disparities-in-presidential-election-results-1130120 |website=ghanaweb.com |access-date=10 December 2020 |language=en |date=10 December 2020}}</ref> A research group Research and Grant Institute of Ghana raised concerns about this and  the [[Coalition of Domestic Election Observers]] (CODEO) urged the commission to come out and clarify the errors properly instead of just issuing press releases.<ref>{{cite web |title=EC's computational errors have tainted the credibility of 2020 polls - Research Group |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/EC-s-computational-errors-have-tainted-the-credibility-of-2020-polls-Research-Group-1130303 |website=ghanaweb.com |access-date=16 December 2020 |language=en |date=10 December 2020}}</ref><ref name="zurek">{{Cite news |last1=Zurek |first1=Kweku |title=EC must go beyond passive press releases to address errors - CODEO |url=https://www.graphic.com.gh/news/politics/ec-must-go-beyond-passive-press-releases-to-address-errors-codeo.html |location=Accra, Ghana|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|access-date=16 December 2020 |language=en-gb |date=15 December 2020}}</ref>
+
+<onlyinclude>{{Election results
+|cand1=[[Nana Akufo-Addo]]|vp1=[[Mahamudu Bawumia]]|party1=[[New Patriotic Party]]|votes1=6730587
+|cand2=[[John Mahama]]|vp2=[[Jane Naana Opoku-Agyemang]]|party2=[[National Democratic Congress (Ghana)|National Democratic Congress]]|votes2=6213182
+|cand3=[[Christian Kwabena Andrews]]|vp3=Abu Grant Lukeman|party3=[[Ghana Union Movement]]|votes3=105548
+|cand4=[[Ivor Greenstreet]]|vp4=Emmanuel Bobobe|party4=[[Convention People's Party]]|votes4=12200
+|cand5=[[David Apasera]]|vp5=Divine Ayivor|party5=[[People's National Convention (Ghana)|People's National Convention]]|votes5=10882
+|cand6=[[Asiedu Walker]]|vp6=[[Jacob Osei Yeboah]]|party6=[[Independent politician|Independent]]|votes6=9704
+|cand7=[[Kofi Akpaloo]]|vp7=Margaret Obrine Sarfo|party7=[[Liberal Party of Ghana]]|votes7=7683
+|cand8=[[Hassan Ayariga]]|vp8=Frank Yaw Kuadey|party8=[[All People's Congress (Ghana)|All People's Congress]]|votes8=7138
+|cand9=[[Brigitte Dzogbenuku]]|vp9=Kofi Asamoah-Siaw|party9=[[Progressive People's Party (Ghana)|Progressive People's Party]]|votes9=6849
+|cand10=[[Nana Konadu Agyeman Rawlings]]|vp10=Peter Tennyson Asamoah|party10=[[National Democratic Party (Ghana)|National Democratic Party]]|votes10=6549
+|cand11=[[Akua Donkor]]|vp11=Ernest Adakabre Frimpong Manso|party11=[[Ghana Freedom Party]]|votes11=5574
+|cand12=[[Henry Herbert Lartey]]|vp12=Andy Bampoe-Sekyi|party12=[[Great Consolidated Popular Party]]|votes12=3564
+|invalid=313397
+|electorate=17027941
+|source=[https://www.ghanaweb.com/GhanaHomePage/NewsArchive/EC-revises-disparities-in-presidential-election-results-1130120 Ghana Web]
+}}</onlyinclude>
+
+====By region====
+{|class=wikitable style=text-align:right
+! rowspan="2" |[[Administrative divisions of Ghana|Region]]
+![[Nana Akufo-Addo|Akufo-Addo]]<br /><small>NPP</small>
+![[John Dramani Mahama|Mahama]]<br /><small>NDC</small>
+![[Christian Kwabena Andrews|Andrews]]<br /><small>GUM</small>
+![[Ivor Kobina Greenstreet|Greenstreet]]<br /><small>CPP</small>
+![[Akua Donkor|Donkor]]<br /><small>GFP</small>
+![[Henry Herbert Lartey|Lartey]]<br /><small>GCPP</small>
+![[Hassan Ayariga|Ayariga]]<br /><small>APC</small>
+![[Kofi Akpaloo|Akpaloo]]<br /><small>LPG</small>
+![[David Apasera|Apasera]]<br /><small>PNC</small>
+![[Brigitte Dzogbenuku|Dzogbenuku]]<br /><small>PPP</small>
+![[Nana Konadu Agyeman Rawlings|Rawlings]]<br /><small>NDP</small>
+![[Asiedu Walker|Walker]]<br /><small>IND</small>
+|-
+!Votes
+!Votes
+!Votes
+!Votes
+!Votes
+!Votes
+!Votes
+!Votes
+!Votes
+!Votes
+!Votes
+!Votes
+|-
+| align="left" |[[Ahafo Region|Ahafo]]||145,584
+|116,485
+|1,493
+|194
+|49
+|51
+|150
+|113
+|82
+|52
+|135
+|103
+|-
+| align="left" |[[Ashanti Region|Ashanti]]||1,795,824 ||653,149 ||12,564 ||1,356 ||593 ||304 ||482 ||712 ||444 ||435 ||476 ||952
+|-   
+| align="left" |[[Bono Region|Bono]]||292,604
+|203,329
+|4,514
+|338
+|165
+|132
+|255
+|216
+|209
+|214
+|235
+|374
+|-
+| align="left" |[[Bono East region|Bono East]]||153,341 ||213,694 ||2,923 ||380 ||143 ||153 ||409 || 304||231 ||220||210 ||400
+|-
+| align="left" |[[Central Region (Ghana)|Central]]
+|613,804
+|538,829
+|15,160
+|1,117
+|478
+|361
+|468
+|586
+|323
+|1,042
+|467
+|804
+|-
+| align="left" |[[Eastern Region (Ghana)|Eastern]]
+| 752,061|| 470,999||9,819 ||854 ||379 ||211||466 ||510 ||278 || 363||358 ||642
+|-
+| align="left" |[[Greater Accra Region|Greater Accra]]||1,253,179
+|1,326,489
+|16,112
+|1,763
+|767
+|231
+|628
+|522
+|401
+|1,220
+|685
+|511
+|-
+| align="left" |[[Northern Region (Ghana)|Northern]]||409,963
+| 476,550||3,184
+| 1,510|| 394|| 438|| 900|| 1,281|| 1,209|| 498|| 545||1,259
+|- 
+| align="left" |[[North East Region, Ghana|North East]]||122,742
+|112,306
+|952
+|292
+|324
+|198
+|376
+|505
+|579
+|205
+|322
+|322
+|-
+| align="left" |[[Oti Region|Oti]]||103,865
+|181,021
+|2,459
+|265
+|200
+|97
+|195
+|228
+|371
+|240
+|263
+|282
+|-
+| align="left" |[[Savannah Region|Savannah]]|| 80,605|| 144,244||1,409 ||503 ||212 ||185 ||387 ||322 ||344 ||160 ||279 ||435
+|-
+| align="left" |[[Upper East Region|Upper East]]||170,340 ||335,502 ||3,100 ||879 ||832 ||359 ||919 ||868 ||2,890 ||685 ||1,017 ||1,321
+|-
+| align="left" |[[Upper West Region|Upper West]]||121,230
+|238,972
+|2,240
+|640
+|360
+|354
+|487
+|742
+|2,794
+|328
+|406
+|1,094
+|-
+| align="left" |[[Volta Region|Volta]]||100,481
+|606,508
+|4,679
+|705
+|180
+|158
+|406
+|237
+|220
+|314
+|617
+|442
+|-
+| align="left" |[[Western Region (Ghana)|Western]]|| 439,724||398,549 ||20,638 ||1,143 ||379 ||223 ||400 ||367 ||305 ||787 ||417 ||508
+|-
+| align="left" |[[Western North Region|Western North]]||175,240 ||196,556 ||4,302 ||261 ||119 ||109 ||210 ||170 ||202 ||86 ||117 ||255
+|-    
+| align="left" |'''Total'''|| 6,730,587 || 6,213,182 || 105,548 || 12,200 || 5,574 || 3,564 || 7,138 || 7,683 || 10,882	|| 6,849 || 6,549 || 9,704
+|-
+|align=left colspan="13"|Source: [https://www.graphic.com.gh/news/general-news/ec-releases-14-regional-certified-results-greater-accra-northern-outstanding.html Graphic Online] [https://www.ec.gov.gh/results-summary-sheets/ Electoral Commission of Ghana]
+|}
+
+===Parliament===
+[[File:2020 Ghanaian parliamentary election by constituency.svg|thumb|Results of the 2020 Ghanaian parliamentary election by constituency]]
+
+There has been a long delay in declaring the final result in the parliamentary election. On 14 December, a week after voting was completed, the Electoral Commission announced that it was working on finalising the results for Sene West constituency.<ref>{{cite web |title=We're finalizing processes to declare Sene West election results - EC |url=https://www.ghanaweb.com/GhanaHomePage/NewsArchive/We-re-finalizing-processes-to-declare-Sene-West-election-results-EC-1133642 |website=ghanaweb.com |access-date=16 December 2020 |language=en |date=15 December 2020}}</ref>
+
+<onlyinclude>{{Election results
+|image=[[File:Parliament of Ghana 2020.svg]]
+|party1=[[New Patriotic Party]]|votes1=6651028|seats1=137|sc1=–32
+|party2=[[National Democratic Congress (Ghana)|National Democratic Congress]]|votes2=6094478|seats2=137|sc2=+31
+|party3=[[Ghana Union Movement]]|votes3=60840|seats3=0|sc3=New
+|party4=[[People's National Convention (Ghana)|People's National Convention]]|votes4=29211|seats4=0|sc4=0
+|party5=[[Progressive People's Party (Ghana)|Progressive People's Party]]|votes5=24334|seats5=0|sc5=0
+|party6=[[Convention People's Party]]|votes6=11105|seats6=0|sc6=0
+|party7=[[Liberal Party of Ghana]]|votes7=7521|seats7=0|sc7=New
+|party8=[[National Democratic Party (Ghana)|National Democratic Party]]|votes8=6421|seats8=0|sc8=0
+|party9=[[Great Consolidated Popular Party]]|votes9=1976|seats9=0|sc9=0
+|party10=[[United Progressive Party (Ghana)|United Progressive Party]]|votes10=1934|seats10=0|sc10=0
+|party11=[[All People's Congress (Ghana)|All People's Congress]]|votes11=1214|seats11=0|sc11=0
+|party12=Independents|votes12=301996|seats12=1|sc12=+1
+|total_sc=0
+|invalid=
+|electorate=17027655
+|source=[https://www.ghanaweb.com/GhanaHomePage/ghanaelection2020/elections.parliamentary.results.php?mode=tabular ghanaweb.com] [https://www.ec.gov.gh/2020-presidential-election-results/2020-parliamentary-results/ EC]
+}}</onlyinclude>
+
+====Seats won by region====
+{| class="wikitable sortable" style=text-align:right
+!S/N
+!Region
+!NPP
+!NDC
+!IND
+!Total
+|-
+|1
+|align=left|[[Ahafo Region|Ahafo]]
+|4
+|2
+| –
+|6
+|-
+|2
+|align=left|[[Ashanti Region|Ashanti]]
+|42
+|4
+|1
+|47
+|-
+|3
+|align=left|[[Bono Region|Bono]]
+|6
+|6
+| –
+|12
+|-
+|4
+|align=left|[[Bono East region|Bono East]]
+|3
+|8
+| –
+|11
+|-
+|5
+|align=left|[[Central Region (Ghana)|Central]]
+|10
+|13
+| –
+|23
+|-
+|6
+|align=left|[[Eastern Region (Ghana)|Eastern]]
+|25
+|8
+| –
+|33
+|-
+|7
+|align=left|[[Greater Accra Region|Greater Accra]]
+|14
+|20
+| –
+|34
+|-
+|8
+|align=left|[[Northern Region (Ghana)|Northern]]
+|9
+|9
+| –
+|18
+|-
+|9
+|align=left|[[North East Region, Ghana|North East]]
+|4
+|2
+| –
+|6
+|-
+|10
+|align=left|[[Oti Region|Oti]]
+|0
+|8
+| –
+|8
+|-
+|11
+|align=left|[[Savannah Region|Savannah]]
+|3
+|4
+| –
+|7
+|-
+|12
+|align=left|[[Upper East Region|Upper East]]
+|1
+|14
+| –
+|15
+|-
+|13
+|align=left|[[Upper West Region|Upper West]]
+|3
+|8
+| –
+|11
+|-
+|14
+|align=left|[[Volta Region|Volta]]
+|1
+|17
+| –
+|18
+|-
+|15
+|align=left|[[Western Region (Ghana)|Western]]
+|9
+|8
+| –
+|17
+|-
+|16
+|align=left|[[Western North Region|Western North]]
+|3
+|6
+| –
+|9
+|- class=sortbottom
+|colspan=2 align=left|'''Total'''
+|'''137'''
+|'''137'''
+|'''1'''
+|'''275'''
+|-  class=sortbottom
+|colspan=7 align=left|Source: [https://www.ec.gov.gh/ Electoral Commission of Ghana]
+|}
+
+=== Petition ===
+On 30 December 2020 the NDC filed a petition at the Supreme Court challenging the results.<ref>{{Cite web|title=Ghana opposition seeks to overturn Akufo-Addo's election win |url=https://www.dw.com/en/ghana-opposition-seeks-to-overturn-akufo-addos-election-win/a-56096712|access-date=2020-12-31|website=Deutsche Welle|language=en-GB}}</ref> On 4 March 2021 the Supreme Court unanimously dismissed the petition, stated that it lacked merit.<ref>{{Cite news|title=Supreme Court fixes March 4 as judgement day for 2020 election petition|url=https://www.graphic.com.gh/news/politics/supreme-court-fixes-march-4-as-judgement-day-for-2020-election-petition.html|location=Accra, Ghana|access-date=2021-05-21|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|language=en-gb}}</ref><ref>{{Cite news|title=Why the Supreme Court dismissed Mahama's 2020 presidential election petition (FULL JUDGMENT)|url=https://www.graphic.com.gh/news/politics/why-the-supreme-court-dismissed-mahama-s-2020-presidential-election-petition-full-judgment.html|location=Accra, Ghana|first=Enoch Darfah|last=Frimpong|date=5 March 2021|access-date=2021-11-11|newspaper=[[Daily Graphic (Ghana)|Daily Graphic]]|language=en-gb}}</ref>
+
+==See also==
+*[[List of MPs elected in the 2020 Ghanaian general election]]
+*[[List of general elections in Ghana]]
+
+==References==
+{{reflist}}
+
+{{Ghanaian elections}}
+
+[[Category:2020 elections in Africa|Ghana]]
+[[Category:2020 in Ghana|General election]]
+[[Category:December 2020 in Ghana|General]]
+[[Category:Presidential elections in Ghana]]
+[[Category:Parliamentary elections in Ghana]]
+[[Category:Election and referendum articles with incomplete results]]

@@ -1,0 +1,329 @@
+{{Short description|none}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox election
+| country = Ghana
+| previous_election = 2008 Ghanaian presidential election
+| previous_year = 2008
+| election_date = 7–8 December 2012
+| next_election = 2016 Ghanaian general election
+| next_year = 2016
+| module = {{Infobox election 
+| embed = yes
+| type = presidential 
+| election_name = Presidential election
+| turnout = 79.43%
+
+| image1 = John Dramani Mahama 2014 (cropped).jpg
+| nominee1 = '''[[John Mahama]]'''
+| party1 = National Democratic Congress (Ghana)
+| running_mate1 = {{nowrap|'''[[Kwesi Amissah-Arthur]]'''}}
+| popular_vote1 = '''5,574,761'''
+| percentage1 = '''50.70%'''
+
+| image2 = Nana Akufo-Addo at European Development Days 2017.jpg
+| nominee2 = [[Nana Akufo-Addo]]
+| running_mate2 = [[Mahamudu Bawumia]]
+| party2 = New Patriotic Party
+| popular_vote2 = 5,248,898
+| percentage2 = 47.74%
+
+| map_image = 2012 Ghanaian presidential election (percentage by region).svg
+| map_caption = Results by region
+
+| title = [[President of Ghana|President]]
+| before_election = [[John Mahama]]
+| before_party = National Democratic Congress (Ghana)
+| after_election = [[John Mahama]]
+| after_party = National Democratic Congress (Ghana)
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| seats_for_election = All 275 seats in [[Parliament of Ghana|Parliament]]
+
+| majority_seats = 138
+| leader1 = [[Nana Akufo-Addo]]
+| party1 = New Patriotic Party
+| last_election1 = 108
+| seats1 = 122
+| percentage1 = 47.51
+| leader2 = [[John Mahama]]
+| party2 = National Democratic Congress (Ghana)
+| last_election2 = 115
+| seats2 = 148
+| percentage2 = 46.41
+| leader3 = [[Samia Nkrumah]]
+| party3 = Convention People's Party
+| last_election3 = 1
+| seats3 = 1
+| percentage3 = 0.73
+| leader4 = [[Hassan Ayariga]]
+| party4 = [[People's National Convention (Ghana)|PNC]]
+| last_election4 = 2
+| seats4 = 1
+| percentage4 = 0.66
+| leader5 = –
+| party5 = [[Independent politician|Independents]]
+| last_election5 = 4
+| seats5 = 3
+| percentage5 = 2.50
+| map =
+| map_caption =
+| title = [[Speaker of the Parliament of Ghana|Speaker]]
+| before_election = [[Joyce Bamford-Addo]]
+| before_party = Independent politician 
+| after_election = [[Edward Adjaho]]
+| after_party = National Democratic Congress (Ghana)
+}}}}}}{{Politics of Ghana}}
+
+General elections were held in Ghana on Friday 7 December 2012 to elect a president and members of Parliament in 275 electoral constituencies.<ref>{{cite web|title=Regional Distribution of 275 Constituencies|url=http://ec.gov.gh/page.php?page=484&section=50&typ=1|website=Electoral Commission of Ghana|access-date=8 December 2012|archive-date=13 February 2013|archive-url=https://web.archive.org/web/20130213053408/http://www.ec.gov.gh/page.php?page=484&section=50&typ=1|url-status=dead}}</ref> Owing to the breakdown of some biometric verification machines, some voters could not vote, and voting was extended to Saturday 8 December 2012.<ref>{{cite news|title=Ghana election: Voting enters second day|url=https://www.bbc.co.uk/news/world-africa-20649951|website=BBC News|access-date=8 December 2012|date=8 December 2012}}</ref> A [[Two-round system|run-off]] was scheduled for 28 December 2012 if no presidential candidate received an absolute majority of 50% plus one vote. Competing for presidency were incumbent president [[John Dramani Mahama]] of the [[National Democratic Congress (Ghana)|National Democratic Congress]] (NDC), his main challenger [[Nana Akufo-Addo]] of the [[New Patriotic Party]] (NPP) and six other candidates.<ref name="ElectoralCommission">{{cite web|title=Profile of 2012 Presidential Candidates|url=http://www.ec.gov.gh/page.php?page=495&section=45&typ=1|website=Electoral Commission of Ghana|access-date=24 October 2012|archive-date=31 December 2014|archive-url=https://web.archive.org/web/20141231205804/http://www.ec.gov.gh/page.php?page=495&section=45&typ=1|url-status=dead}}</ref>
+
+Incumbent president John Mahama was declared winner of the presidential contest with 50.7% of the vote, just a few thousand votes over the threshold for avoiding a run-off election. Nana Akufo-Addo received 47.74%.<ref>{{cite news| url=https://www.bbc.co.uk/news/world-africa-20661599 | work=BBC News | title=Ghana election: John Mahama declared winner | date=10 December 2012}}</ref> The opposition alleged tampering with results by the [[Electoral Commission of Ghana|Electoral Commission]] (EC),<ref>{{cite news| url=http://uk.reuters.com/article/uk-ghana-election-idUKBRE8B809120121209 | archive-url=https://web.archive.org/web/20160201035021/http://uk.reuters.com/article/uk-ghana-election-idUKBRE8B809120121209 | url-status=dead | archive-date=1 February 2016 | work=Reuters | title=Ghana's Mahama wins election, opposition cries foul | date=9 December 2012}}</ref> and filed a petition in a [[2012 Ghanaian Presidential Election Petition]] at the Ghanaian Supreme Court to review the election results. The NPP produced more than 11,000 so-called "pink sheets" to the judges who had to compare them to similar papers from the EC, NDC and possibly other parties. These pink sheets state the results as counted in single polling stations, before aggregating them to any higher level, such as municipality, district and region. The NPP claimed that there were differences between the results as stated immediately after their counting in polling stations, and those which were used in aggregations, and that this can be proven by the pink sheets. In a separate part of the procedure, the EC was challenged to prove that 14,000 expat Ghanaians had voted abroad, and failed to produce any registered voters in foreign countries due to, so EC, the fatal work of a virus in its computer. The election petition led to great changes in the electoral system that helped ensure a high level of transparency in the voting system and collation of the results. 
+
+Mahama was elected to a full term less than five months as president having succeeded [[John Atta Mills]], who died suddenly in office in July 2012.<ref name="AlJazeera25Jul" />
+
+==Preparations==
+===Biometric voters registration===
+The [[Electoral Commission of Ghana]] successfully held a [[Biometrics|biometric]] system of registration for the [[wikt:electorate|electorate]] from 24 March 2012 to 5 May 2012. The move was aimed to prevent double registration and to eliminate ghost names in the old register.<ref>{{cite web | url=https://www.aljazeera.com/indepth/opinion/2011/12/20111251412526848.html | title=Pre-election in Ghana | website=Al Jazeera | access-date=7 November 2012}}</ref><ref>{{cite web|title=Compilation of Biometric Register Begins March 24|url=http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=227516|website=Ghana Home Page|access-date=28 March 2012}}</ref><ref>{{cite web|url=http://politics.thinkghana.com/pages/elections/201204/57923.php|website=Ghana Think|title=Ghana Think|access-date=7 November 2012|archive-url=https://web.archive.org/web/20130906205324/http://politics.thinkghana.com/pages/elections/201204/57923.php|archive-date=6 September 2013|url-status=dead}}</ref>
+
+===Electoral demarcations===
+Controversially, 45 additional constituencies were added to the 230 of the [[2008 Ghanaian general election|2008 general election]].<ref name="newconsts">{{cite web|title=Controversy Over the Creation OF 45 New Constituencies|url=http://www.modernghana.com/news/424647/1/controversy-over-the-creation-of-45-new-constituen.html|website=Modern Ghana|access-date=9 December 2012}}</ref> Voting therefore took place in a total of 275 constituencies and 26002 polling stations.
+{| class="wikitable collapsible collapsed"
+|+ Constituencies in 2012
+|-
+! Region !! New Constituencies in 2012 !! Total seats
+|-
+| '''Western Region'''||
+
+*Kwesimintsim
+*Mpohor
+*Bodi
+*Bia East
+|26
+|-
+
+| '''Central Region'''||
+
+*Cape Coast North
+*Gomoa Central
+*Awutu Senya
+*Assin Central
+|23
+|-
+| '''Greater Accra'''
+
+||
+*Bortianor–Ngleshie Amanfro
+*Anyaa/ Sowutuom
+*Trobu
+*Ayawaso North
+*Okaikwei Central
+*Ablekuma West
+*Tema Central
+|34
+|-
+| '''Volta'''
+ 
+||
+*Akatsi North
+*Adaklu
+*North Dayi
+*Krachi Nchumuru
+|26
+|-
+| '''Eastern'''||
+*Akuapim South
+*Asene/Akroso/Monso
+*Achiase
+*Atiwa East
+*Fanteakwa South
+|33
+|-
+| '''Ashanti'''||
+*Obuasi East
+*Manso Edubia
+*Atwima Nwabiagya North
+*Manhyia North
+*Juaben
+*Asante Akim North
+*Sekyere Afram Plains
+*Ahafo Ano South East
+|47
+|-
+| '''Brong-Ahafo'''|| 	
+*Berekum West
+*Dormaa West
+*Banda
+*Pru West
+*Sene East
+|29
+|-
+| '''Northern'''||
+*Daboya
+*Kparibato
+*Tatale
+*Sagnarigu East
+*Yunyoo
+|31
+|-
+| '''Upper East'''|| 
+*Bolgatanga East
+*Tempene
+|15
+|-
+| '''Upper West'''|| 
+*Nandom
+|11
+|-
+|''Total''||
+'''45 new'''
+|'''275'''
+|}
+
+==Monitoring==
+The [[Coalition of Domestic Election Observers]] (CODEO) trained election observers and deployed 4000 of them to monitor the elections nationwide.<ref>{{cite web|title=CODEO to deploy observers for 2012 elections|url=https://www.ghanabusinessnews.com/2012/11/04/codeo-to-deploy-observers-for-2012-elections/|website=Ghana Business News|access-date=8 December 2012}}</ref><ref>{{cite web|title=CODEO Ready To Observe Election 2012|url=http://www.ghanaweb.com/GhanaHomePage/politics/artikel.php?ID=258738|website=Ghana Web|access-date=8 December 2012}}</ref>
+
+Observers from [[Economic Community of West African States|ECOWAS]] Observer Mission led by former Nigerian president, [[Olusegun Obasanjo|General Olusegun Obasanjo]] also monitored the elections. The mission noted the technical glitches caused by faulty biometric machines but added that it had not undermined the fairness and transparency of the election.<ref>{{cite web|title=Electoral Challenges Has Not Undermined Election Process—Obasanjo Observes|url=http://www.modernghana.com/news/434914/1/electoral-challenges-has-not-undermined-election-p.html|website=Modern Ghana|access-date=8 December 2012}}</ref>
+
+==Pre-election controversy==
+There have been accusations against the media for not covering the election in a fair manner.<ref>{{cite news |url=https://www.telegraph.co.uk/news/worldnews/africaandindianocean/ghana/9733745/Ghana-John-Mahama-declared-election-winner.html |title=Ghana: John Mahama declared election winner |access-date=27 January 2013 |location=London |work=The Daily Telegraph |date=9 December 2012}}</ref>
+
+Following the death of incumbent President [[John Atta Mills]] amid concerns for the election, leader of the Electoral Commission of Ghana [[Kwadwo Afari-Gyan]] said that "the election calendar remains unchanged—it's purely a party matter" and the [[National Democratic Congress (Ghana)|National Democratic Congress]] had to decide whom to nominate as its new candidate.<ref name="AlJazeera25Jul">{{cite web |url=https://www.aljazeera.com/news/africa/2012/07/20127259518486684.html |title=Ghana swears in Mahama as new president |website=Al Jazeera |date=25 July 2012 |access-date=10 December 2012}}</ref>
+
+The main talking point following the close of nominations was the disqualification of [[Nana Konadu Agyeman Rawlings]], leader of the newly formed [[National Democratic Party (Ghana)|National Democratic Party]]. This was due to errors in the documentation presented to the Electoral Commission.<ref>{{cite web |title=Nana Konadu's Presidential dream crashed |url=http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=253597 |website=Ghana Home Page|access-date=25 October 2012 |date=18 October 2012}}</ref>
+
+==Presidential candidates==
+Eight candidates were on the ballot.<ref name="ElectoralCommission"/>
+
+{| class="wikitable sortable"
+|-
+! Party!! Candidate name !! Religion !! Date of birth !! Hometown and Region !! Highest Educational Qualification !! Institution !! Present or Last Employer !! Position !! Profession !! Marital Status
+|-
+| [[People's National Convention (Ghana)|People's National Convention]] || [[Ayariga Hassan|Hassan Ayariga]]||| Muslim|| 4 September 1972|| [[Bawku Central (Ghana parliament constituency)|Bawku]], [[Upper East Region]]|| Ex. Masters in Governance and Leadership || Graduate School of Governance and Leadership|| Clean Up Ghana || Managing Director|| Accountancy|| Married
+|-
+| [[National Democratic Congress (Ghana)|National Democratic Congress]] || [[John Dramani Mahama]]
+|| Christian|| 29 November 1958|| [[Bole, Ghana|Bole]], [[Northern Region (Ghana)|Northern Region]]|| Post Graduate Degree || [[University of Ghana]] || Government of Ghana || President of the Republic of Ghana|| Communications/media|| Married
+|-
+| [[Progressive People's Party (Ghana)|Progressive People's Party]] || [[Paa Kwesi Nduom|Papa Kwesi Nduom]]
+|| Catholic|| 15 February 1953|| [[Elmina]], [[Central Region, Ghana|Central Region]]|| PHD || [[University of Wisconsin–Madison|University of Wisconsin]] || First National Savings and Loans Company || CEO|| Management consultant|| Married
+|-
+| [[New Patriotic Party]] || [[Nana Akufo-Addo|Nana Addo Dankwa Akufo-Addo]]
+|| Christian|| 29 March 1944|| [[Kibi, Ghana|Kyebi]], [[Eastern Region (Ghana)|Eastern Region]]|| Bsc. Econ || [[University of Ghana]] || Government of Ghana || Minister for Foreign Affairs|| Legal practitioner|| Married
+|-
+| [[Convention People's Party]] || [[Michael Abu Sakara Foster]]
+|| Christian|| 15 August 1958|| [[Mankuna, Ghana|Mankuna]], [[Northern Region (Ghana)|Northern Region]]|| Doctor of Philosophy || [[University of Reading]] || ''Unknown''|| Executive Director || Agronomist|| Married
+|-
+| [[United Front Party (Ghana)|United Front Party]] || [[Akwasi Addai Odike]]|| Christian || 13 September 1964|| [[Adwumakase Kese]], [[Ashanti Region]] || 'O' Level || [[Aduman Secondary School]]|| Odike Ventures || CEO || Businessman|| Married
+|-
+| Independent Candidate || [[Jacob Osei Yeboah]]
+|| Christian|| 28 October 1968 || [[Atonsu, Nsuta]], [[Ashanti Region]] || [[Master of Business Administration|MBA]] || [[University of Warwick]] || Vital Source Limited|| Director for West Africa || Engineering consultant || Married
+|-
+| [[Great Consolidated Popular Party]] || [[Henry Herbert Lartey]]
+|| Christian|| 5 February 1954 || [[Osu, Accra|Osu]], [[Greater Accra Region]] || [[Master of Business Administration|MBA]] Economics and Finance|| [[University of Bath]] || ''Unknown'' || Executive Director || Finance, agriculture, and international trade || Single
+|-
+|}
+
+===Running mates===
+The following eight candidates have been approved by their parties and the [[Electoral Commission of Ghana]] as running mates of the above listed presidential candidates for the election on 7 December 2012.<ref name="ElectoralCommission"/>
+
+{| class="wikitable sortable"
+|-
+! Party!! Candidate name !! Sex !! Profession
+|-
+| [[People's National Convention (Ghana)|People's National Convention]] || [[Helen Sanorita Dzatugbe Matrevi]]|| F ||Bilingual translator 
+|-
+| [[National Democratic Congress (Ghana)|National Democratic Congress]] || [[Kwesi Amissah-Arthur]]
+|| M || [[Economist]] 
+|-
+| [[Progressive People's Party (Ghana)|Progressive People's Party]] || [[Eva Naa Merley Lokko|Eva Lokko]]
+|| F || [[Engineer]]
+|-
+| [[New Patriotic Party]] || [[Mahamudu Bawumia]]
+|| M ||[[Economist]] 
+|-
+| [[Convention People's Party]] || Nana Akosua Frimpomaa
+|| F || Social activist
+|-
+| [[United Front Party (Ghana)|United Front Party]] || [[Fred Osei Agyen]] || M || Agriculturist
+|-
+| Independent Candidate || [[Kelvin Nii Tackie]]
+|| M ||[[Business executive]]
+|-
+| [[Great Consolidated Popular Party]] || [[John Amekah]]
+|| M || Retired educationist
+|-
+|}
+
+==Results==
+
+===President===
+{{Election results
+|cand1=[[John Dramani Mahama]]|vp1=[[Kwesi Amissah-Arthur]]|party1=[[National Democratic Congress (Ghana)|National Democratic Congress]]|votes1=5574761
+|cand2=[[Nana Akufo-Addo]]|vp2=[[Mahamudu Bawumia]]|party2=[[New Patriotic Party]]|votes2=5248898
+|cand3=[[Paa Kwesi Nduom]]|vp3=[[Eva Lokko]]|party3=[[Progressive People's Party (Ghana)|Progressive People's Party]]|votes3=64362
+|cand4=[[Henry Herbert Lartey]]|vp4=John Amekah|party4=[[Great Consolidated Popular Party]]|votes4=38223
+|cand5=[[Ayariga Hassan]]|vp5=Helen Sanorita Dzatugbe Matrevi|party5=[[People's National Convention (Ghana)|People's National Convention]]|votes5=24617
+|cand6=[[Michael Abu Sakara Foster]]|vp6=Nana Akosua Frimpomaa|party6=[[Convention People's Party]]|votes6=20323
+|cand7=[[Jacob Osei Yeboah]]|vp7=Kelvin Nii Tackie|party7=Independent|votes7=15201
+|cand8=[[Akwasi Addai Odike]]|vp8=Fred Osei Agyen|party8=[[United Front Party (Ghana)|United Front Party]]|votes8=8877
+|invalid=251720
+|electorate=14158890
+|source=[https://web.archive.org/web/20121218061441/http://results.ec.gov.gh/ Electoral Commission of Ghana]
+}}
+
+===Parliament===
+{{Election results
+|image=[[File:Ghana Parliament 2012.svg]]
+|party1=[[New Patriotic Party]]|votes1=5248862|seats1=122|sc1=+14
+|party2=[[National Democratic Congress (Ghana)|National Democratic Congress]]|votes2=5127671|seats2=148|sc2=+33
+|party3=[[Progressive People's Party (Ghana)|Progressive People's Party]]|votes3=182649|seats3=0|sc3=0
+|party4=[[Convention People's Party]]|votes4=81009|seats4=1|sc4=0
+|party5=[[People's National Convention (Ghana)|People's National Convention]]|votes5=72618|seats5=1|sc5=–1
+|party6=[[National Democratic Party (Ghana)|National Democratic Party]]|votes6=33857|seats6=0|sc6=0
+|party7=Inter-Party Cooperation|votes7=15561|seats7=0|sc7=0
+|party8=[[United Front Party (Ghana)|United Front Party]]|votes8=3322|seats8=0|sc8=0
+|party9=[[Democratic People's Party (Ghana)|Democratic People's Party]]|votes9=3013|seats9=0|sc9=0
+|party11=[[New Vision Party]]|color11=#b784a7|votes11=1232|seats11=0|sc11=0
+|party12=[[United Renaissance Party]]|votes12=980|seats12=0|sc12=0
+|party13=[[Independent People's Party (Ghana)|Independent People's Party]]|votes13=679|seats13=0|sc13=0
+|party14=[[Great Consolidated Popular Party]]|votes14=653|seats14=0|sc14=0
+|party15=Yes People's Party|votes15=145|seats15=0|sc15=0
+|party16=[[Ghana Freedom Party]]|votes16=77|seats16=0|sc16=0
+|party17=Independents|votes17=275781|seats17=3|sc17=–1
+|total_sc=+45
+|invalid=178243
+|electorate=15031680
+|source={{Deprecated archive|url=https://archive.today/20130107101054/http://results.ec.gov.gh/page.php?page=531&section=51&typ=1&subs=532|title=Electoral Commission of Ghana}}
+}}
+
+==Reactions==
+The non-partisan Coalition of Domestic Election Observers (CODEO), the [[Economic Community of West African States]] (ECOWAS) and the [[African Union]] (AU) all declared that the elections were, for the most part, free and fair.<ref name="BBC10Dec" /> Despite this, there were still widespread allegations of voting irregularities, though these were dismissed as unsubstantiated by the electoral commission chairman. As a result of these claims, the New Patriotic Party immediately rejected the results upon their release<ref name="BBC10Dec">{{cite news|title=Ghana election: NPP considers challenge to John Mahama win|url=https://www.bbc.co.uk/news/world-africa-20671298|date=10 December 2012|access-date=10 December 2012|work=BBC News}}</ref> and its candidate, [[Nana Akufo-Addo]], remarked that his party's leaders would be meeting on 11 December to consider their options, one of which is to contest the results by lodging an appeal in court.<ref>{{cite news|title=Ghana opposition contender might challenge election results|url=https://www.reuters.com/article/us-ghana-election-idUSBRE8B80EC20121210|date=10 December 2012|access-date=10 December 2012|first=Bate|last=Felix|website=Reuters}}</ref> Violent opposition was however ruled out.<ref name="BBC10Dec" />
+
+African Union commission chairman [[Thomas Yayi]] flew to Ghana to meet with the two men.<ref name="BBC10Dec" /> He was also reported to have congratulated Mahama on his victory, and charged him to preside over an all-inclusive government.<ref name="Joy1">{{cite web | url=http://edition.myjoyonline.com/pages/news/201212/98485.php | title=Update: AU chairman to meet Nana Akufo-Addo, after meeting Mahama | website=Joy Online | date=10 December 2012 | access-date=10 December 2012 | author=Essel, Issac | archive-url=https://web.archive.org/web/20121211200752/http://edition.myjoyonline.com/pages/news/201212/98485.php | archive-date=11 December 2012 | url-status=dead}}</ref> Yayi praised the conduct and the participants of the election.<ref name="Joy1" />
+
+In anticipation of petitions regarding the election, Chief Justice [[Georgina Theodora Wood]] has established two public complaints secretariats to swiftly process such concerns.<ref name="GBN">{{cite web | url=https://www.ghanabusinessnews.com/2012/12/10/ghanas-judiciary-sets-up-complaint-secretariats-for-post-elections-petitions/ | title=Ghana’s Judiciary sets up complaint secretariats for post elections petitions | website=Ghana Business News | date=10 December 2012 | access-date=10 December 2012}}</ref>
+
+In a statement after being declared the victor, Mahama gave a reconciliatory message, saying "I wish to welcome my fellow candidates to join me now as partners in the project of nation building and of creating a better Ghana".<ref name="GhanaWeb2">{{cite web | url=http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=259041 | title=Leave behind era of pettiness, intolerance and negativity – Mahama urges | website=Ghana Web | date=10 December 2012 | access-date=10 December 2012 | archive-url=https://web.archive.org/web/20121212054339/http://www.ghanaweb.com/GhanaHomePage/NewsArchive/artikel.php?ID=259041 | archive-date=12 December 2012 | url-status=dead }}</ref>
+
+==Image gallery==
+<gallery>
+File:Ghanaians cast their votes.jpg|Ghanaians in voting process
+File:Ghanaians line up to vote in 2012 general elections.jpg|Voters lined up to vote
+</gallery>
+
+==See also==
+*[[List of MPs elected in the 2012 Ghanaian parliamentary election]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://thecommonwealth.org/sites/default/files/inline/GhanaElections-FinalReport2012.pdf Ghana presidential and parliamentary elections 7 December 2012] Commonwealth Secretariat)
+
+{{Ghanaian elections}}
+
+[[Category:Presidential elections in Ghana]]
+[[Category:Parliamentary elections in Ghana]]
+[[Category:2012 elections in Africa|Ghana]]
+[[Category:2012 in Ghana|General]]
+[[Category:December 2012 in Africa|Ghana]]

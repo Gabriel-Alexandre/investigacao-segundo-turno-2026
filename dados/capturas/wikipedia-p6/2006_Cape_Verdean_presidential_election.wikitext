@@ -1,0 +1,61 @@
+{{Short description|Re-election of Pedro Pires}}
+{{Infobox election
+| country = Cape Verde
+| type = presidential
+| previous_election = 2001 Cape Verdean presidential election
+| previous_year = 2001
+| next_election = 2011 Cape Verdean presidential election
+| next_year = 2011
+| election_date = 12 February 2006
+| registered = 323,554
+| turnout = 53.10%
+| image1 = Pedro Pires 2012.png
+| nominee1 = '''[[Pedro Pires]]'''
+| party1 = African Party for the Independence of Cape Verde
+| popular_vote1 = '''86,583'''
+| percentage1 = '''50.98%'''
+| image2 = Carlos Veiga MpD VOA (cropped).jpg
+| nominee2 = [[Carlos Veiga]]
+| party2 = Movement for Democracy (Cape Verde)
+| popular_vote2 = 83,241
+| percentage2 = 49.02%
+| title = [[List of heads of state of Cape Verde|President]]
+| before_election = Pedro Pires
+| before_party = African Party for the Independence of Cape Verde
+| after_election = Pedro Pires
+| after_party = African Party for the Independence of Cape Verde
+| map_image       = Elecciones presidenciales de Cabo Verde, 2006.svg
+| map_caption = Results by municipality
+}}{{Politics of Cape Verde}}
+
+Presidential elections were held in [[Cape Verde]] on 12 February 2006, the fourth presidential elections since the introduction of [[Multi-party system|multi-party politics]] in 1990.
+
+In a repeat of the 2001 election, [[Pedro Pires]] of the ruling [[African Party for the Independence of Cape Verde]] (PAICV) was challenged by former [[Prime Minister of Cape Verde|Prime Minister]] [[Carlos Veiga]] of the [[Movement for Democracy (Cape Verde)|Movement for Democracy]] (MpD). In the 2001 presidential run-off, Pires had defeated Veiga by a margin of only 12 votes. In 2006, Pires won another narrow victory, prevailing by about 3,000 votes and slightly surpassing the 50% majority necessary to avoid a run-off.
+
+==Results==
+{{Election results
+|cand1=[[Pedro Pires]]|party1=[[African Party for the Independence of Cape Verde]]|votes1=86583
+|cand2=[[Carlos Veiga]]|party2=[[Movement for Democracy (Cape Verde)|Movement for Democracy]]|votes2=83241
+|invalid=1327
+|blank=668
+|electorate=323554
+|source=Boletim Oficial<ref>{{Cite web |date=21 February 2006 |title=Boletim Oficial da República de Cabo Verde, Serie I, No. 8 |url=https://drive.google.com/file/d/1b6PXfwBA9YrTYZg-1pExltpQiygQQjwQ/view |website=Boletim Oficial da República de Cabo Verde |page=2–3}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://cne.cv/ National Elections Commission] {{in lang|pt}}
+
+{{Cape Verdean elections}}
+
+[[Category:Presidential elections in Cape Verde]]
+[[Category:2006 elections in Africa|Cape Verde]]
+[[Category:2006 in Cape Verde|Presidential]]
+[[Category:February 2006 in Africa|Cape Verde]]
+[[Category:February 2006 elections]]
+
+
+{{CapeVerde-stub}}
+{{Africa-election-stub}}

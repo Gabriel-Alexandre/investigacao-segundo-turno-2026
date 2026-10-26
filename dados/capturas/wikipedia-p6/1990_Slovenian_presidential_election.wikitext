@@ -1,0 +1,77 @@
+{{Short description|None}}
+{{Infobox election
+| country = SR Slovenia
+| type = presidential
+| ongoing = no
+| election_date = 8 April 1990 (first round)<br />{{nowrap|22 April 1990 (second round)}}
+| next_election = 1992 Slovenian presidential election
+| next_year = 1992
+
+| image1 = Milan KUCAN, Klaus HANSCH EP President (cropped).jpg
+| candidate1 = '''[[Milan Kučan]]'''
+| party1 = League of Communists of Slovenia – Party of Democratic Renewal
+| popular_vote1 = '''657,196'''
+| percentage1 = '''58.59%'''
+
+| image2 = 3x4.svg
+| candidate2 = [[Jože Pučnik]]
+| party2 = [[Slovenian Democratic Party|SDSS]]
+| alliance2 = [[DEMOS (Slovenia)|DEMOS]]
+| popular_vote2 = 464,435
+| percentage2 = 41.41%
+
+| title = [[President of Slovenia|President]]
+| before_election = [[Janez Stanovnik]]
+| before_party = [[League of Communists of Slovenia|ZKS-SDP]]
+| after_election = [[Milan Kučan]]
+| after_party = [[League of Communists of Slovenia|ZKS-SDP]]
+}}
+{{Politics of Slovenia}}
+Presidential elections were held in [[Socialist Republic of Slovenia|Slovenia]] on 8 April 1990, with a second round on 22 April.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p. 1,778 {{ISBN|978-3-8329-5609-7}}</ref> Voters elected the four members of the presidency and the President of the presidency.<ref name=NS/> [[Ciril Zlobec]], [[Ivan Oman]], [[Matjaž Kmecl]] and [[Dušan Plut]] were elected to the presidency, whilst [[Milan Kučan]] was elected president in the second round.<ref>Nohlen & Stöver, p. 1,793</ref>
+
+==Electoral system==
+The four members of the presidency were elected by [[plurality-at-large voting]], with voters able to vote for four candidates. The four candidates with the most votes were elected.
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Milan Kučan]]|party1=[[League of Communists of Slovenia – Party of Democratic Renewal|ZKS-SDP]]–[[Socialist Party of Slovenia|SZDLS]]|votes1=538278|votes1_2=657196
+|cand2=[[Jože Pučnik]]|party2=[[Social Democratic Party of Slovenia]] ([[DEMOS (Slovenia)|DEMOS]])|votes2=322706|votes2_2=464435
+|cand3=[[Ivan Kramberger]]|party3=Independent|votes3=224162
+|cand4=Marko Demšar|party4=[[Liberal Democracy of Slovenia|ZSMS-LS]]|votes4=126424
+|invalid=25975|invalid2=23354
+|electorate=1490136|electorate2=1489822
+|source=Nohlen & Stöver
+}}
+
+===Presidency===
+{{Election results
+|cand1=[[Ciril Zlobec]]|party1=[[Socialist Party of Slovenia|SZDLS]]|votes1=637517|rcolor1=#dbffdb
+|cand2=[[Ivan Oman]]|party2=[[Slovenian People's Party|Slovenian Peasant Union]] ([[DEMOS (Slovenia)|DEMOS]])|votes2=550529|rcolor2=#dbffdb
+|cand3=[[Matjaž Kmecl]]|party3=[[League of Communists of Slovenia – Party of Democratic Renewal|ZKS-SDP]]|votes3=454633|rcolor3=#dbffdb
+|cand4=[[Dušan Plut]]|party4=[[Greens of Slovenia]] ([[DEMOS (Slovenia)|DEMOS]])|votes4=453626|rcolor4=#dbffdb
+|cand5=[[Slavoj Žižek]]|party5=[[Liberal Democracy of Slovenia|ZSMS-LS]]|votes5=431206
+|cand6=[[Dimitrij Rupel]]|party6=[[Slovenian Democratic Union]] ([[DEMOS (Slovenia)|DEMOS]])|votes6=408868
+|cand7=Alojz Križman|party7=[[Liberal Democracy of Slovenia|ZSMS-LS]]|votes7=342341
+|cand8=[[Miroslava Geč Korošec]]|party8=[[Socialist Party of Slovenia|SZDLS]]|votes8=292466
+|cand9=[[Boštjan Zupančič]]|party9=[[League of Communists of Slovenia – Party of Democratic Renewal|ZKS-SDP]]|votes9=239737
+|cand10=Franc Miklavčič|party10=[[Slovene Christian Democrats]] ([[DEMOS (Slovenia)|DEMOS]])|votes10=236663
+|cand11=Peter Novak|party11=[[Socialist Party of Slovenia|SZDLS]]|votes11=212182
+|cand12=Bogdan Oblak|party12=[[Liberal Democracy of Slovenia|ZSMS-LS]]|votes12=194689
+|valid=1189205
+|invalid=46263
+|total_sc=0
+|electorate=1490136
+|source=Nohlen & Stöver<!--party data from https://www.rtvslo.si/slovenija/30-let/koscki-sestavljanke/prve-demokraticne-in-najobseznejse-volitve-v-30-letih-parlamentarizma/519783-->
+}}
+
+==References==
+{{reflist}}
+
+{{Slovenian elections}}
+
+[[Category:1990 elections in Yugoslavia|Slovenia]]
+[[Category:Presidential elections in Slovenia]]
+[[Category:1990 in Slovenia|Presidential]]
+[[Category:April 1990 in Europe|Slovenia]]
+[[Category:Slovenian Spring]]

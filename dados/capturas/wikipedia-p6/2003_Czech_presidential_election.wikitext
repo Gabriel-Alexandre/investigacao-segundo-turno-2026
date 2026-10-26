@@ -1,0 +1,505 @@
+{{Short description|none}}
+{{Infobox election
+| country = Czech Republic
+| type = presidential
+| previous_election = 1998 Czech presidential election
+| previous_year = 1998
+| next_election = 2008 Czech presidential election
+| next_year = 2008
+| election_date = 15, 24 January & {{nowrap|28 February 2003}}
+
+| image1 = File:Vaclav Klaus 2005 portrait.jpg
+| nominee1 = '''[[Václav Klaus]]'''
+| party1 = Civic Democratic Party (Czech Republic)
+| electoral_vote1 = '''142'''
+| percentage1 = '''53.4%'''
+
+| image2 = Jan Sokol.jpg
+| nominee2 = [[Jan Sokol (philosopher)|Jan Sokol]]
+| party2 = Czech Social Democratic Party
+| electoral_vote2 = 124
+| percentage2 = 46.6%
+
+| title = [[President of the Czech Republic|President]]
+| before_election = [[Václav Havel]]
+| before_party = Independent politician
+| after_election = [[Václav Klaus]]
+| after_party = Civic Democratic Party (Czech Republic)
+}}
+{{Politics of the Czech Republic}}
+
+Indirect presidential elections were held in the [[Czech Republic]] in January and February 2003 to elect a new [[President of the Czech Republic|President]]. The [[Parliament of the Czech Republic]] failed to elect a candidate on the first two ballots on the 15 and 24 January. However, on the third round of the third ballot on 28 February, [[Václav Klaus]] was elected.
+
+== Background and procedure ==
+{{main|President of the Czech Republic}}
+In 2003 [[Václav Havel]] had served the maximum 2 consecutive terms as President of the Czech Republic, with his second term ending on 2 February 2003. A [[joint session]] of the Parliament of the Czech Republic was held on the 15 January 2003 to elect his successor.<ref name="attempt">{{cite news|url=http://www.highbeam.com/doc/1P1-71100373.html|archive-url=https://web.archive.org/web/20160307163100/https://www.highbeam.com/doc/1P1-71100373.html|url-status=usurped|archive-date=7 March 2016|title=Czech legislators to make new attempt to choose Havel successor on Jan. 24|date=17 January 2003|agency=[[Associated Press]]|via=[[HighBeam Research]]|url-access=subscription|work=AP Worldstream|access-date=19 June 2012}}</ref>
+
+Before the constitution was amended in 2012 to establish direct presidential election,<ref name="signs">{{cite news|url=http://praguemonitor.com/2012/02/20/klaus-signs-bill-direct-presidential-elections|title=Klaus signs bill on direct presidential elections|date=20 February 2012|work=[[Prague Daily Monitor]]|accessdate=21 June 2012|url-status=dead|archiveurl=https://archive.today/20130131194038/http://praguemonitor.com/2012/02/20/klaus-signs-bill-direct-presidential-elections|archivedate=31 January 2013}}</ref> the President of the Czech Republic was elected indirectly by a joint session of the Czech Parliament.<ref name=attempt/> Each ballot had 3 rounds, with a candidate needing an absolute majority of both the 200 members of the [[Chamber of Deputies of the Parliament of the Czech Republic|Chamber of Deputies]] and the 81 members of the [[Senate of the Parliament of the Czech Republic|Senate]] in order to be elected in the first round.<ref name="farewell">{{cite news|url=http://www.highbeam.com/doc/1P1-71039728.html|archive-url=https://web.archive.org/web/20160327053544/https://www.highbeam.com/doc/1P1-71039728.html|url-status=usurped|archive-date=27 March 2016|title=Czech Leader Vaclav Havel Gives Farewell|last=Hejma|first=Ondrej|date=15 January 2003|agency=[[Associated Press]]|via=HighBeam Research|url-access=subscription|work=AP Online|access-date=19 June 2012}}</ref> When no candidate achieved a majority in both houses of parliament in the first round, then a second round was held between the best-placed candidate in the Chamber vote and the best-placed candidate in the Senate vote, again with an absolute majority needed to get in both houses,<ref name="convenes">{{cite news|url=http://www.highbeam.com/doc/1P1-71031371.html|archive-url=https://web.archive.org/web/20160309195656/https://www.highbeam.com/doc/1P1-71031371.html|url-status=usurped|archive-date=9 March 2016|title=Czech Parliament convenes to elect successor to President Vaclav Havel|last=Hejma|first=Ondrej|date=15 January 2003|agency=[[Associated Press]]|via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=19 June 2012}}</ref> but only among the members who were present at the election.
+
+If the second round was also unsuccessful, then in the third round a candidate needed to win a majority of all present members of parliament, but with votes of both chambers being taken together.<ref name=convenes/> So if all the members of parliament were present a candidate would need 141 votes, from a combination of deputies and senators, in order to be elected in the third round.<ref name="stumbles">{{cite news|url=https://news.bbc.co.uk/1/hi/world/europe/2690561.stm|title=Czech presidential election stumbles|date=24 January 2003|publisher=[[BBC News Online]]|access-date=21 June 2012}}</ref> When no candidate is elected in all 3 rounds, the process would be repeated at further joint sessions until a candidate was elected.<ref name=stumbles/>
+
+== Parties in parliament ==
+{| class=wikitable style=text-align:left style=text-align:center;font-size:85%;line-height:14px;"
+|-
+! rowspan="2" colspan="2"|Party
+! rowspan="2"| Chamber of Deputies
+! rowspan="2"| Senate
+! rowspan="2"| Both Chambers
+! colspan="3"|Endorsed Candidate
+|-
+! 1st Ballot
+! 2nd Ballot
+! 3rd Ballot
+|-
+| bgcolor="{{party color|ČSSD}}" |
+| [[Czech Social Democratic Party]] (ČSSD)
+| {{Composition bar|70|200|hex={{party color|ČSSD}}}}
+| {{Composition bar|11|81|hex={{party color|ČSSD}}}}
+| {{Composition bar|81|281|hex={{party color|ČSSD}}}}
+| [[Jaroslav Bureš]]
+| [[Miloš Zeman]]
+| [[Jan Sokol (philosopher)|Jan Sokol]]
+|-
+| bgcolor="{{party color|Civic Democratic Party (Czech Republic)}}" |
+| [[Civic Democratic Party (Czech Republic)|Civic Democratic Party]] (ODS)
+| {{Composition bar|58|200|hex={{party color|Civic Democratic Party (Czech Republic)}}}}
+| {{Composition bar|26|81|hex={{party color|Civic Democratic Party (Czech Republic)}}}}
+| {{Composition bar|84|281|hex={{party color|Civic Democratic Party (Czech Republic)}}}}
+| colspan="3"| [[Václav Klaus]]
+|-
+| bgcolor="{{party color|Communist Party of Bohemia and Moravia}}" |
+| [[Communist Party of Bohemia and Moravia]] (KSČM)
+| {{Composition bar|41|200|hex={{party color|Communist Party of Bohemia and Moravia}}}}
+| {{Composition bar|3|81|hex={{party color|Communist Party of Bohemia and Moravia}}}}
+| {{Composition bar|44|281|hex={{party color|Communist Party of Bohemia and Moravia}}}}
+| [[Miroslav Kříženecký]]
+| 
+| [[Václav Klaus]]<ref name="VOLBA PREZIDENTA REPUBLIKY V ČESKÉ REPUBLICE">{{cite web|last1=Lutišan|first1=Vojtěch|title=VOLBA PREZIDENTA REPUBLIKY V ČESKÉ REPUBLICE|url=https://is.muni.cz/th/134804/pravf_m/diplomka.pdf|website=IS.Muni.cz|publisher=Masaryk University|accessdate=2 April 2017}}</ref>
+|-
+|  bgcolor="{{party color|Christian and Democratic Union - Czechoslovak People's Party}}" |
+| [[Christian and Democratic Union - Czechoslovak People's Party]] (KDU-ČSL)
+| {{Composition bar|21|200|hex={{party color|Christian and Democratic Union – Czechoslovak People's Party}}}}
+| {{Composition bar|16|81|hex={{party color|Christian and Democratic Union – Czechoslovak People's Party}}}}
+| {{Composition bar|37|281|hex={{party color|Christian and Democratic Union – Czechoslovak People's Party}}}}
+| [[Petr Pithart]]
+| [[Jaroslava Moserová]]
+| [[Jan Sokol (philosopher)|Jan Sokol]]
+|-
+| style="background:#228b22;"| 
+| [[Freedom Union – Democratic Union]] (US-DEU)
+| {{Composition bar|10|200|hex=#228b22}}
+| {{Composition bar|11|81|hex=#228b22}}
+| {{Composition bar|21|281|hex=#228b22}}
+| [[Petr Pithart]]
+| [[Jaroslava Moserová]]
+| [[Jan Sokol (philosopher)|Jan Sokol]]
+|-
+| style="background:#0000FF;"| 
+| [[Civic Democratic Alliance]] (ODA)
+| {{Composition bar|0|200|hex=#0000FF}}
+| {{Composition bar|5|81|hex=#0000FF}}
+| {{Composition bar|5|281|hex=#0000FF}}
+| [[Petr Pithart]]
+| [[Jaroslava Moserová]]
+| 
+|-
+| style="background:#FFCB03;"| 
+| [[SNK European Democrats]] (SNK ED)
+| {{Composition bar|0|200|hex=#FFCB03}}
+| {{Composition bar|2|81|hex=#FFCB03}}
+| {{Composition bar|2|281|hex=#FFCB03}}
+|
+|
+|
+|-
+| style="background:#292829;"| 
+| [[Independent Democrats (Czech Republic)|INDEPENDENTS]] (NEZ)
+| {{Composition bar|0|200|hex=#292829}}
+| {{Composition bar|2|81|hex=#292829}}
+| {{Composition bar|2|281|hex=#292829}}
+|
+|
+|
+|-
+| style="background:#A9A9A9;"| 
+| Independents
+| {{Composition bar|0|200|hex=#A9A9A9}}
+| {{Composition bar|5|81|hex=#A9A9A9}}
+| {{Composition bar|5|281|hex=#A9A9A9}}
+|
+|
+|
+|}
+
+==Candidates==
+{| class="wikitable" style=text-align:center;font-size:85%;line-height:14px;"
+|-
+! colspan=3|Name
+! Party
+! Occupation
+! Note
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+| [[File:No image.svg|75px]]
+| [[Jaroslav Bureš]]
+| [[Czech Social Democratic Party|ČSSD]]
+| Minister of Justice
+| He participated in Social democratic primaries but came second. He was nominated for the first ballot of election.
+|-
+| style="background-color:{{party color|Civic Democratic Party (Czech Republic)}};" |
+| [[File:Vaclav Klaus 2005 portrait.jpg|75px]]
+| [[Václav Klaus]]
+| [[Civic Democratic Party (Czech Republic)|ODS]]
+| Leader of ODS, former Prime Minister
+| He decided to run for president after his party lost [[2002 Czech legislative election|2002 legislative election]]. He announced his candidature on 12 October 2002. He was nominated by ODS.<ref name="Rozhodnuto: Klaus kandiduje">{{cite web|title=Rozhodnuto: Klaus kandiduje|url=http://zpravy.idnes.cz/rozhodnuto-klaus-kandiduje-dpd-/domaci.aspx?c=A021011_215100_domaci_pol|website=iDNES.cz|accessdate=31 March 2017|date=12 October 2002}}</ref> His victory was considered unlikely.<ref name="VOLBA PREZIDENTA REPUBLIKY V ČESKÉ REPUBLICE" />
+|-
+| style="background-color:{{party color|Communist Party of Bohemia and Moravia}};" |
+| [[File:No image.svg|75px]]
+| [[Miroslav Kříženecký]]
+| [[Communist Party of Bohemia and Moravia|KSČM]]
+| Lawyer, politician
+| He was nominated by Communist party.<ref name="Komunistickým kandidátem na prezidenta je Miroslav Kříženecký">{{cite web|title=Český rozhlas - Zprávy|url=http://m.rozhlas.cz/zpravy/domaci/_zprava/50981|website=m.rozhlas.cz|accessdate=31 March 2017|archive-date=1 April 2017|archive-url=https://web.archive.org/web/20170401063913/http://m.rozhlas.cz/zpravy/domaci/_zprava/50981|url-status=dead}}</ref>
+|-
+| style="background:#0000FF;"|
+| [[File:No image.svg|75px]]
+| [[Jaroslava Moserová]]
+| [[Civic Democratic Alliance|ODA]]
+| Senator
+| She was nominated by a group of Liberal parties for the second ballot.<ref name="Moserová se popere o Hrad">{{cite web|title=Moserová se popere o Hrad|url=http://zpravy.idnes.cz/moserova-se-popere-o-hrad-0hk-/domaci.aspx?c=A030120_150145_prezident_jan|website=iDNES.cz|accessdate=31 March 2017|date=20 January 2003}}</ref>
+|-
+| style="background-color:{{party color|Christian and Democratic Union – Czechoslovak People's Party}};" |
+| [[File:Petr Pithart (2016).jpg|75px]]
+| [[Petr Pithart]]
+| [[Christian and Democratic Union – Czechoslovak People's Party|KDU–ČSL]]
+| Senator and former Prime Minister
+| He was nominated by KDU-ČSL.<ref>{{cite web|title=Pithart: Prezidenta zvládnu|url=http://zpravy.idnes.cz/pithart-prezidenta-zvladnu-dpm-/domaci.aspx?c=A021008_223839_domaci_was|website=iDNES.cz|accessdate=31 March 2017|date=9 October 2002}}</ref> He participated in 1st ballot in which he was front-runner prior to voting.<ref name="VOLBA PREZIDENTA REPUBLIKY V ČESKÉ REPUBLICE" />
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+|  [[File:Jan Sokol.jpg|75px]]
+| [[Jan Sokol (philosopher)|Jan Sokol]]
+| ČSSD
+| Philosopher
+| He was nominated by ČSSD for the third ballot.<ref name="ČSSD: Chceme Sokola nominovat společně">{{cite web|title=ČSSD: Chceme Sokola nominovat společně|url=https://zpravy.idnes.cz/cssd-chceme-sokola-nominovat-spolecne-dxa-/domaci.aspx?c=A030215_152117_prezident_nad|website=iDNES.cz|accessdate=18 January 2018|date=15 February 2003}}</ref>
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+| [[File:Miloš Zeman 2002.jpg|112x112px]]
+| [[Miloš Zeman]]
+| [[Czech Social Democratic Party|ČSSD]]
+| Former leader of ČSSD, former  Prime Minister
+| He announced his candidature on 22 September 2002.<ref name="Rytíř">{{cite web|title=Rytíř z Vysočiny|url=http://zpravy.idnes.cz/rytir-z-vysociny-0e9-/domaci.aspx?c=A020930_223708_komentaremfd_was|website=iDNES.cz|accessdate=31 March 2017|date=30 September 2002}}</ref> He won party's primaries and was nominated in 2nd ballot because he refused to participate in 1st ballot.<ref name="Referendum posouvá na Hrad Zemana">{{cite web|title=Referendum posouvá na Hrad Zemana|url=http://zpravy.idnes.cz/referendum-posouva-na-hrad-zemana-dlr-/domaci.aspx?c=A021128_214638_domaci_pol|website=iDNES.cz|accessdate=31 March 2017|date=29 November 2002}}</ref>
+|-
+|}
+
+=== Other potential candidates ===
+{| class="wikitable" style=text-align:center;font-size:85%;line-height:14px;"
+|-
+! colspan=3|Name
+! Party
+! Occupation
+! Note
+|-
+| style="background-color:{{party color|Democratic Party (United States)}};" |
+| [[File:Madeleine Albright.jpg|75px]]
+| [[Madeleine Albright]]
+| [[Democratic Party (United States)|Democratic Party]]
+| American politician and diplomat, former United States Secretary of State
+| She was suggested by Václav Havel as his successor.<ref name="Havel Keeps">{{cite news|last1=Erlanger|first1=Steven|title=Havel Keeps Pressing Albright About Becoming Czech President|url=https://www.nytimes.com/2000/03/07/world/havel-keeps-pressing-albright-about-becoming-czech-president.html|newspaper=The New York Times|accessdate=31 March 2017|date=7 March 2000}}</ref> There were rumors that she seriously considered running.<ref name="Central Europe Review - Madeleine Albright for Czech President?">{{cite web|title=Central Europe Review - Madeleine Albright for Czech President?|url=http://www.ce-review.org/00/10/culik10.html|archive-url=https://web.archive.org/web/20000408030256/http://www.ce-review.org/00/10/culik10.html|url-status=usurped|archive-date=April 8, 2000|website=Ce-review.org|accessdate=31 March 2017}}</ref> She eventually refused to run for president.<ref name="Albrightová prezidentkou ČR být nechce">{{cite web|title=Albrightová prezidentkou ČR být nechce|url=http://www.kurzy.cz/zpravy/45759-albrightova-prezidentkou-cr-byt-nechce/|website=Kurzy.cz|accessdate=1 April 2017|language=cs}}</ref>
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+| [[File:Petra Buzkova.jpg|75px]]
+| [[Petra Buzková]]
+| [[Czech Social Democratic Party|ČSSD]]
+| Minister of Education
+| She was suggested as possible candidate by Václav Havel and she was offered nomination by some members of ČSSD but she refused.<ref name="Někdejší korunní princezna ČSSD Buzková: Chtěli mě za prezidentku!">{{cite web|title=Někdejší korunní princezna ČSSD Buzková: Chtěli mě za prezidentku!|url=http://www.ahaonline.cz/clanek/musite-vedet/125705/nekdejsi-korunni-princezna-cssd-buzkova-chteli-me-za-prezidentku.html|website=Ahaonline.cz|accessdate=1 April 2017}}</ref>
+|-
+| style="background-color:{{party color|Independent}};" |
+| [[File:No image.svg|75px]]
+| [[Václav Fischer]]
+| Independent
+| Senator and businessman
+| His candidature was speculated due to his popularity in 2002. There was a poll that gave him a chance to win the direct vote. He said that he plans to run in 2008 if the direct vote is introduced.<ref name="Fischer prodá firmu a chce na Hrad">{{cite web|title=Fischer prodá firmu a chce na Hrad|url=http://zpravy.idnes.cz/fischer-proda-firmu-a-chce-na-hrad-d44-/domaci.aspx?c=A021024_220416_domaci_pol|website=iDNES.cz|accessdate=1 April 2017|date=25 October 2002}}</ref>
+|-
+| style="background-color:{{party color|Independent}};" |
+| [[File:Karel Gott 2002-foto13.jpg|75px]]
+| [[Karel Gott]]
+| Independent
+| Singer
+| Gott said that he would run for the office if Czech president is elected directly.<ref name="Karel Gott chce do přímé volby">{{cite web|title=Karel Gott chce do přímé volby|url=https://www.novinky.cz/domaci/2008-karel-gott-chce-do-prime-volby.html|website=Novinky.cz|accessdate=31 March 2017|language=cs}}</ref><ref name="Gott chce kandidovat v přímé volbě">{{cite web|title=Gott chce kandidovat v přímé volbě|url=http://zpravy.idnes.cz/gott-chce-kandidovat-v-prime-volbe-dr7-/domaci.aspx?c=A030204_225653_lidicky_ef|website=iDNES.cz|accessdate=31 March 2017|date=5 February 2003}}</ref> He later endorsed Václav Klaus.<ref name="Gott: Ať jde na Hrad Klaus">{{cite web|title=Gott: Ať jde na Hrad Klaus|url=http://zpravy.idnes.cz/gott-at-jde-na-hrad-klaus-0wb-/domaci.aspx?c=A030209_221223_prezident_pol|website=iDNES.cz|accessdate=31 March 2017|date=10 February 2003}}</ref>
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+| [[File:Helena Illnerová P6117693 (cropped).jpg|121x121px]]
+| [[Helena Illnerová]]
+| ČSSD, KDU-ČSL, US-DEU
+| President of [[Czech Academy of Sciences]]
+| Suggested as potential candidate of governing coalition for third ballot.<ref name="Ve hře o prezidenta jsou tři lidé">{{cite web|title=Ve hře o prezidenta jsou tři lidé|url=http://zpravy.idnes.cz/ve-hre-o-prezidenta-jsou-tri-lide-d4c-/domaci.aspx?c=A030131_230632_prezident_pol|website=iDNES.cz|accessdate=1 April 2017|date=1 February 2003}}</ref>
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+| [[File:Klener Pavel (cropped).jpg|99x99px]]
+| [[Pavel Klener]]
+| ČSSD, KDU-ČSL, US-DEU
+| Chairman of Czech Oncologist Society
+| Suggested as potential candidate of governing coalition for third ballot.<ref name="Ve hře o prezidenta jsou tři lidé"/>
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+| [[File:No image.svg|75px]]
+| [[Otakar Motejl]]
+| [[Czech Social Democratic Party|ČSSD]]
+| Ombudsman of the Czech Republic
+| He participated in [[Czech Social Democratic Party presidential primaries, 2002|presidential primaries]] of ČSSD and was considered one of the front-runners in the election.<ref name="Prezident který nikomu nebude překážet">{{cite web|title=Prezident, který nikomu nebude překážet|url=http://www.euro.cz/byznys/prezidentktery-nikomu-nebude-prekazet-864452|website=Euro.cz|accessdate=1 April 2017|language=cs|date=2 December 2002}}</ref> His presidential bid ended when he came third in the primaries and lost to Zeman and Bureš. Despite his lost, he still had strong support in party's leadership.<ref name="Část ČSSD dál tlačí Motejla na Hrad">{{cite web|title=Část ČSSD dál tlačí Motejla na Hrad|url=http://zpravy.idnes.cz/cast-cssd-dal-tlaci-motejla-na-hrad-drt-/domaci.aspx?c=A021202_212401_domaci_was|website=iDNES.cz|accessdate=1 April 2017|date=3 December 2002}}</ref> He was later suggested for third ballot but it was declined by governing parties.<ref name="Motejl vypadl ze hry o prezidenta">{{cite web|title=Motejl vypadl ze hry o prezidenta|url=http://zpravy.idnes.cz/motejl-vypadl-ze-hry-o-prezidenta-dla-/domaci.aspx?c=A030129_222805_prezident_pol|website=iDNES.cz|accessdate=1 April 2017|date=30 January 2003}}</ref>
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+| [[File:Prof. Martin Potucek.jpg|75px]]
+| [[Martin Potůček]]
+| [[Czech Social Democratic Party|ČSSD]]
+| University professor, public policy analyst, journalist.
+| He participated in [[Czech Social Democratic Party presidential primaries, 2002|presidential primaries]] of ČSSD but received only 5% of votes.
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+| [[File:Pavel Rychetský (2011).jpg|75px]]
+| [[Pavel Rychetský]]
+| [[Czech Social Democratic Party|ČSSD]]
+| Minister of Justice
+| He was suggested by ČSSD for third ballot but Rychetský declined .<ref name="ČSSD nabízí na Hrad Rychetského">{{cite web|title=ČSSD nabízí na Hrad Rychetského|url=http://zpravy.idnes.cz/cssd-nabizi-na-hrad-rychetskeho-d3k-/domaci.aspx?c=A030127_162817_domaci_has|website=iDNES.cz|accessdate=1 April 2017|date=27 January 2003}}</ref><ref name="Rychetský o Hrad nestojí">{{cite web|title=Rychetský o Hrad nestojí|url=http://zpravy.idnes.cz/rychetsky-o-hrad-nestoji-0xl-/domaci.aspx?c=A021002_182143_osobnost_has|website=iDNES.cz|accessdate=1 April 2017|date=3 October 2002}}</ref>
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+| [[File:Poklepání-na-kámen-Diakonie-Nosislav2013d.jpg|75px]]
+| Jakub S. Trojan
+| [[Czech Social Democratic Party|ČSSD]]
+| Theologist
+| Planned to participate in [[Czech Social Democratic Party presidential primaries, 2002|presidential primaries]] of ČSSD.<ref>{{cite web|publisher=Economia a.s.|title=Do referenda ČSSD jde nakonec pět kandidátů, mezi nimi i teolog Trojan|url=http://archiv.ihned.cz/c1-11673310-do-referenda-cssd-jde-nakonec-pet-kandidatu-mezi-nimi-i-teolog-trojan|website=Hospodářské noviny|accessdate=1 April 2017|language=cs|date=16 October 2002}}</ref>
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+| [[File:Ivan Wilhelm P6117657.jpg|75px]]
+| [[Ivan Wilhelm]]
+| ČSSD, KDU-ČSL, US-DEU
+| Chairman of [[Charles University]]
+| Suggested as potential candidate of governing coalition for third ballot.<ref name="Ve hře o prezidenta jsou tři lidé"/>
+|-
+| style="background-color:{{party color|Czech Social Democratic Party}};" |
+| [[File:Zahradník Rudolf 19 12 2012 foto Stanislava Kyselová, AV ČR (4.1).jpg|100x100px]]
+| Rudolf Zahradník
+| [[Czech Social Democratic Party|ČSSD]]
+| Former President of [[Czech Academy of Sciences]]
+| Announced as candidate in [[Czech Social Democratic Party presidential primaries, 2002|presidential primaries]] of ČSSD but withdrawn prior voting.<ref>{{cite web|title=Souboj o příštího prezidenta začal|url=http://zpravy.idnes.cz/souboj-o-pristiho-prezidenta-zacal-dur-/domaci.aspx?c=A020930_211317_domaci_was|website=iDNES.cz|accessdate=1 April 2017|date=1 October 2002}}</ref>
+|-
+|}
+
+== Opinion polls ==
+{{main|Opinion polling for the 2003 Czech presidential election}}
+
+== First ballot ==
+=== Initial candidates ===
+The leading party in the government coalition, the [[Czech Social Democratic Party|Social Democratic Party]], nominated a former [[justice minister]] [[Jaroslav Bureš]].<ref name="radio">{{cite news|url=http://www.radio.cz/en/section/news/news-of-radio-prague-668|archive-url=https://archive.today/20130210110349/http://www.radio.cz/en/section/news/news-of-radio-prague-668|url-status=dead|archive-date=10 February 2013|title=News of Radio Prague|date=15 December 2002|publisher=[[Radio Prague]]|accessdate=18 June 2012}}</ref> He defeated a former leader of his party and [[List of Prime Ministers of the Czech Republic|Prime Minister]], [[Miloš Zeman]], for the nomination, despite Zeman winning a [[Czech Social Democratic Party presidential primaries, 2002|party primary]], causing splits in the party.<ref name="step">{{cite news|url=http://www.radio.cz/en/section/curraffrs/-presidential-candidates-step-forward-as-vaclav-havels-term-draws-to-an-end-|title=Presidential candidates step forward as Vaclav Havel's term draws to an end|last=Hrobský|first=Martin|date=18 December 2002|publisher=[[Radio Prague]]|accessdate=18 June 2012}}</ref> Zeman was a rival of the Prime Minister and Social Democrat leader [[Vladimír Špidla]] and Bureš was an attempted compromise candidate for the party.<ref name=stumbles/>
+
+The junior party in the coalition, the [[Christian and Democratic Union – Czechoslovak People's Party|Christian Democratic Party]], meanwhile nominated the chairman of the Senate and former Prime Minister between 1990 and 1992, [[Petr Pithart]] as their candidate.<ref name=radio/><ref name="choose">{{cite news|url=http://www.highbeam.com/doc/1P1-70367070.html|archive-url=https://web.archive.org/web/20160304085207/https://www.highbeam.com/doc/1P1-70367070.html|url-status=usurped|archive-date=4 March 2016|title=Christian Democrats choose presidential candidate|date=14 December 2002|agency=[[Associated Press]]|via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=18 June 2012}}</ref> He was also supported by the [[Freedom Union – Democratic Union|Freedom Union]] party, another party in the governing coalition.<ref name=step/>
+
+The main opposition party, the [[Civic Democratic Party (Czech Republic)|Civic Democratic Party]], chose the former leader of the party and prime minister, [[Václav Klaus]], as their candidate.<ref name=radio/> Klaus declared his candidacy in October 2002 and stepped down as leader of his party in December, after having led his party to defeat at the [[2002 Czech legislative election|2002 parliamentary election]].<ref name=step/><ref name="former">{{cite news|url=http://www.highbeam.com/doc/1P1-68639463.html|archive-url=https://web.archive.org/web/20160414075744/https://www.highbeam.com/doc/1P1-68639463.html|url-status=usurped|archive-date=14 April 2016|title=Former prime minister to run for president|date=10 October 2002|agency=[[Associated Press]]|via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=18 June 2012}}</ref>
+
+The final candidate in the election was [[Miroslav Kříženecký]], a former military prosecutor, who was supported by the [[Communist Party of Bohemia and Moravia|Communist Party]].<ref name=radio/>
+
+=== Voting ===
+[[File:Pithart Petr 6168.JPG|250px|thumb|Petr Pithart came second in the first ballot of the election]]
+Reports before the election had Petr Pithart and Václav Klaus as the favourites for the election, due to disunity in the Social Democrats, with the Social Democrats and some Communists expected to support Pithart on the second round against Václav Klaus.<ref name="lobby">{{cite news|url=http://www.radio.cz/en/section/news/news-of-radio-prague-693|archive-url=https://archive.today/20130206111050/http://www.radio.cz/en/section/news/news-of-radio-prague-693|url-status=dead|archive-date=6 February 2013|title=News of Radio Prague|last=Cameron|first=Rob|date=14 January 2003|publisher=[[Radio Prague]]|accessdate=18 June 2012}}</ref><ref name="fear">{{cite news|url=https://www.questia.com/read/1G1-96417898/czech-parliament-to-pick-president-some-fear-that|title=Czech parliament to pick president; Some fear that no candidate will win required majority.|last=Konviser|first=Bruce|date=14 January 2003|work=[[The Washington Times]]|publisher=|access-date=|archive-date=2020-09-04|via=[[Questia]]|url-access=subscription|location=Washington, DC|archive-url=https://web.archive.org/web/20200904101953/https://www.questia.com/read/1G1-96417898/czech-parliament-to-pick-president-some-fear-that}}</ref> However, there was scepticism that any candidate would be able to be elected in the first ballot on the 15 January 2003.<ref name="successor">{{cite news|url=http://www.highbeam.com/doc/1P1-71014028.html|archive-url=https://web.archive.org/web/20160413113809/https://www.highbeam.com/doc/1P1-71014028.html|url-status=usurped|archive-date=13 April 2016|title=Parliament to elect successor to President Vaclav Havel|last=Rybarova|first=Nadia|date=14 January 2003|agency=[[Associated Press]]|via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=18 June 2012}}</ref> Before the votes the outgoing President Václav Havel delivered a farewell speech for which he received a [[standing ovation]], after urging legislators to follow their conscience.<ref name="inconclusive">{{cite news|url=http://www.highbeam.com/doc/1P1-71038073.html|archive-url=https://web.archive.org/web/20160310000142/https://www.highbeam.com/doc/1P1-71038073.html|url-status=usurped|archive-date=10 March 2016|title=Second round in vote to choose Havel successor inconclusive|last=Hejma|first=Ondrej|date=15 January 2003|agency=[[Associated Press]]|via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=19 June 2012}}</ref>
+
+The first vote saw no candidate elected, but with the Social Democrat candidate, Jaroslav Bureš, and the Communist candidate, Miroslav Kříženecký being eliminated with both receiving 46 votes from deputies and senators.<ref name=attempt/><ref name="results">{{cite journal|last=Linek|first=Lukáš|author2=Mansfeldová, Zdenka|date=6 December 2004|title=Czech Republic|journal=European Journal of Political Research|volume=43|issue=7–8|pages=980–988|doi=10.1111/j.1475-6765.2004.00187.x}}</ref> Almost half of the Social Democrats lawmakers did not vote for Bureš, highlighting the divisions within the party.<ref name=attempt/> Very surprising was low support for Petr Pithart. He received only 20 votes in Chamber of Deputies even though KDU-ČSL that nominated him had 21 Members of the Chamber.<ref name="VOLBA PREZIDENTA REPUBLIKY V ČESKÉ REPUBLICE" />
+
+Václav Klaus and Petr Pithart competed in the next two rounds but neither was able to be elected,<ref name="fail">{{cite news|url=http://www.highbeam.com/doc/1P1-71074780.html|archive-url=https://archive.today/20130125030954/http://www.highbeam.com/doc/1P1-71074780.html|url-status=usurped|archive-date=25 January 2013|title=Czechs fail to choose a successor for Havel|date=16 January 2003|work=[[The Record (Bergen County)|The Record]]|via=HighBeam Research|url-access=subscription|access-date=19 June 2012}}</ref> with Klaus getting the most votes in the Chamber of Deputies, while Pethart received the most votes in the Senate in all three election rounds.<ref name="china">{{cite news|url=http://www.highbeam.com/doc/1P2-8800277.html|archive-url=https://web.archive.org/web/20160312094734/https://www.highbeam.com/doc/1P2-8800277.html|url-status=usurped|archive-date=12 March 2016|title=Czech's parliament fails to elect president|date=17 January 2003|work=[[China Daily]]|via=HighBeam Research|url-access=subscription|access-date=19 June 2012}}</ref> Klaus led throughout and in the third round received 113 votes to 89 for Pithart,<ref name=results/> but as 84 legislators submitted empty ballots neither was able to reach the required 141 votes.<ref name=china/> The first ballot showed disunity of ČSSD during the election. It also showed that Klaus has much higher support than it was expected.<ref name="VOLBA PREZIDENTA REPUBLIKY V ČESKÉ REPUBLICE" />
+
+{| class="wikitable"
+|-
+! rowspan="2" | Round
+! colspan="2" | [[Václav Klaus]]
+! colspan="2" | [[Petr Pithart]]
+! colspan="2" | [[Jaroslav Bureš]]
+! colspan="2" | [[Miroslav Kříženecký]]
+|-
+! Deputies
+! Senators
+! Deputies
+! Senators
+! Deputies
+! Senators
+! Deputies
+! Senators
+|-
+| rowspan="2" style="text-align:center;"| 1st
+| align=center | 92
+| align=center | 31
+| align=center | 20
+| align=center | 35
+| align=center | 39
+| align=center | 7
+| align=center | 44
+| align=center | 2
+|- style="text-align:center;" 
+| colspan="2"| '''123'''
+| colspan="2"| '''55'''
+| colspan="2"| '''46'''
+| colspan="2"| '''46'''
+|-
+| rowspan="2" style="text-align:center;"| 2nd
+| align=center | 77
+| align=center | 32
+| align=center | 46
+| align=center | 43
+| align=center | -
+| align=center | -
+| align=center | -
+| align=center | -
+|- style="text-align:center;" 
+| colspan="2"| '''109'''
+| colspan="2"| '''89'''
+| colspan="2"| -
+| colspan="2"| -
+|-
+| rowspan="2" style="text-align:center;"| 3rd
+| align=center | 80
+| align=center | 33
+| align=center | 44
+| align=center | 40
+| align=center | -
+| align=center | -
+| align=center | -
+| align=center | -
+|- style="text-align:center;" 
+| colspan="2"| '''113'''
+| colspan="2"| '''89'''
+| colspan="2"| -
+| colspan="2"| -
+|-
+|}
+
+== Second ballot ==
+[[File:Miloš Zeman, Brno, 2008.jpg|200px|thumb|Miloš Zeman was unexpectedly knocked out after coming third in the first vote of the second ballot.]]
+Following the first ballot the five parties in parliament agreed to try again on the 24 January.<ref name=attempt/> Václav Klaus, after leading in the first ballot, was renominated by the Civic Democrats,<ref name=attempt/> but no other party again supported the candidates they had nominated in the first ballot.<ref name=stumbles/>
+
+On the 18 January the Social Democrats nominated the former Prime Minister Miloš Zeman as their candidate in the next ballot.<ref name="ruling">{{cite news|url=http://www.highbeam.com/doc/1P1-71125768.html|archive-url=https://web.archive.org/web/20160309185827/https://www.highbeam.com/doc/1P1-71125768.html|url-status=usurped|archive-date=9 March 2016|title=Czech's ruling Social Democrats choose a new presidential candidate|date=18 January 2003|agency=[[Associated Press]]|via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=19 June 2012}}</ref> The party leadership was reported to have given him an "overwhelming majority" in the vote on the party's candidate.<ref name=ruling/> However Zeman was a rival of the Social Democrat leader and prime minister, Vladimír Špidla, and his election was seen as possibly furthering divisions in the party.<ref name=ruling/> Meanwhile, the 2 junior parties in the governing coalition, the Christian Democrats and the Freedom Union, nominated senator and former diplomat [[Jaroslava Moserová]], who would have been the first female Czech president if she had won the election.<ref name=stumbles/><ref name="zeman">{{cite news|url=http://www.radio.cz/en/section/news/news-of-radio-prague-700|archive-url=https://archive.today/20130210201646/http://www.radio.cz/en/section/news/news-of-radio-prague-700|url-status=dead|archive-date=10 February 2013|title=News of Radio Prague|last=Cameron|first=Rob|date=21 January 2003|publisher=[[Radio Prague]]|accessdate=19 June 2012}}</ref><ref name="face">{{cite news|url=http://www.highbeam.com/doc/1P1-71310568.html|archive-url=https://archive.today/20130125232439/http://www.highbeam.com/doc/1P1-71310568.html|url-status=usurped|archive-date=25 January 2013|title=Czech Lawmakers Face New Presidential Vote|last=Janicek|first=Karel|date=24 January 2003|agency=[[Associated Press]]|via=HighBeam Research|url-access=subscription|access-date=19 June 2012}}</ref> It was expected that second ballot will be duel between Klaus and Zeman. This was nicknamed "Clash of Titans."<ref name="Prezidentská volba: Události minulé nám ukazují, jak mohou vypadat události budoucí">{{cite web|title=Prezidentská volba: Události minulé nám ukazují, jak mohou vypadat události budoucí|url=https://legacy.blisty.cz/art/12565.html|website=legacy.blisty.cz|accessdate=22 May 2017|language=cs}}</ref>
+
+In the first round Miloš Zeman was surprisingly eliminated after winning 78 votes from deputies and 5 from senators.<ref name=face/> His elimination came after Klaus came first among deputies with 89 votes, while Moserová came first among the senators with 43 votes.<ref name=face/> Zeman was reported to have been opposed by some Social Democratic legislators in order to prevent him from getting into a position to challenge Prime Minister Špidla.<ref name=stumbles/> In the second round the deputies again supported Klaus, but the senate voted 42-33 in favour of Moserová.<ref name="cant">{{cite news|url=http://www.highbeam.com/doc/1P1-71310620.html|archive-url=https://web.archive.org/web/20160307134201/https://www.highbeam.com/doc/1P1-71310620.html|url-status=usurped|archive-date=7 March 2016|title=Czech Lawmakers Can't Decide on President|last=Janicek|first=Karel|date=24 January 2003|agency=[[Associated Press]]|via=HighBeam Research|url-access=subscription|work=AP Online|access-date=19 June 2012}}</ref> This led to a third round being held, which Klaus won by 127 votes to 65, but with 85 blank votes Klaus failed to reach the required 141 votes.<ref name="agree">{{cite news|url=http://www.highbeam.com/doc/1P1-71310713.html|archive-url=https://archive.today/20130125112915/http://www.highbeam.com/doc/1P1-71310713.html|url-status=usurped|archive-date=25 January 2013|title=Czech Lawmakers Can't Agree on President|last=Janicek|first=Karel|date=24 January 2003|agency=[[Associated Press]]|via=HighBeam Research|url-access=subscription|access-date=19 June 2012}}</ref>
+
+{| class="wikitable"
+|-
+! rowspan="2" | Round
+! colspan="2" | [[Václav Klaus]]
+! colspan="2" | [[Jaroslava Moserová]]
+! colspan="2" | [[Miloš Zeman]]
+|-
+! Deputies
+! Senators
+! Deputies
+! Senators
+! Deputies
+! Senators
+|-
+| rowspan="2" style="text-align:center;"| 1st
+| align=center | 89
+| align=center | 32
+| align=center | 25
+| align=center | 43
+| align=center | 78
+| align=center | 5
+|- style="text-align:center;" 
+| colspan="2"| '''121'''
+| colspan="2"| '''68'''
+| colspan="2"| '''83'''
+|-
+| rowspan="2" style="text-align:center;"| 2nd
+| align=center | 85
+| align=center | 33
+| align=center | 32
+| align=center | 42
+| align=center | -
+| align=center | -
+|- style="text-align:center;" 
+| colspan="2"| '''118'''
+| colspan="2"| '''74'''
+| colspan="2"| -
+|-
+| rowspan="2" style="text-align:center;"| 3rd
+| align=center | 95
+| align=center | 32
+| align=center | 26
+| align=center | 39
+| align=center | -
+| align=center | -
+|- style="text-align:center;" 
+| colspan="2"| '''127'''
+| colspan="2"| '''65'''
+| colspan="2"| -
+|-
+|}
+
+== Between the second and third ballots ==
+The presidential term of Václav Havel finished on the 2 February, which meant that legislators had 30 days to elect a successor according to the [[Constitution of the Czech Republic|constitution]].<ref name="singer">{{cite news|url=http://www.highbeam.com/doc/1P1-71525864.html|archive-url=https://archive.today/20130125032455/http://www.highbeam.com/doc/1P1-71525864.html|url-status=usurped|archive-date=25 January 2013|title=Popular Czech singer is considering running for president|date=5 February 2003|agency=[[Associated Press]]|via=HighBeam Research|url-access=subscription|access-date=20 June 2012}}</ref> During the period in which there was no president, the powers of the president were assumed jointly by the Prime Minister Vladimír Špidla and the [[Speaker (politics)|Speaker]] of the Chamber of Deputies [[Lubomír Zaorálek]].<ref name="without">{{cite news|url=http://www.highbeam.com/doc/1P1-71463365.html|archive-url=https://web.archive.org/web/20160409185008/https://www.highbeam.com/doc/1P1-71463365.html|url-status=usurped|archive-date=9 April 2016|title=Czech Republic is without a president for the first time|last=Rybarova|first=Nadia|date=3 February 2003|agency=[[Associated Press]] |via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=20 June 2012}}</ref> This was the first time the Czech Republic had been without a president.<ref name=without/>
+
+[[Opinion poll]]s showed the population strongly supported changing the constitution to allow the direct election of the president by popular vote, with political leaders indicating they would attempt to make this change if a third attempt to elect a president was unsuccessful.<ref name=singer/> On the 5 February a popular Czech singer, [[Karel Gott]], indicated he would be interested in standing if direct popular election was introduced.<ref name=singer/>
+
+Following his defeat in the first round of the second ballot Social Democrat Milos Zeman announced he would not run in a third ballot.<ref name=agree/> However the leader of the opposition Civic Democrats, [[Mirek Topolánek]], restated his party's support for Václav Klaus on the 3 February and called for a new election date to be set.<ref name="demands">{{cite news|url=http://www.highbeam.com/doc/1G1-97254760.html|archive-url=https://web.archive.org/web/20150924165639/http://www.highbeam.com/doc/1G1-97254760.html|url-status=usurped|archive-date=24 September 2015|title=Czech Republic: Czech opposition party demands date for presidential election.|date=5 February 2003|work=Info Prod Research |via=HighBeam Research|url-access=subscription|location=Middle East|access-date=20 June 2012}}</ref> The Speaker Lubomír Zaorálek said on the 7 February that the third ballot would be held on the 28 February.<ref name="third">{{cite news|url=http://www.highbeam.com/doc/1P1-71564603.html|archive-url=https://web.archive.org/web/20150924181742/http://www.highbeam.com/doc/1P1-71564603.html|url-status=usurped|archive-date=24 September 2015|title=Lawmakers will make third attempt to choose Havel successor|date=7 February 2003|agency=[[Associated Press]] |via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=20 June 2012}}</ref>
+
+== Third ballot ==
+[[File:Vaclav Klaus headshot.jpg|thumb|Václav Klaus was elected on the third vote of the third ballot]]
+Since the failed second ballot the 3 parties in the governing coalition, the Social Democrats, Christian Democrats and Freedom Union, had held talks in an attempt to agree on a candidate.<ref name="replace">{{cite news|url=http://www.highbeam.com/doc/1P1-71873776.html|archive-url=https://web.archive.org/web/20160307214108/https://www.highbeam.com/doc/1P1-71873776.html|url-status=usurped|archive-date=7 March 2016|title=Ruling coalition names presidential candidate to replace Vaclav Havel|date=19 February 2003|agency=[[Associated Press]] |via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=20 June 2012}}</ref> On the 19 February 2003 the 3 parties nominated [[Jan Sokol (philosopher)|Jan Sokol]], the [[Dean (education)|Dean]] of [[Charles University in Prague]], who formerly had for a short time been [[education minister]] in a [[caretaker government]].<ref name=replace/> Sokol had been unanimously backed by the 63 Social Democratic deputies present at a party meeting earlier and if all the legislators from the governing coalition backed Sokol they would be able to elect him as president.<ref name=replace/> By the 25 February a total of 97 legislators from the governing coalition in the Chamber of Deputies signed a declaration to officially nominate Sokol.<ref name="fields">{{cite news|url=http://www.highbeam.com/doc/1P1-72065205.html|archive-url=https://web.archive.org/web/20160314070142/https://www.highbeam.com/doc/1P1-72065205.html|url-status=usurped|archive-date=14 March 2016|title=Ruling coalition fields joint candidate in third attempt to replace Havel|last=Janicek|first=Karel|date=25 February 2003|agency=[[Associated Press]] |via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=20 June 2012}}</ref>
+
+At the third ballot on the 28 February 2003, Václav Klaus led on the first 2 votes against Jan Sokol, but failed to reach the necessary majority, as deputies voted in favour of Klaus, but senators favored Sokol.<ref name="elected">{{cite news|url=http://www.highbeam.com/doc/1P1-72142930.html|archive-url=https://web.archive.org/web/20160319214739/https://www.highbeam.com/doc/1P1-72142930.html|url-status=usurped|archive-date=19 March 2016|title=Vaclav Klaus Is Elected Czech President|last=Janicek|first=Karel|date=28 February 2003|agency=[[Associated Press]] |via=HighBeam Research|url-access=subscription|work=AP Online|access-date=20 June 2012}}</ref> However, on the third vote Klaus won the support of 142 legislators, narrowly achieving the necessary 141 votes to defeat Sokol who won 124 votes, while 14 legislators abstained and one was absent.<ref name=elected/> Decisive was the support of members of the Communist Party and of a group of rebels from the governing coalition that refused to support Sokol.<ref>{{cite web|url=http://www.radio.cz/en/section/news/news-of-radio-prague-740|title=News|publisher=Radio Prague|access-date=16 August 2011|archive-url=https://web.archive.org/web/20120924062357/http://www.radio.cz/en/section/news/news-of-radio-prague-740|archive-date=24 September 2012|url-status=dead}}</ref>  Klaus was sworn in as president on the 8 March.<ref name="over">{{cite news|url=http://www.highbeam.com/doc/1P2-1751024.html|archive-url=https://archive.today/20130125130924/http://www.highbeam.com/doc/1P2-1751024.html|url-status=usurped|archive-date=25 January 2013|title=Klaus takes over from Vaclav Havel|date=8 March 2003|work=[[The Independent]] |via=HighBeam Research|url-access=subscription|access-date=20 June 2012}}</ref>
+
+{| class="wikitable"
+|-
+! rowspan="2" | Round
+! colspan="2" | [[Václav Klaus]]
+! colspan="2" | [[Jan Sokol (philosopher)|Jan Sokol]]
+|-
+! Deputies
+! Senators
+! Deputies
+! Senators
+|-
+| rowspan="2" style="text-align:center;"| 1st
+| align=center | 115
+| align=center | 32
+| align=center | 81
+| align=center | 47
+|- style="text-align:center;" 
+| colspan="2"| '''147'''
+| colspan="2"| '''128'''
+|-
+| rowspan="2" style="text-align:center;"| 2nd
+| align=center | 109
+| align=center | 30
+| align=center | 83
+| align=center | 46
+|- style="text-align:center;" 
+| colspan="2"| '''139'''
+| colspan="2"| '''129'''
+|-
+| rowspan="2" style="text-align:center;"| 3rd
+| align=center | 109
+| align=center | 33
+| align=center | 78
+| align=center | 46
+|- style="text-align:center;" 
+| colspan="2"| '''142'''
+| colspan="2"| '''124'''
+|-
+|}
+
+==Aftermath==
+After the election the Prime Minister Vladimír Špidla called a vote of confidence, as the coalition had failed to elect the candidate they had backed.<ref name="survives">{{cite news|url=http://www.highbeam.com/doc/1P1-72476349.html|archive-url=https://web.archive.org/web/20160325040329/https://www.highbeam.com/doc/1P1-72476349.html|url-status=usurped|archive-date=25 March 2016|title=Czech government survives vote of confidence|last=Rybarova|first=Nadia|date=11 March 2003|agency=[[Associated Press]] |via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=20 June 2012}}</ref> This showed that some legislators from the coalition must have voted for Klaus, however the government won a vote of confidence on the 11 March after all 101 government deputies voted in favour in the 200 member Chamber of Deputies, while the whole opposition voted against.<ref name=survives/> Spidla then fired the minister of trade and industry, Jiri Rusnok, due to "personal differences", but Rusnok said he thought it was because he had backed Klaus in the presidential vote.<ref name="fires">{{cite news|url=http://www.highbeam.com/doc/1P1-72532183.html|archive-url=https://web.archive.org/web/20160308233816/https://www.highbeam.com/doc/1P1-72532183.html|url-status=usurped|archive-date=8 March 2016|title=Czech premier fires minister of trade and industry|last=Janicek|first=Karel|date=13 March 2003|agency=[[Associated Press]] |via=HighBeam Research|url-access=subscription|work=AP Worldstream|access-date=20 June 2012}}</ref>
+
+Klaus was [[2008 Czech presidential election|elected]] for second term in 2008 and left the office in 2013 when he wasn't eligible to reelection. He endorsed his former rival [[Miloš Zeman]] during [[2013 Czech presidential election|2013 presidential election]].<ref name="Klaus podpořil Miloše Zemana na Hrad">{{cite web|title=Klaus podpořil Miloše Zemana na Hrad|url=https://www.novinky.cz/domaci/280725-klaus-podporil-milose-zemana-na-hrad.html|website=Novinky.cz|accessdate=22 May 2017|language=cs}}</ref> Zeman previously endorsed Klaus during 2008 presidential election.<ref name="Zeman chce na Hradě dál Klause">{{cite web|title=Zeman chce na Hradě dál Klause|url=https://zpravy.aktualne.cz/domaci/politika/zeman-chce-na-hrade-dal-klause/r~i:article:506903/|website=Aktuálně.cz|accessdate=22 May 2017|language=cs|date=18 September 2007}}</ref>
+
+Zeman's defeat is considered to have strong impact on Czech politics. It is stated that he distanced himself from ČSSD since the election.<ref name="Zrádce omlouvá vlastní zradu, vrací Zeman úder Sobotkovi">{{cite magazine |title=Zrádce omlouvá vlastní zradu, vrací Zeman úder Sobotkovi|url=http://www.tyden.cz/rubriky/domaci/politika/zradce-omlouva-vlastni-zradu-vraci-zeman-uder-sobotkovi_335641.html |magazine=[[Týden]]|accessdate=22 May 2017|date=8 March 2015 |language=cs}}</ref> He later left the party and founded [[Party of Civic Rights]] (SPO). He became SPO's presidential candidate in [[2013 Czech presidential election|2013 presidential election]] and became first directly elected Czech president. His presidency is influenced by his conflicts with leadership of ČSSD.<ref name="Zrádce omlouvá vlastní zradu, vrací Zeman úder Sobotkovi" /><ref>{{cite web|title=Zeman a Babiš jsou na stejné vlně, škodí ČSSD, míní Chovanec|url=http://echo24.cz/a/wzpXu/zeman-a-babis-jsou-na-stejne-vlne-skodi-cssd-mini-chovanec|website=Echo24|accessdate=22 May 2017|language=cs|date=5 November 2016}}</ref><ref>{{cite web|title=ČSSD uvažuje o vlastním kandidátovi na Hrad|url=https://www.novinky.cz/domaci/437929-cssd-uvazuje-o-vlastnim-kandidatovi-na-hrad.html|website=Novinky.cz|accessdate=22 May 2017|language=cs}}</ref>
+
+==References==
+{{reflist}}
+{{Václav Klaus}}
+{{Miloš Zeman}}
+{{Candidates in the Czech presidential election, 2003}}
+{{Czech presidential elections}}
+
+[[Category:2003 Czech presidential election| ]]
+[[Category:2003 elections in the Czech Republic|Presidential election]]
+[[Category:2003 in the Czech Republic|Presidential election]]
+[[Category:Indirect presidential elections|Czech presidential election, 2003]]
+[[Category:Presidential elections in the Czech Republic|2003]]
+[[Category:January 2003 in Europe|Czech presidential election]]
+[[Category:February 2003 in Europe|Czech presidential election]]

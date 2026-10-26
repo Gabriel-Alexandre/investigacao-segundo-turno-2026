@@ -1,0 +1,55 @@
+{{Short description|none}}
+{{Use dmy dates|date=July 2025}}
+{{Infobox election
+| election_name = 1997 Slovenian presidential election
+| country = Slovenia
+| type = presidential
+| ongoing = no
+| previous_election = 1992 Slovenian presidential election
+| previous_year = 1992
+| next_election = 2002 Slovenian presidential election
+| next_year = 2002
+| election_date = 23 November 1997
+| image1            = [[File:Milan Kučan EP (cropped).jpg|160x150px]]
+| nominee1          = '''[[Milan Kučan]]'''
+| party1            = Independent (politician)
+| popular_vote1     = '''578,925'''
+| percentage1       = '''55.54%'''
+| image2            = [[File:Janez Podobnik 2007.jpg|160x150px]]
+| nominee2          = [[Janez Podobnik]]
+| party2            = Slovenian People's Party
+| popular_vote2     = 191,645
+| percentage2       = 18.39%
+| title             = [[President of Slovenia|President]]
+| before_election   = [[Milan Kučan]]
+| before_party      = Independent (politician)
+| after_election    = [[Milan Kučan]]
+| after_party       = Independent (politician)
+}} 
+{{Politics of Slovenia}}
+Presidential elections were held in [[Slovenia]] on 23 November 1997. The result was a victory for incumbent [[Milan Kučan]], who won 55.54% of the vote. Voter turnout was 68.65%.<ref>[http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/SIPR19921_Display&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/SIPR19921_Display_C1&top=yes Dataset: Slovenia: Presidential Election 1997] {{Webarchive|url=https://web.archive.org/web/20190306015605/http://eed.nsd.uib.no/webview/index.jsp?study=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfStudy%2FSIPR19921_Display&mode=cube&v=2&cube=http%3A%2F%2F129.177.90.166%3A80%2Fobj%2FfCube%2FSIPR19921_Display_C1&top=yes |date=6 March 2019 }} European Elections Database</ref>
+
+==Results==
+{{Election results
+|cand1=[[Milan Kučan]]|party1=Independent|votes1=578925
+|cand2=[[Janez Podobnik]]|party2=[[Slovenian People's Party]]|votes2=191645
+|cand3=Jozef Bernik|party3=[[Slovenian Democratic Party|SDSS]]–[[Slovene Christian Democrats|SKD]]|votes3=98996
+|cand4=Marjan Cerar|party4=Independent|votes4=73439
+|cand5=Marjan Poljsak|party5=National Labour Party|votes5=33477
+|cand6=Anton Persak|party6=[[Democratic Party of Slovenia]]|votes6=32039
+|cand7=Bogomir Kovac|party7=[[Liberal Democracy of Slovenia]]|votes7=28110
+|cand8=Franc Miklavcic|party8=Christian-Social Union|votes8=5713
+|invalid=22102
+|electorate=1550592
+|source=[https://web.archive.org/web/20110815124035/http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/SIPR19921_Display&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/SIPR19921_Display_C1&top=yes European Elections Database]
+}}
+
+==References==
+{{reflist}}
+
+{{Slovenian elections}}
+
+[[Category:1997 elections in Europe|Slovenia]]
+[[Category:1997 in Slovenia]]
+[[Category:Presidential elections in Slovenia]]
+[[Category:December 1997 in Europe]]

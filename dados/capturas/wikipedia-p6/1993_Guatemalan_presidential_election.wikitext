@@ -1,0 +1,52 @@
+{{short description|none}}
+{{Infobox election
+| country = Guatemala
+| type = presidential
+| previous_election = 1990–91 Guatemalan general election
+| previous_year = 1990
+| next_election = 1995 Guatemalan general election
+| next_year = 1995
+| election_date = 5 June 1993
+| image1 = FiRetrato de Ramiro de León Carpio como Procurador de los Derechos Humanos de Guatemala (1987-1993)(cropped).jpg
+| nominee1 = {{nowrap|'''[[Ramiro de León Carpio]]'''}}
+| electoral_vote1 = '''106'''
+| percentage1 = '''100%'''
+| party1 = Independent politician
+| alliance1 = [[National Advancement Party|PAN]]–[[Solidarity Action Movement|MAS]]–[[Guatemalan Republican Front|FRG]]–[[National Liberation Movement (Guatemala)|MLN]]
+| running_mate1 = '''[[Arturo Herbruger]]'''
+
+| title = President
+| before_election = [[Jorge Serrano Elías|Jorge Serrano]]
+| before_party = Solidarity Action Movement
+| posttitle = Acting President
+| after_election = [[Ramiro de León Carpio|Ramiro de León]]
+| after_party = Independent politician
+}}{{Politics of Guatemala}}
+
+Indirect presidential elections were held in [[Guatemala]] on 5 June 1993. They were sparked by the [[1993 Guatemalan constitutional crisis]] in which President [[Jorge Serrano Elías]] had attempted a [[self-coup]]. The result was a victory for [[Ramiro de León Carpio]], who won unopposed in the second round of voting, whilst the army-backed [[Arturo Herbruger]] was elected vice-president.<ref>Torres Rivas, Edelberto. 1996. “Guatemala: democratic governability.” ''Constructing democratic governance: Latin America and the Caribbean in the 1990s''. 1996. Baltimore: Johns Hopkins University Press. Part IV. Pp. 58.</ref>
+
+==Results==
+{{Election results
+|cand1=[[Ramiro de León Carpio]]|party1=[[National Advancement Party|PAN]]–[[Solidarity Action Movement|MAS]]–[[Guatemalan Republican Front|FRG]]–[[National Liberation Movement (Guatemala)|MLN]]|votes1=64|votes1_2=106
+|cand2=[[Arturo Herbruger]]|party2=[[Guatemalan Christian Democracy|DCG]]–[[National Centre Union|UCN]]|votes2=51
+|invalid=0
+|electorate=116
+}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*Dosal, Paul J. Power in transition: the rise of Guatemala’s industrial oligarchy, 1871-1994. Westport: Praeger. 1995.
+*Fischer, Edward F. Cultural logics and global economies: Maya identity in thought and practice. Austin: University of Texas Press, Austin. 2001.
+*Keesing’s record of world events June 1993.
+*McCleary, Rachel M. Dictating democracy: Guatemala and the end of violent revolution. Gainesville: University Press of Florida. 1999.
+*Steigenga, Timothy J. The politics of the spirit: the political implications of pentecostalized religion in Costa Rica and Guatemala. Lanham, Maryland: Lexington Books. 2001.
+*Villagrán Kramer, Francisco. Biografía política de Guatemala: años de guerra y años de paz. Guatemala: FLACSO. 2004.
+*Warren, Kay B. Indigenous movements and their critics: Pan-Maya activism in Guatemala. Princeton: Princeton University Press. 1998.
+
+{{Guatemalan elections}}
+
+[[Category:Presidential elections in Guatemala]]
+[[Category:1993 in Guatemala|Presidential]]
+[[Category:1993 elections in Central America|Guatemala]]

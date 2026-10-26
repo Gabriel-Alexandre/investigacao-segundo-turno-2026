@@ -1,0 +1,472 @@
+{{Short description|none}}
+{{Infobox election
+| country = Romania
+| previous_election = 1990 Romanian general election
+| previous_year = 1990
+| next_election = 1996 Romanian general election
+| next_year = 1996 
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 27 September 1992 (first round)<br />11 October 1992 (second round)
+| turnout = 76.29% (first round) {{decrease}}9.91[[percentage points|pp]]<br />73.23% (second round)
+
+| image1 = Ion Iliescu (2004) (cropped).jpg
+| nominee1 = '''[[Ion Iliescu]]'''
+| colour1 = D13137
+| party1 = [[Democratic Front of National Salvation|FDSN]]  
+| alliance1 = 
+| popular_vote1 = '''7,393,429'''
+| percentage1 = '''61.43%'''
+
+| image2 = EConstantinescu.JPG
+| nominee2 =  {{nowrap|[[Emil Constantinescu]]}}
+| party2 = Romanian Democratic Convention
+| popular_vote2 = 4,641,207
+| percentage2 = 38.57%
+| map_image =  1992 Romanian Presidential Election 2nd round.svg
+| map_caption = {{col-begin}}
+{{col-2}}
+'''Iliescu:'''
+{{legend|#ea7982|50–60%}}
+{{legend|#e04350|60–70%}}
+{{legend|#cb1d2b|70–80%}}
+{{legend|#ab000e|80–90%}}
+{{col-2}}
+'''Constantinescu:'''
+{{legend|#87bfd9|50–60%}}
+{{legend|#5ca8cb|60–70%}}
+{{legend|#247195|80–90%}}
+{{col-end}}
+| title = [[President of Romania|President]]
+| before_election = [[Ion Iliescu]]
+| after_election = [[Ion Iliescu]]
+| before_party = Independent politician
+| after_party = Independent politician
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| seats_for_election = All 143 seats in the [[Senate of Romania|Senate]] <br /> All 341 seats in the [[Chamber of Deputies (Romania)|Chamber of Deputies]]
+| election_date = 27 September 1992
+
+| heading1 = Chamber of Deputies
+| party1 = Democratic National Salvation Front
+| leader1 = [[Ion Iliescu]]
+| percentage1 = 27.75
+| seats1 = 117
+| last_election1 = New
+| party2 = Romanian Democratic Convention
+| leader2 = [[Emil Constantinescu]]
+| percentage2 = 20.05
+| seats2 = 82
+| last_election2 = 51
+| party3 = National Salvation Front (Romania)
+| leader3 = [[Petre Roman]]
+| percentage3 = 10.17
+| seats3 = 43
+| last_election3 = 263
+| party4 = Romanian National Unity Party
+| leader4 = [[Gheorghe Funar]]
+| percentage4 = 7.73
+| seats4 = 30
+| last_election4 = 9
+| party5 = Democratic Alliance of Hungarians in Romania
+| leader5 = Géza Domokos
+| percentage5 = 7.48
+| seats5 = 27
+| last_election5 = 29
+| party6 = Greater Romania Party
+| leader6 = {{nowrap|[[Corneliu Vadim Tudor]]}}
+| percentage6 = 3.90
+| last_election6 = New
+| seats6 = 16
+| party7 = Socialist Party of Labour
+| leader7 = [[Ilie Verdeț]]
+| percentage7 = 3.03
+| seats7 = 13
+| last_election7 = New
+| party8 = Romanian ethnic minority parties
+| percentage8 = 2.00
+| seats8 = 13
+| last_election8 = 11
+| heading9 = Senate
+| party9 = Democratic National Salvation Front
+| last_election9=New
+| leader9 = [[Ion Iliescu]]
+| percentage9 = 28.31
+| seats9 = 49
+| party10 = Romanian Democratic Convention
+| leader10 = [[Emil Constantinescu]]
+| percentage10 = 20.19
+| seats10 = 34
+| last_election10 = 12
+| party11 = National Salvation Front (Romania)
+| leader11 = [[Petre Roman]]
+| percentage11 = 10.38
+| seats11 = 18
+| last_election11 = 91
+| party12 = Romanian National Unity Party
+| leader12 = [[Gheorghe Funar]]
+| percentage12 = 8.13
+| seats12 = 14
+| last_election12 = 2
+| party13 = Democratic Alliance of Hungarians in Romania
+| leader13 = Géza Domokos
+| percentage13 = 7.60
+| seats13 = 12
+| last_election13 = 12
+| party14 = Greater Romania Party
+| leader14 = {{nowrap|[[Corneliu Vadim Tudor]]}}
+| last_election14=New
+| percentage14 = 3.86
+| seats14 = 6
+| party15 = Democratic Agrarian Party of Romania
+| leader15 = [[Victor Surdu]]
+| percentage15 = 3.29
+| seats15 = 5
+| last_election15 = 0
+| party16 = Socialist Party of Labour
+| leader16 = [[Ilie Verdeț]]
+| percentage16 = 3.18
+| seats16 = 5
+| last_election16 = New
+
+| map = [[File:1992 Romanian Chamber of Deputies election.svg|230px]][[File:1992 Romanian Senate election.svg|230px]]
+| map_caption = The results for the [[Chamber of Deputies (Romania)|Chamber of Deputies]] and for the [[Senate of Romania|Senate]]
+
+| title = [[Prime Minister of Romania|Prime Minister]]
+| posttitle = [[Prime Minister of Romania|Prime Minister]]-designate
+| before_election = [[Theodor Stolojan]]
+| after_election = [[Nicolae Văcăroiu]]
+| before_party = National Salvation Front (Romania)
+| after_party = [[Democratic National Salvation Front|FDSN]]
+}}}}}}
+
+General elections were held in Romania on 27 September 1992, with a second round of the presidential election on 11 October.<ref name=NS>{{Cite book |last1=Nohlen |first1=Dieter |last2=Stöver |first2=Philip |author-link=Dieter Nohlen |title=Elections in Europe: A data handbook |date=2010 |publisher=Nomos |isbn=978-3-8329-5609-7 |location=[[Baden-Baden]], Germany |page=1591 |oclc=617565273}}</ref> They were the first held after the adoption of [[Constitution of Romania|a permanent constitution]] via a referendum held [[1991 Romanian constitutional referendum|the previous winter]].
+
+Incumbent President [[Ion Iliescu]] led the field in the first round, but was forced into a run off with [[Emil Constantinescu]], candidate of the oppositional [[Romanian Democratic Convention]] (CDR). Constantinescu ran on a quicker transition to a [[market economy]] and purging remaining communist influence from the government. He benefited from a marked downturn in Iliescu's popularity tied to both high unemployment and concerns that Iliescu was wavering in his commitment to democracy.<ref>{{cite news|url=https://www.nytimes.com/1992/09/28/world/romanians-vote-but-runoff-is-expected.html|title=Romanians Vote but Runoff Is Expected|work=[[The New York Times]]|date=28 September 1992}}</ref><ref>{{cite news|url=https://www.nytimes.com/1992/10/06/world/romanian-vote-inconclusive-runoff-planned-next-sunday.html|title=Romanian Vote Inconclusive; Runoff Planned Next Sunday|work=[[The New York Times]]|date=6 October 1992}}</ref>
+
+Despite this, opinion polls ahead of the runoff suggested that Iliescu was favoured for a second full term. Not only was it believed that his 16-point first-round lead was too large for Constantinescu to overcome, but most of the minor candidates were expected to eventually offer their support to Iliescu in the second round.<ref>{{cite news|url=https://www.nytimes.com/1992/10/11/world/president-favored-in-romanian-runoff-today.html|title=President Favored In Romanian Runoff Today|work=[[The New York Times]]|date=11 October 1992}}</ref> In the end, Iliescu was reelected with 61 percent of the vote. The 1992 Romanian presidential election was the second of its kind held in post-1989 Romania.
+
+In the parliamentary election, Iliescu's [[Democratic National Salvation Front]] (FDSN), which had split off from the [[National Salvation Front (Romania)|National Salvation Front]] (FSN) earlier in the year, emerged as the largest party in Parliament, winning 117 of the 341 seats in the [[Chamber of Deputies (Romania)|Chamber of Deputies]] and 49 of the 143 seats in the [[Senate of Romania|Senate]].
+
+==Presidential candidates==
+===Participating candidates===
+<section begin="candidates" />
+{| class="wikitable sortable"  style="text-align:center;"
+|-
+! Name
+! Lifespan
+! class="unsortable" | Public Administration Experience
+! Affiliation and endorsements
+! class="unsortable" | [[Alma mater]] and profession
+! Candidacy <br /> {{small|Announcement dates}}
+|-
+|{{hs|Iliescu}}[[File:Ion Iliescu (2004) (cropped).jpg|x160px]]<br />'''[[Ion Iliescu]]'''
+|Born: {{dts|1930|03|03|format=dmy}}<br />(age {{age|1930|03|03|1992|10|11}})<br />[[Oltenița]], [[Călărași County]]
+|'''President of Romania (1989–election day)'''<br />President of Water Surfaces Management Council (1979–1984)<br />'''Member of the [[State Council of Romania|State Council]] (full member: 1979–1980, observative: 1974–1979)'''<br />President of [[Iași County]] Council (1974–1979)<br />Vice-President of [[Timiș County]] Council (1971–1974)<br />'''Minister of Youth (1967–1971)'''<br />[[Great National Assembly (Socialist Republic of Romania)|Deputy]] (1957–1961, 1965–1973, 1975–1985)<br /><small>'''Former presidential election:'''<br />[[1990 Romanian general election|1990]]: 85.1% (winner)</small>
+|Affiliation: [[Democratic National Salvation Front|FDSN]]
+|Energy Institute, [[Moscow State University]] (1954)<br /><br />fluid mechanics engineer,<br />publishing house manager
+|
+|-
+|{{hs|Constantinescu}}[[File:EConstantinescu.JPG|x160px]]<br />'''[[Emil Constantinescu]]'''
+|Born: {{dts|1939|11|19|format=dmy}}<br />(age {{age|1939|11|19|1992|10|11}})<br />[[Bender, Moldova|Tighina]] (today: de jure, [[Republic of Moldova]]; de facto [[Transnistria|Pridnestrovian Moldavian Republic]])
+|'''Rector of [[University of Bucharest]] (1992–election day)'''
+|Affiliation: [[Romanian Democratic Convention|CDR]]
+|Faculty of Law, [[University of Bucharest]] (1960)<br />Faculty of Geology, [[University of Bucharest]] (1966)<br /><br />geology professor
+|
+|-
+|{{hs|Funar}}[[File:Blank.png|x160px]]<br />'''[[Gheorghe Funar]]'''
+|Born: {{dts|1949|09|29|format=dmy}}<br />(age {{age|1949|09|29|1992|09|27}})<br />[[Sânnicolau Mare]], [[Timiș County]]
+|'''Mayor of [[Cluj-Napoca]] (1992–election day)'''
+|Affiliation: [[Romanian National Unity Party|PUNR]]
+|Faculty of Economics and Business Management, [[Babeș-Bolyai University]], [[Cluj-Napoca]]<br /><br />economist
+|
+|-
+|{{hs|Dragomir}}[[File:Blank.png|x160px]]<br />'''[[:ro:Caius Traian Dragomir|Caius Traian Dragomir]]'''
+|Born: {{dts|1939|07|16|format=dmy}}<br />(age {{age|1939|07|16|1992|09|27}})<br />[[Slatina, Romania|Slatina]], [[Olt County]]
+|'''State Secretary for Public Information with the [[Government of Romania]] (1991–election day)'''
+|Affiliation: none<br />Endorsed by: [[National Salvation Front (Romania)|FSN]]
+|[[Carol Davila University of Medicine and Pharmacy]], [[Bucharest]] (1963)<br /><br />physicist<br />poet
+|
+|-
+|{{hs|Druc}}[[File:Blank.png|x160px]]<br />'''[[Mircea Druc]]'''
+|Born: {{dts|1941|07|25|format=dmy}}<br />(age {{age|1941|07|25|1992|09|27}})<br />[[Pociumbăuți]], [[Rîșcani District]], [[Republic of Moldova]]
+|'''[[Prime Minister of Moldova|Prime Minister of the Moldavian SSR]]''' (1990–1991)
+|Affiliation: none<br />Endorsed by: [[Ecological Movement of Romania|MER]]
+|Faculty of History and Philology, [[Moldova State University]], [[Chișinău]] (1960)<br />Faculty of Philology, [[Saint Petersburg State University]] (1964)<br /><br />administrative sciences professor 
+|
+|-
+|{{hs|Mânzatu}}[[File:Blank.png|x160px]]<br />'''[[:ro:Ioan Mânzatu|Ioan Mânzatu]]'''
+|Born: {{dts|1932|08|11|format=dmy}}<br />(age {{age|1932|08|11|1992|09|27}})<br />[[Bobâlna]], [[Cluj County]]
+|'''Vice-President of Romania (1990)'''
+|Affiliation: [[Republican Party (Romania)|Republican Party]]
+|Faculty of Physics, [[Babeș-Bolyai University]]<br /><br />physics professor 
+|
+|}<section end="candidates" />
+
+=== Withdrawn candidates ===
+
+<section begin="withdrawn" />
+{| class="wikitable sortable"  style="text-align:center;"
+|-
+! Name
+! Lifespan
+! class="unsortable" | Public Administration Experience
+! Affiliation and endorsements
+! class="unsortable" | [[Alma mater]] and profession
+! Candidacy <br /> {{small|Announcement dates}}
+|-
+|{{hs|Lup}}[[File:Blank.png|x160px]]<br />'''[[:ro:Ioan Lup|Ioan Lup]]'''
+|
+|
+|Affiliation: [[Christian Democratic National Peasants' Party|PNȚCD]]
+|
+|Intention: {{dts|1992|6|25|format=dmy}}<ref name="RL">{{Cite web |last=Pădurean |first=Claudiu |date=2017-01-18 |title=Marea greșeală a lui Corneliu Coposu: A împiedicat candidatura lui Ion Rațiu la Președinția României, din partea Convenției |trans-title=The big mistake of Corneliu Coposu: He obstructed Ion Rațiu's candidacy for the Presidency of Romania, from the Convention |url=https://romanialibera.ro/aldine/history/marea-greseala-a-lui-corneliu-coposu--a-impiedicat-candidatura-lui-ion-ratiu-la-presedintia-romaniei-din-partea-conventiei-438462 |url-status=live |archive-url=https://web.archive.org/web/20170119100956/https://romanialibera.ro/aldine/history/marea-greseala-a-lui-corneliu-coposu--a-impiedicat-candidatura-lui-ion-ratiu-la-presedintia-romaniei-din-partea-conventiei-438462 |archive-date=2017-01-19 |access-date=2020-08-31 |website=[[România Liberă]] |language=ro |df=dmy-all}}</ref><br />Withdrawal: {{dts|1992|6|25|format=dmy}}<ref name="RL" /><br />Endorsed [[Ion Rațiu]]: {{dts|1992|6|25|format=dmy}}<br />Endorsed [[Emil Constantinescu]]: {{dts|1992|6|27|format=dmy}}
+|-
+|{{hs|Stăncescu}}[[File:Blank.png|x160px]]<br />'''[[Nicu Stăncescu]]'''
+|
+|
+|Affiliation: Party of Democratic Unity
+|
+|Withdrawal: {{dts|1992|6|27|format=dmy}}<ref name="RL" /><br />Endorsed [[Emil Constantinescu]]: {{dts|1992|6|27|format=dmy}}
+|-
+|{{hs|Cunescu}}[[File:Blank.png|x160px]]<br />'''[[Sergiu Cunescu]]'''
+|Born: {{dts|1923|03|16|format=dmy}}<br />(age {{age|1923|03|16|1992|09|27}}), [[Bucharest]]<br />Died: {{dts|2005|03|16|format=dmy}}
+|
+|Affiliation: [[Romanian Social Democratic Party (1990–2001)|PSDR]]
+|Faculty of Electromagnetics, [[Politehnica University of Bucharest]]<br /><br />combustion engine engineer
+|Withdrawal: {{dts|1992|6|27|format=dmy}}<ref name="RL" /><br />Endorsed [[Emil Constantinescu]]: {{dts|1992|6|27|format=dmy}}
+|-
+|{{hs|Manolescu}}[[File:Nicolae manolescu color.jpg|x160px]]<br />'''[[Nicolae Manolescu]]'''
+|Born: {{dts|1939|11|27|format=dmy}}<br />(age {{age|1939|11|27|1992|09|27}})<br />[[Râmnicu Vâlcea]], [[Vâlcea County]]
+|
+|Affiliation: [[:ro:Partidul Alianța Civică|Civic Alliance Party]]
+|Faculty of Philology, [[University of Bucharest]] (1962)<br /><br />writer, book critic
+|Withdrawal: {{dts|1992|6|27|format=dmy}}<ref name="RL" /><br />Endorsed [[Emil Constantinescu]]: {{dts|1992|6|27|format=dmy}}
+|-
+|{{hs|Rațiu}}[[File:Ion Ratiu.jpg|x160px]]<br />'''[[Ion Rațiu]]'''
+|Born: {{dts|1917|06|06|format=dmy}}<br />(age {{age|1917|6|6|1992|09|27}}), [[Turda]], [[Cluj County]]<br />Died: {{dts|2000|01|17|format=dmy}}, [[London]]
+|Chancellor at Romanian Embassy in UK (1940)
+|Affiliation: [[Christian Democratic National Peasants' Party|PNȚCD]]
+|Faculty of Law, [[Babeș-Bolyai University]], [[Cluj-Napoca]] (1938)<br />Faculty of Economics, [[University of Cambridge]] (1943)<br /><br />lawyer, economist, journalist
+|Intention: {{dts|1992|6|25|format=dmy}}<ref name="RL" /><br />Withdrawal: {{dts|1992|6|27|format=dmy}}<ref>{{Cite web |last=Pop |first=Alina |date=2015-01-15 |title=Trădare sau democrație? Secretele refuielilor politice dintre foștii mari lideri țărăniști și bunii prieteni Ion Rațiu și Corneliu Coposu |trans-title=Treason or democracy? The secrets of the political feuds between the former great peasant leaders and good friends Ion Rațiu and Corneliu Coposu |url=https://adevarul.ro/locale/zalau/tradare-democratiei-secretele-refuielilor-politice-fostii-mari-lideri-taranisti-bunii-prieteni-ion-ratiu-corneliu-coposu-1_54be86dc448e03c0fdc95139/index.html |url-status=live |archive-url=https://web.archive.org/web/20150416182430/https://adevarul.ro/locale/zalau/tradare-democratiei-secretele-refuielilor-politice-fostii-mari-lideri-taranisti-bunii-prieteni-ion-ratiu-corneliu-coposu-1_54be86dc448e03c0fdc95139/index.html |archive-date=2015-04-16 |access-date=2020-08-31 |website=[[Adevărul]] |language=ro |df=dmy-all}}</ref><br />Endorsed [[Emil Constantinescu]]: {{dts|1992|6|27|format=dmy}}
+|}<section end="withdrawn" />
+
+==Results==
+===President===
+[[File:Romanian presidential election 1992 - first round.svg|Presidential election - First round|thumb|270px]]
+[[File:Romanian presidential election 1992 - second round.svg|Presidential election - Second round|thumb|270px]]
+[[File:Romanian presidential election 1992 - Iliescu.svg|thumb|right|[[Ion Iliescu]]'s first round vote share by county]]
+[[File:Romanian presidential election 1992 - Constantinescu.svg|thumb|right|[[Emil Constantinescu]]'s first round vote share by county]]
+[[File:Romanian presidential election 1992 - Funar.svg|thumb|right|[[Gheorghe Funar]]'s first round vote share by county]]
+Gheorghe Funar and Ioan Mânzatu openly endorsed Ion Iliescu in the second round.
+
+{{Election results
+|cand1=[[Ion Iliescu]]|party1=[[Democratic National Salvation Front]]|votes1=5633465|votes1_2=7393429
+|cand2=[[Emil Constantinescu]]|party2=[[Romanian Democratic Convention]]|votes2=3717006|votes2_2=4641207
+|cand3=[[Gheorghe Funar]]|party3=[[Romanian National Unity Party]]|votes3=1294388
+|cand4={{ill|Caius-Traian Dragomir|ro}}|party4=[[National Salvation Front (Romania)|National Salvation Front]]|votes4=564655
+|cand5={{ill|Ioan Mânzatu|ro}}|party5=[[Republican Party (Romania, 1990)|Republican Party]]|votes5=362485|color5=red
+|cand6=[[Mircea Druc]]|party6=Independent|votes6=326866
+|invalid=597565|invalid2=119174
+|electorate=16380663|electorate2=16597508
+|source=Nohlen & Stöver
+}}
+{{bar box|title=Vote share|titlebar=#ddd|width=600px|barwidth=500px|bars= 
+{{Bar gap|{{center|Second round}}}}
+{{bar percent|'''Iliescu'''|{{party color|Democratic National Salvation Front}}|61.43}}
+{{bar percent|Constantinescu|{{party color|Romanian Democratic Convention}}|38.57}}
+{{Bar gap|{{center|First round}}}}
+{{bar percent|{{underline|Iliescu}}|{{party color|Democratic National Salvation Front}}|47.34}}
+{{bar percent|{{underline|Constantinescu}}|{{party color|Romanian Democratic Convention}}|31.24}}
+{{bar percent|Funar|{{party color|Romanian National Unity Party}}|10.88}}
+{{bar percent|Dragomir|{{party color|National Salvation Front (Romania)}}|4.75}}
+{{bar percent|Mânzatu|red|3.05}}
+{{bar percent|Druc|{{party color|Independent (politician)}}|2.75}}
+}}
+
+=== Parliament ===
+
+==== Senate ====
+
+{{Election results
+|image=[[File:Romania Senate 1992.svg]]
+|party1=[[Democratic National Salvation Front]]|votes1=3091221|seats1=49|sc1=New
+|party2=[[Romanian Democratic Convention]]{{efn|Of the 34 seats won by the CDR, the [[Christian Democratic National Peasants' Party|PNȚCD]] won 21, the [[:ro:Partidul Alianța Civică|PAC]] 7, the [[:ro:Partidul Național Liberal-Convenția Democrată|PNL-CD]] 4, the [[:ro:Partidul Național Liberal-Aripa Tânără|PNL-AT]] 1, and the [[Romanian Social Democratic Party (1990–2001)|PSDR]] 1.}}|votes2=2204025|seats2=34|sc2=+22
+|party3=[[National Salvation Front (Romania)|National Salvation Front]]|votes3=1133355|seats3=18|sc3=–73
+|party4=[[Romanian National Unity Party]]|votes4=887597|seats4=14|sc4=+12
+|party5=[[Democratic Alliance of Hungarians in Romania]]|votes5=830193|seats5=12|sc5=0
+|party6=[[Greater Romania Party]]|votes6=421042|seats6=6|sc6=New
+|party7=[[Democratic Agrarian Party of Romania]]|votes7=359042|seats7=5|sc7=+5
+|party8=[[Socialist Party of Labour]]|votes8=347658|seats8=5|sc8=New
+|party9=[[National Liberal Party (Romania)|National Liberal Party]]|votes9=290866|seats9=0|sc9=–10
+|party10=[[Ecological Movement of Romania]]|votes10=231401|seats10=0|sc10=–1
+|party11=[[Republican Party (Romania, 1990)|Republican Party]]|votes11=205988|seats11=0|sc11=–|color11=red
+|party12=National Democratic Solidarity|votes12=97212|seats12=0|sc12=New
+|party13=[[Romanian Socialist Democratic Party]]|votes13=60708|seats13=0|sc13=–
+|party14=New Liberal Party|votes14=57213|seats14=0|sc14=New
+|party15=Party of Social Democratic Unity|votes15=51987|seats15=0|sc15=New
+|party16=[[Liberal Union–Brătianu]]|votes16=48222|seats16=0|sc16=–
+|party17=National Peasant Party|votes17=43360|seats17=0|sc17=New
+|party18=Liberal Monarchist Party of Romania|votes18=42561|seats18=0|sc18=New
+|party19=[[Party of the Roma]]|votes19=40946|seats19=0|sc19=New
+|party20=Convention of Social Solidarity|votes20=34491|seats20=0|sc20=New
+|party21=Democratic Cooperatist Party|votes21=30938|seats21=0|sc21=New
+|party22=Party for the Honouring of the Heroes of the Revolution and National Salvation|votes22=27513|seats22=0|sc22=–
+|party23=Republican Party of Romanian Unity|votes23=24009|seats23=0|sc23=New
+|party24=Traditional Social Democratic Party|votes24=23068|seats24=0|sc24=New
+|party25=National Party of Free Producers from Romania|votes25=20442|seats25=0|sc25=New
+|party26=General Union of Roma in Romania|votes26=19245|seats26=0|sc26=New
+|party27=Free Democratic Union of the Roma of Romania|votes27=18528|seats27=0|sc27=–
+|party28=Christian Republican Party|votes28=17332|seats28=0|sc28=–
+|party29=Democratic Romanian Front 16–20.XII.1989 Timișoara|votes29=16665|seats29=0|sc29=New
+|party30=[[Conservative Party (Romania)|Romanian Humanist Party]]|votes30=16484|seats30=0|sc30=New
+|party31=Movement for Romania|votes31=13922|seats31=0|sc31=New
+|party32=Free Republican Party|votes32=13401|seats32=0|sc32=New
+|party33=[[National Democratic Christian Party]]|votes33=13356|seats33=0|sc33=New
+|party34=Independent National Peasant Christian Democratic Party|votes34=12587|seats34=0|sc34=New
+|party35=Romanian Labour Party|votes35=12344|seats35=0|sc35=New
+|party36=Romanian Renaissance and Independence Party|votes36=12266|seats36=0|sc36=New
+|party37=Party of the Gypsies of Romania|votes37=10811|seats37=0|sc37=–
+|party38=[[Party of Free Change]]|votes38=8720|seats38=0|sc38=–
+|party39=Antitotalitarian Party 'Down the Nomenklatura'|votes39=8446|seats39=0|sc39=New
+|party40=Independent Social Democratic Party|votes40=8146|seats40=0|sc40=New
+|party41=National League of Expropriated of Romania|votes41=6210|seats41=0|sc41=New
+|party42=Alliance of National Dignity|votes42=5661|seats42=0|sc42=New
+|party43=United Democratic Convention|votes43=4968|seats43=0|sc43=New
+|party44=Christian Democratic Union|votes44=4738|seats44=0|sc44=–
+|party45=Party Democratic Future of the Motherland|votes45=4175|seats45=0|sc45=–
+|party46=Romanian Party for the New Society|votes46=3523|seats46=0|sc46=–
+|party47=Party of Labour|votes47=3256|seats47=0|sc47=–
+|party48=Party of Social Justice (New Democracy) of the North West of Romania|votes48=3247|seats48=0|sc48=–
+|party49=Party of Social Justice|votes49=3050|seats49=0|sc49=–
+|party50=Social Democratic Party "Titel Petrescu|votes50=2993|seats50=0|sc50=New
+|party51=[[Democratic Party of Labour]]|votes51=2933|seats51=0|sc51=–
+|party52=Humanitarian Party of Peace|votes52=2213|seats52=0|sc52=New
+|party53=Christian Democratic Party of the Revolution|votes53=1743|seats53=0|sc53=New
+|party54=Party of the Democratic Union of Moldova|votes54=1726|seats54=0|sc54=New
+|party55=Forum of Democracy and National Unity of Romania|votes55=1413|seats55=0|sc55=–
+|party56=Romanian Popular Democratic Realistic Revolutionary Party|votes56=1410|seats56=0|sc56=New
+|party57=Party of Heroes Fallen for the Freedom of the Alive Heroes, Affected by the Barbarian Bullets|votes57=913|seats57=0|sc57=New
+|party58=Party of Small Owners and Free Initiative of Romania|votes58=805|seats58=0|sc58=New
+|party59=Party of the National Right|votes59=648|seats59=0|sc59=New
+|party60=Independent Democratic Party|votes60=609|seats60=0|sc60=New
+|party61=[[Democratic Forum of Germans in Romania|Democratic Forum of Germans]]|votes61=558|seats61=0|sc61=–
+|party62=Party Movement 'Motherland's Shield'|votes62=493|seats62=0|sc62=New
+|party63=National Romanian Party|votes63=397|seats63=0|sc63=–
+|party64=Democratic Alliance of the Roma Party|votes64=258|seats64=0|sc64=New
+|party65=Conservative Humanistic Party|votes65=138|seats65=0|sc65=New
+|party66=Independents|votes66=52327|seats66=0|sc66=–1
+|invalid=1554725
+|total_sc=+24
+|electorate=16380663
+|source=AEP
+}}
+
+{{notelist}}
+
+==== Chamber of Deputies ====
+
+{{Election results
+|image=[[File:Romania Parliament 1992.svg]]
+|party1=[[Democratic National Salvation Front]]|votes1=3003573|seats1=117|sc1=New
+|party2=[[Romanian Democratic Convention]]{{efn|Of the 82 seats won by the CDR, the [[Christian Democratic National Peasants' Party|PNȚCD]] won 41, the [[:ro:Partidul Alianța Civică|PAC]] 13, the [[:ro:Partidul Național Liberal-Aripa Tânără|PNL-AT]] 11, the [[Romanian Social Democratic Party (1990–2001)|PSDR]] 10, the [[Ecologist Party of Romania|PER]] 4, and the [[:ro:Partidul Național Liberal-Convenția Democrată|PNL-CD]] 3.}}|votes2=2170289|seats2=82|sc2=+60
+|party3=[[National Salvation Front (Romania)|National Salvation Front]]|votes3=1101425|seats3=43|sc3=–220
+|party4=[[Romanian National Unity Party]]|votes4=836547|seats4=30|sc4=+21
+|party5=[[Democratic Alliance of Hungarians in Romania]]|votes5=809653|seats5=27|sc5=–2
+|party6=[[Greater Romania Party]]|votes6=422136|seats6=16|sc6=New
+|party7=[[Socialist Party of Labour]]|votes7=328283|seats7=13|sc7=New
+|party8=[[Democratic Agrarian Party of Romania]]|votes8=322990|seats8=0|sc8=–9
+|party9=[[National Liberal Party (Romania)|National Liberal Party]]|votes9=284678|seats9=0|sc9=–29
+|party10=[[Ecological Movement of Romania]]|votes10=243740|seats10=0|sc10=–8
+|party11=[[Republican Party (Romania, 1990)|Republican Party]]|votes11=177056|seats11=0|sc11=–|color11=red
+|party12=[[Romanian Socialist Democratic Party]]|votes12=94154|seats12=0|sc12=–5
+|party13=National-Democratic Solidarity|votes13=78615|seats13=0|sc13=New
+|party14=New Liberal Party|votes14=63098|seats14=0|sc14=New
+|party15=[[Liberal Union–Brătianu]]|votes15=54673|seats15=0|sc15=–1
+|party16=[[Party of the Roma]]|votes16=52170|seats16=1|sc16=New
+|party17=Party of Social-Democratic Unity|votes17=50114|seats17=0|sc17=New
+|party18=National Peasant Party|votes18=48031|seats18=0|sc18=New
+|party19=Liberal Monarchist Party of Romania|votes19=38542|seats19=0|sc19=New
+|party20=Convention of Social Solidarity|votes20=35286|seats20=0|sc20=New
+|party21=[[Democratic Forum of Germans in Romania|Democratic Forum of Germans]]|votes21=34471|seats21=1|sc21=0
+|party22=Democratic Cooperatist Party|votes22=32446|seats22=0|sc22=New
+|party23=Free Democratic Union of the Roma of Romania|votes23=31060|seats23=0|sc23=0
+|party24=National Party of Free Producers from Romania|votes24=29688|seats24=0|sc24=New
+|party25=Party for the Honouring of the Heroes of the Revolution and National Salvation|votes25=25781|seats25=0|sc25=0
+|party26=Republican Party of Romanians Unity|votes26=23447|seats26=0|sc26=New
+|party27=[[Conservative Party (Romania)|Romanian Humanist Party]]|votes27=22908|seats27=0|sc27=New
+|party28=Traditional Social Democratic Party|votes28=21800|seats28=0|sc28=New
+|party29=General Union of Roma in Romania|votes29=21734|seats29=0|sc29=New
+|party30=Christian Republican Party|votes30=18633|seats30=0|sc30=0
+|party31=Romanian Labour Party|votes31=16439|seats31=0|sc31=New
+|party32=[[Community of the Lipovan Russians in Romania|Community of the Lipovan Russians]]|votes32=14861|seats32=1|sc32=0
+|party33=Independent National Peasant Christian Democratic Party|votes33=14828|seats33=0|sc33=New
+|party34=Democratic Romanian Front 16–20.XII.1989 Timișoara|votes34=14779|seats34=0|sc34=New
+|party35=Romanian Renaissance and Independence Party|votes35=13573|seats35=0|sc35=New
+|party36=Free Republican Party|votes36=13353|seats36=0|sc36=New
+|party37=Movement for Romania|votes37=12708|seats37=0|sc37=New
+|party38=[[Party of Free Change]]|votes38=12360|seats38=0|sc38=–1
+|party39=Independent Social Democratic Party|votes39=11497|seats39=0|sc39=New
+|party40=[[National Democratic Christian Party]]|votes40=11472|seats40=0|sc40=New
+|party41=Party of the Gypsies of Romania|votes41=9679|seats41=0|sc41=0
+|party42=[[Hellenic Union of Romania]]|votes42=8913|seats42=1|sc42=0
+|party43=United Democratic Convention|votes43=8863|seats43=0|sc43=New
+|party44=[[Democratic Union of Turkish-Muslim Tatars of Romania|Democratic Union of Turkish-Muslim Tatars]]|votes44=7688|seats44=1|sc44=0
+|party45=[[Union of the Ukrainians of Romania]]|votes45=7641|seats45=1|sc45=0
+|party46=Social Democratic Party "Constantin Titel Petrescu|votes46=7171|seats46=0|sc46=New
+|party47=[[Union of Armenians of Romania]]|votes47=7044|seats47=1|sc47=0
+|party48=National League of Expropriated of Romania|votes48=6886|seats48=0|sc48=New
+|party49=Alliance of National Dignity|votes49=6064|seats49=0|sc49=New
+|party50=Party of the National Right|votes50=5622|seats50=0|sc50=New
+|party51=Christian Democratic Union|votes51=5605|seats51=0|sc51=0
+|party52=[[Union of Serbs of Romania|Democratic Union of Serbs and Carasovenians of Romania]]|votes52=5306|seats52=1|sc52=0
+|party53=Romanian Party for the New Society|votes53=5250|seats53=0|sc53=0
+|party54=Independent Democratic Party|votes54=5140|seats54=0|sc54=New
+|party55=[[Democratic Union of Slovaks and Czechs of Romania]]|votes55=4662|seats55=1|sc55=0
+|party56=Antitotalitarian Party 'Down with the Nomenklatura'|votes56=4623|seats56=0|sc56=New
+|party57=Party Democratic Future of the Motherland|votes57=4322|seats57=0|sc57=0
+|party58=[[Italian Community of Romania]]|votes58=4111|seats58=1|sc58=New
+|party59=[[Democratic Party of Labour]]|votes59=3888|seats59=0|sc59=–1
+|party60=Forum of Democracy and National Unity of Romania|votes60=3180|seats60=0|sc60=0
+|party61=Party of Social Justice (New Democracy) of the North West of Romania|votes61=3063|seats61=0|sc61=0
+|party62=[[Union of Poles of Romania]]|votes62=2987|seats62=1|sc62=0
+|party63=Party 'Will of the People'|votes63=2704|seats63=0|sc63=New
+|party64=Party of Justice and Social Democracy of Romania|votes64=2687|seats64=0|sc64=New
+|party65=Party of Labour|votes65=2623|seats65=0|sc65=0
+|party66=[[Democratic Turkish Union of Romania|Turkish Muslim Democratic Union of Romania]]|votes66=2569|seats66=1|sc66=New
+|party67=Party of Social Justice|votes67=2525|seats67=0|sc67=0
+|party68=Party of the Democratic Union of Moldova|votes68=2358|seats68=0|sc68=New
+|party69=National Romanian Party|votes69=2201|seats69=0|sc69=0
+|party70=[[Bulgarian Union of Banat–Romania]]|votes70=1886|seats70=1|sc70=0
+|party71=National Movement 'Motherland's Shield' Party|votes71=1738|seats71=0|sc71=New
+|party72=Movement for European Integration|votes72=1367|seats72=0|sc72=New
+|party73=Humanitarian Party of Peace|votes73=1173|seats73=0|sc73=New
+|party74=Romanian Popular Democratic Realistic Revolutionary Party|votes74=1126|seats74=0|sc74=New
+|party75=Christian Democratic Party of the Revolution|votes75=1075|seats75=0|sc75=New
+|party76=Party of Small Owners and Free Initiative of Romania|votes76=651|seats76=0|sc76=New
+|party77=[[Union of Croats of Romania]]|votes77=217|seats77=0|sc77=New
+|party78=Conservative Humanistic Party|votes78=101|seats78=0|sc78=New
+|party79='Republican Tribune' Party|votes79=48|seats79=0|sc79=New
+|party80=Independents|votes80=57855|seats80=0|sc80=–1
+|invalid=1645820|sc81=–
+|total_sc=–54|sc82=–54
+|electorate=16380663|sc83=–
+|source=[http://alegeri.roaep.ro/?alegeri=alegeri-parlamentul-romaniei-1992 AEP]
+}}
+
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Romanian elections}}
+{{Ion Iliescu}}
+
+[[Category:Parliamentary elections in Romania]]
+[[Category:Presidential elections in Romania]]
+[[Category:1992 elections in Romania|General]]
+[[Category:September 1992 in Romania|General]]
+[[Category:October 1992 in Romania|General]]

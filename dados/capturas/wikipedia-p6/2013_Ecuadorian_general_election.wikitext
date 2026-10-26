@@ -1,0 +1,683 @@
+{{Short description|none}}
+{{Use dmy dates|date=February 2022}}
+{{Infobox election
+| country = Ecuador
+| type = presidential
+| previous_election = 2009 Ecuadorian general election
+| previous_year = 2009
+| next_election = 2017 Ecuadorian general election
+| next_year = 2017
+| election_date = 17 February 2013
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type  = presidential
+| image_size = 130x130px
+| registered = 11,675,441
+| turnout = 81.07% 
+
+| image1 = Rafael Correa, Ecuador expresident.jpg
+| nominee1 = '''[[Rafael Correa]]'''
+| party1 = PAIS Alliance
+| running_mate1 = '''[[Jorge Glas]]'''
+| popular_vote1 = '''4,918,482'''
+| percentage1 = '''57.17%'''
+
+| image2 = Guillermo Lasso (cropped).jpg
+| nominee2 = [[Guillermo Lasso]]
+| party2 = Creating Opportunities
+| running_mate2 = Juan Carlos Solines
+| popular_vote2 = 1,951,102
+| percentage2 = 22.68%
+
+| image3 = Lucio Gutiérrez (cropped).jpg
+| nominee3 = [[Lucio Gutiérrez]]
+| party3 = Patriotic Society Party
+| running_mate3 = Pearl Boyes Fuller
+| popular_vote3 = 578,875
+| percentage3 = 6.73%
+
+| map_image = Votos Presidente por Provincia Ecuador 2013.svg
+| map_size = 200px
+| map_caption = Results by [[Provinces of Ecuador|province]]
+
+| title = [[President of Ecuador|President]]
+| before_election = [[Rafael Correa]]
+| before_party = PAIS Alliance
+| after_election = [[Rafael Correa]]
+| after_party = PAIS Alliance
+}}
+}}{{Politics of Ecuador}}
+
+General elections were held in [[Ecuador]] on 17 February 2013 to elect the [[President of Ecuador|President]], the [[National Assembly of Ecuador|National Assembly]], Provincial Assemblies and members of the [[Andean Parliament]].<ref>{{Cite web |url=http://andes.info.ec/english/8486.html |title=To present, 85 institutions are authorized by the National Electoral Council to issue publications {{!}} ANDES<!-- Bot generated title --> |access-date=2012-11-05 |archive-url=https://archive.today/20130212195638/http://andes.info.ec/english/8486.html |archive-date=2013-02-12 |url-status=dead }}</ref> The incumbent President [[Rafael Correa]] was re-elected by a wide margin.<ref>{{cite news|last=Neuman|first=William|title=President Correa Handily Wins Re-election in Ecuador|url=https://www.nytimes.com/2013/02/18/world/americas/rafael-correa-wins-re-election-in-ecuador.html?_r=0|newspaper=The New York Times|date=17 February 2013}}</ref> Correa's closest electoral rival, [[Guillermo Lasso]], conceded the election shortly after it concluded.
+
+The vote had been set for January 2013, but was put back a month to allow a full year to elapse after the reform of election rules.<ref>{{cite news| url=http://uk.reuters.com/article/ecuador-election-idUKL2E8DOELU20120224 | work=Reuters | title=Ecuador's presidential election set for February 2013 | date=24 February 2012}}{{dead link|date=September 2024|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+This was the first election since [[1996 Ecuadorian general election|1996]] held after the natural expiration of a four-year presidential term. This was due to a decade of political and economical instability that Ecuador experienced after [[Abdalá Bucaram]] was impeached by the former [[Congress of Ecuador|Congress]], in late 1997, and that lasted until Correa's inauguration in early 2007.<ref name="LaRepública">[http://www.larepublica.ec/blog/politica/2014/01/17/los-7-anos-de-correa-en-ecuador-estabilidad-en-medio-de-exitos-y-criticas/ "Los 7 años de Correa en Ecuador: estabilidad en medio de éxitos y críticas"] 17 January 2014. ''La República''</ref>
+
+==Background==
+The call for general elections occurred on 18 October 2012. The election campaigns were officially launched on 4 January and ended on 14 February, as announced by CNE member Juan Pablo Pozo.<ref>{{Cite web |url=http://andes.info.ec/english/6231.html |title=Ecuador will convene for elections on October 18 {{!}} ANDES<!-- Bot generated title --> |access-date=2012-10-01 |archive-url=https://archive.today/20130212200212/http://andes.info.ec/english/6231.html |archive-date=2013-02-12 |url-status=dead }}</ref>
+
+Voters chose the president and vice president of the Republic, as well as national and provincial assembly members, members of the Andean Parliament, mayors, prefects, and other sectional officials.<ref>{{Cite web |url=http://www.ecuadortimes.net/2011/09/02/cne-introduced-2013-election-calendar/ |title=Ecuador Times - CNE Introduced 2013 Election Calendar |access-date=2012-06-02 |archive-url=https://web.archive.org/web/20160304193354/http://www.ecuadortimes.net/2011/09/02/cne-introduced-2013-election-calendar/ |archive-date=2016-03-04 |url-status=dead }}</ref>
+
+The seated President Correa, a two-term incumbent, is credited with bringing stability and prosperity to Ecuador's nearly 15 million people. A staunch friend of [[Venezuela]]'s [[Hugo Chavez]], he is usually described as "leftist" and "socialist." He is committed to poverty reduction through not just economic growth, but [[redistribution of wealth]] as well. As he told the CELAC Summit in 2015: 
+"For the first time in the history of humanity this poverty is no longer due to a lack of resources, but rather is the fruit of inequality, and this, in turn, the product of perverse relations of power, where few have it all and many have nothing at all.”<ref>{{Cite web|url=http://www.importantcool.com/sydney-to-celac-the-poverty-of-western-politics-and-the-rise-of-the-third-world/|title = Nothing2Hide – Just another WordPress site}}</ref>
+This approach has generated fervent support as well as hostility from wealthy sectors in Ecuador; for example, his [[land reform]] policies for giving unproductive land to poor peasants has worried agribusiness, particularly the large flower and banana producers. He has vastly expanded the number of workers on the [[Civil service|public sector]] and made health and education free for all Ecuadorians. Some have argued that Correa has clamped down on dissent in the country's [[news media]], although journalists in Ecuador are not risking their lives as they are in other countries of the region.<ref>{{cite news|last=Garcia |first=Eduardo |url=https://www.reuters.com/article/us-ecuador-election-idUSBRE91H0NL20130218 |title=Ecuador's re-elected Correa vows media and land reforms |publisher=Reuters |date=2013-02-18 |access-date=2013-02-22}}</ref><ref>{{cite news|author=Associated Press in Quito |url=https://www.theguardian.com/world/2013/feb/18/ecuador-president-heralds-citizen-revolution |title=Ecuador's President Rafael Correa says citizens will be in charge, not money &#124; World news &#124; guardian.co.uk |publisher=Guardian |date=2013-02-18 |access-date=2013-02-22 |location=London}}</ref> His government has run record-high deficits. In 2009, Correa became the first president of Ecuador to win re-election in nearly a half-century.<ref name="Gill">{{cite news|last=Gill |first=Nathan |url=https://www.bloomberg.com/news/2013-02-18/correa-re-elected-in-ecuador-on-vow-to-spend-amid-record-deficit.html |title=Ecuador Re-Elects Correa on Vow to Spend Amid Record Deficit |publisher=Bloomberg |access-date=2013-02-22}}</ref>
+
+===Democracy Code===
+In late 2012, Ecuador's Constitutional Court (CC) ruled on the adoption of the Democracy Code by a 6 to 3 vote in favor. The new resolution made the [[D'Hondt method]] of voting constitutional; therefore it was applied in the 2013 elections. The resolution also states that legal restrictions on the work of journalists during elections are unconstitutional.<ref>{{Cite web |url=http://www.ecuadortimes.net/2012/10/18/constitutional-court-resolves-democracy-code/ |title=Constitutional Court resolves Democracy Code {{!}} EcuadorTimes.net {{!}} Breaking News, Ecuador News, World, Sports, Entertainment<!-- Bot generated title --> |access-date=2012-10-19 |archive-url=https://web.archive.org/web/20121019153726/http://www.ecuadortimes.net/2012/10/18/constitutional-court-resolves-democracy-code/ |archive-date=2012-10-19 |url-status=dead }}</ref>
+
+==Presidential elections==
+
+===Candidates===
+Eight presidential candidates were registered in the National Electoral Council.<ref>{{Cite web |url=http://www.ecuadortimes.net/2013/01/04/the-electoral-race-for-votes-starts-today/ |title=The electoral race for votes starts today {{!}} EcuadorTimes.net {{!}} Breaking News, Ecuador News, World, Sports, Entertainment<!-- Bot generated title --> |access-date=2013-01-07 |archive-url=https://web.archive.org/web/20130107005942/http://www.ecuadortimes.net/2013/01/04/the-electoral-race-for-votes-starts-today/ |archive-date=2013-01-07 |url-status=dead }}</ref>  The candidates were: [[Rafael Correa]] of the [[PAIS Alliance]] movement, Guillermo Lasso of the [[Creating Opportunities]] movement, [[Lucio Gutiérrez]] of the [[January 21 Patriotic Society Party|PSP]] party, Alberto Acosta Espinoza, candidate of the [[Pachakutik Plurinational Unity Movement – New Country|Coordinating Committee of the Left]], {{ill|Norman Wray (politician)|lt=Norman Wray|es|Norman Wray}}, of the [[Movimiento Construye|Ruptura 25]] movement, Nelson Zavala, of the [[Ecuadorian Roldosist Party|Roldosist Party]], Mauricio Rodas, of the SUMA movement, and [[Álvaro Noboa]], of [[Institutional Renewal Party of National Action|PRIAN]].<ref>{{Cite web |url=http://andes.info.ec/english/road-and-meetings-eight-candidates-begin-their-race-ecuadorian-presidency.html |title=On the road and in meetings, eight candidates begin their race for the Ecuadorian presidency {{!}} ANDES<!-- Bot generated title --> |access-date=2013-01-07 |archive-url=https://web.archive.org/web/20130323112023/http://www.andes.info.ec/english/road-and-meetings-eight-candidates-begin-their-race-ecuadorian-presidency.html |archive-date=2013-03-23 |url-status=dead }}</ref>
+
+===Restrictions of the candidate's qualifications===
+The National Electoral Council (Spanish-language initials, CNE) approved the regulations for the registration and qualification of candidates running for President, Vice President, Assembly and the Andean Parliament for the election. The regulations established that candidates who have contracts with the State or have received final judgments for offenses penalized with imprisonment such as  bribery, illicit enrichment and embezzlement, would not be allowed to participate.<ref>{{Cite web |url=http://www.ecuadortimes.net/2012/10/03/cne-issues-new-restrictions-for-candidates-qualification/ |title=CNE issues new restrictions for candidates qualification {{!}} EcuadorTimes.net {{!}} Breaking News, Ecuador News, World, Sports, Entertainment<!-- Bot generated title --> |access-date=2012-10-06 |archive-url=https://web.archive.org/web/20160304142644/http://www.ecuadortimes.net/2012/10/03/cne-issues-new-restrictions-for-candidates-qualification/ |archive-date=2016-03-04 |url-status=dead }}</ref>
+
+==Parliamentary elections==
+Ecuadorians not only voted on 17 February for their president and vice-president, but as well as for 137 members of the national assembly; drawn from provinces, a national list, and six migrant spots, and for their five [[Andean Parliament]] representatives.<ref>[http://www.greenleft.org.au/node/52846 Ecuador: Correa launches re-election campaign, socialists give critical support {{!}} Green Left Weekly<!-- Bot generated title -->]</ref>
+
+==Opinion polls==
+Surveys generally attributed between 50% and 60% of the votes to President Correa. The seven other candidates lagged far behind; Correa's nearest rival, Guillermo Lasso, was credited with 10—20% of the vote.<ref>[http://www.humaniteinenglish.com/spip.php?article2238 Rafael Correa's new challenge]</ref>
+
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!Date
+!Institute
+![[Rafael Correa|Correa]]
+![[Guillermo Lasso|Lasso]]
+![[Lucio Gutiérrez|Gutiérrez]]
+!Acosta
+![[Álvaro Noboa|Noboa]]
+![[Mauricio Rodas|Rodas]]
+!Wray
+!Zavala
+|-
+|03/08/10
+|[https://web.archive.org/web/20101011135750/http://www.cedatos.com.ec/elecciones.html CEDATOS]
+|style="background:lightgreen"|'''38%'''
+|–
+|19%
+|–
+|2.9%
+|–
+|–
+|–
+|-
+|22/10/11
+|[https://web.archive.org/web/20120622075556/http://www.cedatos.com.ec/detalles_noticia.php?Id=85 CEDATOS]
+|style="background:lightgreen"|'''40%'''
+|2.6%
+|5%
+|–
+|3.1%
+|–
+|–
+|–
+|-
+|13/11/11
+|[http://es.scribd.com/doc/74935000/Estudio-de-la-Firma-Perfiles-de-Opinion Perfiles de Opinión]
+|style="background:lightgreen"|'''48.9%'''
+|–
+|3.5%
+|6.9%
+|3.6%
+|–
+|–
+|–
+|-
+|16/03/12
+|[https://web.archive.org/web/20120821143140/http://www.eltelegrafo.com.ec/index.php?option=com_zoo&task=item&item_id=39858&Itemid=2 CMS]
+|style="background:lightgreen"|'''48.56%'''
+|4.60%
+|8.09%
+|–
+|6.98%
+|0.52%
+|–
+|–
+|-
+|14/04/12
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=wap_news_view&id=172951 Opinión Pública]
+|style="background:lightgreen"|'''39%'''
+|–
+|6%
+|–
+|3%
+|–
+|–
+|–
+|-
+|29/04/12
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=172947&umt=82_ecuatorianos_califica_como_positiva_gestion_del_presidente_correa_afirma_paulina_recalde_audio Perfiles de Opinión]
+|style="background:lightgreen"|'''50%'''
+|1%
+|4%
+|4%
+|3%
+|–
+|–
+|–
+|-
+|31/05/12
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=175384&umt=encuesta_da_resultados_adversos_a_politicos_oposicion_en_proximas_elecciones_presidenciales Perfiles de Opinión]
+|style="background:lightgreen"|'''52%'''
+|6%
+|3%
+|2%
+|4%
+|1%
+|–
+|–
+|-
+|15/07/12
+|[http://www.larepublica.ec/blog/portada/2012/07/24/lasso-ya-encabeza-el-peloton-de-candidaturas-opuestas-a-correa/ Informe Confidencial]
+|style="background:lightgreen"|'''50%'''
+|17%
+|8%
+|3%
+|4%
+|1%
+|–
+|–
+|-
+|04/08/12
+|[https://web.archive.org/web/20120117064331/http://telegrafo.com.ec/index.php?option=com_zoo Opinión Pública]
+|style="background:lightgreen"|'''43%'''
+|7%
+|5%
+|2%
+|4%
+|–
+|–
+|–
+|-
+|05/08/12
+|[https://web.archive.org/web/20150402132838/http://www.ecuadorinmediato.com/Noticias/news_user_view/rafael_correa_lidera_la_preferencia_de_voto_a_nivel_nacional_para_el_2013_aseguran_encuestadoras_perfiles_de_opinion_y_santiago_perez_audio--179388 Perfiles de Opinión]
+|style="background:lightgreen"|'''53.4%'''
+|14.4%
+|3.3%
+|4.9%
+|6.7%
+|–
+|–
+|–
+|-
+|16/08/12
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=179890&umt=a_seis_meses_elecciones_presidenciales_rafael_correa_lidera_preferencias_afirma_encuestadora_cms CMS]
+|style="background:lightgreen"|'''41.75%'''
+|15.82%
+|8.22%
+|6.55%
+|5.72%
+|–
+|–
+|–
+|-
+|18/08/12
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=180666&umt=presidente_correa_supera_por_40_puntos_a_candidatos_a_presidencia_segun_encuestadoras Opinión Pública]
+|style="background:lightgreen"|'''44%'''
+|8%
+|4%
+|2%
+|3%
+|–
+|–
+|–
+|-
+|27/08/12
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=180212&umt=poledtica_no_figura_entre_prioridades_de_ecuatorianos2c_segfan_encuesta CEDATOS]
+|style="background:lightgreen"|'''38%'''
+|11%
+|6%
+|4%
+|3%
+|–
+|–
+|–
+|-
+|08/09/12
+|[https://web.archive.org/web/20150402104434/http://eltelegrafo.com.ec/index.php?option=com_zoo&task=item&item_id=53951&Itemid=2&tmpl=component&print=1 Opinión Pública]
+|style="background:lightgreen"|'''44%'''
+|9%
+|5%
+|2%
+|2%
+|0%
+|–
+|–
+|-
+|16/09/12
+|[http://www.larepublica.ec/blog/portada/2012/09/28/creo-proclama-a-guillermo-lasso-como-candidato-a-la-presidencia/ Informe Confidencial]
+|style="background:lightgreen"|'''48%'''
+|18%
+|8%
+|5%
+|4%
+|–
+|–
+|–
+|-
+|18/09/12
+|[https://web.archive.org/web/20121104204331/http://www.teleamazonas.com/index.php/noticias/nacionales/14587-encuestadoras-presentan-preferencias-electorales-para-el-2013 CMS]
+|style="background:lightgreen"|'''48%'''
+|10%
+|6%
+|–
+|2%
+|–
+|–
+|–
+|-
+|26/09/12
+|[http://andes.info.ec/pol%C3%ADtica/7544.html Perfiles de Opinión]
+|style="background:lightgreen"|'''55.5%'''
+|11.4%
+|6.5%
+|3.8%
+|2.7%
+|0.2%
+|–
+|–
+|-
+|30/09/12
+|[http://www.diariopinion.com/ultimahora/verArticulo.php?id=837217 Perfiles de Opinión]
+|style="background:lightgreen"|'''61.7%'''
+|12.6%
+|3.6%
+|2.6%
+|1.8%
+|–
+|–
+|–
+|-
+|07/10/12
+|[https://web.archive.org/web/20130306025934/http://www.vistazo.com/webpages/pais/?id=21859 CEDATOS]
+|style="background:lightgreen"|'''44%'''
+|18%
+|6.9%
+|6.5%
+|2.3%
+|–
+|–
+|–
+|-
+|09/10/12
+|{{usurped|1=[https://web.archive.org/web/20160304025345/http://twicsy.com/i/mdsgxc CMS]}}
+|style="background:lightgreen"|'''47.08%'''
+|11.03%
+|3.43%
+|4.54%
+|2.57%
+|–
+|–
+|–
+|-
+|15/10/12
+|[https://twitter.com/CIEESec/status/257952236519444482/photo/1 CIEES]
+|style="background:lightgreen"|'''51%'''
+|13%
+|8%
+|7%
+|5%
+|1%
+|–
+|–
+|-
+|22/10/12
+|[http://www.marketecuador.com/index.php/fe_elecciones/index Market]
+|style="background:lightgreen"|'''38%'''
+|24%
+|11%
+|3%
+|4%
+|–
+|–
+|–
+|-
+|27/10/12
+|[https://web.archive.org/web/20121120194556/http://expreso.ec/expreso/plantillas/nota_print.aspx?idArt=3878268&tipo=2 Opinión Pública]
+|style="background:lightgreen"|'''54%'''
+|16%
+|5%
+|4%
+|–
+|–
+|–
+|–
+|-
+|30/10/12
+|[https://web.archive.org/web/20150402134707/http://www.ambatonews.com/2012/11/15/correa-40-lasso-23-segun-market Market]
+|style="background:lightgreen"|'''40.20%'''
+|23.19%
+|15.02%
+|6.40%
+|4.31%
+|–
+|–
+|–
+|-
+|31/10/12
+|[https://web.archive.org/web/20130130154925/http://www.cedatos.com.ec/detalles_noticia.php?Id=101 CEDATOS]
+|style="background:lightgreen"|'''46%'''
+|19%
+|8%
+|7%
+|2%
+|–
+|–
+|–
+|-
+|10/11/12
+|[https://web.archive.org/web/20150924121555/http://www.telegrafo.com.ec/images/eltelegrafo/Actualidad/2013/05-213-cifras-enuestas.png Opinión Pública]
+|style="background:lightgreen"|'''50.5%'''
+|15.2%
+|4.6%
+|3.2%
+|2.4%
+|0.3%
+|0.1%
+|–
+|-
+|14/11/12
+|[http://www.marketecuador.com/index.php/fe_elecciones/index Market]
+|style="background:lightgreen"|'''39%'''
+|25%
+|13%
+|6%
+|2%
+|–
+|–
+|–
+|-
+|19/11/12
+|[https://web.archive.org/web/20120117064331/http://telegrafo.com.ec/index.php?option=com_zoo Perfiles de Opinión]
+|style="background:lightgreen"|'''56%'''
+|15%
+|7%
+|4%
+|3%
+|–
+|–
+|–
+|-
+|28/11/12
+|{{Deprecated archive|url=https://archive.today/20130409041625/http://www.enteratecuador.com/archivos/17771|title=Opinión Pública}}
+|style="background:lightgreen"|'''51.2%'''
+|14.9%
+|5.4%
+|3.7%
+|1.8%
+|0.4%
+|0.3%
+|0.1%
+|-
+|29/11/12
+|[http://andes.info.ec/pol%C3%ADtica/9553.html CEDATOS]
+|style="background:lightgreen"|'''53%'''
+|22%
+|10%
+|8%
+|2%
+|1%
+|2%
+|2%
+|-
+|01/12/12
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=188065&umt=rafael_correa_tiene_51_intencion_voto_asegura_encuestadora_opinion_publica_ecuador Opinión Pública]
+|style="background:lightgreen"|'''51.2%'''
+|13.8%
+|3.1%
+|4.7%
+|2.2%
+|0.5%
+|0.4%
+|0.4%
+|-
+|14/12/12
+|[https://web.archive.org/web/20130101105115/http://www.confirmado.net/politica/295-politica/24334-el-ciudadano-rafael-correa-lidera-la-intencion-de-voto-con-el-628- Perfiles de Opinión]
+|style="background:lightgreen"|'''62.8%'''
+|10.7%
+|4.1%
+|2.8%
+|2.1%
+|0.2%
+|0.3%
+|0.2%
+|-
+|15/12/12
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=188629&umt=binomio_correa_glas_lidera_intencion_del_voto_en_ecuador_con_un_51_asegura_encuestadora_opinion_publica_e_audio Opinión Pública]
+|style="background:lightgreen"|'''51.2%'''
+|14.7%
+|6%
+|3.5%
+|3.6%
+|0.7%
+|0.9%
+|0.2%
+|-
+|21/12/12
+|[http://andes.info.ec/pol%C3%ADtica/rafael-correa-lidera-intenci%C3%B3n-voto-ecuatorianos-606.html Perfiles de Opinión]
+|style="background:lightgreen"|'''60.6%'''
+|11.2%
+|4.5%
+|3.5%
+|1.8%
+|0.3%
+|0.2%
+|0.2%
+|-
+|06/01/13
+|[http://www.slideshare.net/CIEES2012ECUADOR/cees-16046978 CIEES]
+|style="background:lightgreen"|'''53.3%'''
+|14.95%
+|8.85%
+|2.4%
+|8.45%
+|0.55%
+|0.2%
+|0.35%
+|-
+|10/01/13
+|[https://web.archive.org/web/20130206182858/http://www.eltiempo.com.ec/noticias-cuenca/114586-pa-rez-correa-lidera-intencia-n-de-voto Opinión Pública]
+|style="background:lightgreen"|'''56.7%'''
+|12.1%
+|4.4%
+|3.4%
+|2%
+|0.5%
+|0.3%
+|0.6%
+|-
+|13/01/13
+|[http://spanish.china.org.cn/international/txt/2013-01/31/content_27842653.htm CMS]
+|style="background:lightgreen"|'''47.65%'''
+|7.98%
+|1.44%
+|1.57%
+|0.80%
+|0.42%
+|0.40%
+|0.34%
+|-
+|18/01/13
+|[http://www.marketecuador.com/index.php/fe_noticias/detalle/11 Market]
+|style="background:lightgreen"|'''49%'''
+|18%
+|12%
+|6%
+|4%
+|1%
+|2%
+|2%
+|-
+|23/01/13
+|[http://andes.info.ec/node/11857 Perfiles de Opinión]
+|style="background:lightgreen"|'''63%'''
+|9%
+|4%
+|2%
+|2%
+|1%
+|1%
+|1%
+|-
+|26/01/13
+|[https://web.archive.org/web/20150924121555/http://www.telegrafo.com.ec/images/eltelegrafo/Actualidad/2013/05-213-cifras-enuestas.png Opinión Pública]
+|style="background:lightgreen"|'''55.9%'''
+|12.9%
+|5.2%
+|4.4%
+|2.3%
+|1.9%
+|1.3%
+|0.6%
+|-
+|02/02/13
+|[http://www.slideshare.net/CIEES2012ECUADOR/boletin-04-encuesta-presidencial CIEES]
+|style="background:lightgreen"|'''53.1%'''
+|19.5%
+|6.9%
+|5.2%
+|4.3%
+|2.1%
+|2.7%
+|3%
+|-
+|05/02/13
+|[http://www.elcomercio.com/tarima/elecciones_2013-encuestas-Rafael-Correa-Guillermo-Lasso_0_859714240.html El Comercio ARCOP] {{Webarchive|url=https://web.archive.org/web/20130208072735/http://www.elcomercio.com/tarima/elecciones_2013-encuestas-Rafael-Correa-Guillermo-Lasso_0_859714240.html |date=8 February 2013 }}
+|style="background:lightgreen"|'''37.5%'''
+|29.5%
+|6.5%
+|4.5%
+|2%
+|1.5%
+|0%
+|1%
+|-
+|06/02/13
+|[http://www.ecuadorinmediato.com/index.php?module=Noticias&func=news_user_view&id=190917&umt=rafael_correa_posee_4818_intencion_voto_nacional_afirma_cms_audio CMS]
+|style="background:lightgreen"|'''48.18%'''
+|9.98%
+|2.05%
+|1.87%
+|0.85%
+|1.36%
+|0.53%
+|0.36%
+|-
+|07/02/13
+|[https://web.archive.org/web/20130210015824/http://www.confirmado.net/politica/295-politica/26083-segun-perfiles-de-opinion-no-habra-segunda-vuelta-electoral- Perfiles de Opinión]
+|style="background:lightgreen"|'''61.5%'''
+|9.2%
+|3.8%
+|2.5%
+|1.6%
+|1.3%
+|0.6%
+|0.6%
+|-
+|16/02/13
+|[http://noticias.terra.com/america-latina/ecuador/correa-arrasaria-en-elecciones-con-641-de-intencion-de-voto-sondeo.96392a9c774ec310VgnCLD2000000ec6eb0aRCRD.html Market]
+|style="background:lightgreen"|'''64.1%'''
+|16.4%
+|7.3%
+|4.5%
+|3.6%
+|2.5%
+|0.8%
+|0.9%
+|-
+|17/02/13
+|[https://web.archive.org/web/20130324011136/http://cedatos.com.ec/detalles_noticia.php?Id=79 CEDATOS]
+|style="background:lightgreen"|'''61.5%'''
+|20.9%
+|6.0%
+|2.9%
+|3.5%
+|3.1%
+|1.0%
+|1.1%
+|-
+|17/02/13
+|[https://web.archive.org/web/20130224074924/http://www.tctelevision.com/elnoticiero/nacionales/item/1702-exit-poll CIEES]
+|style="background:lightgreen"|'''58.8%'''
+|23.1%
+|5.5%
+|3.0%
+|3.6%
+|3.3%
+|1.4%
+|1.3%
+|}
+
+==Results==
+===President===
+
+{{Election results
+|cand1=[[Rafael Correa]]|vp1=[[Jorge Glas]]|party1=[[PAIS Alliance]]|votes1=4918482
+|cand2=[[Guillermo Lasso]]|vp2=Juan Carlos Solines|party2=[[Creating Opportunities]]|votes2=1951102
+|cand3=[[Lucio Gutiérrez]]|vp3=Pearl Boyes Fuller|party3=[[Patriotic Society Party]]|votes3=578875
+|cand4=[[Mauricio Rodas]]|vp4=Inés Manzano|party4=[[SUMA Party]]|votes4=335532
+|cand5=[[Álvaro Noboa]]|vp5=[[Anabella Azín]]|party5=[[Institutional Renewal Party of National Action]]|votes5=319956
+|cand6={{ill|Alberto Acosta Espinosa|es}}|vp6=Marcia Caicedo|party6=[[Plurinational Unity of the Lefts]]|votes6=280539
+|cand7={{ill|Norman Wray (politician)|lt=Norman Wray|es|Norman Wray}}|vp7=Ángela Mendoza|party7=[[Movimiento Construye|Ruptura 25]]|votes7=112525
+|cand8=Nelson Zavala|vp8=Denny Cevallos|party8=[[Ecuadorian Roldosist Party]]|votes8=105592
+|invalid=863257
+|electorate=11675441
+|source=[https://web.archive.org/web/20161019132729/http://cne.gob.ec/documents/publicaciones/2014/libro_resultados_electorales_2013-r.pdf CNE]
+}}
+
+===National Assembly===
+{{Election results
+|image=[[File:Asamblea Nacional Ecuador 2013 escaños.svg]]
+|seattype1=National|seattype2=Provincial|seattype3=Overseas|seattype4=Total|seattype5=+/–
+|party1=[[PAIS Alliance]]|votes1=45955995|st1t1=8|st2t1=86|st3t1=6|st4t1=100|st5t1=+41
+|party2=[[Creating Opportunities]]|votes2=10032804|st1t2=2|st2t2=9|st3t2=0|st4t2=11|st5t2=New
+|party3=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes3=7901315|st1t3=1|st2t3=5|st3t3=0|st4t3=6|st5t3=–5
+|party4=[[Patriotic Society Party|January 21 Patriotic Society Party]]|votes4=4955320|st1t4=1|st2t4=4|st3t4=0|st4t4=5|st5t4=–14
+|party5=[[Plurinational Unity of the Lefts]]|votes5=4151000|st1t5=1|st2t5=4|st3t5=0|st4t5=5|st5t5=–4
+|party6=[[Ecuadorian Roldosist Party]]|votes6=3960188|st1t6=1|st2t6=0|st3t6=0|st4t6=1|st5t6=–2
+|party7=[[SUMA Party]]|votes7=2829034|st1t7=1|st2t7=0|st3t7=0|st4t7=1|st5t7=New
+|party8=[[Institutional Renewal Party of National Action]]|votes8=2640181|st1t8=0|st2t8=0|st3t8=0|st4t8=0|st5t8=–7
+|party9=[[Advance (Ecuador)|Advance]]|votes9=2568156|st1t9=0|st2t9=5|st3t9=0|st4t9=5|st5t9=New
+|party10=[[Movimiento Construye|Ruptura 25]]|votes10=2179383|st1t10=0|st2t10=0|st3t10=0|st4t10=0|st5t10=New
+|party11=[[Socialist Party – Broad Front of Ecuador]]|votes11=698829|st1t11=0|st2t11=0|st3t11=0|st4t11=0|st5t11=–1
+|party12=Independents and regionalists|st2t12=3|st3t12=0|st4t12=3|st5t12=–
+|valid=7359921
+|invalid=2083795
+|total_st5t=0
+|electorate=11675441
+|source=[https://web.archive.org/web/20161019132729/http://cne.gob.ec/documents/publicaciones/2014/libro_resultados_electorales_2013-r.pdf CNE]
+}}
+
+===Andean Parliament===
+{{Election results
+|party1=[[PAIS Alliance]]|votes1=15806821|seats1=4
+|party2=[[Creating Opportunities]]|votes2=4350969|seats2=1
+|party3=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes3=2271754|seats3=0
+|party4=[[Patriotic Society Party]]|votes4=1886932|seats4=0
+|party5=[[Plurinational Unity of the Lefts]]|votes5=1496165|seats5=0
+|party6=[[Institutional Renewal Party of National Action]]|votes6=1241503|seats6=0
+|party7=[[Advance (Ecuador)|Advance]]|votes7=1096088|color7=#0080FF|seats7=0
+|party8=[[Ecuadorian Roldosist Party]]|votes8=937878|seats8=0
+|party9=[[Movimiento Construye|Ruptura 25]]|votes9=754041|seats9=0
+|valid=7159457
+|invalid=2306374
+|electorate=11675441
+|source=[https://web.archive.org/web/20161019132729/http://cne.gob.ec/documents/publicaciones/2014/libro_resultados_electorales_2013-r.pdf CNE]
+}}
+
+==Reactions==
+Banker [[Guillermo Lasso]], the runner-up in the vote, conceded his defeat in broad terms, by stating: “I recognise the triumph of President Correa.”<ref name="Gill"/> Thousands of Correa's backers celebrated in Quito's main square just after the polls closed. Speaking from the balcony of the Presidential Palace, Correa thanked them for their "immense trust.”<ref>{{cite news|url=https://www.nytimes.com/2013/02/18/world/americas/rafael-correa-wins-re-election-in-ecuador.html|title=Rafael Correa Wins Re-election in Ecuador|last=Neuman|first=William|date=18 February 2013|work=The New York Times}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Ecuadorian elections}}
+
+[[Category:Presidential elections in Ecuador]]
+[[Category:Parliamentary elections in Ecuador]]
+[[Category:2013 in Ecuador|General]]
+[[Category:2013 elections in South America|Ecuador]]
+[[Category:Election and referendum articles with incomplete results]]<!--No provincial/abroad votes for the National Assembly-->

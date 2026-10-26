@@ -1,0 +1,84 @@
+{{Short description|none}}
+{{Infobox Election
+| election_name      = 1998 Slovak Presidential election
+| country            = Slovakia
+| type               = presidential
+| ongoing            = no
+| party_color        = no
+| previous_election  = 1993 Slovak presidential election
+| previous_year      = 1993
+| next_election      = 1999 Slovak presidential election
+| next_year          = 1999
+| seats_for_election = 
+| election_date      = 20 January to 17 December 1998
+| title              = [[President of Slovakia|President]]
+| before_election    = [[Michal Kováč]]
+| after_election     = none
+}}
+The '''1998 Slovak Presidential elections''' were held from 20 January to 17 December 1998. The Slovak parliament failed to elect the new president of Slovakia which led to the introduction of a [[1999 Slovak presidential election|direct election in 1999]]. A candidate would have needed to receive 90 votes to be elected.<ref>{{cite web |first=Petr |last=Just |first2=Malvina |last2=Hladka |title=Cesta k přímé volbě prezidenta na Slovensku|url=http://cpssu.org/view.php?cisloclanku=2004032001|website=Czech-Slovak Political Science Students' Union |date=21 March 2004|accessdate=9 August 2016 |archiveurl=https://web.archive.org/web/20060621134653/http://cpssu.org/view.php?cisloclanku=2004032001 |archivedate=2006-06-21}}</ref><ref>{{cite news|author=<!-- no byline -->|title=Prehľad výsledkov prezidentských volieb od roku 1993 |date=26 February 2014|url=http://www.teraz.sk/slovensko/prehlad-vysledky-prezidentske-volby/75255-clanok.html|website=[[Teraz.sk]]|accessdate=10 August 2016 |language=sk}}</ref>
+
+==Voting==
+===First Ballot===
+
+{| class="wikitable"
+|-
+! 20 January and  6 February !! Štefan Markuš ([[Slovak Democratic Coalition|SDK]]) !! [[Juraj Hraško]] ([[Party of the Democratic Left (Slovakia)|SDĽ]]) !! Augustín Kurek
+|-
+| First Round || 33 || 22 || 14
+|-
+| Second Round || 37 || 27 || ''eliminated''
+|}
+
+===Second Ballot===
+
+{| class="wikitable"
+|-
+! 5 and 19 March !! [[Ladislav Ballek]] ([[Party of the Democratic Left (Slovakia)|SDĽ]]) !! [[Milan Fogaš]]
+|-
+| First Round || 49 || 5
+|-
+| Second Round || 50 || ''suspended''
+|}
+
+===Third Ballot===
+{| class="wikitable"
+|-
+! 16 and 30 April !! [[Milan Sečánsky]] ([[People's Party - Movement for a Democratic Slovakia|ĽS–HZDS]]) !! [[Brigita Schmögnerová]] ([[Party of the Democratic Left (Slovakia)|SDĽ]]) !! [[Zdeno Šuška]]
+|-
+| First Round || 59 || 43 || 5
+|-
+| Second Round || 72 || 47 || ''eliminated''
+|}
+
+===Fourth Ballot===
+{| class="wikitable"
+|-
+! 9 May !! Vladimír Abrahám
+|-
+| First Round || 13
+|-
+| Second Round || ''suspended''
+|}
+
+===Fifth Ballot===
+{| class="wikitable"
+|-
+! 9 July !! [[Otto Tomeček]] ([[People's Party - Movement for a Democratic Slovakia|ĽS–HZDS]], [[Slovak National Party|SNS]], [[Union of the Workers of Slovakia|ZRS]])
+|-
+| First Round || 86
+|-
+| Second Round || 86
+|}
+
+===Remaining Ballots===
+There were another 4 ballots in which no candidate was registered. The last ballot was on 17 December.
+
+==References==
+{{Reflist}}
+
+{{Slovak presidential elections}}
+
+[[Category:Presidential elections in Slovakia]]
+[[Category:1998 elections in Europe|Slovakia]]
+[[Category:1998 in Slovakia]]
+[[Category:Indirect presidential elections|Slovak presidential election, 1998]]

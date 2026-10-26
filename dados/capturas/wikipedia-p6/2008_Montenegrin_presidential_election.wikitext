@@ -1,0 +1,135 @@
+{{Short description|Presidential election held in Montenegro}}
+{{Infobox election
+| country           = Montenegro
+| type              = presidential
+| previous_election = May 2003 Montenegrin presidential election
+| previous_year     = 2003
+| election_date     = 6 April 2008
+| next_election     = 2013 Montenegrin presidential election
+| next_year         = 2013
+| opinion_polls     = 
+| registered        = 490,412	
+| turnout           = 68.20% ({{increase}}19.88pp)
+| image1            = Visit of Filip Vujanović, President of Montenegro, to the EC (cropped).jpg
+| candidate1        = '''[[Filip Vujanović]]'''
+| party1            = Democratic Party of Socialists of Montenegro
+| popular_vote1     = '''171,118'''
+| percentage1       = '''51.89%'''
+| image2            = Andrija Mandić (crop).jpg
+| candidate2        = [[Andrija Mandić]]
+| party2            = Serb People's Party (Montenegro)
+| popular_vote2     = 64,473
+| percentage2       = 19.55%
+| candidate4        = [[Nebojša Medojević]]
+| image4            = Nebojša Medojević, 2016 (cropped).jpg
+| party4            = Movement for Changes
+| popular_vote4     = 54,874
+| percentage4       = 16.64%
+| candidate5        = [[Srđan Milić]]
+| image5 = [[File:Srđan Milić.jpg|150x150px]]
+| party5            = Socialist People's Party of Montenegro
+| popular_vote5     = 39,316
+| percentage5       = 11.92%
+| map_image         = MontenegroPres2008.png
+| map_size          = 220px
+| map_caption       = Results by municipality<br />{{colorbox|red|border=silver}} absolute majority for [[Filip Vujanović|Vujanović]]<br />{{colorbox|orange|border=silver}} relative majority for Vujanović<br />{{colorbox|cornflowerblue|border=silver}} relative majority for [[Srđan Milić|Milić]]
+| title             = President
+| before_election   = [[Filip Vujanović]]
+| before_party      = Democratic Party of Socialists of Montenegro
+| posttitle         = 
+| after_election    = [[Filip Vujanović]]
+| after_party       = Democratic Party of Socialists of Montenegro
+}}
+
+Presidential elections were held in [[Montenegro]] on 6 April 2008, the first after [[2006 Montenegrin independence referendum|independence]] in 2006. The result was a victory for incumbent President [[Filip Vujanović]], who received 52% of the vote.
+
+==Electoral system==
+The law on presidential elections was passed on 27 December 2007, requiring candidates to collect the signatures of 1.5% of registered voters in order to run.<ref>[http://www.setimes.com/cocoon/setimes/xhtml/en_GB/newsbriefs/setimes/newsbriefs/2007/12/28/nb-07 Montenegrin parliament approves law on presidential elections] SE Times, 28 December 2007</ref>
+
+==Candidates==
+===Democratic Party of Socialists===
+The ruling [[Democratic Party of Socialists of Montenegro|Democratic Party of Socialists]] nominated the current president of Montenegro, [[Filip Vujanović]]. He was supported by DPS' coalition partner,  the [[Social Democratic Party of Montenegro]], as well as [[Croatian Civic Initiative]], the Democratic Union of Albanians and the Democratic Community of Muslims Bosniacs in Montenegro.
+
+===Opposition===
+After proposals for a common candidate of the opposition failed, all opposition currents nominated their own Presidents as candidates.
+
+====Serb People's Party====
+[[Andrija Mandić]], the leader of the [[Serb People's Party (Montenegro)|Serb People's Party]] (SNS), was nominated as a common candidate of the [[Serb List (2006)|Serb List]] (SL) political alliance. He held demonstrations in the nation's capital of [[Podgorica]] on 24 February 2008 against [[Kosovo]]'s recent [[2008 Kosovo declaration of independence|unilateral declaration of independence]].
+
+====Movement for Changes====
+The [[Movement for Changes]] (PzP) nominated its leader [[Nebojša Medojević]]. Medojević was also supported by the [[Albanian Alternative]] (AA) and the [[New Democratic Power – FORCA|FORCA]].<ref>[http://www.setimes.com/cocoon/setimes/xhtml/en_GB/newsbriefs/setimes/newsbriefs/2008/03/25/nb-07 Two parties announce support for Medojevic in Montenegrin presidential election] SE Times, 25 March 2008</ref> The AA, accusing DPS's regime of terror and disrespect of ethnic Albanians of Montenegro.
+
+====Socialist People's Party====
+The [[Socialist People's Party of Montenegro]] (SNP) chose [[Srđan Milić]], leader of the party, as their candidate.<ref>[http://www.setimes.com/cocoon/setimes/xhtml/en_GB/newsbriefs/setimes/newsbriefs/2008/01/27/nb-08 Montenegro's SNP names presidential candidate] SE Times, 27 January 2008</ref>
+
+====Other parties====
+The [[Bosniak Party]] decided, like two Albanian minority parties, to abstain from endorsing any candidate. The [[People's Party (Montenegro)|People's Party]] decided unanimously on 3 February 2008 that it would not participate in the election, but it supported the two opposition candidates that represent parties of the former pro-Serbian bloc.<ref name="PzPSupporters">[http://www.setimes.com/cocoon/setimes/xhtml/en_GB/newsbriefs/setimes/newsbriefs/2008/02/04/nb-09 Montenegro's People's Party will not take part in presidential election] SE Times, 4 February 2008</ref>
+
+====Independents====
+Professor Blagota Mitrić of the Faculty of Law of [[University of Montenegro]] had announced that he would run for president, yet he did not manage to collect enough signatures to become an official candidate. This was also the case with [[Dragan Hajduković]], an environmentalist who had been a regular participant in the previous presidential runs.
+
+Vasilije Miličković, president of the Association of Minority Shareholders of the Montenegrin Electric Enterprise, had announced that he would run for president as an independent candidate only if the former president and prime minister [[Milo Đukanović]] also ran for that position.
+
+==Opinion polls==
+Polls and analysts claimed Vujanović would most surely win the largest number of votes and face-off with Medojevic in the second round.<ref>[http://www.pr-inside.com/montenegro-calls-first-presidential-election-r391810.htm Montenegro calls first presidential election since independence for April 6] PR Inside</ref> Since Vujanovic won over 50 percent of the vote in the first round there was no need for a runoff.
+
+{|class="wikitable collapsible" style="text-align:center; font-size:100%; line-height:14px;"
+|- style="height:42px;"
+! style="width:150px;" rowspan=2 | Pollster
+! style="width:45px;"| [[Filip Vujanović|Vujanović]]
+! style="width:45px;"| [[Nebojša Medojević|Medojević]]
+! style="width:45px;"| [[Andrija Mandić|Mandić]]
+! style="width:45px;"| [[Srđan Milić|Milić]]
+! style="width:45px;" rowspan="2"| Others
+! style="width:25px;" rowspan="2"| Lead
+|-
+! style="color:inherit;background:orange;"|
+! style="color:inherit;background:#3BB9FF;"|
+! style="color:inherit;background:#e6e600;"|
+! style="color:inherit;background:#6495ED;"|
+|-
+| CEDEM (March)
+| style="background:#fbc86a"| '''52.8'''
+| 18.3
+| 19.1
+| 9.8
+| ''—''
+| style="background:orange; color:white;"| 33.7
+|-
+| IPRES
+| style="background:#fbc86a"| '''30.6'''
+| 20.6
+| 30.2
+| 18.6
+| ''—''
+| style="background:orange; color:white;"| 0.4
+|-
+| CEDEM (February)
+| style="background:#fbc86a"| '''49.5'''
+| 21.2
+| 14.8
+| 9.9
+| 4.6
+| style="background:orange; color:white;"| 34.7
+|}
+
+==Results==
+{{Election results
+|cand1=[[Filip Vujanović]]|party1=[[Democratic Party of Socialists of Montenegro|Democratic Party of Socialists]]|votes1=171118
+|cand2=[[Andrija Mandić]]|party2=[[Serb People's Party (Montenegro)|Serb People's Party]]|votes2=64473
+|cand3=[[Nebojša Medojević]]|party3=[[Movement for Changes]]|votes3=54874
+|cand4=[[Srđan Milić]]|party4=[[Socialist People's Party of Montenegro|Socialist People's Party]]|votes4=39316
+|invalid=4674
+|electorate=490412
+|source=[http://www.osce.org/odihr/elections/montenegro/33218?download=true OCSE]
+}}
+
+==References==
+{{reflist}}
+
+{{Montenegrin elections}}
+
+[[Category:2008 elections in Europe|Montenegro]]
+[[Category:2008 in Montenegro|President]]
+[[Category:Presidential elections in Montenegro]]
+[[Category:April 2008 in Europe|Montenegro]]

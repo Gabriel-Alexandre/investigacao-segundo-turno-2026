@@ -1,0 +1,1815 @@
+{{Short description|none}}
+{{Use dmy dates|date=April 2022}}
+{{Infobox election
+| country = Costa Rica
+| flag_year = state
+| previous_election = 2018 Costa Rican general election
+| previous_year = 2018
+| election_date = {{nowrap|{{start date|2022|2|6|df=yes}} (first round)<br>{{start date|2022|4|3|df=yes}} (second round)}}
+| next_election = <!-- link to file. If red link, then it will not be linked--> 2026 Costa Rican general election
+| next_year = 2026
+| opinion_polls = Opinion polling for the 2022 Costa Rican general election
+| module = {{Infobox election
+| election_name = Presidential election
+| embed=yes
+| type = presidential
+| registered = 3,541,910 
+| turnout = 59.97% (first round) {{decrease}} 5.73[[percentage point|pp]]<br>56.79% (second round) {{decrease}} 9.66[[percentage point|pp]]
+
+| image1 = Rodrigo Chaves 2022-5-16 Foto by Julieth Mendez (cropped).jpg
+| nominee1 = '''[[Rodrigo Chaves]]'''
+| party1 = Social Democratic Progress Party
+| running_mate1 = '''[[Stephan Brunner]]''' <br /> '''[[Mary Munive]]'''
+| popular_vote1 = '''1,035,388'''
+| percentage1 = '''52.82%'''
+
+| image2 = José María Figueres Olsen (2012) (cropped).jpg
+| nominee2 = [[José María Figueres]]
+| party2 = National Liberation Party (Costa Rica)
+| running_mate2 = Álvaro Ramírez <br /> Laura Arguedas
+| popular_vote2 = 924,699
+| percentage2 = 47.18%
+
+| map = {{Switcher
+| [[File:Elección Presidencial de Costa Rica (2022) (Primera Ronda) (Distritos Administrativos).svg|300px]]
+| First round results by district
+| [[File:Elección Presidencial de Costa Rica (2022) (Segunda Ronda) (Distritos Administrativos).svg|300px]]
+| Second round results by district|default=2}}
+
+'''Chaves''': {{legend0|#62918a|20-30%}} {{legend0|#57817a|30-40%}} {{legend0|#4c716b|40-50%}} {{legend0|#41615c|50-60%}} {{legend0|#37514d|60-70%}} {{legend0|#2c403d|70-80%}}<br>
+'''Figueres''': {{legend0|#72B397|20-30%}} {{legend0|#5DA888|30-40%}} {{legend0|#509577|40-50%}} {{legend0|#457F66|50-60%}} {{legend0|#396A55|60-70%}} {{legend0|#2E5544|70-80%}}<br>'''Alvarado''': {{legend0|#55a5e6|20-30%}} {{legend0|#4b92cc|30-40%}} {{legend0|#4280b3|40-50%}}<br>'''Feinzaig''': {{legend0|#dc9e52|30-40%}}<br>'''Saborío''': {{legend0|#7485D2|20-30%}} {{legend0|#596DC9|30-40%}} {{legend0|#3E56BF|40-50%}}<br>'''Tie''': {{legend0|#BB8AC8|30-40%}} {{legend0|#AA6EBB|50%}}
+
+| title = [[President of Costa Rica|President]]
+| before_election = [[Carlos Alvarado|Carlos Alvarado Quesada]]
+| before_party = Citizens' Action Party (Costa Rica)
+| after_election = [[Rodrigo Chaves Robles]]
+| after_party = Social Democratic Progress Party
+
+| module = {{Infobox legislative election
+| embed=yes
+| election_name = Legislative election
+
+| seats_for_election = All 57 seats in the [[Legislative Assembly of Costa Rica|Legislative Assembly]]
+| majority_seats = 29
+| turnout = 60.65% ({{decrease}} 4.91[[percentage point|pp]])
+
+| party1 = National Liberation Party (Costa Rica)
+| leader1 = [[José María Figueres]]
+| percentage1 = 24.82
+| seats1 = 19
+| last_election1 = 17
+
+| party2 = Social Democratic Progress Party
+| leader2 = [[Rodrigo Chaves Robles]]
+| percentage2 = 15.04
+| seats2 = 10
+| last_election2 = new
+
+| party3 = Social Christian Unity Party
+| leader3 = [[Lineth Saborío Chaverri]] 
+| percentage3 = 11.41
+| seats3 = 9
+| last_election3 = 9
+
+| party4 = New Republic Party (Costa Rica)
+| leader4 = [[Fabricio Alvarado Muñoz]]
+| percentage4 = 10.07
+| seats4 = 7
+| last_election4 = 0
+
+| party5 = Progressive Liberal Party (Costa Rica)
+| leader5 = Eliécer Feinzaig Mintz
+| percentage5 = 9.06
+| seats5 = 6
+| last_election5 = 0
+
+| party6 = Broad Front (Costa Rica)
+| leader6 = [[José María Villalta]]
+| percentage6 = 8.33
+| seats6 = 6
+| last_election6 = 1
+
+| map                = Elecciones legislativas de Costa Rica de 2022 - Diputados por Provincia.svg
+| map_caption        = Results by province
+
+}}}}}}{{Politics of Costa Rica}}
+
+[[General election]]s were held in [[Costa Rica]] on 6 February 2022, to elect the [[President of Costa Rica|president]], two [[Vice President of Costa Rica|vice-presidents]], and all 57 deputies of the [[Legislative Assembly of Costa Rica|Legislative Assembly]]. As none of the presidential nominees obtained at least 40% of the votes, a [[Two-round system|runoff]] was held on 3 April 2022, between the top two candidates, [[José María Figueres]] and [[Rodrigo Chaves Robles]].<ref>{{Cite web |date=2022-02-07 |title=Costa Rica Presidential Election Heads To Second Round |url=https://ticotimes.net/2022/02/07/costa-rica-presidential-election-heads-to-second-round |access-date=2022-03-21 |website=The Tico Times {{!}} Costa Rica News {{!}} Travel {{!}} Real Estate |language=en-US}}</ref>
+
+[[Rodrigo Chaves Robles]] of the [[Social Democratic Progress Party]], a former official of the [[World Bank]] and former [[Ministry of Finance (Costa Rica)|Minister of Finance]] with an [[anti-establishment]] reputation, received 53% of the vote in the run-off ballot and was declared president-elect by the [[Supreme Electoral Court of Costa Rica|Electoral Tribunal]]. Rival candidate and former president [[José María Figueres|José Maria Figueres]] of the [[National Liberation Party (Costa Rica)|National Liberation Party]] received 47% of the vote and conceded defeat.
+
+== Electoral system ==
+The [[President of Costa Rica]] is elected using a modified [[two-round system]] in which a candidate must receive at least 40% of the vote to win in the first round; if no candidate wins in the first round, a runoff is held between the two candidates with most votes.<ref>[http://www.electionguide.org/elections/id/2780/ Costa Rica] IFES</ref>
+
+The 57 members of the Legislative Assembly are elected using [[closed list]] [[proportional representation]] through the [[largest remainder method]] from seven multi-member constituencies with between four and 19 seats, which are based on the seven [[Provinces of Costa Rica|provinces]].<ref>[http://www.ipu.org/parline-e/reports/2073_B.htm Electoral system] IPU</ref> Party lists were required to [[Zipper system|alternate between male and female candidates]], with parties also required to have three or four of their seven regional lists headed by a female candidate.<ref>[http://ticotimes.net/2016/05/27/gender-equality Gender equality ruling aims for nearly 50/50 male-female Costa Rican legislature] Tico Times, May 27, 2016</ref>
+
+==Background==
+In the previous election, a second electoral round was held, as neither political party had obtained 40% of the vote. This was only the third time in history that a second round had been held. The two candidates with the most support were the then-deputy, journalist, preacher, and [[Christian music]] singer [[Fabricio Alvarado Muñoz]] of the conservative [[National Restoration Party (Costa Rica)|National Restoration party]], and the former Minister of Labor, journalist and writer [[Carlos Alvarado|Carlos Alvarado Quesada]] of the ruling [[Citizens' Action Party (Costa Rica)|Citizens' Action]]. The election was marked by social and religious issues that included issues such as [[same-sex marriage]], the [[secular state]], and [[sex education]].<ref name=sem>{{cite news|last1=Murillo|first1=Álvaro|last2=Rodríguez|first2=Frank|title=Shock religioso impacta apoyo a candidatos|url=https://www.ciep.ucr.ac.cr/index.php/noticias/77-shock-religioso-impacta-apoyo-a-candidatos|access-date=25 January 2018|agency=CIEP (UCR)|date=24 January 2018|archive-url=https://web.archive.org/web/20180126012746/https://www.ciep.ucr.ac.cr/index.php/noticias/77-shock-religioso-impacta-apoyo-a-candidatos|archive-date=26 January 2018}}</ref><ref>{{cite news|last1=Herrera|first1=Kimberly|title=TSE ha recibido 129 denuncias por uso de religión en campaña política|url=https://www.elmundo.cr/tse-ha-recibido-129-denuncias-uso-religion-campana-politica/|access-date=24 January 2018|agency=Mundo|date=22 January 2018}}</ref> Carlos Alvarado was the winner in the second round by a wide margin.<ref name="Garcia">{{cite news|last1=Garcia|first1=David Alire|last2=Pretel|first2=Enrique Andres|title=Costa Rica center-left easily wins presidency in vote fought on gay rights|url=https://www.reuters.com/article/us-costarica-election/costa-rica-center-left-easily-wins-presidency-in-vote-fought-on-gay-rights-idUSKBN1H80XC|access-date=2 April 2018|work=Reuters}}</ref><ref name="Stanley">{{cite news|last1=Stanley|first1=Katherine|title=Carlos Alvarado wins Costa Rica's presidency in a landslide|url=http://www.ticotimes.net/2018/04/01/carlos-alvarado-will-be-costa-ricas-48th-president|access-date=2 April 2018|work=The Tico Times}}</ref>
+
+The Constitution of Costa Rica prohibits the incumbent president from serving consecutive terms, making incumbent president [[Carlos Alvarado|Carlos Alvarado Quesada]] ineligible to run in 2022. Additionally, government ministers and the directors or managers of autonomous institutions must resign twelve months before the election is held if they wish to run for the presidency or vice-presidency.<ref>{{cite news|last=Quirós|first=Bharley|title=Solo queda un mes para renuncia de jerarcas|url=https://www.diarioextra.com/Noticia/detalle/438069/solo-queda-un-mes-para-renuncia-de-jerarcas|date=5 January 2021|access-date=3 February 2021|work=Diario Extra|location=|page=|number=|archive-date=23 January 2022|archive-url=https://web.archive.org/web/20220123163844/https://www.diarioextra.com/Noticia/detalle/438069/solo-queda-un-mes-para-renuncia-de-jerarcas|url-status=dead}}</ref>
+
+==Candidates==
+=== Presidential candidates ===
+The [[Supreme Electoral Court of Costa Rica|Supreme Electoral Court]] approved twenty-five parties and their nominated candidates for the presidency. The ballot printing process started in December 2021, with the candidates shown on the following table.<ref>{{cite news |last1=Mora |first1=Carlos |title=(Fotos) Así serán las papeletas de las elecciones del 6 de febrero |url=https://www.crhoy.com/nacionales/fotos-asi-seran-las-papeletas-de-las-elecciones-del-6-de-febrero/ |access-date=17 December 2021 |work=crhoy.com |date=17 December 2021}}</ref>
+
+{| class="wikitable sortable"
+|+2022 Presidential candidates
+!colspan="2" rowspan="2"|Party
+!colspan="1" rowspan="2"|Ideology
+!colspan="3"|Ticket
+|-
+!President
+!1st Vice President
+!2nd Vice President
+|-
+|style="background-color:{{party color|A Just Costa Rica}}"|
+|[[A Just Costa Rica]]
+| [[Christian democracy]]
+|[[Rolando Araya Monge]]
+|Orlando Guerrero Vargas
+|Ana Lupita Mora Chinchilla
+|-
+|style="background-color:{{party color|Accessibility without Exclusion Party}}"|
+|[[Accessibility without Exclusion Party]]
+|[[Disabled rights]]
+|[[Óscar López (Costa Rican politician)|Óscar López Arias]]
+|Isabel Ramírez Castro
+|Víctor López Jiménez
+|-
+|style="background-color:{{party color|Broad Front (Costa Rica)}}"|
+|[[Broad Front (Costa Rica)|Broad Front]]
+| [[Democratic socialism]]
+|[[José María Villalta Flórez-Estrada]]
+|[[Patricia Mora Castellanos]]
+|Gerardo Hernández Naranjo
+|-
+|style="background-color:{{party color|Citizens' Action Party (Costa Rica)}}"|
+|[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]
+| [[Social democracy]]
+|[[Welmer Ramos González]]
+|Emilia Molina Cruz
+|Sebastián Urbina Cañas
+|-
+|style="background-color:{{party color|Christian Democratic Alliance (Costa Rica)}}"|
+|[[Christian Democratic Alliance (Costa Rica)|Christian Democratic Alliance]]
+| [[Conservatism]]
+|Christian Rivera Paniagua
+|Jessie Murillo Moya
+|David Alfaro Mata
+|-
+|style="background-color:#97989a"|
+|Costa Rican Democratic Union
+|[[Centrism]]
+|Maricela Morales Mora
+|Braunio Rosales Ureña
+|Anais Sequeira Vega
+|-
+|style="background-color:#000030"|
+|Costa Rican Social Democratic Movement
+| [[Social democracy]]
+|Roulan Jiménez Chavarría
+|Carmen Pérez Ramírez
+|Édgar Rodríguez Ramírez
+|-
+|style="background-color:#009600"|
+|Costa Rican Social Justice Party
+| [[Social democracy]]
+|[[Carmen Quesada Santamaría]]
+|Walter Quesada Fernández
+|Maribel Vallejos Vallejos
+|-
+|style="background-color:#FF7300"|
+|[[Progressive Liberal Party (Costa Rica)|Progressive Liberal Party]]
+| [[Liberalism]]
+|Eliécer Feinzaig Mintz
+|José Miguel Aguilar Berrocal
+|Rocío Briceño López
+|-
+|style="background-color:#00008B"|
+|Liberal Union Party
+| [[Paleolibertarianism]]
+|Federico Malavassi Calvo
+|Luis Guillermo Lépiz Solano
+|Cohymbra Sáenz Carazo
+|-
+|style="background-color:#DC143C"|
+|[[Libertarian Movement (Costa Rica)|Libertarian Movement Party]]
+| [[Libertarian conservatism]]
+|Luis Alberto Cordero Arias
+|Rocío Solís Gamboa
+|Royner Mora Ruiz
+|-
+|style="background-color:#ff1e44"|
+|National Encounter Party
+| [[Agrarianism|Agrarian populism]]
+|Óscar Campos Chavarría
+|Verónica Esquivel Campos
+|Juan Luis Sáenz Ruiz
+|-
+|style="background-color:#361f67"|
+|National Force Party
+| [[Populism]]
+|Greivin Moya Carpio
+|Natalia Mora Escalante
+|Alberto Rodríguez Baldí
+|-
+|style="background-color:{{party color|National Integration Party (Costa Rica)}}"|
+|[[National Integration Party (Costa Rica)|National Integration Party]]
+| [[Social conservatism]]
+|Walter Múñoz Céspedes
+|Ileana Vargas González
+|Luis Fernando Astorga Gatjens
+|-
+|style="background-color:{{party color|National Liberation Party (Costa Rica)}}"|
+|[[National Liberation Party (Costa Rica)|National Liberation Party]]
+| [[Social democracy]]
+|[[José María Figueres]]
+|Álvaro Ramírez Bogantes
+|Laura Arguedas Mejía
+|-
+|style="background-color:{{party color|National Restoration Party (Costa Rica)}}"|
+|[[National Restoration Party (Costa Rica)|National Restoration Party]]
+| [[Conservatism]]
+|[[Eduardo Cruickshank Smith]]
+|Xiomara Rodríguez Hernández
+|Leticia Arguedas Solís
+|-
+|style="background-color:{{party color|New Generation Party (Costa Rica)}}"|
+|[[New Generation Party (Costa Rica)|New Generation Party]]
+| [[Conservatism]]
+|Sergio Mena Díaz
+|Shirley Díaz Mejías
+|Édgar Evans Meza
+|-
+|style="background-color:{{party color|New Republic Party (Costa Rica)}}"|
+|[[New Republic Party (Costa Rica)|New Republic Party]]
+| [[Conservatism]]
+|[[Fabricio Alvarado Muñoz]]
+|Francisco Prendas Rodríguez
+|Alexandra Loría Beeche
+|-
+|style="background-color:#9428bc"|
+|Our People Party
+| [[Christian left]]
+|[[Rodolfo Piza Rocafort]]
+|Román Navarro Fallas
+|Vanessa Calvo González
+|-
+|style="background-color:{{party color|Social Christian Republican Party}}"|
+|[[Social Christian Republican Party]]
+| [[Christian democracy]]
+|Rodolfo Hernández Gómez
+|Lorena Solano Villaverde
+|Giovanni Rodríguez Solís
+|-
+|style="background-color:{{party color|Social Christian Unity Party}}"|
+|[[Social Christian Unity Party]]
+| [[Christian democracy]]
+|[[Lineth Saborío Chaverri]]
+|Franco Pacheco Arce
+|Gabriela de San Román Aguilar
+|-
+|style="background-color:#36d42c"|
+|[[Social Democratic Progress Party]]
+| [[Liberalism]]
+|[[Rodrigo Chaves Robles]]
+|[[Stephan Brunner|Stephan Brunner Neibig]]
+|[[Mary Munive|Mary Munive Angermüller]]
+|-
+|style="background-color:#ce0000"|
+|[[United People (Costa Rica)|United People]]
+| [[Communism]]
+|Martín Chinchilla Castro
+|Andrea Cordero Vargas
+|Marco Castillo Rojas
+|-
+|style="background-color:#8806CE"|
+|[[United We Can (Costa Rica)|United We Can]]
+| [[Classical liberalism]]
+|[[Natalia Díaz Quintana]]
+|Ileana González Cordero
+|José Alberto Grillo Rosanía
+|-
+|style="background-color:#ce0000"|
+|[[Workers' Party (Costa Rica)|Workers' Party]]
+| [[Trotskyism]]
+|Jhonn Vega Masís
+|Jessica Barquero Barrantes
+|Greivis González López
+|}
+
+===Declined party inscriptions===
+* [[Costa Rican Renewal Party]]: Nominated Camilo Rodríguez Chaverri for the presidency, but their documentation was incomplete and the party was not allowed to run.<ref name="declined"/>
+* [[Democratic Force (Costa Rica)|Democratic Force]]: Former Libertarian vice presidential candidate and television presenter Viviam Quesada also announced her presidential candidacy through Democratic Force.<ref>{{cite web|work=Diario Extra |title=Viviam Quesada anuncia candidatura|url=https://www.diarioextra.com/Noticia/detalle/449336/viviam-quesada-anuncia-candidatura|access-date=2021-05-11|language=ES}}</ref> The party was the only that submitted the documentation on physical paper printouts, and some of the required documentation was missing so the party was not allowed to run.<ref name="declined">{{cite news |last1=Córdoba González |first1=Juan Diego |title=Camilo Rodríguez y Viviam Quesada quedan en definitiva fuera de elecciones 2022 |url=https://www.nacion.com/el-pais/politica/camilo-rodriguez-y-viviam-quesada-quedan-fuera-de/4SFKTPN4CJBPLG3EJVUZAB4FFY/story/ |access-date=19 December 2021 |work=La Nación |date=2 December 2021 |language=spanish}}</ref>
+
+==Primaries and party conferences==
+===Citizens' Action Party===
+{{main|2021 Citizens' Action Party presidential primary}}
+
+The National Assembly of the Citizen Action Party held face-to-face assemblies, between April and July, to renew its structures in the country's cantons and provinces.<ref>{{cite news|last=Madrigal|first=Rebeca|title=PAC realizará congreso ciudadano para relanzar el partido|url=https://www.nacion.com/el-pais/politica/pac-realizara-congreso-ciudadano-para-relanzar-el/5GS3QEVTJJEHPIZQ5SCXUZZG6Q/story/|date=21 March 2021|access-date=23 March 2021|work=La Nación}}</ref>
+
+Lawmaker [[Welmer Ramos]] was elected in the primaries, winning by a narrow margin over fellow deputy Carolina Hidalgo and former Sports Minister [[Hernán Solano]].
+
+===National Liberation Party===
+{{main|2021 National Liberation Party presidential primary}}
+
+The [[National Liberation Party (Costa Rica)|National Liberation Party]], the main opposition force, held its primary, known as the National Liberation Convention, on 6 June 2021, electing former [[President of Costa Rica|President]] [[José María Figueres Olsen]] as a nominee. Political scientist Claudio Alpízar Otoya, former deputy and two-time presidential candidate [[Rolando Araya Monge]], and Carlos Benavides Jiménez and Roberto Thompson Chacón,   deputies for the 2018–2022 period, also participated in this process.<ref>{{cite news|last1=Chinchilla Cerdas|first1=Sofía|title=Figueres sigue a la cabeza con el 35% de los votos en nuevo corte emitido por PLN|url=https://www.nacion.com/data/figueres-sigue-a-la-cabeza-con-357-de-los-votos-en/LC2AQRPKCNCTHFD2L5ZL7YSRYY/story/|access-date=9 June 2021|work=La Nación|date=7 June 2021}}</ref> Rolando Araya Monge quit the National Liberation Party and joined [[A Just Costa Rica]] as the presidential candidate.
+
+===Social Christian Unity Party===
+{{main|2021 Social Christian Unity Party presidential primary}}
+
+The [[Social Christian Unity Party]] held its National Convention on 27 June 2021. Erwen Masís Castro and [[Pedro Muñoz Fonseca]], deputies for the 2018–2022 period, and the former [[Vice President of Costa Rica|vice president]] (2002–2006) Lineth Saborío Chaverri, participated in the process, and Saborío was elected as the presidential candidate.
+
+===Other parties/coalitions===
+Several former candidates who participated in the process have already announced their interest in being candidates again. Notably, in most cases, these candidates resigned from the parties for which they tried to obtain the presidency and began the processes of founding new political groups.
+
+* [[A Just Costa Rica]]: Independent deputy [[Dragos Dolanescu Valenciano]] announced the creation of a new political formation called A Just Costa Rica after his departure from the [[Social Christian Republican Party]] following an accusation lodged by the party authorities against him for corruption.<ref>{{cite news|last1=Quesada|first1=Daniel|title=Dragos Dolanescu crea nuevo partido "Costa Rica Justa"|url=https://www.radiosantaclara.cr/dragos-dolanescu-crea-nuevo-partido-costa-rica-justa/|access-date=18 July 2020|agency=Radio Santa Clara|date=13 July 2020}}</ref> Although he announced that he would be measuring the popular support for a possible candidacy<ref>{{cite news |title=Diputado Dragos Dolanescu medirá apoyo en redes sociales para decidir candidatura presidencial|url=https://observador.cr/diputado-dragos-dolanescu-medira-apoyo-en-redes-sociales-para-decidir-candidatura-presidencial/|last=Ruiz|first=Paula|agency=El Observador CR|date=6 May 2021|access-date=22 October 2021}}</ref> [[Rolando Araya Monge]] was selected as the presidential candidate for the party; he finished in second place in the PLN primary.<ref>{{Cite web|title=Rolando Araya hace yunta con Dragos Dolanescu e irá por la presidencia con partido Costa Rica Justa|url=https://www.larepublica.net/noticia/rolando-araya-hace-yunta-con-dragos-dolanescu-e-ira-por-la-presidencia-con-partido-costa-rica-justa|access-date=2022-01-29|website=www.larepublica.net|language=es}}</ref>
+* Costa Rican Social Democratic Movement: Physician Roulan Jiménez Chavarría will run for president together with Rubén Vargas, a taxi service representative.<ref>{{Cite web|last=Gómez|first=Tomás|date=2021-07-15|title=Sindicalista y dirigente de taxistas buscarán vicepresidencia de República en próximas elecciones|url=https://observador.cr/sindicalista-y-dirigente-de-taxistas-buscaran-vicepresidencia-de-republica-en-proximas-elecciones/|access-date=2022-01-29|website=El Observador CR|language=es-CR}}</ref>
+* Social Democratic Progress: The former Minister of Finance of the Alvarado Quesada administration and former [[World Bank]] official, Rodrigo Chaves Robles, has held meetings with different sectors and representatives of seven political parties, including the Republican Social Christian and National Integration parties to propose a programmatic proposal and a possible electoral coalition in which, presumably, he could be the candidate.<ref>{{cite news|last1=Jimenez Rueda|first1=Antonio|title=En encerrona con diferentes sectores, Rodrigo Chaves explora este sábado si lanza precandidatura|url=https://www.ameliarueda.com/nota/exministro-hacienda-encerrona-precandidatura-noticas-costa-rica|access-date=10 February 2021|agency=[[Amelia Rueda]]|date=6 February 2021}}</ref> According to Chaves, "I've told them that, first of all, you cannot talk about a long trip if you do not have a vehicle. Secondly, you can much less talk about the driver of a vehicle that does not exist. But I agree with them that in this country, approximately 60 percent of the voters do not find representation in any of the existing parties or feel the need to support them."<ref>{{cite news|last1=Hidalgo|first1=Kristin|title=Republicano Socialcristiano entre 7 partidos que buscan coalición alrededor de Rodrigo Chaves|url=https://www.ameliarueda.com/nota/partidos-coalicion-exministro-rodrigo-chaves-noticias-costa-rica|access-date=10 February 2021|agency=[[Amelia Rueda]]|date=10 February 2021}}</ref> Chaves affirmed at the end of February 2021 that there are seven participating parties, three already registered: Republican Social Christian, National Integration (with parliamentary representation) and [[Social Democratic Progress Party]], alongside four in the process of registration: United for Costa Rica, Our Town and the Costa Rican Pacific Union and that they have not defined the candidates for president and vice-presidents.<ref>{{cite news|last1=Herrera|first1=Juan José|title=Rodrigo Chaves anuncia coalición para buscar presidencia en 2022|url=https://www.teletica.com/politica/rodrigo-chaves-anuncia-coalicion-para-buscar-presidencia-en-2022_280331|access-date=23 February 2021|agency=[[Teletica]]|date=23 February 2021}}</ref> At the end of May, the Republican Social Christian Party and Chaves announced their separation, affirming ideological incompatibilities and breach of agreements, including the candidacy of two-time Republican candidate Rodolfo Hernández for deputy for San José.<ref>{{Cite web|last=Debrús|first=Geovanny|date=2021-05-27|title=PRSC rompe con Rodrigo Chaves: "No cumplió acuerdos ni valoró esfuerzo de la dirigencia", alegan.|url=https://www.culturacr.net/prsc-rompe-con-rodrigo-chaves-no-cumplio-acuerdos-ni-valoro-esfuerzo-de-la-dirigencia-alegan/|access-date=2022-01-29|website=CulturaCR Costa Rica|language=es-CR}}</ref><ref>{{Cite web|title=Partido Republicano desiste de posible coalición política junto al exministro Rodrigo Chaves|url=https://delfino.cr/2021/05/partido-republicano-desiste-de-posible-coalicion-politica-junto-al-exministro-rodrigo-chaves|access-date=2022-01-29|website=delfino.cr|language=es}}</ref><ref>{{link risk|https://elperiodicocr.com/partido-republicano-rompe-relaciones-con-rodrigo-chaves-para-posible-coalicion-politica/}}</ref><ref>{{Cite web|title=Partido Republicano rompe conversaciones con Rodrigo Chaves sobre candidatura presidencial|url=https://www.nacion.com/el-pais/politica/partido-republidano-rompe-conversaciones-con/7FBRTQW3HRCJ7PNK5CRQ466N2I/story/|access-date=2022-01-29|website=La Nación|language=es}}</ref> In July, Chaves announced his candidacy with the recently founded [[Social Democratic Progress Party]].<ref>{{cite news |last1=Perez |first1=Wendy |title=Rodrigo Chaves anuncia su candidatura a la presidencia con el Partido Progreso Social Democrático |url=https://www.elmundo.cr/elecciones-2022/rodrigo-chaves-anuncia-su-candidatura-a-la-presidencia-con-el-partido-progreso-social-democratico/ |access-date=9 July 2021 |agency=Mundo |date=7 July 2021}}</ref>
+* Liberal Union: Former Libertarian Movement leader Otto Guevara left the Libertarian Movement after the party went bankrupt and in economic disarray, and founded the Liberal Union Party. The former deputy and former Libertarian presidential candidate Federico Guillermo Malavassi Calvo announced his presidential nomination with Guevara as deputy candidate on the party list.<ref>{{cite news|last1=Pérez|first1=Karla|title=Otto Guevara no descarta sexta candidatura a la presidencia en 2022|url=https://www.elmundo.cr/otto-guevara-no-descarta-sexta-candidatura-la-presidencia-2022/|access-date=29 October 2018|agency=Mundo|date=6 February 2018}}</ref><ref>{{cite news|last1=Arrieta|first1=Esteban|title=Otto Guevara piensa en nuevo partido y desaparecer deudas de un plumazo|url=https://www.larepublica.net/noticia/otto-guevara-piensa-en-nuevo-partido-y-desaparecer-deudas-de-un-plumazo|access-date=29 October 2018|agency=La República|date=22 March 2018}}</ref><ref>{{cite web|url=https://www.elmundo.cr/elecciones-2022/federico-malavassi-presentara-su-nombre-para-ser-candidato-presidencial-por-union-liberal/|title=Federico Malavassi presentará su nombre para ser candidato presidencial por Unión Liberal|access-date=2021-05-11|last=Perez|first=Wendy|date=2021-05-10|website=El Mundo CR|language=es}}</ref>
+* [[Libertarian Movement (Costa Rica)|Libertarian Movement]]: Lawyer and financier with a [[neoliberal]] tendency, Carlos Valenciano Kamer, known for suing Célimo Guido during the demonstrations of the National Rescue Movement at the end of 2020, was announced as a candidate by the libertarian party, but he quit some months after.<ref>{{cite web|url=https://www.elmundo.cr/elecciones-2022/carlos-valenciano-kamer-confirma-su-candidatura-a-la-presidencia-con-el-movimiento-libertario/|title=Carlos Valenciano Kamer confirma su candidatura a la presidencia con el Movimiento Libertario|access-date=2021-05-21|last=Perez|first=Wendy|date=2021-05-21|website=El Mundo CR|language=es}}</ref><ref>{{cite web|work=Diario Extra |title=Libertario presenta candidato presidencial|url=https://www.diarioextra.com/Noticia/detalle/450371/libertario-presenta-candidato-presidencial|access-date=2021-05-21|language=ES}}</ref> The party nominated Luis Alberto Cordero Arias as the presidential candidate.
+* National Encounter: Former deputy Óscar Campos, organizer of blockades and protests against the government in 2018, founded this party.<ref>{{Cite web|last=Chaves|first=Danilo|title=Partido Encuentro Nacional estará en la papeleta presidencial del 2022|url=https://costaricamedios.cr/2021/06/24/partido-encuentro-nacional-estara-en-la-papeleta-presidencial-del-2022/|access-date=2022-01-29|language=es}}</ref><ref>{{Cite web|work=Diario Extra |title=Representante del agro conforma partido político|url=https://www.diarioextra.com/Noticia/detalle/436750/representante-del-agro-conforma-partido-pol-tico|access-date=2022-01-29|language=ES}}</ref>
+* [[National Restoration Party (Costa Rica)|National Restoration]]: This party, that held an important role in the last election, nominated the former [[President of the Legislative Assembly of Costa Rica|president of the Legislative Assembly]], Eduardo Cruickshank.<ref name="ruiz">{{cite news|last1=Ruiz|first1=Paula|title=Figuras políticas anuncian su interés por postularse como precandidatos presidenciales|url=https://observador.cr/figuras-politicas-anuncian-su-interes-por-postularse-como-precandidatos-presidenciales/|access-date=7 December 2020|agency=El Observador|date=6 December 2020}}</ref> 
+* [[New Generation Party (Costa Rica)|New Generation Party]]: Sergio Mena Díaz would be repeating for the third time the presidential candidacy with a double nomination for deputy also for the third time for New Generation.<ref name="ruiz" /> 
+* [[New Republic Party (Costa Rica)|New Republic]]: [[Fabricio Alvarado]], who was the first place of the first round and runner-up of the previous election, announced his separation from the party for which he was a deputy and candidate, and create the New Republic Party, although he assures that this would be a secular and non-Christian party unlike its predecessor.<ref>{{cite web |last1=Madrigal |first1=Luis |title=Fabricio Alvarado renuncia a Restauración Nacional: "Su cúpula me vio como una amenaza" |url=https://delfino.cr/2018/10/fabricio-alvarado-renuncia-a-restauracion-nacional-su-cupula-me-vio-como-una-amenaza/ |website=Delfino |access-date=24 October 2018}}</ref>
+* Our People: The former [[Minister of the Presidency of Costa Rica]] and former candidate (twice) of the [[Social Christian Unity Party]] [[Rodolfo Piza Rocafort]] announced that he would be participating but this time for the Our People Party, a provincial party in the process of being constituted on a national scale.<ref>{{cite news|last1=Arrieta|first1=Esteban|title=Rodolfo Piza será candidato por partido minoritario Nuestro Pueblo|url=https://www.larepublica.net/noticia/rodolfo-piza-sera-candidato-por-partido-minoritario-nuestro-pueblo|access-date=8 June 2021|agency=La República|date=8 June 2021 }}</ref><ref>{{Cite web|last=Gómez|first=Tomás|date=2021-06-08|title=Rodolfo Piza buscará Presidencia con el partido "Nuestro Pueblo"|url=https://observador.cr/rodolfo-piza-buscara-presidencia-con-el-partido-nuestro-pueblo/|access-date=2022-01-29|website=El Observador CR|language=es-CR}}</ref><ref>{{cite news|last1=Romero|first1=Fernanda|title=Rodolfo Piza reconoce diálogo con coaliciones y definirá su futuro político a finales de junio|url=https://www.monumental.co.cr/2021/05/30/rodolfo-piza-reconoce-dialogo-con-coaliciones-y-definira-su-futuro-politico-a-finales-de-junio/|access-date=9 June 2021|agency=Monumental|date=30 May 2021}}</ref><ref>{{cite news|last1=Acuña|first1=Pilar|title="No descarto ser candidato ni dejar de serlo", afirma Rodolfo Piza|url=https://www.vozyvoto.org/nota/partido-nuevo-rodolfo-piza-presidencia-noticias-costa-rica|access-date=9 June 2021|agency=Voz y Voto|date=8 June 2021|archive-date=9 June 2021|archive-url=https://web.archive.org/web/20210609113554/https://www.vozyvoto.org/nota/partido-nuevo-rodolfo-piza-presidencia-noticias-costa-rica|url-status=dead}}</ref><ref>{{cite news|last1=Arroyo|first1=Alan|title=Rodolfo Piza propone que candidato de eventual coalición sea elegido por votos en septiembre|url=https://www.columbia.co.cr/noticias/elecciones-2022/31863-rodolfo-piza-buscara-union-con-otros-partidos-y-que-candidato-sea-elegido-en-convencion|access-date=9 June 2021|agency=Columbia|date=8 June 2021}}</ref> Our People Party was a provincial political party founded mostly by former Social Christian Unity Party members and converted to the national level.<ref>{{cite news|last1=Solano|first1=Hermes|title=Presidente de partido Nuestro Pueblo confirma que Piza será candidato presidencial|url=https://observador.cr/presidente-de-partido-nuestro-pueblo-confirma-que-piza-sera-candidato-presidencial/|access-date=13 August 2021|agency=Observador|date=12 August 2021}}</ref>
+* [[Social Christian Republican Party]]: The party considered the former minister Rodrigo Chaves as presidential candidate<ref>{{cite news |last1=Romero |first1=Fernanda |title=Republicano Social Cristiano en busca de candidato presidencial tras romper relación con exministro Rodrigo Chaves |url=https://www.monumental.co.cr/2021/06/01/republicano-social-cristiano-en-busca-de-candidato-presidencial-tras-romper-relacion-con-exministro-rodrigo-chaves/ |access-date=9 July 2021 |date=1 June 2021}}</ref> and also former President [[Rafael Ángel Calderón Fournier]] was asked to run, but he declined, arguing for health reasons.<ref>{{cite news |last1=Romero Fernanda |title=Rafael Ángel Calderón rechaza ser candidato presidencial del Partido Republicano Social Cristiano |url=https://www.monumental.co.cr/2021/06/08/rafael-angel-calderon-rechaza-ser-candidato-presidencial-del-partido-republicano-social-cristiano/ |access-date=9 July 2021 |agency=Monumental |date=8 June 2021}}</ref> Nomination finally went to three-time candidate Rodolfo Hernández who was also a candidate in 2014 and 2018.
+* [[United We Can (Costa Rica)|United We Can]]: Natalia Díaz Quintana, former deputy and former presidential candidate within the [[Libertarian Movement (Costa Rica)|Libertarian Movement]] created a new liberal party called United We Can. Díaz had previously resigned from the Libertarian Movement and even gave her adhesion to the candidate of the National Liberation Party [[Antonio Álvarez Desanti]] in the [[2018 Costa Rican general election|2018 election]].<ref>{{cite news|last1=Alfaro|first1=Josué|title=Natalia Díaz intentará impulsar un nuevo partido liberal, aunque "menos radical"|url=https://semanariouniversidad.com/pais/natalia-diaz-intentara-impulsar-un-nuevo-partido-liberal-aunque-menos-radical/|access-date=29 October 2018|agency=Semanario Universidad|date=24 May 2018}}</ref><ref>{{cite news|last1=Herrera|first1=Kimberly|title=Natalia Díaz fundará nuevo partido "Unidos Podemos"|url=https://www.elmundo.cr/natalia-diaz-fundara-nuevo-partido-unidos-podemos/|access-date=29 October 2018|agency=Mundo|date=23 April 2018}}</ref> Diaz was ratified as presidential nominee on 26 June.<ref>{{cite news|last1=Alvarado|first1=Andrés|title=Exdiputada Natalia Díaz lanza candidatura por el Partido Unidos Podemos|url=https://www.vozyvoto.org/nota/exdiputada-natalia-diaz-candidatura-noticias-costa-rica|access-date=26 June 2021|agency=VozyVoto|date=26 June 2021|archive-date=26 June 2021|archive-url=https://web.archive.org/web/20210626185523/https://www.vozyvoto.org/nota/exdiputada-natalia-diaz-candidatura-noticias-costa-rica|url-status=dead}}</ref>
+
+===Failed coalitions proposal===
+As of the legal deadline for the inscription of alliances, 8 August 2021, no party entered a coalition, but some attempts were made by some of the right-wing parties.<ref>{{cite news|last1=Madrigal|first1=Rebeca|title=Partidos descartan coaliciones para elecciones del 2022|url=https://www.nacion.com/el-pais/politica/partidos-descartan-coaliciones-para-elecciones-del/2QYDG6NIUJATHKEDC25FWRMNIU/story/|access-date=13 August 2021|agency=La Nación|date=5 August 2021}}</ref>
+
+====Attempted coalitions====
+At the beginning of 2020, the presidents of Social Christian Unity Party, Christian Democratic Alliance and Liberal Union began negotiations for the creation of a conservative-liberal right-wing coalition with the self-proclaimed goal of preventing a third government of the Citizen Action Party. Although Natalia Díaz Quintana of Unidos Podemos was invited, she declined to participate, preferring to fight the elections alone. The participation of Eliécer Feinzaig Mintz of the Progressive Liberal Party in the negotiations was reported in principle, but their representatives later denied it.<ref name=rep>{{cite news|last1=Arrieta|first1=Esteban|title=Coalición liberal 2022 toma forma|url=https://www.larepublica.net/noticia/coalicion-liberal-2022-toma-forma|access-date=25 February 2020|agency=La República|date=25 February 2020}}</ref><ref>{{cite news|last1=Arrieta|first1=Esteban|title=Eli Feinzaig: "Una coalición liberal debe tener programa y objetivos claros"|url=https://www.larepublica.net/noticia/eli-feinzaig-una-coalicion-liberal-debe-tener-programa-y-objetivos-claros|access-date=27 February 2020|agency=La República|date=25 February 2020}}</ref>
+
+The proposal for a Christian-liberal coalition was also promoted by former Social Christian president [[Miguel Ángel Rodríguez Echeverría]]. However, the proposal was rejected in the National Assembly of the Social Christian Unity Party.<ref>{{cite news|last1=Romero|first1=Fernanda|title=Expresidente Miguel Ángel Rodríguez llama al PUSC a formar coalición para las próximas elecciones|url=https://monumental.co.cr/2021/01/07/expresidente-miguel-angel-rodriguez-llama-al-pusc-a-formar-coalicion-para-las-proximas-elecciones/|access-date=10 February 2021|agency=Monumental|date=7 January 2021}}</ref><ref>{{cite news|last1=Arrieta|first1=Esteban|title=Unidad cierra las puertas a una coalición para elecciones presidenciales|url=https://www.larepublica.net/noticia/unidad-cierra-las-puertas-a-una-coalicion-para-elecciones-presidenciales|access-date=10 February 2021|agency=La República|date=7 February 2021}}</ref>
+
+====Coalition for Change====
+On 21 June 2021, [[Cartago (canton)|Cartago]] mayor Mario Redondo Poveda and former Deputy Minister of Transportation Eliécer Feinzaig Mintz, respectively the presidents of the [[Christian Democratic Alliance (Costa Rica)|Christian Democratic Alliance]] and [[Progressive Liberal Party (Costa Rica)|Progressive Liberal Party]], announced the "Coalition for Change".<ref>{{Cite web|title=Eli Feinzaig y Mario Redondo se unen y crean "Coalición para el Cambio" de cara a elecciones 2022|url=https://delfino.cr/2021/06/eli-feinzaig-y-mario-redondo-se-unen-y-crean-coalicion-para-el-cambio-de-cara-a-elecciones-2022|access-date=2022-01-29|website=delfino.cr|language=es}}</ref> This would be the first coalition of right-wing parties to participate in a presidential election since the [[Unity Coalition]] in [[1978 Costa Rican general election|1978]], and the first overall since United Left in [[2006 Costa Rican general election|2006]].<ref>{{cite web|last1=Quirós Navarro|first1=Bharley|title=Coalición de partidos sería la primera desde 1978|url=https://www.diarioextra.com/Noticia/detalle/452784/coalici-n-de-partidos-ser-a-la-primera-desde-1978?fb_comment_id=3997875176996698_3998365956947620|work=[[Diario Extra (Costa Rica)|Diario Extra]]|date=19 June 2021|access-date=22 June 2021}}</ref><ref>{{cite news|last1=Redacción|title=Mario Redondo y Eli Feinzaig oficializarán coalición este lunes, con miras a Elecciones del 2022|url=https://observador.cr/mario-redondo-y-eli-feinzaig-oficializaran-coalicion-este-lunes-con-miras-a-elecciones-del-2022/|access-date=22 June 2021|agency=Observador|date= 20 June 2021}}</ref><ref name="alfaro">{{cite news|last1=Alfaro|first1=Josué|title=Mario Redondo y Eli Feinzaig afinan alianza rumbo a elecciones 2022|url=https://www.ameliarueda.com/nota/mario-redondo-eli-feinzaig-afinan-alianza-noticias-costa-rica|access-date=16 March 2021|agency=[[Amelia Rueda]]|date=16 March 2021}}</ref>
+
+On 25 June Redondo individually abandoned the Coalition due to questionings after it was made public that he held secret meetings with one of the companies involved in the ''Cochinilla'' judicial case scandal.<ref>{{cite news|last1=Molina Mesen|first1=Richard|title=Alcalde de Cartago admite que gente de MECO se le acercó|url=https://elguardian.cr/alcalde-de-cartago-admite-que-gente-de-meco-se-le-acerco/|access-date=26 June 2021|agency=El Guardián|date=26 June 2021}}</ref><ref>{{cite news|last1=Muñoz|first1=Fernando|title=Expediente de caso 'cochinilla' evidencia reuniones entre alcalde de Cartago y gerente de MECO|url=https://www.monumental.co.cr/2021/06/25/expediente-de-caso-cochinilla-evidencia-reuniones-entre-alcalde-de-cartago-y-gerente-meco/|access-date=26 June 2021|agency=Monumental|date=25 June 2021}}</ref><ref>{{cite news|last1=Sequeira|first1=Aaron|title=Mario Redondo abandona coalición que formaría con Eli Feinzaig 'para no afectar'|url=https://www.nacion.com/el-pais/politica/mario-redondo-abandona-coalicion-que-formaria-con/LQGOQO6OG5E7RPTZLSNPKUAUFQ/story/|access-date=26 June 2021|agency=[[Grupo Nación]]|date=26 June 2021}}</ref>
+
+=== Personalities that attempted to run ===
+* [[Juan Diego Castro Fernández]]: One of the first to make the announcement was [[criminal lawyer]] and former Justice Minister Juan Diego Castro, who announced the creation of a new party called "Reconstruction" after his unfriendly break with the [[National Integration Party (Costa Rica)|National Integration Party]]. Castro announced in January 2021, he was cancelling the process of forming the party due to difficulties in the registration process, formally requesting the Supreme Electoral Tribunal for the filing. In 2021 Castro Fernández confirmed to [[Teletica]] that he would be a presidential candidate for the second time, although he did not clarify by which group, assuring that he is evaluating being one by a party or coalition. He only completely ruled out the return to being one by National Integration, from which he had an unfriendly exit.<ref>{{cite news |last1=Murillo |first1=Alvaro |title=Juan Diego Castro aborta inscripción de su nuevo partido para el 2022 |url=https://semanariouniversidad.com/pais/juan-diego-castro-aborta-inscripcion-de-su-nuevo-partido/ |access-date=5 January 2021 |agency=[[Semanario Universidad]] |date=4 January 2021}}</ref><ref>{{cite news|last1=Gutiérrez Wa-Chong|first1=Tatiana|title=Juan Diego Castro anuncia su nuevo partido Reconstrucción CR|url=https://www.larepublica.net/noticia/juan-diego-castro-anuncia-su-nuevo-partido-reconstruccion-cr|access-date=11 April 2018|agency=La República|date=17 February 2018}}</ref><ref>{{cite news|last1=Montero|first1=Mariela|title=Juan Diego Castro suma fuerzas para crear un nuevo partido político en el país|url=http://www.columbia.co.cr/web/index.php/noticias/nacionales/1593-juan-diego-castro-suma-fuerzas-para-crear-un-nuevo-partido-politico-en-el-pais|access-date=11 April 2018|agency=Columbia|date=18 February 2018|archive-url=https://web.archive.org/web/20180412001111/http://www.columbia.co.cr/web/index.php/noticias/nacionales/1593-juan-diego-castro-suma-fuerzas-para-crear-un-nuevo-partido-politico-en-el-pais|archive-date=12 April 2018}}</ref><ref>{{cite news|last1=Peña Nassar|first1=Susana|title=Juan Diego Castro: "Estoy decidido por una candidatura"|url=https://www.teletica.com/politica/juan-diego-castro-estoy-decidido-por-una-candidatura_284580|access-date=7 June 2021|agency=Teletica|date=28 April 2021 }}</ref>
+
+==Campaign==
+
+Voters' concerns included high unemployment (nearly 20 percent), rising costs of living, corruption and, to a lesser extent, immigration.<ref name=":0">{{Cite web|title=Meet the Candidates: Costa Rica|url=https://americasquarterly.org/article/meet-the-candidates-costa-rica/|access-date=2022-01-29|website=Americas Quarterly}}</ref>
+
+The [[Citizens' Action Party (Costa Rica)|Citizens' Action Party]], in power since 2014, has become largely unpopular and suffers from internal divisions. Its candidate, [[Welmer Ramos González|Welmer Ramos]], had only low voting intentions in the opinion polls.<ref name=":0" />
+
+[[Fabricio Alvarado Muñoz|Fabricio Alvarado]] ran again. Supported by conservative [[Evangelicalism|evangelicals]], he focused his campaign on societal issues, denouncing "[[gender ideology]]" in education and alleged infringements on religious freedoms. He promised not to raise taxes and was expected to benefit from the resentment of some Costa Ricans towards traditional political parties, which some consider corrupt.<ref name=":0" />
+
+[[José María Figueres]], the candidate of the [[National Liberation Party (Costa Rica)|National Liberation Party]], was president from 1994 to 1998 and is the son of [[José Figueres Ferrer]], who was president several times. In office, he eliminated social welfare programs. He promised economic reforms, including pension reform, to reduce the deficit and unemployment. He also proposed to encourage the oil industry. However, he was weakened by a corruption case dating back to 2004.<ref name=":0" />
+
+[[Rodrigo Chaves Robles]], the candidate of the [[Social Democratic Progress Party]], served as Minister Of Finance from 2019 to 2020. As part of his campaign, he sought to combat corruption by punishing those who do not report acts of misconduct. He stated he was in favor of transparency between the government and the press, universities and citizens, and he planned to foster it through a daily report of the activities carried out by public institutions. His plan regarding unemployment involved encouraging more women to join the workforce and to raise the number of STEM graduates in response to the growing demand. He also supported bilingual education and welcomed foreign businesses in Costa Rica. To top off his campaign, he proposed a five-step plan to lower the cost of living. The five step plan was removing taxes from basic food and household items, lowering the price of rice, lowering the price of electricity, eliminating monopolies and supporting farmers to import more efficient agrochemicals.<ref>{{Cite web |last=García |first=Javier Cataño |date=2022-02-25 |title=What You Need to Know about Costa Rica's April 3 Presidential Elections |url=https://latinarepublic.com/2022/02/25/what-you-need-to-know-about-costa-ricas-april-3-presidential-elections/ |access-date=2022-04-03 |website=Latina Republic |language=en-US}}</ref>
+
+[[Lineth Saborío Chaverri|Lineth Saborio]], supported by the centre-right [[Social Christian Unity Party]], was vice-president of Costa Rica from 2002 to 2006 under President [[Abel Pacheco]]. Her proposals included reducing taxes and defending the agreement with the [[International Monetary Fund]] (IMF) signed by the government.<ref name=":0" />
+
+[[José María Villalta Flórez-Estrada|José María Villalta]] represented the [[Broad Front (Costa Rica)|Broad Front]] left-wing coalition. He emphasized the fight against climate change, workers' rights and social programs. He advocated for tax reform, a sharp increase in social spending, strengthening labor rights, energy transition and defense of [[LGBTQ rights]]. He was heavily attacked for his support of Nicaragua and Venezuela.<ref name=":0" />
+
+==Themes==
+===Social===
+====COVID-19 pandemic====
+{{Main|COVID-19 pandemic in Costa Rica}}
+The COVID-19 pandemic, which, as of February 2021, has resulted in more than 2,800 deaths in Costa Rica, has had significant socioeconomic effects in the country that were expected to influence the presidential elections. An example is unemployment, which, influenced by the effects of the pandemic, increased to 21.9% by October 2020.4 According to a study by the Center for Research and Political Studies (CIEP) of the University of Costa Rica, 27.45% of the 877 people consulted in the study throughout the national territory identified unemployment as the main problem in the country in the context of the pandemic.<ref>{{cite web|url=https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1725-situacion-nacional-covid-19|title=Situación Nacional Covid-19|access-date=27 February 2021|work=Ministerio de Salud Pública|archive-date=6 February 2022|archive-url=https://web.archive.org/web/20220206210800/https://www.ministeriodesalud.go.cr/index.php/centro-de-prensa/noticias/741-noticias-2020/1725-situacion-nacional-covid-19|url-status=dead}}</ref><ref>{{cite news|last=Montero|first=Andrea Méndez|title=El desempleo preocupa a la ciudadanía más que el COVID-19|url=https://www.ucr.ac.cr/noticias/2020/08/19/el-desempleo-preocupa-a-la-ciudadania-mas-que-el-covid-19.html|date=19 August 2020|access-date=27 February 2021|work=Universidad de Costa Rica}}</ref>
+
+====Popular protests====
+One of the most controversial aspects of the Alvarado Quesada administration was the approval by the Legislative Assembly of the Law for the Strengthening of Public Finances, popularly known as the [[Tax reform|Fiscal Plan]], which was opposed by both the right and the left, but it was supported by the benches of the majority parties; PLN, PAC and PUSC (ranging from center-right to center-left). Opposition to the project led to the 2018 Costa Rican union strike, one of the largest in recent history, but which did not have the effect of stopping the project.
+
+The opposition to the tax reform, however, generated future protests coupled with other issues of discontent from specific sectors. In mid-2019, protests were raised by fishermen, truck drivers and high school students, the latter calling for the resignation of the Minister of Education Edgar Mora and closing national roads. The students demanded, among other things, the end of the FARO tests and the reestablishment of the traditional high school tests, improvement in infrastructure and the departure of Mora, who effectively resigned on 2 July 2019. The protests were supported by allies as dissimilar as the union movements traditionally associated with the left of leaders such as the unionist Albino Vargas as well as the ultra-conservative [[neo-Pentecostal]] political movement led by the presidential candidate Fabricio Alvarado and by far-right movements.<ref>{{cite news|last1=Avendaño|first1=Manuel|title=El coqueteo político entre Nueva República y Albino Vargas|url=https://www.elfinancierocr.com/economia-y-politica/el-coqueteo-politico-entre-nueva-republica-y/DK6PAYMUDNCKBM24HS3ROFGVUI/story/|access-date=15 July 2019|agency=La República|date=19 November 2019}}</ref>
+
+===Migration and xenophobia===
+The first potential candidate to make the issue of migration his own was Sergio Mena Díaz of the right-wing extra-parliamentary [[New Generation Party (Costa Rica)|New Generation party]], who, among other things, proposes to reform the [[Constitution of Costa Rica|Constitution]] to eliminate ''[[ius soli]]'' (birthright citizenship, which allows anyone to be Costa Rican by birth by being born in Costa Rican territory).<ref name=ncr>{{cite news|last1=Barrantes|first1=Fabián|title=Polémico proyecto xenófobo causa cientos de críticas a Sergio Mena|url=https://ncrnoticias.com/nacionales/polemico-proyecto-xenofobo-causa-cientos-de-criticas-a-sergio-mena/|access-date=14 July 2019|agency=NCR|date=29 April 2019}}</ref><ref>{{cite news|title=Líder de partido tico propone negar nacionalidad "automática" a hijos|url=https://www.crhoy.com/sin-categoria/partido-tico-propone-negar-nacionalidad-automatica-a-hijos-de-extranjeros/|access-date=14 July 2019|agency=CRHoy|date=27 April 2017}}</ref><ref>{{cite news|last1=Redacción|title=Reforma busca que no se otorgue nacionalidad tica a recién nacidos de padres extranjeros|url=https://teletica.com/225898_reforma-busca-que-no-se-otorgue-nacionalidad-tica-a-recien-nacidos-de-padres-extranjeros|access-date=14 July 2019|agency=Teletica|date=16 May 2019}}</ref> The bill earned Mena harsh criticism who was even accused of being a "[[fascist]]" by the left-wing deputy [[José María Villalta]].<ref>{{cite news|last1=Soto Sibaja|first1=Juan Enrique|title=José María Villalta califica de "fascista" propuesta para negar nacionalidad a hijos de extranjeros|url=http://www.monumental.co.cr/2019/05/22/jose-maria-villata-califica-de-fascista-propuesta-para-negar-nacionalidad-a-hijos-de-extranjeros/|access-date=14 July 2019|agency=Monumental|date=29 May 2019}}</ref>
+
+===Cannabis legalization===
+In April 2021, the parliamentary caucus of the [[Citizens' Action Party (Costa Rica)|Citizen's Action Party]] proposed through a bill the legalization of the production, consumption and sale of [[cannabis]] and its derivatives, including for [[Recreational marijuana|recreational]] use and not just [[Medicinal marijuana|medicinal]].<ref>{{Cite web|date=2021-04-20|title=PAC presenta proyecto de ley para legalizar la marihuana en Costa Rica|url=https://www.monumental.co.cr/2021/04/20/pac-presenta-proyecto-de-ley-para-legalizar-la-marihuana-en-costa-rica/|access-date=2022-01-29|website=Monumental|language=es}}</ref> Conservative legislators opposed the measure.<ref>{{cite news|last=Abarca|first=Fiorella|title=Carmen Chan asegura que el PAC quiere polarizar con tema de legalización de la marihuana|url=https://www.elmundo.cr/costa-rica/carmen-chan-asegura-que-el-pac-quiere-polarizar-con-tema-de-legalizacion-de-la-marihuana/|date=20 April 2021|access-date=26 April 2021|work=elmundo.cr}}</ref><ref>{{cite news|last=Mora|first=Carlos|title=Oposición censura al PAC por proponer legalización de la marihuana|url=https://www.crhoy.com/nacionales/oposicion-censura-al-pac-por-proponer-legalizacion-de-la-marihuana/|date=21 April 2021|access-date=26 April 2021|work=crhoy.com}}</ref><ref>{{cite news|last=Mora|first=Carlos|title=En el popular 4/20, PAC propone legalizar el consumo de la marihuana|url=https://www.crhoy.com/nacionales/en-el-popular-420-pac-propone-legalizar-consumo-de-marihuana/|date=20 April 2021|access-date=26 April 2021|work=crhoy.com}}</ref> If approved, the bill would establish the power of the ministries of Health, Agriculture and Livestock, Economy, Industry and Commerce and Foreign Trade to regulate production, transformation, industrialization and commercialization activities, and It would give the government the power to issue licenses for production and commercialization as well as possible closures.<ref>{{cite news|last=Villalobos|first=Paulo|title=Legalización del consumo recreacional del cannabis, incluida su producción y venta, propone PAC|url=https://www.ameliarueda.com/nota/legalizacion-consumo-cannabis-produccion-venta-pac-noticias-costa-rica|date=20 April 2021|access-date=26 April 2021|work=Amelia Rueda}}</ref>
+
+===Corruption===
+On 17 February 2020, the Alvarado government created the Presidential Data Analysis Unit (UPAD) through decree number 41996-MP-Mideplan, the same office that would be quickly dissolved days later, on 23 February, due to its controversial origins, performance and goals. The UPAD requested personal information about citizens from different government entities since 2019, so the Legislative Assembly initiated an investigation on 26 February 2020. On 28 February 2020, the Office of the Attorney General of the Republic carried out a search of a Presidential House where he collects electronic devices as evidence, including President Carlos Alvarado's cell phone and laptop.<ref>{{cite news|title=UPAD recopiló datos personales sin respaldo legal, argumentó Fiscalía en solicitud de allanamiento|url=https://semanariouniversidad.com/pais/upad-recopilo-datos-personales-sin-respaldo-legal-argumento-fiscalia-en-solicitud-de-allanamiento/|access-date=13 December 2020|work=Semanario Universidad|date=29 February 2020}}</ref><ref>{{cite news|last1=Bravo|first1=Josué|title=Fiscala General allana Casa Presidencial por caso UPAD; Carlos Alvarado figura como investigado|url=https://www.nacion.com/el-pais/politica/fiscala-general-allana-casa-presidencial-por/ISZ4XNBRXVGZZD3UPL7YCIUNPM/story/|access-date=13 December 2020|work=La Nación|date=28 February 2020}}</ref>
+
+During 2021, it was discovered that since 2015 an alleged organized [[drug trafficking]] group had meetings at the legislative headquarters with some thirteen legislators and former legislators in their offices.<ref name=narco>{{cite news|last1=Arrieta|first1=Esteban|title=Visitas de supuesto grupo narco a la Asamblea Legislativa serán investigadas por los diputados|url=https://www.larepublica.net/noticia/visitas-de-supuesto-grupo-narco-a-la-asamblea-legislativa-seran-investigadas-por-los-diputados|access-date=21 June 2021|agency=La República|date=1 June 2021 }}</ref>
+
+On Monday, 14 June 2021, the [[Judicial Investigation Agency]] carried out 57 raids on homes, construction companies and government institutions, including the second raid on the Presidential House during the Carlos Alvarado administration, in which documents were confiscated, and 30 people were arrested. The investigation was nicknamed the ''Caso Cochinilla'' ([[Woodlouse]] case) in reference to the parasite.
+
+This judicial investigation case revolves around a network of corruption and bribery between construction companies (MECO, H Solís, Montedes and others) and officials of the National Council of Roads (Conavi), the entity in charge of the development of highways in the country, which publishes the contracting posters and administers their tenders. President Alvarado ordered a full investigation of the Ministry and suspended all contracts with the involved companies.<ref name=cochinilla>{{cite news|last1=González|first1=Rodolfo|title=¿En qué consiste el "Caso Cochinilla"?|url=https://www.teletica.com/noticias/en-que-consiste-el-caso-cochinilla_287704|access-date=19 June 2021|work=Teletica.com|date=14 June 2021}}</ref><ref>{{cite news|last1=Corrales|first1=Eric|title=Caso "Cochinilla": Piden 1 año de prisión preventiva para 15 de los detenidos|url=https://www.teletica.com/nacional/caso-cochinilla-piden-1-ano-de-prision-preventiva-para-15-de-los-detenidos_287973|access-date=19 June 2021|work=Teletica.com|date=17 June 2021}}</ref>
+
+==Opinion polls==
+{{main|Opinion polling for the 2022 Costa Rican general election}}
+
+==Results==
+=== President ===
+{{Election results
+
+|cand1=[[José María Figueres Olsen]]|party1=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes1=571518|votes1_2=924699
+|cand2=[[Rodrigo Chaves Robles]]|party2=[[Social Democratic Progress Party]]|votes2=351453|votes2_2=1035388
+|cand3=[[Fabricio Alvarado Muñoz]]|party3=[[New Republic Party (Costa Rica)|New Republic Party]]|votes3=311633
+|cand4=Eliécer Feinzaig Mintz|party4=[[Progressive Liberal Party (Costa Rica)|Progressive Liberal Party]]|votes4=259788
+|cand5=[[Lineth Saborío Chaverri]]|party5=[[Social Christian Unity Party]]|votes5=259767
+|cand6=[[José María Villalta Flórez-Estrada]]|party6=[[Broad Front (Costa Rica)|Broad Front]]|votes6=182789
+|cand7=[[Rolando Araya Monge]]|party7=[[A Just Costa Rica]]|votes7=19951
+|cand8=Greivin Moya Carpio|party8=National Force Party|votes8=16576|color8=#4B0082
+|cand9=Natalia Díaz Quintana|party9=[[United We Can]]|votes9=16496
+|cand10=[[Welmer Ramos González]]|party10=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes10=13803
+|cand11=[[Óscar López (Costa Rican politician)|Óscar López Arias]]|party11=[[Accessibility without Exclusion Party]]|votes11=12418
+|cand12=Rodolfo Hernández Gómez|party12=[[Social Christian Republican Party]]|votes12=12224
+|cand13=Sergio Mena Díaz|party13=[[New Generation Party (Costa Rica)|New Generation Party]]|votes13=11643
+|cand14=[[Eduardo Cruickshank Smith]]|party14=[[National Restoration Party (Costa Rica)|National Restoration Party]]|votes14=11160
+|cand15=Carmen Quesada Santamaría|party15=Costa Rican Social Justice Party|votes15=6759|color15=#ffb52e
+|cand16=Federico Malavassi Calvo|party16=Liberal Union Party|votes16=6633|color16=#00008B
+|cand17=Maricela Morales Mora|party17=Costa Rican Democratic Union|votes17=6604|color17=#C0C0C0
+|cand18=Christian Rivera Paniagua|party18=[[Christian Democratic Alliance (Costa Rica)|Christian Democratic Alliance]]|votes18=5697
+|cand19=Óscar Campos Chavarría|party19=National Encounter Party|votes19=4639|color19=#ff2346
+|cand20=[[Rodolfo Piza Rocafort]]|party20=Our People Party|votes20=3359|color20=purple
+|cand21=Walter Múñoz Céspedes|party21=[[National Integration Party (Costa Rica)|National Integration Party]]|votes21=3022
+|cand22=Roulan Jiménez Chavarría|party22=Costa Rican Social Democratic Movement|votes22=2032|color22=#252440
+|cand23=Jhon Vega Masís|party23=[[Workers' Party (Costa Rica)|Workers' Party]]|votes23=1951
+|cand24=Martín Chinchilla Castro|party24=[[United People (Costa Rica)|United People]]|votes24=1495
+|cand25=Luis Alberto Cordero Arias|party25=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes25=1406
+|invalid=17665|invalid2=7758
+|blank=11607|blank2=43621
+|electorate=3541910|electorate2=3541913
+|source=Tribunal Supremo de Elecciones<ref>{{cite web |url=https://www.tse.go.cr/pdf/elecciones/computovotos_febrero_abril_2022.pdf |title=Cómputo de votos y declaratorias de elección 2022 |work=Tribunal Supremo de Elecciones |date=2022 |access-date=22 May 2023}}</ref>
+}}
+
+====By province====
+'''First round'''
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| [[Provinces of Costa Rica|Province]]
+!width=60px| [[National Liberation Party (Costa Rica)|PLN]] %
+!width=60px| [[Social Democratic Progress Party|PPSD]] %
+!width=60px| [[New Republic Party (Costa Rica)|PNR]] %
+!width=60px| [[Social Christian Unity Party|PUSC]] %
+!width=60px| [[Progressive Liberal Party (Costa Rica)|PLP+]] %
+!width=60px| [[Broad Front (Costa Rica)|FA]] %
+!width=60px| [[A Just Costa Rica|CRJ]] %
+!width=60px| [[United We Can (Costa Rica)|UP]] %
+!width=60px| PFN %
+!width=60px| [[Citizens' Action Party (Costa Rica)|PAC]] %
+!width=60px| [[New Generation Party (Costa Rica)|PNG]] %
+!width=60px| Other %
+|-
+!style="background:#008024"|
+!style="background:#39d430"|
+!style="background:#6495ed"|
+!style="background:#104b90"|
+!style="background:#fd6804"|
+!style="background:#ffee59"|
+!style="background:#02b2e3"|
+!style="background:#704098"|
+!style="background:#4B0082"|
+!style="background:#ffc700"|
+!style="background:#00a1b3"|
+!style="background:#7a7a7a"|
+|-
+| align="left"| {{nowrap|{{flag|San José Province|name=San José}}}}
+| style="background:#008024; color:white;"| 28.05
+| style="background:#9ce997; color:black;"| 15.88
+| 12.24
+| 11.18
+| 15.58
+| 9.81
+| 0.84
+| 0.81
+| 0.69
+| 0.69
+| 0.62
+| 3.61
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:#008024; color:white;"| 27.32
+| style="background:#9ce997; color:black;"| 21.92
+| 14.84
+| 11.00
+| 11.00
+| 7.18
+| 1.01
+| 0.63
+| 0.57
+| 0.56
+| 0.68
+| 3.29
+|-
+| align="left"| {{flag|Cartago Province|name=Cartago}}
+| style="background:#008024; color:white;"| 30.03
+| 13.49
+| 8.97
+| style="background:#87a5c7; color:black;"| 15.35
+| 13.60
+| 10.05
+| 0.78
+| 1.15
+| 1.06
+| 0.65
+| 0.52
+| 4.35
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:#008024; color:white;"| 26.53
+| 16.65
+| 11.10
+| 11.35
+| style="background:#feb381; color:black;"| 17.28
+| 10.29
+| 0.94
+| 0.92
+| 0.62
+| 0.73
+| 0.57
+| 3.02
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| style="background:#008024; color:white;"| 28.29
+| 16.73
+| style="background:#b1caf6; color:black;"| 17.62
+| 16.17
+| 5.89
+| 6.09
+| 1.08
+| 0.91
+| 1.15
+| 0.91
+| 0.59
+| 4.57
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:#7fbf91; color:black;"| 25.15
+| 16.57
+| style="background:#6495ed; color:white;"| 25.47
+| 13.56
+| 3.87
+| 6.70
+| 0.96
+| 0.59
+| 0.85
+| 0.65
+| 0.55
+| 5.08
+|-
+| align="left"| {{flag|Limón}}
+| style="background:#7fbf91; color:black;"| 21.07
+| 11.84
+| style="background:#6495ed; color:white;"| 29.89
+| 14.19
+| 4.24
+| 6.76
+| 1.52
+| 0.88
+| 1.24
+| 0.47
+| 0.58
+| 7.32
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:#008024; color:white;"| 27.28
+| 16.72
+| 14.79
+| 12.36
+| 12.33
+| 8.70
+| 0.95
+| 0.82
+| 0.78
+| 0.66
+| 0.60
+| 4.01
+|-
+|align=left colspan=13|Source: [https://delfino.cr/2022/02/escrutinio-final-confirma-que-solo-el-26-del-padron-electoral-definio-la-segunda-ronda TSE]
+|}
+
+'''Second round'''
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| [[Provinces of Costa Rica|Province]]
+!width=60px| [[Social Democratic Progress Party|PPSD]] %
+!width=60px| [[National Liberation Party (Costa Rica)|PLN]] %
+|-
+!style="background:#39d430"|
+!style="background:#008024"|
+|-
+| align="left"| {{nowrap|{{flag|San José Province|name=San José}}}}
+| 48.82
+| style="background:#008024; color:white;"| 51.18
+|-
+| align="left"| {{flag|Alajuela}}
+| style="background:#39d430; color:white;"| 56.48
+| 43.52
+|-
+| align="left"| {{flag|Cartago Province|name=Cartago}}
+| 47.89
+| style="background:#008024; color:white;"| 52.11
+|-
+| align="left"| {{flag|Heredia}}
+| style="background:#39d430; color:white;"| 51.43
+| 48.57
+|-
+| align="left"| {{nowrap|{{flag|Guanacaste}}}}
+| style="background:#39d430; color:white;"| 55.49
+| 44.51
+|-
+| align="left"| {{flag|Puntarenas}}
+| style="background:#39d430; color:white;"| 60.62
+| 39.38
+|-
+| align="left"| {{flag|Limón}}
+| style="background:#39d430; color:white;"| 62.87
+| 37.13
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:#39d430; color:white;"| 52.85
+| 47.15
+|-
+|align=left colspan=11|Source: TSE
+|}
+
+====Abroad vote====
+'''First round'''
+{{Pie chart
+| thumb = right
+| caption = Abroad vote
+| other = 
+| label1 =PLN
+| value1 =26.17
+| color1 =#008024
+| label2 =PLP
+| value2 =21.22
+| color2 =#FD6804
+| label3 =FA
+| value3 =16.83
+| color3 =#FFEE59
+| label4 =PPSD
+| value4 =14.77
+| color4 =#39d430
+| label5 =PUSC
+| value5 =8.84
+| color5 =#104B90
+| label6 =PNR
+| value6 =6.34
+| color6 =#6495ED
+| label7 =PAC
+| value7 =1.61
+| color7 =#FFC700
+| label8 = CRJ
+| value8 =0.74
+| color8 =#02b2e3
+| label9 =UP
+| value9 =0.61
+| color9 =#704098
+}}
+
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| Country
+!width=60px| [[National Liberation Party (Costa Rica)|PLN]] %
+!width=60px| [[Social Democratic Progress Party|PPSD]] %
+!width=60px| [[New Republic Party (Costa Rica)|PNR]] %
+!width=60px| [[Social Christian Unity Party|PUSC]] %
+!width=60px| [[Progressive Liberal Party (Costa Rica)|PLP+]] %
+!width=60px| [[Broad Front (Costa Rica)|FA]] %
+!width=60px| [[A Just Costa Rica|CRJ]] %
+!width=60px| [[United We Can (Costa Rica)|UP]] %
+!width=60px| PFN %
+!width=60px| [[Citizens' Action Party (Costa Rica)|PAC]] %
+!width=60px| [[New Generation Party (Costa Rica)|PNG]] %
+!width=60px| Other %
+|-
+!style="background:#008024"|
+!style="background:#39d430"|
+!style="background:#6495ed"|
+!style="background:#104b90"|
+!style="background:#fd6804"|
+!style="background:#ffee59"|
+!style="background:#02b2e3"|
+!style="background:#704098"|
+!style="background:#4B0082"|
+!style="background:#ffc700"|
+!style="background:#00a1b3"|
+!style="background:#7a7a7a"|
+|-
+| align="left"| {{nowrap|{{flag|Germany}}}}
+| 9.62
+| 7.29
+| 0.58
+| 4.08
+| style="background:#feb381; color:black;"| 25.66
+| style="background:#ffee59; color:black;"| 50.15
+| 0.29
+| 0.29
+| -
+| 1.17
+| -
+| 0.87
+|-
+| align="left"| {{flag|Argentina}}
+| 16.36
+| 7.27
+| 3.64
+| 3.64
+| style="background:#feb381; color:black;"| 20.00
+| style="background:#ffee59; color:black;"| 41.82
+| -
+| -
+| -
+| 7.27
+| -
+| -
+|-
+| align="left"| {{flag|Austria}}
+| 15.87
+| 4.76
+| 1.59
+| 4.76
+| style="background:#feb381; color:black;"| 31.75
+| style="background:#ffee59; color:black;"| 34.92
+| -
+| -
+| -
+| 3.17
+| -
+| 3.18
+|-
+| align="left"| {{nowrap|{{flag|Belgium}}}}
+| 12.86
+| 7.14
+| -
+| style="background:#87a5c7; color:black;"| 22.86
+| style="background:#fd6804; color:white;"| 30.00
+| 21.43
+| -
+| -
+| -
+| 2.86
+| -
+| 2.86
+|-
+| align="left"| {{flag|Brazil}}
+| style="background:#008024; color:white;"| 46.15
+| 15.38
+| -
+| 7.69
+| style="background:#feb381; color:black;"| 30.77
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| align="left"| {{flag|Canada}}
+| style="background:#7fbf91; color:black;"| 16.06
+| 13.87
+| 6.57
+| 15.33
+| style="background:#fd6804; color:white;"| 28.47
+| 10.95
+| -
+| 1.46
+| 0.73
+| 1.46
+| 0.73
+| 4.37
+|-
+| align="left"| {{flag|Chile}}
+| style="background:#008024; color:white;"| 25.26
+| style="background:#9ce997; color:black;"| 17.89
+| 6.32
+| 7.37
+| style="background:#feb381; color:black;"| 17.89
+| 16.84
+| 1.05
+| -
+| 1.05
+| 2.11
+| -
+| 3.16
+|-
+| align="left"| {{flag|China}}
+| style="background:#008024; color:white;"| 34.78
+| 4.35
+| -
+| -
+| style="background:#feb381; color:black;"| 30.43
+| 21.74
+| -
+| -
+| -
+| 8.70
+| -
+| -
+|-
+| align="left"| {{flag|Colombia}}
+| style="background:#008024; color:white;"| 33.73
+| 8.43
+| 6.02
+| 2.41
+| style="background:#feb381; color:black;"| 25.30
+| 16.87
+| -
+| 2.41
+| -
+| 1.20
+| 2.41
+| 1.20
+|-
+| align="left"| {{flag|South Korea}}
+| style="background:#008024; color:white;"| 30.77
+| 7.69
+| 11.54
+| 3.85
+| 11.54
+| style="background:#fff8bc; color:black;"| 26.92
+| -
+| -
+| -
+| -
+| -
+| 7.69
+|-
+| align="left"| {{flag|Cuba}}
+| style="background:#008024; color:white;"| 44.44
+| style="background:#9ce997; color:black;"| 11.11
+| style="background:#b1caf6; color:black;"| 11.11
+| style="background:#87a5c7; color:black;"| 11.11
+| style="background:#feb381; color:black;"| 11.11
+| style="background:#fff8bc; color:black;"| 11.11
+| -
+| -
+| -
+| -
+| -
+| style="background:#d7d7d7; color:black;"| {{tooltip|2=PJSC|11.11}}
+|-
+| align="left"| {{flag|Ecuador}}
+| 12.50
+| style="background:#39d430; color:white;"| 31.25
+| 6.25
+| -
+| 12.50
+| 15.63
+| -
+| -
+| -
+| -
+| -
+| style="background:#d7d7d7; color:black;"| {{tooltip|2=PRSC|18.75}}
+|-
+| align="left"| {{flag|United States}}
+| style="background:#008024; color:white;"| 27.06
+| style="background:#9ce997; color:black;"| 20.09
+| 9.08
+| 9.86
+| 18.50
+| 9.53
+| 1.04
+| 0.52
+| 0.41
+| 1.26
+| 0.33
+| 2.32
+|-
+| align="left"| {{flag|El Salvador}}
+| style="background:#008024; color:white;"| 32.81
+| 10.94
+| 9.38
+| 15.63
+| style="background:#feb381; color:black;"| 17.19
+| 6.25
+| -
+| 1.56
+| -
+| 1.56
+| -
+| 4.69
+|-
+| align="left"| {{flag|Spain}}
+| style="background:#008024; color:white;"| 27.50
+| 8.44
+| 0.63
+| 6.88
+| 24.38
+| style="background:#fff8bc; color:black;"| 26.88
+| 0.31
+| 0.63
+| -
+| 2.19
+| -
+| 2.18
+|-
+| align="left"| {{flag|France}}
+| style="background:#7fbf91; color:black;"| 17.37
+| 5.26
+| 2.63
+| 3.68
+| 14.74
+| style="background:#ffee59; color:black;"| 47.89
+| 1.05
+| -
+| 0.53
+| 4.74
+| -
+| 1.58
+|-
+| align="left"| {{flag|Guatemala}}
+| style="background:#008024; color:white;"| 32.69
+| style="background:#9ce997; color:black;"| 19.23
+| 8.17
+| 8.17
+| 17.79
+| 9.62
+| 0.48
+| 1.44
+| -
+| 0.48
+| 0.48
+| 1.44
+|-
+| align="left"| {{flag|Honduras}}
+| style="background:#008024; color:white;"| 47.89
+| 12.68
+| 2.82
+| style="background:#87a5c7; color:black;"| 15.49
+| 14.08
+| 5.63
+| -
+| -
+| -
+| 1.41
+| -
+| -
+|-
+| align="left"| {{flag|Israel}}
+| style="background:#7fbf91; color:black;"| 21.43
+| 10.71
+| -
+| 3.57
+| style="background:#fd6804; color:white;"| 53.57
+| 7.14
+| 3.57
+| -
+| -
+| -
+| -
+| -
+|-
+| align="left"| {{flag|Italy}}
+| style="background:#7fbf91; color:black;"| 24.36
+| 2.56
+| 5.13
+| 8.97
+| 23.08
+| style="background:#ffee59; color:black;"| 26.92
+| 1.28
+| -
+| -
+| 5.13
+| -
+| 2.56
+|-
+| align="left"| {{flag|Japan}}
+| 6.45
+| 16.13
+| 6.45
+| 3.23
+| style="background:#fd6804; color:white;"| 32.26
+| style="background:#fff8bc; color:black;"| 19.35
+| -
+| -
+| -
+| 6.45
+| -
+| 9.68
+|-
+| align="left"| {{flag|Mexico}}
+| style="background:#008024; color:white;"| 32.69
+| 12.69
+| 3.46
+| 10.38
+| style="background:#feb381; color:black;"| 21.54
+| 16.92
+| -
+| 0.77
+| -
+| 0.38
+| 0.38
+| 0.77
+|-
+| align="left"| {{flag|Nicaragua}}
+| style="background:#008024; color:white;"| 40.49
+| 8.59
+| style="background:#b1caf6; color:black;"| 14.11
+| 13.50
+| 12.27
+| 5.52
+| 1.23
+| -
+| 0.61
+| 0.61
+| 1.23
+| 1.23
+|-
+| align="left"| {{flag|Netherlands}}
+| 20.12
+| 10.65
+| 3.55
+| 2.96
+| style="background:#fd6804; color:white;"| 30.18
+| style="background:#fff8bc; color:black;"| 24.85
+| 1.18
+| -
+| -
+| 2.96
+| -
+| 3.55
+|-
+| align="left"| {{flag|Panama}}
+| style="background:#008024; color:white;"| 34.95
+| 13.98
+| 5.78
+| 13.68
+| style="background:#feb381; color:black;"| 22.80
+| 4.26
+| 0.91
+| 1.22
+| -
+| -
+| 0.61
+| 1.82
+|-
+| align="left"| {{flag|Peru}}
+| style="background:#008024; color:white;"| 26.56
+| 14.06
+| 7.81
+| 9.38
+| 14.06
+| style="background:#fff8bc; color:black;"| 17.19
+| -
+| -
+| -
+| -
+| 1.56
+| 7.81
+|-
+| align="left"| {{flag|United Kingdom}}
+| 16.02
+| 7.77
+| -
+| 7.77
+| style="background:#fd6804; color:white;"| 33.01
+| style="background:#fff8bc; color:black;"| 32.04
+| -
+| -
+| -
+| 1.94
+| 0.49
+| 1.98
+|-
+| align="left"| {{flag|Dominican Republic}}
+| style="background:#008024; color:white;"| 34.78
+| 8.70
+| 15.22
+| -
+| style="background:#feb381; color:black;"| 17.39
+| 6.52
+| 2.17
+| 10.87
+| -
+| 2.17
+| -
+| 2.17
+|-
+| align="left"| {{flag|Russia}}
+| style="background:#7fbf91; color:black;"| 28.57
+| 7.14
+| -
+| -
+| 14.29
+| style="background:#ffee59; color:black;"| 42.86
+| 7.14
+| -
+| -
+| -
+| -
+| -
+|-
+| align="left"| {{flag|Singapore}}
+| style="background:#008024; color:white;"| 36.36
+| 9.09
+| -
+| style="background:#87a5c7; color:black;"| 18.18
+| 9.09
+| -
+| -
+| -
+| style="background:#c9b2d9; color:black;"| 18.18
+| -
+| -
+| 9.09
+|-
+| align="left"| {{flag|Switzerland}}
+| 24.85
+| 9.47
+| 2.37
+| 4.73
+| style="background:#fd6804; color:white;"| 29.59
+| style="background:#fff8bc; color:black;"| 26.04
+| 0.59
+| -
+| -
+| 1.18
+| -
+| 1.18
+|-
+| align="left"| {{nowrap|{{flag|Uruguay}}}}
+| 17.65
+| 5.88
+| 11.76
+| 5.88
+| style="background:#feb381; color:black;"| 23.53
+| style="background:#ffee59; color:black;"| 29.41
+| -
+| -
+| -
+| -
+| -
+| 5.88
+|-
+| align="left"| {{nowrap|{{flag|India}}}}
+| -
+| -
+| -
+| style="background:#104b90; color:white;"| 100
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| align="left"| {{flag|Qatar}}
+| style="background:#008024; color:white;"| 43.48
+| 17.39
+| -
+| -
+| style="background:#feb381; color:black;"| 34.78
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| align="left"| {{flag|Bolivia}}
+| style="background:#008024; color:white;"| 41.67
+| style="background:#9ce997; color:black;"| 16.67
+| 8.33
+| -
+| style="background:#feb381; color:black;"| 16.67
+| 8.33
+| -
+| -
+| -
+| 8.33
+| -
+| -
+|-
+| align="left"| {{nowrap|{{flag|Paraguay}}}}
+| 11.11
+| 11.11
+| style="background:#b1caf6; color:black;"| 22.22
+| -
+| style="background:#feb381; color:black;"| 22.22
+| style="background:#ffee59; color:black;"| 33.33
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| align="left"| {{flag|Australia}}
+| style="background:#008024; color:white;"| 39.13
+| style="background:#9ce997; color:black;"| 17.39
+| -
+| -
+| 8.70
+| 13.04
+| -
+| 4.35
+| -
+| 8.70
+| -
+| -
+|-
+| align="left"| {{flag|Jamaica}}
+| style="background:#008024; color:white;"| 33.33
+| style="background:#9ce997; color:black;"| 11.11
+| style="background:#b1caf6; color:black;"| 11.11
+| -
+| style="background:#fd6804; color:white;"| 33.33
+| style="background:#fff8bc; color:black;"| 11.11
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| align="left"| {{flag|Turkey}}
+| style="background:#008024; color:white;"| 75.00
+| -
+| -
+| -
+| -
+| style="background:#fff8bc; color:black;"| 25.00
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| align="left"| {{flag|UAE}}
+| 8.00
+| style="background:#9ce997; color:black;"| 20.00
+| -
+| 4.00
+| style="background:#fd6804; color:white;"| 44.00
+| 8.00
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| align="left"| {{flag|Indonesia}}
+| style="background:#008024; color:white;"| 33.33
+| -
+| -
+| style="background:#104b90; color:white;"| 33.33
+| style="background:#fd6804; color:white;"| 33.33
+| -
+| -
+| -
+| -
+| -
+| -
+| -
+|-
+| align="left"| {{flag|Kenya}}
+| style="background:#008024; color:white;"| 50.00
+| -
+| -
+| 12.50
+| 12.50
+| style="background:#fff8bc; color:black;"| 25.00
+| -
+| -
+| -
+| -
+| -
+| -
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:#008024; color:white;"| 26.17
+| 14.77
+| 6.34
+| 8.84
+| 21.22
+| 16.83
+| 0.74
+| 0.61
+| 0.27
+| 1.61
+| 0.32
+| 2.28
+|-
+|align=left colspan=13|Source: TSE
+|}
+
+'''Second round'''
+{{Pie chart
+| thumb = right
+| caption = Abroad vote
+| other = 
+| label1 =PLN
+| value1 =59.03
+| color1 =#008024
+| label2 =PPSD
+| value2 =40.97
+| color2 =#39d430
+}}
+
+{| class="wikitable sortable" style="text-align:right; font-size:95%"
+! rowspan=2| Country
+!width=60px| [[National Liberation Party (Costa Rica)|PLN]] %
+!width=60px| [[Social Democratic Progress Party|PPSD]] %
+|-
+!style="background:#008024"|
+!style="background:#39d430"|
+|-
+| align="left"| {{nowrap|{{flag|Germany}}}}
+| style="background:#008024; color:white;"| 75.77
+| 25.26
+|-
+| align="left"| {{flag|Argentina}}
+| style="background:#008024; color:white;"| 68.57
+| 31.43
+|-
+| align="left"| {{flag|Austria}}
+| style="background:#008024; color:white;"| 80.00
+| 20.00
+|-
+| align="left"| {{nowrap|{{flag|Belgium}}}}
+| style="background:#008024; color:white;"| 75.44
+| 24.56
+|-
+| align="left"| {{flag|Brazil}}
+| style="background:#008024; color:white;"| 84.21
+| 15.79
+|-
+| align="left"| {{flag|Canada}}
+| 40.91
+| style="background:#39d430; color:white;"| 59.09
+|-
+| align="left"| {{flag|Chile}}
+| style="background:#008024; color:white;"| 63.89
+| 36.11
+|-
+| align="left"| {{flag|China}}{{tooltip|2=Shanghai's polling station could not be opened for voting due to COVID-19 restrictions|*}}
+| style="background:#008024; color:white;"| 87.50
+| 12.50
+|-
+| align="left"| {{flag|Colombia}}
+| style="background:#008024; color:white;"| 76.00
+| 24.00
+|-
+| align="left"| {{flag|South Korea}}
+| style="background:#008024; color:white;"| 50.00
+| style="background:#39d430; color:white;"| 50.00
+|-
+| align="left"| {{flag|Cuba}}
+| style="background:#008024; color:white;"| 85.71
+| 14.29
+|-
+| align="left"| {{flag|Ecuador}}
+| style="background:#008024; color:white;"| 65.63
+| 34.38
+|-
+| align="left"| {{flag|United States}}
+| 49.53
+| style="background:#39d430; color:white;"| 50.47
+|-
+| align="left"| {{flag|El Salvador}}
+| style="background:#008024; color:white;"| 63.08
+| 36.92
+|-
+| align="left"| {{flag|Spain}}
+| style="background:#008024; color:white;"| 76.76
+| 23.24
+|-
+| align="left"| {{flag|France}}
+| style="background:#008024; color:white;"| 74.32
+| 25.68
+|-
+| align="left"| {{flag|Guatemala}}
+| style="background:#008024; color:white;"| 52.30
+| 47.70
+|-
+| align="left"| {{flag|Honduras}}
+| style="background:#008024; color:white;"| 68.66
+| 31.34
+|-
+| align="left"| {{flag|Israel}}
+| style="background:#008024; color:white;"| 71.43
+| 28.57
+|-
+| align="left"| {{flag|Italy}}
+| style="background:#008024; color:white;"| 75.00
+| 25.00
+|-
+| align="left"| {{flag|Japan}}
+| style="background:#008024; color:white;"| 57.69
+| 42.31
+|-
+| align="left"| {{flag|Mexico}}
+| style="background:#008024; color:white;"| 69.23
+| 30.77
+|-
+| align="left"| {{flag|Nicaragua}}
+| style="background:#008024; color:white;"| 67.48
+| 32.52
+|-
+| align="left"| {{flag|Netherlands}}
+| style="background:#008024; color:white;"| 61.54
+| 38.46
+|-
+| align="left"| {{flag|Panama}}
+| style="background:#008024; color:white;"| 62.93
+| 37.07
+|-
+| align="left"| {{flag|Peru}}
+| style="background:#008024; color:white;"| 62.26
+| 37.74
+|-
+| align="left"| {{flag|United Kingdom}}
+| style="background:#008024; color:white;"| 80.79
+| 19.21
+|-
+| align="left"| {{flag|Dominican Republic}}
+| style="background:#008024; color:white;"| 67.50
+| 32.50
+|-
+| align="left"| {{flag|Russia}}
+| colspan=3; style="background:#7a7a7a; color:white;"| ''{{tooltip|2=Voting materials could not be sent due to sanctions placed on the country due to the ongoing Russo-Ukrainian War|No election held}}''
+|-
+| align="left"| {{flag|Singapore}}
+| style="background:#008024; color:white;"| 90.91
+| 9.09
+|-
+| align="left"| {{flag|Switzerland}}
+| style="background:#008024; color:white;"| 70.63
+| 29.37
+|-
+| align="left"| {{nowrap|{{flag|Uruguay}}}}
+| style="background:#008024; color:white;"| 58.33
+| 41.67
+|-
+| align="left"| {{nowrap|{{flag|India}}}}
+| style="background:#008024; color:white;"| 100.00
+| -
+|-
+| align="left"| {{flag|Qatar}}
+| style="background:#008024; color:white;"| 77.27
+| 22.73
+|-
+| align="left"| {{flag|Bolivia}}
+| style="background:#008024; color:white;"| 50.00
+| style="background:#39d430; color:white;"| 50.00
+|-
+| align="left"| {{nowrap|{{flag|Paraguay}}}}
+| style="background:#008024; color:white;"| 60.00
+| 40.00
+|-
+| align="left"| {{flag|Australia}}
+| 41.18
+| style="background:#39d430; color:white;"| 58.82
+|-
+| align="left"| {{flag|Jamaica}}
+| style="background:#008024; color:white;"| 100.00
+| -
+|-
+| align="left"| {{flag|Turkey}}
+| style="background:#008024; color:white;"| 100.00
+| -
+|-
+| align="left"| {{flag|UAE}}
+| style="background:#008024; color:white;"| 54.55
+| 45.45
+|-
+| align="left"| {{flag|Indonesia}}
+| -
+| style="background:#39d430; color:white;"| 100.00
+|-
+| align="left"| {{flag|Kenya}}
+| style="background:#008024; color:white;"| 75.00
+| 25.00
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:#008024; color:white;"| 59.03
+| 40.97
+|-
+|align=left colspan=13|Source: TSE, [https://www.crhoy.com/nacionales/brote-de-covid-19-obliga-a-tse-a-cerrar-junta-de-votos-en-shanghai/ CRHoy]
+|}
+
+===Legislative Assembly===
+{{Election results
+|image=[[File:Costa Rica Legislative Assembly 2022.svg]]
+|party1=[[National Liberation Party (Costa Rica)|National Liberation Party]]|votes1=515231|seats1=19|sc1=+2
+|party2=[[Social Democratic Progress Party]]|votes2=312120|seats2=10|sc2=New
+|party3=[[Social Christian Unity Party]]|votes3=236941|seats3=9|sc3=0
+|party4=[[New Republic Party (Costa Rica)|New Republic Party]]|votes4=209074|seats4=7|sc4=New
+|party5=[[Progressive Liberal Party (Costa Rica)|Progressive Liberal Party]]|votes5=188074|seats5=6|sc5=+6
+|party6=[[Broad Front (Costa Rica)|Broad Front]]|votes6=172961|seats6=6|sc6=+5
+|party7=[[Citizens' Action Party (Costa Rica)|Citizens' Action Party]]|votes7=44622|seats7=0|sc7=–10
+|party8=[[National Restoration Party (Costa Rica)|National Restoration Party]]|votes8=42495|seats8=0|sc8=–14
+|party9=[[New Generation Party (Costa Rica)|New Generation Party]]|votes9=37144|seats9=0|sc9=0
+|party10=[[Accessibility without Exclusion Party]]|votes10=31339|seats10=0|sc10=0
+|party11=[[Social Christian Republican Party]]|votes11=31227|seats11=0|sc11=–2
+|party12=[[A Just Costa Rica]]|votes12=25347|seats12=0|sc12=New
+|party13=Liberal Union Party|votes13=24645|seats13=0|sc13=New|color13=#00008B
+|party14=National Force Party|votes14=24518|seats14=0|sc14=New|color14=#4B0082
+|party15=[[National Integration Party (Costa Rica)|National Integration Party]]|votes15=22710|seats15=0|sc15=–4
+|party16=[[United We Can]]|votes16=21100|seats16=0|sc16=New
+|party17=[[Christian Democratic Alliance (Costa Rica)|Christian Democratic Alliance]]|votes17=18475|seats17=0|sc17=0
+|party18=Costa Rican Social Justice Party|votes18=18097|seats18=0|sc18=New|color18=#ffb52e
+|party19=[[Libertarian Movement (Costa Rica)|Libertarian Movement]]|votes19=13473|seats19=0|sc19=0
+|party20=Costa Rican Social Democratic Movement|votes20=11602|seats20=0|sc20=New|color20=#252440
+|party21=National Encounter Party|votes21=10536|seats21=0|sc21=New|color21=#ff2346
+|party22=Guanacastecan Union Party|votes22=10086|seats22=0|sc22=0|color22=#8B4513
+|party23=Our People Party|votes23=9240|seats23=0|sc23=New|color23=#85447a
+|party24=Recovering Values Party|votes24=9059|seats24=0|sc24=0|color24=#CC9A10
+|party25=[[United People (Costa Rica)|United People]]|votes25=6102|seats25=0|sc25=New
+|party26=[[Workers' Party (Costa Rica)|Workers' Party]]|votes26=5631|seats26=0|sc26=0
+|party27=Costa Rican Democratic Union|votes27=5318|seats27=0|sc27=New|color27=#C0C0C0
+|party28=Let's Go|votes28=5205|seats28=0|sc28=0|color28=#5c2581
+|party29=We Are|votes29=3997|seats29=0|sc29=New|color29=#FFFFFF
+|party30=Cartago Renewal Party|votes30=2995|seats30=0|sc30=New|color30=#68C3EE
+|party31=Let's Act Now (Actuemos Ya)|votes31=1861|seats31=0|sc31=0|color31=#E25F23
+|party32=Costa Rican Anti-Corruption Party|votes32=1768|seats32=0|sc32=New|color32=#f3ce54
+|party33=United for Costa Rica Party|votes33=913|seats33=0|sc33=New|color33=#0D167F
+|party34=New Socialist Party of Cartago|votes34=837|seats34=0|sc34=New|color34=#000
+|party35=New Socialist Party of San José|votes35=778|seats35=0|sc35=0|color35=#000
+|party36=Costa Rican Left Party|votes36=351|seats36=0|sc36=New|color36=#7F1111
+|invalid=23199
+|blank=18431
+|total_sc=0
+|electorate=3491078
+|source=Tribunal Supremo de Elecciones<ref>{{cite web |url=https://www.tse.go.cr/2022/escrutinio.html |title=Actas y boletas definitivas del escrutinio. Elecciones Nacionales 2022 |work=Tribunale Supremo de Elecciones |date=23 February 2022 |archive-url=https://web.archive.org/web/20220225045919/https://www.tse.go.cr/2022/escrutinio.html |archive-date=25 February 2022 |url-status=dead}}</ref>
+}}
+
+====By constituency====
+{| class="wikitable sortable" style="text-align:right; font-size:95%; line-height:20px;"
+|-
+! rowspan="3"| Constituency
+! colspan="2" width="30px"| [[National Liberation Party (Costa Rica)|PLN]]
+! colspan="2" width="30px"| [[Social Democratic Progress Party|PPSD]]
+! colspan="2" width="30px"| [[Social Christian Unity Party|PUSC]]
+! colspan="2" width="30px"| [[New Republic Party (Costa Rica)|PNR]]
+! colspan="2" width="30px"| [[Progressive Liberal Party (Costa Rica)|PLP+]]
+! colspan="2" width="30px"| [[Broad Front (Costa Rica)|FA]]
+! colspan="2" width="30px"| [[Citizens' Action Party (Costa Rica)|PAC]]
+! colspan="2" width="30px"| [[National Restoration Party (Costa Rica)|PREN]]
+! colspan="2" width="30px"| [[New Generation Party (Costa Rica)|PNG]]
+! colspan="2" width="30px"| [[Social Christian Republican Party|PRSC]]
+! colspan="2" width="30px"| [[Accessibility without Exclusion Party|PASE]]
+! colspan="2" width="30px"| Other
+|-
+! colspan="2" style="background:#008024"|
+! colspan="2" style="background:#39d430"|
+! colspan="2" style="background:#104b90"|
+! colspan="2" style="background:#6495ed"|
+! colspan="2" style="background:#fd6804"|
+! colspan="2" style="background:#ffee59"|
+! colspan="2" style="background:#ffc700"|
+! colspan="2" style="background:#0059cf"|
+! colspan="2" style="background:#00a1b3"|
+! colspan="2" style="background:#e30000"|
+! colspan="2" style="background:#4682b4"|
+! colspan="2" style="background:#7a7a7a"|
+|-
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+! data-sort-type="number"| %
+! data-sort-type="number"| S
+|-
+| align="left"| [[San José (Legislative Assembly constituency)|San José]]
+| style="background:#008024; color:white;"| 24.25
+|'''5'''
+| style="background:#9ce997; color:black;"| 17.05
+|'''4'''
+| 9.50
+|'''2'''
+| 9.08
+|'''2'''
+| 11.73
+|'''3'''
+| 10.14
+|'''3'''
+| 1.89
+|'''0'''
+| 1.41
+|'''0'''
+| 1.26
+|'''0'''
+| 1.15
+|'''0'''
+| 1.79
+|'''0'''
+| 10.75
+|'''0'''
+|-
+| align="left"| [[Alajuela (Legislative Assembly constituency)|Alajuela]]
+| style="background:#008024; color:white;"| 26.40
+|'''3'''
+| style="background:#9ce997; color:black;"| 18.73
+|'''2'''
+| 11.44
+|'''2'''
+| 10.90
+|'''2'''
+| 8.60
+|'''1'''
+| 6.63
+|'''1'''
+| 1.78
+|'''0'''
+| 1.65
+|'''0'''
+| 1.00
+|'''0'''
+| 1.82
+|'''0'''
+| 1.06
+|'''0'''
+| 9.99
+|'''0'''
+|-
+| align="left"| [[Cartago (Legislative Assembly constituency)|Cartago]]
+| style="background:#008024; color:white;"| 26.40
+|'''3'''
+| 10.58
+|'''1'''
+| style="background:#87a5c7; color:black;"| 12.17
+|'''1'''
+| 5.73
+|'''0'''
+| 8.94
+|'''1'''
+| 9.20
+|'''1'''
+| 3.20
+|'''0'''
+| 1.65
+|'''0'''
+| 5.33
+|'''0'''
+| 1.22
+|'''0'''
+| 1.47
+|'''0'''
+| 14.11
+|'''0'''
+|-
+| align="left"| [[Heredia (Legislative Assembly constituency)|Heredia]]
+| style="background:#008024; color:white;"| 25.92
+|'''2'''
+| style="background:#9ce997; color:black;"| 13.91
+|'''1'''
+| 10.98
+|'''1'''
+| 8.37
+|'''0'''
+| 12.76
+|'''1'''
+| 10.57
+|'''1'''
+| 2.31
+|'''0'''
+| 2.20
+|'''0'''
+| 1.16
+|'''0'''
+| 0.87
+|'''0'''
+| 1.58
+|'''0'''
+| 9.37
+|'''0'''
+|-
+| align="left"| [[Guanacaste (Legislative Assembly constituency)|Guanacaste]]
+| style="background:#008024; color:white;"| 26.14
+|'''2'''
+| 12.44
+|'''1'''
+| style="background:#87a5c7; color:black;"| 16.79
+|'''1'''
+| 9.58
+|'''0'''
+| 3.42
+|'''0'''
+| 4.17
+|'''0'''
+| 2.00
+|'''0'''
+| 2.03
+|'''0'''
+| 1.05
+|'''0'''
+| 1.91
+|'''0'''
+| 2.35
+|'''0'''
+| 18.12
+|'''0'''
+|-
+| align="left"| [[Puntarenas (Legislative Assembly constituency)|Puntarenas]]
+| style="background:#008024; color:white;"| 23.08
+|'''2'''
+| 11.48
+|'''1'''
+| 13.59
+|'''1'''
+| style="background:#b1caf6; color:black;"| 16.88
+|'''1'''
+| 2.61
+|'''0'''
+| 5.35
+|'''0'''
+| 2.71
+|'''0'''
+| 4.72
+|'''0'''
+| 2.37
+|'''0'''
+| 2.73
+|'''0'''
+| 0.68
+|'''0'''
+| 13.80
+|'''0'''
+|-
+| align="left"| [[Limón (Legislative Assembly constituency)|Limón]]
+| style="background:#008024; color:white;"| 20.22
+|'''2'''
+| 8.23
+|'''0'''
+| 13.07
+|'''1'''
+| style="background:#b1caf6; color:black;"| 15.75
+|'''2'''
+| 2.30
+|'''0'''
+| 5.07
+|'''0'''
+| 2.19
+|'''0'''
+| 4.08
+|'''0'''
+| 2.53
+|'''0'''
+| 1.81
+|'''0'''
+| 1.33
+|'''0'''
+| 23.42
+|'''0'''
+|- style="background:#CDCDCD;"
+| align="left"| '''Total'''
+| style="background:{{party color|National Liberation Party (Costa Rica)}}; color:white;"| 24.45
+|'''19'''
+| 14.62
+|'''10'''
+| 11.24
+|'''9'''
+| 9.94
+|'''7'''
+| 8.69
+|'''6'''
+| 8.04
+|'''6'''
+| 2.12
+|'''0'''
+| 2.02
+|'''0'''
+| 1.84
+|'''0'''
+| 1.47
+|'''0'''
+| 1.45
+|'''0'''
+| 14.12
+|'''0'''
+|-
+|align=left colspan=25|Source: [https://www.tse.go.cr/2022/escrutinio.html TSE]
+|}
+
+==Aftermath==
+[[Rodrigo Chaves Robles]] of the [[Social Democratic Progress Party]], a former official of the World Bank and former Minister of Finance with an anti-establishment reputation, won 52.9% of the votes in the run-off ballot, and was declared president-elect by the electoral tribunal. Rival candidate and former president [[José María Figueres|José Maria Figueres]] of the [[National Liberation Party (Costa Rica)|National Liberation Party]] received 47.1% of the votes. Speaking to supporters in San José, Chaves said he accepted his victory with humility, and urged Figueres to help him move the country forward. Figueres quickly conceded defeat after results came in, telling supporters: "I congratulate Rodrigo Chaves, and I wish him the best." On Twitter, incumbent president [[Carlos Alvarado|Carlos Alvarado Quesada]] said he had called to congratulate Chaves and pledged an orderly handover of power.<ref>{{Cite news |last1=Oré |first1=Diego |last2=Murillo |first2=Alvaro |date=2022-04-04 |title=Costa Rica elects maverick Chaves as president in break with establishment |language=en |work=Reuters |url=https://www.reuters.com/world/americas/costa-ricans-choose-between-outsider-former-leader-presidential-vote-2022-04-03/ |access-date=2022-04-04}}</ref>
+
+=== Reactions ===
+[[United States]] congratulated [[Rodrigo Chaves Robles]] on his election as Costa Rica's next president. In a statement, it added, "we also congratulate Costa Ricans for participating in and carrying out an electoral process consistent with Costa Rica's strong democratic traditions. Costa Rica represents a beacon of democracy in the Americas and the world, and our bilateral relations remain rooted in shared democratic values embracing freedom, inclusivity, and respect for human rights. We look forward to strengthening ties between our nations to advance common interests, including humane migration management, protecting the environment, and working with democratic partners in the region toward a more secure, prosperous, and democratic hemisphere."<ref>{{Cite web |title=Congratulations to Costa Rican President-Elect Rodrigo Chaves |url=https://www.state.gov/congratulations-to-costa-rican-president-elect-rodrigo-chaves/ |access-date=2022-04-09 |website=United States Department of State |language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Costa Rican elections}}
+
+[[Category:2022 elections in Central America|Costa Rica]]
+[[Category:2022 in Costa Rica|General]]
+[[Category:April 2022 in Costa Rica|General]]
+[[Category:Parliamentary elections in Costa Rica]]
+[[Category:February 2022 in Costa Rica|General]]
+[[Category:Presidential elections in Costa Rica]]

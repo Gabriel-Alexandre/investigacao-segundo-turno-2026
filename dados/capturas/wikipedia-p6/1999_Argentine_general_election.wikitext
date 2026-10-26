@@ -1,0 +1,644 @@
+{{Short description|none}}
+{{Infobox election 
+| country = Argentina
+
+| module = {{Infobox election
+| election_name = Presidential election
+| embed = yes
+| type = presidential
+| election_date = 24 October 1999
+| previous_election = 1995 Argentine general election
+| previous_year = 1995
+| next_election = 2003 Argentine general election
+| next_year = 2003
+| registered = 24,111,270
+| turnout = 82.32%
+| image_size = 130x130px
+
+| image1 = Fernando de la Rúa con bastón y banda de presidente (recortada).jpg
+| nominee1 = '''[[Fernando de la Rúa]]'''
+| party1 = Radical Civic Union
+| alliance1 = Alliance for Work, Justice and Education
+| running_mate1 = '''[[Carlos Álvarez (Argentine politician)|Carlos Álvarez]]'''
+| popular_vote1 = '''9,167,220'''
+| percentage1 = '''48.37%'''
+
+| image2 = Eduardo Duhalde en Ensenada en 1997 (cropped).jpg
+| nominee2 = [[Eduardo Duhalde]]
+| party2 = Justicialist Party
+| alliance2 = {{ill|Justicialist Consensus|es|Concertación Justicialista|lt=CJ}}
+| running_mate2 = [[Palito Ortega]]
+| popular_vote2 = 7,255,586
+| percentage2 = 38.28%
+
+| image3 = Domingo_Cavallo_(cropped).jpg
+| nominee3 = [[Domingo Cavallo]]
+| party3 = Action for the Republic (Argentina)
+| alliance3 = Action for the Republic (Argentina)
+| popular_vote3 = 1,937,544
+| percentage3 = 10.22%
+| running_mate3 = Armando Caro Figueroa
+
+| map_image = Elecciones Argentina 1999.png
+| map_caption = Most voted-for party by province (left) and department (right)
+| title = [[President of Argentina|President]]
+| before_election = [[Carlos Menem]]
+| after_election = [[Fernando de la Rúa]]
+| before_party = [[Justicialist Party]]
+| after_party = [[Radical Civic Union]]
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| previous_election = [[1997 Argentine legislative election|1997]]
+| next_election = [[2001 Argentine legislative election|2001]]
+| seats_for_election = 130 of the 257 seats in the [[Argentine Chamber of Deputies|Chamber of Deputies]]
+| election_date = 8 August 1999 to 24 October 1999
+| turnout = 82.27%
+| noleader = yes
+
+| party1 = [[Alliance for Work, Justice and Education]]
+| percentage1 = 45.89
+| last_election1 = 51
+| seats1 = 66
+
+| party2 = [[Justicialist Party]]
+| percentage2 = 38.63
+| last_election2 = 75
+| seats2 = 51
+
+| party3 = [[Action for the Republic (Argentina)|Action for the Republic]]
+| percentage3 = 8.12
+| last_election3 = New
+| seats3 = 9
+
+| party4 = [[Federalist Unity Party|Buenos Aires Unity Party]]
+| percentage4 = 1.57
+| last_election4 = New
+| seats4 = 1
+
+| party5 = [[Democratic Party (Mendoza)|Democratic Party]]
+| percentage5 = 1.27
+| last_election5 = 1
+| seats5 = 1
+
+| party6 = [[Republican Force]]
+| percentage6 = 0.54
+| last_election6 = 1
+| seats6 = 1
+
+| party7 = [[Neuquén People's Movement]]
+| percentage7 = 0.48
+| last_election7 = 1
+| seats7 = 1
+
+| map = Mapa de las elecciones legislativas de Argentina de 1999.png
+| map_caption = Results by province
+}}}}}}
+
+General elections were held in Argentina in 1999; the president was elected on 24 October 1999 while legislative elections were held on four dates, 8 August, 12 September, 26 September and 24 October, though most polls took place on 24 October.
+
+==Background==
+The [[Argentine Currency Board|Convertibility Plan]], which had helped bring about stable prices and economic recovery and modernization, had endured the 1995 [[Mexican peso crisis]], the [[1997 Asian financial crisis]], and other global shocks; but not without strain. Argentine business confidence struggled following these events and unemployment, already higher as a result of a wave of imports and sharp gains in productivity after 1990, had hovered around 15% since 1995. Economic problems also led to a sudden increase in crime, particularly property crime, and President [[Carlos Menem]]'s unpopularity had left his [[Justicialist Party]] (whose populist [[Peronist]] platform he had largely abandoned) weakened.<ref>[http://todo-argentina.net/historia/democracia/menem2/index.html Todo Argentina: 1995-99] {{in lang|es}}</ref><ref>{{cite web|url=http://www.ipu.org/english/parline/reports/arc/2011_99.htm|title=Argentina: Elections held in 1999|publisher=IPU}}</ref>
+
+Having himself experienced the burdens of an economy in crisis, former president and centrist [[Radical Civic Union]] (UCR) leader [[Raúl Alfonsín]] negotiated the [[Alliance for Work, Justice and Education]] between the center-left [[FREPASO]], who had finished second in the [[1995 Argentine general election|1995 general elections]], and his own UCR party. The Alliance had great electoral success in the [[1997 Argentine legislative election|1997 midterm elections]] winning a majority of congressional seats up for election preventing the Justicialist Party from obtaining a legislative majority, though they retained a legislative plurality. Following their initial victory, the party geared for the 1999 elections by nominating [[Buenos Aires]] Mayor [[Fernando de la Rúa]] for president and FREPASO leader [[Carlos Álvarez (Argentine politician)|Carlos 'Chacho' Álvarez]] as his running mate. De la Rúa had overwhelmingly won the party's {{ill|1998 Alliance for Work, Justice and Education Presidential Primaries|es|Primarias presidenciales de la Alianza para el Trabajo, la Justicia y la Educación de 1998|lt=1998 presidential primaries.|v=sup}} Álvarez, a former [[Peronist]] who had broken ranks with his party following Menem's turn to the right in 1989, remained the country's most prominent center-left figure following FREPASO's defeat in 1995. He also provided an ideological counterbalance to De la Rúa, a moderately conservative UCR figure who had himself, in [[September 1973 Argentine presidential election|1973]], previously been the running mate on a UCR ticket defeated by Juan Perón.
+
+The Justicialist Party was badly positioned as the economy re-entered recession in late 1998. President Menem had only worsened its image by flirting with seeking an unprecedented third straight term, though this was barred by the [[Argentine Constitution]]. Unable to persuade Congress to approve these plans, he pledged to run again in 2003, stating that "if I had been permitted to run, I am sure I would have won."<ref>{{cite web|url=http://quiz.cnn.com/WORLD/americas/9910/24/argentina.election.03/|title=Anti-Peronist claims victory in Argentina presidential election|work=CNN|date=October 24, 1999|access-date=2009-05-19|archive-url=https://archive.today/20120718052319/http://quiz.cnn.com/WORLD/americas/9910/24/argentina.election.03/|archive-date=2012-07-18|url-status=dead}}</ref> His dismissal of de la Rúa as "boring" moreover was effectively used by the Alliance campaign in their ads, by which de la Rúa's tedium became a desirable alternative to Menem's "party" (a reference to the outgoing administration's numerous corruption scandals).<ref>{{cite web|url=https://www.nytimes.com/1999/09/26/world/vote-for-me-declares-argentine-i-m-boring.html|title=Vote for me, declares Argentine. I'm boring.|work=New York Times|date=September 26, 1999}}</ref>
+
+Broadsides like these only further undermined his party's nominee, [[Buenos Aires Province]] Governor [[Eduardo Duhalde]], who as a more traditional Peronist, had been distanced from the President since being elected governor in 1991. Duhalde's own approval suffered, however, as crime rates in the [[Greater Buenos Aires]] area (home to 2/3 of his constituents) rose steadily. This weakness was highlighted by the [[Ramallo massacre]], a botched police intervention of a bank robbery on September 17 in which members of the force were implicated. An imposing figure in his party despite his diminutive height, Duhalde could only agree on a marginal figure in the party as his running mate: pop musician and former [[Tucumán Province]] Governor [[Palito Ortega|Ramón Ortega]].<ref name=todo99>[http://todo-argentina.net/historia/democracia/menem2/1999.html Todo Argentina: 1999] {{in lang|es}}</ref>
+
+[[Domingo Cavallo]], the economist behind the "Argentine miracle" of the early 1990s, had become unpopular during the 1995 recession. He was acrimoniously dismissed by the President in 1996 following his public allegations of influential "mafias" in Menem's entourage. His statements gained validity, however, following the 1997 murder of a news magazine photojournalist targeted by a shipping magnate close to Menem. Cavallo founded the [[Action for the Republic]], and thus became a further obstacle to Duhalde, who would now lose a large share of the Menem vote to the unpredictable economist.<ref name=todo99/>
+
+The recession, which had begun to ease on the eve of the October 24 election date, remained a central campaign issue. De la Rúa, who had earned plaudits for his fiscal discipline while mayor of [[Buenos Aires]], stressed the need to crack down on graft and corruption. Besides referring to Menem himself, he pointed to the presence of exiled [[Paraguay]]an strongman General [[Lino Oviedo]] (who had been allowed in as a fugitive by Menem) as a poster child of the prevailing state of the rule of law. Duhalde focused on promises to combat the recession and double-digit unemployment. An anticipated [[two-round system|runoff election]] was ultimately not needed, since the Alliance obtained 48% of the total vote - winning on the first round by 10% over Duhalde. Cavallo received only 10%, and much of the remainder went to left-wing parties (in contrast to 1995, when the far-right gained top minor-party status).<ref name=todo99/>
+
+The 1999 legislative elections renewed about half of the [[Argentine Chamber of Deputies|Chamber of Deputies]] (130 seats); there were no elections to the [[Argentine Senate|Senate]]. The Alliance obtained 63 seats, the Justicialist Party 51, and Domingo Cavallo's Action for the Republic 7. This left the Justicialists in the minority in the Lower House for the first time since 1989.<ref name=tow>{{cite web|url=http://towsa.com/andy/totalpais/1999d.html|title=Diputados Nacionales, 1999|publisher=Atlas Electoral de Andy Tow|access-date=2012-07-02|archive-url=https://web.archive.org/web/20120322083810/http://towsa.com/andy/totalpais/1999d.html|archive-date=2012-03-22|url-status=dead}}</ref>
+
+== Candidates for President ==
+*[[Justicialist Party]] (populist): Governor [[Eduardo Duhalde]] of [[Buenos Aires Province]].
+*[[Alliance for Work, Justice and Education]] (social democrat): Chief of Government [[Fernando De la Rúa]] of the [[City of Buenos Aires]].
+*[[Action for the Republic]] (conservative liberal): Deputy [[Domingo Cavallo]] of the [[City of Buenos Aires]].
+
+== Results ==
+=== President ===
+{{Election results
+|cand1=[[Fernando de la Rúa]]|vp1=[[Carlos Álvarez (Argentine politician)|Carlos Álvarez]]|candspan1=4|alliance1=[[Alliance for Work, Justice and Education|De la Rúa –<br>Álvarez]]|aspan1=4|party1=[[Alliance for Work, Justice and Education]]|votes1=8788834
+|party2=[[Democratic Progressive Party (Argentina)|Democratic Progressive Party]]|votes2=297129
+|party3=[[Autonomist Party of Corrientes|Autonomist]]–[[Liberal Party of Corrientes|Liberal]]–[[Democratic Progressive Party (Argentina)|PDP]]|votes3=81257
+|atotal4=9167220
+|cand5=[[Eduardo Duhalde]]|vp5=[[Palito Ortega]]|candspan5=8|alliance5=[[Justicialist Party|Duhalde –<br>Ortega]]|aspan5=8|party5={{ill|Justicialist Consensus|es|Concertación Justicialista}}|votes5=6466867
+|party6=[[Union of the Democratic Centre (Argentina)|Union of the Democratic Centre]]|votes6=562674
+|party7=Federal Integration Front|votes7=79749
+|party8=[[Justicialist Party]]|votes8=69397
+|party9=United Popular Movement|votes9=50082
+|party10=Front of Hope|votes10=18089
+|party11=[[Federal Party (Argentina, 1973)|Federal Party]]|votes11=7044
+|atotal12=7253902
+|cand13=[[Domingo Cavallo]]|vp13={{ill|Armando Caro Figueroa|es}}|candspan13=3|aspan13=3|alliance13=[[Action for the Republic (Argentina)|Cavallo –<br>Caro Figueroa]]|party13=[[Action for the Republic (Argentina)|Action for the Republic]]|votes13=1859995
+|party14=[[Union of the Democratic Centre (Argentina)|Union of the Democratic Centre of Santa Fe]]|votes14=77549
+|atotal15=1937544
+|cand16=[[Patricia Walsh]]|vp16=Rogelio de Leonardi|alliance16=[[United Left (Argentina)|United Left]]|votes16=151977
+|cand17={{ill|Lía Méndez|es}}|vp17=Jorge Pompei|alliance17=[[Humanist Party (Argentina)|Humanist Party]]|votes17=131811
+|cand18=[[Jorge Altamira]]|vp18={{ill|Pablo Rieznik|es}}|alliance18=[[Workers' Party (Argentina)|Workers' Party]]|votes18=113916
+|cand19=Jorge Emilio Reyna|vp19=Néstor Gabriel Moccia|alliance19=Resistance Front|votes19=57133
+|cand20=Juan Ricardo Mussa|vp20=Irene Fernanda Herrera|alliance20=Social Christian Alliance|votes20=53143
+|cand21=José Alberto Montes|vp21=Oscar Hernández|alliance21=[[Socialist Workers' Party (Argentina)|Socialist Workers' Party]]|votes21=43911
+|cand22=Domingo Camilo Quarracino|vp22=Amelia Rearte|alliance22=[[Authentic Socialist Party (Argentina)|Authentic Socialist Party]]|votes22=43147
+|blank=708876
+|invalid=186761
+|electorate=24111270
+|source=DINE,<ref>{{Cite web|url=https://recorriendo.elecciones.gob.ar/presidente1999.html#/3/1|title=Recorriendo las Elecciones de 1983 a 2013 - Presidenciales|website=Dirección Nacional Electoral|access-date=2017-09-27|archive-date=2017-09-28|archive-url=https://web.archive.org/web/20170928005511/https://recorriendo.elecciones.gob.ar/presidente1999.html#/3/1|url-status=dead}}</ref> Ministry of the Interior<ref name="results">{{Cite web |url=https://www.mininterior.gov.ar/asuntos_politicos_y_alectorales/dine/infogral/RESULTADOS%20HISTORICOS/1999.pdf |archive-url=https://web.archive.org/web/20160324121126/http://www.mininterior.gov.ar/asuntos_politicos_y_alectorales/dine/infogral/RESULTADOS%20HISTORICOS/1999.pdf |archive-date=24 March 2016 |website=Ministry of the Interior |title=Elecciones Nacionales ESCRUTINIO DEFINITIVO 1999}}</ref>
+}}
+
+=== Chamber of Deputies ===
+{{Election results|seattype1=Won|seattype2=Total
+|image=[[File:Elecciones legislativas de Argentina de 1999.svg]]
+|party1=[[Alliance for Work, Justice and Education]]|votes1=8497076|st1t1=66|st2t1=131
+|party2=[[Justicialist Party|Justicialist Consensus for Change]]|votes2=7153786|st1t2=51|st2t2=103
+|party3=[[Action for the Republic (Argentina)|Action for the Republic]]|votes3=1502732|st1t3=9|st2t3=12
+|party4=[[Federalist Unity Party|Buenos Aires Unity Party]]|votes4=289860|st1t4=1|st2t4=1
+|party5=[[Democratic Party (Mendoza)|Democratic Party]]|votes5=235357|st1t5=1|st2t5=3
+|party6=[[Humanist Party (Argentina)|Humanist Party]]|votes6=144712|st1t6=0|st2t6=0
+|party7=[[United Left (Argentina)|United Left]]|votes7=150493|st1t7=0|st2t7=0
+|party8=[[Workers' Party (Argentina)|Workers' Party]]|votes8=110576|st1t8=0|st2t8=0
+|party9=[[Republican Force]]|votes9=99572|st1t9=1|st2t9=3
+|party10=[[Neuquén People's Movement]]|votes10=89798|st1t10=1|st2t10=2
+|party11=[[Authentic Socialist Party (Argentina)|Authentic Socialist Party]]|votes11=46001|st1t11=0|st2t11=0
+|party12={{Ill|Free Homeland (Argentina)|es|Corriente Patria Libre|lt=Resistance Front}}|votes12=42388|st1t12=0|st2t12=0
+|party13=[[Socialist Workers' Party (Argentina)|Socialist Workers' Party]]|votes13=35977|st1t13=0|st2t13=0
+|party14=[[Unity and Liberty Party]]|votes14=23471|st1t14=0|st2t14=0
+|party15=Union for the Future|votes15=20670|st1t15=0|st2t15=0
+|party16=Neighborhood Unity Movement|votes16=12545|st1t16=0|st2t16=0
+|party17=Renewal Party|votes17=11404|st1t17=0|st2t17=0
+|party18=Social Christian Alliance|votes18=6711|st1t18=0|st2t18=0
+|party19=New Alliance|votes19=6595|st1t19=0|st2t19=0
+|party20=New Liberal Alternative Party|votes20=5655|st1t20=0|st2t20=0
+|party21=Party of the City|votes21=5573|st1t21=0|st2t21=0
+|party22=Río Gallegos Neighborhood Movement for Santa Cruz|votes22=4836|st1t22=0|st2t22=0
+|party23=[[Fuegian People's Movement]]|votes23=4562|st1t23=0|st2t23=1
+|party24=Educational Party|votes24=3463|st1t24=0|st2t24=0
+|party25={{ill|Chaco Action|es|Acción Chaqueña}}|votes25=3185|st1t25=0|st2t25=0
+|party26=Third Epoch Party|votes26=2921|st1t26=0|st2t26=0
+|party27=Fuegian Action Front|votes27=2084|st1t27=0|st2t27=0
+|party28=Salta Solidarity Party|votes28=1603|st1t28=0|st2t28=0
+|party29=Independence Party|votes29=1540|st1t29=0|st2t29=0
+|party30=Solidarity Movement|votes30=1432|st1t30=0|st2t30=0
+|party31=Emancipatory Front|votes31=292|st1t31=0|st2t31=0
+|party32=[[Development and Justice Party (Argentina)|Development and Justice Party]]||st1t32=–|st2t32=1
+|blank=1122980
+|invalid=192862
+|electorate=24107414
+|source=DINE,<ref>{{Cite web |url=https://recorriendo.elecciones.gob.ar/diputados1999.html#/ |title=Recorriendo las Elecciones de 1983 a 2013 - Diputados Nacionales |website=Dirección Nacional Electoral |access-date=2021-01-03 |archive-date=2022-06-26 |archive-url=https://web.archive.org/web/20220626141332/https://recorriendo.elecciones.gob.ar/diputados1999.html#/ |url-status=dead }}</ref> Ministry of the Interior<ref name="results"/>
+}}
+
+====Results by province====
+{| class="wikitable sortable plainrowheaders" style="text-align:right;"
+! rowspan=2|Province
+! colspan=3|Alianza
+! colspan=3|Justicialist Consensus
+! colspan=3|AR
+! colspan=3|Others
+|-
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+|-
+! scope=row|[[Buenos Aires Province|Buenos Aires]]
+| bgcolor=pink|'''3,080,133'''
+| bgcolor=pink|'''43.30'''
+| align=center bgcolor=pink|'''16'''
+| 2,984,898
+| 41.97
+| align=center|16
+| 511,465
+| 7.19
+| align=center|2
+| 536,175
+| 7.54
+| align=center|1
+|-
+! scope=row|[[Buenos Aires City]]
+| bgcolor=pink|'''1,029,340'''
+| bgcolor=pink|'''52.39'''
+| align=center bgcolor=pink|'''8'''
+| 439,199
+| 22.35
+| align=center|1
+| 348,814
+| 17.75
+| align=center|3
+| 147,570
+| 7.51
+| align=center|—
+|-
+! scope=row|[[Catamarca Province|Catamarca]]
+| bgcolor=pink|'''82,086'''
+| bgcolor=pink|'''53.94'''
+| align=center bgcolor=pink|'''1'''
+| 66,570
+| 43.74
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| 3,537
+| 2.32
+| align=center|—
+|-
+! scope=row|[[Chaco Province|Chaco]]
+| bgcolor=pink|'''255,096'''
+| bgcolor=pink|'''58.60'''
+| align=center bgcolor=pink|'''2'''
+| 172,846
+| 39.71
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| 7,351
+| 1.69
+| align=center|—
+|-
+! scope=row|[[Chubut Province|Chubut]]
+| bgcolor=pink|'''105,017'''
+| bgcolor=pink|'''60.74'''
+| align=center bgcolor=pink|'''2'''
+| 64,346
+| 37.21
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| 3,544
+| 2.05
+| align=center|—
+|-
+! scope=row|[[Córdoba Province, Argentina|Córdoba]]
+| bgcolor=pink|'''761,728'''
+| bgcolor=pink|'''45.74'''
+| align=center bgcolor=pink|'''4'''
+| 675,203
+| 40.55
+| align=center|4
+| 170,215
+| 10.22
+| align=center|1
+| 58,111
+| 3.49
+| align=center|—
+|-
+! scope=row|[[Corrientes Province|Corrientes]]
+| 192,175
+| 45.43
+| align=center|2
+| bgcolor=lightblue|'''203,569'''
+| bgcolor=lightblue|'''48.12'''
+| align=center bgcolor=lightblue|'''2'''
+| 22,562
+| 5.33
+| align=center|—
+| 4,696
+| 1.11
+| align=center|—
+|-
+! scope=row|[[Entre Ríos Province|Entre Ríos]]
+| bgcolor=pink|'''315,659'''
+| bgcolor=pink|'''49.94'''
+| align=center bgcolor=pink|'''2'''
+| 289,117
+| 45.74
+| align=center|2
+| 21,655
+| 3.43
+| align=center|—
+| 5,626
+| 0.89
+| align=center|—
+|-
+! scope=row|[[Formosa Province|Formosa]]
+| 91,791
+| 48.65
+| align=center|1
+| bgcolor=lightblue|'''95,743'''
+| bgcolor=lightblue|'''50.74'''
+| align=center bgcolor=lightblue|'''2'''
+| align=center|—
+| align=center|—
+| align=center|—
+| 1,150
+| 0.61
+| align=center|—
+|-
+! scope=row|[[Jujuy Province|Jujuy]]
+| bgcolor=pink|'''116,369'''
+| bgcolor=pink|'''49.32'''
+| align=center bgcolor=pink|'''2'''
+| 107,762
+| 45.67
+| align=center|1
+| 7,513
+| 3.18
+| align=center|—
+| 4,289
+| 1.82
+| align=center|—
+|-
+! scope=row|[[La Pampa Province|La Pampa]]
+| 79,260
+| 47.63
+| align=center|1
+| bgcolor=lightblue|'''79,601'''
+| bgcolor=lightblue|'''47.84'''
+| align=center bgcolor=lightblue|'''1'''
+| 5,468
+| 3.29
+| align=center|—
+| 2,073
+| 1.25
+| align=center|—
+|-
+! scope=row|[[La Rioja Province, Argentina|La Rioja]]
+| 38,860
+| 31.02
+| align=center|1
+| bgcolor=lightblue|'''86,412'''
+| bgcolor=lightblue|'''68.98'''
+| align=center bgcolor=lightblue|'''2'''
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[Mendoza Province|Mendoza]]
+| bgcolor=pink|'''302,244'''
+| bgcolor=pink|'''38.27'''
+| align=center bgcolor=pink|'''2'''
+| 175,164
+| 22.18
+| align=center|1
+| 66,812
+| 8.46
+| align=center|1
+| 245,531
+| 31.09
+| align=center|1
+|-
+! scope=row|[[Misiones Province|Misiones]]
+| 189,938
+| 45.68
+| align=center|2
+| bgcolor=lightblue|'''224,029'''
+| bgcolor=lightblue|'''53.87'''
+| align=center bgcolor=lightblue|'''2'''
+| align=center|—
+| align=center|—
+| align=center|—
+| 1,874
+| 0.45
+| align=center|—
+|-
+! scope=row|[[Neuquén Province|Neuquén]]
+| 74,671
+| 36.31
+| align=center|1
+| 33,327
+| 16.21
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| bgcolor=LightSteelBlue|'''97,623'''
+| bgcolor=LightSteelBlue|'''47.48'''
+| align=center bgcolor=LightSteelBlue|'''1'''
+|-
+! scope=row|[[Río Negro Province|Río Negro]]
+| bgcolor=pink|'''136,121'''
+| bgcolor=pink|'''57.32'''
+| align=center bgcolor=pink|'''2'''
+| 60,961
+| 25.67
+| align=center|1
+| 34,205
+| 14.40
+| align=center|—
+| 6,188
+| 2.61
+| align=center|—
+|-
+! scope=row|[[Salta Province|Salta]]
+| bgcolor=pink|'''200,697'''
+| bgcolor=pink|'''44.94'''
+| align=center bgcolor=pink|'''2'''
+| 210,723
+| 47.18
+| align=center|2
+| 20,044
+| 4.49
+| align=center|—
+| 15,151
+| 3.39
+| align=center|—
+|-
+! scope=row|[[San Juan Province, Argentina|San Juan]]
+| bgcolor=pink|'''159,254'''
+| bgcolor=pink|'''51.92'''
+| align=center bgcolor=pink|'''2'''
+| 99,521
+| 32.44
+| align=center|1
+| 45,013
+| 14.67
+| align=center|—
+| 2,950
+| 0.96
+| align=center|—
+|-
+! scope=row|[[San Luis Province|San Luis]]
+| bgcolor=pink|'''73,276'''
+| bgcolor=pink|'''44.62'''
+| align=center bgcolor=pink|'''1'''
+| 67,490
+| 41.09
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| 23,471
+| 14.29
+| align=center|—
+|-
+! scope=row|[[Santa Cruz Province, Argentina|Santa Cruz]]
+| bgcolor=pink|'''37,561'''
+| bgcolor=pink|'''45.85'''
+| align=center bgcolor=pink|'''1'''
+| 37,334
+| 45.58
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| 7,020
+| 8.57
+| align=center|—
+|-
+! scope=row|[[Santa Fe Province|Santa Fe]]
+| bgcolor=pink|'''865,846'''
+| bgcolor=pink|'''52.32'''
+| align=center bgcolor=pink|'''6'''
+| 547,004
+| 33.05
+| align=center|3
+| 194,644
+| 11.76
+| align=center|1
+| 47,468
+| 2.87
+| align=center|—
+|-
+! scope=row|[[Santiago del Estero Province|Santiago del Estero]]
+| bgcolor=pink|'''115,652'''
+| bgcolor=pink|'''34.35'''
+| align=center bgcolor=pink|'''2'''
+| 189,627
+| 56.33
+| align=center|2
+| 8,776
+| 2.61
+| align=center|—
+| 22,597
+| 6.71
+| align=center|—
+|-
+! scope=row|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+| 10,112
+| 25.76
+| align=center|1
+| 9,658
+| 24.60
+| align=center|1
+| bgcolor=LightSteelBlue|'''11,484'''
+| bgcolor=LightSteelBlue|'''29.26'''
+| align=center bgcolor=LightSteelBlue|'''1'''
+| 8,000
+| 20.38
+| align=center|—
+|-
+! scope=row|[[Tucumán Province|Tucumán]]
+| 184,190
+| 32.70
+| align=center|2
+| bgcolor=lightblue|'''233,682'''
+| bgcolor=lightblue|'''41.49'''
+| align=center bgcolor=lightblue|'''2'''
+| 34,062
+| 6.05
+| align=center|—
+| 111,281
+| 19.76
+| align=center|1
+|-
+! Total
+! 8,497,076
+! 45.89
+! 66
+! 7,153,786
+! 38.63
+! 51
+! 1,502,732
+! 8.12
+! 9
+! 1,363,276
+! 7.36
+! 4
+|}
+
+===Governors===
+Provincial elections were held in every province except [[Corrientes Province|Corrientes]]. Elections for Mayor of the City of Buenos Aires were held the following May. The Justicialist Party increased their majority among governors by one, to 15; outgoing Vice President [[Carlos Ruckauf]] was elected Governor of Buenos Aires Province, the nation's largest. The UCR retained 6, mainly in the Alliance (all but 3 Alliance candidates, in turn, were from the UCR). The Justicialists wrested governorships from the UCR (Córdoba), from the [[Fuegian People's Movement|MPF]] in Tierra del Fuego (which endorsed the Justicialists), and from the far-right [[Republican Force]] (Tucumán); the UCR, in turn, displaced the Justicialists in Entre Ríos, Mendoza, and San Juan.<ref>{{cite web|url=http://towsa.com/andy/totalpais/1999g.html|title=Gobernador electo (1999)|publisher=Atlas Electoral de Andy Tow|access-date=2012-07-02|archive-url=https://web.archive.org/web/20120404175224/http://towsa.com/andy/totalpais/1999g.html|archive-date=2012-04-04|url-status=dead}}</ref><ref>{{cite web|url=http://www.observatorioelectoral.org/informes/electoral/?country=argentina&file=031125 |title=En el 2003, el peronismo logra el mayor predominio político-electoral de los últimos veinte años |work=Observatorio Electoral Latinoamericano |url-status=dead |archiveurl=https://web.archive.org/web/20130924091126/http://www.observatorioelectoral.org/informes/electoral/?country=argentina&file=031125 |archivedate=2013-09-24 }}</ref>
+
+{| class="wikitable"
+!District
+!Elected Governor
+!Party
+!%
+!Runner-up
+!Party
+!%
+|-
+|[[Buenos Aires Province|Buenos Aires]] || [[Carlos Ruckauf]] || [[Justicialist Party|Justicialist]] || 48.3 || [[Graciela Fernández Meijide]] || [[FREPASO]] ([[Alliance for Work, Justice and Education|Alliance]]) || 41.4
+|-
+|[[Catamarca Province|Catamarca]] || [[Oscar Castillo]] || [[Civic and Social Front of Catamarca|Civic Social Front]] ([[Radical Civic Union|UCR]]) || 52.6 || [[Ramón Saadi]] || [[Justicialist Party|United for Catamarca]] || 44.7
+|-
+|[[Chaco Province|Chaco]] ||[[Ángel Rozas]] <sup>R</sup> || [[Radical Civic Union|Front for All]] || 63.4 || [[Jorge Capitanich]] || [[Justicialist Party|Union for a New Chaco]] || 35.9
+|-
+|[[Chubut Province|Chubut]] ||José Lizurume || UCR (Alliance) || 52.0 || [[Marcelo Guinle]] || Justicialist || 46.1 
+|-
+|[[City of Buenos Aires]]<sup>1</sup> ||[[Aníbal Ibarra]] || [[FREPASO]] (Alliance) || 49.3 || [[Domingo Cavallo]] || [[Action for the Republic|Encounter for the City]] || 33.2 
+|-
+|[[Córdoba Province, Argentina|Córdoba]]<sup>2</sup> ||[[José Manuel de la Sota]] || Justicialist || 49.6 || [[Ramón Mestre]] <sup>L</sup>|| UCR || 40.5
+|-
+|[[Entre Ríos Province|Entre Ríos]] ||[[Sergio Montiel]] || UCR (Alliance) || 49.1 || Héctor Maya || [[Justicialist Party|All for Entre Ríos]] || 47.5 
+|-
+|[[Formosa Province|Formosa]] ||[[Gildo Insfrán]] <sup>R</sup> ||Justicialist || 73.7 || Gabriel Hernández || UCR (Alliance) || 26.1
+|-
+|[[Jujuy Province|Jujuy]] ||[[Eduardo Fellner]] <sup>R</sup> ||Justicialist || 50.6 || [[Gerardo Morales (Argentine politician)|Gerardo Morales]] || UCR (Alliance) || 49.4
+|-
+|[[La Pampa Province|La Pampa]] ||[[Rubén Marín]] <sup>R</sup> ||Justicialist || 56.7 || Juan Carlos Passo || UCR (Alliance) || 39.8
+|-
+|[[La Rioja Province (Argentina)|La Rioja]] ||[[Ángel Maza]] <sup>R</sup> ||Justicialist || 68.6 || José Luis Bellia || UCR (Alliance) || 29.5
+|-
+|[[Mendoza Province|Mendoza]] ||[[Roberto Iglesias]] || UCR (Alliance) || 37.9 || Carlos Balter || [[Democratic Party (Mendoza)|Democratic]] || 32.2
+|-
+|[[Misiones Province|Misiones]] ||[[Carlos Rovira (politician)|Carlos Rovira]] <sup>R</sup> || [[Justicialist Party|Front for Change]] || 53.7 || Ricardo Barrios Arrechea || UCR (Alliance)|| 45.8
+|-
+|[[Neuquén Province|Neuquén]] ||[[Jorge Sobisch]] ||[[Neuquén People's Movement]] || 44.2 || Oscar Massei || FREPASO (Alliance) || 36.7
+|-
+|[[Río Negro Province|Río Negro]] ||[[Pablo Verani]] <sup>R</sup>|| UCR (Alliance) || 48.6 || Remo Costanzo || [[Justicialist Party|Union for Río Negro]] || 41.7
+|-
+|[[Salta Province|Salta]] ||[[Juan Carlos Romero (politician)|Juan Carlos Romero]] <sup>R</sup> ||Justicialist || 58.5 || [[Ricardo Gómez Diez]] || UCR (Alliance) || 40.2
+|-
+|[[San Juan Province, Argentina|San Juan]] ||[[Alfredo Avelín]] || UCR (Alliance) || 55.7 || Jorge Escobar <sup>L</sup>||Justicialist || 42.3 
+|-
+|[[San Luis Province|San Luis]] ||[[Adolfo Rodríguez Saá]] <sup>R</sup>||Justicialist || 54.3 || Walter Ceballos || UCR (Alliance) || 45.0
+|-
+|[[Santa Cruz Province, Argentina|Santa Cruz]] ||[[Néstor Kirchner]] <sup>R</sup>||Justicialist || 54.6 || Anselmo Martínez || UCR (Alliance) || 44.3
+|-
+|[[Santa Fe Province|Santa Fe]] ||[[Carlos Reutemann]] ||Justicialist || 57.6 || [[Horacio Usandizaga]] || UCR (Alliance) || 41.4
+|-
+|[[Santiago del Estero Province|Santiago del Estero]] ||[[Carlos Arturo Juárez|Carlos Juárez]] <sup>R</sup>|| Justicialist || 52.2 || Héctor Ruiz || New Alliance || 26.3 
+|-
+|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]] || Carlos Manfredotti || Justicialist || 50.9 || [[Jorge Colazo]] || UCR (Alliance) || 49.1
+|-
+|[[Tucumán Province|Tucumán]] ||[[Julio Miranda]] ||Justicialist || 36.5 || Ricardo Bussi || [[Republican Force]] || 35.8
+|-
+|colspan=7 | 
+----
+:<small>'''1''': Election held 7 May 2000. The City of Buenos Aires is not a province but an autonomous federal territory. The head of the local [[Executive (government)|Executive]] is referred to as "[[Mayor of Buenos Aires|Government Chief]]."</small>
+:<small>'''2''': Election held 20 December 1998.</small>
+:<small>'''R''': Reelected.</small>
+:<small>'''L''': Incumbent lost.</small>
+|}
+
+== See also ==
+* [[Politics of Argentina]]
+* [[List of political parties in Argentina]]
+
+==References==
+{{reflist}}
+
+{{Argentine elections}}
+
+[[Category:Presidential elections in Argentina]]
+[[Category:Legislative elections in Argentina]]
+[[Category:1999 elections in South America|Argentina]]
+[[Category:1999 elections in Argentina|General]]
+[[Category:Presidency of Fernando de la Rúa]]

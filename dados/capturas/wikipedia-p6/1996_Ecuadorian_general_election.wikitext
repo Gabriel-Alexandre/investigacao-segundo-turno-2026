@@ -1,0 +1,99 @@
+{{Short description|Presidential and congressional election in Ecuador}}
+{{Infobox election
+| country = Ecuador
+| previous_election = 1992 Ecuadorian general election
+| previous_year = 1992
+| next_election = 1998 Ecuadorian general election
+| next_year = 1998
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date = 19 May 1996 (first round)<br />7 July 1996 (second round)
+| registered = 6,662,003
+| turnout = 67.94% (first round)<br />71.71% (second round)
+
+| image1 = Bucaram 1996 cropped.jpg
+| nominee1 = '''[[Abdalá Bucaram]]'''
+| party1 = Ecuadorian Roldosist Party
+| running_mate1 = '''[[Rosalía Arteaga]]'''
+| popular_vote1 = '''2,285,397'''
+| percentage1 = '''54.47%'''
+
+| image2 = REUNIÓN DE OPOSICIÓN (18746735053).jpg
+| nominee2 = [[Jaime Nebot]]
+| party2 = Social Christian Party (Ecuador)
+| running_mate2 = {{ill|Diego Cordovez (politician)|es|lt=Diego Cordovez}}
+| popular_vote2 = 1,910,651
+| percentage2 = 45.53%
+
+| map_image = | map = {{Switcher|[[File:Votos Presidente por Provincia Ecuador primera vuelta 1996.svg|200px]]|First round results by province|[[File:Votos Presidente por Provincia Ecuador segunda vuelta 1996.svg|200px]]|Second round results by province|default=2}}
+
+| title = [[President of Ecuador|President]]
+| before_election = [[Sixto Durán Ballén]]
+| before_party = Union Republican Party
+| after_election = [[Abdalá Bucaram]]
+| after_party = Ecuadorian Roldosist Party
+}}}}{{Politics of Ecuador}}
+
+General elections were held in [[Ecuador]] on 19 May 1996, with a second round of the presidential elections on 7 July.<ref name=N1>[[Dieter Nohlen]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p379 {{ISBN|978-0-19-928358-3}}</ref><ref>{{Cite journal |last=Barczak |first=Monica |date=1997-03-01 |title=The 1996 Ecuadorian elections |url=https://www.sciencedirect.com/science/article/abs/pii/S0261379497831216 |journal=Electoral Studies |volume=16 |issue=1 |pages=107–117 |doi=10.1016/S0261-3794(97)83121-6 |issn=0261-3794|url-access=subscription }}</ref> Although [[Jaime Nebot]] of the [[Social Christian Party (Ecuador)|Social Christian Party]] received the most votes in the first round, [[Abdalá Bucaram]] of the [[Ecuadorian Roldosist Party]] won the run-off with 54.5% of the vote.<ref>Nohlen, p404</ref> The Social Christian Party remained the largest in the Chamber of Deputies, winning 27 of the 82 seats.<ref>Nohlen, p1996</ref>
+
+Until the [[2013 Ecuadorian general election|2013 vote]], this was the last election held after the natural expiration of a four-year presidential term. This due to a decade of political [[1998–99 Ecuador banking crisis|and economical]] instability that Ecuador experienced after Bucaram was impeached by the [[Congress of Ecuador|Congress]] in early 1997 and that lasted until [[Rafael Correa]]'s inauguration in early 2007.<ref name="LaRepública">[http://www.larepublica.ec/blog/politica/2014/01/17/los-7-anos-de-correa-en-ecuador-estabilidad-en-medio-de-exitos-y-criticas/ "Los 7 años de Correa en Ecuador: estabilidad en medio de éxitos y críticas"] January 17, 2014. ''La República''</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Jaime Nebot]]|vp1=[[Rosalía Arteaga]]|party1=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes1=1035101|votes1_2=1910651
+|cand2=[[Abdalá Bucaram]]|vp2=Diego Cordovez|party2=[[Ecuadorian Roldosist Party]]|votes2=1001071|votes2_2=2285397
+|cand3=[[Freddy Ehlers]]|vp3=[[Rosana Vinueza]]|party3=[[Pachakutik]]|votes3=785124
+|cand4=[[Rodrigo Paz Delgado|Rodrigo Paz]]|vp4=Ramiro Larrea|party4=[[Christian Democratic Union (Ecuador)|Popular Democracy]]|votes4=513464
+|cand5=[[Frank Vargas Pazzos]]|vp5=Leonardo Vicuña|party5={{ill|Ecuadorian Revolutionary Popular Action|es|Acción Popular Revolucionaria Ecuatoriana}}|votes5=187935
+|cand6={{ill|Ricardo Noboa|es}}|vp6=[[Francisco Huerta Montalvo|Francisco Huerta]]|party6=[[Alfarista Radical Front|FRA]]–[[Ecuadorian Radical Liberal Party|PLRE]]|votes6=115033
+|cand7=Juan José Castelló|vp7=Lenín Rosero|party7=[[Democratic People's Movement]]|votes7=89472
+|cand8=José Gallardo|vp8=Julio Molina|party8=Civic Independent Union|votes8=46464
+|cand9=Jacinto Velásquez|vp9=Tito Yépez|party9=Independent|votes9=36080
+|invalid=716137|invalid2=581478
+|electorate=6662003|electorate2=6662003
+|source=Nohlen
+}}
+
+===National Congress===
+{{Election results
+|image=[[File:Congreso Ecuador 1996.svg]]
+|firstround=National|secondround=Constituency
+|party1=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes1=1069977|seats1=|votes1_2=983850|seats1_2=|totseats1=27|sc1=+1
+|party2=[[Ecuadorian Roldosist Party]]|votes2=718983|seats2=|votes2_2=752276|seats2_2=|totseats2=19|sc2=+8
+|party3=[[Pachakutik Plurinational Unity Movement – New Country]]|votes3=379056|seats3=|votes3_2=251488|seats3_2=|totseats3=8|sc3=New
+|party4=[[Christian Democratic Union (Ecuador)|Popular Democracy]]|votes4=370311|seats4=|votes4_2=418381|seats4_2=|totseats4=11|sc4=+7
+|party5=[[Alfarista Radical Front|FRA]]–[[Ecuadorian Radical Liberal Party|PLRE]]|votes5=243411|seats5=|votes5_2=148014|seats5_2=|totseats5=2|sc5=–1
+|party6=[[Democratic Left (Ecuador)|Democratic Left]]|votes6=219536|seats6=|votes6_2=251505|seats6_2=|totseats6=4|sc6=–4
+|party7=[[Democratic People's Movement]]|votes7=153714|seats7=|votes7_2=150176|seats7_2=|totseats7=2|sc7=–6
+|party8={{ill|Ecuadorian Revolutionary Popular Action|es|Acción Popular Revolucionaria Ecuatoriana}}|votes8=105902|seats8=|votes8_2=123732|seats8_2=|totseats8=2|sc8=0
+|party9=[[Concentration of People's Forces]]|votes9=80245|seats9=|votes9_2=68070|seats9_2=|totseats9=1|sc9=0
+|party10=[[Conservative Party (Ecuador)|Conservative Party]]–UN|votes10=72434|seats10=|votes10_2=79794|seats10_2=|totseats10=1|sc10=–5
+|party11=[[Socialist Party – Broad Front of Ecuador|Socialist Party–Broad Front]]|votes11=43621|seats11=|votes11_2=46462|seats11_2=|totseats11=5|tsspan11=9|sc11=–
+|party12=Latin American People's Union|votes12=28998|seats12=|votes12_2=17612|seats12_2=|totseats12=|sc12=
+|party13=National Alfarismo Party|votes13=22987|seats13=|votes13_2=30080|seats13_2=|totseats13=|sc13=
+|party14=Independent Transformative Insurgency Movement|votes14=14771|seats14=|votes14_2=3016|seats14_2=|totseats14=|sc14=
+|party15=[[Alfarista Radical Front]]|votes15_2=9485|seats15_2=|totseats15=|sc15=
+|party16=[[Ecuadorian Radical Liberal Party]]|votes16_2=5467|seats16_2=|totseats16=|sc16=
+|party17=[[Democratic Left (Ecuador)|ID]]–[[Socialist Party – Broad Front of Ecuador|PSFA]]|votes17_2=3501|seats17_2=|totseats17=|sc17=
+|party18=Civic Independent Union|votes18_2=1965|seats18_2=|totseats18=|sc18=
+|party19=Other parties|votes19_2=183256|seats19_2=|totseats19=|sc19=
+|invalid=997261|invalid2=988067
+|total_sc=+5
+|electorate=6662003|electorate2=6662003
+|source=Nohlen
+}}
+
+==References==
+{{reflist}}
+
+{{Ecuadorian elections}}
+
+[[Category:1996 in Ecuador|General]]
+[[Category:1996 elections in South America|Ecuador]]
+[[Category:Presidential elections in Ecuador]]
+[[Category:Parliamentary elections in Ecuador]]
+[[Category:Election and referendum articles with incomplete results]]

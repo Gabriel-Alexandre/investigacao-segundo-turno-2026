@@ -1,0 +1,1966 @@
+{{Short description|none}}
+{{Use dmy dates|date=October 2023}}
+{{Infobox election
+| country = Argentina
+| module = {{Infobox election
+| election_name = Presidential election
+| embed = yes
+| type = presidential
+| previous_election = 2011 Argentine general election
+| previous_year = 2011
+| next_election = 2019 Argentine general election
+| next_year = 2019
+| election_date = 25 October 2015 (first round)<br />22 November 2015 (second round)
+| registered = 32,130,853 (first round)<br />32,108,509  (second round)
+| turnout = 81.07% (first round)<br />80.77% (second round)
+
+| image1 = Mauricio Macri (cropped).jpg
+
+| nominee1 = '''[[Mauricio Macri]]'''
+| party1 = Republican Proposal
+| alliance1 = Cambiemos
+| running_mate1 = '''[[Gabriela Michetti]]'''
+| popular_vote1 = '''12,988,349'''
+| percentage1 = '''51.34%'''
+| states_carried1 = 8 +  [[Buenos Aires|CABA]]
+
+| image2 = Daniel Scioli October 2015.jpg
+| nominee2 = [[Daniel Scioli]]
+| party2 = Justicialist Party
+| alliance2 = [[Front for Victory|FPV]]
+| color2 = {{party colour|Front for Victory}}
+| running_mate2 = [[Carlos Zannini]]
+| popular_vote2 = 12,309,575
+| percentage2 = 48.66%
+| states_carried2 = '''15'''
+| map = {{Switcher
+| [[File:Elecciones Argentina 2015 Primera Vuelta esp.png|320px]]|First round results by province and department
+| [[File:Elecciones Argentina 2015 Segunda Vuelta Esp.png|320px]]|Second round results by province and department
+| default=2}}
+
+| title = [[President of Argentina|President]]
+| before_election = [[Cristina Fernández de Kirchner]]
+| before_party = [[Front for Victory|FPV]]–[[Justicialist Party|PJ]]
+| after_election = [[Mauricio Macri]]
+| after_party = [[Juntos por el Cambio|Cambiemos]]–[[Republican Proposal|PRO]]
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Chamber of Deputies
+| previous_election = [[2013 Argentine legislative election|2013]]
+| next_election = [[2017 Argentine legislative election|2017]]
+| seats_for_election = 130 of the 257 seats in the [[Argentine Chamber of Deputies|Chamber of Deputies]]
+| election_date = 25 October 2015
+| turnout = 81.06%
+| noleader = yes
+| first_election = yes
+
+| party1 = Front for Victory
+| percentage1 = 37.39
+| last_election1 = 
+| seats1 = 60
+
+| party2 = [[Juntos por el Cambio|Cambiemos]]
+| percentage2 = 35.11
+| last_election2 = 
+| seats2 = 47
+
+| party3 = United for a New Alternative
+| percentage3 = 17.56
+| last_election3 = 
+| seats3 = 17
+
+| party4 = Workers' Left Front
+| percentage4 = 4.19
+| last_election4 = 
+| seats4 = 1
+
+| party5 = Progresistas
+| percentage5 = 3.43
+| last_election5 = 
+| seats5 = 2
+
+| party7 = Federal Commitment
+| percentage7 = 1.17
+| last_election7 = 
+| seats7 = 2
+
+| party8 = We Are All Chubut
+| percentage8 = 0.37
+| last_election8 = 
+| seats8 = 1
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Senate
+| previous_election = [[2013 Argentine legislative election|2013]]
+| next_election = [[2017 Argentine legislative election|2017]]
+| seats_for_election = 24 of the 72 seats in the [[Argentine Senate|Senate]]
+| election_date = 25 October 2015
+| turnout = 79.83%
+| noleader = yes
+| first_election = yes
+
+| party1 = [[Juntos por el Cambio|Cambiemos]]
+| percentage1 = 38.81
+| last_election1 = 
+| seats1 = 9
+
+| party10 = Front for Victory
+| percentage10 = 32.72
+| last_election10 = 
+| seats10 = 13
+
+| party11 = United for a New Alternative
+| percentage11 = 16.86
+| last_election11 = 
+| seats11 = 1
+
+| party12 = We Are All Chubut
+| percentage12 = 1.20
+| last_election12 = 
+| seats12 = 1
+
+| map = Mapa de las elecciones legislativas de Argentina de 2015.png
+| map_upright = 1
+| map_caption = Chamber of Deputies results by province
+}}}}}}
+}}{{Politics of Argentina}}
+
+General elections were held in [[Argentina]] on 25 October 2015 to elect the President and [[National Congress of Argentina|National Congress]], and followed [[Primary elections in Argentina|primary elections]] which were held on 9 August 2015. A second round of voting between the two leading candidates took place on 22 November, after surprisingly close results forced a runoff.<ref>[http://www.diarioregistrado.com/politica/101148-es-oficial--hay-fecha-para-las-paso-y-las-elecciones-generales.html Es oficial: hay fecha para las PASO y las elecciones generales] {{Webarchive|url=https://web.archive.org/web/20150923223445/http://www.diarioregistrado.com/politica/101148-es-oficial--hay-fecha-para-las-paso-y-las-elecciones-generales.html |date=23 September 2015 }} Diario Registrado, 2 September 2014 {{in lang|es}}</ref> On the first runoff voting ever held for an Argentine Presidential Election, [[Buenos Aires]] Mayor [[Mauricio Macri]] narrowly defeated [[Front for Victory]] candidate and [[Buenos Aires Province]] Governor [[Daniel Scioli]] with 51% of the vote.<ref>{{cite web |url= https://www.nytimes.com/2015/11/23/world/americas/argentina-president-election-mauricio-macri.html|title= In Rebuke to Kirchner, Argentines Elect Opposition Leader Mauricio Macri as President|author= Simon Romero and Jonathan Gilbert|date= 22 November 2015|work= The New York Times|access-date=24 November 2015}}</ref> Macri's vote count of nearly 13 million votes made it the highest number of votes any candidate has ever received in Argentinian history until [[Javier Milei]]'s victory in the [[2023 Argentine general election|2023 presidential election]]. He took office on 10 December, making him the first freely elected president in almost a century who was not either a [[Radical Civic Union|Radical]] or a [[Justicialist Party|Peronist]].
+
+Macri performed better among higher-income provinces in the central area of the country, while Scioli performed strongly in poorer provinces in the northwest, the northeast and Patagonia.<ref>{{Cite web|url=https://www.pagina12.com.ar/diario/elpais/1-285142-2015-11-01.html|title=Página/12 :: El país :: Se va la segunda}}</ref>
+
+==Background==
+President [[Cristina Fernández de Kirchner]] was re-elected in 2011. As the [[Constitution of Argentina]] does not allow more than two consecutive terms, several politicians from the [[Front for Victory]] (FPV) speculated about a constitutional amendment to allow unlimited re-elections.<ref>{{cite news|title=I'd be glad to see CFK go for another term,' Lawmaker Rossi |url= http://www.buenosairesherald.com/article/99626/id-be-glad-to-see-cfk-go-for-another-term-lawmaker-rossi|date= 30 April 2012|publisher= Buenos Aires Herald|access-date=1 November 2015}}</ref> This idea<ref>{{cite news|title=Gov't insists on discussing possible constitutional amendment|url=http://buenosairesherald.com/article/91968/govt-insists-on-discussing-possible-constitutional-amendment|access-date=1 November 2015|publisher=Buenos Aires Herald|date=5 February 2012}}</ref> was heavily resisted by the opposition parties, and the FPV could not reach the required [[Supermajority|two-thirds majority]] in Congress. The [[2013 Argentine legislative election|mid-term elections]] in 2013 ended the FPV's hope for a constitutional amendment after they failed to win the necessary supermajority.<ref>{{cite web |url= http://www.clarin.com/elecciones/elecciones-2013-kirchnerismo-acabo-sueno-re-reeleccion_0_973102979.html|title= Para el kirchnerismo, se acabó el sueño de la re reelección|trans-title= For Kirchnerism, the dream of the re-reelection is over|language= es|date= 12 August 2013|publisher= Clarín|access-date=1 September 2015}}</ref>
+
+==Electoral system==
+The election of the president was carried out using the [[Ballotage in Argentina|ballotage system]], a modified version of the [[two-round system]] in which a candidate can win the presidency in the first round either by receiving 45% of the vote, or by receiving 40% of the vote and finishing at least 10 [[percentage points]] ahead of the second-place candidate.<ref name="guide">{{cite web |url= https://www.theguardian.com/world/2015/oct/23/argentina-elections-2015-a-guide-to-the-parties-polls-and-electoral-system|title= Argentina elections 2015: a guide to the parties, polls and electoral system|author= David Hodari|date= 23 October 2015|work= The Guardian|access-date=3 November 2015}}</ref> Voting is compulsory for citizens between 18 and 70 years old.<ref name=IPU/> [[Suffrage]] was also extended to 16- and 17-year-olds, though without compulsory voting.<ref>[http://www.electoral.gov.ar/votaralos16.php Voto de los Jóvenes de 16 y 17 años0] {{Webarchive|url=https://web.archive.org/web/20170330013402/http://www.electoral.gov.ar/votaralos16.php |date=30 March 2017 }} Camara Nacional Electoral</ref>
+
+There are a total of 257 seats of the Chamber of Deputies, elected from 24 electoral districts–the 23 provinces, plus the federal district of Buenos Aires, which its own executive and legislature and is represented in the national Congress like all other provinces.<ref>{{Cite web|url=http://csis.org/files/media/csis/pubs/hf_v15_05.pdf|title=CSIS Hemisphere Focus|last=Regúnaga|first=Carlos|date=22 October 2007|website=The Argentine Elections: Systems and Candidates|access-date=22 April 2016}}</ref> The number of seats are distributed in relation to the population of the province. In order to be in concordance with the "one-third female" law enforces that one-third of the overall seats in the Chamber of Deputies are female. The 130 seats of the [[Chamber of Deputies (Argentina)|Chamber of Deputies]] up for election were elected from 24 multi-member constituencies based on the 23 [[Provinces of Argentina|provinces]] and [[Buenos Aires]]. Seats were allocated using the [[D'Hondt method]] of [[proportional representation]], with an [[electoral threshold]] of 3%.<ref name=IPU>[http://www.ipu.org/parline-e/reports/2011_B.htm Chamber of Deputies: Electoral system] {{webarchive |url=https://web.archive.org/web/20131031040409/http://www.ipu.org/parline-e/reports/2011_B.htm |date=31 October 2013 }} IPU</ref>
+
+The 24 seats in the [[Senate (Argentina)|Senate]] up for election were elected in three-seat constituencies using the [[closed list]] system. Each district is represented by three senatorial seats. Each party is allowed to register up to two candidates; one of those registered must be female. The party receiving the most votes wins two seats, and the second-placed party won one.<ref name="IFES">[http://www.electionguide.org/elections/id/2472/ Argentine Republic: Election for Senado (Senate)] IFES</ref> The third senatorial seat was established in the [[1994 amendment of the Constitution of Argentina|Constitution of 1994]] in order to better represent the largest minority in each district.
+
+Parties and coalitions provided their own ballot papers, which voters placed in sealed envelopes. However, voters were able to cut ballot papers up and place different sections from different parties inside the envelope if they wanted to vote for different candidates or lists for different posts. Being under a [[Federalism|Federal system]], it is possible for different provinces to use different systems.
+In Buenos Aires and Salta electronic voting machines were used to print out a single unified ballot, with voters able to select different candidates and parties on a touch screen. Other municipalities such as [[Bariloche]] opted for a non-electronic single unified ballot.<ref>{{cite news|last1=Maradona|first1=Soledad|title=Votan hoy en Bariloche con la boleta única|url=http://www.lanacion.com.ar/1825523-votan-hoy-en-bariloche-con-la-boleta-unica|access-date=30 October 2015|date=6 September 2015}}</ref> Opposition candidates, including [[Sergio Massa]], [[Mauricio Macri]] and [[Margarita Stolbizer]] called for the nationwide implementation of a unified ballot and/or electronic voting, though Massa in particular was more cautious, saying it was more realistic for such a system to be implemented by 2017.<ref>{{cite news|title=¿Es posible votar en octubre con boleta única electrónica?|url=http://www.lanacion.com.ar/1822680-es-posible-votar-en-octubre-con-boleta-unica-electronica|access-date=30 October 2015|work=La Nacion|date=27 August 2015}}</ref> The authority in charge of regulating elections rejected changing the system within 2015 since they claimed it would be too short term to implement the changes and explain to the public how the new system works.<ref>{{cite news|title=El Gobierno veta la boleta única alternativa: "Puede confundir al electorado"|url=http://www.lanacion.com.ar/1824627-el-gobierno-veta-la-boleta-unica-alternativa-puede-confundir-al-electorado|access-date=30 October 2015|work=La Nacion|date=3 September 2015}}</ref>
+
+==Candidates==
+=== General election ===
+Six candidates received at least 1.5% of the vote in the primary elections and were able to contest the general election.
+
+====Cambiemos====
+[[Mauricio Macri]], from the [[Republican Proposal]], was the mayor of [[Buenos Aires]] city. Many smaller parties had created a coalition the previous year, the [[Broad Front UNEN]]. [[Elisa Carrió]] of the [[Civic Coalition (Argentina)|Civic Coalition]] left it to join Macri.<ref>{{cite news |url= http://www.lanacion.com.ar/1745140-elisa-carrio-ratifica-su-salida-de-unen-nacional-al-suicidio-no-voy|title= Elisa Carrió ratifica su salida de UNEN nacional: "Al suicidio no voy"|trans-title= Elisa Carrió confirms her departure from UNEN: "I'm not going to suicide"|language= es|date= 19 November 2014|newspaper= La Nación|access-date=1 September 2015}}</ref> An internal congress of the [[Radical Civic Union]] decided to do so as well, and proposing [[Ernesto Sanz]] as their precandidate.<ref>{{cite news |url= http://www.lanacion.com.ar/1776377-el-radicalismo-definio-su-alianza-y-ratifico-a-ernesto-sanz-como-precandidato-presidencial|title= El radicalismo aprobó la alianza con Macri y Carrió|trans-title= Radicalism approved the alliance with Macri and Carrió|language= es|date= 15 March 2015|newspaper= La Nación|access-date=1 September 2015}}</ref> UNEN was thus disbanded, and the three candidates ran for the coalition [[Cambiemos]]. [[Margarita Stolbizer]] refused to join the coalition with Macri, and ran in a separate party instead.<ref>{{cite web |last1= Com|first1= Clarin|url= http://www.clarin.com/politica/Margarita_Stolbizer-elecciones_2015-GEN-UNEN-UCR-PRO-Mauricio_Macri-Gerardo_Morales_0_1327067444.html|title= Stolbizer, a Macri: "Es una salida demagógica decir 'si asumo levanto el cepo'"|trans-title= Stolbizer, to Macri: "It is demagogic to say 'If I'm president I will crease the restrictions'"|language= es|date= 25 March 2015|publisher= Clarín|access-date=1 September 2015}}</ref>
+
+{| class="wikitable" style="font-size:90%; text-align:center;" width=40%
+|-
+| bgcolor=#f1f1f1 colspan=2|[[File:Cambiemos logofinal.png|205px|center]]<big>'''[[Cambiemos]]'''</big>
+|-
+! style="font-size:135%; background:#f9cc00;" width=50%| [[Mauricio Macri|{{color|black|Mauricio Macri}}]]
+! style="font-size:135%; background:#f9cc00;" width=50%| [[Gabriela Michetti|{{color|black|Gabriela Michetti}}]]
+|- style="color:#000; font-size:100%; background:#fffcb7;"
+| '''''for President'''''
+| '''''for Vice President'''''
+|-
+| [[File:Mauricio Macri (cropped).jpg|center|200x200px]]
+| [[File:Gabriela Michetti.jpg|center|200x200px]]
+|-
+| [[List of mayors and chiefs of government of Buenos Aires|5th Chief of Government of Buenos Aires]]<br /><small>(2007–2015)</small>
+| [[Argentine Senate|National Senator]] for [[Buenos Aires City]]<br /><small>(2013–2016)</small>
+|-
+| colspan=2|{{center|<big>'''Parties in the coalition:'''</big><ref name="Alianzas">{{cite web |url=https://www.electoral.gov.ar/pdf/alianzas_paso_2015.pdf |title= Alianzas PASO 2015 |website=www.electoral.gov.ar |access-date= 28 September 2017}}</ref>}}
+{{col-begin}}
+{{col-2}}
+* [[Radical Civic Union]]
+* [[Democratic Progressive Party (Argentina)|Democratic Progressive Party]]
+* [[Conservative People's Party (Argentina)|Conservative People's Party]]
+* [[Civic Coalition ARI]]
+{{col-2}}
+* [[Republican Proposal]]
+* [[Faith Party]]
+* Dialogue Party
+{{col-end}}
+|}
+
+====Front for Victory====
+
+Initially, the FPV had several pre-candidates to the presidency, but only Daniel Scioli and [[Florencio Randazzo]] had a good reception in the opinion polls. Scioli was resisted by factions of the party that did not consider him truly loyal to Kirchner. All the minor candidates resigned when Kirchner asked them to do so.<ref>{{cite news |url= http://www.lanacion.com.ar/1790706-cristina-kirchner-en-chaco|title= Cristina Kirchner quiere menos candidatos a presidente en el PJ: pidió "un baño de humildad"|trans-title= Cristina Kirchner wants less presidential candidates in the PJ: she asked for a "bath of humility"|language= es|date= 7 May 2015|newspaper= La Nación|access-date=1 September 2015}}</ref> Randazzo resigned as well some weeks before the primary elections, leaving Scioli as the sole precandidate of the FPV.<ref>{{cite web |url= http://www.perfil.com/politica/Cedio-Randazzo-descarto-su-intento-por-la-Presidencia--20150617-0026.html|title= Cedió Randazzo: descartó su intento por la Presidencia|trans-title= Randazzo gave it up: he discarded his attempt for the presidency|language= es|date= 15 June 2015|publisher= Perfil|access-date=1 September 2015}}</ref> Randazzo did not accept to run for governor of the Buenos Aires province, which had primary elections between minister [[Aníbal Fernández]] and [[Julián Domínguez]].<ref>{{cite news |url= http://www.lanacion.com.ar/1803134-la-negativa-de-randazzo-reabrio-la-disputa-por-la-gobernacion|title= La negativa de Randazzo reabrió la disputa por la gobernación|trans-title= Randazzo's refusal reopened the dispute for the governorship|language= es|author= Mariano Obarrio|date= 19 June 2015|newspaper= La Nación|access-date=1 September 2015}}</ref> Fernández won the local primary elections.
+
+{| class="wikitable" style="font-size:90%; text-align:center;" width=40%
+|-
+| bgcolor=#f1f1f1 colspan=2|[[File:Logo Frente para la Victoria.svg|205px|center]]<big>'''[[Front for Victory]]'''</big>
+|-
+! style="font-size:135%; background:#5fa6cc;" width=50%| [[Daniel Scioli|{{color|black|Daniel Scioli}}]]
+! style="font-size:135%; background:#5fa6cc;" width=50%| [[Carlos Zannini|{{color|black|Carlos Zannini}}]]
+|- style="color:#000; font-size:100%; background:#cedbe2;"
+| '''''for President'''''
+| '''''for Vice President'''''
+|-
+|[[File:Daniel Scioli October 2015.jpg|center|209x209px]]
+| [[File:Carlos Zannini (cropped).jpg|center|204x204px]]
+|-
+| [[Governor of Buenos Aires]]<br /><small>(2007–2015)</small>
+| [[Legal and Technical Secretariat of the Presidency (Argentina)|Legal and Technical Secretary]] of the [[President of Argentina|Presidency]]<br /><small>(2003–2015)</small>
+|-
+| colspan=2 style="text-align:center;" |<big>'''Parties in the coalition:'''</big><ref name="Alianzas"/>
+{{col-begin}}
+{{col-2}}
+* [[Justicialist Party]]
+* [[Intransigent Party]]
+* [[Federal Party (1973)|Federal Party]]
+* [[Communist Party (Argentina)|Communist Party]]
+* [[Humanist Party (Argentina)|Humanist Party]]
+* [[Broad Front (Argentina)|Broad Front Party]]
+* [[Victory Party (Argentina)|Victory Party]]
+* [[Solidary Party]]
+{{col-2}}
+* [[Kolina]]
+* [[New Encounter|Encounter for Democracy and Equality]]
+* [[FORJA Concertation Party]]
+* HACER Front for Social Progress
+* [[:es:Partido por la Soberanía Popular|Party for Popular Sovereignty]]
+{{col-end}}
+|}
+
+==== Other candidates ====
+
+<small>''in [[alphabetical order]]''</small>
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| style="background:#f1f1f1;" colspan=2|[[File:Frente de Izquierda y de los Trabajadores Logo.svg|190px|center]]<big>'''[[Workers' Left Front]]'''</big>
+| style="background:#f1f1f1;" colspan=2|[[File:Una logo.png|190px|center]]<big>'''[[United for a New Alternative]]'''</big>
+| style="background:#f1f1f1;" colspan=2|[[File:ACFederal.png|190px|center]]<big>'''[[Federal Commitment]]'''</big>
+| style="background:#f1f1f1;" colspan=2|[[File:Logo frente Progresistas.svg|90px|center]]<big>'''[[Progresistas]]'''</big>
+|-
+! style="width:160px; font-size:120%; background:#EB0000;"| [[Nicolás del Caño|{{color|white|Nicolás del Caño}}]]
+! style="width:160px; font-size:120%; background:#EB0000;"| [[Myriam Bregman|{{color|white|Myriam Bregman}}]]
+! style="width:160px; font-size:120%; background:#3C3C3C;"| [[Sergio Massa|{{color|white|Sergio Massa}}]]
+! style="width:160px; font-size:120%; background:#3C3C3C;"| [[Gustavo Sáenz|{{color|white|Gustavo Sáenz}}]]
+! style="width:160px; font-size:120%; background:#66FFCC;"| [[Adolfo Rodríguez Saá|{{color|black|Adolfo Rodríguez Saá}}]]
+! style="width:160px; font-size:120%; background:#66FFCC;"| [[Liliana Negre de Alonso|{{color|black|Liliana Negre de Alonso}}]]
+! style="width:160px; font-size:120%; background:#EE4D8B;"| [[Margarita Stolbizer|{{color|white|Margarita Stolbizer}}]]
+! style="width:160px; font-size:120%; background:#EE4D8B;"| [[Miguel Ángel Olaviaga|{{color|white|Miguel Ángel Olaviaga}}]]
+|- style="color:#000; font-size:100%"
+| bgcolor=#ffb7b7|'''''for President'''''
+| bgcolor=#ffb7b7|'''''for Vice President'''''
+| bgcolor=#afafaf|'''''for President'''''
+| bgcolor=#afafaf|'''''for Vice President'''''
+| bgcolor=#b7fff9|'''''for President'''''
+| bgcolor=#b7fff9|'''''for Vice President'''''
+| bgcolor=#ffb7dc|'''''for President'''''
+| bgcolor=#ffb7dc|'''''for Vice President'''''
+|-
+|[[File:Nicolás Del Caño (cropped).jpg|center|120x120px]]
+|[[File:Myriam Bregman.jpg|center|120x120px]]
+|[[File:Sergio Massa (cropped).jpg|center|120x120px]]
+|[[File:Gustavo Sáenz.png|center|120x120px]]
+|[[File:Arodriguezsaa.jpg|center|120x120px]]
+|[[File:LilianaNegreDeAlonso.jpg|center|120x120px]]
+|[[File:Margarita Rosa Stolbizer.png|center|120x120px]]
+|
+|-
+| [[Argentine Chamber of Deputies|National Deputy]] for [[Mendoza Province|Mendoza]]<br/><small>(2013–2015)</small>
+| [[Argentine Chamber of Deputies|National Deputy]] for [[Buenos Aires Province|Buenos Aires]]<br/><small>(2015–2016)</small>
+| [[Argentine Chamber of Deputies|National Deputy]] for [[Buenos Aires Province|Buenos Aires]]<br/><small>(2013–2017)</small>
+| Mayor of [[Salta]] <br/><small>(2015–2019)</small>
+| [[Argentine Senate|National Senator]] for [[San Luis Province|San Luis]] <br/><small>(2005–present)</small>
+| [[Argentine Senate|National Senator]] for [[San Luis Province|San Luis]] <br/><small>(2001–2017)</small>
+| [[Argentine Chamber of Deputies|National Deputy]] for [[Buenos Aires Province|Buenos Aires]]<br/><small>(1997–2005, 2009–2017)</small>
+| Union leader of ''Asociación Mutual Mercantil Argentina''
+|-style="vertical-align: top;"
+| colspan=2 style="text-align:center;" |<big>'''Parties in the coalition:'''</big><ref name="Alianzas"/>
+* [[Socialist Left (Argentina)|Socialist Left]]
+* [[Workers' Party (Argentina)|Workers' Party]]
+* [[Socialist Workers' Party (Argentina)|Socialist Workers' Party]]
+| colspan=2 style="text-align:center;" |<big>'''Parties in the coalition:'''</big><ref name="Alianzas"/>
+{{col-begin}}
+{{col-2}}
+* [[Integration and Development Movement]]
+* [[Christian Democratic Party (Argentina)|Christian Democratic Party]]
+* [[Popular Union (Argentina)|Popular Union]]
+* [[UNIR Constitutional Nationalist Party]]
+* [[Light Blue and White Union]]
+* [[Third Position Party]]
+* Federal Renewal Party
+{{col-2}}
+* Commitment and Effort for Triumph
+* Workers' White Party
+* Jujuy Wins
+* New People
+* [[Salta Identity Party]]
+* [[Production and Labour]]
+* Civic Encounter
+* [[:es:Unión por la Libertad|Union for Liberty]]
+* [[Renewal Front|Authentic Renewal Front]]
+{{col-end}}
+| colspan=2 style="text-align:center;" |<big>'''Parties in the coalition:'''</big><ref name="Alianzas"/>
+* Movimiento Independiente Justicia y Dignidad
+* Es Posible
+| colspan=2 style="text-align:center;" |<big>'''Parties in the coalition:'''</big><ref name="Alianzas"/>
+* [[Authentic Socialist Party (Argentina)|Authentic Socialist Party]]
+* [[Freemen of the South Movement]]
+* [[Socialist Party (Argentina)|Socialist Party]]
+* [[Generation for a National Encounter]]
+* Social Pole Movement
+|}
+
+===Primary elections===
+The candidates of five parties failed in their attempt at passing the 1.5% threshold in the primary elections that would have allowed them to run in the general election.
+
+{| class="wikitable" style="font-size:90%; text-align:center;"
+|-
+| style="background:#f1f1f1" colspan=2| <big>'''Popular Front'''</big>
+| style="background:#f1f1f1;" colspan=2|[[File:NuevoMAS logo.png|150px|center]]<big>'''[[Movement for Socialism (Argentina)|Movement for Socialism]]'''</big>
+| style="background:#f1f1f1;" colspan=2|[[File:Mst-logo.png|190px|center]]<big>'''[[Workers' Socialist Movement (Argentina)|MST-Nueva Izquierda]]'''</big>
+| style="background:#f1f1f1;" colspan=2|<big>'''People's Party'''</big>
+| style="background:#f1f1f1;" colspan=2|<big>'''[[Neighbourhood Action Movement]]'''</big>
+|-
+! style="width:160px; font-size:120%; background:lime;"| Víctor De Gennaro
+! style="width:160px; font-size:120%; background:lime;"| Evangelina Codoni
+! style="width:160px; font-size:120%; background:#EB0000;"| [[Manuela Castañeira|{{color|white|Manuela Castañeira}}]]
+! style="width:160px; font-size:120%; background:#EB0000;"| {{color|white|Jorge Ayala}}
+! style="width:160px; font-size:120%; background:darkred;"| {{color|white|Alejandro Bodart}}
+! style="width:160px; font-size:120%; background:darkred;"| [[Vilma Ripoll|{{color|white|Vilma Ripoll}}]]
+! style="width:160px; font-size:120%; background:darkblue;"| {{color|white|[[Mauricio Jorge Yattah|Mauricio Yattah]]}}
+! style="width:160px; font-size:120%; background:darkblue;"| {{color|white|María Moretta}}
+! style="width:160px; font-size:120%; background:green;"| {{color|white|Raúl Albarracín}}
+! style="width:160px; font-size:120%; background:green;"| {{color|white|Gastón Dib}}
+|- style="color:#000; font-size:100%"
+| bgcolor=#b7ffc3|'''''for President'''''
+| bgcolor=#b7ffc3|'''''for Vice President'''''
+| bgcolor=#ffb7b7|'''''for President'''''
+| bgcolor=#ffb7b7|'''''for Vice President'''''
+| bgcolor=#c47f7f|'''''for President'''''
+| bgcolor=#c47f7f|'''''for Vice President'''''
+| bgcolor=#b7b8ff|'''''for President'''''
+| bgcolor=#b7b8ff|'''''for Vice President'''''
+| bgcolor=#b7ffc3|'''''for President'''''
+| bgcolor=#b7ffc3|'''''for Vice President'''''
+|-style="vertical-align: top;"
+| colspan=2 style="text-align:center;" |<big>'''Parties in the coalition:'''</big><ref name="Alianzas"/>
+* [[Popular Unity (Argentina)|Popular Unity]]
+* [[Revolutionary Communist Party (Argentina)|Revolutionary Communist Party]]
+| colspan=2 {{CNone}} —
+| colspan=2 style="text-align:center;" |<big>'''Parties in the coalition:'''</big><ref name="Alianzas"/>
+* [[Workers' Socialist Movement (Argentina)|Workers' Socialist Movement]]
+* Nueva Izquierda
+| colspan=2 {{CNone}} —
+| colspan=2 {{CNone}} —
+|}
+
+==Campaign and controversies==
+
+[[File:Encuestas de intencion de voto presidenciales Argentina 2015.jpg|thumbnail|right|Opinion polls during the first round had underestimated the number of voters intending to vote for Macri, while later polls underestimated Scioli.]]
+With Kirchner unable to run, three candidates led the opinion polls; [[Daniel Scioli]], [[Sergio Massa]] and [[Mauricio Macri]].<ref>{{cite web |url= http://www.lapoliticaonline.com/nota/85201/|title= Las últimas encuestas confirman que sigue el triple empate entre Massa y Macri y Scioli|trans-title= The last polls confirm the triple draw between Massa, Macri and Scioli|language= es|date= 22 November 2014|publisher= La Política Online|access-date=1 September 2015}}</ref> Several controversies took place during the time of the elections, or related to the elections themselves.
+
+The primary elections and some local elections had scandals of [[Electoral fraud]]. There was a frequent theft of ballot papers from the polling places. State-owned [[Correo Argentino]] collects the results of each school and sends them to a centralized location for their global count; there have been reports of inconsistencies between the results signed in the schools and those informed by Correo Argentino. Tucumán even had a case of people burning ballot boxes, which led to several demonstrations at Plaza Independencia. There was policial repression on those demonstrations, leading to further scandals.
+
+Journalist [[Jorge Lanata]] aired an interview with a prisoner sentenced for the 2008 [[Triple crime]], who claimed that Aníbal Fernández was the mastermind of that crime. This increased the tensions between Fernández and Domínguez, as Fernández considered that Domínguez helped Lanata somehow. Scioli stayed away from both precandidates to governor in the last week before the primary elections, which were won by Fernández.<ref name="dolores">{{cite news |url= http://www.lanacion.com.ar/1822347-daniel-scioli-elecciones|title= Los nueve dolores de cabeza para la campaña de Daniel Scioli|trans-title= The nine headaches for Daniel Scioli's campaign|language= es|date= 26 August 2015|newspaper= La Nación|access-date=28 August 2015}}</ref>
+
+Ariel Velázquez, a sympathizer of the [[Radical Civic Union]], was shot in his house in Jujuy, after taking part in the political campaign. He died two weeks later, and the Tupac Amaru organization (led by Kirchnerite [[Milagro Sala]]) was blamed for it. President Cristina Kirchner claimed that he was not a Radical, which was refuted by his family.<ref name="dolores" />
+
+Several cities in the Buenos Aires Province suffered [[2015 Argentina floods|big floods]] during the primary elections, and the following week. The flood affected 10,000 people. Daniel Scioli had left to Italy at that moment, and made a rushed return. Mauricio Macri considered it a result of poor urban planning under Scioli's provincial government, and compared it with the lack of flooding in Buenos Aires during the same storm, which had undergone flood prevention works under his leadership. Scioli accused users of social networks to plot to damage his public image, and claimed that he has all of them identified.<ref name="dolores" />
+
+Vote buying is also a common tool utilized in Argentine elections. As for this election, the director for the Center for Research and Social Action, Rodrigo Zarazaga stated, “Vote buying strategies will probably sway 5 to 12 percent of Argentine voters on Sunday.” An example of vote buying during this election took place in Buenos Aires. Voters in this area were given the option to vote for particular candidates during the municipal elections in Tucumán. The Argentine citizens that actually promised had received “sacks stuffed with bottles of cooking oil, pasta and flour.”<ref>{{Cite web|url=https://www.nytimes.com/2015/10/24/world/americas/argentina-elections-cristina-kirchner.html|title=New Scrutiny on Vote Buying as Argentine Elections Near.|last=Gilbert|first=J|date=23 October 2015|publisher=NYTimes|access-date=5 May 2016}}</ref>
+
+==Results==
+===Primary elections===
+{{See also|Primary elections in Argentina}}
+Open primary elections for the Presidency were held nationwide on 9 August 2015. With this system, all parties run primary elections on a single ballot. All parties must take part in it, both the parties with internal factions and parties with a single candidate list. Citizens may vote for any candidate of any party, but may only cast a single vote. The most voted candidate of parties gaining 1.5% or higher of the valid votes advances to the general election.
+
+Scioli led the field with 38.41% of the vote, nearly 8 percentage points ahead of Macri; both figures would have placed him close to the threshold for avoiding a ballotage. Sergio Massa finished third. Both Macri and Massa easily defeated their rivals in the primary elections; Scioli, Stolbizer and Rodríguez Saá were the single candidates of their respective parties. Nicolás del Caño defeated Altamira, and became the unexpected candidate for the Worker's Left Front.
+
+{| class=wikitable style=text-align:right
+!colspan=2 rowspan=2|Party
+!rowspan=2|Presidential candidate
+!rowspan=2|Running mate
+!colspan=2|Candidate votes
+!colspan=2|Overall votes
+|-
+!Votes
+!%
+!Votes
+!%
+|-style="font-weight:bold" bgcolor=#cfc
+| bgcolor={{party color|Front for Victory}}|
+| align=left|[[Front for Victory]] (FPV)
+| align=left|[[Daniel Scioli]]
+| align=left|[[Carlos Zannini]]
+| 8,720,573
+| 100
+| 8,720,573
+| 36.69
+|-style="font-weight:bold" bgcolor=#cfc
+| rowspan=3 bgcolor=gold|
+| rowspan=3 align=left|[[Cambiemos|Let's Change]]
+| align=left|[[Mauricio Macri]]
+| align=left|[[Gabriela Michetti]]
+| 5,523,413
+| 81.33
+| rowspan=3|6,791,278
+| rowspan=3|28.57
+|-
+| align=left|[[Ernesto Sanz]]
+| align=left|Lucas Llach
+| 753,825
+| 11.10
+|-
+| align=left|[[Elisa Carrió]]
+| align=left|[[Héctor Toty Flores]]
+| 514,040
+| 7.57
+|-style="font-weight:bold" bgcolor=#cfc
+| rowspan=2 bgcolor=3C3C3C|
+| rowspan=2 align=left|[[United for a New Alternative]] (UNA)
+| align=left|[[Sergio Massa]]
+| align=left|[[Gustavo Sáenz]]
+| 3,230,887
+| 69.64
+| rowspan=2|4,639,405
+| rowspan=2|19.52
+|-
+| align=left|[[José Manuel de la Sota]]
+| align=left|[[Claudia Rucci]]
+| 1,408,518
+| 30.36
+|-style="font-weight:bold" bgcolor=#cfc
+| bgcolor=EE4D8B|
+| align=left|[[Progresistas|Progressives]]
+| align=left|[[Margarita Stolbizer]]
+| align=left|Miguel Ángel Olaviaga
+| 769,316
+| 100
+| 781,472
+| 3.29
+|-style="font-weight:bold" bgcolor=#cfc
+| rowspan=2 bgcolor=#F65058|
+| rowspan=2 align=left|[[Workers' Left Front|Left and Worker's Front]] (FIT)
+| align=left|[[Nicolás del Caño]]
+| align=left|[[Myriam Bregman]]
+| 375,874
+| 51.29
+| rowspan=2|732,851
+| rowspan=2|3.08
+|-
+| align=left|[[Jorge Altamira]]
+| align=left|[[Juan Carlos Giordano]]
+| 356,977
+| 48.71
+|-style="font-weight:bold" bgcolor=#cfc
+| bgcolor=66FFCC|
+| align=left|[[Federal Commitment]]
+| align=left|[[Adolfo Rodríguez Saá]]
+| align=left|[[Liliana Negre de Alonso]]
+| 472,341
+| 100
+| 472,341
+| 1.99
+|-
+| bgcolor=lime|
+| align=left|People's Front
+| align=left|Víctor De Gennaro
+| align=left|Evangelina Codoni
+| 106,324
+| 100
+| 106,324
+| 0.45
+|-
+| bgcolor=red|
+| align=left|[[Movement for Socialism (Argentina)|Movement for Socialism]] (MAS)
+| align=left|[[Manuela Castañeira]]
+| align=left|Jorge Ayala
+| 103,742
+| 100
+| 103,742
+| 0.44
+|-
+| bgcolor=red|
+| align=left|[[Workers' Socialist Movement (Argentina)|Workers' Socialist Movement - New Left]]
+| align=left|Alejandro Bodart
+| align=left|[[Vilma Ripoll]]
+| 95,780
+| 100
+| 95,780
+| 0.40
+|-
+| bgcolor=darkblue|
+| align=left|Popular Party
+| align=left|Mauricio Yattah
+| align=left|María Moretta
+| 67,798
+| 100
+| 67,798
+| 0.29
+|-
+| bgcolor=#187F36|
+| align=left|[[Neighbourhood Action Movement]] (MAV)
+| align=left|Raúl Albarracín
+| align=left|Gastón Dib
+| 39,512
+| 100
+| 39,512
+| 0.17
+|-
+| colspan=6 align=left|Blank votes
+| 1,216,634
+| 5.12
+|-style="font-weight:bold"
+| colspan=6 align=left|Total
+| 23,767,710
+| 100
+|-
+! colspan=8|
+|-
+| colspan=6 align=left| Valid votes
+| 23,767,710
+| 98.94
+|-
+| colspan=6 align=left|Invalid votes
+| 254,106
+| 1.06
+|-style="font-weight:bold"
+| colspan=6 align=left|Total votes
+| 24,021,816
+| 100
+|-
+| colspan=6 align=left|Registered voters/turnout
+| 32,067,641
+| 74.91
+|-
+|colspan=8 style="text-align:left;"|Source:<ref>{{cite web|url=https://www.argentina.gob.ar/sites/default/files/p.v._definitivo_x_distrito_paso_2015.pdf |title= Elecciones PASO 2015 - Resultados Definitivos - Presidente y Vice |website=www.argentina.gob.ar }}</ref>
+|}
+
+===President===
+[[File:Cristina Kirchner votando en las PASO 2015 en Río Gallegos 02.jpg|thumb|Then-president [[Cristina Fernández de Kirchner]] casting her vote.]]
+
+Opinion polls previous to the result suggested that Scioli would win by a wide margin, and might even be able to avoid a [[Ballotage in Argentina|ballotage]]. However, the final results showed only a narrow lead for Scioli, with his 37% just ahead of Macri's 34%, leading to a runoff on 22 November. Massa finished third with 21% of the vote and both remaining candidates sought to secure the backing of Massa's voters. Both candidates were polarized on the opinion about the presidency of Cristina Kirchner: Scioli proposed to keep most of the Kirchnerite policies, and Macri to change them. In the legislative elections, the FPV lost the majority of the Chamber of Deputies, but kept the majority of the Senate.<ref>{{cite web |url= https://www.theguardian.com/world/2015/oct/26/argentinas-presidential-election-headed-for-second-round-after-no-clear-winner|title= Argentina's presidential election headed for second round after no clear winner|author= Jonathan Watts and Uki Goñi|date= 26 October 2015|work= The Guardian|access-date=26 October 2015}}</ref>
+
+Scioli declined to attend the first [[Presidential debates in Argentina|leaders' debate]] previous to the elections, which was held between the other five candidates instead. When the ballotage was confirmed, he asked Macri for a presidential debate between both candidates, which was accepted.<ref>{{cite news |url= http://www.lanacion.com.ar/1840173-argentina-debate-acelera-la-organizacion-del-debate-scioli-macri-no-tenemos-mucho-tiempo|title= Argentina Debate acelera la organización del debate Scioli-Macri: "No tenemos mucho tiempo"|trans-title= Argentina debate speeds up the organization of the Scioli-Macri debate: "We don't have enough time"|language= es|date= 27 October 2015|newspaper= La Nación|access-date=27 October 2015}}</ref> Two debates were being organized: one by the NGO "Argentina debate", and another one by the TV news channel [[Todo Noticias]]. Macri preferred to take part in a single debate with Scioli, and opted for the one organized by Argentina Debate.<ref>{{cite news |url= http://www.lanacion.com.ar/1840725-mauricio-macri-se-bajo-del-debate-organizado-por-el-canal-tn|title= Mauricio Macri se bajó del debate organizado por el canal TN|trans-title= Mauricio Macri stepped down from the debate organized by the channel TN|language= es|date= 28 October 2015|newspaper= La Nación|access-date=29 October 2015}}</ref>
+
+Macri criticized Scioli for a [[negative campaigning]] launched by the Front for Victory.<ref>{{cite web |url= http://www.lanacion.com.ar/1841866-macri-hablo-de-una-estrategia-oscura-pero-se-centrara-en-sus-propuestas-de-gestion|title= Macri habló de una "estrategia oscura", pero se centrará en sus propuestas de gestión|trans-title= Macri talked about a "dark strategy", but will focus on his proposals|language= es|author= Jaime Rosemberg|date= 2 November 2015|publisher= La Nación|access-date=29 October 2015}}</ref> Several politicians and state institutions run by the FPV released messages warning about terrible things that may happen if Macri was elected president.<ref>{{cite news |url= http://www.lanacion.com.ar/1842152-extienden-a-todas-las-areas-del-estado-la-campana-contra-macri-columnista-3x1-28-ropube-demin|title= Extienden a todas las áreas del Estado la campaña contra Macri|trans-title= They expand to all state areas the campaign against Macri|language= es|author= Francisco Olivera|date= 3 November 2015|newspaper= La Nación|access-date=3 November 2015}}</ref> Scioli claims that it was a campaign to encourage public awareness.<ref>{{cite web |url= http://www.clarin.com/politica/agravios-intmididaciones-campana_sucia-balotaje_0_1460853908.html|title= Con agravios e intimidaciones, comenzó una campaña sucia hacia el balotaje|trans-title= The dirty campaign towards the ballotage started with defamations and threats|language= es|author= Alejandro Alfie|date= 3 November 2015|publisher= Clarín|access-date=3 November 2015}}</ref> It is rumored that the campaign may have been suggested by the Brazilian [[João Santana]], who organized a similar one in Brazil during the ballotage of [[Dilma Rousseff]] and [[Aécio Neves]].<ref>{{cite news |url= http://www.lanacion.com.ar/1841865-santana-el-experto-en-el-centro-de-los-rumores|title= Santana, el experto en el centro de los rumores|trans-title= Santana, the expert in the middle of rumors|language= es|date= 2 November 2015|newspaper= La Nación|access-date=3 November 2015}}</ref>
+
+The ballotage was held on 22 November. Daniel Scioli accepted his defeat when 70% of the votes were counted; the provisional results were 53% and 47% at that moment.<ref>{{cite web |url= https://edition.cnn.com/2015/11/22/americas/argentina-elections/index.html|title= Argentina elections: Daniel Scioli concedes defeat|author= Catherine E. Shoichet|date= 22 November 2015|publisher= CNN|access-date=21 November 2015}}</ref> The distance between both candidates slowly narrowed in the following hours, leading to a smaller victory margin for Macri than most exit polls suggested.<ref>{{cite web |url= https://www.theguardian.com/world/2015/nov/22/argentina-election-exit-polls-buenos-aires-mauricio-macri|title= Argentina shifts to the right after Mauricio Macri wins presidential runoff|author= Jonathan Watts and Uki Goñi|date= 22 November 2015|work= The Guardian|access-date=21 November 2015}}</ref> Nevertheless, his victory ended the 12-year rule of [[Kirchnerism]] in the country.<ref>{{cite web |url= https://www.theguardian.com/world/2015/nov/22/argentina-election-second-round-vote-could-spell-end-for-kirchnerism|title= Argentina election: second round vote could spell end for 'Kirchnerism'|author= Jonathan Watts and Uki Goñi|date= 22 November 2015|work= The Guardian|access-date=21 November 2015}}</ref>
+
+Macri owed his victory to [[Córdoba Province, Argentina|Córdoba]], the second-largest province, swinging dramatically to support him; he carried the province by over 930,000 votes in the second round, far exceeding his nationwide margin of 680,600 votes. Buenos Aires also swung hard to Macri, giving its mayor over 64 percent of the vote in the second round.
+
+{{Election results
+|cand1=[[Mauricio Macri]]|vp1=[[Gabriela Michetti]]|party1=[[Juntos por el Cambio|Cambiemos]]|votes1=8601131|votes1_2=12988349
+|cand2=[[Daniel Scioli]]|vp2=[[Carlos Zannini]]|party2=[[Front for Victory]]|votes2=9338490|votes2_2=12309575
+|cand3=[[Sergio Massa]]|vp3=[[Gustavo Sáenz]]|party3=[[United for a New Alternative]]|votes3=5386977
+|cand4=[[Nicolás del Caño]]|vp4=[[Myriam Bregman]]|party4=[[Workers' Left Front]]|votes4=812530
+|cand5=[[Margarita Stolbizer]]|vp5=Miguel Ángel Olaviaga|party5=[[Progresistas]]|votes5=632551
+|cand6=[[Adolfo Rodríguez Saá]]|vp6=[[Liliana Negre de Alonso]]|party6=[[Federal Commitment]]|votes6=412578
+|blank=664740|blank2=306471
+|invalid=199449|invalid2=330848
+|electorate=32130853|electorate2=32108509
+|source=Government of Argentina,<ref>{{cite web|url=https://www.argentina.gob.ar/sites/default/files/p_v_definitivo_x_distrito_grales_20152.pdf |title= Elecciones Generales 2015 - Resultados Definitivos - Presidente y Vice |website=www.argentina.gob.ar }}</ref><ref>{{cite web|url=https://www.argentina.gob.ar/sites/default/files/p_v_definitivo_x_distrito_2da_vuelta_2015_web.pdf |title= Segunda Vuelta 2015 - Resultados Definitivos - Presidente y Vice |website=www.argentina.gob.ar }}</ref> Padron<ref name="padron">{{cite web|url=https://www.padron.gob.ar/publica/ |title=Consulta de Escrutinios Definitivos |website=www.padron.gob.ar}}</ref>
+}}
+
+====Results by province, first round====
+{|class="wikitable"
+|-{{Party shading/Democratic}}
+|Provinces won by [[Daniel Scioli]]
+|-{{Party shading/Opposition}}
+|Provinces won by [[Mauricio Macri]]
+|-{{Party shading/Know-Nothing}}
+|Provinces won by [[Sergio Massa]]
+|-{{Party shading/Law and Order}}
+|Provinces won by [[Adolfo Rodríguez Saá]]
+|}
+{| class="wikitable sortable" style="text-align:right"
+|-
+! colspan=1 |
+! align=center colspan=2 | Daniel Scioli<br />FPV
+! align=center colspan=2 | Mauricio Macri<br />PRO
+! align=center colspan=2 | Sergio Massa<br />FR
+! align=center colspan=2 | Nicolas del Caño<br />FIT
+! align=center colspan=2 | Margarita Stolbizer<br />Progresistas
+! align=center colspan=2 | Adolfo Rodríguez Saá<br />CF
+! align=center colspan=2 | Margin
+! align=center colspan=1 | Province total
+|-
+! align=center | Province
+! align=center data-sort-type="number" | Votes
+! align=center data-sort-type="number" | %
+! align=center data-sort-type="number" | Votes
+! align=center data-sort-type="number" | %
+! align=center data-sort-type="number" | Votes
+! align=center data-sort-type="number" | %
+! align=center data-sort-type="number" | Votes
+! align=center data-sort-type="number" | %
+! align=center data-sort-type="number" | Votes
+! align=center data-sort-type="number" | %
+! align=center data-sort-type="number" | Votes
+! align=center data-sort-type="number" | %
+! align=center data-sort-type="number" | Votes
+! align=center data-sort-type="number" | %
+! style="text-align:center; data-sort-type="number" | Votes
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Buenos Aires Province|Buenos Aires]]
+| '''3,563,089'''
+| '''37.28'''
+| 3,134,779
+| 32.80
+| 2,143,827
+| 22.43
+| 351,786
+| 3.68
+| 272,801
+| 2.85
+| 90,448
+| 0.95
+| 428,310
+| 4.48
+| 9,556,730
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[Buenos Aires|Capital Federal]]
+| 476,632
+| 24.09
+| '''1,001,379'''
+| '''50.61'''
+| 302,065
+| 15.27
+| 84,238
+| 4.26
+| 100,462
+| 5.08
+| 13,856
+| 0.70
+| -524,747
+| -26.52
+| 1,978,632
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Catamarca Province|Catamarca]]
+| '''98,831'''
+| '''44.84'''
+| 78,958
+| 35.82
+| 35,046
+| 15.90
+| 3,447
+| 1.56
+| 2,419
+| 1.10
+| 1,718
+| 0.78
+| 19,873
+| 9.02
+| 220,419 
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Chaco Province|Chaco]]
+| '''352,304'''
+| '''53.69'''
+| 185,563
+| 28.28
+| 97,469
+| 14.85
+| 9,315
+| 1.42
+| 6,990
+| 1.07
+| 4,509
+| 0.69
+| 166,741
+| 25.41
+| 656,150
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Chubut Province|Chubut]]
+| '''121,314'''
+| '''41.67'''
+| 62,142
+| 21.34
+| 86,026
+| 29.55
+| 10,439
+| 3.59
+| 8,466
+| 2.91
+| 2,749
+| 0.94
+| 35,288
+| 12.12
+| 291,136
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[Córdoba Province, Argentina|Córdoba]]
+| 418,221
+| 19.26
+| '''1,155,333'''
+| '''53.22'''
+| 443,204
+| 20.41
+| 69,051
+| 3.18
+| 38,998
+| 1.80
+| 46,235
+| 2.13
+| -712,129
+| -32.81
+| 2,171,042
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Corrientes Province|Corrientes]]
+| '''313,292'''
+| '''50.26'''
+| 198,241
+| 31.81
+| 95,106
+| 15.26
+| 6,824
+| 1.09
+| 6,487
+| 1.04
+| 3,342
+| 0.54
+| 115,051
+| 18.45
+| 623,292
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[Entre Ríos Province|Entre Ríos]]
+| 313,022
+| 37.64
+| '''314,057'''
+| '''37.76'''
+| 164,799
+| 19.81
+| 14,420
+| 1.73
+| 17,501
+| 2.10
+| 7,925
+| 0.95
+| -1,035
+| -0.12
+| 831,724
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Formosa Province|Formosa]]
+| '''217,026'''
+| '''66.98'''
+| 48,742
+| 15.04
+| 53,817
+| 16.61
+| 2,615
+| 0.81
+| 1,116
+| 0.34
+| 696
+| 0.21
+| 163,209
+| 50.94
+| 324,012
+|-{{Party shading/Know-Nothing}}
+| style="text-align:center;" | [[Jujuy Province|Jujuy]]
+| 152,345
+| 37.58
+| 69,882
+| 17.24
+| '''168,571'''
+| '''41.59'''
+| 9,564
+| 2.36
+| 3,144
+| 0.78
+| 1,846
+| 0.46
+| -16,226
+| -4.01
+| 405,352
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[La Pampa Province|La Pampa]]
+| '''79,963'''
+| '''37.94'''
+| 70,783
+| 33.59
+| 45,465
+| 21.57
+| 5,332
+| 2.53
+| 5,509
+| 2.61
+| 3,704
+| 1.76
+| 9,180
+| 4.35
+| 210,756
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[La Rioja Province, Argentina|La Rioja]]
+| '''73,527'''
+| '''36.32'''
+| 64,106
+| 31.67
+| 52,492
+| 25.93
+| 3,403
+| 1.68
+| 2,199
+| 1.09
+| 6,706
+| 3.31
+| 9,421
+| 4.65
+| 202,433
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[Mendoza Province|Mendoza]]
+| 341,163
+| 31.36
+| '''443,913'''
+| '''40.81'''
+| 156,503
+| 14.39
+| 82,734
+| 7.61
+| 15,698
+| 1.44
+| 47,874
+| 4.40
+| -102,750
+| -9.45
+| 1,087,885
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Misiones Province|Misiones]]
+| '''403,671'''
+| '''61.11'''
+| 149,940
+| 22.70
+| 90,464
+| 13.70
+| 5,809
+| 0.88
+| 8,244
+| 1.25
+| 2,392
+| 0.36
+| 253,731
+| 48.41
+| 660,520
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Neuquén Province|Neuquén]]
+| '''132,691'''
+| '''35.74'''
+| 103,860
+| 27.97
+| 98,061
+| 26.41
+| 20,055
+| 5.40
+| 9,883
+| 2.66
+| 6,745
+| 1.82
+| 28,831
+| 7.77
+| 371,295
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Río Negro Province|Río Negro]]
+| '''179,872'''
+| '''45.20'''
+| 89,103
+| 22.39
+| 96,769
+| 24.32
+| 15,506
+| 3.90
+| 11,119
+| 2.79
+| 5,604
+| 1.41
+| 83,103
+| 20.88
+| 397,973
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Salta Province|Salta]]
+| '''292,699'''
+| '''40.98'''
+| 146,875
+| 20.56
+| 242,704
+| 33.98
+| 19,036
+| 2.66
+| 7,506
+| 1.05
+| 5,498
+| 0.77
+| 49,995
+| 7.00
+| 714,318
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[San Juan Province, Argentina|San Juan]]
+| '''192,377'''
+| '''45.96'''
+| 86,920
+| 20.76
+| 111,444
+| 26.62
+| 6,127
+| 1.46
+| 7,264
+| 1.74
+| 14,470
+| 3.46
+| 80,933
+| 19.34
+| 418,602
+|-{{Party shading/Law and Order}}
+| style="text-align:center;" | [[San Luis Province|San Luis]]
+| 43,442
+| 15.58
+| 86,225
+| 30.93
+| 37,810
+| 13.56
+| 4,947
+| 1.77
+| 3,702
+| 1.33
+| '''102,684'''
+| '''36.83'''
+| -16,459
+| -5.90
+| 278,810
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Santa Cruz Province, Argentina|Santa Cruz]]
+| '''82,595'''
+| '''47.06'''
+| 44,880
+| 25.57
+| 39,626
+| 22.58
+| 5,533
+| 3.15
+| 2,064
+| 1.18
+| 794
+| 0.45
+| 37,715
+| 21.49
+| 175,492
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[Santa Fe Province, Argentina|Santa Fe]]
+| 640,924
+| 31.77
+| '''712,100'''
+| '''35.29'''
+| 500,897
+| 24.83
+| 53,801
+| 2.67
+| 79,721
+| 3.95
+| 30,168
+| 1.50
+| 71,176
+| -3.52
+| 2,017,611
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Santiago del Estero Province|Santiago del Estero]]
+| '''351,388'''
+| '''63.13'''
+| 81,825
+| 14.70
+| 107,427
+| 19.30
+| 8,099
+| 1.46
+| 5,268
+| 0.95
+| 2,595
+| 0.47
+| 243,961
+| 43.83
+| 556,602
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+| '''42,049'''
+| '''45.52'''
+| 20,226
+| 21.90
+| 21,601
+| 23.39
+| 4,055
+| 4.39
+| 2,978
+| 3.22
+| 1,458
+| 1.58
+| 20,448
+| 22.13
+| 92,367
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Tucumán Province|Tucumán]]
+| '''456,053'''
+| '''48.46'''
+| 251,299
+| 26.70
+| 195,784
+| 20.80
+| 16,394
+| 1.74
+| 13,012
+| 1.38
+| 8,562
+| 0.91
+| 204,754
+| 21.76
+| 941,104
+|-
+! Totals
+! 9,338,490
+! 37.08
+! 8,601,131
+! 34.15
+! 5,386,977
+! 21.39
+! 812,530
+! 3.23
+! 632.551
+! 2.51
+! 412,578
+! 1.64
+! 737,359
+! 2.93
+! 25,184,257
+|}
+
+====Results by province, second round====
+
+{|class="wikitable"
+|-{{Party shading/Democratic}}
+|Provinces won by [[Daniel Scioli]]
+|-{{Party shading/Opposition}}
+|Provinces won by [[Mauricio Macri]]
+|}
+{| class="wikitable sortable" style="text-align:right"
+|-
+! colspan=1 |
+! align=center colspan=2 | Mauricio Macri<br />PRO
+! align=center colspan=2 | Daniel Scioli<br />FPV
+! align=center colspan=2 | Margin
+! align=center colspan=1 | Province total
+|-
+! align=center | Province
+! align=center data-sort-type="number" | Votes
+! align=center data-sort-type="number" | %
+! align=center data-sort-type="number" | Votes
+! align=center data-sort-type="number" | %
+! align=center data-sort-type="number" | Votes
+! align=center data-sort-type="number" | %
+! style="text-align:center; data-sort-type="number" | Votes
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Buenos Aires Province|Buenos Aires]]
+| 4,662,935
+| 48.85
+| '''4,882,082'''
+| '''51.15'''
+| -219,147
+| -2.30
+| 9,545,017
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[Buenos Aires|Capital Federal]]
+| '''1,258,151'''
+| '''64.80'''
+| 683,545
+| 35.20
+| 574,606
+| 29.60
+| 1,941,696
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Catamarca Province|Catamarca]]
+| 102,440
+| 46.86
+| '''116,158'''
+| '''53.14'''
+| -13,718
+| -6.28 
+| 218,598
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Chaco Province|Chaco]]
+| 278,001
+| 40.81
+| '''403,280'''
+| '''59.19'''
+| -125,279
+| -18.38
+| 681,281
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Chubut Province|Chubut]]
+| 130,163
+| 41.15
+| '''186,155'''
+| '''58.85'''
+| -55,992
+| -17.70
+| 316,318
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[Córdoba Province, Argentina|Córdoba]]
+| '''1,546,831'''
+| '''71.52'''
+| 616,002
+| 28.48
+| 930,829
+| 43.04
+| 2,162,833
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Corrientes Province|Corrientes]]
+| 286,345
+| 44.64
+| '''355,119'''
+| '''55.36'''
+| -68,774
+| -10.72
+| 641,464
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[Entre Ríos Province|Entre Ríos]]
+| '''453,149'''
+| '''53.86'''
+| 388,219
+| 46.14 
+| 64,930
+| 7.72
+| 841,368
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Formosa Province|Formosa]]
+| 116,725
+| 36.08
+| '''206,762'''
+| '''63.92'''
+| -90,037
+| -27.84
+| 323,487
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[Jujuy Province|Jujuy]]
+| '''214,429'''
+| '''52.89'''
+| 190,959
+| 47.11
+| 23,470
+| 5.78
+| 405,388
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[La Pampa Province|La Pampa]]
+| '''108,543'''
+| '''51.03'''
+| 104,169
+| 48.97
+| 4,374
+| 2.06
+| 212,712
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[La Rioja Province, Argentina|La Rioja]]
+| '''114,963'''
+| '''56.50'''
+| 88,502
+| 43.50
+| 16,461
+| 13.00
+| 203,465
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[Mendoza Province|Mendoza]]
+| '''625,983'''
+| '''57.53'''
+| 462,186
+| 42.47 
+| 163,797
+| 15.06
+| 1,088,169
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Misiones Province|Misiones]]
+| 280,762
+| 41.93
+| '''388,910'''
+| '''58.07'''
+| -108,148
+| -16.14
+| 669,672
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Neuquén Province|Neuquén]]
+| 177,935
+| 47.15
+| '''199,425'''
+| '''52.85'''
+| -21,490
+| -5.70
+| 377,360
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Río Negro Province|Río Negro]]
+| 148,087
+| 37.14
+| '''250,621'''
+| '''62.86'''
+| -102,534
+| -25.72
+| 398,708
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Salta Province|Salta]]
+| 323,818
+| 44.77
+| '''399,518'''
+| '''55.23'''
+| -75,700
+| -10.46
+| 723,336
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[San Juan Province, Argentina|San Juan]]
+| 175,377
+| 40.20
+| '''260,937'''
+| '''59.80'''
+| -85,560
+| -19.60
+| 463,314
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[San Luis Province|San Luis]]
+| '''178,156'''
+| '''64.13'''
+| 99,667
+| 35.87
+| 78,489
+| 28.26
+| 277,823
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Santa Cruz Province, Argentina|Santa Cruz]]
+| 72,876
+| 41.67
+| '''102,003'''
+| '''58.33'''
+| -29,127
+| -16.66
+| 174,879
+|-{{Party shading/Opposition}}
+| style="text-align:center;" | [[Santa Fe Province, Argentina|Santa Fe]]
+| '''1,141,121'''
+| '''55.72'''
+| 906,826
+| 44.28
+| 234,295
+| 11.44
+| 2,047,947
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Santiago del Estero Province|Santiago del Estero]]
+| 154,955
+| 27.91
+| '''400,331'''
+| '''72.09'''
+| -245,376
+| -44.18
+| 555,286
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+| 38,407
+| 41.34
+| '''54,503'''
+| '''58.66'''
+| -16,096
+| -17.32
+| 92,910 
+|-{{Party shading/Democratic}}
+| style="text-align:center;" | [[Tucumán Province|Tucumán]]
+| 398,197
+| 41.40
+| '''563,696'''
+| '''58.60'''
+| -165,499
+| -17.20
+| 961,893
+|-
+! Totals
+! 12,988,349
+! 51.34
+! 12,309,575
+! 48.66
+! 678,774
+! 2.68
+! 25,297,924
+|}
+
+=== Chamber of Deputies ===
+{{Election results|seattype1=Won|seattype2=Total
+|alliance1=[[Front for Victory]]|votes1=8765438|st1t1=60|st2t1= 
+|alliance2=[[Juntos por el Cambio|Cambiemos]]|aspan2=8|party2=[[Juntos por el Cambio|Cambiemos]]|votes2=7689257|st1t2=42|st2t2= 
+|party3={{ill|Encuentro por Corrientes|es}}|votes3=183856|st1t3=1|st2t3= 
+|party4={{ill|Formosan Broad Front|es|Frente Amplio Formoseño}}|votes4=82095|st1t4=1|st2t4= 
+|party5=[[Civic and Social Front of Catamarca]]|votes5=77507|st1t5=1|st2t5= 
+|party6=[[Union to Live Better]]|votes6=75019|st1t6=1|st2t6= 
+|party7=[[La Pampa Civic and Social Front]]|votes7=69666|st1t7=1|st2t7= 
+|party8=[[Radical Civic Union]]|votes8=53205|st1t8=0|st2t8= 
+|atotal9=8230605|ast1t9=47|ast2t9= 
+|alliance10=[[United for a New Alternative]]|aspan10=10|party10=[[United for a New Alternative]]|votes10=3167902|st1t10=14|st2t10= 
+|party11=[[Union for Córdoba]]|votes11=449656|st1t11=2|st2t11= 
+|party12=[[Renewal Front]]|votes12=149596|st1t12=0|st2t12= 
+|party13=[[Commitment with San Juan]]|votes13=105267|st1t13=1|st2t13= 
+|party14=Citizen Participation Movement|votes14=99280|st1t14=0|st2t14= 
+|party15=[[Federal Popular Union|Popular Union]]|votes15=61146|st1t15=0|st2t15= 
+|party16=United Front|votes16=44065|st1t16=0|st2t16= 
+|party17=New People|votes17=20965|st1t17=0|st2t17= 
+|party18=[[Third Position Party|Third Position Front]]|votes18=17949|st1t18=0|st2t18= 
+|atotal19=4115826|ast1t19=17|ast2t19= 
+|alliance20=[[Workers' Left Front]]|aspan20=3|party20=[[Workers' Left Front]]|votes20=904229|st1t20=1|st2t20= 
+|party21=[[Workers' Party (Argentina)|Workers' Party]]|votes21=78724|st1t21=0|st2t21= 
+|atotal22=982953|ast1t22=1|ast2t22= 
+|alliance23=[[Progresistas]]|aspan23=6|party23=[[Progresistas]]|votes23=568056|st1t23=1|st2t23= 
+|party24=[[Progressive, Civic and Social Front]]|votes24=208242|st1t24=1|st2t24= 
+|party25=[[Socialist Party (Argentina)|Socialist Party]]|votes25=14922|st1t25=0|st2t25= 
+|party26=Social Pole Movement|votes26=8303|st1t26=0|st2t26= 
+|party27=[[Generation for a National Encounter]]|votes27=4087|st1t27=0|st2t27= 
+|atotal28=803610|ast1t28=2|ast2t28= 
+|alliance29=[[Federal Commitment]]|aspan29=3|party29=[[Federal Commitment]]|votes29=174795|st1t29=2|st2t29= 
+|party30={{ill|Partido Es Posible|es}}|votes30=100252|st1t30=0|st2t30= 
+|atotal31=275047|ast1t31=2|ast2t31= 
+|alliance32=[[We Are All Chubut]]|votes32=85730|st1t32=1|st2t32= 
+|alliance33=[[Self-determination and Freedom]]|votes33=68248|st1t33=0|st2t33= 
+|alliance34=[[Neuquén People's Movement]]|votes34=56315|st1t34=0|st2t34= 
+|alliance35=Popular Project|votes35=30734|st1t35=0|st2t35= 
+|alliance36=[[Renewal Crusade]]|votes36=7442|st1t36=0|st2t36= 
+|alliance37=[[Fuegian People's Movement]]|votes37=5608|st1t37=0|st2t37= 
+|alliance38=[[Communist Party of Argentina|Communist Party]]|votes38=4622|st1t38=0|st2t38= 
+|alliance39=[[Party of Culture, Education and Labour]]|votes39=3681|st1t39=0|st2t39= 
+|alliance40=Citizens to Govern Party|votes40=2864|st1t40=0|st2t40= 
+|alliance41=[[Patagonian Social Party]]|votes41=2832|st1t41=0|st2t41= 
+|alliance42=New October|votes42=1107|st1t42=0|st2t42= 
+|blank=2418716
+|invalid=185268
+|electorate=32130853
+|source=DINE,<ref>{{cite web|url=http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DN_DEFINITIVO%20x%20Distrito_GRALES_%202015.pdf|title=Elecciones para diputados nacionales por distrito 2015 |website=Dirección Nacional Electoral |archive-url=https://web.archive.org/web/20160307164348/http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/DN_DEFINITIVO%20x%20Distrito_GRALES_%202015.pdf|archive-date=7 March 2016}}</ref> Padron<ref name="padron"/>
+}}
+
+==== Results by province ====
+
+{| class="wikitable sortable plainrowheaders" style="text-align:right;"
+! rowspan=2|Province
+! colspan=3|FPV
+! colspan=3|Let's Change
+! colspan=3|UNA
+! colspan=3|Others
+|-
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+|-
+! scope=row|[[Buenos Aires Province|Buenos Aires]]
+| bgcolor=lightblue|'''3,354,619'''
+| bgcolor=lightblue|'''37.28'''
+| bgcolor=lightblue align=center|'''14'''
+| 3,037,552
+| 33.75
+| align=center|12
+| 1,888,415
+| 20.98
+| align=center|8
+| 718,984
+| 7.99
+| align=center|1
+|-
+! scope=row|[[Buenos Aires City]]
+| 437,380
+| 22.37
+| align=center|3
+| bgcolor=khaki|'''895,391'''
+| bgcolor=khaki|'''45.80'''
+| bgcolor=khaki align=center|'''6'''
+| 280,213
+| 14.33
+| align=center|2
+| 342,012
+| 17.49
+| align=center|1
+|-
+! scope=row|[[Catamarca Province|Catamarca]]
+| bgcolor=lightblue|'''97,349'''
+| bgcolor=lightblue|'''50.49'''
+| bgcolor=lightblue align=center|'''1'''
+| 77,507
+| 40.20
+| align=center|1
+| 17,949
+| 9.31
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[Chaco Province|Chaco]]
+| bgcolor=lightblue|'''343,023'''
+| bgcolor=lightblue|'''53.75'''
+| bgcolor=lightblue align=center|'''2'''
+| 179,386
+| 28.11
+| align=center|1
+| 92,247
+| 14.46
+| align=center|—
+| 23,487
+| 3.68
+| align=center|—
+|-
+! scope=row|[[Chubut Province|Chubut]]
+| bgcolor=lightblue|'''103,460'''
+| bgcolor=lightblue|'''42.44'''
+| bgcolor=lightblue align=center|'''2'''
+| 46,281
+| 18.99
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 94,033
+| 38.57
+| align=center|1
+|-
+! scope=row|[[Córdoba Province, Argentina|Córdoba]]
+| 385,387
+| 18.10
+| align=center|2
+| bgcolor=khaki|'''1,061,135'''
+| bgcolor=khaki|'''49.83'''
+| bgcolor=khaki align=center|'''5'''
+| 449,656
+| 21.12
+| align=center|2
+| 233,240
+| 10.95
+| align=center|—
+|-
+! scope=row|[[Corrientes Province|Corrientes]]
+| bgcolor=lightblue|'''292,296'''
+| bgcolor=lightblue|'''51.97'''
+| bgcolor=lightblue align=center|'''3'''
+| 183,856
+| 32.69
+| align=center|1
+| 86,282
+| 15.34
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[Entre Ríos Province|Entre Ríos]]
+| bgcolor=lightblue|'''308,742'''
+| bgcolor=lightblue|'''42.30'''
+| bgcolor=lightblue align=center|'''2'''
+| 300,024
+| 41.11
+| align=center|2
+| 121,085
+| 16.59
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[Formosa Province|Formosa]]
+| bgcolor=lightblue|'''219,585'''
+| bgcolor=lightblue|'''72.79'''
+| bgcolor=lightblue align=center|'''2'''
+| 82,095
+| 27.21
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[Jujuy Province|Jujuy]]
+| 128,738
+| 37.75
+| align=center|1
+| bgcolor=khaki|'''194,051'''
+| bgcolor=khaki|'''56.90'''
+| bgcolor=khaki align=center|'''2'''
+| align=center|—
+| align=center|—
+| align=center|—
+| 18,242
+| 5.35
+| align=center|—
+|-
+! scope=row|[[La Pampa Province|La Pampa]]
+| bgcolor=lightblue|'''81,040'''
+| bgcolor=lightblue|'''46.11'''
+| bgcolor=lightblue align=center|'''1'''
+| 69,666
+| 39.64
+| align=center|1
+| 20,965
+| 11.93
+| align=center|—
+| 4,087
+| 2.33
+| align=center|—
+|-
+! scope=row|[[La Rioja Province, Argentina|La Rioja]]
+| 73,487
+| 41.46
+| align=center|1
+| bgcolor=khaki|'''90,900'''
+| bgcolor=khaki|'''51.29'''
+| bgcolor=khaki align=center|'''2'''
+| align=center|—
+| align=center|—
+| align=center|—
+| 12,845
+| 7.25
+| align=center|—
+|-
+! scope=row|[[Mendoza Province|Mendoza]]
+| 315,587
+| 29.97
+| align=center|2
+| bgcolor=khaki|'''434,058'''
+| bgcolor=khaki|'''41.22'''
+| bgcolor=khaki align=center|'''3'''
+| 135,622
+| 12.88
+| align=center|—
+| 167,870
+| 15.94
+| align=center|—
+|-
+! scope=row|[[Misiones Province|Misiones]]
+| bgcolor=lightblue|'''391,913'''
+| bgcolor=lightblue|'''65.98'''
+| bgcolor=lightblue align=center|'''4'''
+| 126,136
+| 21.24
+| align=center|—
+| 44,065
+| 7.42
+| align=center|—
+| 31,841
+| 5.36
+| align=center|—
+|-
+! scope=row|[[Neuquén Province|Neuquén]]
+| bgcolor=lightblue|'''97,301'''
+| bgcolor=lightblue|'''28.67'''
+| bgcolor=lightblue align=center|'''1'''
+| 85,246
+| 25.11
+| align=center|1
+| 61,146
+| 18.01
+| align=center|—
+| 95,743
+| 28.21
+| align=center|—
+|-
+! scope=row|[[Río Negro Province|Río Negro]]
+| bgcolor=lightblue|'''161,690'''
+| bgcolor=lightblue|'''57.74'''
+| bgcolor=lightblue align=center|'''2'''
+| 85,076
+| 30.38
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+| 33,286
+| 11.89
+| align=center|—
+|-
+! scope=row|[[Salta Province|Salta]]
+| bgcolor=lightblue|'''273,989'''
+| bgcolor=lightblue|'''41.78'''
+| bgcolor=lightblue align=center|'''2'''
+| 154,755
+| 23.60
+| align=center|1
+| 184,185
+| 28.09
+| align=center|1
+| 42,868
+| 6.54
+| align=center|—
+|-
+! scope=row|[[San Juan Province, Argentina|San Juan]]
+| bgcolor=lightblue|'''214,238'''
+| bgcolor=lightblue|'''55.40'''
+| bgcolor=lightblue align=center|'''2'''
+| 59,789
+| 15.46
+| align=center|—
+| 105,267
+| 27.22
+| align=center|1
+| 7,442
+| 1.92
+| align=center|—
+|-
+! scope=row|[[San Luis Province|San Luis]]
+| 32,397
+| 13.65
+| align=center|—
+| 54,321
+| 22.89
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| bgcolor=Aquamarine|'''150,616'''
+| bgcolor=Aquamarine|'''63.46'''
+| bgcolor=Aquamarine align=center|'''2'''
+|-
+! scope=row|[[Santa Cruz Province, Argentina|Santa Cruz]]
+| 70,603
+| 46.30
+| align=center|1
+| bgcolor=khaki|'''75,019'''
+| bgcolor=khaki|'''49.19'''
+| bgcolor=khaki align=center|'''1'''
+| align=center|—
+| align=center|—
+| align=center|—
+| 6,879
+| 4.51
+| align=center|—
+|-
+! scope=row|[[Santa Fe Province|Santa Fe]]
+| bgcolor=lightblue|'''595,616'''
+| bgcolor=lightblue|'''31.46'''
+| bgcolor=lightblue align=center|'''4'''
+| 576,749
+| 30.47
+| align=center|3
+| 415,889
+| 21.97
+| align=center|2
+| 304,738
+| 16.10
+| align=center|1
+|-
+! scope=row|[[Santiago del Estero Province|Santiago del Estero]]
+| bgcolor=lightblue|'''341,207'''
+| bgcolor=lightblue|'''65.67'''
+| bgcolor=lightblue align=center|'''3'''
+| 78,758
+| 15.16
+| align=center|—
+| 99,586
+| 19.17
+| align=center|1
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[Tierra del Fuego Province, Argentina|Tierra del Fuego]]
+| bgcolor=lightblue|'''32,869'''
+| bgcolor=lightblue|'''42.01'''
+| bgcolor=lightblue align=center|'''2'''
+| 14,557
+| 18.61
+| align=center|1
+| 13,974
+| 17.86
+| align=center|—
+| 16,835
+| 21.52
+| align=center|—
+|-
+! scope=row|[[Tucumán Province|Tucumán]]
+| bgcolor=lightblue|'''412,922'''
+| bgcolor=lightblue|'''51.22'''
+| bgcolor=lightblue align=center|'''3'''
+| 268,297
+| 33.28
+| align=center|2
+| 99,280
+| 12.31
+| align=center|—
+| 25,745
+| 3.19
+| align=center|—
+|-
+! Total
+! 8,765,438
+! 37.39
+! 60
+! 8,230,605
+! 35.11
+! 47
+! 4,115,826
+! 17.56
+! 17
+! 2,330,793
+! 9.94
+! 6
+|}
+
+=== Senate ===
+{{Election results|seattype1=Won|seattype2=Total
+|alliance1=[[Juntos por el Cambio|Cambiemos]]|aspan1=5|party1=[[Juntos por el Cambio|Cambiemos]]|votes1=2436874|st1t1=6|st2t1=
+|party2={{ill|Encuentro por Corrientes|es}}|votes2=186462|st1t2=1|st2t2=
+|party3=[[Civic and Social Front of Catamarca]]|votes3=77091|st1t3=1|st2t3=
+|party4=[[La Pampa Civic and Social Front]]|votes4=69983|st1t4=1|st2t4=
+|atotal5=2770410|ast1t5=9|ast2t5=
+|alliance6=[[Front for Victory]]|votes6=2336037|st1t6=13|st2t6=
+|alliance7=[[United for a New Alternative]]|aspan7=7|party7=[[United for a New Alternative]]|votes7=480703|st1t7=0|st2t7=
+|party8=[[Union for Córdoba]]|votes8=449244|st1t8=1|st2t8=
+|party9=[[Renewal Front]]|votes9=134403|st1t9=0|st2t9=
+|party10=Citizen Participation Movement|votes10=99582|st1t10=0|st2t10=
+|party11=New People|votes11=21494|st1t11=0|st2t11=
+|party12=[[Third Position Party|Third Position Front]]|votes12=18283|st1t12=0|st2t12=
+|atotal13=1203709|ast1t13=1|ast2t13=
+|alliance14=[[Progresistas]]|aspan14=5|party14=[[Progressive, Civic and Social Front]]|votes14=249246|st1t14=0|st2t14=
+|party15=[[Progresistas]]|votes15=62764|st1t15=0|st2t15=
+|party16=Social Pole Movement|votes16=8351|st1t16=0|st2t16=
+|party17=[[Generation for a National Encounter]]|votes17=4275|st1t17=0|st2t17=
+|atotal18=324636|ast1t18=0|ast2t18=
+|alliance19=[[Workers' Left Front]]|votes19=302525|st1t19=0|st2t19=
+|alliance20=[[Federal Commitment]]|aspan20=3|party20={{ill|Partido Es Posible|es}}|votes20=91858|st1t20=0|st2t20=
+|party21=[[Federal Commitment]]|votes21=23904|st1t21=0|st2t21=
+|atotal22=115762|ast1t22=0|ast2t22=
+|alliance23=[[We Are All Chubut]]|votes23=85396|st1t23=1|st2t23=
+|blank=621928
+|invalid=75400
+|electorate=9815549
+|source=DINE,<ref>{{cite web|url=http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/SN_DEFINITIVO%20x%20Distrito_GRALES_%202015.pdf|title=Elecciones para senadores nacionales por distrito 2015 |website=Dirección Nacional Electoral |archive-url=https://web.archive.org/web/20160308071540/http://www.elecciones.gob.ar/admin/ckfinder/userfiles/files/SN_DEFINITIVO%20x%20Distrito_GRALES_%202015.pdf|archive-date=8 March 2016}}</ref> Padron<ref name="padron"/>
+}}
+
+==== Results by province ====
+{| class="wikitable sortable plainrowheaders" style="text-align:right;"
+! rowspan=2|Province
+! colspan=3|FPV
+! colspan=3|Let's Change
+! colspan=3|UNA
+! colspan=3|Others
+|-
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+! Votes
+! %
+! Seats
+|-
+! scope=row|[[Catamarca Province|Catamarca]]
+| bgcolor=lightblue|'''97,872'''
+| bgcolor=lightblue|'''50.65'''
+| bgcolor=lightblue align=center|'''2'''
+| 77,091
+| 39.89
+| align=center|1
+| 18,283
+| 9.46
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[Chubut Province|Chubut]]
+| bgcolor=lightblue|'''103,830'''
+| bgcolor=lightblue|'''42.51'''
+| bgcolor=lightblue align=center|'''2'''
+| 46,664
+| 19.11
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+| 93,747
+| 38.38
+| align=center|1
+|-
+! scope=row|[[Córdoba Province, Argentina|Córdoba]]
+| 388,712
+| 18.27
+| align=center|—
+| bgcolor=khaki|'''1,068,903'''
+| bgcolor=khaki|'''50.23'''
+| bgcolor=khaki align=center|'''2'''
+| 449,244
+| 21.11
+| align=center|1
+| 221,187
+| 10.39
+| align=center|—
+|-
+! scope=row|[[Corrientes Province|Corrientes]]
+| bgcolor=lightblue|'''302,495'''
+| bgcolor=lightblue|'''53.01'''
+| bgcolor=lightblue align=center|'''2'''
+| 186,462
+| 32.67
+| align=center|1
+| 81,723
+| 14.32
+| align=center|—
+| align=center|—
+| align=center|—
+| align=center|—
+|-
+! scope=row|[[La Pampa Province|La Pampa]]
+| bgcolor=lightblue|'''81,064'''
+| bgcolor=lightblue|'''45.85'''
+| bgcolor=lightblue align=center|'''2'''
+| 69,983
+| 39.58
+| align=center|1
+| 21,494
+| 12.16
+| align=center|—
+| 4,275
+| 2.42
+| align=center|—
+|-
+! scope=row|[[Mendoza Province|Mendoza]]
+| 322,569
+| 30.53
+| align=center|1
+| bgcolor=khaki|'''452,990'''
+| bgcolor=khaki|'''42.87'''
+| bgcolor=khaki align=center|'''2'''
+| 134,403
+| 12.72
+| align=center|—
+| 146,686
+| 13.88
+| align=center|—
+|-
+! scope=row|[[Santa Fe Province|Santa Fe]]
+| bgcolor=lightblue|'''616,146'''
+| bgcolor=lightblue|'''32.00'''
+| bgcolor=lightblue align=center|'''2'''
+| 570,060
+| 29.61
+| align=center|1
+| 398,980
+| 20.72
+| align=center|—
+| 339,982
+| 17.66
+| align=center|—
+|-
+! scope=row|[[Tucumán Province|Tucumán]]
+| bgcolor=lightblue|'''423,349'''
+| bgcolor=lightblue|'''50.18'''
+| bgcolor=lightblue align=center|'''2'''
+| 298,257
+| 35.35
+| align=center|1
+| 99,582
+| 11.80
+| align=center|—
+| 22,442
+| 2.66
+| align=center|—
+|-
+! Total
+! 2,336,037
+! 32.72
+! 13
+! 2,770,410
+! 38.81
+! 9
+! 1,203,709
+! 16.86
+! 1
+! 828,319
+! 11.60
+! 1
+|}
+
+=== Mercosur Parliament ===
+{{Election results
+|firstround=National|secondround=Provincial
+|party1=[[Front for Victory]]|votes1=8922609|seats1=8|votes1_2=8653633|seats1_2=18|totseats1=26|sc1=
+|party2=[[Juntos por el Cambio|Cambienos]]|votes2=8105307|seats2=7|votes2_2=8132741|seats2_2=5|totseats2=12|sc2=
+|party3=[[United for a New Alternative]]|votes3=4723218|seats3=4|votes3_2=4004348|seats3_2=0|totseats3=4|sc3=
+|party4=[[Workers' Left Front]]|votes4=930838|seats4=0|votes4_2=943972|seats4_2=0|totseats4=0|sc4=
+|party5=[[Progresistas]]|votes5=726699|seats5=0|votes5_2=738934|seats5_2=0|totseats5=0|sc5=
+|party6=[[Federal Commitment]]|votes6=409094|seats6=0|votes6_2=249134|seats6_2=1|totseats6=1|sc6=
+|party7=[[We Are All Chubut]]|votes7=|seats7=|votes7_2=85694|seats7_2=0|totseats7=0|sc7=
+|party8=[[Self-determination and Freedom]]|votes8=|seats8=|votes8_2=60073|seats8_2=0|totseats8=0|sc8=
+|party9=[[Neuquén People's Movement]]|votes9=|seats9=|votes9_2=53084|seats9_2=0|totseats9=0|sc9=
+|party10=[[Radical Civic Union]]|votes10=|seats10=|votes10_2=52287|seats10_2=0|totseats10=0|sc10=
+|party11=Popular Project|votes11=|seats11=|votes11_2=30902|seats11_2=0|totseats11=0|sc11=
+|party12=[[Fuegian People's Movement]]|votes12=|seats12=|votes12_2=4555|seats12_2=0|totseats12=0|sc12=
+|party13=[[Party of Culture, Education and Labour]]|votes13=|seats13=|votes13_2=4191|seats13_2=0|totseats13=0|sc13=
+|party14=[[Communist Party of Argentina|Communist Party]]|votes14=|seats14=|votes14_2=4051|seats14_2=0|totseats14=0|sc14=
+|party15=[[Patagonian Social Party]]|votes15=|seats15=|votes15_2=3319|seats15_2=0|totseats15=0|sc15=
+|party16=Citizens let's Govern Party|votes16=|seats16=|votes16_2=2764|seats16_2=0|totseats16=0|sc16=
+|party17=New October|votes17=|seats17=|votes17_2=1016|seats17_2=0|totseats17=0|sc17=
+|invalid=191145|invalid2=185502
+|blank=2039605|blank2=2836446
+|electorate=32130853|electorate2=32130853
+|source=Government of Argentina<ref>{{cite web|url=https://www.argentina.gob.ar/sites/default/files/p_m_n_definitivo_x_distrito_grales_20151.pdf |title= Elecciones Generales 2015 - Resultados Definitivos - Parlamentarios Nacionales |website=www.argentina.gob.ar }}</ref><ref>{{cite web|url=https://www.argentina.gob.ar/sites/default/files/p_m_r_definitivo_x_distrito_grales_20151.pdf |title= Elecciones Generales 2015 - Resultados Definitivos - Parlamentarios Regionales |website=www.argentina.gob.ar }}</ref>
+}}
+
+===Provincial governors===
+{{main|2015 Argentine provincial elections}}
+On 25 October elections numerous provinces also elected governors, with the new ones beginning their terms on 10 December 2015. These provinces were [[Buenos Aires province]], [[Catamarca province|Catamarca]], [[Chubut province|Chubut]], [[Entre Ríos province|Entre Ríos]], [[Formosa province|Formosa]], [[Jujuy province|Jujuy]], [[La Pampa Province|La Pampa]], [[Misiones province|Misiones]], [[San Juan Province, Argentina|San Juan]], [[San Luis province|San Luis]] and [[Santa Cruz Province, Argentina|Santa Cruz]], encompassing 11 of the country's 23 provinces. The other provinces elected governors in different days of 2015; the only exceptions were Corrientes and Santiago del Estero whose governors' terms were not due to finish in 2015.<ref name="gobernador">{{cite news|title=Elecciones 2015: los resultados de las provincias que eligieron gobernador|url=http://www.lanacion.com.ar/1839651-cuales-son-los-resultados-de-las-provincias-que-eligieron-gobernador|access-date=27 October 2015|date=26 October 2015}}</ref>
+
+[[María Eugenia Vidal]] was elected governor of the populous [[Buenos Aires Province]], defeating the controversial [[Aníbal Fernández]]; her victory influenced as well the growth of Macri in the presidential elections. Similarly, the unpopular Fernández may have subtracted non-Kirchnerite votes from Scioli.<ref name="gobernador"/> The victory was considered significant given that Fernández was the incumbent [[Chief of the Cabinet of Ministers|Cabinet Chief]] of the Kirchner administration, and that Vidal was directly replacing [[Daniel Scioli]]'s post as governor of the province.<ref name=Jastreblansky>{{cite news|last1=Jastreblansky|first1=Maia|title=El "no" a Aníbal, en números: corte de boleta y distritos que cambiaron de color|url=http://www.lanacion.com.ar/1839973-resultados-provincia-anibal-vidal|access-date=28 October 2015|work=La Nacion|date=26 October 2015}}</ref> It is made more significant as she is the first female governor of the province, and the first non-Peronist governor since 1987. The [[Republican Proposal]] also retained the city of [[Buenos Aires]], that elected [[Horacio Rodríguez Larreta]] as the new mayor.<ref name="gobernador"/> The PRO stronghold had gone to a second round between Larreta and [[Martín Lousteau]] (also of the [[Cambiemos]] front, but not in the same party) after the [[Front for Victory]]'s [[Mariano Recalde]] finished third.<ref>[http://www.lanacion.com.ar/1807919-elecciones-portenas-2015-amplio-triunfo-de-horacio-rodriguez-larreta-pero-habria-ballottage-con-martin-lousteau Elecciones porteñas 2015: amplio triunfo de Horacio Rodríguez Larreta, pero habrá ballottage con Martín Lousteau] - La Nacion, 5 July 2015</ref> [[Juan Schiaretti]] won the elections in [[Córdoba Province, Argentina|Córdoba]], and he is the single governor of the UNA ticket.<ref name="gobernador"/> The socialist [[Miguel Lifschitz]] was elected governor of [[Santa Fe province|Santa Fe]], after a controversial triple tie with the PJ and PRO. [[Carlos Verna]] was reelected governor of [[La Pampa Province|La Pampa]].<ref name="gobernador"/>
+
+The votes in [[Entre Ríos Province|Entre Ríos]] had a slow count. During a week, the provisional results suggested that [[Gustavo Bordet]] may be the new governor of Entre Ríos, but [[Alfredo de Angeli]] claimed that the uncounted votes may turn the tide and make him the winner instead.<ref>{{cite web |url= http://supercampo.perfil.com/2015/10/de-angeli-cerca-de-la-gobernacion-de-entre-rios/|title= De Ángeli, cerca de la gobernación de Entre Ríos|trans-title= De Ángeli near being governor of Río Negro|language= es|date= 27 October 2015|publisher= Perfil|access-date=27 October 2015}}</ref> The final results were released on 30 October, confirming the victory of Bordet. In [[Misiones province|Misiones]], [[Hugo Passalacqua]], vice governor of [[Maurice Closs]] was elected governor by a wide margin.<ref name="gobernador"/>
+
+[[Rosana Bertone]] was elected governor of [[Tierra del Fuego Province, Argentina|Tierra del Fuego]]. The radical [[Eduardo Costa (politician)|Eduardo Costa]] got the higher number of votes in [[Santa Cruz Province, Argentina|Santa Cruz]], but [[Alicia Kirchner]] was elected governor, thanks to the [[Ley de Lemas]]. The former governor of [[Chubut Province|Chubut]] [[Mario Das Neves]] was elected again. [[Neuquén province|Neuquén]] and [[Río Negro province|Río Negro]] elected [[Omar Gutiérrez]] and [[Alberto Weretilneck]], who ran for local parties.<ref name="gobernador"/>
+
+[[Mendoza province|Mendoza]] provided an early victory for the opposition, by the radical [[Alfredo Cornejo (politician)|Alfredo Cornejo]]. [[Alberto Rodríguez Saá]] was elected governor of [[San Luis province|San Luis]] once again. The Front for Victory retained the provinces of [[San Juan Province, Argentina|San Juan]] and [[La Rioja Province, Argentina|La Rioja]], with [[Sergio Uñac]] and [[Sergio Casas]].<ref name="gobernador"/>
+
+[[Lucía Corpacci]] was reelected in [[Catamarca province|Catamarca]] and [[Gildo Insfrán]] was reelected in [[Formosa province|Formosa]]. In [[Chaco Province|Chaco]], [[Domingo Peppo]] was elected governor. [[Juan Manuel Urtubey]] got an important victory in [[Salta province|Salta]] against Romero, and kept the province for the FPV. The radical [[Gerardo Morales (politician)|Gerardo Morales]] was elected governor of [[Jujuy province|Jujuy]], the first non-Peronist one since the return of democracy in 1983. He expects to have a tense relation with the populist [[Milagro Sala]]. [[Juan Luis Manzur]] was elected governor of [[Tucumán province|Tucumán]], but the denounces of electoral fraud became a national scandal. The elections were first declared null by  local judge, and then ratified by the local Supreme Court. The case is currently held by the national Supreme Court.<ref name="gobernador"/><ref>{{cite web |url= http://newsghana.com.gh/points-worth-noting-about-argentinas-presidential-election/|title=Points worth noting about Argentina's presidential election|language= en|author= News Ghana |date= 22 November 2015|publisher= News Ghana|access-date=22 November 2015}}</ref><ref>{{cite web |url= http://newsghana.com.gh/argentinas-daniel-scioli-losses-in-presidential-race/|title=Argentina's Daniel Scioli losses in presidential race|language= en|author= News Ghana |date= 22 November 2015|publisher= News Ghana|access-date=22 November 2015}}</ref>
+
+==International reaction==
+
+===Americas===
+*{{Flagu|Brazil}} – Despite the ruling [[Workers' Party (Brazil)|Workers' party]] having supported Scioli during the campaign, Brazilian president [[Dilma Rousseff]] congratulated Macri and invited him to a state visit "as soon as possible", while she is also set to attend Macri's inauguration as president. The pair have stated that improving bilateral relations between the two countries, as well as strengthening the [[Mercosur]] trade bloc.<ref name=Armendariz>{{cite news|last1=Armendariz|first1=Alberto|title=Dilma Rousseff felicitó a Macri y lo invitó a reunirse en Brasilia|url=http://www.lanacion.com.ar/1848145-dilma-rousseff-asistira-a-la-asuncion-de-mauricio-macri|access-date=23 November 2015|work=La Nacion|date=23 November 2015}}</ref>
+*{{Flagu|Chile}} – Chilean president [[Michelle Bachelet]] contacted Macri by phone and spoke about the importance for both countries which can maintain the spirit of cooperation, integration and development which characterizes their common history and the importance of further work for Latin America.<ref>{{cite news|title=Presidenta de Chile se comunico con Mauricio Macri|url=http://www.telam.com.ar/notas/201511/128101-mandatarios-felicitacion-macri-triunfo.html|access-date=23 November 2015|work=Telam|date=22 November 2015|archive-date=25 November 2015|archive-url=https://web.archive.org/web/20151125171815/http://www.telam.com.ar/notas/201511/128101-mandatarios-felicitacion-macri-triunfo.html|url-status=dead}}</ref>
+*{{Flagu|Colombia}} – Colombian president [[Juan Manuel Santos]] expressed "Congratulations to Mauricio Macri for his victory in presidential elections in Argentina. Successes in his management. It has our full support".<ref>{{cite news|title=Juan Manuel Santos felicitó a Mauricio Macri|url=http://www.infobae.com/2015/11/22/1771636-lideres-la-region-felicitan-mauricio-macri-los-resultados-la-eleccion-argentina|access-date=24 November 2015|work=Infobae|date=22 November 2015}}</ref>
+*{{Flagu|Ecuador}} – Ecuadorian president [[Rafael Correa]] congratulated Macri for his victory and wished him "the best of luck". While commenting on the presidencies of the Kirchners, he stated that "12 years ago Argentina was reborn like a phoenix, after [[neoliberalism]] had left it in ashes" whilst thanking the incumbent Cristina Fernández de Kirchner.<ref>{{cite news|title=Rafael Correa felicitó a Mauricio Macri por la victoria en el ballottage|url=http://www.lanacion.com.ar/1848159-rafael-correa-felicito-a-mauricio-macri-por-la-victoria-en-el-ballottage|access-date=23 November 2015|work=La Nacion|date=23 November 2015}}</ref>
+*{{Flagu|Mexico}} – Mexican president [[Enrique Peña Nieto]] stated that "Mexico will work with" Macri's government to strengthen "bilateral relations and the wellbeing of Latin America".<ref name=AlianzadelPacifico />
+*{{Flagu|Peru}} – Peruvian President [[Ollanta Humala]] contacted with Macri in order to congratulate him on his election victory and point out that the Peruvian Government has "strong will" to strengthen ties with his country, reported the Peruvian Foreign Ministry.<ref>{{cite news|title=Humala a Macri: Avancemos en la agenda bilateral entre el Perú y Argentina|url=http://www.americatv.com.pe/noticias/actualidad/ollanta-humala-pide-humberto-macri-avanzar-agenda-bilateral-entre-peru-y-argentina-n208082|access-date=23 November 2015|work=Americatv|date=23 November 2015}}</ref>
+*{{Flagu|United States}} – The [[United States Secretary of State]] [[John Kerry]] congratulated the country for its "successful elections", adding that he was "looking forward to working closely" with Macri and his government.<ref>{{cite news|title=John Kerry: "Espero trabajar en estrecha colaboración con Mauricio Macri"|url=http://www.lanacion.com.ar/1848193-john-kerry-espero-trabajar-en-estrecha-colaboracion-con-mauricio-macri|access-date=24 November 2015|work=La Nacion|date=23 November 2015}}</ref> Meanwhile, [[United States Ambassador to Argentina]] [[Noah Mamet]] wished Macri well.<ref name=AlianzadelPacifico>{{cite news|title=Macri anticipó su agenda internacional: Brasil y la Alianza del Pacífico|url=http://www.lanacion.com.ar/1848096-macri-anticipo-su-agenda-internacional-brasil-y-la-alianza-del-pacifico|access-date=24 November 2015|work=La Nacion|date=23 November 2015}}</ref> Members of the [[United States House of Representatives]] later asked [[Barack Obama]] in a letter to prioritise US-Argentine relations during 2016, stating that "The United States and Argentina should be natural partners. Both have highly educated populations, diversified economies and vast natural resources" and calling such a relationship a "win-win" for both countries. The letter also stressed the importance of reversing high levels of [[anti-americanism]] in the country and resolving the holdout problem with the [[vulture fund]]s, among other key issues.<ref>{{cite news|title=Tras el triunfo de Macri, legisladores de EE.UU. le piden a Barack Obama que "priorice las relaciones con la Argentina"|url=http://www.lanacion.com.ar/1848727-legisladores-de-eeuu-le-mandaron-una-carta-a-mauricio-macri-para-pedirle-que-priorice-las-relaciones-con-eeuu|access-date=26 November 2015|work=La Nacion|date=25 November 2015}}</ref> Obama later congratulated Macri personally, while an official [[White House]] statement confirmed that the President intends to strengthen ties.<ref>{{cite news|title=Barack Obama felicitó a Mauricio Macri y se comprometió a trabajar en el sector energético|url=http://www.lanacion.com.ar/1848852-barack-obama-felicito-a-mauricio-macri|access-date=26 November 2015|work=La Nacion|date=25 November 2015}}</ref>
+*{{Flagu|Uruguay}} – Uruguayan president [[Tabaré Vázquez]] greeted Mauricio Macri in a telephone interview for his victory in presidential runoff and asked him to convey the congratulations to the people of Argentina for the civic maturity demonstrated during the election.<ref>{{cite news|title=Vázquez felicitó a Macri|url=http://www.republica.com.uy/vazquez-felicito-a-macri/547790/|access-date=24 November 2015|work=Republica|date=24 November 2015}}</ref>
+*{{Flagu|Venezuela}} – On 23 November, [[Venezuela]]'s [[Democratic Unity Roundtable|opposition]] hailed Macri's presidential win in Argentina as a blow for leftists in Latin America and a good omen for their own duel with "Chavismo" in [[2015 Venezuelan parliamentary election|next month's parliamentary vote]]. "That was a big disappointment for Venezuela's ruling socialist "Chavismo" movement, which had a close political alliance with Fernández."<ref>{{cite web |url= https://www.reuters.com/article/us-argentina-election-venezuela-oppositi-idUSKBN0TC1AQ20151123#r4Ihez7viCostruJ.97|title= Venezuela opposition cheer Macri's Argentina presidential win|date= 23 November 2013|publisher= Reuters|access-date=23 November 2015}}</ref> [[Diosdado Cabello]] called Macri a "[[Fascist (insult)|fascist]]", and asked him to stay away of Venezuelan internal affairs, as Macri had proposed to remove Venezuela from the Mercosur because of the treatment to [[Leopoldo López]] and other political prisoners.<ref>{{cite web |url= http://www.lanacion.com.ar/1849024-diosdado-cabello-el-hombre-fuerte-de-venezuela-llamo-fascista-a-macri-y-le-advirtio-no-se-meta-con-nosotros|title= Diosdado Cabello, el hombre fuerte de Venezuela, llamó "fascista" a Macri y le advirtió: "No se meta con nosotros"|trans-title= Diosdado Cabello, the strongman of Venezuela, called Macri a "fascist" and warned: "Do not mess with us"|language= es|agency= Reuters|date= 26 November 2015|publisher= La Nación|access-date=23 November 2015}}</ref>
+
+===Asia===
+*{{Flagu|China}} – "China congratulates Mr. Macri on being elected as the new Argentinean president and wishes the Argentinean people new achievements in their national development," Chinese Foreign Ministry spokesman [[Hong Lei (politician)|Hong Lei]] said at a regular press briefing.<ref>{{cite news|title=China congratulates Macri on winning Argentinean presidential election|url=http://news.xinhuanet.com/english/2015-11/23/c_134846420.htm|archive-url=https://web.archive.org/web/20151124214934/http://news.xinhuanet.com/english/2015-11/23/c_134846420.htm|url-status=dead|archive-date=24 November 2015|access-date=23 November 2015|work=Xinhuanet|date=23 November 2015}}</ref>
+*{{Flagu|Israel}} – Prime Minister [[Benjamin Netanyahu]] says he hopes ties between two countries to strengthen, invites Mauricio Macri to visit [[Israel]].<ref>{{cite news|title=Netanyahu Congratulates Argentine President-elect Macri|url=https://www.haaretz.com/israel-news/1.688420|archive-url=https://web.archive.org/web/20151126022712/http://www.haaretz.com/israel-news/1.688420|url-status=dead|archive-date=26 November 2015|access-date=25 November 2015|work=[[Haaretz]]|date=25 November 2015}}</ref>
+
+===Europe===
+*{{Flagu|France}} – French President [[François Hollande]] sent a telegram to Macri and expressed "We will have the opportunity at that time to deepen our dialogue and our bilateral relationship that is one of the densest known to the Latin American continent". Hollande also confirmed a state visit to Argentina in February 2016.<ref>{{cite news|title=François Hollande felicitó a Macri por su triunfo y confirmó que vendrá al país en febrero|url=http://www.lanacion.com.ar/1849879-hollande-felicito-a-macri-por-su-triunfo-y-confirmo-que-vendra-al-pais-en-febrero|access-date=29 November 2015|work=La Nacion|date=29 November 2015}}</ref>
+*{{Flagu|Germany}} – German Chancellor [[Angela Merkel]] also congratulated Macri and requested that he make a state visit. She added that the two countries have "always been deeply tied", particularly in the area of science which she deemed "one of the pillars" of the two countries' relations. Merkel also remarked that she would be "thankful" if the countries could strengthen cooperation "in all areas".<ref>{{cite news|title=Angela Merkel felicitó a Mauricio Macri y lo invitó a Alemania|url=http://www.lanacion.com.ar/1848404-angela-merkel-invito-a-mauricio-macri-a-alemania|access-date=24 November 2015|work=La Nacion|date=24 November 2015}}</ref>
+*{{Flagu|Italy}} – Italian Prime Minister [[Matteo Renzi]] called Macri on the night of his victory and stated that he will meet soon with the new president to "open a new page of collaboration between the two countries". He also highlighted the [[Italian Argentine|historical and cultural ties]] between the two countries, stating that "it is the country with the largest presence of Italian citizens in the world", numbering some 900,000. The Cambiemos victory also provoked much reaction in the domestic Italian press.<ref name="Piqué">{{cite news|last1=Piqué|first1=Elisabetta|title=Matteo Renzi llamó a Macri para felicitarlo|url=http://www.lanacion.com.ar/1848123-italia-mauricio-macri-ballottage-presidente|access-date=23 November 2015|work=La Nacion|date=23 November 2015}}</ref>
+*{{Flagu|Russia}} – In a telegram to Macri, Russian President [[Vladimir Putin]] expressed his hopes that the two countries will continue to increase the "bilateral cooperation within diverse areas and the coordination of efforts to resolve current occurrences within the international agenda", adding that "the fundamental intesests of the people of Russia and Argentina contribute to guarantee the stability and security of Latin America and the world", while reminding Macri that the countries had recently celebrated 130 years of diplomatic relations. Putin also made reference to the ongoing nuclear power and hydrocarbon extraction projects between the countries.<ref>{{cite news|title=Putin le mandó un telegrama a Macri para saludarlo por el triunfo|url=http://www.lanacion.com.ar/1848144-putin-macri-presidente-ballottage|access-date=23 November 2015|work=La Nacion|date=23 November 2015}}</ref>
+*{{Flagu|Spain}} – Spanish Prime Minister [[Mariano Rajoy]], who has a close relationship with Macri, congratulated him and invited him to carry out a state visit "as soon as possible", stating that he is confident that the new government will "lead this new stage with success" while offering "the necessary support to consolidate the historical ties of friendship, fraternity and cooperation". The relationship between Spain and Argentina had become increasingly tense under the presidency of Cristina Kirchner, particularly after the [[Renationalization of YPF]] in 2012.<ref>{{cite news|last1=Rodríguez Yebra|first1=Martín|title=Mariano Rajoy felicitó a Mauricio Macri y lo invitó a España|url=http://www.lanacion.com.ar/1848091-mariano-rajoy-felicito-a-mauricio-macri-y-lo-invito-a-espana|access-date=23 November 2015|work=La Nacion|date=23 November 2015|ref=Yebra}}</ref>
+*{{Flagu|United Kingdom}} – UK Prime Minister [[David Cameron]] called Macri to congratulate him and offered his support for his presidency. A [[Downing Street]] spokesperson stated that "both leaders expect to meet in the near future", emphasising trade relations and investments, while also prioritising the establishment of a free trade agreement between [[MERCOSUR]] and the [[European Union]] "as soon as possible".<ref>{{cite news|title=Cameron llamó a Macri para felicitarlo y ofrecerle apoyo|url=http://www.lanacion.com.ar/1849119-cameron-llamo-a-macri-para-felicitarlo-y-ofrecerle-apoyo|access-date=26 November 2015|work=La Nacion|date=26 November 2015}}</ref>
+
+===Financial sector===
+The [[MERVAL]] index climbed 28% to record highs in the four weeks leading up to the run-off, largely attributed to a potential Cambiemos victory, though this dropped 3% on the day following the election.<ref>{{cite news|title=Buenos Aires shares cut early gains|url=http://www.buenosairesherald.com/article/203601/argentine-assets-jump-one-day-after-runoff|access-date=24 November 2015|work=Buenos Aires Herald|date=23 November 2015}}</ref> [[JPMorgan Chase|JPMorgan]] lowered Argentina's risk index by 16% on the day following the election, to levels not seen since 2011, while Argentine bonds increased across the board.<ref>{{cite news|title=Tras la victoria de Macri, el riesgo país cae a niveles del 2011|url=http://www.lanacion.com.ar/1848126-tras-la-victoria-de-macri-el-riesgo-pais-cae-a-niveles-del-2011|access-date=24 November 2015|work=La Nacion|date=23 November 2015}}</ref> Similarly, [[Moody's Investors Service|Moody's]] raised the country's outlook from "stable" to "positive" following the election.<ref>{{cite news|title=Argentina outlook lifted to positive at Moody's|url=http://www.ft.com/fastft/430571/moodys-raised-outlook-on-argentina|access-date=24 November 2015|work=Financial Times|date=24 November 2015}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[http://www.elecciones.gob.ar/movil/ Official site] {{in lang|es}}
+*[https://web.archive.org/web/20151030062744/http://www.resultados.gob.ar/inicio.htm Official results] {{in lang|es}}
+*[https://web.archive.org/web/20151120113601/http://www.padron.gob.ar/ Registro nacional de electores] {{in lang|es}}
+
+{{Argentine elections}}
+{{Mauricio Macri}}
+
+[[Category:2015 elections in Argentina|General]]
+[[Category:2015 elections in South America|Argentina]]
+[[Category:October 2015 in South America|Argentine general election]]
+[[Category:November 2015 in South America|Argentine general election]]
+[[Category:Legislative elections in Argentina]]
+[[Category:Presidential elections in Argentina]]
+[[Category:Presidency of Cristina Fernández de Kirchner]]
+[[Category:Presidency of Mauricio Macri]]
+[[Category:October 2015 elections]]
+[[Category:November 2015 elections]]

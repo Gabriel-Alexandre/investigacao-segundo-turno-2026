@@ -1,0 +1,426 @@
+{{Short description|General election held in Ecuador}}
+{{Use dmy dates|date=May 2022}}
+{{Infobox election
+| country = Ecuador
+| previous_election = 2002 Ecuadorian general election
+| previous_year = 2002
+| next_election = 2009 Ecuadorian general election
+| next_year = 2009
+
+| module = {{Infobox election
+| embed = yes
+| type = presidential
+| election_name = Presidential election
+| election_date = 15 October 2006 (first round)<br />{{nowrap|26 November 2006 (second round)}} 
+| registered = 9,165,125
+| turnout = 71.46% (first round)<br />75.93% (second round)
+
+| image1 = Rafael Correa (2008).jpeg
+| nominee1 = '''[[Rafael Correa]]'''
+| party1 = PAIS Alliance
+| running_mate1 = '''[[Lenín Moreno]]'''
+| popular_vote1 = '''3,517,635'''
+| percentage1 = '''56.67%'''
+
+| image2 = Álvaro Noboa.jpg
+| nominee2 = [[Álvaro Noboa]]
+| party2 = Institutional Renewal Party of National Action
+| running_mate2 = Vicente Taiano
+| popular_vote2 = 2,689,418
+| percentage2 = 43.33%
+
+| map_image = | map = {{Switcher|[[File:Votos Presidente por Provincia Ecuador primera vuelta 2006.svg|200px]]|First round results by province|[[File:Votos Presidente por Provincia Ecuador segunda vuelta 2006.svg|200px]]|Second round results by province|default=2}}
+
+| title = [[President of Ecuador|President]]
+| before_election = [[Alfredo Palacio]]
+| before_party = Independent politician 
+| after_election = [[Rafael Correa]]
+| after_party = PAIS Alliance
+}}}}{{Politics of Ecuador}}
+
+General elections were held in [[Ecuador]] on 15 October 2006 to elect a new [[President of Ecuador|President]] and [[National Congress of Ecuador|National Congress]].
+
+As no presidential candidate received a majority of the vote in the first round, a run-off was held on 26 November, which was won by [[Rafael Correa]] of the [[PAIS Alliance]].<ref>{{cite news|title =Ecuador's Correa wins vote, faces tough task|publisher =Reuters|date =2006-11-28|url =http://today.reuters.com/news/articlenews.aspx?type=winterOlympics&storyID=2006-11-28T225323Z_01_N19156110_RTRUKOC_0_US-ECUADOR-ELECTION.xml&WTmodLoc=NewsArt-C2-NextArticle-2|accessdate =2006-11-28}}{{dead link|date=July 2021|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+== Run-off ==
+On 28 November 2006, Correa was declared the winner, although Noboa did not accept defeat, and suggested that he might challenge the validity of the ballot.<ref>[http://today.reuters.com/news/articlenews.aspx?type=winterOlympics&storyID=2006-11-28T175548Z_01_N19156110_RTRUKOC_0_US-ECUADOR-ELECTION.xml Reuters]{{dead link|date=July 2021|bot=medic}}{{cbignore|bot=medic}} "Correa wins Ecuador's presidential vote: official"</ref>
+
+According to the [[Supreme Electoral Tribunal (Ecuador)|Supreme Electoral Tribunal]] (TSE), out of 97.29% of the votes counted, 57.07% were for Correa and 42.96% for Noboa. Among others, the [[Organization of American States]], [[United States|US]] ambassador Linda Jewell, and representatives of many South American countries have recognised Correa as the winner of the election. However, as of 29 November 2006, Álvaro Noboa had still not admitted defeat.<ref>[https://news.bbc.co.uk/hi/spanish/latin_america/newsid_6194000/6194034.stm bbc.co.uk] BBC News (in Spanish): Correa "nuevo presidente de Ecuador"</ref>
+
+Rafael Correa was duly sworn in as president for a four-year term on 15 January 2007.
+
+==Opinion polls==
+===First round===
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!Date
+!Pollster
+![[Alvaro Noboa|Noboa]]
+![[Rafael Correa|Correa]]
+!Gutierrez
+![[León Roldós|Roldós]]
+![[Cynthia Viteri|Viteri]]
+![[Luis Macas|Macas]]
+!Rosero
+!Proaño
+|-
+|20/02/06
+|Consultar
+|–
+|–
+|–
+|style="background:orange"|'''29%'''
+|–
+|–
+|–
+|–
+|-
+|20/02/06
+|S.P. Investigaciones
+|–
+|–
+|–
+|style="background:orange"|'''26%'''
+|–
+|–
+|–
+|–
+|-
+|20/02/06
+|CEDATOS
+|13%
+|–
+|–
+|style="background:orange"|'''21%'''
+|–
+|–
+|–
+|–
+|-
+|09/03/06
+|Perfiles de Opinión
+|16%
+|–
+|–
+|style="background:orange"|'''22%'''
+|9.5%
+|–
+|–
+|–
+|-
+|09/03/06
+|Datanálisis
+|15.3%
+|–
+|–
+|style="background:orange"|'''27.4%'''
+|9.5%
+|–
+|–
+|–
+|-
+|31/03/06
+|CEDATOS
+|8%
+|6%
+|–
+|style="background:orange"|'''22%'''
+|13%
+|–
+|–
+|5%
+|-
+|05/04/06
+|CEDATOS
+|17%
+|7%
+|–
+|style="background:orange"|'''22%'''
+|9%
+|–
+|–
+|–
+|-
+|05/05/06
+|CEDATOS
+|14%
+|9%
+|–
+|style="background:orange"|'''23%'''
+|14%
+|–
+|–
+|–
+|-
+|29/05/06
+|Informe Confidencial
+|16%
+|7%
+|–
+|style="background:orange"|'''22%'''
+|13%
+|–
+|–
+|–
+|-
+|28/08/06
+|Market
+|–
+|10.8%
+|–
+|style="background:orange"|'''24.6%'''
+|13%
+|–
+|–
+|–
+|-
+|06/09/06
+|Market
+|–
+|12%
+|–
+|style="background:orange"|'''23.6%'''
+|13%
+|–
+|–
+|–
+|-
+|06/09/06
+|CEDATOS
+|–
+|12%
+|–
+|style="background:orange"|'''26%'''
+|17%
+|
+|–
+|–
+|-
+|06/09/06
+|Informe Confidencial
+|–
+|14%
+|–
+|style="background:orange"|'''19%'''
+|15%
+|–
+|–
+|–
+|-
+|16/09/06
+|Informe Confidencial
+|9%
+|style="background:lime"|'''22%'''
+|4%
+|20%
+|9%
+|–
+|4%
+|2%
+|-
+|19/09/06
+|CEDATOS
+|10%
+|19%
+|3%
+|style="background:orange"|'''20%'''
+|13%
+|1%
+|2%
+|2%
+|-
+|24/09/06
+|CEDATOS
+|4%
+|style="background:lime"|'''33%'''
+|4%
+|22%
+|13%
+|1%
+|2%
+|1%
+|-
+|14/10/06
+|CEDATOS
+|25.2%
+|style="background:lime"|'''31.1%'''
+|–
+|19.1%
+|11.5%
+|–
+|–
+|–
+|-
+|14/10/06
+|Market
+|27%
+|style="background:lime"|'''28.4%'''
+|–
+|18.4
+|–
+|–
+|–
+|–
+|-
+|15/10/06
+|CEDATOS
+|style="background:yellow"|'''27.2%'''
+|25.4%
+|15%
+|13.6%
+|10.8%
+|–
+|–
+|–
+|-
+|15/10/06
+|Informe Confidencial
+|style="background:yellow"|'''28.53%'''
+|26.51%
+|14.95%
+|15.59%
+|9.23%
+|–
+|–
+|–
+|-
+|15/10/06
+|Market
+|style="background:yellow"|'''28.23%'''
+|27.2%
+|13%
+|14.42%
+|9.95%
+|–
+|–
+|–
+|-
+|}
+
+===Second round===
+{| class="wikitable" style="font-size:85%;text-align:center;"
+!Date
+!Pollster
+![[Rafael Correa|Correa]]
+![[Alvaro Noboa|Noboa]]
+|-
+|20/10/06
+|Consultar
+|28%
+|style="background:yellow"|'''50%'''
+|-
+|26/10/06
+|Informe Confidencial
+|42%
+|style="background:yellow"|'''58%'''
+|-
+|29/10/06
+|Informe Confidencial
+|32%
+|style="background:yellow"|'''47%'''
+|-
+|04/11/06
+|Market
+|30%
+|style="background:yellow"|'''49%'''
+|-
+|04/11/06
+|CEDATOS
+|34%
+|style="background:yellow"|'''49%'''
+|-
+|05/11/06
+|Consultar
+|34%
+|style="background:yellow"|'''49%'''
+|-
+|16/11/06
+|CEDATOS
+|48%
+|style="background:yellow"|'''52%'''
+|-
+|17/11/06
+|CEDATOS
+|38%
+|style="background:yellow"|'''41%'''
+|-
+|18/11/06
+|Market
+|style="background:lime"|'''41%'''
+|37%
+|-
+|24/11/06
+|CEDATOS
+|style="background:lime"|'''52%'''
+|48%
+|-
+|26/11/06
+|CEDATOS
+|style="background:lime"|'''56%'''
+|43%
+|-
+|26/11/06
+|Market
+|style="background:lime"|'''56.8%'''
+|43.2%
+|}
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Álvaro Noboa]]|vp1=[[Lenín Moreno]]|party1=[[Institutional Renewal Party of National Action]]|votes1=1464251|votes1_2=2689418
+|cand2=[[Rafael Correa]]|vp2=Vicente Taiano|party2=[[PAIS Alliance]]/[[Socialist Party – Broad Front of Ecuador|PS-FA]]|votes2=1246333|votes2_2=3517635
+|cand3=[[Gilmar Gutiérrez]]|vp3=Leonardo Escobar|party3=[[Patriotic Society Party|January 21 Patriotic Society Party]]|votes3=950895
+|cand4=[[León Roldós Aguilera]]|vp4=Ramiro González|party4=[[Democratic Left (Ecuador)|Democratic Left]]|votes4=809754
+|cand5=[[Cynthia Viteri]]|vp5=Ernesto Dávalos|party5=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes5=525728
+|cand6=[[Luis Macas]]|vp6=César Sacoto|party6=[[Pachakutik Plurinational Unity Movement – New Country]]|votes6=119577
+|cand7=Fernando Rosero|vp7=Susy Mendoza|party7=[[Ecuadorian Roldosist Party]]|votes7=113323
+|cand8=Marco Proaño Maya|vp8=Galo Cabanilla|party8=[[Movimiento de Reivindicación Democrática]]|votes8=77655
+|cand9=Luis Villacís|vp9=César Buelva|party9=[[Democratic People's Movement]]|votes9=72762
+|cand10=Jaime Damerval|vp10=Lida Moreno|party10=[[Concentration of People's Forces]]|votes10=25284
+|cand11=Marcelo Larrea Cabrera|vp11=Miguel Morán|party11=Third Republic Alliance|votes11=23233
+|cand12=Lenin Torres|vp12=María Pareja|party12=Revolutionary Movement of Popular Participation|votes12=15357
+|cand13=Carlos Sagnay de la Bastida|vp13=Jeannette Benavides|party13=[[Alfarista Radical Front|Alfarista National Integration]]|votes13=13455
+|invalid=1092070|invalid2=752179
+|electorate=9165125|electorate2=9165125
+|source=[https://app03.cne.gob.ec/EstadisticaCNE/Ambito/Resultados/Resultado_Electoral.aspx CNE] 
+}}
+
+===National Congress===
+{{Election results
+|image=[[File:Congresonacional2006.svg]]
+|party1=[[Institutional Renewal Party of National Action]]|votes1=868650|seats1=28
+|party2=[[Patriotic Society Party|January 21 Patriotic Society Party]]|votes2=579775|seats2=23
+|party3=[[Social Christian Party (Ecuador)|Social Christian Party]]|votes3=477804|seats3=13
+|party4=[[Democratic Left (Ecuador)|Democratic Left ]]–[[Ethics and Democracy Network]]|votes4=332497|seats4=13
+|party5=[[Ecuadorian Roldosist Party]]|votes5=239325|seats5=6
+|party6=[[Democratic People's Movement]]|votes6=126188|seats6=3
+|party7=[[Pachakutik Plurinational Unity Movement – New Country]]|votes7=118754|seats7=6
+|party8=[[Christian Democratic Union (Ecuador)|Christian Democratic Union ]]|votes8=81600|seats8=5
+|party9=[[New Country Civic Movement]]|votes9=19568|seats9=1
+|party11=[[Regional Action for Equality]]|votes11=11188|seats11=1
+|party12=Other parties|votes12=268882|seats12=0
+|row13=Overseas seat|seats13=1
+|invalid=2230675
+|electorate=9020773
+|source=[https://www.electionguide.org/elections/id/1459/ IFES], [http://psephos.adam-carr.net/countries/e/ecuador/ecuador20063.txt Psephos]
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20061207172941/http://www.tse.gov.ec/ResultadosParciales2006/ ''Tribunal Supremo Electoral'']
+*{{usurped|1=[https://web.archive.org/web/20061202102650/http://www.angus-reid.com/polls/index.cfm/fuseaction/searchSimpleResults/iw/1/keyword/correa%20and%20noboa Ecuadorian Election 2006]}} - Election news from Angus Reid Global Monitor
+*[http://www.ndtv.com/morenews/showmorestory.asp?slug=Correa+likely+to+win+Ecuador+elections&id=94352 ''Correa likely to win Ecuador elections'', NDTV.com]
+*[http://www.seattlepi.com/national/1102AP_Ecuador_Leftist_Candidate.html ''Ecuador candidate defends Chavez ties'', seattlepi.com]{{Dead link|date=May 2022 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[https://web.archive.org/web/20061007211051/http://www.greenleft.org.au/back/2006/685/685p19b.htm ''Washington frets over 'Bolivarian’ candidate'', Green Left Weekly]
+
+{{Ecuadorian elections}}
+
+[[Category:Presidential elections in Ecuador]]
+[[Category:Parliamentary elections in Ecuador]]
+[[Category:2006 elections in South America|Ecuador]]
+[[Category:2006 in Ecuador|General election]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:October 2006 in South America|Ecuador]]
+[[Category:October 2006 elections]]

@@ -1,0 +1,972 @@
+{{Short description|none}}
+{{Use dmy dates|date=January 2023}}
+{{Infobox election
+| election_name     = 2004 Indonesian presidential election
+| country           = Indonesia
+| type              = presidential
+| vote_type         = popular
+| ongoing           = no
+| previous_election = 1999 Indonesian presidential election
+| previous_year     = 1999
+| election_date     = {{ublist|class=nowrap|{{start date|2004|07|05|df=yes}} (first round)|{{start date|2004|09|20|df=yes}} (second round)}}
+| next_election     = 2009 Indonesian presidential election
+| next_year         = 2009
+| registered        = 155,048,803
+| turnout           = {{ublist|78.23 (first round)|75.24% (second round) {{decrease}} 2.99 pp}}
+| 1blank            = First round
+| 2blank            = [[Two-round system|Second round]]
+<!-- SBY -->
+| image1            = Susilo Bambang Yudhoyono, official presidential portrait (2004).jpg
+| candidate1        = '''[[Susilo Bambang Yudhoyono]]'''
+| party1            = Democratic Party (Indonesia)
+| alliance1         = {{ill|People's Coalition (Indonesia)|id|Koalisi Kerakyatan (2004)|lt=People's Coalition}}{{efn|Including Democratic, the [[Prosperous Justice Party]], the [[Reform Star Party]], the [[National Mandate Party]] and the [[National Awakening Party]]}}
+| running_mate1     = '''[[Jusuf Kalla]]'''
+| 1data1            = '''39,838,184'''<br>'''33.57%'''
+| 2data1            = '''69,266,350'''<br>'''60.62%'''
+<!-- Megawati -->
+| image2            = President Megawati Sukarnoputri - Indonesia.jpg
+| candidate2        = [[Megawati Sukarnoputri]]
+| party2            = Indonesian Democratic Party of Struggle
+| alliance2         = {{ill|National Coalition (Indonesia)|id|Koalisi Kebangsaan (2004)|lt=National Coalition}}{{efn|Including PDI-P, [[Golkar]], the [[United Development Party]] and the [[Prosperous Peace Party]]}}
+| running_mate2     = [[Hasyim Muzadi]]
+| 1data2            = '''31,569,104'''<br>'''26.61%'''
+| 2data2            = 44,990,704<br>39.38%
+<!-- map -->
+| map               = {{Switcher
+| [[File:2004 Indonesian presidential election results by province (first round).svg|300px]]
+| First round results by province
+| [[File:2004 Indonesian presidential first round election results map by city and regency.svg|300px]]
+| First round results by city and regency
+|[[File:2004 Indonesian presidential election results by province (second round).svg|300px]]
+| Second round results by province
+| [[File:2004 Indonesian presidential second round election results map by city and regency.svg|300px]]
+| Second round results by city and regency
+| default = 3}}
+<!-- bottom -->
+| title             = [[President of Indonesia|President]]
+| before_election   = [[Megawati Sukarnoputri]]
+| before_party      = Indonesian Democratic Party of Struggle
+| after_election    = [[Susilo Bambang Yudhoyono]]
+| after_party       = Democratic Party (Indonesia)
+}}
+{{Politics of Indonesia}}
+Presidential elections were held in Indonesia on 5 July and 20 September 2004. As no candidate won a majority in the first round, a runoff was held, in which [[Susilo Bambang Yudhoyono]] defeated [[Megawati Sukarnoputri]] and was elected [[President of Indonesia|president]]. They were the first [[Direct election|direct presidential elections]] in the [[history of Indonesia]]; prior to a 2002 amendment to the [[Constitution of Indonesia]], both the president and [[Vice President of Indonesia|vice president]] had been elected by the [[People's Consultative Assembly]] (MPR).
+
+Under the new amendment, a candidate pair is elected into office after receiving more than 50% of the vote nationally with at least 20% of the vote in more than half of the [[provinces of Indonesia]]. If no pair receives the number of votes required, the election will continue into the second round with the pairs receiving the highest and second-highest number of votes. Further regulations set by the [[General Elections Commission]] (KPU) state that each pair must be nominated by a [[political party]] or [[Coalition|coalition of parties]] which received at least 5% of the popular vote or 3% of the seats to the [[People's Representative Council]] (DPR) in the [[2004 Indonesian legislative election|April legislative election]].
+
+The incumbent, Megawati Sukarnoputri, rose to the presidency following the [[Impeachment of Abdurrahman Wahid|impeachment]] of her predecessor, [[Abdurrahman Wahid]], from office. Megawati's bid for a full term was challenged by four candidates, including incumbent vice president [[Hamzah Haz]]. In the first round, former [[Mutual Assistance Cabinet|cabinet]] member and retired general Susilo Bambang Yudhoyono received a [[Plurality (voting)|plurality]] of the valid ballots submitted, followed by Megawati. Yudhoyono eventually defeated Megawati with 60.62% of the valid ballots in the second round. He was [[First inauguration of Susilo Bambang Yudhoyono|inaugurated]] as the sixth president of Indonesia on 20 October 2004.
+
+==Background==
+{{See also|1999 Indonesian legislative election|Impeachment of Abdurrahman Wahid}}
+In the [[1999 Indonesian legislative election|1999 legislative election]], the [[Indonesian Democratic Party of Struggle]] (PDI-P) won the most number of seats in the [[People's Representative Council]] (DPR) and became the largest faction in the [[People's Consultative Assembly]] (MPR), the legislative body responsible for electing the [[president of Indonesia]]. The PDI-P was led by [[Megawati Sukarnoputri]], the daughter of [[Sukarno]], Indonesia's first president. Megawati's supporters had expected her to be elected president by the MPR, but she failed to reach out to parties other than the [[National Awakening Party]] (PKB). Her only opponent at the time was President [[B. J. Habibie]], who came into office in May 1998, but he withdrew his candidacy after his accountability speech was rejected by the MPR.
+
+The PKB, which was led by [[Abdurrahman Wahid]], the leader of Indonesia's largest Islamic organisation [[Nahdlatul Ulama]] (NU), had also pledged to support Megawati for president. However, it became clear that Megawati did not have enough votes to back her candidacy. Additionally, [[National Mandate Party]] (PAN) leader [[Amien Rais]] and his Central Axis ({{langx|id|Poros Tengah}}), a coalition of Islamic and reform parties, began pushing for Wahid's candidacy.<ref>{{Cite book| last = Thompson | first = Eric C. | title = Indonesia in Transition: the 1999 Presidential Elections | url = http://www.nbr.org/publications/briefing/pdf/brief9.pdf| publisher = National Bureau of Asian Research | date = December 1999 | access-date = 20 June 2009 | archive-url = https://web.archive.org/web/20120925021128/http://www.nbr.org/publications/briefing/pdf/brief9.pdf | archive-date = 25 September 2012 | url-status = dead}}</ref> Wahid eventually won the MPR's presidential election, and Megawati was elected as [[Vice President of Indonesia|vice president]].<ref name="AAS 11">{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=11|Ref=none}}</ref> As president, he repealed many of the laws enacted during the [[New Order (Indonesia)|Suharto era]] that discriminated against [[Chinese Indonesian]]s. Among these was the banning on the use of [[Chinese character]]s and display of images relating to Chinese culture. Following this act, many political parties began to reach out to Chinese Indonesians for their votes by displaying Chinese characters on campaign material.<ref>{{Cite news | last = Setiono | first = Benny G. | title = Etnis Tionghoa dan Partai Politik | url = http://www.indonesiamedia.com/2003/02/berta-0203-tionghoaparpol.htm | work = Indonesia Media | date = February 2003 | language = id | access-date = 20 June 2009 | url-status = dead | archive-url = https://web.archive.org/web/20081212061754/http://www.indonesiamedia.com/2003/02/berta-0203-tionghoaparpol.htm | archive-date = 12 December 2008}}</ref>
+
+Following [[Impeachment of Abdurrahman Wahid|Wahid's impeachment and removal from office]] by the MPR in July 2001, the legislative body elevated Megawati to the presidency. She would complete the remainder of Abdurrahman's five-year term, ending in October 2004.<ref name="AAS 11"/> During its 2002 annual session, the MPR added a series of amendments to the [[Constitution of Indonesia]],<ref>{{Cite news | last = Langit | first = Richel | title = Indonesia's military: Business as usual | url = http://www.atimes.com/atimes/Southeast_Asia/DH16Ae06.html | archive-url = https://web.archive.org/web/20020819185214/http://atimes.com/atimes/Southeast_Asia/DH16Ae06.html | url-status = unfit | archive-date = 19 August 2002 | work = [[Asia Times]] | date = 16 August 2002 | access-date =20 June 2009}}</ref> including the removal of the [[Indonesian National Armed Forces|military]]'s 38 appointed seats in the Assembly, and an amendment for direct election of the president and vice president. This presidential election process would involve political parties nominating a presidential and vice-presidential ticket with the option of a runoff election.<ref>{{Cite news | last = Aglionby | first = John | title = Indonesia takes a giant step down the road to democracy | url = https://www.theguardian.com/world/2002/aug/11/indonesia.johnaglionby | work = [[The Observer]] | date = 11 August 2002 | access-date =10 June 2009}}</ref>
+
+==Candidates==
+[[File:Indonesia presidential polls 2004.png|thumb|400px|A series of tracking surveys conducted by the [[International Foundation for Electoral Systems]] between December 2003 and late June 2004 showed the popularity of each presidential candidate among voters throughout the selection and campaign periods.<ref>{{Cite book| title = Results from Wave XIV of Tracking Surveys | url = http://www.ifes.org/publication/45d5b9ab8e448881607d9cf731703fe8/2004_Tracking_Survey_Results_from_WaveXIV.pdf | publisher = [[International Foundation for Electoral Systems]]| page = 5 | date = 1 July 2004 | access-date = 28 June 2009 | archive-url = https://web.archive.org/web/20081129001443/http://www.ifes.org/publication/45d5b9ab8e448881607d9cf731703fe8/2004_Tracking_Survey_Results_from_WaveXIV.pdf | archive-date = 29 November 2008 | url-status = dead}}</ref>]]
+In December 2003, the [[International Foundation for Electoral Systems]] (IFES) began a tracking survey in order to assess the popularity of potential candidates. The survey continued until the start of the first election round on 5 July and included thirteen possible candidates for president. The first IFES survey indicated that incumbent President [[Megawati Sukarnoputri]] received a plurality of the votes. However, by the time of the [[2004 Indonesian legislative election|April 2004 legislative election]], retired General [[Susilo Bambang Yudhoyono]] had taken the lead from Megawati after resigning from her cabinet in March. Other potential candidates included DPR Speaker [[Akbar Tanjung]] and [[Yogyakarta Sultanate|Yogyakarta Sultan]] [[Hamengkubuwana X]].<ref name="AAS 67-69">{{Harvnb|Ananta|Arifin|Suryadinata|2005|pp=67–69|Ref=none}}</ref>
+
+The results of the legislative election determined which political parties were eligible to submit presidential tickets. Only parties which received at least 5% of the popular vote or 3% of seats (17 of 550 seats) in the DPR would be allowed to submit candidates. Parties that did not meet these criteria must join with other parties to meet at least one criterion.  Seven political parties met these criteria: [[Golkar]], the [[Indonesian Democratic Party of Struggle]] (PDI-P), the [[National Awakening Party]] (PKB), the [[United Development Party]] (PPP), the [[Democratic Party (Indonesia)|Democratic Party]] (PD), the [[Prosperous Justice Party]] (PKS), and the [[National Mandate Party]] (PAN). The PKS was the only party not to nominate candidates, but it later threw its support behind the PAN.<ref name="AAS 70">{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=70|Ref=none}}</ref>
+
+The KPU announced the final list of candidates on 14 May. Following the announcement, all candidates were required to undergo medical screening. On 22 May, the commission announced that the PKB's presidential candidate, former President [[Abdurrahman Wahid]], had failed the eye test and was not allowed to enter in the election.<ref name="AAS 70"/> He initially told supporters not to vote for a presidential candidate on election day but decided to retract that statement after pressure from the party.<ref>{{Cite news | title = Gus Dur Tuntut KPU Rp 1 Triliun | url = http://www.suaramerdeka.com/harian/0405/23/nas01.htm | work = [[Suara Merdeka]] | date = 23 May 2004 | language = id | access-date = 21 June 2009 | archive-url = https://web.archive.org/web/20110716162053/http://www.suaramerdeka.com/harian/0405/23/nas01.htm | archive-date = 16 July 2011 | url-status = dead}}</ref><ref>{{Cite news | title = Gus Dur Batal Ajak Golput | url = http://www.suaramerdeka.com/harian/0405/24/pem01.htm | work = [[Suara Merdeka]] | date = 24 May 2004 | language = id | access-date = 21 June 2009 | archive-url = https://web.archive.org/web/20070630101141/http://www.suaramerdeka.com/harian/0405/24/pem01.htm | archive-date = 30 June 2007 | url-status = dead}}</ref>
+
+===Wiranto and Salahuddin Wahid===
+[[File:2004 Indonesian presidential first round election results map by city and regency (1. Wiranto–Salahuddin vote share).svg|thumb|upright=2|Vote share of Wiranto and Salahuddin Wahid in the first round in each city and regency]]
+{{Main|Wiranto|Salahuddin Wahid}}
+{| class="wikitable" style="font-size:90%; text-align:center"
+|-
+| colspan=3 style="text-align:center;"|<big><big><big><big><big>'''1'''</big></big></big></big></big>
+|-
+| colspan=3 style="background:#f1f1f1;"|'''[[Golkar|2004 Golkar ticket]]'''
+|-
+! style="font-size:135%; background:#FFD83B;"|[[Wiranto|{{color|black|Wiranto}}]]
+! style="font-size:135%; background:#FFD83B;"|[[Salahuddin Wahid|{{color|black|Salahuddin Wahid}}]]
+| rowspan=2 style="background:#f1f1f1;"|'''Political party'''
+|- style="color:#000; font-size:100%;"
+| style="width:3em; width:200px; background:#FFEB99;"|'''''for President'''''
+| style="width:3em; width:200px; background:#FFEB99;"|'''''for Vice President'''''
+|-
+| [[File:KPN Wiranto.png|center|200x200px|border]]
+| [[File:Salahuddin wahid 2004 election.jpg|center|200x200px|border]]
+| rowspan=2|{{Legend|#FFD83B|[[Golkar]]}}{{Legend|#054C30|[[Democratic Nationhood Party|PDK]]}}{{Legend|#CC1F1D|[[Patriot Party (Indonesia)|Patriot]]}}
+|-
+| [[Coordinating Ministry for Political, Legal, and Security Affairs|Coordinating Minister for Political & Security Affairs]] (1999–2000)<br>[[Commander of the Indonesian National Armed Forces|Indonesian National Armed Forces Commander]] (1998–1999)
+| Member of [[People's Consultative Assembly]] (1998–1999)
+|-
+|}
+
+Golkar had won the April legislative election after losing to the PDI-P five years prior. The party nominated retired General Wiranto and Salahuddin Wahid, deputy chairman of the National Human Rights Commission, for its presidential ticket. The pair was assigned the number '''1''' for its ballot.<ref name="Ballot">{{Cite news | title = 5 Pasang Capres-Cawapres Peroleh Nomor Urut | url = http://www2.kompas.com/kompas-cetak/0405/24/utama/1040214.htm | archive-url = https://web.archive.org/web/20040618082422/http://www.kompas.com/kompas-cetak/0405/24/utama/1040214.htm | work = [[Kompas]] | date = 24 May 2004 | language = id | archive-date = 18 June 2004 | access-date =10 September 2009}}</ref>
+
+Wiranto was an [[adjutant]] to former President [[Suharto]] in 1989–1993. During this time, he rapidly rose to the rank of full general and eventually became the head of the [[Indonesian National Armed Forces|National Armed Forces]].<ref name="AAS 71">{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=71|Ref=none}}</ref> When riots broke out throughout the country in 1998 against Suharto, he refused to take control in order to avoid the deaths of protesting university students. In 1999, as [[East Timor]] held an independence referendum, Wiranto was accused of having taken part in inciting violence among East Timorese along with several other officers; however, he was never issued an arrest warrant by [[Interpol]].<ref name="CNN Wiranto">{{Cite news | last = Chew | first = Amy | title = Wiranto emerges as 2004 contender | url = http://edition.cnn.com/2003/WORLD/asiapcf/southeast/12/19/indonesia.wiranto/ | publisher = [[CNN]] | date = 22 December 2003 | access-date =21 June 2009}}</ref> Under President Abdurrahman Wahid, Wiranto served as the Coordinating Minister for Political and Security Affairs but was later dismissed. On 20 April 2004, the Golkar Convention voted to nominate him for president over DPR Speaker Akbar Tanjung in the second round of voting.<ref name="AAS 71"/>
+
+On 9 May Golkar selected Salahuddin Wahid (also known as Gus Sholah) as its vice-presidential candidate after an endorsement was made by his brother Abdurrahman.<ref>{{Cite news | title = Golkar picks Gus Solah as VP candidate | url = http://www.thejakartapost.com/news/2004/05/10/golkar-picks-gus-solah-vp-candidate.html | work = [[The Jakarta Post]] | date = 10 May 2004 | access-date = 28 June 2009 | url-status = dead | archive-url = https://web.archive.org/web/20110607121810/http://www.thejakartapost.com/news/2004/05/10/golkar-picks-gus-solah-vp-candidate.html | archive-date = 7 June 2011}}</ref> Because Salahuddin was also a deputy chairman of the Central Board of [[Nahdlatul Ulama]], many NU members criticised him for not adhering to the organisation's {{lang|id|khittah}}, which affirmed the NU's status as a non-political organisation.<ref name="Khittah">{{Cite book | last = Fealy | first = Greg | editor1-last = Reid | editor1-first = Anthony | editor1-link = Anthony Reid (academic) | editor2-last = Gilsenan | editor2-first = Michael | name-list-style = amp | title = Islamic Legitimacy in a Plural Asia | chapter = The political contingency of reform-mindedness in Indonesia's Nahdlatul Ulama: interest politics and the ''Khittah'' | publisher = Routledge | place = London | year = 2007 | page = 163 | isbn = 978-0-415-45173-4}}</ref> With this nomination, PKB leaders officially supported the Wiranto–Salahuddin pair for the election.<ref name="AAS 71"/>
+
+Salahuddin's position on the human rights commission helped the reputation of Wiranto. However, because both candidates were of [[Javanese people|Javanese]] background, they were not expected to attract as many voters who were not Javanese.<ref name="AAS 71"/>
+
+===Megawati Sukarnoputri and Hasyim Muzadi===
+[[File:2004 Indonesian presidential first round election results map by city and regency (2. Megawati–Hasyim vote share).svg|thumb|upright=2|Vote share of Megawati Sukarnoputri and Hasyim Muzadi in the first round in each city and regency]]
+{{Main|Megawati Sukarnoputri|Hasyim Muzadi}}
+{| class="wikitable" style="font-size:90%; text-align:center"
+|-
+| colspan=3 style="text-align:center;"|<big><big><big><big><big>'''2'''</big></big></big></big></big>
+|-
+| colspan=3 style="background:#f1f1f1;"|'''[[Indonesian Democratic Party of Struggle|2004 Indonesian Democratic Party of Struggle ticket]]'''
+|-
+! style="font-size:135%; background:#DB2016;"|[[Megawati Sukarnoputri|{{color|white|Megawati Sukarnoputri}}]]
+! style="font-size:135%; background:#DB2016;"|[[Hasyim Muzadi|{{color|white|Hasyim Muzadi}}]]
+| rowspan=2 style="background:#f1f1f1;"|'''Political party'''
+|- style="color:#000; font-size:100%;"
+| style="width:3em; width:200px; background:#F6A7A2;"|'''''for President'''''
+| style="width:3em; width:200px; background:#F6A7A2;"|'''''for Vice President'''''
+|-
+| [[File:President Megawati Sukarnoputri - Indonesia.jpg|center|200x200px|border]]
+| [[File:Hasyim Muzadi Cawapres.jpeg|center|200x200px|border]]
+| rowspan=2|{{Legend|#DB2016|[[Indonesian Democratic Party of Struggle|PDI-P]]}}{{Legend|#7B007D|[[Prosperous Peace Party|PDS]]}}
+|-
+| 5th [[President of Indonesia]] (2001–2004)
+| Chairman of the [[Nahdlatul Ulama]] (1999–2010)
+|-
+|}
+
+Incumbent President Megawati Sukarnoputri was the PDI-P's top nominee. She was joined by vice-presidential candidate [[Hasyim Muzadi]], general chairman of Indonesia's largest Islamic organisation [[Nahdlatul Ulama]] (NU). The pair was assigned the number '''2''' for its ballot.<ref name="Ballot"/>
+
+According to a report released by the [[National Democratic Institute for International Affairs]], Megawati has a "unique burden of being the only candidate in the race who is held responsible for the current situation most voters are unhappy with" although several other candidates have been members of her government.<ref name="NDI">{{Cite book| title = The People's Voice: Presidential Politics and Voter Perspectives in Indonesia | url = http://www.ndi.org/files/1729_id_focusgroups.pdf| date = June 2004 | publisher = [[National Democratic Institute for International Affairs]] | access-date = 28 June 2009 | url-status = dead | archive-url = https://web.archive.org/web/20081129125402/http://www.ndi.org/files/1729_id_focusgroups.pdf | archive-date = 29 November 2008}}</ref> However, the general discontent for her presidency was attributed mainly to the failure of the government to communicate Megawati's achievements rather than the state of the country itself.<ref name="AAS 91">{{Harvnb|Ananta|Arifin|Suryadinata|p=91|Ref=none}}</ref> The PDI–P came in second during the April legislative election with 18.5% of the votes, a reduction by almost half from the 33.7% it had received in 1999.<ref name="AAS 22">{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=22|Ref=none}}</ref>
+
+Hasyim Muzadi had been mentioned as a possible running mate for Megawati as early as November 2003.<ref>{{Cite news | last = Pereira | first = Derwin | title = Who will be Mega's running mate? | work = [[The Straits Times]] | date = 7 November 2003}}</ref> His candidacy was officially announced by Megawati on 6 May.<ref>{{Cite news | title = Megawati Memilih Hasyim Muzadi Sebagai Calon Wakil Presiden | url = http://www.voanews.com/indonesian/archive/2004-05/a-2004-05-06-10-1.cfm | archive-url = https://web.archive.org/web/20060827234910/http://www.voanews.com/indonesian/archive/2004-05/a-2004-05-06-10-1.cfm | url-status = dead | archive-date = 27 August 2006 | publisher = [[Voice of America]] | date = 6 May 2004 | language = id | access-date =28 June 2009}}</ref> As Chairman of the Central Board of Nahdlatul Ulama, he was criticised by many NU members for not adhering to the organisation's ''khittah'' and the principle of political neutrality.<ref name="Khittah"/> Muslim intellectual [[Nurcholish Madjid]] had called on him to step down from the position following the announcement of the candidacy.<ref>{{Cite news | last = Arvian | first = Yandhrie | title = Cak Nur: Hasyim Muzadi Khianati Khitah NU | url = http://www.tempointeraktif.com/hg/nasional/2004/05/06/brk,20040506-23,id.html | work = [[Tempo magazine (Indonesia)|Tempo]] | date = 6 May 2004 | language = id | access-date = 28 June 2009 | archive-url = https://web.archive.org/web/20080908052913/http://www.tempointeraktif.com/hg/nasional/2004/05/06/brk,20040506-23,id.html | archive-date = 8 September 2008 | url-status = dead}}</ref>
+
+The two candidates' Javanese background were not expected to attract as many non-Javanese voters.<ref name="AAS 71"/> However, the candidates' status as civilians attracted those who did not favour candidates with a military background, and they also were expected to attract both secular and religious voters.<ref name="AAS 72">{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=72|Ref=none}}</ref>
+
+===Amien Rais and Siswono Yudo Husodo===
+[[File:2004 Indonesian presidential first round election results map by city and regency (3. Amien–Siswono vote share).svg|thumb|upright=2|Vote share of Amien Rais and Siswono Yudo Husodo in the first round in each city and regency]]
+{{Main|Amien Rais|Siswono Yudo Husodo}}
+{| class="wikitable" style="font-size:90%; text-align:center"
+|-
+| colspan=3 style="text-align:center;"|<big><big><big><big><big>'''3'''</big></big></big></big></big>
+|-
+| colspan=3 style="background:#f1f1f1;"|'''[[National Mandate Party|2004 National Mandate Party ticket]]'''
+|-
+! style="font-size:135%; background:#0054A3;"|[[Amien Rais|{{color|white|Amien Rais}}]]
+! style="font-size:135%; background:#0054A3;"|[[Siswono Yudo Husodo|{{color|white|Siswono Yudo Husodo}}]]
+| rowspan=2 style="background:#f1f1f1;"|'''Political party'''
+|- style="color:#000; font-size:100%;"
+| style="width:3em; width:200px; background:#66BAFF;"|'''''for President'''''
+| style="width:3em; width:200px; background:#66BAFF;"|'''''for Vice President'''''
+|-
+| [[File:Amien Rais.jpg|center|200x200px|border]]
+| [[File:Sixth Development Cabinet Poster (Siswono Yudo Husodo).jpg|center|200x200px|border]]
+| rowspan=2|{{Legend|#0054A3|[[National Mandate Party|PAN]]}}{{Legend|#000000|[[Prosperous Justice Party|PKS]]}}{{Legend|#BCDA00|[[Reform Star Party|PBR]]}}{{Legend|#85011F|[[Indonesian National Populist Fortress Party|PNBK]]}}{{Legend|#A50005|[[Indonesian National Party Marhaenism|PNIM]]}}{{Legend|#000080|[[Labour Party (Indonesia, 1998)|PBSD]]}}
+|-
+| Speaker of the [[People's Consultative Assembly]] (1999–2004)
+| [[Minister of Villages, Development of Disadvantaged Regions, and Transmigration|Minister of Transmigration and Forest Settlement]] (1993–1998)
+|-
+|}
+
+The PAN nominated Amien Rais, chairman of the MPR, as its presidential candidate. His running mate was Siswono Yudohusodo. The pair was assigned the number '''3''' for its ballot.<ref name="Ballot"/>
+
+Amien Rais had once served as the chairman of [[Muhammadiyah]]. However, despite leading the second-largest Islamic organisation in Indonesia, Amien established the PAN following the resignation of President Suharto as a party not based on religious affiliation. He became an influential figure in the early days of the reform period and was eventually elected to lead the MPR.<ref name="AAS 12">{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=12|Ref=none}}</ref> Among voters, he was seen as a candidate who had no association with the [[Political corruption|corruption]] that was endemic to the nation's government. Voters also saw him as an ambitious person and as one who was known for being an [[orator]].<ref name="NDI"/> Amien's party had received 6.4% of the votes during the legislative election.<ref name="AAS 22"/>
+
+On the other hand, Siswono Yudohusodo was a relative newcomer to the political scene. He served as the chairman of the Indonesian Farmers' Association (HKTI) and held ministerial positions during the later years of Suharto's presidency.<ref name="AAS 72"/> Siswono was the wealthiest of any candidate for president or vice president based on reports submitted by candidates to the [[Corruption Eradication Commission]].<ref>{{Cite news | last = Sri Saraswati | first = Muninggar | title = Siswono the richest, Amien poorest candidate | url = http://www.thejakartapost.com/news/2004/07/03/siswono-richest-amien-poorest-candidate.html | work = [[The Jakarta Post]] | date = 3 July 2004 | access-date = 29 June 2009 | url-status = dead | archive-url = https://web.archive.org/web/20110607121831/http://www.thejakartapost.com/news/2004/07/03/siswono-richest-amien-poorest-candidate.html | archive-date = 7 June 2011}}</ref>
+
+Like Megawati and Hasyim, Amien and Siswono were also not expected to attract many non-Javanese voters. The pair was supported by the PKS, the seventh party which met the criteria to submit presidential and vice-presidential candidates but did not do so, and a number of smaller parties.<ref name="AAS 72"/>
+
+===Susilo Bambang Yudhoyono and Jusuf Kalla===
+[[File:2004 Indonesian presidential first round election results map by city and regency (4. Yudhoyono–Kalla vote share).svg|thumb|upright=2|Vote share of Susilo Bambang Yudhoyono and Jusuf Kalla in the first round in each city and regency]]
+{{Main|Susilo Bambang Yudhoyono|Jusuf Kalla}}
+{| class="wikitable" style="font-size:90%; text-align:center"
+|-
+| colspan=3 style="text-align:center;"|<big><big><big><big><big>'''4'''</big></big></big></big></big>
+|-
+| colspan=3 style="background:#f1f1f1;"|'''[[Democratic Party (Indonesia)|2004 Democratic Party ticket]]'''
+|+
+|-
+! style="font-size:135%; background:#2643A3;"|[[Susilo Bambang Yudhoyono|{{color|white|Susilo Bambang Yudhoyono}}]]
+! style="font-size:135%; background:#2643A3;"|[[Jusuf Kalla|{{color|white|Jusuf Kalla}}]]
+| rowspan=2 style="background:#f1f1f1;"|'''Political party'''
+|- style="color:#000; font-size:100%;"
+| style="width:3em; width:200px; background:#ACBBEC;"|'''''for President'''''
+| style="width:3em; width:200px; background:#ACBBEC;"|'''''for Vice President'''''
+|-
+| [[File:Kabinet Gotong Royong - Susilo Bambang Yudhoyono (2001).jpg|center|200x200px|border]]
+| [[File:Kabinet Gotong Royong - M. Jusuf Kalla (2001).jpg|center|200x200px|border]]
+| rowspan=2|{{Legend|#2643A3|[[Democratic Party (Indonesia)|Demokrat]]}}{{Legend|#005825|[[Crescent Star Party (Indonesia)|PBB]]}}{{Legend|#E4000E|[[Indonesian Justice and Unity Party|PKPI]]}}
+|-
+| [[Coordinating Ministry for Political, Legal, and Security Affairs|Coordinating Minister for Political and Security Affairs]] (2001–2004)
+| [[Coordinating Ministry for Human Development and Cultural Affairs|Coordinating Minister for Public Welfare]] (2001–2004)
+|-
+|}
+
+[[File:Yudhoyono campaign rally 2004.jpg|thumb|The rapid rise in Susilo Bambang Yudhoyono's (center) popularity helped the Democratic Party garner 7.45% of votes during the April 2004 legislative election.<ref name="AAS 56">{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=56|Ref=none}}</ref>]]
+The Democratic Party, supported by [[Indonesian Justice and Unity Party|PKPI]] and [[Crescent Star Party (Indonesia)|PBB]], nominated retired General Susilo Bambang Yudhoyono for its presidential candidate. He was later joined by Jusuf Kalla as running mate, and the pair was assigned the number '''4''' for its ballot.<ref name="Ballot"/>
+
+Susilo Bambang Yudhoyono served in the cabinets of two previous administrations. While serving as Coordinating Minister for Political, Social and Security Affairs under Abdurrahman Wahid, he refused an order to declare a [[state of emergency]] that would have stopped the parliamentary process to impeach the President and was subsequently dismissed.<ref>{{Harvnb|Ricklefs|2008|p=395|Ref=none}}</ref> Yudhoyono was nominated for vice president after the MPR selected Megawati to succeed Abdurrahman Wahid, but he lost the election to PPP Chairman Hamzah Haz and DPR Speaker Akbar Tanjung.<ref name="AAS 23">{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=23|Ref=none}}</ref> He reprised his prior cabinet position in Megawati's administration but resigned on 1 March 2004 to join the race for the presidency.<ref name="AAS 72"/> The Democratic Party, established as a vehicle for Yudhoyono's political career by secular nationalists who saw the potential of his leadership,<ref name="AAS 23"/> received 7.45% of votes and 10% of DPR seats in the April legislative election.<ref name="AAS 22"/>
+
+Yudhoyono's running mate was Jusuf Kalla, a wealthy [[Bugis]] businessman and member of Golkar who served as Coordinating Minister for People's Welfare under Megawati.<ref name="AAS 73">{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=73|Ref=none}}</ref> He mediated two separate peaceful resolutions to inter-religious conflicts between Christians and Muslims in his native [[Sulawesi]] in 2001 and [[Maluku Islands|Maluku]] in 2002.<ref>{{Cite news | last1 = Muannas | last2 = Amir | first2 = Syarief | title = Deklarasi Malino Mengakhiri Pertikaian di Poso | url = http://www.tempointeraktif.com/hg/nasional/2001/12/20/brk,20011220-26,id.html | archive-url = https://web.archive.org/web/20041130232806/http://www.tempointeraktif.com/hg/nasional/2001/12/20/brk,20011220-26,id.html | url-status = dead | archive-date = 30 November 2004 | work = [[Tempo magazine (Indonesia)|Tempo]] | date = 20 December 2001 | language = id | access-date = 10 September 2009 }}</ref><ref>{{Cite book | last = Hadi | first = Syamsul | title = Disintegrasi Pasca Orde Baru: Negara, Konflik Lokal dan Dinamika Internasional | language = id | page = 179 | publisher = Centre for International Relations Studies | place = Jakarta | year = 2007 | isbn = 978-979-461-624-6}}</ref> Kalla joined Golkar's selection process for the party's presidential nominee in August 2003 but withdrew his candidacy days before the party convention the following April.<ref>{{Cite news | title = Wiranto dan Kalla Maju, Agum Gumelar Mundur | url = http://www.kompas.com/kompas-cetak/0308/07/nasional/480103.htm | archive-url = https://web.archive.org/web/20030808015457/http://www.kompas.com/kompas-cetak/0308/07/nasional/480103.htm | work = [[Kompas]] | date = 7 August 2003 | language = id | archive-date = 8 August 2003 | access-date =10 September 2009}}</ref><ref>{{Cite news | title = Kalla Mundur Sebelum Konvensi | url = http://www.radarsulteng.com/berita/index.asp?Berita=Utama&id=30947 | work = Radar Sulteng | date = 16 April 2004 | language = id | access-date = 10 September 2009 | archive-url = https://web.archive.org/web/20111008214105/http://www.radarsulteng.com/berita/index.asp?Berita=Utama&id=30947 | archive-date = 8 October 2011 | url-status = dead}}</ref> Several days later, he resigned his cabinet position and announced his alliance with Yudhoyono.<ref name="AAS 73"/> Kalla was also seen as a potential vice-presidential candidate for the incumbent Megawati.<ref>{{Cite news | title = Blow to Megawati re-election bid | url = https://news.bbc.co.uk/2/hi/asia-pacific/3638903.stm | publisher = [[BBC]] | date = 19 April 2004 | access-date =10 September 2009}}</ref>
+
+The combination brought together two men with very different backgrounds that added to the attractiveness of their ticket. Yudhoyono, who was raised in densely populated Java, is seen as more secular and has a military background. On the other hand, Kalla is a devout Muslim who grew up in the outer province of South Sulawesi and came from a civilian background.<ref name="AAS 73"/>
+
+===Hamzah Haz and Agum Gumelar===
+[[File:2004 Indonesian presidential first round election results map by city and regency (5. Hamzah–Agum vote share).svg|thumb|upright=2|Vote share of Hamzah Haz and Agum Gumelar in the first round in each city and regency]]
+{{Main|Hamzah Haz|Agum Gumelar}}
+{| class="wikitable" style="font-size:90%; text-align:center"
+|-
+| colspan=3 style="text-align:center;"|<big><big><big><big><big>'''5'''</big></big></big></big></big>
+|-
+| colspan=3 style="background:#f1f1f1;"|'''[[United Development Party|2004 United Development Party ticket]]'''
+|+
+|-
+! style="font-size:135%; background:#00A100;"|[[Hamzah Haz|{{color|white|Hamzah Haz}}]]
+! style="font-size:135%; background:#00A100;"|[[Agum Gumelar|{{color|white|Agum Gumelar}}]]
+| rowspan=2 style="background:#f1f1f1;"|'''Political party'''
+|- style="color:#000; font-size:100%;"
+| style="width:3em; width:200px; background:#4DEE4D;"|'''''for President'''''
+| style="width:3em; width:200px; background:#4DEE4D;"|'''''for Vice President'''''
+|-
+| [[File:Hamzah Haz Official Portrait.jpg|center|200x200px|border]]
+| [[File:KPN Agum Gumelar.png|center|200x200px|border]]
+| rowspan=2|{{Legend|#00A100|[[United Development Party|PPP]]}}
+|-
+| 9th [[Vice President of Indonesia]] (2001–2004)
+| [[Ministry of Transportation (Indonesia)|Minister of Transportation]] (2001–2004)
+|-
+|}
+
+Incumbent Vice President Hamzah Haz was the presidential nominee of the PPP. He was joined by Minister of Transportation [[Agum Gumelar]] for the vice-presidential candidate. The pair was assigned the number '''5''' for its ballot.<ref name="Ballot"/>
+
+Hamzah Haz was elected vice president by the MPR after defeating DPR Speaker Akbar Tanjung when it removed President Abdurrahman Wahid from office in 2001. Although the [[BBC]] reported him once stating that "no woman was fit to head the world's leading Muslim nation", he came into office as the deputy to Indonesia's first female president. Haz served in the cabinet of President [[B. J. Habibie]] and was the first minister to resign from the Abdurrahman Wahid administration. He was accused of [[Political corruption#Graft|graft]] and [[nepotism]] but was never subjected to an investigation.<ref>{{Cite news | title = Profile: Hamzah Haz | url = https://news.bbc.co.uk/2/hi/asia-pacific/1457865.stm | publisher = [[BBC]] | date = 26 July 2001 | access-date =12 September 2009}}</ref> As Vice President, Haz had been a proponent of an amendment to the Constitution which would impose [[Sharia|Islamic law]] on Muslims in the country. However, other political parties and the Islamic organisations Nahdlatul Ulama and Muhammadiyah opposed such amendment for fear of more extreme forms of Islam.<ref>{{Harvnb|Ricklefs|2008|p=400|Ref=none}}</ref>
+
+A relatively unknown figure in the political scene, Agum Gumelar served as Minister of Transportation under Abdurrahman Wahid and Megawati.<ref name="AAS 73"/> In September 2003, Agum had recommended Susilo Bambang Yudhoyono or Jusuf Kalla as Megawati's running mate in the presidential election after predicting that the PDI–P would lose a significant number of votes in the April legislative election. However, both men eventually formed their own ticket, and Agum declined a vice-presidential candidate offer from Amien Rais in order to remain on the cabinet. He eventually accepted an offer from the PPP leadership to become Haz's running mate and resigned from Megawati's administration.<ref>{{Cite web | last1 = Cahyana | first1 = Ludhi | last2 = Parlan | first2 = Tri Mariyani | title = Hamzah Haz dan Agum Gumelar | url = http://www.isai.or.id/?q=node/20 | publisher = Institute for the Studies on Free Flow of Information | language = id | access-date = 12 September 2009 | url-status = dead | archive-url = https://web.archive.org/web/20110721063726/http://www.isai.or.id/?q=node%2F20 | archive-date = 21 July 2011}}</ref>
+
+Neither candidate was of Javanese origin; hence, they might have attracted constituencies of the outer provinces.<ref name="AAS 73"/>
+
+==Campaign==
+[[Political corruption|Corruption]], [[collusion]], and [[nepotism]] are the most consistently cited concerns among voters surveyed by the [[National Democratic Institute for International Affairs]].<ref name="NDI"/>
+
+===Schedule===
+* 1 June 2004: All candidates sign the commitment of readiness to accept victory or defeat and to conduct a fair campaign.<ref name="Menang Kalah">{{Cite news | title = Semua Calon Siap Menang dan Kalah | url = http://www2.kompas.com/kompas-cetak/0406/02/utama/1059733.htm | archive-url = https://web.archive.org/web/20040622130535/http://www.kompas.com/kompas-cetak/0406/02/utama/1059733.htm | work = [[Kompas]] | date = 2 June 2004 | language = id | archive-date = 22 June 2004 | access-date =10 September 2009}}</ref> Campaign period begins.<ref>{{Cite news | title = Jadwal Kampanye Pemilu Presiden | url = http://www.tempointeraktif.com/hg/narasi/2004/05/27/nrs,20040527-01,id.html | work = [[Tempo magazine (Indonesia)|Tempo]] | date = 27 May 2004 | language = id | access-date = 21 June 2009 | archive-url = https://web.archive.org/web/20090623212306/http://www.tempointeraktif.com/hg/narasi/2004/05/27/nrs,20040527-01,id.html | archive-date = 23 June 2009 | url-status = dead}}</ref>
+* 1 July 2004: Campaign period ends.
+* 5 July 2004: '''First round of voting'''.
+* 20 September 2004: '''Second round of voting'''.
+* 4 October 2004: Official second round results announced.<ref>{{Cite news | last = Purwanto | title = Presiden Terpilih Ditetapkan Sore Ini | url = http://www.tempointeraktif.com/hg/nasional/2004/10/04/brk,20041004-21,id.html | work = [[Tempo magazine (Indonesia)|Tempo]] | date = 4 October 2004 | language = id | access-date = 21 June 2009 | archive-url = https://web.archive.org/web/20090614234242/http://www.tempointeraktif.com/hg/nasional/2004/10/04/brk,20041004-21,id.html | archive-date = 14 June 2009 | url-status = dead}}</ref>
+* 20 October 2004: Inauguration of the president-elect and vice president-elect.
+
+==Results==
+Former security minister [[Susilo Bambang Yudhoyono]] won the first round with 33% of the vote. Incumbent President [[Megawati Sukarnoputri]] was second with 26%, ahead of former armed forces chief [[Wiranto]] on 22%. Yudhoyono did not do as well as earlier opinion polls had suggested, while Megawati did better. This was attributed by Indonesian observers to Yudhoyono's lack of a nationwide party machine, such as Megawati's PDI-P and Wiranto's Golkar.{{Citation needed|date=June 2009}}
+
+The counting of 113 million votes, already a massive task in such a large and diverse country, was made more difficult by problems with the ballot papers.  Voters cast their ballots by making a hole in the ballot paper with a nail, above the photo of their preferred candidate. Because the ballot paper was handed to voters folded in half, many made the hole without unfolding the ballot, thus making two holes and invalidating their vote. Hundreds of thousands of these votes were invalidated before the General Election Committee (KPU) ruled that such ballots should be accepted.<ref>{{Cite news | last = Harsono | first = Andreas | title = Megawati Crawls in While Wiranto Cries Foul | url = http://www.irrawaddy.org/article.php?art_id=3657 | work = [[The Irrawaddy]] | date = 8 July 2004 | access-date = 21 June 2009 | url-status = dead | archive-url = https://web.archive.org/web/20100811195324/http://irrawaddy.org/article.php?art_id=3657 | archive-date = 11 August 2010}}</ref> This necessitated recounts in many places, slowing the count and raising fears of a disputed result.
+
+{{Election results
+|cand1=[[Susilo Bambang Yudhoyono]]|vp1=[[Jusuf Kalla]]|party1=[[Democratic Party (Indonesia)|Democratic Party]]|votes1=39838184|votes1_2=69266350
+|cand2=[[Megawati Sukarnoputri]]|vp2=[[Hasyim Muzadi]]|party2=[[Indonesian Democratic Party of Struggle]]|votes2=31569104|votes2_2=44990704
+|cand3=[[Wiranto]]|vp3=[[Salahuddin Wahid]]|party3=[[Golkar]]|votes3=26286788
+|cand4=[[Amien Rais]]|vp4=[[Siswono Yudo Husodo]]|party4=[[National Mandate Party]]|votes4=17392931
+|cand5=[[Hamzah Haz]]|vp5=[[Agum Gumelar]]|party5=[[United Development Party]]|votes5=3569861
+|invalid=2636976|invalid2=2405646
+|electorate=155048803|electorate2=155048803
+|source=[https://www.electionguide.org/elections/id/1936/ IFES], [https://www.electionguide.org/elections/id/1938/ IFES]
+}}
+
+===First round===
+[[File:2004 Indonesian presidential election results by province (first round).svg|thumb|600px|center|Results of the first round: candidate with the most votes in each province.]]
+[[File:2004 Indonesian presidential first round election results map by city and regency.svg|thumb|600px|center|Results of the first round: candidate with the most votes in each city and regency.]]
+
+{| class="wikitable" style="text-align:right; font-size: 0.9em;"
+! rowspan="3" |Province
+! colspan="2" |Yudhoyono
+! colspan="2" |Megawati
+! colspan="2" |Wiranto
+! colspan="2" |Amien
+! colspan="2" |Hamzah
+|-
+! colspan="2" style="background:{{party color|Democratic Party (Indonesia)}};" |
+! colspan="2" style="background:{{party color|Indonesian Democratic Party of Struggle}};" |
+! colspan="2" style="background:{{party color|Golkar}};" |
+! colspan="2" style="background:{{party color|National Mandate Party}};" |
+! colspan="2" style="background:{{party color|United Development Party}};" |
+|-
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+!Votes
+!%
+|-
+|align=left|[[Aceh]]
+|519,197
+|24.39
+|120,226
+|5.65
+|204,534
+|9.61
+|'''1,195,823'''
+|'''56.18'''
+|88,836
+|4.17
+|-
+|align=left|[[North Sumatra]]
+|1,523,612
+|27.23
+|'''2,233,777'''
+|'''39.92'''
+|934,213
+|16.69
+|798,790
+|14.27
+|105,687
+|1.89
+|-
+|align=left|[[West Sumatra]]
+|518,648
+|25.30
+|121,254
+|5.92
+|610,847
+|29.80
+|'''741,811'''
+|'''36.19'''
+|57,228
+|2.79
+|-
+|align=left|[[Riau]]
+|'''677,761'''
+|'''32.52'''
+|460,328
+|22.09
+|504,017
+|24.19
+|397,761
+|19.09
+|44,092
+|2.12
+|-
+|align=left|[[Jambi]]
+|'''520,145'''
+|'''38.73'''
+|273,925
+|20.39
+|364,651
+|27.15
+|155,974
+|11.61
+|28,437
+|2.12
+|-
+|align=left|[[South Sumatra]]
+|'''1,241,095'''
+|'''36.49'''
+|1,127,608
+|33.15
+|640,294
+|18.82
+|341,716
+|10.05
+|50,644
+|1.49
+|-
+|align=left|[[Bengkulu]]
+|196,057
+|26.51
+|155,657
+|21.04
+|'''253,986'''
+|'''34.34'''
+|121,483
+|16.42
+|12,480
+|1.69
+|-
+|align=left|[[Lampung]]
+|'''1,430,729'''
+|'''39.45'''
+|896,581
+|24.72
+|881,715
+|24.31
+|359,285
+|9.91
+|58,297
+|1.61
+|-
+|align=left|[[Bangka Belitung Islands]]
+|165,657
+|33.26
+|'''179,777'''
+|'''36.09'''
+|82,250
+|16.51
+|58,759
+|11.80
+|11,656
+|2.34
+|-
+|align=left|[[Riau Islands]]
+|'''224,334'''
+|'''37.56'''
+|153,138
+|25.64
+|81,816
+|13.70
+|128,551
+|21.52
+|9,437
+|1.58
+|-
+|align=left|[[Jakarta]]
+|'''1,988,306'''
+|'''38.23'''
+|1,172,891
+|22.66
+|499,455
+|9.97
+|1,415,582
+|26.64
+|121,924
+|2.50
+|-
+|align=left|[[West Java]]
+|'''7,100,175'''
+|'''32.41'''
+|5,095,705
+|23.26
+|5,341,526
+|24.38
+|3,562,173
+|16.26
+|810,519
+|3.70
+|-
+|align=left|[[Central Java]]
+|5,276,432
+|28.90
+|'''5,807,127'''
+|'''31.81'''
+|3,943,032
+|21.60
+|2,409,138
+|13.20
+|820,273
+|4.49
+|-
+|align=left|[[Special Region of Yogyakarta|Yogyakarta]]
+|'''576,012'''
+|'''28.05'''
+|557,133
+|27.13
+|334,067
+|16.27
+|558,068
+|27.18
+|28,293
+|1.38
+|-
+|align=left|[[East Java]]
+|'''7,458,399'''
+|'''35.63'''
+|5,896,278
+|28.17
+|5,076,454
+|24.25
+|1,902,254
+|9.09
+|599,806
+|2.87
+|-
+|align=left|[[Banten]]
+|'''1,706,548'''
+|'''35.61'''
+|1,193,414
+|24.90
+|922,299
+|19.25
+|796,758
+|16.63
+|172,971
+|3.61
+|-
+|align=left|[[Bali]]
+|654,127
+|32.08
+|'''1,115,788'''
+|'''54.72'''
+|210,784
+|10.34
+|48,472
+|2.38
+|9,791
+|0.48
+|-
+|align=left|[[West Nusa Tenggara]]
+|715,838
+|33.03
+|223,204
+|10.30
+|'''723,484'''
+|'''33.39'''
+|436,073
+|20.12
+|68,382
+|3.16
+|-
+|align=left|[[East Nusa Tenggara]]
+|312,777
+|14.50
+|'''1,344,116'''
+|'''62.32'''
+|432,823
+|20.07
+|58,341
+|2.70
+|8,757
+|0.41
+|-
+|align=left|[[West Kalimantan]]
+|477,724
+|23.73
+|'''821,577'''
+|'''40.81'''
+|415,492
+|20.64
+|185,097
+|9.19
+|113,244
+|5.63
+|-
+|align=left|[[Central Kalimantan]]
+|'''303,123'''
+|'''34.37'''
+|296,335
+|33.60
+|170,193
+|19.29
+|88,439
+|10.03
+|23,976
+|2.72
+|-
+|align=left|[[South Kalimantan]]
+|'''600,156'''
+|'''37.30'''
+|211,881
+|13.17
+|353,732
+|21.98
+|339,993
+|21.13
+|103,429
+|6.43
+|-
+|align=left|[[East Kalimantan]]
+|'''558,900'''
+|'''39.08'''
+|337,458
+|23.60
+|246,715
+|17.25
+|255,665
+|17.88
+|31,459
+|2.20
+|-
+|align=left|[[North Sulawesi]]
+|355,436
+|28.28
+|389,135
+|30.96
+|'''451,663'''
+|'''35.93'''
+|47,309
+|3.76
+|13,380
+|1.06
+|-
+|align=left|[[Central Sulawesi]]
+|'''539,624'''
+|'''43.71'''
+|119,917
+|9.71
+|455,167
+|36.87
+|101,877
+|8.25
+|17,865
+|1.45
+|-
+|align=left|[[South Sulawesi]]
+|'''2,854,774'''
+|'''64.17'''
+|381,385
+|8.57
+|678,445
+|15.25
+|476,483
+|10.71
+|57,728
+|1.30
+|-
+|align=left|[[Southeast Sulawesi]]
+|'''398,544'''
+|'''41.72'''
+|108,905
+|11.40
+|361,386
+|37.83
+|74,496
+|7.80
+|11,907
+|1.25
+|-
+|align=left|[[Gorontalo]]
+|31,210
+|5.94
+|39,647
+|7.55
+|'''402,162'''
+|'''76.57'''
+|39,569
+|7.53
+|12,624
+|2.40
+|-
+|align=left|[[Maluku (province)|Maluku]]
+|100,748
+|14.24
+|269,611
+|38.10
+|'''288,091'''
+|'''40.71'''
+|40,392
+|5.71
+|8,887
+|1.26
+|-
+|align=left|[[North Maluku]]
+|102,353
+|22.07
+|98,459
+|21.23
+|'''181,373'''
+|'''39.10'''
+|75,404
+|16.26
+|6,272
+|1.35
+|-
+|align=left|[[West Irian Jaya]]
+|'''148,675'''
+|'''47.80'''
+|102,191
+|32.85
+|38,425
+|12.35
+|18,221
+|5.86
+|3,538
+|1.14
+|-
+|align=left|[[Papua (province)|Papua]]
+|'''465,424'''
+|'''46.75'''
+|202,295
+|20.32
+|157,702
+|15.84
+|126,429
+|12.70
+|43,776
+|4.40
+|-
+|align=left|Overseas
+|'''95,644'''
+|'''37.80'''
+|62,381
+|24.65
+|43,995
+|17.39
+|36,745
+|14.52
+|14,266
+|5.64
+|- class="sortbottom"
+|align=left|Total
+|'''39,838,184'''
+|'''33.57'''
+|'''31,569,104'''
+|'''26.61'''
+|26,286,788
+|22.15
+|17,392,931
+|14.66
+|3,569,861
+|3.01
+|-
+!colspan=11|
+|-
+|colspan=11 align=left|Source: Statistics Indonesia;<ref>{{Cite web|date=13 February 2013|title=Number of Presidential and Vice Presidential Election Votes in The First Round, 2004 and 2009 (Indonesia)|url=https://www.neliti.com/publications/51367/number-of-presidential-and-vice-presidential-election-votes-in-the-first-round-2|url-status=live|access-date=14 April 2021|website=Neliti|archive-url=https://web.archive.org/web/20210414071240/https://www.neliti.com/publications/51367/number-of-presidential-and-vice-presidential-election-votes-in-the-first-round-2 |archive-date=14 April 2021 }}</ref> Ananda, Arifin & Suryadinata<ref>{{Cite book|last1=Ananta|first1=Aris|title=Emerging Democracy in Indonesia|last2=Arifin|first2=Evi Nurvidya|last3=Suryadinata|first3=Leo|publisher=Institute of Southeast Asian Studies|year=2005|isbn=981-230-323-5|location=Singapore|pages=80–83}}</ref>
+|}
+Wiranto refused to accept the election results and petitioned the [[Indonesian Constitutional Court|Constitutional Court]]. Wiranto and Salahuddin argued that, due to irregularities in ballot counting by the KPU, they had lost 5,434,660 votes from twenty-six provinces. Those ballots would have made the total popular vote for the pair higher than that for Megawati and Hasyim, putting the former pair instead of the latter in the second round. However, the Court ruled on 10 August that it found no irregularities and upheld the commission's final count.<ref>{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=69|Ref=none}}</ref>
+
+===Second round===
+[[File:2004 Indonesian presidential election results by province (second round).svg|thumb|600px|center|Results of the second round: candidate with the most votes in each province.]]
+[[File:2004 Indonesian presidential second round election results map by city and regency.svg|thumb|600px|center|Results of the second round: candidate with the most votes in each city and regency.]]
+
+{| class="wikitable" style="text-align:right; font-size: 0.9em;"
+! rowspan="3" |Province
+! colspan="2" |Yudhoyono
+! colspan="2" |Megawati
+|-
+! colspan="2" style="background:{{party color|Democratic Party (Indonesia)}};" |
+! colspan="2" style="background:{{party color|Indonesian Democratic Party of Struggle}};" |
+|-
+!Votes
+!%
+!Votes
+!%
+|-
+|align=left|[[Aceh]]
+|'''1,561,156'''
+|'''77.10'''
+|463,769
+|22.90
+|-
+|align=left|[[North Sumatra]]
+|'''2,808,212'''
+|'''52.61'''
+|2,530,065
+|47.39
+|-
+|align=left|[[West Sumatra]]
+|'''1,585,796'''
+|'''83.77'''
+|307,196
+|16.23
+|-
+|align=left|[[South Sumatra]]
+|'''1,719,016'''
+|'''50.99'''
+|1,652,302
+|49.01
+|-
+|align=left|[[Riau]]
+|'''1,309,245'''
+|'''65.79'''
+|680,707
+|34.21
+|-
+|align=left|[[Bengkulu]]
+|'''444,156'''
+|'''61.71'''
+|275,632
+|38.29
+|-
+|align=left|[[Lampung]]
+|'''2,165,778'''
+|'''60.61'''
+|1,407,236
+|39.39
+|-
+|align=left|[[Bangka Belitung Islands]]
+|'''233,454'''
+|'''51.29'''
+|221,715
+|48.71
+|-
+|align=left|[[Riau Islands]]
+|'''367,374'''
+|'''65.33'''
+|194,933
+|34.67
+|-
+|align=left|[[Jambi]]
+|'''917,952'''
+|'''69.52'''
+|402,542
+|30.48
+|-
+|align=left|[[Jakarta]]
+|'''3,392,663'''
+|'''69.21'''
+|1,509,402
+|30.79
+|-
+|align=left|[[West Java]]
+|'''13,186,776'''
+|'''62.76'''
+|7,825,251
+|37.24
+|-
+|align=left|[[Central Java]]
+|'''8,991,744'''
+|'''51.67'''
+|8,409,066
+|48.33
+|-
+|align=left|[[Special Region of Yogyakarta|Yogyakarta]]
+|'''1,151,043'''
+|'''59.69'''
+|777,467
+|40.31
+|-
+|align=left|[[East Java]]
+|'''12,150,901'''
+|'''59.65'''
+|8,217,996
+|40.35
+|-
+|align=left|[[Banten]]
+|'''2,913,659'''
+|'''62.76'''
+|1,728,732
+|37.24
+|-
+|align=left|[[Bali]]
+|755,432
+|37.73
+|'''1,246,521'''
+|'''62.27'''
+|-
+|align=left|[[West Nusa Tenggara]]
+|'''1,563,494'''
+|'''74.96'''
+|522,411
+|25.04
+|-
+|align=left|[[East Nusa Tenggara]]
+|590,459
+|28.07
+|'''1,513,088'''
+|'''71.93'''
+|-
+|align=left|[[West Kalimantan]]
+|962,365
+|49.98
+|'''963,065'''
+|'''50.02'''
+|-
+|align=left|[[Central Kalimantan]]
+|'''474,839'''
+|'''55.90'''
+|374,546
+|44.10
+|-
+|align=left|[[South Kalimantan]]
+|'''1,096,637'''
+|'''73.30'''
+|399,528
+|26.70
+|-
+|align=left|[[East Kalimantan]]
+|'''856,365'''
+|'''63.97'''
+|482,247
+|36.03
+|-
+|align=left|[[North Sulawesi]]
+|'''686,688'''
+|'''56.72'''
+|523,903
+|43.28
+|-
+|align=left|[[Central Sulawesi]]
+|'''933,261'''
+|'''77.96'''
+|263,813
+|22.04
+|-
+|align=left|[[South Sulawesi]]
+|'''3,869,361'''
+|'''87.24'''
+|565,953
+|12.76
+|-
+|align=left|[[Southeast Sulawesi]]
+|'''721,792'''
+|'''78.07'''
+|202,705
+|21.93
+|-
+|align=left|[[Gorontalo]]
+|'''276,402'''
+|'''57.99'''
+|200,230
+|42.01
+|-
+|align=left|[[Maluku (province)|Maluku]]
+|311,269
+|45.39
+|'''374,437'''
+|'''54.61'''
+|-
+|align=left|[[North Maluku]]
+|'''277,077'''
+|'''61.84'''
+|170,975
+|38.16
+|-
+|align=left|[[Papua (province)|Papua]]
+|'''642,869'''
+|'''62.84'''
+|380,091
+|37.16
+|-
+|align=left|[[West Irian Jaya]]
+|'''182,481'''
+|'''59.39'''
+|124,760
+|40.61
+|-
+|align=left|Overseas
+|'''166,634'''
+|'''67.98'''
+|78,500
+|32.02
+|- class="sortbottom"
+|align=left|Total
+|'''69,266,350'''
+|'''60.62'''
+|44,990,704
+|39.38
+|-
+! colspan="5" |
+|-
+| colspan="5" align=left|Source: Ananda, Arifin & Suryadinata;<ref>{{Cite book|last1=Ananta|first1=Aris|title=Emerging Democracy in Indonesia|last2=Arifin|first2=Evi Nurvidya|last3=Suryadinata|first3=Leo|publisher=Institute of Southeast Asian Studies|year=2005|isbn=981-230-323-5|location=Singapore|pages=107}}</ref> Statistics Indonesia<ref>{{Cite web|date=9 January 2020|title=Hasil Perhitungan Suara Sah Pemilu Presiden dan Wakil Presiden Menurut Provinsi Tahun 2004, 2009, 2014, 2019|url=https://www.bps.go.id/statictable/2009/03/04/1574/hasil-perhitungan-suara-sah-pemilu-presiden-dan-wakil-presiden-menurut-provinsi-tahun-2004-2009-2014-2019.html|url-status=live|access-date=14 April 2021|website=Statistics Indonesia|archive-url=https://web.archive.org/web/20200313134746/https://www.bps.go.id/statictable/2009/03/04/1574/hasil-perhitungan-suara-sah-pemilu-presiden-dan-wakil-presiden-menurut-provinsi-tahun-2004-2009-2014-2019.html |archive-date=13 March 2020 }}</ref>
+|}
+
+==Reactions==
+*'''[[Indonesia]]:''' President [[Megawati Sukarnoputri]] said in a speech on Armed Forces Day, 5 October, "We have to show to the world we are a big nation. All components of the nation have to stick to the agreement we have struck that whoever is elected in the democratic election has to be accepted. We may have chosen differently. However, we had the same objective: that is to bring the nation to a better future."<ref>{{Cite news | last = Moore | first = Matthew | title = Megawati still keeping Yudhoyono on hold | url = http://www.smh.com.au/articles/2004/10/05/1096949513009.html | work = [[The Sydney Morning Herald]]  | date = 6 October 2004 | access-date =20 June 2009}}</ref>
+*'''[[Australia]]''': Prime Minister [[John Howard]] said he planned to attend Yudhoyono's inauguration. Howard said, "I look forward to working closely with Dr. Yudhoyono and his new government to continue and extend the close cooperation between our two nations, particularly on counter-terrorism."<ref>{{Cite news | last = Forbes | first = Mark | title = PM to see new leader sworn in | url = http://www.theage.com.au/articles/2004/10/14/1097607368339.html | newspaper = [[The Age]]| date = 15 October 2004 | access-date =20 June 2009}}</ref>
+*'''[[People's Republic of China]]''': [[Politburo Standing Committee of the Communist Party of China|Politburo Standing Committee]] member [[Wu Guanzheng]] met with Yudhoyono on 13 October and conveyed congratulations from President [[Hu Jintao]].<ref>{{Cite news | title = Senior Chinese leader meets Indonesia's president-elect | url = http://news.xinhuanet.com/english/2004-10/15/content_2091733.htm | archive-url = https://web.archive.org/web/20121024135025/http://news.xinhuanet.com/english/2004-10/15/content_2091733.htm | url-status = dead | archive-date = 24 October 2012 | agency = [[Xinhua News Agency]] | date = 14 October 2004 | access-date =20 June 2009}}</ref>
+
+==Aftermath==
+{{Further|First inauguration of Susilo Bambang Yudhoyono}}
+[[Susilo Bambang Yudhoyono]] and [[Jusuf Kalla]] were sworn in as president and vice president on 20 October. It was the first Indonesian presidential inauguration to be attended by foreign leaders.<ref>{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=121|Ref=none}}</ref> After a selection process that began on 15 October, the [[United Indonesia Cabinet]] was announced later following the inauguration. The 36-member cabinet was sworn in at the [[Istana Negara, Jakarta|State Palace]] on 21 October.<ref>{{Harvnb|Ananta|Arifin|Suryadinata|2005|p=128|Ref=none}}</ref> The process of selecting candidates for Yudhoyono's cabinet was considered "decent, intelligent, and indecisive". While attempting to satisfy as many members as possible in his coalition of small parties, Yudhoyono created a cabinet that was neither quite as cohesive nor effective. However, Kalla soon became the party chairman of Golkar in late 2004 and turned the party's votes in the DPR to those in favour of the government, creating an effective ''bloc'' and leaving Megawati's PDI–P as the largest non-government party in the DPR.<ref>{{Harvnb|Ricklefs|2008|pp=404–405|Ref=none}}</ref> Although the first one hundred days of Yudhoyono's administration saw continuing economic stability, it was overshadowed by the events of the [[2004 Indian Ocean earthquake|Indian Ocean earthquake]] which occurred on 26 December. The earthquake triggered [[tsunami]]s that destroyed the coastline of the provinces of [[Aceh]] and [[North Sumatra]] and killed more than 200,000 people.<ref>{{Harvnb|Ananta|Arifin|Suryadinata|2005|pp=132–133|Ref=none}}</ref>
+
+==See also==
+{{Portal|Indonesia}}
+* [[Elections in Indonesia]]
+* [[2004 Indonesian legislative election]]
+* [[Two-round system]]
+
+== Notes ==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+* {{Cite book | last1 = Ananta | first1 = Aris | last2 = Arifin | first2 = Evi Nurvidya | last3 = Suryadinata | first3 = Leo | name-list-style = amp | title = Emerging Democracy in Indonesia | place = Singapore | publisher = Institute of Southeast Asian Studies | year = 2005 | isbn = 978-981-230-322-6 }}
+* {{Cite book |first=Bob S. |last=Hadiwinata |chapter=The 2004 Parliamentary and Presidential Elections in Indonesia |title=Between Consolidation and Crisis: Elections and Democracy in Five Nations in Southeast Asia |publisher=Lit |place=Berlin |year=2006 |pages=85–146}}
+* {{Cite book | last = Koirudin | title = Kilas Balik Pemilihan Presiden 2004 | place = Yogyakarta | publisher = Pustaka Pelajar | year = 2004 | language = id | isbn = 979-3721-11-1 }}
+* {{Cite book | last = Ricklefs | first = M. C. | author-link = M. C. Ricklefs | title = A History of Modern Indonesia since c. 1200 | year = 2008 | publisher = Stanford University Press | place = Stanford, CA | edition = 4th | isbn = 978-0-8047-6130-7 }}
+
+{{Indonesian elections}}
+
+[[Category:2004 elections in Asia|Indonesia]]
+[[Category:2004 elections in Indonesia|President]]
+[[Category:Presidential elections in Indonesia]]
+[[Category:July 2004 in Indonesia|President]]
+[[Category:September 2004 in Indonesia|President]]

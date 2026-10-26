@@ -1,0 +1,554 @@
+{{Short description|none}}
+{{Use dmy dates|date=July 2023}}
+{{Infobox election
+| country = Slovenia
+| type = presidential
+| previous_election = 2012 Slovenian presidential election
+| previous_year = 2012
+| election_date = 22 October 2017 (first round)<br />{{nowrap|12 November 2017 (second round)}}
+| next_election = 2022 Slovenian presidential election
+| next_year = 2022
+
+| image1 = Inauguration of the EU House (cropped).jpg
+| nominee1 = '''[[Borut Pahor]]'''
+| party1 = [[Independent politician|Independent]]{{efn|name=nb|The President of Slovenia traditionally resigns from party membership after taking office. Although Pahor was officially an independent, his campaign was endorsed and funded by [[Social Democrats (Slovenia) |Social Democrats]].}}
+| popular_vote1 = '''378,307'''
+| percentage1 = '''53.09%'''
+
+| image2 = Marjan Šarec in Logatec 2017.jpg
+| nominee2 = [[Marjan Šarec]]
+| color2 = 1980C7
+| party2 = List of Marjan Šarec
+| popular_vote2 = 334,239
+| percentage2 = 46.91%
+
+| map = {{Switcher|[[File:2017 Slovenian Presidential election 1st round by locality.svg|300px]]|First round results|[[File:2017 Slovenian Presidential election 2nd round by locality.svg|300px]]|Second round results|default = 2}}
+{{col-start}}
+{{col-2}}
+'''Pahor:'''
+{{legend|#e7e7e7|30–40%}}
+{{legend|#c6c6c6|40–50%}}
+{{legend|#a9a9a9|50–60%}}
+{{legend|#8d8d8d|60–70%}}
+{{legend|#737373|70–80%}}
+{{col-2}}
+'''Šarec:'''
+{{legend|#deedfb|30–40%}}
+{{legend|#b4d0ec|40–50%}}
+{{legend|#8db8e2|50–60%}}
+{{legend|#679fd7|60–70%}}
+{{legend|#4187cd|70–80%}}
+{{col-end}}
+
+
+| title = [[President of Slovenia|President]]
+| before_election = [[Borut Pahor]]
+| before_party = Independent politician
+| after_election = [[Borut Pahor]]
+| after_party = Independent politician
+}}{{Politics of Slovenia}}
+
+Presidential elections were held in [[Slovenia]] on 22 October 2017. Nine candidates ran in the first round of the elections, in which the incumbent independent [[President of Slovenia|President]] [[Borut Pahor]] placed first and [[Marjan Šarec]] of the [[List of Marjan Šarec|List of Marjan Šarec (LMŠ)]] placed second. No candidate received a majority of the vote in the first round, resulting in a [[Two-round system|run-off]] between Pahor and that was held on 12 November 2017.<ref>{{cite web|url=http://www.rtvslo.si/slovenija/predsedniske-volitve-bodo-22-oktobra/429793 |title=Predsedniške volitve bodo 22. oktobra :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija |publisher=Rtvslo.si |accessdate=2017-09-05}}</ref> Pahor won the run-off with 53% of the vote;<ref name="volitve1">{{cite web |url=https://www.volitve.gov.si/vp2017/#/rezultati |title=Predsedniške volitve 2017 |publisher=Volitve.gov.si |accessdate=2017-11-12 |archive-date=16 January 2018 |archive-url=https://web.archive.org/web/20180116114724/http://volitve.gov.si/vp2017/#/rezultati |url-status=dead }}</ref> voter turnout in the second round was 42.13%, the lowest in any presidential election since independence.<ref name="rtvslo2">{{cite web|url=http://www.rtvslo.si/slovenija/grem-volit-2017/pahor-zmagal-v-sestih-volilnih-enotah-sarec-v-dveh/437626 |title=Pahor zmagal v šestih volilnih enotah, Šarec v dveh &#124; Grem Volit 2017 |publisher=Rtvslo.si |accessdate=2017-11-12}}</ref>
+
+==Electoral system==
+The President of Slovenia is elected using the [[two-round system]]; if no candidate receives a majority of the vote in the first round, the top two candidates contest a runoff.<ref>{{cite web|url= http://www.dvk.gov.si/PREDSEDNIK2007/ZVPR.html|title= Zakon o volitvah predsednika republike (ZVPR) |accessdate=2008-09-05 |publisher= Uradni list RS, št. 39/1992|date=7 August 1992 |language=sl}}</ref>
+
+Under Slovenia's election law, candidates for president are required to meet one of three criteria:
+*The support of ten members of the [[National Assembly of Slovenia|National Assembly]]
+*The support of one or more political parties and either three members of the National Assembly or signatures from 3,000 voters
+*Signatures from 5,000 voters
+
+Each political party can support only one candidate.
+
+==Candidates==
+===Borut Pahor===
+The incumbent president [[Borut Pahor]] announced his intention to run for a second term in December 2016.<ref>{{Cite news|url=http://www.rtvslo.si/slovenija/pahor-da-kandidiral-bom-za-predsednika-drzave/410664|title=Pahor: Da, kandidiral bom za predsednika države|via=Prvi interaktivni multimedijski portal, MMC RTV Slovenija|accessdate=1 January 2017|newspaper=Delo|date=21 December 2016}}</ref> A member of [[Social Democrats (Slovenia)|Social Democrats]], he later stated he intends to run as an [[Independent politician|independent]] candidate.<ref>{{cite web|url=http://reporter.si/clanek/slovenija/ekskluzivni-intervju-s-predsednikom-republike-borutom-pahorjem-na-volitve-grem-kot-neodvisni-kandidat-518774 |title=Ekskluzivni intervju s predsednikom republike Borutom Pahorjem: Na volitve grem kot neodvisni kandidat! &#124; Revija Reporter |publisher=Reporter.si |date=2017-04-24 |accessdate=2017-06-19}}</ref> Pahor was seen from June as a clear frontrunner to win the election.<ref name="autogenerated1">{{cite web|url=http://www.delo.si/nedelo/predsedniski-kandidati-se-ogrevajo.html |title=Predsedniški kandidati se ogrevajo |publisher=Delo.si |accessdate=2017-06-19}}</ref>
+
+===Marjan Šarec===
+[[Marjan Šarec]], the mayor of [[Kamnik]], announced his candidacy in May. He had previously served two terms as mayor after a career as an actor and comedian. During his acting career, he imitated several famous people, including the second president of Slovenia, [[Janez Drnovšek]].<ref>{{cite web |url=http://www.delo.si/novice/politika/marjan-sarec-za-predsednika-drzave.html |title=Marjan Šarec za predsednika države |publisher=Delo.si |accessdate=2017-06-19 |archive-date=5 September 2017 |archive-url=https://web.archive.org/web/20170905184806/http://www.delo.si/novice/politika/marjan-sarec-za-predsednika-drzave.html |url-status=dead }}</ref> Nevertheless, Šarec stated his candidacy would be completely serious, as he took a break from his stage personas when he was elected mayor.<ref>{{cite web|author=Oznake |url=http://www.vecer.com/marjan-sarec-za-predsednika-strici-iz-ozadja-so-izgovor-sibkih-6266335 |title=Večer - Marjan Šarec za predsednika: Strici iz ozadja so izgovor šibkih |publisher=Vecer.com |accessdate=2017-06-19}}</ref> Criticizing Pahor for treating the presidential function as a celebrity, Šarec was viewed as a potentially strong candidate.<ref name="rtvslo1">{{cite web|url=http://www.rtvslo.si/slovenija/na-predsednisko-mesto-bi-se-radi-zavihteli-tudi-estradniki/425363 |title=Na predsedniško mesto bi se radi zavihteli tudi estradniki :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija |publisher=Rtvslo.si |accessdate=2017-06-19}}</ref> Backed by his party Lista Marjana Šarca - Naprej Kamnik, Šarec successfully collected the required 3,000 votes of support.<ref>{{cite web|url=http://www.delo.si/novice/politika/sarec-zbral-dovolj-podpisov-za-predsednisko-kandidaturo.html |title=Šarec prvi zbral dovolj podpisov za predsedniško kandidaturo |publisher=Delo.si |accessdate=2017-09-05}}</ref>
+
+===Ljudmila Novak===
+In early August, [[Ljudmila Novak]] of [[New Slovenia]] announced her candidacy, as the first candidate supported by a major political party,<ref>[http://www.rtvslo.si/slovenija/ljudmila-novak-bo-kandidirala-za-predsednico-drzave/429252 Ljudmila Novak bo kandidirala za predsednico države] RTV, 4 August 2017</ref> Novak officially submitted the candidacy on 8 September.<ref>{{cite web|url=http://www.rtvslo.si/slovenija/kot-prva-v-predsednisko-bitko-z-vlozeno-kandidaturo-vstopa-ljudmila-novak/432005 |title=Kot prva v predsedniško bitko z vloženo kandidaturo vstopa Ljudmila Novak :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija |publisher=Rtvslo.si |accessdate=2017-09-09}}</ref> Novak served as the mayor of [[Moravče]], got elected to the [[European Parliament]] in 2004 and led the party at the 2011 general election when the party returned to the National Assembly.<ref name="delo.si">{{cite web |url=http://www.delo.si/predsedniske-volitve#details |title=Predsedniške volitve 2017 - drugi krog |publisher=Delo.si |accessdate=2017-11-12 |archive-url=https://web.archive.org/web/20171022205435/http://www.delo.si/predsedniske-volitve#details |archive-date=22 October 2017 |url-status=dead }}</ref>
+
+===Maja Makovec Brenčič===
+In September, the [[Modern Centre Party]] announced that their candidate would be [[Maja Makovec Brenčič]], the minister of education, science, and sport.<ref>{{cite web|url=http://www.rtvslo.si/slovenija/kandidatka-smc-ja-za-predsedniske-volitve-je-maja-makovec-brencic/431969 |title=Kandidatka SMC-ja za predsedniške volitve je Maja Makovec Brenčič :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija |publisher=Rtvslo.si |date=2017-08-31 |accessdate=2017-09-09}}</ref> Before entering the politics, Makovec Brenčič was a professor at the Faculty of Economics, [[University of Ljubljana]].<ref name="delo.si"/>
+
+===Romana Tomc===
+The [[Slovenian Democratic Party]] announced the member of [[European Parliament]] [[Romana Tomc]] as their candidate.<ref>{{cite web|url=http://www.rtvslo.si/slovenija/romana-tomc-bo-kandidatka-sds-a-na-predsedniskih-volitvah/432107 |title=Romana Tomc bo kandidatka SDS-a na predsedniških volitvah :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija |publisher=Rtvslo.si |accessdate=2017-09-09}}</ref> Tomc was also elected to the National Assembly in the 2011 election and was the vice-president of the Assembly.<ref name="delo.si"/>
+
+===Boris Popovič===
+[[Boris Popovič]], mayor of [[Koper]], was backed by his party Slovenia Forever.<ref name="autogenerated2">{{cite web|url=http://www.delo.si/novice/slovenija/pestro-ob-stojnicah-za-zbiranje-podpisov-pod-predsedniske-kandidature.html |title=Pestro ob stojnicah za zbiranje podpisov pod predsedniške kandidature |publisher=Delo.si |date=2017-03-29 |accessdate=2017-09-05}}</ref> Prior to the presidential election, Popovič served three terms as a mayor. He was involved in several legal cases.<ref name="delo.si"/>
+
+===Angelca Likovič===
+Angelca Likovič was backed by the party [[Voice for Children and Families]].<ref>{{cite web|url=http://www.rtvslo.si/slovenija/angelca-likovic-bo-kandidatka-glasu-za-otroke-in-druzine/431725 |title=Angelca Likovič bo kandidatka Glasu za otroke in družine :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija |publisher=Rtvslo.si |accessdate=2017-09-05}}</ref> Prior to retirement, Likovič was a teacher and the headmistress of an elementary school [[Majda Vrhovnik|O.Š. Majda Vrhovnik]] in Ljubljana. Likovič is also known as a prominent opponent of the same-sex marriage law in the [[2015 Slovenian same-sex marriage referendum|2015 referendum]] and as a commentator in various [[reality show]]s.<ref name="delo.si"/>
+
+===Andrej Šiško===
+[[Andrej Šiško]] was backed by the party United Slovenia.<ref>{{Cite news|url=http://www.rtvslo.si/slovenija/grem-volit-2017/novice/devet-potrjenih-kandidatov-za-predsednika-republike/433739|title=Devet potrjenih kandidatov za predsednika republike|work=Grem Volit 2017|access-date=2017-09-28|language=sl-SI}}</ref> A former member of [[Slovenian Territorial Defence]], Šiško was also the leader of the [[ultras]] group Viole, supporters of [[NK Maribor]]. He was convicted to a year and ten months in prison.<ref name="delo.si"/>
+
+===Suzana Lara Krause===
+Suzana Lara Krause was backed by [[Slovenian People's Party]].<ref>{{cite web|url=http://siol.net/novice/slovenija/to-je-nova-kandidatka-za-predsednico-drzave-448111 |title=To je nova kandidatka za predsednico drĹžave |publisher=siol.net |accessdate=2017-11-12}}</ref> Krause graduated as a teacher of Slovenian and Russian languages, is self-employed and was not widely known in Slovenian politics prior to the election.<ref>{{cite web|url=https://siol.net/novice/predsedniske-volitve/suzana-lara-krause-letnik-1979-450258 |title=SUZANA LARA KRAUSE (letnik 1979) |publisher=siol.net |date=2017-10-22 |accessdate=2017-11-12}}</ref>
+
+===Failed or withdrawn===
+[[Milan Jazbec]], Slovenia's ambassador to Macedonia, announced already in April that he would run as an independent candidate.<ref>{{Cite news| url=https://www.dnevnik.si/1042769395 |title= Milan Jazbec prvi izzivalec Boruta Pahorja v predsedniški tekmi |accessdate=19 April 2017|newspaper=Dnevnik|date=19 April 2017}}</ref> Jazbec stated that his decision was based on a promise to the late Slovenian statesman [[France Bučar]] that he would become actively involved with national politics.<ref name="autogenerated1"/> Due to lack of support, Jazbec dropped out of the race in September.<ref>{{cite web |author=Ik, Sta |url=http://mladina.si/181975/jazbec-odstopil-od-predsedniske-kandidature/ |title=Jazbec odstopil od predsedniške kandidature |publisher=Mladina.Si |accessdate=2017-11-12 |archive-url=https://web.archive.org/web/20170921113107/http://www.mladina.si/181975/jazbec-odstopil-od-predsedniske-kandidature/ |archive-date=21 September 2017 |url-status=dead }}</ref>
+
+[[Zmago Jelinčič Plemeniti]], a former member of the National Assembly and the president of the far right [[Slovenian National Party]], announced he would run for office for the third time.<ref>{{Cite news| url=http://www.delo.si/novice/ljubljana/jelincic-proti-pahorju-tudi-na-svoji-fasadi.html| title=Jelinčič proti Pahorju tudi na svoji fasadi|accessdate=4 June 2017|newspaper=Delo|date=21 April 2017}}</ref> Jelinčič previously ran in the [[2002 Slovenian presidential election|2002 election]], where he finished 3rd with 8.49% of the vote,<ref>{{cite web |url=http://www.dvk-rs.si/index.php/si/arhiv-predsednika-rs/leto-2002 |title=Volitve predsednika RS - leto 2002 &#124; Državna volilna komisija |publisher=Dvk-rs.si |accessdate=2017-06-19 |archive-date=18 September 2017 |archive-url=https://web.archive.org/web/20170918020928/http://www.dvk-rs.si/index.php/si/arhiv-predsednika-rs/leto-2002 |url-status=dead }}</ref> and in the [[2007 Slovenian presidential election|2007 election]], where he finished fourth—but with a significantly higher vote share, at 19.16%.<ref>{{cite web |url=http://www.dvk-rs.si/index.php/si/arhiv-predsednika-rs/leto-2007 |title=Volitve predsednika RS - leto 2007 &#124; Državna volilna komisija |publisher=Dvk-rs.si |accessdate=2017-06-19 |archive-date=25 September 2014 |archive-url=https://web.archive.org/web/20140925074322/http://www.dvk-rs.si/index.php/si/arhiv-predsednika-rs/leto-2007 |url-status=dead }}</ref>
+
+Some people announced their candidacies with support of non-parliamentary political parties, including sociologist Luj Šprohar (backed by [[Liberal Democracy of Slovenia]]).<ref>{{cite web|url=http://www.rtvslo.si/slovenija/sprohar-se-bo-osredotocil-na-drzavljanske-pravice/431734 |title=Šprohar se bo osredotočil na državljanske pravice :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija |publisher=Rtvslo.si |accessdate=2017-09-09}}</ref>
+
+Other people that announced their intention to run for office, including Milan Robič, Jožef Jarh, Ludvik Poljanec, Aleš Cepič, a comedian Žiga Papež, singers Damjan Murko and Dominik Kozarič, poet, dramatist, and actor [[Andrej Rozman-Roza]],<ref name="rtvslo1"/> and sociologist Valerija Korošec.<ref name="autogenerated2"/>
+
+==Opinion polls==
+=== Hypothetical polling <small>(– 28 September 2017)</small> ===
+{| class="wikitable" style="text-align:center; font-size:90%; line-height:14px;"
+|-
+! rowspan="3" style="width:95px;" |Date(s)
+! rowspan="3" style="width:110px;" |Pollster
+! rowspan="3" style="width:35px;" |Sample
+size
+! style="width:60px;" |[[File:Munich Security Conference 2015 by Olaf Kosinsky-330.jpg|86x86px]]
+! style="width:60px;" |[[File:Marjan Šarec-za splet (cropped).jpg|86x86px]]
+! style="width:60px;" |[[File:LjudmilaNovak 03 (cropped).jpg|86x86px]]
+! style="width:60px;" |[[File:Zmago Jelinčič 2011 (cropped).jpg|86x86px]]
+! style="width:60px;" |[[File:Milan Jazbec.jpg|86x86px]]
+! style="width:60px;" |[[File:Andrej Rozman - Roza 02.jpg|86x86px]]
+!
+! style="width:60px;" |[[File:Romana Tomc cropped.jpg|86x86px]]
+! style="width:60px;" |[[File:Maja_Makovec_Brenčič.jpg|86x86px]]
+! style="width:60px;" |[[File:Boris_Popovič.jpg|86x86px]]
+! style="width:60px;" |
+! style="width:60px;" |
+|-
+| style="background:#D3D3D3;" |
+| style="background:#1980C7;" |
+| style="background:{{party color|New Slovenia}};" |
+|
+|
+|
+|
+| style="background:#FEF200;" |
+| style="background:{{party color|Party of Miro Cerar}};" |
+| style="background:#EFB33B;" |
+| style="background:#BF94E4;" |
+| style="background:#00984A;" |
+|-
+![[Borut Pahor|Pahor]]
+{{small|[[Independent politician|Ind]]}}
+![[Marjan Šarec|Šarec]]
+{{small|[[List of Marjan Šarec|LMŠ]]}}
+![[Ljudmila Novak|Novak]]
+{{small|[[New Slovenia|NSi]]}}
+![[Zmago Jelinčič Plemeniti|Jelinčič]]
+
+![[Milan Jazbec|Jazbec]]
+
+![[Andrej Rozman|Rozman]]
+
+!Murko
+
+![[Romana Tomc|Tomc]]
+{{small|[[Slovenian Democratic Party|SDS]]}}
+![[Maja Makovec Brenčič|Brenčič]]
+{{small|[[Modern Centre Party|SMC]]}}
+![[Boris Popovič|Popovič]]
+{{small|[[Slovenia is Ours|SJN]]}}
+!Likovič
+{{small|[[Voice for Children and Families|ZaO]]}}
+!Krause
+{{small|[[Slovenian People's Party|SLS]]}}
+|-
+|22 Sep
+| colspan="14" |'''State Election Commission deadline to submit candidacy applications for review and confirmation'''
+|-
+|23 Sep
+|Mediana<ref>{{Cite news|url=http://www.24ur.com/novice/slovenija/borut-pahor-nesporni-favorit-za-zmago.html|title=Borut Pahor nesporni favorit za zmago, ključ do razpleta pa ima v rokah 17 odstotkov še neodločenih volivcev|work=24ur.com|access-date=2017-09-26|language=sl}}</ref>
+|827
+| style="background:#D3D3D3" |'''44.7%'''
+|17.2%
+|6.8%
+|–
+|1.5%
+|–
+|–
+|5.2%
+|1.2%
+|2.4%
+|2.4%
+|2.4%
+|-
+|15–17 Sep
+|Valicon<ref name=":0">{{Cite news|url=http://www.valicon.net/wp-content/uploads/2017/10/Sporo%C4%8Dilo-za-javnost-2017-10-02.pdf|title=Volitve predsednika RS: Dva kandidata za drugi krog, ki ga morda tudi ne bo|archive-date=7 October 2017|access-date=7 October 2017|archive-url=https://web.archive.org/web/20171007171130/http://www.valicon.net/wp-content/uploads/2017/10/Sporo%C4%8Dilo-za-javnost-2017-10-02.pdf|url-status=dead}}</ref>
+|453
+| style="background:#D3D3D3" |'''36.5%'''
+|24.4%
+|5.4%
+|–
+|–
+|–
+|–
+|5.0%
+|3.2%
+|–
+|–
+|–
+|-
+|11–13 Sep
+|Parsifal<ref>{{Cite news|url=http://nova24tv.si/news/opinion-poll-check-whether-pahor-would-win-in-first-round/|title=Opinion poll: Check whether Pahor would win in first round {{!}} Nova24TV|date=2017-09-19|work=Nova24TV|access-date=2017-09-26|language=sl-SI}}</ref>
+|450
+| style="background:#D3D3D3" |'''50.2%'''
+|19.8%
+|4.2%
+|–
+|–
+|–
+|–
+|4.3%
+|1.3%
+|3.5%
+|3.5%
+|3.5%
+|-
+|{{nowrap|31 Aug–7 Sep}}
+|Episcenter<ref>{{cite web|url=https://www.domovina.je/anketa-domovine-novakova-z-realnimi-moznostmi-za-2-krog-tomceva-za-zdaj-se-zaostaja/|title=Anketa Domovine: Novakova z realnimi možnostmi za 2. krog, Tomčeva za zdaj še zaostaja |website=www.domovina.je|language=sl-SI|access-date=2017-09-14}}</ref>
+|1521
+| style="background:#D3D3D3" |'''46.7%'''
+|18.5%
+|11.6%
+|–
+|2.8%
+|–
+|–
+|–
+|1.2%
+|–
+|–
+|–
+|-
+|16–18 Aug
+|Episcenter<ref>{{Cite news|url=http://m.slovenskenovice.si/novice/slovenija/je-pahor-ze-dobil-konkretnega-tekmeca-novakova-ga-ne-ogroza|title=Je Pahor že dobil konkretnega tekmeca? Novakova ga ne ogroža|work=Slovenskenovice.si|access-date=2017-08-31|language=sl}}</ref><ref>{{Cite news|url=http://www.rtvslo.si/slovenija/anketa-najblizja-zasledovalca-pahorja-sarec-in-novakova/431065|title=Anketa: Najbližja zasledovalca Pahorja Šarec in Novakova|date=28 August 2017|work=rtvslo.si|access-date=28 August 2017}}</ref>
+|450
+| style="background:#D3D3D3" |'''37.2%'''
+|23.1%
+|10.6%
+|3.3%
+|3.2%
+|1.6%
+|1.3%
+|–
+|–
+|–
+|–
+|–
+|-
+|26–28 Jul
+|[[Delo (newspaper)|Delo Stik]]<ref>{{Cite news|url=http://www.delo.si/novice/politika/marjan-sarec-se-kaze-kot-mocan-kandidat.html|title=Anketa Dela: Marjan Šarec se kaže kot močan kandidat|work=delo.si|access-date=2017-08-31}}</ref>
+|722
+| style="background:#D3D3D3" |'''36.5%'''
+|20.6%
+|–
+|–
+|5.2%
+|2.7%
+|1.1%
+|–
+|–
+|–
+|–
+|–
+|-
+|25 Jun
+|Mediana<ref>{{Cite news|url=http://www.24ur.com/novice/slovenija/arbitraza-utegne-premesati-priljubljenost-politikov-med-strankami-suvereno-vodi-sds.html|title=Arbitraža utegne premešati priljubljenost politikov, med strankami suvereno vodi SDS|work=24ur.com|access-date=2017-08-31|language=sl}}</ref>
+|1241
+| style="background:#D3D3D3" |'''51.5%'''
+|24.8%
+|–
+|–
+|3.9%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|-
+|19–20 Apr
+|[[Delo (newspaper)|Delo]]<ref>{{cite news|url=http://www.delo.si/novice/politika/anketa-dela-pahor-ne-bi-dobil-polovice-glasov.html|title=Anketa Dela: Pahor ne bi dobil polovice glasov!|date=3 May 2017|newspaper=Delo|accessdate=4 June 2017|archive-date=28 August 2017|archive-url=https://web.archive.org/web/20170828190959/http://www.delo.si/novice/politika/anketa-dela-pahor-ne-bi-dobil-polovice-glasov.html|url-status=dead}}</ref>
+|1140
+| style="background:#D3D3D3" |'''44%'''
+|–
+|–
+|10%
+|12%
+|–
+|–
+|–
+|–
+|–
+|–
+|–
+|}
+
+=== First round <small>(28 September 2017 – 22 October 2017)</small> ===
+{| class="wikitable" style="text-align:center; font-size:90%; line-height:14px;"
+|-
+! rowspan="3" style="width:95px;" |Date(s)
+! rowspan="3" style="width:110px;" |Pollster
+! rowspan="3" style="width:35px;" |Sample
+size
+! style="width:60px;" |[[File:Munich Security Conference 2015 by Olaf Kosinsky-330.jpg|86x86px]]
+! style="width:60px;" |[[File:Marjan Šarec-za splet (cropped).jpg|86x86px]]
+! style="width:60px;" |[[File:LjudmilaNovak 03 (cropped).jpg|86x86px]]
+! style="width:60px;" |[[File:Romana Tomc cropped.jpg|86x86px]]
+! style="width:60px;" |[[File:Maja_Makovec_Brenčič.jpg|86x86px]]
+! style="width:60px;" |[[File:Boris_Popovič.jpg|86x86px]]
+! style="width:60px;" |
+! style="width:60px;" |
+! style="width:60px;" |
+|-
+| style="background:#D3D3D3;" |
+| style="background:#1980C7;" |
+| style="background:{{party color|New Slovenia}};" |
+| style="background:#FEF200;" |
+| style="background:{{party color|Party of Miro Cerar}};" |
+| style="background:#EFB33B;" |
+| style="background:#BF94E4;" |
+| style="background:#497B39;" |
+| style="background:#00984A;" |
+|-
+![[Borut Pahor|Pahor]]
+{{small|[[Independent politician|Ind]]}}
+![[Marjan Šarec|Šarec]]
+{{small|[[List of Marjan Šarec|LMŠ]]}}
+![[Ljudmila Novak|Novak]]
+{{small|[[New Slovenia|NSi]]}}
+![[Romana Tomc|Tomc]]
+{{small|[[Slovenian Democratic Party|SDS]]}}
+![[Maja Makovec Brenčič|Brenčič]]
+{{small|[[Modern Centre Party|SMC]]}}
+![[Boris Popovič|Popovič]]
+{{small|[[Slovenia is Ours|SJN]]}}
+!Likovič
+{{small|[[Voice for Children and Families|ZaO]]}}
+![[Andrej Šiško|Šiško]]
+{{small|ZSi}}
+!Krause
+{{small|[[Slovenian People's Party|SLS]]}}
+|-
+|22 Oct
+|Episcenter<ref name=":1">{{Cite news|url=https://www.vecer.com/volilna-napoved-rtv-slovenija-v-prvem-krogu-zmaga-boruta-pahorja-6334210|title=(FOTO) Prvi krog prepričljivo dobil Pahor, Šarec se veseli drugega|work=Časnik Večer d.o.o.|access-date=2017-10-28|language=sl-si}}</ref>
+|827
+| style="background:#D3D3D3" |'''56.2%'''
+|22.5%
+|5.4%
+|10.5%
+|0.9%
+|0.8%
+|0.9%
+|1.9%
+|1.0%
+|-
+|22 Oct
+|Mediana<ref name=":1" />
+|453
+| style="background:#D3D3D3" |'''47.2%'''
+|20.4%
+|8.8%
+|15.2%
+|0.9%
+|2.6%
+|2.1%
+|2.2%
+|0.6%
+|-
+| colspan="12" |'''Exit polls'''
+|-
+|14-16 Oct
+|Ninamedia<ref>{{cite web|url=http://reporter.si/clanek/slovenija/anketa-pahor-v-prvem-krogu-600327|title=Anketa: Pahor že v prvem krogu {{!}} Revija Reporter|website=Revija Reporter|language=sl-SI|access-date=2017-10-28}}</ref>
+|450
+| style="background:#D3D3D3" |'''57.9%'''
+|22.7%
+|5.4%
+|8.1%
+|0.8%
+|2.4%
+|2.1%
+|0.1%
+|0.5%
+|-
+|5-13 Oct
+|Episcenter<ref>{{Cite news|url=http://www.rtvslo.si/slovenija/anketa-pahor-prepricljivo-sarcu-podpora-upadla-najvisji-skok-uspel-sisku/435107|title=Anketa: Pahor prepričljivo, Šarcu podpora upadla, najvišji skok uspel Šišku|work=Prvi interaktivni multimedijski portal, MMC RTV Slovenija|access-date=2017-10-28}}</ref>
+|1521
+| style="background:#D3D3D3" |'''55.5%'''
+|21.2%
+|8.2%
+|7.8%
+|1.4%
+|1.2%
+|1.5%
+|2.5%
+|0.7%
+|-
+|5–7 Oct
+|Ninamedia<ref>{{cite web|url=https://www.dnevnik.si/1042787176|title="Tracking poll": Pahor že v prvem ali vendarle dvoboj s Šarcem v drugem krogu? {{!}} Dnevnik|website=www.dnevnik.si|access-date=2017-10-10|archive-date=10 October 2017|archive-url=https://web.archive.org/web/20171010211103/https://www.dnevnik.si/1042787176|url-status=dead}}</ref><ref>{{Cite news|url=https://www.rtvslo.si/gremvolit2017/novice/anketi-pahor-povecuje-prednost-in-priljubljenost/434648|title=Anketi: Pahor povečuje prednost in priljubljenost|work=Grem Volit 2017|access-date=2017-10-10|language=sl-SI}}</ref><ref>{{Cite news|url=https://www.vecer.com/prvo-vecerovo-merjenje-javnega-mnenja-miren-tek-za-predsednika-pahorja-6324640|title=Prvo merjenje javnega mnenja: Miren tek za predsednika Pahorja|work=Časnik Večer d.o.o.|access-date=2017-10-12|language=sl-si|archive-url=https://web.archive.org/web/20171013014159/https://www.vecer.com/prvo-vecerovo-merjenje-javnega-mnenja-miren-tek-za-predsednika-pahorja-6324640|archive-date=13 October 2017|url-status=dead}}</ref>
+|450
+| style="background:#D3D3D3" |'''40.4%'''
+|14.9%
+|3.6%
+|5.5%
+|0.6%
+|1.0%
+|0.3%
+|1.3%
+|0.1%
+|-
+|2–6 Oct
+|Parsifal<ref>{{Cite news|url=http://nova24tv.si/slovenija/politika/anketa-pahor-in-jansa-na-vrhu-sarec-in-cerar-porazenca/|title=Anketa: Pahor in Janša na vrhu, Šarec in Cerar poraženca, Tomčeva zmanjšuje razliko {{!}} Nova24TV|date=2017-10-09|work=Nova24TV|access-date=2017-10-10|language=sl-SI|archive-date=10 October 2017|archive-url=https://web.archive.org/web/20171010211102/http://nova24tv.si/slovenija/politika/anketa-pahor-in-jansa-na-vrhu-sarec-in-cerar-porazenca/|url-status=dead}}</ref>
+|722
+| style="background:#D3D3D3" |'''31.5%'''
+|13.1%
+|3.0%
+|4.1%
+|1.1%
+|0.7%
+|0.3%
+|1.0%
+|0.1%
+|-
+|29 Sep–6 Oct
+|Episcenter<ref>{{Cite news|url=http://www.rtvslo.si/slovenija/grem-volit-2017/anketa-pahorju-se-na-predsedniskih-volitvah-nasmiha-zmaga-ze-v-1-krogu/434476|title=Anketa: Pahorju se na predsedniških volitvah nasmiha zmaga že v 1. krogu|work=RTVSLO|access-date=2017-10-06|language=sl}}</ref>
+|1241
+| style="background:#D3D3D3" |'''31.2%'''
+|13.3%
+|4.9%
+|4.4%
+|1.2%
+|0.6%
+|0.5%
+|0.5%
+|0.2%
+|-
+|29 Sep–1 Oct
+|Valicon<ref name=":02">{{Cite news|url=http://www.valicon.net/wp-content/uploads/2017/10/Sporo%C4%8Dilo-za-javnost-2017-10-02.pdf|title=Volitve predsednika RS: Dva kandidata za drugi krog, ki ga morda tudi ne bo|archive-date=7 October 2017|access-date=7 October 2017|archive-url=https://web.archive.org/web/20171007171130/http://www.valicon.net/wp-content/uploads/2017/10/Sporo%C4%8Dilo-za-javnost-2017-10-02.pdf|url-status=dead}}</ref>
+|1140
+| style="background:#D3D3D3" |'''41.2%'''
+|22.0%
+|5.3%
+|5.4%
+|3.7%
+|3.6%
+|2.3%
+|1.7%
+|0.8%
+|-
+|28–29 Sep
+|Delo Stik<ref>{{Cite news|url=http://www.delo.si/novice/politika/anketa-dela-pahor-na-poti-do-zmage-a-sele-v-drugem-krogu-volitev.html|title=Anketa Dela Pahor na poti do zmage, a šele v drugem krogu|work=Delo.si|access-date=2017-10-02|language=sl}}</ref><ref>{{Cite news|url=http://www.rtvslo.si/slovenija/grem-volit-2017/anketa-pahorjev-najmocnejsi-protikandidat-sarec/434016|title=Anketa: Pahorjev najmočnejši protikandidat Šarec|work=Grem Volit 2017|access-date=2017-10-07|language=sl-SI}}</ref>
+|500
+| style="background:#D3D3D3" |'''34.8%'''
+|22.7%
+|10.6%
+|9.9%
+|2%
+|1%
+|1%
+|1%
+|1%
+|}
+
+===Second round <small>(23 October 2017 – 12 November 2017)</small>===
+{| class="wikitable" style="text-align:center; font-size:90%; line-height:14px;"
+|-
+! rowspan="3" style="width:95px;" |Date(s)
+! rowspan="3" style="width:110px;" |Pollster
+! rowspan="3" style="width:35px;" |Sample
+size
+! style="width:60px;" |[[File:Munich Security Conference 2015 by Olaf Kosinsky-330.jpg|86x86px]]
+! style="width:60px;" |[[File:Marjan Šarec-za splet (cropped).jpg|86x86px]]
+! rowspan="3" |Undecided
+! rowspan="3" |Lead
+|-
+| style="background:#D3D3D3;" |
+| style="background:#1980C7;" |
+|-
+![[Borut Pahor|Pahor]]
+{{small|[[Independent politician|Ind]]}}
+![[Marjan Šarec|Šarec]]
+{{small|[[List of Marjan Šarec|LMŠ]]}}
+|-
+|10 November 2017
+|Mediana<ref>{{Cite news|url=http://www.24ur.com/novice/volitve/se-bo-tesno-razlika-med-pahorjem-in-sarcem-premajhna-za-dokoncno-napoved-zmagovalca.html|title=Še bo tesno. Razlika med Pahorjem in Šarcem je premajhna za dokončno napoved zmagovalca|access-date=2017-11-10|language=sl-SI}}</ref>
+|893
+| style="background:#D3D3D3" |'''48.6%'''
+|44,5%
+|6,9%
+| style="background:#D3D3D3" |'''4.1%'''
+|-
+|10 November 2017
+|Delo<ref>{{Cite news|url=http://www.delo.si/novice/politika/dva-dni-pred-volitvami-pahorju-dobro-kaze.html|title=Dva dni pred volitvami Pahorju dobro kaže|access-date=2017-11-10|language=sl-SI}}</ref>
+|1025
+| style="background:#D3D3D3" |'''56.3%'''
+|43,7%
+|0%
+| style="background:#D3D3D3" |'''12.6%'''
+|-
+|9 November 2017
+|Dnevnik<ref>{{Cite news|url=https://www.dnevnik.si/1042790836|title=Javnomnenjska anketa: Pahor s prednostjo, a pičlo|access-date=2017-11-09|language=sl-SI|archive-date=11 November 2017|archive-url=https://web.archive.org/web/20171111204832/https://www.dnevnik.si/1042790836|url-status=dead}}</ref>
+|
+| style="background:#D3D3D3" |'''53%'''
+|47.0%
+|0%
+| style="background:#D3D3D3" |'''6%'''
+|-
+|24-26 October 2017
+|Ninamedia<ref>{{Cite news|url=https://www.vecer.com/pahor-na-vrhu-a-ne-zelo-trdno-6338176|title=Pahor na vrhu, a ne zelo trdno|work=Časnik Večer d.o.o.|access-date=2017-10-28|language=sl-si}}</ref><ref>{{Cite news|url=https://www.rtvslo.si/slovenija/grem-volit-2017/anketa-volilna-zmaga-v-drugem-krogu-se-nasmiha-pahorju/436419|title=Anketa: Volilna zmaga v drugem krogu se nasmiha Pahorju|work=Grem Volit 2017|access-date=2017-10-28|language=sl-SI}}</ref>
+|700
+| style="background:#D3D3D3" |'''51.2%'''
+|34.0%
+|14.8%
+| style="background:#D3D3D3" |'''17.2%'''
+|}
+
+==Results==
+
+=== First round ===
+The first round of the election was marked by the lowest voter turnout in a presidential election since 1992, at 44.2%.<ref>{{cite web |title=Volitve predsednika države: volilna udeležba 43,57-odstotna &#124; Grem Volit 2017 |url=http://www.rtvslo.si/slovenija/grem-volit-2017/novice/volitve-predsednika-drzave-volilna-udelezba-37-78-odstotna/435818 |accessdate=2017-11-12 |publisher=Rtvslo.si}}</ref> Despite most opinion polls predicting Pahor's victory in the first round (also, the exit polls predicted Pahor winning over 56% of the vote)<ref>{{cite web |title=MMCživo: Volilni dan v sliki in besedi :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija |url=http://www.rtvslo.si/slovenija/mmczivo-volilni-dan-v-sliki-in-besedi/435851 |accessdate=2017-11-12 |publisher=Rtvslo.si}}</ref> Pahor only won 47.2%, resulting in the run-off against the second-placed Šarec. In his first reaction, Pahor called his result "encouraging given the general distrust in politics".<ref name="dnevnik.si">{{cite web |title=12. novembra Pahor proti Šarcu &#124; Dnevnik |url=https://www.dnevnik.si/1042788706/slovenija/1042788706 |accessdate=2017-11-12 |publisher=Dnevnik.si}}</ref> Šarec stated he was happy with the result and with the fact that he made it to the run-off, he expressed hope that it will be possible to discuss topics that were not addressed in the first round campaign.<ref>{{cite web |title=Pahor in Šarec v drugem krogu prepričevanja volivcev &#124; Grem Volit 2017 |url=http://www.rtvslo.si/gremvolit2017/novice/pahor-in-sarec-v-drugem-krogu-prepricevanja-volivcev/435893 |accessdate=2017-11-12 |publisher=Rtvslo.si}}</ref>
+
+In the reactions to the results, media noticed that Pahor's failure to secure the victory in the first round was likely linked to the low turnout, the campaign was seen as "boring", foreign media also commented on Šarec's background as an actor.<ref>{{cite web |date=2017-10-23 |title="Pahorjeva priljubljenost izvira iz dejstva, da se Slovenci nimajo nad ničimer pritoževati" :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija |url=http://www.rtvslo.si/svet/pahorjeva-priljubljenost-izvira-iz-dejstva-da-se-slovenci-nimajo-nad-nicimer-pritozevati/435924 |accessdate=2017-11-12 |publisher=Rtvslo.si}}</ref> Commentators noticed that Tomc got almost twice as many votes as Novak, which some viewed as a victory of SDS over NSi. However, the candidates of the right-wing parties failed to more than a fifth of the vote, drawing comparison with [[Barbara Brezigar]] (SDS) who made it to the run-off in the 2002 election.<ref name="rtvslo.si">{{cite web |title=Pribac: Šarec lahko zmaga, če ga podpre SMC. Tomšič: Desnica ne more biti zadovoljna. &#124; Grem Volit 2017 |url=http://www.rtvslo.si/slovenija/grem-volit-2017/pribac-sarec-lahko-zmaga-ce-ga-podpre-smc-tomsic-desnica-ne-more-biti-zadovoljna/435930 |accessdate=2017-11-12 |publisher=Rtvslo.si}}</ref> SDS viewed the result of Tomc as a success, given the late start of the campaign and the fact that she won more vote than the opinion polls predicted,<ref>{{cite web |title=Iz štaba SDS-a - Romana Tomc: Izid je uspeh, 100-odstotno višji od napovedi &#124; Grem Volit 2017 |url=http://www.rtvslo.si/gremvolit2017/novice/iz-staba-sds-a-romana-tomc-izid-je-uspeh-100-odstotno-visji-od-napovedi/435861 |accessdate=2017-11-12 |publisher=Rtvslo.si}}</ref> while [[Janez Janša]] stated that there are no major differences between Pahor and Šarec anyway.<ref name="rtvslo.si" /> The bad result of the SMC candidate, Makovec Brenčič, was seen as a major blow to the largest party in the government and a warning before the 2018 general election.<ref>{{cite web |title=Kaj o predsedniških volitvah pišejo tuji mediji |url=http://www.delo.si/novice/predsedniske-volitve/kaj-o-predsedniskih-volitvah-pisejo-tuji-mediji.html |accessdate=2017-11-12 |publisher=Delo.si}}</ref> Šiško's result was seen as a surprise, as he ran as an anti-establishment candidate and even placed fourth in Maribor electoral unit.<ref name="dnevnik.si" /> The result of Likovič that finished last was seen as an indication that there is little actual support for [[Voice for Children and Families|ZaO]] party outside the referendum campaigns.<ref>{{cite web |title=VIDEO: Kaj si lahko obetamo v drugem krogu? |url=http://www.delo.si/multimedija/video/video-ali-zerdin-in-mario-belovic-o-predsedniskih-volitvah.html |accessdate=2017-11-12 |publisher=Delo.si}}</ref>
+
+=== Second round ===
+Pahor won the second round with 53% of the vote. Voter turnout was even lower than in the first round, at 42.1%.<ref name="volitve1" /><ref name="rtvslo3">{{cite web |title=MMCživo: Pahor po zmagi: Potrudil se bom, da bo moj glas bolj slišan :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija |url=http://www.rtvslo.si/slovenija/mmczivo-pahor-po-zmagi-potrudil-se-bom-da-bo-moj-glas-bolj-slisan/437655 |accessdate=2017-11-12 |publisher=Rtvslo.si}}</ref> Pahor won in six electoral units while Šarec won in Kranj and Ljubljana Bežigrad.<ref name="rtvslo2" />
+Šarec quickly conceded and congratulated Pahor.<ref>{{cite web |title=MMCživo: Pahor po zmagi: Potrudil se bom, da bo moj glas bolj slišan :: Prvi interaktivni multimedijski portal, MMC RTV Slovenija |url=http://www.rtvslo.si/slovenija/mmczivo-sarec-ze-cestital-pahorju-za-zmago/437655 |accessdate=2017-11-12 |publisher=Rtvslo.si}}</ref>
+
+In his first reaction, Pahor acknowledged that many votes he received in the 2012 election as votes against the incumbent president [[Danilo Türk]] while this time people who voted for him did so in support of his activities. He pledged to be more vocal in the next term but will continue to avoid divisions between the left- and right-side parties.<ref name="rtvslo3" /> Pahor's head of campaign saw the high percent that Šarec won as a result of the election turning out to be a "referendum against Pahor".<ref>{{cite web |agency=Foto: Reuters |title=Pahor vodi, Šarec priznao poraz na slovenskim predsjedničkim izborima - Večernji.hr |url=https://www.vecernji.hr/vijesti/pahor-sarec-slovenija-predsjednicki-izbori-1207249 |accessdate=2017-11-12 |publisher=Vecernji.hr}}</ref>
+
+Šarec expressed his satisfaction with the result, stating that it represented the desire of the people for a change. He further argued that the government should take note of the support demonstrated for a grassroots candidate representing the younger generation. After being asked whether he planned to continue to carry on the political momentum into the upcoming general election in 2018, he refused to make commitments, although he said that several people had already asked him to run.<ref name="rtvslo3" />
+
+[[Miro Cerar]], the Prime Minister, whose SMC endorsed none of the candidates,<ref>{{cite web |title=SMC ne bo podprl nobenega predsedniškega kandidata &#124; Grem Volit 2017 |url=https://www.rtvslo.si/gremvolit2017/novice/smc-ne-bo-podprl-nobenega-predsedniskega-kandidata/436570 |accessdate=2017-11-12 |publisher=Rtvslo.si}}</ref> and [[Milan Brglez]], the Speaker of the National Assembly, both congratulated Pahor, as did the presidents of Austria [[Alexander Van der Bellen]] and Croatia [[Kolinda Grabar-Kitarović]].<ref name="rtvslo3" /> [[Janez Janša]] of SDS also send congratulations but warned of the low voter turnout, which was "below the legitimate level".<ref>{{cite web |author=Izak Košir |title=Šarec Pahorju čestital za zmago |url=http://www.mladina.si/182771/sarec-pahorju-ze-cestital-za-zmago/ |accessdate=2017-11-12 |publisher=Mladina.Si}}</ref>[[File:Präsidentschaftswahl Slowenien 2017.svg|thumb|300px|Winner vote share in the first and second round by locality.]]
+<onlyinclude>{{Election results
+|cand1=[[Borut Pahor]]|party1=Independent (supported by [[Social Democrats (Slovenia)|Social Democrats]])|votes1=355117|votes1_2=378307
+|cand2=[[Marjan Šarec]]|party2=[[List of Marjan Šarec]]|votes2=186235|votes2_2=334239
+|cand3=[[Romana Tomc]]|party3=[[Slovenian Democratic Party]]|votes3=102925
+|cand4=[[Ljudmila Novak]]|party4=[[New Slovenia]]|votes4=54437
+|cand5=[[Andrej Šiško]]|party5=United Slovenia Movement|votes5=16636
+|cand6=[[Boris Popovič]]|party6=Slovenia Forever|votes6=13559
+|cand7=[[Maja Makovec Brenčič]]|party7=[[Modern Centre Party]]|votes7=13052
+|cand8=Suzana Lara Krause|party8=[[Slovenian People's Party]]|votes8=5885
+|cand9=Angelca Likovič|party9=[[Voice for Children and Families]]|votes9=4418
+|invalid=5634|invalid2=9255
+|electorate=1713762|electorate2=1713473
+|source=[http://volitve.gov.si/vp2017/#/prva Volitve]
+}}</onlyinclude>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+{{Slovenian elections}}
+
+[[Category:2017 elections in Europe|Slovenia]]
+[[Category:2017 in Slovenia|Presidential]]
+[[Category:October 2017 in Europe|Slovenia]]
+[[Category:November 2017 in Europe|Slovenia]]
+[[Category:Presidential elections in Slovenia]]
+[[Category:November 2017 elections]]

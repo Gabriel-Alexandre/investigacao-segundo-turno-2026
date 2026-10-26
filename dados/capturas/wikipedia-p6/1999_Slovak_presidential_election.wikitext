@@ -1,0 +1,71 @@
+{{Short description|none}}
+{{Infobox election
+| country = Slovakia
+| type = presidential
+| previous_election = 1998 Slovak presidential election
+| previous_year = 1998
+| next_election = 2004 Slovak presidential election
+| next_year = 2004
+| election_date = 15 May 1999 (first round)<br>29 May 1999 (second round)
+| turnout = 73.89% (first round)<br />75.45% (second round)
+
+| image1 = Rudolf Schuster 2011.jpg
+| nominee1 = '''[[Rudolf Schuster]]'''
+| party1 = Party of Civic Understanding
+| popular_vote1 = '''1,727,481'''
+| percentage1 = '''57.18%'''
+
+| image2 = Vladimir Meciar.jpg
+| nominee2 = [[Vladimír Mečiar]]
+| party2 = Movement for a Democratic Slovakia
+| popular_vote2 = 1,293,642
+| percentage2 = 42.82%
+
+| map_image = {{Switcher
+|[[File:1999 Slovak presidential election - First Round Vote Strength.svg|300px]]
+|First round results by district
+|[[File:1999 Slovak presidential election - Second Round Vote Strength.svg|300px]]
+|Second round results by district
+|default=2
+}}
+
+| title = [[President of Slovakia|President]]
+| before_election = [[Mikuláš Dzurinda]] (acting)
+| after_election = [[Rudolf Schuster]]
+}}
+
+Presidential elections were held in [[Slovakia]] on 15 May 1999, with a second round on 29 May.<ref name=NS>[[Dieter Nohlen]] & Philip Stöver (2010) ''Elections in Europe: A data handbook'', p1747 {{ISBN|978-3-8329-5609-7}}</ref> Following a constitutional amendment in 1998 that introduced direct presidential elections for the first time,<ref>Nohlen & Stöver, p1740</ref> they resulted in a victory for [[Rudolf Schuster]], who received 57% of the vote in the run-off.<ref name=N2>Nohlen & Stöver, p1755</ref>
+
+==Results==
+{{Election results
+|cand1=[[Rudolf Schuster]]|party1=[[Party of Civic Understanding]]|votes1=1396950|votes1_2=1727481
+|cand2=[[Vladimír Mečiar]]|party2=[[Movement for a Democratic Slovakia]]|votes2=1097956|votes2_2=1293642
+|cand3=[[Magdaléna Vášáryová]]|party3=Independent|votes3=194635
+|cand4={{ill|Ivan Mjartan|sk}}|party4=Independent|votes4=105903
+|cand5=[[Ján Slota]]|party5=[[Slovak National Party]]|votes5=73836
+|cand6=[[Boris Zala]]|party6=Independent|votes6=29697
+|cand7={{ill|Juraj Švec|sk}}|party7=Independent|votes7=24077
+|cand8={{ill|Juraj Lazarčík|sk}}|party8=Independent|votes8=15386
+|cand9=[[Michal Kováč]]{{efn|Withdrew from the election,<ref name=N2/> but remained on the ballot paper}}|party9=Independent|votes9=5425
+|cand10={{ill|Ján Demikát|sk}}|party10=Slovak National Alternative|votes10=4537|color10=purple
+|invalid=36022|invalid2=28098
+|electorate=4038899|electorate2=4041181
+|source=Nohlen & Stöver
+}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[https://web.archive.org/web/20050828072849/http://www.statistics.sk/presid99/index.jsp Tables of official results]
+
+{{Slovak presidential elections}}
+{{Slovak elections}}
+
+[[Category:Presidential elections in Slovakia]]
+[[Category:1999 elections in Europe|Slovakia]]
+[[Category:1999 in Slovakia|Presidential election]]
+[[Category:May 1999 in Europe|Slovakia]]

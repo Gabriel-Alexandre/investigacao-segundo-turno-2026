@@ -1,0 +1,66 @@
+{{Short description|none}}
+{{Expand Serbian|topic=gov|date=July 2024}}
+{{EngvarB|date=December 2023}}
+{{Use dmy dates|date=December 2023}}
+{{Infobox election
+| country = Serbia
+| flag_year = 1991
+| type = presidential
+| previous_election = 1997 Serbian general election
+| previous_year = {{nowrap|Sept–Oct 1997}}
+| next_election = September–October 2002 Serbian presidential election
+| next_year = {{nowrap|Sept–Oct 2002}}
+| election_date = 7 December 1997 (first round)<br />{{nowrap|21 December 1997 (second round)}}
+| turnout = 50.94% ({{increase}} 1.99 [[percentage point|pp]])
+
+| image1 = Milan Milutinović 2005.png
+| candidate1 = '''[[Milan Milutinović]]'''
+| party1 = Socialist Party of Serbia
+| popular_vote1 = '''2,181,808'''
+| percentage1 = '''61.19%'''
+
+| image2 = Stevan Kragujevic, Vojislav Šešelj, Skupstina Srbije, devedestih.jpg
+| candidate2 = [[Vojislav Šešelj]]
+| party2 = Serbian Radical Party
+| popular_vote2 = 1,383,868
+| percentage2 = 38.81%
+| map_image = Serbian presidential election (1997) by majority of popular vote in each district.svg
+| map_size = 270px
+| map_caption = Second round results by district<br/>'''Milutinović''':  {{legend0|#e98578|50–60%}} {{legend0|#e05442|60–70%}} {{legend0|#cb311c|70–80%}} {{legend0|#ab1400|80–90%}}
+| title = President
+| before_election = [[Dragan Tomić (Serbian politician, born 1935)|Dragan Tomić]] (acting)
+| after_election = [[Milan Milutinović]]
+| before_party = Socialist Party of Serbia
+| after_party = Socialist Party of Serbia
+}}
+
+Presidential elections were held in the [[Serbia and Montenegro|Yugoslav]] province of [[Republic of Serbia (1992–2006)|Serbia]] on 7 December 1997, following the annulment of the results of the [[1997 Serbian general election|September–October elections]] due to low voter turnout.<ref>{{cite web|url=http://edition.cnn.com/WORLD/election.watch/europe/serbia.prez.html|archive-url=https://web.archive.org/web/20010506181654/http://edition.cnn.com/WORLD/election.watch/europe/serbia.prez.html|url-status=dead|archive-date=6 May 2001|website=CNN|title=Serbia, FRY (Presidential)}}</ref> As no candidate won over 50% of the popular vote in the first round, a runoff was scheduled for 21 December. The result was a victory for [[Milan Milutinović]] of the [[Socialist Party of Serbia]], who defeated [[Vojislav Šešelj]] in the second round.
+
+==Results==
+{{Election results
+|cand1=[[Milan Milutinović]]|party1=[[Left Coalition (Serbia)|Left Coalition]] ([[Socialist Party of Serbia|SPS]]–[[Yugoslav Left|JUL]]–[[Liberals of Serbia|ND]])|votes1=1665822|votes1_2 = 2181808
+|cand2=[[Vojislav Šešelj]]|party2=[[Serbian Radical Party]]|votes2=1227076|votes2_2 = 1383868
+|cand3=[[Vuk Drašković]]|party3=[[Serbian Renewal Movement]]|votes3=587776
+|cand4=[[Vuk Obradović]]|party4=[[Social Democracy (Serbia)|Social Democracy]]|votes4=115850
+|cand5=[[Dragoljub Mićunović]]|party5=[[Democratic Centre (Serbia)|Democratic Centre]]|votes5=86583
+|cand6=[[Miodrag Vidojković]]|party6=Independent|votes6=29180
+|cand7=[[Predrag Vuletić]]|party7=[[Liberal Democratic Party (Serbia, 1989)|Liberal Democratic Party]]
+|votes7=21353
+|invalid=76911|invalid2=115319
+|electorate=7226947|electorate2=7225860
+|source=[http://arhiva.rik.parlament.gov.rs/doc/arhiva/predsednik/1997%20II/3.%20-%201997%20(II)%20izvestaj%20o%20ukupnim%20rezultatima%20pr.pdf RIK]
+}}
+
+==References==
+{{reflist}}
+
+{{Serbian elections}}
+
+[[Category:1990s elections in Serbia]]
+[[Category:1997 in Serbia]]
+[[Category:Presidential elections in Serbia|1997 12]]
+[[Category:Elections in Serbia and Montenegro]]
+[[Category:December 1997 in Europe|Serbia]]
+
+
+{{Serbia-election-stub}}

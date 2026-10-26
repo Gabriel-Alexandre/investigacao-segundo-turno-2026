@@ -1,0 +1,430 @@
+{{short description|Presidential election in Serbia}}
+{{use dmy dates|date=March 2022}}
+{{Infobox election
+| election_name = 2017 Serbian presidential election
+| country = Serbia
+| type = presidential
+| ongoing = no
+| previous_election = 2012 Serbian presidential election
+| previous_year = 2012
+| election_date = 2 April 2017
+| next_election = 2022 Serbian general election
+| next_year = 2022
+| image1 = Aleksandar Vucic crop.jpg
+| candidate1 = '''[[Aleksandar Vučić]]'''
+| party1 = Serbian Progressive Party
+| popular_vote1 = '''2,012,788'''
+| percentage1 = '''56.01%'''
+| alliance1 = [[Serbia is Winning]]
+| image2 = Sasa Jankovic 2016-mc.rs (cropped).jpg
+| candidate2 = [[Saša Janković]]
+| party2 = Independent politician
+| popular_vote2 = 597,728
+| alliance2 = For Serbia Without Fear
+| percentage2 = 16.63%
+| candidate4 = [[Luka Maksimović]]
+| image4 = Ljubiša Preletačević.jpg
+| party4 = Independent politician
+| alliance4= [[Sarmu probo nisi|Beli – Just Strong]]
+| popular_vote4 = 344,498
+| percentage4 = 9.59%
+| candidate5 = [[Vuk Jeremić]]
+| image5 = Vuk Jeremić 2020 (cropped).png
+| party5 = Independent politician
+| alliance5 = We Have to Do Better
+| popular_vote5 = 206,676
+| percentage5 = 5.75%
+| before_election = [[Tomislav Nikolić]]
+| before_party = Independent politician
+| after_election = [[Aleksandar Vučić]]
+| after_party = Serbian Progressive Party
+| title = [[President of Serbia|President]]
+| posttitle = Elected President
+| map_image = 2017 Serbian presidential election by municipality.svg
+| map_size = 257px
+| map_caption = Election results by each municipality of Serbia: <br>{{colorbox|#000099}} Vučić {{colorbox|#bbbbbb}} Janković {{colorbox|#d93625}} [[Milan Stamatović|Stamatović]] {{colorbox|white}} Election not held
+}}
+
+Presidential elections were held in [[Serbia]] on 2 April 2017.<ref>[http://www.b92.net/eng/news/politics.php?yyyy=2017&mm=02&dd=28&nav_id=100637 Serbia to hold presidential elections on April 2] B92, 28 February 2017</ref> Incumbent president [[Tomislav Nikolić]] was eligible to run for a second five-year term, but opted not to do so. [[Prime Minister of Serbia|Prime Minister]] [[Aleksandar Vučić]] was elected president in the first round.
+
+The election was marred by accusations of voter intimidation and a near total domination of the Serbian media by Vučić and his party. Following the announcement of the results, protests were held across Serbia against Vučić's victory. The [[Organization for Security and Co-operation in Europe|OSCE]] have announced that there are reports of pressure on employees of state and state-affiliated institutions to support Vučić and secure, in a cascade fashion, support from subordinate employees, family members, and friends.
+
+The OSCE report noted that general reluctance of media to report critically on or to challenge the governing authorities significantly reduced the amount of impartial information available to voters,<ref name=OSCE/> that all private national television channels displayed preferential treatment towards Vučić in their news programmes, and that public resources were used in support of Vučić, including endorsements and favourable articles in municipal information material.<ref name=OSCE /> The [[European Commission]] stated in its Serbia 2018 report that the Regulatory Body for Electronic Media had  failed to address imbalances in media coverage during the presidential campaign.<ref name=Report>{{cite web|url=https://ec.europa.eu/neighbourhood-enlargement/sites/near/files/20180417-serbia-report.pdf|title=Serbia 2018 Report|publisher=European Commission|access-date=25 December 2018}}</ref> The ''[[Associated Press]]'' and [[Reporters Without Borders]] reported that Aleksandar Vučić, the candidate of the governing coalition, had ten times more airtime on national broadcasters than all other candidates combined and that mainstream media under Vučić's control have been demonizing most of the opposition presidential candidates, without giving them the opportunity to respond.<ref name=AP /><ref name=RWB>{{cite web|url=https://www.mom-rsf.org/en/countries/serbia/|title=Media Ownership Monitor Serbia|publisher=Reporters Without Borders|access-date=18 December 2018}}</ref> This practice was different compared to the [[2012 Serbian presidential election|previous elections]], when the two main candidates had approximately the same media coverage.<ref>{{cite web|url=https://www.osce.org/odihr/elections/serbia/322166?download=true|title=Parliamentary and early presidential election 2012, OSCE/ODIHR Election Assessment Mission Final Report|publisher=Organization for Security and Co-operation in Europe|access-date=18 December 2018}}</ref> Non-governmental organizations involved in election observation, ''CRTA'' and ''Bureau for Social Research'', emphasized that the presence of Aleksandar Vučić in newspaper and the electronic media during presidential campaign was disproportionate, adding that media have lost their critical role and that they have become a means of political propaganda.<ref>{{Cite book |title=CRTA observation mission Final report Presidential elections 2017 |url=https://crta.rs/wp-content/uploads/2018/03/CRTA-observation-mission-Final-report-Presidential-elections-2017-1.pdf |publisher=CRTA |year=2017 |page=24}}</ref><ref>{{Cite book |first1=Zoran |last1=Gavrilović |first2=Marina |last2=Mijatović |first3=Dražen |last3=Pavlica|title=Mediji, izbori i javnost 2017 |url=https://www.birodi.rs/wp-content/uploads/2017/08/Mediji-javnost-izbori-2017.pdf |publisher=Bureau for Social Research |year=2017 }}</ref>
+
+==Electoral system==
+The [[President of Serbia]] is elected for a five-year term using the [[two-round system]].<ref>[https://www.electionguide.org/elections/id/2240/ Serbia] IFES</ref> Incumbent President's term is scheduled to expire on 31 May.<ref>[http://www.b92.net/eng/news/politics.php?yyyy=2017&mm=04&dd=03&nav_id=100928 President-elect Vucic to remain PM for another two months] B92, 3 April 2017</ref>
+
+==Candidates==
+Serbia's Electoral Commission confirmed eleven candidates. Candidate numbers were decided using a random draw on 17 March.<ref>[http://www.b92.net/info/vesti/index.php?yyyy=2017&mm=03&dd=17&nav_category=11&nav_id=1241233 Izborni listići: Janković 1, Jeremić 2, Beli 5, Vučić 6] B92, 17 March 2017</ref>
+
+{| class=wikitable
+!#
+!colspan=2|Candidate
+!colspan=2|Party affiliation
+!Background
+!Signatures
+|-
+|align=center|1
+| [[File:SašaJanković.jpg|alt=|134x134px]]
+| [[Saša Janković]]
+| width="5px" style="background: {{party color|Independent politician}};" | &nbsp; 
+| [[Independent politician|Independent]]
+| Former Serbian national [[Ombudsman]] (2007–2017); his first presidential nomination.
+|align=right|17,134<ref name="jankovic">{{cite news|title=Девета седница Републичке изборне комисије|url=http://www.rik.parlament.gov.rs/aktivnosti-sednice.php#a74|access-date=5 March 2017|publisher=www.rik.parlament.gov.rs|date=5 March 2017|archive-url=https://web.archive.org/web/20170413153604/http://www.rik.parlament.gov.rs/aktivnosti-sednice.php#a74|archive-date=13 April 2017|url-status=dead}}</ref>
+|-
+|align=center|2
+| [[File:Vuk Jeremić Crop.jpg|100px]]
+| [[Vuk Jeremić]]
+| width="5px" style="background: {{party color|Independent politician}};" | &nbsp; 
+| [[Independent politician|Independent]]
+| Former [[Minister of Foreign Affairs (Serbia)|Minister of Foreign Affairs]] (2007–2012) and former President of the [[United Nations General Assembly]] (2012–2013); his first presidential nomination.
+|align=right|14,360<ref>{{cite news|title= RIK proglasila kandidaturu Vuka Jeremića |url=http://www.b92.net/info/vesti/index.php?yyyy=2017&mm=03&dd=10&nav_category=11&nav_id=1238594|access-date=10 March 2017|publisher=www.b92.net|date=10 March 2017}}</ref>
+|-
+|align=center|3
+| [[File:Miroslav Parovic-mc.rs (cropped).jpg|104x104px]]
+| [[Miroslav Parović]]
+| width="5px" style="background: #2874A6" | &nbsp;  
+| [[People's Freedom Movement (Serbia)|NSP]]
+| President of the [[People's Freedom Movement (Serbia)|People's Freedom Movement]]; his first presidential nomination.
+|align=right|10.390<ref name="auto">{{cite news|title=RIK proglasio kandidature Čanka, Stamatovića i Parovića, Beli nije na dnevnom redu|url=https://www.blic.rs/vesti/politika/rik-proglasio-kandidature-canka-stamatovica-i-parovica-beli-nije-na-dnevnom-redu/eez344z}}</ref>
+|-
+|align=center|4
+| [[File:Sasa Radulovic Crop.jpg|100px]]
+| [[Saša Radulović (economist)|Saša Radulović]]
+| width="5px" style="background: {{party color|Enough is Enough (party)}};" | &nbsp; 
+| [[Enough is Enough (party)|DJB]]
+| President of the [[Enough is Enough (party)|Enough is Enough]] party, former [[Minister of Economy (Serbia)|Minister of Economy]] (2013–2014); his first presidential nomination.
+|align=right|10,579<ref>{{cite news |title= 16. sednica RIK-a |url= http://www.rik.parlament.gov.rs/aktivnosti-sednice.php#a73 |access-date= 2017-03-07 |archive-url= https://web.archive.org/web/20170413153604/http://www.rik.parlament.gov.rs/aktivnosti-sednice.php#a73 |archive-date= 2017-04-13 |url-status= dead }}</ref>
+|-
+|align=center|5
+| [[File:Ljubiša Preletačević.jpg|100px]]
+| [[Ljubiša Preletačević|Luka Maksimović]]
+| width="5px" style="background: {{party color|Independent politician}};" | &nbsp;  
+| [[Independent politician|Independent]]
+| The leader of a [[List of frivolous political parties|parody party]] [[Sarmu probo nisi]] (SPN); his first presidential nomination.
+|align=right|12,270<ref>{{cite news|title=Haos zbog Belog|url=https://www.novosti.rs/vesti/naslovna/politika/aktuelno.289.html:654660-Haos-zbog-Belog}}</ref>
+|-
+|align=center|6
+| [[File:Aleksandar Vučić 2019 (cropped).jpg|alt=|135x135px]]
+| [[Aleksandar Vučić]]
+| width="5px" style="background: {{party color|Serbian Progressive Party}};" | &nbsp; 
+| [[Serbian Progressive Party|SNS]]
+| Former [[Prime Minister of Serbia]] (2014–2017), former [[Ministry of Information (Serbia)|Minister of Information]] (1998–2000), and [[Minister of Defence (Serbia)|Minister of Defence]] (2012–2013); his first presidential nomination.
+|align=right|56,516<ref name="vucic">{{cite news|title=Девета седница Републичке изборне комисије|url=http://www.rik.parlament.gov.rs/aktivnosti-sednice.php#a73|access-date=5 March 2017|publisher=www.rik.parlament.gov.rs|date=5 March 2017|archive-url=https://web.archive.org/web/20170413153604/http://www.rik.parlament.gov.rs/aktivnosti-sednice.php#a73|archive-date=13 April 2017|url-status=dead}}</ref>
+|-
+|align=center|7
+|[[File:Boško Obradović 2020.png|alt=|127x127px]]
+| [[Boško Obradović]]
+| width="5px" style="background: {{party color|Dveri}};" | &nbsp; 
+| [[Dveri]]
+| President of the [[Dveri]] party; his first presidential nomination.
+|align=right|11,212<ref>{{cite news|title= RIK: Proglašena kandidatura Boška Obradovića |url=http://www.b92.net/info/vesti/index.php?yyyy=2017&mm=03&dd=10&nav_category=11&nav_id=1238868}}</ref>
+|-
+|align=center|8
+| [[File:Vojislav Šešelj (2016).jpg|alt=|122x122px]]
+| [[Vojislav Šešelj]]
+| width="5px" style="background: {{party color|Serbian Radical Party}};" | &nbsp; 
+| [[Serbian Radical Party|SRS]]
+| Founder and president of the [[Serbian Radical Party]]; his sixth presidential nomination.
+|align=right|12,970<ref name="seselj">{{cite news|title= RIK proglasio kandidaturu Vojislava Šešelja za predsednika |url=https://www.blic.rs/vesti/politika/rik-proglasio-kandidaturu-vojislava-seselja-za-predsednika/2z5c61r|access-date=6 March 2017|publisher=www.blic.rs|date=6 March 2017}}</ref>
+|-
+|align=center|9
+| [[File:Aleksandar_Popović.png|100px]]
+| [[Aleksandar Popović (politician)|Aleksandar Popović]]
+| width="5px" style="background: {{party color|Democratic Party of Serbia}};" | &nbsp; 
+| [[Democratic Party of Serbia|DSS]]
+| Former [[Ministry of Science (Serbia)|Minister of Science and Environmental Protection]] (2004–2007) and [[Minister of Energy and Mining (Serbia)|Minister of Energy and Mining]] (2007–2008); his first presidential nomination.
+|align=right|10,504<ref>{{cite news|title=Proglašena kandidatura Aleksandra Popovića|url=https://www.blic.rs/vesti/politika/proglasena-kandidatura-aleksandra-popovica/1xceh0r}}</ref>
+|-
+|align=center|10
+| [[File:Milan Stamatović (cropped).jpg|116x116px]]
+| [[Milan Stamatović]]
+| width="5px" style="background: {{party color|Independent politician}};" | &nbsp;  
+| [[Independent politician|Independent]]
+| President of [[Čajetina]] municipality since 2004; his first presidential nomination.
+|align=right|12,027<ref name="auto"/>
+|-
+|align=center|11
+| [[File:Nenad Canak crop.jpg|100px]]
+| [[Nenad Čanak]]
+| width="5px" style="background: #228822" | &nbsp;  
+| [[League of Social Democrats of Vojvodina|LSV]]
+| President of [[League of Social Democrats of Vojvodina]]; his first presidential nomination.
+|align=right|11,004<ref>{{cite news|title=RIK: Potvrđeni Stamatović, Parović i Čanak, Beli nije još|url=http://rs.n1info.com/a234546/Vesti/Vesti/RIK-proglasio-predsednicku-kandidaturu-Stamatovica.html|access-date=13 March 2017|archive-date=16 March 2017|archive-url=https://web.archive.org/web/20170316065757/http://rs.n1info.com/a234546/Vesti/Vesti/RIK-proglasio-predsednicku-kandidaturu-Stamatovica.html|url-status=dead}}</ref>
+|-
+|}
+
+==Opinion polls==
+{| class="wikitable" style="text-align:center; font-size:85%; line-height:16px; margin-bottom:0"
+|- style="height:42px; background:#e9e9e9;"
+! style="width:90px;" rowspan="2"| Date
+! style="width:140px;" rowspan="2"| Polling Firm
+! style="font-size:95%"| [[Aleksandar Vučić|Vučić]]<br />[[Serbian Progressive Party|SNS]]*
+! style="font-size:95%"| [[Saša Janković|Janković]]<br />Ind.
+! style="font-size:95%" | [[Vojislav Šešelj|Šešelj]]<br />[[Serbian Radical Party|SRS]]
+! style="font-size:95%"| [[Vuk Jeremić|Jeremić]]<br />Ind.
+! style="font-size:95%"| [[Boško Obradović|Obradović]]<br />[[Dveri]]
+! style="font-size:95%"| [[Ljubiša Preletačević Beli|Maksimović]]<br />Ind.
+! style="font-size:95%" | [[Aleksandar Popović (politician)|Popović]]<br />[[Democratic Party of Serbia|DSS]]
+! style="font-size:95%" | [[Milan Stamatović|Stamatović]]<br />Ind.
+! style="font-size:95%" | [[Miroslav Parović|Parović]]<br />NSP
+! style="font-size:95%" | [[Nenad Čanak|Čanak]]<br />[[League of Social Democrats of Vojvodina|LSV]]
+! style="font-size:95%"| [[Saša Radulović (economist)|Radulović]]<br />[[Enough is Enough (party)|DJB]]
+! style="width:30px;" rowspan="2" | Lead
+|-
+! style="background:#000099; width:60px;"|
+! style="background:gray; width:60px;"|
+! style="background:#0000FF; width:60px;" |
+! style="background:#007FFF; width:60px;"|
+! style="background:#DC143C; width:60px;"|
+! style="background:{{party color|Sarmu Probo Nisi}}; width:60px;"|
+! style="background:#226688; width:60px;" |
+! style="background:#66EEEE; width:60px;" |
+! style="background:#2874A6; width:60px;" |
+! style="background:#228822; width:60px;" |
+! style="background:{{party color|Enough is Enough (party)}}; width:60px;"|
+|-
+| colspan="2" {{rh2|align=center}} scope="row" class="rh heading table-rh" |Results
+| {{rh2|align=center}} scope="row" class="rh heading table-rh" | 55.06
+| {{rh2|align=center}} scope="row" class="rh heading table-rh" |16.35
+| {{rh2|align=center}} scope="row" class="rh heading table-rh" |4.48
+| {{rh2|align=center}} scope="row" class="rh heading table-rh" |5.65
+| {{rh2|align=center}} scope="row" class="rh heading table-rh" |2.28
+| {{rh2|align=center}} scope="row" class="rh heading table-rh" |9.42
+| {{rh2|align=center}} scope="row" class="rh heading table-rh" |1.04
+| {{rh2|align=center}} scope="row" class="rh heading table-rh" |1.15
+| {{rh2|align=center}} scope="row" class="rh heading table-rh" |0.32
+| {{rh2|align=center}} scope="row" class="rh heading table-rh" |1.12
+| {{rh2|align=center}} scope="row" class="rh heading table-rh" |1.41
+| style="background: #C8D9EC; color: black; vertical-align: middle; text-align: center;font-weight:bold; " |38.74
+|-
+| 30 Mar
+| [http://www.nspm.rs/istrazivanja-javnog-mnjenja/srbija-mart-2017.-predsednicki-izbori-ii.html NSPM]
+| style="background:#C8D9EC"| '''52.8'''
+| 12.1
+| 7.4
+| 9.4
+| 3.0
+| 8.6
+| 1.3
+| 0.7
+| 0.4
+| 1.3
+| 3.0
+| style="background:#000099; color:white;"| 40.7
+|-
+| 30 Mar
+| [http://www.b92.net/info/vesti/index.php?yyyy=2017&mm=03&dd=30&nav_category=11&nav_id=1245572/ Ipsos]
+| style="background:#C8D9EC"| '''54.3'''
+| 12.8
+| 6.5
+| 6.8
+| 3.2
+| 9.5
+| –
+| –
+| –
+| 1.1
+| 1.8
+| style="background:#000099; color:white;"| 41.5
+|-
+| 29 Mar
+| [http://www.nedeljnik.rs/politiko/portalnews/demostat-vucic-na-56-2-odsto-beli-drugi-sa-9-5-odsto/ Demostat] {{Webarchive|url=https://web.archive.org/web/20170329235657/http://www.nedeljnik.rs/politiko/portalnews/demostat-vucic-na-56-2-odsto-beli-drugi-sa-9-5-odsto/ |date=2017-03-29 }}
+| style="background:#C8D9EC"| '''56.2'''
+| 8.9
+| 8.8
+| 9.3
+| <3.0
+| 9.5
+| <3.0
+| <3.0
+| <3.0
+| <3.0
+| <3.0
+| style="background:#000099; color:white;"| 46.7
+|-
+| 25 Mar
+| [https://web.archive.org/web/20170326051426/http://www.vijesti.me/izbori-u-srbiji/blic-vucic-533-jankovic-151-jeremic-86-a-beli-75-procenata-930530 Faktor Plus]
+| style="background:#C8D9EC"| '''53.3'''
+| 15.1
+| 5.5
+| 8.6
+| 2.8
+| 7.5
+| <3.0
+| 2.0
+| <3.0
+| <3.0
+| <3.0
+| style="background:#000099; color:white;"| 38.2
+|-
+| 23 Mar
+| [http://www.danas.rs/izbori.1180.html?news_id=342081&title=Izbori%3A+Sve+dosada%C5%A1nje+procene+agencija CeSID]
+| style="background:#C8D9EC"| '''53.0'''
+| 14.0
+| 10.0
+| 12.0
+| –
+| 5.0
+| –
+| –
+| –
+| –
+| –
+| style="background:#000099; color:white;"| 39.0
+|-
+| 22 Mar
+| [https://www.politika.rs/scc/clanak/376747/Ninamedia-Vucic-ubedljivo-ispred-ostalih-kandidata Ninamedia]
+| style="background:#C8D9EC"| '''50.0'''
+| 12.5
+| 7.1
+| 7.2
+| <5.0
+| 11.9
+| <5.0
+| <5.0
+| <5.0
+| <5.0
+| <5.0
+| style="background:#000099; color:white;"| 37.5
+|-
+| 18 Mar
+| [http://www.b92.net/info/vesti/index.php?yyyy=2017&mm=03&dd=19&nav_category=11&nav_id=1241785 Ipsos]
+| style="background:#C8D9EC"| '''53.0'''
+| 10.6
+| 8.7
+| 6.9
+| 3.5
+| 11.0
+| 1.1
+| 1.5
+| 0.3
+| 1.7
+| 1.7
+| style="background:#000099; color:white;"| 42.0
+|-
+| 17 Mar
+| [http://www.b92.net/info/vesti/index.php?yyyy=2017&mm=03&dd=17&nav_category=11&nav_id=1241051 Demostat]
+| style="background:#C8D9EC"| '''57.0'''
+| 11.0
+| 8.0
+| 9.0
+| 3.0
+| 3.0
+| <3.0
+| <3.0
+| <3.0
+| <3.0
+| <3.0
+| style="background:#000099; color:white;"| 46.0
+|-
+| 16 Mar
+| [http://www.nspm.rs/istrazivanja-javnog-mnjenja/srbija-mart-2017-predsednicki-izbori.html NSPM]
+| style="background:#C8D9EC"| '''54.9'''
+| 10.8
+| 7.0
+| 11.1
+| 3.3
+| 7.9
+| 0.9
+| 0.7
+| 0.4
+| 1.0
+| 2.1
+| style="background:#000099; color:white;"| 43.8
+|-
+| 7 Mar
+| [https://www.rtv.rs/sr_ci/predsednicki-izbori-2017/faktor-plus-vucicu-53-1-odsto-podrske-pobedjuje-u-prvom-krugu_806697.html Faktor Plus]
+| style="background:#C8D9EC"| '''53.1'''
+| 14.5
+| 11.0
+| 11.1
+| 3.9
+| –
+| –
+| 2.0
+| –
+| <2.0
+| 2.4
+| style="background:#000099; color:white;"| 38.6
+|-
+| 28 Feb
+| [https://www.novosti.rs/vesti/naslovna/politika/aktuelno.289.html:652413-ISTRAZIVANjE-IPSOSA-Vucicu-u-prvom-krugu-523-glasova-Jankovic-drugi-sa-139 Ipsos]
+| style="background:#C8D9EC"| '''52.3'''
+| 13.9
+| 11.0
+| 13.3
+| 3.7
+| –
+| 0.8
+| 0.8
+| –
+| 1.7
+| –
+| style="background:#000099; color:white;"| 38.4
+|-
+|}
+{|
+|-
+|* Also nominating: [[Socialist Party of Serbia|SPS]], [[Social Democratic Party of Serbia|SDPS]], [[United Serbia|JS]], [[Party of United Pensioners of Serbia|PUPS]], [[Movement of Socialists|PS]], [[Serbian Renewal Movement|SPO]], [[Strength of Serbia Movement|PSS – BK]], [[Alliance of Vojvodina Hungarians|SVM]]
+|}
+
+===Voter demographics===
+A public opinion survey, carried out by [[CeSID]] showed that significant proportions of Vučić supporters, the candidate of the governing coalition, were composed of [[pensioner]]s (41%) and that the vast majority (63%) held a [[secondary education]] degree, while 21% did not complete high school.<ref name=CeSID>{{Cite book |first1=Bojan |last1=Klačar|title=Oko izbora 20 |url=https://www.cesid.rs/wp-content/uploads/2018/09/Oko-izbora-20.pdf |publisher=CeSID |year=2018 }}</ref> The average age of his supporters was 55 years.<ref name=CeSID />
+
+The second most popular candidate, Janković, had slightly more women among his potential voters, who were on average 45 years old. The vast majority of his supporters (59%) had completed [[higher education]].<ref name=CeSID /> In addition, he was supported by the majority of [[Serbian diaspora|diaspora voters]].<ref>{{cite web | url=https://researchonline.lse.ac.uk/id/eprint/71904/|title= Serbian presidential elections: The diaspora vote|publisher=European Politics and Policy, The London School of Economics and Political Science|date=26 April 2017|access-date=8 January 2018}}</ref>
+
+==Conduct==
+{{main|2017 Serbian protests}}
+The election was marred by accusations of voter intimidation and a near total domination of the Serbian media by Vučić and his party.<ref name="The New York Times">{{cite web|title=A Serbian Election Erodes Democracy|url=https://www.nytimes.com/2017/04/09/opinion/a-serbian-election-erodes-democracy.html?_r=0|website=The New York Times|access-date=9 April 2017|date=9 April 2017}}</ref><ref name="CentarSavremenPolitike">{{cite book |last1=Burazer |first1=Nikola |last2=Hackaj |first2=Krisela |last3=Shehaj |first3=Ardita |last4=Stefanovski |first4=Ivan |title=Democracy in Progress: shadow report on political Copenhagen criteria in Western Balkans EU candidate states |date=2017 |publisher=[[Centre for Contemporary Politics|Centar savremene politike]] |location=Belgrade |isbn=978-86-80576-04-6}}</ref> Following the announcement of the results, protests were held across Serbia against Vučić's victory.<ref name="Independent">{{cite web |last1=Da Silva |first1=Chantal |author-link=Chantal Da Silva |date=8 April 2017 |title=Serbian protesters accuse media of turning blind eye, as anti-corruption rallies continue |url=https://www.independent.co.uk/news/world/europe/serbia-protests-media-aleksandar-vucic-prime-minister-police-a7673532.html |url-access=subscription |url-status=live |archive-url=https://ghostarchive.org/archive/20220501/https://www.independent.co.uk/news/world/europe/serbia-protests-media-aleksandar-vucic-prime-minister-police-a7673532.html |archive-date=1 May 2022 |access-date=9 April 2017 |website=The Independent}}{{cbignore}}</ref> There were several issues. First, the electoral campaign was short only fulfilling minimal requirement of 30 days, despite the fact that these were [[Election|regular elections]]. Also, until the  last day it was unclear if there would be only parliamentary elections or parliamentary and [[City of Belgrade|City of Belgrade elections]] which hampered electoral strategies of opposition candidates. Furthermore, the governing majority made a decision to dissolve the parliament during the campaign, which was not justified and badly hurt visibility of opposition.
+
+There were also a problems with imperfect [[Electoral Register|electoral registers]] recorded which was similar as with previous elections. Controversy also arose regarding financing of electoral campaigns. Independent [[Investigative journalism|Investigative journalists]] reported that up to 6879 individual donors have provided Aleksandar Vučić's campaign with exactly 40.000 [[Serbian dinar|RSD]] each, which is near maximum amount and individual can contribute.<ref name="CentarSavremenPolitike" />
+
+The [[Organization for Security and Co-operation in Europe|OSCE]] have announced that there are reports of pressure on employees of state and state-affiliated institutions to support Vučić and secure, in a cascade fashion, support from subordinate employees, family members, and friends.<ref name=OSCE>{{cite web|url=https://www.osce.org/odihr/elections/serbia/322166?download=true|title=Presidential election 2017, OSCE/ODIHR Election Assessment Mission Final Report|publisher=Organization for Security and Co-operation in Europe|access-date=18 December 2018}}</ref>
+
+On 3 April 2017, the Republican Electoral Commission announced that the election results from two polling stations in [[Bačka Palanka]] and [[Zrenjanin]] would be annulled and followed by a repeat vote at those stations on 11 April. This was due to reports of [[electoral fraud]].<ref name="RIKfraud1">{{cite web|url=https://mondo.rs/a996827/Info/Srbija/RIK-ponistio-izbore-na-dva-biracka-mesta-u-Backoj-Palanci.html|author=Tanjug|title=Mondo: ''Poništeni izbori: Sumnjiv JMBG i višak listića''|language=sr|date=4 April 2017|access-date=4 April 2017}}</ref> The following day, the election results were annulled in a further six municipalities, with re-runs also scheduled for 11 April.<ref name="Novosti2">{{cite web|url=https://www.novosti.rs/vesti/naslovna/politika/aktuelno.289.html:658811-Ponovljanje-izbora-na-osam-birackih-mesta-11-aprila|author=Tanjug|title=Večernje Novosti: ''Ponovljanje izbora na osam biračkih mesta 11. aprila''|language=sr|date=4 April 2017}}</ref> The repeat vote in the eight municipalities could not change the outcome of the elections, as there were only 9,851 voters who are eligible to vote,<ref name="Novosti2"/> fewer than Vučić's margin of victory.
+
+In [[Novi Pazar]], where Vučić recorded 74.43% of the vote, Sead Biberović from the Novi Pazar-based [[Non-governmental organization|NGO]] called "Urban-IN" claimed that there were "serious crimes committed at multiple polling stations," and that "some people went from station to station, where they threatened, used ransoms, and lied".<ref name="RadioNP1">{{cite web|url=http://www.radiostoplus.com/item/21091|author=A. Bajrović|title=Radio Sto Plus: ''Biberović: Rezultati ne pokazuju stvarno opredeljenje Novopazaraca''|language=sr|date=3 April 2017|access-date=4 April 2017|archive-date=25 November 2020|archive-url=https://web.archive.org/web/20201125171321/http://www.radiostoplus.com/item/21091|url-status=dead}}</ref> Rešad Hodžić, who was Saša Janković's campaign representative in Novi Pazar, claimed that "30,000 lists were prepared in the trunks of cars circulating between polling places, in an attempt to be cast into the voting boxes."<ref name="RadioNP2">{{cite web|url=http://www.radiostoplus.com/item/21098|author=N. Kočović|title=Radio Sto Plus: ''Hodžić: Totalna krađa, ni devedesetih nije bilo ovako''|language=sr|date=4 April 2017|access-date=4 April 2017|archive-date=24 November 2020|archive-url=https://web.archive.org/web/20201124110218/http://www.radiostoplus.com/item/21098|url-status=dead}}</ref> He said that the Janković campaign workers did as much as they could to stop electoral fraud, going on to say:
+
+{{cquote|"In polling station #90, activists of the [[Party of Democratic Action of Sandžak]] gave poll workers 5,000 [[Serbian dinar|dinars]] each in order to submit 500 votes for Vučić, which they accepted. In the end, Vučić recorded 532 votes at that polling station. In Vranovina they offered 400 euros to submit 200 votes. For all of this we have witnesses and averments."<ref name="RadioNP2"/>}}
+
+On 3 April, following the announcement of Vučić's victory, a student protest formed in front of the [[House of the National Assembly of Serbia|Serbian National Assembly]], which, according to ''[[Danas (newspaper)|Danas]]'', was attended by over 10,000 people.<ref name="diktatura">{{cite web|url=http://www.danas.rs/drustvo.55.html?news_id=342754&title=Vi%C5%A1e+od+10.000+mladih+protestuje+protiv+diktature|title=Danas: ''Više od 10.000 mladih protestuje protiv diktature''|language=sr|date=3 April 2017|access-date=4 April 2017}}</ref> Protests after the election results were announced emerged in 15 cities throughout Serbia.<ref name="gradoviprotest">{{cite web|url=http://www.danas.rs/politika.56.html?news_id=342828&title=Protesti+protiv+vlasti+u+15+gradova+Srbije+(VIDEO)|title=Danas: ''Protesti protiv vlasti u 15 gradova Srbije''|language=sr|date=4 April 2017|access-date=4 April 2017}}</ref>
+
+===Media freedom===
+{{see also|Media freedom in Serbia}}
+The ''[[Associated Press]]'' and [[Reporters Without Borders]] reported that Aleksandar Vučić, the candidate of the governing coalition, had ten times more airtime on national broadcasters than all other candidates combined and that mainstream media under Vučić's control have been demonizing most of the opposition presidential candidates, without giving them the opportunity to respond. This practice was different compared to the [[2012 Serbian presidential election|previous elections]], when the two main candidates had approximately the same media coverage. Non-governmental organizations involved in election observation, ''CRTA'' and ''Bureau for Social Research'', emphasized that the presence of Aleksandar Vučić in newspaper and the electronic media during presidential campaign was disproportionate, adding that media have lost their critical role and that they have become a means of political propaganda.
+
+The OSCE report noted that general reluctance of media to report critically on or to challenge the governing authorities significantly reduced the amount of impartial information available to voters,<ref name=OSCE/> that all private national television channels displayed preferential treatment towards Vučić in their news programmes, and that public resources were used in support of Vučić, including endorsements and favourable articles in municipal information material.<ref name=OSCE /> The [[European Commission]] stated in its Serbia 2018 report that the Regulatory Body for Electronic Media had  failed to address imbalances in media coverage during the presidential campaign.
+
+One day before the beginning of the [[election silence]], seven major newspapers covered their entire front pages with adverts for Vučić.<ref name=AP>{{cite web|url=https://apnews.com/f637c57b3b9e4dbfad2a052a4df1ccbe|title=Major newspapers in Serbia hit stands with same front pages|date=30 March 2017|publisher=Financial Times|access-date=17 December 2018}}</ref> Slaviša Lekić, president of the ''Independent Journalist Association of Serbia'' said "With this, Aleksandar Vučić clearly demonstrated that he can control over everything in this country."<ref>{{cite web|url=https://safejournalists.net/serbia-media-freedom-worsening-serbs-take-streets/|title=Serbia: Media freedom worsening as Serbs take to the streets|date=25 April 2017|publisher=Safe Journalists|access-date=17 December 2018}}</ref> Vučić was the subject of criticism and satire for the appearance of a show on [[Happy TV]] in the last days of the campaign, with guests including his parents, in which he offered assistance in front of the camera to a man who allegedly fainted.<ref>{{cite web|url=https://www.espreso.rs/vesti/politika/179569/decko-ponovo-pao-u-nesvest-u-cirilici-dok-je-vucic-pricao-srusio-se-odjednom-a-evo-ko-mu-je-pomogao-video|title=DEČKO PONOVO PAO U NESVEST U ĆIRILICI DOK JE VUČIĆ PRIČAO: Srušio se odjednom, a evo ko mu je pomogao (VIDEO)|publisher=espreso.rs|access-date=8 January 2019}}</ref><ref>{{cite web|url=https://kosovotwopointzero.com/en/vucics-victory-leads-serbia-towards-autocracy/|title=Vucic’s victory leads Serbia towards autocracy|publisher=Kosovo.2|access-date=8 January 2019}}</ref><ref>{{cite web|url=https://globalvoices.org/2017/11/17/in-macedonia-and-serbia-right-wing-politicians-make-their-followers-swoon-literally/|title=In Macedonia and Serbia, Right-Wing Politicians Make Their Followers Swoon—Literally|publisher=Global Voices|access-date=8 January 2019}}</ref>
+
+==Results==
+As Vučić received more than 50% of the vote in the first round, no second round was held.
+
+{{Election results
+|cand1=[[Aleksandar Vučić]]|party1=[[Serbian Progressive Party]]|votes1=2012788
+|cand2=[[Saša Janković]]|party2=Independent|votes2=597728
+|cand3=[[Ljubiša Preletačević|Luka Maksimović]]|party3=Independent ([[Sarmu probo nisi]])|votes3=344498
+|cand4=[[Vuk Jeremić]]|party4=Independent|votes4=206676
+|cand5=[[Vojislav Šešelj]]|party5=[[Serbian Radical Party]]|votes5=163802
+|cand6=[[Boško Obradović]]|party6=[[Dveri]]|votes6=83523
+|cand7=[[Saša Radulović]]|party7=[[Enough is Enough (party)|Enough is Enough]]|votes7=51651
+|cand8=[[Milan Stamatović]]|party8=Independent|votes8=42193
+|cand9=[[Nenad Čanak]]|party9=[[League of Social Democrats of Vojvodina]]|votes9=41070
+|cand10=[[Aleksandar Popović (politician)|Aleksandar Popović]]|party10=[[New Democratic Party of Serbia|Democratic Party of Serbia]]|votes10=38167
+|cand11=[[Miroslav Parović]]|party11=[[People's Freedom Movement (Serbia)|People's Freedom Movement]]|votes11=11540
+|invalid=60378
+|electorate=6724949
+|source=[https://www.osce.org/files/f/documents/a/5/322166_3.pdf OCSE]
+}}
+
+==References==
+{{reflist}}
+
+{{Serbian elections}}
+
+[[Category:Presidential elections in Serbia]]
+[[Category:2017 elections in Europe|Serbia]]
+[[Category:April 2017 in Europe|Serbia]]
+[[Category:2010s elections in Serbia]]
+[[Category:2017 in Serbia]]

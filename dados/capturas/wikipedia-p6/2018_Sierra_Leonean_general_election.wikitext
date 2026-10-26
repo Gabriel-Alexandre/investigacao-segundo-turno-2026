@@ -1,0 +1,240 @@
+{{Short description|None}}
+{{Infobox election
+| country=Sierra Leone
+| previous_election = 2012 Sierra Leonean general election
+| previous_year=2012
+| next_election= 2023 Sierra Leonean general election
+| next_year= 2023
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| election_date= 7 March 2018 (first round)<br />31 March 2018 (second round)<ref>{{cite web|url=https://twitter.com/NECsalone/status/978345034348101634|title=pic.twitter.com/WANZgunLz5|date=26 March 2018|publisher=|accessdate=6 March 2019}}</ref>
+
+| image1=Julius Maada Bio - 2020 (cropped).jpg
+| nominee1='''[[Julius Maada Bio]]'''
+| party1=Sierra Leone People's Party
+| running_mate1='''[[Mohamed Juldeh Jalloh]]'''
+| popular_vote1='''1,319,406'''
+| percentage1='''51.81%'''
+
+| image2=Samura Kamara 2014.jpg
+| nominee2=[[Samura Kamara]]
+| party2= All People's Congress
+| running_mate2={{nowrap|[[Chernor Maju Bah]]}}
+| popular_vote2=1,227,171
+| percentage2=48.19%
+
+| map_image= 2018 Sierra Leone presidential election results by district.svg
+| map_caption=Results by district<br>'''Bio''': {{legend0|#007f00|80–90%}}&nbsp;{{legend0|#006600|90+%}}<br>'''Kamara''': {{legend0|#ff2a2a|50–60%}}&nbsp;{{legend0|#d40000|60–70%}}&nbsp;{{legend0|#800000|80–90%}}&nbsp;{{legend0|#550000|90+%}}
+
+| title = [[President of Sierra Leone|President]]
+| before_election=[[Ernest Bai Koroma]] 
+| before_party=All People's Congress
+| after_election=[[Julius Maada Bio]]
+| after_party=Sierra Leone People's Party
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| seats_for_election = 132 of 146 seats in Parliament
+
+| party1 = All People's Congress | leader1 = [[Ernest Bai Koroma]] | percentage1 = 39.93 | seats1 = 68 | last_election1 = 67
+| party2 = Sierra Leone People's Party | leader2 = [[Julius Maada Bio]] | percentage2 = 38.93| seats2 = 49| last_election2 = 42
+| party3 = [[National Grand Coalition|NGC]] | leader3 = [[Kandeh Yumkella]] | percentage3 = 8.69 | seats3 = 4| last_election3 = new
+| party4 = [[Coalition for Change (Sierra Leone)|C4C]] | leader4 = {{nowrap|[[Samuel Sam-Sumana]]}} | percentage4 = 4.80 | seats4 = 8| last_election4 = new
+| party5 = Independents | leader5 =– | percentage5 = 3.97 | seats5 = 3| last_election5 = 0
+
+| map = 2018 Sierra Leonean parliamentary election - Results by constituency.svg
+| map_caption = Results by constituency
+
+}}}}}}{{Politics of Sierra Leone}}
+
+General elections were held in [[Sierra Leone]] on 7 March 2018 to elect the President, Parliament and local councils.<ref name="thesierraleonetelegraph.com">[http://www.thesierraleonetelegraph.com/?p=15039 President Koroma announces election date – March 7th 2018] The Sierra Leone Telegraph, 15 February 2017</ref> Incumbent President [[Ernest Bai Koroma]] did not run for another term, as he was constitutionally ineligible, having served the maximum ten years in office.
+
+No presidential candidate received the 55% of the vote required to win in the first round, meaning a second round of voting was held on 31 March between the top two candidates, opposition leader [[Julius Maada Bio]] of the [[Sierra Leone People's Party]] and [[Samura Kamara]] of the ruling [[All People's Congress]]; the two were separated by under 15,000 votes in the first round. Bio was subsequently elected with 51.8% of the vote.  International observers hailed the election as being "orderly, free and fair" despite the fact it was "hotly contested."<ref>{{Cite web|url=https://www.dw.com/en/sierra-leone-heads-into-hotly-contested-election-runoff/a-42813380|title = Sierra Leone heads into hotly contested election runoff &#124; DW &#124; 30.03.2018| website=[[Deutsche Welle]] }}</ref><ref>{{Cite web|url=https://www.thesierraleonetelegraph.com/sierra-leone-election-2018-noslinas-suna-nallo-and-kwame-fitzjohn-on-voa-tv-today/|title = Sierra Leone Election 2018 – Noslina's Suna Nallo and Kwame Fitzjohn on VOA TV Today|date = 7 March 2018}}</ref>
+
+==Electoral system==
+The [[President of Sierra Leone]] is elected using a modified [[two-round system]], with a candidate having to receive more than 55% of the vote in the first round to be elected.<ref>[http://www.thesierraleonetelegraph.com/sierra-leone-2018-elections-taking-parliament-and-losing-the-presidency/ Sierra Leone 2018 elections – taking parliament and losing the presidency] The Sierra Leone Telegraph, 11 December 2017</ref> If this is not achieved, a run-off will be held.
+
+The 132 elected members of [[Parliament of Sierra Leone|Parliament]] (increased from 112 in the [[2012 Sierra Leonean general election|2012 elections]]) were elected from single-member constituencies by [[first-past-the-post voting]].<ref>[http://www.ifes.org/sites/default/files/2018_ifes_sierra_leone_general_elections_faqs_final.pdf Elections in Sierra Leone: 2018 General Elections] {{Webarchive|url=https://web.archive.org/web/20200913015045/http://www.ifes.org/sites/default/files/2018_ifes_sierra_leone_general_elections_faqs_final.pdf |date=2020-09-13 }} IFES</ref><ref>[http://www.ipu.org/parline-e/reports/2281_B.htm Electoral system] IPU</ref> The remaining 14 seats are reserved for Paramount Chiefs, who are elected indirectly.<ref>[https://data.ipu.org/content/sierra-leone?chamber_id=13524 Sierra Leone Parliament] Inter-Parliamentary Union</ref>
+
+==Presidential candidates==
+A total of 16 candidates registered to contest the elections;<ref name=AN>[http://www.africanews.com/2018/02/21/sierra-leone-elects-new-president-the-top-six-contenders/ Sierra Leone elects new president: Profiles of top six contenders] Africa News, 21 February 2018</ref> 14 men and two women.<ref>[http://www.africanews.com/2018/03/06/2018-sierra-leone-general-elections-the-voting-process// 2018 Sierra Leone general elections: The voting process] {{Webarchive|url=https://web.archive.org/web/20181210102844/http://www.africanews.com/2018/03/06/2018-sierra-leone-general-elections-the-voting-process/ |date=2018-12-10 }} Africa News, 6 March 2018</ref>
+
+President Koroma personally selected foreign minister [[Samura Kamara]] as the [[All People's Congress]] candidate at the party's convention held on 15 November 2017 in the northern city of [[Makeni]]. The APC also selected deputy speaker of parliament [[Chernor Maju Bah]] as the party's vice presidential candidate.
+
+The main opposition, the [[Sierra Leone People's Party]] (SLPP) selected former military Head of State, retired [[Brigadier general]] [[Julius Maada Bio]] as its presidential candidate at the party's national convention held on 15 November 2017 in [[Freetown]]. Bio's running mate was businessman Mohamed Juldeh Jalloh.
+
+Former Vice President [[Samuel Sam-Sumana]] is the candidate of the Coalition for Change. His removal from office by President Koroma was challenged at the [[ECOWAS Court]], which in November 2017 ruled that the removal of Sumana was illegal.<ref>[https://www.bbc.com/pidgin/tori-42134874 ECOWAS Court: Sam-Sumana sack dey illegal] BBC Pidgin, 27 November 2017</ref>
+
+Former United Nations senior official [[Kandeh Yumkella]] was chosen to be the presidential candidate of the National Grand Coalition (NGC), a breakaway faction of the SLPP. Yumkella's running mate is [[Mechanical engineering|mechanical engineer]] Andrew Keillie.
+
+The newly formed Unity Party is fielding [[Femi Claudius Cole]], one of two female presidential candidates.<ref name="concord">{{cite news|last1=Koroma|first1=Dusuba|title=Lone Female Presidential Candidate Urges Issues-based Voting|url=http://slconcordtimes.com/lone-female-presidential-candidate-urges-issues-based-voting/|accessdate=26 November 2017|work=Sierra Leone Concord Times|date=8 November 2017|archive-date=24 February 2018|archive-url=https://web.archive.org/web/20180224110822/http://slconcordtimes.com/lone-female-presidential-candidate-urges-issues-based-voting/|url-status=dead}}</ref>
+
+Former Minister of Internal Affairs and Minister of Lands Musa Tarawally was nominated as the presidential candidate of the Citizens Democratic Party.<ref name=AN/>
+
+{|class=wikitable
+!Party
+!Presidential candidate
+!Vice-Presidential candidate
+|-
+|[[All People's Congress]]||[[Samura Kamara]]||[[Chernor Maju Bah]]
+|-
+|Alliance Democratic Party||Mohamed Kamaraimba Mansaray|| Isata Abdulai Kamara
+|-
+|Citizens Democratic Party||Musa Tarawally||Paul Alimamy Bangura
+|-
+|Coalition for Change||[[Samuel Sam-Sumana]]||David Bai Conteh
+|-
+|[[National Democratic Alliance (Sierra Leone)|National Democratic Alliance]]||Mohamed Bah||Victoria Hunter
+|-
+|National Grand Coalition||[[Kandeh Kolleh Yumkella]]||Andrew Karmoh Keili
+|-
+|National Progressive Democrats||Patrick John O'Dwyer||Blanche Joko Samura
+|-
+|National Unity and Reconciliation Party||Jonathan Patrick Sandy||Safiatu Blango
+|-
+|[[Peace and Liberation Party]]||Kandeh Baba Conteh||Abu Bakarr Salaiman Tarawally
+|-
+|[[People's Movement for Democratic Change]]||Charles Francis Margai||Isata Dohra Bangura
+|-
+|Republic National Independence Party||Bresford Victor Williams||Septimus Mohamed Kemokai
+|-
+|[[Revolutionary United Front]]||Gbandi Jemba Ngobeh||Ansumama Mambu Porga Fowai
+|-
+|[[Sierra Leone People's Party]]||[[Julius Maada Bio]]||[[Mohamed Juldeh Jalloh]]
+|-
+|United Democratic Movement||Mohamed Sowa-Turay||Alex Brihim Matthew Kai Kai
+|-
+|[[United National People's Party]]||Saa Henry Kabuta||Benedit Lansana Kargbo
+|-
+|Unity Party||[[Femi Claudius Cole]]||Mohamed S.V Jr Tarawalley
+|}
+
+==Controversy==
+Due to the fact that the election falls outside of the five-year term plus three months limit, constitutional lawyers have criticised the announcement.<ref name="thesierraleonetelegraph.com"/>
+
+=== Dual citizenship ===
+The previously dormant issue of dual citizenship was raised during the election. The ruling party, APC, raised the issue citing Section 76(1) of the 1991 Constitution, which states that ''"No person shall be qualified for election as a Member of Parliament — if he is a naturalised citizen of Sierra Leone or is a citizen of a country other than Sierra Leone having become such a citizen voluntarily or is under a declaration of allegiance to such a country."''<ref>{{cite book|title=The Constitution of Sierra Leone, 1991|url=http://necsl2018.org/the-constitution-of-sierra-leone-1991/}}</ref> The dual citizenship debate engulfed three presidential candidates: Kandeh Kolleh Yumkella of the National Grand Coalition (NGC), Samura Kamara of the All People's Congress (APC), and Mohamed Kamarainba Mansaray of the Alliance Democratic Party (ADP). Yumkella claimed he denounced his American citizenship in 2017, while Mansaray said he has never held any other citizenship.<ref>{{cite web|last1=Dauphine|first1=Edna Browne|title=Kamarainba denies dual citizenship|url=https://awoko.org/2018/01/18/sierra-leone-news-kamarainba-denies-dual-citizenship-discloses-income/|website=Awoko|accessdate=14 March 2018}}</ref> Two cases were brought to the Supreme Court: one filed on 5 February by an activist of the ruling All Peoples Congress party claiming that Yumkella is a ''naturalised citizen'' and therefore unqualified to contest the elections; and another filed by Charles Margai, a flag bearer for People's Movement for Democratic Change (PMDC), claiming that the APC’s standard bearer is unqualified to run for president because he is a dual citizen and did not resign his ministerial position – for which he was paid from the state’s consolidated revenue – long enough to meet the constitutional requirement.<ref>{{cite web|last1=Thomas|first1=Abdul Rashid|title=Yumkella at the Supreme Court|url=http://www.thesierraleonetelegraph.com/kandeh-yumkella-at-the-supreme-court-today-sierra-leones-stability-at-risk/|website=The Sierra Leone Telegraph|accessdate=14 March 2018|date=28 February 2018}}</ref> The defense of Yumkella appealed to the Supreme Court to have two of the judges removed from the case, then the matter was adjourned until 28 March (after the 7 March election) for the two new judges to study the case.<ref>{{cite web|last1=Bangura|first1=Bernice|title=Sierra Leone Supreme Court Makes Decision On Kandeh Yumkella|url=http://sierraloaded.net/breaking-sierra-leone-supreme-court-makes-decision-kandeh-yumkella/|website=Sierraloaded|accessdate=14 March 2018|date=6 March 2018}}</ref> The dual citizenship issue will be remembered by citizens for propagating the slang term ''two-SIM'' to describe a person with dual citizenship.
+
+==Results==
+The National Electoral Commission reported 3,178,663 registered voters (of which 1,654,228 were female) and a voter turnout of 2,676,549 (84.2%) across 3,300 polling centres and 11,122 polling stations.<ref name=ByNumbers>{{cite web|title=7 March 2018 Elections in Sierra Leone by Numbers|url=http://necsl2018.org/wp-content/uploads/2018/03/Election-Figures_1403.pdf|website=National Electoral Commission|accessdate=14 March 2018|archive-url=https://web.archive.org/web/20180315070525/http://necsl2018.org/wp-content/uploads/2018/03/Election-Figures_1403.pdf|archive-date=15 March 2018|url-status=dead|df=dmy-all}}</ref>
+
+===President===
+<onlyinclude>{{Election results
+|cand1=[[Julius Maada Bio]]|vp1=[[Mohamed Juldeh Jalloh]]|party1=[[Sierra Leone People's Party]]|votes1=1097482|votes1_2=1319406
+|cand2=[[Samura Kamara]]|vp2=[[Chernor Maju Bah]]|party2=[[All People's Congress]]|votes2=1082748|votes2_2=1227171
+|cand3=[[Kandeh Yumkella]]|vp3=Andrew Karmoh Keili|party3=[[National Grand Coalition]]|votes3=174014
+|cand4=[[Samuel Sam-Sumana]]|vp4=David Bai Conteh|party4=[[Coalition for Change (Sierra Leone)|Coalition for Change]]|votes4=87720
+|cand5=Mohamed Kamaraimba Mansaray|vp5=Isata Abdulai Kamara|party5=Alliance Democratic Party|votes5=26704
+|cand6=Gbandi Jemba Ngobeh|vp6=Ansumama Mambu Porga Fowai|party6=[[Revolutionary United Front]]|votes6=12827
+|cand7=Musa Tarawally|vp7=Paul Alimamy Bangura|party7=Citizens Democratic Party|votes7=11493
+|cand8=[[Charles Margai]]|vp8=[[Isata Dora Bangura]]|party8=[[People's Movement for Democratic Change]]|votes8=9864
+|cand9=Mohamed Charnoh Bah|vp9=Victoria Hunter|party9=[[National Democratic Alliance (Sierra Leone)|National Democratic Alliance]]|votes9=8344
+|cand10=Mohamed Sowa-Turay|vp10=Alex Brihim Matthew Kai Kai|party10=United Democratic Movement|votes10=5695
+|cand11=Patrick John O'Dwyer|vp11=Blanche Joko Samura|party11=National Progressive Democrats|votes11=4239
+|cand12=Kandeh Baba Conteh|vp12=Abu Bakarr Salaiman Tarawally|party12=[[Peace and Liberation Party]]|votes12=4233
+|cand13=[[Femi Claudius Cole]]|vp13=Mohamed S.V Jr Tarawalley|party13=Unity Party|votes13=3825
+|cand14=Saa Henry Kabuta|vp14=Benedit Lansana Kargbo|party14=[[United National People's Party]]|votes14=3061
+|cand15=Beresford Victor Williams|vp15=Septimus Mohamed Kemokai|party15=Republic National Independent Party|votes15=2555
+|cand16=Jonathan Patrick Sandy|vp16=Safiatu Blango|party16=National Unity and Reconciliation Party|votes16=2318
+|invalid=139427
+|electorate=3178663
+|invalid2=31694
+|electorate2=3178663
+|source=[https://web.archive.org/web/20180314174520/http://necsl2018.org/wp-content/uploads/2018/03/FINAL.pdf NECSL], [https://web.archive.org/web/20180404234529/http://necsl2018.org/wp-content/uploads/2018/04/2018-Presidential-run-off-Elections-Result-4-april.pdf NECSL]
+}}</onlyinclude>
+
+====By district====
+{|class=wikitable style=text-align:right
+!colspan=5|Second round
+|-
+!rowspan=2|[[Districts of Sierra Leone|District]]
+!colspan=2|Samura
+!colspan=2|Bio
+|-
+!Votes
+!%
+!Votes
+!%
+|-
+|align=left|[[Kenema District]]||27,308||11.45||211,232||88.55
+|-
+|align=left|[[Kono District]]||34,636||27.39||91,823||72.61
+|-
+|align=left|[[Kailahun District]]||13,343||10.04||119,502||89.96
+|-
+|align=left|[[Port Loko District]]||153,608||85.01||27,084||14.99
+|-
+|align=left|[[Kambia District]]||69,542||69.75||30,155||30.25
+|-
+|align=left|[[Karene District]]||73,514||88.94||9,146||11.06
+|-
+|align=left|[[Tonkolili District]]||143,500||86.32||22,748||13.68
+|-
+|align=left|[[Bombali District]]||144,056||90.68||14,807||9.32
+|-
+|align=left|[[Koinadugu District]]||40,210||67.91||19,004||32.09
+|-
+|align=left|[[Falaba District]]||22,562||57.23||16,862||42.77
+|-
+|align=left|[[Bo District]]||26,145||10.66||219,131||89.34
+|-
+|align=left|[[Moyamba District]]||21,045||17.91||96,456||82.09
+|-
+|align=left|[[Bonthe District]]||3,804||4.76||76,119||95.24
+|-
+|align=left|[[Pujehun District]]||6,701||8.39||73,121||91.61
+|-
+|align=left|[[Western Area Urban District]]||315,764||60.98||202,046||39.02
+|-
+|align=left|[[Western Area Rural District]]||131,433||59.31||90,170||40.69
+|-
+|align=left colspan=9|Source: [https://web.archive.org/web/20180404234529/http://necsl2018.org/wp-content/uploads/2018/04/2018-Presidential-run-off-Elections-Result-4-april.pdf NECSL]
+|}
+
+===Parliament===
+A total of 795 candidates contested the parliamentary elections, of whom 100 were female.<ref name=ByNumbers/>
+
+<onlyinclude>{{Election results
+|image=[[File:Sierra Leone Parliament 2018.svg]]
+|party1=[[All People's Congress]]|votes1=989431|seats1=68|sc1=+1
+|party2=[[Sierra Leone People's Party]]|votes2=964659|seats2=49|sc2=+7
+|party3=[[National Grand Coalition]]|votes3=215315|seats3=4|sc3=New
+|party4=[[Coalition for Change (Sierra Leone)|Coalition for Change]]|votes4=119006|seats4=8|sc4=New
+|party5=Citizens Democratic Party|votes5=31589|seats5=0|sc5=0
+|party6=Alliance Democratic Party|votes6=19849|seats6=0|sc6=New
+|party7=[[People's Movement for Democratic Change]]|votes7=19053|seats7=0|sc7=0
+|party8=National Progressive Democrats|votes8=5173|seats8=0|sc8=New
+|party9=Unity Party|votes9=3715|seats9=0|sc9=New
+|party10=[[National Democratic Alliance (Sierra Leone)|National Democratic Alliance]]|votes10=3534|seats10=0|sc10=0
+|party11=[[People's Democratic Party (Sierra Leone)|People's Democratic Party]]|votes11=2428|seats11=0|sc11=0
+|party12=[[Peace and Liberation Party]]|votes12=2278|seats12=0|sc12=0
+|party13=United Democratic Movement|votes13=1645|seats13=0|sc13=0
+|party14=Republic National Independent Party|votes14=678|seats14=0|sc14=New
+|party15=[[United National People's Party]]|votes15=620|seats15=0|sc15=0
+|party16=[[Revolutionary United Front]]|votes16=438|seats16=0|sc16=0
+|party17=National Unity and Reconciliation Party|votes17=165|seats17=0|sc17=New
+|party18=Independents|votes18=98439|seats18=3|sc18=+3
+|row19=Paramount chiefs|seats19=14|sc19=+2
+|invalid=
+|total_sc=+14
+|electorate=3178663
+|source=[https://eeas.europa.eu/sites/eeas/files/eu_eom_sl_2018_final_report_2.pdf EEAS], [https://web.archive.org/web/20180331020507/https://necsl2018.org/parliamentary-election-progressive-results/ NECSL]
+}}</onlyinclude>
+
+==References==
+{{reflist}}
+
+{{Sierra Leonean elections}}
+
+[[Category:2018 elections in Africa|Sierra Leone]]
+[[Category:2018 in Sierra Leone]]
+[[Category:Presidential elections in Sierra Leone|2018]]
+[[Category:Elections in Sierra Leone|2018]]
+[[Category:Election and referendum articles with incomplete results|2018]]
+[[Category:March 2018 in Africa]]
+[[Category:Julius Maada Bio]]
+[[Category:March 2018 elections]]

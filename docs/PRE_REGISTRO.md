@@ -100,4 +100,6 @@ O autor pediu a probabilidade de o resultado ter acontecido dado o histórico. C
 
 | # | Data | Antes ou depois de ver números | O quê |
 |---|---|---|---|
-| — | — | — | — |
+| 1 | 26/10/2026, 14h55 | antes de qualquer conta de 1º contra 2º turno (só as contas só do 2º turno, rodada 2, tinham rodado) | **Fonte de SP, TO e exterior no 1º turno:** o servidor de resultados do TSE passou a responder 429 faltando 30.656 seções; essas três UFs vêm do boletim de urna em arquivo único por UF (BU na Web, `cdn.tse.jus.br`, conferido pelo `.sha512` publicado). Antes de usar, comparado com as 73.000 seções de SP já baixadas: iguais em todas, nas 9 colunas (`resultados/emenda1_conferencia_bweb.json`) |
+| 2 | 26/10/2026 | depois de ver a rodada 2 | **A4 (RDV):** o tipo de voto 6 do RDV, que só aparece nos 6 estados com governador no 2º turno, é contado como nulo, como faz o boletim; o resultado pela letra da regra (586 seções) fica publicado |
+| 3 | 26/10/2026 | depois de ver a rodada 2 | **A6:** a proporção de votos depois das 17h é medida também contra o comparecimento do boletim, porque nas urnas trocadas o log só cobre a substituta; o resultado pela letra da regra (34 seções) fica publicado |

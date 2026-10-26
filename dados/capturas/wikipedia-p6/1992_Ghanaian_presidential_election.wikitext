@@ -1,0 +1,67 @@
+{{short description|none}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox election
+| country = Ghana
+| type = presidential
+| previous_election = 1979 Ghanaian general election
+| previous_year = 1979
+| next_election = 1996 Ghanaian general election
+| next_year = 1996
+| election_date = 3 November 1992
+| turnout = 50.16%
+| image_size = 130x130px
+| image1 = Jerry Rawlings visits AMISOM 02 (6874167713) (cropped).jpg
+| nominee1 = '''[[Jerry Rawlings]]'''
+| party1 = National Democratic Congress (Ghana)
+| alliance_name = no
+| alliance1 = Progressive Alliance
+| popular_vote1 = '''2,323,135'''
+| percentage1 = '''58.40%'''
+| image2 = 
+| nominee2 = {{nowrap|[[Albert Adu Boahen]]}}
+| party2 = New Patriotic Party
+| alliance2 = —
+| popular_vote2 = 1,204,764
+| percentage2 = 30.29%
+| image3 = Hilla Limann (cropped).jpg
+| color3 = E62020
+| nominee3 = [[Hilla Limann]]
+| party3 = [[People's National Convention (Ghana)|PNC]]
+| alliance3 = —
+| popular_vote3 = 266,710
+| percentage3 = 6.70%
+| map_image = 1992 Ghanaian presidential election (percentage by region) no heading.svg
+| title = [[President of Ghana|President]]
+| before_election = 
+| before_party = 
+| after_election = [[Jerry Rawlings]]
+| after_party = National Democratic Congress (Ghana)
+}}{{Politics of Ghana}}
+
+Presidential elections were held in [[Ghana]] on 3 November 1992. They were the first contested elections held in the country since [[1979 Ghanaian general election|1979]], and only the fourth contested elections of any sort since the country gained independence in 1957.
+
+[[Jerry Rawlings]], who had led the country since taking power in a 1981 coup, had grudgingly agreed to hold multiparty elections earlier in the year.<ref name="NYT"/> Rawlings ran as the candidate of the Progressive Alliance, which included his [[National Democratic Congress (Ghana)|National Democratic Congress]], and won 58.4% of the vote, enough to win without the need for a runoff. Voter turnout was 50.2%.<ref>[[Dieter Nohlen]], Michael Krennerich & Bernhard Thibaut (1999) ''Elections in Africa: A data handbook'', p. 438 {{ISBN|0-19-829645-2}}</ref>
+
+The opposition accused Rawlings and his supporters of engaging in massive fraud,<ref>{{Cite journal |last=Lyons |first=Terrence |date=1997 |title=Ghana’s Encouraging Elections: A Major Step Forward |url=https://doi.org/10.1353/jod.1997.0019 |journal=Journal of Democracy |volume=8 |issue=2 |pages=65–77 |doi=10.1353/jod.1997.0019 |issn=1086-3214|url-access=subscription }}</ref> including ballot-box stuffing and altering results after they were certified. Nonetheless, international observers pronounced the elections free and fair.<ref name="NYT">{{cite news|url=https://www.nytimes.com/1992/11/06/world/ghana-s-leader-wins-election-as-president.html|title=Ghana's Leader Wins Election as President|work=[[The New York Times]]|date=6 November 1992}}</ref>
+
+==Results==
+{{Election results
+|cand1=[[Jerry Rawlings]]|party1=Progressive Alliance ([[National Democratic Congress (Ghana)|NDC]]–[[National Convention Party (Ghana)|NCP]]–[[Every Ghanaian Living Everywhere|EGLE]])|votes1=2323135
+|cand2=[[Albert Adu Boahen]]|party2=[[New Patriotic Party]]|votes2=1204764
+|cand3=[[Hilla Limann]]|party3=[[People's National Convention (Ghana)|People's National Convention]]|votes3=266710
+|cand4=[[Kwabena Darko]]|party4=[[National Independence Party (Ghana)|National Independence Party]]|votes4=113629
+|cand5=[[Emmanuel Erskine]]|party5=[[People's Heritage Party]]|votes5=69827
+|invalid=149811
+|electorate=8229902
+|source=Nohlen ''et al.''
+}}
+
+==References==
+{{Reflist}}
+
+{{Ghanaian elections}}
+
+[[Category:Presidential elections in Ghana]]
+[[Category:1992 in Ghana|Presidential]]
+[[Category:1992 elections in Africa|Ghana]]
+[[Category:November 1992 in Africa|Ghana]]

@@ -1,0 +1,57 @@
+{{Short description|none}}
+{{Infobox election
+| election_name = 2001 Moldovan presidential election
+| country = Moldova
+| flag_year = 1990
+| type = presidential
+| ongoing = no
+| party_colour = no
+| previous_election = 1996 Moldovan presidential election
+| previous_year = 1996
+| next_election = 2005 Moldovan presidential election
+| next_year = 2005
+| seats_for_election = The office of [[President of Moldova|President]] [[Moldova|of Moldova]]
+| election_date = 4 April 2001
+| turnout = 
+| image1 = [[File:VoroninVladimir2008.jpg|150x150px]]
+| colour1 = CC3333
+| nominee1 = '''[[Vladimir Voronin]]'''
+| party1 = Party of Communists of the Republic of Moldova
+| electoral_vote1 = '''71'''
+| alliance1 = 
+| image2 = [[File:Braghis.jpg|150x150px]]
+| colour2 = F2E125
+| nominee2 = [[Dumitru Braghiş]]
+| party2 = [[Braghiș Alliance]]
+| electoral_vote2 = 15
+| alliance2 = 
+| title = President
+| before_election = [[Petru Lucinschi]]
+| before_party = Independent politician
+| after_election = [[Vladimir Voronin]]
+| after_party = [[Party of Communists of the Republic of Moldova|PCRM]]
+}}
+
+An [[Indirect election|indirect]] presidential election was held in [[Moldova]] on 4 April 2001. The [[Party of Communists of the Republic of Moldova]] (PCRM) won 50.07% of the vote and 71 of the 101 seats in the [[2001 Moldovan parliamentary election|February 2001 parliamentary election]]; by this time the constitution had been changed to provide for election of the President through the Parliament rather than popular vote.<ref name=PP>''Political Parties of the World'' (6th edition, 2005), ed. Bogdan Szajkowski, page 414.</ref> In March, the PCRM's Central Committee nominated [[Vladimir Voronin]] as its presidential candidate at a plenum,<ref>"Moldovan communists determined to keep links with West", ''Kommersant'' (nl.newsbank.com), March 7, 2001.</ref> and on April 4, 2001 Voronin was elected as president by the Parliament. Of the 89 deputies participating in the vote, 71 voted for Voronin, 15 voted for [[Dumitru Braghiş]], and three voted for [[Valerian Cristea]].<ref>"Moldovan Communist Party leader elected president", [[Basapress news agency]] (nl.newsbank.com), April 4, 2001.</ref> He was sworn in at a ceremony in Chişinău on April 7, 2001.<ref>"Moldovan president sworn in", ITAR-TASS news agency (nl.newsbank.com), April 7, 2001.</ref> The [[Constitutional Court of Moldova|Constitutional Court]] ruled that the President could also lead a political party, and Voronin was re-elected as the PCRM's leader.<ref name=PP/>
+
+==Results==
+{{Election results
+|cand1=[[Vladimir Voronin]]|party1=[[Party of Communists of the Republic of Moldova|Party of Communists]]|votes1=71
+|cand2=[[Dumitru Braghiş]]|party2=[[Braghiș Alliance]]|votes2=15|color2=#F2E125
+|cand3=Valerian Cristea|party3=[[Independent politician|Independent]]|votes3=3
+|invalid=0
+|electorate=101
+|source=[http://www.e-democracy.md/en/elections/presidential/2005/ eDemocracy]
+}}
+
+==References==
+{{Reflist}}
+
+{{Moldovan presidential elections}}
+{{Moldovan Elections}}
+
+[[Category:2001 elections in Moldova]]
+[[Category:2001 in Moldova]]
+[[Category:Presidential elections in Moldova|2001]]
+[[Category:Indirect presidential elections|Moldovan presidential election, 2001]]
+[[Category:April 2001 in Europe]]

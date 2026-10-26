@@ -1,0 +1,84 @@
+{{Short description|none}}
+{{Infobox election
+| country = Mongolia
+| type = presidential
+| previous_election = 1997 Mongolian presidential election
+| previous_year = 1997
+| next_election = 2005 Mongolian presidential election
+| next_year = 2005
+| election_date = 20 May 2001
+| turnout = 82.94% ({{decrease}} 2.12[[percentage point|pp]])
+| votes_for_election = Majority of the [[Direct election|popular vote]] needed to prevent a [[run-off election|run-off]]
+| registered = 1,205,885
+| image1 = Natsagiin Bagabandi (Cropped).png
+| nominee1 = '''[[Natsagiin Bagabandi]]'''
+| party1 = [[Mongolian People's Party|MPRP]]
+| popular_vote1 = '''581,381'''
+| percentage1 = '''59.19%'''
+| image2 = Radnaasumbereliin Gonchigdorj in the 1990s.jpg
+| nominee2 = [[Radnaasümbereliin Gonchigdorj]]
+| party2 = Democratic Party (Mongolia)
+| popular_vote2 = 365,363
+| percentage2 = 37.18%
+| map_image = 2001 Mongolian presidential election map.svg
+| map_caption = Results by province
+| title = President
+| before_election = [[Natsagiin Bagabandi]]
+| before_party = [[Mongolian People's Party|MPRP]]
+| after_election = [[Natsagiin Bagabandi]]
+| after_party = [[Mongolian People's Party|MPRP]]
+| flag_year = 1992
+}}{{Politics of Mongolia}}
+
+Presidential elections were held in [[Mongolia]] on 20 May 2001.<ref>[[Dieter Nohlen]], Florian Grotz & Christof Hartmann (2001) ''Elections in Asia: A data handbook, Volume II'', p490 {{ISBN|0-19-924959-8}}</ref> The result was a victory for incumbent [[Natsagiin Bagabandi]], who received 59% of the vote. Voter turnout was 83%.<ref>Nohlen ''et al''., p491</ref>
+
+== Candidates ==
+{| class="wikitable sortable" style="text-align:center"
+! style="width: 115px;" |Names
+! style="width: 145px;" |Born
+! style="width: 145px;" |Last position
+! colspan="3" style="width: 215px;" |Party
+|-
+| data-sort-value="Bagabandi, Natsag" |[[File:President Natsagiin Bagabandi.jpg|100px]]<br>'''[[Natsagiin Bagabandi]]'''
+|{{dts|1950|04|22|format=dmy}}<br>({{age nts|1950|04|22|2001|5|20}})<br>[[Yaruu, Zavkhan|Yaruu]], [[Zavkhan Province|Zavkhan]], [[Mongolian People's Republic|Mongolia]]
+|Incumbent [[President of Mongolia]]<br>(1997–2005)<br>[[Chairman of the Mongolian People's Party|Chairman of the MPP]]<br>(1997)<br>[[Chairman of the State Great Khural]]<br>(1992–1996)
+|{{party color cell|Mongolian People's Party}}
+|[[File:Logo of the Mongolian People's Party (2000-2010).png|60x60px]]
+|[[Mongolian People's Party|Mongolian People's Revolutionary Party]]
+|-
+| data-sort-value="Gonchigdorj, Radnaasümberel" |[[File:Radnaasumbereliin Gonchigdorj in the 1990s.jpg|100px]]<br>'''[[Radnaasümbereliin Gonchigdorj]]'''
+|{{dts|1953|12|29|format=dmy}}<br>({{age nts|1953|12|29|2001|5|20}})<br>[[Tsakhir]], [[Arkhangai Province|Arkhangai]], [[Mongolian People's Republic|Mongolia]]
+|[[Chairman of the State Great Khural]]<br>(1996–2000)<br>[[Vice President of the Mongolian People's Republic|Vice President of the MPR]]<br>(1990–1992)
+|{{party color cell|Democratic Party (Mongolia)}}
+|[[File:Logo of the Democratic Party of Mongolia (2000-2010s).png|60x60px]]
+|[[Democratic Party (Mongolia)|Democratic Party of Mongolia]]
+|-
+| data-sort-value="Dashnyam, Luvsandambyn" |[[File:Лувсандамба Дашням.jpg|100px]]<br>'''[[Luvsandambyn Dashnyam]]'''
+|{{dts|1943|||format=dmy}}<br>({{age nts|1943|1|1|2001|5|20}})<br>[[Tüvshrüülekh]], [[Arkhangai Province|Arkhangai]], [[Mongolian People's Republic|Mongolia]]
+|Deputy Chairman of the [[People's Great Khural]]<br>(1990–1992)
+|{{party color cell|Civil Will Party}}
+|[[File:Logo of the Civil Will Party.png|60x60px]]
+|[[Civil Will Party]]
+|}
+
+==Results==
+{{Election results
+|cand1=[[Natsagiin Bagabandi]]|party1=[[Mongolian People's Party|Mongolian People's Revolutionary Party]]|votes1=581381
+|cand2=[[Radnaasümbereliin Gonchigdorj]]|party2=[[Democratic Party (Mongolia)|Democratic Party]]|votes2=365363
+|cand3=[[Luvsandambyn Dashnyam]]|party3=[[Civil Will Party]]|votes3=35425
+|row4=Blank votes|votes4=545
+|invalidonly=yes
+|invalid=17411
+|electorate=1205885
+|source=General Election Commission<ref>{{Citation |title=Монгол улсын ерөнхийлөгчийн сонгуулиудын дүнгийн эмхэтгэл |date=2011 |website=[[General Election Commission of Mongolia]] |page=56–76 |trans-title=Compilation of Mongolian presidential election results |url=https://www.gec.gov.mn/uploads/Erunhiilugchiin%20songuuli-1993-2009.pdf |archive-url=https://web.archive.org/web/20240424002713/https://www.gec.gov.mn/uploads/Erunhiilugchiin%20songuuli-1993-2009.pdf |archive-date=24 April 2024 |place=Ulaanbaatar |language=Mongolian}}</ref>
+}}
+
+==References==
+{{reflist}}
+
+{{Mongolian elections}}
+
+[[Category:2001 elections in Asia|Mongolia]]
+[[Category:2001 in Mongolia|Presidential]]
+[[Category:Presidential elections in Mongolia]]
+[[Category:May 2001 in Asia|Mongolia]]

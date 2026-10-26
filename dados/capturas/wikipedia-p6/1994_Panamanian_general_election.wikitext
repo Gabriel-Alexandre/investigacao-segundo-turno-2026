@@ -1,0 +1,120 @@
+{{Short description|none}}
+{{Infobox election
+| country = Panama
+| previous_election = 1989 Panamanian general election
+| previous_year = 1989
+| next_election = 1999 Panamanian general election
+| next_year = 1999
+| election_date = 8 May 1994
+
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| turnout = 73.67% ({{increase}} 13.19[[percentage point|pp]])
+
+| image1 = Mr. Ernesto Perez Balladares (cropped).jpg
+| nominee1 = '''[[Ernesto Pérez Balladares]]'''
+| running_mate1 = [[Tomas Altamirano Duque]]
+| party1 = Democratic Revolutionary Party
+| popular_vote1 = '''355,307'''
+| percentage1 = '''33.30%'''
+
+| image2 = Mireya Moscoso in 2012.jpg
+| nominee2 = '''[[Mireya Moscoso]]'''
+| running_mate2 = [[Dominador Baldomero Bazán]]
+| party2 = [[Panameñista Party|Arnulfista]]
+| popular_vote2 = 310,372
+| percentage2 = 29.09%
+
+| image4 = Ruben Blades by Gage Skidmore.jpg
+| nominee4 = [[Rubén Blades]]
+| running_mate4 = Fernando Manfredo
+| party4 = {{ill|Mother Earth Movement|es|Movimiento Papa Egoró|lt=MPE}}
+| popular_vote4 = 182,405
+| percentage4 = 17.10%
+
+| image5 =
+| nominee5 = [[Rubén Darío Carles]]
+| running_mate5 = Guillermo Quijano
+| party5 = [[Nationalist Republican Liberal Movement|MOLIRENA]]
+| popular_vote5 = 171,192
+| percentage5 = 16.05%
+
+| title = [[President of Panama|President]]
+| before_election = [[Guillermo Endara]]
+| before_party = Panameñista Party
+| after_election = [[Ernesto Pérez Balladares]]
+| after_party = Democratic Revolutionary Party
+}}}}{{Politics of Panama}}
+
+General elections were held in [[Panama]] on 8 May 1994, electing both a new President of the Republic and a new Legislative Assembly.
+
+[[Ernesto Pérez Balladares]] stood as a candidate for the [[Democratic Revolutionary Party]] (PRD), opposing [[Mireya Moscoso]] of the [[Arnulfista Party]] and the salsa singer [[Rubén Blades]], who was then president of the party [[Papa Egoro]]. In the [[1989 Panamanian general election|1989 general election]], Pérez Balladares had served as the campaign manager for [[Carlos Duque]], the hand-picked candidate of military ruler [[Manuel Noriega]], and his 1994 opponents sought to emphasize his connection with Noriega, broadcasting pictures of the two together.<ref name=NYT1>{{cite web |url=https://www.nytimes.com/1994/02/21/world/panama-journal-democracy-at-work-under-shadow-of-dictators.html?pagewanted=all&src=pm |title=Panama Journal; Democracy at Work, Under Shadow of Dictators |author=Howard W. French |date=February 21, 1994 |work=The New York Times |archivedate=August 8, 2014 |url-status=live |archiveurl=https://web.archive.org/web/20140808184548/http://www.nytimes.com/1994/02/21/world/panama-journal-democracy-at-work-under-shadow-of-dictators.html?pagewanted=all&src=pm |accessdate=September 2, 2012}}</ref> Pérez Balladares denied the link, describing the current PRD as "diametrically opposed" to Noriega's policies.<ref name=WP1 /> Instead, he worked to position himself as a successor to Torrijos, who was regarded as a national hero. The incumbent Arnulfista Party, meanwhile, was seen as hobbled by dissatisfaction with the perceived incompetence and corruption of Endara's government.<ref name=WP1>{{cite news |url=http://www.highbeam.com/doc/1P2-889827.html |title=Panamanians Vote in Peace, Picking Ex-Aide of Noriega; Millionaire Perez Balladares Bests Widow of Four-Time President |author=Douglas Farah |date=May 9, 1994 |newspaper=The Washington Post |archive-date=March 29, 2015 |archive-url=https://web.archive.org/web/20150329104016/http://www.highbeam.com/doc/1P2-889827.html |via=[[HighBeam Research]] |url-access=subscription |url-status=usurped |access-date=September 2, 2012}}</ref> He ultimately won the election with 33% of the vote, with Moscoso receiving 29% and Blades receiving 17%.<ref>{{cite web |url=http://www.umsl.edu/services/govdocs/wofact98/193.htm |title=Panama |publisher=University of Missouri-Saint Louis |archivedate=October 23, 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20121023195301/http://www.umsl.edu/services/govdocs/wofact98/193.htm |accessdate=September 2, 2012}}</ref>
+
+The PRD "also achieved an effective majority in the new National Assembly. The big surprise was not the victory of the PRD, but the nearly successful challenge of Mireya Moscoso de Gruber, the candidate of the Arnulfista Party".<ref>Falcoff, Mark. The 1994 Panamanian elections: post-election report. Washington: CSIS Americas Program. 1994. Pp. 1.
+</ref>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[Ernesto Pérez Balladares]]|alliance1=United People Alliance|aspan1=4|party1=[[Democratic Revolutionary Party]]|votes1=326095
+|party2=[[Labor and Agrarian Party]]|votes2=17046
+|party3=[[Republican Liberal Party (Panama)|Republican Liberal Party]]|votes3=12166
+|atotal4=355307
+|cand5=[[Mireya Moscoso]]|alliance5=Democratic Alliance|aspan5=5|party5=[[Panameñista Party|Arnulfista Party]]|votes5=211780
+|party6=[[Liberal Party (Panama)|Liberal Party]]|votes6=46775
+|party7=[[Authentic Liberal Party]]|votes7=43797
+|party8=[[Independent Democrat Union (Panama)|Independent Democrat Union]]|votes8=8020
+|atotal9=310372
+|cand10=[[Rubén Blades]]|alliance10={{ill|Mother Earth Movement|es|Movimiento Papa Egoró}}|votes10=182405
+|cand11=[[Rubén Dario Carles]]|alliance11=Alliance for Change '94|aspan11=4|party11=[[Nationalist Republican Liberal Movement]]|votes11=115478
+|party12=[[National Renewal Movement (Panama)|National Renewal Movement]]|votes12=32122
+|party13=[[Civic Renewal Party]]|votes13=23592
+|atotal14=171192
+|cand15=[[Eduardo Vallarino]]|alliance15=[[People's Party (Panama)|Christian Democratic Party]]|votes15=25476
+|cand16=[[Samuel Lewis Galindo]]|alliance16=National Concertation|aspan16=3|party16=[[Solidarity Party (Panama)|Solidarity Party]]|votes16=9304
+|party17=[[National Unity Mission Party]]|votes17=9120
+|atotal18=18424
+|cand19=[[José Salvador Muñoz]]|alliance19=Doctrinaire Panameñista Party||votes19=3668
+|invalid=37734
+|electorate=1499451
+|source=Nohlen<ref>Elections in the Americas : a data handbook / ed. by Dieter Nohlen, Vol. 1. [Oxford] [u.a.]: Oxford Univ. Press, 2005. Pp.534.</ref><ref>{{Cite web |date=8 May 1994 |title=VOTOS OBTENIDOS PARA CANDIDATOS POR ALIANZA Y PARTIDO POLITICO EN LA REPUBLICA, SEGUN PROVINCIA, COMARCA Y CIRCUITO ELECTORAL: ELECCIONES POPULARES PARA PRESIDENTE, DEL 8 DE MAYO DE 1994 |url=https://www.tribunal-electoral.gob.pa/wp-content/uploads/2017/07/Cuadro_02_-_Presidente_x_circuito.pdf |website=Electoral Tribunal}}</ref>
+}}
+
+===National Assembly===
+{{Election results
+|alliance1=United People Alliance|aspan1=4|party1=[[Democratic Revolutionary Party]]|votes1=236319|seats1=30
+|party2=[[Labor and Agrarian Party]]|votes2=28172|seats2=1
+|party3=[[Republican Liberal Party (Panama)|Republican Liberal Party]]|votes3=24979|seats3=2
+|atotal4=289470|aseats4=33
+|alliance5=Democratic Alliance|aspan5=5|party5=[[Panameñista Party|Arnulfista Party]]|votes5=150217|seats5=14
+|party6=[[Liberal Party (Panama)|Liberal Party]]|votes6=35516|seats6=2
+|party7=[[Authentic Liberal Party]]|votes7=31045|seats7=2
+|party8=[[Independent Democrat Union (Panama)|Independent Democrat Union]]|votes8=13106|seats8=1
+|atotal9=229884|aseats9=19
+|alliance10=Alliance for Change '94|aspan10=4|party10=[[Nationalist Republican Liberal Movement]]|votes10=116833|seats10=5
+|party11=[[National Renewal Movement (Panama)|National Renewal Movement]]|votes11=68581|seats11=1
+|party12=[[Civic Renewal Party]]|votes12=57590|seats12=3
+|atotal13=243004|aseats13=9
+|alliance14={{ill|Mother Earth Movement|es|Movimiento Papa Egoró}}|votes14=99760|seats14=6
+|alliance15=National Concertation|aspan15=3|party15=[[Solidarity Party (Panama)|Solidarity Party]]|votes15=67306|seats15=4
+|party16=[[National Unity Mission Party]]|votes16=27017|seats16=0
+|atotal17=94323|aseats17=4
+|alliance18=[[People's Party (Panama)|Christian Democratic Party]]|votes18=66411|seats18=1
+|alliance19=Doctrinaire Panameñista Party|votes19=10720|seats19=0
+|invalid=58184
+|electorate=1499451
+|source=Nohlen<ref>Elections in the Americas : a data handbook / ed. by Dieter Nohlen, Vol. 1. [Oxford] [u.a.] : Oxford Univ. Press, 2005. Pp.528.</ref>
+|image=[[File:Panama National Assembly 1994.svg]]}}
+
+==References==
+{{reflist}}
+
+{{Panamanian elections}}
+
+[[Category:1994 elections in Central America|Panama]]
+[[Category:1994 in Panama|General]]
+[[Category:Elections in Panama]]
+[[Category:Presidential elections in Panama]]
+[[Category:May 1994 in North America]]

@@ -1,0 +1,57 @@
+{{Short description|National election}}
+{{Infobox election
+| election_name = 2005 Moldovan presidential election
+| country = Moldova
+| flag_year = 1990
+| type = presidential
+| ongoing = no
+| party_colour = no
+| previous_election = 2001 Moldovan presidential election
+| previous_year = 2001
+| next_election = May–June 2009 Moldovan presidential election
+| next_year = May–June 2009
+| seats_for_election = The office of [[President of Moldova|President]] [[Moldova|of Moldova]]
+| election_date = 4 April 2005
+| turnout = 
+| image1 = [[File:VoroninVladimir2008.jpg|150px]]
+| colour1 = CC3333
+| nominee1 = '''[[Vladimir Voronin]]'''
+| party1 = Party of Communists of the Republic of Moldova
+| electoral_vote1 = '''75'''
+| alliance1 = 
+| image2 = [[Flickr - Ion Chibzii - The president of Academy of Sciences of Moldova.jpg|150px]]
+| colour2 = 
+| nominee2 = [[Gheorghe Duca]]
+| party2 = Independent politician
+| electoral_vote2 = 1
+| alliance2 = 
+| title = President
+| before_election = [[Vladimir Voronin]]
+| before_party = [[Party of Communists of the Republic of Moldova|PCRM]]
+| after_election = [[Vladimir Voronin]]
+| after_party = [[Party of Communists of the Republic of Moldova|PCRM]]
+}}
+
+An [[Indirect election|indirect]] presidential election was held in [[Moldova]] on 4 April 2005. In the [[2005 Moldovan parliamentary election|parliamentary elections in March 2005]], the [[Party of Communists of the Republic of Moldova]] (PCRM) received 46.1% of the vote and won 56 seats in the 101-member Parliament — more than enough for the 51-vote minimum required to remain in government, but short of the 61 votes necessary to elect a president. However, President Voronin received the necessary support from the [[Christian-Democratic People's Party (Moldova)|Christian Democratic People's Party]], the [[Democratic Party of Moldova|Democratic]] and [[Social Liberal Party (Moldova)|Social Liberal]] factions, after he promised to deliver on needed reforms and [[European Union|Euro]]-[[NATO|Atlantic]] integration for the country. (The latter two factions broke away from the [[Electoral Bloc “Moldova Democrată”]] following the election, leaving the [[Party Alliance Our Moldova|''Our Moldova'' Alliance]] (AMN) of the former [[Mayor of Chişinău]] [[Serafim Urechean]] as the second-largest party in Parliament, with 26 seats). Voronin was re-elected with 75 votes; another candidate, [[Gheorghe Duca]], received one vote, and two votes were invalid.<ref>"Moldovan parliament re-elects Voronin as president", Moldova One TV (nl.newsbank.com), April 4, 2005.</ref>
+
+==Results==
+{{Election results
+|cand1=[[Vladimir Voronin]]|party1=[[Party of Communists of the Republic of Moldova]]|votes1=75
+|cand2=[[Gheorghe Duca]]|party2=[[Independent politician|Independent]]|votes2=1
+|invalid=2
+|electorate=101
+|source=[http://www.e-democracy.md/en/elections/presidential/2005/ eDemocracy]
+}}
+
+==References==
+{{Reflist}}
+
+==External links==
+
+{{Moldovan presidential elections}}
+{{Moldovan Elections}}
+
+[[Category:2005 elections in Moldova]]
+[[Category:2005 in Moldova]]
+[[Category:Presidential elections in Moldova|2005]]
+[[Category:Indirect presidential elections|Moldovan presidential election, 2005]]

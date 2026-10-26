@@ -1,0 +1,159 @@
+{{Short description|none}}
+{{Infobox election
+| country = Guinea-Bissau
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+| previous_election = 2012 Guinea-Bissau presidential election
+| previous_year = 2012
+| next_election = 2019 Guinea-Bissau presidential election
+| next_year = 2019
+| election_date = 13 April 2014 (first round)<br />18 May 2014 (second round)
+| registered = 775,508
+| turnout = 89.29% (first round)<br/>78.21% (second round)
+
+| image1 = José Mário Vaz 2014.jpg
+| nominee1 = '''[[José Mário Vaz]]'''
+| party1 = African Independence Party of Guinea and Cape Verde
+| popular_vote1 = '''364,394'''
+| percentage1 = '''61.92%'''
+| image2 = Nuno Gomes Nabiam.png
+| nominee2 = [[Nuno Gomes Nabiam]]
+| party2 = Independent politician
+| popular_vote2 = 224,089
+| percentage2 = 38.08%
+| map = {{Switcher
+| [[File:2014 Guinea-Bissau presidential election -.Results by region (First round).svg|300px]]
+| First round results by [[Regions of Guinea-Bissau|region]]
+| [[File:2014 Guinea-Bissau presidential election -.Results by region (Second round).svg|300px]]
+| Second round results by region|default=2}}
+| title = [[List of presidents of Guinea-Bissau|President]]
+| before_election = [[Manuel Serifo Nhamadjo]] (acting)
+| before_party = Independent politician
+| after_election = [[José Mário Vaz]]
+| after_party = African Party for the Independence of Guinea and Cape Verde
+| module = {{Infobox legislative election
+| election_name = Parliamentary election
+| previous_election = [[2008 Guinea-Bissau parliamentary election|2008]]
+| next_election = [[2019 Guinea-Bissau parliamentary election|2019]]
+| embed = yes
+| election_date = 13 April 2014
+| seats_for_election = All 102 seats in the [[National People's Assembly (Guinea-Bissau)|National People's Assembly]]
+| majority_seats = 52
+| turnout = 88.57% ({{increase}} 6.57[[percent point|pp]])
+
+| party1 = African Party for the Independence of Guinea and Cape Verde
+| leader1 = [[Malam Bacai Sanhá]]
+| percentage1 = 47.98
+| last_election1 = 67
+| seats1 = 57
+
+| party2 = Party for Social Renewal
+| leader2 = Abel Incanda
+| percentage2 = 30.76
+| last_election2 = 28
+| seats2 = 41
+
+| party4 = [[Democratic Convergence Party (Guinea-Bissau)|PCD]]
+| leader4 = Victor Mandinga
+| percentage4 = 3.37
+| last_election4 = 1
+| seats4 = 2
+
+| party5 = [[Union for Change|UM]]
+| leader5 = Bubacar Rachid Djaló
+| percentage5 = 1.84
+| last_election5 = 0
+| seats5 = 1
+
+| party3 = [[New Democracy Party (Guinea-Bissau)|PND]]
+| leader3 = [[Mamadú Iaia Djaló]]
+| percentage3 = 4.87
+| last_election3 = 1
+| seats3 = 1
+
+| map = 2014 Guinea-Bissau legislative election - Results by constituency.svg
+| map_caption = Results by constituency.
+
+| title = [[List of prime ministers of Guinea-Bissau|Prime Minister]]
+| before_election = [[Rui Duarte de Barros]]
+| before_party = [[Independent politician|Independent]] (acting)
+| after_election = [[Domingos Simões Pereira]]
+| after_party = African Party for the Independence of Guinea and Cape Verde
+}}}}}}{{Politics of Guinea-Bissau}}
+
+General elections were held in [[Guinea-Bissau]] on 13 April 2014, with a second round for the presidential elections held on 18 May since no candidate received a majority in the first round. Several logistic problems and delays caused the elections to be repeatedly postponed, having initially been scheduled for 24 November 2013 and then 16 March 2014.<ref>[https://www.reuters.com/article/us-bissau-election-idUSBRE9AE0Q420131115 Guinea-Bissau postpones post-coup election until March] {{Webarchive|url=https://web.archive.org/web/20201103150921/https://www.reuters.com/article/us-bissau-election-idUSBRE9AE0Q420131115 |date=2020-11-03 }} Reuters, 15 November 2013</ref> In the second round, [[José Mário Vaz]] of the [[African Party for the Independence of Guinea and Cape Verde]] was declared the president-elect with 62% of the vote.<ref>{{cite news|title=Vaz elected President of Guinea-Bissau|url=https://www.voanews.com/a/vaz-elected-president-of-guinea-bissau-/1918556.html|newspaper=Voice Of America|date=20 May 2014|access-date=20 May 2014|archive-date=21 May 2014|archive-url=https://web.archive.org/web/20140521031343/http://www.voanews.com/content/vaz-elected-president-of-guinea-bissau-/1918556.html|url-status=live}}</ref>
+
+==Background==
+{{main|2012 Guinea-Bissau coup d'etat}}
+
+The elections were the result of a [[2012 Guinea-Bissau coup d'état|military coup]] in 2012 cancelling the [[2012 Guinea-Bissau presidential election|elections that year]].<ref>{{cite web |url=http://www.mherrera.org/elections.htm |title=Electoral Calendar - international elections world elections |access-date=2011-05-12}}</ref> 
+On 26 February 2014, the [[UN Security Council]] urged Guinea-Bissau's transitional government to abide by announced election plans, warning of sanctions against those opposing a return to constitutional order.
+
+Former President [[Kumba Ialá]] died a few weeks before the elections.<ref>[http://www.sbs.com.au/news/article/2014/04/04/ex-president-guinea-bissau-dies Ex-president of Guinea-Bissau dies] {{Webarchive|url=https://web.archive.org/web/20140405171712/http://www.sbs.com.au/news/article/2014/04/04/ex-president-guinea-bissau-dies |date=2014-04-05 }} SBS, 4 April 2014</ref>
+
+==Electoral system==
+The President were elected using the [[two-round system]], whilst the 102 members of the [[National People's Assembly (Guinea-Bissau)|National People's Assembly]] were elected using [[proportional representation]] from 27 multi-member constituencies.<ref>[http://www.ipu.org/parline-e/reports/2133_B.htm Electoral system] {{Webarchive|url=https://web.archive.org/web/20140414224310/http://www.ipu.org/parline-e/reports/2133_B.htm |date=2014-04-14 }} IPU</ref> Article 33 of Guinea-Bissau's Electoral Law prohibits the publishing of any opinion polls.<ref>{{Cite web|url = http://www.eueom.eu/files/pressreleases/english/preliminarystatementgb14.04.2014enfinal.pdf|title = Holding of Elections Brings Guinea Bissau Closer to Constitutional Normalcy|date = 14 April 2014|location = Hotel Azalai, Bissau|website = European Union Election Observation Mission|access-date = 5 May 2014|archive-date = 5 May 2014|archive-url = https://web.archive.org/web/20140505234652/http://www.eueom.eu/files/pressreleases/english/preliminarystatementgb14.04.2014enfinal.pdf|url-status = live}}</ref>
+
+==Candidates and parties==
+Thirteen presidential candidates were confirmed by the High Court of Justice,<ref>{{Cite web|url = http://allafrica.com/stories/201403270247.html?|title = Guinea Bissau: Tight Timeline As Nation Prepares April 13 Polls|date = 26 March 2014|last = Look|first = Anne|access-date = 14 April 2014|website = allAfrica|archive-date = 15 April 2014|archive-url = https://web.archive.org/web/20140415040337/http://allafrica.com/stories/201403270247.html|url-status = live}}</ref> whilst eight candidates were rejected.<ref name=AN>[https://web.archive.org/web/20140421082324/http://www.anacao.cv/online/index.php?option=com_content&view=article&id=4420:guine-bissau-supremo-chumba-oito-candidaturas-presidenciais-e-sete-partidos&catid=87:destaque&Itemid=475 GUINÉ-BISSAU: SUPREMO “CHUMBA” OITO CANDIDATURAS PRESIDENCIAIS E SETE PARTIDOS] A Nação, 16 March 2014</ref>
+
+The Court approved fifteen parties to contest the National People's Assembly election, but rejected applications from seven other parties; the National African Congress, the [[Guinean Civic Forum-Social Democracy]], the Democratic Party for Development, the [[Guinean Democratic Movement]], the Patriotic Movement, the [[Guinean League for Ecological Protection]] and the Party for Democracy, Development and Citizenship.<ref name=AN/>
+
+==Results==
+===President===
+{{Election results
+|cand1=[[José Mário Vaz]]|party1=[[African Party for the Independence of Guinea and Cape Verde]]|votes1=257572|votes1_2=364394
+|cand2=[[Nuno Gomes Nabiam]]|party2=Independent|votes2=156163|votes2_2=224089
+|cand3=Paulo Gomes|party3=Independent|votes3=65490
+|cand4=Abel Incanda|party4=[[Party for Social Renewal]]|votes4=43890
+|cand5=[[Mamadú Iaia Djaló]]|party5=[[New Democracy Party (Guinea-Bissau)|New Democracy Party]]|votes5=28535
+|cand6=Ibraima Sory Djaló|party6=National Reconciliation Party|votes6=19497
+|cand7=Antonio Afonso Té|party7=[[Republican Party for Independence and Development]]|votes7=18808
+|cand8=Helder Vaz Lopes|party8=Independent|votes8=8888
+|cand9=Domingos Quadé|party9=Independent|votes9=8607
+|cand10=[[Aregado Mantenque Té]]|party10=[[Workers' Party (Guinea-Bissau)|Workers' Party]]|votes10=7269
+|cand11=Luis Nancassa|party11=Independent|votes11=7012
+|cand12=Jorge Malú|party12=Independent|votes12=6125
+|cand13=Cirilo Rodrigues de Oliveira|party13=[[Socialist Party of Guinea-Bissau|Socialist Party]]|votes13=2070
+|invalid=62514|invalid2=18053
+|electorate=775508|electorate2=775508
+|source=[https://web.archive.org/web/20140424192359/http://www.cne-guinebissau.org/PDF/p_votos_totais.pdf CNE], [https://web.archive.org/web/20140521215759/http://www.cne-guinebissau.org/PDF/dados_geral_2.pdf CNE]
+}}
+
+===National People's Assembly===
+{{Election results
+|image=[[File:Assemblee guinee bissau 2014.svg]]
+|party1=[[African Party for the Independence of Guinea and Cape Verde]]|votes1=281408|seats1=57|sc1=–10
+|party2=[[Party for Social Renewal]]|votes2=180432|seats2=41|sc2=+13
+|party3=[[New Democracy Party (Guinea-Bissau)|New Democracy Party]]|votes3=28581|seats3=1|sc3=0
+|party4=[[Democratic Convergence Party (Guinea-Bissau)|Democratic Convergence Party]]|votes4=19757|seats4=2|sc4=+1
+|party5=[[Republican Party for Independence and Development]]|votes5=17919|seats5=0|sc5=–3
+|party6=[[Union for Change]]|votes6=10803|seats6=1|sc6=+1
+|party7=Guinean Patriotic Union|votes7=10919|seats7=0|sc7=0
+|party8=[[Resistance of Guinea-Bissau-Bafatá Movement]]|votes8=9502|seats8=0|sc8=New
+|party9=National Reconciliation Party|votes9=7903|seats9=0|sc9=0
+|party10=[[Manifest Party of the People]]|votes10=4101|seats10=0|sc10=New
+|party11=[[United Social Democratic Party (Guinea-Bissau)|United Social Democratic Party]]|votes11=4048|seats11=0|sc11=0
+|party12=[[Workers' Party (Guinea-Bissau)|Workers' Party]]|votes12=3659|seats12=0|sc12=0
+|party13=[[Socialist Party of Guinea-Bissau|Socialist Part]]|votes13=3480|seats13=0|sc13=0
+|party14=[[Social Democratic Party (Guinea-Bissau)|Social Democratic Party]]|votes14=2302|seats14=0|sc14=0
+|party15=[[Democratic Social Front]]|votes15=1710|seats15=0|sc15=0
+|invalid=100352
+|total_sc=+2
+|electorate=775508
+|source=[https://web.archive.org/web/20140424161924/http://www.cne-guinebissau.org/PDF/l_barra_mandat.pdf CNE] (seats), [https://web.archive.org/web/20140424161158/http://www.cne-guinebissau.org/PDF/l_votos_totais.pdf CNE] (votes)
+}}
+
+==References==
+{{Reflist}}
+
+{{Guinea-Bissau elections}}
+
+[[Category:2014 elections in Africa|Guinea-Bissau]]
+[[Category:2014 in Guinea-Bissau|General]]
+[[Category:April 2014 in Africa|Guinea-Bissau]]
+[[Category:May 2014 in Africa|Guinea-Bissau]]
+[[Category:Parliamentary elections in Guinea-Bissau]]
+[[Category:Presidential elections in Guinea-Bissau]]

@@ -1,0 +1,154 @@
+{{Short description|none}}
+{{Infobox election
+| country = Sierra Leone
+| previous_election = 2007 Sierra Leonean general election
+| previous_year = 2007
+| next_election = 2018 Sierra Leonean general election
+| next_year = 2018
+| election_date = 17 November 2012
+| module = {{Infobox election
+| embed = yes
+| election_name = Presidential election
+| type = presidential
+
+| image1 = Chuck Hagel hosts an honor cordon to welcome Sierra Leone President Bai Koroma, Senegal President Macky Sall, Malawi President Joyce Banda and Cape Verde Prime Minister Jose Maria Neves to the Pentagon (cropped).jpg
+| nominee1 = '''[[Ernest Bai Koroma]]'''
+| party1 = All People's Congress
+| running_mate1 = '''{{nowrap|[[Samuel Sam-Sumana]]}}'''
+| popular_vote1 = '''1,314,881'''
+| percentage1 = '''58.65%'''
+
+| image2 = Julius Maada Bio USDA 2021.jpg
+| nominee2 = [[Julius Maada Bio]]
+| party2 = Sierra Leone People's Party
+| running_mate2 = [[Kadi Sesay]]
+| popular_vote2 = 819,185
+| percentage2 = 37.36%
+
+| map_image = 2012 Sierra Leone presidential election - Results by district2.svg
+| map_caption = Results by district
+
+| title = [[President of Sierra Leone|President]]
+| before_election=[[Ernest Bai Koroma]] 
+| before_party=All People's Congress
+| after_election=[[Ernest Bai Koroma]] 
+| after_party=All People's Congress
+
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Parliamentary election
+| seats_for_election = 112 of the 124 seats in Parliament
+
+| party1 = All People's Congress | leader1 = [[Ernest Bai Koroma]] | percentage1 = 53.67 | seats1 = 67 | last_election1 = 59
+| party2 = Sierra Leone People's Party | leader2 = [[Julius Maada Bio]] | percentage2 = 38.25 | seats2 = 42 | last_election2 = 43
+
+| map = 2012 Sierra Leonean parliamentary election - Results by constituency.svg
+| map_caption = Results by constituency
+
+}}}}}}{{Politics of Sierra Leone}}
+
+General elections were held in [[Sierra Leone]] on 17 November 2012.<ref>{{cite web|author= |url=http://www.electionguide.org/country.php?ID=192 |title=Election Guide, Sierra Leone Country Profile |publisher=International Federation for Electoral Systems |date=19 November 2010 |accessdate=25 February 2012}}</ref>  The result was a sweeping victory for the ruling [[All People's Congress]]. Its leader, incumbent president [[Ernest Bai Koroma]], won 58.7% of the vote, enough to win a second term without the need for a runoff. The APC also won 67 of the 112 elected seats in Parliament. To date, it is the APC's best showing at an election since the restoration of multiparty politics in [[1991 Sierra Leonean constitutional referendum|1991]].
+
+==Candidates==
+In April 2007, the APC endorsed incumbent [[Ernest Bai Koroma]] for a second term. He was challenged by former President and general [[Julius Maada Bio]] of the [[Sierra Leone People's Party]]. On July 31, 2011, Bio defeated [[Usman Boie Kamara]] for the party's nomination.<ref>{{cite web |author=SEM |url=http://www.sierraexpressmedia.com/archives/27181 |title=Julius Maada Bio wins SLPP flagbearership |publisher=Sierra Express Media |date=1 August 2011 |accessdate=17 November 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20120527150221/http://www.sierraexpressmedia.com/archives/27181 |archivedate=27 May 2012 |df= }}</ref>
+
+In the elections for the twelve Chief seats in Parliament, only four were contested.<ref>[http://www.nec-sierraleone.org/index_files/Parliamentary_OMP_PCMP%20Result%202012.pdf Government Notice] {{Webarchive|url=https://web.archive.org/web/20140611085134/http://www.nec-sierraleone.org/index_files/Parliamentary_OMP_PCMP%20Result%202012.pdf |date=2014-06-11 }} National Electoral Commission</ref>
+
+==Results==
+===President===
+Koroma won 59% of the vote in the first round, exceeding the 55 percent threshold required to win the presidency in a single round.
+
+{{Election results
+|cand1=[[Ernest Bai Koroma]]|party1=[[All People's Congress]]|votes1=1314881
+|cand2=[[Julius Maada Bio]]|party2=[[Sierra Leone People's Party]]|votes2=837517
+|cand3=[[Charles Margai]]|party3=[[People's Movement for Democratic Change]]|votes3=28944
+|cand4=Joshua Albert Carew|party4=Citizens Democratic Party|votes4=22863
+|cand5=Eldred Collins|party5=[[Revolutionary United Front]]|votes5=12993
+|cand6=Gibrilla Kamara|party6=[[People's Democratic Party (Sierra Leone)|People's Democratic Party]]|votes6=8273
+|cand7=Kandeh Baba Conteh|party7=[[Peace and Liberation Party]]|votes7=6144
+|cand8=Mohamed Bangura|party8=United Democratic Movement|votes8=5069
+|cand9=James Obai Fullah|party9=[[United National People's Party]]|votes9=5044
+|invalid=108898
+|electorate=2692635
+|source=[http://www.nec.gov.sl/PDF/Documents/STATEMENT%20%20FROM%20NEC%20CHAIRPERSON.pdf National Electoral Commission]
+}}
+
+====By district====
+{| class="wikitable sortable" style="text-align:right"
+!rowspan=2|[[Districts of Sierra Leone|District]]
+!colspan=2|Koroma
+!colspan=2|Bio
+|-
+!Votes
+!%
+!Votes
+!%
+|-
+|align=left|[[Kailahun District]]||26,331||22.6||85,525||73.3
+|-
+|align=left|[[Kenema District]]||39,180||18.7||163,303||77.9
+|-
+|align=left|[[Kono District]]||67,238||58.2||42,912||37.1
+|-
+|align=left|[[Bombali District]]||176,023||93.2||8,249||4.4
+|-
+|align=left|[[Kambia District]]||88,597||82.0||14,083||13.0
+|-
+|align=left|[[Koinadugu District]]||89,282||86.4||8,333||8.1
+|-
+|align=left|[[Port Loko District]]||182,761||90.2||11,329||5.6
+|-
+|align=left|[[Tonkolili District]]||145,479||92.6||6,864||4.4
+|-
+|align=left|[[Bo District]]||36,575||16.7||169,254||77.1
+|-
+|align=left|[[Bonthe District]]||7,667||11.7||52,762||80.6
+|-
+|align=left|[[Moyamba District]]||28,703||26.2||71,587||65.3
+|-
+|align=left|[[Pujehun District]]||10,565||15.5||50,796||74.7
+|-
+|align=left|[[Western Area Urban District]]||315,071||71.4||120,646||27.3
+|-
+|align=left|[[Western Area Rural District]]||101,409||74.3||31,874||23.4
+|-
+|align=left colspan=9|Source: [http://www.nec.gov.sl/PDF/Documents/STATEMENT%20%20FROM%20NEC%20CHAIRPERSON.pdf National Electoral Commission]{{Dead link|date=June 2023 |bot=InternetArchiveBot |fix-attempted=yes }}
+|}
+
+===Parliament===
+{{Election results
+|party1=[[All People's Congress]]|votes1=1149234|seats1=67|sc1=+8
+|party2=[[Sierra Leone People's Party]]|votes2=819185|seats2=42|sc2=–1
+|party3=[[People's Movement for Democratic Change]]|votes3=69202|seats3=0|sc3=–10
+|party4=[[National Democratic Alliance (Sierra Leone)|National Democratic Alliance]]|votes4=27706|seats4=0|sc4=0
+|party5=[[Revolutionary United Front]]|votes5=12573|seats5=0|sc5=New
+|party6=United Democratic Movement|votes6=11771|seats6=0|sc6=New
+|party7=[[People's Democratic Party (Sierra Leone)|People's Democratic Party]]|votes7=8387|seats7=0|sc7=New
+|party8=Citizens Democratic Party|votes8=7446|seats8=0|sc8=New
+|party9=[[United National People's Party]]|votes9=4734|seats9=0|sc9=0
+|party10=[[Peace and Liberation Party]]|votes10=2330|seats10=0|sc10=0
+|party11=Independents|votes11=28914|seats11=0|sc11=0
+|row12=Paramount chiefs|seats12=12|sc12=0
+|row13=Vacant seats|seats13=3|sc13=–
+|total_sc=0
+|source=[http://www.nec.gov.sl/PDF/Documents/Parliamentary_OMP_PCMP%20Result%202012.pdf National Electoral Commission]
+}}
+
+====By-elections====
+Three seats were left vacant, with no election taking place in constituencies 5, 12 and 92 (Western Area Rural District). The election was delayed in Western Area Rural District due to the death of [[People's Movement for Democratic Change|PMDC]] candidate, and a by-election was held on 9 February 2013. The result was a victory for the [[All People's Congress|APC]] candidate, who received 61% of the vote.<ref>[http://www.nec-sierraleone.org/index_files/Parliamentary_Results/PRESS%20RELEASE_Const%2092.pdf Declaration of Parliamentary Election Results in Constituency 92] {{Webarchive|url=https://web.archive.org/web/20160304055830/http://www.nec-sierraleone.org/index_files/Parliamentary_Results/PRESS%20RELEASE_Const%2092.pdf |date=2016-03-04 }} National Electoral Commission</ref>
+
+==Aftermath==
+Results showed Koroma winning in the first round of voting, receiving 58.7% of the vote against 37.4% for the SLPP candidate, Bio. If he had received less than 55% of the vote, a second round would have been necessary. Following the announcement of results, Koroma was promptly sworn in for another term as President on 23 November 2012. He said that he would "continue to attract investment" and "continue to fight corruption".<ref>{{Deprecated archive|url=https://archive.today/20130416013719/http://www.trust.org/alertnet/news/sierra-leones-koroma-promises-growth-in-new-term/|title=Sierra Leone's Koroma promises growth in new term}} Reuters, 23 November 2012</ref>
+
+==References==
+{{reflist}}
+
+{{Sierra Leonean elections}}
+
+[[Category:2012 in Sierra Leone|General]]
+[[Category:Elections in Sierra Leone]]
+[[Category:2012 elections in Africa|Sierra Leone]]
+[[Category:Presidential elections in Sierra Leone]]
+[[Category:November 2012 in Africa|Sierra]]
+[[Category:Election and referendum articles with incomplete results]]
+[[Category:Julius Maada Bio]]

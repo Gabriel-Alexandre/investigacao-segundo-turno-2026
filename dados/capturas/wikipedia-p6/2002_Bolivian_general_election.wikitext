@@ -1,0 +1,258 @@
+{{Short description|none}}
+{{Infobox election
+| country = Bolivia
+| flag_year = state
+| previous_election = 1997 Bolivian general election
+| previous_year = 1997
+| next_election = 2005 Bolivian general election
+| next_year = 2005
+| votes_for_election = President, all 27 + 130 seats in the [[Plurinational Legislative Assembly]]
+| registered = 4,155,055
+| turnout = 72.06% ({{increase}} 0.70pp)
+| module = {{Infobox election
+| embed = yes 
+| election_name = Presidential election
+| type = presidential
+| image_size = 130x130px
+| election_date = 30 June 2002 (popular vote){{-}}6 August 2002 (Congress vote)
+
+| image1 = Gonzálo_Sánchez_de_Lozada-Agencia_BrasilAntonio_Cruz.jpg
+| nominee1 = '''[[Gonzalo Sánchez de Lozada]]'''
+| party1 = [[Revolutionary Nationalist Movement|MNR]]–[[Free Bolivia Movement|MBL]]
+| running_mate1 = '''[[Carlos Mesa]]'''
+| electoral_vote1 = '''84'''
+| popular_vote1 = '''624,126'''
+| percentage1 = '''22.46%'''
+
+| image2 = Evo Morales 2006 (cropped2).jpg
+| nominee2 = [[Evo Morales]]
+| party2 = Movement for Socialism (Bolivia)
+| running_mate2 = Antonio Peredo
+| popular_vote2 = 581,884
+| electoral_vote2 = 43
+| percentage2 = 20.94%
+
+| image3 = Manfred Reyes Villa en 2009.png
+| nominee3 = [[Manfred Reyes Villa]]
+| party3 = New Republican Force
+| running_mate3 = [[Ivo Kuljis]]
+| popular_vote3 = 581,163
+| percentage3 = 20.91%
+
+| image4 = Jaime Paz Zamora. Eguino, Antonio. 1989, Carlos D. Mesa collection, La Paz (Cropped).png
+| nominee4 = [[Jaime Paz Zamora]]
+| party4 = [[Revolutionary Left Movement (Bolivia)|MIR]]–[[Revolutionary Left Front (Bolivia)|FRI]]
+| running_mate4 = Carlos Saavedra
+| popular_vote4 = 453,375
+| percentage4 = 16.32%
+
+| image5 = Felipe Quispe en noviembre de 2019.png
+| nominee5 = [[Felipe Quispe]]
+| party5 = Pachakuti Indigenous Movement
+| running_mate5 = Esther Balboa
+| popular_vote5 = 169,239
+| percentage5 = 6.09%
+
+| image6 = Jhonny Fernández.jpg
+| nominee6 = [[Jhonny Fernández]]
+| party6 = [[Solidarity Civic Unity|UCS]]–[[Bolivian Socialist Falange|FSB]]
+| colour6 = 0080FF
+| running_mate6 = Marlene Fernández
+| states_carried6 = 
+| popular_vote6 = 153,210
+| percentage6 = 5.51%
+
+| map = {{Switcher
+| [[File:Mapa Electoral de Bolivia por Departamentos 2002.png|260px]]
+| Results by department
+| [[File:Mapa Electoral - Bolivia - Elecciones 2002 -Por Provincias.png|260px]]
+| Results by province}}
+
+| title = President
+| before_election = [[Jorge Quiroga]]
+| before_party = [[Nationalist Democratic Action]]
+| after_election = [[Gonzalo Sánchez de Lozada]]
+| after_party = [[Revolutionary Nationalist Movement|MNR]]–[[Free Bolivia Movement|MBL]]
+| module = {{Infobox legislative election
+| embed = yes
+| election_name = Legislative election
+| noleader = yes
+| nopercentage = yes
+| seats_for_election = All 36 seats in the Chamber of Senators<br>All 130 seats in the Chamber of Deputies
+| election_date = 30 June 2002
+
+| heading1 = [[Chamber of Senators (Bolivia)|Chamber of Senators]]
+| party1 = Revolutionary Nationalist Movement 
+| last_election1 = 4
+| seats1 = 11
+| party2 = Movimiento al Socialismo
+| last_election2 = New
+| seats2 = 8
+| party3 = Revolutionary Left Movement (Bolivia)
+| last_election3 = 7
+| seats3 = 5
+| party4 = New Republican Force
+| last_election4 = New
+| seats4 = 2
+| party5 = Nationalist Democratic Action
+| last_election5 = 11
+| seats5 = 1
+| heading6 = [[Chamber of Deputies (Bolivia)|Chamber of Deputies]]
+| party6 = Revolutionary Nationalist Movement 
+| last_election6 = 26
+| seats6 = 36
+| party7 = Movimiento al Socialismo 
+| last_election7 = New
+| seats7 = 27
+| party8 = Revolutionary Left Movement (Bolivia)
+| last_election8 = 23
+| seats8 = 26
+| party9 = New Republican Force 
+| last_election9 = New
+| seats9 = 25
+| party10 = Pachakuti Indigenous Movement
+| last_election10 = New
+| seats10 = 6
+| party11 = Solidarity Civic Unity
+| last_election11 = 21
+| seats11 = 5
+| party12 = Nationalist Democratic Action
+| last_election12 = 32
+| seats12 = 4
+| party13 = Socialist Party (Bolivia)
+| last_election13 = 0
+| seats13 = 1
+}}
+}}
+}}{{Politics of Bolivia}}
+
+General elections were held in [[Bolivia]] on 30 June 2002.<ref name=N1>[[Dieter Nohlen|Nohlen, D]] (2005) ''Elections in the Americas: A data handbook, Volume II'', p133 {{ISBN|978-0-19-928358-3}}</ref> As no candidate for the presidency received over 50% of the vote, the [[Plurinational Legislative Assembly|National Congress]] was required to elect a president. [[Gonzalo Sánchez de Lozada]] was elected with 84 votes to the 43 received by [[Evo Morales]]. This marked the last time the [[Movimiento al Socialismo|MAS-IPSP]] lost a presidential election until [[2025 Bolivian general election|2025]].
+
+==Background==
+Although Bolivia has had a long history of political instability since [[Bolivian Independence War|independence]] in 1825, the election in 2002 marked Bolivia's fifth consecutive democratic election.<ref name=":0">{{Cite journal|last=Matthew M. Singer|first=Kevin M. Morrison|date=March 2004|title=The 2002 presidential and parliamentary elections in Bolivia Department of Political Science|journal=Electoral Studies|volume=  23| issue =  1|pages=172–182|doi=10.1016/j.electstud.2003.09.004}}</ref>  The most recent uninterrupted period of democratic rule began in 1982 as Bolivia developed a unitary political system, with nine departments, divided into 22 provinces and 314 municipalities.<ref name=":1">{{Cite journal|last=Van Cott|first=Donna Lee|year=2003|title=From Exclusion to Inclusion: Bolivias 2002 Elections|journal=Journal of Latin American Studies|volume= 35| issue =  4|pages=751–775|doi=10.1017/S0022216X03006977}}</ref> At this time, a competitive party system developed around three major parties—the center-right [[Revolutionary Nationalist Movement|MNR]] and [[Nationalist Democratic Action|ADN]], and the center-left [[Revolutionary Left Movement (Bolivia)|MIR]]. In 1989, two populist parties emerged to compete with the three established parties: the left-wing [[Conscience of Fatherland|Conciencia de Patria]] (Condepa) and the right-wing [[Solidarity Civic Unity|Union Civica Solidaridad]] (UCS). While the major axis of competition remained along the three established parties, the populist parties combined to capture a third of the popular vote in 1997.<ref name=":1" />
+
+In April 2000 major conflicts over the privatization of water infrastructure in [[Cochabamba Water War|Cochabamba]] led to violent protests. During that same time, the ADN government moved to rid the country of coca farms. These two events majorly contributed to the increase in support for then congressman [[Evo Morales]] and the widespread dissatisfaction with the ADN government. The general dissatisfaction of rural populations in Bolivia increased to the extent that large indigenous protests in La Paz the week before the election pushed for a constituent assembly to better represent the rural and indigenous social groups in the constitution.<ref name=":0"/> Because of the threat these marches posed to the stability of the election, the government agreed to hold a Special Session considering constitutional reforms, after the election.<ref>Harding, James (December 4, 2002). "REPORT ON THE ELECTORAL OBSERVATION MISSION GENERAL ELECTIONS IN BOLIVIA - 2002" (PDF). Organization of American States. Retrieved April 2, 2017.</ref>
+
+After the deaths of their respective party leaders, [[Conscience of Fatherland|Condepa]] and [[Solidarity Civic Unity|UCS]] lost significant power and popular support. By the 2002 election, two other populist parties emerged to take their place, Manfred Reyes Villa’s [[Nueva Fuerza Republicana]] (NFR) and Evo Morales' [[Movement for Socialism (Bolivia)|Movement for Socialism]] (MAS). The election revolved around these two ‘outsider’ candidates and the MNR’s established candidate, [[Gonzalo Sánchez de Lozada]] (Goni), a high profile American-educated politician who had previously served from 1993 to 1997.<ref name=":0" />
+
+==Parties and candidates==
+11 parties total qualified for the election, including some new and nontraditional parties.
+
+===MNR-MBL===
+The MNR-MBL (an alliance between the centrist Revolutionary Nationalist Movement and the center-left Free Bolivia Movement) nominated former president Gonzalo Sánchez de Lozada for the presidency. One of the parties that had traditionally held power since the beginning of Bolivian democracy, it had close ties with the country's business elite and had cracked down on coca production in the 90s, hoping to improve relations with the United States.
+
+Sánchez de Lozada's campaign was run by American campaign managers, including [[James Carville]], who used tools typically not seen in Bolivian elections to help their candidate win—focus groups, TV ads, and extensive use of polling among them. These campaign consultants, combined with Sánchez de Lozada's American background (he grew up in America, and attended the University of Chicago) fostered distrust among the Bolivian people, many of whom blamed the US for damaging the coca industry. At the same time, the campaign tactics also helped to bolster their position.
+
+===Movement for Socialism===
+The Movement for Socialism (MAS) was an upstart populist party, led by former coca farmer and union leader Evo Morales. It rose to prominence during the campaign by promising to restore coca production and championing indigenous rights, which had not had much power in the decades leading up to the election (before 2002, indigenous parties never won more than 5% of the vote.<ref>{{Cite journal|last=Van Cott|first=Donna Lee|date=2003-01-01|title=From Exclusion to Inclusion: Bolivia's 2002 Elections|jstor=3875831|journal=Journal of Latin American Studies|volume=35|issue=4|pages=751–775|doi=10.1017/s0022216x03006977}}</ref>) Morales' campaign was given a boost when, shortly before the election, the US ambassador asked Bolivians to vote for anyone but Morales—angering the voters, who felt the US was trying to meddle in their election.<ref name=":3" /> The party ultimately beat expectations, coming in second place and setting Morales up as the opposition leader to Sánchez de Lozada.
+
+=== New Republican Force ===
+The New Republican Force (NRF) was the other traditional political party running in the election, nominating former mayor of Cochabamba Manfred Reyes Villa.<ref>Mayorga, René Antonio (2006), [https://books.google.com/books?id=zT6JjM51CksC&dq=%22New+Republican+Force%22+populist&pg=PA164 "Outsiders and Neopopulism: The Road to Plepiscitary Democracy"], ''The Crisis of Democratic Representation in the Andes'', Stanford University Press, p. 164, {{ISBN|9780804767910}}</ref> Reyes Villa came in a close 3rd, winning about 700 votes fewer than Morales, and formed a governing coalition with Sánchez de Lozada. Later, Sánchez de Lozada was forced to resign when Reyes Villa pulled his support.<ref>{{Cite news|url=https://www.theguardian.com/world/2003/oct/18/bolivia|title=Bolivian president resigns amid chaos|last=Agencies|date=2003-10-17|work=The Guardian|access-date=2017-04-03|language=en-GB|issn=0261-3077}}</ref>
+
+=== MIR-FRI ===
+The MIR-FRI (an alliance between the left wing Revolutionary Left Movement and Revolutionary Left Front parties) nominated former president Jaime Paz Zamora. Zamora's earlier term was relatively successful, but his actions left him vulnerable to attacks similar to those aimed at Sánchez de Lozada—accusations that he hurt coca farmers, and wasn't doing enough for the poor.<ref>{{Cite web|url=http://www.cidob.org/biografias_lideres_politicos/america_del_sur/bolivia/jaime_paz_zamora|title=CIDOB - CIDOB|website=CIDOB|access-date=2017-04-03}}</ref>
+
+=== Pachakuti Indigenous Movement ===
+The Pachakuti Indigenous Movement, led by Felipe Quispe, was an indigenist and populist left-wing party, running directly against the neoliberal centrism promoted by Sánchez de Lozada and Zamora. Its platform is similar to that of Morales and his MAS, although more extreme, condemning any cooperation with United States anti-coca programs and economic reforms. Quispe came in 5th, with 6.1% of the vote.
+
+==Campaign==
+In the 2002 election there were 11 total parties competing for the vote. For the first time, three established parties (MNR, MIR and UCS) formed a [[Coalition government|coalition]] in order to compete with the rising dominance of the populist parties. This demonstrated a significant shift in the electoral environment as the axis of competition shifted from intra-elite competition to competition between the traditional parties and outsider parties.<ref name=":0" />
+
+The strong nationalist and populist surge was partly a backlash against the pro-globalization and neoliberal reforms enacted by Sánchez de Lozada during his earlier term as president, as well as his American background and education. He was seen as overly sympathetic to American and other foreign interests, a perception reinforced when US ambassador [[Manuel Rocha]] asked Bolivians not to vote for the populist Evo Morales shortly before the election.<ref name=":3">{{Cite news|url=http://www.clarin.com/ediciones-anteriores/polemica-bolivia-embajador-eeuu_0_HkuZiNlAYe.html|title=Polémica en Bolivia con el embajador de EE.UU.|newspaper=[[Clarín (Argentine newspaper)|Clarín]]|language=es|access-date=2017-04-02|date=27 June 2002|trans-title=Controversy in Bolivia with the U.S. ambassador}}</ref>
+
+Throughout this uninterrupted period of Democracy starting in 1982 the leading parties and fringe parties have stayed roughly the same. In this election there was a sudden shift in the front runners of the race. In this race, one of the previous power house parties, National Democratic Action (ADN), gained less than 4% percent of the vote, while fringe party leaders Morales, and Felipe Quispe moved into 2nd and 5th place.<ref name=":4">{{Cite journal|last=Assies|first=Willem|year=2003|title=Crisis in Bolivia: Elections in 2002 and their Aftermath|url=http://sas-space.sas.ac.uk/3405/1/B38_-_Crisis_in_Bolivia_The_Elections_of_2002_and_their_Aftermath.pdf|journal=University of London Institute of Latin American Studies Research Papers|volume=56|pages=4–22|via=University of London}}</ref>
+
+The period after military rule in Bolivia when citizens were once again put in charge of the government showed a lot of instability in the political sphere. Most political scientists believe that the political state of Bolivia in 1993 was one of havoc, but it was moving towards becoming a more unified democracy. The 2002 campaigns leading up to the election as well as the election results themselves show a different picture. The stratification and instability of the party system has become even more strained than it previously was and constituted one of the most volatile campaign seasons in Bolivian history since independence.<ref name=":4" />
+
+Coca production also played an important role in the election. Sánchez de Lozada had cracked down on illegal coca production during his earlier term as president, which improved Bolivian relations with the United States but hurt many poor and indigenous farmers, who relied on coca as their livelihood. Runner-up Evo Morales, who had come from the indigenous population and represented coca farmers earlier in his life, promised to restore the coca industry and reject American influence—leading to the US ambassador's denunciation of his candidacy, as mentioned above.<ref>{{Cite web|url=http://www.oas.org/sap/docs/permanent_council/2003/cp_doc_3685_03_eng.pdf|title=REPORT ON THE ELECTORAL OBSERVATION MISSION GENERAL ELECTIONS IN BOLIVIA - 2002|last=Harding|first=James|date=December 4, 2002|website=Organization of American States|access-date=April 2, 2017}}</ref> Nevertheless, the threat was credited with significantly boosting the amount of support Morales received in the election as well.<ref>Jean Friedman-Rudovsky, [https://web.archive.org/web/20080913235614/http://www.time.com/time/world/article/0,8599,1840469,00.html Bolivia to Expel US Ambassador], Time,  Sept. 11, 2008</ref><ref name=rocha2002 />
+
+==Results==
+A total of 24 women won seats in the National Congress and four were in the Chamber of Senators following the parliamentary elections.<ref>{{Cite web |url=https://www.electionguide.org/elections/id/283/ |title = IFES Election Guide {{!}} Elections: Bolivia Legislative June 30, 2002  |access-date=2017-04-04 |archive-url=https://web.archive.org/web/20170405170641/https://www.electionguide.org/elections/id/283/ |archive-date=2017-04-05 |url-status=dead }}</ref>
+
+===President===
+In the Congressional vote 26 votes were cast for [[Manfred Reyes Villa]], but were declared invalid as he was ineligible to be a candidate in the Congressional vote.<ref>{{cite web|url=https://www.clarin.com/ediciones-anteriores/sanchez-lozada-regreso-presidencia-bolivia_0_ryi3rElCKx.html|title=Sánchez de Lozada regresó a la presidencia de Bolivia|website=Clarin|date=5 August 2002}}</ref>
+
+<onlyinclude>{{Election results
+|firstround=Popular vote|secondround=Congressional vote
+|party1=[[Revolutionary Nationalist Movement|MNR]]–[[Free Bolivia Movement|MBL]]|cand1=[[Gonzalo Sánchez de Lozada]]|vp1=[[Carlos Mesa]]|votes1=624126|vp=|votes1_2=84
+|party2=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|cand2=[[Evo Morales]]|vp2=Antonio Peredo Leigue|votes2=581884|votes2_2=43
+|party3=[[New Republican Force]]|cand3=[[Manfred Reyes Villa]]|vp3=Ivo Kuljis Füchtner|votes3=581163
+|party4=[[Revolutionary Left Movement (Bolivia)|MIR]]–[[Revolutionary Left Front (Bolivia)|FRI]]|cand4=[[Jaime Paz Zamora]]|vp4=Carlos Saavedra Bruno|votes4=453375
+|party5=[[Pachakuti Indigenous Movement]]|cand5=[[Felipe Quispe]]|vp5=Esther Balboa Bustamante|votes5=169239
+|party6=[[Solidarity Civic Unity|UCS]]–[[Bolivian Socialist Falange|FSB]]|cand6=[[Jhonny Fernández]]|vp6=Marlene Fernández del Granado|votes6=153210
+|party7=[[Nationalist Democratic Action]]|cand7=[[Ronald MacLean Abaroa]]|vp7=[[Tito Hoz de Vila]]|votes7=94386
+|party8=Freedom and Justice Party|cand8=Alberto Costa|vp8=Ximena Prudencio Bilbao|votes8=75522|color8={{party color|Freedom and Justice Party (Bolivia)}}
+|party9=[[Socialist Party (Bolivia, 1971)|Socialist Party]]|cand9=Rolando Morales|vp9=Ernesto Ayoroa Argandoña|votes9=18162
+|party10=Citizens' Movement for Change|cand10=[[René Blattmann]]|vp10=Carlos Alarcón Mondonio|votes10=17405
+|party11=[[Conscience of Fatherland]]|cand11=Nicolás Valdivia|vp11=Esperanza Huanca Poma|votes11=10336
+|invalid=84572|invalid2=26
+|blank=130685|blank2=2
+|electorate=4155055|electorate2=157
+|source=[https://pdba.georgetown.edu/Elecdata/Bolivia/pres02B.html PDBA]
+}}</onlyinclude>
+
+===Chanber of Deputies===
+{{Election results
+|image=[[File:Cámara de Diputados de Bolivia elecciones 2002.svg]]
+|firstround=List|secondround=Constituency
+|party1=[[Revolutionary Nationalist Movement|MNR]]–[[Free Bolivia Movement|MBL]]|votes1=624126|seats1=12|votes1_2=611027|seats1_2=24|totseats1=36|sc1=+5
+|party2=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|votes2=581884|seats2=13|votes2_2=373454|seats2_2=14|totseats2=27|sc2=New
+|party3=[[New Republican Force]]|votes3=581163|seats3=20|votes3_2=395559|seats3_2=5|totseats3=25|sc3=
+|party4=[[Revolutionary Left Movement (Bolivia)|MIR]]–[[Revolutionary Left Front (Bolivia)|FRI]]|votes4=453375|seats4=11|votes4_2=478614|seats4_2=15|totseats4=26|sc4=+3
+|party5=[[Pachakuti Indigenous Movement]]|votes5=169239|seats5=1|votes5_2=134177|seats5_2=5|totseats5=6|sc5=New
+|party6=[[Solidarity Civic Unity|UCS]]–[[Bolivian Socialist Falange|FSB]]|votes6=153210|seats6=5|votes6_2=200487|seats6_2=0|totseats6=5|sc6=–16
+|party7=[[Nationalist Democratic Action]]|votes7=94386|seats7=0|votes7_2=190618|seats7_2=4|totseats7=4|sc7=
+|party8=Freedom and Justice Party|votes8=75522|seats8=0|votes8_2=63960|seats8_2=0|totseats8=0|sc8=New|color8={{party color|Freedom and Justice Party (Bolivia)}}
+|party9=[[Socialist Party (Bolivia, 1971)|Socialist Party]]|votes9=18162|seats9=0|votes9_2=63588|seats9_2=1|totseats9=1|sc9=New
+|party10=Citizens' Movement for Change|votes10=17405|seats10=0|votes10_2=20758|seats10_2=0|totseats10=0|sc10=New
+|party11=[[Conscience of Fatherland]]|votes11=10336|seats11=0|votes11_2=22778|seats11_2=0|totseats11=0|sc11=–19
+|total_sc=0
+|invalid=84572|invalid2=73417
+|blank=130685|blank2=359380
+|electorate=4155055|electorate2=4155055
+|source=[https://www.electionpassport.com/files/BO/BO.xlsx Election Passport], [https://data.ipu.org/election-summary/HTML/2037_02.htm IPU]
+}}
+
+===Chamber of Senators===
+{{Election results
+|image=[[File:Senado de Bolivia elecciones 2002.svg]]
+|party1=[[Revolutionary Nationalist Movement|MNR]]–[[Free Bolivia Movement|MBL]]|votes1=624126|seats1=11|sc1=+6
+|party2=[[Movement for Socialism (Bolivia)|Movement for Socialism]]|votes2=581884|seats2=8|sc2=New
+|party3=[[New Republican Force]]|votes3=581163|seats3=2|sc3=–
+|party4=[[Revolutionary Left Movement (Bolivia)|MIR]]–[[Revolutionary Left Front (Bolivia)|FRI]]|votes4=453375|seats4=5|sc4=–1
+|party5=[[Pachakuti Indigenous Movement]]|votes5=169239|seats5=0|sc5=New
+|party6=[[Solidarity Civic Unity|UCS]]–[[Bolivian Socialist Falange|FSB]]|votes6=153210|seats6=0|sc6=–2
+|party7=[[Nationalist Democratic Action]]||votes7=94386|seats7=1|sc7=–
+|party8=Freedom and Justice Party|votes8=75522|seats8=0|sc8=New|color8={{party color|Freedom and Justice Party (Bolivia)}}
+|party9=[[Socialist Party (Bolivia, 1971)|Socialist Party]]|votes9=18162|seats9=0|sc9=New
+|party10=Citizens' Movement for Change|votes10=17405|seats10=0|sc10=New
+|party11=[[Conscience of Fatherland]]|votes11=10336|seats11=0|sc11=–3
+|total_sc=0
+|invalid=84572
+|blank=130685
+|electorate=4155055
+|source=
+}}
+
+==Aftermath==
+Although many Bolivians were dissatisfied with the results of the election, the elections were generally competitive and fair.<ref name=Aftermath/> Of the candidates only Reyes Villa made claims of [[electoral fraud]], and these claims were largely taken as griping rather than serious accusations.<ref name=Aftermath>{{cite web|url=https://sas-space.sas.ac.uk/3405/1/B38_-_Crisis_in_Bolivia_The_Elections_of_2002_and_their_Aftermath.pdf|title=Crisis in Bolivia: The Elections of 2002 and their Aftermath|work=[[Institute of Latin American Studies]]|publisher=[[University of London]]|year=2003|accessdate=April 28, 2022|last1=Assies|first1=Willem|last2=Salman|first2=Ton}}</ref> No candidate won a clear majority, so the newly elected legislature had to choose between the top two candidates. At this point, Sánchez de Lozada openly negotiated with MIR and Villa’s NFR to shore up coalition support, while Morales refused negotiate with other parties. On 25 July, four weeks after the elections, the MNR, MIR, and UCS among other parties formed the "Government of National Responsibility."<ref name=":2">{{Cite book|title=Electoral rules and the transformation of Bolivian politics : the rise of Evo Morales|last=Muñoz-Pogossian|first=Betilde|author-link=Betilde Muñoz-Pogossian|publisher=Palgrave Macmillan|year=2008|location=New York, NY|pages=156–160}}</ref> After a two-month period of negotiations and coalition making, Sánchez de Lozada was officially elected president by Congress on 4 August with 84 of the 127 valid Congressional votes. While the elections were constitutionally legal and democratic, many voters felt unrepresented and were dissatisfied with the domination of the ideologically incoherent coalition. More than 70 percent of the population had not supported Sánchez de Lozada in the electoral vote, and Congress had elected him president through a series of party negotiations.<ref name=":2" />
+
+Inauguration day was met with massive protests by the national confederations of laborers, teachers, medical workers, and peasants. Sánchez de Lozada's precarious position only worsened. Six months into his presidency, the government announced their plan to increase income tax without a proportional increase for those earning the most. [[La Paz]] and other urban centers erupted in massive protests. Even the police and other civil society groups rose up against the proposed income tax. Sánchez de Lozada sent in the military to suppress the protests. Outside the palace, the military opened fire and violently ended the confrontation. While the president retracted the proposed income tax, demonstrations, roadblocks, and violent confrontations continued in the following months.<ref name=":2" />
+
+Massive protests and strikes erupted again when Sánchez de Lozada proposed to export gas through Chile. This resulted in the [[Bolivian gas conflict|gas conflict]], where dozens of civilians were killed in confrontations with the military. Parties began withdrawing their support from the governing coalition, and Goni was forced to resign and leave the country on 18 October 2003. Goni was succeeded by his vice-president, Carlos Mesa. While in charge Mesa kept his promises made when he came into power, appointing a cabinet of mostly independents, showing great sensitivity toward the indigenous people, and overturning a 1997 decree that gave natural gas rights to the people who extracted it. Mesa was also in the process of reforming elections, allowing for greater public participation in elections, as well as plans for a constituent assembly to consider creating a new constitution.<ref>{{Cite journal|last=Ribando|first=Clare|year=2007|title=Bolivia: Political and Economic Developments and Relations with the United States|url=https://fas.org/sgp/crs/row/RL32580.pdf|journal=CRS Report for Congress|pages=1–18|via=Congressional Research Service}}</ref> Even though these reforms temporarily quelled unrest, by 2005 protests erupted again and Mesa was forced to resign. In 2005, the populist candidate Evo Morales was [[2005 Bolivian general election|elected]] president.<ref name=":2" />
+
+On December 1, 2023, [[Manuel Rocha]], who at the time of the election served as U.S. Ambassador to Bolivia and was credited with boosting support for Morales with his public speech threatening to cut U.S. aid to Bolivia if Morales were elected, was arrested in Miami, Florida on charges of illegally acting in the interests of the Cuban government.<ref name=rocha2002>{{cite news |last=Goodman |first=Joshua |last2=Tucker |first2=Eric |url=https://apnews.com/article/fbi-cuba-bolivia-former-ambassador-arrested-af9d80a4f268099364dff249dd74b3ec |title=Former US ambassador arrested in Florida, accused of serving as an agent of Cuba, AP source says |publisher=[[Associated Press]] |date=2023-12-03 |accessdate=2023-12-03 }}</ref>
+
+==See also==
+*[[Our Brand Is Crisis (2005 film)|''Our Brand Is Crisis'' (2005)]], a documentary about Sánchez de Lozada's presidential campaign and influence of American political consultants
+*[[Our Brand Is Crisis (2015 film)|''Our Brand Is Crisis'' (2015)]], a comedy-drama film based on the 2005 documentary
+
+==References==
+{{reflist}}
+
+{{Bolivian elections}}
+
+[[Category:2002 in Bolivia|General]]
+[[Category:Parliamentary elections in Bolivia]]
+[[Category:2002 elections in South America|Bolivia]]
+[[Category:Presidential elections in Bolivia]]
