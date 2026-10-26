@@ -1,0 +1,67 @@
+{
+ "versoes": 346,
+ "primeira": {
+  "gerado": "2026-10-25 17:06:31",
+  "pct_secoes": 0.245369035,
+  "lula": 193574,
+  "flavio": 142169,
+  "lula_pct": 57.655,
+  "vantagem_lula": 15.311
+ },
+ "ultima": {
+  "gerado": "2026-10-25 23:27:02",
+  "pct_secoes": 100.0,
+  "lula": 64256232,
+  "flavio": 59826041,
+  "lula_pct": 51.785,
+  "vantagem_lula": 3.57
+ },
+ "trocas_de_lideranca": [
+  {
+   "gerado": "2026-10-25 19:44:50",
+   "pct_secoes": 13.650730699,
+   "vantagem_lula": -0.023
+  },
+  {
+   "gerado": "2026-10-25 20:24:19",
+   "pct_secoes": 47.238246322,
+   "vantagem_lula": 0.008
+  }
+ ],
+ "maior_vantagem_flavio_depois_de_1pct": {
+  "gerado": "2026-10-25 20:02:49",
+  "pct_secoes": 24.69153607,
+  "lula": 15092671,
+  "flavio": 15404892,
+  "lula_pct": 49.488,
+  "vantagem_lula": -1.024
+ },
+ "maior_vantagem_lula_depois_de_1pct": {
+  "gerado": "2026-10-25 19:05:16",
+  "pct_secoes": 1.514277473,
+  "lula": 983482,
+  "flavio": 898045,
+  "lula_pct": 52.27,
+  "vantagem_lula": 4.541
+ },
+ "maiores_intervalos_sem_nova_versao": [
+  {
+   "minutos": 114.9,
+   "de": "2026-10-25 17:07:01",
+   "ate": "2026-10-25 19:01:56",
+   "pct_secoes": 0.291638624
+  },
+  {
+   "minutos": 65.0,
+   "de": "2026-10-25 22:22:01",
+   "ate": "2026-10-25 23:27:02",
+   "pct_secoes": 99.99198795
+  },
+  {
+   "minutos": 4.1,
+   "de": "2026-10-25 22:16:25",
+   "ate": "2026-10-25 22:20:33",
+   "pct_secoes": 99.989984937
+  }
+ ]
+}

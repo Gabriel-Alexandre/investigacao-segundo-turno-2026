@@ -1,0 +1,50 @@
+{
+  "votacao_candidato_munzona_1994.zip": {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1994.zip",
+    "bytes": 42301735,
+    "sha256": "67e6525a84aedbd6a27b6bc525642d7d904011f6f02caf5ac56e60a4cc384913",
+    "lido_em": "2026-10-26T10:54:04+00:00"
+  },
+  "votacao_candidato_munzona_1998.zip": {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_1998.zip",
+    "bytes": 106050738,
+    "sha256": "8cb16d1c4901efdb46334df5f534712c1d36eea379725d68e33b9f3534963ab4",
+    "lido_em": "2026-10-26T10:54:11+00:00"
+  },
+  "votacao_candidato_munzona_2002.zip": {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2002.zip",
+    "bytes": 120264128,
+    "sha256": "c1b7eabc9415ad853e10b11958c3e22ad6f248afbc6acb6a0cab38f4b25635ee",
+    "lido_em": "2026-10-26T10:54:22+00:00"
+  },
+  "votacao_candidato_munzona_2006.zip": {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2006.zip",
+    "bytes": 130940089,
+    "sha256": "9bd23c339924ee761347a80590deff8bbbe2f483ff5a5b3d478998ce59ec929e",
+    "lido_em": "2026-10-26T10:54:34+00:00"
+  },
+  "votacao_candidato_munzona_2010.zip": {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2010.zip",
+    "bytes": 132565895,
+    "sha256": "fc7052974632351a3dc81e8ec17312889687eae0b2d56508259f91deecadd563",
+    "lido_em": "2026-10-26T10:54:46+00:00"
+  },
+  "votacao_candidato_munzona_2014.zip": {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2014.zip",
+    "bytes": 494100168,
+    "sha256": "f41bceb427820c068b2b14b87befa69d8c333638644eea0e8337534f9b349fd3",
+    "lido_em": "2026-10-26T10:54:59+00:00"
+  },
+  "votacao_candidato_munzona_2018.zip": {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2018.zip",
+    "bytes": 395389280,
+    "sha256": "f880848ef4ba340b15cb91ff0754aa370d34ca7b7e605d6607c0f2a75009adc8",
+    "lido_em": "2026-10-26T10:55:47+00:00"
+  },
+  "votacao_candidato_munzona_2022.zip": {
+    "url": "https://cdn.tse.jus.br/estatistica/sead/odsele/votacao_candidato_munzona/votacao_candidato_munzona_2022.zip",
+    "bytes": 642592078,
+    "sha256": "56265a50afc3765efeabc3d88b1e8ef35796ac38572fb1344496f3d3c8543369",
+    "lido_em": "2026-10-26T10:56:50+00:00"
+  }
+}

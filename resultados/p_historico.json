@@ -1,0 +1,169 @@
+{
+  "P1_presidente": {
+    "segundos_turnos": 7,
+    "viradas": 0,
+    "laplace_virada": 0.1111,
+    "corridas": [
+      {
+        "ano": 1989,
+        "cargo": "presidente",
+        "uf": "BR",
+        "lider_1t": "COLLOR",
+        "lider_1t_pct": 47.49,
+        "segundo_1t": "LULA",
+        "segundo_1t_pct": 26.78,
+        "frente_1t_pontos": 20.71,
+        "vencedor_2t": "COLLOR",
+        "vencedor_2t_pct": 53.03,
+        "virada": 0
+      },
+      {
+        "ano": 2002,
+        "cargo": "presidente",
+        "uf": "BR",
+        "lider_1t": "LULA",
+        "lider_1t_pct": 46.44,
+        "segundo_1t": "JOSÉ SERRA",
+        "segundo_1t_pct": 23.2,
+        "frente_1t_pontos": 23.25,
+        "vencedor_2t": "LULA",
+        "vencedor_2t_pct": 61.27,
+        "virada": 0
+      },
+      {
+        "ano": 2006,
+        "cargo": "presidente",
+        "uf": "BR",
+        "lider_1t": "LULA",
+        "lider_1t_pct": 48.61,
+        "segundo_1t": "GERALDO ALCKMIN",
+        "segundo_1t_pct": 41.64,
+        "frente_1t_pontos": 6.97,
+        "vencedor_2t": "LULA",
+        "vencedor_2t_pct": 60.83,
+        "virada": 0
+      },
+      {
+        "ano": 2010,
+        "cargo": "presidente",
+        "uf": "BR",
+        "lider_1t": "DILMA",
+        "lider_1t_pct": 46.91,
+        "segundo_1t": "JOSÉ SERRA",
+        "segundo_1t_pct": 32.61,
+        "frente_1t_pontos": 14.29,
+        "vencedor_2t": "DILMA",
+        "vencedor_2t_pct": 56.05,
+        "virada": 0
+      },
+      {
+        "ano": 2014,
+        "cargo": "presidente",
+        "uf": "BR",
+        "lider_1t": "DILMA",
+        "lider_1t_pct": 41.59,
+        "segundo_1t": "AÉCIO NEVES",
+        "segundo_1t_pct": 33.55,
+        "frente_1t_pontos": 8.05,
+        "vencedor_2t": "DILMA",
+        "vencedor_2t_pct": 51.64,
+        "virada": 0
+      },
+      {
+        "ano": 2018,
+        "cargo": "presidente",
+        "uf": "BR",
+        "lider_1t": "JAIR BOLSONARO",
+        "lider_1t_pct": 46.03,
+        "segundo_1t": "FERNANDO HADDAD",
+        "segundo_1t_pct": 29.28,
+        "frente_1t_pontos": 16.75,
+        "vencedor_2t": "JAIR BOLSONARO",
+        "vencedor_2t_pct": 55.13,
+        "virada": 0
+      },
+      {
+        "ano": 2022,
+        "cargo": "presidente",
+        "uf": "BR",
+        "lider_1t": "LULA",
+        "lider_1t_pct": 48.43,
+        "segundo_1t": "JAIR BOLSONARO",
+        "segundo_1t_pct": 43.2,
+        "frente_1t_pontos": 5.23,
+        "vencedor_2t": "LULA",
+        "vencedor_2t_pct": 50.9,
+        "virada": 0
+      }
+    ]
+  },
+  "P2_governador": {
+    "segundos_turnos": 92,
+    "viradas": 25,
+    "taxa_virada": 0.2717,
+    "perto_frente_ate_3_e_lider_abaixo_50": {
+      "n": 18,
+      "viradas": 10,
+      "taxa": 0.5556
+    },
+    "logistica": {
+      "a": 0.29750597788123384,
+      "b": -0.15954522297995133,
+      "p_virada_com_frente_1_87": 0.4998
+    }
+  },
+  "P5_minas_1t": {
+    "eleicoes": 8,
+    "acertos": 8,
+    "anos": [
+      {
+        "ano": 1994,
+        "mg_1t": "FERNANDO HENRIQUE CARDOSO",
+        "vencedor": "FERNANDO HENRIQUE CARDOSO",
+        "acertou": 1
+      },
+      {
+        "ano": 1998,
+        "mg_1t": "LULA",
+        "vencedor": "LULA",
+        "acertou": 1
+      },
+      {
+        "ano": 2002,
+        "mg_1t": "LULA",
+        "vencedor": "LULA",
+        "acertou": 1
+      },
+      {
+        "ano": 2006,
+        "mg_1t": "LULA",
+        "vencedor": "LULA",
+        "acertou": 1
+      },
+      {
+        "ano": 2010,
+        "mg_1t": "DILMA",
+        "vencedor": "DILMA",
+        "acertou": 1
+      },
+      {
+        "ano": 2014,
+        "mg_1t": "DILMA",
+        "vencedor": "DILMA",
+        "acertou": 1
+      },
+      {
+        "ano": 2018,
+        "mg_1t": "JAIR BOLSONARO",
+        "vencedor": "JAIR BOLSONARO",
+        "acertou": 1
+      },
+      {
+        "ano": 2022,
+        "mg_1t": "LULA",
+        "vencedor": "LULA",
+        "acertou": 1
+      }
+    ]
+  }
+}

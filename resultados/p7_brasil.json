@@ -1,0 +1,38 @@
+{
+ "todas_2014_2022": {
+  "disputas": 43,
+  "lider_1t_e_lider_das_pesquisas": 30,
+  "desses_perdeu": 1,
+  "taxa_condicional": 0.0333,
+  "combinacao_2026_sobre_todas": 1,
+  "laplace_combinacao": 0.0444
+ },
+ "frente_ate_3_e_lider_abaixo_50": {
+  "disputas": 8,
+  "lider_1t_e_lider_das_pesquisas": 4,
+  "desses_perdeu": 1,
+  "taxa_condicional": 0.25,
+  "combinacao_2026_sobre_todas": 1,
+  "laplace_combinacao": 0.2
+ },
+ "frente_ate_5": {
+  "disputas": 14,
+  "lider_1t_e_lider_das_pesquisas": 7,
+  "desses_perdeu": 1,
+  "taxa_condicional": 0.1429,
+  "combinacao_2026_sobre_todas": 1,
+  "laplace_combinacao": 0.125
+ },
+ "casos_da_combinacao": [
+  {
+   "ano": 2014,
+   "cargo": "governador",
+   "uf": "PA",
+   "frente_1t": 1.38,
+   "lider_1t_pct": 49.02,
+   "pesquisas_com_o_lider_do_1t": 1,
+   "virada": 1,
+   "combinacao_2026": 1
+  }
+ ]
+}

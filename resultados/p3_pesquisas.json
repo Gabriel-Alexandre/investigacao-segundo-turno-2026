@@ -1,0 +1,53 @@
+{
+  "copias": {
+    "pindograma-late-polls-2012-2018.csv": {
+      "origem": "previsao-segundo-turno-2026/dados/derivados/copias/pindograma-late-polls-2012-2018.csv",
+      "sha256": "72d54509b2fbcfa470ca3e563ee60b85499bf6457f9da97ebed428f7e167f669"
+    },
+    "pindograma-late-polls-2022.csv": {
+      "origem": "previsao-segundo-turno-2026/dados/derivados/copias/pindograma-late-polls-2022.csv",
+      "sha256": "422b8f56488ba5d24f3a1e198908dc58d719ba4b5e6fb5103d53dafd8912df19"
+    }
+  },
+  "disputas": 43,
+  "lider_das_pesquisas_venceu": 38,
+  "pesquisas_individuais": 181,
+  "pesquisas_que_apontaram_o_vencedor": 136,
+  "erro_medio_absoluto_da_frente_pontos": 5.01,
+  "erros_maiores_que_7_pontos_na_frente": 11,
+  "presidente": [
+    {
+      "ano": 2014,
+      "cargo": "presidente",
+      "uf": "BR",
+      "institutos": 11,
+      "frente_media_pesquisas_para_o_vencedor": 0.97,
+      "frente_real_do_vencedor": 3.28,
+      "erro_media": -2.31,
+      "lider_das_pesquisas_venceu": 1,
+      "empate_nas_pesquisas": 0
+    },
+    {
+      "ano": 2018,
+      "cargo": "presidente",
+      "uf": "BR",
+      "institutos": 14,
+      "frente_media_pesquisas_para_o_vencedor": 15.19,
+      "frente_real_do_vencedor": 10.26,
+      "erro_media": 4.93,
+      "lider_das_pesquisas_venceu": 1,
+      "empate_nas_pesquisas": 0
+    },
+    {
+      "ano": 2022,
+      "cargo": "presidente",
+      "uf": "BR",
+      "institutos": 22,
+      "frente_media_pesquisas_para_o_vencedor": -0.29,
+      "frente_real_do_vencedor": 1.8,
+      "erro_media": -2.09,
+      "lider_das_pesquisas_venceu": 0,
+      "empate_nas_pesquisas": 0
+    }
+  ]
+}
