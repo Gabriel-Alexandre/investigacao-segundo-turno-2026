@@ -1,0 +1,145 @@
+{
+ "secoes": 499248,
+ "sem_boletim": 70,
+ "sem_rdv": 42,
+ "sem_log": 72,
+ "erros_de_leitura": {},
+ "reconciliacao": {
+  "boletins_lula": 64255787,
+  "oficial_lula": 64256232,
+  "boletins_flavio": 59825688,
+  "oficial_flavio": 59826041,
+  "diferenca_lula": -445,
+  "diferenca_flavio": -353
+ },
+ "A4_rdv_contra_boletim": {
+  "secoes_comparadas": 499177,
+  "secoes_com_diferenca": 586,
+  "votos_lula_diferenca": 0,
+  "votos_flavio_diferenca": 0,
+  "sinal": true
+ },
+ "A5_log_contra_boletim": {
+  "secoes_comparadas": 499176,
+  "secoes_com_diferenca": 1435,
+  "pct": 0.287,
+  "log_a_mais": 0,
+  "log_a_menos": 1435,
+  "com_contingencia": 1432,
+  "sinal": false
+ },
+ "A6_votos_depois_das_17h": {
+  "votos_depois_17h": 34810,
+  "votos_depois_19h": 13,
+  "secoes_com_voto_depois_17h": 30086,
+  "pct_dos_votos": 0.027,
+  "teto_contra_margem_pct": 0.79,
+  "secoes_com_mais_de_30pct_depois_17h": 34,
+  "por_vencedor_da_secao": {
+   "flavio": {
+    "secoes": 248328,
+    "votos_depois_17h": 14683,
+    "media_por_secao": 0.06
+   },
+   "lula": {
+    "secoes": 250920,
+    "votos_depois_17h": 20127,
+    "media_por_secao": 0.08
+   }
+  },
+  "por_uf_top": {
+   "sp": 8860,
+   "ba": 4190,
+   "rj": 4150,
+   "mg": 2253,
+   "pe": 1730,
+   "pa": 1308,
+   "ce": 1074,
+   "df": 980
+  },
+  "bahia_3_municipios": {
+   "Salvador": {
+    "secoes": 5124,
+    "votos_depois_17h": 1768,
+    "votos_depois_19h": 2,
+    "lula_pct": 73.24
+   },
+   "Feira de Santana": {
+    "secoes": 1218,
+    "votos_depois_17h": 147,
+    "votos_depois_19h": 0,
+    "lula_pct": 64.15
+   },
+   "Lauro de Freitas": {
+    "secoes": 413,
+    "votos_depois_17h": 79,
+    "votos_depois_19h": 0,
+    "lula_pct": 67.2
+   }
+  },
+  "sinal": true
+ },
+ "A7_rajadas_e_liberacao_sem_digital": {
+  "flavio": {
+   "secoes": 248258,
+   "pct_votos_em_rajada": 0.0,
+   "pct_manuais": 12.261,
+   "manuais_ultima_hora": 384947,
+   "manuais_primeira_hora": 1293078,
+   "razao_ultima_sobre_primeira": 0.298
+  },
+  "lula": {
+   "secoes": 250918,
+   "pct_votos_em_rajada": 0.0,
+   "pct_manuais": 13.099,
+   "manuais_ultima_hora": 454556,
+   "manuais_primeira_hora": 1489696,
+   "razao_ultima_sobre_primeira": 0.305
+  },
+  "todas": {
+   "secoes": 499176,
+   "pct_votos_em_rajada": 0.0,
+   "pct_manuais": 12.679,
+   "manuais_ultima_hora": 839503,
+   "manuais_primeira_hora": 2782774,
+   "razao_ultima_sobre_primeira": 0.302
+  },
+  "sinal": false
+ },
+ "A8_pausa_e_cauda_parte1": {
+  "recebidos_na_pausa": 345,
+  "lula_pct_na_pausa": 49.468,
+  "cauda_2pct_a_partir_de": "2026-10-25 21:08:46",
+  "secoes_na_cauda": 10129,
+  "lula_pct_na_cauda": 54.139,
+  "lula_pct_geral": 51.785,
+  "ultimo_recebido": "2026-10-26 09:28:55",
+  "recebidos_depois_22h22": 140,
+  "uf_na_cauda": {
+   "rj": 3422,
+   "sp": 3002,
+   "ba": 1026,
+   "mg": 908,
+   "pe": 222,
+   "ce": 176,
+   "pr": 155,
+   "rs": 148
+  }
+ },
+ "A9_contingencia_parte1": {
+  "secoes": 2000,
+  "lula_pct": 52.305,
+  "lula_pct_geral": 51.785,
+  "por_vencedor": {
+   "lula": 1029,
+   "flavio": 971
+  }
+ },
+ "A10_unanimidades_parte1": {
+  "secoes_com_50_ou_mais_validos": 498524,
+  "lula_acima_95": 1686,
+  "flavio_acima_95": 39,
+  "lula_zero": 3,
+  "flavio_zero": 88
+ }
+}

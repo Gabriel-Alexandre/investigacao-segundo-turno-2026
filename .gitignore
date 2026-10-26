@@ -7,3 +7,4 @@ __pycache__/
 .pytest_cache/
 dados/brutos/historico/
 dados/brutos/polymarket/
+dados/derivados/t2/

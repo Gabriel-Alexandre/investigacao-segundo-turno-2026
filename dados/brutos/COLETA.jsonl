@@ -6,3 +6,34 @@
 {"hora": "2026-10-26T10:43:24+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "ap", "secoes": 1971, "proprias": 1914, "itens": 7657, "falhas": 0}
 {"hora": "2026-10-26T11:04:16+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "ba", "secoes": 37950, "proprias": 35476, "itens": 141905, "falhas": 0}
 {"hora": "2026-10-26T11:18:08+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "ce", "secoes": 25650, "proprias": 23765, "itens": 95060, "falhas": 0}
+{"hora": "2026-10-26T11:22:10+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "df", "secoes": 7050, "proprias": 6969, "itens": 27877, "falhas": 0}
+{"hora": "2026-10-26T11:27:51+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "es", "secoes": 10123, "proprias": 9844, "itens": 39377, "falhas": 0}
+{"hora": "2026-10-26T11:37:10+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "go", "secoes": 16226, "proprias": 15686, "itens": 62745, "falhas": 0}
+{"hora": "2026-10-26T11:48:08+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "ma", "secoes": 19794, "proprias": 18093, "itens": 72373, "falhas": 0}
+{"hora": "2026-10-26T12:19:40+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "mg", "secoes": 54193, "proprias": 52062, "itens": 208249, "falhas": 0}
+{"hora": "2026-10-26T12:24:00+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "ms", "secoes": 7284, "proprias": 7106, "itens": 28425, "falhas": 0}
+{"hora": "2026-10-26T12:28:59+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "mt", "secoes": 8975, "proprias": 8287, "itens": 33149, "falhas": 0}
+{"hora": "2026-10-26T12:41:12+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "pa", "secoes": 22082, "proprias": 20827, "itens": 83309, "falhas": 0}
+{"hora": "2026-10-26T12:47:27+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "pb", "secoes": 10845, "proprias": 10712, "itens": 42849, "falhas": 0}
+{"hora": "2026-10-26T12:59:55+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "pe", "secoes": 22091, "proprias": 21418, "itens": 85673, "falhas": 0}
+{"hora": "2026-10-26T13:05:47+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "pi", "secoes": 11261, "proprias": 10225, "itens": 40901, "falhas": 0}
+{"hora": "2026-10-26T13:23:30+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "pr", "secoes": 27336, "proprias": 27142, "itens": 108569, "falhas": 0}
+{"hora": "2026-10-26T13:45:29+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "rj", "secoes": 38738, "proprias": 37675, "itens": 150700, "falhas": 0}
+{"hora": "2026-10-26T13:50:08+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "rn", "secoes": 8336, "proprias": 8115, "itens": 32461, "falhas": 0}
+{"hora": "2026-10-26T13:52:50+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "ro", "secoes": 4941, "proprias": 4698, "itens": 18793, "falhas": 0}
+{"hora": "2026-10-26T13:53:41+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "rr", "secoes": 1627, "proprias": 1519, "itens": 6077, "falhas": 0}
+{"hora": "2026-10-26T14:09:48+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "rs", "secoes": 27738, "proprias": 27547, "itens": 110189, "falhas": 0}
+{"hora": "2026-10-26T14:20:04+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "sc", "secoes": 17558, "proprias": 17326, "itens": 69305, "falhas": 0}
+{"hora": "2026-10-26T14:23:31+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "se", "secoes": 6067, "proprias": 5923, "itens": 23693, "falhas": 0}
+{"hora": "2026-10-26T15:24:24+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "sp", "secoes": 103904, "proprias": 103656, "itens": 414624, "falhas": 0}
+{"hora": "2026-10-26T15:27:02+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "to", "secoes": 4490, "proprias": 4384, "itens": 17537, "falhas": 0}
+{"hora": "2026-10-26T15:27:53+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "zz", "secoes": 2715, "proprias": 1351, "itens": 5253, "falhas": 0}
+{"hora": "2026-10-26T15:28:34+00:00", "tipos": ["bu", "busa"], "turno": "t1", "uf": "ac", "secoes": 2411, "proprias": 2270, "itens": 4541, "falhas": 0}
+{"hora": "2026-10-26T15:30:40+00:00", "tipos": ["bu", "busa"], "turno": "t1", "uf": "al", "secoes": 7246, "proprias": 7101, "itens": 14203, "falhas": 0}
+{"hora": "2026-10-26T15:33:04+00:00", "tipos": ["bu", "busa"], "turno": "t1", "uf": "am", "secoes": 8577, "proprias": 8157, "itens": 16315, "falhas": 0}
+{"hora": "2026-10-26T15:33:39+00:00", "tipos": ["bu", "busa"], "turno": "t1", "uf": "ap", "secoes": 1971, "proprias": 1914, "itens": 3829, "falhas": 0}
+{"hora": "2026-10-26T15:44:14+00:00", "tipos": ["bu", "busa"], "turno": "t1", "uf": "ba", "secoes": 37950, "proprias": 35476, "itens": 70953, "falhas": 0}
+{"hora": "2026-10-26T15:51:11+00:00", "tipos": ["bu", "busa"], "turno": "t1", "uf": "ce", "secoes": 25650, "proprias": 23765, "itens": 47531, "falhas": 0}
+{"hora": "2026-10-26T15:53:12+00:00", "tipos": ["bu", "busa"], "turno": "t1", "uf": "df", "secoes": 7050, "proprias": 6969, "itens": 13939, "falhas": 0}
+{"hora": "2026-10-26T15:56:04+00:00", "tipos": ["bu", "busa"], "turno": "t1", "uf": "es", "secoes": 10123, "proprias": 9844, "itens": 19689, "falhas": 0}
+{"hora": "2026-10-26T16:00:40+00:00", "tipos": ["bu", "busa"], "turno": "t1", "uf": "go", "secoes": 16226, "proprias": 15686, "itens": 31373, "falhas": 0}
