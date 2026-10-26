@@ -14,6 +14,10 @@ Pré-registro escrito e publicado antes de qualquer conta por seção; dados da 
 | Dados da noite (2.554 versões, manifesto, batidas, contas parciais, documentos e o histórico git do projeto da noite em `.bundle`) | ✅ `dados/noite/` |
 | Coletor dos dois turnos (pleitos 3220 e 3221) | ✅ testado em 40 seções de RR; coleta completa rodando |
 
+## Rodadas
+
+- Rodada 1 (26/10): bloco P pelo Brasil, a curva da noite. `docs/RODADAS.md`.
+
 ## A seguir
 
 1. Terminar a coleta (2º turno ~5 h; 1º turno ~2,5 h) e gravar o `dados/MANIFESTO.json`.
