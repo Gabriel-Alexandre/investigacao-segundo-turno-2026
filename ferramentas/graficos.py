@@ -199,8 +199,38 @@ def g09_digital():
     salvar(f, "g09_impressao_digital.png")
 
 
+def g10_votos_livres():
+    d = pd.read_csv(R / "resultados/rodada4_por_ano.csv")
+    d = d[d.ano != 2006]  # 2006: o adversário perdeu votos (126% para o PT), fora da escala; dito na nota
+    f = fig("Para onde foram os votos livres, eleição por eleição", "parte do PT no que estava livre entre os turnos; embaixo, quem os eliminados apoiaram (2006, fora: 126%)")
+    ax = f.add_axes([0.08, 0.16, 0.88, 0.64])
+    cores = [L if a == 2026 else (F if a == 2022 else B) for a in d.ano]
+    ax.bar(d.ano.astype(str), d.parte_do_pt_nos_votos_livres_pct, color=cores)
+    rot = {2002: "apoiaram o PT", 2010: "neutros", 2014: "apoiaram o adversário", 2018: "neutros", 2022: "apoiaram o PT", 2026: "apoiaram o adversário"}
+    for i, (a, v) in enumerate(zip(d.ano, d.parte_do_pt_nos_votos_livres_pct)):
+        ax.text(i, v + 1.5, f"{v:.0f}%", ha="center", fontsize=28, weight="bold")
+        ax.text(i, -9, rot[a], ha="center", fontsize=16, color=B)
+    ax.axhline(50, color=B, lw=1, ls=":")
+    ax.set_ylim(-12, 90)
+    ax.set_yticks([])
+    salvar(f, "g10_votos_livres_e_apoios.png")
+
+
+def g11_abstencao():
+    d = pd.read_csv(R / "resultados/rodada4_por_ano.csv")
+    f = fig("A abstenção do 1º para o 2º turno", "em pontos; em todas as eleições até 2018 ela subiu no 2º turno")
+    ax = f.add_axes([0.08, 0.14, 0.88, 0.66])
+    v = d.abstencao_variou_pontos
+    ax.bar(d.ano.astype(str), v, color=[L if a == 2026 else B for a in d.ano])
+    for i, x in enumerate(v):
+        ax.text(i, x + (0.12 if x > 0 else -0.35), f"{x:+.1f}".replace(".", ","), ha="center", fontsize=26, weight="bold")
+    ax.axhline(0, color="black", lw=1)
+    ax.set_yticks([])
+    salvar(f, "g11_abstencao_entre_turnos.png")
+
+
 def main():
-    for g in (g01_conta, g02_origem, g03_curva, g04_testes, g05_pesquisas, g06_probabilidade, g07_polymarket, g08_cidades, g09_digital):
+    for g in (g01_conta, g02_origem, g03_curva, g04_testes, g05_pesquisas, g06_probabilidade, g07_polymarket, g08_cidades, g09_digital, g10_votos_livres, g11_abstencao):
         try:
             g()
             print("ok", g.__name__)
