@@ -35,11 +35,13 @@ TAGS = ["elections", "world-elections", "global-elections"]
 # eleição nacional de vencedor (presidente, parlamento, chefe de governo)
 INCLUI = re.compile(r"(presidential election|parliamentary election|legislative election|general election|"
                     r"prime minist|chancellor|election winner|who will be next president|wins? .*presidential)", re.I)
-EXCLUI = re.compile(r"(margin|turnout|place in|1st place|2nd place|second place|abroad|popular vote|by how|%|"
-                    r"seats|majority|state |county|province|district|city|mayor|governor|senate|house|primary|"
-                    r"nominee|recount|announce|debate|vote share|win by|out as|out by|in 202\d|before|resign|"
-                    r"called|happen|attorney|tuscany|calabria|ontario|baden|washington-dc|washington dc|virginia|"
-                    r"specific|runoff\?|any candidate|most votes|which party|parties|coalition)", re.I)
+EXCLUI = re.compile(r"(margin|turnout|place|abroad|popular vote|by how|%|seats|majority|county|province|district|"
+                    r"city|mayor|governor|senate|primary|nominee|recount|announce|debate|vote share|win by|out as|"
+                    r"out by|before|resign|called|happen|attorney|specific|runoff\?|any candidate|most votes|"
+                    r"national assembly election winner|legislative assembly election winner|by-election|quebec|"
+                    r"british columbia|ontario|baden|tuscany|calabria|region|srpska|washington|virginia|new jersey|"
+                    r"municipal|local|scotland|wales|catalonia|bavaria|state election|\bstate\b|"
+                    r"tongatapu|ongo|hannover)", re.I)
 
 
 def baixar(url: str, nome: str) -> bytes:
@@ -73,9 +75,21 @@ def eventos() -> list[dict]:
 
 
 def historico(token: str) -> list[tuple[int, float]]:
-    b = baixar(f"{CLOB}/prices-history?market={token}&interval=max&fidelity=60", f"hist-{token[:24]}.json")
-    h = json.loads(b).get("history", [])
-    return [(int(x["t"]), float(x["p"])) for x in h]
+    """Preco diario do historico inteiro (a API so devolve hora a hora para mercado antigo numa janela curta)."""
+    b = baixar(f"{CLOB}/prices-history?market={token}&interval=max&fidelity=1440", f"hist-dia-{token[:24]}.json")
+    return [(int(x["t"]), float(x["p"])) for x in json.loads(b).get("history", [])]
+
+
+def historico_janela(token: str, ini: int, fim: int) -> list[tuple[int, float]]:
+    b = baixar(f"{CLOB}/prices-history?market={token}&startTs={ini}&endTs={fim}&fidelity=60", f"hist-hora-{token[:24]}-{ini}.json")
+    return [(int(x["t"]), float(x["p"])) for x in json.loads(b).get("history", [])]
+
+
+def momento_claro(h: list[tuple[int, float]]) -> int | None:
+    for i, (t, p) in enumerate(h):
+        if p >= 0.95 and all(pp >= 0.90 for (_, pp) in h[i:]):
+            return t
+    return None
 
 
 def preco_em(h: list[tuple[int, float]], t: int) -> float | None:
@@ -118,26 +132,35 @@ def main() -> None:
         hist = {}
         for nome, tok, _ in resolvidos:
             try:
-                hist[nome] = historico(tok)
+                hist[nome] = (tok, historico(tok))
             except RuntimeError:
-                hist[nome] = []
+                hist[nome] = (tok, [])
         venc = vencedores[0][0]
-        hv = hist.get(venc) or []
+        tokv, hv = hist.get(venc, (None, []))
         if not hv:
             linhas_ev.append([e["id"], e["slug"], titulo, e.get("endDate"), "excluido", "sem historico de preco"])
             continue
-        # resultado claro: primeiro t com p >= 0,95 depois do qual nunca fica abaixo de 0,90
-        t_claro = None
-        for i, (t, p) in enumerate(hv):
-            if p >= 0.95 and all(pp >= 0.90 for (_, pp) in hv[i:]):
-                t_claro = t
-                break
-        if t_claro is None:
-            t_claro = hv[-1][0]
+        t_dia = momento_claro(hv) or hv[-1][0]
+        # refina hora a hora numa janela de 5 dias antes ate 1 dia depois do dia em que ficou claro
+        ini, fim = t_dia - 5 * 86400, t_dia + 86400
+        try:
+            hh = historico_janela(tokv, ini, fim)
+        except RuntimeError:
+            hh = []
+        t_claro = (momento_claro(hh) if hh else None) or t_dia
         t_ref = t_claro - 24 * 3600
-        precos_ref = {n: preco_em(h, t_ref) for n, h in hist.items()}
+        # candidatos que importam: os com preco diario acima de 0,05 perto da vespera
+        relevantes = {n: th for n, th in hist.items() if (preco_em(th[1], t_ref) or 0) >= 0.05 or n == venc}
+        precos_ref = {}
+        for n, (tk, hd) in relevantes.items():
+            try:
+                hj = historico_janela(tk, ini, fim)
+            except RuntimeError:
+                hj = []
+            pr = preco_em(hj, t_ref) if hj else None
+            precos_ref[n] = pr if pr is not None else preco_em(hd, t_ref)
         precos_ref = {n: p for n, p in precos_ref.items() if p is not None}
-        if len(precos_ref) < 2:
+        if len(precos_ref) < 2 and not (len(precos_ref) == 1 and len(resolvidos) >= 2):
             linhas_ev.append([e["id"], e["slug"], titulo, e.get("endDate"), "excluido", "historico nao cobre a vespera"])
             continue
         fav, pfav = max(precos_ref.items(), key=lambda x: x[1])
@@ -149,6 +172,11 @@ def main() -> None:
             "preco_vencedor_vespera": round(precos_ref.get(venc, float("nan")), 3),
             "acertou": int(fav == venc), "volume": e.get("volume"),
         })
+    vistos_el = set()
+    for x in favoritos:
+        chave = (x["vespera_utc"][:10], re.sub(r"^(next-prime-minist?er-of-|party-of-next-prime-minister-of-|which-party-wins-|which-party-will-win-the-\d+-)", "", x["slug"]).split("-")[0])
+        x["repetida"] = int(chave in vistos_el)
+        vistos_el.add(chave)
     DERIV.mkdir(parents=True, exist_ok=True)
     with open(DERIV / "polymarket_eventos.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
@@ -160,9 +188,12 @@ def main() -> None:
         w.writerows(favoritos)
     man = {p.name: hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(BRUTOS.glob("*.json"))}
     (RAIZ / "dados" / "MANIFESTO_POLYMARKET.json").write_text(json.dumps(man, indent=1), encoding="utf-8")
-    n = len(favoritos)
-    a = sum(x["acertou"] for x in favoritos)
-    print(f"eventos lidos {len(evs)}, incluidos {n}, favorito acertou {a} ({a / n * 100:.1f}%)")
+    unicos = [x for x in favoritos if not x["repetida"]]
+    n = len(unicos)
+    a = sum(x["acertou"] for x in unicos)
+    fortes = [x for x in unicos if x["preco_favorito"] >= 0.75]
+    print(f"eventos lidos {len(evs)}, mercados incluidos {len(favoritos)}, eleicoes {n}, favorito acertou {a} ({a / n * 100:.1f}%); "
+          f"favorito acima de 75%: {sum(x['acertou'] for x in fortes)} de {len(fortes)}")
 
 
 if __name__ == "__main__":

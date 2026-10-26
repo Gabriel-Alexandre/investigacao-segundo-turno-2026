@@ -1,0 +1,17 @@
+{
+ "componentes": {
+  "virada_presidente_laplace": 0.1111,
+  "favorito_polymarket_75_a_85_perdeu_antes_de_2026_10_24": {
+   "perdeu": 3,
+   "de": 12,
+   "taxa": 0.25
+  },
+  "minas_1t_falhar_laplace": 0.1,
+  "lider_1t_e_pesquisas_perdeu_2014_2022": 0.0333,
+  "mesmo_em_disputa_apertada": 0.25,
+  "virada_governador_frente_1_87": 0.4998
+ },
+ "a_independente_presidente_x_polymarket_x_minas": 0.00278,
+ "b_dependente_brasil_lider_1t_e_pesquisas_perdeu": 0.0333,
+ "b_dependente_em_disputa_apertada": 0.25
+}

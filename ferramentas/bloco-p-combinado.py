@@ -34,3 +34,28 @@ out = {"todas_2014_2022": resumo(linhas),
 with open(R / "resultados/p7_disputas.csv", "w", newline="", encoding="utf-8") as f:
     w = csv.DictWriter(f, fieldnames=list(linhas[0])); w.writeheader(); w.writerows(sorted(linhas, key=lambda x: (x["ano"], x["uf"])))
 print(json.dumps(out, indent=1, ensure_ascii=False))
+
+# ---- P7 final: as duas contas do pre-registro (independente e com dependencia) ----
+h = json.loads((R / "resultados/p_historico.json").read_text(encoding="utf-8"))
+pm = json.loads((R / "resultados/p4_polymarket.json").read_text(encoding="utf-8"))
+fav = [x for x in csv.DictReader(open(R / "dados/derivados/polymarket_eleicoes.csv", encoding="utf-8"))
+       if not x["fora"] and 0.75 <= float(x["preco_favorito"]) < 0.85 and x["vespera_utc"] < "2026-10-24"]
+perdeu_antes = sum(1 for x in fav if x["acertou"] == "0")
+p_pres = h["P1_presidente"]["laplace_virada"]
+p_pm = perdeu_antes / len(fav)
+p_mg = (0 + 1) / (h["P5_minas_1t"]["eleicoes"] + 2)
+p7 = {
+    "componentes": {
+        "virada_presidente_laplace": p_pres,
+        "favorito_polymarket_75_a_85_perdeu_antes_de_2026_10_24": {"perdeu": perdeu_antes, "de": len(fav), "taxa": round(p_pm, 4)},
+        "minas_1t_falhar_laplace": round(p_mg, 4),
+        "lider_1t_e_pesquisas_perdeu_2014_2022": out["todas_2014_2022"]["taxa_condicional"],
+        "mesmo_em_disputa_apertada": out["frente_ate_3_e_lider_abaixo_50"]["taxa_condicional"],
+        "virada_governador_frente_1_87": h["P2_governador"]["logistica"]["p_virada_com_frente_1_87"],
+    },
+    "a_independente_presidente_x_polymarket_x_minas": round(p_pres * p_pm * p_mg, 5),
+    "b_dependente_brasil_lider_1t_e_pesquisas_perdeu": out["todas_2014_2022"]["taxa_condicional"],
+    "b_dependente_em_disputa_apertada": out["frente_ate_3_e_lider_abaixo_50"]["taxa_condicional"],
+}
+(R / "resultados/p7_probabilidade.json").write_text(json.dumps(p7, indent=1, ensure_ascii=False), encoding="utf-8")
+print(json.dumps(p7, indent=1, ensure_ascii=False))

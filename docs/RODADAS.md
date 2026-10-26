@@ -16,7 +16,10 @@ Cada rodada traz o que foi medido, com o arquivo de onde sai cada número. As re
 | P3 · presidente | 2014 e 2018: o líder das pesquisas ganhou. **2022: a média das 22 pesquisas registradas da última semana tinha o Bolsonaro 0,3 ponto à frente**, e o Lula ganhou | idem |
 | P5 · quem venceu Minas no 1º turno de presidente venceu a eleição | **8 de 8** (1994 a 2022); quebrou em 2026 | `resultados/p_historico.json` |
 | P7 · a combinação de 2026 (o líder do 1º turno também liderava as pesquisas, e perdeu), 2014 a 2022 | **1 em 30** (governador do PA, 2014). Em disputa com frente de até 3 pontos e líder abaixo de 50%: **1 em 4** | `resultados/p7_brasil.json` |
-| P4 · Polymarket | em andamento | — |
+| P4 · Polymarket: o favorito da véspera ganhou (89 eleições nacionais de jan/2024 a out/2026, uma por votação) | **74 de 89 (83%)** | `resultados/p4_polymarket.json` |
+| P4 · com o favorito entre 75% e 85% (a faixa do Flávio, 76,6%) | **9 de 13**; antes do 2º turno do Brasil, o favorito dessa faixa perdeu **3 de 12** (Senegal 2024, Tailândia 2026, 1º turno da Colômbia 2026) | idem |
+| P4 · com o favorito acima de 85% | **48 de 49** | idem |
+| P4 · Brasil 2026 | errou os dois: 1º turno (Lula 72,5%, o Flávio liderou) e 2º turno (Flávio 76,6%, o Lula venceu) | idem |
 
 ### D5 · A curva da noite (346 versões oficiais com voto)
 
@@ -31,3 +34,14 @@ Cada rodada traz o que foi medido, com o arquivo de onde sai cada número. As re
 | outro intervalo sem versão nova: 22h22 a 23h27 | 99,99% | 65 minutos |
 
 Arquivo: `resultados/d5_curva_noite.json`. Os dois intervalos (115 e 65 minutos) entram no teste A8 com a hora de recebimento de cada boletim.
+
+### P7 · A probabilidade combinada (as duas contas do pré-registro)
+
+| Conta | Resultado |
+|---|---|
+| (a) como se fossem independentes: virada em presidente (11%) × favorito de 75% a 85% perder (25%) × Minas falhar (10%) | **0,28% (cerca de 1 em 360)**. É o limite de quão raro seria se as três coisas não tivessem relação |
+| (b) com a dependência: nos 2º turnos de 2014 a 2022, o líder do 1º turno que também liderava as pesquisas perdeu | **3,3% (1 em 30)** |
+| (b) o mesmo em disputa com frente de até 3 pontos e líder abaixo de 50% | **25% (1 em 4)** |
+| referência: virada de governador com frente de 1,87 ponto | **50%** |
+
+Arquivos: `resultados/p7_probabilidade.json`, `dados/derivados/polymarket_eleicoes.csv` (cada eleição, incluída ou não, com o motivo). A Polymarket foi lida pelo DNS público da Cloudflare (o domínio não resolve no DNS local); só dados públicos de preço.
