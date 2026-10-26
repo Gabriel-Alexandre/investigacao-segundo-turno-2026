@@ -169,10 +169,11 @@ def g07_polymarket():
 
 def g08_cidades():
     m = pd.read_csv(R / "resultados/d4_municipios.csv", dtype={"municipio": str})
+    m = m[m.uf != "zz"]
     f2l = m[(m.venc1 == "flavio") & (m.venc2 == "lula")]
     l2f = m[(m.venc1 == "lula") & (m.venc2 == "flavio")]
     cont = f2l.uf.str.upper().value_counts().head(12)
-    f = fig("As cidades que viraram", f"{len(f2l)} municípios foram do Flávio para o Lula; {len(l2f)} foram do Lula para o Flávio")
+    f = fig("As cidades que viraram", f"no Brasil, {len(f2l)} municípios foram do Flávio para o Lula; {len(l2f)} foi do Lula para o Flávio")
     ax = f.add_axes([0.08, 0.14, 0.88, 0.66])
     ax.bar(cont.index, cont.values, color=L)
     for i, v in enumerate(cont.values):
@@ -229,8 +230,22 @@ def g11_abstencao():
     salvar(f, "g11_abstencao_entre_turnos.png")
 
 
+def g12_viradas_por_ano():
+    d = pd.read_csv(R / "resultados/rodada5_municipios_por_ano.csv")
+    f = fig("Cidades que viraram entre os turnos", "municípios em que o líder do 1º turno entre os 2 finalistas perdeu o 2º turno")
+    ax = f.add_axes([0.08, 0.14, 0.88, 0.66])
+    x = d.ano.astype(str)
+    ax.bar(x, d.viraram_para_o_pt, color=L, label="viraram para o PT")
+    ax.bar(x, d.viraram_para_o_adversario, bottom=d.viraram_para_o_pt, color=B, label="viraram para o adversário")
+    for i, v in enumerate(d.viraram_total):
+        ax.text(i, v + 15, str(v), ha="center", fontsize=24, weight="bold")
+    ax.set_ylabel("municípios")
+    ax.legend(frameon=False, fontsize=20)
+    salvar(f, "g12_cidades_que_viraram_por_ano.png")
+
+
 def main():
-    for g in (g01_conta, g02_origem, g03_curva, g04_testes, g05_pesquisas, g06_probabilidade, g07_polymarket, g08_cidades, g09_digital, g10_votos_livres, g11_abstencao):
+    for g in (g01_conta, g02_origem, g03_curva, g04_testes, g05_pesquisas, g06_probabilidade, g07_polymarket, g08_cidades, g09_digital, g10_votos_livres, g11_abstencao, g12_viradas_por_ano):
         try:
             g()
             print("ok", g.__name__)

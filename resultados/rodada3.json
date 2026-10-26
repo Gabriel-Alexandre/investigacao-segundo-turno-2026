@@ -288,30 +288,34 @@
   }
  },
  "D4_cidades_que_viraram": {
-  "municipios": 5688,
-  "do_flavio_para_o_lula": 219,
-  "do_lula_para_o_flavio": 4,
+  "municipios": 5571,
+  "do_flavio_para_o_lula": 211,
+  "do_lula_para_o_flavio": 1,
+  "empatados_no_1t_e_do_lula_no_2t": 2,
+  "empatados_no_1t_e_do_flavio_no_2t": 0,
+  "exterior_cidades": 117,
+  "exterior_do_flavio_para_o_lula": 6,
+  "exterior_do_lula_para_o_flavio": 3,
   "por_regiao_flavio_para_lula": {
-   "Sudeste": 121,
+   "Sudeste": 120,
    "Sul": 40,
-   "Norte": 22,
+   "Norte": 21,
    "Centro-Oeste": 20,
-   "Nordeste": 10,
-   "Exterior": 6
+   "Nordeste": 10
   },
   "por_uf_flavio_para_lula": {
    "mg": 76,
-   "sp": 33,
+   "sp": 32,
    "pr": 20,
    "rs": 19,
    "go": 14,
-   "to": 12,
+   "to": 11,
    "rj": 9,
    "al": 7,
-   "zz": 6,
-   "pa": 5
+   "pa": 5,
+   "ms": 4
   },
-  "aptos_nos_que_viraram_para_o_lula": 10948738,
+  "aptos_nos_que_viraram_para_o_lula": 10898440,
   "maiores_em_eleitores": [
    {
     "uf": "rj",
@@ -434,7 +438,7 @@
     "frente_lula_2t_pontos": 6.53
    }
   ],
-  "frente_do_lula_aumentou_em_pct_dos_municipios": 96.54,
-  "virada_media_pontos": 4.62
+  "frente_do_lula_aumentou_em_pct_dos_municipios": 97.13,
+  "virada_media_pontos": 4.69
  }
 }

@@ -68,7 +68,7 @@ Tudo o que foi pedido, em [`RELATORIO.md`](../RELATORIO.md) (gerado por script) 
 - **1º turno por seção:** 499.206 seções; SP, TO e exterior pelo BU na Web do TSE depois de o servidor de resultados responder 429 (emenda 1), conferido contra 73.000 seções de SP já baixadas: iguais em todas.
 - **Régua de 2022:** os dois turnos de 2022 por seção, iguais ao total do TSE nas duas bases.
 - **Acusação A1 a A11 completos**, com o veredito de cada um na régua de cinco níveis e o teto do pior caso.
-- **Defesa D1 a D6 completos:** a conta, a transferência de votos com validação em 2022, a abstenção, as 219 cidades que viraram (e as 4 do outro lado), a noite refeita pelos boletins e as pesquisas da última semana.
+- **Defesa D1 a D6 completos:** a conta, a transferência de votos com validação em 2022, a abstenção, as cidades que viraram (219 e 4 na 1ª conta; 211 e 1 no Brasil depois da correção da rodada 5), a noite refeita pelos boletins e as pesquisas da última semana.
 - **Probabilidade P1 a P7 completa**, com 180 segundos turnos de 41 países (P6) e as 19 pesquisas da última semana (P3).
 - **Outros países:** [`OUTROS_PAISES.md`](OUTROS_PAISES.md).
 - **Validação independente:** todas as checagens passaram. **Revisão adversarial:** [`REVISAO_ADVERSARIAL.md`](REVISAO_ADVERSARIAL.md). **Leitura da IA:** [`LEITURA_DA_IA.md`](LEITURA_DA_IA.md). **Gráficos:** `resultados/figuras/video/` (9).
@@ -90,3 +90,21 @@ Pedido do autor depois de ler o projeto do vídeo 19: *"é normal [...] que a ma
 Leitura: o PT ganhar votos em quase todos os municípios e a virada andar para o mesmo lado em quase todos já aconteceu (2002, 2006, 2018, 2022). O eleitor dos eliminados contrariar o apoio do candidato também (2022, ao contrário: 88% apoiaram o PT e o PT levou 30%). **Sem precedente:** a abstenção cair 1,86 ponto entre os turnos e o comparecimento subir em 80% dos municípios; e o PT levar a maior parte dos votos livres quando a maioria dos eliminados apoiou o adversário.
 
 **Sensibilidade da transferência** (`resultados/d2_sensibilidade.json`): o mesmo modelo dá 3,9 milhões dos eleitores dos outros candidatos para o Lula por seção e 4,8 milhões por município; o projeto do vídeo 19, com outro método por município, dá 6,0 milhões. Os três concordam que o Lula levou mais desses eleitores do que o Flávio e que a troca direta do Flávio para o Lula foi quase nula.
+
+## Rodada 5 · 26/10/2026 (as cidades que viraram, comparadas com 2002 a 2022)
+
+Pedido do autor para o roteiro: comparar com outras eleições *"se é normal ganhar ou aumentar em tantos municípios"* e *"se é normal o Lula ganhar mais que o Flávio no Sul"* (`ferramentas/rodada-5-municipios.py`, `resultados/rodada5_municipios_por_ano.csv`, gráfico `g12`). Exterior fora; município é o do TSE de cada ano.
+
+| Ano | Municípios que viraram (para o PT / para o adversário) | PT ganhou mais votos que o adversário em | Parte do PT no que os 2 ganharam, no Sul |
+|---|---|---|---|
+| 2002 | 793 (110 / 683) | 31,2% | 41,5% |
+| 2006 | 913 (912 / 1) | 98,8% | 121,4% (o adversário perdeu votos) |
+| 2010 | 325 (30 / 295) | 30,4% | 25,1% |
+| 2014 | 348 (71 / 277) | 26,5% | 30,2% |
+| 2018 | 146 (121 / 25) | 69,9% | 53,7% |
+| 2022 | 251 (0 / 251) | 12,8% | 18,0% |
+| **2026** | **212 (211 / 1)** | **93,8%** | **60,6%** |
+
+**Leitura:** o número de cidades que viraram em 2026 é dos menores da série (só 2018 teve menos), e virar quase tudo para um lado só também aconteceu em 2006 e em 2022. O que sai do padrão é o PT ganhar mais votos que o adversário em 94% dos municípios e ficar com 61% do ganho no Sul: fora 2006, o maior tinha sido 70% dos municípios e 54% no Sul, em 2018. É o mesmo eleitor livre da rodada 4, visto no mapa. As duas últimas colunas refazem por outro caminho a rodada 7 do projeto do vídeo 19 (`quem_ganhou_mais_por_ano.csv`) e batem casa por casa (por exemplo, 2002: 31,2% e 41,5% aqui, 31,19% e 41,55% lá).
+
+**Correção do D4 (rodada 3):** as *"219 cidades que viraram (e as 4 do outro lado)"* somavam as cidades do exterior (6 e 3) e contavam como do Flávio 2 municípios que empataram no 1º turno (Trabiju, SP, 574 a 574; Crixás do Tocantins, TO, 679 a 679). No Brasil: **211 do Flávio para o Lula, 1 do Lula para o Flávio**, e 2 empatados que foram do Lula. O vencedor com empate e o exterior à parte entraram em `ferramentas/rodada-3.py` (`d4_resumo`), e `resultados/d4_municipios.csv`, `rodada3.json`, o relatório e o `g08` foram refeitos sem refazer a rodada inteira (`corrigir_d4` na rodada 5).

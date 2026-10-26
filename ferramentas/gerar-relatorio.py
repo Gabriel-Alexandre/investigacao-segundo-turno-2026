@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import pandas as pd
 from pathlib import Path
 
 R = Path(__file__).resolve().parents[1]
@@ -40,6 +41,8 @@ def main():
     a1, a2, a3, a8, a9, a10, a11 = (r3[k] for k in ("A1_votos_sem_origem", "A2_votos_que_somem", "A3_enchimento", "A8_pausa_e_cauda", "A9_urna_trocada", "A10_unanimidades", "A11_residuos_por_municipio"))
     a4, a5, a6, a7 = (r2[k] for k in ("A4_rdv_contra_boletim", "A5_log_contra_boletim", "A6_votos_depois_das_17h", "A7_rajadas_e_liberacao_sem_digital"))
     d4 = r3["D4_cidades_que_viraram"]
+    _v = pd.read_csv(R / 'resultados/rodada5_municipios_por_ano.csv')
+    viradas_historico = '; '.join(f"{int(r.ano)}: {int(r.viraram_total)} viraram ({int(r.viraram_para_o_pt)} para o PT, {int(r.viraram_para_o_adversario)} para o adversário), o PT ganhou mais votos que o adversário em {br(r.pt_ganhou_mais_votos_pct, 1)}% e ficou com {br(r['parte_do_pt_Sul'], 1)}% do que os 2 ganharam no Sul" for _, r in _v.iterrows())
     x1, x3, x4 = ra["acusacao"]["X1_reserva_so_com_outros_candidatos"], ra["acusacao"]["X3_unanimidades_como_se_fossem_falsas"], ra["acusacao"]["X4_o_1pct_de_secoes_mais_acima_do_previsto"]
 
     def sinal(x):
@@ -88,7 +91,7 @@ Estimativa seção a seção, por UF, com intervalo de 90% (`resultados/d2_trans
 
 Validação em 2022 (o mesmo modelo, comparado com o Datafolha de 5 a 7/10/2022): eleitores do Ciro, modelo {pct(d2['validacao_2022']['ciro_modelo']['para_lula_pct'])} Lula e {pct(d2['validacao_2022']['ciro_modelo']['para_o_outro_pct'])} Bolsonaro, Datafolha 31% e 42%; eleitores da Tebet, modelo {pct(d2['validacao_2022']['tebet_modelo']['para_lula_pct'])} e {pct(d2['validacao_2022']['tebet_modelo']['para_o_outro_pct'])}, Datafolha 31% e 29%. O modelo acertou o lado dos eleitores do Ciro e errou o da Tebet: os números de origem acima são a melhor estimativa disponível, não uma medida exata.
 
-**As cidades que viraram:** {br(d4['do_flavio_para_o_lula'])} municípios foram do Flávio no 1º turno para o Lula no 2º; {br(d4['do_lula_para_o_flavio'])} fizeram o contrário. A frente do Lula aumentou em {pct(d4['frente_do_lula_aumentou_em_pct_dos_municipios'])} dos {br(d4['municipios'])} municípios (`resultados/d4_municipios.csv`).
+**As cidades que viraram:** no Brasil, {br(d4['do_flavio_para_o_lula'])} municípios foram do Flávio no 1º turno para o Lula no 2º e {br(d4['do_lula_para_o_flavio'])} fez o contrário; outros {br(d4['empatados_no_1t_e_do_lula_no_2t'])} empataram no 1º turno e foram do Lula no 2º. No exterior, {br(d4['exterior_do_flavio_para_o_lula'])} cidades foram do Flávio para o Lula e {br(d4['exterior_do_lula_para_o_flavio'])} do Lula para o Flávio. A frente do Lula aumentou em {pct(d4['frente_do_lula_aumentou_em_pct_dos_municipios'])} dos {br(d4['municipios'])} municípios (`resultados/d4_municipios.csv`). Contra 2002 a 2022 (rodada 5, `resultados/rodada5_municipios_por_ano.csv`): {viradas_historico}.
 
 **A noite:** refeita pela hora de recebimento de cada boletim, acompanha as versões oficiais gravadas ao vivo com diferença média de {br(d5['diferenca_media_absoluta_pontos'], 2)} ponto. As trocas de liderança seguem a ordem de chegada das regiões (`resultados/d5_reconstruida.json`).
 

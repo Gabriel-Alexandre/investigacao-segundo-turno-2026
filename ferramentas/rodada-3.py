@@ -269,8 +269,9 @@ def main():
     mm = d.groupby(["uf", "municipio"]).agg(lula1=("lula1", "sum"), flavio1=("flavio1", "sum"), val1=("val1", "sum"),
                                              lula2=("lula2", "sum"), flavio2=("flavio2", "sum"), val2=("val2", "sum"),
                                              aptos=("aptos2", "sum"), abst1=("abst1", "sum"), abst2=("abst2", "sum"), outros1=("outros1", "sum")).reset_index()
-    mm["venc1"] = np.where(mm.lula1 > mm.flavio1, "lula", "flavio")
-    mm["venc2"] = np.where(mm.lula2 > mm.flavio2, "lula", "flavio")
+    # empate exato fica como empate (rodada 5: 2 municípios empataram no 1º turno e eram contados como do Flávio)
+    mm["venc1"] = np.select([mm.lula1 > mm.flavio1, mm.lula1 < mm.flavio1], ["lula", "flavio"], "empate")
+    mm["venc2"] = np.select([mm.lula2 > mm.flavio2, mm.lula2 < mm.flavio2], ["lula", "flavio"], "empate")
     mm["lula_pct_1t"] = mm.lula1 / mm.val1 * 100
     mm["lula_pct_2t"] = mm.lula2 / mm.val2 * 100
     mm["frente_lula_1t_pontos"] = (mm.lula1 - mm.flavio1) / (mm.lula1 + mm.flavio1) * 100
@@ -283,18 +284,29 @@ def main():
     except FileNotFoundError:
         pass
     mm.to_csv(R / "resultados/d4_municipios.csv", index=False)
-    f2l = mm[(mm.venc1 == "flavio") & (mm.venc2 == "lula")]
-    l2f = mm[(mm.venc1 == "lula") & (mm.venc2 == "flavio")]
-    out["D4_cidades_que_viraram"] = {"municipios": int(len(mm)), "do_flavio_para_o_lula": int(len(f2l)), "do_lula_para_o_flavio": int(len(l2f)),
-                                     "por_regiao_flavio_para_lula": f2l.regiao.value_counts().to_dict(),
-                                     "por_uf_flavio_para_lula": f2l.uf.value_counts().head(10).to_dict(),
-                                     "aptos_nos_que_viraram_para_o_lula": int(f2l.aptos.sum()),
-                                     "maiores_em_eleitores": f2l.sort_values("aptos", ascending=False).head(15)[[c for c in ["uf", "municipio", "nome", "aptos", "frente_lula_1t_pontos", "frente_lula_2t_pontos"] if c in f2l]].round(2).to_dict("records"),
-                                     "frente_do_lula_aumentou_em_pct_dos_municipios": round(float((mm.virada_pontos > 0).mean() * 100), 2),
-                                     "virada_media_pontos": round(float(mm.virada_pontos.mean()), 2)}
+    out["D4_cidades_que_viraram"] = d4_resumo(mm)
     (R / "resultados/rodada3.json").write_text(json.dumps(out, indent=1, ensure_ascii=False, default=str), encoding="utf-8")
     d[K + ["regiao", "lp1", "lp2", "res", "excL", "excF", "dc", "dabst"]].to_parquet(R / "dados/derivados/r3_secoes.parquet", index=False)
     print(json.dumps(out, indent=1, ensure_ascii=False, default=str))
+
+
+def d4_resumo(todos):
+    """As cidades que viraram, só no Brasil (o exterior à parte, e o empate exato no 1º turno à parte)."""
+    mm = todos[todos.uf != "zz"]
+    ex = todos[todos.uf == "zz"]
+    f2l = mm[(mm.venc1 == "flavio") & (mm.venc2 == "lula")]
+    l2f = mm[(mm.venc1 == "lula") & (mm.venc2 == "flavio")]
+    return {"municipios": int(len(mm)), "do_flavio_para_o_lula": int(len(f2l)), "do_lula_para_o_flavio": int(len(l2f)),
+            "empatados_no_1t_e_do_lula_no_2t": int(((mm.venc1 == "empate") & (mm.venc2 == "lula")).sum()),
+            "empatados_no_1t_e_do_flavio_no_2t": int(((mm.venc1 == "empate") & (mm.venc2 == "flavio")).sum()),
+            "exterior_cidades": int(len(ex)), "exterior_do_flavio_para_o_lula": int(((ex.venc1 == "flavio") & (ex.venc2 == "lula")).sum()),
+            "exterior_do_lula_para_o_flavio": int(((ex.venc1 == "lula") & (ex.venc2 == "flavio")).sum()),
+            "por_regiao_flavio_para_lula": f2l.regiao.value_counts().to_dict(),
+            "por_uf_flavio_para_lula": f2l.uf.value_counts().head(10).to_dict(),
+            "aptos_nos_que_viraram_para_o_lula": int(f2l.aptos.sum()),
+            "maiores_em_eleitores": f2l.sort_values("aptos", ascending=False).head(15)[[c for c in ["uf", "municipio", "nome", "aptos", "frente_lula_1t_pontos", "frente_lula_2t_pontos"] if c in f2l]].round(2).to_dict("records"),
+            "frente_do_lula_aumentou_em_pct_dos_municipios": round(float((mm.virada_pontos > 0).mean() * 100), 2),
+            "virada_media_pontos": round(float(mm.virada_pontos.mean()), 2)}
 
 
 if __name__ == "__main__":
