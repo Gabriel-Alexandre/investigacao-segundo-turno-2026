@@ -1,0 +1,3 @@
+{"hora": "2026-10-26T10:30:36+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "rr", "secoes": 40, "proprias": 40, "itens": 161, "falhas": 0}
+{"hora": "2026-10-26T10:32:16+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "ac", "secoes": 2411, "proprias": 2270, "itens": 9081, "falhas": 0}
+{"hora": "2026-10-26T10:33:27+00:00", "tipos": ["bu", "busa", "rdv", "log"], "turno": "t2", "uf": "ac", "secoes": 2411, "proprias": 2270, "itens": 9081, "falhas": 0}

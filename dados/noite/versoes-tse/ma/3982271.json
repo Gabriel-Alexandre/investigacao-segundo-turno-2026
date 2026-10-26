@@ -1,0 +1,15 @@
+
+{ "ele" : "6258", "t" : "2", "f" : "o", "sup" : "n", "tpabr" : "uf", "cdabr" : "ma", "dg" : "25/10/2026", "hg" : "19:34:36", "idg" : "3982271", "dt" : "25/10/2026", "ht" : "19:34:33", "dv" : "s", "tf" : "n", "and" : "p", "md" : "n", "carg" : [ 
+{ "cd" : "1", "nmn" : "Presidente", "nmm" : "Presidente", "nmf" : "Presidente", "nv" : "1", "fed" : [ 
+{ "n" : "101", "sg" : "13-PT/65-PC do B/43-PV", "nm" : "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL", "com" : "13-PT/65-PC do B/43-PV", "npar" : [ "13", "43", "65" ] } ], "agr" : [ 
+{ "n" : "280001801177", "nm" : "PARTIDO LIBERAL", "tp" : "i", "com" : "PL", "vag" : "0", "par" : [ 
+{ "n" : "22", "sg" : "PL", "nm" : "PARTIDO LIBERAL", "nfed" : "", "tvtn" : "130840", "tvan" : "130840", "cand" : [ 
+{ "n" : "22", "sqcand" : "280002551544", "nm" : "FLAVIO NANTES BOLSONARO", "nmu" : "FLAVIO BOLSONARO", "dt" : "30/04/1981", "dvt" : "Válido", "seq" : "2", "e" : "n", "st" : "", "vap" : "130840", "pvap" : "32,50", "pvapn" : "32,501583595", "vs" : [ 
+{ "tp" : "v", "sqcand" : "280002551543", "nm" : "ALFREDO GASPAR DE MENDONÇA NETO", "nmu" : "ALFREDO GASPAR", "sgp" : "PL" } ] } ] } ] }, 
+{ "n" : "280001800617", "nm" : "BRASIL PRONTO PRA MAIS", "tp" : "c", "com" : "PSB / PDT / PCDOB / PT / PV / PSOL / REDE", "tvtn" : "271725", "tvan" : "271725", "par" : [ 
+{ "n" : "13", "sg" : "PT", "nm" : "PARTIDO DOS TRABALHADORES", "nfed" : "101", "tvtn" : "271725", "tvan" : "271725", "cand" : [ 
+{ "n" : "13", "sqcand" : "280002542548", "nm" : "LUIZ INÁCIO LULA DA SILVA", "nmu" : "LULA", "dt" : "06/10/1945", "dvt" : "Válido", "seq" : "1", "e" : "n", "st" : "", "vap" : "271725", "pvap" : "67,50", "pvapn" : "67,498416405", "vs" : [ 
+{ "tp" : "v", "sqcand" : "280002542549", "nm" : "GERALDO JOSE RODRIGUES ALCKMIN FILHO", "nmu" : "GERALDO ALCKMIN", "sgp" : "PSB" } ] } ] } ] } ] } ], "s" : 
+{ "ts" : "18093", "st" : "1788", "pst" : "9,88", "pstn" : "9,882274913", "snt" : "16305", "psnt" : "90,12", "psntn" : "90,117725087", "si" : "1788", "psi" : "100,00", "psin" : "100", "sni" : "0", "psni" : "0,00", "psnin" : "0", "sa" : "1788", "psa" : "100,00", "psan" : "100", "sna" : "0", "psna" : "0,00", "psnan" : "0" }, "e" : 
+{ "te" : "5183049", "est" : "509566", "pest" : "9,83", "pestn" : "9,831394610", "esnt" : "4673483", "pesnt" : "90,17", "pesntn" : "90,168605390", "esi" : "509566", "pesi" : "100,00", "pesin" : "100", "esni" : "0", "pesni" : "0,00", "pesnin" : "0", "esa" : "509566", "pesa" : "100,00", "pesan" : "100", "esna" : "0", "pesna" : "0,00", "pesnan" : "0", "c" : "411278", "pc" : "80,71", "pcn" : "80,711428941", "a" : "98288", "pa" : "19,29", "pan" : "19,288571059" }, "v" : 
+{ "tv" : "411278", "vvc" : "402565", "pvvc" : "97,88", "pvvcn" : "97,881481626", "vv" : "402565", "pvv" : "100,00", "pvvn" : "100", "vnom" : "402565", "pvnom" : "100,00", "pvnomn" : "100", "van" : "0", "pvan" : "0,00", "pvann" : "0", "vansj" : "0", "pvansj" : "0,00", "pvansjn" : "0", "vb" : "3080", "pvb" : "0,75", "pvbn" : "0,748885182", "tvn" : "5633", "ptvn" : "1,37", "ptvnn" : "1,369633192", "vn" : "5633", "pvn" : "100,00", "pvnn" : "100", "vnt" : "0", "pvnt" : "0,00", "pvntn" : "0", "vsan" : "0", "vscv" : "0" } }

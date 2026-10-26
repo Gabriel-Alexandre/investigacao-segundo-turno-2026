@@ -1,0 +1,23 @@
+posicao,instituto,nota,n_rodadas,vies_2t,n_2t,nota_medida,conta_no_peso
+1,Ranking Pesquisa,,1,0.074,1,0.074,False
+2,Vox Brasil,,1,,0,0.488,False
+3,Futura,0.91,3,1.222,1,0.91,True
+4,Palver,,1,,0,1.067,False
+5,Real Time,1.61,3,-0.479,1,1.61,True
+6,Quaest,1.633,3,-0.783,1,1.633,True
+7,Datafolha,1.69,7,-0.762,3,1.69,True
+8,MDA,1.888,7,1.127,3,1.888,True
+9,Ideia,2.047,2,,0,2.047,True
+10,Parana Pesquisas,2.257,4,2.992,2,2.257,True
+11,AtlasIntel,2.37,3,-2.512,1,2.37,True
+12,Ipec,2.464,6,-2.068,3,2.464,True
+13,Ipespe,2.476,4,0.268,2,2.476,True
+14,PoderData,2.575,4,-1.786,1,2.575,True
+15,Gerp,,1,3.125,1,3.125,False
+16,Nexus,3.161,2,,0,3.161,True
+17,Indexa,,1,,0,3.743,False
+18,Verita,4.1,4,3.617,2,4.1,True
+19,IPRI,4.56,2,4.64,1,4.56,True
+20,Vox Populi,4.565,4,-0.903,2,4.565,True
+21,Sensus,4.567,2,3.739,1,4.567,True
+22,Brasmarket,6.246,2,3.928,1,6.246,True

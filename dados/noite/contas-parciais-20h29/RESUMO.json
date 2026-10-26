@@ -1,0 +1,275 @@
+{
+  "A": {
+    "inicio": "2026-10-25 17:06:31",
+    "fim": "2026-10-25 20:29:00",
+    "versoes": 158,
+    "vantagem_10pct": -0.9602255848513133,
+    "vantagem_50pct": -0.2561452383219659,
+    "vantagem_90pct": null,
+    "vantagem_final": -0.3781561308507276,
+    "queda": -0.5820694540005857,
+    "queda_ref_2022_2t": 5.8277,
+    "queda_ref_2026_1t": 8.6807,
+    "maior_vantagem": {
+      "vantagem": -4.54083305740497,
+      "pst": 1.514277473,
+      "hora": "2026-10-25 19:05:16"
+    },
+    "paradas": [],
+    "maior_parada": null,
+    "parada_em_andamento": null,
+    "parada_ref_1t_min": 62.0,
+    "pausa_fora_da_regra": {
+      "inicio": "2026-10-25 17:07:01",
+      "fim": "2026-10-25 19:01:56",
+      "minutos": 114.9,
+      "pst_antes": 0.291638624,
+      "pst_depois": 0.374563343
+    },
+    "definicao": null,
+    "definicao_pela_conta": null,
+    "trocas_de_lideranca_pct": [
+      13.650730699,
+      47.238246322
+    ],
+    "trocas_depois_de_1pct": [
+      13.650730699,
+      47.238246322
+    ],
+    "regioes_18h30": {
+      "Norte": 0.5026388539834129,
+      "Nordeste": 0.0489959383077229,
+      "Centro-Oeste": 0.01576955424726661,
+      "Sudeste": 0.008856655038206625,
+      "Sul": 0.0,
+      "nacional": 0.291638624
+    },
+    "regras": {
+      "A1_queda": false,
+      "A2_ordem": false,
+      "A2_so_nordeste": true,
+      "A3_parada": true
+    },
+    "veredito_padrao": false
+  },
+  "B": {
+    "urna_flavio": 49.81092193457464,
+    "urna_lula": 50.18907806542536,
+    "vencedor": "lula",
+    "pst": 52.458297279,
+    "lido_ate": "2026-10-25 20:29:00",
+    "totalizacao_final": false,
+    "votos_flavio": 32233460.0,
+    "votos_lula": 32478171.0,
+    "diferenca_votos": -244711.0,
+    "validos": 64711631.0,
+    "comparecimento": 66761869.0,
+    "abstencao": 15755128.0,
+    "abstencao_pct": 9.924771285803109,
+    "abstencao_1t_pct": 21.083585725786424,
+    "votos_flavio_1t": 56104503.0,
+    "votos_lula_1t": 53879538.0,
+    "projecao": 50.848739823887946,
+    "projecao_apresentada": 50.8,
+    "erro": -1.0378178893133096,
+    "erro_contra_apresentada": -0.9890780654253604,
+    "acertou_vencedor": false,
+    "dentro_da_faixa": true,
+    "erro_menor_que_teste_do_passado": true,
+    "partes": {
+      "Pesquisas": {
+        "valor": 50.96659305503011,
+        "erro": -1.155671120455473
+      },
+      "Histórico": {
+        "valor": 50.573916379531205,
+        "erro": -0.7629944449565684
+      },
+      "Crescimento": {
+        "valor": 50.8353659732472,
+        "erro": -1.0244440386725628
+      }
+    },
+    "parte_mais_perto": "Histórico",
+    "termometros": [
+      {
+        "uf": "MG",
+        "vencedor": "flavio",
+        "flavio_pct": 50.079899112385704,
+        "bateu_com_o_pais": false
+      },
+      {
+        "uf": "TO",
+        "vencedor": "flavio",
+        "flavio_pct": 51.53215954422552,
+        "bateu_com_o_pais": false
+      },
+      {
+        "uf": "AM",
+        "vencedor": "lula",
+        "flavio_pct": 47.67915352311759,
+        "bateu_com_o_pais": true
+      },
+      {
+        "uf": "AP",
+        "vencedor": "lula",
+        "flavio_pct": 46.84452545672978,
+        "bateu_com_o_pais": true
+      }
+    ],
+    "uf_erro_medio_abs": 2.4335558670768327,
+    "uf_maiores_erros": [
+      {
+        "uf": "zz",
+        "projetado": 47.96196226778967,
+        "urna": 41.51289287695685,
+        "erro": -6.449069390832825
+      },
+      {
+        "uf": "al",
+        "projetado": 42.859770096490045,
+        "urna": 36.94976865231624,
+        "erro": -5.910001444173808
+      },
+      {
+        "uf": "pe",
+        "projetado": 33.78930112098027,
+        "urna": 28.670157053375846,
+        "erro": -5.119144067604424
+      }
+    ],
+    "ufs_que_mudaram_de_lado": [],
+    "ufs_flavio": 15,
+    "ufs_lula": 12
+  },
+  "C": {
+    "n": 27,
+    "deram_menos_ao_flavio": 2,
+    "deram_mais_ao_flavio": 25,
+    "acertaram_vencedor": 3,
+    "dentro_da_margem": 19,
+    "erro_medio_abs": 1.6385479816586428,
+    "erro_medio": 1.5293743617216597,
+    "institutos": 17,
+    "mais_perto": {
+      "instituto": "Nexus",
+      "anti_valido": 50.3247,
+      "erro": 0.5137780654253632
+    },
+    "mais_longe": {
+      "instituto": "Gerp",
+      "anti_valido": 52.6316,
+      "erro": 2.820678065425362
+    },
+    "ranking": [
+      {
+        "instituto": "Nexus",
+        "anti_valido": 50.3247,
+        "erro": 0.5137780654253632,
+        "registro_tse": "BR044992026"
+      },
+      {
+        "instituto": "MDA",
+        "anti_valido": 50.4854,
+        "erro": 0.6744780654253617,
+        "registro_tse": "BR006522026"
+      },
+      {
+        "instituto": "Palver",
+        "anti_valido": 50.5051,
+        "erro": 0.694178065425362,
+        "registro_tse": "BR080282026"
+      },
+      {
+        "instituto": "Vox Brasil",
+        "anti_valido": 49.011,
+        "erro": -0.799921934574634,
+        "registro_tse": "BR043322026"
+      },
+      {
+        "instituto": "Futura",
+        "anti_valido": 50.7772,
+        "erro": 0.9662780654253638,
+        "registro_tse": "BR037642026"
+      },
+      {
+        "instituto": "Verita",
+        "anti_valido": 51.0267,
+        "erro": 1.2157780654253614,
+        "registro_tse": "BR011072026"
+      },
+      {
+        "instituto": "Ipespe",
+        "anti_valido": 51.0638,
+        "erro": 1.2528780654253637,
+        "registro_tse": "BR002232026"
+      },
+      {
+        "instituto": "Ideia",
+        "anti_valido": 51.0638,
+        "erro": 1.2528780654253637,
+        "registro_tse": "BR082512026"
+      },
+      {
+        "instituto": "Datafolha",
+        "anti_valido": 51.087,
+        "erro": 1.2760780654253665,
+        "registro_tse": "BR004662026"
+      },
+      {
+        "instituto": "Quaest",
+        "anti_valido": 51.1111,
+        "erro": 1.3001780654253636,
+        "registro_tse": "BR087292026"
+      },
+      {
+        "instituto": "AtlasIntel",
+        "anti_valido": 51.1294,
+        "erro": 1.31847806542536,
+        "registro_tse": "BR024182026"
+      },
+      {
+        "instituto": "Indexa",
+        "anti_valido": 51.1628,
+        "erro": 1.3518780654253604,
+        "registro_tse": "BR046292026"
+      },
+      {
+        "instituto": "Alfa",
+        "anti_valido": 51.5312,
+        "erro": 1.7202780654253615,
+        "registro_tse": "BR008202026"
+      },
+      {
+        "instituto": "PoderData",
+        "anti_valido": 51.5789,
+        "erro": 1.7679780654253605,
+        "registro_tse": "BR025862026"
+      },
+      {
+        "instituto": "DataTrends",
+        "anti_valido": 51.5789,
+        "erro": 1.7679780654253605,
+        "registro_tse": "BR044542026"
+      },
+      {
+        "instituto": "Real Time",
+        "anti_valido": 51.6129,
+        "erro": 1.8019780654253665,
+        "registro_tse": "BR029522026"
+      },
+      {
+        "instituto": "Gerp",
+        "anti_valido": 52.6316,
+        "erro": 2.820678065425362,
+        "registro_tse": "BR051872026"
+      }
+    ],
+    "media_simples": 51.04008823529412,
+    "erro_media_simples": 1.2291663007194842,
+    "erro_projecao": 1.0378178893133096,
+    "institutos_mais_perto_que_a_projecao": 5,
+    "institutos_mais_longe_que_a_projecao": 12
+  },
+  "ensaio": false
+}

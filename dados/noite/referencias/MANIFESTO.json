@@ -1,0 +1,248 @@
+[
+  {
+    "arquivo": "dados/referencias/previsao-segundo-turno-2026/RESUMO.json",
+    "origem": "previsao-segundo-turno-2026/resultados/RESUMO.json",
+    "commit": "a0d185351e32be19534376fc20fa615b8fa1d9c2",
+    "sha256": "bd2db5faaabc032d8ecda0052aece9af52d191c3a9d7f6c2e0226b1aabb58cd0"
+  },
+  {
+    "arquivo": "dados/referencias/previsao-segundo-turno-2026/pesquisas_2026_todas.csv",
+    "origem": "previsao-segundo-turno-2026/resultados/pesquisas_2026_todas.csv",
+    "commit": "a0d185351e32be19534376fc20fa615b8fa1d9c2",
+    "sha256": "b2e6d058830493b66ce0e8f075c211b15f86ee9dbde682473564cab8cbca116c"
+  },
+  {
+    "arquivo": "dados/referencias/previsao-segundo-turno-2026/p_pesquisas_usadas.csv",
+    "origem": "previsao-segundo-turno-2026/resultados/p_pesquisas_usadas.csv",
+    "commit": "a0d185351e32be19534376fc20fa615b8fa1d9c2",
+    "sha256": "e0caa223faecf89561d4fc736e01ea0508bd420b1e34b2a0cd0d6e8037d71896"
+  },
+  {
+    "arquivo": "dados/referencias/previsao-segundo-turno-2026/institutos_ranking.csv",
+    "origem": "previsao-segundo-turno-2026/resultados/institutos_ranking.csv",
+    "commit": "a0d185351e32be19534376fc20fa615b8fa1d9c2",
+    "sha256": "a247571e90c5135655a463561a50eddec6670f1a29fbba46ff5e3e33cbf6706b"
+  },
+  {
+    "arquivo": "dados/referencias/previsao-segundo-turno-2026/h_regras_por_uf.csv",
+    "origem": "previsao-segundo-turno-2026/resultados/h_regras_por_uf.csv",
+    "commit": "a0d185351e32be19534376fc20fa615b8fa1d9c2",
+    "sha256": "371961ce7b5b542c78dc4f772d4ec736e0b0d8594a0ea4585e3999edb9ebc8d6"
+  },
+  {
+    "arquivo": "dados/referencias/previsao-segundo-turno-2026/r_por_uf.csv",
+    "origem": "previsao-segundo-turno-2026/resultados/r_por_uf.csv",
+    "commit": "a0d185351e32be19534376fc20fa615b8fa1d9c2",
+    "sha256": "a404336bc80258840224052ead0b55ced4ee7fdd05038857b2337aa609888413"
+  },
+  {
+    "arquivo": "dados/referencias/previsao-segundo-turno-2026/teste_do_passado.csv",
+    "origem": "previsao-segundo-turno-2026/resultados/teste_do_passado.csv",
+    "commit": "a0d185351e32be19534376fc20fa615b8fa1d9c2",
+    "sha256": "5ffa6dc90f6f37e009868b055ef4688881b311f671406630fa8ab892028f2ddd"
+  },
+  {
+    "arquivo": "dados/referencias/apuracao-eleicoes-2026/p1_margem_por_pct_de_secoes.csv",
+    "origem": "apuracao-eleicoes-2026/resultados/p1_margem_por_pct_de_secoes.csv",
+    "commit": "b59566497b2587fd32a9ff459bfb1be30d9e50ba",
+    "sha256": "59e067ed655e55af69f8d9b61d19e61f3192f056ae197c2dd2703ac8514052f3"
+  },
+  {
+    "arquivo": "dados/referencias/apuracao-eleicoes-2026/p7_margem_2022_por_pct_de_secoes.csv",
+    "origem": "apuracao-eleicoes-2026/resultados/p7_margem_2022_por_pct_de_secoes.csv",
+    "commit": "b59566497b2587fd32a9ff459bfb1be30d9e50ba",
+    "sha256": "d966a106a5eca0879afc1df6639ba8378823fd46e04e88b176b5e188a9672fc5"
+  },
+  {
+    "arquivo": "dados/referencias/apuracao-eleicoes-2026/p3_curva_reconstruida.csv",
+    "origem": "apuracao-eleicoes-2026/resultados/p3_curva_reconstruida.csv",
+    "commit": "b59566497b2587fd32a9ff459bfb1be30d9e50ba",
+    "sha256": "8b8aef46c37877872289d1cd7494ed124219826949e717a1cb277075c62c5873"
+  },
+  {
+    "arquivo": "dados/referencias/apuracao-eleicoes-2026/p3_pontos_da_tela.csv",
+    "origem": "apuracao-eleicoes-2026/resultados/p3_pontos_da_tela.csv",
+    "commit": "b59566497b2587fd32a9ff459bfb1be30d9e50ba",
+    "sha256": "8518949528f6ddb64d68ecfafd37f074b2dd61f248a541ce5d3c0a2188499d7f"
+  },
+  {
+    "arquivo": "dados/referencias/apuracao-eleicoes-2026/p1_chegada_por_regiao_30min.csv",
+    "origem": "apuracao-eleicoes-2026/resultados/p1_chegada_por_regiao_30min.csv",
+    "commit": "b59566497b2587fd32a9ff459bfb1be30d9e50ba",
+    "sha256": "9ecab2548c3411cb9d50103b3dc593fb15667289db3555a836ac5e0cae278cca"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/br.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/br/br-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:15:56-03:00",
+    "sha256": "2866703eb4fc0ad6f17f0e081a00ab1175490b0786325e700cff1d8b40d25bca"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/ac.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/ac/ac-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:15:57-03:00",
+    "sha256": "c67559bc6e31b503162fcdd74604f00ce877efc4b90d7fdea8b48a0e634b4b0e"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/am.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/am/am-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:15:57-03:00",
+    "sha256": "8cbbec68324aec9f02df666154d47b2ee00f8c6380a099c7442721adf45214e7"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/ap.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/ap/ap-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:15:57-03:00",
+    "sha256": "42c0d70f1abefdc5e5c5f75f4d341a66c373b34863685f22bc31aa742ec6a062"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/pa.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/pa/pa-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:15:59-03:00",
+    "sha256": "669dbc9548fb9a1f8ebb47a656234364c4aa18eb69c15f7b80634d16e23c2989"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/ro.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/ro/ro-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:00-03:00",
+    "sha256": "c696369d5397d28e78c8313e5dd767728e995825bb053f1035b83f2688e68c31"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/rr.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rr/rr-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:01-03:00",
+    "sha256": "9bf774caceab5460c906ca3120dfbe72039b92bd852d21fc77e6a728253e0218"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/to.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/to/to-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:02-03:00",
+    "sha256": "76150bdef9fdbf557decc1d7e073b1fa361849316bb6cce5b8f6208ac48cdbd5"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/al.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/al/al-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:03-03:00",
+    "sha256": "96e234bc2a91d872d54a9951fbd60dce9b54ad0dc1fe347e322d89d25be187d4"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/ba.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/ba/ba-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:04-03:00",
+    "sha256": "b50778a7cb0f9763994873ea045e95da1ee962577675dfcb99786f2853208415"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/ce.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/ce/ce-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:05-03:00",
+    "sha256": "ff65f98d1f1462c8230a2856f6c0e46ee7fb2a8f8ac7f1bf60979c6b1eea5f07"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/ma.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/ma/ma-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:05-03:00",
+    "sha256": "22daf14542c35a384967da16c71ca02b5292b5703d4ef09357dc1a1a65b9a41d"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/pb.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/pb/pb-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:05-03:00",
+    "sha256": "7da03ae14bac3cf830d723ef04a02d5f830dc696ca9480647e76f1e146648e00"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/pe.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/pe/pe-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:06-03:00",
+    "sha256": "a18f9e0ec8f7073b3a9ff932321ae8592d3a906b875a33e080c2abb2444510bf"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/pi.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/pi/pi-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:06-03:00",
+    "sha256": "d6dac2da5cbff871ab4c323beae7df6902ccb6e9c7a6b38e17518b2eac8842a2"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/rn.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rn/rn-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:06-03:00",
+    "sha256": "87e559952a7a66a7592b8a9617e53af7e5748ee73d7802807e8e5a05e33df7f4"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/se.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/se/se-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:07-03:00",
+    "sha256": "c163da0f27c4b0bbdcc34359c87b88607d5823573c813d5835afff339340be77"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/df.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/df/df-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:07-03:00",
+    "sha256": "6fa13cd7f0b3024777891dbe94723e7e39ecbba76bdc702e9f81428826a7283a"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/go.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/go/go-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:07-03:00",
+    "sha256": "0bca25dc783c2b3c711f0cfe7432fe9e10d78d5ef8449c6d1368740bbe2dc1d6"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/ms.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/ms/ms-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:08-03:00",
+    "sha256": "35a5e50df19afeea34928eb3810f53cbcd122730c27d4d2fb2a52cdbd3ae6b19"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/mt.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/mt/mt-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:08-03:00",
+    "sha256": "0e7250b701d2889ba864082682e5ff5e14593bbac0a978c7d1ee88e6b42e285e"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/es.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/es/es-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:08-03:00",
+    "sha256": "9e8036ad95dfc1fa119b26164bba9201fa6562c007418c773f13e7f5b6fe319d"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/mg.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/mg/mg-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:09-03:00",
+    "sha256": "d01c373751e029fdba347cce9f367679707bfb897f3942b3e233a273b87db199"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/rj.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rj/rj-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:09-03:00",
+    "sha256": "8a67b766e614b72140c0f6e026a097e4b20098f0c66cd528bb6a7aed194fda6a"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/sp.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sp/sp-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:09-03:00",
+    "sha256": "6e417d16de88b97e27abffc58f404e753ee73a34142da0bb266821d903e67c68"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/pr.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/pr/pr-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:10-03:00",
+    "sha256": "d54aff50901472503eece5aabdce59518e67fd57cb7e7337b81132f995d72d02"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/rs.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/rs/rs-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:10-03:00",
+    "sha256": "7a56c5d75aa8a0aa75127e72814a7cbbbf9876b96f1d77a0c3154b95fd43371c"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/sc.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/sc/sc-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:10-03:00",
+    "sha256": "b51645c4cf68c1fe4761acdafd1214325c259661eb6522b286b97ab1b1d13381"
+  },
+  {
+    "arquivo": "dados/referencias/tse-1turno/zz.json",
+    "origem": "https://resultados.tse.jus.br/oficial/ele2026/6257/dados/zz/zz-c0001-e006257-u.json",
+    "lido_em": "2026-10-24T23:16:10-03:00",
+    "sha256": "9e8c762a6fdf924b46836cc246c8a32a41ec7f8f60ba2b1905cc8bd4a33dec03"
+  }
+]

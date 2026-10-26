@@ -1,0 +1,37 @@
+2026-10-26T10:31:33+00:00 t2 ac 1000/2270 secoes  27.6/s  taxa=120  429=0
+2026-10-26T10:32:07+00:00 t2 ac 2000/2270 secoes  28.2/s  taxa=120  429=0
+{"turno": "t2", "uf": "ac", "secoes": 2411, "proprias": 2270, "itens": 9081, "falhas": 0}
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\Gabriel\Downloads\repositorios\investigacao-segundo-turno-2026\investigacao\coleta.py", line 237, in <module>
+    main()
+  File "C:\Users\Gabriel\Downloads\repositorios\investigacao-segundo-turno-2026\investigacao\coleta.py", line 228, in main
+    r = asyncio.run(coletar_uf(a.turno, uf, lim, a.concorrencia, tipos, a.so))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Gabriel\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Gabriel\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Gabriel\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Gabriel\Downloads\repositorios\investigacao-segundo-turno-2026\investigacao\coleta.py", line 197, in coletar_uf
+    await asyncio.gather(*[uma(*s[:3]) for s in proprias])
+  File "C:\Users\Gabriel\Downloads\repositorios\investigacao-segundo-turno-2026\investigacao\coleta.py", line 177, in uma
+    st, corpo = await baixar(sessao, lim, ua)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Gabriel\Downloads\repositorios\investigacao-segundo-turno-2026\investigacao\coleta.py", line 103, in baixar
+    await lim.esperar()
+  File "C:\Users\Gabriel\Downloads\repositorios\investigacao-segundo-turno-2026\investigacao\coleta.py", line 81, in esperar
+    async with self._lock:
+  File "C:\Users\Gabriel\AppData\Local\Programs\Python\Python311\Lib\asyncio\locks.py", line 15, in __aenter__
+    await self.acquire()
+  File "C:\Users\Gabriel\AppData\Local\Programs\Python\Python311\Lib\asyncio\locks.py", line 106, in acquire
+    fut = self._get_loop().create_future()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\Gabriel\AppData\Local\Programs\Python\Python311\Lib\asyncio\mixins.py", line 20, in _get_loop
+    raise RuntimeError(f'{self!r} is bound to a different event loop')
+RuntimeError: <asyncio.locks.Lock object at 0x00000226C2DDE810 [locked]> is bound to a different event loop

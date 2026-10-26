@@ -1,0 +1,286 @@
+{
+ "gerado_em": "2026-10-21",
+ "corte_das_pesquisas": "2026-10-21",
+ "final": {
+  "flavio": 50.8,
+  "lula": 49.2,
+  "faixa_pontos": 1.0,
+  "flavio_sem_arredondar": 50.848739823887946,
+  "flavio_inteiro": 51,
+  "lula_inteiro": 49,
+  "flavio_faixa": [
+   49.8,
+   51.8
+  ],
+  "lula_faixa": [
+   48.2,
+   50.2
+  ]
+ },
+ "estimativas": {
+  "P": 50.96659305503011,
+  "H": 50.573916379531205,
+  "R": 50.8353659732472,
+  "pesos": {
+   "P": 0.6,
+   "H": 0.25,
+   "R": 0.15
+  },
+  "contribuicao": {
+   "P": 30.579955833018065,
+   "H": 12.643479094882801,
+   "R": 7.62530489598708
+  }
+ },
+ "P": {
+  "institutos": 17,
+  "P_antes_da_emenda_2": 50.41269525881313,
+  "media_simples": 51.04008571291187,
+  "mediana": 51.08695652173913,
+  "min": 49.010989010989015,
+  "max": 52.63157894736842,
+  "institutos_com_flavio_na_frente": 16,
+  "institutos_com_lula_na_frente": 1,
+  "pesquisas_capturadas": 27,
+  "pesquisas_registradas": 27,
+  "pesquisas_conferidas": 26,
+  "maior_peso": {
+   "instituto": "Futura",
+   "peso": 0.25
+  },
+  "correcao_media_ponderada": -0.0513919914676942
+ },
+ "H": {
+  "razao_mediana": 0.5673944769192482,
+  "vantagem_1t_anti": 2.022988953460981,
+  "anos": [
+   2002,
+   2006,
+   2010,
+   2014,
+   2018,
+   2022
+  ],
+  "lider_1t_venceu": "6 de 6",
+  "razoes": {
+   "2002": 0.675,
+   "2006": 2.802,
+   "2010": 0.674,
+   "2014": 0.306,
+   "2018": 0.461,
+   "2022": 0.316
+  },
+  "vantagem_encolheu": "5 de 6",
+  "regras_uf": {
+   "ufs_6_de_6_no_1t": [
+    "AM",
+    "AP",
+    "MG",
+    "TO"
+   ],
+   "para_quem_apontam_em_2026": {
+    "Lula": 2,
+    "Flávio Bolsonaro": 2
+   },
+   "mg": {
+    "uf": "MG",
+    "acertos_1t": 6,
+    "acertos_2t": 6,
+    "eleicoes_1t": 6,
+    "eleicoes_2t": 6,
+    "vencedor_1t_2026": "Flávio Bolsonaro"
+   }
+  }
+ },
+ "R": {
+  "divisao_outros_para_flavio": 0.5,
+  "R_sem_fator": 50.932502222868806,
+  "R_com_divisao_de_2022": 50.71998561018076
+ },
+ "abstencao": {
+  "abstencao_1t_2026": 21.083585725786424,
+  "brancos_nulos_1t_2026": 4.769512811469188,
+  "aptos_2026": 158745502,
+  "comparecimento_1t_2026": 125275835,
+  "abstencoes_1t_2026": 33469244,
+  "brancos_nulos_votos_1t_2026": 5975047,
+  "validos_1t_2026": 119300788,
+  "abstencao_1t_tendencia_2026": 21.681661139722905,
+  "abstencao_1t_2026_menos_tendencia": -0.5980754139364812,
+  "delta_abst_mediana": 1.9744895981211261,
+  "delta_abst_min": -0.3645953186844153,
+  "delta_abst_max": 3.3775451203422797,
+  "delta_bn_mediana": -2.158242350458732,
+  "razao_validos_mediana": 1.0005388203353198,
+  "anos_abstencao_caiu_no_2t": [
+   2022
+  ],
+  "abstencao_2t_2026_se_mediana": 23.058075323907552
+ },
+ "de_onde": {
+  "votos_flavio_1t": 56104503,
+  "votos_lula_1t": 53879538,
+  "votos_outros_1t": 9316747,
+  "diferenca_1t": 2224965,
+  "parte_dos_outros_que_lula_precisa": 0.6194067521636039,
+  "outros_por_candidato": {
+   "Renan Santos": 2675887,
+   "Romeu Zema": 326488,
+   "Ronaldo Caiado": 2605148,
+   "Augusto Cury": 3448569,
+   "demais candidatos (partidos 16, 21, 27, 29, 35 e 80)": 260655
+  },
+  "virar_eleitor_de_flavio_necessario": 1112483,
+  "virar_eleitor_de_flavio_pct": 1.982875599129717,
+  "novos_eleitores": [
+   {
+    "abstencao_cai_pontos": 0.37,
+    "votos_novos": 587358,
+    "parte_de_lula_necessaria": 2.3940438762538667
+   },
+   {
+    "abstencao_cai_pontos": 1.0,
+    "votos_novos": 1587455,
+    "parte_de_lula_necessaria": 1.2007962342139307
+   },
+   {
+    "abstencao_cai_pontos": 2.0,
+    "votos_novos": 3174910,
+    "parte_de_lula_necessaria": 0.8503981171069653
+   },
+   {
+    "abstencao_cai_pontos": 3.0,
+    "votos_novos": 4762365,
+    "parte_de_lula_necessaria": 0.7335987447379769
+   }
+  ]
+ },
+ "transferencia_historica": {
+  "2002": {
+   "outros_1t_pct": 30.36,
+   "outros_para_pt": 0.605,
+   "outros_para_anti": 0.289,
+   "parte_pt_entre_os_que_votaram": 0.677,
+   "municipios": 5641
+  },
+  "2006": {
+   "outros_1t_pct": 9.757,
+   "outros_para_pt": 0.563,
+   "outros_para_anti": 0.305,
+   "parte_pt_entre_os_que_votaram": 0.648,
+   "municipios": 5642
+  },
+  "2010": {
+   "outros_1t_pct": 20.481,
+   "outros_para_pt": 0.441,
+   "outros_para_anti": 0.391,
+   "parte_pt_entre_os_que_votaram": 0.53,
+   "municipios": 5720
+  },
+  "2014": {
+   "outros_1t_pct": 24.859,
+   "outros_para_pt": 0.482,
+   "outros_para_anti": 0.495,
+   "parte_pt_entre_os_que_votaram": 0.493,
+   "municipios": 5701
+  },
+  "2018": {
+   "outros_1t_pct": 24.691,
+   "outros_para_pt": 0.772,
+   "outros_para_anti": 0.189,
+   "parte_pt_entre_os_que_votaram": 0.803,
+   "municipios": 5708
+  },
+  "2022": {
+   "outros_1t_pct": 8.372,
+   "outros_para_pt": 0.48,
+   "outros_para_anti": 0.453,
+   "parte_pt_entre_os_que_votaram": 0.515,
+   "municipios": 5751
+  }
+ },
+ "teste_do_passado": {
+  "2014": {
+   "institutos": 6,
+   "P": 51.604,
+   "media_simples_pesquisas": 51.604,
+   "H": 46.385,
+   "R": 45.942,
+   "final": 49.45,
+   "urna": 48.361,
+   "erro_P": 3.243,
+   "erro_media_simples": 3.243,
+   "erro_H": -1.976,
+   "erro_R": -2.419,
+   "erro_final": 1.089,
+   "faixa_1_ponto_conteve": false
+  },
+  "2018": {
+   "institutos": 9,
+   "P": 58.306,
+   "media_simples_pesquisas": 58.459,
+   "H": 57.502,
+   "R": 58.273,
+   "final": 58.1,
+   "urna": 55.13,
+   "erro_P": 3.176,
+   "erro_media_simples": 3.329,
+   "erro_H": 2.371,
+   "erro_R": 3.143,
+   "erro_final": 2.97,
+   "faixa_1_ponto_conteve": false
+  },
+  "2022": {
+   "institutos": 13,
+   "P": 47.967,
+   "media_simples_pesquisas": 49.152,
+   "H": 48.077,
+   "R": 47.267,
+   "final": 47.889,
+   "urna": 49.098,
+   "erro_P": -1.131,
+   "erro_media_simples": 0.055,
+   "erro_H": -1.021,
+   "erro_R": -1.831,
+   "erro_final": -1.208,
+   "faixa_1_ponto_conteve": false
+  }
+ },
+ "teste_do_passado_resumo": {
+  "erro_absoluto_medio_final": 1.7556645964248976,
+  "erro_absoluto_medio_P": 2.5165062646031706,
+  "erro_absoluto_medio_media_simples": 2.209098455716043,
+  "erro_absoluto_medio_H": 1.7895677595789887,
+  "erro_absoluto_medio_R": 2.464108690822883,
+  "faixa_1_ponto_conteve": 0
+ },
+ "adversarial": {
+  "erro_medio_P_horizonte": 1.7626764650478417,
+  "erros_P_horizonte": {
+   "2014": 3.243,
+   "2018": 3.176,
+   "2022": -1.131
+  },
+  "erro_1t_2026_medio_institutos": -1.8962522228688055
+ },
+ "sensibilidade": {
+  "min_flavio": 49.79113394485924,
+  "max_flavio": 51.87992148387328,
+  "variantes_com_flavio_acima_de_50": 18,
+  "variantes": 19
+ },
+ "urna_1t_2026": {
+  "Lula": 45.1628,
+  "Renan Santos": 2.243,
+  "16": 0.0361,
+  "21": 0.019,
+  "Flávio Bolsonaro": 47.0278,
+  "27": 0.0336,
+  "29": 0.0126,
+  "Romeu Zema": 0.2737,
+  "35": 0.0141,
+  "Ronaldo Caiado": 2.1837,
+  "Augusto Cury": 2.8907,
+  "80": 0.103
+ }
+}
