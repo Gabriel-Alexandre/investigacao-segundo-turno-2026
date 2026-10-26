@@ -1,0 +1,74 @@
+{
+ "secao": {
+  "lula": {
+   "bu_lula": 53114894,
+   "bu_flavio": 210,
+   "bn_2t": 87028,
+   "abst_2t": 519783
+  },
+  "flavio": {
+   "bu_lula": 93215,
+   "bu_flavio": 55301995,
+   "bn_2t": 169224,
+   "abst_2t": 395925
+  },
+  "outros": {
+   "bu_lula": 3930124,
+   "bu_flavio": 3550298,
+   "bn_2t": 1357545,
+   "abst_2t": 454263
+  },
+  "bn_1t": {
+   "bu_lula": 3752515,
+   "bu_flavio": 73479,
+   "bn_2t": 2106830,
+   "abst_2t": 26173
+  },
+  "abst_1t": {
+   "bu_lula": 3170614,
+   "bu_flavio": 780638,
+   "bn_2t": 389255,
+   "abst_2t": 28554047
+  },
+  "outros_entre_quem_votou_lula_pct": 44.5,
+  "outros_entre_quem_votou_flavio_pct": 40.2,
+  "lula_vindo_dos_outros": 3930124,
+  "lula_vindo_de_bn_e_abstencao": 6923129
+ },
+ "municipio": {
+  "lula": {
+   "bu_lula": 52349060,
+   "bu_flavio": 0,
+   "bn_2t": 60648,
+   "abst_2t": 636582
+  },
+  "flavio": {
+   "bu_lula": 108439,
+   "bu_flavio": 54247037,
+   "bn_2t": 162738,
+   "abst_2t": 532529
+  },
+  "outros": {
+   "bu_lula": 4758676,
+   "bu_flavio": 3273035,
+   "bn_2t": 990931,
+   "abst_2t": 81966
+  },
+  "bn_1t": {
+   "bu_lula": 3513222,
+   "bu_flavio": 16361,
+   "bn_2t": 2211151,
+   "abst_2t": 159732
+  },
+  "abst_1t": {
+   "bu_lula": 2490782,
+   "bu_flavio": 1160747,
+   "bn_2t": 625651,
+   "abst_2t": 28190449
+  },
+  "outros_entre_quem_votou_lula_pct": 52.7,
+  "outros_entre_quem_votou_flavio_pct": 36.3,
+  "lula_vindo_dos_outros": 4758676,
+  "lula_vindo_de_bn_e_abstencao": 6004004
+ }
+}

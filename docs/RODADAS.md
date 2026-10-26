@@ -72,3 +72,21 @@ Tudo o que foi pedido, em [`RELATORIO.md`](../RELATORIO.md) (gerado por script) 
 - **Probabilidade P1 a P7 completa**, com 180 segundos turnos de 41 países (P6) e as 19 pesquisas da última semana (P3).
 - **Outros países:** [`OUTROS_PAISES.md`](OUTROS_PAISES.md).
 - **Validação independente:** todas as checagens passaram. **Revisão adversarial:** [`REVISAO_ADVERSARIAL.md`](REVISAO_ADVERSARIAL.md). **Leitura da IA:** [`LEITURA_DA_IA.md`](LEITURA_DA_IA.md). **Gráficos:** `resultados/figuras/video/` (9).
+
+## Rodada 4 · 26/10/2026 (o que é normal, comparado com 2002 a 2022)
+
+Pedido do autor depois de ler o projeto do vídeo 19: *"é normal [...] que a maior parte dos votos vá para o Lula?"*, *"é normal crescer em 5.228 municípios?"*. As perguntas refeitas aqui com os dados deste projeto (`ferramentas/rodada-4-normalidade.py`, `resultados/rodada4_por_ano.csv`), para os dois projetos se conferirem; a tabela de apoios de 2º turno é cópia, com sha256, da que o projeto do vídeo 19 conferiu com fonte.
+
+| Ano | Parte do PT nos votos livres | Eliminados que apoiaram o PT / o adversário / neutros | Abstenção do 1º para o 2º turno | Municípios onde o comparecimento subiu | Municípios onde a diferença andou para o lado do país | PT ganhou votos em |
+|---|---|---|---|---|---|---|
+| 2002 | 49,4% | 98% / 0 / 2% | +2,73 pontos | 5,3% | 79,3% | 5.588 de 5.640 |
+| 2006 | 126,3% | 0 / 0 / 100% | +2,24 | 2,4% | 98,3% | 5.502 de 5.642 |
+| 2010 | 43,4% | 0 / 0 / 100% | +3,38 | 2,9% | 84,1% | 4.685 de 5.719 |
+| 2014 | 41,0% | 0 / 94% / 6% | +1,71 | 8,2% | 80,2% | 5.078 de 5.699 |
+| 2018 | 64,8% | 6% / 0 / 94% | +0,97 | 13,7% | 73,8% | 5.578 de 5.708 |
+| 2022 | 30,2% | 88% / 0 / 12% | −0,36 | 63,9% | 96,4% | 4.676 de 5.751 |
+| **2026** | **73,6%** | **0 / 70% / 30%** | **−1,86** | **79,7%** | **97,1%** | **5.491 de 5.571** |
+
+Leitura: o PT ganhar votos em quase todos os municípios e a virada andar para o mesmo lado em quase todos já aconteceu (2002, 2006, 2018, 2022). O eleitor dos eliminados contrariar o apoio do candidato também (2022, ao contrário: 88% apoiaram o PT e o PT levou 30%). **Sem precedente:** a abstenção cair 1,86 ponto entre os turnos e o comparecimento subir em 80% dos municípios; e o PT levar a maior parte dos votos livres quando a maioria dos eliminados apoiou o adversário.
+
+**Sensibilidade da transferência** (`resultados/d2_sensibilidade.json`): o mesmo modelo dá 3,9 milhões dos eleitores dos outros candidatos para o Lula por seção e 4,8 milhões por município; o projeto do vídeo 19, com outro método por município, dá 6,0 milhões. Os três concordam que o Lula levou mais desses eleitores do que o Flávio e que a troca direta do Flávio para o Lula foi quase nula.
