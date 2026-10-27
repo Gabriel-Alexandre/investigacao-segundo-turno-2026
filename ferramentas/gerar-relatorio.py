@@ -41,6 +41,16 @@ def main():
     a1, a2, a3, a8, a9, a10, a11 = (r3[k] for k in ("A1_votos_sem_origem", "A2_votos_que_somem", "A3_enchimento", "A8_pausa_e_cauda", "A9_urna_trocada", "A10_unanimidades", "A11_residuos_por_municipio"))
     a4, a5, a6, a7 = (r2[k] for k in ("A4_rdv_contra_boletim", "A5_log_contra_boletim", "A6_votos_depois_das_17h", "A7_rajadas_e_liberacao_sem_digital"))
     d4 = r3["D4_cidades_que_viraram"]
+    r6a, r6b = j("rodada6_curva.json")["C1_inversoes"]
+    r6q = j("rodada6_curva.json")["C2_quedas_2022"]
+    r6_texto = (f"na ordem real, a liderança trocou {r6a['ordem_real']['trocas_distintas_depois_de_1pct']} vez em 2022 (às 18h43, com 67,6% das seções) "
+                f"e {r6b['ordem_real']['trocas_distintas_depois_de_1pct']} vezes em 2026 (19h44 e 20h24). Em {r6a['embaralhadas']['ordens']} ordens embaralhadas, "
+                f"a última troca aconteceu, na mediana, com {br(r6a['embaralhadas']['ultima_troca_pct_das_secoes_mediana'], 3)}% das seções contadas em 2022 "
+                f"e {br(r6b['embaralhadas']['ultima_troca_pct_das_secoes_mediana'], 3)}% em 2026, e nenhuma ordem trocou depois de 5%: em ordem aleatória o líder "
+                f"se define nas primeiras centenas de seções, e a troca tardia vem da ordem em que as regiões chegam. As 10 maiores quedas da curva de 2022 "
+                f"entre as seções 55 mil e 90 mil têm, em média, {br(-r6q['queda_media_pontos'], 3)} ponto; em {r6q['quedas_com_secoes_de_salvador']} delas entraram "
+                f"seções de Salvador, e as seções de cada queda deram, em média, {br(r6q['lula_pct_medio_nas_secoes_das_quedas'], 1)}% ao Lula "
+                f"(`resultados/rodada6_curva.json`, `resultados/rodada6_quedas_2022.csv`, gráficos `g13` e `g14`).")
     _v = pd.read_csv(R / 'resultados/rodada5_municipios_por_ano.csv')
     viradas_historico = '; '.join(f"{int(r.ano)}: {int(r.viraram_total)} viraram ({int(r.viraram_para_o_pt)} para o PT, {int(r.viraram_para_o_adversario)} para o adversário), o PT ganhou mais votos que o adversário em {br(r.pt_ganhou_mais_votos_pct, 1)}% e ficou com {br(r['parte_do_pt_Sul'], 1)}% do que os 2 ganharam no Sul" for _, r in _v.iterrows())
     x1, x3, x4 = ra["acusacao"]["X1_reserva_so_com_outros_candidatos"], ra["acusacao"]["X3_unanimidades_como_se_fossem_falsas"], ra["acusacao"]["X4_o_1pct_de_secoes_mais_acima_do_previsto"]
@@ -94,6 +104,8 @@ Validação em 2022 (o mesmo modelo, comparado com o Datafolha de 5 a 7/10/2022)
 **As cidades que viraram:** no Brasil, {br(d4['do_flavio_para_o_lula'])} municípios foram do Flávio no 1º turno para o Lula no 2º e {br(d4['do_lula_para_o_flavio'])} fez o contrário; outros {br(d4['empatados_no_1t_e_do_lula_no_2t'])} empataram no 1º turno e foram do Lula no 2º. No exterior, {br(d4['exterior_do_flavio_para_o_lula'])} cidades foram do Flávio para o Lula e {br(d4['exterior_do_lula_para_o_flavio'])} do Lula para o Flávio. A frente do Lula aumentou em {pct(d4['frente_do_lula_aumentou_em_pct_dos_municipios'])} dos {br(d4['municipios'])} municípios (`resultados/d4_municipios.csv`). Contra 2002 a 2022 (rodada 5, `resultados/rodada5_municipios_por_ano.csv`): {viradas_historico}.
 
 **A noite:** refeita pela hora de recebimento de cada boletim, acompanha as versões oficiais gravadas ao vivo com diferença média de {br(d5['diferenca_media_absoluta_pontos'], 2)} ponto. As trocas de liderança seguem a ordem de chegada das regiões (`resultados/d5_reconstruida.json`).
+
+**A ordem de chegada contra a ordem embaralhada (rodada 6):** {r6_texto}
 
 **As pesquisas:** {p3b['institutos']} institutos na última semana; {p3b['com_flavio_na_frente']} davam o Flávio na frente. A média deu {pct(p3b['media_lula_valido'], 2)} ao Lula; a urna deu {pct(p3b['urna_lula_valido'], 2)}: erro de {br(p3b['erro_da_frente_pontos'], 1)} pontos na frente. Nos 2º turnos de 2014 a 2022, o erro médio da frente foi de {br(p3['erro_medio_absoluto_da_frente_pontos'], 1)} pontos.
 

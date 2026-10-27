@@ -21,12 +21,12 @@ def j(nome):
     return json.loads((R / "resultados" / nome).read_text(encoding="utf-8"))
 
 
-def fig(titulo, sub=None):
+def fig(titulo, sub=None, fonte=FONTE):
     f = plt.figure(figsize=(19.2, 10.8), dpi=100)
     f.text(0.04, 0.93, titulo, fontsize=40, weight="bold")
     if sub:
         f.text(0.04, 0.885, sub, fontsize=24, color=B)
-    f.text(0.04, 0.025, FONTE, fontsize=15, color=B)
+    f.text(0.04, 0.025, fonte, fontsize=15, color=B)
     return f
 
 
@@ -232,7 +232,8 @@ def g11_abstencao():
 
 def g12_viradas_por_ano():
     d = pd.read_csv(R / "resultados/rodada5_municipios_por_ano.csv")
-    f = fig("Cidades que viraram entre os turnos", "municípios em que o líder do 1º turno entre os 2 finalistas perdeu o 2º turno")
+    f = fig("Cidades que viraram entre os turnos", "municípios em que o líder do 1º turno entre os 2 finalistas perdeu o 2º turno",
+            fonte="Fonte: TSE (votação por candidato e município, 2002 a 2022; boletins por seção, 2026) · github.com/Gabriel-Alexandre/investigacao-segundo-turno-2026 · análise feita pelo Claude")
     ax = f.add_axes([0.08, 0.14, 0.88, 0.66])
     x = d.ano.astype(str)
     ax.bar(x, d.viraram_para_o_pt, color=L, label="viraram para o PT")
@@ -244,8 +245,58 @@ def g12_viradas_por_ano():
     salvar(f, "g12_cidades_que_viraram_por_ano.png")
 
 
+def _rodada6():
+    import importlib.util
+    sp = importlib.util.spec_from_file_location("r6", R / "ferramentas/rodada-6-curva.py")
+    r6 = importlib.util.module_from_spec(sp); sp.loader.exec_module(r6)
+    out = {}
+    for ano, s in ((2022, r6.secoes_2022()), (2026, r6.secoes_2026())):
+        out[ano] = s.dropna(subset=["rec"]).sort_values(["rec", "uf", "mun", "zona", "secao"]).reset_index(drop=True)
+    return out
+
+
+def g13_g14_curva_e_embaralhadas():
+    dados = _rodada6()
+    rng = np.random.default_rng(20261026)
+    f = fig("A ordem de chegada contra a ordem embaralhada", "parte do candidato da direita nos votos dos 2; azul: a ordem em que chegaram; cinza: 20 ordens embaralhadas",
+            fonte="Fonte: TSE (boletim de urna na web de 2022, hora de recebimento; boletins por seção de 2026) · github.com/Gabriel-Alexandre/investigacao-segundo-turno-2026 · análise feita pelo Claude")
+    for k, (ano, nome) in enumerate(((2022, "Bolsonaro"), (2026, "Flávio"))):
+        s = dados[ano]
+        ax = f.add_axes([0.07 + k * 0.47, 0.14, 0.42, 0.66])
+        n = len(s); x = np.arange(1, n + 1) / n * 100
+        dif = (s.dir - s.esq).to_numpy(float); tot = (s.dir + s.esq).to_numpy(float)
+        for _ in range(20):
+            o = rng.permutation(n)
+            ax.plot(x[::50], (np.cumsum(s.dir.to_numpy(float)[o]) / np.cumsum(tot[o]) * 100)[::50], color=B, lw=1, alpha=0.5)
+        ax.plot(x[::50], (np.cumsum(s.dir.to_numpy(float)) / np.cumsum(tot) * 100)[::50], color=F, lw=3.5, label="ordem de chegada")
+        ax.axhline(50, color="black", lw=1, ls="--")
+        ax.set_ylim(44, 56); ax.set_xlim(0, 100)
+        ax.set_title(f"2º turno de {ano} ({nome})", fontsize=26)
+        ax.set_xlabel("% das seções contadas"); ax.set_ylabel(f"{nome} (% dos votos dos 2)")
+        ax.legend(frameon=False, fontsize=18, loc="upper right")
+    salvar(f, "g13_ordem_de_chegada_e_embaralhada.png")
+    q = pd.read_csv(R / "resultados/rodada6_quedas_2022.csv")
+    s = dados[2022]
+    cd, ce = np.cumsum(s.dir.to_numpy(float)), np.cumsum(s.esq.to_numpy(float))
+    parte = cd / (cd + ce) * 100
+    f = fig("Os vales de 2022, um por um", "parte do Bolsonaro entre as seções 55 mil e 90 mil; as 10 maiores quedas e de onde eram as seções",
+            fonte="Fonte: TSE (boletim de urna na web do 2º turno de 2022, hora de recebimento) · github.com/Gabriel-Alexandre/investigacao-segundo-turno-2026 · análise feita pelo Claude")
+    ax = f.add_axes([0.07, 0.14, 0.88, 0.66])
+    a, b = 55000, 90000
+    ax.plot(np.arange(a, b), parte[a:b], color=F, lw=2.5)
+    for k, (_, r) in enumerate(q.iterrows()):
+        i = int(r.secao_na_ordem)
+        ax.scatter([i], [parte[i]], color=L, s=90, zorder=3)
+        lugar = "com Salvador" if r.tem_secoes_de_salvador else r.municipio_com_mais_secoes.split(" (")[0].title()
+        rot = lugar + chr(10) + f"Lula {r.lula_pct_nas_secoes_que_entraram:.0f}%"
+        ax.annotate(rot, (i, parte[i]), xytext=(0, -60 if k % 2 == 0 else 45), textcoords="offset points", ha="center", fontsize=14, color=L,
+                    arrowprops=dict(arrowstyle="-", color=L, lw=0.8))
+    ax.set_xlabel("ordem de chegada da seção"); ax.set_ylabel("Bolsonaro (% dos votos dos 2)")
+    salvar(f, "g14_os_vales_de_2022.png")
+
+
 def main():
-    for g in (g01_conta, g02_origem, g03_curva, g04_testes, g05_pesquisas, g06_probabilidade, g07_polymarket, g08_cidades, g09_digital, g10_votos_livres, g11_abstencao, g12_viradas_por_ano):
+    for g in (g01_conta, g02_origem, g03_curva, g04_testes, g05_pesquisas, g06_probabilidade, g07_polymarket, g08_cidades, g09_digital, g10_votos_livres, g11_abstencao, g12_viradas_por_ano, g13_g14_curva_e_embaralhadas):
         try:
             g()
             print("ok", g.__name__)

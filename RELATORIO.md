@@ -35,6 +35,8 @@ Validação em 2022 (o mesmo modelo, comparado com o Datafolha de 5 a 7/10/2022)
 
 **A noite:** refeita pela hora de recebimento de cada boletim, acompanha as versões oficiais gravadas ao vivo com diferença média de 0,07 ponto. As trocas de liderança seguem a ordem de chegada das regiões (`resultados/d5_reconstruida.json`).
 
+**A ordem de chegada contra a ordem embaralhada (rodada 6):** na ordem real, a liderança trocou 1 vez em 2022 (às 18h43, com 67,6% das seções) e 2 vezes em 2026 (19h44 e 20h24). Em 3000 ordens embaralhadas, a última troca aconteceu, na mediana, com 0,033% das seções contadas em 2022 e 0,007% em 2026, e nenhuma ordem trocou depois de 5%: em ordem aleatória o líder se define nas primeiras centenas de seções, e a troca tardia vem da ordem em que as regiões chegam. As 10 maiores quedas da curva de 2022 entre as seções 55 mil e 90 mil têm, em média, 0,011 ponto; em 9 delas entraram seções de Salvador, e as seções de cada queda deram, em média, 59,4% ao Lula (`resultados/rodada6_curva.json`, `resultados/rodada6_quedas_2022.csv`, gráficos `g13` e `g14`).
+
 **As pesquisas:** 19 institutos na última semana; 17 davam o Flávio na frente. A média deu 49,18% ao Lula; a urna deu 51,79%: erro de 5,2 pontos na frente. Nos 2º turnos de 2014 a 2022, o erro médio da frente foi de 5,0 pontos.
 
 ## Caminho da acusação: as marcas que uma fraude deixaria

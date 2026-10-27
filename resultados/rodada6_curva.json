@@ -1,0 +1,216 @@
+{
+ "C1_inversoes": [
+  {
+   "ano": 2022,
+   "ordem_real": {
+    "secoes": 472027,
+    "trocas_depois_de_100_secoes": 5,
+    "trocas_depois_de_1pct": 3,
+    "trocas_depois_de_5pct": 3,
+    "onde_foram_as_trocas_pct_das_secoes": [
+     0.07,
+     0.22,
+     67.59,
+     67.59,
+     67.6
+    ],
+    "hora_das_trocas": [
+     "2022-10-30 14:33:20",
+     "2022-10-30 17:06:59",
+     "2022-10-30 18:43:23",
+     "2022-10-30 18:43:23",
+     "2022-10-30 18:43:24"
+    ],
+    "trocas_distintas_depois_de_1pct": 1
+   },
+   "embaralhadas": {
+    "ordens": 3000,
+    "trocas_depois_de_100_secoes_media": 9.56,
+    "trocas_depois_de_1pct_media": 0.002,
+    "trocas_depois_de_5pct_media": 0.0,
+    "ordens_com_alguma_troca_depois_de_1pct_pct": 0.03,
+    "ordens_com_alguma_troca_depois_de_5pct_pct": 0.0,
+    "ultima_troca_pct_das_secoes_mediana": 0.033,
+    "ultima_troca_pct_das_secoes_p99": 0.525
+   },
+   "parte_final_da_direita_pct": 49.1
+  },
+  {
+   "ano": 2026,
+   "ordem_real": {
+    "secoes": 499207,
+    "trocas_depois_de_100_secoes": 9,
+    "trocas_depois_de_1pct": 8,
+    "trocas_depois_de_5pct": 8,
+    "onde_foram_as_trocas_pct_das_secoes": [
+     0.09,
+     13.51,
+     13.51,
+     13.51,
+     47.06,
+     47.06,
+     47.06,
+     47.07,
+     47.09
+    ],
+    "hora_das_trocas": [
+     "2026-10-25 17:05:14",
+     "2026-10-25 19:44:15",
+     "2026-10-25 19:44:15",
+     "2026-10-25 19:44:15",
+     "2026-10-25 20:23:37",
+     "2026-10-25 20:23:37",
+     "2026-10-25 20:23:37",
+     "2026-10-25 20:23:37",
+     "2026-10-25 20:23:38"
+    ],
+    "trocas_distintas_depois_de_1pct": 2
+   },
+   "embaralhadas": {
+    "ordens": 3000,
+    "trocas_depois_de_100_secoes_media": 2.26,
+    "trocas_depois_de_1pct_media": 0.0,
+    "trocas_depois_de_5pct_media": 0.0,
+    "ordens_com_alguma_troca_depois_de_1pct_pct": 0.0,
+    "ordens_com_alguma_troca_depois_de_5pct_pct": 0.0,
+    "ultima_troca_pct_das_secoes_mediana": 0.007,
+    "ultima_troca_pct_das_secoes_p99": 0.129
+   },
+   "parte_final_da_direita_pct": 48.21
+  }
+ ],
+ "C2_quedas_2022": {
+  "trecho_secoes": [
+   55000,
+   90000
+  ],
+  "janela_secoes": 60,
+  "quedas": [
+   {
+    "secao_na_ordem": 56003,
+    "hora": "2022-10-30 17:35:59",
+    "queda_pontos": -0.0124,
+    "parte_da_direita_antes": 51.849,
+    "lula_pct_nas_secoes_que_entraram": 59.2,
+    "municipio_com_mais_secoes": "SALVADOR (BA)",
+    "secoes_dele": 4,
+    "lula_pct_nele": 72.7,
+    "tem_secoes_de_salvador": true
+   },
+   {
+    "secao_na_ordem": 57073,
+    "hora": "2022-10-30 17:36:33",
+    "queda_pontos": -0.011,
+    "parte_da_direita_antes": 51.812,
+    "lula_pct_nas_secoes_que_entraram": 58.8,
+    "municipio_com_mais_secoes": "APARECIDA DE GOIÂNIA (GO)",
+    "secoes_dele": 3,
+    "lula_pct_nele": 43.6,
+    "tem_secoes_de_salvador": false
+   },
+   {
+    "secao_na_ordem": 57968,
+    "hora": "2022-10-30 17:36:44",
+    "queda_pontos": -0.0102,
+    "parte_da_direita_antes": 51.799,
+    "lula_pct_nas_secoes_que_entraram": 57.4,
+    "municipio_com_mais_secoes": "SALVADOR (BA)",
+    "secoes_dele": 6,
+    "lula_pct_nele": 74.3,
+    "tem_secoes_de_salvador": true
+   },
+   {
+    "secao_na_ordem": 59095,
+    "hora": "2022-10-30 17:37:27",
+    "queda_pontos": -0.0097,
+    "parte_da_direita_antes": 51.788,
+    "lula_pct_nas_secoes_que_entraram": 57.4,
+    "municipio_com_mais_secoes": "SALVADOR (BA)",
+    "secoes_dele": 4,
+    "lula_pct_nele": 68.5,
+    "tem_secoes_de_salvador": true
+   },
+   {
+    "secao_na_ordem": 60479,
+    "hora": "2022-10-30 17:37:36",
+    "queda_pontos": -0.0155,
+    "parte_da_direita_antes": 51.788,
+    "lula_pct_nas_secoes_que_entraram": 63.4,
+    "municipio_com_mais_secoes": "GOIÂNIA (GO)",
+    "secoes_dele": 4,
+    "lula_pct_nele": 46.3,
+    "tem_secoes_de_salvador": true
+   },
+   {
+    "secao_na_ordem": 61632,
+    "hora": "2022-10-30 17:37:52",
+    "queda_pontos": -0.0084,
+    "parte_da_direita_antes": 51.761,
+    "lula_pct_nas_secoes_que_entraram": 56.7,
+    "municipio_com_mais_secoes": "SÃO PAULO (SP)",
+    "secoes_dele": 5,
+    "lula_pct_nele": 58.1,
+    "tem_secoes_de_salvador": true
+   },
+   {
+    "secao_na_ordem": 63140,
+    "hora": "2022-10-30 17:38:35",
+    "queda_pontos": -0.0117,
+    "parte_da_direita_antes": 51.749,
+    "lula_pct_nas_secoes_que_entraram": 60.2,
+    "municipio_com_mais_secoes": "SALVADOR (BA)",
+    "secoes_dele": 4,
+    "lula_pct_nele": 66.6,
+    "tem_secoes_de_salvador": true
+   },
+   {
+    "secao_na_ordem": 65037,
+    "hora": "2022-10-30 17:39:28",
+    "queda_pontos": -0.0096,
+    "parte_da_direita_antes": 51.711,
+    "lula_pct_nas_secoes_que_entraram": 58.4,
+    "municipio_com_mais_secoes": "SALVADOR (BA)",
+    "secoes_dele": 3,
+    "lula_pct_nele": 76.5,
+    "tem_secoes_de_salvador": true
+   },
+   {
+    "secao_na_ordem": 75417,
+    "hora": "2022-10-30 17:42:35",
+    "queda_pontos": -0.0087,
+    "parte_da_direita_antes": 51.658,
+    "lula_pct_nas_secoes_que_entraram": 60.1,
+    "municipio_com_mais_secoes": "BREJO SANTO (CE)",
+    "secoes_dele": 4,
+    "lula_pct_nele": 82.7,
+    "tem_secoes_de_salvador": true
+   },
+   {
+    "secao_na_ordem": 86946,
+    "hora": "2022-10-30 17:45:50",
+    "queda_pontos": -0.0106,
+    "parte_da_direita_antes": 51.631,
+    "lula_pct_nas_secoes_que_entraram": 62.8,
+    "municipio_com_mais_secoes": "SALVADOR (BA)",
+    "secoes_dele": 4,
+    "lula_pct_nele": 72.4,
+    "tem_secoes_de_salvador": true
+   }
+  ],
+  "intervalo_entre_quedas_secoes": [
+   1070,
+   895,
+   1127,
+   1384,
+   1153,
+   1508,
+   1897,
+   10380,
+   11529
+  ],
+  "queda_media_pontos": -0.0108,
+  "lula_pct_medio_nas_secoes_das_quedas": 59.4,
+  "quedas_com_secoes_de_salvador": 9
+ },
+ "secoes_2022_sem_hora": 0
+}
