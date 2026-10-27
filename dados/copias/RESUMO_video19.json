@@ -1,0 +1,4914 @@
+{
+ "resultado": {
+  "t1": {
+   "eleitores": 158745502.0,
+   "comparecimento": 125275835.0,
+   "abstencao": 33469244.0,
+   "brancos": 2300798.0,
+   "nulos": 3674249.0,
+   "validos": 119300788.0,
+   "lula": 53879538.0,
+   "flavio": 56104503.0,
+   "cury": 3448569.0,
+   "renan": 2675887.0,
+   "caiado": 2605148.0,
+   "zema": 326488.0,
+   "outros": 260655.0,
+   "lula_pct": 45.1627679106361,
+   "flavio_pct": 47.02777235637371,
+   "abstencao_pct": 21.083585725786424,
+   "branco_nulo_pct": 4.769512811469188
+  },
+  "t2": {
+   "eleitores": 158745502.0,
+   "comparecimento": 128236074.0,
+   "abstencao": 30509005.0,
+   "brancos": 1430496.0,
+   "nulos": 2723305.0,
+   "validos": 124082273.0,
+   "lula": 64256232.0,
+   "flavio": 59826041.0,
+   "cury": 0.0,
+   "renan": 0.0,
+   "caiado": 0.0,
+   "zema": 0.0,
+   "outros": 0.0,
+   "lula_pct": 51.7851828842626,
+   "flavio_pct": 48.2148171157374,
+   "abstencao_pct": 19.218815409333615,
+   "branco_nulo_pct": 3.239182915097666
+  },
+  "variacao": {
+   "lula": 10376694.0,
+   "flavio": 3721538.0,
+   "outros_candidatos": -9316747.0,
+   "abstencao": -2960239.0,
+   "branco_nulo": -1821246.0,
+   "frente_1t_flavio": 2224965.0,
+   "frente_2t_lula": 4430191.0,
+   "vaivem": 6655156.0,
+   "ganho_dos_dois": 14098232.0,
+   "parte_do_lula_no_ganho": 73.60280352883964,
+   "frente_1t_pontos": 1.8650044457376111,
+   "frente_2t_pontos": 3.570365768525207,
+   "lula_precisou_dos_outros_pct_se_todo_novo_fosse_dele": 60.05539272452069
+  }
+ },
+ "pesquisas": {
+  "resultado_lula": 51.7851828842626,
+  "todas": {
+   "n": 53,
+   "media_lula": 48.90839433891158,
+   "mediana_lula": 48.973305954825456,
+   "erro_medio": -2.876788545351038,
+   "erro_absoluto_medio": 2.876788545351038,
+   "deram_flavio": 48,
+   "deram_lula": 4,
+   "empate": 1,
+   "maior_lula": 50.989010989010985,
+   "urna_dentro_da_margem": 13
+  },
+  "ultima_semana": {
+   "n": 31,
+   "media_lula": 49.080934353734214,
+   "mediana_lula": 49.237029501525946,
+   "erro_medio": -2.7042485305283908,
+   "erro_absoluto_medio": 2.7042485305283908,
+   "deram_flavio": 29,
+   "deram_lula": 2,
+   "empate": 0,
+   "maior_lula": 50.613154960981056,
+   "urna_dentro_da_margem": 7
+  },
+  "vespera": {
+   "n": 12,
+   "media_lula": 49.3334850830536,
+   "mediana_lula": 49.45645752097365,
+   "erro_medio": -2.4516978012090047,
+   "erro_absoluto_medio": 2.4516978012090047,
+   "deram_flavio": 11,
+   "deram_lula": 1,
+   "empate": 0,
+   "maior_lula": 50.270270270270274,
+   "urna_dentro_da_margem": 3
+  },
+  "ultima_de_cada_instituto": {
+   "n": 19,
+   "media_lula": 49.19298868495685,
+   "mediana_lula": 49.38409854423292,
+   "erro_medio": -2.592194199305755,
+   "erro_absoluto_medio": 2.592194199305755,
+   "deram_flavio": 17,
+   "deram_lula": 2,
+   "empate": 0,
+   "maior_lula": 50.613154960981056,
+   "urna_dentro_da_margem": 6
+  },
+  "fora_da_conta": [
+   {
+    "instituto": "Alfa",
+    "campo_fim": "2026-10-22"
+   }
+  ],
+  "ranking_ultimas": [
+   {
+    "instituto": "Real Time",
+    "campo_fim": "2026-10-22",
+    "lula_valido": 47.87,
+    "erro_lula": -3.91,
+    "registro_tse": "BR096702026"
+   },
+   {
+    "instituto": "DataTrends",
+    "campo_fim": "2026-10-21",
+    "lula_valido": 47.92,
+    "erro_lula": -3.87,
+    "registro_tse": "BR033652026"
+   },
+   {
+    "instituto": "Gerp",
+    "campo_fim": "2026-10-24",
+    "lula_valido": 48.42,
+    "erro_lula": -3.36,
+    "registro_tse": "BR093272026"
+   },
+   {
+    "instituto": "Alfa",
+    "campo_fim": "2026-10-19",
+    "lula_valido": 48.47,
+    "erro_lula": -3.32,
+    "registro_tse": "BR008202026"
+   },
+   {
+    "instituto": "Instituto França",
+    "campo_fim": "2026-10-23",
+    "lula_valido": 48.6,
+    "erro_lula": -3.19,
+    "registro_tse": "BR048632026"
+   },
+   {
+    "instituto": "Ideia",
+    "campo_fim": "2026-10-19",
+    "lula_valido": 48.94,
+    "erro_lula": -2.85,
+    "registro_tse": "BR082512026"
+   },
+   {
+    "instituto": "Verita",
+    "campo_fim": "2026-10-23",
+    "lula_valido": 48.98,
+    "erro_lula": -2.81,
+    "registro_tse": "BR060702026;BR031812026"
+   },
+   {
+    "instituto": "AtlasIntel",
+    "campo_fim": "2026-10-23",
+    "lula_valido": 49.24,
+    "erro_lula": -2.55,
+    "registro_tse": "BR063802026"
+   },
+   {
+    "instituto": "MDA",
+    "campo_fim": "2026-10-23",
+    "lula_valido": 49.29,
+    "erro_lula": -2.5,
+    "registro_tse": "BR021362026"
+   },
+   {
+    "instituto": "Indexa",
+    "campo_fim": "2026-10-21",
+    "lula_valido": 49.38,
+    "erro_lula": -2.4,
+    "registro_tse": "BR023482026"
+   },
+   {
+    "instituto": "Quaest",
+    "campo_fim": "2026-10-24",
+    "lula_valido": 49.45,
+    "erro_lula": -2.33,
+    "registro_tse": "BR091582026"
+   },
+   {
+    "instituto": "Nexus",
+    "campo_fim": "2026-10-24",
+    "lula_valido": 49.46,
+    "erro_lula": -2.32,
+    "registro_tse": "BR082342026"
+   },
+   {
+    "instituto": "Datafolha",
+    "campo_fim": "2026-10-24",
+    "lula_valido": 49.47,
+    "erro_lula": -2.31,
+    "registro_tse": "BR095402026"
+   },
+   {
+    "instituto": "Ipespe",
+    "campo_fim": "2026-10-22",
+    "lula_valido": 49.47,
+    "erro_lula": -2.31,
+    "registro_tse": "BR043502026"
+   },
+   {
+    "instituto": "PoderData",
+    "campo_fim": "2026-10-24",
+    "lula_valido": 49.48,
+    "erro_lula": -2.3,
+    "registro_tse": "BR028282026"
+   },
+   {
+    "instituto": "Palver",
+    "campo_fim": "2026-10-24",
+    "lula_valido": 49.49,
+    "erro_lula": -2.29,
+    "registro_tse": "BR017942026"
+   },
+   {
+    "instituto": "Futura",
+    "campo_fim": "2026-10-24",
+    "lula_valido": 49.84,
+    "erro_lula": -1.94,
+    "registro_tse": "BR097262026"
+   },
+   {
+    "instituto": "Colectta",
+    "campo_fim": "2026-10-23",
+    "lula_valido": 50.27,
+    "erro_lula": -1.51,
+    "registro_tse": "BR056012026"
+   },
+   {
+    "instituto": "Vox Brasil",
+    "campo_fim": "2026-10-22",
+    "lula_valido": 50.61,
+    "erro_lula": -1.17,
+    "registro_tse": "BR032592026"
+   }
+  ],
+  "nenhuma_chegou_na_urna": true,
+  "pesquisa_mais_perto": {
+   "instituto": "Vox Brasil",
+   "lula_valido": "50.989010989010985"
+  }
+ },
+ "historico_erro_pesquisas": {
+  "linhas": [
+   {
+    "ano": 2014,
+    "turno": 1,
+    "institutos": 5,
+    "erro_medio_anti_pt": -5.6164000000000005,
+    "erro_absoluto_medio": 5.6164000000000005
+   },
+   {
+    "ano": 2014,
+    "turno": 2,
+    "institutos": 6,
+    "erro_medio_anti_pt": 1.9396666666666669,
+    "erro_absoluto_medio": 2.6746666666666665
+   },
+   {
+    "ano": 2018,
+    "turno": 1,
+    "institutos": 10,
+    "erro_medio_anti_pt": -1.2866,
+    "erro_absoluto_medio": 2.4774000000000003
+   },
+   {
+    "ano": 2018,
+    "turno": 2,
+    "institutos": 8,
+    "erro_medio_anti_pt": 0.8451249999999999,
+    "erro_absoluto_medio": 2.7973749999999997
+   },
+   {
+    "ano": 2022,
+    "turno": 1,
+    "institutos": 13,
+    "erro_medio_anti_pt": -0.9726153846153848,
+    "erro_absoluto_medio": 3.448307692307692
+   },
+   {
+    "ano": 2022,
+    "turno": 2,
+    "institutos": 13,
+    "erro_medio_anti_pt": -0.030230769230769283,
+    "erro_absoluto_medio": 1.7610000000000003
+   },
+   {
+    "ano": 2026,
+    "turno": 1,
+    "institutos": 12,
+    "erro_medio_anti_pt": -1.8967500000000002,
+    "erro_absoluto_medio": 2.1024166666666666
+   }
+  ]
+ },
+ "regras": {
+  "presidente_lider_1t_venceu": {
+   "vezes": 7,
+   "acertos": 7,
+   "menor_frente_ate_2022": 5.23
+  },
+  "governador_lider_1t_venceu": {
+   "vezes": 92,
+   "viradas": 25
+  },
+  "governador_frente_ate_3_pontos": {
+   "vezes": 18,
+   "viradas": 10
+  },
+  "minas": {
+   "sum_1t": 8,
+   "sum_2t": 6,
+   "count_1t": 8,
+   "count_2t": 6,
+   "acertou_2026_1t": false,
+   "acertou_2026_2t": true
+  },
+  "ufs_que_sempre_acertaram_no_1t": {
+   "ufs": [
+    "AM",
+    "AP",
+    "MG",
+    "TO"
+   ],
+   "acertaram_em_2026": [
+    "AM",
+    "AP"
+   ]
+  },
+  "ufs_que_sempre_acertaram_no_2t": {
+   "ufs": [
+    "AM",
+    "MG"
+   ],
+   "acertaram_em_2026": [
+    "AM",
+    "MG"
+   ]
+  }
+ },
+ "municipios": {
+  "municipios": 5571,
+  "lula_venceu_1t": 2663,
+  "lula_venceu_2t": 2875,
+  "flavio_venceu_1t": 2906,
+  "flavio_venceu_2t": 2695,
+  "viradas": {
+   "Flávio para Lula": 211,
+   "empate para Lula": 2,
+   "Lula para Flávio": 1,
+   "Flávio para empate": 1
+  },
+  "lula_ganhou_votos_em": 5491,
+  "flavio_ganhou_votos_em": 4624,
+  "flavio_perdeu_votos_em": 938,
+  "capitais_lula_ganhou": 2753699.0,
+  "capitais_flavio_ganhou": 1026830.0,
+  "ganho_por_porte": {
+   "até 20 mil eleitores": {
+    "lula": 1777951.0,
+    "flavio": 562537.0
+   },
+   "20 a 100 mil": {
+    "lula": 2750957.0,
+    "flavio": 883341.0
+   },
+   "100 a 500 mil": {
+    "lula": 2677871.0,
+    "flavio": 1054279.0
+   },
+   "mais de 500 mil": {
+    "lula": 3127148.0,
+    "flavio": 1193784.0
+   }
+  },
+  "maiores_viradas_em_votos": [
+   {
+    "uf": "rj",
+    "municipio": "RIO DE JANEIRO",
+    "virou": "Flávio para Lula",
+    "eleitores_1t": 4952612.0,
+    "lula_pct_1t": 43.910493295551625,
+    "lula_pct_2t": 51.5364499133861
+   },
+   {
+    "uf": "sp",
+    "municipio": "OSASCO",
+    "virou": "Flávio para Lula",
+    "eleitores_1t": 583991.0,
+    "lula_pct_1t": 43.33727715248354,
+    "lula_pct_2t": 52.3611921154306
+   },
+   {
+    "uf": "pa",
+    "municipio": "ANANINDEUA",
+    "virou": "Flávio para Lula",
+    "eleitores_1t": 358249.0,
+    "lula_pct_1t": 44.9756565332506,
+    "lula_pct_2t": 52.61175949384613
+   },
+   {
+    "uf": "ap",
+    "municipio": "MACAPÁ",
+    "virou": "Flávio para Lula",
+    "eleitores_1t": 321597.0,
+    "lula_pct_1t": 43.29586907226659,
+    "lula_pct_2t": 50.99279885561949
+   },
+   {
+    "uf": "sp",
+    "municipio": "SÃO VICENTE",
+    "virou": "Flávio para Lula",
+    "eleitores_1t": 256025.0,
+    "lula_pct_1t": 41.321520068317675,
+    "lula_pct_2t": 50.37493460442946
+   },
+   {
+    "uf": "mg",
+    "municipio": "RIBEIRÃO DAS NEVES",
+    "virou": "Flávio para Lula",
+    "eleitores_1t": 218584.0,
+    "lula_pct_1t": 43.92700278379214,
+    "lula_pct_2t": 52.272740569984265
+   },
+   {
+    "uf": "sp",
+    "municipio": "COTIA",
+    "virou": "Flávio para Lula",
+    "eleitores_1t": 194159.0,
+    "lula_pct_1t": 41.79210049796288,
+    "lula_pct_2t": 51.19639038060567
+   },
+   {
+    "uf": "sp",
+    "municipio": "ARARAQUARA",
+    "virou": "Flávio para Lula",
+    "eleitores_1t": 170310.0,
+    "lula_pct_1t": 44.82931967252358,
+    "lula_pct_2t": 52.07744263438374
+   },
+   {
+    "uf": "mg",
+    "municipio": "SANTA LUZIA",
+    "virou": "Flávio para Lula",
+    "eleitores_1t": 164668.0,
+    "lula_pct_1t": 41.45440529341856,
+    "lula_pct_2t": 50.661229467586416
+   },
+   {
+    "uf": "rs",
+    "municipio": "ALVORADA",
+    "virou": "Flávio para Lula",
+    "eleitores_1t": 135997.0,
+    "lula_pct_1t": 43.422074207257275,
+    "lula_pct_2t": 51.911681376833165
+   }
+  ]
+ },
+ "estados": {
+  "viraram": [
+   {
+    "uf": "mg",
+    "virou": "para Lula"
+   }
+  ],
+  "lula_subiu_em": 28,
+  "lula_subiu_min": 4.4982057584631185,
+  "lula_subiu_max": 9.276879263856095,
+  "lula_venceu_1t": 12,
+  "lula_venceu_2t": 13,
+  "abstencao_subiu_em": [
+   "ac",
+   "am",
+   "ap",
+   "ma",
+   "pa",
+   "pi",
+   "ro",
+   "rr",
+   "to"
+  ],
+  "flavio_perdeu_votos_em": [
+   "ac",
+   "am",
+   "ap",
+   "ma",
+   "rr",
+   "to"
+  ]
+ },
+ "transferencia": {
+  "tabela": [
+   {
+    "origem_1t": "lula",
+    "destino_2t": "lula",
+    "votos": 53317140.6464985,
+    "votos_p5": 53176807.03447276,
+    "votos_p95": 53437350.59233791,
+    "pct_da_origem": 99.24610175511864,
+    "pct_p5": 98.98488062116641,
+    "pct_p95": 99.46986410193794
+   },
+   {
+    "origem_1t": "lula",
+    "destino_2t": "flavio",
+    "votos": 3.324240727386454e-11,
+    "votos_p5": 2.591871665726217e-13,
+    "votos_p95": 1.4653083708192344e-11,
+    "pct_da_origem": 6.187839960813285e-17,
+    "pct_p5": 4.82458653922144e-19,
+    "pct_p95": 2.727568318735477e-17
+   },
+   {
+    "origem_1t": "lula",
+    "destino_2t": "branco_nulo",
+    "votos": 176599.07158942326,
+    "votos_p5": 61001.004335815116,
+    "votos_p95": 210546.4792629634,
+    "pct_da_origem": 0.3287267324598065,
+    "pct_p5": 0.11354907277598603,
+    "pct_p95": 0.3919174406530434
+   },
+   {
+    "origem_1t": "lula",
+    "destino_2t": "abstencao",
+    "votos": 228411.2819120791,
+    "votos_p5": 144753.28107209867,
+    "votos_p95": 429939.372296371,
+    "pct_da_origem": 0.42517151242153184,
+    "pct_p5": 0.2694480365689353,
+    "pct_p95": 0.8003018574151487
+   },
+   {
+    "origem_1t": "flavio",
+    "destino_2t": "lula",
+    "votos": 2.3091183069920485e-10,
+    "votos_p5": 5.490183807555503e-13,
+    "votos_p95": 3587.34462253402,
+    "pct_da_origem": 4.126328493980039e-16,
+    "pct_p5": 9.810801730559448e-19,
+    "pct_p95": 0.006410482429101094
+   },
+   {
+    "origem_1t": "flavio",
+    "destino_2t": "flavio",
+    "votos": 55771782.51253333,
+    "votos_p5": 55565306.594838314,
+    "votos_p95": 55891959.76404532,
+    "pct_da_origem": 99.6625831793366,
+    "pct_p5": 99.29361660888163,
+    "pct_p95": 99.87733649697329
+   },
+   {
+    "origem_1t": "flavio",
+    "destino_2t": "branco_nulo",
+    "votos": 56844.08819772626,
+    "votos_p5": 3.5852782220043585e-09,
+    "votos_p95": 123589.88607508666,
+    "pct_da_origem": 0.10157876282663764,
+    "pct_p5": 6.406789830346107e-15,
+    "pct_p95": 0.22085159817717953
+   },
+   {
+    "origem_1t": "flavio",
+    "destino_2t": "abstencao",
+    "votos": 131976.39926894804,
+    "votos_p5": 6284.881929094136,
+    "votos_p95": 335020.5009752789,
+    "pct_da_origem": 0.235838057836775,
+    "pct_p5": 0.011230904586739596,
+    "pct_p95": 0.5986720710912977
+   },
+   {
+    "origem_1t": "cury",
+    "destino_2t": "lula",
+    "votos": 1639799.5862804619,
+    "votos_p5": 1332664.7077249463,
+    "votos_p95": 2115543.1434596395,
+    "pct_da_origem": 47.68474167212041,
+    "pct_p5": 38.75337745849819,
+    "pct_p95": 61.519181451265894
+   },
+   {
+    "origem_1t": "cury",
+    "destino_2t": "flavio",
+    "votos": 1146787.127906195,
+    "votos_p5": 829026.4696284214,
+    "votos_p95": 1349693.9797923018,
+    "pct_da_origem": 33.34812888394456,
+    "pct_p5": 24.107771080276354,
+    "pct_p95": 39.24858214460134
+   },
+   {
+    "origem_1t": "cury",
+    "destino_2t": "branco_nulo",
+    "votos": 652248.2858133435,
+    "votos_p5": 414783.47794587346,
+    "votos_p95": 782226.5021448323,
+    "pct_da_origem": 18.967129443935036,
+    "pct_p5": 12.0617441065324,
+    "pct_p95": 22.746846014561104
+   },
+   {
+    "origem_1t": "cury",
+    "destino_2t": "abstencao",
+    "votos": 4.863883878627391e-11,
+    "votos_p5": 9.961214658626177e-15,
+    "votos_p95": 173094.14318139554,
+    "pct_da_origem": 1.4143987363823477e-15,
+    "pct_p5": 2.8966829343734658e-19,
+    "pct_p95": 5.033511150764591
+   },
+   {
+    "origem_1t": "renan",
+    "destino_2t": "lula",
+    "votos": 1243206.8524517321,
+    "votos_p5": 965249.1845462258,
+    "votos_p95": 1461503.0340177456,
+    "pct_da_origem": 46.60906496521519,
+    "pct_p5": 36.18815473982657,
+    "pct_p95": 54.79320655694098
+   },
+   {
+    "origem_1t": "renan",
+    "destino_2t": "flavio",
+    "votos": 1084111.4199252052,
+    "votos_p5": 895301.6995351826,
+    "votos_p95": 1306676.1885139237,
+    "pct_da_origem": 40.6444185062014,
+    "pct_p5": 33.565753755948705,
+    "pct_p95": 48.98859368321396
+   },
+   {
+    "origem_1t": "renan",
+    "destino_2t": "branco_nulo",
+    "votos": 303924.0044140491,
+    "votos_p5": 180848.25735843292,
+    "votos_p95": 461842.8870880114,
+    "pct_da_origem": 11.39441408184544,
+    "pct_p5": 6.780181559844179,
+    "pct_p95": 17.314950513308425
+   },
+   {
+    "origem_1t": "renan",
+    "destino_2t": "abstencao",
+    "votos": 36064.72320901346,
+    "votos_p5": 4097.575986953285,
+    "votos_p95": 72535.12875739812,
+    "pct_da_origem": 1.3521024467379819,
+    "pct_p5": 0.15362221097733728,
+    "pct_p95": 2.7194143290366704
+   },
+   {
+    "origem_1t": "caiado",
+    "destino_2t": "lula",
+    "votos": 1152814.5365475686,
+    "votos_p5": 950991.6420348763,
+    "votos_p95": 1307394.9078902388,
+    "pct_da_origem": 44.331518379488415,
+    "pct_p5": 36.57041277764057,
+    "pct_p95": 50.27591130309635
+   },
+   {
+    "origem_1t": "caiado",
+    "destino_2t": "flavio",
+    "votos": 1083221.4640229195,
+    "votos_p5": 913568.0568954162,
+    "votos_p95": 1270210.6226309827,
+    "pct_da_origem": 41.65531463994245,
+    "pct_p5": 35.13128766268078,
+    "pct_p95": 48.84598847237324
+   },
+   {
+    "origem_1t": "caiado",
+    "destino_2t": "branco_nulo",
+    "votos": 314701.8599043627,
+    "votos_p5": 224608.63232807774,
+    "votos_p95": 454753.92514306406,
+    "pct_da_origem": 12.101869679914273,
+    "pct_p5": 8.637331848767046,
+    "pct_p95": 17.487576146462292
+   },
+   {
+    "origem_1t": "caiado",
+    "destino_2t": "abstencao",
+    "votos": 49702.13952514924,
+    "votos_p5": 21955.18986474875,
+    "votos_p95": 91519.92958649293,
+    "pct_da_origem": 1.91129730065486,
+    "pct_p5": 0.8442874999903381,
+    "pct_p95": 3.5194017007311427
+   },
+   {
+    "origem_1t": "outros",
+    "destino_2t": "lula",
+    "votos": 302463.5134798323,
+    "votos_p5": 188243.0339524662,
+    "votos_p95": 387074.6281211671,
+    "pct_da_origem": 52.09768218816548,
+    "pct_p5": 32.42383070989996,
+    "pct_p95": 66.67148287392857
+   },
+   {
+    "origem_1t": "outros",
+    "destino_2t": "flavio",
+    "votos": 247847.3232323276,
+    "votos_p5": 164170.14728099536,
+    "votos_p95": 357791.8916014255,
+    "pct_da_origem": 42.690342806608605,
+    "pct_p5": 28.27740794064374,
+    "pct_p95": 61.62769202704678
+   },
+   {
+    "origem_1t": "outros",
+    "destino_2t": "branco_nulo",
+    "votos": 30259.163287840136,
+    "votos_p5": 4812.567381586695,
+    "votos_p95": 50081.03779619712,
+    "pct_da_origem": 5.211975005225923,
+    "pct_p5": 0.8289383505153031,
+    "pct_p95": 8.626184232081767
+   },
+   {
+    "origem_1t": "outros",
+    "destino_2t": "abstencao",
+    "votos": 1.1302903504245939e-11,
+    "votos_p5": 4.3689648664164296e-16,
+    "votos_p95": 4107.185257364231,
+    "pct_da_origem": 1.9468631696859877e-15,
+    "pct_p5": 7.525302489650567e-20,
+    "pct_p95": 0.7074401462983329
+   },
+   {
+    "origem_1t": "branco_nulo",
+    "destino_2t": "lula",
+    "votos": 4186781.2326208903,
+    "votos_p5": 3906929.9519359483,
+    "votos_p95": 4358869.588919722,
+    "pct_da_origem": 70.19897398211432,
+    "pct_p5": 65.50676015957222,
+    "pct_p95": 73.08434710653819
+   },
+   {
+    "origem_1t": "branco_nulo",
+    "destino_2t": "flavio",
+    "votos": 2.5636215304508137e-10,
+    "votos_p5": 9.205354221160964e-14,
+    "votos_p95": 120429.77603538448,
+    "pct_da_origem": 4.298376034408874e-15,
+    "pct_p5": 1.5434444399257638e-18,
+    "pct_p95": 2.0192234188667286
+   },
+   {
+    "origem_1t": "branco_nulo",
+    "destino_2t": "branco_nulo",
+    "votos": 1777381.7673791102,
+    "votos_p5": 1581277.3380446946,
+    "votos_p95": 1994958.4781438885,
+    "pct_da_origem": 29.801026017885658,
+    "pct_p5": 26.512979910922866,
+    "pct_p95": 33.44909383167241
+   },
+   {
+    "origem_1t": "branco_nulo",
+    "destino_2t": "abstencao",
+    "votos": 1.1203933885178554e-10,
+    "votos_p5": 5.260447833850321e-14,
+    "votos_p95": 41758.951970306174,
+    "pct_da_origem": 1.878542535671569e-15,
+    "pct_p5": 8.820094007910784e-19,
+    "pct_p95": 0.7001644986950586
+   },
+   {
+    "origem_1t": "abstencao",
+    "destino_2t": "lula",
+    "votos": 2227394.091656767,
+    "votos_p5": 1930590.21913052,
+    "votos_p95": 2478577.6222725515,
+    "pct_da_origem": 6.7712446591089,
+    "pct_p5": 5.868965334505268,
+    "pct_p95": 7.5348388279670715
+   },
+   {
+    "origem_1t": "abstencao",
+    "destino_2t": "flavio",
+    "votos": 328541.62743998144,
+    "votos_p5": 128770.87217390264,
+    "votos_p95": 527387.7727822764,
+    "pct_da_origem": 0.9987616239222424,
+    "pct_p5": 0.39146152165994685,
+    "pct_p95": 1.6032509258723564
+   },
+   {
+    "origem_1t": "abstencao",
+    "destino_2t": "branco_nulo",
+    "votos": 802720.3350949421,
+    "votos_p5": 663488.5525938178,
+    "votos_p95": 1078073.9130606013,
+    "pct_da_origem": 2.4402577891938266,
+    "pct_p5": 2.0169952569053877,
+    "pct_p95": 3.277328539785459
+   },
+   {
+    "origem_1t": "abstencao",
+    "destino_2t": "abstencao",
+    "votos": 29536242.945808306,
+    "votos_p5": 29180020.654796183,
+    "votos_p95": 29746747.752047304,
+    "pct_da_origem": 89.78973592777503,
+    "pct_p5": 88.7068255014134,
+    "pct_p95": 90.42966738413548
+   }
+  ],
+  "observado_2t": {
+   "lula": 64056078.0,
+   "flavio": 59654544.0,
+   "branco_nulo": 4144009.0,
+   "abstencao": 29974337.0
+  },
+  "previsto_2t": {
+   "lula": 64069600.45953575,
+   "flavio": 59662291.47505996,
+   "branco_nulo": 4114678.575680797,
+   "abstencao": 29982397.489723496
+  },
+  "por_regiao_pct": {
+   "Centro-Oeste": {
+    "lula": {
+     "lula": 100.0,
+     "flavio": 0.0,
+     "cury": 55.3,
+     "renan": 49.2,
+     "caiado": 37.8,
+     "outros": 0.0,
+     "branco_nulo": 79.0,
+     "abstencao": 4.3
+    },
+    "flavio": {
+     "lula": 0.0,
+     "flavio": 100.0,
+     "cury": 29.1,
+     "renan": 24.7,
+     "caiado": 48.4,
+     "outros": 0.0,
+     "branco_nulo": 0.0,
+     "abstencao": 3.1
+    },
+    "branco_nulo": {
+     "lula": 0.0,
+     "flavio": 0.0,
+     "cury": 15.7,
+     "renan": 26.1,
+     "caiado": 9.3,
+     "outros": 100.0,
+     "branco_nulo": 21.0,
+     "abstencao": 1.3
+    },
+    "abstencao": {
+     "lula": 0.0,
+     "flavio": 0.0,
+     "cury": 0.0,
+     "renan": 0.0,
+     "caiado": 4.6,
+     "outros": 0.0,
+     "branco_nulo": 0.0,
+     "abstencao": 91.3
+    }
+   },
+   "Nordeste": {
+    "lula": {
+     "lula": 99.2,
+     "flavio": 0.0,
+     "cury": 44.6,
+     "renan": 92.7,
+     "caiado": 71.2,
+     "outros": 0.0,
+     "branco_nulo": 84.3,
+     "abstencao": 5.8
+    },
+    "flavio": {
+     "lula": 0.0,
+     "flavio": 100.0,
+     "cury": 21.9,
+     "renan": 7.3,
+     "caiado": 27.4,
+     "outros": 100.0,
+     "branco_nulo": 0.0,
+     "abstencao": 0.0
+    },
+    "branco_nulo": {
+     "lula": 0.6,
+     "flavio": 0.0,
+     "cury": 33.6,
+     "renan": 0.0,
+     "caiado": 1.4,
+     "outros": 0.0,
+     "branco_nulo": 15.7,
+     "abstencao": 4.8
+    },
+    "abstencao": {
+     "lula": 0.2,
+     "flavio": 0.0,
+     "cury": 0.0,
+     "renan": 0.0,
+     "caiado": 0.0,
+     "outros": 0.0,
+     "branco_nulo": 0.0,
+     "abstencao": 89.4
+    }
+   },
+   "Norte": {
+    "lula": {
+     "lula": 94.7,
+     "flavio": 0.0,
+     "cury": 88.4,
+     "renan": 54.2,
+     "caiado": 0.0,
+     "outros": 0.0,
+     "branco_nulo": 99.4,
+     "abstencao": 0.0
+    },
+    "flavio": {
+     "lula": 0.0,
+     "flavio": 98.0,
+     "cury": 0.0,
+     "renan": 45.8,
+     "caiado": 12.6,
+     "outros": 100.0,
+     "branco_nulo": 0.0,
+     "abstencao": 0.0
+    },
+    "branco_nulo": {
+     "lula": 1.1,
+     "flavio": 1.1,
+     "cury": 11.6,
+     "renan": 0.0,
+     "caiado": 87.4,
+     "outros": 0.0,
+     "branco_nulo": 0.6,
+     "abstencao": 0.0
+    },
+    "abstencao": {
+     "lula": 4.2,
+     "flavio": 0.8,
+     "cury": 0.0,
+     "renan": 0.0,
+     "caiado": 0.0,
+     "outros": 0.0,
+     "branco_nulo": 0.0,
+     "abstencao": 100.0
+    }
+   },
+   "Sudeste": {
+    "lula": {
+     "lula": 100.0,
+     "flavio": 0.0,
+     "cury": 46.8,
+     "renan": 40.2,
+     "caiado": 58.0,
+     "outros": 61.3,
+     "branco_nulo": 57.5,
+     "abstencao": 7.2
+    },
+    "flavio": {
+     "lula": 0.0,
+     "flavio": 99.6,
+     "cury": 40.1,
+     "renan": 48.2,
+     "caiado": 35.0,
+     "outros": 38.7,
+     "branco_nulo": 0.0,
+     "abstencao": 1.6
+    },
+    "branco_nulo": {
+     "lula": 0.0,
+     "flavio": 0.0,
+     "cury": 13.1,
+     "renan": 11.6,
+     "caiado": 7.0,
+     "outros": 0.0,
+     "branco_nulo": 42.5,
+     "abstencao": 2.5
+    },
+    "abstencao": {
+     "lula": 0.0,
+     "flavio": 0.4,
+     "cury": 0.0,
+     "renan": 0.0,
+     "caiado": 0.0,
+     "outros": 0.0,
+     "branco_nulo": 0.0,
+     "abstencao": 88.7
+    }
+   },
+   "Sul": {
+    "lula": {
+     "lula": 100.0,
+     "flavio": 0.0,
+     "cury": 30.5,
+     "renan": 9.4,
+     "caiado": 8.6,
+     "outros": 88.0,
+     "branco_nulo": 65.5,
+     "abstencao": 12.2
+    },
+    "flavio": {
+     "lula": 0.0,
+     "flavio": 100.0,
+     "cury": 50.0,
+     "renan": 60.4,
+     "caiado": 71.9,
+     "outros": 11.1,
+     "branco_nulo": 0.0,
+     "abstencao": 0.0
+    },
+    "branco_nulo": {
+     "lula": 0.0,
+     "flavio": 0.0,
+     "cury": 19.5,
+     "renan": 22.6,
+     "caiado": 14.2,
+     "outros": 0.9,
+     "branco_nulo": 34.5,
+     "abstencao": 0.1
+    },
+    "abstencao": {
+     "lula": 0.0,
+     "flavio": 0.0,
+     "cury": 0.0,
+     "renan": 7.5,
+     "caiado": 5.2,
+     "outros": 0.0,
+     "branco_nulo": 0.0,
+     "abstencao": 87.7
+    }
+   }
+  },
+  "matriz_unica_pais_pct": {
+   "lula": {
+    "lula": 100.0,
+    "flavio": 0.0,
+    "cury": 54.16,
+    "renan": 33.02,
+    "caiado": 38.33,
+    "outros": 0.0,
+    "branco_nulo": 87.12,
+    "abstencao": 4.21
+   },
+   "flavio": {
+    "lula": 0.0,
+    "flavio": 100.0,
+    "cury": 0.0,
+    "renan": 66.98,
+    "caiado": 55.07,
+    "outros": 100.0,
+    "branco_nulo": 0.0,
+    "abstencao": 0.0
+   },
+   "branco_nulo": {
+    "lula": 0.0,
+    "flavio": 0.0,
+    "cury": 45.84,
+    "renan": 0.0,
+    "caiado": 6.59,
+    "outros": 0.0,
+    "branco_nulo": 12.88,
+    "abstencao": 4.82
+   },
+   "abstencao": {
+    "lula": 0.0,
+    "flavio": 0.0,
+    "cury": 0.0,
+    "renan": 0.0,
+    "caiado": 0.0,
+    "outros": 0.0,
+    "branco_nulo": 0.0,
+    "abstencao": 90.98
+   }
+  }
+ },
+ "governador": {
+  "mesmo_lado": 18,
+  "ufs": 27,
+  "lado": {
+   "Flávio": 14,
+   "Lula": 7,
+   "nenhum": 6
+  },
+  "lado_diferente": [
+   {
+    "uf": "al",
+    "governador_eleito": "JHC",
+    "lado_da_coligacao": "Flávio",
+    "presidente_venceu_no_estado": "Lula"
+   },
+   {
+    "uf": "ap",
+    "governador_eleito": "DR. FURLAN",
+    "lado_da_coligacao": "Flávio",
+    "presidente_venceu_no_estado": "Lula"
+   },
+   {
+    "uf": "pa",
+    "governador_eleito": "DR. DANIEL",
+    "lado_da_coligacao": "Flávio",
+    "presidente_venceu_no_estado": "Lula"
+   }
+  ],
+  "viradas_2t_2026": [
+   {
+    "uf": "ac",
+    "lider_1t": "MAILZA ASSIS",
+    "lider_1t_pct": 49.758101385884586,
+    "segundo_1t": "ALAN RICK",
+    "segundo_1t_pct": 32.266568406016646,
+    "vencedor_2t": "MAILZA ASSIS",
+    "vencedor_2t_pct": 66.21484761125265,
+    "virada": false
+   },
+   {
+    "uf": "am",
+    "lider_1t": "OMAR AZIZ",
+    "lider_1t_pct": 40.62992734020758,
+    "segundo_1t": "PROFESSORA MARIA DO CARMO",
+    "segundo_1t_pct": 24.48545718236377,
+    "vencedor_2t": "OMAR AZIZ",
+    "vencedor_2t_pct": 61.41701573974487,
+    "virada": false
+   },
+   {
+    "uf": "df",
+    "lider_1t": "CELINA LEÃO",
+    "lider_1t_pct": 49.9898873315514,
+    "segundo_1t": "LEANDRO GRASS",
+    "segundo_1t_pct": 34.51205466412013,
+    "vencedor_2t": "CELINA LEÃO",
+    "vencedor_2t_pct": 57.1834566047529,
+    "virada": false
+   },
+   {
+    "uf": "es",
+    "lider_1t": "LORENZO PAZOLINI",
+    "lider_1t_pct": 49.64716398435543,
+    "segundo_1t": "RICARDO FERRAÇO",
+    "segundo_1t_pct": 34.05960028804486,
+    "vencedor_2t": "LORENZO PAZOLINI",
+    "vencedor_2t_pct": 52.167158754982594,
+    "virada": false
+   },
+   {
+    "uf": "rn",
+    "lider_1t": "ALLYSON",
+    "lider_1t_pct": 36.94089076896822,
+    "segundo_1t": "CADU DE LULA",
+    "segundo_1t_pct": 36.160147721477756,
+    "vencedor_2t": "CADU DE LULA",
+    "vencedor_2t_pct": 50.77185210911398,
+    "virada": true
+   },
+   {
+    "uf": "to",
+    "lider_1t": "PROFESSORA DORINHA",
+    "lider_1t_pct": 45.515767196265976,
+    "segundo_1t": "VICENTINHO JÚNIOR",
+    "segundo_1t_pct": 43.93533570028835,
+    "vencedor_2t": "VICENTINHO JÚNIOR",
+    "vencedor_2t_pct": 64.52128715883093,
+    "virada": true
+   }
+  ]
+ },
+ "probabilidade": {
+  "frente_flavio_nas_pesquisas": 1.6140226300862963,
+  "frente_real_lula": 3.570365768525207,
+  "disputas_no_historico": 42,
+  "desvio_do_erro_todas": 7.3027867336144405,
+  "vies_medio_todas": -0.49285714285714277,
+  "erros_presidente": [
+   -2.3099999999999996,
+   4.93,
+   2.09
+  ],
+  "pesquisas_empirico": 0.3333333333333333,
+  "pesquisas_empirico_frente_igual_ou_maior": 0.14285714285714285,
+  "pesquisas_normal": 0.3864806632691664,
+  "pesquisas_normal_sem_vies": 0.4125405249256088,
+  "pesquisas_normal_frente_igual_ou_maior": 0.21845901825520297,
+  "desvio_do_erro_presidente": 3.6479035074957777,
+  "pesquisas_normal_so_presidente": 0.32908103626227325,
+  "historico_laplace": 0.1111111111111111,
+  "historico_governador_perto": 0.5555555555555556,
+  "polymarket_lula_vespera": 0.235,
+  "polymarket_favoritos_70_90": {
+   "mercados": 45,
+   "favorito_perdeu": 6
+  },
+  "polymarket_1t": {
+   "favorito": "Lula",
+   "preco": 0.725,
+   "acertou": false
+  },
+  "media_das_tres": 0.24419725812675916,
+  "leituras": {
+   "pesquisas e erro histórico (todas as disputas)": 0.3864806632691664,
+   "pesquisas e erro histórico (só presidente)": 0.32908103626227325,
+   "pesquisas e erro histórico (contagem)": 0.3333333333333333,
+   "o líder do 1º turno sempre venceu (Laplace)": 0.1111111111111111,
+   "governador com frente de até 3 pontos": 0.5555555555555556,
+   "Polymarket na véspera": 0.235
+  },
+  "menor": [
+   "o líder do 1º turno sempre venceu (Laplace)",
+   0.1111111111111111
+  ],
+  "maior": [
+   "governador com frente de até 3 pontos",
+   0.5555555555555556
+  ],
+  "em_1_em_n": {
+   "pesquisas e erro histórico (todas as disputas)": 3,
+   "pesquisas e erro histórico (só presidente)": 3,
+   "pesquisas e erro histórico (contagem)": 3,
+   "o líder do 1º turno sempre venceu (Laplace)": 9,
+   "governador com frente de até 3 pontos": 2,
+   "Polymarket na véspera": 4
+  }
+ },
+ "testes_das_lentes": {
+  "t1_lula": {
+   "municipios": 291,
+   "votos_acima_do_livre": 15636.0,
+   "eleitores_nesses_municipios": 4338163.0,
+   "exemplos": [
+    {
+     "uf": "ma",
+     "municipio": "BACABAL",
+     "lula_ganhou": 4363.0,
+     "exc": 356.0
+    },
+    {
+     "uf": "ma",
+     "municipio": "VARGEM GRANDE",
+     "lula_ganhou": 1702.0,
+     "exc": 336.0
+    },
+    {
+     "uf": "ma",
+     "municipio": "SANTA HELENA",
+     "lula_ganhou": 1423.0,
+     "exc": 295.0
+    },
+    {
+     "uf": "rn",
+     "municipio": "SÃO TOMÉ",
+     "lula_ganhou": 613.0,
+     "exc": 272.0
+    },
+    {
+     "uf": "al",
+     "municipio": "PENEDO",
+     "lula_ganhou": 3369.0,
+     "exc": 255.0
+    }
+   ]
+  },
+  "t1_flavio": {
+   "municipios": 2,
+   "votos_acima_do_livre": 228.0,
+   "eleitores_nesses_municipios": 12401.0
+  },
+  "t2": {
+   "1t": {
+    "comparecimento_acima_95": 0,
+    "e_lula_90_ou_mais": 0,
+    "e_flavio_90_ou_mais": 0,
+    "comparecimento_medio": 79.15788247440102
+   },
+   "2t": {
+    "comparecimento_acima_95": 0,
+    "e_lula_90_ou_mais": 0,
+    "e_flavio_90_ou_mais": 0,
+    "comparecimento_medio": 81.00845700846551
+   }
+  },
+  "t3_correlacao_forca_lula_1t_e_queda_abstencao": -0.05542536788475913,
+  "t3_queda_por_terco": {
+   "terço onde o Lula foi mais fraco": 1.8290184039174497,
+   "terço do meio": 1.9891945286246222,
+   "terço onde o Lula foi mais forte": 1.5521707369264273
+  },
+  "t3_votos_novos_por_terco": {
+   "terço onde o Lula foi mais fraco": 909578.0,
+   "terço do meio": 1517132.0,
+   "terço onde o Lula foi mais forte": 494001.0
+  },
+  "t3_correlacao_queda_abstencao_e_ganho_lula_pontos": 0.25862329256056776
+ },
+ "projecao_video_14": {
+  "flavio_projetado": 50.848739823887946,
+  "flavio_urna": 48.2148171157374,
+  "erro": 2.63392270815055,
+  "erro_medio_teste_do_passado": 1.8
+ },
+ "historia": {
+  "testes": [
+   {
+    "ano": 2002,
+    "municipios": 5565,
+    "margem_final": 19415595.0,
+    "pt_votos_sem_origem": 1230.0,
+    "pt_municipios_sem_origem": 10,
+    "anti_votos_sem_origem": 665.0,
+    "anti_municipios_sem_origem": 3,
+    "pt_sem_origem_pct_da_margem": 0.006335113603265829,
+    "abstencao_1t_pct": 17.72570826048189,
+    "abstencao_2t_pct": 20.450370717588847,
+    "comparecimento_acima_95_1t": 3,
+    "comparecimento_acima_95_2t": 1,
+    "variacao_pt_media": 14.766664883550849,
+    "variacao_pt_desvio": 10.496589681573662,
+    "variacao_pt_min": -13.214744668497438,
+    "variacao_pt_max": 74.79559130677333,
+    "municipios_pt_caiu": 57,
+    "r2_variacao_explicada": 0.7136556329623744,
+    "desvio_residuo": 5.616846335913606,
+    "municipios_residuo_acima_4dp": 32,
+    "corr_forca_pt_1t_e_queda_abstencao": 0.2846951698485597,
+    "corr_queda_abstencao_e_ganho_pt": -0.04711360287125955
+   },
+   {
+    "ano": 2006,
+    "municipios": 5565,
+    "margem_final": 20754828.0,
+    "pt_votos_sem_origem": 988514.0,
+    "pt_municipios_sem_origem": 3143,
+    "anti_votos_sem_origem": 45.0,
+    "anti_municipios_sem_origem": 1,
+    "pt_sem_origem_pct_da_margem": 4.762814705089341,
+    "abstencao_1t_pct": 16.727696038244346,
+    "abstencao_2t_pct": 18.970085455107654,
+    "comparecimento_acima_95_1t": 0,
+    "comparecimento_acima_95_2t": 0,
+    "variacao_pt_media": 12.181846016249828,
+    "variacao_pt_desvio": 4.261983454554539,
+    "variacao_pt_min": -4.267938233049534,
+    "variacao_pt_max": 35.04381628461931,
+    "municipios_pt_caiu": 6,
+    "r2_variacao_explicada": 0.6395024892005046,
+    "desvio_residuo": 2.558956448335197,
+    "municipios_residuo_acima_4dp": 34,
+    "corr_forca_pt_1t_e_queda_abstencao": -0.2658227853016996,
+    "corr_queda_abstencao_e_ganho_pt": 0.112746751544897
+   },
+   {
+    "ano": 2010,
+    "municipios": 5567,
+    "margem_final": 12052941.0,
+    "pt_votos_sem_origem": 57.0,
+    "pt_municipios_sem_origem": 2,
+    "anti_votos_sem_origem": 2468.0,
+    "anti_municipios_sem_origem": 42,
+    "pt_sem_origem_pct_da_margem": 0.0004729136233223078,
+    "abstencao_1t_pct": 18.06688504827594,
+    "abstencao_2t_pct": 21.443149325550948,
+    "comparecimento_acima_95_1t": 1,
+    "comparecimento_acima_95_2t": 0,
+    "variacao_pt_media": 8.906677136352153,
+    "variacao_pt_desvio": 6.300702023669755,
+    "variacao_pt_min": -13.354303124959785,
+    "variacao_pt_max": 23.948749719286468,
+    "municipios_pt_caiu": 704,
+    "r2_variacao_explicada": 0.876602253987952,
+    "desvio_residuo": 2.213311571961396,
+    "municipios_residuo_acima_4dp": 27,
+    "corr_forca_pt_1t_e_queda_abstencao": -0.13997332516138644,
+    "corr_queda_abstencao_e_ganho_pt": -0.005957452309069821
+   },
+   {
+    "ano": 2014,
+    "municipios": 5570,
+    "margem_final": 3533025.0,
+    "pt_votos_sem_origem": 373.0,
+    "pt_municipios_sem_origem": 8,
+    "anti_votos_sem_origem": 4591.0,
+    "anti_municipios_sem_origem": 107,
+    "pt_sem_origem_pct_da_margem": 0.010557525067045945,
+    "abstencao_1t_pct": 19.293491471261074,
+    "abstencao_2t_pct": 21.00569452154725,
+    "comparecimento_acima_95_1t": 11,
+    "comparecimento_acima_95_2t": 6,
+    "variacao_pt_media": 10.100434935348554,
+    "variacao_pt_desvio": 6.945328344285,
+    "variacao_pt_min": -12.00522098105877,
+    "variacao_pt_max": 43.61836284043685,
+    "municipios_pt_caiu": 465,
+    "r2_variacao_explicada": 0.7930117941031012,
+    "desvio_residuo": 3.1598435631522688,
+    "municipios_residuo_acima_4dp": 16,
+    "corr_forca_pt_1t_e_queda_abstencao": -0.2768272916698374,
+    "corr_queda_abstencao_e_ganho_pt": 0.07936256980063568
+   },
+   {
+    "ano": 2018,
+    "municipios": 5570,
+    "margem_final": 10679000.0,
+    "pt_votos_sem_origem": 0.0,
+    "pt_municipios_sem_origem": 0,
+    "anti_votos_sem_origem": 0.0,
+    "anti_municipios_sem_origem": 0,
+    "pt_sem_origem_pct_da_margem": 0.0,
+    "abstencao_1t_pct": 20.192687006463736,
+    "abstencao_2t_pct": 21.166487213218957,
+    "comparecimento_acima_95_1t": 0,
+    "comparecimento_acima_95_2t": 0,
+    "variacao_pt_media": 15.336199012132228,
+    "variacao_pt_desvio": 6.963229076880368,
+    "variacao_pt_min": -0.9960089368694724,
+    "variacao_pt_max": 63.79068071554008,
+    "municipios_pt_caiu": 3,
+    "r2_variacao_explicada": 0.8396362387283208,
+    "desvio_residuo": 2.7884560245346477,
+    "municipios_residuo_acima_4dp": 15,
+    "corr_forca_pt_1t_e_queda_abstencao": -0.3307640057070799,
+    "corr_queda_abstencao_e_ganho_pt": 0.2016052650516298
+   },
+   {
+    "ano": 2022,
+    "municipios": 5570,
+    "margem_final": 2132004.0,
+    "pt_votos_sem_origem": 0.0,
+    "pt_municipios_sem_origem": 0,
+    "anti_votos_sem_origem": 3482.0,
+    "anti_municipios_sem_origem": 147,
+    "pt_sem_origem_pct_da_margem": 0.0,
+    "abstencao_1t_pct": 20.788720724452066,
+    "abstencao_2t_pct": 20.426310400798652,
+    "comparecimento_acima_95_1t": 0,
+    "comparecimento_acima_95_2t": 0,
+    "variacao_pt_media": 2.5508673264343873,
+    "variacao_pt_desvio": 1.6148604673995208,
+    "variacao_pt_min": -7.2344472380689595,
+    "variacao_pt_max": 13.570673577272053,
+    "municipios_pt_caiu": 634,
+    "r2_variacao_explicada": 0.8064019386579496,
+    "desvio_residuo": 0.7105350480763346,
+    "municipios_residuo_acima_4dp": 62,
+    "corr_forca_pt_1t_e_queda_abstencao": -0.21780398623849195,
+    "corr_queda_abstencao_e_ganho_pt": -0.02548557875425787
+   },
+   {
+    "ano": 2026,
+    "municipios": 5571,
+    "margem_final": 4401534.0,
+    "pt_votos_sem_origem": 15636.0,
+    "pt_municipios_sem_origem": 291,
+    "anti_votos_sem_origem": 228.0,
+    "anti_municipios_sem_origem": 2,
+    "pt_sem_origem_pct_da_margem": 0.3552397868561279,
+    "abstencao_1t_pct": 20.842117525598976,
+    "abstencao_2t_pct": 18.991580998904897,
+    "comparecimento_acima_95_1t": 0,
+    "comparecimento_acima_95_2t": 0,
+    "variacao_pt_media": 6.592485268675765,
+    "variacao_pt_desvio": 1.7139969020059118,
+    "variacao_pt_min": -6.050572834707239,
+    "variacao_pt_max": 22.10332248167437,
+    "municipios_pt_caiu": 4,
+    "r2_variacao_explicada": 0.7962549657494978,
+    "desvio_residuo": 0.7736660667796014,
+    "municipios_residuo_acima_4dp": 54,
+    "corr_forca_pt_1t_e_queda_abstencao": -0.05542536788475895,
+    "corr_queda_abstencao_e_ganho_pt": 0.25862329256056754
+   }
+  ],
+  "transferencia": [
+   {
+    "ano": 2002,
+    "origem_1t": "pt",
+    "votos_origem": 39436640.00000001,
+    "para_pt_pct": 95.73499308868688,
+    "para_adversario_pct": 1.9133601376048939,
+    "para_branco_nulo_pct": 2.3516467737082314,
+    "para_abstencao_pct": 7.334881894232513e-17
+   },
+   {
+    "ano": 2002,
+    "origem_1t": "adversario",
+    "votos_origem": 19695227.0,
+    "para_pt_pct": 0.7768579227877808,
+    "para_adversario_pct": 98.00922075223559,
+    "para_branco_nulo_pct": 0.4522621755331983,
+    "para_abstencao_pct": 0.7616591494434418
+   },
+   {
+    "ano": 2002,
+    "origem_1t": "outros",
+    "votos_origem": 25783511.000000004,
+    "para_pt_pct": 57.670266113150504,
+    "para_adversario_pct": 30.260867118122405,
+    "para_branco_nulo_pct": 7.380814542679608,
+    "para_abstencao_pct": 4.688052226047471
+   },
+   {
+    "ano": 2002,
+    "origem_1t": "branco_nulo",
+    "votos_origem": 9848954.0,
+    "para_pt_pct": 1.0194812403486289,
+    "para_adversario_pct": 46.00863835925125,
+    "para_branco_nulo_pct": 24.944102042181957,
+    "para_abstencao_pct": 28.02777835821817
+   },
+   {
+    "ano": 2002,
+    "origem_1t": "abstencao",
+    "votos_origem": 20417211.0,
+    "para_pt_pct": 7.945379950100193e-18,
+    "para_adversario_pct": 4.42601436329307,
+    "para_branco_nulo_pct": 0.017524846007181776,
+    "para_abstencao_pct": 95.55646079069976
+   },
+   {
+    "ano": 2006,
+    "origem_1t": "pt",
+    "votos_origem": 46646814.00000001,
+    "para_pt_pct": 99.76514878546436,
+    "para_adversario_pct": 6.069559527709472e-16,
+    "para_branco_nulo_pct": 0.23375415390022453,
+    "para_abstencao_pct": 0.001097060635417582
+   },
+   {
+    "ano": 2006,
+    "origem_1t": "adversario",
+    "votos_origem": 39950856.00000001,
+    "para_pt_pct": 6.333014677090542,
+    "para_adversario_pct": 89.49003722425681,
+    "para_branco_nulo_pct": 0.8981969006030198,
+    "para_abstencao_pct": 3.278751198049626
+   },
+   {
+    "ano": 2006,
+    "origem_1t": "outros",
+    "votos_origem": 9359986.0,
+    "para_pt_pct": 48.35908316212837,
+    "para_adversario_pct": 22.687044456513885,
+    "para_branco_nulo_pct": 24.34606691069396,
+    "para_abstencao_pct": 4.607805470663784
+   },
+   {
+    "ano": 2006,
+    "origem_1t": "branco_nulo",
+    "votos_origem": 8802770.0,
+    "para_pt_pct": 51.30975281402217,
+    "para_adversario_pct": 6.888663815431042e-16,
+    "para_branco_nulo_pct": 36.52208682890273,
+    "para_abstencao_pct": 12.168160357075102
+   },
+   {
+    "ano": 2006,
+    "origem_1t": "abstencao",
+    "votos_origem": 21047978.0,
+    "para_pt_pct": 8.618204944137262e-15,
+    "para_adversario_pct": 4.979092034224722e-16,
+    "para_branco_nulo_pct": 0.4780305970005094,
+    "para_abstencao_pct": 99.52196940299947
+   },
+   {
+    "ano": 2010,
+    "origem_1t": "pt",
+    "votos_origem": 47595067.00000001,
+    "para_pt_pct": 97.28722397514048,
+    "para_adversario_pct": 6.23963287139493e-16,
+    "para_branco_nulo_pct": 2.244679352154306e-16,
+    "para_abstencao_pct": 2.7127760248595085
+   },
+   {
+    "ano": 2010,
+    "origem_1t": "adversario",
+    "votos_origem": 33078177.000000004,
+    "para_pt_pct": 4.854832455818503e-16,
+    "para_adversario_pct": 99.82265767242514,
+    "para_branco_nulo_pct": 0.014636233419300326,
+    "para_abstencao_pct": 0.16270609415556206
+   },
+   {
+    "ano": 2010,
+    "origem_1t": "outros",
+    "votos_origem": 20767908.0,
+    "para_pt_pct": 37.38851463682275,
+    "para_adversario_pct": 42.255972629008575,
+    "para_branco_nulo_pct": 13.759254649560098,
+    "para_abstencao_pct": 6.596258084608576
+   },
+   {
+    "ano": 2010,
+    "origem_1t": "branco_nulo",
+    "votos_origem": 9597532.0,
+    "para_pt_pct": 18.001483750414582,
+    "para_adversario_pct": 15.433248197955551,
+    "para_branco_nulo_pct": 44.88227694470857,
+    "para_abstencao_pct": 21.682991106921307
+   },
+   {
+    "ano": 2010,
+    "origem_1t": "abstencao",
+    "votos_origem": 24484897.0,
+    "para_pt_pct": 1.1275694807921751e-15,
+    "para_adversario_pct": 1.2672155164419776,
+    "para_branco_nulo_pct": 3.7018454450386033e-16,
+    "para_abstencao_pct": 98.73278448355804
+   },
+   {
+    "ano": 2014,
+    "origem_1t": "pt",
+    "votos_origem": 43243315.0,
+    "para_pt_pct": 96.19402910877304,
+    "para_adversario_pct": 0.03856424161348177,
+    "para_branco_nulo_pct": 0.3695285836914595,
+    "para_abstencao_pct": 3.3978780659220207
+   },
+   {
+    "ano": 2014,
+    "origem_1t": "adversario",
+    "votos_origem": 34831498.00000001,
+    "para_pt_pct": 4.282570590806411e-16,
+    "para_adversario_pct": 99.87271239988793,
+    "para_branco_nulo_pct": 2.824000716987932e-16,
+    "para_abstencao_pct": 0.12728760011205825
+   },
+   {
+    "ano": 2014,
+    "origem_1t": "outros",
+    "votos_origem": 25816249.999999996,
+    "para_pt_pct": 33.59514391341695,
+    "para_adversario_pct": 56.1520849407335,
+    "para_branco_nulo_pct": 5.893103168199735,
+    "para_abstencao_pct": 4.359667977649823
+   },
+   {
+    "ano": 2014,
+    "origem_1t": "branco_nulo",
+    "votos_origem": 11090319.0,
+    "para_pt_pct": 38.250985588210355,
+    "para_adversario_pct": 10.236710589530901,
+    "para_branco_nulo_pct": 50.203536668827304,
+    "para_abstencao_pct": 1.3087671534314402
+   },
+   {
+    "ano": 2014,
+    "origem_1t": "abstencao",
+    "votos_origem": 27487156.0,
+    "para_pt_pct": 1.003766061225454e-15,
+    "para_adversario_pct": 1.5114245482564246,
+    "para_branco_nulo_pct": 1.3685447634237862e-16,
+    "para_abstencao_pct": 98.48857545174359
+   },
+   {
+    "ano": 2018,
+    "origem_1t": "pt",
+    "votos_origem": 31322510.999999996,
+    "para_pt_pct": 94.93599032033276,
+    "para_adversario_pct": 9.172902113761087e-17,
+    "para_branco_nulo_pct": 1.2247047237903275,
+    "para_abstencao_pct": 3.839304955876927
+   },
+   {
+    "ano": 2018,
+    "origem_1t": "adversario",
+    "votos_origem": 49163320.0,
+    "para_pt_pct": 4.481757725443653e-16,
+    "para_adversario_pct": 99.68834562629529,
+    "para_branco_nulo_pct": 2.7311870823484948e-15,
+    "para_abstencao_pct": 0.3116543737047006
+   },
+   {
+    "ano": 2018,
+    "origem_1t": "outros",
+    "votos_origem": 26371537.0,
+    "para_pt_pct": 57.60925127017139,
+    "para_adversario_pct": 27.790352883199333,
+    "para_branco_nulo_pct": 13.898008525585773,
+    "para_abstencao_pct": 0.7023873210434984
+   },
+   {
+    "ano": 2018,
+    "origem_1t": "branco_nulo",
+    "votos_origem": 10303774.000000002,
+    "para_pt_pct": 20.695085661520984,
+    "para_adversario_pct": 12.79159960037169,
+    "para_branco_nulo_pct": 66.32114863108174,
+    "para_abstencao_pct": 0.19216610702557899
+   },
+   {
+    "ano": 2018,
+    "origem_1t": "abstencao",
+    "votos_origem": 29644067.0,
+    "para_pt_pct": 4.488967610174986e-16,
+    "para_adversario_pct": 0.03593006438006546,
+    "para_branco_nulo_pct": 0.5462143238658397,
+    "para_abstencao_pct": 99.41785561175409
+   },
+   {
+    "ano": 2022,
+    "origem_1t": "pt",
+    "votos_origem": 57120571.0,
+    "para_pt_pct": 98.92287824031968,
+    "para_adversario_pct": 0.0,
+    "para_branco_nulo_pct": 0.2635922978697547,
+    "para_abstencao_pct": 0.8135294618105648
+   },
+   {
+    "ano": 2022,
+    "origem_1t": "adversario",
+    "votos_origem": 50949797.0,
+    "para_pt_pct": 7.348007679369683e-18,
+    "para_adversario_pct": 100.0,
+    "para_branco_nulo_pct": 5.3522164379699965e-15,
+    "para_abstencao_pct": 9.600870133334011e-16
+   },
+   {
+    "ano": 2022,
+    "origem_1t": "outros",
+    "votos_origem": 9864826.0,
+    "para_pt_pct": 37.190696510081615,
+    "para_adversario_pct": 40.50661976322627,
+    "para_branco_nulo_pct": 18.946684470706447,
+    "para_abstencao_pct": 3.3559992559856715
+   },
+   {
+    "ano": 2022,
+    "origem_1t": "branco_nulo",
+    "votos_origem": 5443146.0,
+    "para_pt_pct": 8.098621848605843e-16,
+    "para_adversario_pct": 35.8881636630415,
+    "para_branco_nulo_pct": 64.1118363369585,
+    "para_abstencao_pct": 4.486396635799506e-16
+   },
+   {
+    "ano": 2022,
+    "origem_1t": "abstencao",
+    "votos_origem": 32380232.0,
+    "para_pt_pct": 0.18627813519682648,
+    "para_adversario_pct": 3.4376259626282857,
+    "para_branco_nulo_pct": 0.49818119826088186,
+    "para_abstencao_pct": 95.87791470391402
+   },
+   {
+    "ano": 2026,
+    "origem_1t": "pt",
+    "votos_origem": 53722151.0,
+    "para_pt_pct": 99.29294907270746,
+    "para_adversario_pct": 8.686406976311527e-17,
+    "para_branco_nulo_pct": 0.30691571101937287,
+    "para_abstencao_pct": 0.40013521627318627
+   },
+   {
+    "ano": 2026,
+    "origem_1t": "adversario",
+    "votos_origem": 55960603.0,
+    "para_pt_pct": 5.092219285928742e-16,
+    "para_adversario_pct": 99.5593363455714,
+    "para_branco_nulo_pct": 0.19014765897099298,
+    "para_abstencao_pct": 0.25051599545759756
+   },
+   {
+    "ano": 2026,
+    "origem_1t": "outros",
+    "votos_origem": 9287152.0,
+    "para_pt_pct": 47.373237205587614,
+    "para_adversario_pct": 40.05279002883139,
+    "para_branco_nulo_pct": 11.884710037684586,
+    "para_abstencao_pct": 0.6892627278964205
+   },
+   {
+    "ano": 2026,
+    "origem_1t": "branco_nulo",
+    "votos_origem": 5964163.000000001,
+    "para_pt_pct": 67.44193575307797,
+    "para_adversario_pct": 1.3825702994151634e-15,
+    "para_branco_nulo_pct": 32.46415338147794,
+    "para_abstencao_pct": 0.09391086544407902
+   },
+   {
+    "ano": 2026,
+    "origem_1t": "abstencao",
+    "votos_origem": 32894899.0,
+    "para_pt_pct": 7.007529155465266,
+    "para_adversario_pct": 0.7197001969029996,
+    "para_branco_nulo_pct": 2.426182393029304,
+    "para_abstencao_pct": 89.84658825460242
+   }
+  ],
+  "eleitores_novos": [
+   {
+    "ano": 2002,
+    "comparecimento_variou_pct": -2.7246624571069553,
+    "novo_eleitor_para_pt": 0.4972130925198094,
+    "novo_eleitor_para_adversario": 0.32575849403827606,
+    "outros_para_pt": 0.6969281072496263,
+    "outros_para_adversario": 0.1969296908637805,
+    "branco_nulo_para_pt": 0.3443296153497394,
+    "branco_nulo_para_adversario": 0.30966901635292754
+   },
+   {
+    "ano": 2006,
+    "comparecimento_variou_pct": -2.2423894168633076,
+    "novo_eleitor_para_pt": 0.44866345270606106,
+    "novo_eleitor_para_adversario": 0.3628999690725618,
+    "outros_para_pt": 0.5115405005209832,
+    "outros_para_adversario": 0.3034771583535488,
+    "branco_nulo_para_pt": 0.3234531974794854,
+    "branco_nulo_para_adversario": 0.05575249752355363
+   },
+   {
+    "ano": 2010,
+    "comparecimento_variou_pct": -3.3739682665801243,
+    "novo_eleitor_para_pt": 0.6898651226931062,
+    "novo_eleitor_para_adversario": 0.1700180296060375,
+    "outros_para_pt": 0.4295566521330835,
+    "outros_para_adversario": 0.40429341335433183,
+    "branco_nulo_para_pt": 0.24047245643514467,
+    "branco_nulo_para_adversario": 0.22753359174816537
+   },
+   {
+    "ano": 2014,
+    "comparecimento_variou_pct": -1.7122207932751918,
+    "novo_eleitor_para_pt": 0.7946747693251462,
+    "novo_eleitor_para_adversario": 0.3283770221864669,
+    "outros_para_pt": 0.48965168692943417,
+    "outros_para_adversario": 0.4384450061077056,
+    "branco_nulo_para_pt": 0.4633454253443118,
+    "branco_nulo_para_adversario": -0.13238951271495714
+   },
+   {
+    "ano": 2018,
+    "comparecimento_variou_pct": -0.9738045026851943,
+    "novo_eleitor_para_pt": 0.6729277412808995,
+    "novo_eleitor_para_adversario": 0.32948214501914064,
+    "outros_para_pt": 0.8263665699062159,
+    "outros_para_adversario": 0.15701205052700795,
+    "branco_nulo_para_pt": 0.27543685485251235,
+    "branco_nulo_para_adversario": 0.05024937440477055
+   },
+   {
+    "ano": 2022,
+    "comparecimento_variou_pct": 0.36229639783229767,
+    "novo_eleitor_para_pt": 0.523823518242466,
+    "novo_eleitor_para_adversario": 0.45800196199921883,
+    "outros_para_pt": 0.4492575003979523,
+    "outros_para_adversario": 0.43966010722026666,
+    "branco_nulo_para_pt": 0.035867601194843064,
+    "branco_nulo_para_adversario": 0.05517772276747217
+   },
+   {
+    "ano": 2026,
+    "comparecimento_variou_pct": 1.8504600498940094,
+    "novo_eleitor_para_pt": 0.5137358482737239,
+    "novo_eleitor_para_adversario": 0.45224532317045396,
+    "outros_para_pt": 0.45033682189789676,
+    "outros_para_adversario": 0.46434720522056805,
+    "branco_nulo_para_pt": 0.6947845963244714,
+    "branco_nulo_para_adversario": -0.13978996082017348
+   }
+  ],
+  "exterior": [
+   {
+    "ano": 2002,
+    "brasil_pt_1t": 46.44228281007005,
+    "brasil_pt_2t": 61.2711527045601,
+    "brasil_variacao": 14.828869894490055,
+    "exterior_pt_1t": 50.070016696289116,
+    "exterior_pt_2t": 60.18427304861795,
+    "exterior_variacao": 10.114256352328837
+   },
+   {
+    "ano": 2006,
+    "brasil_pt_1t": 48.61187313704286,
+    "brasil_pt_2t": 60.832446062270144,
+    "brasil_variacao": 12.22057292522728,
+    "exterior_pt_1t": 39.795787803567315,
+    "exterior_pt_2t": 46.186309830159544,
+    "exterior_variacao": 6.39052202659223
+   },
+   {
+    "ano": 2010,
+    "brasil_pt_1t": 46.91889441476374,
+    "brasil_pt_2t": 56.06712893989166,
+    "brasil_variacao": 9.148234525127918,
+    "exterior_pt_1t": 36.81482272279753,
+    "exterior_pt_2t": 40.866399259487814,
+    "exterior_variacao": 4.051576536690284
+   },
+   {
+    "ano": 2014,
+    "brasil_pt_1t": 41.623710212686916,
+    "brasil_pt_2t": 51.6758952834417,
+    "brasil_variacao": 10.052185070754781,
+    "exterior_pt_1t": 18.34652965594136,
+    "exterior_pt_2t": 22.976031957390145,
+    "exterior_variacao": 4.629502301448785
+   },
+   {
+    "ano": 2018,
+    "brasil_pt_1t": 29.312448534199344,
+    "brasil_pt_2t": 44.89791784213467,
+    "brasil_variacao": 15.585469307935323,
+    "exterior_pt_1t": 10.104405293177717,
+    "exterior_pt_2t": 28.98042621129336,
+    "exterior_variacao": 18.876020918115643
+   },
+   {
+    "ano": 2022,
+    "brasil_pt_1t": 48.433863601394506,
+    "brasil_pt_2t": 50.90144971107323,
+    "brasil_variacao": 2.46758610967872,
+    "exterior_pt_1t": 47.17188693659282,
+    "exterior_pt_2t": 51.28132032505056,
+    "exterior_variacao": 4.109433388457738
+   },
+   {
+    "ano": 2026,
+    "brasil_pt_1t": 45.15608426218308,
+    "brasil_pt_2t": 51.778963652773484,
+    "brasil_variacao": 6.6228793905904055,
+    "exterior_pt_1t": 47.56589962584849,
+    "exterior_pt_2t": 53.85536430683625,
+    "exterior_variacao": 6.289464680987763
+   }
+  ]
+ },
+ "alegacoes": {
+  "curva": {
+   "2022": {
+    "maior_frente_anti": 4.0229,
+    "pt_passa_com_pct": 67.5217951370926,
+    "pontos": [
+     {
+      "pct_secoes": 10.0,
+      "frente_anti": 4.0229
+     },
+     {
+      "pct_secoes": 20.0,
+      "frente_anti": 3.1252
+     },
+     {
+      "pct_secoes": 30.0,
+      "frente_anti": 2.1076
+     },
+     {
+      "pct_secoes": 40.0,
+      "frente_anti": 1.3128
+     },
+     {
+      "pct_secoes": 50.0,
+      "frente_anti": 0.6096
+     },
+     {
+      "pct_secoes": 60.0,
+      "frente_anti": 0.2258
+     },
+     {
+      "pct_secoes": 64.81,
+      "frente_anti": 0.101
+     },
+     {
+      "pct_secoes": 70.0,
+      "frente_anti": -0.0923
+     },
+     {
+      "pct_secoes": 80.0,
+      "frente_anti": -0.602
+     },
+     {
+      "pct_secoes": 84.96,
+      "frente_anti": -0.8302
+     },
+     {
+      "pct_secoes": 90.0,
+      "frente_anti": -1.0626
+     },
+     {
+      "pct_secoes": 95.0,
+      "frente_anti": -1.3199
+     },
+     {
+      "pct_secoes": 99.0,
+      "frente_anti": -1.6716
+     },
+     {
+      "pct_secoes": 100.0,
+      "frente_anti": -1.8048
+     }
+    ]
+   },
+   "2026": {
+    "maior_frente_anti": 1.024,
+    "maior_frente_anti_pct": 24.69153607,
+    "pt_passa_com_pct": 47.238246322,
+    "pt_passa_hora": "2026-10-25 20:24:19",
+    "versoes": 346,
+    "flavio_passa_com_pct": 13.650730699,
+    "flavio_passa_hora": "2026-10-25 19:44:50",
+    "pontos": [
+     {
+      "pct_secoes": 4.796213505,
+      "frente_anti": -2.437
+     },
+     {
+      "pct_secoes": 9.989824696,
+      "frente_anti": -0.961
+     },
+     {
+      "pct_secoes": 19.623113162,
+      "frente_anti": 0.865
+     },
+     {
+      "pct_secoes": 29.622151716,
+      "frente_anti": 0.89
+     },
+     {
+      "pct_secoes": 39.844526167,
+      "frente_anti": 0.44
+     },
+     {
+      "pct_secoes": 49.599397494,
+      "frente_anti": -0.182
+     },
+     {
+      "pct_secoes": 59.76829151,
+      "frente_anti": -1.039
+     },
+     {
+      "pct_secoes": 69.920360222,
+      "frente_anti": -1.834
+     },
+     {
+      "pct_secoes": 79.601520687,
+      "frente_anti": -2.503
+     },
+     {
+      "pct_secoes": 89.742773131,
+      "frente_anti": -3.111
+     },
+     {
+      "pct_secoes": 94.925568054,
+      "frente_anti": -3.438
+     },
+     {
+      "pct_secoes": 100.0,
+      "frente_anti": -3.57
+     }
+    ]
+   }
+  },
+  "prorrogacao": {
+   "municipios": [
+    "FEIRA DE SANTANA",
+    "LAURO DE FREITAS",
+    "SALVADOR"
+   ],
+   "votantes_a_mais_no_2t": 113234.0,
+   "lula_ganhou_ali": 267020.0,
+   "lula_2t_ali": 1476131.0,
+   "frente_nacional": 4430191.0,
+   "frente_sem_nenhum_voto_do_lula_ali": 2954060.0,
+   "frente_sem_o_ganho_do_lula_ali": 4163171.0,
+   "votos_depois_das_17h_logs_terceiros": {
+    "g1_tv_globo": 35521,
+    "eleicao_kakaroto_dev": 34330,
+    "fonte": "dados/agentes/alegacoes_fraude_2026.md, tipo (d); contagem de terceiros, não refeita aqui"
+   }
+  },
+  "exterior": {
+   "aptos_exterior": 916683.0,
+   "lula_exterior": 200154.0,
+   "flavio_exterior": 171497.0,
+   "saldo_exterior": 28657.0,
+   "frente_nacional": 4430191.0,
+   "frente_sem_o_exterior": 4401534.0
+  }
+ },
+ "probabilidade_v2": {
+  "pesos": {
+   "pesquisas": 0.6,
+   "historico": 0.25,
+   "crescimento": 0.15
+  },
+  "frente_flavio_pesquisas": 1.6140226300862963,
+  "frente_flavio_1t": 1.8650044457376111,
+  "pesquisas": {
+   "casos": 80,
+   "erro_medio": 0.6517402360209215,
+   "desvio": 6.8200712226156845,
+   "erro_absoluto_medio": 4.7459052071375725,
+   "contagem": 0.375,
+   "normal": 0.44389718934877964,
+   "normal_sem_vies": 0.40646116181784686,
+   "contagem_resultado_igual_ou_maior": 0.2,
+   "normal_resultado_igual_ou_maior": 0.25315183248464024,
+   "casos_com_erro_maior": 30,
+   "por_fonte": {
+    "Brasil governador": {
+     "casos": 39,
+     "erro_medio": -0.6515384615384614,
+     "desvio": 7.515240493564618,
+     "erro_absoluto_medio": 5.192051282051282,
+     "contagem": 0.3076923076923077,
+     "normal": 0.38153102698007957,
+     "normal_sem_vies": 0.41497464827276964,
+     "contagem_resultado_igual_ou_maior": 0.15384615384615385,
+     "normal_resultado_igual_ou_maior": 0.21871345679461007,
+     "casos_com_erro_maior": 12
+    },
+    "Brasil presidente": {
+     "casos": 6,
+     "erro_medio": 2.1499181705817705,
+     "desvio": 2.0284755779990866,
+     "erro_absoluto_medio": 2.1499181705817705,
+     "contagem": 0.3333333333333333,
+     "normal": 0.6041818321538233,
+     "normal_sem_vies": 0.2131082845831057,
+     "contagem_resultado_igual_ou_maior": 0.16666666666666666,
+     "normal_resultado_igual_ou_maior": 0.06733512930061669,
+     "casos_com_erro_maior": 2
+    },
+    "outros países": {
+     "casos": 35,
+     "erro_medio": 1.8471345673766597,
+     "desvio": 6.3664167253750215,
+     "erro_absoluto_medio": 4.693797358500433,
+     "contagem": 0.45714285714285713,
+     "normal": 0.5146043583450759,
+     "normal_sem_vies": 0.3999326784330274,
+     "contagem_resultado_igual_ou_maior": 0.2571428571428571,
+     "normal_resultado_igual_ou_maior": 0.30007091203944236,
+     "casos_com_erro_maior": 16
+    }
+   }
+  },
+  "historico": {
+   "casos": 241,
+   "viradas": 74,
+   "logistica_a": 0.2990718913090644,
+   "logistica_b": -0.1324170573240162,
+   "logistica": 0.5130254249224698,
+   "perto_casos": 50,
+   "perto_viradas": 24,
+   "perto": 0.48,
+   "faixa_casos": 49,
+   "faixa_viradas": 23,
+   "faixa_lista": [
+    {
+     "frente_1t": 0.370000000000001,
+     "lider_1t_pct": 31.53,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Lithuania",
+     "ano": 2019,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.4099999999999966,
+     "lider_1t_pct": 35.4,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Czech Republic",
+     "ano": 2023,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.4100000000000037,
+     "lider_1t_pct": 34.78,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Colombia",
+     "ano": 1998,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.44,
+     "lider_1t_pct": 49.74,
+     "virada": 0,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2010,
+     "uf": "PB"
+    },
+    {
+     "frente_1t": 0.44,
+     "lider_1t_pct": 35.86,
+     "virada": 0,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2014,
+     "uf": "RO"
+    },
+    {
+     "frente_1t": 0.45000000000000284,
+     "lider_1t_pct": 47.96,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Chile",
+     "ano": 1999,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.5499999999999972,
+     "lider_1t_pct": 40.61,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Cyprus",
+     "ano": 1998,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.5900000000000034,
+     "lider_1t_pct": 44.75,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "North Macedonia",
+     "ano": 2019,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.6,
+     "lider_1t_pct": 49.25,
+     "virada": 1,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2002,
+     "uf": "RR"
+    },
+    {
+     "frente_1t": 0.6600000000000037,
+     "lider_1t_pct": 41.13,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Ukraine",
+     "ano": 2004,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.7399999999999949,
+     "lider_1t_pct": 48.16,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Montenegro",
+     "ano": 1997,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.8099999999999987,
+     "lider_1t_pct": 24.22,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Czech Republic",
+     "ano": 2013,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.8900000000000006,
+     "lider_1t_pct": 27.17,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Ecuador",
+     "ano": 1996,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.9299999999999997,
+     "lider_1t_pct": 30.64,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Costa Rica",
+     "ano": 2014,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.93,
+     "lider_1t_pct": 49.67,
+     "virada": 0,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2006,
+     "uf": "PB"
+    },
+    {
+     "frente_1t": 0.97,
+     "lider_1t_pct": 49.57,
+     "virada": 0,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2006,
+     "uf": "RN"
+    },
+    {
+     "frente_1t": 0.9899999999999949,
+     "lider_1t_pct": 34.76,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Poland",
+     "ano": 2015,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 0.99,
+     "lider_1t_pct": 33.73,
+     "virada": 0,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2018,
+     "uf": "AM"
+    },
+    {
+     "frente_1t": 1.0,
+     "lider_1t_pct": 38.21,
+     "virada": 1,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 1994,
+     "uf": "PA"
+    },
+    {
+     "frente_1t": 1.2700000000000031,
+     "lider_1t_pct": 39.09,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Croatia",
+     "ano": 2014,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 1.3000000000000043,
+     "lider_1t_pct": 32.45,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Romania",
+     "ano": 2009,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 1.38,
+     "lider_1t_pct": 49.02,
+     "virada": 1,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2014,
+     "uf": "PA"
+    },
+    {
+     "frente_1t": 1.4,
+     "lider_1t_pct": 47.44,
+     "virada": 1,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2014,
+     "uf": "PB"
+    },
+    {
+     "frente_1t": 1.4,
+     "lider_1t_pct": 31.12,
+     "virada": 1,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2018,
+     "uf": "SC"
+    },
+    {
+     "frente_1t": 1.4,
+     "lider_1t_pct": 47.81,
+     "virada": 0,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2014,
+     "uf": "CE"
+    },
+    {
+     "frente_1t": 1.4100000000000001,
+     "lider_1t_pct": 27.21,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Finland",
+     "ano": 2024,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 1.4399999999999977,
+     "lider_1t_pct": 36.39,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Bulgaria",
+     "ano": 2001,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 1.4499999999999993,
+     "lider_1t_pct": 28.63,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "France",
+     "ano": 2012,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 1.55,
+     "lider_1t_pct": 26.71,
+     "virada": 1,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2022,
+     "uf": "MS"
+    },
+    {
+     "frente_1t": 1.5799999999999983,
+     "lider_1t_pct": 25.72,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Guatemala",
+     "ano": 1990,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 1.8200000000000003,
+     "lider_1t_pct": 31.36,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Poland",
+     "ano": 2025,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 1.84,
+     "lider_1t_pct": 38.88,
+     "virada": 0,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2022,
+     "uf": "RO"
+    },
+    {
+     "frente_1t": 2.0,
+     "lider_1t_pct": 35.11,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Poland",
+     "ano": 1995,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.09,
+     "lider_1t_pct": 27.91,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Chile",
+     "ano": 2021,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.11,
+     "lider_1t_pct": 42.98,
+     "virada": 0,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2002,
+     "uf": "DF"
+    },
+    {
+     "frente_1t": 2.4499999999999993,
+     "lider_1t_pct": 32.04,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Cyprus",
+     "ano": 2023,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.460000000000001,
+     "lider_1t_pct": 23.3,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "France",
+     "ano": 1995,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.47,
+     "lider_1t_pct": 39.65,
+     "virada": 1,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 1994,
+     "uf": "DF"
+    },
+    {
+     "frente_1t": 2.58,
+     "lider_1t_pct": 47.62,
+     "virada": 1,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 2010,
+     "uf": "RR"
+    },
+    {
+     "frente_1t": 2.710000000000001,
+     "lider_1t_pct": 24.01,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "France",
+     "ano": 2017,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.8500000000000014,
+     "lider_1t_pct": 43.75,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Colombia",
+     "ano": 2026,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.9200000000000017,
+     "lider_1t_pct": 26.85,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Chile",
+     "ano": 2025,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.9299999999999997,
+     "lider_1t_pct": 37.08,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Argentina",
+     "ano": 2015,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 2.9299999999999997,
+     "lider_1t_pct": 29.91,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "Croatia",
+     "ano": 2019,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 3.0199999999999996,
+     "lider_1t_pct": 19.88,
+     "virada": 0,
+     "grupo": "presidente, outros países",
+     "pais": "France",
+     "ano": 2002,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 3.22,
+     "lider_1t_pct": 46.59,
+     "virada": 0,
+     "grupo": "Brasil governador",
+     "pais": "Brasil",
+     "ano": 1994,
+     "uf": "PB"
+    },
+    {
+     "frente_1t": 3.229999999999997,
+     "lider_1t_pct": 36.33,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Poland",
+     "ano": 2005,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 3.2699999999999996,
+     "lider_1t_pct": 30.97,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Serbia",
+     "ano": 2004,
+     "uf": NaN
+    },
+    {
+     "frente_1t": 3.3599999999999994,
+     "lider_1t_pct": 24.99,
+     "virada": 1,
+     "grupo": "presidente, outros países",
+     "pais": "Costa Rica",
+     "ano": 2018,
+     "uf": NaN
+    }
+   ],
+   "por_grupo": {
+    "Brasil governador": {
+     "casos": 92,
+     "viradas": 25,
+     "perto_casos": 18,
+     "perto_viradas": 10
+    },
+    "Brasil presidente": {
+     "casos": 7,
+     "viradas": 0,
+     "perto_casos": 0,
+     "perto_viradas": 0
+    },
+    "presidente, outros países": {
+     "casos": 142,
+     "viradas": 49,
+     "perto_casos": 32,
+     "perto_viradas": 14
+    }
+   }
+  },
+  "crescimento": {
+   "padroes": 6,
+   "lula_venceria_em": 2,
+   "contagem": 0.3333333333333333,
+   "laplace": 0.375,
+   "resultado_igual_ou_maior": 0,
+   "por_padrao": [
+    {
+     "padrao_de": 2002,
+     "lula_pct": 48.43,
+     "outros_para_pt_pct": 57.67,
+     "outros_para_adversario_pct": 30.26,
+     "branco_nulo_para_pt_pct": 1.02,
+     "abstencao_para_pt_pct": 0.0,
+     "abstencao_para_adversario_pct": 4.43
+    },
+    {
+     "padrao_de": 2006,
+     "lula_pct": 51.34,
+     "outros_para_pt_pct": 48.36,
+     "outros_para_adversario_pct": 22.69,
+     "branco_nulo_para_pt_pct": 51.31,
+     "abstencao_para_pt_pct": 0.0,
+     "abstencao_para_adversario_pct": 0.0
+    },
+    {
+     "padrao_de": 2010,
+     "lula_pct": 48.76,
+     "outros_para_pt_pct": 37.39,
+     "outros_para_adversario_pct": 42.26,
+     "branco_nulo_para_pt_pct": 18.0,
+     "abstencao_para_pt_pct": 0.0,
+     "abstencao_para_adversario_pct": 1.27
+    },
+    {
+     "padrao_de": 2014,
+     "lula_pct": 48.7,
+     "outros_para_pt_pct": 33.6,
+     "outros_para_adversario_pct": 56.15,
+     "branco_nulo_para_pt_pct": 38.25,
+     "abstencao_para_pt_pct": 0.0,
+     "abstencao_para_adversario_pct": 1.51
+    },
+    {
+     "padrao_de": 2018,
+     "lula_pct": 50.41,
+     "outros_para_pt_pct": 57.61,
+     "outros_para_adversario_pct": 27.79,
+     "branco_nulo_para_pt_pct": 20.7,
+     "abstencao_para_pt_pct": 0.0,
+     "abstencao_para_adversario_pct": 0.04
+    },
+    {
+     "padrao_de": 2022,
+     "lula_pct": 47.61,
+     "outros_para_pt_pct": 37.19,
+     "outros_para_adversario_pct": 40.51,
+     "branco_nulo_para_pt_pct": 0.0,
+     "abstencao_para_pt_pct": 0.19,
+     "abstencao_para_adversario_pct": 3.44
+    }
+   ]
+  },
+  "pilares": {
+   "pesquisas": 0.375,
+   "historico": 0.46938775510204084,
+   "crescimento": 0.3333333333333333
+  },
+  "pilares_resultado_igual_ou_maior": {
+   "pesquisas": 0.2,
+   "historico": null,
+   "crescimento": 0.0
+  },
+  "combinada": 0.3923469387755102,
+  "mercado": 0.235,
+  "sensibilidade": {
+   "pesos do vídeo 14 (60, 25, 15)": 0.3923469387755102,
+   "pesos iguais": 0.3925736961451247,
+   "só pesquisas": 0.375,
+   "60, 25, 15 com o mercado no lugar do crescimento": 0.3775969387755102,
+   "pesquisas só do presidente no Brasil": 0.36479556053287415,
+   "histórico só do presidente no Brasil (Laplace)": 0.30277777777777776,
+   "pesquisas corrigidas pelo viés do Brasil (presidente, 2002 a 2022)": 0.5298560380678042
+  },
+  "soma_ingenua": {
+   "produto_ingenuo": 0.0009791666666666666,
+   "um_em_ingenuo": 1021.2765957446809,
+   "probabilidade_correta": 0.3923469387755102,
+   "um_em_correta": 2.548764629388817,
+   "componentes": {
+    "pesquisas": 0.375,
+    "historico": 0.1111111111111111,
+    "minas": 0.1,
+    "mercado": 0.235
+   }
+  }
+ },
+ "de_onde": {
+  "por_ano": [
+   {
+    "ano": 2002,
+    "ganho_pt": 13335952.0,
+    "ganho_adversario": 13661770.0,
+    "livres_no_saldo": 26995716.0,
+    "parte_do_pt_nos_livres_pct": 49.400252988288955,
+    "pt_dos_outros": 15151407.963511828,
+    "pt_dos_novos": -151794.5320981579,
+    "pt_da_troca": 4125.862115869125,
+    "pt_perdeu_na_troca": 1518364.1750460942,
+    "outros_livres": 25783511.0,
+    "novos_livres": 1212205.0,
+    "pais_x": 0.5953477124937067,
+    "pais_y": 0.12782070743875668,
+    "pais_s": 1.2624906448656437e-13,
+    "pais_s2": 0.04387726025001377,
+    "pais_pt_dos_outros": 15350154.293906324,
+    "pais_pt_dos_novos": 154944.900660798,
+    "pais_pt_da_troca": 2.486503983600524e-06
+   },
+   {
+    "ano": 2006,
+    "ganho_pt": 11630280.0,
+    "ganho_adversario": -2428590.0,
+    "livres_no_saldo": 9201889.0,
+    "parte_do_pt_nos_livres_pct": 126.3901357645153,
+    "pt_dos_outros": 7201287.78611071,
+    "pt_dos_novos": 238582.74489068458,
+    "pt_da_troca": 3850536.2563484064,
+    "pt_perdeu_na_troca": 1.2842966975875776e-06,
+    "outros_livres": 9359986.0,
+    "novos_livres": -158097.0,
+    "pais_x": 0.7790834187516233,
+    "pais_y": 0.6935014389937013,
+    "pais_s": 0.09626439300666505,
+    "pais_s2": 8.689642970276485e-19,
+    "pais_pt_dos_outros": 7292209.892347332,
+    "pais_pt_dos_novos": -109640.49700058723,
+    "pais_pt_da_troca": 3845844.902936682
+   },
+   {
+    "ano": 2010,
+    "ganho_pt": 8096332.0,
+    "ganho_adversario": 10560281.0,
+    "livres_no_saldo": 18653601.0,
+    "parte_do_pt_nos_livres_pct": 43.40358732879512,
+    "pt_dos_outros": 10113799.925845848,
+    "pt_dos_novos": -1212479.62766329,
+    "pt_da_troca": 0.00016465483207101512,
+    "pt_perdeu_na_troca": 663686.9808311942,
+    "outros_livres": 20767908.0,
+    "novos_livres": -2114307.0,
+    "pais_x": 0.5112427593266069,
+    "pais_y": 0.7613616051725559,
+    "pais_s": 2.0270670794754988e-21,
+    "pais_s2": 0.012896845780749107,
+    "pais_pt_dos_outros": 10617442.591361113,
+    "pais_pt_dos_novos": -1609752.171347571,
+    "pais_pt_da_troca": 6.705168364576362e-14
+   },
+   {
+    "ano": 2014,
+    "ganho_pt": 11226744.0,
+    "ganho_adversario": 16105536.0,
+    "livres_no_saldo": 27332312.0,
+    "parte_do_pt_nos_livres_pct": 41.074988460544425,
+    "pt_dos_outros": 11449177.491095426,
+    "pt_dos_novos": 201919.7206629202,
+    "pt_da_troca": 757.6417298359588,
+    "pt_perdeu_na_troca": 501483.77848679596,
+    "outros_livres": 25816250.0,
+    "novos_livres": 1516062.0,
+    "pais_x": 0.42548620700382644,
+    "pais_y": 0.45749821815029695,
+    "pais_s": 1.821107034159015e-30,
+    "pais_s2": 0.0005520736243847834,
+    "pais_pt_dos_outros": 10984458.291562535,
+    "pais_pt_dos_novos": 693595.6636053756,
+    "pais_pt_da_troca": 6.343188601809567e-23
+   },
+   {
+    "ano": 2018,
+    "ganho_pt": 15664665.0,
+    "ganho_adversario": 8502856.0,
+    "livres_no_saldo": 24166783.0,
+    "parte_do_pt_nos_livres_pct": 64.81899142306197,
+    "pt_dos_outros": 17566725.440835223,
+    "pt_dos_novos": -1759392.7547121467,
+    "pt_da_troca": 50359.79562786972,
+    "pt_perdeu_na_troca": 125671.92623776846,
+    "outros_livres": 26371537.0,
+    "novos_livres": -2204754.0,
+    "pais_x": 0.6868801972580812,
+    "pais_y": 0.9999999999999998,
+    "pais_s": 2.0418859893522565e-23,
+    "pais_s2": 1.5945011284151074e-25,
+    "pais_pt_dos_outros": 18114086.53655879,
+    "pais_pt_dos_novos": -2204753.9999999995,
+    "pais_pt_da_troca": 1.0038589429804158e-15
+   },
+   {
+    "ano": 2022,
+    "ganho_pt": 3072523.0,
+    "ganho_adversario": 7111293.0,
+    "livres_no_saldo": 10184039.0,
+    "parte_do_pt_nos_livres_pct": 30.169984620051043,
+    "pt_dos_outros": 3658808.4985792087,
+    "pt_dos_novos": -111192.75496671839,
+    "pt_da_troca": 0.0009808096575970658,
+    "pt_perdeu_na_troca": 399908.4085641458,
+    "outros_livres": 9864826.0,
+    "novos_livres": 319213.0,
+    "pais_x": 0.3121192556654306,
+    "pais_y": 0.42441389365406423,
+    "pais_s": 4.921027364521357e-15,
+    "pais_s2": 4.800843820699731e-18,
+    "pais_pt_dos_outros": 3079002.148388987,
+    "pais_pt_dos_novos": 135478.4322349948,
+    "pais_pt_da_troca": 2.5072534525380815e-07
+   },
+   {
+    "ano": 2026,
+    "ganho_pt": 10333927.0,
+    "ganho_adversario": 3693941.0,
+    "livres_no_saldo": 14028017.0,
+    "parte_do_pt_nos_livres_pct": 73.66634214942853,
+    "pt_dos_outros": 6560182.647350991,
+    "pt_dos_novos": 3548136.0197921293,
+    "pt_da_troca": 135720.37521281443,
+    "pt_perdeu_na_troca": 3.002792004901642e-07,
+    "outros_livres": 9287152.0,
+    "novos_livres": 4740865.0,
+    "pais_x": 0.6469325729213272,
+    "pais_y": 0.7996571298707893,
+    "pais_s": 0.003699581960584385,
+    "pais_s2": 1.6002854884735335e-22,
+    "pais_pt_dos_outros": 6008161.13847145,
+    "pais_pt_dos_novos": 3791066.49900488,
+    "pais_pt_da_troca": 207030.8373622244
+   }
+  ],
+  "por_uf": [
+   {
+    "uf": "SP",
+    "regiao": "Sudeste",
+    "lula_ganhou": 2613861.0,
+    "flavio_ganhou": 1217155.0,
+    "outros_livres": 2455512.0,
+    "abstencao_caiu": 931698.0,
+    "branco_nulo_caiu": 443107.0,
+    "pt_dos_outros": 1647403.9350816763,
+    "pt_dos_novos": 975441.8968969102,
+    "pt_da_troca": 9.954764415104233e-27
+   },
+   {
+    "uf": "MG",
+    "regiao": "Sudeste",
+    "lula_ganhou": 1162163.0,
+    "flavio_ganhou": 464238.0,
+    "outros_livres": 1009751.0,
+    "abstencao_caiu": 407157.0,
+    "branco_nulo_caiu": 209721.0,
+    "pt_dos_outros": 654839.3673482843,
+    "pt_dos_novos": 505734.0209997342,
+    "pt_da_troca": 1.8034738835545808e-05
+   },
+   {
+    "uf": "RJ",
+    "regiao": "Sudeste",
+    "lula_ganhou": 872372.0,
+    "flavio_ganhou": 202189.0,
+    "outros_livres": 709835.0,
+    "abstencao_caiu": 217769.0,
+    "branco_nulo_caiu": 147079.0,
+    "pt_dos_outros": 459861.7108317566,
+    "pt_dos_novos": 210563.74178541856,
+    "pt_da_troca": 200853.0091379271
+   },
+   {
+    "uf": "BA",
+    "regiao": "Nordeste",
+    "lula_ganhou": 820487.0,
+    "flavio_ganhou": 166176.0,
+    "outros_livres": 452935.0,
+    "abstencao_caiu": 368307.0,
+    "branco_nulo_caiu": 165282.0,
+    "pt_dos_outros": 350684.6488929013,
+    "pt_dos_novos": 478891.62871852407,
+    "pt_da_troca": 1.7022828012348183e-13
+   },
+   {
+    "uf": "PE",
+    "regiao": "Nordeste",
+    "lula_ganhou": 563542.0,
+    "flavio_ganhou": 94511.0,
+    "outros_livres": 309003.0,
+    "abstencao_caiu": 215628.0,
+    "branco_nulo_caiu": 133645.0,
+    "pt_dos_outros": 211002.96018214384,
+    "pt_dos_novos": 349272.9898224191,
+    "pt_da_troca": 9.541322498410496e-06
+   },
+   {
+    "uf": "RS",
+    "regiao": "Sul",
+    "lula_ganhou": 529793.0,
+    "flavio_ganhou": 300595.0,
+    "outros_livres": 554504.0,
+    "abstencao_caiu": 186962.0,
+    "branco_nulo_caiu": 89149.0,
+    "pt_dos_outros": 255743.52730996913,
+    "pt_dos_novos": 276110.99999980803,
+    "pt_da_troca": 2.3945204661049062e-05
+   },
+   {
+    "uf": "PR",
+    "regiao": "Sul",
+    "lula_ganhou": 511907.0,
+    "flavio_ganhou": 346099.0,
+    "outros_livres": 585301.0,
+    "abstencao_caiu": 217911.0,
+    "branco_nulo_caiu": 54823.0,
+    "pt_dos_outros": 301510.8432871896,
+    "pt_dos_novos": 208340.14390045492,
+    "pt_da_troca": 7.582295250236028e-09
+   },
+   {
+    "uf": "CE",
+    "regiao": "Nordeste",
+    "lula_ganhou": 480861.0,
+    "flavio_ganhou": 62628.0,
+    "outros_livres": 305701.0,
+    "abstencao_caiu": 114396.0,
+    "branco_nulo_caiu": 123416.0,
+    "pt_dos_outros": 217563.18224536348,
+    "pt_dos_novos": 212492.0763390988,
+    "pt_da_troca": 45222.525017063184
+   },
+   {
+    "uf": "GO",
+    "regiao": "Centro-Oeste",
+    "lula_ganhou": 396675.0,
+    "flavio_ganhou": 293446.0,
+    "outros_livres": 587055.0,
+    "abstencao_caiu": 75898.0,
+    "branco_nulo_caiu": 27373.0,
+    "pt_dos_outros": 299764.25072874746,
+    "pt_dos_novos": 95170.6179265604,
+    "pt_da_troca": 1.439533833412159e-06
+   },
+   {
+    "uf": "SC",
+    "regiao": "Sul",
+    "lula_ganhou": 291146.0,
+    "flavio_ganhou": 220051.0,
+    "outros_livres": 373709.0,
+    "abstencao_caiu": 114108.0,
+    "branco_nulo_caiu": 23344.0,
+    "pt_dos_outros": 178853.69333017748,
+    "pt_dos_novos": 113054.34588886144,
+    "pt_da_troca": 2.307420572959043e-13
+   },
+   {
+    "uf": "PA",
+    "regiao": "Norte",
+    "lula_ganhou": 263212.0,
+    "flavio_ganhou": 35983.0,
+    "outros_livres": 271978.0,
+    "abstencao_caiu": -76597.0,
+    "branco_nulo_caiu": 104148.0,
+    "pt_dos_outros": 223300.4958307551,
+    "pt_dos_novos": 14701.060041964745,
+    "pt_da_troca": 23602.95882634995
+   },
+   {
+    "uf": "PB",
+    "regiao": "Nordeste",
+    "lula_ganhou": 252932.0,
+    "flavio_ganhou": 33833.0,
+    "outros_livres": 141243.0,
+    "abstencao_caiu": 59669.0,
+    "branco_nulo_caiu": 85950.0,
+    "pt_dos_outros": 91770.6233938589,
+    "pt_dos_novos": 145618.9999999933,
+    "pt_da_troca": 12064.448217487328
+   },
+   {
+    "uf": "MA",
+    "regiao": "Nordeste",
+    "lula_ganhou": 241930.0,
+    "flavio_ganhou": -9069.0,
+    "outros_livres": 205098.0,
+    "abstencao_caiu": -32506.0,
+    "branco_nulo_caiu": 60335.0,
+    "pt_dos_outros": 168783.7262284391,
+    "pt_dos_novos": 21635.051827753763,
+    "pt_da_troca": 39842.83105567982
+   },
+   {
+    "uf": "RN",
+    "regiao": "Nordeste",
+    "lula_ganhou": 175633.0,
+    "flavio_ganhou": 16916.0,
+    "outros_livres": 113442.0,
+    "abstencao_caiu": 61768.0,
+    "branco_nulo_caiu": 17297.0,
+    "pt_dos_outros": 74139.65811084569,
+    "pt_dos_novos": 53745.54231261911,
+    "pt_da_troca": 44075.68903155268
+   },
+   {
+    "uf": "AL",
+    "regiao": "Nordeste",
+    "lula_ganhou": 157162.0,
+    "flavio_ganhou": 8422.0,
+    "outros_livres": 87679.0,
+    "abstencao_caiu": 13249.0,
+    "branco_nulo_caiu": 64701.0,
+    "pt_dos_outros": 50317.28048112638,
+    "pt_dos_novos": 70265.22371097853,
+    "pt_da_troca": 31503.70963514985
+   },
+   {
+    "uf": "ES",
+    "regiao": "Sudeste",
+    "lula_ganhou": 151937.0,
+    "flavio_ganhou": 61310.0,
+    "outros_livres": 167856.0,
+    "abstencao_caiu": 57067.0,
+    "branco_nulo_caiu": -11541.0,
+    "pt_dos_outros": 119685.5079318876,
+    "pt_dos_novos": 31849.074424556828,
+    "pt_da_troca": 3.4767437852401986e-06
+   },
+   {
+    "uf": "DF",
+    "regiao": "Centro-Oeste",
+    "lula_ganhou": 149597.0,
+    "flavio_ganhou": 69926.0,
+    "outros_livres": 187565.0,
+    "abstencao_caiu": 36209.0,
+    "branco_nulo_caiu": -4926.0,
+    "pt_dos_outros": NaN,
+    "pt_dos_novos": NaN,
+    "pt_da_troca": NaN
+   },
+   {
+    "uf": "SE",
+    "regiao": "Nordeste",
+    "lula_ganhou": 133022.0,
+    "flavio_ganhou": 15515.0,
+    "outros_livres": 90338.0,
+    "abstencao_caiu": 27619.0,
+    "branco_nulo_caiu": 30622.0,
+    "pt_dos_outros": 66131.38992350022,
+    "pt_dos_novos": 54684.11466381491,
+    "pt_da_troca": 11115.767561948673
+   },
+   {
+    "uf": "PI",
+    "regiao": "Nordeste",
+    "lula_ganhou": 130279.0,
+    "flavio_ganhou": 8831.0,
+    "outros_livres": 105656.0,
+    "abstencao_caiu": -990.0,
+    "branco_nulo_caiu": 34507.0,
+    "pt_dos_outros": 80182.79419813117,
+    "pt_dos_novos": 28048.45339292951,
+    "pt_da_troca": 20356.373942477163
+   },
+   {
+    "uf": "MT",
+    "regiao": "Centro-Oeste",
+    "lula_ganhou": 112486.0,
+    "flavio_ganhou": 52518.0,
+    "outros_livres": 113026.0,
+    "abstencao_caiu": 33123.0,
+    "branco_nulo_caiu": 18777.0,
+    "pt_dos_outros": 90678.8616533181,
+    "pt_dos_novos": 21384.721625649785,
+    "pt_da_troca": 7.416182513369219e-08
+   },
+   {
+    "uf": "MS",
+    "regiao": "Centro-Oeste",
+    "lula_ganhou": 112118.0,
+    "flavio_ganhou": 54541.0,
+    "outros_livres": 100072.0,
+    "abstencao_caiu": 53233.0,
+    "branco_nulo_caiu": 13347.0,
+    "pt_dos_outros": 45924.24385029315,
+    "pt_dos_novos": 40619.8349767432,
+    "pt_da_troca": 24752.272207010938
+   },
+   {
+    "uf": "AM",
+    "regiao": "Norte",
+    "lula_ganhou": 98787.0,
+    "flavio_ganhou": -1519.0,
+    "outros_livres": 147003.0,
+    "abstencao_caiu": -42540.0,
+    "branco_nulo_caiu": -7245.0,
+    "pt_dos_outros": 78814.79612442318,
+    "pt_dos_novos": -27626.602441714305,
+    "pt_da_troca": 46504.893995551334
+   },
+   {
+    "uf": "RO",
+    "regiao": "Norte",
+    "lula_ganhou": 43779.0,
+    "flavio_ganhou": 21394.0,
+    "outros_livres": 64404.0,
+    "abstencao_caiu": -2624.0,
+    "branco_nulo_caiu": 3360.0,
+    "pt_dos_outros": 45886.87385536132,
+    "pt_dos_novos": 52.77733739443564,
+    "pt_da_troca": 3.604255893292138e-13
+   },
+   {
+    "uf": "TO",
+    "regiao": "Norte",
+    "lula_ganhou": 38953.0,
+    "flavio_ganhou": -1405.0,
+    "outros_livres": 57117.0,
+    "abstencao_caiu": -10451.0,
+    "branco_nulo_caiu": -9136.0,
+    "pt_dos_outros": 39691.26719719639,
+    "pt_dos_novos": -9201.4361880057,
+    "pt_da_troca": 7970.094502478254
+   },
+   {
+    "uf": "AP",
+    "regiao": "Norte",
+    "lula_ganhou": 10465.0,
+    "flavio_ganhou": -13604.0,
+    "outros_livres": 40077.0,
+    "abstencao_caiu": -46509.0,
+    "branco_nulo_caiu": 3371.0,
+    "pt_dos_outros": 13965.348543491036,
+    "pt_dos_novos": -23284.097117441852,
+    "pt_da_troca": 25129.899400411276
+   },
+   {
+    "uf": "AC",
+    "regiao": "Norte",
+    "lula_ganhou": 9743.0,
+    "flavio_ganhou": -15092.0,
+    "outros_livres": 31489.0,
+    "abstencao_caiu": -34649.0,
+    "branco_nulo_caiu": -2162.0,
+    "pt_dos_outros": 14835.20503634627,
+    "pt_dos_novos": -15846.086051238384,
+    "pt_da_troca": 12462.662850542874
+   },
+   {
+    "uf": "RR",
+    "regiao": "Norte",
+    "lula_ganhou": 9085.0,
+    "flavio_ganhou": -11647.0,
+    "outros_livres": 19803.0,
+    "abstencao_caiu": -24194.0,
+    "branco_nulo_caiu": 1810.0,
+    "pt_dos_outros": 5303.6908754748965,
+    "pt_dos_novos": -6171.218523868411,
+    "pt_da_troca": 9868.212415780441
+   }
+  ],
+  "por_candidato": [
+   {
+    "origem": "cury",
+    "votos_no_1t": 3438835.0,
+    "lula_por_regiao": 3071862.7428769907,
+    "lula_pais": 3438835.0,
+    "lula_pct_por_regiao": 89.32858781758911,
+    "lula_pct_pais": 100.0
+   },
+   {
+    "origem": "renan",
+    "votos_no_1t": 2667307.0,
+    "lula_por_regiao": 1482785.3735775496,
+    "lula_pais": 1440306.8784514111,
+    "lula_pct_por_regiao": 55.59110269562332,
+    "lula_pct_pais": 53.99854154214011
+   },
+   {
+    "origem": "caiado",
+    "votos_no_1t": 2600440.0,
+    "lula_por_regiao": 1891146.481797346,
+    "lula_pais": 1271977.2588340123,
+    "lula_pct_por_regiao": 72.72409599134554,
+    "lula_pct_pais": 48.91392452177371
+   },
+   {
+    "origem": "zema",
+    "votos_no_1t": 323159.0,
+    "lula_por_regiao": 31553.12036430637,
+    "lula_pais": 1.7288445705577512e-17,
+    "lula_pct_por_regiao": 9.763961506350238,
+    "lula_pct_pais": 5.349826464860181e-21
+   },
+   {
+    "origem": "outros",
+    "votos_no_1t": 257411.0,
+    "lula_por_regiao": 213370.99898579635,
+    "lula_pais": 257411.0,
+    "lula_pct_por_regiao": 82.89117364284989,
+    "lula_pct_pais": 100.0
+   },
+   {
+    "origem": "novos",
+    "votos_no_1t": NaN,
+    "lula_por_regiao": 3505130.996781824,
+    "lula_pais": 3650708.4342816006,
+    "lula_pct_por_regiao": NaN,
+    "lula_pct_pais": NaN
+   },
+   {
+    "origem": "troca",
+    "votos_no_1t": NaN,
+    "lula_por_regiao": 62428.371178882124,
+    "lula_pais": 0.00039751660560213386,
+    "lula_pct_por_regiao": NaN,
+    "lula_pct_pais": NaN
+   }
+  ],
+  "ajustes_2026": {
+   "por região": {
+    "dos_outros": 6560182.647350991,
+    "dos_novos": 3548136.0197921293,
+    "da_troca": 135720.37521251413
+   },
+   "país inteiro": {
+    "dos_outros": 6008161.13847145,
+    "dos_novos": 3791066.49900488,
+    "da_troca": 207030.8373622244
+   },
+   "estado por estado": {
+    "dos_outros": 5786639.882472658,
+    "dos_novos": 3825547.87626992,
+    "da_troca": 555325.3478539302
+   }
+  },
+  "outros_livres": 9287152.0,
+  "novos_livres": 4740865.0,
+  "ganho_lula_municipios": 10333927.0,
+  "ganho_flavio_municipios": 3693941.0
+ },
+ "porque": {
+  "onde": {
+   "virada_total": 6639986.0,
+   "margem_1t": -2238452.0,
+   "margem_2t": 4401534.0,
+   "por_regiao": [
+    {
+     "regiao": "Centro-Oeste",
+     "virada": 300445.0,
+     "eleitores": 12001141.0,
+     "parte_da_virada_pct": 4.524783636592005,
+     "parte_do_eleitorado_pct": 7.603889927228061
+    },
+    {
+     "regiao": "Nordeste",
+     "virada": 2558085.0,
+     "eleitores": 43511237.0,
+     "parte_da_virada_pct": 38.525457734398834,
+     "parte_do_eleitorado_pct": 27.568600081070034
+    },
+    {
+     "regiao": "Norte",
+     "virada": 459914.0,
+     "eleitores": 13101175.0,
+     "parte_da_virada_pct": 6.926430266569839,
+     "parte_do_eleitorado_pct": 8.30086844387147
+    },
+    {
+     "regiao": "Sudeste",
+     "virada": 2855441.0,
+     "eleitores": 66344562.0,
+     "parte_da_virada_pct": 43.00372018856666,
+     "parte_do_eleitorado_pct": 42.035731995662545
+    },
+    {
+     "regiao": "Sul",
+     "virada": 466101.0,
+     "eleitores": 22870853.0,
+     "parte_da_virada_pct": 7.019608173872656,
+     "parte_do_eleitorado_pct": 14.490909552167889
+    }
+   ],
+   "por_uf": [
+    {
+     "uf": "sp",
+     "virada": 1396706.0,
+     "eleitores": 34122892.0,
+     "parte_da_virada_pct": 21.034773266088212,
+     "parte_do_eleitorado_pct": 21.620170512678
+    },
+    {
+     "uf": "mg",
+     "virada": 697925.0,
+     "eleitores": 16372372.0,
+     "parte_da_virada_pct": 10.51094083632104,
+     "parte_do_eleitorado_pct": 10.373489865307869
+    },
+    {
+     "uf": "rj",
+     "virada": 670183.0,
+     "eleitores": 12857648.0,
+     "parte_da_virada_pct": 10.09313875059375,
+     "parte_do_eleitorado_pct": 8.146570406517515
+    },
+    {
+     "uf": "ba",
+     "virada": 654311.0,
+     "eleitores": 11312752.0,
+     "parte_da_virada_pct": 9.854102102022503,
+     "parte_do_eleitorado_pct": 7.167728550312766
+    },
+    {
+     "uf": "pe",
+     "virada": 469031.0,
+     "eleitores": 7223450.0,
+     "parte_da_virada_pct": 7.063734772934763,
+     "parte_do_eleitorado_pct": 4.576758051158264
+    },
+    {
+     "uf": "ce",
+     "virada": 418233.0,
+     "eleitores": 6996545.0,
+     "parte_da_virada_pct": 6.29870303943412,
+     "parte_do_eleitorado_pct": 4.43299166728379
+    },
+    {
+     "uf": "ma",
+     "virada": 250999.0,
+     "eleitores": 5183115.0,
+     "parte_da_virada_pct": 3.7801133918053442,
+     "parte_do_eleitorado_pct": 3.284007407309411
+    },
+    {
+     "uf": "rs",
+     "virada": 229198.0,
+     "eleitores": 8522545.0,
+     "parte_da_virada_pct": 3.4517843862923807,
+     "parte_do_eleitorado_pct": 5.39986106986393
+    },
+    {
+     "uf": "pa",
+     "virada": 227229.0,
+     "eleitores": 6262397.0,
+     "parte_da_virada_pct": 3.4221307093117366,
+     "parte_do_eleitorado_pct": 3.9678375138333286
+    },
+    {
+     "uf": "pb",
+     "virada": 219099.0,
+     "eleitores": 3248531.0,
+     "parte_da_virada_pct": 3.2996906921189293,
+     "parte_do_eleitorado_pct": 2.0582603061815625
+    },
+    {
+     "uf": "pr",
+     "virada": 165808.0,
+     "eleitores": 8613657.0,
+     "parte_da_virada_pct": 2.497113698733702,
+     "parte_do_eleitorado_pct": 5.457589382451008
+    },
+    {
+     "uf": "rn",
+     "virada": 158717.0,
+     "eleitores": 2659825.0,
+     "parte_da_virada_pct": 2.3903213048943175,
+     "parte_do_eleitorado_pct": 1.6852578038779293
+    },
+    {
+     "uf": "al",
+     "virada": 148740.0,
+     "eleitores": 2442126.0,
+     "parte_da_virada_pct": 2.2400649639923937,
+     "parte_do_eleitorado_pct": 1.5473243162814065
+    },
+    {
+     "uf": "pi",
+     "virada": 121448.0,
+     "eleitores": 2704758.0,
+     "parte_da_virada_pct": 1.829040000987954,
+     "parte_do_eleitorado_pct": 1.7137272290850942
+    },
+    {
+     "uf": "se",
+     "virada": 117507.0,
+     "eleitores": 1740135.0,
+     "parte_da_virada_pct": 1.7696874662085131,
+     "parte_do_eleitorado_pct": 1.102544749579811
+    },
+    {
+     "uf": "go",
+     "virada": 103229.0,
+     "eleitores": 5080590.0,
+     "parte_da_virada_pct": 1.5546568923488695,
+     "parte_do_eleitorado_pct": 3.219047849314962
+    },
+    {
+     "uf": "am",
+     "virada": 100306.0,
+     "eleitores": 2798611.0,
+     "parte_da_virada_pct": 1.510635715195785,
+     "parte_do_eleitorado_pct": 1.7731922317327704
+    },
+    {
+     "uf": "es",
+     "virada": 90627.0,
+     "eleitores": 2991650.0,
+     "parte_da_virada_pct": 1.3648673355636594,
+     "parte_do_eleitorado_pct": 1.895501211159158
+    },
+    {
+     "uf": "df",
+     "virada": 79671.0,
+     "eleitores": 2258320.0,
+     "parte_da_virada_pct": 1.1998669876713595,
+     "parte_do_eleitorado_pct": 1.4308653402587033
+    },
+    {
+     "uf": "sc",
+     "virada": 71095.0,
+     "eleitores": 5734651.0,
+     "parte_da_virada_pct": 1.0707100888465728,
+     "parte_do_eleitorado_pct": 3.6334590998529497
+    },
+    {
+     "uf": "mt",
+     "virada": 59968.0,
+     "eleitores": 2637801.0,
+     "parte_da_virada_pct": 0.9031344343195904,
+     "parte_do_eleitorado_pct": 1.6713034580572053
+    },
+    {
+     "uf": "ms",
+     "virada": 57577.0,
+     "eleitores": 2024430.0,
+     "parte_da_virada_pct": 0.8671253222521855,
+     "parte_do_eleitorado_pct": 1.2826732795971902
+    },
+    {
+     "uf": "to",
+     "virada": 40358.0,
+     "eleitores": 1182023.0,
+     "parte_da_virada_pct": 0.6078024863305435,
+     "parte_do_eleitorado_pct": 0.7489265215242363
+    },
+    {
+     "uf": "ac",
+     "virada": 24835.0,
+     "eleitores": 613742.0,
+     "parte_da_virada_pct": 0.3740218729376839,
+     "parte_do_eleitorado_pct": 0.3888652430395414
+    },
+    {
+     "uf": "ap",
+     "virada": 24069.0,
+     "eleitores": 576988.0,
+     "parte_da_virada_pct": 0.36248570403612296,
+     "parte_do_eleitorado_pct": 0.3655780097351964
+    },
+    {
+     "uf": "ro",
+     "virada": 22385.0,
+     "eleitores": 1265893.0,
+     "parte_da_virada_pct": 0.3371242047799498,
+     "parte_do_eleitorado_pct": 0.8020663228311802
+    },
+    {
+     "uf": "rr",
+     "virada": 20732.0,
+     "eleitores": 401521.0,
+     "parte_da_virada_pct": 0.3122295739780174,
+     "parte_do_eleitorado_pct": 0.25440260117521646
+    }
+   ],
+   "por_porte": [
+    {
+     "eleitores_1t": "até 20 mil eleitores",
+     "virada": 1215414.0,
+     "eleitores": 33887287.0,
+     "parte_da_virada_pct": 18.30446630459763,
+     "parte_do_eleitorado_pct": 21.470891832733773
+    },
+    {
+     "eleitores_1t": "20 a 100 mil",
+     "virada": 1867616.0,
+     "eleitores": 44950409.0,
+     "parte_da_virada_pct": 28.126806291459047,
+     "parte_do_eleitorado_pct": 28.480455501679515
+    },
+    {
+     "eleitores_1t": "100 a 500 mil",
+     "virada": 1623592.0,
+     "eleitores": 38733970.0,
+     "parte_da_virada_pct": 24.451738301857866,
+     "parte_do_eleitorado_pct": 24.54173685023398
+    },
+    {
+     "eleitores_1t": "mais de 500 mil",
+     "virada": 1933364.0,
+     "eleitores": 40257302.0,
+     "parte_da_virada_pct": 29.116989102085455,
+     "parte_do_eleitorado_pct": 25.50691581535273
+    }
+   ],
+   "capitais": {
+    "virada": 1726869.0,
+    "parte_pct": 26.007118087297172
+   },
+   "municipios_que_viraram": {
+    "quantos": 211,
+    "virada": 546983.0,
+    "parte_pct": 8.237713151804838
+   },
+   "municipios_em_que_a_margem_andou_para_o_lula": 5228,
+   "municipios_em_que_andou_para_o_flavio": 339,
+   "parte_dos_100_que_mais_viraram_pct": 44.547774648922456,
+   "parte_dos_10pct_que_mais_viraram_pct": 69.61205942301686,
+   "eleitorado_dos_10pct_pct": 61.62819172713592,
+   "maiores_contribuicoes": [
+    {
+     "uf": "sp",
+     "municipio": "SÃO PAULO",
+     "virada_margem": 474829.0,
+     "eleitores_1t": 9145124.0
+    },
+    {
+     "uf": "rj",
+     "municipio": "RIO DE JANEIRO",
+     "virada_margem": 251030.0,
+     "eleitores_1t": 4952612.0
+    },
+    {
+     "uf": "ba",
+     "municipio": "SALVADOR",
+     "virada_margem": 179150.0,
+     "eleitores_1t": 1955479.0
+    },
+    {
+     "uf": "ce",
+     "municipio": "FORTALEZA",
+     "virada_margem": 101897.0,
+     "eleitores_1t": 1795713.0
+    },
+    {
+     "uf": "df",
+     "municipio": "BRASÍLIA",
+     "virada_margem": 79671.0,
+     "eleitores_1t": 2258320.0
+    },
+    {
+     "uf": "mg",
+     "municipio": "BELO HORIZONTE",
+     "virada_margem": 74740.0,
+     "eleitores_1t": 1966966.0
+    },
+    {
+     "uf": "pe",
+     "municipio": "RECIFE",
+     "virada_margem": 66747.0,
+     "eleitores_1t": 1230407.0
+    },
+    {
+     "uf": "am",
+     "municipio": "MANAUS",
+     "virada_margem": 65363.0,
+     "eleitores_1t": 1477265.0
+    },
+    {
+     "uf": "pa",
+     "municipio": "BELÉM",
+     "virada_margem": 50241.0,
+     "eleitores_1t": 1048781.0
+    },
+    {
+     "uf": "sp",
+     "municipio": "GUARULHOS",
+     "virada_margem": 48079.0,
+     "eleitores_1t": 948908.0
+    },
+    {
+     "uf": "rs",
+     "municipio": "PORTO ALEGRE",
+     "virada_margem": 43216.0,
+     "eleitores_1t": 1064200.0
+    },
+    {
+     "uf": "ma",
+     "municipio": "SÃO LUÍS",
+     "virada_margem": 41529.0,
+     "eleitores_1t": 761443.0
+    },
+    {
+     "uf": "rj",
+     "municipio": "DUQUE DE CAXIAS",
+     "virada_margem": 38114.0,
+     "eleitores_1t": 634694.0
+    },
+    {
+     "uf": "rj",
+     "municipio": "SÃO GONÇALO",
+     "virada_margem": 37061.0,
+     "eleitores_1t": 653184.0
+    },
+    {
+     "uf": "al",
+     "municipio": "MACEIÓ",
+     "virada_margem": 34909.0,
+     "eleitores_1t": 646463.0
+    }
+   ]
+  },
+  "direita": {
+   "direita (Renan, Caiado e Zema)": [
+    {
+     "grupo": "1 (mais fraco)",
+     "forca_media": 1.6637603705476933,
+     "lula": 7595714.0,
+     "lula1": 6990469.0,
+     "fl": 2850649.0,
+     "fl1": 2842016.0,
+     "livres": 613643.0,
+     "lula_levou_dos_livres_pct": 98.63145183763197,
+     "flavio_levou_dos_livres_pct": 1.4068440445014447
+    },
+    {
+     "grupo": "2",
+     "forca_media": 2.350564362296629,
+     "lula": 9701527.0,
+     "lula1": 8661885.0,
+     "fl": 4861569.0,
+     "fl1": 4751315.0,
+     "livres": 1149203.0,
+     "lula_levou_dos_livres_pct": 90.46634928728866,
+     "flavio_levou_dos_livres_pct": 9.593953374643123
+    },
+    {
+     "grupo": "3",
+     "forca_media": 3.140162748213542,
+     "lula": 8907012.0,
+     "lula1": 7641035.0,
+     "fl": 7386330.0,
+     "fl1": 7084423.0,
+     "livres": 1567882.0,
+     "lula_levou_dos_livres_pct": 80.74440551010854,
+     "flavio_levou_dos_livres_pct": 19.255722050511455
+    },
+    {
+     "grupo": "4",
+     "forca_media": 4.107940425275278,
+     "lula": 12184631.0,
+     "lula1": 10088089.0,
+     "fl": 13423916.0,
+     "fl1": 12771517.0,
+     "livres": 2749339.0,
+     "lula_levou_dos_livres_pct": 76.25622013145706,
+     "flavio_levou_dos_livres_pct": 23.729303661716507
+    },
+    {
+     "grupo": "5 (mais forte)",
+     "forca_media": 7.370931949056156,
+     "lula": 25667194.0,
+     "lula1": 20340673.0,
+     "fl": 31132080.0,
+     "fl1": 28511332.0,
+     "livres": 7947950.0,
+     "lula_levou_dos_livres_pct": 67.01754540478991,
+     "flavio_levou_dos_livres_pct": 32.97388634805201
+    }
+   ],
+   "Cury": [
+    {
+     "grupo": "1 (mais fraco)",
+     "forca_media": 1.2829492401748233,
+     "lula": 6598136.0,
+     "lula1": 5827986.0,
+     "fl": 4550381.0,
+     "fl1": 4242679.0,
+     "livres": 1077790.0,
+     "lula_levou_dos_livres_pct": 71.45640616446617,
+     "flavio_levou_dos_livres_pct": 28.549346347618737
+    },
+    {
+     "grupo": "2",
+     "forca_media": 1.8702854232795745,
+     "lula": 7217740.0,
+     "lula1": 6438409.0,
+     "fl": 4795543.0,
+     "fl1": 4649555.0,
+     "livres": 924735.0,
+     "lula_levou_dos_livres_pct": 84.27614397638243,
+     "flavio_levou_dos_livres_pct": 15.78700925129902
+    },
+    {
+     "grupo": "3",
+     "forca_media": 2.3001374744646985,
+     "lula": 8293150.0,
+     "lula1": 7187226.0,
+     "fl": 7303117.0,
+     "fl1": 7033618.0,
+     "livres": 1375201.0,
+     "lula_levou_dos_livres_pct": 80.41908055622415,
+     "flavio_levou_dos_livres_pct": 19.597062538494374
+    },
+    {
+     "grupo": "4",
+     "forca_media": 2.779451274273204,
+     "lula": 17693540.0,
+     "lula1": 14727725.0,
+     "fl": 17009542.0,
+     "fl1": 16037396.0,
+     "livres": 3938208.0,
+     "lula_levou_dos_livres_pct": 75.30874448480121,
+     "flavio_levou_dos_livres_pct": 24.68498362707099
+    },
+    {
+     "grupo": "5 (mais forte)",
+     "forca_media": 3.764888489666832,
+     "lula": 24253512.0,
+     "lula1": 19540805.0,
+     "fl": 25995961.0,
+     "fl1": 23997355.0,
+     "livres": 6712083.0,
+     "lula_levou_dos_livres_pct": 70.21228730336023,
+     "flavio_levou_dos_livres_pct": 29.776240848034806
+    }
+   ],
+   "goias": {
+    "caiado_1t_pct": 12.331839795100244,
+    "lula_ganhou": 396675.0,
+    "flavio_ganhou": 293446.0,
+    "livres": 690326.0,
+    "lula_levou_pct": 57.461981730370866
+   }
+  },
+  "renda": {
+   "grupos": [
+    {
+     "grupo": "1 (mais pobres)",
+     "renda_media": 659.345,
+     "municipios": 1114,
+     "eleitores": 15795573.0,
+     "l1": 8371207.0,
+     "l2": 9105150.0,
+     "f1": 3193573.0,
+     "f2": 3178597.0,
+     "a1": 3171398.0,
+     "a2": 3183340.0,
+     "virada": 748919.0,
+     "lula_1t_pct": 72.38535449874533,
+     "lula_ganhou_por_100": 4.6465107660228595,
+     "flavio_ganhou_por_100": -0.09481137531383002,
+     "abstencao_caiu_pontos": -0.07560346180540585,
+     "parte_da_virada_pct": 11.278924383274303,
+     "parte_do_eleitorado_pct": 10.008031605452809
+    },
+    {
+     "grupo": "2",
+     "renda_media": 823.96,
+     "municipios": 1114,
+     "eleitores": 18939724.0,
+     "l1": 8991486.0,
+     "l2": 10148678.0,
+     "f1": 4757545.0,
+     "f2": 4884734.0,
+     "a1": 3704935.0,
+     "a2": 3442408.0,
+     "virada": 1030003.0,
+     "lula_1t_pct": 65.39723417599393,
+     "lula_ganhou_por_100": 6.109867282120901,
+     "flavio_ganhou_por_100": 0.6715462168297701,
+     "abstencao_caiu_pontos": 1.3861184038373526,
+     "parte_da_virada_pct": 15.512126079783902,
+     "parte_do_eleitorado_pct": 12.00015703074229
+    },
+    {
+     "grupo": "3",
+     "renda_media": 1182.54,
+     "municipios": 1114,
+     "eleitores": 25141433.0,
+     "l1": 8670572.0,
+     "l2": 10317492.0,
+     "f1": 9007083.0,
+     "f2": 9449511.0,
+     "a1": 5123003.0,
+     "a2": 4716175.0,
+     "virada": 1204492.0,
+     "lula_1t_pct": 49.04820237752123,
+     "lula_ganhou_por_100": 6.550621040574736,
+     "flavio_ganhou_por_100": 1.7597564943891624,
+     "abstencao_caiu_pontos": 1.6181575648452498,
+     "parte_da_virada_pct": 18.139978005977724,
+     "parte_do_eleitorado_pct": 15.9295427947042
+    },
+    {
+     "grupo": "4",
+     "renda_media": 1451.575,
+     "municipios": 1114,
+     "eleitores": 23233076.0,
+     "l1": 6559320.0,
+     "l2": 8070666.0,
+     "f1": 9334152.0,
+     "f2": 9945839.0,
+     "a1": 5030926.0,
+     "a2": 4605901.0,
+     "virada": 899659.0,
+     "lula_1t_pct": 41.27052918330243,
+     "lula_ganhou_por_100": 6.505148091453753,
+     "flavio_ganhou_por_100": 2.632828300479885,
+     "abstencao_caiu_pontos": 1.8293961591654933,
+     "parte_da_virada_pct": 13.549109892701582,
+     "parte_do_eleitorado_pct": 14.720413048636294
+    },
+    {
+     "grupo": "5 (mais ricos)",
+     "renda_media": 1842.01,
+     "municipios": 1114,
+     "eleitores": 74714836.0,
+     "l1": 21128802.0,
+     "l2": 26413147.0,
+     "f1": 29666007.0,
+     "f2": 32193510.0,
+     "a1": 15863556.0,
+     "a2": 14025370.0,
+     "virada": 2756842.0,
+     "lula_1t_pct": 41.59638044903368,
+     "lula_ganhou_por_100": 7.0726850019452625,
+     "flavio_ganhou_por_100": 3.3828662890995305,
+     "abstencao_caiu_pontos": 2.460269068916915,
+     "parte_da_virada_pct": 41.51879235889955,
+     "parte_do_eleitorado_pct": 47.339114578763514
+    }
+   ],
+   "correlacao_renda_e_ganho_do_lula": 0.3630758106556093,
+   "sem_renda": 1
+  },
+  "tendencia": [
+   {
+    "ano": 2014,
+    "pesquisas": 72,
+    "inclinacao_por_semana": 2.4498467498164134,
+    "media_ultima_semana": 51.1181573583943,
+    "reta_no_dia": 49.4113790216369,
+    "urna": 51.64
+   },
+   {
+    "ano": 2018,
+    "pesquisas": 84,
+    "inclinacao_por_semana": 2.9031405177398293,
+    "media_ultima_semana": 42.12248641135942,
+    "reta_no_dia": 45.740550219028535,
+    "urna": 44.87
+   },
+   {
+    "ano": 2022,
+    "pesquisas": 136,
+    "inclinacao_por_semana": 0.819330748942132,
+    "media_ultima_semana": 52.008897503242665,
+    "reta_no_dia": 50.637003726303845,
+    "urna": 50.9
+   },
+   {
+    "ano": 2026,
+    "pesquisas": 53,
+    "inclinacao_por_semana": 0.606503476463444,
+    "media_ultima_semana": 49.080934353734214,
+    "reta_no_dia": 49.50030751181142,
+    "urna": NaN
+   }
+  ]
+ },
+ "transferencia_pesquisas": {
+  "por_grupo": {
+   "caiado": {
+    "institutos": 5,
+    "lula_entre_os_dois": 37.84713696758539,
+    "escolhiam_um_dos_dois": 0.8244000000000001,
+    "minimo": 26.923076923076923,
+    "maximo": 54.0420819490587
+   },
+   "cury": {
+    "institutos": 5,
+    "lula_entre_os_dois": 52.851763672630554,
+    "escolhiam_um_dos_dois": 0.8882000000000001,
+    "minimo": 35.632183908045974,
+    "maximo": 66.66666666666667
+   },
+   "renan": {
+    "institutos": 5,
+    "lula_entre_os_dois": 40.31894507563187,
+    "escolhiam_um_dos_dois": 0.7476,
+    "minimo": 31.147540983606557,
+    "maximo": 50.0
+   }
+  },
+  "linhas": [
+   {
+    "instituto": "Palver",
+    "campo_fim": "2026-10-13",
+    "grupo_1t": "caiado",
+    "pct_lula": "35.0",
+    "pct_adversario": "61.0",
+    "lula_dois": "36.458333333333336"
+   },
+   {
+    "instituto": "Palver",
+    "campo_fim": "2026-10-13",
+    "grupo_1t": "cury",
+    "pct_lula": "64.0",
+    "pct_adversario": "32.0",
+    "lula_dois": "66.66666666666667"
+   },
+   {
+    "instituto": "Palver",
+    "campo_fim": "2026-10-13",
+    "grupo_1t": "renan",
+    "pct_lula": "41.0",
+    "pct_adversario": "41.0",
+    "lula_dois": "50.0"
+   },
+   {
+    "instituto": "PoderData",
+    "campo_fim": "2026-10-18",
+    "grupo_1t": "caiado",
+    "pct_lula": "19.0",
+    "pct_adversario": "46.0",
+    "lula_dois": "29.23076923076923"
+   },
+   {
+    "instituto": "PoderData",
+    "campo_fim": "2026-10-18",
+    "grupo_1t": "cury",
+    "pct_lula": "31.0",
+    "pct_adversario": "56.0",
+    "lula_dois": "35.632183908045974"
+   },
+   {
+    "instituto": "PoderData",
+    "campo_fim": "2026-10-18",
+    "grupo_1t": "renan",
+    "pct_lula": "29.0",
+    "pct_adversario": "36.0",
+    "lula_dois": "44.61538461538461"
+   },
+   {
+    "instituto": "Quaest",
+    "campo_fim": "2026-10-20",
+    "grupo_1t": "cury",
+    "pct_lula": "48.0",
+    "pct_adversario": "33.0",
+    "lula_dois": "59.25925925925926"
+   },
+   {
+    "instituto": "Quaest",
+    "campo_fim": "2026-10-20",
+    "grupo_1t": "caiado",
+    "pct_lula": "21.0",
+    "pct_adversario": "57.0",
+    "lula_dois": "26.923076923076923"
+   },
+   {
+    "instituto": "Quaest",
+    "campo_fim": "2026-10-20",
+    "grupo_1t": "renan",
+    "pct_lula": "25.0",
+    "pct_adversario": "51.0",
+    "lula_dois": "32.89473684210526"
+   },
+   {
+    "instituto": "AtlasIntel",
+    "campo_fim": "2026-10-23",
+    "grupo_1t": "cury",
+    "pct_lula": "52.2",
+    "pct_adversario": "45.5",
+    "lula_dois": "53.428863868986696"
+   },
+   {
+    "instituto": "AtlasIntel",
+    "campo_fim": "2026-10-23",
+    "grupo_1t": "caiado",
+    "pct_lula": "48.8",
+    "pct_adversario": "41.5",
+    "lula_dois": "54.0420819490587"
+   },
+   {
+    "instituto": "AtlasIntel",
+    "campo_fim": "2026-10-23",
+    "grupo_1t": "renan",
+    "pct_lula": "30.7",
+    "pct_adversario": "40.8",
+    "lula_dois": "42.93706293706294"
+   },
+   {
+    "instituto": "Nexus",
+    "campo_fim": "2026-10-24",
+    "grupo_1t": "renan",
+    "pct_lula": "24.7",
+    "pct_adversario": "54.6",
+    "lula_dois": "31.147540983606557"
+   },
+   {
+    "instituto": "Nexus",
+    "campo_fim": "2026-10-24",
+    "grupo_1t": "caiado",
+    "pct_lula": "35.3",
+    "pct_adversario": "47.6",
+    "lula_dois": "42.581423401688774"
+   },
+   {
+    "instituto": "Nexus",
+    "campo_fim": "2026-10-24",
+    "grupo_1t": "cury",
+    "pct_lula": "40.6",
+    "pct_adversario": "41.8",
+    "lula_dois": "49.27184466019417"
+   }
+  ],
+  "lula_receberia": 3238274.1877510394,
+  "flavio_receberia": 3972921.9304489614
+ },
+ "normalidade": {
+  "campo": [
+   {
+    "ano": 2002,
+    "votos_eliminados": 25791834.0,
+    "apoiou_pt_pct": 98.29071868251013,
+    "apoiou_adversario_pct": 0.0,
+    "neutro_pct": 1.709281317489868,
+    "campo_pt_pct": 99.85026656111388,
+    "campo_adversario_pct": 0.0,
+    "campo_centro_pct": 0.0,
+    "principais": "Anthony Garotinho (apoiou o PT); Ciro Gomes (apoiou o PT); Zé Maria (neutro ou nulo)",
+    "ganho_pt": 13335952.0,
+    "ganho_adversario": 13661770.0,
+    "parte_do_pt_nos_livres_pct": 49.400252988288955,
+    "eliminados_para_pt_modelo_nacional_pct": 57.670266113150504,
+    "eliminados_para_adversario_modelo_nacional_pct": 30.260867118122405,
+    "eliminados_para_pt_modelo_regional_pct": 58.76394399316614
+   },
+   {
+    "ano": 2006,
+    "votos_eliminados": 9365999.0,
+    "apoiou_pt_pct": 0.0,
+    "apoiou_adversario_pct": 0.0,
+    "neutro_pct": 100.0,
+    "campo_pt_pct": 97.31195785948728,
+    "campo_adversario_pct": 0.0,
+    "campo_centro_pct": 0.0,
+    "principais": "Heloísa Helena (neutro ou nulo); Cristovam Buarque (neutro ou nulo)",
+    "ganho_pt": 11630280.0,
+    "ganho_adversario": -2428590.0,
+    "parte_do_pt_nos_livres_pct": 126.3901357645153,
+    "eliminados_para_pt_modelo_nacional_pct": 48.35908316212837,
+    "eliminados_para_adversario_modelo_nacional_pct": 22.687044456513885,
+    "eliminados_para_pt_modelo_regional_pct": 76.93695039833084
+   },
+   {
+    "ano": 2010,
+    "votos_eliminados": 20806436.0,
+    "apoiou_pt_pct": 0.0,
+    "apoiou_adversario_pct": 0.0,
+    "neutro_pct": 100.0,
+    "campo_pt_pct": 4.262219632425275,
+    "campo_adversario_pct": 0.0,
+    "campo_centro_pct": 94.37636988862485,
+    "principais": "Marina Silva (neutro ou nulo); Plínio de Arruda Sampaio (neutro ou nulo)",
+    "ganho_pt": 8096332.0,
+    "ganho_adversario": 10560281.0,
+    "parte_do_pt_nos_livres_pct": 43.40358732879512,
+    "eliminados_para_pt_modelo_nacional_pct": 37.38851463682275,
+    "eliminados_para_adversario_modelo_nacional_pct": 42.255972629008575,
+    "eliminados_para_pt_modelo_regional_pct": 48.699175313401085
+   },
+   {
+    "ano": 2014,
+    "votos_eliminados": 25858923.0,
+    "apoiou_pt_pct": 0.0,
+    "apoiou_adversario_pct": 92.94319411523828,
+    "neutro_pct": 7.056805884761715,
+    "campo_pt_pct": 6.234544261568821,
+    "campo_adversario_pct": 4.746489248604824,
+    "campo_centro_pct": 88.19670486663347,
+    "principais": "Marina Silva (apoiou o adversário); Luciana Genro (neutro ou nulo); Pastor Everaldo (apoiou o adversário)",
+    "ganho_pt": 11226744.0,
+    "ganho_adversario": 16105536.0,
+    "parte_do_pt_nos_livres_pct": 41.074988460544425,
+    "eliminados_para_pt_modelo_nacional_pct": 33.59514391341695,
+    "eliminados_para_adversario_modelo_nacional_pct": 56.1520849407335,
+    "eliminados_para_pt_modelo_regional_pct": 44.34872412180478
+   },
+   {
+    "ano": 2018,
+    "votos_eliminados": 26431688.0,
+    "apoiou_pt_pct": 6.381355591061759,
+    "apoiou_adversario_pct": 0.0,
+    "neutro_pct": 93.61864440893824,
+    "campo_pt_pct": 52.82104192513168,
+    "campo_adversario_pct": 42.649447889972066,
+    "campo_centro_pct": 4.046574702304294,
+    "principais": "Ciro Gomes (neutro ou nulo); Geraldo Alckmin (neutro ou nulo); João Amoêdo (neutro ou nulo)",
+    "ganho_pt": 15664665.0,
+    "ganho_adversario": 8502856.0,
+    "parte_do_pt_nos_livres_pct": 64.81899142306197,
+    "eliminados_para_pt_modelo_nacional_pct": 57.60925127017139,
+    "eliminados_para_adversario_modelo_nacional_pct": 27.790352883199333,
+    "eliminados_para_pt_modelo_regional_pct": 66.61244447312731
+   },
+   {
+    "ano": 2022,
+    "votos_eliminados": 9897870.0,
+    "apoiou_pt_pct": 86.02568027262431,
+    "apoiou_adversario_pct": 0.0,
+    "neutro_pct": 13.974319727375686,
+    "campo_pt_pct": 36.36425816867669,
+    "campo_adversario_pct": 11.72639163779682,
+    "campo_centro_pct": 49.661422103947615,
+    "principais": "Simone Tebet (apoiou o PT); Ciro Gomes (apoiou o PT); Soraya Thronicke (neutro ou nulo)",
+    "ganho_pt": 3072523.0,
+    "ganho_adversario": 7111293.0,
+    "parte_do_pt_nos_livres_pct": 30.169984620051043,
+    "eliminados_para_pt_modelo_nacional_pct": 37.190696510081615,
+    "eliminados_para_adversario_modelo_nacional_pct": 40.50661976322627,
+    "eliminados_para_pt_modelo_regional_pct": 37.08943775165633
+   },
+   {
+    "ano": 2026,
+    "votos_eliminados": 9316747.0,
+    "apoiou_pt_pct": 0.0,
+    "apoiou_adversario_pct": 68.48103742647514,
+    "neutro_pct": 31.51896257352486,
+    "campo_pt_pct": 0.0,
+    "campo_adversario_pct": 60.18756332011591,
+    "campo_centro_pct": 37.01473271733149,
+    "principais": "Augusto Cury (apoiou o adversário); Renan Santos (neutro ou nulo); Ronaldo Caiado (apoiou o adversário)",
+    "ganho_pt": 10333927.0,
+    "ganho_adversario": 3693941.0,
+    "parte_do_pt_nos_livres_pct": 73.66634214942853,
+    "eliminados_para_pt_modelo_nacional_pct": 47.373237205587614,
+    "eliminados_para_adversario_modelo_nacional_pct": 40.05279002883139,
+    "eliminados_para_pt_modelo_regional_pct": 70.63718400808979
+   }
+  ],
+  "comparecimento": [
+   {
+    "ano": 2002,
+    "municipios": 5565,
+    "abstencao_1t_pct": 17.72570826048189,
+    "abstencao_2t_pct": 20.450370717588847,
+    "comparecimento_variou_pontos": -2.724662457106958,
+    "municipios_comparecimento_subiu": 282,
+    "municipios_comparecimento_subiu_pct": 5.067385444743936,
+    "desvio_da_mudanca_de_comparecimento": 3.1481890656572715,
+    "diferenca_andou_no_pais_pontos": -0.7060313055794604,
+    "municipios_mesmo_lado_do_pais": 3856,
+    "municipios_mesmo_lado_do_pais_pct": 69.29020664869722,
+    "desvio_da_virada_entre_municipios": 13.373388210133838,
+    "pt_cresceu_em": 5534,
+    "adversario_cresceu_em": 5512
+   },
+   {
+    "ano": 2006,
+    "municipios": 5565,
+    "abstencao_1t_pct": 16.727696038244346,
+    "abstencao_2t_pct": 18.970085455107654,
+    "comparecimento_variou_pontos": -2.242389416863308,
+    "municipios_comparecimento_subiu": 112,
+    "municipios_comparecimento_subiu_pct": 2.0125786163522013,
+    "desvio_da_mudanca_de_comparecimento": 1.7804278469449195,
+    "diferenca_andou_no_pais_pontos": 14.686857979979692,
+    "municipios_mesmo_lado_do_pais": 5549,
+    "municipios_mesmo_lado_do_pais_pct": 99.71248876909254,
+    "desvio_da_virada_entre_municipios": 5.262916383693419,
+    "pt_cresceu_em": 5447,
+    "adversario_cresceu_em": 359
+   },
+   {
+    "ano": 2010,
+    "municipios": 5567,
+    "abstencao_1t_pct": 18.06688504827594,
+    "abstencao_2t_pct": 21.443149325550948,
+    "comparecimento_variou_pontos": -3.3762642772750096,
+    "municipios_comparecimento_subiu": 131,
+    "municipios_comparecimento_subiu_pct": 2.3531525058379734,
+    "desvio_da_mudanca_de_comparecimento": 1.7129879795294431,
+    "diferenca_andou_no_pais_pontos": -2.1763938762219768,
+    "municipios_mesmo_lado_do_pais": 4020,
+    "municipios_mesmo_lado_do_pais_pct": 72.21124483563858,
+    "desvio_da_virada_entre_municipios": 5.605279881478248,
+    "pt_cresceu_em": 4579,
+    "adversario_cresceu_em": 5421
+   },
+   {
+    "ano": 2014,
+    "municipios": 5570,
+    "abstencao_1t_pct": 19.293491471261074,
+    "abstencao_2t_pct": 21.00569452154725,
+    "comparecimento_variou_pontos": -1.712203050286179,
+    "municipios_comparecimento_subiu": 415,
+    "municipios_comparecimento_subiu_pct": 7.450628366247755,
+    "desvio_da_mudanca_de_comparecimento": 1.4823491648437552,
+    "diferenca_andou_no_pais_pontos": -4.744976139604157,
+    "municipios_mesmo_lado_do_pais": 4190,
+    "municipios_mesmo_lado_do_pais_pct": 75.22441651705566,
+    "desvio_da_virada_entre_municipios": 6.996948032270992,
+    "pt_cresceu_em": 4981,
+    "adversario_cresceu_em": 5494
+   },
+   {
+    "ano": 2018,
+    "municipios": 5570,
+    "abstencao_1t_pct": 20.192687006463736,
+    "abstencao_2t_pct": 21.166487213218957,
+    "comparecimento_variou_pontos": -0.9738002067552209,
+    "municipios_comparecimento_subiu": 748,
+    "municipios_comparecimento_subiu_pct": 13.429084380610412,
+    "desvio_da_mudanca_de_comparecimento": 1.6374439505256435,
+    "diferenca_andou_no_pais_pontos": 6.491744758129365,
+    "municipios_mesmo_lado_do_pais": 3859,
+    "municipios_mesmo_lado_do_pais_pct": 69.2818671454219,
+    "desvio_da_virada_entre_municipios": 8.094181672082051,
+    "pt_cresceu_em": 5446,
+    "adversario_cresceu_em": 5444
+   },
+   {
+    "ano": 2022,
+    "municipios": 5570,
+    "abstencao_1t_pct": 20.788720724452066,
+    "abstencao_2t_pct": 20.426310400798652,
+    "comparecimento_variou_pontos": 0.3624103236534115,
+    "municipios_comparecimento_subiu": 3604,
+    "municipios_comparecimento_subiu_pct": 64.70377019748653,
+    "desvio_da_mudanca_de_comparecimento": 1.4154886743450994,
+    "diferenca_andou_no_pais_pontos": -3.429443689952895,
+    "municipios_mesmo_lado_do_pais": 4647,
+    "municipios_mesmo_lado_do_pais_pct": 83.4290843806104,
+    "desvio_da_virada_entre_municipios": 2.155268659901329,
+    "pt_cresceu_em": 4561,
+    "adversario_cresceu_em": 5476
+   },
+   {
+    "ano": 2026,
+    "municipios": 5571,
+    "abstencao_1t_pct": 20.842117525598976,
+    "abstencao_2t_pct": 18.991580998904897,
+    "comparecimento_variou_pontos": 1.8505365266940825,
+    "municipios_comparecimento_subiu": 4440,
+    "municipios_comparecimento_subiu_pct": 79.69843834141088,
+    "desvio_da_mudanca_de_comparecimento": 1.890301605435043,
+    "diferenca_andou_no_pais_pontos": 5.439455227406471,
+    "municipios_mesmo_lado_do_pais": 5389,
+    "municipios_mesmo_lado_do_pais_pct": 96.73308203195118,
+    "desvio_da_virada_entre_municipios": 1.8686075588222788,
+    "pt_cresceu_em": 5491,
+    "adversario_cresceu_em": 4624
+   }
+  ],
+  "como_seria_pelas_pesquisas": {
+   "lula_ganharia": 5759599.00683107,
+   "flavio_ganharia": 6192462.11136893,
+   "margem_lula": -2657828.1045378596
+  },
+  "chance": {
+   "historico": {
+    "logistica": {
+     "a": -0.436996281584672,
+     "frente": -0.11149885088264229,
+     "falta_lider_para_50": 0.04879878347483375
+    },
+    "chance": 0.3775639248226025,
+    "rodada_2": 0.46938775510204084,
+    "casos": 241,
+    "perto_de_50_casos": 13,
+    "perto_de_50_viradas": 6,
+    "perto_de_50_lista": [
+     {
+      "frente_1t": 0.22,
+      "lider_1t_pct": 47.61,
+      "virada": 1,
+      "grupo": "Brasil governador",
+      "pais": "Brasil",
+      "ano": 1994,
+      "uf": "SE",
+      "falta_lider": 2.3900000000000006
+     },
+     {
+      "frente_1t": 0.3200000000000003,
+      "lider_1t_pct": 45.3,
+      "virada": 0,
+      "grupo": "presidente, outros países",
+      "pais": "Colombia",
+      "ano": 1994,
+      "uf": NaN,
+      "falta_lider": 4.700000000000003
+     },
+     {
+      "frente_1t": 0.44,
+      "lider_1t_pct": 49.74,
+      "virada": 0,
+      "grupo": "Brasil governador",
+      "pais": "Brasil",
+      "ano": 2010,
+      "uf": "PB",
+      "falta_lider": 0.259999999999998
+     },
+     {
+      "frente_1t": 0.45000000000000284,
+      "lider_1t_pct": 47.96,
+      "virada": 0,
+      "grupo": "presidente, outros países",
+      "pais": "Chile",
+      "ano": 1999,
+      "uf": NaN,
+      "falta_lider": 2.039999999999999
+     },
+     {
+      "frente_1t": 0.6,
+      "lider_1t_pct": 49.25,
+      "virada": 1,
+      "grupo": "Brasil governador",
+      "pais": "Brasil",
+      "ano": 2002,
+      "uf": "RR",
+      "falta_lider": 0.75
+     },
+     {
+      "frente_1t": 0.7399999999999949,
+      "lider_1t_pct": 48.16,
+      "virada": 1,
+      "grupo": "presidente, outros países",
+      "pais": "Montenegro",
+      "ano": 1997,
+      "uf": NaN,
+      "falta_lider": 1.8400000000000034
+     },
+     {
+      "frente_1t": 0.93,
+      "lider_1t_pct": 49.67,
+      "virada": 0,
+      "grupo": "Brasil governador",
+      "pais": "Brasil",
+      "ano": 2006,
+      "uf": "PB",
+      "falta_lider": 0.3299999999999983
+     },
+     {
+      "frente_1t": 0.97,
+      "lider_1t_pct": 49.57,
+      "virada": 0,
+      "grupo": "Brasil governador",
+      "pais": "Brasil",
+      "ano": 2006,
+      "uf": "RN",
+      "falta_lider": 0.4299999999999997
+     },
+     {
+      "frente_1t": 1.38,
+      "lider_1t_pct": 49.02,
+      "virada": 1,
+      "grupo": "Brasil governador",
+      "pais": "Brasil",
+      "ano": 2014,
+      "uf": "PA",
+      "falta_lider": 0.9799999999999969
+     },
+     {
+      "frente_1t": 1.4,
+      "lider_1t_pct": 47.44,
+      "virada": 1,
+      "grupo": "Brasil governador",
+      "pais": "Brasil",
+      "ano": 2014,
+      "uf": "PB",
+      "falta_lider": 2.5600000000000023
+     },
+     {
+      "frente_1t": 1.4,
+      "lider_1t_pct": 47.81,
+      "virada": 0,
+      "grupo": "Brasil governador",
+      "pais": "Brasil",
+      "ano": 2014,
+      "uf": "CE",
+      "falta_lider": 2.1899999999999977
+     },
+     {
+      "frente_1t": 2.58,
+      "lider_1t_pct": 47.62,
+      "virada": 1,
+      "grupo": "Brasil governador",
+      "pais": "Brasil",
+      "ano": 2010,
+      "uf": "RR",
+      "falta_lider": 2.3800000000000026
+     },
+     {
+      "frente_1t": 3.22,
+      "lider_1t_pct": 46.59,
+      "virada": 0,
+      "grupo": "Brasil governador",
+      "pais": "Brasil",
+      "ano": 1994,
+      "uf": "PB",
+      "falta_lider": 3.4099999999999966
+     }
+    ]
+   },
+   "pesquisas": {
+    "chance": 0.375,
+    "chance_resultado_igual_ou_maior": 0.2,
+    "so_presidente_4_institutos": 0.4166666666666667,
+    "casos_4_institutos": 24,
+    "casos": 80
+   },
+   "crescimento": {
+    "anos_parecidos": [
+     2010,
+     2014,
+     2022
+    ],
+    "lula_venceria_em": 0,
+    "padroes": 3,
+    "laplace": 0.2,
+    "rodada_2": 0.3333333333333333,
+    "lula_pct_por_padrao": [
+     {
+      "padrao_de": 2010,
+      "lula_pct": 48.76
+     },
+     {
+      "padrao_de": 2014,
+      "lula_pct": 48.7
+     },
+     {
+      "padrao_de": 2022,
+      "lula_pct": 47.61
+     }
+    ]
+   },
+   "pilares": {
+    "pesquisas": 0.375,
+    "historico": 0.3775639248226025,
+    "crescimento": 0.2
+   },
+   "linear": 0.3493909812056506,
+   "bayes": 0.2668376653871978,
+   "independente": 0.08340014041847149,
+   "bayes_resultado_igual_ou_maior": 0.13167887618797033,
+   "mercado": 0.235,
+   "variantes": {
+    "rodada 2 (média com pesos, sem as correções)": 0.3923469387755102,
+    "média com pesos, com as correções 1 e 2": 0.3493909812056506,
+    "Bayes: o histórico como ponto de partida e as pesquisas como indício (central)": 0.2668376653871978,
+    "Bayes com as pesquisas só de presidente com 4 ou mais institutos": 0.3022991630030021,
+    "os três pilares como indícios independentes (ponta de baixo)": 0.08340014041847149,
+    "mercado (Polymarket, véspera)": 0.235
+   }
+  }
+ },
+ "videos": {
+  "conta_dos_60": {
+   "outros": 9316747.0,
+   "novos": 4781485.0,
+   "lula_dos_outros": 5590048.2,
+   "falta": 4786645.8,
+   "parte_dos_novos_pct": 100.10793299571158,
+   "flavio_dos_outros_se_40": 3726698.8000000003,
+   "flavio_ganhou": 3721538.0
+  },
+  "faixas": [
+   {
+    "ano": 2022,
+    "grupo": "1 (caiu mais)",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": -2.693654147278192,
+    "votos_novos_por_100": -2.7679289184995057,
+    "pt_ganhou_por_100": -0.04297911607953364,
+    "adversario_ganhou_por_100": 2.0605882882284154,
+    "parte_do_pt_no_ganho_pct": -2.130200272323215
+   },
+   {
+    "ano": 2022,
+    "grupo": "2",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": -0.2602953947273726,
+    "votos_novos_por_100": -0.48021961453906054,
+    "pt_ganhou_por_100": 1.5103479168735445,
+    "adversario_ganhou_por_100": 3.93082284501816,
+    "parte_do_pt_no_ganho_pct": 27.75777462180675
+   },
+   {
+    "ano": 2022,
+    "grupo": "3",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 0.4649479109697639,
+    "votos_novos_por_100": 0.12598922637827217,
+    "pt_ganhou_por_100": 2.626397652524829,
+    "adversario_ganhou_por_100": 5.10688668240439,
+    "parte_do_pt_no_ganho_pct": 33.96225379509297
+   },
+   {
+    "ano": 2022,
+    "grupo": "4",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 1.0089574590147752,
+    "votos_novos_por_100": 0.942658100221451,
+    "pt_ganhou_por_100": 2.186978046523746,
+    "adversario_ganhou_por_100": 5.015961898083354,
+    "parte_do_pt_no_ganho_pct": 30.36229738609933
+   },
+   {
+    "ano": 2022,
+    "grupo": "5 (subiu mais)",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 1.8413209140864677,
+    "votos_novos_por_100": 1.9061593010372873,
+    "pt_ganhou_por_100": 2.1938096232752304,
+    "adversario_ganhou_por_100": 5.131777150779139,
+    "parte_do_pt_no_ganho_pct": 29.947220488128345
+   },
+   {
+    "ano": 2026,
+    "grupo": "1 (caiu mais)",
+    "municipios": 1115,
+    "comparecimento_variou_pontos": -2.0173081652828024,
+    "votos_novos_por_100": -1.0150127657474968,
+    "pt_ganhou_por_100": 3.730090702680206,
+    "adversario_ganhou_por_100": -0.215684829638864,
+    "parte_do_pt_no_ganho_pct": 106.13716336218765
+   },
+   {
+    "ano": 2026,
+    "grupo": "2",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 0.9281409500539896,
+    "votos_novos_por_100": 2.0696291037551053,
+    "pt_ganhou_por_100": 5.82164566331151,
+    "adversario_ganhou_por_100": 1.7906689601987595,
+    "parte_do_pt_no_ganho_pct": 76.47668220821609
+   },
+   {
+    "ano": 2026,
+    "grupo": "3",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 1.8639118281735938,
+    "votos_novos_por_100": 2.8982054220591165,
+    "pt_ganhou_por_100": 6.464097576815009,
+    "adversario_ganhou_por_100": 2.75732982162806,
+    "parte_do_pt_no_ganho_pct": 70.09866583026394
+   },
+   {
+    "ano": 2026,
+    "grupo": "4",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 2.515459721633112,
+    "votos_novos_por_100": 3.610555688524342,
+    "pt_ganhou_por_100": 6.892834608229914,
+    "adversario_ganhou_por_100": 3.027207959431809,
+    "parte_do_pt_no_ganho_pct": 69.48392167892321
+   },
+   {
+    "ano": 2026,
+    "grupo": "5 (subiu mais)",
+    "municipios": 1114,
+    "comparecimento_variou_pontos": 3.429366749853501,
+    "votos_novos_por_100": 4.805145816193232,
+    "pt_ganhou_por_100": 7.9299479554657655,
+    "adversario_ganhou_por_100": 2.7946506725996545,
+    "parte_do_pt_no_ganho_pct": 73.94167586574031
+   }
+  ],
+  "divisao": [
+   {
+    "ano": 2002,
+    "outros_para_pt": 0.5404424467021901,
+    "outros_para_adversario": 0.45963511402424106,
+    "novos_para_pt": 0.07838328573266838,
+    "novos_para_adversario": 0.9219368229740214
+   },
+   {
+    "ano": 2006,
+    "outros_para_pt": 1.0871389469040076,
+    "outros_para_adversario": -0.08714120835954178,
+    "novos_para_pt": 0.8607948457288787,
+    "novos_para_adversario": 0.13929045847802787
+   },
+   {
+    "ano": 2010,
+    "outros_para_pt": 0.4852449458540808,
+    "outros_para_adversario": 0.5149595466897318,
+    "novos_para_pt": 0.7235095813163741,
+    "novos_para_adversario": 0.27693253199140516
+   },
+   {
+    "ano": 2014,
+    "outros_para_pt": 0.42484264884625184,
+    "outros_para_adversario": 0.575132111875766,
+    "novos_para_pt": 0.4568829635280511,
+    "novos_para_adversario": 0.5430573124566984
+   },
+   {
+    "ano": 2018,
+    "outros_para_pt": 0.6911343656038877,
+    "outros_para_adversario": 0.30893623437650686,
+    "novos_para_pt": 1.0525229957651068,
+    "novos_para_adversario": -0.051970513198212956
+   },
+   {
+    "ano": 2022,
+    "outros_para_pt": 0.3120371183393051,
+    "outros_para_adversario": 0.6877986070083976,
+    "novos_para_pt": 0.4251062461607879,
+    "novos_para_adversario": 0.5762784588526406
+   },
+   {
+    "ano": 2026,
+    "outros_para_pt": 0.6669003904543854,
+    "outros_para_adversario": 0.3329219420137927,
+    "novos_para_pt": 0.8009194938613159,
+    "novos_para_adversario": 0.19929527097263483
+   }
+  ],
+  "sem_novos": [
+   {
+    "ano": 2002,
+    "municipios": 5283,
+    "eleitores": 106126322.0,
+    "pt_ganhou": 12439131.0,
+    "adversario_ganhou": 12383376.0,
+    "votos_dos_outros": 23928625.0,
+    "pt_ganhou_sobre_os_outros_pct": 51.98431167691415
+   },
+   {
+    "ano": 2006,
+    "municipios": 5453,
+    "eleitores": 125255322.0,
+    "pt_ganhou": 11583123.0,
+    "adversario_ganhou": -2418192.0,
+    "votos_dos_outros": 9338554.0,
+    "pt_ganhou_sobre_os_outros_pct": 124.03550913771018
+   },
+   {
+    "ano": 2010,
+    "municipios": 5437,
+    "eleitores": 134533286.0,
+    "pt_ganhou": 8046577.0,
+    "adversario_ganhou": 10506857.0,
+    "votos_dos_outros": 20709955.0,
+    "pt_ganhou_sobre_os_outros_pct": 38.85366723394619
+   },
+   {
+    "ano": 2014,
+    "municipios": 5158,
+    "eleitores": 135000606.0,
+    "pt_ganhou": 10535325.0,
+    "adversario_ganhou": 15291402.0,
+    "votos_dos_outros": 24603464.0,
+    "pt_ganhou_sobre_os_outros_pct": 42.82049470757451
+   },
+   {
+    "ano": 2018,
+    "municipios": 4828,
+    "eleitores": 123646213.0,
+    "pt_ganhou": 12646775.0,
+    "adversario_ganhou": 7189918.0,
+    "votos_dos_outros": 22270770.0,
+    "pt_ganhou_sobre_os_outros_pct": 56.78642902782436
+   },
+   {
+    "ano": 2022,
+    "municipios": 1970,
+    "eleitores": 36479769.0,
+    "pt_ganhou": 282192.0,
+    "adversario_ganhou": 1109573.0,
+    "votos_dos_outros": 1959366.0,
+    "pt_ganhou_sobre_os_outros_pct": 14.402209694360318
+   },
+   {
+    "ano": 2026,
+    "municipios": 1133,
+    "eleitores": 18973477.0,
+    "pt_ganhou": 709883.0,
+    "adversario_ganhou": -39052.0,
+    "votos_dos_outros": 859667.0,
+    "pt_ganhou_sobre_os_outros_pct": 82.57650927626628
+   }
+  ],
+  "simulacao_por_ano": [
+   {
+    "ano_base": 2002,
+    "lula_pct": 48.75516501203544,
+    "lula_venceu_em": 0,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   },
+   {
+    "ano_base": 2006,
+    "lula_pct": 55.61302906921374,
+    "lula_venceu_em": 10000,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   },
+   {
+    "ano_base": 2010,
+    "lula_pct": 48.4308476611741,
+    "lula_venceu_em": 0,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   },
+   {
+    "ano_base": 2014,
+    "lula_pct": 48.215099008817724,
+    "lula_venceu_em": 0,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   },
+   {
+    "ano_base": 2018,
+    "lula_pct": 49.99299175661812,
+    "lula_venceu_em": 4859,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   },
+   {
+    "ano_base": 2022,
+    "lula_pct": 47.39543477439295,
+    "lula_venceu_em": 0,
+    "simulacoes": 10000,
+    "desvio_do_fator": 0.2
+   }
+  ]
+ },
+ "rodada7": {
+  "quem_ganhou_mais": [
+   {
+    "ano": 2002,
+    "pt_ganhou_mais_votos_em_pct": 31.19496855345912,
+    "pt_ganhou_mais_votos_em": 1736,
+    "municipios": 5565,
+    "parte_do_pt_Centro-Oeste": 45.86760152341274,
+    "parte_do_pt_Nordeste": 47.581184253940364,
+    "parte_do_pt_Norte": 40.18732075758012,
+    "parte_do_pt_Sudeste": 54.07602392750814,
+    "parte_do_pt_Sul": 41.54582543762772
+   },
+   {
+    "ano": 2006,
+    "pt_ganhou_mais_votos_em_pct": 98.7601078167116,
+    "pt_ganhou_mais_votos_em": 5496,
+    "municipios": 5565,
+    "parte_do_pt_Centro-Oeste": 171.7914770542238,
+    "parte_do_pt_Nordeste": 140.0136820767887,
+    "parte_do_pt_Norte": 176.9075708246623,
+    "parte_do_pt_Sudeste": 115.40623656171215,
+    "parte_do_pt_Sul": 121.35258254580111
+   },
+   {
+    "ano": 2010,
+    "pt_ganhou_mais_votos_em_pct": 30.447278606071492,
+    "pt_ganhou_mais_votos_em": 1695,
+    "municipios": 5567,
+    "parte_do_pt_Centro-Oeste": 39.288826747604986,
+    "parte_do_pt_Nordeste": 53.55394237093934,
+    "parte_do_pt_Norte": 37.05509838139834,
+    "parte_do_pt_Sudeste": 43.913567278239874,
+    "parte_do_pt_Sul": 25.122748348286446
+   },
+   {
+    "ano": 2014,
+    "pt_ganhou_mais_votos_em_pct": 26.51705565529623,
+    "pt_ganhou_mais_votos_em": 1477,
+    "municipios": 5570,
+    "parte_do_pt_Centro-Oeste": 37.368037330895966,
+    "parte_do_pt_Nordeste": 50.224256390276594,
+    "parte_do_pt_Norte": 23.211405923925433,
+    "parte_do_pt_Sudeste": 40.79132160068109,
+    "parte_do_pt_Sul": 30.208209066381972
+   },
+   {
+    "ano": 2018,
+    "pt_ganhou_mais_votos_em_pct": 69.89228007181329,
+    "pt_ganhou_mais_votos_em": 3893,
+    "municipios": 5570,
+    "parte_do_pt_Centro-Oeste": 61.07522197593819,
+    "parte_do_pt_Nordeste": 80.6257417684891,
+    "parte_do_pt_Norte": 61.21457016191047,
+    "parte_do_pt_Sudeste": 59.036626222044546,
+    "parte_do_pt_Sul": 53.6810527819762
+   },
+   {
+    "ano": 2022,
+    "pt_ganhou_mais_votos_em_pct": 12.836624775583482,
+    "pt_ganhou_mais_votos_em": 715,
+    "municipios": 5570,
+    "parte_do_pt_Centro-Oeste": 24.63219835024225,
+    "parte_do_pt_Nordeste": 39.942555894841114,
+    "parte_do_pt_Norte": 8.430432452683444,
+    "parte_do_pt_Sudeste": 32.95846506066727,
+    "parte_do_pt_Sul": 17.99007955837957
+   },
+   {
+    "ano": 2026,
+    "pt_ganhou_mais_votos_em_pct": 93.84311613713875,
+    "pt_ganhou_mais_votos_em": 5228,
+    "municipios": 5571,
+    "parte_do_pt_Centro-Oeste": 62.10196188372417,
+    "parte_do_pt_Nordeste": 88.13926242489066,
+    "parte_do_pt_Norte": 97.10940028762595,
+    "parte_do_pt_Sudeste": 71.1663880745268,
+    "parte_do_pt_Sul": 60.59517428467383
+   }
+  ],
+  "pesquisas_antes_e_depois": {
+   "institutos": 13,
+   "variacao_media": 0.25128228636639816,
+   "media_antes": 48.70411795415056,
+   "media_depois": 49.11789168601616,
+   "pares": [
+    {
+     "instituto": "DataTrends",
+     "antes": 48.42,
+     "depois": 47.92
+    },
+    {
+     "instituto": "Datafolha",
+     "antes": 48.91,
+     "depois": 49.47
+    },
+    {
+     "instituto": "Futura",
+     "antes": 49.58,
+     "depois": 49.84
+    },
+    {
+     "instituto": "Gerp",
+     "antes": 47.37,
+     "depois": 48.42
+    },
+    {
+     "instituto": "Indexa",
+     "antes": 48.84,
+     "depois": 49.38
+    },
+    {
+     "instituto": "Ipespe",
+     "antes": 48.94,
+     "depois": 49.47
+    },
+    {
+     "instituto": "MDA",
+     "antes": 49.51,
+     "depois": 49.29
+    },
+    {
+     "instituto": "Nexus",
+     "antes": 49.68,
+     "depois": 49.46
+    },
+    {
+     "instituto": "Palver",
+     "antes": 49.49,
+     "depois": 49.49
+    },
+    {
+     "instituto": "PoderData",
+     "antes": 48.42,
+     "depois": 49.48
+    },
+    {
+     "instituto": "Quaest",
+     "antes": 48.89,
+     "depois": 49.45
+    },
+    {
+     "instituto": "Verita",
+     "antes": 48.97,
+     "depois": 48.98
+    },
+    {
+     "instituto": "Vox Brasil",
+     "antes": 50.99,
+     "depois": 50.61
+    }
+   ]
+  }
+ }
+}

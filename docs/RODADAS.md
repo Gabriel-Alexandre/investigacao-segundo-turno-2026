@@ -123,3 +123,29 @@ O autor mandou um vídeo que circulou em 26/10: uma live de um professor de mate
 - **Teste de integridade do 2º turno** (urnas sorteadas que recebem, no dia da votação, votos em papel digitados à vista e comparados com o boletim): sem divergência no TSE e nas 33 urnas de São Paulo; o relatório do TCU com as 27 UFs sai em até 30 dias. Fontes: [TSE](https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/teste-de-integridade-do-2o-turno-no-tse-confirma-correspondencia-entre-cedulas-e-votos-nas-urnas), [TRE-SP](https://www.tre-sp.jus.br/comunicacao/noticias/2026/Outubro/teste-de-integridade-das-urnas-no-2o-turno-e-concluido-sem-divergencias-em-sao-paulo), [TCU](https://portal.tcu.gov.br/imprensa/noticias/eleicoes-2026-tcu-acompanha-testes-de-integridade-das-urnas-eletronicas).
 - **O Flávio desistiu de pedir a anulação** em 26/10 e a campanha passou a ações por abuso de poder. Fontes: [Metrópoles](https://www.metropoles.com/brasil/flavio-nao-vai-mais-pedir-anulacao-da-eleicao-dizem-aliados-e-juridico), [InfoMoney](https://www.infomoney.com.br/politica/flavio-nao-reconhece-resultado-da-eleicao-e-diz-que-pedira-anulacao-ao-tse/).
 - **A missão da OEA** disse no dia da votação que o sistema é robusto; o relatório preliminar do 2º turno ainda não saiu. Fonte: [Poder360](https://www.poder360.com.br/poder-eleicoes-2026/chefe-da-oea-diz-que-sistema-eleitoral-brasileiro-e-muito-solido/).
+
+## Rodada 7 · 27/10/2026 (o vídeo do professor lido de novo, e os pesos da conclusão)
+
+Pelo retorno do autor ao roteiro (`ferramentas/rodada-7.py`, `resultados/rodada7.json`).
+
+**R7a, a curva "programada".** A rodada 6 leu mal a crítica principal do vídeo: ela não era sobre embaralhar a ordem das urnas, e sim que, com zoom, a linha do Bolsonaro de 2022 desce em ritmo constante, com vales que parecem regulares, *"como se fosse um programa"* penalizando o candidato. O teste certo refaz a curva com o resultado que cada seção teria se repetisse o próprio 1º turno (com a mudança do país entre os turnos somada igual em todas), na mesma ordem de chegada:
+
+| | 2022 | 2026 |
+|---|---|---|
+| seções casadas com o 1º turno | 100.0% | 100.0% |
+| correlação entre a curva real e a prevista (depois de 1% das seções) | 0.9997 | 0.996 |
+| diferença média entre as duas | 0.38 ponto | 0.083 ponto |
+| trocas de liderança na real | 18:43 | 19:44, 20:23 |
+| trocas de liderança na prevista | 18:57 | 19:44, 20:25 |
+
+No trecho do vídeo (seções 55 mil a 90 mil de 2022), a curva real desce 0.0643 ponto a cada 10 mil seções e a prevista 0.0748; as 10 maiores quedas da real aparecem também na prevista (10 de 10). **Leitura:** a descida em ritmo constante e os vales são a ordem em que as seções chegaram, com cada seção votando parecido com ela mesma no 1º turno; uma curva acumulada de centenas de milhares de seções anda sempre em linha quase reta, porque cada seção nova mexe pouco na média. O que fica fora deste teste: um ajuste igual no 1º e no 2º turno, que ele não separa. Os números da rodada 6 (embaralhamento e quedas) continuam valendo; a leitura deles como resposta ao vídeo é que fica substituída por esta.
+
+**R7b, os pesos da conclusão (emenda 4).** A conclusão por critério passa a pesar, nesta ordem, o comportamento dos votos (os 3 sinais e o que sai do padrão de 2002 a 2022, inclusive o que o projeto do vídeo 19 mediu, cópia com sha256 em `dados/copias/RESUMO_video19.json`), a raridade e, por último, os arquivos das urnas, que batem nas duas lentes. Os vereditos:
+
+| Critério | Peso | Veredito |
+|---|---|---|
+| o comportamento dos votos | maior | a lente do resultado legítimo fica um pouco na frente: os padrões são estranhos de verdade (o PT com 74% dos votos em disputa com quem saiu apoiando o adversário, o comparecimento subindo como nunca, 3 sinais acima do limite), mas não têm a forma que um voto acrescentado teria (concentrado num lugar, sem digital, só onde mais gente voltou a votar) |
+| a raridade | médio | a lente da fraude fica na frente: 27% de chance pelo projeto do vídeo 19, improvável e não impossível |
+| os arquivos das urnas | menor | a lente do resultado legítimo fica na frente, com peso pequeno: bater é o esperado nas duas lentes; o que pesa é o boletim impresso na seção antes de chegar ao TSE e o teste de integridade sem divergência |
+
+**Soma:** o resultado legítimo fica um pouco na frente, sem prova para nenhum lado. Há padrões estranhos e uma chance pequena; cada um tem uma explicação que já aconteceu antes. Prova de fraude não aparece no dado público, e o que esse dado não deixa ver está dentro do TSE, inclusive o processamento entre 17h e 19h, quando a divulgação parou. Anular uma eleição exige prova.

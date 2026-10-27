@@ -1,0 +1,142 @@
+{
+ "R7a_curva_prevista": {
+  "2022": {
+   "secoes": 472027,
+   "casadas_com_o_1o_turno_pct": 100.0,
+   "diferenca_media_entre_as_curvas_depois_de_1pct_pontos": 0.38,
+   "diferenca_maxima_depois_de_1pct_pontos": 0.842,
+   "correlacao_das_curvas_depois_de_1pct": 0.9997,
+   "trocas_na_prevista_depois_de_1pct": [
+    "2022-10-30 18:57"
+   ],
+   "trocas_na_real_depois_de_1pct": [
+    "2022-10-30 18:43"
+   ],
+   "trecho_do_video_55k_a_90k": {
+    "descida_real_por_10_mil_secoes_pontos": -0.0643,
+    "descida_prevista_por_10_mil_secoes_pontos": -0.0748,
+    "quanto_a_reta_explica_da_curva_real_r2": 0.859,
+    "quedas_que_tambem_aparecem_na_prevista": 10,
+    "quedas": [
+     {
+      "secao_na_ordem": 56003,
+      "queda_real_pontos": -0.0124,
+      "queda_prevista_pontos": -0.0126
+     },
+     {
+      "secao_na_ordem": 57073,
+      "queda_real_pontos": -0.011,
+      "queda_prevista_pontos": -0.0116
+     },
+     {
+      "secao_na_ordem": 57968,
+      "queda_real_pontos": -0.0102,
+      "queda_prevista_pontos": -0.0104
+     },
+     {
+      "secao_na_ordem": 59095,
+      "queda_real_pontos": -0.0097,
+      "queda_prevista_pontos": -0.0099
+     },
+     {
+      "secao_na_ordem": 60479,
+      "queda_real_pontos": -0.0155,
+      "queda_prevista_pontos": -0.0156
+     },
+     {
+      "secao_na_ordem": 61632,
+      "queda_real_pontos": -0.0084,
+      "queda_prevista_pontos": -0.009
+     },
+     {
+      "secao_na_ordem": 63140,
+      "queda_real_pontos": -0.0117,
+      "queda_prevista_pontos": -0.0116
+     },
+     {
+      "secao_na_ordem": 65037,
+      "queda_real_pontos": -0.0096,
+      "queda_prevista_pontos": -0.0097
+     },
+     {
+      "secao_na_ordem": 75417,
+      "queda_real_pontos": -0.0087,
+      "queda_prevista_pontos": -0.0089
+     },
+     {
+      "secao_na_ordem": 86946,
+      "queda_real_pontos": -0.0106,
+      "queda_prevista_pontos": -0.0104
+     }
+    ]
+   }
+  },
+  "2026": {
+   "secoes": 499207,
+   "casadas_com_o_1o_turno_pct": 100.0,
+   "diferenca_media_entre_as_curvas_depois_de_1pct_pontos": 0.083,
+   "diferenca_maxima_depois_de_1pct_pontos": 0.295,
+   "correlacao_das_curvas_depois_de_1pct": 0.996,
+   "trocas_na_prevista_depois_de_1pct": [
+    "2026-10-25 19:44",
+    "2026-10-25 20:25"
+   ],
+   "trocas_na_real_depois_de_1pct": [
+    "2026-10-25 19:44",
+    "2026-10-25 20:23"
+   ]
+  }
+ },
+ "R7b_conclusao": {
+  "emenda": 4,
+  "copia_do_projeto_do_video_19_sha256": "5c0711443888b63002732cc102f4bdb3ccb0659c33aa1697cb6d4fb2a08e28b8",
+  "criterios": [
+   {
+    "ordem": 1,
+    "nome": "o comportamento dos votos",
+    "peso": "maior",
+    "o_que_entra": "os 3 sinais deste projeto (A1, A3, A10) e o que sai do padrão de 2002 a 2022 (rodadas 4 e 5 e o projeto do vídeo 19)",
+    "a_favor_da_lente_da_fraude": [
+     "votos dos outros candidatos, de quem voltou e de quem largou branco ou nulo: o PT ficou com 73.6% com quem saiu apoiando o adversário (nunca desde 2002)",
+     "comparecimento de 78.92% para 80.78% (nunca subiu tanto desde 2002)",
+     "148.092 votos do Lula que não cabem no que estava livre na seção (3,3% da margem)",
+     "857 seções com salto de comparecimento e mais de 80% para o Lula, contra 548 esperadas pelo próprio município",
+     "1.686 seções com mais de 95% para o Lula contra 39 do Flávio"
+    ],
+    "a_favor_da_lente_legitima": [
+     "o espelho de 2022: o eleitor de quem apoiou o Lula foi 70% para o Bolsonaro",
+     "as pesquisas erraram justamente esse eleitor (projeto do vídeo 19)",
+     "nas 857 seções o voto a mais entrou com a digital do próprio eleitor (liberação sem digital menos de 1% acima do município)",
+     "2022 teve 2.369 seções acima de 95% para o Lula, e as de 2026 já eram assim no 1º turno",
+     "o ganho do Lula aparece no país inteiro, sem lugar onde se concentre, e até nos 1.133 municípios onde ninguém novo foi votar (projeto do vídeo 19)",
+     "os 3 sinais juntos ficam abaixo de 1,1 milhão de votos, menos da metade dos 2,2 milhões que virariam o resultado"
+    ],
+    "veredito": "a lente do resultado legítimo fica um pouco na frente: os padrões são estranhos de verdade, mas não têm a forma que um voto acrescentado teria (concentrado, sem digital, só onde mais gente voltou)"
+   },
+   {
+    "ordem": 2,
+    "nome": "a raridade",
+    "peso": "médio",
+    "o_que_entra": "a chance antes da votação e as regras de presidente (projeto do vídeo 19)",
+    "veredito": "a lente da fraude fica na frente: a chance do Lula era de 27% pelo vídeo 19, improvável e não impossível; as 4 regras quebraram juntas por serem o mesmo fato"
+   },
+   {
+    "ordem": 3,
+    "nome": "os arquivos das urnas",
+    "peso": "menor (emenda 4)",
+    "por_que_pesa_menos": "a lista de cada voto bater com o boletim é o esperado nas duas lentes: se a fraude acontecesse dentro do TSE, os arquivos publicados viriam iguais",
+    "a_favor_da_lente_legitima": "o boletim é impresso e afixado na seção antes de chegar ao TSE, então um ajuste dentro do TSE teria de bater com o papel de 499 mil seções; o teste de integridade do 2º turno não achou divergência",
+    "veredito": "a lente do resultado legítimo fica na frente, com peso pequeno"
+   }
+  ],
+  "soma": "o resultado legítimo fica um pouco na frente, sem prova para nenhum lado: há padrões estranhos e uma chance pequena; cada um tem uma explicação que já aconteceu antes; prova de fraude não aparece no dado público, e o que esse dado não deixa ver está dentro do TSE (inclusive o processamento entre 17h e 19h, quando a divulgação parou)",
+  "a_anulacao": "anular uma eleição exige prova, e o dado público não traz prova",
+  "sinais_detalhe": {
+   "A3_liberacao_sem_digital": {
+    "pct_nas_857": 13.62,
+    "pct_media_dos_mesmos_municipios": 12.76,
+    "diferenca_pontos": 0.86
+   }
+  }
+ }
+}

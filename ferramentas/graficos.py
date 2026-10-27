@@ -295,8 +295,34 @@ def g13_g14_curva_e_embaralhadas():
     salvar(f, "g14_os_vales_de_2022.png")
 
 
+def g15_curva_real_e_prevista():
+    import importlib.util
+    sp = importlib.util.spec_from_file_location("r7", R / "ferramentas/rodada-7.py")
+    r7 = importlib.util.module_from_spec(sp); sp.loader.exec_module(r7)
+    s = r7.ordenar(r7.r6.secoes_2026())
+    t1 = r7.primeiro_turno(2026)
+    m = s.merge(t1, on=r7.CH, how="left")
+    tot = (m.esq + m.dir).to_numpy(float)
+    p1 = (m.esq1 / (m.esq1 + m.dir1)).to_numpy(float)
+    n1 = m.esq1.sum() / (m.esq1.sum() + m.dir1.sum()); n2 = m.esq.sum() / (m.esq.sum() + m.dir.sum())
+    p1 = np.where(np.isfinite(p1), p1, n1)
+    prev = np.cumsum(tot - tot * np.clip(p1 + (n2 - n1), 0, 1)) / np.cumsum(tot) * 100
+    real = np.cumsum(m.dir.to_numpy(float)) / np.cumsum(tot) * 100
+    x = np.arange(1, len(m) + 1) / len(m) * 100
+    f = fig("A noite refeita com o voto do 1º turno", "Flávio (% dos votos dos 2): a curva real e a que sai se cada seção repetir o próprio 1º turno, na mesma ordem",
+            fonte="Fonte: TSE (boletins por seção do 1º e do 2º turno de 2026, hora de recebimento) · github.com/Gabriel-Alexandre/investigacao-segundo-turno-2026 · análise feita pelo Claude")
+    ax = f.add_axes([0.08, 0.14, 0.88, 0.66])
+    ax.plot(x[::50], real[::50], color=F, lw=3.5, label="o que a apuração mostrou")
+    ax.plot(x[::50], prev[::50], color=SINAL, lw=2.5, ls="--", label="cada seção votando como no 1º turno")
+    ax.axhline(50, color="black", lw=1, ls="--")
+    ax.set_ylim(46, 52); ax.set_xlim(1, 100)
+    ax.set_xlabel("% das seções contadas, na ordem em que chegaram"); ax.set_ylabel("Flávio (% dos votos dos 2)")
+    ax.legend(frameon=False, fontsize=20, loc="lower left")
+    salvar(f, "g15_noite_real_e_prevista.png")
+
+
 def main():
-    for g in (g01_conta, g02_origem, g03_curva, g04_testes, g05_pesquisas, g06_probabilidade, g07_polymarket, g08_cidades, g09_digital, g10_votos_livres, g11_abstencao, g12_viradas_por_ano, g13_g14_curva_e_embaralhadas):
+    for g in (g01_conta, g02_origem, g03_curva, g04_testes, g05_pesquisas, g06_probabilidade, g07_polymarket, g08_cidades, g09_digital, g10_votos_livres, g11_abstencao, g12_viradas_por_ano, g13_g14_curva_e_embaralhadas, g15_curva_real_e_prevista):
         try:
             g()
             print("ok", g.__name__)

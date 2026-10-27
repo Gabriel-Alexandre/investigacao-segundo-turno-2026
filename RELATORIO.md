@@ -57,6 +57,18 @@ Validação em 2022 (o mesmo modelo, comparado com o Datafolha de 5 a 7/10/2022)
 
 **As objeções mais fortes da acusação, calculadas** (`resultados/revisao_adversarial.json`): contando como reserva só os votos dos outros candidatos, 2.585.677 votos do Lula exigiriam eleitor novo, ex-nulo ou troca (58,4% da margem); se as 1.686 seções com mais de 95% fossem todas falsas, seriam 6,8% da margem; se o 1% de seções mais acima do previsto voltasse ao previsto, seriam 1,6% da margem.
 
+## Conclusão por critério (rodada 7, pesos da emenda 4)
+
+| Critério | Peso | Veredito |
+|---|---|---|
+| o comportamento dos votos | maior | a lente do resultado legítimo fica um pouco na frente: os padrões são estranhos de verdade, mas não têm a forma que um voto acrescentado teria (concentrado, sem digital, só onde mais gente voltou) |
+| a raridade | médio | a lente da fraude fica na frente: a chance do Lula era de 27% pelo vídeo 19, improvável e não impossível; as 4 regras quebraram juntas por serem o mesmo fato |
+| os arquivos das urnas | menor (emenda 4) | a lente do resultado legítimo fica na frente, com peso pequeno |
+
+**Soma:** o resultado legítimo fica um pouco na frente, sem prova para nenhum lado: há padrões estranhos e uma chance pequena; cada um tem uma explicação que já aconteceu antes; prova de fraude não aparece no dado público, e o que esse dado não deixa ver está dentro do TSE (inclusive o processamento entre 17h e 19h, quando a divulgação parou). Anular uma eleição exige prova, e o dado público não traz prova.
+
+**A curva da noite contra a curva prevista (rodada 7, R7a):** refeita com cada seção repetindo o próprio 1º turno, na mesma ordem de chegada, a curva prevista acompanha a real com correlação de 0.9997 em 2022 e 0.996 em 2026; em 2026 as trocas de liderança caem às 19:44, 20:25 na prevista e às 19:44, 20:23 na real; no trecho das seções 55 mil a 90 mil de 2022, as 10 maiores quedas da real aparecem também na prevista (10 de 10). A descida em ritmo constante é a ordem de chegada das seções, não um ajuste no caminho (`resultados/rodada7.json`).
+
 ## Veredito por teste (régua de cinco níveis, pré-registro §6)
 
 | Teste | Veredito | Teto do pior caso (contra a margem de 4.430.191 votos) | O que fecharia de vez |

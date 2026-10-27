@@ -41,6 +41,16 @@ def main():
     a1, a2, a3, a8, a9, a10, a11 = (r3[k] for k in ("A1_votos_sem_origem", "A2_votos_que_somem", "A3_enchimento", "A8_pausa_e_cauda", "A9_urna_trocada", "A10_unanimidades", "A11_residuos_por_municipio"))
     a4, a5, a6, a7 = (r2[k] for k in ("A4_rdv_contra_boletim", "A5_log_contra_boletim", "A6_votos_depois_das_17h", "A7_rajadas_e_liberacao_sem_digital"))
     d4 = r3["D4_cidades_que_viraram"]
+    r7 = j("rodada7.json"); c7 = r7["R7b_conclusao"]; cp7 = r7["R7a_curva_prevista"]
+    nl = chr(10)
+    conclusao_texto = "| Critério | Peso | Veredito |" + nl + "|---|---|---|" + nl + nl.join(
+        f"| {c['nome']} | {c['peso']} | {c['veredito']} |" for c in c7["criterios"]) + (
+        nl + nl + f"**Soma:** {c7['soma']}. {c7['a_anulacao'].capitalize()}." + nl + nl +
+        f"**A curva da noite contra a curva prevista (rodada 7, R7a):** refeita com cada seção repetindo o próprio 1º turno, na mesma ordem de chegada, "
+        f"a curva prevista acompanha a real com correlação de {cp7['2022']['correlacao_das_curvas_depois_de_1pct']} em 2022 e {cp7['2026']['correlacao_das_curvas_depois_de_1pct']} em 2026; "
+        f"em 2026 as trocas de liderança caem às {', '.join(x[11:] for x in cp7['2026']['trocas_na_prevista_depois_de_1pct'])} na prevista e às {', '.join(x[11:] for x in cp7['2026']['trocas_na_real_depois_de_1pct'])} na real; "
+        f"no trecho das seções 55 mil a 90 mil de 2022, as 10 maiores quedas da real aparecem também na prevista ({cp7['2022']['trecho_do_video_55k_a_90k']['quedas_que_tambem_aparecem_na_prevista']} de 10). "
+        f"A descida em ritmo constante é a ordem de chegada das seções, não um ajuste no caminho (`resultados/rodada7.json`).")
     r6a, r6b = j("rodada6_curva.json")["C1_inversoes"]
     r6q = j("rodada6_curva.json")["C2_quedas_2022"]
     r6_texto = (f"na ordem real, a liderança trocou {r6a['ordem_real']['trocas_distintas_depois_de_1pct']} vez em 2022 (às 18h43, com 67,6% das seções) "
@@ -116,6 +126,10 @@ Validação em 2022 (o mesmo modelo, comparado com o Datafolha de 5 a 7/10/2022)
 {tabela_acus}
 
 **As objeções mais fortes da acusação, calculadas** (`resultados/revisao_adversarial.json`): contando como reserva só os votos dos outros candidatos, {br(x1['excesso_lula'])} votos do Lula exigiriam eleitor novo, ex-nulo ou troca ({pct(x1['excesso_lula_contra_margem_pct'], 1)} da margem); se as {br(x3['secoes'])} seções com mais de 95% fossem todas falsas, seriam {pct(x3['contra_margem_pct'], 1)} da margem; se o 1% de seções mais acima do previsto voltasse ao previsto, seriam {pct(x4['contra_margem_pct'], 1)} da margem.
+
+## Conclusão por critério (rodada 7, pesos da emenda 4)
+
+{conclusao_texto}
 
 ## Veredito por teste (régua de cinco níveis, pré-registro §6)
 

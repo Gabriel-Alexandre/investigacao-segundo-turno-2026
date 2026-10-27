@@ -40,7 +40,7 @@ def main():
 
 ## O que a procura pela fraude achou
 
-- **Nada nos arquivos das urnas:** o registro de cada voto bate com o boletim em todas as seções; o log bate com o boletim, tirando urnas trocadas no dia; os votos depois das 17h foram {br(r2['A6_votos_depois_das_17h']['votos_depois_17h'])}, menos de 1% da margem.
+- **Nada nos arquivos das urnas (critério de menor peso desde a emenda 4, porque bater é o esperado nas duas lentes):** o registro de cada voto bate com o boletim em todas as seções; o log bate com o boletim, tirando urnas trocadas no dia; os votos depois das 17h foram {br(r2['A6_votos_depois_das_17h']['votos_depois_17h'])}, menos de 1% da margem.
 - **Três sinais passaram do limite escrito antes**, todos pequenos perto da margem de 4,43 milhões:
   - {br(a1['excesso_lula'])} votos do Lula que exigem eleitor trocando de lado ou rodízio de quem vota na seção ({br(a1['excesso_lula_contra_margem_pct'], 1)}% da margem);
   - {br(a3['dessas_lula_acima_80'])} seções com salto de comparecimento e mais de 80% para o Lula, mais do que o esperado, numa assimetria que 2022 não tinha; ali o voto a mais veio liberado pela digital do próprio eleitor;
@@ -55,7 +55,7 @@ def main():
 - **Polymarket:** o favorito ganhou {p4['favorito_ganhou']} de {p4['eleicoes']} eleições; na faixa do Flávio, perdeu 3 de 12 antes do Brasil.
 - **A combinação** (liderou o 1º turno, liderou as pesquisas e perdeu): 1 em 30 no Brasil de 2014 a 2022. Somando tudo como se fosse independente: {br(p7['a_independente_presidente_x_polymarket_x_minas'] * 100, 2)}%.
 
-Raro não quer dizer fraudado: a resposta sobre fraude está nos testes dos arquivos, não na raridade.
+Raro não quer dizer fraudado. **A conclusão (rodada 7, emenda 4):** o comportamento dos votos pesa mais, a raridade em seguida e os arquivos das urnas menos. Há padrões estranhos e uma chance pequena, cada um com uma explicação que já aconteceu antes; o resultado legítimo fica um pouco na frente, sem prova para nenhum lado. A curva da noite, que parece programada no zoom, sai quase igual quando cada seção repete o próprio 1º turno na mesma ordem (rodada 7). O que o dado público não deixa ver está dentro do TSE.
 
 Tudo refeito com código novo e outras fontes: {"passou" if va['todos_passaram'] else "não passou"}. Relatório completo: [`RELATORIO.md`](RELATORIO.md).
 """
@@ -66,11 +66,11 @@ Opinião do Claude sobre os resultados, marcada como opinião. Os números estã
 
 **Opinião 1, sobre de onde vieram os votos.** Os números apontam que a virada veio sobretudo de quem não tinha votado ou tinha anulado no 1º turno e passou a votar no Lula, e de parte dos eleitores do Cury. Isso combina com três medidas independentes: a abstenção caiu em {br(r3['D3_abstencao']['abstencao_caiu_em_pct_das_secoes'], 1)}% das seções; o ganho do Lula foi maior onde ela mais caiu; e as pesquisas erraram justamente no filtro de quem ia votar. A comparação que sustenta: o modelo de transferência dá {mi(novos)} vindos de abstenção e nulo.
 
-**Opinião 2, sobre a fraude.** Os testes que olham os arquivos de cada urna, que são onde uma fraude que muda votos teria de aparecer, não acharam nada: o registro de cada voto bate com o boletim nas {br(r2['A4_rdv_contra_boletim']['secoes_comparadas'])} seções. Os três sinais que passaram do limite medem comportamento de seção e somam, cada um, menos de 7% da margem. Para virar o resultado, uma fraude teria de mover mais de 2,2 milhões de votos sem deixar diferença entre o RDV e o boletim em nenhuma seção. A comparação que sustenta: na Venezuela de 2024 e no México de 1988, a fraude apareceu justamente porque o resultado por seção não existia ou não batia; aqui ele existe e bate.
+**Opinião 2, sobre a fraude (refeita na rodada 7, com os pesos da emenda 4).** Os arquivos de cada urna batem: o registro de cada voto bate com o boletim nas 499.177 seções. Isso pesa pouco, porque é o esperado nas duas lentes: se a fraude acontecesse dentro do TSE, os arquivos publicados viriam iguais; o que limita essa hipótese é o boletim impresso na seção antes de chegar ao TSE. O que pesa mais é o comportamento dos votos, e ali há coisa estranha de verdade: o PT com 74% dos votos em disputa quando quem saiu apoiou o adversário, o comparecimento subindo como nunca e 3 sinais acima do limite. Nenhum deles tem a forma que um voto acrescentado teria (concentrado, sem digital, só onde mais gente voltou a votar), e juntos ficam abaixo de metade do que viraria o resultado. A curva da noite, que parece programada no zoom, sai quase igual quando cada seção repete o próprio 1º turno na mesma ordem de chegada (correlação de 0,996 em 2026). Leitura: tem coisa estranha e não tem prova; o que falta ver está dentro do TSE.
 
 **Opinião 3, sobre a raridade.** Foi raro para presidente no Brasil e para quem olhava as pesquisas e a Polymarket. Não foi raro para uma disputa com 1,87 ponto de frente e o líder com 47%: nesse tamanho, metade das disputas vira, no Brasil e fora dele.
 
-**O que fica em aberto, e quem responde:** a lista de quem votou em cada seção nos dois turnos (para separar troca de eleitor de rodízio de quem vota, sinais A1 e A3) e a assinatura digital dos arquivos. As duas estão com o TSE.
+**O que fica em aberto, e quem responde:** a lista de quem votou em cada seção nos dois turnos (para separar troca de eleitor de rodízio de quem vota, sinais A1 e A3), a assinatura digital dos arquivos e o que acontece no processamento interno do TSE, inclusive entre 17h e 19h. Tudo isso está com o TSE.
 """
     (R / "docs/LEITURA_DA_IA.md").write_text(leitura, encoding="utf-8")
     ac, de = ra["acusacao"], ra["defesa"]
