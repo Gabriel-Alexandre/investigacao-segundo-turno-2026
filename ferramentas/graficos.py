@@ -224,7 +224,10 @@ def g11_abstencao():
     v = d.abstencao_variou_pontos
     ax.bar(d.ano.astype(str), v, color=[L if a == 2026 else B for a in d.ano])
     for i, x in enumerate(v):
-        ax.text(i, x + (0.12 if x > 0 else -0.35), f"{x:+.1f}".replace(".", ","), ha="center", fontsize=26, weight="bold")
+        # o rótulo negativo fica logo abaixo da barra, com folga até o ano (o -1,9 encostava no 2026)
+        ax.text(i, x + (0.12 if x > 0 else -0.12), f"{x:+.1f}".replace(".", ","), ha="center", va="bottom" if x > 0 else "top",
+                fontsize=26, weight="bold")
+    ax.set_ylim(min(v.min() - 1.0, -0.5), v.max() + 0.6)
     ax.axhline(0, color="black", lw=1)
     ax.set_yticks([])
     salvar(f, "g11_abstencao_entre_turnos.png")
@@ -233,7 +236,7 @@ def g11_abstencao():
 def g12_viradas_por_ano():
     d = pd.read_csv(R / "resultados/rodada5_municipios_por_ano.csv")
     f = fig("Cidades que viraram entre os turnos", "municípios em que o líder do 1º turno entre os 2 finalistas perdeu o 2º turno",
-            fonte="Fonte: TSE (votação por candidato e município, 2002 a 2022; boletins por seção, 2026) · github.com/Gabriel-Alexandre/investigacao-segundo-turno-2026 · análise feita pelo Claude")
+            fonte="Fonte: TSE (votos por município, 2002 a 2022; boletins por seção, 2026) · github.com/Gabriel-Alexandre/investigacao-segundo-turno-2026 · análise feita pelo Claude")
     ax = f.add_axes([0.08, 0.14, 0.88, 0.66])
     x = d.ano.astype(str)
     ax.bar(x, d.viraram_para_o_pt, color=L, label="viraram para o PT")
